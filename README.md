@@ -39,6 +39,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   frontmatter_check.py    front matter YAML hợp lệ
   content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
+  github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
   philpapers-2020.md      số liệu PhilPapers 2020, sinh từ Bảng 1–2 của bài báo chính thức
 tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
