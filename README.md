@@ -3,7 +3,7 @@
 Website triết học bằng tiếng Việt, cho người bắt đầu từ con số 0.
 Địa chỉ: <https://mtuann.github.io/logos-zero/>
 
-Site tĩnh (MkDocs 1.6.1 + Material for MkDocs 9.7.x), không có máy chủ. Các công cụ tương tác viết bằng JavaScript thuần, dữ liệu người học chỉ lưu trong `localStorage` của trình duyệt.
+Site tĩnh (ProperDocs 1.6.7, bản kế tục MkDocs 1.x, + Material for MkDocs 9.8.0; phiên bản ghim trong `uv.lock`), không có máy chủ. Các công cụ tương tác viết bằng JavaScript thuần, dữ liệu người học chỉ lưu trong `localStorage` của trình duyệt.
 
 ## Cấu trúc repo
 
@@ -62,24 +62,27 @@ HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhấ
 
 ## Chạy trên máy
 
+Cần [uv](https://docs.astral.sh/uv/). uv tự cài Python 3.13 theo `.python-version` và đúng các phiên bản trong `uv.lock`.
+
 ```bash
-python -m venv .venv && . .venv/bin/activate
-pip install -r requirements.txt
-mkdocs serve                      # http://127.0.0.1:8000/logos-zero/
+uv sync --frozen
+uv run properdocs serve -f mkdocs.yml   # http://127.0.0.1:8000/logos-zero/
 ```
+
+Không dùng uv: tạo virtualenv với Python 3.11+, `pip install -r requirements.txt` (sinh từ `uv.lock`, có hash), rồi chạy các lệnh dưới đây không kèm `uv run`. Sau khi sửa `pyproject.toml`: `uv lock`, rồi `uv export --frozen --format requirements-txt --no-emit-project -o requirements.txt`.
 
 ## Kiểm thử
 
-Cần Python 3.11+ và Node 24.15+.
+Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
 for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank; do
-  python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
+  uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
-mkdocs build --strict                  # build sạch, kiểm tra link và anchor
-python -m unittest discover -s tests   # hook, tool Python, chỉ mục
-npm test                               # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
+uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
+uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
+npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
 ```
 
 `npm test` và một phần `tests/test_indexes.py` cần thư mục `site/` đã build. CI (`.github/workflows/deploy.yml`) chạy tất cả các bước trên trước mỗi lần deploy lên GitHub Pages. `links.yml` kiểm tra link web mỗi tuần bằng lychee (chấp nhận 403 và 202 vì nhiều trang chặn bot); khi có link hỏng thì mở hoặc cập nhật một issue nhãn `link-hong`, khi hết lỗi thì tự đóng issue.

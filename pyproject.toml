@@ -1,0 +1,18 @@
+# Môi trường build của Logos. Phiên bản ghim chính xác; uv.lock giữ cả hash của từng gói.
+# Nâng phiên bản là một thay đổi riêng, phải qua kiểm tra tương đương (KE-HOACH.md mục 11).
+[project]
+name = "logos"
+version = "0.0.0"
+description = "Logos: website triết học tiếng Việt, làm lại Logos Zero theo KE-HOACH.md."
+requires-python = ">=3.11"
+dependencies = [
+  "properdocs==1.6.7",        # bản kế tục MkDocs 1.x, thay thế nguyên vẹn cho mkdocs 1.6.1
+  "mkdocs==1.6.1",            # Material vẫn nạp mkdocs làm thư viện; ghim để không bao giờ kéo bản 2.x
+  "mkdocs-material==9.8.0",   # bản cuối, hết vòng đời 5/5/2027
+  "pymdown-extensions==12.2",
+  "Markdown==3.11",
+  "PyYAML==6.0.3",
+]
+
+[tool.uv]
+package = false

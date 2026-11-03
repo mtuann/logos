@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7
-      # Chỉ kiểm link web. Link nội bộ đã được `mkdocs build --strict` kiểm trong deploy.yml; link trong
+      # Chỉ kiểm link web. Link nội bộ đã được `properdocs build --strict` kiểm trong deploy.yml; link trong
       # hình SVG viết theo URL của site đã build, nên đọc từ file .md lychee sẽ báo nhầm "File not found".
       # Chấp nhận 403 và 202: nhà xuất bản (sau doi.org), Britannica, EUR-Lex… chặn bot nhưng mở bình
       # thường trong trình duyệt. Link hỏng thật là 404, 410, lỗi tên miền hoặc hết thời gian chờ.

@@ -22,38 +22,42 @@ jobs:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
         with:
-          python-version: "3.13"
-          cache: pip
+          python-version-file: ".python-version"
       - uses: actions/setup-node@v7
         with:
           node-version: "24"
           cache: npm
-      - name: Cài đặt
+      - name: Cài đặt (đúng phiên bản trong uv.lock)
         run: |
-          pip install -r requirements.txt
+          pip install uv==0.11.32
+          uv sync --frozen
           npm ci
+      - name: Kiểm tra requirements.txt khớp uv.lock
+        run: |
+          uv export --frozen --format requirements-txt --no-emit-project -o requirements.txt
+          git diff --exit-code requirements.txt
       - name: Kiểm tra trang sinh tự động khớp dữ liệu
-        run: python tools/gen_glossary.py --check
+        run: uv run --frozen python tools/gen_glossary.py --check
       - name: Kiểm tra hình khớp mã nguồn
-        run: python tools/figures.py --check
+        run: uv run --frozen python tools/figures.py --check
       - name: Kiểm tra mục rà soát khớp dữ liệu
-        run: python tools/review_check.py --check
+        run: uv run --frozen python tools/review_check.py --check
       - name: Kiểm tra dòng thời gian khớp dữ liệu
-        run: python tools/timeline.py --check
+        run: uv run --frozen python tools/timeline.py --check
       - name: Kiểm tra sơ đồ ảnh hưởng khớp dữ liệu
-        run: python tools/influence.py --check
+        run: uv run --frozen python tools/influence.py --check
       - name: Kiểm tra trang triết gia khớp dữ liệu
-        run: python tools/philosophers.py --check
+        run: uv run --frozen python tools/philosophers.py --check
       - name: Kiểm tra sách in
-        run: python tools/book.py --check
+        run: uv run --frozen python tools/book.py --check
       - name: Kiểm tra frontmatter YAML hợp lệ
-        run: python tools/frontmatter_check.py --check
+        run: uv run --frozen python tools/frontmatter_check.py --check
       - name: Kiểm tra ngân hàng câu hỏi khớp dữ liệu
-        run: python tools/quiz_bank.py --check
+        run: uv run --frozen python tools/quiz_bank.py --check
       - name: Build (strict)
-        run: mkdocs build --strict
+        run: uv run --frozen properdocs build --strict -f mkdocs.yml
       - name: Kiểm thử Python
-        run: python -m unittest discover -s tests -v
+        run: uv run --frozen python -m unittest discover -s tests -v
       - name: Kiểm thử JavaScript, trình duyệt, khả năng tiếp cận, tìm kiếm
         run: npm test
       - name: Kích thước
