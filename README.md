@@ -38,6 +38,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   review_check.py         mục "Tình trạng rà soát" ở trang Cập nhật
   frontmatter_check.py    front matter YAML hợp lệ
   content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
+  baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   philpapers-2020.md      số liệu PhilPapers 2020, sinh từ Bảng 1–2 của bài báo chính thức
 tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
@@ -47,6 +48,7 @@ tests/
                           không có văn xuôi lọt vào khối code
 content.yml               sổ đăng ký: mỗi trang, mỗi file dữ liệu một dòng (loại, tầng, khối, sinh tự động?)
 schema/content.schema.json  giá trị cho phép của content.yml
+verification/             báo cáo nền; từ đợt 1: sổ kiểm chứng và bằng chứng
 AGENTS.md, KE-HOACH.md, ban-giao/  luật cho agent, kế hoạch làm lại, việc từng đợt (không xuất bản)
 overrides/main.html       tùy biến Material (manifest, "cập nhật lần cuối", link "Báo lỗi trang này")
 HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhất, cú pháp Markdown
