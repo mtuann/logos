@@ -220,7 +220,8 @@
   /* Kiểm tra file sao lưu do người dùng chọn. */
   function validateBackup(data) {
     if (!isObj(data)) return { ok: false, error: "File không phải là JSON object." };
-    if (data.app !== "logos-zero") return { ok: false, error: "Đây không phải bản sao lưu của Logos Zero." };
+    // Nhận cả bản sao lưu xuất từ logos-zero, để người đọc mang tiến độ sang site mới.
+    if (data.app !== "logos" && data.app !== "logos-zero") return { ok: false, error: "Đây không phải bản sao lưu của Logos Zero." };
     if (!isObj(data.state)) return { ok: false, error: "Bản sao lưu thiếu trường state." };
     return {
       ok: true,

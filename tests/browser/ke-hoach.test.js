@@ -17,12 +17,12 @@ function makePage(storage) {
   const dom = new JSDOM(
     '<!DOCTYPE html><html><head></head><body><div class="oz-ke-hoach"></div><div class="oz-bieu-do"></div></body></html>',
     {
-      url: "http://localhost/logos-zero/luyen-tap/ke-hoach/",
+      url: "http://localhost/logos/luyen-tap/ke-hoach/",
       runScripts: "dangerously",
       virtualConsole: vc,
       beforeParse(window) {
         window.addEventListener("error", (e) => errors.push(e.message));
-        if (storage) window.localStorage.setItem("logos-zero", JSON.stringify(storage));
+        if (storage) window.localStorage.setItem("logos", JSON.stringify(storage));
       },
     }
   );

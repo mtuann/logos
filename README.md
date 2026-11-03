@@ -1,7 +1,7 @@
-# Logos Zero
+# Logos
 
-Website triết học bằng tiếng Việt, cho người bắt đầu từ con số 0.
-Địa chỉ: <https://mtuann.github.io/logos-zero/>
+Website triết học bằng tiếng Việt, cho người bắt đầu từ con số 0: bản làm lại của Logos Zero theo `KE-HOACH.md`.
+Địa chỉ: <https://mtuann.github.io/logos/>. Logos Zero (<https://mtuann.github.io/logos-zero/>, repo `mtuann/logos-zero`) vẫn chạy song song, độc lập; repo này bắt đầu từ bản nhập nguyên trạng `logos-zero@ecb2bb8` (tag `v1.0-moc`).
 
 Site tĩnh (ProperDocs 1.6.7, bản kế tục MkDocs 1.x, + Material for MkDocs 9.8.0; phiên bản ghim trong `uv.lock`), không có máy chủ. Các công cụ tương tác viết bằng JavaScript thuần, dữ liệu người học chỉ lưu trong `localStorage` của trình duyệt.
 
@@ -53,7 +53,7 @@ HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhấ
 | File | Vai trò |
 |---|---|
 | `core.js` | `window.OZReady(init)`: chạy `init` mỗi lần trang hiển thị (kể cả instant navigation); `OZ.base`; nút "In bài này"; đăng ký service worker |
-| `progress.js` | một khóa `localStorage` (`logos-zero`), có phiên bản; độ chính xác EMA theo kỹ năng, lịch sử theo ngày, quiz, bài đã đọc, thẻ |
+| `progress.js` | một khóa `localStorage` (`logos`, khác khóa `logos-zero` của site cũ vì hai site cùng origin), có phiên bản; độ chính xác EMA theo kỹ năng, lịch sử theo ngày, quiz, bài đã đọc, thẻ |
 | `loader.js` | quét trang, chỉ nạp script công cụ cần thiết, đúng thứ tự (`async = false`) |
 | `util.js` | tiện ích chung: tạo DOM, xáo trộn có hạt giống, tải JSON, vùng `aria-live` |
 | `quiz.js`, `fallacy.js`, `flashcards.js`, `daily.js`, `mydata.js` | các công cụ |
@@ -66,7 +66,7 @@ Cần [uv](https://docs.astral.sh/uv/). uv tự cài Python 3.13 theo `.python-v
 
 ```bash
 uv sync --frozen
-uv run properdocs serve -f mkdocs.yml   # http://127.0.0.1:8000/logos-zero/
+uv run properdocs serve -f mkdocs.yml   # http://127.0.0.1:8000/logos/
 ```
 
 Không dùng uv: tạo virtualenv với Python 3.11+, `pip install -r requirements.txt` (sinh từ `uv.lock`, có hash), rồi chạy các lệnh dưới đây không kèm `uv run`. Sau khi sửa `pyproject.toml`: `uv lock`, rồi `uv export --frozen --format requirements-txt --no-emit-project -o requirements.txt`.

@@ -7,7 +7,7 @@ const { JSDOM, VirtualConsole, requestInterceptor } = require("jsdom");
 
 const SITE = path.join(__dirname, "../../site");
 const ORIGIN = "http://localhost";
-const BASE = "/logos-zero/";
+const BASE = "/logos/";
 
 function fileFor(url) {
   const u = new URL(url);
@@ -69,7 +69,7 @@ async function openPage(pagePath, opts = {}) {
       window.print = () => {};
       window.confirm = () => true;
       window.addEventListener("error", (e) => errors.push(e.message));
-      if (opts.storage) window.localStorage.setItem("logos-zero", JSON.stringify(opts.storage));
+      if (opts.storage) window.localStorage.setItem("logos", JSON.stringify(opts.storage));
     },
   });
   await new Promise((r) => dom.window.addEventListener("load", r));

@@ -97,7 +97,7 @@
         var M = OZ.merge;
         var data = JSON.stringify(
           {
-            app: "logos-zero",
+            app: "logos",
             version: 1,
             deviceId: M ? M.deviceId() : null,
             exported: new Date().toISOString(),
@@ -106,7 +106,7 @@
           null,
           2
         );
-        var a = U.el("a", { href: URL.createObjectURL(new Blob([data], { type: "application/json" })), download: "logos-zero-" + P.today() + ".json" });
+        var a = U.el("a", { href: URL.createObjectURL(new Blob([data], { type: "application/json" })), download: "logos-" + P.today() + ".json" });
         document.body.appendChild(a);
         a.click();
         setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
