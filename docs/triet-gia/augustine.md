@@ -1,0 +1,84 @@
+---
+title: "Augustine"
+description: "Từ cậu thiếu niên hái trộm lê cho vui đến vị giám mục viết “Tự thú”: Augustine đặt nội tâm, ý chí và cái ác vào trung tâm triết học phương Tây."
+updated: 2026-10-22
+---
+
+<!-- gen:philosophers: không sửa tay -->
+
+# Augustine
+
+**354–430** · Trung cổ · *Augustine of Hippo*
+
+Năm mười sáu tuổi, Augustine cùng đám bạn đi rung trộm cây lê gần vườn nho nhà mình. Không phải vì đói: lê ấy chẳng ngon, nhà ông có lê ngon hơn, và hái xong cả bọn ném cho lợn ăn. Gần ba mươi năm sau, trong *Tự thú* (*Confessions*), ông vẫn day dứt: điều gì khiến người ta làm điều sai chỉ vì nó sai? Câu hỏi nhỏ ấy dẫn ông tới những câu hỏi lớn về ý chí, tự do và nguồn gốc của cái ác.
+
+Ông sinh năm 354 ở Thagaste, miền Bắc Phi thuộc La Mã (nay là Souk Ahras, Algeria). Mẹ ông là một tín hữu Kitô sùng đạo; cha ông đến lúc hấp hối mới chịu rửa tội. Năm mười chín tuổi, đọc cuốn *Hortensius* của Cicero, ông say mê đi tìm sự khôn ngoan, rồi theo đạo Mani, một tôn giáo nhị nguyên, suốt chín năm. Ông dạy hùng biện ở Carthage, Rome rồi Milan, nơi những bài giảng của giám mục Ambrose và mấy cuốn sách của phái Platon dịch sang tiếng Latin cho ông một cách hiểu mới về Thượng đế và về cái ác. Mùa hè năm 386, sau một cơn khủng hoảng kéo dài, ông cải đạo; lễ Phục sinh năm 387, ông chịu phép rửa.
+
+Về lại châu Phi, năm 391, dường như ngoài ý muốn, ông được phong linh mục ở thành cảng Hippo Regius, khoảng năm 396 thành giám mục, và gắn bó ở đó tới cuối đời. Ông viết không ngừng: còn lại khoảng một trăm cuốn sách, ba trăm lá thư và sáu trăm bài giảng, phần lớn sinh ra từ những cuộc tranh luận với phái Mani, phái Donatus và phái Pelagius. Ông mất năm 430, khi người Vandal đang vây thành Hippo.
+
+Augustine sống ở cuối thời cổ đại nhưng thường được xếp là triết gia trung cổ đầu tiên, vì suốt một nghìn năm sau, thần học và triết học phương Tây gần như luôn đối thoại với ông. Anselm và Aquinas xây trên nền của ông; Pascal nói mình mượn cách nhìn về thân phận con người từ ông; Hannah Arendt viết luận án tiến sĩ về khái niệm tình yêu ở ông; còn Wittgenstein mở đầu *Philosophical Investigations* bằng một đoạn *Tự thú* để phản bác. Đọc ông hôm nay, ta gặp một người suy nghĩ ở ngôi thứ nhất: tôi lầm, tôi muốn, tôi không hiểu nổi chính mình.
+
+## Tác phẩm chính
+
+- *Contra Academicos* (386) — Chống phái Hàn lâm: phản bác hoài nghi luận; tác phẩm sớm nhất còn lại của ông
+- *De libero arbitrio* (388–k. 395) — Về sự tự do lựa chọn của ý chí: nếu Thượng đế toàn thiện thì cái ác từ đâu ra?
+- *Confessiones* (k. 397–400) — *Tự thú*: triết học viết như tự truyện, với những trang nổi tiếng về ký ức và thời gian (quyển X–XI)
+- *De trinitate* (399–419 hoặc muộn hơn) — Về Ba Ngôi: phân tích tâm trí con người như hình ảnh của Thượng đế
+- *De civitate Dei* (413–426) — *Thành phố của Thiên Chúa*: viết sau khi Rome bị cướp phá năm 410; hai “thành phố” xây trên hai thứ tình yêu
+
+## Tư tưởng chính
+
+- Tin để hiểu: đức tin đi trước về thời gian, nhưng sự hiểu mới quý hơn; lý trí có bổn phận soi sáng điều mình tin. Về sau Anselm gọi chương trình ấy là “đức tin đi tìm hiểu biết”.
+- Cái ác là sự thiếu vắng điều thiện (**thuyết thiếu vắng**, *privation theory*): cái ác không phải một “chất” do Thượng đế tạo ra, mà là sự thiếu hụt ở nơi đáng lẽ phải có điều tốt, như ý chí quay lưng khỏi điều thiện cao hơn.
+- Ân sủng và tội tổ tông: chống lại phái Pelagius, ông cho rằng sau sự sa ngã, con người không thể tự mình muốn và làm điều thiện trọn vẹn mà cần ân sủng chữa lành; quan niệm này định hình Kitô giáo phương Tây suốt nhiều thế kỷ.
+- Thời gian ở trong tâm hồn: quá khứ không còn, tương lai chưa tới, hiện tại không có bề dày; ta đo thời gian bằng ký ức, sự chú tâm và chờ đợi của chính tâm trí (*Tự thú* XI).
+- Không được nói dối, kể cả để cứu người: ông phân tám loại nói dối, loại nào cũng là tội, chỉ nặng nhẹ khác nhau, vì không ai được đổi sự sống đời đời lấy sự sống ở đời này (*De mendacio*).
+
+## Một lập luận tiêu biểu: Nếu tôi lầm, tôi tồn tại
+
+Phái Hàn lâm, những người theo **hoài nghi luận** (*skepticism*), cho rằng người khôn ngoan không nên tin chắc điều gì. Trong *Thành phố của Thiên Chúa* (XI.26), Augustine đáp bằng một lập luận ngắn (*si fallor, sum*) mà nhiều nhà nghiên cứu cho là có lẽ đã gợi hứng cho câu “Tôi tư duy, vậy tôi tồn tại” của Descartes mười hai thế kỷ sau.
+
+- **P1.** Cái gì không tồn tại thì không thể bị lừa hay lầm lẫn.
+- **P2.** Vậy nếu tôi lầm, thì tôi tồn tại.
+- **P3.** Giả sử niềm tin “tôi tồn tại” của tôi là một sự lầm: theo P2, khi ấy tôi vẫn tồn tại, nghĩa là niềm tin ấy đúng.
+- **K.** Niềm tin “tôi tồn tại” không thể sai; vậy có ít nhất một điều ta biết chắc, và khẳng định “không biết chắc được gì” của phái hoài nghi là sai.
+
+**Phản bác chính.** Các nhà phê bình đáp: thắng như vậy là thắng quá nhỏ. Lập luận chỉ cho biết có một kẻ đang nghĩ, đang lầm, chưa nói gì về thế giới bên ngoài, về thân thể, hay về việc “tôi” là gì. Một người hoài nghi cổ đại sẽ nói đó chỉ là hiểu biết về trạng thái chủ quan, không phải tri thức về thực tại.
+
+**Cách đáp lại.** Augustine chỉ cần một phản ví dụ: phái Hàn lâm nói không gì biết chắc được, nên một tri thức chắc chắn duy nhất đã đủ bác bỏ họ. Từ đó ông còn đi xa hơn: tôi biết mình tồn tại, biết rằng mình biết, và biết mình yêu hai điều ấy; tôi chắc mình đang muốn như chắc mình đang tồn tại, nên ý chí là của tôi và tôi chịu trách nhiệm về nó.
+
+!!! quote "Augustine, *Tự thú* (*Confessions*), quyển I, chương 1 — bản dịch tiếng Anh của Edward B. Pusey (1838)"
+    "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee."
+
+    "Ngài đánh thức chúng con để chúng con vui sướng ca ngợi Ngài; vì Ngài đã dựng nên chúng con cho Ngài, và lòng chúng con khắc khoải cho tới khi được nghỉ yên trong Ngài." *(bản dịch của Logos Zero)*
+
+## Hiểu lầm thường gặp
+
+- **“Theo Augustine, cái ác không có thật.”** Thực ra ông nói cái ác không phải một *thực thể*, không phải “chất liệu” do Thượng đế tạo ra, chứ không nói nó vô hại hay chỉ là ảo giác. Mù lòa là sự thiếu thị lực, nhưng không vì thế mà bớt đau đớn.
+
+## Ảnh hưởng
+
+**Chịu ảnh hưởng từ:** [Platon](platon.md).
+
+**Ảnh hưởng tới:** [Anselm xứ Canterbury](anselm.md), [Thomas Aquinas](aquinas.md), [Blaise Pascal](pascal.md), [Wittgenstein](wittgenstein.md), [Hannah Arendt](arendt.md).
+
+## Đọc thêm trên Logos Zero
+
+- [Cái ác là gì?](../cau-hoi/cai-ac.md)
+- [Thời gian có trôi không? Hay quá khứ–hiện tại–tương lai đều thật?](../cau-hoi/thoi-gian.md)
+- [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md)
+- [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)
+- [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)
+
+**Các bài khác nhắc tới Augustine:** [Chiến tranh có bao giờ chính đáng không?](../cau-hoi/chien-tranh-chinh-dang.md).
+
+## Nguồn
+
+1. Tornau, Christian, “Augustine of Hippo”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/augustine/>
+2. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
+3. Augustine, *The City of God*, tập I, bản dịch Marcus Dods, Project Gutenberg (quyển XI, chương 26). <https://www.gutenberg.org/ebooks/45304>
+4. Augustine, *On Lying* (*De mendacio*), bản dịch H. Browne, *Nicene and Post-Nicene Fathers* (1887), New Advent. <https://www.newadvent.org/fathers/1312.htm>
+
+---
+
+*[Các triết gia](index.md) · [Dòng thời gian triết học](../lich-su/dong-thoi-gian.md) · [Sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md)*

@@ -1,0 +1,78 @@
+---
+title: "Zeno xứ Citium"
+description: "Thương nhân đắm tàu trở thành người sáng lập phái Khắc kỷ: sống phù hợp với tự nhiên; chỉ đức hạnh là điều thiện, mọi thứ khác “không thiện không ác”."
+updated: 2026-10-22
+---
+
+<!-- gen:philosophers: không sửa tay -->
+
+# Zeno xứ Citium
+
+**k. 334–262 TCN** · Hy Lạp cổ đại · *Zeno of Citium*
+
+Khoảng ba mươi tuổi, một thương nhân người Citium bị đắm tàu trên đường chở thuốc nhuộm tím từ Phoenicia tới cảng Piraeus. Lên Athens, ông ngồi trong một hiệu sách đọc quyển II cuốn *Hồi ức về Socrates* của Xenophon, say mê đến mức hỏi: tìm đâu ra những người như thế? Đúng lúc ấy triết gia Crates đi ngang, người bán sách chỉ tay: “Hãy theo ông ấy.” Về sau Zeno nói: “Tôi đã có một chuyến đi suôn sẻ khi bị đắm tàu.” Chuyện do Diogenes Laërtius chép, có nhiều dị bản, nhưng nó tóm được tinh thần của người sáng lập phái Khắc kỷ: biến tai họa thành dịp học.
+
+Citium là một thành phố Hy Lạp trên đảo Cyprus, có người Phoenicia đến định cư; Crates gọi đùa Zeno là “anh chàng Phoenicia nhỏ”. Ông học Crates phái Khuyển nho, rồi Stilpo phái Megara, Xenocrates và Polemo ở Học viện, cùng nhà biện chứng Diodorus Cronus. Khoảng năm 300 TCN, ông bắt đầu giảng dạy, vừa nói vừa đi lại dưới Stoa Poikile, “hành lang vẽ” bên khu chợ Athens. Học trò ông thoạt tiên được gọi là “người theo Zeno”, sau thành “người của Stoa” — phái Khắc kỷ.
+
+Ông sống đạm bạc mà được Athens kính trọng: người ta gửi ông chìa khóa tường thành, tặng vương miện vàng, xây mộ cho ông ở Kerameikos bằng tiền công, với lời tuyên dương rằng ông khuyên thanh niên sống đức hạnh, tiết độ và lấy chính đời mình làm gương, hoàn toàn khớp với lời dạy. Theo học trò Persaeus, ông mất năm bảy mươi hai tuổi; Diogenes Laërtius chép một con số khác: chín mươi tám.
+
+Không tác phẩm nào của Zeno còn nguyên; ta biết ông qua lời trích và lời kể. Nhưng ông đã dựng bộ khung mà phái Khắc kỷ giữ gần năm thế kỷ: triết học gồm logic, vật lý và đạo đức; mục đích đời người là sống phù hợp với tự nhiên; chỉ đức hạnh là điều thiện. Cleanthes, rồi Chrysippus hệ thống hóa học thuyết; ở La Mã, Seneca, Epictetus và Marcus Aurelius làm nó sống lại. Ngày nay nhiều người tìm đến Khắc kỷ để giữ bình tĩnh giữa áp lực, phần lớn qua những người đến sau ấy — còn nền móng là của Zeno.
+
+## Tác phẩm chính
+
+- *Politeia* — *Cộng hòa*: viết khi còn theo Crates; người đương thời đùa là viết “trên đuôi chó”, ý nói còn đậm chất Khuyển nho (Diogenes Laërtius VII.4); đã mất
+- *On the Nature of Man* — *Về bản tính con người*: theo Diogenes Laërtius (VII.87), nơi Zeno lần đầu gọi mục đích đời người là “sống phù hợp với tự nhiên”; đã mất
+- von Arnim, *Stoicorum Veterum Fragmenta*, tập I (1903–1905) — bộ sưu tập chuẩn các mảnh văn và lời thuật lại về Zeno và học trò
+
+## Tư tưởng chính
+
+- **Ba phần của triết học**: logic, vật lý, đạo đức gắn với nhau; từ Zeno trở đi, phái Khắc kỷ học cả ba, vì sống tốt cần hiểu đúng thế giới và lập luận đúng.
+- **Sống phù hợp**: theo Stobaeus, Zeno nói mục đích là “sống phù hợp” — theo một lý lẽ nhất quán, không giằng xé; Diogenes Laërtius chép rằng ông nói “sống phù hợp với tự nhiên”, tức sống theo đức hạnh.
+- **Chỉ đức hạnh là điều thiện**: sức khỏe, của cải, danh tiếng “không thiện không ác” (*adiaphora*), dù có thứ “được ưu tiên”. Đó là chỗ Zeno dung hòa Polemo của Học viện (có những điều tốt bên ngoài) với Stilpo phái Megara (không gì bên ngoài là tốt hay xấu).
+- **Lập luận gọn và phép nhại**: Zeno thích những tam đoạn luận ngắn như “cái biết suy luận tốt hơn cái không biết suy luận; không gì tốt hơn vũ trụ; vậy vũ trụ biết suy luận”. Cicero, qua nhân vật Cotta, nhại lại: theo kiểu ấy thì vũ trụ cũng biết đọc sách. Giữ cấu trúc, thay nội dung — một cách thử lập luận.
+
+## Một lập luận tiêu biểu: Sức khỏe và tiền bạc không phải là điều thiện
+
+Zeno không để lại văn bản trình bày lập luận này; Diogenes Laërtius (VII.102–103) chép nó như học thuyết chung của các nhà Khắc kỷ thời đầu, dựng trên luận điểm của Zeno.
+
+- **P1.** Cái thật sự tốt thì tự bản chất luôn đem lại lợi ích, như cái nóng luôn làm ấm, không bao giờ làm lạnh.
+- **P2.** Của cải và sức khỏe có thể dùng vào việc tốt lẫn việc xấu: chúng không đem lại lợi ích nhiều hơn tác hại.
+- **P3.** Chỉ đức hạnh — sự khôn ngoan biết dùng mọi thứ cho đúng — là luôn đem lại lợi ích.
+- **K.** Vậy của cải, sức khỏe, danh tiếng không phải điều thiện mà “không thiện không ác” (dù vẫn “được ưu tiên”); chỉ đức hạnh là thiện.
+
+**Phản bác chính.** Các nhà phê bình thời cổ thuộc Học viện và phái Peripatetic cho rằng đây chỉ là trò đổi tên: nếu sức khỏe “có giá trị”, “được ưu tiên” và người khôn ngoan theo đuổi nó, thì nó là một điều tốt bên ngoài mang tên mới. Và khó tin rằng một người đức hạnh bị tra tấn vẫn hạnh phúc trọn vẹn — điều Aristotle cho là không ai chấp nhận nổi.
+
+**Cách đáp lại.** Người Khắc kỷ đáp: khác biệt nằm ở cách sống, không ở chữ. Người khôn ngoan chọn sức khỏe vì đó là lựa chọn hợp lý, nhưng kết quả — thật sự khỏe hay không — không làm đời họ tốt hay xấu hơn; như người múa giỏi, điều đáng kể là múa đúng, không phải thứ gì giành được bên ngoài. Vì thế mất sức khỏe hay của cải không lấy đi hạnh phúc của họ.
+
+!!! quote "Diogenes Laërtius, *Lives of the Eminent Philosophers* VII.87 — bản dịch tiếng Anh của R. D. Hicks (1925)"
+    "This is why Zeno was the first (in his treatise On the Nature of Man) to designate as the end “life in agreement with nature” (or living agreeably to nature), which is the same as a virtuous life, virtue being the goal towards which nature guides us."
+
+    "Vì thế Zeno là người đầu tiên (trong chuyên luận *Về bản tính con người*) xác định mục đích là “sống phù hợp với tự nhiên” (hay sống thuận theo tự nhiên), điều cũng chính là sống theo đức hạnh, vì đức hạnh là đích mà tự nhiên dẫn ta tới." *(bản dịch của Logos Zero)*
+
+## Hiểu lầm thường gặp
+
+- **“Zeno dạy phân biệt điều trong và ngoài tầm kiểm soát.”** Thực ra công thức nổi tiếng ấy mở đầu *Cẩm nang* của Epictetus, người sống hơn ba trăm năm sau. Zeno nói bằng ngôn ngữ khác: chỉ đức hạnh là thiện, còn sức khỏe, của cải, danh tiếng “không thiện không ác” — nền móng mà Epictetus về sau dựa vào.
+- **“Người Khắc kỷ đè nén mọi cảm xúc, sống như cỗ máy.”** Thực ra họ muốn diệt những cảm xúc sinh từ phán đoán sai, như sợ mất của cải vì tưởng đó là điều xấu. Người hiền triết Khắc kỷ vẫn có “cảm xúc tốt”: niềm vui, sự thận trọng, lòng mong muốn điều tốt.
+
+## Ảnh hưởng
+
+**Chịu ảnh hưởng từ:** [Socrates](socrates.md).
+
+**Ảnh hưởng tới:** [Epictetus](epictetus.md), [Marcus Aurelius](marcus-aurelius.md).
+
+## Đọc thêm trên Logos Zero
+
+- [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)
+- [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
+
+## Nguồn
+
+1. Durand, Marion, Simon Shogry & Dirk Baltzly, “Stoicism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/stoicism/>
+2. Pigliucci, Massimo, “Stoicism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/stoicism/>
+3. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển VII, bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII>
+4. Cicero, *On the Nature of the Gods* III.22–23, bản dịch C. D. Yonge, Project Gutenberg. <https://www.gutenberg.org/ebooks/14988>
+5. Epictetus, *The Enchiridion*, bản dịch Thomas Wentworth Higginson, Project Gutenberg. <https://www.gutenberg.org/ebooks/45109>
+
+---
+
+*[Các triết gia](index.md) · [Dòng thời gian triết học](../lich-su/dong-thoi-gian.md) · [Sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md)*

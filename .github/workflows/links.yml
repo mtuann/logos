@@ -1,0 +1,57 @@
+name: Kiểm tra link hằng tuần
+
+on:
+  schedule:
+    - cron: "0 2 * * 1" # 9 giờ sáng thứ Hai, giờ Việt Nam
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      # Chỉ kiểm link web. Link nội bộ đã được `mkdocs build --strict` kiểm trong deploy.yml; link trong
+      # hình SVG viết theo URL của site đã build, nên đọc từ file .md lychee sẽ báo nhầm "File not found".
+      # Chấp nhận 403 và 202: nhà xuất bản (sau doi.org), Britannica, EUR-Lex… chặn bot nhưng mở bình
+      # thường trong trình duyệt. Link hỏng thật là 404, 410, lỗi tên miền hoặc hết thời gian chờ.
+      # sach.md sinh tự động, chỉ chép lại link của các bài.
+      - name: Kiểm tra link
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --max-concurrency 4
+            --scheme https --scheme http
+            --accept 200,202,206,403,429
+            --exclude-path docs/assets --exclude-path docs/them/sach.md
+            --exclude "^https://survey2020\.philpeople\.org"
+            --exclude "^https://philpapers\.org" --exclude "^https://www\.youtube\.com"
+            "docs/**/*.md"
+          fail: false
+      - name: Tìm issue link hỏng đang mở
+        id: issue
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label link-hong --state open --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+      - name: Mở issue, hoặc cập nhật issue đang mở, khi có link hỏng
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Link hỏng (kiểm tra hằng tuần)
+          content-filepath: ./lychee/out.md
+          labels: link-hong
+          issue-number: ${{ steps.issue.outputs.number }}
+      - name: Đóng issue khi không còn link hỏng
+        if: steps.lychee.outputs.exit_code == 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          for n in $(gh issue list --repo "$GITHUB_REPOSITORY" --label link-hong --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" --comment "Lần kiểm tra $RUN_URL không còn link hỏng."
+          done

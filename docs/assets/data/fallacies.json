@@ -1,0 +1,2228 @@
+{
+ "version": 1,
+ "updated": "2026-10-13",
+ "types": [
+  {
+   "id": "ad-hominem",
+   "vi": "Công kích cá nhân",
+   "en": "Ad hominem",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Bác bỏ một lập luận bằng cách tấn công người nói ra nó (tính cách, đời tư, xuất thân, động cơ) thay vì xem xét chính lập luận.",
+   "pattern": "A nói X. A là người [đáng chê]. Vậy X sai.",
+   "example": "“Ý kiến của Minh về quỹ lớp chẳng đáng nghe, cậu ấy học dốt toán mà.”",
+   "not_fallacy_when": "Khi phẩm chất của người nói thực sự liên quan đến điều đang xét, chẳng hạn đánh giá độ tin cậy của một nhân chứng từng khai sai, hoặc chỉ ra xung đột lợi ích để đề nghị kiểm tra thêm bằng chứng (chứ không phải để bác bỏ ngay)."
+  },
+  {
+   "id": "tu-quoque",
+   "vi": "Anh cũng vậy",
+   "en": "Tu quoque",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Gạt bỏ một lời phê bình bằng cách chỉ ra người phê bình cũng làm điều tương tự. Người nói thiếu nhất quán không làm cho điều họ nói trở thành sai.",
+   "pattern": "A bảo tôi không nên làm X. Nhưng A cũng làm X. Vậy tôi không cần nghe A.",
+   "example": "“Bố bảo con bỏ thuốc lá à? Bố hút một bao mỗi ngày đấy thôi.”",
+   "not_fallacy_when": "Khi câu hỏi đang bàn chính là sự nhất quán hay mức đáng tin của người nói (ví dụ: có nên tin lời hứa của họ không), chứ không phải khẳng định của họ đúng hay sai."
+  },
+  {
+   "id": "straw-man",
+   "vi": "Người rơm",
+   "en": "Straw man",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Xuyên tạc, phóng đại hoặc đơn giản hóa lập trường của người khác thành một phiên bản dễ đánh đổ hơn, rồi bác bỏ phiên bản đó.",
+   "pattern": "A nói X. [Diễn đạt lại X thành X' cực đoan]. X' vô lý. Vậy A sai.",
+   "example": "Lan đề xuất giảm bớt bài tập về nhà. — “Vậy là em muốn học sinh khỏi phải học gì nữa à?”",
+   "not_fallacy_when": "Khi cách diễn đạt lại trung thành với lập trường gốc, hoặc khi người nói chỉ ra một hệ quả mà lập trường kia thực sự kéo theo."
+  },
+  {
+   "id": "red-herring",
+   "vi": "Đánh lạc hướng",
+   "en": "Red herring",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Đưa vào một vấn đề khác, nghe có vẻ liên quan, để kéo cuộc trao đổi rời khỏi câu hỏi đang bàn.",
+   "pattern": "Câu hỏi là X. [Trả lời bằng chuyện Y]. (X bị bỏ ngỏ.)",
+   "example": "Được hỏi vì sao dự án trễ hạn, trưởng nhóm đáp: “Năm ngoái nhóm mình còn được giải thưởng sáng tạo đấy.”",
+   "not_fallacy_when": "Khi vấn đề mới thực sự là một phần của câu trả lời, hoặc khi hai bên đồng ý chuyển sang chủ đề khác."
+  },
+  {
+   "id": "appeal-authority",
+   "vi": "Viện dẫn thẩm quyền không phù hợp",
+   "en": "Appeal to inappropriate authority",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Dựa vào ý kiến của một người làm bằng chứng chính, trong khi người đó không có chuyên môn về vấn đề đang bàn, hoặc giới chuyên môn còn bất đồng sâu sắc.",
+   "pattern": "B (nổi tiếng, hoặc giỏi lĩnh vực khác) nói X. Vậy X đúng.",
+   "example": "“Ca sĩ ấy bảo nước ép cần tây chữa được tiểu đường, chắc là đúng.”",
+   "not_fallacy_when": "Khi viện dẫn chuyên gia đúng lĩnh vực, về một vấn đề giới chuyên môn đồng thuận khá rộng. Đó là một lý do quy nạp hợp lý, dù không phải chứng minh tuyệt đối."
+  },
+  {
+   "id": "appeal-popularity",
+   "vi": "Theo số đông",
+   "en": "Appeal to popularity (ad populum)",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Cho rằng một điều đúng hay tốt chỉ vì nhiều người tin hoặc làm theo.",
+   "pattern": "Nhiều người tin/làm X. Vậy X đúng/tốt.",
+   "example": "“Cả triệu người đã mua rồi, sản phẩm này chắc chắn hiệu quả.”",
+   "not_fallacy_when": "Khi điều đang bàn chính là sở thích hay quy ước của số đông (cả nhóm muốn đi đâu, đặt tên gì cho dễ nhớ), hoặc khi số đông chỉ được dùng như một dấu hiệu gián tiếp, có thể sai."
+  },
+  {
+   "id": "appeal-emotion",
+   "vi": "Viện dẫn cảm xúc",
+   "en": "Appeal to emotion",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Dùng cảm xúc (sợ hãi, thương hại, tội lỗi, tự hào) thay cho lý do để khiến người nghe chấp nhận kết luận.",
+   "pattern": "Hãy nghĩ đến [nỗi sợ / niềm thương / cảm giác tội lỗi]. Vậy hãy chấp nhận X.",
+   "example": "“Nếu thầy cho em trượt, mẹ em sẽ buồn lắm, thầy cho em qua môn nhé.”",
+   "not_fallacy_when": "Khi cảm xúc đi kèm lý do thật sự liên quan, ví dụ mô tả nỗi đau của người bị hại để làm rõ mức độ thiệt hại có thật."
+  },
+  {
+   "id": "appeal-nature",
+   "vi": "Viện dẫn tự nhiên",
+   "en": "Appeal to nature",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Cho rằng điều gì “tự nhiên” thì tốt, đúng hoặc an toàn, còn điều gì “nhân tạo”, “trái tự nhiên” thì xấu.",
+   "pattern": "X là tự nhiên. Vậy X tốt/an toàn/đúng.",
+   "example": "“Thuốc này chiết xuất 100% từ thảo dược thiên nhiên nên không có tác dụng phụ.”",
+   "not_fallacy_when": "Khi “tự nhiên” chỉ là lời mô tả, còn tính an toàn hay hiệu quả được chứng minh bằng bằng chứng độc lập."
+  },
+  {
+   "id": "genetic",
+   "vi": "Ngụy biện nguồn gốc",
+   "en": "Genetic fallacy",
+   "kind": "informal",
+   "group": "relevance",
+   "definition": "Đánh giá một ý tưởng, tập quán hay quy định chỉ dựa vào nguồn gốc hoặc hoàn cảnh ra đời của nó, thay vì giá trị hay bằng chứng hiện tại.",
+   "pattern": "X bắt nguồn từ Y (đáng chê hoặc đáng khen). Vậy X sai/đúng.",
+   "example": "“Ý tưởng này nảy ra từ một câu nói đùa trong bữa nhậu, nghe sao được.”",
+   "not_fallacy_when": "Khi nguồn gốc thực sự ảnh hưởng đến độ tin cậy của thông tin, ví dụ một tin bắt nguồn từ trang chuyên bịa tin. Khi đó nguồn gốc là lý do để kiểm chứng thêm, chưa phải để kết luận là sai."
+  },
+  {
+   "id": "false-dilemma",
+   "vi": "Lưỡng nan giả",
+   "en": "False dilemma",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Đưa ra chỉ hai lựa chọn như thể không còn khả năng nào khác, trong khi thực tế còn những lựa chọn khác.",
+   "pattern": "Hoặc A, hoặc B. Không phải A. Vậy B.",
+   "example": "“Hoặc con học y, hoặc con sẽ thất nghiệp.”",
+   "not_fallacy_when": "Khi các lựa chọn khác đã thực sự được xem xét và loại trừ có lý do, nên chỉ còn đúng hai khả năng."
+  },
+  {
+   "id": "slippery-slope",
+   "vi": "Dốc trơn trượt",
+   "en": "Slippery slope",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Khẳng định một bước nhỏ chắc chắn sẽ kéo theo một chuỗi hệ quả ngày càng tệ, mà không đưa ra lý do cho từng mắt xích.",
+   "pattern": "Nếu A thì B, rồi C, rồi D (thảm họa). Vậy đừng làm A.",
+   "example": "“Cho con chơi game thêm 30 phút, rồi con sẽ bỏ học, rồi hỏng cả đời.”",
+   "not_fallacy_when": "Khi từng mắt xích có cơ chế nhân quả rõ ràng và có bằng chứng, như các cảnh báo y khoa về biến chứng đã được ghi nhận."
+  },
+  {
+   "id": "begging-question",
+   "vi": "Lập luận vòng quanh",
+   "en": "Begging the question / circular reasoning",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Kết luận đã được giả định sẵn trong tiền đề, có khi chỉ được nói lại bằng lời khác, nên lập luận không đưa thêm lý do nào.",
+   "pattern": "X đúng, vì [X nói theo cách khác].",
+   "example": "“Cuốn sách này đáng tin, vì trong sách viết rằng nó không bao giờ sai.”",
+   "not_fallacy_when": "Khi tiền đề có cơ sở độc lập với kết luận, tức là người nghe có thể chấp nhận tiền đề mà không cần chấp nhận kết luận trước."
+  },
+  {
+   "id": "hasty-generalization",
+   "vi": "Khái quát vội vàng",
+   "en": "Hasty generalization",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Rút ra kết luận chung từ một mẫu quá nhỏ hoặc không đại diện.",
+   "pattern": "Vài trường hợp A có đặc điểm F. Vậy mọi A (hoặc hầu hết A) có F.",
+   "example": "“Hai người tớ quen ở quận đó đều khó tính, dân quận đó ai cũng khó tính.”",
+   "not_fallacy_when": "Khi mẫu đủ lớn, được chọn ngẫu nhiên và đại diện, còn kết luận được nêu với mức chắc chắn tương xứng."
+  },
+  {
+   "id": "post-hoc",
+   "vi": "Sau nó nên do nó",
+   "en": "Post hoc ergo propter hoc",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Cho rằng vì B xảy ra sau A nên A là nguyên nhân của B, mà không loại trừ các nguyên nhân khác hay sự trùng hợp.",
+   "pattern": "A xảy ra, rồi B xảy ra. Vậy A gây ra B.",
+   "example": "“Từ khi đeo vòng đá, tôi hết đau lưng. Vòng đá chữa đau lưng.”",
+   "not_fallacy_when": "Khi có cơ chế nhân quả hợp lý và các giải thích khác đã được loại trừ, ví dụ bằng thử nghiệm có nhóm đối chứng."
+  },
+  {
+   "id": "appeal-ignorance",
+   "vi": "Viện dẫn sự thiếu hiểu biết",
+   "en": "Appeal to ignorance",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Cho rằng một khẳng định đúng vì chưa ai chứng minh nó sai (hoặc sai vì chưa ai chứng minh nó đúng).",
+   "pattern": "Chưa ai chứng minh được không-X. Vậy X.",
+   "example": "“Chưa ai chứng minh được ma không tồn tại, vậy ma có thật.”",
+   "not_fallacy_when": "Khi đã tìm kiếm kỹ bằng phương pháp đủ mạnh mà vẫn không thấy. Khi đó “không tìm thấy” là bằng chứng thật, ví dụ một xét nghiệm đáng tin cậy cho kết quả âm tính."
+  },
+  {
+   "id": "sunk-cost",
+   "vi": "Chi phí chìm",
+   "en": "Sunk cost fallacy",
+   "kind": "informal",
+   "group": "presumption",
+   "definition": "Tiếp tục một việc chỉ vì đã bỏ nhiều tiền, thời gian, công sức vào đó, dù nhìn về phía trước thì dừng lại có lợi hơn. Khoản đã mất không lấy lại được dù ta chọn gì.",
+   "pattern": "Tôi đã đầu tư rất nhiều vào X. Vậy tôi phải tiếp tục X.",
+   "example": "“Vé xem phim mua rồi, phim dở mấy cũng phải ngồi đến hết cho khỏi phí.”",
+   "not_fallacy_when": "Khi quyết định dựa trên chi phí và lợi ích từ nay về sau, chẳng hạn phần việc còn lại rẻ mà kết quả có giá trị; khi đó tiếp tục là hợp lý, không phải vì tiếc khoản đã chi."
+  },
+  {
+   "id": "equivocation",
+   "vi": "Đánh tráo khái niệm",
+   "en": "Equivocation",
+   "kind": "informal",
+   "group": "ambiguity",
+   "definition": "Dùng một từ hay cụm từ với hai nghĩa khác nhau trong cùng một lập luận, khiến lập luận trông có vẻ hợp lệ.",
+   "pattern": "[Từ W theo nghĩa 1] … [từ W theo nghĩa 2] … Vậy kết luận.",
+   "example": "“Bác sĩ bảo bố giảm muối. Bố có ăn hạt muối nào đâu, toàn nêm bột canh, vậy là đã giảm muối rồi.”",
+   "not_fallacy_when": "Khi từ khóa giữ nguyên một nghĩa từ đầu đến cuối lập luận."
+  },
+  {
+   "id": "affirming-consequent",
+   "vi": "Khẳng định hậu kiện",
+   "en": "Affirming the consequent",
+   "kind": "formal",
+   "group": "formal",
+   "definition": "Một dạng suy luận không hợp lệ: từ “Nếu P thì Q” và “Q”, kết luận “P”. Q có thể xảy ra vì lý do khác.",
+   "pattern": "Nếu P thì Q. Q. Vậy P.",
+   "example": "“Nếu trời mưa thì sân ướt. Sân ướt. Vậy trời đã mưa.” (Có thể ai đó vừa tưới cây.)",
+   "not_fallacy_when": "Khi người nói không khẳng định chắc chắn mà đang suy luận đến lời giải thích tốt nhất, sau khi đã xét và loại trừ các khả năng khác. Lúc đó đó là suy luận quy nạp, không còn là suy diễn sai dạng."
+  },
+  {
+   "id": "denying-antecedent",
+   "vi": "Phủ định tiền kiện",
+   "en": "Denying the antecedent",
+   "kind": "formal",
+   "group": "formal",
+   "definition": "Một dạng suy luận không hợp lệ: từ “Nếu P thì Q” và “không P”, kết luận “không Q”. Q vẫn có thể xảy ra vì lý do khác.",
+   "pattern": "Nếu P thì Q. Không P. Vậy không Q.",
+   "example": "“Nếu học trường chuyên thì đỗ đại học. Em không học trường chuyên, vậy em sẽ trượt.”",
+   "not_fallacy_when": "Khi điều kiện thực chất là “chỉ khi” (P là điều kiện cần của Q), ví dụ “chỉ người có vé mới được vào”. Cũng đừng nhầm với modus tollens (phủ định hậu kiện): “Nếu P thì Q. Không Q. Vậy không P” là hợp lệ."
+  },
+  {
+   "id": "none",
+   "vi": "Không phải ngụy biện",
+   "en": "No fallacy",
+   "kind": "none",
+   "group": "none",
+   "definition": "Lập luận hợp lý: các tiền đề liên quan và hỗ trợ kết luận ở mức tương xứng, dù có thể chưa hoàn hảo. Nhiều lập luận trông giống ngụy biện nhưng thật ra đứng vững.",
+   "pattern": "Tiền đề liên quan, có cơ sở, và kết luận không đòi hỏi nhiều hơn những gì tiền đề cho phép.",
+   "example": "Bác sĩ nhi khoa khuyên không cho trẻ dưới 1 tuổi ăn mật ong, theo khuyến cáo chung của giới chuyên môn.",
+   "not_fallacy_when": ""
+  }
+ ],
+ "questions": [
+  {
+   "id": "f-001",
+   "level": 2,
+   "context": "mang-xa-hoi",
+   "passage": "Trên một diễn đàn phụ huynh, chị Hằng chia sẻ số liệu của Sở Giáo dục cho thấy tỉ lệ học sinh cận thị tăng mạnh. Một người trả lời: “Chị cho con học trường tư thì đừng có bàn chuyện học sinh trường công.”",
+   "highlight": "Chị cho con học trường tư thì đừng có bàn chuyện học sinh trường công",
+   "answer": "ad-hominem",
+   "options": [
+    "ad-hominem",
+    "hasty-generalization",
+    "appeal-authority",
+    "genetic"
+   ],
+   "explanation": "Người trả lời gạt số liệu đi vì hoàn cảnh riêng của người chia sẻ. Số liệu do Sở Giáo dục công bố, nên con chị Hằng học trường nào không làm nó đúng hơn hay sai đi.",
+   "why_not": {
+    "genetic": "Số liệu không bị bác bỏ vì nguồn gốc của nó (nguồn là Sở Giáo dục); thứ bị nhắm vào là hoàn cảnh của người chia sẻ.",
+    "appeal-authority": "Chị Hằng dẫn số liệu chính thức đúng lĩnh vực; người phản bác cũng không dựa vào thẩm quyền nào.",
+    "hasty-generalization": "Không có kết luận chung nào được rút từ vài trường hợp."
+   }
+  },
+  {
+   "id": "f-002",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Trưởng phòng: “Quy trình duyệt chi năm bước của ta là hợp lý. Nếu không hợp lý thì công ty đã không ban hành nó.” Nhân viên hỏi vì sao công ty ban hành, anh đáp: “Thì vì nó hợp lý.”",
+   "highlight": "Thì vì nó hợp lý",
+   "answer": "begging-question",
+   "options": [
+    "false-dilemma",
+    "appeal-authority",
+    "genetic",
+    "begging-question"
+   ],
+   "explanation": "Quy trình hợp lý vì công ty ban hành, công ty ban hành vì nó hợp lý: lập luận đi một vòng rồi quay về đúng chỗ xuất phát, không có lý do độc lập nào.",
+   "why_not": {
+    "appeal-authority": "Nếu dừng ở “công ty đã ban hành” thì có thể xem là dựa vào thẩm quyền; nhưng khi lý do của công ty lại chính là “vì nó hợp lý”, lập luận trở thành vòng quanh.",
+    "genetic": "Quy trình không bị đánh giá theo hoàn cảnh ra đời; nó được bảo vệ bằng chính kết luận.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra."
+   }
+  },
+  {
+   "id": "f-003",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Anh Vinh gửi kế hoạch tăng ca vào nhóm chat lúc 11 giờ đêm thứ Sáu. Sáng thứ Hai, anh nói trong cuộc họp: “Không ai phản đối trong nhóm chat, vậy là cả phòng đều đồng ý.”",
+   "highlight": "Không ai phản đối trong nhóm chat, vậy là cả phòng đều đồng ý",
+   "answer": "appeal-ignorance",
+   "options": [
+    "begging-question",
+    "hasty-generalization",
+    "appeal-popularity",
+    "appeal-ignorance"
+   ],
+   "explanation": "Không thấy ai phản đối không có nghĩa là mọi người đồng ý; tin nhắn gửi đêm thứ Sáu rất có thể chưa ai đọc. Anh Vinh suy ra sự đồng ý từ sự im lặng.",
+   "why_not": {
+    "appeal-popularity": "Anh Vinh không lấy sự đồng thuận của số đông làm bằng chứng kế hoạch tốt; anh suy ra có đồng thuận từ chỗ không thấy phản đối.",
+    "hasty-generalization": "Không có vài trường hợp được quan sát rồi khái quát; ở đây không có quan sát nào cả.",
+    "begging-question": "Kết luận không được giả định trong tiền đề."
+   }
+  },
+  {
+   "id": "f-004",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Chị Loan phản đối cho nhân viên làm việc tại nhà một ngày mỗi tuần: “Rồi người ta sẽ đòi hai ngày, ba ngày, cuối cùng chẳng ai đến công ty nữa và công ty tan rã.”",
+   "highlight": "Rồi người ta sẽ đòi hai ngày, ba ngày, cuối cùng chẳng ai đến công ty nữa",
+   "answer": "slippery-slope",
+   "options": [
+    "slippery-slope",
+    "false-dilemma",
+    "straw-man",
+    "appeal-popularity"
+   ],
+   "explanation": "Công ty luôn có thể dừng ở một ngày; không có cơ chế nào buộc chuỗi yêu cầu cứ thế tăng đến mức “tan rã”. Chị Loan đưa ra các bước mà không chứng minh bước nào.",
+   "why_not": {
+    "false-dilemma": "Chị Loan không đặt ra chỉ hai lựa chọn.",
+    "appeal-popularity": "Chị không viện dẫn số đông.",
+    "straw-man": "Chị vẫn hiểu đúng đề xuất là một ngày; lỗi là suy ra chuỗi hệ quả không có lý do."
+   }
+  },
+  {
+   "id": "f-005",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Anh Tú mua vé xem phim 150 nghìn. Xem được 20 phút, anh thấy phim rất dở và đang có việc gấp, nhưng vẫn ngồi đến hết: “Mất tiền rồi, bỏ về thì phí.”",
+   "highlight": "Mất tiền rồi, bỏ về thì phí",
+   "answer": "sunk-cost",
+   "options": [
+    "sunk-cost",
+    "false-dilemma",
+    "appeal-emotion",
+    "post-hoc"
+   ],
+   "explanation": "150 nghìn đã mất dù anh ở lại hay ra về. Ngồi tiếp chỉ thêm tốn thời gian và lỡ việc gấp; khoản tiền cũ không nên quyết định lựa chọn bây giờ.",
+   "why_not": {
+    "appeal-emotion": "Anh Tú không bị ai dùng cảm xúc để thuyết phục; anh tiếc khoản đã chi.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra sai.",
+    "post-hoc": "Không có kết luận nhân quả nào."
+   }
+  },
+  {
+   "id": "f-006",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Chị Liên thuyết phục sếp: “Công ty mình luôn đề cao sự cởi mở. Văn phòng không vách ngăn là kiểu văn phòng cởi mở nhất. Vậy bỏ hết vách ngăn là đúng tinh thần công ty.”",
+   "highlight": "Văn phòng không vách ngăn là kiểu văn phòng cởi mở nhất",
+   "answer": "equivocation",
+   "options": [
+    "false-dilemma",
+    "appeal-popularity",
+    "begging-question",
+    "equivocation"
+   ],
+   "explanation": "“Cởi mở” trong văn hóa công ty là thái độ sẵn sàng chia sẻ, lắng nghe; “cởi mở” của văn phòng là không có vách. Lập luận nối hai nghĩa khác nhau như thể là một.",
+   "why_not": {
+    "appeal-popularity": "Chị Liên không viện dẫn việc nhiều công ty làm thế.",
+    "begging-question": "Kết luận không lặp lại tiền đề; lập luận trông hợp lệ chỉ vì chữ “cởi mở” đổi nghĩa.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra."
+   }
+  },
+  {
+   "id": "f-007",
+   "level": 1,
+   "context": "mang-xa-hoi",
+   "passage": "Minh viết: “Thành phố nên làm thêm làn đường riêng cho xe đạp.” Một tài khoản bình luận: “Ra là anh muốn cấm xe máy, bắt cả triệu người đạp xe đi làm giữa trời 38 độ. Ảo tưởng!”",
+   "highlight": "Ra là anh muốn cấm xe máy, bắt cả triệu người đạp xe đi làm",
+   "answer": "straw-man",
+   "options": [
+    "red-herring",
+    "hasty-generalization",
+    "straw-man",
+    "appeal-emotion"
+   ],
+   "explanation": "Thêm làn xe đạp khác xa với cấm xe máy. Người bình luận dựng lên một lập trường Minh không hề nêu rồi chế giễu nó.",
+   "why_not": {
+    "appeal-emotion": "Có chút giọng bức xúc, nhưng bước sai cốt lõi là phát biểu sai đề xuất của Minh.",
+    "red-herring": "Người bình luận vẫn nói về chuyện xe đạp, chỉ là bóp méo nó.",
+    "hasty-generalization": "Không có kết luận chung nào được rút từ vài trường hợp."
+   }
+  },
+  {
+   "id": "f-008",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Trưởng phòng nhân sự nói: “Nhân viên nào định nghỉ việc thì sẽ xin nghỉ phép lẻ để đi phỏng vấn. Tháng này Hưng xin nghỉ phép lẻ ba lần. Vậy Hưng sắp nghỉ việc.”",
+   "highlight": "Tháng này Hưng xin nghỉ phép lẻ ba lần. Vậy Hưng sắp nghỉ việc",
+   "answer": "affirming-consequent",
+   "options": [
+    "affirming-consequent",
+    "hasty-generalization",
+    "ad-hominem",
+    "denying-antecedent"
+   ],
+   "explanation": "Kể cả khi tiền đề đầu đúng, nghỉ phép lẻ có thể vì con ốm, việc gia đình, đi khám bệnh. Khẳng định hậu kiện rồi suy ra tiền kiện là không hợp lệ.",
+   "why_not": {
+    "hasty-generalization": "Trưởng phòng không suy từ vài trường hợp ra quy luật chung; lỗi là đảo chiều một câu “nếu… thì”.",
+    "denying-antecedent": "Không có vế nào bị phủ định.",
+    "ad-hominem": "Hưng không bị công kích để bác bỏ một lập luận."
+   }
+  },
+  {
+   "id": "f-009",
+   "level": 3,
+   "context": "chinh-sach",
+   "passage": "Trong buổi đối thoại về mức phạt vứt rác bừa bãi, anh Nhân nói: “Phạt tiền là biện pháp có tác dụng răn đe, bởi vì nó khiến người dân e ngại mà không dám vứt rác bừa bãi nữa.”",
+   "highlight": "bởi vì nó khiến người dân e ngại mà không dám vứt rác bừa bãi nữa",
+   "answer": "begging-question",
+   "options": [
+    "none",
+    "begging-question",
+    "equivocation",
+    "post-hoc"
+   ],
+   "explanation": "“Có tác dụng răn đe” nghĩa chính là “khiến người ta e ngại mà không dám vi phạm”. Tiền đề chỉ nói lại kết luận bằng lời khác, không đưa bằng chứng nào cho thấy phạt tiền thật sự làm người dân bớt vứt rác.",
+   "why_not": {
+    "none": "Lập luận sẽ ổn nếu anh Nhân dẫn số liệu, chẳng hạn lượng rác giảm bao nhiêu sau khi một phường khác áp dụng mức phạt.",
+    "post-hoc": "Không có hai sự kiện nối tiếp nào được nêu ra; chỉ có một khẳng định tự lặp lại.",
+    "equivocation": "Không có từ nào đổi nghĩa giữa chừng; vấn đề là tiền đề và kết luận thực chất là một."
+   }
+  },
+  {
+   "id": "f-010",
+   "level": 3,
+   "context": "gia-dinh",
+   "passage": "Họp cư dân chung cư, chị Hạnh nói: “Mình nên lắp camera ở bãi xe, tháng này đã mất ba chiếc xe đạp.” Anh Dũng đáp: “Nói đến giám sát thì phải nhắc chuyện nhiều nước đang tranh cãi việc theo dõi điện thoại người dân, chuyện đó mới đáng lo.”",
+   "highlight": "nhiều nước đang tranh cãi việc theo dõi điện thoại người dân",
+   "answer": "red-herring",
+   "options": [
+    "red-herring",
+    "straw-man",
+    "none",
+    "slippery-slope"
+   ],
+   "explanation": "Một camera ở bãi xe chung cư và chuyện theo dõi điện thoại ở nước khác là hai vấn đề khác nhau. Anh Dũng mượn chữ “giám sát” để kéo cuộc họp sang chủ đề kia, nên đề xuất của chị Hạnh không được bàn đến.",
+   "why_not": {
+    "straw-man": "Anh Dũng không nói chị Hạnh muốn theo dõi điện thoại người dân; anh không diễn đạt lại đề xuất mà bỏ nó sang một bên.",
+    "slippery-slope": "Anh không nói lắp camera rồi sẽ dẫn tới bị theo dõi điện thoại; anh chỉ chuyển chủ đề.",
+    "none": "Nếu anh Dũng lo camera quay vào cửa nhà ai đó trong chung cư thì đó là phản biện chính đáng. Nhưng anh lại nói chuyện khác hẳn."
+   }
+  },
+  {
+   "id": "f-011",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Chị Nga nói: “Người bị cúm thì sẽ sốt. Con tôi đang sốt. Vậy con tôi bị cúm.”",
+   "highlight": "Con tôi đang sốt. Vậy con tôi bị cúm",
+   "answer": "affirming-consequent",
+   "options": [
+    "post-hoc",
+    "appeal-ignorance",
+    "affirming-consequent",
+    "denying-antecedent"
+   ],
+   "explanation": "Sốt có thể do rất nhiều bệnh khác. Từ “nếu cúm thì sốt” và “đang sốt” không suy ra được “bị cúm”.",
+   "why_not": {
+    "denying-antecedent": "Chị không nói “không cúm nên không sốt”; chị suy ngược từ hậu kiện.",
+    "post-hoc": "Không có hai sự kiện nối tiếp nào bị coi là nhân quả.",
+    "appeal-ignorance": "Chị không dựa vào việc chưa chứng minh được điều gì."
+   }
+  },
+  {
+   "id": "f-012",
+   "level": 3,
+   "context": "truong-hoc",
+   "passage": "Trong buổi nhận xét chéo, Lan góp ý rằng bài thuyết trình của nhóm Hùng dùng ba biểu đồ không ghi nguồn. Hùng đáp: “Bài của nhóm Lan tuần trước cũng có hai biểu đồ không ghi nguồn, thế thì Lan lấy tư cách gì mà nhận xét?”",
+   "highlight": "thế thì Lan lấy tư cách gì mà nhận xét?",
+   "answer": "tu-quoque",
+   "options": [
+    "hasty-generalization",
+    "none",
+    "tu-quoque",
+    "red-herring"
+   ],
+   "explanation": "Lời góp ý đúng hay sai tùy vào việc bài của nhóm Hùng có ghi nguồn hay không, không tùy vào bài của nhóm Lan. Hùng dùng lỗi của người góp ý để né lời góp ý.",
+   "why_not": {
+    "red-herring": "Hùng có kéo sang bài của nhóm Lan, nhưng mục đích là phủ nhận tư cách người phê bình vì họ mắc cùng lỗi; đó đúng là dạng “anh cũng vậy”.",
+    "none": "Nếu buổi nhận xét đang bàn xem nhóm Lan có làm gương hay không thì chuyện bài tuần trước mới liên quan. Ở đây câu hỏi là bài của nhóm Hùng.",
+    "hasty-generalization": "Hùng không rút ra kết luận chung từ vài trường hợp."
+   }
+  },
+  {
+   "id": "f-013",
+   "level": 2,
+   "context": "truong-hoc",
+   "passage": "Quy chế kỳ thi ghi: “Thí sinh chỉ được vào phòng thi khi có thẻ dự thi.” Giám thị nói với Nam: “Em không mang thẻ dự thi, nên em chưa vào phòng được.”",
+   "highlight": "Em không mang thẻ dự thi, nên em chưa vào phòng được",
+   "answer": "none",
+   "options": [
+    "appeal-authority",
+    "denying-antecedent",
+    "false-dilemma",
+    "none"
+   ],
+   "explanation": "“Chỉ khi có thẻ mới được vào” tương đương “nếu được vào thì có thẻ”. Nam không có thẻ, nên suy ra Nam không được vào: đây là modus tollens (phủ định hậu kiện), hợp lệ.",
+   "why_not": {
+    "denying-antecedent": "Phủ định tiền kiện là phủ định vế “nếu” của một câu “nếu… thì”. Ở đây “có thẻ” là điều kiện cần (vế sau của “nếu được vào thì có thẻ”), nên phủ định nó là modus tollens, không phải phủ định tiền kiện.",
+    "appeal-authority": "Giám thị áp dụng đúng quy chế của chính kỳ thi; đó không phải dựa vào người ngoài lĩnh vực.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra sai."
+   }
+  },
+  {
+   "id": "f-014",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Anh Hải đề nghị chuyển toàn bộ dữ liệu công ty lên dịch vụ lưu trữ X: “Chị giám đốc tài chính bảo dịch vụ này bảo mật tốt nhất thị trường. Chị ấy là người tính toán giỏi nhất công ty mà.”",
+   "highlight": "Chị ấy là người tính toán giỏi nhất công ty mà",
+   "answer": "appeal-authority",
+   "options": [
+    "none",
+    "ad-hominem",
+    "appeal-popularity",
+    "appeal-authority"
+   ],
+   "explanation": "Giỏi tài chính không biến chị giám đốc thành người có chuyên môn đánh giá bảo mật. Một quyết định như vậy cần ý kiến chuyên gia an ninh mạng hoặc kết quả kiểm định độc lập.",
+   "why_not": {
+    "appeal-popularity": "Anh Hải dựa vào một người, không dựa vào việc nhiều người dùng dịch vụ.",
+    "ad-hominem": "Không ai bị công kích; ngược lại, một người được tâng bốc ngoài lĩnh vực của họ.",
+    "none": "Lập luận sẽ hợp lý hơn nhiều nếu nguồn được dẫn là chuyên gia bảo mật hay một báo cáo kiểm định."
+   }
+  },
+  {
+   "id": "f-015",
+   "level": 2,
+   "context": "mang-xa-hoi",
+   "passage": "Một trang gây quỹ đăng ảnh em bé gầy gò kèm dòng chữ: “Nếu bạn lướt qua mà không chuyển khoản, bạn có ngủ ngon được không?” Trang không cho biết tài khoản nhận tiền là của ai và tiền được dùng ra sao.",
+   "highlight": "Nếu bạn lướt qua mà không chuyển khoản, bạn có ngủ ngon được không?",
+   "answer": "appeal-emotion",
+   "options": [
+    "appeal-emotion",
+    "appeal-popularity",
+    "ad-hominem",
+    "red-herring"
+   ],
+   "explanation": "Câu hỏi đánh vào cảm giác tội lỗi để thúc người đọc chuyển tiền, trong khi những thông tin cần để quyết định (ai nhận, chi tiêu thế nào) lại vắng mặt.",
+   "why_not": {
+    "ad-hominem": "Bài đăng không công kích ai để bác bỏ một lập luận.",
+    "appeal-popularity": "Bài không viện dẫn việc nhiều người đã ủng hộ.",
+    "red-herring": "Bài không né câu hỏi nào; nó dùng cảm xúc thay cho thông tin."
+   }
+  },
+  {
+   "id": "f-016",
+   "level": 1,
+   "context": "cong-so",
+   "passage": "Khách hàng hỏi vì sao đơn hàng giao trễ hai tuần. Nhân viên đáp: “Dạ, công ty em vừa được bình chọn là nơi làm việc thân thiện nhất năm nay ạ.”",
+   "highlight": "công ty em vừa được bình chọn là nơi làm việc thân thiện nhất năm nay",
+   "answer": "red-herring",
+   "options": [
+    "appeal-authority",
+    "straw-man",
+    "red-herring",
+    "appeal-popularity"
+   ],
+   "explanation": "Câu trả lời chuyển sang một thành tích chẳng liên quan gì đến việc giao hàng trễ. Câu hỏi của khách vẫn bị bỏ ngỏ.",
+   "why_not": {
+    "appeal-popularity": "Nhân viên không lấy số đông làm bằng chứng cho một kết luận về đơn hàng; chuyện bình chọn chỉ để lái câu chuyện đi.",
+    "appeal-authority": "Không có chuyên gia hay người có thẩm quyền nào được viện dẫn.",
+    "straw-man": "Câu hỏi của khách không bị xuyên tạc; nó bị né tránh."
+   }
+  },
+  {
+   "id": "f-017",
+   "level": 1,
+   "context": "cong-so",
+   "passage": "Chị Thu gạt đi đề xuất mỗi cuộc họp không quá 30 phút: “Ý tưởng này nảy ra từ một câu nói đùa trong buổi liên hoan, nghe sao được.”",
+   "highlight": "nảy ra từ một câu nói đùa trong buổi liên hoan",
+   "answer": "genetic",
+   "options": [
+    "ad-hominem",
+    "genetic",
+    "begging-question",
+    "red-herring"
+   ],
+   "explanation": "Một ý tưởng ra đời trong hoàn cảnh nào không cho biết nó tốt hay dở. Muốn đánh giá giới hạn 30 phút, cần xem nó có giúp các cuộc họp hiệu quả hơn không.",
+   "why_not": {
+    "ad-hominem": "Chị Thu không công kích ai; thứ bị dùng để bác bỏ là hoàn cảnh ra đời của ý tưởng.",
+    "red-herring": "Chị không chuyển sang chủ đề khác; chị bác bỏ đề xuất bằng một lý do sai.",
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề."
+   }
+  },
+  {
+   "id": "f-018",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Bác Lực chia sẻ trong nhóm gia đình: “Giáo sư toán nổi tiếng ấy nói nhịn ăn sáng giúp sống lâu. Người thông minh như ông ấy nói thì chắc đúng.”",
+   "highlight": "Người thông minh như ông ấy nói thì chắc đúng",
+   "answer": "appeal-authority",
+   "options": [
+    "appeal-authority",
+    "appeal-nature",
+    "hasty-generalization",
+    "genetic"
+   ],
+   "explanation": "Giỏi toán không làm ai thành chuyên gia dinh dưỡng. Muốn biết nhịn ăn sáng có giúp sống lâu không, cần nghiên cứu y học, không cần ý kiến của một nhà toán học.",
+   "why_not": {
+    "hasty-generalization": "Bác Lực không suy từ vài trường hợp ra kết luận chung; bác dựa vào uy tín một người.",
+    "genetic": "Lời khuyên không bị đánh giá theo hoàn cảnh ra đời mà theo danh tiếng của người nói, ở một lĩnh vực không phải của ông.",
+    "appeal-nature": "Không có chỗ nào nói điều gì tốt vì tự nhiên."
+   }
+  },
+  {
+   "id": "f-019",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Minh: “Anh Hùng là người trung thực.” Lan: “Sao cậu biết?” Minh: “Vì chính anh ấy bảo tớ là anh ấy không bao giờ nói dối.”",
+   "highlight": "Vì chính anh ấy bảo tớ là anh ấy không bao giờ nói dối",
+   "answer": "begging-question",
+   "options": [
+    "ad-hominem",
+    "appeal-authority",
+    "hasty-generalization",
+    "begging-question"
+   ],
+   "explanation": "Lời tự nhận của anh Hùng chỉ đáng tin nếu ta đã giả định anh trung thực, tức là giả định đúng điều cần chứng minh.",
+   "why_not": {
+    "appeal-authority": "Anh Hùng không được viện dẫn như một chuyên gia; vấn đề là lập luận quay về điểm xuất phát.",
+    "hasty-generalization": "Minh không suy từ vài trường hợp ra kết luận chung.",
+    "ad-hominem": "Không ai bị công kích."
+   }
+  },
+  {
+   "id": "f-020",
+   "level": 3,
+   "context": "gia-dinh",
+   "passage": "Ngôi nhà đã xây xong phần thô và mái. Anh Đạt mệt mỏi, muốn bán nhà dở dang. Chị Hồng tính: “Phần hoàn thiện còn lại khoảng 300 triệu. Xong thì cả nhà dọn vào ở ngay, đỡ 6 triệu tiền thuê mỗi tháng, còn bán nhà dở dang thì chỉ được giá rất thấp. Làm tiếp có lợi hơn.”",
+   "highlight": "Phần hoàn thiện còn lại khoảng 300 triệu",
+   "answer": "none",
+   "options": [
+    "false-dilemma",
+    "appeal-emotion",
+    "none",
+    "sunk-cost"
+   ],
+   "explanation": "Chị Hồng không viện dẫn số tiền đã tiêu; chị so sánh chi phí và lợi ích từ nay về sau của hai phương án. Tiếp tục vì phần còn lại đáng làm là quyết định hợp lý, không phải chi phí chìm.",
+   "why_not": {
+    "sunk-cost": "Ngụy biện chi phí chìm là tiếp tục vì tiếc khoản đã chi; chị Hồng chỉ tính phần sắp chi và phần sắp được.",
+    "false-dilemma": "Chị so sánh hai phương án đang thực sự được bàn; không có lựa chọn hiển nhiên nào bị bỏ sót.",
+    "appeal-emotion": "Lập luận dựa trên con số, không dựa trên cảm xúc."
+   }
+  },
+  {
+   "id": "f-021",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Anh Bảo đeo vòng đá phong thủy được một tuần thì hết đau lưng. Anh khoe với mọi người: “Vòng này chữa đau lưng thần kỳ!”",
+   "highlight": "Vòng này chữa đau lưng thần kỳ!",
+   "answer": "post-hoc",
+   "options": [
+    "begging-question",
+    "post-hoc",
+    "appeal-authority",
+    "appeal-nature"
+   ],
+   "explanation": "Đau lưng thường tự đỡ sau vài ngày nghỉ ngơi. Chuyện hết đau xảy ra sau khi đeo vòng không chứng minh vòng là nguyên nhân.",
+   "why_not": {
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề; anh Bảo dựa vào việc hết đau xảy ra sau khi đeo vòng.",
+    "appeal-nature": "Anh không nói vòng tốt vì là đá tự nhiên.",
+    "appeal-authority": "Anh không viện dẫn chuyên gia nào."
+   }
+  },
+  {
+   "id": "f-022",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Mẹ nói với Linh: “Hoặc con thi vào ngành y, hoặc sau này con thất nghiệp. Con chọn đi.”",
+   "highlight": "Hoặc con thi vào ngành y, hoặc sau này con thất nghiệp",
+   "answer": "false-dilemma",
+   "options": [
+    "appeal-emotion",
+    "straw-man",
+    "slippery-slope",
+    "false-dilemma"
+   ],
+   "explanation": "Còn vô số ngành nghề khác giúp Linh có việc làm. Mẹ đặt ra hai lựa chọn như thể không còn khả năng thứ ba.",
+   "why_not": {
+    "slippery-slope": "Mẹ không vẽ chuỗi hệ quả nối nhau; mẹ thu hẹp lựa chọn chỉ còn hai.",
+    "appeal-emotion": "Có áp lực, nhưng cái sai về lập luận là bỏ qua các lựa chọn khác.",
+    "straw-man": "Mẹ không bóp méo ý kiến nào của Linh."
+   }
+  },
+  {
+   "id": "f-023",
+   "level": 2,
+   "context": "chinh-sach",
+   "passage": "Bàn về đề xuất mở thêm tuyến xe buýt nhanh, một người bình luận: “Hoặc thành phố dồn hết tiền làm tàu điện ngầm, hoặc cứ chịu kẹt xe mãi. Xe buýt chỉ là chắp vá.”",
+   "highlight": "Hoặc thành phố dồn hết tiền làm tàu điện ngầm, hoặc cứ chịu kẹt xe mãi",
+   "answer": "false-dilemma",
+   "options": [
+    "false-dilemma",
+    "appeal-popularity",
+    "red-herring",
+    "straw-man"
+   ],
+   "explanation": "Giảm kẹt xe có thể kết hợp nhiều cách: xe buýt, tàu điện, điều phối giờ làm… Người bình luận gạt đi mọi khả năng trung gian.",
+   "why_not": {
+    "straw-man": "Người bình luận không bóp méo đề xuất xe buýt; họ thu hẹp lựa chọn.",
+    "red-herring": "Người bình luận vẫn bàn đúng chuyện giao thông.",
+    "appeal-popularity": "Không có chỗ nào dựa vào số đông."
+   }
+  },
+  {
+   "id": "f-024",
+   "level": 2,
+   "context": "suc-khoe",
+   "passage": "Bé Na bị sốt phát ban. Bà nội nói: “Ông nha sĩ hàng xóm bảo trẻ sốt phát ban thì phải kiêng gió, kiêng tắm. Bác sĩ nói mà con còn không tin à?”",
+   "highlight": "Bác sĩ nói mà con còn không tin à?",
+   "answer": "appeal-authority",
+   "options": [
+    "post-hoc",
+    "appeal-authority",
+    "none",
+    "appeal-popularity"
+   ],
+   "explanation": "Chữ “bác sĩ” tạo cảm giác có thẩm quyền, nhưng một nha sĩ không có chuyên môn về sốt phát ban ở trẻ. Viện dẫn một chuyên gia ngoài lĩnh vực là viện dẫn thẩm quyền không phù hợp.",
+   "why_not": {
+    "appeal-popularity": "Bà dựa vào uy tín của một người, không phải số đông.",
+    "none": "Nếu lời khuyên đến từ bác sĩ nhi khoa, theo hướng dẫn chuyên môn, thì viện dẫn ấy mới hợp lý.",
+    "post-hoc": "Không có chuyện gì được cho là nguyên nhân chỉ vì xảy ra trước."
+   }
+  },
+  {
+   "id": "f-025",
+   "level": 3,
+   "context": "cong-so",
+   "passage": "Kỹ thuật viên kiểm tra chiếc máy in hỏng: “Nếu bo mạch nguồn bị cháy thì đèn nguồn sẽ không sáng. Đèn nguồn vẫn sáng bình thường. Vậy bo mạch nguồn không bị cháy, lỗi nằm ở chỗ khác.”",
+   "highlight": "Đèn nguồn vẫn sáng bình thường. Vậy bo mạch nguồn không bị cháy",
+   "answer": "none",
+   "options": [
+    "denying-antecedent",
+    "none",
+    "affirming-consequent",
+    "hasty-generalization"
+   ],
+   "explanation": "Đây là modus tollens (phủ định hậu kiện): Nếu P thì Q; không Q; vậy không P. Dạng này hợp lệ: nếu tiền đề đúng thì kết luận chắc chắn đúng.",
+   "why_not": {
+    "denying-antecedent": "Phủ định tiền kiện là phủ định vế “nếu” (không P, vậy không Q). Ở đây vế bị phủ định là vế sau (đèn sáng, tức không Q), nên đây là modus tollens hợp lệ.",
+    "affirming-consequent": "Kỹ thuật viên không khẳng định vế sau rồi suy ngược; anh phủ định vế sau.",
+    "hasty-generalization": "Không có khái quát từ mẫu nhỏ; đây là suy diễn về một chiếc máy."
+   }
+  },
+  {
+   "id": "f-026",
+   "level": 2,
+   "context": "chinh-sach",
+   "passage": "Một cán bộ phường đề xuất tăng mức phạt đỗ ô tô trên vỉa hè. Một người dân bình luận: “Chính ông ấy vẫn đỗ ô tô trên vỉa hè trước cơ quan hằng ngày. Đề xuất này chẳng có giá trị gì.”",
+   "highlight": "Chính ông ấy vẫn đỗ ô tô trên vỉa hè trước cơ quan hằng ngày",
+   "answer": "tu-quoque",
+   "options": [
+    "slippery-slope",
+    "tu-quoque",
+    "genetic",
+    "straw-man"
+   ],
+   "explanation": "Sự không nhất quán của người đề xuất có thể đáng phê phán, nhưng nó không cho biết tăng mức phạt có giúp giải tỏa vỉa hè hay không. Gạt bỏ đề xuất vì “anh cũng vậy” là ngụy biện.",
+   "why_not": {
+    "slippery-slope": "Người bình luận không vẽ ra chuỗi hệ quả nào; họ gạt đề xuất đi vì người đề xuất cũng vi phạm.",
+    "straw-man": "Đề xuất không bị xuyên tạc; nó bị gạt đi vì hành vi của người đề xuất.",
+    "genetic": "Đề xuất không bị bác bỏ vì lịch sử hình thành của nó."
+   }
+  },
+  {
+   "id": "f-027",
+   "level": 2,
+   "context": "gia-dinh",
+   "passage": "Bác sĩ chỉ định chị Thư sinh mổ vì thai to và ngôi ngược. Bà ngoại phản đối: “Sinh con là chuyện tự nhiên của đàn bà. Mổ xẻ là đi ngược tự nhiên nên không tốt.”",
+   "highlight": "Mổ xẻ là đi ngược tự nhiên nên không tốt",
+   "answer": "appeal-nature",
+   "options": [
+    "appeal-popularity",
+    "appeal-nature",
+    "appeal-authority",
+    "genetic"
+   ],
+   "explanation": "Sinh thường là quá trình tự nhiên, nhưng điều đó không có nghĩa nó luôn an toàn hơn. Chỉ định mổ dựa trên rủi ro cụ thể của ca này; nhãn “trái tự nhiên” không trả lời được rủi ro đó.",
+   "why_not": {
+    "appeal-authority": "Bà ngoại không viện dẫn chuyên gia nào; bà còn phản đối ý kiến chuyên môn.",
+    "appeal-popularity": "Bà không dựa vào việc nhiều người làm thế, mà vào tính “tự nhiên”.",
+    "genetic": "Bà không đánh giá ý kiến bác sĩ theo nguồn gốc của nó; bà đánh giá phương pháp theo việc nó có tự nhiên hay không."
+   }
+  },
+  {
+   "id": "f-028",
+   "level": 2,
+   "context": "gia-dinh",
+   "passage": "Chị Hoa: “Mình nên bớt ăn ngoài cuối tuần, mỗi tháng tiết kiệm được hai triệu.” Anh Tùng: “Vậy là em muốn cả nhà sống khổ sở, không được hưởng thụ gì à? Anh không sống như thế được.”",
+   "highlight": "Vậy là em muốn cả nhà sống khổ sở, không được hưởng thụ gì à?",
+   "answer": "straw-man",
+   "options": [
+    "false-dilemma",
+    "appeal-emotion",
+    "straw-man",
+    "ad-hominem"
+   ],
+   "explanation": "Chị Hoa đề nghị bớt một khoản chi, anh Tùng biến nó thành “sống khổ sở, không được hưởng thụ gì” rồi phản đối phiên bản ấy, thay vì bàn chuyện có nên tiết kiệm hai triệu mỗi tháng không.",
+   "why_not": {
+    "ad-hominem": "Anh Tùng không chê con người chị Hoa để bác bỏ đề xuất; anh gán cho đề xuất một nội dung cực đoan hơn.",
+    "false-dilemma": "Anh Tùng không đặt ra hai lựa chọn duy nhất.",
+    "appeal-emotion": "Giọng có phần bức xúc, nhưng bước sai là bóp méo đề xuất, không phải dùng cảm xúc thay lý do."
+   }
+  },
+  {
+   "id": "f-029",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Bố nói với Bin: “Hôm nay cho con chơi game thêm 30 phút, mai con sẽ đòi cả tiếng, rồi bỏ bê học hành, rồi thành kẻ vô công rồi nghề.”",
+   "highlight": "rồi bỏ bê học hành, rồi thành kẻ vô công rồi nghề",
+   "answer": "slippery-slope",
+   "options": [
+    "hasty-generalization",
+    "false-dilemma",
+    "post-hoc",
+    "slippery-slope"
+   ],
+   "explanation": "Mỗi bước trong chuỗi đều không có lý do đi kèm. Thêm 30 phút chơi game không chắc chắn dẫn tới chuyện bỏ học hay thành kẻ vô công rồi nghề.",
+   "why_not": {
+    "false-dilemma": "Bố không đặt ra chỉ hai lựa chọn; bố vẽ một chuỗi hệ quả.",
+    "hasty-generalization": "Bố không suy từ vài trường hợp ra kết luận chung.",
+    "post-hoc": "Bố dự đoán tương lai, không kết luận nhân quả từ hai sự kiện đã xảy ra."
+   }
+  },
+  {
+   "id": "f-030",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Bệnh viện chia ngẫu nhiên 400 bệnh nhân cao huyết áp thành hai nhóm: một nhóm dùng thuốc mới, một nhóm dùng giả dược. Sau ba tháng, huyết áp của nhóm dùng thuốc giảm nhiều hơn rõ rệt. Các bác sĩ kết luận thuốc có tác dụng hạ huyết áp.",
+   "highlight": "Các bác sĩ kết luận thuốc có tác dụng hạ huyết áp",
+   "answer": "none",
+   "options": [
+    "none",
+    "hasty-generalization",
+    "post-hoc",
+    "appeal-authority"
+   ],
+   "explanation": "Chia ngẫu nhiên và có nhóm giả dược giúp loại trừ các giải thích khác như tự khỏi hay hiệu ứng tâm lý. Đây đúng là cách kiểm tra quan hệ nhân quả, chứ không chỉ dựa vào trình tự thời gian.",
+   "why_not": {
+    "post-hoc": "Sau nó nên do nó là chỉ dựa vào trình tự thời gian; ở đây có nhóm đối chứng để so sánh.",
+    "hasty-generalization": "400 người chia ngẫu nhiên là một mẫu có thiết kế tốt, và kết luận chỉ ở mức “có tác dụng”.",
+    "appeal-authority": "Kết luận dựa vào dữ liệu thử nghiệm, không dựa vào danh tiếng của ai."
+   }
+  },
+  {
+   "id": "f-031",
+   "level": 2,
+   "context": "gia-dinh",
+   "passage": "Từ khi nhà hàng xóm nuôi một con mèo đen, nhà bà Lý liên tục gặp chuyện xui: con trai ốm, xe máy hỏng. Bà bảo: “Tại con mèo đen đấy.”",
+   "highlight": "Tại con mèo đen đấy",
+   "answer": "post-hoc",
+   "options": [
+    "appeal-ignorance",
+    "post-hoc",
+    "appeal-nature",
+    "genetic"
+   ],
+   "explanation": "Ốm vặt và hỏng xe là chuyện nhà nào cũng gặp. Bà Lý chỉ thấy chúng xảy ra sau khi có con mèo rồi gán nhân quả, mà không có cơ chế nào nối hai thứ.",
+   "why_not": {
+    "genetic": "Bà không đánh giá một ý tưởng theo nguồn gốc của nó.",
+    "appeal-ignorance": "Bà không nói “chưa ai chứng minh mèo vô hại nên mèo gây hại”; bà dựa vào trình tự thời gian.",
+    "appeal-nature": "Bà không viện dẫn điều gì là tự nhiên."
+   }
+  },
+  {
+   "id": "f-032",
+   "level": 2,
+   "context": "chinh-sach",
+   "passage": "Từ khi phường treo thêm biển cấm bấm còi, số vụ trộm xe giảm một nửa. Chủ tịch phường phát biểu: “Biển cấm bấm còi đã góp phần giữ an ninh trật tự.” Cùng thời gian đó, công an phường bắt được một băng trộm xe chuyên nghiệp.",
+   "highlight": "Biển cấm bấm còi đã góp phần giữ an ninh trật tự",
+   "answer": "post-hoc",
+   "options": [
+    "appeal-authority",
+    "post-hoc",
+    "hasty-generalization",
+    "red-herring"
+   ],
+   "explanation": "Việc bắt được băng trộm là lời giải thích rõ ràng hơn nhiều. Số vụ trộm giảm sau khi treo biển không có nghĩa là do biển.",
+   "why_not": {
+    "red-herring": "Chủ tịch phường không né câu hỏi; ông đưa ra một kết luận nhân quả sai.",
+    "hasty-generalization": "Không có mẫu nhỏ nào bị khái quát thành quy luật chung; lỗi là nhầm trình tự thời gian thành nhân quả.",
+    "appeal-authority": "Không có chuyên gia nào được viện dẫn."
+   }
+  },
+  {
+   "id": "f-033",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Lan nói: “Tớ quen hai anh học ngành công nghệ thông tin, cả hai đều ít nói. Dân công nghệ thông tin đúng là ai cũng khép kín.”",
+   "highlight": "Dân công nghệ thông tin đúng là ai cũng khép kín",
+   "answer": "hasty-generalization",
+   "options": [
+    "hasty-generalization",
+    "post-hoc",
+    "ad-hominem",
+    "appeal-popularity"
+   ],
+   "explanation": "Hai người là một mẫu quá nhỏ và không đại diện để nói về hàng trăm nghìn người làm trong ngành.",
+   "why_not": {
+    "post-hoc": "Không có chuyện gì bị coi là nguyên nhân chỉ vì xảy ra trước.",
+    "ad-hominem": "Lan không bác bỏ lập luận của ai bằng cách công kích họ.",
+    "appeal-popularity": "Lan không viện dẫn việc nhiều người tin như vậy."
+   }
+  },
+  {
+   "id": "f-034",
+   "level": 1,
+   "context": "mang-xa-hoi",
+   "passage": "Dưới bài phân tích số liệu ô nhiễm không khí của Ngọc, một tài khoản bình luận: “Sinh viên năm hai thì biết gì mà phân tích. Mấy đứa trẻ ranh này chỉ giỏi sống ảo.”",
+   "highlight": "Mấy đứa trẻ ranh này chỉ giỏi sống ảo",
+   "answer": "ad-hominem",
+   "options": [
+    "begging-question",
+    "appeal-nature",
+    "straw-man",
+    "ad-hominem"
+   ],
+   "explanation": "Bình luận không chỉ ra số liệu hay bước suy luận nào trong bài sai; nó chỉ chê tuổi tác và lối sống của người viết. Số liệu đúng hay sai không phụ thuộc vào việc người đăng bao nhiêu tuổi.",
+   "why_not": {
+    "straw-man": "Người bình luận không diễn đạt lại lập trường của Ngọc; họ hoàn toàn bỏ qua nội dung bài.",
+    "appeal-nature": "Không có chỗ nào cho rằng điều gì tự nhiên thì tốt.",
+    "begging-question": "Không có kết luận nào được giả định sẵn trong tiền đề."
+   }
+  },
+  {
+   "id": "f-035",
+   "level": 3,
+   "context": "chinh-sach",
+   "passage": "Kỹ sư kiểm định báo cáo cây cầu cũ không còn chịu được xe tải trên 10 tấn và đề nghị cấm. Một chủ doanh nghiệp vận tải đáp: “Cấm thì hàng trăm tài xế mất việc, vợ con họ sẽ ra sao? Các anh làm ơn có chút tình người.”",
+   "highlight": "Các anh làm ơn có chút tình người",
+   "answer": "appeal-emotion",
+   "options": [
+    "appeal-popularity",
+    "slippery-slope",
+    "none",
+    "appeal-emotion"
+   ],
+   "explanation": "Sinh kế của tài xế là mối lo thật khi thiết kế chính sách hỗ trợ, nhưng nó không trả lời câu hỏi kỹ thuật: cầu có chịu nổi xe tải nặng không. Dùng lòng thương để bác bỏ một đánh giá an toàn là viện dẫn cảm xúc.",
+   "why_not": {
+    "none": "Nếu ông đề nghị lộ trình chuyển đổi hay tuyến đường thay thế cho tài xế thì đó là đóng góp chính đáng. Ở đây ông dùng cảm xúc để gạt đi kết luận về an toàn của cây cầu.",
+    "slippery-slope": "Ông chỉ nêu một hệ quả trực tiếp, không vẽ chuỗi hệ quả nối nhau.",
+    "appeal-popularity": "Ông không viện dẫn việc nhiều người tin hay làm theo."
+   }
+  },
+  {
+   "id": "f-036",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Thầy giám thị nói: “Nếu cho học sinh mặc áo khoác tùy thích vào mùa đông, rồi các em sẽ mặc gì cũng được, rồi nhuộm tóc, xăm hình, cuối cùng trường thành cái chợ.”",
+   "highlight": "rồi các em sẽ mặc gì cũng được, rồi nhuộm tóc, xăm hình, cuối cùng trường thành cái chợ",
+   "answer": "slippery-slope",
+   "options": [
+    "straw-man",
+    "appeal-emotion",
+    "begging-question",
+    "slippery-slope"
+   ],
+   "explanation": "Từ một áo khoác mùa đông đến “trường thành cái chợ” là một chuỗi bước không có lý do nào được đưa ra. Nhà trường hoàn toàn có thể cho phép áo khoác mà vẫn giữ các quy định khác.",
+   "why_not": {
+    "straw-man": "Thầy không bóp méo đề xuất; thầy suy ra một chuỗi hệ quả không có cơ sở.",
+    "appeal-emotion": "Hình ảnh cuối có gây lo lắng, nhưng lỗi chính nằm ở các mắt xích không được chứng minh.",
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề."
+   }
+  },
+  {
+   "id": "f-037",
+   "level": 2,
+   "context": "truong-hoc",
+   "passage": "Trong giờ sinh học, Vy nói: “Chữ ‘vắc-xin’ bắt nguồn từ tiếng Latin chỉ con bò, vì ngày xưa người ta lấy mủ đậu bò để chủng ngừa. Thế thì tiêm vắc-xin đúng là chuyện lạc hậu.”",
+   "highlight": "Thế thì tiêm vắc-xin đúng là chuyện lạc hậu",
+   "answer": "genetic",
+   "options": [
+    "appeal-nature",
+    "genetic",
+    "equivocation",
+    "ad-hominem"
+   ],
+   "explanation": "Lịch sử của một cái tên không nói gì về chất lượng của vắc-xin ngày nay. Vy đánh giá một thứ hiện tại dựa trên nguồn gốc của nó.",
+   "why_not": {
+    "equivocation": "Không có từ nào được dùng với hai nghĩa khác nhau trong lập luận; Vy chỉ dựa vào gốc của từ.",
+    "appeal-nature": "Vy không nói điều gì tốt hay xấu vì tự nhiên.",
+    "ad-hominem": "Không có người nào bị công kích."
+   }
+  },
+  {
+   "id": "f-038",
+   "level": 1,
+   "context": "quang-cao",
+   "passage": "Quảng cáo: “Kem trị mụn của chúng tôi chiết xuất 100% từ thảo mộc thiên nhiên, nên tuyệt đối an toàn, không gây kích ứng.”",
+   "highlight": "chiết xuất 100% từ thảo mộc thiên nhiên, nên tuyệt đối an toàn",
+   "answer": "appeal-nature",
+   "options": [
+    "appeal-nature",
+    "appeal-popularity",
+    "appeal-authority",
+    "post-hoc"
+   ],
+   "explanation": "Nhiều chất có nguồn gốc thiên nhiên vẫn gây dị ứng hay kích ứng da. “Thiên nhiên” không phải là bằng chứng của sự an toàn.",
+   "why_not": {
+    "appeal-authority": "Quảng cáo không viện dẫn chuyên gia hay người nổi tiếng.",
+    "appeal-popularity": "Quảng cáo không dựa vào số người dùng.",
+    "post-hoc": "Không có hai sự kiện nối tiếp nào bị coi là nhân quả."
+   }
+  },
+  {
+   "id": "f-039",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Thầy dặn: “Trước giờ thi, các em phải biết thả lỏng.” Bin lý luận: “Không ôn bài cũng là thả lỏng. Vậy em không ôn bài là làm đúng lời thầy.”",
+   "highlight": "Không ôn bài cũng là thả lỏng",
+   "answer": "equivocation",
+   "options": [
+    "begging-question",
+    "appeal-authority",
+    "straw-man",
+    "equivocation"
+   ],
+   "explanation": "Thầy nói “thả lỏng” theo nghĩa giữ tinh thần thoải mái; Bin dùng nó theo nghĩa buông lơ việc học. Lập luận chỉ trông hợp lệ nhờ một từ được dùng với hai nghĩa.",
+   "why_not": {
+    "begging-question": "Kết luận không được giả định sẵn; lỗi là từ “thả lỏng” đổi nghĩa giữa chừng.",
+    "appeal-authority": "Bin có dẫn lời thầy, nhưng cái sai là hiểu chữ của thầy theo nghĩa khác, không phải dựa vào người thiếu chuyên môn.",
+    "straw-man": "Bin không xuyên tạc để bác bỏ lời thầy; cậu đổi nghĩa từ để biện minh."
+   }
+  },
+  {
+   "id": "f-040",
+   "level": 3,
+   "context": "cong-so",
+   "passage": "Trong cuộc họp chọn nhà cung cấp, chị Yến nói nhà cung cấp B rẻ hơn A khoảng 15%. Anh Quân phản đối: “Chị Yến từng bị kỷ luật vì làm sai báo cáo năm ngoái, nên phương án nào chị ấy ủng hộ cũng đáng ngờ.” Bảng báo giá của cả hai bên đang nằm ngay trên bàn.",
+   "highlight": "nên phương án nào chị ấy ủng hộ cũng đáng ngờ",
+   "answer": "ad-hominem",
+   "options": [
+    "none",
+    "red-herring",
+    "genetic",
+    "ad-hominem"
+   ],
+   "explanation": "Giá của B có thể kiểm tra ngay trên bảng báo giá, nên lỗi cũ của chị Yến không làm con số ấy sai. Dùng tiền sử của chị để gạt mọi ý kiến của chị là công kích cá nhân.",
+   "why_not": {
+    "none": "Nếu chị Yến là nguồn duy nhất của con số thì nghi ngờ độ tin cậy của chị còn có lý. Nhưng ở đây báo giá kiểm chứng được tại chỗ, nên tiền sử của chị không còn liên quan.",
+    "genetic": "Anh Quân không bàn hoàn cảnh ra đời của một ý tưởng; anh nhắm vào con người chị Yến.",
+    "red-herring": "Anh Quân không chuyển sang vấn đề khác để né; anh dùng quá khứ của người nói để bác bỏ ý kiến."
+   }
+  },
+  {
+   "id": "f-041",
+   "level": 3,
+   "context": "cong-so",
+   "passage": "Sau khi máy chủ công ty bị tấn công, anh Kiên chạy thử một công cụ quét miễn phí ở chế độ quét nhanh và không thấy mã độc. Anh báo cáo: “Hệ thống hoàn toàn sạch, không cần kiểm tra thêm.”",
+   "highlight": "Hệ thống hoàn toàn sạch, không cần kiểm tra thêm",
+   "answer": "appeal-ignorance",
+   "options": [
+    "none",
+    "begging-question",
+    "post-hoc",
+    "appeal-ignorance"
+   ],
+   "explanation": "Một lần quét nhanh bằng công cụ miễn phí không đủ mạnh để phát hiện các loại mã độc tinh vi, nhất là sau một vụ tấn công thật. “Không tìm thấy” ở đây không đủ để kết luận “không có”.",
+   "why_not": {
+    "none": "Nếu đã quét toàn diện bằng công cụ chuyên dụng và chuyên gia đã rà soát nhật ký hệ thống thì “không tìm thấy” mới là bằng chứng tốt cho “không có”.",
+    "begging-question": "Kết luận không được giả định trong tiền đề; nó được suy ra từ việc không tìm thấy.",
+    "post-hoc": "Không có chuyện gì được coi là nguyên nhân chỉ vì xảy ra trước."
+   }
+  },
+  {
+   "id": "f-042",
+   "level": 3,
+   "context": "gia-dinh",
+   "passage": "Nhà bị mất trộm, Khôi lập luận: “Nếu kẻ trộm vào qua cửa sổ thì bậu cửa sổ sẽ có dấu giày. Bậu cửa sổ có dấu giày. Vậy chắc chắn kẻ trộm đã vào qua cửa sổ.” Sáng hôm đó, thợ sơn vừa đứng lên bậu để sơn khung cửa.",
+   "highlight": "Bậu cửa sổ có dấu giày. Vậy chắc chắn kẻ trộm đã vào qua cửa sổ",
+   "answer": "affirming-consequent",
+   "options": [
+    "post-hoc",
+    "affirming-consequent",
+    "none",
+    "denying-antecedent"
+   ],
+   "explanation": "Dấu giày có thể là một manh mối, nhưng có hẳn một lời giải thích khác (thợ sơn). Suy từ hậu kiện ra tiền kiện một cách “chắc chắn” là khẳng định hậu kiện.",
+   "why_not": {
+    "post-hoc": "Khôi không suy nhân quả từ trình tự thời gian; lỗi là cấu trúc “Nếu P thì Q; Q; vậy P”.",
+    "none": "Nếu Khôi chỉ nói “có thể kẻ trộm vào qua cửa sổ” sau khi đã loại trừ các khả năng khác, thì đó là suy luận đến lời giải thích tốt nhất. Chữ “chắc chắn” khi còn khả năng khác rõ ràng thì không đứng được.",
+    "denying-antecedent": "Không có vế nào bị phủ định."
+   }
+  },
+  {
+   "id": "f-043",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Người bán hàng nói: “Chưa có nghiên cứu nào chứng minh nước ion kiềm này có hại, vậy nó hoàn toàn an toàn để uống mỗi ngày.”",
+   "highlight": "Chưa có nghiên cứu nào chứng minh nước ion kiềm này có hại",
+   "answer": "appeal-ignorance",
+   "options": [
+    "appeal-ignorance",
+    "post-hoc",
+    "appeal-nature",
+    "appeal-authority"
+   ],
+   "explanation": "Chưa có nghiên cứu về tác hại có thể đơn giản là vì chưa ai nghiên cứu. “Hoàn toàn an toàn” cần bằng chứng tích cực, không thể suy ra từ sự vắng mặt của bằng chứng.",
+   "why_not": {
+    "appeal-nature": "Người bán không nói nước tốt vì tự nhiên.",
+    "appeal-authority": "Không có chuyên gia nào được viện dẫn.",
+    "post-hoc": "Không có hai sự kiện nối tiếp nào được coi là nhân quả."
+   }
+  },
+  {
+   "id": "f-044",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Bác Sơn phản đối cháu tổ chức sinh nhật có bánh kem và thổi nến: “Thổi nến là phong tục du nhập từ nước ngoài, mình là người Việt thì làm làm gì.”",
+   "highlight": "Thổi nến là phong tục du nhập từ nước ngoài",
+   "answer": "genetic",
+   "options": [
+    "appeal-nature",
+    "genetic",
+    "appeal-popularity",
+    "ad-hominem"
+   ],
+   "explanation": "Phong tục bắt nguồn từ đâu không quyết định nó có ý nghĩa với gia đình hôm nay hay không. Bác Sơn đánh giá việc thổi nến chỉ qua nguồn gốc của nó.",
+   "why_not": {
+    "appeal-nature": "Bác không nói điều gì tốt hay xấu vì tự nhiên.",
+    "ad-hominem": "Không có người nào bị công kích; đối tượng bị bác bỏ là một phong tục, vì nguồn gốc của nó.",
+    "appeal-popularity": "Bác không viện dẫn việc nhiều người làm hay không làm."
+   }
+  },
+  {
+   "id": "f-045",
+   "level": 3,
+   "context": "gia-dinh",
+   "passage": "Nội quy chung cư ghi: “Nếu là cư dân đã đăng ký thì được gửi xe ở tầng hầm.” Bảo vệ nói với khách đến chơi: “Anh không phải cư dân đăng ký, nên anh không được gửi xe ở hầm.” Nội quy còn một điều khác cho phép khách gửi xe theo giờ.",
+   "highlight": "Anh không phải cư dân đăng ký, nên anh không được gửi xe ở hầm",
+   "answer": "denying-antecedent",
+   "options": [
+    "denying-antecedent",
+    "begging-question",
+    "affirming-consequent",
+    "none"
+   ],
+   "explanation": "Câu nội quy chỉ nói đăng ký là điều kiện đủ để gửi xe, không nói nó là điều kiện cần. Từ “không phải cư dân đăng ký” không suy ra “không được gửi”, và thực tế còn điều khoản cho khách.",
+   "why_not": {
+    "affirming-consequent": "Bảo vệ không khẳng định hậu kiện; anh phủ định tiền kiện.",
+    "none": "Nếu nội quy ghi “chỉ cư dân đã đăng ký mới được gửi xe ở hầm” thì kết luận của bảo vệ hợp lệ. Câu “nếu… thì” không có nghĩa đó.",
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề."
+   }
+  },
+  {
+   "id": "f-046",
+   "level": 3,
+   "context": "cong-so",
+   "passage": "Tháng 11, công ty mở khóa học kỹ năng giao tiếp cho nhân viên bán hàng. Tháng 12, doanh số tăng 25%. Trưởng phòng đề nghị tăng gấp đôi ngân sách đào tạo vì “khóa học đã giúp doanh số tăng 25%”. Mấy năm trước, doanh số tháng 12 cũng thường tăng 20–30% nhờ mùa mua sắm cuối năm.",
+   "highlight": "khóa học đã giúp doanh số tăng 25%",
+   "answer": "post-hoc",
+   "options": [
+    "sunk-cost",
+    "hasty-generalization",
+    "post-hoc",
+    "none"
+   ],
+   "explanation": "Doanh số tháng 12 năm nào cũng tăng chừng ấy, nên mức tăng năm nay hoàn toàn có thể không liên quan đến khóa học. Trưởng phòng gán nhân quả chỉ dựa vào trình tự thời gian.",
+   "why_not": {
+    "hasty-generalization": "Trưởng phòng không khái quát từ một mẫu nhỏ ra tổng thể; lỗi là bỏ qua nguyên nhân theo mùa.",
+    "sunk-cost": "Không ai đòi tiếp tục vì tiếc khoản đã chi.",
+    "none": "Lập luận sẽ hợp lý nếu so với cùng kỳ năm trước, hoặc so với một nhóm nhân viên chưa học, và vẫn thấy mức tăng vượt trội."
+   }
+  },
+  {
+   "id": "f-047",
+   "level": 2,
+   "context": "truong-hoc",
+   "passage": "Gần như cả lớp 11A chép lời giải trên mạng cho bài tập về nhà. Khi cô giáo hỏi, Tuấn nói: “Cả lớp ai cũng làm vậy mà cô, nên em nghĩ thế là bình thường, không phải gian lận.”",
+   "highlight": "Cả lớp ai cũng làm vậy mà cô",
+   "answer": "appeal-popularity",
+   "options": [
+    "appeal-popularity",
+    "red-herring",
+    "hasty-generalization",
+    "tu-quoque"
+   ],
+   "explanation": "Việc chép bài có phải gian lận hay không phụ thuộc vào quy định và bản chất hành vi, không phụ thuộc vào số người làm. Đông người làm chỉ cho thấy lỗi phổ biến, không làm nó hết là lỗi.",
+   "why_not": {
+    "tu-quoque": "Tuấn không nói cô giáo cũng làm điều tương tự; cậu viện dẫn các bạn cùng lớp.",
+    "red-herring": "Tuấn vẫn trả lời đúng câu hỏi, chỉ là bằng một lý do sai.",
+    "hasty-generalization": "Tuấn không suy từ vài trường hợp ra kết luận chung; cậu biện minh bằng chuyện mọi người cùng làm."
+   }
+  },
+  {
+   "id": "f-048",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Giám đốc nói trong cuộc họp: “Chúng ta hoặc cắt giảm 20% nhân sự, hoặc công ty phá sản trong năm nay.” Báo cáo tài chính cho thấy còn có thể giảm tiền thuê văn phòng và hoãn mua thiết bị mới.",
+   "highlight": "Chúng ta hoặc cắt giảm 20% nhân sự, hoặc công ty phá sản trong năm nay",
+   "answer": "false-dilemma",
+   "options": [
+    "appeal-emotion",
+    "slippery-slope",
+    "false-dilemma",
+    "sunk-cost"
+   ],
+   "explanation": "Báo cáo tài chính cho thấy còn những cách tiết kiệm khác chưa được xét. Đặt vấn đề như thể chỉ có cắt người hoặc phá sản là lưỡng nan giả.",
+   "why_not": {
+    "slippery-slope": "Giám đốc không vẽ chuỗi bước nhỏ dẫn tới thảm họa; ông bỏ qua các lựa chọn khác.",
+    "appeal-emotion": "Chữ “phá sản” gây lo lắng, nhưng lỗi lập luận chính là chỉ đưa ra hai khả năng.",
+    "sunk-cost": "Không có ai tiếp tục một việc vì tiếc khoản đã chi."
+   }
+  },
+  {
+   "id": "f-049",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Hà nói với bạn: “Nếu học trường chuyên thì sẽ đỗ đại học. Mình không học trường chuyên, vậy mình sẽ không đỗ đại học.”",
+   "highlight": "Mình không học trường chuyên, vậy mình sẽ không đỗ đại học",
+   "answer": "denying-antecedent",
+   "options": [
+    "false-dilemma",
+    "slippery-slope",
+    "denying-antecedent",
+    "affirming-consequent"
+   ],
+   "explanation": "Dạng lập luận: Nếu P thì Q; không P; vậy không Q. Rất nhiều học sinh trường thường vẫn đỗ đại học; học trường chuyên không phải điều kiện cần.",
+   "why_not": {
+    "affirming-consequent": "Hà không khẳng định vế sau rồi suy ngược; Hà phủ định vế trước.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra như thể là duy nhất.",
+    "slippery-slope": "Không có chuỗi hệ quả nối nhau."
+   }
+  },
+  {
+   "id": "f-050",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Trong buổi họp tổ dân phố, ông Bình đề xuất lắp thêm đèn cho con hẻm tối. Bà Thu nói ngay: “Ông ấy ly hôn hai lần rồi, ý kiến của người như thế thì nghe làm gì.”",
+   "highlight": "Ông ấy ly hôn hai lần rồi, ý kiến của người như thế thì nghe làm gì",
+   "answer": "ad-hominem",
+   "options": [
+    "ad-hominem",
+    "appeal-emotion",
+    "tu-quoque",
+    "appeal-popularity"
+   ],
+   "explanation": "Bà Thu không bàn hẻm có cần đèn hay không mà gạt đề xuất đi bằng chuyện đời tư của ông Bình. Hôn nhân của ông chẳng liên quan gì đến việc con hẻm tối.",
+   "why_not": {
+    "tu-quoque": "Bà Thu không nói ông Bình cũng làm điều mà ông phê phán.",
+    "appeal-popularity": "Không có chỗ nào dựa vào việc đông người tin hay làm theo.",
+    "appeal-emotion": "Bà Thu không khơi cảm xúc của người nghe để thay lý do; bà tấn công người đề xuất."
+   }
+  },
+  {
+   "id": "f-051",
+   "level": 2,
+   "context": "truong-hoc",
+   "passage": "Quân học kế toán được ba năm thì nhận ra mình ghét nghề này, và đã đỗ một khóa lập trình anh rất thích. Bố mẹ khuyên: “Ba năm học rồi, bỏ bây giờ thì phí công. Cứ học cho xong rồi ra làm kế toán.”",
+   "highlight": "Ba năm học rồi, bỏ bây giờ thì phí công",
+   "answer": "sunk-cost",
+   "options": [
+    "appeal-emotion",
+    "false-dilemma",
+    "slippery-slope",
+    "sunk-cost"
+   ],
+   "explanation": "Ba năm đã qua không lấy lại được dù Quân chọn gì. Lý do bố mẹ đưa ra là tiếc công sức cũ, chứ không phải so sánh tương lai của hai con đường.",
+   "why_not": {
+    "false-dilemma": "Bố mẹ không nói chỉ có hai lựa chọn; cái sai là lý do “phí công”.",
+    "appeal-emotion": "Không có lời kêu gọi cảm xúc nào thay cho lý do; lý do có đó, nhưng nhìn về quá khứ.",
+    "slippery-slope": "Không có chuỗi hệ quả nào."
+   }
+  },
+  {
+   "id": "f-052",
+   "level": 1,
+   "context": "mang-xa-hoi",
+   "passage": "Một tài khoản viết: “Chưa ai chứng minh được người ngoài hành tinh chưa từng đến Trái Đất, vậy chắc chắn họ đã từng đến.”",
+   "highlight": "Chưa ai chứng minh được người ngoài hành tinh chưa từng đến Trái Đất",
+   "answer": "appeal-ignorance",
+   "options": [
+    "appeal-ignorance",
+    "begging-question",
+    "appeal-popularity",
+    "hasty-generalization"
+   ],
+   "explanation": "Thiếu bằng chứng phủ nhận không phải là bằng chứng khẳng định. Người đưa ra khẳng định mới là người phải đưa bằng chứng.",
+   "why_not": {
+    "begging-question": "Kết luận không được giả định trong tiền đề; lập luận dựa vào sự thiếu hiểu biết.",
+    "appeal-popularity": "Không có chỗ nào viện dẫn số đông.",
+    "hasty-generalization": "Không có mẫu quan sát nào bị khái quát."
+   }
+  },
+  {
+   "id": "f-053",
+   "level": 3,
+   "context": "truong-hoc",
+   "passage": "Khang xin nghỉ hai buổi tập bóng đá trong tuần thi học kỳ. Huấn luyện viên đội trường nói: “Em phải chọn: hoặc tập đủ năm buổi một tuần, hoặc thừa nhận là em không thật sự yêu bóng đá.”",
+   "highlight": "hoặc tập đủ năm buổi một tuần, hoặc thừa nhận là em không thật sự yêu bóng đá",
+   "answer": "false-dilemma",
+   "options": [
+    "none",
+    "begging-question",
+    "false-dilemma",
+    "ad-hominem"
+   ],
+   "explanation": "Một người hoàn toàn có thể yêu bóng đá mà vẫn phải nghỉ tập vì kỳ thi. Hai vế được đặt ra như thể loại trừ nhau và bao hết mọi khả năng, nhưng thực tế không phải vậy.",
+   "why_not": {
+    "begging-question": "Kết luận “Khang không yêu bóng đá” không được giả định trong tiền đề; lỗi là chỉ có hai lựa chọn.",
+    "ad-hominem": "Huấn luyện viên không bác bỏ lý do của Khang bằng cách chê con người em; ông ép em vào hai lựa chọn.",
+    "none": "Nếu đội có quy định rõ “thiếu buổi tập thì không được thi đấu” thì việc chọn một trong hai là hợp lý. Nhưng “không yêu bóng đá” không phải hệ quả tất yếu của việc nghỉ tập."
+   }
+  },
+  {
+   "id": "f-054",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Bố hỏi: “Sao bài kiểm tra toán con được 4 điểm?” Nam đáp: “Bố ơi, hôm nay con được cô khen vẽ đẹp nhất lớp đấy!”",
+   "highlight": "hôm nay con được cô khen vẽ đẹp nhất lớp đấy",
+   "answer": "red-herring",
+   "options": [
+    "tu-quoque",
+    "red-herring",
+    "false-dilemma",
+    "appeal-emotion"
+   ],
+   "explanation": "Nam né câu hỏi về điểm toán bằng một chuyện vui khác. Lời khen môn vẽ không giải thích được vì sao bài toán chỉ được 4 điểm.",
+   "why_not": {
+    "tu-quoque": "Nam không nói bố cũng từng điểm kém.",
+    "appeal-emotion": "Nam có thể muốn bố vui lên, nhưng cậu không lập luận rằng vì thế bố phải chấp nhận điều gì; cậu đổi chủ đề.",
+    "false-dilemma": "Không có hai lựa chọn nào được đặt ra."
+   }
+  },
+  {
+   "id": "f-055",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Chị Hoa dặn con: “Nếu trời mưa thì đường sẽ ướt. Hôm nay trời không mưa, vậy đường không ướt, con cứ đi dép thường.” Xe rửa đường vừa chạy qua đầu ngõ.",
+   "highlight": "Hôm nay trời không mưa, vậy đường không ướt",
+   "answer": "denying-antecedent",
+   "options": [
+    "hasty-generalization",
+    "denying-antecedent",
+    "affirming-consequent",
+    "post-hoc"
+   ],
+   "explanation": "Mưa là một lý do khiến đường ướt, không phải lý do duy nhất. Từ “không mưa” không suy ra được “đường khô”.",
+   "why_not": {
+    "affirming-consequent": "Chị Hoa không khẳng định vế sau; chị phủ định vế trước.",
+    "post-hoc": "Không có kết luận nhân quả từ trình tự thời gian.",
+    "hasty-generalization": "Không có khái quát từ một mẫu nhỏ."
+   }
+  },
+  {
+   "id": "f-056",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Hoàng nhắn cho thầy giáo: “Thầy ơi, nếu em trượt môn này, bố mẹ em sẽ thất vọng lắm, em không biết phải làm sao. Thầy nâng điểm cho em lên 5 nhé.”",
+   "highlight": "bố mẹ em sẽ thất vọng lắm, em không biết phải làm sao",
+   "answer": "appeal-emotion",
+   "options": [
+    "false-dilemma",
+    "red-herring",
+    "appeal-emotion",
+    "appeal-ignorance"
+   ],
+   "explanation": "Điểm số phải phản ánh bài làm. Nỗi thất vọng của bố mẹ Hoàng, dù có thật, không phải lý do để bài làm được thêm điểm.",
+   "why_not": {
+    "red-herring": "Hoàng không đổi chủ đề; cậu dùng lòng thương để đòi một kết luận.",
+    "false-dilemma": "Hoàng không đặt ra hai lựa chọn duy nhất.",
+    "appeal-ignorance": "Không có chỗ nào dựa vào việc chưa chứng minh được điều gì."
+   }
+  },
+  {
+   "id": "f-057",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Bàn về lịch làm việc, chị Thảo nói: “Đa số công ty trong ngành vẫn bắt nhân viên làm sáng thứ Bảy, nên công ty mình giữ lịch làm thứ Bảy là hợp lý.”",
+   "highlight": "Đa số công ty trong ngành vẫn bắt nhân viên làm sáng thứ Bảy",
+   "answer": "appeal-popularity",
+   "options": [
+    "appeal-popularity",
+    "false-dilemma",
+    "appeal-authority",
+    "slippery-slope"
+   ],
+   "explanation": "Việc nhiều công ty làm thế không cho biết lịch đó có hiệu quả hay phù hợp với công ty mình. Muốn biết, cần xem năng suất, chi phí và đời sống nhân viên.",
+   "why_not": {
+    "false-dilemma": "Chị Thảo không đặt ra chỉ hai lựa chọn.",
+    "appeal-authority": "Chị viện dẫn thông lệ của số đông công ty, không phải ý kiến của một chuyên gia.",
+    "slippery-slope": "Không có chuỗi hệ quả nào được vẽ ra."
+   }
+  },
+  {
+   "id": "f-058",
+   "level": 3,
+   "context": "suc-khoe",
+   "passage": "Bác sĩ dặn ông Thịnh bị tiểu đường: “Vết loét ở chân ông phải giữ sạch hằng ngày. Người tiểu đường vết thương lâu lành, dễ nhiễm trùng; nhiễm trùng không kiểm soát có thể lan rộng và dẫn tới phải cắt cụt. Biến chứng này đã được ghi nhận rất nhiều.”",
+   "highlight": "nhiễm trùng không kiểm soát có thể lan rộng và dẫn tới phải cắt cụt",
+   "answer": "none",
+   "options": [
+    "none",
+    "post-hoc",
+    "appeal-emotion",
+    "slippery-slope"
+   ],
+   "explanation": "Mỗi mắt xích trong chuỗi đều có cơ chế y học rõ ràng và được ghi nhận nhiều. Bác sĩ dùng chữ “có thể”, không nói chắc chắn. Đây là một cảnh báo có cơ sở, không phải dốc trơn trượt.",
+   "why_not": {
+    "slippery-slope": "Dốc trơn trượt là chuỗi hệ quả không có lý do; ở đây từng bước đều có cơ chế và bằng chứng.",
+    "appeal-emotion": "Kết cục đáng sợ, nhưng nó là thông tin thật về rủi ro, đi kèm lý do, chứ không thay thế lý do.",
+    "post-hoc": "Bác sĩ không suy nhân quả từ trình tự thời gian của hai sự kiện."
+   }
+  },
+  {
+   "id": "f-059",
+   "level": 2,
+   "context": "suc-khoe",
+   "passage": "Anh Phong nói: “Người hút thuốc lá thì có nguy cơ bị ung thư phổi. Tôi không hút thuốc, vậy tôi không có nguy cơ bị ung thư phổi, khỏi cần khám định kỳ.”",
+   "highlight": "Tôi không hút thuốc, vậy tôi không có nguy cơ bị ung thư phổi",
+   "answer": "denying-antecedent",
+   "options": [
+    "denying-antecedent",
+    "affirming-consequent",
+    "hasty-generalization",
+    "appeal-ignorance"
+   ],
+   "explanation": "Dạng lập luận: Nếu P thì Q; không P; vậy không Q. Hút thuốc là một nguồn nguy cơ, không phải nguồn duy nhất: người không hút vẫn có nguy cơ vì khói thuốc thụ động, ô nhiễm, di truyền.",
+   "why_not": {
+    "affirming-consequent": "Anh Phong không suy ngược từ hậu kiện.",
+    "appeal-ignorance": "Anh không dựa vào việc chưa ai chứng minh điều gì; anh dựa vào một câu điều kiện bị dùng sai.",
+    "hasty-generalization": "Anh không khái quát từ vài trường hợp."
+   }
+  },
+  {
+   "id": "f-060",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Bé Su sốt 39,5 độ. Cô Hương không cho con uống thuốc hạ sốt: “Thuốc toàn hóa chất. Cứ để cơ thể tự nhiên chống bệnh là tốt nhất.”",
+   "highlight": "Cứ để cơ thể tự nhiên chống bệnh là tốt nhất",
+   "answer": "appeal-nature",
+   "options": [
+    "post-hoc",
+    "red-herring",
+    "appeal-popularity",
+    "appeal-nature"
+   ],
+   "explanation": "Cô Hương mặc định cách “tự nhiên” là tốt nhất mà không xét tác dụng thật của thuốc hạ sốt khi trẻ sốt cao. Tự nhiên hay không không quyết định điều gì an toàn hơn cho bé.",
+   "why_not": {
+    "post-hoc": "Không có chuyện gì được coi là nguyên nhân chỉ vì xảy ra trước.",
+    "appeal-popularity": "Cô Hương không dựa vào việc nhiều người làm thế.",
+    "red-herring": "Cô không né câu hỏi nào."
+   }
+  },
+  {
+   "id": "f-061",
+   "level": 3,
+   "context": "mang-xa-hoi",
+   "passage": "Một bài đăng viết: “Con người vốn là loài ăn tạp, tự nhiên đã cho ta răng nanh để xé thịt. Vì vậy ăn chay là sai về mặt đạo đức.”",
+   "highlight": "tự nhiên đã cho ta răng nanh để xé thịt. Vì vậy ăn chay là sai về mặt đạo đức",
+   "answer": "appeal-nature",
+   "options": [
+    "none",
+    "appeal-popularity",
+    "appeal-nature",
+    "begging-question"
+   ],
+   "explanation": "Tiền đề về răng nanh có thể đúng, nhưng từ chỗ cơ thể ta “có thể” ăn thịt không suy ra được ta “phải” ăn thịt. Lập luận nhảy từ điều tự nhiên sang điều đúng đắn về đạo đức.",
+   "why_not": {
+    "appeal-popularity": "Bài không dựa vào việc nhiều người ăn thịt.",
+    "none": "Một sự thật sinh học có thể là lý do để bàn về dinh dưỡng, nhưng không đủ để kết luận điều gì là sai về đạo đức.",
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề; lỗi là bước nhảy từ “tự nhiên” sang “nên”."
+   }
+  },
+  {
+   "id": "f-062",
+   "level": 2,
+   "context": "gia-dinh",
+   "passage": "Thảo đọc ba bình luận chê một khách sạn rồi bảo cả nhà: “Khách sạn này tệ lắm, mọi người đều chê.” Trang đánh giá có hơn 800 nhận xét, phần lớn từ 4 sao trở lên.",
+   "highlight": "Khách sạn này tệ lắm, mọi người đều chê",
+   "answer": "hasty-generalization",
+   "options": [
+    "appeal-popularity",
+    "appeal-ignorance",
+    "hasty-generalization",
+    "none"
+   ],
+   "explanation": "Ba bình luận trong hơn 800 không đại diện cho ý kiến chung, nhất là khi phần lớn đánh giá là tốt. Thảo rút kết luận chung từ một mẫu rất nhỏ.",
+   "why_not": {
+    "appeal-popularity": "Thảo không dựa vào một số đông thật sự; chị dựa vào rất ít người rồi tưởng là “mọi người”.",
+    "appeal-ignorance": "Thảo không lập luận từ việc chưa ai chứng minh điều gì.",
+    "none": "Đọc vài bình luận xấu để biết khách sạn có những rủi ro nào là hợp lý; kết luận “tệ lắm” thì không."
+   }
+  },
+  {
+   "id": "f-063",
+   "level": 3,
+   "context": "truong-hoc",
+   "passage": "Một phụ huynh phản đối việc cho học sinh lớp 12 dùng máy tính cầm tay khi kiểm tra: “Quen dùng máy thì các cháu sẽ kém tính nhẩm, mà kém tính nhẩm thì sau này chẳng làm được việc gì liên quan đến con số, rồi cả thế hệ sẽ thua kém thế hệ trước.”",
+   "highlight": "sau này chẳng làm được việc gì liên quan đến con số, rồi cả thế hệ sẽ thua kém thế hệ trước",
+   "answer": "slippery-slope",
+   "options": [
+    "post-hoc",
+    "hasty-generalization",
+    "slippery-slope",
+    "none"
+   ],
+   "explanation": "Mắt xích đầu (kém tính nhẩm hơn) có thể có phần đúng, nhưng các bước sau không có cơ chế hay bằng chứng; chính máy tính giúp người ta làm việc với con số. Xác suất của từng bước nhân lại khiến kết luận rất yếu.",
+   "why_not": {
+    "post-hoc": "Phụ huynh dự đoán tương lai, không kết luận nhân quả từ hai sự kiện đã xảy ra.",
+    "none": "Một cảnh báo chỉ dừng ở “dùng máy nhiều có thể làm giảm kỹ năng tính nhẩm”, kèm bằng chứng, thì hợp lý; lập luận này đi xa hơn nhiều so với những gì có cơ sở.",
+    "hasty-generalization": "Không có mẫu quan sát nào bị khái quát hóa."
+   }
+  },
+  {
+   "id": "f-064",
+   "level": 2,
+   "context": "suc-khoe",
+   "passage": "Lan hỏi có nên cho bé 6 tháng tuổi nếm mật ong không. Chị Thủy, bác sĩ nhi khoa, trả lời: “Không nên cho trẻ dưới 1 tuổi ăn mật ong vì nguy cơ ngộ độc; đây là khuyến cáo chung của các hiệp hội nhi khoa.” Lan quyết định chưa cho bé ăn.",
+   "highlight": "đây là khuyến cáo chung của các hiệp hội nhi khoa",
+   "answer": "none",
+   "options": [
+    "appeal-emotion",
+    "appeal-authority",
+    "none",
+    "appeal-popularity"
+   ],
+   "explanation": "Chị Thủy là chuyên gia đúng lĩnh vực, nêu lý do cụ thể và dựa vào khuyến cáo mà giới chuyên môn đồng thuận. Tin theo lời khuyên như vậy là hợp lý.",
+   "why_not": {
+    "appeal-authority": "Viện dẫn thẩm quyền chỉ là ngụy biện khi người được dẫn không có chuyên môn hoặc giới chuyên môn còn bất đồng; ở đây không phải vậy.",
+    "appeal-emotion": "Không có lời kêu gọi cảm xúc nào; có một lý do cụ thể về nguy cơ ngộ độc.",
+    "appeal-popularity": "Khuyến cáo đến từ giới chuyên môn, không phải từ việc nhiều người tin."
+   }
+  },
+  {
+   "id": "f-065",
+   "level": 1,
+   "context": "mang-xa-hoi",
+   "passage": "Một bài đăng viết: “Nếu bạn không chia sẻ bài viết này, nghĩa là bạn đứng về phía những kẻ hành hạ động vật.”",
+   "highlight": "Nếu bạn không chia sẻ bài viết này, nghĩa là bạn đứng về phía những kẻ hành hạ động vật",
+   "answer": "false-dilemma",
+   "options": [
+    "false-dilemma",
+    "hasty-generalization",
+    "appeal-popularity",
+    "ad-hominem"
+   ],
+   "explanation": "Người ta có thể phản đối việc hành hạ động vật mà vẫn không chia sẻ một bài viết cụ thể. Bài đăng gộp mọi khả năng thành hai phe.",
+   "why_not": {
+    "hasty-generalization": "Không có kết luận chung rút ra từ vài trường hợp.",
+    "ad-hominem": "Bài không bác bỏ lập luận của ai bằng cách công kích họ; nó ép người đọc vào một trong hai phe.",
+    "appeal-popularity": "Bài không viện dẫn việc nhiều người đã chia sẻ."
+   }
+  },
+  {
+   "id": "f-066",
+   "level": 2,
+   "context": "bao-chi",
+   "passage": "Một viện dinh dưỡng khảo sát ngẫu nhiên 12.000 trẻ ở 30 tỉnh, thấy khoảng một phần năm thừa cân. Bài báo viết: “Tỉ lệ trẻ thừa cân trên cả nước có lẽ vào khoảng 20%.”",
+   "highlight": "Tỉ lệ trẻ thừa cân trên cả nước có lẽ vào khoảng 20%",
+   "answer": "none",
+   "options": [
+    "appeal-authority",
+    "appeal-popularity",
+    "hasty-generalization",
+    "none"
+   ],
+   "explanation": "Mẫu lớn, chọn ngẫu nhiên, trải ở nhiều tỉnh, và bài báo dùng chữ “có lẽ vào khoảng”, đúng mức chắc chắn mà dữ liệu cho phép. Đây là quy nạp mạnh.",
+   "why_not": {
+    "hasty-generalization": "Khái quát vội vàng dựa trên mẫu nhỏ hoặc lệch; mẫu này lớn và được chọn ngẫu nhiên.",
+    "appeal-authority": "Kết luận dựa vào dữ liệu khảo sát, không phải vào uy tín của viện.",
+    "appeal-popularity": "Không có chỗ nào dựa vào việc nhiều người tin."
+   }
+  },
+  {
+   "id": "f-067",
+   "level": 2,
+   "context": "chinh-sach",
+   "passage": "Về đề xuất cho quán ăn thuê một phần vỉa hè ở vài tuyến phố, có thu phí, một người viết: “Hôm nay cho thuê vỉa hè, mai sẽ cho thuê lòng đường, rồi đến công viên, cuối cùng người đi bộ chẳng còn chỗ nào mà đi.”",
+   "highlight": "mai sẽ cho thuê lòng đường, rồi đến công viên",
+   "answer": "slippery-slope",
+   "options": [
+    "slippery-slope",
+    "straw-man",
+    "appeal-emotion",
+    "hasty-generalization"
+   ],
+   "explanation": "Người viết hiểu đúng đề xuất hiện tại, nhưng suy ra các bước tiếp theo (lòng đường, công viên) mà không đưa ra lý do vì sao bước này kéo theo bước kia.",
+   "why_not": {
+    "straw-man": "Người viết không bóp méo đề xuất hiện tại; họ vẫn nói đúng là cho thuê vỉa hè. Lỗi nằm ở các bước suy ra sau đó.",
+    "appeal-emotion": "Hình ảnh cuối gây lo ngại, nhưng cấu trúc lỗi là chuỗi hệ quả không có cơ sở.",
+    "hasty-generalization": "Không có khái quát từ một mẫu nhỏ."
+   }
+  },
+  {
+   "id": "f-068",
+   "level": 3,
+   "context": "chinh-sach",
+   "passage": "Trong vụ tranh chấp va quẹt xe, nhân chứng duy nhất khai xe anh Định vượt đèn đỏ. Luật sư của anh Định chỉ ra nhân chứng là em ruột của bên kia và từng bị phạt vì khai báo sai trong một vụ khác, nên đề nghị tòa xem xét lời khai này thận trọng và tìm thêm camera giao thông.",
+   "highlight": "đề nghị tòa xem xét lời khai này thận trọng",
+   "answer": "none",
+   "options": [
+    "genetic",
+    "none",
+    "tu-quoque",
+    "ad-hominem"
+   ],
+   "explanation": "Khi một lời khai là bằng chứng, độ tin cậy của người khai là điều liên quan trực tiếp. Luật sư không nói lời khai chắc chắn sai mà đề nghị thận trọng và tìm bằng chứng khác.",
+   "why_not": {
+    "ad-hominem": "Công kích cá nhân là dùng con người để bác bỏ một lập luận; ở đây quan hệ họ hàng và tiền sử khai sai liên quan thẳng đến độ tin cậy của lời khai.",
+    "genetic": "Lời khai không bị bác bỏ vì nguồn gốc của nó; nó được đề nghị kiểm tra thêm.",
+    "tu-quoque": "Luật sư không nói nhân chứng cũng mắc lỗi giao thông."
+   }
+  },
+  {
+   "id": "f-069",
+   "level": 3,
+   "context": "truong-hoc",
+   "passage": "Trong buổi họp bàn có nên dạy tiếng Anh từ lớp 1 hay không, cô Phương nói: “Tiến sĩ ngôn ngữ học K. ủng hộ việc này, vậy là xong, không cần bàn thêm.” Hiện giới ngôn ngữ học vẫn còn bất đồng lớn về độ tuổi bắt đầu học ngoại ngữ phù hợp.",
+   "highlight": "vậy là xong, không cần bàn thêm",
+   "answer": "appeal-authority",
+   "options": [
+    "none",
+    "appeal-authority",
+    "appeal-popularity",
+    "begging-question"
+   ],
+   "explanation": "Tiến sĩ K. đúng là người trong ngành, nhưng khi giới chuyên môn còn chia rẽ, ý kiến của một người không thể kết thúc cuộc tranh luận. Cô Phương dùng uy tín để đóng cuộc bàn bạc thay vì đưa bằng chứng.",
+   "why_not": {
+    "none": "Viện dẫn chuyên gia là lý do hợp lý khi giới chuyên môn đồng thuận khá rộng; ở đây họ còn bất đồng, và cô Phương lại coi ý kiến một người là dứt điểm.",
+    "appeal-popularity": "Cô Phương dựa vào một chuyên gia, không phải vào số đông.",
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề; tiền đề là ý kiến của một người khác."
+   }
+  },
+  {
+   "id": "f-070",
+   "level": 2,
+   "context": "quang-cao",
+   "passage": "Quảng cáo đồng hồ: “Người thành đạt đều đeo một chiếc đồng hồ đẳng cấp. Bạn đeo đồng hồ của chúng tôi — bạn là người thành đạt.”",
+   "highlight": "Bạn đeo đồng hồ của chúng tôi — bạn là người thành đạt",
+   "answer": "affirming-consequent",
+   "options": [
+    "affirming-consequent",
+    "equivocation",
+    "denying-antecedent",
+    "appeal-popularity"
+   ],
+   "explanation": "Từ “nếu thành đạt thì đeo đồng hồ đẳng cấp” không suy ra “ai đeo đồng hồ đẳng cấp cũng thành đạt”. Ai có tiền mua, thậm chí đi mượn, cũng đeo được.",
+   "why_not": {
+    "appeal-popularity": "Quảng cáo không dựa vào số người dùng.",
+    "denying-antecedent": "Quảng cáo không phủ định vế nào; nó suy ngược từ hậu kiện.",
+    "equivocation": "Không có từ nào bị đổi nghĩa giữa chừng."
+   }
+  },
+  {
+   "id": "f-071",
+   "level": 2,
+   "context": "truong-hoc",
+   "passage": "Phụ huynh phản ánh căng tin của trường bán quá nhiều đồ chiên rán. Hiệu trưởng trả lời: “Năm nào trường ta cũng có học sinh giỏi cấp thành phố, phụ huynh cứ yên tâm.”",
+   "highlight": "Năm nào trường ta cũng có học sinh giỏi cấp thành phố",
+   "answer": "red-herring",
+   "options": [
+    "appeal-authority",
+    "hasty-generalization",
+    "appeal-popularity",
+    "red-herring"
+   ],
+   "explanation": "Thành tích học sinh giỏi không nói gì về chuyện căng tin bán đồ ăn thế nào. Hiệu trưởng đưa ra một điểm mạnh khác để làm dịu phản ánh thay vì trả lời nó.",
+   "why_not": {
+    "appeal-popularity": "Không có chỗ nào dựa vào việc nhiều người tin hay làm theo.",
+    "appeal-authority": "Hiệu trưởng không viện dẫn một chuyên gia về dinh dưỡng hay ai khác.",
+    "hasty-generalization": "Không có kết luận chung rút ra từ vài trường hợp."
+   }
+  },
+  {
+   "id": "f-072",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Mẹ nhắc Minh: “Con chơi điện thoại đến 1 giờ sáng là hại mắt lắm.” Minh cãi: “Mẹ cũng xem phim trên điện thoại đến khuya đấy thôi, nên mẹ đừng nói con.”",
+   "highlight": "Mẹ cũng xem phim trên điện thoại đến khuya đấy thôi",
+   "answer": "tu-quoque",
+   "options": [
+    "false-dilemma",
+    "straw-man",
+    "tu-quoque",
+    "appeal-popularity"
+   ],
+   "explanation": "Việc mẹ cũng thức khuya xem điện thoại không làm lời nhắc sai đi: thức khuya dán mắt vào màn hình vẫn hại mắt, dù ai làm.",
+   "why_not": {
+    "straw-man": "Minh không diễn đạt sai lời nhắc của mẹ; cậu gạt nó đi bằng cách chỉ ra mẹ cũng làm điều tương tự.",
+    "appeal-popularity": "Minh không viện dẫn việc nhiều người làm thế.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra như thể là duy nhất."
+   }
+  },
+  {
+   "id": "f-073",
+   "level": 1,
+   "context": "quang-cao",
+   "passage": "Quảng cáo trên truyền hình: “Một hoa hậu nổi tiếng khẳng định viên uống này giúp giảm mỡ máu. Hoa hậu đã nói thì bạn còn chần chừ gì nữa?”",
+   "highlight": "Hoa hậu đã nói thì bạn còn chần chừ gì nữa?",
+   "answer": "appeal-authority",
+   "options": [
+    "appeal-nature",
+    "appeal-authority",
+    "appeal-popularity",
+    "red-herring"
+   ],
+   "explanation": "Một hoa hậu không có chuyên môn về tim mạch hay dược học. Lời khẳng định của chị không thay được bằng chứng lâm sàng về tác dụng giảm mỡ máu.",
+   "why_not": {
+    "appeal-popularity": "Quảng cáo dựa vào một người nổi tiếng, không dựa vào số đông.",
+    "appeal-nature": "Không có chỗ nào nói sản phẩm tốt vì tự nhiên.",
+    "red-herring": "Quảng cáo không né câu hỏi nào."
+   }
+  },
+  {
+   "id": "f-074",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Lần trước Tú mặc áo đỏ đi thi và được 9 điểm. Từ đó Tú tin chiếc áo đỏ đã giúp mình làm bài tốt, nên kỳ thi nào cũng mặc nó.",
+   "highlight": "Tú tin chiếc áo đỏ đã giúp mình làm bài tốt",
+   "answer": "post-hoc",
+   "options": [
+    "appeal-ignorance",
+    "post-hoc",
+    "equivocation",
+    "begging-question"
+   ],
+   "explanation": "Điểm 9 đến sau khi mặc áo đỏ, nhưng không có cơ chế nào cho thấy chiếc áo ảnh hưởng đến bài làm. Nhiều khả năng điểm cao là nhờ Tú ôn bài.",
+   "why_not": {
+    "appeal-ignorance": "Tú không lập luận từ việc chưa ai chứng minh điều gì.",
+    "begging-question": "Kết luận không được giả định trong tiền đề.",
+    "equivocation": "Không có từ nào đổi nghĩa."
+   }
+  },
+  {
+   "id": "f-075",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Chị Mai mua cam ở chợ Phước hai lần, cả hai lần đều bị khô. Chị kết luận: “Hoa quả ở chợ Phước loại nào cũng dở.”",
+   "highlight": "Hoa quả ở chợ Phước loại nào cũng dở",
+   "answer": "hasty-generalization",
+   "options": [
+    "false-dilemma",
+    "begging-question",
+    "post-hoc",
+    "hasty-generalization"
+   ],
+   "explanation": "Hai lần mua cam, có khi chỉ ở một sạp, không nói được gì về mọi loại hoa quả của cả chợ.",
+   "why_not": {
+    "post-hoc": "Chị Mai không kết luận nhân quả từ trình tự thời gian.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra.",
+    "begging-question": "Kết luận không được giả định trong tiền đề; nó vượt xa tiền đề."
+   }
+  },
+  {
+   "id": "f-076",
+   "level": 1,
+   "context": "mang-xa-hoi",
+   "passage": "Một clip nói uống nước chanh nóng diệt được tế bào ung thư có hơn 5 triệu lượt chia sẻ. Bác Tư gửi vào nhóm gia đình: “Bao nhiêu người chia sẻ thế này thì chắc chắn là thật.”",
+   "highlight": "Bao nhiêu người chia sẻ thế này thì chắc chắn là thật",
+   "answer": "appeal-popularity",
+   "options": [
+    "appeal-ignorance",
+    "appeal-popularity",
+    "appeal-nature",
+    "post-hoc"
+   ],
+   "explanation": "Lượt chia sẻ đo mức lan truyền, không đo sự thật. Một tuyên bố y học cần nghiên cứu kiểm chứng, không cần nhiều người bấm nút chia sẻ.",
+   "why_not": {
+    "appeal-nature": "Bác Tư không lập luận rằng chanh tốt vì nó tự nhiên.",
+    "appeal-ignorance": "Bác Tư không nói “chưa ai chứng minh sai nên đúng”.",
+    "post-hoc": "Không có hai sự kiện nối tiếp nào được coi là nhân quả."
+   }
+  },
+  {
+   "id": "f-077",
+   "level": 2,
+   "context": "bao-chi",
+   "passage": "Phóng viên hỏi đại diện công ty xây dựng về các vết nứt trên cây cầu mới bàn giao. Ông đáp: “Chúng tôi đã tạo việc làm cho hơn năm trăm lao động địa phương và năm nào cũng đóng góp cho quỹ khuyến học của xã.”",
+   "highlight": "Chúng tôi đã tạo việc làm cho hơn năm trăm lao động địa phương",
+   "answer": "red-herring",
+   "options": [
+    "ad-hominem",
+    "red-herring",
+    "tu-quoque",
+    "appeal-authority"
+   ],
+   "explanation": "Việc tạo công ăn việc làm và làm từ thiện là chuyện khác hẳn chất lượng cây cầu. Câu trả lời kéo người nghe sang hình ảnh tốt đẹp của công ty và bỏ ngỏ câu hỏi về vết nứt.",
+   "why_not": {
+    "tu-quoque": "Ông không nói phóng viên hay ai khác cũng mắc lỗi tương tự.",
+    "ad-hominem": "Ông không tấn công phóng viên.",
+    "appeal-authority": "Không có chuyên gia nào được viện dẫn để chứng minh cầu an toàn."
+   }
+  },
+  {
+   "id": "f-078",
+   "level": 1,
+   "context": "gia-dinh",
+   "passage": "Nhóm bạn đi Đà Lạt, sáu trên tám người muốn tối nay đi chợ đêm thay vì đi dạo hồ. Hòa nói: “Đa số muốn đi chợ đêm thì tối nay mình đi chợ đêm, mai đi hồ nhé.”",
+   "highlight": "Đa số muốn đi chợ đêm thì tối nay mình đi chợ đêm",
+   "answer": "none",
+   "options": [
+    "appeal-popularity",
+    "false-dilemma",
+    "appeal-emotion",
+    "none"
+   ],
+   "explanation": "Câu hỏi ở đây là cả nhóm muốn gì, nên ý muốn của đa số là lý do thích đáng. Hòa không khẳng định chợ đêm “đúng” hay “tốt hơn” về mặt sự thật.",
+   "why_not": {
+    "appeal-popularity": "Theo số đông là ngụy biện khi dùng số đông để kết luận điều gì đúng; còn khi quyết định chuyện sở thích chung, biểu quyết là cách hợp lý.",
+    "false-dilemma": "Hòa không loại bỏ khả năng nào: tối đi chợ, mai vẫn đi hồ.",
+    "appeal-emotion": "Không có lời kêu gọi cảm xúc nào."
+   }
+  },
+  {
+   "id": "f-079",
+   "level": 2,
+   "context": "quang-cao",
+   "passage": "Nhân viên bán bảo hiểm nói với anh Phúc: “Anh thử tưởng tượng một ngày anh không còn nữa, vợ con anh khóc lóc không biết dựa vào ai. Ký ngay hôm nay gói cao nhất đi anh.”",
+   "highlight": "vợ con anh khóc lóc không biết dựa vào ai",
+   "answer": "appeal-emotion",
+   "options": [
+    "appeal-emotion",
+    "red-herring",
+    "false-dilemma",
+    "slippery-slope"
+   ],
+   "explanation": "Lo cho gia đình có thể là lý do để tìm hiểu bảo hiểm, nhưng nó không cho thấy vì sao gói cao nhất phù hợp với thu nhập và nhu cầu của anh Phúc, hay vì sao phải ký ngay. Hình ảnh gợi sợ hãi được dùng thay cho so sánh các gói.",
+   "why_not": {
+    "slippery-slope": "Không có chuỗi bước nhỏ dẫn tới thảm họa; chỉ có một hình ảnh gây sợ.",
+    "false-dilemma": "Người bán không nói rõ “hoặc gói cao nhất, hoặc gia đình khốn khó”; lực đẩy chính là cảm xúc.",
+    "red-herring": "Người bán không né câu hỏi nào của anh Phúc."
+   }
+  },
+  {
+   "id": "f-080",
+   "level": 3,
+   "context": "truong-hoc",
+   "passage": "Trong buổi họp phụ huynh, chị Ngọc nói: “Tôi nghĩ không nên cho học sinh tiểu học dùng điện thoại riêng trong giờ ra chơi.” Anh Bảo đáp: “Công nghệ là tương lai. Cấm trẻ em tiếp xúc với công nghệ thì các cháu sẽ tụt hậu.”",
+   "highlight": "Cấm trẻ em tiếp xúc với công nghệ thì các cháu sẽ tụt hậu",
+   "answer": "straw-man",
+   "options": [
+    "slippery-slope",
+    "appeal-emotion",
+    "straw-man",
+    "red-herring"
+   ],
+   "explanation": "Chị Ngọc chỉ nói về điện thoại riêng trong giờ ra chơi; anh Bảo phản bác như thể chị muốn cấm trẻ tiếp xúc với mọi công nghệ. Lập luận nghe có lý, nhưng đánh vào một lập trường chị không giữ.",
+   "why_not": {
+    "slippery-slope": "“Tụt hậu” là một hệ quả, nhưng nó chỉ xuất phát từ lập trường “cấm tiếp xúc công nghệ”, thứ chị Ngọc không nói. Vấn đề nằm ở bước diễn đạt lại, không ở chuỗi hệ quả.",
+    "red-herring": "Anh Bảo không chuyển sang chủ đề khác; anh vẫn bàn chuyện trẻ và công nghệ, chỉ là trên một phiên bản bị phóng đại.",
+    "appeal-emotion": "Anh Bảo không dùng cảm xúc thay lý do; lý do của anh nhắm sai đích."
+   }
+  },
+  {
+   "id": "f-081",
+   "level": 1,
+   "context": "cong-so",
+   "passage": "Dự án phần mềm đã tốn 2 tỉ đồng và đội kỹ thuật kết luận không thể đáp ứng yêu cầu của khách hàng. Giám đốc dự án nói: “Đã đổ vào 2 tỉ rồi, giờ dừng lại thì phí hết, phải làm tiếp.”",
+   "highlight": "Đã đổ vào 2 tỉ rồi, giờ dừng lại thì phí hết",
+   "answer": "sunk-cost",
+   "options": [
+    "sunk-cost",
+    "appeal-popularity",
+    "red-herring",
+    "slippery-slope"
+   ],
+   "explanation": "2 tỉ đã chi không lấy lại được dù làm tiếp hay dừng. Câu hỏi đúng là: bỏ thêm tiền từ nay về sau có đem lại kết quả không, mà đội kỹ thuật đã nói là không.",
+   "why_not": {
+    "slippery-slope": "Không có chuỗi hệ quả nào được vẽ ra.",
+    "appeal-popularity": "Giám đốc không viện dẫn số đông.",
+    "red-herring": "Giám đốc không né câu hỏi; ông đưa ra một lý do sai."
+   }
+  },
+  {
+   "id": "f-082",
+   "level": 3,
+   "context": "suc-khoe",
+   "passage": "Chị Ngân có hai lần xét nghiệm PCR cách nhau 48 giờ, đều âm tính với cúm A. Bác sĩ nói: “Khả năng chị bị cúm A là rất thấp, chị không cần uống thuốc kháng virus.”",
+   "highlight": "Khả năng chị bị cúm A là rất thấp",
+   "answer": "none",
+   "options": [
+    "none",
+    "hasty-generalization",
+    "appeal-ignorance",
+    "appeal-authority"
+   ],
+   "explanation": "Xét nghiệm PCR là phương pháp tìm kiếm đủ mạnh, lại làm hai lần. Khi tìm kỹ mà không thấy, “không tìm thấy” là bằng chứng thật, và bác sĩ cũng chỉ nói “rất thấp” chứ không nói “chắc chắn”.",
+   "why_not": {
+    "appeal-ignorance": "Viện dẫn sự thiếu hiểu biết là coi việc chưa chứng minh được điều gì như bằng chứng cho điều ngược lại; ở đây “không tìm thấy” đến từ một cuộc tìm kiếm bằng phương pháp đáng tin cậy, nên là bằng chứng thật.",
+    "hasty-generalization": "Bác sĩ không khái quát cho một nhóm người; kết luận chỉ về chị Ngân, dựa trên hai xét nghiệm.",
+    "appeal-authority": "Kết luận dựa vào kết quả xét nghiệm, và người nói là bác sĩ đúng chuyên môn."
+   }
+  },
+  {
+   "id": "f-083",
+   "level": 3,
+   "context": "chinh-sach",
+   "passage": "Phường mở bình chọn trực tuyến đặt tên cho con đường mới; tên “Hoa Phượng” được nhiều phiếu nhất. Một ủy viên kết luận: “Đa số đã chọn, vậy đó là cái tên đúng nhất với lịch sử của khu vực này.”",
+   "highlight": "vậy đó là cái tên đúng nhất với lịch sử của khu vực này",
+   "answer": "appeal-popularity",
+   "options": [
+    "hasty-generalization",
+    "appeal-popularity",
+    "none",
+    "appeal-authority"
+   ],
+   "explanation": "Bình chọn cho biết người dân thích tên nào, nhưng tên nào phản ánh đúng lịch sử khu vực là câu hỏi về sự thật, phải trả lời bằng tư liệu lịch sử chứ không bằng số phiếu.",
+   "why_not": {
+    "none": "Nếu ủy viên chỉ nói “người dân thích tên này nhất nên ta chọn nó” thì hợp lý, vì đặt tên là chuyện sở thích chung. Lỗi xuất hiện khi số phiếu được dùng để kết luận về lịch sử.",
+    "appeal-authority": "Ủy viên dựa vào số phiếu, không dựa vào một chuyên gia.",
+    "hasty-generalization": "Kết luận không phải là khái quát từ một mẫu nhỏ; vấn đề là số đông được dùng cho một câu hỏi về sự thật."
+   }
+  },
+  {
+   "id": "f-084",
+   "level": 2,
+   "context": "cong-so",
+   "passage": "Chị Mai trình bày số liệu cho thấy phòng kinh doanh chi vượt ngân sách quảng cáo 30%. Trưởng phòng kinh doanh đáp: “Chị Mai nhắm ghế trưởng phòng từ lâu rồi, nên mới soi mói phòng tôi như vậy.”",
+   "highlight": "Chị Mai nhắm ghế trưởng phòng từ lâu rồi, nên mới soi mói phòng tôi như vậy",
+   "answer": "ad-hominem",
+   "options": [
+    "genetic",
+    "ad-hominem",
+    "red-herring",
+    "tu-quoque"
+   ],
+   "explanation": "Đây là công kích cá nhân nhắm vào động cơ. Dù chị Mai có tham vọng thật, con số vượt ngân sách 30% vẫn đúng hay sai tùy vào sổ sách, không tùy vào lý do chị đưa nó ra.",
+   "why_not": {
+    "red-herring": "Trưởng phòng có lái câu chuyện đi, nhưng cách lái là nhắm vào người nói để phủ nhận số liệu, nên tên gọi chính xác hơn là công kích cá nhân.",
+    "tu-quoque": "Trưởng phòng không nói chị Mai cũng chi vượt ngân sách.",
+    "genetic": "Ngụy biện nguồn gốc nhắm vào hoàn cảnh ra đời của một ý tưởng; ở đây thứ bị tấn công là động cơ của chính người đang tranh luận."
+   }
+  },
+  {
+   "id": "f-085",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Cô Lan đề xuất giảm bớt bài tập về nhà cho học sinh lớp 3. Thầy Phong phản đối: “Vậy là cô muốn bọn trẻ chơi cả ngày, không cần học hành gì nữa à?”",
+   "highlight": "Vậy là cô muốn bọn trẻ chơi cả ngày, không cần học hành gì nữa à?",
+   "answer": "straw-man",
+   "options": [
+    "straw-man",
+    "slippery-slope",
+    "false-dilemma",
+    "ad-hominem"
+   ],
+   "explanation": "Cô Lan chỉ đề nghị giảm bớt bài tập về nhà, không hề nói bỏ học. Thầy Phong biến đề xuất thành một lập trường cực đoan rồi phản đối lập trường đó.",
+   "why_not": {
+    "slippery-slope": "Thầy Phong không vẽ chuỗi hệ quả nối tiếp; thầy gán ngay cho cô Lan một quan điểm cô không có.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra như thể là duy nhất.",
+    "ad-hominem": "Thầy không công kích con người cô Lan mà bóp méo đề xuất của cô."
+   }
+  },
+  {
+   "id": "f-086",
+   "level": 1,
+   "context": "suc-khoe",
+   "passage": "Hải nói với mẹ: “Bác sĩ bảo bố phải giảm muối. Bố có ăn hạt muối nào đâu, toàn nêm bột canh với nước mắm, vậy là bố đã giảm muối rồi.”",
+   "highlight": "Bố có ăn hạt muối nào đâu",
+   "answer": "equivocation",
+   "options": [
+    "equivocation",
+    "red-herring",
+    "begging-question",
+    "straw-man"
+   ],
+   "explanation": "Bác sĩ nói “muối” theo nghĩa lượng natri trong đồ ăn, mà bột canh và nước mắm chứa rất nhiều. Hải hiểu “muối” là hạt muối trắng, nên kết luận sai.",
+   "why_not": {
+    "begging-question": "Kết luận không được giả định sẵn trong tiền đề.",
+    "straw-man": "Hải không bóp méo lập trường của ai để phản bác.",
+    "red-herring": "Hải không chuyển chủ đề."
+   }
+  },
+  {
+   "id": "f-087",
+   "level": 1,
+   "context": "quang-cao",
+   "passage": "Quảng cáo máy lọc nước: “Bạn có thật sự yêu con không? Người mẹ thương con sẽ không bao giờ để con uống nước từ máy lọc rẻ tiền. Hãy chọn máy lọc nước của chúng tôi.”",
+   "highlight": "Bạn có thật sự yêu con không?",
+   "answer": "appeal-emotion",
+   "options": [
+    "appeal-emotion",
+    "appeal-nature",
+    "appeal-authority",
+    "genetic"
+   ],
+   "explanation": "Quảng cáo khơi cảm giác tội lỗi của cha mẹ thay vì đưa ra số liệu về chất lượng lọc. Tình thương con không cho biết máy nào lọc tốt hơn.",
+   "why_not": {
+    "appeal-nature": "Không có chỗ nào nói sản phẩm tốt vì tự nhiên.",
+    "appeal-authority": "Không có chuyên gia hay người nổi tiếng nào được viện dẫn.",
+    "genetic": "Không có ý tưởng nào bị đánh giá theo nguồn gốc."
+   }
+  },
+  {
+   "id": "f-088",
+   "level": 1,
+   "context": "cong-so",
+   "passage": "Trưởng phòng nhắc anh Long nộp báo cáo đúng hạn. Anh Long đáp: “Tháng trước sếp cũng duyệt kế hoạch trễ ba ngày, sao giờ lại bắt em?”",
+   "highlight": "Tháng trước sếp cũng duyệt kế hoạch trễ ba ngày",
+   "answer": "tu-quoque",
+   "options": [
+    "equivocation",
+    "tu-quoque",
+    "red-herring",
+    "appeal-emotion"
+   ],
+   "explanation": "Anh Long né lời nhắc bằng cách chỉ ra sếp cũng từng trễ. Sếp trễ hạn không làm cho yêu cầu nộp đúng hạn trở thành sai.",
+   "why_not": {
+    "red-herring": "Anh Long có nhắc chuyện khác, nhưng chuyện đó là “anh cũng vậy”: chỉ ra người phê bình mắc đúng lỗi đang bị phê bình.",
+    "appeal-emotion": "Anh Long không khơi lòng thương hay nỗi sợ.",
+    "equivocation": "Không có từ nào bị dùng với hai nghĩa."
+   }
+  },
+  {
+   "id": "f-089",
+   "level": 2,
+   "context": "quang-cao",
+   "passage": "Gói cước di động quảng cáo “Lướt mạng không giới hạn”. Khi khách khiếu nại tốc độ bị bóp còn rất chậm sau 5GB, nhà mạng đáp: “Chúng tôi có giới hạn gì đâu, quý khách vẫn vào mạng được mà, chỉ chậm hơn thôi.”",
+   "highlight": "Chúng tôi có giới hạn gì đâu, quý khách vẫn vào mạng được mà",
+   "answer": "equivocation",
+   "options": [
+    "red-herring",
+    "straw-man",
+    "begging-question",
+    "equivocation"
+   ],
+   "explanation": "Khách hiểu “không giới hạn” là không giới hạn dung lượng tốc độ cao; nhà mạng dùng nó theo nghĩa “vẫn kết nối được”. Câu trả lời tránh trách nhiệm bằng cách đổi nghĩa của cùng một cụm từ.",
+   "why_not": {
+    "red-herring": "Nhà mạng vẫn bàn đúng chuyện giới hạn; cái sai là cụm từ bị dùng với nghĩa khác.",
+    "straw-man": "Nhà mạng không xuyên tạc lời khiếu nại; họ đổi nghĩa lời quảng cáo của chính mình.",
+    "begging-question": "Không có kết luận nào được giả định sẵn trong tiền đề."
+   }
+  },
+  {
+   "id": "f-090",
+   "level": 3,
+   "context": "gia-dinh",
+   "passage": "Anh Tùng hứa bỏ thuốc lá đã sáu lần, lần nào cũng được vài ngày rồi hút lại. Lần này anh lại hứa, chị Hoa nói: “Anh hứa câu này sáu lần rồi, nên em chưa tin ngay đâu. Anh bỏ được một tháng thì em tin.”",
+   "highlight": "Anh hứa câu này sáu lần rồi, nên em chưa tin ngay đâu",
+   "answer": "none",
+   "options": [
+    "tu-quoque",
+    "none",
+    "ad-hominem",
+    "hasty-generalization"
+   ],
+   "explanation": "Câu hỏi ở đây chính là có nên tin lời hứa của anh Tùng không, và tiền sử sáu lần thất hứa là bằng chứng liên quan. Chị Hoa cũng chỉ tạm hoãn niềm tin, chừa chỗ cho anh chứng minh.",
+   "why_not": {
+    "ad-hominem": "Chị Hoa không bác bỏ việc bỏ thuốc là tốt; chị đánh giá độ tin cậy của lời hứa, và quá khứ của người hứa liên quan trực tiếp đến điều đó.",
+    "tu-quoque": "Chị không nói anh cũng mắc lỗi chị đang bị phê bình.",
+    "hasty-generalization": "Sáu lần lặp lại là một mẫu đáng kể về chính hành vi đang xét, và chị chỉ kết luận ở mức “chưa tin ngay”."
+   }
+  },
+  {
+   "id": "f-091",
+   "level": 1,
+   "context": "truong-hoc",
+   "passage": "Lan nói: “Nếu Minh ốm thì Minh sẽ nghỉ học. Hôm nay Minh nghỉ học. Vậy Minh ốm rồi.”",
+   "highlight": "Hôm nay Minh nghỉ học. Vậy Minh ốm rồi",
+   "answer": "affirming-consequent",
+   "options": [
+    "denying-antecedent",
+    "hasty-generalization",
+    "affirming-consequent",
+    "post-hoc"
+   ],
+   "explanation": "Dạng lập luận: Nếu P thì Q; Q; vậy P. Minh có thể nghỉ vì việc nhà, đi thi đấu hay nhiều lý do khác, nên từ “nghỉ học” không suy ra chắc chắn “ốm”.",
+   "why_not": {
+    "denying-antecedent": "Lan không phủ định vế “nếu”; cô khẳng định vế sau rồi suy ngược lên vế trước.",
+    "hasty-generalization": "Không có khái quát từ một mẫu nhỏ.",
+    "post-hoc": "Lan không suy ra nhân quả từ trình tự thời gian; lỗi nằm ở cấu trúc “nếu… thì”."
+   }
+  },
+  {
+   "id": "f-092",
+   "level": 1,
+   "context": "quang-cao",
+   "passage": "Quảng cáo: “Nước hoa của chúng tôi là loại nước hoa tốt nhất, vì không có loại nước hoa nào tốt hơn nó.”",
+   "highlight": "vì không có loại nước hoa nào tốt hơn nó",
+   "answer": "begging-question",
+   "options": [
+    "red-herring",
+    "appeal-popularity",
+    "appeal-nature",
+    "begging-question"
+   ],
+   "explanation": "“Tốt nhất” và “không có loại nào tốt hơn” là cùng một ý. Tiền đề chỉ lặp lại kết luận bằng lời khác, không đưa thêm lý do nào.",
+   "why_not": {
+    "appeal-popularity": "Quảng cáo không viện dẫn số người dùng.",
+    "appeal-nature": "Quảng cáo không nói gì về tính tự nhiên.",
+    "red-herring": "Quảng cáo không né câu hỏi nào."
+   }
+  },
+  {
+   "id": "f-093",
+   "level": 2,
+   "context": "bao-chi",
+   "passage": "Sở Giao thông đề xuất thu phí ô tô đi vào khu trung tâm trong giờ cao điểm. Một trang tin giật tít: “Người dân sắp phải trả tiền mới được đi trên đường của chính mình!”",
+   "highlight": "Người dân sắp phải trả tiền mới được đi trên đường của chính mình",
+   "answer": "straw-man",
+   "options": [
+    "hasty-generalization",
+    "straw-man",
+    "equivocation",
+    "slippery-slope"
+   ],
+   "explanation": "Đề xuất chỉ áp dụng cho ô tô, ở khu trung tâm, vào giờ cao điểm; tít báo biến nó thành “mọi người dân, mọi con đường”. Phản đối phiên bản phóng đại ấy không phải phản đối đề xuất thật.",
+   "why_not": {
+    "slippery-slope": "Tít báo không suy ra chuỗi hệ quả trong tương lai; nó phát biểu sai ngay nội dung đề xuất.",
+    "equivocation": "Không có từ nào đổi nghĩa giữa chừng lập luận.",
+    "hasty-generalization": "Không có mẫu quan sát nào bị khái quát hóa."
+   }
+  },
+  {
+   "id": "f-094",
+   "level": 3,
+   "context": "cong-so",
+   "passage": "Phòng thiết kế năm người thử giờ làm linh hoạt trong sáu tháng; so với cùng kỳ năm trước, năng suất tăng ổn định. Giám đốc kết luận: “Giờ linh hoạt chắc chắn sẽ tăng năng suất cho mọi phòng ban, từ kho vận đến tổng đài chăm sóc khách hàng.”",
+   "highlight": "chắc chắn sẽ tăng năng suất cho mọi phòng ban, từ kho vận đến tổng đài chăm sóc khách hàng",
+   "answer": "hasty-generalization",
+   "options": [
+    "post-hoc",
+    "hasty-generalization",
+    "none",
+    "false-dilemma"
+   ],
+   "explanation": "Kết quả cho riêng phòng thiết kế khá có cơ sở, nhưng kho vận và tổng đài có đặc thù làm theo ca, phụ thuộc giờ khách gọi. Mở rộng từ một nhóm năm người, một kiểu công việc, ra mọi phòng ban là khái quát vội vàng.",
+   "why_not": {
+    "post-hoc": "Với sáu tháng và đối chiếu cùng kỳ, kết luận nhân quả cho phòng thiết kế tương đối vững; vấn đề nằm ở bước mở rộng.",
+    "none": "Nếu giám đốc nói “nên thử ở các phòng khác”, đó là bước đi hợp lý. Chữ “chắc chắn… mọi phòng ban” vượt quá bằng chứng.",
+    "false-dilemma": "Không có hai lựa chọn nào bị đặt ra."
+   }
+  },
+  {
+   "id": "f-095",
+   "level": 3,
+   "context": "chinh-sach",
+   "passage": "Một người viết trên diễn đàn: “Nghe nói quy định bắt đội mũ bảo hiểm ban đầu được đưa ra nhờ các hãng sản xuất mũ vận động. Vậy nó chỉ là chiêu kiếm tiền, chẳng giúp gì cho an toàn.”",
+   "highlight": "Vậy nó chỉ là chiêu kiếm tiền, chẳng giúp gì cho an toàn",
+   "answer": "genetic",
+   "options": [
+    "ad-hominem",
+    "genetic",
+    "none",
+    "appeal-ignorance"
+   ],
+   "explanation": "Kể cả nếu quy định ra đời nhờ vận động hành lang, điều đó không trả lời câu hỏi mũ bảo hiểm có giảm chấn thương hay không, một câu hỏi kiểm tra được bằng số liệu tai nạn.",
+   "why_not": {
+    "ad-hominem": "Người viết không công kích một người đang tranh luận; họ bác bỏ quy định vì cách nó ra đời.",
+    "none": "Động cơ của bên vận động có thể là lý do để xem lại số liệu kỹ hơn, nhưng không phải bằng chứng rằng mũ vô tác dụng.",
+    "appeal-ignorance": "Người viết không dựa vào việc chưa ai chứng minh điều gì."
+   }
+  },
+  {
+   "id": "f-096",
+   "level": 2,
+   "context": "gia-dinh",
+   "passage": "Chuyến bay cuối ngày đi Đà Nẵng đã hết chỗ. Chị Hoa nói: “Vậy hoặc mình đi xe khách đêm nay, hoặc đợi chuyến bay sáng mai. Thuê xe riêng thì vượt ngân sách, tàu đêm cũng hết vé rồi, nên chỉ còn hai cách đó.”",
+   "highlight": "Thuê xe riêng thì vượt ngân sách, tàu đêm cũng hết vé rồi",
+   "answer": "none",
+   "options": [
+    "sunk-cost",
+    "false-dilemma",
+    "none",
+    "appeal-emotion"
+   ],
+   "explanation": "Chị Hoa chỉ còn hai lựa chọn sau khi đã nêu và loại trừ các khả năng khác có lý do. Lưỡng nan chỉ là “giả” khi bỏ qua những lựa chọn còn mở.",
+   "why_not": {
+    "false-dilemma": "Lưỡng nan giả là bỏ sót lựa chọn; ở đây các lựa chọn khác đã được xét và loại trừ.",
+    "sunk-cost": "Không ai đòi tiếp tục vì tiếc khoản đã chi.",
+    "appeal-emotion": "Không có lời kêu gọi cảm xúc nào."
+   }
+  },
+  {
+   "id": "f-097",
+   "level": 3,
+   "context": "suc-khoe",
+   "passage": "Chị Vân mua gói tập gym một năm giá 12 triệu. Sau ba tháng, chị bị chấn thương đầu gối, bác sĩ khuyên tạm ngừng tập tạ và chuyển sang bơi. Chị vẫn cố đến phòng tập: “Đã trả tiền cả năm rồi, không tập thì phí.”",
+   "highlight": "Đã trả tiền cả năm rồi, không tập thì phí",
+   "answer": "sunk-cost",
+   "options": [
+    "none",
+    "false-dilemma",
+    "sunk-cost",
+    "appeal-emotion"
+   ],
+   "explanation": "12 triệu đã trả không đổi được dù chị tập hay không. Cố tập vì tiếc tiền, ngược với lời khuyên y khoa, là để khoản đã mất quyết định thay cho sức khỏe từ nay về sau.",
+   "why_not": {
+    "appeal-emotion": "Không ai dùng cảm xúc để thuyết phục chị; lý do của chị là tiếc khoản đã chi.",
+    "none": "Nếu chị chỉ dùng phòng tập cho những bài bác sĩ cho phép thì việc tận dụng gói đã mua là hợp lý. Ở đây chị làm ngược lời khuyên chỉ vì tiền đã trả.",
+    "false-dilemma": "Chị không đặt ra hai lựa chọn duy nhất."
+   }
+  },
+  {
+   "id": "f-098",
+   "level": 1,
+   "context": "quang-cao",
+   "passage": "Quảng cáo: “Hơn hai triệu bà mẹ Việt đã chọn sữa bột của chúng tôi. Hai triệu người không thể sai!”",
+   "highlight": "Hai triệu người không thể sai!",
+   "answer": "appeal-popularity",
+   "options": [
+    "begging-question",
+    "appeal-popularity",
+    "appeal-authority",
+    "appeal-emotion"
+   ],
+   "explanation": "Số người mua cho biết sản phẩm bán chạy, không cho biết nó tốt hơn sữa khác. Nhiều người hoàn toàn có thể cùng chọn vì quảng cáo, giá hay thói quen.",
+   "why_not": {
+    "appeal-authority": "Không có chuyên gia hay người nổi tiếng nào được viện dẫn.",
+    "appeal-emotion": "Quảng cáo có nhắm đến các bà mẹ, nhưng lý lẽ chính là con số người mua.",
+    "begging-question": "Tiền đề (nhiều người mua) khác kết luận (sản phẩm tốt); lỗi nằm ở bước nối hai thứ đó."
+   }
+  },
+  {
+   "id": "f-099",
+   "level": 2,
+   "context": "mang-xa-hoi",
+   "passage": "Một tài khoản đăng ảnh ba tài xế xe công nghệ vượt đèn đỏ, kèm lời bình: “Tài xế xe công nghệ bây giờ chẳng ai tôn trọng luật giao thông.”",
+   "highlight": "Tài xế xe công nghệ bây giờ chẳng ai tôn trọng luật giao thông",
+   "answer": "hasty-generalization",
+   "options": [
+    "straw-man",
+    "ad-hominem",
+    "appeal-popularity",
+    "hasty-generalization"
+   ],
+   "explanation": "Ba tấm ảnh được chọn lọc không đại diện cho hàng chục nghìn tài xế. Muốn biết tỉ lệ vi phạm cần số liệu có hệ thống.",
+   "why_not": {
+    "ad-hominem": "Bài không bác bỏ một lập luận bằng cách công kích người nói.",
+    "appeal-popularity": "Bài không dựa vào việc nhiều người tin như vậy.",
+    "straw-man": "Không có lập trường nào của ai bị bóp méo."
+   }
+  },
+  {
+   "id": "f-100",
+   "level": 3,
+   "context": "bao-chi",
+   "passage": "Bàn về việc đăng điểm thi của từng học sinh lên báo, anh Tâm nói: “Luật cho phép công bố thông tin vì lợi ích công cộng. Công chúng rất quan tâm đến điểm của từng em, tức là việc này có lợi ích công cộng. Vậy đăng điểm từng em là chính đáng.”",
+   "highlight": "Công chúng rất quan tâm đến điểm của từng em, tức là việc này có lợi ích công cộng",
+   "answer": "equivocation",
+   "options": [
+    "equivocation",
+    "none",
+    "begging-question",
+    "appeal-popularity"
+   ],
+   "explanation": "“Lợi ích công cộng” trong luật nghĩa là điều có ích cho xã hội; “công chúng quan tâm” chỉ là nhiều người tò mò. Anh Tâm đánh tráo hai nghĩa đó để đi đến kết luận.",
+   "why_not": {
+    "appeal-popularity": "Anh Tâm có nhắc đến sự quan tâm của số đông, nhưng bước quyết định là đánh đồng “nhiều người tò mò” với “lợi ích công cộng” theo nghĩa pháp lý.",
+    "none": "Lập luận sẽ đứng vững nếu anh chỉ ra việc đăng điểm từng em có ích gì cho xã hội, chứ không chỉ là có nhiều người muốn xem.",
+    "begging-question": "Kết luận không được giả định sẵn; lỗi là một cụm từ được dùng với hai nghĩa."
+   }
+  }
+ ]
+}

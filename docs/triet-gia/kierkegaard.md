@@ -1,0 +1,79 @@
+---
+title: "Kierkegaard"
+description: "Triết gia Đan Mạch viết bằng nhiều bút danh: cá nhân trước hệ thống, ba lĩnh vực tồn tại, lo âu là “chóng mặt của tự do”, đức tin như một sự dấn thân."
+updated: 2026-10-22
+---
+
+<!-- gen:philosophers: không sửa tay -->
+
+# Kierkegaard
+
+**1813–1855** · Thế kỷ 19 · *Søren Kierkegaard*
+
+Copenhagen, năm 1841. Một chàng trai 28 tuổi trả lại chiếc nhẫn đính hôn cho vị hôn thê Regine Olsen, chịu tiếng là kẻ bạc tình, rồi bỏ sang Berlin. Trong vài năm sau đó, anh cho ra đời một loạt sách ký bằng những cái tên lạ: Victor Eremita, Johannes de Silentio, Vigilius Haufniensis. Đó là Søren Kierkegaard, sinh ngày 5/5/1813, con út trong bảy người con của một thương gia giàu có, sùng đạo và u uất. Ông học thần học và triết học ở Copenhagen, viết luận văn về sự mỉa mai của Socrates (1841) — hình mẫu suốt đời của ông — và không bao giờ lấy vợ.
+
+Vì sao lại dùng bút danh? Kierkegaard tin rằng chân lý về cách sống không thể trao tay như một công thức: người đọc phải tự vật lộn với nó. Các bút danh giống những nhân vật trong một cuốn tiểu thuyết lớn — chàng thẩm mỹ chán đời, vị thẩm phán mẫu mực, Johannes “Im lặng” ngưỡng mộ Abraham mà không hiểu nổi ông. Đối thủ của ông là thói giải thích mọi thứ bằng một hệ thống mà quên mất con người cụ thể đang sống. Ông hay được coi là kẻ thù số một của Hegel, nhưng giới nghiên cứu gần đây cho rằng mục tiêu chính là các môn đồ Hegel ở Đan Mạch, và nhiều ý tưởng của ông phát triển từ chính Hegel.
+
+Những năm 1845–1846, tờ báo trào phúng *Corsair* đem ông ra giễu cợt, chế nhạo cả ngoại hình; người vốn thích dạo phố trò chuyện với mọi người trở nên khép kín. Từ đó ông viết về “công chúng” như một bóng ma vô danh do báo chí tạo ra, nhân danh nó mà người ta san phẳng mọi cá nhân — những trang nhiều người đọc lại khi nghĩ về đám đông trên mạng xã hội. Những năm cuối đời, ông công kích Giáo hội nhà nước Đan Mạch vì đã biến Kitô giáo thành tập tục. Ông ngã quỵ giữa phố và mất ngày 11/11/1855, khi mới 42 tuổi.
+
+Kierkegaard thường được gọi là “cha đẻ của chủ nghĩa hiện sinh”, dù nhãn ấy che khuất một điều: ông là một nhà tư tưởng Kitô giáo. Ông ảnh hưởng tới Heidegger, Sartre, Beauvoir, và cả Wittgenstein, người gọi ông là nhà tư tưởng sâu sắc nhất thế kỷ 19; sách của ông còn được dịch sang tiếng Nhật trước cả tiếng Anh. Câu hỏi của ông vẫn nguyên đó: biết rất nhiều về cuộc đời có giúp ta biết mình phải sống thế nào không?
+
+## Tác phẩm chính
+
+- *Enten–Eller* (1843) — *Hoặc/hoặc*: đời sống thẩm mỹ đối diện đời sống đạo đức
+- *Frygt og Bæven* (1843) — *Kính sợ và run rẩy*, bút danh Johannes de Silentio: Abraham và đức tin
+- *Begrebet Angest* (1844) — *Khái niệm lo âu*, bút danh Vigilius Haufniensis
+- *Afsluttende uvidenskabelig Efterskrift* (1846) — *Tái bút phi khoa học kết thúc*, bút danh Johannes Climacus
+- *Kjerlighedens Gjerninger* (1847) — *Những việc làm của tình yêu*, ký tên thật
+- *Sygdommen til Døden* (1849) — *Căn bệnh đến cái chết*, bút danh Anti-Climacus: tuyệt vọng và cái tôi
+
+## Tư tưởng chính
+
+- **Cá nhân trước hệ thống.** Một hệ thống có thể giải thích cả lịch sử thế giới mà vẫn không trả lời câu hỏi của một người cụ thể: *mình* nên sống thế nào? Suy xét thôi chưa đủ, vì suy xét có thể kéo dài vô tận; đến một lúc phải có quyết định, và không ai quyết định thay ai.
+- **Ba lĩnh vực tồn tại.** Thẩm mỹ (sống theo hứng thú, sợ nhất là chán), đạo đức (tự ràng buộc vào cam kết như hôn nhân, nghề nghiệp), tôn giáo (đứng trước Thượng đế). Đây không phải ba nấc thang tự động leo lên mà là những lối sống cạnh tranh nhau; chuyển từ lối này sang lối khác đòi hỏi cả con người phải đổi khác.
+- **Lo âu là chóng mặt của tự do.** Trong *Khái niệm lo âu*, lo âu là cảm giác khi ta nhìn xuống những khả năng của chính mình: vừa bị hút về, vừa muốn lùi lại. Việc cần làm không phải xóa bỏ lo âu mà là học cách lo âu cho đúng.
+
+## Một lập luận tiêu biểu: Abraham — đức tin có đứng trên đạo đức không?
+
+Trong *Kính sợ và run rẩy*, qua bút danh Johannes de Silentio, Kierkegaard biến chuyện Abraham được lệnh hiến tế con trai Isaac (Sáng thế ký 22) thành một thế lưỡng nan, theo cách tái dựng phổ biến:
+
+- **P1.** Nếu đạo đức — những đòi hỏi phổ quát, giải thích được bằng lý lẽ chung cho mọi người — là tầng cao nhất của đời sống, thì không gì biện minh được việc giết một đứa con vô tội.
+- **P2.** Abraham sẵn sàng làm điều đó vì một quan hệ riêng với Thượng đế mà ông không thể giải thích cho ai — khác với người anh hùng bi kịch như Agamemnon, người còn viện dẫn được lợi ích của cả đoàn quân.
+- **P3.** Thế nhưng truyền thống lại tôn vinh Abraham là “cha của đức tin”.
+- **K.** Vậy hoặc có một “sự đình chỉ có mục đích của đạo đức” — quan hệ của cá nhân với Thượng đế đứng cao hơn cái phổ quát — hoặc Abraham chỉ là kẻ suýt giết con, và mọi lời ca ngợi ông đều sai.
+
+**Phản bác chính.** Từ năm 1798, Kant đã viết rằng trước một giọng nói tự xưng là của Thượng đế, Abraham lẽ ra phải đáp: việc ta không được giết đứa con ngoan của mình là hoàn toàn chắc chắn, còn việc ngươi là Thượng đế thì ta không chắc và không bao giờ chắc được. Nếu đức tin đứng trên đạo đức, lấy gì phân biệt Abraham với kẻ cuồng tín nghe “tiếng gọi” rồi làm hại người khác?
+
+**Cách đáp lại.** Chính Johannes tự nhận mình đứng ngoài đức tin và không hiểu nổi Abraham, nên cuốn sách không phải lời khuyên làm theo. Giới nghiên cứu cũng cảnh báo cách đọc coi thông điệp chính là sự vâng lời: điều Johannes kinh ngạc là niềm tin của Abraham rằng mình sẽ nhận lại Isaac ngay trong đời này, cùng nỗi sợ hãi và run rẩy đi kèm — trái ngược sự chắc chắn thanh thản của kẻ cuồng tín.
+
+!!! quote "Kierkegaard (bút danh Johannes de Silentio), *Fear and Trembling* (1843), phần “Preliminary Expectoration”, đoạn tả “hiệp sĩ đức tin” — bản dịch tiếng Anh của L. M. Hollander (1923)"
+    "He attends to his business, and when one sees him one might think he was a clerk who had lost his soul in doing double bookkeeping, he is so exact."
+
+    "Ông lo việc làm ăn của mình, và ai thấy ông cũng có thể tưởng đó là một anh thư ký đã đánh mất linh hồn vào sổ sách kế toán kép, vì ông chỉn chu đến thế." *(bản dịch của Logos Zero)*
+
+## Hiểu lầm thường gặp
+
+- **“Kierkegaard nói chân lý là chủ quan, ai tin gì thì cái đó đúng với người ấy.”** Thực ra câu “chân lý là tính chủ thể” là của bút danh Johannes Climacus, và nó nói về *cách* một người nắm giữ những niềm tin quyết định đời mình, chứ không nói rằng tin gì cũng đúng. Điều Kierkegaard chống là thói biết rất nhiều mà không sống theo điều mình biết.
+- **“Đức tin theo Kierkegaard là thứ cuồng nhiệt, khác người.”** Thực ra “hiệp sĩ đức tin” mà Johannes tưởng tượng trông y như một ông thư ký chỉn chu, đi lễ ngày Chủ nhật, háo hức với bữa tối ở nhà (xem trích đoạn trên): đức tin, nếu có, không lộ ra bằng dấu hiệu bên ngoài nào.
+
+## Ảnh hưởng
+
+**Chịu ảnh hưởng từ:** [Socrates](socrates.md), [Hegel](hegel.md).
+
+**Ảnh hưởng tới:** [Heidegger](heidegger.md), [Wittgenstein](wittgenstein.md), [Sartre](sartre.md), [Simone de Beauvoir](beauvoir.md).
+
+## Đọc thêm trên Logos Zero
+
+- [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)
+- [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)
+
+## Nguồn
+
+1. Lippitt, John & C. Stephen Evans, “Søren Kierkegaard”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kierkegaard/>
+2. McDonald, William, “Søren Kierkegaard”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/kierkega/>
+3. Kierkegaard, Søren, *Selections from the Writings of Kierkegaard*, L. M. Hollander dịch (1923), Project Gutenberg. <https://www.gutenberg.org/ebooks/60333>
+4. Kant, Immanuel, *Der Streit der Fakultäten* (1798), Ak 7:63 (chú thích về Abraham). <https://www.korpora.org/Kant/aa07/063.html>
+
+---
+
+*[Các triết gia](index.md) · [Dòng thời gian triết học](../lich-su/dong-thoi-gian.md) · [Sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md)*

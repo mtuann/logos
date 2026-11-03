@@ -1,0 +1,77 @@
+name: Kiểm thử và triển khai
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+      - name: Cài đặt
+        run: |
+          pip install -r requirements.txt
+          npm ci
+      - name: Kiểm tra trang sinh tự động khớp dữ liệu
+        run: python tools/gen_glossary.py --check
+      - name: Kiểm tra hình khớp mã nguồn
+        run: python tools/figures.py --check
+      - name: Kiểm tra mục rà soát khớp dữ liệu
+        run: python tools/review_check.py --check
+      - name: Kiểm tra dòng thời gian khớp dữ liệu
+        run: python tools/timeline.py --check
+      - name: Kiểm tra sơ đồ ảnh hưởng khớp dữ liệu
+        run: python tools/influence.py --check
+      - name: Kiểm tra trang triết gia khớp dữ liệu
+        run: python tools/philosophers.py --check
+      - name: Kiểm tra sách in
+        run: python tools/book.py --check
+      - name: Kiểm tra frontmatter YAML hợp lệ
+        run: python tools/frontmatter_check.py --check
+      - name: Kiểm tra ngân hàng câu hỏi khớp dữ liệu
+        run: python tools/quiz_bank.py --check
+      - name: Build (strict)
+        run: mkdocs build --strict
+      - name: Kiểm thử Python
+        run: python -m unittest discover -s tests -v
+      - name: Kiểm thử JavaScript, trình duyệt, khả năng tiếp cận, tìm kiếm
+        run: npm test
+      - name: Kích thước
+        run: |
+          du -sh site
+          wc -c docs/assets/js/*.js docs/assets/css/*.css | tail -1
+      - uses: actions/upload-pages-artifact@v5
+        if: github.event_name != 'pull_request'
+        with:
+          path: site
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

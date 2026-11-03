@@ -1,0 +1,80 @@
+---
+title: "Chu Hy"
+description: "Chu Hy, nhà tổng hợp Tân Nho giáo đời Tống: lý và khí, cách vật trí tri, bộ Tứ thư, thứ triết học đã thành chương trình học của sĩ tử Đông Á."
+updated: 2026-10-22
+---
+
+<!-- gen:philosophers: không sửa tay -->
+
+# Chu Hy
+
+**1130–1200** · Trung Hoa · *Zhu Xi*
+
+Tương truyền năm lên năm, cậu bé Chu Hy đã hỏi bên ngoài trời là gì. Lớn lên ông vẫn giữ cái tò mò ấy: thấy vỏ sò ốc nằm trong đá trên núi cao, ông đoán chỗ ấy xưa là đáy nước, “chỗ thấp đổi thành cao, chất mềm đổi thành cứng” (*Chu Tử ngữ loại*, quyển 94). Ông sinh năm 1130 ở Phúc Kiến, thời Nam Tống, khi triều đình vừa mất miền Bắc vào tay người Nữ Chân, và nỗi nhục ấy phủ bóng lên tư tưởng chính trị cả một thời (Tiwald, SEP).
+
+Cha mất sớm, ông theo học mấy người bạn của cha, những học giả đọc cả sách Phật, sách Lão. Ông học Thiền với một nhà sư, đỗ tiến sĩ khi chưa đầy hai mươi tuổi, và theo SEP, bài thi còn dùng ý Thiền. Phải đến khi chính thức theo học Lý Đồng (1093–1163), người thuộc dòng học của anh em họ Trình, ông mới dứt khoát quay về đạo Nho. Ông làm quan không nhiều; vì bất đồng với triều đình, ông thường xin giữ những chức trông coi đền miếu nhàn tản để có thì giờ đọc sách, viết sách và dạy hàng trăm, có lẽ hàng nghìn học trò.
+
+Việc lớn của ông là tổng hợp. Ông gom ý tưởng của các bậc thầy Bắc Tống, Chu Đôn Di, Trương Tái, Trình Hạo, Trình Di, thành một hệ thống nối liền vũ trụ, bản tính con người và con đường tu dưỡng. Ông chọn bốn văn bản *Đại học*, *Luận ngữ*, *Mạnh Tử*, *Trung dung*, chú giải thành bộ *Tứ thư*. Từ năm 1313, nhà Nguyên lấy cách hiểu kinh điển của ông làm chuẩn cho khoa cử, và cho tới khi khoa cử bị bãi bỏ đầu thế kỷ 20, hàng triệu sĩ tử đã học Nho giáo qua lời chú của ông (Tiwald, SEP).
+
+Ảnh hưởng ấy lan sang Triều Tiên, Nhật Bản và Việt Nam. Nhưng Chu Hy không chỉ là người giữ kinh: đối thủ cùng thời là Lục Cửu Uyên, và ba thế kỷ sau là Vương Dương Minh, cãi với ông kịch liệt về chuyện cái lý của đạo đức nằm ở đâu, trong sự vật hay trong lòng người. Cuộc tranh luận giữa “lý học” và “tâm học” ấy, theo Justin Tiwald (SEP), vẫn định hình phần lớn cách người ta bàn về Nho giáo ở Đông Á ngày nay.
+
+## Tác phẩm chính
+
+- *Tứ thư chương cú tập chú* (四書章句集注) (cuối TK 12) — Chú giải bốn sách *Đại học*, *Luận ngữ*, *Mạnh Tử*, *Trung dung*; từ năm 1313 thành chuẩn khoa cử
+- *Cận tư lục* (近思錄) (TK 12) — Tuyển lời các bậc thầy Bắc Tống: Chu Đôn Di, Trương Tái, anh em họ Trình
+- *Chu Tử ngữ loại* (朱子語類) (sau 1200) — Ghi chép lời giảng và đối đáp với học trò, được xếp theo chủ đề sau khi ông mất
+- *Chu Tử văn tập* (朱子文集) — Thơ, văn, thư từ, trong đó có các thư tranh luận về tu dưỡng
+
+## Tư tưởng chính
+
+- **Lý và khí.** Theo Chu Hy, mọi vật đều có lý (理), cái khuôn mẫu, cái lẽ khiến nó là nó, và khí (氣), chất liệu cụ thể làm nên hình hài của nó. Nói nôm na: thuyền nào cũng khác nhau về gỗ, về dáng, nhưng chiếc nào cũng phải theo cái lẽ đi được trên nước. Lý của muôn vật rốt cuộc quy về một, gọi là Thái cực.
+- **Tính người là lý.** Theo Mạnh Tử, Chu Hy tin bản tính con người vốn tốt; nhưng mỗi người bẩm thụ một thứ khí khác nhau, lại sống trong gia đình, hoàn cảnh khác nhau, nên có người dễ thành người tốt, có người khó, và ai cũng có thể sa vào điều xấu (Thompson, SEP). Tu dưỡng là làm cho cái lý vốn có ấy sáng ra.
+- **Kính và học.** Tu dưỡng đi bằng hai chân: giữ lòng chăm chú, kính cẩn (kính 敬), và xét cái lý của sự vật cho tới cùng. Cuối đời ông nhấn mạnh trước hết phải lập chí, quyết tâm làm người quân tử (Thompson, SEP).
+
+## Một lập luận tiêu biểu: Cách vật trí tri — muốn biết, hãy đi vào từng sự vật
+
+Sách *Đại học* nói mở mang hiểu biết là ở chỗ “cách vật”, xét đến sự vật, nhưng đoạn giải thích đã mất. Chu Hy viết bổ vào một đoạn, nói rõ là “trộm lấy ý của Trình Tử”, và đoạn ấy chứa một lập luận gọn:
+
+- **P1.** Lòng người linh diệu, không ai không có khả năng biết.
+- **P2.** Vật trong thiên hạ, không vật nào không có lý của nó.
+- **P3.** Hiểu biết của ta còn chưa trọn chỉ vì lý của sự vật còn chưa được xét cho cùng.
+- **K.** Vậy muốn mở mang hiểu biết, phải đến với từng sự vật, dựa vào cái lý đã biết mà xét thêm cho tới cùng; dụng công lâu ngày, sẽ có lúc “bỗng nhiên thông suốt” (khoát nhiên quán thông).
+
+**Phản bác chính.** Ba thế kỷ sau, Vương Dương Minh (1472–1529) thử “cách” những khóm trúc trước nhà để tìm lý của trúc, nghĩ mãi mà chẳng được gì, rồi gạt bỏ hẳn phương pháp của Chu Hy (Thompson, SEP); ông đi tới chỗ cho rằng lý ở ngay trong tâm. Trước đó, đối thủ cùng thời Lục Cửu Uyên tin vào trực giác đạo đức: tâm đã chứa lý, cần gì đi tìm khắp muôn vật? Con đường của Chu Hy, theo họ, vừa vụn vặt vừa xa vời.
+
+**Cách đáp lại.** Người theo Chu Hy đáp: “cách vật” không phải nhìn chằm chằm vào khóm trúc, mà chủ yếu là đọc sách, suy xét việc người, quan sát tự nhiên, đi cùng một thái độ chăm chú, kính cẩn. Chu Hy cho rằng trực giác một mình không đủ để xử lý những việc phức tạp của đời người, vì nhiều tình huống đòi hỏi cách ứng xử may đo riêng (Thompson, SEP). Và chính ông đã dùng lối nghĩ ấy khi từ vỏ sò trên núi suy ra núi xưa từng là đáy nước.
+
+!!! quote "Chu Hy, *Chu Tử ngữ loại* (朱子語類), quyển 94, lời đáp học trò về Thái cực — nguyên văn chữ Hán và phiên âm Hán Việt"
+    "本只是一太極，而萬物各有稟受，又自各全具一太極爾。如月在天，只一而已；及散在江湖，則隨處而見，不可謂月已分也。 — Bản chỉ thị nhất Thái cực, nhi vạn vật các hữu bẩm thụ, hựu tự các toàn cụ nhất Thái cực nhĩ. Như nguyệt tại thiên, chỉ nhất nhi dĩ; cập tán tại giang hồ, tắc tùy xứ nhi kiến, bất khả vị nguyệt dĩ phân dã."
+
+    "Vốn chỉ có một Thái cực, nhưng muôn vật mỗi vật đều bẩm thụ, lại mỗi vật tự có đủ trọn một Thái cực. Như mặt trăng trên trời chỉ có một mà thôi; khi rải xuống sông hồ thì chỗ nào cũng thấy, không thể nói rằng mặt trăng đã bị chia ra." *(bản dịch của Logos Zero)*
+
+## Hiểu lầm thường gặp
+
+- **“Cách vật trí tri là nghiên cứu khoa học thực nghiệm.”** Thực ra với Chu Hy, lý vừa là lẽ của tự nhiên vừa là chuẩn mực đạo đức, và việc “cách vật” chủ yếu là đọc kinh điển, suy xét việc người. Ông có nhiều quan sát tự nhiên sắc sảo, về tuần trăng, nhật thực, sự hình thành trời đất, nhưng theo SEP những giải thích ấy chưa đủ chặt để thành giả thuyết khoa học.
+- **“Chu Hy chỉ là nhà chú giải bảo thủ.”** Thực ra ông là một nhà tổng hợp táo bạo: ông chọn lại kinh điển, đặt *Tứ thư* vào trung tâm việc học, tự viết thêm đoạn giải thích cho *Đại học*, và theo SEP có lẽ còn chịu ảnh hưởng lối nhìn toàn thể của Phật giáo Hoa Nghiêm khi dựng hệ thống. Vị thế “chính thống” là do triều đình đời sau trao cho tư tưởng của ông.
+
+## Ảnh hưởng
+
+**Chịu ảnh hưởng từ:** [Khổng Tử](khong-tu.md), [Mạnh Tử](manh-tu.md).
+
+**Ảnh hưởng tới:** [Chu Văn An](chu-van-an.md).
+
+## Đọc thêm trên Logos Zero
+
+- [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)
+- [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)
+- [Nhật Bản và Việt Nam: triết học ở phương Đông](../lich-su/nhat-ban-viet-nam.md)
+
+**Các bài khác nhắc tới Chu Hy:** [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md), [Luận ngữ — những lời dạy của Khổng Tử](../doc/luan-ngu.md), [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md).
+
+## Nguồn
+
+1. Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/zhu-xi/>
+2. Tiwald, Justin, “Song-Ming Confucianism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/song-ming-confucianism/>
+3. Chu Hy, *Đại học chương cú* (大學章句), đoạn bổ truyện chương 5 về cách vật trí tri, nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8/%E5%A4%A7%E5%AD%B8%E7%AB%A0%E5%8F%A5>
+4. *Chu Tử ngữ loại* (朱子語類), quyển 94, nguyên văn chữ Hán, ctext.org. <https://ctext.org/zhuzi-yulei/94/zh>
+
+---
+
+*[Các triết gia](index.md) · [Dòng thời gian triết học](../lich-su/dong-thoi-gian.md) · [Sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md)*

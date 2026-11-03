@@ -1,0 +1,81 @@
+---
+title: "Epicurus"
+description: "Người thầy của Khu Vườn: hạnh phúc là thân không đau, tâm không xao động; triết học là thuốc chữa nỗi sợ thần linh và nỗi sợ cái chết."
+updated: 2026-10-22
+---
+
+<!-- gen:philosophers: không sửa tay -->
+
+# Epicurus
+
+**341–270 TCN** · Hy Lạp cổ đại
+
+“Gửi cho tôi một hũ pho mát nhỏ, để khi nào muốn, tôi có thể ăn một bữa thịnh soạn.” Người viết dòng ấy là Epicurus — cái tên mà tiếng Anh nay mượn để gọi người sành ăn, ham hưởng thụ (*epicure*). Nghịch lý là chính ông tự nhận bằng lòng với bánh mì và nước lã; với ông, một miếng pho mát đã là yến tiệc.
+
+Epicurus sinh năm 341 TCN trên đảo Samos, trong một gia đình công dân Athens định cư ở đó. Mười tám tuổi ông về Athens, rồi sang Colophon học với Nausiphanes, một người theo Democritus. Ông dạy học ở Mytilene và Lampsacus, rồi năm 307/306 TCN trở lại Athens, mua một ngôi nhà có vườn giá tám mươi mina. “Khu Vườn” thành tên trường: bạn bè từ khắp nơi đến sống chung, đạm bạc, có cả phụ nữ và người nô lệ của ông. Ông tin rằng trong mọi thứ sự khôn ngoan đem lại cho một đời hạnh phúc, quý nhất là tình bạn.
+
+Triết học của Epicurus là một liều thuốc. Ông thấy nỗi khổ lớn nhất của con người đến từ hai nỗi sợ: sợ thần linh trừng phạt và sợ cái chết. Thuốc chữa là hiểu đúng tự nhiên: mọi thứ là nguyên tử và khoảng trống; thần linh có, nhưng chẳng bận tâm đến chuyện người; linh hồn tan rã cùng thân xác. Còn hạnh phúc là thân không đau, tâm không xao động — đạt được bằng cách phân biệt ham muốn tự nhiên, cần thiết với những ham muốn rỗng như khao khát vương miện hay tượng đài vinh danh.
+
+Năm 270 TCN, sau hai tuần đau đớn vì sỏi thận, ông viết cho bạn: “Vào ngày hạnh phúc này, cũng là ngày cuối đời tôi…”, rằng nỗi đau thân xác được bù lại bằng niềm vui khi nhớ những cuộc trò chuyện cũ; di chúc của ông dặn lo cho con cái của bạn bè. Trường phái ông tồn tại nhiều thế kỷ; nhà thơ La Mã Lucretius viết cả một trường ca để truyền bá nó, và hoàng đế Khắc kỷ Marcus Aurelius vẫn trích lời ông với thiện cảm. Giữa một thời lo âu vì áp lực thành công và mạng xã hội, câu hỏi của ông vẫn đáng hỏi: ta thật sự cần gì để sống yên?
+
+## Tác phẩm chính
+
+- *Peri physeōs* — *Về tự nhiên*: bộ bài giảng 37 cuộn; chỉ còn những mảnh giấy cói cháy dở tìm thấy ở Herculaneum, thành phố bị núi lửa Vesuvius vùi năm 79
+- *Letter to Herodotus* — *Thư gửi Herodotus*: tóm tắt vật lý học nguyên tử, chép trong Diogenes Laërtius quyển X
+- *Letter to Menoeceus* — *Thư gửi Menoeceus*: đạo đức học trong vài trang — thần linh, cái chết, ham muốn, khoái lạc
+- *Kuriai doxai* — *Những học thuyết chính*: các châm ngôn cốt lõi để ghi nhớ; một tuyển tập khác, *Châm ngôn Vatican*, còn trong một bản chép tay riêng
+
+## Tư tưởng chính
+
+- **Khoái lạc hiểu đúng**: mục đích là thân không đau (*aponia*), tâm không xao động (*ataraxia*). Vì thế có lúc phải bỏ qua một khoái lạc kéo theo phiền toái lớn hơn, hay chịu một nỗi đau nhỏ để tránh nỗi đau lớn (*Thư gửi Menoeceus* 129).
+- **Ba loại ham muốn**: tự nhiên và cần thiết (uống khi khát), tự nhiên mà không cần thiết (món ăn đắt tiền), và không tự nhiên cũng không cần thiết, sinh từ ảo tưởng (vương miện, tượng đài). Hạnh phúc dễ hơn ta tưởng nếu biết phân loại (*Những học thuyết chính* 29).
+- **Thần linh không can thiệp**: thần linh có, nhưng không như đám đông tin; kẻ bất kính thật sự là người gán cho thần những điều đám đông nghĩ về họ (*Thư gửi Menoeceus* 123).
+- **Triết học là thuốc**: “không tuổi nào là quá sớm hay quá muộn để chăm lo sức khỏe của tâm hồn” (*Thư gửi Menoeceus* 122).
+
+## Một lập luận tiêu biểu: Chết không là gì với ta
+
+Trong *Thư gửi Menoeceus* (124–125), Epicurus muốn gỡ nỗi sợ lớn nhất của con người. Đây là lập luận của ông ở dạng chuẩn.
+
+- **P1.** Mọi điều tốt và xấu đều nằm ở cảm giác: chỉ cái gì ta cảm nhận được mới có thể tốt hay xấu cho ta.
+- **P2.** Chết là mất hết mọi cảm giác.
+- **P3.** Khi ta còn thì cái chết chưa đến; khi cái chết đến thì ta không còn.
+- **K.** Vậy cái chết không là gì với ta; sợ nó chỉ là một nỗi đau vô cớ trong lúc chờ đợi.
+
+**Phản bác chính.** Thomas Nagel (bài “Death”, 1970) chỉ ra một lỗ hổng ở P1: một điều có thể xấu cho ta không phải vì nó gây cảm giác đau, mà vì nó **tước đi** (*deprive*) những điều tốt ta lẽ ra còn có. Cái chết lấy đi mọi buổi sáng, mọi cuộc trò chuyện còn lại; vì thế chết trẻ bi thảm hơn chết già.
+
+**Cách đáp lại.** Người theo Epicurus hỏi lại: tước đoạt *của ai*, và *vào lúc nào*? Khi ta còn sống thì chưa mất gì; khi đã chết thì không còn ai để bị mất. Lucretius thêm lập luận đối xứng: ta không khổ vì khoảng thời gian vô tận trước khi sinh ra, vậy cớ gì sợ khoảng vô tận sau khi chết?
+
+!!! quote "Epicurus, *Thư gửi Menoeceus* 125, chép trong Diogenes Laërtius X — bản dịch tiếng Anh của R. D. Hicks (1925)"
+    "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not."
+
+    "Vậy cái chết, điều đáng sợ nhất trong mọi điều xấu, chẳng là gì với ta, bởi khi ta còn thì cái chết chưa đến, và khi cái chết đến thì ta không còn." *(bản dịch của Logos Zero)*
+
+## Hiểu lầm thường gặp
+
+- **“Epicurus cổ vũ ăn chơi hưởng lạc.”** Thực ra ông viết rõ: khi nói khoái lạc là mục đích, ông không nói đến khoái lạc của kẻ phóng đãng hay của tiệc tùng, mà là thân không đau, tâm không rối (*Thư gửi Menoeceus* 131–132). Nguồn vui lớn nhất với ông là tình bạn và suy nghĩ tỉnh táo.
+- **“Epicurus là người vô thần.”** Thực ra ông khẳng định thần linh có thật; ông chỉ phủ nhận rằng thần bận tâm trừng phạt hay ban thưởng con người — và vì thế, theo ông, ta không cần sợ thần.
+
+## Ảnh hưởng
+
+**Chịu ảnh hưởng từ:** [Democritus](democritus.md).
+
+**Ảnh hưởng tới:** [Marcus Aurelius](marcus-aurelius.md).
+
+## Đọc thêm trên Logos Zero
+
+- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
+- [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)
+- [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
+
+**Các bài khác nhắc tới Epicurus:** [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md), [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md), [Đọc "Biện hộ của Socrates" (Platon)](../doc/platon-bien-ho.md).
+
+## Nguồn
+
+1. Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/epicurus/>
+2. Luper, Steven, “Death”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/death/>
+3. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển X (có ba bức thư và *Những học thuyết chính*), bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X>
+4. Nagel, Thomas, “Death”, *Noûs* 4 (1970): 73–80. <https://doi.org/10.2307/2214297>
+
+---
+
+*[Các triết gia](index.md) · [Dòng thời gian triết học](../lich-su/dong-thoi-gian.md) · [Sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md)*

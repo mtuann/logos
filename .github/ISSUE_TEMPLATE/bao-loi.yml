@@ -1,0 +1,33 @@
+name: Báo lỗi nội dung
+description: Báo một sai sót trên Logos Zero (sự kiện, năm tháng, trích dẫn, bản dịch, quiz, link hỏng, lỗi hiển thị).
+title: "[Báo lỗi] "
+labels: ["bao-loi"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã giúp Logos Zero chính xác hơn. Nút "Báo lỗi trang này" ở cuối mỗi trang đã điền sẵn tên và đường dẫn trang.
+  - type: input
+    id: trang
+    attributes:
+      label: Trang
+      description: Đường dẫn tới trang có lỗi.
+      placeholder: https://mtuann.github.io/logos-zero/...
+    validations:
+      required: true
+  - type: textarea
+    id: loi
+    attributes:
+      label: Sai sót là gì?
+      description: Chép lại câu hoặc đoạn có vấn đề, và cho biết vì sao bạn thấy nó sai.
+    validations:
+      required: true
+  - type: textarea
+    id: de-xuat
+    attributes:
+      label: Nên sửa thành gì? (nếu có)
+  - type: textarea
+    id: nguon
+    attributes:
+      label: Nguồn đối chiếu (nếu có)
+      description: Sách, bài báo, mục SEP/IEP, văn bản gốc…, kèm số trang hoặc link.

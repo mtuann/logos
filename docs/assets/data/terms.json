@@ -1,0 +1,2140 @@
+{
+  "version": 1,
+  "updated": "2026-10-22",
+  "terms": [
+    {
+      "id": "triet-hoc",
+      "vi": "triết học",
+      "en": "philosophy",
+      "han": "哲學",
+      "def": "Việc khảo sát những câu hỏi nền tảng về tri thức, thực tại, giá trị và lý lẽ bằng lập luận có thể bị phản bác.",
+      "example": "Hỏi \"làm sao mình biết lúc này mình không đang mơ?\" là đã bắt đầu làm triết học.",
+      "see": "bat-dau/index.md"
+    },
+    {
+      "id": "logic",
+      "vi": "logic",
+      "en": "logic",
+      "alt": [
+        "lô-gích",
+        "luận lý học"
+      ],
+      "def": "Môn nghiên cứu những nguyên tắc phân biệt suy luận đúng với suy luận sai.",
+      "example": "Từ \"mọi người đều phải chết\" và \"Lan là người\" suy ra \"Lan phải chết\" là một bước suy luận mà logic kiểm tra được.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "ly-tinh",
+      "vi": "lý tính",
+      "en": "reason",
+      "han": "理性",
+      "def": "Năng lực suy nghĩ có lý lẽ: cân nhắc bằng chứng, rút ra kết luận và đánh giá lý do.",
+      "example": "Kìm cơn giận để xem xét xem người kia có lý ở điểm nào là dùng lý tính.",
+      "see": "lich-su/can-dai.md"
+    },
+    {
+      "id": "kinh-nghiem",
+      "vi": "kinh nghiệm",
+      "en": "experience",
+      "han": "經驗",
+      "def": "Những gì ta tiếp nhận qua giác quan và trải nghiệm, dùng làm nguồn của hiểu biết.",
+      "example": "Biết ớt cay vì đã từng ăn là hiểu biết đến từ kinh nghiệm.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "khai-niem",
+      "vi": "khái niệm",
+      "en": "concept",
+      "han": "概念",
+      "def": "Ý niệm chung giúp ta nhóm các sự vật lại và suy nghĩ về chúng, như \"công bằng\" hay \"tri thức\".",
+      "example": "Hai người cãi nhau về \"tự do\" nhưng mỗi người hiểu khái niệm ấy một kiểu.",
+      "see": "bat-dau/index.md"
+    },
+    {
+      "id": "dinh-nghia",
+      "vi": "định nghĩa",
+      "en": "definition",
+      "han": "定義",
+      "def": "Lời phát biểu nói rõ một từ hay khái niệm nghĩa là gì, thường bằng cách nêu điều kiện để áp dụng nó.",
+      "example": "\"Hình vuông là hình chữ nhật có bốn cạnh bằng nhau\" là một định nghĩa.",
+      "see": "cong-cu/dinh-nghia-phan-vi-du.md"
+    },
+    {
+      "id": "phan-tich-khai-niem",
+      "vi": "phân tích khái niệm",
+      "en": "conceptual analysis",
+      "def": "Phương pháp làm rõ một khái niệm bằng cách tìm các điều kiện cần và đủ để nó được áp dụng, rồi thử bằng phản ví dụ.",
+      "example": "Hỏi \"biết\" có phải chỉ là \"tin đúng có lý do\" không, rồi tìm trường hợp tin đúng có lý do mà vẫn không phải biết.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "truc-giac-triet-hoc",
+      "vi": "trực giác (triết học)",
+      "en": "intuition",
+      "han": "直覺",
+      "def": "Phán đoán tự nhiên, chưa qua lập luận, về một trường hợp cụ thể, thường được dùng làm dữ kiện để thử một lý thuyết.",
+      "example": "Hầu hết mọi người thấy ngay rằng phạt người vô tội để xoa dịu đám đông là sai, trước khi kịp đưa ra lý do.",
+      "see": "cong-cu/thi-nghiem-tu-duy.md"
+    },
+    {
+      "id": "phan-bac",
+      "vi": "phản bác",
+      "en": "objection",
+      "han": "反駁",
+      "def": "Lý do được đưa ra để chỉ rằng một lập luận hay một lập trường có chỗ sai.",
+      "example": "\"Nếu chỉ cần tin chắc là biết, thì người tin nhầm cũng 'biết' à?\" là một phản bác.",
+      "see": "cong-cu/luan-cu-thep.md"
+    },
+    {
+      "id": "nghich-ly",
+      "vi": "nghịch lý",
+      "en": "paradox",
+      "def": "Một lập luận đi từ những tiền đề có vẻ đúng, qua những bước có vẻ hợp lý, đến một kết luận có vẻ sai hoặc mâu thuẫn.",
+      "example": "Một hạt gạo không làm nên đống gạo, thêm một hạt cũng không, vậy mãi mãi không có đống gạo nào?"
+    },
+    {
+      "id": "lap-luan",
+      "vi": "lập luận",
+      "en": "argument",
+      "han": "立論",
+      "alt": [
+        "luận cứ"
+      ],
+      "def": "Một tập hợp khẳng định, trong đó một số (tiền đề) được đưa ra làm lý do để chấp nhận một khẳng định khác (kết luận).",
+      "example": "\"Trời đang mưa to, nên đường Nguyễn Hữu Cảnh sẽ ngập\" là một lập luận ngắn.",
+      "see": "cong-cu/lap-luan-la-gi.md"
+    },
+    {
+      "id": "tien-de",
+      "vi": "tiền đề",
+      "en": "premise",
+      "han": "前提",
+      "def": "Khẳng định được đưa ra làm lý do để ủng hộ kết luận trong một lập luận.",
+      "example": "Trong \"quán này luôn đông, nên chắc đồ ăn ngon\", \"quán này luôn đông\" là tiền đề.",
+      "see": "cong-cu/lap-luan-la-gi.md"
+    },
+    {
+      "id": "ket-luan",
+      "vi": "kết luận",
+      "en": "conclusion",
+      "han": "結論",
+      "def": "Khẳng định mà các tiền đề của một lập luận nhằm ủng hộ.",
+      "example": "Trong \"quán này luôn đông, nên chắc đồ ăn ngon\", \"đồ ăn ngon\" là kết luận.",
+      "see": "cong-cu/lap-luan-la-gi.md"
+    },
+    {
+      "id": "khang-dinh",
+      "vi": "khẳng định",
+      "en": "claim",
+      "alt": [
+        "mệnh đề"
+      ],
+      "def": "Một câu nói có thể đúng hoặc sai.",
+      "example": "\"Hà Nội là thủ đô Việt Nam\" là một khẳng định; \"Mấy giờ rồi?\" thì không.",
+      "see": "cong-cu/lap-luan-la-gi.md"
+    },
+    {
+      "id": "loi-giai-thich",
+      "vi": "lời giải thích",
+      "en": "explanation",
+      "def": "Lời nói cho biết vì sao một điều đã được chấp nhận là xảy ra, khác với lập luận nhằm chứng minh điều đó đúng.",
+      "example": "\"Đường ngập vì cống bị tắc\" giải thích việc ngập, không nhằm thuyết phục bạn rằng đường đang ngập.",
+      "see": "cong-cu/lap-luan-la-gi.md"
+    },
+    {
+      "id": "suy-dien",
+      "vi": "suy diễn",
+      "en": "deduction",
+      "alt": [
+        "diễn dịch"
+      ],
+      "def": "Kiểu lập luận trong đó, nếu các tiền đề đúng thì kết luận chắc chắn đúng.",
+      "example": "Mọi số chia hết cho 4 đều chẵn; 12 chia hết cho 4; vậy 12 chẵn.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "quy-nap",
+      "vi": "quy nạp",
+      "en": "induction",
+      "han": "歸納",
+      "def": "Kiểu lập luận trong đó các tiền đề làm cho kết luận có khả năng đúng cao hơn, nhưng không bảo đảm chắc chắn.",
+      "example": "Ba năm nay chuyến xe buýt 7 giờ chưa lần nào trễ, nên mai chắc cũng không trễ.",
+      "see": "cong-cu/quy-nap.md"
+    },
+    {
+      "id": "suy-luan-den-loi-giai-thich-tot-nhat",
+      "vi": "suy luận đến lời giải thích tốt nhất",
+      "en": "inference to the best explanation",
+      "alt": [
+        "abduction",
+        "suy diễn hồi quy"
+      ],
+      "def": "Kiểu suy luận chấp nhận giả thuyết giải thích tốt nhất cho các dữ kiện đang có.",
+      "example": "Sáng ra sân ướt, mái tôn ướt, xe máy ngoài đường cũng ướt: có lẽ đêm qua trời mưa.",
+      "see": "cong-cu/quy-nap.md"
+    },
+    {
+      "id": "hop-le",
+      "vi": "hợp lệ",
+      "en": "valid",
+      "alt": [
+        "hợp logic"
+      ],
+      "def": "Tính chất của lập luận suy diễn mà nếu các tiền đề đều đúng thì kết luận không thể sai.",
+      "example": "\"Mọi con mèo biết bay; Mướp là mèo; vậy Mướp biết bay\" hợp lệ, dù tiền đề sai.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "vung-chac",
+      "vi": "vững chắc",
+      "en": "sound",
+      "alt": [
+        "đúng đắn"
+      ],
+      "def": "Tính chất của lập luận suy diễn vừa hợp lệ vừa có tất cả tiền đề đúng.",
+      "example": "\"Mọi người đều phải chết; Lan là người; vậy Lan phải chết\" là lập luận vững chắc.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "manh-thuyet-phuc",
+      "vi": "mạnh / thuyết phục",
+      "en": "strong / cogent",
+      "def": "Lập luận quy nạp là mạnh nếu tiền đề đúng thì kết luận nhiều khả năng đúng; thuyết phục nếu nó mạnh và tiền đề thật sự đúng.",
+      "example": "Kết luận về sở thích của cả nước từ một khảo sát lớn, chọn mẫu ngẫu nhiên, mạnh hơn nhiều so với hỏi năm người bạn.",
+      "see": "cong-cu/quy-nap.md"
+    },
+    {
+      "id": "modus-ponens",
+      "vi": "modus ponens (khẳng định tiền kiện)",
+      "en": "modus ponens",
+      "def": "Dạng suy diễn hợp lệ: nếu P thì Q; P; vậy Q.",
+      "example": "Nếu trời mưa thì sân ướt; trời đang mưa; vậy sân ướt.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "modus-tollens",
+      "vi": "modus tollens (phủ định hậu kiện)",
+      "en": "modus tollens",
+      "def": "Dạng suy diễn hợp lệ: nếu P thì Q; không Q; vậy không P.",
+      "example": "Nếu trời mưa thì sân ướt; sân không ướt; vậy trời không mưa.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "tam-doan-luan",
+      "vi": "tam đoạn luận",
+      "en": "syllogism",
+      "han": "三段論",
+      "def": "Lập luận suy diễn gồm hai tiền đề và một kết luận, nối với nhau qua một thuật ngữ chung.",
+      "example": "Mọi loài chim đều có lông vũ; chim sẻ là chim; vậy chim sẻ có lông vũ.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "gia-dinh-ngam",
+      "vi": "giả định ngầm",
+      "en": "hidden assumption",
+      "alt": [
+        "tiền đề ẩn"
+      ],
+      "def": "Tiền đề không được nói ra nhưng lập luận cần đến để đi tới kết luận.",
+      "example": "\"Thuốc này đắt nên chắc tốt\" ngầm giả định rằng giá cao đi đôi với chất lượng.",
+      "see": "cong-cu/gia-dinh-ngam.md"
+    },
+    {
+      "id": "nguy-bien",
+      "vi": "ngụy biện",
+      "en": "fallacy",
+      "def": "Một lỗi lập luận khiến lập luận trông có vẻ thuyết phục nhưng thật ra không ủng hộ được kết luận.",
+      "example": "\"Ông ấy từng ngồi tù, nên ý kiến của ông về giao thông chẳng đáng nghe\" là ngụy biện công kích cá nhân.",
+      "see": "cong-cu/nguy-bien.md"
+    },
+    {
+      "id": "nguy-bien-hinh-thuc",
+      "vi": "ngụy biện hình thức",
+      "en": "formal fallacy",
+      "def": "Ngụy biện nằm ở chính cấu trúc của lập luận, nên mọi lập luận cùng dạng đều không hợp lệ.",
+      "example": "Nếu trời mưa thì sân ướt; sân ướt; vậy trời mưa — có thể ai đó vừa tưới cây (khẳng định hậu kiện).",
+      "see": "cong-cu/nguy-bien-hinh-thuc.md"
+    },
+    {
+      "id": "nguy-bien-phi-hinh-thuc",
+      "vi": "ngụy biện phi hình thức",
+      "en": "informal fallacy",
+      "def": "Ngụy biện nằm ở nội dung, ngữ cảnh hay cách dùng từ, chứ không chỉ ở cấu trúc lập luận.",
+      "example": "\"Ai cũng mua mẫu điện thoại này, vậy nó phải tốt nhất\" là ngụy biện theo số đông.",
+      "see": "cong-cu/nguy-bien.md"
+    },
+    {
+      "id": "phan-vi-du",
+      "vi": "phản ví dụ",
+      "en": "counterexample",
+      "def": "Một trường hợp cụ thể cho thấy một khẳng định tổng quát hay một dạng lập luận là sai.",
+      "example": "Với câu \"mọi loài chim đều biết bay\", con đà điểu là một phản ví dụ.",
+      "see": "cong-cu/dinh-nghia-phan-vi-du.md"
+    },
+    {
+      "id": "dieu-kien-can",
+      "vi": "điều kiện cần",
+      "en": "necessary condition",
+      "def": "A là điều kiện cần của B nếu không có A thì không thể có B.",
+      "example": "Có vé là điều kiện cần để vào rạp, nhưng có vé chưa chắc đã được vào nếu bạn đến muộn.",
+      "see": "cong-cu/dieu-kien-can-du.md"
+    },
+    {
+      "id": "dieu-kien-du",
+      "vi": "điều kiện đủ",
+      "en": "sufficient condition",
+      "def": "A là điều kiện đủ của B nếu có A thì chắc chắn có B.",
+      "example": "Chia hết cho 4 là điều kiện đủ để là số chẵn, nhưng không phải điều kiện cần.",
+      "see": "cong-cu/dieu-kien-can-du.md"
+    },
+    {
+      "id": "thi-nghiem-tu-duy",
+      "vi": "thí nghiệm tư duy",
+      "en": "thought experiment",
+      "alt": [
+        "thực nghiệm tư duy"
+      ],
+      "def": "Một tình huống tưởng tượng được dựng lên để thử một khái niệm hay một lý thuyết.",
+      "example": "Con tàu của Theseus là một thí nghiệm tư duy về việc một vật còn là chính nó khi các bộ phận bị thay hết.",
+      "see": "cong-cu/thi-nghiem-tu-duy.md"
+    },
+    {
+      "id": "nguyen-tac-dien-giai-thien-chi",
+      "vi": "nguyên tắc diễn giải thiện chí",
+      "en": "principle of charity",
+      "def": "Nguyên tắc hiểu lời người khác theo cách hợp lý và mạnh nhất có thể trước khi phản bác.",
+      "example": "Thay vì bắt bẻ một chữ dùng sai, hãy hỏi người kia thật ra muốn nói gì rồi mới tranh luận.",
+      "see": "cong-cu/gia-dinh-ngam.md"
+    },
+    {
+      "id": "van-de-quy-nap",
+      "vi": "vấn đề quy nạp",
+      "en": "problem of induction",
+      "def": "Câu hỏi, gắn với David Hume, về việc lấy gì để biện minh cho niềm tin rằng tương lai sẽ giống quá khứ.",
+      "example": "Mặt trời mọc mỗi sáng từ trước đến nay; nhưng lý do nào bảo đảm sáng mai cũng thế?",
+      "see": "cong-cu/quy-nap.md"
+    },
+    {
+      "id": "tri-thuc-luan",
+      "vi": "tri thức luận",
+      "en": "epistemology",
+      "han": "知識論",
+      "alt": [
+        "nhận thức luận"
+      ],
+      "def": "Ngành triết học nghiên cứu tri thức: biết là gì, ta biết được những gì, và bằng cách nào.",
+      "example": "Hỏi \"đọc trên mạng thì đã đủ để biết chưa?\" là một câu hỏi của tri thức luận.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "sieu-hinh-hoc",
+      "vi": "siêu hình học",
+      "en": "metaphysics",
+      "alt": [
+        "hình nhi thượng học"
+      ],
+      "def": "Ngành triết học nghiên cứu bản chất của thực tại: cái gì tồn tại, thời gian, nhân quả, sự đồng nhất.",
+      "example": "Hỏi con tàu đã thay hết ván có còn là con tàu cũ không là một câu hỏi siêu hình học.",
+      "see": "cau-hoi/cai-gi-ton-tai.md"
+    },
+    {
+      "id": "dao-duc-hoc",
+      "vi": "đạo đức học",
+      "en": "ethics",
+      "han": "道德學",
+      "alt": [
+        "luân lý học"
+      ],
+      "def": "Ngành triết học nghiên cứu điều đúng, điều sai, điều tốt và cách nên sống.",
+      "example": "Có nên nói dối bác sĩ để được nghỉ ốm có lương không? Đó là câu hỏi của đạo đức học.",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "tri-thuc",
+      "vi": "tri thức",
+      "en": "knowledge",
+      "han": "知識",
+      "alt": [
+        "hiểu biết"
+      ],
+      "def": "Trạng thái biết một điều, thường được hiểu là ít nhất phải tin điều đó, điều đó phải đúng, và có lý do thích đáng.",
+      "example": "Bạn biết nhà mình ở tầng mấy, chứ không chỉ đoán.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "niem-tin",
+      "vi": "niềm tin",
+      "en": "belief",
+      "alt": [
+        "tín niệm"
+      ],
+      "def": "Trạng thái coi một điều là đúng, dù điều đó có thật sự đúng hay không.",
+      "example": "Tin rằng xe buýt sắp đến là một niềm tin, kể cả khi hôm nay xe hỏng giữa đường.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "su-bien-minh",
+      "vi": "sự biện minh",
+      "en": "justification",
+      "alt": [
+        "sự chứng thực"
+      ],
+      "def": "Những lý do hay bằng chứng làm cho việc tin một điều trở nên hợp lý.",
+      "example": "Tin trời sắp mưa vì vừa xem bản đồ radar thời tiết là có biện minh; tin vì linh cảm thì không.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "niem-tin-dung-duoc-bien-minh",
+      "vi": "niềm tin đúng được biện minh",
+      "en": "justified true belief (JTB)",
+      "def": "Phân tích cổ điển cho rằng biết một điều là tin điều đó, điều đó đúng, và việc tin có biện minh.",
+      "example": "Bạn tin tàu chạy lúc 8 giờ vì xem lịch ga, và tàu chạy đúng 8 giờ: theo phân tích này, bạn biết.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "bai-toan-gettier",
+      "vi": "bài toán Gettier",
+      "en": "Gettier problem",
+      "def": "Những trường hợp mà một người có niềm tin đúng được biện minh nhưng dường như vẫn không biết, do Edmund Gettier nêu ra để phản bác phân tích tri thức cổ điển.",
+      "example": "Bạn nhìn đồng hồ thấy 7 giờ và tin là 7 giờ; đúng là 7 giờ, nhưng đồng hồ đã chết từ hôm qua đúng lúc 7 giờ (ví dụ đồng hồ chết vốn của Russell, 1948 — có trước Gettier, nhưng cùng một kiểu).",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "hoai-nghi-luan",
+      "vi": "hoài nghi luận",
+      "en": "skepticism",
+      "han": "懷疑論",
+      "alt": [
+        "chủ nghĩa hoài nghi"
+      ],
+      "def": "Lập trường cho rằng ta không biết, hoặc biết rất ít, những gì ta tưởng mình biết.",
+      "example": "\"Bạn không thể loại trừ việc mình đang mơ, nên bạn không biết mình đang ngồi đọc bài này.\"",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "duy-ly-luan",
+      "vi": "duy lý luận",
+      "en": "rationalism",
+      "han": "唯理論",
+      "alt": [
+        "chủ nghĩa duy lý"
+      ],
+      "def": "Lập trường cho rằng một phần quan trọng của tri thức đến từ lý tính, độc lập với kinh nghiệm giác quan.",
+      "example": "Biết rằng không có hình tròn nào là hình vuông mà không cần đi kiểm tra từng hình.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "duy-nghiem-luan",
+      "vi": "duy nghiệm luận",
+      "en": "empiricism",
+      "alt": [
+        "chủ nghĩa kinh nghiệm"
+      ],
+      "def": "Lập trường cho rằng tri thức về thế giới về cơ bản đến từ kinh nghiệm giác quan.",
+      "example": "Muốn biết sầu riêng có mùi gì, phải ngửi thử; không suy luận suông mà ra được.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "tien-nghiem",
+      "vi": "tiên nghiệm",
+      "en": "a priori",
+      "han": "先驗",
+      "def": "Được biết hoặc biện minh mà không cần dựa vào kinh nghiệm giác quan.",
+      "example": "Biết 7 + 5 = 12 không cần đếm lại từng quả cam.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "hau-nghiem",
+      "vi": "hậu nghiệm",
+      "en": "a posteriori",
+      "han": "後驗",
+      "def": "Được biết hoặc biện minh nhờ dựa vào kinh nghiệm giác quan.",
+      "example": "Biết hôm nay Hà Nội trời lạnh vì vừa bước ra ngoài.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "thuyet-tin-cay",
+      "vi": "thuyết tin cậy",
+      "en": "reliabilism",
+      "def": "Lập trường cho rằng một niềm tin được biện minh khi nó được tạo ra bởi một quá trình đáng tin cậy, như thị giác bình thường.",
+      "example": "Bạn biết có chiếc xe trước mặt vì mắt bạn thường nhìn đúng trong điều kiện đủ sáng, dù bạn không giải thích được vì sao.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "ngu-canh-luan",
+      "vi": "ngữ cảnh luận",
+      "en": "contextualism",
+      "def": "Lập trường cho rằng tiêu chuẩn để nói \"ai đó biết\" thay đổi theo ngữ cảnh của cuộc nói chuyện.",
+      "example": "Nói \"tôi biết đã khóa cửa\" thì đủ khi đi chợ, nhưng có thể chưa đủ khi sắp đi xa một tháng.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "noi-tai-luan",
+      "vi": "nội tại luận",
+      "en": "internalism (epistemic)",
+      "def": "Lập trường cho rằng những gì biện minh cho niềm tin phải là thứ người tin có thể tiếp cận bằng suy nghĩ của mình.",
+      "example": "Bạn chỉ được coi là có lý do để tin nếu bạn có thể nói ra lý do đó khi được hỏi.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "ngoai-tai-luan",
+      "vi": "ngoại tại luận",
+      "en": "externalism (epistemic)",
+      "def": "Lập trường cho rằng niềm tin có thể được biện minh nhờ những yếu tố mà người tin không nhất thiết nhận biết được.",
+      "example": "Một đứa trẻ nhận ra mặt mẹ rất chính xác, dù không giải thích được mình nhận ra bằng cách nào.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "tam-tri",
+      "vi": "tâm trí",
+      "en": "mind",
+      "han": "心智",
+      "alt": [
+        "tinh thần"
+      ],
+      "def": "Phần trong ta suy nghĩ, cảm nhận, mong muốn và ý thức.",
+      "example": "Khi bạn đang lo về kỳ thi dù chẳng ai nhìn thấy, đó là chuyện của tâm trí.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "y-thuc",
+      "vi": "ý thức",
+      "en": "consciousness",
+      "han": "意識",
+      "def": "Tình trạng có trải nghiệm, có \"cảm giác ra sao đó\" từ bên trong.",
+      "example": "Lúc ngủ say không mộng bạn không có ý thức; lúc tỉnh dậy, thế giới lại \"hiện ra\".",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "y-thuc-hien-tuong",
+      "vi": "ý thức hiện tượng",
+      "en": "phenomenal consciousness",
+      "def": "Khía cạnh trải nghiệm chủ quan của ý thức: cảm thấy thế nào khi nhìn, nghe, đau, nếm.",
+      "example": "Vị chua của quả me mà bạn cảm thấy trên đầu lưỡi.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "qualia",
+      "vi": "qualia (cảm chất)",
+      "en": "qualia",
+      "def": "Những phẩm chất chủ quan của trải nghiệm, như cái \"đỏ\" của màu đỏ mà bạn thấy.",
+      "example": "Bạn và bạn mình cùng gọi quả ớt là \"đỏ\", nhưng làm sao biết hai người thấy giống nhau?",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "y-huong-tinh",
+      "vi": "ý hướng tính",
+      "en": "intentionality",
+      "han": "意向性",
+      "alt": [
+        "tính hướng đối tượng"
+      ],
+      "def": "Đặc tính của trạng thái tâm trí là hướng về, hay nói về, một điều gì đó.",
+      "example": "Nỗi nhớ của bạn là nhớ *ai đó*; niềm tin của bạn là tin *rằng* điều gì đó.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "van-de-kho-cua-y-thuc",
+      "vi": "vấn đề khó của ý thức",
+      "en": "hard problem of consciousness",
+      "def": "Câu hỏi, được David Chalmers đặt tên, vì sao các quá trình vật lý trong não lại đi kèm trải nghiệm chủ quan.",
+      "example": "Dù biết hết neuron nào phát tín hiệu khi bạn nếm cà phê, vẫn còn câu hỏi: vì sao lại có *cảm giác* đắng?",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "vat-ly-luan",
+      "vi": "vật lý luận",
+      "en": "physicalism",
+      "alt": [
+        "chủ nghĩa vật lý"
+      ],
+      "def": "Lập trường cho rằng mọi thứ tồn tại, kể cả tâm trí, về cơ bản đều là vật lý.",
+      "example": "Theo vật lý luận, nỗi buồn của bạn rốt cuộc là một trạng thái của não và cơ thể.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "nhi-nguyen-luan",
+      "vi": "nhị nguyên luận",
+      "en": "dualism",
+      "han": "二元論",
+      "def": "Lập trường cho rằng tâm trí, hay các thuộc tính tinh thần, không hoàn toàn là vật lý.",
+      "example": "Theo nhị nguyên luận, biết hết về não vẫn chưa nói hết về cảm giác của bạn.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "chu-nghia-chuc-nang",
+      "vi": "chủ nghĩa chức năng",
+      "en": "functionalism",
+      "alt": [
+        "thuyết chức năng"
+      ],
+      "def": "Lập trường cho rằng một trạng thái tâm trí được xác định bởi vai trò của nó: nó do gì gây ra và nó gây ra gì.",
+      "example": "Đau là trạng thái do tổn thương gây ra và khiến ta muốn tránh né — dù trong não người, bạch tuộc hay máy.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "tinh-da-hien-thuc",
+      "vi": "tính đa hiện thực",
+      "en": "multiple realizability",
+      "def": "Ý tưởng rằng cùng một trạng thái tâm trí có thể được hiện thực hóa bởi những chất liệu vật lý khác nhau.",
+      "example": "Người và bạch tuộc có cấu tạo não rất khác nhau, nhưng có lẽ cả hai đều có thể đau.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "van-de-nhung-tam-tri-khac",
+      "vi": "vấn đề những tâm trí khác",
+      "en": "problem of other minds",
+      "def": "Câu hỏi làm sao ta biết người khác, hay sinh vật khác, cũng có tâm trí như mình.",
+      "example": "Bạn chỉ thấy bạn mình cười, đâu thấy được niềm vui \"bên trong\" của họ.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "zombie-triet-hoc",
+      "vi": "zombie triết học",
+      "en": "philosophical zombie",
+      "def": "Một sinh thể tưởng tượng giống hệt người về vật lý và hành vi nhưng hoàn toàn không có trải nghiệm bên trong.",
+      "example": "Một \"người\" kêu đau, nhăn mặt, rụt tay khỏi lửa, nhưng bên trong không cảm thấy gì cả.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "can-phong-tieng-trung",
+      "vi": "Căn phòng tiếng Trung",
+      "en": "Chinese Room",
+      "def": "Thí nghiệm tư duy của John Searle: một người làm theo sổ quy tắc để trả lời bằng tiếng Trung mà không hiểu tiếng Trung, nhằm cho thấy xử lý ký hiệu chưa đủ để hiểu.",
+      "example": "Một chatbot trả lời trôi chảy chưa chắc đã \"hiểu\" — đó là điều Searle muốn ta nghĩ đến.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "phep-thu-turing",
+      "vi": "phép thử Turing",
+      "en": "Turing test",
+      "def": "Phép thử do Alan Turing đề xuất: nếu qua trò chuyện bằng chữ, ta không phân biệt được máy với người, thì máy có lẽ đáng được coi là biết suy nghĩ.",
+      "example": "Nhắn tin với hai \"người\" mà không đoán được ai là máy.",
+      "see": "cau-hoi/tam-tri-va-ai.md"
+    },
+    {
+      "id": "y-chi",
+      "vi": "ý chí",
+      "en": "will",
+      "han": "意志",
+      "def": "Năng lực quyết định và theo đuổi hành động của một người.",
+      "example": "Muốn ngủ thêm nhưng vẫn dậy đi làm là dùng ý chí.",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "tu-do-y-chi",
+      "vi": "tự do ý chí",
+      "en": "free will",
+      "han": "自由意志",
+      "alt": [
+        "ý chí tự do"
+      ],
+      "def": "Năng lực tự mình lựa chọn hành động, theo nghĩa đủ để chịu trách nhiệm về lựa chọn đó.",
+      "example": "Bạn chọn trà sữa thay vì cà phê — nhưng lựa chọn đó có thật sự \"của bạn\" không?",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "tat-dinh-luan",
+      "vi": "tất định luận",
+      "en": "determinism",
+      "alt": [
+        "quyết định luận",
+        "thuyết định mệnh (cách dịch sai)"
+      ],
+      "def": "Lập trường cho rằng mọi sự kiện đều được xác định hoàn toàn bởi các sự kiện trước đó cùng với quy luật tự nhiên.",
+      "example": "Nếu biết hết trạng thái vũ trụ và mọi quy luật, ta có thể đoán trước bạn sẽ ăn gì trưa mai.",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "tuong-thich-luan",
+      "vi": "tương thích luận",
+      "en": "compatibilism",
+      "def": "Lập trường cho rằng tự do ý chí có thể tồn tại cùng tất định luận.",
+      "example": "Bạn tự do khi làm theo mong muốn của mình mà không bị ép buộc, dù mong muốn ấy có nguyên nhân.",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "bat-tuong-thich-luan",
+      "vi": "bất tương thích luận",
+      "en": "incompatibilism",
+      "def": "Lập trường cho rằng nếu tất định luận đúng thì không thể có tự do ý chí.",
+      "example": "Nếu mọi lựa chọn của bạn đã được định sẵn từ trước khi bạn sinh ra, thì bạn đâu thật sự tự chọn.",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "thuyet-y-chi-tu-do",
+      "vi": "thuyết ý chí tự do (libertarianism)",
+      "en": "libertarianism (free will)",
+      "def": "Lập trường bất tương thích luận cho rằng ta có tự do ý chí, nên tất định luận phải sai. Không nhầm với chủ nghĩa tự do cá nhân trong chính trị.",
+      "example": "Lúc đứng trước hai lựa chọn, theo thuyết này, việc bạn chọn gì chưa được định sẵn bởi quá khứ.",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "tat-dinh-luan-cung",
+      "vi": "tất định luận cứng",
+      "en": "hard determinism",
+      "def": "Lập trường cho rằng tất định luận đúng và vì thế không có tự do ý chí.",
+      "example": "\"Kẻ phạm tội không thật sự chọn được khác đi, nên trách móc họ là vô nghĩa.\"",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "trach-nhiem-dao-duc",
+      "vi": "trách nhiệm đạo đức",
+      "en": "moral responsibility",
+      "def": "Việc một người đáng được khen hay đáng bị trách vì hành động của mình.",
+      "example": "Ta trách người lái xe say rượu gây tai nạn, nhưng không trách người bị ngất vì bệnh tim khi đang lái.",
+      "see": "cau-hoi/tu-do-y-chi.md"
+    },
+    {
+      "id": "he-qua-luan",
+      "vi": "hệ quả luận",
+      "en": "consequentialism",
+      "alt": [
+        "hậu quả luận"
+      ],
+      "def": "Lập trường cho rằng đúng hay sai của hành động hoàn toàn tùy vào hệ quả của nó.",
+      "example": "Nói dối để cứu một mạng người là đúng, vì kết quả tốt hơn.",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "nghia-vu-luan",
+      "vi": "nghĩa vụ luận",
+      "en": "deontology",
+      "han": "義務論",
+      "def": "Lập trường cho rằng có những việc ta buộc phải làm hoặc không được làm, bất kể hệ quả.",
+      "example": "Không được thất hứa, kể cả khi thất hứa mang lại lợi hơn.",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "dao-duc-hoc-duc-hanh",
+      "vi": "đạo đức học đức hạnh",
+      "en": "virtue ethics",
+      "def": "Lập trường đặt trọng tâm vào phẩm chất của con người: hành động đúng là điều một người có đức hạnh sẽ làm.",
+      "example": "Thay vì hỏi \"luật nào áp dụng?\", hãy hỏi \"một người tử tế, can đảm sẽ làm gì ở đây?\".",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "dao",
+      "vi": "đạo",
+      "en": "Dao (Tao)",
+      "han": "道",
+      "def": "Khái niệm trung tâm của tư tưởng Trung Hoa, nghĩa gốc là \"con đường\"; với Đạo gia, nó chỉ nguồn gốc và cách vận hành tự nhiên của vạn vật.",
+      "example": "Người xưa nói \"đạo làm người\" là nói về con đường sống đúng đắn.",
+      "see": "doc/dao-duc-kinh.md"
+    },
+    {
+      "id": "vo-nga",
+      "vi": "vô ngã",
+      "en": "non-self (anattā)",
+      "han": "無我",
+      "alt": [
+        "anattā",
+        "anatman"
+      ],
+      "def": "Giáo lý Phật giáo cho rằng không có một cái tôi thường hằng, bất biến đằng sau thân và tâm.",
+      "example": "Bạn của mười năm trước và bạn hôm nay khác nhau gần hết: vậy \"cái tôi\" nằm ở đâu?",
+      "see": "cau-hoi/cai-toi.md"
+    },
+    {
+      "id": "khac-ky",
+      "vi": "khắc kỷ",
+      "en": "Stoicism",
+      "alt": [
+        "chủ nghĩa khắc kỷ"
+      ],
+      "def": "Trường phái triết học Hy Lạp–La Mã do Zeno xứ Citium sáng lập (khoảng 300 TCN): sống thuận theo tự nhiên và lý tính, coi đức hạnh là điều thiện duy nhất. Về sau Epictetus nhấn mạnh việc phân biệt điều trong tầm kiểm soát với điều ngoài tầm kiểm soát.",
+      "example": "Kẹt xe là ngoài tầm tay; còn bực bội hay bình tĩnh thì phần nào do bạn.",
+      "see": "doc/epictetus-cam-nang.md"
+    },
+    {
+      "id": "con-tau-cua-theseus",
+      "vi": "Con tàu của Theseus",
+      "en": "Ship of Theseus",
+      "alt": [
+        "Con thuyền của Theseus"
+      ],
+      "def": "Câu đố về sự đồng nhất: một con tàu được thay dần mọi tấm ván có còn là con tàu cũ không, và nếu lắp lại từ ván cũ thì con nào là thật.",
+      "example": "Chiếc xe máy của bố đã thay máy, thay khung, thay vỏ — có còn là \"xe của bố\" không?",
+      "see": "cau-hoi/cai-toi.md"
+    },
+    {
+      "id": "menh-de",
+      "vi": "mệnh đề",
+      "en": "proposition",
+      "han": "命題",
+      "def": "Một câu khẳng định có chân trị xác định: đúng hoặc sai (không vừa đúng vừa sai).",
+      "example": "“Hà Nội là thủ đô của Việt Nam” là một mệnh đề; “Hãy đóng cửa!” không phải, vì không đúng cũng không sai.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "chan-tri",
+      "vi": "chân trị",
+      "en": "truth value",
+      "def": "Giá trị đúng/sai của một mệnh đề. Logic mệnh đề chỉ quan tâm chân trị, không quan tâm nội dung.",
+      "example": "Mệnh đề “2 + 2 = 4” có chân trị là đúng.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "menh-de-don",
+      "vi": "mệnh đề đơn",
+      "en": "atomic proposition",
+      "def": "Mệnh đề không chứa phép nối logic nào, thường ký hiệu bằng một chữ cái (P, Q…).",
+      "example": "Trong “nếu P thì Q”, P và Q là các mệnh đề đơn.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "menh-de-phuc",
+      "vi": "mệnh đề phức",
+      "en": "compound proposition",
+      "def": "Mệnh đề tạo thành từ các mệnh đề đơn bằng phép nối logic.",
+      "example": "“P và Q”, “nếu P thì Q” là các mệnh đề phức.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "phep-phu-dinh",
+      "vi": "phép phủ định",
+      "en": "negation",
+      "han": "否定",
+      "def": "Phép nối một ngôi: “không P” đúng khi P sai, và sai khi P đúng. Ký hiệu ¬ hoặc !.",
+      "example": "Phủ định của “trời đang mưa” là “trời không đang mưa”.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "phep-hoi",
+      "vi": "phép hội",
+      "en": "conjunction",
+      "han": "合取",
+      "def": "Phép nối “P và Q”: chỉ đúng khi cả hai đều đúng. Ký hiệu ∧ hoặc &&.",
+      "example": "“Trời mưa và trời lạnh” chỉ đúng khi vừa mưa vừa lạnh.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "phep-tuyen",
+      "vi": "phép tuyển",
+      "en": "disjunction",
+      "han": "析取",
+      "def": "Phép nối “P hoặc Q” theo nghĩa bao hàm: đúng khi ít nhất một trong hai đúng (kể cả khi cả hai cùng đúng). Ký hiệu ∨ hoặc ||.",
+      "example": "“Uống trà hoặc cà phê” (bao hàm) vẫn đúng nếu uống cả hai.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "phep-tuyen-loai-tru",
+      "vi": "phép tuyển loại trừ",
+      "en": "exclusive disjunction",
+      "def": "Phép nối “hoặc P hoặc Q nhưng không cả hai”: đúng khi đúng một trong hai. Ký hiệu ⊕.",
+      "example": "“Hoặc rẽ trái hoặc rẽ phải” (ở một ngã ba) là tuyển loại trừ.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "phep-keo-theo",
+      "vi": "phép kéo theo",
+      "en": "material conditional",
+      "han": "蘊涵",
+      "def": "Phép nối “nếu P thì Q”: chỉ sai trong đúng một trường hợp P đúng mà Q sai. Ký hiệu →.",
+      "example": "“Nếu trời mưa thì đường ướt” chỉ sai khi trời mưa mà đường không ướt.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "phep-tuong-duong",
+      "vi": "phép tương đương",
+      "en": "biconditional",
+      "def": "Phép nối “P khi và chỉ khi Q”: đúng khi P và Q cùng đúng hoặc cùng sai. Ký hiệu ↔.",
+      "example": "“Tam giác đều khi và chỉ khi ba góc bằng nhau.”",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "bang-chan-tri",
+      "vi": "bảng chân trị",
+      "en": "truth table",
+      "def": "Bảng liệt kê mọi cách gán đúng/sai cho các mệnh đề đơn và chân trị tương ứng của công thức — cách kiểm tra tính hợp lệ chắc chắn nhất trong logic mệnh đề.",
+      "example": "Bảng chân trị của “P → Q” có 4 dòng; chỉ sai ở dòng P đúng, Q sai.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "hang-dung",
+      "vi": "hằng đúng",
+      "en": "tautology",
+      "def": "Công thức luôn đúng với mọi cách gán chân trị.",
+      "example": "“P hoặc không P” là một hằng đúng.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "mau-thuan-logic",
+      "vi": "mâu thuẫn logic",
+      "en": "contradiction",
+      "def": "Công thức luôn sai với mọi cách gán chân trị; hoặc một tập mệnh đề không thể cùng đúng.",
+      "example": "“P và không P” là một mâu thuẫn logic."
+    },
+    {
+      "id": "tinh-hop-le",
+      "vi": "tính hợp lệ",
+      "en": "validity",
+      "def": "Tính chất của một lập luận: không thể nào các tiền đề đều đúng mà kết luận sai. Chỉ xét hình thức, không xét tiền đề có đúng thực tế không.",
+      "example": "“Nếu P thì Q; P; vậy Q” hợp lệ dù P, Q nói về điều hoàn toàn bịa đặt.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "tinh-vung-chac",
+      "vi": "tính vững chắc",
+      "en": "soundness",
+      "def": "Lập luận vừa hợp lệ vừa có các tiền đề đúng thực tế — khi đó kết luận chắc chắn đúng.",
+      "example": "Một lập luận hợp lệ nhưng tiền đề sai thì không vững chắc.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "quy-tac-suy-luan",
+      "vi": "quy tắc suy luận",
+      "en": "rule of inference",
+      "def": "Khuôn suy luận đã được chứng minh là luôn bảo toàn chân trị: tiền đề đúng thì kết luận đúng.",
+      "example": "Modus ponens là một quy tắc suy luận."
+    },
+    {
+      "id": "tam-doan-luan-gia-dinh",
+      "vi": "tam đoạn luận giả định",
+      "en": "hypothetical syllogism",
+      "def": "Quy tắc bắc cầu: từ “nếu P thì Q” và “nếu Q thì R”, suy ra “nếu P thì R”.",
+      "example": "Nếu học chăm thì thi đỗ; nếu thi đỗ thì có việc; vậy nếu học chăm thì có việc.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "tam-doan-luan-tuyen",
+      "vi": "tam đoạn luận lựa chọn",
+      "en": "disjunctive syllogism",
+      "def": "Quy tắc: từ “P hoặc Q” và “không P”, suy ra “Q”.",
+      "example": "Hoặc đi xe buýt hoặc đi bộ; không đi xe buýt; vậy đi bộ.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "khang-dinh-hau-kien",
+      "vi": "khẳng định hậu kiện",
+      "en": "affirming the consequent",
+      "def": "Ngụy biện hình thức: từ “nếu P thì Q” và “Q”, kết luận “P” — sai vì Q đúng không đảm bảo P đúng.",
+      "example": "Nếu mưa thì đường ướt; đường ướt; vậy trời mưa (đường ướt có thể do xe tưới nước).",
+      "see": "cong-cu/nguy-bien-hinh-thuc.md"
+    },
+    {
+      "id": "phu-dinh-tien-kien",
+      "vi": "phủ định tiền kiện",
+      "en": "denying the antecedent",
+      "def": "Ngụy biện hình thức: từ “nếu P thì Q” và “không P”, kết luận “không Q” — sai vì Q có thể đúng vì lý do khác.",
+      "example": "Nếu mưa thì đường ướt; trời không mưa; vậy đường không ướt.",
+      "see": "cong-cu/nguy-bien-hinh-thuc.md"
+    },
+    {
+      "id": "menh-de-dao",
+      "vi": "mệnh đề đảo",
+      "en": "converse",
+      "def": "Đảo của “nếu P thì Q” là “nếu Q thì P” — không tương đương với mệnh đề gốc.",
+      "example": "Đảo của “nếu mưa thì đường ướt” là “nếu đường ướt thì trời mưa” (sai)."
+    },
+    {
+      "id": "menh-de-phan-dao",
+      "vi": "mệnh đề phản đảo",
+      "en": "contrapositive",
+      "def": "Phản đảo của “nếu P thì Q” là “nếu không Q thì không P” — tương đương logic với mệnh đề gốc.",
+      "example": "“Nếu không có khói thì không có lửa” tương đương “nếu có lửa thì có khói”."
+    },
+    {
+      "id": "luat-de-morgan",
+      "vi": "luật De Morgan",
+      "en": "De Morgan's laws",
+      "def": "Hai luật: “không (P và Q)” tương đương “(không P) hoặc (không Q)”; “không (P hoặc Q)” tương đương “(không P) và (không Q)”.",
+      "example": "“Không phải vừa mưa vừa nắng” nghĩa là “không mưa hoặc không nắng”.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "tuong-duong-logic",
+      "vi": "tương đương logic",
+      "en": "logical equivalence",
+      "def": "Hai công thức tương đương logic khi chúng có cùng chân trị trong mọi dòng của bảng chân trị.",
+      "example": "“Nếu P thì Q” tương đương logic với “(không P) hoặc Q”.",
+      "see": "cong-cu/logic-menh-de.md"
+    },
+    {
+      "id": "so-do-lap-luan",
+      "vi": "sơ đồ lập luận",
+      "en": "argument map",
+      "def": "Hình vẽ cấu trúc một lập luận: hộp tiền đề, mũi tên hỗ trợ, hộp kết luận; giả định ngầm vẽ đứt nét.",
+      "example": "Vẽ sơ đồ giúp thấy ngay một bài báo dài thực ra chỉ có hai lý do chính.",
+      "see": "cong-cu/so-do-hoa-lap-luan.md"
+    },
+    {
+      "id": "tien-de-lien-ket",
+      "vi": "tiền đề liên kết",
+      "en": "linked premises",
+      "def": "Các tiền đề phải đi cùng nhau mới hỗ trợ kết luận; tách riêng từng cái thì không đủ sức.",
+      "example": "“Trời mưa” và “nếu mưa thì đường ướt” là hai tiền đề liên kết.",
+      "see": "cong-cu/so-do-hoa-lap-luan.md"
+    },
+    {
+      "id": "tien-de-doc-lap",
+      "vi": "tiền đề độc lập",
+      "en": "independent premises",
+      "def": "Mỗi tiền đề tự mình đã hỗ trợ kết luận; có nhiều lý do độc lập thì lập luận vững hơn.",
+      "example": "“Thuốc này rẻ” và “thuốc này hiệu quả” là hai lý do độc lập để mua.",
+      "see": "cong-cu/so-do-hoa-lap-luan.md"
+    },
+    {
+      "id": "dien-giai-thien-chi",
+      "vi": "diễn giải thiện chí",
+      "en": "principle of charity",
+      "def": "Nguyên tắc: khi hiểu lập luận của người khác, hãy chọn cách hiểu khiến nó mạnh nhất trong những cách hiểu mà câu chữ cho phép.",
+      "example": "Thay vì bẻ chữ để dễ bác bỏ, hãy hỏi: “ý họ ở dạng mạnh nhất là gì?”.",
+      "see": "cong-cu/gia-dinh-ngam.md"
+    },
+    {
+      "id": "elenchus",
+      "vi": "elenchus",
+      "en": "elenchus",
+      "def": "Phép vấn đáp của Socrates: hỏi định nghĩa, tìm phản ví dụ, đẩy đối phương tới chỗ bế tắc để cùng tìm định nghĩa tốt hơn.",
+      "example": "Trong đối thoại Euthyphro, Socrates liên tục hỏi “mộ đạo (hosion) là gì?”",
+      "see": "cong-cu/bien-chung-socrates.md"
+    },
+    {
+      "id": "aporia",
+      "vi": "aporia",
+      "en": "aporia",
+      "def": "Trạng thái bế tắc sau khi mọi định nghĩa đưa ra đều bị phản ví dụ đánh đổ — điểm khởi đầu thật sự của tìm hiểu, theo Socrates.",
+      "example": "Thừa nhận “mình chưa biết công bằng là gì” tốt hơn giữ một định nghĩa sai.",
+      "see": "cong-cu/bien-chung-socrates.md"
+    },
+    {
+      "id": "truc-giac",
+      "vi": "trực giác",
+      "en": "intuition",
+      "def": "Cảm nhận tức thì rằng một điều gì đó đúng hay sai, trước khi kịp lý luận — nguyên liệu của thí nghiệm tư duy, nhưng cũng có thể sai.",
+      "example": "Thấy “đẩy người xuống cầu” là sai ngay lập tức, dù chưa kịp nghĩ vì sao.",
+      "see": "cong-cu/thi-nghiem-tu-duy.md"
+    },
+    {
+      "id": "luan-de",
+      "vi": "luận đề",
+      "en": "thesis",
+      "def": "Khẳng định trung tâm mà một bài viết hay một lập luận muốn bảo vệ.",
+      "example": "Luận đề của bài này là: trực giác đạo đức đáng tin hơn ta tưởng.",
+      "see": "cong-cu/doc-van-ban-kho.md"
+    },
+    {
+      "id": "phan-bien",
+      "vi": "phản biện",
+      "en": "objection",
+      "def": "Lý do chống lại một lập luận: chỉ ra tiền đề sai, bước suy luận hở, hoặc đưa ra phản ví dụ.",
+      "example": "Một phản biện tốt nhắm vào tiền đề yếu nhất, không phải chỗ dễ nhất.",
+      "see": "cong-cu/viet-doan-lap-luan.md"
+    },
+    {
+      "id": "tai-dung-lap-luan",
+      "vi": "tái dựng lập luận",
+      "en": "argument reconstruction",
+      "def": "Việc viết lại một đoạn văn thành dạng tiền đề–kết luận rõ ràng, làm lộ các giả định ngầm để kiểm tra.",
+      "example": "Tái dựng một bài bình luận dài thành 3 tiền đề và 1 kết luận.",
+      "see": "cong-cu/gia-dinh-ngam.md"
+    },
+    {
+      "id": "bo-de",
+      "vi": "bổ đề",
+      "en": "lemma",
+      "def": "Một kết luận trung gian được chứng minh trước để dùng làm bàn đạp cho kết luận chính.",
+      "example": "Chứng minh bổ đề “tổng hai số chẵn là số chẵn” trước khi dùng nó."
+    },
+    {
+      "id": "gia-thuyet",
+      "vi": "giả thuyết",
+      "en": "hypothesis",
+      "def": "Một khẳng định tạm coi là đúng để suy ra hệ quả và kiểm tra — khác với giả định ngầm ở chỗ giả thuyết được nói ra.",
+      "example": "Giả thuyết “ngủ đủ giúp nhớ bài hơn” có thể kiểm tra bằng thực nghiệm.",
+      "see": "cong-cu/quy-nap.md"
+    },
+    {
+      "id": "ngu-canh",
+      "vi": "ngữ cảnh",
+      "en": "context",
+      "def": "Hoàn cảnh xung quanh một câu nói hay một lập luận — quyết định nhiều đến ý nghĩa của nó.",
+      "example": "“Bạn nên đi ngủ ngay” mang nghĩa khác khi nói với sĩ tử đêm trước kỳ thi."
+    },
+    {
+      "id": "nguyen-tac-loai-tru-thu-ba",
+      "vi": "nguyên tắc loại trừ thứ ba",
+      "en": "law of excluded middle",
+      "def": "Với mọi mệnh đề P, “P hoặc không P” luôn đúng — không có khả năng thứ ba. (Khác với nguyên tắc nhị trị: mọi mệnh đề hoặc đúng hoặc sai.)",
+      "example": "“Trời đang mưa hoặc trời không đang mưa” — một trong hai phải đúng.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "nguyen-tac-khong-mau-thuan",
+      "vi": "nguyên tắc không mâu thuẫn",
+      "en": "law of non-contradiction",
+      "def": "Một mệnh đề không thể vừa đúng vừa sai trong cùng một nghĩa và cùng một lúc.",
+      "example": "Không thể vừa “đang mưa” vừa “không đang mưa” theo cùng một nghĩa."
+    },
+    {
+      "id": "dinh-ly",
+      "vi": "định lý",
+      "en": "theorem",
+      "def": "Một khẳng định đã được chứng minh từ các tiền đề/tiên đề cơ bản bằng các quy tắc suy luận hợp lệ.",
+      "example": "Định lý Pythagoras được chứng minh từ các tiên đề hình học."
+    },
+    {
+      "id": "man-vo-tri",
+      "vi": "bức màn vô tri",
+      "en": "veil of ignorance",
+      "alt": [
+        "màn vô tri"
+      ],
+      "def": "Thí nghiệm tư duy của John Rawls: hãy tưởng tượng mình chọn nguyên tắc công bằng cho xã hội mà không biết mình sẽ là ai trong đó — giàu hay nghèo, khỏe hay bệnh — vì một “bức màn” che khuất mọi đặc điểm cá nhân.",
+      "example": "Không biết mình sẽ sinh ra trong gia đình giàu hay nghèo, bạn sẽ chọn luật chơi công bằng cho cả hai phía — đó là cách bức màn vô tri hoạt động.",
+      "see": "cau-hoi/cong-ly.md"
+    },
+    {
+      "id": "co-may-trai-nghiem",
+      "vi": "cỗ máy trải nghiệm",
+      "en": "experience machine",
+      "def": "Thí nghiệm tư duy của Robert Nozick (1974): một cỗ máy có thể cho bạn mọi trải nghiệm khoái lạc y như thật. Nếu khoái lạc là tất cả những gì đáng giá, ta nên cắm mình vào máy — nhưng hầu hết mọi người đều từ chối.",
+      "example": "Bạn có đổi cả cuộc đời thật lấy một đời sống trong máy, nơi mọi thứ đều hoàn hảo nhưng không có gì là thật? Câu trả lời “không” của bạn chính là điểm Nozick muốn chứng minh.",
+      "see": "cau-hoi/hanh-phuc.md"
+    },
+    {
+      "id": "tuong-lai-dang-cho",
+      "vi": "tương lai đang chờ",
+      "en": "future-like-ours argument",
+      "def": "Lập luận của Don Marquis (1989): giết người trưởng thành là sai vì nó tước đi một tương lai đáng sống của họ; thai nhi cũng có một “tương lai đang chờ” như vậy, nên việc giết thai nhi sai vì cùng một lý do.",
+      "example": "Nếu lý do ta lên án kẻ sát nhân là hắn đã cướp cả một đời người phía trước của nạn nhân, thì thai nhi cũng có cả một đời người phía trước để bị cướp đi.",
+      "see": "cau-hoi/pha-thai.md"
+    },
+    {
+      "id": "thuyet-tiem-tien",
+      "vi": "thuyết tiệm tiến",
+      "en": "gradualism",
+      "def": "Quan điểm cho rằng địa vị đạo đức tăng dần theo sự phát triển của thai nhi, thay vì bật/tắt tại một mốc duy nhất — càng phát triển, càng đáng được bảo vệ hơn.",
+      "example": "Theo thuyết tiệm tiến, phá thai ở tuần thứ 8 và tuần thứ 30 không ngang nhau về mặt đạo đức, vì thai nhi đã phát triển khác nhau rất nhiều.",
+      "see": "cau-hoi/pha-thai.md"
+    },
+    {
+      "id": "ly-thuyet-standpoint",
+      "vi": "lý thuyết standpoint",
+      "en": "standpoint theory",
+      "def": "Lý thuyết trong tri thức luận xã hội và triết học nữ quyền: vị trí xã hội của người biết — đặc biệt người ở vị trí bị áp bức — có thể mang lại lợi thế nhận thức về những sự thật mà người ở vị trí thống trị khó nhìn thấy.",
+      "example": "Người lao động có thể hiểu bản chất của sự bóc lột rõ hơn ông chủ, không phải vì thông minh hơn, mà vì họ sống ở phía chịu đựng nó.",
+      "see": "cau-hoi/nu-quyen.md"
+    },
+    {
+      "id": "dao-duc-cham-soc",
+      "vi": "đạo đức chăm sóc",
+      "en": "care ethics",
+      "def": "Lý thuyết đạo đức (Carol Gilligan, Nel Noddings) đặt các mối quan hệ cụ thể, sự quan tâm và trách nhiệm với người thân lên trước các nguyên tắc trừu tượng — như một đối trọng với đạo đức nghĩa vụ và thuyết vị lợi.",
+      "example": "Khi mẹ bệnh, ta chăm sóc vì đó là mẹ mình, không phải vì một nguyên tắc phổ quát bắt ta phải chăm sóc mọi người như nhau.",
+      "see": "cau-hoi/nu-quyen.md"
+    },
+    {
+      "id": "tinh-tam-thuong-cua-cai-ac",
+      "vi": "tính tầm thường của cái ác",
+      "en": "banality of evil",
+      "def": "Cụm từ của Hannah Arendt sau khi theo dõi phiên xử Adolf Eichmann (1961), đặt trong cuốn Eichmann in Jerusalem (1963): kẻ gây ra tội ác khủng khiếp không nhất thiết là ác quỷ; cái ác thường được thực hiện bởi những con người tầm thường, không suy nghĩ, chỉ biết làm theo quy trình.",
+      "example": "Một viên chức ký lệnh trục xuất hàng nghìn người mà không hề căm thù ai — chỉ “làm đúng phận sự” — là hình ảnh Arendt muốn cảnh báo.",
+      "see": "cau-hoi/cai-ac.md"
+    },
+    {
+      "id": "chien-tranh-chinh-dang",
+      "vi": "chiến tranh chính đáng",
+      "en": "just war theory",
+      "def": "Truyền thống đạo đức (từ Augustine và Aquinas đến nay) đặt điều kiện để một cuộc chiến có thể được biện minh — cả khi quyết định gây chiến lẫn khi tiến hành chiến tranh.",
+      "example": "Tự vệ trước xâm lược có thể là chiến tranh chính đáng; xâm lược để cướp tài nguyên thì không — lý thuyết này cho ta tiêu chuẩn để phân biệt.",
+      "see": "cau-hoi/chien-tranh-chinh-dang.md"
+    },
+    {
+      "id": "jus-ad-bellum",
+      "vi": "jus ad bellum",
+      "def": "Nhánh của lý thuyết chiến tranh chính đáng bàn về quyền gây chiến: chiến tranh chỉ chính đáng khi có lý do chính đáng như tự vệ, do thẩm quyền hợp pháp phát động, là lựa chọn cuối cùng và có triển vọng thành công hợp lý.",
+      "example": "Một nước bị tấn công có jus ad bellum để đáp trả; một nước muốn gây chiến để mở rộng lãnh thổ thì không.",
+      "see": "cau-hoi/chien-tranh-chinh-dang.md"
+    },
+    {
+      "id": "jus-in-bello",
+      "vi": "jus in bello",
+      "def": "Nhánh của lý thuyết chiến tranh chính đáng bàn về cách tiến hành chiến tranh cho đúng: phải phân biệt dân thường với chiến binh, và chỉ dùng vũ lực tương xứng với mục tiêu quân sự.",
+      "example": "Dù cuộc chiến là tự vệ chính đáng, việc cố ý ném bom khu dân cư vẫn vi phạm jus in bello.",
+      "see": "cau-hoi/chien-tranh-chinh-dang.md"
+    },
+    {
+      "id": "khe-uoc-xa-hoi",
+      "vi": "khế ước xã hội",
+      "en": "social contract",
+      "def": "Thuyết cho rằng quyền lực chính trị chỉ chính đáng khi có sự đồng thuận của người dân — như thể họ đã ký một “khế ước” từ bỏ một phần tự do để đổi lấy trật tự và sự bảo vệ. Đại diện: Hobbes, Locke, Rousseau, Rawls.",
+      "example": "Ta tuân thủ luật giao thông không chỉ vì sợ phạt, mà vì ngầm đồng ý rằng mọi người cùng tuân thủ thì đường sá mới an toàn cho tất cả.",
+      "see": "cau-hoi/khe-uoc-xa-hoi.md"
+    },
+    {
+      "id": "vo-vi",
+      "vi": "vô vi",
+      "en": "wu wei",
+      "han": "無為",
+      "def": "Khái niệm trung tâm của Đạo gia (Lão Tử, Trang Tử): “không làm” theo nghĩa không cưỡng ép — hành động thuận theo tự nhiên của sự vật thay vì dùng sức chống lại nó.",
+      "example": "Người thợ giỏi không gồng mình chặt gỗ mà nương theo thớ gỗ; người cai trị giỏi không ra lệnh liên miên mà để dân tự yên — đó là vô vi.",
+      "see": "doc/dao-duc-kinh.md"
+    },
+    {
+      "id": "trung-dung",
+      "vi": "trung dung",
+      "en": "doctrine of the mean (zhongyong)",
+      "han": "中庸",
+      "def": "Một trong Tứ thư Nho giáo (tương truyền của Tử Tư): đạo lý giữ lòng không thiên lệch, xử sự vừa phải đúng mực trong mọi hoàn cảnh — “quá” và “không kịp” đều là sai. Khác với học thuyết trung dung (*mesotes*) của Aristotle: đức hạnh là điểm giữa hai thói xấu thái quá và thiếu hụt.",
+      "example": "“Mừng, giận, buồn, vui chưa phát ra gọi là trung; phát ra mà đều đúng mực gọi là hòa” (*Trung dung*, chương 1)."
+    },
+    {
+      "id": "kiem-ai",
+      "vi": "kiêm ái",
+      "en": "inclusive care (jian ai)",
+      "han": "兼愛",
+      "def": "Chủ trương của Mặc Tử: quan tâm và làm lợi cho mọi người, không gạt ai ra ngoài vòng quan tâm đạo đức. Theo Chris Fraser (SEP), kiêm ái đòi quan tâm như nhau chứ không đòi đối xử như nhau, và vẫn coi hiếu, từ là điều tốt; Mặc Tử đặt *kiêm* (兼, bao trùm) đối lập với *biệt* (別, chia tách, loại người ngoài ra).",
+      "example": "“Xem nước người như nước mình, nhà người như nhà mình, thân người như thân mình” (*Mặc Tử*, Kiêm ái trung).",
+      "see": "doc/mac-tu-kiem-ai.md"
+    },
+    {
+      "id": "thuc-chung-luan",
+      "vi": "thực chứng luận",
+      "en": "positivism",
+      "def": "Quan điểm cho rằng tri thức chân chính chỉ đến từ quan sát và khoa học thực nghiệm; phái thực chứng logic (Trường phái Vienna) còn đòi mọi phát biểu có nghĩa đều phải kiểm chứng được bằng kinh nghiệm.",
+      "example": "Câu “vũ trụ có mục đích” bị thực chứng luận loại ra khỏi triết học nghiêm túc, vì không có quan sát nào kiểm chứng được nó.",
+      "see": "lich-su/the-ky-20.md"
+    },
+    {
+      "id": "hien-tuong-luan",
+      "vi": "hiện tượng luận",
+      "en": "phenomenology",
+      "def": "Trường phái do Edmund Husserl sáng lập: thay vì hỏi thực tại “đằng sau” kinh nghiệm là gì, hãy mô tả cẩn thận kinh nghiệm ý thức như nó hiện ra — với khẩu hiệu “trở về với chính sự vật”.",
+      "example": "Thay vì tranh cãi cái bàn “thực sự” là gì, hiện tượng luận mời ta mô tả tỉ mỉ chính trải nghiệm nhìn-thấy-cái-bàn của mình.",
+      "see": "lich-su/the-ky-20.md"
+    },
+    {
+      "id": "thuyet-vi-loi",
+      "vi": "thuyết vị lợi",
+      "en": "utilitarianism",
+      "def": "Phiên bản nổi tiếng nhất của hệ quả luận (Bentham, Mill): hành động đúng là hành động tạo ra tổng hạnh phúc lớn nhất cho nhiều người nhất.",
+      "example": "Đứng trước hai lựa chọn, người theo thuyết vị lợi hỏi: cách nào làm cho nhiều người hạnh phúc hơn — rồi chọn cách đó.",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "nhan-vi",
+      "vi": "nhân vị",
+      "en": "personhood",
+      "def": "Địa vị của một thực thể được coi là “người” theo nghĩa đạo đức — có quyền và có lợi ích đáng được tôn trọng; câu hỏi trung tâm trong tranh luận về phá thai, quyền động vật và AI.",
+      "example": "Thai nhi có nhân vị từ lúc thụ thai, từ khi có não, hay từ khi chào đời? Câu trả lời quyết định lập trường của bạn về phá thai.",
+      "see": "cau-hoi/pha-thai.md"
+    },
+    {
+      "id": "cong-ly",
+      "vi": "công lý",
+      "en": "justice",
+      "def": "Lý tưởng và đức tính về việc mỗi người nhận được những gì xứng đáng: phân phối công bằng của cải, cơ hội và gánh nặng trong xã hội.",
+      "example": "Hai người làm cùng một việc mà lương chênh lệch chỉ vì giới tính — đó là bất công, vì phần thưởng không tương xứng với đóng góp.",
+      "see": "cau-hoi/cong-ly.md"
+    },
+    {
+      "id": "ban-the-luan",
+      "vi": "bản thể luận",
+      "en": "ontology",
+      "def": "Nhánh của siêu hình học nghiên cứu những gì tồn tại và bản chất của sự tồn tại: có những loại thực thể nào, và chúng liên hệ với nhau ra sao.",
+      "example": "Hỏi “con số có tồn tại như cái bàn tồn tại không?” là đang làm bản thể luận.",
+      "see": "cau-hoi/cai-gi-ton-tai.md"
+    },
+    {
+      "id": "tuong-doi-luan-dao-duc",
+      "vi": "tương đối luận (đạo đức)",
+      "en": "moral relativism",
+      "def": "Quan điểm cho rằng đúng/sai không tuyệt đối mà phụ thuộc vào văn hóa, xã hội hoặc cá nhân — không có chuẩn mực đạo đức nào đúng cho mọi người ở mọi nơi.",
+      "example": "“Ăn thịt chó là sai” đúng ở nơi này nhưng không đúng ở nơi khác — người theo tương đối luận đạo đức thấy đó là chuyện bình thường, không phải mâu thuẫn.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "nhan-qua",
+      "vi": "nhân quả",
+      "en": "causation",
+      "def": "Mối quan hệ trong đó một sự kiện làm cho sự kiện khác xảy ra; Hume lập luận rằng ta không bao giờ quan sát được “sức mạnh” nhân quả — chỉ thấy các sự kiện nối tiếp nhau đều đặn.",
+      "example": "Ta thấy lửa rồi thấy khói, lặp đi lặp lại — nhưng có bao giờ ta “thấy” chính cái khiến lửa sinh ra khói không? Hume nói không.",
+      "see": "cau-hoi/nhan-qua-ban-chat.md"
+    },
+    {
+      "id": "ban-nga",
+      "vi": "bản ngã",
+      "en": "self",
+      "def": "Cái “tôi” tồn tại qua thời gian: điều gì làm cho tôi hôm nay là cùng một người với tôi mười năm trước — ký ức, thân thể, hay một cái gì khác?",
+      "example": "Nếu mai bạn mất hết ký ức, bạn còn là bạn không? Câu hỏi ấy là toàn bộ vấn đề bản ngã.",
+      "see": "cau-hoi/ban-nga-thoi-gian.md"
+    },
+    {
+      "id": "dong-nhat-ca-nhan",
+      "vi": "bản sắc cá nhân",
+      "en": "personal identity",
+      "alt": [
+        "đồng nhất cá nhân"
+      ],
+      "def": "Vấn đề siêu hình học về điều kiện để một người ở hai thời điểm khác nhau là cùng một người — và liệu bản ngã có cần một “linh hồn” bất biến hay chỉ cần tính liên tục của ký ức và thân thể.",
+      "example": "Con tàu Theseus thay từng tấm ván đến khi không còn tấm nào cũ — nó còn là con tàu cũ không? Con người thay đổi từng tế bào cũng đặt câu hỏi tương tự.",
+      "see": "cau-hoi/ban-nga-thoi-gian.md"
+    },
+    {
+      "id": "gia-thuyet-mo-phong",
+      "vi": "giả thuyết mô phỏng",
+      "en": "simulation hypothesis",
+      "def": "Giả thuyết rằng ta đang sống trong một mô phỏng máy tính. Nick Bostrom (2003) lập luận rằng ít nhất một trong ba điều sau là đúng: nhân loại gần như chắc chắn diệt vong trước khi đạt giai đoạn “hậu nhân loại”; các nền văn minh hậu nhân loại hầu như không chạy mô phỏng tổ tiên; hoặc gần như chắc chắn ta đang sống trong một mô phỏng.",
+      "example": "Nếu hậu thế tạo ra hàng triệu thế giới ảo có cư dân ý thức, xác suất ta ở trong thế giới “gốc” chỉ là một phần triệu — đó là lập luận của Bostrom.",
+      "see": "cau-hoi/mo-phong.md"
+    },
+    {
+      "id": "tam-tri-mo-rong",
+      "vi": "tâm trí mở rộng",
+      "en": "extended mind",
+      "def": "Thuyết của Andy Clark và David Chalmers (1998): tâm trí không dừng ở hộp sọ — một cuốn sổ tay hay chiếc điện thoại mà ta dùng như bộ nhớ ngoài có thể là một phần thật sự của quá trình nhận thức.",
+      "example": "Người mất trí nhớ dùng sổ tay ghi mọi việc và tra cứu nó như tra cứu ký ức — theo thuyết này, cuốn sổ là một phần tâm trí của ông."
+    },
+    {
+      "id": "binh-dang",
+      "vi": "bình đẳng",
+      "en": "equality",
+      "def": "Lý tưởng cho rằng mọi người xứng đáng được đối xử như nhau về một mặt nào đó — trước pháp luật, về cơ hội hay về phúc lợi; tranh cãi nằm ở chỗ “mặt nào” và “như nhau đến mức nào”.",
+      "example": "Ai cũng đồng ý “mọi người bình đẳng trước pháp luật”, nhưng bình đẳng cơ hội và bình đẳng kết quả là hai yêu cầu rất khác nhau.",
+      "see": "cau-hoi/binh-dang.md"
+    },
+    {
+      "id": "tu-do",
+      "vi": "tự do",
+      "en": "liberty",
+      "def": "Tình trạng không bị ép buộc hay chi phối một cách tùy tiện; trong triết học chính trị, câu hỏi lớn là tự do khỏi cái gì (tự do âm) và tự do để làm gì (tự do dương).",
+      "example": "Không ai cấm bạn học đàn là tự do âm; tự mình làm chủ — chọn học đàn vì đó là điều chính bạn muốn sống theo, không vì bị cha mẹ hay đám đông chi phối — gần với tự do dương. Berlin thừa nhận cả hai đều là giá trị thật, nhưng cảnh báo rằng tự do dương dễ bị lợi dụng để biện minh cho áp đặt."
+    },
+    {
+      "id": "gia-tri",
+      "vi": "giá trị",
+      "en": "value",
+      "def": "Cái đáng được theo đuổi, tôn trọng hoặc bảo vệ; triết học giá trị (axiology) hỏi điều gì thật sự có giá trị — hạnh phúc, tri thức, đức hạnh, cái đẹp — và giá trị là khách quan hay do ta gán cho.",
+      "example": "Một bức tranh vô giá với người này chỉ là mảnh vải với người khác — vậy giá trị nằm trong bức tranh, hay trong mắt người nhìn?",
+      "see": "cau-hoi/y-nghia-song.md"
+    },
+    {
+      "id": "thuc-tai",
+      "vi": "thực tại",
+      "en": "reality",
+      "def": "Tổng thể những gì thật sự tồn tại, độc lập với cách ta nghĩ về nó — đối tượng trung tâm của siêu hình học và điểm tựa của mọi tranh luận duy vật/duy tâm.",
+      "example": "Giấc mơ rất thật lúc đang mơ, nhưng tỉnh dậy ta bảo nó “không có thật” — ranh giới ấy chính là câu hỏi về thực tại.",
+      "see": "cau-hoi/cai-gi-ton-tai.md"
+    },
+    {
+      "id": "sieu-dao-duc-hoc",
+      "vi": "siêu đạo đức học",
+      "en": "metaethics",
+      "def": "Nhánh đạo đức học hỏi về bản chất của chính đạo đức: có sự thật đạo đức không, phán đoán đạo đức mô tả sự kiện hay bày tỏ thái độ, và ta biết điều đúng bằng cách nào.",
+      "example": "Hỏi 'ăn thịt có sai không' là đạo đức học chuẩn tắc; hỏi 'khi nói ăn thịt là sai, ta đang nêu một sự thật hay bày tỏ cảm xúc' là siêu đạo đức học.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "dao-duc-hoc-chuan-tac",
+      "vi": "đạo đức học chuẩn tắc",
+      "en": "normative ethics",
+      "def": "Phần đạo đức học tìm câu trả lời cho câu hỏi hành động nào đúng, con người nên sống thế nào — chẳng hạn hệ quả luận, nghĩa vụ luận, đạo đức học đức hạnh.",
+      "example": "Tranh luận bác sĩ có được lấy tạng một người khỏe để cứu năm người không là tranh luận của đạo đức học chuẩn tắc.",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "hien-thuc-luan-dao-duc",
+      "vi": "hiện thực luận đạo đức",
+      "en": "moral realism",
+      "def": "Quan điểm cho rằng phán đoán đạo đức nhằm nêu sự thật và ít nhất một số phán đoán như thế là đúng, bất kể người ta nghĩ gì; gồm nhánh phi tự nhiên (Moore, Parfit) và nhánh tự nhiên (hiện thực luận Cornell, Railton).",
+      "example": "Người theo hiện thực luận nói chế độ nô lệ đã sai ngay cả khi đa số người đương thời tán thành nó.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "thuyet-sai-lam",
+      "vi": "thuyết sai lầm (đạo đức)",
+      "en": "error theory",
+      "def": "Quan điểm của Mackie (1977): phán đoán đạo đức nhằm nêu sự thật khách quan, nhưng vì không có giá trị khách quan nên không phán đoán đạo đức nào đúng.",
+      "example": "Như mọi câu 'nhà này có ma' đều sai nếu ma không tồn tại, mọi câu 'việc này sai một cách khách quan' đều không đúng nếu không có giá trị khách quan.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "bieu-cam-luan",
+      "vi": "biểu cảm luận",
+      "en": "expressivism",
+      "def": "Quan điểm cho rằng câu đạo đức không mô tả sự kiện mà bày tỏ một thái độ, như tán thành, phản đối hay chấp nhận một chuẩn mực; dạng sớm của nó là cảm xúc luận của Ayer và Stevenson.",
+      "example": "Theo Ayer (1936), nói 'trộm tiền là sai' giống như viết 'Trộm tiền!!' với giọng ghê tởm.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "kien-tao-luan-dao-duc",
+      "vi": "kiến tạo luận (đạo đức)",
+      "en": "constructivism (metaethics)",
+      "def": "Quan điểm cho rằng sự thật đạo đức, nếu có, được xác định bởi điều mà những tác nhân suy xét hợp lý sẽ chấp nhận trong những điều kiện thích hợp, chứ không có sẵn độc lập với thủ tục ấy (Rawls 1980, Korsgaard 1996).",
+      "example": "Một cách chia việc nhà mà mọi người, biết đủ thông tin và không bị ép, đều chấp nhận được thì đúng theo nghĩa của kiến tạo luận.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "lap-luan-cau-hoi-mo",
+      "vi": "lập luận câu hỏi mở",
+      "en": "open question argument",
+      "def": "Lập luận của Moore (1903): với mọi định nghĩa tự nhiên của 'tốt', câu hỏi 'điều này có thật sự tốt không?' vẫn có nghĩa, nên 'tốt' không đồng nghĩa với tính chất tự nhiên nào.",
+      "example": "'Điều này dễ chịu, nhưng có thật sự tốt không?' là câu hỏi có nghĩa; 'hình này là tam giác, nhưng có ba cạnh không?' thì không.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "van-de-la-phai",
+      "vi": "vấn đề \"là – phải\"",
+      "en": "is–ought problem",
+      "def": "Nhận xét của Hume (1740), theo cách hiểu phổ biến ở thế kỷ 20: không thể suy ra kết luận về điều nên làm chỉ từ những tiền đề thuần sự kiện, mà cần ít nhất một tiền đề giá trị.",
+      "example": "Từ 'thuốc lá gây ung thư' chỉ suy ra 'không nên hút thuốc' khi thêm tiền đề 'không nên làm hại sức khỏe của mình'.",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "chan-ly",
+      "vi": "chân lý",
+      "en": "truth",
+      "han": "真理",
+      "def": "Tính chất mà một câu nói hay một niềm tin có khi nó đúng; các lý thuyết chân lý tranh luận xem tính chất ấy là gì.",
+      "example": "Người làm chứng tin thật lòng rằng đèn xanh, nhưng niềm tin ấy vẫn có thể không có chân lý — nếu đèn thực ra đỏ.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "thuyet-tuong-ung",
+      "vi": "thuyết tương ứng",
+      "en": "correspondence theory of truth",
+      "def": "Lập trường cho rằng một niềm tin hay câu nói đúng khi nó khớp (tương ứng) với cách sự vật thực sự là — với một sự kiện trong thế giới.",
+      "example": "Câu 'ngoài trời đang mưa' đúng bởi vì ngoài trời đang mưa, không phải vì ai tin chắc.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "thuyet-mach-lac",
+      "vi": "thuyết mạch lạc (về chân lý)",
+      "en": "coherence theory of truth",
+      "def": "Lập trường cho rằng một niềm tin đúng khi và chỉ khi nó thuộc về một hệ thống niềm tin mạch lạc, trong đó các niềm tin suy ra và giải thích lẫn nhau.",
+      "example": "Điều tra viên chấp nhận giả thuyết làm mọi lời khai, dấu vết khớp vào nhau; người theo thuyết mạch lạc nói đó chính là chân lý.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "thuc-dung-luan",
+      "vi": "thực dụng luận",
+      "en": "pragmatism",
+      "def": "Truyền thống triết học Mỹ (Peirce, James, Dewey) hiểu một khái niệm qua khác biệt thực tế nó tạo ra; về chân lý, coi đúng là điều đứng vững trước sự truy tìm hay điều 'hữu hiệu về lâu dài'.",
+      "example": "Peirce: chân lý là ý kiến mà rốt cuộc mọi người truy tìm đều sẽ đồng ý.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "thuyet-giam-phat",
+      "vi": "thuyết giảm phát (về chân lý)",
+      "en": "deflationary theory of truth (deflationism)",
+      "def": "Lập trường cho rằng chữ 'đúng' không chỉ một tính chất có bản chất sâu xa; mọi điều cần nói về chân lý nằm trong các câu dạng ''p' là đúng khi và chỉ khi p', và chữ 'đúng' chủ yếu là công cụ để khái quát.",
+      "example": "Nói 'đúng là trời sắp mưa' không nói thêm gì về thời tiết so với 'trời sắp mưa'.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "thuyet-tri-thuc-ve-chan-ly",
+      "vi": "thuyết tri thức về chân lý",
+      "en": "epistemic theory of truth",
+      "def": "Nhóm lập trường định nghĩa chân lý bằng các khái niệm tri thức như sự kiểm chứng hay sự biện minh lý tưởng; chẳng hạn Putnam (1981): đúng là điều sẽ được biện minh trong điều kiện nhận thức lý tưởng.",
+      "example": "Theo thuyết này, một câu mà về nguyên tắc không cách nào kiểm chứng được có thể chẳng đúng cũng chẳng sai.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "luoc-do-t",
+      "vi": "lược đồ T",
+      "en": "T-schema (Convention T)",
+      "def": "Khuôn mẫu do Tarski nêu: ''p' là đúng khi và chỉ khi p'; mọi định nghĩa chân lý thỏa đáng phải suy ra được mọi câu theo khuôn này.",
+      "example": "'Tuyết trắng' là đúng khi và chỉ khi tuyết trắng.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "nguyen-tac-nhi-tri",
+      "vi": "nguyên tắc nhị trị",
+      "en": "principle of bivalence",
+      "def": "Nguyên tắc cho rằng mọi khẳng định hoặc đúng hoặc sai, không có khả năng thứ ba; khác với nguyên tắc loại trừ thứ ba, một định luật của logic ('p hoặc không-p').",
+      "example": "Câu 'sáng 1/1/1000 ở chỗ nay là Hồ Gươm có đúng bảy con chim đậu' — theo nguyên tắc nhị trị, nó đúng hoặc sai dù không ai biết.",
+      "see": "cau-hoi/chan-ly.md"
+    },
+    {
+      "id": "the-luong-nan-euthyphro",
+      "vi": "thế lưỡng nan Euthyphro",
+      "en": "Euthyphro dilemma",
+      "def": "Câu hỏi của Socrates trong Euthyphro (10a): điều mộ đạo được các thần yêu vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu? Mở rộng: một điều đúng vì được tán thành, hay được tán thành vì nó đúng?",
+      "example": "Xã hội tán thành việc giữ lời hứa vì giữ lời hứa là đúng, hay giữ lời hứa đúng chỉ vì xã hội tán thành?",
+      "see": "cau-hoi/sieu-dao-duc.md"
+    },
+    {
+      "id": "noi-doi",
+      "vi": "nói dối",
+      "en": "lying",
+      "def": "Theo định nghĩa truyền thống: đưa ra một khẳng định mà mình tin là sai, cho người khác, với ý định người đó tin nó là thật.",
+      "example": "Biết xe từng ngập mà vẫn bảo khách 'xe chưa ngập bao giờ' là nói dối; tin nhầm giờ bay rồi nói sai thì không.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "lua-doi",
+      "vi": "lừa dối",
+      "en": "deception",
+      "def": "Cố ý làm cho người khác có một niềm tin sai, bằng lời nói dối, bằng câu đúng gây hiểu lầm hay bằng hành động.",
+      "example": "Đi vắng mà để đèn sáng, dựng xe trước cửa cho kẻ trộm tưởng nhà có người là lừa dối, dù không nói câu nào.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "gay-hieu-lam",
+      "vi": "gây hiểu lầm",
+      "en": "misleading",
+      "def": "Nói những câu mình tin là đúng nhưng được chọn để người nghe tự suy ra một điều sai.",
+      "example": "Được hỏi xe có từng ngập không, người bán đáp 'xe vừa đăng kiểm tháng trước' — câu đúng, nhưng để khách hiểu sai.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "noi-nham",
+      "vi": "nói nhảm",
+      "en": "bullshit",
+      "def": "Theo Harry Frankfurt: nói mà không quan tâm điều mình nói đúng hay sai, miễn đạt mục đích như gây ấn tượng hay bán hàng.",
+      "example": "Người review sản phẩm chưa từng dùng, khen bừa cho có bài đăng, đang nói nhảm theo nghĩa này.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "loi-noi-doi-vo-hai",
+      "vi": "lời nói dối vô hại",
+      "en": "white lie",
+      "def": "Lời nói dối nhỏ, thường để giữ hòa khí hay làm người khác vui, được coi là không gây hại.",
+      "example": "Nhận món quà không thích mà vẫn nói 'đúng cái em đang cần'.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "menh-lenh-tuyet-doi",
+      "vi": "mệnh lệnh tuyệt đối",
+      "en": "categorical imperative",
+      "def": "Theo Kant, nguyên tắc tối cao của đạo đức, ràng buộc vô điều kiện mọi người có lý trí; một cách phát biểu: chỉ hành động theo châm ngôn mà mình có thể muốn nó thành quy luật phổ quát.",
+      "example": "Hứa trả nợ dù biết sẽ không trả: nếu ai cũng làm vậy thì chẳng ai còn tin lời hứa, nên châm ngôn này không phổ quát hóa được.",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "phep-thu-cong-khai",
+      "vi": "phép thử công khai",
+      "en": "test of publicity",
+      "def": "Phép thử của Sissela Bok (1978): một lời nói dối chỉ có thể chính đáng nếu người nói dám biện minh nó trước những người biết lẽ phải, từ góc nhìn của người bị lừa.",
+      "example": "Cả nhà định giấu bệnh bố: các con có dám nói to quyết định ấy trước mặt bố không?",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "tin",
+      "vi": "tín",
+      "en": "trustworthiness (xin)",
+      "han": "信",
+      "def": "Trong Nho giáo, phẩm chất đáng tin, giữ lời; một trong năm phẩm chất cốt lõi của người quân tử trong Luận ngữ, cùng nhân, nghĩa, lễ, trí.",
+      "example": "'Nhân nhi vô tín, bất tri kỳ khả dã' (Luận ngữ 2.22): người không có chữ tín thì không biết làm sao mà được.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "gia-truong",
+      "vi": "gia trưởng",
+      "en": "paternalism",
+      "def": "Can thiệp vào lựa chọn của một người, trái hoặc không cần ý muốn của họ, với lý do là để họ được tốt hơn hoặc khỏi bị hại.",
+      "example": "Cả nhà giấu bố chẩn đoán bệnh \"để bố khỏi lo\" là một quyết định gia trưởng, dù xuất phát từ lòng thương.",
+      "see": "cau-hoi/noi-doi.md"
+    },
+    {
+      "id": "ban-tinh-con-nguoi",
+      "vi": "bản tính con người",
+      "en": "human nature",
+      "def": "Những đặc điểm được cho là thuộc về con người nói chung: cái bẩm sinh, cái phổ biến ở loài người, hoặc cái con người sẽ trở thành khi được nuôi dưỡng tốt.",
+      "example": "Hỏi 'trẻ con sinh ra đã biết chia sẻ hay phải được dạy?' là hỏi về bản tính con người.",
+      "see": "cau-hoi/ban-tinh-con-nguoi.md"
+    },
+    {
+      "id": "tinh-thien",
+      "vi": "tính thiện",
+      "en": "goodness of human nature (Mencius)",
+      "han": "性善",
+      "def": "Luận đề của Mạnh Tử: con người sinh ra đã có những đầu mối hướng thiện, cần được nuôi lớn như mầm.",
+      "example": "Ai chợt thấy đứa trẻ sắp rơi xuống giếng cũng động lòng: Mạnh Tử coi đó là bằng chứng cho tính thiện.",
+      "see": "cau-hoi/ban-tinh-con-nguoi.md"
+    },
+    {
+      "id": "tinh-ac",
+      "vi": "tính ác",
+      "en": "badness of human nature (Xunzi)",
+      "han": "性惡",
+      "def": "Luận đề của Tuân Tử: tính bẩm sinh của con người là ham lợi, ganh ghét, cứ thuận theo thì sinh tranh giành; cái thiện do con người làm nên qua học tập và lễ nghĩa.",
+      "example": "'Gỗ cong phải chờ khuôn nắn mới thẳng' là hình ảnh Tuân Tử dùng để nói về tính ác.",
+      "see": "cau-hoi/ban-tinh-con-nguoi.md"
+    },
+    {
+      "id": "tu-doan",
+      "vi": "tứ đoan",
+      "en": "four sprouts",
+      "han": "四端",
+      "def": "Bốn đầu mối đạo đức bẩm sinh theo Mạnh Tử: trắc ẩn (của nhân), tu ố (của nghĩa), từ nhượng (của lễ), thị phi (của trí).",
+      "example": "Lòng xót thương khi thấy người khác gặp nạn là đầu mối đầu tiên trong tứ đoan.",
+      "see": "cau-hoi/ban-tinh-con-nguoi.md"
+    },
+    {
+      "id": "nguy-tuan-tu",
+      "vi": "ngụy (Tuân Tử)",
+      "en": "artifice; deliberate effort",
+      "han": "偽",
+      "def": "Trong Tuân Tử, cái do con người làm nên qua học tập, rèn luyện, đối lập với tính (cái có sẵn từ lúc sinh); không mang nghĩa 'giả dối'.",
+      "example": "Lễ nghĩa là 'ngụy' của thánh nhân, như cái bình là công của người thợ gốm.",
+      "see": "cau-hoi/ban-tinh-con-nguoi.md"
+    },
+    {
+      "id": "trang-thai-tu-nhien",
+      "vi": "trạng thái tự nhiên",
+      "en": "state of nature",
+      "def": "Tình trạng giả định của con người khi chưa có nhà nước hay quyền lực chung, dùng để lập luận vì sao cần chính quyền.",
+      "example": "Hobbes cho rằng trong trạng thái tự nhiên, đời người 'cô độc, nghèo nàn, bẩn thỉu, tàn bạo và ngắn ngủi'.",
+      "see": "cau-hoi/khe-uoc-xa-hoi.md"
+    },
+    {
+      "id": "to-giay-trang",
+      "vi": "tờ giấy trắng",
+      "en": "tabula rasa (blank slate)",
+      "def": "Quan niệm gắn với Locke: tâm trí lúc mới sinh chưa có ý niệm nào, mọi nội dung đến từ kinh nghiệm (dù các năng lực tiếp nhận thì có sẵn).",
+      "example": "Câu 'trẻ con như tờ giấy trắng, dạy gì thành nấy' là phiên bản đời thường của quan niệm này.",
+      "see": "cau-hoi/ban-tinh-con-nguoi.md"
+    },
+    {
+      "id": "phat-tinh",
+      "vi": "Phật tính",
+      "en": "Buddha-nature",
+      "han": "佛性",
+      "def": "Trong Phật giáo Đại thừa, khả năng giác ngộ có sẵn ở mọi chúng sinh, bị che lấp chứ không mất.",
+      "example": "Câu 'trong nhà có báu thôi tìm kiếm' của Trần Nhân Tông dựa trên ý tưởng Phật tính.",
+      "see": "cau-hoi/truc-lam.md"
+    },
+    {
+      "id": "nguyen-ly-ly-do-day-du",
+      "vi": "nguyên lý lý do đầy đủ",
+      "en": "principle of sufficient reason",
+      "def": "Nguyên lý cho rằng mọi sự thật đều có một lý do giải thích vì sao nó như thế mà không khác đi.",
+      "example": "Từ nguyên lý này, Leibniz hỏi: vì sao có cái gì đó chứ không phải không có gì?",
+      "see": "cau-hoi/vu-tru-khoi-dau.md"
+    },
+    {
+      "id": "don-tu",
+      "vi": "đơn tử",
+      "en": "monad",
+      "def": "Theo Leibniz, thực thể đơn giản nhất cấu thành thực tại: không có phần, không tác động trực tiếp lên nhau, mỗi đơn tử phản chiếu cả vũ trụ từ góc nhìn riêng.",
+      "example": "Leibniz nói các đơn tử “không có cửa sổ” cho bất cứ gì ra vào.",
+      "see": "lich-su/can-dai.md"
+    },
+    {
+      "id": "hoa-hop-tien-dinh",
+      "vi": "hòa hợp tiền định",
+      "en": "pre-established harmony",
+      "def": "Thuyết của Leibniz: tâm và thân (và mọi đơn tử) không tác động lên nhau mà được Thượng đế sắp đặt từ đầu để luôn ăn khớp.",
+      "example": "Như hai chiếc đồng hồ chạy đúng giờ mà không cần nối với nhau.",
+      "see": "lich-su/can-dai.md"
+    },
+    {
+      "id": "thuc-the",
+      "vi": "thực thể",
+      "en": "substance",
+      "def": "Trong siêu hình học cận đại, cái tồn tại tự thân, không cần dựa vào cái khác; các tính chất và trạng thái thì phải ở “trong” một thực thể.",
+      "example": "Descartes cho rằng có hai loại thực thể (tâm và vật); Spinoza cho rằng chỉ có một: Thượng đế hay Tự nhiên.",
+      "see": "lich-su/can-dai.md"
+    },
+    {
+      "id": "y-niem-bam-sinh",
+      "vi": "ý niệm bẩm sinh",
+      "en": "innate ideas",
+      "def": "Những ý niệm hay nguyên lý có sẵn trong tâm trí từ lúc sinh ra, không do kinh nghiệm đem lại.",
+      "example": "Locke bác bỏ ý niệm bẩm sinh (“tờ giấy trắng”); Leibniz đáp rằng chúng có sẵn như vân trong khối cẩm thạch.",
+      "see": "cau-hoi/tri-thuc.md"
+    },
+    {
+      "id": "canh-bac-pascal",
+      "vi": "canh bạc Pascal",
+      "en": "Pascal's wager",
+      "def": "Lập luận thực dụng của Pascal: khi lý trí không phân xử được, đặt cược rằng Chúa tồn tại là khôn ngoan vì có thể được vô hạn mà chỉ mất hữu hạn.",
+      "example": "Đây là lý do để tin, không phải bằng chứng rằng Chúa tồn tại.",
+      "see": "cau-hoi/duc-tin-ly-tri.md"
+    },
+    {
+      "id": "y-chi-chung",
+      "vi": "ý chí chung",
+      "en": "general will",
+      "def": "Theo Rousseau, điều mọi công dân cùng muốn khi suy nghĩ với tư cách công dân, hướng tới lợi ích chung; khác “ý chí của mọi người”, vốn chỉ là tổng các ý muốn riêng.",
+      "example": "Một khu phố bỏ phiếu về giờ hát karaoke: ý chí chung là quy định công bằng cho mọi nhà, không phải cái lợi riêng của nhà đông phiếu nhất.",
+      "see": "cau-hoi/khe-uoc-xa-hoi.md"
+    },
+    {
+      "id": "nguyen-tac-gay-hai",
+      "vi": "nguyên tắc gây hại",
+      "en": "harm principle",
+      "def": "Theo Mill (Bàn về tự do, 1859), lý do duy nhất để nhà nước hay xã hội can thiệp vào tự do của một người trái ý họ là ngăn người đó gây hại cho người khác; lợi ích của chính người ấy không đủ để cưỡng ép.",
+      "example": "Cấm hút thuốc nơi công cộng được biện minh vì khói hại người khác; cấm một người hút trong nhà riêng của mình thì không.",
+      "see": "cau-hoi/tu-do-ngon-luan.md"
+    },
+    {
+      "id": "su-cong-nhan",
+      "vi": "sự công nhận",
+      "en": "recognition (Anerkennung)",
+      "def": "Theo Hegel, việc được người khác thừa nhận là một chủ thể tự do; ta chỉ có ý thức trọn vẹn về mình trong quan hệ công nhận lẫn nhau giữa những người ngang hàng.",
+      "example": "Lời khen của người bị ta ép buộc phải khen chẳng làm ta thấy mình có giá trị — đó là ý của Hegel về biện chứng chủ – tớ.",
+      "see": "lich-su/the-ky-19.md"
+    },
+    {
+      "id": "phep-tinh-hanh-phuc",
+      "vi": "phép tính hạnh phúc",
+      "en": "felicific calculus",
+      "def": "Cách Bentham đề xuất để so sánh các lựa chọn theo cường độ, độ dài, độ chắc chắn, độ gần xa của khoái lạc và đau khổ, và số người chịu ảnh hưởng; cái tên do người đời sau đặt.",
+      "example": "Xây công viên hay bãi đỗ xe: ai được vui, ai chịu khổ, nhiều và lâu đến đâu?",
+      "see": "cau-hoi/dao-duc-hanh-dong.md"
+    },
+    {
+      "id": "arche",
+      "vi": "nguyên lý đầu tiên (archē)",
+      "en": "first principle (archē)",
+      "def": "Cái gốc mà muôn vật sinh ra từ đó và quy về đó — câu hỏi mở đầu triết học Hy Lạp từ Thales.",
+      "example": "Thales cho rằng archē là nước; Anaximander cho rằng đó là “cái vô hạn định”.",
+      "see": "lich-su/hy-lap-co-dai.md"
+    },
+    {
+      "id": "logos",
+      "vi": "logos",
+      "en": "logos",
+      "def": "Với Heraclitus: cái lẽ chung mà mọi việc diễn ra theo đó, ai cũng có thể nắm nhưng đa số không chịu nhìn ra; về sau phái Khắc kỷ gọi lý tính chi phối vũ trụ là logos.",
+      "example": "Dòng sông đổi nước liên tục mà vẫn là sông vì sự đổi thay diễn ra theo một chừng mực — một biểu hiện của logos.",
+      "see": "lich-su/hy-lap-co-dai.md"
+    },
+    {
+      "id": "thuyet-nguyen-tu",
+      "vi": "thuyết nguyên tử",
+      "en": "atomism",
+      "def": "Học thuyết của Leucippus và Democritus (sau đó Epicurus): thực tại chỉ gồm những hạt không thể chia (atomos) chuyển động trong khoảng trống; mọi khác biệt ta thấy quy về hình dạng, thứ tự, vị trí của chúng.",
+      "example": "Theo Democritus, vị ngọt chỉ có “theo quy ước”; trong thực tại chỉ có nguyên tử và khoảng trống.",
+      "see": "lich-su/hy-lap-co-dai.md"
+    },
+    {
+      "id": "y-niem-platon",
+      "vi": "Ý niệm (thuyết Platon)",
+      "en": "Form (Platonic Idea)",
+      "def": "Thực thể bất biến, phi cảm giác mà các vật cùng tên “tham dự” vào, như cái Đẹp tự thân so với những vật đẹp.",
+      "example": "Mọi tam giác vẽ tay đều méo; Tam giác tự thân thì hoàn hảo.",
+      "see": "cau-hoi/pho-quat.md"
+    },
+    {
+      "id": "eudaimonia",
+      "vi": "eudaimonia (hạnh phúc, sống tốt)",
+      "en": "eudaimonia (flourishing)",
+      "def": "Với Aristotle: sống tốt và làm tốt — hoạt động của linh hồn theo đức hạnh trong cả một đời, không phải một cảm giác nhất thời.",
+      "example": "“Một con én không làm nên mùa xuân”: một ngày vui chưa làm nên một đời hạnh phúc.",
+      "see": "doc/aristotle-dao-duc.md"
+    },
+    {
+      "id": "thuyet-menh-lenh-than-linh",
+      "vi": "thuyết mệnh lệnh thần linh",
+      "en": "divine command theory",
+      "def": "Lập trường cho rằng điều đúng (hay ít nhất nghĩa vụ đạo đức) là đúng vì Thượng đế ra lệnh — vế thứ hai của thế lưỡng nan Euthyphro.",
+      "example": "Robert Adams cho rằng nghĩa vụ phụ thuộc mệnh lệnh của một Thượng đế công bằng và nhân từ, nên không tùy tiện.",
+      "see": "cong-cu/bien-chung-socrates.md"
+    },
+    {
+      "id": "luan-chung-ban-the-luan",
+      "vi": "luận chứng bản thể luận",
+      "en": "ontological argument",
+      "def": "Lập luận muốn chứng minh Thượng đế tồn tại chỉ từ khái niệm về Thượng đế, không dựa vào quan sát thế giới. Phiên bản kinh điển là của Anselm trong Proslogion (1077–1078).",
+      "example": "Anselm: cái không thể nghĩ ra gì lớn hơn không thể chỉ có trong trí hiểu, vì nếu thế ta lại nghĩ ra được cái lớn hơn nó: chính nó, nhưng có thật.",
+      "see": "cau-hoi/luan-chung-ton-giao.md"
+    },
+    {
+      "id": "than-hoc-phu-dinh",
+      "vi": "thần học phủ định",
+      "en": "negative theology (via negativa)",
+      "def": "Quan điểm cho rằng về Thượng đế ta chỉ nói đúng được bằng phủ định (Ngài không phải là gì), vì mọi thuộc tính khẳng định đều đặt Ngài lên cùng thang đo với tạo vật.",
+      "example": "Maimonides: lần lượt biết “con tàu” không phải khoáng vật, không phải cây, không phẳng như tấm ván… cũng là tiến gần tới hiểu nó.",
+      "see": "lich-su/trung-co.md"
+    },
+    {
+      "id": "thuyet-thieu-vang",
+      "vi": "thuyết thiếu vắng",
+      "en": "privation theory (privatio boni)",
+      "def": "Quan điểm của Augustine: cái ác không phải một thực thể mà là sự thiếu vắng điều thiện ở nơi đáng lẽ phải có.",
+      "example": "Mù lòa không phải một “thứ”, mà là sự thiếu thị lực ở con mắt.",
+      "see": "cau-hoi/cai-ac.md"
+    },
+    {
+      "id": "luat-tu-nhien",
+      "vi": "luật tự nhiên",
+      "en": "natural law",
+      "def": "Quan điểm cho rằng lý trí con người tự nhận ra những nguyên tắc đạo đức phổ quát, bắt đầu từ nguyên tắc “điều thiện phải làm, điều ác phải tránh” (Aquinas). Khác với “quy luật tự nhiên” của khoa học.",
+      "example": "Không giết người vô tội, giữ lời hứa: theo thuyết luật tự nhiên, lý trí ai cũng nhận ra mà không cần mặc khải.",
+      "see": "lich-su/trung-co.md"
+    },
+    {
+      "id": "luong-nan",
+      "vi": "lưỡng nan",
+      "en": "dilemma",
+      "def": "Lập luận chia trường hợp: hoặc A hoặc B; nếu A thì C, nếu B thì cũng C; vậy C. Chỉ đứng vững khi A và B bao quát hết các khả năng.",
+      "example": "Marcus Aurelius: hoặc vũ trụ có thiên ý, hoặc chỉ là nguyên tử; trường hợp nào oán trách số phận cũng vô ích.",
+      "see": "cong-cu/suy-dien.md"
+    },
+    {
+      "id": "nghia-va-vat-duoc-chi",
+      "vi": "nghĩa và vật được chỉ",
+      "en": "sense and reference (Sinn und Bedeutung)",
+      "def": "Phân biệt của Frege: một biểu thức vừa chỉ tới một đối tượng (vật được chỉ), vừa trình bày đối tượng ấy theo một cách nhất định (nghĩa).",
+      "example": "“Sao Mai” và “Sao Hôm” cùng chỉ sao Kim nhưng khác nghĩa, nên “Sao Mai là Sao Hôm” là một phát hiện, còn “Sao Mai là Sao Mai” thì không.",
+      "see": "lich-su/the-ky-20.md"
+    },
+    {
+      "id": "tam-ly-luan",
+      "vi": "tâm lý luận",
+      "en": "psychologism",
+      "def": "Quan điểm cho rằng quy luật logic (hay toán học) chỉ là quy luật về cách đầu óc con người suy nghĩ, nên thuộc về tâm lý học; bị Frege và Husserl phê phán.",
+      "example": "Nói “luật không mâu thuẫn đúng vì não ta không thể nghĩ khác” là lập luận kiểu tâm lý luận.",
+      "see": "triet-gia/husserl.md"
+    },
+    {
+      "id": "tha-hoa",
+      "vi": "tha hóa",
+      "en": "alienation",
+      "def": "Tình trạng con người bị tách khỏi điều lẽ ra thuộc về mình; với Marx: người lao động bị tách khỏi sản phẩm, hoạt động lao động, người khác và bản chất người của chính mình.",
+      "example": "Người thợ cả ngày lặp lại một thao tác trên dây chuyền, không có tiếng nói gì về sản phẩm mình làm ra.",
+      "see": "lich-su/the-ky-19.md"
+    },
+    {
+      "id": "toan-the-luan",
+      "vi": "toàn thể luận",
+      "en": "holism (confirmation holism)",
+      "def": "Quan điểm cho rằng các niềm tin, mệnh đề không đối diện với kinh nghiệm từng câu một mà như một khối; khi kinh nghiệm trái kỳ vọng, có nhiều chỗ trong mạng lưới có thể sửa.",
+      "example": "Một thí nghiệm cho kết quả lạ có thể khiến ta nghi dụng cụ đo, một giả thuyết phụ, hay chính lý thuyết chính.",
+      "see": "lich-su/the-ky-20.md"
+    },
+    {
+      "id": "ngon-ngu-rieng-tu",
+      "vi": "ngôn ngữ riêng tư",
+      "en": "private language",
+      "def": "Một ngôn ngữ mà về nguyên tắc chỉ người nói hiểu được, vì các từ của nó chỉ tới những cảm giác chỉ người ấy biết; Wittgenstein lập luận rằng ngôn ngữ như vậy là không thể.",
+      "example": "Cuốn nhật ký ghi “S” mỗi khi một cảm giác lạ xuất hiện, không có cách nào phân biệt dùng “S” đúng với chỉ tưởng là đúng.",
+      "see": "cau-hoi/ngon-ngu.md"
+    },
+    {
+      "id": "tuong-dong-gia-dinh",
+      "vi": "tương đồng gia đình",
+      "en": "family resemblance",
+      "def": "Ý tưởng của Wittgenstein: nhiều khái niệm không có một đặc điểm chung cho mọi trường hợp, chỉ có những nét giống nhau đan chéo, như giữa các thành viên một gia đình.",
+      "example": "Cờ vua, đá bóng, trốn tìm đều là “trò chơi” mà không có một điểm chung duy nhất.",
+      "see": "cong-cu/dinh-nghia-phan-vi-du.md"
+    },
+    {
+      "id": "kha-bac-bo",
+      "vi": "khả bác bỏ",
+      "en": "falsifiability",
+      "def": "Tính chất của một lý thuyết nói đủ rõ để có thể bị kinh nghiệm chứng minh là sai; theo Popper, đây là dấu hiệu phân biệt khoa học thực nghiệm với phi khoa học.",
+      "example": "“Chiều mai Hà Nội mưa” có thể bị bác bỏ; “năm nay anh có hạn, nhưng biết giữ mình thì qua” thì không, vì kết quả nào cũng khớp.",
+      "see": "cau-hoi/khoa-hoc.md"
+    },
+    {
+      "id": "duc-tin-xau",
+      "vi": "đức tin xấu",
+      "en": "bad faith (mauvaise foi)",
+      "def": "Theo Sartre, sự tự lừa dối để trốn tránh tự do và trách nhiệm, chẳng hạn coi mình như một vật có bản chất cố định.",
+      "example": "Nói “tính tôi vốn thế, không thể khác” để khỏi phải chịu trách nhiệm về lựa chọn của mình.",
+      "see": "doc/sartre-hien-sinh.md"
+    },
+    {
+      "id": "vi-tri-nguyen-thuy",
+      "vi": "vị trí nguyên thủy",
+      "en": "original position",
+      "def": "Thí nghiệm tư duy của Rawls: các bên chọn nguyên tắc công lý cho xã hội từ phía sau bức màn vô tri, trong một hoàn cảnh công bằng giữa mọi người.",
+      "example": "Không biết mình sẽ sinh ra ở thành phố hay vùng sâu, bạn sẽ chọn chính sách tuyển sinh nào?",
+      "see": "cau-hoi/cong-ly.md"
+    },
+    {
+      "id": "nguyen-tac-chenh-lech",
+      "vi": "nguyên tắc chênh lệch",
+      "en": "difference principle",
+      "def": "Một phần nguyên tắc thứ hai của Rawls: bất bình đẳng kinh tế, xã hội chỉ chính đáng khi mang lại lợi ích lớn nhất cho những người kém may mắn nhất.",
+      "example": "Trả lương cao cho bác sĩ giỏi là chấp nhận được nếu nhờ vậy người nghèo nhất cũng được chữa bệnh tốt hơn.",
+      "see": "cau-hoi/cong-ly.md"
+    },
+    {
+      "id": "ly-thuyet-quyen-huong",
+      "vi": "lý thuyết quyền hưởng",
+      "en": "entitlement theory",
+      "def": "Lý thuyết công lý của Nozick: phân phối là công bằng nếu mọi người có của cải nhờ chiếm hữu ban đầu chính đáng, chuyển nhượng tự nguyện, hoặc sửa chữa bất công, bất kể kết quả cuối cùng trông ra sao.",
+      "example": "Ca sĩ giàu lên vì hàng triệu người tự nguyện mua vé thì, theo Nozick, không ai bị bất công.",
+      "see": "cau-hoi/tai-san-rieng.md"
+    },
+    {
+      "id": "van-de-non-identity",
+      "vi": "vấn đề non-identity",
+      "en": "non-identity problem",
+      "def": "Câu đố của Parfit: khi lựa chọn của ta quyết định cả việc ai sẽ ra đời, khó nói một lựa chọn xấu đã làm hại ai, vì nếu chọn khác thì chính những người ấy không tồn tại.",
+      "example": "Một chính sách khai thác cạn kiệt tài nguyên làm thế hệ sau sống kém, nhưng không có chính sách ấy thì những con người cụ thể đó đã không được sinh ra.",
+      "see": "cau-hoi/khi-hau-trach-nhiem.md"
+    },
+    {
+      "id": "khai-sang",
+      "vi": "khai sáng",
+      "en": "enlightenment (Aufklärung)",
+      "def": "Theo Kant (1784), việc con người bước ra khỏi tình trạng chưa trưởng thành do chính mình gây ra: dám dùng trí tuệ của mình mà không cần người khác dẫn dắt. Cũng là tên phong trào tư tưởng châu Âu nở rộ ở thế kỷ 18.",
+      "example": "Tự đọc tài liệu gốc và cân nhắc lý lẽ, thay vì chỉ làm theo lời một người nổi tiếng trên mạng.",
+      "see": "doc/kant-khai-sang.md"
+    },
+    {
+      "id": "giao-dieu-chet",
+      "vi": "giáo điều chết",
+      "en": "dead dogma",
+      "def": "Chữ của Mill: một niềm tin, dù đúng, không còn được tranh luận nên được giữ như định kiến; người ta quên căn cứ của nó và nó mất sức sống.",
+      "example": "Thuộc lòng một khẩu hiệu mà không giải thích được vì sao nó đúng.",
+      "see": "doc/mill-tu-do.md"
+    },
+    {
+      "id": "hien-huu-di-truoc-ban-chat",
+      "vi": "hiện hữu đi trước bản chất",
+      "en": "existence precedes essence",
+      "def": "Luận đề của Sartre: con người không có bản tính định sẵn; ta hiện hữu trước, rồi tự làm nên mình bằng hành động.",
+      "example": "Không ai 'sinh ra đã là' kẻ hèn hay người hùng; ta trở thành thế qua việc mình làm.",
+      "see": "doc/sartre-hien-sinh.md"
+    },
+    {
+      "id": "nhan-nho-gia",
+      "vi": "nhân (Nho gia)",
+      "en": "humaneness, benevolence (ren)",
+      "han": "仁",
+      "def": "Đức trung tâm của Khổng Tử: lòng yêu người, bắt đầu từ việc tự sửa mình; 'nén mình, trở về với lễ, ấy là nhân' (Luận ngữ 12.1).",
+      "example": "Đối xử tử tế với người giúp việc ngay cả khi không ai nhìn thấy.",
+      "see": "doc/luan-ngu.md"
+    },
+    {
+      "id": "le-nho-gia",
+      "vi": "lễ",
+      "en": "ritual propriety (li)",
+      "han": "禮",
+      "def": "Khuôn phép, nghi thức ứng xử; theo Luận ngữ 3.3–3.4, gốc của lễ là lòng thành, không phải sự phô trương.",
+      "example": "Thắp hương cho ông bà: hình thức giản dị giữ cho lòng tưởng nhớ có chỗ bám.",
+      "see": "doc/luan-ngu.md"
+    },
+    {
+      "id": "thu-nho-gia",
+      "vi": "thứ",
+      "en": "reciprocity, empathetic consideration (shu)",
+      "han": "恕",
+      "def": "Suy lòng mình ra lòng người; Khổng Tử coi đây là chữ có thể theo suốt đời: 'điều mình không muốn, đừng làm cho người' (Luận ngữ 15.24).",
+      "example": "Không đăng ảnh xấu của bạn lên mạng, vì chính mình cũng không muốn bị như vậy.",
+      "see": "doc/luan-ngu.md"
+    },
+    {
+      "id": "quan-tu",
+      "vi": "quân tử",
+      "en": "exemplary person, gentleman (junzi)",
+      "han": "君子",
+      "def": "Lý tưởng con người của Khổng Tử: người hiểu điều nghĩa và đòi hỏi ở chính mình (Luận ngữ 4.16, 15.21); một phẩm chất đạo đức, không phải một giai cấp.",
+      "example": "Nhận lỗi về mình thay vì đổ cho đồng nghiệp.",
+      "see": "doc/luan-ngu.md"
+    },
+    {
+      "id": "hoai-nghi-phuong-phap",
+      "vi": "hoài nghi phương pháp",
+      "en": "methodical doubt",
+      "def": "Cách Descartes tạm gạt bỏ mọi niềm tin có thể nghi ngờ, dù chỉ chút ít, như thể nó sai hẳn, để tìm một nền móng không thể lay chuyển; nghi ngờ là công cụ, không phải đích đến.",
+      "example": "Giả thuyết giấc mơ rồi ác thần trong Suy niệm I là các bậc của hoài nghi phương pháp.",
+      "see": "doc/descartes-suy-niem.md"
+    },
+    {
+      "id": "ac-than",
+      "vi": "ác thần",
+      "en": "evil demon (evil genius)",
+      "def": "Thí nghiệm tư duy của Descartes: một kẻ cực kỳ quyền năng và xảo trá dùng mọi mưu mẹo để lừa ta về mọi thứ bên ngoài, dùng để thử xem còn điều gì không thể nghi ngờ.",
+      "example": "Dù ác thần lừa tôi tùy ý, nó không làm được cho tôi thành hư không chừng nào tôi còn nghĩ.",
+      "see": "doc/descartes-suy-niem.md"
+    },
+    {
+      "id": "cogito",
+      "vi": "cogito",
+      "en": "cogito (I think, therefore I am)",
+      "def": "Điều chắc chắn đầu tiên của Descartes: mỗi lần tôi nghĩ, tôi không thể nghi ngờ rằng mình hiện hữu. Trong Suy niệm II, ông viết 'tôi là, tôi hiện hữu'.",
+      "example": "Ngay cả khi mọi điều tôi tin đều sai, việc tôi đang nghi ngờ cho thấy tôi tồn tại.",
+      "see": "doc/descartes-suy-niem.md"
+    },
+    {
+      "id": "trung-dung-aristotle",
+      "vi": "trung dung (Aristotle)",
+      "en": "the mean (mesotes)",
+      "def": "Theo Aristotle, đức hạnh là phẩm tính chọn mức đúng 'đối với ta' giữa thái quá và bất cập, do lý trí của người có minh triết thực hành xác định; không phải trung bình cộng hay sự ôn hòa.",
+      "example": "Dũng cảm nằm giữa liều lĩnh và hèn nhát; có lúc cơn giận lớn mới là đúng mức.",
+      "see": "doc/aristotle-dao-duc.md"
+    },
+    {
+      "id": "minh-triet-thuc-hanh",
+      "vi": "minh triết thực hành",
+      "en": "practical wisdom (phronesis)",
+      "def": "Năng lực nhận ra điều nên làm trong từng hoàn cảnh cụ thể, thứ mà Aristotle cho là cần để tìm ra trung dung; không học được chỉ bằng quy tắc chung.",
+      "example": "Biết lúc nào nên nói thẳng, lúc nào nên im lặng với một người bạn đang buồn.",
+      "see": "doc/aristotle-dao-duc.md"
+    },
+    {
+      "id": "pham-tinh",
+      "vi": "phẩm tính",
+      "en": "state of character (hexis)",
+      "def": "Trạng thái tính cách ổn định hình thành qua thói quen, khiến ta hành động và cảm nhận đúng một cách vững vàng; theo Aristotle, đức hạnh là một phẩm tính.",
+      "example": "Người tiết độ thấy vui khi kiêng, chứ không chỉ cố nhịn.",
+      "see": "doc/aristotle-dao-duc.md"
+    },
+    {
+      "id": "lap-luan-chuc-nang",
+      "vi": "lập luận chức năng",
+      "en": "function argument (ergon argument)",
+      "def": "Lập luận của Aristotle: cái tốt của một vật nằm ở việc thực hiện tốt chức năng riêng của nó; chức năng riêng của con người là hoạt động theo lý trí, nên cái tốt của con người là hoạt động ấy theo đức hạnh.",
+      "example": "Con dao tốt là con dao cắt tốt; con người tốt là người sống tốt theo lý trí.",
+      "see": "doc/aristotle-dao-duc.md"
+    },
+    {
+      "id": "nang-luc-lua-chon",
+      "vi": "năng lực lựa chọn",
+      "en": "volition (prohairesis)",
+      "def": "Theo Epictetus, phần duy nhất thật sự tùy thuộc vào ta: phán đoán, mong muốn, ác cảm và cách ta dùng các ấn tượng.",
+      "example": "Kẻ trộm lấy được cây đèn, nhưng không lấy được cách ta phán đoán về việc mất đèn.",
+      "see": "doc/epictetus-cam-nang.md"
+    },
+    {
+      "id": "tinh-khong",
+      "vi": "tính không",
+      "en": "emptiness (śūnyatā)",
+      "han": "空",
+      "def": "Trong Phật giáo Đại thừa: mọi pháp đều không có tự tính, tức không tự mình mà có, độc lập với mọi thứ khác; không phải là 'không có gì'.",
+      "example": "'Sắc tức thị không': chiếc điện thoại vẫn dùng được, nhưng nó không tồn tại độc lập với linh kiện, nhà máy, sóng điện và người dùng.",
+      "see": "doc/tam-kinh.md"
+    },
+    {
+      "id": "tu-tinh",
+      "vi": "tự tính",
+      "en": "intrinsic nature (svabhāva)",
+      "han": "自性",
+      "def": "Bản chất riêng, tự có, không phụ thuộc vào gì khác. Các phái A-tì-đạt-ma dần coi mỗi pháp có tự tính; Bát nhã và Long Thọ phủ nhận điều đó.",
+      "example": "Nếu cơn giận có tự tính cố định thì không bao giờ nguôi được; vì nó do duyên mà có nên mới thay đổi.",
+      "see": "doc/tam-kinh.md"
+    },
+    {
+      "id": "ngu-uan",
+      "vi": "ngũ uẩn",
+      "en": "five aggregates (skandhas)",
+      "han": "五蘊",
+      "def": "Năm nhóm yếu tố mà Phật giáo dùng để phân tích con người thay cho một cái 'tôi' nguyên khối: sắc, thọ, tưởng, hành, thức.",
+      "example": "Tâm kinh mở đầu bằng câu 'chiếu kiến ngũ uẩn giai không': soi thấy năm uẩn đều không.",
+      "see": "doc/tam-kinh.md"
+    },
+    {
+      "id": "duyen-khoi",
+      "vi": "duyên khởi",
+      "en": "dependent origination (pratītyasamutpāda)",
+      "han": "緣起",
+      "def": "Giáo lý Phật giáo: mọi hiện tượng sinh ra nhờ các điều kiện (duyên) khác, không có gì tự mình mà có.",
+      "example": "Long Thọ coi duyên khởi, tính không và trung đạo là một (Trung luận 24.18).",
+      "see": "doc/tam-kinh.md"
+    },
+    {
+      "id": "vat-hoa",
+      "vi": "vật hóa",
+      "en": "transformation of things",
+      "han": "物化",
+      "def": "Chữ kết đoạn mộng hồ điệp của Trang Tử: sự chuyển hóa không ngừng của muôn vật, trong đó các phân biệt (Chu và bướm) có thật nhưng không cố định.",
+      "example": "Sâu hóa bướm, Chu hóa bướm trong mơ: Trang Tử gọi đó là vật hóa.",
+      "see": "doc/trang-tu-mong-ho-diep.md"
+    },
+    {
+      "id": "vo-thuong",
+      "vi": "vô thường",
+      "en": "impermanence",
+      "han": "無常",
+      "def": "Giáo lý Phật giáo: mọi sự vật đều sinh diệt, đổi thay, không có gì thường còn.",
+      "example": "'Thân như điện ảnh hữu hoàn vô' — kệ của Vạn Hạnh nói về vô thường để khuyên đừng sợ hãi thịnh suy.",
+      "see": "doc/tho-van-ly-tran.md"
+    },
+    {
+      "id": "dieu-phat",
+      "vi": "điếu phạt",
+      "en": "punitive expedition that consoles the people",
+      "han": "弔伐",
+      "def": "Thương dân mà đánh kẻ có tội: lý tưởng Nho gia về cuộc chinh phạt chính đáng, chỉ nhằm trừ bạo quân để cứu dân.",
+      "example": "Bình Ngô đại cáo mở đầu: 'quân điếu phạt trước hết là trừ bạo'.",
+      "see": "doc/nguyen-trai-binh-ngo.md"
+    },
+    {
+      "id": "chinh-danh",
+      "vi": "chính danh",
+      "en": "rectification of names (zhengming)",
+      "han": "正名",
+      "def": "Làm cho tên gọi và danh phận khớp với thực chất. Khổng Tử coi đây là việc đầu tiên của chính trị: danh không chính thì lời không thuận, việc không thành (Luận ngữ 13.3).",
+      "example": "Gọi việc sa thải là “tối ưu nhân sự” là danh không chính: tên gọi che mất thực chất và làm trách nhiệm mù mờ.",
+      "see": "doc/luan-ngu.md"
+    },
+    {
+      "id": "phi-cong",
+      "vi": "phi công",
+      "en": "condemning offensive war (fei gong)",
+      "han": "非攻",
+      "def": "Chủ trương của Mặc Tử chống chiến tranh xâm lược: đánh chiếm một nước cùng loại với trộm cắp, giết người, chỉ khác quy mô. Mặc gia không chống tự vệ.",
+      "example": "Lên án kẻ trộm xe máy mà ca ngợi một cuộc xâm lược là tiêu chuẩn kép theo lập luận phi công.",
+      "see": "doc/mac-tu-kiem-ai.md"
+    },
+    {
+      "id": "tam-bieu",
+      "vi": "tam biểu (ba tiêu chuẩn)",
+      "en": "three standards of Mozi (san biao)",
+      "han": "三表",
+      "def": "Ba phép thử của Mặc Tử để thẩm định một lời nói: xét gốc (việc làm của các thánh vương xưa), xét nguồn (điều tai mắt trăm họ thật sự thấy nghe) và xét dụng (đem ra làm chính sách có lợi cho dân không).",
+      "example": "Trước một lời đồn về thuốc chữa bệnh, có thể hỏi: có tiền lệ đáng tin không, có ai thật sự chứng kiến không, áp dụng ra có lợi hay hại?",
+      "see": "doc/mac-tu-kiem-ai.md"
+    },
+    {
+      "id": "phap-thuat-the",
+      "vi": "pháp, thuật, thế",
+      "en": "standards/law, techniques, positional power (fa, shu, shi)",
+      "han": "法術勢",
+      "def": "Ba trụ cột cai trị trong tư tưởng Hàn Phi: pháp là luật lệ công bố, thưởng phạt chắc chắn; thuật là kỹ thuật giao việc và đối chiếu lời nói với việc làm của quan lại; thế là uy quyền gắn với ngôi vị.",
+      "example": "Một công ty có quy chế rõ (pháp), đánh giá theo kết quả đã cam kết (thuật) và quyền quyết định tập trung (thế).",
+      "see": "cau-hoi/duc-tri.md"
+    },
+    {
+      "id": "ly-khi",
+      "vi": "lý và khí",
+      "en": "pattern/principle and vital stuff (li and qi)",
+      "han": "理氣",
+      "def": "Cặp phạm trù của Tân Nho giáo Chu Hy: lý là khuôn mẫu, cái lẽ khiến vật là nó; khí là chất liệu cụ thể làm nên hình hài của vật.",
+      "example": "Thuyền nào cũng khác về gỗ, về dáng (khí), nhưng chiếc nào cũng phải theo cái lẽ đi được trên nước (lý).",
+      "see": "lich-su/trung-hoa.md"
+    },
+    {
+      "id": "cach-vat-tri-tri",
+      "vi": "cách vật trí tri",
+      "en": "investigating things to extend knowledge (gewu zhizhi)",
+      "han": "格物致知",
+      "def": "Theo Chu Hy: mở mang hiểu biết bằng cách đến với từng sự vật, xét cái lý của nó cho tới cùng, cho đến lúc bỗng nhiên thông suốt; Vương Dương Minh phản bác rằng lý ở ngay trong tâm.",
+      "example": "Học một nghề bằng cách làm thật nhiều ca cụ thể cho tới khi “ngộ” ra quy luật chung.",
+      "see": "lich-su/trung-hoa.md"
+    },
+    {
+      "id": "tu-dieu-de",
+      "vi": "Tứ diệu đế",
+      "en": "Four Noble Truths",
+      "def": "Bốn chân lý Đức Phật dạy: có khổ; khổ có nguyên nhân; khổ có thể chấm dứt; có con đường dẫn tới chấm dứt khổ.",
+      "example": "Như thầy thuốc: xác định bệnh, tìm nguyên nhân, nói rằng có thể khỏi, rồi kê đơn.",
+      "see": "lich-su/an-do.md"
+    },
+    {
+      "id": "nhi-de",
+      "vi": "hai chân lý (nhị đế)",
+      "en": "two truths",
+      "han": "二諦",
+      "def": "Phân biệt chân lý quy ước (tục đế) và chân lý tối hậu (chân đế) trong triết học Phật giáo.",
+      "example": "Ở mức quy ước, “tôi” trả nợ đúng hẹn; ở mức tối hậu, không có cái “tôi” bất biến nào đứng sau dòng thân–tâm.",
+      "see": "cau-hoi/cai-toi.md"
+    },
+    {
+      "id": "cu-tran-lac-dao",
+      "vi": "cư trần lạc đạo",
+      "en": "living in the dust, delighting in the Way",
+      "han": "居塵樂道",
+      "def": "Chủ trương của Trần Nhân Tông: có thể tu ngay giữa đời sống thường ngày nếu tâm không dính mắc.",
+      "example": "Một người bán hàng không gian lận, làm việc trọn vẹn mà không bị lời lãi kéo đi.",
+      "see": "cau-hoi/truc-lam.md"
+    },
+    {
+      "id": "duy-vat-bien-chung",
+      "vi": "duy vật biện chứng",
+      "en": "dialectical materialism",
+      "def": "Triết học mác-xít coi vật chất là gốc và mọi sự vật, kể cả ý thức, phát triển qua mâu thuẫn và những bước nhảy về chất.",
+      "example": "Trần Đức Thảo muốn giải thích ý thức hình thành ra sao qua tiến hóa sinh học và lao động xã hội.",
+      "see": "cau-hoi/viet-hien-dai.md"
+    }
+  ]
+}

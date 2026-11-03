@@ -1,0 +1,616 @@
+/* Logos Zero — CSS chung. Màu đạt WCAG AA (xem tests/unit/contrast.test.js). */
+
+/* ---------- Màu chủ đề ---------- */
+:root,
+[data-md-color-scheme="default"] {
+  --oz-ink: #26324a;          /* màu mực: thanh đầu trang */
+  --oz-accent: #a3401c;       /* đất nung: liên kết, nhấn */
+  --oz-paper: #fbfaf7;
+  --oz-soft: #f1ede4;
+  --oz-line: #d9d2c3;
+  --oz-ok: #1d6b3a;
+  --oz-bad: #a3221c;
+  --oz-ok-bg: #e5f3ea;
+  --oz-bad-bg: #fbe9e7;
+  --oz-mark: #fbe7a6;
+  --md-primary-fg-color: var(--oz-ink);
+  --md-primary-fg-color--light: #3b4a68;
+  --md-primary-fg-color--dark: #1a2336;
+  --md-accent-fg-color: #8a3415;
+  --md-accent-fg-color--transparent: rgba(163, 64, 28, 0.1);
+  --md-typeset-a-color: var(--oz-accent);
+  --md-default-bg-color: var(--oz-paper);
+  --md-text-font: "Be Vietnam Pro", "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif;
+  --md-code-font: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --oz-serif: "Noto Serif", "Source Serif Pro", Georgia, "Times New Roman", serif;
+}
+
+[data-md-color-scheme="slate"] {
+  --oz-ink: #1b2130;
+  --oz-accent: #f0a27a;
+  --oz-paper: #161a22;
+  --oz-soft: #212734;
+  --oz-line: #384055;
+  --oz-ok: #7fd49b;
+  --oz-bad: #ff9b8f;
+  --oz-ok-bg: #18301f;
+  --oz-bad-bg: #3a1d1b;
+  --oz-mark: #5c4a12;
+  --md-primary-fg-color: var(--oz-ink);
+  --md-primary-fg-color--light: #2a3246;
+  --md-primary-fg-color--dark: #10141d;
+  --md-accent-fg-color: #ffc1a1;
+  --md-accent-fg-color--transparent: rgba(240, 162, 122, 0.12);
+  --md-typeset-a-color: var(--oz-accent);
+  --md-default-bg-color: var(--oz-paper);
+  --md-default-fg-color: rgba(236, 233, 226, 0.92);
+  --md-default-fg-color--light: rgba(236, 233, 226, 0.72);
+  --md-hue: 222;
+}
+
+body {
+  font-family: var(--md-text-font);
+}
+
+/* ---------- Chữ ---------- */
+.md-typeset {
+  font-size: 0.86rem;
+  line-height: 1.75;
+}
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: var(--oz-serif);
+  color: var(--md-default-fg-color);
+  letter-spacing: -0.01em;
+}
+.md-typeset h1 {
+  font-weight: 700;
+  font-size: 2em;
+  line-height: 1.25;
+}
+.md-typeset h2 {
+  font-weight: 600;
+  margin-top: 2em;
+  padding-top: 0.6em;
+  border-top: 1px solid var(--oz-line);
+}
+.md-typeset mark {
+  background: var(--oz-mark);
+  color: inherit;
+  padding: 0 0.15em;
+}
+.md-typeset blockquote {
+  border-left-color: var(--oz-accent);
+  color: var(--md-default-fg-color);
+}
+.md-typeset table:not([class]) {
+  font-size: 0.8rem;
+}
+.md-header {
+  background-color: var(--oz-ink);
+}
+.md-tabs {
+  background-color: var(--oz-ink);
+}
+
+.oz-sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.oz-muted {
+  color: var(--md-default-fg-color--light);
+}
+.oz-error {
+  color: var(--oz-bad);
+  font-weight: 600;
+}
+
+/* ---------- Trang chủ ---------- */
+/* Tiêu đề h1 của trang chủ chỉ dành cho trình đọc màn hình. */
+.oz-home h1#logos-zero {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+.oz-hero {
+  margin: 0.5rem 0 1.5rem;
+}
+.oz-hero__kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--oz-accent);
+  margin: 0;
+}
+.md-typeset .oz-hero__title {
+  font-family: var(--oz-serif);
+  font-size: clamp(1.7rem, 5vw, 2.6rem);
+  line-height: 1.2;
+  margin: 0.3em 0 0.4em;
+  border: 0;
+  padding: 0;
+}
+.oz-hero__lead {
+  font-size: 1.05em;
+  max-width: 40em;
+}
+.oz-daily {
+  background: var(--oz-soft);
+  border: 1px solid var(--oz-line);
+  border-radius: 0.4rem;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+}
+.oz-daily__label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  margin: 0;
+}
+.md-typeset .oz-daily ul {
+  list-style: none;
+  margin: 0.4em 0 0;
+  padding: 0;
+}
+.md-typeset .oz-daily ul li {
+  margin: 0.2em 0 !important;
+}
+.md-typeset .oz-daily.is-picked li {
+  display: none;
+}
+.md-typeset .oz-daily.is-picked li.is-today {
+  display: block;
+  font-family: var(--oz-serif);
+  font-size: 1.35em;
+  line-height: 1.4;
+}
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  border-color: var(--oz-line);
+  background: var(--md-default-bg-color);
+}
+
+/* ---------- Nút ---------- */
+.md-typeset .md-button {
+  color: var(--oz-accent);
+  border-color: var(--oz-accent);
+  min-height: 44px;
+  padding: 0.55em 1.2em;
+  border-radius: 0.3rem;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+.md-typeset .md-button--primary {
+  background-color: var(--oz-accent);
+  border-color: var(--oz-accent);
+  color: #fff;
+}
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
+  color: #1b1b1b;
+}
+.md-typeset .md-button:focus-visible,
+.oz-option:focus-visible,
+.oz-segmented button:focus-visible,
+.oz-choice input:focus-visible + label {
+  outline: 3px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
+.oz-danger {
+  color: var(--oz-bad) !important;
+  border-color: var(--oz-bad) !important;
+}
+.oz-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin: 1rem 0 0.5rem;
+}
+/* Thí nghiệm tư duy: thanh số liệu khảo sát. */
+.oz-tn__survey {
+  margin: 0.75rem 0;
+  display: grid;
+  gap: 0.45rem;
+}
+.oz-tn__bar {
+  position: relative;
+  background: var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.06));
+  border-radius: 0.25rem;
+  min-height: 2rem;
+  overflow: hidden;
+}
+.oz-tn__bar-fill {
+  position: absolute;
+  inset-inline-start: 0;
+  top: 0;
+  bottom: 0;
+  background: var(--md-accent-fg-color, #3f51b5);
+  opacity: 0.35;
+}
+.oz-tn__bar-label {
+  position: relative;
+  display: block;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.82rem;
+}
+/* Sơ đồ lập luận. */
+.oz-ok {
+  color: var(--oz-ok);
+}
+.oz-bad {
+  color: var(--oz-bad);
+}
+.oz-sodo__passage {
+  margin: 0.5rem 0 1rem;
+  padding-inline-start: 1.4rem;
+}
+.oz-sodo__passage li {
+  margin-bottom: 0.4rem;
+}
+.oz-sodo__item {
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.12));
+  border-radius: 0.25rem;
+  padding: 0.6rem 0.8rem;
+  margin: 0 0 0.6rem;
+}
+.oz-sodo__item legend {
+  font-size: 0.85rem;
+  padding: 0 0.3rem;
+}
+.oz-sodo__roles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin-top: 0.4rem;
+}
+.oz-sodo__role {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  min-height: 44px;
+}
+.oz-sodo__feedback {
+  list-style: none;
+  padding: 0;
+}
+.oz-sodo__feedback li {
+  margin-bottom: 0.35rem;
+  font-size: 0.88rem;
+}
+.oz-sodo__tree {
+  width: 100%;
+  height: auto;
+  max-width: 620px;
+  margin: 0.75rem 0;
+}
+.md-typeset .oz-print-btn {
+  margin: -0.6em 0 1.2em;
+  font-size: 0.72rem;
+  min-height: 44px;
+}
+
+/* ---------- Quiz ---------- */
+.oz-quiz {
+  border: 1px solid var(--oz-line);
+  border-radius: 0.4rem;
+  padding: 0.6rem 1rem 0.8rem;
+  background: var(--oz-soft);
+}
+.oz-quiz__q {
+  border: 0;
+  margin: 0 0 1rem;
+  padding: 0;
+}
+.oz-quiz__q legend {
+  font-weight: 600;
+  padding: 0;
+  margin-bottom: 0.4rem;
+}
+.oz-choice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  min-height: 44px;
+  padding: 0.35rem 0.4rem;
+  border-radius: 0.3rem;
+}
+.oz-choice:hover {
+  background: var(--md-accent-fg-color--transparent);
+}
+.oz-choice input {
+  margin-top: 0.45em;
+  width: 1.1rem;
+  height: 1.1rem;
+  flex: none;
+  accent-color: var(--oz-accent);
+}
+.oz-choice label {
+  flex: 1;
+  cursor: pointer;
+}
+.oz-quiz__fb,
+.oz-ft__fb {
+  margin-top: 0.4rem;
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.3rem;
+  border-left: 4px solid;
+}
+.is-correct.oz-quiz__fb,
+.is-correct.oz-ft__fb {
+  background: var(--oz-ok-bg);
+  border-color: var(--oz-ok);
+}
+.is-wrong.oz-quiz__fb,
+.is-wrong.oz-ft__fb {
+  background: var(--oz-bad-bg);
+  border-color: var(--oz-bad);
+}
+.oz-quiz__result {
+  font-weight: 700;
+}
+
+/* ---------- Nhận ra ngụy biện ---------- */
+.oz-fallacy-trainer,
+.oz-flashcards,
+.oz-mydata {
+  border: 1px solid var(--oz-line);
+  border-radius: 0.4rem;
+  padding: 0.8rem 1rem;
+  background: var(--oz-soft);
+  margin: 1rem 0;
+}
+.oz-ft__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+.oz-segmented {
+  display: inline-flex;
+  flex-wrap: wrap;
+  border: 1px solid var(--oz-line);
+  border-radius: 0.3rem;
+  overflow: hidden;
+}
+.oz-segmented button {
+  min-height: 44px;
+  min-width: 56px;
+  padding: 0 0.9rem;
+  border: 0;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  cursor: pointer;
+  font: inherit;
+}
+.oz-segmented button[aria-checked="true"] {
+  background: var(--oz-accent);
+  color: #fff;
+}
+[data-md-color-scheme="slate"] .oz-segmented button[aria-checked="true"] {
+  color: #1b1b1b;
+}
+.oz-ft__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  font-size: 0.75rem;
+  margin: 0.8rem 0 0.2rem;
+}
+.oz-tag {
+  border: 1px solid var(--oz-line);
+  border-radius: 1rem;
+  padding: 0 0.6rem;
+}
+.md-typeset .oz-ft__passage {
+  font-size: 1.02em;
+  margin: 0.4rem 0;
+  background: var(--md-default-bg-color);
+  padding: 0.6rem 0.9rem;
+}
+.oz-ft__prompt {
+  font-weight: 600;
+}
+.oz-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 0.5rem;
+}
+.oz-option {
+  min-height: 44px;
+  text-align: left;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid var(--oz-line);
+  border-radius: 0.3rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+.oz-option:hover:not(:disabled) {
+  border-color: var(--oz-accent);
+}
+.oz-option:disabled {
+  cursor: default;
+}
+.oz-option__en {
+  font-size: 0.75em;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+.oz-option.is-correct {
+  border: 2px solid var(--oz-ok);
+  background: var(--oz-ok-bg);
+}
+.oz-option.is-wrong {
+  border: 2px solid var(--oz-bad);
+  background: var(--oz-bad-bg);
+}
+
+/* ---------- Thẻ ghi nhớ ---------- */
+.oz-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--oz-line);
+  border-radius: 0.5rem;
+  padding: 1.2rem 1.4rem;
+  min-height: 9rem;
+}
+.md-typeset .oz-card__term {
+  font-family: var(--oz-serif);
+  font-size: 1.6em;
+  margin: 0;
+}
+.md-typeset .oz-card__en {
+  font-style: italic;
+  margin: 0;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .oz-card__back {
+  border-top: 1px dashed var(--oz-line);
+  margin-top: 0.8rem;
+  padding-top: 0.6rem;
+}
+
+/* ---------- Dữ liệu của tôi ---------- */
+.oz-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+}
+.oz-stat {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--oz-line);
+  border-radius: 0.4rem;
+  padding: 0.6rem 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.oz-stat__value {
+  font-family: var(--oz-serif);
+  font-size: 1.6em;
+  font-weight: 700;
+}
+.oz-stat__label {
+  font-size: 0.75em;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .oz-table caption {
+  caption-side: top;
+  text-align: left;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ---------- Từ điển ---------- */
+.md-typeset dl.oz-glossary dt {
+  font-weight: 700;
+  margin-top: 1em;
+}
+.oz-glossary .oz-en {
+  font-weight: 400;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ---------- Chuyển động ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---------- In ---------- */
+@media print {
+  .oz-print-btn,
+  .oz-report,
+  .oz-fallacy-trainer,
+  .oz-flashcards,
+  .oz-mydata,
+  .oz-progress-summary,
+  .oz-actions,
+  .md-source-file,
+  .headerlink {
+    display: none !important;
+  }
+  .oz-page-break {
+    break-before: page;
+  }
+  .md-typeset {
+    font-size: 10.5pt;
+    line-height: 1.55;
+  }
+  .md-typeset .md-typeset__scrollwrap,
+  .md-typeset .md-typeset__table,
+  .md-typeset__scrollwrap {
+    overflow: visible !important;
+  }
+  .md-typeset table:not([class]) {
+    display: table;
+    width: 100%;
+    font-size: 9pt;
+  }
+  .md-typeset details {
+    display: block;
+  }
+  .md-typeset details > :not(summary) {
+    display: block !important;
+  }
+  .md-typeset h2 {
+    break-after: avoid;
+  }
+  .md-typeset .admonition,
+  .md-typeset details,
+  .md-typeset figure,
+  .md-typeset blockquote,
+  .oz-quiz__q {
+    break-inside: avoid;
+  }
+  .md-typeset a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    word-break: break-all;
+  }
+  .oz-quiz {
+    background: none;
+  }
+}
+
+/* ---------- Hình minh họa (tools/figures.py) ---------- */
+.oz-fig {
+  margin: 1.5em auto;
+  max-width: 560px;
+  text-align: center;
+}
+.oz-fig__svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.oz-fig figcaption {
+  font-size: 0.82em;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.5em;
+}
