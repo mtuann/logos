@@ -45,6 +45,7 @@ npm ci
 for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank; do
   uv run python tools/$t.py --check || break
 done
+uv run python tools/content_registry.py --check
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build

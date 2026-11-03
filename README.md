@@ -37,6 +37,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   book.py                 sách in docs/them/sach.md theo thứ tự nav
   review_check.py         mục "Tình trạng rà soát" ở trang Cập nhật
   frontmatter_check.py    front matter YAML hợp lệ
+  content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
   philpapers-2020.md      số liệu PhilPapers 2020, sinh từ Bảng 1–2 của bài báo chính thức
 tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
@@ -44,6 +45,9 @@ tests/
   test_hooks.py           kiểm thử hook Python và script sinh trang
   test_indexes.py         chỉ mục mỗi mục liệt kê đủ bài; Kế hoạch học trỏ tới trang có thật;
                           không có văn xuôi lọt vào khối code
+content.yml               sổ đăng ký: mỗi trang, mỗi file dữ liệu một dòng (loại, tầng, khối, sinh tự động?)
+schema/content.schema.json  giá trị cho phép của content.yml
+AGENTS.md, KE-HOACH.md, ban-giao/  luật cho agent, kế hoạch làm lại, việc từng đợt (không xuất bản)
 overrides/main.html       tùy biến Material (manifest, "cập nhật lần cuối", link "Báo lỗi trang này")
 HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhất, cú pháp Markdown
 ```
@@ -80,6 +84,7 @@ npm ci
 for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank; do
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
+uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
@@ -102,7 +107,7 @@ Người đọc báo lỗi qua link "Báo lỗi trang này" cuối mỗi trang: 
 
 Thêm một bài mới:
 
-1. Viết bài trong thư mục của mục (ví dụ `docs/cau-hoi/`), thêm vào `nav` trong `mkdocs.yml` **và** vào trang `index.md` của mục (kiểm thử `tests/test_indexes.py` sẽ báo nếu quên); nếu hợp, thêm vào `CATALOG` của `docs/assets/js/ke-hoach.js`.
+1. Viết bài trong thư mục của mục (ví dụ `docs/cau-hoi/`), thêm vào `nav` trong `mkdocs.yml`, vào `content.yml` **và** vào trang `index.md` của mục (kiểm thử `tests/test_indexes.py` sẽ báo nếu quên); nếu hợp, thêm vào `CATALOG` của `docs/assets/js/ke-hoach.js`.
 2. Lần đầu nhắc tới một triết gia đã có trang, đặt link `[Tên](../triet-gia/<id>.md)`.
 3. Chạy lại các tool sinh trang bị ảnh hưởng: `python tools/quiz_bank.py` (nếu có quiz), `python tools/philosophers.py` (nếu có link tới triết gia), `python tools/book.py` (luôn luôn — sách in gộp mọi bài), `python tools/review_check.py`.
 

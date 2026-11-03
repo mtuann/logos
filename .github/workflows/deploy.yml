@@ -54,6 +54,8 @@ jobs:
         run: uv run --frozen python tools/frontmatter_check.py --check
       - name: Kiểm tra ngân hàng câu hỏi khớp dữ liệu
         run: uv run --frozen python tools/quiz_bank.py --check
+      - name: Kiểm tra sổ đăng ký nội dung khớp trang và dữ liệu
+        run: uv run --frozen python tools/content_registry.py --check
       - name: Build (strict)
         run: uv run --frozen properdocs build --strict -f mkdocs.yml
       - name: Kiểm thử Python
