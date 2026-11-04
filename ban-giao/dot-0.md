@@ -62,11 +62,11 @@ Số đo ngày 23/10/2026 để đối chiếu: 139 dấu thời gian ở 66 tra
 
 ## Cổng
 
-- [ ] Repo GitHub `mtuann/logos` có `main`, nhánh `dot-0-chot-moc`, tag `v1.0-moc`.
-- [ ] Bảng Quyết định đã điền.
-- [ ] `content.yml` phủ 100% trang; `content_registry.py --check` chạy trong CI.
-- [ ] Chủ biên đã duyệt `content.yml`, nhất là hai cột `tier` và `block`.
-- [ ] `verification/bao-cao-nen.md` đã commit.
+- [x] Repo GitHub `mtuann/logos` có `main`, nhánh `dot-0-chot-moc`, tag `v1.0-moc`.
+- [x] Bảng Quyết định đã điền (11 dòng theo Đề xuất, 4/11/2026).
+- [x] `content.yml` phủ 100% trang; `content_registry.py --check` chạy trong CI.
+- [x] Chủ biên đã duyệt `content.yml`, nhất là hai cột `tier` và `block` (chấp nhận như sinh từ nav, 4/11/2026).
+- [x] `verification/bao-cao-nen.md` đã commit.
 - [ ] CI xanh trên PR. Sau khi merge: bật GitHub Pages (Settings → Pages → Source: GitHub Actions) để site lên ở <https://mtuann.github.io/logos/>.
 
 ## Không làm trong đợt này

@@ -12,3 +12,7 @@ Mỗi dòng một việc đã xong hoặc đang dở. Phiên sau đọc từ đ�
 | 2026-11-03 | 0.4–0.5 Sổ đăng ký nội dung | `content.yml`, `schema/content.schema.json`, `tools/content_registry.py`, `tests/test_content_registry.py`, `.github/workflows/deploy.yml`, `AGENTS.md`, `README.md` | xong: sinh từ nav, 180 trang (loi 161, he-thong 19) + 9 file dữ liệu; `--check` xanh, trong CI; 8 kiểm thử | chủ biên duyệt cột `tier`, `block` |
 | 2026-11-03 | 0.6 Báo cáo nền | `tools/baseline_report.py`, `verification/bao-cao-nen.md` | xong: chạy lại giống hệt; so với số 23/10: 6/7 chỉ số lệch dưới 10% ở phạm vi khớp, PhilPapers +11,4% có giải thích trong báo cáo | — |
 | 2026-11-03 | 0.7 Script tạo nhãn GitHub | `tools/github_labels.sh` | xong phần agent | chủ biên chạy sau khi tạo repo GitHub |
+| 2026-11-04 | 0.1 Đẩy `main`, nhánh `dot-0-chot-moc` và tag `v1.0-moc` lên GitHub | — | xong (chủ biên) | — |
+| 2026-11-04 | 0.7 Tạo 12 nhãn bằng `tools/github_labels.sh` | — | xong (chủ biên) | — |
+| 2026-11-04 | Mở PR #1 `dot-0-chot-moc` → `main` | — | xong | chờ CI xanh, merge, bật Pages |
+| 2026-11-04 | 0.2 Chốt 11 quyết định theo Đề xuất; duyệt `content.yml` | `KE-HOACH.md`, `ban-giao/dot-0.md` | xong (chủ biên chọn) | — |

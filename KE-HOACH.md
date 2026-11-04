@@ -10,7 +10,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 
 | Đợt | Tên | Dự kiến | Trạng thái |
 |---|---|---|---|
-| 0 | Chốt mốc | 3/11–8/11/2026 | **Đang làm** — `ban-giao/dot-0.md`, nhật ký `ban-giao/nhat-ky-dot-0.md` |
+| 0 | Chốt mốc | 3/11–8/11/2026 | **Chờ merge** PR #1 — `ban-giao/dot-0.md`, nhật ký `ban-giao/nhat-ky-dot-0.md` |
 | 1 | Công cụ nền | 9/11–22/11/2026 | Chưa — `ban-giao/dot-1.md` |
 | 2 | Kho dữ kiện | 23/11–6/12/2026 | Chưa |
 | 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | Chưa |
@@ -47,18 +47,18 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 
 | # | Quyết định | Đề xuất | Phương án khác | Trạng thái |
 |---|---|---|---|---|
-| 1 | Kích thước Lõi | Toàn bộ nội dung hiện có, sau khi tách khối thời sự | Chỉ phần nhập môn; 11 bài luân lý ứng dụng và thời sự sang Mở rộng | chờ |
-| 2 | Đơn vị đóng băng | Mục H2 | Cả trang | chờ |
-| 3 | Dữ kiện trong văn xuôi | Shortcode cho số liệu PhilPapers và số đếm; linter đối chiếu năm và tên tác phẩm | Shortcode cho mọi dữ kiện | chờ |
-| 4 | Mức chặt của sổ kiểm chứng | CI chặn khi Lõi đổi mà sổ chưa cập nhật | Chỉ cảnh báo | chờ |
-| 5 | Ai xác nhận "đã kiểm" | Agent kiểm theo checklist; chủ biên duyệt mẫu 10% | Chủ biên duyệt toàn bộ, hoặc chỉ agent | chờ |
-| 6 | Ba bài Tư tưởng Việt Nam | Lõi, bắt buộc nhãn độ chắc chắn | Ngăn chuyên đề cho tới khi có thêm nguồn học thuật | chờ |
-| 7 | Nơi lưu hồ sơ triết gia | `data/people/<id>.yml`, mỗi người một file | Giữ trong `tools/philosophers.py` | chờ |
-| 8 | Thêm bài trong lúc làm đợt 0–5 | Tạm dừng; ý tưởng ghi vào danh sách chờ | Thêm song song trên nhánh riêng | chờ |
+| 1 | Kích thước Lõi | Toàn bộ nội dung hiện có, sau khi tách khối thời sự | Chỉ phần nhập môn; 11 bài luân lý ứng dụng và thời sự sang Mở rộng | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 2 | Đơn vị đóng băng | Mục H2 | Cả trang | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 3 | Dữ kiện trong văn xuôi | Shortcode cho số liệu PhilPapers và số đếm; linter đối chiếu năm và tên tác phẩm | Shortcode cho mọi dữ kiện | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 4 | Mức chặt của sổ kiểm chứng | CI chặn khi Lõi đổi mà sổ chưa cập nhật | Chỉ cảnh báo | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 5 | Ai xác nhận "đã kiểm" | Agent kiểm theo checklist; chủ biên duyệt mẫu 10% | Chủ biên duyệt toàn bộ, hoặc chỉ agent | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 6 | Ba bài Tư tưởng Việt Nam | Lõi, bắt buộc nhãn độ chắc chắn | Ngăn chuyên đề cho tới khi có thêm nguồn học thuật | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 7 | Nơi lưu hồ sơ triết gia | `data/people/<id>.yml`, mỗi người một file | Giữ trong `tools/philosophers.py` | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 8 | Thêm bài trong lúc làm đợt 0–5 | Tạm dừng; ý tưởng ghi vào danh sách chờ | Thêm song song trên nhánh riêng | theo Đề xuất (chủ biên chốt 4/11/2026) |
 | 9 | Quan hệ với logos-zero | — | — | **đã chốt 3/11/2026**: hai site song song, độc lập; logos-zero giữ nguyên, không chuyển hướng. Hệ quả (đợt 0): khóa `localStorage` riêng `logos`, cache service worker riêng `logos-v1`; trang Dữ liệu của tôi nhận bản sao lưu của logos-zero |
-| 10 | Nền tảng | ProperDocs 1.6.7 + Material 9.8.0, ghim bằng `uv.lock`; lối ra là bộ build Python tự viết (mục 11) | Zensical khi có bản 1.0; Astro + Starlight | chờ |
-| 11 | Tên site | Giữ "Logos Zero" tới đợt 5 (chữ trong bài chỉ sửa ở đợt 5) | Đổi ngay thành "Logos" ở tên site và manifest | chờ |
-| 12 | Cho Google lập chỉ mục logos | `noindex` (`extra.noindex: true`) tới khi logos khác logos-zero rõ rệt | Mở ngay | chờ |
+| 10 | Nền tảng | ProperDocs 1.6.7 + Material 9.8.0, ghim bằng `uv.lock`; lối ra là bộ build Python tự viết (mục 11) | Zensical khi có bản 1.0; Astro + Starlight | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 11 | Tên site | Giữ "Logos Zero" tới đợt 5 (chữ trong bài chỉ sửa ở đợt 5) | Đổi ngay thành "Logos" ở tên site và manifest | theo Đề xuất (chủ biên chốt 4/11/2026) |
+| 12 | Cho Google lập chỉ mục logos | `noindex` (`extra.noindex: true`) tới khi logos khác logos-zero rõ rệt | Mở ngay | theo Đề xuất (chủ biên chốt 4/11/2026) |
 
 ## 4. Kiến trúc
 
