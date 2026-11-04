@@ -16,7 +16,7 @@ function makePage(storage) {
   vc.on("jsdomError", (e) => errors.push(e.message || String(e)));
   vc.on("error", (e) => errors.push(String(e)));
   const dom = new JSDOM('<!DOCTYPE html><html><head></head><body><div class="oz-mydata"></div></body></html>', {
-    url: "http://localhost/logos-zero/them/du-lieu/",
+    url: "http://localhost/logos/them/du-lieu/",
     runScripts: "dangerously",
     virtualConsole: vc,
     beforeParse(window) {
@@ -27,7 +27,7 @@ function makePage(storage) {
         }
       };
       window.addEventListener("error", (e) => errors.push(e.message));
-      if (storage) window.localStorage.setItem("logos-zero", JSON.stringify(storage));
+      if (storage) window.localStorage.setItem("logos", JSON.stringify(storage));
     },
   });
   const { window } = dom;
@@ -53,7 +53,7 @@ function stateA() {
 
 function backupB() {
   return {
-    app: "logos-zero",
+    app: "logos",
     version: 1,
     deviceId: "may-b",
     exported: "2026-10-13T10:00:00.000Z",
@@ -97,7 +97,7 @@ test("luồng nhập → xem trước → xác nhận gộp", async () => {
   panel.querySelector(".md-button--primary").click(); // "Xác nhận gộp"
   await settle();
   assert.equal(document.querySelector(".oz-merge-preview"), null, "panel chưa đóng sau khi gộp");
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.deepEqual(saved.days["2026-10-01"], { n: 10, c: 8 });
   assert.deepEqual(saved.days["2026-10-03"], { n: 10, c: 6 });
   assert.equal(saved.skills.fallacy.n, 20);
@@ -116,10 +116,10 @@ test("nhập lại cùng file → báo đã nhập, không nhân đôi", async (
   await chooseFile(document, window, json);
   document.querySelector(".oz-merge-preview .md-button--primary").click();
   await settle();
-  const before = window.localStorage.getItem("logos-zero");
+  const before = window.localStorage.getItem("logos");
   await chooseFile(document, window, json);
   assert.match(document.querySelector(".oz-live").textContent, /đã được nhập trước đây/);
-  assert.equal(window.localStorage.getItem("logos-zero"), before, "dữ liệu bị thay đổi khi nhập lại");
+  assert.equal(window.localStorage.getItem("logos"), before, "dữ liệu bị thay đổi khi nhập lại");
   assert.deepEqual(errors, [], "lỗi JS: " + errors.join("; "));
   window.close();
 });

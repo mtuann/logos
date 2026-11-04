@@ -11,7 +11,9 @@
   }
 })(typeof self !== "undefined" ? self : this, function () {
   "use strict";
-  var KEY = "logos-zero";
+  // Khóa riêng của logos. logos-zero dùng khóa "logos-zero" trên cùng origin mtuann.github.io,
+  // nên hai site không được dùng chung khóa (KE-HOACH.md, quyết định 9).
+  var KEY = "logos";
   var VERSION = 1;
   var ALPHA = 0.3; // hệ số làm trơn EMA cho độ chính xác
   var HISTORY_DAYS = 400;

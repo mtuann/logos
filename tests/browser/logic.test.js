@@ -38,7 +38,7 @@ function makePage(bank) {
   vc.on("jsdomError", (e) => errors.push(e.message || String(e)));
   vc.on("error", (e) => errors.push(String(e)));
   const dom = new JSDOM('<!DOCTYPE html><html><head></head><body><div class="oz-logic"></div></body></html>', {
-    url: "http://localhost/logos-zero/cong-cu/suy-dien/",
+    url: "http://localhost/logos/cong-cu/suy-dien/",
     runScripts: "dangerously",
     virtualConsole: vc,
     beforeParse(window) {
@@ -151,7 +151,7 @@ test("luyện tập: trả lời đúng + tìm phản ví dụ, có ghi tiến �
   assert.match(document.querySelector(".oz-logic__stage").textContent, /một phản ví dụ hợp lệ/);
 
   // Tiến độ được ghi vào skill logic.
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.ok(saved.skills.logic && saved.skills.logic.n >= 1, "chưa ghi skill logic");
   assert.ok(saved.items["logic:t-invalid"], "chưa ghi item");
   assert.deepEqual(errors, [], "lỗi JS: " + errors.join("; "));
@@ -179,7 +179,7 @@ test("luyện tập: trả lời sai hiện giải thích", async () => {
   await settle();
   assert.match(document.querySelector(".oz-logic__stage").textContent, /Chưa đúng/);
   assert.match(document.querySelector(".oz-logic__stage").textContent, /Modus Ponens/);
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.equal(saved.skills.logic.n, 1);
   assert.equal(saved.skills.logic.ema, 0, "trả lời sai thì EMA = 0");
   window.close();

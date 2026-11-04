@@ -26,15 +26,15 @@ const pages = listPages();
 
 test("có đủ các trang của Giai đoạn 1", () => {
   for (const p of [
-    "/logos-zero/",
-    "/logos-zero/bat-dau/",
-    "/logos-zero/cong-cu/nguy-bien/",
-    "/logos-zero/cau-hoi/tam-tri-va-ai/",
-    "/logos-zero/cau-hoi/tri-thuc/",
-    "/logos-zero/cau-hoi/tu-do-y-chi/",
-    "/logos-zero/luyen-tap/nguy-bien/",
-    "/logos-zero/luyen-tap/the-ghi-nho/",
-    "/logos-zero/them/du-lieu/",
+    "/logos/",
+    "/logos/bat-dau/",
+    "/logos/cong-cu/nguy-bien/",
+    "/logos/cau-hoi/tam-tri-va-ai/",
+    "/logos/cau-hoi/tri-thuc/",
+    "/logos/cau-hoi/tu-do-y-chi/",
+    "/logos/luyen-tap/nguy-bien/",
+    "/logos/luyen-tap/the-ghi-nho/",
+    "/logos/them/du-lieu/",
   ])
     assert.ok(pages.includes(p), "thiếu " + p);
 });
@@ -69,13 +69,13 @@ for (const page of pages) {
 }
 
 test("trang chỉ có chữ không tải script công cụ nào", async () => {
-  const { toolScripts, window } = await openPage("/logos-zero/lich-su/");
+  const { toolScripts, window } = await openPage("/logos/lich-su/");
   assert.deepEqual(toolScripts.sort(), [...CORE].sort());
   window.close();
 });
 
 test("quiz: chọn đáp án, xem kết quả, ghi tiến độ", async () => {
-  const { document, window } = await openPage("/logos-zero/cau-hoi/tam-tri-va-ai/");
+  const { document, window } = await openPage("/logos/cau-hoi/tam-tri-va-ai/");
   const box = document.querySelector(".oz-quiz");
   const qs = JSON.parse(box.querySelector('script[type="application/json"]').textContent);
   // Trả lời đúng mọi câu trừ câu đầu.
@@ -86,14 +86,14 @@ test("quiz: chọn đáp án, xem kết quả, ghi tiến độ", async () => {
   box.querySelector("form").dispatchEvent(new window.Event("submit", { cancelable: true }));
   assert.match(box.querySelector(".oz-quiz__result").textContent, new RegExp(`${qs.length - 1}/${qs.length}`));
   assert.ok(box.querySelector(".oz-quiz__fb.is-wrong"));
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.equal(saved.quizzes["mind-1"].best, qs.length - 1);
   assert.equal(saved.skills.mind.n, qs.length);
   window.close();
 });
 
 test("nhận ra ngụy biện: trả lời, xem giải thích, đi hết một lượt", async () => {
-  const { document, window } = await openPage("/logos-zero/luyen-tap/nguy-bien/");
+  const { document, window } = await openPage("/logos/luyen-tap/nguy-bien/");
   const box = document.querySelector(".oz-fallacy-trainer");
   await until(() => box.querySelector(".oz-option"));
   const data = JSON.parse(fs.readFileSync(path.join(SITE, "assets/data/fallacies.json"), "utf8"));
@@ -120,7 +120,7 @@ test("nhận ra ngụy biện: trả lời, xem giải thích, đi hết một l
     box.querySelector(".oz-ft__fb .md-button--primary").click();
   }
   assert.match(box.querySelector("h3").textContent, new RegExp(`${count - 1}/${count}`));
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.equal(saved.skills.fallacy.n, count);
   assert.ok(saved.skills.fallacy.ema > 0.9 && saved.skills.fallacy.ema < 1);
   // Đổi cấp độ: lượt mới chỉ gồm câu cấp 3.
@@ -131,7 +131,7 @@ test("nhận ra ngụy biện: trả lời, xem giải thích, đi hết một l
 });
 
 test("thẻ ghi nhớ: lật thẻ, chấm, lưu hộp Leitner", async () => {
-  const { document, window } = await openPage("/logos-zero/luyen-tap/the-ghi-nho/");
+  const { document, window } = await openPage("/logos/luyen-tap/the-ghi-nho/");
   const box = document.querySelector(".oz-flashcards");
   await until(() => box.querySelector(".oz-card"));
   const term = box.querySelector(".oz-card__term").textContent;
@@ -139,7 +139,7 @@ test("thẻ ghi nhớ: lật thẻ, chấm, lưu hộp Leitner", async () => {
   buttons().find((b) => b.textContent === "Lật thẻ").click();
   assert.equal(box.querySelector(".oz-card__back").hidden, false);
   buttons().find((b) => b.textContent === "Nhớ rồi").click();
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   const terms = JSON.parse(fs.readFileSync(path.join(SITE, "assets/data/terms.json"), "utf8")).terms;
   const id = terms.find((t) => t.vi === term).id;
   assert.equal(saved.cards[id].box, 1);
@@ -149,18 +149,18 @@ test("thẻ ghi nhớ: lật thẻ, chấm, lưu hộp Leitner", async () => {
 
 test("dữ liệu của tôi: hiển thị tóm tắt và xóa dữ liệu", async () => {
   const storage = { v: 1, skills: { fallacy: { ema: 0.8, n: 10, last: "2026-10-12", days: {} } }, days: { "2026-10-12": { n: 10, c: 8 } }, read: { "/a/": "2026-10-12" } };
-  const { document, window } = await openPage("/logos-zero/them/du-lieu/", { storage });
+  const { document, window } = await openPage("/logos/them/du-lieu/", { storage });
   const box = document.querySelector(".oz-mydata");
   assert.match(box.textContent, /Nhận ra ngụy biện/);
   assert.match(box.textContent, /80%/);
   [...box.querySelectorAll("button")].find((b) => /Xóa/.test(b.textContent)).click();
-  assert.equal(window.localStorage.getItem("logos-zero"), null);
+  assert.equal(window.localStorage.getItem("logos"), null);
   assert.match(box.textContent, /Chưa có dữ liệu/);
   window.close();
 });
 
 test("trang chủ: nổi bật đúng một câu hỏi hôm nay", async () => {
-  const { document, window } = await openPage("/logos-zero/");
+  const { document, window } = await openPage("/logos/");
   assert.equal(document.querySelectorAll(".oz-daily li.is-today").length, 1);
   window.close();
 });

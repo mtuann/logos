@@ -1,9 +1,9 @@
-# Logos Zero
+# Logos
 
-Website triết học bằng tiếng Việt, cho người bắt đầu từ con số 0.
-Địa chỉ: <https://mtuann.github.io/logos-zero/>
+Website triết học bằng tiếng Việt, cho người bắt đầu từ con số 0: bản làm lại của Logos Zero theo `KE-HOACH.md`.
+Địa chỉ: <https://mtuann.github.io/logos/>. Logos Zero (<https://mtuann.github.io/logos-zero/>, repo `mtuann/logos-zero`) vẫn chạy song song, độc lập; repo này bắt đầu từ bản nhập nguyên trạng `logos-zero@ecb2bb8` (tag `v1.0-moc`).
 
-Site tĩnh (MkDocs 1.6.1 + Material for MkDocs 9.7.x), không có máy chủ. Các công cụ tương tác viết bằng JavaScript thuần, dữ liệu người học chỉ lưu trong `localStorage` của trình duyệt.
+Site tĩnh (ProperDocs 1.6.7, bản kế tục MkDocs 1.x, + Material for MkDocs 9.8.0; phiên bản ghim trong `uv.lock`), không có máy chủ. Các công cụ tương tác viết bằng JavaScript thuần, dữ liệu người học chỉ lưu trong `localStorage` của trình duyệt.
 
 ## Cấu trúc repo
 
@@ -37,6 +37,9 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   book.py                 sách in docs/them/sach.md theo thứ tự nav
   review_check.py         mục "Tình trạng rà soát" ở trang Cập nhật
   frontmatter_check.py    front matter YAML hợp lệ
+  content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
+  baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
+  github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
   philpapers-2020.md      số liệu PhilPapers 2020, sinh từ Bảng 1–2 của bài báo chính thức
 tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
@@ -44,6 +47,10 @@ tests/
   test_hooks.py           kiểm thử hook Python và script sinh trang
   test_indexes.py         chỉ mục mỗi mục liệt kê đủ bài; Kế hoạch học trỏ tới trang có thật;
                           không có văn xuôi lọt vào khối code
+content.yml               sổ đăng ký: mỗi trang, mỗi file dữ liệu một dòng (loại, tầng, khối, sinh tự động?)
+schema/content.schema.json  giá trị cho phép của content.yml
+verification/             báo cáo nền; từ đợt 1: sổ kiểm chứng và bằng chứng
+AGENTS.md, KE-HOACH.md, ban-giao/  luật cho agent, kế hoạch làm lại, việc từng đợt (không xuất bản)
 overrides/main.html       tùy biến Material (manifest, "cập nhật lần cuối", link "Báo lỗi trang này")
 HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhất, cú pháp Markdown
 ```
@@ -53,7 +60,7 @@ HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhấ
 | File | Vai trò |
 |---|---|
 | `core.js` | `window.OZReady(init)`: chạy `init` mỗi lần trang hiển thị (kể cả instant navigation); `OZ.base`; nút "In bài này"; đăng ký service worker |
-| `progress.js` | một khóa `localStorage` (`logos-zero`), có phiên bản; độ chính xác EMA theo kỹ năng, lịch sử theo ngày, quiz, bài đã đọc, thẻ |
+| `progress.js` | một khóa `localStorage` (`logos`, khác khóa `logos-zero` của site cũ vì hai site cùng origin), có phiên bản; độ chính xác EMA theo kỹ năng, lịch sử theo ngày, quiz, bài đã đọc, thẻ |
 | `loader.js` | quét trang, chỉ nạp script công cụ cần thiết, đúng thứ tự (`async = false`) |
 | `util.js` | tiện ích chung: tạo DOM, xáo trộn có hạt giống, tải JSON, vùng `aria-live` |
 | `quiz.js`, `fallacy.js`, `flashcards.js`, `daily.js`, `mydata.js` | các công cụ |
@@ -62,24 +69,28 @@ HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhấ
 
 ## Chạy trên máy
 
+Cần [uv](https://docs.astral.sh/uv/). uv tự cài Python 3.13 theo `.python-version` và đúng các phiên bản trong `uv.lock`.
+
 ```bash
-python -m venv .venv && . .venv/bin/activate
-pip install -r requirements.txt
-mkdocs serve                      # http://127.0.0.1:8000/logos-zero/
+uv sync --frozen
+uv run properdocs serve -f mkdocs.yml   # http://127.0.0.1:8000/logos/
 ```
+
+Không dùng uv: tạo virtualenv với Python 3.11+, `pip install -r requirements.txt` (sinh từ `uv.lock`, có hash), rồi chạy các lệnh dưới đây không kèm `uv run`. Sau khi sửa `pyproject.toml`: `uv lock`, rồi `uv export --frozen --format requirements-txt --no-emit-project -o requirements.txt`.
 
 ## Kiểm thử
 
-Cần Python 3.11+ và Node 24.15+.
+Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
 for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank; do
-  python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
+  uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
-mkdocs build --strict                  # build sạch, kiểm tra link và anchor
-python -m unittest discover -s tests   # hook, tool Python, chỉ mục
-npm test                               # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
+uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
+uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
+uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
+npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
 ```
 
 `npm test` và một phần `tests/test_indexes.py` cần thư mục `site/` đã build. CI (`.github/workflows/deploy.yml`) chạy tất cả các bước trên trước mỗi lần deploy lên GitHub Pages. `links.yml` kiểm tra link web mỗi tuần bằng lychee (chấp nhận 403 và 202 vì nhiều trang chặn bot); khi có link hỏng thì mở hoặc cập nhật một issue nhãn `link-hong`, khi hết lỗi thì tự đóng issue.
@@ -99,7 +110,7 @@ Người đọc báo lỗi qua link "Báo lỗi trang này" cuối mỗi trang: 
 
 Thêm một bài mới:
 
-1. Viết bài trong thư mục của mục (ví dụ `docs/cau-hoi/`), thêm vào `nav` trong `mkdocs.yml` **và** vào trang `index.md` của mục (kiểm thử `tests/test_indexes.py` sẽ báo nếu quên); nếu hợp, thêm vào `CATALOG` của `docs/assets/js/ke-hoach.js`.
+1. Viết bài trong thư mục của mục (ví dụ `docs/cau-hoi/`), thêm vào `nav` trong `mkdocs.yml`, vào `content.yml` **và** vào trang `index.md` của mục (kiểm thử `tests/test_indexes.py` sẽ báo nếu quên); nếu hợp, thêm vào `CATALOG` của `docs/assets/js/ke-hoach.js`.
 2. Lần đầu nhắc tới một triết gia đã có trang, đặt link `[Tên](../triet-gia/<id>.md)`.
 3. Chạy lại các tool sinh trang bị ảnh hưởng: `python tools/quiz_bank.py` (nếu có quiz), `python tools/philosophers.py` (nếu có link tới triết gia), `python tools/book.py` (luôn luôn — sách in gộp mọi bài), `python tools/review_check.py`.
 

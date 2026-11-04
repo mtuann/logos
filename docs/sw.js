@@ -1,7 +1,10 @@
 /* Logos Zero — service worker: đọc ngoại tuyến các trang đã mở.
  * HTML: mạng trước, hết mạng thì dùng bản đã lưu. Tài nguyên tĩnh: bản lưu trước, cập nhật ngầm.
  * Tăng VERSION khi đổi chiến lược lưu trữ. */
-var VERSION = "oz-v1";
+// Tên cache có tiền tố "logos-": logos-zero chạy trên cùng origin với cache "oz-v1",
+// nên khi kích hoạt chỉ xóa cache cũ của chính logos.
+var PREFIX = "logos-";
+var VERSION = PREFIX + "v1";
 var CORE = ["./", "assets/css/oz.css", "assets/js/core.js", "assets/js/progress.js", "assets/js/loader.js", "assets/img/icon.svg"];
 
 self.addEventListener("install", function (e) {
@@ -17,7 +20,7 @@ self.addEventListener("activate", function (e) {
   e.waitUntil(
     caches.keys().then(function (keys) {
       return Promise.all(
-        keys.filter(function (k) { return k !== VERSION; }).map(function (k) { return caches.delete(k); })
+        keys.filter(function (k) { return k.indexOf(PREFIX) === 0 && k !== VERSION; }).map(function (k) { return caches.delete(k); })
       );
     }).then(function () { return self.clients.claim(); })
   );

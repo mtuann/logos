@@ -16,13 +16,13 @@ function makePage(storage) {
   vc.on("jsdomError", (e) => errors.push(e.message || String(e)));
   vc.on("error", (e) => errors.push(String(e)));
   const dom = new JSDOM('<!DOCTYPE html><html><head></head><body><div class="oz-nhat-ky"></div></body></html>', {
-    url: "http://localhost/logos-zero/them/nhat-ky/",
+    url: "http://localhost/logos/them/nhat-ky/",
     runScripts: "dangerously",
     virtualConsole: vc,
     beforeParse(window) {
       window.confirm = () => true;
       window.addEventListener("error", (e) => errors.push(e.message));
-      if (storage) window.localStorage.setItem("logos-zero", JSON.stringify(storage));
+      if (storage) window.localStorage.setItem("logos", JSON.stringify(storage));
     },
   });
   const { window } = dom;
@@ -59,7 +59,7 @@ test("gõ text → Lưu → entry hiện ra, localStorage có dữ liệu, texta
   await settle();
   const P = window.OZ.progress;
   const d = P.today();
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.ok(saved.journal[d], "localStorage thiếu journal[" + d + "]");
   assert.equal(saved.journal[d].length, 1);
   assert.equal(saved.journal[d][0].text, "Hôm nay tôi tự hỏi: biết là gì?");
@@ -91,7 +91,7 @@ test("bấm Lưu khi trống → nhắc viết, không tạo entry", async () =>
   box.querySelector("button").click();
   await settle(120); // U.live dùng setTimeout 30ms
   assert.match(document.querySelector(".oz-live").textContent, /vài chữ/);
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero") || "{}");
+  const saved = JSON.parse(window.localStorage.getItem("logos") || "{}");
   assert.deepEqual(saved.journal || {}, {}, "đã tạo entry rỗng");
   assert.deepEqual(errors, [], "lỗi JS: " + errors.join("; "));
   window.close();
@@ -108,7 +108,7 @@ test("xóa entry sau khi confirm", async () => {
   assert.ok(del, "thiếu nút xóa");
   del.click(); // confirm() đã stub → true
   await settle();
-  const saved = JSON.parse(window.localStorage.getItem("logos-zero"));
+  const saved = JSON.parse(window.localStorage.getItem("logos"));
   assert.deepEqual(saved.journal[d], [], "entry chưa bị xóa khỏi state");
   assert.ok(!box.textContent.includes("ghi chép cũ"), "entry vẫn hiện trên trang");
   assert.deepEqual(errors, [], "lỗi JS: " + errors.join("; "));

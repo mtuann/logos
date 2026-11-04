@@ -17,12 +17,12 @@ function makePage(storage) {
   const dom = new JSDOM(
     '<!DOCTYPE html><html><head></head><body><div class="oz-ke-hoach"></div><div class="oz-bieu-do"></div></body></html>',
     {
-      url: "http://localhost/logos-zero/luyen-tap/ke-hoach/",
+      url: "http://localhost/logos/luyen-tap/ke-hoach/",
       runScripts: "dangerously",
       virtualConsole: vc,
       beforeParse(window) {
         window.addEventListener("error", (e) => errors.push(e.message));
-        if (storage) window.localStorage.setItem("logos-zero", JSON.stringify(storage));
+        if (storage) window.localStorage.setItem("logos", JSON.stringify(storage));
       },
     }
   );
@@ -33,16 +33,25 @@ function makePage(storage) {
   return { window, document: window.document, errors };
 }
 
+/* Ngày trong dữ liệu mẫu tính lùi từ hôm nay: biểu đồ hoạt động chỉ vẽ 14 ngày gần nhất,
+ * nên ngày cố định (bản cũ dùng 12/10/2026) làm kiểm thử tự hỏng sau 14 ngày. */
+function isoDaysAgo(n) {
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+}
+
 function stateWithData() {
+  const d1 = isoDaysAgo(1), d2 = isoDaysAgo(2), d3 = isoDaysAgo(3);
   return {
     v: 1,
     skills: {
-      fallacy: { ema: 0.4, n: 10, last: "2026-10-12", days: { "2026-10-12": { n: 10, c: 4 } } },
-      logic: { ema: 0.95, n: 8, last: "2026-10-12", days: { "2026-10-12": { n: 8, c: 8 } } },
+      fallacy: { ema: 0.4, n: 10, last: d1, days: { [d1]: { n: 10, c: 4 } } },
+      logic: { ema: 0.95, n: 8, last: d1, days: { [d1]: { n: 8, c: 8 } } },
     },
-    days: { "2026-10-12": { n: 18, c: 12 }, "2026-10-11": { n: 5, c: 5 } },
+    days: { [d1]: { n: 18, c: 12 }, [d2]: { n: 5, c: 5 } },
     quizzes: {},
-    read: { "/cong-cu/nguy-bien/": "2026-10-10" },
+    read: { "/cong-cu/nguy-bien/": d3 },
     cards: {},
     items: {},
     journal: {},

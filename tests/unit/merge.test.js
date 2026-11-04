@@ -82,9 +82,13 @@ test("validateBackup từ chối file lạ, chấp nhận file đúng", () => {
   assert.equal(M.validateBackup("x").ok, false);
   assert.equal(M.validateBackup({ app: "psyche-zero", state: {} }).ok, false);
   assert.equal(M.validateBackup({ app: "logos-zero" }).ok, false);
-  const v = M.validateBackup({ app: "logos-zero", deviceId: "d1", exported: "2026-10-13T00:00:00Z", state: { v: 1 } });
+  const v = M.validateBackup({ app: "logos", deviceId: "d1", exported: "2026-10-13T00:00:00Z", state: { v: 1 } });
   assert.equal(v.ok, true);
   assert.deepEqual(v.meta, { deviceId: "d1", exportedAt: "2026-10-13T00:00:00Z" });
+});
+
+test("validateBackup nhận bản sao lưu xuất từ logos-zero (chuyển tiến độ sang site mới)", () => {
+  assert.equal(M.validateBackup({ app: "logos-zero", deviceId: "d0", state: { v: 1 } }).ok, true);
 });
 
 test("mergeStates không sửa đầu vào", () => {

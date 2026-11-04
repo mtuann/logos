@@ -48,7 +48,7 @@ function makePage() {
   vc.on("jsdomError", (e) => errors.push(e.message || String(e)));
   vc.on("error", (e) => errors.push(String(e)));
   const dom = new JSDOM('<!DOCTYPE html><html><head></head><body><div class="oz-thi-nghiem"></div></body></html>', {
-    url: "http://localhost/logos-zero/cong-cu/thi-nghiem-tu-duy/",
+    url: "http://localhost/logos/cong-cu/thi-nghiem-tu-duy/",
     runScripts: "dangerously",
     virtualConsole: vc,
     beforeParse(window) {

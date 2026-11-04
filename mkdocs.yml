@@ -1,7 +1,7 @@
 site_name: Logos Zero
 site_description: Triết học bằng tiếng Việt, bắt đầu từ con số 0 — những câu hỏi lớn, lập luận rõ ràng, đọc chậm.
 site_author: Logos Zero
-site_url: https://mtuann.github.io/logos-zero/
+site_url: https://mtuann.github.io/logos/
 copyright: Logos Zero · nội dung viết cho người đọc tiếng Việt, không vì mục đích thương mại
 
 theme:
@@ -85,7 +85,10 @@ extra_javascript:
 extra:
   generator: false
   # Link "Báo lỗi trang này" cuối mỗi trang (overrides/main.html), mở mẫu .github/ISSUE_TEMPLATE/bao-loi.yml.
-  report_issue_url: https://github.com/mtuann/logos-zero/issues/new
+  report_issue_url: https://github.com/mtuann/logos/issues/new
+  # Quyết định 12 ở KE-HOACH.md: chưa cho công cụ tìm kiếm lập chỉ mục khi logos còn trùng nội dung với logos-zero.
+  # Đổi thành false để mở.
+  noindex: true
 
 validation:
   omitted_files: warn

@@ -1,0 +1,225 @@
+# Sổ đăng ký nội dung của Logos. Đặc tả: ban-giao/dot-0.md; giá trị cho phép: schema/content.schema.json.
+# Sinh lần đầu bằng `tools/content_registry.py --init` từ nav của mkdocs.yml; từ đó chủ biên sửa tay (nhất là tier, block).
+# Kiểm tra: `tools/content_registry.py --check` (chạy trong CI).
+version: 1
+pages:
+  # Trang chủ
+  - {path: index.md,                          type: he-thong,  tier: he-thong, block: null,             generated: false}
+  # Bắt đầu
+  - {path: bat-dau/index.md,                  type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: bat-dau/lo-trinh.md,               type: bat-dau,   tier: loi,      block: bat-dau,          generated: false}
+  # Công cụ tư duy
+  - {path: cong-cu/index.md,                  type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: cong-cu/lap-luan-la-gi.md,         type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/suy-dien.md,               type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/logic-menh-de.md,          type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/dieu-kien-can-du.md,       type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/dinh-nghia-phan-vi-du.md,  type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/quy-nap.md,                type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/gia-dinh-ngam.md,          type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/nguy-bien.md,              type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/doc-van-ban-kho.md,        type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/viet-doan-lap-luan.md,     type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/nguy-bien-hinh-thuc.md,    type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/so-do-hoa-lap-luan.md,     type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/thi-nghiem-tu-duy.md,      type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/bien-chung-socrates.md,    type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  - {path: cong-cu/luan-cu-thep.md,           type: cong-cu,   tier: loi,      block: cong-cu,          generated: false}
+  # Câu hỏi lớn
+  - {path: cau-hoi/index.md,                  type: he-thong,  tier: he-thong, block: null,             generated: false}
+  # Câu hỏi lớn › Tri thức và chân lý
+  - {path: cau-hoi/tri-thuc.md,               type: cau-hoi,   tier: loi,      block: tri-thuc,         generated: false}
+  - {path: cau-hoi/loi-chung.md,              type: cau-hoi,   tier: loi,      block: tri-thuc,         generated: false}
+  - {path: cau-hoi/bat-dong-tri-thuc.md,      type: cau-hoi,   tier: loi,      block: tri-thuc,         generated: false}
+  - {path: cau-hoi/chan-ly.md,                type: cau-hoi,   tier: loi,      block: tri-thuc,         generated: false}
+  - {path: cau-hoi/khoa-hoc.md,               type: cau-hoi,   tier: loi,      block: tri-thuc,         generated: false}
+  - {path: cau-hoi/ngon-ngu.md,               type: cau-hoi,   tier: loi,      block: tri-thuc,         generated: false}
+  # Câu hỏi lớn › Tâm trí, AI và cái tôi
+  - {path: cau-hoi/tam-tri-va-ai.md,          type: cau-hoi,   tier: loi,      block: tam-tri,          generated: false}
+  - {path: cau-hoi/cong-nghe-ai.md,           type: cau-hoi,   tier: loi,      block: tam-tri,          generated: false}
+  - {path: cau-hoi/van-de-tam-tri.md,         type: cau-hoi,   tier: loi,      block: tam-tri,          generated: false}
+  - {path: cau-hoi/cai-toi.md,                type: cau-hoi,   tier: loi,      block: tam-tri,          generated: false}
+  # Câu hỏi lớn › Tự do và trách nhiệm
+  - {path: cau-hoi/tu-do-y-chi.md,            type: cau-hoi,   tier: loi,      block: tu-do,            generated: false}
+  - {path: cau-hoi/trach-nhiem.md,            type: cau-hoi,   tier: loi,      block: tu-do,            generated: false}
+  - {path: cau-hoi/dinh-menh.md,              type: cau-hoi,   tier: loi,      block: tu-do,            generated: false}
+  # Câu hỏi lớn › Đạo đức học
+  - {path: cau-hoi/dao-duc-hanh-dong.md,      type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  - {path: cau-hoi/sieu-dao-duc.md,           type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  - {path: cau-hoi/noi-doi.md,                type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  - {path: cau-hoi/ban-tinh-con-nguoi.md,     type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  - {path: cau-hoi/cai-ac.md,                 type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  - {path: cau-hoi/dao-duc-ung-dung.md,       type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  - {path: cau-hoi/dao-duc-moi-truong.md,     type: cau-hoi,   tier: loi,      block: dao-duc,          generated: false}
+  # Câu hỏi lớn › Luân lý ứng dụng
+  - {path: cau-hoi/pha-thai.md,               type: cau-hoi,   tier: loi,      block: luan-ly-ung-dung, generated: false}
+  - {path: cau-hoi/an-tu-hinh.md,             type: cau-hoi,   tier: loi,      block: luan-ly-ung-dung, generated: false}
+  - {path: cau-hoi/cuu-giup-ngheo-doi.md,     type: cau-hoi,   tier: loi,      block: luan-ly-ung-dung, generated: false}
+  - {path: cau-hoi/khi-hau-trach-nhiem.md,    type: cau-hoi,   tier: loi,      block: luan-ly-ung-dung, generated: false}
+  - {path: cau-hoi/quyen-rieng-tu-so.md,      type: cau-hoi,   tier: loi,      block: luan-ly-ung-dung, generated: false}
+  - {path: cau-hoi/hien-tang.md,              type: cau-hoi,   tier: loi,      block: luan-ly-ung-dung, generated: false}
+  # Câu hỏi lớn › Triết học chính trị
+  - {path: cau-hoi/khe-uoc-xa-hoi.md,         type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/cong-ly.md,                type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/binh-dang.md,              type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/tai-san-rieng.md,          type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/dan-chu.md,                type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/ai-nen-cai-tri.md,         type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/duc-tri.md,                type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/tu-do-ngon-luan.md,        type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/nu-quyen.md,               type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/chien-tranh-chinh-dang.md, type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  - {path: cau-hoi/bien-gioi-di-cu.md,        type: cau-hoi,   tier: loi,      block: chinh-tri,        generated: false}
+  # Câu hỏi lớn › Cái đẹp và nghệ thuật
+  - {path: cau-hoi/cai-dep.md,                type: cau-hoi,   tier: loi,      block: my-hoc,           generated: false}
+  - {path: cau-hoi/nghe-thuat.md,             type: cau-hoi,   tier: loi,      block: my-hoc,           generated: false}
+  # Câu hỏi lớn › Tôn giáo
+  - {path: cau-hoi/luan-chung-ton-giao.md,    type: cau-hoi,   tier: loi,      block: ton-giao,         generated: false}
+  - {path: cau-hoi/duc-tin-ly-tri.md,         type: cau-hoi,   tier: loi,      block: ton-giao,         generated: false}
+  - {path: cau-hoi/van-de-su-du.md,           type: cau-hoi,   tier: loi,      block: ton-giao,         generated: false}
+  # Câu hỏi lớn › Siêu hình học
+  - {path: cau-hoi/cai-gi-ton-tai.md,         type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/pho-quat.md,               type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/thoi-gian.md,              type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/nhan-qua-ban-chat.md,      type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/vu-tru-khoi-dau.md,        type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/linh-hon.md,               type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/mo-phong.md,               type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  - {path: cau-hoi/ban-nga-thoi-gian.md,      type: cau-hoi,   tier: loi,      block: sieu-hinh,        generated: false}
+  # Câu hỏi lớn › Ý nghĩa cuộc sống
+  - {path: cau-hoi/y-nghia-song.md,           type: cau-hoi,   tier: loi,      block: y-nghia,          generated: false}
+  - {path: cau-hoi/hanh-phuc.md,              type: cau-hoi,   tier: loi,      block: y-nghia,          generated: false}
+  - {path: cau-hoi/tinh-yeu.md,               type: cau-hoi,   tier: loi,      block: y-nghia,          generated: false}
+  - {path: cau-hoi/cai-chet.md,               type: cau-hoi,   tier: loi,      block: y-nghia,          generated: false}
+  # Câu hỏi lớn › Tư tưởng Việt Nam
+  - {path: cau-hoi/truc-lam.md,               type: cau-hoi,   tier: loi,      block: viet-nam,         generated: false}
+  - {path: cau-hoi/nho-giao-viet.md,          type: cau-hoi,   tier: loi,      block: viet-nam,         generated: false}
+  - {path: cau-hoi/viet-hien-dai.md,          type: cau-hoi,   tier: loi,      block: viet-nam,         generated: false}
+  # Lịch sử
+  - {path: lich-su/index.md,                  type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: lich-su/dong-thoi-gian.md,         type: lich-su,   tier: loi,      block: lich-su,          generated: true}
+  - {path: lich-su/so-do-anh-huong.md,        type: lich-su,   tier: loi,      block: lich-su,          generated: true}
+  - {path: lich-su/hy-lap-co-dai.md,          type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/trung-co.md,               type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/can-dai.md,                type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/the-ky-19.md,              type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/the-ky-20.md,              type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/an-do.md,                  type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/trung-hoa.md,              type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  - {path: lich-su/nhat-ban-viet-nam.md,      type: lich-su,   tier: loi,      block: lich-su,          generated: false}
+  # Triết gia
+  - {path: triet-gia/index.md,                type: he-thong,  tier: he-thong, block: null,             generated: true}
+  # Triết gia › Tiền Socrates
+  - {path: triet-gia/thales.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/heraclitus.md,           type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/democritus.md,           type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Hy Lạp cổ đại
+  - {path: triet-gia/socrates.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/platon.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/aristotle.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/epicurus.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/zeno.md,                 type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › La Mã
+  - {path: triet-gia/epictetus.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/marcus-aurelius.md,      type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Trung cổ
+  - {path: triet-gia/augustine.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/avicenna.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/anselm.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/averroes.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/maimonides.md,           type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/aquinas.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Cận đại
+  - {path: triet-gia/hobbes.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/descartes.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/pascal.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/locke.md,                type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/spinoza.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/leibniz.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/hume.md,                 type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/rousseau.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/kant.md,                 type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/bentham.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Thế kỷ 19
+  - {path: triet-gia/hegel.md,                type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/mill.md,                 type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/kierkegaard.md,          type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/marx.md,                 type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/nietzsche.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/frege.md,                type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Thế kỷ 20
+  - {path: triet-gia/husserl.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/russell.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/heidegger.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/wittgenstein.md,         type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/popper.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/sartre.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/arendt.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/quine.md,                type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/beauvoir.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/rawls.md,                type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/nozick.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/parfit.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Trung Hoa
+  - {path: triet-gia/lao-tu.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/khong-tu.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/mac-tu.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/manh-tu.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/trang-tu.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/tuan-tu.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/han-phi.md,              type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/chu-hy.md,               type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Ấn Độ
+  - {path: triet-gia/duc-phat.md,             type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/nagarjuna.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Triết gia › Việt Nam
+  - {path: triet-gia/tue-trung.md,            type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/tran-nhan-tong.md,       type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/chu-van-an.md,           type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/nguyen-trai.md,          type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  - {path: triet-gia/tran-duc-thao.md,        type: triet-gia, tier: loi,      block: triet-gia,        generated: true}
+  # Đọc văn bản
+  - {path: doc/index.md,                      type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: doc/platon-bien-ho.md,             type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/platon-hang-dong.md,           type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/epictetus-cam-nang.md,         type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/descartes-suy-niem.md,         type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/hume-nhan-qua.md,              type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/kant-khai-sang.md,             type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/mill-tu-do.md,                 type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/russell-gia-tri.md,            type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/luan-ngu.md,                   type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/dao-duc-kinh.md,               type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/trang-tu-mong-ho-diep.md,      type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/aristotle-dao-duc.md,          type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/aurelius-suy-tuong.md,         type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/manh-tu-tinh-thien.md,         type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/mac-tu-kiem-ai.md,             type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/tam-kinh.md,                   type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/nguyen-trai-binh-ngo.md,       type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/sartre-hien-sinh.md,           type: doc,       tier: loi,      block: van-ban,          generated: false}
+  - {path: doc/tho-van-ly-tran.md,            type: doc,       tier: loi,      block: van-ban,          generated: false}
+  # Luyện tập
+  - {path: luyen-tap/index.md,                type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: luyen-tap/nguy-bien.md,            type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: luyen-tap/the-ghi-nho.md,          type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: luyen-tap/on-tap.md,               type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: luyen-tap/ke-hoach.md,             type: he-thong,  tier: he-thong, block: null,             generated: false}
+  # Thêm
+  - {path: them/index.md,                     type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: them/tu-dien.md,                   type: he-thong,  tier: he-thong, block: null,             generated: true}
+  - {path: them/du-lieu.md,                   type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: them/nhat-ky.md,                   type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: them/tham-khao.md,                 type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: them/cap-nhat.md,                  type: he-thong,  tier: he-thong, block: null,             generated: false}
+  - {path: them/sach.md,                      type: he-thong,  tier: he-thong, block: null,             generated: true}
+data:
+  - {path: docs/assets/data/terms.json,        kind: thuat-ngu,       tier: loi,      block: thuat-ngu, generated: false}
+  - {path: docs/assets/data/philosophers.json, kind: triet-gia,       tier: loi,      block: triet-gia, generated: false}
+  - {path: tools/philosophers.py,              kind: ho-so-triet-gia, tier: loi,      block: triet-gia, generated: false}
+  - {path: tools/philpapers-2020.md,           kind: philpapers,      tier: loi,      block: null,      generated: false}
+  - {path: docs/assets/data/fallacies.json,    kind: luyen-tap,       tier: loi,      block: luyen-tap, generated: false}
+  - {path: docs/assets/data/lap-luan.json,     kind: luyen-tap,       tier: loi,      block: luyen-tap, generated: false}
+  - {path: docs/assets/data/logic.json,        kind: luyen-tap,       tier: loi,      block: luyen-tap, generated: false}
+  - {path: docs/assets/data/thi-nghiem.json,   kind: luyen-tap,       tier: loi,      block: luyen-tap, generated: false}
+  - {path: docs/assets/data/quiz-bank.json,    kind: quiz,            tier: he-thong, block: null,      generated: true}

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mtuann.github.io/logos/schema/content.schema.json",
+  "title": "Sổ đăng ký nội dung của Logos (content.yml)",
+  "description": "Mỗi trang trong docs/ và mỗi file dữ liệu một dòng: loại, tầng, khối, có sinh tự động hay không. Đặc tả: ban-giao/dot-0.md. tools/content_registry.py đọc các danh sách giá trị cho phép từ file này.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "pages", "data"],
+  "properties": {
+    "version": { "const": 1 },
+    "pages": { "type": "array", "items": { "$ref": "#/$defs/page" } },
+    "data": { "type": "array", "items": { "$ref": "#/$defs/data" } }
+  },
+  "$defs": {
+    "tier": {
+      "description": "loi: kiến thức kinh điển, kiểm chứng một lần rồi đóng băng; mo-rong: phần thêm sau; he-thong: trang và file phục vụ, không có dữ kiện cần kiểm.",
+      "enum": ["loi", "mo-rong", "he-thong"]
+    },
+    "block": {
+      "description": "Khóa khối, đúng danh sách ở KE-HOACH.md mục 5.3; null với trang he-thong.",
+      "oneOf": [
+        {
+          "enum": [
+            "bat-dau", "cong-cu", "tri-thuc", "tam-tri", "tu-do", "dao-duc", "luan-ly-ung-dung",
+            "chinh-tri", "my-hoc", "ton-giao", "sieu-hinh", "y-nghia", "viet-nam", "lich-su",
+            "triet-gia", "van-ban", "thuat-ngu", "luyen-tap"
+          ]
+        },
+        { "type": "null" }
+      ]
+    },
+    "page": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "type", "tier", "block", "generated"],
+      "properties": {
+        "path": { "type": "string", "pattern": "^[a-z0-9-]+(/[a-z0-9-]+)*\\.md$", "description": "Tính từ docs/." },
+        "type": { "enum": ["cau-hoi", "cong-cu", "lich-su", "doc", "bat-dau", "triet-gia", "he-thong"] },
+        "tier": { "$ref": "#/$defs/tier" },
+        "block": { "$ref": "#/$defs/block" },
+        "generated": { "type": "boolean" }
+      }
+    },
+    "data": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "kind", "tier", "block", "generated"],
+      "properties": {
+        "path": { "type": "string", "pattern": "^[a-z0-9._/-]+$", "description": "Tính từ gốc repo." },
+        "kind": { "enum": ["thuat-ngu", "triet-gia", "ho-so-triet-gia", "luyen-tap", "quiz", "philpapers"] },
+        "tier": { "$ref": "#/$defs/tier" },
+        "block": { "$ref": "#/$defs/block" },
+        "generated": { "type": "boolean" }
+      }
+    }
+  }
+}
