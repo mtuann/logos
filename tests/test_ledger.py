@@ -117,6 +117,23 @@ class TestRecordKeys(unittest.TestCase):
                 cl.current_hash(bad, ROOT)
             self.assertIn(needle, cm.exception.args[0])
 
+    def test_json_record_kinds(self):
+        """Đợt 5.0b: dữ liệu JSON của site có khóa trong sổ; mã băm đổi khi bản ghi đổi."""
+        import json
+        cl._load_json_list.cache_clear()
+        for key in ("terms/triet-hoc", "fallacy-types/ad-hominem", "fallacies/f-001", "lap-luan/sodo-01",
+                    "logic/logic-01", "thi-nghiem/xe-dien"):
+            self.assertTrue(cl.current_hash(key, ROOT).startswith("sha256:"), key)
+        with self.assertRaises(KeyError) as cm:
+            cl.current_hash("terms/khong-co", ROOT)
+        self.assertIn("terms.json", cm.exception.args[0])
+        rec = next(t for t in json.loads((ROOT / "docs/assets/data/terms.json").read_text(encoding="utf-8"))["terms"]
+                   if t["id"] == "triet-hoc")
+        self.assertEqual(cl.current_hash("terms/triet-hoc", ROOT), hashing.record_hash(rec))
+        self.assertNotEqual(hashing.record_hash(rec), hashing.record_hash({**rec, "en": rec["en"] + "x"}))
+        counts = cl.record_counts(ROOT)
+        self.assertEqual((counts["terms"], counts["fallacies"], counts["fallacy-types"]), (249, 100, 20))
+
     def test_record_hash_ignores_verified(self):
         import yaml
         rec = yaml.safe_load((ROOT / "data/kb/people.yml").read_text(encoding="utf-8"))["kant"]

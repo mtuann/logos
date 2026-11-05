@@ -27,7 +27,9 @@ BLOCKS = {  # tên đọc được, theo nav (KE-HOACH.md mục 5.3)
 }
 RECORDS = {"people": "Người (năm sinh mất, trường phái)", "works": "Tác phẩm", "quotes": "Trích dẫn",
            "events": "Sự kiện (ứng viên)", "sources": "Nguồn", "ho-so": "Hồ sơ triết gia",
-           "philpapers": "Câu hỏi khảo sát PhilPapers 2020"}
+           "philpapers": "Câu hỏi khảo sát PhilPapers 2020", "terms": "Thuật ngữ (Từ điển)",
+           "fallacy-types": "Loại ngụy biện", "fallacies": "Đoạn luyện nhận diện ngụy biện",
+           "lap-luan": "Đoạn luyện sơ đồ lập luận", "logic": "Bài tập logic", "thi-nghiem": "Thí nghiệm tư duy"}
 
 HEAD = """---
 title: Tình trạng kiểm chứng

@@ -125,6 +125,24 @@ RECORD_FILES = {
     "events": "data/kb/events.yml", "sources": "data/kb/sources.yml",
 }
 
+# Dữ liệu JSON của site (đợt 5.0b): loại → (file, khóa danh sách); mỗi phần tử có `id`.
+JSON_RECORDS = {
+    "terms": ("docs/assets/data/terms.json", "terms"),
+    "fallacy-types": ("docs/assets/data/fallacies.json", "types"),
+    "fallacies": ("docs/assets/data/fallacies.json", "questions"),
+    "lap-luan": ("docs/assets/data/lap-luan.json", "passages"),
+    "logic": ("docs/assets/data/logic.json", "exercises"),
+    "thi-nghiem": ("docs/assets/data/thi-nghiem.json", "experiments"),
+}
+
+
+@lru_cache(maxsize=None)
+def _load_json_list(rel: str, list_key: str, root: Path) -> dict | None:
+    f = root / rel
+    if not f.exists():
+        return None
+    return {r["id"]: r for r in json.loads(f.read_text(encoding="utf-8")).get(list_key, [])}
+
 
 @lru_cache(maxsize=None)
 def _load_yaml(rel: str, root: Path):
@@ -143,13 +161,19 @@ def _record(kind: str, rid: str, root: Path):
         if data is None:
             raise KeyError(f"không còn hồ sơ data/people/{rid}.yml")
         return data
+    if kind in JSON_RECORDS:
+        rel, list_key = JSON_RECORDS[kind]
+        data = _load_json_list(rel, list_key, root)
+        if data is None or rid not in data:
+            raise KeyError(f"không còn bản ghi {rid!r} trong {rel} ({list_key})")
+        return data[rid]
     if kind == "philpapers":
         f = root / "data" / "kb" / "philpapers-2020.json"
         qs = {q["id"]: q for q in json.loads(f.read_text(encoding="utf-8"))["questions"]} if f.exists() else {}
         if rid not in qs:
             raise KeyError(f"không còn câu {rid!r} trong data/kb/philpapers-2020.json")
         return qs[rid]
-    raise KeyError(f"loại bản ghi {kind!r} không có (có: {', '.join(sorted(RECORD_FILES) + ['ho-so', 'philpapers'])})")
+    raise KeyError(f"loại bản ghi {kind!r} không có (có: {', '.join(sorted([*RECORD_FILES, *JSON_RECORDS, 'ho-so', 'philpapers']))})")
 
 
 def evidence_path(key: str) -> str:
@@ -212,6 +236,8 @@ def record_counts(root: Path = ROOT) -> dict[str, int]:
     out["ho-so"] = len(list((root / "data" / "people").glob("*.yml")))
     f = root / "data" / "kb" / "philpapers-2020.json"
     out["philpapers"] = len(json.loads(f.read_text(encoding="utf-8"))["questions"]) if f.exists() else 0
+    for kind, (rel, list_key) in JSON_RECORDS.items():
+        out[kind] = len(_load_json_list(rel, list_key, root) or {})
     return out
 
 

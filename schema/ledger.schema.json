@@ -15,7 +15,7 @@
     },
     "units": {
       "type": "object",
-      "description": "Khóa: đơn vị trang `<đường dẫn trong docs>#<id>` (ví dụ cau-hoi/tri-thuc.md#nguon) hoặc bản ghi dữ liệu `<loại>/<khóa>`: people, works, quotes, events, sources (data/kb/*.yml), ho-so (data/people/<id>.yml), philpapers (một câu).",
+      "description": "Khóa: đơn vị trang `<đường dẫn trong docs>#<id>` (ví dụ cau-hoi/tri-thuc.md#nguon) hoặc bản ghi dữ liệu `<loại>/<khóa>`: people, works, quotes, events, sources (data/kb/*.yml), ho-so (data/people/<id>.yml), philpapers (một câu); terms, fallacy-types, fallacies, lap-luan, logic, thi-nghiem (docs/assets/data/*.json, theo id).",
       "propertyNames": {
         "pattern": "^([a-z0-9-]+/)*[a-z0-9-]+\\.md#[A-Za-z0-9_-]+$|^[a-z-]+/[a-z0-9._-]+$"
       },
