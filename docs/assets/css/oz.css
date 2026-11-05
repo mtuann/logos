@@ -774,3 +774,31 @@ body {
   font-weight: 700;
 }
 .md-typeset a.oz-info__kiem { color: inherit; }
+
+/* ---------- Trang chủ: nút bắt đầu, cửa chính và cửa phụ (đợt 4.9, quyết định 24) ---------- */
+.md-typeset .oz-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.2rem 0 0.4rem;
+}
+.md-typeset .oz-hero__actions .md-button {
+  margin: 0;
+}
+.md-typeset .oz-hero__note {
+  max-width: 38rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .grid.cards.oz-cua-phu > ul > li {
+  padding: 0.6rem 0.9rem;
+  background: transparent;
+}
+.md-typeset .grid.cards.oz-cua-phu > ul > li hr {
+  display: none;
+}
+@media screen and (min-width: 60em) {
+  .md-typeset .grid.cards.oz-cua-phu > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

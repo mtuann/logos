@@ -72,6 +72,8 @@ jobs:
         run: uv run --frozen python tools/kb_philpapers.py --check
       - name: Ứng viên sự kiện khớp các trang
         run: uv run --frozen python tools/kb_events.py --check
+      - name: Nav của mkdocs.yml khớp content.yml
+        run: uv run --frozen python tools/nav_gen.py --check
       - name: Trang tác phẩm và Tình trạng kiểm chứng khớp dữ liệu
         run: |
           uv run --frozen python tools/works_page.py --check

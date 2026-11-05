@@ -40,7 +40,9 @@ class TestDot3(unittest.TestCase):
         self.assertEqual([(s[0], s[1]) for s in left], [])
 
     def test_counts_and_thoi_su_done(self):
-        self.assertEqual(thay_shortcode.apply(dot3_so_dem.SUBS, dry_run=True), (0, 0))
+        # Theo nội dung, không theo số dòng (trang chủ đổi bố cục ở đợt 4.9): mọi chữ đã thay vẫn còn trong trang.
+        for page, _, _, new in dot3_so_dem.SUBS:
+            self.assertIn(new, (thay_shortcode.DOCS / page).read_text(encoding="utf-8"), page)
         self.assertEqual(dot3_thoi_su.main(["--dry-run"]), 0)
 
 

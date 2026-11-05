@@ -82,6 +82,24 @@ class TestRegistry(unittest.TestCase):
         self.page(reg, "cau-hoi/tri-thuc.md")["block"] = "lich-su"
         self.assertError(reg, "phải thuộc một trong 11 khối chủ đề")
 
+    def test_nav_matches_pages(self):
+        import copy
+        reg = copy.deepcopy(self.reg)
+        reg["nav"] = copy.deepcopy(reg["nav"])
+        reg["nav"].append({"Ma": "khong-co.md"})
+        reg["nav"].append("index.md")
+        errs = "\n".join(cr.check(reg))
+        self.assertIn("nav: khong-co.md không có trong pages", errs)
+        self.assertIn("nav: index.md có hơn một lần", errs)
+        reg["nav"] = [x for x in self.reg["nav"] if x != {"Trang chủ": "index.md"}]
+        self.assertIn("trang index.md: có trong pages nhưng thiếu trong nav", "\n".join(cr.check(reg)))
+
+    def test_nav_gen_in_sync(self):
+        sys.path.insert(0, str(ROOT / "tools"))
+        import nav_gen
+        self.assertEqual(nav_gen.main(["--check"]), 0)
+        self.assertEqual(nav_gen.nav_block("a: 1\nnav:\n  - x.md\n# chú thích\nb: 2\n"), "nav:\n  - x.md\n")
+
     def test_detects_unregistered_data_file(self):
         reg = copy.deepcopy(self.reg)
         reg["data"] = [e for e in reg["data"] if e["path"] != "docs/assets/data/terms.json"]

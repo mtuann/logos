@@ -100,6 +100,7 @@ validation:
   unrecognized_links: warn
   anchors: warn
 
+# gen:nav — không sửa tay: sửa mục `nav` trong content.yml rồi chạy python tools/nav_gen.py
 nav:
   - Trang chủ: index.md
   - Bắt đầu:
@@ -312,3 +313,4 @@ nav:
       - Tham khảo: them/tham-khao.md
       - Cập nhật: them/cap-nhat.md
       - Sách in: them/sach.md
+# /gen:nav

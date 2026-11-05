@@ -182,7 +182,7 @@ def check(reg, root: Path = ROOT) -> list[str]:
     errors: list[str] = []
     if not isinstance(reg, dict):
         return ["content.yml phải là một mapping"]
-    extra = set(reg) - {"version", "pages", "data"}
+    extra = set(reg) - {"version", "pages", "data", "nav"}
     if extra:
         errors.append(f"khóa lạ ở gốc content.yml: {sorted(extra)}")
     if reg.get("version") != 1:
@@ -253,6 +253,16 @@ def check(reg, root: Path = ROOT) -> list[str]:
             if lacking:
                 errors.append(f"trang {path}: front matter thiếu {', '.join(lacking)} "
                               "(chạy: python tools/content_registry.py --sync-frontmatter)")
+    # Nav (đợt 4.9): content.yml là nguồn của nav; mọi trang trong `pages` có đúng một lần trong nav và ngược lại.
+    if "nav" in reg:
+        in_nav = [path for path, _ in walk_nav(reg["nav"] or [])]
+        listed = {e.get("path") for e in pages if isinstance(e, dict)}
+        for path in sorted({x for x in in_nav if in_nav.count(x) > 1}):
+            errors.append(f"nav: {path} có hơn một lần")
+        for path in sorted(set(in_nav) - listed):
+            errors.append(f"nav: {path} không có trong pages")
+        for path in sorted(listed - set(in_nav)):
+            errors.append(f"trang {path}: có trong pages nhưng thiếu trong nav")
     for p in sorted((root / "docs").rglob("*.md")):
         rel = p.relative_to(root / "docs").as_posix()
         if rel not in seen:

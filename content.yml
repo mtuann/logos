@@ -232,3 +232,219 @@ data:
   - {path: docs/assets/data/logic.json,        kind: luyen-tap,       tier: loi,      block: luyen-tap, generated: false}
   - {path: docs/assets/data/thi-nghiem.json,   kind: luyen-tap,       tier: loi,      block: luyen-tap, generated: false}
   - {path: docs/assets/data/quiz-bank.json,    kind: quiz,            tier: he-thong, block: null,      generated: true}
+
+# Nav của site (đợt 4.9): nguồn chính là đây; tools/nav_gen.py chép nguyên khối này vào mkdocs.yml giữa
+# `# gen:nav` và `# /gen:nav` (--check trong CI). Cú pháp nav của MkDocs: `Tên nhóm:` chứa danh sách; `Tiêu đề: trang.md`
+# khi tiêu đề nav khác title của trang; chỉ `trang.md` thì dùng title của trang. Mọi trang trong `pages` phải có ở đây.
+nav:
+  - Trang chủ: index.md
+  - Bắt đầu:
+      - bat-dau/index.md
+      - Ba con đường đọc: bat-dau/lo-trinh.md
+  - Công cụ tư duy:
+      - cong-cu/index.md
+      - Lập luận là gì?: cong-cu/lap-luan-la-gi.md
+      - Suy diễn: cong-cu/suy-dien.md
+      - Logic mệnh đề: cong-cu/logic-menh-de.md
+      - Điều kiện cần và đủ: cong-cu/dieu-kien-can-du.md
+      - Định nghĩa và phản ví dụ: cong-cu/dinh-nghia-phan-vi-du.md
+      - Quy nạp: cong-cu/quy-nap.md
+      - Giả định ngầm: cong-cu/gia-dinh-ngam.md
+      - Ngụy biện: cong-cu/nguy-bien.md
+      - Đọc văn bản khó: cong-cu/doc-van-ban-kho.md
+      - Viết đoạn lập luận: cong-cu/viet-doan-lap-luan.md
+      - Ngụy biện hình thức: cong-cu/nguy-bien-hinh-thuc.md
+      - Sơ đồ hóa lập luận: cong-cu/so-do-hoa-lap-luan.md
+      - Thí nghiệm tư duy: cong-cu/thi-nghiem-tu-duy.md
+      - Phép biện chứng Socrates: cong-cu/bien-chung-socrates.md
+      - Luận cứ thép: cong-cu/luan-cu-thep.md
+  - Câu hỏi lớn:
+      - cau-hoi/index.md
+      - Tri thức và chân lý:
+          - Biết là gì?: cau-hoi/tri-thuc.md
+          - Tin vào lời người khác?: cau-hoi/loi-chung.md
+          - Khi người giỏi cãi nhau?: cau-hoi/bat-dong-tri-thuc.md
+          - Sự thật là gì?: cau-hoi/chan-ly.md
+          - Khoa học khác gì phi khoa học?: cau-hoi/khoa-hoc.md
+          - Ngôn từ định hình tư duy?: cau-hoi/ngon-ngu.md
+      - Tâm trí, AI và cái tôi:
+          - Máy có tâm trí không?: cau-hoi/tam-tri-va-ai.md
+          - AI thay đổi con người thế nào?: cau-hoi/cong-nghe-ai.md
+          - Thân xác và tâm trí?: cau-hoi/van-de-tam-tri.md
+          - Cái "tôi" là gì?: cau-hoi/cai-toi.md
+      - Tự do và trách nhiệm:
+          - Ta có tự do không?: cau-hoi/tu-do-y-chi.md
+          - Ta có đáng bị trách?: cau-hoi/trach-nhiem.md
+          - Mọi thứ đã viết sẵn?: cau-hoi/dinh-menh.md
+      - Đạo đức học:
+          - Hành động đúng là gì?: cau-hoi/dao-duc-hanh-dong.md
+          - Đúng sai có khách quan không?: cau-hoi/sieu-dao-duc.md
+          - Có bao giờ được nói dối?: cau-hoi/noi-doi.md
+          - Bản tính con người thiện hay ác?: cau-hoi/ban-tinh-con-nguoi.md
+          - Cái ác là gì?: cau-hoi/cai-ac.md
+          - Ăn thịt có sai không?: cau-hoi/dao-duc-ung-dung.md
+          - Thiên nhiên có giá trị tự thân?: cau-hoi/dao-duc-moi-truong.md
+      - Luân lý ứng dụng:
+          - Phá thai có sai không?: cau-hoi/pha-thai.md
+          - Án tử hình có chính đáng?: cau-hoi/an-tu-hinh.md
+          - Có nghĩa vụ cứu người nghèo?: cau-hoi/cuu-giup-ngheo-doi.md
+          - Ai chịu trách nhiệm cho khí hậu?: cau-hoi/khi-hau-trach-nhiem.md
+          - Quyền riêng tư thời đại số: cau-hoi/quyen-rieng-tu-so.md
+          - "Hiến tạng: ai quyết định?": cau-hoi/hien-tang.md
+      - Triết học chính trị:
+          - Vì sao vâng lời nhà nước?: cau-hoi/khe-uoc-xa-hoi.md
+          - Công lý là gì?: cau-hoi/cong-ly.md
+          - Bình đẳng là gì?: cau-hoi/binh-dang.md
+          - Tài sản riêng có chính đáng?: cau-hoi/tai-san-rieng.md
+          - Dân chủ là gì?: cau-hoi/dan-chu.md
+          - Ai nên cai trị?: cau-hoi/ai-nen-cai-tri.md
+          - Cai trị bằng đức hay bằng pháp?: cau-hoi/duc-tri.md
+          - Tự do ngôn luận đến đâu?: cau-hoi/tu-do-ngon-luan.md
+          - Triết học nữ quyền là gì?: cau-hoi/nu-quyen.md
+          - Chiến tranh có bao giờ chính đáng?: cau-hoi/chien-tranh-chinh-dang.md
+          - Biên giới và di cư: cau-hoi/bien-gioi-di-cu.md
+      - Cái đẹp và nghệ thuật:
+          - Cái đẹp ở đâu?: cau-hoi/cai-dep.md
+          - Cái gì là nghệ thuật?: cau-hoi/nghe-thuat.md
+      - Tôn giáo:
+          - Chứng minh Chúa tồn tại?: cau-hoi/luan-chung-ton-giao.md
+          - Có nên tin mà không cần bằng chứng?: cau-hoi/duc-tin-ly-tri.md
+          - Vì sao có đau khổ?: cau-hoi/van-de-su-du.md
+      - Siêu hình học:
+          - Cái gì thực sự tồn tại?: cau-hoi/cai-gi-ton-tai.md
+          - Phổ quát có thật không?: cau-hoi/pho-quat.md
+          - Thời gian có trôi không?: cau-hoi/thoi-gian.md
+          - Nhân quả là gì?: cau-hoi/nhan-qua-ban-chat.md
+          - Vũ trụ có khởi đầu?: cau-hoi/vu-tru-khoi-dau.md
+          - Con người có linh hồn?: cau-hoi/linh-hon.md
+          - Ta sống trong mô phỏng?: cau-hoi/mo-phong.md
+          - Cái tôi qua thời gian: cau-hoi/ban-nga-thoi-gian.md
+      - Ý nghĩa cuộc sống:
+          - Cuộc sống có ý nghĩa không?: cau-hoi/y-nghia-song.md
+          - Hạnh phúc là gì?: cau-hoi/hanh-phuc.md
+          - Tình yêu là gì?: cau-hoi/tinh-yeu.md
+          - Chết có đáng sợ không?: cau-hoi/cai-chet.md
+      - Tư tưởng Việt Nam:
+          - Thiền Trúc Lâm: cau-hoi/truc-lam.md
+          - Nho giáo Việt Nam: cau-hoi/nho-giao-viet.md
+          - Triết học Việt Nam hiện đại: cau-hoi/viet-hien-dai.md
+  - Lịch sử:
+      - lich-su/index.md
+      - Dòng thời gian: lich-su/dong-thoi-gian.md
+      - Sơ đồ ảnh hưởng: lich-su/so-do-anh-huong.md
+      - Hy Lạp cổ đại: lich-su/hy-lap-co-dai.md
+      - Trung cổ: lich-su/trung-co.md
+      - Cận đại: lich-su/can-dai.md
+      - Thế kỷ 19: lich-su/the-ky-19.md
+      - Thế kỷ 20: lich-su/the-ky-20.md
+      - Ấn Độ: lich-su/an-do.md
+      - Trung Hoa: lich-su/trung-hoa.md
+      - Nhật Bản và Việt Nam: lich-su/nhat-ban-viet-nam.md
+  - Triết gia:
+      - triet-gia/index.md
+      - Tiền Socrates:
+          - Thales: triet-gia/thales.md
+          - Heraclitus: triet-gia/heraclitus.md
+          - Democritus: triet-gia/democritus.md
+      - Hy Lạp cổ đại:
+          - Socrates: triet-gia/socrates.md
+          - Platon: triet-gia/platon.md
+          - Aristotle: triet-gia/aristotle.md
+          - Epicurus: triet-gia/epicurus.md
+          - Zeno xứ Citium: triet-gia/zeno.md
+      - La Mã:
+          - Epictetus: triet-gia/epictetus.md
+          - Marcus Aurelius: triet-gia/marcus-aurelius.md
+      - Trung cổ:
+          - Augustine: triet-gia/augustine.md
+          - Avicenna: triet-gia/avicenna.md
+          - Anselm xứ Canterbury: triet-gia/anselm.md
+          - Averroes: triet-gia/averroes.md
+          - Maimonides: triet-gia/maimonides.md
+          - Thomas Aquinas: triet-gia/aquinas.md
+      - Cận đại:
+          - Thomas Hobbes: triet-gia/hobbes.md
+          - Descartes: triet-gia/descartes.md
+          - Blaise Pascal: triet-gia/pascal.md
+          - John Locke: triet-gia/locke.md
+          - Spinoza: triet-gia/spinoza.md
+          - Leibniz: triet-gia/leibniz.md
+          - David Hume: triet-gia/hume.md
+          - Jean-Jacques Rousseau: triet-gia/rousseau.md
+          - Immanuel Kant: triet-gia/kant.md
+          - Jeremy Bentham: triet-gia/bentham.md
+      - Thế kỷ 19:
+          - Hegel: triet-gia/hegel.md
+          - J. S. Mill: triet-gia/mill.md
+          - Kierkegaard: triet-gia/kierkegaard.md
+          - Karl Marx: triet-gia/marx.md
+          - Nietzsche: triet-gia/nietzsche.md
+          - Frege: triet-gia/frege.md
+      - Thế kỷ 20:
+          - Husserl: triet-gia/husserl.md
+          - Bertrand Russell: triet-gia/russell.md
+          - Heidegger: triet-gia/heidegger.md
+          - Wittgenstein: triet-gia/wittgenstein.md
+          - Karl Popper: triet-gia/popper.md
+          - Sartre: triet-gia/sartre.md
+          - Hannah Arendt: triet-gia/arendt.md
+          - Quine: triet-gia/quine.md
+          - Simone de Beauvoir: triet-gia/beauvoir.md
+          - John Rawls: triet-gia/rawls.md
+          - Robert Nozick: triet-gia/nozick.md
+          - Derek Parfit: triet-gia/parfit.md
+      - Trung Hoa:
+          - Lão Tử: triet-gia/lao-tu.md
+          - Khổng Tử: triet-gia/khong-tu.md
+          - Mặc Tử: triet-gia/mac-tu.md
+          - Mạnh Tử: triet-gia/manh-tu.md
+          - Trang Tử: triet-gia/trang-tu.md
+          - Tuân Tử: triet-gia/tuan-tu.md
+          - Hàn Phi: triet-gia/han-phi.md
+          - Chu Hy: triet-gia/chu-hy.md
+      - Ấn Độ:
+          - Đức Phật: triet-gia/duc-phat.md
+          - Nagarjuna: triet-gia/nagarjuna.md
+      - Việt Nam:
+          - Tuệ Trung Thượng Sĩ: triet-gia/tue-trung.md
+          - Trần Nhân Tông: triet-gia/tran-nhan-tong.md
+          - Chu Văn An: triet-gia/chu-van-an.md
+          - Nguyễn Trãi: triet-gia/nguyen-trai.md
+          - Trần Đức Thảo: triet-gia/tran-duc-thao.md
+  - Đọc văn bản:
+      - doc/index.md
+      - "Platon: Biện hộ của Socrates": doc/platon-bien-ho.md
+      - "Platon: Ẩn dụ hang động": doc/platon-hang-dong.md
+      - "Epictetus: Cẩm nang": doc/epictetus-cam-nang.md
+      - "Descartes: Suy niệm I-II": doc/descartes-suy-niem.md
+      - Hume về nhân quả: doc/hume-nhan-qua.md
+      - "Kant: Khai sáng là gì?": doc/kant-khai-sang.md
+      - "Mill: Bàn về tự do": doc/mill-tu-do.md
+      - "Russell: Giá trị của triết học": doc/russell-gia-tri.md
+      - Luận ngữ: doc/luan-ngu.md
+      - Đạo đức kinh: doc/dao-duc-kinh.md
+      - "Trang Tử: Mộng hồ điệp": doc/trang-tu-mong-ho-diep.md
+      - "Aristotle: Đạo đức Nicomachus": doc/aristotle-dao-duc.md
+      - "Marcus Aurelius: Suy tưởng": doc/aurelius-suy-tuong.md
+      - "Mạnh Tử: tính thiện": doc/manh-tu-tinh-thien.md
+      - "Mặc Tử: kiêm ái": doc/mac-tu-kiem-ai.md
+      - "Bát nhã Tâm kinh": doc/tam-kinh.md
+      - "Nguyễn Trãi: Bình Ngô đại cáo": doc/nguyen-trai-binh-ngo.md
+      - "Sartre: Thuyết hiện sinh": doc/sartre-hien-sinh.md
+      - "Thơ văn Lý–Trần": doc/tho-van-ly-tran.md
+  - Luyện tập:
+      - luyen-tap/index.md
+      - Nhận ra ngụy biện: luyen-tap/nguy-bien.md
+      - Thẻ ghi nhớ: luyen-tap/the-ghi-nho.md
+      - Ôn tập thông minh: luyen-tap/on-tap.md
+      - Kế hoạch học: luyen-tap/ke-hoach.md
+  - Thêm:
+      - them/index.md
+      - Từ điển thuật ngữ: them/tu-dien.md
+      - Tác phẩm: tac-pham/index.md
+      - Tình trạng kiểm chứng: them/kiem-chung.md
+      - Dữ liệu của tôi: them/du-lieu.md
+      - Nhật ký: them/nhat-ky.md
+      - Tham khảo: them/tham-khao.md
+      - Cập nhật: them/cap-nhat.md
+      - Sách in: them/sach.md
