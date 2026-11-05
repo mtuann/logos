@@ -65,6 +65,7 @@ DATA_FILES = [
     ("data/kb/sources.yml", "nguon", "loi", None, True),
     ("data/kb/works.yml", "tac-pham", "loi", None, True),
     ("data/kb/quotes.yml", "trich-dan", "loi", None, True),
+    ("data/kb/events.yml", "su-kien", "loi", None, True),
     ("data/kb/philpapers-2020.json", "philpapers", "loi", None, False),
     ("tools/philpapers-2020.md", "philpapers", "he-thong", None, True),
     ("docs/assets/data/fallacies.json", "luyen-tap", "loi", "luyen-tap", False),
