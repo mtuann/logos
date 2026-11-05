@@ -96,6 +96,10 @@ class TestChangedUnits(unittest.TestCase):
 
 
 class TestRecords(unittest.TestCase):
+    def test_binary_file_is_skipped(self):
+        # Đợt 4: font woff2 trong docs/assets/fonts/ — đọc như văn bản thì vỡ; không có đơn vị nào để so.
+        self.assertIsNone(cu.read(None, "docs/assets/fonts/be-vietnam-pro-400.woff2"))
+
     def test_record_hashes(self):
         old = cu.record_hashes("data/kb/people.yml", "kant: {name: Kant}\nhume: {name: Hume}\n")
         new = cu.record_hashes("data/kb/people.yml", "kant: {name: Kant}\nhume: {name: David Hume}\nmill: {name: Mill}\n")
