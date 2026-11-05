@@ -17,6 +17,9 @@ class TestKbWorks(unittest.TestCase):
     def setUpClass(cls):
         cls.recs = kw.extract(ROOT)
 
+    def test_stephanus_is_not_a_year(self):
+        self.assertIsNone(kw.WORK_YEAR.search("*Cộng hòa* (519a–520a)"))
+
     def test_patterns(self):
         m = kw.WORK_YEAR.search("trong *Cộng hòa* (k. 375 TCN) và *Suy niệm* (1641)")
         self.assertEqual((m.group(1), kw.year_of(m.group(2), m.group(3))), ("Cộng hòa", -375))
@@ -31,9 +34,9 @@ class TestKbWorks(unittest.TestCase):
         self.assertTrue(all(k.startswith("chua-ro.") and self.recs[k]["author"] is None for k in herodotus))
 
     def test_prose_count_matches_baseline(self):
-        """159 chỗ *Tác phẩm* (năm) trong Lõi viết tay (verification/bao-cao-nen.md)."""
+        """158 chỗ *Tác phẩm* (năm) trong Lõi viết tay: báo cáo nền đếm 159, gồm 1 chỗ là số trang Stephanus (*Cộng hòa* (519a…))."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 159)
+        self.assertEqual(n, 158)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():

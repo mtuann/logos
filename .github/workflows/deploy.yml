@@ -83,7 +83,7 @@ jobs:
         run: uv run --frozen python tools/check_ledger.py --check
       - name: Linter (chế độ cảnh báo, chưa chặn)
         run: |
-          for l in lint_terms lint_volatile lint_structure; do
+          for l in lint_terms lint_volatile lint_structure lint_facts lint_quotes; do
             uv run --frozen python tools/$l.py -q
           done
       - name: Đơn vị thay đổi (không chặn)

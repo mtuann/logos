@@ -13,6 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 
+import lint_facts  # noqa: E402
+import lint_quotes  # noqa: E402
 import lint_structure  # noqa: E402
 import lint_terms  # noqa: E402
 import lint_volatile  # noqa: E402
@@ -151,6 +153,25 @@ class TestReports(unittest.TestCase):
             self.assertEqual(lint_structure.main(["-q"]), 0)
             self.assertEqual(lint_structure.main(["-q", "--strict"]), 1)
         self.assertIn("chế độ cảnh báo", out.getvalue())
+
+
+class TestLintFacts(unittest.TestCase):
+    def test_life_pattern(self):
+        m = lint_facts.LIFE.search("vua [Trần Nhân Tông](../triet-gia/tran-nhan-tong.md) (1258–1308) sau khi")
+        self.assertEqual((m.group("id"), m.group("b"), m.group("d")), ("tran-nhan-tong", "1258", "1308"))
+        m = lint_facts.LIFE.search("Socrates (k. 469–399 TCN) hỏi")
+        self.assertEqual((m.group("name"), m.group("b"), m.group("dtcn")), ("Socrates", "469", " TCN"))
+
+    def test_repo_only_unsettled_years(self):
+        rules = {f.rule for f in lint_facts.collect()}
+        self.assertLessEqual(rules, {"nam-chua-chot"})   # kho rút từ chính các trang: chỉ còn chỗ chưa chốt
+
+
+class TestLintQuotes(unittest.TestCase):
+    def test_repo_blocks_match_store(self):
+        rules = {f.rule for f in lint_quotes.collect()}
+        self.assertNotIn("khong-khop", rules)
+        self.assertNotIn("mo-coi", rules)
 
 if __name__ == "__main__":
     unittest.main()

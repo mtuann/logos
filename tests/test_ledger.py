@@ -101,9 +101,27 @@ class TestLedger(unittest.TestCase):
         self.assertEqual(cl.evidence_path("cau-hoi/tri-thuc.md#cac-lap-truong-chinh"),
                          "verification/evidence/cau-hoi__tri-thuc.md__cac-lap-truong-chinh.json")
 
-    def test_data_records_not_yet_supported(self):
+    def test_missing_record_file(self):
         with self.assertRaises(KeyError):
-            cl.current_hash("people/kant", self.root)
+            cl.current_hash("people/kant", self.root)   # gốc tạm không có data/kb/
+
+
+class TestRecordKeys(unittest.TestCase):
+    def test_record_hashes(self):
+        cl._load_yaml.cache_clear()
+        for key in ("people/kant", "ho-so/kant", "philpapers/tu-do-y-chi"):
+            self.assertTrue(cl.current_hash(key, ROOT).startswith("sha256:"), key)
+        for bad, needle in (("people/khong-co", "không còn bản ghi"), ("ho-so/khong-co", "không còn hồ sơ"),
+                            ("abc/x", "không có")):
+            with self.assertRaises(KeyError) as cm:
+                cl.current_hash(bad, ROOT)
+            self.assertIn(needle, cm.exception.args[0])
+
+    def test_record_hash_ignores_verified(self):
+        import yaml
+        rec = yaml.safe_load((ROOT / "data/kb/people.yml").read_text(encoding="utf-8"))["kant"]
+        from lz import hashing
+        self.assertEqual(cl.current_hash("people/kant", ROOT), hashing.record_hash({**rec, "verified": {"date": "x", "by": "y"}}))
 
 
 class TestStatus(unittest.TestCase):

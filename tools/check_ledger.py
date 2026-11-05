@@ -24,6 +24,8 @@ import sys
 from functools import lru_cache
 from pathlib import Path
 
+import yaml
+
 from lz import ROOT, hashing, registry, units
 
 LEDGER = Path("verification") / "ledger.json"
@@ -111,8 +113,43 @@ def current_hash(key: str, root: Path = ROOT) -> str:
         if ident not in us:
             raise KeyError(f"trang {path} không còn mục #{ident}")
         return hashing.unit_hash(us[ident])
-    kind = key.split("/", 1)[0]
-    raise KeyError(f"loại bản ghi {kind!r} chưa có trong kho dữ kiện (đợt 2)")
+    kind, _, rid = key.partition("/")
+    rec = _record(kind, rid, root)
+    return hashing.record_hash(rec)
+
+
+# Bản ghi dữ liệu: loại → file (data/kb/*.yml là ánh xạ khóa → bản ghi). `ho-so/<id>` là cả hồ sơ data/people/<id>.yml;
+# `philpapers/<câu>` là một câu hỏi của data/kb/philpapers-2020.json.
+RECORD_FILES = {
+    "people": "data/kb/people.yml", "works": "data/kb/works.yml", "quotes": "data/kb/quotes.yml",
+    "events": "data/kb/events.yml", "sources": "data/kb/sources.yml",
+}
+
+
+@lru_cache(maxsize=None)
+def _load_yaml(rel: str, root: Path):
+    f = root / rel
+    return yaml.safe_load(f.read_text(encoding="utf-8")) if f.exists() else None
+
+
+def _record(kind: str, rid: str, root: Path):
+    if kind in RECORD_FILES:
+        data = _load_yaml(RECORD_FILES[kind], root) or {}
+        if rid not in data:
+            raise KeyError(f"không còn bản ghi {rid!r} trong {RECORD_FILES[kind]}")
+        return data[rid]
+    if kind == "ho-so":
+        data = _load_yaml(f"data/people/{rid}.yml", root)
+        if data is None:
+            raise KeyError(f"không còn hồ sơ data/people/{rid}.yml")
+        return data
+    if kind == "philpapers":
+        f = root / "data" / "kb" / "philpapers-2020.json"
+        qs = {q["id"]: q for q in json.loads(f.read_text(encoding="utf-8"))["questions"]} if f.exists() else {}
+        if rid not in qs:
+            raise KeyError(f"không còn câu {rid!r} trong data/kb/philpapers-2020.json")
+        return qs[rid]
+    raise KeyError(f"loại bản ghi {kind!r} không có (có: {', '.join(sorted(RECORD_FILES) + ['ho-so', 'philpapers'])})")
 
 
 def evidence_path(key: str) -> str:
@@ -170,6 +207,14 @@ def core_units(root: Path = ROOT) -> list[tuple[str, str]]:
     return out
 
 
+def record_counts(root: Path = ROOT) -> dict[str, int]:
+    out = {k: len(_load_yaml(rel, root) or {}) for k, rel in RECORD_FILES.items()}
+    out["ho-so"] = len(list((root / "data" / "people").glob("*.yml")))
+    f = root / "data" / "kb" / "philpapers-2020.json"
+    out["philpapers"] = len(json.loads(f.read_text(encoding="utf-8"))["questions"]) if f.exists() else 0
+    return out
+
+
 def status_table(ledger: dict, root: Path = ROOT) -> str:
     entries = ledger.get("units", {})
     rows: dict[str, dict[str, int]] = {}
@@ -184,8 +229,11 @@ def status_table(ledger: dict, root: Path = ROOT) -> str:
         pct = f"{100 * r['frozen'] / r['tong']:.1f}".replace(".", ",") if r["tong"] else "—"
         lines.append(f"| {block} | {r['tong']} | {r['chua-ghi']} | {r['chua-kiem']} | {r['da-kiem']} | {r['frozen']} | {pct} |")
     other = sorted(set(entries) - {k for k, _ in core_units(root)})
-    if other:
-        lines += ["", f"Ngoài Lõi viết tay (bản ghi dữ liệu, Mở rộng): {len(other)} khóa trong sổ."]
+    lines += ["", "| Bản ghi dữ liệu | Có trong kho | Trong sổ | Đóng băng |", "|---|---:|---:|---:|"]
+    for kind, n in record_counts(root).items():
+        mine = [k for k in other if k.startswith(kind + "/")]
+        frozen = sum(1 for k in mine if entries[k]["status"] == "frozen")
+        lines.append(f"| {kind} | {n} | {len(mine)} | {frozen} |")
     return "\n".join(lines)
 
 

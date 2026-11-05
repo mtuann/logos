@@ -33,7 +33,8 @@ from lz.lint import masked_lines
 OUT = ROOT / "data" / "kb" / "works.yml"
 LECH = ROOT / "verification" / "lech" / "works.md"
 KEEP = ("title_orig", "evidence", "verified")
-WORK_YEAR = re.compile(r"\*([^*\n]{2,160}?)\*\s*\((?:khoảng |k\. |năm )?(\d{3,4})(\s*TCN)?")
+# Số dính chữ cái ngay sau ("519a": số trang Stephanus) không phải năm.
+WORK_YEAR = re.compile(r"\*([^*\n]{2,160}?)\*\s*\((?:khoảng |k\. |năm )?(\d{3,4})(?![\w])(\s*TCN)?")
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
 YEAR = re.compile(r"^(?:k\. |khoảng )?(\d{3,4})(\s*TCN)?\b")
 HEAD = ("# Kho tác phẩm. RÚT TỰ ĐỘNG bằng tools/kb_works.py từ \"*Tên* (năm)\" trong bài và danh sách tác phẩm của hồ sơ;\n"

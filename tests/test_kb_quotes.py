@@ -47,7 +47,7 @@ class TestBlocks(unittest.TestCase):
 class TestRepo(unittest.TestCase):
     def test_counts_and_round_trip(self):
         recs, _ = kq.extract(ROOT)
-        self.assertEqual(len(recs), 156)          # 108 khối trong Lõi viết tay + 48 trích dẫn của hồ sơ
+        self.assertEqual(sum(len(r["used_in"]) for r in recs.values()), 156)   # 108 khối trong Lõi viết tay + 48 của hồ sơ
         for key, r in recs.items():
             if "body" not in r:
                 continue
