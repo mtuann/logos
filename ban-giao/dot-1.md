@@ -27,12 +27,12 @@
 
 ## Cổng
 
-- [ ] `tools/parity.py` báo giống 100% sau việc 1.3 và 1.4.
-- [ ] `tests/test_lz.py` chứng minh các hệ quả ở `KE-HOACH.md` mục 5.6.
-- [ ] CI có thêm: `content_registry`, `check_ledger`, ba linter (cảnh báo), `changed_units`.
-- [ ] `verification/lint/` có báo cáo nền của ba linter.
-- [ ] `AGENTS.md` mục 4 và `README.md` có lệnh mới.
-- [ ] CI xanh.
+- [x] `tools/parity.py` báo giống 100% sau việc 1.3 và 1.4. (Từng việc so với `main`; cả đợt `73378c0` → `main`: 181 trang + `search_index.json` giống 100%; `changed_units.py`: không đơn vị nào đổi mã băm.)
+- [x] `tests/test_lz.py` chứng minh các hệ quả ở `KE-HOACH.md` mục 5.6.
+- [x] CI có thêm: `content_registry`, `check_ledger`, ba linter (cảnh báo), `changed_units`. (Thêm cả `add_heading_ids --check`, `terms_policy --check`.)
+- [x] `verification/lint/` có báo cáo nền của ba linter.
+- [x] `AGENTS.md` mục 4 và `README.md` có lệnh mới.
+- [ ] CI xanh (bộ kiểm tra đầy đủ xanh trên máy 5/11/2026: 110 unittest, 122 + 250 kiểm thử JS; chờ CI trên GitHub sau khi push).
 
 ## Không làm
 
