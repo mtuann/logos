@@ -95,5 +95,15 @@ class TestChangedUnits(unittest.TestCase):
         self.assertEqual(h["c"], hashing.unit_hash("## C {#c}\n\nc\n"))
 
 
+class TestRecords(unittest.TestCase):
+    def test_record_hashes(self):
+        old = cu.record_hashes("data/kb/people.yml", "kant: {name: Kant}\nhume: {name: Hume}\n")
+        new = cu.record_hashes("data/kb/people.yml", "kant: {name: Kant}\nhume: {name: David Hume}\nmill: {name: Mill}\n")
+        self.assertEqual(old["people/kant"], new["people/kant"])
+        self.assertNotEqual(old["people/hume"], new["people/hume"])
+        self.assertIn("people/mill", new)
+        self.assertEqual(list(cu.record_hashes("data/people/kant.yml", "desc: x\n")), ["ho-so/kant"])
+        self.assertEqual(cu.record_hashes("docs/assets/data/terms.json", "[]"), {})
+
 if __name__ == "__main__":
     unittest.main()
