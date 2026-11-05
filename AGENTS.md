@@ -55,6 +55,7 @@ for l in lint_terms lint_structure lint_facts lint_quotes; do uv run python tool
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build
+npm run test:real   # axe trên Chromium thật (lần đầu: npx playwright install chromium); AXE_REPORT=1 để chỉ đo
 ```
 
 Không có uv: tạo virtualenv Python 3.11+, `pip install -r requirements.txt` (sinh từ `uv.lock`), rồi chạy các lệnh trên không kèm `uv run`. Không sửa tay `uv.lock`, `requirements.txt`; nâng phiên bản là việc phải hỏi (mục 6).

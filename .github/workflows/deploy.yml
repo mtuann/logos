@@ -111,6 +111,24 @@ jobs:
         run: uv run --frozen python -m unittest discover -s tests -v
       - name: Kiểm thử JavaScript, trình duyệt, khả năng tiếp cận, tìm kiếm
         run: npm test
+      - name: Cache trình duyệt của Playwright
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+      - name: Cài Chromium cho Playwright
+        run: npx playwright install --with-deps chromium
+      - name: axe trên trình duyệt thật (đo, chưa chặn tới việc 4.3)
+        run: |
+          AXE_REPORT=1 npm run test:real
+          sed -n '1,20p' verification/giao-dien/axe.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Ảnh chụp 10 trang mẫu
+        run: npm run anh
+      - uses: actions/upload-artifact@v7
+        with:
+          name: anh-trang-mau
+          path: site-anh
+          retention-days: 14
       - name: Kích thước
         run: |
           du -sh site

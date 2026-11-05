@@ -147,6 +147,8 @@ for l in lint_terms lint_structure lint_facts lint_quotes; do uv run python tool
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
+npm run test:real                               # axe trên Chromium thật, 10 trang mẫu × 2 cỡ × sáng/tối (Playwright)
+npm run anh                                     # ảnh chụp 10 trang mẫu vào site-anh/ (không commit; CI tải lên artifact)
 ```
 
 Thay đổi cơ học (do script, không được đổi chữ) phải qua kiểm tra tương đương trước khi merge:
