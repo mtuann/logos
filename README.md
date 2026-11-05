@@ -64,7 +64,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
                           registry (đọc content.yml), units (tách đơn vị theo H2, khóa trang.md#id),
                           normalize (chuẩn hóa trên nguồn Markdown), hashing (sha256:…)
-  philpapers-2020.md      số liệu PhilPapers 2020, sinh từ Bảng 1–2 của bài báo chính thức
+  philpapers-2020.md      số liệu PhilPapers 2020 (bản đọc), sinh từ data/kb/philpapers-2020.json bằng kb_philpapers.py
+  kb_philpapers.py        philpapers-2020.md từ JSON; --check (CI); --import-md (chuyển một lần, đợt 2)
 tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
   browser/                jsdom: mở mọi trang đã build qua bộ tải thật; axe-core; tìm kiếm
@@ -72,6 +73,7 @@ tests/
   test_kb_sources.py       tools/kb_sources.py: phân loại, khóa, mọi mục Nguồn có bản ghi
   test_kb_works.py        tools/kb_works.py: mẫu năm, gán tác giả, 159 chỗ như báo cáo nền
   test_kb_quotes.py       tools/kb_quotes.py: tách khối, ghép ngược đúng từng chữ
+  test_kb_philpapers.py   JSON ↔ philpapers-2020.md giống từng byte
   test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
@@ -119,7 +121,7 @@ Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers; do
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu

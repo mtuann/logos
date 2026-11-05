@@ -1,0 +1,3030 @@
+{
+ "source": {
+  "preamble": "# Số liệu PhilPapers Survey 2020 dùng trên site\n\nNguồn: David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\",\n*Philosophers' Imprint* 23 (11), 2023. https://doi.org/10.3998/phimp.2109 —\nbản trực tuyến: https://journals.publishing.umich.edu/phimp/article/id/2109/\nKết quả đầy đủ: https://survey2020.philpeople.org/\n\n- Khảo sát trực tuyến 15/10/2020 – 16/11/2020; 1.785 triết gia chuyên nghiệp hoàn thành khảo sát; 100 câu hỏi\n  (40 câu chính hỏi mọi người; 60 câu bổ sung: mỗi người nhận ngẫu nhiên 10 câu bắt buộc, rồi có thể tự nguyện trả lời\n  thêm — mỗi câu bổ sung có khoảng 300 người được hỏi ngẫu nhiên và khoảng 800 người tự chọn trả lời thêm).\n- Số liệu dưới đây là % người \"chấp nhận hoặc nghiêng về\" (*accept or lean toward*) mỗi lựa chọn,\n  tính \"bao gồm\" (người chọn nhiều đáp án được tính vào mỗi đáp án) — Bảng 1 và Bảng 2 của bài báo.\n  Tổng có thể vượt 100%. Mẫu số không gồm người bỏ qua câu hỏi hoặc chọn \"không đủ quen thuộc với vấn đề\".\n  \"Khác\" gồm: lập trường khác, không có ý kiến, câu hỏi không rõ…\n- Cột \"Loại trừ\": % chỉ tính người chọn *duy nhất* đáp án đó; bài báo chỉ in khi khác số \"bao gồm\" từ 3 điểm trở lên.\n- Câu \"Phương pháp triết học\" và \"Những tâm trí khác\" cho phép chấp nhận hoặc *bác bỏ* từng lựa chọn: ô % ghi \"chấp nhận / bác bỏ\".\n- Kiểm tra lần cuối: 22/10/2026 — mọi con số trong file này được sinh tự động từ Bảng 1–2 của bài báo\n  (bản lưu Wayback Machine ngày 05/10/2026 của trang nhà xuất bản, vì trang gốc chặn truy cập tự động),\n  không chép tay. Chưa có đợt khảo sát mới hơn.\n- \"n ≈\" cạnh mỗi câu: số người trả lời câu đó (đã loại người bỏ qua/\"không đủ quen thuộc\"), tính ngược từ bảng và\n  làm tròn tới hàng chục. Câu chính có n từ khoảng 1.070 đến 1.770; câu bổ sung từ khoảng 430 đến 1.100.\n  Khi viết, dùng đúng n của câu đang trích; đừng gọi câu bổ sung là câu chính và ngược lại.\n- Câu bổ sung có thêm một nguồn sai lệch mà bài báo gọi là *enthusiast bias*: phần lớn người trả lời là người\n  tự nguyện làm thêm, không phải mẫu ngẫu nhiên (bài báo, mục 8). Khi trích, nói rõ đó là câu bổ sung.\n\n",
+  "footer": "\nLưu ý khi dùng: khảo sát diễn ra cuối năm 2020, **trước** khi ChatGPT ra mắt (30/11/2022);\ncâu \"Hệ thống AI hiện tại\" nói về AI của năm 2020.\n"
+ },
+ "questions": [
+  {
+   "id": "tu-do-y-chi",
+   "title_vi": "Tự do ý chí",
+   "table": 1,
+   "n": 1760,
+   "options": [
+    {
+     "id": "tuong-thich-luan",
+     "label_vi": "Tương thích luận",
+     "pct": 59.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuyet-y-chi-tu-do-libertarianism",
+     "label_vi": "Thuyết ý chí tự do (libertarianism)",
+     "pct": 18.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-co-tu-do-y-chi",
+     "label_vi": "Không có tự do ý chí",
+     "pct": 11.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 11.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tam-tri",
+   "title_vi": "Tâm trí",
+   "table": 1,
+   "n": 1730,
+   "options": [
+    {
+     "id": "vat-ly-luan",
+     "label_vi": "Vật lý luận",
+     "pct": 51.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "phi-vat-ly-luan",
+     "label_vi": "Phi vật lý luận",
+     "pct": 32.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 15.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "zombie-triet-hoc",
+   "title_vi": "Zombie triết học",
+   "table": 1,
+   "n": 1610,
+   "options": [
+    {
+     "id": "khong-the-hinh-dung",
+     "label_vi": "Không thể hình dung",
+     "pct": 16.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh",
+     "label_vi": "Hình dung được nhưng không khả hữu (về siêu hình)",
+     "pct": 36.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "kha-huu-ve-sieu-hinh",
+     "label_vi": "Khả hữu về siêu hình",
+     "pct": 24.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 22.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "the-gioi-ben-ngoai",
+   "title_vi": "Thế giới bên ngoài",
+   "table": 1,
+   "n": 1760,
+   "options": [
+    {
+     "id": "duy-tam",
+     "label_vi": "Duy tâm",
+     "pct": 6.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "hoai-nghi",
+     "label_vi": "Hoài nghi",
+     "pct": 5.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuc-tai-luan-phi-hoai-nghi",
+     "label_vi": "Thực tại luận phi hoài nghi",
+     "pct": 79.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 9.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tri-thuc-nguon-goc",
+   "title_vi": "Tri thức (nguồn gốc)",
+   "table": 1,
+   "n": 1720,
+   "options": [
+    {
+     "id": "duy-nghiem-luan",
+     "label_vi": "Duy nghiệm luận",
+     "pct": 43.9,
+     "pct_reject": null,
+     "pct_exclusive": 37.3
+    },
+    {
+     "id": "duy-ly-luan",
+     "label_vi": "Duy lý luận",
+     "pct": 33.5,
+     "pct_reject": null,
+     "pct_exclusive": 26.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 27.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tri-thuc-tien-nghiem-co-khong",
+   "title_vi": "Tri thức tiên nghiệm (có không?)",
+   "table": 1,
+   "n": 1750,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 72.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 18.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 8.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "bien-minh-tri-thuc-epistemic-justification",
+   "title_vi": "Biện minh tri thức (*epistemic justification*)",
+   "table": 1,
+   "n": 1620,
+   "options": [
+    {
+     "id": "noi-tai-luan",
+     "label_vi": "Nội tại luận",
+     "pct": 35.7,
+     "pct_reject": null,
+     "pct_exclusive": 30.4
+    },
+    {
+     "id": "ngoai-tai-luan",
+     "label_vi": "Ngoại tại luận",
+     "pct": 50.5,
+     "pct_reject": null,
+     "pct_exclusive": 45.3
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 18.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "khang-dinh-tri-thuc-knowledge-claims",
+   "title_vi": "Khẳng định tri thức (*knowledge claims*)",
+   "table": 1,
+   "n": 1470,
+   "options": [
+    {
+     "id": "ngu-canh-luan",
+     "label_vi": "Ngữ cảnh luận",
+     "pct": 54.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "tuong-doi-luan",
+     "label_vi": "Tương đối luận",
+     "pct": 5.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "bat-bien-luan-invariantism",
+     "label_vi": "Bất biến luận (*invariantism*)",
+     "pct": 25.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 16.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "phan-biet-phan-tich-tong-hop-co-khong",
+   "title_vi": "Phân biệt phân tích – tổng hợp (có không?)",
+   "table": 1,
+   "n": 1700,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 62.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 25.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 11.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "chan-ly",
+   "title_vi": "Chân lý",
+   "table": 1,
+   "n": 1640,
+   "options": [
+    {
+     "id": "thuyet-tuong-ung-correspondence",
+     "label_vi": "Thuyết tương ứng (*correspondence*)",
+     "pct": 51.4,
+     "pct_reject": null,
+     "pct_exclusive": 48.3
+    },
+    {
+     "id": "thuyet-giam-phat-deflationary",
+     "label_vi": "Thuyết giảm phát (*deflationary*)",
+     "pct": 24.5,
+     "pct_reject": null,
+     "pct_exclusive": 22.2
+    },
+    {
+     "id": "thuyet-tri-thuc-epistemic",
+     "label_vi": "Thuyết tri thức (*epistemic*)",
+     "pct": 10.2,
+     "pct_reject": null,
+     "pct_exclusive": 8.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 16.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "sieu-dao-duc-hoc-meta-ethics",
+   "title_vi": "Siêu đạo đức học (*meta-ethics*)",
+   "table": 1,
+   "n": 1720,
+   "options": [
+    {
+     "id": "hien-thuc-luan-dao-duc-moral-realism",
+     "label_vi": "Hiện thực luận đạo đức (*moral realism*)",
+     "pct": 62.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "phan-hien-thuc-luan-dao-duc",
+     "label_vi": "Phản hiện thực luận đạo đức",
+     "pct": 26.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 11.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "phan-doan-dao-duc",
+   "title_vi": "Phán đoán đạo đức",
+   "table": 1,
+   "n": 1630,
+   "options": [
+    {
+     "id": "thuyet-nhan-thuc-cognitivism",
+     "label_vi": "Thuyết nhận thức (*cognitivism*)",
+     "pct": 69.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuyet-phi-nhan-thuc-non-cognitivism",
+     "label_vi": "Thuyết phi nhận thức (*non-cognitivism*)",
+     "pct": 20.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 10.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "dong-co-dao-duc",
+   "title_vi": "Động cơ đạo đức",
+   "table": 1,
+   "n": 1430,
+   "options": [
+    {
+     "id": "noi-tai-luan",
+     "label_vi": "Nội tại luận",
+     "pct": 41.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "ngoai-tai-luan",
+     "label_vi": "Ngoại tại luận",
+     "pct": 39.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 22.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "dao-duc-hoc-chuan-tac",
+   "title_vi": "Đạo đức học chuẩn tắc",
+   "table": 1,
+   "n": 1740,
+   "options": [
+    {
+     "id": "nghia-vu-luan",
+     "label_vi": "Nghĩa vụ luận",
+     "pct": 32.1,
+     "pct_reject": null,
+     "pct_exclusive": 19.7
+    },
+    {
+     "id": "he-qua-luan",
+     "label_vi": "Hệ quả luận",
+     "pct": 30.6,
+     "pct_reject": null,
+     "pct_exclusive": 21.4
+    },
+    {
+     "id": "dao-duc-hoc-duc-hanh",
+     "label_vi": "Đạo đức học đức hạnh",
+     "pct": 37.0,
+     "pct_reject": null,
+     "pct_exclusive": 25.0
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 18.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "bai-toan-xe-dien-be-ghi",
+   "title_vi": "Bài toán xe điện (bẻ ghi)",
+   "table": 1,
+   "n": 1740,
+   "options": [
+    {
+     "id": "be-ghi",
+     "label_vi": "Bẻ ghi",
+     "pct": 63.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-be",
+     "label_vi": "Không bẻ",
+     "pct": 13.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 23.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "cay-cau-day-nguoi",
+   "title_vi": "Cây cầu (đẩy người)",
+   "table": 1,
+   "n": 1740,
+   "options": [
+    {
+     "id": "day",
+     "label_vi": "Đẩy",
+     "pct": 22.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-day",
+     "label_vi": "Không đẩy",
+     "pct": 56.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 22.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong",
+   "title_vi": "Ăn động vật và sản phẩm động vật (trong hoàn cảnh bình thường)",
+   "table": 1,
+   "n": 1760,
+   "options": [
+    {
+     "id": "an-tap-duoc-an-ca-thit-lan-san-pham-dong-vat",
+     "label_vi": "Ăn tạp (được ăn cả thịt lẫn sản phẩm động vật)",
+     "pct": 48.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "an-chay-khong-an-thit-van-dung-san-pham-dong-vat",
+     "label_vi": "Ăn chay (không ăn thịt, vẫn dùng sản phẩm động vật)",
+     "pct": 26.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuan-chay-khong-ca-hai",
+     "label_vi": "Thuần chay (không cả hai)",
+     "pct": 18.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 9.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "may-trai-nghiem-co-vao-khong",
+   "title_vi": "Máy trải nghiệm (có vào không?)",
+   "table": 1,
+   "n": 1640,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 13.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 76.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 9.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "y-nghia-cuoc-song",
+   "title_vi": "Ý nghĩa cuộc sống",
+   "table": 1,
+   "n": 1730,
+   "options": [
+    {
+     "id": "chu-quan",
+     "label_vi": "Chủ quan",
+     "pct": 33.0,
+     "pct_reject": null,
+     "pct_exclusive": 28.3
+    },
+    {
+     "id": "khach-quan",
+     "label_vi": "Khách quan",
+     "pct": 32.1,
+     "pct_reject": null,
+     "pct_exclusive": 27.6
+    },
+    {
+     "id": "khong-ton-tai",
+     "label_vi": "Không tồn tại",
+     "pct": 16.1,
+     "pct_reject": null,
+     "pct_exclusive": 14.9
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 23.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "gia-tri-tham-my",
+   "title_vi": "Giá trị thẩm mỹ",
+   "table": 1,
+   "n": 1700,
+   "options": [
+    {
+     "id": "khach-quan",
+     "label_vi": "Khách quan",
+     "pct": 43.5,
+     "pct_reject": null,
+     "pct_exclusive": 40.2
+    },
+    {
+     "id": "chu-quan",
+     "label_vi": "Chủ quan",
+     "pct": 40.6,
+     "pct_reject": null,
+     "pct_exclusive": 37.2
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 18.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "thuong-de",
+   "title_vi": "Thượng đế",
+   "table": 1,
+   "n": 1770,
+   "options": [
+    {
+     "id": "huu-than",
+     "label_vi": "Hữu thần",
+     "pct": 18.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "vo-than",
+     "label_vi": "Vô thần",
+     "pct": 66.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 14.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ban-sac-ca-nhan",
+   "title_vi": "Bản sắc cá nhân",
+   "table": 1,
+   "n": 1610,
+   "options": [
+    {
+     "id": "quan-diem-sinh-hoc",
+     "label_vi": "Quan điểm sinh học",
+     "pct": 19.1,
+     "pct_reject": null,
+     "pct_exclusive": 15.6
+    },
+    {
+     "id": "quan-diem-tam-ly",
+     "label_vi": "Quan điểm tâm lý",
+     "pct": 43.7,
+     "pct_reject": null,
+     "pct_exclusive": 39.4
+    },
+    {
+     "id": "quan-diem-su-kien-bo-sung",
+     "label_vi": "Quan điểm \"sự kiện bổ sung\"",
+     "pct": 14.9,
+     "pct_reject": null,
+     "pct_exclusive": 13.4
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 26.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "may-dich-chuyen-vat-chat-moi",
+   "title_vi": "Máy dịch chuyển (vật chất mới)",
+   "table": 1,
+   "n": 1570,
+   "options": [
+    {
+     "id": "song-sot",
+     "label_vi": "Sống sót",
+     "pct": 35.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "chet",
+     "label_vi": "Chết",
+     "pct": 40.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 24.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "doi-tuong-truu-tuong",
+   "title_vi": "Đối tượng trừu tượng",
+   "table": 1,
+   "n": 1640,
+   "options": [
+    {
+     "id": "thuyet-platon-platonism",
+     "label_vi": "Thuyết Platon (*Platonism*)",
+     "pct": 38.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "duy-danh-luan-nominalism",
+     "label_vi": "Duy danh luận (*nominalism*)",
+     "pct": 41.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 19.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "quy-luat-tu-nhien",
+   "title_vi": "Quy luật tự nhiên",
+   "table": 1,
+   "n": 1550,
+   "options": [
+    {
+     "id": "kieu-hume-quy-luat-chi-tom-tat-cac-khuon-mau-deu-dan",
+     "label_vi": "Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn)",
+     "pct": 31.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "phi-hume",
+     "label_vi": "Phi Hume",
+     "pct": 54.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 14.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "thoi-gian",
+   "title_vi": "Thời gian",
+   "table": 1,
+   "n": 1120,
+   "options": [
+    {
+     "id": "thuyet-a",
+     "label_vi": "Thuyết A",
+     "pct": 27.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuyet-b",
+     "label_vi": "Thuyết B",
+     "pct": 38.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 36.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "khoa-hoc",
+   "title_vi": "Khoa học",
+   "table": 1,
+   "n": 1690,
+   "options": [
+    {
+     "id": "hien-thuc-luan-khoa-hoc",
+     "label_vi": "Hiện thực luận khoa học",
+     "pct": 72.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "phan-hien-thuc-luan-khoa-hoc",
+     "label_vi": "Phản hiện thực luận khoa học",
+     "pct": 15.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 12.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "logic",
+   "title_vi": "Logic",
+   "table": 1,
+   "n": 1420,
+   "options": [
+    {
+     "id": "co-dien",
+     "label_vi": "Cổ điển",
+     "pct": 53.6,
+     "pct_reject": null,
+     "pct_exclusive": 48.7
+    },
+    {
+     "id": "phi-co-dien",
+     "label_vi": "Phi cổ điển",
+     "pct": 26.4,
+     "pct_reject": null,
+     "pct_exclusive": 21.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 24.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "triet-hoc-chinh-tri",
+   "title_vi": "Triết học chính trị",
+   "table": 1,
+   "n": 1540,
+   "options": [
+    {
+     "id": "cong-dong-luan",
+     "label_vi": "Cộng đồng luận",
+     "pct": 27.3,
+     "pct_reject": null,
+     "pct_exclusive": 22.1
+    },
+    {
+     "id": "chu-nghia-binh-dang-egalitarianism",
+     "label_vi": "Chủ nghĩa bình đẳng (*egalitarianism*)",
+     "pct": 44.0,
+     "pct_reject": null,
+     "pct_exclusive": 38.3
+    },
+    {
+     "id": "chu-nghia-tu-do-ca-nhan-libertarianism",
+     "label_vi": "Chủ nghĩa tự do cá nhân (*libertarianism*)",
+     "pct": 13.4,
+     "pct_reject": null,
+     "pct_exclusive": 10.3
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 20.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "gioi-gender-thuoc-loai-gi",
+   "title_vi": "Giới (*gender*) thuộc loại gì?",
+   "table": 1,
+   "n": 1650,
+   "options": [
+    {
+     "id": "sinh-hoc",
+     "label_vi": "Sinh học",
+     "pct": 29.0,
+     "pct_reject": null,
+     "pct_exclusive": 15.1
+    },
+    {
+     "id": "tam-ly",
+     "label_vi": "Tâm lý",
+     "pct": 21.5,
+     "pct_reject": null,
+     "pct_exclusive": 4.3
+    },
+    {
+     "id": "xa-hoi",
+     "label_vi": "Xã hội",
+     "pct": 63.1,
+     "pct_reject": null,
+     "pct_exclusive": 43.0
+    },
+    {
+     "id": "khong-co-that",
+     "label_vi": "Không có thật",
+     "pct": 4.2,
+     "pct_reject": null,
+     "pct_exclusive": 1.6
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 14.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "chung-toc-thuoc-loai-gi",
+   "title_vi": "Chủng tộc thuộc loại gì?",
+   "table": 1,
+   "n": 1650,
+   "options": [
+    {
+     "id": "sinh-hoc",
+     "label_vi": "Sinh học",
+     "pct": 18.7,
+     "pct_reject": null,
+     "pct_exclusive": 11.5
+    },
+    {
+     "id": "xa-hoi",
+     "label_vi": "Xã hội",
+     "pct": 63.4,
+     "pct_reject": null,
+     "pct_exclusive": 52.8
+    },
+    {
+     "id": "khong-co-that",
+     "label_vi": "Không có thật",
+     "pct": 15.0,
+     "pct_reject": null,
+     "pct_exclusive": 11.4
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 13.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ten-rieng",
+   "title_vi": "Tên riêng",
+   "table": 1,
+   "n": 1270,
+   "options": [
+    {
+     "id": "kieu-frege",
+     "label_vi": "Kiểu Frege",
+     "pct": 36.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "kieu-mill",
+     "label_vi": "Kiểu Mill",
+     "pct": 38.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 25.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "noi-dung-tam-tri",
+   "title_vi": "Nội dung tâm trí",
+   "table": 1,
+   "n": 1510,
+   "options": [
+    {
+     "id": "noi-tai-luan",
+     "label_vi": "Nội tại luận",
+     "pct": 26.4,
+     "pct_reject": null,
+     "pct_exclusive": 21.9
+    },
+    {
+     "id": "ngoai-tai-luan",
+     "label_vi": "Ngoại tại luận",
+     "pct": 58.1,
+     "pct_reject": null,
+     "pct_exclusive": 53.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 19.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "trai-nghiem-tri-giac",
+   "title_vi": "Trải nghiệm tri giác",
+   "table": 1,
+   "n": 1320,
+   "options": [
+    {
+     "id": "tuyen-luan-disjunctivism",
+     "label_vi": "Tuyển luận (*disjunctivism*)",
+     "pct": 15.6,
+     "pct_reject": null,
+     "pct_exclusive": 13.8
+    },
+    {
+     "id": "thuyet-qualia",
+     "label_vi": "Thuyết qualia",
+     "pct": 15.1,
+     "pct_reject": null,
+     "pct_exclusive": 13.3
+    },
+    {
+     "id": "thuyet-bieu-hien-representationalism",
+     "label_vi": "Thuyết biểu hiện (*representationalism*)",
+     "pct": 39.3,
+     "pct_reject": null,
+     "pct_exclusive": 36.1
+    },
+    {
+     "id": "thuyet-du-lieu-giac-quan",
+     "label_vi": "Thuyết dữ liệu giác quan",
+     "pct": 5.0,
+     "pct_reject": null,
+     "pct_exclusive": 3.9
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 28.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tinh-mo-ho-bat-nguon-tu-dau",
+   "title_vi": "Tính mơ hồ (bắt nguồn từ đâu?)",
+   "table": 1,
+   "n": 1430,
+   "options": [
+    {
+     "id": "tri-thuc-o-cho-ta-khong-biet",
+     "label_vi": "Tri thức (ở chỗ ta không biết)",
+     "pct": 24.2,
+     "pct_reject": null,
+     "pct_exclusive": 16.3
+    },
+    {
+     "id": "sieu-hinh-o-chinh-su-vat",
+     "label_vi": "Siêu hình (ở chính sự vật)",
+     "pct": 20.8,
+     "pct_reject": null,
+     "pct_exclusive": 15.2
+    },
+    {
+     "id": "ngu-nghia-o-ngon-tu",
+     "label_vi": "Ngữ nghĩa (ở ngôn từ)",
+     "pct": 52.1,
+     "pct_reject": null,
+     "pct_exclusive": 42.6
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 15.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "bai-toan-newcomb",
+   "title_vi": "Bài toán Newcomb",
+   "table": 1,
+   "n": 1070,
+   "options": [
+    {
+     "id": "lay-mot-hop",
+     "label_vi": "Lấy một hộp",
+     "pct": 31.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "lay-hai-hop",
+     "label_vi": "Lấy hai hộp",
+     "pct": 39.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 30.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "sieu-triet-hoc",
+   "title_vi": "Siêu triết học",
+   "table": 1,
+   "n": 1550,
+   "options": [
+    {
+     "id": "tu-nhien-luan",
+     "label_vi": "Tự nhiên luận",
+     "pct": 50.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "phi-tu-nhien-luan",
+     "label_vi": "Phi tự nhiên luận",
+     "pct": 31.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 19.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "muc-dich-cua-triet-hoc-dieu-gi-quan-trong-nhat",
+   "title_vi": "Mục đích của triết học (điều gì quan trọng nhất?)",
+   "table": 1,
+   "n": 1770,
+   "options": [
+    {
+     "id": "chan-ly-tri-thuc",
+     "label_vi": "Chân lý/tri thức",
+     "pct": 42.2,
+     "pct_reject": null,
+     "pct_exclusive": 17.7
+    },
+    {
+     "id": "thau-hieu",
+     "label_vi": "Thấu hiểu",
+     "pct": 55.8,
+     "pct_reject": null,
+     "pct_exclusive": 29.6
+    },
+    {
+     "id": "minh-triet",
+     "label_vi": "Minh triết",
+     "pct": 31.2,
+     "pct_reject": null,
+     "pct_exclusive": 10.1
+    },
+    {
+     "id": "hanh-phuc",
+     "label_vi": "Hạnh phúc",
+     "pct": 12.6,
+     "pct_reject": null,
+     "pct_exclusive": 1.4
+    },
+    {
+     "id": "dieu-thien-cong-ly",
+     "label_vi": "Điều thiện/công lý",
+     "pct": 22.7,
+     "pct_reject": null,
+     "pct_exclusive": 3.1
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 10.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tien-bo-triet-hoc-co-khong",
+   "title_vi": "Tiến bộ triết học (có không?)",
+   "table": 1,
+   "n": 1770,
+   "options": [
+    {
+     "id": "khong-co",
+     "label_vi": "Không có",
+     "pct": 3.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "mot-it",
+     "label_vi": "Một ít",
+     "pct": 46.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "nhieu",
+     "label_vi": "Nhiều",
+     "pct": 41.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 8.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "phuong-phap-triet-hoc-huu-ich-nhat-chap-nhan-bac-bo",
+   "title_vi": "Phương pháp triết học hữu ích nhất (chấp nhận / bác bỏ)",
+   "table": 1,
+   "n": 1730,
+   "options": [
+    {
+     "id": "phan-tich-khai-niem",
+     "label_vi": "Phân tích khái niệm",
+     "pct": 70.9,
+     "pct_reject": 11.6,
+     "pct_exclusive": null
+    },
+    {
+     "id": "kien-tao-khai-niem",
+     "label_vi": "Kiến tạo khái niệm",
+     "pct": 39.5,
+     "pct_reject": 20.6,
+     "pct_exclusive": null
+    },
+    {
+     "id": "triet-hoc-dua-tren-khoa-hoc-thuc-nghiem",
+     "label_vi": "Triết học dựa trên khoa học thực nghiệm",
+     "pct": 60.0,
+     "pct_reject": 14.5,
+     "pct_exclusive": null
+    },
+    {
+     "id": "triet-hoc-thu-nghiem-experimental-philosophy",
+     "label_vi": "Triết học thử nghiệm (*experimental philosophy*)",
+     "pct": 32.6,
+     "pct_reject": 35.9,
+     "pct_exclusive": null
+    },
+    {
+     "id": "triet-hoc-hinh-thuc",
+     "label_vi": "Triết học hình thức",
+     "pct": 55.5,
+     "pct_reject": 12.9,
+     "pct_exclusive": null
+    },
+    {
+     "id": "triet-hoc-dua-tren-truc-giac",
+     "label_vi": "Triết học dựa trên trực giác",
+     "pct": 49.5,
+     "pct_reject": 29.0,
+     "pct_exclusive": null
+    },
+    {
+     "id": "triet-hoc-ngon-ngu",
+     "label_vi": "Triết học ngôn ngữ",
+     "pct": 46.2,
+     "pct_reject": 21.5,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "phan-tich-khai-niem-tri-thuc",
+   "title_vi": "Phân tích khái niệm tri thức",
+   "table": 2,
+   "n": 1020,
+   "options": [
+    {
+     "id": "niem-tin-dung-duoc-bien-minh-jtb",
+     "label_vi": "Niềm tin đúng được biện minh (JTB)",
+     "pct": 23.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "mot-phan-tich-khac",
+     "label_vi": "Một phân tích khác",
+     "pct": 32.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-co-phan-tich-nao",
+     "label_vi": "Không có phân tích nào",
+     "pct": 30.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 13.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat",
+   "title_vi": "Đáp lại hoài nghi về thế giới bên ngoài (mạnh nhất?)",
+   "table": 2,
+   "n": 930,
+   "options": [
+    {
+     "id": "suy-luan-den-loi-giai-thich-tot-nhat",
+     "label_vi": "Suy luận đến lời giải thích tốt nhất",
+     "pct": 22.1,
+     "pct_reject": null,
+     "pct_exclusive": 17.2
+    },
+    {
+     "id": "ngu-canh-luan",
+     "label_vi": "Ngữ cảnh luận",
+     "pct": 10.7,
+     "pct_reject": null,
+     "pct_exclusive": 7.7
+    },
+    {
+     "id": "giao-dieu-luan-dogmatist",
+     "label_vi": "Giáo điều luận (*dogmatist*)",
+     "pct": 13.4,
+     "pct_reject": null,
+     "pct_exclusive": 10.1
+    },
+    {
+     "id": "ngoai-tai-luan-tri-thuc",
+     "label_vi": "Ngoại tại luận tri thức",
+     "pct": 18.9,
+     "pct_reject": null,
+     "pct_exclusive": 14.6
+    },
+    {
+     "id": "ngoai-tai-luan-ngu-nghia",
+     "label_vi": "Ngoại tại luận ngữ nghĩa",
+     "pct": 8.4,
+     "pct_reject": null,
+     "pct_exclusive": 5.4
+    },
+    {
+     "id": "thuc-dung",
+     "label_vi": "Thực dụng",
+     "pct": 22.8,
+     "pct_reject": null,
+     "pct_exclusive": 18.3
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 17.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "cau-truc-cua-su-bien-minh",
+   "title_vi": "Cấu trúc của sự biện minh",
+   "table": 2,
+   "n": 950,
+   "options": [
+    {
+     "id": "mach-lac-luan-coherentism",
+     "label_vi": "Mạch lạc luận (*coherentism*)",
+     "pct": 23.7,
+     "pct_reject": null,
+     "pct_exclusive": 19.2
+    },
+    {
+     "id": "vo-han-luan-infinitism",
+     "label_vi": "Vô hạn luận (*infinitism*)",
+     "pct": 2.0,
+     "pct_reject": null,
+     "pct_exclusive": 1.5
+    },
+    {
+     "id": "nen-tang-luan-khong-theo-thuyet-tin-cay",
+     "label_vi": "Nền tảng luận (không theo thuyết tin cậy)",
+     "pct": 25.2,
+     "pct_reject": null,
+     "pct_exclusive": 21.8
+    },
+    {
+     "id": "thuyet-tin-cay",
+     "label_vi": "Thuyết tin cậy",
+     "pct": 33.6,
+     "pct_reject": null,
+     "pct_exclusive": 28.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 21.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma",
+   "title_vi": "Bất đồng hợp lý (hai người cùng bằng chứng có thể bất đồng mà vẫn hợp lý?)",
+   "table": 2,
+   "n": 990,
+   "options": [
+    {
+     "id": "khong-the-non-permissivism",
+     "label_vi": "Không thể (*non-permissivism*)",
+     "pct": 19.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "co-the-permissivism",
+     "label_vi": "Có thể (*permissivism*)",
+     "pct": 70.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 10.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "niem-tin-hay-do-tin-cai-nao-co-ban-hon",
+   "title_vi": "Niềm tin hay độ tin (cái nào cơ bản hơn?)",
+   "table": 2,
+   "n": 770,
+   "options": [
+    {
+     "id": "niem-tin",
+     "label_vi": "Niềm tin",
+     "pct": 30.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "do-tin-credence",
+     "label_vi": "Độ tin (*credence*)",
+     "pct": 31.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-cai-nao",
+     "label_vi": "Không cái nào",
+     "pct": 19.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 19.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "can-phong-tieng-trung",
+   "title_vi": "Căn phòng tiếng Trung",
+   "table": 2,
+   "n": 1030,
+   "options": [
+    {
+     "id": "hieu",
+     "label_vi": "Hiểu",
+     "pct": 17.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-hieu",
+     "label_vi": "Không hiểu",
+     "pct": 67.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 14.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "van-de-kho-cua-y-thuc-co-ton-tai-khong",
+   "title_vi": "Vấn đề khó của ý thức (có tồn tại không?)",
+   "table": 2,
+   "n": 1000,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 62.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 29.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 7.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "y-thuc-ly-thuyet",
+   "title_vi": "Ý thức (lý thuyết)",
+   "table": 2,
+   "n": 1020,
+   "options": [
+    {
+     "id": "nhi-nguyen-luan",
+     "label_vi": "Nhị nguyên luận",
+     "pct": 22.0,
+     "pct_reject": null,
+     "pct_exclusive": 20.0
+    },
+    {
+     "id": "loai-tru-luan",
+     "label_vi": "Loại trừ luận",
+     "pct": 4.5,
+     "pct_reject": null,
+     "pct_exclusive": 3.8
+    },
+    {
+     "id": "chu-nghia-chuc-nang",
+     "label_vi": "Chủ nghĩa chức năng",
+     "pct": 33.0,
+     "pct_reject": null,
+     "pct_exclusive": 29.5
+    },
+    {
+     "id": "thuyet-dong-nhat",
+     "label_vi": "Thuyết đồng nhất",
+     "pct": 13.3,
+     "pct_reject": null,
+     "pct_exclusive": 11.5
+    },
+    {
+     "id": "toan-tam-luan-panpsychism",
+     "label_vi": "Toàn tâm luận (*panpsychism*)",
+     "pct": 7.5,
+     "pct_reject": null,
+     "pct_exclusive": 6.1
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 22.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so",
+   "title_vi": "Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)",
+   "table": 2,
+   "n": 1020,
+   "options": [
+    {
+     "id": "song-sot",
+     "label_vi": "Sống sót",
+     "pct": 27.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "chet",
+     "label_vi": "Chết",
+     "pct": 54.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 18.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tam-tri-mo-rong-co-khong",
+   "title_vi": "Tâm trí mở rộng (có không?)",
+   "table": 2,
+   "n": 950,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 51.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 37.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 11.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha",
+   "title_vi": "Những tâm trí khác — nhóm nào có thành viên có ý thức? (chấp nhận / bác bỏ)",
+   "table": 2,
+   "n": 1090,
+   "options": [
+    {
+     "id": "nguoi-truong-thanh",
+     "label_vi": "Người trưởng thành",
+     "pct": 95.1,
+     "pct_reject": 0.2,
+     "pct_exclusive": null
+    },
+    {
+     "id": "meo",
+     "label_vi": "Mèo",
+     "pct": 88.6,
+     "pct_reject": 3.9,
+     "pct_exclusive": null
+    },
+    {
+     "id": "ca",
+     "label_vi": "Cá",
+     "pct": 65.3,
+     "pct_reject": 14.7,
+     "pct_exclusive": null
+    },
+    {
+     "id": "ruoi",
+     "label_vi": "Ruồi",
+     "pct": 34.5,
+     "pct_reject": 38.4,
+     "pct_exclusive": null
+    },
+    {
+     "id": "giun",
+     "label_vi": "Giun",
+     "pct": 24.2,
+     "pct_reject": 46.6,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuc-vat",
+     "label_vi": "Thực vật",
+     "pct": 7.2,
+     "pct_reject": 79.7,
+     "pct_exclusive": null
+    },
+    {
+     "id": "hat-co-ban",
+     "label_vi": "Hạt cơ bản",
+     "pct": 2.0,
+     "pct_reject": 89.1,
+     "pct_exclusive": null
+    },
+    {
+     "id": "tre-so-sinh",
+     "label_vi": "Trẻ sơ sinh",
+     "pct": 84.3,
+     "pct_reject": 4.9,
+     "pct_exclusive": null
+    },
+    {
+     "id": "he-thong-ai-hien-tai-nam-2020",
+     "label_vi": "Hệ thống AI hiện tại (năm 2020)",
+     "pct": 3.4,
+     "pct_reject": 82.4,
+     "pct_exclusive": null
+    },
+    {
+     "id": "he-thong-ai-tuong-lai",
+     "label_vi": "Hệ thống AI tương lai",
+     "pct": 39.2,
+     "pct_reject": 26.8,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ban-chat-cua-dao-duc",
+   "title_vi": "Bản chất của đạo đức",
+   "table": 2,
+   "n": 1030,
+   "options": [
+    {
+     "id": "phi-tu-nhien-luan",
+     "label_vi": "Phi tự nhiên luận",
+     "pct": 26.6,
+     "pct_reject": null,
+     "pct_exclusive": 24.2
+    },
+    {
+     "id": "hien-thuc-luan-tu-nhien",
+     "label_vi": "Hiện thực luận tự nhiên",
+     "pct": 31.6,
+     "pct_reject": null,
+     "pct_exclusive": 28.1
+    },
+    {
+     "id": "kien-tao-luan",
+     "label_vi": "Kiến tạo luận",
+     "pct": 20.8,
+     "pct_reject": null,
+     "pct_exclusive": 17.7
+    },
+    {
+     "id": "bieu-cam-luan-expressivism",
+     "label_vi": "Biểu cảm luận (*expressivism*)",
+     "pct": 10.6,
+     "pct_reject": null,
+     "pct_exclusive": 8.2
+    },
+    {
+     "id": "thuyet-sai-lam-error-theory",
+     "label_vi": "Thuyết sai lầm (*error theory*)",
+     "pct": 5.3,
+     "pct_reject": null,
+     "pct_exclusive": 3.9
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 11.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "nguyen-tac-dao-duc",
+   "title_vi": "Nguyên tắc đạo đức",
+   "table": 2,
+   "n": 980,
+   "options": [
+    {
+     "id": "pho-quat-luan-dao-duc-generalism",
+     "label_vi": "Phổ quát luận đạo đức (*generalism*)",
+     "pct": 54.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "dac-thu-luan-dao-duc-particularism",
+     "label_vi": "Đặc thù luận đạo đức (*particularism*)",
+     "pct": 33.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 12.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ly-tri-thuc-tien",
+   "title_vi": "Lý trí thực tiễn",
+   "table": 2,
+   "n": 890,
+   "options": [
+    {
+     "id": "kieu-aristotle",
+     "label_vi": "Kiểu Aristotle",
+     "pct": 38.7,
+     "pct_reject": null,
+     "pct_exclusive": 34.3
+    },
+    {
+     "id": "kieu-hume",
+     "label_vi": "Kiểu Hume",
+     "pct": 30.6,
+     "pct_reject": null,
+     "pct_exclusive": 28.3
+    },
+    {
+     "id": "kieu-kant",
+     "label_vi": "Kiểu Kant",
+     "pct": 18.9,
+     "pct_reject": null,
+     "pct_exclusive": 15.9
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 16.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "phai-keo-theo-co-the-ought-implies-can",
+   "title_vi": "\"Phải\" kéo theo \"có thể\" (*ought implies can*)",
+   "table": 2,
+   "n": 1080,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 62.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 28.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 9.0,
+     "pct_reject": null,
+     "pct_exclusive": null,
+     "raw": {
+      "pct": "9"
+     }
+    }
+   ]
+  },
+  {
+   "id": "phuc-loi-well-being",
+   "title_vi": "Phúc lợi (*well-being*)",
+   "table": 2,
+   "n": 970,
+   "options": [
+    {
+     "id": "khoai-lac-trai-nghiem",
+     "label_vi": "Khoái lạc/trải nghiệm",
+     "pct": 12.7,
+     "pct_reject": null,
+     "pct_exclusive": 10.1
+    },
+    {
+     "id": "thoa-man-uoc-muon",
+     "label_vi": "Thỏa mãn ước muốn",
+     "pct": 18.6,
+     "pct_reject": null,
+     "pct_exclusive": 15.1
+    },
+    {
+     "id": "danh-sach-khach-quan",
+     "label_vi": "Danh sách khách quan",
+     "pct": 53.2,
+     "pct_reject": null,
+     "pct_exclusive": 49.9
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 20.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "bat-tu-ban-co-chon-khong",
+   "title_vi": "Bất tử (bạn có chọn không?)",
+   "table": 2,
+   "n": 1110,
+   "options": [
+    {
+     "id": "co",
+     "label_vi": "Có",
+     "pct": 44.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong",
+     "label_vi": "Không",
+     "pct": 41.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 13.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet",
+   "title_vi": "Phá thai (ba tháng đầu, không có hoàn cảnh đặc biệt)",
+   "table": 2,
+   "n": 1120,
+   "options": [
+    {
+     "id": "duoc-phep",
+     "label_vi": "Được phép",
+     "pct": 81.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-duoc-phep",
+     "label_vi": "Không được phép",
+     "pct": 13.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 5.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "an-tu-hinh",
+   "title_vi": "Án tử hình",
+   "table": 2,
+   "n": 1120,
+   "options": [
+    {
+     "id": "duoc-phep",
+     "label_vi": "Được phép",
+     "pct": 17.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-duoc-phep",
+     "label_vi": "Không được phép",
+     "pct": 75.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 7.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ky-thuat-di-truyen-tren-nguoi",
+   "title_vi": "Kỹ thuật di truyền trên người",
+   "table": 2,
+   "n": 1060,
+   "options": [
+    {
+     "id": "duoc-phep",
+     "label_vi": "Được phép",
+     "pct": 64.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-duoc-phep",
+     "label_vi": "Không được phép",
+     "pct": 19.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 16.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "dao-duc-moi-truong",
+   "title_vi": "Đạo đức môi trường",
+   "table": 2,
+   "n": 890,
+   "options": [
+    {
+     "id": "lay-con-nguoi-lam-trung-tam",
+     "label_vi": "Lấy con người làm trung tâm",
+     "pct": 42.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-lay-con-nguoi-lam-trung-tam",
+     "label_vi": "Không lấy con người làm trung tâm",
+     "pct": 50.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 8.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "chinh-tri-kinh-te",
+   "title_vi": "Chính trị – kinh tế",
+   "table": 2,
+   "n": 1090,
+   "options": [
+    {
+     "id": "chu-nghia-tu-ban",
+     "label_vi": "Chủ nghĩa tư bản",
+     "pct": 29.5,
+     "pct_reject": null,
+     "pct_exclusive": 26.1
+    },
+    {
+     "id": "chu-nghia-xa-hoi",
+     "label_vi": "Chủ nghĩa xã hội",
+     "pct": 53.0,
+     "pct_reject": null,
+     "pct_exclusive": 48.6
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 19.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "phuong-phap-triet-hoc-chinh-tri",
+   "title_vi": "Phương pháp triết học chính trị",
+   "table": 2,
+   "n": 790,
+   "options": [
+    {
+     "id": "ly-thuyet-ly-tuong",
+     "label_vi": "Lý thuyết lý tưởng",
+     "pct": 32.4,
+     "pct_reject": null,
+     "pct_exclusive": 22.4
+    },
+    {
+     "id": "ly-thuyet-phi-ly-tuong",
+     "label_vi": "Lý thuyết phi lý tưởng",
+     "pct": 58.0,
+     "pct_reject": null,
+     "pct_exclusive": 48.0,
+     "raw": {
+      "pct": "58",
+      "pct_exclusive": "48"
+     }
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 18.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "luat-phap",
+   "title_vi": "Luật pháp",
+   "table": 2,
+   "n": 620,
+   "options": [
+    {
+     "id": "thuc-chung-luan-phap-ly",
+     "label_vi": "Thực chứng luận pháp lý",
+     "pct": 39.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "phi-thuc-chung-luan-phap-ly",
+     "label_vi": "Phi thực chứng luận pháp lý",
+     "pct": 45.0,
+     "pct_reject": null,
+     "pct_exclusive": null,
+     "raw": {
+      "pct": "45"
+     }
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 16.0,
+     "pct_reject": null,
+     "pct_exclusive": null,
+     "raw": {
+      "pct": "16"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pham-tru-gioi-nen-lam-gi-voi-chung",
+   "title_vi": "Phạm trù giới (nên làm gì với chúng?)",
+   "table": 2,
+   "n": 980,
+   "options": [
+    {
+     "id": "giu-nguyen",
+     "label_vi": "Giữ nguyên",
+     "pct": 20.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "sua-doi",
+     "label_vi": "Sửa đổi",
+     "pct": 50.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "loai-bo",
+     "label_vi": "Loại bỏ",
+     "pct": 16.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 15.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "pham-tru-chung-toc-nen-lam-gi-voi-chung",
+   "title_vi": "Phạm trù chủng tộc (nên làm gì với chúng?)",
+   "table": 2,
+   "n": 940,
+   "options": [
+    {
+     "id": "giu-nguyen",
+     "label_vi": "Giữ nguyên",
+     "pct": 8.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "sua-doi",
+     "label_vi": "Sửa đổi",
+     "pct": 32.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "loai-bo",
+     "label_vi": "Loại bỏ",
+     "pct": 40.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 20.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "trai-nghiem-tham-my",
+   "title_vi": "Trải nghiệm thẩm mỹ",
+   "table": 2,
+   "n": 690,
+   "options": [
+    {
+     "id": "tri-giac",
+     "label_vi": "Tri giác",
+     "pct": 28.2,
+     "pct_reject": null,
+     "pct_exclusive": 25.0
+    },
+    {
+     "id": "khoai-cam",
+     "label_vi": "Khoái cảm",
+     "pct": 14.2,
+     "pct_reject": null,
+     "pct_exclusive": 11.1
+    },
+    {
+     "id": "dac-thu-rieng-sui-generis",
+     "label_vi": "Đặc thù riêng (*sui generis*)",
+     "pct": 37.2,
+     "pct_reject": null,
+     "pct_exclusive": 35.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 24.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat",
+   "title_vi": "Luận chứng cho sự tồn tại của Thượng đế (mạnh nhất?)",
+   "table": 2,
+   "n": 1020,
+   "options": [
+    {
+     "id": "vu-tru-luan",
+     "label_vi": "Vũ trụ luận",
+     "pct": 20.9,
+     "pct_reject": null,
+     "pct_exclusive": 16.6
+    },
+    {
+     "id": "thiet-ke-muc-dich-luan",
+     "label_vi": "Thiết kế (mục đích luận)",
+     "pct": 17.7,
+     "pct_reject": null,
+     "pct_exclusive": 13.9
+    },
+    {
+     "id": "ban-the-luan",
+     "label_vi": "Bản thể luận",
+     "pct": 8.9,
+     "pct_reject": null,
+     "pct_exclusive": 6.8
+    },
+    {
+     "id": "thuc-dung",
+     "label_vi": "Thực dụng",
+     "pct": 14.2,
+     "pct_reject": null,
+     "pct_exclusive": 11.6
+    },
+    {
+     "id": "dao-duc",
+     "label_vi": "Đạo đức",
+     "pct": 9.4,
+     "pct_reject": null,
+     "pct_exclusive": 6.3
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 25.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tinh-chinh-vu-tru-giai-thich-bang-gi",
+   "title_vi": "Tinh chỉnh vũ trụ (giải thích bằng gì?)",
+   "table": 2,
+   "n": 810,
+   "options": [
+    {
+     "id": "thiet-ke",
+     "label_vi": "Thiết kế",
+     "pct": 17.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "da-vu-tru",
+     "label_vi": "Đa vũ trụ",
+     "pct": 15.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "su-that-tran-trui-khong-can-giai-thich",
+     "label_vi": "Sự thật trần trụi (không cần giải thích)",
+     "pct": 32.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-co-tinh-chinh",
+     "label_vi": "Không có tinh chỉnh",
+     "pct": 21.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 17.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "nguyen-ly-ly-do-day-du",
+   "title_vi": "Nguyên lý lý do đầy đủ",
+   "table": 2,
+   "n": 940,
+   "options": [
+    {
+     "id": "dung",
+     "label_vi": "Đúng",
+     "pct": 35.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "sai",
+     "label_vi": "Sai",
+     "pct": 45.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 18.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "nhan-qua",
+   "title_vi": "Nhân quả",
+   "table": 2,
+   "n": 890,
+   "options": [
+    {
+     "id": "phan-thuc-tao-khac-biet",
+     "label_vi": "Phản thực / tạo khác biệt",
+     "pct": 37.2,
+     "pct_reject": null,
+     "pct_exclusive": 33.4
+    },
+    {
+     "id": "qua-trinh-san-sinh",
+     "label_vi": "Quá trình / sản sinh",
+     "pct": 22.5,
+     "pct_reject": null,
+     "pct_exclusive": 18.7
+    },
+    {
+     "id": "nguyen-thuy-khong-phan-tich-duoc",
+     "label_vi": "Nguyên thủy (không phân tích được)",
+     "pct": 20.5,
+     "pct_reject": null,
+     "pct_exclusive": 18.9
+    },
+    {
+     "id": "khong-ton-tai",
+     "label_vi": "Không tồn tại",
+     "pct": 4.1,
+     "pct_reject": null,
+     "pct_exclusive": 3.8
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 20.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tinh-chat-properties",
+   "title_vi": "Tính chất (*properties*)",
+   "table": 2,
+   "n": 780,
+   "options": [
+    {
+     "id": "lop-tap-hop",
+     "label_vi": "Lớp (tập hợp)",
+     "pct": 11.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "pho-quat-noi-tai-kieu-aristotle",
+     "label_vi": "Phổ quát nội tại (kiểu Aristotle)",
+     "pct": 20.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "pho-quat-sieu-viet-kieu-platon",
+     "label_vi": "Phổ quát siêu việt (kiểu Platon)",
+     "pct": 19.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "trope-tinh-chat-ca-biet",
+     "label_vi": "Trope (tính chất cá biệt)",
+     "pct": 15.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-ton-tai",
+     "label_vi": "Không tồn tại",
+     "pct": 8.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 29.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat",
+   "title_vi": "Cấu thành vật chất (khi nào nhiều vật hợp thành một vật?)",
+   "table": 2,
+   "n": 570,
+   "options": [
+    {
+     "id": "khong-bao-gio-hu-vo-luan",
+     "label_vi": "Không bao giờ (hư vô luận)",
+     "pct": 8.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "doi-khi-han-che-luan",
+     "label_vi": "Đôi khi (hạn chế luận)",
+     "pct": 35.0,
+     "pct_reject": null,
+     "pct_exclusive": null,
+     "raw": {
+      "pct": "35"
+     }
+    },
+    {
+     "id": "luon-luon-pho-bien-luan",
+     "label_vi": "Luôn luôn (phổ biến luận)",
+     "pct": 27.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 30.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "buc-tuong-va-khoi-dat-set",
+   "title_vi": "Bức tượng và khối đất sét",
+   "table": 2,
+   "n": 960,
+   "options": [
+    {
+     "id": "mot-vat",
+     "label_vi": "Một vật",
+     "pct": 30.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "hai-vat",
+     "label_vi": "Hai vật",
+     "pct": 41.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 28.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "the-gioi-kha-huu",
+   "title_vi": "Thế giới khả hữu",
+   "table": 2,
+   "n": 1060,
+   "options": [
+    {
+     "id": "truu-tuong",
+     "label_vi": "Trừu tượng",
+     "pct": 54.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "cu-the",
+     "label_vi": "Cụ thể",
+     "pct": 4.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khong-ton-tai",
+     "label_vi": "Không tồn tại",
+     "pct": 30.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 10.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ban-the-luan-thoi-gian",
+   "title_vi": "Bản thể luận thời gian",
+   "table": 2,
+   "n": 730,
+   "options": [
+    {
+     "id": "hien-tai-luan",
+     "label_vi": "Hiện tại luận",
+     "pct": 18.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "vinh-cuu-luan",
+     "label_vi": "Vĩnh cửu luận",
+     "pct": 39.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "thuyet-khoi-dang-lon",
+     "label_vi": "Thuyết khối đang lớn",
+     "pct": 17.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 24.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "du-hanh-thoi-gian",
+   "title_vi": "Du hành thời gian",
+   "table": 2,
+   "n": 950,
+   "options": [
+    {
+     "id": "kha-huu-ve-sieu-hinh",
+     "label_vi": "Khả hữu về siêu hình",
+     "pct": 42.3,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "bat-kha-ve-sieu-hinh",
+     "label_vi": "Bất khả về siêu hình",
+     "pct": 41.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 16.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "co-hoc-luong-tu-dien-giai",
+   "title_vi": "Cơ học lượng tử (diễn giải)",
+   "table": 2,
+   "n": 560,
+   "options": [
+    {
+     "id": "sup-do-ham-song",
+     "label_vi": "Sụp đổ hàm sóng",
+     "pct": 17.1,
+     "pct_reject": null,
+     "pct_exclusive": 14.7
+    },
+    {
+     "id": "bien-an",
+     "label_vi": "Biến ẩn",
+     "pct": 21.9,
+     "pct_reject": null,
+     "pct_exclusive": 18.7
+    },
+    {
+     "id": "da-the-gioi",
+     "label_vi": "Đa thế giới",
+     "pct": 19.4,
+     "pct_reject": null,
+     "pct_exclusive": 17.1
+    },
+    {
+     "id": "tri-thuc-ham-song-chi-la-thong-tin",
+     "label_vi": "Tri thức (hàm sóng chỉ là thông tin)",
+     "pct": 12.8,
+     "pct_reject": null,
+     "pct_exclusive": 11.3
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 32.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "gia-tri-trong-khoa-hoc",
+   "title_vi": "Giá trị trong khoa học",
+   "table": 2,
+   "n": 960,
+   "options": [
+    {
+     "id": "nhat-thiet-trung-lap-gia-tri",
+     "label_vi": "Nhất thiết trung lập giá trị",
+     "pct": 17.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "nhat-thiet-mang-gia-tri",
+     "label_vi": "Nhất thiết mang giá trị",
+     "pct": 44.0,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "co-the-ca-hai",
+     "label_vi": "Có thể cả hai",
+     "pct": 31.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 7.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "mau-thuan-dung",
+   "title_vi": "Mâu thuẫn đúng",
+   "table": 2,
+   "n": 920,
+   "options": [
+    {
+     "id": "bat-kha",
+     "label_vi": "Bất khả",
+     "pct": 71.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "kha-huu-nhung-khong-co-that",
+     "label_vi": "Khả hữu nhưng không có thật",
+     "pct": 4.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "co-that",
+     "label_vi": "Có thật",
+     "pct": 12.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 11.7,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "ly-thuyet-quy-chieu",
+   "title_vi": "Lý thuyết quy chiếu",
+   "table": 2,
+   "n": 880,
+   "options": [
+    {
+     "id": "nhan-qua",
+     "label_vi": "Nhân quả",
+     "pct": 46.3,
+     "pct_reject": null,
+     "pct_exclusive": 41.0
+    },
+    {
+     "id": "mo-ta",
+     "label_vi": "Mô tả",
+     "pct": 22.1,
+     "pct_reject": null,
+     "pct_exclusive": 17.0
+    },
+    {
+     "id": "giam-phat",
+     "label_vi": "Giảm phát",
+     "pct": 15.1,
+     "pct_reject": null,
+     "pct_exclusive": 14.0
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 21.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "khai-niem",
+   "title_vi": "Khái niệm",
+   "table": 2,
+   "n": 860,
+   "options": [
+    {
+     "id": "bam-sinh-luan",
+     "label_vi": "Bẩm sinh luận",
+     "pct": 28.1,
+     "pct_reject": null,
+     "pct_exclusive": 23.3
+    },
+    {
+     "id": "duy-nghiem-luan",
+     "label_vi": "Duy nghiệm luận",
+     "pct": 50.3,
+     "pct_reject": null,
+     "pct_exclusive": 45.1
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 25.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "tri-thuc-triet-hoc-co-khong",
+   "title_vi": "Tri thức triết học (có không?)",
+   "table": 2,
+   "n": 1110,
+   "options": [
+    {
+     "id": "khong-co",
+     "label_vi": "Không có",
+     "pct": 3.6,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "mot-it",
+     "label_vi": "Một ít",
+     "pct": 32.5,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "nhieu",
+     "label_vi": "Nhiều",
+     "pct": 56.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 8.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "platon-quan-diem-cua-ong-la-gi",
+   "title_vi": "Platon (quan điểm của ông là gì?)",
+   "table": 2,
+   "n": 630,
+   "options": [
+    {
+     "id": "chi-co-tri-thuc-ve-cac-form",
+     "label_vi": "Chỉ có tri thức về các Form",
+     "pct": 52.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "co-ca-tri-thuc-ve-vat-cu-the",
+     "label_vi": "Có cả tri thức về vật cụ thể",
+     "pct": 28.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 19.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "hume-quan-diem-cua-ong-la-gi",
+   "title_vi": "Hume (quan điểm của ông là gì?)",
+   "table": 2,
+   "n": 870,
+   "options": [
+    {
+     "id": "nha-hoai-nghi",
+     "label_vi": "Nhà hoài nghi",
+     "pct": 36.5,
+     "pct_reject": null,
+     "pct_exclusive": 28.9
+    },
+    {
+     "id": "nha-tu-nhien-luan",
+     "label_vi": "Nhà tự nhiên luận",
+     "pct": 54.9,
+     "pct_reject": null,
+     "pct_exclusive": 47.4
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 15.8,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "kant-mot-hay-hai-the-gioi",
+   "title_vi": "Kant (một hay hai thế giới?)",
+   "table": 2,
+   "n": 720,
+   "options": [
+    {
+     "id": "mot-the-gioi",
+     "label_vi": "Một thế giới",
+     "pct": 45.4,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "hai-the-gioi",
+     "label_vi": "Hai thế giới",
+     "pct": 34.9,
+     "pct_reject": null,
+     "pct_exclusive": null
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 20.1,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  },
+  {
+   "id": "wittgenstein-thich-giai-doan-nao",
+   "title_vi": "Wittgenstein (thích giai đoạn nào?)",
+   "table": 2,
+   "n": 960,
+   "options": [
+    {
+     "id": "giai-doan-dau",
+     "label_vi": "Giai đoạn đầu",
+     "pct": 24.6,
+     "pct_reject": null,
+     "pct_exclusive": 20.8
+    },
+    {
+     "id": "giai-doan-sau",
+     "label_vi": "Giai đoạn sau",
+     "pct": 57.5,
+     "pct_reject": null,
+     "pct_exclusive": 53.5
+    },
+    {
+     "id": "khac",
+     "label_vi": "Khác",
+     "pct": 17.2,
+     "pct_reject": null,
+     "pct_exclusive": null
+    }
+   ]
+  }
+ ]
+}

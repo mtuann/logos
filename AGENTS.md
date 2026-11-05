@@ -18,7 +18,7 @@ Không xuất bản lên site.
 3. `ban-giao/nhat-ky-dot-N.md` — tiến độ các phiên trước của đợt đó (nếu có). Làm tiếp từ đây, đừng làm lại.
 4. `HUONG-DAN-VIET.md` — văn phong, bảng thuật ngữ bắt buộc, cú pháp Markdown. **Bắt buộc đọc trước khi sửa bất kỳ chữ nào trong nội dung.**
 5. `README.md` — cấu trúc repo, lệnh, cách thêm nội dung, cách thêm công cụ.
-6. `tools/philpapers-2020.md` — nguồn số liệu khảo sát duy nhất được dùng.
+6. `tools/philpapers-2020.md` — nguồn số liệu khảo sát duy nhất được dùng (sinh từ `data/kb/philpapers-2020.json`; sửa số ở JSON).
 
 ## 3. Luật cứng
 
@@ -42,7 +42,7 @@ uv sync --frozen
 npm ci
 
 # Bộ kiểm tra đầy đủ, giống CI. Chạy trước mọi báo cáo.
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers; do
   uv run python tools/$t.py --check || break
 done
 uv run python tools/content_registry.py --check
