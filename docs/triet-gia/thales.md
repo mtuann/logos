@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 # Thales
 
-**k. 624–546 TCN** · Tiền Socrates · *Thales of Miletus*
+**k. 620–546 TCN** · Tiền Socrates · *Thales of Miletus*
 
 Có hai giai thoại về Thales, vẽ ra hai chân dung trái ngược. Trong *Theaetetus* của Platon, ông mải ngẩng nhìn sao đến nỗi rơi xuống giếng, và một cô hầu gái người Thrace trêu rằng ông nóng lòng biết chuyện trên trời mà không thấy cái ở dưới chân. Còn Aristotle, trong *Chính trị học*, kể rằng khi bị chê nghèo vì theo đuổi thứ triết học vô ích, Thales nhìn trời đoán trước một mùa ô-liu bội thu, từ mùa đông đã thuê hết máy ép dầu ở Miletus và Chios, đến vụ thì cho thuê lại với giá tùy ý — để chứng tỏ triết gia muốn giàu thì dễ, chỉ là họ không nhắm tới điều đó. Cả hai đều là tương truyền, nhưng câu hỏi chúng đặt ra vẫn còn: nghĩ về những điều xa xôi thì có ích gì?
 

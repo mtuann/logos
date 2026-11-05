@@ -58,7 +58,7 @@ nổi tiếng: "Đạo khả đạo, phi thường đạo" — Đạo mà nói �
 cốt lõi: vũ trụ vận hành theo **Đạo**, một nguyên lý không thể gọi tên; cách sống khôn ngoan nhất là
 **vô vi** — không cưỡng ép, thuận theo tự nhiên như nước chảy chỗ trũng.
 
-[Trang Tử](../triet-gia/trang-tu.md) (khoảng 369–286 TCN) đẩy ý tưởng này thành văn chương triết học rực rỡ nhất Trung Hoa cổ
+[Trang Tử](../triet-gia/trang-tu.md) (khoảng 369–298 TCN) đẩy ý tưởng này thành văn chương triết học rực rỡ nhất Trung Hoa cổ
 đại. Trong mẩu chuyện "mộng hồ điệp", ông kể: có lần mơ mình là bướm bay lượn vui vẻ, tỉnh dậy không
 biết là mình mơ thành bướm, hay bướm đang mơ thành mình. Câu chuyện không đưa ra đáp án — nó làm
 lung lay ranh giới ta/người, mơ/thực, đúng/sai. Thông điệp của Trang Tử: mọi phân biệt cứng nhắc đều
@@ -69,7 +69,7 @@ trong hai gốc rễ của Thiền tông.
 
 ## Mặc Tử và Hàn Phi: kiêm ái và pháp trị {#mac-tu-va-han-phi-kiem-ai-va-phap-tri}
 
-Không phải ai cũng tin vào nhân nghĩa. [Mặc Tử](../triet-gia/mac-tu.md) (khoảng 470–391 TCN) phê phán Nho gia là thiên vị:
+Không phải ai cũng tin vào nhân nghĩa. [Mặc Tử](../triet-gia/mac-tu.md) (hoạt động khoảng 430 TCN, mất khoảng 390 TCN) phê phán Nho gia là thiên vị:
 thương cha mẹ mình hơn cha mẹ người khác thì chiến tranh vẫn còn. Ông đề xướng **kiêm ái** — yêu
 thương *không phân biệt*, yêu người như yêu mình. Kèm theo là **phi công** (chống chiến tranh xâm
 lược) và **thượng hiền** (dùng người tài bất kể xuất thân). Mặc gia còn nổi tiếng về logic học và kỹ

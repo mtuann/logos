@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 # Heraclitus
 
-**k. 540–480 TCN** · Tiền Socrates · *Heraclitus of Ephesus*
+**hoạt động k. 500 TCN** · Tiền Socrates · *Heraclitus of Ephesus*
 
 Hôm nay bạn tắm ở một khúc sông quê, mai quay lại: vẫn con sông ấy, nhưng không còn giọt nước nào của hôm qua. Vậy “cùng một con sông” nghĩa là gì? Câu đố nhỏ này gắn với tên Heraclitus, người Ephesus, sống quanh năm 500 TCN. Và ông đi xa hơn: có lẽ mọi thứ bền vững quanh ta, kể cả cơ thể ta, đều tồn tại theo cách của dòng sông.
 

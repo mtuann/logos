@@ -88,6 +88,16 @@ class TestLedgerFlow(Base):
         cl._page_units.cache_clear()
         self.assertEqual(verify.ghi_so("5.4", self.root), (0, 1, []))
 
+    def test_ghi_so_resets_checked_unit_that_changed(self):
+        verify.ghi_so("5.4", self.root)
+        key = "doc/x.md#boi-canh"
+        self.evidence(key)
+        verify.ghi([key], self.root)
+        (self.root / "docs/doc/x.md").write_text(PAGE.replace("399", "400"), encoding="utf-8")
+        cl._page_units.cache_clear()
+        self.assertEqual(verify.ghi_so("5.4", self.root)[1], 1)
+        self.assertEqual(self.ledger()[key], {"status": "chua-kiem", "hash": cl.current_hash(key, self.root)})
+
     def test_ghi_so_drops_vanished_records(self):
         verify.ghi_so("5.1", self.root)
         (self.root / "data/kb/works.yml").write_text("w2: {title: Khác}\n", encoding="utf-8")

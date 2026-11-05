@@ -56,7 +56,7 @@ Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nh�
 
 ## Ảnh hưởng
 
-**Chịu ảnh hưởng từ:** [Chu Hy](chu-hy.md).
+**Chịu ảnh hưởng từ:** chưa ghi nhận trong dữ liệu của site.
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 

@@ -42,6 +42,10 @@
         "years_label": {
           "$ref": "#/$defs/text"
         },
+        "dates_note": {
+          "description": "Quyết định 30: khi nguồn không ghi năm sinh/mất, born/died chỉ là số ước lượng để xếp trục thời gian; ghi rõ điều đó và nguồn nói gì. years_label theo nguồn.",
+          "$ref": "#/$defs/text"
+        },
         "school": {
           "enum": [
             "Tiền Socrates",
@@ -60,6 +64,7 @@
           "$ref": "#/$defs/text"
         },
         "influence": {
+          "description": "Người chịu ảnh hưởng (quyết định 29): người sau đọc và đáp lại người này, tiếp thu hoặc phản bác. Sơ đồ ảnh hưởng ghi: một mũi tên không có nghĩa hai người đồng ý với nhau.",
           "type": "array",
           "items": {
             "type": "string",

@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 # Trang Tử
 
-**k. 369–286 TCN** · Trung Hoa · *Zhuangzi*
+**k. 369–298 TCN** · Trung Hoa · *Zhuangzi*
 
 Hai vị đại phu nước Sở tìm đến bờ sông Bộc, nơi Trang Tử đang ngồi câu cá, để mời ông ra gánh việc nước. Ông vẫn cầm cần câu, không ngoảnh lại, hỏi: nghe nói nước Sở có con rùa thần chết đã ba nghìn năm, vua cất mai nó trong miếu đường; con rùa ấy muốn chết để lại bộ xương được tôn quý, hay muốn sống mà lê đuôi trong bùn? Hai người đáp: muốn sống mà lê đuôi trong bùn. “Vậy các ông về đi, tôi sẽ lê đuôi trong bùn” (thiên 17 “Thu thủy”). *Sử ký* chép một chuyện tương tự, chỉ khác hình ảnh: con trâu tế được vỗ béo, khoác gấm, để rồi bị dắt vào miếu.
 
