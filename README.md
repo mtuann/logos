@@ -40,6 +40,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
+  parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
+                          giữa hai bản build (--base REF: tự build commit REF và cây làm việc)
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
                           registry (đọc content.yml), units (tách đơn vị theo H2, khóa trang.md#id),
                           normalize (chuẩn hóa trên nguồn Markdown), hashing (sha256:…)
@@ -48,6 +50,7 @@ tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
   browser/                jsdom: mở mọi trang đã build qua bộ tải thật; axe-core; tìm kiếm
   test_hooks.py           kiểm thử hook Python và script sinh trang
+  test_parity.py          tools/parity.py: trích văn bản hiển thị, phát hiện lệch
   test_lz.py              thư viện tools/lz: mọi hệ quả của chuẩn hóa và băm (KE-HOACH.md mục 5.6)
   test_indexes.py         chỉ mục mỗi mục liệt kê đủ bài; Kế hoạch học trỏ tới trang có thật;
                           không có văn xuôi lọt vào khối code
@@ -95,6 +98,12 @@ uv run python tools/content_registry.py --check  # content.yml khớp trang và 
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
+```
+
+Thay đổi cơ học (do script, không được đổi chữ) phải qua kiểm tra tương đương trước khi merge:
+
+```bash
+uv run python tools/parity.py --base main      # build main và cây làm việc, so từng trang; mã thoát 1 khi lệch
 ```
 
 `npm test` và một phần `tests/test_indexes.py` cần thư mục `site/` đã build. CI (`.github/workflows/deploy.yml`) chạy tất cả các bước trên trước mỗi lần deploy lên GitHub Pages. `links.yml` kiểm tra link web mỗi tuần bằng lychee (chấp nhận 403 và 202 vì nhiều trang chặn bot); khi có link hỏng thì mở hoặc cập nhật một issue nhãn `link-hong`, khi hết lỗi thì tự đóng issue.
