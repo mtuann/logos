@@ -67,3 +67,17 @@ for (const page of SAMPLES) for (const [vp, size] of Object.entries(VIEWPORTS)) 
     if (!REPORT) assert.equal(res.length, 0, res.map((v) => `${v.id} (${v.impact}, ${v.nodes}): ${v.targets.join(" | ")}`).join("\n"));
   });
 }
+
+test("font tự host được tải và dùng (đợt 4.4)", async () => {
+  const ctx = await browser.newContext();
+  const p = await ctx.newPage();
+  const fonts = [];
+  p.on("response", (r) => { if (r.url().endsWith(".woff2")) fonts.push(r.status()); });
+  await p.goto(srv.origin + "/logos/cau-hoi/tri-thuc/", { waitUntil: "load" });
+  await p.evaluate(() => document.fonts.ready);
+  const loaded = await p.evaluate(() => [...document.fonts].filter((f) => f.status === "loaded").map((f) => `${f.family} ${f.weight} ${f.style}`));
+  await ctx.close();
+  assert.ok(loaded.some((f) => f.startsWith('"Be Vietnam Pro" 400') || f.startsWith("Be Vietnam Pro 400")), loaded.join(", "));
+  assert.ok(loaded.some((f) => /Noto Serif/.test(f)), loaded.join(", "));
+  assert.ok(fonts.length > 0 && fonts.every((s) => s === 200), String(fonts));
+});

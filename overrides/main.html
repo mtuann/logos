@@ -2,6 +2,7 @@
 
 {% block extrahead %}
   {% if config.extra.noindex %}<meta name="robots" content="noindex">{% endif %}
+  <link rel="preload" href="{{ 'assets/fonts/be-vietnam-pro-400.woff2' | url }}" as="font" type="font/woff2" crossorigin>
   <link rel="manifest" href="{{ 'manifest.webmanifest' | url }}">
   <meta name="theme-color" content="#26324a">
   <link rel="apple-touch-icon" href="{{ 'assets/img/icon-192.png' | url }}">
