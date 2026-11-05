@@ -21,6 +21,7 @@ from pathlib import Path
 
 import yaml
 
+from check_ledger import JSON_RECORDS
 from lz import ROOT, hashing, units
 
 LEDGER = "verification/ledger.json"
@@ -83,6 +84,12 @@ def record_hashes(path: str, text: str | None) -> dict[str, str]:
         return {f"ho-so/{Path(path).stem}": hashing.record_hash(yaml.safe_load(text))}
     if path == "data/kb/philpapers-2020.json":
         return {f"philpapers/{q['id']}": hashing.record_hash(q) for q in json.loads(text).get("questions", [])}
+    kinds = [(k, lk) for k, (rel, lk) in JSON_RECORDS.items() if rel == path]
+    if kinds:
+        d = json.loads(text)
+        if not isinstance(d, dict):
+            return {}
+        return {f"{k}/{r['id']}": hashing.record_hash(r) for k, lk in kinds for r in d.get(lk, [])}
     return {}
 
 

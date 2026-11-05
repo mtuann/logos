@@ -12,21 +12,21 @@
 | Đơn vị Lõi trong trang (mục H2 và `#_dau`) | 987: Câu hỏi lớn 552, Văn bản gốc 190, Công cụ 171, Lịch sử 68, Bắt đầu 6 |
 | Bản ghi kho `data/kb/` | people 59, works 337, quotes 155, events 128, sources 681, philpapers 87 câu |
 | Hồ sơ triết gia `data/people/` | 59 |
-| Dữ liệu luyện tập và từ điển `docs/assets/data/` | terms 249, fallacies 100, lap-luan 30, logic 20, thi-nghiem 8 |
+| Dữ liệu luyện tập và từ điển `docs/assets/data/` | terms 249, fallacy-types 20, fallacies 100, lap-luan 30, logic 20, thi-nghiem 8 |
 
 ## Việc
 
 | # | Việc | Loại | Kết quả kiểm được |
 |---|---|---|---|
 | 5.0a | Mã băm bỏ qua kiểu ngoặc (quyết định 26): `tools/lz/normalize.py` coi `“ ”` như `"` và `‘ ’` như `'` ở bước 4 của chuẩn hóa (KE-HOACH.md 5.6) | công cụ | kiểm thử: đổi kiểu ngoặc thì mã băm không đổi, đổi chữ trong ngoặc thì đổi; sổ còn rỗng nên không đơn vị nào bị mở khóa |
-| 5.0b | Sổ ghi được dữ liệu JSON: `check_ledger.py` thêm loại `terms/<id>`, `fallacies/<id>`, `lap-luan/<id>`, `logic/<id>`, `thi-nghiem/<id>` (đọc `docs/assets/data/*.json`); `--status` đếm cả các loại này | công cụ | kiểm thử: khóa sai báo lỗi; mã băm đổi khi bản ghi đổi |
+| 5.0b | Sổ ghi được dữ liệu JSON: `check_ledger.py` thêm loại `terms/<id>`, `fallacy-types/<id>` (20 loại ngụy biện), `fallacies/<id>` (100 đoạn luyện), `lap-luan/<id>`, `logic/<id>`, `thi-nghiem/<id>` (đọc `docs/assets/data/*.json`); `--status` đếm cả các loại này | công cụ | kiểm thử: khóa sai báo lỗi; mã băm đổi khi bản ghi đổi |
 | 5.0c | Công cụ đợt con `tools/verify.py` (đặc tả dưới) và `schema/evidence.schema.json`; `check_ledger --check` kiểm mọi file bằng chứng theo schema | công cụ | kiểm thử cho từng lệnh; bằng chứng sai schema thì CI đỏ |
 | 5.0d | Đổi tên "Logos Zero" thành "Logos" (quyết định 27) bằng `tools/migrate/dot5_ten.py`: tên site, manifest, chân trang, nhãn "(bản dịch của Logos Zero)" và mọi chỗ trong bài, dữ liệu (`data/kb/quotes.yml`, `data/people/*.yml`), tool và kiểm thử đọc nhãn đó, `AGENTS.md` luật 2, `HUONG-DAN-VIET.md`. **Giữ** chỗ nói tới site song song `logos-zero` (trang Dữ liệu của tôi, nhập bản sao lưu, `KE-HOACH.md`, nhật ký) | cơ học | parity: mọi khác biệt chỉ là "Logos Zero" → "Logos" (script in bảng chỗ đổi và chỗ giữ, chủ biên xem); làm **trước** khi ghi sổ chỗ nào |
 | 5.1 | Kho: người và tác phẩm | nội dung | mọi bản ghi `people/*` và `works/*` đóng băng; `verification/lech/works.md` hết mục mở (117 tác phẩm chưa rõ tác giả được gán hoặc ghi lý do; 3 tác phẩm nhiều năm được chốt) |
 | 5.2 | Kho: trích dẫn, sự kiện, nguồn, PhilPapers | nội dung | `quotes/*`, `events/*`, `sources/*`, `philpapers/*` đóng băng; `lint_quotes` = 0 trong Lõi; `verification/lech/{quotes,events,sources,sep,philpapers,philpapers-bang}.md` hết mục mở |
 | 5.3 | Hồ sơ triết gia và thuật ngữ | nội dung | `ho-so/*` (59), `terms/*` (249) đóng băng; quyết định 18 vào `HUONG-DAN-VIET.md`; `lint_terms` = 0 trong Lõi |
 | 5.4 | Văn bản gốc: 19 hướng dẫn | nội dung | 190 đơn vị `doc/*` đóng băng; `doc/sartre-hien-sinh.md` có mục "Đọc từng đoạn" (quyết định 19) |
-| 5.5 | Công cụ tư duy và dữ liệu luyện tập | nội dung | 171 đơn vị `cong-cu/*`, `fallacies/*`, `lap-luan/*`, `logic/*`, `thi-nghiem/*` đóng băng; `cong-cu/luan-cu-thep.md` có "Bài tập", "Tự kiểm tra" (quyết định 19) |
+| 5.5 | Công cụ tư duy và dữ liệu luyện tập | nội dung | 171 đơn vị `cong-cu/*`, `fallacy-types/*`, `fallacies/*`, `lap-luan/*`, `logic/*`, `thi-nghiem/*` đóng băng; `cong-cu/luan-cu-thep.md` có "Bài tập", "Tự kiểm tra" (quyết định 19) |
 | 5.6 | Lịch sử và Bắt đầu | nội dung | 74 đơn vị `lich-su/*`, `bat-dau/lo-trinh.md` đóng băng |
 | 5.7 | Câu hỏi lớn I: Tri thức, Tâm trí, Tự do, Đạo đức, Luân lý ứng dụng | nội dung | 253 đơn vị đóng băng |
 | 5.8 | Câu hỏi lớn II: Chính trị, Mỹ học, Tôn giáo, Siêu hình, Ý nghĩa, Việt Nam | nội dung | 299 đơn vị đóng băng; ba bài Tư tưởng Việt Nam có nhãn độ chắc chắn (quyết định 6) |

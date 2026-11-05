@@ -46,5 +46,11 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Nguồn | 681 | 0 |
 | Hồ sơ triết gia | 59 | 0 |
 | Câu hỏi khảo sát PhilPapers 2020 | 87 | 0 |
+| Thuật ngữ (Từ điển) | 249 | 0 |
+| Loại ngụy biện | 20 | 0 |
+| Đoạn luyện nhận diện ngụy biện | 100 | 0 |
+| Đoạn luyện sơ đồ lập luận | 30 | 0 |
+| Bài tập logic | 20 | 0 |
+| Thí nghiệm tư duy | 8 | 0 |
 
 <!-- /gen:kiem-chung -->

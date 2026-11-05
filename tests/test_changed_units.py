@@ -107,7 +107,15 @@ class TestRecords(unittest.TestCase):
         self.assertNotEqual(old["people/hume"], new["people/hume"])
         self.assertIn("people/mill", new)
         self.assertEqual(list(cu.record_hashes("data/people/kant.yml", "desc: x\n")), ["ho-so/kant"])
-        self.assertEqual(cu.record_hashes("docs/assets/data/terms.json", "[]"), {})
+        self.assertEqual(cu.record_hashes("docs/assets/data/khac.json", "[]"), {})
+
+    def test_json_records(self):
+        # Đợt 5.0b: một file JSON có thể chứa hai loại bản ghi (fallacies.json: types + questions).
+        text = '{"types": [{"id": "ad-hominem", "vi": "Công kích cá nhân"}], "questions": [{"id": "f-001", "answer": 1}]}'
+        self.assertEqual(sorted(cu.record_hashes("docs/assets/data/fallacies.json", text)),
+                         ["fallacies/f-001", "fallacy-types/ad-hominem"])
+        self.assertEqual(list(cu.record_hashes("docs/assets/data/terms.json", '{"terms": [{"id": "logic"}]}')),
+                         ["terms/logic"])
 
 if __name__ == "__main__":
     unittest.main()
