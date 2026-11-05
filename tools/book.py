@@ -288,7 +288,7 @@ def load_articles(
             title = meta.get("title") or nav_title
             body = H2_ID_RE.sub(r"\1", body)
             if "[[thoi-su:" in body:
-                body = kb.expand_thoi_su(body, thoi_su_blocks(), rel)
+                body = kb.expand_thoi_su(body, thoi_su_blocks(), rel, wrap=False)
             body = rewrite_links(body, rel)
             body = strip_tool_divs(body)
             articles.append(

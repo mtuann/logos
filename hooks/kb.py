@@ -35,6 +35,7 @@ Mã băm đơn vị (tools/lz/normalize.py) giữ shortcode nguyên dạng, nên
 
 from __future__ import annotations
 
+import datetime
 import json
 import re
 from pathlib import Path
@@ -76,8 +77,40 @@ def load_thoi_su(root: Path) -> dict[str, dict]:
 
 
 def load_context(root: Path) -> dict:
-    """Mọi dữ liệu shortcode cần, đọc một lần mỗi lần build."""
-    return {"root": root, "registry": load_registry(root), "thoi_su": load_thoi_su(root)}
+    """Mọi dữ liệu shortcode và dải thông tin cần, đọc một lần mỗi lần build."""
+    registry = load_registry(root)
+    ledger = root / "verification" / "ledger.json"
+    return {"root": root, "registry": registry, "thoi_su": load_thoi_su(root),
+            "pages": {p["path"]: p for p in registry["pages"]},
+            "ledger": json.loads(ledger.read_text(encoding="utf-8")).get("units", {}) if ledger.exists() else {}}
+
+
+TIER_NAMES = {"loi": "Lõi", "mo-rong": "Mở rộng"}
+TIER_HELP = {"loi": "Kiến thức kinh điển, kiểm chứng một lần rồi đóng băng",
+             "mo-rong": "Phần thêm sau, kiểm riêng phần thêm"}
+DONE = {"da-kiem", "frozen"}
+H1_END = re.compile(r"</h1>")
+H2 = re.compile(r"<h2[\s>]")
+
+
+def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict) -> str | None:
+    """Dải thông tin dưới tiêu đề (đợt 4.6): tầng, vị trí trong mục lục, ngày cập nhật, trạng thái kiểm chứng.
+    Không có ở trang he-thong. Toàn bộ là phần sinh: data-oz-sinh (parity bỏ qua), data-search-exclude."""
+    entry = ctx.get("pages", {}).get(path)
+    if not entry or entry["tier"] not in TIER_NAMES:
+        return None
+    total = len(H2.findall(html_text)) + 1                 # các mục H2 và phần trước H2 đầu tiên (#_dau)
+    done = sum(1 for k, u in ctx.get("ledger", {}).items() if k.startswith(path + "#") and u.get("status") in DONE)
+    kiem = "Chưa kiểm chứng" if not done else f"Đã kiểm chứng {done}/{total} mục"
+    parts = [f'<span class="oz-info__tang oz-info__tang--{entry["tier"]}" title="{TIER_HELP[entry["tier"]]}">'
+             f'{TIER_NAMES[entry["tier"]]}</span>']
+    if trail:
+        parts.append(f'<span class="oz-info__muc">{" › ".join(trail)}</span>')
+    if updated:
+        parts.append(f"<span>Cập nhật {_vn_date(updated)}</span>")
+    parts.append(f'<span class="oz-info__kiem">{kiem}</span>')
+    return ('<div class="oz-info" data-oz-sinh data-search-exclude role="note" aria-label="Thông tin về trang">'
+            + "".join(parts) + "</div>")
 
 
 def fmt_int(n: int) -> str:
@@ -176,8 +209,28 @@ def _outside_code(markdown: str, fn: Callable[[str], str]) -> str:
     return "".join(spans)
 
 
-def expand_thoi_su(markdown: str, blocks: dict, where: str = "") -> str:
-    """Thay [[thoi-su:id]] bằng thân khối; khối nhiều dòng nhận thụt lề của dòng chứa shortcode."""
+def _vn_date(d) -> str:
+    d = d if isinstance(d, datetime.date) else datetime.date.fromisoformat(str(d))
+    return f"{d.day:02d}/{d.month:02d}/{d.year}"
+
+
+def thoi_su_label(meta: dict, today: datetime.date | None = None) -> tuple[str, bool]:
+    """(chữ nhãn, đã quá hạn rà soát)."""
+    today = today or datetime.date.today()
+    due = meta.get("review_by")
+    due = due if isinstance(due, datetime.date) else datetime.date.fromisoformat(str(due))
+    late = due < today
+    text = f"thời sự · đúng tới {_vn_date(meta['updated_to'])}" + (" · cần rà lại" if late else "")
+    return text, late
+
+
+def expand_thoi_su(markdown: str, blocks: dict, where: str = "", wrap: bool = True,
+                   today: datetime.date | None = None) -> str:
+    """Thay [[thoi-su:id]] bằng thân khối; khối nhiều dòng nhận thụt lề của dòng chứa shortcode.
+
+    `wrap` (đợt 4.6): bọc thân khối trong phần tử có lớp `oz-ts` và thêm nhãn "thời sự · đúng tới …" mang
+    `data-oz-sinh` (không phải chữ của bài: parity bỏ qua) và `data-search-exclude` (không vào chỉ mục tìm kiếm).
+    Sách in (tools/book.py) gọi với wrap=False để giữ nguyên chữ."""
     def sub(m: re.Match) -> str:
         key = m.group(1)
         if key not in blocks:
@@ -186,8 +239,15 @@ def expand_thoi_su(markdown: str, blocks: dict, where: str = "") -> str:
         if where and page != where:
             raise PluginError(f"{where}: shortcode [[thoi-su:{key}]]: khối này thuộc trang {page!r}")
         body = blocks[key]["body"]
+        if wrap:
+            label, late = thoi_su_label(blocks[key]["meta"], today)
+            cls = "oz-ts" + (" oz-ts--qua-han" if late else "")
+            nhan = f'<span class="oz-ts-nhan" data-oz-sinh data-search-exclude> {label}</span>'
         if "\n" not in body:
-            return body
+            return f'<span class="{cls}">{body}{nhan}</span>' if wrap else body
+        if wrap:
+            body = f'<div class="{cls} oz-ts-khoi" markdown>\n\n<p class="oz-ts-nhan" data-oz-sinh data-search-exclude>' \
+                   f'{label}</p>\n\n{body}\n\n</div>'
         s, line_start = m.string, m.string.rfind("\n", 0, m.start()) + 1
         line_end = s.find("\n", m.end())
         line_end = len(s) if line_end < 0 else line_end
@@ -222,6 +282,17 @@ def on_config(config, **kwargs):
     global _ctx
     _ctx = load_context(Path(config["config_file_path"]).resolve().parent)
     return config
+
+
+def on_page_content(html_text, page, config, files, **kwargs):
+    if page.is_homepage:
+        return html_text
+    trail = [a.title for a in reversed(page.ancestors) if getattr(a, "title", None)]
+    strip = info_strip(page.file.src_uri, trail, page.meta.get("updated"), html_text, _ctx)
+    if not strip:
+        return html_text
+    m = H1_END.search(html_text)
+    return html_text[:m.end()] + strip + html_text[m.end():] if m else html_text
 
 
 def on_page_markdown(markdown, page, config, files, **kwargs):
