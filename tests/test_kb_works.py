@@ -82,5 +82,22 @@ class TestExtractionFixes(unittest.TestCase):
                          ["La Phénoménologie de l’esprit et son contenu réel"])
         self.assertFalse(any(r.get("author_name") in ("Chú giải lớn về", "“La") for r in recs.values()))
 
+    def test_year_fixed_and_same_as_kept(self):
+        """Đợt 5.1: year_fixed thay year; same_as, years_ok giữ khi rút lại; tác phẩm đã chốt không vào danh sách lệch."""
+        recs = {"mill.u": {"author": "mill", "titles": ["U"], "year": None, "years_seen": {"1861": ["a"], "1863": ["b"]},
+                           "used_in": ["a", "b"], "evidence": [], "verified": None}}
+        old = {"mill.u": {"year_fixed": 1861, "years_ok": [1863], "same_as": "mill.x"}}
+        r = kw.merge_kept(recs, old)["mill.u"]
+        self.assertEqual((r["year"], r["years_ok"], r["same_as"]), (1861, [1863], "mill.x"))
+        self.assertIn("0 tác phẩm gặp với hơn một năm", kw.render_lech(recs))
+
+    def test_repo_works_all_attributed(self):
+        works = kw.extract()
+        import yaml
+        cur = yaml.safe_load(kw.OUT.read_text(encoding="utf-8"))
+        self.assertTrue(all(r.get("author") or r.get("attribution") or r.get("same_as") for r in cur.values()))
+        self.assertTrue(all(cur[r["same_as"]] for r in cur.values() if r.get("same_as")))
+        self.assertEqual(set(works), set(cur))
+
 if __name__ == "__main__":
     unittest.main()

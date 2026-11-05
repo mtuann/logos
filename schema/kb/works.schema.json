@@ -54,6 +54,21 @@
           "description": "Đợt 5.1: tác giả theo nguồn đã mở, cho tác phẩm chưa rõ tác giả (author null). Sửa tay, tool giữ khi rút lại.",
           "$ref": "#/$defs/text"
         },
+        "same_as": {
+          "description": "Đợt 5.1: bản ghi là tên khác của tác phẩm có khóa này (năm, tác giả theo bản ghi đích). Sửa tay, tool giữ khi rút lại.",
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
+        },
+        "year_fixed": {
+          "description": "Đợt 5.1: năm đã chốt khi kiểm chứng (quyết định 28: năm công bố lần đầu; tác phẩm cổ/di cảo chưa rõ năm in: năm soạn). Có thì year = giá trị này.",
+          "type": "integer"
+        },
+        "years_ok": {
+          "description": "Đợt 5.1: năm khác hợp lệ mà văn xuôi được ghi khi nói rõ (năm soạn, bản in sách, bản dịch, bản sửa); giải thích ở year_note.",
+          "type": "array",
+          "items": {"type": "integer"},
+          "uniqueItems": true
+        },
         "year_note": {
           "description": "Đợt 5.1: ghi chú năm khi các chỗ dùng ghi năm khác nhau hợp lệ (bản gốc, bản in sách, bản dịch). Sửa tay, tool giữ khi rút lại.",
           "$ref": "#/$defs/text"

@@ -1,10 +1,11 @@
 # Kho tác phẩm. RÚT TỰ ĐỘNG bằng tools/kb_works.py từ "*Tên* (năm)" trong bài và danh sách tác phẩm của hồ sơ;
-# chỉ title_orig, attribution, year_note, evidence, verified được sửa ở đây. Schema: schema/kb/works.schema.json. Lệch: verification/lech/works.md.
+# chỉ title_orig, same_as, attribution, year_fixed, years_ok, year_note, evidence, verified được sửa ở đây. Schema: schema/kb/works.schema.json. Lệch: verification/lech/works.md.
 anselm.cur-deus-homo:
   author: anselm
   titles:
   - Cur Deus Homo
   year: 1095
+  year_note: soạn 1095–98
   years_seen:
     '1095':
     - people/anselm
@@ -17,6 +18,7 @@ anselm.de-veritate:
   titles:
   - De veritate
   year: 1080
+  year_note: soạn khoảng 1080–86
   years_seen:
     '1080':
     - people/anselm
@@ -29,6 +31,10 @@ anselm.monologion:
   titles:
   - Monologion
   year: 1075
+  years_ok:
+  - 1076
+  - 1077
+  year_note: soạn 1075–76 (IEP ghi 1077)
   years_seen:
     '1075':
     - people/anselm
@@ -41,6 +47,9 @@ anselm.proslogion:
   titles:
   - Proslogion
   year: 1077
+  years_ok:
+  - 1078
+  year_note: soạn 1077–78
   years_seen:
     '1077':
     - lich-su/trung-co.md#anselm-duc-tin-di-tim-hieu-biet
@@ -81,6 +90,7 @@ aquinas.summa-contra-gentiles:
   titles:
   - Summa contra gentiles
   year: 1259
+  year_note: soạn 1259–65
   years_seen:
     '1259':
     - people/aquinas
@@ -93,6 +103,9 @@ aquinas.summa-theologiae:
   titles:
   - Summa Theologiae
   year: 1265
+  years_ok:
+  - 1267
+  year_note: 'soạn khoảng 1265–1273 (SEP: 1267–73), bỏ dở'
   years_seen:
     '1265':
     - people/aquinas
@@ -105,6 +118,9 @@ arendt.eichmann-in-jerusalem-a-report-on-the-banality-of:
   titles:
   - 'Eichmann in Jerusalem: A Report on the Banality of Evil'
   year: 1963
+  years_ok:
+  - 1965
+  year_note: bản sửa và mở rộng 1965
   years_seen:
     '1963':
     - people/arendt
@@ -117,6 +133,9 @@ arendt.on-revolution:
   titles:
   - On Revolution
   year: 1963
+  years_ok:
+  - 1965
+  year_note: bản sửa 1965
   years_seen:
     '1963':
     - people/arendt
@@ -215,6 +234,9 @@ augustine.confessiones:
   titles:
   - Confessiones
   year: 397
+  years_ok:
+  - 396
+  year_note: soạn k. 396–400
   years_seen:
     '397':
     - people/augustine
@@ -239,6 +261,9 @@ augustine.de-civitate-dei:
   titles:
   - De civitate Dei
   year: 413
+  years_ok:
+  - 412
+  year_note: soạn 413–426 (SEP ghi khởi 412)
   years_seen:
     '413':
     - people/augustine
@@ -251,6 +276,7 @@ augustine.de-libero-arbitrio:
   titles:
   - De libero arbitrio
   year: 388
+  year_note: soạn 388–395
   years_seen:
     '388':
     - people/augustine
@@ -263,6 +289,7 @@ augustine.de-trinitate:
   titles:
   - De trinitate
   year: 399
+  year_note: soạn 399–419 hoặc muộn tới 426
   years_seen:
     '399':
     - people/augustine
@@ -275,6 +302,9 @@ averroes.al-kashf-an-manahij-al-adilla:
   titles:
   - al-Kashf ʿan manahij al-adilla
   year: 1179
+  years_ok:
+  - 1180
+  year_note: 1179/80, chưa chắc
   years_seen:
     '1179':
     - people/averroes
@@ -309,6 +339,9 @@ averroes.fasl-al-maqal:
   titles:
   - Fasl al-Maqal
   year: 1178
+  years_ok:
+  - 1179
+  year_note: 1178/9 (năm Hijri vắt hai năm dương lịch)
   years_seen:
     '1178':
     - people/averroes
@@ -321,6 +354,9 @@ averroes.tahafut-al-tahafut:
   titles:
   - Tahafut al-Tahafut
   year: 1180
+  years_ok:
+  - 1181
+  year_note: soạn khoảng 1180/81
   years_seen:
     '1180':
     - people/averroes
@@ -421,6 +457,9 @@ beauvoir.pyrrhus-et-cineas:
   titles:
   - Pyrrhus et Cinéas
   year: 1944
+  years_ok:
+  - 1943
+  year_note: viết 1943, in 1944
   years_seen:
     '1944':
     - people/beauvoir
@@ -444,7 +483,11 @@ bentham.an-introduction-to-the-principles-of-morals-and-le:
   author: bentham
   titles:
   - An Introduction to the Principles of Morals and Legislation
-  year: 1780
+  year: 1789
+  year_fixed: 1789
+  years_ok:
+  - 1780
+  year_note: in 1780, xuất bản (có bổ sung) 1789
   years_seen:
     '1780':
     - people/bentham
@@ -490,6 +533,7 @@ bentham.the-book-of-fallacies:
   verified: null
 chu-hy.can-tu-luc:
   author: chu-hy
+  attribution: Chu Hy cùng Lã Tổ Khiêm (呂祖謙) biên soạn
   titles:
   - Cận tư lục
   year: null
@@ -500,6 +544,7 @@ chu-hy.can-tu-luc:
   verified: null
 chu-hy.chu-tu-ngu-loai:
   author: chu-hy
+  attribution: lời giảng của Chu Hy do học trò ghi lại
   titles:
   - Chu Tử ngữ loại
   year: null
@@ -560,6 +605,7 @@ chu-van-an.tu-thu-thuyet-uoc:
   verified: null
 chua-ro.a-sand-county-almanac:
   author: null
+  attribution: Aldo Leopold
   titles:
   - A Sand County Almanac
   year: 1949
@@ -574,6 +620,7 @@ chua-ro.a-sand-county-almanac:
   verified: null
 chua-ro.against-democracy:
   author: null
+  attribution: Jason Brennan
   titles:
   - Against Democracy
   year: 2016
@@ -590,6 +637,7 @@ chua-ro.against-democracy:
   verified: null
 chua-ro.against-method:
   author: null
+  attribution: Paul Feyerabend
   titles:
   - Against Method
   year: 1975
@@ -604,6 +652,7 @@ chua-ro.against-method:
   verified: null
 chua-ro.an-inquiry-into-the-human-mind:
   author: null
+  attribution: Thomas Reid
   titles:
   - An Inquiry into the Human Mind
   year: 1764
@@ -616,9 +665,13 @@ chua-ro.an-inquiry-into-the-human-mind:
   verified: null
 chua-ro.anh-em-nha-karamazov:
   author: null
+  attribution: Fyodor Dostoevsky
   titles:
   - Anh em nhà Karamazov
   year: 1880
+  years_ok:
+  - 1879
+  year_note: đăng nhiều kỳ 1879–1880
   years_seen:
     '1880':
     - cau-hoi/van-de-su-du.md#cac-lap-truong-chinh
@@ -628,6 +681,7 @@ chua-ro.anh-em-nha-karamazov:
   verified: null
 chua-ro.animal-liberation:
   author: null
+  attribution: Peter Singer
   titles:
   - Animal Liberation
   year: 1975
@@ -640,6 +694,7 @@ chua-ro.animal-liberation:
   verified: null
 chua-ro.anthropologie-in-pragmatischer-hinsicht:
   author: null
+  attribution: Immanuel Kant
   titles:
   - Anthropologie in pragmatischer Hinsicht
   year: 1798
@@ -653,6 +708,7 @@ chua-ro.anthropologie-in-pragmatischer-hinsicht:
 chua-ro.apologia:
   author: null
   author_name: Platon
+  attribution: Platon
   titles:
   - Apologia
   year: null
@@ -663,6 +719,7 @@ chua-ro.apologia:
   verified: null
 chua-ro.ban-ve-tu-do:
   author: null
+  same_as: mill.on-liberty
   titles:
   - Bàn về tự do
   year: 1859
@@ -675,6 +732,7 @@ chua-ro.ban-ve-tu-do:
   verified: null
 chua-ro.basic-color-terms:
   author: null
+  attribution: Brent Berlin và Paul Kay
   titles:
   - Basic Color Terms
   year: 1969
@@ -687,6 +745,7 @@ chua-ro.basic-color-terms:
   verified: null
 chua-ro.beantwortung-der-frage-was-ist-aufklarung:
   author: null
+  attribution: Immanuel Kant
   titles:
   - 'Beantwortung der Frage: Was ist Aufklärung?'
   year: 1784
@@ -699,6 +758,7 @@ chua-ro.beantwortung-der-frage-was-ist-aufklarung:
   verified: null
 chua-ro.ben-kia-thien-va-ac:
   author: null
+  same_as: nietzsche.jenseits-von-gut-und-bose
   titles:
   - Bên kia thiện và ác
   year: 1886
@@ -711,6 +771,7 @@ chua-ro.ben-kia-thien-va-ac:
   verified: null
 chua-ro.beyond-good-and-evil:
   author: null
+  same_as: nietzsche.jenseits-von-gut-und-bose
   titles:
   - Beyond Good and Evil
   year: 1886
@@ -723,6 +784,7 @@ chua-ro.beyond-good-and-evil:
   verified: null
 chua-ro.cac-nguyen-ly-cua-triet-hoc:
   author: null
+  same_as: descartes.principia-philosophiae
   titles:
   - Các nguyên lý của triết học
   year: 1644
@@ -735,6 +797,7 @@ chua-ro.cac-nguyen-ly-cua-triet-hoc:
   verified: null
 chua-ro.cac-nguyen-ly-triet-hoc:
   author: null
+  same_as: descartes.principia-philosophiae
   titles:
   - Các nguyên lý triết học
   year: 1644
@@ -747,6 +810,7 @@ chua-ro.cac-nguyen-ly-triet-hoc:
   verified: null
 chua-ro.cac-nguyen-ly-triet-hoc-cua-descartes:
   author: null
+  same_as: spinoza.renati-des-cartes-principiorum-philosophiae-pars-i
   titles:
   - Các nguyên lý triết học của Descartes
   year: 1663
@@ -759,6 +823,7 @@ chua-ro.cac-nguyen-ly-triet-hoc-cua-descartes:
   verified: null
 chua-ro.candide:
   author: null
+  attribution: Voltaire
   titles:
   - Candide
   year: 1759
@@ -771,6 +836,7 @@ chua-ro.candide:
   verified: null
 chua-ro.canh-duc-truyen-dang-luc:
   author: null
+  attribution: Đạo Nguyên (道原) biên soạn
   titles:
   - Cảnh Đức truyền đăng lục
   year: 1004
@@ -783,6 +849,7 @@ chua-ro.canh-duc-truyen-dang-luc:
   verified: null
 chua-ro.capitalism-socialism-and-democracy:
   author: null
+  attribution: Joseph A. Schumpeter
   titles:
   - Capitalism, Socialism and Democracy
   year: 1942
@@ -795,6 +862,7 @@ chua-ro.capitalism-socialism-and-democracy:
   verified: null
 chua-ro.city-of-god:
   author: null
+  same_as: augustine.de-civitate-dei
   titles:
   - City of God
   year: 413
@@ -807,6 +875,7 @@ chua-ro.city-of-god:
   verified: null
 chua-ro.con-nguoi-qua-doi-con-nguoi:
   author: null
+  same_as: nietzsche.menschliches-allzumenschliches
   titles:
   - Con người, quá đỗi con người
   year: 1878
@@ -819,6 +888,7 @@ chua-ro.con-nguoi-qua-doi-con-nguoi:
   verified: null
 chua-ro.confessions:
   author: null
+  same_as: augustine.confessiones
   titles:
   - Confessions
   year: 397
@@ -831,6 +901,7 @@ chua-ro.confessions:
   verified: null
 chua-ro.cong-hoa:
   author: null
+  same_as: platon.politeia
   titles:
   - Cộng hòa
   year: -380
@@ -845,6 +916,7 @@ chua-ro.cong-hoa:
   verified: null
 chua-ro.contra-mendacium:
   author: null
+  attribution: Augustine
   titles:
   - Contra mendacium
   year: 420
@@ -857,6 +929,7 @@ chua-ro.contra-mendacium:
   verified: null
 chua-ro.critique-of-pure-reason:
   author: null
+  same_as: kant.kritik-der-reinen-vernunft
   titles:
   - Critique of Pure Reason
   year: 1781
@@ -869,6 +942,7 @@ chua-ro.critique-of-pure-reason:
   verified: null
 chua-ro.de-mendacio:
   author: null
+  attribution: Augustine
   titles:
   - De mendacio
   year: 395
@@ -881,6 +955,7 @@ chua-ro.de-mendacio:
   verified: null
 chua-ro.de-revolutionibus:
   author: null
+  attribution: Nicolaus Copernicus
   titles:
   - De revolutionibus
   year: 1543
@@ -893,9 +968,14 @@ chua-ro.de-revolutionibus:
   verified: null
 chua-ro.den-hien-dai-tu-truyen-thong:
   author: null
+  attribution: Trần Đình Hượu
   titles:
   - Đến hiện đại từ truyền thống
-  year: 1996
+  year: 1994
+  year_fixed: 1994
+  years_ok:
+  - 1996
+  year_note: in lần đầu 1994; bản NXB Văn hóa 1996
   years_seen:
     '1996':
     - cau-hoi/viet-hien-dai.md#doc-van-ban-goc
@@ -906,9 +986,13 @@ chua-ro.den-hien-dai-tu-truyen-thong:
 chua-ro.die-fragmente-der-vorsokratiker:
   author: null
   author_name: Diels–Kranz
+  attribution: Hermann Diels và Walther Kranz (biên tập)
   titles:
   - Die Fragmente der Vorsokratiker
   year: 1951
+  years_ok:
+  - 1903
+  year_note: 1951 là bản thứ 6 (bản chuẩn được trích dẫn DK); bản đầu 1903
   years_seen:
     '1951':
     - people/democritus
@@ -922,6 +1006,7 @@ chua-ro.die-fragmente-der-vorsokratiker:
   verified: null
 chua-ro.die-metaphysik-der-sitten:
   author: null
+  attribution: Immanuel Kant
   titles:
   - Die Metaphysik der Sitten
   year: 1797
@@ -934,6 +1019,7 @@ chua-ro.die-metaphysik-der-sitten:
   verified: null
 chua-ro.dieu-tra:
   author: null
+  same_as: hume.an-enquiry-concerning-human-understanding
   titles:
   - Điều tra
   year: 1748
@@ -946,6 +1032,7 @@ chua-ro.dieu-tra:
   verified: null
 chua-ro.discourse-on-the-method:
   author: null
+  same_as: descartes.discours-de-la-methode
   titles:
   - Discourse on the Method
   year: 1637
@@ -958,6 +1045,7 @@ chua-ro.discourse-on-the-method:
   verified: null
 chua-ro.doan-ban-ve-chinh-quyen:
   author: null
+  same_as: bentham.a-fragment-on-government
   titles:
   - Đoạn bàn về chính quyền
   year: 1776
@@ -970,6 +1058,7 @@ chua-ro.doan-ban-ve-chinh-quyen:
   verified: null
 chua-ro.eichmann-in-jerusalem:
   author: null
+  same_as: arendt.eichmann-in-jerusalem-a-report-on-the-banality-of
   titles:
   - Eichmann in Jerusalem
   year: 1963
@@ -984,6 +1073,7 @@ chua-ro.eichmann-in-jerusalem:
   verified: null
 chua-ro.either-or:
   author: null
+  same_as: kierkegaard.enteneller
   titles:
   - Either/Or
   year: 1843
@@ -996,6 +1086,7 @@ chua-ro.either-or:
   verified: null
 chua-ro.ethics:
   author: null
+  same_as: spinoza.ethica-ordine-geometrico-demonstrata
   titles:
   - Ethics
   year: 1677
@@ -1008,6 +1099,7 @@ chua-ro.ethics:
   verified: null
 chua-ro.ethics-inventing-right-and-wrong:
   author: null
+  attribution: J. L. Mackie
   titles:
   - 'Ethics: Inventing Right and Wrong'
   year: 1977
@@ -1020,6 +1112,7 @@ chua-ro.ethics-inventing-right-and-wrong:
   verified: null
 chua-ro.evil-and-the-god-of-love:
   author: null
+  attribution: John Hick
   titles:
   - Evil and the God of Love
   year: 1966
@@ -1032,6 +1125,7 @@ chua-ro.evil-and-the-god-of-love:
   verified: null
 chua-ro.fear-and-trembling:
   author: null
+  same_as: kierkegaard.frygt-og-bven
   titles:
   - Fear and Trembling
   year: 1843
@@ -1044,6 +1138,7 @@ chua-ro.fear-and-trembling:
   verified: null
 chua-ro.god-freedom-and-evil:
   author: null
+  attribution: Alvin Plantinga
   titles:
   - God, Freedom, and Evil
   year: 1974
@@ -1056,6 +1151,7 @@ chua-ro.god-freedom-and-evil:
   verified: null
 chua-ro.hien-tuong-hoc-tinh-than:
   author: null
+  same_as: hegel.phanomenologie-des-geistes
   titles:
   - Hiện tượng học Tinh thần
   year: 1807
@@ -1068,6 +1164,7 @@ chua-ro.hien-tuong-hoc-tinh-than:
   verified: null
 chua-ro.hien-tuong-luan-va-duy-vat-bien-chung:
   author: null
+  same_as: tran-duc-thao.phenomenologie-et-materialisme-dialectique
   titles:
   - Hiện tượng luận và duy vật biện chứng
   year: 1951
@@ -1083,6 +1180,7 @@ chua-ro.hien-tuong-luan-va-duy-vat-bien-chung:
 chua-ro.historiai:
   author: null
   author_name: Herodotus
+  attribution: Herodotus
   titles:
   - Historiai
   year: null
@@ -1093,9 +1191,11 @@ chua-ro.historiai:
   verified: null
 chua-ro.hoang-viet-van-tuyen:
   author: null
+  attribution: Bùi Huy Bích tuyển (văn nhiều tác giả)
   titles:
   - Hoàng Việt văn tuyển
   year: 1825
+  year_note: 1825 (Minh Mệnh 6) là năm bản khắc in Hi Văn Đường
   years_seen:
     '1825':
     - cau-hoi/nho-giao-viet.md#nguon
@@ -1107,6 +1207,7 @@ chua-ro.hoang-viet-van-tuyen:
   verified: null
 chua-ro.hopi-time:
   author: null
+  attribution: Ekkehart Malotki
   titles:
   - Hopi Time
   year: 1983
@@ -1119,9 +1220,14 @@ chua-ro.hopi-time:
   verified: null
 chua-ro.how-to-do-things-with-words:
   author: null
+  attribution: J. L. Austin
   titles:
   - How to Do Things with Words
   year: 1962
+  years_ok:
+  - 1955
+  - 1975
+  year_note: in sau khi tác giả mất, từ bài giảng William James 1955; bản 2 năm 1975
   years_seen:
     '1962':
     - lich-su/the-ky-20.md#nga-thu-hai-ton-tai-y-thuc-va-tu-do
@@ -1131,6 +1237,7 @@ chua-ro.how-to-do-things-with-words:
   verified: null
 chua-ro.in-a-different-voice:
   author: null
+  attribution: Carol Gilligan
   titles:
   - In a Different Voice
   year: 1982
@@ -1143,6 +1250,7 @@ chua-ro.in-a-different-voice:
   verified: null
 chua-ro.just-and-unjust-wars:
   author: null
+  attribution: Michael Walzer
   titles:
   - Just and Unjust Wars
   year: 1977
@@ -1157,6 +1265,7 @@ chua-ro.just-and-unjust-wars:
   verified: null
 chua-ro.khao-cuu-logic:
   author: null
+  same_as: husserl.logische-untersuchungen
   titles:
   - Khảo cứu logic
   year: 1900
@@ -1169,6 +1278,7 @@ chua-ro.khao-cuu-logic:
   verified: null
 chua-ro.khao-cuu-triet-hoc:
   author: null
+  same_as: wittgenstein.philosophische-untersuchungen
   titles:
   - Khảo cứu triết học
   year: 1953
@@ -1181,6 +1291,7 @@ chua-ro.khao-cuu-triet-hoc:
   verified: null
 chua-ro.khao-luan-ve-ban-tinh-con-nguoi:
   author: null
+  same_as: hume.a-treatise-of-human-nature
   titles:
   - Khảo luận về bản tính con người
   year: 1739
@@ -1193,6 +1304,7 @@ chua-ro.khao-luan-ve-ban-tinh-con-nguoi:
   verified: null
 chua-ro.khoa-hoc-vui:
   author: null
+  same_as: nietzsche.die-frohliche-wissenschaft
   titles:
   - Khoa học vui
   year: 1882
@@ -1205,6 +1317,7 @@ chua-ro.khoa-hoc-vui:
   verified: null
 chua-ro.khung-hoang-cua-cac-khoa-hoc-chau-au:
   author: null
+  same_as: husserl.die-krisis-der-europaischen-wissenschaften
   titles:
   - Khủng hoảng của các khoa học châu Âu
   year: 1936
@@ -1217,6 +1330,7 @@ chua-ro.khung-hoang-cua-cac-khoa-hoc-chau-au:
   verified: null
 chua-ro.killing-in-war:
   author: null
+  attribution: Jeff McMahan
   titles:
   - Killing in War
   year: 2009
@@ -1229,6 +1343,7 @@ chua-ro.killing-in-war:
   verified: null
 chua-ro.la-technique:
   author: null
+  attribution: Jacques Ellul
   titles:
   - La Technique
   year: 1954
@@ -1241,9 +1356,14 @@ chua-ro.la-technique:
   verified: null
 chua-ro.lam-son-thuc-luc:
   author: null
+  attribution: Nguyễn Trãi soạn, Lê Lợi đề tựa
   titles:
   - Lam Sơn thực lục
-  year: 1944
+  year: 1431
+  year_fixed: 1431
+  years_ok:
+  - 1944
+  year_note: nguyên bản chữ Hán soạn 1431; 1944 là năm bản dịch Mạc Bảo Thần
   years_seen:
     '1944':
     - doc/nguyen-trai-binh-ngo.md#_dau
@@ -1253,6 +1373,7 @@ chua-ro.lam-son-thuc-luc:
   verified: null
 chua-ro.language-truth-and-logic:
   author: null
+  attribution: A. J. Ayer
   titles:
   - Language, Truth and Logic
   - Language, Truth, and Logic
@@ -1269,6 +1390,7 @@ chua-ro.language-truth-and-logic:
 chua-ro.lao-tu:
   author: null
   author_name: Vương Bật (王弼, 226–249), chú giải
+  same_as: lao-tu.lao-tu
   titles:
   - Lão Tử
   year: null
@@ -1279,6 +1401,7 @@ chua-ro.lao-tu:
   verified: null
 chua-ro.liberalism-and-the-limits-of-justice:
   author: null
+  attribution: Michael Sandel
   titles:
   - Liberalism and the Limits of Justice
   year: 1982
@@ -1293,6 +1416,7 @@ chua-ro.liberalism-and-the-limits-of-justice:
   verified: null
 chua-ro.lich-su-triet-hoc-phuong-tay:
   author: null
+  same_as: russell.a-history-of-western-philosophy
   titles:
   - Lịch sử triết học phương Tây
   year: 1945
@@ -1305,6 +1429,7 @@ chua-ro.lich-su-triet-hoc-phuong-tay:
   verified: null
 chua-ro.living-without-free-will:
   author: null
+  attribution: Derk Pereboom
   titles:
   - Living Without Free Will
   year: 2001
@@ -1317,6 +1442,7 @@ chua-ro.living-without-free-will:
   verified: null
 chua-ro.luan-van-than-hocchinh-tri:
   author: null
+  same_as: spinoza.tractatus-theologico-politicus
   titles:
   - Luận văn thần học–chính trị
   year: 1670
@@ -1329,6 +1455,7 @@ chua-ro.luan-van-than-hocchinh-tri:
   verified: null
 chua-ro.luan-ve-nguon-goc-cua-bat-binh-dang:
   author: null
+  same_as: rousseau.discours-sur-lorigine-et-les-fondements-de-linegal
   titles:
   - Luận về nguồn gốc của bất bình đẳng
   year: 1755
@@ -1343,6 +1470,7 @@ chua-ro.luan-ve-nguon-goc-cua-bat-binh-dang:
   verified: null
 chua-ro.luan-ve-phuong-phap:
   author: null
+  same_as: descartes.discours-de-la-methode
   titles:
   - Luận về phương pháp
   year: 1637
@@ -1357,6 +1485,7 @@ chua-ro.luan-ve-phuong-phap:
   verified: null
 chua-ro.may:
   author: null
+  same_as: chua-ro.nephelai
   titles:
   - Mây
   year: -423
@@ -1369,6 +1498,7 @@ chua-ro.may:
   verified: null
 chua-ro.meaning-in-life-and-why-it-matters:
   author: null
+  attribution: Susan Wolf
   titles:
   - Meaning in Life and Why It Matters
   year: 2010
@@ -1381,6 +1511,7 @@ chua-ro.meaning-in-life-and-why-it-matters:
   verified: null
 chua-ro.meditations-on-first-philosophy:
   author: null
+  same_as: descartes.meditationes-de-prima-philosophia
   titles:
   - Meditations on First Philosophy
   year: 1641
@@ -1394,6 +1525,7 @@ chua-ro.meditations-on-first-philosophy:
 chua-ro.memorabilia:
   author: null
   author_name: Xenophon
+  attribution: Xenophon
   titles:
   - Memorabilia
   year: null
@@ -1405,6 +1537,7 @@ chua-ro.memorabilia:
 chua-ro.metaphysica:
   author: null
   author_name: Aristotle
+  same_as: aristotle.metaphysica
   titles:
   - Metaphysica
   year: null
@@ -1415,6 +1548,7 @@ chua-ro.metaphysica:
   verified: null
 chua-ro.metaphysik-der-sitten:
   author: null
+  same_as: chua-ro.die-metaphysik-der-sitten
   titles:
   - Metaphysik der Sitten
   year: 1797
@@ -1429,6 +1563,7 @@ chua-ro.metaphysik-der-sitten:
   verified: null
 chua-ro.mot-vai-suy-nghi-ve-giao-duc:
   author: null
+  same_as: locke.some-thoughts-concerning-education
   titles:
   - Một vài suy nghĩ về giáo dục
   year: 1693
@@ -1441,6 +1576,7 @@ chua-ro.mot-vai-suy-nghi-ve-giao-duc:
   verified: null
 chua-ro.nen-tang-sieu-hinh-hoc-cua-dao-duc:
   author: null
+  same_as: kant.grundlegung-zur-metaphysik-der-sitten
   titles:
   - Nền tảng siêu hình học của đạo đức
   year: 1785
@@ -1456,9 +1592,11 @@ chua-ro.nen-tang-sieu-hinh-hoc-cua-dao-duc:
 chua-ro.nephelai:
   author: null
   author_name: Aristophanes
+  attribution: Aristophanes
   titles:
   - Nephelai
   year: -423
+  year_note: diễn lần đầu 423 TCN; bản còn lại là bản sửa sau đó
   years_seen:
     '-423':
     - people/socrates
@@ -1468,6 +1606,7 @@ chua-ro.nephelai:
   verified: null
 chua-ro.nhung-van-de-cua-triet-hoc:
   author: null
+  same_as: russell.the-problems-of-philosophy
   titles:
   - Những vấn đề của triết học
   year: 1912
@@ -1482,6 +1621,7 @@ chua-ro.nhung-van-de-cua-triet-hoc:
   verified: null
 chua-ro.pha-he-cua-dao-duc:
   author: null
+  same_as: nietzsche.zur-genealogie-der-moral
   titles:
   - Phả hệ của đạo đức
   year: 1887
@@ -1494,6 +1634,7 @@ chua-ro.pha-he-cua-dao-duc:
   verified: null
 chua-ro.phenomenology-of-spirit:
   author: null
+  same_as: hegel.phanomenologie-des-geistes
   titles:
   - Phenomenology of Spirit
   year: 1807
@@ -1506,6 +1647,7 @@ chua-ro.phenomenology-of-spirit:
   verified: null
 chua-ro.philosophical-essays:
   author: null
+  attribution: Bertrand Russell
   titles:
   - Philosophical Essays
   year: 1910
@@ -1518,6 +1660,7 @@ chua-ro.philosophical-essays:
   verified: null
 chua-ro.philosophical-investigations:
   author: null
+  same_as: wittgenstein.philosophische-untersuchungen
   titles:
   - Philosophical Investigations
   year: 1953
@@ -1534,6 +1677,7 @@ chua-ro.philosophical-investigations:
   verified: null
 chua-ro.principia:
   author: null
+  attribution: Isaac Newton
   titles:
   - Principia
   year: 1687
@@ -1546,6 +1690,7 @@ chua-ro.principia:
   verified: null
 chua-ro.principia-ethica:
   author: null
+  attribution: G. E. Moore
   titles:
   - Principia Ethica
   year: 1903
@@ -1558,6 +1703,7 @@ chua-ro.principia-ethica:
   verified: null
 chua-ro.reason-truth-and-history:
   author: null
+  attribution: Hilary Putnam
   titles:
   - Reason, Truth and History
   year: 1981
@@ -1570,6 +1716,7 @@ chua-ro.reason-truth-and-history:
   verified: null
 chua-ro.respect-for-nature:
   author: null
+  attribution: Paul W. Taylor
   titles:
   - Respect for Nature
   year: 1986
@@ -1582,6 +1729,7 @@ chua-ro.respect-for-nature:
   verified: null
 chua-ro.sach-ve-cac-nguy-bien:
   author: null
+  same_as: bentham.the-book-of-fallacies
   titles:
   - Sách về các ngụy biện
   year: 1824
@@ -1594,6 +1742,7 @@ chua-ro.sach-ve-cac-nguy-bien:
   verified: null
 chua-ro.spheres-of-justice:
   author: null
+  attribution: Michael Walzer
   titles:
   - Spheres of Justice
   year: 1983
@@ -1606,9 +1755,15 @@ chua-ro.spheres-of-justice:
   verified: null
 chua-ro.stanford-encyclopedia-of-philosophy:
   author: null
+  attribution: Metaphysics Research Lab, Đại học Stanford (chủ biên Edward N. Zalta)
   titles:
   - Stanford Encyclopedia of Philosophy
   year: null
+  years_ok:
+  - 2004
+  - 2008
+  - 2026
+  year_note: bách khoa trực tuyến từ 1995; các năm trích là năm của từng mục
   years_seen:
     '2004':
     - cau-hoi/noi-doi.md#nguon
@@ -1624,9 +1779,13 @@ chua-ro.stanford-encyclopedia-of-philosophy:
 chua-ro.stoicorum-veterum-fragmenta:
   author: null
   author_name: von Arnim
+  attribution: Hans von Arnim (sưu tập, biên tập)
   titles:
   - Stoicorum Veterum Fragmenta
   year: 1903
+  years_ok:
+  - 1905
+  year_note: ba tập 1903–1905; tập I (Zeno) năm 1905
   years_seen:
     '1903':
     - people/zeno
@@ -1636,6 +1795,7 @@ chua-ro.stoicorum-veterum-fragmenta:
   verified: null
 chua-ro.su-ra-doi-cua-bi-kich:
   author: null
+  same_as: nietzsche.die-geburt-der-tragodie
   titles:
   - Sự ra đời của bi kịch
   year: 1872
@@ -1648,6 +1808,7 @@ chua-ro.su-ra-doi-cua-bi-kich:
   verified: null
 chua-ro.summa-theologica:
   author: null
+  same_as: aquinas.summa-theologiae
   titles:
   - Summa Theologica
   year: 1265
@@ -1660,6 +1821,7 @@ chua-ro.summa-theologica:
   verified: null
 chua-ro.superintelligence:
   author: null
+  attribution: Nick Bostrom
   titles:
   - Superintelligence
   year: 2014
@@ -1672,6 +1834,7 @@ chua-ro.superintelligence:
   verified: null
 chua-ro.suy-niem-ve-triet-hoc-thu-nhat:
   author: null
+  same_as: descartes.meditationes-de-prima-philosophia
   titles:
   - Suy niệm về triết học thứ nhất
   year: 1641
@@ -1684,6 +1847,7 @@ chua-ro.suy-niem-ve-triet-hoc-thu-nhat:
   verified: null
 chua-ro.tai-san-la-gi:
   author: null
+  attribution: Pierre-Joseph Proudhon
   titles:
   - Tài sản là gì?
   year: 1840
@@ -1696,6 +1860,7 @@ chua-ro.tai-san-la-gi:
   verified: null
 chua-ro.the-case-for-animal-rights:
   author: null
+  attribution: Tom Regan
   titles:
   - The Case for Animal Rights
   year: 1983
@@ -1708,6 +1873,7 @@ chua-ro.the-case-for-animal-rights:
   verified: null
 chua-ro.the-communist-manifesto:
   author: null
+  same_as: marx.manifest-der-kommunistischen-partei
   titles:
   - The Communist Manifesto
   year: 1848
@@ -1720,6 +1886,7 @@ chua-ro.the-communist-manifesto:
   verified: null
 chua-ro.the-concept-of-mind:
   author: null
+  attribution: Gilbert Ryle
   titles:
   - The Concept of Mind
   year: 1949
@@ -1732,6 +1899,7 @@ chua-ro.the-concept-of-mind:
   verified: null
 chua-ro.the-conscious-mind:
   author: null
+  attribution: David J. Chalmers
   titles:
   - The Conscious Mind
   year: 1996
@@ -1746,6 +1914,7 @@ chua-ro.the-conscious-mind:
   verified: null
 chua-ro.the-gay-science:
   author: null
+  same_as: nietzsche.die-frohliche-wissenschaft
   titles:
   - The Gay Science
   year: 1882
@@ -1758,6 +1927,7 @@ chua-ro.the-gay-science:
   verified: null
 chua-ro.the-guide-for-the-perplexed:
   author: null
+  same_as: maimonides.dalalat-al-hairin
   titles:
   - The Guide for the Perplexed
   year: 1190
@@ -1770,6 +1940,7 @@ chua-ro.the-guide-for-the-perplexed:
   verified: null
 chua-ro.the-logic-of-scientific-discovery:
   author: null
+  same_as: popper.logik-der-forschung
   titles:
   - The Logic of Scientific Discovery
   year: 1959
@@ -1782,6 +1953,7 @@ chua-ro.the-logic-of-scientific-discovery:
   verified: null
 chua-ro.the-reasons-of-love:
   author: null
+  attribution: Harry G. Frankfurt
   titles:
   - The Reasons of Love
   year: 2004
@@ -1794,6 +1966,7 @@ chua-ro.the-reasons-of-love:
   verified: null
 chua-ro.the-structure-of-scientific-revolutions:
   author: null
+  attribution: Thomas Kuhn
   titles:
   - The Structure of Scientific Revolutions
   year: 1962
@@ -1808,6 +1981,7 @@ chua-ro.the-structure-of-scientific-revolutions:
   verified: null
 chua-ro.three-essays-moral-and-political:
   author: null
+  attribution: David Hume
   titles:
   - Three Essays, Moral and Political
   year: 1748
@@ -1820,6 +1994,7 @@ chua-ro.three-essays-moral-and-political:
   verified: null
 chua-ro.thus-spoke-zarathustra:
   author: null
+  same_as: nietzsche.also-sprach-zarathustra
   titles:
   - Thus Spoke Zarathustra
   year: 1883
@@ -1832,6 +2007,7 @@ chua-ro.thus-spoke-zarathustra:
   verified: null
 chua-ro.ton-tai-va-hu-vo:
   author: null
+  same_as: sartre.l-etre-et-le-neant
   titles:
   - Tồn tại và hư vô
   year: 1943
@@ -1844,6 +2020,7 @@ chua-ro.ton-tai-va-hu-vo:
   verified: null
 chua-ro.ton-tai-va-thoi-gian:
   author: null
+  same_as: heidegger.sein-und-zeit
   titles:
   - Tồn tại và thời gian
   year: 1927
@@ -1856,6 +2033,7 @@ chua-ro.ton-tai-va-thoi-gian:
   verified: null
 chua-ro.triet-hoc-so-hoc:
   author: null
+  same_as: husserl.philosophie-der-arithmetik
   titles:
   - Triết học số học
   year: 1891
@@ -1868,6 +2046,7 @@ chua-ro.triet-hoc-so-hoc:
   verified: null
 chua-ro.tu-truyen:
   author: null
+  attribution: John Stuart Mill
   titles:
   - Tự truyện
   year: 1873
@@ -1880,6 +2059,7 @@ chua-ro.tu-truyen:
   verified: null
 chua-ro.tu-va-vat:
   author: null
+  same_as: quine.word-and-object
   titles:
   - Từ và vật
   year: 1960
@@ -1892,6 +2072,7 @@ chua-ro.tu-va-vat:
   verified: null
 chua-ro.tuyen-ngon-cua-dang-cong-san:
   author: null
+  same_as: marx.manifest-der-kommunistischen-partei
   titles:
   - Tuyên ngôn của Đảng Cộng sản
   year: 1848
@@ -1906,6 +2087,7 @@ chua-ro.tuyen-ngon-cua-dang-cong-san:
   verified: null
 chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug:
   author: null
+  attribution: Immanuel Kant
   titles:
   - Über ein vermeintes Recht aus Menschenliebe zu lügen
   year: 1797
@@ -1918,6 +2100,7 @@ chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug:
   verified: null
 chua-ro.viet-nam-su-luoc:
   author: null
+  attribution: Trần Trọng Kim
   titles:
   - Việt Nam sử lược
   year: 1920
@@ -1930,6 +2113,7 @@ chua-ro.viet-nam-su-luoc:
   verified: null
 chua-ro.xa-hoi-mo-va-ke-thu-cua-no:
   author: null
+  same_as: popper.the-open-society-and-its-enemies
   titles:
   - Xã hội mở và kẻ thù của nó
   year: 1945
@@ -1942,6 +2126,7 @@ chua-ro.xa-hoi-mo-va-ke-thu-cua-no:
   verified: null
 chua-ro.zarathustra-da-noi-nhu-the:
   author: null
+  same_as: nietzsche.also-sprach-zarathustra
   titles:
   - Zarathustra đã nói như thế
   year: 1883
@@ -1956,6 +2141,7 @@ chua-ro.zarathustra-da-noi-nhu-the:
   verified: null
 democritus.great-diacosmos:
   author: democritus
+  attribution: phái Theophrastus quy cho Leucippus (Diogenes Laërtius IX.46)
   titles:
   - Great Diacosmos
   year: null
@@ -2001,6 +2187,9 @@ descartes.le-monde:
   titles:
   - Le Monde
   year: 1664
+  years_ok:
+  - 1633
+  year_note: soạn 1629–1633, in sau khi tác giả mất năm 1664
   years_seen:
     '1664':
     - people/descartes
@@ -2096,6 +2285,7 @@ duc-phat.tieu-kinh-malunkya:
   verified: null
 epictetus.cam-nang:
   author: epictetus
+  attribution: Arrian ghi lại lời dạy của Epictetus
   titles:
   - Cẩm nang
   year: null
@@ -2106,6 +2296,7 @@ epictetus.cam-nang:
   verified: null
 epictetus.dien-tu:
   author: epictetus
+  attribution: Arrian ghi lại lời dạy của Epictetus
   titles:
   - Diễn từ
   year: null
@@ -2183,6 +2374,9 @@ frege.grundgesetze-der-arithmetik:
   titles:
   - Grundgesetze der Arithmetik
   year: 1893
+  years_ok:
+  - 1903
+  year_note: tập I 1893, tập II 1903
   years_seen:
     '1893':
     - people/frege
@@ -2192,6 +2386,7 @@ frege.grundgesetze-der-arithmetik:
   verified: null
 han-phi.han-phi-tu:
   author: han-phi
+  attribution: quy cho Hàn Phi; việc ông viết cả sách còn tranh luận
   titles:
   - Hàn Phi Tử
   year: null
@@ -2205,6 +2400,10 @@ hegel.enzyklopadie-der-philosophischen-wissenschaften:
   titles:
   - Enzyklopädie der philosophischen Wissenschaften
   year: 1817
+  years_ok:
+  - 1827
+  - 1830
+  year_note: in lần đầu 1817; bản sửa 1827, 1830
   years_seen:
     '1817':
     - people/hegel
@@ -2217,6 +2416,9 @@ hegel.grundlinien-der-philosophie-des-rechts:
   titles:
   - Grundlinien der Philosophie des Rechts
   year: 1821
+  years_ok:
+  - 1820
+  year_note: ra cuối 1820, trang tên đề 1821
   years_seen:
     '1821':
     - people/hegel
@@ -2241,6 +2443,7 @@ hegel.wissenschaft-der-logik:
   titles:
   - Wissenschaft der Logik
   year: 1812
+  year_note: xuất bản 1812–16 thành nhiều phần
   years_seen:
     '1812':
     - people/hegel
@@ -2253,6 +2456,7 @@ heidegger.holzwege:
   titles:
   - Holzwege
   year: 1950
+  year_note: các bài soạn 1935–46, in 1950
   years_seen:
     '1950':
     - people/heidegger
@@ -2289,6 +2493,7 @@ heidegger.uberlegungen-iixv:
   titles:
   - Überlegungen II–XV
   year: 2014
+  year_note: ba tập GA94–96, in 2014; viết 1931–1941
   years_seen:
     '2014':
     - people/heidegger
@@ -2301,6 +2506,7 @@ heraclitus.peri-physeos:
   titles:
   - Peri physeōs
   year: -500
+  year_note: ước đoán theo thời tác giả hoạt động (k. 500 TCN); tên sách do người sau gán
   years_seen:
     '-500':
     - people/heraclitus
@@ -2364,7 +2570,11 @@ hobbes.the-elements-of-law-natural-and-politic:
   author: hobbes
   titles:
   - The Elements of Law, Natural and Politic
-  year: 1640
+  year: 1650
+  year_fixed: 1650
+  years_ok:
+  - 1640
+  year_note: lưu hành bản chép tay 1640; in lần đầu 1650
   years_seen:
     '1640':
     - people/hobbes
@@ -2377,6 +2587,9 @@ hume.a-treatise-of-human-nature:
   titles:
   - A Treatise of Human Nature
   year: 1739
+  years_ok:
+  - 1740
+  year_note: quyển 1–2 năm 1739, quyển 3 năm 1740
   years_seen:
     '1739':
     - cau-hoi/cai-toi.md#cac-lap-truong-chinh
@@ -2394,6 +2607,9 @@ hume.an-enquiry-concerning-human-understanding:
   - An Enquiry concerning Human Understanding
   - An Enquiry Concerning Human Understanding
   year: 1748
+  years_ok:
+  - 1758
+  year_note: in 1748 với tên Philosophical Essays concerning Human Understanding; tên hiện nay từ bản 1758
   years_seen:
     '1748':
     - cau-hoi/loi-chung.md#cac-lap-truong-chinh
@@ -2428,6 +2644,7 @@ hume.dialogues-concerning-natural-religion:
   titles:
   - Dialogues concerning Natural Religion
   year: 1779
+  year_note: in sau khi tác giả mất; soạn từ đầu thập niên 1750
   years_seen:
     '1779':
     - people/hume
@@ -2440,6 +2657,9 @@ hume.the-history-of-england:
   titles:
   - The History of England
   year: 1754
+  years_ok:
+  - 1762
+  year_note: 6 tập in từ 1754 đến 1762
   years_seen:
     '1754':
     - people/hume
@@ -2452,6 +2672,9 @@ husserl.die-krisis-der-europaischen-wissenschaften:
   titles:
   - Die Krisis der europäischen Wissenschaften
   year: 1936
+  years_ok:
+  - 1954
+  year_note: năm 1936 chỉ in hai phần đầu trên tạp chí ở Belgrade; toàn văn trong Husserliana 6 (1954)
   years_seen:
     '1936':
     - people/husserl
@@ -2476,6 +2699,9 @@ husserl.logische-untersuchungen:
   titles:
   - Logische Untersuchungen
   year: 1900
+  years_ok:
+  - 1901
+  year_note: tập I 1900, tập II 1901; bản sửa 1913
   years_seen:
     '1900':
     - people/husserl
@@ -2488,6 +2714,10 @@ husserl.meditations-cartesiennes:
   titles:
   - Méditations cartésiennes
   year: 1931
+  years_ok:
+  - 1929
+  - 1950
+  year_note: từ bài giảng ở Paris 1929; bản Pháp 1931; bản Đức trong Husserliana 1 (1950)
   years_seen:
     '1931':
     - people/husserl
@@ -2536,6 +2766,9 @@ kant.kritik-der-reinen-vernunft:
   titles:
   - Kritik der reinen Vernunft
   year: 1781
+  years_ok:
+  - 1787
+  year_note: bản A 1781; bản B sửa lớn 1787
   years_seen:
     '1781':
     - people/kant
@@ -2569,6 +2802,7 @@ kant.zum-ewigen-frieden:
   verified: null
 khong-tu.le-ky:
   author: khong-tu
+  attribution: Đái Thánh (戴聖, Tây Hán) biên tập; văn của học trò Khổng Tử và nho gia đời sau
   titles:
   - Lễ ký
   year: null
@@ -2579,6 +2813,7 @@ khong-tu.le-ky:
   verified: null
 khong-tu.luan-ngu:
   author: khong-tu
+  attribution: lời Khổng Tử và học trò, do các thế hệ học trò biên soạn
   titles:
   - Luận ngữ
   year: null
@@ -2589,6 +2824,7 @@ khong-tu.luan-ngu:
   verified: null
 khong-tu.xuan-thu:
   author: khong-tu
+  attribution: theo truyền thống (Mạnh Tử 3B9) do Khổng Tử soạn
   titles:
   - Xuân Thu
   year: null
@@ -2684,6 +2920,7 @@ leibniz.discours-de-metaphysique:
   titles:
   - Discours de métaphysique
   year: 1686
+  year_note: năm soạn; in sau khi tác giả mất
   years_seen:
     '1686':
     - people/leibniz
@@ -2720,6 +2957,7 @@ leibniz.la-monadologie:
   titles:
   - La Monadologie
   year: 1714
+  year_note: năm soạn; in sau khi tác giả mất
   years_seen:
     '1714':
     - people/leibniz
@@ -2731,7 +2969,11 @@ leibniz.nouveaux-essais-sur-l-entendement-humain:
   author: leibniz
   titles:
   - Nouveaux essais sur l'entendement humain
-  year: 1704
+  year: 1765
+  year_fixed: 1765
+  years_ok:
+  - 1704
+  year_note: hoàn thành 1704, in lần đầu 1765
   years_seen:
     '1704':
     - people/leibniz
@@ -2795,6 +3037,7 @@ locke.two-treatises-of-government:
   verified: null
 mac-tu.mac-kinh:
   author: mac-tu
+  attribution: Mặc gia hậu kỳ (khuyết danh), trong sách Mặc Tử
   titles:
   - Mặc kinh
   year: null
@@ -2805,6 +3048,7 @@ mac-tu.mac-kinh:
   verified: null
 mac-tu.mac-tu:
   author: mac-tu
+  attribution: khuyết danh, nhiều thế hệ Mặc gia
   titles:
   - Mặc Tử
   year: null
@@ -2874,6 +3118,7 @@ marcus-aurelius.suy-tuong:
   titles:
   - Suy tưởng
   year: 170
+  year_note: 'soạn k. 170–180 (IEP: c. 171–175)'
   years_seen:
     '170':
     - people/marcus-aurelius
@@ -2895,9 +3140,15 @@ marx.das-kapital:
   verified: null
 marx.die-deutsche-ideologie:
   author: marx
+  attribution: Karl Marx và Friedrich Engels
   titles:
   - Die deutsche Ideologie
-  year: 1845
+  year: 1932
+  year_fixed: 1932
+  years_ok:
+  - 1845
+  - 1846
+  year_note: soạn 1845–46 cùng Engels, in đầy đủ 1932
   years_seen:
     '1845':
     - people/marx
@@ -2907,6 +3158,7 @@ marx.die-deutsche-ideologie:
   verified: null
 marx.manifest-der-kommunistischen-partei:
   author: marx
+  attribution: Karl Marx và Friedrich Engels
   titles:
   - Manifest der Kommunistischen Partei
   year: 1848
@@ -2921,7 +3173,11 @@ marx.okonomisch-philosophische-manuskripte:
   author: marx
   titles:
   - Ökonomisch-philosophische Manuskripte
-  year: 1844
+  year: 1932
+  year_fixed: 1932
+  years_ok:
+  - 1844
+  year_note: soạn 1844, in lần đầu 1932
   years_seen:
     '1844':
     - people/marx
@@ -2933,7 +3189,11 @@ marx.thesen-uber-feuerbach:
   author: marx
   titles:
   - Thesen über Feuerbach
-  year: 1845
+  year: 1888
+  year_fixed: 1888
+  years_ok:
+  - 1845
+  year_note: soạn xuân 1845; Engels in bản đã biên tập năm 1888; nguyên bản in 1924
   years_seen:
     '1845':
     - people/marx
@@ -3001,7 +3261,11 @@ mill.utilitarianism:
   author: mill
   titles:
   - Utilitarianism
-  year: null
+  year: 1861
+  year_fixed: 1861
+  years_ok:
+  - 1863
+  year_note: đăng kỳ trên Fraser’s Magazine 1861, in thành sách 1863
   years_seen:
     '1861':
     - people/mill
@@ -3073,6 +3337,7 @@ nguyen-trai.binh-ngo-dai-cao:
   titles:
   - Bình Ngô đại cáo
   year: 1428
+  year_note: Toàn thư chép cuối năm Đinh Mùi (âm lịch), tức đầu năm 1428
   years_seen:
     '1428':
     - cau-hoi/nho-giao-viet.md#_dau
@@ -3129,6 +3394,10 @@ nietzsche.also-sprach-zarathustra:
   titles:
   - Also sprach Zarathustra
   year: 1883
+  years_ok:
+  - 1884
+  - 1885
+  year_note: phần I–II 1883, III 1884, IV 1885
   years_seen:
     '1883':
     - people/nietzsche
@@ -3141,6 +3410,9 @@ nietzsche.die-frohliche-wissenschaft:
   titles:
   - Die fröhliche Wissenschaft
   year: 1882
+  years_ok:
+  - 1887
+  year_note: bản mở rộng 1887
   years_seen:
     '1882':
     - people/nietzsche
@@ -3177,6 +3449,10 @@ nietzsche.menschliches-allzumenschliches:
   titles:
   - Menschliches, Allzumenschliches
   year: 1878
+  years_ok:
+  - 1879
+  - 1880
+  year_note: tập 1 năm 1878; tập 2 năm 1879–1880
   years_seen:
     '1878':
     - people/nietzsche
@@ -3269,6 +3545,9 @@ parfit.on-what-matters:
   titles:
   - On What Matters
   year: 2011
+  years_ok:
+  - 2017
+  year_note: tập 1–2 năm 2011, tập 3 năm 2017
   years_seen:
     '2011':
     - people/parfit
@@ -3323,6 +3602,9 @@ pascal.les-provinciales:
   titles:
   - Les Provinciales
   year: 1656
+  years_ok:
+  - 1657
+  year_note: các thư ra từng lá, 1/1656–3/1657
   years_seen:
     '1656':
     - people/pascal
@@ -3335,6 +3617,7 @@ pascal.pensees:
   titles:
   - Pensées
   year: 1670
+  year_note: in sau khi tác giả mất, bản Port-Royal 1670
   years_seen:
     '1670':
     - people/pascal
@@ -3347,6 +3630,9 @@ pascal.traite-du-triangle-arithmetique:
   titles:
   - Traité du triangle arithmétique
   year: 1653
+  years_ok:
+  - 1654
+  year_note: soạn 1653–54, in sau khi tác giả mất
   years_seen:
     '1653':
     - people/pascal
@@ -3388,7 +3674,9 @@ platon.politeia:
   author: platon
   titles:
   - Politeia
-  year: null
+  year: -380
+  year_fixed: -380
+  year_note: 'niên đại ước đoán; IEP: c. 380–360 TCN'
   years_seen: {}
   used_in:
   - people/platon
@@ -3421,6 +3709,10 @@ popper.logik-der-forschung:
   titles:
   - Logik der Forschung
   year: 1934
+  years_ok:
+  - 1935
+  - 1959
+  year_note: in mùa thu 1934, trang tên đề 1935; bản tiếng Anh The Logic of Scientific Discovery 1959
   years_seen:
     '1934':
     - cau-hoi/khoa-hoc.md#cac-lap-truong-chinh
@@ -3457,6 +3749,10 @@ popper.the-poverty-of-historicism:
   titles:
   - The Poverty of Historicism
   year: 1957
+  years_ok:
+  - 1944
+  - 1945
+  year_note: ba bài trên Economica 1944–45, in thành sách 1957
   years_seen:
     '1957':
     - people/popper
@@ -3505,6 +3801,9 @@ quine.pursuit-of-truth:
   titles:
   - Pursuit of Truth
   year: 1990
+  years_ok:
+  - 1992
+  year_note: bản sửa 1992
   years_seen:
     '1990':
     - people/quine
@@ -3587,6 +3886,9 @@ rousseau.discours-sur-les-sciences-et-les-arts:
   titles:
   - Discours sur les sciences et les arts
   year: 1751
+  years_ok:
+  - 1750
+  year_note: đoạt giải Viện Hàn lâm Dijon 1750; SEP ghi in 1751, IEP ghi 1750
   years_seen:
     '1751':
     - people/rousseau
@@ -3647,6 +3949,9 @@ russell.a-history-of-western-philosophy:
   titles:
   - A History of Western Philosophy
   year: 1945
+  years_ok:
+  - 1946
+  year_note: bản Mỹ 1945; bản Anh 1946
   years_seen:
     '1945':
     - people/russell
@@ -3656,9 +3961,14 @@ russell.a-history-of-western-philosophy:
   verified: null
 russell.principia-mathematica:
   author: russell
+  attribution: Alfred North Whitehead và Bertrand Russell
   titles:
   - Principia Mathematica
   year: 1910
+  years_ok:
+  - 1912
+  - 1913
+  year_note: ba tập, 1910–1913
   years_seen:
     '1910':
     - doc/russell-gia-tri.md#boi-canh
@@ -3703,6 +4013,9 @@ sartre.critique-de-la-raison-dialectique:
   titles:
   - Critique de la raison dialectique
   year: 1960
+  years_ok:
+  - 1985
+  year_note: tập 1 năm 1960; tập 2 (di cảo) 1985
   years_seen:
     '1960':
     - people/sartre
@@ -3726,7 +4039,11 @@ sartre.l-existentialisme-est-un-humanisme:
   author: sartre
   titles:
   - L'existentialisme est un humanisme
-  year: null
+  year: 1946
+  year_fixed: 1946
+  years_ok:
+  - 1945
+  year_note: bài giảng cuối năm 1945, in 1946
   years_seen:
     '1945':
     - people/sartre
@@ -3765,6 +4082,7 @@ spinoza.ethica-ordine-geometrico-demonstrata:
   titles:
   - Ethica, ordine geometrico demonstrata
   year: 1677
+  year_note: di cảo, in trong Opera posthuma 1677
   years_seen:
     '1677':
     - people/spinoza
@@ -3789,6 +4107,7 @@ spinoza.tractatus-politicus:
   titles:
   - Tractatus politicus
   year: 1677
+  year_note: di cảo, dang dở; in 1677
   years_seen:
     '1677':
     - people/spinoza
@@ -3810,6 +4129,7 @@ spinoza.tractatus-theologico-politicus:
   verified: null
 thales.on-the-solstice:
   author: thales
+  attribution: chỉ được quy cho Thales theo một số người (Diogenes Laërtius I.23)
   titles:
   - On the Solstice
   year: null
@@ -3860,7 +4180,11 @@ tran-duc-thao.van-de-con-nguoi-va-chu-nghia-ly-luan-khong-co-con:
   author: tran-duc-thao
   titles:
   - Vấn đề con người và chủ nghĩa “lý luận không có con người”
-  year: 1989
+  year: 1988
+  year_fixed: 1988
+  years_ok:
+  - 1989
+  year_note: in lần đầu tháng 9/1988, lần hai tháng 1/1989
   years_seen:
     '1989':
     - people/tran-duc-thao
@@ -3960,6 +4284,7 @@ tue-trung.phong-cuong-ngam:
   verified: null
 tue-trung.tue-trung-thuong-si-ngu-luc:
   author: tue-trung
+  attribution: Pháp Loa biên tập sau khi Tuệ Trung mất
   titles:
   - Tuệ Trung Thượng Sĩ ngữ lục
   year: null
@@ -3985,6 +4310,7 @@ wittgenstein.the-blue-and-brown-books:
   titles:
   - The Blue and Brown Books
   year: 1958
+  year_note: đọc chép 1933–35, in 1958
   years_seen:
     '1958':
     - people/wittgenstein
@@ -3997,6 +4323,9 @@ wittgenstein.tractatus-logico-philosophicus:
   titles:
   - Tractatus Logico-Philosophicus
   year: 1921
+  years_ok:
+  - 1922
+  year_note: bản Đức 1921; bản song ngữ mang tên Latin 1922
   years_seen:
     '1921':
     - cau-hoi/chan-ly.md#cac-lap-truong-chinh
@@ -4013,6 +4342,7 @@ wittgenstein.uber-gewiheit:
   titles:
   - Über Gewißheit
   year: 1969
+  year_note: ghi chép 1949–51, in sau khi tác giả mất
   years_seen:
     '1969':
     - people/wittgenstein

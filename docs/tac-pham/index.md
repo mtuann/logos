@@ -66,10 +66,10 @@ sinh k. 460 TCN · [Trang triết gia](../triet-gia/democritus.md)
 
 k. 428–347 TCN · [Trang triết gia](../triet-gia/platon.md)
 
+- *Politeia* (380 TCN) — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
 - *Euthyphro* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
 - *Parmenides* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
 - *Phaedo* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
-- *Politeia* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
 - *Symposium* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
 
 ## Aristotle {#aristotle}
@@ -250,8 +250,8 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 1588–1679 · [Trang triết gia](../triet-gia/hobbes.md)
 
-- *The Elements of Law, Natural and Politic* (1640) — nhắc tới trong: [hồ sơ Thomas Hobbes](../triet-gia/hobbes.md)
 - *De Cive* (1642) — nhắc tới trong: [hồ sơ Thomas Hobbes](../triet-gia/hobbes.md)
+- *The Elements of Law, Natural and Politic* (1650) — nhắc tới trong: [hồ sơ Thomas Hobbes](../triet-gia/hobbes.md)
 - *Leviathan* (1651) — nhắc tới trong: [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md#cac-lap-truong-chinh), [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md#cac-lap-truong-chinh), [hồ sơ Thomas Hobbes](../triet-gia/hobbes.md)
 - *De Corpore* (1655) — nhắc tới trong: [hồ sơ Thomas Hobbes](../triet-gia/hobbes.md)
 - *De Homine* (1658) — nhắc tới trong: [hồ sơ Thomas Hobbes](../triet-gia/hobbes.md)
@@ -300,9 +300,9 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 - *Dissertatio de arte combinatoria* (1666) — nhắc tới trong: [hồ sơ Leibniz](../triet-gia/leibniz.md)
 - *Discours de métaphysique* (1686) — nhắc tới trong: [hồ sơ Leibniz](../triet-gia/leibniz.md)
-- *Nouveaux essais sur l'entendement humain* (1704) — nhắc tới trong: [hồ sơ Leibniz](../triet-gia/leibniz.md)
 - *Essais de Théodicée* (1710) — nhắc tới trong: [hồ sơ Leibniz](../triet-gia/leibniz.md)
 - *La Monadologie* (1714) — nhắc tới trong: [hồ sơ Leibniz](../triet-gia/leibniz.md)
+- *Nouveaux essais sur l'entendement humain* (1765) — nhắc tới trong: [hồ sơ Leibniz](../triet-gia/leibniz.md)
 
 ## David Hume {#hume}
 
@@ -339,7 +339,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 1748–1832 · [Trang triết gia](../triet-gia/bentham.md)
 
 - *A Fragment on Government* (1776) — nhắc tới trong: [hồ sơ Jeremy Bentham](../triet-gia/bentham.md)
-- *An Introduction to the Principles of Morals and Legislation* (1780) — nhắc tới trong: [hồ sơ Jeremy Bentham](../triet-gia/bentham.md)
+- *An Introduction to the Principles of Morals and Legislation* (1789) — nhắc tới trong: [hồ sơ Jeremy Bentham](../triet-gia/bentham.md)
 - *Panopticon; or, The Inspection House* (1791) — nhắc tới trong: [hồ sơ Jeremy Bentham](../triet-gia/bentham.md)
 - *Plan of Parliamentary Reform* (1817) — nhắc tới trong: [hồ sơ Jeremy Bentham](../triet-gia/bentham.md)
 - *The Book of Fallacies* (1824) — nhắc tới trong: [hồ sơ Jeremy Bentham](../triet-gia/bentham.md)
@@ -359,7 +359,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 - *A System of Logic* (1843) — nhắc tới trong: [hồ sơ J. S. Mill](../triet-gia/mill.md)
 - *On Liberty* (1859) — nhắc tới trong: [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md#cac-lap-truong-chinh), [Tự do ngôn luận — John Stuart Mill, \"Bàn về tự do\" chương 2 (1859)](../doc/mill-tu-do.md#doc-tung-doan), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon), [hồ sơ J. S. Mill](../triet-gia/mill.md)
-- *Utilitarianism* (1861; 1863) — nhắc tới trong: [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh), [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md#doc-van-ban-goc), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon), [hồ sơ J. S. Mill](../triet-gia/mill.md)
+- *Utilitarianism* (1861) — nhắc tới trong: [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh), [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md#doc-van-ban-goc), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon), [hồ sơ J. S. Mill](../triet-gia/mill.md)
 - *The Subjection of Women* (1869) — nhắc tới trong: [hồ sơ J. S. Mill](../triet-gia/mill.md)
 
 ## Kierkegaard {#kierkegaard}
@@ -377,12 +377,12 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 1818–1883 · [Trang triết gia](../triet-gia/marx.md)
 
-- *Ökonomisch-philosophische Manuskripte* (1844) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
-- *Die deutsche Ideologie* (1845) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
-- *Thesen über Feuerbach* (1845) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
 - *Manifest der Kommunistischen Partei* (1848) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
 - *Zur Kritik der politischen Ökonomie* (1859) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
 - *Das Kapital* (1867) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
+- *Thesen über Feuerbach* (1888) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
+- *Die deutsche Ideologie* (1932) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
+- *Ökonomisch-philosophische Manuskripte* (1932) — nhắc tới trong: [hồ sơ Karl Marx](../triet-gia/marx.md)
 
 ## Nietzsche {#nietzsche}
 
@@ -456,7 +456,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 - *La Nausée* (1938) — nhắc tới trong: [hồ sơ Sartre](../triet-gia/sartre.md)
 - *L'Être et le néant* (1943) — nhắc tới trong: [hồ sơ Sartre](../triet-gia/sartre.md)
-- *L'existentialisme est un humanisme* (1945; 1946) — nhắc tới trong: [hồ sơ Sartre](../triet-gia/sartre.md)
+- *L'existentialisme est un humanisme* (1946) — nhắc tới trong: [hồ sơ Sartre](../triet-gia/sartre.md)
 - *Critique de la raison dialectique* (1960) — nhắc tới trong: [hồ sơ Sartre](../triet-gia/sartre.md)
 - *Les Mots* (1964) — nhắc tới trong: [hồ sơ Sartre](../triet-gia/sartre.md)
 
@@ -496,7 +496,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 - *La Phénoménologie de l’esprit et son contenu réel* (1948) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
 - *Phénoménologie et matérialisme dialectique* (1951) — nhắc tới trong: [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md#tu-kiem-tra), [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
 - *Recherches sur l’origine du langage et de la conscience* (1973) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
-- *Vấn đề con người và chủ nghĩa “lý luận không có con người”* (1989) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
+- *Vấn đề con người và chủ nghĩa “lý luận không có con người”* (1988) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
 
 ## John Rawls {#rawls}
 

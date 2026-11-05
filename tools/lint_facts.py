@@ -52,6 +52,10 @@ def collect():
                 if not key:
                     continue
                 y, w = year_of(m.group(2), m.group(3)), works[key]
+                while w.get("same_as") in works:            # tên khác của một tác phẩm đã có (đợt 5.1)
+                    key, w = w["same_as"], works[w["same_as"]]
+                if y in w.get("years_ok", []):              # năm khác hợp lệ đã kiểm (year_note)
+                    continue
                 if w["year"] is None:
                     yield Finding(p.path, no, unit, "nam-chua-chot", f"*{m.group(1)}* ({y})",
                                   f"`{key}` gặp với các năm {', '.join(w['years_seen'])}")

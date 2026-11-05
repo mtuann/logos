@@ -13,7 +13,8 @@ Hai nguồn:
      `author: null`, khóa `chua-ro.<tên>`. Không đoán tác giả: gán ở đợt 5.
 Mỗi bản ghi giữ mọi cách viết tên (`titles`) và mọi năm gặp được (`years_seen`: năm → đơn vị). `year` chỉ điền khi
 mọi chỗ cùng một năm; khác nhau thì `null` và vào verification/lech/works.md (năm bản gốc và năm bản dịch/bản in
-khác nhau là chuyện thường: đợt 5 xem từng trường hợp). Trường `title_orig`, `attribution`, `year_note`, `evidence`, `verified` được giữ khi rút lại (đợt 5.1).
+khác nhau là chuyện thường: đợt 5 xem từng trường hợp). Trường `title_orig`, `same_as`, `attribution`, `year_fixed`, `years_ok`, `year_note`, `evidence`, `verified` được giữ khi
+rút lại (đợt 5.1); có `year_fixed` thì `year` lấy giá trị đó.
 """
 
 from __future__ import annotations
@@ -32,7 +33,7 @@ from lz.lint import masked_lines
 
 OUT = ROOT / "data" / "kb" / "works.yml"
 LECH = ROOT / "verification" / "lech" / "works.md"
-KEEP = ("title_orig", "attribution", "year_note", "evidence", "verified")
+KEEP = ("title_orig", "same_as", "attribution", "year_fixed", "years_ok", "year_note", "evidence", "verified")
 # Số dính chữ cái ngay sau ("519a": số trang Stephanus) không phải năm.
 # Sau năm (và "TCN") phải là dấu đóng ngoặc, phẩy, chấm phẩy hay gạch nối: "(100 nhà sản xuất…)" không phải năm
 # (đợt 5.1, `works/chua-ro.cdp-carbon-majors-report-2017`).
@@ -40,7 +41,7 @@ WORK_YEAR = re.compile(r"\*([^*\n]{2,160}?)\*\s*\((?:khoảng |k\. |năm )?(\d{3
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
 YEAR = re.compile(r"^(?:k\. |khoảng )?(\d{3,4})(\s*TCN)?\b")
 HEAD = ("# Kho tác phẩm. RÚT TỰ ĐỘNG bằng tools/kb_works.py từ \"*Tên* (năm)\" trong bài và danh sách tác phẩm của hồ sơ;\n"
-        "# chỉ title_orig, attribution, year_note, evidence, verified được sửa ở đây. Schema: schema/kb/works.schema.json. Lệch: verification/lech/works.md.\n")
+        "# chỉ title_orig, same_as, attribution, year_fixed, years_ok, year_note, evidence, verified được sửa ở đây. Schema: schema/kb/works.schema.json. Lệch: verification/lech/works.md.\n")
 
 
 def norm(title: str) -> str:
@@ -137,21 +138,26 @@ def merge_kept(recs: dict, old: dict) -> dict:
         for f in KEEP:
             if f in (old.get(key) or {}):
                 r[f] = old[key][f]
+        if r.get("year_fixed") is not None:          # năm đã chốt khi kiểm chứng (quyết định 28)
+            r["year"] = r["year_fixed"]
     return recs
 
 
 def render(recs: dict) -> str:
-    order = ["author", "author_name", "attribution", "titles", "title_orig", "year", "year_note", "years_seen", "used_in", "evidence", "verified"]
+    order = ["author", "author_name", "attribution", "same_as", "titles", "title_orig", "year", "year_fixed", "years_ok",
+             "year_note", "years_seen", "used_in", "evidence", "verified"]
     out = {k: {f: r[f] for f in order if f in r} for k, r in recs.items()}
     return HEAD + yaml.safe_dump(out, allow_unicode=True, sort_keys=False, width=1_000_000)
 
 
 def render_lech(recs: dict) -> str:
-    multi = {k: r for k, r in recs.items() if len(r["years_seen"]) > 1}
-    unknown = [k for k, r in recs.items() if r["author"] is None]
+    def settled(r):    # mọi năm gặp được đều là year hoặc nằm trong years_ok (đợt 5.1)
+        return r.get("year") is not None and {int(y) for y in r["years_seen"]} <= {r["year"], *r.get("years_ok", [])}
+    multi = {k: r for k, r in recs.items() if len(r["years_seen"]) > 1 and not settled(r)}
+    unknown = [k for k, r in recs.items() if r["author"] is None and not r.get("attribution") and not r.get("same_as")]
     L = ["# Danh sách lệch: tác phẩm", "",
          "Sinh bằng `python tools/kb_works.py`. Đầu vào cho đợt 5 (đợt con 5.1): không sửa trong đợt 2.", "",
-         f"- {len(recs)} tác phẩm; {len(recs) - len(unknown)} đã biết tác giả (từ hồ sơ), {len(unknown)} chưa rõ tác giả (`chua-ro.*`).",
+         f"- {len(recs)} tác phẩm; {len(recs) - len(unknown)} đã biết tác giả (hồ sơ, hoặc `attribution`/`same_as` ghi khi kiểm ở đợt 5.1), {len(unknown)} chưa rõ.",
          f"- {len(multi)} tác phẩm gặp với hơn một năm.", "",
          f"## Tác phẩm có hơn một năm ({len(multi)})", "",
          "Năm bản gốc, năm bản sửa, năm bản dịch có thể khác nhau hợp lệ: xem từng chỗ, rồi chốt `year` và cách ghi.", "",
