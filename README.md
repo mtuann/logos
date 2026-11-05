@@ -46,6 +46,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   kb_sources.py           data/kb/sources.yml từ mọi mục Nguồn và sources của hồ sơ (giữ archive, accessed, verified);
                           danh sách lệch verification/lech/sources.md; --check (CI)
   kb_works.py             data/kb/works.yml từ "*Tên* (năm)" và danh sách tác phẩm của hồ sơ; lệch: verification/lech/works.md
+  kb_quotes.py            data/kb/quotes.yml từ khối !!! quote (thân nguyên văn) và quote của hồ sơ; lệch: verification/lech/quotes.md
   sep_archive.py          đổi link SEP sang bản lưu fall2026 (quyết định 14) sau khi mở thử từng mục; --dry-run, --cache
   kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
@@ -70,6 +71,7 @@ tests/
   test_hooks.py           kiểm thử hook Python và script sinh trang
   test_kb_sources.py       tools/kb_sources.py: phân loại, khóa, mọi mục Nguồn có bản ghi
   test_kb_works.py        tools/kb_works.py: mẫu năm, gán tác giả, 159 chỗ như báo cáo nền
+  test_kb_quotes.py       tools/kb_quotes.py: tách khối, ghép ngược đúng từng chữ
   test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
@@ -117,7 +119,7 @@ Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes; do
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu

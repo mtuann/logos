@@ -66,6 +66,8 @@ jobs:
         run: uv run --frozen python tools/kb_sources.py --check
       - name: Kho tác phẩm khớp trang và hồ sơ
         run: uv run --frozen python tools/kb_works.py --check
+      - name: Kho trích dẫn khớp các trang
+        run: uv run --frozen python tools/kb_quotes.py --check
       - name: Kho dữ kiện khớp schema và tham chiếu chéo
         run: uv run --frozen python tools/kb_check.py --check
       - name: ID cố định cho mục H2 của Lõi
