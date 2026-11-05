@@ -39,7 +39,6 @@ SAME_AS = {
     "chua-ro.confessions": "augustine.confessiones",
     "chua-ro.cong-hoa": "platon.politeia",
     "chua-ro.critique-of-pure-reason": "kant.kritik-der-reinen-vernunft",
-    "chua-ro.dieu-tra": "hume.an-enquiry-concerning-human-understanding",
     "chua-ro.discourse-on-the-method": "descartes.discours-de-la-methode",
     "chua-ro.doan-ban-ve-chinh-quyen": "bentham.a-fragment-on-government",
     "chua-ro.eichmann-in-jerusalem": "arendt.eichmann-in-jerusalem-a-report-on-the-banality-of",
@@ -104,6 +103,7 @@ ATTRIBUTION = {
     "chua-ro.contra-mendacium": "Augustine",
     "chua-ro.de-mendacio": "Augustine",
     "chua-ro.de-revolutionibus": "Nicolaus Copernicus",
+    "chua-ro.dieu-tra": "David Hume",
     "chua-ro.den-hien-dai-tu-truyen-thong": "Trần Đình Hượu",
     "chua-ro.die-fragmente-der-vorsokratiker": "Hermann Diels và Walther Kranz (biên tập)",
     "chua-ro.die-metaphysik-der-sitten": "Immanuel Kant",
@@ -194,6 +194,7 @@ YEARS = {
     "arendt.on-revolution": (None, [1965], "bản sửa 1965"),
     "beauvoir.pyrrhus-et-cineas": (None, [1943], "viết 1943, in 1944"),
     "chua-ro.anh-em-nha-karamazov": (None, [1879], "xuất bản 1879–1880"),
+    "chua-ro.dieu-tra": (None, [1751], "tên chung cho hai cuốn An Enquiry concerning Human Understanding (1748) và An Enquiry concerning the Principles of Morals (1751) (kiểm mẫu 5.1)"),
     "chua-ro.die-fragmente-der-vorsokratiker": (1903, [1951], "bản đầu 1903; bản thứ 6 năm 1951 là bản chuẩn được trích dẫn (DK)"),
     "chua-ro.hoang-viet-van-tuyen": (None, [], "1825 (Minh Mệnh 6) là năm bản khắc in Hi Văn Đường"),
     "chua-ro.how-to-do-things-with-words": (None, [1955, 1975], "in sau khi tác giả mất, từ bài giảng William James 1955; bản 2 năm 1975"),
@@ -243,8 +244,16 @@ YEARS = {
 }
 
 
+# Trường bỏ khỏi bản ghi (kết quả kiểm mẫu: `same_as` sai).
+REMOVE = {"chua-ro.dieu-tra": ["same_as"]}
+
+
 def apply(works: dict) -> int:
     n = 0
+    for k, fields in REMOVE.items():
+        for f in fields:
+            n += f in works[k]
+            works[k].pop(f, None)
     for table in (SAME_AS, ATTRIBUTION, YEARS):
         missing = sorted(set(table) - set(works))
         if missing:

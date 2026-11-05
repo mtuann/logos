@@ -1,0 +1,47 @@
+{
+  "unit": "works/chua-ro.beantwortung-der-frage-was-ist-aufklarung",
+  "hash": "sha256:e13f6ab3cfd7b1b2712262c20b734d5ee74426c701b61d8cb216639a79c8f701",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-1",
+  "claims": [
+    {
+      "text": "titles: Beantwortung der Frage: Was ist Aufklärung?",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Titel: Beantwortung der Frage: Was ist Aufklärung?"
+        }
+      ]
+    },
+    {
+      "text": "attribution: Immanuel Kant",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Immanuel Kant"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/enlightenment/",
+          "quote": "Immanuel Kant defines “enlightenment” in his famous contribution to debate on the question in an essay entitled “An Answer to the Question: What is Enlightenment?” (1784)"
+        }
+      ]
+    },
+    {
+      "text": "year: 1784",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "aus: Berlinische Monatsschrift , Bd. 4, 1784, Zwölftes Stück, S. 481–494"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ghi chú mô hình dữ liệu (không phải lỗi dữ kiện): author=null dù Kant có hồ sơ trong people.yml (people/kant); có thể gán author: kant."
+}

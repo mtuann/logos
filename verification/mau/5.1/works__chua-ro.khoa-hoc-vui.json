@@ -1,0 +1,36 @@
+{
+  "unit": "works/chua-ro.khoa-hoc-vui",
+  "hash": "sha256:669d33efe99ddc4e278979b81ef231a4858fcae8eca556595a3d2153cfd0bf03",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-1",
+  "claims": [
+    {
+      "text": "same_as: nietzsche.die-frohliche-wissenschaft — 'Khoa học vui' là tên Việt của Die fröhliche Wissenschaft (The Gay Science)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/52881",
+          "quote": "Uniform Title Fröhliche Wissenschaft. English Title The Joyful Wisdom"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "The Gay Science (1882, second expanded edition 1887)"
+        }
+      ]
+    },
+    {
+      "text": "year: 1882",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "The Gay Science (1882, second expanded edition 1887)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

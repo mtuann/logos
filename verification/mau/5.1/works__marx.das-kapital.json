@@ -1,0 +1,36 @@
+{
+  "unit": "works/marx.das-kapital",
+  "hash": "sha256:5c8063629903ec5bf9c3a487f61cb8080bb8c91e72df3fd6c67a5034effad0f1",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-2",
+  "claims": [
+    {
+      "text": "Das Kapital của Karl Marx",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/37098",
+          "quote": "Uniform Title Das Kapital."
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/37098",
+          "quote": "Marx, Karl, 1818-1883"
+        }
+      ]
+    },
+    {
+      "text": "year 1867",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/exploitation/",
+          "quote": "1867, Capital: A Critique of Political Economy"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "1867 là năm tập I; tập II, III do Engels xuất bản sau khi Marx mất (không kiểm trong phiên này)."
+}

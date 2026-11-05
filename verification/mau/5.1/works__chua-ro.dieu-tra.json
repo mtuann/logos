@@ -1,0 +1,80 @@
+{
+  "unit": "works/chua-ro.dieu-tra",
+  "hash": "sha256:b62b8e477b72aba834b09ed4bb44980e13107ccf09ded2969316118d34ed87a4",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-1",
+  "claims": [
+    {
+      "text": "same_as: hume.an-enquiry-concerning-human-understanding — 'Điều tra' là tên khác của An Enquiry concerning Human Understanding",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "In 1748, he published An Enquiry concerning Human Understanding"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
+        }
+      ],
+      "severity": "vua",
+      "fix": "Chỗ dùng (people/hume, docs/triet-gia/hume.md: 'hai cuốn *Điều tra* (1748, 1751)') gọi chung cả hai cuốn Enquiry; không nên quy 'Điều tra' về riêng EHU 1748. Tách thành hai tham chiếu (EHU 1748 và EPM 1751) hoặc bỏ bản ghi chua-ro này/ghi year_note 'chỉ chung hai cuốn Điều tra, 1748 và 1751'.",
+      "fixed": true
+    },
+    {
+      "text": "year: 1748 (năm của An Enquiry concerning Human Understanding)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "In 1748, he published An Enquiry concerning Human Understanding"
+        }
+      ]
+    },
+    {
+      "text": "attribution: David Hume (cả hai cuốn Enquiry)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "In 1748, he published An Enquiry concerning Human Understanding"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1751 (năm của An Enquiry concerning the Principles of Morals)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
+        }
+      ]
+    },
+    {
+      "text": "year_note: tên chung cho hai cuốn An Enquiry concerning Human Understanding (1748) và An Enquiry concerning the Principles of Morals (1751)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "In 1748, he published An Enquiry concerning Human Understanding"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bản sửa (hash b62b8e47…): bỏ same_as, attribution David Hume, year 1748, years_ok [1751], year_note nêu rõ tên chung cho hai cuốn — khớp câu nguồn ở docs/triet-gia/hume.md ('hai cuốn *Điều tra* (1748, 1751)') và SEP hume (fall2026, mở lại trong phiên). Claim sai cũ đặt fixed: true."
+}

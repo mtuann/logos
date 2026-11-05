@@ -1,0 +1,47 @@
+{
+  "unit": "works/duc-phat.kinh-ca-chien-dien",
+  "hash": "sha256:33a60c650e81a23e19fc5aae7d4e3189bdb7160e14dcb0187b3b57b8d865c38d",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-2",
+  "claims": [
+    {
+      "text": "Tên \"Kinh Ca-chiên-diên\" (Kaccānagotta Sutta, SN 12.15; tương đương Hán SA 301 迦旃延)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/suttas/sa301/tue_sy-thang?lang=vi",
+          "quote": "KINH 301. CA-CHIÊN-DIÊN"
+        },
+        {
+          "url": "https://suttacentral.net/api/suttas/sn12.15/minh_chau",
+          "quote": "\"original_title\": \"Kaccānagottasutta\""
+        }
+      ]
+    },
+    {
+      "text": "author Đức Phật (bài kinh là lời Đức Phật dạy Kaccāna)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/bilarasuttas/sn12.15/sujato?lang=en",
+          "quote": "Then Venerable Kaccānagotta went up to the Buddha"
+        }
+      ]
+    },
+    {
+      "text": "year null (không gán năm)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/suttas/sn12.15/minh_chau",
+          "quote": "\"acronym\": \"SN 12.15\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tên tiếng Việt \"Ca-chiên-diên\" có trong bản Việt dịch SA 301 (Tuệ Sỹ – Thắng) trên SuttaCentral; SA 301 là bản Hán tương đương SN 12.15. Gán tác giả cho Đức Phật theo truyền thống kinh điển. year null hợp lý."
+}
