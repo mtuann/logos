@@ -32,7 +32,7 @@ Bạn đang làm việc trên repo Logos (làm lại website triết học tiế
 1. Đọc AGENTS.md và tuân theo toàn bộ, nhất là mục 3 (luật cứng) và mục 6 (khi nào dừng và hỏi).
 2. Việc của phiên này: Đợt {N} — {tên đợt}, phần: {phạm vi cụ thể, ví dụ "việc 0.4 và 0.5"}. Chi tiết ở ban-giao/dot-{N}.md.
 3. Nếu có ban-giao/nhat-ky-dot-{N}.md thì đọc và làm tiếp từ đó, không làm lại.
-4. Làm trên nhánh dot-{N}-{tên-ngắn}. Không push lên main, không merge, không xóa file.
+4. Mỗi việc một nhánh dot-{N}-{tên-ngắn}; xong việc, bộ kiểm tra xanh thì merge --no-ff vào main trên máy. Chỉ push main khi xong cả đợt (AGENTS.md luật 6). Không xóa file.
 5. Sau mỗi đơn vị việc, ghi một dòng vào ban-giao/nhat-ky-dot-{N}.md.
 6. Trước khi báo cáo, chạy bộ kiểm tra đầy đủ ở AGENTS.md mục 4.
 Kết thúc bằng báo cáo theo mẫu AGENTS.md mục 7.

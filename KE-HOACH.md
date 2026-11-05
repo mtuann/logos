@@ -201,16 +201,16 @@ Linter mới chạy ở chế độ cảnh báo hai tuần rồi mới chuyển 
 ## 9. Quy trình PR và vai trò
 
 1. Issue "Đợt N" ghi phạm vi, cổng, danh sách việc.
-2. Nhánh `dot-N-<ten>`; mỗi PR tối đa 3 đơn vị nội dung, hoặc đúng một thay đổi cơ học.
+2. Nhánh `dot-N-<ten>`; mỗi nhánh tối đa 3 đơn vị nội dung, hoặc đúng một thay đổi cơ học. Không mở PR: xong việc thì merge vào `main` trên máy; push `main` khi xong cả đợt (chủ biên chốt 5/11/2026).
 3. CI: schema → generator `--check` → linter → sổ kiểm chứng → `properdocs build --strict` → kiểm thử; `changed_units.py` bình luận PR.
 4. Kiểm: cơ học thì kiểm tra tương đương; nội dung thì agent kiểm độc lập, bằng chứng vào `verification/evidence/`.
-5. Chủ biên đọc báo cáo PR và mẫu 10%, rồi merge.
+5. Agent merge vào `main` trên máy; chủ biên đọc báo cáo cuối phiên, nhật ký và mẫu 10%.
 6. Đóng đợt: tag (`v1.1`, `v1.2`…), mục Cập nhật sinh từ các PR, cập nhật bảng Trạng thái ở đầu file này.
 
 | Vai trò | Ai | Việc |
 |---|---|---|
-| Chủ biên | mtuann | chọn quyết định, duyệt cổng và mẫu, merge |
-| Agent làm | một phiên agent | script, chuyển nội dung, sửa theo báo cáo, mở PR |
+| Chủ biên | mtuann | chọn quyết định, duyệt cổng và mẫu |
+| Agent làm | một phiên agent | script, chuyển nội dung, sửa theo báo cáo; merge vào `main` trên máy sau mỗi việc, push khi xong đợt |
 | Agent kiểm | phiên agent khác | tra nguồn, ghi bằng chứng; không tự sửa bài |
 | CI | GitHub Actions | mọi thứ máy kiểm được; chặn merge khi đỏ |
 
