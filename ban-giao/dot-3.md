@@ -81,7 +81,7 @@ Số tổng thêm vào `philpapers-2020.json` ở `source.survey`, chép từ ch
 - [x] Ô số PhilPapers khớp JSON là shortcode (341/345 ô, 63 n, 31 số tổng; 55 trang); ô còn lại và số trong văn xuôi ở `verification/lech/philpapers-bang.md`; `tests/test_dot3.py` canh.
 - [x] Tương đương 100% cả đợt (`tools/parity.py --base v1.2`: 181 trang giống hệt, không phép thay nào); 70 đơn vị đổi mã băm (62 Lõi), đều do chữ thay bằng shortcode.
 - [x] `AGENTS.md` mục 4 cập nhật (`thoi_su_check`, `lint_volatile --strict`).
-- [ ] CI xanh.
+- [x] CI xanh (5/11/2026: trên máy 171 unittest, 122 + 250 kiểm thử JS; GitHub Actions run 42019542764 trên `main`: build và deploy xanh).
 
 ## Không làm
 
