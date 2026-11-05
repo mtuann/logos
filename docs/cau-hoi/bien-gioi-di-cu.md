@@ -204,7 +204,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Wellman, Christopher Heath, "Immigration", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/immigration/>
+1. Wellman, Christopher Heath, "Immigration", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/immigration/>
 2. Carens, Joseph H. (1987), "Aliens and Citizens: The Case for Open Borders", *The Review of Politics* 49(2): 251–273. <https://doi.org/10.1017/S0034670500033817>
 3. Walzer, Michael (1983), *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic Books.
 4. Tuyên ngôn Quốc tế Nhân quyền (1948), Liên Hợp Quốc (văn kiện công cộng).

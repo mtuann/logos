@@ -72,8 +72,8 @@ Nếu Thượng đế toàn năng và hoàn toàn tốt lành, vì sao có đau 
 
 ## Nguồn
 
-1. Look, Brandon C., “Gottfried Wilhelm Leibniz”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/leibniz/>
-2. Feeney, Thomas, “Leibniz on the Problem of Evil”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/leibniz-evil/>
+1. Look, Brandon C., “Gottfried Wilhelm Leibniz”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/leibniz/>
+2. Feeney, Thomas, “Leibniz on the Problem of Evil”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/leibniz-evil/>
 3. Leibniz, *The Monadology and Other Philosophical Writings*, bản dịch Robert Latta, Oxford: Clarendon Press, 1898 — Internet Archive. <https://archive.org/details/monadologyotherp00leib_2>
 4. Leibniz, *Principes de la nature et de la grâce fondés en raison* (1714), §7, Wikisource tiếng Pháp. <https://fr.wikisource.org/wiki/Principes_de_la_nature_et_de_la_gr%C3%A2ce_fond%C3%A9s_en_raison>
 5. Voltaire, *Candide, ou l'optimisme* (1759), Project Gutenberg. <https://www.gutenberg.org/ebooks/4650>

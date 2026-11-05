@@ -140,5 +140,5 @@ Thử xem bạn nắm được đến đâu.
 4. Long Thọ, *Trung luận* (中論), phẩm 24 "Quán Tứ đế", bản Cưu-ma-la-thập, T30 n1564, CBETA. <https://cbetaonline.dila.edu.tw/zh/T1564_004>
 5. Nattier, Jan (1992), "The Heart Sūtra: A Chinese Apocryphal Text?", *Journal of the International Association of Buddhist Studies* 15(2): 153–223. <https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/8800>
 6. Lopez, Donald S., Jr. (1988), *The Heart Sutra Explained: Indian and Tibetan Commentaries*, Albany: SUNY Press.
-7. Westerhoff, Jan, "Nāgārjuna", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/entries/nagarjuna/>
-8. Ronkin, Noa, "Abhidharma", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/entries/abhidharma/>
+7. Westerhoff, Jan, "Nāgārjuna", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/>
+8. Ronkin, Noa, "Abhidharma", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/archives/fall2026/entries/abhidharma/>

@@ -73,7 +73,7 @@ Thiên “Tính ác” mở đầu bằng một luận đề như đáp thẳng 
 
 ## Nguồn
 
-1. Goldin, Paul R., “Xunzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/xunzi/>
+1. Goldin, Paul R., “Xunzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/xunzi/>
 2. *Tuân Tử* (荀子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/xunzi>
 3. Tư Mã Thiên, *Sử ký*, “Mạnh Tử Tuân Khanh liệt truyện” (孟子荀卿列傳), nguyên văn chữ Hán, ctext.org. <https://ctext.org/shiji/meng-zi-xun-qing-lie-zhuan/zh>
 

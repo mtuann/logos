@@ -70,11 +70,11 @@ Thiên “Nạn thế” là một cuộc tranh luận về quyền thế. Ngư�
 
 ## Nguồn
 
-1. Pines, Yuri, “Legalism in Chinese Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/chinese-legalism/>
+1. Pines, Yuri, “Legalism in Chinese Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
 2. *Hàn Phi Tử* (韓非子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/hanfeizi>
 3. Tư Mã Thiên, *Sử ký*, “Lão Tử Hàn Phi liệt truyện” (老子韓非列傳), nguyên văn chữ Hán, ctext.org. <https://ctext.org/shiji/lao-zi-han-fei-lie-zhuan/zh>
-4. Goldin, Paul R., “Xunzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/xunzi/>
-5. Chan, Alan, “Laozi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/laozi/>
+4. Goldin, Paul R., “Xunzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/xunzi/>
+5. Chan, Alan, “Laozi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
 
 ---
 

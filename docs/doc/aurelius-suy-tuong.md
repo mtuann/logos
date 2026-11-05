@@ -161,7 +161,7 @@ Thử xem bạn nắm được đến đâu.
 
 1. Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch tiếng Anh của George Long (1862; phạm vi công cộng), Project Gutenberg #15877. <https://www.gutenberg.org/ebooks/15877>
 2. Marcus Aurelius, *Meditations*, bản dịch Meric Casaubon (1634), Project Gutenberg #2680. <https://www.gutenberg.org/ebooks/2680>
-3. Kamtekar, Rachana, "Marcus Aurelius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/marcus-aurelius/>
+3. Kamtekar, Rachana, "Marcus Aurelius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/>
 4. Sellars, John, "Marcus Aurelius", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/marcus/>
 5. Pigliucci, Massimo, "Stoicism", *Internet Encyclopedia of Philosophy* — về cảm xúc trong Khắc kỷ. <https://iep.utm.edu/stoicism/>
-6. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy* — Aristotle và phái Khắc kỷ về giận và sợ. <https://plato.stanford.edu/entries/aristotle-ethics/>
+6. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy* — Aristotle và phái Khắc kỷ về giận và sợ. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>

@@ -30,6 +30,6 @@ Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đố
 ## Nguồn {#nguon}
 
 1. Daniel C. Dennett, *Intuition Pumps and Other Tools for Thinking* (New York: W. W. Norton, 2013), phần II, mục "Rapoport's Rules" — bốn quy tắc phê bình mà Dennett ghi công cho nhà tâm lý học xã hội và lý thuyết trò chơi Anatol Rapoport: diễn đạt lại lập trường của đối phương rõ và công bằng đến mức chính họ muốn cảm ơn bạn; nêu những điểm hai bên đồng ý; nêu điều bạn học được từ họ; chỉ sau đó mới phản bác.
-2. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (nguyên tắc diễn giải thiện chí: chọn cách hiểu khiến lập luận đáng tin nhất). <https://plato.stanford.edu/entries/logic-informal/>
+2. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (nguyên tắc diễn giải thiện chí: chọn cách hiểu khiến lập luận đáng tin nhất). <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 3. Donald Davidson, "Radical Interpretation", *Dialectica* 27 (3–4), 1973, tr. 313–328 — nguyên tắc thiện chí trong diễn giải: hiểu người nói sao cho niềm tin của họ, ở mức hợp lý nhất, là đúng và nhất quán. <https://doi.org/10.1111/j.1746-8361.1973.tb00623.x>
-4. Jeff Malpas, "Donald Davidson", *Stanford Encyclopedia of Philosophy*, mục 3.3 "Radical Interpretation" (về nguyên tắc thiện chí). <https://plato.stanford.edu/entries/davidson/>
+4. Jeff Malpas, "Donald Davidson", *Stanford Encyclopedia of Philosophy*, mục 3.3 "Radical Interpretation" (về nguyên tắc thiện chí). <https://plato.stanford.edu/archives/fall2026/entries/davidson/>

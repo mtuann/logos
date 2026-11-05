@@ -68,7 +68,7 @@ Spinoza chứng minh điều này ở phần I *Đạo đức học* (mệnh đ�
 
 ## Nguồn
 
-1. Nadler, Steven, “Baruch Spinoza”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/spinoza/>
+1. Nadler, Steven, “Baruch Spinoza”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/spinoza/>
 2. Waller, Jason, “Spinoza, Benedict de: Metaphysics”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/spinoz-m/>
 3. Spinoza, Benedict de, *Ethics* (1677), bản dịch R. H. M. Elwes, Project Gutenberg. <https://www.gutenberg.org/ebooks/3800>
 

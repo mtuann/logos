@@ -209,7 +209,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freedom-speech/>
+1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/>
 2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 3. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge (nghịch lý khoan dung: tập 1, chú thích 4 của chương 7).
 4. *Abrams v. United States*, 250 U.S. 616 (1919), ý kiến bất đồng của thẩm phán Oliver Wendell Holmes. <https://www.law.cornell.edu/supremecourt/text/250/616>

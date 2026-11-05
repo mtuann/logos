@@ -73,10 +73,10 @@ Thời Locke, nhiều người tin một số chân lý như “cái gì có th�
 
 ## Nguồn
 
-1. Uzgalis, William, “John Locke”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke/>
-2. Tuckness, Alex, “Locke’s Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-political/>
-3. Gordon-Roth, Jessica, “Locke on Personal Identity”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-personal-identity/>
-4. Look, Brandon C., “Gottfried Wilhelm Leibniz”, *Stanford Encyclopedia of Philosophy* (mục 6.3, về ý niệm bẩm sinh). <https://plato.stanford.edu/entries/leibniz/>
+1. Uzgalis, William, “John Locke”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke/>
+2. Tuckness, Alex, “Locke’s Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
+3. Gordon-Roth, Jessica, “Locke on Personal Identity”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
+4. Look, Brandon C., “Gottfried Wilhelm Leibniz”, *Stanford Encyclopedia of Philosophy* (mục 6.3, về ý niệm bẩm sinh). <https://plato.stanford.edu/archives/fall2026/entries/leibniz/>
 5. Locke, John, *An Essay Concerning Human Understanding* (1689), tập 1, Project Gutenberg. <https://www.gutenberg.org/ebooks/10615>
 6. Locke, John, *Second Treatise of Government* (1689), Project Gutenberg. <https://www.gutenberg.org/ebooks/7370>
 

@@ -224,12 +224,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freewill/>
-2. McKenna, Michael & D. Justin Coates, "Compatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/compatibilism/>
-3. Vihvelin, Kadri, "Arguments for Incompatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/incompatibilism-arguments/>
-4. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/determinism-causal/>
-5. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/skepticism-moral-responsibility/>
-6. Russell, Paul, "Hume on Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-freewill/>
+1. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
+2. McKenna, Michael & D. Justin Coates, "Compatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/compatibilism/>
+3. Vihvelin, Kadri, "Arguments for Incompatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/>
+4. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/>
+5. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/>
+6. Russell, Paul, "Hume on Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-freewill/>
 7. "Free Will", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/freewill/>
 8. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục VIII "Of Liberty and Necessity", bản L. A. Selby-Bigge biên tập, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
 9. Frankfurt, Harry G. (1969), "Alternate Possibilities and Moral Responsibility", *The Journal of Philosophy* 66(23): 829–839. <https://doi.org/10.2307/2023833>; và Frankfurt, Harry G. (1971), "Freedom of the Will and the Concept of a Person", *The Journal of Philosophy* 68(1): 5–20. <https://doi.org/10.2307/2024717>

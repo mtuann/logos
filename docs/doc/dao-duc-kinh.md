@@ -153,5 +153,5 @@ Thử xem bạn nắm được đến đâu.
 2. *Luận ngữ* 15.5 (thiên Vệ Linh Công), nguyên văn. <https://ctext.org/analects/wei-ling-gong>
 3. *Tuân Tử*, thiên 17 "Thiên luận", nguyên văn. <https://ctext.org/xunzi/tian-lun>
 4. *Hàn Phi Tử*, mục lục (thiên 20 "Giải Lão", thiên 21 "Dụ Lão"). <https://ctext.org/hanfeizi>
-5. Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/entries/laozi/>
-6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy* (bản sửa 2023). <https://plato.stanford.edu/entries/chinese-legalism/>
+5. Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
+6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy* (bản sửa 2023). <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>

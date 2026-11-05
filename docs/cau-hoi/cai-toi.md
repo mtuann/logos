@@ -177,9 +177,9 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/identity-personal/>
-2. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-personal-identity/>
-3. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/buddha/>
+1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
+2. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
+3. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
 4. Locke, John, *An Essay Concerning Human Understanding*, Quyển II, chương xxvii ("Về đồng nhất và khác biệt"), ấn bản đầu 1689 (chương này bổ sung trong ấn bản lần hai, 1694; văn bản phạm vi công cộng). <https://www.gutenberg.org/ebooks/10615>
 5. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 6. Reid, Thomas (1785), *Essays on the Intellectual Powers of Man*, Edinburgh.

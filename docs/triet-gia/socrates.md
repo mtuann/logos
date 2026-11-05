@@ -71,11 +71,11 @@ Trong *Euthyphro* của Platon (10a–11b), ngay trước phiên tòa, Euthyphro
 
 ## Nguồn
 
-1. Nails, Debra & S. Sara Monoson, “Socrates”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/socrates/>
+1. Nails, Debra & S. Sara Monoson, “Socrates”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 2. Platon, *Apology*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1656>
 3. Platon, *Euthyphro*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1642>
 4. Platon, *Theaetetus*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1726>
-5. Murphy, Mark, “Theological Voluntarism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/voluntarism-theological/>
+5. Murphy, Mark, “Theological Voluntarism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/>
 
 ---
 

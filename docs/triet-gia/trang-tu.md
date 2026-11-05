@@ -72,11 +72,11 @@ Trong thiên “Tề vật luận”, qua lời nhân vật Trường Ngô Tử,
 
 ## Nguồn
 
-1. Hansen, Chad, “Zhuangzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/zhuangzi/>
+1. Hansen, Chad, “Zhuangzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/>
 2. *Trang Tử* (莊子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/zhuangzi>
 3. Tư Mã Thiên, *Sử ký*, “Lão Tử Hàn Phi liệt truyện” (老子韓非列傳), nguyên văn chữ Hán, ctext.org. <https://ctext.org/shiji/lao-zi-han-fei-lie-zhuan/zh>
-4. Fraser, Chris, “Mohist Canons”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mohist-canons/>
-5. Chan, Alan, “Laozi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/laozi/>
+4. Fraser, Chris, “Mohist Canons”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohist-canons/>
+5. Chan, Alan, “Laozi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
 
 ---
 

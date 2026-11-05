@@ -70,8 +70,8 @@ Bài “Về nghĩa và vật được chỉ” (1892) mở đầu bằng một 
 
 ## Nguồn
 
-1. Zalta, Edward N., “Gottlob Frege”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/frege/>
-2. Michaelson, Eliot, “Reference”, *Stanford Encyclopedia of Philosophy* (thuyết mô tả và phản bác của Kripke). <https://plato.stanford.edu/entries/reference/>
+1. Zalta, Edward N., “Gottlob Frege”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/frege/>
+2. Michaelson, Eliot, “Reference”, *Stanford Encyclopedia of Philosophy* (thuyết mô tả và phản bác của Kripke). <https://plato.stanford.edu/archives/fall2026/entries/reference/>
 3. Frege, Gottlob, “Über Sinn und Bedeutung” (1892), Deutsches Textarchiv. <https://www.deutschestextarchiv.de/book/show/frege_sinn_1892>
 
 ---

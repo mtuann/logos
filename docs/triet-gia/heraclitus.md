@@ -65,7 +65,7 @@ Heraclitus không viết theo dạng tiền đề – kết luận. Đây là c�
 
 ## Nguồn
 
-1. Graham, Daniel W., “Heraclitus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/heraclitus/>
+1. Graham, Daniel W., “Heraclitus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/heraclitus/>
 2. Graham, Daniel W., “Heraclitus (fl. c. 500 B.C.E.)”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/heraclit/>
 3. Burnet, John, *Early Greek Philosophy*, bản 2 (1908), Project Gutenberg. <https://www.gutenberg.org/ebooks/67097>
 4. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển IX, bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX>

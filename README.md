@@ -45,6 +45,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)
   kb_sources.py           data/kb/sources.yml từ mọi mục Nguồn và sources của hồ sơ (giữ archive, accessed, verified);
                           danh sách lệch verification/lech/sources.md; --check (CI)
+  sep_archive.py          đổi link SEP sang bản lưu fall2026 (quyết định 14) sau khi mở thử từng mục; --dry-run, --cache
   kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị)
@@ -56,7 +57,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   lint_structure.py       thiếu mục bắt buộc theo loại trang; nhãn độ chắc chắn đặt sai chỗ
                           (ba linter: chế độ cảnh báo; --write ghi verification/lint/, --strict để chặn)
   parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
-                          giữa hai bản build (--base REF: tự build commit REF và cây làm việc)
+                          giữa hai bản build (--base REF: tự build commit REF và cây làm việc;
+                          --expect-sub REGEX THAY: thay đổi có chủ đích, áp lên bản trước rồi mới so)
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
                           registry (đọc content.yml), units (tách đơn vị theo H2, khóa trang.md#id),
                           normalize (chuẩn hóa trên nguồn Markdown), hashing (sha256:…)

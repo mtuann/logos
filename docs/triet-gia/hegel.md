@@ -67,9 +67,9 @@ Chương IV của *Hiện tượng học Tinh thần* (1807) là phần nổi ti
 
 ## Nguồn
 
-1. Redding, Paul, “Georg Wilhelm Friedrich Hegel”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hegel/>
-2. Maybee, Julie E., “Hegel’s Dialectics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hegel-dialectics/>
-3. Iser, Mattias, “Recognition”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/recognition/>
+1. Redding, Paul, “Georg Wilhelm Friedrich Hegel”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hegel/>
+2. Maybee, Julie E., “Hegel’s Dialectics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hegel-dialectics/>
+3. Iser, Mattias, “Recognition”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/recognition/>
 4. Hegel, G. W. F., *Phänomenologie des Geistes* (1807), nguyên văn tiếng Đức, Project Gutenberg. <https://www.gutenberg.org/ebooks/6698>
 5. Hegel, G. W. F., *Hegel’s Philosophy of Right*, bản dịch tiếng Anh của S. W. Dyde, London: George Bell & Sons, 1896, Internet Archive. <https://archive.org/details/cu31924014578979>
 6. Hegel, G. W. F., *The Logic of Hegel* (phần Lô-gích của *Bách khoa thư*), bản dịch tiếng Anh của William Wallace, Project Gutenberg. <https://www.gutenberg.org/ebooks/55108>

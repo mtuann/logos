@@ -210,6 +210,6 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nominalism-metaphysics/>
+1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/>
 2. Armstrong, D. M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
 3. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

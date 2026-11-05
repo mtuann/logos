@@ -189,13 +189,13 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/dualism/>
-2. Stoljar, Daniel, "Physicalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/physicalism/>
-3. Nida-Rümelin, Martine & Donnchadh O Conaill, "Qualia: The Knowledge Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/qualia-knowledge/>
-4. Kirk, Robert, "Zombies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/zombies/>
+1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/dualism/>
+2. Stoljar, Daniel, "Physicalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/physicalism/>
+3. Nida-Rümelin, Martine & Donnchadh O Conaill, "Qualia: The Knowledge Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/qualia-knowledge/>
+4. Kirk, Robert, "Zombies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zombies/>
 5. Jackson, Frank (1982), "Epiphenomenal Qualia", *Philosophical Quarterly* 32(127): 127–136.
 6. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
-7. Smart, J. J. C. (1959), "Sensations and Brain Processes", *Philosophical Review* 68: 141–156; Place, U. T. (1956), "Is Consciousness a Brain Process?", *British Journal of Psychology* 47(1): 44–50 (ví dụ tia chớp — phóng điện, xem thêm mục "The Mind/Brain Identity Theory" của J. J. C. Smart trong *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/entries/mind-identity/>).
+7. Smart, J. J. C. (1959), "Sensations and Brain Processes", *Philosophical Review* 68: 141–156; Place, U. T. (1956), "Is Consciousness a Brain Process?", *British Journal of Psychology* 47(1): 44–50 (ví dụ tia chớp — phóng điện, xem thêm mục "The Mind/Brain Identity Theory" của J. J. C. Smart trong *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/archives/fall2026/entries/mind-identity/>).
 8. Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
 9. Shapiro, Lisa (chủ biên, 2007), *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press (thư từ năm 1643 về vấn đề tương tác).
 10. Kripke, Saul (1980), *Naming and Necessity*, Oxford: Blackwell (lập luận về tưởng tượng và khả hữu, dùng trong phản bác bước 2 của lập luận zombie).

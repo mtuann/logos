@@ -414,10 +414,10 @@ Nếu bạn mới đến Logos Zero, trang [Bắt đầu](../bat-dau/index.md) c
 
 ## Nguồn
 
-1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>
+1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-3. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
-4. Stewart Shapiro và Teresa Kouri Kissel, "Classical Logic", *Stanford Encyclopedia of Philosophy* (về ký hiệu Γ ⊢ φ: φ suy ra được từ Γ trong một hệ suy diễn). <https://plato.stanford.edu/entries/logic-classical/>
+3. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/>
+4. Stewart Shapiro và Teresa Kouri Kissel, "Classical Logic", *Stanford Encyclopedia of Philosophy* (về ký hiệu Γ ⊢ φ: φ suy ra được từ Γ trong một hệ suy diễn). <https://plato.stanford.edu/archives/fall2026/entries/logic-classical/>
 
 <div class="oz-page-break"></div>
 
@@ -660,7 +660,7 @@ Suy diễn cho ta sự chắc chắn, nhưng với một cái giá: kết luận
 
 ## Nguồn
 
-1. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
+1. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
 3. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy* (các mục "Affirming the Consequent" và "Denying the Antecedent"). <https://iep.utm.edu/fallacy/>
 
@@ -903,7 +903,7 @@ Bảng chân trị coi "đúng" và "sai" là những giá trị có sẵn. [S�
 ## Nguồn
 
 1. Kevin C. Klement, "Propositional Logic", *Internet Encyclopedia of Philosophy* (mục lịch sử: bảng chân trị trước Post và Wittgenstein). <https://iep.utm.edu/prop-log/>
-2. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
+2. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/>
 
 <div class="oz-page-break"></div>
 
@@ -1080,7 +1080,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn
 
-1. Andrew Brennan, "Necessary and Sufficient Conditions", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/necessary-sufficient/>
+1. Andrew Brennan, "Necessary and Sufficient Conditions", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/>
 
 <div class="oz-page-break"></div>
 
@@ -1452,10 +1452,10 @@ Trong nhiều lập luận ở trên, có những điều người nói không n
 
 ## Nguồn
 
-1. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/induction-problem/>
-2. Igor Douven, "Abduction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/abduction/>
+1. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
+2. Igor Douven, "Abduction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/abduction/>
 3. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-4. Hsueh Qu và Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (mục về quy nạp). <https://plato.stanford.edu/entries/hume/>
+4. Hsueh Qu và Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (mục về quy nạp). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
 5. David Hume, *An Enquiry concerning Human Understanding* (1748), bản phạm vi công cộng trên Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
 6. Peter Lipton, *Inference to the Best Explanation*, ấn bản 2, Routledge, 2004.
 
@@ -1685,9 +1685,9 @@ Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta 
 
 ## Nguồn
 
-1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (về giả định ngầm, tiền đề tối thiểu về mặt logic và nguyên tắc thiện chí). <https://plato.stanford.edu/entries/logic-informal/>
+1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (về giả định ngầm, tiền đề tối thiểu về mặt logic và nguyên tắc thiện chí). <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-3. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/fallacies/>
+3. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
 
 <div class="oz-page-break"></div>
 
@@ -1965,9 +1965,9 @@ Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chú
 
 ## Nguồn
 
-1. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/fallacies/>
+1. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
 2. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/fallacy/>
-3. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>
+3. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 4. Douglas Walton, *Informal Logic: A Pragmatic Approach*, ấn bản 2, Cambridge University Press, 2008.
 
 <div class="oz-page-break"></div>
@@ -2646,7 +2646,7 @@ Sơ đồ cho thấy cấu trúc của lập luận. Câu hỏi tiếp theo: cá
 
 ## Nguồn
 
-1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>
+1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 
 <div class="oz-page-break"></div>
 
@@ -2813,7 +2813,7 @@ Trực giác là điểm khởi đầu tốt. Nhưng cũng chính nơi trực gi
 
 ## Nguồn
 
-1. James Robert Brown và Yiftach Fehige, "Thought Experiments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/thought-experiment/>
+1. James Robert Brown và Yiftach Fehige, "Thought Experiments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/>
 2. Amos Tversky và Daniel Kahneman, "The Framing of Decisions and the Psychology of Choice", *Science* 211(4481), 1981, tr. 453–458 (về hiệu ứng đóng khung). <https://doi.org/10.1126/science.7455683>
 3. Edmond Awad et al., "The Moral Machine experiment", *Nature* 563 (2018), tr. 59–64. <https://doi.org/10.1038/s41586-018-0637-6>
 
@@ -2985,7 +2985,7 @@ Cuộc vấn đáp hay nhất thường kết thúc ở một giả định ng�
 
 ## Nguồn
 
-1. Debra Nails và S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/socrates/>
+1. Debra Nails và S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 2. James M. Ambury, "Socrates", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/socrates/>
 3. Platon, *Euthyphro* (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1642>
 4. Platon, *Biện hộ của Socrates* (*Apology*, bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1656>
@@ -3020,9 +3020,9 @@ Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đố
 ## Nguồn
 
 1. Daniel C. Dennett, *Intuition Pumps and Other Tools for Thinking* (New York: W. W. Norton, 2013), phần II, mục "Rapoport's Rules" — bốn quy tắc phê bình mà Dennett ghi công cho nhà tâm lý học xã hội và lý thuyết trò chơi Anatol Rapoport: diễn đạt lại lập trường của đối phương rõ và công bằng đến mức chính họ muốn cảm ơn bạn; nêu những điểm hai bên đồng ý; nêu điều bạn học được từ họ; chỉ sau đó mới phản bác.
-2. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (nguyên tắc diễn giải thiện chí: chọn cách hiểu khiến lập luận đáng tin nhất). <https://plato.stanford.edu/entries/logic-informal/>
+2. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (nguyên tắc diễn giải thiện chí: chọn cách hiểu khiến lập luận đáng tin nhất). <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 3. Donald Davidson, "Radical Interpretation", *Dialectica* 27 (3–4), 1973, tr. 313–328 — nguyên tắc thiện chí trong diễn giải: hiểu người nói sao cho niềm tin của họ, ở mức hợp lý nhất, là đúng và nhất quán. <https://doi.org/10.1111/j.1746-8361.1973.tb00623.x>
-4. Jeff Malpas, "Donald Davidson", *Stanford Encyclopedia of Philosophy*, mục 3.3 "Radical Interpretation" (về nguyên tắc thiện chí). <https://plato.stanford.edu/entries/davidson/>
+4. Jeff Malpas, "Donald Davidson", *Stanford Encyclopedia of Philosophy*, mục 3.3 "Radical Interpretation" (về nguyên tắc thiện chí). <https://plato.stanford.edu/archives/fall2026/entries/davidson/>
 
 <div class="oz-page-break"></div>
 
@@ -3246,11 +3246,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Ichikawa, Jonathan Jenkins & Matthias Steup, "The Analysis of Knowledge", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/knowledge-analysis/>
-2. Comesaña, Juan & Peter Klein, "Skepticism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/skepticism/>
-3. Markie, Peter & M. Folescu, "Rationalism vs. Empiricism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/rationalism-empiricism/>
-4. Goldman, Alvin & Bob Beddor, "Reliabilist Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/reliabilism/>
-5. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/descartes-epistemology/>
+1. Ichikawa, Jonathan Jenkins & Matthias Steup, "The Analysis of Knowledge", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/>
+2. Comesaña, Juan & Peter Klein, "Skepticism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism/>
+3. Markie, Peter & M. Folescu, "Rationalism vs. Empiricism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rationalism-empiricism/>
+4. Goldman, Alvin & Bob Beddor, "Reliabilist Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/reliabilism/>
+5. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
 6. Hetherington, Stephen, "Gettier Problems", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/gettier/>
 7. Gettier, Edmund L. (1963), "Is Justified True Belief Knowledge?", *Analysis* 23(6): 121–123. <https://doi.org/10.1093/analys/23.6.121>
 8. Goldman, Alvin I. (1979), "What Is Justified Belief?", trong G. S. Pappas (chủ biên), *Justification and Knowledge*, Dordrecht: Reidel.
@@ -3423,7 +3423,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Leonard, Nick, "Epistemological Problems of Testimony", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/testimony-episprob/>
+1. Leonard, Nick, "Epistemological Problems of Testimony", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/>
 2. Green, Christopher R., "Epistemology of Testimony", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ep-testi/>
 3. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục X "Of Miracles". Bản tiếng Anh phạm vi công cộng, xem tại Internet History Sourcebooks, Đại học Fordham. <http://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp>
 4. Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, chương VI, mục xxiv.
@@ -3617,7 +3617,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Frances, Bryan & Jonathan Matheson, "Disagreement", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/disagreement/>
+1. Frances, Bryan & Jonathan Matheson, "Disagreement", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/disagreement/>
 2. Christensen, David (2007), "Epistemology of Disagreement: The Good News", *The Philosophical Review* 116(2).
 3. Elga, Adam (2007), "Reflection and Disagreement", *Noûs* 41.
 4. Kelly, Thomas (2005), "The Epistemic Significance of Disagreement", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1, Oxford: Oxford University Press.
@@ -3798,12 +3798,12 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Glanzberg, Michael, "Truth", *Stanford Encyclopedia of Philosophy* (SEP). <https://plato.stanford.edu/entries/truth/>
-2. David, Marian, "The Correspondence Theory of Truth", *SEP*. <https://plato.stanford.edu/entries/truth-correspondence/>
-3. Young, James O., "The Coherence Theory of Truth", *SEP*. <https://plato.stanford.edu/entries/truth-coherence/>
-4. Armour-Garb, Bradley, Daniel Stoljar & James Woodbridge, "Deflationism About Truth", *SEP*. <https://plato.stanford.edu/entries/truth-deflationary/>
-5. Legg, Catherine & Christopher Hookway, "Pragmatism", *SEP* <https://plato.stanford.edu/entries/pragmatism/>; Capps, John, "The Pragmatic Theory of Truth", *SEP* <https://plato.stanford.edu/entries/truth-pragmatic/>.
-6. Beall, Jc, Michael Glanzberg & Ellie Ripley, "Liar Paradox", *SEP*. <https://plato.stanford.edu/entries/liar-paradox/>
+1. Glanzberg, Michael, "Truth", *Stanford Encyclopedia of Philosophy* (SEP). <https://plato.stanford.edu/archives/fall2026/entries/truth/>
+2. David, Marian, "The Correspondence Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-correspondence/>
+3. Young, James O., "The Coherence Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/>
+4. Armour-Garb, Bradley, Daniel Stoljar & James Woodbridge, "Deflationism About Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/>
+5. Legg, Catherine & Christopher Hookway, "Pragmatism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/pragmatism/>; Capps, John, "The Pragmatic Theory of Truth", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/>.
+6. Beall, Jc, Michael Glanzberg & Ellie Ripley, "Liar Paradox", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
 7. Aristotle, *Metaphysics*, quyển IV (Γ), chương 7, bản dịch W. D. Ross (1908), Wikisource. <https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4>
 8. Peirce, Charles S. (1878), "How to Make Our Ideas Clear", *Popular Science Monthly* 12: 286–302, Wikisource. <https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II>
 9. James, William (1907), *Pragmatism*, bài giảng VI, Project Gutenberg. <https://www.gutenberg.org/ebooks/5116>
@@ -4010,9 +4010,9 @@ Gợi ý độ dài: 150–300 chữ.
 3. Lakatos, Imre (1970), "Falsification and the Methodology of Scientific Research Programmes", trong I. Lakatos & A. Musgrave (chủ biên), *Criticism and the Growth of Knowledge*, Cambridge: Cambridge University Press.
 4. Feyerabend, Paul (1975), *Against Method*, London: New Left Books.
 5. Laudan, Larry (1983), "The Demise of the Demarcation Problem", trong R. S. Cohen & L. Laudan (chủ biên), *Physics, Philosophy and Psychoanalysis*, Dordrecht: Reidel.
-6. Hansson, Sven Ove, "Science and Pseudo-Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/pseudo-science/>
-7. Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/popper/>
-8. Bird, Alexander, "Thomas Kuhn", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/thomas-kuhn/>
+6. Hansson, Sven Ove, "Science and Pseudo-Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pseudo-science/>
+7. Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/popper/>
+8. Bird, Alexander, "Thomas Kuhn", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/>
 
 <div class="oz-page-break"></div>
 
@@ -4204,7 +4204,7 @@ Gợi ý độ dài: 150–300 chữ.
 9. Boroditsky, Lera, Lauren A. Schmidt & Webb Phillips (2003), "Sex, Syntax, and Semantics", trong D. Gentner & S. Goldin-Meadow (chủ biên), *Language in Mind*, Cambridge, MA: MIT Press.
 10. Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.
 11. Martin, Laura (1986), "Eskimo Words for Snow: A Case Study in the Genesis and Decay of an Anthropological Example", *American Anthropologist* 88(2): 418–423.
-12. Biletzki, Anat & Anat Matar, "Ludwig Wittgenstein", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/wittgenstein/>
+12. Biletzki, Anat & Anat Matar, "Ludwig Wittgenstein", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/>
 13. Roberson, Debi, Ian Davies & Jules Davidoff (2000), "Color Categories Are Not Universal: Replications and New Evidence from a Stone-Age Culture", *Journal of Experimental Psychology: General* 129(3): 369–398. <https://doi.org/10.1037/0096-3445.129.3.369>
 14. Mickan, Anne, Maren Schiefke & Anatol Stefanowitsch (2014), "Key is a llave is a Schlüssel: A Failure to Replicate an Experiment from Boroditsky et al. 2003", *Yearbook of the German Cognitive Linguistics Association* 2(1). <https://doi.org/10.1515/gcla-2014-0004>
 
@@ -4395,7 +4395,7 @@ Viết 150–300 chữ. Nêu rõ lập trường của bạn, đưa ra ít nhấ
 11. Long, R., Sebo, J. và cộng sự (2024). *Taking AI Welfare Seriously*. arXiv:2411.00986. <https://arxiv.org/abs/2411.00986>
 12. Frankish, K. (2016). "Illusionism as a Theory of Consciousness". *Journal of Consciousness Studies* 23(11–12): 11–39.
 13. Bourget, D. & Chalmers, D. J. (2023). "Philosophers on Philosophy: The 2020 PhilPapers Survey". *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
-14. Stanford Encyclopedia of Philosophy: [The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/), [The Turing Test](https://plato.stanford.edu/entries/turing-test/), [Functionalism](https://plato.stanford.edu/entries/functionalism/), [Consciousness](https://plato.stanford.edu/entries/consciousness/), [Other Minds](https://plato.stanford.edu/entries/other-minds/).
+14. Stanford Encyclopedia of Philosophy: [The Chinese Room Argument](https://plato.stanford.edu/archives/fall2026/entries/chinese-room/), [The Turing Test](https://plato.stanford.edu/archives/fall2026/entries/turing-test/), [Functionalism](https://plato.stanford.edu/archives/fall2026/entries/functionalism/), [Consciousness](https://plato.stanford.edu/archives/fall2026/entries/consciousness/), [Other Minds](https://plato.stanford.edu/archives/fall2026/entries/other-minds/).
 15. Quy định (EU) 2024/1689 (Đạo luật AI), Điều 50. <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>
 
 <div class="oz-page-break"></div>
@@ -4571,8 +4571,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Franssen, Maarten, Ibo van de Poel, Michael Klenk & Filippo Santoni de Sio, "Philosophy of Technology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/technology/>
-2. Heidegger, Martin (1954), "Die Frage nach der Technik" (bài giảng năm 1953), trong *Vorträge und Aufsätze*, Pfullingen: Neske; và (1959), *Gelassenheit* (bài nói năm 1955), Pfullingen: Neske — bản tiếng Anh "Memorial Address" trong *Discourse on Thinking*, bản dịch John M. Anderson & E. Hans Freund. Năm đọc và năm in theo mục "Heidegger" của *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/entries/heidegger/>
+1. Franssen, Maarten, Ibo van de Poel, Michael Klenk & Filippo Santoni de Sio, "Philosophy of Technology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/technology/>
+2. Heidegger, Martin (1954), "Die Frage nach der Technik" (bài giảng năm 1953), trong *Vorträge und Aufsätze*, Pfullingen: Neske; và (1959), *Gelassenheit* (bài nói năm 1955), Pfullingen: Neske — bản tiếng Anh "Memorial Address" trong *Discourse on Thinking*, bản dịch John M. Anderson & E. Hans Freund. Năm đọc và năm in theo mục "Heidegger" của *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/archives/fall2026/entries/heidegger/>
 3. Ellul, Jacques (1954), *La Technique ou l'enjeu du siècle*, Paris: Armand Colin (bản tiếng Anh *The Technological Society*, 1964, New York: Knopf).
 4. Bostrom, Nick (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford: Oxford University Press; và (2005), "In Defense of Posthuman Dignity", *Bioethics* 19(3): 202–214. <https://doi.org/10.1111/j.1467-8519.2005.00437.x>
 5. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm "máy trải nghiệm").
@@ -4764,13 +4764,13 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/dualism/>
-2. Stoljar, Daniel, "Physicalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/physicalism/>
-3. Nida-Rümelin, Martine & Donnchadh O Conaill, "Qualia: The Knowledge Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/qualia-knowledge/>
-4. Kirk, Robert, "Zombies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/zombies/>
+1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/dualism/>
+2. Stoljar, Daniel, "Physicalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/physicalism/>
+3. Nida-Rümelin, Martine & Donnchadh O Conaill, "Qualia: The Knowledge Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/qualia-knowledge/>
+4. Kirk, Robert, "Zombies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zombies/>
 5. Jackson, Frank (1982), "Epiphenomenal Qualia", *Philosophical Quarterly* 32(127): 127–136.
 6. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
-7. Smart, J. J. C. (1959), "Sensations and Brain Processes", *Philosophical Review* 68: 141–156; Place, U. T. (1956), "Is Consciousness a Brain Process?", *British Journal of Psychology* 47(1): 44–50 (ví dụ tia chớp — phóng điện, xem thêm mục "The Mind/Brain Identity Theory" của J. J. C. Smart trong *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/entries/mind-identity/>).
+7. Smart, J. J. C. (1959), "Sensations and Brain Processes", *Philosophical Review* 68: 141–156; Place, U. T. (1956), "Is Consciousness a Brain Process?", *British Journal of Psychology* 47(1): 44–50 (ví dụ tia chớp — phóng điện, xem thêm mục "The Mind/Brain Identity Theory" của J. J. C. Smart trong *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/archives/fall2026/entries/mind-identity/>).
 8. Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
 9. Shapiro, Lisa (chủ biên, 2007), *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press (thư từ năm 1643 về vấn đề tương tác).
 10. Kripke, Saul (1980), *Naming and Necessity*, Oxford: Blackwell (lập luận về tưởng tượng và khả hữu, dùng trong phản bác bước 2 của lập luận zombie).
@@ -4949,9 +4949,9 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/identity-personal/>
-2. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-personal-identity/>
-3. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/buddha/>
+1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
+2. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
+3. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
 4. Locke, John, *An Essay Concerning Human Understanding*, Quyển II, chương xxvii ("Về đồng nhất và khác biệt"), ấn bản đầu 1689 (chương này bổ sung trong ấn bản lần hai, 1694; văn bản phạm vi công cộng). <https://www.gutenberg.org/ebooks/10615>
 5. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 6. Reid, Thomas (1785), *Essays on the Intellectual Powers of Man*, Edinburgh.
@@ -5182,12 +5182,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freewill/>
-2. McKenna, Michael & D. Justin Coates, "Compatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/compatibilism/>
-3. Vihvelin, Kadri, "Arguments for Incompatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/incompatibilism-arguments/>
-4. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/determinism-causal/>
-5. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/skepticism-moral-responsibility/>
-6. Russell, Paul, "Hume on Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-freewill/>
+1. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
+2. McKenna, Michael & D. Justin Coates, "Compatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/compatibilism/>
+3. Vihvelin, Kadri, "Arguments for Incompatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/>
+4. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/>
+5. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/>
+6. Russell, Paul, "Hume on Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-freewill/>
 7. "Free Will", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/freewill/>
 8. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục VIII "Of Liberty and Necessity", bản L. A. Selby-Bigge biên tập, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
 9. Frankfurt, Harry G. (1969), "Alternate Possibilities and Moral Responsibility", *The Journal of Philosophy* 66(23): 829–839. <https://doi.org/10.2307/2023833>; và Frankfurt, Harry G. (1971), "Freedom of the Will and the Concept of a Person", *The Journal of Philosophy* 68(1): 5–20. <https://doi.org/10.2307/2024717>
@@ -5399,7 +5399,7 @@ Gợi ý độ dài: 150–300 chữ.
 3. Pereboom, Derk (2001), *Living Without Free Will*, Cambridge: Cambridge University Press.
 4. Fischer, John Martin & Mark Ravizza (1998), *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
 5. Aristotle, *Nicomachean Ethics*, Quyển III, bản dịch W. D. Ross, Internet Classics Archive (phạm vi công cộng). <http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html>
-6. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/skepticism-moral-responsibility/>
+6. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/>
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
@@ -5609,8 +5609,8 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/determinism-causal/>
-2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freewill/>
+1. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/>
+2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
 3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <http://www.gutenberg.org/ebooks/14328>
 4. Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).
 5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài).
@@ -5793,9 +5793,9 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Driver, Julia, "The History of Utilitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/utilitarianism-history/>
-2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-moral/>
-3. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ethics-virtue/>
+1. Driver, Julia, "The History of Utilitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/utilitarianism-history/>
+2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
+3. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
 4. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 5. Kant, Immanuel (1785), *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*).
 6. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
@@ -5987,12 +5987,12 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/metaethics/>
-2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-realism/>
-3. Joyce, Richard, "Moral Anti-Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-anti-realism/>
-4. van Roojen, Mark, "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-cognitivism/>
-5. Gowans, Chris, "Moral Relativism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-relativism/>
-6. Bagnoli, Carla, "Constructivism in Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/constructivism-metaethics/>
+1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaethics/>
+2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-realism/>
+3. Joyce, Richard, "Moral Anti-Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/>
+4. van Roojen, Mark, "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-cognitivism/>
+5. Gowans, Chris, "Moral Relativism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-relativism/>
+6. Bagnoli, Carla, "Constructivism in Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/constructivism-metaethics/>
 7. Westacott, Emrys, "Moral Relativism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/moral-re/>
 8. Herodotus, *Histories*, quyển III, chương 38. Bản dịch tiếng Anh của G. C. Macaulay (1890, phạm vi công cộng). <https://www.gutenberg.org/ebooks/2707>
 9. Hume, David (1739–1740), *A Treatise of Human Nature*, quyển 3, phần 1, mục 1 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/4705>
@@ -6184,20 +6184,20 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Mahon, James Edwin, "The Definition of Lying and Deception", *Stanford Encyclopedia of Philosophy* (2008, sửa lớn 2015). <https://plato.stanford.edu/entries/lying-definition/>
-2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy* (2004, sửa lớn 2025). <https://plato.stanford.edu/entries/kant-moral/>
+1. Mahon, James Edwin, "The Definition of Lying and Deception", *Stanford Encyclopedia of Philosophy* (2008, sửa lớn 2015). <https://plato.stanford.edu/archives/fall2026/entries/lying-definition/>
+2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy* (2004, sửa lớn 2025). <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
 3. Augustine, *De mendacio* (khoảng 395) và *Contra mendacium* (420), bản dịch H. Browne, *Nicene and Post-Nicene Fathers*, First Series, tập 3 (1887). <https://www.ccel.org/ccel/schaff/npnf103.v.v.html>
 4. Kant, Immanuel (1785), *Groundwork of the Metaphysic of Morals*, bản dịch T. K. Abbott <https://www.gutenberg.org/ebooks/5682>; Kant (1797), "On a Supposed Right to Tell Lies from Benevolent Motives", bản dịch T. K. Abbott (1889) <https://archive.org/details/cu31924029021612>; nguyên văn: Akademie-Ausgabe VIII: 423–430 <https://www.korpora.org/Kant/aa08/425.html>
 5. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương XVI, mục 24 <https://archive.org/details/introductiontoth033476mbp>; Mill, John Stuart (1863), *Utilitarianism*, chương 2 (lần in thứ 7, 1879) <https://www.gutenberg.org/ebooks/11224>
 6. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1908). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
-7. *Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11, nguyên văn và bản dịch James Legge: <https://ctext.org/analects>, <https://ctext.org/mengzi>; Csikszentmihalyi, Mark, "Confucius", *SEP* <https://plato.stanford.edu/entries/confucius/>
+7. *Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11, nguyên văn và bản dịch James Legge: <https://ctext.org/analects>, <https://ctext.org/mengzi>; Csikszentmihalyi, Mark, "Confucius", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 8. Grotius, Hugo (1625), *The Rights of War and Peace*, III.1, mục 11–16, bản dịch A. C. Campbell <https://www.gutenberg.org/ebooks/46564>; Pliny Trẻ, *Thư* III.16, bản dịch W. Melmoth <https://www.gutenberg.org/ebooks/2811>
 9. Bok, Sissela (1978), *Lying: Moral Choice in Public and Private Life*, New York: Pantheon Books.
 10. Saul, Jennifer M. (2012), *Lying, Misleading, and What Is Said*, Oxford University Press. <https://doi.org/10.1093/acprof:oso/9780199603688.001.0001>
 11. Frankfurt, Harry G. (1986), "On Bullshit", *Raritan* 6: 81–100; in thành sách: Princeton University Press, 2005.
 12. Korsgaard, Christine M. (1986), "The Right to Lie: Kant on Dealing with Evil", *Philosophy and Public Affairs* 15 (4): 325–349. <http://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>
 13. Hicks, Michael Townsen, James Humphries & Joe Slater (2024), "ChatGPT is bullshit", *Ethics and Information Technology* 26: 38. <https://doi.org/10.1007/s10676-024-09775-5>
-14. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 <https://doi.org/10.3998/phimp.2109>; Dancy, Jonathan, "Moral Particularism", *SEP* <https://plato.stanford.edu/entries/moral-particularism/>
+14. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 <https://doi.org/10.3998/phimp.2109>; Dancy, Jonathan, "Moral Particularism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/>
 
 <div class="oz-page-break"></div>
 
@@ -6374,16 +6374,16 @@ Gợi ý độ dài: 200–350 chữ.
 
 Mọi câu trích tiếng Việt trong bài là bản dịch của Logos Zero, từ nguyên văn hoặc từ các bản dịch tiếng Anh ghi dưới đây.
 
-1. Roughley, Neil (2021), "Human Nature", *Stanford Encyclopedia of Philosophy* (SEP). <https://plato.stanford.edu/entries/human-nature/>
-2. Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/entries/mencius/>
-3. Goldin, Paul R., "Xunzi", SEP (sửa đổi 2025). <https://plato.stanford.edu/entries/xunzi/>
-4. Lloyd, Sharon A. & Susanne Sreedhar, "Hobbes's Moral and Political Philosophy", SEP (sửa đổi 2022). <https://plato.stanford.edu/entries/hobbes-moral/>
-5. Bertram, Christopher, "Jean Jacques Rousseau", SEP (sửa đổi 2023). <https://plato.stanford.edu/entries/rousseau/>
+1. Roughley, Neil (2021), "Human Nature", *Stanford Encyclopedia of Philosophy* (SEP). <https://plato.stanford.edu/archives/fall2026/entries/human-nature/>
+2. Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
+3. Goldin, Paul R., "Xunzi", SEP (sửa đổi 2025). <https://plato.stanford.edu/archives/fall2026/entries/xunzi/>
+4. Lloyd, Sharon A. & Susanne Sreedhar, "Hobbes's Moral and Political Philosophy", SEP (sửa đổi 2022). <https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/>
+5. Bertram, Christopher, "Jean Jacques Rousseau", SEP (sửa đổi 2023). <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
 6. Nguyên văn trên ctext.org: *Mạnh Tử* 2A6 <https://ctext.org/mengzi/gong-sun-chou-i> và 6A <https://ctext.org/mengzi/gaozi-i>; *Tuân Tử*, thiên 23 <https://ctext.org/xunzi/xing-e>; *Tam tự kinh* <https://ctext.org/three-character-classic>. Về tác giả *Tam tự kinh*: H. A. Giles (1900), lời tựa *San Tzu Ching* <https://en.wikisource.org/wiki/San_Tzu_Ching/Preface>
 7. Hobbes, Thomas (1651), *Leviathan*, chương 13 <https://www.gutenberg.org/ebooks/3207>; Rousseau, J.-J. (1755), *Discours sur l'origine et les fondemens de l'inégalité parmi les hommes*, bản Genève 1782 <https://fr.wikisource.org/wiki/Collection_compl%C3%A8te_des_%C5%93uvres_de_J._J._Rousseau/Tome_1/Texte_entier>; Dryden, John (1672), *The Conquest of Granada* <https://www.gutenberg.org/ebooks/15349>; Ellingson, Ter (2001), *The Myth of the Noble Savage*, University of California Press.
-8. Locke, John (1689), *An Essay Concerning Human Understanding*, II.1.2 <https://www.gutenberg.org/ebooks/10615>; (1693), *Some Thoughts Concerning Education*, §1–2 <https://www.bartleby.com/37/1/1.html>; Uzgalis, William, "John Locke", SEP <https://plato.stanford.edu/entries/locke/>
-9. Sartre, J.-P. (1946), *L'existentialisme est un humanisme*, bản tiếng Anh của P. Mairet <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>; Bergoffen, D. & M. Burke, "Simone de Beauvoir", SEP <https://plato.stanford.edu/entries/beauvoir/>
-10. Aristotle, *Chính trị học* I.2 (bản tiếng Anh của W. Ellis) <https://www.gutenberg.org/ebooks/6762> và *Đạo đức Nicomachus* I.7, II.1 (bản của W. D. Ross) <http://classics.mit.edu/Aristotle/nicomachaen.html>; Augustine, *Confessiones* I.7 (bản của E. B. Pusey) <https://www.gutenberg.org/ebooks/3296>; Tornau, Christian, "Augustine of Hippo", SEP <https://plato.stanford.edu/entries/augustine/>
+8. Locke, John (1689), *An Essay Concerning Human Understanding*, II.1.2 <https://www.gutenberg.org/ebooks/10615>; (1693), *Some Thoughts Concerning Education*, §1–2 <https://www.bartleby.com/37/1/1.html>; Uzgalis, William, "John Locke", SEP <https://plato.stanford.edu/archives/fall2026/entries/locke/>
+9. Sartre, J.-P. (1946), *L'existentialisme est un humanisme*, bản tiếng Anh của P. Mairet <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>; Bergoffen, D. & M. Burke, "Simone de Beauvoir", SEP <https://plato.stanford.edu/archives/fall2026/entries/beauvoir/>
+10. Aristotle, *Chính trị học* I.2 (bản tiếng Anh của W. Ellis) <https://www.gutenberg.org/ebooks/6762> và *Đạo đức Nicomachus* I.7, II.1 (bản của W. D. Ross) <http://classics.mit.edu/Aristotle/nicomachaen.html>; Augustine, *Confessiones* I.7 (bản của E. B. Pusey) <https://www.gutenberg.org/ebooks/3296>; Tornau, Christian, "Augustine of Hippo", SEP <https://plato.stanford.edu/archives/fall2026/entries/augustine/>
 11. Warneken, F. & M. Tomasello (2006), *Science* 311: 1301–1303 <https://doi.org/10.1126/science.1121448>; Hamlin, J. K., K. Wynn & P. Bloom (2007), *Nature* 450: 557–559 <https://doi.org/10.1038/nature06288>; Lucca, K. và cộng sự (2025), *Developmental Science* 28(1): e13581 <https://doi.org/10.1111/desc.13581>; de Waal, Frans (2006), *Primates and Philosophers*, Princeton University Press.
 12. Platon, *Cộng hòa*, quyển II (bản của B. Jowett) <https://www.gutenberg.org/ebooks/1497>; Suler, John (2004), *CyberPsychology & Behavior* 7(3): 321–326 <https://doi.org/10.1089/1094931041291295>; Microsoft (2016), "Learning from Tay's introduction" <https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/>
 13. Brunnhölzl, Karl (2014), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
@@ -6571,7 +6571,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/concept-evil/>
+1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>
 2. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.
 3. Augustine, *Confessions*, Quyển 7 (khoảng năm 397–400, phạm vi công cộng).
 4. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
@@ -6764,7 +6764,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House (tái bản nhiều lần).
 2. Singer, Peter (1972), "Famine, Affluence, and Morality", *Philosophy & Public Affairs* 1(3): 229–243.
-3. Gruen, Lori, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-animal/>
+3. Gruen, Lori, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
 4. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
 5. MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về "vị tha hiệu quả").
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -6934,7 +6934,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Brennan, Andrew & Norva Y. S. Lo, "Environmental Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ethics-environmental/>
+1. Brennan, Andrew & Norva Y. S. Lo, "Environmental Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-environmental/>
 2. Leopold, Aldo (1949), *A Sand County Almanac*, New York: Oxford University Press.
 3. Naess, Arne (1973), "The Shallow and the Deep, Long-Range Ecology Movement: A Summary", *Inquiry* 16(1): 95–100. <https://doi.org/10.1080/00201747308601682>
 4. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House.
@@ -7136,7 +7136,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Thomson, Judith Jarvis (1971), "A Defense of Abortion", *Philosophy & Public Affairs*, vol. 1, no. 1, tr. 47–66.
 2. Marquis, Don (1989), "Why Abortion is Immoral", *The Journal of Philosophy*, vol. 86, no. 4, tr. 183–202. <https://doi.org/10.2307/2026961>
 3. Warren, Mary Anne (1973), "On the Moral and Legal Status of Abortion", *The Monist*, vol. 57, no. 1, tr. 43–61. <https://doi.org/10.5840/monist197357133>
-4. Harman, Elizabeth (2025), "The Ethics of Abortion", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/abortion/>
+4. Harman, Elizabeth (2025), "The Ethics of Abortion", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/abortion/>
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -7333,7 +7333,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini.
 2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.
 3. Death Penalty Information Center, "Innocence" (ít nhất 203 người bị kết án tử hình được minh oan kể từ 1973, số liệu năm 2026). <https://deathpenaltyinfo.org/policy-issues/innocence>
-4. Hoskins, Zachary & Antony Duff, "Legal Punishment", *Stanford Encyclopedia of Philosophy* (về các lý thuyết biện minh cho hình phạt: báo ứng, hệ quả). <https://plato.stanford.edu/entries/legal-punishment/>
+4. Hoskins, Zachary & Antony Duff, "Legal Punishment", *Stanford Encyclopedia of Philosophy* (về các lý thuyết biện minh cho hình phạt: báo ứng, hệ quả). <https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/>
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -7903,7 +7903,7 @@ Gợi ý độ dài: 250–400 chữ.
 3. Nissenbaum, Helen (2010), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
 4. Solove, Daniel J. (2007), "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy", *San Diego Law Review* 44: 745–772.
 5. Solove, Daniel J. (2008), *Understanding Privacy*, Cambridge, MA: Harvard University Press.
-6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/privacy/>
+6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/privacy/>
 7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-356-2025-ND-CP-huong-dan-Luat-Bao-ve-du-lieu-ca-nhan-687428.aspx>
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
@@ -8081,8 +8081,8 @@ Gợi ý độ dài: 250–400 chữ.
 ## Nguồn
 
 1. Ad Hoc Committee of the Harvard Medical School (1968), "A Definition of Irreversible Coma", *JAMA*, vol. 205, no. 6, tr. 337–340.
-2. Wilkinson, Martin & Stephen Wilkinson, "The Donation of Human Organs", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/organ-donation/>
-3. Omelianchuk, Adam, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/entries/death-definition/>
+2. Wilkinson, Martin & Stephen Wilkinson, "The Donation of Human Organs", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/organ-donation/>
+3. Omelianchuk, Adam, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
 4. Johnson, Eric J. & Daniel Goldstein (2003), "Do Defaults Save Lives?", *Science* 302 (5649): 1338–1339. <https://doi.org/10.1126/science.1091721>
 5. Fabre, John, Paul Murphy & Rafael Matesanz (2010), "Presumed consent: a distraction in the quest for increasing rates of organ donation", *BMJ* 341: c4973. <https://doi.org/10.1136/bmj.c4973>
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
@@ -8265,9 +8265,9 @@ Gợi ý độ dài: 150–300 chữ.
 2. Locke, John (1689; trang bìa ghi 1690), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/7370>
 3. Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>
 4. Hume, David (1748), "Of the Original Contract", in lần đầu trong *Three Essays, Moral and Political* (1748), cùng năm được đưa vào ấn bản thứ ba của *Essays, Moral and Political*. <https://davidhume.org/texts/empl2/oc>
-5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/rousseau/>
-6. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-political/>
-7. Uzgalis, William, "John Locke", *Stanford Encyclopedia of Philosophy* (về thời điểm viết và in *Two Treatises*). <https://plato.stanford.edu/entries/locke/>
+5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
+6. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
+7. Uzgalis, William, "John Locke", *Stanford Encyclopedia of Philosophy* (về thời điểm viết và in *Two Treatises*). <https://plato.stanford.edu/archives/fall2026/entries/locke/>
 
 <div class="oz-page-break"></div>
 
@@ -8466,14 +8466,14 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Wenar, Leif, "John Rawls", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/rawls/>
-2. Lamont, Julian & Christi Favor, "Distributive Justice", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/justice-distributive/>
-3. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/libertarianism/>
+1. Wenar, Leif, "John Rawls", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rawls/>
+2. Lamont, Julian & Christi Favor, "Distributive Justice", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/justice-distributive/>
+3. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/libertarianism/>
 4. Rawls, John (1971), *A Theory of Justice*, Cambridge, MA: Harvard University Press (tái bản sửa đổi 1999).
 5. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 6. Sandel, Michael J. (1982), *Liberalism and the Limits of Justice*, Cambridge: Cambridge University Press.
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
-8. Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/original-position/>
+8. Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
 
 <div class="oz-page-break"></div>
 
@@ -8677,8 +8677,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Bidadanure, Juliana & David Axelsen, "Egalitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/egalitarianism/>
-2. Gosepath, Stefan, "Equality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/equality/>
+1. Bidadanure, Juliana & David Axelsen, "Egalitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/>
+2. Gosepath, Stefan, "Equality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/equality/>
 3. Dworkin, Ronald (1981), "What Is Equality? Part 1: Equality of Welfare", *Philosophy & Public Affairs* 10(3): 185–246; "Part 2: Equality of Resources", *Philosophy & Public Affairs* 10(4): 283–345.
 4. Cohen, G. A. (1989), "On the Currency of Egalitarian Justice", *Ethics* 99(4): 906–944. <https://doi.org/10.1086/293126>
 5. Anderson, Elizabeth (1999), "What Is the Point of Equality?", *Ethics* 109(2): 287–337. <https://doi.org/10.1086/233897>
@@ -8896,8 +8896,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/libertarianism/>
-2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-political/>
+1. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/libertarianism/>
+2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
 3. Locke, John (1689; trang bìa ghi 1690), *Two Treatises of Government*, London: Awnsham Churchill (phạm vi công cộng). Khảo luận thứ hai: <https://www.gutenberg.org/ebooks/7370>
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
@@ -9129,7 +9129,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/democracy/>
+1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
 2. Platon, *Cộng hòa*, Quyển VI (488a–489d); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1497>
 3. Schumpeter, Joseph A. (1942), *Capitalism, Socialism and Democracy*, New York: Harper & Brothers.
 4. Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin.
@@ -9137,7 +9137,7 @@ Gợi ý độ dài: 200–350 chữ.
 6. Habermas, Jürgen (1992), *Faktizität und Geltung*, Frankfurt: Suhrkamp (bản tiếng Anh *Between Facts and Norms*, 1996, MIT Press).
 7. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
-9. Morreau, Michael, "Arrow's Theorem", *Stanford Encyclopedia of Philosophy* (về nghịch lý Condorcet 1785 và định lý Arrow 1951). <https://plato.stanford.edu/entries/arrows-theorem/>
+9. Morreau, Michael, "Arrow's Theorem", *Stanford Encyclopedia of Philosophy* (về nghịch lý Condorcet 1785 và định lý Arrow 1951). <https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/>
 
 <div class="oz-page-break"></div>
 
@@ -9341,7 +9341,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Christiano, Tom & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/democracy/>
+1. Christiano, Tom & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
 2. Platon, *Cộng hòa*, Quyển VI (488a–489d); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1497>
 3. Brennan, Jason (2016), *Against Democracy*, Princeton: Princeton University Press.
 4. Churchill, Winston, phát biểu tại Hạ viện Anh, 11/11/1947, *Hansard* (Hạ viện), tập 444, cột 207. <https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill>
@@ -9544,9 +9544,9 @@ Gợi ý độ dài: 200–350 chữ.
 1. *Luận ngữ* (*Analects*), thiên 2.3 và 12.19. Nguyên văn: <https://ctext.org/analects>
 2. *Mạnh Tử* (*Mencius*), thiên Tận tâm hạ 7B14 và Lương Huệ Vương hạ 1B8. Nguyên văn: <https://ctext.org/mengzi>
 3. *Hàn Phi Tử*, các thiên Hữu độ (有度), Nhị bính (二柄), Dương quyền (揚權), Công danh (功名) và Lục phản (六反). Nguyên văn: <https://ctext.org/hanfeizi>
-4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/confucius/>
-5. Van Norden, Bryan W., "Mencius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mencius/>
-6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/chinese-legalism/>
+4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
+5. Van Norden, Bryan W., "Mencius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
+6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -9754,7 +9754,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freedom-speech/>
+1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/>
 2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 3. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge (nghịch lý khoan dung: tập 1, chú thích 4 của chương 7).
 4. *Abrams v. United States*, 250 U.S. 616 (1919), ý kiến bất đồng của thẩm phán Oliver Wendell Holmes. <https://www.law.cornell.edu/supremecourt/text/250/616>
@@ -9957,14 +9957,14 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-ethics/>
-2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-epistemology/>
+1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/>
+2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-epistemology/>
 3. Wollstonecraft, Mary (1792), *A Vindication of the Rights of Woman*, London: J. Johnson (phạm vi công cộng). <https://www.gutenberg.org/ebooks/3420>
 4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng).
 5. Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.
 6. Gilligan, Carol (1982), *In a Different Voice*, Cambridge, MA: Harvard University Press.
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
-8. Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-gender/>
+8. Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/>
 
 <div class="oz-page-break"></div>
 
@@ -10160,7 +10160,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Moseley, Alexander, "Just War Theory", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/justwar/>
 2. Walzer, Michael (1977), *Just and Unjust Wars: A Moral Argument with Historical Illustrations*, New York: Basic Books.
 3. McMahan, Jeff (2009), *Killing in War*, Oxford: Oxford University Press.
-4. Lazar, Seth (2016), "War", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/war/>
+4. Lazar, Seth (2016), "War", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/war/>
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -10363,7 +10363,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Wellman, Christopher Heath, "Immigration", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/immigration/>
+1. Wellman, Christopher Heath, "Immigration", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/immigration/>
 2. Carens, Joseph H. (1987), "Aliens and Citizens: The Case for Open Borders", *The Review of Politics* 49(2): 251–273. <https://doi.org/10.1017/S0034670500033817>
 3. Walzer, Michael (1983), *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic Books.
 4. Tuyên ngôn Quốc tế Nhân quyền (1948), Liên Hợp Quốc (văn kiện công cộng).
@@ -10560,11 +10560,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-aesthetics/>
-2. Ginsborg, Hannah, "Kant's Aesthetics and Teleology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-aesthetics/>
+1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>
+2. Ginsborg, Hannah, "Kant's Aesthetics and Teleology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-aesthetics/>
 3. Hume, David (1757), "Of the Standard of Taste", trong *Four Dissertations*. Văn bản phạm vi công cộng. <https://davidhume.org/texts/empl1/st>
 4. Kant, Immanuel (1790), *Kritik der Urteilskraft* (*Phê phán năng lực phán đoán*); bản dịch tiếng Anh của J. H. Bernard (phạm vi công cộng), §16 về cái đẹp tự do và cái đẹp phụ thuộc. <https://www.gutenberg.org/ebooks/48433>
-5. Shelley, James, "The Concept of the Aesthetic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/aesthetic-concept/>
+5. Shelley, James, "The Concept of the Aesthetic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aesthetic-concept/>
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -10762,13 +10762,13 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-aesthetics/>
+1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>
 2. Tolstoy, Lev (1897), *What is Art?* (*Chto takoe iskusstvo?*). Bản dịch tiếng Anh của Aylmer Maude (1898) thuộc phạm vi công cộng: <https://www.gutenberg.org/ebooks/64908>
 3. Bell, Clive (1914), *Art*, London: Chatto & Windus.
 4. Danto, Arthur (1964), "The Artworld", *Journal of Philosophy* 61(19): 571–584.
 5. Dickie, George (1974), *Art and the Aesthetic: An Institutional Analysis*, Ithaca: Cornell University Press.
 6. Weitz, Morris (1956), "The Role of Theory in Aesthetics", *Journal of Aesthetics and Art Criticism* 15(1): 27–35.
-7. Adajian, Thomas, "The Definition of Art", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/art-definition/>
+7. Adajian, Thomas, "The Definition of Art", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/art-definition/>
 8. Gaut, Berys (2000), "'Art' as a Cluster Concept", trong Noël Carroll (chủ biên), *Theories of Art Today*, Madison: University of Wisconsin Press, tr. 25–44.
 9. "Duchamp's urinal tops art survey", *BBC News*, 01/12/2004. <http://news.bbc.co.uk/2/hi/entertainment/4059997.stm>
 10. Ebert, Roger (2010), "Okay, kids, play on my lawn", *RogerEbert.com*. <https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn>
@@ -10960,8 +10960,8 @@ Gợi ý độ dài: 150–300 chữ.
 5. Gaunilo thành Marmoutier, *Liber pro insipiente* (*Bênh vực kẻ ngu dại*) — đáp lại Anselm, viết cùng thời.
 6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận.
 7. Plantinga, Alvin (1974), *The Nature of Necessity*, Oxford: Clarendon Press — phiên bản modal của luận chứng bản thể luận.
-8. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, "Ontological Arguments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ontological-arguments/>
-9. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/cosmological-argument/>
+8. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, "Ontological Arguments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
+9. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/>
 10. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -11183,8 +11183,8 @@ Gợi ý độ dài: 200–350 chữ.
 2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng).
 3. James, William (1896), "The Will to Believe".
 4. Pascal, Blaise (1670), *Pensées*, đoạn "Infini-rien" (xuất bản sau khi tác giả mất).
-5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/fideism/>
-6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/pascal-wager/>
+5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fideism/>
+6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -11364,7 +11364,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Hick, John (1966), *Evil and the God of Love*, London: Macmillan.
 5. Wykstra, Stephen J. (1984), "The Humean Obstacle to Evidential Arguments from Suffering", *International Journal for Philosophy of Religion* 16: 73–93.
 6. Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov.
-7. Tooley, Michael, "The Problem of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/evil/>
+7. Tooley, Michael, "The Problem of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/evil/>
 8. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 — phản bác thứ nhất ở đây chính là vấn đề sự dữ.
 
 <div class="oz-page-break"></div>
@@ -11573,7 +11573,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nominalism-metaphysics/>
+1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/>
 2. Armstrong, D. M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
 3. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
@@ -11772,11 +11772,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Platon, *Phaedo*, 100c–d. Bản dịch tiếng Anh của Benjamin Jowett (in lần đầu 1871, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1658>
 2. Armstrong, David M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
-3. van Inwagen, Peter, Meghan Sullivan & Sara Bernstein, "Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/metaphysics/>
-4. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nominalism-metaphysics/>
-5. MacBride, Fraser & Christopher Daly, "Truthmakers", *Stanford Encyclopedia of Philosophy* (về tranh luận thực tại luận – duy danh luận). <https://plato.stanford.edu/entries/truthmakers/>
+3. van Inwagen, Peter, Meghan Sullivan & Sara Bernstein, "Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaphysics/>
+4. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/>
+5. MacBride, Fraser & Christopher Daly, "Truthmakers", *Stanford Encyclopedia of Philosophy* (về tranh luận thực tại luận – duy danh luận). <https://plato.stanford.edu/archives/fall2026/entries/truthmakers/>
 6. Aristotle, *Metaphysics*, các quyển VII–VIII (bàn về phổ quát trong sự vật). Bản dịch tiếng Anh của W. D. Ross (1908), trên The Internet Classics Archive (MIT). <https://classics.mit.edu/Aristotle/metaphysics.html>
-7. Maurin, Anna-Sofia, "Tropes", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/tropes/>
+7. Maurin, Anna-Sofia, "Tropes", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/tropes/>
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -11974,8 +11974,8 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. McTaggart, J. M. E. (1908), "The Unreality of Time", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.)
 2. Augustine, *Confessions*, Quyển XI. Bản dịch tiếng Anh của Edward Pusey (1838, phạm vi công cộng). <https://www.gutenberg.org/ebooks/3296>
-3. Emery, Nina, Ned Markosian & Meghan Sullivan, "Time", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/entries/time/>
-4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/presentism/>
+3. Emery, Nina, Ned Markosian & Meghan Sullivan, "Time", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/archives/fall2026/entries/time/>
+4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -12172,7 +12172,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Gallow, J. Dmitri, "The Metaphysics of Causation", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/causation-metaphysics/>
+1. Gallow, J. Dmitri, "The Metaphysics of Causation", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/causation-metaphysics/>
 2. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.
 3. Lewis, David (1973), "Causation", *Journal of Philosophy* 70(17): 556–567. <https://doi.org/10.2307/2025310>
 4. Bài [Hume về nhân quả](../doc/hume-nhan-qua.md) trên site này.
@@ -12379,7 +12379,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/cosmological-argument/>
+1. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/>
 2. Craig, William Lane (1979), *The Kalam Cosmological Argument*, London: Macmillan.
 3. Penrose, Roger (2010), *Cycles of Time: An Extraordinary New View of the Universe*, London: Bodley Head.
 4. Borde, Arvind, Alan H. Guth & Alexander Vilenkin (2003), "Inflationary Spacetimes Are Incomplete in Past Directions", *Physical Review Letters* 90, 151301. <https://doi.org/10.1103/PhysRevLett.90.151301>
@@ -12589,7 +12589,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/dualism/>
+1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/dualism/>
 2. Descartes, René (1641), *Meditationes de prima philosophia*, Paris: Michel Soly.
 3. Jackson, Frank (1982), "Epiphenomenal Qualia", *The Philosophical Quarterly* 32(127): 127–136. <https://doi.org/10.2307/2960077>
 4. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
@@ -12970,8 +12970,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/identity-personal/>
-2. Locke, John (1689/1694), *An Essay Concerning Human Understanding*, Quyển II, chương 27 ("Of Identity and Diversity") — chương này có từ lần in thứ hai (London, 1694); lần in đầu: London: Thomas Basset, 1689. Xem Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-personal-identity/>
+1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
+2. Locke, John (1689/1694), *An Essay Concerning Human Understanding*, Quyển II, chương 27 ("Of Identity and Diversity") — chương này có từ lần in thứ hai (London, 1694); lần in đầu: London: Thomas Basset, 1689. Xem Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
 3. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Clarendon Press.
 4. Olson, Eric T. (1997), *The Human Animal: Personal Identity Without Psychology*, Oxford: Oxford University Press.
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
@@ -13173,7 +13173,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Nagel, Thomas (1971), "The Absurd", *The Journal of Philosophy* 68(20): 716–727.
 2. Wolf, Susan (2010), *Meaning in Life and Why It Matters*, Princeton: Princeton University Press.
-3. Metz, Thaddeus, "The Meaning of Life", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/life-meaning/>
+3. Metz, Thaddeus, "The Meaning of Life", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/life-meaning/>
 4. Camus, Albert (1942), *Le Mythe de Sisyphe* (*Huyền thoại Sisyphus*). (Bối cảnh cho tranh luận về cái phi lý.)
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
@@ -13375,7 +13375,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Haybron, Dan, "Happiness", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/happiness/>; Crisp, Roger, "Well-Being", *Stanford Encyclopedia of Philosophy* (về cách chia ba họ lý thuyết của Parfit). <https://plato.stanford.edu/entries/well-being/>
+1. Haybron, Dan, "Happiness", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/happiness/>; Crisp, Roger, "Well-Being", *Stanford Encyclopedia of Philosophy* (về cách chia ba họ lý thuyết của Parfit). <https://plato.stanford.edu/archives/fall2026/entries/well-being/>
 2. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm cỗ máy trải nghiệm).
 3. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press (phụ lục về ba họ lý thuyết đời sống tốt).
 4. Epicurus, *Thư gửi Menoeceus* (cuối thế kỷ 4 – đầu thế kỷ 3 TCN, phạm vi công cộng; được Diogenes Laertius chép lại trong Quyển X của *Lives of Eminent Philosophers*).
@@ -13561,7 +13561,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Helm, Bennett, "Love", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/love/>
+1. Helm, Bennett, "Love", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/love/>
 2. Platon, *Symposium* (khoảng thế kỷ 4 TCN); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1600>
 3. Frankfurt, Harry G. (2004), *The Reasons of Love*, Princeton: Princeton University Press.
 4. Velleman, J. David (1999), "Love as a Moral Emotion", *Ethics* 109(2): 338–374. <https://doi.org/10.1086/233898>
@@ -13763,7 +13763,7 @@ Gợi ý độ dài: 150–300 chữ.
 1. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, London: Henry G. Bohn, 1853; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
 2. Lucretius, *De Rerum Natura* (*Về bản chất của sự vật*), Quyển III (lập luận đối xứng). Bản dịch tiếng Anh của William Ellery Leonard (1916, phạm vi công cộng). <https://www.gutenberg.org/ebooks/785>
 3. Nagel, Thomas (1970), "Death", *Noûs* 4(1): 73–80.
-4. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/death/>
+4. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
 5. Feldman, Fred (1992), *Confrontations with the Reaper: A Philosophical Study of the Nature and Value of Death*, New York: Oxford University Press — bênh vực lập luận tước đoạt (bối cảnh thêm).
 6. Williams, Bernard (1973), "The Makropulos Case: Reflections on the Tedium of Immortality", trong *Problems of the Self*, Cambridge: Cambridge University Press.
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
@@ -14118,7 +14118,7 @@ Gợi ý độ dài: 150–300 chữ.
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
-4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/confucius/> — khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
+4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/> — khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
 5. Nguyễn Trãi, *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>; bản dịch trong *Việt Nam sử lược* (Trần Trọng Kim, 1920). <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)>
 
 <div class="oz-page-break"></div>
@@ -15316,7 +15316,7 @@ Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngo
 2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 3. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 4. Heisig, James W., Thomas P. Kasulis & John C. Maraldo (chủ biên) (2011), *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai'i Press.
-5. Kasulis, Thomas & Raquel Bouso, "Japanese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/japanese-philosophy/>; Davis, Bret W., "The Kyoto School", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kyoto-school/>
+5. Kasulis, Thomas & Raquel Bouso, "Japanese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/>; Davis, Bret W., "The Kyoto School", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/>
 
 <div class="oz-page-break"></div>
 
@@ -15453,7 +15453,7 @@ Thử xem bạn nắm được đến đâu.
 
 1. Platon, *Apology*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1656. <https://www.gutenberg.org/ebooks/1656>
 2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170>
-3. Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/socrates/>
+3. Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 4. Ambury, James M., "Socrates", *Internet Encyclopedia of Philosophy* — bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi. <https://iep.utm.edu/socrates/>
 
 <div class="oz-page-break"></div>
@@ -15590,10 +15590,10 @@ Thử xem bạn nắm được đến đâu.
 
 1. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 2. Platon, *Republic*, bản dịch của Paul Shorey trên Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a>
-3. Brown, Eric, "Plato's Ethics and Politics in The Republic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/plato-ethics-politics/>
-4. Rickless, Samuel, "Plato's Parmenides", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/plato-parmenides/>
+3. Brown, Eric, "Plato's Ethics and Politics in The Republic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/>
+4. Rickless, Samuel, "Plato's Parmenides", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/>
 5. Aristotle, *Metaphysics* I.9, bản dịch W. D. Ross, Internet Classics Archive. <https://classics.mit.edu/Aristotle/metaphysics.1.i.html>
-6. Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy* — về *The Open Society and Its Enemies* (1945). <https://plato.stanford.edu/entries/popper/>
+6. Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy* — về *The Open Society and Its Enemies* (1945). <https://plato.stanford.edu/archives/fall2026/entries/popper/>
 
 <div class="oz-page-break"></div>
 
@@ -15734,7 +15734,7 @@ Thử xem bạn nắm được đến đâu.
 ## Nguồn
 
 1. Epictetus, *A Selection from the Discourses of Epictetus with the Encheiridion*, bản dịch tiếng Anh của George Long (in đầy đủ lần đầu trong *The Discourses of Epictetus; with the Encheiridion and Fragments*, London: George Bell, 1877; phạm vi công cộng), Project Gutenberg #10661. <https://www.gutenberg.org/ebooks/10661>
-2. Graver, Margaret, "Epictetus", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/epictetus/>
+2. Graver, Margaret, "Epictetus", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epictetus/>
 3. Pigliucci, Massimo, "Stoicism", *Internet Encyclopedia of Philosophy* — về cảm xúc trong Khắc kỷ, phép chia ba của Irvine (2008) và mối liên hệ với liệu pháp nhận thức. <https://iep.utm.edu/stoicism/>
 4. Liddell, Scott & Jones, *A Greek-English Lexicon*, mục *encheiridios*, Perseus Digital Library. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=e)gxeiri/dios>
 
@@ -15895,8 +15895,8 @@ Thử xem bạn nắm được đến đâu.
 1. René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
 2. René Descartes, *The Meditations and Selections from the Principles*, bản dịch John Veitch (Chicago: Open Court, 1913) — lời nhà xuất bản về các phần thêm từ bản tiếng Pháp. <https://archive.org/details/themeditatiions00descuoft>
 3. René Descartes, *Discourse on the Method* (1637), bản dịch John Veitch, Project Gutenberg #59. <https://www.gutenberg.org/ebooks/59>
-4. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy* — số AT, Lichtenberg và Russell, lời đáp Gassendi và bộ phản bác thứ hai. <https://plato.stanford.edu/entries/descartes-epistemology/>
-5. Hatfield, Gary, "René Descartes", *Stanford Encyclopedia of Philosophy* — bảy bộ phản bác, Arnauld và vòng tròn Descartes. <https://plato.stanford.edu/entries/descartes/>
+4. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy* — số AT, Lichtenberg và Russell, lời đáp Gassendi và bộ phản bác thứ hai. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
+5. Hatfield, Gary, "René Descartes", *Stanford Encyclopedia of Philosophy* — bảy bộ phản bác, Arnauld và vòng tròn Descartes. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>
 
 <div class="oz-page-break"></div>
 
@@ -16044,9 +16044,9 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 1. Hume, David (1748), *An Enquiry concerning Human Understanding*, bản L. A. Selby-Bigge (1902), Project Gutenberg <https://www.gutenberg.org/ebooks/9662>; số đoạn theo Hume Texts Online <https://davidhume.org/texts/e/>
 2. Hume, David (1777), "My Own Life", MOL 6 và 8. <https://davidhume.org/texts/mol>
-3. Qu, Hsueh & Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (2026). <https://plato.stanford.edu/entries/hume/>
-4. Henderson, Leah, "The Problem of Induction", *Stanford Encyclopedia of Philosophy* (mục 3.1 và 4.1). <https://plato.stanford.edu/entries/induction-problem/>
-5. De Pierris, Graciela & Michael Friedman, "Kant and Hume on Causality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-hume-causality/>
+3. Qu, Hsueh & Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (2026). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
+4. Henderson, Leah, "The Problem of Induction", *Stanford Encyclopedia of Philosophy* (mục 3.1 và 4.1). <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
+5. De Pierris, Graciela & Michael Friedman, "Kant and Hume on Causality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/>
 6. Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
@@ -16173,9 +16173,9 @@ Thử xem bạn nắm được lập luận đến đâu.
 1. Kant, Immanuel (1784), "Beantwortung der Frage: Was ist Aufklärung?", *Berlinische Monatsschrift* 4 (12): 481–494, bản in gốc trên Wikisource <https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F>; Akademie-Ausgabe 8: 33–42 <https://www.korpora.org/Kant/aa08/035.html>
 2. Kant, Immanuel (1786), "Was heißt: sich im Denken orientiren?", Akademie-Ausgabe 8: 144 <https://www.korpora.org/Kant/aa08/144.html>
 3. Horace, *Epistulae* I.2.40, The Latin Library. <https://www.thelatinlibrary.com/horace/epist1.shtml>
-4. Bristow, William, "Enlightenment", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/enlightenment/>
-5. Rauscher, Frederick, "Kant's Social and Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-social-political/>
-6. Griffith-Dickson, Gwen, "Johann Georg Hamann", *Stanford Encyclopedia of Philosophy* (về thư gửi Kraus năm 1784). <https://plato.stanford.edu/entries/hamann/>
+4. Bristow, William, "Enlightenment", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/enlightenment/>
+5. Rauscher, Frederick, "Kant's Social and Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-social-political/>
+6. Griffith-Dickson, Gwen, "Johann Georg Hamann", *Stanford Encyclopedia of Philosophy* (về thư gửi Kraus năm 1784). <https://plato.stanford.edu/archives/fall2026/entries/hamann/>
 7. Foucault, Michel (1984), "What is Enlightenment?", trong Paul Rabinow (chủ biên), *The Foucault Reader*, New York: Pantheon, tr. 32–50.
 
 <div class="oz-page-break"></div>
@@ -16299,7 +16299,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 1. Mill, John Stuart (1859), *On Liberty*, Project Gutenberg (bản Walter Scott Publishing). <https://www.gutenberg.org/ebooks/34901>
 2. Mill, John Stuart (1873), *Autobiography*, chương VII, Project Gutenberg. <https://www.gutenberg.org/ebooks/10378>
-3. Macleod, Christopher, "John Stuart Mill", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mill/>
+3. Macleod, Christopher, "John Stuart Mill", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mill/>
 4. Vosoughi, Soroush, Deb Roy & Sinan Aral (2018), "The spread of true and false news online", *Science* 359 (6380): 1146–1151. <https://doi.org/10.1126/science.aap9559>
 
 <div class="oz-page-break"></div>
@@ -16433,7 +16433,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Nguồn
 
 1. Russell, Bertrand (1912), *The Problems of Philosophy*, London: Williams and Norgate, chương XV; bản in 1912 trên Wikisource <https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15>; Project Gutenberg <https://www.gutenberg.org/ebooks/5827>
-2. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/russell/>
+2. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
 3. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -16592,8 +16592,8 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Nguồn
 
 1. *Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>
-2. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/confucius/>
-3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mohism/>
+2. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
+3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
 4. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 5. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 
@@ -16746,8 +16746,8 @@ Thử xem bạn nắm được đến đâu.
 2. *Luận ngữ* 15.5 (thiên Vệ Linh Công), nguyên văn. <https://ctext.org/analects/wei-ling-gong>
 3. *Tuân Tử*, thiên 17 "Thiên luận", nguyên văn. <https://ctext.org/xunzi/tian-lun>
 4. *Hàn Phi Tử*, mục lục (thiên 20 "Giải Lão", thiên 21 "Dụ Lão"). <https://ctext.org/hanfeizi>
-5. Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/entries/laozi/>
-6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy* (bản sửa 2023). <https://plato.stanford.edu/entries/chinese-legalism/>
+5. Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
+6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy* (bản sửa 2023). <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
 
 <div class="oz-page-break"></div>
 
@@ -16872,7 +16872,7 @@ Thử xem bạn nắm được đến đâu.
 ## Nguồn
 
 1. *Trang Tử*, thiên 2 "Tề vật luận", nguyên văn và bản dịch tiếng Anh của James Legge (1891), Chinese Text Project. <https://ctext.org/zhuangzi/adjustment-of-controversies>
-2. Hansen, Chad, "Zhuangzi", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/entries/zhuangzi/>
+2. Hansen, Chad, "Zhuangzi", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/>
 3. Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (1901), Wikisource. <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
 
 <div class="oz-page-break"></div>
@@ -17000,8 +17000,8 @@ Thử xem bạn nắm được đến đâu.
 1. Aristotle, *Nicomachean Ethics*, bản dịch W. D. Ross, Internet Classics Archive. <http://classics.mit.edu/Aristotle/nicomachaen.html>
 2. *The Works of Aristotle*, tập IX, bản dịch W. D. Ross (Oxford; lời tựa đề tháng 7/1925), bản scan trên Internet Archive. <https://archive.org/details/dli.ernet.6106>
 3. Aristotle, *Ethica Nicomachea*, bản Hy Lạp của J. Bywater (1894), Perseus — đối chiếu số Bekker. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053>
-4. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/aristotle-ethics/>
-5. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ethics-virtue/>
+4. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
+5. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
 6. Kant, *Die Metaphysik der Sitten* (1797), Ak 6:383–384, 6:404; *Anthropologie in pragmatischer Hinsicht* (1798), Ak 7:149, korpora.org. <https://korpora.org/Kant/aa06/404.html>
 7. Doris, John M. (1998), "Persons, Situations, and Virtue Ethics", *Noûs* 32(4): 504–530. <https://doi.org/10.1111/0029-4624.00136>
 8. Darley, John M. & C. Daniel Batson (1973), "From Jerusalem to Jericho", *Journal of Personality and Social Psychology* 27(1): 100–108. <https://doi.org/10.1037/h0034449>
@@ -17164,10 +17164,10 @@ Thử xem bạn nắm được đến đâu.
 
 1. Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch tiếng Anh của George Long (1862; phạm vi công cộng), Project Gutenberg #15877. <https://www.gutenberg.org/ebooks/15877>
 2. Marcus Aurelius, *Meditations*, bản dịch Meric Casaubon (1634), Project Gutenberg #2680. <https://www.gutenberg.org/ebooks/2680>
-3. Kamtekar, Rachana, "Marcus Aurelius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/marcus-aurelius/>
+3. Kamtekar, Rachana, "Marcus Aurelius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/>
 4. Sellars, John, "Marcus Aurelius", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/marcus/>
 5. Pigliucci, Massimo, "Stoicism", *Internet Encyclopedia of Philosophy* — về cảm xúc trong Khắc kỷ. <https://iep.utm.edu/stoicism/>
-6. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy* — Aristotle và phái Khắc kỷ về giận và sợ. <https://plato.stanford.edu/entries/aristotle-ethics/>
+6. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy* — Aristotle và phái Khắc kỷ về giận và sợ. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
 
 <div class="oz-page-break"></div>
 
@@ -17307,7 +17307,7 @@ Thử xem bạn nắm được đến đâu.
 1. *Mạnh Tử*, nguyên văn và bản dịch tiếng Anh của James Legge (1861), Chinese Text Project: thiên 2A <https://ctext.org/mengzi/gong-sun-chou-i>; 3B <https://ctext.org/mengzi/teng-wen-gong-ii>; 6A <https://ctext.org/mengzi/gaozi-i>.
 2. Chu Hy, *Mạnh Tử tập chú*, thiên Công Tôn Sửu thượng (chú: 內 đọc là "nạp"; 聲 là "danh"; 芒芒 là vẻ ngây ngô). <https://ctext.org/si-shu-zhang-ju-ji-zhu/gong-sun-chou-zhang-ju-shang/zh>
 3. *Tuân Tử*, thiên 23 "Tính ác", nguyên văn. <https://ctext.org/xunzi/xing-e>
-4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/entries/mencius/>
+4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
 
 <div class="oz-page-break"></div>
 
@@ -17446,8 +17446,8 @@ Thử xem bạn nắm được đến đâu.
 
 1. *Mặc Tử*, nguyên văn và bản dịch tiếng Anh của W. P. Mei (1929), Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
 2. *Mạnh Tử* 3A5 và 3B9, nguyên văn: <https://ctext.org/mengzi/teng-wen-gong-i>; <https://ctext.org/mengzi/teng-wen-gong-ii>.
-3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/entries/mohism/>; <https://plato.stanford.edu/entries/mohism/texts.html>
-4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), mục 4. <https://plato.stanford.edu/entries/mencius/>
+3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/archives/fall2026/entries/mohism/>; <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>
+4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), mục 4. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
 
 <div class="oz-page-break"></div>
 
@@ -17585,8 +17585,8 @@ Thử xem bạn nắm được đến đâu.
 4. Long Thọ, *Trung luận* (中論), phẩm 24 "Quán Tứ đế", bản Cưu-ma-la-thập, T30 n1564, CBETA. <https://cbetaonline.dila.edu.tw/zh/T1564_004>
 5. Nattier, Jan (1992), "The Heart Sūtra: A Chinese Apocryphal Text?", *Journal of the International Association of Buddhist Studies* 15(2): 153–223. <https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/8800>
 6. Lopez, Donald S., Jr. (1988), *The Heart Sutra Explained: Indian and Tibetan Commentaries*, Albany: SUNY Press.
-7. Westerhoff, Jan, "Nāgārjuna", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/entries/nagarjuna/>
-8. Ronkin, Noa, "Abhidharma", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/entries/abhidharma/>
+7. Westerhoff, Jan, "Nāgārjuna", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/>
+8. Ronkin, Noa, "Abhidharma", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/archives/fall2026/entries/abhidharma/>
 
 <div class="oz-page-break"></div>
 
@@ -17846,7 +17846,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Nguồn
 
 1. Sartre, Jean-Paul (1946), *L'existentialisme est un humanisme*, Paris: Nagel (bài nói ngày 29/10/1945); bản dịch tiếng Anh: *Existentialism Is a Humanism*, John Kulka biên tập, Carol Macomber dịch, New Haven: Yale University Press, 2007.
-2. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/sartre/>
+2. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
 3. Onof, Christian J., "Jean Paul Sartre: Existentialism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/sartre-ex/>
 
 <div class="oz-page-break"></div>

@@ -135,5 +135,5 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Nguồn {#nguon}
 
 1. Russell, Bertrand (1912), *The Problems of Philosophy*, London: Williams and Norgate, chương XV; bản in 1912 trên Wikisource <https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15>; Project Gutenberg <https://www.gutenberg.org/ebooks/5827>
-2. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/russell/>
+2. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
 3. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

@@ -129,8 +129,8 @@ Thử xem bạn nắm được đến đâu.
 1. Aristotle, *Nicomachean Ethics*, bản dịch W. D. Ross, Internet Classics Archive. <http://classics.mit.edu/Aristotle/nicomachaen.html>
 2. *The Works of Aristotle*, tập IX, bản dịch W. D. Ross (Oxford; lời tựa đề tháng 7/1925), bản scan trên Internet Archive. <https://archive.org/details/dli.ernet.6106>
 3. Aristotle, *Ethica Nicomachea*, bản Hy Lạp của J. Bywater (1894), Perseus — đối chiếu số Bekker. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053>
-4. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/aristotle-ethics/>
-5. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ethics-virtue/>
+4. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
+5. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
 6. Kant, *Die Metaphysik der Sitten* (1797), Ak 6:383–384, 6:404; *Anthropologie in pragmatischer Hinsicht* (1798), Ak 7:149, korpora.org. <https://korpora.org/Kant/aa06/404.html>
 7. Doris, John M. (1998), "Persons, Situations, and Virtue Ethics", *Noûs* 32(4): 504–530. <https://doi.org/10.1111/0029-4624.00136>
 8. Darley, John M. & C. Daniel Batson (1973), "From Jerusalem to Jericho", *Journal of Personality and Social Psychology* 27(1): 100–108. <https://doi.org/10.1037/h0034449>

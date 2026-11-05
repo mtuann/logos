@@ -182,6 +182,6 @@ Gợi ý độ dài: 150–300 chữ.
 2. Locke, John (1689; trang bìa ghi 1690), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/7370>
 3. Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>
 4. Hume, David (1748), "Of the Original Contract", in lần đầu trong *Three Essays, Moral and Political* (1748), cùng năm được đưa vào ấn bản thứ ba của *Essays, Moral and Political*. <https://davidhume.org/texts/empl2/oc>
-5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/rousseau/>
-6. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-political/>
-7. Uzgalis, William, "John Locke", *Stanford Encyclopedia of Philosophy* (về thời điểm viết và in *Two Treatises*). <https://plato.stanford.edu/entries/locke/>
+5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
+6. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
+7. Uzgalis, William, "John Locke", *Stanford Encyclopedia of Philosophy* (về thời điểm viết và in *Two Treatises*). <https://plato.stanford.edu/archives/fall2026/entries/locke/>

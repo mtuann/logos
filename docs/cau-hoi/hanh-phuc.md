@@ -202,7 +202,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Haybron, Dan, "Happiness", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/happiness/>; Crisp, Roger, "Well-Being", *Stanford Encyclopedia of Philosophy* (về cách chia ba họ lý thuyết của Parfit). <https://plato.stanford.edu/entries/well-being/>
+1. Haybron, Dan, "Happiness", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/happiness/>; Crisp, Roger, "Well-Being", *Stanford Encyclopedia of Philosophy* (về cách chia ba họ lý thuyết của Parfit). <https://plato.stanford.edu/archives/fall2026/entries/well-being/>
 2. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm cỗ máy trải nghiệm).
 3. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press (phụ lục về ba họ lý thuyết đời sống tốt).
 4. Epicurus, *Thư gửi Menoeceus* (cuối thế kỷ 4 – đầu thế kỷ 3 TCN, phạm vi công cộng; được Diogenes Laertius chép lại trong Quyển X của *Lives of Eminent Philosophers*).

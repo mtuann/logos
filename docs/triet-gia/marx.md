@@ -73,7 +73,7 @@ Nếu trên thị trường mọi thứ đều được mua bán đúng giá, l�
 
 ## Nguồn
 
-1. Wolff, Jonathan & David Leopold, “Karl Marx”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/marx/>
+1. Wolff, Jonathan & David Leopold, “Karl Marx”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marx/>
 2. Feuer, Lewis S. và các tác giả khác, “Karl Marx”, *Encyclopaedia Britannica*. <https://www.britannica.com/biography/Karl-Marx>
 3. “Das Kapital”, *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Das-Kapital>
 4. Marx, Karl, “Thesen über Feuerbach” (1845; in 1888), Wikisource tiếng Đức. <https://de.wikisource.org/wiki/Thesen_%C3%BCber_Feuerbach>

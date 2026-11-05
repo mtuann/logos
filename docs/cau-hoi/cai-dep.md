@@ -195,9 +195,9 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-aesthetics/>
-2. Ginsborg, Hannah, "Kant's Aesthetics and Teleology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-aesthetics/>
+1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>
+2. Ginsborg, Hannah, "Kant's Aesthetics and Teleology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-aesthetics/>
 3. Hume, David (1757), "Of the Standard of Taste", trong *Four Dissertations*. Văn bản phạm vi công cộng. <https://davidhume.org/texts/empl1/st>
 4. Kant, Immanuel (1790), *Kritik der Urteilskraft* (*Phê phán năng lực phán đoán*); bản dịch tiếng Anh của J. H. Bernard (phạm vi công cộng), §16 về cái đẹp tự do và cái đẹp phụ thuộc. <https://www.gutenberg.org/ebooks/48433>
-5. Shelley, James, "The Concept of the Aesthetic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/aesthetic-concept/>
+5. Shelley, James, "The Concept of the Aesthetic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aesthetic-concept/>
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

@@ -172,7 +172,7 @@ Cuộc vấn đáp hay nhất thường kết thúc ở một giả định ng�
 
 ## Nguồn {#nguon}
 
-1. Debra Nails và S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/socrates/>
+1. Debra Nails và S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 2. James M. Ambury, "Socrates", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/socrates/>
 3. Platon, *Euthyphro* (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1642>
 4. Platon, *Biện hộ của Socrates* (*Apology*, bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1656>

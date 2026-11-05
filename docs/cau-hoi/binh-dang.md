@@ -206,8 +206,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Bidadanure, Juliana & David Axelsen, "Egalitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/egalitarianism/>
-2. Gosepath, Stefan, "Equality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/equality/>
+1. Bidadanure, Juliana & David Axelsen, "Egalitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/>
+2. Gosepath, Stefan, "Equality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/equality/>
 3. Dworkin, Ronald (1981), "What Is Equality? Part 1: Equality of Welfare", *Philosophy & Public Affairs* 10(3): 185–246; "Part 2: Equality of Resources", *Philosophy & Public Affairs* 10(4): 283–345.
 4. Cohen, G. A. (1989), "On the Currency of Egalitarian Justice", *Ethics* 99(4): 906–944. <https://doi.org/10.1086/293126>
 5. Anderson, Elizabeth (1999), "What Is the Point of Equality?", *Ethics* 109(2): 287–337. <https://doi.org/10.1086/233897>

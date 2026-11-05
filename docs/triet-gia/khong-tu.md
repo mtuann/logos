@@ -72,7 +72,7 @@ Tử Lộ hỏi: nếu vua nước Vệ giao chính sự cho thầy, thầy làm
 
 ## Nguồn
 
-1. Csikszentmihalyi, Mark, “Confucius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/confucius/>
+1. Csikszentmihalyi, Mark, “Confucius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 2. Richey, Jeff, “Confucius”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/confucius/>
 3. *Luận ngữ* (論語), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/analects>
 4. Tư Mã Thiên, *Sử ký*, “Khổng Tử thế gia” (孔子世家), nguyên văn chữ Hán, ctext.org. <https://ctext.org/shiji/kong-zi-shi-jia/zh>

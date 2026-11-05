@@ -205,7 +205,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/cosmological-argument/>
+1. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/>
 2. Craig, William Lane (1979), *The Kalam Cosmological Argument*, London: Macmillan.
 3. Penrose, Roger (2010), *Cycles of Time: An Extraordinary New View of the Universe*, London: Bodley Head.
 4. Borde, Arvind, Alan H. Guth & Alexander Vilenkin (2003), "Inflationary Spacetimes Are Incomplete in Past Directions", *Physical Review Letters* 90, 151301. <https://doi.org/10.1103/PhysRevLett.90.151301>

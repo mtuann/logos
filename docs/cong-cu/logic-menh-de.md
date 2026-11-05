@@ -239,4 +239,4 @@ Bảng chân trị coi "đúng" và "sai" là những giá trị có sẵn. [S�
 ## Nguồn {#nguon}
 
 1. Kevin C. Klement, "Propositional Logic", *Internet Encyclopedia of Philosophy* (mục lịch sử: bảng chân trị trước Post và Wittgenstein). <https://iep.utm.edu/prop-log/>
-2. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
+2. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/>

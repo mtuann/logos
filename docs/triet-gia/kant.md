@@ -73,8 +73,8 @@ Trong *Nền tảng siêu hình học của đạo đức* (1785), Kant đề ra
 
 ## Nguồn
 
-1. Rohlf, Michael, “Immanuel Kant”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant/>
-2. Johnson, Robert & Adam Cureton, “Kant’s Moral Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-moral/>
+1. Rohlf, Michael, “Immanuel Kant”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant/>
+2. Johnson, Robert & Adam Cureton, “Kant’s Moral Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
 3. Kant, Immanuel, *Fundamental Principles of the Metaphysic of Morals* (*Grundlegung*, 1785), bản dịch tiếng Anh của T. K. Abbott, Project Gutenberg. <https://www.gutenberg.org/ebooks/5682>
 4. Kant, Immanuel, *Grundlegung zur Metaphysik der Sitten* (1785) và “Über ein vermeintes Recht aus Menschenliebe zu lügen” (1797), nguyên văn tiếng Đức theo Akademie-Ausgabe (tập 4 và 8), korpora.org. <https://www.korpora.org/Kant/aa04/429.html>
 5. Korsgaard, Christine M., “The Right to Lie: Kant on Dealing with Evil” (1986), in lại trong *Creating the Kingdom of Ends*, Cambridge University Press, 1996. <https://doi.org/10.1017/CBO9781139174503.006>

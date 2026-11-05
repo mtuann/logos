@@ -226,11 +226,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Ichikawa, Jonathan Jenkins & Matthias Steup, "The Analysis of Knowledge", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/knowledge-analysis/>
-2. Comesaña, Juan & Peter Klein, "Skepticism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/skepticism/>
-3. Markie, Peter & M. Folescu, "Rationalism vs. Empiricism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/rationalism-empiricism/>
-4. Goldman, Alvin & Bob Beddor, "Reliabilist Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/reliabilism/>
-5. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/descartes-epistemology/>
+1. Ichikawa, Jonathan Jenkins & Matthias Steup, "The Analysis of Knowledge", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/>
+2. Comesaña, Juan & Peter Klein, "Skepticism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism/>
+3. Markie, Peter & M. Folescu, "Rationalism vs. Empiricism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rationalism-empiricism/>
+4. Goldman, Alvin & Bob Beddor, "Reliabilist Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/reliabilism/>
+5. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
 6. Hetherington, Stephen, "Gettier Problems", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/gettier/>
 7. Gettier, Edmund L. (1963), "Is Justified True Belief Knowledge?", *Analysis* 23(6): 121–123. <https://doi.org/10.1093/analys/23.6.121>
 8. Goldman, Alvin I. (1979), "What Is Justified Belief?", trong G. S. Pappas (chủ biên), *Justification and Knowledge*, Dordrecht: Reidel.

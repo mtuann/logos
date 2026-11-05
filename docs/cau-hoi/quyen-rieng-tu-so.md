@@ -183,6 +183,6 @@ Gợi ý độ dài: 250–400 chữ.
 3. Nissenbaum, Helen (2010), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
 4. Solove, Daniel J. (2007), "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy", *San Diego Law Review* 44: 745–772.
 5. Solove, Daniel J. (2008), *Understanding Privacy*, Cambridge, MA: Harvard University Press.
-6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/privacy/>
+6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/privacy/>
 7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-356-2025-ND-CP-huong-dan-Luat-Bao-ve-du-lieu-ca-nhan-687428.aspx>
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

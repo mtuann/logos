@@ -63,9 +63,9 @@ Mở đầu *Bàn luận quyết định*, Ibn Rushd đặt câu hỏi như mộ
 
 ## Nguồn
 
-1. Ben Ahmed, Fouad & Robert Pasnau, “Ibn Rushd [Averroes]”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ibn-rushd/>
-2. Thijssen, Hans, “Condemnation of 1277”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/condemnation/>
-3. Griffel, Frank, “Al-Ghazali”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/al-ghazali/>
+1. Ben Ahmed, Fouad & Robert Pasnau, “Ibn Rushd [Averroes]”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/>
+2. Thijssen, Hans, “Condemnation of 1277”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/condemnation/>
+3. Griffel, Frank, “Al-Ghazali”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/>
 4. Ibn Rushd, *On the Harmony of Religion and Philosophy* (*Kitab fasl al-maqal*), bản dịch George F. Hourani, London: Luzac (E. J. W. Gibb Memorial).
 5. Dante Alighieri, *Divine Comedy: Hell*, khúc IV, bản dịch H. W. Longfellow, Project Gutenberg. <https://www.gutenberg.org/ebooks/1001>
 

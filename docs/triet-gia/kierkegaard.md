@@ -69,7 +69,7 @@ Trong *Kính sợ và run rẩy*, qua bút danh Johannes de Silentio, Kierkegaar
 
 ## Nguồn
 
-1. Lippitt, John & C. Stephen Evans, “Søren Kierkegaard”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kierkegaard/>
+1. Lippitt, John & C. Stephen Evans, “Søren Kierkegaard”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/>
 2. McDonald, William, “Søren Kierkegaard”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/kierkega/>
 3. Kierkegaard, Søren, *Selections from the Writings of Kierkegaard*, L. M. Hollander dịch (1923), Project Gutenberg. <https://www.gutenberg.org/ebooks/60333>
 4. Kant, Immanuel, *Der Streit der Fakultäten* (1798), Ak 7:63 (chú thích về Abraham). <https://www.korpora.org/Kant/aa07/063.html>

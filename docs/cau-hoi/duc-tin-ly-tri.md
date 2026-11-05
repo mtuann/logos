@@ -223,6 +223,6 @@ Gợi ý độ dài: 200–350 chữ.
 2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng).
 3. James, William (1896), "The Will to Believe".
 4. Pascal, Blaise (1670), *Pensées*, đoạn "Infini-rien" (xuất bản sau khi tác giả mất).
-5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/fideism/>
-6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/pascal-wager/>
+5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fideism/>
+6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

@@ -186,7 +186,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/concept-evil/>
+1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>
 2. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.
 3. Augustine, *Confessions*, Quyển 7 (khoảng năm 397–400, phạm vi công cộng).
 4. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

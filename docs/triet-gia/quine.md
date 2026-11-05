@@ -65,7 +65,7 @@ Các nhà thực chứng logic như Carnap dựa vào phân biệt giữa câu *
 
 ## Nguồn
 
-1. Hylton, Peter & Gary Kemp, “Willard Van Orman Quine”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/quine/>
+1. Hylton, Peter & Gary Kemp, “Willard Van Orman Quine”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/quine/>
 2. Rocknak, Stefanie, “Willard Van Orman Quine: The Analytic/Synthetic Distinction”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/quine/>
 3. Quine, W. V., “Two Dogmas of Empiricism”, *The Philosophical Review* 60 (1951), tr. 20–43. <https://doi.org/10.2307/2181906>
 4. Grice, H. P. & P. F. Strawson, “In Defense of a Dogma”, *The Philosophical Review* 65 (1956), tr. 141–158. <https://doi.org/10.2307/2182828>
