@@ -11,7 +11,20 @@
   ],
   "properties": {
     "source": {
-      "type": "object"
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "preamble",
+        "footer"
+      ],
+      "properties": {
+        "preamble": {
+          "type": "string"
+        },
+        "footer": {
+          "type": "string"
+        }
+      }
     },
     "questions": {
       "type": "array",
@@ -103,6 +116,22 @@
                       "maximum": 100
                     }
                   ]
+                },
+                "raw": {
+                  "description": "Chữ gốc của ô không theo quy ước một chữ số thập phân.",
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "pct": {
+                      "type": "string"
+                    },
+                    "pct_reject": {
+                      "type": "string"
+                    },
+                    "pct_exclusive": {
+                      "type": "string"
+                    }
+                  }
                 }
               }
             }
