@@ -76,4 +76,4 @@ Các bài dưới đây nên đọc theo thứ tự, nhưng bài nào cũng đ�
 
 </div>
 
-Muốn luyện tay ngay? Thử [Nhận ra ngụy biện](../luyen-tap/nguy-bien.md) với 100 đoạn hội thoại đời thường, rồi mang các công cụ này vào [Những câu hỏi lớn](../cau-hoi/index.md).
+Muốn luyện tay ngay? Thử [Nhận ra ngụy biện](../luyen-tap/nguy-bien.md) với [[count:nguy-bien]] đoạn hội thoại đời thường, rồi mang các công cụ này vào [Những câu hỏi lớn](../cau-hoi/index.md).

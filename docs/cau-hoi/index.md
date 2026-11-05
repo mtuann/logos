@@ -10,7 +10,7 @@ tier: he-thong
 
 Mỗi bài ở đây bắt đầu bằng một **thí nghiệm tư duy**, một tình huống nhỏ để bạn tự trả lời trước. Sau đó bài làm rõ câu hỏi thật sự là gì, trình bày các lập trường chính ở phiên bản mạnh nhất của chúng (kèm phản bác và cách đáp lại), rồi cho biết giới triết học ngày nay nghiêng về đâu. Site không chọn hộ bạn.
 
-Có **57 bài**, xếp theo mười một chủ đề dưới đây. Không cần đọc theo thứ tự: chọn câu hỏi nào làm bạn mất ngủ, rồi đi theo các đường link trong bài. Nếu chưa biết bắt đầu từ đâu, xem [Ba con đường đọc](../bat-dau/lo-trinh.md). Mỗi bài có mục "Tóm tắt 5 phút" ở đầu cho người muốn nắm nhanh.
+Có **[[count:cau-hoi]] bài**, xếp theo mười một chủ đề dưới đây. Không cần đọc theo thứ tự: chọn câu hỏi nào làm bạn mất ngủ, rồi đi theo các đường link trong bài. Nếu chưa biết bắt đầu từ đâu, xem [Ba con đường đọc](../bat-dau/lo-trinh.md). Mỗi bài có mục "Tóm tắt 5 phút" ở đầu cho người muốn nắm nhanh.
 
 ## Tri thức và chân lý
 

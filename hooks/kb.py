@@ -6,6 +6,9 @@ Cú pháp (chốt ở đợt 1, việc 1.8): `[[loại:khóa]]`, viết liền, 
     [[count:cau-hoi/dao-duc]]    số trang loại cau-hoi thuộc khối dao-duc          → 7
     [[count:lich-su]]            số bài lịch sử (không tính Dòng thời gian, Sơ đồ) → 8
     [[count:triet-gia]]          số trang triết gia (không tính index.md)          → 59
+    [[count:nguy-bien]]          số đoạn hội thoại ngụy biện (fallacies.json)      → 100
+    [[count:thuat-ngu]]          số thuật ngữ (terms.json)                         → 249
+    [[count:quiz]]               số câu trong ngân hàng quiz (quiz-bank.json)      → 428
 
 Loại `count` đọc content.yml: đếm trang có `type` cho trước, lọc thêm theo `block` nếu có `/khối`. Không đếm
 trang he-thong và trang sinh tự động (lich-su/dong-thoi-gian.md…), trừ trang triết gia: mỗi trang là một hồ sơ. Số từ 1.000 trở lên in kiểu Việt Nam (1.234).
@@ -25,6 +28,7 @@ Mã băm đơn vị (tools/lz/normalize.py) giữ shortcode nguyên dạng, nên
 
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 from typing import Callable
@@ -73,16 +77,32 @@ def fmt_int(n: int) -> str:
     return f"{n:,}".replace(",", ".")
 
 
+# Số bản ghi trong file dữ liệu: loại → (file, khóa của danh sách). Tên không trùng `type` của trang.
+DATA_COUNTS = {
+    "nguy-bien": ("docs/assets/data/fallacies.json", "questions"),
+    "thuat-ngu": ("docs/assets/data/terms.json", "terms"),
+    "quiz": ("docs/assets/data/quiz-bank.json", "items"),
+}
+
+
 def count(key: str, ctx: dict) -> str:
     registry = ctx["registry"]
     kind, _, block = key.partition("/")
+    if kind in DATA_COUNTS:
+        if block:
+            raise KeyError(f"loại dữ liệu {kind!r} không lọc theo khối")
+        path, field = DATA_COUNTS[kind]
+        cache = ctx.setdefault("_data", {})
+        if path not in cache:
+            cache[path] = json.loads((ctx["root"] / path).read_text(encoding="utf-8"))
+        return fmt_int(len(cache[path][field]))
     # Đếm "bài": bỏ trang he-thong và trang sinh tự động (Dòng thời gian, Sơ đồ ảnh hưởng…), trừ trang triết gia,
     # vì mỗi trang triết gia sinh ra là một hồ sơ.
     pages = [p for p in registry["pages"]
              if p["type"] != "he-thong" and (not p["generated"] or p["type"] == "triet-gia")]
     types = {p["type"] for p in pages}
     if kind not in types:
-        raise KeyError(f"loại trang {kind!r} không có trong content.yml (có: {', '.join(sorted(types))})")
+        raise KeyError(f"loại {kind!r} không có trong content.yml hay DATA_COUNTS (có: {', '.join(sorted(types | set(DATA_COUNTS)))})")
     hits = [p for p in pages if p["type"] == kind]
     if block:
         blocks = {p["block"] for p in hits}

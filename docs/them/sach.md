@@ -164,7 +164,7 @@ Không có bài nào quá hạn rà soát.
 
 Không ai bước vào triết học từ cùng một cánh cửa. Có người đến vì một cuộc cãi nhau trên mạng mà mình thua dù tin chắc mình đúng. Có người đến vì một đêm mất ngủ với câu hỏi "rồi mọi thứ để làm gì?". Có người chỉ tò mò: AI có biết nghĩ không?
 
-Vì thế Logos Zero không có "chương 1, chương 2". Có ba con đường. Bạn có thể đi một con đến cuối, hoặc rẽ ngang bất cứ lúc nào. Hiện site có 15 bài công cụ tư duy, 57 bài về những câu hỏi lớn, 8 bài lịch sử tư tưởng, 19 hướng dẫn đọc văn bản gốc và trang riêng cho từng triết gia.
+Vì thế Logos Zero không có "chương 1, chương 2". Có ba con đường. Bạn có thể đi một con đến cuối, hoặc rẽ ngang bất cứ lúc nào. Hiện site có [[count:cong-cu]] bài công cụ tư duy, [[count:cau-hoi]] bài về những câu hỏi lớn, [[count:lich-su]] bài lịch sử tư tưởng, [[count:doc]] hướng dẫn đọc văn bản gốc và trang riêng cho từng triết gia.
 
 ## 1. Tư duy rõ ràng
 
@@ -182,11 +182,11 @@ Vì thế Logos Zero không có "chương 1, chương 2". Có ba con đường. 
 - Muốn đọc và viết tốt hơn: [Đọc văn bản khó](../cong-cu/doc-van-ban-kho.md), [Sơ đồ hóa lập luận](../cong-cu/so-do-hoa-lap-luan.md), [Viết đoạn lập luận](../cong-cu/viet-doan-lap-luan.md).
 - Muốn tranh luận tử tế hơn: [Định nghĩa và phản ví dụ](../cong-cu/dinh-nghia-phan-vi-du.md), [Phép biện chứng Socrates](../cong-cu/bien-chung-socrates.md), [Luận cứ thép](../cong-cu/luan-cu-thep.md), [Thí nghiệm tư duy](../cong-cu/thi-nghiem-tu-duy.md).
 
-Con đường này hợp với bạn nếu bạn hay đọc tin tức, tranh luận, làm việc với số liệu, hoặc đơn giản là muốn bớt bị thuyết phục bởi những điều nghe có vẻ hay. Khi đọc, hãy thử sức ở [Nhận ra ngụy biện](../luyen-tap/nguy-bien.md): 100 đoạn hội thoại đời thường.
+Con đường này hợp với bạn nếu bạn hay đọc tin tức, tranh luận, làm việc với số liệu, hoặc đơn giản là muốn bớt bị thuyết phục bởi những điều nghe có vẻ hay. Khi đọc, hãy thử sức ở [Nhận ra ngụy biện](../luyen-tap/nguy-bien.md): [[count:nguy-bien]] đoạn hội thoại đời thường.
 
 ## 2. Những câu hỏi lớn
 
-Đây là con đường đi thẳng vào vấn đề. Mỗi bài xoay quanh một câu hỏi chưa ngã ngũ, trình bày các lập trường mạnh nhất, các phản bác, và để câu trả lời cuối cùng lại cho bạn. Có 57 bài, xếp theo mười một chủ đề trong [trang Những câu hỏi lớn](../cau-hoi/index.md). Nếu muốn một lối vào, đây là sáu bài, mỗi bài mở ra một vùng lớn của triết học:
+Đây là con đường đi thẳng vào vấn đề. Mỗi bài xoay quanh một câu hỏi chưa ngã ngũ, trình bày các lập trường mạnh nhất, các phản bác, và để câu trả lời cuối cùng lại cho bạn. Có [[count:cau-hoi]] bài, xếp theo mười một chủ đề trong [trang Những câu hỏi lớn](../cau-hoi/index.md). Nếu muốn một lối vào, đây là sáu bài, mỗi bài mở ra một vùng lớn của triết học:
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — tri thức khác niềm tin ở chỗ nào, và liệu ta có thể chắc mình không đang mơ.
 - [Một cỗ máy có thể có tâm trí không?](../cau-hoi/tam-tri-va-ai.md) — ý thức, hiểu biết, và những hệ thống AI đang trò chuyện với ta mỗi ngày.
@@ -201,9 +201,9 @@ Bạn không cần đọc "Tư duy rõ ràng" trước. Khi một bài cần đ�
 
 Đây là con đường của những con người: ai đã hỏi gì, trong hoàn cảnh nào, và vì sao câu trả lời của họ vẫn còn được tranh luận. Không chỉ Hy Lạp và châu Âu, mà cả Ấn Độ, Trung Hoa, Phật giáo và tư tưởng Việt Nam.
 
-- Bắt đầu từ [Lịch sử tư tưởng](../lich-su/index.md): 8 bài theo thời kỳ và khu vực, kèm [dòng thời gian](../lich-su/dong-thoi-gian.md) và [sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md).
+- Bắt đầu từ [Lịch sử tư tưởng](../lich-su/index.md): [[count:lich-su]] bài theo thời kỳ và khu vực, kèm [dòng thời gian](../lich-su/dong-thoi-gian.md) và [sơ đồ ảnh hưởng](../lich-su/so-do-anh-huong.md).
 - Gặp từng người ở trang [Các triết gia](../triet-gia/index.md): tiểu sử, tác phẩm chính, một lập luận tiêu biểu kèm phản bác, và các bài trên site nhắc tới họ.
-- Rồi đọc chính họ: [Đọc văn bản gốc](../doc/index.md) có 19 hướng dẫn đọc chậm, từ [*Biện hộ của Socrates*](../doc/platon-bien-ho.md) và [*Luận ngữ*](../doc/luan-ngu.md) tới [*Bình Ngô đại cáo*](../doc/nguyen-trai-binh-ngo.md).
+- Rồi đọc chính họ: [Đọc văn bản gốc](../doc/index.md) có [[count:doc]] hướng dẫn đọc chậm, từ [*Biện hộ của Socrates*](../doc/platon-bien-ho.md) và [*Luận ngữ*](../doc/luan-ngu.md) tới [*Bình Ngô đại cáo*](../doc/nguyen-trai-binh-ngo.md).
 
 ## Nên bắt đầu từ đâu?
 
