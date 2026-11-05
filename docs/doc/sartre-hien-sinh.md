@@ -18,11 +18,11 @@ Văn bản của Sartre (mất năm 1980) còn bản quyền, cả bản tiếng
     - **Cách ghi vị trí:** bài không đánh số đoạn; dưới đây ghi theo thứ tự các phần của bài nói.
     - **Thời gian đọc:** khoảng 15 phút cho hướng dẫn này; chừng 1 giờ cho toàn văn.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Paris vừa qua bốn năm bị chiếm đóng. Bản thân Sartre bị quân Đức bắt năm 1940, ở trại tù gần một năm, rồi tham gia một nhóm kháng chiến trong thời gian ngắn. Câu hỏi "con người là gì khi mọi giá trị cũ sụp đổ" không còn là bài tập trừu tượng. Sartre nói với một thế hệ phải tự chọn đường khi không còn thẩm quyền nào đáng tin: không Giáo hội, không truyền thống, không một "bản tính người" bất biến.
 
-## Đọc từng đoạn (diễn ý)
+## Đọc từng đoạn (diễn ý) {#doc-tung-doan-dien-y}
 
 ### 1. Hiện hữu đi trước bản chất (phần định nghĩa)
 
@@ -65,7 +65,7 @@ Sartre kết: thuyết hiện sinh là một thuyết lạc quan, một học th
 
 > Câu hỏi: "Lạc quan" mà bắt đầu bằng "bị kết án": đây là lạc quan thật, hay một cách tự an ủi trước một vũ trụ vô nghĩa?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Một "bản tính người" định sẵn chỉ có thể có nếu có một Đấng sáng tạo đã hình dung ra con người. (giả định ngầm)
 - **P2.** Không có Thượng đế. (tiền đề của Sartre)
@@ -77,7 +77,7 @@ Sartre kết: thuyết hiện sinh là một thuyết lạc quan, một học th
 
 Từ P1, P2 đến K1 là suy diễn hợp lệ. Nhưng P1 là một **giả định ngầm** đáng ngờ: sinh học tiến hóa có thể giải thích một bản tính người chung mà không cần ai thiết kế. P2 không được chứng minh trong bài; Sartre còn nói rằng dù Thượng đế có tồn tại thì cũng chẳng thay đổi gì. P4 là bước gây tranh cãi nhất, rất gần với phép thử phổ quát hóa của Kant.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 - **Người Marxist đương thời:** tự do chọn lựa của người đói khác xa của người no. Bỏ qua điều kiện vật chất và giai cấp, "trách nhiệm tuyệt đối" là triết học của tầng lớp có đặc quyền.
   *Cách đáp lại:* Sartre nói lựa chọn luôn là lựa chọn *trong một hoàn cảnh*, và dù không có bản tính người, vẫn có một "thân phận con người" chung với những giới hạn có sẵn. Về sau, chính ông đi gần chủ nghĩa [Marx](../triet-gia/marx.md) hơn (*Phê phán lý tính biện chứng*, 1960).
@@ -86,18 +86,18 @@ Từ P1, P2 đến K1 là suy diễn hợp lệ. Nhưng P1 là một **giả đ�
 - **Tùy tiện:** nếu giá trị do ta sáng tạo, lấy gì phán xét lựa chọn của người khác?
   *Cách đáp lại:* như người nghệ sĩ, người chọn không có quy tắc định sẵn nhưng vẫn bị đánh giá theo sự nhất quán của mình; và đức tin xấu, tự dối mình về tự do của mình, luôn là một sai lầm có thể chỉ ra.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Hiện sinh là bi quan, tuyệt vọng."** Sartre gọi nó là một học thuyết của hành động và một thứ lạc quan. "Tuyệt vọng" với ông chỉ có nghĩa là chỉ dựa vào những gì nằm trong tầm ý chí của mình.
 - **"Tự do theo Sartre là muốn gì làm nấy."** Tự do của ông đi liền với trách nhiệm cho mọi người, và luôn diễn ra trong một hoàn cảnh cụ thể.
 - **"Hiện sinh nghĩa là vô thần."** Chính Sartre kể ra những nhà hiện sinh Kitô giáo; điều chung là hiện hữu đi trước bản chất, không phải vô thần.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Viết ra một quyết định quan trọng bạn đang né tránh. Trong những "lý do" bạn đưa ra (chưa đủ thông tin, hoàn cảnh chưa cho phép...), cái nào là thật, cái nào là đức tin xấu?
 2. "Bị kết án phải tự do": câu này giải phóng hay đè nặng? Một người bạn đang trầm cảm vì cảm giác "đời mình do mình chọn mà mình chọn sai": bạn có dám nói với họ luận đề của Sartre không? Vì sao?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được lập luận đến đâu.
 
@@ -111,7 +111,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Ta có thật sự tự do lựa chọn?](../cau-hoi/tu-do-y-chi.md) — tất định luận, tương thích luận và thí nghiệm Libet đối đầu Sartre
 - [Ta có đáng bị trách không?](../cau-hoi/trach-nhiem.md) — trách nhiệm đạo đức khi mọi thứ đều có nguyên nhân
@@ -119,7 +119,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — nếu ý nghĩa không có sẵn, ta có thể tự tạo ra nó không?
 - [Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md) — hiện sinh đã đến với người đọc Việt Nam thế nào.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Sartre, Jean-Paul (1946), *L'existentialisme est un humanisme*, Paris: Nagel (bài nói ngày 29/10/1945); bản dịch tiếng Anh: *Existentialism Is a Humanism*, John Kulka biên tập, Carol Macomber dịch, New Haven: Yale University Press, 2007.
 2. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/sartre/>

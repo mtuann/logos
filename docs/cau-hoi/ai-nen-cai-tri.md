@@ -21,7 +21,7 @@ Câu hỏi này xưa như triết học chính trị. Platon đã hỏi nó từ
 
 ([Bài về dân chủ](dan-chu.md) đã hỏi "dân chủ là gì và vì sao nó đáng giá"; bài này hỏi một câu hẹp và sắc hơn: *ai* — với tư cách gì — nên là người ra quyết định cuối cùng?)
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Bạn đang trên một chuyến bay. Giữa chừng, cơ trưởng ngất xỉu. Tiếp viên thông báo: "Ai biết lái máy bay xin lên buồng lái!" — và đồng thời, một hành khách đề xuất: "Hay chúng ta biểu quyết xem ai lái? Mỗi người một phiếu, đa số thắng!"
@@ -35,7 +35,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
     Biến thể thứ hai, từ phía ngược lại: giả sử ta đồng ý để "người hiểu biết" cai trị. Ai là người quyết định ai "hiểu biết"? Một bài kiểm tra? Ai ra đề? Trong lịch sử, mỗi lần ai đó được quyền định nghĩa "hiểu biết", định nghĩa ấy đều trùng hợp một cách kỳ lạ với lợi ích của chính họ.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất: cai trị có phải là một *nghề* cần chuyên môn không?** Nếu cai trị là một kỹ năng như y khoa hay hàng hải — cần học, cần kinh nghiệm — thì việc giao nó cho số đông qua bầu cử cũng phi lý như việc bầu bác sĩ mổ tim. Nhưng nếu cai trị chủ yếu là về *giá trị* (xã hội nên ưu tiên điều gì) chứ không phải *kỹ thuật* (làm thế nào), thì "chuyên môn" ở đây là chuyên môn về cái gì — và ai có thể tự nhận mình là chuyên gia về giá trị?
 
@@ -43,7 +43,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: ai canh chừng người cai trị?** Đây là câu hỏi mà mọi đề xuất "để người giỏi cai trị" đều phải trả lời — và thường trả lời không nổi. Giả sử ta tìm được những "vua triết gia" thật sự khôn ngoan: ai bảo đảm họ không hư hỏng? Ai loại bỏ họ khi họ sai? Một hệ thống không có cơ chế sửa sai thì dù khởi đầu tốt đến đâu cũng sẽ hư hỏng — đây chính là mũi tên mà phe dân chủ bắn vào mọi phiên bản chuyên gia trị.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Platon: để người hiểu biết cai trị — "vua triết gia"
 
@@ -93,13 +93,13 @@ Lập luận của Brennan đi thẳng vào trực giác "biểu quyết chọn 
 
 **Cách đáp lại.** Brennan đáp rằng lạm dụng trong quá khứ không chứng minh đề xuất nào cũng sẽ bị lạm dụng — cũng như ta không bỏ bằng lái xe chỉ vì từng có tham nhũng trong cấp bằng. Về "công dân hạng hai", ông nói: ta đã chấp nhận giới hạn tuổi bầu cử (trẻ em không được bỏ phiếu) mà không ai thấy đó là sỉ nhục — vì ta thừa nhận năng lực có liên quan đến quyền bầu cử. Câu hỏi chỉ là: nếu tuổi tác là một tiêu chí năng lực hợp lệ, thì vì sao kiến thức lại không? (Người phản bác sẽ đáp ngay: vì tuổi tác là tiêu chí *khách quan, không thể thao túng*, còn "kiến thức" thì không — và cuộc tranh luận tiếp tục từ đó.)
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về "ai nên cai trị" hay về chế độ tinh hoa tri thức trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài. Khảo sát *có* hỏi về triết học chính trị nói chung — câu chính "Triết học chính trị" (cộng đồng luận, chủ nghĩa bình đẳng hay chủ nghĩa tự do cá nhân; n ≈ 1.540), cùng hai câu bổ sung về chính trị – kinh tế (tư bản hay xã hội chủ nghĩa; n ≈ 1.090) và phương pháp triết học chính trị (lý thuyết lý tưởng hay phi lý tưởng; n ≈ 790) — nhưng không câu nào hỏi ai nên nắm quyền quyết định cuối cùng hay có nên gắn quyền bầu cử với năng lực, nên không thể dùng chúng để đoán giới triết học nghiêng về Platon, Churchill hay Brennan.
 
 Trong giới triết học, cuốn *Against Democracy* (2016) của Brennan đã gây ra một cuộc tranh luận lớn — với nhiều công trình phản bác (bênh vực giá trị nội tại của quyền bầu cử bình đẳng) và một số công trình phát triển tiếp ý tưởng epistocracy theo hướng ôn hòa hơn. Platon thì, như mọi khi, vẫn ở đó — không phải như một đề xuất thể chế nghiêm túc, mà như một bài kiểm tra mà mọi lý thuyết dân chủ đều phải vượt qua: *bạn đối phó thế nào với sự thiếu hiểu biết của cử tri?* Nhưng trong đợt khảo sát 2020, không có câu nào hỏi trực tiếp "bạn có ủng hộ epistocracy không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Bầu lớp trưởng, bầu tổ trưởng.** Ở quy mô nhỏ, câu hỏi của bài này hiện ra rất rõ: lớp bầu lớp trưởng — nên bầu người được nhiều bạn quý, hay người có năng lực tổ chức thật sự? Hầu hết các lớp bầu theo cảm tình, rồi than phiền lớp trưởng bất tài. Đó chính là hình ảnh con tàu của Platon ở quy mô lớp học: đám thủy thủ tung hô kẻ khéo lôi kéo thay vì người thật sự biết đi biển. Lần tới đi bầu bất kỳ thứ gì — lớp trưởng, trưởng nhóm dự án — hãy thử hỏi theo bài này: mình đang bầu theo *năng lực* hay theo *cảm tình*? Và tiêu chí nào mới đúng cho vị trí đó?
 
@@ -107,7 +107,7 @@ Trong giới triết học, cuốn *Against Democracy* (2016) của Brennan đã
 
 **Họp công ty: sếp quyết hay biểu quyết?** Trong công ty, hầu như không ai đòi "dân chủ hóa" mọi quyết định — sếp quyết, nhân viên làm. Nhưng khi quyết định ảnh hưởng trực tiếp đến nhân viên (cắt thưởng, đổi giờ làm), nhân viên lại đòi được tham gia. Bài này cho bạn khung để hiểu sự lưỡng lự đó: với quyết định *kỹ thuật* (chọn công nghệ nào), ta theo Platon/Brennan — để người hiểu biết quyết. Với quyết định *giá trị* (phúc lợi, công bằng nội bộ), ta theo truyền thống dân chủ — những người chịu ảnh hưởng phải có tiếng nói. Vấn đề không phải "dân chủ hay chuyên gia" cho mọi việc, mà là *việc nào hợp với cơ chế nào*.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 *Cộng hòa* của Platon đã thuộc phạm vi công cộng. Hình ảnh con tàu (Quyển VI, 488a–489d) có thể đọc qua bản dịch tiếng Anh của Benjamin Jowett — [bài về dân chủ](dan-chu.md) đã trích đoạn kết. Dưới đây là tóm tắt toàn đoạn bằng lời mình:
 
@@ -123,7 +123,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc ẩn dụ hang động](../doc/platon-hang-dong.md) (*Cộng hòa* VII), nơi Platon giải thích vì sao người đã ra khỏi hang phải quay xuống cai trị.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -189,7 +189,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng trường (hoặc công ty) của bạn sắp chọn người đứng đầu bằng cách bỏ phiếu. Bạn được quyền thiết kế lại *thể thức*: giữ nguyên "mỗi người một phiếu", hay thêm một yếu tố "năng lực" nào đó theo tinh thần của Brennan (ví dụ: ứng cử viên phải qua vòng kiểm tra năng lực, hoặc cử tri phải đọc bản tóm tắt chương trình trước khi bỏ phiếu)? Hãy đề xuất thể thức của bạn, giải thích nó vay mượn ý nào từ mỗi lập trường trong bài (Platon, Churchill, Brennan) — và trung thực chỉ ra điểm yếu lớn nhất của đề xuất đó.
 
@@ -202,7 +202,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có phân biệt quyết định *kỹ thuật* (hợp với chuyên gia) với quyết định *giá trị* (hợp với số đông) trong đề xuất của mình không?
     - Bài viết có trung thực về điểm yếu của chính đề xuất mình đưa ra không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Christiano, Tom & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/democracy/>
 2. Platon, *Cộng hòa*, Quyển VI (488a–489d); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1497>

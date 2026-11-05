@@ -19,7 +19,7 @@ Bạn sẽ làm gì? Và quan trọng hơn: *vì sao* điều bạn làm là đ�
 
 Hầu hết chúng ta trả lời rất nhanh: "trả lại chứ, của người ta mà". Nhưng nếu bị hỏi vặn — *vì sao* trả lại là đúng? — câu trả lời bắt đầu rẽ nhánh. Vì "làm vậy thì xã hội tốt đẹp hơn"? Vì "đó là bổn phận, không được lấy của người khác"? Hay vì "người tốt thì không làm thế"? Ba câu trả lời ấy là ba lý thuyết lớn của **đạo đức học** (*ethics*), và chúng bất đồng với nhau đã hàng trăm năm.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một bác sĩ có năm bệnh nhân đang chờ ghép tạng — tim, gan, thận, phổi. Không có tạng hiến, cả năm sẽ chết trong tuần này. Đúng lúc đó, một thanh niên khỏe mạnh đến khám sức khỏe định kỳ. Xét nghiệm cho thấy tạng của anh tương thích hoàn toàn với cả năm bệnh nhân.
@@ -39,7 +39,7 @@ Biến thể nổi tiếng của tình huống này — bài toán xe điện �
 </figure>
 <!-- /fig:trolley -->
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi của bài này là: *điều gì làm cho một hành động là đúng?* Ba họ lý thuyết trả lời khác nhau:
 
@@ -59,7 +59,7 @@ Cuối cùng, một câu hỏi mà cả ba họ đều phải đối mặt: *may
 
 Còn một câu hỏi lùi xa hơn: khi nói một hành động "đúng", ta đang nêu một sự thật hay bày tỏ thái độ? Đó là việc của siêu đạo đức học, xem [Đúng sai có khách quan không?](sieu-dao-duc.md).
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Thuyết vị lợi: hãy tạo ra nhiều hạnh phúc nhất
 
@@ -98,7 +98,7 @@ Aristotle, trong *Đạo đức Nicomachus*, cho rằng cả hai họ trên đ�
 
 **Cách đáp lại.** Người theo Aristotle đáp rằng sự mơ hồ là *đặc trưng* của đời sống đạo đức, không phải khuyết điểm của lý thuyết — không có công thức nào thay được **sự khôn ngoan thực hành** (*phronesis*), khả năng xét đoán được rèn qua kinh nghiệm. Còn về tính tương đối văn hóa, họ cho rằng bên dưới những khác biệt bề mặt, các đức hạnh cốt lõi (công bằng, dũng cảm, trung thực) xuất hiện ở mọi xã hội phát triển lành mạnh — vì chúng gắn với bản chất con người, không phải phong tục nhất thời.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 (1.785 triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng 1.740 người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
 
@@ -124,7 +124,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Như mọi khảo sát, số đông không quyết định chân lý. Nhưng bảng này cho thấy một điều thú vị: lý thuyết ta *chọn* và trực giác ta *có* không phải lúc nào cũng đi cùng nhau.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tăng giá khẩu trang mùa dịch.** Đầu năm 2020, giá khẩu trang tăng gấp chục lần. Người theo thuyết vị lợi có thể hỏi: tăng giá giúp phân phối khẩu trang đến người cần nhất (ai trả cao là người cần gấp)? Hay nó chỉ làm giàu cho kẻ đầu cơ trên nỗi sợ của người nghèo? Người theo Kant hỏi: người bán có đang *lợi dụng* hoàn cảnh khốn cùng của người mua như phương tiện kiếm lời không? Người theo Aristotle hỏi: một thương nhân đàng hoàng sẽ làm gì lúc đồng bào gặp nạn? Ba câu hỏi, ba hướng đi — và bạn sẽ thấy cả ba đều xuất hiện trong tranh luận thực tế trên báo chí năm đó.
 
@@ -134,7 +134,7 @@ Như mọi khảo sát, số đông không quyết định chân lý. Nhưng b�
 
 **Cứu trợ khẩn cấp: chia đều hay ưu tiên?** Một đợt lũ, có 100 suất cứu trợ mà 500 người cần. Người theo thuyết vị lợi sẽ tính: chia sao cho cứu được nhiều mạng nhất (ưu tiên người có khả năng sống sót cao, người trẻ)? Người theo Kant sẽ hỏi: có nguyên tắc phân phối nào mà mọi nạn nhân đều có thể chấp nhận không — ví dụ bốc thăm công bằng? Người theo Aristotle sẽ hỏi: người điều phối có đức hạnh sẽ làm gì — và cộng đồng sẽ nhớ về ông như thế nào sau này? Không có đáp án dễ dàng, nhưng ba khung này giúp ta thấy mình đang tranh cãi về *cái gì*.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây là nguyên tắc cốt lõi của thuyết vị lợi, theo John Stuart Mill, *Utilitarianism* (1863) — văn bản đã hết bản quyền — kèm bản dịch tiếng Việt.
 
@@ -149,7 +149,7 @@ Câu hỏi dẫn dắt:
 2. Theo định nghĩa này, hạnh phúc của *ai* được tính? Kẻ thù của bạn có được tính ngang với bạn mình không?
 3. Mill định nghĩa hạnh phúc là "niềm vui và sự vắng mặt của đau khổ". Có loại hạnh phúc nào *không* quy được về niềm vui không — ví dụ niềm tự hào của người mẹ nhìn con trưởng thành?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -165,7 +165,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Một hiệu thuốc tăng giá khẩu trang gấp mười lần trong mùa dịch. Hãy dùng ít nhất một lý thuyết trong bài (thuyết vị lợi, đạo đức học Kant, đạo đức học đức hạnh) để trả lời: việc tăng giá đó có sai không? Vì sao?
 
@@ -177,7 +177,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có xét đến ít nhất một phản bác cho lập trường mình chọn không?
     - Bài viết có ví dụ cụ thể, câu ngắn, và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Driver, Julia, "The History of Utilitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/utilitarianism-history/>
 2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-moral/>

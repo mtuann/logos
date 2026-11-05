@@ -17,7 +17,7 @@ updated: 2026-10-22
 
 Bài [Ta có thật sự tự do lựa chọn?](tu-do-y-chi.md) đã bàn về **tất định luận** (*determinism*) và tự do. Bài này hỏi một câu khác, cũ hơn nhiều: dù vật lý có nói gì, thì *logic* và *sự biết trước* có khóa chặt tương lai không?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy xét câu nói: **"Ngày mai sẽ có một trận hải chiến."**
@@ -32,7 +32,7 @@ Bài [Ta có thật sự tự do lựa chọn?](tu-do-y-chi.md) đã bàn về *
 
 Lập luận này của Aristotle (*De Interpretatione*, chương 9) đã làm triết học đau đầu hơn 2.300 năm. Hãy tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Ba khái niệm hay bị lẫn với nhau, cần tách ra ngay từ đầu:
 
@@ -51,7 +51,7 @@ Giữ sự phân biệt này trong đầu, ta mới xét được các lập tr�
 </figure>
 <!-- /fig:tuong-lai-phan-nhanh -->
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Con quỷ của Laplace: biết hết hiện tại sẽ thấy hết tương lai
 
@@ -121,7 +121,7 @@ Nhiều người nghe nói cơ học lượng tử có "ngẫu nhiên thật s�
 
 **Kết luận cẩn trọng.** Vật lý hiện đại làm cho tất định luận kiểu Laplace khó đứng vững ở dạng mạnh nhất — bức tranh "đồng hồ vũ trụ" đã nứt. Nhưng một vũ trụ có ngẫu nhiên vi mô chưa phải là một vũ trụ có tự do ý chí. Từ "không bị xác định hoàn toàn" đến "do tôi làm chủ" còn một khoảng cách dài, và vật lý không tự mình lấp được khoảng cách đó.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Ở đây phải thành thật: PhilPapers Survey 2020 **không có câu hỏi riêng** về thuyết định mệnh logic hay về vấn đề biết trước và tự do. Khảo sát có hỏi về tự do ý chí nói chung (tương thích luận 59,2%, thuyết ý chí tự do 18,8%, không có tự do ý chí 11,2% — xem [bài về tự do ý chí](tu-do-y-chi.md)), nhưng đó là một câu hỏi khác.
 
@@ -151,7 +151,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Dù sao cũng nên nhớ: không phải câu hỏi triết học nào cũng có thể đem ra "bỏ phiếu". Với những câu hỏi như lập luận hải chiến, điều quan trọng không phải đa số nghĩ gì, mà là lập luận nào đứng vững sau khi bị chất vấn kỹ nhất.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tử vi, bói toán.** Vì sao người ta vẫn xem, kể cả người không tin? Một phần vì những lời phán thường chung chung đến mức đúng với ai cũng được ("năm nay bạn sẽ gặp một thay đổi lớn") — tâm lý học gọi đây là hiệu ứng Barnum. Một phần vì trí nhớ chọn lọc: ta nhớ lần thầy bói nói trúng, quên mười lần nói trật. Và một phần vì nhu cầu an ủi: khi tương lai mờ mịt, một câu chuyện — dù không có cơ sở — cũng dễ chịu hơn sự im lặng. Hiểu được điều này không có nghĩa là phải khinh thường người xem bói; nó có nghĩa là ta nên hỏi: mình đang tìm *thông tin*, hay đang tìm *sự yên tâm*?
 
@@ -161,7 +161,7 @@ Dù sao cũng nên nhớ: không phải câu hỏi triết học nào cũng có 
 
 **Lập kế hoạch.** Ta lập kế hoạch *vì* tin rằng việc ta làm hôm nay ảnh hưởng ngày mai. Niềm tin này tương thích với tất định luận (chính việc bạn lập kế hoạch là một mắt xích trong chuỗi nguyên nhân), nhưng mâu thuẫn với thuyết định mệnh kiểu "dù làm gì cũng vậy". Vậy nên câu hỏi không phải "tương lai có chắc chắn không", mà là "việc tôi làm có nằm trong những gì tạo ra tương lai không". Với hầu hết mọi việc trong đời, câu trả lời là có.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Dưới đây là lập luận của Boethius về biết trước và tự do, *kể lại bằng lời mình* từ Quyển V của *An ủi của Triết học* (khoảng năm 524). Bản dịch tiếng Anh của H. R. James (1897) đã thuộc phạm vi công cộng tại Hoa Kỳ; bạn có thể đọc toàn văn theo link dưới.
 
@@ -178,7 +178,7 @@ Câu hỏi dẫn dắt:
 2. "Thấy không ép buộc" — bạn có đồng ý? Hãy nghĩ một phản ví dụ: camera giám sát có làm bạn hành động khác đi không? Vậy "bị thấy" có hoàn toàn vô hại không? (Gợi ý: phân biệt "bị thấy làm mình đổi ý" với "bị thấy khiến mình *phải* làm vậy".)
 3. Một người tin chắc "số phận đã an bài" mà vẫn ôn thi cật lực. Người đó mâu thuẫn, hay có một cách hiểu "định mệnh" mà vẫn chừa chỗ cho nỗ lực? (Gợi ý: xem lại sự phân biệt ba khái niệm ở đầu bài.)
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -194,7 +194,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Nếu có một nhà tiên tri đoán đúng mười lần liên tiếp về những việc bạn sẽ làm, bạn có thay đổi cách sống không? Vì sao? Hãy dùng ít nhất một lập trường trong bài (Laplace, định mệnh logic, Boethius, lượng tử) để trả lời.
 
@@ -207,7 +207,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu một phản bác cho lập trường của mình và đáp lại nó không?
     - Bài viết có ví dụ cụ thể, câu ngắn, và tránh những khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/determinism-causal/>
 2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freewill/>

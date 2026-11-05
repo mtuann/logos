@@ -10,7 +10,7 @@ Triết học không chỉ có ở Hy Lạp, Ấn Độ hay Trung Hoa. Khi Phậ
 
 > **Cách đọc nhãn độ chắc chắn:** các khẳng định về lịch sử Việt Nam trong bài được gắn nhãn — **[chắc chắn]** (có văn bản gốc hoặc nguồn mốc xác nhận), **[có cơ sở]** (học giới đa số đồng thuận), **[suy đoán]** (diễn giải của người viết).
 
-## Nhật Bản: từ Phật giáo đến trường phái Kyoto
+## Nhật Bản: từ Phật giáo đến trường phái Kyoto {#nhat-ban-tu-phat-giao-den-truong-phai-kyoto}
 
 Phật giáo đến Nhật Bản vào thế kỷ 6, theo đường Triều Tiên (từ nước Bách Tế) **[chắc chắn]**; năm cụ thể còn tranh luận (*Nihon Shoki* ghi 552, một số nguồn cổ khác ghi 538) — và nhanh chóng gắn với triều đình, trở thành một trong những trụ cột văn hóa Nhật. Qua nhiều thế kỷ, Nhật Bản phát triển các tông phái Phật giáo riêng (Thiên Thai, Chân Ngôn, Tịnh Độ, Thiền), mỗi tông một cách hiểu khác nhau về giác ngộ. Song song, Nho giáo — đặc biệt Tân Nho giáo của [Chu Hy](../triet-gia/chu-hy.md) — du nhập và ảnh hưởng sâu đến giáo dục và đạo đức samurai thời Tokugawa (1603–1868).
 
@@ -26,7 +26,7 @@ Một gương mặt Nhật Bản khác đáng nhớ là Đạo Nguyên Hy Huyề
 
 Nhật Bản hiện đại còn cho thế giới một bài học về cách *làm* triết học: các triết gia Kyoto không chỉ dịch sách phương Tây mà còn sáng tạo khái niệm mới từ kinh nghiệm Thiền — chứng tỏ triết học đích thực luôn mọc từ đất của chính mình, dù hạt giống đến từ đâu.
 
-## Việt Nam: Thiền Trúc Lâm và Nho học
+## Việt Nam: Thiền Trúc Lâm và Nho học {#viet-nam-thien-truc-lam-va-nho-hoc}
 
 Việt Nam tiếp nhận cả ba dòng — Phật, Nho, Đạo — nhưng theo cách riêng **[có cơ sở]** (xem các nguồn mốc của chuyên mục triết học Việt Nam: Nguyễn Tài Thư chủ biên, *Lịch sử tư tưởng Việt Nam*, 1993; Viện Văn học, *Thơ văn Lý–Trần*).
 
@@ -39,7 +39,7 @@ Hai chủ đề này đã có bài riêng, trình bày đầy đủ với nguồ
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md) — triết lý "cư trần lạc đạo" của Trần Nhân Tông
 - [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — Nho học bản địa và tam giáo đồng nguyên
 
-## Việt Nam hiện đại: đối thoại với thế giới
+## Việt Nam hiện đại: đối thoại với thế giới {#viet-nam-hien-dai-doi-thoai-voi-the-gioi}
 
 Thế kỷ 20, triết học Việt Nam trải qua cuộc đứt gãy lớn: Nho học suy tàn cùng khoa cử (khoa thi cuối 1919 **[chắc chắn]**), rồi tiếp xúc với triết học phương Tây và chủ nghĩa [Marx](../triet-gia/marx.md). Hai gương mặt tiêu biểu: [Trần Đức Thảo](../triet-gia/tran-duc-thao.md) — người Việt viết triết học bằng tiếng Pháp, đối thoại trực tiếp với [Husserl](../triet-gia/husserl.md) và Marx **[chắc chắn]**; và Trần Đình Hượu — với luận điểm "đến hiện đại từ truyền thống" (*Đến hiện đại từ truyền thống*, 1996) **[chắc chắn]**.
 
@@ -49,20 +49,20 @@ Câu chuyện đầy đủ — với nhãn độ chắc chắn cho từng khẳn
 
 - [Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md) — từ Nho học đến Marx và hiện sinh
 
-## Bài học chung: tiếp biến chứ không sao chép
+## Bài học chung: tiếp biến chứ không sao chép {#bai-hoc-chung-tiep-bien-chu-khong-sao-chep}
 
 Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngoại lai (Phật giáo, Nho giáo, triết học phương Tây) khi vào một nền văn hóa mới đều bị "bản địa hóa" — giữ cái hợp, biến cái chưa hợp, và sinh ra thứ mới **[suy đoán]** (mẫu hình được nhiều nhà nghiên cứu ghi nhận, nhưng mỗi trường hợp cụ thể cần khảo sát riêng). Thiền Trúc Lâm không phải Thiền Trung Hoa; trường phái Kyoto không phải hiện tượng luận Đức; Nho giáo Việt Nam không phải Nho giáo Tống–Minh.
 
 Điều này cũng trả lời một nỗi lo thường trực: "học triết học ngoại thì có mất gốc không?" Câu trả lời từ lịch sử: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*. Người Nhật đọc Husserl mà vẫn ngồi thiền; người Việt đọc Marx mà vẫn cúng giỗ. Truyền thống sống được không phải nhờ đóng khung bảo quản, mà nhờ dám đem ra đối thoại với cái mới — và thắng thua gì cũng là của mình.
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md)
 - [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md)
 - [Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md)
 - [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — Đạo gia và đạo đức môi trường, một cầu nối thú vị
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.

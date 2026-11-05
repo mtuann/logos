@@ -19,7 +19,7 @@ Câu hỏi của bài này: khi một nền tư tưởng phải "hiện đại h
 
 > **Cách đọc nhãn độ chắc chắn trong bài này:** mỗi khẳng định về lịch sử/tư tưởng Việt Nam được gắn một nhãn — **[chắc chắn]** (có văn bản gốc hoặc nguồn mốc xác nhận), **[có cơ sở]** (học giới đa số đồng thuận nhưng bằng chứng chưa hoàn toàn rõ), **[suy đoán]** (diễn giải của người viết hoặc thiểu số học giả).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn là một trí thức Việt Nam năm 1930. Bạn đọc [Khổng Tử](../triet-gia/khong-tu.md) bằng chữ Hán từ nhỏ, nhưng con bạn đi học trường Pháp và về nhà kể về Descartes ("tôi tư duy, vậy tôi tồn tại"). Bạn bè bạn chia hai phe: một phe nói Nho học đã lỗi thời, phải theo triết học phương Tây mới mong "văn minh"; phe kia nói bỏ Nho học là mất gốc, phải giữ lấy đạo làm người của cha ông.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Câu
 ??? question "Sau khi bạn đã tự trả lời"
     Một chi tiết đáng suy nghĩ thêm: chính những người hô hào "đoạn tuyệt" mạnh nhất — như Phan Châu Trinh — lại là những người *thông thạo* Nho học nhất. Ông đỗ Phó bảng (một học vị cao trong khoa cử) **[chắc chắn]** rồi mới quay sang phê phán khoa cử. Điều đó gợi ý một nghịch lý: để phê phán truyền thống một cách có sức nặng, có khi phải hiểu nó từ bên trong trước đã. Kẻ ngoài cuộc chê thì dễ; người trong cuộc chê mới đau — và mới đáng nghe.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -52,7 +52,7 @@ Còn một dòng chảy nữa, nhỏ hơn nhưng đáng chú ý: **hiện sinh**
 </figure>
 <!-- /fig:vietnam-timeline -->
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường dưới đây trả lời câu hỏi "hiện đại hóa nghĩa là gì" theo ba cách khác nhau: vứt bỏ truyền thống để đi tới, đi tới *từ* truyền thống, và dùng truyền thống (Marx cũng là một "truyền thống" tư tưởng) để đối thoại với thế giới. Không có lập trường nào là "đáp án đúng" có sẵn — mỗi lập trường đều có cái giá của nó.
 
@@ -100,7 +100,7 @@ Nói cách khác, Trần Đức Thảo trả lời câu hỏi thứ ba ở đầ
 
 Có một chi tiết đáng suy nghĩ về số phận của ông: Trần Đức Thảo về Việt Nam, tham gia kháng chiến, nhưng con đường học thuật của ông ở trong nước gặp nhiều trắc trở **[có cơ sở]**. Câu chuyện của ông vì thế cũng là một câu hỏi cho chúng ta: một xã hội muốn có triết học của riêng mình thì phải đối xử với triết gia của mình ra sao? Nuôi dưỡng tài năng đã khó; giữ được tài năng còn khó hơn.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt Nam hay triết học ngoài phương Tây nói chung, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các vấn đề trong bài.
 
@@ -108,7 +108,7 @@ Thay vào đó, có một câu hỏi triết học đằng sau bài này mà gi�
 
 Một câu hỏi mở cho tương lai: thế hệ triết gia Việt Nam hôm nay — những người đọc cả Nguyễn Tài Thư lẫn Chalmers, cả Trần Đình Hượu lẫn Habermas — sẽ viết ra triết học như thế nào? Câu trả lời chưa có, vì nó đang được viết **[suy đoán]** (nhận định về tương lai, không thể kiểm chứng).
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Học triết ở Việt Nam hôm nay.** Sinh viên Việt Nam học triết học Mác–Lênin như môn bắt buộc, nhưng ít ai được học rằng cũng có những triết gia Việt Nam từng tranh luận với Husserl bằng tiếng Pháp, hay có người dành cả đời để hỏi "hiện đại hóa là gì". Hệ quả là một nghịch lý: người Việt học triết học thế giới mà không biết triết học nước mình có gì **[có cơ sở]** (tình trạng này được nhiều giảng viên triết học phản ánh). Bài này không đòi thay chương trình — đó là việc của giáo dục. Nhưng mỗi người đọc đều có thể tự hỏi: lần cuối cùng bạn đọc một triết gia Việt Nam là khi nào?
 
@@ -120,7 +120,7 @@ Và một gợi ý cụ thể: ba nguồn neo của chuyên mục triết học 
 
 **Tranh luận trên mạng về "văn hóa Việt".** Mỗi khi có tranh cãi về một phong tục (ăn thịt chó, đốt vàng mã, lễ hội chọi trâu...), hai phe trong thí nghiệm tư duy ở đầu bài lại xuất hiện: phe "bỏ đi cho văn minh" và phe "đó là văn hóa dân tộc". Bài này gợi ý một cách đọc khác: thay vì hỏi "giữ hay bỏ", hãy hỏi như Trần Đình Hượu — *cụ thể* phong tục này làm gì, cho ai, với cái giá nào, trong bối cảnh hôm nay? Câu hỏi cụ thể thì khó trả lời hơn câu hỏi khẩu hiệu, nhưng cũng trung thực hơn.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 *Đến hiện đại từ truyền thống* (1996) vẫn còn bản quyền, nên dưới đây là tóm tắt luận điểm trung tâm của Trần Đình Hượu bằng lời mình.
 
@@ -139,7 +139,7 @@ Câu hỏi dẫn dắt:
 3. Nếu bạn phải giải thích cho một người bạn nước ngoài rằng "triết học Việt Nam hiện đại là gì" trong ba câu, bạn sẽ nói gì — và bạn sẽ nhắc đến nhân vật nào trong bài này?
 4. Trần Đức Thảo viết bằng tiếng Pháp cho độc giả Pháp, Trần Đình Hượu viết bằng tiếng Việt cho độc giả Việt. Theo bạn, "triết học Việt Nam" được định nghĩa bởi *ngôn ngữ* viết, *chủ đề* bàn, hay *con người* viết? Có thể có một triết gia Việt Nam viết về Husserl bằng tiếng Pháp mà vẫn là "triết học Việt Nam" không?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Riêng với bài này, hãy chú ý: các khẳng định lịch sử trong bài đều có nhãn độ chắc chắn — câu hỏi kiểm tra cũng tôn trọng điều đó, chỉ hỏi những gì bài viết đã trình bày.
 
@@ -207,7 +207,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một phong tục, thói quen hay giá trị "truyền thống" trong gia đình hoặc địa phương bạn (cúng giỗ, cách xưng hô, nghề gia truyền, lễ hội...). Hãy phân tích nó theo cách của Trần Đình Hượu: nó gồm những yếu tố nào? Yếu tố nào "thuận", yếu tố nào "nghịch" với đời sống hiện đại? Và *bạn* sẽ giữ, bỏ, hay biến đổi nó như thế nào?
 
@@ -223,7 +223,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bài viết có gắn nhãn độ chắc chắn cho các khẳng định lịch sử (nếu có) không?
     - Bạn có viết bằng giọng của chính mình — kể cả khi không chắc — thay vì sao chép giọng văn của bài này không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 Ba nguồn đầu là ba nguồn mốc của chuyên mục triết học Việt Nam trên site này. Các nguồn còn lại là tác phẩm và khảo sát được trích dẫn trong bài.
 

@@ -72,5 +72,13 @@ class TestNavParsing(unittest.TestCase):
         self.assertTrue(all(r.endswith(".md") for r in rels))
 
 
+
+class TestBookHeadingIds(unittest.TestCase):
+    def test_h2_ids_stripped(self):
+        # "## Nguồn {#nguon}" của mọi bài sẽ trùng nhau trong sách gộp; chỉ H2 bị bỏ ID.
+        book = load_book_tool()
+        src = "## Nguồn {#nguon}\n### Người rơm {#straw-man}\n## A"
+        self.assertEqual(book.H2_ID_RE.sub(r"\1", src), "## Nguồn\n### Người rơm {#straw-man}\n## A")
+
 if __name__ == "__main__":
     unittest.main()

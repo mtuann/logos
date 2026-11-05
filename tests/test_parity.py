@@ -63,6 +63,13 @@ class TestCompare(unittest.TestCase):
                        "id lệch (mất ['nguon'], thêm ['nguon-1']"):
             self.assertIn(needle, text)
 
+    def test_search_index(self):
+        idx = lambda text: '{"config": {}, "docs": [{"location": "a/", "title": "T", "text": "%s"}]}' % text
+        same, _ = parity.compare(site({"search/search_index.json": idx("x")}), site({"search/search_index.json": idx("x")}))
+        self.assertEqual(same, [])
+        diff, _ = parity.compare(site({"search/search_index.json": idx("x")}), site({"search/search_index.json": idx("y")}))
+        self.assertEqual(diff, ["search_index.json lệch: 1 mục, ví dụ ['a/']"])
+
     def test_cli_exit_codes(self):
         a, b = site({"x.html": PAGE}), site({"x.html": PAGE.replace("SEP", "IEP")})
         with contextlib.redirect_stdout(io.StringIO()) as out:

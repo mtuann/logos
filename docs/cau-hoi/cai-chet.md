@@ -26,7 +26,7 @@ Và sự rõ ràng ấy có giá trị riêng của nó: một nỗi sợ đư�
 
 Nói cho cùng, triết học về cái chết không phải là triết học *về cái chết*. Nó là triết học về *cuộc sống* — nhìn từ phía bên kia của nó. Mọi lập luận trong bài này, dù đi đường nào, cũng quay về cùng một câu hỏi: với thời gian hữu hạn mình có, ta nên sống ra sao?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy nghĩ về năm 1900 — một trăm năm trước khi bạn ra đời (giả sử bạn sinh khoảng năm 2000).
@@ -48,7 +48,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. (L�
 </figure>
 <!-- /fig:epicurus-chet -->
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên — gọi là **lập luận đối xứng** (*symmetry argument*) — mở ra câu hỏi cốt lõi: *cái chết có phải là một điều xấu cho người chết không?*
 
@@ -58,7 +58,7 @@ Có hai cách trả lời lớn, và chúng dẫn đến hai thái độ sống 
 
 Một phân biệt cần làm rõ trước: **quá trình chết** (*dying*) khác với **trạng thái đã chết** (*being dead*). Quá trình chết — hấp hối, đau đớn, chia ly — là một trải nghiệm, và sợ nó là điều hoàn toàn hợp lý, không cần triết học bênh vực. Bài này hỏi về điều khó hơn: *trạng thái đã chết*, khi không còn trải nghiệm nào nữa. Đó mới là nơi Epicurus và Nagel đối đầu.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Epicurus: chết không là gì với ta
 
@@ -112,7 +112,7 @@ Heidegger cho rằng chỉ khi *đối mặt* với cái chết của chính mì
 
 Cần nói rõ: đây là một lập trường triết học về *thái độ sống*, không phải lời khuyên tâm lý. Nếu suy nghĩ về cái chết khiến bạn lo âu nặng nề, hãy tìm đến chuyên gia — triết học không thay thế được sự giúp đỡ chuyên môn.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không hỏi thẳng câu hỏi của bài — trạng thái đã chết có xấu cho người chết không — nên không có con số nào cho chính cuộc tranh luận Epicurus – Nagel. Nhưng có một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) rất gần với nó: nếu được chọn, bạn có chọn bất tử không?
 
@@ -135,7 +135,7 @@ Ngoài con số, có thể nói: tranh luận Epicurus – Nagel vẫn là trụ
 
 Một điểm đáng chú ý: cả hai phe đều đồng ý rằng *nỗi sợ chết* là một hiện tượng đáng được xem xét nghiêm túc — tranh luận chỉ là về việc nỗi sợ ấy có *hợp lý* không, và hợp lý ở điểm nào. Không phe nào cho rằng người sợ chết là "ngu ngốc".
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Nỗi sợ chết của mỗi người.** Bài này không nhằm "chữa" nỗi sợ chết — và nếu nỗi sợ của bạn ảnh hưởng nặng nề đến cuộc sống, hãy tìm đến chuyên gia tâm lý, không phải triết học. Điều triết học có thể làm là giúp bạn *gọi tên* nỗi sợ: bạn sợ đau đớn lúc hấp hối (điều có thể giảm nhẹ bằng y học), sợ bỏ lại người thân (điều thuộc về tình cảm, không phải siêu hình học), hay sợ chính "sự không tồn tại" (điều mà Epicurus và Nagel tranh cãi)? Mỗi nỗi sợ cần một cách đối mặt khác nhau.
 
@@ -147,7 +147,7 @@ Một điểm đáng chú ý: cả hai phe đều đồng ý rằng *nỗi sợ 
 
 **Đám tang và cách ta "giữ" người đã mất.** Người Việt có tục giỗ chạp, thờ cúng tổ tiên — một cách để người đã khuất "vẫn còn" trong đời sống gia đình. Triết học có thể soi sáng tục lệ này: với Epicurus, người chết không còn cảm giác nên giỗ chạp là việc của người sống (tưởng nhớ, gắn kết); với Nagel, giỗ chạp là cách ta bù đắp phần nào cho sự tước đoạt — những điều tốt đẹp của người ấy được *tiếp tục* qua ký ức và việc làm của con cháu. Dù đứng về phe nào, tục lệ này cho thấy con người không chấp nhận để cái chết là một dấu chấm hết tuyệt đối.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây là câu thứ hai trong *Những châm ngôn chủ yếu* (*Kyriai Doxai*) của Epicurus — bản tóm lược học thuyết của ông, được Diogenes Laertius chép lại ở cuối Quyển X của *Lives of Eminent Philosophers*, cùng quyển với *Thư gửi Menoeceus*. Văn bản cổ (cuối thế kỷ 4 – đầu thế kỷ 3 trước Công nguyên), đã hết bản quyền; ý của nó trùng với lập luận trong *Thư gửi Menoeceus* ở trên.
 
@@ -165,7 +165,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: hướng dẫn đọc [*Biện hộ của Socrates*](../doc/platon-bien-ho.md) và [*Suy tưởng* của Marcus Aurelius](../doc/aurelius-suy-tuong.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -181,7 +181,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Bạn sợ chết không — và nếu có, bạn sợ *điều gì* trong cái chết: đau đớn, việc bỏ lại người thân, hay chính sự "không còn tồn tại"? Dùng ít nhất một lập luận trong bài (Epicurus, lập luận đối xứng, lập luận tước đoạt) để xem xét nỗi sợ của mình: nó có hợp lý không?
 
@@ -193,7 +193,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có thành thật với cảm xúc của mình — không ép mình phải "hết sợ" chỉ vì lập luận nói vậy?
     - Bài viết có câu ngắn, chi tiết cụ thể, và giọng chân thành không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, London: Henry G. Bohn, 1853; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
 2. Lucretius, *De Rerum Natura* (*Về bản chất của sự vật*), Quyển III (lập luận đối xứng). Bản dịch tiếng Anh của William Ellery Leonard (1916, phạm vi công cộng). <https://www.gutenberg.org/ebooks/785>

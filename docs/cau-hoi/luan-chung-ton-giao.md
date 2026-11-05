@@ -20,7 +20,7 @@ Ngành triết học bàn về những câu hỏi này gọi là **triết học
 
 Một lưu ý về từ ngữ: "Thượng đế" (*God*) trong bài này được hiểu theo nghĩa triết học phương Tây — một đấng toàn năng, toàn tri, toàn thiện và là nguồn gốc của mọi sự. Các tôn giáo cụ thể có thể hiểu khác đi; bài này chỉ bàn về các lập luận triết học.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn đi dạo trên một bãi biển hoang và thấy một chiếc đồng hồ cơ đang chạy, kim quay đều, máy móc tinh xảo.
@@ -33,7 +33,7 @@ Một lưu ý về từ ngữ: "Thượng đế" (*God*) trong bài này đượ
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Đây chính là trực giác đứng sau luận chứng thứ hai dưới đây.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Khi nói "chứng minh Thượng đế tồn tại", các triết gia không đòi hỏi một chứng minh toán học không thể sai. Họ đưa ra các **luận chứng** (*argument*): những lập luận mà *nếu* các tiền đề đúng thì kết luận "Thượng đế tồn tại" được biện minh một cách hợp lý. Ba luận chứng dưới đây dùng ba chiến lược khác nhau:
 
@@ -42,7 +42,7 @@ Khi nói "chứng minh Thượng đế tồn tại", các triết gia không đ�
 
 Có một điểm yếu chung mà cả ba luận chứng đều phải đối mặt, gọi là **vấn đề khoảng cách** (*the gap problem*): ngay cả khi luận chứng thành công, nó chứng minh được *một nguyên nhân đầu tiên* hay *một nhà thiết kế* — nhưng khoảng cách từ đó đến *Thượng đế toàn năng, toàn tri, toàn thiện của tôn giáo* vẫn còn. Một "nguyên nhân đầu tiên" có thể là một nguyên lý vô tri, không nhất thiết là một Đấng có nhân cách mà ta có thể cầu nguyện. Người ủng hộ phải lấp khoảng cách này bằng thêm lập luận; người phản bác thì xoáy vào chính khoảng cách này.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Luận chứng vũ trụ luận: mọi sự đều có nguyên nhân
 
@@ -102,7 +102,7 @@ Lập luận, nói gọn:
 </figure>
 <!-- /fig:pascal-wager -->
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có hai câu hỏi liên quan trực tiếp: một câu chính về Thượng đế (hỏi mọi người tham gia) và một câu bổ sung hỏi *luận chứng nào cho sự tồn tại của Thượng đế là mạnh nhất* (chỉ hỏi những người chọn trả lời thêm).
 
@@ -124,7 +124,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Câu bổ sung hỏi một điều khác hẳn: không phải "bạn có tin không", mà "nếu xét luận chứng, cái nào mạnh nhất?". Vũ trụ luận (họ luận chứng của Aquinas) được chọn nhiều nhất, sát sau là thiết kế (họ của Paley và lập luận tinh chỉnh); bản thể luận của Anselm, dù nổi tiếng nhất về độ tinh xảo logic, chỉ được 8,9%. Lựa chọn "thực dụng" là họ của canh bạc [Pascal](../triet-gia/pascal.md) — lý do để *tin*, không phải bằng chứng (xem [Có nên tin mà không cần bằng chứng?](duc-tin-ly-tri.md)). Không lựa chọn nào vượt một phần tư, và "Khác" (lập trường khác, không có ý kiến, cho rằng câu hỏi không rõ…) chiếm 25,2%. Hãy nhớ giới hạn của số liệu: câu này chỉ có khoảng 1.020 người trả lời, và mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh — không đại diện cho mọi truyền thống triết học hay tôn giáo.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Khoa học đã bác bỏ tôn giáo chưa?"** Câu này nghe nhiều nhưng lẫn lộn hai việc. Khoa học nghiên cứu *cơ chế* của thế giới (vũ trụ hình thành thế nào, sự sống tiến hóa ra sao). Các luận chứng trên hỏi về *nền tảng* của thế giới (vì sao có cái gì đó chứ không phải không có gì). Một người có thể chấp nhận toàn bộ khoa học hiện đại mà vẫn thấy luận chứng vũ trụ luận đáng suy nghĩ — và ngược lại. Xung đột chỉ xảy ra khi một bên lấn sang sân của bên kia.
 
@@ -134,7 +134,7 @@ Câu bổ sung hỏi một điều khác hẳn: không phải "bạn có tin kh�
 
 **Vì sao người thông minh vẫn bất đồng?** Ba luận chứng trên đã được những bộ óc sắc sảo nhất của nhân loại tranh cãi suốt nhiều thế kỷ mà chưa ngã ngũ. Điều đó tự nó là một thông tin: hoặc câu hỏi này khó một cách đặc biệt, hoặc các luận chứng triết học có giới hạn của chúng khi đụng đến những điều vượt quá kinh nghiệm con người. Kant nghĩ là cả hai.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích chương 2 của *Proslogion* của Anselm (1077–1078) — văn bản đã hết bản quyền, theo bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), kèm bản dịch tiếng Việt.
 
@@ -150,7 +150,7 @@ Câu hỏi dẫn dắt:
 3. Kant nói "tồn tại không phải là thuộc tính". Hãy thử với ví dụ của ông: một trăm đồng tiền thật và một trăm đồng tiền trong tưởng tượng — khái niệm về chúng có khác nhau không? Điều đó liên quan gì đến bước 2 của Anselm?
 4. Cả ba luận chứng đều vấp phải "vấn đề khoảng cách" ở mức độ nào đó. Theo bạn, luận chứng nào lấp khoảng cách từ "nguyên nhân/nhà thiết kế đầu tiên" đến "Thượng đế của tôn giáo" tốt nhất — và bằng cách nào?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -166,7 +166,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Trong ba luận chứng (vũ trụ luận, mục đích luận, bản thể luận), luận chứng nào bạn thấy *khó bác nhất*? Hãy trình bày nó ở phiên bản mạnh nhất bằng lời của bạn, rồi nêu phản bác mạnh nhất mà bạn biết và cho biết bạn đánh giá thế nào về cuộc đối đầu đó.
 
@@ -179,7 +179,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có dùng ít nhất một khái niệm trong bài (nguyên nhân đầu tiên, suy luận đến lời giải thích tốt nhất, phản ví dụ...) không?
     - Bài viết có câu ngắn, ví dụ cụ thể, tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
 2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất).

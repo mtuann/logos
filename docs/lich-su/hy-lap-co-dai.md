@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 Khoảng thế kỷ 6 trước Công nguyên, ở các thành phố Hy Lạp ven biển Tiểu Á, một vài người bắt đầu làm một việc lạ: thay vì giải thích sấm sét bằng cơn giận của thần Zeus, họ hỏi liệu có một nguyên lý tự nhiên nào đứng sau mọi hiện tượng không. Đó là khởi đầu của triết học phương Tây — không phải một học thuyết, mà một thái độ: dám hỏi và dám dùng lý trí để trả lời.
 
-## Các nhà tiền Socrates: thế giới làm bằng gì?
+## Các nhà tiền Socrates: thế giới làm bằng gì? {#cac-nha-tien-socrates-the-gioi-lam-bang-gi}
 
 Nhóm triết gia đầu tiên được gọi là các nhà **tiền [Socrates](../triet-gia/socrates.md)** (*Presocratics*) — họ sống trước Socrates và chủ yếu hỏi về tự nhiên.
 
@@ -24,7 +24,7 @@ Cùng thời còn có nhóm **Ngụy biện gia** (*Sophists*) — những thầ
 
 Vì sao họ quan trọng? Họ đặt ra khuôn mẫu của triết học: đưa ra một nguyên lý chung, lập luận để bảo vệ nó, và để người khác phản bác. Truyền thống tranh luận lý tính này sẽ nuôi dưỡng mọi thứ đến sau.
 
-## Socrates: người chỉ biết đặt câu hỏi
+## Socrates: người chỉ biết đặt câu hỏi {#socrates-nguoi-chi-biet-dat-cau-hoi}
 
 **Socrates** (470/469–399 TCN) không viết một dòng nào — ta biết ông chủ yếu qua các đối thoại của học trò Platon (và qua Xenophon). Ông lang thang khắp Athens, hỏi những người tự cho mình khôn ngoan: công lý là gì? Dũng cảm là gì? Lần nào đối phương cũng lúng túng. Phương pháp của ông gọi là **vấn đáp** (*elenchus*): không dạy đáp án, mà vạch ra mâu thuẫn trong câu trả lời của người khác, buộc họ phải nghĩ lại.
 
@@ -34,7 +34,7 @@ Câu nói nổi tiếng gán cho ông, "tôi chỉ biết một điều là tôi
 
 Một chi tiết đáng nhớ: trong phiên tòa, Socrates có cơ hội đề xuất hình phạt nhẹ thay cho án tử — ông đề xuất... được nuôi ăn miễn phí ở tòa thị chính như một vị anh hùng, vì ông cho rằng mình có công với thành phố. Hội đồng xét xử không thấy hài hước chút nào. Câu chuyện này cho thấy Socrates nhất quán đến cùng: ông thà chết chứ không chịu giả vờ rằng mình sai khi mình tin mình đúng.
 
-## Platon: thế giới của những ý niệm
+## Platon: thế giới của những ý niệm {#platon-the-gioi-cua-nhung-y-niem}
 
 **Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — thường được ví là trường đại học đầu tiên của phương Tây.
 
@@ -48,7 +48,7 @@ Vì sao quan trọng? Thuyết ý niệm đặt ra câu hỏi mà triết học 
 
 Một điểm thú vị: chính [Aristotle](../triet-gia/aristotle.md), học trò ông, là người phản bác thuyết ý niệm mạnh mẽ nhất — cho rằng Ý niệm không ở thế giới khác mà nằm ngay trong sự vật. Cuộc tranh luận thầy–trò này là khuôn mẫu cho mọi cuộc cách mạng triết học sau: học trò giỏi nhất thường là người dám phản thầy.
 
-## Aristotle: người hệ thống hóa mọi thứ
+## Aristotle: người hệ thống hóa mọi thứ {#aristotle-nguoi-he-thong-hoa-moi-thu}
 
 **Aristotle** (384–322 TCN), học trò Platon 20 năm rồi tách ra, là triết gia có hệ thống đồ sộ nhất thời cổ đại. Ông sáng lập trường Lyceum và viết về gần như mọi lĩnh vực: logic, vật lý, sinh học, siêu hình học, đạo đức, chính trị, thi ca.
 
@@ -62,7 +62,7 @@ Ba đóng góp lớn nhất:
 
 Ảnh hưởng: Aristotle thống trị tư tưởng phương Tây suốt thời Trung cổ (qua các triết gia Hồi giáo rồi Kitô giáo) và là nền tảng của khoa học cho đến tận thế kỷ 17.
 
-## Thời Hellenistic: triết học cho đời sống
+## Thời Hellenistic: triết học cho đời sống {#thoi-hellenistic-triet-hoc-cho-doi-song}
 
 Sau khi Alexander Đại đế qua đời (323 TCN), các thành bang Hy Lạp suy tàn, con người mất đi chỗ dựa chính trị cũ. Triết học chuyển hướng: không còn hỏi "thế giới là gì" mà hỏi "sống thế nào cho thanh thản". Hai trường phái lớn:
 
@@ -74,7 +74,7 @@ Ngoài hai trường phái lớn còn có **Khuyển nho** (*Cynics*): Diogenes 
 
 Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu thích trở lại trong thời hiện đại như một triết lý ứng phó với lo âu.
 
-## Tóm tắt dòng thời gian
+## Tóm tắt dòng thời gian {#tom-tat-dong-thoi-gian}
 
 | Khoảng thời gian | Nhân vật / Trường phái | Ý chính |
 |---|---|---|
@@ -88,14 +88,14 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 | 300 TCN → | Khắc kỷ (Zeno) | Sống thuận tự nhiên và lý trí; chỉ đức hạnh là thiện |
 | 341–270 TCN | Epicurus | Khoái lạc = không đau đớn, không xao động |
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - Vấn đề phổ quát của Platon: [Phổ quát có thật không?](../cau-hoi/pho-quat.md)
 - Đạo đức học của Aristotle và các trường phái: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)
 - Quan điểm của Epicurus về cái chết: [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 - Phương pháp vấn đáp Socrates: [Phép biện chứng Socrates](../cong-cu/bien-chung-socrates.md)
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Platon, *Cộng hòa* (khoảng 380 TCN) — bản dịch tiếng Anh công cộng của Benjamin Jowett.
 2. Aristotle, *Siêu hình học*; *Đạo đức Nicomachus* — bản dịch tiếng Anh công cộng của W. D. Ross.

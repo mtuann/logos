@@ -21,7 +21,7 @@ Câu hỏi đặt ra: cái bồn tiểu ấy *là* nghệ thuật từ lúc nào
 
 Các triết gia đã thử bốn hướng trả lời lớn, mỗi hướng nắm được một phần sự thật — và vấp phải một phản ví dụ khó chịu.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng hai bức tranh giống hệt nhau đến từng nét vẽ: cùng màu sắc, cùng bố cục, cùng kích thước.
@@ -32,13 +32,13 @@ Các triết gia đã thử bốn hướng trả lời lớn, mỗi hướng n�
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Chú ý: trực giác của bạn nghiêng về phía "nhìn vào tác phẩm" hay "nhìn vào bối cảnh xung quanh nó"?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi "cái gì là nghệ thuật" có vẻ đơn giản cho đến khi ta thử trả lời. "Nghệ thuật là cái đẹp"? Nhưng nhiều tác phẩm vĩ đại không đẹp theo nghĩa thông thường — tranh chiến tranh, nhạc tang, phim kinh dị. "Nghệ thuật là do nghệ sĩ làm ra"? Nhưng ai là nghệ sĩ — người thợ gốm làng Bát Tràng có phải nghệ sĩ không, và cái bồn tiểu của Duchamp thì sao?
 
 Các triết gia đã thử bốn hướng trả lời lớn, mỗi hướng nắm được một phần sự thật — và vấp phải một phản ví dụ khó chịu.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Nghệ thuật là truyền cảm xúc (Tolstoy)
 
@@ -108,7 +108,7 @@ Một điểm mạnh ít được chú ý của Weitz: ông giải thích đư�
 
 Bốn lý thuyết, bốn câu trả lời — và điều thú vị là chúng không loại trừ nhau hoàn toàn. Một tác phẩm có thể vừa truyền cảm xúc (Tolstoy), vừa có hình thức xuất sắc (Bell), vừa được thế giới nghệ thuật công nhận (Dickie), vừa tương tự với các mẫu mực (Weitz). Tranh cãi thực sự chỉ nổ ra ở những trường hợp biên: nơi một lý thuyết nói "có" mà lý thuyết khác nói "không". Và chính những trường hợp biên đó — Duchamp, AI, graffiti — là nơi triết học làm việc chăm chỉ nhất.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về "nghệ thuật là gì", nên **chưa có số liệu khảo sát riêng cho câu hỏi này**. Khảo sát có hai câu hỏi về mỹ học — liên quan, nhưng hỏi chuyện khác:
 
@@ -135,7 +135,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Về chính câu hỏi định nghĩa, cuộc tranh luận vẫn còn mở. Weitz (1956) cho rằng không thể định nghĩa nghệ thuật; Danto và Dickie thì đưa ra những định nghĩa dựa vào *quan hệ* của tác phẩm với thế giới nghệ thuật thay vì vào những gì mắt thấy; và đến nay các định nghĩa thể chế, lịch sử, thẩm mỹ... vẫn được bênh vực song song. Một hướng được bàn nhiều là xem "nghệ thuật" như một khái niệm *cụm* (*cluster concept*; chẳng hạn Berys Gaut, 2000): một vật càng có nhiều đặc trưng trong cụm (có phẩm chất thẩm mỹ, biểu đạt cảm xúc, đòi hỏi kỹ năng cao, thuộc một loại hình nghệ thuật đã có, được làm ra với ý định tạo tác phẩm nghệ thuật...) thì càng chắc chắn là nghệ thuật — mà không cần một điều kiện duy nhất nào. Và biết đâu, chính sự khó định nghĩa lại là một phần của cái làm cho nghệ thuật thú vị.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tranh trừu tượng: "con tôi vẽ cũng được".** Câu chê kinh điển này chính là trực giác của Tolstoy và Bell: nếu nghệ thuật nằm ở cảm xúc hay hình thức, thì một bức tranh toàn vệt màu ngẫu nhiên có gì hơn tranh của đứa trẻ? Người theo thuyết thể chế sẽ đáp: khác ở chỗ bức tranh kia nằm trong một cuộc đối thoại của lịch sử hội họa — nó "trả lời" những bức tranh đi trước. Bạn có thể không mua lời đáp đó, nhưng ít nhất giờ bạn biết mình đang tranh cãi về *điều gì*.
 
@@ -149,7 +149,7 @@ Về chính câu hỏi định nghĩa, cuộc tranh luận vẫn còn mở. Weit
 
 **Nhạc chế và parody.** Những bản nhạc chế lời hài hước trên mạng — có phải nghệ thuật không? Tolstoy sẽ hỏi về sự chân thành của cảm xúc (tiếng cười có tính không?). Bell sẽ nhìn vào sự khéo léo của hình thức: một bản chế lời vừa vần vừa đúng nhạc không phải dễ làm. Thuyết thể chế sẽ lắc đầu: chúng nằm ngoài thế giới nghệ thuật chính thống. Weitz sẽ mỉm cười: chúng tương tự với nghệ thuật ở một số điểm (sáng tạo, hình thức) và khác ở những điểm khác — và chính sự lửng lơ đó là điều thú vị. Câu hỏi này cho thấy các lý thuyết không chỉ để tranh cãi trên giấy: chúng là những cặp kính khác nhau để nhìn cùng một hiện tượng văn hóa đại chúng.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích chương 1 của *Art* của Clive Bell (1914) — văn bản đã hết bản quyền, kèm bản dịch tiếng Việt. Đây là nơi cụm từ "hình thức có ý nghĩa" ra đời.
 
@@ -166,7 +166,7 @@ Câu hỏi dẫn dắt:
 
 Một ghi chú thành thật: hai văn bản trung tâm còn lại của bài này — Danto (1964) và Dickie (1974) — vẫn còn được bảo hộ bản quyền ở nhiều nơi, nên bài này tóm tắt lập luận của họ bằng lời mình thay vì trích dài. Riêng *What is Art?* của Tolstoy (1897) đã hết bản quyền; bản dịch tiếng Anh của Aylmer Maude có trên Project Gutenberg cho ai muốn đọc toàn văn. Mục "The Definition of Art" trong *Stanford Encyclopedia of Philosophy* là điểm bắt đầu tốt để đọc sâu cả bốn hướng.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -182,7 +182,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một thứ gây tranh cãi xem có phải nghệ thuật không: một bản rap, một bức ảnh check-in được chỉnh màu kỹ, một video TikTok nhảy theo trend, hay một bức tranh AI. Dùng ít nhất một lý thuyết trong bài (Tolstoy, Bell, thuyết thể chế) để bảo vệ hoặc bác bỏ: thứ đó có phải nghệ thuật không?
 
@@ -195,7 +195,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có phân biệt "tôi thích nó" với "nó là nghệ thuật" không?
     - Bài viết có ví dụ cụ thể và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-aesthetics/>
 2. Tolstoy, Lev (1897), *What is Art?* (*Chto takoe iskusstvo?*). Bản dịch tiếng Anh của Aylmer Maude (1898) thuộc phạm vi công cộng: <https://www.gutenberg.org/ebooks/64908>

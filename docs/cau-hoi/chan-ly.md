@@ -20,7 +20,7 @@ Mỗi chuyện chứa một câu hỏi kiểu *cái gì là sự thật* (đèn 
 
 Bài này dùng **chân lý** (*truth*; 真理: *chân* là thật, *lý* là lẽ) cho tính chất mà một câu hay một niềm tin có khi nó đúng. Đừng nhập nó với ba thứ hay đi kèm (xem [Biết một điều nghĩa là gì?](tri-thuc.md)): **niềm tin** (*belief*) — người làm chứng tin thật lòng mà vẫn có thể sai; **sự biện minh** (*justification*) — tòa án có lý do rất tốt mà vẫn có thể xử oan; **sự chắc chắn** (*certainty*) — chatbot nghe rất chắc, điều đó không làm nó đúng thêm chút nào.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Xét câu S: *"Sáng ngày 1 tháng 1 năm 1000, ở chỗ bây giờ là Hồ Gươm, có đúng bảy con chim đang đậu."*
@@ -34,7 +34,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Nếu bạn nói "dĩ nhiên đúng hoặc sai, chim đậu hay không là chuyện của buổi sáng ấy", bạn nghiêng về **thuyết tương ứng**. Nếu bạn thấy vô nghĩa khi gọi "đúng" một câu mà không ai nhận ra được, bạn gần **thực dụng luận** và **thuyết tri thức**. Biến thể để thử thêm, một câu đố cổ Hy Lạp: *"Câu in nghiêng này là sai."* Nếu nó đúng thì nó sai; nếu nó sai thì nó đúng — dù ta chẳng thiếu bằng chứng gì. Trường hợp nào làm bạn lung lay hơn trước ý tưởng "mọi câu đều hoặc đúng hoặc sai"?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất: cái gì làm cho một câu đúng?** Với "ngoài trời đang mưa", đó là cơn mưa. Nhưng cơn mưa nào làm câu "7 là số nguyên tố" đúng? Các lý thuyết dưới đây trả lời: một **sự kiện** (*fact* — "điều có thật", không phải "biến cố"); sự ăn khớp với các niềm tin khác; điểm đến của sự truy tìm; hoặc chẳng có "cái gì làm cho" cả.
 
@@ -42,7 +42,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: "đúng" có phải một tính chất thật sự không?** Mọi câu đúng có chung một bản chất, như mọi vật có khối lượng? Hay "đúng" chỉ là một công cụ ngôn ngữ, như chữ "vâng" khi ta gật đầu? Bài [Bảng chân trị](../cong-cu/logic-menh-de.md) dùng **chân trị** (*truth value*) như những giá trị có sẵn; bài này hỏi có chân trị nghĩa là gì.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Các trích dẫn trong phần này do Logos Zero dịch từ bản tiếng Anh.
 
@@ -95,7 +95,7 @@ Tarski được xếp ở đâu? Ở cả hai phía. Chính ông (1944) nói mu�
 !!! note "Nghịch lý kẻ nói dối"
     "Câu này sai." Truyền thống gán câu đố này cho Eubulides (thế kỷ 4 TCN). Ba lối ra chính: **Tarski** — một ngôn ngữ không thể định nghĩa chữ "đúng" cho chính mọi câu của nó mà không sinh mâu thuẫn, nên phải định nghĩa trong một **siêu ngôn ngữ** (*metalanguage*); **Kripke** (1975) — câu ấy không đúng cũng không sai; **Priest** (1979) — câu ấy *vừa đúng vừa sai*, với một logic không để mâu thuẫn kéo theo mọi thứ: **thuyết mâu thuẫn đúng** (*dialetheism*).
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.
 
@@ -117,7 +117,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Khảo sát diễn ra cuối năm 2020, trước khi chatbot AI phổ biến. Và số đông không quyết định chân lý — ngay Peirce cũng không coi một cuộc thăm dò là "ý kiến cuối cùng".
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Sự thật của tôi" và thời hậu sự thật.** Năm 2016, Oxford Dictionaries chọn *post-truth* (**hậu sự thật**) làm từ của năm: tính từ chỉ những hoàn cảnh trong đó sự thật khách quan ít ảnh hưởng đến dư luận hơn là những lời kêu gọi cảm xúc và niềm tin cá nhân ([bản lưu](https://web.archive.org/web/2017/https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016)). Định nghĩa ấy không nói chân lý biến mất, mà nói nó mất *ảnh hưởng*. Câu "đó là sự thật của tôi" thường gói ba ý: góc nhìn của tôi (đáng được nghe), điều tôi tin, hoặc "đúng với tôi là đủ". Ý thứ ba có từ Protagoras ("con người là thước đo của vạn vật", xem [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md)), và [Platon](../triet-gia/platon.md) đã chỉ ra cái bẫy (*Theaetetus* 171a–c): nếu điều ai tin cũng đúng "với người đó", thì niềm tin rằng Protagoras sai cũng đúng — với những ai tin thế.
 
@@ -127,7 +127,7 @@ Khảo sát diễn ra cuối năm 2020, trước khi chatbot AI phổ biến. V�
 
 **Khoa học: đúng "tạm thời"?** James viết rằng thiên văn học Ptolemy từng "hữu hiệu" hàng thế kỷ, nên đúng trong giới hạn kinh nghiệm thời ấy, dù xét tuyệt đối là sai. Người theo thuyết tương ứng nói gọn hơn: nó sai, chỉ gần đúng ở vài chỗ. Dù sao, khoa học đáng tin vì nó biết sửa cái sai ([Khoa học khác gì với phi khoa học?](khoa-hoc.md)).
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn kết chương XII của Russell (1912; phạm vi công cộng tại Hoa Kỳ, toàn văn trên Project Gutenberg) tóm gọn thuyết tương ứng — đối diện với câu "chân lý *xảy đến* với một ý niệm" của James.
 
@@ -144,7 +144,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc chương cuối của cùng cuốn sách](../doc/russell-gia-tri.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -160,7 +160,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Câu S về bảy con chim đúng hoặc sai, hay không đúng cũng không sai? Bênh vực câu trả lời bằng một trong bốn lý thuyết của bài, tự đặt ra phản bác mạnh nhất từ một lý thuyết khác và đáp lại nó. Câu trả lời của bạn có giữ nguyên không nếu thay S bằng "hành hạ trẻ em cho vui là sai"?
 
@@ -172,7 +172,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Phản bác bạn tự đặt ra có nhắm trúng một điểm yếu thật (sự kiện là gì, bí mật bị chôn vùi, nhiều hệ mạch lạc, vai trò giải thích của chân lý) không?
     - Khi chuyển sang câu đạo đức, bạn có thấy lý thuyết của mình phải trả giá gì không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Glanzberg, Michael, "Truth", *Stanford Encyclopedia of Philosophy* (SEP). <https://plato.stanford.edu/entries/truth/>
 2. David, Marian, "The Correspondence Theory of Truth", *SEP*. <https://plato.stanford.edu/entries/truth-correspondence/>

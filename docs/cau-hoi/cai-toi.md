@@ -17,7 +17,7 @@ Hãy tìm một tấm ảnh của bạn chụp cách đây mười năm. Nhìn n
 
 Đây là câu hỏi về **bản sắc cá nhân** (*personal identity*): điều gì làm cho một người ở thời điểm này là *cùng một người* với một người ở thời điểm khác?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Người Athens giữ con tàu của Theseus như một bảo vật. Qua hàng chục năm, mỗi tấm ván mục được thay bằng một tấm ván mới. Đến cuối cùng, không còn một tấm ván gốc nào trên tàu.
@@ -30,7 +30,7 @@ Hãy tìm một tấm ảnh của bạn chụp cách đây mười năm. Nhìn n
 
 Nếu muốn một phiên bản hiện đại và rùng rợn hơn, hãy thử [cỗ máy dịch chuyển](../cong-cu/thi-nghiem-tu-duy.md) trong công cụ thí nghiệm tư duy của site: máy quét toàn bộ cơ thể bạn, phá hủy bản gốc, rồi dựng lại bạn từng nguyên tử ở nơi khác. Người bước ra có phải là bạn không?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi "tôi là ai qua thời gian" thật ra gộp ba câu hỏi nhỏ.
 
@@ -40,7 +40,7 @@ Câu hỏi "tôi là ai qua thời gian" thật ra gộp ba câu hỏi nhỏ.
 
 **Câu hỏi thứ ba: "tôi" ở đây nghĩa là gì?** John Locke đã phân biệt *con người* (một sinh vật) với *ngôi vị* (một chủ thể có lý tính và ý thức về bản thân). Một bệnh nhân hôn mê sâu vẫn là một con người, nhưng có còn là một ngôi vị như trước không? Nhiều tranh luận nảy sinh chỉ vì hai bên dùng chữ "tôi" theo hai nghĩa khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Tiêu chí thân thể: tôi là cơ thể này
 
@@ -99,7 +99,7 @@ Luận điểm cốt lõi: không tồn tại một cái "tôi" thường hằng
 
 **Cách đáp lại.** Phật giáo phân biệt hai mức độ sự thật: *chân đế* (ở mức rốt ráo, không có ngã thường hằng) và *tục đế* (ở mức quy ước thường ngày, ta vẫn nói "tôi", "anh", vẫn có trách nhiệm). Nghiệp báo vận hành ở mức tục đế: một chuỗi nhân quả tâm–sinh lý tiếp nối nhau, không cần một "người mang" bất biến — giống như ngọn lửa truyền từ cây nến này sang cây nến khác: không phải *cùng* một ngọn lửa, cũng không phải *hoàn toàn khác*.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
@@ -117,7 +117,7 @@ Vài điều đáng chú ý:
 - **Câu hỏi máy dịch chuyển chia rẽ gần đều:** 35,2% nói bạn sống sót, 40,1% nói bạn chết. Đây là một trong những câu hỏi gây chia rẽ nhất của cả khảo sát — phù hợp với nhận định của Parfit: trực giác của ta về "sống sót" không rạch ròi như ta tưởng.
 - Không có số liệu khảo sát riêng cho quan điểm vô ngã của Phật giáo trong đợt này.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Mất trí nhớ và người thân.** Một người mắc Alzheimer giai đoạn nặng không còn nhận ra con cháu, không nhớ mình là ai. Gia đình vẫn yêu thương, chăm sóc ông — nhưng nhiều người trong họ thú nhận có cảm giác "người ấy đã đi rồi, chỉ còn cái vỏ". Theo Locke, cảm giác ấy có cơ sở: ngôi vị gắn với ký ức, và ký ức đang tan rã. Theo quan điểm sinh học, ông vẫn hoàn toàn là người ấy. Không có câu trả lời nào làm cho nỗi đau của gia đình nhẹ đi, nhưng cách ta gọi tên tình trạng ấy ảnh hưởng đến cách ta đối xử: ta chăm sóc một *người đang dần mất đi ngôi vị của mình* khác với cách ta chăm sóc một *người lạ*.
 
@@ -125,7 +125,7 @@ Vài điều đáng chú ý:
 
 **Tiết kiệm cho tuổi già.** Mỗi tháng bạn để dành một khoản cho "mình lúc 70 tuổi". Parfit hỏi: mức độ liên kết tâm lý giữa bạn hôm nay và ông lão 70 tuổi ấy — người có thể chẳng còn nhớ hôm nay — là bao nhiêu? Nếu ít hơn bạn tưởng, thì động lực "vì chính mình" yếu đi, và động lực "vì những người sẽ sống lúc ấy, trong đó có một người từng là mình" mạnh lên. Cùng một hành động tiết kiệm, nhưng lý do đã khác — và có lẽ đẹp hơn.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích chương "Về đồng nhất và khác biệt" (II.xxvii) trong *An Essay Concerning Human Understanding* của Locke (ấn bản đầu 1689; chương này được bổ sung trong ấn bản lần hai, 1694; văn bản thuộc phạm vi công cộng), kèm bản dịch tiếng Việt.
 
@@ -144,7 +144,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc *Bát nhã Tâm kinh*](../doc/tam-kinh.md), mở đầu bằng câu "chiếu kiến ngũ uẩn giai không" (thấy rõ năm uẩn đều không).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -160,7 +160,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Bạn của mười năm trước đã làm một việc sai trái mà bạn hôm nay hoàn toàn không còn nhớ. Bạn có nên chịu trách nhiệm về việc đó không? Hãy dùng tiêu chí của Locke và ít nhất một phản bác (của Reid, Butler, hoặc quan điểm sinh học) để trả lời.
 
@@ -173,7 +173,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có phân biệt trách nhiệm *đạo đức* với trách nhiệm *pháp lý* (tòa án cần sự rạch ròi mà triết học chưa có) không?
     - Bài viết có ví dụ cụ thể và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/identity-personal/>
 2. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-personal-identity/>

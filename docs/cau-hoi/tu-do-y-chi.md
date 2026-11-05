@@ -15,7 +15,7 @@ updated: 2026-10-22
 
 Sáng nay bạn chọn uống cà phê sữa đá thay vì trà. Bạn cảm thấy mình *có thể* đã chọn khác. Nhưng hãy nghĩ lại: bạn chọn cà phê vì bạn buồn ngủ, vì bạn thích vị đó, vì quán quen chỉ bán ngon món ấy. Mỗi lý do lại có nguyên nhân của nó: thói quen, gen, cách bạn được nuôi dạy. Đi ngược mãi, chuỗi nguyên nhân dẫn về những thứ bạn chưa bao giờ chọn. Vậy cái "tôi chọn" nằm ở đâu? Và nếu nó không tồn tại, ta còn có thể khen, trách, hay xử phạt ai không?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Năm 2045, một nhóm nhà khoa học chế tạo được "Máy Tiên Tri". Họ quét toàn bộ não bạn và môi trường quanh bạn, rồi tính toán. Máy in ra một tờ giấy, gấp lại, niêm phong: *"Lúc 15 giờ chiều nay, Nam sẽ gọi điện cho mẹ."*
@@ -28,7 +28,7 @@ Sáng nay bạn chọn uống cà phê sữa đá thay vì trà. Bạn cảm th�
 
 Hãy tự trả lời trước khi đọc tiếp. Để ý xem câu trả lời của bạn phụ thuộc vào việc bạn hiểu chữ "tự do" theo nghĩa nào.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi về **tự do ý chí** (*free will*) thật ra là va chạm giữa hai điều mà ta đều muốn tin.
 
@@ -45,7 +45,7 @@ Vậy câu hỏi trung tâm là: **tất định luận (nếu đúng) có loạ
 
 Lưu ý câu hỏi này *khác* câu hỏi "tất định luận có đúng không". Một người có thể không chắc về vật lý mà vẫn có quan điểm rõ ràng về việc tự do và tất định có hợp nhau được không.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 <!-- fig:cay-tu-do-y-chi -->
 <figure class="oz-fig">
@@ -132,7 +132,7 @@ Kết quả: điện thế sẵn sàng bắt đầu *trước* thời điểm ng
 
 **Cách đáp lại.** Những người bảo vệ diễn giải hoài nghi có thể nói: dù chi tiết thế nào, hành động vẫn bắt nguồn từ các quá trình thần kinh mà ta không ý thức được. Nhưng lưu ý: đó là điều mà tương thích luận *đã chấp nhận từ đầu*. Với tương thích luận, câu hỏi chưa bao giờ là "có nguyên nhân trong não không", mà là "hành động có phản ánh lý do và giá trị của người đó không". Vì vậy, nhiều triết gia cho rằng khoa học thần kinh, dù rất quan trọng, khó tự mình giải quyết câu hỏi triết học này.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
@@ -164,7 +164,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Những gì còn bỏ ngỏ thật sự: trường hợp Frankfurt có thành công không, lập luận thao túng có đánh bại tương thích luận không, và khoa học thần kinh có thể nói gì về cảm giác tự quyết. Đây đều là những cuộc tranh luận đang diễn ra.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Pháp luật hình sự.** Pháp luật Việt Nam, giống nhiều nước, gắn trách nhiệm hình sự với khả năng nhận thức và điều khiển hành vi. Bộ luật Hình sự 2015 (Điều 21) quy định người thực hiện hành vi nguy hiểm khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi thì không phải chịu trách nhiệm hình sự. Nhưng người tự đặt mình vào tình trạng đó, bằng cách dùng rượu, bia hoặc chất kích thích mạnh, vẫn phải chịu trách nhiệm (Điều 13). Hãy để ý: cách luật vạch ranh giới khá giống tương thích luận. Câu hỏi không phải "hành vi có nguyên nhân không", mà "người đó có năng lực làm chủ hành vi không", và "họ có tự gây ra việc mất năng lực đó không".
 
@@ -174,7 +174,7 @@ Những gì còn bỏ ngỏ thật sự: trường hợp Frankfurt có thành c�
 
 **Đối xử với chính mình.** Một người theo hoài nghi về trách nhiệm có thể nói: vì không ai tự tạo ra mình, ta nên bớt căm ghét người làm sai và bớt tự dằn vặt. Một người theo tương thích luận có thể nói: chính vì hành động phản ánh con người ta, ta có thể học từ sai lầm và thay đổi. Cả hai đều có thể dẫn đến cách sống tử tế hơn, theo những con đường khác nhau.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích từ mục VIII, "Of Liberty and Necessity", trong *An Enquiry Concerning Human Understanding* của David Hume (1748), theo bản do L. A. Selby-Bigge biên tập trên Project Gutenberg (phạm vi công cộng).
 
@@ -191,7 +191,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc Hume về nhân quả](../doc/hume-nhan-qua.md), nền tảng cho cách Hume hiểu chữ "tất yếu" ở mục VIII. Ở phía ngược lại, Sartre cho rằng con người "bị kết án phải tự do": xem [hướng dẫn đọc *Thuyết hiện sinh là một thuyết nhân bản*](../doc/sartre-hien-sinh.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -207,7 +207,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Một công ty mạng xã hội nói: "Chúng tôi chỉ gợi ý; người dùng hoàn toàn tự do chọn xem gì." Bạn đồng ý đến mức nào? Hãy dùng ít nhất một lập trường trong bài (tương thích luận của Hume hoặc Frankfurt, lập luận thao túng, hoài nghi về trách nhiệm) để lập luận.
 
@@ -220,7 +220,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu một phản bác mạnh cho quan điểm của mình và đáp lại nó không?
     - Kết luận của bạn có đi ra từ lập luận, chứ không chỉ là cảm nhận?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freewill/>
 2. McKenna, Michael & D. Justin Coates, "Compatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/compatibilism/>

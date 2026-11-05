@@ -288,6 +288,14 @@ class TestRegistry(unittest.TestCase):
         self.assertEqual(n, 887)
 
 
+class TestHeadingIds(unittest.TestCase):
+    def test_core_h2_all_have_explicit_ids(self):
+        """Mọi mục H2 của Lõi viết tay có ID cố định (việc 1.3); mục mới phải được gắn ID khi thêm."""
+        sys.path.insert(0, str(ROOT / "tools"))
+        import add_heading_ids
+        self.assertEqual(add_heading_ids.missing_ids(ROOT), [])
+
+
 class TestRecordHash(unittest.TestCase):
     def test_key_order_and_verified_ignored(self):
         a = {"id": "kant", "born": 1724, "verified": None}

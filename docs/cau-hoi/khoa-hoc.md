@@ -19,7 +19,7 @@ Cả hai thái độ đều dùng chung một từ — "khoa học" — như m�
 
 Chú ý: đây khác với câu hỏi "đúng hay sai". Một lý thuyết phi khoa học vẫn có thể đúng một cách tình cờ (đoán mò mà trúng), và một lý thuyết khoa học vẫn có thể sai (rồi bị thay thế). Câu hỏi phân giới là về *cách* một lý thuyết đối xử với bằng chứng, chứ không phải về kết quả cuối cùng của nó.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Có hai nhà tiên tri cùng hành nghề ở đầu chợ.
@@ -34,7 +34,7 @@ Chú ý: đây khác với câu hỏi "đúng hay sai". Một lý thuyết phi k
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Trực giác của bạn về A và B chính là điểm xuất phát của triết học khoa học hiện đại.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Vấn đề phân giới có thể phát biểu gọn: *điều gì làm cho một lý thuyết, một ngành, một tuyên bố trở thành "khoa học"?* Các ứng viên cho tiêu chuẩn này rất khác nhau:
 
@@ -48,7 +48,7 @@ Một lưu ý trước khi vào bài: vấn đề phân giới không chỉ là 
 
 Và có một câu hỏi phụ đáng chú ý: *ai* được quyền vẽ ranh giới? Nếu tiêu chuẩn do chính các nhà khoa học đặt ra, liệu đó có phải là "vừa đá bóng vừa thổi còi"? Câu hỏi này sẽ quay lại ám ảnh cả ba lập trường dưới đây.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Popper: khoa học là cái dám sai
 
@@ -107,7 +107,7 @@ Một phản bác khác, thực tế hơn: Feyerabend lấy ví dụ từ *quá 
 
 Và có một cách đọc Feyerabend rất gần gũi với đời thường: mọi "quy trình chuẩn" — trong công ty, trong trường học — đều có nguy cơ biến thành rào cản cho ý tưởng mới. Câu hỏi lành mạnh không phải "có tuân thủ quy trình không", mà là "quy trình này đang giúp hay đang cản trở việc tìm ra sự thật".
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về vấn đề phân giới, nên **chưa có số liệu khảo sát cho chính câu hỏi của bài**. Nhưng khảo sát có hai câu về triết học khoa học, cho biết bối cảnh của cuộc tranh luận:
 
@@ -137,7 +137,7 @@ Ngoài các con số, điều có thể nói về tình trạng học thuật:
 
 Nhân tiện, dù triết học chuyên nghiệp chưa ngã ngũ, hầu hết giáo trình triết học khoa học hiện nay đều trình bày cả ba lập trường — Popper như điểm xuất phát, Kuhn như đối trọng lịch sử, Feyerabend như lời cảnh tỉnh — rồi để người đọc tự đánh giá. Bài này cũng làm vậy.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Theo khoa học" trên mạng.** Lần tới khi thấy ai đó viết "theo khoa học thì...", hãy thử bộ câu hỏi của Popper và Lakatos: *nghiên cứu nào?* đăng ở đâu, mẫu bao nhiêu người, có nhóm đối chứng không? Và quan trọng nhất: *kết quả nào có thể bác bỏ nó?* Một khẳng định mà không thí nghiệm nào có thể làm sai — như nhà tiên tri B đầu bài — thì dù khoác áo "khoa học", nó vẫn là B.
 
@@ -149,7 +149,7 @@ Nhân tiện, dù triết học chuyên nghiệp chưa ngã ngũ, hầu hết gi
 
 **Ai được gọi là "nhà khoa học"?** Vấn đề phân giới còn len vào cả danh xưng. Một người có bằng tiến sĩ vật lý phát biểu về dịch tễ học — lời nói đó có trọng lượng của "khoa học" không? (Xem thêm [Tin vào lời người khác?](loi-chung.md).) Tiêu chuẩn phân giới, dù chọn theo Popper hay Lakatos, đều đánh giá *tuyên bố và cách kiểm chứng*, chứ không đánh giá *tấm bằng* của người nói. Đây là một ứng dụng trực tiếp: đừng hỏi "ông ấy có phải nhà khoa học không", hãy hỏi "khẳng định này có thể bị bác bỏ bằng cách nào".
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: các văn bản trung tâm của bài này — Popper (1934/1959), Kuhn (1962), Feyerabend (1975) — đều còn bản quyền, nên bài này tóm tắt lập luận bằng lời mình thay vì trích dài. Độc giả muốn đọc sâu có thể tìm các ấn bản tại thư viện đại học; mục "Science and Pseudo-Science" của *Stanford Encyclopedia of Philosophy* (Hansson) là điểm bắt đầu miễn phí tốt nhất.
 
@@ -163,7 +163,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc Hume về nhân quả](../doc/hume-nhan-qua.md), gốc của vấn đề quy nạp.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -179,7 +179,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một khẳng định "khoa học" mà bạn từng đọc trên mạng (về sức khỏe, tâm lý, giáo dục...). Dùng ít nhất một khái niệm trong bài (khả bác bỏ, mô thức/khoa học thường, chương trình tiến bộ vs thoái hóa, "anything goes") để đánh giá: khẳng định đó có đứng được như một tuyên bố khoa học không? Vì sao?
 
@@ -192,7 +192,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có phân biệt "chưa được chứng minh" với "không thể kiểm chứng" không? (Hai điều này khác nhau.)
     - Bài viết có ví dụ cụ thể, câu ngắn, tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Popper, Karl (1934), *Logik der Forschung*, Vienna: Springer; bản tiếng Anh *The Logic of Scientific Discovery* (1959), London: Hutchinson.
 2. Kuhn, Thomas S. (1962), *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press (ấn bản 2, 1970, có lời bạt bổ sung).

@@ -19,7 +19,7 @@ Bài này hỏi: riêng tư là che giấu tội lỗi, hay là điều gì đó
 
 Chữ "riêng tư" trong tiếng Việt ghép từ *riêng* (của mình, không chung) + *tư* (私, cá nhân, phần mình). Tiếng Anh *privacy* gốc Latin *privatus* (tách khỏi công việc chung, thuộc về cá nhân). Ngay từ gốc chữ đã thấy: riêng tư không phải là "bí mật" (*secret*) — nó là *ranh giới* giữa cái thuộc về mình và cái thuộc về chung. Sự khác biệt giữa "bí mật" và "ranh giới" là toàn bộ vấn đề của bài này.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một thành phố lắp camera trong mọi nhà tắm công cộng và phòng thay đồ — với lý do an ninh: đã có vài vụ trộm cắp và hành hung xảy ra ở đó. Dữ liệu chỉ được AI xem, không có con người xem, trừ khi AI phát hiện hành vi phạm tội. Chính quyền nói: "Người ngay thẳng thì có gì phải giấu? Nếu bạn không làm gì sai, camera không ảnh hưởng gì đến bạn."
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Hầu hết mọi người đều từ chối — và sự từ chối đó cho thấy "không có gì để giấu" không phải là toàn bộ câu chuyện. Có điều gì đó về việc bị *quan sát* — dù bởi AI, dù ta vô tội — vẫn làm ta khó chịu. Một biến thể để thử thêm: giả sử thay vì camera, thành phố yêu cầu mọi công dân nộp nhật ký tin nhắn hàng tháng cho cơ quan an ninh, với cùng lời đảm bảo "chỉ AI đọc, chỉ tìm tội phạm". Bạn có đồng ý không? Và nếu bạn từ chối cả hai, thì ranh giới của bạn nằm ở đâu — ở *nơi* bị giám sát, ở *cái gì* bị thu thập, hay ở *ai* được phép xem?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. "Không có gì để giấu": an ninh chung đáng giá hơn sự khó chịu cá nhân
 
@@ -75,7 +75,7 @@ Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004,
 
 **Cách đáp lại.** Người theo Nissenbaum đáp: chính vì chuẩn mực đang trượt mà ta cần một lý thuyết để *đánh giá* sự trượt đó, thay vì chỉ ghi nhận nó. "Mọi người đã quen" không phải là lý do đạo đức — mọi người cũng từng "quen" với nhiều thứ mà sau này ta thấy là sai. Về tính khả thi, họ nói: luật bảo vệ dữ liệu hiện đại đã đi theo hướng này — ví dụ nguyên tắc "giới hạn mục đích" (*purpose limitation*): dữ liệu thu thập cho mục đích A không được dùng cho mục đích B khi chưa có sự đồng ý mới. Đó chính là toàn vẹn ngữ cảnh được luật hóa. Khó thực thi không có nghĩa là sai; nó có nghĩa là cần thiết kế thể chế tốt hơn, không phải từ bỏ khái niệm.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư hay giám sát (câu gần nhất với đạo đức công nghệ là câu bổ sung về kỹ thuật di truyền trên người — một chủ đề khác), nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
@@ -83,7 +83,7 @@ Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "
 
 Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2010) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Đọc lại điều khoản dịch vụ.** Lần tới khi một ứng dụng yêu cầu quyền truy cập danh bạ, vị trí, micro — hãy dừng lại 30 giây và hỏi theo ba lập trường: lập trường 1 sẽ nói "cho đi, có gì đâu"; lập trường 2 sẽ hỏi "tôi có thực sự kiểm soát được sau khi cho không, và tôi rút lại được không"; lập trường 3 sẽ hỏi "dữ liệu này sẽ chảy đi đâu, sang ngữ cảnh nào — vị trí của tôi để gọi xe có chảy sang công ty quảng cáo không?" Ba câu hỏi đó hữu ích hơn nhiều so với việc bấm "Đồng ý" trong vô thức hay từ chối mọi thứ trong hoang tưởng.
 
@@ -93,7 +93,7 @@ Một điều có thể nói một cách trung thực: triết học về quyề
 
 **Camera an ninh trong khu phố của bạn.** Đây là nơi bài toán trừu tượng trở nên cụ thể nhất: khu chung cư hay tổ dân phố của bạn lắp camera an ninh — bạn ủng hộ hay phản đối? Lập trường 1 nói: ủng hộ, vì an toàn chung. Lập trường 2 hỏi: ai xem dữ liệu, lưu bao lâu, ai kiểm soát người xem? Lập trường 3 hỏi: hình ảnh tôi đi qua sảnh chung cư (ngữ cảnh: an ninh tòa nhà) có chảy sang ngữ cảnh khác không (chủ đầu tư phân tích hành vi cư dân để bán quảng cáo)? Một cuộc họp cư dân bàn về camera sẽ chất lượng hơn rất nhiều nếu mọi người mang theo ba bộ câu hỏi này thay vì chỉ có hai phe "ủng hộ an ninh" và "sợ bị theo dõi".
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -159,7 +159,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng khu chung cư (hoặc trường học, công ty) của bạn đề xuất lắp hệ thống camera nhận diện khuôn mặt ở mọi khu vực chung, với lý do an ninh. Hãy viết một biên bản tranh luận ngắn trong đó ba người — mỗi người đại diện một lập trường trong bài — trình bày quan điểm của mình, rồi bạn (với tư cách người điều hành) đưa ra quyết định cuối cùng kèm lý do.
 
@@ -174,7 +174,7 @@ Gợi ý độ dài: 250–400 chữ.
     - Bạn có trung thực về cái giá của quyết định mình chọn (mọi lựa chọn đều có đánh đổi)?
     - Bài viết có gắn với một tình huống cụ thể thay vì bàn trừu tượng?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220.
 2. Nissenbaum, Helen (2004), "Privacy as Contextual Integrity", *Washington Law Review* 79(1): 119.

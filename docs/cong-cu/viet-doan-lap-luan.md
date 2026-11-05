@@ -13,7 +13,7 @@ Linh ấm ức: mình đã đưa lý do rồi còn gì — "vì nó tiện hơn"
 
 Bài này nói về cách biến một câu "vì…" thành một đoạn lập luận thật sự.
 
-## Bốn phần của một đoạn
+## Bốn phần của một đoạn {#bon-phan-cua-mot-doan}
 
 Một đoạn lập luận tốt thường có bốn phần, theo đúng thứ tự này:
 
@@ -25,7 +25,7 @@ Một đoạn lập luận tốt thường có bốn phần, theo đúng thứ t
 
 **4. Lường trước phản biện**: "Có người sẽ nói…; nhưng…". Một câu là đủ. Nó cho thấy bạn đã nghĩ tới ý kiến khác và có câu trả lời — lập luận của bạn vì thế đáng tin hơn.
 
-## Trước và sau: cùng một đoạn
+## Trước và sau: cùng một đoạn {#truoc-va-sau-cung-mot-doan}
 
 **Bản nháp lộn xộn** (kiểu Linh):
 
@@ -46,7 +46,7 @@ Cùng soi bốn phần:
 
 Để ý: bản sửa không dài hơn bản nháp bao nhiêu. Khác biệt không nằm ở độ dài, mà ở chỗ mỗi câu đều có việc để làm.
 
-## Các lỗi thường gặp
+## Các lỗi thường gặp {#cac-loi-thuong-gap}
 
 **Khẳng định không lý do.** Dấu hiệu: "rõ ràng là…", "ai cũng biết…", "không cần bàn cãi…". Những cụm này là cách nói "tôi không có lý do". Nếu điều đó rõ ràng thật, hãy nói ra lý do khiến nó rõ ràng.
 
@@ -63,7 +63,7 @@ Cùng soi bốn phần:
 ??? tip "Tiêu chí tự đánh giá"
     Trước khi nộp, đọc lại từng đoạn và hỏi bốn câu: (1) Câu đầu có nêu rõ luận điểm không? (2) Có ít nhất một lý do không? (3) Tôi có giải thích vì sao lý do dẫn tới luận điểm không? (4) Tôi có lường trước ít nhất một phản biện không? Đoạn nào trả lời "không" ở câu nào thì sửa câu đó.
 
-## Nối các đoạn thành bài
+## Nối các đoạn thành bài {#noi-cac-doan-thanh-bai}
 
 Một đoạn tốt chưa làm nên bài tốt. Các đoạn phải nối với nhau như mắt xích: kết luận của đoạn này làm lý do cho đoạn sau.
 
@@ -82,13 +82,13 @@ Câu đầu đoạn sau nên "bắt tay" câu cuối đoạn trước: lặp l�
 
 Phóng đại mức chắc chắn là cách nhanh nhất để người đọc tinh ý mất niềm tin vào cả bài — dù các lý do của bạn vốn tốt.
 
-## Khi nào được phá luật?
+## Khi nào được phá luật? {#khi-nao-duoc-pha-luat}
 
 Bốn phần trên là giàn giáo, không phải còng số 8. Khi đã viết quen, bạn có thể linh hoạt: câu luận điểm đôi khi hàm ẩn trong văn cảnh (người đọc đoán được); phần lường trước phản biện có thể nở thành cả một đoạn riêng; thứ tự có thể đảo — nêu phản biện trước, trả lời sau, tạo kịch tính.
 
 Nhưng luật chỉ được phá khi bạn *biết mình đang phá và vì sao*. Người mới học bơi thì bám phao đã; bơi giỏi rồi hãy tính chuyện lặn. Dựng giàn giáo cho chắc trước, phá sau.
 
-## Viết là viết lại
+## Viết là viết lại {#viet-la-viet-lai}
 
 Không ai viết ra đoạn văn tốt ngay lần đầu — kể cả người viết chuyên nghiệp. Bản nháp lộn xộn ở trên không phải minh họa cho sự dốt nát; nó là minh họa cho *bản nháp đầu tiên của mọi người*. Quy trình thật sự gồm ba bước:
 
@@ -98,7 +98,7 @@ Không ai viết ra đoạn văn tốt ngay lần đầu — kể cả người 
 
 Đa số đoạn văn dở không phải vì người viết kém, mà vì họ nộp bản xả như thể đó là bản sửa. Khoảng cách giữa "nghĩ được" và "viết được" chính là bước thứ ba.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Đoạn sau mắc lỗi gì? Viết lại cho đúng.
 
@@ -129,7 +129,7 @@ Không ai viết ra đoạn văn tốt ngay lần đầu — kể cả người 
 ??? success "Xem gợi ý đáp án"
     Trích dẫn thay cho lập luận. Đoạn văn chưa hề giải thích *vì sao* học trực tuyến hiệu quả hơn — nó chỉ mượn danh tiếng của giáo sư X. Kể cả khi giáo sư X đúng, người đọc vẫn không biết lý do là gì, nên chẳng học được gì để tự đánh giá. Sửa: giữ trích dẫn làm gợi ý, nhưng bổ sung lý do độc lập — ví dụ dữ liệu so sánh kết quả học tập, hoặc cơ chế khiến trực tuyến hiệu quả (xem lại bài giảng nhiều lần, chủ động tốc độ).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -145,10 +145,10 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Viết là một chuyện; nhận ra một đoạn văn *có phải* lập luận hay không lại là chuyện khác — và là bước đầu tiên. Mời đọc [Lập luận là gì?](lap-luan-la-gi.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Gerald Graff và Cathy Birkenstein, *They Say / I Say: The Moves That Matter in Academic Writing* (W. W. Norton) — cuốn sách dạy viết nổi tiếng với ý tưởng trung tâm: mọi bài viết học thuật đều là tham gia vào một cuộc đối thoại ("người ta nói…, còn tôi nói…"), trong đó lường trước phản biện là động tác không thể thiếu.

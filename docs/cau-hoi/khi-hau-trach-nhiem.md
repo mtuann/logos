@@ -19,7 +19,7 @@ Bài này tách câu hỏi đó thành ba câu hỏi nhỏ: trách nhiệm thu�
 
 Chữ "trách nhiệm" là Hán Việt: *trách* (責, đòi hỏi, khiển trách) + *nhiệm* (任, gánh vác) — "gánh vác điều mình phải trả lời". Tiếng Anh *responsibility* gốc Latin *respondere* (trả lời, đáp lại). Ngay từ gốc chữ đã có một câu hỏi: trách nhiệm là trả lời *cho ai* — và khi nạn nhân chưa sinh ra, ta trả lời cho ai?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một hồ bơi công cộng có 1.000 người đang bơi. Mỗi người tiểu một ít xuống hồ — mỗi người một lượng nhỏ đến mức không ai phát hiện được, nước vẫn trong. Nhưng 1.000 "một ít" cộng lại làm nước hồ ô nhiễm đến mức không ai bơi được nữa.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Đây là cấu trúc của vấn đề khí hậu: *tác hại tập thể từ những hành động cá nhân vô hại* (khi xét riêng lẻ). Một biến thể để thử thêm: giả sử có một nút bấm — ai bấm thì toàn bộ khí thải của người đó biến mất, nhưng khí hậu toàn cầu không thay đổi chút nào vì 8 tỷ người còn lại vẫn xả. Bạn có nghĩa vụ đạo đức phải bấm nút không, dù việc bấm không tạo ra khác biệt nào có thể đo được? Câu trả lời của bạn cho thấy bạn nghĩ trách nhiệm đòi hỏi *hậu quả* hay đòi hỏi *thái độ* — và đó là đường ranh của cả bài này.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Trách nhiệm cá nhân: mỗi người gánh phần của mình
 
@@ -75,7 +75,7 @@ Lập trường thứ ba chuyển trọng tâm khỏi câu hỏi "ai gây ra" sa
 
 **Cách đáp lại.** Người theo lập trường liên thế hệ đáp bằng hai bước. Bước thứ nhất: vấn đề non-identity chỉ đánh vào ngôn ngữ "gây hại cho *ai đó cụ thể*" — nhưng nghĩa vụ của ta có thể được diễn đạt lại mà không cần nạn nhân cụ thể: ta có nghĩa vụ *với nhân loại tương lai như một tập thể*, hoặc nghĩa vụ không làm suy thoái những điều kiện chung của sự sống con người. Bước thứ hai thực tế hơn: phần lớn tác hại khí hậu *không* rơi vào trường hợp non-identity — trẻ em đã sinh ra hôm nay sẽ sống đến cuối thế kỷ; các quốc gia và cộng đồng (đồng bằng sông Cửu Long, các đảo quốc Thái Bình Dương) tồn tại liên tục qua các thế hệ. Với những nạn nhân xác định được này, vấn đề non-identity không áp dụng — và nghĩa vụ của ta với họ là rõ ràng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Trong 100 câu hỏi của khảo sát PhilPapers 2020, không có câu nào hỏi "con người có nghĩa vụ với thế hệ tương lai không" hay "trách nhiệm khí hậu thuộc về cá nhân hay tập thể". Với ba lập trường của bài, vì vậy, **chưa có số liệu khảo sát**, và cũng không nên suy đoán.
 
@@ -93,7 +93,7 @@ Câu này hỏi giá trị của thiên nhiên có quy về con người hay kh�
 
 Ngoài con số ấy, điều có thể nói một cách trung thực: đạo đức môi trường và công lý liên thế hệ là những lĩnh vực nghiên cứu đang phát triển nhanh trong triết học đương đại — vấn đề non-identity của Parfit (1984) vẫn là điểm xuất phát bắt buộc của mọi tranh luận về nghĩa vụ với thế hệ tương lai, và câu hỏi "cá nhân hay cấu trúc" là trục tranh luận chính trong triết học khí hậu hiện nay. Nhưng "đang phát triển nhanh" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Tôi tắt đèn thì được gì?"** Đây là câu hỏi mà lập trường 1 và lập trường 2 trả lời khác nhau — và bạn nên biết mình đang đứng ở đâu mỗi khi tự hỏi nó. Nếu bạn tắt đèn vì "mỗi giọt nước đều đáng kể", bạn đang theo lập trường 1. Nếu bạn thấy việc tắt đèn là vô nghĩa nhưng vẫn đi bỏ phiếu cho chính sách năng lượng sạch, bạn đang theo lập trường 2 — và đó là một lập trường hoàn toàn nhất quán, không phải sự đạo đức giả. Điều đáng tránh duy nhất là vị trí thứ ba: không tắt đèn *và* không làm gì khác, rồi dùng lập luận của lập trường 2 ("cá nhân không đáng kể") để biện minh cho sự thụ động toàn diện của mình. Lập trường 2 đòi hỏi bạn phải hành động *với tư cách công dân*; nếu bạn không làm cả điều đó, bạn không thuộc lập trường nào cả.
 
@@ -103,7 +103,7 @@ Ngoài con số ấy, điều có thể nói một cách trung thực: đạo đ
 
 **Thế hệ tương lai trong phòng họp.** Một ứng dụng thể chế của lập trường 3: một số nước đã thử đưa "tiếng nói của thế hệ tương lai" vào quá trình ra quyết định — ví dụ xứ Wales có Ủy viên Thế hệ Tương lai (Future Generations Commissioner) với nhiệm vụ đánh giá chính sách dưới góc độ tác động dài hạn. Bạn không cần đồng ý với mô hình cụ thể nào để thấy ý tưởng đằng sau nó: những người gánh chịu hậu quả lại không có mặt trên bàn đàm phán — thì công lý đòi hỏi phải có *ai đó* ngồi vào chiếc ghế trống đó.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -169,7 +169,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một thói quen tiêu dùng của bạn có dấu chân carbon đáng kể (đi xe máy/xe hơi, đi máy bay, ăn thịt đỏ...) và viết một đoạn văn tự bào chữa — hoặc tự buộc tội — cho thói quen đó, sử dụng *đúng một* trong ba lập trường của bài. Sau đó, hãy viết một đoạn thứ hai trong đó một người theo một trong hai lập trường còn lại phản bác bạn.
 
@@ -184,7 +184,7 @@ Gợi ý độ dài: 250–400 chữ.
     - Bạn có tránh được vị trí "không làm gì cả nhưng viện cớ triết học"?
     - Bài viết có cho thấy bạn hiểu sự khác biệt giữa trách nhiệm tiêu dùng và trách nhiệm công dân không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 2. Gardiner, Stephen M. (2011), *A Perfect Moral Storm: The Ethical Tragedy of Climate Change*, Oxford: Oxford University Press.

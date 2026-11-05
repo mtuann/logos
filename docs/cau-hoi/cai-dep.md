@@ -18,7 +18,7 @@ Ngành triết học bàn về cái đẹp và nghệ thuật gọi là **mỹ h
 
 Câu hỏi này không chỉ để tranh luận cho vui. Cách ta trả lời nó ảnh hưởng đến cách ta dạy con cái về nghệ thuật, cách ta chấm thi năng khiếu, cách ta đối xử với gu của người khác — và cả cách ta nhìn chính mình trong gương mỗi sáng.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng hai người bạn, An và Bình, cùng nghe một bản nhạc.
@@ -31,7 +31,7 @@ Câu hỏi này không chỉ để tranh luận cho vui. Cách ta trả lời n�
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa một nghịch lý mà ai cũng từng cảm thấy.
 
@@ -43,7 +43,7 @@ Vậy câu hỏi thật sự là: *có một chuẩn mực nào cho cái đẹp 
 
 Câu hỏi song song cho đạo đức (đúng sai có khách quan, hay chỉ là thái độ và tục lệ?) được bàn trong [Đúng sai có khách quan không?](sieu-dao-duc.md).
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Hume: cái đẹp là cảm giác, nhưng có "người phê bình lý tưởng"
 
@@ -103,7 +103,7 @@ Thứ hai, cả hai đều cho rằng cái đẹp *không chứng minh được*
 
 Và có lẽ đó là bài học lớn nhất của mỹ học: học cách tranh cãi về cái đẹp một cách nghiêm túc — mà không cần phải thắng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 hỏi thẳng câu hỏi của bài này: giá trị thẩm mỹ là *khách quan* hay *chủ quan*? Đây là một trong 40 câu chính, hỏi mọi người tham gia. Khảo sát còn có một câu bổ sung về bản chất của *trải nghiệm thẩm mỹ*.
 
@@ -132,7 +132,7 @@ Ngoài con số, có thể nói rằng tranh luận Hume–Kant vẫn là điể
 
 Một hướng phát triển đáng chú ý: mỹ học thực nghiệm (*experimental aesthetics*) ngày nay dùng tâm lý học và thần kinh học để nghiên cứu xem não bộ phản ứng thế nào trước cái đẹp — nhưng các triết gia vẫn tranh cãi liệu những phát hiện đó trả lời được câu hỏi triết học hay chỉ mô tả lại nó bằng ngôn ngữ khác. Và câu hỏi của Hume về "người phê bình lý tưởng" vẫn còn nguyên giá trị: trong thời đại thuật toán, ai mới là người rèn luyện thị hiếu của ta?
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Nhạc trẻ vs nhạc cổ điển.** "Nhạc bây giờ toàn nhạc rác, không bằng nhạc ngày xưa" — câu này mỗi thế hệ đều nói về thế hệ sau. Hume sẽ hỏi: người nói đã nghe đủ nhiều, so sánh đủ rộng, và đủ công tâm chưa, hay chỉ đang bảo vệ gu của thời mình? Kant sẽ hỏi thêm: khi ta chê, ta đang nói "tôi không thích" hay đang đòi "ai cũng nên thấy nó dở"? Hai điều đó khác nhau.
 
@@ -144,7 +144,7 @@ Một hướng phát triển đáng chú ý: mỹ học thực nghiệm (*experi
 
 **Filter làm đẹp và chuẩn mực cái đẹp.** Mỗi ngày, hàng triệu người dùng filter để "đẹp hơn" trước khi đăng ảnh — mũi cao hơn, da mịn hơn, mặt V-line hơn. Đằng sau đó là một chuẩn mực cái đẹp đang vận hành, dù không ai bầu ra nó. Hume sẽ hỏi: chuẩn mực này đến từ "người phê bình lý tưởng" hay từ thuật toán và quảng cáo mỹ phẩm? Nếu gu của ta được rèn bởi những bộ lọc mà ta không hề chọn, thì cảm giác "thấy đẹp" của ta còn đáng tin đến đâu? Kant sẽ hỏi thêm: khi ta nói "gương mặt này đẹp", ta đang đưa ra một phán đoán thẩm mỹ vô vụ lợi — hay đang lặp lại một tiêu chuẩn thương mại mà ta tưởng là của mình? Mỹ học, ở đây, trở thành một công cụ tự vệ: giúp ta phân biệt cái *mình* thấy đẹp với cái *người ta bảo mình* nên thấy đẹp.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích bài "Of the Standard of Taste" của Hume (1757) — văn bản đã hết bản quyền, kèm bản dịch tiếng Việt. Một chi tiết hay bị bỏ qua: trong bài, Hume đặt câu này vào lời của "một loại triết học" cho rằng không thể có chuẩn mực nào cho thị hiếu ("người ta nói rằng…"). Ông đồng ý với nó ở chỗ cái đẹp thuộc về cảm giác (vài trang sau, chính ông viết rằng cái đẹp và cái xấu "không phải là tính chất của sự vật, mà hoàn toàn thuộc về cảm giác" — "are not qualities in objects, but belong entirely to the sentiment"), nhưng ngay đoạn liền sau câu trích, ông bác bỏ kết luận "mọi gu đều ngang nhau" bằng ví dụ Ogilby và Milton.
 
@@ -162,7 +162,7 @@ Câu hỏi dẫn dắt:
 3. Hãy thử áp dụng: một người chỉ nghe duy nhất một dòng nhạc cả đời chê một dòng nhạc khác là "rác". Theo Hume, lời chê đó có trọng lượng không?
 4. Câu thứ hai của Hume so sánh cái đẹp với vị ngọt/vị đắng. So sánh này *ủng hộ* hay *chống lại* ý tưởng về chuẩn mực thị hiếu? (Gợi ý: ta có tranh cãi nghiêm túc về món ăn ngon không?)
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -178,7 +178,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một bài hát hoặc một bộ phim mà bạn yêu thích nhưng nhiều người chê (hoặc ngược lại). Dùng ít nhất một khái niệm trong bài (người phê bình lý tưởng, tính phổ quát chủ quan, chuẩn mực của thị hiếu) để trả lời: bạn có quyền nói "nó đẹp/hay" theo nghĩa đòi người khác đồng ý không, hay chỉ nên nói "tôi thích nó"?
 
@@ -191,7 +191,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu ít nhất một phản bác cho lập trường của mình không?
     - Bài viết có ví dụ cụ thể và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-aesthetics/>
 2. Ginsborg, Hannah, "Kant's Aesthetics and Teleology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-aesthetics/>

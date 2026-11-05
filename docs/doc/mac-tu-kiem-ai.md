@@ -15,13 +15,13 @@ updated: 2026-10-22
     - **Đọc toàn văn:** nguyên văn song song với bản dịch tiếng Anh của W. P. Mei (1929) trên ctext.org: [Kiêm ái thượng](https://ctext.org/mozi/universal-love-i), [Kiêm ái hạ](https://ctext.org/mozi/universal-love-iii), [Phi công thượng](https://ctext.org/mozi/condemnation-of-offensive-war-i), [Thiên chí thượng](https://ctext.org/mozi/will-of-heaven-i).
     - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 25 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Thời Chiến Quốc, chư hầu thôn tính lẫn nhau. Nho gia dạy thương người thân trước rồi mới tới người dưng, và coi trật tự ấy là tự nhiên. Mặc Tử hỏi: theo đúng tập tục chưa chắc đã là đúng, vậy lấy gì làm thước đo? Câu trả lời của ông là **lợi cho thiên hạ**: dân đủ ăn, đông đúc, xã hội trật tự, người trong nhà ai làm tròn phận nấy. Từ thước đo ấy, ông chê đám tang xa hoa, âm nhạc tốn kém, và trên hết là chiến tranh xâm lược. Chris Fraser (SEP) gọi đây là hình thức **hệ quả luận** (*consequentialism*) sớm nhất thế giới.
 
 Người chống ông gay gắt nhất là [Mạnh Tử](../triet-gia/manh-tu.md): "Họ Mặc kiêm ái, thế là không có cha" (3B9). Theo Fraser, phần lớn người đương thời chỉ chê lối sống khắc khổ và việc bài nhạc của Mặc gia; Mạnh Tử mới là người nhắm thẳng vào kiêm ái.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Gốc của loạn (Kiêm ái thượng, thiên 14)
 
@@ -77,7 +77,7 @@ Mỗi phe đều viện cớ riêng; Mặc Tử cần một thước đo đứng
 
 > Câu hỏi: Dùng "ý trời" làm chuẩn đạo đức là lập luận triết học, hay chỉ là công cụ răn đe kẻ mạnh?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Việc của người nhân là làm lợi cho thiên hạ, trừ hại cho thiên hạ.
 - **P2.** Các mối hại lớn của thiên hạ đều sinh ra từ "biệt": chỉ lo cho mình, nhà mình, nước mình.
@@ -92,7 +92,7 @@ Soi từng bước:
 - Giả định ngầm của P3: người khác sẽ đáp lại, và lo cho người thì sẽ không hại người.
 - Bước tới K chỉ hợp lệ nếu chỉ có hai lựa chọn. Fraser (SEP) chỉ ra rằng "biệt" nghĩa là gạt hẳn người khác ra ngoài; lựa chọn thứ ba, quan tâm mọi người nhưng ở mức khác nhau, không được xét. Nếu kết luận là "kiêm là bắt buộc", đó là một **song đề giả**.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Mạnh Tử: kiêm ái là không có cha.** Nhắn qua học trò, Mạnh Tử hỏi vặn môn đồ Mặc gia Di Chi: ông ta thật tin người ta thương con của anh mình cũng như thương đứa bé nhà hàng xóm sao? (3A5). *Cách đáp lại:* *Kiêm ái hạ* trả lời bằng chính chữ hiếu: người con hiếu muốn cha mẹ mình được thương thì "ắt phải thương và làm lợi cho cha mẹ người trước, rồi người mới đáp lại mà thương và làm lợi cho cha mẹ ta" (即必吾先從事乎愛利人之親，然後人報我以愛利吾親也). Di Chi tóm lại: "thương không phân bậc, nhưng thi hành bắt đầu từ người thân" (愛無差等，施由親始, 3A5).
 
@@ -100,19 +100,19 @@ Soi từng bước:
 
 **Đạo đức dựa vào ý trời thì tùy tiện.** Nếu điều đúng là đúng chỉ vì trời muốn thế, đạo đức thành mệnh lệnh tùy ý. *Cách đáp lại:* theo Fraser, Mặc gia không theo thuyết mệnh lệnh thần linh. Họ đưa ra lý do độc lập: trời đáng làm chuẩn vì không thiên vị, nhân từ, bền bỉ. Đặt vào song đề Euthyphro: điều nghĩa không nghĩa vì trời muốn; trời muốn nó vì nó nghĩa.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Kiêm ái là yêu người dưng y như cha mẹ, bỏ mặc gia đình."** Chữ "ái" ở đây gần với *quan tâm* hơn là tình cảm nồng nhiệt. Mặc gia đòi quan tâm đạo đức tới mọi người, không đòi đối xử với mọi người như nhau; hiếu và từ vẫn là điều tốt trong hệ thống của họ (Fraser, SEP).
 - **"Mặc Tử phản đối mọi chiến tranh."** Ông phản đối chiến tranh *xâm lược*. Hai mươi mốt thiên cuối sách bàn toàn về kỹ thuật giữ thành khi bị vây (Fraser, SEP).
 - **"Mặc Tử là Bentham thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Bạn có đồng ý "chỉ lo cho mình là gốc của xung đột" không? Lấy một xung đột thực tế (gia đình, công sở, quốc tế) và thử phân tích bằng lăng kính của Mặc Tử.
 2. Nếu phải chọn giữa "thương người thân trước" (Nho gia) và "quan tâm mọi người như nhau" (Mặc gia), bạn chọn bên nào, và cái giá của lựa chọn ấy là gì?
 3. So sánh kiêm ái với phong trào "vị tha hiệu quả" (*effective altruism*) ngày nay: hai bên giống nhau ở thước đo hệ quả, nhưng khác nhau ở đâu?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -127,7 +127,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Mạnh Tử: tính thiện](manh-tu-tinh-thien.md) — người chê Mặc Tử "không có cha", nhưng cùng tin con người có thể tốt lên
 - [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — Mặc gia giữa trăm nhà thời Chiến Quốc
@@ -135,7 +135,7 @@ Thử xem bạn nắm được đến đâu.
 - [Có nghĩa vụ cứu người nghèo đói không?](../cau-hoi/cuu-giup-ngheo-doi.md) — người ở xa có đáng được quan tâm như người ở gần?
 - [Công lý là gì?](../cau-hoi/cong-ly.md) — từ kiêm ái đến công bằng hiện đại
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Mặc Tử*, nguyên văn và bản dịch tiếng Anh của W. P. Mei (1929), Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
 2. *Mạnh Tử* 3A5 và 3B9, nguyên văn: <https://ctext.org/mengzi/teng-wen-gong-i>; <https://ctext.org/mengzi/teng-wen-gong-ii>.

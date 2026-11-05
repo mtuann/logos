@@ -17,7 +17,7 @@ Ta tin rất nhiều thứ mà không có bằng chứng đầy đủ: tin bạn
 
 Câu hỏi này nằm ở trung tâm của **triết học tôn giáo** (*philosophy of religion*): đức tin (*faith*) đứng ở đâu trước lý trí (*reason*)? Ba câu trả lời dưới đây đại diện cho ba thái độ khác nhau: đức tin vượt lên trên lý trí (Kierkegaard), đức tin phải phục tùng bằng chứng (Clifford), và đức tin như một canh bạc khôn ngoan (Pascal). Site không chọn hộ bạn phe nào.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Chị Lan có con bị bệnh nan y. Bác sĩ nói thẳng: cơ hội khỏi bệnh gần như bằng không. Chị Lan vẫn tin rằng con mình sẽ khỏi — một niềm tin không có bằng chứng y khoa nào chống lưng. Niềm tin đó giúp chị bình tĩnh, chăm con chu đáo từng ngày, không suy sụp, và đứa trẻ được sống những tháng ngày cuối đời trong vòng tay ấm áp của mẹ.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giờ giả sử chị Lan không chỉ *tin* mà còn *hành động theo niềm tin* — chị từ chối phác đồ điều trị của bác sĩ để theo một "thầy lang" hứa chữa khỏi bằng niềm tin, và bệnh của con trở nặng nhanh hơn. Lúc này câu trả lời của bạn có đổi không? Nếu có, thì điều làm thay đổi câu trả lời là gì — bản thân niềm tin, hay hậu quả của việc hành động theo nó?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -41,7 +41,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ ba: có lý do *không phải bằng chứng* nào biện minh cho niềm tin không?** Nếu bằng chứng cạn kiệt mà ta vẫn phải chọn (vì không chọn cũng là một cách chọn), thì lợi ích thực dụng — "tin điều này làm đời ta tốt đẹp hơn" — có được tính là một lý do chính đáng không? Hay đó chỉ là cách nói hoa mỹ của sự tự lừa dối?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Kierkegaard: đức tin là bước nhảy vượt lên trên lý trí
 
@@ -90,7 +90,7 @@ Lưu ý quan trọng: đây là lập luận **thực dụng** (*prudential*), k
 
 **Cách đáp lại.** Người bênh vực Pascal đáp cả ba. Thứ nhất, canh bạc nhắm vào người đang phân vân giữa tin và không tin *trong một truyền thống cụ thể*, không phải bài toán chọn giữa mọi tôn giáo trên đời — nó là lời khuyên thực dụng cho một tình huống cụ thể, không phải hệ thống thần học phổ quát. Thứ hai, Pascal biết niềm tin không ép được bằng ý chí — nên ông khuyên *hành động như người tin* (sống theo, cầu nguyện, tham dự) và niềm tin sẽ đến dần: làm như thể bạn tin, rồi niềm tin sẽ theo sau. Thứ ba, ông không nói Chúa *thưởng* cho sự tính toán — ông chỉ nói với người chưa tin rằng ngay cả lý trí thực dụng cũng dẫn về phía đức tin; đó là bước đầu của con đường, không phải toàn bộ con đường.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có một câu chính về Thượng đế, và một câu bổ sung hỏi luận chứng nào cho sự tồn tại của Thượng đế là mạnh nhất — trong đó có lựa chọn "thực dụng", tức họ lập luận mà canh bạc Pascal là ví dụ kinh điển:
 
@@ -112,7 +112,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Con số 18,9% vs 66,9% vẫn đáng suy ngẫm theo một cách khác: đa số triết gia chuyên nghiệp không tin vào Thượng đế, nhưng triết học tôn giáo vẫn là một lĩnh vực nghiên cứu sôi nổi — và nhiều triết gia vô thần vẫn coi canh bạc Pascal hay lập luận của Kierkegaard là những thách thức tri thức đáng nể, chứ không phải những ngụy biện dễ bác. Số đông không quyết định chân lý, nhưng nó cho biết cuộc tranh luận đang ở đâu.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tin vào con người: không bao giờ có "đủ bằng chứng".** Bạn tin người yêu sẽ chung thủy, tin đối tác làm ăn sẽ giữ chữ tín — nhưng làm sao *chứng minh* được điều chưa xảy ra? Clifford nghiêm khắc sẽ nói: hãy thu thập bằng chứng (quan sát, tìm hiểu) trước khi tin. Kierkegaard sẽ nói: đến một lúc nào đó, bằng chứng đã cạn mà bạn vẫn phải chọn — và tình yêu nào cũng chứa một bước nhảy. Câu hỏi thực tế: bạn đang "nhảy" sau khi đã tìm hiểu hết sức, hay đang dùng "bước nhảy" làm cái cớ để khỏi tìm hiểu?
 
@@ -122,7 +122,7 @@ Con số 18,9% vs 66,9% vẫn đáng suy ngẫm theo một cách khác: đa số
 
 **"Cứ tin đi cho đời nhẹ nhàng" — Pascal trong đời thường.** Nhiều người chọn tin vào những điều làm cuộc sống dễ chịu hơn: tin rằng người thân đã mất vẫn đang dõi theo mình, tin rằng vũ trụ có một trật tự tốt đẹp. Đó là canh bạc Pascal phiên bản đời thường: tin vì *có ích*, không phải vì *có bằng chứng*. Câu hỏi của Pascal áp dụng nguyên vẹn: nếu niềm tin đó giúp bạn sống tốt hơn và không hại ai, thì việc nó "không có bằng chứng" có còn quan trọng không? Và ngược lại: đến mức nào thì "tin cho nhẹ lòng" trở thành tự lừa dối?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -201,7 +201,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy lấy một niềm tin của chính bạn mà bạn nắm giữ khi bằng chứng chưa đủ (tin vào một người, một dự định, một điều về thế giới) và xét nó qua cả ba lăng kính: Kierkegaard sẽ nói gì về niềm tin đó? Clifford sẽ kết tội nó ở điểm nào? Pascal sẽ khuyên bạn đặt cược ra sao? Cuối cùng, bạn thấy lăng kính nào trung thực nhất với trường hợp của mình — và tại sao?
 
@@ -215,7 +215,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có phân biệt được *tin*, *hy vọng*, và *hành động như thể tin* (phân biệt của Clifford) trong trường hợp của mình không?
     - Bạn có trung thực về cái giá của lăng kính mình chọn (mỗi lập trường đều có điểm mù — xem lại các phản bác)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.
 2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng).

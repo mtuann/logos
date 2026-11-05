@@ -18,13 +18,13 @@ Nguyên văn chữ Hán thuộc phạm vi công cộng. Các bản dịch tiến
     - **Cách ghi vị trí:** "15.24" là thiên 15 (Vệ Linh Công), chương 24, theo cách đánh số của ctext.org.
     - **Thời gian đọc:** khoảng 15 phút cho các đoạn trích; vài buổi cho toàn văn.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Khổng Tử sống cuối thời Xuân Thu: nhà Chu suy yếu, các nước chư hầu đánh nhau liên miên, lễ nhạc đổ nát. Theo truyền thống, ông chu du nhiều nước mong tìm vua chịu thi hành đạo trị nước, không thành, về nước Lỗ dạy học. Học trò và học trò của học trò ghi lại lời thầy, thành *Luận ngữ*. Từ thời [Chu Hy](../triet-gia/chu-hy.md) (1130–1200), *Luận ngữ* là một trong *Tứ thư*, nền tảng của giáo dục Nho học ở Đông Á.
 
 Ở Việt Nam, Nho giáo định hình nền giáo dục khoa cử suốt nhiều thế kỷ (xem Nguyễn Tài Thư chủ biên, *Lịch sử tư tưởng Việt Nam*, 1993).
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Học để vui, không phải để thi (Học nhi, 1.1)
 
@@ -96,7 +96,7 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
 Đây là "thí nghiệm" đạo đức của Nho gia: hạnh phúc có nhất thiết cần điều kiện vật chất không? Để ý, văn bản không nói Hồi vui *vì* nghèo; nó nói cái nghèo không lấy được niềm vui của anh.
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 *Luận ngữ* không viết thành chuỗi tiền đề–kết luận, nhưng có thể dựng lại lập luận ngầm nối các đoạn trên:
 
@@ -107,7 +107,7 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
 Đây không phải lập luận suy diễn: các tiền đề là nhận định rút từ đời sống, và "bằng chứng" là những con người cụ thể như Nhan Hồi. Có một **giả định ngầm** (*hidden assumption*) quan trọng: con người *có thể* được uốn nắn bằng học và lễ. [Mạnh Tử](../triet-gia/manh-tu.md) và [Tuân Tử](../triet-gia/tuan-tu.md) về sau tranh luận gay gắt vì sao điều ấy đúng. Nhiều học giả xếp *Luận ngữ* vào **đạo đức học đức hạnh** (*virtue ethics*), vì câu hỏi trung tâm là "trở thành người thế nào?"; một số khác (Henry Rosemont, Roger Ames) đề nghị gọi là "đạo đức học vai trò", nhấn mạnh bổn phận trong từng mối quan hệ.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: thương mọi người như nhau. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
 
@@ -121,19 +121,19 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
 *Cách đáp lại:* có thể đọc ngược lại: khi mọi chuẩn mực đều có vẻ tương đối, *Luận ngữ* nhắc rằng con người vẫn cần một cái khung để không trôi. Câu hỏi còn lại là khung nào, và ai được quyền đặt ra nó.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Khổng Tử viết *Luận ngữ*."** Sách do người sau biên soạn từ lời thầy và trò, không phải do Khổng Tử viết; nhiều chương còn ghi lời của học trò.
 - **"Lễ là nghi thức rườm rà."** 3.4 nói ngược lại: gốc của lễ là lòng thành, và tiết kiệm hơn xa hoa.
 - **"'Kỷ sở bất dục' là định nghĩa của nhân."** Ở 15.24, Khổng Tử gọi nó là *thứ*; ở 12.2, đó là một phần trong câu trả lời về nhân. Mục từ "Confucius" của Bách khoa thư Triết học Stanford còn cho biết một số học giả ngờ rằng các đoạn này được thêm vào sau, và việc đọc chúng như một nguyên tắc trừu tượng chịu ảnh hưởng của việc so với "luật vàng" trong Kinh Thánh.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Chọn một "lễ" trong đời bạn (chào hỏi, giỗ chạp, cách ăn mặc đi làm): nó còn giữ được lòng kính bên trong, hay đã thành hình thức rỗng?
 2. "Điều mình không muốn, đừng làm cho người": thử áp dụng vào một tình huống cụ thể tuần này (với đồng nghiệp, người thân, người lạ trên mạng). Khó nhất ở chỗ nào?
 3. Thử một tuần nói "tôi không biết" mỗi khi bạn thật sự không biết (2.17). Điều gì xảy ra?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được lập luận đến đâu.
 
@@ -147,7 +147,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.
@@ -155,7 +155,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 - [Mặc Tử: kiêm ái](mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — lý tưởng người quân tử trong chính trị.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>
 2. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/confucius/>

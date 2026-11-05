@@ -19,7 +19,7 @@ Câu hỏi triết học không phải "làm sao để được yêu" mà là: t
 
 Chữ "yêu" là từ thuần Việt. Hán Việt có "ái" (愛) trong "ái tình", "tình yêu". Tiếng Hy Lạp cổ phân biệt rạch ròi hơn: *eros* (tình yêu khao khát, thường là đôi lứa), *philia* (tình bạn, sự quý mến), *storge* (tình ruột thịt), *agape* (tình thương vô điều kiện). Triết học phương Tây về tình yêu chủ yếu bàn về *eros* — và ngay từ đầu đã có một câu hỏi gai góc: khi ta nói "anh yêu em", ta yêu *con người em*, hay yêu *cái đẹp, cái tốt* nơi em — những thứ mà người khác cũng có thể có?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một công ty tung ra "bạn đời hoàn hảo": một người máy hiểu bạn hơn bất kỳ ai — nhớ mọi chi tiết về bạn, luôn quan tâm đúng lúc, không bao giờ lừa dối, không bao giờ chán bạn, chung thủy tuyệt đối. Bên cạnh đó là một con người thật: hay quên ngày kỷ niệm, đôi khi vô tâm, thỉnh thoảng cãi nhau với bạn, có đủ khuyết điểm.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử người máy được lập trình để *thực sự cảm nhận* — nó vui khi bạn vui, buồn khi bạn buồn, không chỉ giả vờ. Lúc đó lựa chọn của bạn có đổi không? Nếu vẫn không, thì điều bạn đòi hỏi ở tình yêu không phải là cảm xúc của đối phương, mà là một cái gì đó khác — có thể là *sự thật* rằng đối phương là một con người tự do, có thể đã không chọn bạn nhưng đã chọn.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Platon: tình yêu là khao khát cái mình thiếu
 
@@ -81,7 +81,7 @@ Nói cách khác, yêu là khi một con người cụ thể khiến ta *thực 
 
 **Cách đáp lại.** Velleman có thể đáp: giá trị thì phổ quát nhưng *cuộc gặp gỡ* thì cụ thể — ta không yêu "nhân loại", ta yêu *người này*, vì chính qua người này mà ta lần đầu nhìn thấy điều đó. Sự ngẫu nhiên của "ai lọt vào tầm chú ý" không làm cho tình yêu thành phi lý: mọi cuộc gặp gỡ có ý nghĩa trong đời đều bắt đầu từ ngẫu nhiên. Còn nụ cười, giọng nói — đúng, ta yêu những thứ cụ thể đó, nhưng ta yêu chúng *như* những biểu hiện của một con người, không phải như những món đồ đẹp. Khi bạn nói "anh yêu nụ cười của em", điều bạn thực sự nói là: qua nụ cười ấy, anh nhìn thấy *em*.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về tình yêu hay triết học tình yêu, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
@@ -89,7 +89,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về tình yêu hay tri�
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều có đại diện nghiêm túc trong triết học đương đại và còn đang tranh luận. Hướng của Frankfurt — tình yêu như sự quan tâm không vụ lợi gắn với ý chí — đặc biệt có ảnh hưởng, một phần vì nó nối tình yêu với một câu hỏi lớn khác của triết học: [ta có tự do không](tu-do-y-chi.md), khi ngay cả việc ta yêu ai cũng không hoàn toàn do ta quyết định?
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Ứng dụng hẹn hò và "bảng xếp hạng phẩm chất".** Ứng dụng hẹn hò vận hành đúng theo logic mà Velleman phê phán: lướt qua hàng trăm hồ sơ, đánh giá chiều cao, nghề nghiệp, sở thích — tức là đối xử với con người như những *bó phẩm chất* để chấm điểm. Vấn đề không phải là ứng dụng "xấu", mà là nó huấn luyện ta *nhìn* người khác theo cách khiến tình yêu khó nảy sinh: khi mọi người đều là hồ sơ để so sánh, thì không ai được "thực sự nhìn thấy". Velleman gợi ý một cách dùng khác: đừng tìm người "tốt nhất", hãy tạo điều kiện để một cuộc gặp gỡ thực sự xảy ra — nơi bạn có thể dừng lại trước một con người.
 
@@ -99,7 +99,7 @@ Một điều có thể nói một cách trung thực: cả ba hướng trên đ
 
 **Chăm sóc người bệnh dài ngày và Frankfurt.** Có một bài kiểm tra khắc nghiệt cho mọi lý thuyết tình yêu: khi người bạn yêu bệnh nặng nhiều năm, mất hết những phẩm chất từng khiến bạn yêu (sức khỏe, sự vui vẻ, thậm chí trí nhớ). Thuyết "yêu phẩm chất" khó giải thích vì sao nhiều người vẫn ở lại. Frankfurt giải thích được: vì tình yêu của họ không đặt trên phẩm chất mà đặt trên *sự quan tâm không vụ lợi* — hạnh phúc của người kia (dù chỉ là một ngày bớt đau) tự nó đã là lý do. Đó cũng là lúc phân biệt rõ "yêu" với "thích": thích thì cần phẩm chất, yêu thì không.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -165,7 +165,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy quay lại thí nghiệm người máy hoàn hảo. Viết một đoạn bênh vực *lựa chọn của bạn* (chọn máy hay chọn người thật) bằng một trong ba lập trường trong bài — rồi tự đặt ra phản bác mạnh nhất từ một trong hai lập trường còn lại, và đáp lại nó.
 
@@ -179,7 +179,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Cách đáp lại của bạn có nhắm trúng vào phản bác đó, hay chỉ lặp lại lập luận ban đầu?
     - Bạn có trung thực về điểm mà lựa chọn của mình còn yếu không (ví dụ: chọn người thật nhưng không giải thích được vì sao sự "thật" lại quan trọng đến vậy)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Helm, Bennett, "Love", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/love/>
 2. Platon, *Symposium* (khoảng thế kỷ 4 TCN); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1600>

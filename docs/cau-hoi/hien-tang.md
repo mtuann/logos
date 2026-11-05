@@ -18,7 +18,7 @@ Bài này hỏi ba câu hỏi: nên mặc định "đồng ý" hay "không đồ
 
 Chữ "hiến tạng" là Hán Việt: *hiến* (獻, dâng lên, trao tặng một cách trang trọng) + *tạng* (臟, nội tạng) — "dâng tặng nội tạng". Tiếng Anh *organ donation* — *donation* gốc Latin *donare* (cho, tặng). Ngay trong cách gọi đã có một tiền đề: đây là *quà tặng*. Nhưng quà tặng thì phải tự nguyện — và toàn bộ tranh luận về opt-out bắt đầu từ việc chất vấn tiền đề đó.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Có hai đất nước A và B, giống nhau mọi mặt. Nước A áp dụng quy định: mọi công dân mặc định được coi là *đồng ý* hiến tạng sau khi chết, trừ khi họ chủ động đăng ký từ chối. Nước B thì ngược lại: mặc định là *không đồng ý*, ai muốn hiến thì phải chủ động đăng ký. Sau 10 năm, nước A có tỷ lệ hiến tạng cao gấp nhiều lần nước B — không phải vì dân nước A tốt bụng hơn, mà vì đa số mọi người... lười làm thủ tục giấy tờ, theo cả hai hướng.
@@ -30,7 +30,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Đây không phải thí nghiệm tưởng tượng thuần túy: nhiều nước châu Âu (Tây Ban Nha từ năm 1979, Áo, Bỉ...) áp dụng mô hình mặc định đồng ý (*opt-out*), trong khi nhiều nước khác (trong đó có Việt Nam) áp dụng mô hình đăng ký tự nguyện (*opt-in*). Chênh lệch giữa hai nhóm về tỷ lệ người *được tính là đồng ý* là rất lớn (nghiên cứu nổi tiếng của Johnson và Goldstein, 2003); còn chênh lệch về số ca hiến thực tế thì nhỏ hơn nhiều và vẫn đang tranh cãi, vì số ca hiến còn phụ thuộc hệ thống y tế và việc gia đình có được hỏi ý kiến hay không. Ngay cả thành công của Tây Ban Nha cũng được chính những người xây dựng hệ thống ở đó quy chủ yếu cho cách tổ chức mạng lưới điều phối ghép tạng, hơn là cho điều khoản mặc định đồng ý trong luật năm 1979. Một biến thể để thử thêm: giả sử bạn *ủng hộ* hiến tạng nhưng chưa bao giờ đăng ký vì lười. Trong mô hình opt-in, sự lười biếng của bạn giết chết những người đang chờ tạng. Bạn có thấy mình chịu một phần trách nhiệm không? Và nếu có, thì "lười" có phải là một lý do đạo đức không?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -42,7 +42,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Opt-out: mặc định đồng ý cứu được nhiều mạng người nhất
 
@@ -74,7 +74,7 @@ Lập trường thứ ba không tranh về opt-in hay opt-out mà đào sâu xu�
 
 **Cách đáp lại.** Người bênh vực tiêu chuẩn chết não đáp: đúng là có một bước nhảy khái niệm, nhưng đó là bước nhảy *có lý do chính đáng*. Mọi định nghĩa về cái chết trong lịch sử — ngừng thở, ngừng tim — đều là những *tiêu chí thực hành* gắn với công nghệ của thời đại, không phải những chân lý siêu hình bất biến. Khi công nghệ hồi sức tim phổi ra đời, "ngừng tim" không còn đồng nghĩa với "chết" nữa — và y học đã cập nhật định nghĩa. Chết não chỉ là lần cập nhật tiếp theo, với cùng logic: cái chết là sự mất *không hồi phục* của sự thống nhất sinh vật, và não là cơ quan của sự thống nhất đó. Còn về các ca như Jahi McMath, họ nói: bi kịch của gia đình là có thật và đáng được tôn trọng trong thực hành (cho gia đình thời gian, không cưỡng ép) — nhưng cảm xúc không phải là tiêu chí y khoa. Và cần trung thực: những ca "chết não rồi tỉnh lại" được lan truyền trên mạng, khi điều tra kỹ, hầu hết là chẩn đoán sai quy trình hoặc nhầm lẫn với các trạng thái khác (như hôn mê) — chứ không phải bằng chứng chống lại tiêu chuẩn.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về hiến tạng hay định nghĩa cái chết, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
@@ -82,7 +82,7 @@ Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "
 
 Một điều có thể nói một cách trung thực: trong đạo đức sinh học đương đại, cả ba hướng trên đều có những đại diện nghiêm túc — opt-out được nhiều nhà đạo đức học y khoa ủng hộ vì hiệu quả cứu người, opt-in được bênh vực bởi những người đặt tự chủ lên hàng đầu, còn tranh luận về chết não thì chưa bao giờ thực sự khép lại kể từ báo cáo Harvard 1968. Nhưng "đều có đại diện nghiêm túc" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tấm thẻ đăng ký hiến tạng trong ví bạn.** Nếu bạn ủng hộ hiến tạng nhưng chưa đăng ký — bạn chính là minh chứng sống cho hiệu ứng mặc định mà lập trường 1 nói đến. Ở Việt Nam (mô hình opt-in), sự "lười biếng" này có hậu quả trực tiếp: danh sách chờ ghép tạng luôn dài hơn nguồn tạng rất nhiều. Câu hỏi thực tế không phải là triết học cao siêu: bạn có dành 10 phút để đăng ký hiến tạng (hiện có thể đăng ký trực tuyến qua Trung tâm Điều phối ghép tạng Quốc gia) và — quan trọng không kém — *nói cho gia đình biết* quyết định của mình không? Vì trong thực tế Việt Nam, ý kiến của gia đình tại thời điểm quyết định có trọng lượng rất lớn.
 
@@ -92,7 +92,7 @@ Một điều có thể nói một cách trung thực: trong đạo đức sinh 
 
 **"Chết phải toàn thây".** Quan niệm truyền thống này — người chết nên được giữ nguyên vẹn — là một trong những rào cản văn hóa lớn nhất với hiến tạng ở Việt Nam và nhiều nước châu Á. Triết học không có nhiệm vụ "xóa bỏ" quan niệm này — đó là một giá trị văn hóa có gốc rễ sâu xa về lòng hiếu thảo và sự tôn kính người đã khuất. Điều triết học có thể làm là đặt câu hỏi: *tôn kính người đã khuất* có nhất thiết đồng nghĩa với *giữ nguyên thân thể* không? Hay tôn kính còn có thể được thể hiện bằng cách để một phần cơ thể họ tiếp tục cứu sống người khác — một sự "sống tiếp" theo nghĩa đẹp nhất? Đây không phải là câu hỏi có đáp án đúng duy nhất; đây là câu hỏi mà mỗi gia đình, mỗi cá nhân phải tự trả lời — nhưng nên trả lời sau khi đã nghĩ kỹ, không phải trong lúc tang gia bối rối.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -158,7 +158,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn được mời phát biểu 3 phút trước một hội đồng đang cân nhắc chuyển từ mô hình opt-in sang opt-out. Hãy viết bài phát biểu của bạn — chọn một phe (ủng hộ hoặc phản đối việc chuyển đổi) — nhưng với điều kiện: bạn phải dành ít nhất một phần ba thời lượng để trình bày *lập luận mạnh nhất của phe đối lập* một cách công bằng, trước khi đưa ra kết luận của mình.
 
@@ -173,7 +173,7 @@ Gợi ý độ dài: 250–400 chữ.
     - Bạn có đề cập đến bối cảnh Việt Nam cụ thể (niềm tin, thủ tục, vai trò gia đình)?
     - Bài phát biểu có tính đến cái giá của lựa chọn mình đề xuất (mọi chính sách đều có đánh đổi)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Ad Hoc Committee of the Harvard Medical School (1968), "A Definition of Irreversible Coma", *JAMA*, vol. 205, no. 6, tr. 337–340.
 2. Wilkinson, Martin & Stephen Wilkinson, "The Donation of Human Organs", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/organ-donation/>

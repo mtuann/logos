@@ -19,7 +19,7 @@ Cuộc cãi nhau chứa hai loại bất đồng. Về *sự kiện*: đánh đ�
 
 Còn câu của bố? Nếu đúng sai chỉ do xã hội quy định, thì ở xã hội chấp nhận buôn bán nô lệ, buôn bán nô lệ là *đúng*. Nếu thấy kết luận ấy không ổn, bạn đang ngầm tin có một chuẩn mực đứng trên tục lệ — nhưng nó là gì, ở đâu? Đó là câu hỏi của **siêu đạo đức học** (*metaethics*).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Sử gia Hy Lạp Herodotus (thế kỷ 5 TCN) kể: vua Ba Tư Darius hỏi những người Hy Lạp đang sống trong vương quốc của ông phải trả bao nhiêu tiền thì họ chịu *ăn* thi hài cha khi cha mất. Người Hy Lạp, vốn có tục thiêu người chết, đáp: không giá nào cả. Rồi Darius hỏi những người Callatiae — một tộc người ở Ấn Độ có tục ăn thi hài cha mẹ — phải trả bao nhiêu thì họ chịu *thiêu* thi hài cha. Họ kêu lên kinh hãi, xin nhà vua đừng nói những lời như thế.
@@ -35,7 +35,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
     Một biến thể để thử thêm: một cộng đồng coi việc hành hạ trẻ em cho vui là bình thường. Bạn có còn nói "tục nào đúng với người theo tục ấy" không? Nếu câu trả lời đổi, hai trường hợp khác nhau ở điểm nào?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Phần lớn các bài đạo đức trên Logos Zero hỏi *bên trong* đạo đức — hành động nào đúng, ăn thịt có sai không — tức là **đạo đức học chuẩn tắc** (*normative ethics*); xem [Hành động đúng là gì?](dao-duc-hanh-dong.md). Siêu đạo đức học lùi lại một bước, với ba câu hỏi:
 
@@ -49,7 +49,7 @@ Phần lớn các bài đạo đức trên Logos Zero hỏi *bên trong* đạo 
 
 **Hai câu hỏi cổ điển.** Trong *Euthyphro* của [Platon](../triet-gia/platon.md) (10a), [Socrates](../triet-gia/socrates.md) hỏi: điều mộ đạo (*hosion*) được các thần yêu *vì* nó mộ đạo, hay nó mộ đạo *vì* được các thần yêu? (Xem [phép biện chứng Socrates](../cong-cu/bien-chung-socrates.md).) Thay "các thần" bằng "xã hội", **thế lưỡng nan Euthyphro** (*Euthyphro dilemma*) chĩa vào câu của bố: xã hội tán thành điều đúng vì nó đúng — vậy đúng sai có trước xã hội? Hay nó đúng vì được tán thành — vậy tán thành hành hạ trẻ em thì việc ấy thành đúng? Câu hỏi cổ điển thứ hai, của [David Hume](../triet-gia/hume.md) — từ "là" có suy ra được "phải" không — chờ bạn ở mục Đọc văn bản gốc.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Hiện thực luận: có sự thật đạo đức, và ta có thể đúng hoặc sai về nó
 
@@ -105,7 +105,7 @@ Hai lập luận: **lập luận từ tính tương đối** (*argument from rel
 
 **Cách đáp lại.** Korsgaard: ràng buộc đến từ chính điều kiện để là tác nhân có lý trí — ai chọn lý do để hành động là đã ngầm cam kết với những chuẩn mực nhất định, kẻ ác cũng vậy. Rawls: kiến tạo luận không biết trước kết quả, mà mô tả học thuyết vững chắc nhất sẽ trông ra sao *sau khi* suy xét phê phán đầy đủ. Kiến tạo luận là một dạng hiện thực luận hay đối lập với nó — chính những người theo nó cũng chưa thống nhất.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sung (chỉ hỏi ai chọn trả lời thêm) của khảo sát PhilPapers 2020 liên quan trực tiếp tới bài:
 
@@ -132,7 +132,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Câu bổ sung chia nhỏ hơn**: không lập trường nào vượt một phần ba; câu này có mẫu khác nên đừng so thẳng với câu chính. Không có lựa chọn "tương đối luận".
 - **Thận trọng với mẫu**: triết gia chuyên nghiệp ở các nước nói tiếng Anh hoặc có công bố bằng tiếng Anh, đại đa số theo truyền thống phân tích — chính các tác giả thừa nhận bộ câu hỏi thiên về triết học phân tích. Số đông không phải phán quyết về chân lý.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Khi các thế hệ cãi nhau về "lệ".** Bài này gợi ba bước: tách sự kiện khỏi giá trị ("nếu cùng biết mọi dữ kiện, ta còn bất đồng không?"); hỏi kiểu Euthyphro ("lệ này đúng vì ông bà làm thế, hay ông bà làm thế vì nó đúng?"); và nhớ rằng phê phán một tục lệ không nhất thiết là đem chuẩn mực nơi khác về — người ta thường dùng chính giá trị truyền thống đề cao, như lòng nhân, sự hiếu thảo. Người bênh vực tục lệ cũng có thể chỉ ra giá trị nó phục vụ, thay vì "xưa nay vẫn thế".
 
@@ -142,7 +142,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 **"Đó là quan điểm của bạn".** Trên mạng, câu này hay dùng để kết thúc tranh luận, như thể đạo đức chỉ là khẩu vị — dù ngay người theo biểu cảm luận cũng thấy thái độ có thể nhất quán hay bất nhất. Trước khi cãi, hãy hỏi: ta bất đồng về sự kiện hay về giá trị? Về sự kiện thì tìm bằng chứng (xem [Khi người giỏi cãi nhau](bat-dong-tri-thuc.md)); về giá trị thì dựng lại lập trường bên kia ở dạng mạnh nhất (xem [Luận cứ thép](../cong-cu/luan-cu-thep.md)).
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây, trong *Khảo luận về bản tính con người* (*A Treatise of Human Nature*, quyển 3, 1740), là gốc của **vấn đề "là – phải"** (*is–ought problem*): theo cách hiểu phổ biến ở thế kỷ 20, không thể suy ra "phải" chỉ từ tiền đề thuần sự kiện. Hume thật sự muốn nói gì vẫn còn tranh cãi.
 
@@ -158,7 +158,7 @@ Câu hỏi dẫn dắt:
 
 Muốn đọc Hume kỹ hơn ở một chủ đề khác, xem [Đọc Hume về nhân quả](../doc/hume-nhan-qua.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi đặt lập luận vào tình huống mới.
 
@@ -174,7 +174,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi đặt lập luận
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Chọn một chuẩn mực mà thế hệ ông bà và thế hệ bạn nhìn khác nhau ("thương cho roi cho vọt", con cái phải nghe cha mẹ trong chuyện hôn nhân…). Có người nói: "Đạo đức là do xã hội quy định, thời nào theo thời nấy." Bạn đồng ý đến đâu? Hãy (1) tách phần bất đồng về sự kiện và về giá trị; (2) chọn một lập trường trong bài để bênh vực câu trả lời; (3) nêu phản bác mạnh nhất với lập trường ấy và đáp lại. Gợi ý: thử áp câu hỏi Euthyphro vào chuẩn mực bạn chọn.
 
@@ -186,7 +186,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Phản bác bạn nêu có phải phản bác mạnh nhất không?
     - Bạn có trình bày quan điểm mình không đồng ý ở dạng mạnh nhất không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/metaethics/>
 2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-realism/>

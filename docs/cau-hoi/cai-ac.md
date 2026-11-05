@@ -18,7 +18,7 @@ Bài này hỏi ba câu hỏi: cái ác là một *thực thể* (một thế l�
 
 Chữ "ác" là Hán Việt (惡): xấu xa, độc ác. Tiếng Anh *evil* (tiếng Anh cổ *yfel*, họ hàng với tiếng Đức *übel*) bắt nguồn từ một gốc German nguyên thủy được phục dựng là *ubilaz*; nghĩa xa hơn của gốc này chưa chắc chắn — một giả thuyết cũ nối nó với nghĩa "vượt quá giới hạn", thái quá. Nếu giả thuyết ấy đúng, gốc chữ gợi ý một điều thú vị: ác không chỉ là "xấu" (như món ăn dở, bài hát chán), mà là cái *vượt giới hạn chịu đựng* — điều không thể dung thứ, không thể biện minh.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Ông K. là nhân viên điều phối tàu hỏa. Suốt năm năm, công việc của ông là ký giấy tờ điều những đoàn tàu chở tù nhân đến các trại tập trung. Ông không căm ghét ai, không hô khẩu hiệu, không đọc diễn văn căm thù. Ông chỉ làm đúng quy trình, tăng ca khi cấp trên yêu cầu, và được đánh giá là nhân viên mẫn cán. Về nhà, ông là người chồng chung thủy, người cha thương con, người hàng xóm lịch sự.
@@ -32,7 +32,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử ông K. *thực sự không biết* những đoàn tàu đi đâu — cấp trên bảo là "trại lao động", ông không hỏi thêm, không đọc báo, không tò mò. Sự "không biết" đó có miễn tội cho ông không? Và nếu bạn trả lời "không, ông phải biết" — thì bạn đang đòi hỏi con người một nghĩa vụ gì: nghĩa vụ *tìm hiểu* về hậu quả việc mình làm? Nghĩa vụ đó có giới hạn ở đâu — ông K. có phải điều tra mọi tờ giấy ông ký trong đời không?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -44,7 +44,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Arendt: tính tầm thường của cái ác
 
@@ -82,7 +82,7 @@ Theo lập trường này, ông K. trong thí nghiệm — nếu thực sự kh�
 
 **Cách đáp lại.** Người theo lập trường này phân biệt *kẻ ác* với *cái ác*: một *hệ thống* có thể là "ác" (gây ra điều ác, vận hành theo logic ác) mà không phải mọi cá nhân trong đó đều là "kẻ ác" theo nghĩa đầy đủ — cũng như một cỗ máy có thể "giết người" mà không có bộ phận nào là "kẻ giết người". Còn ông K.: nếu ông thực sự không hiểu việc mình làm, thì tội của ông không phải là "có ý định ác" mà là *đã không chịu hiểu* — đó là một thất bại đạo đức nghiêm trọng (Arendt gọi là "không suy nghĩ"), đáng bị lên án và trừng phạt, nhưng khác về *loại* với tội của kẻ chủ mưu có ý định diệt chủng. Phân biệt các loại tội không phải để tha bổng ai — mà để kết án cho *đúng tội*.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về bản chất của cái ác — không hỏi "cái ác là thực thể hay sự thiếu vắng", cũng không hỏi "cái ác có cần ý định không" — nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
@@ -90,7 +90,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về bản chất của c
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều có đại diện nghiêm túc và còn đang tranh luận. Đặc biệt, câu hỏi "ác có cần ý định không" ngày càng thời sự khi cái ác mang tính hệ thống nhiều hơn — từ biến đổi khí hậu (không ai "định" làm hại, nhưng hậu quả là thật) đến các thuật toán gây hại mà không programmer nào "định" gây hại. Triết học về cái ác, vì thế, không phải là chuyện của quá khứ — nó là câu hỏi về chính thế giới ta đang sống.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Tôi chỉ làm theo quy trình" trong công sở.** Ông K. không chỉ tồn tại trong lịch sử. Trong mọi tổ chức lớn, đều có những quyết định gây hại mà không ai cảm thấy mình chịu trách nhiệm: người này chỉ "soạn văn bản", người kia chỉ "ký duyệt", người khác chỉ "chuyển tiếp". Mỗi mắt xích đều vô hại; cả chuỗi thì gây hại. Arendt cho bạn câu hỏi để tự kiểm tra: lần cuối cùng bạn làm một việc mà bạn *nghi ngờ* về mặt đạo đức nhưng vẫn làm vì "quy trình yêu cầu", "sếp bảo", "ai cũng làm vậy" — là khi nào? Sự khác biệt giữa bạn và ông K. có chắc là bản chất, hay chỉ là quy mô của hậu quả?
 
@@ -100,7 +100,7 @@ Một điều có thể nói một cách trung thực: cả ba hướng trên đ
 
 **Phân biệt "xấu tính" và "vô tâm" trong quan hệ cá nhân.** Trong đời sống riêng, ta cũng cần phân biệt của lập trường 3: người bạn *cố ý* nói câu làm bạn tổn thương (xấu tính) khác với người bạn *vô tâm* nói câu làm bạn tổn thương (không nghĩ). Cả hai đều gây đau, nhưng cách ứng xử đúng khác nhau: với kẻ xấu tính, ta cần ranh giới và khoảng cách; với người vô tâm, ta cần nói cho họ *thấy* hậu quả — vì vấn đề của họ không phải là ý định xấu mà là sự không suy nghĩ. Nhầm lẫn hai loại này — đối xử với người vô tâm như kẻ xấu tính, hay tha thứ cho kẻ xấu tính như thể họ chỉ vô tâm — đều dẫn đến những quyết định sai lầm trong các mối quan hệ.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -168,7 +168,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy lấy một ví dụ về "cái ác không cần ý định" trong đời sống hôm nay (một quy trình công sở, một thuật toán, một đám đông trên mạng, một chính sách...) và phân tích: Arendt sẽ nói gì về ví dụ đó? Augustine sẽ nói gì? Và lập trường "ác cần ý định" sẽ phản đối hai người kia ở điểm nào? Cuối cùng, bạn đứng về phía nào — và cái giá của việc đứng về phía đó là gì?
 
@@ -182,7 +182,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có nêu được cái giá của lập trường mình chọn (mỗi lập trường đều có điểm mù — xem lại các phản bác)?
     - Bài viết có trung thực về sự thoải mái của chính bạn không (viết về cái ác mà mình vẫn thấy thoải mái thì có gì đó sai)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/concept-evil/>
 2. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.

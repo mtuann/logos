@@ -15,13 +15,13 @@ updated: 2026-10-22
     - **Đọc toàn văn:** [CBETA, T0251](https://cbetaonline.dila.edu.tw/zh/T0251_001) (nguyên văn chữ Hán); bản phiên âm và dịch của Trần Trọng Kim trong sách *Phật giáo*, trên [Wikisource tiếng Việt](https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh) (phạm vi công cộng).
     - **Phiên âm trong bài:** theo cách đọc dùng khi tụng ở chùa Việt Nam; bản Trần Trọng Kim đọc khác vài chữ (Quan Tự-tại, Xá-lị-tử, thụ, khuể-ngại). **Bản dịch:** của Logos Zero. **Thời gian đọc:** khoảng 15 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh luận trong Phật giáo Ấn Độ. Các trường phái A-tì-đạt-ma (*Abhidharma*) phân tích con người và thế giới thành những yếu tố gọi là "pháp" (*dharma*), và dần đi tới chỗ coi mỗi pháp có một **tự tính** (*svabhāva*), bản chất riêng xác định nó. Tên của phái Thuyết nhất thiết hữu bộ (*Sarvāstivāda*) có nghĩa là "những người chủ trương mọi thứ đều có" (Ronkin, SEP). Hệ kinh Bát nhã đi ngược lại: không pháp nào có tự tính cả.
 
 [Long Thọ](../triet-gia/nagarjuna.md) (Nagarjuna, khoảng 150–250) biến tư tưởng ấy thành một hệ thống lập luận, gọi là Trung quán (*Madhyamaka*), "con đường ở giữa" (Westerhoff, SEP). Tâm kinh không lập luận; nó tuyên bố, cô đọng đến mức tụng thuộc được. Muốn thấy lý lẽ đằng sau, ta phải đọc nó cạnh Long Thọ, như phần dưới sẽ làm.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Năm uẩn đều không
 
@@ -75,7 +75,7 @@ Câu chú để nguyên âm, không dịch khi tụng. Chú thích của bản �
 
 > Câu hỏi: Vì sao một văn bản đầy phủ định lại kết bằng câu chú, thứ không phân tích được bằng lý lẽ? Đó có phải là thừa nhận giới hạn của ngôn từ không?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Mọi pháp, kể cả năm uẩn, đều do duyên sinh: có là nhờ những cái khác.
 - **P2.** Cái gì do duyên sinh thì không có tự tính (không tự mình mà có).
@@ -91,24 +91,24 @@ Soi từng bước:
 - Từ P1–P3 tới K1 là **suy diễn** (*deductive*).
 - P5 là **giả định ngầm** (*hidden assumption*) về tâm lý: hiểu một điều chưa chắc đã đổi được thói quen bám víu. Chính câu mở đầu nói tới việc "thực hành sâu", ngầm thừa nhận rằng chỉ hiểu thôi chưa đủ.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Đây là hư vô chủ nghĩa.** "Tất cả đều không" thì mọi thứ vô nghĩa, tu hành làm gì? Lời buộc tội này có từ thời Ấn Độ cổ và vẫn còn người theo (Westerhoff, SEP). *Cách đáp lại:* những người theo Trung quán nói rõ lập trường của họ tránh cả hai cực: tin có tự tính, và cực ngược lại là hư vô. Long Thọ viết: "Pháp do các duyên sinh ra, ta nói chính là không; đó cũng là tên tạm đặt, cũng là nghĩa trung đạo" (眾因緣生法，我說即是無，亦為是假名，亦是中道義, *Trung luận* 24.18, bản Cưu-ma-la-thập). Duyên khởi, tính không và trung đạo là một.
 
 **Từ trong Phật giáo: thế thì đạo đức sụp đổ.** Người phản biện trong *Trung luận* nói: "Nếu tất cả đều không, không sinh cũng không diệt, thì không có pháp Tứ thánh đế" (若一切皆空，無生亦無滅，如是則無有，四聖諦之法, 24.1); nhân quả, tu tập, nghiệp báo đều mất chỗ đứng. *Cách đáp lại:* Long Thọ lật ngược: "Vì có nghĩa không mà mọi pháp được thành; nếu không có nghĩa không thì mọi pháp đều chẳng thành" (以有空義故，一切法得成；若無空義者，一切則不成, 24.14). Nếu khổ có tự tính cố định, nó không thể bị diệt; chính vì mọi thứ do duyên mà có nên mới thay đổi được, mới có tu tập.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Không nghĩa là không có gì."** "Không" là không có tự tính. Cái điện thoại vẫn gọi được; nó chỉ không tồn tại độc lập với linh kiện, nhà máy, sóng điện và người dùng.
 - **"Kinh phủ nhận Tứ diệu đế."** Các phủ định nằm "trong cái không" (空中): giáo lý cũng không có tự tính như mọi pháp, nhưng vẫn là phương tiện có ích; Long Thọ gọi đó là "tên tạm đặt" (假名).
 - **"Tâm kinh là lời Đức Phật nói."** Trong bản ngắn của Huyền Trang, người nói là Bồ tát Quán Tự Tại, người nghe là Xá Lợi Tử. Các bản dài (như T253) mới thêm phần mở đầu "Tôi nghe như vầy", với [Đức Phật](../triet-gia/duc-phat.md) đang nhập định trên núi Kỳ Xà Quật.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. "Không có tự tính độc lập": thử áp dụng vào một thứ bạn đang bám víu (một danh xưng, một mối quan hệ, một quan điểm). Nhìn nó như "do duyên mà có" thay đổi cảm giác của bạn ra sao?
 2. Kinh nói cả giáo lý cũng không có tự tính. Có nguyên tắc nào mà chính bạn sẵn sàng buông khi nó trở thành xiềng xích không? Đó là nguyên tắc gì?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -123,14 +123,14 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md) — bối cảnh Phật giáo ra đời và các trường phái tranh luận
 - [Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — cái "không" của [Lão Tử](../triet-gia/lao-tu.md) (chương 11) đặt cạnh cái "không" của Bát nhã: giống và khác ở đâu?
 - [Cái 'tôi' là gì?](../cau-hoi/cai-toi.md) — năm uẩn và câu hỏi về bản ngã trong triết học hiện đại
 - [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md) — tinh thần Bát nhã trong Phật giáo Việt Nam thời Trần
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Bát nhã Ba la mật đa Tâm kinh* (般若波羅蜜多心經), Huyền Trang dịch, *Đại chính tân tu Đại tạng kinh* T08 n0251, CBETA. <https://cbetaonline.dila.edu.tw/zh/T0251_001>
 2. Bản dài: *Bát nhã Ba la mật đa Tâm kinh*, Bát Nhã và Lợi Ngôn dịch, T08 n0253, CBETA. <https://cbetaonline.dila.edu.tw/zh/T0253_001>

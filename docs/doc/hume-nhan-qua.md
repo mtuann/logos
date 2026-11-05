@@ -17,13 +17,13 @@ Văn bản này đáng đọc vì nó đụng vào thứ ta tin chắc nhất: r
     - **Đọc toàn văn:** [Project Gutenberg](https://www.gutenberg.org/ebooks/9662) (bản Selby-Bigge 1902, theo ấn bản 1777; nguyên văn dưới đây chép theo bản này). "EHU 4.21" là mục IV, đoạn 21, theo cách đánh số của các ấn bản hiện đại, như trên [Hume Texts Online](https://davidhume.org/texts/e/).
     - **Thời gian đọc:** khoảng 15 phút cho các đoạn trích; chừng 2 giờ cho trọn ba mục.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Hume theo **duy nghiệm luận** (*empiricism*): mọi ý niệm là bản sao của một **ấn tượng** (*impression*), tức tri giác sống động "khi ta nghe, thấy, cảm, yêu, ghét, ham muốn hay quyết ý" (EHU 2.3–2.5), gồm cả cảm giác bên ngoài lẫn cảm xúc bên trong. Gặp một chữ triết học khó hiểu, hãy hỏi: ý niệm ấy sao chép từ ấn tượng nào?
 
 Nhân quả là phép thử khó nhất. Các triết gia nói nhiều về "sức mạnh", "mối liên hệ tất yếu" giữa nguyên nhân và kết quả. Hume hỏi: ta thấy, nghe, cảm được những thứ ấy ở đâu?
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Cây cầu duy nhất (EHU 4.1–4.4)
 
@@ -75,7 +75,7 @@ Các sự việc "có vẻ *đi liền nhau*, nhưng không bao giờ *nối v�
 
 *Thử áp vào đời sống: bạn uống cà phê rồi tỉnh táo. Bạn có "thấy" cà phê gây tỉnh táo, hay chỉ thấy hai việc đi liền nhau nhiều lần?*
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Mọi suy luận về sự việc ngoài giác quan và trí nhớ đều dựa trên nhân quả. (EHU 4.4)
 - **P2.** Hiểu biết về nhân quả chỉ đến từ kinh nghiệm. (EHU 4.6)
@@ -87,7 +87,7 @@ Các sự việc "có vẻ *đi liền nhau*, nhưng không bao giờ *nối v�
 
 Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định ngầm** (*hidden assumption*): một niềm tin chỉ có lý khi được một *lập luận* ủng hộ; nhiều phản bác hiện đại nhắm vào chỗ này. K2 không phải suy diễn mà là **suy luận đến lời giải thích tốt nhất**: thói quen giải thích được vì sao một nghìn lần lặp lại cho ta điều mà một lần không cho (EHU 5.5).
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **1. Kant: nhân quả là khuôn của tâm trí.** [Kant](../triet-gia/kant.md) kể rằng ký ức về Hume đã "cắt ngang giấc ngủ giáo điều" của ông (*Prolegomena*, 1783). Theo Kant, nhân quả là một phạm trù tâm trí áp lên mọi kinh nghiệm, nên ta biết *tiên nghiệm* (*a priori*) rằng mọi biến cố đều có nguyên nhân.
 
@@ -110,20 +110,20 @@ Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định 
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1–2; phần còn lại là "Khác". Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu bổ sung phần lớn do người tự nguyện trả lời. Khảo sát không hỏi vấn đề quy nạp đã được giải chưa.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Hume nói nhân quả không có thật."** Ông viết rằng "ai cũng thừa nhận không gì tồn tại mà không có nguyên nhân" (EHU 8.25) và còn định nghĩa nguyên nhân (EHU 7.29). Điều ông bác bỏ là ta *thấy* hay *chứng minh* được mối liên hệ tất yếu.
 - **"Hume bảo đừng tin kinh nghiệm và khoa học."** Ngược lại: "tự nhiên sẽ luôn giữ quyền của mình" (EHU 5.2), và "người khôn ngoan cân niềm tin của mình theo bằng chứng" (EHU 10.4). Câu hỏi của ông là quy nạp được *biện minh* thế nào, không phải có nên dùng nó không.
 - **"Hume chỉ là một nhà hoài nghi."** Nhiều người đọc nhấn mạnh phần tự nhiên luận: Hume giải thích niềm tin bằng bản tính con người (xem bảng trên).
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 - Viết ra mọi lý do bạn có để tin mặt trời sẽ mọc ngày mai, rồi kiểm tra xem lý do nào không ngầm giả định "tương lai giống quá khứ".
 - Nếu một người ngoài hành tinh chỉ quan sát loài người qua camera mà chưa bao giờ "cảm" được nhân quả, họ có thể làm khoa học không?
 - Một mô hình AI dự báo dựa trên dữ liệu quá khứ. Nó giải quyết vấn đề quy nạp, hay chỉ là "thói quen" bằng máy?
 - Hume nói thói quen, không phải lý trí, giữ ta sống được. Điều đó làm bạn yên tâm hay bất an hơn?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được lập luận đến đâu.
 
@@ -137,14 +137,14 @@ Thử xem bạn nắm được lập luận đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Khoa học khác gì phi khoa học?](../cau-hoi/khoa-hoc.md) — nếu nhân quả không có nền móng lý tính, khoa học đứng trên cái gì?
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — vấn đề quy nạp, thách thức lớn của tri thức luận.
 - [Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md) — các lý thuyết nhân quả sau Hume.
 - [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md) — quy nạp trong đời thường.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Hume, David (1748), *An Enquiry concerning Human Understanding*, bản L. A. Selby-Bigge (1902), Project Gutenberg <https://www.gutenberg.org/ebooks/9662>; số đoạn theo Hume Texts Online <https://davidhume.org/texts/e/>
 2. Hume, David (1777), "My Own Life", MOL 6 và 8. <https://davidhume.org/texts/mol>

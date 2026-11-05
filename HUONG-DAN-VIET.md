@@ -125,6 +125,8 @@ Quiz (tự kiểm tra), viết **đúng** như sau, JSON hợp lệ, không có 
 Công cụ nhận ra ngụy biện nhúng vào trang: `<div class="oz-fallacy-trainer" data-count="10"></div>`.
 Thẻ ghi nhớ: `<div class="oz-flashcards"></div>`.
 
+Mỗi mục H2 mang ID cố định viết tay, để đổi tiêu đề không làm gãy link và không mở khóa đơn vị đã kiểm: `## Các lập trường chính {#cac-lap-truong-chinh}`. Mục mới: build rồi chạy `python tools/add_heading_ids.py` để tool gắn ID; đổi tiêu đề thì giữ nguyên ID cũ.
+
 Link nội bộ: dùng đường dẫn tương đối tới file `.md`, ví dụ `[lập luận](../cong-cu/lap-luan-la-gi.md)`.
 
 Triết gia: lần đầu nhắc tới một người đã có trang trong `docs/triet-gia/`, đặt link tới trang đó, ví dụ `[Hume](../triet-gia/hume.md)` (chỉ lần đầu; không đặt trong tiêu đề, trích dẫn nguyên văn, quiz hay mục Nguồn). Trang triết gia tự liệt kê các bài có link tới nó, nên sau khi thêm link hãy chạy `python tools/philosophers.py`.

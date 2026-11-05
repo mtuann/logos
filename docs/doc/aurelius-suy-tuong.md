@@ -17,13 +17,13 @@ updated: 2026-10-22
     - **Bản dịch được trích:** George Long (1862; phạm vi công cộng). Số như "IV.48" là quyển IV, mục 48.
     - **Thời gian đọc:** các đoạn chọn khoảng 10 phút; cả sách vài buổi tối.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Marcus sinh năm 121, được hoàng đế Antoninus Pius nhận làm con nuôi và nối ngôi năm 161. Triều đại của ông liên miên chiến tranh với các bộ tộc Germania, nổi loạn ở miền bắc nước Ý và Ai Cập, cộng thêm một trận dịch lớn. Ông được giáo dục kỹ về hùng biện và triết học; trong quyển I, ông cảm ơn những người thầy Khắc kỷ, trong đó có Rusticus, người đã cho ông đọc các bài giảng của [Epictetus](../triet-gia/epictetus.md) (I.7).
 
 Ông không viết để tranh luận với một trường phái nào; nhưng có một câu hỏi ông cứ quay lại: nếu vũ trụ không có thiên ý sắp đặt, mà chỉ là các nguyên tử va vào nhau như phái [Epicurus](../triet-gia/epicurus.md) nói, thì sao (IV.3)? Ông cũng tự răn mình: "hãy coi chừng, đừng để mình hóa thành một Caesar, đừng để bị nhuộm màu ấy" (VI.30). Người có tất cả quyền lực, viết để tự nhắc rằng quyền lực không đáng tin.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 **Đoạn 1 — Buổi sáng (II.1).** Mở đầu quyển II là một bài tập chuẩn bị tinh thần:
 
@@ -96,7 +96,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
 *"Đón nhận mọi việc" có áp dụng được cho bất công không? Khi nào chấp nhận là khôn ngoan, khi nào là đồng lõa?*
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Điều làm ta khổ không phải sự việc bên ngoài, mà là phán đoán của ta về nó (VIII.47).
 - **P2.** Phán đoán của ta nằm trong quyền của ta: ta có thể xóa nó (VIII.47).
@@ -107,7 +107,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
 Từ P1–P5 đến K là **suy diễn** (*deductive*). P3 có dạng **lưỡng nan** (*dilemma*): hình thức hợp lệ, nhưng cần mỗi vế đều thuyết phục. P5 là học thuyết giá trị của Khắc kỷ, hiếm khi được Marcus nói thẳng nhưng gánh phần nặng nhất: nếu sức khỏe hay người thân cũng là điều tốt thật sự, thì mất chúng là mất thật, và nỗi buồn không chỉ là "phán đoán sai".
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Phái Peripatetic: cảm xúc vừa phải mới là tự nhiên.** Những người theo [Aristotle](../triet-gia/aristotle.md) (tên phái có lẽ lấy từ lối đi dạo, *peripatos*, ở trường Lyceum) cho rằng giận đúng lúc, đúng mức trước bất công là đức hạnh, không phải yếu đuối. Khắc kỷ thì cho rằng những cảm xúc như giận và sợ luôn không thích đáng. Gạt chúng đi, phải chăng là biến con người thành tượng đá?
 
@@ -121,19 +121,19 @@ Từ P1–P5 đến K là **suy diễn** (*deductive*). P3 có dạng **lưỡng
 
 **Cách đáp lại:** Marcus dùng cái nhìn ấy để thu nhỏ danh tiếng và cơn giận, không phải bổn phận: "đừng bàn nữa về việc người tốt phải ra sao, hãy là người như thế" (X.16).
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Suy tưởng là sách hoàng đế viết để dạy đời."** Ông viết cho chính mình; các học giả hiện nay nhìn chung đồng ý như vậy. Vì thế sách lặp lại nhiều, không theo trật tự, và tên sách cũng không phải của ông.
 - **"Memento mori là câu của Marcus."** Ông viết bằng tiếng Hy Lạp; cụm Latin *memento mori* (hãy nhớ mình sẽ chết) là của truyền thống về sau. Ý thì có trong sách, chữ thì không.
 - **"Khắc kỷ là cam chịu."** Xem VIII.47: đón nhận điều đã xảy ra, và hành động với điều còn làm được.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Chọn một việc ngoài tầm kiểm soát đang làm bạn khổ. Viết ra: phần nào bạn thật sự không kiểm soát được, và phần nào (thái độ, hành động tiếp theo) vẫn là của bạn?
 2. Aurelius viết nhật ký cho chính mình, không cho ai đọc. Bạn có một "cuốn Suy tưởng" của riêng mình không, và nếu có người đọc được, bạn có còn dám viết thật?
 3. Thử bài tập buổi sáng ở II.1 trong một tuần. Nó thay đổi cách bạn phản ứng với người khó chịu thế nào?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -148,14 +148,14 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Epictetus: Cẩm nang](epictetus-cam-nang.md) — cùng trường phái Khắc kỷ, công thức "tầm kiểm soát" sắc bén nhất
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus và Nagel tranh luận với lời nhắc "hãy nhớ mình sẽ chết"
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — cái nhìn từ trên cao có làm đời người vô nghĩa không?
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh các trường phái Hy Lạp–La Mã
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch tiếng Anh của George Long (1862; phạm vi công cộng), Project Gutenberg #15877. <https://www.gutenberg.org/ebooks/15877>
 2. Marcus Aurelius, *Meditations*, bản dịch Meric Casaubon (1634), Project Gutenberg #2680. <https://www.gutenberg.org/ebooks/2680>

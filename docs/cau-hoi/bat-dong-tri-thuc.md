@@ -21,7 +21,7 @@ Bài này thuộc về một nhánh tri thức luận còn khá trẻ — bùng 
 
 Chú ý: câu hỏi này khác với việc bất đồng với một đứa trẻ (nó thiếu kiến thức) hay với một kẻ chuyên tung tin vịt (hắn thiếu trung thực). Ở đó, bạn có lý do rõ ràng để giữ nguyên ý mình. Trường hợp khó — và thú vị — là khi người kia *không có điểm yếu nào* mà bạn có thể chỉ ra: cùng dữ liệu, cùng trình độ, cùng cẩn thận, mà vẫn nghĩ khác bạn.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hai bác sĩ, giả sử tên là An và Bình. Cả hai tốt nghiệp cùng trường với điểm số ngang nhau, cùng hai mươi năm kinh nghiệm, cùng nổi tiếng cẩn thận. Một bệnh nhân làm cùng một bộ xét nghiệm, gửi kết quả cho cả hai — độc lập, không ai biết người kia nói gì.
@@ -36,7 +36,7 @@ Chú ý: câu hỏi này khác với việc bất đồng với một đứa tr�
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Các triết gia gọi tình huống trên là **bất đồng giữa những người ngang tài** (*peer disagreement*): hai **người ngang tài về mặt tri thức** (*epistemic peer*) — ngang nhau về bằng chứng, năng lực và sự cẩn thận — đi đến kết luận khác nhau.
 
@@ -52,7 +52,7 @@ Thuyết hòa giải thường được cho là dựa trên một giả định 
 
 Câu hỏi của bài này: *khi nhận được bằng chứng bậc cao đó, ta nên điều chỉnh độ tin của mình thế nào?* Nên lùi lại, hay giữ vững?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Thuyết hòa giải: gặp người ngang tài bất đồng thì lùi một bước
 
@@ -113,7 +113,7 @@ Chẩn đoán này tạo ra áp lực khác nhau lên hai phe:
 
 Một hệ quả thực tế: có người cho rằng trong đạo đức, ta càng không nên "khoán" niềm tin cho người khác — kể cả chuyên gia. Tin một điều đạo đức *chỉ vì* nghe người khác nói có vẻ thiếu một điều gì đó mà tin một điều khoa học không thiếu. (Đây cũng là chỗ nối với câu hỏi về [lời chứng](loi-chung.md): có phải lĩnh vực nào cũng tin lời người khác như nhau?)
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không hỏi thẳng câu hỏi trung tâm của bài này — gặp người ngang tài bất đồng thì nên hòa giải hay kiên định. Nhưng có một câu hỏi bổ sung chạm đúng vào giả định nằm bên dưới cuộc tranh luận: *hai người có cùng bằng chứng có thể bất đồng với nhau mà vẫn hợp lý không?* Trả lời "không thể" là theo luận đề duy nhất; trả lời "có thể" là theo thuyết cho phép. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -137,7 +137,7 @@ Ngoài con số ấy, điều có thể nói chắc chắn là đây là một t
 
 Một điểm đáng chú ý: ngay cả những người đứng về hai phe đối lập cũng đồng ý rằng *hiện tượng* bất đồng ngang tài là có thật và đáng được giải thích. Tranh luận không phải về việc "có nên quan tâm đến ý kiến người khác không" — ai cũng đồng ý là có — mà về việc quan tâm *đến mức nào* và *bằng cách nào*.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tranh cãi vaccine và biến đổi khí hậu: đây không phải "bất đồng ngang tài".** Đây là điểm mà bài này muốn làm rõ nhất. Thuyết hòa giải chỉ nói về bất đồng giữa những người *thực sự* ngang tài về bằng chứng và năng lực. Trong tranh cãi vaccine, một bên là sự đồng thuận của đại đa số giới chuyên môn dựa trên khối bằng chứng khổng lồ; bên kia phần lớn không ngang tài về bằng chứng lẫn năng lực đánh giá. "Nghe cả hai bên" ở đây không phải là trung thực trí tuệ — đó là nhầm lẫn về ai mới là người ngang tài với ai. (Xem thêm cách chọn chuyên gia trong [bài về lời chứng](loi-chung.md).)
 
@@ -151,11 +151,11 @@ Một điểm đáng chú ý: ngay cả những người đứng về hai phe đ
 
 **Khi bạn là "người ngang tài" của ai đó.** Bài này thường được đọc từ góc độ "tôi nên làm gì khi bị bất đồng". Nhưng hãy lật lại: khi *bạn* là người bất đồng với một người giỏi, bạn có trách nhiệm trình bày lý lẽ của mình một cách trung thực — không giấu điểm yếu, không phóng đại. Bất đồng chỉ có giá trị tri thức khi cả hai bên đều chơi đẹp.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: các văn bản trung tâm của tranh luận này — Christensen (2007), Elga (2007), Kelly (2005) — đều là bài báo đương đại, còn bản quyền, nên bài này không trích dài mà tóm tắt lập luận bằng lời mình. Nếu muốn đọc sâu, mục "Disagreement" trong *Stanford Encyclopedia of Philosophy* (Frances & Matheson) là điểm bắt đầu tốt nhất, với đầy đủ trích dẫn các bài gốc. Tuyển tập *Disagreement* do Richard Feldman và Ted Warfield chủ biên (Oxford University Press, 2010) tập hợp hầu hết các bài then chốt của cả hai phe.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -171,7 +171,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy nhớ lại một lần bạn tranh cãi với một người bạn mà bạn nể trọng — và cả hai đều có lý. Dùng ít nhất một khái niệm trong bài (người ngang tài, bằng chứng bậc cao, thuyết hòa giải, thuyết kiên định) để trả lời: sau cuộc tranh cãi đó, bạn có nên bớt chắc chắn về ý kiến của mình không? Vì sao?
 
@@ -184,7 +184,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu ít nhất một phản bác cho lập trường của mình và đáp lại nó không?
     - Bài viết có ví dụ cụ thể, câu ngắn, và tránh những khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Frances, Bryan & Jonathan Matheson, "Disagreement", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/disagreement/>
 2. Christensen, David (2007), "Epistemology of Disagreement: The Good News", *The Philosophical Review* 116(2).

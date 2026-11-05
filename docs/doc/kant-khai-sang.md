@@ -15,13 +15,13 @@ updated: 2026-10-22
     - **Bản dịch:** Logos Zero dịch thẳng từ tiếng Đức.
     - **Thời gian đọc:** khoảng 10 phút cho các đoạn trích; 30 phút cho toàn văn.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Tháng 12/1783, trong một bài trên *Berlinische Monatsschrift* bàn việc có nên bỏ nghi thức tôn giáo khỏi hôn nhân, mục sư Johann Friedrich Zöllner ghi chú rằng câu hỏi "khai sáng là gì?" gần như quan trọng ngang câu hỏi "chân lý là gì?", vậy mà ông chưa thấy ai trả lời. Năm 1784 có hai lời đáp nổi tiếng: của Moses Mendelssohn (số tháng 9) và của [Immanuel Kant](../triet-gia/kant.md) (1724–1804). Kant ghi ở cuối bài rằng ông chưa kịp đọc bài của Mendelssohn.
 
 Khi ấy Kant 60 tuổi, là giáo sư ở Königsberg, nước Phổ, dưới triều Friedrich II, ông vua được xem là "chuyên chế khai sáng": khoan dung về tôn giáo nhưng nắm quyền tuyệt đối. Chính nghịch lý ấy làm nên sức hút của bài viết.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Định nghĩa: thoát khỏi sự chưa trưởng thành do chính mình gây ra (Ak 8:35)
 
@@ -63,7 +63,7 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 
 "Ông chủ duy nhất" là Friedrich II. Kant không cho rằng thời mình đã khai sáng; đó chỉ là thời *đang* khai sáng, "thế kỷ của Friedrich" (Ak 8:40). Ông xin một thứ tự do duy nhất, tự do lý luận công khai, và chấp nhận trật tự trong các vai trò. Ông tin rằng nếp nghĩ tự do sẽ dần thấm vào dân chúng, rồi "thậm chí vào cả những nguyên tắc của chính quyền", để chính quyền thấy có lợi khi đối xử với con người, "giờ đây đã hơn một cỗ máy", đúng với phẩm giá của họ (Ak 8:41–42).
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Con người có đủ trí tuệ; thứ họ thiếu là can đảm dùng nó. (Ak 8:35)
 - **P2.** Một cá nhân đơn lẻ khó tự thoát ra, nhưng một công chúng được tự do thì gần như chắc chắn sẽ tự khai sáng. (Ak 8:36)
@@ -73,7 +73,7 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 
 Đây là một lập luận thực tiễn, không phải suy diễn chặt chẽ: P2 và P3 là khẳng định về tâm lý và lịch sử, có thể sai. Hai **giả định ngầm** (*hidden assumption*) đáng soi: một người tách được rõ "vai trò" với "học giả", và tranh luận công khai rốt cuộc sẽ đổi được thể chế.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, bạn của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
 
@@ -87,19 +87,19 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 
 *Cách đáp lại:* người theo Kant đồng ý một nửa. Nhưng Kant không chỉ nói về thái độ: ông nêu một điều kiện thể chế cụ thể, tự do công khai dùng lý trí, mà thiếu nó thì thái độ phê phán khó tồn tại.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Riêng tư" là đời sống cá nhân.** Với Kant, dùng lý trí riêng tư là dùng nó trong một chức vụ được giao, kể cả khi đứng trước hàng trăm người; "công khai" là nói với toàn thể công chúng độc giả với tư cách học giả.
 - **Tự mình suy nghĩ là suy nghĩ một mình.** Hai năm sau, Kant viết: ta sẽ nghĩ được bao nhiêu và đúng đến đâu, nếu không nghĩ "trong sự cộng đồng với những người khác", những người ta trao đổi ý nghĩ với nhau? Vì thế, tước tự do công khai nói ra ý nghĩ cũng là tước tự do suy nghĩ (*Was heißt: sich im Denken orientiren?*, 1786, Ak 8:144).
 - ***Sapere aude* là câu của Kant.** Câu này của nhà thơ La Mã Horace (*Thư*, I.2.40); Kant biến nó thành khẩu hiệu của khai sáng.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Lần gần nhất bạn "để người khác nghĩ hộ" là khi nào? Đó là lười biếng, hèn nhát, hay một lựa chọn hợp lý vì bạn không có thời gian tìm hiểu?
 2. Theo phân biệt của Kant, một nhân viên có được công khai phê bình chính sách công ty mình không? Ranh giới giữa vai trò và học giả nằm ở đâu trên mạng xã hội?
 3. Một chatbot trả lời mọi câu hỏi của bạn. Nó là "cuốn sách hiểu biết thay tôi" hay một người bạn cùng lý luận? Điều gì quyết định?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được lập luận đến đâu.
 
@@ -113,14 +113,14 @@ Thử xem bạn nắm được lập luận đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Dân chủ là gì, và vì sao nó đáng giá?](../cau-hoi/dan-chu.md) — tự do ngôn luận công khai là nền của dân chủ.
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — dám nghi ngờ những gì mình "biết".
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md) — câu hỏi của Kant trong thời mạng xã hội.
 - [Mill: *Bàn về tự do*, chương 2](mill-tu-do.md) — 75 năm sau, một lập luận khác cho tự do tranh luận.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Kant, Immanuel (1784), "Beantwortung der Frage: Was ist Aufklärung?", *Berlinische Monatsschrift* 4 (12): 481–494, bản in gốc trên Wikisource <https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F>; Akademie-Ausgabe 8: 33–42 <https://www.korpora.org/Kant/aa08/035.html>
 2. Kant, Immanuel (1786), "Was heißt: sich im Denken orientiren?", Akademie-Ausgabe 8: 144 <https://www.korpora.org/Kant/aa08/144.html>

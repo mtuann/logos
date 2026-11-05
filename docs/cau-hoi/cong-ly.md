@@ -17,7 +17,7 @@ Bài trước hỏi *vì sao* cần nhà nước ([Vì sao phải vâng lời nh
 
 Đây không phải câu hỏi trừu tượng. Mỗi kỳ thi đại học, câu chuyện điểm ưu tiên lại gây tranh cãi: người được cộng điểm thấy đó là công bằng (bù đắp thiệt thòi), người mất suất vào trường top thấy đó là bất công (cùng một đề thi, sao người được cộng?). Cả hai đều nói "công bằng" — nhưng họ đang dùng hai khái niệm công bằng khác nhau.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn được mời thiết kế toàn bộ luật chơi của một xã hội mới: ai được học trường nào, thuế thu bao nhiêu, phúc lợi cho ai, lương phân phối ra sao. Nhưng có một điều kiện: sau khi thiết kế xong, bạn sẽ *được sinh ra ngẫu nhiên* vào xã hội đó — có thể là con của tỷ phú, có thể là đứa trẻ mồ côi ở vùng sâu, có thể khỏe mạnh, có thể khuyết tật. Bạn không được biết trước mình sẽ là ai.
@@ -28,7 +28,7 @@ Bài trước hỏi *vì sao* cần nhà nước ([Vì sao phải vâng lời nh
 
 Hãy tự trả lời trước khi đọc tiếp. Chú ý: thí nghiệm này không hỏi bạn *muốn* làm người giàu hay người nghèo — nó hỏi bạn sẽ chọn luật chơi nào khi *không biết* mình là ai.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi của bài này thuộc về **công lý phân phối** (*distributive justice*): của cải, cơ hội và gánh nặng xã hội nên được chia như thế nào?
 
@@ -44,7 +44,7 @@ Cuối cùng, một lưu ý về phạm vi: bài này chỉ bàn công lý *tron
 
 Để thấy sự khác biệt, hãy xét một ví dụ đơn giản: một xã hội có 100 đồng. Phương án A: 99 người mỗi người 1 đồng, 1 người 1 đồng — chia đều. Phương án B: 99 người mỗi người 0,5 đồng, 1 người 50,5 đồng — tổng vẫn 100 nhưng tập trung. Phương án C: 99 người mỗi người 0,9 đồng, 1 người 10,9 đồng. Phương án nào công bằng nhất? Câu trả lời của bạn sẽ lộ ra bạn thuộc phe nào.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Rawls: công bằng là những gì ta chọn sau bức màn vô tri
 
@@ -116,7 +116,7 @@ Hai bài chính trị trong chuyên mục này — [Vì sao phải vâng lời n
 
 Một câu hỏi để mang theo khi gấp bài này lại: lần tới khi bạn nghe ai đó nói "như thế mới công bằng" — về điểm thi, về thuế, về lương — hãy thử hỏi: họ đang dùng khái niệm công bằng của ai? Của Rawls, của Nozick, hay của Sandel? Khả năng cao là chính người nói cũng không biết. Và đó chính là lúc triết học có ích: không phải để cho bạn đáp án, mà để cho bạn thấy cuộc tranh luận thực sự đang diễn ra ở đâu.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có một câu *chính* (hỏi tất cả người tham gia) gần như trùng với ba lập trường của bài: câu "Triết học chính trị", với ba lựa chọn cộng đồng luận, chủ nghĩa bình đẳng và chủ nghĩa tự do cá nhân.
 
@@ -143,7 +143,7 @@ Nguồn: như trên, câu bổ sung "Method in political philosophy".
 
 Ngoài con số, điều ít ai tranh cãi là *A Theory of Justice* (1971) thuộc số những tác phẩm được trích dẫn và tranh luận nhiều nhất của triết học chính trị thế kỷ 20 — đến mức người ta chia lịch sử ngành thành "trước Rawls" và "sau Rawls". Nozick và Sandel, dù ở hai phía đối lập, đều viết *để đáp lại* Rawls — điều đó tự nó cho thấy vị trí trung tâm của ông.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Điểm ưu tiên thi đại học.** Mỗi mùa tuyển sinh, tranh cãi lại nổ ra. Người ủng hộ chính sách dùng ngôn ngữ của Rawls mà không biết: thí sinh vùng sâu, gia đình khó khăn xuất phát từ vị trí kém may mắn hơn — cộng điểm là cách làm cho "vị trí tệ nhất" đỡ tệ. Người phản đối dùng ngôn ngữ của Nozick: điểm số là *của tôi*, do *tôi* học mà có; lấy suất của tôi cho người khác là bất công — dù người đó thiệt thòi đến đâu. Thấy không — hai bên không cãi nhau về con số, họ cãi nhau về *lý thuyết công lý*. Hiểu được điều này không giúp ta kết luận ai đúng, nhưng giúp ta cãi nhau cho ra nhẽ thay vì cãi nhau bằng cảm xúc.
 
@@ -153,7 +153,7 @@ Ngoài con số, điều ít ai tranh cãi là *A Theory of Justice* (1971) thu�
 
 **"Con nhà người ta" và vạch xuất phát.** Hai đứa trẻ cùng tuổi: một đứa học trường quốc tế, gia sư riêng; một đứa trường làng, tối phụ cha mẹ bán hàng. Khi cả hai cùng thi một đề đại học, "công bằng" có nghĩa là gì? Người theo Rawls sẽ nói cuộc thi chỉ công bằng khi cơ hội là *thực chất* — không chỉ cùng đề thi mà còn cùng điều kiện chuẩn bị — và đó là lý do chính đáng của chính sách hỗ trợ giáo dục vùng khó. Người theo Nozick sẽ đáp: cha mẹ có quyền đầu tư cho con mình bằng tài sản chính đáng của họ; san bằng điều đó mới là bất công. Còn Sandel sẽ nhắc: ở Việt Nam, "học để đổi đời, để báo hiếu cha mẹ" không chỉ là chuyện cá nhân — nó là giá trị cộng đồng, và mọi chính sách giáo dục đều đang đối thoại với giá trị ấy.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: *A Theory of Justice* (1971), *Anarchy, State, and Utopia* (1974) và *Liberalism and the Limits of Justice* (1982) đều còn bản quyền, nên bài này không trích dài mà tóm tắt cốt lõi bằng lời mình. Dưới đây là hai nguyên tắc công lý của Rawls, diễn đạt lại ngắn gọn:
 
@@ -169,7 +169,7 @@ Câu hỏi dẫn dắt:
 2. Áp dụng nguyên tắc chênh lệch vào chính sách điểm ưu tiên thi đại học: chính sách này có thỏa nguyên tắc không? Cần thêm điều kiện gì không?
 3. Nozick sẽ phản bác hai nguyên tắc này bằng ví dụ Wilt Chamberlain. Bạn đứng về phía nào — và vì sao?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -185,7 +185,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Thuế thu nhập lũy tiến ở Việt Nam: người thu nhập càng cao đóng thuế suất càng cao. Hãy dùng ít nhất một lý thuyết trong bài (Rawls, Nozick, hoặc Sandel) để trả lời: chính sách này có công bằng không? Vì sao?
 
@@ -197,7 +197,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có xét đến phản bác từ lý thuyết đối lập không? (Ví dụ: chọn Rawls thì phải đối mặt với câu hỏi của Nozick về cưỡng bức.)
     - Bài viết có ví dụ, con số cụ thể và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Wenar, Leif, "John Rawls", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/rawls/>
 2. Lamont, Julian & Christi Favor, "Distributive Justice", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/justice-distributive/>

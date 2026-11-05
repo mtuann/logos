@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 Đầu thế kỷ 20, triết học phương Tây rẽ thành hai dòng lớn, khác nhau đến mức người hai bên nhiều khi không đọc nhau. Một bên — gọi là **triết học phân tích** (*analytic philosophy*) — tin rằng muốn rõ ràng thì phải bắt đầu từ ngôn ngữ và logic. Bên kia — **triết học lục địa** (*continental philosophy*) — cho rằng những câu hỏi lớn nhất của con người (tồn tại, tự do, ý nghĩa) không thể gói gọn trong phân tích ngôn ngữ. Bài này kể câu chuyện của cả hai ngả.
 
-## Ngả thứ nhất: phân tích ngôn ngữ và logic
+## Ngả thứ nhất: phân tích ngôn ngữ và logic {#nga-thu-nhat-phan-tich-ngon-ngu-va-logic}
 
 ### Frege và Russell: đưa logic vào triết học
 
@@ -34,7 +34,7 @@ Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũn
 
 Ảnh hưởng: sau Quine, triết học phân tích bớt giáo điều hơn, quay lại đối thoại với khoa học và với cả siêu hình học — thứ mà Trường phái Vienna từng tuyên bố đã chết.
 
-## Ngả thứ hai: tồn tại, ý thức và tự do
+## Ngả thứ hai: tồn tại, ý thức và tự do {#nga-thu-hai-ton-tai-y-thuc-va-tu-do}
 
 ### Husserl: trở về với sự vật
 
@@ -62,7 +62,7 @@ Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đ�
 
 Ảnh hưởng: triết học ngôn ngữ thường đưa triết học phân tích về gần đời sống — và phương pháp "xem cách dùng" của nó vẫn là công cụ sắc bén mỗi khi một khái niệm triết học trở nên mù mờ.
 
-## Triết học khoa học: từ Vienna đến Kuhn
+## Triết học khoa học: từ Vienna đến Kuhn {#triet-hoc-khoa-hoc-tu-vienna-den-kuhn}
 
 Một di sản khác của Trường phái Vienna là **triết học khoa học** (*philosophy of science*) — ngành hỏi: khoa học khác gì với phi khoa học, và khoa học tiến bộ bằng cách nào? **[Karl Popper](../triet-gia/popper.md)** (1902–1994), dù không thuộc Trường phái Vienna, tranh luận trực tiếp với họ: trong *Logik der Forschung* (1934; bản tiếng Anh *The Logic of Scientific Discovery*, 1959), ông đề xuất **khả bác bỏ** (*falsifiability*) làm tiêu chuẩn phân giới — lý thuyết khoa học phải dám đưa ra dự đoán có thể sai.
 
@@ -70,18 +70,18 @@ Một di sản khác của Trường phái Vienna là **triết học khoa học
 
 Chủ đề này đã có bài riêng đầy đủ — xem [Khoa học khác gì với phi khoa học?](../cau-hoi/khoa-hoc.md).
 
-## Hai ngả đang xích lại?
+## Hai ngả đang xích lại? {#hai-nga-dang-xich-lai}
 
 Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học, lục địa đọc Quine và Wittgenstein. Nhiều người cho rằng sự chia rẽ này phần lớn là tai nạn lịch sử và địa lý hơn là khác biệt thực chất — một nhận định đang tranh luận, chưa ngã ngũ.
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — Wittgenstein và Quine về ngôn ngữ
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — tri thức là gì, từ Descartes đến Gettier
 - [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — Heidegger về kỹ thuật
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — hiện sinh và câu hỏi ý nghĩa
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100.
 2. Bertrand Russell (1905), "On Denoting", *Mind* 14.

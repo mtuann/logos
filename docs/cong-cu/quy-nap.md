@@ -13,7 +13,7 @@ Về nhà, bạn chưa ăn quả nào trong năm cân ấy. Vậy mà bạn khá
 
 Đây là kiểu suy nghĩ ta dùng nhiều nhất trong đời: đi từ những gì đã thấy đến những gì chưa thấy. Triết học gọi nó là **quy nạp** (*inductive*).
 
-## Quy nạp là gì?
+## Quy nạp là gì? {#quy-nap-la-gi}
 
 Ở bài [suy diễn](suy-dien.md), một lập luận tốt *bảo đảm* kết luận: tiền đề đúng thì kết luận không thể sai. Một lập luận quy nạp không hứa hẹn nhiều như vậy. Nó chỉ nói: nếu tiền đề đúng thì kết luận *có lẽ* đúng.
 
@@ -26,7 +26,7 @@ Hai điểm khác biệt quan trọng:
 - Hợp lệ là chuyện có hoặc không. Mạnh là chuyện *mức độ*: lập luận này mạnh hơn lập luận kia.
 - Thêm tiền đề không bao giờ làm một lập luận hợp lệ trở thành không hợp lệ. Nhưng thêm thông tin có thể làm một lập luận quy nạp yếu đi rất nhiều. Biết thêm "chị bán xoài để riêng hai quả thử ở một rổ khác" là đủ để niềm tin của bạn lung lay.
 
-## Bốn dạng quy nạp thường gặp
+## Bốn dạng quy nạp thường gặp {#bon-dang-quy-nap-thuong-gap}
 
 ### Quy nạp khái quát
 
@@ -79,7 +79,7 @@ Tôm gây ngứa cho tôi.
 
 Dạng này đặc biệt dễ trượt, ta sẽ quay lại ở cuối bài.
 
-## Mạnh hay yếu: cỡ mẫu và tính đại diện
+## Mạnh hay yếu: cỡ mẫu và tính đại diện {#manh-hay-yeu-co-mau-va-tinh-dai-dien}
 
 Một khảo sát đăng trong nhóm Facebook của một phòng gym hỏi: "Bạn có tập thể dục ít nhất ba buổi mỗi tuần không?" Kết quả: 92% trả lời có. Một trang tin giật tít: "Phần lớn người Việt tập thể dục đều đặn."
 
@@ -90,7 +90,7 @@ Mẫu này hỏng ở hai chỗ:
 
 Một mẫu nhỏ nhưng chọn ngẫu nhiên tử tế có thể đáng tin hơn một mẫu khổng lồ nhưng lệch. Khi rút ra một kết luận khái quát từ quá ít trường hợp hoặc từ những trường hợp không đại diện, ta mắc lỗi **khái quát vội vàng**, được bàn ở bài [Ngụy biện](nguy-bien.md#hasty-generalization).
 
-## Một câu hỏi không dễ chịu: vì sao tin quy nạp?
+## Một câu hỏi không dễ chịu: vì sao tin quy nạp? {#mot-cau-hoi-khong-de-chiu-vi-sao-tin-quy-nap}
 
 Mọi lập luận quy nạp đều ngầm dựa vào một giả định: tương lai (hoặc phần chưa quan sát) sẽ giống quá khứ (hoặc phần đã quan sát). Mặt trời đã mọc mỗi sáng, nên mai nó sẽ mọc.
 
@@ -100,7 +100,7 @@ Nhưng ta lấy gì để tin giả định ấy? Không phải suy diễn: "tư
 
 Ở đây chỉ cần một ghi chú thực dụng: vấn đề của Hume không cho phép ta coi mọi lập luận quy nạp là ngang nhau. Dù chưa có lời biện minh triệt để cho quy nạp, nếm hai quả xoài vẫn tốt hơn không nếm quả nào.
 
-## Suy luận đến lời giải thích tốt nhất
+## Suy luận đến lời giải thích tốt nhất {#suy-luan-den-loi-giai-thich-tot-nhat}
 
 Bác sĩ ở một phòng khám tại Hà Nội, giữa mùa mưa, gặp một bệnh nhân: sốt cao đột ngột ba ngày, đau nhức cơ khớp, đau sau hốc mắt, nổi ban đỏ, xét nghiệm thấy tiểu cầu giảm. Bác sĩ nghĩ đến **sốt xuất huyết**.
 
@@ -118,7 +118,7 @@ Thế nào là một lời giải thích "tốt"? Không có công thức chung,
 !!! warning "Tốt nhất chưa chắc là đúng"
     Lời giải thích tốt nhất trong số những lời giải thích *ta nghĩ ra được* vẫn có thể sai, nếu ta chưa nghĩ đến lời giải thích đúng. Vì vậy bác sĩ giỏi vẫn làm xét nghiệm xác nhận, và thám tử giỏi vẫn tìm thêm bằng chứng.
 
-## Tương quan không phải nhân quả
+## Tương quan không phải nhân quả {#tuong-quan-khong-phai-nhan-qua}
 
 Một bài báo đưa tin: "Ở các thành phố bán nhiều kem, số vụ đuối nước cũng cao hơn." Kem gây đuối nước?
 
@@ -137,7 +137,7 @@ Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm phổ b
 
 Một lỗi họ hàng là chỉ vì B xảy ra *sau* A mà cho rằng A gây ra B, gọi là [Sau nó nên do nó](nguy-bien.md#post-hoc).
 
-## Mẫu nhận diện
+## Mẫu nhận diện {#mau-nhan-dien}
 
 **Dấu hiệu của lập luận quy nạp:** từ chỉ báo kiểu "có lẽ", "nhiều khả năng", "hầu hết", "thường thì", "chắc là", "theo khảo sát", "từ kinh nghiệm", "giống như"; kết luận nói về nhiều hơn những gì đã quan sát.
 
@@ -153,7 +153,7 @@ Giải thích  → Đã xét đủ các giả thuyết khác chưa? Giả thuy�
               nhiều hơn, đơn giản hơn, ít vá víu hơn?
 ```
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Một ứng dụng học tiếng Anh khảo sát 2.000 người dùng của chính ứng dụng và kết luận: "85% người Việt muốn học tiếng Anh mỗi ngày." Lập luận này mạnh hay yếu? Vì sao?
 
@@ -180,7 +180,7 @@ Giải thích  → Đã xét đủ các giả thuyết khác chưa? Giả thuy�
 ??? success "Xem gợi ý đáp án"
     (a). Nó giải thích được dữ kiện lạ nhất (vụn bánh trên áo em), đơn giản, nhất quán với hiểu biết nền (trẻ con thích bánh). Giả thuyết (b) không giải thích vụn bánh trên áo và cần thêm giả định (mèo ăn hết cả chiếc bánh mà không để lại dấu vết). Giả thuyết (c) cần nhiều giả định ad hoc (trộm chỉ lấy bánh?). Nhưng (a) vẫn có thể sai; có thể em chỉ ăn một miếng.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -196,11 +196,11 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Trong nhiều lập luận ở trên, có những điều người nói không nói ra mà vẫn ngầm dựa vào: "người dùng ứng dụng giống người Việt nói chung", "chỉ có hai khả năng". Làm sao lôi chúng ra ánh sáng? Mời đọc [Điều không được nói ra](gia-dinh-ngam.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/induction-problem/>
 2. Igor Douven, "Abduction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/abduction/>

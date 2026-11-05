@@ -19,13 +19,13 @@ Hai suy niệm đầu là phần nổi tiếng nhất, chứa lập luận mà h
     - **Cách đánh số:** "§" là số đoạn trên Wikisource; "AT 7:25" là tập 7, trang 25 của bộ *Œuvres de Descartes* (Adam & Tannery), cách trích chung của giới nghiên cứu.
     - **Thời gian đọc:** Suy niệm I–II khoảng 40 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Descartes sống giữa cuộc cách mạng khoa học: vật lý mới đang thay thế vật lý của [Aristotle](../triet-gia/aristotle.md) vẫn dạy trong các trường. Năm 1633, nghe tin Galileo bị kết án, ông cất bản thảo cuốn *Thế giới* đi, không in nữa. Ông muốn làm cho triết học điều mà toán học đã làm được: tìm một nền móng không thể lay chuyển.
 
 Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*): gạt bỏ mọi điều có thể nghi ngờ, dù chỉ chút ít, như thể nó sai hẳn. Nghi ngờ không phải vì thích nghi ngờ: Descartes dùng **hoài nghi luận** (*skepticism*) như một công cụ để đánh bại chính hoài nghi luận.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 **Đoạn 1 — Dỡ nền móng (Suy niệm I, §1–4; AT 7:17–19).** Từ nhỏ ông đã nhận nhiều điều sai làm đúng, nên một lần trong đời phải dỡ hết để xây lại từ móng (§1). Không cần chứng minh từng niềm tin là sai; móng đổ thì cả tòa nhà đổ (§2).
 
@@ -88,7 +88,7 @@ Thứ còn lại chỉ là "một vật có quảng tính, mềm dẻo, chuyển
 
 *Với robot và AI ngày nay, ví dụ "mũ và áo choàng" có khó hơn không? Hay việc nhận ra "cùng một cục sáp" vẫn là việc của giác quan cộng trí nhớ?*
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 Lập luận giấc mơ (Suy niệm I):
 
@@ -106,7 +106,7 @@ Lập luận "tôi hiện hữu" (Suy niệm II):
 
 Chính Descartes nói đây không phải một **tam đoạn luận** (*syllogism*) mà là điều trí óc thấy ngay bằng trực giác (Lời đáp bộ phản bác thứ hai, AT 7:140). Ai muốn viết nó thành suy luận thì phải thêm P2, và các nhà phê bình nhắm vào đúng chỗ đó.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Lichtenberg: "có tư duy" chưa phải "có tôi".** Georg Lichtenberg (thế kỷ 18) cho rằng từ "đang có tư duy" chỉ suy ra được "có tư duy", không suy ra được "có *tôi*". [Bertrand Russell](../triet-gia/russell.md) (1945) nhắc lại: Descartes lẽ ra chỉ nên nói "có những ý nghĩ".
 
@@ -120,19 +120,19 @@ Chính Descartes nói đây không phải một **tam đoạn luận** (*syllogi
 
 **Cách đáp lại:** Descartes phân biệt nhận thức rõ ràng *đang có* với nhận thức chỉ được *nhớ lại*: Chúa chỉ cần để bảo đảm loại thứ hai (AT 7:246). Giới nghiên cứu nay phần lớn không coi đây là vòng tròn luẩn quẩn, dù còn tranh cãi về cách gỡ.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Câu 'Tôi tư duy, vậy tôi hiện hữu' nằm trong *Suy niệm*."** Trong Suy niệm II, Descartes viết "tôi là, tôi hiện hữu" (AT 7:25). Câu "tôi tư duy, vậy tôi hiện hữu" có trong *Luận về phương pháp* (1637, phần IV) và, ở dạng Latin *ego cogito, ergo sum*, trong *Các nguyên lý triết học* (1644, I.7).
 - **"Descartes là người hoài nghi."** Ông dùng hoài nghi để vượt qua hoài nghi, và chỉ trong suy tư: ông nói rõ mục tiêu lúc này "không phải hành động mà là tri thức" (Suy niệm I, §11; AT 7:22). Ngoài đời, ông không đề nghị ai sống như thể mọi thứ là mơ.
 - **"Ác thần là kẻ toàn năng."** Kẻ toàn năng là giả thuyết về Thượng đế ở §9; ác thần chỉ "cực kỳ quyền năng và xảo trá" (§12).
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 - Lichtenberg nói chỉ có "tư duy đang diễn ra", không có "tôi". Bạn thấy phản bác này thuyết phục không? Vì sao?
 - Nếu phải chọn MỘT niềm tin duy nhất làm nền móng cho mọi thứ bạn biết, bạn chọn niềm tin nào?
 - Descartes nói giác quan "đã lừa ta một lần" thì không đáng tin tuyệt đối. Nguyên tắc đó có quá khắt khe không? Nếu áp nó cho bạn bè, cho báo chí, cho trí nhớ của chính bạn thì sao?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -147,14 +147,14 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — hoài nghi luận của Descartes được trình bày đầy đủ ở đây
 - [Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí
 - [Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — phiên bản hiện đại của ác thần
 - [Đọc ẩn dụ hang động](platon-hang-dong.md) — một người tù khác, cũng phải tập nhìn ra ánh sáng
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
 2. René Descartes, *The Meditations and Selections from the Principles*, bản dịch John Veitch (Chicago: Open Court, 1913) — lời nhà xuất bản về các phần thêm từ bản tiếng Pháp. <https://archive.org/details/themeditatiions00descuoft>

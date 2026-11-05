@@ -13,7 +13,7 @@ Ba câu trả lời, ba lối tắt. Câu đầu nhắm vào người nói chứ
 
 Không câu nào trong đó là vô nghĩa. Mỗi câu đều có một hạt lý lẽ bên trong, và đó chính là lý do chúng dễ thuyết phục. Người ta đặt tên cho những lối tắt như vậy là **ngụy biện** (*fallacy*).
 
-## Ngụy biện là gì?
+## Ngụy biện là gì? {#nguy-bien-la-gi}
 
 Một ngụy biện là một kiểu lập luận *trông như* ủng hộ kết luận, nhưng thực ra không cho ta lý do tốt để tin nó. Chữ quan trọng là "trông như": một lỗi lập luận chỉ đáng được đặt tên khi nó đủ phổ biến và đủ hấp dẫn để người ta mắc đi mắc lại.
 
@@ -24,7 +24,7 @@ Các nhà logic thường chia ngụy biện làm hai loại:
 
 Phần lớn ngụy biện trong đời sống là loại phi hình thức.
 
-## Ba lời cảnh báo trước khi bắt đầu
+## Ba lời cảnh báo trước khi bắt đầu {#ba-loi-canh-bao-truoc-khi-bat-dau}
 
 **Thứ nhất: một lập luận có ngụy biện không có nghĩa kết luận sai.** Nếu chú Hải lập luận tồi cho việc uống nước chanh, điều đó chỉ cho thấy *lý do của chú* không đủ, không cho thấy nước chanh vô hại hay có hại. Cho rằng "lập luận của anh có ngụy biện, vậy kết luận của anh sai" chính là một ngụy biện, đôi khi được gọi đùa là "ngụy biện về ngụy biện".
 
@@ -32,7 +32,7 @@ Phần lớn ngụy biện trong đời sống là loại phi hình thức.
 
 **Thứ ba: nhiều "ngụy biện" chỉ là lập luận yếu tùy bối cảnh.** Nghe theo bác sĩ về chuyện thuốc men là viện dẫn thẩm quyền, và hoàn toàn hợp lý. Chọn quán phở đông khách là theo số đông, và thường không tệ. Các nhà nghiên cứu lập luận như Douglas Walton nhấn mạnh rằng các kiểu lập luận này có lúc được dùng chính đáng, có lúc bị dùng sai. Vì vậy, với mỗi loại dưới đây, có một mục "Khi nào không phải ngụy biện".
 
-## Nhóm 1: Sai liên quan
+## Nhóm 1: Sai liên quan {#nhom-1-sai-lien-quan}
 
 Tiền đề có thể đúng, nhưng không liên quan đến việc kết luận có đúng hay không.
 
@@ -108,7 +108,7 @@ Tiền đề có thể đúng, nhưng không liên quan đến việc kết lu�
 - **Ví dụ:** "Phương pháp học từ vựng đó bắt nguồn từ một bài đăng trên diễn đàn game, nên chẳng đáng thử."
 - **Khi nào không phải ngụy biện:** Khi nguồn gốc liên quan đến độ tin cậy của *thông tin*. Một "tin nóng" xuất phát từ một trang chuyên tung tin giả là lý do tốt để kiểm tra lại trước khi tin. Và khi câu hỏi đang bàn chính là về lịch sử của một ý tưởng.
 
-## Nhóm 2: Giả định sai
+## Nhóm 2: Giả định sai {#nhom-2-gia-dinh-sai}
 
 Lập luận dựa vào một [giả định ngầm](gia-dinh-ngam.md) không được biện minh.
 
@@ -168,7 +168,7 @@ Lập luận dựa vào một [giả định ngầm](gia-dinh-ngam.md) không đ
 - **Ví dụ:** "Đã mua vé rồi, phim dở mấy cũng phải ngồi xem hết." Hoặc: "Đã học ngành này ba năm, dù chán cũng phải theo đến cùng."
 - **Khi nào không phải ngụy biện:** Khi khoản đã bỏ ra có liên quan đến tương lai. Một công trình đã xây 90% có thể chỉ cần thêm ít chi phí để hoàn thành. Bỏ dở có thể có cái giá riêng: mất uy tín, phụ lời hứa với người khác. Đó là lý do chính đáng, miễn là ta đang tính về những gì *sắp tới*.
 
-## Nhóm 3: Mơ hồ
+## Nhóm 3: Mơ hồ {#nhom-3-mo-ho}
 
 Lập luận dựa vào việc một từ hay cụm từ có nhiều nghĩa.
 
@@ -180,7 +180,7 @@ Lập luận dựa vào việc một từ hay cụm từ có nhiều nghĩa.
 - **Ví dụ:** "Thuyết tiến hóa chỉ là một *thuyết*. Mà thuyết thì chỉ là phỏng đoán. Vậy tiến hóa chỉ là phỏng đoán." Trong khoa học, "thuyết" là một hệ thống giải thích được kiểm chứng rộng rãi; trong lời nói thường ngày, "thuyết" có khi chỉ là "giả thuyết suông".
 - **Khi nào không phải ngụy biện:** Khi từ được dùng nhất quán một nghĩa từ đầu đến cuối. Chơi chữ có chủ ý trong văn chương hay trong câu đùa cũng không phải ngụy biện, vì không ai dùng nó để chứng minh điều gì.
 
-## Nhóm 4: Hình thức
+## Nhóm 4: Hình thức {#nhom-4-hinh-thuc}
 
 Lỗi nằm ở khuôn suy luận. Cả hai đều đã gặp ở bài [suy diễn](suy-dien.md).
 
@@ -200,7 +200,7 @@ Lỗi nằm ở khuôn suy luận. Cả hai đều đã gặp ở bài [suy di�
 - **Ví dụ:** "Nếu học trường chuyên thì sẽ đỗ đại học. Con không học trường chuyên. Vậy con sẽ không đỗ đại học."
 - **Khi nào không phải ngụy biện:** Khi điều kiện thực chất là điều kiện cần. "Chỉ khi có vé mới được vào. Anh không có vé. Vậy anh không được vào" là hợp lệ, vì "chỉ khi có vé mới được vào" nghĩa là "nếu được vào thì có vé", và lập luận trên là modus tollens.
 
-## Mẫu nhận diện
+## Mẫu nhận diện {#mau-nhan-dien}
 
 **Câu hỏi chẩn đoán theo nhóm:**
 
@@ -219,7 +219,7 @@ Hình thức     → Viết lại dạng "nếu P thì Q": đang khẳng định
 
 **Và luôn hỏi thêm:** Trong bối cảnh này, lối lập luận ấy có thể là chính đáng không?
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Gọi tên ngụy biện và giải thích: "Ông bác sĩ đó khuyên giảm muối, nhưng chính ông ấy ăn mặn nhất xóm. Thôi, cứ ăn như cũ."
 
@@ -246,13 +246,13 @@ Hình thức     → Viết lại dạng "nếu P thì Q": đang khẳng định
 ??? success "Xem gợi ý đáp án"
     Có thể có đánh tráo khái niệm, tùy cách hiểu chữ "tốt". Nếu "ăn chay là tốt" nghĩa là một chế độ ăn chay *cân đối* tốt cho sức khỏe, thì không suy ra được mọi món mang nhãn "chay" đều tốt (nhiều món chay chế biến sẵn nhiều dầu, muối). Nếu hiểu "ăn chay là tốt" theo nghĩa "mọi món chay đều tốt" thì lập luận hợp lệ, nhưng tiền đề thứ nhất khi đó khó đúng. Đó là bài học của việc làm rõ từ khóa trước khi đánh giá.
 
-## Luyện nhận diện
+## Luyện nhận diện {#luyen-nhan-dien}
 
 Đọc về ngụy biện thì dễ, nhận ra chúng giữa một cuộc tranh luận thật mới khó. Thử sức với mười tình huống ngẫu nhiên dưới đây, hoặc vào [trang luyện tập ngụy biện](../luyen-tap/nguy-bien.md) để luyện thêm.
 
 <div class="oz-fallacy-trainer" data-count="10"></div>
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -268,11 +268,11 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chúng vào những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/fallacies/>
 2. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/fallacy/>

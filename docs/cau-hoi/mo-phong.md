@@ -19,7 +19,7 @@ Nghe như khoa học viễn tưởng? Có thể. Nhưng lập luận này đã �
 
 Chữ "mô phỏng" (*simulation*) gốc Latin *simulare* — "giả vờ, làm cho giống". Một mô phỏng tốt đến mức không thể phân biệt được với thực tại thì, về mọi phương diện ta có thể kiểm tra, *chính là* thực tại. Đó là điểm xuất phát của mọi rắc rối dưới đây.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng năm 2150. Nhân loại đã đạt đến "giai đoạn hậu-nhân loại": máy tính mạnh gấp hàng tỷ lần hôm nay, và các nhà sử học — vì tò mò, vì nghiên cứu, vì giải trí — chạy những **mô phỏng tổ tiên** (*ancestor simulations*): tái hiện toàn bộ cuộc sống của loài người thế kỷ 21, với từng con người là một tâm trí có ý thức thật sự, sống một đời người thật sự, mà không hề biết mình là code.
@@ -33,7 +33,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: sáng mai bạn tỉnh dậy, có một người lạ nói: "Tôi là người vận hành mô phỏng. Bấm nút đỏ này, bạn sẽ thoát ra thế giới thật." Bạn có bấm không? Hãy nghĩ kỹ: làm sao bạn biết người lạ đó không phải là một nhân vật *trong* mô phỏng, và nút đỏ không phải là một phần của kịch bản? Mọi "bằng chứng" bạn thu thập được về việc mình đang ở trong mô phỏng đều có thể chính là mô phỏng tạo ra.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ ba: nếu đúng thì có thay đổi gì không?** Giả sử mai này chứng minh được ta đang ở trong mô phỏng — điều đó thay đổi cách bạn sống như thế nào? Đạo đức, ý nghĩa, tình yêu — tất cả có sụp đổ không, hay chúng vẫn nguyên vẹn vì "thực tại" đối với ta chính là những gì ta sống?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường: lập trường 1 trình bày và bênh vực bộ ba của Bostrom; lập trường 2 tấn công tính khoa học của giả thuyết (không thể kiểm chứng); lập trường 3 nói dù đúng hay sai thì cũng chẳng thay đổi gì — một thái độ thực dụng. Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -85,7 +85,7 @@ Lập trường thứ ba bỏ qua câu hỏi "có đúng không" và hỏi "thì
 
 **Cách đáp lại.** Người thực dụng đáp: họ không nói câu hỏi *vô nghĩa* — họ nói câu trả lời không nên làm ta *tê liệt*. Tò mò thì cứ tò mò, tranh luận thì cứ tranh luận, nhưng đừng để giả thuyết mô phỏng trở thành cái cớ để buông xuôi ("đằng nào cũng là mô phỏng thì cố gắng làm gì"). Và về "người vận hành": ngay cả khi có, ta không biết gì về ý định của họ — mọi suy đoán đều là hư cấu. Sống tốt trong thế giới mình có là chiến lược duy nhất hợp lý, dù thế giới đó là gốc hay mô phỏng. Triết học, cuối cùng, cũng phải trả lời được câu hỏi: *vậy thì tôi nên sống ra sao?*
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 **không có câu hỏi nào** về giả thuyết mô phỏng. Vì vậy mục này ghi đúng như vậy: **chưa có khảo sát** cho các lập trường trong bài.
 
@@ -93,7 +93,7 @@ Có một câu hỏi nghe có vẻ liên quan — "Tải tâm trí lên máy (n�
 
 Điều này không có nghĩa giới triết học không quan tâm — bài báo 2003 của Bostrom là một trong những bài triết học được trích dẫn và tranh luận nhiều nhất trong hai thập kỷ qua, và giả thuyết mô phỏng đã trở thành một chủ đề nghiêm túc trong triết học tâm trí, siêu hình học và triết học công nghệ. Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có nghĩ ta đang sống trong mô phỏng không".
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Game, VR và "đời thứ hai".** Bạn đã bao giờ chơi một game nhập vai đến mức quên ăn, và khi thoát ra thấy thế giới "thật" nhạt nhẽo hơn trong game? Hay đeo kính VR và giật mình vì vực thẳm ảo? Những trải nghiệm đó là phiên bản thu nhỏ của giả thuyết mô phỏng: não bạn không phân biệt được "thật" và "giả" — nó chỉ xử lý tín hiệu. Lập trường 3 nhắc ta: điều làm cho một trải nghiệm "thật" không phải là chất liệu của nó, mà là việc ta *sống* trong nó. Tình bạn trong game, nếu nó làm bạn khóc khi nhân vật chết, thì nó thật theo nghĩa quan trọng nhất.
 
@@ -103,7 +103,7 @@ Có một câu hỏi nghe có vẻ liên quan — "Tải tâm trí lên máy (n�
 
 Đọc thêm hai văn bản cổ đặt cùng câu hỏi: hướng dẫn đọc [Trang Tử mộng hồ điệp](../doc/trang-tu-mong-ho-diep.md) và [*Suy niệm* của Descartes](../doc/descartes-suy-niem.md) (giấc mơ và ác thần).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -169,7 +169,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng tối nay bạn mơ một giấc mơ cực kỳ sống động — trong mơ bạn đọc chính bài này, trên chính chiếc điện thoại này. Sáng mai tỉnh dậy, làm sao bạn biết mình đã "tỉnh" thật, chứ không phải vừa chuyển từ một mô phỏng (giấc mơ) sang một mô phỏng khác (đời thức)? Hãy dùng ba lập trường trong bài để phân tích: lập trường nào cho bạn công cụ tốt nhất để trả lời, và công cụ đó có thực sự hiệu quả không?
 
@@ -182,7 +182,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có thành thật về kết luận ("tôi không chắc") thay vì giả vờ đã giải quyết xong vấn đề?
     - Bài viết có liên hệ được với trải nghiệm mơ/tỉnh thật của bạn không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Bostrom, Nick (2003), "Are You Living in a Computer Simulation?", *The Philosophical Quarterly* 53(211): 243–255. <https://doi.org/10.1111/1467-9213.00309>
 2. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge: Cambridge University Press (lập luận "bộ não trong bể", chương 1).

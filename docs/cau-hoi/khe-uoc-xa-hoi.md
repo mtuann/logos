@@ -22,7 +22,7 @@ Vậy chính quyền lấy quyền gì để bắt bạn vâng lời? Câu trả
 
 Chú ý: đây là câu hỏi về *tính chính đáng* của quyền lực, khác với câu hỏi *ai* nên cầm quyền hay *phân phối* ra sao — câu hỏi phân phối được bàn trong bài [Công lý là gì?](cong-ly.md).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng một hòn đảo có một trăm người, không chính quyền, không cảnh sát, không luật lệ. Mỗi người tự lo cho mình: ai khỏe thì lấy nhiều cá, ai yếu thì nhịn.
@@ -33,7 +33,7 @@ Chú ý: đây là câu hỏi về *tính chính đáng* của quyền lực, kh
 
 Hãy tự trả lời trước khi đọc tiếp. Lựa chọn của bạn — tự do tuyệt đối hay trật tự có luật lệ — chính là điểm xuất phát của mọi lý thuyết khế ước xã hội.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi gồm hai lớp:
 
@@ -53,7 +53,7 @@ Ba triết gia dưới đây trả lời khác nhau — và sự khác nhau ấy
 </figure>
 <!-- /fig:khe-uoc -->
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Hobbes: khế ước để thoát khỏi chiến tranh của mọi người
 
@@ -117,11 +117,11 @@ Câu hỏi tiếp theo — một khi đã có nhà nước chính đáng, nó n�
 
 Đọc cả hai bài chính trị, bạn sẽ thấy một mẫu số chung: mọi lý thuyết chính đáng hóa quyền lực đều phải trả lời câu hỏi của Hume — "người dân thực sự đồng ý ở đâu?" Các câu trả lời khác nhau (lợi ích, quyền tự nhiên, ý chí chung, sự đồng ý giả định của người có lý trí) chính là các lý thuyết khác nhau. Và bài kiểm tra cuối cùng luôn là thực tế: chính quyền nào khiến người dân *sống tốt hơn* mà vẫn *tôn trọng họ như con người* — đó là chính quyền mà mọi lý thuyết đều phải công nhận.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về khế ước xã hội hay tính chính đáng của chính quyền, nên **chưa có số liệu khảo sát riêng cho câu hỏi này**. Câu gần nhất là câu chính "Triết học chính trị" (cộng đồng luận, chủ nghĩa bình đẳng hay chủ nghĩa tự do cá nhân — xem bảng trong bài [Công lý là gì?](cong-ly.md)), nhưng câu ấy hỏi về công lý phân phối, không hỏi quyền lực chính đáng đến từ đâu. Điều có thể nói chắc chắn là khung khế ước xã hội — qua Hobbes, Locke, Rousseau — vẫn là ngôn ngữ chung của triết học chính trị hiện đại: khi tranh luận về thuế, về quyền riêng tư, về giới hạn của nhà nước, người ta vẫn đang tranh luận trong các khái niệm mà ba ông đặt ra từ thế kỷ 17–18.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Thuế: tiền của tôi, sao nhà nước được lấy?** Người theo Locke sẽ hỏi: thuế này có được dùng để bảo vệ quyền của tôi không (an ninh, tòa án, đường sá)? Nếu có, đó là phần tôi "trả" cho khế ước. Nếu thuế bị dùng để nuôi bộ máy tham nhũng, thì khế ước đang bị vi phạm từ phía nhà nước. Người theo Hobbes thì thực dụng hơn: so với cảnh không có nhà nước, đóng thuế vẫn là món hời. Còn Hume sẽ nhắc: đừng hỏi "tôi đã ký khi nào", hãy hỏi "bỏ nhà nước đi thì tôi được gì".
 
@@ -131,7 +131,7 @@ Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về khế ước x�
 
 **Giám sát và quyền riêng tư.** Nhà nước lắp camera khắp phố, yêu cầu định danh điện tử, thu thập dữ liệu công dân — vì an ninh, vì tiện ích. Người theo Hobbes sẽ gật đầu: đó chính là cái giá của trật tự, và cái giá ấy rẻ hơn nhiều so với hỗn loạn. Người theo Locke sẽ hỏi ngược: ranh giới ở đâu? Khi nhà nước biết mọi thứ về bạn, cán cân quyền lực nghiêng hẳn về một phía — và khế ước, vốn là thỏa thuận giữa hai bên, có còn là thỏa thuận nữa không? Tranh luận về quyền riêng tư trong thời đại số, suy cho cùng, là tranh luận về *điều khoản* của khế ước: ta đã đồng ý cho nhà nước biết đến đâu?
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây là bức tranh trạng thái tự nhiên của Hobbes, *Leviathan* chương 13 (1651) — văn bản đã hết bản quyền, giữ nguyên chính tả của bản in năm 1651 theo Project Gutenberg — kèm bản dịch tiếng Việt.
 
@@ -146,7 +146,7 @@ Câu hỏi dẫn dắt:
 2. Cụm từ cuối — "cô độc, nghèo nàn, bẩn thỉu, tàn bạo, và ngắn ngủi" — là một trong những câu nổi tiếng nhất của triết học chính trị. Bạn có thấy bức tranh này phóng đại không? Hãy nghĩ về một cộng đồng không nhà nước mà bạn biết (trong lịch sử hay trong phim ảnh) để kiểm chứng.
 3. Hume sẽ phản bác đoạn này như thế nào? (Gợi ý: ông không phủ nhận đời không nhà nước thì khổ — ông phủ nhận điều khác.)
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -162,7 +162,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Ở Việt Nam, mọi công dân nam đủ điều kiện đều có thể được gọi thực hiện nghĩa vụ quân sự. Hãy dùng ít nhất một lý thuyết trong bài (Hobbes, Locke, Rousseau, hoặc phản bác của Hume) để trả lời: nghĩa vụ này có chính đáng không? Với điều kiện gì?
 
@@ -174,7 +174,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có xét đến quan điểm ngược lại (ví dụ: theo Hobbes thì chính đáng vì an ninh, nhưng chính Hobbes cũng giới hạn ở quyền tự bảo toàn) không?
     - Bài viết có ví dụ cụ thể và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Hobbes, Thomas (1651), *Leviathan*. Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/3207>
 2. Locke, John (1689; trang bìa ghi 1690), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/7370>

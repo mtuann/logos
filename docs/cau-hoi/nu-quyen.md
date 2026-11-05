@@ -19,7 +19,7 @@ Bài này không phải lịch sử phong trào nữ quyền. Bài này hỏi ba
 
 Chữ "nữ quyền" là Hán Việt: *nữ* (女, phụ nữ) + *quyền* (權, quyền lực, quyền lợi). Tiếng Anh *feminism* gốc Latin *femina* (phụ nữ). Ngay trong tên gọi đã có sự căng thẳng mà bài này sẽ mổ xẻ: "nữ quyền" nghe như đòi quyền *cho phụ nữ* — nhưng nhiều triết gia nữ quyền cho rằng điều họ làm sâu hơn thế: họ chất vấn cả cái khung mà trong đó "quyền", "bình đẳng", "lý trí" được định nghĩa.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Đất nước Bình Đẳng ban hành hiến pháp mới: "Nam nữ hoàn toàn bình đẳng trước pháp luật. Mọi luật lệ trung lập giới tính, nghiêm cấm phân biệt đối xử." Sáu mươi năm sau, người ta thống kê: 92% giám đốc điều hành là nam; phụ nữ vẫn gánh phần lớn việc nhà và chăm sóc con cái không lương; bạo lực gia đình chủ yếu nhắm vào phụ nữ; trong quốc hội, phụ nữ chiếm chưa đến một phần năm.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử chính phủ đáp lại bằng chính sách "mù giới" triệt để hơn — xóa luôn ô "giới tính" khỏi mọi đơn từ, cấm hỏi giới tính khi tuyển dụng, coi mọi công dân là những cá nhân trừu tượng không giới tính. Bạn có tin rằng sau 60 năm nữa, thống kê sẽ cân bằng? Nếu không tin, thì điều đó cho thấy bạn đã mang theo một niềm tin: bất bình đẳng không nằm trong *luật chữ*, mà nằm trong những cấu trúc mà luật chữ không nhìn thấy — và đó chính là điểm xuất phát của triết học nữ quyền.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau — nhưng cần nói trước: chúng không phải ba phe đánh nhau. Nhiều triết gia nữ quyền đứng ở cả ba vị trí cùng lúc, ở các mức độ khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Nữ quyền bình đẳng: vấn đề là rào cản, giải pháp là cơ hội bình đẳng
 
@@ -81,7 +81,7 @@ Lập trường thứ ba bắt đầu từ một nghiên cứu tâm lý. Lawrenc
 
 **Cách đáp lại.** Gilligan nhấn mạnh ngay từ đầu: đây là "giọng nói *khác*", không phải "giọng nói *của phụ nữ*" — nam giới cũng có thể và nên nói giọng này; nghiên cứu của bà chỉ phát hiện ra nó *qua* phụ nữ vì xã hội đã đẩy phụ nữ vào vị trí chăm sóc. Việc của triết học, theo hướng này, không phải là gán "chăm sóc" cho phụ nữ, mà là *nâng giá trị* của chăm sóc lên ngang với công lý — và đòi hỏi *mọi người* cùng gánh vác nó. Còn về vấn đề công cộng: người theo đạo đức chăm sóc không đòi *thay thế* đạo đức công lý mà đòi *bổ sung* — một xã hội chỉ có nguyên tắc công bằng mà không có văn hóa chăm sóc sẽ là một xã hội lạnh lùng, đúng luật nhưng thiếu tình người; và ngược lại.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không hỏi về nữ quyền bình đẳng, lý thuyết standpoint hay đạo đức chăm sóc. Nhưng nó có hai câu đúng vào một trọng tâm của triết học nữ quyền từ de Beauvoir: phân biệt **giới tính** (*sex*, các đặc điểm sinh học) với **giới** (*gender*, những vai trò, chuẩn mực và vị trí xã hội gắn với việc là phụ nữ hay đàn ông). Câu *chính* (hỏi tất cả người tham gia) "Giới thuộc loại gì?" hỏi giới là một loại sinh học, tâm lý, xã hội, hay không có thật; câu *bổ sung* (chỉ hỏi những người chọn trả lời thêm) hỏi ta nên giữ nguyên, sửa đổi hay loại bỏ các phạm trù giới.
 
@@ -105,7 +105,7 @@ Triết học nữ quyền là một trong những hướng nghiên cứu phát 
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều là những lập trường nghiêm túc còn đang tranh luận — và ranh giới giữa chúng không cứng như cách trình bày trong bài. Nhiều triết gia nữ quyền đương đại đồng thời: ủng hộ chính sách bình đẳng thực chất (lập trường 1), dùng phương pháp standpoint để phê phán các khái niệm "trung lập" (lập trường 2), và bênh vực giá trị của chăm sóc trong đạo đức (lập trường 3). Câu hỏi khó không phải "chọn phe nào", mà là khi ba yêu cầu xung đột — ví dụ khi chính sách "đối xử giống nhau" (lập trường 1) vô tình củng cố chuẩn mực nam giới (điều lập trường 2 cảnh báo) — ta ưu tiên cái nào?
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Việc nhà không lương và cách ta tính "đóng góp".** GDP — thước đo thành công của một nền kinh tế — không tính công việc nhà không lương: nấu ăn, dọn dẹp, chăm con, chăm người già. Ở Việt Nam cũng như nhiều nước, phần lớn công việc này do phụ nữ gánh. Lập trường 2 cho ta ngôn ngữ để gọi tên vấn đề: không phải phụ nữ "không đóng góp cho kinh tế", mà là *định nghĩa* "đóng góp" đã được xây dựng từ vị trí của người đi làm hưởng lương (chủ yếu là nam giới) — và những gì không lọt vào định nghĩa thì bị coi như không tồn tại. Thay đổi định nghĩa, bức tranh sẽ khác hẳn.
 
@@ -115,7 +115,7 @@ Một điều có thể nói một cách trung thực: cả ba hướng trên đ
 
 **Chăm sóc người già: ai gánh?** Ở Việt Nam, chăm sóc cha mẹ già chủ yếu do con cái — và trong thực tế, chủ yếu do *con gái và con dâu* — gánh vác, thường không lương và không được ghi nhận. Đạo đức chăm sóc (lập trường 3) cho công việc này một giá trị triết học: đây là lao động đạo đức nghiêm túc, không kém gì việc "làm ra của cải". Nhưng phản bác của lập trường 3 cũng nhắc ta: nâng giá trị của chăm sóc mà không thay đổi việc *ai* phải chăm sóc thì chỉ là tô đẹp cho bất công. Câu hỏi thực tế: xã hội nên chia sẻ gánh nặng chăm sóc như thế nào — giữa nam và nữ, giữa gia đình và nhà nước — để "chăm sóc" là một giá trị chung chứ không phải một cái bẫy dành cho một giới?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -183,7 +183,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy lấy một ví dụ cụ thể trong đời sống Việt Nam mà bạn quan sát được (gia đình, trường học, công sở, mạng xã hội) và phân tích nó bằng *cả ba* lập trường trong bài: lập trường bình đẳng sẽ nói gì về ví dụ đó? Lập trường standpoint sẽ chỉ ra điều gì mà lập trường bình đẳng bỏ sót? Và đạo đức chăm sóc sẽ đặt câu hỏi gì khác?
 
@@ -197,7 +197,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có chỉ ra được điểm mà ba lập trường *bất đồng* với nhau về ví dụ đó không?
     - Bạn có nêu được lập trường của chính mình sau khi nghe cả ba, và lý do chọn lập trường đó?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-ethics/>
 2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-epistemology/>

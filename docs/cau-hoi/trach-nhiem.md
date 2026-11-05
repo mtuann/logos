@@ -19,7 +19,7 @@ Câu hỏi đó không chỉ của riêng bạn tôi. Mỗi lần ta khen một 
 
 Bài [Ta có thật sự tự do lựa chọn?](tu-do-y-chi.md) đã hỏi ta có tự do không. Bài này hỏi một câu gần với đời sống hơn: dù câu trả lời về tự do là gì, thì ta có còn *đáng* bị khen, bị trách không?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Chị Hoa làm kế toán. Một hôm, trong một thí nghiệm được giám sát, một nhà thôi miên gieo vào đầu chị một mệnh lệnh: chiều nay, khi nghe tiếng chuông, chị sẽ lấy trộm tiền quỹ. Chị không hề biết mình bị thôi miên. Chiều đó chuông reo, chị lấy tiền. Khi bị phát hiện, chị thề rằng đó là ý của chính mình — chị còn bịa ra lý do: "Tôi cần tiền chữa bệnh cho mẹ."
@@ -32,7 +32,7 @@ Bài [Ta có thật sự tự do lựa chọn?](tu-do-y-chi.md) đã hỏi ta c�
 
 Hãy tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Trong thí nghiệm trên có ba câu hỏi lẫn vào nhau.
 
@@ -53,7 +53,7 @@ Nhiều tranh luận về trách nhiệm thật ra là tranh luận về việc 
 
 **Câu hỏi thứ ba: trách nhiệm có đòi hỏi "có thể làm khác đi" không?** Nguyên tắc nghe rất hợp lý này nói: một người chỉ chịu trách nhiệm về việc mình làm nếu mình *có thể* đã làm khác. Nhưng nó có đúng không? Đây là chỗ Harry Frankfurt tấn công.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Frankfurt: trách nhiệm không cần "có thể làm khác đi"
 
@@ -119,7 +119,7 @@ Hãy so sánh: người bị cấy chip điều khiển toàn bộ quá trình c
 
 **Cách đáp lại.** Fischer đáp rằng có một khác biệt có cơ sở, và nó nằm ở điều kiện thứ nhất (cơ chế có phải *của mình* không): bị một *tác nhân khác* trực tiếp điều khiển vì mục đích của họ thì cơ chế không còn là của bạn, khác với được hình thành bởi những nguyên nhân tự nhiên không có chủ ý. Trong trường hợp thứ hai, không ai "viết kịch bản" cho bạn; cơ chế ra quyết định vẫn là nơi mà *lý do của chính bạn* được cân nhắc. Người phản đối có thể hỏi tiếp: "nhưng gen và môi trường cũng 'viết kịch bản' cho bạn đấy thôi?" — và cuộc tranh luận tiếp tục.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về trách nhiệm đạo đức, nên không có số liệu trực tiếp cho các lập trường trong bài này. Nhưng có một câu hỏi họ hàng gần, rất liên quan đến tranh luận Frankfurt:
 
@@ -139,7 +139,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - Nhưng lưu ý: hai nguyên tắc không giống hệt nhau. Người ta có thể chấp nhận "phải kéo theo có thể" mà vẫn theo Frankfurt về trách nhiệm. Tranh luận này chưa ngã ngũ.
 - Về câu hỏi trong [bài tự do ý chí](tu-do-y-chi.md) — tương thích luận 59,2%, thuyết ý chí tự do 18,8%, không có tự do ý chí 11,2% — bạn có thể xem lại ở đó. Đừng suy thẳng từ "đa số theo tương thích luận" sang "đa số nghĩ ai cũng đáng trách", vì trách nhiệm còn có những tranh luận riêng của nó.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Khen thưởng ở trường học, công ty.** Một học sinh đạt giải vì thông minh bẩm sinh và bố mẹ thuê gia sư giỏi; một nhân viên đạt chỉ tiêu vì được giao đúng khách hàng dễ tính. Lời khen của ta có "sai" không? Phân biệt hai nghĩa của trách (bản án / lời mời sửa sai) giúp ở đây: lời khen không chỉ là bản án về quá khứ ("bạn đáng được vinh danh vì bạn tự tạo ra thành công"), mà còn là tín hiệu cho tương lai ("hãy tiếp tục như vậy"). Nghĩa thứ hai đứng vững ngay cả khi ta thừa nhận vai trò của may mắn. Nhưng có lẽ ta nên khen *nỗ lực* nhiều hơn khen *tài năng* — vì nỗ lực là thứ người ta điều khiển được nhiều hơn.
 
@@ -149,7 +149,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 **Lời xin lỗi.** Khi nào lời xin lỗi có ý nghĩa? Khi người nói nhận mình là *nguồn* của hành động ("tôi đã làm điều đó, không đổ cho ai"), và thể hiện rằng cơ chế của họ đã thay đổi ("tôi hiểu vì sao điều đó sai, và tôi sẽ khác đi"). Đó chính là ngôn ngữ của Fischer, nói theo cách đời thường. Một lời xin lỗi kiểu "tôi xin lỗi *nếu* ai đó thấy bị xúc phạm" thất bại ở cả hai điểm.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Hơn 2.300 năm trước, Aristotle đã đặt nền cho mọi tranh luận về trách nhiệm: chỉ hành động *tự nguyện* mới đáng khen, đáng trách. Đoạn mở đầu Quyển III của *Đạo đức Nicomachus*, theo bản dịch tiếng Anh của W. D. Ross (xuất bản 1925; thuộc phạm vi công cộng tại Hoa Kỳ):
 
@@ -166,7 +166,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc *Đạo đức Nicomachus*](../doc/aristotle-dao-duc.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -182,7 +182,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy nhớ lại một lần bạn trách ai đó (hoặc bị ai đó trách) — một chuyện có thật. Dùng ít nhất một lập trường trong bài (Frankfurt, Strawson, Pereboom, Fischer) để xét lại: lời trách đó có đứng vững không? Có điều gì bạn sẽ nói khác đi hôm nay?
 
@@ -195,7 +195,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu một phản bác cho cách xét lại của mình không?
     - Bài viết có trung thực với cảm xúc thật của bạn, thay vì chỉ viết cho "đúng lý thuyết" không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Frankfurt, Harry G. (1969), "Alternate Possibilities and Moral Responsibility", *The Journal of Philosophy* 66(23): 829–839. <https://doi.org/10.2307/2023833>
 2. Strawson, Peter F. (1962), "Freedom and Resentment", *Proceedings of the British Academy* 48: 187–211.

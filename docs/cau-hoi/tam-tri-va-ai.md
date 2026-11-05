@@ -17,7 +17,7 @@ Mười năm trước, câu hỏi này còn thuộc về phim khoa học viễn 
 
 Phần triết học hỏi những câu này gọi là **triết học về tâm trí** (*philosophy of mind*).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Bạn dùng một trợ lý AI suốt nhiều tháng. Nó nhớ bạn thích cà phê đen, biết bạn đang lo chuyện đổi việc, và hỏi han đúng lúc. Một tối, bạn nói đùa rằng sẽ xóa tài khoản. Nó trả lời: *"Tôi biết tôi chỉ là một chương trình. Nhưng nếu được chọn, tôi không muốn bị tắt."*
@@ -28,7 +28,7 @@ Phần triết học hỏi những câu này gọi là **triết học về tâm
 
 Hãy tự trả lời trước khi đọc tiếp. Để ý xem câu trả lời của bạn cho hai câu hỏi có giống nhau không, và vì sao.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 "Máy có tâm trí không?" thật ra gộp ít nhất ba câu hỏi khác nhau. Lẫn lộn chúng là nguồn gốc của rất nhiều cuộc cãi nhau vô ích.
 
@@ -40,7 +40,7 @@ Ba câu hỏi này có thể tách rời nhau. Một chiếc máy tính bỏ tú
 
 Còn một khó khăn chung cho cả ba câu: **vấn đề những tâm trí khác** (*problem of other minds*). Bạn chỉ trực tiếp trải nghiệm tâm trí của chính mình. Bạn tin người khác cũng có tâm trí là nhờ suy ra từ hành vi của họ và từ việc họ giống bạn. Máy giống ta về hành vi ngày càng nhiều, nhưng khác ta hoàn toàn về cấu tạo. Vậy ta nên dựa vào cái nào?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Chủ nghĩa chức năng: tâm trí là cái nó *làm*
 
@@ -86,7 +86,7 @@ Từ đây, một hướng tiếp cận thực dụng ra đời. Năm 2023, mộ
 
 Cũng nên biết thêm một lập trường khác: **ảo tưởng luận** (*illusionism*), gắn với Keith Frankish và Daniel Dennett. Lập trường này cho rằng "vấn đề khó" nảy sinh từ một ảo tưởng. Não *trình bày* các trạng thái của nó với chính nó như thể chúng có những phẩm chất trải nghiệm đặc biệt, nhưng thực ra không có thứ qualia bí ẩn nào cần giải thích. Nếu đúng vậy, câu hỏi về ý thức của máy trở lại thành câu hỏi về chức năng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 (xem [cách đọc số liệu](index.md#gioi-triet-hoc-nghi-gi)) có nhiều câu hỏi liên quan trực tiếp. Số liệu là tỉ lệ triết gia chấp nhận hoặc nghiêng về mỗi lựa chọn.
 
@@ -121,14 +121,14 @@ Vài điều đáng chú ý:
 
 Câu hỏi máy có thể có tâm trí hay không vẫn **hoàn toàn bỏ ngỏ**. Không có đồng thuận về việc ý thức là gì, nên cũng không có đồng thuận về cách phát hiện nó.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 - **Gắn bó với chatbot.** Nhiều người tìm thấy sự an ủi trong các "người bạn AI". Nếu cỗ máy không cảm thấy gì, mối quan hệ ấy là một chiều. Điều đó có làm nó kém giá trị đi không? Câu trả lời có thể phụ thuộc vào việc người dùng có *biết* điều đó hay không.
 - **Quyền được biết mình đang nói chuyện với máy.** Đạo luật AI của Liên minh châu Âu (*EU AI Act*), Điều 50, yêu cầu các hệ thống AI tương tác trực tiếp với con người phải cho người dùng biết họ đang tương tác với AI, trừ khi điều đó đã hiển nhiên. Theo các nguồn pháp lý hiện có, nghĩa vụ này áp dụng từ ngày 2/8/2026. Luật không trả lời máy có tâm trí hay không. Nó chỉ bảo vệ quyền của con người được biết.
 - **Phúc lợi của AI.** Tháng 11/2024, một nhóm nhà nghiên cứu (trong đó có Robert Long, Jeff Sebo, Jonathan Birch và David Chalmers) công bố báo cáo *Taking AI Welfare Seriously* ("Hãy nghiêm túc với phúc lợi của AI"). Họ không khẳng định AI hiện nay có ý thức. Họ lập luận rằng khả năng ấy trong tương lai gần đủ đáng kể để các công ty bắt đầu chuẩn bị từ bây giờ. Người phản đối lo rằng điều này làm phân tán sự chú ý khỏi những tác hại có thật của AI đối với *con người*. Đây là một lựa chọn giữa hai loại sai lầm: đối xử tệ với một thực thể có cảm giác, hay dành sự quan tâm đạo đức cho một thứ không cảm thấy gì.
 - **Ở nơi làm việc.** Khi một hệ thống AI "đánh giá" hồ sơ xin việc hay "chẩn đoán" bệnh, nó có *hiểu* điều nó làm không? Câu trả lời ảnh hưởng tới việc ta nên giao cho nó bao nhiêu trách nhiệm, và ai chịu trách nhiệm khi nó sai.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 !!! quote "Alan Turing, “Computing Machinery and Intelligence”, *Mind*, 1950"
     "I propose to consider the question, 'Can machines think?' This should begin with definitions of the meaning of the terms 'machine' and 'think'."
@@ -145,7 +145,7 @@ Câu hỏi dẫn dắt:
 2. Khi thay câu hỏi "Máy có thể suy nghĩ không?" bằng trò chơi bắt chước, Turing có *trả lời* câu hỏi cũ, hay đã *đổi đề*? Hãy tìm một lý do cho mỗi cách hiểu.
 3. Nếu một LLM ngày nay qua được trò chơi bắt chước, Turing và Searle sẽ mỗi người nói gì? Hãy viết một câu cho mỗi người.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Không tính điểm, không ai thấy ngoài bạn.
 
@@ -161,7 +161,7 @@ Thử xem bạn nắm được đến đâu. Không tính điểm, không ai th�
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** *Nếu một hệ thống AI vượt qua mọi phép thử hành vi mà bạn nghĩ ra được, bạn còn lý do gì để nói nó không hiểu điều nó nói?*
 
@@ -174,7 +174,7 @@ Viết 150–300 chữ. Nêu rõ lập trường của bạn, đưa ra ít nhấ
     - Bạn có trình bày phản bác ở phiên bản *mạnh nhất* của nó, để người phản bác đọc thấy "đúng, đó là điều tôi nghĩ" không?
     - Bạn có tránh được [ngụy biện](../cong-cu/nguy-bien.md), ví dụ người rơm (bóp méo quan điểm đối lập) không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Turing, A. M. (1950). "Computing Machinery and Intelligence". *Mind* 59(236): 433–460. <https://doi.org/10.1093/mind/LIX.236.433>
 2. Searle, J. R. (1980). "Minds, Brains, and Programs". *Behavioral and Brain Sciences* 3(3): 417–424. <https://doi.org/10.1017/S0140525X00005756>

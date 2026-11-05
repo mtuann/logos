@@ -11,13 +11,13 @@ Tối qua bạn xem một bộ phim. Nhân vật chính đứng trước cần g
 
 Không có phòng thí nghiệm nào ở đây. Không ống nghiệm, không số liệu. Chỉ có một tình huống tưởng tượng — và phản ứng của bạn trước nó. Thế mà chính thứ "thí nghiệm" ấy là một trong những công cụ sắc bén nhất của triết học.
 
-## Thí nghiệm tư duy là gì
+## Thí nghiệm tư duy là gì {#thi-nghiem-tu-duy-la-gi}
 
 Một **thí nghiệm tư duy** (*thought experiment*) là một tình huống tưởng tượng được dựng lên cẩn thận, nhằm kiểm tra **trực giác** (*intuition*) của ta về một khái niệm: công bằng, tri thức, đúng và sai, bản sắc cá nhân...
 
 Nó không cần xảy ra thật. Điều quan trọng không phải là tình huống, mà là *phản ứng của bạn*: cái cảm giác "như thế là sai" hoặc "như thế mới đúng" bật ra trước khi bạn kịp lý luận. Triết gia thu thập chính cái phản ứng ấy — rồi mổ xẻ nó.
 
-## Vì sao không làm thí nghiệm thật cho nhanh
+## Vì sao không làm thí nghiệm thật cho nhanh {#vi-sao-khong-lam-thi-nghiem-that-cho-nhanh}
 
 Ba lý do.
 
@@ -27,7 +27,7 @@ Ba lý do.
 
 **Thứ ba, để kiểm tra định nghĩa.** Giả sử bạn định nghĩa "công bằng" là "chia đều cho mọi người". Rồi có người đặt ra tình huống: hai người, một người đang khát sắp chết, một người chỉ hơi khát — chia đều mỗi người nửa chai nước thì người sắp chết vẫn chết. Trực giác bạn nói "như thế không công bằng". Vậy là định nghĩa "chia đều" có vấn đề. Thí nghiệm tư duy không chứng minh điều gì đúng; nó chỉ cho thấy định nghĩa của bạn không chịu nổi chính trực giác của bạn.
 
-## Hai ví dụ đời thường
+## Hai ví dụ đời thường {#hai-vi-du-doi-thuong}
 
 !!! question "Thí nghiệm 1: Ai đáng trách hơn?"
     Hai người cùng vừa lái xe vừa nhắn tin khi qua một ngã tư — lơ đãng như nhau, sai luật như nhau.
@@ -49,7 +49,7 @@ Ba lý do.
 
     Thí nghiệm này không có đáp án đúng. Cái hay của nó là nó lộ ra rằng ta đang dùng hai quan niệm công bằng khác nhau mà bình thường không để ý.
 
-## Cách đọc: đừng vội biện hộ cho chính mình
+## Cách đọc: đừng vội biện hộ cho chính mình {#cach-doc-dung-voi-bien-ho-cho-chinh-minh}
 
 Thí nghiệm tư duy dễ đọc sai theo một cách rất người: ta có trực giác, rồi vội vàng dựng lý lẽ để *bảo vệ* trực giác đó. Thế là ta chẳng học được gì mới. Hãy làm ngược lại, theo ba bước:
 
@@ -59,7 +59,7 @@ Thí nghiệm tư duy dễ đọc sai theo một cách rất người: ta có tr
 
 **Bước 3. Đổi chi tiết, xem trực giác có đổi không.** Đây là bước quyền lực nhất. Trong thí nghiệm 1, thử đổi: người thứ hai suýt gây tai nạn nhưng may mà phanh kịp — trực giác của bạn có dịu đi không? Nếu có, thì thứ chi phối phán đoán của bạn không phải "lơ đãng" mà là "hậu quả". Mỗi lần đổi một chi tiết và quan sát trực giác thay đổi, bạn lại biết thêm một chút về chính mình.
 
-## Thí nghiệm tư duy trong đời thường
+## Thí nghiệm tư duy trong đời thường {#thi-nghiem-tu-duy-trong-doi-thuong}
 
 Bạn đã làm thí nghiệm tư duy nhiều hơn bạn tưởng — chỉ là không gọi nó bằng cái tên đó.
 
@@ -69,7 +69,7 @@ Bạn đã làm thí nghiệm tư duy nhiều hơn bạn tưởng — chỉ là 
 
 Nhận ra điều này có một lợi ích thực tế: từ nay mỗi lần bạn buột miệng "nếu là tôi thì tôi...", hãy dừng lại một giây và hỏi: mình vừa khám phá ra điều gì về chính mình?
 
-## Đọc một mình hay tranh luận cùng nhau
+## Đọc một mình hay tranh luận cùng nhau {#doc-mot-minh-hay-tranh-luan-cung-nhau}
 
 Thí nghiệm tư duy đọc một mình đã tốt, nhưng tranh luận cùng người khác còn tốt hơn — vì điểm mù của bạn thì bạn không tự thấy được.
 
@@ -77,7 +77,7 @@ Khi bạn kể thí nghiệm 1 (hai tài xế) cho một người bạn, rất c
 
 Ngược lại, khi bạn là người nghe, đừng vội phản bác kết luận của bạn mình. Hãy hỏi như [Socrates](../triet-gia/socrates.md): "Ý bạn là gì khi nói 'công bằng'?" (xem [Phép biện chứng Socrates](bien-chung-socrates.md)). Một buổi cà phê với hai người chịu hỏi nhau đến cùng đáng giá hơn mười bài luận đọc một mình.
 
-## Khi cách diễn đạt thay đổi trực giác
+## Khi cách diễn đạt thay đổi trực giác {#khi-cach-dien-dat-thay-doi-truc-giac}
 
 Cùng một thí nghiệm xe điện, hãy thử hỏi theo hai cách:
 
@@ -88,7 +88,7 @@ Cùng một hành động, cùng một hậu quả — mà trực giác của nh
 
 Bài học thực hành: khi đọc một thí nghiệm tư duy (kể cả hai ví dụ trong bài này), hãy thử diễn đạt lại nó bằng lời của chính mình, theo hướng ngược lại. Nếu trực giác đổi theo cách diễn đạt, thì thứ bạn đang tin có thể không phải là nguyên tắc — mà chỉ là cách câu chữ đánh lừa bạn.
 
-## Khi thí nghiệm bị dàn dựng
+## Khi thí nghiệm bị dàn dựng {#khi-thi-nghiem-bi-dan-dung}
 
 Có một cách lạm dụng thí nghiệm tư duy mà bạn nên biết để tự vệ: dựng tình huống sao cho chỉ còn một đáp án "đúng".
 
@@ -100,7 +100,7 @@ Quy tắc tự vệ: trước khi trả lời một thí nghiệm tư duy, hãy 
 
 Một thí nghiệm trung thực mời bạn suy nghĩ; một thí nghiệm bị dàn dựng chỉ mời bạn gật đầu.
 
-## Cảnh báo: trực giác không phải lúc nào cũng đúng
+## Cảnh báo: trực giác không phải lúc nào cũng đúng {#canh-bao-truc-giac-khong-phai-luc-nao-cung-dung}
 
 Thí nghiệm tư duy bắt đầu từ trực giác, nhưng không kết thúc ở đó — vì trực giác có thể sai.
 
@@ -110,7 +110,7 @@ Hơn nữa, trực giác không trung lập về văn hóa. Với những tình 
 
 Vậy nên: hãy coi trực giác như *dữ liệu*, không phải *phán quyết*. Thí nghiệm tư duy là điểm khởi đầu của suy nghĩ, không phải điểm kết thúc.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Tự dựng một thí nghiệm tư duy đời thường để kiểm tra khái niệm "dũng cảm". Gợi ý: đặt nhân vật vào tình huống mà "dũng cảm" và "liều lĩnh" khó phân biệt, rồi hỏi người đọc: đây là dũng cảm hay liều lĩnh?
 
@@ -137,7 +137,7 @@ Vậy nên: hãy coi trực giác như *dữ liệu*, không phải *phán quy�
 ??? success "Xem gợi ý đáp án"
     Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (thực tế người bị tra tấn thường khai bừa để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 <div class="oz-quiz" data-id="argument-5" data-skill="argument" markdown="0">
 <script type="application/json">
@@ -151,17 +151,17 @@ Vậy nên: hãy coi trực giác như *dữ liệu*, không phải *phán quy�
 </script>
 </div>
 
-## Thử với công cụ
+## Thử với công cụ {#thu-voi-cong-cu}
 
 Tám thí nghiệm kinh điển — từ xe điện mất phanh đến căn phòng tiếng Trung — mỗi thí nghiệm một câu hỏi, không có đáp án đúng. Chọn theo trực giác của bạn, rồi xem lập luận của cả hai phía.
 
 <div class="oz-thi-nghiem"></div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Trực giác là điểm khởi đầu tốt. Nhưng cũng chính nơi trực giác ở, ngụy biện hay ẩn nấp nhất. Mời đọc [Ngụy biện](nguy-bien.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. James Robert Brown và Yiftach Fehige, "Thought Experiments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/thought-experiment/>
 2. Amos Tversky và Daniel Kahneman, "The Framing of Decisions and the Psychology of Choice", *Science* 211(4481), 1981, tr. 453–458 (về hiệu ứng đóng khung). <https://doi.org/10.1126/science.7455683>

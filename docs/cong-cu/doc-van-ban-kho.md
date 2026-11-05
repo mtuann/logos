@@ -13,7 +13,7 @@ Minh sai ở đúng một chỗ: cậu tưởng người ta đọc văn bản tr
 
 Bài này là phương pháp đó: ba lượt đọc, mỗi lượt một việc.
 
-## Lượt một: lướt để nắm cấu trúc
+## Lượt một: lướt để nắm cấu trúc {#luot-mot-luot-de-nam-cau-truc}
 
 Mục tiêu của lượt đầu không phải là hiểu. Mục tiêu là trả lời một câu hỏi duy nhất: **bài này muốn chứng minh điều gì?**
 
@@ -21,7 +21,7 @@ Mục tiêu của lượt đầu không phải là hiểu. Mục tiêu là trả
 
 Cuối lượt một, bạn phải viết được một câu: "Tác giả muốn chứng minh rằng ___." Nếu chưa viết được, lướt lại một lần nữa. Vẫn là lượt một.
 
-## Lượt hai: phân tích chậm từng đoạn
+## Lượt hai: phân tích chậm từng đoạn {#luot-hai-phan-tich-cham-tung-doan}
 
 Giờ mới đọc kỹ. Với mỗi đoạn, tìm ba thứ:
 
@@ -49,7 +49,7 @@ Ví dụ ghi chú lề cho một đoạn dài về tự do ý chí:
 
 Một trang triết học đặc có thể chỉ còn lại năm, sáu câu ghi chú lề. Đó là toàn bộ "xương" của bài.
 
-## Lượt ba: đánh giá — và chỉ đánh giá ở lượt ba
+## Lượt ba: đánh giá — và chỉ đánh giá ở lượt ba {#luot-ba-danh-gia-va-chi-danh-gia-o-luot-ba}
 
 Rất nhiều người đọc nhảy thẳng tới bước này: "Tác giả nói sai rồi!" khi còn chưa chắc tác giả nói gì. Quy tắc sắt: **hiểu trước, phán sau.**
 
@@ -62,13 +62,13 @@ Khi đã nắm được luận đề, tiền đề, kết luận của từng đ
 
 Câu hỏi thứ ba thường là chỗ thú vị nhất. Giả định ngầm là nơi một lập luận trông vững chắc bỗng lung lay.
 
-## Đừng xấu hổ khi phải đọc ba lần
+## Đừng xấu hổ khi phải đọc ba lần {#dung-xau-ho-khi-phai-doc-ba-lan}
 
 Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
 
 Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu vào tường. Tra thuật ngữ (bắt đầu từ [Từ điển](../them/tu-dien.md) của site này), hỏi người khác, hoặc để đó vài ngày rồi quay lại. Văn bản khó thường "mềm ra" sau một giấc ngủ.
 
-## Thực hành trên một đoạn văn mẫu
+## Thực hành trên một đoạn văn mẫu {#thuc-hanh-tren-mot-doan-van-mau}
 
 Đoạn văn dưới đây do Logos Zero tự viết để bạn thực hành. Hãy thử ba lượt đọc trước khi xem phần phân tích.
 
@@ -90,7 +90,7 @@ Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu v�
 
 Thấy không? Đoạn văn chỉ có bốn câu, mà lượt ba đã mở ra cả một tranh luận của đạo đức học. Đó là phần thưởng của việc đọc chậm.
 
-## Ba cái bẫy khi đọc
+## Ba cái bẫy khi đọc {#ba-cai-bay-khi-doc}
 
 **Đọc như đọc truyện.** Tiểu thuyết thì lướt được; văn bản triết thì không. Mỗi đoạn triết học thường chỉ làm một việc (nêu luận đề, đưa lý do, hoặc phản bác). Đọc lướt qua mà không dừng lại hỏi "đoạn này làm việc gì" thì sang trang sau bạn sẽ chẳng còn gì trong đầu.
 
@@ -98,13 +98,13 @@ Thấy không? Đoạn văn chỉ có bốn câu, mà lượt ba đã mở ra c�
 
 **Gạch chân mọi thứ.** Trang nào cũng vàng khè thì không chỗ nào nổi bật. Quy tắc: mỗi trang chỉ được gạch ba chỗ — ba chỗ *nhất định phải nhớ*. Buộc mình chọn là buộc mình hiểu.
 
-## Đọc để viết
+## Đọc để viết {#doc-de-viet}
 
 Đọc và viết là hai mặt của một việc. Ba lượt đọc thực ra đang chuẩn bị nguyên liệu cho chính đoạn văn của bạn: luận đề của tác giả thành "người ta nói…", đánh giá của bạn ở lượt ba thành "còn tôi nói…".
 
 Vì vậy, ở lượt ba, hãy ghi thêm một dòng cho mỗi luận điểm quan trọng: *mình đồng ý hay không, và lý do của mình là gì?* Dòng đó, sau này, chính là câu luận điểm cho đoạn văn bạn viết. Đọc kỹ sinh ra viết có lý — đó là lý do hai kỹ năng này luôn đi cùng nhau.
 
-## Mẫu nhận diện
+## Mẫu nhận diện {#mau-nhan-dien}
 
 **Trước khi đọc:** Hỏi "bài này thuộc loại nào?" (bài luận chứng minh, bài phê bình, đối thoại?). Biết loại văn bản thì biết nên tìm gì.
 
@@ -116,7 +116,7 @@ Vì vậy, ở lượt ba, hãy ghi thêm một dòng cho mỗi luận điểm q
 
 **Dấu hiệu bạn đang đọc sai cách:** dừng tra từ ngay trang đầu; gạch chân cả trang; kết luận "tác giả sai" khi chưa tóm tắt được tác giả nói gì.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Với đoạn văn mẫu ở trên, hãy tự viết ra luận đề, các tiền đề và kết luận — không nhìn phần phân tích.
 
@@ -138,7 +138,7 @@ Vì vậy, ở lượt ba, hãy ghi thêm một dòng cho mỗi luận điểm q
 ??? success "Xem gợi ý đáp án"
     Từ báo kết luận: "Vì vậy". Luận đề được nêu ngay câu đầu ("Trừng phạt kẻ phạm tội là đúng đắn") rồi nhắc lại ở cuối, sau "Vì vậy" — nhưng ở dạng mạnh hơn: "chúng ta nên trừng phạt *nghiêm khắc*". Câu cuối mới là điều cả đoạn thật sự muốn chứng minh (như lượt một đã nắm). Để ý: trong nhiều văn bản, luận đề được nêu trước, chứng minh ở giữa, rồi nhắc lại ở cuối — và người đọc kỹ nên so xem lời nhắc lại có lặng lẽ nói mạnh hơn lời nêu ban đầu không.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -154,10 +154,10 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Đọc chậm giúp bạn thấy lập luận, nhưng thứ nguy hiểm nhất thường là thứ tác giả *không* viết ra. Mời đọc [Giả định ngầm](gia-dinh-ngam.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Mortimer J. Adler và Charles Van Doren, *How to Read a Book* (bản gốc 1940; bản sửa, bổ sung 1972) — cuốn sách kinh điển về bốn cấp độ đọc (sơ cấp, đọc lướt có hệ thống, đọc phân tích, đọc đối chiếu nhiều sách); ở cấp đọc phân tích, phải nắm cấu trúc và hiểu đúng ý tác giả rồi mới phê phán.

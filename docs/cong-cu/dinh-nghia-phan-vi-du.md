@@ -13,7 +13,7 @@ Hai câu trả lời của mẹ mắc đúng hai lỗi kinh điển của địn
 
 Định nghĩa tưởng dễ mà khó — khó đến mức triết học đã dành hàng nghìn năm chỉ để hỏi: thế nào mới là một định nghĩa tốt?
 
-## Định nghĩa = điều kiện cần và đủ
+## Định nghĩa = điều kiện cần và đủ {#dinh-nghia-dieu-kien-can-va-du}
 
 Một định nghĩa tốt có dạng: **X là F khi và chỉ khi …** — tức là đưa ra điều kiện vừa **cần** vừa **đủ** (xem [Cần khác đủ như thế nào?](dieu-kien-can-du.md)).
 
@@ -28,7 +28,7 @@ Ngược lại, "bàn là cái có bốn chân": chiều "là bàn thì có bố
 
 Một ví dụ khít nữa, từ số học: "n là số nguyên tố **khi và chỉ khi** n lớn hơn 1 và chỉ có đúng hai ước dương." Kiểm tra: số nguyên tố nào cũng thỏa (cần); số nào thỏa điều kiện thì chắc chắn nguyên tố (đủ). Định nghĩa này gọn đến mức chính nó đã là một nửa của chứng minh trong nhiều bài toán.
 
-## Socrates và nghệ thuật phản ví dụ
+## Socrates và nghệ thuật phản ví dụ {#socrates-va-nghe-thuat-phan-vi-du}
 
 Cách kiểm tra định nghĩa bằng hai chiều trên có một cái tên: phương pháp **phản ví dụ** (*counterexample*). Người dùng nó thành thục nhất thời cổ đại là [Socrates](../triet-gia/socrates.md).
 
@@ -43,7 +43,7 @@ Một màn đối thoại nổi tiếng khác nằm trong *Euthyphro*: Euthyphro
 
 Dù chọn sừng nào, định nghĩa cũng sụp đổ. Định nghĩa này chết không phải vì thiếu ví dụ, mà vì khi soi kỹ, nó hóa ra *trống rỗng*: nó không cho ta tiêu chuẩn nào độc lập để nhận ra cái mộ đạo.
 
-## Cú sốc Gettier (1963)
+## Cú sốc Gettier (1963) {#cu-soc-gettier-1963}
 
 Ví dụ nổi tiếng nhất của phương pháp này trong triết học hiện đại nhắm vào định nghĩa của chính **tri thức**.
 
@@ -61,7 +61,7 @@ Bài báo ba trang ấy đã làm rung chuyển tri thức luận suốt nửa t
 
 Các nỗ lực sửa chữa cũng rất đáng học. Một hướng: thêm điều kiện thứ tư — "niềm tin không được suy ra từ tiền đề sai". Trong ví dụ của Smith, niềm tin đúng của anh được suy từ tiền đề sai ("Jones sẽ trúng tuyển"), nên bị loại. Nghe ổn — cho đến khi người ta dựng được phản ví dụ mới mà trong đó chẳng có tiền đề sai nào cả. Vòng lặp "định nghĩa → phản ví dụ → sửa → phản ví dụ mới" cứ thế tiếp diễn, và đó chính là cách triết học làm việc: không phải xây một tòa nhà xong là ở yên, mà là liên tục thử độ chắc của từng viên gạch.
 
-## Hai lỗi kinh điển: quá rộng, quá hẹp
+## Hai lỗi kinh điển: quá rộng, quá hẹp {#hai-loi-kinh-dien-qua-rong-qua-hep}
 
 - **Quá hẹp**: định nghĩa loại oan những thứ đáng lẽ phải gồm. "Chim là động vật biết bay" — đà điểu và chim cánh cụt là chim mà không bay. "Bàn là cái có bốn chân" — bàn một chân bị loại oan.
 - **Quá rộng**: định nghĩa gộp ẩu những thứ không phải. "Chim là động vật có cánh" — dơi có cánh nhưng là thú, nhiều côn trùng có cánh nhưng không phải chim. "Bàn là cái có mặt phẳng" — sàn nhà, giường đều có mặt phẳng.
@@ -73,7 +73,7 @@ Nói bằng ngôn ngữ bài trước: quá rộng nghĩa là điều kiện **t
 | Quá rộng | Gộp cả thứ không phải F | Thiếu tính **đủ** | Dơi có cánh nhưng không phải chim |
 | Quá hẹp | Loại mất thứ đúng là F | Thiếu tính **cần** | Đà điểu là chim nhưng không bay |
 
-## Khi định nghĩa bất lực: "trò chơi" của Wittgenstein
+## Khi định nghĩa bất lực: "trò chơi" của Wittgenstein {#khi-dinh-nghia-bat-luc-tro-choi-cua-wittgenstein}
 
 Có những khái niệm dường như *không thể* định nghĩa bằng điều kiện cần và đủ, dù ta cố thế nào. Ludwig [Wittgenstein](../triet-gia/wittgenstein.md), trong *Philosophical Investigations* (1953, §§66–67), lấy ví dụ **trò chơi**:
 
@@ -85,13 +85,13 @@ Bài học: định nghĩa bằng cần và đủ là công cụ mạnh, nhưng 
 
 Thử với một từ tiếng Việt: **"nhà"**. Nhà sàn, nhà chung cư, nhà tranh vách đất, lều bạt dã chiến — điểm chung của *mọi* "nhà" là gì? Có tường? (Lều không có tường gạch.) Có mái? (Căn hộ tầng giữa chẳng có "mái" riêng.) Để ở? (Nhà kho để ở được nhưng ta ít gọi là "nhà" theo nghĩa nơi cư trú.) Mỗi ứng viên đều có phản ví dụ. Ta hiểu "nhà" rất rõ trong đời sống, nhưng định nghĩa khít nó bằng cần và đủ thì… chúc may mắn.
 
-## Định nghĩa trong đời sống: khi ranh giới có giá
+## Định nghĩa trong đời sống: khi ranh giới có giá {#dinh-nghia-trong-doi-song-khi-ranh-gioi-co-gia}
 
 Định nghĩa không chỉ là trò chơi chữ. Trong pháp luật, định nghĩa vạch ranh giới giữa có tội và vô tội: "người thành niên", "tội cố ý", "phòng vệ chính đáng" — mỗi định nghĩa quá rộng là oan sai, mỗi định nghĩa quá hẹp là bỏ lọt. Trong y tế, định nghĩa quyết định ai được chữa trị thế nào. Vì vậy các định nghĩa pháp lý, y khoa thường dài dằng dặc với hàng loạt điều khoản loại trừ: đó là dấu vết của hàng chục phản ví dụ trong thực tế, mỗi phản ví dụ buộc người ta vá thêm một mảnh.
 
 Và ngay cả khi đã vá kỹ, ranh giới vẫn có thể bị thách thức: một ca bệnh mới, một tình huống công nghệ mới (ai chịu trách nhiệm khi xe tự lái gây tai nạn?) lại trở thành phản ví dụ sống, đòi định nghĩa phải sửa tiếp. Định nghĩa tốt không phải định nghĩa viết một lần là xong — nó là một quá trình.
 
-## Hai kiểu định nghĩa: mô tả và quy định
+## Hai kiểu định nghĩa: mô tả và quy định {#hai-kieu-dinh-nghia-mo-ta-va-quy-dinh}
 
 Có một phân biệt hữu ích. **Định nghĩa mô tả** ghi lại cách mọi người *đang* dùng một từ — đó là việc của từ điển. **Định nghĩa quy định** đề xuất cách *nên* dùng một từ cho một mục đích nào đó — đó là việc của luật pháp, khoa học, triết học.
 
@@ -99,7 +99,7 @@ Khi tranh cãi "đây có phải là X không", nhiều khi hai bên đang làm 
 
 Ví dụ: từ điển **mô tả** "xe ôm" là người chạy xe máy chở khách lấy tiền — ghi lại cách người Việt đang dùng từ này. Còn khi pháp luật **quy định** "kinh doanh vận tải bằng xe hai bánh" phải đăng ký, gắn biển hiệu, mua bảo hiểm, thì định nghĩa ấy không còn mô tả cách dùng thông thường nữa — nó *đặt ra* một khái niệm pháp lý để quản lý. Ai đem định nghĩa pháp lý ra cãi "ông xe ôm đầu ngõ không phải xe ôm vì không đăng ký" là lẫn lộn hai kiểu định nghĩa.
 
-## Kiểm tra nhanh một định nghĩa
+## Kiểm tra nhanh một định nghĩa {#kiem-tra-nhanh-mot-dinh-nghia}
 
 Gặp bất kỳ định nghĩa nào — trong sách, trong luật, trong một cuộc tranh cãi — hãy chạy ba câu hỏi này:
 
@@ -109,7 +109,7 @@ Gặp bất kỳ định nghĩa nào — trong sách, trong luật, trong một 
 
 Nếu cả ba câu đều qua, định nghĩa tạm thời an toàn — "tạm thời", vì phản ví dụ tiếp theo có thể đang chờ ở góc đường, như Gettier đã chờ JTB suốt hơn hai mươi thế kỷ.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** "Xe là phương tiện có bốn bánh." Định nghĩa này quá rộng hay quá hẹp (hay cả hai)? Tìm phản ví dụ cho mỗi lỗi.
 
@@ -146,7 +146,7 @@ Nếu cả ba câu đều qua, định nghĩa tạm thời an toàn — "tạm t
 ??? success "Xem gợi ý đáp án"
     Viết lại: "Ai đó hạnh phúc khi và chỉ khi người đó có nhiều tiền." Quá rộng (thiếu tính đủ): người giàu mà trầm cảm, cô độc — có tiền mà không hạnh phúc. Quá hẹp (thiếu tính cần): người ít tiền mà sống thanh thản, đầy ắp tình thân — hạnh phúc mà không nhiều tiền. Định nghĩa hỏng cả hai chiều.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -162,11 +162,11 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Định nghĩa và phản ví dụ là vũ khí của Socrates trong đối thoại. Nhưng câu hỏi "tri thức là gì?" mà Gettier làm rung chuyển vẫn còn bỏ ngỏ — với những câu trả lời mới từ tri thức luận đương đại. Mời đọc [Biết là gì?](../cau-hoi/tri-thuc.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Edmund Gettier, "Is Justified True Belief Knowledge?", *Analysis* 23(6), 1963, tr. 121–123.
 2. Platon, *Cộng hòa* (*Republic*), Quyển I.

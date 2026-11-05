@@ -18,7 +18,7 @@ Bài này không bàn chính trị của nước nào hôm nay. Bài này hỏi 
 
 Chữ "dân chủ" trong tiếng Việt dịch từ *democracy*, gốc Hy Lạp *demos* (dân) + *kratos* (quyền lực, sự cai trị). Ngay từ gốc chữ đã có sự mơ hồ: "dân cai trị" — nhưng *dân* là ai (tất cả mọi người? chỉ công dân?), và *cai trị* bằng cách nào (trực tiếp hay qua đại diện)? Hai nghìn năm tranh luận triết học về dân chủ, phần lớn là tranh luận về hai chỗ mơ hồ đó.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một hòn đảo có đúng 100 người, mọi quyết định đều đưa ra biểu quyết, đa số thắng. Một ngày nọ, 51 người biểu quyết tịch thu toàn bộ tài sản của 49 người còn lại để chia nhau. Thủ tục hoàn toàn đúng: ai cũng có một phiếu, kiểm phiếu công khai, không gian lận.
@@ -30,7 +30,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử không phải 51–49 mà là 90–10, và 90 người biểu quyết cấm 10 người còn lại *nói* về việc bị tịch thu tài sản — ai phản đối thì bị phạt. Thủ tục vẫn "đúng". Bạn có còn gọi đó là dân chủ không? Hầu hết mọi người ở đây sẽ nói không — và câu trả lời đó cho thấy ta thực ra đã mang theo một khái niệm dân chủ *dày* hơn "đa số thắng" mà ta không hay.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa hai câu hỏi khác nhau, và triết học chính trị thường tách chúng ra.
 
@@ -48,7 +48,7 @@ Người phản đối có thể tấn công tiền đề 1 (dân chủ không c
 
 Một cách khác để thấy vấn đề: hãy hỏi ngược lại — *ai* không được tính là "dân"? Trong lịch sử, câu trả lời thay đổi liên tục: ở Athens cổ đại, phụ nữ, nô lệ và người ngoại bang không được bỏ phiếu; ở nhiều nước, phụ nữ chỉ được bầu cử từ thế kỷ 20. Mỗi lần mở rộng "dân", khái niệm dân chủ lại phải viết lại. Vì vậy, câu hỏi "dân chủ là gì" không có đáp án đóng băng trong từ điển; nó là một khái niệm mà mỗi thế hệ phải tự trả lời lại.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường dưới đây không chỉ khác nhau về định nghĩa mà còn về *thái độ*: hai lập trường đầu tìm cách hiểu và bênh vực dân chủ theo những cách khác nhau, lập trường thứ ba nhắc ta đừng quên mặt tối của nó. Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -99,7 +99,7 @@ Hình dưới đây minh họa thêm một khó khăn của nguyên tắc "đa s
 </figure>
 <!-- /fig:condorcet -->
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về dân chủ, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
@@ -109,7 +109,7 @@ Nếu bạn muốn biết "giới chuyên môn nghiêng về đâu", cách trung
 
 Một lưu ý về cách đọc bài này: ba lập trường không loại trừ nhau hoàn toàn. Nhiều triết gia chính trị ngày nay chấp nhận *cả ba* ở các mức độ khác nhau: đồng ý với Schumpeter rằng bầu cử cạnh tranh là điều kiện cần, đồng ý với Habermas rằng thảo luận công khai làm cho dân chủ đáng giá hơn, và đồng ý với Mill rằng quyền của thiểu số phải được bảo vệ khỏi đa số. Câu hỏi khó không phải "chọn phe nào", mà là khi ba yêu cầu đó xung đột — ví dụ khi thảo luận kỹ thì chậm, mà quyết định thì cần gấp — ta ưu tiên cái nào.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Bầu cử: đi bỏ phiếu có nghĩa lý gì?** Lập trường 1 cho bạn một câu trả lời tỉnh táo: lá phiếu của bạn hầu như không bao giờ là phiếu quyết định, nhưng bầu cử không phải để *bạn* quyết định mà để *mọi người cùng* giữ một cơ chế — cơ chế mà người cầm quyền tồi có thể bị thay thế mà không cần bạo lực. Lập trường 2 bổ sung: đừng chỉ đi bỏ phiếu rồi về; hãy tham gia vào quá trình hình thành ý kiến trước đó — đọc, tranh luận, chất vấn ứng cử viên. Một nền dân chủ mà người dân chỉ xuất hiện vào ngày bầu cử là một nền dân chủ gầy.
 
@@ -121,7 +121,7 @@ Một câu hỏi khó hơn, dành cho người đã đi bỏ phiếu nhiều l�
 
 **Dân chủ ở nơi không ai gọi là "chính trị".** Những câu hỏi của bài này cũng xuất hiện ở quy mô nhỏ: một lớp học bầu lớp trưởng nhưng cô giáo đã "gợi ý" sẵn người; một công ty "lấy ý kiến nhân viên" nhưng quyết định đã có từ trước; một gia đình "biểu quyết" đi đâu chơi hè mà phiếu của bố mẹ luôn nặng hơn. Mỗi lần như vậy, bạn có thể tự hỏi theo ba lập trường: thủ tục có thật không, có thảo luận thật không, và người thua cuộc có được bảo vệ không? Dân chủ, suy cho cùng, không chỉ là chuyện của nhà nước.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Hình ảnh con tàu trong *Cộng hòa* của Platon thuộc phạm vi công cộng (tác phẩm đã hơn hai nghìn năm tuổi). Dưới đây là tóm tắt đoạn 488a–489d, Quyển VI, bằng lời mình, cùng một đoạn trích ngắn từ bản dịch tiếng Anh công cộng của Benjamin Jowett.
 
@@ -142,7 +142,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc Mill, *Bàn về tự do*](../doc/mill-tu-do.md) và ["Khai sáng là gì?" của Kant](../doc/kant-khai-sang.md) (công chúng tự khai sáng nhờ tự do sử dụng lý trí công khai).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -210,7 +210,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng trường (hoặc công ty, khu dân cư) của bạn sắp quyết định một việc quan trọng bằng cách bỏ phiếu. Hãy thiết kế một *quy trình* ra quyết định mà bạn cho là "dân chủ tốt" — và giải thích nó vay mượn ý nào từ mỗi lập trường trong bài (thủ tục của Schumpeter, thảo luận của Habermas, cảnh báo của Mill về thiểu số).
 
@@ -225,7 +225,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bài viết có ví dụ cụ thể thay vì nói chung chung về "dân chủ" không?
     - Bạn có trung thực về điểm yếu của quy trình mình thiết kế không (mọi quy trình đều có đánh đổi)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/democracy/>
 2. Platon, *Cộng hòa*, Quyển VI (488a–489d); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1497>

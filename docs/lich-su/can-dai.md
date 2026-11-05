@@ -10,7 +10,7 @@ Thế kỷ 17 châu Âu chứng kiến một cuộc lật đổ thầm lặng: c
 
 Nếu quan sát và toán học khám phá được bí mật của các hành tinh, các triết gia tự hỏi: phương pháp đúng đắn có tìm ra được quy luật của tri thức, đạo đức và chính trị không? Triết học cận đại là nỗ lực trả lời câu hỏi đó — và nó chia thành hai trường phái lớn đối đầu nhau suốt hai thế kỷ.
 
-## Descartes: khởi đầu bằng sự hoài nghi
+## Descartes: khởi đầu bằng sự hoài nghi {#descartes-khoi-dau-bang-su-hoai-nghi}
 
 **[René Descartes](../triet-gia/descartes.md)** (1596–1650), nhà toán học và triết gia người Pháp, mở đầu triết học cận đại bằng một nước cờ táo bạo: để tìm nền móng chắc chắn cho tri thức, hãy *nghi ngờ mọi thứ có thể nghi ngờ*. Giác quan đôi khi lừa dối — loại. Giấc mơ không phân biệt được với lúc thức — loại. Thậm chí hãy tưởng tượng một "ác thần" quyền năng cố tình lừa ta về mọi thứ — thì sao?
 
@@ -20,7 +20,7 @@ Descartes cũng để lại một di sản gây tranh cãi: **nhị nguyên lu�
 
 Chính công chúa Elisabeth xứ Bohemia, người trao đổi thư từ với Descartes, đã chỉ ra điểm yếu: nếu tâm trí hoàn toàn phi vật chất, nó "đẩy" vật chất của thân xác bằng cách nào? Trong thư trả lời, Descartes ví sự hợp nhất tâm–thân với "sức nặng" theo quan niệm kinh viện — lối so sánh mà chính Elisabeth bác bỏ; còn ở chỗ khác (các thư năm 1640, *Các đam mê của tâm hồn*, 1649), ông cho rằng tâm trí tác động lên thân xác chủ yếu qua tuyến tùng trong não — một đáp án mà ngay cả người thời đó cũng thấy gượng ép. Câu hỏi của Elisabeth vẫn là thách thức cho mọi phiên bản nhị nguyên luận đến hôm nay.
 
-## Các nhà duy lý: Spinoza và Leibniz
+## Các nhà duy lý: Spinoza và Leibniz {#cac-nha-duy-ly-spinoza-va-leibniz}
 
 Hai triết gia lớn tiếp bước Descartes thuộc trường phái **duy lý luận** (*rationalism*): tin rằng lý trí thuần túy (không cần kinh nghiệm) có thể nắm được chân lý sâu xa.
 
@@ -28,7 +28,7 @@ Hai triết gia lớn tiếp bước Descartes thuộc trường phái **duy lý
 
 **Gottfried Wilhelm [Leibniz](../triet-gia/leibniz.md)** (1646–1716), người Đức, người phát minh vi tích phân độc lập với Newton, đề xuất một bức tranh kỳ lạ không kém: vũ trụ gồm vô số **đơn tử** (*monads*) — những đơn vị tinh thần không có cửa sổ, không tương tác trực tiếp với nhau — nhưng được Chúa sắp đặt từ đầu sao cho mọi thứ ăn khớp hoàn hảo, như hai chiếc đồng hồ chạy đồng bộ mà không cần nhìn nhau (**hòa hợp tiền định**). Ông cũng nổi tiếng với khẳng định gây tranh cãi rằng ta đang sống trong "thế giới tốt nhất trong các thế giới có thể" — Voltaire sau này sẽ chế giễu điều này trong *Candide* sau thảm họa động đất Lisbon 1755.
 
-## Các nhà duy nghiệm: Locke, Berkeley, Hume
+## Các nhà duy nghiệm: Locke, Berkeley, Hume {#cac-nha-duy-nghiem-locke-berkeley-hume}
 
 Đối lập với duy lý là **duy nghiệm luận** (*empiricism*): mọi tri thức đều bắt nguồn từ kinh nghiệm giác quan.
 
@@ -40,7 +40,7 @@ Hai triết gia lớn tiếp bước Descartes thuộc trường phái **duy lý
 
 Hume còn "phá" thêm một thứ tưởng chắc chắn: **cái tôi**. Ông nhìn vào nội tâm và báo cáo: tôi không tìm thấy một "bản ngã" nào cả — chỉ thấy một chuỗi cảm giác, cảm xúc, ý nghĩ nối tiếp nhau, như các diễn viên lần lượt bước ra sân khấu. Cái gọi là "tôi" có thể chỉ là một **bó tri giác** (*bundle of perceptions*) mà trí nhớ khâu lại với nhau. Lập luận này — **thuyết bó** (*bundle theory*) — vẫn là một trong những thách thức mạnh nhất cho quan niệm thông thường về bản ngã.
 
-## Kant: cuộc cách mạng Copernicus trong triết học
+## Kant: cuộc cách mạng Copernicus trong triết học {#kant-cuoc-cach-mang-copernicus-trong-triet-hoc}
 
 **Immanuel Kant** (1724–1804), người Đức, dành cả đời ở Königsberg và hầu như không rời thành phố — nhưng tư tưởng của ông đảo lộn triết học. Ông đồng ý với Hume rằng kinh nghiệm là nguồn tri thức, nhưng hỏi ngược lại: kinh nghiệm *có thể* xảy ra được là nhờ đâu?
 
@@ -52,7 +52,7 @@ Hệ quả lớn: duy lý và duy nghiệm đều đúng một nửa và sai m�
 
 Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế nào: bạn có được nói dối để cứu một người vô tội khỏi kẻ sát nhân không? Người theo hệ quả luận sẽ nói "được, vì cứu được mạng người". Kant nói "không" — vì nếu mọi người đều được nói dối khi thấy tiện, thì lời nói mất hết giá trị và không ai tin ai nữa; châm ngôn "được nói dối khi có lợi" không thể thành luật phổ quát mà không tự hủy. Nhiều người thấy kết luận này quá cứng nhắc — và đó chính là điểm tranh luận nóng nhất của nghĩa vụ luận đến hôm nay: đạo đức có cho phép ngoại lệ không?
 
-## Tóm tắt dòng thời gian
+## Tóm tắt dòng thời gian {#tom-tat-dong-thoi-gian}
 
 | Năm | Nhân vật | Ý chính |
 |---|---|---|
@@ -64,7 +64,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 | 1711–1776 | Hume | Nhân quả chỉ là thói quen; cái tôi là bó tri giác |
 | 1724–1804 | Kant | Tâm trí cấu trúc kinh nghiệm; mệnh lệnh tuyệt đối |
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - Vấn đề tâm–vật của Descartes: [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md)
 - Hoài nghi luận Descartes và tri thức: [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md)
@@ -72,7 +72,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 - Nghĩa vụ luận của Kant: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)
 - Tự do chính trị từ Locke đến [Mill](../triet-gia/mill.md): [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) (Locke) và [Dân chủ là gì?](../cau-hoi/dan-chu.md) (Mill)
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. René Descartes, *Meditations on First Philosophy* (1641) — bản dịch tiếng Anh công cộng.
 2. Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất) — bản dịch tiếng Anh công cộng.
