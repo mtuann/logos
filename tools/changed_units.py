@@ -33,13 +33,14 @@ def git(*args: str) -> str:
 
 
 def read(rev: str | None, path: str) -> str | None:
-    """Nội dung file ở commit `rev` (None = cây làm việc); None nếu file không có."""
-    if rev is None:
-        f = ROOT / path
-        return f.read_text(encoding="utf-8") if f.exists() else None
+    """Nội dung file ở commit `rev` (None = cây làm việc); None nếu file không có hoặc không phải văn bản UTF-8
+    (font, ảnh: không có đơn vị hay bản ghi nào để so)."""
     try:
+        if rev is None:
+            f = ROOT / path
+            return f.read_text(encoding="utf-8") if f.exists() else None
         return git("show", f"{rev}:{path}")
-    except subprocess.CalledProcessError:
+    except (subprocess.CalledProcessError, UnicodeDecodeError):
         return None
 
 
