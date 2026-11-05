@@ -1,0 +1,43 @@
+{
+  "unit": "works/chua-ro.tu-va-vat",
+  "hash": "sha256:535c08b2b0ef00624d757655706d0ad607f71de5568f743a38bcaeaf0c5a44e1",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-2",
+  "claims": [
+    {
+      "text": "same_as quine.word-and-object: \"Từ và vật\" là tên tiếng Việt của Word and Object (Quine)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "1960 Published Word and Object"
+        }
+      ]
+    },
+    {
+      "text": "year 1960",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "1960 Published Word and Object"
+        }
+      ]
+    },
+    {
+      "text": "author null (tác giả lấy qua same_as)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "1960 Published Word and Object"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tên \"Từ và vật\" là dịch sát nghĩa từng chữ của \"Word and Object\"."
+}

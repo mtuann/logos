@@ -223,7 +223,7 @@ def so_mau(dot: str, root: Path = ROOT) -> dict:
     """Đọc bằng chứng mẫu; ghi kết quả vào file trạng thái."""
     state = mau(dot, root)
     schema = load_evidence_schema(root)
-    missing, invalid, missed = [], {}, []
+    missing, invalid, missed, flags = [], {}, [], {}
     for key in state["sample"]:
         p = mau_evidence_path(dot, key, root)
         if not p.exists():
@@ -240,10 +240,15 @@ def so_mau(dot: str, root: Path = ROOT) -> dict:
             continue
         if any(c["verdict"] == "sai" and c["severity"] == "nghiem-trong" and not c.get("fixed") for c in doc["claims"]):
             missed.append(key)
+        notes = [f"lỗi {c['severity']}" + (" (đã sửa)" if c.get("fixed") else "")
+                 for c in doc["claims"] if c["verdict"] == "sai"]
+        notes += ["chưa kiểm được: " + c["text"] for c in doc["claims"] if c["verdict"] == "chua-kiem-duoc"]
+        if notes:
+            flags[key] = "; ".join(notes)
     n = len(state["sample"])
     state["result"] = {
         "checked": n - len(missing) - len(invalid), "size": n, "missing": missing, "invalid": invalid,
-        "missed_serious": missed, "rate": round(len(missed) / n, 4) if n else 0.0,
+        "missed_serious": missed, "flags": flags, "rate": round(len(missed) / n, 4) if n else 0.0,
         "pass": not missing and not invalid and (len(missed) / n if n else 0.0) <= NGUONG,
     }
     write_mau(state, root)
@@ -274,7 +279,8 @@ def render_mau(state: dict) -> str:
         res = "—"
         if r:
             res = ("chưa có" if key in r["missing"] else "sai dạng" if key in r["invalid"]
-                   else "**bỏ sót lỗi nghiêm trọng**" if key in r["missed_serious"] else "khớp")
+                   else "**bỏ sót lỗi nghiêm trọng**" if key in r["missed_serious"]
+                   else r.get("flags", {}).get(key, "khớp"))
         L.append(f"| `{key}` | [`{name}`](../evidence/{name}) | [`{name}`]({dot}/{name}) | {res} |")
     return "\n".join(L) + "\n"
 

@@ -1,26 +1,11 @@
 {
   "unit": "works/chua-ro.dieu-tra",
-  "hash": "sha256:e12b2042ce33c69466c32f607cede7a0b180fc7e068744f91c518700ff34c9ef",
+  "hash": "sha256:b62b8e477b72aba834b09ed4bb44980e13107ccf09ded2969316118d34ed87a4",
   "checked_on": "2026-11-05",
   "checker": "agent-kiem-5.1b-lo03",
   "claims": [
     {
-      "text": "same_as: cùng tác phẩm với hume.an-enquiry-concerning-human-understanding",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
-          "quote": "Enquiry concerning Human Understanding, 1748"
-        },
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
-          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
-        }
-      ]
-    },
-    {
-      "text": "Tác phẩm có thật, tên: Điều tra (tên rút gọn tiếng Việt của An Enquiry concerning Human Understanding — Điều tra về trí năng con người)",
+      "text": "Tác phẩm có thật, tên: Điều tra (tên chung tiếng Việt cho hai cuốn Enquiry của Hume; year 1748 theo cuốn đầu, An Enquiry concerning Human Understanding)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -31,7 +16,7 @@
       ]
     },
     {
-      "text": "tác giả: David Hume",
+      "text": "attribution / tác giả: David Hume",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -52,8 +37,38 @@
           "quote": "Enquiry concerning Human Understanding, 1748"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1751 (An Enquiry concerning the Principles of Morals)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
+        }
+      ]
+    },
+    {
+      "text": "year_note: tên chung cho hai cuốn An Enquiry concerning Human Understanding (1748) và An Enquiry concerning the Principles of Morals (1751)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "In 1748, he published An Enquiry concerning Human Understanding"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume would then publish the Enquiry concerning the Principles of Morals in 1751"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "An analogue to the first Enquiry , the second Enquiry covers some of the material of Book 3 of the Treatise"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: David Hume. trung-voi: hume.an-enquiry-concerning-human-understanding. Tên 'Điều tra' là tên rút gọn quá ngắn (trang hume ghi đầy đủ 'Điều tra về trí năng con người' trong note); nên gộp vào khóa trên.\nKiểm lại 5.1b: same_as có claim riêng: \"Điều tra\" là dạng rút gọn của tên dịch của site \"Điều tra về trí năng con người\", trang triết gia Hume ghi cặp \"An Enquiry concerning Human Understanding (1748) — Điều tra về trí năng con người\"; không có nguồn ngoài cho tên Việt (tên do site dịch). Lưu ý: \"Điều tra\" đứng riêng mơ hồ vì Hume còn Enquiry concerning the Principles of Morals (1751), site dịch \"Điều tra về các nguyên tắc đạo đức\"; năm 1748 (years_seen people/hume) khớp bản ghi đích nên same_as đúng. Mở lại mọi URL cũ, mọi quote còn trên trang."
+  "notes": "attribution: David Hume. Kiểm lại 5.1b (sau kiểm mẫu): bỏ claim same_as hume.an-enquiry-concerning-human-understanding vì bản ghi đã bỏ trường same_as — \"Điều tra\" ở people/hume là tên chung cho hai cuốn Enquiry (1748, 1751), không chỉ riêng cuốn 1748. Thêm claim attribution, years_ok 1751 và year_note; nguồn SEP hume fall2026 mở lại trong phiên, quote đối chiếu bằng script. year 1748 (claim cũ) vẫn đúng cho cuốn đầu."
 }

@@ -1,0 +1,36 @@
+{
+  "unit": "works/chua-ro.tuyen-ngon-cua-dang-cong-san",
+  "hash": "sha256:8422f8f8df0bbc8ddb7b163ad4c8e38ec0a6ca8ba66ef7b84da54f7120a1632e",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-2",
+  "claims": [
+    {
+      "text": "same_as marx.manifest-der-kommunistischen-partei: \"Tuyên ngôn của Đảng Cộng sản\" là tên tiếng Việt của Manifest der Kommunistischen Partei",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Manifest_der_Kommunistischen_Partei_(1848)",
+          "quote": "Titel: Manifest der Kommunistischen Partei"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/61/pg61.txt",
+          "quote": "The Communist Manifesto by Karl Marx and Friedrich Engels"
+        }
+      ]
+    },
+    {
+      "text": "year 1848",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Manifest_der_Kommunistischen_Partei_(1848)",
+          "quote": "Erscheinungsdatum: 1848"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Wikisource ghi Entstehungsdatum 1847, Erscheinungsdatum 1848; năm công bố 1848 đúng. Tác phẩm đồng tác giả Marx và Engels (bản ghi đích chỉ ghi marx; ngoài phạm vi bản ghi này)."
+}

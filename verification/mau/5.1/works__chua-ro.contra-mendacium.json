@@ -1,0 +1,41 @@
+{
+  "unit": "works/chua-ro.contra-mendacium",
+  "hash": "sha256:569685ed86873f265b5517e0f66d219cd54fcca6e0b86b049c6f3cc179b1fe5d",
+  "checked_on": "2026-11-05",
+  "checker": "agent-mau-5.1-1",
+  "claims": [
+    {
+      "text": "titles: Contra mendacium; attribution: Augustine",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/fathers/1313.htm",
+          "quote": "a Book against Lying, the occasion of which work was this"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/1313.htm",
+          "quote": "In prohibition of which thing, I composed this book. It begins: Multa mihi legenda misisti"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "Augustine, ‘On Lying,’ M. S. Muldowney (trans.) (51–110), and ‘Against Lying,’"
+        }
+      ]
+    },
+    {
+      "text": "year: 420",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://bkv.unifr.ch/works/cpl-304/versions/against-lying/divisions/1",
+          "quote": "i.e. A.D. 420, the work mentioned just before belonging to the early part of that year",
+          "where": "chú thích của bản dịch Browne (NPNF)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ghi chú mô hình dữ liệu: author=null dù Augustine có hồ sơ people/augustine. Nguồn năm 420 là chú thích người dịch (NPNF), không phải SEP/IEP."
+}
