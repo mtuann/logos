@@ -20,3 +20,4 @@ Mỗi dòng một việc đã xong hoặc đang dở. Phiên sau đọc từ đ�
 | 2026-11-05 | 1.7 merge vào `main` | — | xong | — |
 | 2026-11-05 | 1.8 `hooks/kb.py`: cú pháp chốt `[[loại:khóa]]`; loại `count` (đọc `content.yml`, lọc khối bằng `/khối`); khóa sai → build dừng kèm tên trang; giữ nguyên trong code | `hooks/kb.py`, `mkdocs.yml`, `tests/test_hooks.py`, `README.md`, `HUONG-DAN-VIET.md` | xong: thử trên trang thật in 57 / 7, khóa sai thì build dừng; 5 kiểm thử; chưa trang nào dùng shortcode nên parity 100% | đóng đợt 1 |
 | 2026-11-05 | 1.8 merge vào `main`; kiểm cổng đợt 1: parity cả đợt giống 100%, mọi mục cổng đạt trừ CI trên GitHub | `ban-giao/dot-1.md`, `KE-HOACH.md` | xong | push `main`, chờ CI xanh, gắn tag `v1.1`; viết brief đợt 2 theo `ban-giao/mau-dot.md` |
+| 2026-11-05 | Push `main`; CI xanh (run 41988926748); đóng đợt 1, tag `v1.1` | `ban-giao/dot-1.md`, `KE-HOACH.md` | xong | brief đợt 2 theo `ban-giao/mau-dot.md` |

@@ -32,7 +32,7 @@
 - [x] CI có thêm: `content_registry`, `check_ledger`, ba linter (cảnh báo), `changed_units`. (Thêm cả `add_heading_ids --check`, `terms_policy --check`.)
 - [x] `verification/lint/` có báo cáo nền của ba linter.
 - [x] `AGENTS.md` mục 4 và `README.md` có lệnh mới.
-- [ ] CI xanh (bộ kiểm tra đầy đủ xanh trên máy 5/11/2026: 110 unittest, 122 + 250 kiểm thử JS; chờ CI trên GitHub sau khi push).
+- [x] CI xanh (5/11/2026: trên máy 110 unittest, 122 + 250 kiểm thử JS; GitHub Actions run 41988926748 trên `main`: build và deploy xanh).
 
 ## Không làm
 
