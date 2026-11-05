@@ -19,7 +19,7 @@ Bài này không bàn luật của nước nào hôm nay. Bài này hỏi ba câ
 
 Chữ "án tử hình" là Hán Việt: *án* (案, vụ việc đã xét xử) + *tử* (chết) + *hình* (刑, hình phạt) — "hình phạt chết sau khi xét xử". Tiếng Anh *capital punishment* gốc Latin *caput* (cái đầu, và theo nghĩa rộng là mạng sống) — tội "capital" là tội phải trả bằng mạng. Ngay từ gốc chữ đã thấy một điều: đây là hình phạt duy nhất mà một khi thi hành, không còn cách nào sửa sai.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Giả sử có một hệ thống tư pháp hoàn hảo về mặt thủ tục: xét xử công bằng, luật sư giỏi cho cả hai bên, bồi thẩm đoàn cẩn trọng. Nhưng ngay cả hệ thống hoàn hảo nhất cũng không thể đạt độ chính xác 100% — giả sử cứ 100 người bị kết án tử thì có 1 người vô tội. Hệ thống này đã tử hình 1.000 người, nghĩa là trong đó có khoảng 10 người vô tội.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử thay vì 1/100, tỷ lệ oan sai là 1/10.000 — và giả sử án tử hình *chắc chắn* răn đe được, mỗi năm cứu 500 mạng người vô tội khỏi bị giết. Bạn có đổi 1 người vô tội bị xử oan lấy 500 người vô tội được cứu không? Câu trả lời của bạn cho biến thể này cho thấy bạn là người theo hệ quả (tính toán tổng thiệt hại) hay người theo nghĩa vụ (có những việc không được làm dù lợi ích lớn đến đâu) — và đó chính là đường ranh triết học của cả bài này.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Ủng hộ: có những tội ác mà chỉ cái chết mới tương xứng
 
@@ -75,7 +75,7 @@ Lập trường thứ ba cố giữ những gì có lý ở cả hai bên. Một
 
 **Cách đáp lại.** Người theo lập trường trung gian đáp: chính trị của hình phạt không phải là logic học thuần túy — một xã hội cần một đáp án mà đa số có thể chấp nhận và sống chung lâu dài. "Tương xứng tuyệt đối" của Kant là một lý tưởng triết học đẹp nhưng không phải là thứ duy nhất công lý đòi hỏi; công lý còn đòi hỏi *khiêm tốn* trước sự bất toàn của chính mình. Còn về nguy cơ "giãn ra", họ nói: đó là lý do cần những rào cản thủ tục được hiến định hóa, không phải lý do để vứt bỏ cả giải pháp. Một nguyên tắc tốt bị áp dụng cẩu thả thì nên sửa cách áp dụng, không phải vứt nguyên tắc.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về án tử hình, và một câu về triết học luật nói chung. Cả hai đều là câu bổ sung (chỉ một phần người tham gia được hỏi):
 
@@ -98,7 +98,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Con số khớp với nhận xét rằng trong giới triết học đạo đức đương đại, cán cân tranh luận học thuật nghiêng về phía hoài nghi án tử hình — các bài báo triết học về chủ đề này trong vài thập kỷ qua chủ yếu là phê phán (tập trung vào oan sai, phân biệt đối xử và tính tùy tiện trong áp dụng). Nhưng đa số không quyết định chân lý: lập luận báo ứng của phe ủng hộ và giải pháp của phe trung gian vẫn phải được xét bằng chính lý lẽ của chúng.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Nếu đó là người thân của bạn thì sao?"** Đây là câu hỏi kiểm tra tính nhất quán mà cả hai phe đều nên tự hỏi. Nếu bạn ủng hộ án tử hình vì "kẻ giết người xứng đáng chết", bạn có còn ủng hộ khi người bị kết án là em trai bạn — và bạn tin chắc nó vô tội nhưng tòa đã tuyên? Nếu bạn chống án tử hình vì "không hệ thống nào hoàn hảo", bạn có còn chống khi nạn nhân là con bạn? Triết học không cấm cảm xúc — nhưng nó đòi hỏi: nguyên tắc của bạn phải đứng vững *cả khi* cảm xúc đổi phe. Một nguyên tắc chỉ đúng khi nạn nhân là người dưng thì không phải nguyên tắc.
 
@@ -108,7 +108,7 @@ Con số khớp với nhận xét rằng trong giới triết học đạo đứ
 
 **Chi phí của sự chắc chắn.** Một điểm ít được bàn: để giảm rủi ro oan sai, hệ thống phải kéo dài thủ tục kháng cáo hàng chục năm, với chi phí tố tụng khổng lồ — ở Mỹ, một vụ án tử tốn kém hơn nhiều lần một vụ án chung thân. Đó là một đánh đổi thực tế mà cả hai phe đều phải tính: phe ủng hộ phải chấp nhận rằng "án tử chắc chắn đúng" là một thứ đắt đỏ; phe chống phải chấp nhận rằng tiền đó có thể dùng để cải thiện cả hệ thống tư pháp. Triết học không quyết định ngân sách, nhưng nó nhắc ta rằng mọi lựa chọn đạo đức đều có hóa đơn.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -176,7 +176,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn là người phải ký lệnh thi hành án tử hình trong thí nghiệm tư duy đầu bài (biết chắc thống kê 1/100 oan sai). Hãy viết một đoạn văn giải thích quyết định của bạn — ký hay không ký — và chỉ ra quyết định đó đặt bạn vào phe hệ quả hay phe nghĩa vụ trong triết học đạo đức, vì sao.
 
@@ -191,7 +191,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có trình bày phản bác mạnh nhất đối với quyết định của mình không?
     - Bài viết có phân biệt "biện minh trên lý thuyết" với "áp dụng trong thực tế" không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini.
 2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.

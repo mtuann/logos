@@ -19,13 +19,13 @@ Nó đáng đọc vì là triết học ở dạng thực hành nhất: không l
     - **Bản dịch được trích:** George Long (London, 1877; phạm vi công cộng). Số chương (§) theo cách đánh số thông dụng.
     - **Thời gian đọc:** các đoạn chọn khoảng 10 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Trường phái Khắc kỷ (*Stoicism*) do [Zeno xứ Citium](../triet-gia/zeno.md) lập ở Athens khoảng năm 300 TCN; tên gọi lấy từ *Stoa Poikile*, dãy hành lang có tranh vẽ nơi họ giảng dạy. Khắc kỷ dạy rằng chỉ đức hạnh là điều tốt; sức khỏe, của cải, danh tiếng là những thứ "không tốt không xấu", có thể được ưu tiên nhưng không quyết định hạnh phúc.
 
 Epictetus sinh khoảng những năm 50 ở Hierapolis (Tiểu Á), có thời là nô lệ của Epaphroditus, một quan chức trong triều Nero. Ông học triết gia Khắc kỷ Musonius Rufus, được tự do, dạy học ở Rome cho đến khi hoàng đế Domitian trục xuất các triết gia (năm 89), rồi lập trường ở Nicopolis, tây bắc Hy Lạp, dạy đến cuối đời. *Cẩm nang* được Poliziano dịch sang tiếng Latin năm 1497 và phổ biến khắp châu Âu hai thế kỷ sau; hoàng đế [Marcus Aurelius](../triet-gia/marcus-aurelius.md) chưa từng học ông nhưng đọc ông và coi mình là người theo ông.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 **Đoạn 1 — Phân loại đầu tiên (§1).** Câu mở đầu nổi tiếng:
 
@@ -78,7 +78,7 @@ Epictetus không bảo đừng yêu, mà bảo khi yêu, hãy nhớ bản chất
 
 *Một tiêu chí thực tế để tự kiểm tra, không cần ai chấm điểm. Bạn đạt được mấy điều trong tuần qua?*
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 Lập luận cốt lõi của *Cẩm nang*, ở dạng chuẩn:
 
@@ -90,7 +90,7 @@ Lập luận cốt lõi của *Cẩm nang*, ở dạng chuẩn:
 
 Từ P1–P4 đến K là **suy diễn** (*deductive*). P3 là một khẳng định về tâm lý: cảm xúc đi theo phán đoán. P4 là học thuyết giá trị của Khắc kỷ; nó ít khi được nói thẳng trong *Cẩm nang*, nhưng gánh phần nặng nhất. Bỏ P4 đi thì kết luận chỉ còn là lời khuyên tâm lý; giữ P4 thì phải chấp nhận cả những hệ quả khó nghe như §3.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Ranh giới hai loại quá đơn giản.** Nhiều thứ ta kiểm soát *một phần*: sức khỏe, công việc, kết quả kỳ thi. William Irvine (*A Guide to the Good Life*, 2008) vì thế đề xuất chia ba thay vì chia đôi.
 
@@ -104,19 +104,19 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). P3 là một khẳng đ�
 
 **Cách đáp lại:** Người bênh vực Khắc kỷ đọc §3 như một bài tập nhớ về cái chết, giống người xưa nhắc nhau sống trọn từng ngày, chứ không phải lệnh yêu ít đi. Dù vậy, nhiều người vẫn thấy đây là giới hạn thật của Khắc kỷ: yêu mà không bao giờ để mất mát làm mình đau, có còn là yêu trọn vẹn?
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Khắc kỷ là kìm nén cảm xúc, mặt lạnh như đá."** Khắc kỷ muốn loại bỏ những cảm xúc sinh ra từ phán đoán sai (sợ hãi, thèm khát), còn những cảm xúc hợp lý như niềm vui, sự thận trọng thì vẫn có chỗ. Chữ "stoic" trong tiếng Anh thường ngày đã hẹp hơn nhiều so với Khắc kỷ thật.
 - **"*Cẩm nang* là toàn bộ triết học của Epictetus."** Đó chỉ là bản rút gọn; theo Margaret Graver (SEP), đọc riêng nó đôi khi cho ấn tượng sai về lý do đằng sau các lời khuyên. Muốn hiểu lý lẽ, phải đọc *Diễn từ*.
 - **"Epictetus là người viết *Cẩm nang*."** Ông không viết gì; ta biết lời ông qua Arrian, như biết Socrates qua [Platon](../triet-gia/platon.md).
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 - Chọn một việc đang khiến bạn bực mình. Viết ra: phần nào bạn kiểm soát được, phần nào không? Việc phân loại này có làm bạn bớt bực không?
 - Có khi nào "muốn sự việc như nó xảy ra" là một lời khuyên tồi không? Cho ví dụ.
 - So sánh Epictetus với một lời khuyên hiện đại bạn từng nghe (ví dụ trong sách self-help). Điểm nào giống, điểm nào khác về bản chất?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -131,14 +131,14 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Mọi sự đã được định sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — một câu trả lời Khắc kỷ cho câu hỏi về ý nghĩa
 - [Đọc *Suy tưởng* của Marcus Aurelius](aurelius-suy-tuong.md) — người học trò qua sách của Epictetus, viết cho chính mình
 - [Đọc "Biện hộ của Socrates"](platon-bien-ho.md) — *Cẩm nang* khép lại bằng chính lời Socrates: Anytus và Meletus có thể giết ông, nhưng không làm hại được ông
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Epictetus, *A Selection from the Discourses of Epictetus with the Encheiridion*, bản dịch tiếng Anh của George Long (in đầy đủ lần đầu trong *The Discourses of Epictetus; with the Encheiridion and Fragments*, London: George Bell, 1877; phạm vi công cộng), Project Gutenberg #10661. <https://www.gutenberg.org/ebooks/10661>
 2. Graver, Margaret, "Epictetus", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/epictetus/>

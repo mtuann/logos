@@ -12,7 +12,7 @@ có: sử Trung Hoa gọi là thời **Bách gia chư tử** ("trăm nhà, các 
 rất thực tế: khi lễ nghĩa cũ không còn giữ được trật tự, con người phải sống thế nào? Dưới đây là
 những tiếng nói lớn nhất.
 
-## Khổng Tử và câu hỏi làm người
+## Khổng Tử và câu hỏi làm người {#khong-tu-va-cau-hoi-lam-nguoi}
 
 [Khổng Tử](../triet-gia/khong-tu.md) (551–479 TCN) không viết sách; học trò ghi lại lời ông trong *Luận ngữ*. Ông sống vào lúc
 nhà Chu suy tàn, và câu hỏi của ông là: làm sao khôi phục một xã hội có trật tự mà không cần bạo
@@ -29,7 +29,7 @@ nghìn năm.
 Ảnh hưởng: từ Khổng Tử nảy sinh cả một truyền thống chú giải, tranh luận và cải cách — bao gồm hai
 người kế thừa lớn bất đồng nhau dưới đây, và Tân Nho giáo hơn một nghìn năm sau.
 
-## Mạnh Tử vs Tuân Tử: bản tính thiện hay ác?
+## Mạnh Tử vs Tuân Tử: bản tính thiện hay ác? {#manh-tu-vs-tuan-tu-ban-tinh-thien-hay-ac}
 
 [Mạnh Tử](../triet-gia/manh-tu.md) (khoảng 372–289 TCN theo truyền thống) và [Tuân Tử](../triet-gia/tuan-tu.md) (khoảng 310 – sau 238 TCN) đều nhận mình là người tiếp nối Khổng Tử, nhưng trả
 lời ngược nhau về một câu hỏi: bản tính con người thế nào?
@@ -48,7 +48,7 @@ làm vua mà tàn bạo với dân thì đã mất tư cách làm vua, lật đ�
 nghiêm khắc. Tranh luận này — con người cần được *nuôi dưỡng* hay *uốn nắn* — đến nay vẫn sống trong
 mọi cuộc cãi nhau về giáo dục. Cuộc tranh luận ấy, cùng [Hobbes](../triet-gia/hobbes.md), [Rousseau](../triet-gia/rousseau.md) và [Sartre](../triet-gia/sartre.md), được bàn kỹ trong bài [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md).
 
-## Lão Tử và Trang Tử: Đạo không nói được
+## Lão Tử và Trang Tử: Đạo không nói được {#lao-tu-va-trang-tu-dao-khong-noi-duoc}
 
 Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của Lão
 Tử (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
@@ -65,7 +65,7 @@ là nhân tạo; người trí tuệ giữ tâm hồn tự do, "tiêu dao" ngoà
 Ảnh hưởng: Đạo gia trở thành nguồn cảm hứng cho thi ca, hội họa, y học cổ truyền — và sau này là một
 trong hai gốc rễ của Thiền tông.
 
-## Mặc Tử và Hàn Phi: kiêm ái và pháp trị
+## Mặc Tử và Hàn Phi: kiêm ái và pháp trị {#mac-tu-va-han-phi-kiem-ai-va-phap-tri}
 
 Không phải ai cũng tin vào nhân nghĩa. [Mặc Tử](../triet-gia/mac-tu.md) (khoảng 470–391 TCN) phê phán Nho gia là thiên vị:
 thương cha mẹ mình hơn cha mẹ người khác thì chiến tranh vẫn còn. Ông đề xướng **kiêm ái** — yêu
@@ -82,7 +82,7 @@ hà khắc mà nhà Tần sụp đổ chỉ sau một đời.
 Ảnh hưởng: cuộc tranh luận Nho–Pháp (đức trị hay pháp trị) trở thành trục chính trị xuyên suốt lịch
 sử Trung Hoa — và vẫn vang vọng mỗi khi ta cãi nhau về "giáo dục ý thức" versus "phạt nặng mới sợ".
 
-## Tân Nho giáo và Thiền (tổng quan ngắn)
+## Tân Nho giáo và Thiền (tổng quan ngắn) {#tan-nho-giao-va-thien-tong-quan-ngan}
 
 Sau khi Phật giáo du nhập (khoảng thế kỷ 1–2), Nho gia phải tự đổi mới. **Tân Nho giáo** thời Tống,
 với [Chu Hy](../triet-gia/chu-hy.md) (1130–1200) là đại diện, tổng hợp Nho–Phật–Đạo thành một siêu hình học mới: vũ trụ gồm
@@ -91,7 +91,7 @@ lý. Tân Nho giáo thống trị khoa cử Trung Hoa (và cả Việt Nam, Tri�
 
 **Thiền tông** (*Zen* ở Nhật) thì đi con đường khác: Bồ Đề Đạt Ma — nhân vật nửa huyền thoại, truyền thống kể ông đến Trung Hoa khoảng thế kỷ 5–6 — được Thiền tông đời sau (khoảng từ đời Tống) gán cho chủ trương "trực chỉ nhân tâm, kiến tính thành Phật": đừng nương vào kinh sách, hãy nhìn thẳng vào tâm mình. Huệ Năng (638–713), vị tổ thứ sáu, đưa Thiền thành dòng chảy lớn với tinh thần bình dân, đốn ngộ — giác ngộ trong một sát na, không cần tu tập tuần tự.
 
-## Ảnh hưởng tới Việt Nam
+## Ảnh hưởng tới Việt Nam {#anh-huong-toi-viet-nam}
 
 Tư tưởng Trung Hoa theo đường quan lại, khoa cử và thương nhân mà vào Việt Nam từ rất sớm. Nho
 giáo có chỗ đứng trong triều đình từ thời Lý (năm 1070 đã có Văn Miếu thờ Khổng Tử) và trở thành hệ tư tưởng chính
@@ -109,7 +109,7 @@ khi sang Việt Nam, lại đua thêm một vòng nữa — và vòng đó có t
 Chi tiết đầy đủ có trong các bài: [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) và [Thiền Trúc
 Lâm](../cau-hoi/truc-lam.md).
 
-## Vì sao "trăm nhà" chỉ rộ một thời?
+## Vì sao "trăm nhà" chỉ rộ một thời? {#vi-sao-tram-nha-chi-ro-mot-thoi}
 
 Một câu hỏi hay để khép lại: vì sao thời Bách gia chư tử rực rỡ như vậy mà sau đó Trung Hoa không
 lặp lại? Câu trả lời thông thường: năm 221 TCN, Tần Thủy Hoàng thống nhất Trung Hoa; năm 213 TCN nhà Tần
@@ -125,13 +125,13 @@ nở. Đây cũng là lý do thời Chiến Quốc, với nhiều nước cạnh
 giả bị nước này ruồng bỏ thì sang nước khác (diễn giải được nhiều sử gia đồng tình,
 nhưng khó kiểm chứng đầy đủ).
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md) — các lý thuyết đạo đức phương Tây, để tự đối chiếu với Nho–Mặc
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md) — Thiền khi đến Việt Nam
 - [Mộng hồ điệp — Trang Tử](../doc/trang-tu-mong-ho-diep.md) — đọc chậm giấc mơ con bướm của Trang Tử
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Luận ngữ* (do học trò Khổng Tử biên soạn, khoảng thế kỷ 5–3 TCN), bản dịch tiếng Anh: Edward Slingerland (2003), Hackett.
 2. *Mạnh Tử*; *Tuân Tử* — bản dịch tiếng Anh trong Philip J. Ivanhoe & Bryan W. Van Norden (chủ biên) (2005), *Readings in Classical Chinese Philosophy*, Hackett.

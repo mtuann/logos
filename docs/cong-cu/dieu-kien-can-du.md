@@ -15,7 +15,7 @@ Không vô lý. Vé là **điều kiện cần** để xem phim: không vé thì
 
 Thử đảo tình huống: giả sử Minh đến đúng giờ, rạp còn chỗ, phim chưa chiếu — nhưng Minh *quên vé ở nhà*. Lần này thì rõ ràng: không vé, không xem. Vé không đủ để đảm bảo suất xem, nhưng thiếu nó thì chắc chắn mất suất. Đó chính là cảm giác của "cần mà chưa đủ": nó không hứa hẹn gì, nhưng nó là cái không thể thiếu.
 
-## Định nghĩa
+## Định nghĩa {#dinh-nghia}
 
 Cho hai sự việc P và Q:
 
@@ -37,7 +37,7 @@ Ba ví dụ để ghim:
 </figure>
 <!-- /fig:dieu-kien-can-du -->
 
-## Bốn tổ hợp
+## Bốn tổ hợp {#bon-to-hop}
 
 Với "P đủ cho Q" (P → Q), bốn tình huống có thể xảy ra:
 
@@ -64,7 +64,7 @@ Mẹo nhớ: **đủ thì "thừa sức kéo"** (có P là Q đi theo); **cần 
 !!! note "Đảo của một định lý chưa chắc đúng"
     Nhiều định lý cho ta điều kiện đủ: "nếu a = b thì a² = b²". Đảo lại — "nếu a² = b² thì a = b" — thì sai (a có thể bằng −b). Đảo của "P đủ cho Q" là "Q đủ cho P", một khẳng định hoàn toàn khác, cần chứng minh riêng. Rất nhiều sai lầm khi học toán đến từ việc tưởng định lý nào cũng đảo được.
 
-## Nhầm lẫn phổ biến: đảo cần thành đủ (và ngược lại)
+## Nhầm lẫn phổ biến: đảo cần thành đủ (và ngược lại) {#nham-lan-pho-bien-dao-can-thanh-du-va-nguoc-lai}
 
 Nhầm lẫn kinh điển là tưởng điều kiện cần cũng là đủ:
 
@@ -77,7 +77,7 @@ Chiều ngược lại cũng hay gặp: tưởng điều kiện đủ cũng là 
 
 Và đây chính là cầu nối sang bài [Suy diễn](suy-dien.md): câu "nếu P thì Q" chỉ nói P **đủ** cho Q. **Khẳng định hậu kiện** (Q đúng, vậy P đúng — lỗi của chị Thu) chính là tưởng Q cũng đủ cho P, hay tưởng P là *cần* cho Q: tưởng "sân ướt" chỉ xảy ra khi "trời mưa". Sân ướt có nhiều con đường để đến; mưa chỉ là một trong số đó.
 
-## "Khi và chỉ khi": vừa cần vừa đủ
+## "Khi và chỉ khi": vừa cần vừa đủ {#khi-va-chi-khi-vua-can-vua-du}
 
 Khi P vừa cần vừa đủ cho Q — có P thì có Q, và không P thì không Q — ta nói "P **khi và chỉ khi** Q", ký hiệu P ↔ Q (xem [Bảng chân trị](logic-menh-de.md)).
 
@@ -85,7 +85,7 @@ Ví dụ: "Một số tự nhiên là bội của 6 khi và chỉ khi nó vừa 
 
 "Khi và chỉ khi" là tiêu chuẩn của một **định nghĩa** tốt — và đó là chủ đề của bài tiếp theo.
 
-## Cùng một sự việc, hai vai trò
+## Cùng một sự việc, hai vai trò {#cung-mot-su-viec-hai-vai-tro}
 
 Cần hay đủ không phải tính chất tuyệt đối của một sự việc — nó luôn tương đối với *cặp* P, Q đang xét. Cùng một P có thể là cần cho Q mà lại là đủ cho R.
 
@@ -98,7 +98,7 @@ Vì vậy đừng hỏi "X là cần hay đủ?" một cách chung chung. Hãy h
 
 Một điểm nữa: điều kiện đủ không nhất thiết là *một* sự việc đơn lẻ. Trở lại chuyện xem phim của Minh: không có yếu tố đơn nào là đủ cả — nhưng **tập hợp** "có vé + đến đúng giờ + rạp còn chỗ + phim chưa chiếu xong" gộp lại thì đủ. Trong đời sống, cái "đủ" thường là một bó điều kiện đi cùng nhau; tách lẻ từng cái ra thì mỗi cái chỉ còn là cần.
 
-## Ngôn ngữ đời thường: "chỉ cần", "phải… mới"
+## Ngôn ngữ đời thường: "chỉ cần", "phải… mới" {#ngon-ngu-doi-thuong-chi-can-phai-moi}
 
 Tiếng Việt có những cụm từ báo hiệu cần/đủ rất rõ:
 
@@ -107,7 +107,7 @@ Tiếng Việt có những cụm từ báo hiệu cần/đủ rất rõ:
 
 Nhưng cẩn thận: quảng cáo và lời khuyên đời thường hay dùng "chỉ cần" một cách hào phóng. "Chỉ cần uống viên này là hết mệt mỏi" — viên thuốc có thật sự *đủ* không, hay còn cần ngủ đủ, ăn đủ, đi khám? Mỗi lần nghe "chỉ cần", hãy hỏi lại: thật sự đủ chưa, hay còn thiếu điều kiện nào?
 
-## Cần và đủ trong tranh luận
+## Cần và đủ trong tranh luận {#can-va-du-trong-tranh-luan}
 
 Nhiều cuộc cãi vã nảy lửa thực ra chỉ là hai bên dùng "cần" và "đủ" khác nhau mà không biết.
 
@@ -118,7 +118,7 @@ Hai người nói hai chuyện khác nhau: A nói về điều kiện cần, B b
 
 Mẹo thực hành: khi ai đó nói "X thì phải Y", hãy hỏi lại: "Ý anh là Y là *cần* cho X, hay Y là *đủ* cho X?" Câu hỏi nhỏ này gỡ được rất nhiều nút thắt.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** "Muốn dự thi tốt nghiệp THPT thì phải hoàn thành chương trình lớp 12." Hoàn thành chương trình là điều kiện cần hay đủ (hay cả hai) cho việc dự thi?
 
@@ -155,7 +155,7 @@ Mẹo thực hành: khi ai đó nói "X thì phải Y", hãy hỏi lại: "Ý an
 ??? success "Xem gợi ý đáp án"
     Người thứ nhất nói thuốc là *cần* ("phải uống… thì mới khỏi"). Người thứ hai bác bỏ như thể thuốc được quảng cáo là *đủ* ("uống là khỏi"). Giống hệt mẫu kẹt xe: một bên nói cần, một bên đòi đủ. Cách gỡ: hỏi lại "ý anh là thuốc cần hay đủ?" — rồi bàn tiếp: nếu chỉ là cần, vậy còn cần thêm gì nữa mới đủ (nghỉ ngơi, đúng liều, hợp cơ địa…)?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -171,10 +171,10 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 "Khi và chỉ khi" — vừa cần vừa đủ — chính là hình thức của một định nghĩa tốt. Nhưng đưa ra được một định nghĩa như thế khó hơn ta tưởng, và cách tốt nhất để kiểm tra nó là tìm **phản ví dụ**. Mời đọc [Thế nào là một định nghĩa tốt?](dinh-nghia-phan-vi-du.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Andrew Brennan, "Necessary and Sufficient Conditions", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/necessary-sufficient/>

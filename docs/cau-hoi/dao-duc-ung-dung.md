@@ -19,7 +19,7 @@ Bài trước hỏi "hành động đúng là gì" ở cấp lý thuyết. Bài 
 
 Bài này giả định bạn đã quen với ba họ lý thuyết lớn trong bài [Hành động đúng là gì?](dao-duc-hanh-dong.md) — vì Singer, nhân vật chính của bài này, chính là một người theo thuyết vị lợi, và nhiều phản bác nhằm vào ông cũng là phản bác nhằm vào thuyết vị lợi nói chung.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Trong nhà bạn có hai con vật. Một con chó — bạn vuốt ve nó mỗi tối, đưa nó đi khám khi ốm, và sẽ đau lòng nếu ai đó làm nó đau. Một con lợn — bạn chưa bao giờ gặp nó, và tối nay thịt của nó nằm trong đĩa cơm của bạn.
@@ -32,7 +32,7 @@ Hãy tự trả lời trước khi đọc tiếp. Bài này sẽ không bảo b�
 
 Một biến thể để thử thêm: hãy tưởng tượng một loài ngoài hành tinh thông minh vượt xa con người đổ bộ xuống Trái Đất. Họ thấy thịt người "ngon" và nuôi con người trong trang trại công nghiệp — với lý do "con người kém thông minh hơn chúng tôi, như các bạn đối xử với lợn vậy". Nếu bạn thấy điều đó là kinh hoàng, thì sự kinh hoàng ấy đến từ đâu — và nó có nhất quán với việc bạn ăn thịt lợn không?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Bài này xét hai câu hỏi của đạo đức học ứng dụng, cả hai đều gắn với tên tuổi của Peter Singer:
 
@@ -61,7 +61,7 @@ Cuối cùng, một ghi chú về phương pháp: đạo đức học ứng dụ
 
 Và nếu sau bài này bạn thấy mình "nghiêng" về một hướng — ví dụ muốn giảm thịt, hay muốn cho đi nhiều hơn — thì đó là lúc đạo đức học ứng dụng hoàn thành nhiệm vụ của nó: không phải cho bạn một đáp án để học thuộc, mà cho bạn một lý do để hành động mà bạn có thể bảo vệ được trước chính mình.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Singer về động vật: nỗi đau là nỗi đau, bất kể của loài nào
 
@@ -105,7 +105,7 @@ Phong trào "vị tha hiệu quả" còn đi xa hơn một bước: không chỉ
 
 Bản thân Singer sống theo điều ông rao giảng — ông cho đi một phần lớn thu nhập của mình cho các tổ chức từ thiện hiệu quả, và là người sáng lập tổ chức The Life You Can Save (Cuộc sống bạn có thể cứu). Điều này không chứng minh ông đúng — một người có thể sống nhất quán với một lý thuyết sai — nhưng nó loại bỏ phản bác rẻ tiền nhất: "nói thì hay, làm được không?"
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số liệu trực tiếp: một **câu chính** (hỏi mọi người tham gia) về việc ăn động vật và sản phẩm động vật.
 
@@ -130,7 +130,7 @@ Với câu hỏi thứ hai — bổn phận với người nghèo đói ở xa, 
 
 Một điểm đáng chú ý: ảnh hưởng thực tế không đồng nghĩa với đồng thuận triết học. Nhiều triết gia chấp nhận rằng ta có *một số* bổn phận với động vật và người nghèo, nhưng tranh luận gay gắt về *mức độ* — và đó chính là chỗ các phản bác trên đánh vào.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Thịt chó ở Việt Nam.** Đây là nơi lập luận của Singer chạm vào đời sống Việt Nam trực tiếp nhất — và cũng là nơi cần thận trọng nhất. Người phản đối ăn thịt chó thường viện đến tình cảm: chó trung thành, gần gũi với con người. Nhưng theo logic của Singer, chính lập luận này lại *ủng hộ* ông: nếu sự gần gũi về cảm xúc không phải là tiêu chí đạo đức (vì nó tùy tiện), thì không có lý do đạo đức nào để đối xử khác giữa chó và lợn — hoặc cả hai đều ăn được, hoặc cả hai đều không. Ngược lại, người bênh vực có thể dùng chính lập luận "trường hợp biên": xã hội ta vẫn ăn thịt lợn gà, vậy cấm thịt chó vì "chó đáng yêu hơn" là tiêu chuẩn kép. Bài này không kết luận thay bạn — nhưng nó đòi hỏi lý do của bạn phải nhất quán: bạn không thể vừa dùng "biết đau" để bênh chó vừa lờ nó đi khi nói về lợn.
 
@@ -142,7 +142,7 @@ Một điểm đáng chú ý: ảnh hưởng thực tế không đồng nghĩa v
 
 **Ăn chay và "thứ Sáu không thịt".** Nhiều người Việt ăn chay vào ngày rằm, mùng một — một thực hành tôn giáo có từ lâu đời. Điều thú vị là động cơ của họ thường không phải lập luận của Singer (quyền động vật) mà là lòng từ bi, tích đức. Hai động cơ khác nhau nhưng dẫn đến cùng một hành vi — và điều đó gợi ra một câu hỏi cho đạo đức học: hành động đúng có cần động cơ đúng không? (Người theo Kant sẽ nói có; người theo thuyết vị lợi sẽ nói chỉ hậu quả mới quan trọng.)
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Peter Singer viết năm 1975, vẫn còn bản quyền, nên bài này không trích dài. Thay vào đó là đoạn văn khơi nguồn cho toàn bộ lập luận của ông — [Jeremy Bentham](../triet-gia/bentham.md) công bố năm 1789, đã hết bản quyền — kèm bản dịch tiếng Việt.
 
@@ -157,7 +157,7 @@ Câu hỏi dẫn dắt:
 2. "Biết đau khổ" là tiêu chí của Bentham. Hãy thử đề xuất một tiêu chí khác (ví dụ: biết suy luận, là thành viên loài người) và kiểm tra nó bằng lập luận "trường hợp biên" của Singer.
 3. Singer đi xa hơn Bentham: không chỉ "đừng hành hạ", mà còn "đừng ăn thịt". Theo bạn, bước nhảy từ "chúng biết đau" đến "ta không được ăn thịt chúng" có vững không? Còn thiếu tiền đề nào không?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -173,7 +173,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Bạn có một khoản tiền dư dả cuối tháng: 2 triệu đồng. Một người bạn rủ bạn đi ăn nhà hàng sang; cùng lúc đó bạn đọc được lời kêu gọi quyên góp cho trẻ em suy dinh dưỡng vùng cao. Hãy dùng lập luận "cái ao" của Singer (và ít nhất một phản bác) để trả lời: bạn nên làm gì với 2 triệu đó?
 
@@ -186,7 +186,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có phân biệt "bổn phận phải làm" với "điều đáng khen nếu làm" không? (Singer cho rằng cứu đứa trẻ trong ao là *bổn phận*, không phải lòng hảo tâm tùy hứng — bạn có đồng ý không?)
     - Bài viết có con số, ví dụ cụ thể, và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House (tái bản nhiều lần).
 2. Singer, Peter (1972), "Famine, Affluence, and Morality", *Philosophy & Public Affairs* 1(3): 229–243.

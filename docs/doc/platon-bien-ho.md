@@ -18,7 +18,7 @@ Văn bản này đáng đọc vì nó là chân dung rõ nhất về Socrates �
     - **Bản dịch được trích:** Benjamin Jowett (in lần đầu 1871; phạm vi công cộng). Số như "38a" là trang và đoạn của ấn bản Stephanus (1578), mọi bản dịch đều ghi.
     - **Thời gian đọc:** các đoạn chọn khoảng 20 phút; cả tác phẩm khoảng một giờ.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Socrates (k. 469–399 TCN) cả đời đi hỏi người khác: chính trị gia, thi sĩ, thợ thủ công. Ai cũng tưởng mình biết, và ai cũng lúng túng khi bị hỏi đến cùng. Nhiều người Athens khó chịu.
 
@@ -26,7 +26,7 @@ Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là ti
 
 Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Peloponnesus (404 TCN), rồi chịu chế độ tàn bạo của nhóm "Ba Mươi" do Critias, người từng thuộc vòng bạn bè của Socrates, cầm đầu. Quan hệ cũ với Critias và Alcibiades khiến nhiều người nghi Socrates chống dân chủ, dù đơn kiện chỉ nói về thần linh và giới trẻ.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 **Đoạn 1 — Lời sấm ở Delphi (20e–23c).** Chaerephon, bạn của Socrates, đến đền Delphi hỏi có ai khôn ngoan hơn Socrates không. Nữ tư tế đáp: không ai cả (21a). Socrates bối rối: ông tự biết mình chẳng khôn ngoan gì, mà thần thì không thể nói dối (21b). Ông bèn đi tìm một người khôn hơn mình để "bác" lời sấm. Hỏi chuyện một chính trị gia xong, ông tự nhủ:
 
@@ -70,7 +70,7 @@ Nếu là hư không, chết như một đêm ngủ say không mộng (40d–e).
 
 *Ông đang an ủi mình, hay đang lập luận thật?*
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 Vì sao Socrates không chịu im lặng dù phải chết? Ở dạng chuẩn:
 
@@ -84,7 +84,7 @@ Từ P1–P4 đến K là một bước **suy diễn** (*deductive*): nếu các
 
 Lập luận về cái chết có dạng **lưỡng nan** (*dilemma*): chết hoặc là hư không, hoặc là dời chỗ; cả hai đều không xấu; vậy chết không xấu. Hình thức hợp lệ, nhưng cần hai giả định ngầm: chỉ có hai khả năng, và không cảm giác thì không có gì xấu.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **"Đây là Socrates của Platon."** Những gì ta đọc là Platon *kể lại*; có thể ông đã dựng nên một Socrates lý tưởng, bất khuất hơn người thật.
 
@@ -98,19 +98,19 @@ Lập luận về cái chết có dạng **lưỡng nan** (*dilemma*): chết ho
 
 **Cách đáp lại:** Ông không trốn án; điều ông từ chối là *tự tay làm điều sai*. Dưới chế độ Ba Mươi, ông không chịu đi bắt Leon xứ Salamis để đem giết (32c–d). Có người gọi đó là bất tuân dân sự (cách gọi còn bị tranh cãi): từ chối điều bất chính mà không trốn hình phạt.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Socrates nói: tôi chỉ biết một điều là tôi không biết gì."** Câu gọn ấy không có trong *Biện hộ*. Ở 21d ông chỉ nói mình không biết "điều gì thật sự đẹp và tốt" và không *tưởng* mình biết; ông thừa nhận thợ thủ công biết nhiều điều (22d) và khẳng định mình biết làm điều bất chính là xấu (29b).
 - **"Tòa ra điều kiện: im lặng thì được sống."** Không có. Cả hai lần (29c, 37e), Socrates tự nêu giả định để trả lời trước. Tòa chỉ bỏ phiếu về tội, rồi chọn giữa hai mức án hai bên đề nghị.
 - **"Socrates chắc chắn chết là điều tốt."** Ông chỉ nói có lý do để *hy vọng* (40c), và kết bằng: chỉ thần biết (42a).
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 - Bạn có đồng ý "cuộc đời không được xét lại thì không đáng sống" không? Hãy thử viết một phản ví dụ: một cuộc đời hạnh phúc mà chủ nhân của nó chưa bao giờ tự xét.
 - Socrates từ chối thỏa hiệp để giữ mạng. Có ranh giới nào mà bạn cũng sẽ không vượt qua, dù phải trả giá đắt?
 - Nếu là một bồi thẩm ở phiên tòa năm 399 TCN, bạn bỏ phiếu có tội hay vô tội? Vì sao?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -125,7 +125,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — biết khác tưởng mình biết ở chỗ nào?
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — câu hỏi mà 38a đặt ra trực tiếp nhất
@@ -133,7 +133,7 @@ Thử xem bạn nắm được đến đâu.
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — lưỡng nan của 40c bên cạnh [Epicurus](../triet-gia/epicurus.md) và Nagel
 - [Đọc "Cẩm nang" của Epictetus](epictetus-cam-nang.md) — khép lại bằng ý của 30c–d: họ giết được Socrates nhưng không hại được ông
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Platon, *Apology*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1656. <https://www.gutenberg.org/ebooks/1656>
 2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170>

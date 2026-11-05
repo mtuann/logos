@@ -16,13 +16,13 @@ Chương 2 của *Bàn về tự do* (*On Liberty*) có lẽ là bài biện h�
     - **Cách ghi vị trí:** "II.21" là chương II, đoạn 21, đếm theo bản Gutenberg.
     - **Thời gian đọc:** khoảng 15 phút cho các đoạn trích; chừng 1,5 giờ cho trọn chương II.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 John Stuart Mill (1806–1873) lớn lên dưới sự giáo dục khắc nghiệt của cha, James Mill. *Bàn về tự do* ra đời năm 1859, ít lâu sau khi vợ ông, Harriet Taylor, qua đời năm 1858. Mill đề tặng sách cho bà, "người truyền cảm hứng, và một phần là tác giả" của những gì hay nhất ông viết; trong *Tự truyện* (1873, chương VII), ông gọi cuốn sách là "sản phẩm chung" của hai người.
 
 Nước Anh thời Victoria bề ngoài tự do, nhưng Mill lo một thứ chuyên chế mới: không phải của nhà vua, mà của dư luận đa số, thứ áp lực khiến người ta không dám nghĩ khác. Luật cũng chưa hẳn khoan dung: Mill kể chuyện một người bị xử 21 tháng tù năm 1857 chỉ vì nói và viết lên một cánh cổng mấy lời xúc phạm Kitô giáo (II.18).
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Bịt miệng là cướp của cả nhân loại (II.1)
 
@@ -62,7 +62,7 @@ Giả sử ý kiến thịnh hành là *đúng*. Ngay cả trong khoa học tự
 
 Ví dụ của Mill: thế kỷ 18, khi giới có học say mê "văn minh", những nghịch lý của [Rousseau](../triet-gia/rousseau.md) nổ ra "như những quả bom". Mill nói quan điểm đương thời gần sự thật hơn Rousseau, nhưng Rousseau giữ một phần sự thật mà họ thiếu (II.35).
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 Cuối chương, Mill tự tóm lập luận thành "bốn căn cứ riêng biệt" (II.40–II.43). Ở dạng chuẩn:
 
@@ -75,7 +75,7 @@ Cuối chương, Mill tự tóm lập luận thành "bốn căn cứ riêng bi�
 
 P1–P4 là một lập luận suy diễn theo từng trường hợp: nếu ba trường hợp vét hết các khả năng và mỗi trường hợp đều có thiệt hại, thì bịt miệng luôn có thiệt hại. Nhưng từ "có thiệt hại" đến K cần P5, một **giả định ngầm** (*hidden assumption*) Mill ít khi nói ra: lợi ích của việc bịt miệng, như tránh hoảng loạn hay tránh tổn thương, không bao giờ lớn hơn. Các phản bác hiện đại nhắm đúng vào chỗ này.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **1. Có những lời nói gây hại trực tiếp.** Kích động, đe dọa, vu khống không chỉ là "ý kiến".
 
@@ -85,19 +85,19 @@ P1–P4 là một lập luận suy diễn theo từng trường hợp: nếu ba 
 
 *Cách đáp lại:* người theo Mill hỏi lại: ai sẽ là người quyết định đâu là "tin sai" để cấm, và lấy gì bảo đảm người ấy không thể sai? Lời đáp cho lời nói tồi, với họ, là thêm lời nói, cùng sự phê phán của dư luận, chứ không phải lệnh cấm. Đây là tranh luận còn mở, và chính Mill có lẽ sẽ đồng ý rằng nó *đáng* được tranh luận công khai.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Theo Mill, ai muốn nói gì, ở đâu cũng được."** Ví dụ lái buôn ngũ cốc cho thấy cùng một ý kiến có thể bị trừng phạt khi hoàn cảnh biến nó thành lời kích động trực tiếp.
 - **"Tự do ngôn luận nghĩa là không ai được phê phán mình."** Mill cho rằng luật pháp không có việc gì ngăn lời lẽ quá khích, nhưng dư luận *nên* lên án bất cứ ai, ở phía nào, tranh luận thiếu trung thực, ác ý hay cố chấp, và nên trân trọng người trình bày đúng ý kiến của đối phương. Ông gọi đó là "đạo đức thật sự của thảo luận công khai" (II.44).
 - **"Sự thật nằm ở giữa."** Mill không nói chân lý là điểm giữa của hai phe. Ông nói mỗi phe có thể giữ một phần, và phải ghép lại; có khi phía thiểu số lại giữ phần quan trọng hơn.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Có ý kiến nào bạn tin chắc đến mức không muốn nghe phản bác không? Theo căn cứ thứ ba của Mill, niềm tin ấy đang "sống" hay đang thành "giáo điều chết"?
 2. Áp dụng ví dụ lái buôn ngũ cốc cho tin giả về vắc-xin lan trên mạng xã hội: đây là ý kiến đáng được tranh luận, hay là lời nói gây hại trực tiếp? Điều gì trong hoàn cảnh quyết định câu trả lời?
 3. Thử viết lại một quan điểm bạn phản đối sao cho người theo nó phải gật đầu, như Mill đòi hỏi (II.23, II.44). Bạn phát hiện ra điều gì?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được lập luận đến đâu.
 
@@ -111,7 +111,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Dân chủ là gì, và vì sao nó đáng giá?](../cau-hoi/dan-chu.md) — tự do ngôn luận là điều kiện của dân chủ.
 - [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — ai kiểm duyệt "chợ ý tưởng" khi thuật toán làm người gác cổng?
@@ -119,7 +119,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 - [Luận cứ thép](../cong-cu/luan-cu-thep.md) — hiểu lập luận của đối phương ở dạng mạnh nhất, như Mill đòi hỏi.
 - ["Khai sáng là gì?"](kant-khai-sang.md) — [Kant](../triet-gia/kant.md), 75 năm trước Mill, về tự do dùng lý trí công khai.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Mill, John Stuart (1859), *On Liberty*, Project Gutenberg (bản Walter Scott Publishing). <https://www.gutenberg.org/ebooks/34901>
 2. Mill, John Stuart (1873), *Autobiography*, chương VII, Project Gutenberg. <https://www.gutenberg.org/ebooks/10378>

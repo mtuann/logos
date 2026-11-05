@@ -17,7 +17,7 @@ Mỗi ngày ta nói "tôi biết" hàng chục lần. Tôi biết mai thứ Hai.
 
 Ngành triết học hỏi những câu này có tên là **tri thức luận** (*epistemology*).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Đêm qua bạn mơ thấy mình về quê ăn Tết. Trong mơ, bạn ngửi thấy mùi bánh chưng, nghe tiếng pháo, ôm bà nội. Lúc đó bạn hoàn toàn tin mọi thứ là thật. Chỉ khi chuông báo thức reo, bạn mới nhận ra: à, mơ.
@@ -30,7 +30,7 @@ Ngành triết học hỏi những câu này có tên là **tri thức luận** 
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên thật ra chứa hai câu hỏi khác nhau.
 
@@ -56,7 +56,7 @@ Và có một câu hỏi thứ ba, chạy song song: tri thức *đến từ đ�
 
 Định nghĩa tri thức nào cũng đòi niềm tin phải *đúng* — nhưng "đúng" nghĩa là gì? Xem [Sự thật là gì?](chan-ly.md).
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Hoài nghi luận: có thể ta biết ít hơn ta nghĩ
 
@@ -123,7 +123,7 @@ Tri thức có được *không cần* dựa vào kinh nghiệm gọi là **tiê
 
 **Cách đáp lại.** Nhiều triết gia ngày nay không chọn hẳn một bên. Họ chấp nhận có tri thức tiên nghiệm (ít nhất về logic và toán), nhưng cho rằng phần lớn tri thức về thế giới cụ thể đến từ kinh nghiệm. Tranh luận chuyển thành câu hỏi hẹp hơn: tri thức tiên nghiệm *rộng* đến đâu, và nó có nói gì về thực tại hay chỉ về khái niệm của ta.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers năm 2020 hỏi 1.785 triết gia chuyên nghiệp về nhiều câu hỏi trong bài này. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn (một người có thể chọn nhiều đáp án, nên tổng có thể vượt 100%).
 
@@ -166,7 +166,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Nhớ rằng số đông không quyết định chân lý. Một khảo sát chỉ cho ta biết giới chuyên môn đang nghiêng về đâu, và câu hỏi nào vẫn còn bỏ ngỏ.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tin giả và "biết" một tin trên mạng.** Bạn đọc trên một nhóm Zalo rằng "uống nước chanh ấm buổi sáng chữa được ung thư". Người chia sẻ là cô hàng xóm tốt bụng, có hàng trăm lượt thích. Bạn có lý do để tin không? Thuyết tin cậy gợi ý một câu hỏi rất thực tế: *nguồn* này, theo cách nó hoạt động, có thường cho ra thông tin đúng không? Lượt thích đo mức lan truyền, không đo độ tin cậy. Xem thêm về [ngụy biện](../cong-cu/nguy-bien.md) như "dựa vào số đông".
 
@@ -176,7 +176,7 @@ Nhớ rằng số đông không quyết định chân lý. Một khảo sát ch�
 
 **AI và câu hỏi "nó có biết không?".** Khi một chatbot trả lời đúng một câu hỏi, nó có *biết* không, hay giống chiếc đồng hồ chết pin tình cờ chỉ đúng giờ? Câu hỏi này dẫn ta sang một bài khác: [Một cỗ máy có thể có tâm trí không?](tam-tri-va-ai.md)
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Dưới đây là đoạn giấc mơ trong Suy niệm thứ nhất của Descartes, theo bản dịch tiếng Anh của John Veitch (thuộc phạm vi công cộng; bản in lại năm 1901), kèm bản dịch tiếng Việt.
 
@@ -193,7 +193,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: hướng dẫn đọc [*Suy niệm* của Descartes](../doc/descartes-suy-niem.md) và [Hume về nhân quả](../doc/hume-nhan-qua.md) (vì sao lý trí không bảo đảm được quy nạp).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -209,7 +209,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Bạn đọc một bài báo trên một trang tin lớn, kể rằng một loại thuốc mới vừa được Bộ Y tế cấp phép. Bạn có *biết* điều đó không, hay chỉ *tin có lý do*? Hãy dùng ít nhất một khái niệm trong bài (niềm tin đúng được biện minh, ví dụ Gettier, thuyết tin cậy, hoài nghi luận) để trả lời.
 
@@ -222,7 +222,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu ít nhất một phản bác cho lập trường của mình và đáp lại nó không?
     - Bài viết có ví dụ cụ thể, câu ngắn, và tránh những khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Ichikawa, Jonathan Jenkins & Matthias Steup, "The Analysis of Knowledge", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/knowledge-analysis/>
 2. Comesaña, Juan & Peter Klein, "Skepticism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/skepticism/>

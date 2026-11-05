@@ -11,7 +11,7 @@ Trên một diễn đàn, hai người cãi nhau hơn hai trăm bình luận v�
 
 Nếu [Socrates](../triet-gia/socrates.md) còn sống và lướt qua topic đó, ông sẽ chỉ làm một việc: hỏi. Hỏi đến khi cả hai cùng bí. Và theo ông, cái lúc cùng bí ấy chính là lúc cuộc tranh luận bắt đầu có ích.
 
-## Phép vấn đáp: không đưa đáp án, chỉ hỏi
+## Phép vấn đáp: không đưa đáp án, chỉ hỏi {#phep-van-dap-khong-dua-dap-an-chi-hoi}
 
 **Phép vấn đáp** (*elenchus*) là cách Socrates tranh luận: ông không trình bày lý thuyết của mình, mà chỉ hỏi người đối thoại — rồi dùng chính câu trả lời của họ để chỉ ra mâu thuẫn.
 
@@ -29,7 +29,7 @@ Một vòng vấn đáp thường đi qua các bước sau:
 
 Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của *chính mình*. Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.
 
-## Ví dụ kinh điển: Euthyphro
+## Ví dụ kinh điển: Euthyphro {#vi-du-kinh-dien-euthyphro}
 
 [Platon](../triet-gia/platon.md) ghi lại cuộc đối thoại *Euthyphro*, lấy bối cảnh năm 399 TCN — ngay trước phiên tòa xử Socrates. Ngoài tòa án, Socrates gặp Euthyphro, một người đang kiện chính cha ruột mình ra tòa và rất tự tin rằng mình hiểu thế nào là **mộ đạo** (*piety*, tiếng Hy Lạp *hosion*), thế nào là bất kính với thần linh.
 
@@ -47,7 +47,7 @@ Euthyphro bí. Cuộc đối thoại kết thúc trong bế tắc — nhưng c�
 
 Câu hỏi của Socrates không chết cùng cuộc đối thoại. Hai nghìn năm sau, các triết gia vẫn tranh luận quanh nó dưới cái tên "thuyết mệnh lệnh thần thánh" (*divine command theory*): điều đúng là đúng vì Chúa (trời, thần linh) phán vậy, hay Chúa phán vậy vì nó đúng? Mỗi bên đều phải đối mặt với một sừng của thế lưỡng nan mà Socrates đã giăng ra ngoài tòa án năm 399 TCN. Đó là sức mạnh của một câu hỏi hay: nó không cần đáp án để sống tiếp — nó sống bằng cách bắt mọi đáp án sau này phải trả lời nó.
 
-## Dùng trong đời thường
+## Dùng trong đời thường {#dung-trong-doi-thuong}
 
 Bạn không cần là Socrates mới dùng được phép vấn đáp. Thử với một câu nói quen thuộc:
 
@@ -73,7 +73,7 @@ Một ví dụ nữa, ở công sở:
 
 Đến đây, sếp có hai lựa chọn: hoặc thừa nhận định nghĩa sai, hoặc bảo vệ nó ("tôi chỉ tính giờ có mặt") — và cả hai đều lộ ra điều gì đó đáng suy nghĩ về cách công ty đánh giá con người.
 
-## Khác với cãi nhau để thắng
+## Khác với cãi nhau để thắng {#khac-voi-cai-nhau-de-thang}
 
 Phép vấn đáp dễ bị dùng sai thành vũ khí. Đây là ranh giới:
 
@@ -85,7 +85,7 @@ Phép vấn đáp dễ bị dùng sai thành vũ khí. Đây là ranh giới:
 !!! warning "Đừng biến nó thành vũ khí"
     Phép vấn đáp trong tay người chỉ muốn thắng sẽ thành trò hỏi xoáy đáp xoay: dồn đối phương vào chân tường bằng câu hỏi, rồi tuyên bố chiến thắng khi họ bí. Socrates làm ngược lại: ông *cùng* đối phương rơi vào bế tắc, và coi đó là khởi đầu chứ không phải chiến thắng.
 
-## Điều Socrates thật sự muốn
+## Điều Socrates thật sự muốn {#dieu-socrates-that-su-muon}
 
 Dễ hiểu lầm rằng Socrates thích làm người khác bí để chứng tỏ mình thông minh. Ngược lại: ông làm thế vì tin rằng một niềm tin chưa từng bị tra hỏi là một niềm tin nguy hiểm — nó điều khiển hành vi của ta mà ta không hề hay biết.
 
@@ -93,13 +93,13 @@ Trong phiên tòa xử mình (được Platon ghi lại trong *Biện hộ của
 
 Vì vậy, thước đo một cuộc vấn đáp thành công không phải "đối phương bí chưa", mà là "cả hai có hiểu rõ hơn lúc đầu không". Nếu cuối buổi bạn thắng mà chẳng học được gì mới, thì theo chuẩn của Socrates, buổi đó thất bại.
 
-## Khi nào nên dùng
+## Khi nào nên dùng {#khi-nao-nen-dung}
 
 - Khi một cuộc tranh luận cứ xoay vòng: hai bên nói qua nói lại mà không tiến thêm bước nào — thường là vì chưa ai định nghĩa từ khóa.
 - Khi ai đó dùng những từ rất to mà rất rỗng: "tự do", "công bằng", "yêu nước", "truyền thống". Hỏi "ý bạn là gì?" là nhát cuốc đầu tiên.
 - Khi chính bạn thấy mình "chắc chắn" một cách đáng ngờ. Tự vấn mình là bài tập khó nhất — và bổ ích nhất.
 
-## Vấn đáp với chính mình
+## Vấn đáp với chính mình {#van-dap-voi-chinh-minh}
 
 Ứng dụng khó nhất của phép vấn đáp không phải với người khác, mà với chính mình — vì ta vừa là người hỏi vừa là người bị hỏi, và ta rất giỏi né câu hỏi khó của chính mình.
 
@@ -119,7 +119,7 @@ Ví dụ, tự vấn về "công việc tốt":
 
 Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạn lảng: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Dùng phép vấn đáp với khẳng định: "Học giỏi là học thuộc nhiều." Đi qua đủ các bước: hỏi định nghĩa "học giỏi", lấy định nghĩa thật nghiêm túc, tìm phản ví dụ, ghi lại lúc bế tắc.
 
@@ -150,7 +150,7 @@ Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạ
 ??? success "Xem gợi ý đáp án"
     Không có đáp án mẫu. Dấu hiệu làm tốt: mực xanh của bạn ít nhất một lần bắt được mực đỏ dùng từ mơ hồ ("hạnh phúc", "đáng sống", "thành công") mà không định nghĩa. Dấu hiệu làm chưa tới: mực đỏ trả lời xong là mực xanh gật đầu ngay — nghĩa là bạn đang nương tay với chính mình.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 <div class="oz-quiz" data-id="argument-3" data-skill="argument" markdown="0">
 <script type="application/json">
@@ -164,11 +164,11 @@ Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạ
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Cuộc vấn đáp hay nhất thường kết thúc ở một giả định ngầm mà chưa ai gọi tên. Mời đọc [Giả định ngầm](gia-dinh-ngam.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Debra Nails và S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/socrates/>
 2. James M. Ambury, "Socrates", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/socrates/>

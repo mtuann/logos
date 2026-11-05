@@ -18,7 +18,7 @@ Bài này không hỏi "có nên bình đẳng không" — mà hỏi ba câu kh�
 
 Chữ "bình đẳng" trong tiếng Việt dịch từ *equality*, gốc Latin *aequalis* (ngang nhau). Ngay từ gốc chữ đã có sự mơ hồ: "ngang nhau" về *cái gì*? Chiều cao thì đo được, nhưng "ngang nhau về cơ hội" hay "ngang nhau về cuộc sống" thì đo bằng gì? Hai nghìn năm triết học chính trị, một phần lớn là tranh luận về chỗ mơ hồ đó.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hai người cùng 30 tuổi, cùng nghèo. Người thứ nhất bị tai nạn lao động, mất khả năng làm việc. Người thứ hai nướng hết tiền tiết kiệm vào cờ bạc, giờ trắng tay. Nhà nước có một khoản trợ cấp — nên chia đều cho cả hai, hay chỉ cho người gặp tai nạn?
@@ -30,7 +30,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử người cờ bạc đã cai nghiện thành công và đang làm lại từ đầu — bạn có đổi ý không? Và biến thể ngược lại: giả sử người bị tai nạn trước đó là triệu phú, còn khoản trợ cấp thì có hạn — bạn có còn thấy "chia đều" là công bằng? Hầu hết mọi người sẽ trả lời khác nhau ở ba tình huống, và sự khác nhau đó cho thấy ta không thật sự tin vào "bình đẳng tuyệt đối" — ta tin vào một nguyên tắc tinh tế hơn mà ta chưa gọi tên.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau, và triết học thường tách chúng ra.
 
@@ -40,7 +40,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau, và triết học thường
 
 **Câu hỏi thứ ba: bình đẳng đứng ở đâu so với các giá trị khác?** Giả sử ta có thể làm cho mọi người bình đẳng bằng cách làm cho người giàu nghèo đi *mà người nghèo không khá lên chút nào* — có nên làm không? Nếu bạn nói "không", thì bạn vừa thừa nhận bình đẳng không phải là giá trị duy nhất: đời sống con người được cải thiện cũng quan trọng, thậm chí quan trọng hơn. Phản bác này có tên là **hạ bằng** (*levelling down*), và nó ám ảnh mọi lý thuyết bình đẳng.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Bình đẳng kết quả: chênh lệch tự nó đã là xấu
 
@@ -80,7 +80,7 @@ Một phản bác khác, thực tế hơn: ranh giới giữa may rủi và lự
 
 **Cách đáp lại.** Người theo Dworkin đáp rằng bảo hiểm giả định đã tính đến sự tàn nhẫn: người có lý trí trong thị trường bảo hiểm giả định *sẽ* mua bảo hiểm chống lại cả những lựa chọn sai lầm nghiêm trọng của chính mình trong tương lai — vì ai cũng biết mình có thể sai lầm. Còn về sự xoi mói, họ nói: mọi chính sách phúc lợi đều phải xét hoàn cảnh ở mức nào đó; câu hỏi không phải "có xét hay không" mà là "xét thế nào cho tôn trọng phẩm giá". Và về ranh giới mờ, họ thừa nhận — nhưng cho rằng mờ không có nghĩa là không có: ta vẫn phân biệt được trường hợp rõ ràng (khuyết tật bẩm sinh vs nướng tiền vào cờ bạc), và luật pháp vốn sống chung với ranh giới mờ mỗi ngày.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không hỏi "bình đẳng về cái gì" — không có câu nào tách bình đẳng kết quả, bình đẳng cơ hội hay bình đẳng may mắn. Nhưng câu *chính* (hỏi tất cả người tham gia) "Triết học chính trị" có một lựa chọn mang đúng tên chủ nghĩa bình đẳng:
 
@@ -99,7 +99,7 @@ Ngoài con số, công lý phân phối là một trong những ngành sôi nổ
 
 Một lưu ý: ba lập trường không loại trừ nhau hoàn toàn. Nhiều triết gia ngày nay kết hợp chúng: đòi bình đẳng cơ hội thực chất *và* bù đắp may rủi thuần túy *và* chấp nhận một số chênh lệch do lựa chọn. Câu hỏi khó, như mọi khi, không phải "chọn phe nào" mà là khi các yêu cầu xung đột — ví dụ khi bù đắp đầy đủ cho may rủi đòi mức thuế mà người dân không chịu nổi — ta ưu tiên cái nào.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Điểm ưu tiên thi đại học.** [Bài về công lý](cong-ly.md) đã phân tích kỹ: phe ủng hộ cộng điểm nói ngôn ngữ của sự bù đắp thiệt thòi xuất phát (gần với lập trường 2-mức-thực-chất và lập trường 3: thí sinh vùng sâu chịu may rủi thuần túy), phe phản đối nói ngôn ngữ của quyền hưởng ("điểm là của tôi"). Bài này cho bạn thêm một lăng kính: hãy hỏi người ủng hộ — nếu một thí sinh thành phố *chọn* chơi bời thay vì học và trượt, có nên "bù đắp" cho cậu ta không? Hầu hết sẽ nói không — và câu trả lời đó cho thấy họ thực ra là người theo chủ nghĩa bình đẳng may mắn mà không hay.
 
@@ -107,7 +107,7 @@ Một lưu ý: ba lập trường không loại trừ nhau hoàn toàn. Nhiều 
 
 **Thuế và phúc lợi.** Mọi chính sách thuế lũy tiến, trợ cấp người nghèo, bảo hiểm y tế toàn dân đều là những lựa chọn *bình đẳng* theo nghĩa nào đó — nhưng theo nghĩa nào thì tùy. Người thiết kế chính sách dùng ngôn ngữ của Rawls (nguyên tắc chênh lệch), người phản đối dùng ngôn ngữ của Nozick (quyền hưởng), còn người dân thường tranh luận bằng trực giác may rủi vs lựa chọn của Dworkin. Hiểu được ba khung này không giúp bạn kết luận ai đúng, nhưng giúp bạn nghe ra *người ta đang cãi về cái gì* — thay vì tưởng họ cãi về con số.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: các tác phẩm gốc của Dworkin (1981), Cohen (1989) và Anderson (1999) đều còn bản quyền, nên bài này không trích dài mà tóm tắt cốt lõi bằng lời mình. Dưới đây là sự phân biệt trung tâm của Dworkin, diễn đạt lại ngắn gọn:
 
@@ -123,7 +123,7 @@ Câu hỏi dẫn dắt:
 2. Hãy thử áp dụng phân biệt may rủi/lựa chọn vào một chính sách cụ thể mà bạn biết (ví dụ: trợ cấp thất nghiệp, học bổng). Ranh giới có rõ như lý thuyết nói không?
 3. Phản bác "hạ bằng" (levelling down) chống lại lập trường 1. Bạn có thể nghĩ ra một *biến thể* của nó để chống lại lập trường 3 không? (Gợi ý: có cách nào "bù đắp may rủi" mà làm cho mọi người đều tệ đi không?)
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -189,7 +189,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Chọn một chính sách mà bạn biết (điểm ưu tiên thi đại học, trợ cấp thất nghiệp, học bổng cho học sinh nghèo...). Hãy phân tích nó bằng *cả ba* lập trường trong bài: mỗi lập trường sẽ nói gì về chính sách đó — ủng hộ, phản đối, hay ủng hộ có điều kiện? Cuối cùng, bạn đứng về phía nào, và vì sao?
 
@@ -202,7 +202,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bài viết có ví dụ, con số cụ thể thay vì nói chung chung về "bình đẳng" không?
     - Kết luận của bạn có đi kèm lý do, thay vì chỉ là cảm tính?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Bidadanure, Juliana & David Axelsen, "Egalitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/egalitarianism/>
 2. Gosepath, Stefan, "Equality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/equality/>

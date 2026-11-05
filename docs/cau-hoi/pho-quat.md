@@ -21,7 +21,7 @@ Câu hỏi của bài này nghe có vẻ ngớ ngẩn, nhưng nó đã làm tri�
 
 Nghe thì trừu tượng, nhưng hãy nghĩ về một cuộc tranh cãi rất cụ thể: hai người cãi nhau xem "phở bò tái chín" có phải là "phở thật" không. Người này bảo phải có nước dùng trong, người kia bảo phải có bò tái. Họ đang cãi nhau về cái gì? Về một món ăn cụ thể — hay về một *chuẩn* vô hình mà các tô phở cụ thể phải khớp? Câu hỏi về phổ quát bắt đầu từ những cuộc cãi nhau như vậy.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Đặt cạnh nhau ba thứ: một bông hồng đỏ, một giọt máu, một ánh đèn giao thông đỏ.
@@ -34,7 +34,7 @@ Nghe thì trừu tượng, nhưng hãy nghĩ về một cuộc tranh cãi rất 
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Các triết gia gọi cái "đỏ" chung ấy là một **phổ quát** (*universal*): một tính chất hay một loại mà nhiều vật riêng lẻ cùng có. Bông hồng, giọt máu, ánh đèn là những **vật riêng** (*particular*): mỗi thứ chỉ có một, ở một chỗ, vào một lúc.
 
@@ -46,7 +46,7 @@ Tranh luận này từng là đề tài nóng nhất của triết học Trung c
 
 Và có lẽ đó chính là điểm thú vị nhất: một câu hỏi bắt đầu từ việc gọi tên màu sắc lại dẫn ta đến câu hỏi về bản chất của thực tại. Triết học thường làm vậy — bắt đầu từ điều hiển nhiên nhất, và kết thúc ở nơi không ai ngờ tới.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Thực tại luận: phổ quát có thật
 
@@ -111,7 +111,7 @@ Nói cách khác: thay vì một "cái Đỏ" chung cho mọi vật (thực tạ
 
 **Cách đáp lại.** Người theo thuyết trope đáp rằng sự giống nhau giữa các vệt là quan hệ nguyên thủy, không cần phân tích — và quan trọng hơn, nó là quan hệ giữa những thứ *riêng lẻ* (vệt này với vệt kia), chứ không phải sự tham dự vào một thực thể chung. Họ chấp nhận trả giá: vũ trụ của họ đông đúc hơn (mỗi vật mang theo cả một "bộ sưu tập" vệt riêng), nhưng đổi lại, mọi thứ trong vũ trụ đều là riêng lẻ — không cần thực thể "ở nhiều nơi cùng lúc" nào cả.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào chủ đề này: câu bổ sung "Tính chất" hỏi tính chất (như "đỏ") rốt cuộc *là gì*, và câu chính "Đối tượng trừu tượng" hỏi về thuyết Platon và duy danh luận.
 
@@ -135,7 +135,7 @@ Số liệu khớp với điều có thể nói từ lịch sử: tranh luận n
 
 Một điểm đáng chú ý: nhiều triết gia ngày nay không chọn hẳn một phe cho mọi trường hợp. Họ có thể là thực tại luận về các tính chất vật lý (khối lượng, điện tích) mà khoa học cần, nhưng là duy danh luận về những "phổ quát" đáng ngờ hơn (như "cái Đẹp" hay "bản chất dân tộc"). Câu hỏi không còn là "phổ quát có thật không?" mà là "phổ quát *nào* thật?".
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Phân loại trong khoa học và đời sống.** Mỗi lần bác sĩ chẩn đoán "bệnh X", mỗi lần ta nói "người hướng nội thường...", ta đang đối xử với một loại như thể nó có thật. Tranh luận về phổ quát nhắc ta hỏi: loại ấy có thật, hay chỉ là cái nhãn ta dán lên một nhóm ca bệnh / một nhóm người giống nhau? Câu trả lời ảnh hưởng đến cách ta dùng nhãn: một cái nhãn "có thật" thì ta tin nó nói lên điều gì đó sâu sắc; một cái nhãn "tiện lợi" thì ta sẵn sàng bỏ khi nó không còn hữu ích.
 
@@ -147,7 +147,7 @@ Một điểm đáng chú ý: nhiều triết gia ngày nay không chọn hẳn 
 
 **AI phân loại ảnh.** Một hệ thống AI nhìn ảnh và gắn nhãn "mèo". Nó làm vậy bằng cách so sánh ảnh mới với hàng triệu ảnh mèo đã học. Câu hỏi triết học: AI ấy có "biết" cái *Mèo* không, hay nó chỉ giỏi tìm sự giống nhau? Nếu thực tại luận đúng, thì AI chỉ đang bắt chước bề ngoài mà chưa chạm vào bản chất. Nếu duy danh luận đúng, thì "biết cái Mèo" ngay từ đầu đã là một cách nói phóng đại — cả người lẫn máy đều chỉ đang nhóm những thứ giống nhau lại. Tranh luận ngàn năm về phổ quát, hóa ra, cũng là tranh luận về việc AI "hiểu" đến đâu.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích *Phaedo* của Platon (100c–d) — văn bản đã hết bản quyền (bản dịch tiếng Anh của Benjamin Jowett, in lần đầu năm 1871; văn bản theo Project Gutenberg), kèm bản dịch tiếng Việt.
 
@@ -165,7 +165,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc ẩn dụ hang động](../doc/platon-hang-dong.md), hình ảnh nổi tiếng nhất của thuyết Ý niệm.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -181,7 +181,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một "loại" mà bạn hay dùng trong đời sống (ví dụ: "người Hà Nội", "nhạc hay", "món ăn ngon", "người tốt"). Theo bạn, loại ấy có phải là một thứ có thật mà mọi thành viên cùng chia sẻ, hay chỉ là cái tên tiện lợi? Dùng ít nhất một lập trường trong bài để bảo vệ câu trả lời của bạn.
 
@@ -193,7 +193,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu ít nhất một phản bác cho lập trường của mình và đáp lại nó không?
     - Bài viết có ví dụ cụ thể, câu ngắn, và tránh những khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Platon, *Phaedo*, 100c–d. Bản dịch tiếng Anh của Benjamin Jowett (in lần đầu 1871, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1658>
 2. Armstrong, David M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.

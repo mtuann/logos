@@ -19,7 +19,7 @@ Bài này không chọn phe. Bài này tách tranh luận thành ba câu hỏi n
 
 Chữ "phá thai" là Hán Việt: *phá* (破, làm vỡ, hủy bỏ) + *thai* (胎, bào thai) — nghĩa đen là "hủy bỏ bào thai". Tiếng Anh *abortion* gốc Latin *aboriri* (sẩy thai, không thành). Ngay trong cách gọi đã thấy sự căng thẳng: một bên nhấn mạnh hành động "phá", bên kia nhấn mạnh đối tượng "thai nhi". Triết học bắt đầu bằng việc làm rõ: ta đang tranh luận về *cái gì* — một thủ thuật y tế, hay việc tước đi mạng sống của một con người?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Bạn tỉnh dậy trong bệnh viện, thấy mình bị nối ống truyền với một nghệ sĩ violin nổi tiếng đang bất tỉnh nằm cạnh. Hóa ra đêm qua Hội Những Người Yêu Âm Nhạc đã bắt cóc bạn: nghệ sĩ này mắc một bệnh thận hiểm nghèo, và chỉ có nhóm máu của bạn là tương thích. Giám đốc bệnh viện nói: "Chúng tôi rất tiếc, nhưng ông ấy đã được nối với bạn rồi. Rút ống ra là giết ông ấy. Đừng lo, chỉ chín tháng thôi — đến lúc đó ông ấy sẽ khỏi bệnh và có thể tháo ống an toàn."
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Đây là thí nghiệm nổi tiếng của Judith Jarvis Thomson (1971). Lưu ý điều bà *không* làm: bà không tranh cãi thai nhi có phải là người hay không — bà *tạm chấp nhận* điều đó để hỏi một câu khác. Một biến thể để thử thêm: giả sử bạn *tự nguyện* cắm ống vào nghệ sĩ violin, rồi đổi ý ở tháng thứ tám. Việc bạn từng tự nguyện có làm cho việc rút ống trở nên sai trái không? Và nếu có, sự khác biệt giữa "tự nguyện ban đầu" với "bị bắt cóc" nằm ở đâu — ở trách nhiệm, ở lời hứa, hay ở chỗ khác?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng nảy của tranh luận đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Quyền sống của thai nhi: phá thai là tước mạng sống của một con người
 
@@ -77,7 +77,7 @@ Lập trường thứ ba từ chối cả hai câu trả lời dứt khoát. The
 
 **Cách đáp lại.** Người theo thuyết tiệm tiến đáp: đúng là ranh giới nào cũng có phần tùy tiện, nhưng đạo đức thực hành *luôn* cần ranh giới — tuổi bầu cử, tuổi chịu trách nhiệm hình sự đều tùy tiện mà vẫn cần thiết. Điểm khả thi (*viability*, khả năng sống độc lập ngoài tử cung) là một ranh giới thực tế: trước đó, thai nhi hoàn toàn phụ thuộc vào thân thể người mẹ nên quyền tự chủ của người mẹ nặng hơn; sau đó, thai nhi có thể tồn tại độc lập nên quyền sống của nó nặng hơn. Còn về nguy cơ trượt dốc sang trẻ sơ sinh, họ phân biệt: trẻ sơ sinh đã là một cá thể độc lập trong cộng đồng đạo đức (được người khác chăm sóc thay thế được), còn thai nhi muộn vẫn gắn với thân thể một người cụ thể — sự khác biệt này đủ để chặn đà trượt.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có **một** câu hỏi về phá thai. Đó là một câu bổ sung (chỉ một phần người tham gia được hỏi), và nó hỏi về một trường hợp rất hẹp:
 
@@ -97,7 +97,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Ngoài con số hẹp ấy, có thể nói một cách trung thực: trong văn học triết học, cả ba hướng trên đều có những đại diện nghiêm túc và còn đang tranh luận — Thomson (1971) và Marquis (1989) vẫn là hai bài báo được trích dẫn và giảng dạy nhiều nhất ở hai phía, còn thuyết tiệm tiến là lập trường của nhiều triết gia đạo đức sinh học đương đại. Sự tồn tại dai dẳng của cả ba hướng, sau hơn nửa thế kỷ tranh luận, tự nó đã là một dữ kiện: đây là một câu hỏi mà triết học chưa — và có thể không bao giờ — đạt được đồng thuận.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tranh luận công cộng thường bỏ qua câu hỏi thứ hai của Thomson.** Trên mạng xã hội và trong các cuộc tranh cãi, người ta thường dồn toàn lực vào câu hỏi "thai nhi có phải là người không", như thể trả lời xong câu đó là xong. Thomson nhắc ta: ngay cả khi bạn thắng ở câu hỏi đó, bạn vẫn còn một câu hỏi nữa — quyền sống có bao gồm quyền dùng thân thể người khác không? Lần tới khi thấy một cuộc tranh luận về phá thai, hãy thử xem có bên nào đặt câu hỏi thứ hai không. Nếu không, đó là một cuộc tranh luận còn thiếu một nửa.
 
@@ -107,7 +107,7 @@ Ngoài con số hẹp ấy, có thể nói một cách trung thực: trong văn 
 
 **Quyết định cá nhân và lời khuyên.** Bài này không cho bạn đáp án cho một quyết định cá nhân cụ thể — và bất kỳ bài triết học nào hứa hẹn điều đó đều đáng ngờ. Điều triết học có thể làm là làm rõ *cấu trúc* của quyết định: bạn đang cân nhắc giữa những giá trị nào, lập luận nào thực sự ủng hộ kết luận của bạn (chứ không chỉ là cảm xúc), và bạn có nhất quán không khi áp dụng cùng lập luận vào trường hợp khác (người hiến tạng, người mẹ mang thai hộ, bệnh nhân hôn mê). Sự rõ ràng đó không làm cho quyết định dễ dàng hơn — nhưng làm cho nó trung thực hơn.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -175,7 +175,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một trong ba câu hỏi nhỏ của bài (thai nhi có phải người không? quyền sống có bao gồm quyền dùng thân thể người khác không? quan hệ tự nguyện có tạo nghĩa vụ đặc biệt không?) và viết một đoạn lập luận bênh vực câu trả lời của bạn — nhưng với một điều kiện: bạn phải trình bày *phản bác mạnh nhất* đối với chính câu trả lời của mình, rồi đáp lại nó.
 
@@ -190,7 +190,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có xét đến một trường hợp khó cho lập trường của mình (ví dụ: hiếp dâm nếu bạn pro-life; quan hệ tự nguyện không tránh thai nếu bạn pro-choice) và nói rõ nó xử lý ra sao?
     - Bài viết có trung thực về điểm mà lập luận của bạn còn yếu không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Thomson, Judith Jarvis (1971), "A Defense of Abortion", *Philosophy & Public Affairs*, vol. 1, no. 1, tr. 47–66.
 2. Marquis, Don (1989), "Why Abortion is Immoral", *The Journal of Philosophy*, vol. 86, no. 4, tr. 183–202. <https://doi.org/10.2307/2026961>

@@ -15,13 +15,13 @@ updated: 2026-10-22
     - **Đọc toàn văn:** [ctext.org](https://ctext.org/zhuangzi/adjustment-of-controversies), nguyên văn song song với bản dịch tiếng Anh của James Legge (1891, phạm vi công cộng).
     - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 15 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Trang Tử sống thời Chiến Quốc, thời loạn lạc mà cũng là thời trăm nhà đua tiếng. Khác với [Khổng Tử](../triet-gia/khong-tu.md), người hơn một thế kỷ trước đã bôn ba tìm vua chịu dùng mình, Trang Tử chọn rút lui, sống tự do, và viết một cuốn sách đầy ngụ ngôn, nghịch lý và tiếng cười.
 
 Tên thiên *Tề vật luận* có thể đọc hai cách: "bàn về sự ngang bằng của vạn vật", hoặc "làm cho ngang bằng các lời bàn về vật"; Legge dịch là "The Adjustment of Controversies", nghiêng về cách sau. Cả thiên lặp đi lặp lại một thao tác: đưa ra một phân biệt chắc nịch (đúng/sai, này/kia, sống/chết, tỉnh/mơ), rồi cho thấy nó lung lay. Một ví dụ nổi tiếng: hai người tranh luận, ai thắng có chắc là đúng? Nhờ ai phân xử (吾誰使正之)? Nhờ người đồng ý với anh, thì người ấy đã cùng phía với anh; nhờ người khác ý cả hai ta, thì người ấy đã khác cả hai; vậy ai phân xử được?
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Giấc mộng lớn (lời Trường Ngô Tử)
 
@@ -64,7 +64,7 @@ Hai câu ngắn này làm đổi cả cách đọc. Trang Tử *không* nói Chu
 
 > Câu hỏi: Nếu cái "tôi" cũng là một vai trong dòng biến hóa, điều đó thay đổi cách bạn nhìn một thất bại hay một thành công của mình ra sao?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Đang mơ thì không biết mình đang mơ; trải nghiệm trong mơ trọn vẹn như lúc tỉnh.
 - **P2.** Mỗi lần "tỉnh", ta chỉ xét giấc mơ cũ từ một trạng thái mới, mà trạng thái này cũng có thể là một giấc mơ lớn hơn.
@@ -80,7 +80,7 @@ Soi từng bước:
 - Từ P1–P4 tới K1 là **suy diễn** (*deductive*). Bước từ K1 sang K2 thì không: nó cần thêm một tiền đề về giá trị, kiểu "điều không chắc chắn thì không nên bám chặt". Đó là kết luận *thực hành*, không phải lý thuyết.
 - Lưu ý: câu kết "ắt phải có phân biệt" giới hạn K1. Trang Tử không phủ nhận sự khác nhau giữa Chu và bướm.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Đây là thơ hay là lập luận?** Một hình ảnh đẹp không phải là một chứng minh. *Cách đáp lại:* như phần trên cho thấy, đoạn văn tái dựng được thành lập luận có tiền đề rõ ràng. Hình ảnh là cách Trang Tử khiến người đọc tự kiểm tiền đề bằng chính giấc mơ của mình, giống điều [Descartes](../triet-gia/descartes.md) làm trong *Suy niệm* I.
 
@@ -88,18 +88,18 @@ Soi từng bước:
 
 **Tự bác bỏ?** Nếu mọi khẳng định đều có thể là mơ, thì khẳng định "ta có thể đang mơ" cũng vậy. *Cách đáp lại:* văn bản biết điều này và nói ra: "ta bảo ngươi mơ, cũng là đang mơ". Trang Tử không đưa ra một học thuyết tuyệt đối để rồi tự mâu thuẫn; ông mời người đọc giữ các khẳng định của mình nhẹ tay hơn.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Trang Tử kết luận đời chỉ là mộng."** Câu kết nói "ắt phải có phân biệt". Ông dừng ở câu hỏi về *chiều* của giấc mơ, không tuyên bố mọi thứ là ảo ảnh.
 - **"Đây là hoài nghi luận y như Descartes."** Hai người cùng xuất phát từ giấc mơ nhưng đi hai hướng: Descartes dùng hoài nghi làm *phương pháp* để tìm nền móng chắc chắn; Trang Tử dùng nó để *buông* sự bám chặt vào một góc nhìn. Hansen (SEP) còn lưu ý Trang Tử hoài nghi cả chính thuyết tương đối của mình.
 - **"Tề vật nghĩa là mọi thứ như nhau, nên chẳng có gì đáng làm."** Ngay thiên kế tiếp, Trang Tử ca ngợi tay nghề của người đầu bếp Đinh mổ bò. "Làm ngang bằng" là không tuyệt đối hóa một góc nhìn, không phải xóa mọi giá trị.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Lần gần nhất bạn có một giấc mơ "thật đến mức tỉnh dậy còn ngỡ ngàng" là khi nào? Lúc ấy, điều gì khiến bạn tin rằng "à, đó chỉ là mơ", và dấu hiệu đó có thật sự chắc chắn?
 2. Nếu cái "tôi" cũng là một vai trong dòng biến hóa (như Trang Tử gợi ý), điều đó thay đổi cách bạn nhìn một thất bại hay một thành công của mình ra sao?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -114,7 +114,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — giấc mơ của Descartes, phiên bản phương Tây của cùng câu hỏi
 - [Đọc "Suy niệm" I–II của Descartes](descartes-suy-niem.md) — hoài nghi để tìm nền móng
@@ -122,7 +122,7 @@ Thử xem bạn nắm được đến đâu.
 - [Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người đi trước của Trang Tử
 - [Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cái "tôi" và ý thức từ góc nhìn triết học tâm trí
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Trang Tử*, thiên 2 "Tề vật luận", nguyên văn và bản dịch tiếng Anh của James Legge (1891), Chinese Text Project. <https://ctext.org/zhuangzi/adjustment-of-controversies>
 2. Hansen, Chad, "Zhuangzi", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/entries/zhuangzi/>

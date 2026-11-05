@@ -40,6 +40,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
+  add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)
   parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
                           giữa hai bản build (--base REF: tự build commit REF và cây làm việc)
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
@@ -95,6 +96,7 @@ for t in gen_glossary figures review_check timeline influence philosophers book 
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
+uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có ID cố định {#id}
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm

@@ -19,7 +19,7 @@ Câu hỏi "cuộc sống có ý nghĩa không?" nghe như của tuổi mới l�
 
 Có một điều nghịch lý ngay trong cách ta đặt câu hỏi: ta hỏi "cuộc sống có ý nghĩa không?" như thể ý nghĩa là một *tính chất* của cuộc sống, giống như "nước có nóng không?" — chỉ cần đo là biết. Nhưng có lẽ ý nghĩa không phải là thứ để "đo", mà là thứ để *sống* và *tìm*. Sự khác nhau này sẽ theo ta suốt bài viết.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn được xem cuộc đời mình từ rất xa — như nhìn Trái Đất từ ngoài vũ trụ, rồi xa hơn nữa, đến mức cả dải ngân hà chỉ còn là một chấm bụi.
@@ -32,7 +32,7 @@ Có một điều nghịch lý ngay trong cách ta đặt câu hỏi: ta hỏi "
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa hai câu hỏi khác nhau, và nhầm lẫn chúng là nguồn gốc của nhiều cuộc tranh cãi vô ích.
 
@@ -48,7 +48,7 @@ Một phân biệt hữu ích trước khi đi tiếp: **ý nghĩa** (*meaningfu
 
 Một phân biệt nữa, cũng quan trọng không kém: **ý nghĩa của cuộc sống** (*the meaning of life*) khác với **ý nghĩa trong cuộc sống** (*meaning in life*). Câu đầu hỏi về toàn bộ: đời người nói chung có ý nghĩa gì? Câu sau hỏi về từng người: cuộc sống *của tôi* có ý nghĩa không? Có thể câu đầu không có đáp án mà câu sau vẫn có — vũ trụ chẳng ban ý nghĩa gì cho nhân loại, nhưng đời bạn vẫn có thể đầy ý nghĩa vì những gì bạn làm và yêu thương. Bài này chủ yếu bàn về câu sau, vì đó là câu gần với đời sống của ta nhất.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Bốn lập trường dưới đây không loại trừ nhau hoàn toàn — một người có thể vừa cảm thấy cái phi lý của Nagel, vừa cố sống theo công thức của Wolf, vừa giữ đức tin tôn giáo. Nhưng chúng nhấn mạnh những điều khác nhau, và sự khác nhau ấy đáng để làm rõ. Hãy đọc mỗi lập trường ở phiên bản mạnh nhất của nó, như thể bạn là người bênh vực nó.
 
@@ -121,7 +121,7 @@ Một gợi ý cuối: đừng hỏi "đời mình có ý nghĩa không?" như m
 
 Còn nếu có ngày bạn thấy mọi thứ đều vô nghĩa — thì hãy nhớ Nagel: cảm giác ấy không có nghĩa là bạn sai ở đâu. Nó chỉ có nghĩa là bạn đang là con người, với đầy đủ năng lực kỳ lạ là vừa sống vừa nhìn mình đang sống.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có một câu hỏi chính (hỏi mọi người tham gia) đúng về chủ đề này: "Ý nghĩa cuộc sống: chủ quan, khách quan, hay không tồn tại?"
 
@@ -145,7 +145,7 @@ Ngoài con số, có thể nói thêm: đây là một lĩnh vực đang phát t
 
 Một điểm đáng chú ý: hầu hết các triết gia đương đại, dù thuộc phe nào, đều đồng ý rằng câu hỏi "cuộc sống có ý nghĩa không?" là một câu hỏi *đáng hỏi* — chứ không phải một câu hỏi sai, như một số triết gia đầu thế kỷ 20 từng nghĩ. Sự thay đổi này tự nó đã là một câu trả lời phần nào: việc con người không ngừng hỏi về ý nghĩa cho thấy ý nghĩa là một nhu cầu thật của đời người, dù đáp án là gì.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Khủng hoảng tuổi đôi mươi.** Ra trường, đi làm, rồi một ngày tự hỏi: "mình đang làm cái này để làm gì?" — đó là cái phi lý của Nagel ghé thăm. Hiểu được nó giúp ta bớt hoảng: cảm giác trống rỗng ấy không có nghĩa là bạn đã chọn sai đường; nó là một phần cấu trúc của ý thức con người. Câu hỏi không phải "làm sao để không bao giờ cảm thấy vậy nữa", mà là "sống thế nào *cùng với* cảm giác ấy".
 
@@ -161,13 +161,13 @@ Một điểm đáng chú ý: hầu hết các triết gia đương đại, dù 
 
 **Áp lực "phải có đam mê".** Người trẻ ngày nay hay nghe lời khuyên "hãy theo đuổi đam mê". Nhưng nếu bạn chưa tìm thấy đam mê thì sao — có nghĩa là cuộc sống của bạn đang vô nghĩa? Công thức của Wolf giúp ta bình tĩnh lại: đam mê (vế chủ quan) chỉ là một nửa; nửa còn lại là làm điều *đáng giá*, mà điều này thì không cần phải "đam mê cháy bỏng" mới làm được. Một người chưa tìm thấy đam mê vẫn có thể sống có ý nghĩa bằng cách dấn thân tử tế vào những việc đáng làm trước mắt — chăm sóc gia đình, làm tốt công việc, giúp đỡ người xung quanh. Đam mê có thể đến sau; ý nghĩa không cần đợi đam mê.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: các văn bản trung tâm của bài này — Nagel (1971), Wolf (2010) — đều còn bản quyền, nên bài này không trích dài mà tóm tắt lập luận bằng lời mình. Nếu muốn đọc sâu, bài "The Absurd" của Nagel ngắn gọn và viết rất trong sáng; cuốn *Meaning in Life and Why It Matters* của Wolf (Princeton University Press, 2010) là điểm bắt đầu tốt nhất cho hướng "dấn thân vào điều đáng giá". Mục "The Meaning of Life" trong *Stanford Encyclopedia of Philosophy* (Metz) tổng hợp đầy đủ các lập trường.
 
 Đọc thêm: [hướng dẫn đọc Sartre, *Thuyết hiện sinh là một thuyết nhân bản*](../doc/sartre-hien-sinh.md): hiện hữu đi trước bản chất, nên không có kịch bản viết sẵn cho đời người.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -183,7 +183,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy nhớ lại một khoảnh khắc bạn cảm thấy cuộc sống của mình "có ý nghĩa" (hoặc ngược lại, một khoảnh khắc trống rỗng). Dùng ít nhất một khái niệm trong bài (cái phi lý, dấn thân vào điều đáng giá, ý nghĩa do mình đặt ra) để phân tích: khoảnh khắc ấy cho thấy điều gì về ý nghĩa cuộc sống của bạn?
 
@@ -195,7 +195,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có xét đến ít nhất một cách hiểu khác về khoảnh khắc ấy (ví dụ: người theo phe đối lập sẽ nói gì)?
     - Bài viết có câu ngắn, chi tiết cụ thể, và tránh những khẳng định sáo rỗng không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Nagel, Thomas (1971), "The Absurd", *The Journal of Philosophy* 68(20): 716–727.
 2. Wolf, Susan (2010), *Meaning in Life and Why It Matters*, Princeton: Princeton University Press.

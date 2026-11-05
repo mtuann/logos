@@ -18,7 +18,7 @@ Bài này không kêu gọi bạn quyên góp. Bài này hỏi: cứu giúp ngư
 
 Chữ "từ thiện" là Hán Việt: *từ* (慈, lòng thương) + *thiện* (善, điều tốt) — "lòng thương thể hiện bằng việc tốt". Tiếng Anh *charity* gốc Latin *caritas* (tình yêu thương). Nhưng Singer cố tình không dùng ngôn ngữ của "từ thiện" — ông dùng ngôn ngữ của *nghĩa vụ*. Sự chuyển từ này — từ "làm phúc" sang "trả nợ" — là toàn bộ vấn đề của bài.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Bạn đi ngang một cái ao nông và thấy một đứa trẻ đang đuối nước. Xung quanh không có ai khác. Bạn hoàn toàn có thể lội xuống cứu — cái giá duy nhất là bộ quần áo đắt tiền bạn đang mặc sẽ ướt sũng và hỏng.
@@ -32,7 +32,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
     Một biến thể để thử thêm: giả sử không phải một đứa trẻ mà là *hàng nghìn* đứa trẻ, và việc cứu chúng đòi hỏi bạn phải cho đi không chỉ bộ quần áo mà một phần lớn thu nhập, năm này qua năm khác, đến mức lối sống của bạn thay đổi hẳn. Nguyên tắc của Singer vẫn đòi hỏi điều đó. Bạn có còn đồng ý với nguyên tắc không — hay bạn bắt đầu thấy nó đòi hỏi quá nhiều?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -44,7 +44,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Lập trường của Singer: nghĩa vụ cứu giúp không dừng ở biên giới
 
@@ -76,7 +76,7 @@ Lập trường thứ ba là một con đường giữa: đồng ý với Singer
 
 **Cách đáp lại.** Người theo lập trường này đáp: đúng là không có một con số kỳ diệu, nhưng không có con số chính xác không có nghĩa là không có ranh giới. Ta cũng không định nghĩa được chính xác "mấy sợi tóc thì gọi là hói", nhưng hói và không hói vẫn là hai trạng thái khác nhau. Trong thực hành, có thể xây dựng những chuẩn mực hợp lý: ví dụ, một tỷ lệ thu nhập cố định dành cho cứu trợ (như đề xuất thang đóng góp của chính Singer về sau), kết hợp với nguyên tắc ưu tiên — ưu tiên người thân và cộng đồng gần gũi *trước*, nhưng không được dùng đó làm lý do để *loại trừ* người xa. Điểm mấu chốt: nghĩa vụ có giới hạn không phải là sự đầu hàng trước ích kỷ, mà là sự thừa nhận rằng đạo đức là dành cho con người — những sinh vật có giới hạn, có gắn bó, có cuộc đời riêng — chứ không phải cho các vị thánh.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi trực tiếp về nghĩa vụ cứu giúp người nghèo đói, nên không có con số nào về đúng câu hỏi của bài này — mục này ghi rõ điều đó trước.
 
@@ -102,7 +102,7 @@ Con số thứ ba (62,9% chấp nhận hoặc nghiêng về "phải kéo theo c�
 
 Nhưng cần trung thực về giới hạn của các con số này: không có câu hỏi nào trong khảo sát hỏi "bạn có nghĩa vụ cho đi bao nhiêu phần trăm thu nhập để cứu người nghèo". Vì vậy, với câu hỏi trung tâm của bài — cứu giúp là nghĩa vụ hay lòng hảo tâm, và ở mức nào — ta vẫn phải ghi: **chưa có khảo sát**.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Mỗi lần quyên góp là một lần bỏ phiếu triết học.** Khi bão lũ ập đến và bạn chuyển khoản ủng hộ đồng bào vùng lũ, bạn đang hành động theo trực giác nào — nghĩa vụ hay lòng hảo tâm? Và khi bạn *không* chuyển khoản cho một đợt quyên góp khác, lý do của bạn là gì — "tôi đã giúp đủ rồi", "còn nhiều người khác giúp", hay "đó không phải việc của tôi"? Ba lập trường trong bài cho bạn một bộ câu hỏi để kiểm tra sự nhất quán của chính mình: nếu bạn giúp đồng bào trong nước vì "nghĩa đồng bào", thì lập trường 2 cho bạn lý do; nhưng Singer (lập trường 1) sẽ hỏi: nỗi đau của một đứa trẻ ở nước khác có kém thật hơn không?
 
@@ -112,7 +112,7 @@ Nhưng cần trung thực về giới hạn của các con số này: không có
 
 **Ở Việt Nam: lá lành đùm lá rách.** Văn hóa Việt Nam có truyền thống tương trợ mạnh mẽ — từ "lá lành đùm lá rách" đến các đợt quyên góp bão lũ quy mô cả nước. Bài này không đánh giá truyền thống đó — đó là một giá trị được cộng đồng gìn giữ. Điều triết học có thể góp là những câu hỏi làm rõ: sự giúp đỡ của chúng ta đang vận hành theo logic *nghĩa vụ* hay *lòng hảo tâm*? Ta có ưu tiên người "gần" (đồng bào, đồng hương) hơn người "xa" không — và sự ưu tiên đó có thể biện minh bằng lý do đạo đức nào, hay chỉ là thói quen? Và khi một đợt quyên góp có dấu hiệu thiếu minh bạch, trách nhiệm của người cho đi dừng ở đâu — cho đi là đủ, hay còn phải quan tâm tiền đi đâu?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -178,7 +178,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy áp dụng nguyên tắc của Singer vào một quyết định tiêu dùng cụ thể của chính bạn trong tháng qua (một món đồ, một bữa ăn, một chuyến đi chơi). Tính "chi phí cơ hội đạo đức" của nó: số tiền đó có thể đã làm gì cho người khốn khó? Rồi hãy bênh vực quyết định chi tiêu của mình — bằng lập trường 2 hoặc lập trường 3 trong bài.
 
@@ -193,7 +193,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có đối mặt với câu hỏi vặn của Singer thay vì lảng tránh nó?
     - Bạn có trung thực về điểm mà lời bênh vực của mình còn yếu không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Singer, Peter (1972), "Famine, Affluence, and Morality", *Philosophy & Public Affairs*, vol. 1, no. 3, tr. 229–243.
 2. Singer, Peter (2009), *The Life You Can Save*, New York: Random House.

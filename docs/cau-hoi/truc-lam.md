@@ -21,7 +21,7 @@ Thiền phái ông sáng lập gọi là **Trúc Lâm Yên Tử** **[chắc ch�
 
 > **Cách đọc nhãn độ chắc chắn trong bài này:** mỗi khẳng định về lịch sử/tư tưởng Việt Nam được gắn một nhãn — **[chắc chắn]** (có văn bản gốc hoặc nguồn mốc xác nhận), **[có cơ sở]** (học giới đa số đồng thuận nhưng bằng chứng chưa hoàn toàn rõ), **[suy đoán]** (diễn giải của người viết hoặc thiểu số học giả).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn là một vị vua. Đất nước vừa trải qua chiến tranh, dân chúng cần bạn. Bạn có cung điện, quyền lực, mọi thứ.
@@ -32,7 +32,7 @@ Thiền phái ông sáng lập gọi là **Trúc Lâm Yên Tử** **[chắc ch�
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Trong Phật giáo truyền thống, có một hình ảnh quen thuộc: người tu hành *xuất thế* — rời bỏ gia đình, của cải, địa vị, vào chùa hoặc rừng sâu để chuyên tâm tu tập **[chắc chắn]** (đây là mô hình tu hành nguyên thủy của đạo Phật). Lý do: cuộc đời đầy dính mắc, mà dính mắc là nguồn gốc của khổ đau.
 
@@ -53,7 +53,7 @@ Chính bối cảnh ấy làm cho "nhập thế" của Trúc Lâm không phải 
 
 Sau ông, thiền phái được hai vị tổ tiếp theo là Pháp Loa (1284–1330) và Huyền Quang (1254–1334) kế tục và phát triển **[chắc chắn]**, trở thành dòng thiền có tổ chức với tăng đoàn, giới luật và cơ sở trên khắp Đại Việt **[có cơ sở]**.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Xuất thế: muốn tu thì phải rời bỏ
 
@@ -101,7 +101,7 @@ So sánh ngắn với Thiền Trung Hoa: Thiền tông Trung Hoa (đại thành 
 
 **Có lẽ câu trả lời nằm ở giữa:** Trúc Lâm là *tiếp thu* Thiền tông nhưng *sáng tạo* trong cách sống với nó — giống như một nhạc cụ ngoại nhập được dùng để chơi một bản nhạc của riêng mình **[suy đoán]** (diễn giải của người viết).
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt Nam, nên không có số liệu để trích. Thay vào đó, đây là bức tranh học thuật:
 
@@ -110,7 +110,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 - **Hướng nghiên cứu mới:** một số học giả trẻ đặt câu hỏi liệu có nên đọc Trúc Lâm như một *triết học* (với các khái niệm về tâm, duyên, vô tâm) thay vì chỉ như một *lịch sử tôn giáo* — tức là đối xử với Trần Nhân Tông như một triết gia, không chỉ như một nhân vật lịch sử **[suy đoán]** (đây là hướng đi còn ít người làm).
 - Nguồn mốc chính: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình của Viện Triết học, thuộc cụm công trình "Lịch sử tư tưởng Việt Nam" được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016 **[chắc chắn]**.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Tu giữa chợ đời".** Câu nói dân gian này chính là "cư trần lạc đạo" phiên bản bình dân. Một người bán hàng không gian lận, một tài xế không chèn ép khách, một công chức không nhận hối lộ — họ có đang "tu" không? Theo Trúc Lâm, có: tu không phải là tụng kinh gõ mõ, mà là giữ tâm ngay thẳng giữa những cám dỗ thật **[suy đoán]** (diễn giải ứng dụng; không phải trích dẫn nguyên văn).
 
@@ -122,7 +122,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 **Người lãnh đạo có đời sống nội tâm không?** Trần Nhân Tông là vua *và* là thiền sư. Ngày nay, ta thường mặc định rằng người làm chính trị, kinh doanh thì "thực tế", còn đời sống tinh thần là chuyện riêng tư, thậm chí xa xỉ. Trúc Lâm gợi một mô hình khác: chính người gánh trách nhiệm nặng nhất lại là người cần tu tập nhất — vì quyết định của họ ảnh hưởng đến hàng vạn người **[suy đoán]** (diễn giải ứng dụng; không phải khẳng định lịch sử).
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Dưới đây là bốn câu kệ kết thúc bài phú "Cư trần lạc đạo" của Trần Nhân Tông — văn bản cổ (thế kỷ 13–14), đã hết bản quyền — kèm bản dịch nghĩa.
 
@@ -142,7 +142,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc Thơ văn Lý–Trần](../doc/tho-van-ly-tran.md), có nguyên văn hội thứ năm của *Cư trần lạc đạo phú*.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -158,7 +158,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Bạn có một người thân vừa mất việc và đang khủng hoảng, tự hỏi "sống để làm gì". Hãy dùng ít nhất một ý trong bài (cư trần lạc đạo, tùy duyên, "trong nhà có báu") để viết một lời khuyên cho người đó — không phải lời khuyên tôn giáo, mà là một cách nhìn về mối quan hệ giữa nghịch cảnh và đời sống tinh thần.
 
@@ -170,7 +170,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Lời khuyên có cụ thể, gắn với tình huống mất việc, chứ không phải lý thuyết chung chung không?
     - Bạn có tránh giọng giảng đạo ("bạn phải...") không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
 2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội — văn bản "Cư trần lạc đạo phú" của Trần Nhân Tông.

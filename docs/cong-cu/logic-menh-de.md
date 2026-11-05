@@ -13,7 +13,7 @@ Bố có nuốt lời không? Lời hứa "nếu P thì Q" chỉ bị phá vỡ 
 
 Câu chuyện nhỏ này chứa toàn bộ ý tưởng của bài: chân trị **đúng** hay **sai** của một câu "nếu… thì…" được quyết định máy móc bởi chân trị của hai vế, theo một bảng tra cứu cố định. Bài này dựng bảng tra cứu ấy cho mọi phép nối, rồi dùng nó như một cái máy: bỏ lập luận vào, quay tay, biết ngay hợp lệ hay không.
 
-## Mệnh đề: câu có chân trị
+## Mệnh đề: câu có chân trị {#menh-de-cau-co-chan-tri}
 
 Một **mệnh đề** là một câu khẳng định mà ta có thể nói nó **đúng** hay **sai** — người ta gọi đó là **chân trị** (*truth value*) của câu. "Hà Nội là thủ đô của Việt Nam" là một mệnh đề (chân trị: đúng). "2 + 2 = 5" cũng là một mệnh đề (chân trị: sai). Sai vẫn là mệnh đề, miễn là ta xác định được nó sai.
 
@@ -28,7 +28,7 @@ Những câu sau *không* là mệnh đề:
 
 Trong các bảng dưới đây, Đ = đúng, S = sai.
 
-## Sáu phép nối
+## Sáu phép nối {#sau-phep-noi}
 
 ### Phủ định: ¬
 
@@ -106,7 +106,7 @@ P ⊕ Q đúng khi *đúng một* trong hai đúng.
 
 "Hoặc đi xe buýt hoặc đi xe ôm, chọn một phương tiện thôi": đi cả hai hoặc chẳng đi cái nào đều sai với câu này.
 
-## Độ ưu tiên: ai tính trước
+## Độ ưu tiên: ai tính trước {#do-uu-tien-ai-tinh-truoc}
 
 Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨ và ⊕, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất.
 
@@ -114,7 +114,7 @@ Ví dụ: ¬P ∨ Q → R được đọc là ((¬P) ∨ Q) → R.
 
 Quy tắc này giống "nhân trước cộng sau" trong số học: một ước lệ để khỏi phải viết ngoặc khắp nơi. Khi không chắc, cứ thêm ngoặc — rõ ràng hơn là tiếc mực.
 
-## Đọc bảng chân trị của công thức phức
+## Đọc bảng chân trị của công thức phức {#doc-bang-chan-tri-cua-cong-thuc-phuc}
 
 Muốn biết chân trị của một công thức phức, ta lập bảng liệt kê *mọi* khả năng chân trị của các mệnh đề thành phần, rồi tính từng cột từ trong ra ngoài. Với n mệnh đề khác nhau, bảng có 2ⁿ dòng.
 
@@ -131,7 +131,7 @@ Hai cột ¬(P ∧ Q) và ¬P ∨ ¬Q giống hệt nhau trên mọi dòng: hai 
 
 Một công thức đúng trên *mọi* dòng gọi là **hằng đúng** (*tautology*), ví dụ P ∨ ¬P ("hoặc P hoặc không P"). Một công thức sai trên mọi dòng gọi là **hằng sai** (*contradiction*), ví dụ P ∧ ¬P.
 
-## Kiểm tra hợp lệ bằng bảng chân trị
+## Kiểm tra hợp lệ bằng bảng chân trị {#kiem-tra-hop-le-bang-bang-chan-tri}
 
 Bài [Suy diễn](suy-dien.md) định nghĩa: một lập luận **hợp lệ** (*valid*) khi không thể có chuyện mọi tiền đề đúng mà kết luận sai. Bảng chân trị biến định nghĩa ấy thành một thủ tục: **lập luận hợp lệ khi và chỉ khi mọi dòng làm mọi tiền đề đúng đều làm kết luận đúng.**
 
@@ -161,7 +161,7 @@ Công cụ dưới đây làm đúng việc này: bạn nhập tiền đề và 
 
 <div class="oz-logic"></div>
 
-## Giới hạn: những gì bảng chân trị không thấy
+## Giới hạn: những gì bảng chân trị không thấy {#gioi-han-nhung-gi-bang-chan-tri-khong-thay}
 
 Logic mệnh đề rất mạnh trong phạm vi của nó, nhưng phạm vi ấy có biên. Nó coi mỗi mệnh đề là một khối không chia được, nên nó **không xử lý được lượng từ** ("mọi", "tồn tại") và **vị từ** (tính chất, quan hệ bên trong câu).
 
@@ -178,7 +178,7 @@ Với logic mệnh đề, P1 và P2 chỉ là hai khối A, B chẳng liên quan
 
 Quy tắc thực hành: khi một lập luận dùng các từ "mọi", "có", "tồn tại", hoặc nói về quan hệ giữa các đối tượng, bảng chân trị không phải công cụ phù hợp. Nó không sai — nó chỉ không đủ.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Viết bảng chân trị của ¬P ∨ Q rồi so sánh với bảng của P → Q. Kết luận gì?
 
@@ -212,7 +212,7 @@ Quy tắc thực hành: khi một lập luận dùng các từ "mọi", "có", "
 ??? success "Xem gợi ý đáp án"
     Ví dụ: (P ∨ Q) ∧ ¬P ∧ ¬Q, hay đơn giản P ∧ ¬P (không cần Q). Kiểm tra: P ∧ ¬P không bao giờ cùng đúng nên cả hội luôn sai.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -228,13 +228,13 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 "Nếu P thì Q" nói P là điều kiện **đủ** cho Q — nhưng nó có nói P là điều kiện **cần** không? Hai khái niệm này dễ bị đánh tráo cho nhau, và đó là nguồn gốc của nhiều lập luận hỏng. Mời đọc [Cần khác đủ như thế nào?](dieu-kien-can-du.md).
 
 Bảng chân trị coi "đúng" và "sai" là những giá trị có sẵn. [Sự thật là gì?](../cau-hoi/chan-ly.md) hỏi có chân trị nghĩa là gì, và vì sao câu "câu này sai" làm logic lúng túng.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Kevin C. Klement, "Propositional Logic", *Internet Encyclopedia of Philosophy* (mục lịch sử: bảng chân trị trước Post và Wittgenstein). <https://iep.utm.edu/prop-log/>
 2. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>

@@ -21,7 +21,7 @@ Chữ "nhân quả" trong tiếng Việt là từ Hán Việt: *nhân* (因, ngu
 
 Bài này đi sâu vào khía cạnh siêu hình học của Hume về nhân quả. Về cuộc đời và lập luận đầy đủ của Hume, xem bài [Hume về nhân quả](../doc/hume-nhan-qua.md).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn là người đầu tiên trong lịch sử nhìn thấy hai quả bi-a va nhau. Bạn chưa bao giờ thấy cảnh này trước đây. Bạn thấy: quả A lăn tới, chạm quả B, rồi quả B lăn đi.
@@ -35,7 +35,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: hãy tưởng tượng một đứa trẻ chưa bao giờ thấy lửa. Nó thấy ngọn lửa chạm vào tờ giấy, tờ giấy bốc cháy. Đứa trẻ có "thấy" lửa *làm cho* giấy cháy không? Hay nó chỉ thấy "lửa chạm giấy, rồi giấy cháy" — và chỉ sau nhiều lần, nó mới hình thành *kỳ vọng* rằng lần sau cũng vậy? Nếu câu trả lời là vế thứ hai, thì "nhân quả" có thể không phải thứ ta thấy trong thế giới, mà là thứ tâm trí ta mang theo khi nhìn thế giới.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -45,7 +45,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ ba: ngoài tâm trí ta, thế giới có "nhân quả" thật không?** Đây là câu hỏi siêu hình học sâu nhất: có phải trong thế giới tồn tại những "năng lực", "cơ chế", "sợi dây tất yếu" nối nguyên nhân với kết quả — hay "nhân quả" chỉ là cái tên ta đặt cho những nối tiếp thường xuyên? Hai lập trường sau trong bài trả lời "có" theo hai cách khác nhau.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường: Hume (nhân quả chỉ là nối tiếp thường xuyên + thói quen), thuyết năng lực (thế giới có "quyền năng" nhân quả thật), và thuyết phản thực (nhân quả là "nếu không có A thì đã không có B"). Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -81,7 +81,7 @@ Lập trường thứ ba (David Lewis, "Causation", *Journal of Philosophy*, 197
 
 **Cách đáp lại.** Người theo thuyết phản thực đáp bằng cách tinh chỉnh: Lewis sau này phát triển lý thuyết thành "ảnh hưởng nhân quả" (*causal influence*) để xử lý dự phòng; Woodward chuyển sang ngôn ngữ can thiệp ("can thiệp vào A có làm B thay đổi không?") vốn là ngôn ngữ của khoa học thực nghiệm. Và về "thế giới có thể": đó là công cụ ngữ nghĩa, không nhất thiết phải tin chúng tồn tại như các vũ trụ song song — giống như ta dùng số âm để tính toán mà không cần tin có "quả táo âm ba". Cuối cùng, họ có thể chấp nhận một phần: có lẽ "nhân quả" là khái niệm hỗn hợp, không có một định nghĩa duy nhất bao trùm mọi trường hợp — và đó không phải thất bại, mà là sự thật về khái niệm.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào bài này: một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **nhân quả**, và một câu chính (hỏi mọi người) về **quy luật tự nhiên**.
 
@@ -107,7 +107,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Một lưu ý cho người đọc muốn tự tìm hiểu thêm: con số cho biết giới chuyên môn nghiêng về đâu, nhưng không cho biết vì sao — muốn hiểu, cách tốt nhất là đọc chính các tranh luận. Hume vẫn là điểm xuất phát bắt buộc — mọi lý thuyết nhân quả đương đại đều phải trả lời ông, dù là đồng ý, phản bác hay vượt qua. Đó là dấu hiệu của một triết gia lớn: gần ba trăm năm sau, người ta vẫn đang tranh luận với ông.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Vì sao tôi bị cảm?"** Bạn dầm mưa hôm qua, hôm nay sụt sịt. Là do mưa? Hay do virus bạn đã nhiễm từ ba hôm trước, mưa chỉ là trùng hợp? Ba lập trường cho ba cách trả lời. Hume nhắc bạn khiêm tốn: bạn thấy "dầm mưa rồi cảm" lặp lại nhiều lần, nhưng bạn chưa bao giờ *thấy* mưa *gây ra* cảm — đừng nhầm kỳ vọng thành tri thức. Thuyết năng lực nhắc bạn tìm cơ chế: virus, hệ miễn dịch, nhiệt độ — "nguyên nhân" thật nằm ở đó. Thuyết phản thực cho bạn câu hỏi kiểm tra: nếu hôm qua bạn không dầm mưa (mọi thứ khác như cũ), bạn có còn bị cảm không? Nếu câu trả lời là "vẫn bị, vì virus đã có từ trước", thì mưa không phải nguyên nhân — dù nó đi trước.
 
@@ -115,7 +115,7 @@ Một lưu ý cho người đọc muốn tự tìm hiểu thêm: con số cho bi
 
 **Trách nhiệm: "nếu anh không làm thì đã không xảy ra".** Pháp luật và đạo đức dựa trên nhân quả: ta chỉ trừng phạt người *gây ra* hậu quả. Nhưng "gây ra" theo nghĩa nào? Tòa án thực ra dùng logic phản thực mỗi ngày: "nếu bị cáo không lái xe ẩu thì nạn nhân đã không chết". Còn Hume thì thầm nhắc: hãy cẩn thận — có những vụ án mà "nguyên nhân" chỉ là thứ xảy ra *trước* và *đi kèm thường xuyên*, chứ không phải thứ *gây ra*. Hiểu nhân quả là gì không chỉ là chuyện triết học — nó quyết định ai phải chịu trách nhiệm, và về cái gì.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -181,7 +181,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một niềm tin nhân quả trong đời bạn — "học nhiều thì đỗ", "ăn rau thì khỏe", "thức khuya thì mệt", "cúng bái thì may" — và "xét xử" nó bằng cả ba lập trường. Hume sẽ hỏi bạn điều gì? Người theo thuyết năng lực sẽ đòi bạn tìm cái gì? Thuyết phản thực sẽ cho bạn câu hỏi kiểm tra nào? Cuối cùng: sau khi xét xử, niềm tin của bạn còn đứng vững không — và nếu không, bạn có dám bỏ nó?
 
@@ -194,7 +194,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có phân biệt được tương quan (đi cùng nhau) với nhân quả (gây ra nhau) trong trường hợp của mình?
     - Bạn có thành thật về kết quả — kể cả khi kết quả là "niềm tin của tôi không vững như tôi tưởng"?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Gallow, J. Dmitri, "The Metaphysics of Causation", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/causation-metaphysics/>
 2. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.

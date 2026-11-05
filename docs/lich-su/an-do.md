@@ -12,7 +12,7 @@ dù tranh nhau kịch liệt về siêu hình học — đều đồng ý rằng
 thoát** (*moksha*): thoát khỏi vòng sinh tử và khổ đau. Bài này đi qua ba chặng lớn nhất của hành
 trình đó.
 
-## Upanishad: Brahman và Atman
+## Upanishad: Brahman và Atman {#upanishad-brahman-va-atman}
 
 Khoảng 800–500 năm trước Công nguyên, trong các bộ **Upanishad** — những văn bản kết thúc thời kỳ
 kinh Vệ Đà — xuất hiện một tư tưởng táo bạo. Các hiền triết (*rishi*) ngồi trong rừng suy ngẫm và đi
@@ -28,7 +28,7 @@ nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại
 trường phái phản đối — đều phải đối thoại. Khi Schopenhauer ở châu Âu thế kỷ 19 đọc được bản dịch
 Upanishad, ông viết rằng đó là "niềm an ủi của đời tôi, và sẽ là niềm an ủi khi tôi chết".
 
-## Đức Phật: Tứ diệu đế và vô ngã
+## Đức Phật: Tứ diệu đế và vô ngã {#duc-phat-tu-dieu-de-va-vo-nga}
 
 Khoảng thế kỷ 5 trước Công nguyên, Siddhartha Gautama (theo truyền thống là một hoàng tử) — sau này là **[Đức Phật](../triet-gia/duc-phat.md)** (*Buddha*,
 "người giác ngộ") — đưa ra một chẩn đoán và một phương thuốc, gói gọn trong **Tứ diệu đế** (*Four
@@ -48,7 +48,7 @@ khổ thường hằng, chỉ có tiến trình khổ đang diễn ra — và v�
 triết học, thuyết vô ngã là một trong những phê phán bản ngã triệt để nhất trong lịch sử tư tưởng —
 trước [Hume](../triet-gia/hume.md) hơn hai nghìn năm, Đức Phật đã nói không có cái "tôi" nào đứng sau kinh nghiệm.
 
-## Nagarjuna: con đường trung quán
+## Nagarjuna: con đường trung quán {#nagarjuna-con-duong-trung-quan}
 
 Khoảng thế kỷ 2–3 sau Công nguyên, [Nagarjuna](../triet-gia/nagarjuna.md) sáng lập **Trung quán tông** (*Madhyamaka*, "con đường
 giữa") với tác phẩm *Trung luận* (*Mūlamadhyamakakārikā*). Ông đẩy logic của Đức Phật đến cùng: nếu
@@ -64,7 +64,7 @@ có tự tính bất biến thì khổ đau cũng bất biến, tu hành vô íc
 ngày nay được nhiều triết gia phương Tây đọc song song với [Wittgenstein](../triet-gia/wittgenstein.md) hay Derrida về phê phán bản
 chất luận.
 
-## Đại thừa và Tiểu thừa: hai con đường
+## Đại thừa và Tiểu thừa: hai con đường {#dai-thua-va-tieu-thua-hai-con-duong}
 
 Sau khi Đức Phật nhập diệt (khoảng thế kỷ 5–4 TCN), tăng đoàn dần chia thành hai hướng lớn. **Thượng
 tọa bộ** (*Theravada*, "lời dạy của các bậc trưởng lão") — trước đây hay bị gọi là **Tiểu thừa**, một tên gọi mang ý chê do phía Đại thừa đặt ra mà ngày nay giới nghiên cứu tránh dùng — giữ
@@ -78,7 +78,7 @@ rất khác — từ chủ nghĩa cá nhân tu chứng nghiêm ngặt đến vũ
 giáo Việt Nam chủ yếu thuộc Đại thừa (với ảnh hưởng Thiền tông), điều này giải thích nhiều nét trong
 văn hóa tâm linh Việt.
 
-## Ấn Độ gặp phương Tây
+## Ấn Độ gặp phương Tây {#an-do-gap-phuong-tay}
 
 Triết học Ấn Độ đến châu Âu khá muộn — phần lớn qua bản dịch tiếng Anh, Đức trong thế kỷ 19. Arthur
 Schopenhauer (1788–1860) đọc Upanishad trong bản dịch Latinh (dịch lại từ bản tiếng Ba Tư) và coi đó là niềm an ủi
@@ -94,7 +94,7 @@ Bài học cho người đọc hôm nay: "triết học" không đồng nghĩa v
 hỏi về khổ, vô ngã và giải thoát mà Ấn Độ đặt ra từ 2.500 năm trước vẫn là những câu hỏi sống động —
 và nhiều người phương Tây hiện đại tìm đến chúng chính vì triết học quê nhà không trả lời thỏa đáng.
 
-## Sáu trường phái chính thống (tổng quan ngắn)
+## Sáu trường phái chính thống (tổng quan ngắn) {#sau-truong-phai-chinh-thong-tong-quan-ngan}
 
 Truyền thống Ấn Độ phân biệt các trường phái **chính thống** (*astika* — thừa nhận thẩm quyền của
 kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái duy vật Carvaka…). Sáu trường phái chính thống lớn:
@@ -106,13 +106,13 @@ kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái du
 - **Mimamsa**: chú giải nghi lễ Vệ Đà — triết học về ngôn ngữ và hành động đúng đắn.
 - **Vedanta**: "kết thúc của Vệ Đà", bám vào Upanishad; nhánh **Advaita** (Shankara, khoảng thế kỷ 8) chủ trương bất nhị — Atman chính là Brahman, thế giới hiện tượng chỉ là ảo ảnh (*maya*).
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — [Epicurus](../triet-gia/epicurus.md) và Nagel về cái chết; thử đối chiếu với quan niệm luân hồi
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — khổ đau và ý nghĩa
 - [Vì sao có đau khổ?](../cau-hoi/van-de-su-du.md) — vấn đề sự dữ trong triết học phương Tây
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Chandogya Upanishad* (khoảng thế kỷ 8–6 TCN), bản dịch tiếng Anh: Patrick Olivelle (1996), Oxford World's Classics.
 2. *Kinh Chuyển pháp luân* (*Dhammacakkappavattana Sutta*) — bài giảng đầu tiên của Đức Phật về Tứ diệu đế, trong *Tương ưng bộ kinh*.

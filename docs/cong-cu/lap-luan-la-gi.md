@@ -13,7 +13,7 @@ Lan có thể không đồng ý. Nhưng cô có thứ để không đồng ý. M
 
 Khoảnh khắc Minh nói "vì", cuộc trò chuyện đổi tính chất. Nó không còn là hai người đặt ý kiến cạnh nhau. Nó trở thành một **lập luận** (*argument*), và một lập luận thì có thể được xem xét, thử thách, sửa chữa.
 
-## Một định nghĩa ngắn
+## Một định nghĩa ngắn {#mot-dinh-nghia-ngan}
 
 Trong triết học, một lập luận là một tập hợp các khẳng định, trong đó một số khẳng định (gọi là **tiền đề**, *premise*) được đưa ra để ủng hộ một khẳng định khác (gọi là **kết luận**, *conclusion*).
 
@@ -23,7 +23,7 @@ Ba điều cần để ý:
 - Chữ "lập luận" ở đây không có nghĩa là cãi nhau. Một người viết nhật ký một mình cũng có thể lập luận.
 - Điều làm nên lập luận là *quan hệ ủng hộ*: tiền đề được đưa ra *để* làm cho kết luận đáng tin hơn.
 
-## Ba thứ trông giống nhau
+## Ba thứ trông giống nhau {#ba-thu-trong-giong-nhau}
 
 Không phải cứ có nhiều câu đứng cạnh nhau là có lập luận. Hãy so sánh:
 
@@ -45,7 +45,7 @@ Một mẹo nhỏ: hỏi xem điều đứng sau "vì" có được chấp nhậ
 !!! note "Ranh giới không phải lúc nào cũng rõ"
     Có những đoạn văn vừa giải thích vừa thuyết phục. Một bác sĩ nói "Anh bị đau dạ dày vì ăn uống thất thường" có thể đang giải thích, nhưng cũng có thể đang thuyết phục bệnh nhân rằng nguyên nhân là ăn uống chứ không phải căng thẳng. Bối cảnh quyết định.
 
-## Từ chỉ báo: những biển báo trong câu
+## Từ chỉ báo: những biển báo trong câu {#tu-chi-bao-nhung-bien-bao-trong-cau}
 
 Tiếng Việt có những từ đánh dấu vai trò của câu trong lập luận. Chúng không phải lúc nào cũng có mặt, và có mặt cũng không bảo đảm có lập luận, nhưng chúng là nơi tốt để bắt đầu.
 
@@ -57,7 +57,7 @@ Tiếng Việt có những từ đánh dấu vai trò của câu trong lập lu�
 
 Kết luận không nhất thiết đứng cuối. Trong câu của Minh, kết luận ("không nên mua xe máy điện") đứng đầu, lý do đứng sau chữ "vì". Người Việt hay nói kiểu này trong đời thường. Trong văn viết nghị luận, kết luận lại thường xuất hiện cuối đoạn, sau "do đó".
 
-## Viết lập luận ở dạng chuẩn
+## Viết lập luận ở dạng chuẩn {#viet-lap-luan-o-dang-chuan}
 
 Khi muốn đánh giá một lập luận, cách tốt nhất là viết nó lại ở **dạng chuẩn**: mỗi tiền đề một dòng, đánh số, rồi kẻ một vạch và viết kết luận. Lập luận của Minh thành:
 
@@ -79,7 +79,7 @@ Khoảng trống đó thường là nơi chứa một **giả định ngầm**: 
 
 Hai câu hỏi trên tách bạch đến mức các nhà logic đặt cho chúng những cái tên riêng. Câu hỏi thứ hai, khi lập luận nhắm đến sự chắc chắn, là chuyện **hợp lệ** (*valid*), được bàn ở bài [Khi nào kết luận buộc phải đúng?](suy-dien.md). Khi lập luận chỉ nhắm đến chỗ "có lẽ đúng", nó là chuyện **mạnh** hay yếu, được bàn ở bài [Khi bằng chứng chỉ làm cho có lẽ đúng](quy-nap.md).
 
-## Một lập luận tốt không cần "thắng"
+## Một lập luận tốt không cần "thắng" {#mot-lap-luan-tot-khong-can-thang}
 
 Trên mạng xã hội, "lập luận" thường bị hiểu là vũ khí: ai nói to hơn, ai khiến đối phương im lặng trước, người đó thắng. Triết học hiểu khác.
 
@@ -87,7 +87,7 @@ Một lập luận tốt là một lập luận mà tiền đề đáng tin và 
 
 Có một lợi ích ít người để ý: khi bạn viết lập luận của *chính mình* ra dạng chuẩn, bạn thường phát hiện chỗ yếu của nó trước người khác. Minh có thể nhận ra P2 anh chỉ nghe một người hàng xóm kể. Đó không phải thất bại. Đó là lúc tư duy làm đúng việc của nó.
 
-## Mẫu nhận diện
+## Mẫu nhận diện {#mau-nhan-dien}
 
 **Dấu hiệu có lập luận:**
 
@@ -114,7 +114,7 @@ Thao tác: 1) tìm kết luận trước  2) hỏi "vì sao người ấy tin đ
           3) mỗi câu trả lời là một tiền đề
 ```
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Đoạn sau có phải lập luận không? Nếu có, kết luận là gì?
 
@@ -157,7 +157,7 @@ Thao tác: 1) tìm kết luận trước  2) hỏi "vì sao người ấy tin đ
 ??? success "Xem gợi ý đáp án"
     Không. Đây là một câu điều kiện, tức *một* khẳng định duy nhất về mối quan hệ giữa hai sự việc. Người nói không khẳng định AI viết được luận văn, cũng không khẳng định giáo viên sẽ đổi cách chấm. Nó sẽ trở thành một phần của lập luận nếu có thêm, chẳng hạn, "Mà AI đã viết được luận văn rồi, cho nên…".
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -173,13 +173,13 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Bạn đã biết một lập luận gồm những phần nào. Câu hỏi tiếp theo: khi nào tiền đề *bảo đảm* kết luận, đến mức tiền đề đúng thì kết luận không thể sai? Mời đọc [Khi nào kết luận buộc phải đúng?](suy-dien.md).
 
 Nếu bạn mới đến Logos Zero, trang [Bắt đầu](../bat-dau/index.md) có lộ trình gợi ý.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>

@@ -11,7 +11,7 @@ Bạn đọc một bài báo hai nghìn chữ phản đối dạy thêm. Đọc 
 
 Cách đơn giản nhất để *thấy* một lập luận: vẽ nó ra.
 
-## Hộp và mũi tên
+## Hộp và mũi tên {#hop-va-mui-ten}
 
 Một sơ đồ lập luận chỉ có hai thứ:
 
@@ -47,7 +47,7 @@ P2 ──→ K
 
 Mỗi mũi tên đứng một mình. Gãy một cái, kết luận vẫn còn cái kia đỡ. Đây là **tiền đề độc lập** (*independent premises*).
 
-## Vì sao phải phân biệt liên kết với độc lập
+## Vì sao phải phân biệt liên kết với độc lập {#vi-sao-phai-phan-biet-lien-ket-voi-doc-lap}
 
 Vì cách phản biện hai loại này khác nhau hoàn toàn.
 
@@ -57,7 +57,7 @@ Với tiền đề độc lập, bẻ một cái chưa đủ. Bạn chứng minh
 
 Lỗi phổ biến: hạ được một tiền đề độc lập rồi tưởng mình đã hạ được kết luận — trong khi kết luận vẫn đứng vững trên những chân còn lại.
 
-## Đánh dấu mũi tên gãy
+## Đánh dấu mũi tên gãy {#danh-dau-mui-ten-gay}
 
 Sơ đồ không chỉ để vẽ lúc yên bình — nó còn là chiến trường. Khi bạn bẻ được một mắt xích, đánh dấu ngay trên sơ đồ:
 
@@ -78,7 +78,7 @@ Và khi bạn có lý do phản bác, vẽ thêm hộp "phản biện" với mũ
 
 Một sơ đồ đầy đủ sau trận chiến sẽ có: hộp, mũi tên, hộp đứt nét (giả định ngầm), dấu ✗ (mũi tên gãy), và hộp phản biện. Nhìn vào đó, ai cũng thấy ngay lập luận còn đứng được hay đã sập.
 
-## Giả định ngầm: hộp đứt nét
+## Giả định ngầm: hộp đứt nét {#gia-dinh-ngam-hop-dut-net}
 
 Quay lại ví dụ điện thoại. Nhìn kỹ sơ đồ, bạn có thấy thiếu gì không? Từ "mất tập trung thì học kém" nhảy đến "nên cấm" còn một bước nữa mà tác giả không nói ra:
 
@@ -99,7 +99,7 @@ Quy ước: **giả định ngầm** (*hidden assumption*) vẽ bằng hộp đ�
 
 Và đây mới là chỗ đáng đánh nhất: cấm có phải cách duy nhất không? Thu điện thoại đầu giờ, dùng app khóa máy trong giờ học — đều giảm mất tập trung mà không cần cấm. Tác giả lẳng lặng giả định "ngoài cấm ra không còn cách nào" mà không hề bảo vệ giả định đó. Trong hầu hết lập luận thực tế, giả định ngầm chính là mắt xích yếu nhất — vẽ nó ra là đã thắng một nửa. (Xem thêm [Giả định ngầm](gia-dinh-ngam.md).)
 
-## Một bài vẽ hoàn chỉnh
+## Một bài vẽ hoàn chỉnh {#mot-bai-ve-hoan-chinh}
 
 Ghép mọi thứ lại trong một đoạn văn:
 
@@ -131,7 +131,7 @@ P3 ──→ K            (P3 độc lập)
 
 Giờ thì cả lập luận nằm gọn trong một hình. Muốn phản biện, bạn có sẵn bản đồ: bẻ P1 (xe xăng có thật là nguồn *chính* không, hay còn bụi xây dựng, nhà máy?), bẻ P2, bẻ P3 ("ai cũng làm" — xem câu 5 phần Tự kiểm tra), hay đánh vào giả định ngầm (người nghèo đi xe xăng cũ lấy gì đi làm?). Không còn cảnh "sai sai mà không biết sai ở đâu".
 
-## Khi nào nên vẽ
+## Khi nào nên vẽ {#khi-nao-nen-ve}
 
 - **Bài viết dài, lập luận rải rác.** Vẽ ra, bạn sẽ thấy có những mũi tên trơ trọi không hộp nào đỡ — đó chính là chỗ "sai sai".
 - **Tranh luận rối.** Hai người cãi nhau nảy lửa, vẽ ra mới thấy họ đang bảo vệ hai kết luận *khác nhau*. Bao nhiêu cuộc cãi vã thực chất chỉ là hiểu lầm về "ta đang tranh luận điều gì".
@@ -139,7 +139,7 @@ Giờ thì cả lập luận nằm gọn trong một hình. Muốn phản biện
 
 Không cần vẽ mọi thứ. Lập luận nào đã ngắn gọn, rõ ràng thì vẽ thêm chỉ tốn giấy. Sơ đồ là kính lúp, không phải kính râm — chỉ đeo khi cần soi.
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Vẽ sơ đồ cho đoạn văn sau. Các tiền đề liên kết hay độc lập?
 
@@ -167,7 +167,7 @@ Không cần vẽ mọi thứ. Lập luận nào đã ngắn gọn, rõ ràng th
 ??? success "Xem gợi ý đáp án"
     Không có đáp án mẫu. Dấu hiệu làm tốt: sơ đồ của bạn có ít nhất một hộp đứt nét mà lúc đọc bài bạn không để ý; và ít nhất một mũi tên bạn phải phân vân "liên kết hay độc lập". Dấu hiệu làm chưa tới: mọi thứ đều trơn tru, không có chỗ nào khiến bạn khựng lại — thường nghĩa là bạn mới vẽ lại những gì tác giả *nói*, chưa vẽ những gì tác giả *giấu*.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 <div class="oz-quiz" data-id="argument-4" data-skill="argument" markdown="0">
 <script type="application/json">
@@ -181,16 +181,16 @@ Không cần vẽ mọi thứ. Lập luận nào đã ngắn gọn, rõ ràng th
 </script>
 </div>
 
-## Thử với công cụ
+## Thử với công cụ {#thu-voi-cong-cu}
 
 Kéo từng câu vào đúng vai trò — tiền đề, kết luận, hay không liên quan — rồi xem sơ đồ hiện ra trước mắt bạn.
 
 <div class="oz-so-do"></div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Sơ đồ cho thấy cấu trúc của lập luận. Câu hỏi tiếp theo: các mũi tên có thật sự *buộc* kết luận phải đúng không? Mời đọc [Khi nào kết luận buộc phải đúng?](suy-dien.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>

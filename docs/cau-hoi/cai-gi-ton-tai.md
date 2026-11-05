@@ -19,7 +19,7 @@ Hãy nhìn quanh và liệt kê những thứ "có thật": cái bàn, con mèo,
 
 Nghe như chuyện chữ nghĩa? Không hẳn. Câu trả lời của bạn quyết định bạn nghĩ gì về toán học (số có thật không?), khoa học (định luật tự nhiên nói về cái gì?), và cả những thứ như tiền bạc, luật pháp, quốc gia — những thứ ta đối xử như thể chúng có thật mỗi ngày.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Trên bàn có hai quả táo, cả hai đều đỏ. Bạn nói: "Cả hai quả đều *đỏ*." Bây giờ hãy chỉ tay vào cái "đỏ". Bạn chỉ vào quả táo thứ nhất? Nhưng đó là quả táo, không phải cái "đỏ" — vì quả táo thứ hai cũng đỏ mà bạn không chỉ vào nó. Bạn chỉ vào khoảng không giữa hai quả? Ở đó chẳng có gì cả.
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: hãy nghĩ về số 7. "7 là số nguyên tố" là một câu đúng — đúng ngay cả khi loài người tuyệt chủng và không còn ai đếm nữa. Nhưng số 7 *ở đâu*? Nó không ở trong đầu bạn (vì sự thật về nó không phụ thuộc vào bạn), cũng không ở ngoài không gian (bạn không thể chỉ vào nó). Nếu bạn nghĩ số 7 vẫn "có thật" theo nghĩa nào đó, bạn đang nghiêng về hiện thực luận. Nếu bạn nghĩ "số chỉ là công cụ tính toán của con người", bạn đang nghiêng về duy danh.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa hai câu hỏi khác nhau.
 
@@ -47,7 +47,7 @@ Thí nghiệm trên chứa hai câu hỏi khác nhau.
 
 Người duy danh tấn công tiền đề 2: sự giống nhau không cần universal nào để giải thích — hoặc tấn công kết luận bằng dao cạo Ockham: đừng nhân thực thể lên quá mức cần thiết.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường dưới đây: hiện thực luận (universals có thật), duy danh (chỉ có sự vật cụ thể), và một vị trí trung gian — thuyết trope — cố gắng ăn cả hai. Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -81,7 +81,7 @@ Lập trường thứ ba cố gắng ăn cả hai phe. Thuyết trope (*trope th
 
 **Cách đáp lại.** Người theo thuyết trope đáp: sự giống nhau giữa các trope là quan hệ *nội tại* và nguyên thủy — hai trope giống nhau *vì bản chất của chúng*, không cần một thực thể thứ ba đứng ra bảo lãnh. Và về số lượng: bản thể luận không tính bằng cách đếm đầu người — một lý thuyết với nhiều thực thể *cùng loại, cụ thể, không kỳ lạ* vẫn tốt hơn một lý thuyết với ít thực thể nhưng mỗi thực thể đều bí ẩn (như universal "ở nhiều nơi cùng lúc"). Tiết kiệm thật sự là tiết kiệm *loại* thực thể kỳ lạ, không phải tiết kiệm số lượng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 **có** câu hỏi chạm thẳng vào vấn đề phổ quát — câu bổ sung "Tính chất" hỏi tính chất (như "đỏ") rốt cuộc là gì — và một câu chính về đối tượng trừu tượng (như số 7):
 
@@ -119,7 +119,7 @@ Nguồn: như trên (Bảng 2).
 
 8,2% chọn "không bao giờ": theo họ, nói cho chặt thì không có cái bàn nào cả — chỉ có các hạt cơ bản được sắp xếp "theo kiểu cái bàn". Danh sách những thứ "có thật", hóa ra, không dễ lập như ta tưởng. Vấn đề phổ quát và những câu hỏi họ hàng của nó vẫn là trung tâm của siêu hình học đương đại, với cả ba lập trường trong bài đều có người bênh vực nghiêm túc.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tiền, công ty, quốc gia: những thứ "có thật" mà bạn không sờ được.** Tờ polymer trong ví bạn có giá trị — nhưng "giá trị" ở đâu? Không phải trong tờ giấy (đốt nó đi, giá trị mất theo cách mà "đỏ" của quả táo không mất khi bạn ăn táo). Một "công ty" có thể bị kiện, sở hữu tài sản, "quyết định" sa thải người — nhưng bạn không bao giờ gặp "công ty", chỉ gặp nhân viên và văn phòng của nó. Một "quốc gia" tồn tại ngay cả khi chính phủ sụp đổ và biên giới thay đổi. Những thực thể này giống universals ở chỗ: ta đối xử với chúng như thể chúng có thật, và xã hội sẽ sụp đổ nếu ta ngừng làm vậy. Câu hỏi của bài này, đặt vào đời sống, là: chúng có thật *theo nghĩa nào*? Và câu trả lời của bạn về "đỏ" có nhất quán với câu trả lời của bạn về "tiền" không?
 
@@ -127,7 +127,7 @@ Nguồn: như trên (Bảng 2).
 
 **Viết và nghĩ: bạn có đang "nhân thực thể"?** Trong công việc hàng ngày — viết báo cáo, tranh luận, ra quyết định — ta hay nói về "thị trường", "xu hướng", "văn hóa công ty" như thể chúng là những con vật có ý chí ("thị trường đang lo lắng", "văn hóa công ty không cho phép"). Bài này cho bạn một bài tập vệ sinh tư duy: mỗi lần như vậy, hãy tự hỏi — tôi đang nói về một tập hợp các sự việc cụ thể (duy danh), hay tôi đang đối xử với một cái tên như thể nó là một thực thể (hiện thực luận ngây thơ)? Cả hai đều có chỗ đứng, nhưng lẫn lộn chúng thì sinh ra đủ loại nhầm lẫn.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -193,7 +193,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một "thực thể trừu tượng" trong đời sống của bạn — tiền, điểm số, "văn hóa công ty", "thị trường", danh tiếng — và tranh luận với chính mình: nó tồn tại theo nghĩa nào? Hãy thử bênh vực cả hai phía: một phía nói "nó chỉ là cái tên ta đặt cho một đống sự việc cụ thể" (duy danh), phía kia nói "không, nó có thực tại riêng, vì nó gây ra hậu quả thật" (hiện thực luận). Cuối cùng cho biết bạn nghiêng về phía nào và vì sao.
 
@@ -206,7 +206,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có thừa nhận điểm mạnh của phía mình không chọn, thay vì hạ thấp nó?
     - Kết luận của bạn có dựa trên lập luận của bài, chứ không chỉ là cảm tính?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nominalism-metaphysics/>
 2. Armstrong, D. M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.

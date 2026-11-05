@@ -56,6 +56,8 @@ jobs:
         run: uv run --frozen python tools/quiz_bank.py --check
       - name: Kiểm tra sổ đăng ký nội dung khớp trang và dữ liệu
         run: uv run --frozen python tools/content_registry.py --check
+      - name: ID cố định cho mục H2 của Lõi
+        run: uv run --frozen python tools/add_heading_ids.py --check
       - name: Build (strict)
         run: uv run --frozen properdocs build --strict -f mkdocs.yml
       - name: Kiểm thử Python

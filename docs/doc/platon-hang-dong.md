@@ -18,13 +18,13 @@ Nó đáng đọc vì là cách ngắn nhất để hiểu **thuyết ý niệm*
     - **Bản dịch được trích:** Benjamin Jowett (in lần đầu 1871; phạm vi công cộng). Số như "514a" là trang và đoạn của ấn bản Stephanus (1578).
     - **Thời gian đọc:** 514a–521b khoảng 20 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Platon viết *Cộng hòa* sau khi thầy mình, [Socrates](../triet-gia/socrates.md), bị xử tử. Câu hỏi trung tâm của sách là: sống công chính có luôn tốt hơn sống bất công không? Để trả lời, Socrates (nhân vật) dựng một thành phố "bằng lời", vì công lý của thành phố dễ thấy hơn công lý trong một con người. Rồi ông đưa ra luận điểm gây sốc nhất: chừng nào triết gia chưa cai trị, hoặc người cai trị chưa thật sự làm triết học, các thành phố sẽ không hết tai ương (473c–d).
 
 Vậy triết gia biết gì mà người khác không biết? Platon trả lời bằng ba hình ảnh liên tiếp: mặt trời (507b–509b), đường thẳng chia đoạn (509d–511e), và hang động. Ẩn dụ hang động mở đầu bằng lời giới thiệu: đây là hình ảnh về bản tính của ta "khi được giáo dục và khi thiếu giáo dục" (514a).
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 **Đoạn 1 — Tù nhân và cái bóng (514a–515c).** Những người bị xích chân và cổ từ nhỏ, chỉ nhìn được vào vách hang. Sau lưng họ có ngọn lửa; giữa lửa và họ, có người mang qua lại những tượng người, tượng thú bằng gỗ, bằng đá. Thứ tù nhân thấy là bóng của *những hình nộm* ấy.
 
@@ -72,7 +72,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 Giáo dục, theo Platon, không phải đổ kiến thức vào đầu, mà là *xoay* cả linh hồn về đúng hướng: năng lực nhìn đã có sẵn, chỉ đang nhìn sai chỗ (518c–d). Còn người đã thấy ánh sáng thì không được ở lại trên ấy: họ phải xuống cai trị, và thành phố tốt nhất là nơi người cầm quyền ít muốn cầm quyền nhất (520d).
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 Platon cho ta sẵn bản đồ của hình ảnh (517b): hang là thế giới giác quan; bóng là những gì ta thấy và nghe hằng ngày, luôn đổi thay; sự vật bên ngoài là các ý niệm, như cái Đẹp tự thân, cái Công bằng tự thân; mặt trời là **ý niệm về cái Thiện** (*Form of the Good*), nguồn của chân lý và hiểu biết (517c). Từ bản đồ ấy, lập luận về người cai trị có dạng:
 
@@ -84,7 +84,7 @@ Platon cho ta sẵn bản đồ của hình ảnh (517b): hang là thế giới 
 
 Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là tiền đề: P2 dựa trên thuyết ý niệm (có tồn tại những ý niệm ấy không, và có người biết được chúng không?), còn P4 giả định rằng hiểu biết và đức hạnh của người cai trị là đủ, không cần cơ chế nào để kiểm soát họ.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Aristotle: không cần một thế giới ý niệm riêng.** [Aristotle](../triet-gia/aristotle.md), học trò của Platon, phản bác rằng ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật: "chúng không phải bản chất của các sự vật, nếu không thì chúng đã ở *trong* sự vật" (*Siêu hình học* I.9). Cái chung nằm ngay trong những sự vật cụ thể. Nhưng Aristotle không phải người đầu tiên thấy vấn đề: chính Platon, trong *Parmenides*, đã tự nêu những phản bác sắc bén với thuyết ý niệm.
 
@@ -98,19 +98,19 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là ti
 
 **Cách đáp lại:** Con đường đi lên của Platon không phải mặc khải riêng tư: phần sau quyển VII (từ 521c) vạch ra nhiều năm học toán rồi biện chứng, những lập luận ai cũng kiểm tra được. Và người đã ra khỏi hang thì thương bạn tù (516c), không khinh họ.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Hang động nói rằng thế giới ta thấy là đồ giả, như ma trận."** Platon không nói bóng là ảo ảnh không có thật: bóng là bóng thật của những vật thật. Ý ông là có những *bậc* hiểu biết và thực tại khác nhau, và giáo dục là leo từ bậc thấp lên bậc cao.
 - **"Ra khỏi hang là giác ngộ cá nhân, xong là xong."** Phần quan trọng của ẩn dụ là chuyện quay về: người đã thấy ánh sáng *phải* đi xuống (519d–520c). Đây là một luận điểm chính trị, không chỉ là chuyện tu dưỡng riêng.
 - **"Ẩn dụ là một chứng minh cho thuyết ý niệm."** Đây là một hình ảnh, và người kể nói rõ đó là điều mình *tin*, "đúng hay sai thì có trời biết" (517b). Muốn bảo vệ thuyết ý niệm, phải có lập luận, không chỉ có hình ảnh.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 - Nếu một ngày khoa học chứng minh bạn đang sống trong mô phỏng, bạn có muốn biết không? Vì sao?
 - Ẩn dụ hang động giả định có một "ánh sáng" duy nhất bên ngoài. Nếu có nhiều hang, mỗi hang một thứ ánh sáng khác nhau, thì sao?
 - Ai trong đời bạn từng là "người quay về hang", mang một sự thật khó nghe đến cho bạn?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -124,7 +124,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — bóng trên tường có tính là tri thức không?
 - [Ngôn từ định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?
@@ -132,7 +132,7 @@ Thử xem bạn nắm được đến đâu.
 - [Ai nên cai trị: số đông hay người hiểu biết?](../cau-hoi/ai-nen-cai-tri.md) — triết vương và những phản bác dân chủ
 - [Đọc "Suy niệm" I–II của Descartes](descartes-suy-niem.md) — một "tù nhân" khác: mơ thấy mình tự do và sợ thức dậy
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 2. Platon, *Republic*, bản dịch của Paul Shorey trên Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a>

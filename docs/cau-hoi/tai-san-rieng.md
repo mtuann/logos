@@ -19,7 +19,7 @@ Nhìn quanh: mảnh đất, ngôi nhà, chiếc điện thoại — mỗi thứ 
 
 Chữ "tài sản" trong tiếng Việt dịch từ *property*, gốc Latin *proprius* (riêng, của mình). Ngay từ gốc chữ đã có sự căng thẳng: "của mình" — nhưng bằng cách nào mà một vật ngoài tự nhiên trở thành "của mình"?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một hòn đảo hoang chưa ai đặt chân đến. Bạn đến đầu tiên, hái táo trên một cây hoang, dựng lều trên một mảnh đất trống. Hôm sau, một người khác đến. Bạn nói: "Cây táo này là của tôi, mảnh đất này là của tôi — anh đi chỗ khác."
@@ -33,7 +33,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
     Biến thể thứ hai: giả sử bạn không chỉ rào một mảnh đất mà rào *cả hòn đảo*. Người đến sau không còn chỗ nào để sống. Lời tuyên bố "đây là của tôi" của bạn còn chính đáng không? Hầu hết mọi người ở đây sẽ nói không — và câu trả lời đó cho thấy ngay cả người bênh vực tài sản riêng mạnh nhất cũng thừa nhận một giới hạn nào đó.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ ba: thuế và tái phân phối có vi phạm quyền sở hữu không?** Nếu tài sản là quyền bất khả xâm phạm, thì thuế chẳng khác gì cưỡng bức. Nếu tài sản chỉ là quy ước xã hội, thì xã hội có quyền đặt lại quy ước. Mọi tranh luận về thuế, suy cho cùng, đều là tranh luận về câu hỏi thứ nhất.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Locke: tôi trộn công sức lao động của mình vào, nên nó là của tôi
 
@@ -88,7 +88,7 @@ Jean-Jacques Rousseau, trong *Luận về nguồn gốc của bất bình đẳn
 
 **Cách đáp lại.** Người phê phán có thể nhún vai: chúng tôi không đòi xóa bỏ sở hữu — Proudhon cũng phân biệt chiếm hữu để tự mình sử dụng với sở hữu để thu lợi từ lao động của người khác. Điểm của chúng tôi khiêm tốn hơn nhưng sâu hơn: đừng *tự nhiên hóa* sở hữu. Nó không phải là định luật vật lý; nó là một thiết chế do con người dựng lên, phục vụ mục đích của con người — và khi nó phục vụ tệ (đất bỏ hoang trong khi người đói, nhà đầu cơ bỏ trống trong khi người vô gia cư), con người có quyền dựng lại. Câu hỏi không phải "có sở hữu hay không", mà là "sở hữu *như thế nào* thì phục vụ tốt nhất đời sống chung".
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không hỏi thẳng "quyền sở hữu tư nhân có chính đáng không". Nhưng có hai câu chạm gần vào chủ đề này: câu *chính* "Triết học chính trị" (hỏi tất cả người tham gia), trong đó "chủ nghĩa tự do cá nhân" là họ tư tưởng của Nozick; và câu *bổ sung* "Chính trị – kinh tế" (chỉ hỏi những người chọn trả lời thêm) về chủ nghĩa tư bản hay chủ nghĩa xã hội — cuộc tranh luận mà sở hữu tư nhân đối với tư liệu sản xuất nằm ở trung tâm.
 
@@ -110,7 +110,7 @@ Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất ph
 
 Một điểm đáng chú ý: trong tranh luận học thuật ngày nay, câu hỏi đã dịch chuyển từ "có nên có sở hữu tư nhân không" sang "sở hữu *những gì* và *trong giới hạn nào*". Rất ít triết gia đòi xóa bỏ hoàn toàn sở hữu cá nhân; cũng rất ít người bênh vực quyền sở hữu tuyệt đối không giới hạn. Chiến trường thật sự nằm ở giữa: thuế đến đâu là vừa, đất đai bỏ hoang có nên bị đánh thuế nặng không, tài nguyên thiên nhiên (dầu mỏ, nước ngầm) có khác nhà ở không.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Đất đai bỏ hoang và nhà đầu cơ bỏ trống.** Ở nhiều nơi, có những mảnh đất vàng bỏ hoang nhiều năm chờ lên giá, những căn nhà mua để đầu cơ không ai ở — trong khi người khác thiếu chỗ ở. Locke sẽ hỏi: chủ đất có vi phạm giới hạn "không để hư hỏng" và điều kiện "còn đủ cho người khác" không? Nozick sẽ hỏi ngược: họ mua hợp pháp bằng tiền của mình, ai có quyền bắt họ dùng thế nào? Còn lập trường 3 sẽ nhắc: quyền của họ chỉ tồn tại vì cộng đồng bảo vệ — cộng đồng đánh thuế đất bỏ hoang thì có gì bất công? Ba câu hỏi, ba trực giác — và bạn sẽ thấy cả ba cùng tồn tại trong đầu mình.
 
@@ -118,7 +118,7 @@ Một điểm đáng chú ý: trong tranh luận học thuật ngày nay, câu h
 
 **Thuê nhà và "quyền" của chủ nhà.** Quan hệ chủ nhà–người thuê là một phòng thí nghiệm thu nhỏ của cả bài: chủ nhà nói "nhà của tôi, tôi cho thuê giá nào là quyền tôi" (Nozick); người thuê nói "anh có nhà vì xã hội bảo vệ quyền đó, nên xã hội được đặt trần giá thuê" (lập trường 3); còn Locke sẽ hỏi: chủ nhà có "trộn công sức" gì vào căn nhà ấy không, hay chỉ mua đi bán lại? Mỗi lần giá thuê tăng vọt, ba lập trường này lại cãi nhau — trong đầu bạn cũng như ngoài xã hội.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 *Two Treatises of Government* (1689) của Locke đã thuộc phạm vi công cộng — bạn có thể đọc toàn văn chương V "Of Property" (Về sở hữu) miễn phí. Dưới đây là luận điểm cốt lõi của chương đó, diễn đạt lại ngắn gọn:
 
@@ -132,7 +132,7 @@ Câu hỏi dẫn dắt:
 2. Điều kiện "còn đủ cho người khác" của Locke: trong thế giới đã hết đất hoang, điều kiện này nên hiểu theo nghĩa đen (thì mọi sở hữu hiện tại đều đáng ngờ) hay nghĩa "không làm ai tệ đi" (cách đọc của Nozick)? Mỗi cách đọc dẫn đến kết luận gì về thuế?
 3. Lập trường 3 nói quyền sở hữu cần cộng đồng công nhận. Vậy một tên cướp có "quyền sở hữu" đối với của cướp được không — nếu băng cướp của hắn công nhận? Nếu không, thì "cộng đồng" ở đây phải là cộng đồng như thế nào mới đủ tư cách công nhận?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -198,7 +198,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Chọn một thứ mà bạn (hoặc gia đình bạn) đang "sở hữu" — mảnh đất, căn nhà, chiếc xe, hay một tài khoản mạng xã hội có nhiều người theo dõi. Hãy kể lại "lịch sử" của quyền sở hữu ấy theo ba bước của Nozick (chiếm hữu ban đầu – chuyển nhượng – có bất công nào cần sửa chữa không?), rồi tự hỏi theo Locke: có "công sức lao động" nào được trộn vào không, và điều kiện "còn đủ cho người khác" có thỏa không?
 
@@ -211,7 +211,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có phân biệt được "chiếm hữu để tự mình sử dụng" với "tài sản sinh lợi từ lao động người khác" theo tinh thần của Proudhon không?
     - Kết luận của bạn có thừa nhận điểm yếu của chính lập trường mình chọn không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/libertarianism/>
 2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-political/>

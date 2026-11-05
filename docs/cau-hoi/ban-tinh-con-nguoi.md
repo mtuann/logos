@@ -20,7 +20,7 @@ Ta cũng sống với hai niềm tin ấy cùng lúc. Ta nói "trẻ con như t�
 
 Vậy **bản tính con người** (*human nature*) thiện hay ác? Muốn trả lời, trước hết phải hỏi: "bản tính" là gì, và "thiện" ở đây nghĩa là gì?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Chiều mưa, bạn đi bộ về. Bên kia con hẻm, một đứa bé chừng hai tuổi lẫm chẫm bước về phía miệng cống mất nắp; mẹ nó đang quay lưng nghe điện thoại. Chưa kịp nghĩ gì, lòng bạn đã thắt lại.
@@ -42,7 +42,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
     Một biến thể: bạn đang trễ buổi phỏng vấn quan trọng nhất đời, và đứa bé ở bên kia một con đường đông xe. Cái thắt lòng vẫn đến, nhưng bạn có dừng lại không? Còn nếu đứa bé ở rất xa, chỉ hiện qua một tấm ảnh trên báo? (Xem lập luận của Peter Singer trong bài [Có nghĩa vụ cứu người nghèo đói không?](cuu-giup-ngheo-doi.md).)
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất: "bản tính" là gì?** Có ít nhất ba nghĩa. Một là cái **bẩm sinh** (*innate*), đối lập với cái học được: Cáo Tử nói "sinh chi vị tính" (生之謂性), cái có sẵn khi sống gọi là tính (*Mạnh Tử* 6A3). Hai là cái phần đông ai cũng có, theo nghĩa thống kê (Machery 2008). Ba là cái một sinh vật sẽ thành nếu được nuôi dưỡng tốt: với Aristotle, "tự nhiên" của hạt sồi còn là cây sồi. Theo nhà Hán học A. C. Graham (1967), Mạnh Tử hiểu "tính" gần với nghĩa thứ ba, còn Tuân Tử theo nghĩa thứ nhất, nên hai ông có phần nói lệch nhau (Van Norden, SEP).
 
@@ -50,7 +50,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: có một bản tính cố định không?** Từ Darwin, loài không còn là khuôn đúc bất biến: biến dị là chất liệu của tiến hóa, và khó tìm một **bản chất** (*essence*), tức đặc điểm nội tại mà mọi cá thể người đều có — có người mất chân, mất khả năng ngôn ngữ mà vẫn là người (Roughley, SEP). Có khi nào "bản tính con người" chỉ là một cái tên?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Tính thiện: con người sinh ra đã mang mầm thiện
 
@@ -106,7 +106,7 @@ Phật giáo Đại thừa có một ý tưởng cùng dáng dấp: **Phật tí
 
 **Cách đáp lại.** Những người theo Aristotle ngày nay, như Philippa Foot (*Natural Goodness*, 2001) và Rosalind Hursthouse, dựng lại ý "phát triển tốt" không cần mục đích luận vũ trụ: như ta nói một cái cây khỏe hay còi so với kiểu sống của loài nó, ta có thể đánh giá một đời người so với kiểu sống của loài người. Lập luận về nô lệ là sai lầm khi *áp dụng* ý niệm tự nhiên, nhuốm định kiến thời đại, chứ không chứng tỏ ý niệm ấy vô dụng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào trực tiếp về bản tính con người, nên **chưa có số liệu khảo sát** cho các lập trường trong bài. Câu gần nhất là câu bổ sung "Khái niệm", giữa **bẩm sinh luận** (*nativism*) và **duy nghiệm luận** (*empiricism*); nhưng nó hỏi các *khái niệm* của ta có sẵn từ lúc sinh hay học từ kinh nghiệm, không hỏi về bản tính đạo đức, nên không thể mượn số của nó.
 
@@ -114,7 +114,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào trực tiếp về bản 
 
 Và ngay khi dữ kiện đã rõ, chúng chỉ cho biết con người *có* những khuynh hướng nào. Gọi khuynh hướng ấy là "thiện" hay "ác" là một phán đoán giá trị; từ "là" không suy thẳng ra "nên" (xem vấn đề "là – phải" trong bài [Đúng sai có khách quan không?](sieu-dao-duc.md)). Khoa học bác được những phiên bản thô như "trẻ con hoàn toàn ích kỷ", nhưng không tự phân xử được giữa Mạnh Tử và Tuân Tử.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Tiên học lễ, hậu học văn" và chuyện dạy con.** Khẩu hiệu quen thuộc ở nhiều trường học, gần với lời Khổng Tử "hành hữu dư lực, tắc dĩ học văn" (làm tròn hiếu, đễ, tín rồi còn sức thì học văn, *Luận ngữ* 1.6), mang một niềm tin về con người. Nhưng *vì sao* lễ đi trước? Với Tuân Tử, lễ là khuôn nắn gỗ cong; với Mạnh Tử, lễ là nước và nắng cho cái mầm có sẵn. Khác biệt ấy hiện ra khi con bạn ba tuổi giật đồ chơi của bạn nó: bạn phạt để "uốn", hay hỏi "con nghĩ bạn có buồn không?" để đánh thức cái mầm? (Về Nho giáo ở Việt Nam, xem [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](nho-giao-viet.md).)
 
@@ -124,7 +124,7 @@ Và ngay khi dữ kiện đã rõ, chúng chỉ cho biết con người *có* nh
 
 **AI học từ chúng ta.** Tháng 3/2016, Microsoft cho chatbot Tay lên Twitter để học trò chuyện. Chưa đầy 24 giờ, theo chính công ty, một nhóm người đã phối hợp khai thác một lỗ hổng, khiến Tay đăng những lời lẽ "hết sức không phù hợp và đáng lên án"; Tay bị gỡ xuống. Các mô hình ngôn ngữ ngày nay học từ kho văn bản khổng lồ do con người viết, rồi thường được huấn luyện thêm theo chuẩn mực con người đặt ra: giống Cáo Tử (dữ liệu khơi dòng), giống Tuân Tử (dữ liệu thô cần "lễ" để nắn), hay chỉ soi lại chính ta? Và để ý: làm hỏng Tay là "một nhóm người", không phải cả loài người.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn mở đầu thiên 23 *Tính ác* của Tuân Tử (văn bản cổ, thuộc phạm vi công cộng), nguyên văn theo ctext.org, kèm phiên âm Hán Việt và bản dịch.
 
@@ -143,7 +143,7 @@ Câu hỏi dẫn dắt:
 
 Muốn đọc phía bên kia — Mạnh Tử với đứa trẻ bên giếng và bốn đầu mối — xem [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận* và cách áp dụng vào tình huống mới, không phải thuộc lòng tên tuổi.
 
@@ -159,7 +159,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Chọn một câu bạn từng nghe dùng "bản chất con người" để giải thích một hành vi, như "người ta vốn ích kỷ" hay "lên mạng mới thấy bản chất thật của người ta". Hãy (1) chỉ ra "bản tính" trong câu ấy được hiểu theo nghĩa nào: bẩm sinh, phổ biến, hay hình thái phát triển đầy đủ; (2) xét xem "thiện, ác" ở đây là phán xét đạo đức hay mô tả khuynh hướng; (3) cho hai lập trường trong bài tranh luận về câu ấy, rồi nói bên nào mạnh hơn trong trường hợp này, và vì sao.
 
@@ -173,7 +173,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Mỗi lập trường có được trình bày ở phiên bản mạnh nhất không (Tuân Tử không phải "con người hết thuốc chữa", Mạnh Tử không phải "ai cũng tốt")?
     - Kết luận của bạn dựa trên lý do, hay chỉ dựa trên một ví dụ bạn thích?
 
-## Nguồn
+## Nguồn {#nguon}
 
 Mọi câu trích tiếng Việt trong bài là bản dịch của Logos Zero, từ nguyên văn hoặc từ các bản dịch tiếng Anh ghi dưới đây.
 

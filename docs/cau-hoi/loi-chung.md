@@ -21,7 +21,7 @@ Vậy mà ta vẫn nói "tôi biết". Bài [Biết một điều nghĩa là gì
 
 Có một nghịch lý ở đây. Một mặt, ta phụ thuộc vào lời người khác gần như tuyệt đối — không ai tự kiểm chứng được quá một phần nhỏ điều mình tin. Mặt khác, từ nhỏ ta đã được dạy "đừng tin người lạ", "đừng nghe lời đồn". Vậy lời người khác rốt cuộc là chỗ dựa hay là cái bẫy? Câu trả lời, như ta sẽ thấy, không phải "tin hết" hay "nghi hết", mà là một bộ tiêu chuẩn để phân biệt khi nào nên tin.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy viết ra năm điều bạn chắc chắn mình *biết*: một về thế giới tự nhiên, một về lịch sử, một về sức khỏe, một về gia đình mình, một về tin tức gần đây.
@@ -34,7 +34,7 @@ Có một nghịch lý ở đây. Một mặt, ta phụ thuộc vào lời ngư�
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Khi ta tin một điều *vì người khác nói*, các triết gia gọi đó là **lời chứng** (*testimony*). Lời chứng ở đây hiểu rộng: không chỉ lời khai trước tòa, mà là mọi trường hợp một người nói cho người khác biết điều gì đó — bài giảng, bản tin, cuốn sách, tin nhắn của bạn bè.
 
@@ -52,7 +52,7 @@ Cả hai đều là lời chứng. Vì sao ta đối xử khác nhau? Câu trả
 
 Để thấy vì sao câu hỏi này khó, hãy nghĩ về một vòng tròn. Bạn tin sách giáo khoa vì thầy cô bảo sách đáng tin. Bạn tin thầy cô vì... ai bảo thầy cô đáng tin? Sớm muộn chuỗi lý do cũng phải dừng ở một chỗ *không* có lý do độc lập nữa — hoặc đi vòng tròn. Các lập trường dưới đây là những cách khác nhau để thoát khỏi vòng tròn đó.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Thuyết giản lược: tin, nhưng phải có lý do độc lập
 
@@ -98,7 +98,7 @@ Alvin Goldman, trong bài "Experts: Which Ones Should You Trust?" (2001), xuất
 
 Thử áp dụng vào một tình huống quen thuộc: một "tiến sĩ" trên mạng xã hội tuyên bố đã tìm ra phương pháp chữa bệnh mới và bán kèm thực phẩm chức năng. Chạy qua các dấu hiệu: bằng cấp có kiểm chứng được không? Có công trình nào được đồng nghiệp trích dẫn không, hay chỉ có video tự quay? Giới chuyên môn nói gì — đồng thuận hay im lặng đáng ngờ? Và người này có *lợi ích trực tiếp* từ việc bạn tin không (bán hàng)? Càng nhiều dấu hiệu trượt, càng nên hạ độ tin — bất kể ông ấy nói hùng hồn đến đâu.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về lời chứng, nên không có con số để trích ở đây. Điều có thể nói chắc chắn là tranh luận giữa thuyết giản lược và thuyết chống giản lược vẫn là một trong những trục chính của tri thức luận đương đại, với đại diện mạnh ở cả hai phe — từ C. A. J. Coady (*Testimony: A Philosophical Study*, 1992) bên phía chống giản lược đến Elizabeth Fricker bên phía giản lược.
 
@@ -106,7 +106,7 @@ Nhớ lại lời dặn trong [bài tri thức](tri-thuc.md): số đông không
 
 Tranh luận này cũng là cửa ngõ vào một lĩnh vực lớn hơn gọi là **tri thức luận xã hội** (*social epistemology*): tri thức không phải chuyện của từng cá nhân đơn độc, mà của cả một cộng đồng biết cách chia sẻ và kiểm tra thông tin.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Tin giả và nút chia sẻ.** Mỗi lần bạn chia sẻ một tin vì "người quen gửi trong nhóm chat", bạn đang đối xử với lời chứng như một nguồn tri thức. Cả hai phe trong bài đều đồng ý ở một điểm thực tế: hãy tìm *dấu hiệu đánh bại*. Người gửi có phải nguồn gốc không, hay cũng chỉ chuyển tiếp? Có nguồn độc lập nào khác đưa tin này không? Tiêu đề có giật gân một cách đáng ngờ không? "Mặc định tin" không có nghĩa là "mặc định chia sẻ".
 
@@ -116,7 +116,7 @@ Tranh luận này cũng là cửa ngõ vào một lĩnh vực lớn hơn gọi l
 
 **Lời chứng trong phòng xử án.** Pháp luật đã thể chế hóa sự thận trọng với lời chứng từ lâu: lời khai phải qua *chất vấn chéo*, nhân chứng phải tuyên thệ, và lời khai đơn độc (không có chứng cứ khác) thường không đủ để kết tội trong nhiều hệ thống pháp luật. Đó chính là thuyết giản lược được viết thành luật: lời chứng cần chỗ dựa độc lập. Nhưng đồng thời, cả hệ thống tư pháp vẫn *phụ thuộc* vào lời khai của nhân chứng mỗi ngày — đó là sự thừa nhận thực tế của phe chống giản lược: không có lời chứng thì công lý không vận hành được. Người làm chứng thành thật mà vẫn có thể sai: về chỗ khác nhau giữa niềm tin, sự biện minh và chân lý, xem [Sự thật là gì?](chan-ly.md).
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Dưới đây là đoạn then chốt trong mục X ("Of Miracles") của Hume — văn bản đã hết bản quyền (xuất bản 1748), kèm bản dịch tiếng Việt.
 
@@ -135,7 +135,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [Có bao giờ được nói dối?](noi-doi.md), về việc mỗi lời nói dối bào mòn chính lòng tin mà lời chứng dựa vào.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -151,7 +151,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Tuần này bạn đọc được một tin gây sốc trên mạng xã hội, được chia sẻ bởi một người bạn mà bạn tin tưởng. Hãy dùng ít nhất một khái niệm trong bài (thuyết giản lược, thuyết chống giản lược, dấu hiệu đánh bại, dấu hiệu gián tiếp của Goldman) để trả lời: bạn có nên tin — và có nên chia sẻ tiếp — tin đó không?
 
@@ -164,7 +164,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có phân biệt giữa "tin cho mình" và "chia sẻ cho người khác" không?
     - Bài viết có ví dụ cụ thể, câu ngắn, và tránh những khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Leonard, Nick, "Epistemological Problems of Testimony", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/testimony-episprob/>
 2. Green, Christopher R., "Epistemology of Testimony", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ep-testi/>

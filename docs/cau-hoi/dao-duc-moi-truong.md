@@ -18,7 +18,7 @@ Cả hai bên đều nói đến "giá trị", nhưng họ đang nói về hai t
 
 Đây không phải câu hỏi của các nhà hoạt động môi trường mà là của triết học, và nó ra đời như một ngành riêng — **đạo đức môi trường** (*environmental ethics*) — chỉ từ những năm 1970, khi con người lần đầu nhìn thấy Trái Đất từ vũ trụ và nhận ra nó mong manh đến mức nào.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng người cuối cùng trên Trái Đất. Ngày mai, toàn bộ nhân loại sẽ biến mất — chỉ còn một mình ông. Đêm nay, vì buồn chán, ông châm lửa đốt sạch khu rừng nguyên sinh cuối cùng của hành tinh. Không ai bị ảnh hưởng: không khói làm ai ho, không mất nguồn gỗ của ai, không ai ngắm cảnh nữa vì mai chẳng còn ai.
@@ -27,7 +27,7 @@ Cả hai bên đều nói đến "giá trị", nhưng họ đang nói về hai t
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên tách ra hai câu hỏi.
 
@@ -48,7 +48,7 @@ Người ủng hộ làm đường có thể tấn công tiền đề 2 (rừng 
 
 Một phân biệt hữu ích trước khi đi tiếp: **tác nhân đạo đức** (*moral agent*) là người có thể chịu trách nhiệm — khen hay chê, thưởng hay phạt. **Đối tượng đạo đức** (*moral patient*) là người (hay vật) đáng được xét đến khi ta hành động, dù không thể chịu trách nhiệm. Trẻ sơ sinh là đối tượng đạo đức nhưng chưa phải tác nhân đạo đức. Câu hỏi của bài này, nói gọn, là: vòng tròn "đối tượng đạo đức" dừng ở loài người, mở rộng ra động vật có cảm nhận, ra mọi sinh vật, hay ra cả hệ sinh thái?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Lấy con người làm trung tâm: chỉ con người mới thực sự "đáng kể"
 
@@ -88,7 +88,7 @@ Arne Naess, triết gia người Na Uy, năm 1973 phân biệt "sinh thái học
 
 **Cách đáp lại.** Người theo Leopold đáp rằng "đạo đức đất" *mở rộng* chứ không *thay thế* đạo đức giữa người với người: ta vẫn không được giết người, vẫn có quyền con người; chỉ thêm một tầng nghĩa vụ mới với cộng đồng sinh vật. Về tính mơ hồ, họ thừa nhận đây là điểm yếu và chuyển sang làm việc với khoa học sinh thái cụ thể: đa dạng sinh học, khả năng phục hồi của hệ sinh thái là những chỉ số đo được, không phải khẩu hiệu.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về chủ đề này: câu bổ sung (chỉ một phần người tham gia được hỏi) "Đạo đức môi trường: lấy con người làm trung tâm hay không?". Bên cạnh đó là câu chính về **đạo đức học chuẩn tắc** (*normative ethics*) — tức câu hỏi "điều gì làm cho một hành động là đúng" nói chung.
 
@@ -113,7 +113,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Nhớ rằng số đông không quyết định chân lý. Một khảo sát chỉ cho ta biết giới chuyên môn đang nghiêng về đâu, và câu hỏi nào vẫn còn bỏ ngỏ.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Ăn thịt.** Đây là ứng dụng trực tiếp nhất của Singer. Nếu nỗi đau của lợn trong chuồng công nghiệp là có thật — và khoa học về hệ thần kinh cho ta lý do tốt để tin như vậy — thì việc gây ra nỗi đau đó chỉ để có món ăn ngon hơn có biện minh được không? Người theo lập trường 1 đáp: con người cần protein, và chăn nuôi là sinh kế của hàng triệu người. Singer đáp lại: "cần" phải hiểu chặt — phần lớn người hiện nay có thể sống khỏe mà không cần thịt công nghiệp. Bạn không cần đồng ý với Singer để thấy câu hỏi này đáng suy nghĩ: ranh giới giữa "cần thiết" và "thích thì làm" nằm ở đâu trong bữa ăn của bạn?
 
@@ -123,7 +123,7 @@ Nhớ rằng số đông không quyết định chân lý. Một khảo sát ch�
 
 **Bảo tồn hay phát triển? Bài toán của Việt Nam.** Thủy điện cho điện nhưng ngập rừng; khu công nghiệp cho việc làm nhưng ô nhiễm sông; rừng phòng hộ giữ nước nhưng người dân cần đất canh tác. Những tranh luận này thường được đóng khung là "kinh tế đối đầu môi trường", nhưng bài này cho thấy còn một lớp sâu hơn: hai bên có thể đang dùng hai khái niệm "giá trị" khác nhau mà không hay. Người dân cần đất nói về giá trị công cụ cho con người; nhà bảo tồn nói về giá trị nội tại của hệ sinh thái. Nhận ra điều đó không tự động giải quyết xung đột, nhưng giúp ta tranh luận trung thực hơn: thay vì mỗi bên tố bên kia "vô cảm" hay "cản trở phát triển", hãy hỏi thẳng — ranh giới giá trị của mỗi bên nằm ở đâu?
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 *A Sand County Almanac* (1949) của Aldo Leopold vẫn còn bản quyền, nên dưới đây là tóm tắt ý chính của "đạo đức đất" bằng lời mình, không trích dài.
 
@@ -137,7 +137,7 @@ Câu hỏi dẫn dắt:
 2. Tiêu chuẩn "toàn vẹn, ổn định, vẻ đẹp" của cộng đồng sinh vật: ai là người đánh giá một hệ sinh thái có "toàn vẹn" không? Liệu có nguy cơ con người lại áp tiêu chuẩn thẩm mỹ của mình lên tự nhiên?
 3. Nếu bạn là người theo lập trường 1 (lấy con người làm trung tâm), bạn sẽ dùng chính "đạo đức đất" để bảo vệ rừng bằng cách nào — mà không cần chấp nhận rằng rừng có giá trị nội tại?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -153,7 +153,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Ở địa phương bạn, có một dự án phát triển (khu công nghiệp, thủy điện, đường cao tốc...) từng gây tranh cãi vì ảnh hưởng môi trường — hoặc hãy tưởng tượng một dự án như vậy. Hãy viết một đoạn tranh luận ngắn, trong đó một bên dùng lập trường lấy con người làm trung tâm và bên kia dùng lập trường lấy hệ sinh thái làm trung tâm. Cuối cùng, nêu rõ *bạn* đứng về phía nào và vì sao — hoặc vì sao bạn thấy cả hai đều chưa đủ.
 
@@ -165,7 +165,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có xét đến phản bác hiển nhiên nhất cho phía mình chọn và đáp lại nó không?
     - Bài viết có ví dụ cụ thể (tên dự án, con số, địa danh) thay vì nói chung chung không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Brennan, Andrew & Norva Y. S. Lo, "Environmental Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ethics-environmental/>
 2. Leopold, Aldo (1949), *A Sand County Almanac*, New York: Oxford University Press.

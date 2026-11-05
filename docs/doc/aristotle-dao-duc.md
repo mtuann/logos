@@ -17,13 +17,13 @@ updated: 2026-10-22
     - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, bản sửa năm 1925; Ross mất năm 1971).
     - **Thời gian đọc:** các đoạn chọn khoảng 25 phút; trọn quyển I–II khoảng hai giờ.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng hai mươi năm, đến khi thầy mất (347 TCN), rồi lập trường Lyceum ở Athens (335 TCN). Với ông, đạo đức học thuộc về khoa học chính trị: muốn biết thành phố nên làm gì, phải biết đời người tốt là gì (I.2).
 
 Đối thủ trong sách có hai loại. Một là những quan niệm phổ biến về hạnh phúc (I.5): khoái lạc, "lối sống hợp với súc vật"; danh vọng, quá hời hợt vì tùy người ban hơn người nhận; của cải, vốn chỉ là phương tiện. Đời chiêm nghiệm thì ông không bác mà để dành đến quyển X. Hai là chính thầy mình. Platon cho rằng có một Ý niệm về cái Thiện tách khỏi mọi vật. Trước khi bác ý ấy, Aristotle viết: bạn bè và chân lý đều đáng quý, nhưng đạo nghĩa buộc ta đặt chân lý lên trên (1096a16–17). Dù có một cái Thiện như thế, con người cũng không đạt tới được, mà ta đang tìm điều tốt *làm được* (1096b32–35). Aristotle kéo đạo đức học trở xuống mặt đất.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 **Đoạn 1 — Mọi thứ đều hướng tới một cái tốt (I.1–2, 1094a1–22).** Nghề y nhắm sức khỏe, nghề đóng tàu nhắm con tàu. Các mục đích xếp thành chuỗi: làm yên cương để cưỡi ngựa, cưỡi ngựa để đánh trận...
 
@@ -67,7 +67,7 @@ Dũng cảm nằm giữa liều lĩnh và hèn nhát; hào phóng giữa hoang p
 
 *Thử áp dụng: "kiên nhẫn" là trung dung giữa cái gì và cái gì? Và có khi nào "đứng giữa" lại là sai, ví dụ giữa trung thực và lừa dối?*
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 Lập luận chức năng (I.7) ở dạng chuẩn:
 
@@ -79,7 +79,7 @@ Lập luận chức năng (I.7) ở dạng chuẩn:
 
 Từ P1–P4 đến K là **suy diễn** (*deductive*). Hai **giả định ngầm** (*hidden assumption*) đáng soi: con người có *một* chức năng (P2), như con dao có chức năng cắt; và điều *chỉ* con người làm được thì cũng là điều *tốt nhất* cho con người (từ P3 sang K). Lý trí là của riêng con người; nhưng dùng lý trí để lập mưu hại người cũng vậy.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Kant: thói quen không làm nên giá trị đạo đức.** [Kant](../triet-gia/kant.md) viết rằng đức hạnh không thể định nghĩa là "một thói quen lâu dài, luyện bằng thực hành, làm những hành động tốt" (*Die Metaphysik der Sitten*, 1797, Ak 6:383–384), và gọi nguyên tắc "của Aristotle" đặt đức hạnh vào điểm giữa hai thói xấu là sai: đức hạnh và thói xấu khác nhau về chất, không phải về mức độ (Ak 6:404). Ông còn cho rằng thói quen tước đi giá trị đạo đức của hành động tốt vì nó làm hao mòn tự do của tâm trí (Ak 7:149).
 
@@ -89,19 +89,19 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). Hai **giả định ng�
 
 **Cách đáp lại:** Aristotle chưa bao giờ nói đa số người có đức hạnh; ông nói đức hạnh "hiếm" (1109a29). Thí nghiệm cho thấy nhiều người chỉ có sự tử tế thông thường thì phù hợp với điều đó. Những người như Rachana Kamtekar còn cho rằng đức hạnh là một khuynh hướng nhiều tầng, gắn với cả cách ta suy xét và cảm nhận, không phải một phản ứng lẻ mà thí nghiệm đo được.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Trung dung là đứng giữa, ba phải, ôn hòa."** Trung dung là mức đúng *đối với ta và đối với tình huống*, đúng lúc, đúng người, đúng cách (1106b21–23). Xét về điều tốt nhất, đức hạnh là một *cực điểm* chứ không phải điểm giữa (1107a6–8). Và có những việc không có mức "vừa phải": ngoại tình, trộm cắp, giết người, đố kỵ đã xấu ngay trong tên gọi (1107a8–17). Cũng đừng lẫn với sách *Trung dung* của Nho giáo: có nét giống nhau, nhưng khác nguồn gốc và nội dung.
 - **"Aristotle bác mọi lối sống người ta theo đuổi."** Ông bác khoái lạc, danh vọng và của cải như *định nghĩa* của hạnh phúc; còn đời chiêm nghiệm thì ở quyển X ông coi là hạnh phúc hoàn hảo nhất (X.7).
 - **"Eudaimonia là cảm giác vui."** Đó là một hoạt động kéo dài trọn đời. Khoái cảm đi kèm hoạt động đúng, nhưng không phải là định nghĩa của nó.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Chọn một đức tính bạn muốn có (kiên nhẫn, trung thực, dũng cảm...). Theo Aristotle, "bài tập thói quen" cụ thể trong tuần này của bạn là gì, và đâu là hai thái cực bạn phải tránh?
 2. Aristotle nói hạnh phúc là hoạt động cả đời, không phải khoảnh khắc. Điều này thay đổi cách bạn đánh giá "một cuộc đời thành công" như thế nào?
 3. Kant nói thói quen làm mất giá trị đạo đức; Aristotle nói thói quen là con đường dẫn tới đức hạnh. Hãy viết luận cứ mạnh nhất cho mỗi bên, rồi nói bạn nghiêng về đâu.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -115,14 +115,14 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đức hạnh luận của Aristotle đặt cạnh vị lợi và Kant
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh khoái lạc và sự hài lòng
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh Athens nơi Aristotle viết
 - [Epictetus: Cẩm nang](epictetus-cam-nang.md) — người Khắc kỷ cũng nói đức hạnh, nhưng là thứ duy nhất tốt
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Aristotle, *Nicomachean Ethics*, bản dịch W. D. Ross, Internet Classics Archive. <http://classics.mit.edu/Aristotle/nicomachaen.html>
 2. *The Works of Aristotle*, tập IX, bản dịch W. D. Ross (Oxford; lời tựa đề tháng 7/1925), bản scan trên Internet Archive. <https://archive.org/details/dli.ernet.6106>

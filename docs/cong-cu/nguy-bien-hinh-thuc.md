@@ -19,7 +19,7 @@ Sai ở đâu? Không phải ở "mưa", không phải ở "sân" — sân ướ
 
 Bài này mổ xẻ bốn cái khuôn hỏng phổ biến nhất — bằng bảng chân trị, để bạn thấy tận mắt chỗ gãy.
 
-## Bốn cái bẫy
+## Bốn cái bẫy {#bon-cai-bay}
 
 ### 1. Khẳng định hậu kiện
 
@@ -72,7 +72,7 @@ Chữ "hoặc" trong đời thường thường là **tuyển bao hàm** (*inclu
 
 **Phản ví dụ cụ thể:** "Nếu con vật là chó thì nó là động vật có vú. Vậy nếu là động vật có vú thì là chó." Tiền đề đúng, kết luận sai (xin chào các bạn mèo).
 
-## Vì sao ta hay sập bẫy?
+## Vì sao ta hay sập bẫy? {#vi-sao-ta-hay-sap-bay}
 
 Bốn cái khuôn trên đều có bảng chân trị rõ ràng, vậy mà người ta vẫn sập — kể cả người đã học logic. Một phần vì các nhà tâm lý học gọi là **thiên kiến niềm tin** (*belief bias*): khi kết luận nghe hợp lý, ta lười kiểm tra bước đi.
 
@@ -82,13 +82,13 @@ Kết luận dễ chịu quá — ai nỡ soi? Nhưng về thực chất, khuôn
 
 Bài học: **kết luận càng khiến bạn gật gù, càng phải soi khuôn kỹ.** Cảm giác "nghe đúng" không phải bằng chứng của tính hợp lệ.
 
-## Lưu ý quan trọng: kết luận có thể đúng một cách tình cờ
+## Lưu ý quan trọng: kết luận có thể đúng một cách tình cờ {#luu-y-quan-trong-ket-luan-co-the-dung-mot-cach-tinh-co}
 
 "Nếu trời mưa thì sân ướt. Sân ướt. Vậy trời mưa" — biết đâu trời *đang* mưa thật. Kết luận đúng. Nhưng cái đúng đó là nhờ thời tiết, không phải nhờ lập luận. Ngụy biện hình thức không hứa rằng kết luận sai; nó chỉ nói rằng **bước đi không bảo đảm** kết luận. Một lập luận hỏng vẫn có thể tình cờ đáp đúng — như đồng hồ chết vẫn đúng giờ hai lần một ngày.
 
 Vì vậy, khi ai đó chỉ ra "nhưng kết luận của tôi đúng mà!", hãy trả lời: đúng là một chuyện, *được chứng minh* là chuyện khác.
 
-## Chỉ ra ngụy biện mà không gây chiến
+## Chỉ ra ngụy biện mà không gây chiến {#chi-ra-nguy-bien-ma-khong-gay-chien}
 
 Biết tên bốn cái bẫy rồi, cám dỗ tiếp theo là đi rêu rao: "Bạn mắc ngụy biện hình thức đấy!" Đừng. Không ai đổi ý vì bị dán nhãn.
 
@@ -96,7 +96,7 @@ Cách hiệu quả hơn là **đưa phản ví dụ**: "Theo cách nói đó th�
 
 Và hãy áp dụng [nguyên tắc diễn giải thiện chí](gia-dinh-ngam.md) (*principle of charity*): trước khi kết luận ai đó sai, hãy hiểu họ theo cách *mạnh nhất*. Có thể họ dùng "hoặc" theo nghĩa loại trừ ("chỉ một trong hai") — hỏi lại một câu: "Ý bạn là chỉ một trong hai, hay có thể cả hai?" Nhiều "ngụy biện" hóa ra chỉ là hiểu lầm về chữ nghĩa, và một câu hỏi tử tế giải quyết nhanh hơn mười phản ví dụ.
 
-## Bảng tra nhanh
+## Bảng tra nhanh {#bang-tra-nhanh}
 
 | Khuôn | Tên | Hợp lệ? |
 |---|---|---|
@@ -108,7 +108,7 @@ Và hãy áp dụng [nguyên tắc diễn giải thiện chí](gia-dinh-ngam.md)
 | P hoặc Q (bao hàm); P; vậy không Q | khẳng định một vế của tuyển bao hàm | KHÔNG |
 | P hoặc Q; không P; vậy Q | tam đoạn luận lựa chọn | CÓ |
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Gọi tên lỗi và tìm phản ví dụ:
 
@@ -148,7 +148,7 @@ Và hãy áp dụng [nguyên tắc diễn giải thiện chí](gia-dinh-ngam.md)
 ??? success "Xem gợi ý đáp án"
     Đây là phủ định tiền kiện. Muốn giữ nguyên kết luận thì phải đổi tiền đề 1 thành điều kiện *cần*: "Chỉ khi tập thể dục đều đặn thì sức khỏe mới tốt" (tức: nếu sức khỏe tốt thì đã tập đều đặn). Khi đó lập luận là modus tollens, hợp lệ — nhưng tiền đề mới mạnh hơn hẳn và khó đúng hơn nhiều. Cách trung thực hơn là giữ tiền đề 1 và chỉ rút ra những gì nó cho phép — ví dụ dùng modus tollens: "Nếu bạn tập thể dục đều đặn thì sức khỏe bạn tốt. Sức khỏe bạn không tốt. Vậy bạn đã không tập thể dục đều đặn." (Vẫn phải hỏi: tiền đề 1 có đúng không? Sức khỏe còn do gen, dinh dưỡng, giấc ngủ…)
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -164,10 +164,10 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Biết khuôn hỏng rồi, hãy làm quen với các khuôn đáng tin — rồi thử sức với [công cụ Nhận ra ngụy biện](../luyen-tap/nguy-bien.md). Mời đọc [Khi nào kết luận buộc phải đúng?](suy-dien.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/fallacy/>

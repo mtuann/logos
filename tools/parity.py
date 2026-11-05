@@ -8,7 +8,8 @@ Với mỗi trang HTML, so:
   - văn bản hiển thị trong <article class="md-content__inner"> (bỏ <script>, <style>; thanh điều hướng,
     đầu trang và chân trang nằm ngoài article nên tự bị bỏ);
   - <title> và <meta name="description">;
-  - danh sách thuộc tính id trong article (anchor của tiêu đề, quiz…), để link nội bộ không gãy.
+  - danh sách thuộc tính id trong article (anchor của tiêu đề, quiz…), để link nội bộ không gãy;
+  - chỉ mục tìm kiếm search/search_index.json (từng mục: location, title, text), nếu cả hai bên có.
 Thoát mã 0 và in "giống 100%" khi mọi trang trùng nhau; ngược lại in danh sách trang lệch, chỗ lệch đầu tiên
 của mỗi trang, và thoát mã 1. Trang có ở một bên mà không có ở bên kia cũng tính là lệch.
 """
@@ -18,6 +19,7 @@ from __future__ import annotations
 import argparse
 import difflib
 import html as htmllib
+import json
 import re
 import shutil
 import subprocess
@@ -123,7 +125,23 @@ def compare(before: Path, after: Path) -> tuple[list[str], int]:
             new = [i for i in y.ids if i not in x.ids][:5]
             problems.append(f"{p}: id lệch (mất {gone}, thêm {new}"
                             f"{', hoặc đổi thứ tự' if not gone and not new else ''})")
+    problems += compare_search(before, after)
     return problems, len(a.keys() | b.keys())
+
+
+def compare_search(before: Path, after: Path) -> list[str]:
+    fa, fb = before / "search" / "search_index.json", after / "search" / "search_index.json"
+    if not (fa.exists() and fb.exists()):
+        return []
+    da = json.loads(fa.read_text(encoding="utf-8"))["docs"]
+    db = json.loads(fb.read_text(encoding="utf-8"))["docs"]
+    if da == db:
+        return []
+    ka = {d["location"]: d for d in da}
+    kb = {d["location"]: d for d in db}
+    diff = sorted(loc for loc in ka.keys() | kb.keys() if ka.get(loc) != kb.get(loc))
+    order = "" if diff else " (chỉ khác thứ tự)"
+    return [f"search_index.json lệch{order}: {len(diff)} mục, ví dụ {diff[:5]}"]
 
 
 def build(src: Path, dest: Path) -> None:

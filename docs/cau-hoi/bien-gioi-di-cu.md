@@ -18,7 +18,7 @@ Câu hỏi triết học là: *vì sao* một đường ranh trên bản đồ l
 
 Bài này không đánh giá chính sách nhập cư của nước nào hôm nay. Bài này hỏi về nền tảng đạo đức của biên giới.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Ngôi nhà của bạn: bạn có quyền chọn ai được vào — mời bạn bè, từ chối người lạ. Không ai thấy điều đó bất công. Bây giờ phóng to lên: một quốc gia có phải là một "ngôi nhà" lớn không? Nếu phải, thì quốc gia cũng có quyền chọn ai được vào — tức quyền đóng cửa biên giới là hiển nhiên.
@@ -32,7 +32,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
     Biến thể thứ hai, từ phía ngược lại: giả sử biên giới mở hoàn toàn, và trong một năm, số người nhập cư bằng một nửa dân số nước bạn — hệ thống y tế, trường học, phúc lợi quá tải. Những người đã ở đây (kể cả người nghèo bản địa) có quyền nói "đủ rồi" không? Nếu có, thì quyền đóng cửa không phải là không có giới hạn đạo đức — mà là có, và câu hỏi là giới hạn ở đâu.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất: quyền loại trừ của quốc gia bắt nguồn từ đâu?** Có hai họ câu trả lời: từ quyền *sở hữu* (đất nước như tài sản chung của công dân — xem [bài về tài sản riêng](tai-san-rieng.md)), hoặc từ quyền *tự quyết của cộng đồng* (một cộng đồng có quyền quyết định ai là thành viên, như một câu lạc bộ hay một gia đình).
 
@@ -40,7 +40,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: nghĩa vụ với người tị nạn và người di cư kinh tế có khác nhau không?** Hầu như ai cũng đồng ý rằng người chạy trốn chiến tranh xứng đáng được đón nhận hơn người đơn thuần muốn đời sống khá hơn. Nhưng ranh giới giữa "chạy trốn" và "tìm cơ hội" mờ hơn ta tưởng: người rời quê vì hạn hán triền miên, vì băng đảng đe dọa, vì không còn cách nào nuôi con — họ thuộc loại nào?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Carens: biên giới mở — quốc tịch là đặc quyền phong kiến thời hiện đại
 
@@ -80,7 +80,7 @@ Nội dung cụ thể của các nghĩa vụ này là điều gây tranh cãi, n
 
 **Cách đáp lại.** Người trung dung đáp rằng sự khó vẽ ranh giới không có nghĩa là không có ranh giới: luật pháp vốn sống chung với ranh giới mờ mỗi ngày (bao nhiêu tuổi thì thành niên? bao nhiêu tiền thì là hối lộ?). Còn về nguy cơ "trung dung thành vỏ bọc", họ nói: chính vì vậy mà cần tiêu chí *công khai và kiểm chứng được* — số lượng tiếp nhận, tiêu chí xét duyệt, cơ chế khiếu nại. Một chính sách đóng cửa mà không dám công khai tiêu chí của mình thì tự nó đã thú nhận là không chính đáng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về biên giới, di cư hay đạo đức nhập cư trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
@@ -88,7 +88,7 @@ Trong giới triết học, đạo đức nhập cư là một ngành bùng nổ
 
 Một điểm đáng chú ý: không giống nhiều chủ đề triết học khác, tranh luận về biên giới có một "phòng thí nghiệm thực tế" khổng lồ — chính sách nhập cư của các nước, các cuộc khủng hoảng người tị nạn, và dư luận công chúng. Triết học ở đây không bay bổng trên mây; mỗi lập luận đều có thể đối chiếu với hậu quả thật của chính sách thật.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Người lao động xa quê.** Hàng triệu người rời quê lên thành phố (hoặc ra nước ngoài) làm việc, gửi tiền về nuôi gia đình. Ở cấp độ *trong nước*, không ai tranh cãi quyền của họ — đó chính là quyền tự do đi lại mà Carens viện dẫn. Nhưng hãy tự hỏi: trực giác "họ có quyền đi tìm việc" của bạn có dừng lại ở biên giới quốc gia không? Nếu có, bạn nợ Carens một lý do nguyên tắc — chứ không chỉ "vì luật như vậy". Còn nếu không, bạn vừa trở thành người ủng hộ biên giới mở mà không hay.
 
@@ -96,7 +96,7 @@ Một điểm đáng chú ý: không giống nhiều chủ đề triết học k
 
 **Tranh luận về người tị nạn.** Khi có khủng hoảng người tị nạn, dư luận thường chia hai phe: "phải cứu người" vs "lo cho dân mình trước". Bài này cho bạn thấy hai phe đó thực ra đang dùng hai lập trường triết học khác nhau — nghĩa vụ phổ quát với con người (Carens) vs nghĩa vụ đặc biệt với thành viên cộng đồng (Walzer). Hiểu được khung này không giúp bạn kết luận ai đúng, nhưng giúp bạn nghe ra *người ta đang cãi về cái gì* — và nhận ra rằng cả hai phe đều có một điểm đạo đức chính đáng, nên cuộc tranh luận khó ngã ngũ không phải vì một bên ác mà vì hai giá trị thật đang xung đột.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: bài báo "Aliens and Citizens" (1987) của Carens và *Spheres of Justice* (1983) của Walzer đều còn bản quyền, nên bài này không trích dài mà tóm tắt cốt lõi bằng lời mình. Dưới đây là hai luận điểm trung tâm, diễn đạt lại ngắn gọn:
 
@@ -117,7 +117,7 @@ Câu hỏi dẫn dắt:
 2. Walzer so sánh quốc gia với câu lạc bộ/gia đình. Bạn có thấy sự so sánh này công bằng không — đặc biệt ở điểm "không ai chọn nơi mình sinh ra"?
 3. Lập trường trung dung đòi tiêu chí kiểm soát biên giới phải "công khai và kiểm chứng được". Hãy thử áp tiêu chí này vào một chính sách nhập cư mà bạn biết: nó có qua được không?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -185,7 +185,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn được mời thiết kế chính sách nhập cư cho một quốc gia giả định: mỗi năm có 100.000 đơn xin nhập cư (gồm người tị nạn chiến tranh, người chạy nạn đói, và người tìm việc làm), nhưng nước này chỉ có khả năng tiếp nhận 20.000 người mà không quá tải hệ thống phúc lợi. Hãy viết tiêu chí lựa chọn của bạn — dựa trên ít nhất hai lập trường trong bài — và giải thích vì sao bạn ưu tiên nhóm này hơn nhóm kia.
 
@@ -200,7 +200,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có xét đến phản bác từ lập trường đối lập (ví dụ: Carens sẽ chê tiêu chí của bạn là đặc quyền phong kiến) không?
     - Bài viết có trung thực về cái giá của lựa chọn mình đưa ra không (nhóm nào bị thiệt)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Wellman, Christopher Heath, "Immigration", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/immigration/>
 2. Carens, Joseph H. (1987), "Aliens and Citizens: The Case for Open Borders", *The Review of Politics* 49(2): 251–273. <https://doi.org/10.1017/S0034670500033817>

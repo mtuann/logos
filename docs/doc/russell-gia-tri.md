@@ -15,13 +15,13 @@ updated: 2026-10-22
     - **Đọc toàn văn:** bản in 1912 trên [Wikisource](https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15) (nguyên văn dưới đây chép theo bản này) hoặc [Project Gutenberg](https://www.gutenberg.org/ebooks/5827). "XV.7" là chương XV, đoạn 7.
     - **Thời gian đọc:** khoảng 10 phút cho các đoạn trích; 25 phút cho cả chương.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Bertrand Russell (1872–1970) là nhà logic học và triết gia người Anh, sau này đoạt giải Nobel Văn học (1950). Năm 1912 ông bước sang tuổi 40 và đang cùng Alfred North Whitehead viết *Principia Mathematica* (1910–1913), nỗ lực suy ra toán học từ logic. *Những vấn đề của triết học* là sách phổ thông, và thành một trong hai cuốn bán chạy nhất của ông.
 
 Chương cuối mở ra bằng chính lời chê mà Russell muốn đáp: nhiều người, "dưới ảnh hưởng của khoa học hay của công việc thực tế", ngờ rằng triết học chỉ là trò "vô hại nhưng vô ích", chẻ sợi tóc làm tư, tranh cãi về những điều không thể biết (XV.1).
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Người "thực tế" và thức ăn cho tâm trí (XV.2–XV.3)
 
@@ -65,7 +65,7 @@ Thiên văn học, tâm lý học từng thuộc về triết học; tác phẩm
 
 Ngay trước đó, Russell đặt đối lập với "sự tự khẳng định", thái độ coi thế giới là phương tiện cho mục đích của cái Tôi (XV.9). Vậy đối lập ở đây không phải "khoa học thì thực dụng, triết học thì chiêm ngưỡng", mà là hai thái độ: bắt thế giới phục vụ cái Tôi, hay để thế giới nới rộng cái Tôi. Và chiêm ngưỡng không dừng ở chiêm ngưỡng: nó làm ta thành "công dân của vũ trụ", không chỉ của một thành trì có tường bao đang giao chiến với phần còn lại (XV.12). Đoạn tóm tắt cuối chương (XV.13) được trích và dịch trọn trong bài [Triết học là gì, và không phải là gì?](../bat-dau/index.md).
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Một môn học có giá trị hoặc vì ích lợi cho người khác (khoa học, qua phát minh), hoặc vì tác động lên chính người học. (XV.2)
 - **P2.** Triết học hầu như không có ích lợi kiểu thứ nhất, và không cho một khối tri thức chắc chắn. (XV.2, XV.4–6)
@@ -75,7 +75,7 @@ Ngay trước đó, Russell đặt đối lập với "sự tự khẳng định
 
 Đây không phải lập luận suy diễn mà là một lời biện hộ về *giá trị*. P3 là một khẳng định thực nghiệm (học triết có thật làm người ta bớt giáo điều không?), và P4 là một **giả định** về giá trị mà người phản đối có thể không chia sẻ.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **1. Phản biện của thực dụng luận.** Theo tinh thần **thực dụng luận** (*pragmatism*) của Peirce và William James, một niềm tin không tạo ra khác biệt nào trong hành động thì có nghĩa gì? Ca ngợi "chiêm ngưỡng vô tư" phải chăng là biến triết học thành thú tiêu khiển của người nhàn rỗi?
 
@@ -98,18 +98,18 @@ Ngay trước đó, Russell đặt đối lập với "sự tự khẳng định
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1. Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu hỏi không định nghĩa "tiến bộ".
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Russell nói triết học vô dụng nhưng đẹp."** Ông nói triết học không có ích lợi kiểu phát minh, nhưng có tác động thật lên đời sống người học, kể cả trong hành động: chiêm ngưỡng không phải ngồi yên ngắm vũ trụ.
 - **"Không chắc chắn nghĩa là ý kiến nào cũng ngang nhau."** Russell viết rằng triết học, như mọi môn học, nhắm trước hết tới tri thức, thứ tri thức đến từ việc xem xét có phê phán căn cứ của những xác tín và định kiến của ta (XV.4). Không chắc chắn không phải là tùy tiện.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Russell nói người không học triết sống trong "nhà tù" của định kiến. Kể một định kiến của chính bạn và cách bạn phát hiện ra nó.
 2. "Chiêm ngưỡng vô tư" nghe đẹp, nhưng liệu có công bằng khi xã hội bỏ tiền nuôi một hoạt động không sinh lợi? Bạn đứng về phía Russell hay phía người thực dụng?
 3. Nếu một AI trả lời chắc chắn được mọi câu hỏi có đáp án, theo lập luận của Russell, phần nào của triết học vẫn còn nguyên giá trị?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được lập luận đến đâu.
 
@@ -123,14 +123,14 @@ Thử xem bạn nắm được lập luận đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — cuốn sách của Russell bắt đầu từ chính câu hỏi này.
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — triết học có làm đời đáng sống hơn?
 - [Triết học là gì, và không phải là gì?](../bat-dau/index.md) — đoạn tóm tắt cuối chương XV, nguyên văn và bản dịch.
 - [Khi người giỏi cãi nhau](../cau-hoi/bat-dong-tri-thuc.md) — sống với những câu hỏi chưa có đáp án chung.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Russell, Bertrand (1912), *The Problems of Philosophy*, London: Williams and Norgate, chương XV; bản in 1912 trên Wikisource <https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15>; Project Gutenberg <https://www.gutenberg.org/ebooks/5827>
 2. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/russell/>

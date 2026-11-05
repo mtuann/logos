@@ -42,6 +42,9 @@ SECTIONS = ["Bắt đầu", "Công cụ tư duy", "Câu hỏi lớn", "Lịch s�
 
 COVER_DATE_RE = re.compile(r"Nội dung cập nhật đến ngày \d{2}/\d{2}/\d{4}")
 UPDATED_LINE_RE = re.compile(r"^updated: \d{4}-\d{2}-\d{2}$", re.M)
+# ID cố định `{#id}` của mục H2 (KE-HOACH.md mục 5.5) chỉ có nghĩa trong trang của nó: trong sách gộp,
+# "## Nguồn {#nguon}" của mọi bài sẽ trùng nhau. Bỏ đi để toc tự đánh số như trước (nguon, nguon_1…).
+H2_ID_RE = re.compile(r"^(## .*?)[ \t]*\{#[\w-]+\}[ \t]*$", re.M)
 
 
 def normalize_cover_date(text: str) -> str:
@@ -268,6 +271,7 @@ def load_articles(
                 text = f.read()
             meta, body = parse_front_matter(text)
             title = meta.get("title") or nav_title
+            body = H2_ID_RE.sub(r"\1", body)
             body = rewrite_links(body, rel)
             body = strip_tool_divs(body)
             articles.append(

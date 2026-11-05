@@ -19,7 +19,7 @@ Các triết gia gọi đây là **vấn đề sự dữ** (*problem of evil*). 
 
 Bài này trình bày thách thức ở phiên bản mạnh nhất, rồi các đáp lại ở phiên bản mạnh nhất. Site không chọn hộ bạn — và cũng không có ý định an ủi hay giảng đạo. Đây là một bài triết học, không phải một bài giảng tôn giáo.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng một trận cháy rừng do sét đánh, ở nơi hoang vu không người. Một con nai bị kẹt, bỏng nặng, quằn quại trong đau đớn suốt nhiều ngày rồi chết. Không ai chứng kiến. Cái chết của nó không cứu được ai, không dạy được ai điều gì, không ngăn được điều gì.
@@ -30,7 +30,7 @@ Bài này trình bày thách thức ở phiên bản mạnh nhất, rồi các �
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Chú ý xem câu trả lời của bạn thuộc loại nào: "đau khổ này thực ra có mục đích" hay "ta không đủ hiểu để biết mục đích"?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Vấn đề sự dữ thường được phát biểu dưới dạng một bộ ba:
 
@@ -56,7 +56,7 @@ Hai phiên bản này cần hai loại đáp lại khác nhau. Ta xét từng ph
 
 Có một bất đối xứng đáng chú ý: ta dễ dàng chấp nhận rằng *điều tốt* có thể vượt quá sự hiểu biết của ta (một đứa trẻ không hiểu vì sao phải uống thuốc đắng), nhưng lại khó chấp nhận điều tương tự với *điều dữ*. Người bênh vực hoài nghi luận thần học sẽ nói: đó chính là thiên kiến cần sửa — nếu khoảng cách trí tuệ là có thật, nó phải áp dụng cho cả hai chiều. Người phản bác sẽ đáp: không đối xứng đâu, vì "thuốc đắng" của đứa trẻ là chuyện ta *đã* kiểm chứng được (thuốc chữa khỏi bệnh), còn "lý do của Thượng đế" là chuyện ta chưa bao giờ kiểm chứng được. Bất đối xứng này là một trong những điểm tranh cãi sống động nhất của phiên bản bằng chứng hiện nay.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Thách thức logic: bộ ba có mâu thuẫn không? (Mackie)
 
@@ -114,13 +114,13 @@ Ngược lại, thất bại của mọi biện hộ cũng không phải là "b�
 | Rowe: đau khổ dường như vô ích là bằng chứng | Hick: linh hồn-tôi luyện — đau khổ là môi trường trưởng thành nhân cách | Có những đau khổ vượt quá mọi tôi luyện (Ivan Karamazov) |
 | Rowe (tiếp) | Wykstra: hoài nghi luận thần học — ta không nên trông đợi hiểu được mọi lý do | Con dao hoài nghi cắt cả hai chiều: cả khẳng định "Thượng đế toàn thiện" cũng bị đe dọa |
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về vấn đề sự dữ, nên **chưa có số liệu khảo sát riêng cho câu hỏi này**. Con số gần nhất là câu hỏi chính về Thượng đế nói chung (n ≈ 1.770): 18,9% chấp nhận hoặc nghiêng về hữu thần, 66,9% về vô thần (xem bài [Có thể chứng minh Chúa tồn tại bằng lý trí?](luan-chung-ton-giao.md)).
 
 Điều có thể nói chắc chắn về tình trạng tranh luận: phiên bản *logic* của vấn đề (Mackie) được coi là đã được Plantinga hóa giải thành công (chính Mackie, trong *The Miracle of Theism* năm 1982, cũng thừa nhận các học thuyết trung tâm của hữu thần không mâu thuẫn logic với nhau) — đây là một trong những điểm đồng thuận hiếm hoi của ngành. Tranh luận hiện nay tập trung gần như hoàn toàn vào phiên bản *bằng chứng* (Rowe vs các đáp lại), và chưa có bên nào thắng thế rõ ràng.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Khi người thân gặp chuyện dữ.** Bài này không đưa ra lời khuyên, chỉ có một quan sát từ chính các triết gia tôn giáo: đừng dùng biện hộ triết học làm lời an ủi. "Mọi chuyện đều có lý do" có thể đúng về mặt siêu hình (nếu bạn tin), nhưng nói ra với người đang đau thường chỉ khiến họ thấy mình không được lắng nghe. Triết học dạy ta *suy nghĩ*; nó không dạy ta *nói gì* với người đang khóc.
 
@@ -138,11 +138,11 @@ Nhân vật Gióp cũng nhắc ta một điều mà các biện hộ trừu tư�
 
 **Khi đau khổ làm ta đặt câu hỏi về mọi thứ.** Có một tác dụng phụ của vấn đề sự dữ mà ít người nói đến: nó không chỉ thách thức niềm tin vào Thượng đế, mà thách thức *mọi* thế giới quan. Người vô thần cũng phải trả lời: nếu không có Thượng đế, thì đau khổ có ý nghĩa gì? "Vũ trụ vô tâm" có phải là một câu trả lời an ủi hơn không? Vấn đề sự dữ, rốt cuộc, không phải là độc quyền của người hữu thần — nó là câu hỏi của bất kỳ ai từng đau và dám hỏi "vì sao".
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: các văn bản trung tâm của tranh luận này — Mackie (1955), Plantinga (1974), Rowe (1979), Hick (1966), Wykstra (1984) — đều còn bản quyền, nên bài này tóm tắt lập luận bằng lời mình. Bộ ba "toàn năng – toàn thiện – sự dữ tồn tại" mà Mackie dùng để mở bài báo của ông đã trở thành điểm xuất phát chung của cả ngành; mục "The Problem of Evil" trong *Stanford Encyclopedia of Philosophy* (Michael Tooley) trình bày đầy đủ cả hai phiên bản logic và bằng chứng cùng các đáp lại.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -158,7 +158,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy nhớ lại một nỗi đau khổ (của bạn hoặc người thân) mà lúc đó bạn thấy hoàn toàn vô nghĩa. Hôm nay, với các khái niệm trong bài (vấn đề logic vs bằng chứng, biện hộ tự do ý chí, linh hồn-tôi luyện, hoài nghi luận thần học), bạn sẽ *phân loại* nỗi đau đó thế nào — và có khái niệm nào giúp bạn nhìn nó khác đi không? (Bài này không yêu cầu bạn "giải" được nó.)
 
@@ -171,7 +171,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có tránh dùng biện hộ triết học như lời an ủi cho người khác không?
     - Bài viết có câu ngắn, cụ thể, tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Mackie, John L. (1955), "Evil and Omnipotence", *Mind* 64(254): 200–212.
 2. Plantinga, Alvin (1974), *God, Freedom, and Evil*, New York: Harper & Row (tái bản Grand Rapids: Eerdmans, 1977).

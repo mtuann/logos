@@ -17,7 +17,7 @@ Mọi xã hội đều cần trật tự. Nhưng trật tự đến từ đâu �
 
 Đây là một trong những cuộc tranh luận chính trị lâu đời nhất của nhân loại, và nó diễn ra sôi nổi nhất ở Trung Hoa thời Xuân Thu – Chiến Quốc (khoảng thế kỷ 6–3 TCN): một bên là Khổng Tử và Mạnh Tử với **đức trị** — cai trị bằng đức hạnh; bên kia là Hàn Phi với **pháp trị** — cai trị bằng pháp luật. Hai nghìn năm sau, câu hỏi của họ vẫn còn nguyên: khi bầu cử, ta đang tìm *người tốt*, hay đang xây *luật tốt*?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hai huyện lân cận, hai cách cai trị.
@@ -33,7 +33,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử ở huyện B, vị quan mới lên âm thầm sửa hương ước — nới lỏng hình phạt cho người nhà mình, siết chặt với dân thường. Bộ máy "thưởng phạt công khai" vẫn chạy đều, nhưng luật giờ phục vụ kẻ cầm quyền. Lúc này huyện B còn là mô hình tốt không? Và điều đó cho thấy điểm yếu chí mạng của mô hình nào — mô hình A, hay mô hình B?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -43,7 +43,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ ba: kẻ cầm quyền có đứng trên luật không?** Đây là câu hỏi mà biến thể thứ hai đặt ra — và là nơi cả hai mô hình đều có thể sụp đổ. Đức trị sụp đổ khi không có người đức hạnh. Pháp trị sụp đổ khi luật chỉ trói dân mà không trói được vua.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Khổng Tử: trị bằng đức — người trên ngay thì dưới ắt theo
 
@@ -96,13 +96,13 @@ Nền tảng nhân tính của Hàn Phi lạnh lùng và thực tế: con ngư�
 
 **Cách đáp lại.** Người bênh vực Hàn Phi ngày nay phân biệt hai thứ hay bị nhập nhằng: *rule by law* (luật là công cụ của kẻ cầm quyền — đúng như Hàn Phi thiết kế) với *rule of law* (nhà nước pháp quyền — luật đứng trên mọi người, *kể cả* kẻ cầm quyền). Hàn Phi đúng về *kỹ thuật* (luật phải rõ, thưởng phạt phải nghiêm, áp dụng không thiên vị) nhưng sai về *đích đến* (phục vụ vua thay vì phục vụ dân). Bài học cho hiện đại: lấy kỹ thuật của Hàn Phi, đặt nó dưới nguyên tắc của Mạnh Tử — luật nghiêm minh *và* luật trói được cả kẻ cầm quyền, *và* mục đích cuối cùng là dân được yên. Đó chính là công thức của nhà nước pháp quyền dân chủ: pháp trị của Hàn Phi, nhưng với "dân vi quý" của Mạnh Tử làm linh hồn.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về Nho giáo, Pháp gia, đức trị hay pháp trị — không hỏi "nên cai trị bằng đức hay bằng pháp", cũng không hỏi về Khổng Tử, Mạnh Tử hay Hàn Phi. Nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài. (Câu gần nhất là câu bổ sung "Luật pháp" — thực chứng luận pháp lý hay không — nhưng câu ấy hỏi luật *là gì*, tức giá trị pháp lý của luật có phụ thuộc vào đạo đức hay không, chứ không hỏi nên cai trị bằng đức hay bằng pháp.)
 
 Điều này phản ánh một thực tế: giới triết học chuyên nghiệp được khảo sát chủ yếu làm việc trong truyền thống phương Tây, và triết học chính trị Trung Hoa cổ đại vẫn là lĩnh vực chuyên biệt. Nhưng điều đó không có nghĩa cuộc tranh luận đức trị–pháp trị đã lỗi thời — ngược lại, nó đang sống lại dưới những cái tên mới: "nhà nước pháp quyền vs chuyên chế", "lãnh đạo có đạo đức vs thiết chế tốt", "tin vào con người vs tin vào hệ thống". Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp về nó. Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán "đa số triết gia nghĩ gì" từ ấn tượng cá nhân.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Sếp "có tâm" hay quy trình tốt?** Công ty khởi nghiệp thường sống nhờ founder: sếp có tâm thì nhân viên hết lòng, sếp tệ thì công ty tan. Đó là đức trị phiên bản văn phòng — và nó có đúng điểm yếu của huyện A: phụ thuộc hoàn toàn vào một con người. Công ty lớn vận hành bằng quy trình, KPI, kiểm soát nội bộ — pháp trị phiên bản văn phòng: đổi CEO mấy đời, máy vẫn chạy. Câu hỏi của Hàn Phi áp dụng nguyên vẹn: công ty bạn đang đặt cược vào *người tốt*, hay vào *luật tốt*? Và khi sếp là người viết ra quy trình nhưng tự miễn cho mình — bạn đang ở biến thể thứ hai của thí nghiệm.
 
@@ -114,7 +114,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về Nho giáo, Pháp gia
 
 Đọc thêm: [hướng dẫn đọc *Luận ngữ*](../doc/luan-ngu.md), để đọc thẳng lời Khổng Tử về lễ, chữ thứ và người quân tử.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -180,7 +180,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy lấy một tổ chức mà bạn thuộc về (công ty, trường học, gia đình, nhóm bạn...) và phân tích: nó đang vận hành gần với đức trị hay pháp trị hơn — đặt cược vào *người tốt* hay vào *luật tốt*? Điểm mạnh và điểm yếu của mô hình đó đã bộc lộ ra sao trong thực tế bạn chứng kiến? Và nếu được thiết kế lại, bạn sẽ lấy kỹ thuật của bên nào, linh hồn của bên nào?
 
@@ -194,7 +194,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có phân biệt được rule by law (luật là công cụ của kẻ mạnh) với rule of law (luật đứng trên mọi người) trong ví dụ của mình không?
     - Bài viết có trung thực về vị trí của chính bạn trong mô hình đó không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Luận ngữ* (*Analects*), thiên 2.3 và 12.19. Nguyên văn: <https://ctext.org/analects>
 2. *Mạnh Tử* (*Mencius*), thiên Tận tâm hạ 7B14 và Lương Huệ Vương hạ 1B8. Nguyên văn: <https://ctext.org/mengzi>

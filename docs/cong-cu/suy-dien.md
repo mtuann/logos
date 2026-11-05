@@ -13,7 +13,7 @@ Chị Thu không ngốc. Chị dựa vào một điều đúng: *nếu trời m�
 
 Bài này nói về chính cái "cách" ấy: khi nào những gì ta biết *buộc* một kết luận phải đúng, và khi nào nó chỉ trông có vẻ như vậy.
 
-## Hợp lệ: một lời hứa về hình thức
+## Hợp lệ: một lời hứa về hình thức {#hop-le-mot-loi-hua-ve-hinh-thuc}
 
 Một lập luận **suy diễn** (*deductive*) là lập luận nhắm đến sự chắc chắn: nếu tiền đề đúng thì kết luận *không thể* sai.
 
@@ -32,7 +32,7 @@ Cả hai tiền đề đều sai. Kết luận lại đúng. Và lập luận n�
 
 Vì vậy cần thêm một khái niệm. Một lập luận là **vững chắc** (*sound*) khi nó vừa hợp lệ, vừa có mọi tiền đề đúng. Một lập luận vững chắc thì kết luận chắc chắn đúng.
 
-## Bảng bốn trường hợp
+## Bảng bốn trường hợp {#bang-bon-truong-hop}
 
 | | **Mọi tiền đề đều đúng** | **Có ít nhất một tiền đề sai** |
 |---|---|---|
@@ -52,7 +52,7 @@ K.  Huế là thủ đô Việt Nam.                         (sai)
 
 Cùng một khuôn, tiền đề vẫn đúng, kết luận thì sai. Vậy cái khuôn ấy không bảo đảm gì cả. Kết luận về Hà Nội đúng là nhờ thế giới tình cờ như vậy, không phải nhờ lập luận. Đây cũng chính là lỗi của chị Thu.
 
-## Những khuôn đáng tin
+## Những khuôn đáng tin {#nhung-khuon-dang-tin}
 
 Tính hợp lệ phụ thuộc vào **hình thức** của lập luận, không phụ thuộc vào nội dung. Vì vậy, quen mặt vài khuôn hợp lệ là có thể nhận ra chúng ở bất cứ đâu. Trong các sơ đồ dưới đây, P, Q, R là những khẳng định bất kỳ.
 
@@ -113,7 +113,7 @@ Q.                    Nó ở trên bàn.
 
 Cẩn thận với chiều ngược lại: "P hoặc Q; P; vậy không Q" *không* hợp lệ, vì "hoặc" thường để ngỏ khả năng cả hai cùng đúng. "Anh ấy giỏi tiếng Anh hoặc giỏi tiếng Pháp. Anh ấy giỏi tiếng Anh. Vậy anh ấy không giỏi tiếng Pháp" là một bước nhảy. Chỉ khi tiền đề nói rõ "chỉ một trong hai" thì bước đó mới hợp lệ.
 
-## Hai cái bẫy đối xứng
+## Hai cái bẫy đối xứng {#hai-cai-bay-doi-xung}
 
 Hai khuôn hợp lệ đầu tiên có hai "người anh em sinh đôi" không hợp lệ. Chúng trông giống đến mức rất dễ nhầm.
 
@@ -141,7 +141,7 @@ Lý do hệt như trên: mưa không phải con đường duy nhất làm sân �
 
 Mẹo nhớ: với "nếu P thì Q", *khẳng định cái đầu* (P) hoặc *phủ định cái đuôi* (không Q) thì an toàn. *Khẳng định cái đuôi* hoặc *phủ định cái đầu* thì không.
 
-## Phương pháp phản ví dụ
+## Phương pháp phản ví dụ {#phuong-phap-phan-vi-du}
 
 Làm sao chứng minh một lập luận *không* hợp lệ? Nói "tôi thấy nó không thuyết phục" chưa đủ. Có một cách gọn gàng và dứt khoát, gọi là phương pháp **phản ví dụ** (*counterexample*):
 
@@ -164,7 +164,7 @@ Phản ví dụ không chứng minh Lan *không* ăn chay. Có thể cô ấy ă
 !!! warning "Tiền đề phải thật sự đúng"
     Phản ví dụ chỉ có tác dụng khi tiền đề đúng một cách không thể bàn cãi và kết luận sai một cách không thể bàn cãi. "Mọi con cá đều là chim; mọi con mèo đều là chim; vậy mọi con cá đều là mèo" có kết luận sai, nhưng tiền đề cũng sai, nên nó không chứng minh được gì.
 
-## Mẫu nhận diện
+## Mẫu nhận diện {#mau-nhan-dien}
 
 **Dấu hiệu của lập luận suy diễn:** từ chỉ báo kiểu "tất yếu", "nhất định", "chắc chắn suy ra", "không thể khác"; các từ "mọi", "tất cả", "không ai", "nếu… thì…", "hoặc… hoặc…".
 
@@ -184,7 +184,7 @@ không P          không Q         phủ định tiền kiện          KHÔNG
 2. Nếu không chắc, có tìm được phản ví dụ không?
 3. Nếu hợp lệ: các tiền đề có thật sự đúng không? (Vững chắc hay không.)
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Hợp lệ hay không? Nếu không, gọi tên lỗi.
 
@@ -221,7 +221,7 @@ không P          không Q         phủ định tiền kiện          KHÔNG
 ??? success "Xem gợi ý đáp án"
     Phủ định tiền kiện (nếu P thì Q; không P; vậy không Q). Phản ví dụ: "Nếu một con vật là con chó thì nó là động vật có vú. Con mèo không phải con chó. Vậy con mèo không phải động vật có vú." Tiền đề đúng, kết luận sai.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -237,11 +237,11 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Suy diễn cho ta sự chắc chắn, nhưng với một cái giá: kết luận không bao giờ đi xa hơn những gì đã nằm sẵn trong tiền đề. Phần lớn đời sống, từ chẩn đoán bệnh đến dự báo thời tiết, đòi hỏi ta đi xa hơn thế. Mời đọc [Khi bằng chứng chỉ làm cho có lẽ đúng](quy-nap.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>

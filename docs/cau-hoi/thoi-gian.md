@@ -21,7 +21,7 @@ Nhưng hãy thử hỏi kỹ hơn: *ngày hôm qua* bây giờ ở đâu? Nó "�
 
 Ta dùng chữ "thời gian" hàng chục lần mỗi ngày mà hiếm khi dừng lại hỏi nó là gì — giống như cá không bao giờ hỏi nước là gì. Nhưng thỉnh thoảng, một câu hỏi ngớ ngẩn của trẻ con lại làm người lớn cứng họng: "Hôm qua đi đâu rồi mẹ?" — và ta nhận ra mình cũng không biết.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng bạn có một cỗ máy thời gian, nhưng nó chỉ cho *nhìn* chứ không cho chạm.
@@ -34,7 +34,7 @@ Ta dùng chữ "thời gian" hàng chục lần mỗi ngày mà hiếm khi dừn
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Năm 1908, triết gia người Anh J. M. E. McTaggart đăng một bài báo nhan đề "The Unreality of Time" (Thời gian không thật) trên tạp chí *Mind*. Ông phân biệt hai cách sắp xếp các sự kiện theo thời gian:
 
@@ -56,7 +56,7 @@ Từ lập luận gây sốc này, triết học thời gian chia thành hai phe
 </figure>
 <!-- /fig:mctaggart-time -->
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Hiện tại luận: chỉ hiện tại là thật
 
@@ -110,7 +110,7 @@ Lần tới khi bạn nói "thời gian trôi nhanh quá", hãy dừng lại m�
 
 Và nếu bạn thấy mình không trả lời được — thì xin chúc mừng: bạn vừa trải nghiệm chính xác điều mà [Augustine](../triet-gia/augustine.md) đã trải nghiệm cách đây hơn 1.600 năm, và điều mà McTaggart đã biến thành một trong những lập luận nổi tiếng nhất của triết học hiện đại.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có cả một nhóm câu hỏi về thời gian: câu chính "Thời gian" hỏi thẳng về hai phe sinh ra từ lập luận của McTaggart (thuyết A và thuyết B), câu bổ sung "Bản thể luận thời gian" hỏi về đúng ba lập trường của bài, và câu bổ sung "Du hành thời gian".
 
@@ -135,7 +135,7 @@ Ngoài số liệu, điều có thể nói chắc chắn là cả hai phe chính
 
 Một điểm đáng chú ý: chính McTaggart, sau khi "chứng minh" thời gian không thật, lại kết luận rằng thực tại rốt cuộc là tinh thần và tình yêu — ông là một nhà duy tâm. Ít ai ngày nay đi theo ông đến cùng, nhưng lập luận của ông vẫn là bài kiểm tra bắt buộc: bất kỳ lý thuyết nào về thời gian cũng phải trả lời được thách thức của chuỗi A.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Hoài niệm: quá khứ có còn "ở đó" không?** Khi bạn nhớ về một buổi chiều cũ với bạn bè, bạn cảm thấy nó *mất rồi* — và nỗi buồn của hoài niệm đến từ chính cảm giác mất mát ấy. Hiện tại luận nói: đúng vậy, nó mất thật rồi, chỉ còn dấu vết. Vĩnh cửu luận nói: nó vẫn còn đó, ở một vùng của khối thời gian — bạn chỉ không "ở đó" nữa. Hai cách nói cho hai cảm giác khác nhau về cùng một nỗi nhớ.
 
@@ -149,7 +149,7 @@ Một điểm đáng chú ý: chính McTaggart, sau khi "chứng minh" thời gi
 
 **Chờ đợi: khi thời gian "dài ra".** Năm phút chờ tin nhắn trả lời dài như cả giờ; hai giờ xem phim hay trôi như hai mươi phút. Nếu thời gian là khách quan (dù theo phe nào), vì sao trải nghiệm về nó lại co giãn? Đây là nơi triết học gặp tâm lý học: có lẽ "thời gian" mà ta sống không phải là thời gian của vật lý, mà là thời gian của ý thức — và hai thứ ấy có thể có bản chất khác nhau. Hiểu được điều này giúp ta bớt khó chịu khi chờ đợi: sự dài đằng đẵng ấy là thật *với bạn*, dù đồng hồ nói khác.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích Quyển XI của *Tự thú* (*Confessions*) của Augustine — văn bản đã hết bản quyền (bản dịch tiếng Anh của Edward Pusey, 1838), kèm bản dịch tiếng Việt.
 
@@ -165,7 +165,7 @@ Câu hỏi dẫn dắt:
 3. Nếu một ngày khoa học chứng minh được vĩnh cửu luận là đúng (tương lai đã "có sẵn"), bạn sẽ sống khác đi không? Vì sao?
 4. Câu đố "thời gian trôi nhanh bao nhiêu?" cho thấy chữ "trôi" có thể chỉ là ẩn dụ. Bạn có nghĩ ra được cách nói khác về thời gian mà không dùng ẩn dụ chuyển động không? Thử xem khó đến mức nào.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -181,7 +181,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Bạn thiên về phía nào: chỉ hiện tại là thật (hiện tại luận), hay quá khứ–hiện tại–tương lai đều thật (vĩnh cửu luận)? Hãy dùng một trải nghiệm của chính bạn (một kỷ niệm, một kế hoạch, một nỗi lo) để bảo vệ lựa chọn của mình, và nêu một phản bác mà phe đối lập có thể đưa ra.
 
@@ -193,7 +193,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu ít nhất một phản bác từ phe đối lập và đáp lại nó không?
     - Bài viết có câu ngắn, ví dụ cụ thể, và tránh những khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. McTaggart, J. M. E. (1908), "The Unreality of Time", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.)
 2. Augustine, *Confessions*, Quyển XI. Bản dịch tiếng Anh của Edward Pusey (1838, phạm vi công cộng). <https://www.gutenberg.org/ebooks/3296>

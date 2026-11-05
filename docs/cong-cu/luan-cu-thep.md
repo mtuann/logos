@@ -15,17 +15,17 @@ Vì sao phải làm vậy? Ba lý do. Thứ nhất, hạ một người rơm kh�
 
 Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đối lập ở dạng mạnh nhất, liệt kê 3 luận cứ tốt nhất của họ, ghi bằng chứng mạnh nhất họ viện dẫn, và viết rõ điều gì sẽ làm bạn đổi ý. Cuối cùng bạn có một bản "luận cứ thép" hoàn chỉnh — bài tập tốt nhất để chống lại thói quen đấm bao cát.
 
-## Thử ngay
+## Thử ngay {#thu-ngay}
 
 <div class="oz-steelman"></div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 - [Ngụy biện: người rơm và 18 lối tắt khác](nguy-bien.md) — nhận diện khi chính mình (hoặc người khác) đang đấm bao cát.
 - [Giả định ngầm: diễn giải thiện chí](gia-dinh-ngam.md) — nguyên tắc đọc hiểu trước khi phản biện.
 - [Cách viết một đoạn lập luận](viet-doan-lap-luan.md) — sau khi đã hiểu đối thủ, viết lại lập trường của mình cho chắc.
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Daniel C. Dennett, *Intuition Pumps and Other Tools for Thinking* (New York: W. W. Norton, 2013), phần II, mục "Rapoport's Rules" — bốn quy tắc phê bình mà Dennett ghi công cho nhà tâm lý học xã hội và lý thuyết trò chơi Anatol Rapoport: diễn đạt lại lập trường của đối phương rõ và công bằng đến mức chính họ muốn cảm ơn bạn; nêu những điểm hai bên đồng ý; nêu điều bạn học được từ họ; chỉ sau đó mới phản bác.
 2. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (nguyên tắc diễn giải thiện chí: chọn cách hiểu khiến lập luận đáng tin nhất). <https://plato.stanford.edu/entries/logic-informal/>

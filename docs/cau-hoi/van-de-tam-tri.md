@@ -19,7 +19,7 @@ Vậy cơn đau của bạn "ở đâu"? Nó không ở trong chiếc răng — 
 
 Câu hỏi này — tâm trí quan hệ thế nào với thân thể? — là một trong những câu hỏi xưa nhất của triết học, và đến nay vẫn chưa có lời đáp được mọi người chấp nhận.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng y học tương lai có một chiếc máy quét hoàn hảo. Nó ghi lại mọi thứ đang diễn ra trong não bạn, đến từng nguyên tử, khi bạn đang đau răng: neuron nào bắn, chất dẫn truyền nào được giải phóng, vùng não nào sáng lên.
@@ -30,7 +30,7 @@ Câu hỏi này — tâm trí quan hệ thế nào với thân thể? — là m�
 
 Hãy tự trả lời trước khi đọc tiếp. Chú ý xem câu trả lời của bạn nghiêng về phía nào: cơn đau *là* hoạt động của não, hay cơn đau là *một thứ gì đó khác* mà hoạt động của não đi kèm?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên thật ra chứa ba câu hỏi khác nhau.
 
@@ -42,7 +42,7 @@ Thí nghiệm trên thật ra chứa ba câu hỏi khác nhau.
 
 Bài [Một cỗ máy có thể có tâm trí không?](tam-tri-va-ai.md) đã hỏi về tâm trí của *máy móc*. Bài này hỏi về tâm trí của *chính chúng ta*.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Nhị nguyên luận: tâm trí là một thực thể khác hẳn thân thể
 
@@ -105,7 +105,7 @@ Lập luận của Chalmers có ba bước:
 
 **Cách đáp lại.** Chalmers phân biệt "tưởng tượng sơ sài" với "tưởng tượng sau khi suy xét lý tính đầy đủ". Ông cho rằng với zombie, càng suy xét kỹ ta càng thấy không có mâu thuẫn nào lộ ra — khác với trường hợp nước/H₂O, nơi khoa học đã chỉ ra được vì sao trực giác sai. Cuộc tranh luận này, đến nay, vẫn là một trong những điểm nóng nhất của triết học tâm trí.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 hỏi 1.785 triết gia chuyên nghiệp. Số liệu là tỉ lệ "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -133,7 +133,7 @@ Vài điều đáng chú ý:
 
 Như mọi khảo sát, số đông không quyết định chân lý. Nhưng nó cho thấy câu hỏi thân–tâm vẫn hoàn toàn bỏ ngỏ.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Bệnh tâm thần: não hay tâm?** Người bị trầm cảm nặng được cho thuốc tác động lên chất dẫn truyền thần kinh, và nhiều người đỡ. Cũng người ấy đi trị liệu tâm lý — chỉ nói chuyện — và cũng đỡ. Nếu tâm trí chỉ là não, vì sao lời nói có tác dụng? Nếu tâm trí tách khỏi não, vì sao viên thuốc có tác dụng? Thực tế lâm sàng không đứng hẳn về bên nào; nó gợi ý rằng phân biệt "bệnh của não" với "bệnh của tâm" có thể là một phân biệt thô sơ. Điều này quan trọng vì cách ta gọi tên bệnh ảnh hưởng đến sự kỳ thị: "bệnh tâm thần" vẫn bị nhiều người hiểu như "bệnh tưởng tượng", trong khi đau khổ của người bệnh là thật như cơn đau răng đầu bài.
 
@@ -141,7 +141,7 @@ Như mọi khảo sát, số đông không quyết định chân lý. Nhưng nó
 
 **"Tâm bệnh".** Lo âu kéo dài gây đau dạ dày thật, mất ngủ thật, rụng tóc thật. Người ta hay nói "bệnh đó là do tâm lý" với hàm ý "không có thật". Nhưng nếu tâm trí và thân thể tương tác hai chiều như kinh nghiệm cho thấy, thì một nguyên nhân "tâm lý" gây ra hậu quả "thân thể" thật chẳng có gì bí ẩn — đó chính là vấn đề tương tác của Công chúa Elisabeth, phiên bản đời thường.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Đoạn dưới đây trích Suy niệm VI của Descartes, theo bản dịch tiếng Anh của John Veitch (phạm vi công cộng), kèm bản dịch tiếng Việt.
 
@@ -156,7 +156,7 @@ Câu hỏi dẫn dắt:
 2. Vì sao Descartes phải thêm cụm "có thể tồn tại mà không cần nó"? Nếu tâm trí và thân thể chỉ *khác nhau* nhưng không thể tách rời, lập luận của ông còn đứng vững không?
 3. Công chúa Elisabeth sẽ hỏi gì ngay sau đoạn này? Hãy viết câu hỏi của bà bằng lời của bạn.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -172,7 +172,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Một người bạn nói: "Đau răng không ở trong răng, nó ở trong đầu — bằng chứng là răng bạn hoàn toàn khỏe mà bạn vẫn đau." Bạn đồng ý với bạn mình không? Hãy dùng ít nhất một lập trường trong bài (nhị nguyên luận, thuyết đồng nhất, lập luận Mary, lập luận zombie) để bảo vệ hoặc bác bỏ câu nói đó.
 
@@ -185,7 +185,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có nêu ít nhất một phản bác cho lập trường của mình và đáp lại nó không?
     - Bài viết có ví dụ cụ thể và tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/dualism/>
 2. Stoljar, Daniel, "Physicalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/physicalism/>

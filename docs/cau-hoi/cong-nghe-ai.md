@@ -17,7 +17,7 @@ Bạn thức dậy, điện thoại đã chọn sẵn tin tức cho bạn đọc
 
 Ngành triết học hỏi những câu này có tên là **triết học công nghệ** (*philosophy of technology*). Câu hỏi cốt lõi của nó đơn giản đến đáng sợ: công nghệ chỉ là *công cụ* trung lập trong tay con người, hay nó đang *định hình lại* chính con người — cách ta nghĩ, ta nhớ, ta yêu, ta là ai?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng "Trợ lý Hoàn hảo": một AI lo mọi việc trong đời bạn. Nó chọn nghề phù hợp nhất với năng lực của bạn, sắp xếp lịch trình tối ưu, nhắc bạn gọi điện cho mẹ đúng lúc mẹ cần, thậm chí gợi ý bạn nên yêu ai (dựa trên dữ liệu về hàng triệu cặp đôi hạnh phúc). Mọi quyết định của nó đều *đúng*: bạn khỏe hơn, giàu hơn, các mối quan hệ tốt đẹp hơn. Bạn không phải lo nghĩ gì nữa — chỉ cần sống và tận hưởng.
@@ -28,7 +28,7 @@ Ngành triết học hỏi những câu này có tên là **triết học công 
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa hai câu hỏi khác nhau.
 
@@ -46,7 +46,7 @@ Hai câu hỏi này liên quan nhưng khác nhau. Bạn có thể tin công ngh�
 
 Người phản đối có thể tấn công tiền đề 2: AI hiện đại không còn giống cái búa hay con dao nữa — nó *tự* đề xuất mục tiêu, *tự* học thói quen của ta, và *tự* định hình môi trường lựa chọn của ta. Khi công cụ bắt đầu "muốn" điều gì đó (dù chỉ theo nghĩa ẩn dụ), tiền đề 2 còn đúng không?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Công nghệ trung lập: lỗi ở người dùng, không ở công cụ
 
@@ -87,7 +87,7 @@ Jacques Ellul, trong *La Technique* (1954, bản tiếng Anh *The Technological 
 
 **Cách đáp lại.** Người theo chủ nghĩa siêu nhân loại đáp: bất bình đẳng là vấn đề của *phân phối*, không phải của *công nghệ* — vaccine ban đầu cũng chỉ người giàu có, rồi dần phổ cập; giải pháp là chính sách công bằng, không phải cấm tiến bộ. Về ý nghĩa, họ nói: đó là một canh bạc triết học — ta không biết đời sống bất tử sẽ ra sao, nhưng ta cũng không biết liệu sự hữu hạn có thực sự cần thiết cho ý nghĩa không; có những niềm vui (học hỏi, sáng tạo, yêu thương) không hề cần đến cái chết để có ý nghĩa. Về rủi ro AI, họ đồng ý hoàn toàn — và đó chính là lý do phải nghiên cứu *an toàn AI* (*AI safety*) ngay từ bây giờ, thay vì vừa phát triển vừa bịt mắt.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 diễn ra cuối năm 2020 — **trước** khi ChatGPT ra mắt (30/11/2022). Điều này rất quan trọng khi đọc các con số dưới đây: "AI hiện tại" trong khảo sát là AI của năm 2020, chưa phải thế giới của chatbot và mô hình ngôn ngữ lớn hôm nay.
 
@@ -114,7 +114,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Nhớ rằng số đông không quyết định chân lý, và khảo sát này đã cũ so với tốc độ của AI. Nếu khảo sát lại hôm nay, các con số về AI gần như chắc chắn sẽ khác — nhưng khác theo hướng nào thì chưa ai biết.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Mạng xã hội và sự chú ý.** Đây là ứng dụng trực tiếp nhất của lập trường 2. Bạn mở điện thoại để "xem giờ", 40 phút sau bạn đang xem video về một người lạ nấu ăn. Chuyện gì đã xảy ra? Không phải bạn "quyết định" xem 40 phút video — mà là một hệ thống được thiết kế bởi hàng nghìn kỹ sư, tối ưu bằng dữ liệu của hàng tỷ người, đã *dẫn dắt* bạn đến đó. Lập trường 1 sẽ nói: lỗi ở bạn, sao không tự chủ? Lập trường 2 sẽ hỏi ngược: một "lựa chọn" mà một bên là cá nhân mệt mỏi sau ngày làm việc, bên kia là siêu máy tính được tối ưu để thắng — đó có còn là lựa chọn công bằng không? Bạn không cần đồng ý với Heidegger để thấy câu hỏi này đáng giá.
 
@@ -126,7 +126,7 @@ Nhớ rằng số đông không quyết định chân lý, và khảo sát này 
 
 **AI và công việc: ai bị thay thế đầu tiên?** Một câu hỏi rất thực tế mà triết học công nghệ ít bàn nhưng ai cũng lo: khi AI làm được việc của bạn, bạn còn giá trị gì? Lập trường 1 sẽ nói: đó là vấn đề kinh tế–chính sách (thu nhập cơ bản phổ quát? đào tạo lại?), không phải vấn đề triết học. Lập trường 2 sẽ hỏi sâu hơn: nếu giá trị của con người lâu nay gắn với "năng suất lao động" — một cách nhìn đậm chất Gestell — thì có lẽ khủng hoảng không phải do AI, mà do ta đã tự định nghĩa mình quá hẹp từ trước khi AI xuất hiện. Biết đâu AI, bằng cách lấy đi "việc làm", lại buộc ta trả lời câu hỏi mà ta đã tránh từ lâu: con người đáng giá vì *làm* được gì, hay vì *là* ai?
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 "Die Frage nach der Technik" (1954) của Heidegger vẫn còn bản quyền, nên dưới đây là tóm tắt luận điểm trung tâm bằng lời mình.
 
@@ -140,7 +140,7 @@ Câu hỏi dẫn dắt:
 2. Ông nói nguy hiểm lớn nhất không phải là máy móc mà là *cách nhìn*. Bạn có đồng ý không? Hãy nghĩ về một ví dụ cụ thể: khi nào thì bạn nhận ra mình đang nhìn một con người (kể cả chính mình) như "nguồn lực"?
 3. "Sự thanh thản trước kỹ thuật" nghe có vẻ trừu tượng. Hãy cụ thể hóa: một ngày "thanh thản với smartphone" của bạn sẽ trông như thế nào — và điều gì khiến nó khó thực hiện?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -160,7 +160,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy chọn một công nghệ bạn dùng hàng ngày (mạng xã hội, AI chatbot, ứng dụng giao đồ ăn...). Hãy phân tích nó bằng cả ba lập trường trong bài: (1) nó "trung lập" ở chỗ nào và không trung lập ở chỗ nào? (2) nó đang định hình bạn như thế nào mà bạn không hay? (3) nếu có một phiên bản "tăng cường" của nó, bạn có muốn không — và với cái giá nào?
 
@@ -173,7 +173,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Với lập trường 3, bạn có nêu được cái giá (bất bình đẳng? mất ý nghĩa? rủi ro?) chứ không chỉ hào hứng với viễn cảnh?
     - Bài viết có tránh được giọng "công nghệ thật đáng sợ" sáo rỗng, thay bằng phân tích cụ thể không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Franssen, Maarten, Ibo van de Poel, Michael Klenk & Filippo Santoni de Sio, "Philosophy of Technology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/technology/>
 2. Heidegger, Martin (1954), "Die Frage nach der Technik" (bài giảng năm 1953), trong *Vorträge und Aufsätze*, Pfullingen: Neske; và (1959), *Gelassenheit* (bài nói năm 1955), Pfullingen: Neske — bản tiếng Anh "Memorial Address" trong *Discourse on Thinking*, bản dịch John M. Anderson & E. Hans Freund. Năm đọc và năm in theo mục "Heidegger" của *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/entries/heidegger/>

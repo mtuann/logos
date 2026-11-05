@@ -10,7 +10,7 @@ Khi đế chế La Mã sụp đổ (thế kỷ 5), châu Âu bước vào một 
 
 Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố Toledo (Tây Ban Nha) trở thành "nhà máy dịch thuật" của châu Âu — các học giả Kitô giáo và Do Thái, giữa một cộng đồng đông người nói tiếng Ả Rập, cùng dịch sang tiếng Latinh các tác phẩm tiếng Ả Rập — cả bản dịch [Aristotle](../triet-gia/aristotle.md) lẫn trước tác của chính các triết gia Hồi giáo như [Avicenna](../triet-gia/avicenna.md). Cùng lúc, các đại học đầu tiên ra đời: Paris, Oxford, Bologna. Triết học trung cổ không diễn ra trong tháp ngà cô độc, mà trong các giảng đường tranh biện nảy lửa — sinh viên được đào tạo bằng cách *tranh luận* theo đúng phương pháp của Aristotle.
 
-## Augustine: nội tâm và thành phố của Chúa
+## Augustine: nội tâm và thành phố của Chúa {#augustine-noi-tam-va-thanh-pho-cua-chua}
 
 **[Augustine](../triet-gia/augustine.md) thành Hippo** (354–430) là triết gia Kitô giáo có ảnh hưởng sâu rộng nhất thời cổ đại muộn. Trước khi cải đạo, ông từng theo nhiều trường phái; cuốn *Tự thú* (*Confessions*, 397–400) — một trong những tự truyện đầu tiên của nhân loại — kể lại hành trình nội tâm đầy giằng xé của ông, mở đầu bằng ý tưởng nổi tiếng (diễn ý): con người được tạo dựng hướng về Chúa, nên lòng luôn khắc khoải cho đến khi nghỉ yên trong Ngài.
 
@@ -20,11 +20,11 @@ Tư tưởng cốt lõi của Augustine có hai trụ cột. Thứ nhất, ông 
 
 Ông cũng để lại một lập luận về **vấn đề sự dữ** mà các triết gia vẫn bàn: nếu Chúa tốt lành và toàn năng, vì sao có đau khổ? Đáp án của Augustine: sự dữ không phải một "thứ" Chúa tạo ra, mà là sự *thiếu vắng* điều thiện — như bóng tối là thiếu ánh sáng. Kẻ làm điều ác không theo một sức mạnh đối lập với Chúa, mà quay lưng lại với điều thiện. Lời giải này — gọi là **thuyết thiếu vắng** (*privation theory*) — vẫn là một trong những câu trả lời có ảnh hưởng nhất cho đến hôm nay.
 
-## Anselm: đức tin đi tìm hiểu biết
+## Anselm: đức tin đi tìm hiểu biết {#anselm-duc-tin-di-tim-hieu-biet}
 
 **[Anselm](../triet-gia/anselm.md) xứ Canterbury** (1033–1109), tu sĩ ở tu viện Bec, sau làm tổng giám mục Canterbury (từ 1093), nối tiếp tinh thần của Augustine. Phương châm của ông là "đức tin đi tìm hiểu biết" (*fides quaerens intellectum*): tin trước, rồi dùng lý lẽ để hiểu điều mình tin. Trong *Proslogion* (1077–1078), ông đưa ra **luận chứng bản thể luận**: Thượng đế là "cái mà không thể nghĩ ra gì lớn hơn"; nếu cái ấy chỉ có trong trí, ta lại nghĩ được một cái lớn hơn, là chính nó nhưng có thật, nên nó phải có thật. Cùng thời, tu sĩ Gaunilo đáp lại bằng hình ảnh "hòn đảo hoàn hảo nhất"; cuộc tranh luận ấy được bàn kỹ trong bài [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md).
 
-## Các triết gia Hồi giáo: những người giữ Aristotle
+## Các triết gia Hồi giáo: những người giữ Aristotle {#cac-triet-gia-hoi-giao-nhung-nguoi-giu-aristotle}
 
 Trong khi châu Âu mất dần tiếng Hy Lạp, thế giới Hồi giáo từ thế kỷ 8 đã dịch ồ ạt các tác phẩm Hy Lạp sang tiếng Ả Rập. Hai tên tuổi lớn nhất:
 
@@ -36,13 +36,13 @@ Vì sao quan trọng? Các bản dịch và chú giải Ả Rập là một tron
 
 Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (khoảng 1056–1111), nhà thần học Ba Tư, trong *Sự sụp đổ của các triết gia* (*Tahafut al-Falasifa*, khoảng 1095) đã tấn công dữ dội triết học Hy Lạp hóa — cho rằng các triết gia như Avicenna đi quá xa, đặt lý trí lên trên mặc khải. Chính tác phẩm *Sự sụp đổ của sự sụp đổ* (*Tahafut al-Tahafut*) của Averroes là lời đáp trả al-Ghazali. Cuộc tranh luận ba bên này — triết học, thần học bảo thủ, triết học tự vệ — là khuôn mẫu cho mọi cuộc xung đột đức tin–lý trí về sau.
 
-## Maimonides: lý trí trong Do Thái giáo
+## Maimonides: lý trí trong Do Thái giáo {#maimonides-ly-tri-trong-do-thai-giao}
 
 **[Maimonides](../triet-gia/maimonides.md)** (Moses ben Maimon, 1138–1204) — triết gia Do Thái lớn nhất thời trung cổ, đồng thời là thầy thuốc của triều đình Ai Cập — đối mặt với cùng câu hỏi như Averroes nhưng từ phía Do Thái giáo. Trong *Chỉ dẫn cho người hoang mang* (*Guide for the Perplexed*, khoảng 1190), ông lập luận rằng Kinh thánh Do Thái, khi đọc theo nghĩa đen, đôi khi gán cho Chúa những thuộc tính con người (tay, mắt, cơn giận); lý trí triết học giúp ta hiểu đó là ngôn ngữ ẩn dụ, còn Chúa thật sự vượt lên trên mọi thuộc tính tích cực — ta chỉ có thể nói Chúa *không phải* là gì (không có thân thể, không thay đổi), chứ không thể nói Chúa *là* gì.
 
 Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau ảnh hưởng đến cả các nhà tư tưởng Kitô giáo như Aquinas. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
 
-## Aquinas: cuộc hôn phối của đức tin và lý trí
+## Aquinas: cuộc hôn phối của đức tin và lý trí {#aquinas-cuoc-hon-phoi-cua-duc-tin-va-ly-tri}
 
 **Thomas Aquinas** (khoảng 1225–1274), tu sĩ dòng Đa Minh người Ý, là người thực hiện cuộc tổng hợp lớn nhất thời trung cổ: đem triết học Aristotle (vừa được dịch gần trọn sang tiếng Latinh, một phần qua tiếng Ả Rập và các chú giải Hồi giáo) hòa vào thần học Kitô giáo.
 
@@ -54,7 +54,7 @@ Nổi tiếng nhất là **năm con đường** (*Five Ways*) chứng minh Chúa
 
 Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*) của Aquinas — ý tưởng rằng lý trí con người có thể nhận ra những nguyên tắc đạo đức phổ quát (đừng giết người, giữ lời hứa) mà không cần mặc khải. Học thuyết này trở thành nền tảng của tư tưởng về quyền con người và luật quốc tế trong nhiều thế kỷ sau.
 
-## Tóm tắt dòng thời gian
+## Tóm tắt dòng thời gian {#tom-tat-dong-thoi-gian}
 
 | Khoảng thời gian | Nhân vật | Ý chính |
 |---|---|---|
@@ -66,13 +66,13 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 | 1138–1204 | Maimonides | Thần học phủ định; Kinh thánh đọc bằng ẩn dụ |
 | k. 1225–1274 | Aquinas | Tổng hợp đức tin + lý trí; năm con đường; luật tự nhiên |
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - Các lập luận chứng minh Chúa tồn tại (trong đó có năm con đường của Aquinas): [Chứng minh Chúa tồn tại?](../cau-hoi/luan-chung-ton-giao.md)
 - Vấn đề sự dữ — thách thức lớn nhất cho niềm tin vào Chúa tốt lành: [Vì sao có đau khổ?](../cau-hoi/van-de-su-du.md)
 - Quan niệm của Augustine về thời gian: [Thời gian có trôi không?](../cau-hoi/thoi-gian.md)
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Augustine, *Confessions* (397–400); *City of God* (413–426) — bản dịch tiếng Anh công cộng.
 2. Anselm, *Proslogion* (1077–1078) — bản dịch tiếng Anh công cộng của Sidney Norton Deane (1903).

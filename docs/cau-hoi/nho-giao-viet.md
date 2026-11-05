@@ -22,7 +22,7 @@ Bài này cũng không phải là bài ca ngợi hay bài phê phán Nho giáo. 
 
 > **Cách đọc nhãn độ chắc chắn trong bài này:** mỗi khẳng định về lịch sử/tư tưởng Việt Nam được gắn một nhãn — **[chắc chắn]** (có văn bản gốc hoặc nguồn mốc xác nhận), **[có cơ sở]** (học giới đa số đồng thuận nhưng bằng chứng chưa hoàn toàn rõ), **[suy đoán]** (diễn giải của người viết hoặc thiểu số học giả).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng hai người cùng học một cuốn sách dạy nấu ăn của nước ngoài.
@@ -35,7 +35,7 @@ Bài này cũng không phải là bài ca ngợi hay bài phê phán Nho giáo. 
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được dựng hoặc tu sửa (chữ 脩 trong *Toàn thư* hiểu được cả hai cách) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học đầu tiên của nhà nước — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
 
@@ -54,7 +54,7 @@ Câu hỏi của bài này có hai lớp:
 
 Có một nghịch lý đáng chú ý ngay từ đầu: Nho giáo đến Việt Nam như công cụ của kẻ đô hộ, nhưng chính nó lại đào tạo ra những người lật đổ ách đô hộ **[suy đoán]** (diễn giải về vai trò lịch sử; cần thận trọng vì Nho giáo thời Bắc thuộc chưa phải là lực lượng chống đối có tổ chức). Nghịch lý ấy — vũ khí của kẻ thù thành vũ khí của mình — là sợi chỉ đỏ của cả bài này.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Tiếp thu: Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa
 
@@ -103,7 +103,7 @@ Hãy thử định nghĩa "truyền thống" như một khái niệm triết h�
 
 **Cách đáp lại:** sự biến đổi của truyền thống không phải tùy tiện — nó phải *trả lời được* cho quá khứ: Nguyễn Trãi vẫn nói ngôn ngữ của Nho giáo (nhân, nghĩa, dân), chỉ là ông nói một câu mới bằng ngôn ngữ cũ. Phá bỏ hoàn toàn ngôn ngữ cũ thì không còn là "viết tiếp" mà là "viết khác".
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt Nam, nên không có số liệu để trích. Bức tranh học thuật trong nước:
 
@@ -113,7 +113,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 - **Một góc nhìn bổ sung:** có học giả lưu ý rằng chính Nho giáo Trung Hoa cũng không đồng nhất — Nho gia thời Chiến Quốc khác Tống Nho, Tống Nho khác Hán Nho **[chắc chắn]**. Vậy câu hỏi "Nho giáo Việt có phải là Nho giáo thật không?" có thể đặt ngược lại: có "Nho giáo thật" nào để so sánh không, hay mọi Nho giáo đều là Nho giáo của một nơi, một thời? **[suy đoán]** (câu hỏi gợi mở; không phải luận điểm đã thành hình trong học giới).
 - Nguồn mốc: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình của Viện Triết học, thuộc cụm công trình "Lịch sử tư tưởng Việt Nam" được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016 **[chắc chắn]**.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Giữ gìn bản sắc" nghĩa là gì?** Mỗi dịp lễ hội, ta lại nghe kêu gọi "giữ gìn bản sắc dân tộc". Nhưng bản sắc là cái gì — áo dài (vốn chịu ảnh hưởng phương Tây đầu thế kỷ 20 **[có cơ sở]**)? Tiếng Việt (vốn vay mượn hàng nghìn từ Hán)? Chính Nho giáo — một học thuyết "ngoại lai" — từng là một phần của bản sắc ấy. Bài này gợi ý: bản sắc không phải là cái *nguyên chất*, mà là cái đã được *tiêu hóa* thành của mình.
 
@@ -125,7 +125,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 **Người Việt học triết Tây.** Hôm nay, sinh viên Việt Nam đọc [Kant](../triet-gia/kant.md), đọc [Rawls](../triet-gia/rawls.md), đọc triết học phân tích bằng tiếng Anh. Câu chuyện Nho giáo đặt ra một câu hỏi cho họ: một trăm năm nữa, liệu có "triết học phân tích Việt Nam" không — và nó sẽ khác triết học phân tích ở Oxford ra sao? Câu trả lời có lẽ nằm ở chính mô hình cũ: đọc kỹ nguyên bản, nhưng trả lời câu hỏi của đời mình **[suy đoán]**.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Dưới đây là hai câu mở đầu *Bình Ngô đại cáo* của Nguyễn Trãi (văn bản chữ Hán, 1428 — đã hết bản quyền), kèm câu dịch quen thuộc trong sách giáo khoa (chưa xác định chắc chắn người dịch).
 
@@ -143,7 +143,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: hướng dẫn đọc [*Bình Ngô đại cáo*](../doc/nguyen-trai-binh-ngo.md) và [*Luận ngữ*](../doc/luan-ngu.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -159,7 +159,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Gia đình bạn có một phong tục ngày Tết mà bạn thấy đã lỗi thời (ví dụ: mâm cỗ phải đúng món, con cháu phải làm đúng nghi thức). Hãy dùng "định nghĩa động về truyền thống" trong bài để viết một đoạn đối thoại với người lớn trong nhà: bạn sẽ đề xuất thay đổi phong tục ấy như thế nào mà vẫn là "viết tiếp" chứ không phải "viết khác"?
 
@@ -171,7 +171,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có chỉ ra được *cái gì được giữ lại* (ngôn ngữ/cốt lõi của phong tục) và *cái gì thay đổi* không?
     - Giọng văn có tôn trọng người lớn, không phải giọng cãi vã không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.

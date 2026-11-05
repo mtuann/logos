@@ -19,7 +19,7 @@ Câu chuyện tuyết là một mở đầu phù hợp cho bài này, vì nó ch
 
 Bài này thuộc về triết học ngôn ngữ, nhưng câu hỏi của nó rất gần với [tri thức luận](tri-thuc.md): nếu tiếng mẹ đẻ định hình cách ta nghĩ, thì "tri thức" của ta có bị giam trong ngôn ngữ không?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản: một từ cho các màu tối/lạnh, một từ cho các màu sáng/nóng. Không có từ riêng cho "đỏ", "xanh", "vàng".
@@ -30,7 +30,7 @@ Bài này thuộc về triết học ngôn ngữ, nhưng câu hỏi của nó r�
 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Chú ý xem trực giác của bạn nghiêng về phía nào: ngôn ngữ chỉ là cái nhãn dán lên tư duy có sẵn, hay ngôn ngữ nặn ra tư duy?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Câu hỏi này có tên là **giả thuyết Sapir-Whorf**, theo tên hai nhà ngôn ngữ học Edward Sapir và Benjamin Lee Whorf. Nó có hai phiên bản, mạnh yếu khác nhau, và số phận của chúng cũng khác nhau:
 
@@ -52,7 +52,7 @@ Có một góc nhìn khác, cũng rắc rối không kém: vấn đề *dịch t
 </figure>
 <!-- /fig:tam-giac-quy-chieu -->
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Phiên bản mạnh: ngôn ngữ quyết định thế giới của ta
 
@@ -100,7 +100,7 @@ Hãy xét từ "đau". Dường như nghĩa của nó là *cảm giác riêng t�
 
 Một cách diễn đạt khác của cùng ý tưởng: hãy so từ "đau" với một tên riêng như "Hà Nội". "Hà Nội" có nghĩa nhờ gắn với một thành phố cụ thể mà ta có thể chỉ ra. Sai lầm, theo Wittgenstein, là tưởng rằng *mọi* từ đều hoạt động như tên riêng — rằng "đau" cũng phải gắn với một "vật" nào đó (cảm giác riêng tư). Nhưng từ ngữ có nhiều nghề khác nhau: có từ để gọi tên, có từ để bày tỏ ("Ái chà!"), có từ để hứa hẹn, có từ để đùa. Hiểu được "ngữ pháp" riêng của từng loại từ — đó chính là điều *Philosophical Investigations* muốn dạy ta.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về giả thuyết Sapir-Whorf hay về quan hệ giữa ngôn ngữ và tư duy, nên **chưa có số liệu khảo sát riêng cho câu hỏi của bài**. Khảo sát có vài câu về triết học ngôn ngữ (tên riêng, lý thuyết quy chiếu, khái niệm), nhưng chúng hỏi những chuyện khác. Câu gần nhất là một câu bổ sung về chính Wittgenstein, nhân vật của lập trường thứ ba:
 
@@ -122,7 +122,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Quine thì đứng ở một cực khác:** ông nghi ngờ cả ý niệm "nghĩa" như một thực thể ổn định. Giữa Wittgenstein ("nghĩa nằm ở cách dùng") và Quine ("chẳng có nghĩa xác định nào để mà tìm"), triết học ngôn ngữ thế kỷ 20 dường như đồng ý về một điều: nghĩa của từ không phải là một "vật" nằm trong đầu chờ ta chỉ ra.
 - **Một điểm đồng thuận hiếm hoi:** dù bất đồng về nhiều thứ, hầu hết các bên đều đồng ý rằng *giai thoại* không thay thế được *nghiên cứu* — và bài học từ câu chuyện tuyết Eskimo đầu bài áp dụng cho chính cuộc tranh luận này: một ví dụ hay không cứu được một lý thuyết dở.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Học ngoại ngữ có làm ta "nghĩ khác"?** Theo phiên bản yếu, câu trả lời là "có, một chút, theo những cách cụ thể". Người học tiếng Anh bắt đầu chú ý đến thì của động từ hơn; người học tiếng Việt bắt đầu nghe ra những sắc thái của từ láy mà trước đây bỏ qua. Không phải một bộ não mới — mà là những thói quen chú ý mới. Đây cũng là một lý do thực tế để học ngoại ngữ, ngoài chuyện giao tiếp.
 
@@ -138,7 +138,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 **Dịch thuật và "bản sắc".** Người Việt hay tự hào rằng tiếng Việt "giàu và đẹp" — và lo rằng dùng nhiều từ ngoại lai sẽ làm "mất bản sắc". Giả thuyết Sapir-Whorf ở phiên bản cực đoan có thể nuôi dưỡng nỗi lo này: nếu ngôn ngữ quyết định tư duy, thì vay mượn từ ngữ là vay mượn cả tư duy. Nhưng phiên bản yếu cho một cái nhìn bình tĩnh hơn: tiếng Việt đã vay mượn hàng nghìn năm (từ Hán, từ Pháp, từ Anh) mà vẫn là tiếng Việt — vì cái làm nên một ngôn ngữ không phải là danh sách từ vựng, mà là cách cộng đồng dùng nó để sống cùng nhau. Đúng tinh thần Wittgenstein: ngôn ngữ là thực hành, không phải bảo tàng.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: các văn bản trung tâm của bài này — Whorf (1956), Berlin & Kay (1969), Pinker (1994), Wittgenstein (1953) — đều còn bản quyền (bản dịch tiếng Việt của Wittgenstein cũng vậy), nên bài này tóm tắt lập luận bằng lời mình thay vì trích dài.
 
@@ -150,7 +150,7 @@ Câu hỏi dẫn dắt:
 2. Nếu ý nghĩa của "đau" nằm ở cách dùng công cộng, thì một người sống hoàn toàn một mình từ nhỏ (giả sử sống sót được) có thể có từ "đau" không?
 3. Lập luận này, nếu đúng, sẽ gây khó khăn gì cho thuyết quyết định ngôn ngữ (phiên bản mạnh)?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -166,7 +166,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy nghĩ về một từ trong tiếng Việt mà bạn thấy nó "định hình" cách người Việt nghĩ — ví dụ các từ chỉ quan hệ họ hàng (anh/chị/em phân biệt tuổi tác), từ láy diễn tả cảm xúc, hay một từ mà tiếng Anh không có từ tương đương gọn. Dùng ít nhất một khái niệm trong bài (phiên bản mạnh/yếu, trò chơi ngôn ngữ, ngôn ngữ riêng tư) để phân tích: từ đó định hình tư duy theo nghĩa nào?
 
@@ -179,7 +179,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có xét đến khả năng người không có từ đó vẫn nghĩ được điều tương tự (phản bác kiểu Pinker) không?
     - Bài viết có ví dụ cụ thể, câu ngắn, tránh khẳng định không có lý do không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Sapir, Edward (1929), "The Status of Linguistics as a Science", *Language* 5(4): 207–214.
 2. Whorf, Benjamin Lee (1956), *Language, Thought, and Reality* (J. B. Carroll chủ biên), Cambridge, MA: MIT Press.

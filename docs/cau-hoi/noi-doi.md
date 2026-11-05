@@ -20,7 +20,7 @@ Có những lời nói dối nhẹ hơn mà ta nói hằng ngày, thường gọ
 
 Vậy có bao giờ được nói dối không? Câu hỏi chứa hai câu hỏi lồng nhau. *Thế nào mới là nói dối*: nếu chị cả chỉ nói "bố phải điều trị lâu dài", câu ấy đúng, nhưng có còn là lừa không? Và nếu nói dối là sai, thì *sai vì sao*?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Gần nửa đêm, người bạn thân của bạn đập cửa, mặt cắt không còn giọt máu: có kẻ cầm dao đang đuổi theo. Bạn giấu bạn mình lên gác xép. Vài phút sau, một người đàn ông lạ gõ cửa, giọng điềm tĩnh: "Bạn tôi vừa chạy qua đây, anh ấy có trong nhà anh chị không?" Bạn thấy vệt máu trên tay áo hắn.
@@ -34,7 +34,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
     Vài biến thể để thử thêm. (1) Bạn nói một câu đúng: "Chiều nay tôi thấy anh ấy ở bến xe." Như thế có "sạch" hơn không? (2) Bạn từ chối trả lời và đóng cửa. (3) Bạn nói dối, nhưng hóa ra người bạn đã lẻn ra ngõ sau và chạm mặt kẻ kia: bạn có phần trách nhiệm không? (4) Thay kẻ lạ bằng người bố ở đầu bài, hỏi: "Bố bị gì thế?" Câu trả lời của bạn có còn như cũ?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất: thế nào mới là nói dối?** Mục từ "The Definition of Lying and Deception" của *Stanford Encyclopedia of Philosophy* (SEP) gọi đây là định nghĩa truyền thống: **nói dối** (*lying*) là đưa ra một khẳng định mình tin là sai, cho người khác, với ý định người đó tin nó là thật. Định nghĩa này tách nói dối khỏi những thứ hay bị nhập vào nó (về cách thử một định nghĩa, xem [Thế nào là một định nghĩa tốt?](../cong-cu/dinh-nghia-phan-vi-du.md)):
 
@@ -49,7 +49,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: sai đến mức nào?** Tuyệt đối, hay chỉ sai "mặc định" và có thể bị lý do mạnh hơn lấn át?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Tuyệt đối cấm: không bao giờ được nói dối
 
@@ -99,7 +99,7 @@ Sissela Bok (*Lying*, 1978) siết lại ý tưởng này: theo **nguyên tắc 
 
 **Cách đáp lại.** Phép thử công khai của Bok chặn được đúng thói gia trưởng ấy: người nói dối phải đứng trước người bị lừa và những người biết lẽ phải thay vì tự phán xử, và nhiều lời nói dối "vì thương" khó qua được. Với Kant, phe này có thể nhận lời sửa: điều họ muốn nói là quyền được người khác *trung thực* với mình, không phải quyền sở hữu sự thật; rồi hỏi lại: kẻ sát nhân có còn quyền ấy không?
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về nói dối. Hai câu gần nhất chỉ cho biết bối cảnh: một câu chính (hỏi mọi người tham gia) về lý thuyết đạo đức chuẩn tắc, và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về vai trò của nguyên tắc trong đạo đức.
 
@@ -120,7 +120,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Câu bổ sung có ít người trả lời hơn, phần lớn là người tự nguyện làm thêm. Khảo sát diễn ra cuối năm 2020, trước khi chatbot AI phổ biến; và số đông không quyết định điều gì là đúng.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Giấu bệnh cha mẹ: thương hay tước quyền?** Quay lại phòng họp gia đình. Kant: không được nói "viêm loét", nhưng cũng không bắt bạn đọc bệnh án cho bố nghe ngay tối nay. Mill: có thể giấu nếu đó là cách duy nhất che chở bố khỏi một điều ác lớn; nhưng điều ác ấy là nỗi sợ của bố, hay sự khó xử của các con? Grotius hỏi: bố có đồng ý được giấu nếu biết không? Bok hỏi: các con có dám nói to quyết định ấy trước mặt bố? Giữa nói dối và nói hết còn nhiều lối, như hỏi bố muốn biết đến đâu, để bác sĩ nói dần; còn câu "điều trị lâu dài" nói ra để đánh lạc hướng, theo Saul, không trong sạch hơn câu "viêm loét".
 
@@ -130,7 +130,7 @@ Câu bổ sung có ít người trả lời hơn, phần lớn là người tự
 
 **Chatbot "bịa" và deepfake: máy có nói dối không?** Một chatbot trả lời tự tin, kèm trích dẫn từ một cuốn sách không tồn tại. Theo định nghĩa truyền thống, đó không phải nói dối, vì khó nói một mô hình ngôn ngữ "tin" hay "định" điều gì (xem [Một cỗ máy có thể có tâm trí không?](tam-tri-va-ai.md)). Hicks, Humphries và Slater (2024) đề nghị gọi nó là nói nhảm theo nghĩa của Frankfurt, vì các mô hình này thờ ơ với chuyện câu trả lời đúng hay sai (xem thêm [Sự thật là gì?](chan-ly.md)). Deepfake thì khác: máy không nói dối, nhưng người làm và người tung video giả có ý định lừa trọn vẹn. Còn nếu một công ty biết chatbot của mình hay bịa mà vẫn quảng cáo nó là "trợ lý đáng tin cậy", thì ai đang nói nhảm?
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Hai đoạn dưới đây (đều thuộc phạm vi công cộng) cùng bàn chuyện giấu sự thật trước kẻ gian, và đi tới hai kết luận ngược nhau.
 
@@ -152,7 +152,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc "Khai sáng là gì?" của Kant](../doc/kant-khai-sang.md), về việc dám tự mình suy nghĩ, điều mà lời nói dối tước khỏi người nghe.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào lập luận và tình huống mới, không phải thuộc lòng tên tuổi.
 
@@ -168,7 +168,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào l�
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Một người thân lớn tuổi của bạn vừa được chẩn đoán bệnh nặng. Cả nhà muốn giấu; bạn được giao nói chuyện với bác sĩ và với người bệnh. Hãy viết điều bạn sẽ đề xuất với gia đình và bảo vệ nó bằng ít nhất hai lập trường trong bài; rồi tự nêu phản bác mạnh nhất từ một lập trường khác và trả lời.
 
@@ -182,7 +182,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có đứng ở vị trí người bệnh không (phép thử công khai: họ có tán thành quyết định này nếu biết)?
     - Phản bác bạn tự nêu có nhắm vào điểm yếu thật, và câu trả lời có làm hơn việc nhắc lại lập trường ban đầu?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Mahon, James Edwin, "The Definition of Lying and Deception", *Stanford Encyclopedia of Philosophy* (2008, sửa lớn 2015). <https://plato.stanford.edu/entries/lying-definition/>
 2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy* (2004, sửa lớn 2025). <https://plato.stanford.edu/entries/kant-moral/>

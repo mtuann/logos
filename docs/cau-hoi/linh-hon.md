@@ -20,7 +20,7 @@ Câu hỏi "con người có linh hồn không?" là cách nói đời thường
 
 Chữ "linh hồn" trong tiếng Việt thường mang màu sắc tôn giáo, nhưng trong bài này ta dùng nó theo nghĩa triết học: một cái gì đó thuộc về tâm trí mà không quy về được vật chất — dù bạn gọi nó là linh hồn, tâm thức, hay "cái tôi".
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Mary là một nhà khoa học thiên tài về màu sắc. Cô biết *mọi* sự thật vật lý về màu đỏ: bước sóng ánh sáng, cấu tạo võng mạc, mọi nơ-ron nào kích hoạt khi người ta nhìn màu đỏ. Nhưng Mary lớn lên trong một căn phòng chỉ có đen và trắng — cô chưa bao giờ *thấy* màu đỏ.
@@ -36,7 +36,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: hãy tưởng tượng một người có cơ thể và bộ não hoạt động *giống hệt* bạn — mọi nơ-ron bắn đúng như nơ-ron của bạn — nhưng bên trong "tối om": không có trải nghiệm, không có cảm giác gì cả. Các triết gia gọi đó là **zombie triết học**. Nếu một zombie như vậy là có thể về mặt logic (không mâu thuẫn), thì trải nghiệm ý thức phải là cái gì đó *thêm vào* so với vật chất — vì vật chất thì zombie đã có đủ rồi mà ý thức thì không.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm Mary chứa hai câu hỏi khác nhau.
 
@@ -52,7 +52,7 @@ Thí nghiệm Mary chứa hai câu hỏi khác nhau.
 
 Người theo vật lý luận thường tấn công tiền đề 2: Mary không học được sự thật mới nào, cô chỉ có được một *khả năng* mới (khả năng nhận ra màu đỏ) — biết *cái gì* khác với biết *như thế nào*.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường: nhị nguyên luận thực chất (Descartes — có linh hồn tách rời), vật lý luận (không có gì ngoài não), và nhị nguyên luận tính chất (không có linh hồn tách rời, nhưng ý thức không quy về vật lý). Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -86,7 +86,7 @@ Lập trường thứ ba (gắn với David Chalmers, *The Conscious Mind*, 1996
 
 **Cách đáp lại.** Người theo nhị nguyên tính chất đáp: mọi lý thuyết khoa học đều phải dừng ở một số tính chất cơ bản không giải thích được thêm (vật lý cũng không giải thích "vì sao có điện tích" — nó chỉ mô tả điện tích làm gì). Ý thức là một tính chất cơ bản *mới* mà ta phát hiện ra, không có gì đáng xấu hổ. Về ngưỡng: đúng là câu hỏi mở — có thể ý thức gắn với một mức độ tổ chức thông tin nhất định (một số lý thuyết như lý thuyết thông tin tích hợp đang tìm ngưỡng đó). Một lý thuyết còn câu hỏi mở vẫn tốt hơn một lý thuyết phủ nhận hiện tượng (vật lý luận cực đoan) hay đặt ra thực chất ma (nhị nguyên thực chất).
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có ba câu hỏi liên quan trực tiếp đến bài này: một câu chính (hỏi mọi người) về **tâm trí**, và hai câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **vấn đề khó** và **lý thuyết về ý thức**.
 
@@ -115,7 +115,7 @@ Câu bổ sung về **lý thuyết ý thức** cho một con số gần với ch
 
 Đọc các con số cùng nhau, bức tranh hiện ra khá cân bằng: vật lý luận thắng về số đông, nhưng trực giác đứng sau nhị nguyên luận (rằng ý thức là thứ gì đó đặc biệt, khó quy về vật lý) vẫn sống khỏe — 62,4% thừa nhận vấn đề khó là bằng chứng. Bài này không có "phe thắng cuộc" rõ ràng; nó có một đa số khiêm tốn và một thiểu số đáng kể, và tranh luận vẫn đang diễn ra. Cũng nên nhớ: mẫu khảo sát là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống triết học và tôn giáo — nơi câu hỏi về linh hồn thường có vị trí trung tâm.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **AI có ý thức không?** Đây là nơi bài này chạm vào đời sống trực tiếp nhất. Khi bạn trò chuyện với một AI và nó nói "tôi buồn", ba lập trường cho ba câu trả lời khác nhau. Vật lý luận: nếu AI xử lý thông tin theo cách đủ giống não, không có lý do nguyên tắc nào để phủ nhận nó có trải nghiệm — vấn đề chỉ là mức độ. Nhị nguyên thực chất: AI chỉ là máy móc, không có linh hồn thì không có trải nghiệm thật — mọi câu "tôi buồn" đều là mô phỏng. Nhị nguyên tính chất: có thể, *nếu* ý thức là tính chất cơ bản gắn với một kiểu tổ chức vật chất nào đó — và ta chưa biết kiểu đó là gì. Lần tới khi AI làm bạn xúc động, hãy tự hỏi: bạn đang xúc động vì *nó* có cảm xúc, hay vì *bạn* có?
 
@@ -123,7 +123,7 @@ Câu bổ sung về **lý thuyết ý thức** cho một con số gần với ch
 
 **"Hồn" trong ngôn ngữ đời thường.** Ta nói "làm việc mất hồn", "hồn vía lên mây", "yêu bằng cả tâm hồn" — ngôn ngữ đời thường đầy nhị nguyên luận ngây thơ: coi tâm trí như một "thứ" có thể đi vắng, có thể trao đi. Bài này không bảo bạn bỏ cách nói đó (ngôn ngữ không phải là siêu hình học), nhưng nó mời bạn nhận ra: mỗi lần bạn nói "tôi" — bạn đang chỉ vào cái gì? Cơ thể này? Dòng trải nghiệm này? Hay một cái gì đó thứ ba?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -191,7 +191,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng năm 2040, một công ty tuyên bố đã tạo ra AI "có ý thức thật sự" và đòi quyền con người cho nó. Bạn được mời vào hội đồng quyết định. Hãy viết lập luận của bạn: bạn sẽ hỏi những câu hỏi nào để kiểm tra tuyên bố đó, và ba lập trường trong bài sẽ trả lời các câu hỏi đó ra sao? Cuối cùng, bạn bỏ phiếu thuận hay chống — và bạn thành thật về mức độ chắc chắn của mình đến đâu?
 
@@ -204,7 +204,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có nêu được điều gì sẽ làm bạn *đổi ý* (tiêu chí bác bỏ cho chính lập trường của mình)?
     - Bài viết có thành thật về sự không chắc chắn không — hay giả vờ như câu trả lời là hiển nhiên?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/dualism/>
 2. Descartes, René (1641), *Meditationes de prima philosophia*, Paris: Michel Soly.

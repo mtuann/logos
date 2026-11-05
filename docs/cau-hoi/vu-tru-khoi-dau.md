@@ -19,7 +19,7 @@ Câu hỏi này nằm ở ngã ba của vũ trụ học và siêu hình học. K
 
 Chữ "Kalam" trong tên lập luận nổi tiếng nhất về chủ đề này là tiếng Ả Rập (*kalām*, nghĩa là "lời bàn luận") — chỉ truyền thống thần học triết học Hồi giáo, nơi lập luận này được phát triển bởi các triết gia như al-Kindi (thế kỷ 9) và al-Ghazali (thế kỷ 11), trước khi được William Lane Craig phục hưng trong triết học đương đại (*The Kalam Cosmological Argument*, 1979).
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Hãy tưởng tượng một hàng domino dài vô tận về phía quá khứ: mỗi quân domino ngã xuống vì quân ngay trước nó đã đẩy nó. Bạn hỏi: "Vậy ai đẩy quân đầu tiên?" Người bạn đáp: "Không có quân đầu tiên. Hàng domino kéo dài vô hạn về quá khứ — mỗi quân đều có quân trước đẩy nó, nên không cần bàn tay nào cả."
@@ -31,7 +31,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử hàng domino *có* quân đầu tiên, và bạn hỏi "ai đẩy nó?" — rồi với câu trả lời nào bạn cũng hỏi tiếp "thế cái đó từ đâu ra?" Chuỗi câu hỏi "từ đâu ra?" này có điểm dừng không? Nếu bạn nghĩ nó *phải* dừng ở đâu đó, bạn đang đi theo hướng của lập luận Kalam. Nếu bạn nghĩ nó có thể kéo dài mãi, bạn đang đi theo hướng của vũ trụ vĩnh cửu.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau, và người ta thường lẫn lộn chúng.
 
@@ -49,7 +49,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau, và người ta thường l
 
 Toàn bộ tranh luận là cuộc chiến quanh tiền đề 1, tiền đề 2, và bước từ kết luận 3 đến "nguyên nhân đó là Thượng đế".
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường dưới đây đại diện cho ba cách trả lời khác nhau: lập trường 1 bênh vực lập luận Kalam, lập trường 2 tấn công tiền đề 2 (vũ trụ không hề bắt đầu), lập trường 3 chấp nhận vũ trụ của ta có khởi đầu nhưng phủ nhận bước nhảy đến Thượng đế. Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -83,7 +83,7 @@ Lập trường thứ ba chấp nhận (tạm thời) rằng *vũ trụ quan sá
 
 **Cách đáp lại.** Người theo đa vũ trụ đáp: việc chưa kiểm chứng được không có nghĩa là sai — nhiều thực thể vật lý từng không quan sát được trước khi công nghệ bắt kịp (sóng hấp dẫn chẳng hạn). Còn về việc "đẩy câu hỏi lùi một bước": mọi lời giải thích đều phải dừng ở đâu đó; câu hỏi không phải "lời giải thích nào không còn câu hỏi tiếp theo" (không có lời nào như vậy, kể cả Thượng đế — "ai tạo ra Thượng đế?"), mà là "lời giải thích nào đơn giản và gắn với vật lý nhất". Một nền vật lý vĩnh cửu, vô tri, vẫn tiết kiệm hơn một tác nhân siêu nhiên toàn năng.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về lập luận Kalam hay về "vũ trụ có khởi đầu không". Nhưng có bốn câu liên quan trực tiếp: câu chính về Thượng đế, và ba câu bổ sung — luận chứng nào cho sự tồn tại của Thượng đế là mạnh nhất (lập luận Kalam thuộc họ *vũ trụ luận*), sự "tinh chỉnh" của vũ trụ được giải thích bằng gì (đúng chủ đề của lập trường 3), và nguyên lý lý do đầy đủ.
 
@@ -113,7 +113,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Ở câu tinh chỉnh, đa vũ trụ — lời giải thích mà lập trường 3 đưa ra — chỉ được 15,1%, thấp hơn cả thiết kế (17,3%); nhiều nhất là "sự thật trần trụi" (32,1%): các hằng số cứ thế mà thôi, không cần giải thích; và 21,7% cho rằng thật ra không có tinh chỉnh nào. Còn *nguyên lý lý do đầy đủ* — mọi sự thật đều có lý do giải thích vì sao nó như thế mà không khác đi ([Leibniz](../triet-gia/leibniz.md), *Monadologie*, viết năm 1714) — là chỗ dựa của câu hỏi "vì sao có cái gì đó chứ không phải không có gì?" ở phần dưới: 45,7% cho là sai, 35,9% cho là đúng. Các câu bổ sung chỉ có khoảng 800–1.000 người trả lời, và mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, nên không đại diện cho mọi truyền thống. Điều tra dư luận không thay thế việc đánh giá lập luận — nó chỉ cho bạn biết "phe" nào đông hơn trong phòng họp khoa triết.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Vì sao có cái gì đó chứ không phải không có gì?"** Câu hỏi của Leibniz này là phiên bản đời thường của toàn bộ bài viết — và bạn không cần là nhà vũ trụ học mới chạm vào nó. Mỗi khi bạn nhìn lên bầu trời đêm và thấy mình nhỏ bé, hay khi nghe tin một người thân qua đời và tự hỏi "rồi mọi thứ này từ đâu ra", bạn đang đứng ở cùng ngã ba với các triết gia trong bài. Ba lập trường cho bạn ba cách "sống với" câu hỏi: tìm một Đấng sáng tạo (1), chấp nhận thực tại là vĩnh cửu và tự đủ (2), hay hình dung một thực tại lớn hơn nhiều mà ta chỉ là một góc nhỏ (3).
 
@@ -121,7 +121,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 **Khi ai đó nói "khoa học đã chứng minh..."** Lần tới khi bạn nghe ai đó tuyên bố "khoa học đã chứng minh vũ trụ có khởi đầu, vậy có Thượng đế" (hoặc ngược lại, "khoa học đã chứng minh không cần Thượng đế"), hãy thử tách tuyên bố đó theo ba câu hỏi ở đầu bài: phần nào là kết quả khoa học (vũ trụ giãn nở), phần nào là tiền đề triết học (mọi khởi đầu cần nguyên nhân), phần nào là bước nhảy (nguyên nhân đó là Thượng đế)? Hầu hết các cuộc tranh cãi nảy lửa về chủ đề này thực ra là hai người đồng ý về khoa học nhưng bất đồng về triết học — mà không hay.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -189,7 +189,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn phải giải thích cho một người bạn (không học triết) vì sao câu hỏi "vũ trụ có khởi đầu không?" lại khó. Hãy trình bày thí nghiệm domino theo lời của bạn, rồi cho biết *bạn* thấy câu trả lời nào thỏa đáng hơn — "có bàn tay đầu tiên" hay "không cần bàn tay nào" — và vì sao. Cuối cùng, hãy tự chất vấn mình: lập trường bạn chọn có trả lời được câu hỏi "thế cái đó từ đâu ra?" ở bước tiếp theo không?
 
@@ -201,7 +201,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có trung thực về chỗ mà lập luận của mình phải dừng lại ("đến đây thì tôi không biết nữa") không?
     - Bài viết có dùng ví dụ cụ thể (domino, hoặc ví dụ của riêng bạn) thay vì nói chung chung về "vũ trụ" không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/cosmological-argument/>
 2. Craig, William Lane (1979), *The Kalam Cosmological Argument*, London: Macmillan.

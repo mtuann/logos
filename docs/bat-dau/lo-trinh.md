@@ -11,7 +11,7 @@ Không ai bước vào triết học từ cùng một cánh cửa. Có người 
 
 Vì thế Logos Zero không có "chương 1, chương 2". Có ba con đường. Bạn có thể đi một con đến cuối, hoặc rẽ ngang bất cứ lúc nào. Hiện site có 15 bài công cụ tư duy, 57 bài về những câu hỏi lớn, 8 bài lịch sử tư tưởng, 19 hướng dẫn đọc văn bản gốc và trang riêng cho từng triết gia.
 
-## 1. Tư duy rõ ràng
+## 1. Tư duy rõ ràng {#1-tu-duy-ro-rang}
 
 Đây là con đường của những công cụ. Trước khi hỏi "tự do ý chí có tồn tại không?", sẽ có ích nếu ta biết một lập luận gồm những phần nào, và nó có thể hỏng ở đâu. Năm bài nền tảng, nên đọc theo thứ tự:
 
@@ -29,7 +29,7 @@ Vì thế Logos Zero không có "chương 1, chương 2". Có ba con đường. 
 
 Con đường này hợp với bạn nếu bạn hay đọc tin tức, tranh luận, làm việc với số liệu, hoặc đơn giản là muốn bớt bị thuyết phục bởi những điều nghe có vẻ hay. Khi đọc, hãy thử sức ở [Nhận ra ngụy biện](../luyen-tap/nguy-bien.md): 100 đoạn hội thoại đời thường.
 
-## 2. Những câu hỏi lớn
+## 2. Những câu hỏi lớn {#2-nhung-cau-hoi-lon}
 
 Đây là con đường đi thẳng vào vấn đề. Mỗi bài xoay quanh một câu hỏi chưa ngã ngũ, trình bày các lập trường mạnh nhất, các phản bác, và để câu trả lời cuối cùng lại cho bạn. Có 57 bài, xếp theo mười một chủ đề trong [trang Những câu hỏi lớn](../cau-hoi/index.md). Nếu muốn một lối vào, đây là sáu bài, mỗi bài mở ra một vùng lớn của triết học:
 
@@ -42,7 +42,7 @@ Con đường này hợp với bạn nếu bạn hay đọc tin tức, tranh lu�
 
 Bạn không cần đọc "Tư duy rõ ràng" trước. Khi một bài cần đến công cụ nào, nó sẽ dẫn link quay lại. Mỗi bài có mục "Tóm tắt 5 phút" ở đầu, một bài tự kiểm tra và một câu hỏi để tự viết ở cuối.
 
-## 3. Lịch sử tư tưởng và văn bản gốc
+## 3. Lịch sử tư tưởng và văn bản gốc {#3-lich-su-tu-tuong-va-van-ban-goc}
 
 Đây là con đường của những con người: ai đã hỏi gì, trong hoàn cảnh nào, và vì sao câu trả lời của họ vẫn còn được tranh luận. Không chỉ Hy Lạp và châu Âu, mà cả Ấn Độ, Trung Hoa, Phật giáo và tư tưởng Việt Nam.
 
@@ -50,7 +50,7 @@ Bạn không cần đọc "Tư duy rõ ràng" trước. Khi một bài cần đ�
 - Gặp từng người ở trang [Các triết gia](../triet-gia/index.md): tiểu sử, tác phẩm chính, một lập luận tiêu biểu kèm phản bác, và các bài trên site nhắc tới họ.
 - Rồi đọc chính họ: [Đọc văn bản gốc](../doc/index.md) có 19 hướng dẫn đọc chậm, từ [*Biện hộ của Socrates*](../doc/platon-bien-ho.md) và [*Luận ngữ*](../doc/luan-ngu.md) tới [*Bình Ngô đại cáo*](../doc/nguyen-trai-binh-ngo.md).
 
-## Nên bắt đầu từ đâu?
+## Nên bắt đầu từ đâu? {#nen-bat-dau-tu-dau}
 
 | Nếu bạn… | Thử bắt đầu từ |
 |---|---|
@@ -67,7 +67,7 @@ Bạn không cần đọc "Tư duy rõ ràng" trước. Khi một bài cần đ�
 | đang hỏi "rồi mọi thứ để làm gì?" | [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) |
 | chưa biết mình thích gì | [Triết học là gì, và không phải là gì?](index.md), rồi thử câu đố con tàu của Theseus ở cuối trang |
 
-## Nhịp đọc
+## Nhịp đọc {#nhip-doc}
 
 Nếu bạn thích có nhịp, khoảng 20–30 phút mỗi ngày là vừa: đủ để đọc một phần bài, dừng ở một câu hỏi, và nghĩ thêm trên đường đi làm. Nhưng đây không phải lời hứa phải giữ. Một bài đọc chậm trong một tuần, có ghi chú và cãi lại, đáng giá hơn mười bài lướt qua trong một buổi.
 

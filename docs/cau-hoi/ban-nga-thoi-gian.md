@@ -18,7 +18,7 @@ Câu hỏi về **bản sắc cá nhân** (*personal identity*) hỏi: điều g
 
 Chữ "bản sắc" (*identity*) ở đây không có nghĩa là "cá tính" mà là *tính đồng nhất*: A và B là cùng một thực thể. Câu hỏi là: điều kiện nào để "tôi-hôm-qua" và "tôi-hôm-nay" là đồng nhất?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Một cỗ máy dịch chuyển (*teletransporter*) quét toàn bộ cơ thể bạn — từng nơ-ron, từng ký ức — rồi *hủy* cơ thể gốc. Thông tin được truyền đi, và ở đầu bên kia, một cơ thể mới được dựng lại từ vật chất mới, với đầy đủ ký ức, tính cách, ý định của bạn. Người bước ra khỏi máy nhớ tên bạn, nhớ tuổi thơ của bạn, định tiếp tục công việc bạn đang làm dở.
@@ -32,7 +32,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm — và đây là biến thể tàn nhẫn nhất: cỗ máy bị lỗi. Nó quét và dựng lại bản sao ở đầu bên kia, nhưng *không hủy* bản gốc. Bây giờ có hai người, cùng ký ức, cùng tính cách, cùng khăng khăng "tôi là người đã bước vào máy". **Ai trong hai người là bạn?** Cả hai không thể cùng là bạn — vì bản sắc là quan hệ một-một: bạn không thể đồng nhất với hai người khác nhau cùng lúc. Vậy là ít nhất một trong hai không phải bạn. Ai?
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
@@ -42,7 +42,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ ba: các trường hợp biên nói gì về tiêu chí?** Máy dịch chuyển lỗi, bệnh mất trí tiến triển, chia đôi não — những trường hợp mà trực giác của ta lung lay chính là nơi các tiêu chí bị thử lửa. Một tiêu chí tốt phải trả lời được cả những trường hợp khó, không chỉ những trường hợp dễ.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 Ba lập trường, trùng khớp với ba đáp án trong khảo sát PhilPapers: tiêu chí tâm lý (Locke, Parfit), tiêu chí sinh học (Olson), và quan điểm "sự kiện bổ sung". Đọc cả ba rồi hãy quyết định bạn đứng ở đâu.
 
@@ -76,7 +76,7 @@ Lập trường thứ ba nói: cả hai tiêu chí trên đều bỏ sót điề
 
 **Cách đáp lại.** Người bênh vực sự kiện bổ sung đáp: không phải mọi sự thật đều kiểm tra được bằng khoa học — "vì sao có cái gì đó chứ không phải không có gì?" cũng không kiểm tra được, nhưng vẫn là câu hỏi thật. Và họ nhắc lại đòn mạnh nhất của mình: *cả hai đối thủ đều thất bại ở các trường hợp biên*. Khi mọi tiêu chí "khoa học" đều vỡ, có lẽ kết luận đúng không phải là "chọn một trong hai cho xong", mà là thừa nhận có một chiều sâu của cái tôi mà các tiêu chí đó chưa chạm tới. Khiêm tốn trước bí ẩn thì tốt hơn là giả vờ đã giải quyết xong.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp về chủ đề này, và cả hai đều là câu chính (hỏi mọi người tham gia).
 
@@ -100,7 +100,7 @@ Với câu hỏi về **máy dịch chuyển** (*teletransporter*, vật chất 
 
 Nhưng cần đọc cẩn thận: đây là hai con số tổng của hai câu hỏi, không phải câu trả lời của cùng một nhóm người. Bảng tương quan trên trang kết quả của khảo sát cho thấy người theo quan điểm tâm lý nghiêng về "sống sót" rõ hơn hẳn những người khác — nhưng vẫn có một bộ phận đáng kể trong số họ chọn "chết". Khoảng cách giữa lý thuyết và trực giác vì thế có thật, chỉ hẹp hơn so với khi nhìn hai con số tổng. Và cũng như mọi số liệu của khảo sát này: mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020 — không đại diện cho mọi truyền thống triết học.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **"Tôi của mười năm trước."** Hãy lấy ảnh của bạn mười năm trước ra nhìn. Người trong ảnh có phải là "bạn" không — hay chỉ là một người lạ mà bạn tình cờ nhớ được vài chuyện? Tiêu chí tâm lý nói: chừng nào sợi dây ký ức còn nối, đó vẫn là bạn — dù tính cách đã đổi thay hoàn toàn. Tiêu chí sinh học nói: đó là bạn vì đó là cùng một sinh vật. Còn bạn — khi nhìn vào đôi mắt trong ảnh — bạn *cảm thấy* đó là ai? Câu trả lời thành thật của bạn về bức ảnh đó chính là lập trường triết học của bạn, dù bạn chưa bao giờ đọc Locke.
 
@@ -108,7 +108,7 @@ Nhưng cần đọc cẩn thận: đây là hai con số tổng của hai câu h
 
 **Người thân mất trí nhớ.** Đây là nơi bài này ngừng là chuyện học thuật. Khi một người thân mắc Alzheimer tiến triển — ký ức mất dần, tính cách đổi khác, đến mức không còn nhận ra bạn — câu hỏi "người ấy còn là chính mình không?" trở thành câu hỏi của tình yêu và trách nhiệm. Tiêu chí tâm lý cho bạn ngôn ngữ để gọi tên nỗi đau ("mẹ không còn là mẹ nữa"); tiêu chí sinh học nhắc bạn rằng *con người* đó vẫn ở đây và vẫn xứng đáng được chăm sóc; quan điểm sự kiện bổ sung thì thầm rằng có điều gì đó ở người ấy mà bệnh tật không chạm tới được. Không lập trường nào làm cho nỗi đau dễ chịu hơn — nhưng mỗi lập trường cho bạn một cách khác nhau để *hiểu* mình đang đau vì điều gì.
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -174,7 +174,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy viết một lá thư cho "bạn của mười năm nữa". Trong thư, hãy nói rõ bạn *giả định* điều gì về mối quan hệ giữa bạn-hôm-nay và người-nhận-thư: bạn có chắc người đó là "bạn" không? Điều gì làm cho họ là bạn — ký ức về hôm nay, hay cùng một cơ thể? Rồi hãy tự chất vấn: nếu mười năm nữa người đó đọc thư và thấy hoàn toàn xa lạ ("ai viết cái này vậy?"), thì lá thư này là gửi cho *ai*?
 
@@ -187,7 +187,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có dùng được ít nhất một lập trường trong bài để phân tích tình huống "người nhận thấy xa lạ"?
     - Bài viết có thành thật về cảm xúc (hy vọng? sợ hãi? buồn cười?) khi nghĩ về người-tương-lai không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/identity-personal/>
 2. Locke, John (1689/1694), *An Essay Concerning Human Understanding*, Quyển II, chương 27 ("Of Identity and Diversity") — chương này có từ lần in thứ hai (London, 1694); lần in đầu: London: Thomas Basset, 1689. Xem Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/locke-personal-identity/>

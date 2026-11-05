@@ -19,7 +19,7 @@ Ba câu trả lời đó nghe na ná nhau, nhưng chúng khác nhau một trời
 
 Chữ "hạnh phúc" là Hán Việt: *hạnh* (幸, may mắn) + *phúc* (福, điều tốt lành, phúc đức). Ngay trong gốc chữ đã có sự mơ hồ: hạnh phúc là *may mắn được hưởng* (trời cho), hay là *trạng thái tốt đẹp* do mình tạo ra? Tiếng Anh cũng vậy: *happiness* gốc từ *hap* — sự may rủi, ngẫu nhiên. Còn tiếng Hy Lạp cổ dùng một từ hoàn toàn khác: *eudaimonia* (*eu* = tốt + *daimon* = linh hồn, vận mệnh) — không phải "cảm thấy vui" mà là "sống một đời sống viên mãn, tốt đẹp". Hai nghìn năm triết học về hạnh phúc, phần lớn là cuộc tranh luận giữa hai nghĩa này: hạnh phúc là *cảm giác* của chủ thể, hay là *phẩm chất* của đời sống?
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Robert Nozick mời bạn tưởng tượng một cỗ máy trải nghiệm: bạn nằm vào bồn chứa, các nhà khoa học kích thích não bạn để tạo ra *mọi* trải nghiệm bạn muốn — viết một tiểu thuyết vĩ đại và được độc giả yêu mến, kết bạn tri kỷ, đọc những cuốn sách hay nhất, ăn những món ngon nhất. Trong máy, bạn hoàn toàn không biết mình đang trong máy; mọi thứ đều thật như ngoài đời. Cứ hai năm bạn được "ra" một lần để chọn lại chương trình cho hai năm tiếp theo.
@@ -38,7 +38,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 </figure>
 <!-- /fig:hanh-phuc-may -->
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau, và Derek Parfit — trong phụ lục của *Reasons and Persons* (1984) — đã phân loại các câu trả lời thành ba họ lý thuyết lớn.
 
@@ -48,7 +48,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau, và Derek Parfit — trong 
 
 **Câu hỏi thứ ba: hạnh phúc có phải là mục tiêu tối cao không?** Cả ba họ lý thuyết đều mặc nhiên đồng ý rằng đời sống tốt là điều đáng theo đuổi — nhưng chúng bất đồng sâu sắc về *cái gì* làm cho một đời sống thành tốt. Ba lập trường dưới đây là ba câu trả lời.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Thuyết khoái lạc: hạnh phúc là tối đa hóa khoái cảm
 
@@ -82,7 +82,7 @@ Lập trường thứ ba — mà Parfit gọi là *thuyết danh sách khách qu
 
 **Cách đáp lại.** Người theo thuyết danh sách đáp: danh sách không phải là mệnh lệnh áp đặt mà là những *ứng cử viên* được nhiều nền văn hóa, nhiều thời đại cùng công nhận — tri thức, tình bạn, thành tựu xuất hiện trong hầu hết mọi quan niệm về đời sống tốt, từ [Khổng Tử](../triet-gia/khong-tu.md) đến [Aristotle](../triet-gia/aristotle.md) đến Phật giáo. Và danh sách để chỗ cho cá nhân: không ai bắt bạn phải có *tất cả* mọi mục, bạn được chọn *trong* danh sách theo cách của mình. Còn về người tu hành: lập trường này có thể nói ông *có* những mục khác trong danh sách (tự chủ, hiểu biết sâu sắc, bình an) ở mức độ cao — danh sách đủ rộng để chứa cả những đời sống khác thường, miễn là chúng thực sự chứa điều tốt chứ không phải chỉ là sự trốn chạy được ngụy trang.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp liên quan đến bài này: một câu chính (hỏi mọi người tham gia) về cỗ máy trải nghiệm của Nozick — "bạn có bước vào cỗ máy trải nghiệm không?" — và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **phúc lợi** (*well-being*), với ba lựa chọn đúng là ba họ lý thuyết của Parfit.
 
@@ -106,7 +106,7 @@ Câu thứ hai trả lời thẳng câu hỏi lớn của bài: **danh sách kh�
 
 Hai câu cho một bức tranh nhất quán: ở cả hai, phía khoái lạc chỉ là một thiểu số nhỏ (13,3% và 12,7%) — dù đây là hai nhóm người trả lời khác nhau, không phải cùng một nhóm. Nhưng đa số không có nghĩa là đúng: mẫu khảo sát là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020, không đại diện cho mọi truyền thống — và thuyết danh sách khách quan, dù được nhiều người chọn nhất, vẫn phải trả lời câu hỏi "ai lập danh sách?" ở trên.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Mạng xã hội và cỗ máy khoái cảm mini.** Bảng tin mạng xã hội là một phiên bản nhỏ của cỗ máy trải nghiệm: những cú chạm dopamine liên tục, được tối ưu hóa để cho bạn cảm giác sung sướng với chi phí thấp nhất. Thuyết khoái lạc thô sơ sẽ nói: cứ lướt đi, càng vui càng tốt. Nhưng trực giác Nozick của bạn có lẽ đang cựa quậy: một buổi chiều lướt điện thoại cho nhiều "khoái cảm" hơn một buổi chiều đọc sách khó, nhưng buổi tối nhìn lại, bạn thấy buổi nào *đáng* hơn? Câu hỏi đó — "đáng" theo nghĩa nào — chính là toàn bộ tranh luận của bài này thu nhỏ lại.
 
@@ -118,7 +118,7 @@ Hai câu cho một bức tranh nhất quán: ở cả hai, phía khoái lạc ch
 
 Đọc thêm: hướng dẫn đọc [*Đạo đức Nicomachus*](../doc/aristotle-dao-duc.md) (hạnh phúc là hoạt động theo đức hạnh) và [*Cẩm nang* của Epictetus](../doc/epictetus-cam-nang.md) (điều trong và ngoài tầm kiểm soát của ta).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi. Nếu bạn thấy một câu khó, hãy quay lại phần lập trường tương ứng đọc lại trước khi đoán.
 
@@ -184,7 +184,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn được mời vào cỗ máy trải nghiệm phiên bản nâng cấp: nó không chỉ cho bạn *cảm giác* thành công, mà biến bạn *thực sự* thành người thành công ngoài đời thực (sách của bạn thực sự được xuất bản, người thật đọc và yêu mến) — nhưng toàn bộ quá trình vật lộn, rủi ro và nỗ lực bị lược bỏ; bạn chỉ việc nằm vào và "nhận" thành quả. Bạn có vào không? Hãy bênh vực câu trả lời của mình bằng một trong ba lập trường trong bài, rồi tự đặt ra phản bác mạnh nhất từ một lập trường khác và đáp lại nó.
 
@@ -198,7 +198,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Phản bác từ lập trường đối thủ có nhắm trúng vào điểm yếu thật của câu trả lời bạn không?
     - Bạn có xét đến khả năng mình *tự lừa mình* (ví dụ: nói "không" vì kiêu hãnh nhưng gọi đó là lý do triết học)?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Haybron, Dan, "Happiness", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/happiness/>; Crisp, Roger, "Well-Being", *Stanford Encyclopedia of Philosophy* (về cách chia ba họ lý thuyết của Parfit). <https://plato.stanford.edu/entries/well-being/>
 2. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm cỗ máy trải nghiệm).

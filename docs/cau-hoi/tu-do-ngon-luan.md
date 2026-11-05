@@ -17,7 +17,7 @@ Hầu như ai cũng đồng ý "tự do ngôn luận là tốt" — cho đến k
 
 Bài này không bàn về luật pháp của nước nào hôm nay. Bài này hỏi ba câu hỏi triết học: vì sao tự do ngôn luận *đáng giá*, giới hạn của nó nằm ở *đâu*, và *ai* được phép vẽ giới hạn đó.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Giữa một đợt dịch bệnh, ông X — một người có hàng triệu người theo dõi — liên tục đăng bài rằng "vắc-xin là thuốc độc, ai tiêm sẽ vô sinh". Các chuyên gia y tế khẳng định điều đó sai sự thật. Một số người tin X, từ chối tiêm, rồi tử vong.
@@ -31,7 +31,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
     Biến thể thứ hai, khó hơn: giả sử không phải nhà nước mà là một *nền tảng mạng xã hội tư nhân* xóa bài của X. Đó có phải là "vi phạm tự do ngôn luận" không? Hay tự do ngôn luận chỉ ràng buộc nhà nước, còn công ty tư nhân được toàn quyền quyết định? Hầu hết các cuộc tranh cãi ồn ào nhất về tự do ngôn luận hôm nay thực ra là về biến thể này — chứ không phải về nhà nước.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất: vì sao tự do ngôn luận *đáng giá*?** Có ít nhất ba họ lý do: vì nó giúp ta *tìm ra sự thật* (ý kiến sai hôm nay có thể đúng ngày mai, và tranh luận giữ cho chân lý sống); vì nó tôn trọng *sự tự trị* của mỗi cá nhân (tôi có quyền tự mình phán xét, không cần ai "bảo vệ" tôi khỏi ý kiến sai); và vì nó là điều kiện của *dân chủ* (không có tự do ngôn luận thì không có bầu cử thật sự — xem [bài về dân chủ](dan-chu.md)).
 
@@ -39,7 +39,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: *ai* được phép giới hạn?** Truyền thống triết học bàn về *nhà nước* cấm đoán. Nhưng hôm nay, người quyết định xem bạn được nói gì nhiều nhất lại là các *nền tảng tư nhân* — công ty sở hữu mạng xã hội, cửa hàng ứng dụng, dịch vụ thanh toán. Một công ty xóa bài của bạn có giống nhà nước bỏ tù bạn không? Khác ở chỗ nào, và sự khác nhau đó có quan trọng về mặt đạo đức không?
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Mill: ngay cả ý kiến sai cũng có ích — "chợ ý tưởng"
 
@@ -90,7 +90,7 @@ Một luận điểm phụ quan trọng: cần phân biệt *quyền được n�
 
 **Cách đáp lại.** Người phê phán đáp rằng họ không đòi mở rộng "hại" vô hạn — họ đòi *tiêu chí cụ thể, kiểm chứng được*: lời nói trực tiếp xúi giục bạo lực, vu khống có bằng chứng sai sự thật, chiến dịch tin giả có tổ chức với mục đích lừa đảo. Những thứ này khác hẳn "ý kiến tôi không thích". Và về nguy cơ phản tác dụng, họ nói: đó là một cân nhắc *chiến thuật* (cấm có hiệu quả không), không phải một phản bác *nguyên tắc* (có nên cấm không). Có những thứ ta cấm dù biết cấm không triệt để — như trộm cắp — vì cấm là cách xã hội tuyên bố điều gì không được chấp nhận.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
@@ -98,7 +98,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn lu�
 
 Một lưu ý về cách đọc bài này, tương tự [bài về dân chủ](dan-chu.md): ba lập trường không loại trừ nhau hoàn toàn. Nhiều triết gia ngày nay chấp nhận *cả ba* ở các mức độ: đồng ý với Mill rằng cấm đoán ý kiến là nguy hiểm, đồng ý với Popper rằng phải có van an toàn cuối cùng, và đồng ý với phe phê phán rằng một số lời nói gây hại thật cần bị xử lý. Câu hỏi khó, như mọi khi, là khi ba yêu cầu xung đột — ta ưu tiên cái nào.
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Mạng xã hội: "bị khóa mõm" hay "bị tước micro"?** Khi một nền tảng xóa bài hoặc khóa tài khoản ai đó, hai phe cãi nhau bằng hai ngôn ngữ khác nhau. Phe bị xóa nói ngôn ngữ của Mill: "đây là kiểm duyệt, vi phạm tự do ngôn luận". Phe ủng hộ việc xóa nói ngôn ngữ của lập trường 3: "không ai cấm anh nói — anh vẫn có thể lập blog, in tờ rơi; nền tảng chỉ từ chối *khuếch đại* anh bằng thuật toán của họ". Bài này cho bạn câu hỏi để phân xử: tự do ngôn luận có bao gồm quyền được một công ty tư nhân *phân phối* lời nói của mình không? Và nếu nền tảng ấy lớn đến mức "không lên đó coi như không tồn tại", thì sự phân biệt "nhà nước vs tư nhân" còn ý nghĩa không?
 
@@ -106,7 +106,7 @@ Một lưu ý về cách đọc bài này, tương tự [bài về dân chủ](d
 
 **"Chuyên chế của đa số" phiên bản ngôn luận.** [Bài về dân chủ](dan-chu.md) đã nhắc: Mill lo rằng không chỉ nhà nước mà *dư luận xã hội* cũng có thể bóp nghẹt cá nhân — một đám đông trên mạng "xử" ai đó vì một phát ngôn lệch chuẩn, đến mức người đó mất việc, phải im lặng. Đây là điểm mà các cuộc tranh luận chỉ xoay quanh *nhà nước* cấm đoán hay bỏ sót — dù chính Mill đã nói rõ trong chương 1: chống lại "sự chuyên chế của quan chức" là chưa đủ, còn phải chống cả "sự chuyên chế của ý kiến và cảm xúc đang thống trị". "Án tử hình xã hội" bởi đám đông thì không cần nhà nước. Lần tới khi thấy một "phiên tòa dư luận", hãy thử hỏi: đây là "chợ ý tưởng đang hoạt động" (phản biện công khai) hay là "chuyên chế của đa số" (bịt miệng bằng sợ hãi)? Ranh giới giữa hai thứ đó mong manh hơn ta tưởng.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 *On Liberty* (1859) của Mill đã thuộc phạm vi công cộng — bạn có thể đọc toàn văn miễn phí, đặc biệt chương 2 ("Về tự do tư tưởng và thảo luận"). Dưới đây là ba lập luận cốt lõi của chương đó, diễn đạt lại ngắn gọn:
 
@@ -122,7 +122,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm: [hướng dẫn đọc Mill, *Bàn về tự do*, chương 2](../doc/mill-tu-do.md) và ["Khai sáng là gì?" của Kant](../doc/kant-khai-sang.md) (quyền sử dụng lý trí một cách công khai).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -190,7 +190,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn là người điều hành một diễn đàn trực tuyến lớn ở Việt Nam. Một thành viên đăng bài lan truyền thông tin sai sự thật về sức khỏe có thể gây hại cho người đọc. Hãy viết "nội quy" xử lý trường hợp này của bạn — dựa trên ít nhất hai lập trường trong bài (Mill, Popper, hoặc phe "ngôn từ gây hại") — và giải thích vì sao bạn chọn cách đó thay vì các cách khác (xóa bài ngay, để yên, gắn nhãn cảnh báo...).
 
@@ -205,7 +205,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bạn có phân biệt "quyền được nói" với "quyền được khuếch đại" trong nội quy của mình không?
     - Bài viết có trung thực về điểm yếu của giải pháp mình chọn không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freedom-speech/>
 2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>

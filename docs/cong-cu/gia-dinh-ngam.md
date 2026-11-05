@@ -13,7 +13,7 @@ Bà không nói "cháu nên đi ngủ". Bà cũng không nói "người thiếu 
 
 Ngoài đời, gần như không ai lập luận bằng tam đoạn luận đủ ba dòng. Ta bỏ qua những gì có vẻ hiển nhiên. Thường thì như vậy là tiện. Nhưng những điều "hiển nhiên" ấy lại chính là nơi lập luận hay sai nhất, vì không ai nhìn vào chúng.
 
-## Giả định ngầm là gì?
+## Giả định ngầm là gì? {#gia-dinh-ngam-la-gi}
 
 Một **giả định ngầm** (*hidden assumption* hoặc *unstated premise*) là một tiền đề mà lập luận cần đến để đi tới kết luận, nhưng người lập luận không nói ra.
 
@@ -41,7 +41,7 @@ Lập luận ngầm ở đây là: "Người học khối A thì không thể (h
 </figure>
 <!-- /fig:so-do-lap-luan -->
 
-## Diễn giải thiện chí
+## Diễn giải thiện chí {#dien-giai-thien-chi}
 
 Khi lấp chỗ trống trong lập luận của người khác, ta có thể lấp theo nhiều cách. Có cách khiến lập luận trở nên ngớ ngẩn, có cách khiến nó trở nên đáng xem xét.
 
@@ -55,7 +55,7 @@ Vì sao phải làm vậy, nhất là với người ta không đồng ý?
 
 Thiện chí không có nghĩa là bịa thêm cho người ta một lập luận hay hơn hẳn những gì họ nói. Ta vẫn phải bám vào lời của họ. Thiện chí là chọn cách hiểu tốt nhất *trong những cách hiểu mà câu chữ cho phép*.
 
-## Quy trình năm bước
+## Quy trình năm bước {#quy-trinh-nam-buoc}
 
 Dưới đây là một quy trình để tái dựng lập luận từ một đoạn văn bất kỳ, một bài báo, một bình luận, một bài phát biểu.
 
@@ -71,7 +71,7 @@ Bước 4 cần giải thích thêm. "Tối thiểu" nghĩa là: thêm vừa đ�
 
 Có một sự giằng co cần để ý. Giả định yếu nhất về mặt logic luôn là câu "nếu [các tiền đề] thì [kết luận]". Nó làm lập luận hợp lệ, nhưng thường chỉ là nhắc lại khoảng trống chứ không lấp nó. Vì thế, theo tinh thần thiện chí, ta thường chọn một nguyên tắc *chung* mà người viết có vẻ thật sự tin, rồi xét xem nguyên tắc đó có quá rộng không.
 
-## Ví dụ 1: một đoạn bình luận báo chí
+## Ví dụ 1: một đoạn bình luận báo chí {#vi-du-1-mot-doan-binh-luan-bao-chi}
 
 Đoạn văn sau do Logos Zero tự viết, theo kiểu một bài bình luận thường gặp:
 
@@ -115,7 +115,7 @@ Vẫn hợp lệ, và P2 bây giờ hợp lý hơn nhiều. Lý do (a) có thể
 
 Lưu ý: tái dựng xong, ta *không* kết luận rằng không nên cấm. Ta chỉ biết chính xác bài viết còn thiếu gì.
 
-## Ví dụ 2: một bình luận trên mạng xã hội
+## Ví dụ 2: một bình luận trên mạng xã hội {#vi-du-2-mot-binh-luan-tren-mang-xa-hoi}
 
 Bình luận sau cũng do Logos Zero tự viết:
 
@@ -153,7 +153,7 @@ Mỗi bước là một modus ponens, nên cả chuỗi hợp lệ.
 
 Có thể kết luận của người bình luận vẫn đúng. Nhưng lý do đưa ra quá mỏng so với độ chắc chắn của giọng văn.
 
-## Mẫu nhận diện
+## Mẫu nhận diện {#mau-nhan-dien}
 
 **Dấu hiệu có giả định ngầm quan trọng:**
 
@@ -172,7 +172,7 @@ Có thể kết luận của người bình luận vẫn đúng. Nhưng lý do �
                  Hỏi: có quá mạnh không? có phản ví dụ không?
 ```
 
-## Bài tập
+## Bài tập {#bai-tap}
 
 **Bài 1.** Tìm giả định ngầm: "Anh ấy là người miền Trung nên chắc chắn ăn cay giỏi."
 
@@ -206,7 +206,7 @@ Có thể kết luận của người bình luận vẫn đúng. Nhưng lý do �
 ??? success "Xem gợi ý đáp án"
     Giả định ngầm tối thiểu: "Nếu không biết chắc quyết định của ta có bị định trước hay không, thì không ai phải chịu trách nhiệm." Giả định này trộn hai câu hỏi: ta *biết* gì (tri thức) và sự việc *là* thế nào. Ngay cả khi quyết định đã được định trước, những người theo tương thích luận vẫn lập luận rằng ta có thể chịu trách nhiệm (người theo bất tương thích luận thì không đồng ý; nhưng ngay cả họ cũng cần một lập luận, chứ không chỉ cần sự thiếu hiểu biết của khoa học). Xem thêm [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -222,11 +222,11 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đi tiếp
+## Đi tiếp {#di-tiep}
 
 Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng. Những lối tắt quen thuộc ấy là chủ đề của bài cuối trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (về giả định ngầm, tiền đề tối thiểu về mặt logic và nguyên tắc thiện chí). <https://plato.stanford.edu/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>

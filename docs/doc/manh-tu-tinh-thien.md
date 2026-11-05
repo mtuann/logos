@@ -16,13 +16,13 @@ updated: 2026-10-22
     - **Bản dịch trong bài:** của Logos Zero; các bản dịch tiếng Việt hiện hành phần lớn còn bản quyền nên không chép.
     - **Thời gian đọc:** khoảng 25 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Thời Chiến Quốc, vua chúa hỏi nhau: làm sao cho nước ta được *lợi* (1A1)? Mạnh Tử tự nhận việc bảo vệ đạo Khổng trước hai học thuyết đang "đầy thiên hạ": "Họ Dương vì mình, thế là không có vua; họ Mặc kiêm ái, thế là không có cha. Không cha không vua, ấy là cầm thú" (楊氏為我，是無君也；墨氏兼愛，是無父也。無父無君，是禽獸也, 3B9, *bản dịch của Logos Zero*).
 
 Theo Bryan Van Norden (SEP), thuyết tính thiện trả lời cả hai phía. Dương Chu viện đến "tính" để nói giữ thân là lẽ tự nhiên; Mạnh Tử đồng ý con người có bản tính, nhưng bản tính ấy giàu hơn lòng vị kỷ. Mặc gia tin động cơ con người nắn được gần như tùy ý bằng thưởng phạt; Mạnh Tử đáp rằng bản tính đặt giới hạn cho mọi học thuyết đạo đức. Gần hơn, ông tranh luận với Cáo Tử, người coi tính như gỗ liễu, còn nhân nghĩa như chén bát đẽo từ gỗ ấy (6A1).
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Đứa trẻ bên giếng và bốn đầu mối (2A6)
 
@@ -78,7 +78,7 @@ Câu chuyện nằm trong đoạn bàn về việc nuôi "khí hạo nhiên" (�
 
 > Câu hỏi: "Làm cỏ cho mạ" trong đời sống hôm nay của bạn cụ thể là làm gì mỗi ngày?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Ai chợt thấy đứa trẻ sắp rơi xuống giếng cũng giật mình xót thương.
 - **P2.** Cái giật mình ấy không xuất phát từ vụ lợi.
@@ -94,7 +94,7 @@ Soi từng bước:
 - P5 là giả định ngầm về nghĩa chữ "thiện". Mạnh Tử nói rõ ở 6A6: xét theo tình thực của nó thì *có thể* làm điều thiện, ấy là điều ta gọi là thiện (乃若其情，則可以為善矣，乃所謂善也).
 - Có P3 và P5, bước tới vế đầu của K là **suy diễn** (*deductive*). Vế sau (nguồn gốc cái ác) dựa vào loại suy: dòng nước, núi Ngưu.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Cáo Tử: tính trung tính.** Thiện ác đều do hoàn cảnh nắn; "nước chảy xuống" chỉ là đổi một loại suy lấy loại suy khác. *Cách đáp lại:* nếu tính hoàn toàn trung tính, khó giải thích vì sao ai cũng giật mình bên giếng mà không cần dạy. Ở 6A1, Mạnh Tử còn hỏi: đẽo gỗ liễu thành chén là làm hại cây liễu; vậy làm người thành nhân nghĩa cũng là làm hại con người sao? Nếu đạo đức đi ngược bản tính, người ta sẽ coi nhân nghĩa là tai họa.
 
@@ -102,18 +102,18 @@ Soi từng bước:
 
 **Tâm lý học tiến hóa: thương trẻ chỉ là bản năng.** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Tính thiện nghĩa là ai cũng tốt."** Mạnh Tử nói về *mầm*, và chính ông kể chuyện núi Ngưu trơ trụi. Luận đề là ai cũng *có thể* tốt bằng cái mình vốn có.
 - **"Nhân chi sơ, tính bản thiện là câu của Mạnh Tử."** Câu ấy mở đầu *Tam tự kinh*, sách vỡ lòng ra đời muộn hơn nhiều. Mạnh Tử nói "tính thiện"; chữ "bản" (本, vốn) đến từ lối chú giải được [Chu Hy](../triet-gia/chu-hy.md) phổ biến (Van Norden, SEP).
 - **"Thí nghiệm cái giếng chứng minh ai cũng sẽ cứu."** Ông chỉ nói ai cũng có cái giật mình. Từ đó đến hành động còn cả quãng tu dưỡng; vì thế mới phải "mở rộng" bốn đầu mối.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Bạn nghiêng về Mạnh Tử (tính thiện), Cáo Tử (trung tính) hay Tuân Tử (tính ác)? Lấy một ví dụ cụ thể, một đứa trẻ hay một vụ việc trên báo, và thử xem mỗi phe giải thích nó ra sao.
 2. Nếu "mầm thiện" cần vun xới, ai chịu trách nhiệm chính khi một người lớn lên thành kẻ ác: bản thân họ, gia đình, hay xã hội? Mạnh Tử, với hình ảnh núi Ngưu, sẽ trả lời thế nào?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -128,14 +128,14 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md) — Mạnh Tử đối thoại với Tuân Tử, [Hobbes](../triet-gia/hobbes.md), [Rousseau](../triet-gia/rousseau.md) và [Sartre](../triet-gia/sartre.md)
 - [Luận ngữ: hướng dẫn đọc](luan-ngu.md) — Khổng Tử, người thầy mà Mạnh Tử kế thừa
 - [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — Mạnh Tử giữa Nho, Mặc, Pháp, Đạo
 - [Mặc Tử: kiêm ái](mac-tu-kiem-ai.md) — học thuyết mà Mạnh Tử chê là "không có cha"
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Mạnh Tử*, nguyên văn và bản dịch tiếng Anh của James Legge (1861), Chinese Text Project: thiên 2A <https://ctext.org/mengzi/gong-sun-chou-i>; 3B <https://ctext.org/mengzi/teng-wen-gong-ii>; 6A <https://ctext.org/mengzi/gaozi-i>.
 2. Chu Hy, *Mạnh Tử tập chú*, thiên Công Tôn Sửu thượng (chú: 內 đọc là "nạp"; 聲 là "danh"; 芒芒 là vẻ ngây ngô). <https://ctext.org/si-shu-zhang-ju-ji-zhu/gong-sun-chou-zhang-ju-shang/zh>

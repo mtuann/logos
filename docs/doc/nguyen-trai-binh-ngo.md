@@ -15,13 +15,13 @@ updated: 2026-10-22
     - **Đọc toàn văn:** nguyên văn theo *Toàn thư* trên [Wikisource tiếng Trung](https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十) và theo *Hoàng Việt văn tuyển* (1825) trên [Wikisource tiếng Việt](https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo); các bản dịch cũ đã thuộc phạm vi công cộng, như bản in trong *Việt Nam sử lược* của Trần Trọng Kim (1920) và bản Mạc Bảo Thần trong *Lam Sơn thực lục* (1944), cũng có trên Wikisource tiếng Việt.
     - **Bản dịch trong bài:** của Logos Zero, dịch từ bản *Toàn thư*. **Thời gian đọc:** khoảng 20 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Khởi nghĩa Lam Sơn nổ ra năm 1418 ở vùng núi Thanh Hóa, với lực lượng ít ỏi, nhiều lần suýt tan rã, rồi thắng dần. Nguyễn Trãi là mưu sĩ chủ chốt: *Toàn thư* chép rằng những thư từ qua lại với tướng Minh trong các tháng cuối "đều do Trãi vâng chỉ soạn" (皆廌奉旨撰也). Chữ "Ngô" trong nhan đề chỉ nhà Minh; cách gọi này thường được giải thích là vì Chu Nguyên Chương, người lập nhà Minh, từng xưng Ngô vương năm 1364 (*Minh sử*, Thái Tổ bản kỷ).
 
 Ngôn ngữ của bài cáo là ngôn ngữ Nho giáo. Chữ **điếu phạt** (弔伐, thương dân mà đánh kẻ có tội) gợi lại ý của [Mạnh Tử](../triet-gia/manh-tu.md) về những cuộc chinh phạt chính đáng thời cổ: giết kẻ làm vua tàn bạo mà thương xót dân, "như mưa đúng mùa, dân rất vui" (誅其君而弔其民，若時雨降，民大悅, *Mạnh Tử* 1B11).
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Luận đề nhân nghĩa
 
@@ -75,7 +75,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 > Câu hỏi: Một bản tuyên cáo chiến thắng kết bằng "yên dân" chứ không phải "vinh quang": điều đó nói gì về quan niệm chiến thắng của Nguyễn Trãi?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Dùng binh chỉ chính đáng khi nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
 - **P2.** Quân Minh bóc lột, tàn hại dân lành: chính là "kẻ bạo".
@@ -90,24 +90,24 @@ Soi từng bước:
 - P3 là tiền đề cho vế "độc lập": thiếu nó, P1 và P2 chỉ biện minh cho việc lật đổ bạo quyền, chưa đủ cho việc lập một nước riêng.
 - Từ P1–P4 tới K là **suy diễn** (*deductive*). Bài cáo còn một **giả định ngầm** (*hidden assumption*) mạnh hơn: người làm điều nghĩa thì được lòng dân và trời giúp, nên thắng lợi là dấu hiệu của chính nghĩa. Tiền đề này không cần cho K, và là chỗ yếu nhất nếu ai muốn dùng nó.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Ai cũng tự nhận mình "trừ bạo".** Mọi chính quyền gây chiến đều nói mình chính nghĩa. Nếu tiêu chí chỉ nằm trong lời của người thắng, làm sao phân biệt nhân nghĩa thật với vỏ bọc? *Cách đáp lại:* tiêu chí "yên dân" hướng ra ngoài và kiểm được: dân có yên không, kẻ thua được đối xử ra sao. Việc tha hàng binh, cấp thuyền ngựa cho về nước là hành vi mà người khác chứng kiến được, không chỉ là lời tuyên bố. Nói theo ngôn ngữ hiện đại, bài cáo đòi chính nghĩa ở cả lý do bắt đầu cuộc chiến lẫn cách tiến hành nó (xem bài [chiến tranh chính đáng](../cau-hoi/chien-tranh-chinh-dang.md)).
 
 **Bi kịch sau đó đặt câu hỏi ngược.** Năm 1442, sau khi vua Lê Thái Tông đột ngột qua đời ở Lệ Chi Viên, Nguyễn Trãi bị kết tội và giết cùng ba họ; năm 1464, dưới thời Lê Thánh Tông, con ông được bổ làm quan, và về sau vua cho tìm lại thơ văn ông (*Toàn thư*). Một chế độ sinh ra từ "nhân nghĩa" có tránh được cái "bạo" mà nó từng lên án? *Cách đáp lại:* bi kịch ấy không bác bỏ tiêu chí mà dùng chính tiêu chí để phán xét. Nếu nhân nghĩa cốt ở yên dân, thì một triều đình giết oan người vô tội đã tự đứng vào phía "bạo". Sức mạnh của P1 là nó áp dụng cho cả người viết ra nó.
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Ngô ở đây là nước Ngô thời Tam Quốc."** "Ngô" là cách gọi nhà Minh, như phần Bối cảnh đã nói.
 - **"Nhân nghĩa nghĩa là không dùng vũ lực."** Bài cáo coi việc "trừ bạo" bằng binh đao là một phần của nhân nghĩa. Cái nhân nghĩa cấm là dùng binh để mở cõi, trả thù, hay giết người đã hàng.
 - **"Văn bản và nhan đề đã cố định từ năm 1428."** Bài cáo được chép lại trong nhiều sách với dị biệt nhỏ (ví dụ 要在 "cốt ở" trong *Toàn thư* và 務在 "chuyên ở" trong *Lam Sơn thực lục*). Theo Bùi Duy Tân, nhan đề "Bình Ngô đại cáo" không có trong *Toàn thư*, vốn chỉ ghi "vua đã bình Ngô, bá cáo khắp thiên hạ" (帝既平吳，大告天下), nên ai đặt nhan đề còn phải để ngỏ.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. "Việc nhân nghĩa cốt ở yên dân": thử áp dụng tiêu chí này cho một cuộc xung đột đương đại mà bạn biết. Bên nào "yên dân", bên nào "trừ bạo", và bạn chắc chắn đến mức nào về câu trả lời của mình?
 2. Nguyễn Trãi định nghĩa chính nghĩa bằng mục đích (yên dân). Theo bạn, có phương tiện nào mà dù mục đích cao đẹp đến đâu cũng không được phép dùng không?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -122,7 +122,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Thơ văn Lý–Trần: tuyển](tho-van-ly-tran.md) — truyền thống văn chương Việt trước Nguyễn Trãi: vô thường, thiền và thơ
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — Nguyễn Trãi định nghĩa lại "nhân nghĩa"
@@ -130,7 +130,7 @@ Thử xem bạn nắm được đến đâu.
 - [Mạnh Tử: tính thiện](manh-tu-tinh-thien.md) — nguồn của ý "thương dân, đánh kẻ có tội"
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam trong dòng lịch sử Đông Á
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 10 (nguyên văn bài cáo, các sự kiện cuối năm Đinh Mùi), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十>; quyển 11 và 12 (án năm 1442; việc năm 1464, 1467). <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一>
 2. *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (Bùi Huy Bích, 1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>

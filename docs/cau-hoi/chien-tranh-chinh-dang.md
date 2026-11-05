@@ -18,7 +18,7 @@ Triết học chia câu hỏi này thành hai bộ tiêu chí độc lập, bằ
 
 Bài này không bàn về cuộc chiến nào đang diễn ra hôm nay. Bài này hỏi về cấu trúc của lập luận: điều gì, nếu có, có thể biện minh cho chiến tranh.
 
-## Thí nghiệm tư duy
+## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
     Nước A đem quân vượt biên giới đánh nước B, không vì lý do gì ngoài muốn chiếm đất. B đánh trả. Đến đây, hầu hết mọi người đồng ý: B đang tiến hành một cuộc chiến chính đáng.
@@ -32,7 +32,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
     Biến thể thứ hai, khó hơn: giả sử chính phủ A *tuyên bố* rằng B mới là kẻ gây hấn trước (dù sự thật ngược lại), và người dân A tin như vậy. Lính A ra trận với niềm tin chân thành rằng mình đang tự vệ. Họ có "tội" không? Câu hỏi này chia rẽ các triết gia cho đến hôm nay — xem lập trường 3.
 
-## Câu hỏi thật sự là gì?
+## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
 **Câu hỏi thứ nhất (*jus ad bellum*): khi nào được phép *bắt đầu* chiến tranh?** Truyền thống chiến tranh chính nghĩa đưa ra một danh sách điều kiện: phải có *lý do chính đáng* (thường là tự vệ), do *thẩm quyền hợp pháp* quyết định, với *ý định đúng đắn*, là *biện pháp cuối cùng*, có *cơ hội thành công* hợp lý, và *tương xứng* (cái giá của chiến tranh không được lớn hơn cái ác mà nó ngăn chặn). Thiếu một điều kiện, chiến tranh là bất chính.
 
@@ -40,7 +40,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
 **Câu hỏi thứ ba: hai bộ tiêu chí có độc lập với nhau không?** Đây là điểm gây tranh cãi nhất. Lý thuyết cổ điển nói *có*: lính của phe xâm lược (phe bất chính) vẫn có quyền giết lính phe tự vệ, miễn là họ tuân thủ luật chiến tranh — gọi là "sự bình đẳng đạo đức của binh lính". Nghe phi lý? Các nhà phê phán hiện đại cũng thấy vậy — xem lập trường 3.
 
-## Các lập trường chính
+## Các lập trường chính {#cac-lap-truong-chinh}
 
 ### 1. Chủ nghĩa hòa bình: chiến tranh không bao giờ chính đáng
 
@@ -78,7 +78,7 @@ Các nhà phê phán hiện đại, tiêu biểu là Jeff McMahan (*Killing in W
 
 **Cách đáp lại (của người bênh vực Walzer).** Người bênh vực đáp rằng McMahan đúng về mặt triết học thuần túy, nhưng chiến tranh không diễn ra trong phòng thí nghiệm triết học. Lính nghĩa vụ 18 tuổi bị bắt đi lính, bị tuyên truyền dối trá — kết tội đạo đức anh ta như kết tội kẻ chủ mưu là bất công về mặt trực giác. Luật chiến tranh (và "bình đẳng đạo đức") không nhằm mô tả sự thật đạo đức tối hậu; nó nhằm *hạn chế* cái ác trong hoàn cảnh mà cái ác đã xảy ra. Một lý thuyết chiến tranh mà không ai tuân thủ thì tệ hơn một lý thuyết không hoàn hảo mà mọi người đều tuân thủ.
 
-## Giới triết học ngày nay nghĩ gì
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về chiến tranh hay đạo đức chiến tranh trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
@@ -86,7 +86,7 @@ Trong giới triết học, cuộc tranh luận giữa Walzer và các nhà xét
 
 Một điểm đáng chú ý cho người đọc: các nguyên tắc *jus in bello* (phân biệt, tương xứng) không chỉ nằm trên giấy triết học — chúng là nền tảng của luật nhân đạo quốc tế (các Công ước Geneva; hai nguyên tắc này được ghi thành điều khoản rõ ràng trong Nghị định thư bổ sung I năm 1977 — cũng là năm Walzer xuất bản sách của mình). Triết học và luật pháp ở đây đi cùng nhau: triết học đặt câu hỏi "vì sao", luật pháp trả lời "làm thế nào để thực thi".
 
-## Liên hệ đời sống
+## Liên hệ đời sống {#lien-he-doi-song}
 
 **Đọc tin chiến tranh.** Mỗi khi đọc tin về một cuộc xung đột, hãy thử áp dụng hai bộ tiêu chí của bài này một cách *đối xứng* — tức áp cho cả hai phía. Phe này nói "tự vệ": có đúng là tự vệ không, hay là "tự vệ phủ đầu" (đánh trước vì sợ bị đánh)? Phe kia ném bom khu dân cư: họ nói "cần thiết về quân sự" — theo nguyên tắc phân biệt của Walzer, lời biện minh đó có đứng vững không? Bài này không cho bạn kết luận phe nào đúng — nó cho bạn bộ câu hỏi để không bị dắt mũi bởi ngôn ngữ của bất kỳ phe nào.
 
@@ -94,7 +94,7 @@ Một điểm đáng chú ý cho người đọc: các nguyên tắc *jus in bel
 
 **Tranh luận "có nên can thiệp".** Khi một tội ác tày trời xảy ra ở đâu đó (diệt chủng, thảm sát), câu hỏi "cộng đồng quốc tế có nên can thiệp quân sự không" luôn gây chia rẽ. Truyền thống chiến tranh chính nghĩa cho bạn khung phân tích: lý do có chính đáng không (ngăn tội ác — có), thẩm quyền là ai, có phải biện pháp cuối cùng không, cơ hội thành công ra sao, và cái giá tương xứng không. Những người ủng hộ và phản đối can thiệp thường chỉ cãi nhau về *một* điều kiện trong sáu điều kiện — nhận ra điều đó giúp cuộc tranh luận đi vào trọng tâm thay vì thành hai phe hét vào nhau.
 
-## Đọc văn bản gốc
+## Đọc văn bản gốc {#doc-van-ban-goc}
 
 Một ghi chú thành thật: *Just and Unjust Wars* (1977) của Walzer và *Killing in War* (2009) của McMahan đều còn bản quyền, nên bài này không trích dài mà tóm tắt cốt lõi bằng lời mình. Dưới đây là hai bộ tiêu chí, diễn đạt lại ngắn gọn:
 
@@ -112,7 +112,7 @@ Câu hỏi dẫn dắt:
 
 Đọc thêm hai văn bản phương Đông: hướng dẫn đọc [Mặc Tử](../doc/mac-tu-kiem-ai.md) (có thiên *Phi công*, chống chiến tranh xâm lược) và [*Bình Ngô đại cáo*](../doc/nguyen-trai-binh-ngo.md) (chữ "điếu phạt" và việc tha hàng binh).
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *lập luận*, không phải thuộc lòng tên tuổi.
 
@@ -178,7 +178,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 </script>
 </div>
 
-## Tự viết
+## Tự viết {#tu-viet}
 
 **Câu hỏi:** Hãy tưởng tượng bạn là cố vấn của một nguyên thủ đang cân nhắc can thiệp quân sự để ngăn chặn một tội ác tày trời ở nước khác. Hãy viết một bản ghi nhớ ngắn áp dụng *đầy đủ* sáu điều kiện jus ad bellum vào tình huống này — và chỉ ra điều kiện nào là điểm yếu nhất của kế hoạch can thiệp (điều kiện mà phe phản đối sẽ tấn công).
 
@@ -191,7 +191,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Bài viết có tình huống cụ thể thay vì nói chung chung về "chiến tranh" không?
     - Bạn có tránh dùng ngôn ngữ tuyên truyền của bất kỳ phe nào không?
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Moseley, Alexander, "Just War Theory", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/justwar/>
 2. Walzer, Michael (1977), *Just and Unjust Wars: A Moral Argument with Historical Illustrations*, New York: Basic Books.

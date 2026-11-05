@@ -15,13 +15,13 @@ Thời Lý–Trần (1009–1400) là giai đoạn Thiền tông thấm sâu và
     - **Đọc toàn văn trên Wikisource tiếng Việt:** [Thị đệ tử](https://vi.wikisource.org/wiki/Thị_đệ_tử), [Cáo tật thị chúng](https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng), [Cư trần lạc đạo phú](https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú), [Xuân hiểu](https://vi.wikisource.org/wiki/Xuân_hiểu_(Trần_Nhân_Tông)).
     - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 20 phút.
 
-## Bối cảnh
+## Bối cảnh {#boi-canh}
 
 Phật giáo vào Việt Nam từ khoảng đầu Công nguyên. Đến thời Lý–Trần, nó giữ vị trí hàng đầu trong đời sống tinh thần của triều đình: các vua học thiền, và Trần Nhân Tông, sau khi nhường ngôi (1293), xuất gia ở Yên Tử (1299), lập ra Thiền phái Trúc Lâm (xem [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md)).
 
 Câu hỏi xuyên suốt các bài dưới đây là: tu đạo có đòi phải bỏ đời không? Phía Nho gia trả lời gay gắt. Khi chép việc Vạn Hạnh mất, sử thần Ngô Sĩ Liên (thế kỷ 15) bàn trong *Đại Việt sử ký toàn thư*: nhà sư ấy có trí thức hơn người, nhưng "bỏ nhân luân" (廢人倫), chán cảnh trần ồn ã, giữ mình trong sạch một mình, nên "người quân tử không theo" (君子不與也). Các thiền sư Lý–Trần, như ta sẽ thấy, có một câu trả lời khác.
 
-## Đọc từng đoạn
+## Đọc từng đoạn {#doc-tung-doan}
 
 ### 1. Vạn Hạnh: thân như bóng chớp
 
@@ -103,7 +103,7 @@ Không một chữ nào nói về đạo. Chỉ có một người vừa thức 
 
 > Câu hỏi: Lần gần nhất bạn nhìn một điều bình thường mà không kèm lời bình nào trong đầu là khi nào? Việc ấy khó hay dễ?
 
-## Tái dựng lập luận
+## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Mọi sự vật đều vô thường: thân như bóng chớp, thịnh suy như sương đầu cỏ.
 - **P2.** Sợ hãi và khổ đến từ chỗ bám vào cái vô thường như thể nó thường còn.
@@ -118,7 +118,7 @@ Soi từng bước:
 - P4 là **giả định ngầm** (*hidden assumption*): người phe xuất thế sẽ đáp rằng *có sẵn* khả năng không có nghĩa là *dễ thực hiện* ở mọi nơi.
 - Có P3 và P4, kết luận K là **suy diễn** (*deductive*). Riêng vế "thấy vô thường mà không sợ" thì dựa vào kinh nghiệm tu tập, không suy ra được từ các tiền đề.
 
-## Phản bác
+## Phản bác {#phan-bac}
 
 **Nho gia: tu là bỏ nhân luân.** Lời bàn của Ngô Sĩ Liên về Vạn Hạnh tiêu biểu cho phía này: người quân tử có bổn phận với cha mẹ, vua, xã hội; rút vào cửa thiền để giữ mình trong sạch là ích kỷ. *Cách đáp lại:* chính "cư trần lạc đạo" là câu trả lời: đạo không đòi bỏ nhân luân. Trần Nhân Tông làm vua, lãnh đạo kháng chiến chống Nguyên rồi mới xuất gia; ngay Vạn Hạnh, theo *Toàn thư*, cũng từng giải lời sấm và khuyến khích Lý Công Uẩn lên ngôi.
 
@@ -126,18 +126,18 @@ Soi từng bước:
 
 **Phê phán hiện đại: thơ thiền như liều thuốc an thần.** Lấy "vô thường" để xoa dịu thay vì hành động trước bất công. *Cách đáp lại:* "không dính mắc" khác "không hành động"; người viết "đói thì ăn, mệt thì ngủ" cũng là người cầm quân giữ nước. Dù vậy, câu hỏi vẫn đáng giữ: khi nào "buông bỏ" là trí tuệ, khi nào là sự lười biếng bọc trong lời đẹp?
 
-## Hiểu lầm thường gặp
+## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 
 - **"Vô thường nghĩa là bi quan."** Hai bài kệ đời Lý đều đi từ vô thường tới bình thản: "đừng sợ hãi", "một cành mai". Bi quan là kết luận của người vẫn còn bám, không phải của người thấy rõ.
 - **"Cư trần lạc đạo là sống sao cũng được."** "Tùy duyên" không phải buông thả; theo truyền thống Trúc Lâm, "đối cảnh vô tâm" là *kết quả* của tu tập, không phải điểm xuất phát (xem [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md)).
 - **"Nhan đề là do tác giả đặt."** Nhiều nhan đề, như "Cáo tật thị chúng", do người đời sau đặt khi chép lại; đọc thơ thiền nên nhớ văn bản đã đi qua tay nhiều người.
 
-## Câu hỏi để tự viết
+## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 
 1. Chọn một điều bạn đang bám víu (một kế hoạch, một mối quan hệ, một hình ảnh về bản thân). Viết hai đoạn: một từ góc nhìn "muốn giữ mãi", một từ góc nhìn vô thường của Vạn Hạnh. Đoạn nào trung thực hơn?
 2. "Cư trần lạc đạo" trong đời bạn sẽ trông như thế nào, cụ thể trong một ngày làm việc bình thường, không phải trên núi?
 
-## Tự kiểm tra
+## Tự kiểm tra {#tu-kiem-tra}
 
 Thử xem bạn nắm được đến đâu.
 
@@ -152,7 +152,7 @@ Thử xem bạn nắm được đến đâu.
 </script>
 </div>
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - [Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần](../cau-hoi/truc-lam.md) — câu hỏi "tu có cần bỏ đời?" được bàn đầy đủ
 - [Hướng dẫn đọc Bát nhã Tâm kinh](tam-kinh.md) — gốc kinh điển của tư tưởng "không" trong thiền
@@ -160,7 +160,7 @@ Thử xem bạn nắm được đến đâu.
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam thời Lý–Trần trong khu vực
 - [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — thơ thiền đặt cạnh câu hỏi triết học về cái đẹp
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. Vạn Hạnh, "Thị đệ tử"; Mãn Giác, "Cáo tật thị chúng"; Trần Nhân Tông, "Xuân hiểu": nguyên văn chữ Hán và bản dịch thơ của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Thị_đệ_tử>; <https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng>; <https://vi.wikisource.org/wiki/Xuân_hiểu_(Trần_Nhân_Tông)>
 2. Trần Nhân Tông, *Cư trần lạc đạo phú*, hội 5 (chữ Nôm và phiên âm) và bài kệ kết, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội>; <https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân>

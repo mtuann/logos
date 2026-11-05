@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 [Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau đến mức triết học không bao giờ còn là một "hệ thống" duy nhất nữa.
 
-## Hegel: mọi thứ đều vận động theo biện chứng
+## Hegel: mọi thứ đều vận động theo biện chứng {#hegel-moi-thu-deu-van-dong-theo-bien-chung}
 
 **G. W. F. [Hegel](../triet-gia/hegel.md)** (1770–1831), người Đức, là triết gia có tham vọng hệ thống lớn nhất sau [Aristotle](../triet-gia/aristotle.md): ông muốn giải thích *toàn bộ* thực tại — tự nhiên, lịch sử, nghệ thuật, tôn giáo, triết học — trong một hệ thống duy nhất.
 
@@ -20,7 +20,7 @@ Hegel áp dụng logic này cho lịch sử: lịch sử không phải chuỗi s
 
 Vì sao quan trọng? Dù ít ai ngày nay tin vào toàn bộ hệ thống Hegel, phương pháp của ông — nhìn sự vật trong vận động, mâu thuẫn và phát triển lịch sử — thấm vào mọi ngành khoa học xã hội. Và ông là điểm xuất phát (để tiếp thu hay để phản bác) của hầu hết triết học thế kỷ 19 sau ông.
 
-## Marx: lật ngược Hegel
+## Marx: lật ngược Hegel {#marx-lat-nguoc-hegel}
 
 **[Karl Marx](../triet-gia/marx.md)** (1818–1883) từng là "người Hegel trẻ", rồi thực hiện một cú lật ngược nổi tiếng: giữ lại phương pháp biện chứng của Hegel nhưng "đặt nó đứng trên đôi chân của mình". Với Hegel, ý thức quyết định tồn tại; với Marx, **tồn tại xã hội quyết định ý thức**.
 
@@ -32,7 +32,7 @@ Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà ho
 
 Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – kiến trúc thượng tầng** (*base–superstructure*). Theo Marx, cách tổ chức sản xuất (cơ sở hạ tầng) định hình luật pháp, chính trị, tôn giáo, văn hóa (kiến trúc thượng tầng) — chứ không phải ngược lại. Phản bác phổ biến nhất: mô hình này có quá đơn giản không? Ý tưởng — ví dụ chính chủ nghĩa Marx — chẳng phải đã làm thay đổi thế giới vật chất đó sao? Nếu ý thức chỉ là "phản ánh" tồn tại, thì chính tư tưởng của Marx từ đâu mà có?
 
-## Kierkegaard: cá nhân trước hệ thống
+## Kierkegaard: cá nhân trước hệ thống {#kierkegaard-ca-nhan-truoc-he-thong}
 
 **Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, là "kẻ phản Hegel" đầu tiên theo một nghĩa rất cá nhân: ông cho rằng hệ thống của Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
 
@@ -40,7 +40,7 @@ Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Ho�
 
 Kierkegaard được xem là cha đẻ của **hiện sinh** (*existentialism*): triết học bắt đầu từ trải nghiệm của cá nhân cụ thể — lo âu, tuyệt vọng, lựa chọn — chứ không từ hệ thống trừu tượng.
 
-## Nietzsche: "Chúa đã chết"
+## Nietzsche: "Chúa đã chết" {#nietzsche-chua-da-chet}
 
 **Friedrich [Nietzsche](../triet-gia/nietzsche.md)** (1844–1900), người Đức, là triết gia bị hiểu lầm nhiều nhất lịch sử — một phần vì em gái ông sau này bóp méo di sản của ông cho chính trị.
 
@@ -54,7 +54,7 @@ Một tư tưởng khác của ông đáng suy ngẫm: **vĩnh cửu luân hồi
 
 Ảnh hưởng: từ tâm lý học (Freud chịu ảnh hưởng), văn học, đến triết học lục địa thế kỷ 20 — và cả những cuộc tranh luận về ý nghĩa cuộc sống đến hôm nay.
 
-## Mill: tự do cá nhân và hạnh phúc của số đông
+## Mill: tự do cá nhân và hạnh phúc của số đông {#mill-tu-do-ca-nhan-va-hanh-phuc-cua-so-dong}
 
 **[John Stuart Mill](../triet-gia/mill.md)** (1806–1873), người Anh, đại diện cho một hướng khác hẳn: thay vì hệ thống siêu hình hay bi kịch hiện sinh, ông quan tâm đến câu hỏi thực tế — xã hội nên tổ chức thế nào để con người được tự do và hạnh phúc?
 
@@ -66,7 +66,7 @@ Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, 1863), Mill bảo vệ và ti
 
 Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách nghị sĩ Quốc hội Anh, ông đề nghị sửa dự luật bầu cử để trao quyền bầu cử cho phụ nữ — mở ra cuộc tranh luận đầu tiên về vấn đề này ở Quốc hội Anh (đề nghị bị bác); trong *Sự lệ thuộc của phụ nữ* (*The Subjection of Women*, 1869 — Mill viết sau khi vợ ông, Harriet Taylor Mill, qua đời năm 1858, nhưng nhiều lập luận đã có trong bài "The Enfranchisement of Women" năm 1851 của bà), ông lập luận rằng sự thống trị của nam giới với nữ giới không phải tự nhiên mà là một định kiến cổ hủ — một tàn tích của thời man rợ — và xã hội mất đi một nửa tài năng khi giam phụ nữ trong nhà. Vào năm 1869, đó là một quan điểm cực kỳ táo bạo.
 
-## Tóm tắt dòng thời gian
+## Tóm tắt dòng thời gian {#tom-tat-dong-thoi-gian}
 
 | Năm | Nhân vật | Ý chính |
 |---|---|---|
@@ -76,14 +76,14 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 | 1844–1900 | Nietzsche | Chúa đã chết; siêu nhân; vĩnh cửu luân hồi |
 | 1806–1873 | Mill | Nguyên tắc gây hại; vị lợi luận tinh chỉnh |
 
-## Đọc tiếp
+## Đọc tiếp {#doc-tiep}
 
 - Vấn đề ý nghĩa cuộc sống (Nagel, Wolf, Camus): [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md)
 - Tự do và trách nhiệm: [Ta có tự do không?](../cau-hoi/tu-do-y-chi.md) · [Dân chủ là gì?](../cau-hoi/dan-chu.md)
 - Vị lợi luận của Mill: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)
 - Hiện sinh và cái chết: [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 
-## Nguồn
+## Nguồn {#nguon}
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848); Karl Marx, *Capital*, tập 1 (1867) — bản dịch tiếng Anh công cộng.
