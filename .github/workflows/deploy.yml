@@ -11,6 +11,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  pull-requests: write   # changed_units.py đăng danh sách đơn vị đổi thành bình luận PR
 
 concurrency:
   group: pages
@@ -21,6 +22,8 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0   # changed_units.py cần commit gốc để so
       - uses: actions/setup-python@v7
         with:
           python-version-file: ".python-version"
@@ -64,6 +67,21 @@ jobs:
           # Được sửa đơn vị Lõi đã đóng băng khi: PR mang nhãn doi-loi, hoặc một commit được push có "[doi-loi]".
           LZ_ALLOW_CORE_CHANGE: ${{ (contains(github.event.pull_request.labels.*.name, 'doi-loi') || contains(toJSON(github.event.commits.*.message), '[doi-loi]')) && '1' || '' }}
         run: uv run --frozen python tools/check_ledger.py --check
+      - name: Đơn vị thay đổi (không chặn)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BEFORE: ${{ github.event.before }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ -n "$PR" ]; then
+            uv run --frozen python tools/changed_units.py --base "$BASE_SHA" --head HEAD -o units.md
+            gh pr comment "$PR" --body-file units.md --edit-last || gh pr comment "$PR" --body-file units.md
+          elif [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
+            uv run --frozen python tools/changed_units.py --base "$BEFORE" --head HEAD -o units.md
+          fi
+          if [ -f units.md ]; then cat units.md >> "$GITHUB_STEP_SUMMARY"; fi
       - name: Build (strict)
         run: uv run --frozen properdocs build --strict -f mkdocs.yml
       - name: Kiểm thử Python
