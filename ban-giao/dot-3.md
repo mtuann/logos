@@ -75,12 +75,12 @@ Số tổng thêm vào `philpapers-2020.json` ở `source.survey`, chép từ ch
 
 ## Cổng
 
-- [ ] `lint_volatile --strict` = 0 trong Lõi, chạy chặn trong CI; mọi mục miễn có lý do.
-- [ ] Đoạn có hạn dùng nằm trong `data/thoi-su/`, qua schema và `thoi_su_check --check`.
-- [ ] Số đếm nội dung site trong trang hệ thống và trang chủ là shortcode.
-- [ ] Ô số PhilPapers khớp JSON là shortcode; ô còn lại có trong danh sách lệch.
-- [ ] Tương đương 100% cả đợt (`tools/parity.py --base v1.2`).
-- [ ] `AGENTS.md` mục 4 cập nhật nếu có lệnh mới.
+- [x] `lint_volatile --strict` = 0 trong Lõi, chạy chặn trong CI; mọi mục miễn có lý do (90 chỗ đầu đợt: 15 bắt nhầm về ngôn ngữ, sửa luật; 14 chỗ ở 7 đoạn dời ra khối thời sự; 61 vào `data/style/volatile-allow.yml`).
+- [x] Đoạn có hạn dùng nằm trong `data/thoi-su/` (7 khối ở 6 trang), qua schema và `thoi_su_check --check`.
+- [x] Số đếm nội dung site trong trang hệ thống và trang chủ là shortcode (16 chỗ ở 6 trang; còn gõ tay: 2 `description` trong front matter, ghi ở nhật ký).
+- [x] Ô số PhilPapers khớp JSON là shortcode (341/345 ô, 63 n, 31 số tổng; 55 trang); ô còn lại và số trong văn xuôi ở `verification/lech/philpapers-bang.md`; `tests/test_dot3.py` canh.
+- [x] Tương đương 100% cả đợt (`tools/parity.py --base v1.2`: 181 trang giống hệt, không phép thay nào); 70 đơn vị đổi mã băm (62 Lõi), đều do chữ thay bằng shortcode.
+- [x] `AGENTS.md` mục 4 cập nhật (`thoi_su_check`, `lint_volatile --strict`).
 - [ ] CI xanh.
 
 ## Không làm
