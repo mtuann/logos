@@ -74,6 +74,10 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 25 | Nhịp push trong đợt 5 | Push mỗi đợt con, tag `v1.5.N` | Push một lần khi xong cả đợt 5 (luật 6) | **Push khi xong cả đợt 5** (chủ biên chọn 5/11/2026) |
 | 26 | Kiểu ngoặc kép và mã băm | Mã băm bỏ qua kiểu ngoặc (`“ ”` như `"`, `‘ ’` như `'`); kiểu hiển thị chốt ở đợt 6, đổi không mở khóa | Thống nhất ngoặc cong hoặc ngoặc thẳng bằng script trước 5.1 | theo Đề xuất (chủ biên chốt 5/11/2026) |
 | 27 | Tên site (theo quyết định 11) | Đổi tên site thành "Logos", giữ nhãn "(bản dịch của Logos Zero)" | Đổi hết "Logos Zero" thành "Logos", kể cả nhãn bản dịch, bằng script trước 5.1; giữ chỗ nói tới site song song logos-zero | **Đổi hết thành "Logos"** (chủ biên chọn 5/11/2026) |
+| 28 | Năm của tác phẩm (đợt 5.1) | Năm công bố lần đầu; tác phẩm cổ hoặc di cảo chưa rõ năm in thì năm soạn; khác biệt (năm soạn, bản sửa, bản dịch) ghi `year_note`; văn xuôi nói rõ đang dẫn một bản cụ thể thì giữ năm bản đó, còn lại sửa theo năm công bố | Năm soạn; giữ năm như bài | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 29 | Nghĩa của cạnh `influence` (đợt 5.1) | Người sau đọc và đáp lại người trước, tiếp thu hoặc phản bác; ghi định nghĩa ở Sơ đồ ảnh hưởng và schema | Chỉ tiếp thu; tách hai loại cạnh (đợt 6) | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 30 | Năm sinh mất cổ đại không có trong nguồn (đợt 5.1) | `years_label` theo nguồn ("hoạt động k. 500 TCN"); `born`/`died` giữ làm số ước lượng chỉ để xếp trục thời gian, có trường ghi rõ, không hiện như dữ kiện | Giữ nguyên, ghi nguồn yếu | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 31 | Nguồn Việt Nam yếu (đợt 5.1) | Bỏ khẳng định không tìm được nguồn nào; nhận báo chí, bảo tàng, tạp chí Việt Nam, ghi "nguồn yếu" trong bằng chứng để thay bằng ấn phẩm Viện Hán Nôm/Viện Văn học ở đợt 7 | Chờ nguồn sách, chưa đóng băng | theo Đề xuất (chủ biên chốt 5/11/2026) |
 
 ## 4. Kiến trúc
 

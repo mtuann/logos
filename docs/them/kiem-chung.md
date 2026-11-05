@@ -38,7 +38,7 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Loại | Số bản ghi | Đã đóng băng |
 |---|---:|---:|
 | Người (năm sinh mất, trường phái) | 59 | 0 |
-| Tác phẩm | 337 | 0 |
+| Tác phẩm | 335 | 0 |
 | Trích dẫn | 155 | 0 |
 | Sự kiện (ứng viên) | 128 | 0 |
 | Nguồn | 681 | 0 |

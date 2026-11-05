@@ -89,11 +89,22 @@ def save_ledger(ledger: dict, root: Path = ROOT) -> None:
     (root / cl.LEDGER).write_text(json.dumps(ledger, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def ghi_so(dot: str, root: Path = ROOT) -> tuple[int, int]:
-    """Thêm khóa chưa có (chua-kiem). Khóa chua-kiem đã có thì cập nhật mã băm. Trả (thêm, cập nhật)."""
+def ghi_so(dot: str, root: Path = ROOT) -> tuple[int, int, list[str]]:
+    """Thêm khóa chưa có (chua-kiem). Khóa chua-kiem đã có thì cập nhật mã băm. Khóa của đợt con (cùng loại bản ghi
+    hoặc cùng trang) không còn ứng với bản ghi nào (bản ghi rút nhầm bị bỏ, tác phẩm đổi khóa) thì bỏ khỏi sổ, trừ
+    khóa đã đóng băng (check_ledger báo lỗi cho khóa đó). File bằng chứng cũ giữ nguyên. Trả (thêm, cập nhật, bỏ)."""
     ledger = cl.load(root)
     added = updated = 0
-    for key in scope(dot, root):
+    keys = scope(dot, root)
+    kinds, blocks = DOT_CON[dot]
+    pages = {p.path for p in registry.load(root).select(tier="loi", generated=False) if p.block in blocks}
+    live = set(keys)
+    dropped = [k for k, e in ledger["units"].items()
+               if k not in live and e["status"] != "frozen"
+               and (k.split("/", 1)[0] in kinds or k.split("#", 1)[0] in pages)]
+    for k in dropped:
+        del ledger["units"][k]
+    for key in keys:
         h = cl.current_hash(key, root)
         e = ledger["units"].get(key)
         if e is None:
@@ -103,7 +114,7 @@ def ghi_so(dot: str, root: Path = ROOT) -> tuple[int, int]:
             e["hash"] = h
             updated += 1
     save_ledger(ledger, root)
-    return added, updated
+    return added, updated, dropped
 
 
 # ---------------------------------------------------------------- bằng chứng
@@ -329,8 +340,9 @@ def main(argv: list[str]) -> int:
         print("\n".join(scope(a.pham_vi)))
         return 0
     if a.ghi_so:
-        added, updated = ghi_so(a.ghi_so)
-        print(f"Đợt con {a.ghi_so}: thêm {added} khóa chua-kiem, cập nhật mã băm {updated} khóa.")
+        added, updated, dropped = ghi_so(a.ghi_so)
+        print(f"Đợt con {a.ghi_so}: thêm {added} khóa chua-kiem, cập nhật mã băm {updated} khóa, bỏ {len(dropped)} khóa"
+              + (": " + ", ".join(dropped) if dropped else "") + ".")
         return 0
     if a.ghi or a.ghi_dot:
         keys = a.ghi or [k for k in scope(a.ghi_dot) if (ROOT / cl.evidence_path(k)).exists()]

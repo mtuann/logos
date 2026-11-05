@@ -2,7 +2,7 @@
 
 Sinh bằng `python tools/kb_works.py`. Đầu vào cho đợt 5 (đợt con 5.1): không sửa trong đợt 2.
 
-- 337 tác phẩm; 220 đã biết tác giả (từ hồ sơ), 117 chưa rõ tác giả (`chua-ro.*`).
+- 335 tác phẩm; 223 đã biết tác giả (từ hồ sơ), 112 chưa rõ tác giả (`chua-ro.*`).
 - 3 tác phẩm gặp với hơn một năm.
 
 ## Tác phẩm có hơn một năm (3)
@@ -15,7 +15,7 @@ Năm bản gốc, năm bản sửa, năm bản dịch có thể khác nhau hợp
 | `mill.utilitarianism` (Utilitarianism) | **1861**: `people/mill`<br>**1863**: `cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh`, `cau-hoi/dao-duc-hanh-dong.md#doc-van-ban-goc`, `cau-hoi/noi-doi.md#doc-van-ban-goc`, `lich-su/the-ky-19.md#nguon` |
 | `sartre.l-existentialisme-est-un-humanisme` (L'existentialisme est un humanisme) | **1945**: `people/sartre`<br>**1946**: `people/sartre` |
 
-## Chưa rõ tác giả (117)
+## Chưa rõ tác giả (112)
 
 Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nào trong hồ sơ; gán tác giả ở đợt 5.
 
@@ -38,14 +38,12 @@ Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nà
 - `chua-ro.candide`: *Candide*
 - `chua-ro.canh-duc-truyen-dang-luc`: *Cảnh Đức truyền đăng lục*
 - `chua-ro.capitalism-socialism-and-democracy`: *Capitalism, Socialism and Democracy*
-- `chua-ro.cdp-carbon-majors-report-2017`: *CDP Carbon Majors Report 2017*
 - `chua-ro.city-of-god`: *City of God*
 - `chua-ro.con-nguoi-qua-doi-con-nguoi`: *Con người, quá đỗi con người*
 - `chua-ro.confessions`: *Confessions*
 - `chua-ro.cong-hoa`: *Cộng hòa*
 - `chua-ro.contra-mendacium`: *Contra mendacium*
 - `chua-ro.critique-of-pure-reason`: *Critique of Pure Reason*
-- `chua-ro.de-anima`: *De Anima* — Chú giải lớn về
 - `chua-ro.de-mendacio`: *De mendacio*
 - `chua-ro.de-revolutionibus`: *De revolutionibus*
 - `chua-ro.den-hien-dai-tu-truyen-thong`: *Đến hiện đại từ truyền thống*
@@ -96,7 +94,6 @@ Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nà
 - `chua-ro.nephelai`: *Nephelai* — Aristophanes
 - `chua-ro.nhung-van-de-cua-triet-hoc`: *Những vấn đề của triết học*
 - `chua-ro.pha-he-cua-dao-duc`: *Phả hệ của đạo đức*
-- `chua-ro.phenomenologie-de-lesprit`: *Phénoménologie de l’esprit* — “La
 - `chua-ro.phenomenology-of-spirit`: *Phenomenology of Spirit*
 - `chua-ro.philosophical-essays`: *Philosophical Essays*
 - `chua-ro.philosophical-investigations`: *Philosophical Investigations*
@@ -105,7 +102,6 @@ Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nà
 - `chua-ro.reason-truth-and-history`: *Reason, Truth and History*
 - `chua-ro.respect-for-nature`: *Respect for Nature*
 - `chua-ro.sach-ve-cac-nguy-bien`: *Sách về các ngụy biện*
-- `chua-ro.sieu-hinh-hoc`: *Siêu hình học* — Chú giải lớn về
 - `chua-ro.spheres-of-justice`: *Spheres of Justice*
 - `chua-ro.stanford-encyclopedia-of-philosophy`: *Stanford Encyclopedia of Philosophy*
 - `chua-ro.stoicorum-veterum-fragmenta`: *Stoicorum Veterum Fragmenta* — von Arnim
@@ -124,7 +120,6 @@ Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nà
 - `chua-ro.the-reasons-of-love`: *The Reasons of Love*
 - `chua-ro.the-structure-of-scientific-revolutions`: *The Structure of Scientific Revolutions*
 - `chua-ro.three-essays-moral-and-political`: *Three Essays, Moral and Political*
-- `chua-ro.thu-gui-menoeceus`: *Thư gửi Menoeceus*
 - `chua-ro.thus-spoke-zarathustra`: *Thus Spoke Zarathustra*
 - `chua-ro.ton-tai-va-hu-vo`: *Tồn tại và hư vô*
 - `chua-ro.ton-tai-va-thoi-gian`: *Tồn tại và thời gian*

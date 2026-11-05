@@ -34,7 +34,7 @@ Năm 270 TCN, sau hai tuần đau đớn vì sỏi thận, ông viết cho bạn
 
 ## Một lập luận tiêu biểu: Chết không là gì với ta
 
-Trong *Thư gửi Menoeceus* (124–125), Epicurus muốn gỡ nỗi sợ lớn nhất của con người. Đây là lập luận của ông ở dạng chuẩn.
+Trong *Thư gửi Menoeceus* (đoạn 124–125), Epicurus muốn gỡ nỗi sợ lớn nhất của con người. Đây là lập luận của ông ở dạng chuẩn.
 
 - **P1.** Mọi điều tốt và xấu đều nằm ở cảm giác: chỉ cái gì ta cảm nhận được mới có thể tốt hay xấu cho ta.
 - **P2.** Chết là mất hết mọi cảm giác.

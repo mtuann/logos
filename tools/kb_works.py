@@ -34,7 +34,9 @@ OUT = ROOT / "data" / "kb" / "works.yml"
 LECH = ROOT / "verification" / "lech" / "works.md"
 KEEP = ("title_orig", "attribution", "year_note", "evidence", "verified")
 # Số dính chữ cái ngay sau ("519a": số trang Stephanus) không phải năm.
-WORK_YEAR = re.compile(r"\*([^*\n]{2,160}?)\*\s*\((?:khoảng |k\. |năm )?(\d{3,4})(?![\w])(\s*TCN)?")
+# Sau năm (và "TCN") phải là dấu đóng ngoặc, phẩy, chấm phẩy hay gạch nối: "(100 nhà sản xuất…)" không phải năm
+# (đợt 5.1, `works/chua-ro.cdp-carbon-majors-report-2017`).
+WORK_YEAR = re.compile(r"\*([^*\n]{2,160}?)\*\s*\((?:khoảng |k\. |năm )?(\d{3,4})(?![\w])(\s*TCN)?(?=\s*[),;–—-])")
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
 YEAR = re.compile(r"^(?:k\. |khoảng )?(\d{3,4})(\s*TCN)?\b")
 HEAD = ("# Kho tác phẩm. RÚT TỰ ĐỘNG bằng tools/kb_works.py từ \"*Tên* (năm)\" trong bài và danh sách tác phẩm của hồ sơ;\n"
@@ -49,12 +51,27 @@ def year_of(num: str, tcn: str | None) -> int:
     return -int(num) if tcn else int(num)
 
 
+# Tên trong hồ sơ có chữ đứng trước phần in nghiêng nhưng chữ đó là một phần của tên (chú giải, bài báo), không phải
+# tác giả khác: tác phẩm của chủ hồ sơ, tên = cả dòng bỏ dấu nhấn và ngoặc kép (đợt 5.1; bằng chứng
+# works/chua-ro.de-anima, works/chua-ro.sieu-hinh-hoc, works/chua-ro.phenomenologie-de-lesprit).
+OWN_TITLES = {
+    "Chú giải lớn về *De Anima* của Aristotle",
+    "Chú giải lớn về *Siêu hình học* của Aristotle",
+    "“La *Phénoménologie de l’esprit* et son contenu réel”",
+}
+
+
 def profile_works(root: Path):
     """(người, chữ trước tên, tên, năm hoặc None, đơn vị) từ `works` của hồ sơ."""
     for f in sorted((root / "data" / "people").glob("*.yml")):
         for w in yaml.safe_load(f.read_text(encoding="utf-8")).get("works", []):
             m = ITALIC.search(w["title"])
             if not m:
+                continue
+            if w["title"] in OWN_TITLES:
+                y = YEAR.match(w["year"])
+                plain = w["title"].replace("*", "").strip("“”\"")
+                yield f.stem, "", plain, (year_of(y.group(1), y.group(2)) if y else None), f"people/{f.stem}"
                 continue
             prefix = w["title"][:m.start()].strip(" ,;:")
             y = YEAR.match(w["year"])
