@@ -66,6 +66,25 @@ def unit_hashes(path: str, text: str | None) -> dict[str, str]:
     return {u.id: hashing.unit_hash(u.source) for u in units.split(path, text)}
 
 
+# File dữ liệu báo theo bản ghi (khóa giống sổ kiểm chứng, xem tools/check_ledger.py).
+RECORD_FILES = {"data/kb/people.yml": "people", "data/kb/works.yml": "works", "data/kb/quotes.yml": "quotes",
+                "data/kb/events.yml": "events", "data/kb/sources.yml": "sources"}
+
+
+def record_hashes(path: str, text: str | None) -> dict[str, str]:
+    """{khóa bản ghi: mã băm} của một file dữ liệu ở một phiên bản."""
+    if text is None:
+        return {}
+    if path in RECORD_FILES:
+        d = yaml.safe_load(text) or {}
+        return {f"{RECORD_FILES[path]}/{k}": hashing.record_hash(v) for k, v in d.items()}
+    if path.startswith("data/people/") and path.endswith(".yml"):
+        return {f"ho-so/{Path(path).stem}": hashing.record_hash(yaml.safe_load(text))}
+    if path == "data/kb/philpapers-2020.json":
+        return {f"philpapers/{q['id']}": hashing.record_hash(q) for q in json.loads(text).get("questions", [])}
+    return {}
+
+
 def collect(base: str, head: str | None):
     reg = yaml.safe_load(read(head, "content.yml") or "{}") or {}
     pages = {e["path"]: e for e in reg.get("pages", [])}
@@ -76,8 +95,18 @@ def collect(base: str, head: str | None):
     generated: list[str] = []
     data_files: list[tuple[str, dict | None]] = []
     for f in changed_files(base, head):
-        if f in data:
-            data_files.append((f, data[f]))
+        entry = data.get(f) or next((e for p, e in data.items() if p.endswith("/") and f.startswith(p)), None)
+        old_r, new_r = record_hashes(f, read(base, f)), record_hashes(f, read(head, f))
+        if old_r or new_r:
+            for key in list(old_r) + [k for k in new_r if k not in old_r]:
+                if old_r.get(key) == new_r.get(key):
+                    continue
+                kind = "them" if key not in old_r else "bo" if key not in new_r else "sua"
+                changes.append(Change(key, kind, entry["tier"] if entry else None, entry["block"] if entry else None,
+                                      ledger.get(key, {}).get("status")))
+            continue
+        if entry:
+            data_files.append((f, entry))
             continue
         if not (f.startswith("docs/") and f.endswith(".md")):
             continue
@@ -137,7 +166,7 @@ def report(base: str, head: str | None, changes, generated, data_files) -> str:
     if data_files:
         out += ["", "File dữ liệu đổi: " + ", ".join(
             f"`{f}` ({TIER_LABEL.get(e['tier'] if e else None)})" for f, e in data_files)
-                + ". Từ đợt 2 báo theo bản ghi."]
+                + "."]
     if any(c.tier == "loi" for c in changes):
         out += ["", "Checklist cho đơn vị Lõi (`ban-giao/kiem-chung.md`):", "",
                 "- [ ] Dữ kiện (năm, tên, tác phẩm, trích dẫn, số liệu) có nguồn đã mở",
