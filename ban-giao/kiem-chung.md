@@ -72,6 +72,10 @@ Không dùng: blog không rõ tác giả, trang tổng hợp, trang "danh ngôn"
 
 - `hash`: mã băm của đơn vị lúc kiểm: `uv run python tools/check_ledger.py --hash <khóa đơn vị>`. Phải trùng mã băm ghi trong `verification/ledger.json`.
 - `result`: `dat` = không còn lỗi nghiêm trọng hay vừa; `sua` = có lỗi cần sửa, liệt kê trong `claims`; `chua-kiem-duoc` = còn khẳng định không mở được nguồn.
+- Schema: `schema/evidence.schema.json` (CI kiểm). Claim `dung` cần `sources` (ít nhất một) hoặc `kb` (khóa bản ghi kho đã đóng băng làm căn cứ, ví dụ `"kb": "works/kant.critique-of-pure-reason"`); claim `sai` cần `severity`, `fix`, `sources`. `sources[].where` (tùy chọn) ghi vị trí: mục, trang, đoạn.
+- Kiểm lại sau khi người làm sửa: cập nhật `hash` (mã băm mới), đặt `"fixed": true` cho claim `sai` đã được sửa đúng, rồi `result: dat`. `checklist` bắt buộc với đơn vị trang, bỏ với bản ghi kho; câu không áp dụng thì `null`.
+- Đơn vị được ghi `da-kiem` (`tools/verify.py --ghi`) khi `result` là `dat`, mã băm khớp, không còn claim `chua-kiem-duoc`, và mọi claim `sai` có mức `nhe` hoặc `fixed: true`.
+- Kiểm mẫu: agent kiểm thứ hai ghi vào `verification/mau/5.N/<cùng tên file>.json`, cùng định dạng, không mở bằng chứng gốc.
 
 ## Quy tắc trung thực
 

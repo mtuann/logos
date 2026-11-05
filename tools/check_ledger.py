@@ -10,7 +10,8 @@
   - đơn vị `frozen` có mã băm hiện tại khác mã băm trong sổ — trừ khi biến môi trường LZ_ALLOW_CORE_CHANGE=1
     (CI đặt biến này khi PR có nhãn `doi-loi`, hoặc commit được push có `[doi-loi]` trong message);
     khi đó chỉ cảnh báo, và đơn vị phải được kiểm lại, cập nhật sổ trong cùng thay đổi;
-  - đơn vị `da-kiem`/`frozen` thiếu file bằng chứng, hoặc file bằng chứng ghi khóa khác, mã băm khác.
+  - đơn vị `da-kiem`/`frozen` thiếu file bằng chứng, hoặc file bằng chứng sai schema/evidence.schema.json,
+    ghi khóa khác, mã băm khác.
 Đơn vị `chua-kiem`/`da-kiem` lệch mã băm chỉ bị cảnh báo (cần kiểm lại trước khi đóng băng).
 """
 
@@ -183,6 +184,18 @@ def evidence_path(key: str) -> str:
 
 # ---------------------------------------------------------------- kiểm tra
 
+EVIDENCE_SCHEMA = Path("schema") / "evidence.schema.json"
+
+
+def evidence_schema_errors(doc: object, root: Path = ROOT) -> list[str]:
+    """Lỗi schema của một file bằng chứng (schema/evidence.schema.json; đợt 5.0c). Gốc thiếu schema thì bỏ qua."""
+    f = root / EVIDENCE_SCHEMA
+    if not f.exists():
+        return []
+    import jsonschema
+    v = jsonschema.Draft202012Validator(json.loads(f.read_text(encoding="utf-8")))
+    return [f"{'/'.join(map(str, e.absolute_path)) or '(gốc)'}: {e.message}" for e in v.iter_errors(doc)]
+
 def check(ledger: dict, root: Path = ROOT, allow_core_change: bool = False) -> tuple[list[str], list[str]]:
     """(lỗi, cảnh báo)."""
     errors = validate(ledger, load_schema(root))
@@ -214,6 +227,8 @@ def check(ledger: dict, root: Path = ROOT, allow_core_change: bool = False) -> t
             except json.JSONDecodeError as exc:
                 errors.append(f"{key}: file bằng chứng {e['evidence']} không phải JSON hợp lệ ({exc})")
                 continue
+            for err in evidence_schema_errors(doc, root):
+                errors.append(f"{key}: bằng chứng {e['evidence']} sai schema — {err}")
             if doc.get("unit") != key:
                 errors.append(f"{key}: file bằng chứng ghi unit {doc.get('unit')!r}")
             if doc.get("hash") not in (None, e["hash"]):

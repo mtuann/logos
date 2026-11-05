@@ -62,6 +62,18 @@ Không có uv: tạo virtualenv Python 3.11+, `pip install -r requirements.txt` 
 
 Xem đơn vị nào đổi chữ so với `main` (gồm tầng, trạng thái sổ, việc cần làm): `uv run python tools/changed_units.py --base main`.
 
+Kiểm chứng một đợt con của đợt 5 (quy trình: `ban-giao/dot-5.md` mục Đặc tả; bằng chứng: `ban-giao/kiem-chung.md`):
+
+```bash
+uv run python tools/verify.py --pham-vi 5.1     # khóa của đợt con
+uv run python tools/verify.py --ghi-so 5.1      # ghi vào sổ, trạng thái chua-kiem
+uv run python tools/verify.py --ghi-dot 5.1     # bằng chứng đạt → da-kiem
+uv run python tools/verify.py --tien-do 5.1
+uv run python tools/verify.py --mau 5.1         # rồi agent kiểm thứ hai làm verification/mau/5.1/*.json
+uv run python tools/verify.py --so-mau 5.1      # tỉ lệ lỗi nghiêm trọng bị bỏ sót ≤ 2%
+uv run python tools/verify.py --dong-bang 5.1 --chu-bien-duyet YYYY-MM-DD
+```
+
 Thay đổi cơ học (mục 5, bước 3) chứng minh "không đổi chữ" bằng:
 
 ```bash
