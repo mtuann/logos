@@ -116,7 +116,7 @@ def current_hash(key: str, root: Path = ROOT) -> str:
         return hashing.unit_hash(us[ident])
     kind, _, rid = key.partition("/")
     rec = _record(kind, rid, root)
-    return hashing.record_hash(rec)
+    return record_hash(kind, rec)
 
 
 # Bản ghi dữ liệu: loại → file (data/kb/*.yml là ánh xạ khóa → bản ghi). `ho-so/<id>` là cả hồ sơ data/people/<id>.yml;
@@ -125,6 +125,17 @@ RECORD_FILES = {
     "people": "data/kb/people.yml", "works": "data/kb/works.yml", "quotes": "data/kb/quotes.yml",
     "events": "data/kb/events.yml", "sources": "data/kb/sources.yml",
 }
+
+# Trường không vào mã băm của bản ghi: ghi nhận kiểm chứng (`verified`, `evidence`, `accessed`) và trường suy ra từ
+# chỗ dùng (`used_in`, `years_seen`, `texts_seen`, `also`). Sửa một bài làm đổi chỗ dùng, không đổi dữ kiện của bản
+# ghi, nên không được mở khóa bản ghi đã đóng băng (đợt 5.1). Dữ kiện bản ghi nói (tên, tác giả, năm, chữ) vẫn vào.
+RECORD_IGNORE = ("verified", "evidence", "accessed", "used_in", "years_seen", "texts_seen", "also")
+
+
+def record_hash(kind: str, rec: object) -> str:
+    """Mã băm của một bản ghi trong sổ (mọi loại dùng cùng danh sách trường bỏ qua)."""
+    return hashing.record_hash(rec, ignore=RECORD_IGNORE)
+
 
 # Dữ liệu JSON của site (đợt 5.0b): loại → (file, khóa danh sách); mỗi phần tử có `id`.
 JSON_RECORDS = {

@@ -50,6 +50,14 @@
         "title_orig": {
           "$ref": "#/$defs/text"
         },
+        "attribution": {
+          "description": "Đợt 5.1: tác giả theo nguồn đã mở, cho tác phẩm chưa rõ tác giả (author null). Sửa tay, tool giữ khi rút lại.",
+          "$ref": "#/$defs/text"
+        },
+        "year_note": {
+          "description": "Đợt 5.1: ghi chú năm khi các chỗ dùng ghi năm khác nhau hợp lệ (bản gốc, bản in sách, bản dịch). Sửa tay, tool giữ khi rút lại.",
+          "$ref": "#/$defs/text"
+        },
         "year": {
           "oneOf": [
             {

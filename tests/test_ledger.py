@@ -138,7 +138,17 @@ class TestRecordKeys(unittest.TestCase):
         import yaml
         rec = yaml.safe_load((ROOT / "data/kb/people.yml").read_text(encoding="utf-8"))["kant"]
         from lz import hashing
-        self.assertEqual(cl.current_hash("people/kant", ROOT), hashing.record_hash({**rec, "verified": {"date": "x", "by": "y"}}))
+        self.assertEqual(cl.current_hash("people/kant", ROOT),
+                         cl.record_hash("people", {**rec, "verified": {"date": "x", "by": "y"}, "evidence": ["x"]}))
+
+    def test_record_hash_ignores_usage_fields(self):
+        """Đợt 5.1: chỗ dùng (used_in, years_seen…) đổi khi sửa bài, không làm đổi mã băm; dữ kiện thì có."""
+        import yaml
+        rec = yaml.safe_load((ROOT / "data/kb/works.yml").read_text(encoding="utf-8"))["mill.utilitarianism"]
+        h = cl.record_hash("works", rec)
+        self.assertEqual(h, cl.record_hash("works", {**rec, "used_in": [], "years_seen": {"1999": ["x.md#a"]}}))
+        self.assertNotEqual(h, cl.record_hash("works", {**rec, "year": 1862}))
+        self.assertNotEqual(h, cl.record_hash("works", {**rec, "author": "bentham"}))
 
 
 class TestStatus(unittest.TestCase):

@@ -13,7 +13,7 @@ Hai nguồn:
      `author: null`, khóa `chua-ro.<tên>`. Không đoán tác giả: gán ở đợt 5.
 Mỗi bản ghi giữ mọi cách viết tên (`titles`) và mọi năm gặp được (`years_seen`: năm → đơn vị). `year` chỉ điền khi
 mọi chỗ cùng một năm; khác nhau thì `null` và vào verification/lech/works.md (năm bản gốc và năm bản dịch/bản in
-khác nhau là chuyện thường: đợt 5 xem từng trường hợp). Trường `evidence`, `verified`, `title_orig` được giữ khi rút lại.
+khác nhau là chuyện thường: đợt 5 xem từng trường hợp). Trường `title_orig`, `attribution`, `year_note`, `evidence`, `verified` được giữ khi rút lại (đợt 5.1).
 """
 
 from __future__ import annotations
@@ -32,13 +32,13 @@ from lz.lint import masked_lines
 
 OUT = ROOT / "data" / "kb" / "works.yml"
 LECH = ROOT / "verification" / "lech" / "works.md"
-KEEP = ("title_orig", "evidence", "verified")
+KEEP = ("title_orig", "attribution", "year_note", "evidence", "verified")
 # Số dính chữ cái ngay sau ("519a": số trang Stephanus) không phải năm.
 WORK_YEAR = re.compile(r"\*([^*\n]{2,160}?)\*\s*\((?:khoảng |k\. |năm )?(\d{3,4})(?![\w])(\s*TCN)?")
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
 YEAR = re.compile(r"^(?:k\. |khoảng )?(\d{3,4})(\s*TCN)?\b")
 HEAD = ("# Kho tác phẩm. RÚT TỰ ĐỘNG bằng tools/kb_works.py từ \"*Tên* (năm)\" trong bài và danh sách tác phẩm của hồ sơ;\n"
-        "# chỉ title_orig, evidence, verified được sửa ở đây. Schema: schema/kb/works.schema.json. Lệch: verification/lech/works.md.\n")
+        "# chỉ title_orig, attribution, year_note, evidence, verified được sửa ở đây. Schema: schema/kb/works.schema.json. Lệch: verification/lech/works.md.\n")
 
 
 def norm(title: str) -> str:
@@ -124,7 +124,7 @@ def merge_kept(recs: dict, old: dict) -> dict:
 
 
 def render(recs: dict) -> str:
-    order = ["author", "author_name", "titles", "title_orig", "year", "years_seen", "used_in", "evidence", "verified"]
+    order = ["author", "author_name", "attribution", "titles", "title_orig", "year", "year_note", "years_seen", "used_in", "evidence", "verified"]
     out = {k: {f: r[f] for f in order if f in r} for k, r in recs.items()}
     return HEAD + yaml.safe_dump(out, allow_unicode=True, sort_keys=False, width=1_000_000)
 
