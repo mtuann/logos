@@ -10,8 +10,8 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 
 | Đợt | Tên | Dự kiến | Trạng thái |
 |---|---|---|---|
-| 0 | Chốt mốc | 3/11–8/11/2026 | **Chờ merge** PR #1 — `ban-giao/dot-0.md`, nhật ký `ban-giao/nhat-ky-dot-0.md` |
-| 1 | Công cụ nền | 9/11–22/11/2026 | Chưa — `ban-giao/dot-1.md` |
+| 0 | Chốt mốc | 3/11–8/11/2026 | **Xong** 4/11/2026 (PR #1) — `ban-giao/dot-0.md`, nhật ký `ban-giao/nhat-ky-dot-0.md` |
+| 1 | Công cụ nền | 9/11–22/11/2026 | **Đang làm** từ 5/11/2026 — `ban-giao/dot-1.md`, nhật ký `ban-giao/nhat-ky-dot-1.md` |
 | 2 | Kho dữ kiện | 23/11–6/12/2026 | Chưa |
 | 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | Chưa |
 | 4 | Giao diện tối thiểu | 14/12–20/12/2026 | Chưa |

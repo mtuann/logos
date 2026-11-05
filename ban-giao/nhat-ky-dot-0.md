@@ -16,3 +16,5 @@ Mỗi dòng một việc đã xong hoặc đang dở. Phiên sau đọc từ đ�
 | 2026-11-04 | 0.7 Tạo 12 nhãn bằng `tools/github_labels.sh` | — | xong (chủ biên) | — |
 | 2026-11-04 | Mở PR #1 `dot-0-chot-moc` → `main` | — | xong | chờ CI xanh, merge, bật Pages |
 | 2026-11-04 | 0.2 Chốt 11 quyết định theo Đề xuất; duyệt `content.yml` | `KE-HOACH.md`, `ban-giao/dot-0.md` | xong (chủ biên chọn) | — |
+| 2026-11-04 | Merge PR #1 vào `main`; CI xanh trên `main`; bật GitHub Pages | — | xong (chủ biên) | — |
+| 2026-11-05 | Đóng đợt 0: kiểm cổng (Pages trả 200), cập nhật bảng Trạng thái | `KE-HOACH.md`, `ban-giao/dot-0.md` | xong | — |
