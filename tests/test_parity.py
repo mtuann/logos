@@ -76,6 +76,24 @@ class TestCompare(unittest.TestCase):
         self.assertNotEqual(parity.compare(a, b)[0], [])
         self.assertEqual(parity.compare(a, b, [(re.compile(r"\bSEP\b"), "SEP (bản lưu)")])[0], [])
 
+    def test_generated_ui_ignored(self):
+        ui = PAGE.replace('<h1 id="tri-thuc">', '<div class="oz-info" data-oz-sinh><span>Lõi</span> · <b id="x">chưa kiểm</b><br>'
+                          '<img src="a.png" data-oz-sinh></div><h1 id="tri-thuc">')
+        self.assertEqual(parity.extract(ui), parity.extract(PAGE))
+        moved = PAGE.replace("<p>Năm", '<div class="oz-thoi-su"><p data-oz-sinh>Có hạn dùng</p><p>Năm').replace("</p>\n<h2", "</p></div>\n<h2")
+        self.assertEqual(parity.extract(moved).lines, parity.extract(PAGE).lines)
+
+    def test_exempt_and_new_pages(self):
+        a = site({"index.html": PAGE, "x/index.html": PAGE})
+        b = site({"index.html": PAGE.replace("Descartes", "Kant"), "x/index.html": PAGE, "moi/index.html": PAGE})
+        problems, _ = parity.compare(a, b)
+        self.assertEqual(len(problems), 2)
+        notes = []
+        problems, _ = parity.compare(a, b, exempt=["index.html"], new_ok=["moi/*"], notes=notes)
+        self.assertEqual(problems, [])
+        self.assertEqual(len(notes), 2)
+        self.assertIn("ngoại lệ", notes[1] if "ngoại lệ" in notes[1] else notes[0])
+
     def test_cli_exit_codes(self):
         a, b = site({"x.html": PAGE}), site({"x.html": PAGE.replace("SEP", "IEP")})
         with contextlib.redirect_stdout(io.StringIO()) as out:
