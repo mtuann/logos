@@ -68,7 +68,7 @@ jobs:
         run: uv run --frozen python tools/kb_works.py --check
       - name: Kho trích dẫn khớp các trang
         run: uv run --frozen python tools/kb_quotes.py --check
-      - name: Số liệu PhilPapers: bản đọc khớp JSON
+      - name: Số liệu PhilPapers — bản đọc khớp JSON
         run: uv run --frozen python tools/kb_philpapers.py --check
       - name: Ứng viên sự kiện khớp các trang
         run: uv run --frozen python tools/kb_events.py --check
