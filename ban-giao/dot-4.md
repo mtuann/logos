@@ -65,9 +65,9 @@ Giữ đúng cú pháp nav của MkDocs để chép thẳng. `nav_gen.py` ghi v�
 - [x] Parity 100% cả đợt (`tools/parity.py --base v1.3`, bỏ `data-oz-sinh`): 183 trang; ngoại lệ có ghi khác biệt: `index.html` (trang chủ mới), `them/index.html` (2 dòng mới), `them/cap-nhat/index.html` (mục sinh đếm bài), chỉ mục tìm kiếm của 2 trang `lich-su/` (bỏ chữ SVG); 2 trang mới. `changed_units`: 3 đơn vị đổi chữ, 0 thuộc Lõi.
 - [x] `search_index.json` giảm ≥ 45% mà tìm không dấu vẫn đúng (kiểm thử): 5.583.030 → 3.041.058 byte (−45,5%); chỉ tải khi có ý tìm.
 - [x] Trang tác phẩm và trang Tình trạng kiểm chứng sinh từ dữ liệu, có `--check`; nav sinh từ `content.yml`.
-- [ ] Chủ biên duyệt ảnh chụp 10 trang mẫu.
+- [x] Chủ biên duyệt ảnh chụp 10 trang mẫu (5/11/2026; 40 ảnh + 6 ảnh cận cảnh, CI lưu lại thành artifact `anh-trang-mau`).
 - [x] `AGENTS.md` mục 4 có lệnh mới (`works_page`, `verification_page`, `nav_gen`, `npm run test:real`).
-- [ ] CI xanh.
+- [x] CI xanh (run 42071971391: build, deploy).
 
 ## Không làm
 
