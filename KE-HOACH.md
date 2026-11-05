@@ -59,8 +59,8 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 10 | Nền tảng | ProperDocs 1.6.7 + Material 9.8.0, ghim bằng `uv.lock`; lối ra là bộ build Python tự viết (mục 11) | Zensical khi có bản 1.0; Astro + Starlight | theo Đề xuất (chủ biên chốt 4/11/2026) |
 | 11 | Tên site | Giữ "Logos Zero" tới đợt 5 (chữ trong bài chỉ sửa ở đợt 5) | Đổi ngay thành "Logos" ở tên site và manifest | theo Đề xuất (chủ biên chốt 4/11/2026) |
 | 12 | Cho Google lập chỉ mục logos | `noindex` (`extra.noindex: true`) tới khi logos khác logos-zero rõ rệt | Mở ngay | theo Đề xuất (chủ biên chốt 4/11/2026) |
-| 13 | Kiểm schema của kho dữ kiện (đợt 2) | Thêm `jsonschema` (ghim trong `pyproject.toml`/`uv.lock`), vì schema kho có tham chiếu và điều kiện | Tự viết bộ kiểm cho tập con JSON Schema như `check_ledger.py`, không thêm gói | chờ |
-| 14 | Quý của bản lưu SEP (đợt 2) | `fall2026` (bản lưu mới nhất lúc làm đợt 2; đã mở thử được 5/11/2026); đổi quý chỉ khi kiểm lại nguồn ở đợt 5 hoặc Mở rộng | Luôn dùng quý mới nhất | chờ |
+| 13 | Kiểm schema của kho dữ kiện (đợt 2) | Thêm `jsonschema` (ghim trong `pyproject.toml`/`uv.lock`), vì schema kho có tham chiếu và điều kiện | Tự viết bộ kiểm cho tập con JSON Schema như `check_ledger.py`, không thêm gói | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 14 | Quý của bản lưu SEP (đợt 2) | `fall2026` (bản lưu mới nhất lúc làm đợt 2; đã mở thử được 5/11/2026); đổi quý chỉ khi kiểm lại nguồn ở đợt 5 hoặc Mở rộng | Luôn dùng quý mới nhất | theo Đề xuất (chủ biên chốt 5/11/2026) |
 | 15 | `description` trong front matter có vào mã băm không | Không, đúng đặc tả 5.6 (mã băm bỏ front matter); tiêu đề vẫn được băm qua dòng `# …` | Băm thêm `title`, `description` vào đơn vị `#_dau` | chờ |
 | 16 | Quy tắc đếm của `[[count:…]]` | Không đếm trang `he-thong` và trang sinh tự động, trừ trang triết gia (`lich-su` → 8, `triet-gia` → 59) | Đếm mọi trang theo `type` | chờ |
 | 17 | Năm trong trích dẫn tác giả–năm ("Bourget & Chalmers 2023") ở `lint_volatile` | Không tính: là năm xuất bản, không có hạn dùng | Tính, như báo cáo nền | chờ |

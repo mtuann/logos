@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mtuann.github.io/logos/schema/kb/people.schema.json",
+  "title": "Người (data/kb/people.yml)",
+  "description": "Mỗi triết gia có hồ sơ một bản ghi; khóa = id trang triet-gia/<id>.md. born/died là năm dùng để vẽ dòng thời gian (TCN là số âm); years_label là chuỗi hiện trên site (giữ 'k.' và cách viết gốc). Đặc tả: ban-giao/dot-2.md.",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+  },
+  "additionalProperties": {
+    "$ref": "#/$defs/entry"
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "name_en",
+        "born",
+        "died",
+        "years_label",
+        "school",
+        "summary",
+        "influence",
+        "evidence",
+        "verified"
+      ],
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/text"
+        },
+        "name_en": {
+          "$ref": "#/$defs/text"
+        },
+        "born": {
+          "type": "integer"
+        },
+        "died": {
+          "type": "integer"
+        },
+        "years_label": {
+          "$ref": "#/$defs/text"
+        },
+        "school": {
+          "enum": [
+            "Tiền Socrates",
+            "Hy Lạp cổ đại",
+            "La Mã",
+            "Trung cổ",
+            "Cận đại",
+            "Thế kỷ 19",
+            "Thế kỷ 20",
+            "Ấn Độ",
+            "Trung Hoa",
+            "Việt Nam"
+          ]
+        },
+        "summary": {
+          "$ref": "#/$defs/text"
+        },
+        "influence": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "uniqueItems": true
+        },
+        "evidence": {
+          "$ref": "#/$defs/evidence"
+        },
+        "verified": {
+          "$ref": "#/$defs/verified"
+        }
+      }
+    },
+    "evidence": {
+      "description": "Khóa trong sources.yml hoặc URL đã mở khi kiểm; rỗng khi mới rút.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "verified": {
+      "description": "null tới khi được kiểm ở đợt 5; khi kiểm: ngày và người/phiên kiểm.",
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "date",
+            "by"
+          ],
+          "properties": {
+            "date": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      ]
+    },
+    "used_in": {
+      "description": "Đơn vị dùng bản ghi này: trang.md#id (lz.units), hoặc people/<id> cho hồ sơ.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^([a-z0-9-]+/)*[a-z0-9-]+\\.md#[A-Za-z0-9_-]+$|^people/[a-z0-9-]+$"
+      }
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://\\S+$"
+    }
+  }
+}
