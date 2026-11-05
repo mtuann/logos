@@ -230,6 +230,6 @@ Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta 
 
 ## Nguồn {#nguon}
 
-1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (về giả định ngầm, tiền đề tối thiểu về mặt logic và nguyên tắc thiện chí). <https://plato.stanford.edu/entries/logic-informal/>
+1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (về giả định ngầm, tiền đề tối thiểu về mặt logic và nguyên tắc thiện chí). <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-3. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/fallacies/>
+3. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>

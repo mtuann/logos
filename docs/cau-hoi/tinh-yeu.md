@@ -183,7 +183,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Helm, Bennett, "Love", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/love/>
+1. Helm, Bennett, "Love", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/love/>
 2. Platon, *Symposium* (khoảng thế kỷ 4 TCN); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1600>
 3. Frankfurt, Harry G. (2004), *The Reasons of Love*, Princeton: Princeton University Press.
 4. Velleman, J. David (1999), "Love as a Moral Emotion", *Ethics* 109(2): 338–374. <https://doi.org/10.1086/233898>

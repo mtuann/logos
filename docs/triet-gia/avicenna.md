@@ -61,10 +61,10 @@ Thí nghiệm này mở đầu phần bàn về linh hồn trong *Chữa lành*.
 
 ## Nguồn
 
-1. Gutas, Dimitri, “Ibn Sina [Avicenna]”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ibn-sina/>
+1. Gutas, Dimitri, “Ibn Sina [Avicenna]”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ibn-sina/>
 2. Rizvi, Sajjad H., “Avicenna (Ibn Sina)”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/avicenna-ibn-sina/>
-3. Lizzini, Olga, “Ibn Sina’s Metaphysics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ibn-sina-metaphysics/>
-4. Smith, Joel, “Self-Consciousness”, *Stanford Encyclopedia of Philosophy* (mục 1, về “người bay”). <https://plato.stanford.edu/entries/self-consciousness/>
+3. Lizzini, Olga, “Ibn Sina’s Metaphysics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ibn-sina-metaphysics/>
+4. Smith, Joel, “Self-Consciousness”, *Stanford Encyclopedia of Philosophy* (mục 1, về “người bay”). <https://plato.stanford.edu/archives/fall2026/entries/self-consciousness/>
 5. Dante Alighieri, *Divine Comedy: Hell*, khúc IV, bản dịch H. W. Longfellow, Project Gutenberg. <https://www.gutenberg.org/ebooks/1001>
 
 ---

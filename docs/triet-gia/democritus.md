@@ -67,9 +67,9 @@ Không còn văn bản nào của Democritus trình bày lập luận này. Aris
 
 ## Nguồn
 
-1. Berryman, Sylvia, “Democritus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/democritus/>
-2. Berryman, Sylvia, “Ancient Atomism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/atomism-ancient/>
-3. Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy* (mục 3: phê phán của Aristotle và lời đáp của Epicurus). <https://plato.stanford.edu/entries/epicurus/>
+1. Berryman, Sylvia, “Democritus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democritus/>
+2. Berryman, Sylvia, “Ancient Atomism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/atomism-ancient/>
+3. Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy* (mục 3: phê phán của Aristotle và lời đáp của Epicurus). <https://plato.stanford.edu/archives/fall2026/entries/epicurus/>
 4. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển IX, bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX>
 
 ---

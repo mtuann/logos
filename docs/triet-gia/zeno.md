@@ -67,7 +67,7 @@ Zeno không để lại văn bản trình bày lập luận này; Diogenes Laër
 
 ## Nguồn
 
-1. Durand, Marion, Simon Shogry & Dirk Baltzly, “Stoicism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/stoicism/>
+1. Durand, Marion, Simon Shogry & Dirk Baltzly, “Stoicism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/stoicism/>
 2. Pigliucci, Massimo, “Stoicism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/stoicism/>
 3. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển VII, bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII>
 4. Cicero, *On the Nature of the Gods* III.22–23, bản dịch C. D. Yonge, Project Gutenberg. <https://www.gutenberg.org/ebooks/14988>

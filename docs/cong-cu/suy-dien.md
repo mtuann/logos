@@ -245,6 +245,6 @@ Suy diễn cho ta sự chắc chắn, nhưng với một cái giá: kết luận
 
 ## Nguồn {#nguon}
 
-1. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
+1. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
 3. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy* (các mục "Affirming the Consequent" và "Denying the Antecedent"). <https://iep.utm.edu/fallacy/>

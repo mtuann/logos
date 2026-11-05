@@ -183,7 +183,7 @@ Nếu bạn mới đến Logos Zero, trang [Bắt đầu](../bat-dau/index.md) c
 
 ## Nguồn {#nguon}
 
-1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>
+1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-3. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logical-consequence/>
-4. Stewart Shapiro và Teresa Kouri Kissel, "Classical Logic", *Stanford Encyclopedia of Philosophy* (về ký hiệu Γ ⊢ φ: φ suy ra được từ Γ trong một hệ suy diễn). <https://plato.stanford.edu/entries/logic-classical/>
+3. Jc Beall, Greg Restall và Gil Sagi, "Logical Consequence", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/>
+4. Stewart Shapiro và Teresa Kouri Kissel, "Classical Logic", *Stanford Encyclopedia of Philosophy* (về ký hiệu Γ ⊢ φ: φ suy ra được từ Γ trong một hệ suy diễn). <https://plato.stanford.edu/archives/fall2026/entries/logic-classical/>

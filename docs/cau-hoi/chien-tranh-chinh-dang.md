@@ -198,5 +198,5 @@ Gợi ý độ dài: 200–350 chữ.
 1. Moseley, Alexander, "Just War Theory", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/justwar/>
 2. Walzer, Michael (1977), *Just and Unjust Wars: A Moral Argument with Historical Illustrations*, New York: Basic Books.
 3. McMahan, Jeff (2009), *Killing in War*, Oxford: Oxford University Press.
-4. Lazar, Seth (2016), "War", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/war/>
+4. Lazar, Seth (2016), "War", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/war/>
 5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

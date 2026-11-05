@@ -201,11 +201,11 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-ethics/>
-2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-epistemology/>
+1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/>
+2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-epistemology/>
 3. Wollstonecraft, Mary (1792), *A Vindication of the Rights of Woman*, London: J. Johnson (phạm vi công cộng). <https://www.gutenberg.org/ebooks/3420>
 4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng).
 5. Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.
 6. Gilligan, Carol (1982), *In a Different Voice*, Cambridge, MA: Harvard University Press.
 7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
-8. Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/feminism-gender/>
+8. Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/>

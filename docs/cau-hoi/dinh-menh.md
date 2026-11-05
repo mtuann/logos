@@ -211,8 +211,8 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/determinism-causal/>
-2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/freewill/>
+1. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/>
+2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
 3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <http://www.gutenberg.org/ebooks/14328>
 4. Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).
 5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài).

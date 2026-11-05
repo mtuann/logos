@@ -69,9 +69,9 @@ Ta thường hỏi một hành động có đạo đức không. Nietzsche hỏi
 
 ## Nguồn
 
-1. Anderson, R. Lanier, “Friedrich Nietzsche”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nietzsche/>
-2. Wicks, Robert, “Nietzsche’s Life and Works”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nietzsche-life-works/>
-3. Leiter, Brian, “Nietzsche’s Moral and Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/nietzsche-moral-political/>
+1. Anderson, R. Lanier, “Friedrich Nietzsche”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nietzsche/>
+2. Wicks, Robert, “Nietzsche’s Life and Works”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nietzsche-life-works/>
+3. Leiter, Brian, “Nietzsche’s Moral and Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nietzsche-moral-political/>
 4. Nietzsche, Friedrich, *The Joyful Wisdom*, Thomas Common dịch (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/52881>
 
 ---

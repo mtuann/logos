@@ -68,7 +68,7 @@ Lập luận bất đối xứng trong *Logik der Forschung* (§1, §6), tái d�
 
 ## Nguồn
 
-1. Thornton, Stephen, “Karl Popper”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/popper/>
+1. Thornton, Stephen, “Karl Popper”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/popper/>
 2. Shea, Brendan, “Karl Popper: Philosophy of Science”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/pop-sci/>
 3. Gorton, William, “Karl Popper: Political Philosophy”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/popp-pol/>
 4. Popper, Karl, *The Logic of Scientific Discovery*, London: Routledge Classics, 2002 (bản dịch của *Logik der Forschung*, Vienna: Julius Springer, 1934; xem Lời người dịch và §1, §4, §6, §11, §20).

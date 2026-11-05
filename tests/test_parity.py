@@ -70,6 +70,12 @@ class TestCompare(unittest.TestCase):
         diff, _ = parity.compare(site({"search/search_index.json": idx("x")}), site({"search/search_index.json": idx("y")}))
         self.assertEqual(diff, ["search_index.json lệch: 1 mục, ví dụ ['a/']"])
 
+    def test_expected_substitution(self):
+        import re
+        a, b = site({"x.html": PAGE}), site({"x.html": PAGE.replace("SEP", "SEP (bản lưu)")})
+        self.assertNotEqual(parity.compare(a, b)[0], [])
+        self.assertEqual(parity.compare(a, b, [(re.compile(r"\bSEP\b"), "SEP (bản lưu)")])[0], [])
+
     def test_cli_exit_codes(self):
         a, b = site({"x.html": PAGE}), site({"x.html": PAGE.replace("SEP", "IEP")})
         with contextlib.redirect_stdout(io.StringIO()) as out:

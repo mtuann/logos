@@ -165,6 +165,6 @@ Trực giác là điểm khởi đầu tốt. Nhưng cũng chính nơi trực gi
 
 ## Nguồn {#nguon}
 
-1. James Robert Brown và Yiftach Fehige, "Thought Experiments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/thought-experiment/>
+1. James Robert Brown và Yiftach Fehige, "Thought Experiments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/>
 2. Amos Tversky và Daniel Kahneman, "The Framing of Decisions and the Psychology of Choice", *Science* 211(4481), 1981, tr. 453–458 (về hiệu ứng đóng khung). <https://doi.org/10.1126/science.7455683>
 3. Edmond Awad et al., "The Moral Machine experiment", *Nature* 563 (2018), tr. 59–64. <https://doi.org/10.1038/s41586-018-0637-6>

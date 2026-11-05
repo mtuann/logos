@@ -181,5 +181,5 @@ Gợi ý độ dài: 150–300 chữ.
 4. Hick, John (1966), *Evil and the God of Love*, London: Macmillan.
 5. Wykstra, Stephen J. (1984), "The Humean Obstacle to Evidential Arguments from Suffering", *International Journal for Philosophy of Religion* 16: 73–93.
 6. Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov.
-7. Tooley, Michael, "The Problem of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/evil/>
+7. Tooley, Michael, "The Problem of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/evil/>
 8. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 — phản bác thứ nhất ở đây chính là vấn đề sự dữ.

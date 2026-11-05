@@ -127,7 +127,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 1. Kant, Immanuel (1784), "Beantwortung der Frage: Was ist Aufklärung?", *Berlinische Monatsschrift* 4 (12): 481–494, bản in gốc trên Wikisource <https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F>; Akademie-Ausgabe 8: 33–42 <https://www.korpora.org/Kant/aa08/035.html>
 2. Kant, Immanuel (1786), "Was heißt: sich im Denken orientiren?", Akademie-Ausgabe 8: 144 <https://www.korpora.org/Kant/aa08/144.html>
 3. Horace, *Epistulae* I.2.40, The Latin Library. <https://www.thelatinlibrary.com/horace/epist1.shtml>
-4. Bristow, William, "Enlightenment", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/enlightenment/>
-5. Rauscher, Frederick, "Kant's Social and Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant-social-political/>
-6. Griffith-Dickson, Gwen, "Johann Georg Hamann", *Stanford Encyclopedia of Philosophy* (về thư gửi Kraus năm 1784). <https://plato.stanford.edu/entries/hamann/>
+4. Bristow, William, "Enlightenment", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/enlightenment/>
+5. Rauscher, Frederick, "Kant's Social and Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-social-political/>
+6. Griffith-Dickson, Gwen, "Johann Georg Hamann", *Stanford Encyclopedia of Philosophy* (về thư gửi Kraus năm 1784). <https://plato.stanford.edu/archives/fall2026/entries/hamann/>
 7. Foucault, Michel (1984), "What is Enlightenment?", trong Paul Rabinow (chủ biên), *The Foucault Reader*, New York: Pantheon, tr. 32–50.

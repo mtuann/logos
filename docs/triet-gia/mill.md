@@ -73,7 +73,7 @@ Chương II của *Bàn về tự do* (1859) bảo vệ tự do tư tưởng và
 
 ## Nguồn
 
-1. Macleod, Christopher, “John Stuart Mill”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mill/>
+1. Macleod, Christopher, “John Stuart Mill”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mill/>
 2. Schefczyk, Michael, “John Stuart Mill: Ethics”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/mill-eth/>
 3. Mill, John Stuart, *On Liberty* (1859), Project Gutenberg. <https://www.gutenberg.org/ebooks/34901>
 4. Mill, John Stuart, *Utilitarianism* (1863), Project Gutenberg. <https://www.gutenberg.org/ebooks/11224>

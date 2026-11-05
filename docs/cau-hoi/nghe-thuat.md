@@ -199,13 +199,13 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hume-aesthetics/>
+1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>
 2. Tolstoy, Lev (1897), *What is Art?* (*Chto takoe iskusstvo?*). Bản dịch tiếng Anh của Aylmer Maude (1898) thuộc phạm vi công cộng: <https://www.gutenberg.org/ebooks/64908>
 3. Bell, Clive (1914), *Art*, London: Chatto & Windus.
 4. Danto, Arthur (1964), "The Artworld", *Journal of Philosophy* 61(19): 571–584.
 5. Dickie, George (1974), *Art and the Aesthetic: An Institutional Analysis*, Ithaca: Cornell University Press.
 6. Weitz, Morris (1956), "The Role of Theory in Aesthetics", *Journal of Aesthetics and Art Criticism* 15(1): 27–35.
-7. Adajian, Thomas, "The Definition of Art", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/art-definition/>
+7. Adajian, Thomas, "The Definition of Art", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/art-definition/>
 8. Gaut, Berys (2000), "'Art' as a Cluster Concept", trong Noël Carroll (chủ biên), *Theories of Art Today*, Madison: University of Wisconsin Press, tr. 25–44.
 9. "Duchamp's urinal tops art survey", *BBC News*, 01/12/2004. <http://news.bbc.co.uk/2/hi/entertainment/4059997.stm>
 10. Ebert, Roger (2010), "Okay, kids, play on my lawn", *RogerEbert.com*. <https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn>

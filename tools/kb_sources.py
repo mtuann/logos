@@ -10,7 +10,8 @@ Khóa theo URL đầu tiên của mục (`sep.<mục>`, `iep.<mục>`, `gutenber
 Các mục có cùng URL đầu (sau chuẩn hóa: https, bỏ www., bỏ / cuối, bỏ #…) được gộp; chữ khác nhau ghi ở `texts_seen`.
 URL thứ hai trở đi của một mục ghi ở `also`.
 
-Trường biên tập thêm sau (`archive`, `accessed`, `verified`) được giữ nguyên khi rút lại. Đây là chỉ mục của các
+Nguồn SEP dẫn bằng bản lưu fall2026 (quyết định 14): `url` là link gốc của mục, `archive` là bản lưu.
+Trường biên tập thêm sau (`accessed`: ngày đã mở bản lưu, ghi bởi tools/sep_archive.py; `verified`) được giữ nguyên khi rút lại. Đây là chỉ mục của các
 mục Nguồn đang có, không phải nơi sửa nguồn: sửa ở trang hoặc hồ sơ rồi chạy lại tool.
 """
 
@@ -31,11 +32,13 @@ from lz import ROOT, registry, units
 OUT = ROOT / "data" / "kb" / "sources.yml"
 LECH = ROOT / "verification" / "lech" / "sources.md"
 PEOPLE = ROOT / "data" / "people"
-KEEP = ("archive", "accessed", "verified")
+KEEP = ("accessed", "verified")
+SEP_QUARTER = "fall2026"   # quyết định 14: bản lưu SEP dùng trên site
+SEP_ARCHIVE = re.compile(r"https?://plato\.stanford\.edu/archives/%s/entries/([A-Za-z0-9_.-]+)/" % SEP_QUARTER)
 URL = re.compile(r"<(https?://[^>\s]+)>|\]\((https?://[^)\s]+)\)|(?<![<(\w])(https?://[^\s)>\]]+)")
 ITEM = re.compile(r"^(?:\d+\.|[-*+])\s+")
 HEAD = ("# Kho nguồn: mỗi mục Nguồn (trang viết tay, hồ sơ triết gia) một bản ghi. RÚT TỰ ĐỘNG bằng tools/kb_sources.py;\n"
-        "# chỉ các trường archive, accessed, verified được sửa ở đây (tool giữ nguyên khi rút lại). Schema: schema/kb/sources.schema.json.\n")
+        "# chỉ các trường accessed, verified được sửa ở đây (tool giữ nguyên khi rút lại). Schema: schema/kb/sources.schema.json.\n")
 
 
 def slug(s: str, limit: int = 60) -> str:
@@ -142,6 +145,10 @@ def extract(root: Path = ROOT) -> tuple[dict, dict]:
             recs[key] = {"type": typ, "text": text}
             if first:
                 recs[key]["url"] = first
+            m = SEP_ARCHIVE.match(first or "")
+            if m:   # nguồn SEP dẫn bằng bản lưu: url là link gốc của mục, archive là bản lưu
+                recs[key]["url"] = f"https://plato.stanford.edu/entries/{m.group(1)}/"
+                recs[key]["archive"] = first
             recs[key]["used_in"] = []
         r = recs[key]
         if text != r["text"] and text not in r.get("texts_seen", []):

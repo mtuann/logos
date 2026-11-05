@@ -72,7 +72,7 @@ Vua Tuyên nước Tề thấy người ta dắt một con trâu đi giết lấ
 
 ## Nguồn
 
-1. Van Norden, Bryan, “Mencius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mencius/>
+1. Van Norden, Bryan, “Mencius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
 2. *Mạnh Tử* (孟子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/mengzi>
 3. Tư Mã Thiên, *Sử ký*, “Mạnh Tử Tuân Khanh liệt truyện” (孟子荀卿列傳), nguyên văn chữ Hán, ctext.org. <https://ctext.org/shiji/meng-zi-xun-qing-lie-zhuan/zh>
 

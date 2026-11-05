@@ -72,8 +72,8 @@ Từ Descartes, nhiều người coi cảm giác của ta là điều chắc ch�
 
 ## Nguồn
 
-1. Biletzki, Anat & Anat Matar, “Ludwig Wittgenstein”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/wittgenstein/>
-2. Candlish, Stewart & George Wrisley, “Private Language”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/private-language/>
+1. Biletzki, Anat & Anat Matar, “Ludwig Wittgenstein”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/>
+2. Candlish, Stewart & George Wrisley, “Private Language”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/private-language/>
 3. Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, C. K. Ogden dịch (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
 4. Russell, Bertrand, “The Philosophy of Logical Atomism”, *The Monist* 28(4), 1918. <https://archive.org/details/sim_monist_1918-10_28_4>
 5. Ayer, A. J. & Rush Rhees, “Can There Be a Private Language?”, *Proc. Aristotelian Society, Supp. Vol.* 28 (1954). <https://doi.org/10.1093/aristoteliansupp/28.1.63>

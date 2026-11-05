@@ -195,4 +195,4 @@ Sơ đồ cho thấy cấu trúc của lập luận. Câu hỏi tiếp theo: cá
 
 ## Nguồn {#nguon}
 
-1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/logic-informal/>
+1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>

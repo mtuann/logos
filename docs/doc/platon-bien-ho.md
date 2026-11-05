@@ -139,5 +139,5 @@ Thử xem bạn nắm được đến đâu.
 
 1. Platon, *Apology*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1656. <https://www.gutenberg.org/ebooks/1656>
 2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170>
-3. Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/socrates/>
+3. Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 4. Ambury, James M., "Socrates", *Internet Encyclopedia of Philosophy* — bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi. <https://iep.utm.edu/socrates/>

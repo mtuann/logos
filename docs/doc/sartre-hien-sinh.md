@@ -124,5 +124,5 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Nguồn {#nguon}
 
 1. Sartre, Jean-Paul (1946), *L'existentialisme est un humanisme*, Paris: Nagel (bài nói ngày 29/10/1945); bản dịch tiếng Anh: *Existentialism Is a Humanism*, John Kulka biên tập, Carol Macomber dịch, New Haven: Yale University Press, 2007.
-2. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/sartre/>
+2. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
 3. Onof, Christian J., "Jean Paul Sartre: Existentialism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/sartre-ex/>

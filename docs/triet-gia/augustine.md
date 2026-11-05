@@ -74,7 +74,7 @@ Phái Hàn lâm, những người theo **hoài nghi luận** (*skepticism*), cho
 
 ## Nguồn
 
-1. Tornau, Christian, “Augustine of Hippo”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/augustine/>
+1. Tornau, Christian, “Augustine of Hippo”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/augustine/>
 2. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 3. Augustine, *The City of God*, tập I, bản dịch Marcus Dods, Project Gutenberg (quyển XI, chương 26). <https://www.gutenberg.org/ebooks/45304>
 4. Augustine, *On Lying* (*De mendacio*), bản dịch H. Browne, *Nicene and Post-Nicene Fathers* (1887), New Advent. <https://www.newadvent.org/fathers/1312.htm>

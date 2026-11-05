@@ -194,6 +194,6 @@ Gợi ý độ dài: 150–300 chữ.
 9. Boroditsky, Lera, Lauren A. Schmidt & Webb Phillips (2003), "Sex, Syntax, and Semantics", trong D. Gentner & S. Goldin-Meadow (chủ biên), *Language in Mind*, Cambridge, MA: MIT Press.
 10. Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.
 11. Martin, Laura (1986), "Eskimo Words for Snow: A Case Study in the Genesis and Decay of an Anthropological Example", *American Anthropologist* 88(2): 418–423.
-12. Biletzki, Anat & Anat Matar, "Ludwig Wittgenstein", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/wittgenstein/>
+12. Biletzki, Anat & Anat Matar, "Ludwig Wittgenstein", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/>
 13. Roberson, Debi, Ian Davies & Jules Davidoff (2000), "Color Categories Are Not Universal: Replications and New Evidence from a Stone-Age Culture", *Journal of Experimental Psychology: General* 129(3): 369–398. <https://doi.org/10.1037/0096-3445.129.3.369>
 14. Mickan, Anne, Maren Schiefke & Anatol Stefanowitsch (2014), "Key is a llave is a Schlüssel: A Failure to Replicate an Experiment from Boroditsky et al. 2003", *Yearbook of the German Cognitive Linguistics Association* 2(1). <https://doi.org/10.1515/gcla-2014-0004>

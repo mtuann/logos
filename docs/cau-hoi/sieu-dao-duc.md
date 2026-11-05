@@ -190,12 +190,12 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/metaethics/>
-2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-realism/>
-3. Joyce, Richard, "Moral Anti-Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-anti-realism/>
-4. van Roojen, Mark, "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-cognitivism/>
-5. Gowans, Chris, "Moral Relativism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/moral-relativism/>
-6. Bagnoli, Carla, "Constructivism in Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/constructivism-metaethics/>
+1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaethics/>
+2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-realism/>
+3. Joyce, Richard, "Moral Anti-Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/>
+4. van Roojen, Mark, "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-cognitivism/>
+5. Gowans, Chris, "Moral Relativism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-relativism/>
+6. Bagnoli, Carla, "Constructivism in Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/constructivism-metaethics/>
 7. Westacott, Emrys, "Moral Relativism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/moral-re/>
 8. Herodotus, *Histories*, quyển III, chương 38. Bản dịch tiếng Anh của G. C. Macaulay (1890, phạm vi công cộng). <https://www.gutenberg.org/ebooks/2707>
 9. Hume, David (1739–1740), *A Treatise of Human Nature*, quyển 3, phần 1, mục 1 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/4705>

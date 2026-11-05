@@ -71,7 +71,7 @@ Người phản đối nói: kiêm ái hay thì hay thật, nhưng dùng đượ
 
 ## Nguồn
 
-1. Fraser, Chris, “Mohism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mohism/>
+1. Fraser, Chris, “Mohism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
 2. Loy, Hui-chieh, “Mozi (Mo-tzu, c. 400s—300s B.C.E.)”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/mozi/>
 3. *Mặc Tử* (墨子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/mozi>
 4. *Mặc Tử*, thiên “Công Thâu” (公輸), nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%85%AC%E8%BC%B8>

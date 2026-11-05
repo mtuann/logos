@@ -52,9 +52,10 @@ class TestRepo(unittest.TestCase):
     def test_kept_fields_survive(self):
         recs, _ = ks.extract(ROOT)
         key = next(iter(recs))
-        merged = ks.merge_kept({key: dict(recs[key])}, {key: {"archive": "https://x.org/", "accessed": "2026-11-05"}})
-        self.assertEqual(merged[key]["archive"], "https://x.org/")
-        self.assertIn("archive: https://x.org/", ks.render(merged))
+        merged = ks.merge_kept({key: dict(recs[key])}, {key: {"accessed": "2026-11-05", "url": "khac"}})
+        self.assertEqual(merged[key]["accessed"], "2026-11-05")
+        self.assertNotEqual(merged[key].get("url"), "khac")      # chỉ giữ trường biên tập
+        self.assertIn("accessed: '2026-11-05'", ks.render(merged))
 
 
 if __name__ == "__main__":

@@ -71,7 +71,7 @@ Phần đời còn lại là giảng dạy và viết: hai nhiệm kỳ làm gi�
 
 ## Nguồn
 
-1. Pasnau, Robert, “Thomas Aquinas”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/aquinas/>
+1. Pasnau, Robert, “Thomas Aquinas”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aquinas/>
 2. Thomas Aquinas, *Summa Theologiae*, bản dịch Fathers of the English Dominican Province (1920), New Advent: I, câu 1, 2, 46; I-II, câu 94; II-II, câu 40. <https://www.newadvent.org/summa/>
 3. Thomas Aquinas, *Summa Theologica, Part I (Prima Pars)*, Project Gutenberg (lời mở đầu). <https://www.gutenberg.org/ebooks/17611>
 

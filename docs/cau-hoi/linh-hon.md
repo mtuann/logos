@@ -208,7 +208,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/dualism/>
+1. Robinson, Howard & Ralph Weir, "Dualism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/dualism/>
 2. Descartes, René (1641), *Meditationes de prima philosophia*, Paris: Michel Soly.
 3. Jackson, Frank (1982), "Epiphenomenal Qualia", *The Philosophical Quarterly* 32(127): 127–136. <https://doi.org/10.2307/2960077>
 4. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.

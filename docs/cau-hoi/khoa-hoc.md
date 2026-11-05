@@ -201,6 +201,6 @@ Gợi ý độ dài: 150–300 chữ.
 3. Lakatos, Imre (1970), "Falsification and the Methodology of Scientific Research Programmes", trong I. Lakatos & A. Musgrave (chủ biên), *Criticism and the Growth of Knowledge*, Cambridge: Cambridge University Press.
 4. Feyerabend, Paul (1975), *Against Method*, London: New Left Books.
 5. Laudan, Larry (1983), "The Demise of the Demarcation Problem", trong R. S. Cohen & L. Laudan (chủ biên), *Physics, Philosophy and Psychoanalysis*, Dordrecht: Reidel.
-6. Hansson, Sven Ove, "Science and Pseudo-Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/pseudo-science/>
-7. Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/popper/>
-8. Bird, Alexander, "Thomas Kuhn", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/thomas-kuhn/>
+6. Hansson, Sven Ove, "Science and Pseudo-Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pseudo-science/>
+7. Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/popper/>
+8. Bird, Alexander, "Thomas Kuhn", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/>

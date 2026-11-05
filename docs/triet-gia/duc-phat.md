@@ -73,7 +73,7 @@ Trong *Kinh Vô ngã tướng* (SN 22.59), Đức Phật lần lượt hỏi nă
 
 ## Nguồn
 
-1. Siderits, Mark, “Buddha”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/buddha/>
+1. Siderits, Mark, “Buddha”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
 2. Velez, Abraham, “Buddha”, *Internet Encyclopedia of Philosophy* (mục 1a về niên đại). <https://iep.utm.edu/buddha/>
 3. *Kinh Vô ngã tướng* (SN 22.59), *Kinh Chuyển pháp luân* (SN 56.11), *Kinh Ca-chiên-diên* (SN 12.15), *Tiểu kinh Māluṅkya* (MN 63) — nguyên văn Pāli và bản dịch tiếng Anh của Bhikkhu Sujato (CC0), SuttaCentral. <https://suttacentral.net/sn22.59/en/sujato>
 4. Bechert, Heinz (chủ biên), *The Dating of the Historical Buddha / Die Datierung des historischen Buddha*, 3 tập, Göttingen: Vandenhoeck & Ruprecht, 1991–1997.

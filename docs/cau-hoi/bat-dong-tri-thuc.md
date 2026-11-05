@@ -188,7 +188,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Frances, Bryan & Jonathan Matheson, "Disagreement", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/disagreement/>
+1. Frances, Bryan & Jonathan Matheson, "Disagreement", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/disagreement/>
 2. Christensen, David (2007), "Epistemology of Disagreement: The Good News", *The Philosophical Review* 116(2).
 3. Elga, Adam (2007), "Reflection and Disagreement", *Noûs* 41.
 4. Kelly, Thomas (2005), "The Epistemic Significance of Disagreement", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1, Oxford: Oxford University Press.

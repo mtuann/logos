@@ -67,7 +67,7 @@ Từ Descartes, triết học thường hình dung con người là một chủ 
 
 ## Nguồn
 
-1. Wrathall, Mark, “Martin Heidegger”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/heidegger/>
+1. Wrathall, Mark, “Martin Heidegger”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/heidegger/>
 2. Korab-Karpowicz, W. J., “Martin Heidegger”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/heidegge/>
 3. Mitchell, Andrew J. & Peter Trawny (chủ biên), *Heidegger’s Black Notebooks: Responses to Anti-Semitism*, Columbia University Press, 2017. <https://doi.org/10.7312/mitc18044>
 

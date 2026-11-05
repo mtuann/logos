@@ -74,8 +74,8 @@ Theo cách tái dựng phổ biến của *Leviathan*, chương 13–17:
 
 ## Nguồn
 
-1. Duncan, Stewart, “Thomas Hobbes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hobbes/>
-2. Lloyd, Sharon A. & Susanne Sreedhar, “Hobbes’s Moral and Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hobbes-moral/>
+1. Duncan, Stewart, “Thomas Hobbes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes/>
+2. Lloyd, Sharon A. & Susanne Sreedhar, “Hobbes’s Moral and Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/>
 3. Williams, Garrath, “Hobbes, Thomas: Moral and Political Philosophy”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/hobmoral/>
 4. Hobbes, Thomas, *Leviathan* (1651), Project Gutenberg. <https://www.gutenberg.org/ebooks/3207>
 5. Hobbes, Thomas, bài thơ tự thuật *Vita* và các chương của *De Corpore*, trong Mary Whiton Calkins (tuyển), *The Metaphysical System of Hobbes*, Chicago: Open Court, 1905 — Internet Archive. <https://archive.org/details/cu31924029010565>

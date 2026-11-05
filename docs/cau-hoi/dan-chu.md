@@ -229,7 +229,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/democracy/>
+1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
 2. Platon, *Cộng hòa*, Quyển VI (488a–489d); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1497>
 3. Schumpeter, Joseph A. (1942), *Capitalism, Socialism and Democracy*, New York: Harper & Brothers.
 4. Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin.
@@ -237,5 +237,5 @@ Gợi ý độ dài: 200–350 chữ.
 6. Habermas, Jürgen (1992), *Faktizität und Geltung*, Frankfurt: Suhrkamp (bản tiếng Anh *Between Facts and Norms*, 1996, MIT Press).
 7. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
-9. Morreau, Michael, "Arrow's Theorem", *Stanford Encyclopedia of Philosophy* (về nghịch lý Condorcet 1785 và định lý Arrow 1951). <https://plato.stanford.edu/entries/arrows-theorem/>
+9. Morreau, Michael, "Arrow's Theorem", *Stanford Encyclopedia of Philosophy* (về nghịch lý Condorcet 1785 và định lý Arrow 1951). <https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/>
 

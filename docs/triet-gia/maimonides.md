@@ -66,7 +66,7 @@ Trong phần I của *Chỉ dẫn*, Maimonides lập luận rằng mọi thuộc
 
 ## Nguồn
 
-1. Seeskin, Kenneth, “Maimonides”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/maimonides/>
+1. Seeskin, Kenneth, “Maimonides”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/maimonides/>
 2. Jacobs, Jonathan, “Maimonides”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/maimonid/>
 3. Maimonides, *The Guide for the Perplexed*, bản dịch M. Friedländer (1904), Internet Sacred Text Archive. <https://www.sacred-texts.com/jud/gfp/index.htm>
 4. Thomas Aquinas, *Summa Theologiae* I, câu 13, mục 2, bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1013.htm>

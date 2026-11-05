@@ -68,8 +68,8 @@ Phương châm của Anselm là “đức tin đi tìm hiểu biết” (*fides 
 
 ## Nguồn
 
-1. Williams, Thomas, “Anselm of Canterbury”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/anselm/>
-2. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, “Ontological Arguments”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ontological-arguments/>
+1. Williams, Thomas, “Anselm of Canterbury”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/anselm/>
+2. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, “Ontological Arguments”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
 3. Himma, Kenneth Einar, “Ontological Argument”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ont-arg/>
 4. Anselm, *Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo*, bản dịch Sidney Norton Deane (1903), Christian Classics Ethereal Library. <https://www.ccel.org/ccel/anselm/basic_works.i.html>
 

@@ -3,6 +3,8 @@
     python tools/parity.py --base main                  # build commit `main` và cây làm việc hiện tại, rồi so
     python tools/parity.py --base v1.0-moc --keep TMP   # như trên, giữ hai bản build trong TMP/truoc, TMP/sau
     python tools/parity.py TRUOC SAU                    # so hai thư mục site/ đã build sẵn
+    python tools/parity.py --base main --expect-sub REGEX THAY   # thay đổi có chủ đích: áp phép thay (re.sub)
+                                                        # lên bản trước rồi mới so; lệch còn lại mới là lỗi
 
 Với mỗi trang HTML, so:
   - văn bản hiển thị trong <article class="md-content__inner"> (bỏ <script>, <style>; thanh điều hướng,
@@ -106,13 +108,27 @@ def first_diff(a: tuple[str, ...], b: tuple[str, ...], context: int = 1) -> str:
     return "\n".join("      " + ln[:200] for ln in diff[2:14])
 
 
-def compare(before: Path, after: Path) -> tuple[list[str], int]:
-    """(danh sách mô tả chỗ lệch, số trang đã so); danh sách rỗng nghĩa là tương đương 100%."""
+def _subbed(t: PageText, subs) -> PageText:
+    if not subs:
+        return t
+    f = lambda s: _apply(s, subs)  # noqa: E731
+    return PageText(f(t.title), f(t.description), tuple(f(x) for x in t.lines), t.ids)
+
+
+def _apply(s: str, subs) -> str:
+    for rx, rep in subs:
+        s = rx.sub(rep, s)
+    return s
+
+
+def compare(before: Path, after: Path, subs=()) -> tuple[list[str], int]:
+    """(danh sách mô tả chỗ lệch, số trang đã so); danh sách rỗng nghĩa là tương đương 100%.
+    `subs`: các (regex đã biên dịch, chuỗi thay) áp lên bản trước — thay đổi có chủ đích."""
     a, b = pages(before), pages(after)
     problems = [f"{p}: chỉ có ở bản trước" for p in sorted(a.keys() - b.keys())]
     problems += [f"{p}: chỉ có ở bản sau" for p in sorted(b.keys() - a.keys())]
     for p in sorted(a.keys() & b.keys()):
-        x = extract(a[p].read_text(encoding="utf-8"))
+        x = _subbed(extract(a[p].read_text(encoding="utf-8")), subs)
         y = extract(b[p].read_text(encoding="utf-8"))
         if x.title != y.title:
             problems.append(f"{p}: <title> lệch: {x.title!r} → {y.title!r}")
@@ -125,15 +141,15 @@ def compare(before: Path, after: Path) -> tuple[list[str], int]:
             new = [i for i in y.ids if i not in x.ids][:5]
             problems.append(f"{p}: id lệch (mất {gone}, thêm {new}"
                             f"{', hoặc đổi thứ tự' if not gone and not new else ''})")
-    problems += compare_search(before, after)
+    problems += compare_search(before, after, subs)
     return problems, len(a.keys() | b.keys())
 
 
-def compare_search(before: Path, after: Path) -> list[str]:
+def compare_search(before: Path, after: Path, subs=()) -> list[str]:
     fa, fb = before / "search" / "search_index.json", after / "search" / "search_index.json"
     if not (fa.exists() and fb.exists()):
         return []
-    da = json.loads(fa.read_text(encoding="utf-8"))["docs"]
+    da = json.loads(_apply(fa.read_text(encoding="utf-8"), subs))["docs"]
     db = json.loads(fb.read_text(encoding="utf-8"))["docs"]
     if da == db:
         return []
@@ -168,7 +184,10 @@ def main(argv: list[str]) -> int:
     ap.add_argument("dirs", nargs="*", metavar="THU_MUC", help="hai thư mục site đã build: TRUOC SAU")
     ap.add_argument("--base", help="commit/nhánh/tag làm bản trước; bản sau là cây làm việc hiện tại")
     ap.add_argument("--keep", type=Path, help="cùng --base: giữ hai bản build trong thư mục này")
+    ap.add_argument("--expect-sub", nargs=2, action="append", default=[], metavar=("REGEX", "THAY"),
+                    help="thay đổi có chủ đích, áp lên bản trước trước khi so (lặp lại được)")
     args = ap.parse_args(argv)
+    subs = [(re.compile(rx), rep) for rx, rep in args.expect_sub]
 
     if args.base:
         if args.dirs:
@@ -177,7 +196,7 @@ def main(argv: list[str]) -> int:
         tmp.mkdir(parents=True, exist_ok=True)
         try:
             before, after = build_pair(args.base, tmp)
-            problems, n = compare(before, after)
+            problems, n = compare(before, after, subs)
             label = f"{args.base} → cây làm việc"
         finally:
             if not args.keep:
@@ -187,7 +206,7 @@ def main(argv: list[str]) -> int:
         for d in (before, after):
             if not d.is_dir():
                 ap.error(f"{d}: không phải thư mục")
-        problems, n = compare(before, after)
+        problems, n = compare(before, after, subs)
         label = f"{before} → {after}"
     else:
         ap.error("cần --base REF hoặc hai thư mục TRUOC SAU")
@@ -197,7 +216,8 @@ def main(argv: list[str]) -> int:
         for p in problems:
             print("  - " + p)
         return 1
-    print(f"Tương đương: giống 100% ({label}, {n} trang).")
+    note = f"; sau khi áp {len(subs)} phép thay có chủ đích" if subs else ""
+    print(f"Tương đương: giống 100% ({label}, {n} trang{note}).")
     return 0
 
 

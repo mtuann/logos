@@ -127,5 +127,5 @@ Thử xem bạn nắm được đến đâu.
 ## Nguồn {#nguon}
 
 1. *Trang Tử*, thiên 2 "Tề vật luận", nguyên văn và bản dịch tiếng Anh của James Legge (1891), Chinese Text Project. <https://ctext.org/zhuangzi/adjustment-of-controversies>
-2. Hansen, Chad, "Zhuangzi", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/entries/zhuangzi/>
+2. Hansen, Chad, "Zhuangzi", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/>
 3. Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (1901), Wikisource. <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>

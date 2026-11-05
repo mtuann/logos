@@ -179,4 +179,4 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
-1. Andrew Brennan, "Necessary and Sufficient Conditions", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/necessary-sufficient/>
+1. Andrew Brennan, "Necessary and Sufficient Conditions", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/>

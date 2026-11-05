@@ -160,7 +160,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Nguồn {#nguon}
 
 1. *Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>
-2. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/confucius/>
-3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/mohism/>
+2. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
+3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
 4. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 5. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.

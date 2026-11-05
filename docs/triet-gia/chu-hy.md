@@ -70,8 +70,8 @@ Sách *Đại học* nói mở mang hiểu biết là ở chỗ “cách vật�
 
 ## Nguồn
 
-1. Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/zhu-xi/>
-2. Tiwald, Justin, “Song-Ming Confucianism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/song-ming-confucianism/>
+1. Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/>
+2. Tiwald, Justin, “Song-Ming Confucianism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/song-ming-confucianism/>
 3. Chu Hy, *Đại học chương cú* (大學章句), đoạn bổ truyện chương 5 về cách vật trí tri, nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8/%E5%A4%A7%E5%AD%B8%E7%AB%A0%E5%8F%A5>
 4. *Chu Tử ngữ loại* (朱子語類), quyển 94, nguyên văn chữ Hán, ctext.org. <https://ctext.org/zhuzi-yulei/94/zh>
 
