@@ -1,0 +1,47 @@
+{
+  "unit": "works/marx.die-deutsche-ideologie",
+  "hash": "sha256:5ff8948e9d86149bfcc45e115f51c477073200a048a2e539fdd3bc2065131eba",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo16",
+  "claims": [
+    {
+      "text": "titles: Die deutsche Ideologie",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "the manuscripts collected together as The German Ideology"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Karl Marx (đồng tác giả Friedrich Engels)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "The German Ideology, written with Friedrich Engels (1820–1895) in 1845–46"
+        }
+      ]
+    },
+    {
+      "text": "year: 1845 (people/marx) — năm bắt đầu soạn; in đầy đủ 1932",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "written with Friedrich Engels (1820–1895) in 1845–46"
+        },
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/index.htm",
+          "quote": "Written: Fall 1845 to mid-1846; First Published: 1932 (in full)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "year_note: 'soạn 1845–46 (cùng Engels), in đầy đủ 1932'. Theo quy ước 'năm công bố lần đầu' chủ biên có thể cân nhắc; ghi năm soạn là cách phổ biến cho bản thảo in sau khi tác giả mất. Đồng tác giả Engels nên ghi trong bản ghi (vd attribution: 'Marx và Engels')."
+}

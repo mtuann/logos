@@ -1,0 +1,49 @@
+{
+  "unit": "works/chua-ro.thu-gui-menoeceus",
+  "hash": "sha256:17d4051e552c3715c8c7e793564a828c57d654c44a31cc922fd2d137e6f5df7c",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo13",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Thư gửi Menoeceus (Letter to Menoeceus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "the Letter to Menoeceus offers a précis of Epicurean ethics"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Epicurus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "The Letter to Herodotus summarizes Epicurus’ physical theory, the Letter to Menoeceus offers a précis of Epicurean ethics"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 124 (year; years_seen: people/epicurus)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "our death is not, and when our death occurs, we do not exist (LM 124–25)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "The philosophy of Epicurus (341–270 B.C.E.)"
+        }
+      ],
+      "severity": "nghiem-trong",
+      "fix": "Bỏ năm: year null (years_seen '124' ở people/epicurus là số đoạn của thư theo Diogenes Laërtius X — 'Thư gửi Menoeceus (124–125)' — bị bắt nhầm thành năm). Thư viết trong đời Epicurus (341–270 TCN), nguồn không ghi năm soạn; nếu cần ghi thì 'thế kỷ 3 TCN, năm soạn không rõ'."
+    }
+  ],
+  "result": "sua",
+  "notes": "attribution: Epicurus. trung-voi: epicurus.letter-to-menoeceus. Năm 124 là lỗi trích năm từ số đoạn (LM 124–25 theo cách đánh số của SEP), không phải năm sáng tác."
+}

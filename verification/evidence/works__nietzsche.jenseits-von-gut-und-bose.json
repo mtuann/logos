@@ -1,0 +1,47 @@
+{
+  "unit": "works/nietzsche.jenseits-von-gut-und-bose",
+  "hash": "sha256:5d6b2cb65bfdbf920fb7b45660aba34ffd60b32c911737363a37339432277d9b",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo17",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Jenseits von Gut und Böse",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "Beyond Good and Evil (Jenseits von Gut und Böse, 1886)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Nietzsche (nietzsche)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "the mature works for which Nietzsche is best known"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1886 (year; years_seen: people/nietzsche)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "Beyond Good and Evil (1886)"
+        },
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "Beyond Good and Evil (Jenseits von Gut und Böse, 1886)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khớp SEP và IEP."
+}

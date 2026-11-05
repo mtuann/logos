@@ -1,0 +1,69 @@
+{
+  "unit": "works/chua-ro.stanford-encyclopedia-of-philosophy",
+  "hash": "sha256:fd9726b2228cdcc7e3260b01325c04cf0f3a0320a829572100955daa0335d2cb",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo12",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Stanford Encyclopedia of Philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/about.html",
+          "quote": "Welcome to the Stanford Encyclopedia of Philosophy (SEP)"
+        }
+      ]
+    },
+    {
+      "text": "tác giả/đơn vị: Metaphysics Research Lab, Đại học Stanford; chủ biên sáng lập Edward N. Zalta (bách khoa trực tuyến, mỗi mục do tác giả riêng viết)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/info.html",
+          "quote": "grant to the Metaphysics Research Lab at Stanford University an exclusive license to publish their entry or entries"
+        },
+        {
+          "url": "https://plato.stanford.edu/about.html",
+          "quote": "was taken up by Edward N. Zalta, who developed the idea into that of a dynamic reference work"
+        }
+      ]
+    },
+    {
+      "text": "years_seen 2004 (cau-hoi/noi-doi.md#nguon): năm đăng lần đầu mục 'Kant's Moral Philosophy'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-moral/",
+          "quote": "First published Mon Feb 23, 2004; substantive revision Thu Oct 2, 2025"
+        }
+      ]
+    },
+    {
+      "text": "years_seen 2008 (cau-hoi/noi-doi.md#nguon): năm đăng lần đầu mục 'The Definition of Lying and Deception'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "First published Thu Feb 21, 2008; substantive revision Fri Dec 25, 2015"
+        }
+      ]
+    },
+    {
+      "text": "years_seen 2026 (doc/hume-nhan-qua.md#nguon): năm đăng mục 'David Hume' mới của Qu & Radcliffe",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "David HumeFirst published Tue Jun 16, 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Metaphysics Research Lab, Stanford University (chủ biên Edward N. Zalta). Không trùng khóa nào khác trong data/kb/works.yml. Các năm trong years_seen là năm của từng mục SEP, không phải năm của bộ bách khoa (dự án bắt đầu tháng 9/1995: 'The SEP project began in September 1995'); để year null là đúng; đề xuất year_note: 'bách khoa trực tuyến từ 1995; các năm trích là năm của từng mục'."
+}

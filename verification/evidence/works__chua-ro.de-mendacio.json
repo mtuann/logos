@@ -1,0 +1,52 @@
+{
+  "unit": "works/chua-ro.de-mendacio",
+  "hash": "sha256:5d2e1814ae734c533f5e4535379f08fb2291a4b33ad2a90553e7aa84d40d6985",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: De mendacio",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.augustinus.it/latino/menzogna/index.htm",
+          "quote": "Augustinus Hipponensis - De mendacio liber unus"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/1312.htm",
+          "quote": "Magna quæstio est de Mendacio"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Augustine",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.augustinus.it/latino/menzogna/index.htm",
+          "quote": "Augustinus Hipponensis - De mendacio"
+        }
+      ]
+    },
+    {
+      "text": "year: 395 (cau-hoi/noi-doi.md#nguon)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103.v.v.i.html",
+          "quote": "This book appears from its place in the Retractations to have been written about a.d. 395",
+          "where": "Translator’s Preface"
+        },
+        {
+          "url": "https://www.newadvent.org/fathers/1312.htm",
+          "quote": "to have been written about A.D. 395"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Augustine\nNăm là ước đoán ('about a.d. 395'); trang ghi 'khoảng 395', khớp. Không thấy khóa augustine.de-mendacio trong works.yml."
+}

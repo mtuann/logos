@@ -1,0 +1,49 @@
+{
+  "unit": "works/kierkegaard.frygt-og-bven",
+  "hash": "sha256:a3896ac8f505215913fa54e6db7799f1d17b0d8132c8eaca97b37384c38b82ef",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo15",
+  "claims": [
+    {
+      "text": "titles: Frygt og Bæven",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tekster.kb.dk/text/sks-fb-txt-root",
+          "quote": "Frygt og Bæven Kierkegaard, Søren",
+          "where": "Det Kgl. Bibliotek, Søren Kierkegaards Skrifter"
+        }
+      ]
+    },
+    {
+      "text": "author: kierkegaard (Søren Kierkegaard)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tekster.kb.dk/text/sks-fb-txt-root",
+          "quote": "Forfatter: Søren Kierkegaard"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "the author of Fear and Trembling"
+        }
+      ]
+    },
+    {
+      "text": "year: 1843 (people/kierkegaard)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Fear and Trembling (1843)",
+          "where": "Chronology / Life and Works"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bút danh Johannes de silentio."
+}

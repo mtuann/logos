@@ -1,0 +1,44 @@
+{
+  "unit": "works/chua-ro.viet-nam-su-luoc",
+  "hash": "sha256:215efd01a1c55450a400220fcd98c3e6f383c5f742d222a2737dbeae6e4f3df8",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo13",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Việt Nam sử lược",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c",
+          "quote": "Việt Nam sử lược (1920) của Trần Trọng Kim"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Trần Trọng Kim",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c",
+          "quote": "Việt Nam sử lược (1920) của Trần Trọng Kim"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1920 (year; years_seen: doc/nguyen-trai-binh-ngo.md#doc-tung-doan)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c",
+          "quote": "Bìa cuốn Việt Nam sử lược của Trần Trọng Kim, in lần thứ nhất, Trung Bắc Tân Văn, Hà Nội, 1920",
+          "where": "chú thích ảnh bìa"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Trần Trọng Kim. Không trùng khóa nào trong works.yml. Nguồn: Wikisource tiếng Việt (tiêu đề văn bản và ảnh bìa bản in lần thứ nhất 1920); không dùng đoạn trích Wikipedia trên trang đó."
+}

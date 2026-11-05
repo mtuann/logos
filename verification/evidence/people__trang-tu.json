@@ -1,0 +1,108 @@
+{
+  "unit": "people/trang-tu",
+  "hash": "sha256:25904bfdadf927eb49a55784e3dc6899c9632c8d108fc1df6f16dfc62c8abfa4",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo05",
+  "claims": [
+    {
+      "text": "name: Trang Tử; name_en: Zhuangzi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Zhuangzi (Chuang-tzu 莊子 “Master Zhuang” late 4th century BC) is the pivotal figure in Classical Philosophical Daoism"
+        }
+      ]
+    },
+    {
+      "text": "born: -369 (years_label: k. 369–286 TCN)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/zhuangzi/",
+          "quote": "Zhuangzi (Chuang-Tzu, 369—298 B.C.E.)"
+        }
+      ]
+    },
+    {
+      "text": "died: -286 (years_label: k. 369–286 TCN)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/zhuangzi/",
+          "quote": "Zhuangzi (Chuang-Tzu, 369—298 B.C.E.)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Zhuangzi flourished through the latter half of the fourth century BC, roughly contemporary with Mencius"
+        }
+      ],
+      "severity": "vua",
+      "fix": "died: -298; years_label: k. 369–298 TCN (theo IEP); hoặc đổi nhãn thành 'cuối TK 4 TCN' theo SEP"
+    },
+    {
+      "text": "school: Trung Hoa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "the pinnacle of the philosophically subtle Classical period in China (5th–3rd century BC)"
+        }
+      ]
+    },
+    {
+      "text": "summary: Đúng sai tùy chỗ đứng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "indexical relativism (what a term refers to depends on the indexed location of the speaker in space and time) about right and wrong (shì-fēi 是非 this-not that) judgments"
+        }
+      ]
+    },
+    {
+      "text": "summary: mộng hồ điệp",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "most famously illustrated in the story of Zhuangzi dreaming being a butterfly and/or vice versa"
+        }
+      ]
+    },
+    {
+      "text": "summary: tự do tiêu dao",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/zhuangzi/",
+          "quote": "The title of the first chapter of the Zhuangzi has also been translated as “Free and Easy Wandering”"
+        }
+      ]
+    },
+    {
+      "text": "summary: Người đưa Đạo gia vào văn chương bằng ngụ ngôn và tiếng cười",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Zhuangzi’s prose style is its own distinctive literary treasure. The central feature is the parable"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Typically short, pithy, and amusing"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "IEP ghi 369–298 TCN; SEP chỉ ghi 'late 4th century BC' / hoạt động nửa sau TK 4 TCN. Năm mất -286 không có trong nguồn đã mở và lệch 12 năm so với IEP; xếp mức vừa (năm cổ ước đoán, đã có 'k.'). influence rỗng."
+}

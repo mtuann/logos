@@ -1,0 +1,119 @@
+{
+  "unit": "people/mac-tu",
+  "hash": "sha256:335d391f71ab4cf6533a3696d35e16bac3a9f0c85d8241306b73fb1f0956f665",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo05",
+  "claims": [
+    {
+      "text": "name: Mặc Tử; name_en: Mozi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Mohism originates in the teachings of Mo Di, or “Mozi” (“Master Mo,” fl. ca. 430 BCE)"
+        }
+      ]
+    },
+    {
+      "text": "born: -470 (years_label: k. 470–391 TCN)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Mo Di, or “Mozi” (“Master Mo,” fl. ca. 430 BCE)"
+        },
+        {
+          "url": "https://iep.utm.edu/mozi/",
+          "quote": "was a Chinese thinker active from the late 5th to the early 4th centuries B.C.E."
+        }
+      ]
+    },
+    {
+      "text": "died: -391 (years_label: k. 470–391 TCN)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/xunzi/",
+          "quote": "Mo Di 墨翟 (d. ca. 390 BCE)"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "died: -390; years_label: k. 470–390 TCN (nếu giữ năm sinh)"
+    },
+    {
+      "text": "school: Trung Hoa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "flourished during the Warring States era (479–221 BCE) in ancient China"
+        }
+      ]
+    },
+    {
+      "text": "summary: Kiêm ái: quan tâm đến mọi người không phân biệt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "a consequentialist ethic emphasizing impartial concern for all"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Mozi is ‘impartial caring.’"
+        }
+      ]
+    },
+    {
+      "text": "summary: chống chiến tranh xâm lược",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "They condemned unprovoked military aggression and attempted to dissuade warlike rulers from attacking other states"
+        }
+      ]
+    },
+    {
+      "text": "summary: đo đúng sai bằng lợi ích của thiên hạ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "The normative standard through which they proposed to achieve these aims was the “benefit (lì) of all the world”"
+        }
+      ]
+    },
+    {
+      "text": "influence: manh-tu (mac-tu ảnh hưởng tới manh-tu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "saw the two major contemporary threats to that tradition as the doctrines of Mozi and Yang Zhu"
+        }
+      ]
+    },
+    {
+      "text": "influence: tuan-tu (mac-tu ảnh hưởng tới tuan-tu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Fa is among the key notions through which Mohism had an important influence on the late Warring States Confucian thinker Xunzi"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "SEP mohism ghi Mozi 'fl. ca. 430 BCE'; IEP ghi 'c. 400s—300s B.C.E.', hoạt động cuối TK 5 đến đầu TK 4 TCN; SEP xunzi ghi Mo Di 'd. ca. 390 BCE'. Năm sinh 470 không có trong nguồn đã mở nên chưa kiểm được; năm mất 391 lệch 1 năm so với 'ca. 390' của SEP (mức nhẹ). Cân nhắc đổi nhãn thành 'k. 470–390 TCN' hoặc 'hoạt động k. 430 TCN'. Britannica chặn (Cloudflare)."
+}

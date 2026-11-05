@@ -1,0 +1,109 @@
+{
+  "unit": "people/zeno",
+  "hash": "sha256:45a6698a5e83d5d3e5e5c2342d8f5161cf763934c80497d0ee5881934fc12799",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo01",
+  "claims": [
+    {
+      "text": "name: Zeno xứ Citium; name_en: Zeno of Citium",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "founded around 300 BCE by Zeno of Citium"
+        }
+      ]
+    },
+    {
+      "text": "born: -334; died: -262 (years_label: k. 334–262 TCN)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/epictetu/",
+          "quote": "of Zeno (335–263 B.C.E.) the founder of the school",
+          "where": "mục 3"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "born: -335; died: -263; years_label: k. 335–263 TCN"
+    },
+    {
+      "text": "school: Hy Lạp cổ đại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "Stoicism was one of the dominant philosophical systems of the Hellenistic period"
+        }
+      ]
+    },
+    {
+      "text": "summary: Sáng lập phái Khắc kỷ ở Stoa Poikile",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "The Stoic school was founded around 300 BCE by Zeno of Citium"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "The name derives from the porch (stoa poikilê) in the Agora at Athens"
+        }
+      ]
+    },
+    {
+      "text": "summary: sống phù hợp với tự nhiên và lý trí",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "the formulation attributed in this passage to Cleanthes (and elsewhere to Zeno himself, see Diogenes Laertius 63C) – “living in agreement with nature”"
+        }
+      ]
+    },
+    {
+      "text": "summary: chỉ đức hạnh là điều thiện",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/epictetu/",
+          "quote": "The central claim of Stoic ethics is that only the virtues and virtuous activities are good"
+        }
+      ]
+    },
+    {
+      "text": "influence: epictetus (zeno ảnh hưởng tới epictetus)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epictetus/",
+          "quote": "The essentials of Epictetus’s thought derive from the early or foundational period of Stoicism, from the third-century writings of Zeno of Citium"
+        }
+      ]
+    },
+    {
+      "text": "influence: marcus-aurelius (zeno ảnh hưởng tới marcus-aurelius)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+          "quote": "After Zeno, founder of the Stoa, lays down the goal (telos) as ‘living in agreement’"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+          "quote": "Marcus’ chief philosophical influence was Stoic"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "SEP và IEP không có mục riêng về Zeno xứ Citium; Britannica chặn (403). Năm sinh mất chỉ tìm được ở IEP epictetus: 335–263 TCN, lệch một năm so với bản ghi (334–262). Lệch một năm trong ước đoán đã có 'k.', xếp mức nhẹ; chủ biên quyết. SEP stoicism ghi công thức 'sống phù hợp với tự nhiên' là của Cleanthes, 'và nơi khác cho chính Zeno'; Zeno chỉ nói 'sống phù hợp' (living in agreement) — tóm tắt chấp nhận được."
+}

@@ -1,0 +1,36 @@
+{
+  "unit": "works/chua-ro.apologia",
+  "hash": "sha256:39445dc00bfa138f49e33a8ce65548d842f48bcd38ddc89dac4c004263601d6a",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: Apologia (Biện hộ của Socrates)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "his Apology, which purports to be the speech that Socrates gave in his defense—the Greek word apologia means “defense”"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Platon (author_name: Platon)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "There is one striking exception: his Apology"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Plato, Apology 33a–b"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Platon\nyear null, years_seen rỗng: chỉ kiểm tên và tác giả. Không thấy khóa platon.apology hay tương tự trong works.yml (chỉ có platon.euthyphro, parmenides, phaedo, politeia, symposium)."
+}

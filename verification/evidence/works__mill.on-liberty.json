@@ -1,0 +1,47 @@
+{
+  "unit": "works/mill.on-liberty",
+  "hash": "sha256:e07080f9ee2af00c444953eaaab0c14da0714d832a2744969467db1d8900c624",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo17",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: On Liberty",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "Title On Liberty"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: J. S. Mill (mill)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "Author Mill, John Stuart, 1806-1873"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1859 (year; years_seen: cau-hoi/tu-do-ngon-luan.md#cac-lap-truong-chinh, cau-hoi/tu-do-ngon-luan.md#doc-van-ban-goc, doc/mill-tu-do.md#doc-tung-doan, lich-su/the-ky-19.md#nguon, people/mill)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "On Liberty (1859)"
+        },
+        {
+          "url": "https://iep.utm.edu/milljs/",
+          "quote": "his famous 1859 book On Liberty"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khớp SEP, IEP và Project Gutenberg #34901."
+}

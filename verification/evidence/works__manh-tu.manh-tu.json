@@ -1,0 +1,32 @@
+{
+  "unit": "works/manh-tu.manh-tu",
+  "hash": "sha256:bd15a6d3a6a4bcbe487b98847b3a3fea5578daf08046aa6400f78cd28dd2bceb",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo16",
+  "claims": [
+    {
+      "text": "titles: Mạnh Tử (孟子, tên sách)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "the eponymous collection of his dialogues, debates, and sayings, the Mengzi (Mencius)"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Mạnh Tử (sách ghi lời Mạnh Tử, do môn đồ biên soạn)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "This work was probably compiled by his disciples or disciples of his disciples"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Sách mang tên Mạnh Tử, ghi lời ông, có lẽ do môn đồ biên tập (SEP); gán author: manh-tu là chấp nhận được."
+}

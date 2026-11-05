@@ -1,4 +1,2741 @@
 {
   "version": 1,
-  "units": {}
+  "units": {
+    "people/anselm": {
+      "status": "da-kiem",
+      "hash": "sha256:b655300cacd6e079ac1f9f4fa84a76c5c0b50cb1b49d8709daa75a0a423f0f23",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__anselm.json"
+    },
+    "people/aquinas": {
+      "status": "da-kiem",
+      "hash": "sha256:687b4e3f7b7a94daa9722d7b1a099babb79cb140b837cdd76f96dd0a7a5028cd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__aquinas.json"
+    },
+    "people/arendt": {
+      "status": "da-kiem",
+      "hash": "sha256:500401d8101adda931326278b23bb2ef85f8b18a83f7793c9246fb5a5da264c3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__arendt.json"
+    },
+    "people/aristotle": {
+      "status": "da-kiem",
+      "hash": "sha256:3a317dcb12cafe96df182a19d8cfbd6add3238962a4dac33c20a25209a1df747",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__aristotle.json"
+    },
+    "people/augustine": {
+      "status": "da-kiem",
+      "hash": "sha256:08db8dbf8e3ba7f26e0162065d5829676f5001f80c0104595e09a6d8b835db79",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__augustine.json"
+    },
+    "people/averroes": {
+      "status": "da-kiem",
+      "hash": "sha256:1d4b22d2ddfd6ae23bba3d96e07cc59c576cf05f8c935e42b1ac76ffa8cd93fd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__averroes.json"
+    },
+    "people/avicenna": {
+      "status": "da-kiem",
+      "hash": "sha256:75ba1d4b427ab7b083162991790c01e90168ff49011e83a697569f87bf1b3aad",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__avicenna.json"
+    },
+    "people/beauvoir": {
+      "status": "da-kiem",
+      "hash": "sha256:b210033aa430e0078c87723f9c64146420ab141932b3dd1ee32df970fdb14858",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__beauvoir.json"
+    },
+    "people/bentham": {
+      "status": "da-kiem",
+      "hash": "sha256:404c6f72facd87f92cb1da0b8c5bfb260dfd9416b938e94f467f82b01327ddd0",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__bentham.json"
+    },
+    "people/chu-hy": {
+      "status": "chua-kiem",
+      "hash": "sha256:6a6946771df70640c7bbf23c8a0cc39fd689ec0da4fd2ca0057bfce01515f28d"
+    },
+    "people/chu-van-an": {
+      "status": "da-kiem",
+      "hash": "sha256:e2fa5ff3cd3e4177840b0112b0a85f195f56c2bb9a505aa6369605f486532024",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__chu-van-an.json"
+    },
+    "people/democritus": {
+      "status": "chua-kiem",
+      "hash": "sha256:dd68948545fb193214f2cce031fc6eb5a03f26d33fb837029fc4a4b0307d6733"
+    },
+    "people/descartes": {
+      "status": "da-kiem",
+      "hash": "sha256:390fd09650f7107cd0c2835359bb84f0be2c705bda3ce617974d0d8294883981",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__descartes.json"
+    },
+    "people/duc-phat": {
+      "status": "da-kiem",
+      "hash": "sha256:b7cb5d6ffc5cc070e8e1c34e4f1531eddb90bb911c029fa7b897af68d2f062cb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__duc-phat.json"
+    },
+    "people/epictetus": {
+      "status": "da-kiem",
+      "hash": "sha256:781492b6378fdc64529305f3d0f16e759d1a847cfd641a615c7d8b699aee46b5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__epictetus.json"
+    },
+    "people/epicurus": {
+      "status": "da-kiem",
+      "hash": "sha256:96a7194ceb42e15989db14ebb361696e0e961f83fe63757c343d1d9d94810657",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__epicurus.json"
+    },
+    "people/frege": {
+      "status": "da-kiem",
+      "hash": "sha256:b11219f1a9f05b174026bed65866294fa019ae5d42c0d75c534fab9b00cb32ed",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__frege.json"
+    },
+    "people/han-phi": {
+      "status": "da-kiem",
+      "hash": "sha256:2210fb50b340e021136428cc705008ac0d91e7de14c48722ea8ed700ff76e820",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__han-phi.json"
+    },
+    "people/hegel": {
+      "status": "da-kiem",
+      "hash": "sha256:d026f966f86df6d273dfc125cf87ca1076b3e5dc141de64c935c256b7fd7fe26",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__hegel.json"
+    },
+    "people/heidegger": {
+      "status": "da-kiem",
+      "hash": "sha256:954be837b556169e6e2693fb9c10c6704dfe94c6e032aa9a44835d39b43444ef",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__heidegger.json"
+    },
+    "people/heraclitus": {
+      "status": "chua-kiem",
+      "hash": "sha256:55fb58d8cc5b98cd0359077049e073c62fda674e8990eef7c09f511473bd08e3"
+    },
+    "people/hobbes": {
+      "status": "da-kiem",
+      "hash": "sha256:3b7f0a903ab0b66ccd9e5134d86c43c4ac09bb1206cc019dcb98644f2a3b3d1c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__hobbes.json"
+    },
+    "people/hume": {
+      "status": "da-kiem",
+      "hash": "sha256:77fd7de096a211a7cd8acf6f774b957eaedf1d08724ace8252b2eed41e0c743c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__hume.json"
+    },
+    "people/husserl": {
+      "status": "da-kiem",
+      "hash": "sha256:bb55ba9b6742a5b4222b4b090b3edcb9e473fa7783b416ecdb4d37ccf247ab38",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__husserl.json"
+    },
+    "people/kant": {
+      "status": "da-kiem",
+      "hash": "sha256:3e704731d8e2be5186b5aa6d8df0bea6dc5a3ea3d3770f5ce3fbcb7bad35b64f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__kant.json"
+    },
+    "people/khong-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:81851815c05587ec275c169f885d8079cfc5385e5e9771d4662f156f6feacf97",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__khong-tu.json"
+    },
+    "people/kierkegaard": {
+      "status": "da-kiem",
+      "hash": "sha256:b5f19ce098fc0a0fa18701c7c96a12afbcbb86ad5720e294f227117deef5c044",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__kierkegaard.json"
+    },
+    "people/lao-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:a07120e6f1c70887f71d947f213ca68c0f2bbb73b92054c24143cc72896a1ea5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__lao-tu.json"
+    },
+    "people/leibniz": {
+      "status": "da-kiem",
+      "hash": "sha256:8279faa29e0b12e94673a45c31e72bdaf4c4ee951161abf29c3d61910811b7cb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__leibniz.json"
+    },
+    "people/locke": {
+      "status": "da-kiem",
+      "hash": "sha256:edbaca314715d20a383cc2d66e60405995e89f21e3e8653ef234250764a6a378",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__locke.json"
+    },
+    "people/mac-tu": {
+      "status": "chua-kiem",
+      "hash": "sha256:335d391f71ab4cf6533a3696d35e16bac3a9f0c85d8241306b73fb1f0956f665"
+    },
+    "people/maimonides": {
+      "status": "da-kiem",
+      "hash": "sha256:d59c8dd4b0862b4bed05a4beddb5820df4dd68a2ecc7c24f16de464c378e320f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__maimonides.json"
+    },
+    "people/manh-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:44aa581412ed4ef33f38f52d1a90792fe666d2b9fb064d25198710faad2e8865",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__manh-tu.json"
+    },
+    "people/marcus-aurelius": {
+      "status": "da-kiem",
+      "hash": "sha256:30ec74c92cfe5b5b41e541a4df04d273b01326f6e81df8b6082a5b4917833d9b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__marcus-aurelius.json"
+    },
+    "people/marx": {
+      "status": "da-kiem",
+      "hash": "sha256:bb58c9711adf7f13631ba9bf3b20a5b62774047db34299d9449d77fb22bd0b4f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__marx.json"
+    },
+    "people/mill": {
+      "status": "da-kiem",
+      "hash": "sha256:37c16a30e1dc189bb3a9a551626bd27496250da399e445a11844a3a5386486df",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__mill.json"
+    },
+    "people/nagarjuna": {
+      "status": "da-kiem",
+      "hash": "sha256:aa5019b44aeae7f73e84cb22f18311cb8679e7fd0f02c31da731cdaed9333adc",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__nagarjuna.json"
+    },
+    "people/nguyen-trai": {
+      "status": "da-kiem",
+      "hash": "sha256:02d4b29c439d4106495b0c5f61cf1bd037e803bd2eba7525d366718491904522",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__nguyen-trai.json"
+    },
+    "people/nietzsche": {
+      "status": "da-kiem",
+      "hash": "sha256:65129421dc622998fbef0b8d7968fc306534ad4c6e9152208cba0558c54da90e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__nietzsche.json"
+    },
+    "people/nozick": {
+      "status": "da-kiem",
+      "hash": "sha256:54b6f571bba766c567631aa803ae88fa1b9c07acb447eb1e59eadf47fb37731e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__nozick.json"
+    },
+    "people/parfit": {
+      "status": "da-kiem",
+      "hash": "sha256:eb0b0155b486a629551ac4d0258a2a2b1569027b4a9e38f503d7a3be387a9eb3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__parfit.json"
+    },
+    "people/pascal": {
+      "status": "da-kiem",
+      "hash": "sha256:9b7d2e46466638b94cb22f1796f46d8087b987bdd22b72be00b5f54a83017c79",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo02",
+      "evidence": "verification/evidence/people__pascal.json"
+    },
+    "people/platon": {
+      "status": "da-kiem",
+      "hash": "sha256:0a03297c8b0768ceecb1ff6900a87e7ccf12c05a7be9f14a5dc4a94d1addd347",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__platon.json"
+    },
+    "people/popper": {
+      "status": "da-kiem",
+      "hash": "sha256:da2f140b4986719e39d178dd9c525414e17e501adaf81b795071118332d82e7e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__popper.json"
+    },
+    "people/quine": {
+      "status": "da-kiem",
+      "hash": "sha256:a233d91c89ac594d2d4fb1fe1239e94767a3dbc1d4717e06a92bd6ae99c06047",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__quine.json"
+    },
+    "people/rawls": {
+      "status": "da-kiem",
+      "hash": "sha256:fe6025eabb275894cf8fad494b8be6ae1de0e646eed61a474c9a47bd4fac3817",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__rawls.json"
+    },
+    "people/rousseau": {
+      "status": "da-kiem",
+      "hash": "sha256:d784652221763e483b033bd58e78078c0dcb70c44cd3ee4a6b06269268c4a4e3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__rousseau.json"
+    },
+    "people/russell": {
+      "status": "da-kiem",
+      "hash": "sha256:5023c7eab851bc351dee031b7ceaf2b3769f7b0ceb0d8bee9ae3dbdc9aa00d72",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__russell.json"
+    },
+    "people/sartre": {
+      "status": "da-kiem",
+      "hash": "sha256:8936ba0471402d0afa2aaa02e78bf823fe82a7de6829c3bb58227f32f2645043",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__sartre.json"
+    },
+    "people/socrates": {
+      "status": "da-kiem",
+      "hash": "sha256:4d599efa0928945f7e044ca1ff56ee012a64d7e73267bfb1d39675c2e32120cc",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__socrates.json"
+    },
+    "people/spinoza": {
+      "status": "da-kiem",
+      "hash": "sha256:1bee0ebb7348f651a21fdc46cceeb5b29f184764379839b48aaf149b420e8ae4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo03",
+      "evidence": "verification/evidence/people__spinoza.json"
+    },
+    "people/thales": {
+      "status": "da-kiem",
+      "hash": "sha256:c8ad3303d4d90a72d9ff6cca7180f5404dabdcbe39ecb46975dcd1c28ffb5db2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__thales.json"
+    },
+    "people/tran-duc-thao": {
+      "status": "da-kiem",
+      "hash": "sha256:f95ede0177dc1ce130b6fa638b56ac1d0289adebb7c46cdc9fca1a4eb6f06934",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__tran-duc-thao.json"
+    },
+    "people/tran-nhan-tong": {
+      "status": "da-kiem",
+      "hash": "sha256:f568baffc4112c9a4205a87c4636a5b4741ae5eb623cbbecf6cb12a696cdd10c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo06",
+      "evidence": "verification/evidence/people__tran-nhan-tong.json"
+    },
+    "people/trang-tu": {
+      "status": "chua-kiem",
+      "hash": "sha256:25904bfdadf927eb49a55784e3dc6899c9632c8d108fc1df6f16dfc62c8abfa4"
+    },
+    "people/tuan-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:bab1b8dc4c8d2645d3fbf958e5f0bebf19ca099b8c21796c3916f5fc74e8b1b4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo05",
+      "evidence": "verification/evidence/people__tuan-tu.json"
+    },
+    "people/tue-trung": {
+      "status": "chua-kiem",
+      "hash": "sha256:de4f0c66fdafa8168c043be56ee7e500dfb6c0225f1527c2af2951b4f0a631c2"
+    },
+    "people/wittgenstein": {
+      "status": "da-kiem",
+      "hash": "sha256:e7e22712e23f49b92a0e1a5ff3003be0487158fc9568326a34cf05d568d66ffd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo04",
+      "evidence": "verification/evidence/people__wittgenstein.json"
+    },
+    "people/zeno": {
+      "status": "da-kiem",
+      "hash": "sha256:45a6698a5e83d5d3e5e5c2342d8f5161cf763934c80497d0ee5881934fc12799",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo01",
+      "evidence": "verification/evidence/people__zeno.json"
+    },
+    "works/anselm.cur-deus-homo": {
+      "status": "da-kiem",
+      "hash": "sha256:cfdbb7cfb07ab036f97c6fb1ae8eb4c54b97550da609425656d2f7f624559ca6",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__anselm.cur-deus-homo.json"
+    },
+    "works/anselm.de-veritate": {
+      "status": "da-kiem",
+      "hash": "sha256:5c60e063335393b886976fbe667de56505285dd013985cec79d4b23d668c650d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__anselm.de-veritate.json"
+    },
+    "works/anselm.monologion": {
+      "status": "da-kiem",
+      "hash": "sha256:aab086fddc65c2021f5b2fec36681a724cc66c4aee0449f1e1304e67ea12c86b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__anselm.monologion.json"
+    },
+    "works/anselm.proslogion": {
+      "status": "da-kiem",
+      "hash": "sha256:21f7278d2c3fa09337cec2cb2c36f22ba6fe7e53ef9a9946e05905b0aaa7c3fb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__anselm.proslogion.json"
+    },
+    "works/aquinas.de-ente-et-essentia": {
+      "status": "da-kiem",
+      "hash": "sha256:dc397c8df7cd02d6eaa5bf3ecd2fe46ca2bed16b3f5af1b79e2f73b763e883eb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aquinas.de-ente-et-essentia.json"
+    },
+    "works/aquinas.de-unitate-intellectus-contra-averroistas": {
+      "status": "da-kiem",
+      "hash": "sha256:cc1349c3bfae0d721de570e592a92ae6d0b20457984b444658a0151ef1ab00c7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aquinas.de-unitate-intellectus-contra-averroistas.json"
+    },
+    "works/aquinas.summa-contra-gentiles": {
+      "status": "da-kiem",
+      "hash": "sha256:091a1561c353fc2725932ac05289b4ef0f4bc40a4ed70f8a60d315b657cd63ca",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aquinas.summa-contra-gentiles.json"
+    },
+    "works/aquinas.summa-theologiae": {
+      "status": "da-kiem",
+      "hash": "sha256:b432e5e434d05283d4292b97089188a673ec1c84e43c88dca00ed07a18d298bd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aquinas.summa-theologiae.json"
+    },
+    "works/arendt.eichmann-in-jerusalem-a-report-on-the-banality-of": {
+      "status": "da-kiem",
+      "hash": "sha256:b7c49e5dc34d7703ef28076314b8d84069a89e934b7eea30a9526b49ae4d5f48",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__arendt.eichmann-in-jerusalem-a-report-on-the-banality-of.json"
+    },
+    "works/arendt.on-revolution": {
+      "status": "da-kiem",
+      "hash": "sha256:9613f4a31cf7d6e0e2d743e47d1a0f057ba53ac3c438068501545f68029642e8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__arendt.on-revolution.json"
+    },
+    "works/arendt.the-human-condition": {
+      "status": "da-kiem",
+      "hash": "sha256:0ee8f047114d4f1cb1b3c549c8d01ac6f0328d2c218ed3d9d8d84687fdad8a39",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__arendt.the-human-condition.json"
+    },
+    "works/arendt.the-life-of-the-mind": {
+      "status": "da-kiem",
+      "hash": "sha256:afa2a7eb027ea3f0f77c6625c64ead15e62fa5b513fdbdcb5de982d52ef244b3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__arendt.the-life-of-the-mind.json"
+    },
+    "works/arendt.the-origins-of-totalitarianism": {
+      "status": "da-kiem",
+      "hash": "sha256:4b91e4fb0cd244593711a0bec5964206dacfa2317839ac9b994c00c3e7e67743",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__arendt.the-origins-of-totalitarianism.json"
+    },
+    "works/aristotle.ethica-nicomachea": {
+      "status": "da-kiem",
+      "hash": "sha256:f11d438acabb318f9956406fb5ca594e0aec1a589a8a835197a2a020c16b5a57",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aristotle.ethica-nicomachea.json"
+    },
+    "works/aristotle.metaphysica": {
+      "status": "da-kiem",
+      "hash": "sha256:b81579f1fce66a44052f9397fb295e1d1a53a7134270620320b234ee2207f64a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aristotle.metaphysica.json"
+    },
+    "works/aristotle.organon": {
+      "status": "da-kiem",
+      "hash": "sha256:9887f6c22a8b1840a1a4d0ec0921e21c08165daa041a8876aa62641acf6a38b3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aristotle.organon.json"
+    },
+    "works/aristotle.physica": {
+      "status": "da-kiem",
+      "hash": "sha256:1d8ca9b8d9c976d12ec20c47e1b18d1b4d648cf25d4d8c18c7b55dc3e0ac42c3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aristotle.physica.json"
+    },
+    "works/aristotle.politica": {
+      "status": "da-kiem",
+      "hash": "sha256:60d1e120789a1a3a095ee94e602d6bad390a228b55cb5f95f7e52666ba7c49fb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__aristotle.politica.json"
+    },
+    "works/augustine.confessiones": {
+      "status": "da-kiem",
+      "hash": "sha256:64f6dd0d3bb198382e8a7ba11a4f872a49e7e5775dd28ec6679c2212eba2bb9a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__augustine.confessiones.json"
+    },
+    "works/augustine.contra-academicos": {
+      "status": "da-kiem",
+      "hash": "sha256:fb69943fa26767b18ef8bf28ef8a384b75708f94bf9ecec399e12a77eeca1267",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__augustine.contra-academicos.json"
+    },
+    "works/augustine.de-civitate-dei": {
+      "status": "da-kiem",
+      "hash": "sha256:414163498ca4335b97acf3a12ce8224fde69bd1f0941925adf9d2c4234b98464",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__augustine.de-civitate-dei.json"
+    },
+    "works/augustine.de-libero-arbitrio": {
+      "status": "da-kiem",
+      "hash": "sha256:7e22cd70376819d4168d1f8fd2fc5703e43bb4c627242958249a5d13b77d8018",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__augustine.de-libero-arbitrio.json"
+    },
+    "works/augustine.de-trinitate": {
+      "status": "da-kiem",
+      "hash": "sha256:77e1ef49831e7bbc4e4c704b29265d332a4dcf4bada4d4d5be2ac1500d114339",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__augustine.de-trinitate.json"
+    },
+    "works/averroes.al-kashf-an-manahij-al-adilla": {
+      "status": "da-kiem",
+      "hash": "sha256:22f96f03a254126c97bbf363c5ad2a2c00e6d5f78b845cd3bb42153a79c7c845",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__averroes.al-kashf-an-manahij-al-adilla.json"
+    },
+    "works/averroes.fasl-al-maqal": {
+      "status": "da-kiem",
+      "hash": "sha256:9733071f88d735cba4a9f8aa46c657006bf9dd2879b5cffeb1fbc28bb03320a2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo07",
+      "evidence": "verification/evidence/works__averroes.fasl-al-maqal.json"
+    },
+    "works/averroes.tahafut-al-tahafut": {
+      "status": "da-kiem",
+      "hash": "sha256:88ffeeba2487b89f76bc0b8e7e5bc222ecb96ab9a7dd1861552ef5856ce59e61",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__averroes.tahafut-al-tahafut.json"
+    },
+    "works/avicenna.al-isharat-wa-l-tanbihat": {
+      "status": "da-kiem",
+      "hash": "sha256:7911cae440e3074c18daea0655e335ed3168b73086d4dea596e9d59ce5ad1b09",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__avicenna.al-isharat-wa-l-tanbihat.json"
+    },
+    "works/avicenna.al-najat": {
+      "status": "da-kiem",
+      "hash": "sha256:d571c1189aff7143bdd6894d8f30ccfeaa3c13055c12cf5ba2e831dba735a1da",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__avicenna.al-najat.json"
+    },
+    "works/avicenna.al-qanun-fi-al-tibb": {
+      "status": "da-kiem",
+      "hash": "sha256:41597f81da13477f8a47f6711825ce00a6225dd57d2e976ef5f01c2a900c8f35",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__avicenna.al-qanun-fi-al-tibb.json"
+    },
+    "works/avicenna.kitab-al-shifa": {
+      "status": "da-kiem",
+      "hash": "sha256:242f5cc3d9a3e4093515f494f083d37562b55eb7ded1bcfa811129428830a7f7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__avicenna.kitab-al-shifa.json"
+    },
+    "works/beauvoir.la-vieillesse": {
+      "status": "da-kiem",
+      "hash": "sha256:856b6b7d1c091df0f2250b5406e92bbc0e67fdfea7f68cff2280c8c1c23963e7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__beauvoir.la-vieillesse.json"
+    },
+    "works/beauvoir.le-deuxieme-sexe": {
+      "status": "da-kiem",
+      "hash": "sha256:dbcaf1ff147cd7ad1779793ee2c3e145d0e700b4a807ee7214643bb3718138a4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__beauvoir.le-deuxieme-sexe.json"
+    },
+    "works/beauvoir.les-mandarins": {
+      "status": "da-kiem",
+      "hash": "sha256:f4b1858ce9f395c02b6f40a3bd2fa79e9f8b160b82504b6e1dff614c3e9ae5c6",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__beauvoir.les-mandarins.json"
+    },
+    "works/beauvoir.pour-une-morale-de-l-ambiguite": {
+      "status": "da-kiem",
+      "hash": "sha256:8e143550de6d0454390a4ea6406c6153fb8d11c577ca668039dab8db7b4139cd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__beauvoir.pour-une-morale-de-l-ambiguite.json"
+    },
+    "works/beauvoir.pyrrhus-et-cineas": {
+      "status": "da-kiem",
+      "hash": "sha256:10f7ab59fb4b41722af6bc09a478cb778e9f8a5482682f0d1d05ceef6a42d969",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__beauvoir.pyrrhus-et-cineas.json"
+    },
+    "works/bentham.a-fragment-on-government": {
+      "status": "da-kiem",
+      "hash": "sha256:be7d965a381097b46c9649630f7f7c3b28b82b165ac17f89ae5875db84004289",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__bentham.a-fragment-on-government.json"
+    },
+    "works/bentham.an-introduction-to-the-principles-of-morals-and-le": {
+      "status": "da-kiem",
+      "hash": "sha256:c0a8fc233df4a9586985750302edfff54efeb56baca8f3b0c13d474152c44df3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__bentham.an-introduction-to-the-principles-of-morals-and-le.json"
+    },
+    "works/bentham.panopticon-or-the-inspection-house": {
+      "status": "da-kiem",
+      "hash": "sha256:2999347942ade4b4461d4bf289f05206c6f0e2f6d93f8f8f25dfd8a06e61eaaa",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__bentham.panopticon-or-the-inspection-house.json"
+    },
+    "works/bentham.plan-of-parliamentary-reform": {
+      "status": "da-kiem",
+      "hash": "sha256:2d841cb244f97f2b3073ea54d2ac0385fc18da171e4a24435c1a3bfb95876a92",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__bentham.plan-of-parliamentary-reform.json"
+    },
+    "works/bentham.the-book-of-fallacies": {
+      "status": "da-kiem",
+      "hash": "sha256:093bf37decf380de9825968481aa3a512a34b293b7fb01d8a5899e4f941b60dd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__bentham.the-book-of-fallacies.json"
+    },
+    "works/chu-hy.can-tu-luc": {
+      "status": "da-kiem",
+      "hash": "sha256:28c5256b4a99a8911cd7d229cd2c58a20073515d45009becde39ac9b7ca50f07",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-hy.can-tu-luc.json"
+    },
+    "works/chu-hy.chu-tu-ngu-loai": {
+      "status": "da-kiem",
+      "hash": "sha256:acf9e3bde6f45873a32ece1d953829eec9555cf3f560e78eb9e90c99ae2cd0bc",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-hy.chu-tu-ngu-loai.json"
+    },
+    "works/chu-hy.chu-tu-van-tap": {
+      "status": "da-kiem",
+      "hash": "sha256:b1a16fbef25323b1f5cb8d066dfe18b843787f9b46e4a830ac26698ff6caf5de",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-hy.chu-tu-van-tap.json"
+    },
+    "works/chu-hy.tu-thu-chuong-cu-tap-chu": {
+      "status": "da-kiem",
+      "hash": "sha256:d7db933a6dc4483426829430c84e788f2700743668160de000bd0ab43be4c881",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-hy.tu-thu-chuong-cu-tap-chu.json"
+    },
+    "works/chu-van-an.that-tram-so": {
+      "status": "da-kiem",
+      "hash": "sha256:cd5f5dd935cadac71d39592f8525f0d97a6d8efa2b710402bfe1bf6f43151f7d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-van-an.that-tram-so.json"
+    },
+    "works/chu-van-an.tieu-an-thi": {
+      "status": "da-kiem",
+      "hash": "sha256:b7a570dd6deef1d99ecf3b2b2e37077a918a62d2deb543096525fe53e323f622",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-van-an.tieu-an-thi.json"
+    },
+    "works/chu-van-an.tu-thu-thuyet-uoc": {
+      "status": "da-kiem",
+      "hash": "sha256:5198519dbacef8c48257851a158ce9d3926fb4d4c34c2b021abca8d6678907c3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chu-van-an.tu-thu-thuyet-uoc.json"
+    },
+    "works/chua-ro.a-sand-county-almanac": {
+      "status": "da-kiem",
+      "hash": "sha256:1cc2e460a9bcf5668e43df7925facdc523e7387bfa826933a63ced9712004877",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chua-ro.a-sand-county-almanac.json"
+    },
+    "works/chua-ro.against-democracy": {
+      "status": "da-kiem",
+      "hash": "sha256:9a3349f258c432a26f7985ea74b206e286dd21a526d8a25ad5760eb1f7aa9a2b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chua-ro.against-democracy.json"
+    },
+    "works/chua-ro.against-method": {
+      "status": "da-kiem",
+      "hash": "sha256:3ad31e912e128e1df4a136cb505a34553cd0c3d1b6555f42abbc504b2a59e0cb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo08",
+      "evidence": "verification/evidence/works__chua-ro.against-method.json"
+    },
+    "works/chua-ro.an-inquiry-into-the-human-mind": {
+      "status": "da-kiem",
+      "hash": "sha256:86f240cb5f5bd29e68e4b72b814f917887d2b8ec0a8dc07d10e2311e5b7d6448",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.an-inquiry-into-the-human-mind.json"
+    },
+    "works/chua-ro.anh-em-nha-karamazov": {
+      "status": "da-kiem",
+      "hash": "sha256:def021037704493c1b7c673e8d8ee2b90d605acaed1fb7c6e08dcd9d4be3c5a7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.anh-em-nha-karamazov.json"
+    },
+    "works/chua-ro.animal-liberation": {
+      "status": "da-kiem",
+      "hash": "sha256:98a6629394efc8c0954299af9a51d224f06207df80064578acb5e8a6e7c6e288",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.animal-liberation.json"
+    },
+    "works/chua-ro.anthropologie-in-pragmatischer-hinsicht": {
+      "status": "da-kiem",
+      "hash": "sha256:83c9bed46d0ddd47b0ff4a24648f308c52de3b2086abf82209497f4001b74658",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.anthropologie-in-pragmatischer-hinsicht.json"
+    },
+    "works/chua-ro.apologia": {
+      "status": "da-kiem",
+      "hash": "sha256:39445dc00bfa138f49e33a8ce65548d842f48bcd38ddc89dac4c004263601d6a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.apologia.json"
+    },
+    "works/chua-ro.ban-ve-tu-do": {
+      "status": "da-kiem",
+      "hash": "sha256:0c42ba7cf5f1f55b67e5393d84ab4ae8e22b76941e986960968787fa7c8a04e8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.ban-ve-tu-do.json"
+    },
+    "works/chua-ro.basic-color-terms": {
+      "status": "da-kiem",
+      "hash": "sha256:0839a5b79842e56f1b55c4545029fd1d9e98cd0ce13525699df1c09f694cc7c4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.basic-color-terms.json"
+    },
+    "works/chua-ro.beantwortung-der-frage-was-ist-aufklarung": {
+      "status": "da-kiem",
+      "hash": "sha256:673e9dba005b0ad5c3752310e8446e8f0fe24b32762cc30978c595d829625522",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.beantwortung-der-frage-was-ist-aufklarung.json"
+    },
+    "works/chua-ro.ben-kia-thien-va-ac": {
+      "status": "da-kiem",
+      "hash": "sha256:32fd80eb3ccc8d6be1ea72280924ae424955d75d1499d66d9239f19837ebe6b0",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.ben-kia-thien-va-ac.json"
+    },
+    "works/chua-ro.beyond-good-and-evil": {
+      "status": "da-kiem",
+      "hash": "sha256:9e5062f4e63a2dbadfa1ac25feed7eb9c725d1cf6960ace1cd90239c93463b3b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.beyond-good-and-evil.json"
+    },
+    "works/chua-ro.cac-nguyen-ly-cua-triet-hoc": {
+      "status": "da-kiem",
+      "hash": "sha256:7b97e43d63620db50efaa8c15b6542a8445ae23313744c5f9a3a784c80959283",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.cac-nguyen-ly-cua-triet-hoc.json"
+    },
+    "works/chua-ro.cac-nguyen-ly-triet-hoc": {
+      "status": "da-kiem",
+      "hash": "sha256:5aa0132f6ccee909fb7e274bd90ac4c89412168166dc05328d13e936a26d472d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.cac-nguyen-ly-triet-hoc.json"
+    },
+    "works/chua-ro.cac-nguyen-ly-triet-hoc-cua-descartes": {
+      "status": "da-kiem",
+      "hash": "sha256:618d1dc623716d0ec96ec63df08b56c5fe71b692226ea577a8f2e50bd97ade47",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.cac-nguyen-ly-triet-hoc-cua-descartes.json"
+    },
+    "works/chua-ro.candide": {
+      "status": "da-kiem",
+      "hash": "sha256:ef23727e96d803d693e5c0c1947ff525fdd55fd95c5350caa4bc661218fc8d6f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.candide.json"
+    },
+    "works/chua-ro.canh-duc-truyen-dang-luc": {
+      "status": "da-kiem",
+      "hash": "sha256:e0e167ea7b79f8db5ea9e264984acb58e9c262e8626c3beb5d84bf6f5a206860",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.canh-duc-truyen-dang-luc.json"
+    },
+    "works/chua-ro.capitalism-socialism-and-democracy": {
+      "status": "da-kiem",
+      "hash": "sha256:fe375c425197d39a7d8ef95fba893501154093bb8b34f94824372bec190a6037",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.capitalism-socialism-and-democracy.json"
+    },
+    "works/chua-ro.cdp-carbon-majors-report-2017": {
+      "status": "chua-kiem",
+      "hash": "sha256:e1bd64d57e10883ac74649af3ff42eeb7d9e7d84e88ebdb39a9361c13cfec4dd"
+    },
+    "works/chua-ro.city-of-god": {
+      "status": "da-kiem",
+      "hash": "sha256:9009a009a3dae43dda39e6cf80361f461cabbdee2a9beccd23a8e59a267c3321",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.city-of-god.json"
+    },
+    "works/chua-ro.con-nguoi-qua-doi-con-nguoi": {
+      "status": "da-kiem",
+      "hash": "sha256:907d4502f108df0747072338f425bd7058bbf51e3e4083126fc8daaff44cda0d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.con-nguoi-qua-doi-con-nguoi.json"
+    },
+    "works/chua-ro.confessions": {
+      "status": "da-kiem",
+      "hash": "sha256:a5e32e0e268fcb12eae0b0e3205896cb6a0b3261d519ac8b9d06860a2e4dc4a5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.confessions.json"
+    },
+    "works/chua-ro.cong-hoa": {
+      "status": "da-kiem",
+      "hash": "sha256:04d05e7edb477c4a7101d451fefcd8b3239d6e02c61ef81b4c1a79bfe22ab488",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.cong-hoa.json"
+    },
+    "works/chua-ro.contra-mendacium": {
+      "status": "da-kiem",
+      "hash": "sha256:3b0b20e24c9f61be627a17d11604a6a825dc0f08395373dfa599c7dd5b2497bb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.contra-mendacium.json"
+    },
+    "works/chua-ro.critique-of-pure-reason": {
+      "status": "da-kiem",
+      "hash": "sha256:2c94b576c8ee7663fd833d33285f85c73ed632288de257f58d8f6a9d001a9a3d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.critique-of-pure-reason.json"
+    },
+    "works/chua-ro.de-anima": {
+      "status": "chua-kiem",
+      "hash": "sha256:41c33ea3699ab4dced0c5cd66cfa4a447d3dd5b64c4779656be12760c381eea5"
+    },
+    "works/chua-ro.de-mendacio": {
+      "status": "da-kiem",
+      "hash": "sha256:5d2e1814ae734c533f5e4535379f08fb2291a4b33ad2a90553e7aa84d40d6985",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo09",
+      "evidence": "verification/evidence/works__chua-ro.de-mendacio.json"
+    },
+    "works/chua-ro.de-revolutionibus": {
+      "status": "da-kiem",
+      "hash": "sha256:3ab04e6e36f9ad1522f910ff029961397f2f805cb41b12353511ff883cc6472c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.de-revolutionibus.json"
+    },
+    "works/chua-ro.den-hien-dai-tu-truyen-thong": {
+      "status": "da-kiem",
+      "hash": "sha256:cbb2f5710478809bba491c3f0e9f8bcbf83bf43a9923f6854ce082121c7b295f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.den-hien-dai-tu-truyen-thong.json"
+    },
+    "works/chua-ro.die-fragmente-der-vorsokratiker": {
+      "status": "da-kiem",
+      "hash": "sha256:3dd3eb9776104d4f45838b0e7acab170091c35fbb4e2460b7ef196b98f86741d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.die-fragmente-der-vorsokratiker.json"
+    },
+    "works/chua-ro.die-metaphysik-der-sitten": {
+      "status": "da-kiem",
+      "hash": "sha256:65081ba5f104524ca2bfa1cdc3fa2cba5d9e7a0be6f4584b1634565503505888",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.die-metaphysik-der-sitten.json"
+    },
+    "works/chua-ro.dieu-tra": {
+      "status": "da-kiem",
+      "hash": "sha256:ec57a830e7ff21ef05be79ff11966d7bb580dccb659e7abfe003ebf0215f3d10",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.dieu-tra.json"
+    },
+    "works/chua-ro.discourse-on-the-method": {
+      "status": "da-kiem",
+      "hash": "sha256:a8b706cc5eff975ce89ffe4117789445d4716a484e0bcbb332c892f690ca5876",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.discourse-on-the-method.json"
+    },
+    "works/chua-ro.doan-ban-ve-chinh-quyen": {
+      "status": "da-kiem",
+      "hash": "sha256:10f3a92ac991f4b4dd934551fcb9d3fd368a1630c683ce1f7768e01c9f30bdaf",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.doan-ban-ve-chinh-quyen.json"
+    },
+    "works/chua-ro.eichmann-in-jerusalem": {
+      "status": "da-kiem",
+      "hash": "sha256:66b82a7ed7c751f2e6ac066241706dab96b9fb1a0741f2ccc84267b2ecfb4874",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.eichmann-in-jerusalem.json"
+    },
+    "works/chua-ro.either-or": {
+      "status": "da-kiem",
+      "hash": "sha256:1d31d6e518687f913aabb0b81de0f6d5fd71937201900d4641753366ea354ea5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.either-or.json"
+    },
+    "works/chua-ro.ethics": {
+      "status": "da-kiem",
+      "hash": "sha256:9ee89af5109c6baf2542ae24bfe9bb8caa72d4f615442dd7614686e18b547506",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.ethics.json"
+    },
+    "works/chua-ro.ethics-inventing-right-and-wrong": {
+      "status": "da-kiem",
+      "hash": "sha256:16117adad58fac56f9b1a8c868161ae869398533f071a117cb3e28c0e182d696",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.ethics-inventing-right-and-wrong.json"
+    },
+    "works/chua-ro.evil-and-the-god-of-love": {
+      "status": "da-kiem",
+      "hash": "sha256:6367a14879b0cdb0b1c7fe1387c4b1e25beeb8f133a287ab07b7f0322933ec90",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.evil-and-the-god-of-love.json"
+    },
+    "works/chua-ro.fear-and-trembling": {
+      "status": "da-kiem",
+      "hash": "sha256:fe8f67b9ce7bcd5125804a97d5e863baa5f299436985d4c50078cc24d6ad1742",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.fear-and-trembling.json"
+    },
+    "works/chua-ro.god-freedom-and-evil": {
+      "status": "da-kiem",
+      "hash": "sha256:ad616b8fd00ff00854f8ce04a65593dd8aaf509c7f893de83dc1d4d82d4dedbb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.god-freedom-and-evil.json"
+    },
+    "works/chua-ro.hien-tuong-hoc-tinh-than": {
+      "status": "da-kiem",
+      "hash": "sha256:77225b6a565a54d5192da3289b930e3bdd1983061f9a36634926449e9334d53a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.hien-tuong-hoc-tinh-than.json"
+    },
+    "works/chua-ro.hien-tuong-luan-va-duy-vat-bien-chung": {
+      "status": "da-kiem",
+      "hash": "sha256:f17ae11a963388de96d2327dfd95dfaa201eabf15d249631e1b56836aa61aa65",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.hien-tuong-luan-va-duy-vat-bien-chung.json"
+    },
+    "works/chua-ro.historiai": {
+      "status": "da-kiem",
+      "hash": "sha256:425091745ee37bee071991afe6ced65bb4d27944fcaa64eb6833a0a30fa0b152",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.historiai.json"
+    },
+    "works/chua-ro.hoang-viet-van-tuyen": {
+      "status": "da-kiem",
+      "hash": "sha256:f8f1ab7247c264849198b7825943c9aec656831b11cca033b6059545e412e854",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.hoang-viet-van-tuyen.json"
+    },
+    "works/chua-ro.hopi-time": {
+      "status": "da-kiem",
+      "hash": "sha256:300349a433846bbfe4397abfbf8e7a44d4a7dc71b87beeeda9e0f7c0e7c74c7b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.hopi-time.json"
+    },
+    "works/chua-ro.how-to-do-things-with-words": {
+      "status": "da-kiem",
+      "hash": "sha256:9eaa0ae6369f76a89e7347d558ee256eed5a205aad6ddbb91857adf5f37c4767",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.how-to-do-things-with-words.json"
+    },
+    "works/chua-ro.in-a-different-voice": {
+      "status": "da-kiem",
+      "hash": "sha256:a2f756985618bfd7e90a309c514495c0dc4be728398bab1c8fad63494b58ef00",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.in-a-different-voice.json"
+    },
+    "works/chua-ro.just-and-unjust-wars": {
+      "status": "da-kiem",
+      "hash": "sha256:51e6587737a22fcd38de46c4b06fd93cf1a544c8cbf44daa0d4ff60fa93bc1c8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.just-and-unjust-wars.json"
+    },
+    "works/chua-ro.khao-cuu-logic": {
+      "status": "da-kiem",
+      "hash": "sha256:192057eda072f33f0131ef9ca6922fa1c1a3162ebd7d8702f039ec653502c58b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.khao-cuu-logic.json"
+    },
+    "works/chua-ro.khao-cuu-triet-hoc": {
+      "status": "da-kiem",
+      "hash": "sha256:fb42e4dbda2d201047fa64a490f1dda0533ca6a4842c5405f7b8674f82877d55",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.khao-cuu-triet-hoc.json"
+    },
+    "works/chua-ro.khao-luan-ve-ban-tinh-con-nguoi": {
+      "status": "da-kiem",
+      "hash": "sha256:be1b947b368b94116651e28e114c307ee2a1479727688659cb10be8510654738",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo10",
+      "evidence": "verification/evidence/works__chua-ro.khao-luan-ve-ban-tinh-con-nguoi.json"
+    },
+    "works/chua-ro.khoa-hoc-vui": {
+      "status": "da-kiem",
+      "hash": "sha256:dc147f6f9b4eaeb038dca23ed0d170bd9222737a8a081bb6493d1fb9242f298e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.khoa-hoc-vui.json"
+    },
+    "works/chua-ro.khung-hoang-cua-cac-khoa-hoc-chau-au": {
+      "status": "da-kiem",
+      "hash": "sha256:229f4878b13763f5e6d3215c8b2722464dad1b4e66da402ab10652a263418030",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.khung-hoang-cua-cac-khoa-hoc-chau-au.json"
+    },
+    "works/chua-ro.killing-in-war": {
+      "status": "da-kiem",
+      "hash": "sha256:627172893bb4868471d402b9ec3c55843825ff0265e0dec4e4e234aec1b9ba58",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.killing-in-war.json"
+    },
+    "works/chua-ro.la-technique": {
+      "status": "da-kiem",
+      "hash": "sha256:f2d32733c3ad1f45778d555f13fd51011c06445e9bba25302aa6365b5017bac8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.la-technique.json"
+    },
+    "works/chua-ro.lam-son-thuc-luc": {
+      "status": "da-kiem",
+      "hash": "sha256:67dfc2213944e3917bd787de5acedf72d7f1a1959f1fd312ade12a9397746399",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.lam-son-thuc-luc.json"
+    },
+    "works/chua-ro.language-truth-and-logic": {
+      "status": "da-kiem",
+      "hash": "sha256:3c56db16506fd4b23813661baab5522e62bad5383a911b9eed595d3d6602834d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.language-truth-and-logic.json"
+    },
+    "works/chua-ro.lao-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:3b742ab0a9293268d943da7a16e403e4db261464287ca22277279d151b990ac5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.lao-tu.json"
+    },
+    "works/chua-ro.liberalism-and-the-limits-of-justice": {
+      "status": "da-kiem",
+      "hash": "sha256:cf53d34d57a71e30118b470f1301fc548dbb342fb12259837fd8b9d78df3acde",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.liberalism-and-the-limits-of-justice.json"
+    },
+    "works/chua-ro.lich-su-triet-hoc-phuong-tay": {
+      "status": "da-kiem",
+      "hash": "sha256:f8f99990c528bab852a9521c84836765a413a5cc47678913e37a6552f3964985",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.lich-su-triet-hoc-phuong-tay.json"
+    },
+    "works/chua-ro.living-without-free-will": {
+      "status": "da-kiem",
+      "hash": "sha256:6b5d3cdfa84e09e8f6d92a1f104e6984cf5bb5f8dcaf7f64e4e4aeff501a3565",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.living-without-free-will.json"
+    },
+    "works/chua-ro.luan-van-than-hocchinh-tri": {
+      "status": "da-kiem",
+      "hash": "sha256:8f724fc31a60b80743ca3fb56e81f3d9bf1fe16400ec62d7a094208e436d63e6",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.luan-van-than-hocchinh-tri.json"
+    },
+    "works/chua-ro.luan-ve-nguon-goc-cua-bat-binh-dang": {
+      "status": "da-kiem",
+      "hash": "sha256:a46dc6c7ae7b6fc86800eddcd9a814e8261cd97dad43de42407012099998cfbc",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.luan-ve-nguon-goc-cua-bat-binh-dang.json"
+    },
+    "works/chua-ro.luan-ve-phuong-phap": {
+      "status": "da-kiem",
+      "hash": "sha256:4d3ddb2c4ddc4830b1d114e2428a0d3bbd6278f8d8db200bc1283c38813a478d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.luan-ve-phuong-phap.json"
+    },
+    "works/chua-ro.may": {
+      "status": "da-kiem",
+      "hash": "sha256:543b067ba7915245cee17aed4a89156ac11e1ce936018c3fa6e58338830e5a94",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.may.json"
+    },
+    "works/chua-ro.meaning-in-life-and-why-it-matters": {
+      "status": "da-kiem",
+      "hash": "sha256:90aec41fa690a85b5377165aa45f2704fd08b3ac8316392d04d80c1cac7b5c44",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.meaning-in-life-and-why-it-matters.json"
+    },
+    "works/chua-ro.meditations-on-first-philosophy": {
+      "status": "da-kiem",
+      "hash": "sha256:c439e5f3f7399c32012e1f83b338fbc92b8e29c34ad5ef1972d7ba1ccd9dd5f1",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.meditations-on-first-philosophy.json"
+    },
+    "works/chua-ro.memorabilia": {
+      "status": "da-kiem",
+      "hash": "sha256:041403771c9147b6e17d41913370f768d442484339996488ea4a9ef1117ce085",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.memorabilia.json"
+    },
+    "works/chua-ro.metaphysica": {
+      "status": "da-kiem",
+      "hash": "sha256:e6f4ef5788d1a72c667bb46b4c99f12ade96d06afcca2743d33f502eff077cd7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.metaphysica.json"
+    },
+    "works/chua-ro.metaphysik-der-sitten": {
+      "status": "da-kiem",
+      "hash": "sha256:1158af9903348850151136c52b3989d99b698f3e254d47863e8327eba8734566",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.metaphysik-der-sitten.json"
+    },
+    "works/chua-ro.mot-vai-suy-nghi-ve-giao-duc": {
+      "status": "da-kiem",
+      "hash": "sha256:cd86e8edee3dfb2d40570727fd47d530ced1d4155c84f5dc1c3c55eb3307c21c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.mot-vai-suy-nghi-ve-giao-duc.json"
+    },
+    "works/chua-ro.nen-tang-sieu-hinh-hoc-cua-dao-duc": {
+      "status": "da-kiem",
+      "hash": "sha256:1fd1642991107d4b4b6ff9daef2490b7d50dabce700bd84e73544ca9909b093f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.nen-tang-sieu-hinh-hoc-cua-dao-duc.json"
+    },
+    "works/chua-ro.nephelai": {
+      "status": "da-kiem",
+      "hash": "sha256:8b79887add2107da2af046b3f909c7ef3f81c12597e22743f8b83b7a6118fe79",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.nephelai.json"
+    },
+    "works/chua-ro.nhung-van-de-cua-triet-hoc": {
+      "status": "da-kiem",
+      "hash": "sha256:3fcb006af0ba1b378208e0ed419db8e5a1d8d2d6d1244a4d6995ffd691e2a54c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.nhung-van-de-cua-triet-hoc.json"
+    },
+    "works/chua-ro.pha-he-cua-dao-duc": {
+      "status": "da-kiem",
+      "hash": "sha256:b526fe06e0f5de267f7deab4a7fea0b828839d418edaf58a5753f42116de0e41",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo11",
+      "evidence": "verification/evidence/works__chua-ro.pha-he-cua-dao-duc.json"
+    },
+    "works/chua-ro.phenomenologie-de-lesprit": {
+      "status": "chua-kiem",
+      "hash": "sha256:2d9ff56ccf8f7a304ab5fc94607c128926e52e6e627bd6cb4e46db1c68c43f16"
+    },
+    "works/chua-ro.phenomenology-of-spirit": {
+      "status": "da-kiem",
+      "hash": "sha256:2b51eaeb59e39cc81397f4ecce61bf3f9abe2416805206d874b0c379edeb6467",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.phenomenology-of-spirit.json"
+    },
+    "works/chua-ro.philosophical-essays": {
+      "status": "da-kiem",
+      "hash": "sha256:6cfc7a67ca20a2cfc71e236509310669e8df6c5240ece61524b7b2c53c51b60a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.philosophical-essays.json"
+    },
+    "works/chua-ro.philosophical-investigations": {
+      "status": "da-kiem",
+      "hash": "sha256:5dc3e94fe7b33347105807eb95463856452e1c6a1ba0887100ac28f5bf256e8c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.philosophical-investigations.json"
+    },
+    "works/chua-ro.principia": {
+      "status": "da-kiem",
+      "hash": "sha256:3df57bff95beaa51a7a356cc265e931a86ca71178c7c9e44a1a70fe8c9a8207f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.principia.json"
+    },
+    "works/chua-ro.principia-ethica": {
+      "status": "da-kiem",
+      "hash": "sha256:7ea2e6044454baef5c41c6d3150885b95ec54138ad507ed8d676e673fe1fb0eb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.principia-ethica.json"
+    },
+    "works/chua-ro.reason-truth-and-history": {
+      "status": "da-kiem",
+      "hash": "sha256:b3aff85c383c20cc994e759301dbcaa6e230d46be115f772532d388e41b1ae4e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.reason-truth-and-history.json"
+    },
+    "works/chua-ro.respect-for-nature": {
+      "status": "da-kiem",
+      "hash": "sha256:c231921fd176c0bde329cec54f45c1f7628f5f3a1ee46dbfc67c420bf73f8dac",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.respect-for-nature.json"
+    },
+    "works/chua-ro.sach-ve-cac-nguy-bien": {
+      "status": "da-kiem",
+      "hash": "sha256:43dccaf21662fc1d8a60243f828013eca731cd7294e7ba7e4190fab442894045",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.sach-ve-cac-nguy-bien.json"
+    },
+    "works/chua-ro.sieu-hinh-hoc": {
+      "status": "chua-kiem",
+      "hash": "sha256:7e579f81a071e34f66abe2480aa304549b9611e4cc0cc83886a3efd32e0bcd67"
+    },
+    "works/chua-ro.spheres-of-justice": {
+      "status": "da-kiem",
+      "hash": "sha256:cd6af33dbaf150111858de99b086a7646b59183abe07cd67fa98dcd783c92c17",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.spheres-of-justice.json"
+    },
+    "works/chua-ro.stanford-encyclopedia-of-philosophy": {
+      "status": "da-kiem",
+      "hash": "sha256:fd9726b2228cdcc7e3260b01325c04cf0f3a0320a829572100955daa0335d2cb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.stanford-encyclopedia-of-philosophy.json"
+    },
+    "works/chua-ro.stoicorum-veterum-fragmenta": {
+      "status": "da-kiem",
+      "hash": "sha256:7514ae5cf0f806432dc9843b7512508c5a0d66437f6a02b53f61dbb466d2b394",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.stoicorum-veterum-fragmenta.json"
+    },
+    "works/chua-ro.su-ra-doi-cua-bi-kich": {
+      "status": "da-kiem",
+      "hash": "sha256:e108f1896ab6720ad125f5c8aec7906ecbd7b1fa9a10766360607236704d8769",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.su-ra-doi-cua-bi-kich.json"
+    },
+    "works/chua-ro.summa-theologica": {
+      "status": "da-kiem",
+      "hash": "sha256:a5209859f13ab45514f2b6e2285dbd937f145417194a1e45f13be7e80f30f6da",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.summa-theologica.json"
+    },
+    "works/chua-ro.superintelligence": {
+      "status": "da-kiem",
+      "hash": "sha256:e03aabd5ea030c2951ee5874fbde3e5ef064c26bf1a788e02c05a551c50d329b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.superintelligence.json"
+    },
+    "works/chua-ro.suy-niem-ve-triet-hoc-thu-nhat": {
+      "status": "da-kiem",
+      "hash": "sha256:946542cf714f5413a754c86b061d3fc68e16c595c4ab3ad0d60f915999d2fc3c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.suy-niem-ve-triet-hoc-thu-nhat.json"
+    },
+    "works/chua-ro.tai-san-la-gi": {
+      "status": "da-kiem",
+      "hash": "sha256:dca1ecb16599103f80138f0aaa357b95557bfa4c527aab80d5c580c1d90472e0",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.tai-san-la-gi.json"
+    },
+    "works/chua-ro.the-case-for-animal-rights": {
+      "status": "da-kiem",
+      "hash": "sha256:d115a93a427c387c4f790ef94cc1d7254023003e434da687bd5136a16396af19",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-case-for-animal-rights.json"
+    },
+    "works/chua-ro.the-communist-manifesto": {
+      "status": "da-kiem",
+      "hash": "sha256:856738bf52a2bc97595572be714f6d8e974668efb284ad8a72287dfdbd072bef",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-communist-manifesto.json"
+    },
+    "works/chua-ro.the-concept-of-mind": {
+      "status": "da-kiem",
+      "hash": "sha256:f1e78f8116d83d7acfae9773a9cb06502261f14b2876b4ac00b25017abae02d9",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-concept-of-mind.json"
+    },
+    "works/chua-ro.the-conscious-mind": {
+      "status": "da-kiem",
+      "hash": "sha256:2d266e69d7c6b9aed6de31faa578418c11f5939f6b4e90d6f56aec3836ffb351",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-conscious-mind.json"
+    },
+    "works/chua-ro.the-gay-science": {
+      "status": "da-kiem",
+      "hash": "sha256:59a520f41b277d65cefcba015b33ed54777fc4862873896984487d9bd3870f3e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-gay-science.json"
+    },
+    "works/chua-ro.the-guide-for-the-perplexed": {
+      "status": "da-kiem",
+      "hash": "sha256:57c8871a18bc552e1149e90b244400d883ef249577453244b46cc8540922a2b8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-guide-for-the-perplexed.json"
+    },
+    "works/chua-ro.the-logic-of-scientific-discovery": {
+      "status": "da-kiem",
+      "hash": "sha256:def6c83e5325fe744706cd67d087858785a1da73b78051079f52b9765b371aa4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-logic-of-scientific-discovery.json"
+    },
+    "works/chua-ro.the-reasons-of-love": {
+      "status": "da-kiem",
+      "hash": "sha256:30e74e0d8b15424a19263377a7c3429063f8b9acbf9d46326ffd70bdadb53cf9",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo12",
+      "evidence": "verification/evidence/works__chua-ro.the-reasons-of-love.json"
+    },
+    "works/chua-ro.the-structure-of-scientific-revolutions": {
+      "status": "da-kiem",
+      "hash": "sha256:c772866505e8991f5655d0932a5f3d6cefe007413550cd7cc2c408bf04623981",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.the-structure-of-scientific-revolutions.json"
+    },
+    "works/chua-ro.three-essays-moral-and-political": {
+      "status": "da-kiem",
+      "hash": "sha256:f33737105940178c94179464f5c47db14de11f0e6bb75e1a01f2e2e55db216b4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.three-essays-moral-and-political.json"
+    },
+    "works/chua-ro.thu-gui-menoeceus": {
+      "status": "chua-kiem",
+      "hash": "sha256:17d4051e552c3715c8c7e793564a828c57d654c44a31cc922fd2d137e6f5df7c"
+    },
+    "works/chua-ro.thus-spoke-zarathustra": {
+      "status": "da-kiem",
+      "hash": "sha256:1704eed2688509ae89dda49d2dbe09be06770233a4e90e3e1cc4c35185f9039c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.thus-spoke-zarathustra.json"
+    },
+    "works/chua-ro.ton-tai-va-hu-vo": {
+      "status": "da-kiem",
+      "hash": "sha256:722498b2b2f5466ea9c75a26c8ad5e83d29d4cea3bd816391bc42fe3722b8f14",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.ton-tai-va-hu-vo.json"
+    },
+    "works/chua-ro.ton-tai-va-thoi-gian": {
+      "status": "da-kiem",
+      "hash": "sha256:67584fe109386e0359b56e761dde711094397447c2a2e90400008963fdc5ad8e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.ton-tai-va-thoi-gian.json"
+    },
+    "works/chua-ro.triet-hoc-so-hoc": {
+      "status": "da-kiem",
+      "hash": "sha256:a746d16429a2e3e639e7d0f96cefeeb80396a3c6d83c3a8704d2799c493a1035",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.triet-hoc-so-hoc.json"
+    },
+    "works/chua-ro.tu-truyen": {
+      "status": "da-kiem",
+      "hash": "sha256:5c65440a732dd0abd3b5660741e4d15d25fa2336915cc465214b61185109ace2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.tu-truyen.json"
+    },
+    "works/chua-ro.tu-va-vat": {
+      "status": "da-kiem",
+      "hash": "sha256:b44cba159ae8fd9a374a2ad13e94fa4604384d42075d19d47a97fd2eee4d7565",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.tu-va-vat.json"
+    },
+    "works/chua-ro.tuyen-ngon-cua-dang-cong-san": {
+      "status": "da-kiem",
+      "hash": "sha256:768363abbab4185af38df1891db785261a483fc181e72ee8c2ae8059cab7fab8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.tuyen-ngon-cua-dang-cong-san.json"
+    },
+    "works/chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug": {
+      "status": "da-kiem",
+      "hash": "sha256:a2eb76ba4d642777c5f2164a7f7a988a41e2e2237c72732ed4eef00f340ffb32",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug.json"
+    },
+    "works/chua-ro.viet-nam-su-luoc": {
+      "status": "da-kiem",
+      "hash": "sha256:215efd01a1c55450a400220fcd98c3e6f383c5f742d222a2737dbeae6e4f3df8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.viet-nam-su-luoc.json"
+    },
+    "works/chua-ro.xa-hoi-mo-va-ke-thu-cua-no": {
+      "status": "da-kiem",
+      "hash": "sha256:5641243196d34ed2b4157c3d0188d5e8e1b8c360c0b0af34b402793d6daa03c7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.xa-hoi-mo-va-ke-thu-cua-no.json"
+    },
+    "works/chua-ro.zarathustra-da-noi-nhu-the": {
+      "status": "da-kiem",
+      "hash": "sha256:051ddbbde7787db2959a5cb5a6815fb197e128733ae2ab88810894db12597e76",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__chua-ro.zarathustra-da-noi-nhu-the.json"
+    },
+    "works/democritus.great-diacosmos": {
+      "status": "da-kiem",
+      "hash": "sha256:100a42a0df6e257ab168095c78564cc88065494689369db69fdad555f5d53562",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__democritus.great-diacosmos.json"
+    },
+    "works/democritus.lesser-diacosmos": {
+      "status": "da-kiem",
+      "hash": "sha256:1c110049f4106c215c4f5f21cf0587440cfc17c8f9147b983fb5d7e82499ae54",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__democritus.lesser-diacosmos.json"
+    },
+    "works/democritus.of-tranquillity": {
+      "status": "da-kiem",
+      "hash": "sha256:8ea29ff14e1d087a07a14b4368b12c8b3f3128441a16af66d5cf79bb66a8f39b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__democritus.of-tranquillity.json"
+    },
+    "works/descartes.discours-de-la-methode": {
+      "status": "da-kiem",
+      "hash": "sha256:59af45f5f9eeee10ec8bbdbbe387df7cb7a752bef30778963074a954b8351765",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__descartes.discours-de-la-methode.json"
+    },
+    "works/descartes.le-monde": {
+      "status": "da-kiem",
+      "hash": "sha256:8da9ff5191a50a166f6331515293958618be2ef62423cb5a9b626f2e8c1a711c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__descartes.le-monde.json"
+    },
+    "works/descartes.les-passions-de-l-ame": {
+      "status": "da-kiem",
+      "hash": "sha256:737b091155d63dd4d8f6bd35ec0873fcc32ae6802012e038336a01408fee09fd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__descartes.les-passions-de-l-ame.json"
+    },
+    "works/descartes.meditationes-de-prima-philosophia": {
+      "status": "da-kiem",
+      "hash": "sha256:c43ff1a2a7ab59b9638c2ffd44549a23f2947cdc69cfc608af0a75afaf495475",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__descartes.meditationes-de-prima-philosophia.json"
+    },
+    "works/descartes.principia-philosophiae": {
+      "status": "da-kiem",
+      "hash": "sha256:ad54210bc2f6cabd6a168463eb1b96c9eae9704924394bb00bbd48c164310821",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__descartes.principia-philosophiae.json"
+    },
+    "works/duc-phat.kinh-ca-chien-dien": {
+      "status": "da-kiem",
+      "hash": "sha256:33a60c650e81a23e19fc5aae7d4e3189bdb7160e14dcb0187b3b57b8d865c38d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__duc-phat.kinh-ca-chien-dien.json"
+    },
+    "works/duc-phat.kinh-chuyen-phap-luan": {
+      "status": "da-kiem",
+      "hash": "sha256:56d0cce4231cf965f0b48f2a2047839708673451bed1b4fd12d751738c87dfe2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__duc-phat.kinh-chuyen-phap-luan.json"
+    },
+    "works/duc-phat.kinh-vo-nga-tuong": {
+      "status": "da-kiem",
+      "hash": "sha256:34af7b60e11e1cb5c4cdb9485dceedf84661bf257f8e30ae5960ef6c53095316",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo13",
+      "evidence": "verification/evidence/works__duc-phat.kinh-vo-nga-tuong.json"
+    },
+    "works/duc-phat.nikaya": {
+      "status": "da-kiem",
+      "hash": "sha256:647a523ecb88839cabc73824417e4d8a64a1049f3d69412591622b4aa7ff708a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__duc-phat.nikaya.json"
+    },
+    "works/duc-phat.tieu-kinh-malunkya": {
+      "status": "da-kiem",
+      "hash": "sha256:fd54a867634c461eaca7c1a70fffb91997f981a0ab748b3e6bd6da4dc939725b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__duc-phat.tieu-kinh-malunkya.json"
+    },
+    "works/epictetus.cam-nang": {
+      "status": "da-kiem",
+      "hash": "sha256:1ea83c7904e4b8caf7616ba25ac554a6c0ce2a64634bb705572cd00b55104380",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__epictetus.cam-nang.json"
+    },
+    "works/epictetus.dien-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:7c327e096c36f49c9bce3c6c38ce0475d9c4febb80ece14b85caf2d70cb72f8d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__epictetus.dien-tu.json"
+    },
+    "works/epicurus.kuriai-doxai": {
+      "status": "da-kiem",
+      "hash": "sha256:0f8a2368e0e03f281f83a513f8c583c3bcbf7756f8d7aa9c992c585af4456551",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__epicurus.kuriai-doxai.json"
+    },
+    "works/epicurus.letter-to-herodotus": {
+      "status": "da-kiem",
+      "hash": "sha256:c7c0c6f92faa86bdb9225bf2c387b3bacbaa76adb1f8fc393c41a0197787303d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__epicurus.letter-to-herodotus.json"
+    },
+    "works/epicurus.letter-to-menoeceus": {
+      "status": "da-kiem",
+      "hash": "sha256:f0ad1c64a2b799a3aa040ba576548fbef2633b39de016d7cc7d442e2ad778fdd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__epicurus.letter-to-menoeceus.json"
+    },
+    "works/epicurus.peri-physeos": {
+      "status": "da-kiem",
+      "hash": "sha256:8b5b9e7fcb0b354cd6d357dd197c65fe8bddfc54d74f60a742254bcd2b8a60ab",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__epicurus.peri-physeos.json"
+    },
+    "works/frege.begriffsschrift": {
+      "status": "da-kiem",
+      "hash": "sha256:f7f9d6873b164b5afc292c7dec51cbe37cbc42ccdafe728ac3771f99ccdabfa5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__frege.begriffsschrift.json"
+    },
+    "works/frege.die-grundlagen-der-arithmetik": {
+      "status": "da-kiem",
+      "hash": "sha256:f49cd4588eaf215eb3ef1731a523615ffa765c7db2e0d7b336afa907494090f9",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__frege.die-grundlagen-der-arithmetik.json"
+    },
+    "works/frege.grundgesetze-der-arithmetik": {
+      "status": "da-kiem",
+      "hash": "sha256:df318f2d4ef6ffc4ea738fe1327508e22a6926f11e137446b0d70e5891413c92",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__frege.grundgesetze-der-arithmetik.json"
+    },
+    "works/han-phi.han-phi-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:eb66b2d50c00d394cdaf364d86e0eaaecd4ea0349cce054a650898f7cc750dd1",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__han-phi.han-phi-tu.json"
+    },
+    "works/hegel.enzyklopadie-der-philosophischen-wissenschaften": {
+      "status": "da-kiem",
+      "hash": "sha256:89a8a60f0a2b2a5e2cebbecbbfdb0656a1277cc6dedbf2b0e98c47a972ae7f7d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hegel.enzyklopadie-der-philosophischen-wissenschaften.json"
+    },
+    "works/hegel.grundlinien-der-philosophie-des-rechts": {
+      "status": "da-kiem",
+      "hash": "sha256:2ae0b4cbd58b22891b5492a7b33dfab116daa4d9a2942cc0a01a3fe7c52e4994",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hegel.grundlinien-der-philosophie-des-rechts.json"
+    },
+    "works/hegel.phanomenologie-des-geistes": {
+      "status": "da-kiem",
+      "hash": "sha256:801892ecbc50b51102bd3ffd72b351b422ae4a4de147901219570d2611b029b1",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hegel.phanomenologie-des-geistes.json"
+    },
+    "works/hegel.wissenschaft-der-logik": {
+      "status": "da-kiem",
+      "hash": "sha256:87b973a06846d9bd3c6a00d09c6d6a29e747f05bfdcf2237b0ec3893bc3f9f98",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hegel.wissenschaft-der-logik.json"
+    },
+    "works/heidegger.holzwege": {
+      "status": "da-kiem",
+      "hash": "sha256:3e5efb140b22498fa525e77770eac9233fb1fb2273cf2bc97adf0ee3c2402b0b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__heidegger.holzwege.json"
+    },
+    "works/heidegger.kant-und-das-problem-der-metaphysik": {
+      "status": "da-kiem",
+      "hash": "sha256:58de7b3025fd8be1ceb4203398566ea7b3818ed77aef0cc637cfafd129e3b8c9",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__heidegger.kant-und-das-problem-der-metaphysik.json"
+    },
+    "works/heidegger.sein-und-zeit": {
+      "status": "da-kiem",
+      "hash": "sha256:296b1261a75ffc37532c3bd8e152040d3f4dffd6ee10a84998f0ea78c12e65c2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__heidegger.sein-und-zeit.json"
+    },
+    "works/heidegger.uberlegungen-iixv": {
+      "status": "da-kiem",
+      "hash": "sha256:d91ce4358138b4ce75998a2784a4317e53d492387ea76e882b527ca87e43c883",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__heidegger.uberlegungen-iixv.json"
+    },
+    "works/heraclitus.peri-physeos": {
+      "status": "da-kiem",
+      "hash": "sha256:d72bc26930820a5aa137144d40f885e7da11428929c3eacd9c134a06d8b8c373",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__heraclitus.peri-physeos.json"
+    },
+    "works/hobbes.de-cive": {
+      "status": "da-kiem",
+      "hash": "sha256:65af2f3be58ab1262a609f933ad653fc682e49497079fe2e2395b12b5c5f3000",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hobbes.de-cive.json"
+    },
+    "works/hobbes.de-corpore": {
+      "status": "da-kiem",
+      "hash": "sha256:8c08cf8ec6563a2e698abf76dd665e38930bbb6308d33e1ce6a69db1d60225fd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hobbes.de-corpore.json"
+    },
+    "works/hobbes.de-homine": {
+      "status": "da-kiem",
+      "hash": "sha256:24ccaf6778bae4e9d68d0e81cd388800de434daff40a2c09f97a3a00cb8aba0a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hobbes.de-homine.json"
+    },
+    "works/hobbes.leviathan": {
+      "status": "da-kiem",
+      "hash": "sha256:3e6a52be2e7917dfc0a567bfe9f5cafe2e6fb68b5a298faae01e9f65dc87aea4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo14",
+      "evidence": "verification/evidence/works__hobbes.leviathan.json"
+    },
+    "works/hobbes.the-elements-of-law-natural-and-politic": {
+      "status": "da-kiem",
+      "hash": "sha256:d68adb246f30b139ba65d8e4c459de776e26155f213790afacd36b798b290a1e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__hobbes.the-elements-of-law-natural-and-politic.json"
+    },
+    "works/hume.a-treatise-of-human-nature": {
+      "status": "da-kiem",
+      "hash": "sha256:978582ab4500c08b170f3f41a362d3cdf1b8a2ed373bba294fac5bc256ab5b58",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__hume.a-treatise-of-human-nature.json"
+    },
+    "works/hume.an-enquiry-concerning-human-understanding": {
+      "status": "da-kiem",
+      "hash": "sha256:d3bfb62cea3e5e6c1dffabfbc851b000ceba1bd38b67bb3fec5b9971c776d574",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__hume.an-enquiry-concerning-human-understanding.json"
+    },
+    "works/hume.an-enquiry-concerning-the-principles-of-morals": {
+      "status": "da-kiem",
+      "hash": "sha256:65a73f9142dbc0ed69bdd56c17cb02857f78df572470f71ec01659c03dab72eb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__hume.an-enquiry-concerning-the-principles-of-morals.json"
+    },
+    "works/hume.dialogues-concerning-natural-religion": {
+      "status": "da-kiem",
+      "hash": "sha256:d904e73ca1d61619964d9e14f79e7d99913710eefc983c4f63a6035c53b75c6c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__hume.dialogues-concerning-natural-religion.json"
+    },
+    "works/hume.the-history-of-england": {
+      "status": "da-kiem",
+      "hash": "sha256:cfcdaf7ee93c43b61db6a8e889826b730554dd984049f8ec892a1553d3836216",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__hume.the-history-of-england.json"
+    },
+    "works/husserl.die-krisis-der-europaischen-wissenschaften": {
+      "status": "da-kiem",
+      "hash": "sha256:74ebd87333aee1a6186fa41153a01e89439b3f4247fa59251e7492c5b176451b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__husserl.die-krisis-der-europaischen-wissenschaften.json"
+    },
+    "works/husserl.ideen-i": {
+      "status": "da-kiem",
+      "hash": "sha256:96c9afdf1cd28cbdd2f4a741ec622baa744d6345e950f45e68beeeaf49fbcaa2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__husserl.ideen-i.json"
+    },
+    "works/husserl.logische-untersuchungen": {
+      "status": "da-kiem",
+      "hash": "sha256:f65913832c6748391eb7437b451d92133ce6766049e3b34cd6d63421b0231099",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__husserl.logische-untersuchungen.json"
+    },
+    "works/husserl.meditations-cartesiennes": {
+      "status": "da-kiem",
+      "hash": "sha256:fe5fbc957526df29f815820804923d85da6c707557698a7f2302744f9240fc48",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__husserl.meditations-cartesiennes.json"
+    },
+    "works/husserl.philosophie-der-arithmetik": {
+      "status": "da-kiem",
+      "hash": "sha256:f73c77a82a0f2ea445723b563aa716209c77af208b1bc881d8f2ce884bfc563c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__husserl.philosophie-der-arithmetik.json"
+    },
+    "works/kant.grundlegung-zur-metaphysik-der-sitten": {
+      "status": "da-kiem",
+      "hash": "sha256:669a47d9d003bf98f3f9f4f180a2f6bbbcc07771009a3834bb8b07f0ed8e8073",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kant.grundlegung-zur-metaphysik-der-sitten.json"
+    },
+    "works/kant.kritik-der-praktischen-vernunft": {
+      "status": "da-kiem",
+      "hash": "sha256:f6afed901eb1d130da1ca6084f340f8f5027310361f14cfa72060d6248e71848",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kant.kritik-der-praktischen-vernunft.json"
+    },
+    "works/kant.kritik-der-reinen-vernunft": {
+      "status": "da-kiem",
+      "hash": "sha256:285b6b3349cfd92932ae9651f2a36f8abd057bf2e591c946a972d30d2541ba52",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kant.kritik-der-reinen-vernunft.json"
+    },
+    "works/kant.kritik-der-urteilskraft": {
+      "status": "da-kiem",
+      "hash": "sha256:f241bdde78bd9dfa3c72597b31165862fbb60bcedbcd44b9b1f7c3ea4afceeff",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kant.kritik-der-urteilskraft.json"
+    },
+    "works/kant.zum-ewigen-frieden": {
+      "status": "da-kiem",
+      "hash": "sha256:e45727268bfa3414faf3a515b363ea9c117c5765d96df738e17b694eb9ab5a69",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kant.zum-ewigen-frieden.json"
+    },
+    "works/khong-tu.le-ky": {
+      "status": "chua-kiem",
+      "hash": "sha256:94fc0a8c566607cedc9bbbc7e2268915feb4efc0c315bf5e6f6a82409d16e15f"
+    },
+    "works/khong-tu.luan-ngu": {
+      "status": "da-kiem",
+      "hash": "sha256:de6cbc06ab1d91e1df1f9288aeca16cdc219cbe9ea4b73c35788e42054ea25a2",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__khong-tu.luan-ngu.json"
+    },
+    "works/khong-tu.xuan-thu": {
+      "status": "da-kiem",
+      "hash": "sha256:1b05f9905214090637e6f7db57c8b07a90ff24de242f7a9aa9ae575b530e7f26",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__khong-tu.xuan-thu.json"
+    },
+    "works/kierkegaard.afsluttende-uvidenskabelig-efterskrift": {
+      "status": "da-kiem",
+      "hash": "sha256:ded9efd122817912875b771a5d6799c835db0c8aea78fedd0be257c35927f29d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kierkegaard.afsluttende-uvidenskabelig-efterskrift.json"
+    },
+    "works/kierkegaard.begrebet-angest": {
+      "status": "da-kiem",
+      "hash": "sha256:ee77a83b9a6769243457be3afb904018d2517bfb44b6a60dc66b1544a4fe73fb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kierkegaard.begrebet-angest.json"
+    },
+    "works/kierkegaard.enteneller": {
+      "status": "da-kiem",
+      "hash": "sha256:cbf3b3a5b5606639df98763767a9e91ec1fb6b0ddea66117f6dad50a29128451",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kierkegaard.enteneller.json"
+    },
+    "works/kierkegaard.frygt-og-bven": {
+      "status": "da-kiem",
+      "hash": "sha256:a3896ac8f505215913fa54e6db7799f1d17b0d8132c8eaca97b37384c38b82ef",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kierkegaard.frygt-og-bven.json"
+    },
+    "works/kierkegaard.kjerlighedens-gjerninger": {
+      "status": "da-kiem",
+      "hash": "sha256:9dafa807d172f736e3d7dba1a99f8a1dbcf96a8ec6668d8d5f511d693b300990",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kierkegaard.kjerlighedens-gjerninger.json"
+    },
+    "works/kierkegaard.sygdommen-til-dden": {
+      "status": "da-kiem",
+      "hash": "sha256:19c43399153f7edce31b9b4a6fd2cbb18fad57c5ab61581a4aa94c7a9134e619",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo15",
+      "evidence": "verification/evidence/works__kierkegaard.sygdommen-til-dden.json"
+    },
+    "works/lao-tu.lao-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:d0beea2a6dc7b85c3b71d67a7d0d98d96ed61c01766683dcbb0d7188c02cddc0",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__lao-tu.lao-tu.json"
+    },
+    "works/leibniz.discours-de-metaphysique": {
+      "status": "da-kiem",
+      "hash": "sha256:abda7d26712ebe5987428f63f19e0e56f9a7510e7abf67b5e0bdbbb3225f4f2c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__leibniz.discours-de-metaphysique.json"
+    },
+    "works/leibniz.dissertatio-de-arte-combinatoria": {
+      "status": "da-kiem",
+      "hash": "sha256:deae7e96c9562cbe0a781716891032c5bd20d4d4d16a78403ca4cc5ec5fb214d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__leibniz.dissertatio-de-arte-combinatoria.json"
+    },
+    "works/leibniz.essais-de-theodicee": {
+      "status": "da-kiem",
+      "hash": "sha256:75d4f7b4185eec6b964e7fafc1df96e4f31a1bf56e59e066324820ee66f63289",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__leibniz.essais-de-theodicee.json"
+    },
+    "works/leibniz.la-monadologie": {
+      "status": "da-kiem",
+      "hash": "sha256:ae0d2ba0c8408a149663707daf640e4ee7d4d494cbdb4bd587b277e0f13f0843",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__leibniz.la-monadologie.json"
+    },
+    "works/leibniz.nouveaux-essais-sur-l-entendement-humain": {
+      "status": "da-kiem",
+      "hash": "sha256:dcda5406f189e8072853847ccb5b9cb829d3bafa391d035bae33d611d1f45c0f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__leibniz.nouveaux-essais-sur-l-entendement-humain.json"
+    },
+    "works/locke.a-letter-concerning-toleration": {
+      "status": "da-kiem",
+      "hash": "sha256:1356fa463a25a03fadbfe554c048ea9a1b3751965f3949ef959485a96f069ce5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__locke.a-letter-concerning-toleration.json"
+    },
+    "works/locke.an-essay-concerning-human-understanding": {
+      "status": "da-kiem",
+      "hash": "sha256:9055aea84e37ca815a8bd1a6b56d45683087d7b34b401fc3054a2282fbe5b51e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__locke.an-essay-concerning-human-understanding.json"
+    },
+    "works/locke.some-thoughts-concerning-education": {
+      "status": "da-kiem",
+      "hash": "sha256:05a7aadedb142d8d68a53c8d485efe2f4d13e64b312f063c149b7221ab801081",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__locke.some-thoughts-concerning-education.json"
+    },
+    "works/locke.two-treatises-of-government": {
+      "status": "da-kiem",
+      "hash": "sha256:15d5281fdb8b0c5514604bacadd365e6c8bc46313fb4d12e4ad9ee4f6bb9fc7c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__locke.two-treatises-of-government.json"
+    },
+    "works/mac-tu.mac-kinh": {
+      "status": "da-kiem",
+      "hash": "sha256:484bd69377bea1e15b312c3e7bfd73f88c1b243785e4cf956faf0e4ddb5b75f3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__mac-tu.mac-kinh.json"
+    },
+    "works/mac-tu.mac-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:f7e89a8d31ed65c5b5d2b2d3b8bf5b982679332ec9dacd9049006b7f2f13bdc7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__mac-tu.mac-tu.json"
+    },
+    "works/maimonides.chu-giai-mishnah": {
+      "status": "da-kiem",
+      "hash": "sha256:cc7b313a067bb6dcbea74d6cc72bf73dc6fb93cf678b16938a879bba57f6a06c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__maimonides.chu-giai-mishnah.json"
+    },
+    "works/maimonides.chuyen-luan-ve-su-phuc-sinh": {
+      "status": "da-kiem",
+      "hash": "sha256:939a805e491f1fb19011911526f27933fcb144239d9dad7f4394a5deadb8eb0a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__maimonides.chuyen-luan-ve-su-phuc-sinh.json"
+    },
+    "works/maimonides.dalalat-al-hairin": {
+      "status": "da-kiem",
+      "hash": "sha256:a20a81a79a916671740c977b9d6b8c4094b29eb26f2b5ed1f4f30a9f9094cbaf",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__maimonides.dalalat-al-hairin.json"
+    },
+    "works/maimonides.mishneh-torah": {
+      "status": "da-kiem",
+      "hash": "sha256:f5b73c8a0006baf7df62bd6750bafd93f7647a9658a8ff343e83eac3ea35b8d5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__maimonides.mishneh-torah.json"
+    },
+    "works/manh-tu.manh-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:bd15a6d3a6a4bcbe487b98847b3a3fea5578daf08046aa6400f78cd28dd2bceb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__manh-tu.manh-tu.json"
+    },
+    "works/marcus-aurelius.suy-tuong": {
+      "status": "da-kiem",
+      "hash": "sha256:1ccd8c40b7b3b454e63d3852a56258c2c1b955e8d2135be99e80aff785ac9308",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marcus-aurelius.suy-tuong.json"
+    },
+    "works/marx.das-kapital": {
+      "status": "da-kiem",
+      "hash": "sha256:5c8063629903ec5bf9c3a487f61cb8080bb8c91e72df3fd6c67a5034effad0f1",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marx.das-kapital.json"
+    },
+    "works/marx.die-deutsche-ideologie": {
+      "status": "da-kiem",
+      "hash": "sha256:5ff8948e9d86149bfcc45e115f51c477073200a048a2e539fdd3bc2065131eba",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marx.die-deutsche-ideologie.json"
+    },
+    "works/marx.manifest-der-kommunistischen-partei": {
+      "status": "da-kiem",
+      "hash": "sha256:da7022a76571f7882f1b46c225c02832e107e2505cd45b58e7236340d482c5ee",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marx.manifest-der-kommunistischen-partei.json"
+    },
+    "works/marx.okonomisch-philosophische-manuskripte": {
+      "status": "da-kiem",
+      "hash": "sha256:a025fdce7f56091e661e539e09f345d37b9d77f208ec1419409b2dd51e2cb8f1",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marx.okonomisch-philosophische-manuskripte.json"
+    },
+    "works/marx.thesen-uber-feuerbach": {
+      "status": "da-kiem",
+      "hash": "sha256:a9cca86a218b6ad3851373591d3445ccd30952636416678717a598bc80f15574",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marx.thesen-uber-feuerbach.json"
+    },
+    "works/marx.zur-kritik-der-politischen-okonomie": {
+      "status": "da-kiem",
+      "hash": "sha256:fbc8ca78ad6a0e68c59ae5e00cb70e559455d3450ca0ce15ed583be02b483eff",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__marx.zur-kritik-der-politischen-okonomie.json"
+    },
+    "works/mill.a-system-of-logic": {
+      "status": "da-kiem",
+      "hash": "sha256:bd5cc43a92209b2bc1d95b74d0956330aa5156ed988b23f23cbd1cee059cf801",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo16",
+      "evidence": "verification/evidence/works__mill.a-system-of-logic.json"
+    },
+    "works/mill.on-liberty": {
+      "status": "da-kiem",
+      "hash": "sha256:e07080f9ee2af00c444953eaaab0c14da0714d832a2744969467db1d8900c624",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__mill.on-liberty.json"
+    },
+    "works/mill.the-subjection-of-women": {
+      "status": "da-kiem",
+      "hash": "sha256:42ad6027b31d2c6aa9faca819c07d81c960abfbc822434e611776987b144821a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__mill.the-subjection-of-women.json"
+    },
+    "works/mill.utilitarianism": {
+      "status": "da-kiem",
+      "hash": "sha256:0cc06dbc8635e0354de064b359495f699c25bd3566dea824b91316c1ea51db95",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__mill.utilitarianism.json"
+    },
+    "works/nagarjuna.mulamadhyamakakarika": {
+      "status": "da-kiem",
+      "hash": "sha256:c117b9df0eac19df6b971c1d394d0347c1f8bcceffaa695e6e05726e90c79255",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nagarjuna.mulamadhyamakakarika.json"
+    },
+    "works/nagarjuna.ratnavali": {
+      "status": "da-kiem",
+      "hash": "sha256:95c8dcabce5cbbd38710a20298311a14692d03f839273722e58de1c051358e0c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nagarjuna.ratnavali.json"
+    },
+    "works/nagarjuna.sunyatasaptati": {
+      "status": "da-kiem",
+      "hash": "sha256:98cdb5669f41ca1db715133c7836b208d28d70c10a0c1722dee9f7b64c84a378",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nagarjuna.sunyatasaptati.json"
+    },
+    "works/nagarjuna.vigrahavyavartani": {
+      "status": "da-kiem",
+      "hash": "sha256:ba86466f95705c8aacece0186f641ced78abd7ed421d7151b84b9d0632185651",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nagarjuna.vigrahavyavartani.json"
+    },
+    "works/nagarjuna.yuktisastika": {
+      "status": "da-kiem",
+      "hash": "sha256:829b780e919b386c0b6d73f980b552b37986a8baf9d0728d7ecb086d7023e8f3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nagarjuna.yuktisastika.json"
+    },
+    "works/nguyen-trai.binh-ngo-dai-cao": {
+      "status": "da-kiem",
+      "hash": "sha256:97dee271d41fa2ef0171587525ccadb41f805d34636186a960aa7342752cfb2f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nguyen-trai.binh-ngo-dai-cao.json"
+    },
+    "works/nguyen-trai.du-dia-chi": {
+      "status": "da-kiem",
+      "hash": "sha256:cf7d85cfd9d8fde4a9d7e8e505d0119e2104e9ef0c21eb96159e1463f992643e",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nguyen-trai.du-dia-chi.json"
+    },
+    "works/nguyen-trai.quan-trung-tu-menh-tap": {
+      "status": "da-kiem",
+      "hash": "sha256:989ea023f213155ac37560714e1d55e81e7143c087d600d92517528fd280e02f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nguyen-trai.quan-trung-tu-menh-tap.json"
+    },
+    "works/nguyen-trai.quoc-am-thi-tap": {
+      "status": "da-kiem",
+      "hash": "sha256:fbafef18568c7ce0a5ddbd9d80a24fb3ff51e275ab3866a06b5c154ee6313cbd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nguyen-trai.quoc-am-thi-tap.json"
+    },
+    "works/nguyen-trai.uc-trai-thi-tap": {
+      "status": "da-kiem",
+      "hash": "sha256:74b81cf97d30310abecfde1be17e23c4d2818e02abbf93a989fe18368a821f92",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nguyen-trai.uc-trai-thi-tap.json"
+    },
+    "works/nietzsche.also-sprach-zarathustra": {
+      "status": "da-kiem",
+      "hash": "sha256:08625776990e222ae26e96307274b77dd55fdc4d8942e3dd54e837dfa8446375",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nietzsche.also-sprach-zarathustra.json"
+    },
+    "works/nietzsche.die-frohliche-wissenschaft": {
+      "status": "da-kiem",
+      "hash": "sha256:7433ad76402763834c6fd4db4dbc34d62c936f20c82003217a35865c4e08c7db",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nietzsche.die-frohliche-wissenschaft.json"
+    },
+    "works/nietzsche.die-geburt-der-tragodie": {
+      "status": "da-kiem",
+      "hash": "sha256:5e174259791055c2867394d477cea241d374cf8901b4dea3a8597480b160d6c3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nietzsche.die-geburt-der-tragodie.json"
+    },
+    "works/nietzsche.jenseits-von-gut-und-bose": {
+      "status": "da-kiem",
+      "hash": "sha256:5d6b2cb65bfdbf920fb7b45660aba34ffd60b32c911737363a37339432277d9b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nietzsche.jenseits-von-gut-und-bose.json"
+    },
+    "works/nietzsche.menschliches-allzumenschliches": {
+      "status": "da-kiem",
+      "hash": "sha256:5bbf85c4389bf256d6ed99dc220465ff49369d61ba14fd5766271db1e126b23c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nietzsche.menschliches-allzumenschliches.json"
+    },
+    "works/nietzsche.zur-genealogie-der-moral": {
+      "status": "da-kiem",
+      "hash": "sha256:1bd2d51a65248ec8c36b1655a08ca556dfb5f0d3f797c262147901ead7fc76fa",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nietzsche.zur-genealogie-der-moral.json"
+    },
+    "works/nozick.anarchy-state-and-utopia": {
+      "status": "da-kiem",
+      "hash": "sha256:50304936fee9fc6efbaab12cad4224a9c9214d56ad4b752e382561e372e81b1c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nozick.anarchy-state-and-utopia.json"
+    },
+    "works/nozick.invariances": {
+      "status": "da-kiem",
+      "hash": "sha256:bdb64d7ec6059883b39693ecd6544807e2fa44b5f418c39f9e7dd221a88e24b1",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nozick.invariances.json"
+    },
+    "works/nozick.philosophical-explanations": {
+      "status": "da-kiem",
+      "hash": "sha256:4186b5304ccb2d217492783f37f705b270546882e0f704d4c867e1250ce68fbb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nozick.philosophical-explanations.json"
+    },
+    "works/nozick.the-examined-life": {
+      "status": "da-kiem",
+      "hash": "sha256:760ff9d61799e436c58c3b7d5471cd7bdf08bdd1f885afdb3e5c11b9e6c95a57",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nozick.the-examined-life.json"
+    },
+    "works/nozick.the-nature-of-rationality": {
+      "status": "da-kiem",
+      "hash": "sha256:d83f9ebb39f16a692ef0dc944d0f0ace6ef73d02ee57fc90d4f814976bc34da4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__nozick.the-nature-of-rationality.json"
+    },
+    "works/parfit.on-what-matters": {
+      "status": "da-kiem",
+      "hash": "sha256:f0162c85b2e218cd0f05df6a8dcaf286afa5882fa7d148c34850329d6b1dafd6",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo17",
+      "evidence": "verification/evidence/works__parfit.on-what-matters.json"
+    },
+    "works/parfit.reasons-and-persons": {
+      "status": "da-kiem",
+      "hash": "sha256:7fda4242a80e3f0aaf991193bf38a360f670aeb9b427c390c390f54a9461768a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__parfit.reasons-and-persons.json"
+    },
+    "works/pascal.essai-pour-les-coniques": {
+      "status": "da-kiem",
+      "hash": "sha256:d168e42d8d9e3b92331df9d3fe25c2dec12b7eeafdf06bf63eb44eba9dcbe6c7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__pascal.essai-pour-les-coniques.json"
+    },
+    "works/pascal.experiences-nouvelles-touchant-le-vide": {
+      "status": "da-kiem",
+      "hash": "sha256:d8daa13d04ae2907d5f08b82829cf5dffcde0fd7716f8e3607a4ff675cdb65ba",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__pascal.experiences-nouvelles-touchant-le-vide.json"
+    },
+    "works/pascal.les-provinciales": {
+      "status": "da-kiem",
+      "hash": "sha256:979fb8674ab30300b15c2c7af09884a284fef4fb90ea666de101baaa53478022",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__pascal.les-provinciales.json"
+    },
+    "works/pascal.pensees": {
+      "status": "da-kiem",
+      "hash": "sha256:33956d8551ff655b8803b19aa41ea657ebcfdcfcafe6d17c21fdfe905b136d29",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__pascal.pensees.json"
+    },
+    "works/pascal.traite-du-triangle-arithmetique": {
+      "status": "da-kiem",
+      "hash": "sha256:d88553178ab7cd8b2831a03364bb8eb5c3413d39a63109eb78c09664be6d2a9f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__pascal.traite-du-triangle-arithmetique.json"
+    },
+    "works/platon.euthyphro": {
+      "status": "da-kiem",
+      "hash": "sha256:c3732e944dc1262e49d69a11d5692e275e9303211308bd18a8a0b13693ba9ef4",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__platon.euthyphro.json"
+    },
+    "works/platon.parmenides": {
+      "status": "da-kiem",
+      "hash": "sha256:b25b1bc21032d0b75b5dbcb6b172be8d3497eb3c964393e62720e02cd93aeab3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__platon.parmenides.json"
+    },
+    "works/platon.phaedo": {
+      "status": "da-kiem",
+      "hash": "sha256:6796643495a4d18d560b31ca6a7a82814953d3ef9c8cd587eaa3567b47175feb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__platon.phaedo.json"
+    },
+    "works/platon.politeia": {
+      "status": "da-kiem",
+      "hash": "sha256:7f66a28b6bf705d8467eec8963442a2e673c4e3b5dcdf6578cc3b9322102c406",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__platon.politeia.json"
+    },
+    "works/platon.symposium": {
+      "status": "da-kiem",
+      "hash": "sha256:9583f1ff665ed3369ce0d11637960705119991706b841df5f65f255a02f22976",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__platon.symposium.json"
+    },
+    "works/popper.conjectures-and-refutations": {
+      "status": "da-kiem",
+      "hash": "sha256:4baafcc4e38000f8784dc9eda207efcc28481ac52574f17bcba91d9d33177aa3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__popper.conjectures-and-refutations.json"
+    },
+    "works/popper.logik-der-forschung": {
+      "status": "da-kiem",
+      "hash": "sha256:647c512a2cbe8ece388c07362498148240eff6bbce718f0a0d6f6865ee27c752",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__popper.logik-der-forschung.json"
+    },
+    "works/popper.the-open-society-and-its-enemies": {
+      "status": "da-kiem",
+      "hash": "sha256:e3b2044556b50db62047a8a8d41cc44fcb03c6158b4b61288b0c4bb72498da6f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__popper.the-open-society-and-its-enemies.json"
+    },
+    "works/popper.the-poverty-of-historicism": {
+      "status": "da-kiem",
+      "hash": "sha256:2ded74b1219ae97790bf5d5887151de8198b664f38d42ef3a20c07f2fcb0535a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__popper.the-poverty-of-historicism.json"
+    },
+    "works/popper.unended-quest": {
+      "status": "da-kiem",
+      "hash": "sha256:872d240b966f6b96179b09afdf4cbdd124556d72583f66ecd08d0c37356b003d",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__popper.unended-quest.json"
+    },
+    "works/quine.mathematical-logic": {
+      "status": "da-kiem",
+      "hash": "sha256:ed5ccec93ce932d5aa53656719c7ccbad5a548eb28354129f2b78370c5361447",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__quine.mathematical-logic.json"
+    },
+    "works/quine.ontological-relativity-and-other-essays": {
+      "status": "da-kiem",
+      "hash": "sha256:9b4582d3b6bf95b2a75251aa9707ab7df93680f437e37c6709c445ba9f2f71bf",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__quine.ontological-relativity-and-other-essays.json"
+    },
+    "works/quine.pursuit-of-truth": {
+      "status": "da-kiem",
+      "hash": "sha256:2ec3886e3501ccc570b60548a087b64197b05d3ec9c6dc949926df30598983bd",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__quine.pursuit-of-truth.json"
+    },
+    "works/quine.word-and-object": {
+      "status": "da-kiem",
+      "hash": "sha256:f98669ec3db8ff09444100171e7d9e4eb70cfb16c4a3b32e226a99db14061ae8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__quine.word-and-object.json"
+    },
+    "works/rawls.a-theory-of-justice": {
+      "status": "da-kiem",
+      "hash": "sha256:9ee35810252603f90568eaecf09f73dc730544e904c6d9b29ab944ad10539362",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__rawls.a-theory-of-justice.json"
+    },
+    "works/rawls.justice-as-fairness-a-restatement": {
+      "status": "da-kiem",
+      "hash": "sha256:f9283eb298366aea9a8d42f3cba8551a220416b8c6c1f5cb4f248498bd6da295",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__rawls.justice-as-fairness-a-restatement.json"
+    },
+    "works/rawls.political-liberalism": {
+      "status": "da-kiem",
+      "hash": "sha256:8866d450a38e0890fd7be6cc04aafab736ef176d1e91440355d361f7a7c71314",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__rawls.political-liberalism.json"
+    },
+    "works/rawls.the-law-of-peoples": {
+      "status": "da-kiem",
+      "hash": "sha256:4a7f892ee34e288ecd8531d8417bdf28a72b18b3879910f4d3477020dc413a37",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__rawls.the-law-of-peoples.json"
+    },
+    "works/rousseau.discours-sur-les-sciences-et-les-arts": {
+      "status": "da-kiem",
+      "hash": "sha256:37cb33fbd04fcff5f030013a67f01503155d74d937651fe9514f6517dc02d95a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo18",
+      "evidence": "verification/evidence/works__rousseau.discours-sur-les-sciences-et-les-arts.json"
+    },
+    "works/rousseau.discours-sur-lorigine-et-les-fondements-de-linegal": {
+      "status": "da-kiem",
+      "hash": "sha256:01f5da6734d0eeb5c8b54481f5aaac39477adb03d53ba7b779ebe61f008811b7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__rousseau.discours-sur-lorigine-et-les-fondements-de-linegal.json"
+    },
+    "works/rousseau.du-contrat-social": {
+      "status": "da-kiem",
+      "hash": "sha256:67151911a9014ac488a394b11dda2ce7a665bda4d909c3907cec6950bd3c8b29",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__rousseau.du-contrat-social.json"
+    },
+    "works/rousseau.emile-ou-de-leducation": {
+      "status": "da-kiem",
+      "hash": "sha256:13db86e9770334effb7b4084933249360ec9b9827535159dbeb6c784fc710d17",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__rousseau.emile-ou-de-leducation.json"
+    },
+    "works/rousseau.julie-ou-la-nouvelle-heloise": {
+      "status": "da-kiem",
+      "hash": "sha256:4f5d09ee8080cd85689adb663a123bad9016e4269dea5a392877ec491cf8ca23",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__rousseau.julie-ou-la-nouvelle-heloise.json"
+    },
+    "works/russell.a-history-of-western-philosophy": {
+      "status": "da-kiem",
+      "hash": "sha256:c455dca92d95e2e1b7f7224d4ce702c5a2dfa41dc4cf6d5b2e7ff736eb83cebb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__russell.a-history-of-western-philosophy.json"
+    },
+    "works/russell.principia-mathematica": {
+      "status": "da-kiem",
+      "hash": "sha256:bc88f76e1ae7803ab9f282a48df9d390b921e11ea8272c8748c639f55e117c6f",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__russell.principia-mathematica.json"
+    },
+    "works/russell.the-principles-of-mathematics": {
+      "status": "da-kiem",
+      "hash": "sha256:e6a2f066fa450c5e51897fb5de5f62ccd8083a50ea01c1f6ed4cacf3a42124a5",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__russell.the-principles-of-mathematics.json"
+    },
+    "works/russell.the-problems-of-philosophy": {
+      "status": "da-kiem",
+      "hash": "sha256:a88c3b23e30c03e05fbd241d29ebe2096d33d159feab4f5a0e7b62dd7be241d3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__russell.the-problems-of-philosophy.json"
+    },
+    "works/sartre.critique-de-la-raison-dialectique": {
+      "status": "da-kiem",
+      "hash": "sha256:cbaea95d2fb8848222741a08c2038f39e8fcaa5d8aca98debf9998e76bb312aa",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__sartre.critique-de-la-raison-dialectique.json"
+    },
+    "works/sartre.l-etre-et-le-neant": {
+      "status": "da-kiem",
+      "hash": "sha256:f278c6dc4334e255391613cc161f1208592e71d6b3d7c7c0fe9b79acc51a8f10",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__sartre.l-etre-et-le-neant.json"
+    },
+    "works/sartre.l-existentialisme-est-un-humanisme": {
+      "status": "da-kiem",
+      "hash": "sha256:1e79211322f564e61fdaa39b1a6e1ed60fd43c1410b1082c3b9639696cd47698",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__sartre.l-existentialisme-est-un-humanisme.json"
+    },
+    "works/sartre.la-nausee": {
+      "status": "da-kiem",
+      "hash": "sha256:58ee8bda6451695ab690e4f8aaf26bd97aa6571a3511dee7342a54348aba113c",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__sartre.la-nausee.json"
+    },
+    "works/sartre.les-mots": {
+      "status": "da-kiem",
+      "hash": "sha256:62454230b5444b3737b02545a29bae126b6e0d8f3aec11a4f666789b854afb06",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__sartre.les-mots.json"
+    },
+    "works/spinoza.ethica-ordine-geometrico-demonstrata": {
+      "status": "da-kiem",
+      "hash": "sha256:4b893e5ad2a736491546a319632adae8887e3e4852c8f48ed2ae92aaf1c81bed",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__spinoza.ethica-ordine-geometrico-demonstrata.json"
+    },
+    "works/spinoza.renati-des-cartes-principiorum-philosophiae-pars-i": {
+      "status": "da-kiem",
+      "hash": "sha256:825a064a82b189fff37165b704ebb98697c15ef0e951343b4dbcec8751b03f0b",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__spinoza.renati-des-cartes-principiorum-philosophiae-pars-i.json"
+    },
+    "works/spinoza.tractatus-politicus": {
+      "status": "da-kiem",
+      "hash": "sha256:4d9a6e4841631b440cfe272820c0aeb316456eb57f24e7e4ec93d08150743bd0",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__spinoza.tractatus-politicus.json"
+    },
+    "works/spinoza.tractatus-theologico-politicus": {
+      "status": "da-kiem",
+      "hash": "sha256:906b2158d64afed34d17b29059fe72cd3aa8b8981239e6253c6c1c4020a40785",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__spinoza.tractatus-theologico-politicus.json"
+    },
+    "works/thales.on-the-solstice": {
+      "status": "da-kiem",
+      "hash": "sha256:ec128c7cc2f474d65c56886cd82bca979c0eb837650715238796b9654a997751",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__thales.on-the-solstice.json"
+    },
+    "works/tran-duc-thao.phenomenologie-et-materialisme-dialectique": {
+      "status": "da-kiem",
+      "hash": "sha256:0ae4d4014d12c3bcca213a4f5301639cb8266f88eb6778b0c1eebccb4fabc5ee",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-duc-thao.phenomenologie-et-materialisme-dialectique.json"
+    },
+    "works/tran-duc-thao.recherches-sur-lorigine-du-langage-et-de-la-consci": {
+      "status": "da-kiem",
+      "hash": "sha256:14593dd9c37df0bf7a93e61af370d0c5a884631fd619704af03378212a764233",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-duc-thao.recherches-sur-lorigine-du-langage-et-de-la-consci.json"
+    },
+    "works/tran-duc-thao.van-de-con-nguoi-va-chu-nghia-ly-luan-khong-co-con": {
+      "status": "da-kiem",
+      "hash": "sha256:97e33fcf449e7c8035fbdfdc5701f54e50c0d45185a9e818a5ba2ec9fdcbea07",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-duc-thao.van-de-con-nguoi-va-chu-nghia-ly-luan-khong-co-con.json"
+    },
+    "works/tran-nhan-tong.cu-tran-lac-dao-phu": {
+      "status": "da-kiem",
+      "hash": "sha256:1e79cd4723fd36b4f5797c48d9350f5c7580f0289e997b7e6bb87d56f1815891",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-nhan-tong.cu-tran-lac-dao-phu.json"
+    },
+    "works/tran-nhan-tong.dac-thu-lam-tuyen-thanh-dao-ca": {
+      "status": "da-kiem",
+      "hash": "sha256:f54763e05d8eaacd751d53658bc212b0153a2e6aaf4bbb7511194de4bcbc2c84",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-nhan-tong.dac-thu-lam-tuyen-thanh-dao-ca.json"
+    },
+    "works/tran-nhan-tong.thien-truong-van-vong": {
+      "status": "da-kiem",
+      "hash": "sha256:1594c72254482aa08021f5038689499c71c95af2fa0df167ebf8a4988d9a6d32",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-nhan-tong.thien-truong-van-vong.json"
+    },
+    "works/tran-nhan-tong.thuong-si-hanh-trang": {
+      "status": "da-kiem",
+      "hash": "sha256:bf1fe4c8d71e95a1904cda8b3af0627344071e4b9efe017a83f9d1720c9d836a",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo19",
+      "evidence": "verification/evidence/works__tran-nhan-tong.thuong-si-hanh-trang.json"
+    },
+    "works/trang-tu.trang-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:f6fb3ae165fde5a7d2018f6cb6b1cf87c288234bb01d010a176f70a19e4aaebb",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__trang-tu.trang-tu.json"
+    },
+    "works/tuan-tu.tuan-tu": {
+      "status": "da-kiem",
+      "hash": "sha256:e06313ef54bf35cd89accddcac2af449d58258c2911d9a9c3175ad4013640bec",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__tuan-tu.tuan-tu.json"
+    },
+    "works/tue-trung.pham-thanh-bat-di": {
+      "status": "da-kiem",
+      "hash": "sha256:001a3f282812faa326da58f84e89b6f367170e7f50e516b54125435fc2a346de",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__tue-trung.pham-thanh-bat-di.json"
+    },
+    "works/tue-trung.phat-tam-ca": {
+      "status": "da-kiem",
+      "hash": "sha256:493957b88dc5232448ffe0662fc6e1d4b766256e69252004793601da0417f483",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__tue-trung.phat-tam-ca.json"
+    },
+    "works/tue-trung.phong-cuong-ngam": {
+      "status": "da-kiem",
+      "hash": "sha256:0cf541206f6db3e2b4d05aeec7458d2fcf95103bc766961743b56d4cddc94f02",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__tue-trung.phong-cuong-ngam.json"
+    },
+    "works/tue-trung.tue-trung-thuong-si-ngu-luc": {
+      "status": "da-kiem",
+      "hash": "sha256:1f532e86073f9fd37dfee06fe14d8fddc6fb60c12084c98806b24bdfa50d95c8",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__tue-trung.tue-trung-thuong-si-ngu-luc.json"
+    },
+    "works/wittgenstein.philosophische-untersuchungen": {
+      "status": "da-kiem",
+      "hash": "sha256:0c80bce9a5029891aa6793c822bafb2b9e94acd5be1f139134c23ecd6749f3f3",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__wittgenstein.philosophische-untersuchungen.json"
+    },
+    "works/wittgenstein.the-blue-and-brown-books": {
+      "status": "da-kiem",
+      "hash": "sha256:421280408abb8ea094cee3a7e0be74583810522d92d990c0e14df701e89549e7",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__wittgenstein.the-blue-and-brown-books.json"
+    },
+    "works/wittgenstein.tractatus-logico-philosophicus": {
+      "status": "da-kiem",
+      "hash": "sha256:d2249488651f9a0cd4e7d35c7f0ef6ea6652e8e8b1b63c4ec6d5ae19469471aa",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__wittgenstein.tractatus-logico-philosophicus.json"
+    },
+    "works/wittgenstein.uber-gewiheit": {
+      "status": "da-kiem",
+      "hash": "sha256:bf27c9ef85b322fb7db124bf0502ab463c80385c26fcc1ddd3adb26e36486754",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__wittgenstein.uber-gewiheit.json"
+    },
+    "works/zeno.on-the-nature-of-man": {
+      "status": "da-kiem",
+      "hash": "sha256:a439f95f975ab1f141508a6c63b830ff9ad7ff32f4ede755a2dfde072cfa4d21",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__zeno.on-the-nature-of-man.json"
+    },
+    "works/zeno.politeia": {
+      "status": "da-kiem",
+      "hash": "sha256:5b59a3ae82d66c77e7e05d9fa3efb433f9477cbec5aedf4751e33e858f9d1a24",
+      "verified_on": "2026-11-05",
+      "checker": "agent-kiem-5.1-lo20",
+      "evidence": "verification/evidence/works__zeno.politeia.json"
+    }
+  }
 }

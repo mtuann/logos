@@ -1,0 +1,43 @@
+{
+  "unit": "works/chua-ro.the-reasons-of-love",
+  "hash": "sha256:30e74e0d8b15424a19263377a7c3429063f8b9acbf9d46326ffd70bdadb53cf9",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo12",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: The Reasons of Love",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=the+reasons+of+love&author=frankfurt&fields=key,title,author_name,first_publish_year,publisher",
+          "quote": "\"title\":\"The Reasons of Love\""
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Harry Frankfurt",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=the+reasons+of+love&author=frankfurt&fields=key,title,author_name,first_publish_year,publisher",
+          "quote": "\"author_name\":[\"Harry G. Frankfurt\"],\"first_publish_year\":2004"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 2004 (year; years_seen: cau-hoi/tinh-yeu.md#cac-lap-truong-chinh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=the+reasons+of+love&author=frankfurt&fields=key,title,author_name,first_publish_year,publisher",
+          "quote": "\"author_name\":[\"Harry G. Frankfurt\"],\"first_publish_year\":2004"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Harry G. Frankfurt. Không trùng khóa nào khác trong data/kb/works.yml. Nguồn năm là catalog Open Library (first_publish_year 2004, Princeton University Press); SEP love chỉ dẫn Frankfurt 1999, không có sách này; trang Princeton UP chặn tải tự động."
+}

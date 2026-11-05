@@ -1,0 +1,49 @@
+{
+  "unit": "works/chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug",
+  "hash": "sha256:a2eb76ba4d642777c5f2164a7f7a988a41e2e2237c72732ed4eef00f340ffb32",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo13",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Über ein vermeintes Recht aus Menschenliebe zu lügen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/423.html",
+          "quote": "Kant: AA VIII, Über ein vermeintes Recht ... , Seite 423",
+          "where": "Akademie-Ausgabe VIII, tr. 423"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Immanuel Kant",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/423.html",
+          "quote": "Kant: AA VIII, Über ein vermeintes Recht"
+        },
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1797: Über ein vermeintes Recht aus Menschenliebe zu lügen",
+          "where": "trang tác giả Immanuel Kant, danh mục tác phẩm"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1797 (year; years_seen: cau-hoi/noi-doi.md#doc-van-ban-goc)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1797: Über ein vermeintes Recht aus Menschenliebe zu lügen"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Immanuel Kant. Không trùng khóa nào trong works.yml (kant.* không có bài này). Trang de.wikisource riêng của bài chưa có văn bản; năm lấy từ danh mục trên trang tác giả Kant ở de.wikisource; Akademie-Ausgabe (korpora.org) xác nhận bài thuộc Kant, AA VIII 423."
+}

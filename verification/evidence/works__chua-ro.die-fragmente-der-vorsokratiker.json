@@ -1,0 +1,51 @@
+{
+  "unit": "works/chua-ro.die-fragmente-der-vorsokratiker",
+  "hash": "sha256:3dd3eb9776104d4f45838b0e7acab170091c35fbb4e2460b7ef196b98f86741d",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo10",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Die Fragmente der Vorsokratiker",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "Diels, Hermann, and Walther Kranz, 1951, Die Fragmente der Vorsokratiker (The Fragments of the Pre-Socratics), 6th edition, Weidmann: Zürich"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Hermann Diels và Walther Kranz (author_name: Diels–Kranz)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
+          "quote": "Diels, H and W. Kranz, Die Fragmente der Vorsokratiker, 6th edition, Berlin: Weidmann, 1951 (cited as DK)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1951 (year; years_seen: people/democritus, people/heraclitus, people/thales)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "Diels, Hermann, and Walther Kranz, 1951, Die Fragmente der Vorsokratiker"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
+          "quote": "6th edition, Berlin: Weidmann, 1951"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presocratics/",
+          "quote": "Die Fragmente der Vorsokratiker, three vols., original edn. 1903; reprint of 6th edn."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Hermann Diels và Walther Kranz (Diels–Kranz). 1951 là năm bản thứ 6 (bản chuẩn được trích dẫn 'DK'); bản đầu năm 1903 (SEP presocratics: 'original edn. 1903'). Đề xuất year_note: 'bản 6, 1951; bản đầu 1903'. Không trùng khóa nào khác trong works.yml."
+}

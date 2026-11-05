@@ -1,0 +1,53 @@
+{
+  "unit": "works/chua-ro.cdp-carbon-majors-report-2017",
+  "hash": "sha256:e1bd64d57e10883ac74649af3ff42eeb7d9e7d84e88ebdb39a9361c13cfec4dd",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: CDP Carbon Majors Report 2017",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://climateaccountability.org/pdf/CarbonMajorsRpt2017%20Jul17.pdf",
+          "quote": "CDP Carbon Majors Report 2017",
+          "where": "trang bìa"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: CDP (tác giả Paul Griffin), phối hợp với Climate Accountability Institute",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://climateaccountability.org/pdf/CarbonMajorsRpt2017%20Jul17.pdf",
+          "quote": "Author: Dr. Paul Griffin",
+          "where": "trang bìa"
+        },
+        {
+          "url": "https://climateaccountability.org/pdf/CarbonMajorsRpt2017%20Jul17.pdf",
+          "quote": "Now CDP works in collaboration with the CAI to maintain the Database",
+          "where": "About this report"
+        }
+      ]
+    },
+    {
+      "text": "year: 100 (cau-hoi/khi-hau-trach-nhiem.md#nguon)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://climateaccountability.org/pdf/CarbonMajorsRpt2017%20Jul17.pdf",
+          "quote": "CDP Report | June 2017",
+          "where": "trang bìa"
+        }
+      ],
+      "severity": "nghiem-trong",
+      "fix": "year: 2017 (cau-hoi/khi-hau-trach-nhiem.md#nguon). Số 100 là '100 nhà sản xuất nhiên liệu hóa thạch' bị trình rút năm lấy nhầm; câu trên trang đã ghi đúng '(2017)'."
+    }
+  ],
+  "result": "sua",
+  "notes": "attribution: CDP (tác giả Paul Griffin), phối hợp với Climate Accountability Institute\nLỗi chỉ nằm ở bản ghi kho (trình rút tác phẩm lấy nhầm số 100), không phải ở câu trên trang. PDF tải từ climateaccountability.org (bản do CAI lưu); cdp.net trả trang JS không đọc được. Không thấy khóa trùng trong works.yml."
+}

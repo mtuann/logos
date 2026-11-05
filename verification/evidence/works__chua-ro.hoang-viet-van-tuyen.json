@@ -1,0 +1,51 @@
+{
+  "unit": "works/chua-ro.hoang-viet-van-tuyen",
+  "hash": "sha256:f8f1ab7247c264849198b7825943c9aec656831b11cca033b6059545e412e854",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo10",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Hoàng Việt văn tuyển (皇越文選)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "皇越文選 Hoàng Việt văn tuyển NLVNPF-0171 R.601"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Bùi Huy Bích (biên tập, tuyển)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "Creator 存庵家藏: 裴輝璧Tồn Am gia tàng: Bùi Huy Bích"
+        },
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/498",
+          "quote": "Creator 存庵裴輝璧Tồn Am Bùi Huy Bích"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1825 (year; years_seen: cau-hoi/nho-giao-viet.md#nguon, doc/nguyen-trai-binh-ngo.md#_dau)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "Publisher 希文堂 • Hi Văn Đường Place [ 河内] • [Hà nội] Date 皇朝明命六年 • 1825"
+        },
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "Print type Woodblock text/ Khắc in"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Bùi Huy Bích (người tuyển; tuyển tập văn nhiều tác giả). 1825 (Minh Mệnh 6) là năm bản khắc in của Hi Văn Đường theo thư mục Thư viện Quốc gia Việt Nam R.601 (Nôm Foundation); Bùi Huy Bích tuyển soạn trước đó. Đề xuất year_note: 'bản khắc in Hi Văn Đường 1825 (Minh Mệnh 6)'. Lưu ý: vi.wikisource ghi 'do Bùi Huy Bích biên soạn năm 1825' — cách diễn đạt 'biên soạn năm 1825' không nên chép theo; trang site hiện chỉ ghi '(1825)' nên không sai. Không trùng khóa nào khác trong works.yml."
+}

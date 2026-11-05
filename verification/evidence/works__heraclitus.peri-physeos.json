@@ -1,0 +1,57 @@
+{
+  "unit": "works/heraclitus.peri-physeos",
+  "hash": "sha256:d72bc26930820a5aa137144d40f885e7da11428929c3eacd9c134a06d8b8c373",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo14",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Peri physeōs (Περὶ φύσεως, On Nature) — tên mà truyền thống gán cho cuốn sách duy nhất của Heraclitus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0257:book=9:chapter=1",
+          "quote": "Τὸ δὲ φερόμενον αὐτοῦ βιβλίον ἐστὶ μὲν ἀπὸ τοῦ συνέχοντος Περὶ φύσεως",
+          "where": "Diogenes Laertius 9.5"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+          "quote": "As to the work which passes as his, it is a continuous treatise On Nature",
+          "where": "Diogenes Laertius IX.5, bản dịch Hicks"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "He is said to have written a single book (papyrus roll), and deposited it in the great temple of Artemis at Ephesus."
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Heraclitus (heraclitus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "He is said to have written a single book (papyrus roll)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: -500 (year; years_seen: people/heraclitus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "who was active around 500 BCE"
+        },
+        {
+          "url": "https://iep.utm.edu/heraclit/",
+          "quote": "Heraclitus (fl. c. 500 B.C.E.)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Diogenes Laertius (9.5, và một đoạn sau trong cùng chương: 'ἐπιγράφουσι δ᾽ αὐτῷ οἱ μὲν Μούσας, οἱ δὲ Περὶ φύσεως') cho biết tên 'Về tự nhiên' là tên được gán, không chắc do tác giả đặt. Năm -500 là ước đoán theo thời Heraclitus hoạt động (SEP, IEP), không phải năm soạn được ghi nhận. Đề xuất year_note: 'ước đoán, k. 500 TCN (thời tác giả hoạt động)'."
+}

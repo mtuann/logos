@@ -1,0 +1,49 @@
+{
+  "unit": "works/chua-ro.city-of-god",
+  "hash": "sha256:9009a009a3dae43dda39e6cf80361f461cabbdee2a9beccd23a8e59a267c3321",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: City of God (tên dịch Anh của De civitate dei)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "The monumental apologetic treatise De civitate dei"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "The City of God, Augustine’s great apology"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Augustine",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "The City of God, Augustine’s great apology, was prompted by this symbolic event"
+        }
+      ]
+    },
+    {
+      "text": "year: 413 (lich-su/trung-co.md#nguon)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "De civitate dei (begun in 412, two years after the sack of Rome, and completed in 426"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "year: 412 (lich-su/trung-co.md#nguon), hoặc giữ 413 nếu có nguồn ghi 413 (năm các quyển đầu lưu hành) và thêm year_note; SEP augustine ghi bắt đầu 412, xong 426."
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Augustine\ntrung-voi: augustine.de-civitate-dei\nSEP augustine (fall2026): 'begun in 412 … completed in 426'. Trang ghi 413–426; mốc 413 thường được dùng (công bố các quyển đầu) nhưng chưa tìm được nguồn đã mở nói 413 (IEP và Catholic Encyclopedia trên newadvent không nêu năm; Britannica chặn). Lệch 1 năm do nguồn khác nhau → mức nhẹ; chủ biên quyết."
+}

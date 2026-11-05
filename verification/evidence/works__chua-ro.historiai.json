@@ -1,0 +1,41 @@
+{
+  "unit": "works/chua-ro.historiai",
+  "hash": "sha256:425091745ee37bee071991afe6ced65bb4d27944fcaa64eb6833a0a30fa0b152",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo10",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Historiai (chuyển tự tên Hy Lạp; tiếng Anh: The Histories / The History)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125",
+          "quote": "Herodotus, The Histories, book 1"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707",
+          "quote": "The History of Herodotus — Volume 1 by Herodotus"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Herodotus (author_name)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt",
+          "quote": "Author: Herodotus Translator: G. C. Macaulay"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt",
+          "quote": "And this change of the day Thales the Milesian had foretold to the Ionians",
+          "where": "quyển I, mục 74"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Herodotus. year null, years_seen rỗng: chỉ kiểm tên và tác giả. Bản dịch Macaulay trên Gutenberg #2707 dựng theo ấn bản 1890 ('prepared from an edition dated 1890'), khớp ghi chú '(1890)' ở people/thales; I.74 (nhật thực Thales báo trước) và I.75 (Thales cho quân Croesus qua sông Halys) có đúng chỗ. Nguồn đã mở ghi tên Anh 'The Histories'/'The History'; tên chuyển tự 'Historiai' không xuất hiện nguyên chữ trên trang đã mở, nhưng là chuyển tự chuẩn của tên Hy Lạp. Không trùng khóa nào khác trong works.yml."
+}

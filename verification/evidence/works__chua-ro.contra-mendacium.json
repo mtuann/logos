@@ -1,0 +1,48 @@
+{
+  "unit": "works/chua-ro.contra-mendacium",
+  "hash": "sha256:3b0b20e24c9f61be627a17d11604a6a825dc0f08395373dfa599c7dd5b2497bb",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: Contra mendacium",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.augustinus.it/latino/contro_menzogna/index.htm",
+          "quote": "Augustinus Hipponensis - Contra Mendacium liber unus"
+        },
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103.v.vi.i.html",
+          "quote": "Multa mihi legenda misisti"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Augustine",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.augustinus.it/latino/contro_menzogna/index.htm",
+          "quote": "Augustinus Hipponensis - Contra Mendacium"
+        }
+      ]
+    },
+    {
+      "text": "year: 420 (cau-hoi/noi-doi.md#nguon)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103.v.vi.i.html",
+          "quote": "i.e. A.D. 420, the work mentioned just before belonging to the early part of that year",
+          "where": "Translator’s Preface, chú thích về Retractations II.60"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Augustine\nKhông thấy khóa augustine.contra-mendacium trong works.yml."
+}
