@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://mtuann.github.io/logos/schema/kb/works.schema.json",
   "title": "Tác phẩm (data/kb/works.yml)",
-  "description": "Khóa <tác giả>.<slug tên>. author là khóa trong people.yml, hoặc null khi tác giả chưa có hồ sơ (khi đó author_name bắt buộc). year null khi các trang lệch nhau (verification/lech/works.md).",
+  "description": "Khóa <tác giả>.<slug tên>, hoặc chua-ro.<slug tên> khi chưa biết tác giả (không đoán: gán ở đợt 5). Rút bằng tools/kb_works.py. year null khi các chỗ dùng ghi năm khác nhau (verification/lech/works.md).",
   "type": "object",
   "propertyNames": {
     "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
@@ -36,6 +36,7 @@
           ]
         },
         "author_name": {
+          "description": "Chữ ghi tác giả đứng trước tên tác phẩm trong hồ sơ (khi tác phẩm không của chủ hồ sơ).",
           "$ref": "#/$defs/text"
         },
         "titles": {
@@ -77,18 +78,6 @@
         "verified": {
           "$ref": "#/$defs/verified"
         }
-      },
-      "if": {
-        "properties": {
-          "author": {
-            "type": "null"
-          }
-        }
-      },
-      "then": {
-        "required": [
-          "author_name"
-        ]
       }
     },
     "evidence": {
