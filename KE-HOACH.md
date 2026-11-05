@@ -14,7 +14,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | 1 | Công cụ nền | 9/11–22/11/2026 | **Xong** 5/11/2026 (tag `v1.1`) — `ban-giao/dot-1.md`, nhật ký `ban-giao/nhat-ky-dot-1.md` |
 | 2 | Kho dữ kiện | 23/11–6/12/2026 | **Xong** 5/11/2026 (tag `v1.2`) — `ban-giao/dot-2.md`, nhật ký `ban-giao/nhat-ky-dot-2.md` |
 | 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | **Xong** 5/11/2026 (tag `v1.3`) — `ban-giao/dot-3.md`, nhật ký `ban-giao/nhat-ky-dot-3.md` |
-| 4 | Giao diện tối thiểu | 14/12–20/12/2026 | Chưa |
+| 4 | Giao diện tối thiểu | 14/12–20/12/2026 | **Đang làm** từ 5/11/2026 — `ban-giao/dot-4.md`, nhật ký `ban-giao/nhat-ky-dot-4.md` |
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
 | 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | Chưa |
 | 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | Chưa |
@@ -66,7 +66,11 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 17 | Năm trong trích dẫn tác giả–năm ("Bourget & Chalmers 2023") ở `lint_volatile` | Không tính: là năm xuất bản, không có hạn dùng | Tính, như báo cáo nền | chờ |
 | 18 | "thuyết định mệnh" trong bảng thuật ngữ | Ghi rõ trong `HUONG-DAN-VIET.md`: chỉ sai khi dịch *determinism*; đúng cho *fatalism* | Giữ "(sai)" chung | chờ |
 | 19 | Hai trang thiếu mục bắt buộc (`cong-cu/luan-cu-thep.md`: Bài tập, Tự kiểm tra; `doc/sartre-hien-sinh.md`: Đọc từng đoạn) | Bổ sung ở đợt 5 | Ghi ngoại lệ cho `lint_structure` | chờ |
-| 20 | Tiêu chí dời vào khối thời sự (đợt 3) | Chỉ dời đoạn đúng hay sai tùy lúc đọc (luật đang hiệu lực, số liệu đang đổi, AI hiện tại không gắn mốc); chỗ còn lại vào `data/style/volatile-allow.yml` có lý do (`co-moc-thoi-gian`, `vi-du-gia-dinh`, `trang-thai-hoc-thuat`, `chung-chung`, `su-kien-lich-su`), hết hiệu lực khi đổi chữ | Dời mọi chỗ `lint_volatile` bắt | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 20 | Tiêu chí dời vào khối thời sự (đợt 3) | Chỉ dời đoạn đúng hay sai tùy lúc đọc (luật đang hiệu lực, số liệu đang đổi, AI hiện tại không gắn mốc); chỗ còn lại vào `data/style/volatile-allow.yml` có lý do (`co-moc-thoi-gian`, `vi-du-gia-dinh`, `trang-thai-hoc-thuat`, `chung-chung`, `su-kien-lich-su`), hết hiệu lực khi đổi chữ | Dời mọi chỗ `lint_volatile` bắt | theo Đề xuất (chủ biên chốt 5/11/2026; duyệt danh sách miễn 61 mục cùng ngày) |
+| 21 | Font chữ (đợt 4) | Tự host Be Vietnam Pro và Noto Serif (woff2, OFL, tập Latin + tiếng Việt) trong `docs/assets/fonts/`; không gọi Google Fonts | Font hệ thống | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 22 | Chỉ mục tìm kiếm (đợt 4) | Bỏ bản sao không dấu khỏi `search_index.json`; bỏ dấu ở trình duyệt khi dựng chỉ mục và khi gõ; chỉ tải chỉ mục khi mở ô tìm | Pagefind (đợt 6); giữ nguyên | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 23 | Trang tác phẩm (đợt 4) | Một trang chỉ mục `tac-pham/index.md` sinh từ `works.yml` (tác phẩm đã biết tác giả, ghi "chưa kiểm chứng"); chưa có URL riêng cho từng tác phẩm tới sau đợt 5 | Mỗi tác phẩm một trang; dời sau đợt 5 | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 24 | Trang chủ mới (đợt 4) | Sắp xếp lại khối đang có thành cửa chính/phụ, thêm nút "Bắt đầu ở đây"; chữ mới chỉ là nhãn nút; chủ biên duyệt bằng ảnh chụp | Viết lại trang chủ; không đổi | theo Đề xuất (chủ biên chốt 5/11/2026) |
 
 ## 4. Kiến trúc
 
