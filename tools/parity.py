@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import argparse
 import difflib
+import fnmatch
 import html as htmllib
 import json
 import re
@@ -41,14 +42,27 @@ BLOCK = {"p", "div", "li", "ul", "ol", "dl", "dt", "dd", "table", "tr", "td", "t
          "figcaption", "br", "hr", "section", "article", "aside", "header", "footer", "nav", "text"}
 
 
+VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
+SINH = "data-oz-sinh"   # phần giao diện sinh thêm (đợt 4): không phải chữ của bài, bỏ ở cả hai bên
+
+
 class _Text(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.parts: list[str] = []
         self.ids: list[str] = []
         self.skip = 0
+        self.sinh = 0          # độ sâu bên trong một phần tử data-oz-sinh (0 = ngoài)
 
     def handle_starttag(self, tag, attrs):
+        if self.sinh:
+            if tag not in VOID:
+                self.sinh += 1
+            return
+        if any(k == SINH for k, _ in attrs):
+            if tag not in VOID:
+                self.sinh = 1
+            return
         if tag in SKIP:
             self.skip += 1
         for k, v in attrs:
@@ -58,6 +72,8 @@ class _Text(HTMLParser):
             self.parts.append("\n")
 
     def handle_startendtag(self, tag, attrs):
+        if self.sinh or any(k == SINH for k, _ in attrs):
+            return
         for k, v in attrs:
             if k == "id" and v is not None:
                 self.ids.append(v)
@@ -65,13 +81,17 @@ class _Text(HTMLParser):
             self.parts.append("\n")
 
     def handle_endtag(self, tag):
+        if self.sinh:
+            if tag not in VOID:
+                self.sinh -= 1
+            return
         if tag in SKIP and self.skip:
             self.skip -= 1
         if tag in BLOCK:
             self.parts.append("\n")
 
     def handle_data(self, data):
-        if not self.skip:
+        if not self.skip and not self.sinh:
             self.parts.append(data)
 
 
@@ -121,13 +141,27 @@ def _apply(s: str, subs) -> str:
     return s
 
 
-def compare(before: Path, after: Path, subs=()) -> tuple[list[str], int]:
+def _match(p: str, globs) -> bool:
+    return any(fnmatch.fnmatch(p, g) for g in globs)
+
+
+def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: list | None = None) -> tuple[list[str], int]:
     """(danh sách mô tả chỗ lệch, số trang đã so); danh sách rỗng nghĩa là tương đương 100%.
-    `subs`: các (regex đã biên dịch, chuỗi thay) áp lên bản trước — thay đổi có chủ đích."""
+    `subs`: các (regex đã biên dịch, chuỗi thay) áp lên bản trước — thay đổi có chủ đích.
+    `exempt`: mẫu đường dẫn HTML (glob) được phép đổi chữ; khác biệt ghi vào `notes`, không tính là lệch.
+    `new_ok`: mẫu đường dẫn của trang mới có chủ đích (chỉ có ở bản sau)."""
+    notes = notes if notes is not None else []
     a, b = pages(before), pages(after)
     problems = [f"{p}: chỉ có ở bản trước" for p in sorted(a.keys() - b.keys())]
-    problems += [f"{p}: chỉ có ở bản sau" for p in sorted(b.keys() - a.keys())]
+    for p in sorted(b.keys() - a.keys()):
+        (notes if _match(p, new_ok) else problems).append(f"{p}: chỉ có ở bản sau{' (trang mới có chủ đích)' if _match(p, new_ok) else ''}")
     for p in sorted(a.keys() & b.keys()):
+        if _match(p, exempt):
+            x = _subbed(extract(a[p].read_text(encoding="utf-8")), subs)
+            y = extract(b[p].read_text(encoding="utf-8"))
+            if x != y:
+                notes.append(f"{p}: ngoại lệ, có đổi chữ\n{first_diff(x.lines, y.lines)}")
+            continue
         x = _subbed(extract(a[p].read_text(encoding="utf-8")), subs)
         y = extract(b[p].read_text(encoding="utf-8"))
         if x.title != y.title:
@@ -186,7 +220,13 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--keep", type=Path, help="cùng --base: giữ hai bản build trong thư mục này")
     ap.add_argument("--expect-sub", nargs=2, action="append", default=[], metavar=("REGEX", "THAY"),
                     help="thay đổi có chủ đích, áp lên bản trước trước khi so (lặp lại được)")
+    ap.add_argument("--ngoai-le", action="append", default=[], metavar="TRANG",
+                    help="trang HTML (glob, ví dụ index.html) được phép đổi chữ: in khác biệt, không tính lệch")
+    ap.add_argument("--trang-moi", action="append", default=[], metavar="TRANG",
+                    help="trang HTML mới có chủ đích (glob, ví dụ 'tac-pham/*')")
     args = ap.parse_args(argv)
+    notes: list[str] = []
+    opts = dict(exempt=args.ngoai_le, new_ok=args.trang_moi, notes=notes)
     subs = [(re.compile(rx), rep) for rx, rep in args.expect_sub]
 
     if args.base:
@@ -196,7 +236,7 @@ def main(argv: list[str]) -> int:
         tmp.mkdir(parents=True, exist_ok=True)
         try:
             before, after = build_pair(args.base, tmp)
-            problems, n = compare(before, after, subs)
+            problems, n = compare(before, after, subs, **opts)
             label = f"{args.base} → cây làm việc"
         finally:
             if not args.keep:
@@ -206,17 +246,20 @@ def main(argv: list[str]) -> int:
         for d in (before, after):
             if not d.is_dir():
                 ap.error(f"{d}: không phải thư mục")
-        problems, n = compare(before, after, subs)
+        problems, n = compare(before, after, subs, **opts)
         label = f"{before} → {after}"
     else:
         ap.error("cần --base REF hoặc hai thư mục TRUOC SAU")
 
+    for x in notes:
+        print("  · " + x)
     if problems:
         print(f"Tương đương: LỆCH ({label}), {len(problems)} chỗ:")
         for p in problems:
             print("  - " + p)
         return 1
     note = f"; sau khi áp {len(subs)} phép thay có chủ đích" if subs else ""
+    note += f"; {len(notes)} ghi chú (ngoại lệ, trang mới)" if notes else ""
     print(f"Tương đương: giống 100% ({label}, {n} trang{note}).")
     return 0
 
