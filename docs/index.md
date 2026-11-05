@@ -13,6 +13,8 @@ tier: he-thong
 <p class="oz-hero__kicker">Triết học, bắt đầu từ con số 0</p>
 <p class="oz-hero__title">Có những câu hỏi không thể tra Google mà ra.</p>
 <p class="oz-hero__lead">Ta có thật sự tự do lựa chọn? Một cỗ máy có thể hiểu điều nó nói không? Đúng sai có khách quan không? Logos Zero là nơi đọc chậm những câu hỏi như thế: trình bày công bằng từng lập trường, và để bạn tự nghĩ tiếp.</p>
+<p class="oz-hero__actions"><a class="md-button md-button--primary" href="bat-dau/">Bắt đầu ở đây →</a> <a class="md-button" href="bat-dau/lo-trinh/">Ba con đường đọc</a></p>
+<p class="oz-hero__note">Triết học là gì, và không phải là gì? Không phải danh ngôn, không phải "mỗi người một ý". Đây là trang mở cửa của cả site.</p>
 </div>
 
 <div class="oz-daily" markdown>
@@ -44,15 +46,7 @@ tier: he-thong
 
 ## Đi từ đâu?
 
-<div class="grid cards" markdown>
-
--   **Triết học là gì, và không phải là gì?**
-
-    ---
-
-    Không phải danh ngôn, không phải "mỗi người một ý". Đây là trang mở cửa của cả site. Chưa biết đọc gì trước? Xem thêm [Ba con đường đọc](bat-dau/lo-trinh.md).
-
-    [Đọc bài mở đầu →](bat-dau/index.md)
+<div class="grid cards oz-cua-chinh" markdown>
 
 -   **Công cụ tư duy**
 
@@ -77,6 +71,10 @@ tier: he-thong
     [[count:doc]] hướng dẫn đọc chậm: Platon, Aristotle, Epictetus, Descartes, Hume, Kant, Mill, Sartre, *Luận ngữ*, *Đạo đức kinh*, *Tâm kinh*, *Bình Ngô đại cáo*… kèm nguyên văn và bản dịch.
 
     [Đọc cùng nhau →](doc/index.md)
+
+</div>
+
+<div class="grid cards oz-cua-phu" markdown>
 
 -   **Lịch sử và các triết gia**
 
