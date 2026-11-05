@@ -38,7 +38,7 @@ DATA = {
     "sources": {"sep.kant": {"type": "sep", "text": "SEP, Kant", "url": "https://plato.stanford.edu/entries/kant/",
                              "archive": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
                              "accessed": "2026-11-05", "used_in": ["cau-hoi/x.md#nguon"]}},
-    "philpapers": {"source": {}, "questions": [{"id": "free-will", "table": 1, "n": 1770,
+    "philpapers": {"source": {"preamble": "", "footer": ""}, "questions": [{"id": "free-will", "table": 1, "n": 1770,
                                                 "options": [{"id": "compatibilism", "pct": 59.2}]}]},
 }
 
