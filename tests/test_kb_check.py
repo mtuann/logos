@@ -135,6 +135,14 @@ class TestKbCheck(unittest.TestCase):
         self.assertError("câu 'free-will' trùng")
         self.assertError("lựa chọn 'compatibilism' trùng")
 
+    def test_philpapers_survey_from_preamble(self):
+        d = copy.deepcopy(DATA)
+        d["philpapers"]["source"]["preamble"] = "1.785 triết gia; 100 câu hỏi"
+        d["philpapers"]["source"]["survey"] = {"nguoi-tra-loi": 1785, "so-cau": 100, "cau-chinh": 41,
+                                               "cau-bo-sung": 100, "cau-bo-sung-moi-nguoi": 1785}
+        self.write(d)
+        self.assertError("source.survey.cau-chinh = 41 không có trong source.preamble")
+
 
 if __name__ == "__main__":
     unittest.main()

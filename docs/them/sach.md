@@ -3147,27 +3147,27 @@ Tri thức có được *không cần* dựa vào kinh nghiệm gọi là **tiê
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers năm 2020 hỏi 1.785 triết gia chuyên nghiệp về nhiều câu hỏi trong bài này. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn (một người có thể chọn nhiều đáp án, nên tổng có thể vượt 100%).
+Khảo sát PhilPapers năm 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp về nhiều câu hỏi trong bài này. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn (một người có thể chọn nhiều đáp án, nên tổng có thể vượt 100%).
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thế giới bên ngoài | Thực tại luận phi hoài nghi | 79,5 |
-| | Duy tâm | 6,6 |
-| | Hoài nghi | 5,4 |
-| Đáp lại hoài nghi (cách nào mạnh nhất?)* | Thực dụng | 22,8 |
-| | Suy luận đến lời giải thích tốt nhất | 22,1 |
-| | Ngoại tại luận tri thức | 18,9 |
-| | Giáo điều luận | 13,4 |
-| | Ngữ cảnh luận | 10,7 |
-| Phân tích khái niệm tri thức* | Niềm tin đúng được biện minh (JTB) | 23,6 |
-| | Một phân tích khác | 32,2 |
-| | Không có phân tích nào | 30,6 |
-| Biện minh tri thức | Ngoại tại luận | 50,5 |
-| | Nội tại luận | 35,7 |
-| Tri thức (nguồn gốc) | Duy nghiệm luận | 43,9 |
-| | Duy lý luận | 33,5 |
-| Có tri thức tiên nghiệm không? | Có | 72,8 |
-| | Không | 18,5 |
+| Thế giới bên ngoài | Thực tại luận phi hoài nghi | [[pp:the-gioi-ben-ngoai.thuc-tai-luan-phi-hoai-nghi]] |
+| | Duy tâm | [[pp:the-gioi-ben-ngoai.duy-tam]] |
+| | Hoài nghi | [[pp:the-gioi-ben-ngoai.hoai-nghi]] |
+| Đáp lại hoài nghi (cách nào mạnh nhất?)* | Thực dụng | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.thuc-dung]] |
+| | Suy luận đến lời giải thích tốt nhất | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.suy-luan-den-loi-giai-thich-tot-nhat]] |
+| | Ngoại tại luận tri thức | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.ngoai-tai-luan-tri-thuc]] |
+| | Giáo điều luận | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.giao-dieu-luan-dogmatist]] |
+| | Ngữ cảnh luận | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.ngu-canh-luan]] |
+| Phân tích khái niệm tri thức* | Niềm tin đúng được biện minh (JTB) | [[pp:phan-tich-khai-niem-tri-thuc.niem-tin-dung-duoc-bien-minh-jtb]] |
+| | Một phân tích khác | [[pp:phan-tich-khai-niem-tri-thuc.mot-phan-tich-khac]] |
+| | Không có phân tích nào | [[pp:phan-tich-khai-niem-tri-thuc.khong-co-phan-tich-nao]] |
+| Biện minh tri thức | Ngoại tại luận | [[pp:bien-minh-tri-thuc-epistemic-justification.ngoai-tai-luan]] |
+| | Nội tại luận | [[pp:bien-minh-tri-thuc-epistemic-justification.noi-tai-luan]] |
+| Tri thức (nguồn gốc) | Duy nghiệm luận | [[pp:tri-thuc-nguon-goc.duy-nghiem-luan]] |
+| | Duy lý luận | [[pp:tri-thuc-nguon-goc.duy-ly-luan]] |
+| Có tri thức tiên nghiệm không? | Có | [[pp:tri-thuc-tien-nghiem-co-khong.co]] |
+| | Không | [[pp:tri-thuc-tien-nghiem-co-khong.khong]] |
 
 \* Câu hỏi bổ sung, ít người trả lời hơn: khoảng 930 người (đáp lại hoài nghi) và 1.020 người (phân tích khái niệm tri thức). Các câu còn lại là câu chính, mỗi câu khoảng 1.620–1.760 người trả lời.
 
@@ -3550,9 +3550,9 @@ Khảo sát PhilPapers 2020 không hỏi thẳng câu hỏi trung tâm của bà
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bất đồng hợp lý: hai người cùng bằng chứng có thể bất đồng mà vẫn hợp lý không?* | Có thể (thuyết cho phép, *permissivism*) | 70,2 |
-| | Không thể (*non-permissivism*, tức luận đề duy nhất) | 19,4 |
-| | Khác | 10,5 |
+| Bất đồng hợp lý: hai người cùng bằng chứng có thể bất đồng mà vẫn hợp lý không?* | Có thể (thuyết cho phép, *permissivism*) | [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.co-the-permissivism]] |
+| | Không thể (*non-permissivism*, tức luận đề duy nhất) | [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.khong-the-non-permissivism]] |
+| | Khác | [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.khac]] |
 
 \* Câu hỏi bổ sung, khoảng 990 người trả lời.
 
@@ -3725,14 +3725,14 @@ Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia
 
 | Câu hỏi | Lựa chọn | % | % loại trừ |
 |---|---|---|---|
-| Chân lý (câu chính, n ≈ 1.640) | Thuyết tương ứng (*correspondence*) | 51,4 | 48,3 |
-| | Thuyết giảm phát (*deflationary*) | 24,5 | 22,2 |
-| | Thuyết tri thức (*epistemic*) | 10,2 | 8,8 |
-| | Khác | 16,8 | |
-| Mâu thuẫn đúng (câu bổ sung, n ≈ 920) | Bất khả | 71,4 | |
-| | Khả hữu nhưng không có thật | 4,8 | |
-| | Có thật | 12,4 | |
-| | Khác | 11,7 | |
+| Chân lý (câu chính, n ≈ [[pp:chan-ly/n]]) | Thuyết tương ứng (*correspondence*) | [[pp:chan-ly.thuyet-tuong-ung-correspondence]] | [[pp:chan-ly.thuyet-tuong-ung-correspondence/loai-tru]] |
+| | Thuyết giảm phát (*deflationary*) | [[pp:chan-ly.thuyet-giam-phat-deflationary]] | [[pp:chan-ly.thuyet-giam-phat-deflationary/loai-tru]] |
+| | Thuyết tri thức (*epistemic*) | [[pp:chan-ly.thuyet-tri-thuc-epistemic]] | [[pp:chan-ly.thuyet-tri-thuc-epistemic/loai-tru]] |
+| | Khác | [[pp:chan-ly.khac]] | |
+| Mâu thuẫn đúng (câu bổ sung, n ≈ [[pp:mau-thuan-dung/n]]) | Bất khả | [[pp:mau-thuan-dung.bat-kha]] | |
+| | Khả hữu nhưng không có thật | [[pp:mau-thuan-dung.kha-huu-nhung-khong-co-that]] | |
+| | Có thật | [[pp:mau-thuan-dung.co-that]] | |
+| | Khác | [[pp:mau-thuan-dung.khac]] | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%. Cột "loại trừ" chỉ tính những người chọn *duy nhất* lựa chọn đó.
 
@@ -3924,13 +3924,13 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về vấn đề phân 
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Khoa học | Hiện thực luận khoa học (*scientific realism*) | 72,4 |
-| | Phản hiện thực luận khoa học | 15,0 |
-| | Khác | 12,8 |
-| Giá trị trong khoa học* | Nhất thiết mang giá trị | 44,0 |
-| | Có thể cả hai | 31,1 |
-| | Nhất thiết trung lập giá trị | 17,7 |
-| | Khác | 7,2 |
+| Khoa học | Hiện thực luận khoa học (*scientific realism*) | [[pp:khoa-hoc.hien-thuc-luan-khoa-hoc]] |
+| | Phản hiện thực luận khoa học | [[pp:khoa-hoc.phan-hien-thuc-luan-khoa-hoc]] |
+| | Khác | [[pp:khoa-hoc.khac]] |
+| Giá trị trong khoa học* | Nhất thiết mang giá trị | [[pp:gia-tri-trong-khoa-hoc.nhat-thiet-mang-gia-tri]] |
+| | Có thể cả hai | [[pp:gia-tri-trong-khoa-hoc.co-the-ca-hai]] |
+| | Nhất thiết trung lập giá trị | [[pp:gia-tri-trong-khoa-hoc.nhat-thiet-trung-lap-gia-tri]] |
+| | Khác | [[pp:gia-tri-trong-khoa-hoc.khac]] |
 
 \* Câu hỏi bổ sung, khoảng 960 người trả lời. Câu "Khoa học" là câu chính, khoảng 1.690 người trả lời. % là tỉ lệ chấp nhận hoặc nghiêng về.
 
@@ -4118,9 +4118,9 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về giả thuyết Sapir
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Wittgenstein: bạn thích giai đoạn nào hơn?* | Giai đoạn sau (thời *Philosophical Investigations*) | 57,5 |
-| | Giai đoạn đầu (thời *Tractatus*) | 24,6 |
-| | Khác | 17,2 |
+| Wittgenstein: bạn thích giai đoạn nào hơn?* | Giai đoạn sau (thời *Philosophical Investigations*) | [[pp:wittgenstein-thich-giai-doan-nao.giai-doan-sau]] |
+| | Giai đoạn đầu (thời *Tractatus*) | [[pp:wittgenstein-thich-giai-doan-nao.giai-doan-dau]] |
+| | Khác | [[pp:wittgenstein-thich-giai-doan-nao.khac]] |
 
 \* Câu hỏi bổ sung, khoảng 960 người trả lời; % là tỉ lệ chấp nhận hoặc nghiêng về.
 
@@ -4298,23 +4298,23 @@ Khảo sát PhilPapers 2020 (xem [cách đọc số liệu](../cau-hoi/index.md#
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tâm trí | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| Có "vấn đề khó" của ý thức không? | Có | 62,4 |
-| | Không | 29,8 |
-| Zombie triết học | Không thể hình dung | 16,4 |
-| | Hình dung được nhưng không khả hữu | 36,5 |
-| | Khả hữu về siêu hình | 24,4 |
-| Lý thuyết về ý thức | Chủ nghĩa chức năng | 33,0 |
-| | Nhị nguyên luận | 22,0 |
-| | Thuyết đồng nhất | 13,3 |
-| | Toàn tâm luận | 7,5 |
-| Căn phòng tiếng Trung: hiểu hay không hiểu? | Hiểu | 17,8 |
-| | Không hiểu | 67,1 |
-| Hệ thống AI *hiện tại* có ý thức? | Chấp nhận / bác bỏ | 3,4 / 82,4 |
-| Hệ thống AI *tương lai* có ý thức? | Chấp nhận / bác bỏ | 39,2 / 26,8 |
-| Thay não bằng bản mô phỏng số | Sống sót | 27,5 |
-| | Chết | 54,2 |
+| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| Có "vấn đề khó" của ý thức không? | Có | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.co]] |
+| | Không | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khong]] |
+| Zombie triết học | Không thể hình dung | [[pp:zombie-triet-hoc.khong-the-hinh-dung]] |
+| | Hình dung được nhưng không khả hữu | [[pp:zombie-triet-hoc.hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh]] |
+| | Khả hữu về siêu hình | [[pp:zombie-triet-hoc.kha-huu-ve-sieu-hinh]] |
+| Lý thuyết về ý thức | Chủ nghĩa chức năng | [[pp:y-thuc-ly-thuyet.chu-nghia-chuc-nang]] |
+| | Nhị nguyên luận | [[pp:y-thuc-ly-thuyet.nhi-nguyen-luan]] |
+| | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
+| | Toàn tâm luận | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
+| Căn phòng tiếng Trung: hiểu hay không hiểu? | Hiểu | [[pp:can-phong-tieng-trung.hieu]] |
+| | Không hiểu | [[pp:can-phong-tieng-trung.khong-hieu]] |
+| Hệ thống AI *hiện tại* có ý thức? | Chấp nhận / bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020]] / [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020/bac-bo]] |
+| Hệ thống AI *tương lai* có ý thức? | Chấp nhận / bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai]] / [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai/bac-bo]] |
+| Thay não bằng bản mô phỏng số | Sống sót | [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.song-sot]] |
+| | Chết | [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.chet]] |
 
 <small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, Bảng 1 và 2. Câu "Tâm trí" (n ≈ 1.730) và "Zombie triết học" (n ≈ 1.610) là câu chính. Các câu về vấn đề khó (n ≈ 1.000), lý thuyết về ý thức (n ≈ 1.020), Căn phòng tiếng Trung (n ≈ 1.030), ý thức của AI (thuộc câu "Những tâm trí khác", n ≈ 1.090) và thay não bằng bản mô phỏng số (n ≈ 1.020) là câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm.</small>
 
@@ -4489,14 +4489,14 @@ Khảo sát PhilPapers 2020 diễn ra cuối năm 2020 — **trước** khi Chat
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Những tâm trí khác: hệ thống AI hiện tại có thành viên có ý thức?* | Chấp nhận | 3,4 |
-| | Bác bỏ | 82,4 |
-| Những tâm trí khác: hệ thống AI tương lai có thành viên có ý thức?* | Chấp nhận | 39,2 |
-| | Bác bỏ | 26,8 |
-| Tâm trí | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| Máy trải nghiệm (có bước vào không?) | Có | 13,3 |
-| | Không | 76,9 |
+| Những tâm trí khác: hệ thống AI hiện tại có thành viên có ý thức?* | Chấp nhận | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020]] |
+| | Bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020/bac-bo]] |
+| Những tâm trí khác: hệ thống AI tương lai có thành viên có ý thức?* | Chấp nhận | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai]] |
+| | Bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai/bac-bo]] |
+| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| Máy trải nghiệm (có bước vào không?) | Có | [[pp:may-trai-nghiem-co-vao-khong.co]] |
+| | Không | [[pp:may-trai-nghiem-co-vao-khong.khong]] |
 
 \* Câu hỏi bổ sung (câu "Những tâm trí khác"), khoảng 1.090 người trả lời. Hai câu còn lại là câu chính: tâm trí khoảng 1.730 người, máy trải nghiệm khoảng 1.640 người.
 
@@ -4684,21 +4684,21 @@ Lập luận của Chalmers có ba bước:
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 hỏi 1.785 triết gia chuyên nghiệp. Số liệu là tỉ lệ "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Khảo sát PhilPapers 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp. Số liệu là tỉ lệ "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tâm trí | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| Có "vấn đề khó" của ý thức không? | Có | 62,4 |
-| | Không | 29,8 |
-| Zombie triết học | Không thể hình dung | 16,4 |
-| | Hình dung được nhưng không khả hữu | 36,5 |
-| | Khả hữu về siêu hình | 24,4 |
-| Lý thuyết về ý thức | Chủ nghĩa chức năng | 33,0 |
-| | Nhị nguyên luận | 22,0 |
-| | Thuyết đồng nhất | 13,3 |
-| | Toàn tâm luận | 7,5 |
+| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| Có "vấn đề khó" của ý thức không? | Có | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.co]] |
+| | Không | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khong]] |
+| Zombie triết học | Không thể hình dung | [[pp:zombie-triet-hoc.khong-the-hinh-dung]] |
+| | Hình dung được nhưng không khả hữu | [[pp:zombie-triet-hoc.hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh]] |
+| | Khả hữu về siêu hình | [[pp:zombie-triet-hoc.kha-huu-ve-sieu-hinh]] |
+| Lý thuyết về ý thức | Chủ nghĩa chức năng | [[pp:y-thuc-ly-thuyet.chu-nghia-chuc-nang]] |
+| | Nhị nguyên luận | [[pp:y-thuc-ly-thuyet.nhi-nguyen-luan]] |
+| | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
+| | Toàn tâm luận | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
 
 <small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Câu về tâm trí (n ≈ 1.730) và về zombie (n ≈ 1.610) là câu chính; câu về vấn đề khó (n ≈ 1.000) và về lý thuyết ý thức (n ≈ 1.020) là câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm.</small>
 
@@ -4877,11 +4877,11 @@ Luận điểm cốt lõi: không tồn tại một cái "tôi" thường hằng
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bản sắc cá nhân | Quan điểm tâm lý | 43,7 |
-| | Quan điểm sinh học | 19,1 |
-| | Quan điểm "sự kiện bổ sung" | 14,9 |
-| Máy dịch chuyển (bản sao bằng vật chất mới) | Sống sót | 35,2 |
-| | Chết | 40,1 |
+| Bản sắc cá nhân | Quan điểm tâm lý | [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]] |
+| | Quan điểm sinh học | [[pp:ban-sac-ca-nhan.quan-diem-sinh-hoc]] |
+| | Quan điểm "sự kiện bổ sung" | [[pp:ban-sac-ca-nhan.quan-diem-su-kien-bo-sung]] |
+| Máy dịch chuyển (bản sao bằng vật chất mới) | Sống sót | [[pp:may-dich-chuyen-vat-chat-moi.song-sot]] |
+| | Chết | [[pp:may-dich-chuyen-vat-chat-moi.chet]] |
 
 <small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Cả hai đều là câu hỏi chính (hỏi mọi người tham gia): bản sắc cá nhân khoảng 1.610 người trả lời, máy dịch chuyển khoảng 1.570 người.</small>
 
@@ -5096,13 +5096,13 @@ Kết quả: điện thế sẵn sàng bắt đầu *trước* thời điểm ng
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tự do ý chí (câu chính, n ≈ 1.760) | Tương thích luận | 59,2 |
-| | Thuyết ý chí tự do (libertarianism) | 18,8 |
-| | Không có tự do ý chí | 11,2 |
-| | Khác | 11,4 |
-| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | 62,9 |
-| | Không | 28,3 |
-| | Khác | 9 |
+| Tự do ý chí (câu chính, n ≈ [[pp:tu-do-y-chi/n]]) | Tương thích luận | [[pp:tu-do-y-chi.tuong-thich-luan]] |
+| | Thuyết ý chí tự do (libertarianism) | [[pp:tu-do-y-chi.thuyet-y-chi-tu-do-libertarianism]] |
+| | Không có tự do ý chí | [[pp:tu-do-y-chi.khong-co-tu-do-y-chi]] |
+| | Khác | [[pp:tu-do-y-chi.khac]] |
+| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
+| | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
+| | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
 \* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ 1.080 người trả lời.
 
@@ -5322,9 +5322,9 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về trách nhiệm đ�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | 62,9 |
-| | Không | 28,3 |
-| | Khác | 9 |
+| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
+| | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
+| | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
 \* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ 1.080 người trả lời.
 
@@ -5529,15 +5529,15 @@ Tuy vậy, có hai câu hỏi bổ sung chạm thẳng vào hai mạch của bà
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Cơ học lượng tử (diễn giải nào?)* | Sụp đổ hàm sóng | 17,1 |
-| | Biến ẩn | 21,9 |
-| | Đa thế giới | 19,4 |
-| | Tri thức (hàm sóng chỉ là thông tin) | 12,8 |
-| | Khác | 32,0 |
-| Bản thể luận thời gian* | Hiện tại luận (chỉ hiện tại tồn tại) | 18,4 |
-| | Vĩnh cửu luận (quá khứ, hiện tại, tương lai đều tồn tại) | 39,9 |
-| | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | 17,0 |
-| | Khác | 24,9 |
+| Cơ học lượng tử (diễn giải nào?)* | Sụp đổ hàm sóng | [[pp:co-hoc-luong-tu-dien-giai.sup-do-ham-song]] |
+| | Biến ẩn | [[pp:co-hoc-luong-tu-dien-giai.bien-an]] |
+| | Đa thế giới | [[pp:co-hoc-luong-tu-dien-giai.da-the-gioi]] |
+| | Tri thức (hàm sóng chỉ là thông tin) | [[pp:co-hoc-luong-tu-dien-giai.tri-thuc-ham-song-chi-la-thong-tin]] |
+| | Khác | [[pp:co-hoc-luong-tu-dien-giai.khac]] |
+| Bản thể luận thời gian* | Hiện tại luận (chỉ hiện tại tồn tại) | [[pp:ban-the-luan-thoi-gian.hien-tai-luan]] |
+| | Vĩnh cửu luận (quá khứ, hiện tại, tương lai đều tồn tại) | [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]] |
+| | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
+| | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
 
 \* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm): cơ học lượng tử n ≈ 560 người trả lời, bản thể luận thời gian n ≈ 730.
 
@@ -5714,20 +5714,20 @@ Aristotle, trong *Đạo đức Nicomachus*, cho rằng cả hai họ trên đ�
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 (1.785 triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng 1.740 người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
+Khảo sát PhilPapers 2020 ([[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng 1.740 người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức học chuẩn tắc — câu chính, n ≈ 1.740 | Đạo đức học đức hạnh | 37,0 |
-| | Nghĩa vụ luận | 32,1 |
-| | Hệ quả luận | 30,6 |
-| | Khác | 18,2 |
-| Bài toán xe điện (bẻ ghi cứu năm người) — câu chính, n ≈ 1.740 | Bẻ ghi | 63,4 |
-| | Không bẻ | 13,3 |
-| | Khác | 23,4 |
-| Cây cầu (đẩy một người cứu năm người) — câu chính, n ≈ 1.740 | Đẩy | 22,0 |
-| | Không đẩy | 56,0 |
-| | Khác | 22,0 |
+| Đạo đức học chuẩn tắc — câu chính, n ≈ [[pp:dao-duc-hoc-chuan-tac/n]] | Đạo đức học đức hạnh | [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]] |
+| | Nghĩa vụ luận | [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]] |
+| | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
+| | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
+| Bài toán xe điện (bẻ ghi cứu năm người) — câu chính, n ≈ [[pp:bai-toan-xe-dien-be-ghi/n]] | Bẻ ghi | [[pp:bai-toan-xe-dien-be-ghi.be-ghi]] |
+| | Không bẻ | [[pp:bai-toan-xe-dien-be-ghi.khong-be]] |
+| | Khác | [[pp:bai-toan-xe-dien-be-ghi.khac]] |
+| Cây cầu (đẩy một người cứu năm người) — câu chính, n ≈ [[pp:cay-cau-day-nguoi/n]] | Đẩy | [[pp:cay-cau-day-nguoi.day]] |
+| | Không đẩy | [[pp:cay-cau-day-nguoi.khong-day]] |
+| | Khác | [[pp:cay-cau-day-nguoi.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lý thuyết cùng lúc nên tổng vượt 100%.
 
@@ -5910,18 +5910,18 @@ Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sun
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Siêu đạo đức học (câu chính, n ≈ 1.720) | Hiện thực luận đạo đức | 62,1 |
-| | Phản hiện thực luận đạo đức | 26,1 |
-| | Khác | 11,8 |
-| Phán đoán đạo đức (câu chính, n ≈ 1.630) | Thuyết nhận thức | 69,3 |
-| | Thuyết phi nhận thức | 20,7 |
-| | Khác | 10,3 |
-| Bản chất của đạo đức (câu bổ sung, n ≈ 1.030) | Hiện thực luận tự nhiên | 31,6 |
-| | Phi tự nhiên luận | 26,6 |
-| | Kiến tạo luận | 20,8 |
-| | Biểu cảm luận | 10,6 |
-| | Thuyết sai lầm | 5,3 |
-| | Khác | 11,6 |
+| Siêu đạo đức học (câu chính, n ≈ [[pp:sieu-dao-duc-hoc-meta-ethics/n]]) | Hiện thực luận đạo đức | [[pp:sieu-dao-duc-hoc-meta-ethics.hien-thuc-luan-dao-duc-moral-realism]] |
+| | Phản hiện thực luận đạo đức | [[pp:sieu-dao-duc-hoc-meta-ethics.phan-hien-thuc-luan-dao-duc]] |
+| | Khác | [[pp:sieu-dao-duc-hoc-meta-ethics.khac]] |
+| Phán đoán đạo đức (câu chính, n ≈ [[pp:phan-doan-dao-duc/n]]) | Thuyết nhận thức | [[pp:phan-doan-dao-duc.thuyet-nhan-thuc-cognitivism]] |
+| | Thuyết phi nhận thức | [[pp:phan-doan-dao-duc.thuyet-phi-nhan-thuc-non-cognitivism]] |
+| | Khác | [[pp:phan-doan-dao-duc.khac]] |
+| Bản chất của đạo đức (câu bổ sung, n ≈ [[pp:ban-chat-cua-dao-duc/n]]) | Hiện thực luận tự nhiên | [[pp:ban-chat-cua-dao-duc.hien-thuc-luan-tu-nhien]] |
+| | Phi tự nhiên luận | [[pp:ban-chat-cua-dao-duc.phi-tu-nhien-luan]] |
+| | Kiến tạo luận | [[pp:ban-chat-cua-dao-duc.kien-tao-luan]] |
+| | Biểu cảm luận | [[pp:ban-chat-cua-dao-duc.bieu-cam-luan-expressivism]] |
+| | Thuyết sai lầm | [[pp:ban-chat-cua-dao-duc.thuyet-sai-lam-error-theory]] |
+| | Khác | [[pp:ban-chat-cua-dao-duc.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là % người "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
@@ -6105,13 +6105,13 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về nói dối. Hai câu
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức học chuẩn tắc (câu chính, n ≈ 1.740) | Đạo đức học đức hạnh | 37,0 |
-| | Nghĩa vụ luận | 32,1 |
-| | Hệ quả luận | 30,6 |
-| | Khác | 18,2 |
-| Nguyên tắc đạo đức (câu bổ sung, n ≈ 980) | Phổ quát luận đạo đức (*generalism*) | 54,6 |
-| | Đặc thù luận đạo đức (*particularism*) | 33,7 |
-| | Khác | 12,9 |
+| Đạo đức học chuẩn tắc (câu chính, n ≈ [[pp:dao-duc-hoc-chuan-tac/n]]) | Đạo đức học đức hạnh | [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]] |
+| | Nghĩa vụ luận | [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]] |
+| | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
+| | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
+| Nguyên tắc đạo đức (câu bổ sung, n ≈ [[pp:nguyen-tac-dao-duc/n]]) | Phổ quát luận đạo đức (*generalism*) | [[pp:nguyen-tac-dao-duc.pho-quat-luan-dao-duc-generalism]] |
+| | Đặc thù luận đạo đức (*particularism*) | [[pp:nguyen-tac-dao-duc.dac-thu-luan-dao-duc-particularism]] |
+| | Khác | [[pp:nguyen-tac-dao-duc.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
@@ -6473,7 +6473,7 @@ Theo lập trường này, ông K. trong thí nghiệm — nếu thực sự kh�
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về bản chất của cái ác — không hỏi "cái ác là thực thể hay sự thiếu vắng", cũng không hỏi "cái ác có cần ý định không" — nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Điều này không có nghĩa là triết học đương đại không bàn về cái ác — ngược lại, sau Arendt, "triết học về cái ác" là một lĩnh vực nghiên cứu sôi nổi, với những tranh luận về cái ác hệ thống, cái ác của thể chế, và ranh giới giữa ác ý cá nhân với sự vô tâm có cấu trúc. Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp về bản chất của cái ác. Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán "đa số triết gia nghĩ gì" từ ấn tượng cá nhân.
+Điều này không có nghĩa là triết học đương đại không bàn về cái ác — ngược lại, sau Arendt, "triết học về cái ác" là một lĩnh vực nghiên cứu sôi nổi, với những tranh luận về cái ác hệ thống, cái ác của thể chế, và ranh giới giữa ác ý cá nhân với sự vô tâm có cấu trúc. Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp về bản chất của cái ác. Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán "đa số triết gia nghĩ gì" từ ấn tượng cá nhân.
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều có đại diện nghiêm túc và còn đang tranh luận. Đặc biệt, câu hỏi "ác có cần ý định không" ngày càng thời sự khi cái ác mang tính hệ thống nhiều hơn — từ biến đổi khí hậu (không ai "định" làm hại, nhưng hậu quả là thật) đến các thuật toán gây hại mà không programmer nào "định" gây hại. Triết học về cái ác, vì thế, không phải là chuyện của quá khứ — nó là câu hỏi về chính thế giới ta đang sống.
 
@@ -6685,10 +6685,10 @@ Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số l
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Ăn động vật và sản phẩm động vật (trong hoàn cảnh bình thường) — câu chính, n ≈ 1.760 | Ăn tạp (được ăn cả thịt lẫn sản phẩm động vật) | 48,0 |
-| | Ăn chay (không ăn thịt, vẫn dùng sản phẩm động vật) | 26,5 |
-| | Thuần chay (không cả hai) | 18,4 |
-| | Khác | 9,9 |
+| Ăn động vật và sản phẩm động vật (trong hoàn cảnh bình thường) — câu chính, n ≈ [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong/n]] | Ăn tạp (được ăn cả thịt lẫn sản phẩm động vật) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.an-tap-duoc-an-ca-thit-lan-san-pham-dong-vat]] |
+| | Ăn chay (không ăn thịt, vẫn dùng sản phẩm động vật) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.an-chay-khong-an-thit-van-dung-san-pham-dong-vat]] |
+| | Thuần chay (không cả hai) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.thuan-chay-khong-ca-hai]] |
+| | Khác | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -6861,13 +6861,13 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về chủ đề 
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức môi trường — câu bổ sung, n ≈ 890 | Lấy con người làm trung tâm | 42,2 |
-| | Không lấy con người làm trung tâm | 50,7 |
-| | Khác | 8,9 |
-| Đạo đức học chuẩn tắc — câu chính, n ≈ 1.740 | Đạo đức học đức hạnh | 37,0 |
-| | Nghĩa vụ luận | 32,1 |
-| | Hệ quả luận | 30,6 |
-| | Khác | 18,2 |
+| Đạo đức môi trường — câu bổ sung, n ≈ [[pp:dao-duc-moi-truong/n]] | Lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.lay-con-nguoi-lam-trung-tam]] |
+| | Không lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]] |
+| | Khác | [[pp:dao-duc-moi-truong.khac]] |
+| Đạo đức học chuẩn tắc — câu chính, n ≈ [[pp:dao-duc-hoc-chuan-tac/n]] | Đạo đức học đức hạnh | [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]] |
+| | Nghĩa vụ luận | [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]] |
+| | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
+| | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1–2. Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lựa chọn cùng lúc nên tổng vượt 100%.
 
@@ -7024,9 +7024,9 @@ Khảo sát PhilPapers 2020 có **một** câu hỏi về phá thai. Đó là m�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Phá thai (ba tháng đầu, không có hoàn cảnh đặc biệt) — câu bổ sung, n ≈ 1.120 | Được phép | 81,7 |
-| | Không được phép | 13,1 |
-| | Khác (lập trường khác, không có ý kiến…) | 5,4 |
+| Phá thai (ba tháng đầu, không có hoàn cảnh đặc biệt) — câu bổ sung, n ≈ [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet/n]] | Được phép | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.duoc-phep]] |
+| | Không được phép | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khong-duoc-phep]] |
+| | Khác (lập trường khác, không có ý kiến…) | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -7218,10 +7218,10 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về án tử hì
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Án tử hình — câu bổ sung, n ≈ 1.120 | Được phép | 17,7 |
-| | Không được phép | 75,1 |
-| | Khác (lập trường khác, không có ý kiến…) | 7,1 |
-| Luật pháp — câu bổ sung, n ≈ 620 | Thực chứng luận pháp lý (*legal positivism*) | 39,5 |
+| Án tử hình — câu bổ sung, n ≈ [[pp:an-tu-hinh/n]] | Được phép | [[pp:an-tu-hinh.duoc-phep]] |
+| | Không được phép | [[pp:an-tu-hinh.khong-duoc-phep]] |
+| | Khác (lập trường khác, không có ý kiến…) | [[pp:an-tu-hinh.khac]] |
+| Luật pháp — câu bổ sung, n ≈ [[pp:luat-phap/n]] | Thực chứng luận pháp lý (*legal positivism*) | [[pp:luat-phap.thuc-chung-luan-phap-ly]] |
 | | Phi thực chứng luận pháp lý | 45,0 |
 | | Khác | 16,0 |
 
@@ -7418,14 +7418,14 @@ Tuy nhiên, có ba câu hỏi *gần nhất* với chủ đề bài, và các co
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bài toán xe điện (bẻ ghi) — câu chính, n ≈ 1.740 | Bẻ ghi (một người chết thay cho năm người) | 63,4 |
-| | Không bẻ | 13,3 |
-| | Khác | 23,4 |
-| Cây cầu (đẩy người) — câu chính, n ≈ 1.740 | Đẩy | 22,0 |
-| | Không đẩy | 56,0 |
-| | Khác | 22,0 |
-| "Phải" kéo theo "có thể" (*ought implies can*) — câu bổ sung, n ≈ 1.080 | Có | 62,9 |
-| | Không | 28,3 |
+| Bài toán xe điện (bẻ ghi) — câu chính, n ≈ [[pp:bai-toan-xe-dien-be-ghi/n]] | Bẻ ghi (một người chết thay cho năm người) | [[pp:bai-toan-xe-dien-be-ghi.be-ghi]] |
+| | Không bẻ | [[pp:bai-toan-xe-dien-be-ghi.khong-be]] |
+| | Khác | [[pp:bai-toan-xe-dien-be-ghi.khac]] |
+| Cây cầu (đẩy người) — câu chính, n ≈ [[pp:cay-cau-day-nguoi/n]] | Đẩy | [[pp:cay-cau-day-nguoi.day]] |
+| | Không đẩy | [[pp:cay-cau-day-nguoi.khong-day]] |
+| | Khác | [[pp:cay-cau-day-nguoi.khac]] |
+| "Phải" kéo theo "có thể" (*ought implies can*) — câu bổ sung, n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
+| | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | 9,0 |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
@@ -7610,15 +7610,15 @@ Lập trường thứ ba chuyển trọng tâm khỏi câu hỏi "ai gây ra" sa
 
 ## Giới triết học ngày nay nghĩ gì
 
-Trong 100 câu hỏi của khảo sát PhilPapers 2020, không có câu nào hỏi "con người có nghĩa vụ với thế hệ tương lai không" hay "trách nhiệm khí hậu thuộc về cá nhân hay tập thể". Với ba lập trường của bài, vì vậy, **chưa có số liệu khảo sát**, và cũng không nên suy đoán.
+Trong [[pp:khao-sat/so-cau]] câu hỏi của khảo sát PhilPapers 2020, không có câu nào hỏi "con người có nghĩa vụ với thế hệ tương lai không" hay "trách nhiệm khí hậu thuộc về cá nhân hay tập thể". Với ba lập trường của bài, vì vậy, **chưa có số liệu khảo sát**, và cũng không nên suy đoán.
 
 Câu gần nhất là một câu bổ sung (chỉ một phần người tham gia được hỏi) về **đạo đức môi trường** (*environmental ethics*):
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức môi trường — câu bổ sung, n ≈ 890 | Lấy con người làm trung tâm | 42,2 |
-| | Không lấy con người làm trung tâm | 50,7 |
-| | Khác | 8,9 |
+| Đạo đức môi trường — câu bổ sung, n ≈ [[pp:dao-duc-moi-truong/n]] | Lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.lay-con-nguoi-lam-trung-tam]] |
+| | Không lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]] |
+| | Khác | [[pp:dao-duc-moi-truong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -7801,7 +7801,7 @@ Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004,
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư hay giám sát (câu gần nhất với đạo đức công nghệ là câu bổ sung về kỹ thuật di truyền trên người — một chủ đề khác), nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "giám sát đại trà có chấp nhận được không" hay "quyền riêng tư là gì". Vì vậy, ở đây ta không có con số nào để trích.
+Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "giám sát đại trà có chấp nhận được không" hay "quyền riêng tư là gì". Vì vậy, ở đây ta không có con số nào để trích.
 
 Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2010) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
@@ -7983,7 +7983,7 @@ Lập trường thứ ba không tranh về opt-in hay opt-out mà đào sâu xu�
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về hiến tạng hay định nghĩa cái chết, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "nên áp dụng opt-in hay opt-out" hay "chết não có phải là chết không". Khảo sát có vài câu thuộc đạo đức sinh học theo nghĩa rộng — về phá thai và về kỹ thuật di truyền trên người — nhưng đó là những chủ đề khác, và không thể suy ra từ chúng giới triết học nghĩ gì về hiến tạng. Vì vậy, ở đây ta không có con số nào để trích.
+Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "nên áp dụng opt-in hay opt-out" hay "chết não có phải là chết không". Khảo sát có vài câu thuộc đạo đức sinh học theo nghĩa rộng — về phá thai và về kỹ thuật di truyền trên người — nhưng đó là những chủ đề khác, và không thể suy ra từ chúng giới triết học nghĩ gì về hiến tạng. Vì vậy, ở đây ta không có con số nào để trích.
 
 Một điều có thể nói một cách trung thực: trong đạo đức sinh học đương đại, cả ba hướng trên đều có những đại diện nghiêm túc — opt-out được nhiều nhà đạo đức học y khoa ủng hộ vì hiệu quả cứu người, opt-in được bênh vực bởi những người đặt tự chủ lên hàng đầu, còn tranh luận về chết não thì chưa bao giờ thực sự khép lại kể từ báo cáo Harvard 1968. Nhưng "đều có đại diện nghiêm túc" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
@@ -8387,12 +8387,12 @@ Một câu hỏi để mang theo khi gấp bài này lại: lần tới khi bạ
 
 Khảo sát PhilPapers 2020 có một câu *chính* (hỏi tất cả người tham gia) gần như trùng với ba lập trường của bài: câu "Triết học chính trị", với ba lựa chọn cộng đồng luận, chủ nghĩa bình đẳng và chủ nghĩa tự do cá nhân.
 
-| Triết học chính trị (câu chính, n ≈ 1.540) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
+| Triết học chính trị (câu chính, n ≈ [[pp:triet-hoc-chinh-tri/n]]) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|
-| Chủ nghĩa bình đẳng (*egalitarianism*) | 44,0% | 38,3% |
-| Cộng đồng luận (*communitarianism*) | 27,3% | 22,1% |
-| Chủ nghĩa tự do cá nhân (*libertarianism*) | 13,4% | 10,3% |
-| Khác | 20,5% | |
+| Chủ nghĩa bình đẳng (*egalitarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism/loai-tru]]% |
+| Cộng đồng luận (*communitarianism*) | [[pp:triet-hoc-chinh-tri.cong-dong-luan]]% | [[pp:triet-hoc-chinh-tri.cong-dong-luan/loai-tru]]% |
+| Chủ nghĩa tự do cá nhân (*libertarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism/loai-tru]]% |
+| Khác | [[pp:triet-hoc-chinh-tri.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Political philosophy". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng vượt 100%, cột thứ hai chỉ tính người chọn duy nhất đáp án đó.
 
@@ -8400,11 +8400,11 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Một câu *bổ sung* (chỉ hỏi những người chọn trả lời thêm) chạm vào chính cách làm của Rawls: *A Theory of Justice* là ví dụ kinh điển của **lý thuyết lý tưởng** (*ideal theory*) — hỏi một xã hội hoàn toàn công bằng trông ra sao, giả định mọi người đều sẵn lòng tuân theo các nguyên tắc được chọn và điều kiện xã hội tương đối thuận lợi; lý thuyết phi lý tưởng thì xuất phát từ những bất công đang có trong thế giới thực.
 
-| Phương pháp triết học chính trị (câu bổ sung, n ≈ 790) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
+| Phương pháp triết học chính trị (câu bổ sung, n ≈ [[pp:phuong-phap-triet-hoc-chinh-tri/n]]) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|
-| Lý thuyết phi lý tưởng (*non-ideal theory*) | 58% | 48% |
-| Lý thuyết lý tưởng (*ideal theory*) | 32,4% | 22,4% |
-| Khác | 18,8% | |
+| Lý thuyết phi lý tưởng (*non-ideal theory*) | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-phi-ly-tuong]]% | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-phi-ly-tuong/loai-tru]]% |
+| Lý thuyết lý tưởng (*ideal theory*) | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-ly-tuong]]% | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-ly-tuong/loai-tru]]% |
+| Khác | [[pp:phuong-phap-triet-hoc-chinh-tri.khac]]% | |
 
 Nguồn: như trên, câu bổ sung "Method in political philosophy".
 
@@ -8557,12 +8557,12 @@ Một phản bác khác, thực tế hơn: ranh giới giữa may rủi và lự
 
 Khảo sát PhilPapers 2020 không hỏi "bình đẳng về cái gì" — không có câu nào tách bình đẳng kết quả, bình đẳng cơ hội hay bình đẳng may mắn. Nhưng câu *chính* (hỏi tất cả người tham gia) "Triết học chính trị" có một lựa chọn mang đúng tên chủ nghĩa bình đẳng:
 
-| Triết học chính trị (câu chính, n ≈ 1.540) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
+| Triết học chính trị (câu chính, n ≈ [[pp:triet-hoc-chinh-tri/n]]) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|
-| Chủ nghĩa bình đẳng (*egalitarianism*) | 44,0% | 38,3% |
-| Cộng đồng luận (*communitarianism*) | 27,3% | 22,1% |
-| Chủ nghĩa tự do cá nhân (*libertarianism*) | 13,4% | 10,3% |
-| Khác | 20,5% | |
+| Chủ nghĩa bình đẳng (*egalitarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism/loai-tru]]% |
+| Cộng đồng luận (*communitarianism*) | [[pp:triet-hoc-chinh-tri.cong-dong-luan]]% | [[pp:triet-hoc-chinh-tri.cong-dong-luan/loai-tru]]% |
+| Chủ nghĩa tự do cá nhân (*libertarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism/loai-tru]]% |
+| Khác | [[pp:triet-hoc-chinh-tri.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Political philosophy". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng vượt 100%, cột thứ hai chỉ tính người chọn duy nhất đáp án đó.
 
@@ -8777,13 +8777,13 @@ Khảo sát PhilPapers 2020 không hỏi thẳng "quyền sở hữu tư nhân c
 
 | Câu hỏi | Lựa chọn | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|---|
-| Triết học chính trị (câu chính, n ≈ 1.540) | Chủ nghĩa bình đẳng | 44,0% | 38,3% |
-| | Cộng đồng luận | 27,3% | 22,1% |
-| | Chủ nghĩa tự do cá nhân (*libertarianism*) | 13,4% | 10,3% |
-| | Khác | 20,5% | |
-| Chính trị – kinh tế (câu bổ sung, n ≈ 1.090) | Chủ nghĩa xã hội | 53,0% | 48,6% |
-| | Chủ nghĩa tư bản | 29,5% | 26,1% |
-| | Khác | 19,3% | |
+| Triết học chính trị (câu chính, n ≈ [[pp:triet-hoc-chinh-tri/n]]) | Chủ nghĩa bình đẳng | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism/loai-tru]]% |
+| | Cộng đồng luận | [[pp:triet-hoc-chinh-tri.cong-dong-luan]]% | [[pp:triet-hoc-chinh-tri.cong-dong-luan/loai-tru]]% |
+| | Chủ nghĩa tự do cá nhân (*libertarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism/loai-tru]]% |
+| | Khác | [[pp:triet-hoc-chinh-tri.khac]]% | |
+| Chính trị – kinh tế (câu bổ sung, n ≈ [[pp:chinh-tri-kinh-te/n]]) | Chủ nghĩa xã hội | [[pp:chinh-tri-kinh-te.chu-nghia-xa-hoi]]% | [[pp:chinh-tri-kinh-te.chu-nghia-xa-hoi/loai-tru]]% |
+| | Chủ nghĩa tư bản | [[pp:chinh-tri-kinh-te.chu-nghia-tu-ban]]% | [[pp:chinh-tri-kinh-te.chu-nghia-tu-ban/loai-tru]]% |
+| | Khác | [[pp:chinh-tri-kinh-te.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Political philosophy" và câu bổ sung "Politics". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng có thể vượt 100%, cột cuối chỉ tính người chọn duy nhất đáp án đó.
 
@@ -9005,7 +9005,7 @@ Hình dưới đây minh họa thêm một khó khăn của nguyên tắc "đa s
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về dân chủ, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
-Khảo sát có hỏi về triết học chính trị nói chung: câu chính "Triết học chính trị" (n ≈ 1.540) cho thấy 44,0% chấp nhận hoặc nghiêng về chủ nghĩa bình đẳng, 27,3% cộng đồng luận, 13,4% chủ nghĩa tự do cá nhân (xem bảng trong bài [Công lý là gì?](../cau-hoi/cong-ly.md)). Nhưng câu ấy hỏi về công lý và quan hệ cá nhân–cộng đồng, không hỏi về dân chủ. Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp "bạn hiểu dân chủ là gì" hay "dân chủ có đáng giá không". Vì vậy, với ba lập trường của bài, ta không có con số nào để trích, và cũng không nên suy đoán.
+Khảo sát có hỏi về triết học chính trị nói chung: câu chính "Triết học chính trị" (n ≈ 1.540) cho thấy 44,0% chấp nhận hoặc nghiêng về chủ nghĩa bình đẳng, 27,3% cộng đồng luận, 13,4% chủ nghĩa tự do cá nhân (xem bảng trong bài [Công lý là gì?](../cau-hoi/cong-ly.md)). Nhưng câu ấy hỏi về công lý và quan hệ cá nhân–cộng đồng, không hỏi về dân chủ. Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp "bạn hiểu dân chủ là gì" hay "dân chủ có đáng giá không". Vì vậy, với ba lập trường của bài, ta không có con số nào để trích, và cũng không nên suy đoán.
 
 Nếu bạn muốn biết "giới chuyên môn nghiêng về đâu", cách trung thực nhất là đọc chính các tranh luận: Schumpeter định hình cách khoa học chính trị nghĩ về dân chủ suốt nửa sau thế kỷ 20; dân chủ thảo luận của Habermas là một trong những hướng nghiên cứu sôi nổi nhất từ những năm 1990 đến nay; còn lời cảnh báo về "chuyên chế của đa số" thì chưa bao giờ hết thời sự — mỗi lần mạng xã hội "xử" ai đó bằng dư luận, người ta lại nhớ đến Mill.
 
@@ -9232,7 +9232,7 @@ Lập luận của Brennan đi thẳng vào trực giác "biểu quyết chọn 
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 không có câu hỏi riêng về "ai nên cai trị" hay về chế độ tinh hoa tri thức trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài. Khảo sát *có* hỏi về triết học chính trị nói chung — câu chính "Triết học chính trị" (cộng đồng luận, chủ nghĩa bình đẳng hay chủ nghĩa tự do cá nhân; n ≈ 1.540), cùng hai câu bổ sung về chính trị – kinh tế (tư bản hay xã hội chủ nghĩa; n ≈ 1.090) và phương pháp triết học chính trị (lý thuyết lý tưởng hay phi lý tưởng; n ≈ 790) — nhưng không câu nào hỏi ai nên nắm quyền quyết định cuối cùng hay có nên gắn quyền bầu cử với năng lực, nên không thể dùng chúng để đoán giới triết học nghiêng về Platon, Churchill hay Brennan.
+Khảo sát PhilPapers 2020 không có câu hỏi riêng về "ai nên cai trị" hay về chế độ tinh hoa tri thức trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài. Khảo sát *có* hỏi về triết học chính trị nói chung — câu chính "Triết học chính trị" (cộng đồng luận, chủ nghĩa bình đẳng hay chủ nghĩa tự do cá nhân; n ≈ 1.540), cùng hai câu bổ sung về chính trị – kinh tế (tư bản hay xã hội chủ nghĩa; n ≈ 1.090) và phương pháp triết học chính trị (lý thuyết lý tưởng hay phi lý tưởng; n ≈ 790) — nhưng không câu nào hỏi ai nên nắm quyền quyết định cuối cùng hay có nên gắn quyền bầu cử với năng lực, nên không thể dùng chúng để đoán giới triết học nghiêng về Platon, Churchill hay Brennan.
 
 Trong giới triết học, cuốn *Against Democracy* (2016) của Brennan đã gây ra một cuộc tranh luận lớn — với nhiều công trình phản bác (bênh vực giá trị nội tại của quyền bầu cử bình đẳng) và một số công trình phát triển tiếp ý tưởng epistocracy theo hướng ôn hòa hơn. Platon thì, như mọi khi, vẫn ở đó — không phải như một đề xuất thể chế nghiêm túc, mà như một bài kiểm tra mà mọi lý thuyết dân chủ đều phải vượt qua: *bạn đối phó thế nào với sự thiếu hiểu biết của cử tri?* Nhưng trong đợt khảo sát 2020, không có câu nào hỏi trực tiếp "bạn có ủng hộ epistocracy không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
@@ -9445,7 +9445,7 @@ Nền tảng nhân tính của Hàn Phi lạnh lùng và thực tế: con ngư�
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về Nho giáo, Pháp gia, đức trị hay pháp trị — không hỏi "nên cai trị bằng đức hay bằng pháp", cũng không hỏi về Khổng Tử, Mạnh Tử hay Hàn Phi. Nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài. (Câu gần nhất là câu bổ sung "Luật pháp" — thực chứng luận pháp lý hay không — nhưng câu ấy hỏi luật *là gì*, tức giá trị pháp lý của luật có phụ thuộc vào đạo đức hay không, chứ không hỏi nên cai trị bằng đức hay bằng pháp.)
 
-Điều này phản ánh một thực tế: giới triết học chuyên nghiệp được khảo sát chủ yếu làm việc trong truyền thống phương Tây, và triết học chính trị Trung Hoa cổ đại vẫn là lĩnh vực chuyên biệt. Nhưng điều đó không có nghĩa cuộc tranh luận đức trị–pháp trị đã lỗi thời — ngược lại, nó đang sống lại dưới những cái tên mới: "nhà nước pháp quyền vs chuyên chế", "lãnh đạo có đạo đức vs thiết chế tốt", "tin vào con người vs tin vào hệ thống". Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp về nó. Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán "đa số triết gia nghĩ gì" từ ấn tượng cá nhân.
+Điều này phản ánh một thực tế: giới triết học chuyên nghiệp được khảo sát chủ yếu làm việc trong truyền thống phương Tây, và triết học chính trị Trung Hoa cổ đại vẫn là lĩnh vực chuyên biệt. Nhưng điều đó không có nghĩa cuộc tranh luận đức trị–pháp trị đã lỗi thời — ngược lại, nó đang sống lại dưới những cái tên mới: "nhà nước pháp quyền vs chuyên chế", "lãnh đạo có đạo đức vs thiết chế tốt", "tin vào con người vs tin vào hệ thống". Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp về nó. Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán "đa số triết gia nghĩ gì" từ ấn tượng cá nhân.
 
 ## Liên hệ đời sống
 
@@ -9639,7 +9639,7 @@ Một luận điểm phụ quan trọng: cần phân biệt *quyền được n�
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
+Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
 Điều này không có nghĩa là giới triết học thờ ơ — tự do ngôn luận là một trong những chủ đề được viết nhiều nhất trong triết học chính trị và triết học pháp luật, đặc biệt sôi nổi từ những năm 2010 với sự bùng nổ của mạng xã hội, tin giả và tranh luận về "văn hóa hủy bỏ". Mill vẫn là điểm xuất phát bắt buộc; Popper được viện dẫn thường xuyên; còn phe "ngôn từ gây hại" ngày càng có nhiều công trình học thuật. Chỉ là trong đợt khảo sát 2020, không có câu nào hỏi trực tiếp "bạn ủng hộ tự do ngôn luận đến mức nào", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
@@ -9845,21 +9845,21 @@ Khảo sát PhilPapers 2020 không hỏi về nữ quyền bình đẳng, lý th
 
 | Câu hỏi | Lựa chọn | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|---|
-| Giới (*gender*) thuộc loại gì? (câu chính, n ≈ 1.650) | Xã hội | 63,1% | 43,0% |
-| | Sinh học | 29,0% | 15,1% |
-| | Tâm lý | 21,5% | 4,3% |
-| | Không có thật | 4,2% | 1,6% |
-| | Khác | 14,8% | |
-| Phạm trù giới — nên làm gì với chúng? (câu bổ sung, n ≈ 980) | Sửa đổi | 50,9% | |
-| | Giữ nguyên | 20,4% | |
-| | Loại bỏ | 16,3% | |
-| | Khác | 15,3% | |
+| Giới (*gender*) thuộc loại gì? (câu chính, n ≈ [[pp:gioi-gender-thuoc-loai-gi/n]]) | Xã hội | [[pp:gioi-gender-thuoc-loai-gi.xa-hoi]]% | [[pp:gioi-gender-thuoc-loai-gi.xa-hoi/loai-tru]]% |
+| | Sinh học | [[pp:gioi-gender-thuoc-loai-gi.sinh-hoc]]% | [[pp:gioi-gender-thuoc-loai-gi.sinh-hoc/loai-tru]]% |
+| | Tâm lý | [[pp:gioi-gender-thuoc-loai-gi.tam-ly]]% | [[pp:gioi-gender-thuoc-loai-gi.tam-ly/loai-tru]]% |
+| | Không có thật | [[pp:gioi-gender-thuoc-loai-gi.khong-co-that]]% | [[pp:gioi-gender-thuoc-loai-gi.khong-co-that/loai-tru]]% |
+| | Khác | [[pp:gioi-gender-thuoc-loai-gi.khac]]% | |
+| Phạm trù giới — nên làm gì với chúng? (câu bổ sung, n ≈ [[pp:pham-tru-gioi-nen-lam-gi-voi-chung/n]]) | Sửa đổi | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.sua-doi]]% | |
+| | Giữ nguyên | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.giu-nguyen]]% | |
+| | Loại bỏ | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.loai-bo]]% | |
+| | Khác | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Gender" và câu bổ sung "Gender categories". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng vượt 100%. Cột cuối chỉ tính người chọn duy nhất đáp án đó (bài báo chỉ in khi khác cột trước từ 3 điểm trở lên).
 
 Đọc số liệu: phần đông người trả lời chấp nhận hoặc nghiêng về quan niệm giới là một loại *xã hội* — gần với ý của de Beauvoir rằng những gì gọi là "bản chất phụ nữ" phần lớn do xã hội nặn ra. Nhưng chỉ 43,0% chọn *duy nhất* "xã hội": nhiều người cho rằng giới vừa có phần xã hội vừa có phần sinh học hay tâm lý. Ở câu bổ sung, khoảng một nửa muốn *sửa đổi* các phạm trù giới, chứ không giữ nguyên hay xóa bỏ — gần với hướng "cải thiện khái niệm" mà một số triết gia nữ quyền như Sally Haslanger theo đuổi. Hai câu này không hỏi người ta có ủng hộ nữ quyền không, cũng không hỏi về standpoint hay đạo đức chăm sóc. Mẫu là khoảng 1.000–1.650 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020: con số không đại diện cho mọi truyền thống, và tỉ lệ đồng thuận không quyết định ai đúng.
 
-Triết học nữ quyền là một trong những hướng nghiên cứu phát triển mạnh trong triết học đương đại từ những năm 1980 đến nay — với các tạp chí chuyên ngành, các khoa và chương trình đào tạo riêng. Nhưng trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn nghiêng về nữ quyền bình đẳng hay nữ quyền khác biệt" hay "bạn chấp nhận đạo đức chăm sóc không". Vì vậy, với ba lập trường chính của bài, ta không có con số nào để trích — và cũng không nên suy đoán từ hai câu về giới ở trên.
+Triết học nữ quyền là một trong những hướng nghiên cứu phát triển mạnh trong triết học đương đại từ những năm 1980 đến nay — với các tạp chí chuyên ngành, các khoa và chương trình đào tạo riêng. Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn nghiêng về nữ quyền bình đẳng hay nữ quyền khác biệt" hay "bạn chấp nhận đạo đức chăm sóc không". Vì vậy, với ba lập trường chính của bài, ta không có con số nào để trích — và cũng không nên suy đoán từ hai câu về giới ở trên.
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều là những lập trường nghiêm túc còn đang tranh luận — và ranh giới giữa chúng không cứng như cách trình bày trong bài. Nhiều triết gia nữ quyền đương đại đồng thời: ủng hộ chính sách bình đẳng thực chất (lập trường 1), dùng phương pháp standpoint để phê phán các khái niệm "trung lập" (lập trường 2), và bênh vực giá trị của chăm sóc trong đạo đức (lập trường 3). Câu hỏi khó không phải "chọn phe nào", mà là khi ba yêu cầu xung đột — ví dụ khi chính sách "đối xử giống nhau" (lập trường 1) vô tình củng cố chuẩn mực nam giới (điều lập trường 2 cảnh báo) — ta ưu tiên cái nào?
 
@@ -10044,9 +10044,9 @@ Các nhà phê phán hiện đại, tiêu biểu là Jeff McMahan (*Killing in W
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 không có câu hỏi riêng về chiến tranh hay đạo đức chiến tranh trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
+Khảo sát PhilPapers 2020 không có câu hỏi riêng về chiến tranh hay đạo đức chiến tranh trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
-Trong giới triết học, cuộc tranh luận giữa Walzer và các nhà xét lại (McMahan và đồng sự) là một trong những cuộc tranh luận sôi nổi nhất của đạo đức học ứng dụng từ những năm 2000 đến nay — với hàng loạt sách và hội thảo. Nhưng trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có cho rằng chiến tranh có thể chính đáng không" hay "bạn đứng về phía Walzer hay McMahan", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
+Trong giới triết học, cuộc tranh luận giữa Walzer và các nhà xét lại (McMahan và đồng sự) là một trong những cuộc tranh luận sôi nổi nhất của đạo đức học ứng dụng từ những năm 2000 đến nay — với hàng loạt sách và hội thảo. Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có cho rằng chiến tranh có thể chính đáng không" hay "bạn đứng về phía Walzer hay McMahan", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
 Một điểm đáng chú ý cho người đọc: các nguyên tắc *jus in bello* (phân biệt, tương xứng) không chỉ nằm trên giấy triết học — chúng là nền tảng của luật nhân đạo quốc tế (các Công ước Geneva; hai nguyên tắc này được ghi thành điều khoản rõ ràng trong Nghị định thư bổ sung I năm 1977 — cũng là năm Walzer xuất bản sách của mình). Triết học và luật pháp ở đây đi cùng nhau: triết học đặt câu hỏi "vì sao", luật pháp trả lời "làm thế nào để thực thi".
 
@@ -10243,9 +10243,9 @@ Nội dung cụ thể của các nghĩa vụ này là điều gây tranh cãi, n
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 không có câu hỏi riêng về biên giới, di cư hay đạo đức nhập cư trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
+Khảo sát PhilPapers 2020 không có câu hỏi riêng về biên giới, di cư hay đạo đức nhập cư trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
-Trong giới triết học, đạo đức nhập cư là một ngành bùng nổ từ sau bài báo 1987 của Carens — với hàng loạt công trình bênh vực và phản bác cả hai phía, từ "biên giới mở hoàn toàn" đến "quyền loại trừ gần như tuyệt đối". Nhưng trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "quốc gia có quyền đóng cửa biên giới không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
+Trong giới triết học, đạo đức nhập cư là một ngành bùng nổ từ sau bài báo 1987 của Carens — với hàng loạt công trình bênh vực và phản bác cả hai phía, từ "biên giới mở hoàn toàn" đến "quyền loại trừ gần như tuyệt đối". Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "quốc gia có quyền đóng cửa biên giới không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
 Một điểm đáng chú ý: không giống nhiều chủ đề triết học khác, tranh luận về biên giới có một "phòng thí nghiệm thực tế" khổng lồ — chính sách nhập cư của các nước, các cuộc khủng hoảng người tị nạn, và dư luận công chúng. Triết học ở đây không bay bổng trên mây; mỗi lập luận đều có thể đối chiếu với hậu quả thật của chính sách thật.
 
@@ -10472,17 +10472,17 @@ Và có lẽ đó là bài học lớn nhất của mỹ học: học cách tran
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 hỏi thẳng câu hỏi của bài này: giá trị thẩm mỹ là *khách quan* hay *chủ quan*? Đây là một trong 40 câu chính, hỏi mọi người tham gia. Khảo sát còn có một câu bổ sung về bản chất của *trải nghiệm thẩm mỹ*.
+Khảo sát PhilPapers 2020 hỏi thẳng câu hỏi của bài này: giá trị thẩm mỹ là *khách quan* hay *chủ quan*? Đây là một trong [[pp:khao-sat/cau-chinh]] câu chính, hỏi mọi người tham gia. Khảo sát còn có một câu bổ sung về bản chất của *trải nghiệm thẩm mỹ*.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Giá trị thẩm mỹ (n ≈ 1.700) | Khách quan | 43,5 |
-| | Chủ quan | 40,6 |
-| | Khác | 18,9 |
-| Trải nghiệm thẩm mỹ* (n ≈ 690) | Đặc thù riêng (*sui generis*) | 37,2 |
-| | Tri giác | 28,2 |
-| | Khoái cảm | 14,2 |
-| | Khác | 24,4 |
+| Giá trị thẩm mỹ (n ≈ [[pp:gia-tri-tham-my/n]]) | Khách quan | [[pp:gia-tri-tham-my.khach-quan]] |
+| | Chủ quan | [[pp:gia-tri-tham-my.chu-quan]] |
+| | Khác | [[pp:gia-tri-tham-my.khac]] |
+| Trải nghiệm thẩm mỹ* (n ≈ [[pp:trai-nghiem-tham-my/n]]) | Đặc thù riêng (*sui generis*) | [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]] |
+| | Tri giác | [[pp:trai-nghiem-tham-my.tri-giac]] |
+| | Khoái cảm | [[pp:trai-nghiem-tham-my.khoai-cam]] |
+| | Khác | [[pp:trai-nghiem-tham-my.khac]] |
 
 \* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm, nên ít người trả lời hơn nhiều.
 
@@ -10493,7 +10493,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Giới chuyên môn chia gần đôi.** "Khách quan" chỉ nhỉnh hơn "chủ quan" chưa tới 3 điểm phần trăm, và không lựa chọn nào đạt đa số: câu hỏi "chủ quan hay khách quan" vẫn chưa có lời đáp được đa số chấp nhận.
 - **Câu hỏi chỉ có hai nhãn — còn Hume và Kant thì không vừa khít nhãn nào.** Cả hai đều cho rằng cái đẹp dựa trên cảm giác (nghe như "chủ quan"), nhưng một người tìm ra chuẩn mực, một người thấy phán đoán thẩm mỹ đòi mọi người đồng ý (nghe như "khách quan"). Vì vậy bảng không cho biết bao nhiêu triết gia theo Hume hay theo Kant.
 - **Câu về trải nghiệm thẩm mỹ hỏi chuyện khác:** trải nghiệm ấy là một dạng tri giác, một dạng khoái cảm, hay một loại riêng không quy về hai thứ kia. Ý của Kant về sự thích thú "vô vụ lợi" có liên quan, nhưng câu hỏi không nhắc tới Kant, nên đừng đọc 37,2% là tỉ lệ ủng hộ Kant.
-- **Mẫu khảo sát** là khoảng 1.785 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020; nó không đại diện cho mọi truyền thống mỹ học, chẳng hạn mỹ học phương Đông.
+- **Mẫu khảo sát** là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020; nó không đại diện cho mọi truyền thống mỹ học, chẳng hạn mỹ học phương Đông.
 
 Ngoài con số, có thể nói rằng tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của hầu hết giáo trình mỹ học đương đại.
 
@@ -10679,13 +10679,13 @@ Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về "nghệ thuật
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Giá trị thẩm mỹ (n ≈ 1.700) | Khách quan | 43,5 |
-| | Chủ quan | 40,6 |
-| | Khác | 18,9 |
-| Trải nghiệm thẩm mỹ* (n ≈ 690) | Đặc thù riêng (*sui generis*) | 37,2 |
-| | Tri giác | 28,2 |
-| | Khoái cảm | 14,2 |
-| | Khác | 24,4 |
+| Giá trị thẩm mỹ (n ≈ [[pp:gia-tri-tham-my/n]]) | Khách quan | [[pp:gia-tri-tham-my.khach-quan]] |
+| | Chủ quan | [[pp:gia-tri-tham-my.chu-quan]] |
+| | Khác | [[pp:gia-tri-tham-my.khac]] |
+| Trải nghiệm thẩm mỹ* (n ≈ [[pp:trai-nghiem-tham-my/n]]) | Đặc thù riêng (*sui generis*) | [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]] |
+| | Tri giác | [[pp:trai-nghiem-tham-my.tri-giac]] |
+| | Khoái cảm | [[pp:trai-nghiem-tham-my.khoai-cam]] |
+| | Khác | [[pp:trai-nghiem-tham-my.khac]] |
 
 \* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm; câu "Giá trị thẩm mỹ" là câu chính, hỏi mọi người tham gia.
 
@@ -10696,7 +10696,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - Hai câu này hỏi về *giá trị* và *trải nghiệm* thẩm mỹ, không hỏi một vật cần gì để *là* tác phẩm nghệ thuật. Không thể suy ra từ đây bao nhiêu triết gia theo Tolstoy, Bell, thuyết thể chế hay Weitz.
 - Câu thứ nhất chính là câu hỏi của bài [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md): giới chuyên môn chia gần đôi giữa "khách quan" và "chủ quan".
 - Câu thứ hai gần với một ý trong bài này: Bell cho rằng có một "cảm xúc thẩm mỹ" riêng biệt. Nhưng câu hỏi khảo sát hỏi về trải nghiệm thẩm mỹ nói chung, không hỏi về lý thuyết của Bell, nên 37,2% chọn "đặc thù riêng" không phải là 37,2% ủng hộ Bell.
-- Mẫu khảo sát là khoảng 1.785 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020 — trước vụ tranh AI đoạt giải năm 2022 kể ở dưới.
+- Mẫu khảo sát là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020 — trước vụ tranh AI đoạt giải năm 2022 kể ở dưới.
 
 Về chính câu hỏi định nghĩa, cuộc tranh luận vẫn còn mở. Weitz (1956) cho rằng không thể định nghĩa nghệ thuật; Danto và Dickie thì đưa ra những định nghĩa dựa vào *quan hệ* của tác phẩm với thế giới nghệ thuật thay vì vào những gì mắt thấy; và đến nay các định nghĩa thể chế, lịch sử, thẩm mỹ... vẫn được bênh vực song song. Một hướng được bàn nhiều là xem "nghệ thuật" như một khái niệm *cụm* (*cluster concept*; chẳng hạn Berys Gaut, 2000): một vật càng có nhiều đặc trưng trong cụm (có phẩm chất thẩm mỹ, biểu đạt cảm xúc, đòi hỏi kỹ năng cao, thuộc một loại hình nghệ thuật đã có, được làm ra với ý định tạo tác phẩm nghệ thuật...) thì càng chắc chắn là nghệ thuật — mà không cần một điều kiện duy nhất nào. Và biết đâu, chính sự khó định nghĩa lại là một phần của cái làm cho nghệ thuật thú vị.
 
@@ -10880,15 +10880,15 @@ Khảo sát PhilPapers 2020 có hai câu hỏi liên quan trực tiếp: một c
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thượng đế (câu chính, n ≈ 1.770) | Hữu thần (*theism*) | 18,9 |
-| | Vô thần (*atheism*) | 66,9 |
-| | Khác | 14,0 |
-| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ 1.020) | Vũ trụ luận | 20,9 |
-| | Thiết kế (mục đích luận) | 17,7 |
-| | Bản thể luận | 8,9 |
-| | Thực dụng | 14,2 |
-| | Đạo đức | 9,4 |
-| | Khác | 25,2 |
+| Thượng đế (câu chính, n ≈ [[pp:thuong-de/n]]) | Hữu thần (*theism*) | [[pp:thuong-de.huu-than]] |
+| | Vô thần (*atheism*) | [[pp:thuong-de.vo-than]] |
+| | Khác | [[pp:thuong-de.khac]] |
+| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]]) | Vũ trụ luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]] |
+| | Thiết kế (mục đích luận) | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thiet-ke-muc-dich-luan]] |
+| | Bản thể luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]] |
+| | Thực dụng | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thuc-dung]] |
+| | Đạo đức | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.dao-duc]] |
+| | Khác | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
@@ -11058,15 +11058,15 @@ Khảo sát PhilPapers 2020 có một câu chính về Thượng đế, và mộ
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thượng đế (câu chính, n ≈ 1.770) | Hữu thần (*theism*) | 18,9 |
-| | Vô thần (*atheism*) | 66,9 |
-| | Khác | 14,0 |
-| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ 1.020) | Vũ trụ luận | 20,9 |
-| | Thiết kế (mục đích luận) | 17,7 |
-| | Bản thể luận | 8,9 |
-| | Thực dụng | 14,2 |
-| | Đạo đức | 9,4 |
-| | Khác | 25,2 |
+| Thượng đế (câu chính, n ≈ [[pp:thuong-de/n]]) | Hữu thần (*theism*) | [[pp:thuong-de.huu-than]] |
+| | Vô thần (*atheism*) | [[pp:thuong-de.vo-than]] |
+| | Khác | [[pp:thuong-de.khac]] |
+| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]]) | Vũ trụ luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]] |
+| | Thiết kế (mục đích luận) | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thiet-ke-muc-dich-luan]] |
+| | Bản thể luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]] |
+| | Thực dụng | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thuc-dung]] |
+| | Đạo đức | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.dao-duc]] |
+| | Khác | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án.
 
@@ -11452,15 +11452,15 @@ Khảo sát PhilPapers 2020 **có** câu hỏi chạm thẳng vào vấn đề p
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tính chất (*properties*) (câu bổ sung, n ≈ 780) | Lớp (tập hợp các vật) | 11,5 |
-| | Phổ quát nội tại (kiểu [Aristotle](../triet-gia/aristotle.md)) | 20,6 |
-| | Phổ quát siêu việt (kiểu Platon) | 19,8 |
-| | Trope (tính chất cá biệt) | 15,3 |
-| | Không tồn tại | 8,1 |
-| | Khác | 29,1 |
-| Đối tượng trừu tượng (câu chính, n ≈ 1.640) | Thuyết Platon (*Platonism*) | 38,4 |
-| | Duy danh luận (*nominalism*) | 41,9 |
-| | Khác | 19,7 |
+| Tính chất (*properties*) (câu bổ sung, n ≈ [[pp:tinh-chat-properties/n]]) | Lớp (tập hợp các vật) | [[pp:tinh-chat-properties.lop-tap-hop]] |
+| | Phổ quát nội tại (kiểu [Aristotle](../triet-gia/aristotle.md)) | [[pp:tinh-chat-properties.pho-quat-noi-tai-kieu-aristotle]] |
+| | Phổ quát siêu việt (kiểu Platon) | [[pp:tinh-chat-properties.pho-quat-sieu-viet-kieu-platon]] |
+| | Trope (tính chất cá biệt) | [[pp:tinh-chat-properties.trope-tinh-chat-ca-biet]] |
+| | Không tồn tại | [[pp:tinh-chat-properties.khong-ton-tai]] |
+| | Khác | [[pp:tinh-chat-properties.khac]] |
+| Đối tượng trừu tượng (câu chính, n ≈ [[pp:doi-tuong-truu-tuong/n]]) | Thuyết Platon (*Platonism*) | [[pp:doi-tuong-truu-tuong.thuyet-platon-platonism]] |
+| | Duy danh luận (*nominalism*) | [[pp:doi-tuong-truu-tuong.duy-danh-luan-nominalism]] |
+| | Khác | [[pp:doi-tuong-truu-tuong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
@@ -11472,13 +11472,13 @@ Khảo sát còn có hai câu bổ sung chạm vào câu mở đầu bài ("cái
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Cấu thành vật chất — khi nào nhiều vật hợp thành một vật? (câu bổ sung, n ≈ 570) | Không bao giờ (hư vô luận) | 8,2 |
-| | Đôi khi (hạn chế luận) | 35 |
-| | Luôn luôn (phổ biến luận) | 27,4 |
-| | Khác | 30,1 |
-| Bức tượng và khối đất sét (câu bổ sung, n ≈ 960) | Một vật | 30,1 |
-| | Hai vật | 41,8 |
-| | Khác | 28,1 |
+| Cấu thành vật chất — khi nào nhiều vật hợp thành một vật? (câu bổ sung, n ≈ [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat/n]]) | Không bao giờ (hư vô luận) | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.khong-bao-gio-hu-vo-luan]] |
+| | Đôi khi (hạn chế luận) | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.doi-khi-han-che-luan]] |
+| | Luôn luôn (phổ biến luận) | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.luon-luon-pho-bien-luan]] |
+| | Khác | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.khac]] |
+| Bức tượng và khối đất sét (câu bổ sung, n ≈ [[pp:buc-tuong-va-khoi-dat-set/n]]) | Một vật | [[pp:buc-tuong-va-khoi-dat-set.mot-vat]] |
+| | Hai vật | [[pp:buc-tuong-va-khoi-dat-set.hai-vat]] |
+| | Khác | [[pp:buc-tuong-va-khoi-dat-set.khac]] |
 
 Nguồn: như trên (Bảng 2).
 
@@ -11692,15 +11692,15 @@ Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào chủ đề n
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tính chất (*properties*) (câu bổ sung, n ≈ 780) | Lớp (tập hợp các vật) | 11,5 |
-| | Phổ quát nội tại (kiểu Aristotle) | 20,6 |
-| | Phổ quát siêu việt (kiểu Platon) | 19,8 |
-| | Trope (tính chất cá biệt) | 15,3 |
-| | Không tồn tại | 8,1 |
-| | Khác | 29,1 |
-| Đối tượng trừu tượng (câu chính, n ≈ 1.640) | Thuyết Platon (*Platonism*) | 38,4 |
-| | Duy danh luận (*nominalism*) | 41,9 |
-| | Khác | 19,7 |
+| Tính chất (*properties*) (câu bổ sung, n ≈ [[pp:tinh-chat-properties/n]]) | Lớp (tập hợp các vật) | [[pp:tinh-chat-properties.lop-tap-hop]] |
+| | Phổ quát nội tại (kiểu Aristotle) | [[pp:tinh-chat-properties.pho-quat-noi-tai-kieu-aristotle]] |
+| | Phổ quát siêu việt (kiểu Platon) | [[pp:tinh-chat-properties.pho-quat-sieu-viet-kieu-platon]] |
+| | Trope (tính chất cá biệt) | [[pp:tinh-chat-properties.trope-tinh-chat-ca-biet]] |
+| | Không tồn tại | [[pp:tinh-chat-properties.khong-ton-tai]] |
+| | Khác | [[pp:tinh-chat-properties.khac]] |
+| Đối tượng trừu tượng (câu chính, n ≈ [[pp:doi-tuong-truu-tuong/n]]) | Thuyết Platon (*Platonism*) | [[pp:doi-tuong-truu-tuong.thuyet-platon-platonism]] |
+| | Duy danh luận (*nominalism*) | [[pp:doi-tuong-truu-tuong.duy-danh-luan-nominalism]] |
+| | Khác | [[pp:doi-tuong-truu-tuong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
@@ -11893,16 +11893,16 @@ Khảo sát PhilPapers 2020 có cả một nhóm câu hỏi về thời gian: c�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thời gian (câu chính, n ≈ 1.120) | Thuyết A (*A-theory*) | 27,2 |
-| | Thuyết B (*B-theory*) | 38,2 |
-| | Khác | 36,2 |
-| Bản thể luận thời gian (câu bổ sung, n ≈ 730) | Hiện tại luận | 18,4 |
-| | Vĩnh cửu luận | 39,9 |
-| | Thuyết khối đang lớn | 17,0 |
-| | Khác | 24,9 |
-| Du hành thời gian (câu bổ sung, n ≈ 950) | Khả hữu về siêu hình | 42,3 |
-| | Bất khả về siêu hình | 41,0 |
-| | Khác | 16,7 |
+| Thời gian (câu chính, n ≈ [[pp:thoi-gian/n]]) | Thuyết A (*A-theory*) | [[pp:thoi-gian.thuyet-a]] |
+| | Thuyết B (*B-theory*) | [[pp:thoi-gian.thuyet-b]] |
+| | Khác | [[pp:thoi-gian.khac]] |
+| Bản thể luận thời gian (câu bổ sung, n ≈ [[pp:ban-the-luan-thoi-gian/n]]) | Hiện tại luận | [[pp:ban-the-luan-thoi-gian.hien-tai-luan]] |
+| | Vĩnh cửu luận | [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]] |
+| | Thuyết khối đang lớn | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
+| | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
+| Du hành thời gian (câu bổ sung, n ≈ [[pp:du-hanh-thoi-gian/n]]) | Khả hữu về siêu hình | [[pp:du-hanh-thoi-gian.kha-huu-ve-sieu-hinh]] |
+| | Bất khả về siêu hình | [[pp:du-hanh-thoi-gian.bat-kha-ve-sieu-hinh]] |
+| | Khác | [[pp:du-hanh-thoi-gian.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án.
 
@@ -12063,14 +12063,14 @@ Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào bài này: m�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Nhân quả (câu bổ sung, n ≈ 890) | Phản thực / tạo khác biệt | 37,2 |
-| | Quá trình / sản sinh | 22,5 |
-| | Nguyên thủy (không phân tích được) | 20,5 |
-| | Không tồn tại | 4,1 |
-| | Khác | 20,6 |
-| Quy luật tự nhiên (câu chính, n ≈ 1.550) | Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn) | 31,3 |
-| | Phi Hume | 54,3 |
-| | Khác | 14,9 |
+| Nhân quả (câu bổ sung, n ≈ [[pp:nhan-qua/n]]) | Phản thực / tạo khác biệt | [[pp:nhan-qua.phan-thuc-tao-khac-biet]] |
+| | Quá trình / sản sinh | [[pp:nhan-qua.qua-trinh-san-sinh]] |
+| | Nguyên thủy (không phân tích được) | [[pp:nhan-qua.nguyen-thuy-khong-phan-tich-duoc]] |
+| | Không tồn tại | [[pp:nhan-qua.khong-ton-tai]] |
+| | Khác | [[pp:nhan-qua.khac]] |
+| Quy luật tự nhiên (câu chính, n ≈ [[pp:quy-luat-tu-nhien/n]]) | Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn) | [[pp:quy-luat-tu-nhien.kieu-hume-quy-luat-chi-tom-tat-cac-khuon-mau-deu-dan]] |
+| | Phi Hume | [[pp:quy-luat-tu-nhien.phi-hume]] |
+| | Khác | [[pp:quy-luat-tu-nhien.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
@@ -12265,23 +12265,23 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về lập luận Kalam
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thượng đế (câu chính, n ≈ 1.770) | Hữu thần | 18,9 |
-| | Vô thần | 66,9 |
-| | Khác | 14,0 |
-| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ 1.020) | Vũ trụ luận | 20,9 |
-| | Thiết kế (mục đích luận) | 17,7 |
-| | Bản thể luận | 8,9 |
-| | Thực dụng | 14,2 |
-| | Đạo đức | 9,4 |
-| | Khác | 25,2 |
-| Tinh chỉnh vũ trụ — giải thích bằng gì? (câu bổ sung, n ≈ 810) | Thiết kế | 17,3 |
-| | Đa vũ trụ | 15,1 |
-| | Sự thật trần trụi (không cần giải thích) | 32,1 |
-| | Không có tinh chỉnh | 21,7 |
-| | Khác | 17,8 |
-| Nguyên lý lý do đầy đủ (câu bổ sung, n ≈ 940) | Đúng | 35,9 |
-| | Sai | 45,7 |
-| | Khác | 18,5 |
+| Thượng đế (câu chính, n ≈ [[pp:thuong-de/n]]) | Hữu thần | [[pp:thuong-de.huu-than]] |
+| | Vô thần | [[pp:thuong-de.vo-than]] |
+| | Khác | [[pp:thuong-de.khac]] |
+| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]]) | Vũ trụ luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]] |
+| | Thiết kế (mục đích luận) | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thiet-ke-muc-dich-luan]] |
+| | Bản thể luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]] |
+| | Thực dụng | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thuc-dung]] |
+| | Đạo đức | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.dao-duc]] |
+| | Khác | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]] |
+| Tinh chỉnh vũ trụ — giải thích bằng gì? (câu bổ sung, n ≈ [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi/n]]) | Thiết kế | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.thiet-ke]] |
+| | Đa vũ trụ | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.da-vu-tru]] |
+| | Sự thật trần trụi (không cần giải thích) | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.su-that-tran-trui-khong-can-giai-thich]] |
+| | Không có tinh chỉnh | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.khong-co-tinh-chinh]] |
+| | Khác | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.khac]] |
+| Nguyên lý lý do đầy đủ (câu bổ sung, n ≈ [[pp:nguyen-ly-ly-do-day-du/n]]) | Đúng | [[pp:nguyen-ly-ly-do-day-du.dung]] |
+| | Sai | [[pp:nguyen-ly-ly-do-day-du.sai]] |
+| | Khác | [[pp:nguyen-ly-ly-do-day-du.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; mỗi người được tính vào mọi đáp án họ chọn, nên tổng có thể vượt 100%.
 
@@ -12475,18 +12475,18 @@ Khảo sát PhilPapers 2020 có ba câu hỏi liên quan trực tiếp đến b�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tâm trí (câu chính, n ≈ 1.730) | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| | Khác | 15,9 |
-| Vấn đề khó của ý thức có tồn tại không? (câu bổ sung, n ≈ 1.000) | Có | 62,4 |
-| | Không | 29,8 |
-| | Khác | 7,9 |
-| Ý thức: lý thuyết nào đúng? (câu bổ sung, n ≈ 1.020) | Nhị nguyên luận | 22,0 |
-| | Loại trừ luận | 4,5 |
-| | Chủ nghĩa chức năng | 33,0 |
-| | Thuyết đồng nhất | 13,3 |
-| | Toàn tâm luận (*panpsychism*) | 7,5 |
-| | Khác | 22,7 |
+| Tâm trí (câu chính, n ≈ [[pp:tam-tri/n]]) | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| | Khác | [[pp:tam-tri.khac]] |
+| Vấn đề khó của ý thức có tồn tại không? (câu bổ sung, n ≈ [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong/n]]) | Có | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.co]] |
+| | Không | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khong]] |
+| | Khác | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khac]] |
+| Ý thức: lý thuyết nào đúng? (câu bổ sung, n ≈ [[pp:y-thuc-ly-thuyet/n]]) | Nhị nguyên luận | [[pp:y-thuc-ly-thuyet.nhi-nguyen-luan]] |
+| | Loại trừ luận | [[pp:y-thuc-ly-thuyet.loai-tru-luan]] |
+| | Chủ nghĩa chức năng | [[pp:y-thuc-ly-thuyet.chu-nghia-chuc-nang]] |
+| | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
+| | Toàn tâm luận (*panpsychism*) | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
+| | Khác | [[pp:y-thuc-ly-thuyet.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
@@ -12684,7 +12684,7 @@ Khảo sát PhilPapers 2020 **không có câu hỏi nào** về giả thuyết m
 
 Có một câu hỏi nghe có vẻ liên quan — "Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)": sống sót 27,5% / chết 54,2% — nhưng đó là câu hỏi khác: nó hỏi liệu *bạn* có còn là bạn sau khi tâm trí được số hóa, chứ không hỏi liệu ta *đang* sống trong một mô phỏng của tổ tiên. Mượn con số đó sang đây sẽ là mượn sai chỗ — giống như dùng kết quả bầu cử quốc hội để đoán kết quả bầu cử phường. Vì vậy ta không dùng nó; ở đây, trung thực nhất là thừa nhận ta không có số liệu.
 
-Điều này không có nghĩa giới triết học không quan tâm — bài báo 2003 của Bostrom là một trong những bài triết học được trích dẫn và tranh luận nhiều nhất trong hai thập kỷ qua, và giả thuyết mô phỏng đã trở thành một chủ đề nghiêm túc trong triết học tâm trí, siêu hình học và triết học công nghệ. Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có nghĩ ta đang sống trong mô phỏng không".
+Điều này không có nghĩa giới triết học không quan tâm — bài báo 2003 của Bostrom là một trong những bài triết học được trích dẫn và tranh luận nhiều nhất trong hai thập kỷ qua, và giả thuyết mô phỏng đã trở thành một chủ đề nghiêm túc trong triết học tâm trí, siêu hình học và triết học công nghệ. Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có nghĩ ta đang sống trong mô phỏng không".
 
 ## Liên hệ đời sống
 
@@ -12863,13 +12863,13 @@ Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp về chủ đề n�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bản sắc cá nhân (câu chính, n ≈ 1.610) | Quan điểm tâm lý | 43,7 |
-| | Quan điểm sinh học | 19,1 |
-| | Quan điểm "sự kiện bổ sung" | 14,9 |
-| | Khác | 26,6 |
-| Máy dịch chuyển, vật chất mới (câu chính, n ≈ 1.570) | Sống sót | 35,2 |
-| | Chết | 40,1 |
-| | Khác | 24,8 |
+| Bản sắc cá nhân (câu chính, n ≈ [[pp:ban-sac-ca-nhan/n]]) | Quan điểm tâm lý | [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]] |
+| | Quan điểm sinh học | [[pp:ban-sac-ca-nhan.quan-diem-sinh-hoc]] |
+| | Quan điểm "sự kiện bổ sung" | [[pp:ban-sac-ca-nhan.quan-diem-su-kien-bo-sung]] |
+| | Khác | [[pp:ban-sac-ca-nhan.khac]] |
+| Máy dịch chuyển, vật chất mới (câu chính, n ≈ [[pp:may-dich-chuyen-vat-chat-moi/n]]) | Sống sót | [[pp:may-dich-chuyen-vat-chat-moi.song-sot]] |
+| | Chết | [[pp:may-dich-chuyen-vat-chat-moi.chet]] |
+| | Khác | [[pp:may-dich-chuyen-vat-chat-moi.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
@@ -13101,10 +13101,10 @@ Khảo sát PhilPapers 2020 có một câu hỏi chính (hỏi mọi người th
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Ý nghĩa cuộc sống (câu chính, n ≈ 1.730) | Chủ quan | 33,0 |
-| | Khách quan | 32,1 |
-| | Không tồn tại | 16,1 |
-| | Khác | 23,6 |
+| Ý nghĩa cuộc sống (câu chính, n ≈ [[pp:y-nghia-cuoc-song/n]]) | Chủ quan | [[pp:y-nghia-cuoc-song.chu-quan]] |
+| | Khách quan | [[pp:y-nghia-cuoc-song.khach-quan]] |
+| | Không tồn tại | [[pp:y-nghia-cuoc-song.khong-ton-tai]] |
+| | Khác | [[pp:y-nghia-cuoc-song.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
@@ -13263,13 +13263,13 @@ Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp liên quan đến b
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Máy trải nghiệm: có vào không? (câu chính, n ≈ 1.640) | Có | 13,3 |
-| | Không | 76,9 |
-| | Khác | 9,7 |
-| Phúc lợi (câu bổ sung, n ≈ 970) | Khoái lạc / trải nghiệm | 12,7 |
-| | Thỏa mãn ước muốn | 18,6 |
-| | Danh sách khách quan | 53,2 |
-| | Khác | 20,1 |
+| Máy trải nghiệm: có vào không? (câu chính, n ≈ [[pp:may-trai-nghiem-co-vao-khong/n]]) | Có | [[pp:may-trai-nghiem-co-vao-khong.co]] |
+| | Không | [[pp:may-trai-nghiem-co-vao-khong.khong]] |
+| | Khác | [[pp:may-trai-nghiem-co-vao-khong.khac]] |
+| Phúc lợi (câu bổ sung, n ≈ [[pp:phuc-loi-well-being/n]]) | Khoái lạc / trải nghiệm | 12,7 |
+| | Thỏa mãn ước muốn | [[pp:phuc-loi-well-being.thoa-man-uoc-muon]] |
+| | Danh sách khách quan | [[pp:phuc-loi-well-being.danh-sach-khach-quan]] |
+| | Khác | [[pp:phuc-loi-well-being.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
@@ -13465,7 +13465,7 @@ Nói cách khác, yêu là khi một con người cụ thể khiến ta *thực 
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về tình yêu hay triết học tình yêu, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Điều này không có nghĩa là triết học không bàn về tình yêu — ngược lại, từ Platon đến nay, tình yêu là một trong những chủ đề lâu đời nhất của triết học. Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp "tình yêu là gì" hay "bạn hiểu tình yêu theo nghĩa nào". Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán.
+Điều này không có nghĩa là triết học không bàn về tình yêu — ngược lại, từ Platon đến nay, tình yêu là một trong những chủ đề lâu đời nhất của triết học. Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp "tình yêu là gì" hay "bạn hiểu tình yêu theo nghĩa nào". Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán.
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều có đại diện nghiêm túc trong triết học đương đại và còn đang tranh luận. Hướng của Frankfurt — tình yêu như sự quan tâm không vụ lợi gắn với ý chí — đặc biệt có ảnh hưởng, một phần vì nó nối tình yêu với một câu hỏi lớn khác của triết học: [ta có tự do không](../cau-hoi/tu-do-y-chi.md), khi ngay cả việc ta yêu ai cũng không hoàn toàn do ta quyết định?
 
@@ -13683,9 +13683,9 @@ Khảo sát PhilPapers 2020 không hỏi thẳng câu hỏi của bài — trạ
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bất tử: bạn có chọn không? (câu bổ sung, n ≈ 1.110) | Có | 44,9 |
-| | Không | 41,3 |
-| | Khác | 13,6 |
+| Bất tử: bạn có chọn không? (câu bổ sung, n ≈ [[pp:bat-tu-ban-co-chon-khong/n]]) | Có | [[pp:bat-tu-ban-co-chon-khong.co]] |
+| | Không | [[pp:bat-tu-ban-co-chon-khong.khong]] |
+| | Khác | [[pp:bat-tu-ban-co-chon-khong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -15999,10 +15999,10 @@ Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định 
 
 | Câu hỏi (PhilPapers 2020) | Lựa chọn | % chấp nhận hoặc nghiêng về |
 |---|---|---|
-| Quy luật tự nhiên (câu chính, n ≈ 1.550) | Phi Hume | 54,3 |
-|  | Kiểu Hume (chỉ tóm tắt các khuôn mẫu đều đặn) | 31,3 |
-| Hume: quan điểm của ông là gì? (câu bổ sung, n ≈ 870) | Nhà tự nhiên luận | 54,9 |
-|  | Nhà hoài nghi | 36,5 |
+| Quy luật tự nhiên (câu chính, n ≈ [[pp:quy-luat-tu-nhien/n]]) | Phi Hume | [[pp:quy-luat-tu-nhien.phi-hume]] |
+|  | Kiểu Hume (chỉ tóm tắt các khuôn mẫu đều đặn) | [[pp:quy-luat-tu-nhien.kieu-hume-quy-luat-chi-tom-tat-cac-khuon-mau-deu-dan]] |
+| Hume: quan điểm của ông là gì? (câu bổ sung, n ≈ [[pp:hume-quan-diem-cua-ong-la-gi/n]]) | Nhà tự nhiên luận | [[pp:hume-quan-diem-cua-ong-la-gi.nha-tu-nhien-luan]] |
+|  | Nhà hoài nghi | [[pp:hume-quan-diem-cua-ong-la-gi.nha-hoai-nghi]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1–2; phần còn lại là "Khác". Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu bổ sung phần lớn do người tự nguyện trả lời. Khảo sát không hỏi vấn đề quy nạp đã được giải chưa.
 
@@ -16389,12 +16389,12 @@ Ngay trước đó, Russell đặt đối lập với "sự tự khẳng định
 
 *Cách đáp lại:* phần tiến bộ chắc chắn nhất thường rời triết học để thành khoa học (XV.4). Và giới triết học không cho rằng nghề mình đứng yên, dù người trong nghề dễ lạc quan về nghề mình:
 
-| Tiến bộ triết học có không? (PhilPapers 2020, câu chính, n ≈ 1.770) | % chấp nhận hoặc nghiêng về |
+| Tiến bộ triết học có không? (PhilPapers 2020, câu chính, n ≈ [[pp:tien-bo-triet-hoc-co-khong/n]]) | % chấp nhận hoặc nghiêng về |
 |---|---|
-| Không có | 3,8 |
-| Một ít | 46,6 |
-| Nhiều | 41,7 |
-| Khác | 8,4 |
+| Không có | [[pp:tien-bo-triet-hoc-co-khong.khong-co]] |
+| Một ít | [[pp:tien-bo-triet-hoc-co-khong.mot-it]] |
+| Nhiều | [[pp:tien-bo-triet-hoc-co-khong.nhieu]] |
+| Khác | [[pp:tien-bo-triet-hoc-co-khong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1. Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu hỏi không định nghĩa "tiến bộ".
 

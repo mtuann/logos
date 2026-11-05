@@ -113,18 +113,18 @@ Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sun
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Siêu đạo đức học (câu chính, n ≈ 1.720) | Hiện thực luận đạo đức | 62,1 |
-| | Phản hiện thực luận đạo đức | 26,1 |
-| | Khác | 11,8 |
-| Phán đoán đạo đức (câu chính, n ≈ 1.630) | Thuyết nhận thức | 69,3 |
-| | Thuyết phi nhận thức | 20,7 |
-| | Khác | 10,3 |
-| Bản chất của đạo đức (câu bổ sung, n ≈ 1.030) | Hiện thực luận tự nhiên | 31,6 |
-| | Phi tự nhiên luận | 26,6 |
-| | Kiến tạo luận | 20,8 |
-| | Biểu cảm luận | 10,6 |
-| | Thuyết sai lầm | 5,3 |
-| | Khác | 11,6 |
+| Siêu đạo đức học (câu chính, n ≈ [[pp:sieu-dao-duc-hoc-meta-ethics/n]]) | Hiện thực luận đạo đức | [[pp:sieu-dao-duc-hoc-meta-ethics.hien-thuc-luan-dao-duc-moral-realism]] |
+| | Phản hiện thực luận đạo đức | [[pp:sieu-dao-duc-hoc-meta-ethics.phan-hien-thuc-luan-dao-duc]] |
+| | Khác | [[pp:sieu-dao-duc-hoc-meta-ethics.khac]] |
+| Phán đoán đạo đức (câu chính, n ≈ [[pp:phan-doan-dao-duc/n]]) | Thuyết nhận thức | [[pp:phan-doan-dao-duc.thuyet-nhan-thuc-cognitivism]] |
+| | Thuyết phi nhận thức | [[pp:phan-doan-dao-duc.thuyet-phi-nhan-thuc-non-cognitivism]] |
+| | Khác | [[pp:phan-doan-dao-duc.khac]] |
+| Bản chất của đạo đức (câu bổ sung, n ≈ [[pp:ban-chat-cua-dao-duc/n]]) | Hiện thực luận tự nhiên | [[pp:ban-chat-cua-dao-duc.hien-thuc-luan-tu-nhien]] |
+| | Phi tự nhiên luận | [[pp:ban-chat-cua-dao-duc.phi-tu-nhien-luan]] |
+| | Kiến tạo luận | [[pp:ban-chat-cua-dao-duc.kien-tao-luan]] |
+| | Biểu cảm luận | [[pp:ban-chat-cua-dao-duc.bieu-cam-luan-expressivism]] |
+| | Thuyết sai lầm | [[pp:ban-chat-cua-dao-duc.thuyet-sai-lam-error-theory]] |
+| | Khác | [[pp:ban-chat-cua-dao-duc.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là % người "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 

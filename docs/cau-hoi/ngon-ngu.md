@@ -108,9 +108,9 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về giả thuyết Sapir
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Wittgenstein: bạn thích giai đoạn nào hơn?* | Giai đoạn sau (thời *Philosophical Investigations*) | 57,5 |
-| | Giai đoạn đầu (thời *Tractatus*) | 24,6 |
-| | Khác | 17,2 |
+| Wittgenstein: bạn thích giai đoạn nào hơn?* | Giai đoạn sau (thời *Philosophical Investigations*) | [[pp:wittgenstein-thich-giai-doan-nao.giai-doan-sau]] |
+| | Giai đoạn đầu (thời *Tractatus*) | [[pp:wittgenstein-thich-giai-doan-nao.giai-doan-dau]] |
+| | Khác | [[pp:wittgenstein-thich-giai-doan-nao.khac]] |
 
 \* Câu hỏi bổ sung, khoảng 960 người trả lời; % là tỉ lệ chấp nhận hoặc nghiêng về.
 

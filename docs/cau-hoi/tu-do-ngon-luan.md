@@ -94,7 +94,7 @@ Một luận điểm phụ quan trọng: cần phân biệt *quyền được n�
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
+Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
 Điều này không có nghĩa là giới triết học thờ ơ — tự do ngôn luận là một trong những chủ đề được viết nhiều nhất trong triết học chính trị và triết học pháp luật, đặc biệt sôi nổi từ những năm 2010 với sự bùng nổ của mạng xã hội, tin giả và tranh luận về "văn hóa hủy bỏ". Mill vẫn là điểm xuất phát bắt buộc; Popper được viện dẫn thường xuyên; còn phe "ngôn từ gây hại" ngày càng có nhiều công trình học thuật. Chỉ là trong đợt khảo sát 2020, không có câu nào hỏi trực tiếp "bạn ủng hộ tự do ngôn luận đến mức nào", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 

@@ -86,12 +86,12 @@ Một phản bác khác, thực tế hơn: ranh giới giữa may rủi và lự
 
 Khảo sát PhilPapers 2020 không hỏi "bình đẳng về cái gì" — không có câu nào tách bình đẳng kết quả, bình đẳng cơ hội hay bình đẳng may mắn. Nhưng câu *chính* (hỏi tất cả người tham gia) "Triết học chính trị" có một lựa chọn mang đúng tên chủ nghĩa bình đẳng:
 
-| Triết học chính trị (câu chính, n ≈ 1.540) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
+| Triết học chính trị (câu chính, n ≈ [[pp:triet-hoc-chinh-tri/n]]) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|
-| Chủ nghĩa bình đẳng (*egalitarianism*) | 44,0% | 38,3% |
-| Cộng đồng luận (*communitarianism*) | 27,3% | 22,1% |
-| Chủ nghĩa tự do cá nhân (*libertarianism*) | 13,4% | 10,3% |
-| Khác | 20,5% | |
+| Chủ nghĩa bình đẳng (*egalitarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism/loai-tru]]% |
+| Cộng đồng luận (*communitarianism*) | [[pp:triet-hoc-chinh-tri.cong-dong-luan]]% | [[pp:triet-hoc-chinh-tri.cong-dong-luan/loai-tru]]% |
+| Chủ nghĩa tự do cá nhân (*libertarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism/loai-tru]]% |
+| Khác | [[pp:triet-hoc-chinh-tri.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Political philosophy". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng vượt 100%, cột thứ hai chỉ tính người chọn duy nhất đáp án đó.
 

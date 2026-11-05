@@ -86,14 +86,14 @@ Tuy nhiên, có ba câu hỏi *gần nhất* với chủ đề bài, và các co
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bài toán xe điện (bẻ ghi) — câu chính, n ≈ 1.740 | Bẻ ghi (một người chết thay cho năm người) | 63,4 |
-| | Không bẻ | 13,3 |
-| | Khác | 23,4 |
-| Cây cầu (đẩy người) — câu chính, n ≈ 1.740 | Đẩy | 22,0 |
-| | Không đẩy | 56,0 |
-| | Khác | 22,0 |
-| "Phải" kéo theo "có thể" (*ought implies can*) — câu bổ sung, n ≈ 1.080 | Có | 62,9 |
-| | Không | 28,3 |
+| Bài toán xe điện (bẻ ghi) — câu chính, n ≈ [[pp:bai-toan-xe-dien-be-ghi/n]] | Bẻ ghi (một người chết thay cho năm người) | [[pp:bai-toan-xe-dien-be-ghi.be-ghi]] |
+| | Không bẻ | [[pp:bai-toan-xe-dien-be-ghi.khong-be]] |
+| | Khác | [[pp:bai-toan-xe-dien-be-ghi.khac]] |
+| Cây cầu (đẩy người) — câu chính, n ≈ [[pp:cay-cau-day-nguoi/n]] | Đẩy | [[pp:cay-cau-day-nguoi.day]] |
+| | Không đẩy | [[pp:cay-cau-day-nguoi.khong-day]] |
+| | Khác | [[pp:cay-cau-day-nguoi.khac]] |
+| "Phải" kéo theo "có thể" (*ought implies can*) — câu bổ sung, n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
+| | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | 9,0 |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.

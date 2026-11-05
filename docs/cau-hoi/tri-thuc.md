@@ -127,27 +127,27 @@ Tri thức có được *không cần* dựa vào kinh nghiệm gọi là **tiê
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers năm 2020 hỏi 1.785 triết gia chuyên nghiệp về nhiều câu hỏi trong bài này. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn (một người có thể chọn nhiều đáp án, nên tổng có thể vượt 100%).
+Khảo sát PhilPapers năm 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp về nhiều câu hỏi trong bài này. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn (một người có thể chọn nhiều đáp án, nên tổng có thể vượt 100%).
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thế giới bên ngoài | Thực tại luận phi hoài nghi | 79,5 |
-| | Duy tâm | 6,6 |
-| | Hoài nghi | 5,4 |
-| Đáp lại hoài nghi (cách nào mạnh nhất?)* | Thực dụng | 22,8 |
-| | Suy luận đến lời giải thích tốt nhất | 22,1 |
-| | Ngoại tại luận tri thức | 18,9 |
-| | Giáo điều luận | 13,4 |
-| | Ngữ cảnh luận | 10,7 |
-| Phân tích khái niệm tri thức* | Niềm tin đúng được biện minh (JTB) | 23,6 |
-| | Một phân tích khác | 32,2 |
-| | Không có phân tích nào | 30,6 |
-| Biện minh tri thức | Ngoại tại luận | 50,5 |
-| | Nội tại luận | 35,7 |
-| Tri thức (nguồn gốc) | Duy nghiệm luận | 43,9 |
-| | Duy lý luận | 33,5 |
-| Có tri thức tiên nghiệm không? | Có | 72,8 |
-| | Không | 18,5 |
+| Thế giới bên ngoài | Thực tại luận phi hoài nghi | [[pp:the-gioi-ben-ngoai.thuc-tai-luan-phi-hoai-nghi]] |
+| | Duy tâm | [[pp:the-gioi-ben-ngoai.duy-tam]] |
+| | Hoài nghi | [[pp:the-gioi-ben-ngoai.hoai-nghi]] |
+| Đáp lại hoài nghi (cách nào mạnh nhất?)* | Thực dụng | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.thuc-dung]] |
+| | Suy luận đến lời giải thích tốt nhất | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.suy-luan-den-loi-giai-thich-tot-nhat]] |
+| | Ngoại tại luận tri thức | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.ngoai-tai-luan-tri-thuc]] |
+| | Giáo điều luận | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.giao-dieu-luan-dogmatist]] |
+| | Ngữ cảnh luận | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.ngu-canh-luan]] |
+| Phân tích khái niệm tri thức* | Niềm tin đúng được biện minh (JTB) | [[pp:phan-tich-khai-niem-tri-thuc.niem-tin-dung-duoc-bien-minh-jtb]] |
+| | Một phân tích khác | [[pp:phan-tich-khai-niem-tri-thuc.mot-phan-tich-khac]] |
+| | Không có phân tích nào | [[pp:phan-tich-khai-niem-tri-thuc.khong-co-phan-tich-nao]] |
+| Biện minh tri thức | Ngoại tại luận | [[pp:bien-minh-tri-thuc-epistemic-justification.ngoai-tai-luan]] |
+| | Nội tại luận | [[pp:bien-minh-tri-thuc-epistemic-justification.noi-tai-luan]] |
+| Tri thức (nguồn gốc) | Duy nghiệm luận | [[pp:tri-thuc-nguon-goc.duy-nghiem-luan]] |
+| | Duy lý luận | [[pp:tri-thuc-nguon-goc.duy-ly-luan]] |
+| Có tri thức tiên nghiệm không? | Có | [[pp:tri-thuc-tien-nghiem-co-khong.co]] |
+| | Không | [[pp:tri-thuc-tien-nghiem-co-khong.khong]] |
 
 \* Câu hỏi bổ sung, ít người trả lời hơn: khoảng 930 người (đáp lại hoài nghi) và 1.020 người (phân tích khái niệm tri thức). Các câu còn lại là câu chính, mỗi câu khoảng 1.620–1.760 người trả lời.
 

@@ -96,13 +96,13 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về chủ đề 
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức môi trường — câu bổ sung, n ≈ 890 | Lấy con người làm trung tâm | 42,2 |
-| | Không lấy con người làm trung tâm | 50,7 |
-| | Khác | 8,9 |
-| Đạo đức học chuẩn tắc — câu chính, n ≈ 1.740 | Đạo đức học đức hạnh | 37,0 |
-| | Nghĩa vụ luận | 32,1 |
-| | Hệ quả luận | 30,6 |
-| | Khác | 18,2 |
+| Đạo đức môi trường — câu bổ sung, n ≈ [[pp:dao-duc-moi-truong/n]] | Lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.lay-con-nguoi-lam-trung-tam]] |
+| | Không lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]] |
+| | Khác | [[pp:dao-duc-moi-truong.khac]] |
+| Đạo đức học chuẩn tắc — câu chính, n ≈ [[pp:dao-duc-hoc-chuan-tac/n]] | Đạo đức học đức hạnh | [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]] |
+| | Nghĩa vụ luận | [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]] |
+| | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
+| | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1–2. Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lựa chọn cùng lúc nên tổng vượt 100%.
 

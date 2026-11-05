@@ -116,13 +116,13 @@ Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về "nghệ thuật
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Giá trị thẩm mỹ (n ≈ 1.700) | Khách quan | 43,5 |
-| | Chủ quan | 40,6 |
-| | Khác | 18,9 |
-| Trải nghiệm thẩm mỹ* (n ≈ 690) | Đặc thù riêng (*sui generis*) | 37,2 |
-| | Tri giác | 28,2 |
-| | Khoái cảm | 14,2 |
-| | Khác | 24,4 |
+| Giá trị thẩm mỹ (n ≈ [[pp:gia-tri-tham-my/n]]) | Khách quan | [[pp:gia-tri-tham-my.khach-quan]] |
+| | Chủ quan | [[pp:gia-tri-tham-my.chu-quan]] |
+| | Khác | [[pp:gia-tri-tham-my.khac]] |
+| Trải nghiệm thẩm mỹ* (n ≈ [[pp:trai-nghiem-tham-my/n]]) | Đặc thù riêng (*sui generis*) | [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]] |
+| | Tri giác | [[pp:trai-nghiem-tham-my.tri-giac]] |
+| | Khoái cảm | [[pp:trai-nghiem-tham-my.khoai-cam]] |
+| | Khác | [[pp:trai-nghiem-tham-my.khac]] |
 
 \* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm; câu "Giá trị thẩm mỹ" là câu chính, hỏi mọi người tham gia.
 
@@ -133,7 +133,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - Hai câu này hỏi về *giá trị* và *trải nghiệm* thẩm mỹ, không hỏi một vật cần gì để *là* tác phẩm nghệ thuật. Không thể suy ra từ đây bao nhiêu triết gia theo Tolstoy, Bell, thuyết thể chế hay Weitz.
 - Câu thứ nhất chính là câu hỏi của bài [Cái đẹp ở trong mắt người nhìn?](cai-dep.md): giới chuyên môn chia gần đôi giữa "khách quan" và "chủ quan".
 - Câu thứ hai gần với một ý trong bài này: Bell cho rằng có một "cảm xúc thẩm mỹ" riêng biệt. Nhưng câu hỏi khảo sát hỏi về trải nghiệm thẩm mỹ nói chung, không hỏi về lý thuyết của Bell, nên 37,2% chọn "đặc thù riêng" không phải là 37,2% ủng hộ Bell.
-- Mẫu khảo sát là khoảng 1.785 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020 — trước vụ tranh AI đoạt giải năm 2022 kể ở dưới.
+- Mẫu khảo sát là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020 — trước vụ tranh AI đoạt giải năm 2022 kể ở dưới.
 
 Về chính câu hỏi định nghĩa, cuộc tranh luận vẫn còn mở. Weitz (1956) cho rằng không thể định nghĩa nghệ thuật; Danto và Dickie thì đưa ra những định nghĩa dựa vào *quan hệ* của tác phẩm với thế giới nghệ thuật thay vì vào những gì mắt thấy; và đến nay các định nghĩa thể chế, lịch sử, thẩm mỹ... vẫn được bênh vực song song. Một hướng được bàn nhiều là xem "nghệ thuật" như một khái niệm *cụm* (*cluster concept*; chẳng hạn Berys Gaut, 2000): một vật càng có nhiều đặc trưng trong cụm (có phẩm chất thẩm mỹ, biểu đạt cảm xúc, đòi hỏi kỹ năng cao, thuộc một loại hình nghệ thuật đã có, được làm ra với ý định tạo tác phẩm nghệ thuật...) thì càng chắc chắn là nghệ thuật — mà không cần một điều kiện duy nhất nào. Và biết đâu, chính sự khó định nghĩa lại là một phần của cái làm cho nghệ thuật thú vị.
 

@@ -138,13 +138,13 @@ Kết quả: điện thế sẵn sàng bắt đầu *trước* thời điểm ng
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tự do ý chí (câu chính, n ≈ 1.760) | Tương thích luận | 59,2 |
-| | Thuyết ý chí tự do (libertarianism) | 18,8 |
-| | Không có tự do ý chí | 11,2 |
-| | Khác | 11,4 |
-| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | 62,9 |
-| | Không | 28,3 |
-| | Khác | 9 |
+| Tự do ý chí (câu chính, n ≈ [[pp:tu-do-y-chi/n]]) | Tương thích luận | [[pp:tu-do-y-chi.tuong-thich-luan]] |
+| | Thuyết ý chí tự do (libertarianism) | [[pp:tu-do-y-chi.thuyet-y-chi-tu-do-libertarianism]] |
+| | Không có tự do ý chí | [[pp:tu-do-y-chi.khong-co-tu-do-y-chi]] |
+| | Khác | [[pp:tu-do-y-chi.khac]] |
+| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
+| | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
+| | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
 \* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ 1.080 người trả lời.
 

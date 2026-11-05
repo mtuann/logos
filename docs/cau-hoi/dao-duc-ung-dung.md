@@ -113,10 +113,10 @@ Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số l
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Ăn động vật và sản phẩm động vật (trong hoàn cảnh bình thường) — câu chính, n ≈ 1.760 | Ăn tạp (được ăn cả thịt lẫn sản phẩm động vật) | 48,0 |
-| | Ăn chay (không ăn thịt, vẫn dùng sản phẩm động vật) | 26,5 |
-| | Thuần chay (không cả hai) | 18,4 |
-| | Khác | 9,9 |
+| Ăn động vật và sản phẩm động vật (trong hoàn cảnh bình thường) — câu chính, n ≈ [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong/n]] | Ăn tạp (được ăn cả thịt lẫn sản phẩm động vật) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.an-tap-duoc-an-ca-thit-lan-san-pham-dong-vat]] |
+| | Ăn chay (không ăn thịt, vẫn dùng sản phẩm động vật) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.an-chay-khong-an-thit-van-dung-san-pham-dong-vat]] |
+| | Thuần chay (không cả hai) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.thuan-chay-khong-ca-hai]] |
+| | Khác | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

@@ -81,7 +81,7 @@ Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004,
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư hay giám sát (câu gần nhất với đạo đức công nghệ là câu bổ sung về kỹ thuật di truyền trên người — một chủ đề khác), nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "giám sát đại trà có chấp nhận được không" hay "quyền riêng tư là gì". Vì vậy, ở đây ta không có con số nào để trích.
+Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "giám sát đại trà có chấp nhận được không" hay "quyền riêng tư là gì". Vì vậy, ở đây ta không có con số nào để trích.
 
 Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2010) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 

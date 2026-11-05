@@ -94,18 +94,18 @@ Khảo sát PhilPapers 2020 có ba câu hỏi liên quan trực tiếp đến b�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tâm trí (câu chính, n ≈ 1.730) | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| | Khác | 15,9 |
-| Vấn đề khó của ý thức có tồn tại không? (câu bổ sung, n ≈ 1.000) | Có | 62,4 |
-| | Không | 29,8 |
-| | Khác | 7,9 |
-| Ý thức: lý thuyết nào đúng? (câu bổ sung, n ≈ 1.020) | Nhị nguyên luận | 22,0 |
-| | Loại trừ luận | 4,5 |
-| | Chủ nghĩa chức năng | 33,0 |
-| | Thuyết đồng nhất | 13,3 |
-| | Toàn tâm luận (*panpsychism*) | 7,5 |
-| | Khác | 22,7 |
+| Tâm trí (câu chính, n ≈ [[pp:tam-tri/n]]) | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| | Khác | [[pp:tam-tri.khac]] |
+| Vấn đề khó của ý thức có tồn tại không? (câu bổ sung, n ≈ [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong/n]]) | Có | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.co]] |
+| | Không | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khong]] |
+| | Khác | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khac]] |
+| Ý thức: lý thuyết nào đúng? (câu bổ sung, n ≈ [[pp:y-thuc-ly-thuyet/n]]) | Nhị nguyên luận | [[pp:y-thuc-ly-thuyet.nhi-nguyen-luan]] |
+| | Loại trừ luận | [[pp:y-thuc-ly-thuyet.loai-tru-luan]] |
+| | Chủ nghĩa chức năng | [[pp:y-thuc-ly-thuyet.chu-nghia-chuc-nang]] |
+| | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
+| | Toàn tâm luận (*panpsychism*) | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
+| | Khác | [[pp:y-thuc-ly-thuyet.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 

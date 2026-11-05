@@ -91,23 +91,23 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về lập luận Kalam
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thượng đế (câu chính, n ≈ 1.770) | Hữu thần | 18,9 |
-| | Vô thần | 66,9 |
-| | Khác | 14,0 |
-| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ 1.020) | Vũ trụ luận | 20,9 |
-| | Thiết kế (mục đích luận) | 17,7 |
-| | Bản thể luận | 8,9 |
-| | Thực dụng | 14,2 |
-| | Đạo đức | 9,4 |
-| | Khác | 25,2 |
-| Tinh chỉnh vũ trụ — giải thích bằng gì? (câu bổ sung, n ≈ 810) | Thiết kế | 17,3 |
-| | Đa vũ trụ | 15,1 |
-| | Sự thật trần trụi (không cần giải thích) | 32,1 |
-| | Không có tinh chỉnh | 21,7 |
-| | Khác | 17,8 |
-| Nguyên lý lý do đầy đủ (câu bổ sung, n ≈ 940) | Đúng | 35,9 |
-| | Sai | 45,7 |
-| | Khác | 18,5 |
+| Thượng đế (câu chính, n ≈ [[pp:thuong-de/n]]) | Hữu thần | [[pp:thuong-de.huu-than]] |
+| | Vô thần | [[pp:thuong-de.vo-than]] |
+| | Khác | [[pp:thuong-de.khac]] |
+| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]]) | Vũ trụ luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]] |
+| | Thiết kế (mục đích luận) | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thiet-ke-muc-dich-luan]] |
+| | Bản thể luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]] |
+| | Thực dụng | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thuc-dung]] |
+| | Đạo đức | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.dao-duc]] |
+| | Khác | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]] |
+| Tinh chỉnh vũ trụ — giải thích bằng gì? (câu bổ sung, n ≈ [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi/n]]) | Thiết kế | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.thiet-ke]] |
+| | Đa vũ trụ | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.da-vu-tru]] |
+| | Sự thật trần trụi (không cần giải thích) | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.su-that-tran-trui-khong-can-giai-thich]] |
+| | Không có tinh chỉnh | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.khong-co-tinh-chinh]] |
+| | Khác | [[pp:tinh-chinh-vu-tru-giai-thich-bang-gi.khac]] |
+| Nguyên lý lý do đầy đủ (câu bổ sung, n ≈ [[pp:nguyen-ly-ly-do-day-du/n]]) | Đúng | [[pp:nguyen-ly-ly-do-day-du.dung]] |
+| | Sai | [[pp:nguyen-ly-ly-do-day-du.sai]] |
+| | Khác | [[pp:nguyen-ly-ly-do-day-du.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; mỗi người được tính vào mọi đáp án họ chọn, nên tổng có thể vượt 100%.
 

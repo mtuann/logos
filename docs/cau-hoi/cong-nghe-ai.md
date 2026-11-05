@@ -95,14 +95,14 @@ Khảo sát PhilPapers 2020 diễn ra cuối năm 2020 — **trước** khi Chat
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Những tâm trí khác: hệ thống AI hiện tại có thành viên có ý thức?* | Chấp nhận | 3,4 |
-| | Bác bỏ | 82,4 |
-| Những tâm trí khác: hệ thống AI tương lai có thành viên có ý thức?* | Chấp nhận | 39,2 |
-| | Bác bỏ | 26,8 |
-| Tâm trí | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| Máy trải nghiệm (có bước vào không?) | Có | 13,3 |
-| | Không | 76,9 |
+| Những tâm trí khác: hệ thống AI hiện tại có thành viên có ý thức?* | Chấp nhận | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020]] |
+| | Bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020/bac-bo]] |
+| Những tâm trí khác: hệ thống AI tương lai có thành viên có ý thức?* | Chấp nhận | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai]] |
+| | Bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai/bac-bo]] |
+| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| Máy trải nghiệm (có bước vào không?) | Có | [[pp:may-trai-nghiem-co-vao-khong.co]] |
+| | Không | [[pp:may-trai-nghiem-co-vao-khong.khong]] |
 
 \* Câu hỏi bổ sung (câu "Những tâm trí khác"), khoảng 1.090 người trả lời. Hai câu còn lại là câu chính: tâm trí khoảng 1.730 người, máy trải nghiệm khoảng 1.640 người.
 

@@ -83,10 +83,10 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về án tử hì
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Án tử hình — câu bổ sung, n ≈ 1.120 | Được phép | 17,7 |
-| | Không được phép | 75,1 |
-| | Khác (lập trường khác, không có ý kiến…) | 7,1 |
-| Luật pháp — câu bổ sung, n ≈ 620 | Thực chứng luận pháp lý (*legal positivism*) | 39,5 |
+| Án tử hình — câu bổ sung, n ≈ [[pp:an-tu-hinh/n]] | Được phép | [[pp:an-tu-hinh.duoc-phep]] |
+| | Không được phép | [[pp:an-tu-hinh.khong-duoc-phep]] |
+| | Khác (lập trường khác, không có ý kiến…) | [[pp:an-tu-hinh.khac]] |
+| Luật pháp — câu bổ sung, n ≈ [[pp:luat-phap/n]] | Thực chứng luận pháp lý (*legal positivism*) | [[pp:luat-phap.thuc-chung-luan-phap-ly]] |
 | | Phi thực chứng luận pháp lý | 45,0 |
 | | Khác | 16,0 |
 

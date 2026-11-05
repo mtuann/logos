@@ -105,11 +105,11 @@ Luận điểm cốt lõi: không tồn tại một cái "tôi" thường hằng
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bản sắc cá nhân | Quan điểm tâm lý | 43,7 |
-| | Quan điểm sinh học | 19,1 |
-| | Quan điểm "sự kiện bổ sung" | 14,9 |
-| Máy dịch chuyển (bản sao bằng vật chất mới) | Sống sót | 35,2 |
-| | Chết | 40,1 |
+| Bản sắc cá nhân | Quan điểm tâm lý | [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]] |
+| | Quan điểm sinh học | [[pp:ban-sac-ca-nhan.quan-diem-sinh-hoc]] |
+| | Quan điểm "sự kiện bổ sung" | [[pp:ban-sac-ca-nhan.quan-diem-su-kien-bo-sung]] |
+| Máy dịch chuyển (bản sao bằng vật chất mới) | Sống sót | [[pp:may-dich-chuyen-vat-chat-moi.song-sot]] |
+| | Chết | [[pp:may-dich-chuyen-vat-chat-moi.chet]] |
 
 <small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Cả hai đều là câu hỏi chính (hỏi mọi người tham gia): bản sắc cá nhân khoảng 1.610 người trả lời, máy dịch chuyển khoảng 1.570 người.</small>
 

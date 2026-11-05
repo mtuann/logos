@@ -107,17 +107,17 @@ Và có lẽ đó là bài học lớn nhất của mỹ học: học cách tran
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 hỏi thẳng câu hỏi của bài này: giá trị thẩm mỹ là *khách quan* hay *chủ quan*? Đây là một trong 40 câu chính, hỏi mọi người tham gia. Khảo sát còn có một câu bổ sung về bản chất của *trải nghiệm thẩm mỹ*.
+Khảo sát PhilPapers 2020 hỏi thẳng câu hỏi của bài này: giá trị thẩm mỹ là *khách quan* hay *chủ quan*? Đây là một trong [[pp:khao-sat/cau-chinh]] câu chính, hỏi mọi người tham gia. Khảo sát còn có một câu bổ sung về bản chất của *trải nghiệm thẩm mỹ*.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Giá trị thẩm mỹ (n ≈ 1.700) | Khách quan | 43,5 |
-| | Chủ quan | 40,6 |
-| | Khác | 18,9 |
-| Trải nghiệm thẩm mỹ* (n ≈ 690) | Đặc thù riêng (*sui generis*) | 37,2 |
-| | Tri giác | 28,2 |
-| | Khoái cảm | 14,2 |
-| | Khác | 24,4 |
+| Giá trị thẩm mỹ (n ≈ [[pp:gia-tri-tham-my/n]]) | Khách quan | [[pp:gia-tri-tham-my.khach-quan]] |
+| | Chủ quan | [[pp:gia-tri-tham-my.chu-quan]] |
+| | Khác | [[pp:gia-tri-tham-my.khac]] |
+| Trải nghiệm thẩm mỹ* (n ≈ [[pp:trai-nghiem-tham-my/n]]) | Đặc thù riêng (*sui generis*) | [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]] |
+| | Tri giác | [[pp:trai-nghiem-tham-my.tri-giac]] |
+| | Khoái cảm | [[pp:trai-nghiem-tham-my.khoai-cam]] |
+| | Khác | [[pp:trai-nghiem-tham-my.khac]] |
 
 \* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm, nên ít người trả lời hơn nhiều.
 
@@ -128,7 +128,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Giới chuyên môn chia gần đôi.** "Khách quan" chỉ nhỉnh hơn "chủ quan" chưa tới 3 điểm phần trăm, và không lựa chọn nào đạt đa số: câu hỏi "chủ quan hay khách quan" vẫn chưa có lời đáp được đa số chấp nhận.
 - **Câu hỏi chỉ có hai nhãn — còn Hume và Kant thì không vừa khít nhãn nào.** Cả hai đều cho rằng cái đẹp dựa trên cảm giác (nghe như "chủ quan"), nhưng một người tìm ra chuẩn mực, một người thấy phán đoán thẩm mỹ đòi mọi người đồng ý (nghe như "khách quan"). Vì vậy bảng không cho biết bao nhiêu triết gia theo Hume hay theo Kant.
 - **Câu về trải nghiệm thẩm mỹ hỏi chuyện khác:** trải nghiệm ấy là một dạng tri giác, một dạng khoái cảm, hay một loại riêng không quy về hai thứ kia. Ý của Kant về sự thích thú "vô vụ lợi" có liên quan, nhưng câu hỏi không nhắc tới Kant, nên đừng đọc 37,2% là tỉ lệ ủng hộ Kant.
-- **Mẫu khảo sát** là khoảng 1.785 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020; nó không đại diện cho mọi truyền thống mỹ học, chẳng hạn mỹ học phương Đông.
+- **Mẫu khảo sát** là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020; nó không đại diện cho mọi truyền thống mỹ học, chẳng hạn mỹ học phương Đông.
 
 Ngoài con số, có thể nói rằng tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của hầu hết giáo trình mỹ học đương đại.
 

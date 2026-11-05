@@ -80,7 +80,7 @@ Lập trường thứ ba không tranh về opt-in hay opt-out mà đào sâu xu�
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về hiến tạng hay định nghĩa cái chết, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "nên áp dụng opt-in hay opt-out" hay "chết não có phải là chết không". Khảo sát có vài câu thuộc đạo đức sinh học theo nghĩa rộng — về phá thai và về kỹ thuật di truyền trên người — nhưng đó là những chủ đề khác, và không thể suy ra từ chúng giới triết học nghĩ gì về hiến tạng. Vì vậy, ở đây ta không có con số nào để trích.
+Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "nên áp dụng opt-in hay opt-out" hay "chết não có phải là chết không". Khảo sát có vài câu thuộc đạo đức sinh học theo nghĩa rộng — về phá thai và về kỹ thuật di truyền trên người — nhưng đó là những chủ đề khác, và không thể suy ra từ chúng giới triết học nghĩ gì về hiến tạng. Vì vậy, ở đây ta không có con số nào để trích.
 
 Một điều có thể nói một cách trung thực: trong đạo đức sinh học đương đại, cả ba hướng trên đều có những đại diện nghiêm túc — opt-out được nhiều nhà đạo đức học y khoa ủng hộ vì hiệu quả cứu người, opt-in được bênh vực bởi những người đặt tự chủ lên hàng đầu, còn tranh luận về chết não thì chưa bao giờ thực sự khép lại kể từ báo cáo Harvard 1968. Nhưng "đều có đại diện nghiêm túc" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 

@@ -118,16 +118,16 @@ Khảo sát PhilPapers 2020 có cả một nhóm câu hỏi về thời gian: c�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thời gian (câu chính, n ≈ 1.120) | Thuyết A (*A-theory*) | 27,2 |
-| | Thuyết B (*B-theory*) | 38,2 |
-| | Khác | 36,2 |
-| Bản thể luận thời gian (câu bổ sung, n ≈ 730) | Hiện tại luận | 18,4 |
-| | Vĩnh cửu luận | 39,9 |
-| | Thuyết khối đang lớn | 17,0 |
-| | Khác | 24,9 |
-| Du hành thời gian (câu bổ sung, n ≈ 950) | Khả hữu về siêu hình | 42,3 |
-| | Bất khả về siêu hình | 41,0 |
-| | Khác | 16,7 |
+| Thời gian (câu chính, n ≈ [[pp:thoi-gian/n]]) | Thuyết A (*A-theory*) | [[pp:thoi-gian.thuyet-a]] |
+| | Thuyết B (*B-theory*) | [[pp:thoi-gian.thuyet-b]] |
+| | Khác | [[pp:thoi-gian.khac]] |
+| Bản thể luận thời gian (câu bổ sung, n ≈ [[pp:ban-the-luan-thoi-gian/n]]) | Hiện tại luận | [[pp:ban-the-luan-thoi-gian.hien-tai-luan]] |
+| | Vĩnh cửu luận | [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]] |
+| | Thuyết khối đang lớn | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
+| | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
+| Du hành thời gian (câu bổ sung, n ≈ [[pp:du-hanh-thoi-gian/n]]) | Khả hữu về siêu hình | [[pp:du-hanh-thoi-gian.kha-huu-ve-sieu-hinh]] |
+| | Bất khả về siêu hình | [[pp:du-hanh-thoi-gian.bat-kha-ve-sieu-hinh]] |
+| | Khác | [[pp:du-hanh-thoi-gian.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án.
 

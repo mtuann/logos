@@ -85,9 +85,9 @@ Khảo sát PhilPapers 2020 có **một** câu hỏi về phá thai. Đó là m�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Phá thai (ba tháng đầu, không có hoàn cảnh đặc biệt) — câu bổ sung, n ≈ 1.120 | Được phép | 81,7 |
-| | Không được phép | 13,1 |
-| | Khác (lập trường khác, không có ý kiến…) | 5,4 |
+| Phá thai (ba tháng đầu, không có hoàn cảnh đặc biệt) — câu bổ sung, n ≈ [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet/n]] | Được phép | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.duoc-phep]] |
+| | Không được phép | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khong-duoc-phep]] |
+| | Khác (lập trường khác, không có ý kiến…) | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

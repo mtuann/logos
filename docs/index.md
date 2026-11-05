@@ -109,7 +109,7 @@ Socrates nói câu ấy trước tòa án Athens, khi đang bị xét xử và c
 ## Logos Zero là gì
 
 - **Không đứng về phía nào** ở những câu hỏi còn mở. Mỗi lập trường được trình bày ở phiên bản mạnh nhất của nó, kèm phản bác và cách đáp lại.
-- **Nói rõ mức đồng thuận**, dựa trên [Khảo sát PhilPapers 2020](cau-hoi/index.md#gioi-triet-hoc-nghi-gi) với 1.785 triết gia chuyên nghiệp.
+- **Nói rõ mức đồng thuận**, dựa trên [Khảo sát PhilPapers 2020](cau-hoi/index.md#gioi-triet-hoc-nghi-gi) với [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp.
 - **Không bịa**: mọi trích dẫn, năm tháng, số liệu đều ghi nguồn ở cuối bài, và nội dung được rà soát lại định kỳ ([xem nhật ký cập nhật](them/cap-nhat.md)).
 - **Dữ liệu của bạn ở lại trên máy bạn.** Site không có tài khoản, không có máy chủ. Tiến độ luyện tập chỉ lưu trong trình duyệt ([xem hoặc xóa](them/du-lieu.md)).
 - Có thể **cài như ứng dụng** trên điện thoại, đọc lại các trang đã mở khi không có mạng, hoặc in cả site thành [một cuốn sách](them/sach.md).

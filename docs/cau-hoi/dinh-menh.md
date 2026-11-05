@@ -131,15 +131,15 @@ Tuy vậy, có hai câu hỏi bổ sung chạm thẳng vào hai mạch của bà
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Cơ học lượng tử (diễn giải nào?)* | Sụp đổ hàm sóng | 17,1 |
-| | Biến ẩn | 21,9 |
-| | Đa thế giới | 19,4 |
-| | Tri thức (hàm sóng chỉ là thông tin) | 12,8 |
-| | Khác | 32,0 |
-| Bản thể luận thời gian* | Hiện tại luận (chỉ hiện tại tồn tại) | 18,4 |
-| | Vĩnh cửu luận (quá khứ, hiện tại, tương lai đều tồn tại) | 39,9 |
-| | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | 17,0 |
-| | Khác | 24,9 |
+| Cơ học lượng tử (diễn giải nào?)* | Sụp đổ hàm sóng | [[pp:co-hoc-luong-tu-dien-giai.sup-do-ham-song]] |
+| | Biến ẩn | [[pp:co-hoc-luong-tu-dien-giai.bien-an]] |
+| | Đa thế giới | [[pp:co-hoc-luong-tu-dien-giai.da-the-gioi]] |
+| | Tri thức (hàm sóng chỉ là thông tin) | [[pp:co-hoc-luong-tu-dien-giai.tri-thuc-ham-song-chi-la-thong-tin]] |
+| | Khác | [[pp:co-hoc-luong-tu-dien-giai.khac]] |
+| Bản thể luận thời gian* | Hiện tại luận (chỉ hiện tại tồn tại) | [[pp:ban-the-luan-thoi-gian.hien-tai-luan]] |
+| | Vĩnh cửu luận (quá khứ, hiện tại, tương lai đều tồn tại) | [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]] |
+| | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
+| | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
 
 \* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm): cơ học lượng tử n ≈ 560 người trả lời, bản thể luận thời gian n ≈ 730.
 

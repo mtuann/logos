@@ -127,9 +127,9 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về trách nhiệm đ�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | 62,9 |
-| | Không | 28,3 |
-| | Khác | 9 |
+| "Phải" kéo theo "có thể" (*ought implies can*)* | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
+| | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
+| | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
 \* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ 1.080 người trả lời.
 

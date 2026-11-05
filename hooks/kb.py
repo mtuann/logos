@@ -14,6 +14,13 @@ Loại `count` đọc content.yml: đếm trang có `type` cho trước, lọc t
 trang he-thong và trang sinh tự động (lich-su/dong-thoi-gian.md…), trừ trang triết gia: mỗi trang là một hồ sơ. Số từ 1.000 trở lên in kiểu Việt Nam (1.234).
 Các loại khác (số liệu PhilPapers, dữ kiện trong kho) được thêm ở đợt 2–3 bằng cách đăng ký vào HANDLERS.
 
+    [[pp:tu-do-y-chi.tuong-thich-luan]]        % chấp nhận hoặc nghiêng về (data/kb/philpapers-2020.json) → 59,2
+    [[pp:tu-do-y-chi.tuong-thich-luan/loai-tru]]  % loại trừ; `/bac-bo`: % bác bỏ (câu chấp nhận / bác bỏ)
+    [[pp:tu-do-y-chi/n]]                        số người trả lời câu đó                → 1.760
+    [[pp:khao-sat/nguoi-tra-loi]]               số tổng: nguoi-tra-loi, so-cau, cau-chinh, cau-bo-sung, cau-bo-sung-moi-nguoi
+
+Số liệu PhilPapers in một chữ số thập phân, dấu phẩy; ô có `raw` trong JSON (bài báo in khác quy ước) in đúng chữ gốc.
+
     [[thoi-su:cau-hoi.tu-do-y-chi.bo-luat]]   thân khối data/thoi-su/<id>.md, nguyên văn (ban-giao/dot-3.md)
 
 Khối thời sự được mở trước mọi shortcode khác (thân khối có thể chứa shortcode). Khối một dòng chèn tại chỗ; khối
@@ -112,7 +119,43 @@ def count(key: str, ctx: dict) -> str:
     return fmt_int(len(hits))
 
 
-HANDLERS: dict[str, Callable[[str, dict], str]] = {"count": count}
+PP_FIELDS = {"": "pct", "bac-bo": "pct_reject", "loai-tru": "pct_exclusive"}
+
+
+def pp(key: str, ctx: dict) -> str:
+    if "_pp" not in ctx:
+        data = json.loads((ctx["root"] / "data" / "kb" / "philpapers-2020.json").read_text(encoding="utf-8"))
+        ctx["_pp"] = (data, {q["id"]: q for q in data["questions"]})
+    data, questions = ctx["_pp"]
+    path, _, suffix = key.partition("/")
+    if path == "khao-sat":
+        survey = data["source"].get("survey", {})
+        if suffix not in survey:
+            raise KeyError(f"số tổng {suffix!r} không có (có: {', '.join(survey)})")
+        return fmt_int(survey[suffix])
+    qid, _, oid = path.partition(".")
+    if qid not in questions:
+        raise KeyError(f"câu {qid!r} không có trong philpapers-2020.json")
+    q = questions[qid]
+    if not oid:
+        if suffix != "n" or "n" not in q:
+            raise KeyError(f"câu {qid}: chỉ có [[pp:{qid}/n]] (số người trả lời)")
+        return fmt_int(q["n"])
+    o = next((o for o in q["options"] if o["id"] == oid), None)
+    if o is None:
+        raise KeyError(f"câu {qid}: lựa chọn {oid!r} không có (có: {', '.join(x['id'] for x in q['options'])})")
+    if suffix not in PP_FIELDS:
+        raise KeyError(f"hậu tố {suffix!r} không có (có: /bac-bo, /loai-tru)")
+    field = PP_FIELDS[suffix]
+    raw = o.get("raw", {}).get(field)
+    if raw:
+        return raw
+    if o.get(field) is None:
+        raise KeyError(f"{qid}.{oid}: không có {field}")
+    return f"{o[field]:.1f}".replace(".", ",")
+
+
+HANDLERS: dict[str, Callable[[str, dict], str]] = {"count": count, "pp": pp}
 
 
 def _outside_code(markdown: str, fn: Callable[[str], str]) -> str:

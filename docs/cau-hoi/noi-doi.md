@@ -107,13 +107,13 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về nói dối. Hai câu
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức học chuẩn tắc (câu chính, n ≈ 1.740) | Đạo đức học đức hạnh | 37,0 |
-| | Nghĩa vụ luận | 32,1 |
-| | Hệ quả luận | 30,6 |
-| | Khác | 18,2 |
-| Nguyên tắc đạo đức (câu bổ sung, n ≈ 980) | Phổ quát luận đạo đức (*generalism*) | 54,6 |
-| | Đặc thù luận đạo đức (*particularism*) | 33,7 |
-| | Khác | 12,9 |
+| Đạo đức học chuẩn tắc (câu chính, n ≈ [[pp:dao-duc-hoc-chuan-tac/n]]) | Đạo đức học đức hạnh | [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]] |
+| | Nghĩa vụ luận | [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]] |
+| | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
+| | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
+| Nguyên tắc đạo đức (câu bổ sung, n ≈ [[pp:nguyen-tac-dao-duc/n]]) | Phổ quát luận đạo đức (*generalism*) | [[pp:nguyen-tac-dao-duc.pho-quat-luan-dao-duc-generalism]] |
+| | Đặc thù luận đạo đức (*particularism*) | [[pp:nguyen-tac-dao-duc.dac-thu-luan-dao-duc-particularism]] |
+| | Khác | [[pp:nguyen-tac-dao-duc.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 

@@ -23,6 +23,19 @@
         },
         "footer": {
           "type": "string"
+        },
+        "survey": {
+          "description": "Số tổng của khảo sát, chép từ preamble (shortcode [[pp:khao-sat/<trường>]])",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["nguoi-tra-loi", "so-cau", "cau-chinh", "cau-bo-sung", "cau-bo-sung-moi-nguoi"],
+          "properties": {
+            "nguoi-tra-loi": {"type": "integer", "minimum": 1},
+            "so-cau": {"type": "integer", "minimum": 1},
+            "cau-chinh": {"type": "integer", "minimum": 1},
+            "cau-bo-sung": {"type": "integer", "minimum": 1},
+            "cau-bo-sung-moi-nguoi": {"type": "integer", "minimum": 1}
+          }
         }
       }
     },

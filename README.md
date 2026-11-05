@@ -26,7 +26,8 @@ docs/                     nội dung Markdown
 hooks/
   slugs.py                anchor tiếng Việt không dấu ("Đọc văn bản" → doc-van-ban)
   search_vi.py            thêm bản không dấu vào chỉ mục tìm kiếm
-  kb.py                   shortcode [[count:cau-hoi]] → số đếm từ content.yml; khóa sai thì build dừng
+  kb.py                   shortcode: [[count:…]] số đếm (content.yml, file dữ liệu), [[pp:…]] số liệu PhilPapers,
+                          [[thoi-su:…]] khối thời sự data/thoi-su/; khóa sai thì build dừng
 tools/                    mọi tool sinh trang đều có --check (CI chạy hết)
   gen_glossary.py         docs/them/tu-dien.md từ terms.json
   philosophers.py         docs/triet-gia/*.md và philosophers.json từ data/kb/people.yml + data/people/<id>.yml; tự tính
@@ -51,6 +52,10 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   sep_archive.py          đổi link SEP sang bản lưu fall2026 (quyết định 14) sau khi mở thử từng mục; --dry-run, --cache
   kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
   thoi_su_check.py        khối thời sự data/thoi-su/*.md: schema, id, mỗi khối được đúng trang của nó dùng một lần
+  migrate/                script chuyển đổi một lần, giữ lại để đọc và chạy lại (chạy lại không đổi gì):
+                          dot2_people.py (hồ sơ → YAML), dot3_thoi_su.py (dời đoạn có hạn dùng),
+                          dot3_so_dem.py (số đếm → [[count:…]]), dot3_philpapers.py (ô PhilPapers → [[pp:…]];
+                          lệch: verification/lech/philpapers-bang.md); thay_shortcode.py (thay có kiểm, dùng chung)
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị hoặc bản ghi: people/kant, ho-so/kant…)
   changed_units.py        báo cáo đơn vị đổi chữ giữa hai phiên bản (tầng, khối, trạng thái sổ, việc cần làm);
@@ -82,6 +87,7 @@ tests/
   test_kb_events.py       tools/kb_events.py: mẫu năm, bỏ năm tác phẩm và năm sinh mất
   test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
   test_thoi_su.py         tools/thoi_su_check.py: khối thiếu, thừa, dùng sai trang, sai schema
+  test_dot3.py            script đợt 3: không còn ô PhilPapers khớp JSON mà còn gõ tay; số đếm, khối thời sự đã thay
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
   test_linters.py         terms_policy và ba linter

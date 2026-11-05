@@ -96,13 +96,13 @@ Khảo sát PhilPapers 2020 không hỏi thẳng "quyền sở hữu tư nhân c
 
 | Câu hỏi | Lựa chọn | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|---|
-| Triết học chính trị (câu chính, n ≈ 1.540) | Chủ nghĩa bình đẳng | 44,0% | 38,3% |
-| | Cộng đồng luận | 27,3% | 22,1% |
-| | Chủ nghĩa tự do cá nhân (*libertarianism*) | 13,4% | 10,3% |
-| | Khác | 20,5% | |
-| Chính trị – kinh tế (câu bổ sung, n ≈ 1.090) | Chủ nghĩa xã hội | 53,0% | 48,6% |
-| | Chủ nghĩa tư bản | 29,5% | 26,1% |
-| | Khác | 19,3% | |
+| Triết học chính trị (câu chính, n ≈ [[pp:triet-hoc-chinh-tri/n]]) | Chủ nghĩa bình đẳng | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism/loai-tru]]% |
+| | Cộng đồng luận | [[pp:triet-hoc-chinh-tri.cong-dong-luan]]% | [[pp:triet-hoc-chinh-tri.cong-dong-luan/loai-tru]]% |
+| | Chủ nghĩa tự do cá nhân (*libertarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism/loai-tru]]% |
+| | Khác | [[pp:triet-hoc-chinh-tri.khac]]% | |
+| Chính trị – kinh tế (câu bổ sung, n ≈ [[pp:chinh-tri-kinh-te/n]]) | Chủ nghĩa xã hội | [[pp:chinh-tri-kinh-te.chu-nghia-xa-hoi]]% | [[pp:chinh-tri-kinh-te.chu-nghia-xa-hoi/loai-tru]]% |
+| | Chủ nghĩa tư bản | [[pp:chinh-tri-kinh-te.chu-nghia-tu-ban]]% | [[pp:chinh-tri-kinh-te.chu-nghia-tu-ban/loai-tru]]% |
+| | Khác | [[pp:chinh-tri-kinh-te.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Political philosophy" và câu bổ sung "Politics". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng có thể vượt 100%, cột cuối chỉ tính người chọn duy nhất đáp án đó.
 

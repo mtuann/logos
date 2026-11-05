@@ -70,7 +70,7 @@ Vì vậy, triết học và khoa học không phải đối thủ. Khoa học h
 
 Đây là chỗ cần thành thật. Sau hơn hai nghìn năm, các triết gia vẫn chưa đồng ý với nhau về tự do ý chí, về bản chất của tâm trí, hay về điều gì làm cho hành động là đúng. Một nhà hóa học có thể kể cho bạn hàng giờ những gì ngành mình đã biết chắc. Một triết gia, nếu trung thực, khó làm vậy.
 
-Cuối năm 2020, khảo sát PhilPapers ghi nhận câu trả lời của 1.785 triết gia chuyên nghiệp cho 100 câu hỏi (40 câu chính hỏi mọi người, 60 câu bổ sung cho ai muốn trả lời thêm). Kết quả cho thấy bất đồng sâu rộng. Chẳng hạn, ở câu hỏi về đạo đức học chuẩn tắc, ba lập trường lớn chia nhau gần như đều: **đạo đức học đức hạnh** (*virtue ethics*) 37,0%, **nghĩa vụ luận** (*deontology*) 32,1%, **hệ quả luận** (*consequentialism*) 30,6% (tỷ lệ người chấp nhận hoặc nghiêng về mỗi lập trường).
+Cuối năm 2020, khảo sát PhilPapers ghi nhận câu trả lời của [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp cho [[pp:khao-sat/so-cau]] câu hỏi ([[pp:khao-sat/cau-chinh]] câu chính hỏi mọi người, [[pp:khao-sat/cau-bo-sung]] câu bổ sung cho ai muốn trả lời thêm). Kết quả cho thấy bất đồng sâu rộng. Chẳng hạn, ở câu hỏi về đạo đức học chuẩn tắc, ba lập trường lớn chia nhau gần như đều: **đạo đức học đức hạnh** (*virtue ethics*) 37,0%, **nghĩa vụ luận** (*deontology*) 32,1%, **hệ quả luận** (*consequentialism*) 30,6% (tỷ lệ người chấp nhận hoặc nghiêng về mỗi lập trường).
 
 <!-- fig:philpapers-dao-duc -->
 <figure class="oz-fig">
@@ -83,10 +83,10 @@ Nhưng khi được hỏi thẳng "triết học có tiến bộ không?", chín
 
 | Triết học có tiến bộ không? | % chấp nhận hoặc nghiêng về |
 |---|---|
-| Không có tiến bộ | 3,8 |
-| Một ít tiến bộ | 46,6 |
-| Nhiều tiến bộ | 41,7 |
-| Khác (lập trường khác, không có ý kiến…) | 8,4 |
+| Không có tiến bộ | [[pp:tien-bo-triet-hoc-co-khong.khong-co]] |
+| Một ít tiến bộ | [[pp:tien-bo-triet-hoc-co-khong.mot-it]] |
+| Nhiều tiến bộ | [[pp:tien-bo-triet-hoc-co-khong.nhieu]] |
+| Khác (lập trường khác, không có ý kiến…) | [[pp:tien-bo-triet-hoc-co-khong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1 (câu hỏi chính "Tiến bộ triết học", n ≈ 1.770 người trả lời câu này).
 

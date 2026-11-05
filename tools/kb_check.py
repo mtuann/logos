@@ -8,7 +8,7 @@ Kiểm:
   - tham chiếu chéo: people.influence → people; works.author → people; quotes.work → works;
     evidence (không phải URL) → sources; data/people/<id>.yml ↔ people.yml một–một;
     related[].path của hồ sơ → trang có trong docs/; used_in → đơn vị (trang.md#id) hoặc hồ sơ còn tồn tại;
-  - philpapers: id câu không trùng, id lựa chọn không trùng trong một câu.
+  - philpapers: id câu không trùng, id lựa chọn không trùng trong một câu; số tổng `source.survey` có trong preamble.
 File chưa tạo thì bỏ qua (kho được lấp dần trong đợt 2).
 """
 
@@ -151,6 +151,10 @@ def check(root: Path = ROOT) -> tuple[list[str], dict[str, int]]:
             ids = [o.get("id") for o in q.get("options", [])]
             for dup in sorted({i for i in ids if ids.count(i) > 1}):
                 errors.append(f"philpapers-2020.json: {q.get('id')}: lựa chọn {dup!r} trùng")
+        src = pp.get("source", {})
+        for field, v in (src.get("survey") or {}).items():   # số tổng phải chép đúng từ phần mở đầu
+            if f"{v:,}".replace(",", ".") not in src.get("preamble", ""):
+                errors.append(f"philpapers-2020.json: source.survey.{field} = {v} không có trong source.preamble")
 
     pdir = root / PEOPLE_DIR
     if pdir.is_dir():
