@@ -16,7 +16,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | **Xong** 5/11/2026 (tag `v1.3`) — `ban-giao/dot-3.md`, nhật ký `ban-giao/nhat-ky-dot-3.md` |
 | 4 | Giao diện tối thiểu | 14/12–20/12/2026 | **Xong** 5/11/2026 (tag `v1.4`) — `ban-giao/dot-4.md`, nhật ký `ban-giao/nhat-ky-dot-4.md` |
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
-| 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | Chưa |
+| 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Đang làm** từ 5/11/2026 — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
 | 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | Chưa |
 | 7 | Vận hành Mở rộng | từ 26/4/2027 | Chưa |
 
@@ -71,6 +71,9 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 22 | Chỉ mục tìm kiếm (đợt 4) | Bỏ bản sao không dấu khỏi `search_index.json`; bỏ dấu ở trình duyệt khi dựng chỉ mục và khi gõ; chỉ tải chỉ mục khi mở ô tìm | Pagefind (đợt 6); giữ nguyên | theo Đề xuất (chủ biên chốt 5/11/2026) |
 | 23 | Trang tác phẩm (đợt 4) | Một trang chỉ mục `tac-pham/index.md` sinh từ `works.yml` (tác phẩm đã biết tác giả, ghi "chưa kiểm chứng"); chưa có URL riêng cho từng tác phẩm tới sau đợt 5 | Mỗi tác phẩm một trang; dời sau đợt 5 | theo Đề xuất (chủ biên chốt 5/11/2026) |
 | 24 | Trang chủ mới (đợt 4) | Sắp xếp lại khối đang có thành cửa chính/phụ, thêm nút "Bắt đầu ở đây"; chữ mới chỉ là nhãn nút; chủ biên duyệt bằng ảnh chụp | Viết lại trang chủ; không đổi | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 25 | Nhịp push trong đợt 5 | Push mỗi đợt con, tag `v1.5.N` | Push một lần khi xong cả đợt 5 (luật 6) | **Push khi xong cả đợt 5** (chủ biên chọn 5/11/2026) |
+| 26 | Kiểu ngoặc kép và mã băm | Mã băm bỏ qua kiểu ngoặc (`“ ”` như `"`, `‘ ’` như `'`); kiểu hiển thị chốt ở đợt 6, đổi không mở khóa | Thống nhất ngoặc cong hoặc ngoặc thẳng bằng script trước 5.1 | theo Đề xuất (chủ biên chốt 5/11/2026) |
+| 27 | Tên site (theo quyết định 11) | Đổi tên site thành "Logos", giữ nhãn "(bản dịch của Logos Zero)" | Đổi hết "Logos Zero" thành "Logos", kể cả nhãn bản dịch, bằng script trước 5.1; giữ chỗ nói tới site song song logos-zero | **Đổi hết thành "Logos"** (chủ biên chọn 5/11/2026) |
 
 ## 4. Kiến trúc
 
