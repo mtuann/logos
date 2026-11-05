@@ -74,6 +74,8 @@ jobs:
         run: uv run --frozen python tools/kb_events.py --check
       - name: Kho dữ kiện khớp schema và tham chiếu chéo
         run: uv run --frozen python tools/kb_check.py --check
+      - name: Khối thời sự — schema, mỗi khối dùng đúng một lần
+        run: uv run --frozen python tools/thoi_su_check.py --check
       - name: ID cố định cho mục H2 của Lõi
         run: uv run --frozen python tools/add_heading_ids.py --check
       - name: Sổ kiểm chứng (đơn vị đóng băng không được đổi ngoài doi-loi)

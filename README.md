@@ -50,6 +50,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   kb_events.py            data/kb/events.yml: ứng viên sự kiện (năm + câu) ở khối lich-su, viet-nam và câu có nhãn độ chắc chắn
   sep_archive.py          đổi link SEP sang bản lưu fall2026 (quyết định 14) sau khi mở thử từng mục; --dry-run, --cache
   kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
+  thoi_su_check.py        khối thời sự data/thoi-su/*.md: schema, id, mỗi khối được đúng trang của nó dùng một lần
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị hoặc bản ghi: people/kant, ho-so/kant…)
   changed_units.py        báo cáo đơn vị đổi chữ giữa hai phiên bản (tầng, khối, trạng thái sổ, việc cần làm);
@@ -79,6 +80,7 @@ tests/
   test_kb_philpapers.py   JSON ↔ philpapers-2020.md giống từng byte
   test_kb_events.py       tools/kb_events.py: mẫu năm, bỏ năm tác phẩm và năm sinh mất
   test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
+  test_thoi_su.py         tools/thoi_su_check.py: khối thiếu, thừa, dùng sai trang, sai schema
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
   test_linters.py         terms_policy và ba linter
@@ -132,6 +134,7 @@ uv run python tools/content_registry.py --check  # content.yml khớp trang và 
 uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có ID cố định {#id}
 uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng dạng; đơn vị đóng băng không đổi mã băm
 uv run python tools/kb_check.py --check          # kho dữ kiện data/kb/, data/people/ khớp schema/kb/ và tham chiếu chéo
+uv run python tools/thoi_su_check.py --check     # khối thời sự data/thoi-su/ khớp schema, mỗi khối dùng đúng một lần
 for l in lint_terms lint_volatile lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục

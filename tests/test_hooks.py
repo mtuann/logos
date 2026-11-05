@@ -73,7 +73,7 @@ class TestKbShortcode(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.reg = kb.load_registry(ROOT)
+        cls.reg = kb.load_context(ROOT)
 
     def test_counts_match_registry(self):
         expect = {"cau-hoi": "57", "cong-cu": "15", "lich-su": "8", "doc": "19", "triet-gia": "59",
@@ -97,6 +97,54 @@ class TestKbShortcode(unittest.TestCase):
 
     def test_thousands(self):
         self.assertEqual(kb.fmt_int(1234567), "1.234.567")
+
+
+class TestThoiSuShortcode(unittest.TestCase):
+    """hooks/kb.py: [[thoi-su:id]] chèn nguyên văn thân khối data/thoi-su/<id>.md (ban-giao/dot-3.md)."""
+
+    @classmethod
+    def setUpClass(cls):
+        import tempfile
+        cls.tmp = tempfile.TemporaryDirectory()
+        root = Path(cls.tmp.name)
+        d = root / "data" / "thoi-su"
+        d.mkdir(parents=True)
+        fm = "---\npage: a/b.md\nupdated_to: 2026-10-22\nreview_by: 2027-10-22\nsources: []\n---\n"
+        (d / "a.b.mot-dong.md").write_text(fm + "**hơn 200 người** (số liệu [[count:x]])\n", encoding="utf-8")
+        (d / "a.b.nhieu-dong.md").write_text(fm + "Dòng một.\n\nDòng ba [link](c.md).\n", encoding="utf-8")
+        cls.blocks = kb.load_thoi_su(root)
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.tmp.cleanup()
+
+    def test_inline(self):
+        got = kb.expand_thoi_su("Có [[thoi-su:a.b.mot-dong]] bị kết án.", self.blocks, "a/b.md")
+        self.assertEqual(got, "Có **hơn 200 người** (số liệu [[count:x]]) bị kết án.")
+
+    def test_block_keeps_indent(self):
+        src = "- mục\n\n    [[thoi-su:a.b.nhieu-dong]]\n\nSau."
+        got = kb.expand_thoi_su(src, self.blocks, "a/b.md")
+        self.assertEqual(got, "- mục\n\n    Dòng một.\n\n    Dòng ba [link](c.md).\n\nSau.")
+
+    def test_block_must_stand_alone(self):
+        with self.assertRaises(kb.PluginError):
+            kb.expand_thoi_su("Chữ [[thoi-su:a.b.nhieu-dong]]", self.blocks, "a/b.md")
+
+    def test_wrong_page_or_missing(self):
+        for src, where in (("[[thoi-su:a.b.mot-dong]]", "x.md"), ("[[thoi-su:khong-co]]", "a/b.md")):
+            with self.assertRaises(kb.PluginError, msg=src):
+                kb.expand_thoi_su(src, self.blocks, where)
+
+    def test_code_untouched(self):
+        src = "`[[thoi-su:khong-co]]`\n\n```\n[[thoi-su:khong-co]]\n```\n"
+        self.assertEqual(kb.expand_thoi_su(src, self.blocks, "a/b.md"), src)
+
+    def test_expand_opens_thoi_su_first(self):
+        ctx = dict(kb.load_context(ROOT), thoi_su=self.blocks)
+        with self.assertRaises(kb.PluginError) as cm:   # [[count:x]] trong thân khối cũng được mở (và sai)
+            kb.expand("[[thoi-su:a.b.mot-dong]]", ctx, "a/b.md")
+        self.assertIn("[[count:x]]", str(cm.exception))
 
 if __name__ == "__main__":
     unittest.main()
