@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 # Zeno xứ Citium
 
-**k. 334–262 TCN** · Hy Lạp cổ đại · *Zeno of Citium*
+**k. 335–263 TCN** · Hy Lạp cổ đại · *Zeno of Citium*
 
 Khoảng ba mươi tuổi, một thương nhân người Citium bị đắm tàu trên đường chở thuốc nhuộm tím từ Phoenicia tới cảng Piraeus. Lên Athens, ông ngồi trong một hiệu sách đọc quyển II cuốn *Hồi ức về Socrates* của Xenophon, say mê đến mức hỏi: tìm đâu ra những người như thế? Đúng lúc ấy triết gia Crates đi ngang, người bán sách chỉ tay: “Hãy theo ông ấy.” Về sau Zeno nói: “Tôi đã có một chuyến đi suôn sẻ khi bị đắm tàu.” Chuyện do Diogenes Laërtius chép, có nhiều dị bản, nhưng nó tóm được tinh thần của người sáng lập phái Khắc kỷ: biến tai họa thành dịp học.
 

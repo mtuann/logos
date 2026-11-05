@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 # Mặc Tử
 
-**k. 470–391 TCN** · Trung Hoa · *Mozi*
+**hoạt động k. 430 TCN, mất k. 390 TCN** · Trung Hoa · *Mozi*
 
 Nghe tin người thợ trứ danh Công Thâu Ban vừa làm xong thang mây cho nước Sở để đánh nước Tống, Mặc Tử đi ròng rã mười ngày mười đêm tới Dĩnh, kinh đô Sở. Trước mặt vua Sở, ông cởi dây lưng làm tường thành, lấy thẻ gỗ làm khí giới, đấu trận giả: chín lần Công Thâu Ban đổi cách công, chín lần ông chống được. Ông còn cho biết ba trăm học trò của mình đã cầm khí cụ phòng thủ đứng sẵn trên thành Tống. Vua Sở bỏ ý định đánh Tống. Trên đường về đi qua nước Tống, trời mưa, ông vào trú dưới cổng làng, người giữ cổng không cho vào. Sách *Mặc Tử* (thiên “Công Thâu”) kết: người lo việc một cách thầm lặng thì thiên hạ chẳng ai biết công.
 

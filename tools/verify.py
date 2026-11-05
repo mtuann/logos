@@ -90,7 +90,8 @@ def save_ledger(ledger: dict, root: Path = ROOT) -> None:
 
 
 def ghi_so(dot: str, root: Path = ROOT) -> tuple[int, int, list[str]]:
-    """Thêm khóa chưa có (chua-kiem). Khóa chua-kiem đã có thì cập nhật mã băm. Khóa của đợt con (cùng loại bản ghi
+    """Thêm khóa chưa có (chua-kiem). Khóa chua-kiem đã có thì cập nhật mã băm; khóa da-kiem đổi chữ sau khi kiểm thì
+    về chua-kiem với mã băm mới (phải kiểm lại). Khóa của đợt con (cùng loại bản ghi
     hoặc cùng trang) không còn ứng với bản ghi nào (bản ghi rút nhầm bị bỏ, tác phẩm đổi khóa) thì bỏ khỏi sổ, trừ
     khóa đã đóng băng (check_ledger báo lỗi cho khóa đó). File bằng chứng cũ giữ nguyên. Trả (thêm, cập nhật, bỏ)."""
     ledger = cl.load(root)
@@ -112,6 +113,9 @@ def ghi_so(dot: str, root: Path = ROOT) -> tuple[int, int, list[str]]:
             added += 1
         elif e["status"] == "chua-kiem" and e["hash"] != h:
             e["hash"] = h
+            updated += 1
+        elif e["status"] == "da-kiem" and e["hash"] != h:     # đã sửa sau khi kiểm: phải kiểm lại
+            ledger["units"][key] = {"status": "chua-kiem", "hash": h}
             updated += 1
     save_ledger(ledger, root)
     return added, updated, dropped

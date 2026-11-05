@@ -8,7 +8,7 @@ updated: 2026-10-22
 
 # Democritus
 
-**k. 460–370 TCN** · Tiền Socrates · *Democritus of Abdera*
+**sinh k. 460 TCN** · Tiền Socrates · *Democritus of Abdera*
 
 Vị ngọt của ly nước mía, màu đỏ của trái ớt, cái nóng trưa hè — chúng có thật “ở ngoài kia”, hay chỉ có trong ta? Democritus trả lời bằng một câu còn sót lại: ngọt, đắng, nóng, lạnh, màu sắc chỉ có “theo quy ước”; trong thực tại chỉ có nguyên tử và khoảng trống. Câu trả lời ấy táo bạo đến mức hơn hai nghìn năm sau người ta vẫn còn tranh luận.
 

@@ -13,7 +13,7 @@ updated: 2026-11-05
 
 ## Thales {#thales}
 
-k. 624–546 TCN · [Trang triết gia](../triet-gia/thales.md)
+k. 620–546 TCN · [Trang triết gia](../triet-gia/thales.md)
 
 - *On the Solstice* — nhắc tới trong: [hồ sơ Thales](../triet-gia/thales.md)
 
@@ -33,7 +33,7 @@ TK 6 TCN (theo truyền thống) · [Trang triết gia](../triet-gia/lao-tu.md)
 
 ## Heraclitus {#heraclitus}
 
-k. 540–480 TCN · [Trang triết gia](../triet-gia/heraclitus.md)
+hoạt động k. 500 TCN · [Trang triết gia](../triet-gia/heraclitus.md)
 
 - *Peri physeōs* (500 TCN) — nhắc tới trong: [hồ sơ Heraclitus](../triet-gia/heraclitus.md)
 
@@ -49,14 +49,14 @@ k. 480–400 TCN (còn tranh luận) · [Trang triết gia](../triet-gia/duc-pha
 
 ## Mặc Tử {#mac-tu}
 
-k. 470–391 TCN · [Trang triết gia](../triet-gia/mac-tu.md)
+hoạt động k. 430 TCN, mất k. 390 TCN · [Trang triết gia](../triet-gia/mac-tu.md)
 
 - *Mặc Tử* — nhắc tới trong: [hồ sơ Mặc Tử](../triet-gia/mac-tu.md)
 - *Mặc kinh* — nhắc tới trong: [hồ sơ Mặc Tử](../triet-gia/mac-tu.md)
 
 ## Democritus {#democritus}
 
-k. 460–370 TCN · [Trang triết gia](../triet-gia/democritus.md)
+sinh k. 460 TCN · [Trang triết gia](../triet-gia/democritus.md)
 
 - *Great Diacosmos* — nhắc tới trong: [hồ sơ Democritus](../triet-gia/democritus.md)
 - *Lesser Diacosmos* — nhắc tới trong: [hồ sơ Democritus](../triet-gia/democritus.md)
@@ -90,7 +90,7 @@ k. 372–289 TCN (theo truyền thống) · [Trang triết gia](../triet-gia/man
 
 ## Trang Tử {#trang-tu}
 
-k. 369–286 TCN · [Trang triết gia](../triet-gia/trang-tu.md)
+k. 369–298 TCN · [Trang triết gia](../triet-gia/trang-tu.md)
 
 - *Trang Tử* — nhắc tới trong: [hồ sơ Trang Tử](../triet-gia/trang-tu.md)
 
@@ -105,7 +105,7 @@ k. 369–286 TCN · [Trang triết gia](../triet-gia/trang-tu.md)
 
 ## Zeno xứ Citium {#zeno}
 
-k. 334–262 TCN · [Trang triết gia](../triet-gia/zeno.md)
+k. 335–263 TCN · [Trang triết gia](../triet-gia/zeno.md)
 
 - *On the Nature of Man* — nhắc tới trong: [hồ sơ Zeno xứ Citium](../triet-gia/zeno.md)
 - *Politeia* — nhắc tới trong: [hồ sơ Zeno xứ Citium](../triet-gia/zeno.md)

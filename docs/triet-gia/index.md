@@ -14,9 +14,9 @@ Hiện có **59 triết gia**.
 
 ### Tiền Socrates
 
-- [Thales (k. 624–546 TCN)](thales.md) — Hỏi muôn vật từ đâu mà ra và trả lời bằng tự nhiên (nước) thay cho thần thoại; được Aristotle coi là triết gia đầu tiên.
-- [Heraclitus (k. 540–480 TCN)](heraclitus.md) — Muôn vật biến đổi nhưng theo chừng mực và một logos chung; dòng sông vẫn là nó chính nhờ nước luôn thay.
-- [Democritus (k. 460–370 TCN)](democritus.md) — Thuyết nguyên tử: chỉ có nguyên tử và khoảng trống; hạnh phúc là một tâm hồn an vui, không sợ hãi.
+- [Thales (k. 620–546 TCN)](thales.md) — Hỏi muôn vật từ đâu mà ra và trả lời bằng tự nhiên (nước) thay cho thần thoại; được Aristotle coi là triết gia đầu tiên.
+- [Heraclitus (hoạt động k. 500 TCN)](heraclitus.md) — Muôn vật biến đổi nhưng theo chừng mực và một logos chung; dòng sông vẫn là nó chính nhờ nước luôn thay.
+- [Democritus (sinh k. 460 TCN)](democritus.md) — Thuyết nguyên tử: chỉ có nguyên tử và khoảng trống; hạnh phúc là một tâm hồn an vui, không sợ hãi.
 
 ### Hy Lạp cổ đại
 
@@ -24,7 +24,7 @@ Hiện có **59 triết gia**.
 - [Platon (k. 428–347 TCN)](platon.md) — Học trò Socrates, lập Học viện ở Athens; thuyết Ý niệm: sau những vật đẹp đổi thay có cái Đẹp tự thân bất biến.
 - [Aristotle (384–322 TCN)](aristotle.md) — Học trò rồi người phê bình Platon; đặt nền logic học, sinh học, đạo đức đức hạnh: hạnh phúc là sống tốt theo lý trí cả đời.
 - [Epicurus (341–270 TCN)](epicurus.md) — Thầy của Khu Vườn ở Athens: hạnh phúc là thân không đau, tâm không xao động; chết không là gì với ta.
-- [Zeno xứ Citium (k. 334–262 TCN)](zeno.md) — Sáng lập phái Khắc kỷ ở Stoa Poikile: sống phù hợp với tự nhiên và lý trí; chỉ đức hạnh là điều thiện.
+- [Zeno xứ Citium (k. 335–263 TCN)](zeno.md) — Sáng lập phái Khắc kỷ ở Stoa Poikile: sống phù hợp với tự nhiên và lý trí; chỉ đức hạnh là điều thiện.
 
 ### La Mã
 
@@ -81,9 +81,9 @@ Hiện có **59 triết gia**.
 
 - [Lão Tử (TK 6 TCN (theo truyền thống))](lao-tu.md) — Đạo không thể gọi tên; vô vi là làm mà không cưỡng ép; nước mềm mà thắng cứng. Tác giả truyền thống của Đạo đức kinh.
 - [Khổng Tử (551–479 TCN (theo truyền thống))](khong-tu.md) — Người thầy của nhân và lễ: tu thân trước rồi mới trị người; cai trị bằng đức và gương sáng hơn bằng hình phạt.
-- [Mặc Tử (k. 470–391 TCN)](mac-tu.md) — Kiêm ái: quan tâm đến mọi người không phân biệt; chống chiến tranh xâm lược; đo đúng sai bằng lợi ích của thiên hạ.
+- [Mặc Tử (hoạt động k. 430 TCN, mất k. 390 TCN)](mac-tu.md) — Kiêm ái: quan tâm đến mọi người không phân biệt; chống chiến tranh xâm lược; đo đúng sai bằng lợi ích của thiên hạ.
 - [Mạnh Tử (k. 372–289 TCN (theo truyền thống))](manh-tu.md) — Tính người có bốn mầm thiện cần vun xới; dân là quý, vua là nhẹ; kẻ tàn hại nhân nghĩa đã mất tư cách làm vua.
-- [Trang Tử (k. 369–286 TCN)](trang-tu.md) — Đúng sai tùy chỗ đứng; mộng hồ điệp và tự do tiêu dao. Người đưa Đạo gia vào văn chương bằng ngụ ngôn và tiếng cười.
+- [Trang Tử (k. 369–298 TCN)](trang-tu.md) — Đúng sai tùy chỗ đứng; mộng hồ điệp và tự do tiêu dao. Người đưa Đạo gia vào văn chương bằng ngụ ngôn và tiếng cười.
 - [Tuân Tử (k. 310–sau 238 TCN)](tuan-tu.md) — Tính người là ác, điều thiện do con người làm ra: học tập và lễ nghĩa chuyển hóa bản tính; trời chỉ là tự nhiên vận hành.
 - [Hàn Phi (k. 280–233 TCN)](han-phi.md) — Tổng hợp tư tưởng Pháp gia: pháp, thuật, thế; đừng chờ vua thánh, hãy dựng thể chế chạy được với người cầm quyền bình thường.
 - [Chu Hy (1130–1200)](chu-hy.md) — Tổng hợp Tân Nho giáo: lý và khí, cách vật trí tri; chú giải Tứ thư làm chuẩn khoa cử từ năm 1313, ảnh hưởng khắp Đông Á.
@@ -95,7 +95,7 @@ Hiện có **59 triết gia**.
 
 ### Việt Nam
 
-- [Tuệ Trung Thượng Sĩ (1230–1291)](tue-trung.md) — Bậc thầy thiền tại gia thời Trần, thầy của Trần Nhân Tông: Phật là Phật, ta là ta; quay về soi chính mình, đừng bám hình thức.
+- [Tuệ Trung Thượng Sĩ (1230–1291)](tue-trung.md) — Bậc thầy thiền tại gia thời Trần, thầy của Trần Nhân Tông: quay về soi chính mình, đừng bám hình thức.
 - [Trần Nhân Tông (1258–1308)](tran-nhan-tong.md) — Vua hai lần thắng Nguyên–Mông rồi đi tu, sáng lập thiền phái Trúc Lâm: Phật ở ngay trong tâm, có thể tu giữa đời.
 - [Chu Văn An (k. 1292–1370)](chu-van-an.md) — Nhà giáo, nhà Nho đời Trần: dâng “Thất trảm sớ” xin chém bảy nịnh thần; không được nghe thì từ quan về dạy học.
 - [Nguyễn Trãi (1380–1442)](nguyen-trai.md) — Nhà Nho hành động: soạn Bình Ngô đại cáo, lấy “yên dân” làm thước đo của nhân nghĩa và của quyền lực chính đáng.
