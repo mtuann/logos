@@ -1,0 +1,249 @@
+# Danh sách miễn của tools/lint_volatile.py (quyết định 20; ban-giao/dot-3.md việc 3.2–3.3).
+# Chỗ bị bắt nhưng không có hạn dùng. Mỗi mục chỉ có hiệu lực khi một dòng của `unit` chứa đúng `context`;
+# sửa chữ ở đó thì linter bắt lại (`mien-thua`). Lý do: co-moc-thoi-gian, vi-du-gia-dinh, trang-thai-hoc-thuat,
+# chung-chung, su-kien-lich-su (nghĩa: tools/lint_volatile.py, REASONS). Chủ biên duyệt; đợt 5 có thể viết lại câu.
+- unit: cong-cu/quy-nap.md#mot-cau-hoi-khong-de-chiu-vi-sao-tin-quy-nap
+  found: Đến nay
+  context: concerning Human Understanding* (1748). Đến nay các nhà triết học vẫn chưa thống
+  reason: trang-thai-hoc-thuat
+- unit: cong-cu/gia-dinh-ngam.md#vi-du-2-mot-binh-luan-tren-mang-xa-hoi
+  found: hiện nay
+  context: 'định về thời gian: điều đúng *hiện nay* sẽ còn đúng *về sau*. Nó cũng'
+  reason: vi-du-gia-dinh
+- unit: cong-cu/so-do-hoa-lap-luan.md#mot-bai-ve-hoan-chinh
+  found: '2030'
+  context: cấm xe xăng trong nội đô từ năm 2030.
+  reason: vi-du-gia-dinh
+- unit: cong-cu/so-do-hoa-lap-luan.md#bai-tap
+  found: gần đây
+  context: 'hoặc một topic tranh luận bạn đọc gần đây. Vẽ sơ đồ đầy đủ: hộp, mũi tên,'
+  reason: vi-du-gia-dinh
+- unit: cong-cu/bien-chung-socrates.md#vi-du-kinh-dien-euthyphro
+  found: đến nay
+  context: ban đầu. Câu hỏi của Socrates đến nay vẫn là một trục của siêu đạo đức
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/loi-chung.md#thi-nghiem-tu-duy
+  found: gần đây
+  context: gia đình mình, một về tin tức gần đây.
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/khoa-hoc.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: hiện nay
+  context: giáo trình triết học khoa học hiện nay đều trình bày cả ba lập trường
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/ngon-ngu.md#cau-hoi-that-su-la-gi
+  found: hiện nay
+  context: '*khuynh hướng*. Hầu hết tranh luận hiện nay là: phiên bản mạnh đã chết chưa,'
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/ngon-ngu.md#cac-lap-truong-chinh
+  found: hiện nay
+  context: hướng được nghiên cứu nhiều nhất hiện nay, và nó có những bằng chứng thực
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/tam-tri-va-ai.md#cac-lap-truong-chinh
+  found: '2023'
+  context: tiếp cận thực dụng ra đời. Năm 2023, một nhóm 19 nhà nghiên cứu do
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/tam-tri-va-ai.md#cac-lap-truong-chinh
+  found: '2025'
+  context: vẫn còn tranh cãi gay gắt. Năm 2025, tạp chí *Nature* đăng kết quả
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/tam-tri-va-ai.md#lien-he-doi-song
+  found: hiện nay
+  context: của AI"). Họ không khẳng định AI hiện nay có ý thức. Họ lập luận rằng khả
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/cong-nghe-ai.md#tu-kiem-tra
+  found: mới nhất
+  context: nhiều so với tin tức về mô hình mới nhất.*
+  reason: chung-chung
+- unit: cau-hoi/cong-nghe-ai.md#tu-kiem-tra
+  found: '2026'
+  context: '*Nếu bạn làm quiz này sau năm 2026, hãy tự hỏi: câu trả lời của bạn'
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/van-de-tam-tri.md#_dau
+  found: đến nay
+  context: tam-tri-va-ai về tâm trí của máy móc) — và đến nay vẫn chưa có lời đáp được mọi người
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/van-de-tam-tri.md#_dau
+  found: đến nay
+  context: hỏi xưa nhất của triết học, và đến nay vẫn chưa có lời đáp được mọi người
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/van-de-tam-tri.md#cac-lap-truong-chinh
+  found: đến nay
+  context: giác sai. Cuộc tranh luận này, đến nay, vẫn là một trong những điểm nóng
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/tu-do-y-chi.md#thi-nghiem-tu-duy
+  found: '2045'
+  context: Năm 2045, một nhóm nhà khoa học chế tạo
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/tu-do-y-chi.md#tu-kiem-tra
+  found: Bộ luật
+  context: '{"q": "Theo Bộ luật Hình sự 2015, người say rượu gây'
+  reason: co-moc-thoi-gian
+  note: 'câu quiz nêu Bộ luật Hình sự 2015 theo tên có năm; đoạn văn xuôi về luật này ở khối thời sự cau-hoi.tu-do-y-chi.bo-luat-hinh-su: rà cùng khối'
+- unit: cau-hoi/dinh-menh.md#_dau
+  found: năm nay
+  context: 'cho vui, người thì thật sự tin: năm nay "sao xấu chiếu mệnh", nên làm'
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/dinh-menh.md#cac-lap-truong-chinh
+  found: hiện nay
+  context: cách đáp lại được nhiều triết gia hiện nay ưa nhất. Câu "ngày mai có hải
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/dinh-menh.md#cac-lap-truong-chinh
+  found: hiện nay
+  context: định ở một nghĩa nào đó. Vật lý hiện nay *chưa ngã ngũ*, và đây là câu
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/dinh-menh.md#lien-he-doi-song
+  found: năm nay
+  context: đến mức đúng với ai cũng được ("năm nay bạn sẽ gặp một thay đổi lớn")
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh
+  found: đến nay
+  context: hơn, thì sao? Cuộc tranh luận đến nay vẫn chưa ngã ngũ.
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/sieu-dao-duc.md#cac-lap-truong-chinh
+  found: gần đây
+  context: fallacy*). Những người bảo vệ nhánh này gần đây gồm Derek Parfit (*On What Matters*,
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/ban-tinh-con-nguoi.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: '2025'
+  context: đỡ" hơn nhân vật "cản trở"; năm 2025, 37 phòng thí nghiệm làm lại với
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/dao-duc-moi-truong.md#_dau
+  found: hiện nay
+  context: đứng sau hầu hết luật môi trường hiện nay và đã đủ mạnh để hành động.
+  reason: chung-chung
+- unit: cau-hoi/dao-duc-moi-truong.md#cac-lap-truong-chinh
+  found: hiện nay
+  context: đứng sau hầu hết luật môi trường hiện nay.
+  reason: chung-chung
+- unit: cau-hoi/dao-duc-moi-truong.md#lien-he-doi-song
+  found: hiện nay
+  context: phải hiểu chặt — phần lớn người hiện nay có thể sống khỏe mà không cần
+  reason: chung-chung
+- unit: cau-hoi/an-tu-hinh.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: hiện nay
+  context: hành ("với hệ thống tư pháp như hiện nay").
+  reason: chung-chung
+- unit: cau-hoi/khi-hau-trach-nhiem.md#_dau
+  found: Nghị định
+  context: 2017); tầng ozone được cứu nhờ Nghị định thư Montreal (1987) và các lần
+  reason: su-kien-lich-su
+- unit: cau-hoi/khi-hau-trach-nhiem.md#cac-lap-truong-chinh
+  found: Nghị định
+  context: nguyện bớt dùng bình xịt, mà vì Nghị định thư Montreal (1987) — cùng các
+  reason: su-kien-lich-su
+- unit: cau-hoi/khi-hau-trach-nhiem.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: hiện nay
+  context: chính trong triết học khí hậu hiện nay. Nhưng "đang phát triển nhanh"
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/khi-hau-trach-nhiem.md#lien-he-doi-song
+  found: '2080'
+  context: nghĩ đến đứa trẻ sẽ sinh ra năm 2080 mỗi khi bạn quyết định. Không
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/khe-uoc-xa-hoi.md#cac-lap-truong-chinh
+  found: mới nhất
+  context: Đây là một trong những biên giới mới nhất của lý thuyết khế ước — và là
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/dan-chu.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: đến nay
+  context: sôi nổi nhất từ những năm 1990 đến nay; còn lời cảnh báo về "chuyên chế
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/nu-quyen.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: đến nay
+  context: học đương đại từ những năm 1980 đến nay — với các tạp chí chuyên ngành,
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/chien-tranh-chinh-dang.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: đến nay
+  context: học ứng dụng từ những năm 2000 đến nay — với hàng loạt sách và hội thảo.
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/chien-tranh-chinh-dang.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: Nghị định
+  context: thành điều khoản rõ ràng trong Nghị định thư bổ sung I năm 1977 — cũng
+  reason: su-kien-lich-su
+- unit: cau-hoi/bien-gioi-di-cu.md#cac-lap-truong-chinh
+  found: đến nay
+  context: là một câu hỏi mà phe đóng cửa đến nay vẫn chưa trả lời thật thỏa đáng.
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/nghe-thuat.md#cac-lap-truong-chinh
+  found: '2026'
+  context: một vật, đặt trong bảo tàng năm 2026 là nghệ thuật, để trong kho năm
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/nghe-thuat.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: '2022'
+  context: trước vụ tranh AI đoạt giải năm 2022 kể ở dưới.
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/nghe-thuat.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: đến nay
+  context: thay vì vào những gì mắt thấy; và đến nay các định nghĩa thể chế, lịch sử,
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/nghe-thuat.md#lien-he-doi-song
+  found: '2022'
+  context: '**AI vẽ tranh, AI làm nhạc.** Năm 2022, một bức tranh do AI tạo ra (*Théâtre'
+  reason: co-moc-thoi-gian
+- unit: cau-hoi/luan-chung-ton-giao.md#cac-lap-truong-chinh
+  found: đến nay
+  context: hai phản bác đầu tiên dưới đây, đến nay vẫn được dùng; phản bác thứ ba
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/luan-chung-ton-giao.md#cac-lap-truong-chinh
+  found: đến nay
+  context: ai thắng ai. Cuộc tranh luận, đến nay, vẫn là cuộc đối đầu giữa hai
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/van-de-su-du.md#cau-hoi-that-su-la-gi
+  found: hiện nay
+  context: nhất của phiên bản bằng chứng hiện nay.
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/van-de-su-du.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: hiện nay
+  context: hiếm hoi của ngành. Tranh luận hiện nay tập trung gần như hoàn toàn vào
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/linh-hon.md#tu-viet
+  found: '2040'
+  context: '**Câu hỏi:** Hãy tưởng tượng năm 2040, một công ty tuyên bố đã tạo ra'
+  reason: vi-du-gia-dinh
+- unit: cau-hoi/mo-phong.md#cac-lap-truong-chinh
+  found: đến nay
+  context: '"dấu hiệu mô phỏng" đề xuất cho đến nay đều có thể giải thích bằng vật'
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/y-nghia-song.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: hiện nay
+  context: trong tâm lý học và triết học hiện nay — mà vẫn chưa có lý thuyết nào
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/tinh-yeu.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: đến nay
+  context: tình yêu — ngược lại, từ Platon đến nay, tình yêu là một trong những chủ
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/truc-lam.md#cau-hoi-that-su-la-gi
+  found: đến nay
+  context: viết bốn câu kệ nổi tiếng, mà đến nay nhiều người Việt vẫn thuộc hai
+  reason: trang-thai-hoc-thuat
+- unit: cau-hoi/viet-hien-dai.md#gioi-triet-hoc-ngay-nay-nghi-gi
+  found: gần đây
+  context: Tây không? Trong những thập kỷ gần đây, ngày càng nhiều triết gia và
+  reason: trang-thai-hoc-thuat
+- unit: lich-su/the-ky-20.md#nga-thu-nhat-phan-tich-ngon-ngu-va-logic
+  found: đến nay
+  context: logic vị từ hiện đại — công cụ mà đến nay sinh viên logic vẫn học. Nhưng
+  reason: trang-thai-hoc-thuat
+- unit: lich-su/trung-hoa.md#manh-tu-vs-tuan-tu-ban-tinh-thien-hay-ac
+  found: đến nay
+  context: được *nuôi dưỡng* hay *uốn nắn* — đến nay vẫn sống trong
+  reason: trang-thai-hoc-thuat
+- unit: lich-su/nhat-ban-viet-nam.md#nhat-ban-tu-phat-giao-den-truong-phai-kyoto
+  found: đến nay
+  context: Đông–Tây của họ vẫn được nghiên cứu đến nay.
+  reason: trang-thai-hoc-thuat
+- unit: doc/platon-hang-dong.md#phan-bac
+  found: đến nay
+  context: tranh luận giữa hai cách nhìn này đến nay chưa ngã ngũ.
+  reason: trang-thai-hoc-thuat
+- unit: doc/luan-ngu.md#_dau
+  found: hiện nay
+  context: Khổng Tử; một số nhà nghiên cứu hiện nay cho rằng văn bản chỉ được chú
+  reason: trang-thai-hoc-thuat
+- unit: doc/aurelius-suy-tuong.md#hieu-lam-thuong-gap
+  found: hiện nay
+  context: viết cho chính mình; các học giả hiện nay nhìn chung đồng ý như vậy. Vì
+  reason: trang-thai-hoc-thuat
+- unit: doc/tam-kinh.md#_dau
+  found: đến nay
+  context: sang tiếng Phạn. Giả thuyết này đến nay vẫn còn tranh luận.
+  reason: trang-thai-hoc-thuat

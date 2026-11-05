@@ -110,6 +110,54 @@ class TestLintVolatile(unittest.TestCase):
         self.assertTrue(lint_volatile.is_citation("Kahane et al. "))
         self.assertFalse(lint_volatile.is_citation("từ năm "))
         self.assertFalse(lint_volatile.is_citation("gay gắt. Năm "))
+        self.assertTrue(lint_volatile.is_citation("Hicks, Humphries và Slater ("))
+        self.assertTrue(lint_volatile.is_citation("(Lucca và cộng sự "))
+        self.assertFalse(lint_volatile.is_citation("Một nghiên cứu năm "))
+
+    def hits(self, line):
+        out = []
+        for rx, rule in ((lint_volatile.YEAR, "nam"), (lint_volatile.PHRASE, "cum-thoi-gian"),
+                         (lint_volatile.LAW, "van-ban-luat")):
+            out += [m.group(0) for m in rx.finditer(line) if not lint_volatile.ignored(rule, line, m)]
+        return out
+
+    def test_meanings_not_time(self):
+        # "tính đến" = "xét đến"; "hai nghìn năm nay" = độ dài; "Luật De Morgan" là luật logic
+        for line in ("thông tin đó là điều bạn phải tính đến.", "đều không tính đến — một giá trị",
+                     "từ hơn hai nghìn năm nay, các triết gia", "Luật De Morgan: phủ định của hội"):
+            self.assertEqual(self.hits(line), [], line)
+        for line, want in (("Tính đến năm 2026, có", ["2026", "Tính đến"]), ("tính đến nay vẫn", ["tính đến"]),
+                           ("năm nay sao xấu", ["năm nay"]), ("Luật Bảo vệ dữ liệu", ["Luật "]),
+                           ("phần lớn tạng ghép hiện nay", ["hiện nay"])):
+            self.assertEqual(sorted(self.hits(line)), sorted(want), line)
+
+    def test_allowlist(self):
+        f = lint_volatile.Finding("a.md", 3, "a.md#x", "cum-thoi-gian", "đến nay", "")
+        line = "Cuộc tranh luận này, đến nay, vẫn là một trong những điểm nóng nhất."
+        old = lint_volatile.raw_findings
+        lint_volatile.raw_findings = lambda: iter([(f, line)])
+        try:
+            ok = {"unit": "a.md#x", "found": "đến nay", "context": "tranh luận này, đến nay, vẫn là", "reason": "chung-chung"}
+            stale = dict(ok, context="tranh luận ấy, đến nay, vẫn là")
+            left, allowed, unused = lint_volatile.split_allowed([ok])
+            self.assertEqual((left, len(allowed), unused), ([], 1, []))
+            left, allowed, unused = lint_volatile.split_allowed([stale])
+            self.assertEqual((left, allowed, unused), ([f], [], [stale]))   # đổi chữ: hết miễn, mục thành thừa
+        finally:
+            lint_volatile.raw_findings = old
+
+    def test_allowlist_validation(self):
+        tmp = Path(tempfile.mkdtemp(prefix="allow-"))
+        try:
+            for bad in ('- {unit: a.md#x, found: đến nay, context: ngắn đến nay, reason: chung-chung}',
+                        '- {unit: a.md#x, found: đến nay, context: "một đoạn đủ dài nhưng thiếu cụm", reason: chung-chung}',
+                        '- {unit: a.md#x, found: đến nay, context: "một đoạn đủ dài, đến nay vẫn vậy", reason: khac}',
+                        '- {unit: a.md#x, found: đến nay, context: "một đoạn đủ dài, đến nay vẫn vậy"}'):
+                (tmp / "a.yml").write_text(bad, encoding="utf-8")
+                with self.assertRaises(ValueError, msg=bad):
+                    lint_volatile.load_allow(tmp / "a.yml")
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
 
     def test_overdue_thoi_su(self):
         tmp = Path(tempfile.mkdtemp(prefix="thoi-su-"))
