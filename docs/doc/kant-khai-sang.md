@@ -3,6 +3,8 @@ title: "\"Khai sáng là gì?\" — Immanuel Kant (1784)"
 description: "Hướng dẫn đọc bài tiểu luận năm 1784 của Kant, kèm nguyên văn tiếng Đức: khai sáng là dám dùng trí tuệ của chính mình, và ranh giới giữa dùng lý trí công khai với tuân thủ trong vai trò."
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # "Khai sáng là gì?" — Immanuel Kant (1784)

@@ -3,6 +3,8 @@ title: Cai trị bằng đức hay bằng pháp?
 description: "Khổng Tử dạy trị bằng đức, Mạnh Tử đặt dân lên trên vua, Hàn Phi đòi trị bằng pháp: ba câu trả lời của Trung Hoa cổ đại cho câu hỏi quyền lực chính đáng đến từ đâu — và chúng có tương thích với dân chủ?"
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Cai trị bằng đức hay bằng pháp?

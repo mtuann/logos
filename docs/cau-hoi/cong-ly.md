@@ -3,6 +3,8 @@ title: "Công lý là gì? Rawls và bức màn vô tri"
 description: "Phân phối của cải xã hội thế nào là công bằng? Thí nghiệm 'bức màn vô tri' của Rawls, hai nguyên tắc công lý, và phản bác từ Nozick và Sandel."
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Công lý là gì? Rawls và bức màn vô tri

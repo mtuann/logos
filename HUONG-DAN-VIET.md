@@ -97,8 +97,12 @@ title: Một cỗ máy có thể có tâm trí không?
 description: Một câu tóm tắt bài, dùng cho tìm kiếm và thẻ chia sẻ.
 skill: mind          # khóa kỹ năng cho tiến độ: intro, argument, deduction, induction, assumption, fallacy, logic, knowledge, mind, freewill, vietnam, ethics, politics, aesthetics, religion, metaphysics, meaning, terms
 updated: 2026-10-13
+tier: loi            # tầng, chép từ content.yml: loi | mo-rong | he-thong
+block: tam-tri       # khối, chép từ content.yml (trang he-thong không có dòng này)
 ---
 ```
+
+`tier` và `block` do `python tools/content_registry.py --sync-frontmatter` ghi từ `content.yml`; đừng gõ tay khác sổ (CI báo lỗi).
 
 - Thí nghiệm tư duy: `!!! question "Thí nghiệm tư duy"` (nội dung thụt 4 dấu cách). Sau khung là dòng "Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp."; phần bình luận/biến thể đặt trong `??? question "Sau khi bạn đã tự trả lời"` (thụt 4 dấu cách). **Đừng** để một đoạn văn thụt 4 dấu cách đứng ngoài admonition: Markdown sẽ biến nó thành khối code (lỗi từng có ở 26 bài; `tests/test_indexes.py` nay bắt lỗi này).
 - Trích văn bản gốc: `!!! quote "Tên tác phẩm, năm"`.

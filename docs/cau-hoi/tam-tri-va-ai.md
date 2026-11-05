@@ -3,6 +3,8 @@ title: Một cỗ máy có thể có tâm trí không?
 description: Phép thử Turing, Căn phòng tiếng Trung, vấn đề khó của ý thức và các mô hình ngôn ngữ lớn. Khi nào ta có lý do để nói một cỗ máy hiểu, hay cảm thấy?
 skill: mind
 updated: 2026-10-22
+tier: loi
+block: tam-tri
 ---
 
 # Một cỗ máy có thể có tâm trí không?

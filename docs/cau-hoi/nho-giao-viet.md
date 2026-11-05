@@ -3,6 +3,8 @@ title: "Nho giáo Việt Nam: tiếp thu hay sáng tạo?"
 description: "Một học thuyết từ phương Bắc trở thành tư tưởng của sĩ phu Việt ra sao? Từ Chu Văn An đến Nguyễn Trãi: khi 'nhân nghĩa' có nghĩa là 'yên dân'."
 skill: vietnam
 updated: 2026-10-22
+tier: loi
+block: viet-nam
 ---
 
 # Nho giáo Việt Nam: tiếp thu hay sáng tạo?

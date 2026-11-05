@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Đạo đức Nicomachus (quyển I–II)"
 description: "Đọc chậm Aristotle qua những đoạn trích bản dịch Ross: hạnh phúc (eudaimonia) là gì, đức hạnh do thói quen mà thành và là trung dung, kèm phản bác và câu hỏi tự viết."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: *Đạo đức Nicomachus*, quyển I–II

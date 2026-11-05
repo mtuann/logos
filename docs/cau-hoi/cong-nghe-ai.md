@@ -3,6 +3,8 @@ title: AI thay đổi con người thế nào? Triết học công nghệ
 description: Công nghệ chỉ là công cụ trung lập, hay nó đang định hình lại con người? Từ "đặt bày" của Heidegger đến chủ nghĩa siêu nhân loại của Bostrom.
 skill: mind
 updated: 2026-10-22
+tier: loi
+block: tam-tri
 ---
 
 # AI thay đổi con người thế nào? Triết học công nghệ

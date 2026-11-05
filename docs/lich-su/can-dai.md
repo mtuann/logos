@@ -2,6 +2,8 @@
 title: "Cận đại: lý trí lên ngôi"
 description: "Từ Descartes đến Kant, triết học cận đại đặt cược vào lý trí con người: hoài nghi mọi thẩm quyền, rồi xây lại tri thức từ nền móng mới."
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Cận đại: lý trí lên ngôi

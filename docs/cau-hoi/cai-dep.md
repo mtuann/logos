@@ -3,6 +3,8 @@ title: "Cái đẹp ở trong mắt người nhìn?"
 description: "Vì sao ta tranh cãi về cái đẹp mà vẫn thấy tranh cãi có ý nghĩa? Từ Hume về chuẩn mực thị hiếu đến Kant về phán đoán thẩm mỹ vừa chủ quan vừa đòi đồng thuận."
 skill: aesthetics
 updated: 2026-10-22
+tier: loi
+block: my-hoc
 ---
 
 # Cái đẹp ở trong mắt người nhìn?

@@ -3,6 +3,8 @@ title: "Thế nào là một định nghĩa tốt?"
 description: "Định nghĩa tốt cho ta điều kiện cần và đủ. Từ những câu hỏi của Socrates đến phản ví dụ của Gettier (1963) và “trò chơi” của Wittgenstein: cách kiểm tra một định nghĩa và giới hạn của nó."
 skill: argument
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Thế nào là một định nghĩa tốt?

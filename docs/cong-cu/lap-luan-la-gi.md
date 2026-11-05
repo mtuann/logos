@@ -3,6 +3,8 @@ title: Lập luận là gì?
 description: Lập luận là một chuỗi lý do được đưa ra để ủng hộ một kết luận. Bài này chỉ cách nhận ra tiền đề, kết luận, từ chỉ báo, và cách viết một lập luận ở dạng chuẩn.
 skill: argument
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Lập luận là gì?

@@ -3,6 +3,8 @@ title: "Cuộc sống có ý nghĩa không?"
 description: "Giữa khát vọng sống nghiêm túc và một vũ trụ dường như chẳng quan tâm — có gì đó 'phi lý'. Từ Nagel, Wolf đến câu hỏi: ý nghĩa do mình đặt ra hay phải tìm ở đâu đó?"
 skill: meaning
 updated: 2026-10-22
+tier: loi
+block: y-nghia
 ---
 
 # Cuộc sống có ý nghĩa không?

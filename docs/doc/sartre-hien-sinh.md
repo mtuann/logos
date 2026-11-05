@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Sartre: Thuyết hiện sinh là một thuyết nh
 description: "Đọc chậm bài nói năm 1945 của Sartre (in năm 1946) qua diễn ý tiếng Việt: hiện hữu đi trước bản chất, bị kết án phải tự do, người học trò và lời khuyên, kèm phản bác và câu hỏi tự viết."
 skill: freewill
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: *Thuyết hiện sinh là một thuyết nhân bản* của Sartre

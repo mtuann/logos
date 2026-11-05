@@ -2,6 +2,8 @@
 title: "Ấn Độ: giải thoát khỏi khổ đau"
 description: "Từ Upanishad đến Đức Phật và Nagarjuna: triết học Ấn Độ xoay quanh câu hỏi làm sao thoát khổ. Tứ diệu đế, vô ngã, tính không, sáu trường phái chính thống."
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Ấn Độ: giải thoát khỏi khổ đau

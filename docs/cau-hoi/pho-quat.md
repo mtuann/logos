@@ -3,6 +3,8 @@ title: "Cái đỏ của hoa hồng và cái đỏ của máu: phổ quát có t
 description: "Hoa hồng đỏ, máu đỏ, đèn giao thông đỏ — cái 'đỏ' chung ấy có thật không, hay chỉ là một cái tên? Thực tại luận, duy danh luận và thuyết tương tự."
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Cái đỏ của hoa hồng và cái đỏ của máu: phổ quát có thật không?

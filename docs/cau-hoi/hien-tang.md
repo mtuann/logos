@@ -3,6 +3,8 @@ title: "Hiến tạng: ai được quyết định về thân thể sau khi ch�
 description: "Đăng ký tự nguyện hay mặc định đồng ý? Từ hiệu ứng mặc định trong chính sách hiến tạng đến tranh cãi về định nghĩa \"chết não\" — và câu hỏi thân thể thuộc về ai."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: luan-ly-ung-dung
 ---
 
 # Hiến tạng: ai được quyết định về thân thể sau khi chết?

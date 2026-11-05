@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Suy tưởng của Marcus Aurelius"
 description: "Đọc chậm Suy tưởng qua những đoạn trích bản dịch George Long: phán đoán và điều ngoài tầm tay, nhớ rằng mình sẽ chết, cái nhìn từ trên cao, kèm phản bác và câu hỏi tự viết."
 skill: meaning
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: *Suy tưởng* của Marcus Aurelius

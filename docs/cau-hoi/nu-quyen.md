@@ -3,6 +3,8 @@ title: Triết học nữ quyền là gì?
 description: Bình đẳng có nghĩa là đối xử giống nhau? Từ nữ quyền bình đẳng đến lý thuyết standpoint và cuộc đối đầu giữa đạo đức chăm sóc của Gilligan với đạo đức công lý.
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Triết học nữ quyền là gì?

@@ -3,6 +3,8 @@ title: "Đọc \"Biện hộ của Socrates\" (Platon)"
 description: "Lời bào chữa của Socrates trước tòa Athens năm 399 TCN: vì sao ông chọn cái chết thay vì ngừng hỏi, và ý nghĩa câu nói về cuộc đời được xét lại."
 skill: intro
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Đọc "Biện hộ của Socrates" (Platon)

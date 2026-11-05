@@ -3,6 +3,8 @@ title: Có bao giờ được nói dối?
 description: "Giấu bệnh cha mẹ, khen món quà mình không thích, kể chuyện ông già Noel: khi nào nói dối là sai, và vì sao? Từ Augustine, Kant, Mill đến chữ 'tín' của Khổng Tử và quyền được biết sự thật."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Có bao giờ được nói dối?

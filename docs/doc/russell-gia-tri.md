@@ -3,6 +3,8 @@ title: "Giá trị của triết học — Bertrand Russell (1912)"
 description: "Hướng dẫn đọc chương cuối của Những vấn đề của triết học, kèm nguyên văn và bản dịch: triết học không cho ta câu trả lời chắc chắn, nhưng làm vơi sự quả quyết giáo điều và mở rộng tâm trí."
 skill: intro
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Giá trị của triết học — Bertrand Russell (1912)

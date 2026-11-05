@@ -3,6 +3,8 @@ title: "Đúng sai có khách quan không?"
 description: "Khi hai thế hệ cãi nhau về đúng sai, có ai thật sự đúng không? Hiện thực luận, thuyết sai lầm của Mackie, biểu cảm luận và kiến tạo luận — bốn câu trả lời của siêu đạo đức học."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Đúng sai có khách quan không?

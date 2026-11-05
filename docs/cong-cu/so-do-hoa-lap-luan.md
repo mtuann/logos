@@ -3,6 +3,8 @@ title: "Sơ đồ hóa lập luận"
 description: "Vẽ lập luận thành sơ đồ hộp-mũi tên: tiền đề nào đỡ kết luận, giả định ngầm nằm ở đâu, tiền đề nào phải đi cùng nhau. Bài này hướng dẫn vẽ tay trong năm phút."
 skill: argument
 updated: 2026-10-13
+tier: loi
+block: cong-cu
 ---
 
 # Sơ đồ hóa lập luận

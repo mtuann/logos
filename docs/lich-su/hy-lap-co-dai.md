@@ -2,6 +2,8 @@
 title: "Hy Lạp cổ đại: từ thần thoại đến lý trí"
 description: "Từ Thales đến Aristotle, người Hy Lạp đã phát minh ra triết học: đặt câu hỏi về thế giới bằng lý trí thay vì thần thoại, từ nguyên tử đến ý niệm."
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Hy Lạp cổ đại: từ thần thoại đến lý trí

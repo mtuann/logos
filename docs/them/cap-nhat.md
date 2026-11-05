@@ -2,6 +2,7 @@
 title: Cập nhật
 description: Nhật ký thay đổi của Logos Zero.
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Cập nhật

@@ -3,6 +3,8 @@ title: Biết một điều nghĩa là gì?
 description: Từ giấc mơ của Descartes đến các ví dụ Gettier và tin giả trên mạng, bài này hỏi tri thức khác niềm tin ở chỗ nào, và ta có thể chắc chắn được bao nhiêu.
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: tri-thuc
 ---
 
 # Biết một điều nghĩa là gì?

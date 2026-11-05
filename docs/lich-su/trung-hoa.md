@@ -2,6 +2,8 @@
 title: "Trung Hoa: trăm nhà đua tiếng"
 description: "Khổng Tử, Mạnh Tử, Tuân Tử, Lão Tử, Trang Tử, Mặc Tử, Hàn Phi — thời Xuân Thu – Chiến Quốc trăm nhà đua tiếng, mỗi nhà một câu trả lời cho câu hỏi: sống thế nào cho đúng?"
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Trung Hoa: trăm nhà đua tiếng

@@ -3,6 +3,8 @@ title: Sự thật là gì?
 description: "Đúng là khớp với thực tại, là ăn khớp với mọi điều ta tin, là đích đến của sự truy tìm, hay chữ 'đúng' chẳng giấu gì sâu xa? Bốn lý thuyết chân lý giữa thời tin giả và chatbot nói sai một cách tự tin."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: tri-thuc
 ---
 
 # Sự thật là gì?

@@ -3,6 +3,8 @@ title: Khi nào kết luận buộc phải đúng?
 description: Lập luận suy diễn hứa hẹn sự chắc chắn. Bài này phân biệt hợp lệ với vững chắc, giới thiệu modus ponens, modus tollens, tam đoạn luận, hai ngụy biện hình thức và phương pháp phản ví dụ.
 skill: deduction
 updated: 2026-10-13
+tier: loi
+block: cong-cu
 ---
 
 # Khi nào kết luận buộc phải đúng?

@@ -3,6 +3,8 @@ title: "Tự do ngôn luận — John Stuart Mill, \"Bàn về tự do\" chươn
 description: "Hướng dẫn đọc chương 2 của Bàn về tự do: vì sao bịt miệng một ý kiến là sai ngay cả khi ý kiến đó sai, và bốn căn cứ Mill đưa ra để bảo vệ tự do tư tưởng và thảo luận."
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Tự do ngôn luận — John Stuart Mill, *Bàn về tự do* chương 2 (1859)

@@ -2,6 +2,7 @@
 title: Dữ liệu của tôi
 description: Xem tiến độ học, tải hoặc nhập bản sao lưu JSON, hoặc xóa toàn bộ dữ liệu lưu trong trình duyệt.
 updated: 2026-10-13
+tier: he-thong
 ---
 
 # Dữ liệu của tôi

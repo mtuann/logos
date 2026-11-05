@@ -3,6 +3,8 @@ title: "Bảng chân trị: khi lập luận thành phép tính"
 description: Mệnh đề là gì, sáu phép nối với bảng chân trị của từng phép, cách đọc bảng của công thức phức, và cách kiểm tra một lập luận hợp lệ bằng bảng chân trị — cùng giới hạn của logic mệnh đề.
 skill: logic
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Bảng chân trị: khi lập luận thành phép tính

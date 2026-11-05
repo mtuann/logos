@@ -37,7 +37,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   book.py                 sách in docs/them/sach.md theo thứ tự nav
   review_check.py         mục "Tình trạng rà soát" ở trang Cập nhật
   frontmatter_check.py    front matter YAML hợp lệ
-  content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI)
+  content_registry.py     sổ đăng ký content.yml: --init (sinh lần đầu từ nav), --check (CI),
+                          --sync-frontmatter (ghi tier, block vào front matter trang viết tay)
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
   add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)

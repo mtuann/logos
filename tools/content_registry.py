@@ -4,6 +4,7 @@
     python tools/content_registry.py --init            # sinh content.yml lần đầu (không ghi đè file đã có)
     python tools/content_registry.py --init --stdout   # in bản sinh ra màn hình để so, không ghi
     python tools/content_registry.py --init --force    # sinh lại, ghi đè (mất mọi chỉnh tay)
+    python tools/content_registry.py --sync-frontmatter  # ghi tier, block từ content.yml vào front matter trang viết tay
 
 Mỗi trang trong docs/ và mỗi file dữ liệu một dòng: loại (`type`/`kind`), tầng (`tier`), khối (`block`),
 có sinh tự động hay không (`generated`). Danh sách giá trị cho phép đọc từ schema/content.schema.json.
@@ -233,9 +234,17 @@ def check(reg, root: Path = ROOT) -> list[str]:
             errors.append(f"trang {path}: generated phải là {str(expected_generated(path)).lower()}")
         m = FRONT_MATTER.match((root / "docs" / path).read_text(encoding="utf-8"))
         meta = (yaml.safe_load(m.group(1)) or {}) if m else {}
+        meta = meta if isinstance(meta, dict) else {}
         for f in ("tier", "block"):
-            if isinstance(meta, dict) and f in meta and meta[f] != e[f]:
+            if f in meta and meta[f] != e[f]:
                 errors.append(f"trang {path}: front matter {f}: {meta[f]!r} lệch content.yml ({e[f]!r})")
+        # Trang viết tay phải mang tier (và block khi khác null) trong front matter (ban-giao/dot-1.md việc 1.4).
+        if not e["generated"]:
+            want = frontmatter_fields(e)
+            lacking = [f for f in want if f not in meta]
+            if lacking:
+                errors.append(f"trang {path}: front matter thiếu {', '.join(lacking)} "
+                              "(chạy: python tools/content_registry.py --sync-frontmatter)")
     for p in sorted((root / "docs").rglob("*.md")):
         rel = p.relative_to(root / "docs").as_posix()
         if rel not in seen:
@@ -264,6 +273,35 @@ def check(reg, root: Path = ROOT) -> list[str]:
     return errors
 
 
+def frontmatter_fields(entry: dict) -> dict:
+    """Các trường tầng/khối một trang viết tay mang trong front matter: tier luôn có; block khi khác null."""
+    out = {"tier": entry["tier"]}
+    if entry["block"] is not None:
+        out["block"] = entry["block"]
+    return out
+
+
+def sync_frontmatter(reg: dict, root: Path = ROOT) -> int:
+    """Ghi tier, block từ sổ vào front matter của mọi trang viết tay; trả về số file đã đổi.
+    Chỉ thay hoặc thêm đúng các dòng `tier:`, `block:` ở cuối front matter; các dòng khác giữ nguyên từng byte."""
+    changed = 0
+    for e in reg["pages"]:
+        if e["generated"]:
+            continue
+        f = root / "docs" / e["path"]
+        text = f.read_text(encoding="utf-8")
+        m = FRONT_MATTER.match(text)
+        if not m:
+            raise ValueError(f"{e['path']}: không có front matter")
+        lines = [ln for ln in m.group(1).split("\n") if not re.match(r"(tier|block):", ln)]
+        lines += [f"{k}: {v}" for k, v in frontmatter_fields(e).items()]
+        new = "---\n" + "\n".join(lines) + "\n---\n" + text[m.end():]
+        if new != text:
+            f.write_text(new, encoding="utf-8")
+            changed += 1
+    return changed
+
+
 def load_registry(root: Path = ROOT):
     return yaml.safe_load((root / REGISTRY).read_text(encoding="utf-8"))
 
@@ -273,6 +311,8 @@ def main(argv: list[str]) -> int:
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--check", action="store_true", help="kiểm tra content.yml (CI)")
     g.add_argument("--init", action="store_true", help="sinh content.yml lần đầu từ nav")
+    g.add_argument("--sync-frontmatter", action="store_true",
+                   help="ghi tier, block từ content.yml vào front matter của trang viết tay")
     ap.add_argument("--force", action="store_true", help="cùng --init: ghi đè content.yml đã có")
     ap.add_argument("--stdout", action="store_true", help="cùng --init: in ra, không ghi file")
     args = ap.parse_args(argv)
@@ -298,6 +338,9 @@ def main(argv: list[str]) -> int:
         print("Chưa có content.yml — chạy: python tools/content_registry.py --init", file=sys.stderr)
         return 1
     reg = load_registry(ROOT)
+    if args.sync_frontmatter:
+        n = sync_frontmatter(reg, ROOT)
+        print(f"Front matter: đã cập nhật {n} trang.")
     errors = check(reg, ROOT)
     if errors:
         print(f"content.yml lệch với trang và dữ liệu ({len(errors)} lỗi):", file=sys.stderr)

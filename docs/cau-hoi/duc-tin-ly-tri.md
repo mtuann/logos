@@ -3,6 +3,8 @@ title: Có nên tin mà không cần bằng chứng?
 description: "Kierkegaard với bước nhảy đức tin, Clifford với đạo đức của niềm tin, và canh bạc của Pascal: ba câu trả lời cho câu hỏi đức tin đứng ở đâu trước lý trí."
 skill: religion
 updated: 2026-10-22
+tier: loi
+block: ton-giao
 ---
 
 # Có nên tin mà không cần bằng chứng?

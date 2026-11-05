@@ -3,6 +3,8 @@ title: "Nhân quả là gì?"
 description: "Hume nói nhân quả chỉ là thói quen kỳ vọng từ những nối tiếp thường xuyên — ta chưa bao giờ thực sự \"thấy\" nguyên nhân làm ra kết quả. Phe đối lập đáp: thế giới có năng lực và cơ chế thật."
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Nhân quả là gì?

@@ -2,6 +2,7 @@
 title: Kế hoạch học & biểu đồ tiến độ
 description: Gợi ý bài học tiếp theo dựa trên tiến độ của bạn, và biểu đồ theo dõi từng kỹ năng. Dữ liệu chỉ lưu trên máy bạn.
 updated: 2026-10-13
+tier: he-thong
 ---
 
 # Kế hoạch học của bạn

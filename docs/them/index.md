@@ -2,6 +2,7 @@
 title: Thêm
 description: Từ điển thuật ngữ, dữ liệu của tôi, nhật ký, tài liệu tham khảo, nhật ký cập nhật và sách in.
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Thêm

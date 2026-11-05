@@ -3,6 +3,7 @@ title: Những câu hỏi lớn
 description: "57 câu hỏi chưa ngã ngũ của triết học: tri thức và chân lý, tâm trí và AI, tự do, đạo đức, chính trị, cái đẹp, tôn giáo, siêu hình, ý nghĩa cuộc sống và tư tưởng Việt Nam. Mỗi bài trình bày các lập trường mạnh nhất và giới triết học hôm nay nghĩ gì."
 skill: intro
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Những câu hỏi lớn

@@ -3,6 +3,8 @@ title: "Tự do ngôn luận: được nói đến đâu?"
 description: Vì sao ý kiến sai cũng đáng được nói? Từ "chợ ý tưởng" của Mill, nguyên tắc gây hại, đến nghịch lý khoan dung của Popper và tranh luận về ngôn từ gây hại.
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Tự do ngôn luận: được nói đến đâu?

@@ -3,6 +3,8 @@ title: Khi bằng chứng chỉ làm cho có lẽ đúng
 description: Phần lớn những gì ta tin đến từ quy nạp, không phải suy diễn. Bài này bàn về quy nạp khái quát, thống kê, loại suy, nhân quả, suy luận đến lời giải thích tốt nhất, và vì sao tương quan không phải nhân quả.
 skill: induction
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Khi bằng chứng chỉ làm cho có lẽ đúng

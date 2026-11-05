@@ -3,6 +3,8 @@ title: Hạnh phúc là gì?
 description: Hạnh phúc là cảm giác sung sướng, là đạt được điều mình muốn, hay là sống một đời sống tốt theo nghĩa khách quan? Từ cỗ máy trải nghiệm của Nozick đến ba họ lý thuyết của Parfit.
 skill: meaning
 updated: 2026-10-22
+tier: loi
+block: y-nghia
 ---
 
 # Hạnh phúc là gì?

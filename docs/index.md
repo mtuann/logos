@@ -4,6 +4,7 @@ description: Triết học bằng tiếng Việt, bắt đầu từ con số 0. 
 hide:
   - navigation
   - toc
+tier: he-thong
 ---
 
 # Logos Zero

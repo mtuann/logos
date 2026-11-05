@@ -3,6 +3,8 @@ title: "Ngụy biện hình thức"
 description: "Khác với ngụy biện phi hình thức (sai ở nội dung), ngụy biện hình thức sai ở cấu trúc suy luận — thay nội dung nào vào cũng sai. Bài này mổ xẻ bốn cái bẫy bằng bảng chân trị: khẳng định hậu kiện, phủ định tiền kiện, khẳng định một vế của tuyển bao hàm, và đảo ngược mệnh đề."
 skill: fallacy
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Ngụy biện hình thức

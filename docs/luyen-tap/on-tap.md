@@ -3,6 +3,7 @@ title: Ôn tập thông minh
 description: Một phiên ôn gộp — thẻ thuật ngữ và câu hỏi trắc nghiệm đến hạn, theo phương pháp ngắt quãng.
 skill: terms
 updated: 2026-10-14
+tier: he-thong
 ---
 
 # Ôn tập thông minh

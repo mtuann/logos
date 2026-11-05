@@ -3,6 +3,8 @@ title: "Có thể chứng minh Chúa tồn tại bằng lý trí?"
 description: "Ba luận chứng kinh điển: vũ trụ luận của Aquinas, mục đích luận của Paley, bản thể luận của Anselm — mỗi luận chứng kèm phản bác mạnh nhất và cách đáp lại."
 skill: religion
 updated: 2026-10-22
+tier: loi
+block: ton-giao
 ---
 
 # Có thể chứng minh Chúa tồn tại bằng lý trí?

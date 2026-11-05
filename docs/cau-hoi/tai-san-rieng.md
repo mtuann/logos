@@ -3,6 +3,8 @@ title: Tài sản riêng có chính đáng không?
 description: Vì sao mảnh đất bạn "mua" lại là của bạn? Từ lý thuyết "trộn công sức lao động" của Locke, điều kiện "còn đủ cho người khác", đến lý thuyết quyền hưởng của Nozick và các lời phê phán.
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Tài sản riêng có chính đáng không?

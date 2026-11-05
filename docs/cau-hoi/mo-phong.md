@@ -3,6 +3,8 @@ title: "Ta có đang sống trong mô phỏng?"
 description: "Bộ ba của Bostrom (2003): nếu văn minh hậu-nhân loại chạy vô số mô phỏng tổ tiên, thì gần như chắc chắn ta đang ở trong một mô phỏng. Lập luận này có đứng vững không?"
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Ta có đang sống trong mô phỏng?

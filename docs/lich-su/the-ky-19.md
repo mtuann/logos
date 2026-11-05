@@ -2,6 +2,8 @@
 title: "Thế kỷ 19: hệ thống vỡ vụn"
 description: "Sau Kant, triết học thế kỷ 19 vỡ ra nhiều hướng: Hegel xây hệ thống, Marx lật ngược nó, Kierkegaard và Nietzsche đặt cá nhân lên trước, Mill bênh vực tự do."
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Thế kỷ 19: hệ thống vỡ vụn

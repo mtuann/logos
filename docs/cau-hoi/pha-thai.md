@@ -3,6 +3,8 @@ title: "Phá thai: quyền của thai nhi hay quyền tự chủ của người 
 description: "Thai nhi có phải là \"người\" có quyền sống không — và ngay cả khi có, quyền đó có thắng quyền tự chủ thân thể? Từ thí nghiệm người nghệ sĩ violin của Thomson đến lập luận \"tương lai đang chờ\" của Marquis."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: luan-ly-ung-dung
 ---
 
 # Phá thai: quyền của thai nhi hay quyền tự chủ của người mẹ?

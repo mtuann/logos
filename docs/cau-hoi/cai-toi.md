@@ -3,6 +3,8 @@ title: "Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạ
 description: "Từ con tàu Theseus, cỗ máy dịch chuyển của Parfit đến giáo lý vô ngã của Phật giáo: điều gì làm cho bạn hôm nay là cùng một người với bạn của mười năm trước?"
 skill: mind
 updated: 2026-10-22
+tier: loi
+block: tam-tri
 ---
 
 # Cái "tôi" là gì? Bạn của mười năm trước có còn là bạn?

@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Mặc Tử: kiêm ái"
 description: "Đọc chậm Mặc Tử qua nguyên văn, phiên âm và bản dịch: gốc của loạn là không thương nhau, gửi vợ con cho ai trước khi ra trận, giết một người và đánh một nước, ý trời như cái compa của người thợ."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: Mặc Tử — *kiêm ái*

@@ -3,6 +3,8 @@ title: Thí nghiệm không cần phòng lab
 description: Thí nghiệm tư duy là cách triết gia kiểm tra trực giác bằng tình huống tưởng tượng. Bài này giải thích vì sao nó hữu ích, cách đọc cho đúng, và vì sao trực giác đôi khi lừa ta.
 skill: argument
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Thí nghiệm không cần phòng lab

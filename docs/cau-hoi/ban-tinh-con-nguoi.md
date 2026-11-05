@@ -3,6 +3,8 @@ title: Bản tính con người thiện hay ác?
 description: "'Nhân chi sơ, tính bản thiện' — thật vậy không? Mạnh Tử và đứa trẻ bên giếng, Tuân Tử và gỗ cong, Hobbes, Rousseau, Locke, Sartre: ta sinh ra thiện, ác, trắng trơn, hay mang một tiềm năng cần vun trồng?"
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Bản tính con người thiện hay ác?

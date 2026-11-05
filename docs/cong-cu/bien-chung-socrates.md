@@ -3,6 +3,8 @@ title: Phép biện chứng Socrates
 description: Hỏi định nghĩa, tìm phản ví dụ, cùng rơi vào bế tắc rồi bắt đầu lại — đó là phép vấn đáp của Socrates. Bài này hướng dẫn dùng nó trong tranh luận đời thường.
 skill: argument
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Phép biện chứng Socrates

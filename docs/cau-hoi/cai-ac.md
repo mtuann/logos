@@ -3,6 +3,8 @@ title: Cái ác là gì?
 description: "Cái ác có phải là quái vật? Từ 'tính tầm thường của cái ác' của Arendt qua Eichmann, cái ác như sự thiếu vắng điều thiện của Augustine, đến câu hỏi: ác có cần ý định không?"
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Cái ác là gì?

@@ -3,6 +3,8 @@ title: "Cái tôi qua thời gian — tôi của mười năm trước còn là 
 description: "Điều gì làm cho \"tôi ngày mai\" vẫn là tôi: ký ức và tính cách (Locke, Parfit), cơ thể sinh học (Olson), hay một \"sự kiện bổ sung\" nào đó?"
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Cái tôi qua thời gian — tôi của mười năm trước còn là tôi không?

@@ -3,6 +3,8 @@ title: Cách đọc một văn bản triết học khó
 description: Văn bản triết học khó không đọc một lần là hiểu. Bài này hướng dẫn đọc ba lượt — lướt nắm cấu trúc, phân tích chậm từng đoạn, rồi mới đánh giá — cùng kỹ thuật ghi chú lề và một đoạn văn mẫu để thực hành.
 skill: intro
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Cách đọc một văn bản triết học khó

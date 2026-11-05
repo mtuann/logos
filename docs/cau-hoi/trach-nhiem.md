@@ -3,6 +3,8 @@ title: Ta có đáng bị trách không?
 description: Nếu mọi hành động đều do gen, môi trường và quá khứ định đoạt, thì khen, chê, thưởng, phạt còn ý nghĩa gì? Từ Aristotle, Frankfurt, Strawson đến Fischer.
 skill: freewill
 updated: 2026-10-22
+tier: loi
+block: tu-do
 ---
 
 # Ta có đáng bị trách không?

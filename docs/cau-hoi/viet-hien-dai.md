@@ -3,6 +3,8 @@ title: "Triết học Việt Nam hiện đại, từ Nho học đến Marx và h
 description: "Thế kỷ 20, triết học Việt Nam đi từ Nho học suy tàn qua tiếp xúc với phương Tây đến Marx và hiện sinh. Trần Đức Thảo, Trần Đình Hượu và câu hỏi: hiện đại hóa nghĩa là gì?"
 skill: vietnam
 updated: 2026-10-22
+tier: loi
+block: viet-nam
 ---
 
 # Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh
