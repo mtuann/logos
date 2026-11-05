@@ -688,3 +688,49 @@ body {
     position: static;
   }
 }
+
+/* ---------- Dải thông tin dưới tiêu đề và nhãn thời sự (đợt 4.6; sinh bởi hooks/kb.py) ---------- */
+.md-typeset .oz-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0;
+  margin: -0.4rem 0 1.4rem;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .oz-info > span + span::before {
+  content: "·";
+  margin: 0 0.5em;
+}
+.md-typeset .oz-info__tang {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.md-typeset .oz-ts {
+  background: var(--oz-soft);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding: 0.05em 0.15em;
+  border-radius: 0.15em;
+}
+.md-typeset .oz-ts-nhan {
+  font-size: 0.72em;
+  font-weight: 600;
+  white-space: nowrap;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .oz-ts--qua-han .oz-ts-nhan {
+  color: var(--oz-bad);
+}
+.md-typeset .oz-ts-khoi {
+  display: block;
+  padding: 0.4rem 0.8rem;
+  border-left: 3px solid var(--oz-line);
+}
+@media print {
+  .md-typeset .oz-ts {
+    background: none;
+  }
+}

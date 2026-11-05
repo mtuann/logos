@@ -132,13 +132,28 @@ class TestThoiSuShortcode(unittest.TestCase):
         cls.tmp.cleanup()
 
     def test_inline(self):
-        got = kb.expand_thoi_su("Có [[thoi-su:a.b.mot-dong]] bị kết án.", self.blocks, "a/b.md")
+        got = kb.expand_thoi_su("Có [[thoi-su:a.b.mot-dong]] bị kết án.", self.blocks, "a/b.md", wrap=False)
         self.assertEqual(got, "Có **hơn 200 người** (số liệu [[count:x]]) bị kết án.")
 
     def test_block_keeps_indent(self):
         src = "- mục\n\n    [[thoi-su:a.b.nhieu-dong]]\n\nSau."
-        got = kb.expand_thoi_su(src, self.blocks, "a/b.md")
+        got = kb.expand_thoi_su(src, self.blocks, "a/b.md", wrap=False)
         self.assertEqual(got, "- mục\n\n    Dòng một.\n\n    Dòng ba [link](c.md).\n\nSau.")
+
+    def test_wrap_inline_and_block(self):
+        import datetime
+        got = kb.expand_thoi_su("Có [[thoi-su:a.b.mot-dong]] bị.", self.blocks, "a/b.md", today=datetime.date(2027, 1, 1))
+        self.assertEqual(got, 'Có <span class="oz-ts">**hơn 200 người** (số liệu [[count:x]])<span class="oz-ts-nhan" '
+                              'data-oz-sinh data-search-exclude> thời sự · đúng tới 22/10/2026</span></span> bị.')
+        late = kb.expand_thoi_su("[[thoi-su:a.b.mot-dong]]", self.blocks, "a/b.md", today=datetime.date(2027, 10, 23))
+        self.assertIn('class="oz-ts oz-ts--qua-han"', late)
+        self.assertIn("cần rà lại", late)
+        block = kb.expand_thoi_su("- mục\n\n    [[thoi-su:a.b.nhieu-dong]]\n", self.blocks, "a/b.md",
+                                  today=datetime.date(2027, 1, 1))
+        self.assertEqual(block.split("\n")[2:9], [
+            '    <div class="oz-ts oz-ts-khoi" markdown>', "",
+            '    <p class="oz-ts-nhan" data-oz-sinh data-search-exclude>thời sự · đúng tới 22/10/2026</p>', "",
+            "    Dòng một.", "", "    Dòng ba [link](c.md)."])
 
     def test_block_must_stand_alone(self):
         with self.assertRaises(kb.PluginError):
