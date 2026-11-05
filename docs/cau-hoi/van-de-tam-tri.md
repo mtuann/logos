@@ -109,21 +109,21 @@ Lập luận của Chalmers có ba bước:
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 hỏi 1.785 triết gia chuyên nghiệp. Số liệu là tỉ lệ "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Khảo sát PhilPapers 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp. Số liệu là tỉ lệ "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tâm trí | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| Có "vấn đề khó" của ý thức không? | Có | 62,4 |
-| | Không | 29,8 |
-| Zombie triết học | Không thể hình dung | 16,4 |
-| | Hình dung được nhưng không khả hữu | 36,5 |
-| | Khả hữu về siêu hình | 24,4 |
-| Lý thuyết về ý thức | Chủ nghĩa chức năng | 33,0 |
-| | Nhị nguyên luận | 22,0 |
-| | Thuyết đồng nhất | 13,3 |
-| | Toàn tâm luận | 7,5 |
+| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| Có "vấn đề khó" của ý thức không? | Có | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.co]] |
+| | Không | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khong]] |
+| Zombie triết học | Không thể hình dung | [[pp:zombie-triet-hoc.khong-the-hinh-dung]] |
+| | Hình dung được nhưng không khả hữu | [[pp:zombie-triet-hoc.hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh]] |
+| | Khả hữu về siêu hình | [[pp:zombie-triet-hoc.kha-huu-ve-sieu-hinh]] |
+| Lý thuyết về ý thức | Chủ nghĩa chức năng | [[pp:y-thuc-ly-thuyet.chu-nghia-chuc-nang]] |
+| | Nhị nguyên luận | [[pp:y-thuc-ly-thuyet.nhi-nguyen-luan]] |
+| | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
+| | Toàn tâm luận | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
 
 <small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Câu về tâm trí (n ≈ 1.730) và về zombie (n ≈ 1.610) là câu chính; câu về vấn đề khó (n ≈ 1.000) và về lý thuyết ý thức (n ≈ 1.020) là câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm.</small>
 

@@ -105,10 +105,10 @@ Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định 
 
 | Câu hỏi (PhilPapers 2020) | Lựa chọn | % chấp nhận hoặc nghiêng về |
 |---|---|---|
-| Quy luật tự nhiên (câu chính, n ≈ 1.550) | Phi Hume | 54,3 |
-|  | Kiểu Hume (chỉ tóm tắt các khuôn mẫu đều đặn) | 31,3 |
-| Hume: quan điểm của ông là gì? (câu bổ sung, n ≈ 870) | Nhà tự nhiên luận | 54,9 |
-|  | Nhà hoài nghi | 36,5 |
+| Quy luật tự nhiên (câu chính, n ≈ [[pp:quy-luat-tu-nhien/n]]) | Phi Hume | [[pp:quy-luat-tu-nhien.phi-hume]] |
+|  | Kiểu Hume (chỉ tóm tắt các khuôn mẫu đều đặn) | [[pp:quy-luat-tu-nhien.kieu-hume-quy-luat-chi-tom-tat-cac-khuon-mau-deu-dan]] |
+| Hume: quan điểm của ông là gì? (câu bổ sung, n ≈ [[pp:hume-quan-diem-cua-ong-la-gi/n]]) | Nhà tự nhiên luận | [[pp:hume-quan-diem-cua-ong-la-gi.nha-tu-nhien-luan]] |
+|  | Nhà hoài nghi | [[pp:hume-quan-diem-cua-ong-la-gi.nha-hoai-nghi]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1–2; phần còn lại là "Khác". Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu bổ sung phần lớn do người tự nguyện trả lời. Khảo sát không hỏi vấn đề quy nạp đã được giải chưa.
 

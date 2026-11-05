@@ -102,20 +102,20 @@ Aristotle, trong *Đạo đức Nicomachus*, cho rằng cả hai họ trên đ�
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 (1.785 triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng 1.740 người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
+Khảo sát PhilPapers 2020 ([[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng 1.740 người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức học chuẩn tắc — câu chính, n ≈ 1.740 | Đạo đức học đức hạnh | 37,0 |
-| | Nghĩa vụ luận | 32,1 |
-| | Hệ quả luận | 30,6 |
-| | Khác | 18,2 |
-| Bài toán xe điện (bẻ ghi cứu năm người) — câu chính, n ≈ 1.740 | Bẻ ghi | 63,4 |
-| | Không bẻ | 13,3 |
-| | Khác | 23,4 |
-| Cây cầu (đẩy một người cứu năm người) — câu chính, n ≈ 1.740 | Đẩy | 22,0 |
-| | Không đẩy | 56,0 |
-| | Khác | 22,0 |
+| Đạo đức học chuẩn tắc — câu chính, n ≈ [[pp:dao-duc-hoc-chuan-tac/n]] | Đạo đức học đức hạnh | [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]] |
+| | Nghĩa vụ luận | [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]] |
+| | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
+| | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
+| Bài toán xe điện (bẻ ghi cứu năm người) — câu chính, n ≈ [[pp:bai-toan-xe-dien-be-ghi/n]] | Bẻ ghi | [[pp:bai-toan-xe-dien-be-ghi.be-ghi]] |
+| | Không bẻ | [[pp:bai-toan-xe-dien-be-ghi.khong-be]] |
+| | Khác | [[pp:bai-toan-xe-dien-be-ghi.khac]] |
+| Cây cầu (đẩy một người cứu năm người) — câu chính, n ≈ [[pp:cay-cau-day-nguoi/n]] | Đẩy | [[pp:cay-cau-day-nguoi.day]] |
+| | Không đẩy | [[pp:cay-cau-day-nguoi.khong-day]] |
+| | Khác | [[pp:cay-cau-day-nguoi.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lý thuyết cùng lúc nên tổng vượt 100%.
 

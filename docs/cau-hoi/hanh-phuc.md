@@ -90,13 +90,13 @@ Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp liên quan đến b
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Máy trải nghiệm: có vào không? (câu chính, n ≈ 1.640) | Có | 13,3 |
-| | Không | 76,9 |
-| | Khác | 9,7 |
-| Phúc lợi (câu bổ sung, n ≈ 970) | Khoái lạc / trải nghiệm | 12,7 |
-| | Thỏa mãn ước muốn | 18,6 |
-| | Danh sách khách quan | 53,2 |
-| | Khác | 20,1 |
+| Máy trải nghiệm: có vào không? (câu chính, n ≈ [[pp:may-trai-nghiem-co-vao-khong/n]]) | Có | [[pp:may-trai-nghiem-co-vao-khong.co]] |
+| | Không | [[pp:may-trai-nghiem-co-vao-khong.khong]] |
+| | Khác | [[pp:may-trai-nghiem-co-vao-khong.khac]] |
+| Phúc lợi (câu bổ sung, n ≈ [[pp:phuc-loi-well-being/n]]) | Khoái lạc / trải nghiệm | 12,7 |
+| | Thỏa mãn ước muốn | [[pp:phuc-loi-well-being.thoa-man-uoc-muon]] |
+| | Danh sách khách quan | [[pp:phuc-loi-well-being.danh-sach-khach-quan]] |
+| | Khác | [[pp:phuc-loi-well-being.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 

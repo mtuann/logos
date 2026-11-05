@@ -98,15 +98,15 @@ Khảo sát PhilPapers 2020 có một câu chính về Thượng đế, và mộ
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Thượng đế (câu chính, n ≈ 1.770) | Hữu thần (*theism*) | 18,9 |
-| | Vô thần (*atheism*) | 66,9 |
-| | Khác | 14,0 |
-| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ 1.020) | Vũ trụ luận | 20,9 |
-| | Thiết kế (mục đích luận) | 17,7 |
-| | Bản thể luận | 8,9 |
-| | Thực dụng | 14,2 |
-| | Đạo đức | 9,4 |
-| | Khác | 25,2 |
+| Thượng đế (câu chính, n ≈ [[pp:thuong-de/n]]) | Hữu thần (*theism*) | [[pp:thuong-de.huu-than]] |
+| | Vô thần (*atheism*) | [[pp:thuong-de.vo-than]] |
+| | Khác | [[pp:thuong-de.khac]] |
+| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]]) | Vũ trụ luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]] |
+| | Thiết kế (mục đích luận) | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thiet-ke-muc-dich-luan]] |
+| | Bản thể luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]] |
+| | Thực dụng | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.thuc-dung]] |
+| | Đạo đức | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.dao-duc]] |
+| | Khác | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án.
 

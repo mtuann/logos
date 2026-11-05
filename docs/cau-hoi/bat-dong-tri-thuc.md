@@ -121,9 +121,9 @@ Khảo sát PhilPapers 2020 không hỏi thẳng câu hỏi trung tâm của bà
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bất đồng hợp lý: hai người cùng bằng chứng có thể bất đồng mà vẫn hợp lý không?* | Có thể (thuyết cho phép, *permissivism*) | 70,2 |
-| | Không thể (*non-permissivism*, tức luận đề duy nhất) | 19,4 |
-| | Khác | 10,5 |
+| Bất đồng hợp lý: hai người cùng bằng chứng có thể bất đồng mà vẫn hợp lý không?* | Có thể (thuyết cho phép, *permissivism*) | [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.co-the-permissivism]] |
+| | Không thể (*non-permissivism*, tức luận đề duy nhất) | [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.khong-the-non-permissivism]] |
+| | Khác | [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.khac]] |
 
 \* Câu hỏi bổ sung, khoảng 990 người trả lời.
 

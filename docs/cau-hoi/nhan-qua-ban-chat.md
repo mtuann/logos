@@ -89,14 +89,14 @@ Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào bài này: m�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Nhân quả (câu bổ sung, n ≈ 890) | Phản thực / tạo khác biệt | 37,2 |
-| | Quá trình / sản sinh | 22,5 |
-| | Nguyên thủy (không phân tích được) | 20,5 |
-| | Không tồn tại | 4,1 |
-| | Khác | 20,6 |
-| Quy luật tự nhiên (câu chính, n ≈ 1.550) | Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn) | 31,3 |
-| | Phi Hume | 54,3 |
-| | Khác | 14,9 |
+| Nhân quả (câu bổ sung, n ≈ [[pp:nhan-qua/n]]) | Phản thực / tạo khác biệt | [[pp:nhan-qua.phan-thuc-tao-khac-biet]] |
+| | Quá trình / sản sinh | [[pp:nhan-qua.qua-trinh-san-sinh]] |
+| | Nguyên thủy (không phân tích được) | [[pp:nhan-qua.nguyen-thuy-khong-phan-tich-duoc]] |
+| | Không tồn tại | [[pp:nhan-qua.khong-ton-tai]] |
+| | Khác | [[pp:nhan-qua.khac]] |
+| Quy luật tự nhiên (câu chính, n ≈ [[pp:quy-luat-tu-nhien/n]]) | Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn) | [[pp:quy-luat-tu-nhien.kieu-hume-quy-luat-chi-tom-tat-cac-khuon-mau-deu-dan]] |
+| | Phi Hume | [[pp:quy-luat-tu-nhien.phi-hume]] |
+| | Khác | [[pp:quy-luat-tu-nhien.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 

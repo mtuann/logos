@@ -122,12 +122,12 @@ Một câu hỏi để mang theo khi gấp bài này lại: lần tới khi bạ
 
 Khảo sát PhilPapers 2020 có một câu *chính* (hỏi tất cả người tham gia) gần như trùng với ba lập trường của bài: câu "Triết học chính trị", với ba lựa chọn cộng đồng luận, chủ nghĩa bình đẳng và chủ nghĩa tự do cá nhân.
 
-| Triết học chính trị (câu chính, n ≈ 1.540) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
+| Triết học chính trị (câu chính, n ≈ [[pp:triet-hoc-chinh-tri/n]]) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|
-| Chủ nghĩa bình đẳng (*egalitarianism*) | 44,0% | 38,3% |
-| Cộng đồng luận (*communitarianism*) | 27,3% | 22,1% |
-| Chủ nghĩa tự do cá nhân (*libertarianism*) | 13,4% | 10,3% |
-| Khác | 20,5% | |
+| Chủ nghĩa bình đẳng (*egalitarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism/loai-tru]]% |
+| Cộng đồng luận (*communitarianism*) | [[pp:triet-hoc-chinh-tri.cong-dong-luan]]% | [[pp:triet-hoc-chinh-tri.cong-dong-luan/loai-tru]]% |
+| Chủ nghĩa tự do cá nhân (*libertarianism*) | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% | [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism/loai-tru]]% |
+| Khác | [[pp:triet-hoc-chinh-tri.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Political philosophy". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng vượt 100%, cột thứ hai chỉ tính người chọn duy nhất đáp án đó.
 
@@ -135,11 +135,11 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Một câu *bổ sung* (chỉ hỏi những người chọn trả lời thêm) chạm vào chính cách làm của Rawls: *A Theory of Justice* là ví dụ kinh điển của **lý thuyết lý tưởng** (*ideal theory*) — hỏi một xã hội hoàn toàn công bằng trông ra sao, giả định mọi người đều sẵn lòng tuân theo các nguyên tắc được chọn và điều kiện xã hội tương đối thuận lợi; lý thuyết phi lý tưởng thì xuất phát từ những bất công đang có trong thế giới thực.
 
-| Phương pháp triết học chính trị (câu bổ sung, n ≈ 790) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
+| Phương pháp triết học chính trị (câu bổ sung, n ≈ [[pp:phuong-phap-triet-hoc-chinh-tri/n]]) | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|
-| Lý thuyết phi lý tưởng (*non-ideal theory*) | 58% | 48% |
-| Lý thuyết lý tưởng (*ideal theory*) | 32,4% | 22,4% |
-| Khác | 18,8% | |
+| Lý thuyết phi lý tưởng (*non-ideal theory*) | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-phi-ly-tuong]]% | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-phi-ly-tuong/loai-tru]]% |
+| Lý thuyết lý tưởng (*ideal theory*) | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-ly-tuong]]% | [[pp:phuong-phap-triet-hoc-chinh-tri.ly-thuyet-ly-tuong/loai-tru]]% |
+| Khác | [[pp:phuong-phap-triet-hoc-chinh-tri.khac]]% | |
 
 Nguồn: như trên, câu bổ sung "Method in political philosophy".
 

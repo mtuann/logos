@@ -103,14 +103,14 @@ Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia
 
 | Câu hỏi | Lựa chọn | % | % loại trừ |
 |---|---|---|---|
-| Chân lý (câu chính, n ≈ 1.640) | Thuyết tương ứng (*correspondence*) | 51,4 | 48,3 |
-| | Thuyết giảm phát (*deflationary*) | 24,5 | 22,2 |
-| | Thuyết tri thức (*epistemic*) | 10,2 | 8,8 |
-| | Khác | 16,8 | |
-| Mâu thuẫn đúng (câu bổ sung, n ≈ 920) | Bất khả | 71,4 | |
-| | Khả hữu nhưng không có thật | 4,8 | |
-| | Có thật | 12,4 | |
-| | Khác | 11,7 | |
+| Chân lý (câu chính, n ≈ [[pp:chan-ly/n]]) | Thuyết tương ứng (*correspondence*) | [[pp:chan-ly.thuyet-tuong-ung-correspondence]] | [[pp:chan-ly.thuyet-tuong-ung-correspondence/loai-tru]] |
+| | Thuyết giảm phát (*deflationary*) | [[pp:chan-ly.thuyet-giam-phat-deflationary]] | [[pp:chan-ly.thuyet-giam-phat-deflationary/loai-tru]] |
+| | Thuyết tri thức (*epistemic*) | [[pp:chan-ly.thuyet-tri-thuc-epistemic]] | [[pp:chan-ly.thuyet-tri-thuc-epistemic/loai-tru]] |
+| | Khác | [[pp:chan-ly.khac]] | |
+| Mâu thuẫn đúng (câu bổ sung, n ≈ [[pp:mau-thuan-dung/n]]) | Bất khả | [[pp:mau-thuan-dung.bat-kha]] | |
+| | Khả hữu nhưng không có thật | [[pp:mau-thuan-dung.kha-huu-nhung-khong-co-that]] | |
+| | Có thật | [[pp:mau-thuan-dung.co-that]] | |
+| | Khác | [[pp:mau-thuan-dung.khac]] | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%. Cột "loại trừ" chỉ tính những người chọn *duy nhất* lựa chọn đó.
 

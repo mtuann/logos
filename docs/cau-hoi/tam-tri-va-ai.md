@@ -94,23 +94,23 @@ Khảo sát PhilPapers 2020 (xem [cách đọc số liệu](index.md#gioi-triet-
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tâm trí | Vật lý luận | 51,9 |
-| | Phi vật lý luận | 32,1 |
-| Có "vấn đề khó" của ý thức không? | Có | 62,4 |
-| | Không | 29,8 |
-| Zombie triết học | Không thể hình dung | 16,4 |
-| | Hình dung được nhưng không khả hữu | 36,5 |
-| | Khả hữu về siêu hình | 24,4 |
-| Lý thuyết về ý thức | Chủ nghĩa chức năng | 33,0 |
-| | Nhị nguyên luận | 22,0 |
-| | Thuyết đồng nhất | 13,3 |
-| | Toàn tâm luận | 7,5 |
-| Căn phòng tiếng Trung: hiểu hay không hiểu? | Hiểu | 17,8 |
-| | Không hiểu | 67,1 |
-| Hệ thống AI *hiện tại* có ý thức? | Chấp nhận / bác bỏ | 3,4 / 82,4 |
-| Hệ thống AI *tương lai* có ý thức? | Chấp nhận / bác bỏ | 39,2 / 26,8 |
-| Thay não bằng bản mô phỏng số | Sống sót | 27,5 |
-| | Chết | 54,2 |
+| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |
+| | Phi vật lý luận | [[pp:tam-tri.phi-vat-ly-luan]] |
+| Có "vấn đề khó" của ý thức không? | Có | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.co]] |
+| | Không | [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong.khong]] |
+| Zombie triết học | Không thể hình dung | [[pp:zombie-triet-hoc.khong-the-hinh-dung]] |
+| | Hình dung được nhưng không khả hữu | [[pp:zombie-triet-hoc.hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh]] |
+| | Khả hữu về siêu hình | [[pp:zombie-triet-hoc.kha-huu-ve-sieu-hinh]] |
+| Lý thuyết về ý thức | Chủ nghĩa chức năng | [[pp:y-thuc-ly-thuyet.chu-nghia-chuc-nang]] |
+| | Nhị nguyên luận | [[pp:y-thuc-ly-thuyet.nhi-nguyen-luan]] |
+| | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
+| | Toàn tâm luận | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
+| Căn phòng tiếng Trung: hiểu hay không hiểu? | Hiểu | [[pp:can-phong-tieng-trung.hieu]] |
+| | Không hiểu | [[pp:can-phong-tieng-trung.khong-hieu]] |
+| Hệ thống AI *hiện tại* có ý thức? | Chấp nhận / bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020]] / [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020/bac-bo]] |
+| Hệ thống AI *tương lai* có ý thức? | Chấp nhận / bác bỏ | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai]] / [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai/bac-bo]] |
+| Thay não bằng bản mô phỏng số | Sống sót | [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.song-sot]] |
+| | Chết | [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.chet]] |
 
 <small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, Bảng 1 và 2. Câu "Tâm trí" (n ≈ 1.730) và "Zombie triết học" (n ≈ 1.610) là câu chính. Các câu về vấn đề khó (n ≈ 1.000), lý thuyết về ý thức (n ≈ 1.020), Căn phòng tiếng Trung (n ≈ 1.030), ý thức của AI (thuộc câu "Những tâm trí khác", n ≈ 1.090) và thay não bằng bản mô phỏng số (n ≈ 1.020) là câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm.</small>
 

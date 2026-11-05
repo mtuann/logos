@@ -89,15 +89,15 @@ Khảo sát PhilPapers 2020 **có** câu hỏi chạm thẳng vào vấn đề p
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Tính chất (*properties*) (câu bổ sung, n ≈ 780) | Lớp (tập hợp các vật) | 11,5 |
-| | Phổ quát nội tại (kiểu [Aristotle](../triet-gia/aristotle.md)) | 20,6 |
-| | Phổ quát siêu việt (kiểu Platon) | 19,8 |
-| | Trope (tính chất cá biệt) | 15,3 |
-| | Không tồn tại | 8,1 |
-| | Khác | 29,1 |
-| Đối tượng trừu tượng (câu chính, n ≈ 1.640) | Thuyết Platon (*Platonism*) | 38,4 |
-| | Duy danh luận (*nominalism*) | 41,9 |
-| | Khác | 19,7 |
+| Tính chất (*properties*) (câu bổ sung, n ≈ [[pp:tinh-chat-properties/n]]) | Lớp (tập hợp các vật) | [[pp:tinh-chat-properties.lop-tap-hop]] |
+| | Phổ quát nội tại (kiểu [Aristotle](../triet-gia/aristotle.md)) | [[pp:tinh-chat-properties.pho-quat-noi-tai-kieu-aristotle]] |
+| | Phổ quát siêu việt (kiểu Platon) | [[pp:tinh-chat-properties.pho-quat-sieu-viet-kieu-platon]] |
+| | Trope (tính chất cá biệt) | [[pp:tinh-chat-properties.trope-tinh-chat-ca-biet]] |
+| | Không tồn tại | [[pp:tinh-chat-properties.khong-ton-tai]] |
+| | Khác | [[pp:tinh-chat-properties.khac]] |
+| Đối tượng trừu tượng (câu chính, n ≈ [[pp:doi-tuong-truu-tuong/n]]) | Thuyết Platon (*Platonism*) | [[pp:doi-tuong-truu-tuong.thuyet-platon-platonism]] |
+| | Duy danh luận (*nominalism*) | [[pp:doi-tuong-truu-tuong.duy-danh-luan-nominalism]] |
+| | Khác | [[pp:doi-tuong-truu-tuong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
@@ -109,13 +109,13 @@ Khảo sát còn có hai câu bổ sung chạm vào câu mở đầu bài ("cái
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Cấu thành vật chất — khi nào nhiều vật hợp thành một vật? (câu bổ sung, n ≈ 570) | Không bao giờ (hư vô luận) | 8,2 |
-| | Đôi khi (hạn chế luận) | 35 |
-| | Luôn luôn (phổ biến luận) | 27,4 |
-| | Khác | 30,1 |
-| Bức tượng và khối đất sét (câu bổ sung, n ≈ 960) | Một vật | 30,1 |
-| | Hai vật | 41,8 |
-| | Khác | 28,1 |
+| Cấu thành vật chất — khi nào nhiều vật hợp thành một vật? (câu bổ sung, n ≈ [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat/n]]) | Không bao giờ (hư vô luận) | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.khong-bao-gio-hu-vo-luan]] |
+| | Đôi khi (hạn chế luận) | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.doi-khi-han-che-luan]] |
+| | Luôn luôn (phổ biến luận) | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.luon-luon-pho-bien-luan]] |
+| | Khác | [[pp:cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat.khac]] |
+| Bức tượng và khối đất sét (câu bổ sung, n ≈ [[pp:buc-tuong-va-khoi-dat-set/n]]) | Một vật | [[pp:buc-tuong-va-khoi-dat-set.mot-vat]] |
+| | Hai vật | [[pp:buc-tuong-va-khoi-dat-set.hai-vat]] |
+| | Khác | [[pp:buc-tuong-va-khoi-dat-set.khac]] |
 
 Nguồn: như trên (Bảng 2).
 

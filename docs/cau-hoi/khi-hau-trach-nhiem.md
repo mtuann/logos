@@ -79,15 +79,15 @@ Lập trường thứ ba chuyển trọng tâm khỏi câu hỏi "ai gây ra" sa
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Trong 100 câu hỏi của khảo sát PhilPapers 2020, không có câu nào hỏi "con người có nghĩa vụ với thế hệ tương lai không" hay "trách nhiệm khí hậu thuộc về cá nhân hay tập thể". Với ba lập trường của bài, vì vậy, **chưa có số liệu khảo sát**, và cũng không nên suy đoán.
+Trong [[pp:khao-sat/so-cau]] câu hỏi của khảo sát PhilPapers 2020, không có câu nào hỏi "con người có nghĩa vụ với thế hệ tương lai không" hay "trách nhiệm khí hậu thuộc về cá nhân hay tập thể". Với ba lập trường của bài, vì vậy, **chưa có số liệu khảo sát**, và cũng không nên suy đoán.
 
 Câu gần nhất là một câu bổ sung (chỉ một phần người tham gia được hỏi) về **đạo đức môi trường** (*environmental ethics*):
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Đạo đức môi trường — câu bổ sung, n ≈ 890 | Lấy con người làm trung tâm | 42,2 |
-| | Không lấy con người làm trung tâm | 50,7 |
-| | Khác | 8,9 |
+| Đạo đức môi trường — câu bổ sung, n ≈ [[pp:dao-duc-moi-truong/n]] | Lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.lay-con-nguoi-lam-trung-tam]] |
+| | Không lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]] |
+| | Khác | [[pp:dao-duc-moi-truong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

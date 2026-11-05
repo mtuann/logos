@@ -82,6 +82,17 @@ class TestKbShortcode(unittest.TestCase):
         for key, n in expect.items():
             self.assertEqual(kb.expand(f"[[count:{key}]]", self.reg), n, key)
 
+    def test_philpapers(self):
+        want = {"tu-do-y-chi.tuong-thich-luan": "59,2", "tu-do-y-chi/n": "1.760",
+                "khao-sat/nguoi-tra-loi": "1.785", "khao-sat/so-cau": "100", "khao-sat/cau-chinh": "40",
+                "chan-ly.thuyet-tuong-ung-correspondence/loai-tru": "48,3"}
+        for key, v in want.items():
+            self.assertEqual(kb.expand(f"[[pp:{key}]]", self.reg), v, key)
+        for bad in ("[[pp:khong-co.x]]", "[[pp:tu-do-y-chi.khong-co]]", "[[pp:tu-do-y-chi]]",
+                    "[[pp:tu-do-y-chi.khac/loai-tru]]", "[[pp:khao-sat/x]]", "[[pp:tu-do-y-chi.khac/sai]]"):
+            with self.assertRaises(kb.PluginError, msg=bad):
+                kb.expand(bad, self.reg, "x.md")
+
     def test_code_untouched(self):
         src = "Có [[count:cau-hoi]] bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n"
         self.assertEqual(kb.expand(src, self.reg), "Có 57 bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n")

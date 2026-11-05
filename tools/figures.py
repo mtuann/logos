@@ -15,6 +15,7 @@ File .svg rời cũng được sinh ra ở docs/assets/img/ để tham khảo.
 
 from __future__ import annotations
 
+import json
 import math
 import re
 import sys
@@ -226,25 +227,39 @@ def bar_chart(rows: list[tuple[str, float]], title: str, note: str) -> str:
 
 
 NOTE_PP = "PhilPapers Survey 2020 — % chấp nhận hoặc nghiêng về"
+PP_JSON = ROOT / "data" / "kb" / "philpapers-2020.json"
+_PP: dict | None = None
+
+
+def pp(qid: str, bars: list[tuple[str, str]]) -> list[tuple[str, float]]:
+    """(nhãn trên hình, % của lựa chọn `oid` trong câu `qid`) — số đọc từ data/kb/philpapers-2020.json (đợt 3)."""
+    global _PP
+    if _PP is None:
+        _PP = {q["id"]: q for q in json.loads(PP_JSON.read_text(encoding="utf-8"))["questions"]}
+    opts = {o["id"]: o for o in _PP[qid]["options"]}
+    return [(label, opts[oid]["pct"]) for label, oid in bars]
 
 
 def fig_philpapers_dao_duc() -> str:
     return bar_chart(
-        [("Đạo đức học đức hạnh", 37.0), ("Nghĩa vụ luận", 32.1), ("Hệ quả luận", 30.6)],
+        pp("dao-duc-hoc-chuan-tac", [("Đạo đức học đức hạnh", "dao-duc-hoc-duc-hanh"),
+                                     ("Nghĩa vụ luận", "nghia-vu-luan"), ("Hệ quả luận", "he-qua-luan")]),
         "Đạo đức học chuẩn tắc: ba lập trường lớn", NOTE_PP)
 
 
 def fig_philpapers_tu_do() -> str:
     return bar_chart(
-        [("Tương thích luận", 59.2), ("Thuyết ý chí tự do", 18.8),
-         ("Không có tự do ý chí", 11.2), ("Khác", 11.4)],
+        pp("tu-do-y-chi", [("Tương thích luận", "tuong-thich-luan"),
+                           ("Thuyết ý chí tự do", "thuyet-y-chi-tu-do-libertarianism"),
+                           ("Không có tự do ý chí", "khong-co-tu-do-y-chi"), ("Khác", "khac")]),
         "Tự do ý chí: giới triết học nghĩ gì", NOTE_PP)
 
 
 def fig_philpapers_jtb() -> str:
     return bar_chart(
-        [("Niềm tin đúng được biện minh", 23.6), ("Một phân tích khác", 32.2),
-         ("Không có phân tích nào", 30.6), ("Khác", 13.9)],
+        pp("phan-tich-khai-niem-tri-thuc", [("Niềm tin đúng được biện minh", "niem-tin-dung-duoc-bien-minh-jtb"),
+                                            ("Một phân tích khác", "mot-phan-tich-khac"),
+                                            ("Không có phân tích nào", "khong-co-phan-tich-nao"), ("Khác", "khac")]),
         "Tri thức là gì? Phân tích khái niệm", NOTE_PP)
 
 

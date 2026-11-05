@@ -87,7 +87,7 @@ Nói cách khác, yêu là khi một con người cụ thể khiến ta *thực 
 
 Khảo sát PhilPapers 2020 không có câu hỏi nào về tình yêu hay triết học tình yêu, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát** cho các lập trường trong bài.
 
-Điều này không có nghĩa là triết học không bàn về tình yêu — ngược lại, từ Platon đến nay, tình yêu là một trong những chủ đề lâu đời nhất của triết học. Chỉ là trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp "tình yêu là gì" hay "bạn hiểu tình yêu theo nghĩa nào". Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán.
+Điều này không có nghĩa là triết học không bàn về tình yêu — ngược lại, từ Platon đến nay, tình yêu là một trong những chủ đề lâu đời nhất của triết học. Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp "tình yêu là gì" hay "bạn hiểu tình yêu theo nghĩa nào". Vì vậy, ở đây ta không có con số nào để trích, và cũng không nên suy đoán.
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều có đại diện nghiêm túc trong triết học đương đại và còn đang tranh luận. Hướng của Frankfurt — tình yêu như sự quan tâm không vụ lợi gắn với ý chí — đặc biệt có ảnh hưởng, một phần vì nó nối tình yêu với một câu hỏi lớn khác của triết học: [ta có tự do không](tu-do-y-chi.md), khi ngay cả việc ta yêu ai cũng không hoàn toàn do ta quyết định?
 

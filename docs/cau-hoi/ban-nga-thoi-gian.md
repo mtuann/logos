@@ -84,13 +84,13 @@ Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp về chủ đề n�
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bản sắc cá nhân (câu chính, n ≈ 1.610) | Quan điểm tâm lý | 43,7 |
-| | Quan điểm sinh học | 19,1 |
-| | Quan điểm "sự kiện bổ sung" | 14,9 |
-| | Khác | 26,6 |
-| Máy dịch chuyển, vật chất mới (câu chính, n ≈ 1.570) | Sống sót | 35,2 |
-| | Chết | 40,1 |
-| | Khác | 24,8 |
+| Bản sắc cá nhân (câu chính, n ≈ [[pp:ban-sac-ca-nhan/n]]) | Quan điểm tâm lý | [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]] |
+| | Quan điểm sinh học | [[pp:ban-sac-ca-nhan.quan-diem-sinh-hoc]] |
+| | Quan điểm "sự kiện bổ sung" | [[pp:ban-sac-ca-nhan.quan-diem-su-kien-bo-sung]] |
+| | Khác | [[pp:ban-sac-ca-nhan.khac]] |
+| Máy dịch chuyển, vật chất mới (câu chính, n ≈ [[pp:may-dich-chuyen-vat-chat-moi/n]]) | Sống sót | [[pp:may-dich-chuyen-vat-chat-moi.song-sot]] |
+| | Chết | [[pp:may-dich-chuyen-vat-chat-moi.chet]] |
+| | Khác | [[pp:may-dich-chuyen-vat-chat-moi.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 

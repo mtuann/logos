@@ -120,9 +120,9 @@ Khảo sát PhilPapers 2020 không hỏi thẳng câu hỏi của bài — trạ
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Bất tử: bạn có chọn không? (câu bổ sung, n ≈ 1.110) | Có | 44,9 |
-| | Không | 41,3 |
-| | Khác | 13,6 |
+| Bất tử: bạn có chọn không? (câu bổ sung, n ≈ [[pp:bat-tu-ban-co-chon-khong/n]]) | Có | [[pp:bat-tu-ban-co-chon-khong.co]] |
+| | Không | [[pp:bat-tu-ban-co-chon-khong.khong]] |
+| | Khác | [[pp:bat-tu-ban-co-chon-khong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

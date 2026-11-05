@@ -131,7 +131,11 @@ Thẻ ghi nhớ: `<div class="oz-flashcards"></div>`.
 
 Mỗi mục H2 mang ID cố định viết tay, để đổi tiêu đề không làm gãy link và không mở khóa đơn vị đã kiểm: `## Các lập trường chính {#cac-lap-truong-chinh}`. Mục mới: build rồi chạy `python tools/add_heading_ids.py` để tool gắn ID; đổi tiêu đề thì giữ nguyên ID cũ.
 
-Số đếm của site (số bài, số triết gia…) không gõ tay mà dùng shortcode, để tự đúng khi thêm bài: `[[count:cau-hoi]]` (57), `[[count:cau-hoi/dao-duc]]` (bài trong một khối), `[[count:triet-gia]]`. Khóa sai thì build dừng. Danh sách loại và quy tắc đếm: `hooks/kb.py`. Đợt 3 thay các số đếm gõ tay hiện có bằng shortcode.
+Số đếm của site (số bài, số triết gia…) không gõ tay mà dùng shortcode, để tự đúng khi thêm bài: `[[count:cau-hoi]]` (57), `[[count:cau-hoi/dao-duc]]` (bài trong một khối), `[[count:triet-gia]]`, `[[count:nguy-bien]]` (đoạn hội thoại), `[[count:thuat-ngu]]`, `[[count:quiz]]`. Khóa sai thì build dừng. Danh sách loại và quy tắc đếm: `hooks/kb.py`. Shortcode không chạy trong front matter (`description`).
+
+Số liệu PhilPapers trong bảng cũng là shortcode, đọc từ `data/kb/philpapers-2020.json`: `[[pp:tu-do-y-chi.tuong-thich-luan]]` (59,2), `[[pp:tu-do-y-chi/n]]` (1.760, số người trả lời câu đó), thêm `/loai-tru` hay `/bac-bo` cho cột loại trừ và bác bỏ, `[[pp:khao-sat/nguoi-tra-loi]]` (1.785) cho số tổng. Nhãn câu hỏi và lựa chọn vẫn viết tay. Danh sách khóa: `tools/philpapers-2020.md` và JSON.
+
+Đoạn có hạn dùng (luật đang hiệu lực, số liệu đang đổi, tình trạng AI hiện tại) không viết thẳng vào bài: đặt vào khối thời sự `data/thoi-su/` và gọi bằng `[[thoi-su:<id>]]` (README, mục Thêm nội dung). `lint_volatile` chặn trong CI.
 
 Link nội bộ: dùng đường dẫn tương đối tới file `.md`, ví dụ `[lập luận](../cong-cu/lap-luan-la-gi.md)`.
 

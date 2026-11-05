@@ -82,9 +82,9 @@ Các nhà phê phán hiện đại, tiêu biểu là Jeff McMahan (*Killing in W
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 không có câu hỏi riêng về chiến tranh hay đạo đức chiến tranh trong 100 câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
+Khảo sát PhilPapers 2020 không có câu hỏi riêng về chiến tranh hay đạo đức chiến tranh trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
-Trong giới triết học, cuộc tranh luận giữa Walzer và các nhà xét lại (McMahan và đồng sự) là một trong những cuộc tranh luận sôi nổi nhất của đạo đức học ứng dụng từ những năm 2000 đến nay — với hàng loạt sách và hội thảo. Nhưng trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có cho rằng chiến tranh có thể chính đáng không" hay "bạn đứng về phía Walzer hay McMahan", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
+Trong giới triết học, cuộc tranh luận giữa Walzer và các nhà xét lại (McMahan và đồng sự) là một trong những cuộc tranh luận sôi nổi nhất của đạo đức học ứng dụng từ những năm 2000 đến nay — với hàng loạt sách và hội thảo. Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có cho rằng chiến tranh có thể chính đáng không" hay "bạn đứng về phía Walzer hay McMahan", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
 Một điểm đáng chú ý cho người đọc: các nguyên tắc *jus in bello* (phân biệt, tương xứng) không chỉ nằm trên giấy triết học — chúng là nền tảng của luật nhân đạo quốc tế (các Công ước Geneva; hai nguyên tắc này được ghi thành điều khoản rõ ràng trong Nghị định thư bổ sung I năm 1977 — cũng là năm Walzer xuất bản sách của mình). Triết học và luật pháp ở đây đi cùng nhau: triết học đặt câu hỏi "vì sao", luật pháp trả lời "làm thế nào để thực thi".
 

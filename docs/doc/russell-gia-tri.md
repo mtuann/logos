@@ -91,12 +91,12 @@ Ngay trước đó, Russell đặt đối lập với "sự tự khẳng định
 
 *Cách đáp lại:* phần tiến bộ chắc chắn nhất thường rời triết học để thành khoa học (XV.4). Và giới triết học không cho rằng nghề mình đứng yên, dù người trong nghề dễ lạc quan về nghề mình:
 
-| Tiến bộ triết học có không? (PhilPapers 2020, câu chính, n ≈ 1.770) | % chấp nhận hoặc nghiêng về |
+| Tiến bộ triết học có không? (PhilPapers 2020, câu chính, n ≈ [[pp:tien-bo-triet-hoc-co-khong/n]]) | % chấp nhận hoặc nghiêng về |
 |---|---|
-| Không có | 3,8 |
-| Một ít | 46,6 |
-| Nhiều | 41,7 |
-| Khác | 8,4 |
+| Không có | [[pp:tien-bo-triet-hoc-co-khong.khong-co]] |
+| Một ít | [[pp:tien-bo-triet-hoc-co-khong.mot-it]] |
+| Nhiều | [[pp:tien-bo-triet-hoc-co-khong.nhieu]] |
+| Khác | [[pp:tien-bo-triet-hoc-co-khong.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Bảng 1. Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu hỏi không định nghĩa "tiến bộ".
 

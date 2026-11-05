@@ -129,10 +129,10 @@ Khảo sát PhilPapers 2020 có một câu hỏi chính (hỏi mọi người th
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Ý nghĩa cuộc sống (câu chính, n ≈ 1.730) | Chủ quan | 33,0 |
-| | Khách quan | 32,1 |
-| | Không tồn tại | 16,1 |
-| | Khác | 23,6 |
+| Ý nghĩa cuộc sống (câu chính, n ≈ [[pp:y-nghia-cuoc-song/n]]) | Chủ quan | [[pp:y-nghia-cuoc-song.chu-quan]] |
+| | Khách quan | [[pp:y-nghia-cuoc-song.khach-quan]] |
+| | Không tồn tại | [[pp:y-nghia-cuoc-song.khong-ton-tai]] |
+| | Khác | [[pp:y-nghia-cuoc-song.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 

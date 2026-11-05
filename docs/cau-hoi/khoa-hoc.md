@@ -115,13 +115,13 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về vấn đề phân 
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
-| Khoa học | Hiện thực luận khoa học (*scientific realism*) | 72,4 |
-| | Phản hiện thực luận khoa học | 15,0 |
-| | Khác | 12,8 |
-| Giá trị trong khoa học* | Nhất thiết mang giá trị | 44,0 |
-| | Có thể cả hai | 31,1 |
-| | Nhất thiết trung lập giá trị | 17,7 |
-| | Khác | 7,2 |
+| Khoa học | Hiện thực luận khoa học (*scientific realism*) | [[pp:khoa-hoc.hien-thuc-luan-khoa-hoc]] |
+| | Phản hiện thực luận khoa học | [[pp:khoa-hoc.phan-hien-thuc-luan-khoa-hoc]] |
+| | Khác | [[pp:khoa-hoc.khac]] |
+| Giá trị trong khoa học* | Nhất thiết mang giá trị | [[pp:gia-tri-trong-khoa-hoc.nhat-thiet-mang-gia-tri]] |
+| | Có thể cả hai | [[pp:gia-tri-trong-khoa-hoc.co-the-ca-hai]] |
+| | Nhất thiết trung lập giá trị | [[pp:gia-tri-trong-khoa-hoc.nhat-thiet-trung-lap-gia-tri]] |
+| | Khác | [[pp:gia-tri-trong-khoa-hoc.khac]] |
 
 \* Câu hỏi bổ sung, khoảng 960 người trả lời. Câu "Khoa học" là câu chính, khoảng 1.690 người trả lời. % là tỉ lệ chấp nhận hoặc nghiêng về.
 

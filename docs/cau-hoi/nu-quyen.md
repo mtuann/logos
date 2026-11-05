@@ -89,21 +89,21 @@ Khảo sát PhilPapers 2020 không hỏi về nữ quyền bình đẳng, lý th
 
 | Câu hỏi | Lựa chọn | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|---|
-| Giới (*gender*) thuộc loại gì? (câu chính, n ≈ 1.650) | Xã hội | 63,1% | 43,0% |
-| | Sinh học | 29,0% | 15,1% |
-| | Tâm lý | 21,5% | 4,3% |
-| | Không có thật | 4,2% | 1,6% |
-| | Khác | 14,8% | |
-| Phạm trù giới — nên làm gì với chúng? (câu bổ sung, n ≈ 980) | Sửa đổi | 50,9% | |
-| | Giữ nguyên | 20,4% | |
-| | Loại bỏ | 16,3% | |
-| | Khác | 15,3% | |
+| Giới (*gender*) thuộc loại gì? (câu chính, n ≈ [[pp:gioi-gender-thuoc-loai-gi/n]]) | Xã hội | [[pp:gioi-gender-thuoc-loai-gi.xa-hoi]]% | [[pp:gioi-gender-thuoc-loai-gi.xa-hoi/loai-tru]]% |
+| | Sinh học | [[pp:gioi-gender-thuoc-loai-gi.sinh-hoc]]% | [[pp:gioi-gender-thuoc-loai-gi.sinh-hoc/loai-tru]]% |
+| | Tâm lý | [[pp:gioi-gender-thuoc-loai-gi.tam-ly]]% | [[pp:gioi-gender-thuoc-loai-gi.tam-ly/loai-tru]]% |
+| | Không có thật | [[pp:gioi-gender-thuoc-loai-gi.khong-co-that]]% | [[pp:gioi-gender-thuoc-loai-gi.khong-co-that/loai-tru]]% |
+| | Khác | [[pp:gioi-gender-thuoc-loai-gi.khac]]% | |
+| Phạm trù giới — nên làm gì với chúng? (câu bổ sung, n ≈ [[pp:pham-tru-gioi-nen-lam-gi-voi-chung/n]]) | Sửa đổi | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.sua-doi]]% | |
+| | Giữ nguyên | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.giu-nguyen]]% | |
+| | Loại bỏ | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.loai-bo]]% | |
+| | Khác | [[pp:pham-tru-gioi-nen-lam-gi-voi-chung.khac]]% | |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính "Gender" và câu bổ sung "Gender categories". Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người trả lời được chọn nhiều đáp án nên tổng vượt 100%. Cột cuối chỉ tính người chọn duy nhất đáp án đó (bài báo chỉ in khi khác cột trước từ 3 điểm trở lên).
 
 Đọc số liệu: phần đông người trả lời chấp nhận hoặc nghiêng về quan niệm giới là một loại *xã hội* — gần với ý của de Beauvoir rằng những gì gọi là "bản chất phụ nữ" phần lớn do xã hội nặn ra. Nhưng chỉ 43,0% chọn *duy nhất* "xã hội": nhiều người cho rằng giới vừa có phần xã hội vừa có phần sinh học hay tâm lý. Ở câu bổ sung, khoảng một nửa muốn *sửa đổi* các phạm trù giới, chứ không giữ nguyên hay xóa bỏ — gần với hướng "cải thiện khái niệm" mà một số triết gia nữ quyền như Sally Haslanger theo đuổi. Hai câu này không hỏi người ta có ủng hộ nữ quyền không, cũng không hỏi về standpoint hay đạo đức chăm sóc. Mẫu là khoảng 1.000–1.650 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020: con số không đại diện cho mọi truyền thống, và tỉ lệ đồng thuận không quyết định ai đúng.
 
-Triết học nữ quyền là một trong những hướng nghiên cứu phát triển mạnh trong triết học đương đại từ những năm 1980 đến nay — với các tạp chí chuyên ngành, các khoa và chương trình đào tạo riêng. Nhưng trong 100 câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn nghiêng về nữ quyền bình đẳng hay nữ quyền khác biệt" hay "bạn chấp nhận đạo đức chăm sóc không". Vì vậy, với ba lập trường chính của bài, ta không có con số nào để trích — và cũng không nên suy đoán từ hai câu về giới ở trên.
+Triết học nữ quyền là một trong những hướng nghiên cứu phát triển mạnh trong triết học đương đại từ những năm 1980 đến nay — với các tạp chí chuyên ngành, các khoa và chương trình đào tạo riêng. Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn nghiêng về nữ quyền bình đẳng hay nữ quyền khác biệt" hay "bạn chấp nhận đạo đức chăm sóc không". Vì vậy, với ba lập trường chính của bài, ta không có con số nào để trích — và cũng không nên suy đoán từ hai câu về giới ở trên.
 
 Một điều có thể nói một cách trung thực: cả ba hướng trên đều là những lập trường nghiêm túc còn đang tranh luận — và ranh giới giữa chúng không cứng như cách trình bày trong bài. Nhiều triết gia nữ quyền đương đại đồng thời: ủng hộ chính sách bình đẳng thực chất (lập trường 1), dùng phương pháp standpoint để phê phán các khái niệm "trung lập" (lập trường 2), và bênh vực giá trị của chăm sóc trong đạo đức (lập trường 3). Câu hỏi khó không phải "chọn phe nào", mà là khi ba yêu cầu xung đột — ví dụ khi chính sách "đối xử giống nhau" (lập trường 1) vô tình củng cố chuẩn mực nam giới (điều lập trường 2 cảnh báo) — ta ưu tiên cái nào?
 
