@@ -700,7 +700,7 @@ body {
   line-height: 1.5;
   color: var(--md-default-fg-color--light);
 }
-.md-typeset .oz-info > span + span::before {
+.md-typeset .oz-info > :not(button) + :not(button)::before {
   content: "·";
   margin: 0 0.5em;
 }
@@ -774,6 +774,7 @@ body {
   font-weight: 700;
 }
 .md-typeset a.oz-info__kiem { color: inherit; }
+.md-typeset a.oz-info__kiem::before { display: inline-block; text-decoration: none; }
 
 /* ---------- Trang chủ: nút bắt đầu, cửa chính và cửa phụ (đợt 4.9, quyết định 24) ---------- */
 .md-typeset .oz-hero__actions {
@@ -800,5 +801,51 @@ body {
 @media screen and (min-width: 60em) {
   .md-typeset .grid.cards.oz-cua-phu > ul {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* ---------- Điện thoại và in (đợt 4.10) ---------- */
+.md-typeset .oz-info .oz-print-btn--dai {
+  margin-left: auto;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid var(--oz-line);
+  border-radius: 0.2rem;
+  background: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  min-height: 24px;
+}
+.md-typeset .oz-info .oz-print-btn--dai:hover {
+  color: var(--md-accent-fg-color);
+  border-color: currentColor;
+}
+.md-typeset .oz-tom-tat__nut {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-height: 24px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.md-typeset .oz-tom-tat__nut::after {
+  content: "▾";
+  margin-left: auto;
+  padding-left: 0.5rem;
+}
+.md-typeset .oz-tom-tat--gon .oz-tom-tat__nut::after {
+  content: "▸";
+}
+@media print {
+  .md-typeset .oz-tom-tat__than[hidden] {
+    display: block !important;
+  }
+  .md-typeset .oz-tom-tat__nut::after {
+    content: none;
   }
 }

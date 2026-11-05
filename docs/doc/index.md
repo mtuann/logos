@@ -1,6 +1,6 @@
 ---
 title: Đọc văn bản gốc
-description: "19 hướng dẫn đọc chậm những văn bản triết học kinh điển, từ Platon, Khổng Tử, Lão Tử tới Kant, Mill, Sartre, Bát nhã Tâm kinh và Bình Ngô đại cáo — kèm nguyên văn, bản dịch, tái dựng lập luận và phản biện."
+description: "[[count:doc]] hướng dẫn đọc chậm những văn bản triết học kinh điển, từ Platon, Khổng Tử, Lão Tử tới Kant, Mill, Sartre, Bát nhã Tâm kinh và Bình Ngô đại cáo — kèm nguyên văn, bản dịch, tái dựng lập luận và phản biện."
 updated: 2026-10-22
 tier: he-thong
 ---

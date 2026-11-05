@@ -46,7 +46,45 @@
     btn.addEventListener("click", function () {
       window.print();
     });
-    h1.insertAdjacentElement("afterend", btn);
+    // Đợt 4.10: có dải thông tin (hooks/kb.py) thì nút In nằm cuối dải, gọn, không chiếm màn hình đầu trên điện thoại.
+    var strip = article.querySelector(".oz-info");
+    if (strip) {
+      btn.className = "oz-print-btn oz-print-btn--dai";
+      strip.appendChild(btn);
+    } else {
+      h1.insertAdjacentElement("afterend", btn);
+    }
+  });
+
+  // Khối "Tóm tắt 5 phút" thu gọn được (đợt 4.10): tiêu đề thành nút có aria-expanded; màn hẹp mặc định thu gọn,
+  // màn rộng mặc định mở. Không đổi HTML khi build (chữ của bài giữ nguyên).
+  var NARROW = "(max-width: 44.984375em)";
+  window.OZReady(function () {
+    document.querySelectorAll(".md-typeset .admonition.summary").forEach(function (box, i) {
+      var title = box.querySelector(":scope > .admonition-title");
+      if (!title || box.dataset.ozGon || title.textContent.trim() !== "Tóm tắt 5 phút") return;
+      box.dataset.ozGon = "1";
+      var body = document.createElement("div");
+      body.className = "oz-tom-tat__than";
+      body.id = "oz-tom-tat-" + i;
+      while (title.nextSibling) body.appendChild(title.nextSibling);
+      box.appendChild(body);
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "oz-tom-tat__nut";
+      btn.setAttribute("aria-controls", body.id);
+      while (title.firstChild) btn.appendChild(title.firstChild);
+      title.appendChild(btn);
+      function set(open) {
+        btn.setAttribute("aria-expanded", open ? "true" : "false");
+        body.hidden = !open;
+        box.classList.toggle("oz-tom-tat--gon", !open);
+      }
+      btn.addEventListener("click", function () {
+        set(btn.getAttribute("aria-expanded") !== "true");
+      });
+      set(!(window.matchMedia && window.matchMedia(NARROW).matches));
+    });
   });
 
   function start() {

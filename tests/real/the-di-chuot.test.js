@@ -11,7 +11,7 @@ test.before(async () => { srv = await start(); browser = await chromium.launch()
 test.after(async () => { await browser?.close(); srv?.server.close(); });
 
 async function firstLink(p) {
-  return p.waitForSelector('.md-content article a[href*="triet-gia/descartes"][data-oz-init="1"]', { timeout: 10000 });
+  return p.waitForSelector('.md-content article a[href*="triet-gia/platon"][data-oz-init="1"] >> visible=true', { timeout: 10000 });
 }
 
 test("rê chuột hiện thẻ, rời đi thì tắt; axe 0 khi thẻ mở", async () => {
@@ -21,8 +21,8 @@ test("rê chuột hiện thẻ, rời đi thì tắt; axe 0 khi thẻ mở", asy
   await a.hover();
   await p.waitForSelector("#oz-the:not([hidden])", { timeout: 3000 });
   const text = await p.textContent("#oz-the");
-  assert.match(text, /Descartes/);
-  assert.match(text, /1596/);
+  assert.match(text, /Platon/);
+  assert.match(text, /427|428/);
   assert.equal(await a.getAttribute("aria-describedby"), "oz-the");
   await p.addScriptTag({ content: AXE });
   const v = await p.evaluate(async () => (await axe.run(document, { runOnly: { type: "tag", values: ["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"] } })).violations.map((x) => x.id));
@@ -58,6 +58,6 @@ test("điện thoại: chạm thường mở trang, chạm giữ hiện thẻ", 
   await p.waitForSelector("#oz-the:not([hidden])", { timeout: 3000 });
   assert.match(new URL(p.url()).pathname, /cau-hoi\/tri-thuc/, "chạm giữ không được mở trang");
   await a.tap();
-  await p.waitForURL(/triet-gia\/descartes/, { timeout: 5000 });
+  await p.waitForURL(/triet-gia\/platon/, { timeout: 5000 });
   await ctx.close();
 });
