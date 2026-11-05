@@ -21,7 +21,7 @@ from pathlib import Path
 
 import yaml
 
-from check_ledger import JSON_RECORDS
+from check_ledger import JSON_RECORDS, RECORD_IGNORE
 from lz import ROOT, hashing, units
 
 LEDGER = "verification/ledger.json"
@@ -79,17 +79,17 @@ def record_hashes(path: str, text: str | None) -> dict[str, str]:
         return {}
     if path in RECORD_FILES:
         d = yaml.safe_load(text) or {}
-        return {f"{RECORD_FILES[path]}/{k}": hashing.record_hash(v) for k, v in d.items()}
+        return {f"{RECORD_FILES[path]}/{k}": hashing.record_hash(v, ignore=RECORD_IGNORE) for k, v in d.items()}
     if path.startswith("data/people/") and path.endswith(".yml"):
-        return {f"ho-so/{Path(path).stem}": hashing.record_hash(yaml.safe_load(text))}
+        return {f"ho-so/{Path(path).stem}": hashing.record_hash(yaml.safe_load(text), ignore=RECORD_IGNORE)}
     if path == "data/kb/philpapers-2020.json":
-        return {f"philpapers/{q['id']}": hashing.record_hash(q) for q in json.loads(text).get("questions", [])}
+        return {f"philpapers/{q['id']}": hashing.record_hash(q, ignore=RECORD_IGNORE) for q in json.loads(text).get("questions", [])}
     kinds = [(k, lk) for k, (rel, lk) in JSON_RECORDS.items() if rel == path]
     if kinds:
         d = json.loads(text)
         if not isinstance(d, dict):
             return {}
-        return {f"{k}/{r['id']}": hashing.record_hash(r) for k, lk in kinds for r in d.get(lk, [])}
+        return {f"{k}/{r['id']}": hashing.record_hash(r, ignore=RECORD_IGNORE) for k, lk in kinds for r in d.get(lk, [])}
     return {}
 
 

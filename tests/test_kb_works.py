@@ -50,5 +50,17 @@ class TestKbWorks(unittest.TestCase):
             self.assertEqual(kw.main(["--check"]), 0)
 
 
+class TestKeptFields(unittest.TestCase):
+    def test_curated_fields_survive_reextraction(self):
+        """Đợt 5.1: attribution, year_note do người kiểm ghi, tool giữ khi rút lại."""
+        recs = {"chua-ro.x": {"author": None, "titles": ["X"], "year": None}}
+        old = {"chua-ro.x": {"attribution": "Aldo Leopold", "year_note": "bản gốc 1949", "used_in": ["cu"]}}
+        out = kw.merge_kept(recs, old)["chua-ro.x"]
+        self.assertEqual((out["attribution"], out["year_note"]), ("Aldo Leopold", "bản gốc 1949"))
+        self.assertNotIn("used_in", out)
+        self.assertIn("attribution:", kw.render({"chua-ro.x": {**out, "years_seen": {}, "used_in": [], "evidence": [],
+                                                               "verified": None}}))
+
+
 if __name__ == "__main__":
     unittest.main()
