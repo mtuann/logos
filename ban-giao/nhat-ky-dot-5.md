@@ -6,3 +6,4 @@ Mỗi dòng một việc đã xong hoặc đang dở. Phiên sau đọc từ đ�
 |---|---|---|---|---|
 | 2026-11-05 | Brief đợt 5 theo `ban-giao/mau-dot.md`; quyết định 25 (push khi xong cả đợt 5), 26 (mã băm bỏ qua kiểu ngoặc), 27 (đổi hết "Logos Zero" thành "Logos") | `ban-giao/dot-5.md`, `KE-HOACH.md` | xong | việc tiếp: 5.0a |
 | 2026-11-05 | 5.0a Mã băm bỏ qua kiểu ngoặc (quyết định 26): `tools/lz/hashing.py` gộp `“ ”` → `"`, `‘ ’` → `'` khi băm đơn vị và bản ghi (cả chuỗi lồng trong bản ghi); `normalize()` giữ nguyên ngoặc; KE-HOACH.md 5.6 bước 4. Tiêu đề admonition ngoặc cong không phải cú pháp nên vẫn đổi mã băm | `tools/lz/hashing.py`, `tests/test_lz.py`, `KE-HOACH.md` | xong; sổ rỗng nên không đơn vị nào mở khóa | việc tiếp: 5.0b |
+| 2026-11-05 | 5.0a merge vào `main` | — | xong | — |
