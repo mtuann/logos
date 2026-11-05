@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path[:0] = [str(ROOT / "hooks"), str(ROOT / "tools")]
 
 import gen_glossary  # noqa: E402
+import kb  # noqa: E402
 import search_vi  # noqa: E402
 import slugs  # noqa: E402
 
@@ -65,6 +66,37 @@ class TestGlossary(unittest.TestCase):
     def test_page_in_sync(self):
         self.assertEqual(gen_glossary.main(["--check"]), 0)
 
+
+
+class TestKbShortcode(unittest.TestCase):
+    """hooks/kb.py: shortcode [[count:…]] đọc content.yml; khóa sai thì build dừng."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.reg = kb.load_registry(ROOT)
+
+    def test_counts_match_registry(self):
+        expect = {"cau-hoi": "57", "cong-cu": "15", "lich-su": "8", "doc": "19", "triet-gia": "59",
+                  "bat-dau": "1", "cau-hoi/dao-duc": "7", "cau-hoi/viet-nam": "3"}
+        for key, n in expect.items():
+            self.assertEqual(kb.expand(f"[[count:{key}]]", self.reg), n, key)
+
+    def test_code_untouched(self):
+        src = "Có [[count:cau-hoi]] bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n"
+        self.assertEqual(kb.expand(src, self.reg), "Có 57 bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n")
+
+    def test_unknown_kind_or_key_stops_build(self):
+        for bad in ("[[count:khong-co]]", "[[count:cau-hoi/khong-co]]", "[[fact:kant]]", "[[count:he-thong]]"):
+            with self.assertRaises(kb.PluginError, msg=bad) as cm:
+                kb.expand(bad, self.reg, "x.md")
+            self.assertIn("x.md: shortcode", str(cm.exception))
+
+    def test_not_a_shortcode(self):
+        for s in ("[[Count:cau-hoi]]", "[[count: cau-hoi]]", "[ [count:cau-hoi]]", "[[count]]"):
+            self.assertEqual(kb.expand(s, self.reg), s)
+
+    def test_thousands(self):
+        self.assertEqual(kb.fmt_int(1234567), "1.234.567")
 
 if __name__ == "__main__":
     unittest.main()
