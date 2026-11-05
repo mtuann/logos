@@ -175,7 +175,7 @@ Kiểm kho trước, để các bài sau chỉ còn phải kiểm phần diễn 
 3. **Kiểm ngữ nghĩa theo mục**, checklist năm câu: đúng nguồn? phiên bản mạnh nhất? có phản bác và cách đáp lại? trung lập? đúng thuật ngữ? Mỗi phán đoán có bằng chứng (link + vài chữ trích). Agent kiểm độc lập với agent làm: `ban-giao/kiem-chung.md`.
 4. **Kiểm mẫu**: mỗi đợt con lấy ngẫu nhiên 10% đơn vị đã kiểm cho người hoặc agent thứ hai. Lỗi nghiêm trọng trên 2% mẫu thì kiểm lại cả đợt con.
 5. **Đóng băng**: ghi vào sổ (mã băm theo 5.6, ngày, người kiểm, file bằng chứng). Mã băm bỏ qua `updated` và các khối sinh.
-6. **Mở lại có kiểm soát**: lệch mã băm thì CI báo; PR phải có nhãn `doi-loi` và bằng chứng mới; chỉ đơn vị đó được kiểm lại.
+6. **Mở lại có kiểm soát**: lệch mã băm thì CI báo; PR phải có nhãn `doi-loi` (merge thẳng thì commit có `[doi-loi]` trong message) và bằng chứng mới; chỉ đơn vị đó được kiểm lại.
 7. **Báo lỗi từ người đọc** (nút "Báo lỗi trang này", nhãn `bao-loi`): khoanh tới đơn vị hoặc bản ghi, sửa, cập nhật sổ. Lỗi ở một bản ghi kho thì mọi trang dùng nó đúng theo.
 
 "Lỗi nghiêm trọng" = sai năm, sai người, sai trích dẫn, sai số liệu, quiz sai đáp án, hoặc trình bày sai một lập trường.

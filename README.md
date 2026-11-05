@@ -42,6 +42,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
   add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)
+  check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
+                          --hash KHÓA (mã băm hiện tại của đơn vị)
   parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
                           giữa hai bản build (--base REF: tự build commit REF và cây làm việc)
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
@@ -58,7 +60,7 @@ tests/
                           không có văn xuôi lọt vào khối code
 content.yml               sổ đăng ký: mỗi trang, mỗi file dữ liệu một dòng (loại, tầng, khối, sinh tự động?)
 schema/content.schema.json  giá trị cho phép của content.yml
-verification/             báo cáo nền; từ đợt 1: sổ kiểm chứng và bằng chứng
+verification/             báo cáo nền; sổ kiểm chứng ledger.json (schema/ledger.schema.json); evidence/ bằng chứng
 AGENTS.md, KE-HOACH.md, ban-giao/  luật cho agent, kế hoạch làm lại, việc từng đợt (không xuất bản)
 overrides/main.html       tùy biến Material (manifest, "cập nhật lần cuối", link "Báo lỗi trang này")
 HUONG-DAN-VIET.md         hướng dẫn văn phong, thuật ngữ thống nhất, cú pháp Markdown
@@ -98,6 +100,7 @@ for t in gen_glossary figures review_check timeline influence philosophers book 
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
 uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có ID cố định {#id}
+uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng dạng; đơn vị đóng băng không đổi mã băm
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm

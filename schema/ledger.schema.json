@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mtuann.github.io/logos/schema/ledger.schema.json",
+  "title": "Sổ kiểm chứng của Logos (verification/ledger.json)",
+  "description": "Mỗi đơn vị một dòng: mã băm theo KE-HOACH.md mục 5.6, trạng thái, ngày, người kiểm, file bằng chứng. tools/check_ledger.py đọc danh sách giá trị cho phép từ file này và kiểm đúng các ràng buộc ở đây.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "units"],
+  "properties": {
+    "version": { "const": 1 },
+    "units": {
+      "type": "object",
+      "description": "Khóa: đơn vị trang `<đường dẫn trong docs>#<id>` (ví dụ cau-hoi/tri-thuc.md#nguon) hoặc bản ghi dữ liệu `<loại>/<khóa>` (ví dụ people/kant, từ đợt 2).",
+      "propertyNames": { "pattern": "^([a-z0-9-]+/)*[a-z0-9-]+\\.md#[A-Za-z0-9_-]+$|^[a-z]+/[a-z0-9._-]+$" },
+      "additionalProperties": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "status": {
+      "description": "chua-kiem: đã ghi mã băm, chưa kiểm; da-kiem: đã kiểm, chờ kiểm mẫu; frozen: đã đóng băng, chỉ sửa trong PR/commit doi-loi.",
+      "enum": ["chua-kiem", "da-kiem", "frozen"]
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "hash"],
+      "properties": {
+        "status": { "$ref": "#/$defs/status" },
+        "hash": { "type": "string", "pattern": "^sha256:[0-9a-f]{64}$" },
+        "verified_on": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "checker": { "type": "string", "minLength": 1 },
+        "evidence": { "type": "string", "pattern": "^verification/evidence/[^/]+\\.json$" },
+        "note": { "type": "string" }
+      },
+      "if": { "properties": { "status": { "enum": ["da-kiem", "frozen"] } } },
+      "then": { "required": ["verified_on", "checker", "evidence"] }
+    }
+  }
+}
