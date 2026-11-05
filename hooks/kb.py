@@ -317,6 +317,10 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
     # được đọc trước khi dựng nav, nên gán ở đây kịp cho mọi trang.
     if is_new(_ctx["pages"].get(page.file.src_uri), page.meta) and "status" not in page.meta:
         page.meta["status"] = "new"
+    # Đợt 4.10: shortcode chạy cả trong `description` (thẻ meta và kết quả chia sẻ), như trong thân bài.
+    desc = page.meta.get("description")
+    if isinstance(desc, str) and "[[" in desc:
+        page.meta["description"] = expand(desc, _ctx, page.file.src_uri + " (description)")
     if "[[" not in markdown:
         return markdown
     return expand(markdown, _ctx, page.file.src_uri)
