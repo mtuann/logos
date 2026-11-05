@@ -62,6 +62,7 @@ DATA_FILES = [
     ("data/kb/people.yml", "triet-gia", "loi", "triet-gia", False),
     ("data/people/", "ho-so-triet-gia", "loi", "triet-gia", False),
     ("docs/assets/data/philosophers.json", "triet-gia", "he-thong", None, True),
+    ("data/kb/sources.yml", "nguon", "loi", None, True),
     ("tools/philpapers-2020.md", "philpapers", "loi", None, False),
     ("docs/assets/data/fallacies.json", "luyen-tap", "loi", "luyen-tap", False),
     ("docs/assets/data/lap-luan.json", "luyen-tap", "loi", "luyen-tap", False),

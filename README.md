@@ -43,6 +43,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
   add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)
+  kb_sources.py           data/kb/sources.yml từ mọi mục Nguồn và sources của hồ sơ (giữ archive, accessed, verified);
+                          danh sách lệch verification/lech/sources.md; --check (CI)
   kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị)
@@ -63,6 +65,7 @@ tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
   browser/                jsdom: mở mọi trang đã build qua bộ tải thật; axe-core; tìm kiếm
   test_hooks.py           kiểm thử hook Python và script sinh trang
+  test_kb_sources.py       tools/kb_sources.py: phân loại, khóa, mọi mục Nguồn có bản ghi
   test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
@@ -110,7 +113,7 @@ Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources; do
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu

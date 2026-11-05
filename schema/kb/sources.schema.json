@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://mtuann.github.io/logos/schema/kb/sources.schema.json",
   "title": "Nguồn (data/kb/sources.yml)",
-  "description": "Mỗi URL một bản ghi, gộp từ mọi mục Nguồn và sources của hồ sơ. archive: bản lưu theo quý (SEP, quyết định 14), chỉ ghi khi đã mở được.",
+  "description": "Mỗi mục Nguồn (trang viết tay, hồ sơ) một bản ghi, rút bằng tools/kb_sources.py; khóa theo URL đầu (hoặc chữ, với sách in không có URL). archive: bản lưu theo quý (SEP, quyết định 14), chỉ ghi khi đã mở được.",
   "type": "object",
   "propertyNames": {
     "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
@@ -17,7 +17,6 @@
       "required": [
         "type",
         "text",
-        "url",
         "used_in"
       ],
       "properties": {
@@ -41,7 +40,8 @@
           "type": "array",
           "items": {
             "$ref": "#/$defs/text"
-          }
+          },
+          "description": "Các cách ghi khác của cùng nguồn ở trang khác (xem verification/lech/sources.md)."
         },
         "url": {
           "$ref": "#/$defs/url"
@@ -58,18 +58,45 @@
         },
         "verified": {
           "$ref": "#/$defs/verified"
+        },
+        "also": {
+          "description": "URL thứ hai trở đi của cùng mục Nguồn.",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/url"
+          }
         }
       },
-      "if": {
-        "required": [
-          "archive"
-        ]
-      },
-      "then": {
-        "required": [
-          "accessed"
-        ]
-      }
+      "allOf": [
+        {
+          "if": {
+            "required": [
+              "archive"
+            ]
+          },
+          "then": {
+            "required": [
+              "accessed"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "not": {
+                  "const": "sach"
+                }
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "url"
+            ]
+          }
+        }
+      ]
     },
     "evidence": {
       "description": "Khóa trong sources.yml hoặc URL đã mở khi kiểm; rỗng khi mới rút.",
