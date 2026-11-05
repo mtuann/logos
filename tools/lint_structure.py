@@ -32,7 +32,8 @@ REQUIRED = {
 SUMMARY = re.compile(r'^!!! summary "Tóm tắt 5 phút"', re.M)
 LABEL = re.compile(r"\[(chắc chắn|có cơ sở|suy đoán)\]")
 LEGEND = "Cách đọc nhãn độ chắc chắn"
-DATA_FILES = ["docs/assets/data/philosophers.json", "docs/assets/data/terms.json", "tools/philosophers.py"]
+DATA_FILES = ["data/kb/people.yml", "docs/assets/data/terms.json"] + sorted(
+    f"data/people/{f.name}" for f in (ROOT / "data" / "people").glob("*.yml"))
 RULES = {
     "thieu-muc": "thiếu mục H2 bắt buộc theo loại trang (KE-HOACH.md mục 5.1)",
     "thieu-tom-tat": "bài cau-hoi thiếu hộp \"Tóm tắt 5 phút\"",

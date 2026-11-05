@@ -19,7 +19,7 @@ docs/                     nội dung Markdown
   them/                   từ điển (sinh tự động), dữ liệu của tôi, nhật ký, tham khảo, cập nhật, sách in (sinh tự động)
   assets/js/              mỗi công cụ một file (xem dưới)
   assets/css/oz.css       CSS chung (màu, công cụ, in)
-  assets/data/            fallacies.json (ngụy biện), terms.json (thuật ngữ), philosophers.json (triết gia),
+  assets/data/            fallacies.json (ngụy biện), terms.json (thuật ngữ), philosophers.json (triết gia, sinh từ data/kb/people.yml),
                           quiz-bank.json (sinh từ quiz trong bài)
   manifest.webmanifest    PWA
   sw.js                   service worker (đọc ngoại tuyến trang đã mở)
@@ -29,7 +29,7 @@ hooks/
   kb.py                   shortcode [[count:cau-hoi]] → số đếm từ content.yml; khóa sai thì build dừng
 tools/                    mọi tool sinh trang đều có --check (CI chạy hết)
   gen_glossary.py         docs/them/tu-dien.md từ terms.json
-  philosophers.py         docs/triet-gia/*.md từ philosophers.json + CONTENT trong tool; tự tính
+  philosophers.py         docs/triet-gia/*.md và philosophers.json từ data/kb/people.yml + data/people/<id>.yml; tự tính
                           "chịu ảnh hưởng từ" và danh sách bài có link tới từng triết gia
   timeline.py             dòng thời gian (SVG) từ philosophers.json
   influence.py            sơ đồ ảnh hưởng (SVG) từ trường "influence"
@@ -152,7 +152,7 @@ Thêm một bài mới:
 
 Thuật ngữ mới: thêm vào `docs/assets/data/terms.json`, rồi chạy `python tools/gen_glossary.py`.
 
-Thêm một triết gia: thêm bản ghi vào `docs/assets/data/philosophers.json` và mục tương ứng trong `CONTENT` của `tools/philosophers.py` (bắt buộc có `sources`), thêm vào `nav`, rồi chạy `philosophers.py`, `timeline.py`, `influence.py`.
+Thêm một triết gia (từ đợt 7): thêm bản ghi vào `data/kb/people.yml` và hồ sơ `data/people/<id>.yml` (bắt buộc có `sources`; schema ở `schema/kb/`), thêm vào `nav`, rồi chạy `python tools/kb_check.py --check` và `philosophers.py`, `timeline.py`, `influence.py`.
 
 ## Thêm hình minh họa
 
