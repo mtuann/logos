@@ -3,7 +3,7 @@
 Sinh bằng `python tools/kb_quotes.py`. Đầu vào cho đợt 5 (đợt con 5.2): không sửa trong đợt 2.
 
 - 155 khối trích dẫn; 103 có bản dịch của Logos.
-- 73 ghép được với tác phẩm trong works.yml; 82 chưa.
+- 72 ghép được với tác phẩm trong works.yml; 83 chưa.
 
 ## Tiêu đề khối không theo mẫu "Tác giả, *Tác phẩm*, vị trí" (64)
 
@@ -104,7 +104,7 @@ Khóa thêm hậu tố; đợt 5 ghi `locator` (38a, §IV, 2A6…) để phân b
 - `trich.tam-kinh-t251-2`: "Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos"
 - `tuan-tu.tuan-tu-2`: "Tuân Tử, *Tuân Tử*, thiên 1 “Khuyến học” (勸學), đoạn mở đầu — nguyên văn chữ Hán và phiên âm Hán Việt"
 
-## Chưa ghép được tác phẩm (82)
+## Chưa ghép được tác phẩm (83)
 
 - `alan-turing-computing-ma.mind`: "Alan Turing, “Computing Machinery and Intelligence”, *Mind*, 1950"
 - `aristotle.dao-duc-nicomachus`: "Aristotle, *Đạo đức Nicomachus*, Quyển III, chương 1 (bản tiếng Anh của W. D. Ross)"
@@ -118,6 +118,7 @@ Khóa thêm hậu tố; đợt 5 ghi `locator` (38a, §IV, 2A6…) để phân b
 - `descartes.suy-niem-ve-triet-hoc-de-nhat-2`: "Descartes, *Suy niệm về Triết học Đệ nhất*, Suy niệm VI, 1641 (bản tiếng Anh của John Veitch)"
 - `diogenes-laertius.lives-of-the-eminent-philosophers`: "Diogenes Laërtius, *Lives of the Eminent Philosophers* VII.87 — bản dịch tiếng Anh của R. D. Hicks (1925)"
 - `epicurus.nhung-cham-ngon-chu-yeu`: "Epicurus, *Những châm ngôn chủ yếu*, câu 2 (bản dịch tiếng Anh của C. D. Yonge, 1853)"
+- `epicurus.thu-gui-menoeceus`: "Epicurus, *Thư gửi Menoeceus* 125, chép trong Diogenes Laërtius X — bản dịch tiếng Anh của R. D. Hicks (1925)"
 - `gottlob-frege-uber-sinn.zeitschrift-fur-philosophie-und-philosop`: "Gottlob Frege, “Über Sinn und Bedeutung”, *Zeitschrift für Philosophie und philosophische Kritik* 100 (1892), tr. 26–27 — nguyên văn tiếng Đức (chữ ſ viết thành s)"
 - `heraclitus-manh-van-dk-2.early-greek-philosophy`: "Heraclitus, mảnh văn DK 22 B30 — bản dịch tiếng Anh của John Burnet, *Early Greek Philosophy* (1908)"
 - `john-locke.khao-luan-ve-hieu-biet-cua-con-nguoi`: "John Locke, *Khảo luận về hiểu biết của con người* (1689), quyển II, chương 1, §2 — nguyên văn tiếng Anh"

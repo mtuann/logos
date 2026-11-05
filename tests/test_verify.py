@@ -82,11 +82,19 @@ class TestScope(Base):
 
 class TestLedgerFlow(Base):
     def test_ghi_so_adds_then_refreshes_unchecked_hash(self):
-        self.assertEqual(verify.ghi_so("5.4", self.root), (2, 0))
+        self.assertEqual(verify.ghi_so("5.4", self.root), (2, 0, []))
         self.assertEqual(self.ledger()["doc/x.md#boi-canh"]["status"], "chua-kiem")
         (self.root / "docs/doc/x.md").write_text(PAGE.replace("399", "400"), encoding="utf-8")
         cl._page_units.cache_clear()
-        self.assertEqual(verify.ghi_so("5.4", self.root), (0, 1))
+        self.assertEqual(verify.ghi_so("5.4", self.root), (0, 1, []))
+
+    def test_ghi_so_drops_vanished_records(self):
+        verify.ghi_so("5.1", self.root)
+        (self.root / "data/kb/works.yml").write_text("w2: {title: Khác}\n", encoding="utf-8")
+        cl._load_yaml.cache_clear()
+        self.assertEqual(verify.ghi_so("5.1", self.root), (1, 0, ["works/w1"]))
+        self.assertNotIn("works/w1", self.ledger())
+        self.assertEqual(cl.check(cl.load(self.root), self.root), ([], []))
 
     def test_ghi_requires_good_evidence(self):
         verify.ghi_so("5.4", self.root)

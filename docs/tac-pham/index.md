@@ -180,6 +180,8 @@ k. 970/980–1037 · [Trang triết gia](../triet-gia/avicenna.md)
 - *Fasl al-Maqal* (1178) — nhắc tới trong: [hồ sơ Averroes](../triet-gia/averroes.md)
 - *al-Kashf ʿan manahij al-adilla* (1179) — nhắc tới trong: [hồ sơ Averroes](../triet-gia/averroes.md)
 - *Tahafut al-Tahafut* (1180) — nhắc tới trong: [hồ sơ Averroes](../triet-gia/averroes.md)
+- *Chú giải lớn về De Anima của Aristotle* (1186) — nhắc tới trong: [hồ sơ Averroes](../triet-gia/averroes.md)
+- *Chú giải lớn về Siêu hình học của Aristotle* — nhắc tới trong: [hồ sơ Averroes](../triet-gia/averroes.md)
 
 ## Chu Hy {#chu-hy}
 
@@ -491,6 +493,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 1917–1993 · [Trang triết gia](../triet-gia/tran-duc-thao.md)
 
+- *La Phénoménologie de l’esprit et son contenu réel* (1948) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
 - *Phénoménologie et matérialisme dialectique* (1951) — nhắc tới trong: [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md#tu-kiem-tra), [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
 - *Recherches sur l’origine du langage et de la conscience* (1973) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
 - *Vấn đề con người và chủ nghĩa “lý luận không có con người”* (1989) — nhắc tới trong: [hồ sơ Trần Đức Thảo](../triet-gia/tran-duc-thao.md)
@@ -521,6 +524,6 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 - *Reasons and Persons* (1984) — nhắc tới trong: [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md#cac-lap-truong-chinh), [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md#cau-hoi-that-su-la-gi), [hồ sơ Đức Phật](../triet-gia/duc-phat.md), [hồ sơ Derek Parfit](../triet-gia/parfit.md)
 - *On What Matters* (2011) — nhắc tới trong: [hồ sơ Derek Parfit](../triet-gia/parfit.md)
 
-*220 tác phẩm của 58 tác giả.*
+*223 tác phẩm của 58 tác giả.*
 
 <!-- /gen:tac-pham -->

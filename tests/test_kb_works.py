@@ -34,9 +34,10 @@ class TestKbWorks(unittest.TestCase):
         self.assertTrue(all(k.startswith("chua-ro.") and self.recs[k]["author"] is None for k in herodotus))
 
     def test_prose_count_matches_baseline(self):
-        """158 chỗ *Tác phẩm* (năm) trong Lõi viết tay: báo cáo nền đếm 159, gồm 1 chỗ là số trang Stephanus (*Cộng hòa* (519a…))."""
+        """157 chỗ *Tác phẩm* (năm) trong Lõi viết tay: báo cáo nền đếm 159, gồm 1 chỗ là số trang Stephanus
+        (*Cộng hòa* (519a…)) và 1 chỗ "(100 nhà sản xuất…)" (đợt 5.1, không phải năm)."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 158)
+        self.assertEqual(n, 157)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():
@@ -61,6 +62,25 @@ class TestKeptFields(unittest.TestCase):
         self.assertIn("attribution:", kw.render({"chua-ro.x": {**out, "years_seen": {}, "used_in": [], "evidence": [],
                                                                "verified": None}}))
 
+
+
+class TestExtractionFixes(unittest.TestCase):
+    """Đợt 5.1: lỗi trình rút do agent kiểm tìm ra."""
+
+    def test_number_followed_by_words_is_not_a_year(self):
+        line = "*CDP Carbon Majors Report 2017* (100 nhà sản xuất nhiên liệu hóa thạch)"
+        self.assertEqual(kw.WORK_YEAR.findall(line), [])
+        self.assertEqual(kw.WORK_YEAR.findall("*Confessiones* (397), rồi *De civitate Dei* (413–426)"),
+                         [("Confessiones", "397", ""), ("De civitate Dei", "413", "")])
+        self.assertEqual(kw.WORK_YEAR.findall("*Nephelai* (423 TCN)"), [("Nephelai", "423", " TCN")])
+
+    def test_own_titles_belong_to_profile_owner(self):
+        recs = kw.extract()
+        self.assertIn("averroes.chu-giai-lon-ve-de-anima-cua-aristotle", recs)
+        self.assertEqual(recs["averroes.chu-giai-lon-ve-de-anima-cua-aristotle"]["year"], 1186)
+        self.assertEqual(recs["tran-duc-thao.la-phenomenologie-de-lesprit-et-son-contenu-reel"]["titles"],
+                         ["La Phénoménologie de l’esprit et son contenu réel"])
+        self.assertFalse(any(r.get("author_name") in ("Chú giải lớn về", "“La") for r in recs.values()))
 
 if __name__ == "__main__":
     unittest.main()
