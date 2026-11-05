@@ -131,6 +131,8 @@ Thẻ ghi nhớ: `<div class="oz-flashcards"></div>`.
 
 Mỗi mục H2 mang ID cố định viết tay, để đổi tiêu đề không làm gãy link và không mở khóa đơn vị đã kiểm: `## Các lập trường chính {#cac-lap-truong-chinh}`. Mục mới: build rồi chạy `python tools/add_heading_ids.py` để tool gắn ID; đổi tiêu đề thì giữ nguyên ID cũ.
 
+Số đếm của site (số bài, số triết gia…) không gõ tay mà dùng shortcode, để tự đúng khi thêm bài: `[[count:cau-hoi]]` (57), `[[count:cau-hoi/dao-duc]]` (bài trong một khối), `[[count:triet-gia]]`. Khóa sai thì build dừng. Danh sách loại và quy tắc đếm: `hooks/kb.py`. Đợt 3 thay các số đếm gõ tay hiện có bằng shortcode.
+
 Link nội bộ: dùng đường dẫn tương đối tới file `.md`, ví dụ `[lập luận](../cong-cu/lap-luan-la-gi.md)`.
 
 Triết gia: lần đầu nhắc tới một người đã có trang trong `docs/triet-gia/`, đặt link tới trang đó, ví dụ `[Hume](../triet-gia/hume.md)` (chỉ lần đầu; không đặt trong tiêu đề, trích dẫn nguyên văn, quiz hay mục Nguồn). Trang triết gia tự liệt kê các bài có link tới nó, nên sau khi thêm link hãy chạy `python tools/philosophers.py`.

@@ -26,6 +26,7 @@ docs/                     nội dung Markdown
 hooks/
   slugs.py                anchor tiếng Việt không dấu ("Đọc văn bản" → doc-van-ban)
   search_vi.py            thêm bản không dấu vào chỉ mục tìm kiếm
+  kb.py                   shortcode [[count:cau-hoi]] → số đếm từ content.yml; khóa sai thì build dừng
 tools/                    mọi tool sinh trang đều có --check (CI chạy hết)
   gen_glossary.py         docs/them/tu-dien.md từ terms.json
   philosophers.py         docs/triet-gia/*.md từ philosophers.json + CONTENT trong tool; tự tính

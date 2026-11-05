@@ -53,6 +53,7 @@ plugins:
 hooks:
   - hooks/slugs.py
   - hooks/search_vi.py
+  - hooks/kb.py           # shortcode [[count:…]] (KE-HOACH.md mục 4)
 
 markdown_extensions:
   - abbr
