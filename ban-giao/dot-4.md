@@ -56,7 +56,7 @@ Giữ đúng cú pháp nav của MkDocs để chép thẳng. `nav_gen.py` ghi v�
 - Playwright cần trình duyệt: trên máy `npx playwright install chromium`; trong CI `npx playwright install --with-deps chromium` (có cache). `npm test` giữ nguyên (jsdom, 122 + 250); `npm run test:real` là bộ mới, chạy riêng một bước trong CI.
 - Material 9.8.0 là bản cuối: override bằng `overrides/` (block, partial), không vá file trong gói.
 - Worker tìm kiếm (4.5): nếu không giữ được giao thức của Material mà không vá gói, dừng ở mức "bỏ bản sao + tải chậm" là không được (mất tìm không dấu), nên khi đó giữ bản sao, chỉ làm tải chậm, và báo chủ biên.
-- Font: lấy file từ kho chính thức của Google Fonts (GitHub `google/fonts`, giấy phép OFL), cắt tập ký tự bằng `fonttools` chạy một lần (không thêm vào phụ thuộc của dự án); ghi nguồn và mã băm file vào `docs/assets/fonts/NGUON.md`.
+- Font: lấy file từ kho chính thức của Google Fonts (GitHub `google/fonts`, giấy phép OFL), cắt tập ký tự bằng `fonttools` chạy một lần (không thêm vào phụ thuộc của dự án); ghi nguồn và mã băm file vào `docs/assets/fonts/NGUON.txt`.
 - Mỗi việc chạm giao diện: chạy `npm run test:real` và parity trước khi merge.
 
 ## Cổng

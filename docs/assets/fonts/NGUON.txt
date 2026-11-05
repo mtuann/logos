@@ -1,0 +1,14 @@
+Nguồn font (đợt 4, việc 4.4; quyết định 21)
+
+Lấy từ kho chính thức `google/fonts` (GitHub, commit `fbe81817505e`, ngày 5/11/2026), thư mục `ofl/bevietnampro/` và `ofl/notoserif/`. Giấy phép SIL Open Font License 1.1 (`OFL-*.txt`); không có Reserved Font Name nên bản cắt giữ tên gốc.
+
+Cắt một lần bằng fontTools 4.60.1 (`pyftsubset` qua API; Noto Serif: cố định trục wdth=100 và wght=400/700 bằng `varLib.instancer`), tập ký tự: Latin cơ bản và Latin-1, chữ Việt (U+0102–0103, U+0110–0111, U+0128–0129, U+0168–0169, U+01A0–01A1, U+01AF–01B0, U+1EA0–1EF9, dấu kết hợp), dấu câu U+2000–206F, ₫ €, mũi tên U+2190–2195 ⇒ ⇔, ký hiệu logic U+2200–2228 ≈ ≠ ≤ ≥ −. Ký tự ngoài tập dùng font dự phòng trong `--md-text-font`.
+
+| File | Từ | Byte | sha256 |
+|---|---|---:|---|
+| `be-vietnam-pro-400.woff2` | `BeVietnamPro-Regular.ttf` (sha256 gốc `cd1ef6e9d7db28ad…`) | 29888 | `29a141e2e87aadce…` |
+| `be-vietnam-pro-600.woff2` | `BeVietnamPro-SemiBold.ttf` (sha256 gốc `bd8e27eb02720b9d…`) | 31652 | `027f90a2edbc3165…` |
+| `be-vietnam-pro-700.woff2` | `BeVietnamPro-Bold.ttf` (sha256 gốc `7f738fe5c43c8872…`) | 32152 | `2524b13236face4d…` |
+| `noto-serif-400.woff2` | `NotoSerif[wdth,wght].ttf` (sha256 gốc `4d8e676142465686…`) | 24948 | `4e978100b6470ba1…` |
+| `noto-serif-700.woff2` | `NotoSerif[wdth,wght].ttf` (sha256 gốc `4d8e676142465686…`) | 26632 | `958097878a042821…` |
+| `noto-serif-400-italic.woff2` | `NotoSerif-Italic[wdth,wght].ttf` (sha256 gốc `e87acbc6c0efd0d9…`) | 26764 | `df982b0c52da9ec9…` |

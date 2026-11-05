@@ -5,7 +5,7 @@
 // nên khi kích hoạt chỉ xóa cache cũ của chính logos.
 var PREFIX = "logos-";
 var VERSION = PREFIX + "v1";
-var CORE = ["./", "assets/css/oz.css", "assets/js/core.js", "assets/js/progress.js", "assets/js/loader.js", "assets/img/icon.svg"];
+var CORE = ["./", "assets/css/oz.css", "assets/fonts/be-vietnam-pro-400.woff2", "assets/js/core.js", "assets/js/progress.js", "assets/js/loader.js", "assets/img/icon.svg"];
 
 self.addEventListener("install", function (e) {
   e.waitUntil(
