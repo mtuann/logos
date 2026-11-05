@@ -25,7 +25,7 @@ docs/                     nội dung Markdown
   sw.js                   service worker (đọc ngoại tuyến trang đã mở)
 hooks/
   slugs.py                anchor tiếng Việt không dấu ("Đọc văn bản" → doc-van-ban)
-  search_vi.py            thêm bản không dấu vào chỉ mục tìm kiếm
+  search_vi.py            bỏ box Tóm tắt 5 phút khỏi chỉ mục tìm kiếm (bỏ dấu: docs/assets/js/search-worker.js, đợt 4.5)
   kb.py                   shortcode: [[count:…]] số đếm (content.yml, file dữ liệu), [[pp:…]] số liệu PhilPapers,
                           [[thoi-su:…]] khối thời sự data/thoi-su/; khóa sai thì build dừng
 tools/                    mọi tool sinh trang đều có --check (CI chạy hết)

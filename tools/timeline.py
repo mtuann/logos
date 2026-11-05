@@ -83,11 +83,13 @@ def render_svg(data: list) -> str:
     h = TOP_PAD + n * ROW_H + AXIS_H
     out = []
     a = out.append
+    # data-search-exclude: chữ trong SVG bị nối liền trong chỉ mục tìm kiếm ("Tiền SocratesHy Lạp cổ đại…"), mà
+    # mọi dữ kiện đã có ở trang từng triết gia (đợt 4.5).
     # role="group" chứ không phải "img": SVG chứa link tới trang triết gia, mà con của role="img"
     # bị coi là trang trí nên trình đọc màn hình không với tới link (axe: nested-interactive).
     a(f'<svg viewBox="0 0 {W} {h}" role="group" '
       f'aria-label="Dòng thời gian {n} triết gia từ năm 600 TCN đến nay" '
-      f'xmlns="http://www.w3.org/2000/svg" class="oz-timeline">')
+      f'xmlns="http://www.w3.org/2000/svg" class="oz-timeline" data-search-exclude>')
     a("<style>")
     a(":root{--tl-text:#333;--tl-grid:#d8d8d8;--tl-axis:#888;}")
     a("@media (prefers-color-scheme: dark){:root{--tl-text:#ddd;--tl-grid:#3a3a3a;--tl-axis:#999;}}")

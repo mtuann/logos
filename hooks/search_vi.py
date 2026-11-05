@@ -1,5 +1,8 @@
 """Tìm kiếm tiếng Việt không dấu.
 
+Từ đợt 4.5: bản không dấu KHÔNG còn được ghi vào chỉ mục; docs/assets/js/search-worker.js bỏ dấu ở trình duyệt.
+Hook này chỉ còn bỏ box "Tóm tắt 5 phút" khỏi chỉ mục. Mô tả cách cũ (augment) bên dưới, giữ để tham khảo.
+
 Sau khi plugin search của Material ghi search/search_index.json, hook này thêm bản
 không dấu (bỏ dấu, đổi đ → d) của tiêu đề và nội dung vào trường text của mỗi mục.
 Tiêu đề không dấu được lặp lại để giữ thứ hạng khi người dùng gõ không dấu.
@@ -72,6 +75,8 @@ def on_post_build(config, **kwargs):
         log.warning("Không thấy search_index.json — bỏ qua tìm kiếm không dấu")
         return
     data = json.loads(path.read_text(encoding="utf-8"))
-    data["docs"] = [augment(strip_summaries(d)) for d in data.get("docs", [])]
+    # Đợt 4.5 (quyết định 22): không thêm bản sao không dấu nữa; worker docs/assets/js/search-worker.js bỏ dấu ở
+    # trình duyệt, cả khi dựng chỉ mục lẫn khi gõ. `augment` giữ lại cho kiểm thử và để so sánh.
+    data["docs"] = [strip_summaries(d) for d in data.get("docs", [])]
     path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    log.info("search_vi: đã thêm bản không dấu cho %d mục", len(data["docs"]))
+    log.info("search_vi: %d mục (bỏ dấu ở trình duyệt)", len(data["docs"]))

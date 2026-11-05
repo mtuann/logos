@@ -175,16 +175,32 @@ def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: lis
             new = [i for i in y.ids if i not in x.ids][:5]
             problems.append(f"{p}: id lệch (mất {gone}, thêm {new}"
                             f"{', hoặc đổi thứ tự' if not gone and not new else ''})")
-    problems += compare_search(before, after, subs)
+    problems += compare_search(before, after, subs, exempt, notes)
     return problems, len(a.keys() | b.keys())
 
 
-def compare_search(before: Path, after: Path, subs=()) -> list[str]:
+NOACCENT = re.compile(r'<span hidden class="oz-noaccent">.*?</span>', re.S)
+
+
+def _no_accent_copy(doc: dict) -> dict:
+    """Bỏ bản sao không dấu mà hooks/search_vi.py thêm tới đợt 3 (đợt 4.5: bỏ dấu ở trình duyệt, không còn trong file)."""
+    return {k: NOACCENT.sub("", v) if isinstance(v, str) else v for k, v in doc.items()}
+
+
+def compare_search(before: Path, after: Path, subs=(), exempt=(), notes: list | None = None) -> list[str]:
     fa, fb = before / "search" / "search_index.json", after / "search" / "search_index.json"
     if not (fa.exists() and fb.exists()):
         return []
-    da = json.loads(_apply(fa.read_text(encoding="utf-8"), subs))["docs"]
-    db = json.loads(fb.read_text(encoding="utf-8"))["docs"]
+    def page_of(d):   # "lich-su/dong-thoi-gian/#muc" → "lich-su/dong-thoi-gian/index.html"
+        return d["location"].split("#")[0] + "index.html"
+    da = [_no_accent_copy(d) for d in json.loads(_apply(fa.read_text(encoding="utf-8"), subs))["docs"]]
+    db = [_no_accent_copy(d) for d in json.loads(fb.read_text(encoding="utf-8"))["docs"]]
+    skipped = {page_of(d) for d in da + db if _match(page_of(d), exempt)}
+    if skipped and notes is not None:
+        changed = sorted(p for p in skipped if [d for d in da if page_of(d) == p] != [d for d in db if page_of(d) == p])
+        notes += [f"search_index.json: {p}: ngoại lệ, mục tìm kiếm có đổi" for p in changed]
+    da = [d for d in da if page_of(d) not in skipped]
+    db = [d for d in db if page_of(d) not in skipped]
     if da == db:
         return []
     ka = {d["location"]: d for d in da}
