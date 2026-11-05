@@ -5,6 +5,7 @@
 
 Kiểm:
   - front matter theo schema/thoi-su.schema.json; `review_by` không trước `updated_to`;
+  - `sources`: URL, hoặc khóa có trong data/kb/sources.yml;
   - id (tên file) dạng `<trang, "/" thành ".">.<tên ngắn>`, khớp `page`;
   - thân khối không rỗng, không có dòng trống ở đầu hay cuối;
   - mỗi khối được trang `page` dùng đúng một lần (`[[thoi-su:<id>]]` ngoài code), và không trang nào khác dùng;
@@ -23,6 +24,7 @@ import sys
 from pathlib import Path
 
 import jsonschema
+import yaml
 
 from lz import DOCS, ROOT
 
@@ -52,6 +54,11 @@ def uses(docs: Path = DOCS) -> dict[str, list[tuple[str, bool]]]:
     return out
 
 
+def source_keys(root: Path) -> set[str]:
+    f = root / "data" / "kb" / "sources.yml"
+    return set(yaml.safe_load(f.read_text(encoding="utf-8")) or {}) if f.exists() else set()
+
+
 def problems(root: Path = ROOT, docs: Path = DOCS) -> list[str]:
     errs = []
     try:
@@ -77,6 +84,9 @@ def problems(root: Path = ROOT, docs: Path = DOCS) -> list[str]:
             errs.append(f"{where}: thân khối rỗng")
         elif body != body.strip("\n") or body.startswith(" "):
             errs.append(f"{where}: thân khối có dòng trống hoặc thụt lề ở đầu/cuối")
+        for src in meta.get("sources") or []:
+            if isinstance(src, str) and not src.startswith(("http://", "https://")) and src not in source_keys(root):
+                errs.append(f"{where}: nguồn {src!r} không phải URL, cũng không có trong data/kb/sources.yml")
         if str(meta.get("review_by", "")) < str(meta.get("updated_to", "")):
             errs.append(f"{where}: review_by trước updated_to")
         hits = used.get(key, [])

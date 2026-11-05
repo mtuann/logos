@@ -50,7 +50,8 @@ uv run python tools/add_heading_ids.py --check
 uv run python tools/check_ledger.py --check
 uv run python tools/kb_check.py --check
 uv run python tools/thoi_su_check.py --check
-for l in lint_terms lint_volatile lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done   # cảnh báo, chưa chặn
+uv run python tools/lint_volatile.py --strict -q   # chặn: nội dung có hạn dùng phải ở data/thoi-su/ hoặc trong danh sách miễn
+for l in lint_terms lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done   # cảnh báo, chưa chặn
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build

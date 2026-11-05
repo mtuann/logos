@@ -47,7 +47,7 @@
       "required": ["path", "kind", "tier", "block", "generated"],
       "properties": {
         "path": { "type": "string", "pattern": "^[a-z0-9._/-]+$", "description": "Tính từ gốc repo." },
-        "kind": { "enum": ["thuat-ngu", "triet-gia", "ho-so-triet-gia", "luyen-tap", "quiz", "philpapers", "nguon", "tac-pham", "trich-dan", "su-kien"] },
+        "kind": { "enum": ["thuat-ngu", "triet-gia", "ho-so-triet-gia", "luyen-tap", "quiz", "philpapers", "nguon", "tac-pham", "trich-dan", "su-kien", "thoi-su"] },
         "tier": { "$ref": "#/$defs/tier" },
         "block": { "$ref": "#/$defs/block" },
         "generated": { "type": "boolean" }

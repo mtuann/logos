@@ -2,34 +2,15 @@
 
 Sinh bằng `python tools/lint_volatile.py --write`. Phạm vi: Lõi viết tay, bỏ mục Nguồn, đích link, khối trích. Đầu đợt 1: 90 chỗ (luật cũ, `verification/bao-cao-nen.md` mục 2). Đợt 3 dời chỗ có hạn dùng vào khối thời sự (`data/thoi-su/`), chỗ còn lại vào danh sách miễn có lý do; đích là 0.
 
-**14 chỗ** ở **6 trang/file**. Chế độ cảnh báo: chưa chặn CI.
+**0 chỗ** ở **0 trang/file**. Chế độ cảnh báo: chưa chặn CI.
 
 | Luật | Nghĩa | Số chỗ |
 |---|---|---:|
-| `nam` | năm 2022 trở đi trong thân bài Lõi | 3 |
-| `cum-thoi-gian` | cụm chỉ thời điểm (hiện nay, gần đây, tính đến…) | 3 |
-| `van-ban-luat` | nhắc tới văn bản luật cụ thể | 8 |
+| `nam` | năm 2022 trở đi trong thân bài Lõi | 0 |
+| `cum-thoi-gian` | cụm chỉ thời điểm (hiện nay, gần đây, tính đến…) | 0 |
+| `van-ban-luat` | nhắc tới văn bản luật cụ thể | 0 |
 | `thoi-su-qua-han` | khối thời sự quá hạn rà soát (`review_by`) | 0 |
 | `mien-thua` | mục trong danh sách miễn không còn khớp chỗ nào | 0 |
-
-## Chi tiết
-
-| Vị trí | Đơn vị | Luật | Tìm thấy | Ghi chú |
-|---|---|---|---|---|
-| `cau-hoi/an-tu-hinh.md:64` | `cau-hoi/an-tu-hinh.md#cac-lap-truong-chinh` | `nam` | 2024 | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/an-tu-hinh.md:64` | `cau-hoi/an-tu-hinh.md#cac-lap-truong-chinh` | `nam` | 2026 | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/chan-ly.md:126` | `cau-hoi/chan-ly.md#lien-he-doi-song` | `nam` | 2025 | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/chan-ly.md:128` | `cau-hoi/chan-ly.md#lien-he-doi-song` | `van-ban-luat` | Bộ luật | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/hien-tang.md:93` | `cau-hoi/hien-tang.md#lien-he-doi-song` | `cum-thoi-gian` | hiện nay | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/nho-giao-viet.md:126` | `cau-hoi/nho-giao-viet.md#lien-he-doi-song` | `cum-thoi-gian` | gần đây | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `cum-thoi-gian` | hiện nay | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `van-ban-luat` | Luật | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `van-ban-luat` | Luật | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `van-ban-luat` | Nghị định | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `van-ban-luat` | Nghị định | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `van-ban-luat` | Nghị định | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/quyen-rieng-tu-so.md:94` | `cau-hoi/quyen-rieng-tu-so.md#lien-he-doi-song` | `van-ban-luat` | Nghị định | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
-| `cau-hoi/tu-do-y-chi.md:171` | `cau-hoi/tu-do-y-chi.md#lien-he-doi-song` | `van-ban-luat` | Bộ luật | dời vào khối thời sự (data/thoi-su/) hoặc ghi vào danh sách miễn có lý do (quyết định 20) |
 
 ## Chỗ được miễn (61)
 

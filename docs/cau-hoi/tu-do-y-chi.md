@@ -168,7 +168,7 @@ Những gì còn bỏ ngỏ thật sự: trường hợp Frankfurt có thành c�
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 
-**Pháp luật hình sự.** Pháp luật Việt Nam, giống nhiều nước, gắn trách nhiệm hình sự với khả năng nhận thức và điều khiển hành vi. Bộ luật Hình sự 2015 (Điều 21) quy định người thực hiện hành vi nguy hiểm khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi thì không phải chịu trách nhiệm hình sự. Nhưng người tự đặt mình vào tình trạng đó, bằng cách dùng rượu, bia hoặc chất kích thích mạnh, vẫn phải chịu trách nhiệm (Điều 13). Hãy để ý: cách luật vạch ranh giới khá giống tương thích luận. Câu hỏi không phải "hành vi có nguyên nhân không", mà "người đó có năng lực làm chủ hành vi không", và "họ có tự gây ra việc mất năng lực đó không".
+[[thoi-su:cau-hoi.tu-do-y-chi.bo-luat-hinh-su]]
 
 **Nghiện.** Người nghiện có tự do không? Một người nghiện cờ bạc online nói: "Tôi biết là hại, tôi không muốn chơi, nhưng tay cứ bấm." Hình ảnh của Frankfurt về ý muốn bậc cao giúp mô tả trường hợp này: anh ta muốn chơi, nhưng không muốn mình muốn chơi. Nếu tự do có mức độ, có lẽ anh ta *ít tự do hơn*, và điều đó có thể ảnh hưởng đến việc ta nên đối xử với anh ta thế nào: trách phạt, hay hỗ trợ điều trị.
 

@@ -123,7 +123,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 **Cãi nhau về "truyền thống" trong gia đình.** Tết phải thế này, cưới phải thế kia — "các cụ ngày xưa vẫn thế". Nhưng các cụ ngày xưa cũng từng thay đổi các cụ của các cụ. Định nghĩa động về truyền thống cho ta một cách nói chuyện khác với thế hệ trước: không phải "bỏ" hay "giữ", mà là "viết tiếp như thế nào".
 
-**Du học và "sính ngoại".** Mỗi năm hàng chục nghìn sinh viên Việt Nam ra nước ngoài học **[có cơ sở]** (số liệu Bộ GD&ĐT các năm gần đây). Có người về nước áp dụng máy móc mô hình ngoại, có người chê bai mọi thứ trong nước, có người lặng lẽ biến những gì học được thành cái phù hợp với quê nhà. Ba kiểu ấy chính là ba thái độ trong bài này: sao chép, bài ngoại, và Việt hóa. Câu chuyện Nho giáo nghìn năm trước vẫn là câu chuyện của hôm nay.
+**Du học và "sính ngoại".** [[thoi-su:cau-hoi.nho-giao-viet.du-hoc]] Có người về nước áp dụng máy móc mô hình ngoại, có người chê bai mọi thứ trong nước, có người lặng lẽ biến những gì học được thành cái phù hợp với quê nhà. Ba kiểu ấy chính là ba thái độ trong bài này: sao chép, bài ngoại, và Việt hóa. Câu chuyện Nho giáo nghìn năm trước vẫn là câu chuyện của hôm nay.
 
 **Người Việt học triết Tây.** Hôm nay, sinh viên Việt Nam đọc [Kant](../triet-gia/kant.md), đọc [Rawls](../triet-gia/rawls.md), đọc triết học phân tích bằng tiếng Anh. Câu chuyện Nho giáo đặt ra một câu hỏi cho họ: một trăm năm nữa, liệu có "triết học phân tích Việt Nam" không — và nó sẽ khác triết học phân tích ở Oxford ra sao? Câu trả lời có lẽ nằm ở chính mô hình cũ: đọc kỹ nguyên bản, nhưng trả lời câu hỏi của đời mình **[suy đoán]**.
 
