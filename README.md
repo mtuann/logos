@@ -60,7 +60,10 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
                           dot3_so_dem.py (số đếm → [[count:…]]), dot3_philpapers.py (ô PhilPapers → [[pp:…]];
                           lệch: verification/lech/philpapers-bang.md); thay_shortcode.py (thay có kiểm, dùng chung)
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
-                          --hash KHÓA (mã băm hiện tại của đơn vị hoặc bản ghi: people/kant, ho-so/kant…)
+                          --hash KHÓA (mã băm hiện tại của đơn vị hoặc bản ghi: people/kant, ho-so/kant, terms/logic…);
+                          kiểm file bằng chứng theo schema/evidence.schema.json
+  verify.py               đợt con của đợt 5: --pham-vi, --ghi-so, --ghi/--ghi-dot (bằng chứng đạt → da-kiem),
+                          --tien-do, --mau/--so-mau (mẫu 10% cố định, verification/mau/), --dong-bang
   changed_units.py        báo cáo đơn vị đổi chữ giữa hai phiên bản (tầng, khối, trạng thái sổ, việc cần làm);
                           CI đăng thành bình luận PR, hoặc vào job summary khi push
   terms_policy.py         data/style/terms-policy.yml từ bảng thuật ngữ ở HUONG-DAN-VIET.md mục 3; --check (CI)
@@ -93,6 +96,7 @@ tests/
   test_dot3.py            script đợt 3: không còn ô PhilPapers khớp JSON mà còn gõ tay; số đếm, khối thời sự đã thay
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
+  test_verify.py          tools/verify.py: phạm vi đợt con, điều kiện ghi da-kiem, mẫu cố định, đóng băng
   test_linters.py         terms_policy và ba linter
   test_parity.py          tools/parity.py: trích văn bản hiển thị, phát hiện lệch
   test_lz.py              thư viện tools/lz: mọi hệ quả của chuẩn hóa và băm (KE-HOACH.md mục 5.6)

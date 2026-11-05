@@ -13,6 +13,7 @@
 | Bản ghi kho `data/kb/` | people 59, works 337, quotes 155, events 128, sources 681, philpapers 87 câu |
 | Hồ sơ triết gia `data/people/` | 59 |
 | Dữ liệu luyện tập và từ điển `docs/assets/data/` | terms 249, fallacy-types 20, fallacies 100, lap-luan 30, logic 20, thi-nghiem 8 |
+| Tổng khóa theo đợt con (`verify.py --pham-vi`) | 5.1: 396 · 5.2: 1.051 · 5.3: 308 · 5.4: 190 · 5.5: 349 · 5.6: 74 · 5.7: 253 · 5.8: 299 — cộng 2.920 |
 
 ## Việc
 
@@ -43,7 +44,7 @@ Thứ tự: 5.0a → 5.0b → 5.0c → 5.0d → 5.1 → … → 5.8 → 5.9. Kho
 3. **Sửa**: agent làm đọc các claim `sai`, sửa đúng câu đó trong bài hoặc bản ghi, mỗi nhánh tối đa 3 đơn vị nội dung (AGENTS.md mục 5). Commit ghi khóa đơn vị và file bằng chứng. Sửa bản ghi kho thì chạy lại generator dùng nó. Không sửa ngoài claim; thấy lỗi khác thì ghi vào bằng chứng của đơn vị đó để agent kiểm xét.
 4. **Kiểm lại**: đơn vị đã sửa có mã băm mới; agent kiểm xét lại riêng các claim đã sửa, cập nhật bằng chứng (`hash` mới, `result: dat`).
 5. **Ghi sổ**: `verify.py --ghi <khóa>…` kiểm bằng chứng (schema, `unit`, `hash` trùng mã băm hiện tại, `result: dat`), rồi đặt `da-kiem` với `verified_on`, `checker`, `evidence`.
-6. **Kiểm mẫu**: `verify.py --mau 5.N` chọn 10% (làm tròn lên, ít nhất 3) đơn vị `da-kiem` của đợt con, theo hạt giống cố định là tên đợt con, nên ai chạy cũng ra cùng mẫu; ghi `verification/mau/5.N.md`. Agent kiểm thứ hai (phiên khác, không thấy bằng chứng cũ) kiểm lại mẫu vào `verification/mau/5.N/<khóa>.json`; `verify.py --so-mau 5.N` so hai bộ và tính tỉ lệ lỗi nghiêm trọng mà bộ đầu bỏ sót. Trên 2% thì kiểm lại cả đợt con. Chủ biên đọc trang mẫu (quyết định 5).
+6. **Kiểm mẫu**: `verify.py --mau 5.N` chọn 10% (làm tròn lên, ít nhất 3) đơn vị `da-kiem` của đợt con, theo hạt giống cố định là tên đợt con, nên ai chạy cũng ra cùng mẫu; ghi `verification/mau/5.N.json` (trạng thái) và `5.N.md` (để đọc). Agent kiểm thứ hai (phiên khác, không thấy bằng chứng cũ) kiểm lại mẫu vào `verification/mau/5.N/<khóa>.json`; `verify.py --so-mau 5.N` so hai bộ và tính tỉ lệ lỗi nghiêm trọng mà bộ đầu bỏ sót. Trên 2% thì kiểm lại cả đợt con. Chủ biên đọc trang mẫu (quyết định 5).
 7. **Đóng băng**: `verify.py --dong-bang 5.N` chuyển `da-kiem` → `frozen` khi mẫu đạt và chủ biên đã duyệt (cờ `--chu-bien-duyet YYYY-MM-DD`, ghi vào `verification/mau/5.N.md`).
 
 Nhánh chỉ thêm bằng chứng và sổ (không đổi chữ bài) có thể gom cả một trang hoặc một loại bản ghi; nhánh đổi chữ thì tối đa 3 đơn vị.
@@ -53,8 +54,8 @@ Nhánh chỉ thêm bằng chứng và sổ (không đổi chữ bài) có thể 
 | Lệnh | Việc |
 |---|---|
 | `--pham-vi 5.N` | in khóa đơn vị và bản ghi của đợt con (theo bảng Việc; khối của `content.yml`) |
-| `--ghi-so 5.N` | thêm khóa chưa có vào sổ, trạng thái `chua-kiem` |
-| `--ghi KHOA…` | bằng chứng hợp lệ và `result: dat` → `da-kiem` |
+| `--ghi-so 5.N` | thêm khóa chưa có vào sổ, trạng thái `chua-kiem`; khóa `chua-kiem` đổi chữ thì cập nhật mã băm |
+| `--ghi KHOA…`, `--ghi-dot 5.N` | bằng chứng hợp lệ và `result: dat` → `da-kiem` (`--ghi-dot`: mọi khóa của đợt con đã có bằng chứng) |
 | `--mau 5.N` | chọn mẫu 10% cố định, ghi `verification/mau/5.N.md` |
 | `--so-mau 5.N` | so bằng chứng mẫu với bằng chứng gốc, in tỉ lệ lỗi nghiêm trọng bị bỏ sót |
 | `--dong-bang 5.N --chu-bien-duyet NGÀY` | `da-kiem` → `frozen` cho đợt con đã đạt mẫu |

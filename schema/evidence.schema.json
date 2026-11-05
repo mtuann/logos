@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mtuann.github.io/logos/schema/evidence.schema.json",
+  "title": "File bằng chứng kiểm chứng (verification/evidence/*.json, verification/mau/5.N/*.json)",
+  "description": "Một đơn vị hoặc bản ghi, một file. Quy trình và nghĩa từng trường: ban-giao/kiem-chung.md. tools/check_ledger.py và tools/verify.py kiểm theo schema này.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["unit", "hash", "checked_on", "checker", "claims", "result"],
+  "properties": {
+    "unit": {
+      "type": "string",
+      "pattern": "^([a-z0-9-]+/)*[a-z0-9-]+\\.md#[A-Za-z0-9_-]+$|^[a-z-]+/[a-z0-9._-]+$"
+    },
+    "hash": {
+      "description": "Mã băm của đơn vị lúc kiểm (check_ledger.py --hash); null khi chưa điền.",
+      "type": ["string", "null"],
+      "pattern": "^sha256:[0-9a-f]{64}$"
+    },
+    "checked_on": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "checker": {"type": "string", "minLength": 1},
+    "claims": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/claim"}
+    },
+    "checklist": {
+      "description": "Checklist ngữ nghĩa năm câu; bắt buộc với đơn vị trang, không dùng cho bản ghi kho.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["dung-nguon", "manh-nhat", "phan-bac", "trung-lap", "thuat-ngu"],
+      "properties": {
+        "dung-nguon": {"type": ["boolean", "null"]},
+        "manh-nhat": {"type": ["boolean", "null"]},
+        "phan-bac": {"type": ["boolean", "null"]},
+        "trung-lap": {"type": ["boolean", "null"]},
+        "thuat-ngu": {"type": ["boolean", "null"]}
+      }
+    },
+    "result": {"enum": ["dat", "sua", "chua-kiem-duoc"]},
+    "notes": {"type": "string"}
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "quote"],
+      "properties": {
+        "url": {"type": "string", "pattern": "^https?://"},
+        "quote": {"type": "string", "minLength": 1, "description": "Vài chữ thật trên trang đã mở trong phiên kiểm."},
+        "where": {"type": "string", "description": "Vị trí trong nguồn: mục, trang, số đoạn."}
+      }
+    },
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text", "kind", "verdict"],
+      "properties": {
+        "text": {"type": "string", "minLength": 1},
+        "kind": {"enum": ["du-kien", "dien-giai"]},
+        "verdict": {"enum": ["dung", "sai", "chua-kiem-duoc"]},
+        "severity": {"enum": ["nghiem-trong", "vua", "nhe"]},
+        "fix": {"type": "string"},
+        "fixed": {"type": "boolean", "description": "Agent kiểm xác nhận chỗ sai đã được sửa đúng trong phiên bản có mã băm `hash`."},
+        "kb": {"type": "string", "pattern": "^[a-z-]+/[a-z0-9._-]+$", "description": "Khóa bản ghi kho đã đóng băng dùng làm căn cứ, thay cho sources."},
+        "sources": {"type": "array", "items": {"$ref": "#/$defs/source"}}
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"verdict": {"const": "sai"}}},
+          "then": {"required": ["severity", "fix", "sources"], "properties": {"sources": {"minItems": 1}}}
+        },
+        {
+          "if": {"properties": {"verdict": {"const": "dung"}}},
+          "then": {"anyOf": [{"required": ["kb"]}, {"required": ["sources"], "properties": {"sources": {"minItems": 1}}}]}
+        }
+      ]
+    }
+  }
+}
