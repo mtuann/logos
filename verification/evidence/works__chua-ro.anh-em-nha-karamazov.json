@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.anh-em-nha-karamazov",
-  "hash": "sha256:9bc7269df00f2f581f377aa626d9e4349af35904b5731a1331ded5488b2eb48e",
+  "hash": "sha256:d133b95e52815e0dbfc0c9e441decd11f43c412461381d37303ab64004ee4ba9",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1b-lo02",
+  "checker": "agent-kiem-5.1b-lo09",
   "claims": [
     {
       "text": "titles: Anh em nhà Karamazov (tên dịch Việt của The Brothers Karamazov)",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "text": "years_ok: 1879; year_note: tác phẩm ra trong khoảng 1879–1880 (year 1880 là năm cuối khoảng)",
+      "text": "years_ok: 1879; year_note: xuất bản 1879–1880",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -68,14 +68,8 @@
           "quote": "is a novel published between 1879 and 1880"
         }
       ]
-    },
-    {
-      "text": "year_note: \"đăng nhiều kỳ\" (hình thức xuất bản từng kỳ 1879–1880)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
-      "fix": "Nếu không có nguồn chuẩn nói đăng nhiều kỳ, đổi year_note thành \"xuất bản 1879–1880\" (Gutenberg: \"published between 1879 and 1880\")."
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "attribution: Fyodor Dostoevsky\nyear_note: đăng nhiều kỳ 1879–1880 (SEP existentialism ghi 1879–80); 1880 là năm hoàn tất/in thành sách — năm này chưa có nguồn nói riêng về bản in sách, nhưng nằm trong khoảng nguồn ghi. Không có mục SEP/IEP riêng về Dostoevsky; Britannica chặn (Cloudflare). Không thấy khóa trùng trong works.yml.\nKiểm lại 5.1b: khoảng 1879–1880 có nguồn (SEP existentialism, Gutenberg 28054). Chi tiết \"đăng nhiều kỳ\" chưa có nguồn đã mở nói rõ: chỉ thấy ở Wikipedia (không dùng); SEP không có mục Dostoevsky (archives/fall2026/entries/dostoevsky/ trả 404); IEP dostoevs 404."
+  "result": "dat",
+  "notes": "attribution: Fyodor Dostoevsky\nyear_note: đăng nhiều kỳ 1879–1880 (SEP existentialism ghi 1879–80); 1880 là năm hoàn tất/in thành sách — năm này chưa có nguồn nói riêng về bản in sách, nhưng nằm trong khoảng nguồn ghi. Không có mục SEP/IEP riêng về Dostoevsky; Britannica chặn (Cloudflare). Không thấy khóa trùng trong works.yml.\nKiểm lại 5.1b: khoảng 1879–1880 có nguồn (SEP existentialism, Gutenberg 28054). Chi tiết \"đăng nhiều kỳ\" chưa có nguồn đã mở nói rõ: chỉ thấy ở Wikipedia (không dùng); SEP không có mục Dostoevsky (archives/fall2026/entries/dostoevsky/ trả 404); IEP dostoevs 404.\nKiểm lại 5.1b lô 09 (year_note viết lại sát chữ nguồn): Claim chua-kiem-duoc \"đăng nhiều kỳ\" đã bỏ vì chi tiết này không còn trong year_note (nay \"xuất bản 1879–1880\", khớp Gutenberg \"published between 1879 and 1880\" và SEP existentialism \"1879–80\"), mở lại trong phiên."
 }

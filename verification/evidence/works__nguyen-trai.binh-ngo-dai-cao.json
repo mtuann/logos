@@ -1,8 +1,8 @@
 {
   "unit": "works/nguyen-trai.binh-ngo-dai-cao",
-  "hash": "sha256:04f1907d5793a8e4398174a9623a02c5d8c0c8f7f61a31dcdf6e4fea8c0d4f33",
+  "hash": "sha256:620f2d9189c2bb56e97cd4561a0a2408d230ca12c514714384ec6d4fd492c09f",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1b-lo07",
+  "checker": "agent-kiem-5.1b-lo09",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Bình Ngô đại cáo",
@@ -47,13 +47,13 @@
         },
         {
           "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81",
-          "quote": "戊申順天元年明宣德三年春正月，明人既還國",
+          "quote": "戊申順天元年",
           "where": "Toàn thư q.10, ngay sau bài cáo"
         }
       ]
     },
     {
-      "text": "year_note: Toàn thư chép cuối năm Đinh Mùi (âm lịch), tức đầu năm 1428",
+      "text": "year_note: Toàn thư chép sau ngày 12 tháng 12 Đinh Mùi, trước mục Mậu Thân (1428)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -69,8 +69,8 @@
         },
         {
           "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81",
-          "quote": "戊申順天元年明宣德三年春正月",
-          "where": "Bản kỷ quyển 10, mục kế tiếp"
+          "quote": "戊申順天元年",
+          "where": "Bản kỷ quyển 10, mục kế tiếp (明宣德三年)"
         },
         {
           "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
@@ -80,5 +80,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Toàn thư chép bài cáo ở cuối mục năm Đinh Mùi (âm lịch; quân Minh rút về ngày 12 tháng 12 Đinh Mùi), ngay trước mục Mậu Thân Thuận Thiên năm đầu (1428). Năm âm lịch Đinh Mùi kết thúc vào đầu năm 1428 dương lịch, nên ghi 1428 là hợp lý; Wikisource ghi 1428. Có thể thêm year_note: \"Toàn thư chép cuối năm Đinh Mùi (âm lịch), tức đầu năm 1428\". | Kiểm lại 5.1b: year_note khớp vị trí bài cáo trong Toàn thư (zh.wikisource): sau việc quân Minh rút ngày 12 tháng 12 Đinh Mùi (明宣德二年), trước mục Mậu Thân Thuận Thiên năm đầu (明宣德三年). Việc quy tháng 12 âm lịch Đinh Mùi ra \"đầu năm 1428\" dương lịch là suy luận lịch pháp, không có câu nguồn nói thẳng; vi.wikisource ghi 1428. Nguồn baotanglichsu.vn (nguồn yếu, quyết định 31) mở lại trong phiên này."
+  "notes": "Toàn thư chép bài cáo ở cuối mục năm Đinh Mùi (âm lịch; quân Minh rút về ngày 12 tháng 12 Đinh Mùi), ngay trước mục Mậu Thân Thuận Thiên năm đầu (1428). Năm âm lịch Đinh Mùi kết thúc vào đầu năm 1428 dương lịch, nên ghi 1428 là hợp lý; Wikisource ghi 1428. Có thể thêm year_note: \"Toàn thư chép cuối năm Đinh Mùi (âm lịch), tức đầu năm 1428\". | Kiểm lại 5.1b: year_note khớp vị trí bài cáo trong Toàn thư (zh.wikisource): sau việc quân Minh rút ngày 12 tháng 12 Đinh Mùi (明宣德二年), trước mục Mậu Thân Thuận Thiên năm đầu (明宣德三年). Việc quy tháng 12 âm lịch Đinh Mùi ra \"đầu năm 1428\" dương lịch là suy luận lịch pháp, không có câu nguồn nói thẳng; vi.wikisource ghi 1428. Nguồn baotanglichsu.vn (nguồn yếu, quyết định 31) mở lại trong phiên này.\nKiểm lại 5.1b lô 09 (year_note viết lại sát chữ nguồn): year_note mới chỉ tả vị trí bài cáo trong Toàn thư, không còn suy luận \"đầu năm 1428 dương lịch\": khớp zh.wikisource (mở lại trong phiên). Mậu Thân Thuận Thiên năm đầu = Minh Tuyên Đức 3 (明宣德三年) = 1428 là quy đổi niên hiệu; vi.wikisource ghi bài cáo 1428."
 }
