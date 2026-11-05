@@ -112,6 +112,33 @@ class TestKbShortcode(unittest.TestCase):
         self.assertEqual(kb.fmt_int(1234567), "1.234.567")
 
 
+class TestInfoStrip(unittest.TestCase):
+    """hooks/kb.py: dải thông tin và nhãn Mới (đợt 4.6–4.7)."""
+
+    def test_strip(self):
+        import datetime
+        ctx = {"pages": {"a.md": {"tier": "loi"}, "b.md": {"tier": "he-thong"}, "c.md": {"tier": "mo-rong"}},
+               "ledger": {"a.md#x": {"status": "frozen"}, "a.md#y": {"status": "chua-kiem"}}}
+        html = "<h1>T</h1><h2 id='x'>X</h2><h2 id='y'>Y</h2>"
+        s = kb.info_strip("a.md", ["Câu hỏi lớn", "Tri thức"], datetime.date(2026, 10, 22), html, ctx)
+        self.assertIn("data-oz-sinh", s)
+        self.assertIn("data-search-exclude", s)
+        self.assertIn("Câu hỏi lớn › Tri thức", s)
+        self.assertIn("Cập nhật 22/10/2026", s)
+        self.assertIn("Đã kiểm chứng 1/3 mục", s)
+        self.assertIsNone(kb.info_strip("b.md", [], None, html, ctx))
+        self.assertIn("Chưa kiểm chứng", kb.info_strip("c.md", [], None, html, ctx))
+        self.assertIn(">Mới<", kb.info_strip("c.md", [], None, html, ctx, new=True))
+
+    def test_is_new(self):
+        import datetime
+        d = datetime.date(2027, 5, 1)
+        self.assertTrue(kb.is_new({"tier": "mo-rong"}, {"added": "2027-04-01"}, d))
+        self.assertFalse(kb.is_new({"tier": "mo-rong"}, {"added": "2027-01-01"}, d))
+        self.assertFalse(kb.is_new({"tier": "loi"}, {"added": "2027-04-01"}, d))
+        self.assertFalse(kb.is_new({"tier": "mo-rong"}, {}, d))
+
+
 class TestThoiSuShortcode(unittest.TestCase):
     """hooks/kb.py: [[thoi-su:id]] chèn nguyên văn thân khối data/thoi-su/<id>.md (ban-giao/dot-3.md)."""
 
