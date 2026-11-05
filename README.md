@@ -44,6 +44,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị)
+  changed_units.py        báo cáo đơn vị đổi chữ giữa hai phiên bản (tầng, khối, trạng thái sổ, việc cần làm);
+                          CI đăng thành bình luận PR, hoặc vào job summary khi push
   parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
                           giữa hai bản build (--base REF: tự build commit REF và cây làm việc)
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
@@ -54,6 +56,8 @@ tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
   browser/                jsdom: mở mọi trang đã build qua bộ tải thật; axe-core; tìm kiếm
   test_hooks.py           kiểm thử hook Python và script sinh trang
+  test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
+  test_changed_units.py   tools/changed_units.py trên một repo git tạm
   test_parity.py          tools/parity.py: trích văn bản hiển thị, phát hiện lệch
   test_lz.py              thư viện tools/lz: mọi hệ quả của chuẩn hóa và băm (KE-HOACH.md mục 5.6)
   test_indexes.py         chỉ mục mỗi mục liệt kê đủ bài; Kế hoạch học trỏ tới trang có thật;

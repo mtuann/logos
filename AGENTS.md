@@ -55,6 +55,8 @@ npm test        # cần thư mục site/ đã build
 
 Không có uv: tạo virtualenv Python 3.11+, `pip install -r requirements.txt` (sinh từ `uv.lock`), rồi chạy các lệnh trên không kèm `uv run`. Không sửa tay `uv.lock`, `requirements.txt`; nâng phiên bản là việc phải hỏi (mục 6).
 
+Xem đơn vị nào đổi chữ so với `main` (gồm tầng, trạng thái sổ, việc cần làm): `uv run python tools/changed_units.py --base main`.
+
 Thay đổi cơ học (mục 5, bước 3) chứng minh "không đổi chữ" bằng:
 
 ```bash
