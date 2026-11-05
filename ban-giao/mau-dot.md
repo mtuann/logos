@@ -4,7 +4,7 @@ Khuôn viết brief cho một đợt mới. Chép file này thành `ban-giao/dot
 
 - **Thời gian dự kiến**: <…>. **Điều kiện bắt đầu**: đợt N−1 đã đóng (cổng đạt, chủ biên xác nhận).
 - **Mục tiêu**: <một câu; đúng một loại thay đổi: cơ học, dữ liệu, giao diện hoặc nội dung>.
-- **Nhánh**: `dot-N-<ten-ngan>`, mỗi việc một PR.
+- **Nhánh**: mỗi việc một nhánh `dot-N-<ten-ngan>`, merge vào `main` trên máy khi xong; push khi xong cả đợt (AGENTS.md luật 6).
 
 ## Việc
 

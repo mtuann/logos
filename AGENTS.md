@@ -9,7 +9,7 @@ Không xuất bản lên site.
 - Site tĩnh ProperDocs 1.6.7 (bản kế tục MkDocs 1.x) + Material for MkDocs 9.8.0, phiên bản ghim trong `uv.lock`. Push lên `main` là GitHub Actions build và deploy ngay.
 - Nội dung hiện có: 57 bài Câu hỏi lớn, 15 bài Công cụ tư duy, 8 bài Lịch sử, 19 hướng dẫn Đọc văn bản, 59 trang triết gia (sinh tự động), 249 thuật ngữ, ngân hàng luyện tập (428 câu quiz, 100 đoạn ngụy biện…).
 - Đang làm lại site theo kế hoạch **Lõi đã kiểm chứng + Mở rộng**, chia thành 8 đợt có cổng: xem `KE-HOACH.md`. Mốc xuất phát: tag `v1.0-moc` = commit nhập nguyên trạng từ `logos-zero@ecb2bb8` (cùng mã tree).
-- **Chủ biên** (mtuann) chọn quyết định, duyệt và merge. Agent không tự merge, không push lên `main`.
+- **Chủ biên** (mtuann) chọn quyết định và duyệt. Agent được merge vào `main` trên máy sau mỗi việc, và được push `main` khi xong cả một đợt (luật 6; chủ biên cho quyền ngày 5/11/2026).
 
 ## 2. Đọc theo thứ tự
 
@@ -26,10 +26,10 @@ Vi phạm một luật dưới đây thì dừng lại và hỏi chủ biên, kh
 
 1. **Không bịa.** Mọi năm, tên người, tên tác phẩm, trích dẫn, số liệu phải có nguồn bạn đã thực sự mở được (SEP — ưu tiên link bản lưu theo quý dạng `plato.stanford.edu/archives/fall2026/entries/<mục>/`, IEP, Project Gutenberg, Wikisource, ctext.org, bài báo gốc qua DOI). Không chắc thì không viết; ghi vào "Câu hỏi mở" trong báo cáo.
 2. **Không tự chế câu nói.** Trích nguyên văn chỉ từ văn bản đã mở. Văn bản còn bản quyền: tối đa 1–2 câu. Bản dịch của site ghi "(bản dịch của Logos Zero)".
-3. **Một PR, một loại thay đổi, đúng đợt đang mở.** Không "tiện tay" sửa chỗ khác. Thấy lỗi ngoài phạm vi: ghi vào `ban-giao/viec-cho.md`.
+3. **Một nhánh (một việc), một loại thay đổi, đúng đợt đang mở.** Không "tiện tay" sửa chỗ khác. Thấy lỗi ngoài phạm vi: ghi vào `ban-giao/viec-cho.md`.
 4. **Không sửa tay file sinh tự động**: `docs/triet-gia/*.md`, `docs/them/sach.md`, `docs/them/tu-dien.md`, `docs/assets/data/quiz-bank.json`, phần giữa `<!-- gen:… -->`…`<!-- /gen:… -->` và `<!-- fig:… -->`…`<!-- /fig:… -->`. Sửa nguồn rồi chạy tool tương ứng trong `tools/`.
 5. **Không phá người đọc.** Không đổi URL trang (đường dẫn giữ như logos-zero), khóa `localStorage` `logos`, `data-id` của quiz, `id` của thuật ngữ và của bản ghi luyện tập.
-6. **Git an toàn.** Làm trên nhánh `dot-N-<ten-ngan>`. Không push lên `main`, không merge, không force-push, không xóa file, không viết lại lịch sử.
+6. **Git an toàn.** Mỗi việc làm trên nhánh `dot-N-<ten-ngan>`; xong việc và bộ kiểm tra đầy đủ xanh thì `git merge --no-ff` vào `main` **trên máy**. Không mở PR. **Chỉ push `main` khi xong cả một đợt** (mọi việc đã merge, cổng đạt trừ mục CI, bộ kiểm tra xanh), vì push là deploy ngay; sau khi push, chờ CI xanh rồi gắn tag đóng đợt. Không force-push, không xóa file, không viết lại lịch sử.
 7. **Không thêm nội dung mới** (bài, triết gia, hướng dẫn đọc) trước đợt 7, trừ khi chủ biên mở rõ trong `KE-HOACH.md`.
 8. **Đơn vị Lõi đã đóng băng** (có trạng thái `frozen` trong `verification/ledger.json`) chỉ được sửa trong PR mang nhãn `doi-loi` (hoặc commit có `[doi-loi]` trong message khi merge thẳng), kèm bằng chứng mới. Xem tiến độ: `uv run python tools/check_ledger.py --status`.
 
@@ -72,7 +72,7 @@ Sửa nguồn của một trang sinh tự động thì chạy lại tool đó **
 2. Làm. **Sau mỗi đơn vị**, thêm một dòng vào `ban-giao/nhat-ky-dot-N.md`: ngày, việc, file, trạng thái, còn gì. Phiên có thể bị ngắt bất cứ lúc nào; nhật ký là thứ giữ lại công việc.
 3. Thay đổi cơ học phải chứng minh "không đổi chữ" bằng kiểm tra tương đương: `tools/parity.py --base main` (mục 4).
 4. Chạy bộ kiểm tra đầy đủ. Đỏ thì sửa; không sửa được trong phạm vi đợt thì dừng và báo.
-5. Commit trên nhánh, message dạng `Đợt N: <việc>`. Agent thêm dòng `Co-Authored-By` của mình.
+5. Commit trên nhánh, message dạng `Đợt N: <việc>`. Agent thêm dòng `Co-Authored-By` của mình. Xong việc: merge `--no-ff` vào `main` trên máy (luật 6), ghi dòng "merge vào `main`" trong nhật ký. Chưa push nếu đợt chưa xong.
 6. Kết thúc bằng báo cáo theo mẫu ở mục 7.
 
 ## 6. Khi nào dừng và hỏi chủ biên
