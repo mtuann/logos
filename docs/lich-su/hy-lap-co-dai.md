@@ -14,13 +14,13 @@ Khoảng thế kỷ 6 trước Công nguyên, ở các thành phố Hy Lạp ven
 
 Nhóm triết gia đầu tiên được gọi là các nhà **tiền [Socrates](../triet-gia/socrates.md)** (*Presocratics*) — họ sống trước Socrates và chủ yếu hỏi về tự nhiên.
 
-**[Thales](../triet-gia/thales.md)** xứ Miletus (khoảng 624–546 TCN) thường được xem là triết gia đầu tiên. Ông cho rằng mọi thứ đều từ nước mà ra. Nghe ngô nghê, nhưng điểm cách mạng không phải đáp án mà là câu hỏi: ông tìm một **nguyên lý** (*arche*) duy nhất giải thích vạn vật, thay vì viện đến thần linh.
+**[Thales](../triet-gia/thales.md)** xứ Miletus (khoảng 620–546 TCN) thường được xem là triết gia đầu tiên. Ông cho rằng mọi thứ đều từ nước mà ra. Nghe ngô nghê, nhưng điểm cách mạng không phải đáp án mà là câu hỏi: ông tìm một **nguyên lý** (*arche*) duy nhất giải thích vạn vật, thay vì viện đến thần linh.
 
-**[Heraclitus](../triet-gia/heraclitus.md)** xứ Ephesus (khoảng 540–480 TCN) thì nói ngược lại: không có gì đứng yên, mọi thứ luôn chảy trôi — "không ai tắm hai lần trên cùng một dòng sông", theo cách [Platon](../triet-gia/platon.md) thuật lại ý ông. Nhưng đằng sau sự biến đổi đó có một trật tự, mà ông gọi là **logos** (lý tính, lời).
+**[Heraclitus](../triet-gia/heraclitus.md)** xứ Ephesus (hoạt động khoảng 500 TCN) thì nói ngược lại: không có gì đứng yên, mọi thứ luôn chảy trôi — "không ai tắm hai lần trên cùng một dòng sông", theo cách [Platon](../triet-gia/platon.md) thuật lại ý ông. Nhưng đằng sau sự biến đổi đó có một trật tự, mà ông gọi là **logos** (lý tính, lời).
 
 **Parmenides** xứ Elea (khoảng 515–450 TCN) phản bác: biến đổi chỉ là ảo giác của giác quan; thực tại (**Hữu**, *Being*) là một, bất biến, vĩnh cửu. Lập luận của ông chặt đến mức buộc mọi triết gia sau phải đối mặt: nếu giác quan lừa dối, ta tin vào cái gì?
 
-**[Democritus](../triet-gia/democritus.md)** xứ Abdera (khoảng 460–370 TCN) đề xuất một đáp án táo bạo: vạn vật gồm những hạt không thể chia nhỏ — **nguyên tử** (*atomos*, nghĩa đen là "không cắt được") — chuyển động trong khoảng không. Gần 2.400 năm trước khi vật lý hiện đại ra đời, ông đã đoán trước ý tưởng cốt lõi rằng vật chất gồm những hạt rất nhỏ — dù bằng suy luận thuần túy chứ không bằng thí nghiệm, và "nguyên tử" của vật lý hiện đại hóa ra vẫn chia nhỏ được.
+**[Democritus](../triet-gia/democritus.md)** xứ Abdera (sinh khoảng 460 TCN) đề xuất một đáp án táo bạo: vạn vật gồm những hạt không thể chia nhỏ — **nguyên tử** (*atomos*, nghĩa đen là "không cắt được") — chuyển động trong khoảng không. Gần 2.400 năm trước khi vật lý hiện đại ra đời, ông đã đoán trước ý tưởng cốt lõi rằng vật chất gồm những hạt rất nhỏ — dù bằng suy luận thuần túy chứ không bằng thí nghiệm, và "nguyên tử" của vật lý hiện đại hóa ra vẫn chia nhỏ được.
 
 Cùng thời còn có nhóm **Ngụy biện gia** (*Sophists*) — những thầy dạy hùng biện lấy tiền công, nổi tiếng nhất là Protagoras với câu "con người là thước đo của mọi sự vật". Theo bức chân dung (khá thiên lệch) mà Platon để lại, họ không quan tâm chân lý tuyệt đối mà quan tâm thắng tranh luận; chính Socrates và Platon về sau sẽ lấy họ làm đối trọng để định nghĩa triết học đích thực: tìm chân lý, không phải tìm cách thắng.
 
@@ -80,10 +80,10 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 | Khoảng thời gian | Nhân vật / Trường phái | Ý chính |
 |---|---|---|
-| k. 624–546 TCN | Thales | Mọi thứ từ nước mà ra; tìm nguyên lý duy nhất |
-| k. 540–480 TCN | Heraclitus | Mọi thứ luôn chảy trôi; logos |
+| k. 620–546 TCN | Thales | Mọi thứ từ nước mà ra; tìm nguyên lý duy nhất |
+| hoạt động k. 500 TCN | Heraclitus | Mọi thứ luôn chảy trôi; logos |
 | k. 515–450 TCN | Parmenides | Hữu là một, bất biến; giác quan lừa dối |
-| k. 460–370 TCN | Democritus | Vạn vật là nguyên tử chuyển động |
+| sinh k. 460 TCN | Democritus | Vạn vật là nguyên tử chuyển động |
 | k. 469–399 TCN | Socrates | Vấn đáp; biết rằng mình không biết |
 | k. 428–347 TCN | Platon | Thuyết ý niệm; *Cộng hòa* |
 | 384–322 TCN | Aristotle | Logic, bốn nguyên nhân, trung dung |
