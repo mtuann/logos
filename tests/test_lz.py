@@ -304,5 +304,26 @@ class TestRecordHash(unittest.TestCase):
         self.assertNotEqual(hashing.record_hash(a), hashing.record_hash({**a, "born": 1725}))
 
 
+class TestQuoteStyleIgnored(unittest.TestCase):
+    """Quyết định 26: kiểu ngoặc không vào mã băm; chữ trong ngoặc thì có."""
+
+    def test_unit_quote_style(self):
+        a = 'Ông gọi đó là "nghi ngờ có phương pháp" và \'cogito\'.'
+        b = 'Ông gọi đó là “nghi ngờ có phương pháp” và ‘cogito’.'
+        self.assertEqual(H(a), H(b))
+        self.assertNotEqual(H(a), H(b.replace("phương pháp", "hệ thống")))
+        self.assertNotEqual(normalize(a), normalize(b))     # normalize() vẫn giữ ngoặc như nguồn
+
+    def test_apostrophe_inside_admonition(self):
+        # Tiêu đề admonition phải dùng ngoặc thẳng (cú pháp), nên chỉ thân khối được thử.
+        self.assertEqual(H('!!! note "Ghi chú"\n    Kant\'s "Kritik"'), H('!!! note "Ghi chú"\n    Kant’s “Kritik”'))
+
+    def test_record_quote_style(self):
+        a = {"text": 'Câu "trích" ở đây', "tags": ["‘a’"]}
+        b = {"text": "Câu “trích” ở đây", "tags": ["'a'"]}
+        self.assertEqual(hashing.record_hash(a), hashing.record_hash(b))
+        self.assertNotEqual(hashing.record_hash(a), hashing.record_hash({**a, "text": 'Câu "trích" ở kia'}))
+
+
 if __name__ == "__main__":
     unittest.main()

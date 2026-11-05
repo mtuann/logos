@@ -147,10 +147,10 @@ Mọi bản ghi có thêm `evidence` (danh sách link đã mở) và `verified` 
 1. Lấy văn bản nguồn của đơn vị (từ dòng H2 tới trước H2 kế tiếp).
 2. Bỏ: front matter; khối giữa `<!-- gen:… -->` và `<!-- /gen:… -->`, giữa `<!-- fig:… -->` và `<!-- /fig:… -->`; thuộc tính `{#…}` và `{: …}`; comment HTML.
 3. Chuyển Markdown thành chuỗi: giữ chữ hiển thị (cả tiêu đề admonition trong ngoặc kép); giữ đích link ở dạng `⟨đích⟩` ngay sau chữ của link; giữ shortcode nguyên dạng; bỏ dấu nhấn, ký hiệu đầu dòng, tên loại admonition; ô bảng giữ nội dung, ngăn bằng ` | `. JSON của quiz được parse rồi in lại có sắp xếp khóa.
-4. Unicode NFC; mọi chuỗi khoảng trắng thành một dấu cách; cắt hai đầu.
+4. Unicode NFC; mọi chuỗi khoảng trắng thành một dấu cách; cắt hai đầu. Khi băm, ngoặc cong `“ ”` `‘ ’` được coi như ngoặc thẳng `"` `'` (quyết định 26).
 5. `sha256` của chuỗi UTF-8, ghi `sha256:<hex>`.
 
-Hệ quả cần có (viết kiểm thử cho từng điều): đổi `*nhấn*` thành `**nhấn**`, đổi `!!! note` thành `!!! tip`, đổi nền tảng render → mã băm không đổi; sửa một chữ, một năm, một link → mã băm đổi.
+Hệ quả cần có (viết kiểm thử cho từng điều): đổi `*nhấn*` thành `**nhấn**`, đổi `"…"` thành `“…”`, đổi `!!! note` thành `!!! tip`, đổi nền tảng render → mã băm không đổi; sửa một chữ, một năm, một link → mã băm đổi.
 
 ## 6. Các đợt
 
