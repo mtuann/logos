@@ -128,7 +128,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 Dưới đây là bốn câu kệ kết thúc bài phú "Cư trần lạc đạo" của Trần Nhân Tông — văn bản cổ (thế kỷ 13–14), đã hết bản quyền — kèm bản dịch nghĩa.
 
-!!! quote "Trần Nhân Tông, kệ 'Cư trần lạc đạo' (bản dịch nghĩa của Logos Zero)"
+!!! quote "Trần Nhân Tông, kệ 'Cư trần lạc đạo' (bản dịch nghĩa của Logos)"
     "Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên;
     đói thì ăn, mệt thì ngủ.
     Trong nhà có báu, thôi tìm kiếm;

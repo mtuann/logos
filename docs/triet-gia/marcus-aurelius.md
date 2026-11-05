@@ -47,7 +47,7 @@ Chín lần trong *Suy tưởng*, Marcus đặt trước mình hai khả năng v
 !!! quote "Marcus Aurelius, *Suy tưởng* II.1 — bản dịch tiếng Anh của George Long (1862)"
     "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil."
 
-    "Hãy bắt đầu buổi sáng bằng việc tự nhủ: hôm nay ta sẽ gặp kẻ tọc mạch, kẻ vô ơn, kẻ ngạo mạn, kẻ dối trá, kẻ đố kỵ, kẻ khó gần. Tất cả những điều ấy xảy đến với họ vì họ không biết đâu là thiện, đâu là ác." *(bản dịch của Logos Zero)*
+    "Hãy bắt đầu buổi sáng bằng việc tự nhủ: hôm nay ta sẽ gặp kẻ tọc mạch, kẻ vô ơn, kẻ ngạo mạn, kẻ dối trá, kẻ đố kỵ, kẻ khó gần. Tất cả những điều ấy xảy đến với họ vì họ không biết đâu là thiện, đâu là ác." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -59,7 +59,7 @@ Chín lần trong *Suy tưởng*, Marcus đặt trước mình hai khả năng v
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md)
 - [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)

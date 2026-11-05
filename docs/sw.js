@@ -1,4 +1,4 @@
-/* Logos Zero — service worker: đọc ngoại tuyến các trang đã mở.
+/* Logos — service worker: đọc ngoại tuyến các trang đã mở.
  * HTML: mạng trước, hết mạng thì dùng bản đã lưu. Tài nguyên tĩnh: bản lưu trước, cập nhật ngầm.
  * Tăng VERSION khi đổi chiến lược lưu trữ. */
 // Tên cache có tiền tố "logos-": logos-zero chạy trên cùng origin với cache "oz-v1",

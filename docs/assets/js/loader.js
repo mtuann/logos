@@ -1,4 +1,4 @@
-/* Logos Zero — bộ tải theo nhu cầu.
+/* Logos — bộ tải theo nhu cầu.
  * Quét trang, tìm phần tử công cụ và chỉ nạp script cần thiết, đúng thứ tự phụ thuộc
  * (tải song song, chạy tuần tự nhờ async = false). Trang chỉ có chữ không nạp gì thêm. */
 (function (root, factory) {

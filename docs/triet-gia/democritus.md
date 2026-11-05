@@ -48,7 +48,7 @@ Không còn văn bản nào của Democritus trình bày lập luận này. Aris
 !!! quote "Democritus, dẫn theo Diogenes Laërtius IX.72 — bản dịch tiếng Anh của R. D. Hicks (1925)"
     "Opinion says hot or cold, but the reality is atoms and empty space. … Of a truth we know nothing, for truth is in a well."
 
-    "Ý kiến nói nóng hay lạnh, nhưng thực tại là nguyên tử và khoảng trống. … Thật ra ta chẳng biết gì, vì sự thật nằm dưới đáy giếng." *(bản dịch của Logos Zero)*
+    "Ý kiến nói nóng hay lạnh, nhưng thực tại là nguyên tử và khoảng trống. … Thật ra ta chẳng biết gì, vì sự thật nằm dưới đáy giếng." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Không còn văn bản nào của Democritus trình bày lập luận này. Aris
 
 **Ảnh hưởng tới:** [Epicurus](epicurus.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 

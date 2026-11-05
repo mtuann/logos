@@ -16,4 +16,4 @@ tier: he-thong
 - [Cập nhật](cap-nhat.md): nhật ký thay đổi và tình trạng rà soát nội dung.
 - [Sách in](sach.md): toàn bộ các bài đọc gộp thành một cuốn sách, in hoặc lưu PDF từ trình duyệt.
 
-**Về cách dùng thuật ngữ.** Nhiều thuật ngữ triết học có hơn một cách dịch sang tiếng Việt, ví dụ *epistemology* có thể là "tri thức luận" hay "nhận thức luận". Logos Zero chọn một cách cho mỗi khái niệm và dùng thống nhất trên toàn site; các cách dịch khác được ghi trong từ điển.
+**Về cách dùng thuật ngữ.** Nhiều thuật ngữ triết học có hơn một cách dịch sang tiếng Việt, ví dụ *epistemology* có thể là "tri thức luận" hay "nhận thức luận". Logos chọn một cách cho mỗi khái niệm và dùng thống nhất trên toàn site; các cách dịch khác được ghi trong từ điển.

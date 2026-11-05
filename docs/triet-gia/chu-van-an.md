@@ -33,7 +33,7 @@ Sử thần Ngô Sĩ Liên (thế kỷ 15) xếp ông cùng Tô Hiến Thành l�
 
 ## Một lập luận tiêu biểu: Can gián rồi lui về: bổn phận của bề tôi theo đạo
 
-Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nhưng hành động của ông có thể đọc như một lập luận, dựa trên nguyên tắc Khổng Tử nói trong *Luận ngữ* 11.24: bậc đại thần thờ vua bằng đạo, không được thì thôi. Tái dựng của Logos Zero:
+Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nhưng hành động của ông có thể đọc như một lập luận, dựa trên nguyên tắc Khổng Tử nói trong *Luận ngữ* 11.24: bậc đại thần thờ vua bằng đạo, không được thì thôi. Tái dựng của Logos:
 
 - **P1.** Bề tôi phục vụ nhà vua là để đưa chính sự theo đạo, tức theo lợi ích của dân, chứ không phải để chiều ý người cầm quyền.
 - **P2.** Khi chính sự trái đạo, bổn phận đầu tiên là nói thẳng, kể cả điều làm vua phật ý.
@@ -47,7 +47,7 @@ Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nh�
 !!! quote "*Đại Việt sử ký toàn thư*, Bản kỷ quyển 7, tiểu sử Chu An chép ở năm 1370 — nguyên văn chữ Hán và phiên âm Hán Việt"
     "安諫不聽，乃上疏乞斬佞臣七人，皆權幸者，時人號七斬疏。疏入不報，遂掛冠歸田里。 (An gián bất thính, nãi thượng sớ khất trảm nịnh thần thất nhân, giai quyền hạnh giả, thời nhân hiệu Thất trảm sớ. Sớ nhập bất báo, toại quải quan quy điền lý.)"
 
-    "Chu An can ngăn, vua không nghe; ông bèn dâng sớ xin chém bảy tên nịnh thần, đều là những kẻ có quyền thế được vua sủng ái — người đương thời gọi là “Thất trảm sớ”. Sớ dâng vào không được trả lời; ông bèn treo mũ từ quan, về làng." *(bản dịch của Logos Zero)*
+    "Chu An can ngăn, vua không nghe; ông bèn dâng sớ xin chém bảy tên nịnh thần, đều là những kẻ có quyền thế được vua sủng ái — người đương thời gọi là “Thất trảm sớ”. Sớ dâng vào không được trả lời; ông bèn treo mũ từ quan, về làng." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nh�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)
 

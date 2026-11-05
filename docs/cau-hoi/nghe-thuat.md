@@ -158,7 +158,7 @@ Về chính câu hỏi định nghĩa, cuộc tranh luận vẫn còn mở. Weit
 !!! quote "Clive Bell, *Art*, chương 1, 1914"
     "Only one answer seems possible — significant form. In each, lines and colours combined in a particular way, certain forms and relations of forms, stir our aesthetic emotions."
 
-    Chỉ có một câu trả lời dường như khả dĩ — hình thức có ý nghĩa. Trong mỗi tác phẩm, những đường nét và màu sắc kết hợp với nhau theo một cách đặc biệt, những hình thức và quan hệ giữa các hình thức ấy, khuấy động cảm xúc thẩm mỹ của chúng ta. *(bản dịch của Logos Zero)*
+    Chỉ có một câu trả lời dường như khả dĩ — hình thức có ý nghĩa. Trong mỗi tác phẩm, những đường nét và màu sắc kết hợp với nhau theo một cách đặc biệt, những hình thức và quan hệ giữa các hình thức ấy, khuấy động cảm xúc thẩm mỹ của chúng ta. *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

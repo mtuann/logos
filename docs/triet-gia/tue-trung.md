@@ -34,7 +34,7 @@ Tuệ Trung không làm sư trụ trì, không lập tông phái. Nhưng qua ng�
 
 ## Một lập luận tiêu biểu: Muốn vượt qua tội phúc, đừng bám vào giới luật
 
-*Thượng Sĩ hành trạng* kể: Trần Nhân Tông hỏi, nếu tội phúc vốn không thật thì công giữ giới để làm gì? Tuệ Trung cười, không đáp; bị nài mãi, ông dặn đừng nói cho kẻ không ra gì, rồi đọc một bài kệ đại ý: giữ giới và nhẫn nhục chỉ chuốc tội chứ chẳng chuốc phúc; muốn vượt qua tội phúc thì đừng giữ giới nhẫn nhục. Tái dựng của Logos Zero:
+*Thượng Sĩ hành trạng* kể: Trần Nhân Tông hỏi, nếu tội phúc vốn không thật thì công giữ giới để làm gì? Tuệ Trung cười, không đáp; bị nài mãi, ông dặn đừng nói cho kẻ không ra gì, rồi đọc một bài kệ đại ý: giữ giới và nhẫn nhục chỉ chuốc tội chứ chẳng chuốc phúc; muốn vượt qua tội phúc thì đừng giữ giới nhẫn nhục. Tái dựng của Logos:
 
 - **P1.** Tội và phúc, phàm và thánh là những cặp phân biệt do tâm đặt ra; theo một bài kệ khác ông đọc cho vua, mọi cảnh đều từ tâm mà sinh, cảnh và tâm đều không thật.
 - **P2.** Người giữ giới để cầu phúc, tránh tội vẫn đang bám chặt vào chính cặp phân biệt ấy — như người đang yên lại trèo lên cây tìm chỗ nguy.
@@ -48,7 +48,7 @@ Tuệ Trung không làm sư trụ trì, không lập tông phái. Nhưng qua ng�
 !!! quote "Tuệ Trung Thượng Sĩ, *Phàm thánh bất dị*, hai câu — phiên âm Hán Việt theo Nguyễn Huệ Chi (2014)"
     "Ngã nhân tự lộ diệc tự sương, / Phàm thánh như lôi diệc như điện."
 
-    "Ta với người: như hạt móc, cũng như giọt sương; / phàm với thánh: như tiếng sấm, cũng như tia chớp." *(bản dịch của Logos Zero)*
+    "Ta với người: như hạt móc, cũng như giọt sương; / phàm với thánh: như tiếng sấm, cũng như tia chớp." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Tuệ Trung không làm sư trụ trì, không lập tông phái. Nhưng qua ng�
 
 **Ảnh hưởng tới:** [Trần Nhân Tông](tran-nhan-tong.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần](../cau-hoi/truc-lam.md)
 

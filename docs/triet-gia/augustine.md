@@ -50,7 +50,7 @@ Phái Hàn lâm, những người theo **hoài nghi luận** (*skepticism*), cho
 !!! quote "Augustine, *Tự thú* (*Confessions*), quyển I, chương 1 — bản dịch tiếng Anh của Edward B. Pusey (1838)"
     "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee."
 
-    "Ngài đánh thức chúng con để chúng con vui sướng ca ngợi Ngài; vì Ngài đã dựng nên chúng con cho Ngài, và lòng chúng con khắc khoải cho tới khi được nghỉ yên trong Ngài." *(bản dịch của Logos Zero)*
+    "Ngài đánh thức chúng con để chúng con vui sướng ca ngợi Ngài; vì Ngài đã dựng nên chúng con cho Ngài, và lòng chúng con khắc khoải cho tới khi được nghỉ yên trong Ngài." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Phái Hàn lâm, những người theo **hoài nghi luận** (*skepticism*), cho
 
 **Ảnh hưởng tới:** [Anselm xứ Canterbury](anselm.md), [Thomas Aquinas](aquinas.md), [Blaise Pascal](pascal.md), [Wittgenstein](wittgenstein.md), [Hannah Arendt](arendt.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Cái ác là gì?](../cau-hoi/cai-ac.md)
 - [Thời gian có trôi không? Hay quá khứ–hiện tại–tương lai đều thật?](../cau-hoi/thoi-gian.md)

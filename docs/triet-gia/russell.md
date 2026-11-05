@@ -50,7 +50,7 @@ Câu “Vua nước Pháp hiện nay bị hói” có nghĩa, dù nước Pháp 
 !!! quote "Bertrand Russell, *The Problems of Philosophy* (1912), chương VI “On Induction” — nguyên văn tiếng Anh"
     "The man who has fed the chicken every day throughout its life at last wrings its neck instead, showing that more refined views as to the uniformity of nature would have been useful to the chicken."
 
-    "Người đã cho con gà ăn mỗi ngày suốt đời nó, rốt cuộc lại vặn cổ nó, cho thấy rằng những quan niệm tinh tế hơn về tính đồng nhất của tự nhiên lẽ ra đã có ích cho con gà." *(bản dịch của Logos Zero)*
+    "Người đã cho con gà ăn mỗi ngày suốt đời nó, rốt cuộc lại vặn cổ nó, cho thấy rằng những quan niệm tinh tế hơn về tính đồng nhất của tự nhiên lẽ ra đã có ích cho con gà." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Câu “Vua nước Pháp hiện nay bị hói” có nghĩa, dù nước Pháp 
 
 **Ảnh hưởng tới:** [Wittgenstein](wittgenstein.md), [Quine](quine.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Giá trị của triết học — Bertrand Russell (1912)](../doc/russell-gia-tri.md)
 - [Triết học là gì, và không phải là gì?](../bat-dau/index.md)

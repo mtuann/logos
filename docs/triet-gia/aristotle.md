@@ -50,7 +50,7 @@ Hạnh phúc (*eudaimonia*) là gì? Trong *Đạo đức Nicomachus* I.7 (1097b
 !!! quote "Aristotle, *Đạo đức Nicomachus* I.7 (1098a) — bản dịch tiếng Anh của D. P. Chase"
     "…for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy."
 
-    "…vì như một con én hay một ngày đẹp trời không làm nên mùa xuân, một ngày hay một thời gian ngắn cũng không làm cho con người được phúc và hạnh phúc." *(bản dịch của Logos Zero)*
+    "…vì như một con én hay một ngày đẹp trời không làm nên mùa xuân, một ngày hay một thời gian ngắn cũng không làm cho con người được phúc và hạnh phúc." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Hạnh phúc (*eudaimonia*) là gì? Trong *Đạo đức Nicomachus* I.7 (1097b
 
 **Ảnh hưởng tới:** [Avicenna](avicenna.md), [Averroes](averroes.md), [Maimonides](maimonides.md), [Thomas Aquinas](aquinas.md), [Thomas Hobbes](hobbes.md), [Leibniz](leibniz.md), [Hannah Arendt](arendt.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Đạo đức Nicomachus (quyển I–II)](../doc/aristotle-dao-duc.md)
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)

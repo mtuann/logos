@@ -72,7 +72,7 @@ Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu v�
 
 ## Thực hành trên một đoạn văn mẫu {#thuc-hanh-tren-mot-doan-van-mau}
 
-Đoạn văn dưới đây do Logos Zero tự viết để bạn thực hành. Hãy thử ba lượt đọc trước khi xem phần phân tích.
+Đoạn văn dưới đây do Logos tự viết để bạn thực hành. Hãy thử ba lượt đọc trước khi xem phần phân tích.
 
 > "Trừng phạt kẻ phạm tội là đúng đắn, vì nó ngăn người khác phạm tội. Một biện pháp làm giảm tội phạm trong xã hội thì biện pháp đó là đúng đắn. Trừng phạt nghiêm khắc làm giảm tội phạm — số liệu ở nhiều nước cho thấy điều đó. Vì vậy, chúng ta nên trừng phạt nghiêm khắc."
 

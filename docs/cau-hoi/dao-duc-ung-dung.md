@@ -151,7 +151,7 @@ Peter Singer viết năm 1975, vẫn còn bản quyền, nên bài này không t
 !!! quote "Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation*, chương 17, 1789"
     "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"
 
-    "Vấn đề không phải là, chúng có biết suy luận không? cũng không phải là, chúng có biết nói không? mà là, chúng có biết đau khổ không?" *(bản dịch của Logos Zero)*
+    "Vấn đề không phải là, chúng có biết suy luận không? cũng không phải là, chúng có biết nói không? mà là, chúng có biết đau khổ không?" *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

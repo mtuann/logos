@@ -1,4 +1,4 @@
-/* Logos Zero — thẻ di chuột (đợt 4.7): rê chuột, đưa phím Tab tới, hoặc chạm giữ một link tới trang triết gia
+/* Logos — thẻ di chuột (đợt 4.7): rê chuột, đưa phím Tab tới, hoặc chạm giữ một link tới trang triết gia
  * (…/triet-gia/<id>/) hay mục từ điển (…/them/tu-dien/#<id>) trong bài thì hiện một thẻ nhỏ: tên, năm, một dòng tóm
  * tắt (docs/assets/data/philosophers.json) hoặc định nghĩa (terms.json). Thẻ là role="tooltip", gắn vào link bằng
  * aria-describedby; Esc đóng; rê chuột sang thẻ thì thẻ không tắt (WCAG 1.4.13). Không có trong HTML khi build. */

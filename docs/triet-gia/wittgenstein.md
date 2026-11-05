@@ -47,7 +47,7 @@ Từ Descartes, nhiều người coi cảm giác của ta là điều chắc ch�
 !!! quote "Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (1921), mệnh đề 6.54 — bản dịch tiếng Anh của C. K. Ogden (1922)"
     "My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)"
 
-    "Các mệnh đề của tôi làm sáng tỏ theo cách này: ai hiểu tôi thì rốt cuộc sẽ nhận ra chúng vô nghĩa, khi đã trèo ra khỏi chúng — nhờ chúng, trên chúng, vượt qua chúng. (Có thể nói, người ấy phải vứt cái thang đi sau khi đã trèo lên.)" *(bản dịch của Logos Zero)*
+    "Các mệnh đề của tôi làm sáng tỏ theo cách này: ai hiểu tôi thì rốt cuộc sẽ nhận ra chúng vô nghĩa, khi đã trèo ra khỏi chúng — nhờ chúng, trên chúng, vượt qua chúng. (Có thể nói, người ấy phải vứt cái thang đi sau khi đã trèo lên.)" *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Từ Descartes, nhiều người coi cảm giác của ta là điều chắc ch�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Ngôn từ có định hình tư duy? Ngôn ngữ và tri thức](../cau-hoi/ngon-ngu.md)
 - [Thế nào là một định nghĩa tốt?](../cong-cu/dinh-nghia-phan-vi-du.md)

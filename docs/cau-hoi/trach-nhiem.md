@@ -158,7 +158,7 @@ Hơn 2.300 năm trước, Aristotle đã đặt nền cho mọi tranh luận v�
 !!! quote "Aristotle, *Đạo đức Nicomachus*, Quyển III, chương 1 (bản tiếng Anh của W. D. Ross)"
     "Since virtue is concerned with passions and actions, and on voluntary passions and actions praise and blame are bestowed, on those that are involuntary pardon, and sometimes also pity, to distinguish the voluntary and the involuntary is presumably necessary for those who are studying the nature of virtue, and useful also for legislators with a view to the assigning both of honours and of punishments."
 
-    Vì đức hạnh liên quan đến những xúc cảm và hành động, và lời khen, lời trách được dành cho những xúc cảm, hành động tự nguyện, còn sự tha thứ — và đôi khi cả lòng thương hại — được dành cho những gì không tự nguyện, nên việc phân biệt tự nguyện với không tự nguyện hẳn là cần thiết cho ai nghiên cứu bản chất của đức hạnh, và cũng hữu ích cho các nhà làm luật khi xét việc ban thưởng và trừng phạt. *(bản dịch của Logos Zero)*
+    Vì đức hạnh liên quan đến những xúc cảm và hành động, và lời khen, lời trách được dành cho những xúc cảm, hành động tự nguyện, còn sự tha thứ — và đôi khi cả lòng thương hại — được dành cho những gì không tự nguyện, nên việc phân biệt tự nguyện với không tự nguyện hẳn là cần thiết cho ai nghiên cứu bản chất của đức hạnh, và cũng hữu ích cho các nhà làm luật khi xét việc ban thưởng và trừng phạt. *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

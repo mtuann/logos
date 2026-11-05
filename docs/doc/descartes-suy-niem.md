@@ -34,7 +34,7 @@ Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*)
 !!! quote "Suy niệm I, §3 (AT 7:18) — bản dịch John Veitch (1853)"
     "All that I have, up to this moment, accepted as possessed of the highest truth and certainty, I received either from or through the senses. I observed, however, that these sometimes misled us; and it is the part of prudence not to place absolute confidence in that by which we have even once been deceived."
 
-    "Mọi điều mà cho tới lúc này tôi coi là chân thật và chắc chắn nhất, tôi đều nhận từ giác quan hay qua giác quan. Nhưng tôi nhận thấy giác quan đôi khi đánh lừa ta; và khôn ngoan là đừng tin tuyệt đối vào thứ đã từng lừa ta dù chỉ một lần." *(bản dịch của Logos Zero)*
+    "Mọi điều mà cho tới lúc này tôi coi là chân thật và chắc chắn nhất, tôi đều nhận từ giác quan hay qua giác quan. Nhưng tôi nhận thấy giác quan đôi khi đánh lừa ta; và khôn ngoan là đừng tin tuyệt đối vào thứ đã từng lừa ta dù chỉ một lần." *(bản dịch của Logos)*
 
 Ở đây ông chưa đưa ví dụ nào; ví dụ cái tháp nhìn xa tưởng tròn mà đến gần lại vuông nằm ở Suy niệm VI (AT 7:76). Và ông thừa nhận: ngờ những điều gần gũi như "tôi đang ngồi bên lò sưởi, mặc áo ngủ mùa đông" thì chẳng khác người điên (§4).
 
@@ -47,9 +47,9 @@ Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*)
 
     "for whether I am awake or dreaming, it remains true that two and three make five, and that a square has but four sides"
 
-    "Tôi thấy rõ đến mức sửng sốt rằng chẳng có dấu hiệu chắc chắn nào để phân biệt lúc thức với lúc ngủ; và trong cơn ngỡ ngàng, tôi gần như tin rằng lúc này mình đang mơ." *(bản dịch của Logos Zero)*
+    "Tôi thấy rõ đến mức sửng sốt rằng chẳng có dấu hiệu chắc chắn nào để phân biệt lúc thức với lúc ngủ; và trong cơn ngỡ ngàng, tôi gần như tin rằng lúc này mình đang mơ." *(bản dịch của Logos)*
 
-    "vì dù tôi thức hay mơ, hai với ba vẫn là năm, và hình vuông vẫn chỉ có bốn cạnh" *(bản dịch của Logos Zero)*
+    "vì dù tôi thức hay mơ, hai với ba vẫn là năm, và hình vuông vẫn chỉ có bốn cạnh" *(bản dịch của Logos)*
 
 Giấc mơ làm lung lay mọi niềm tin về sự vật cụ thể, nhưng chưa chạm tới toán học.
 
@@ -60,7 +60,7 @@ Giấc mơ làm lung lay mọi niềm tin về sự vật cụ thể, nhưng ch�
 !!! quote "Suy niệm I, §12 (AT 7:22) — bản dịch John Veitch (1853)"
     "I will suppose, then, not that Deity, who is sovereignly good and the fountain of truth, but that some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me"
 
-    "Vậy tôi sẽ giả định, không phải Thượng đế, đấng chí thiện và là nguồn của chân lý, mà là một ác thần nào đó, vừa cực kỳ quyền năng vừa xảo trá, đã dùng mọi mưu mẹo để lừa tôi" *(bản dịch của Logos Zero)*
+    "Vậy tôi sẽ giả định, không phải Thượng đế, đấng chí thiện và là nguồn của chân lý, mà là một ác thần nào đó, vừa cực kỳ quyền năng vừa xảo trá, đã dùng mọi mưu mẹo để lừa tôi" *(bản dịch của Logos)*
 
 Descartes không tin có con quỷ thật: đây là thí nghiệm tư duy để giữ mình khỏi trượt về những niềm tin quen thuộc, như người tù mơ thấy tự do sợ phải thức dậy (§12).
 
@@ -71,7 +71,7 @@ Descartes không tin có con quỷ thật: đây là thí nghiệm tư duy để
 !!! quote "Suy niệm II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
     "Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may, he can never bring it about that I am nothing, so long as I shall be conscious that I am something. So that it must, in fine, be maintained, all things being maturely and carefully considered, that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind."
 
-    "Vậy chắc chắn tôi hiện hữu, vì tôi bị lừa; và cứ để nó lừa tôi tùy ý, nó cũng không bao giờ làm được cho tôi thành hư không, chừng nào tôi còn ý thức rằng tôi là một cái gì đó. Cho nên, sau khi cân nhắc kỹ mọi điều, phải khẳng định rằng mệnh đề *tôi là, tôi hiện hữu* tất yếu đúng mỗi lần tôi nói ra hay nghĩ đến nó." *(bản dịch của Logos Zero)*
+    "Vậy chắc chắn tôi hiện hữu, vì tôi bị lừa; và cứ để nó lừa tôi tùy ý, nó cũng không bao giờ làm được cho tôi thành hư không, chừng nào tôi còn ý thức rằng tôi là một cái gì đó. Cho nên, sau khi cân nhắc kỹ mọi điều, phải khẳng định rằng mệnh đề *tôi là, tôi hiện hữu* tất yếu đúng mỗi lần tôi nói ra hay nghĩ đến nó." *(bản dịch của Logos)*
 
 Chú ý chữ "mỗi lần": điều này chắc chắn chừng nào tôi còn nghĩ (§6, AT 7:27). Và "tôi" là gì? Chưa phải thân thể, vì thân thể còn đang bị nghi ngờ; chỉ là "một vật tư duy", một tâm trí (§6).
 
@@ -82,9 +82,9 @@ Chú ý chữ "mỗi lần": điều này chắc chắn chừng nào tôi còn n
 
     "I readily discover that there is nothing more easily or clearly apprehended than my own mind."
 
-    "Phải thừa nhận là nó vẫn còn; không ai nghi ngờ hay nghĩ khác." *(bản dịch của Logos Zero)*
+    "Phải thừa nhận là nó vẫn còn; không ai nghi ngờ hay nghĩ khác." *(bản dịch của Logos)*
 
-    "tôi dễ dàng nhận ra rằng không có gì được nắm bắt dễ dàng và rõ ràng hơn chính tâm trí tôi." *(bản dịch của Logos Zero)*
+    "tôi dễ dàng nhận ra rằng không có gì được nắm bắt dễ dàng và rõ ràng hơn chính tâm trí tôi." *(bản dịch của Logos)*
 
 Thứ còn lại chỉ là "một vật có quảng tính, mềm dẻo, chuyển động được", và ta nắm nó bằng trí năng chứ không bằng giác quan (§12). Cũng vậy, nhìn qua cửa sổ ta chỉ thấy mũ và áo choàng, biết đâu che những cỗ máy chạy bằng lò xo; vậy mà ta *phán đoán* đó là người (§13, AT 7:32).
 

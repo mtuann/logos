@@ -111,7 +111,7 @@ Tuyên ngôn Quốc tế Nhân quyền (1948) là văn kiện công cộng. Đi�
 !!! quote "Tuyên ngôn Quốc tế Nhân quyền (1948), Điều 13"
     "Everyone has the right to freedom of movement and residence within the borders of each State."
 
-    Mọi người đều có quyền tự do đi lại và cư trú trong biên giới của mỗi quốc gia. *(bản dịch của Logos Zero)*
+    Mọi người đều có quyền tự do đi lại và cư trú trong biên giới của mỗi quốc gia. *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

@@ -158,7 +158,7 @@ Một điểm đáng chú ý: chính McTaggart, sau khi "chứng minh" thời gi
 !!! quote "Augustine, *Confessions*, Quyển XI, chương 14 (bản tiếng Anh của Edward Pusey, 1838)"
     "What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not."
 
-    "Vậy thời gian là gì? Nếu không ai hỏi tôi, tôi biết; nếu tôi muốn giải thích cho người hỏi, tôi không biết." *(bản dịch của Logos Zero)*
+    "Vậy thời gian là gì? Nếu không ai hỏi tôi, tôi biết; nếu tôi muốn giải thích cho người hỏi, tôi không biết." *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

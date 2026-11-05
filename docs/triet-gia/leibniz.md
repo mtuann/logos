@@ -50,7 +50,7 @@ Nếu Thượng đế toàn năng và hoàn toàn tốt lành, vì sao có đau 
 !!! quote "Leibniz, *Đơn tử luận* (viết năm 1714), §32 — bản dịch tiếng Anh của Robert Latta (1898)"
     "And that of sufficient reason, in virtue of which we hold that there can be no fact real or existing, no statement true, unless there be a sufficient reason, why it should be so and not otherwise, although these reasons usually cannot be known by us."
 
-    "Và [nguyên lý] lý do đầy đủ, nhờ nó ta cho rằng không thể có sự kiện nào là thật hay hiện hữu, không có mệnh đề nào đúng, nếu không có một lý do đầy đủ vì sao nó như thế mà không khác đi, dù phần lớn những lý do ấy ta không thể biết." *(bản dịch của Logos Zero)*
+    "Và [nguyên lý] lý do đầy đủ, nhờ nó ta cho rằng không thể có sự kiện nào là thật hay hiện hữu, không có mệnh đề nào đúng, nếu không có một lý do đầy đủ vì sao nó như thế mà không khác đi, dù phần lớn những lý do ấy ta không thể biết." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Nếu Thượng đế toàn năng và hoàn toàn tốt lành, vì sao có đau 
 
 **Ảnh hưởng tới:** [Immanuel Kant](kant.md), [Frege](frege.md), [Bertrand Russell](russell.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Vũ trụ có khởi đầu không?](../cau-hoi/vu-tru-khoi-dau.md)
 - [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md)

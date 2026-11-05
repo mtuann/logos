@@ -49,7 +49,7 @@ Spinoza chứng minh điều này ở phần I *Đạo đức học* (mệnh đ�
 !!! quote "Spinoza, *Đạo đức học* (1677), phần I, phụ lục — bản dịch tiếng Anh của R. H. M. Elwes (1883–1884)"
     "Herefrom it follows, first, that men think themselves free inasmuch as they are conscious of their volitions and desires, and never even dream, in their ignorance, of the causes which have disposed them so to wish and desire."
 
-    "Từ đó suy ra, trước hết, rằng con người tưởng mình tự do vì họ ý thức được những ý muốn và ham muốn của mình, còn trong sự thiếu hiểu biết, họ chẳng bao giờ mơ tới những nguyên nhân đã khiến họ muốn và ham muốn như thế." *(bản dịch của Logos Zero)*
+    "Từ đó suy ra, trước hết, rằng con người tưởng mình tự do vì họ ý thức được những ý muốn và ham muốn của mình, còn trong sự thiếu hiểu biết, họ chẳng bao giờ mơ tới những nguyên nhân đã khiến họ muốn và ham muốn như thế." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Spinoza chứng minh điều này ở phần I *Đạo đức học* (mệnh đ�
 
 **Ảnh hưởng tới:** [Leibniz](leibniz.md), [Hegel](hegel.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md)
 

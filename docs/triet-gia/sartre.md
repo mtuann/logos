@@ -57,7 +57,7 @@ Lập luận trong bài giảng *L'existentialisme est un humanisme* (1945, in n
 
 **Ảnh hưởng tới:** [Simone de Beauvoir](beauvoir.md), [Trần Đức Thảo](tran-duc-thao.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Sartre: Thuyết hiện sinh là một thuyết nhân bản](../doc/sartre-hien-sinh.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

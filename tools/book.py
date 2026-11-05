@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sinh "Sách in" (docs/them/sach.md) từ các bài viết của Logos Zero.
+"""Sinh "Sách in" (docs/them/sach.md) từ các bài viết của Logos.
 
 Mọi bài đọc trong các mục Bắt đầu, Công cụ tư duy, Câu hỏi lớn, Lịch sử,
 Đọc văn bản (trừ các trang index) được gộp thành một cuốn sách in được,
@@ -312,19 +312,19 @@ def render_book(
 ) -> str:
     out = []
     out.append("---")
-    out.append("title: Logos Zero — Sách in")
+    out.append("title: Logos — Sách in")
     out.append(
-        "description: Toàn bộ bài viết của Logos Zero gộp thành một cuốn sách in được."
+        "description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được."
     )
     out.append(f"updated: {today}")
     out.append("search:")
     out.append("  exclude: true")
     out.append("---")
     out.append("")
-    out.append("# Logos Zero — Sách in")
+    out.append("# Logos — Sách in {#logos-zero-sach-in}")
     out.append("")
     out.append(
-        "*Bản tổng hợp các bài viết của Logos Zero để in ra đọc. "
+        "*Bản tổng hợp các bài viết của Logos để in ra đọc. "
         f"Nội dung cập nhật đến ngày {updated}.*"
     )
     out.append("")

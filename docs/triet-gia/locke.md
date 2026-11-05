@@ -48,7 +48,7 @@ Thời Locke, nhiều người tin một số chân lý như “cái gì có th�
 !!! quote "John Locke, *Khảo luận về hiểu biết của con người* (1689), quyển II, chương 1, §2 — nguyên văn tiếng Anh"
     "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas:—How comes it to be furnished? […] Whence has it all the MATERIALS of reason and knowledge? To this I answer, in one word, from EXPERIENCE."
 
-    "Vậy hãy giả sử tâm trí, như ta vẫn nói, là một tờ giấy trắng, không có chữ nào, không có ý niệm nào: làm sao nó được lấp đầy? […] Nó lấy đâu ra mọi VẬT LIỆU của lý trí và tri thức? Tôi xin trả lời bằng một chữ: từ KINH NGHIỆM." *(bản dịch của Logos Zero)*
+    "Vậy hãy giả sử tâm trí, như ta vẫn nói, là một tờ giấy trắng, không có chữ nào, không có ý niệm nào: làm sao nó được lấp đầy? […] Nó lấy đâu ra mọi VẬT LIỆU của lý trí và tri thức? Tôi xin trả lời bằng một chữ: từ KINH NGHIỆM." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Thời Locke, nhiều người tin một số chân lý như “cái gì có th�
 
 **Ảnh hưởng tới:** [Leibniz](leibniz.md), [David Hume](hume.md), [Jean-Jacques Rousseau](rousseau.md), [J. S. Mill](mill.md), [John Rawls](rawls.md), [Robert Nozick](nozick.md), [Derek Parfit](parfit.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md)

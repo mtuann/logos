@@ -21,7 +21,7 @@ class TestBookCoverDate(unittest.TestCase):
         # máy dev khác CI, nên cùng nội dung có thể sinh hai ngày khác nhau.
         # --check phải bỏ qua dòng ngày, chỉ bắt lệch nội dung thật.
         book = load_book_tool()
-        line = ("*Bản tổng hợp các bài viết của Logos Zero để in ra đọc. "
+        line = ("*Bản tổng hợp các bài viết của Logos để in ra đọc. "
                 "Nội dung cập nhật đến ngày 13/10/2026.*")
         other_day = line.replace("13/10/2026", "14/10/2026")
         self.assertEqual(book.normalize_cover_date(line),

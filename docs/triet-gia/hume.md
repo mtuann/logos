@@ -50,7 +50,7 @@ Trong *Điều tra về trí năng con người* (mục IV), Hume hỏi: dựa v
 !!! quote "Hume, *An Enquiry concerning Human Understanding* (1748), mục V, phần 1 — nguyên văn tiếng Anh, bản L. A. Selby-Bigge in lại ấn bản 1777"
     "Custom, then, is the great guide of human life. It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past."
 
-    "Vậy thì thói quen là người dẫn đường vĩ đại của đời người. Chỉ nhờ nguyên lý ấy mà kinh nghiệm mới có ích cho ta, và khiến ta trông đợi ở tương lai một chuỗi sự kiện giống như những gì đã xuất hiện trong quá khứ." *(bản dịch của Logos Zero)*
+    "Vậy thì thói quen là người dẫn đường vĩ đại của đời người. Chỉ nhờ nguyên lý ấy mà kinh nghiệm mới có ích cho ta, và khiến ta trông đợi ở tương lai một chuỗi sự kiện giống như những gì đã xuất hiện trong quá khứ." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Trong *Điều tra về trí năng con người* (mục IV), Hume hỏi: dựa v
 
 **Ảnh hưởng tới:** [Immanuel Kant](kant.md), [Jeremy Bentham](bentham.md), [J. S. Mill](mill.md), [Karl Popper](popper.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Đọc Hume về nhân quả (“Điều tra về trí năng con người”)](../doc/hume-nhan-qua.md)
 - [Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md)

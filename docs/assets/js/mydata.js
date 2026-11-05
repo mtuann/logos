@@ -1,4 +1,4 @@
-/* Logos Zero — "Dữ liệu của tôi": xem tóm tắt, tải bản sao lưu, xóa dữ liệu.
+/* Logos — "Dữ liệu của tôi": xem tóm tắt, tải bản sao lưu, xóa dữ liệu.
  * <div class="oz-mydata"></div> (đầy đủ) · <div class="oz-progress-summary"></div> (tóm tắt) */
 (function (root, factory) {
   var api = factory();

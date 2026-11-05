@@ -1,4 +1,4 @@
-/* Logos Zero — Ôn tập thông minh: phiên ôn gộp thẻ thuật ngữ + câu hỏi trắc nghiệm.
+/* Logos — Ôn tập thông minh: phiên ôn gộp thẻ thuật ngữ + câu hỏi trắc nghiệm.
  * <div class="oz-on-tap"></div>
  * Mỗi câu quiz có một "thẻ" riêng trong progress.cards với khóa "quiz:<qid>:<i>",
  * cùng quy tắc Leitner 5 hộp như flashcards.js. Không thêm section mới vào state:

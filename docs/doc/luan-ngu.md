@@ -11,7 +11,7 @@ block: van-ban
 
 *Luận ngữ* (論語) là tập ghi lời nói và việc làm của [Khổng Tử](../triet-gia/khong-tu.md) (551–479 TCN theo truyền thống) cùng các học trò, gồm 20 thiên. Đây không phải một hệ thống triết học viết thành sách, mà giống sổ tay lớp học: thầy nói một câu, trò hỏi một câu, người sau ghi lại. Đọc *Luận ngữ* là học cách một triết gia dạy bằng đời sống, không bằng định nghĩa.
 
-Nguyên văn chữ Hán thuộc phạm vi công cộng. Các bản dịch tiếng Việt đã xuất bản phần lớn còn bản quyền, nên bản dịch dưới đây là của Logos Zero.
+Nguyên văn chữ Hán thuộc phạm vi công cộng. Các bản dịch tiếng Việt đã xuất bản phần lớn còn bản quyền, nên bản dịch dưới đây là của Logos.
 
 !!! info "Về văn bản này"
     - **Người biên soạn:** theo truyền thống, các học trò đời thứ nhất và thứ hai của Khổng Tử; một số nhà nghiên cứu hiện nay cho rằng văn bản chỉ được chú ý rộng rãi từ cuối thế kỷ 2 TCN, và hình thành qua một quá trình dài.
@@ -35,7 +35,7 @@ Khổng Tử sống cuối thời Xuân Thu: nhà Chu suy yếu, các nước ch
 
     *Tử viết: "Học nhi thời tập chi, bất diệc duyệt hồ? Hữu bằng tự viễn phương lai, bất diệc lạc hồ? Nhân bất tri nhi bất uấn, bất diệc quân tử hồ?"*
 
-    Khổng Tử nói: "Học rồi đúng lúc đem ra luyện tập, chẳng phải vui sao? Có bạn từ phương xa tới, chẳng phải vui sao? Người đời không biết đến mình mà mình không giận, chẳng phải là người quân tử sao?" *(bản dịch của Logos Zero)*
+    Khổng Tử nói: "Học rồi đúng lúc đem ra luyện tập, chẳng phải vui sao? Có bạn từ phương xa tới, chẳng phải vui sao? Người đời không biết đến mình mà mình không giận, chẳng phải là người quân tử sao?" *(bản dịch của Logos)*
 
 Ngay câu đầu sách, việc học gắn với niềm vui, với bạn bè, và với sự bình thản khi không ai công nhận. Chữ 習 (*tập*) là luyện tập cho thành thạo, không chỉ là ôn bài.
 
@@ -48,7 +48,7 @@ Ngay câu đầu sách, việc học gắn với niềm vui, với bạn bè, v�
 
     *Tử viết: "Do! Hối nhữ tri chi hồ? Tri chi vi tri chi, bất tri vi bất tri, thị tri dã."*
 
-    Khổng Tử nói: "Do này! Ta dạy anh thế nào là biết nhé? Biết thì nói là biết, không biết thì nói là không biết, thế mới là biết." *(bản dịch của Logos Zero)*
+    Khổng Tử nói: "Do này! Ta dạy anh thế nào là biết nhé? Biết thì nói là biết, không biết thì nói là không biết, thế mới là biết." *(bản dịch của Logos)*
 
 Do là Tử Lộ (Trọng Do), một học trò lâu năm của Khổng Tử. Một dòng mà là cả một **tri thức luận** (*epistemology*) thu nhỏ: trung thực về giới hạn hiểu biết của mình *chính là* một dạng tri thức. Dám nói "tôi không biết" trong cuộc họp khó hơn nhiều so với đoán bừa cho qua.
 
@@ -59,7 +59,7 @@ Do là Tử Lộ (Trọng Do), một học trò lâu năm của Khổng Tử. M�
 
     *Lâm Phóng vấn lễ chi bản. Tử viết: "Đại tai vấn! Lễ, dữ kỳ xa dã, ninh kiệm; tang, dữ kỳ dị dã, ninh thích."*
 
-    Lâm Phóng hỏi về gốc của lễ. Khổng Tử nói: "Câu hỏi lớn thay! Lễ, xa hoa chẳng bằng tiết kiệm; việc tang, lo cho chu tất chẳng bằng thật lòng xót thương." *(bản dịch của Logos Zero)*
+    Lâm Phóng hỏi về gốc của lễ. Khổng Tử nói: "Câu hỏi lớn thay! Lễ, xa hoa chẳng bằng tiết kiệm; việc tang, lo cho chu tất chẳng bằng thật lòng xót thương." *(bản dịch của Logos)*
 
 Chương ngay trước đó nói thẳng hơn: "người mà không có nhân thì lễ để làm gì?" (人而不仁，如禮何, 3.3). Người hiện đại hay dị ứng với "lễ", thấy nó là khuôn phép gò bó. Nhưng Khổng Tử phân biệt: lễ không có lòng kính bên trong thì chỉ là diễn kịch; còn lòng kính không có hình thức để bày tỏ thì dễ tan. Thắp hương cho ông bà là một hình thức đơn giản, nhưng là cái khung giữ cho lòng tưởng nhớ có chỗ bám.
 
@@ -70,7 +70,7 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
     *Tử Cống vấn viết: "Hữu nhất ngôn nhi khả dĩ chung thân hành chi giả hồ?" Tử viết: "Kỳ thứ hồ! Kỷ sở bất dục, vật thi ư nhân."*
 
-    Tử Cống hỏi: "Có một chữ nào có thể theo suốt đời được không?" Khổng Tử đáp: "Có lẽ là chữ *thứ* chăng! Điều mình không muốn, đừng làm cho người." *(bản dịch của Logos Zero)*
+    Tử Cống hỏi: "Có một chữ nào có thể theo suốt đời được không?" Khổng Tử đáp: "Có lẽ là chữ *thứ* chăng! Điều mình không muốn, đừng làm cho người." *(bản dịch của Logos)*
 
 **Thứ** (恕) là suy lòng mình ra lòng người. Câu "kỷ sở bất dục, vật thi ư nhân" còn xuất hiện trong lời Khổng Tử đáp học trò Trọng Cung hỏi về **nhân** (仁) (12.2); ngay trước đó, ông đáp Nhan Uyên: "nén mình, trở về với lễ, ấy là nhân" (克己復禮為仁, 12.1). Đây là phiên bản "phủ định" của luật vàng: không bảo bạn phải làm gì cho ai, chỉ bảo đừng gây điều chính mình không chịu nổi. Nó bắt đầu từ việc *kiềm chế* chính mình.
 
@@ -81,7 +81,7 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
     *Tử viết: "Quân tử dụ ư nghĩa, tiểu nhân dụ ư lợi." … Tử viết: "Quân tử cầu chư kỷ, tiểu nhân cầu chư nhân."*
 
-    Khổng Tử nói: "Người quân tử hiểu rõ điều nghĩa, kẻ tiểu nhân hiểu rõ điều lợi." … "Người quân tử đòi hỏi ở chính mình, kẻ tiểu nhân đòi hỏi ở người khác." *(bản dịch của Logos Zero)*
+    Khổng Tử nói: "Người quân tử hiểu rõ điều nghĩa, kẻ tiểu nhân hiểu rõ điều lợi." … "Người quân tử đòi hỏi ở chính mình, kẻ tiểu nhân đòi hỏi ở người khác." *(bản dịch của Logos)*
 
 "Quân tử" ở đây là một *kiểu người*, không phải một giai cấp: Khổng Tử nói "dạy người không phân loại" (有教無類, 15.39). Đó là người lấy chuẩn mực bên trong làm thước, thay vì chạy theo lợi ích bên ngoài.
 
@@ -94,7 +94,7 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
     *Tử viết: "Hiền tai Hồi dã! Nhất đan tự, nhất biều ẩm, tại lậu hạng. Nhân bất kham kỳ ưu, Hồi dã bất cải kỳ lạc. Hiền tai Hồi dã!"*
 
-    Khổng Tử nói: "Hiền thay anh Hồi! Một giỏ cơm, một gáo nước, ở trong ngõ hẹp. Người khác không chịu nổi nỗi khổ ấy, còn Hồi vẫn không đổi niềm vui của mình. Hiền thay anh Hồi!" *(bản dịch của Logos Zero)*
+    Khổng Tử nói: "Hiền thay anh Hồi! Một giỏ cơm, một gáo nước, ở trong ngõ hẹp. Người khác không chịu nổi nỗi khổ ấy, còn Hồi vẫn không đổi niềm vui của mình. Hiền thay anh Hồi!" *(bản dịch của Logos)*
 
 Đây là "thí nghiệm" đạo đức của Nho gia: hạnh phúc có nhất thiết cần điều kiện vật chất không? Để ý, văn bản không nói Hồi vui *vì* nghèo; nó nói cái nghèo không lấy được niềm vui của anh.
 

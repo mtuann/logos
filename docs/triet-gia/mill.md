@@ -48,7 +48,7 @@ Chương II của *Bàn về tự do* (1859) bảo vệ tự do tư tưởng và
 !!! quote "Mill, *On Liberty* (1859), chương I — nguyên văn tiếng Anh"
     "That principle is, that the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection. That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others."
 
-    "Nguyên tắc ấy là: mục đích duy nhất cho phép loài người, từng cá nhân hay tập thể, can thiệp vào tự do hành động của bất kỳ ai trong số họ, là tự vệ. Rằng mục đích duy nhất để quyền lực được thực thi chính đáng đối với bất kỳ thành viên nào của một cộng đồng văn minh, trái với ý muốn của người đó, là ngăn người đó gây hại cho người khác." *(bản dịch của Logos Zero)*
+    "Nguyên tắc ấy là: mục đích duy nhất cho phép loài người, từng cá nhân hay tập thể, can thiệp vào tự do hành động của bất kỳ ai trong số họ, là tự vệ. Rằng mục đích duy nhất để quyền lực được thực thi chính đáng đối với bất kỳ thành viên nào của một cộng đồng văn minh, trái với ý muốn của người đó, là ngăn người đó gây hại cho người khác." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Chương II của *Bàn về tự do* (1859) bảo vệ tự do tư tưởng và
 
 **Ảnh hưởng tới:** [Bertrand Russell](russell.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Tự do ngôn luận — John Stuart Mill, “Bàn về tự do” chương 2 (1859)](../doc/mill-tu-do.md)
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md)

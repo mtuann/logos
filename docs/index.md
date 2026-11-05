@@ -1,5 +1,5 @@
 ---
-title: Logos Zero
+title: Logos
 description: Triết học bằng tiếng Việt, bắt đầu từ con số 0. Những câu hỏi lớn, lập luận rõ ràng, đọc chậm văn bản gốc.
 hide:
   - navigation
@@ -7,12 +7,12 @@ hide:
 tier: he-thong
 ---
 
-# Logos Zero
+# Logos {#logos-zero}
 
 <div class="oz-hero" markdown>
 <p class="oz-hero__kicker">Triết học, bắt đầu từ con số 0</p>
 <p class="oz-hero__title">Có những câu hỏi không thể tra Google mà ra.</p>
-<p class="oz-hero__lead">Ta có thật sự tự do lựa chọn? Một cỗ máy có thể hiểu điều nó nói không? Đúng sai có khách quan không? Logos Zero là nơi đọc chậm những câu hỏi như thế: trình bày công bằng từng lập trường, và để bạn tự nghĩ tiếp.</p>
+<p class="oz-hero__lead">Ta có thật sự tự do lựa chọn? Một cỗ máy có thể hiểu điều nó nói không? Đúng sai có khách quan không? Logos là nơi đọc chậm những câu hỏi như thế: trình bày công bằng từng lập trường, và để bạn tự nghĩ tiếp.</p>
 <p class="oz-hero__actions"><a class="md-button md-button--primary" href="bat-dau/">Bắt đầu ở đây →</a> <a class="md-button" href="bat-dau/lo-trinh/">Ba con đường đọc</a></p>
 <p class="oz-hero__note">Triết học là gì, và không phải là gì? Không phải danh ngôn, không phải "mỗi người một ý". Đây là trang mở cửa của cả site.</p>
 </div>
@@ -100,11 +100,11 @@ tier: he-thong
 >
 > "…một cuộc đời không được tự vấn thì không đáng sống…"
 >
-> <small>Platon, *Biện hộ của Socrates* (*Apology*, 38a), bản dịch tiếng Anh của Benjamin Jowett, thuộc phạm vi công cộng ([Project Gutenberg](https://www.gutenberg.org/ebooks/1656)). Bản dịch tiếng Việt của Logos Zero.</small>
+> <small>Platon, *Biện hộ của Socrates* (*Apology*, 38a), bản dịch tiếng Anh của Benjamin Jowett, thuộc phạm vi công cộng ([Project Gutenberg](https://www.gutenberg.org/ebooks/1656)). Bản dịch tiếng Việt của Logos.</small>
 
 Socrates nói câu ấy trước tòa án Athens, khi đang bị xét xử và có thể bị tử hình. Ông không bảo rằng ai không đọc triết học thì sống vô nghĩa. Ông bảo rằng việc tự hỏi mình đang sống vì điều gì, và vì sao, là một phần của sống cho ra sống. Bạn đồng ý không? Vì sao?
 
-## Logos Zero là gì
+## Logos là gì {#logos-zero-la-gi}
 
 - **Không đứng về phía nào** ở những câu hỏi còn mở. Mỗi lập trường được trình bày ở phiên bản mạnh nhất của nó, kèm phản bác và cách đáp lại.
 - **Nói rõ mức đồng thuận**, dựa trên [Khảo sát PhilPapers 2020](cau-hoi/index.md#gioi-triet-hoc-nghi-gi) với [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp.

@@ -34,7 +34,7 @@ Epictetus sinh khoảng những năm 50 ở Hierapolis (Tiểu Á), có thời l
 !!! quote "Cẩm nang §1 — bản dịch George Long (1877)"
     "Of things some are in our power, and others are not. […] Not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts."
 
-    "Trong mọi sự, có những điều tùy thuộc vào ta, và có những điều không. […] Không tùy thuộc vào ta là thân thể, tài sản, danh tiếng, chức vụ, và nói gọn, mọi thứ không phải là hành vi của chính ta." *(bản dịch của Logos Zero)*
+    "Trong mọi sự, có những điều tùy thuộc vào ta, và có những điều không. […] Không tùy thuộc vào ta là thân thể, tài sản, danh tiếng, chức vụ, và nói gọn, mọi thứ không phải là hành vi của chính ta." *(bản dịch của Logos)*
 
 Tùy thuộc vào ta là phán đoán, thôi thúc hành động, mong muốn, ác cảm: những gì là hành vi của chính ta. Năng lực ấy Epictetus gọi là *prohairesis*, có thể dịch là **năng lực lựa chọn** (*volition*). Điều tùy thuộc vào ta thì tự do; điều không tùy thuộc thì "yếu ớt, lệ thuộc, nằm trong tay người khác". Lời khuyên thực hành ở cuối chương: trước mỗi ấn tượng khó chịu, hãy nói với nó "mày chỉ là một ấn tượng, hoàn toàn không phải thứ mày có vẻ là", rồi xét xem nó thuộc loại nào.
 
@@ -45,7 +45,7 @@ Tùy thuộc vào ta là phán đoán, thôi thúc hành động, mong muốn, �
 !!! quote "Cẩm nang §5 — bản dịch George Long (1877)"
     "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing."
 
-    "Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp." *(bản dịch của Logos Zero)*
+    "Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp." *(bản dịch của Logos)*
 
 Bằng chứng Epictetus đưa ra là một con người: [Socrates](../triet-gia/socrates.md), người đã đón bản án tử bình thản (xem *Biện hộ*). Phần sau của §5 vạch ba bậc: người chưa học thì đổ lỗi cho người khác; người bắt đầu học thì đổ lỗi cho mình; người học xong thì không đổ lỗi cho ai, kể cả mình.
 
@@ -56,7 +56,7 @@ Bằng chứng Epictetus đưa ra là một con người: [Socrates](../triet-gi
 !!! quote "Cẩm nang §8 — bản dịch George Long (1877)"
     "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life."
 
-    "Đừng đòi những gì xảy ra phải xảy ra như ý bạn; hãy muốn những gì xảy ra đúng như chúng đang xảy ra, và đời bạn sẽ trôi êm ả." *(bản dịch của Logos Zero)*
+    "Đừng đòi những gì xảy ra phải xảy ra như ý bạn; hãy muốn những gì xảy ra đúng như chúng đang xảy ra, và đời bạn sẽ trôi êm ả." *(bản dịch của Logos)*
 
 *Đây là đoạn dễ bị hiểu sai nhất: nó không bảo bạn bỏ hết ước mơ, mà bảo đừng đặt hạnh phúc của mình vào việc đời phải chiều theo ý bạn.*
 
@@ -65,7 +65,7 @@ Bằng chứng Epictetus đưa ra là một con người: [Socrates](../triet-gi
 !!! quote "Cẩm nang §3 — bản dịch George Long (1877)"
     "If you love an earthen vessel, say it is an earthen vessel which you love; for when it has been broken you will not be disturbed. If you are kissing your child or wife, say that it is a human being whom you are kissing, for when the wife or child dies you will not be disturbed."
 
-    "Nếu bạn yêu một cái bình đất, hãy nói: tôi yêu một cái bình đất; vì khi nó vỡ, bạn sẽ không bị xáo trộn. Nếu bạn hôn con hay vợ mình, hãy nói: tôi đang hôn một con người; vì khi vợ hay con mất, bạn sẽ không bị xáo trộn." *(bản dịch của Logos Zero)*
+    "Nếu bạn yêu một cái bình đất, hãy nói: tôi yêu một cái bình đất; vì khi nó vỡ, bạn sẽ không bị xáo trộn. Nếu bạn hôn con hay vợ mình, hãy nói: tôi đang hôn một con người; vì khi vợ hay con mất, bạn sẽ không bị xáo trộn." *(bản dịch của Logos)*
 
 Epictetus không bảo đừng yêu, mà bảo khi yêu, hãy nhớ bản chất của điều mình yêu: bình thì vỡ được, người thì phải chết. Ở §16 ông còn dặn: thấy ai khóc vì mất mát, hãy chia buồn, thậm chí khóc cùng họ, nhưng đừng than khóc trong lòng.
 
@@ -76,7 +76,7 @@ Epictetus không bảo đừng yêu, mà bảo khi yêu, hãy nhớ bản chất
 !!! quote "Cẩm nang §48 — bản dịch George Long (1877)"
     "The signs (marks) of one who is making progress are these: he censures no man, he praises no man, he blames no man, he accuses no man, he says nothing about himself as if he were somebody or knew something"
 
-    "Dấu hiệu của người đang tiến bộ là: không chỉ trích ai, không tâng bốc ai, không trách ai, không buộc tội ai, không nói gì về mình như thể mình là nhân vật quan trọng hay biết điều gì đó." *(bản dịch của Logos Zero)*
+    "Dấu hiệu của người đang tiến bộ là: không chỉ trích ai, không tâng bốc ai, không trách ai, không buộc tội ai, không nói gì về mình như thể mình là nhân vật quan trọng hay biết điều gì đó." *(bản dịch của Logos)*
 
 *Một tiêu chí thực tế để tự kiểm tra, không cần ai chấm điểm. Bạn đạt được mấy điều trong tuần qua?*
 

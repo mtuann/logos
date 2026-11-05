@@ -9,13 +9,13 @@ block: van-ban
 
 # Hướng dẫn đọc: *Đạo đức kinh*
 
-*Đạo đức kinh* là văn bản nền tảng của Đạo gia, theo truyền thống là của [Lão Tử](../triet-gia/lao-tu.md). Chỉ khoảng năm nghìn chữ Hán chia thành 81 chương ngắn, nhưng nó đã sinh ra hàng trăm bộ chú giải và hơn hai nghìn bản dịch (Chan, SEP). Hướng dẫn này đọc năm đoạn, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos Zero.
+*Đạo đức kinh* là văn bản nền tảng của Đạo gia, theo truyền thống là của [Lão Tử](../triet-gia/lao-tu.md). Chỉ khoảng năm nghìn chữ Hán chia thành 81 chương ngắn, nhưng nó đã sinh ra hàng trăm bộ chú giải và hơn hai nghìn bản dịch (Chan, SEP). Hướng dẫn này đọc năm đoạn, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** theo *Sử ký* của Tư Mã Thiên, Lão Tử họ Lý tên Nhĩ, cũng gọi là Đam, lớn tuổi hơn [Khổng Tử](../triet-gia/khong-tu.md) (thế kỷ 6 TCN); có học giả cho rằng ông hoàn toàn là nhân vật truyền thuyết. Theo Alan Chan (SEP), những tập châm ngôn mang tên Lão Tử có lẽ được ghi lại từ nửa sau thế kỷ 5 TCN, hợp nhất dần trong thế kỷ 4, và khá ổn định vào giữa thế kỷ 3 TCN.
     - **Văn bản:** phần Đạo (chương 1–37) và phần Đức (38–81). Bản lưu hành là bản của Vương Bật (226–249). Bản lụa Mã Vương Đôi (mộ niêm phong năm 168 TCN) đặt phần Đức lên trước; thẻ tre Quách Điếm (khoảng 300 TCN) có khoảng 2.000 chữ trùng với văn bản nay. Cách chia 81 chương có lẽ hình thành muộn (Chan, SEP).
     - **Đọc toàn văn:** [ctext.org](https://ctext.org/dao-de-jing), bản Vương Bật, song song với bản dịch tiếng Anh của James Legge (1891, phạm vi công cộng).
-    - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 20 phút.
+    - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 20 phút.
 
 ## Bối cảnh {#boi-canh}
 
@@ -25,12 +25,12 @@ Thời Xuân Thu – Chiến Quốc, các nước đánh nhau liên miên; Nho g
 
 ### 1. Đạo nói ra được thì không phải Đạo thường hằng (chương 1)
 
-!!! quote "Đạo đức kinh, chương 1 — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Đạo đức kinh, chương 1 — nguyên văn, phiên âm, bản dịch của Logos"
     道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。
 
     *Đạo khả đạo, phi thường Đạo. Danh khả danh, phi thường danh. Vô danh thiên địa chi thủy; hữu danh vạn vật chi mẫu.*
 
-    Đạo nói ra được thì không phải Đạo thường hằng. Tên gọi ra được thì không phải tên thường hằng. Không tên là khởi đầu của trời đất; có tên là mẹ của muôn vật. *(bản dịch của Logos Zero)*
+    Đạo nói ra được thì không phải Đạo thường hằng. Tên gọi ra được thì không phải tên thường hằng. Không tên là khởi đầu của trời đất; có tên là mẹ của muôn vật. *(bản dịch của Logos)*
 
 Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu là "nói ra"; Legge hiểu là "bước đi theo" (*trodden*). Dù hiểu thế nào, câu mở đầu đặt cả cuốn sách vào một nghịch lý: cái gốc của muôn vật nằm ngoài mọi định nghĩa. Chương cuối (81) khép lại cùng ý ấy: "Lời đáng tin thì không đẹp, lời đẹp thì không đáng tin" (信言不美，美言不信).
 
@@ -38,12 +38,12 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
 ### 2. Đẹp và xấu sinh ra nhau (chương 2)
 
-!!! quote "Đạo đức kinh, chương 2 — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Đạo đức kinh, chương 2 — nguyên văn, phiên âm, bản dịch của Logos"
     天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，……是以聖人處無為之事，行不言之教。
 
     *Thiên hạ giai tri mỹ chi vi mỹ, tư ác dĩ. Giai tri thiện chi vi thiện, tư bất thiện dĩ. Cố hữu vô tương sinh, nan dị tương thành, trường đoản tương giảo, cao hạ tương khuynh, … Thị dĩ thánh nhân xử vô vi chi sự, hành bất ngôn chi giáo.*
 
-    Thiên hạ đều biết đẹp là đẹp, thế là đã có xấu. Đều biết thiện là thiện, thế là đã có bất thiện. Cho nên có và không sinh ra nhau, khó và dễ làm nên nhau, dài và ngắn so ra nhau, cao và thấp dựa vào nhau… Vì thế thánh nhân xử sự bằng vô vi, dạy bảo không bằng lời. *(bản dịch của Logos Zero)*
+    Thiên hạ đều biết đẹp là đẹp, thế là đã có xấu. Đều biết thiện là thiện, thế là đã có bất thiện. Cho nên có và không sinh ra nhau, khó và dễ làm nên nhau, dài và ngắn so ra nhau, cao và thấp dựa vào nhau… Vì thế thánh nhân xử sự bằng vô vi, dạy bảo không bằng lời. *(bản dịch của Logos)*
 
 Đặt ra và đề cao một chuẩn ("đẹp", "giỏi", "thành đạt") là cùng lúc dựng lên cái đối lập của nó, và mở đường cho so bì. Chương 3 nói tiếp: không đề cao người tài thì dân không tranh nhau; không quý của hiếm thì dân không trộm cắp (不尚賢，使民不爭；不貴難得之貨，使民不為盜). Để ý: chữ "vô vi" xuất hiện ngay sau phần phê phán giá trị. Vô vi trước hết là không hành động từ những ham muốn mà các chuẩn ấy khơi lên.
 
@@ -51,7 +51,7 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
 ### 3. Nước (chương 8 và 78)
 
-!!! quote "Đạo đức kinh, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Đạo đức kinh, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos"
     上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。……夫唯不爭，故無尤。（第八章）
 
     天下莫柔弱於水，而攻堅強者莫之能勝。（第七十八章）
@@ -60,7 +60,7 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
     *Thiên hạ mạc nhu nhược ư thủy, nhi công kiên cường giả mạc chi năng thắng.* (chương 78)
 
-    Điều thiện cao nhất giống như nước. Nước khéo làm lợi cho muôn vật mà không tranh, ở chỗ mọi người ghét, nên gần với Đạo. … Chỉ vì không tranh, nên không ai oán trách. (chương 8) — Trong thiên hạ không gì mềm yếu hơn nước, vậy mà công phá cái cứng mạnh thì không gì hơn được nó. (chương 78) *(bản dịch của Logos Zero)*
+    Điều thiện cao nhất giống như nước. Nước khéo làm lợi cho muôn vật mà không tranh, ở chỗ mọi người ghét, nên gần với Đạo. … Chỉ vì không tranh, nên không ai oán trách. (chương 8) — Trong thiên hạ không gì mềm yếu hơn nước, vậy mà công phá cái cứng mạnh thì không gì hơn được nó. (chương 78) *(bản dịch của Logos)*
 
 Hai chương nói hai điều khác nhau về nước. Chương 8 nói về *phẩm chất*: làm lợi, chịu ở chỗ thấp, không tranh. Chương 78 nói về *sức mạnh*: mềm mà thắng cứng. Ghép lại, ta có hình ảnh vô vi: không phải đứng im, mà là hành động bền bỉ không cưỡng ép, như nước mài mòn đá. Chính chương 78 thừa nhận: ai cũng biết yếu thắng mạnh, mềm thắng cứng, nhưng "không ai làm được" (莫能行).
 
@@ -68,12 +68,12 @@ Hai chương nói hai điều khác nhau về nước. Chương 8 nói về *ph�
 
 ### 4. Cái trống rỗng mới dùng được (chương 11)
 
-!!! quote "Đạo đức kinh, chương 11 — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Đạo đức kinh, chương 11 — nguyên văn, phiên âm, bản dịch của Logos"
     三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。
 
     *Tam thập bức, cộng nhất cốc, đương kỳ vô, hữu xa chi dụng. Duyên thực dĩ vi khí, đương kỳ vô, hữu khí chi dụng. Tạc hộ dũ dĩ vi thất, đương kỳ vô, hữu thất chi dụng. Cố hữu chi dĩ vi lợi, vô chi dĩ vi dụng.*
 
-    Ba mươi nan hoa chụm vào một bầu xe; nhờ chỗ trống ở đó mà xe dùng được. Nhồi đất sét làm đồ đựng; nhờ chỗ trống bên trong mà đồ đựng dùng được. Đục cửa ra vào, cửa sổ để làm nhà; nhờ chỗ trống mà nhà dùng được. Vậy cái có đem lại lợi, cái không làm nên dụng. *(bản dịch của Logos Zero)*
+    Ba mươi nan hoa chụm vào một bầu xe; nhờ chỗ trống ở đó mà xe dùng được. Nhồi đất sét làm đồ đựng; nhờ chỗ trống bên trong mà đồ đựng dùng được. Đục cửa ra vào, cửa sổ để làm nhà; nhờ chỗ trống mà nhà dùng được. Vậy cái có đem lại lợi, cái không làm nên dụng. *(bản dịch của Logos)*
 
 Ba ví dụ đời thường cùng một cấu trúc. Câu kết không nói "cái không quan trọng hơn cái có"; nó chia việc: cái có cho ta tiện lợi (利), cái không cho ta công dụng (用). Ai từng dọn một căn phòng chật đồ sẽ hiểu ngay.
 
@@ -81,12 +81,12 @@ Ba ví dụ đời thường cùng một cấu trúc. Câu kết không nói "c�
 
 ### 5. Biết đủ (chương 44)
 
-!!! quote "Đạo đức kinh, chương 44 — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Đạo đức kinh, chương 44 — nguyên văn, phiên âm, bản dịch của Logos"
     名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。
 
     *Danh dữ thân thục thân? Thân dữ hóa thục đa? Đắc dữ vong thục bệnh? Thị cố thậm ái tất đại phí; đa tàng tất hậu vong. Tri túc bất nhục, tri chỉ bất đãi, khả dĩ trường cửu.*
 
-    Danh với thân, cái nào gần gũi hơn? Thân với của, cái nào đáng giá hơn? Được với mất, cái nào hại hơn? Cho nên ham mê quá ắt hao tổn lớn; tích trữ nhiều ắt mất mát nặng. Biết đủ thì không nhục, biết dừng thì không nguy, có thể lâu dài. *(bản dịch của Logos Zero)*
+    Danh với thân, cái nào gần gũi hơn? Thân với của, cái nào đáng giá hơn? Được với mất, cái nào hại hơn? Cho nên ham mê quá ắt hao tổn lớn; tích trữ nhiều ắt mất mát nặng. Biết đủ thì không nhục, biết dừng thì không nguy, có thể lâu dài. *(bản dịch của Logos)*
 
 Chương 44 không cấm danh hay của; nó hỏi ta xếp chúng ở đâu so với chính thân mạng mình. Chương 33 nói gọn hơn: "Biết đủ là giàu" (知足者富), và "thắng được người là có sức, thắng được mình mới là mạnh" (勝人者有力，自勝者強).
 

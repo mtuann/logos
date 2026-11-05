@@ -14,7 +14,7 @@ block: van-ban
 !!! info "Về văn bản này"
     - **Tác giả, năm:** Immanuel Kant; ký ngày 30/9/1784, đăng *Berlinische Monatsschrift* số tháng 12/1784 (tr. 481–494). Tiểu luận tiếng Đức, chưa đến 3.000 chữ.
     - **Đọc toàn văn:** bản in năm 1784 trên [Wikisource tiếng Đức](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F) (nguyên văn dưới đây chép theo bản này); bản Akademie-Ausgabe, tập 8, tr. 35–42, trên [korpora.org](https://www.korpora.org/Kant/aa08/035.html). "Ak 8:37" là tập 8, trang 37 của bản Akademie.
-    - **Bản dịch:** Logos Zero dịch thẳng từ tiếng Đức.
+    - **Bản dịch:** Logos dịch thẳng từ tiếng Đức.
     - **Thời gian đọc:** khoảng 10 phút cho các đoạn trích; 30 phút cho toàn văn.
 
 ## Bối cảnh {#boi-canh}
@@ -30,7 +30,7 @@ Khi ấy Kant 60 tuổi, là giáo sư ở Königsberg, nước Phổ, dưới t
 !!! quote "Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:35 — nguyên văn tiếng Đức"
     "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. Sapere aude! Habe Muth dich deines *eigenen* Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung."
 
-    "Khai sáng là việc con người bước ra khỏi tình trạng chưa trưởng thành mà chính mình gây ra. Chưa trưởng thành là không có khả năng dùng trí tuệ của mình nếu không có người khác dẫn dắt. Tình trạng ấy là do chính mình gây ra khi nguyên nhân không nằm ở chỗ thiếu trí tuệ, mà ở chỗ thiếu quyết tâm và can đảm để dùng nó mà không cần người khác dẫn dắt. *Sapere aude!* Hãy can đảm dùng trí tuệ của *chính* mình! Đó là khẩu hiệu của khai sáng." *(bản dịch của Logos Zero)*
+    "Khai sáng là việc con người bước ra khỏi tình trạng chưa trưởng thành mà chính mình gây ra. Chưa trưởng thành là không có khả năng dùng trí tuệ của mình nếu không có người khác dẫn dắt. Tình trạng ấy là do chính mình gây ra khi nguyên nhân không nằm ở chỗ thiếu trí tuệ, mà ở chỗ thiếu quyết tâm và can đảm để dùng nó mà không cần người khác dẫn dắt. *Sapere aude!* Hãy can đảm dùng trí tuệ của *chính* mình! Đó là khẩu hiệu của khai sáng." *(bản dịch của Logos)*
 
 *Unmündigkeit* vốn là chữ pháp lý: tình trạng chưa đủ tuổi tự quyết, phải có người giám hộ (*Vormund*). Hãy dừng ở chữ "do chính mình gây ra". Không phải bạn không *có* trí tuệ, mà bạn không *dám* dùng nó.
 
@@ -39,7 +39,7 @@ Khi ấy Kant 60 tuổi, là giáo sư ở Königsberg, nước Phổ, dưới t
 !!! quote "Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:35 — nguyên văn tiếng Đức"
     "Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil der Menschen […] dennoch gerne Zeitlebens unmündig bleiben; und warum es Anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt der für mich die Diät beurtheilt, u. s. w. so brauche ich mich ja nicht selbst zu bemühen."
 
-    "Lười biếng và hèn nhát là những nguyên nhân khiến một phần rất lớn loài người […] vẫn vui lòng chưa trưởng thành suốt đời, và khiến kẻ khác dễ dàng tự đặt mình làm người giám hộ của họ. Chưa trưởng thành thì thật tiện. Nếu tôi có một cuốn sách hiểu biết thay tôi, một mục sư có lương tâm thay tôi, một bác sĩ phán định chế độ ăn thay tôi, vân vân, thì tôi chẳng cần tự mình nhọc công." *(bản dịch của Logos Zero)*
+    "Lười biếng và hèn nhát là những nguyên nhân khiến một phần rất lớn loài người […] vẫn vui lòng chưa trưởng thành suốt đời, và khiến kẻ khác dễ dàng tự đặt mình làm người giám hộ của họ. Chưa trưởng thành thì thật tiện. Nếu tôi có một cuốn sách hiểu biết thay tôi, một mục sư có lương tâm thay tôi, một bác sĩ phán định chế độ ăn thay tôi, vân vân, thì tôi chẳng cần tự mình nhọc công." *(bản dịch của Logos)*
 
 Ngay sau đó Kant tả những "người giám hộ" đã "tử tế" nhận trông nom người khác: họ làm cho đàn gia súc của mình ngu muội, rồi chỉ cho chúng thấy hiểm nguy nếu thử tự bước ra khỏi chiếc xe tập đi. Kant nói hiểm nguy ấy không lớn đến vậy: ngã vài lần rồi sẽ biết đi.
 
@@ -50,7 +50,7 @@ Ngay sau đó Kant tả những "người giám hộ" đã "tử tế" nhận tr
 !!! quote "Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:36–37 — nguyên văn tiếng Đức"
     "Zu dieser Aufklärung aber wird nichts erfordert als Freiheit; und zwar die unschädlichste unter allem, was nur Freiheit heißen mag, nämlich die: von seiner Vernunft in allen Stükken öffentlichen Gebrauch zu machen. […] Ich verstehe aber unter dem öffentlichen Gebrauche seiner eigenen Vernunft denjenigen, den jemand als Gelehrter von ihr vor dem ganzen Publikum der Leserwelt macht. Den Privatgebrauch nenne ich denjenigen, den er in einem gewissen ihm anvertrauten bürgerlichen Posten, oder Amte, von seiner Vernunft machen darf."
 
-    "Nhưng khai sáng không đòi hỏi gì ngoài tự do; và là thứ tự do vô hại nhất trong mọi thứ có thể gọi là tự do: tự do dùng lý trí của mình một cách công khai trong mọi việc. […] Tôi hiểu việc dùng lý trí một cách công khai là việc một người, với tư cách học giả, dùng lý trí của mình trước toàn thể công chúng độc giả. Còn việc dùng lý trí riêng tư, tôi gọi là việc người ấy được phép dùng lý trí trong một chức vụ hay cương vị dân sự được giao cho mình." *(bản dịch của Logos Zero)*
+    "Nhưng khai sáng không đòi hỏi gì ngoài tự do; và là thứ tự do vô hại nhất trong mọi thứ có thể gọi là tự do: tự do dùng lý trí của mình một cách công khai trong mọi việc. […] Tôi hiểu việc dùng lý trí một cách công khai là việc một người, với tư cách học giả, dùng lý trí của mình trước toàn thể công chúng độc giả. Còn việc dùng lý trí riêng tư, tôi gọi là việc người ấy được phép dùng lý trí trong một chức vụ hay cương vị dân sự được giao cho mình." *(bản dịch của Logos)*
 
 Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì phải tuân lệnh, nhưng với tư cách học giả, anh được viết về những sai lầm trong quân vụ cho công chúng phán xét. Người dân không được từ chối nộp thuế, nhưng được công khai viết rằng thuế ấy bất công. Mục sư phải giảng cho giáo đoàn theo giáo lý của giáo hội mình phục vụ, nhưng với tư cách học giả, ông có "tự do trọn vẹn" để trình bày những chỗ ông thấy sai trong giáo lý ấy.
 
@@ -61,7 +61,7 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 !!! quote "Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:36 và 8:37 — nguyên văn tiếng Đức"
     "Durch eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism und gewinnsüchtiger oder herrschsüchtiger Bedrükkung, aber niemals wahre Reform der Denkungsart zu Stande kommen […]. (Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr wollt, und worüber ihr wollt; aber gehorcht!)"
 
-    "Một cuộc cách mạng có lẽ lật đổ được sự chuyên chế cá nhân và sự áp bức vì tham lợi hay tham quyền, nhưng không bao giờ đem lại một cuộc cải cách thật sự trong lối nghĩ […]. (Chỉ có một ông chủ duy nhất trên đời nói: cứ lý luận bao nhiêu tùy thích, về bất cứ điều gì tùy thích; nhưng hãy vâng lời!)" *(bản dịch của Logos Zero)*
+    "Một cuộc cách mạng có lẽ lật đổ được sự chuyên chế cá nhân và sự áp bức vì tham lợi hay tham quyền, nhưng không bao giờ đem lại một cuộc cải cách thật sự trong lối nghĩ […]. (Chỉ có một ông chủ duy nhất trên đời nói: cứ lý luận bao nhiêu tùy thích, về bất cứ điều gì tùy thích; nhưng hãy vâng lời!)" *(bản dịch của Logos)*
 
 "Ông chủ duy nhất" là Friedrich II. Kant không cho rằng thời mình đã khai sáng; đó chỉ là thời *đang* khai sáng, "thế kỷ của Friedrich" (Ak 8:40). Ông xin một thứ tự do duy nhất, tự do lý luận công khai, và chấp nhận trật tự trong các vai trò. Ông tin rằng nếp nghĩ tự do sẽ dần thấm vào dân chúng, rồi "thậm chí vào cả những nguyên tắc của chính quyền", để chính quyền thấy có lợi khi đối xử với con người, "giờ đây đã hơn một cỗ máy", đúng với phẩm giá của họ (Ak 8:41–42).
 

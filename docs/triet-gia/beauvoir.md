@@ -49,7 +49,7 @@ Lập luận trung tâm của *Le Deuxième Sexe* (1949), theo cách tái dựng
 !!! quote "Simone de Beauvoir, *Le Deuxième Sexe*, tập II (Paris: Gallimard, 1949), phần một, chương 1 “Enfance”, câu mở đầu — trích một câu; tác phẩm còn bản quyền"
     "On ne naît pas femme : on le devient."
 
-    "Người ta không sinh ra là đàn bà: người ta trở thành đàn bà." *(bản dịch của Logos Zero)*
+    "Người ta không sinh ra là đàn bà: người ta trở thành đàn bà." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Lập luận trung tâm của *Le Deuxième Sexe* (1949), theo cách tái dựng
 
 **Ảnh hưởng tới:** [Sartre](sartre.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Triết học nữ quyền là gì?](../cau-hoi/nu-quyen.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

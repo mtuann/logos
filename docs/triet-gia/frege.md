@@ -49,7 +49,7 @@ Bài “Về nghĩa và vật được chỉ” (1892) mở đầu bằng một 
 !!! quote "Gottlob Frege, “Über Sinn und Bedeutung”, *Zeitschrift für Philosophie und philosophische Kritik* 100 (1892), tr. 26–27 — nguyên văn tiếng Đức (chữ ſ viết thành s)"
     "Es liegt nun nahe, mit einem Zeichen (Namen, Wortverbindung, Schriftzeichen) außer dem Bezeichneten, was die Bedeutung des Zeichens heißen möge, noch das verbunden zu denken, was ich den Sinn des Zeichens nennen möchte, worin die Art des Gegebenseins enthalten ist. […] Es würde die Bedeutung von „Abendstern“ und „Morgenstern“ dieselbe sein, aber nicht der Sinn."
 
-    "Vậy tự nhiên ta nghĩ rằng gắn với một ký hiệu (tên gọi, cụm từ, chữ viết), ngoài cái được ký hiệu chỉ tới — có thể gọi là vật được chỉ của ký hiệu — còn có cái mà tôi muốn gọi là nghĩa của ký hiệu, chứa đựng cách thức vật ấy được trao cho ta. […] Vật được chỉ của “Sao Hôm” và “Sao Mai” sẽ là một, nhưng nghĩa thì không." *(bản dịch của Logos Zero)*
+    "Vậy tự nhiên ta nghĩ rằng gắn với một ký hiệu (tên gọi, cụm từ, chữ viết), ngoài cái được ký hiệu chỉ tới — có thể gọi là vật được chỉ của ký hiệu — còn có cái mà tôi muốn gọi là nghĩa của ký hiệu, chứa đựng cách thức vật ấy được trao cho ta. […] Vật được chỉ của “Sao Hôm” và “Sao Mai” sẽ là một, nhưng nghĩa thì không." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Bài “Về nghĩa và vật được chỉ” (1892) mở đầu bằng một 
 
 **Ảnh hưởng tới:** [Bertrand Russell](russell.md), [Wittgenstein](wittgenstein.md), [Quine](quine.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Thế kỷ 20: triết học chia hai ngả](../lich-su/the-ky-20.md)
 - [Sự thật là gì?](../cau-hoi/chan-ly.md)

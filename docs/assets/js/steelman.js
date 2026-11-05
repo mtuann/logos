@@ -1,4 +1,4 @@
-/* Logos Zero — công cụ "Luận cứ thép" (steelman).
+/* Logos — công cụ "Luận cứ thép" (steelman).
  * Dẫn người dùng qua 4 bước dựng phiên bản mạnh nhất của lập trường đối lập,
  * rồi tổng hợp thành một bản "luận cứ thép" hoàn chỉnh.
  * KHÔNG chấm điểm, KHÔNG ghi nhận tiến độ — như thí nghiệm tư duy.

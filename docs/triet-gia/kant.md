@@ -48,7 +48,7 @@ Trong *Nền tảng siêu hình học của đạo đức* (1785), Kant đề ra
 !!! quote "Kant, *Grundlegung zur Metaphysik der Sitten* (1785), mục II, Akademie-Ausgabe 4:429 — nguyên văn tiếng Đức"
     "Handle so, daß du die Menschheit sowohl in deiner Person, als in der Person eines jeden andern jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst."
 
-    "Hãy hành động sao cho bạn luôn đối xử với nhân tính, nơi chính bạn cũng như nơi bất kỳ ai khác, đồng thời như một mục đích, không bao giờ chỉ như một phương tiện." *(bản dịch của Logos Zero)*
+    "Hãy hành động sao cho bạn luôn đối xử với nhân tính, nơi chính bạn cũng như nơi bất kỳ ai khác, đồng thời như một mục đích, không bao giờ chỉ như một phương tiện." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Trong *Nền tảng siêu hình học của đạo đức* (1785), Kant đề ra
 
 **Ảnh hưởng tới:** [Hegel](hegel.md), [Husserl](husserl.md), [Heidegger](heidegger.md), [Karl Popper](popper.md), [Hannah Arendt](arendt.md), [John Rawls](rawls.md), [Robert Nozick](nozick.md), [Derek Parfit](parfit.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md)

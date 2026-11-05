@@ -34,7 +34,7 @@ Sử thần Ngô Sĩ Liên (thế kỷ 15) khen ông nhân từ, gắn kết đ�
 
 ## Một lập luận tiêu biểu: Có thể tu ngay giữa đời
 
-*Cư trần lạc đạo phú* là văn chương chứ không phải chuyên luận, nhưng lập luận ẩn bên trong có thể tái dựng như sau (cách đọc của Logos Zero):
+*Cư trần lạc đạo phú* là văn chương chứ không phải chuyên luận, nhưng lập luận ẩn bên trong có thể tái dựng như sau (cách đọc của Logos):
 
 - **P1.** Cái để giác ngộ — Phật tính, “báu trong nhà” — có sẵn trong tâm mỗi người: “Bụt ở cong nhà, chẳng phải tìm xa”.
 - **P2.** Thứ trói buộc ta cũng ở trong tâm: tham ái, thị phi, sự bám víu.
@@ -48,7 +48,7 @@ Sử thần Ngô Sĩ Liên (thế kỷ 15) khen ông nhân từ, gắn kết đ�
 !!! quote "Trần Nhân Tông, *Cư trần lạc đạo phú*, hội thứ năm — chữ Nôm và phiên âm quốc ngữ theo Wikisource tiếng Việt"
     "孛於宮茹 / 庄沛寻賒 / 因虧本年些寻孛 / 典谷処㐱孛羅些 — Bụt ở cong nhà, chẳng phải tìm xa. Nhân khuây bản nên ta tìm bụt; đến cốc hay chỉn bụt là ta."
 
-    "Phật ở ngay trong nhà, chẳng phải tìm đâu xa. Vì quên mất gốc của mình nên ta mới đi tìm Phật; đến khi hiểu ra mới biết Phật chính là ta." *(bản dịch của Logos Zero)*
+    "Phật ở ngay trong nhà, chẳng phải tìm đâu xa. Vì quên mất gốc của mình nên ta mới đi tìm Phật; đến khi hiểu ra mới biết Phật chính là ta." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Sử thần Ngô Sĩ Liên (thế kỷ 15) khen ông nhân từ, gắn kết đ�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần](../cau-hoi/truc-lam.md)
 - [Hướng dẫn đọc Thơ văn Lý–Trần (tuyển)](../doc/tho-van-ly-tran.md)

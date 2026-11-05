@@ -48,7 +48,7 @@ Thales không để lại lập luận nào. Đây là phỏng đoán của Aris
 !!! quote "Herodotus, *Historiai* I.74 — bản dịch tiếng Anh của G. C. Macaulay (1890)"
     "And this change of the day Thales the Milesian had foretold to the Ionians laying down as a limit this very year in which the change took place."
 
-    "Và việc ngày hóa thành đêm ấy, Thales người Miletus đã báo trước cho người Ionia, định hạn đúng vào năm mà sự đổi thay xảy ra." *(bản dịch của Logos Zero)*
+    "Và việc ngày hóa thành đêm ấy, Thales người Miletus đã báo trước cho người Ionia, định hạn đúng vào năm mà sự đổi thay xảy ra." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Thales không để lại lập luận nào. Đây là phỏng đoán của Aris
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 

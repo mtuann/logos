@@ -57,7 +57,7 @@ Từ Descartes, triết học thường hình dung con người là một chủ 
 
 **Ảnh hưởng tới:** [Sartre](sartre.md), [Hannah Arendt](arendt.md), [Simone de Beauvoir](beauvoir.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [AI thay đổi con người thế nào? Triết học công nghệ](../cau-hoi/cong-nghe-ai.md)
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)

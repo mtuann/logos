@@ -55,7 +55,7 @@ Thí nghiệm này mở đầu phần bàn về linh hồn trong *Chữa lành*.
 
 **Ảnh hưởng tới:** [Averroes](averroes.md), [Maimonides](maimonides.md), [Thomas Aquinas](aquinas.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)
 

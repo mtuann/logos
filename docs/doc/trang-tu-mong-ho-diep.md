@@ -9,13 +9,13 @@ block: van-ban
 
 # Mộng hồ điệp — Trang Tử (thiên *Tề vật luận*)
 
-Đây có lẽ là đoạn văn triết học ngắn nhất mà người ta bàn cãi nhiều nhất: chỉ khoảng sáu mươi chữ Hán, kể một giấc mơ. [Trang Tử](../triet-gia/trang-tu.md) mơ thấy mình là bướm, tỉnh dậy không biết mình là người mơ thành bướm hay bướm mơ thành người. Hơn hai nghìn năm sau, câu hỏi ấy vẫn chưa có lời đáp dứt khoát. Ta đọc đoạn văn cùng một đoạn đứng trước nó trong cùng thiên, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos Zero.
+Đây có lẽ là đoạn văn triết học ngắn nhất mà người ta bàn cãi nhiều nhất: chỉ khoảng sáu mươi chữ Hán, kể một giấc mơ. [Trang Tử](../triet-gia/trang-tu.md) mơ thấy mình là bướm, tỉnh dậy không biết mình là người mơ thành bướm hay bướm mơ thành người. Hơn hai nghìn năm sau, câu hỏi ấy vẫn chưa có lời đáp dứt khoát. Ta đọc đoạn văn cùng một đoạn đứng trước nó trong cùng thiên, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
     - **Văn bản:** sách *Trang Tử* hiện còn 33 thiên do Quách Tượng (mất năm 312) biên tập, rút gọn từ 52 thiên. Bảy "nội thiên" đầu thường được coi là gần với chính Trang Tử nhất (Hansen, SEP). *Tề vật luận* là thiên thứ hai; đoạn mộng hồ điệp khép lại thiên này.
     - **Đọc toàn văn:** [ctext.org](https://ctext.org/zhuangzi/adjustment-of-controversies), nguyên văn song song với bản dịch tiếng Anh của James Legge (1891, phạm vi công cộng).
-    - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 15 phút.
+    - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 15 phút.
 
 ## Bối cảnh {#boi-canh}
 
@@ -29,12 +29,12 @@ Tên thiên *Tề vật luận* có thể đọc hai cách: "bàn về sự ngan
 
 Trước đoạn con bướm, nhân vật Trường Ngô Tử nói với Cù Thước Tử về giấc mơ:
 
-!!! quote "Trang Tử, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Trang Tử, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos"
     方其夢也，不知其夢也。夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。……丘也，與女皆夢也；予謂女夢，亦夢也。
 
     *Phương kỳ mộng dã, bất tri kỳ mộng dã. Mộng chi trung hựu chiêm kỳ mộng yên, giác nhi hậu tri kỳ mộng dã. Thả hữu đại giác nhi hậu tri thử kỳ đại mộng dã, nhi ngu giả tự dĩ vi giác, thiết thiết nhiên tri chi. … Khâu dã, dữ nhữ giai mộng dã; dư vị nhữ mộng, diệc mộng dã.*
 
-    Đang lúc mơ, không biết mình đang mơ. Trong mơ lại còn đoán mộng, tỉnh dậy rồi mới biết là mơ. Lại có cuộc tỉnh lớn rồi mới biết đây là giấc mơ lớn; vậy mà kẻ ngu tự cho mình đã tỉnh, ra vẻ hiểu biết lắm. … Khâu (Khổng Tử) với ngươi đều đang mơ; ta bảo ngươi mơ, cũng là đang mơ. *(bản dịch của Logos Zero)*
+    Đang lúc mơ, không biết mình đang mơ. Trong mơ lại còn đoán mộng, tỉnh dậy rồi mới biết là mơ. Lại có cuộc tỉnh lớn rồi mới biết đây là giấc mơ lớn; vậy mà kẻ ngu tự cho mình đã tỉnh, ra vẻ hiểu biết lắm. … Khâu (Khổng Tử) với ngươi đều đang mơ; ta bảo ngươi mơ, cũng là đang mơ. *(bản dịch của Logos)*
 
 Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có thể "đoán mộng", tức mơ thấy mình tỉnh để bàn về một giấc mơ khác. Và cái mà ta gọi là tỉnh có thể chỉ là một giấc mơ lớn hơn. Câu cuối đáng để ý nhất: người nói không tự đặt mình ra ngoài. Chính đoạn văn gọi lời mình là "điếu quỷ" (弔詭), lời kỳ lạ, nghịch lý.
 
@@ -42,12 +42,12 @@ Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có th�
 
 ### 2. Giấc mơ con bướm
 
-!!! quote "Trang Tử, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Trang Tử, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
     昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與，胡蝶之夢為周與？
 
     *Tích giả Trang Chu mộng vi hồ điệp, hủ hủ nhiên hồ điệp dã, tự dụ thích chí dư! Bất tri Chu dã. Nga nhiên giác, tắc cừ cừ nhiên Chu dã. Bất tri Chu chi mộng vi hồ điệp dư, hồ điệp chi mộng vi Chu dư?*
 
-    Xưa kia Trang Chu mơ thấy mình là bướm, một con bướm phấp phới bay, tự thấy thỏa thích làm sao! Chẳng biết mình là Chu. Bỗng chốc tỉnh dậy, thì sững sờ vẫn là Chu đây. Không biết là Chu mơ thành bướm, hay bướm mơ thành Chu? *(bản dịch của Logos Zero)*
+    Xưa kia Trang Chu mơ thấy mình là bướm, một con bướm phấp phới bay, tự thấy thỏa thích làm sao! Chẳng biết mình là Chu. Bỗng chốc tỉnh dậy, thì sững sờ vẫn là Chu đây. Không biết là Chu mơ thành bướm, hay bướm mơ thành Chu? *(bản dịch của Logos)*
 
 Đọc chậm từng chi tiết. Trong mơ, con bướm "chẳng biết mình là Chu": trải nghiệm làm bướm trọn vẹn, không hề có cảm giác "mình đang mơ". Đây là tầng thứ nhất của đoạn trên, giờ được kể như chuyện của chính người viết. Rồi câu hỏi lật ngược: từ chỗ đứng hiện tại, ta gọi cái kia là mơ; nhưng nếu chỗ đứng hiện tại cũng là mơ thì sao?
 
@@ -55,12 +55,12 @@ Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có th�
 
 ### 3. "Vật hóa": chữ kết của thiên
 
-!!! quote "Trang Tử, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Trang Tử, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos"
     周與胡蝶，則必有分矣。此之謂物化。
 
     *Chu dữ hồ điệp, tắc tất hữu phân hĩ. Thử chi vị vật hóa.*
 
-    Chu với bướm ắt phải có phân biệt. Đó gọi là vật hóa, sự chuyển hóa của muôn vật. *(bản dịch của Logos Zero)*
+    Chu với bướm ắt phải có phân biệt. Đó gọi là vật hóa, sự chuyển hóa của muôn vật. *(bản dịch của Logos)*
 
 Hai câu ngắn này làm đổi cả cách đọc. Trang Tử *không* nói Chu và bướm là một, cũng không nói "đời là mộng". Ông khẳng định có phân biệt; điều ông không biết là chiều của sự chuyển đổi. Chad Hansen (SEP) đọc đây là một thứ hoài nghi nhẹ: cảm giác "đã thoát khỏi sai lầm" khi tỉnh dậy có thể đi theo cả hai chiều. Cách đọc khác nhấn vào chữ "vật hóa": ranh giới giữa ta và vật có thật, nhưng nằm trong dòng biến hóa chung, như sâu hóa bướm.
 

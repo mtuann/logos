@@ -1,4 +1,4 @@
-/* Logos Zero — công cụ "Nhận ra ngụy biện".
+/* Logos — công cụ "Nhận ra ngụy biện".
  * <div class="oz-fallacy-trainer" data-count="10" data-level="all"></div>
  * Dữ liệu: assets/data/fallacies.json */
 (function (root, factory) {

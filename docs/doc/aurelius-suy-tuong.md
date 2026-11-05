@@ -34,9 +34,9 @@ Marcus sinh năm 121, được hoàng đế Antoninus Pius nhận làm con nuôi
 
     "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth."
 
-    "Hãy bắt đầu buổi sáng bằng việc tự nhủ: hôm nay ta sẽ gặp kẻ tọc mạch, kẻ vô ơn, kẻ ngạo mạn, kẻ dối trá, kẻ đố kỵ, kẻ khó gần. Tất cả những điều ấy xảy đến với họ vì họ không biết đâu là thiện, đâu là ác." *(bản dịch của Logos Zero)*
+    "Hãy bắt đầu buổi sáng bằng việc tự nhủ: hôm nay ta sẽ gặp kẻ tọc mạch, kẻ vô ơn, kẻ ngạo mạn, kẻ dối trá, kẻ đố kỵ, kẻ khó gần. Tất cả những điều ấy xảy đến với họ vì họ không biết đâu là thiện, đâu là ác." *(bản dịch của Logos)*
 
-    "Vì chúng ta sinh ra để hợp tác, như đôi chân, đôi tay, hai mí mắt, như hai hàm răng trên và dưới." *(bản dịch của Logos Zero)*
+    "Vì chúng ta sinh ra để hợp tác, như đôi chân, đôi tay, hai mí mắt, như hai hàm răng trên và dưới." *(bản dịch của Logos)*
 
 Vậy đừng giận kẻ làm sai. Ở VII.26, Marcus khuyên: khi ai làm hại mình, hãy xét xem họ đã hành động theo quan niệm nào về thiện ác; thấy rồi, ta sẽ thương họ, không ngạc nhiên cũng không giận.
 
@@ -49,9 +49,9 @@ Vậy đừng giận kẻ làm sai. Ở VII.26, Marcus khuyên: khi ai làm hạ
 
     "...why dost thou not rather act than complain?"
 
-    "Nếu ngươi đau khổ vì một điều gì bên ngoài, thì không phải điều ấy làm ngươi xáo trộn, mà là phán đoán của chính ngươi về nó. Và xóa phán đoán ấy ngay bây giờ là việc trong quyền của ngươi." *(bản dịch của Logos Zero)*
+    "Nếu ngươi đau khổ vì một điều gì bên ngoài, thì không phải điều ấy làm ngươi xáo trộn, mà là phán đoán của chính ngươi về nó. Và xóa phán đoán ấy ngay bây giờ là việc trong quyền của ngươi." *(bản dịch của Logos)*
 
-    "...sao ngươi không hành động thay vì than phiền?" *(bản dịch của Logos Zero)*
+    "...sao ngươi không hành động thay vì than phiền?" *(bản dịch của Logos)*
 
 Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một điều đúng: thì hãy làm đi. Khắc kỷ ở đây không dạy buông xuôi.
 
@@ -64,9 +64,9 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
     "Pass then through this little space of time conformably to nature, and end thy journey in content, as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew."
 
-    "Vì ngươi có thể rời bỏ cuộc đời ngay lúc này, hãy điều chỉnh mọi việc làm và ý nghĩ cho phù hợp." *(bản dịch của Logos Zero)*
+    "Vì ngươi có thể rời bỏ cuộc đời ngay lúc này, hãy điều chỉnh mọi việc làm và ý nghĩ cho phù hợp." *(bản dịch của Logos)*
 
-    "Vậy hãy đi qua quãng thời gian ngắn ngủi này thuận theo tự nhiên, và kết thúc hành trình trong thanh thản, như quả ô liu chín thì rụng, chúc phúc cho tự nhiên đã sinh ra nó, cảm ơn cái cây đã nuôi nó." *(bản dịch của Logos Zero)*
+    "Vậy hãy đi qua quãng thời gian ngắn ngủi này thuận theo tự nhiên, và kết thúc hành trình trong thanh thản, như quả ô liu chín thì rụng, chúc phúc cho tự nhiên đã sinh ra nó, cảm ơn cái cây đã nuôi nó." *(bản dịch của Logos)*
 
 Ở VII.69, ông còn viết: đức hạnh hoàn hảo là sống mỗi ngày như ngày cuối, không cuồng loạn, không uể oải, không giả dối.
 
@@ -77,7 +77,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 !!! quote "Suy tưởng IX.30 — bản dịch George Long (1862)"
     "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die."
 
-    "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos Zero)*
+    "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos)*
 
 Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của Platon". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
 
@@ -90,9 +90,9 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
     "...only to the rational animal is it given to follow voluntarily what happens; but simply to follow is a necessity imposed on all."
 
-    "Hãy hình dung mỗi người buồn rầu hay bất mãn vì điều gì đó giống như con lợn bị đem tế, giãy đạp và kêu thét." *(bản dịch của Logos Zero)*
+    "Hãy hình dung mỗi người buồn rầu hay bất mãn vì điều gì đó giống như con lợn bị đem tế, giãy đạp và kêu thét." *(bản dịch của Logos)*
 
-    "...chỉ loài có lý trí mới được ban cho khả năng tự nguyện theo những gì xảy ra; còn phải theo thì là điều bắt buộc với tất cả." *(bản dịch của Logos Zero)*
+    "...chỉ loài có lý trí mới được ban cho khả năng tự nguyện theo những gì xảy ra; còn phải theo thì là điều bắt buộc với tất cả." *(bản dịch của Logos)*
 
 Điều đã xảy ra thì không đổi được; cái ta chọn được là theo nó như một con người, hay như con lợn giãy đạp. Và dù vũ trụ có thiên ý hay chỉ là nguyên tử, oán trách điều đã xảy ra cũng chẳng ích gì (IV.3).
 

@@ -56,7 +56,7 @@ Locke viết (bản gốc tiếng Anh, đã hơn ba trăm năm tuổi, thuộc p
 !!! quote "John Locke, *Two Treatises of Government* (1689), §27"
     "every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his."
 
-    Mỗi người đều có quyền sở hữu đối với chính bản thân mình: không ai ngoài anh ta có quyền gì đối với nó. Công sức lao động của thân thể anh ta, và thành quả của đôi tay anh ta, có thể nói là thuộc về anh ta một cách chính đáng. *(bản dịch của Logos Zero)*
+    Mỗi người đều có quyền sở hữu đối với chính bản thân mình: không ai ngoài anh ta có quyền gì đối với nó. Công sức lao động của thân thể anh ta, và thành quả của đôi tay anh ta, có thể nói là thuộc về anh ta một cách chính đáng. *(bản dịch của Logos)*
 
 Nhưng Locke đặt hai giới hạn. Thứ nhất, **điều kiện "còn đủ cho người khác"** (*proviso*): chỉ được chiếm hữu khi còn "đủ và tốt" (*enough, and as good*) cho người khác. Thứ hai, **giới hạn hư hỏng** (*spoilage limitation*): không được lấy nhiều hơn mức mình dùng được — hái táo rồi để thối là vi phạm. Tuy nhiên, Locke cho rằng sự ra đời của *tiền tệ* đã gỡ bỏ giới hạn thứ hai: vì tiền không hư hỏng, người ta có thể tích lũy không giới hạn bằng "sự đồng ý ngầm" của xã hội khi chấp nhận dùng tiền.
 

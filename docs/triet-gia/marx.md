@@ -50,7 +50,7 @@ Nếu trên thị trường mọi thứ đều được mua bán đúng giá, l�
 !!! quote "Karl Marx, “Thesen über Feuerbach” (viết mùa xuân 1845), luận cương 11 — nguyên văn tiếng Đức theo bản Engels in năm 1888"
     "Die Philosophen haben die Welt nur verschieden interpretirt; es kommt aber darauf an, sie zu verändern."
 
-    "Các triết gia mới chỉ giải thích thế giới theo những cách khác nhau; nhưng điều cốt yếu là thay đổi nó." *(bản dịch của Logos Zero)*
+    "Các triết gia mới chỉ giải thích thế giới theo những cách khác nhau; nhưng điều cốt yếu là thay đổi nó." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Nếu trên thị trường mọi thứ đều được mua bán đúng giá, l�
 
 **Ảnh hưởng tới:** [Karl Popper](popper.md), [Sartre](sartre.md), [Hannah Arendt](arendt.md), [Simone de Beauvoir](beauvoir.md), [Trần Đức Thảo](tran-duc-thao.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md)
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)

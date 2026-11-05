@@ -1,4 +1,4 @@
-/* Logos Zero — lõi: OZReady, đường dẫn gốc, service worker, nút in.
+/* Logos — lõi: OZReady, đường dẫn gốc, service worker, nút in.
  * Mỗi công cụ gọi window.OZReady(init). init chạy mỗi khi một trang được hiển thị
  * (kể cả khi chuyển trang bằng instant navigation của Material). init phải idempotent. */
 (function () {
@@ -15,7 +15,7 @@
     try {
       fn(document);
     } catch (e) {
-      if (window.console) console.error("[Logos Zero]", e);
+      if (window.console) console.error("[Logos]", e);
     }
   }
 

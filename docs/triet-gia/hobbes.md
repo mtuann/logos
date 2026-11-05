@@ -50,7 +50,7 @@ Theo cách tái dựng phổ biến của *Leviathan*, chương 13–17:
 !!! quote "Thomas Hobbes, *Leviathan* (1651), chương 13 — nguyên văn tiếng Anh, chính tả theo bản in đầu tiên"
     "For as the nature of Foule weather, lyeth not in a showre or two of rain; but in an inclination thereto of many dayes together: So the nature of War, consisteth not in actuall fighting; but in the known disposition thereto, during all the time there is no assurance to the contrary. All other time is PEACE."
 
-    "Cũng như bản chất của thời tiết xấu không nằm ở một hai cơn mưa rào mà ở xu hướng mưa kéo dài nhiều ngày, bản chất của chiến tranh không nằm ở việc đánh nhau thật, mà ở thái độ sẵn sàng đánh nhau mà ai cũng biết, suốt thời gian không có gì bảo đảm điều ngược lại. Mọi thời gian khác là HÒA BÌNH." *(bản dịch của Logos Zero)*
+    "Cũng như bản chất của thời tiết xấu không nằm ở một hai cơn mưa rào mà ở xu hướng mưa kéo dài nhiều ngày, bản chất của chiến tranh không nằm ở việc đánh nhau thật, mà ở thái độ sẵn sàng đánh nhau mà ai cũng biết, suốt thời gian không có gì bảo đảm điều ngược lại. Mọi thời gian khác là HÒA BÌNH." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Theo cách tái dựng phổ biến của *Leviathan*, chương 13–17:
 
 **Ảnh hưởng tới:** [John Locke](locke.md), [Spinoza](spinoza.md), [Leibniz](leibniz.md), [David Hume](hume.md), [Jean-Jacques Rousseau](rousseau.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

@@ -16,7 +16,7 @@ PAGE = '''# X
 !!! quote "Platon, *Biện hộ*, 38a"
     "The unexamined life…"
 
-    Một đời không được xét lại… *(bản dịch của Logos Zero)*
+    Một đời không được xét lại… *(bản dịch của Logos)*
 
 Văn xuôi.
 
@@ -36,7 +36,7 @@ class TestBlocks(unittest.TestCase):
     def test_page_blocks(self):
         got = kq.page_blocks("x.md", PAGE)
         self.assertEqual([(n, t) for n, t, _ in got], [(3, "Platon, *Biện hộ*, 38a"), (11, "Mạnh Tử, 2A6")])
-        self.assertEqual(got[0][2], '"The unexamined life…"\n\nMột đời không được xét lại… *(bản dịch của Logos Zero)*')
+        self.assertEqual(got[0][2], '"The unexamined life…"\n\nMột đời không được xét lại… *(bản dịch của Logos)*')
         self.assertEqual(got[1][2], "> 今人乍見孺子\n>\n> *Kim nhân*")
 
     def test_base_key(self):

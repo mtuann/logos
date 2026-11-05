@@ -57,7 +57,7 @@ Lập luận từ trường hợp “phân đôi” (*fission*) trong *Reasons a
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Cái “tôi” là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
 - [Cái tôi qua thời gian — tôi của mười năm trước còn là tôi không?](../cau-hoi/ban-nga-thoi-gian.md)

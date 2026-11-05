@@ -50,7 +50,7 @@ Vì sao còn đọc Rousseau? Vì ông hỏi câu mà mọi nền chính trị h
 !!! quote "Rousseau, *Du contrat social* (1762), quyển I, chương 1 — bản dịch tiếng Anh của G. D. H. Cole (1913)"
     "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they."
 
-    "Con người sinh ra tự do, mà đâu đâu cũng mang xiềng xích. Kẻ tưởng mình là chủ của người khác thì vẫn là nô lệ hơn cả họ." *(bản dịch của Logos Zero)*
+    "Con người sinh ra tự do, mà đâu đâu cũng mang xiềng xích. Kẻ tưởng mình là chủ của người khác thì vẫn là nô lệ hơn cả họ." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Vì sao còn đọc Rousseau? Vì ông hỏi câu mà mọi nền chính trị h
 
 **Ảnh hưởng tới:** [Immanuel Kant](kant.md), [Hegel](hegel.md), [John Rawls](rawls.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

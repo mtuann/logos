@@ -250,7 +250,7 @@ def render_person(p: dict, by_id: dict, rev: dict, back: dict) -> str:
         L.append(f'!!! quote "{q["source"]}"')
         L.append(f'    "{q["orig"]}"')
         L.append("")
-        L.append(f'    "{q["vi"]}" *(bản dịch của Logos Zero)*')
+        L.append(f'    "{q["vi"]}" *(bản dịch của Logos)*')
         L.append("")
     if c.get("misread"):
         L.append("## Hiểu lầm thường gặp")
@@ -273,7 +273,7 @@ def render_person(p: dict, by_id: dict, rev: dict, back: dict) -> str:
     else:
         L.append("**Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.")
     L.append("")
-    L.append("## Đọc thêm trên Logos Zero")
+    L.append("## Đọc thêm trên Logos {#doc-them-tren-logos-zero}")
     L.append("")
     curated = [rel for rel, _ in c["related"]]
     for rel, label in c["related"]:

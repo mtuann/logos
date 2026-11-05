@@ -49,7 +49,7 @@ Trong *Kính sợ và run rẩy*, qua bút danh Johannes de Silentio, Kierkegaar
 !!! quote "Kierkegaard (bút danh Johannes de Silentio), *Fear and Trembling* (1843), phần “Preliminary Expectoration”, đoạn tả “hiệp sĩ đức tin” — bản dịch tiếng Anh của L. M. Hollander (1923)"
     "He attends to his business, and when one sees him one might think he was a clerk who had lost his soul in doing double bookkeeping, he is so exact."
 
-    "Ông lo việc làm ăn của mình, và ai thấy ông cũng có thể tưởng đó là một anh thư ký đã đánh mất linh hồn vào sổ sách kế toán kép, vì ông chỉn chu đến thế." *(bản dịch của Logos Zero)*
+    "Ông lo việc làm ăn của mình, và ai thấy ông cũng có thể tưởng đó là một anh thư ký đã đánh mất linh hồn vào sổ sách kế toán kép, vì ông chỉn chu đến thế." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Trong *Kính sợ và run rẩy*, qua bút danh Johannes de Silentio, Kierkegaar
 
 **Ảnh hưởng tới:** [Heidegger](heidegger.md), [Wittgenstein](wittgenstein.md), [Sartre](sartre.md), [Simone de Beauvoir](beauvoir.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)

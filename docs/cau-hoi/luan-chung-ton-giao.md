@@ -143,7 +143,7 @@ Câu bổ sung hỏi một điều khác hẳn: không phải "bạn có tin kh�
 !!! quote "Anselm, *Proslogion*, chương 2, 1077–1078 (bản tiếng Anh của S. N. Deane)"
     "And, indeed, we believe that thou art a being than which nothing greater can be conceived."
 
-    Và quả thật, chúng con tin rằng Ngài là một tồn tại mà không thể nghĩ ra cái gì lớn hơn được. *(bản dịch của Logos Zero)*
+    Và quả thật, chúng con tin rằng Ngài là một tồn tại mà không thể nghĩ ra cái gì lớn hơn được. *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

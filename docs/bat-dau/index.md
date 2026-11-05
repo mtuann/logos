@@ -1,6 +1,6 @@
 ---
 title: Triết học là gì, và không phải là gì?
-description: Trang mở cửa của Logos Zero — triết học là việc khảo sát những câu hỏi nền tảng bằng lý lẽ, nó khác gì danh ngôn, tôn giáo hay khoa học, và vì sao người bình thường nên bận tâm.
+description: Trang mở cửa của Logos — triết học là việc khảo sát những câu hỏi nền tảng bằng lý lẽ, nó khác gì danh ngôn, tôn giáo hay khoa học, và vì sao người bình thường nên bận tâm.
 skill: intro
 updated: 2026-10-22
 tier: he-thong
@@ -46,7 +46,7 @@ Mạng xã hội đầy ảnh hoàng hôn kèm một câu "triết lý" và tên
 
 ### Không chỉ của phương Tây
 
-Sách giáo khoa hay kể chuyện triết học bắt đầu từ Hy Lạp. Đó chỉ là một phần câu chuyện. Ở Ấn Độ cổ, các trường phái tranh luận gay gắt về tri thức, về cái tôi, về logic. Ở Trung Hoa, Khổng, Lão, Mặc và nhiều nhà khác tranh luận về cách sống và cách trị nước. Phật giáo đặt ra những câu hỏi sâu sắc về bản ngã mà đến nay các nhà triết học tâm trí vẫn còn đọc lại. Và Việt Nam có truyền thống tư tưởng riêng, từ thiền học thời Lý–Trần đến các nhà nho, nhà cải cách thời cận đại. Logos Zero có các trang riêng về những truyền thống này trong phần [Lịch sử tư tưởng](../lich-su/index.md). Đặt câu hỏi nền tảng và trả lời bằng lý lẽ là việc của con người ở khắp nơi.
+Sách giáo khoa hay kể chuyện triết học bắt đầu từ Hy Lạp. Đó chỉ là một phần câu chuyện. Ở Ấn Độ cổ, các trường phái tranh luận gay gắt về tri thức, về cái tôi, về logic. Ở Trung Hoa, Khổng, Lão, Mặc và nhiều nhà khác tranh luận về cách sống và cách trị nước. Phật giáo đặt ra những câu hỏi sâu sắc về bản ngã mà đến nay các nhà triết học tâm trí vẫn còn đọc lại. Và Việt Nam có truyền thống tư tưởng riêng, từ thiền học thời Lý–Trần đến các nhà nho, nhà cải cách thời cận đại. Logos có các trang riêng về những truyền thống này trong phần [Lịch sử tư tưởng](../lich-su/index.md). Đặt câu hỏi nền tảng và trả lời bằng lý lẽ là việc của con người ở khắp nơi.
 
 ### Không phải tôn giáo, cũng không phải sách self-help
 
@@ -109,11 +109,11 @@ Russell kết thúc cuốn sách nhỏ của mình bằng một đoạn mà hơn
 !!! quote "Bertrand Russell, *The Problems of Philosophy*, 1912, chương XV"
     "Thus, to sum up our discussion of the value of philosophy; Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good."
 
-    *Tóm lại cuộc bàn luận về giá trị của triết học: triết học đáng được học, không phải vì những câu trả lời dứt khoát cho các câu hỏi của nó, bởi lẽ theo lệ thường không câu trả lời dứt khoát nào có thể được biết chắc là đúng, mà chính là vì bản thân những câu hỏi; bởi những câu hỏi ấy mở rộng quan niệm của ta về những gì là khả hữu, làm giàu trí tưởng tượng của trí tuệ, và làm vơi bớt sự quả quyết giáo điều vốn đóng kín tâm trí trước suy tư; nhưng trên hết, vì qua sự vĩ đại của vũ trụ mà triết học chiêm ngắm, tâm trí cũng trở nên lớn lao, và có thể đạt tới sự hòa hợp với vũ trụ — điều làm nên cái thiện cao nhất của nó.* (bản dịch của Logos Zero)
+    *Tóm lại cuộc bàn luận về giá trị của triết học: triết học đáng được học, không phải vì những câu trả lời dứt khoát cho các câu hỏi của nó, bởi lẽ theo lệ thường không câu trả lời dứt khoát nào có thể được biết chắc là đúng, mà chính là vì bản thân những câu hỏi; bởi những câu hỏi ấy mở rộng quan niệm của ta về những gì là khả hữu, làm giàu trí tưởng tượng của trí tuệ, và làm vơi bớt sự quả quyết giáo điều vốn đóng kín tâm trí trước suy tư; nhưng trên hết, vì qua sự vĩ đại của vũ trụ mà triết học chiêm ngắm, tâm trí cũng trở nên lớn lao, và có thể đạt tới sự hòa hợp với vũ trụ — điều làm nên cái thiện cao nhất của nó.* (bản dịch của Logos)
 
 Bạn không cần đồng ý với phần cuối đầy hào hứng của Russell. Nhưng ý ở giữa đáng suy nghĩ: những câu hỏi tốt làm *vơi bớt sự quả quyết giáo điều* — điều hiếm hoi trong một thời mà ai cũng vội có ý kiến. Muốn đọc chậm cả chương này, xem [hướng dẫn đọc "Giá trị của triết học"](../doc/russell-gia-tri.md).
 
-## Đọc Logos Zero thế nào?
+## Đọc Logos thế nào? {#doc-logos-zero-the-nao}
 
 Không có cách đọc "đúng", chỉ có vài gợi ý.
 
@@ -121,7 +121,7 @@ Không có cách đọc "đúng", chỉ có vài gợi ý.
 
 **Đừng vội đồng ý.** Mỗi lập trường trên site được trình bày ở phiên bản mạnh nhất, nên lập trường nào nghe cũng có vẻ đúng. Đó là lúc cần nghi ngờ nhiều nhất. Hãy tìm phản ví dụ. Hãy hỏi "nếu vậy thì sao?".
 
-**Chọn một con đường.** Logos Zero có ba lối vào:
+**Chọn một con đường.** Logos có ba lối vào:
 
 1. **[Công cụ tư duy](../cong-cu/index.md)** — lập luận là gì, suy diễn và quy nạp, giả định ngầm, ngụy biện. Dành cho người muốn nghĩ rõ ràng hơn trước đã.
 2. **[Những câu hỏi lớn](../cau-hoi/index.md)** — ta biết được gì, máy có thể có tâm trí không, ta có tự do không. Dành cho người muốn lao ngay vào vấn đề.

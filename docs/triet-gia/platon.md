@@ -49,7 +49,7 @@ Platon rải lập luận này qua nhiều đối thoại (*Phaedo*, *Cộng hò
 !!! quote "Platon, *Cộng hòa* X, 596a — bản dịch tiếng Anh của Benjamin Jowett"
     "Whenever a number of individuals have a common name, we assume them to have also a corresponding idea or form."
 
-    "Hễ nhiều cá thể có chung một tên gọi, ta giả định rằng chúng cũng có một ý niệm hay mô thức tương ứng." *(bản dịch của Logos Zero)*
+    "Hễ nhiều cá thể có chung một tên gọi, ta giả định rằng chúng cũng có một ý niệm hay mô thức tương ứng." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Platon rải lập luận này qua nhiều đối thoại (*Phaedo*, *Cộng hò
 
 **Ảnh hưởng tới:** [Aristotle](aristotle.md), [Augustine](augustine.md), [Jean-Jacques Rousseau](rousseau.md), [Karl Popper](popper.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Đọc ẩn dụ hang động (Platon, “Cộng hòa” VII)](../doc/platon-hang-dong.md)
 - [Cái đỏ của hoa hồng và cái đỏ của máu: phổ quát có thật không?](../cau-hoi/pho-quat.md)

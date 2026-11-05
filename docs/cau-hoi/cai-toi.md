@@ -134,7 +134,7 @@ Vài điều đáng chú ý:
 !!! quote "Locke, *An Essay Concerning Human Understanding*, II.xxvii, 1689/1694"
     "For, since consciousness always accompanies thinking, and it is that which makes every one to be what he calls self... in this alone consists personal identity, i.e. the sameness of a rational being: and as far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person."
 
-    "Vì ý thức luôn đi kèm với suy nghĩ, và chính nó làm cho mỗi người là cái mà người ấy gọi là bản ngã... chỉ riêng ở điều này mà bản sắc cá nhân tồn tại, tức là tính đồng nhất của một hữu thể có lý tính: và ý thức này có thể trải ngược về bất kỳ hành động hay ý nghĩ nào trong quá khứ đến đâu, thì bản sắc của người ấy vươn tới đó." *(bản dịch của Logos Zero)*
+    "Vì ý thức luôn đi kèm với suy nghĩ, và chính nó làm cho mỗi người là cái mà người ấy gọi là bản ngã... chỉ riêng ở điều này mà bản sắc cá nhân tồn tại, tức là tính đồng nhất của một hữu thể có lý tính: và ý thức này có thể trải ngược về bất kỳ hành động hay ý nghĩ nào trong quá khứ đến đâu, thì bản sắc của người ấy vươn tới đó." *(bản dịch của Logos)*
 
 Trước đó, Locke định nghĩa ngôi vị là "một hữu thể có suy nghĩ và trí tuệ, có lý tính và phản tỉnh, có thể xem bản thân mình là chính mình, là cùng một vật suy nghĩ, ở những thời gian và nơi chốn khác nhau" ("a thinking intelligent being, that has reason and reflection, and can consider itself as itself, the same thinking thing, in different times and places").
 

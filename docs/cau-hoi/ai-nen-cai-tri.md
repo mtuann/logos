@@ -56,7 +56,7 @@ Giải pháp của Platon: **vua triết gia** (*philosopher-king*) — người
 !!! quote "Platon, *Cộng hòa*, Quyển VI (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng)"
     "Will he not be called by them a prater, a star-gazer, a good-for-nothing?"
 
-    Chẳng phải người ấy sẽ bị họ gọi là kẻ ba hoa, kẻ ngắm sao, kẻ vô tích sự sao? *(bản dịch của Logos Zero)*
+    Chẳng phải người ấy sẽ bị họ gọi là kẻ ba hoa, kẻ ngắm sao, kẻ vô tích sự sao? *(bản dịch của Logos)*
 
 **Lập luận mạnh nhất.** Lập trường của Platon chạm vào một sự thật khó nuốt: *số đông có thể sai, và thường sai*. Cử tri bị cảm xúc dắt mũi, bị tin giả lừa, bỏ phiếu theo thói quen gia đình ([bài về dân chủ](dan-chu.md) đã dẫn Schumpeter về sự phi lý trí của cử tri). Nếu ta thừa nhận rằng quyết định chính trị có đúng/sai — rằng có những chính sách thật sự tốt hơn những chính sách khác — thì việc cố tình giao quyết định cho những người ít hiểu biết nhất là một sự vô trách nhiệm có hệ thống. Platon chỉ nói ra điều mà hình ảnh "biểu quyết chọn phi công" đã nói: có những việc không nên biểu quyết.
 
@@ -71,7 +71,7 @@ Lập trường thứ hai không tranh cãi rằng số đông khôn ngoan — n
 !!! quote "Winston Churchill, phát biểu tại Hạ viện Anh, 11/11/1947"
     "Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time."
 
-    Quả thật người ta đã nói rằng dân chủ là thể chế tồi tệ nhất — ngoại trừ tất cả những thể chế khác đã từng được thử qua. *(bản dịch của Logos Zero)*
+    Quả thật người ta đã nói rằng dân chủ là thể chế tồi tệ nhất — ngoại trừ tất cả những thể chế khác đã từng được thử qua. *(bản dịch của Logos)*
 
 Câu nói này nắm được tinh thần của cả một truyền thống: đừng hỏi "dân chủ có hoàn hảo không", hãy hỏi "cái gì thay thế nó mà tốt hơn". Karl Popper, như đã dẫn trong [bài về dân chủ](dan-chu.md), nói gần như vậy bằng ngôn ngữ triết học (diễn đạt lại): giá trị của dân chủ không nằm ở câu hỏi "ai nên cai trị", mà ở chỗ ta có thể *loại bỏ* chính quyền tồi mà không đổ máu.
 

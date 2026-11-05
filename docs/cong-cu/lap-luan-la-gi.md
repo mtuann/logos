@@ -179,7 +179,7 @@ Thử xem bạn nắm được đến đâu.
 
 Bạn đã biết một lập luận gồm những phần nào. Câu hỏi tiếp theo: khi nào tiền đề *bảo đảm* kết luận, đến mức tiền đề đúng thì kết luận không thể sai? Mời đọc [Khi nào kết luận buộc phải đúng?](suy-dien.md).
 
-Nếu bạn mới đến Logos Zero, trang [Bắt đầu](../bat-dau/index.md) có lộ trình gợi ý.
+Nếu bạn mới đến Logos, trang [Bắt đầu](../bat-dau/index.md) có lộ trình gợi ý.
 
 ## Nguồn {#nguon}
 

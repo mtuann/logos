@@ -1,10 +1,10 @@
-# Hướng dẫn viết nội dung Logos Zero
+# Hướng dẫn viết nội dung Logos
 
 Tài liệu nội bộ cho người viết (người hoặc AI). Không xuất bản lên site.
 
 ## 1. Tinh thần
 
-Logos Zero là **một website triết học**, không phải lớp học hay khóa ôn thi.
+Logos là **một website triết học**, không phải lớp học hay khóa ôn thi.
 
 - Mỗi trang đọc như một bài tiểu luận ngắn, ấm áp, mở bằng một câu hỏi hoặc tình huống cụ thể.
 - Dạy cách *suy nghĩ*, không dạy thuộc lòng "triết gia X nói Y". Tên người và năm tháng chỉ xuất hiện khi giúp hiểu lập luận.
@@ -19,7 +19,7 @@ Logos Zero là **một website triết học**, không phải lớp học hay kh
 2. Viết "những người theo X lập luận rằng…", không viết như thể site đứng về một phía.
 3. Nói rõ mức đồng thuận, dùng số liệu PhilPapers 2020 trong `tools/philpapers-2020.md` (chỉ dùng số trong file đó; ghi "chấp nhận hoặc nghiêng về"). File này sinh từ Bảng 1–2 của bài báo chính thức và có 87/100 câu hỏi, mỗi câu kèm số người trả lời (n). Trước khi viết "khảo sát không có câu hỏi về X", hãy tra cả bảng gốc 100 câu trong bài báo: trước 22/10/2026 khoảng 15 bài đã viết sai như vậy (phá thai, án tử hình, giá trị thẩm mỹ, ý nghĩa cuộc sống, thời gian, nhân quả…). Phân biệt câu chính (Bảng 1, hỏi mọi người) với câu bổ sung (Bảng 2), và không mượn số của câu này để nói về câu khác.
 4. **Không bịa**: mọi trích dẫn, năm, tên tác phẩm phải kiểm chứng (SEP, IEP, Project Gutenberg, bài báo gốc). Không chắc thì bỏ hoặc viết thận trọng. Tuyệt đối không tự chế câu nói của triết gia.
-5. Bản quyền: trích dài chỉ với văn bản thuộc phạm vi công cộng; bản dịch tiếng Việt do site tự dịch ghi "(bản dịch của Logos Zero)". Văn bản còn bản quyền: trích rất ngắn (≤ 1–2 câu) hoặc tóm tắt bằng lời mình.
+5. Bản quyền: trích dài chỉ với văn bản thuộc phạm vi công cộng; bản dịch tiếng Việt do site tự dịch ghi "(bản dịch của Logos)". Văn bản còn bản quyền: trích rất ngắn (≤ 1–2 câu) hoặc tóm tắt bằng lời mình.
 6. Gắn với đời sống: AI, y tế, mạng xã hội, công việc, pháp luật…
 
 ## 3. Thuật ngữ thống nhất (bắt buộc dùng đúng)

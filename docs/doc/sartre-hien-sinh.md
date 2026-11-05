@@ -47,7 +47,7 @@ Sartre dẫn câu mà ông gán cho Dostoevsky: nếu Thượng đế không t�
 !!! quote "Sartre, *L'existentialisme est un humanisme* (bài nói 1945, in 1946), phần “bị bỏ rơi” — nguyên văn tiếng Pháp (trích ngắn)"
     « l'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. »
 
-    "con người bị kết án phải tự do. Bị kết án, vì không tự tạo ra chính mình; nhưng vẫn tự do, vì một khi đã bị ném vào thế giới, anh ta chịu trách nhiệm về mọi điều mình làm." *(bản dịch của Logos Zero)*
+    "con người bị kết án phải tự do. Bị kết án, vì không tự tạo ra chính mình; nhưng vẫn tự do, vì một khi đã bị ném vào thế giới, anh ta chịu trách nhiệm về mọi điều mình làm." *(bản dịch của Logos)*
 
 Vì thế, theo Sartre, đam mê không phải "cơn lũ" cuốn ta đi để ta khỏi phải chịu trách nhiệm, và không có "dấu hiệu" nào trên đời mách đường: chính ta giải nghĩa dấu hiệu theo ý mình.
 

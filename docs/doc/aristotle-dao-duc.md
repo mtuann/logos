@@ -32,7 +32,7 @@ Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng
 !!! quote "Đạo đức Nicomachus I.2, 1094a18–22 — bản dịch W. D. Ross (1925)"
     "If, then, there is some end of the things we do, which we desire for its own sake (everything else being desired for the sake of this), and if we do not choose everything for the sake of something else (for at that rate the process would go on to infinity, so that our desire would be empty and vain), clearly this must be the good and the chief good."
 
-    "Vậy nếu trong những việc ta làm có một mục đích ta mong muốn vì chính nó (mọi thứ khác được mong muốn vì nó), và nếu ta không chọn mọi thứ vì một thứ khác (vì như thế quá trình sẽ kéo dài vô tận, khiến ham muốn của ta trống rỗng và vô ích), thì rõ ràng đó phải là điều tốt, điều tốt cao nhất." *(bản dịch của Logos Zero)*
+    "Vậy nếu trong những việc ta làm có một mục đích ta mong muốn vì chính nó (mọi thứ khác được mong muốn vì nó), và nếu ta không chọn mọi thứ vì một thứ khác (vì như thế quá trình sẽ kéo dài vô tận, khiến ham muốn của ta trống rỗng và vô ích), thì rõ ràng đó phải là điều tốt, điều tốt cao nhất." *(bản dịch của Logos)*
 
 *Để ý chữ "nếu": "chuỗi nào cũng phải dừng ở đâu đó" chưa suy ra được "mọi chuỗi dừng ở cùng một chỗ". Có thể sống tốt mà không có một mục đích tối hậu duy nhất không?*
 
@@ -41,7 +41,7 @@ Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng
 !!! quote "Đạo đức Nicomachus I.7, 1098a16–20 — bản dịch W. D. Ross (1925)"
     "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy."
 
-    "điều tốt cho con người hóa ra là hoạt động của linh hồn theo đức hạnh, và nếu có nhiều đức hạnh thì theo đức hạnh tốt nhất, trọn vẹn nhất. Nhưng phải thêm: 'trong trọn một đời'. Vì một con én không làm nên mùa xuân, một ngày cũng vậy; một ngày hay một thời gian ngắn cũng không làm cho ai được phúc và hạnh phúc." *(bản dịch của Logos Zero)*
+    "điều tốt cho con người hóa ra là hoạt động của linh hồn theo đức hạnh, và nếu có nhiều đức hạnh thì theo đức hạnh tốt nhất, trọn vẹn nhất. Nhưng phải thêm: 'trong trọn một đời'. Vì một con én không làm nên mùa xuân, một ngày cũng vậy; một ngày hay một thời gian ngắn cũng không làm cho ai được phúc và hạnh phúc." *(bản dịch của Logos)*
 
 Ross viết "summer" theo thành ngữ tiếng Anh; nguyên văn Hy Lạp là *ear*, mùa xuân, như thành ngữ tiếng Việt.
 
@@ -52,7 +52,7 @@ Ross viết "summer" theo thành ngữ tiếng Anh; nguyên văn Hy Lạp là *e
 !!! quote "Đạo đức Nicomachus II.4, 1105a30–34 — bản dịch W. D. Ross (1925)"
     "in the first place he must have knowledge, secondly he must choose the acts, and choose them for their own sakes, and thirdly his action must proceed from a firm and unchangeable character."
 
-    "trước hết người ấy phải biết mình đang làm gì; thứ hai, phải chọn hành động ấy, và chọn nó vì chính nó; thứ ba, hành động phải xuất phát từ một tính cách vững vàng, không lay chuyển." *(bản dịch của Logos Zero)*
+    "trước hết người ấy phải biết mình đang làm gì; thứ hai, phải chọn hành động ấy, và chọn nó vì chính nó; thứ ba, hành động phải xuất phát từ một tính cách vững vàng, không lay chuyển." *(bản dịch của Logos)*
 
 Làm việc *giống* người công bằng chưa đủ; phải làm *như* người công bằng làm. Dấu hiệu là khoái cảm: ai kiêng khoái lạc thể xác mà thấy vui vì thế là người tiết độ, còn ai kiêng mà bực bội thì chưa phải (1104b3–8). Trạng thái tính cách ổn định ấy Aristotle gọi là **phẩm tính** (*hexis*).
 
@@ -63,7 +63,7 @@ Làm việc *giống* người công bằng chưa đủ; phải làm *như* ngư
 !!! quote "Đạo đức Nicomachus II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)"
     "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it."
 
-    "Vậy đức hạnh là một phẩm tính liên quan đến sự lựa chọn, nằm ở trung dung, tức trung dung đối với ta, được xác định bằng lý trí, theo cách mà người có minh triết thực hành sẽ xác định." *(bản dịch của Logos Zero)*
+    "Vậy đức hạnh là một phẩm tính liên quan đến sự lựa chọn, nằm ở trung dung, tức trung dung đối với ta, được xác định bằng lý trí, theo cách mà người có minh triết thực hành sẽ xác định." *(bản dịch của Logos)*
 
 Dũng cảm nằm giữa liều lĩnh và hèn nhát; hào phóng giữa hoang phí và keo kiệt; trung thực giữa khoe khoang và giả khiêm tốn (II.7). Tìm ra điểm đúng trong từng hoàn cảnh là việc của **minh triết thực hành** (*phronesis*), nên "làm người tốt không phải việc dễ" (1109a24).
 
