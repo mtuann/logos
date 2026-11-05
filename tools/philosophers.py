@@ -95,7 +95,7 @@ FRONT_MATTER = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 LINK_TO_PERSON = re.compile(r"\]\((?:\.\./)*triet-gia/([a-z0-9-]+)\.md(?:#[^)\s]*)?\)")
 # Không tính vào "các bài khác nhắc tới": trang sinh tự động liệt kê mọi
 # triết gia, các trang triết gia khác, và mục Thêm (sách in chép lại mọi bài).
-BACKLINK_SKIP = {"lich-su/dong-thoi-gian.md", "lich-su/so-do-anh-huong.md"}
+BACKLINK_SKIP = {"lich-su/dong-thoi-gian.md", "lich-su/so-do-anh-huong.md", "tac-pham/index.md"}  # trang sinh từ dữ liệu
 BACKLINK_SKIP_DIRS = ("triet-gia/", "them/")
 SECTION_ORDER = ["bat-dau", "cong-cu", "cau-hoi", "lich-su", "doc"]
 

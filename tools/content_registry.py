@@ -55,7 +55,7 @@ DIR_RULES = {
 }
 HE_THONG_DIRS = {"them", "luyen-tap"}
 # Trang do tool trong tools/ viết ra toàn bộ (ngoài ra: mọi triet-gia/*.md, do tools/philosophers.py).
-GENERATED_PAGES = {"them/sach.md", "them/tu-dien.md", "lich-su/dong-thoi-gian.md", "lich-su/so-do-anh-huong.md"}
+GENERATED_PAGES = {"them/sach.md", "them/tu-dien.md", "them/kiem-chung.md", "tac-pham/index.md", "lich-su/dong-thoi-gian.md", "lich-su/so-do-anh-huong.md"}
 # File dữ liệu: (đường dẫn từ gốc repo, kind, tier, block, generated). Thứ tự giữ nguyên khi sinh.
 DATA_FILES = [
     ("docs/assets/data/terms.json", "thuat-ngu", "loi", "thuat-ngu", False),

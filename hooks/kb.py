@@ -37,6 +37,7 @@ from __future__ import annotations
 
 import datetime
 import json
+import posixpath
 import re
 from pathlib import Path
 from typing import Callable
@@ -104,7 +105,8 @@ def is_new(entry: dict | None, meta: dict, today: datetime.date | None = None) -
     return 0 <= ((today or datetime.date.today()) - added).days <= NEW_DAYS
 
 
-def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict, new: bool = False) -> str | None:
+def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict, new: bool = False,
+               status_href: str | None = None) -> str | None:
     """Dải thông tin dưới tiêu đề (đợt 4.6): tầng, vị trí trong mục lục, ngày cập nhật, trạng thái kiểm chứng.
     Không có ở trang he-thong. Toàn bộ là phần sinh: data-oz-sinh (parity bỏ qua), data-search-exclude."""
     entry = ctx.get("pages", {}).get(path)
@@ -120,7 +122,8 @@ def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict, 
         parts.append(f'<span class="oz-info__muc">{" › ".join(trail)}</span>')
     if updated:
         parts.append(f"<span>Cập nhật {_vn_date(updated)}</span>")
-    parts.append(f'<span class="oz-info__kiem">{kiem}</span>')
+    parts.append(f'<a class="oz-info__kiem" href="{status_href}">{kiem}</a>' if status_href
+                 else f'<span class="oz-info__kiem">{kiem}</span>')
     return ('<div class="oz-info" data-oz-sinh data-search-exclude role="note" aria-label="Thông tin về trang">'
             + "".join(parts) + "</div>")
 
@@ -301,7 +304,8 @@ def on_page_content(html_text, page, config, files, **kwargs):
         return html_text
     trail = [a.title for a in reversed(page.ancestors) if getattr(a, "title", None)]
     strip = info_strip(page.file.src_uri, trail, page.meta.get("updated"), html_text, _ctx,
-                       new=is_new(_ctx["pages"].get(page.file.src_uri), page.meta))
+                       new=is_new(_ctx["pages"].get(page.file.src_uri), page.meta),
+                       status_href=posixpath.relpath("them/kiem-chung/", page.url or ".") + "/")
     if not strip:
         return html_text
     m = H1_END.search(html_text)

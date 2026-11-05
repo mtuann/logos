@@ -8,6 +8,8 @@ tier: he-thong
 # Thêm
 
 - [Từ điển thuật ngữ](tu-dien.md): thuật ngữ tiếng Việt, tiếng Anh, Hán Việt, định nghĩa một câu và ví dụ.
+- [Tác phẩm](../tac-pham/index.md): các tác phẩm được nhắc tới trên site, theo tác giả, kèm những bài nhắc tới chúng.
+- [Tình trạng kiểm chứng](kiem-chung.md): bao nhiêu phần nội dung đã được đối chiếu với nguồn.
 - [Dữ liệu của tôi](du-lieu.md): xem tiến độ, tải bản sao lưu, xóa dữ liệu.
 - [Nhật ký](nhat-ky.md): ghi chép suy nghĩ của bạn theo ngày, chỉ lưu trên máy bạn.
 - [Tham khảo](tham-khao.md): các nguồn chính site dùng, và gợi ý đọc tiếp.

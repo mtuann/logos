@@ -273,7 +273,7 @@ Mở đầu.
 class TestRegistry(unittest.TestCase):
     def test_load_and_select(self):
         reg = registry.load(ROOT)
-        self.assertEqual(len(reg.pages), 180)
+        self.assertEqual(len(reg.pages), 182)   # đợt 4.8: thêm tac-pham/index.md, them/kiem-chung.md
         self.assertEqual(reg.page("cau-hoi/tri-thuc.md").block, "tri-thuc")
         core = reg.select(tier="loi", generated=False)
         self.assertTrue(all(p.tier == "loi" and not p.generated for p in core))
