@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.die-fragmente-der-vorsokratiker",
-  "hash": "sha256:72c972d4d160e217c3bf37048a7835808cba0b7ec58c82645960fcfaf13815db",
+  "hash": "sha256:4d17e3df8b8ace2fb4023539627e139b846fe745c12abdb3dd67bbb1df5f3717",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1b-lo03",
+  "checker": "agent-kiem-5.1b-lo09",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Die Fragmente der Vorsokratiker",
@@ -27,51 +27,49 @@
       ]
     },
     {
-      "text": "Năm: 1951 (year; years_seen: people/democritus, people/heraclitus, people/thales)",
+      "text": "Năm: 1903 (year; year_fixed: 1903, năm công bố lần đầu)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presocratics/",
+          "quote": "three vols., original edn. 1903",
+          "where": "Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1951 (bản thứ 6)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
+          "quote": "Weidmann, 1951 (cited as DK",
+          "where": "Bibliography"
+        },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
           "quote": "Diels, Hermann, and Walther Kranz, 1951, Die Fragmente der Vorsokratiker"
-        },
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
-          "quote": "6th edition, Berlin: Weidmann, 1951"
-        },
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/presocratics/",
-          "quote": "Die Fragmente der Vorsokratiker, three vols., original edn. 1903; reprint of 6th edn."
         }
       ]
     },
     {
-      "text": "years_ok: 1903 (bản đầu)",
+      "text": "year_note: bản đầu 1903; bản thứ 6 năm 1951 là bản chuẩn được trích dẫn (DK)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/presocratics/",
-          "quote": "Die Fragmente der Vorsokratiker, three vols., original edn. 1903; reprint of 6th edn."
-        }
-      ]
-    },
-    {
-      "text": "year_note: 1951 là bản thứ 6 (bản chuẩn được trích dẫn DK); bản đầu 1903",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
-          "quote": "Diels, H and W. Kranz, Die Fragmente der Vorsokratiker, 6th edition, Berlin: Weidmann, 1951 (cited as DK)"
-        },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/presocratics/",
           "quote": "original edn. 1903"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
+          "quote": "Weidmann, 1951 (cited as DK"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Hermann Diels và Walther Kranz (Diels–Kranz). 1951 là năm bản thứ 6 (bản chuẩn được trích dẫn 'DK'); bản đầu năm 1903 (SEP presocratics: 'original edn. 1903'). Đề xuất year_note: 'bản 6, 1951; bản đầu 1903'. Không trùng khóa nào khác trong works.yml.\nKiểm lại 5.1b: years_ok 1903 và year_note có claim riêng. Lưu ý cho chủ biên: bản ghi giữ year 1951 (bản 6) chứ không phải năm công bố lần đầu 1903, và không có year_fixed; year_note nói rõ nên không tính là sai, nhưng khác quy tắc year_fixed = năm công bố lần đầu nếu quy tắc áp cho trường year."
+  "notes": "attribution: Hermann Diels và Walther Kranz (Diels–Kranz). 1951 là năm bản thứ 6 (bản chuẩn được trích dẫn 'DK'); bản đầu năm 1903 (SEP presocratics: 'original edn. 1903'). Đề xuất year_note: 'bản 6, 1951; bản đầu 1903'. Không trùng khóa nào khác trong works.yml.\nKiểm lại 5.1b: years_ok 1903 và year_note có claim riêng. Lưu ý cho chủ biên: bản ghi giữ year 1951 (bản 6) chứ không phải năm công bố lần đầu 1903, và không có year_fixed; year_note nói rõ nên không tính là sai, nhưng khác quy tắc year_fixed = năm công bố lần đầu nếu quy tắc áp cho trường year.\nKiểm lại 5.1b lô 09 (year_note viết lại sát chữ nguồn): year và year_fixed nay là 1903 (bản đầu, SEP presocratics \"original edn. 1903\"), years_ok 1951 (bản 6, SEP democritus \"6th edition, Berlin: Weidmann, 1951 (cited as DK)\"): đúng quy tắc year_fixed = năm công bố lần đầu; lưu ý cũ cho chủ biên đã được xử lý. Nguồn heraclitus giữ từ lần kiểm trước (không mở lại trong phiên; presocratics/democritus đủ cho mọi claim năm)."
 }

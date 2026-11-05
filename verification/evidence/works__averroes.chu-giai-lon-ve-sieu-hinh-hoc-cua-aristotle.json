@@ -1,8 +1,8 @@
 {
   "unit": "works/averroes.chu-giai-lon-ve-sieu-hinh-hoc-cua-aristotle",
-  "hash": "sha256:598f73db552bc64bb519faec4f227ba11f9438107fac9d912d9b625767ce55d6",
+  "hash": "sha256:1eb05e054d6e5431420ef42f01e78306892d17e8058fccce69ab0fb511ad2b90",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1b-lo01",
+  "checker": "agent-kiem-5.1b-lo09",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Chú giải lớn về Siêu hình học của Aristotle (Long Commentary on the Metaphysics; Tafsīr Mā baʿd al-ṭabīʿa)",
@@ -42,8 +42,20 @@
           "where": "Bibliography, mục Metaphysics"
         }
       ]
+    },
+    {
+      "text": "year_note: soạn sau 1190 (SEP)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Long Commentary (after 1190)",
+          "where": "Bibliography, mục Metaphysics"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Bản ghi mới (kiểm lần đầu trong 5.1b). SEP ibn-rushd (fall2026) chỉ ghi Long Commentary về Metaphysics 'after 1190', không có năm cụ thể, nên year: null nhất quán với nguồn. Đề xuất (không bắt buộc) thêm year_note: 'soạn sau 1190 (SEP)'."
+  "notes": "Bản ghi mới (kiểm lần đầu trong 5.1b). SEP ibn-rushd (fall2026) chỉ ghi Long Commentary về Metaphysics 'after 1190', không có năm cụ thể, nên year: null nhất quán với nguồn. Đề xuất (không bắt buộc) thêm year_note: 'soạn sau 1190 (SEP)'.\nKiểm lại 5.1b lô 09 (year_note viết lại sát chữ nguồn): year_note mới khớp SEP ibn-rushd (mở lại trong phiên): \"Long Commentary (after 1190)\"."
 }
