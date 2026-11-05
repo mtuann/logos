@@ -1,8 +1,8 @@
 {
   "unit": "works/aquinas.summa-theologiae",
-  "hash": "sha256:b432e5e434d05283d4292b97089188a673ec1c84e43c88dca00ed07a18d298bd",
+  "hash": "sha256:eb427a780dec7d92750f212e3035ffedca937f2b1871f4f3119e2091ef8264aa",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Summa Theologiae",
@@ -40,8 +40,23 @@
           "quote": "It was during this period, perhaps in Rome, that Thomas began work on his magisterial Summa theologiae"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1267; year_note: soạn khoảng 1265–1273 (SEP: 1267–73), bỏ dở",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Summa theologiae (1267–73, unfinished after 3a 90)"
+        },
+        {
+          "url": "https://iep.utm.edu/aquinas/",
+          "quote": "Rome (1265-1268). It was during this period, perhaps in Rome, that Thomas began work on his magisterial Summa theologiae"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn khác nhau về năm khởi soạn: IEP ghi Prima Pars 1265–1268 (khớp 1265); SEP ghi 1267–73. Giữ 1265 có căn cứ; đề xuất year_note: 'khởi soạn 1265 (IEP) hoặc 1267 (SEP), bỏ dở 1273'. Chủ biên có thể chọn."
+  "notes": "Kiểm lại 5.1b: years_ok 1267 và year_note khớp nguồn mở lại trong phiên: IEP cho khởi soạn trong thời ở Rome 1265–1268 (mục sách IEP ghi Prima Pars 1265-1268); SEP ghi 1267–73, bỏ dở sau 3a 90."
 }

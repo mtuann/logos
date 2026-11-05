@@ -1,8 +1,8 @@
 {
   "unit": "works/kant.kritik-der-reinen-vernunft",
-  "hash": "sha256:285b6b3349cfd92932ae9651f2a36f8abd057bf2e591c946a972d30d2541ba52",
+  "hash": "sha256:9bd5ad52118c2ab70638424d8b5ae782c79fb0218c77f642fe45279876cb6bcf",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Kritik der reinen Vernunft",
@@ -41,8 +41,23 @@
           "quote": "06 Professor in Königsberg. 07 1781."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1787; year_note: bản A 1781; bản B sửa lớn 1787",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "the second and substantially revised edition of the Critique of Pure Reason (1787)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "Critique of Pure Reason (1781, revised second edition 1787)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: bản A 1781; bản B sửa lớn 1787."
+  "notes": "year_note: bản A 1781; bản B sửa lớn 1787. | Kiểm lại 5.1b: years_ok 1787 và year_note khớp SEP kant."
 }

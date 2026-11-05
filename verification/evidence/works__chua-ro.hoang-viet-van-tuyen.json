@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.hoang-viet-van-tuyen",
-  "hash": "sha256:f8f1ab7247c264849198b7825943c9aec656831b11cca033b6059545e412e854",
+  "hash": "sha256:ed0f773c45e89aff0e91e8475bc0c4a2e64b4fa69cd680a1010b2518b443068d",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Hoàng Việt văn tuyển (皇越文選)",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "text": "tác giả: Bùi Huy Bích (biên tập, tuyển)",
+      "text": "attribution / tác giả: Bùi Huy Bích tuyển (văn nhiều tác giả)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -27,6 +27,10 @@
         {
           "url": "https://lib.nomfoundation.org/collection/1/volume/498",
           "quote": "Creator 存庵裴輝璧Tồn Am Bùi Huy Bích"
+        },
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "Subject Literary collections (tập 集)"
         }
       ]
     },
@@ -44,8 +48,23 @@
           "quote": "Print type Woodblock text/ Khắc in"
         }
       ]
+    },
+    {
+      "text": "year_note: 1825 (Minh Mệnh 6) là năm bản khắc in Hi Văn Đường",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "Publisher 希文堂 • Hi Văn Đường Place [ 河内] • [Hà nội] Date 皇朝明命六年 • 1825"
+        },
+        {
+          "url": "https://lib.nomfoundation.org/collection/1/volume/241",
+          "quote": "Print type Woodblock text/ Khắc in"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Bùi Huy Bích (người tuyển; tuyển tập văn nhiều tác giả). 1825 (Minh Mệnh 6) là năm bản khắc in của Hi Văn Đường theo thư mục Thư viện Quốc gia Việt Nam R.601 (Nôm Foundation); Bùi Huy Bích tuyển soạn trước đó. Đề xuất year_note: 'bản khắc in Hi Văn Đường 1825 (Minh Mệnh 6)'. Lưu ý: vi.wikisource ghi 'do Bùi Huy Bích biên soạn năm 1825' — cách diễn đạt 'biên soạn năm 1825' không nên chép theo; trang site hiện chỉ ghi '(1825)' nên không sai. Không trùng khóa nào khác trong works.yml."
+  "notes": "attribution: Bùi Huy Bích (người tuyển; tuyển tập văn nhiều tác giả). 1825 (Minh Mệnh 6) là năm bản khắc in của Hi Văn Đường theo thư mục Thư viện Quốc gia Việt Nam R.601 (Nôm Foundation); Bùi Huy Bích tuyển soạn trước đó. Đề xuất year_note: 'bản khắc in Hi Văn Đường 1825 (Minh Mệnh 6)'. Lưu ý: vi.wikisource ghi 'do Bùi Huy Bích biên soạn năm 1825' — cách diễn đạt 'biên soạn năm 1825' không nên chép theo; trang site hiện chỉ ghi '(1825)' nên không sai. Không trùng khóa nào khác trong works.yml.\nKiểm lại 5.1b: year_note có claim riêng (皇朝明命六年 = năm Minh Mệnh thứ 6). \"văn nhiều tác giả\": catalog xếp vào Literary collections (tập 集) và tên sách là \"văn tuyển\"; nguồn đã mở không liệt kê từng tác giả."
 }

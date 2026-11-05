@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.triet-hoc-so-hoc",
-  "hash": "sha256:a746d16429a2e3e639e7d0f96cefeeb80396a3c6d83c3a8704d2799c493a1035",
+  "hash": "sha256:b4fbb86d84b3625539653463568a5cdaa6f8a851001399a05fee629b327fb951",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo13",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Triết học số học (Philosophie der Arithmetik; Philosophy of Arithmetic)",
@@ -40,8 +40,23 @@
           "quote": "In 1891, he published his first book Philosophy of Arithmetic"
         }
       ]
+    },
+    {
+      "text": "same_as: husserl.philosophie-der-arithmetik — cùng tác phẩm với bản ghi đích (Philosophie der Arithmetik, Husserl, 1891); năm và tác giả theo bản ghi đích: 'Triết học số học' dịch sát Philosophie der Arithmetik (Philosophy of Arithmetic)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "Husserliana 12: Philosophie der Arithmetik. Mit ergänzenden Texten (1890–1901), Lothar Eley (ed.), The Hague: Martinus Nijhoff, 1970. Translated as Philosophy of Arithmetic"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "In 1891, he published his first book Philosophy of Arithmetic"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Edmund Husserl. trung-voi: husserl.philosophie-der-arithmetik."
+  "notes": "attribution: Edmund Husserl. trung-voi: husserl.philosophie-der-arithmetik. Kiểm lại 5.1b: same_as husserl.philosophie-der-arithmetik đúng."
 }

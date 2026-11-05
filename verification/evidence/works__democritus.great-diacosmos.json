@@ -1,8 +1,8 @@
 {
   "unit": "works/democritus.great-diacosmos",
-  "hash": "sha256:100a42a0df6e257ab168095c78564cc88065494689369db69fdad555f5d53562",
+  "hash": "sha256:91bb918bedef75cb0f3192d3493982150224414a23edc86abf20d071648cbd65",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo13",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Great Diacosmos",
@@ -34,8 +34,24 @@
           "quote": "are sometimes ascribed to Democritus, although Theophrastus reports that the former is by Leucippus (DK 68A33)"
         }
       ]
+    },
+    {
+      "text": "attribution: phái Theophrastus quy cho Leucippus (Diogenes Laërtius IX.46)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+          "quote": "The physical works are these: III. The Great Diacosmos (which the school of Theophrastus attribute to Leucippus).",
+          "where": "Diogenes Laërtius IX.46 (mục 46 bắt đầu danh mục Thrasyllus), bản dịch Hicks"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
+          "quote": "are sometimes ascribed to Democritus, although Theophrastus reports that the former is by Leucippus (DK 68A33)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Tác phẩm có trong danh mục Thrasyllus về Democritus (DL IX.46) nhưng phái Theophrastus gán cho Leucippus; trang people/democritus đã ghi đúng điều này ('đôi khi gán cho ông'). Claim tác giả chấp nhận với điều kiện giữ ghi chú tranh cãi; có thể thêm vào bản ghi attribution/ghi chú 'Theophrastus gán cho Leucippus'."
+  "notes": "Tác phẩm có trong danh mục Thrasyllus về Democritus (DL IX.46) nhưng phái Theophrastus gán cho Leucippus; trang people/democritus đã ghi đúng điều này ('đôi khi gán cho ông'). Claim tác giả chấp nhận với điều kiện giữ ghi chú tranh cãi; có thể thêm vào bản ghi attribution/ghi chú 'Theophrastus gán cho Leucippus'. Kiểm lại 5.1b: attribution khớp DL IX.46 và SEP; bản ghi giờ nêu rõ tranh cãi tác giả như lần kiểm đầu đề xuất."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/nietzsche.menschliches-allzumenschliches",
-  "hash": "sha256:5bbf85c4389bf256d6ed99dc220465ff49369d61ba14fd5766271db1e126b23c",
+  "hash": "sha256:881aee399f26bab237a288c221a1568fd6fa69df70ddb95a00ba1a0bbb92f86c",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo17",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Menschliches, Allzumenschliches",
@@ -40,8 +40,19 @@
           "quote": "Human, All Too Human (Menschliches, Allzumenschliches [vol. 1], 1878"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1879, 1880; year_note: tập 1 năm 1878; tập 2 năm 1879–1880",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "Human, All Too Human (Menschliches, Allzumenschliches [vol. 1], 1878 and [vol. 2], 1879-1880)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Tập 1 năm 1878, tập 2 năm 1879–1880 (IEP). Có thể thêm year_note: \"tập 1; tập 2 năm 1879–1880\"."
+  "notes": "Tập 1 năm 1878, tập 2 năm 1879–1880 (IEP). Có thể thêm year_note: \"tập 1; tập 2 năm 1879–1880\". | Kiểm lại 5.1b: years_ok và year_note khớp IEP nietzsch."
 }

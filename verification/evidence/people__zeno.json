@@ -1,8 +1,8 @@
 {
   "unit": "people/zeno",
-  "hash": "sha256:45a6698a5e83d5d3e5e5c2342d8f5161cf763934c80497d0ee5881934fc12799",
+  "hash": "sha256:f7b41c18fc3f86cfb22ce51e84c41883f8249853fc7029a037a6d72bd34130a2",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo01",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "name: Zeno xứ Citium; name_en: Zeno of Citium",
@@ -22,12 +22,12 @@
       "sources": [
         {
           "url": "https://iep.utm.edu/epictetu/",
-          "quote": "of Zeno (335–263 B.C.E.) the founder of the school",
-          "where": "mục 3"
+          "quote": "of Zeno (335–263 B.C.E.) the founder of the school"
         }
       ],
       "severity": "nhe",
-      "fix": "born: -335; died: -263; years_label: k. 335–263 TCN"
+      "fix": "born: -335; died: -263; years_label: k. 335–263 TCN",
+      "fixed": true
     },
     {
       "text": "school: Hy Lạp cổ đại",
@@ -105,5 +105,5 @@
     }
   ],
   "result": "dat",
-  "notes": "SEP và IEP không có mục riêng về Zeno xứ Citium; Britannica chặn (403). Năm sinh mất chỉ tìm được ở IEP epictetus: 335–263 TCN, lệch một năm so với bản ghi (334–262). Lệch một năm trong ước đoán đã có 'k.', xếp mức nhẹ; chủ biên quyết. SEP stoicism ghi công thức 'sống phù hợp với tự nhiên' là của Cleanthes, 'và nơi khác cho chính Zeno'; Zeno chỉ nói 'sống phù hợp' (living in agreement) — tóm tắt chấp nhận được."
+  "notes": "Kiểm lại 5.1b: born/died đã sửa thành -335/-263, years_label 'k. 335–263 TCN', khớp IEP epictetu (mở lại trong phiên). Claim sai nhẹ cũ đánh dấu fixed. SEP và IEP không có mục riêng về Zeno xứ Citium."
 }

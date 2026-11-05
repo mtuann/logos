@@ -1,8 +1,8 @@
 {
   "unit": "works/quine.pursuit-of-truth",
-  "hash": "sha256:2ec3886e3501ccc570b60548a087b64197b05d3ec9c6dc949926df30598983bd",
+  "hash": "sha256:589b13b4180b6d8ed9f55a68f3d32f9b2cfb71fa8ab04c5ca170548175760a8e",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Pursuit of Truth",
@@ -36,8 +36,19 @@
           "quote": "1990 Published Pursuit of Truth."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1992; year_note: bản sửa 1992",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "Pursuit of Truth, Cambridge, MA: Harvard University Press, 1990; revised edition, 1992."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Bản sửa 1992 (IEP dẫn bản này). Có thể thêm year_note: 'bản sửa 1992'."
+  "notes": "Bản sửa 1992 (IEP dẫn bản này). Có thể thêm year_note: 'bản sửa 1992'. Kiểm lại 5.1b: years_ok và year_note mới khớp nguồn."
 }

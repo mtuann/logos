@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.cac-nguyen-ly-triet-hoc-cua-descartes",
-  "hash": "sha256:618d1dc623716d0ec96ec63df08b56c5fe71b692226ea577a8f2e50bd97ade47",
+  "hash": "sha256:698d32c71c390a41efcee14f9f4f711e853d1e225a571a3a5599be6690ab6013",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Các nguyên lý triết học của Descartes (tên dịch Việt của Renati Des Cartes Principiorum philosophiae pars I et II)",
@@ -41,8 +41,23 @@
           "where": "Bibliography (SEP descartes)"
         }
       ]
+    },
+    {
+      "text": "same_as: spinoza.renati-des-cartes-principiorum-philosophiae-pars-i — cùng tác phẩm với works/spinoza.renati-des-cartes-principiorum-philosophiae-pars-i",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "Spinoza, Benedictus de, 1663, Renati Des Cartes Principiorum philosophiae pars I et II"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "His critical exposition of Descartes's Principles of Philosophy, the only work he published under his own name in his lifetime"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Baruch Spinoza\ntrung-voi: spinoza.renati-des-cartes-principiorum-philosophiae-pars-i"
+  "notes": "attribution: Baruch Spinoza\ntrung-voi: spinoza.renati-des-cartes-principiorum-philosophiae-pars-i\nKiểm lại 5.1b: same_as mới. SEP: tác phẩm Spinoza 1663 \"Renati Des Cartes Principiorum philosophiae pars I et II\" = trình bày \"Descartes's Principles of Philosophy\". Tên Việt dịch sát nghĩa; không tìm được nguồn tiếng Việt đã mở. Năm và tác giả theo bản ghi đích works/spinoza.renati-des-cartes-principiorum-philosophiae-pars-i."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/descartes.le-monde",
-  "hash": "sha256:8da9ff5191a50a166f6331515293958618be2ef62423cb5a9b626f2e8c1a711c",
+  "hash": "sha256:05d4942cb8f110bbb4458d54c9c1d48c31fae7cbf3060e2e1f359c0e8ae14c8a",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo13",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Le Monde",
@@ -40,8 +40,38 @@
           "quote": "Works published posthumously included his Compendium of Music (in Latin, 1650), Letters (in Latin and French, 1657–67); World, or Treatise on Light, containing the core of his natural philosophy (in French, 1664)"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1633 — năm sách soạn xong, sẵn sàng in",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-works/",
+          "quote": "When The World had become ready for publication in 1633, upon hearing of the Church’s condemnation of Galileo (1564–1642) in the same year, Descartes decided against its publication"
+        }
+      ]
+    },
+    {
+      "text": "year_note: soạn 1629–1633, in sau khi tác giả mất năm 1664",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/descarte/",
+          "quote": "It is here in 1629 that Descartes began work on “a little treatise,” which took him approximately three years to complete, entitled The World."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-works/",
+          "quote": "When The World had become ready for publication in 1633"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "Works published posthumously included his Compendium of Music (in Latin, 1650), Letters (in Latin and French, 1657–67); World, or Treatise on Light, containing the core of his natural philosophy (in French, 1664)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1664 là năm in lần đầu, sau khi Descartes mất; sách soạn xong khoảng 1633 và bị ông rút lại sau vụ Galileo (SEP descartes-works: 'When The World had become ready for publication in 1633'). Đề xuất year_note: 'soạn 1629–1633, in sau khi mất năm 1664'."
+  "notes": "1664 là năm in lần đầu, sau khi Descartes mất; sách soạn xong khoảng 1633 và bị ông rút lại sau vụ Galileo (SEP descartes-works: 'When The World had become ready for publication in 1633'). Đề xuất year_note: 'soạn 1629–1633, in sau khi mất năm 1664'. Kiểm lại 5.1b: years_ok 1633 và year_note đúng (IEP: bắt đầu 1629, khoảng ba năm; SEP: sẵn sàng in 1633, in di cảo 1664)."
 }

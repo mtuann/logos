@@ -1,8 +1,8 @@
 {
   "unit": "works/hume.dialogues-concerning-natural-religion",
-  "hash": "sha256:d904e73ca1d61619964d9e14f79e7d99913710eefc983c4f63a6035c53b75c6c",
+  "hash": "sha256:a574dbb97502f2243d13900c15aebb98ffc8bb3c41620106dd15620b040de3e8",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Dialogues concerning Natural Religion",
@@ -36,8 +36,23 @@
           "quote": "Hume passed away from his illness peacefully in 1776, and the Dialogues appeared in 1779"
         }
       ]
+    },
+    {
+      "text": "year_note: in sau khi tác giả mất; soạn từ đầu thập niên 1750",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "took pains to ensure the posthumous publication of the Dialogues concerning Natural Religion, which he had initially worked on in the early 1750s"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume passed away from his illness peacefully in 1776, and the Dialogues appeared in 1779"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: in sau khi Hume mất (1779); soạn từ đầu thập niên 1750."
+  "notes": "year_note: in sau khi Hume mất (1779); soạn từ đầu thập niên 1750. | Kiểm lại 5.1b: year_note mới khớp SEP hume (soạn đầu thập niên 1750, in 1779 sau khi Hume mất 1776)."
 }

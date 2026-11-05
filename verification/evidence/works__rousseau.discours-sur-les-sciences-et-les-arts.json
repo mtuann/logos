@@ -1,8 +1,8 @@
 {
   "unit": "works/rousseau.discours-sur-les-sciences-et-les-arts",
-  "hash": "sha256:37cb33fbd04fcff5f030013a67f01503155d74d937651fe9514f6517dc02d95a",
+  "hash": "sha256:4225bbf57796e48da969ef09ff528d60ded0ec988a26a1ac13c1925819b7bce5",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Discours sur les sciences et les arts (Diễn từ thứ nhất)",
@@ -36,8 +36,27 @@
           "quote": "1751, Un Discours sur les Sciences et les Arts"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1750; year_note: đoạt giải Viện Hàn lâm Dijon 1750; SEP ghi in 1751, IEP ghi 1750",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/rousseau/",
+          "quote": "was the winning response to an essay contest conducted by the Academy of Dijon in 1750"
+        },
+        {
+          "url": "https://iep.utm.edu/rousseau/",
+          "quote": "In 1750 he published the Discourse on the Arts and Sciences"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rousseau/",
+          "quote": "1751, Un Discours sur les Sciences et les Arts"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn lệch một năm: SEP (bản lưu fall2026) ghi 1751; IEP ghi 1750 ('In 1750 he published the Discourse on the Arts and Sciences'; danh mục IEP: 'Discours sur les Sciences et les Arts (Discourse on the Sciences and Arts), 1750'). Năm 1750 là năm đoạt giải Viện Hàn lâm Dijon. Giữ 1751 theo SEP (nguồn ưu tiên); đề xuất year_note: 'đoạt giải Dijon 1750; SEP ghi in 1751, IEP ghi 1750'. Cần chủ biên quyết nếu muốn đổi."
+  "notes": "Nguồn lệch một năm: SEP (bản lưu fall2026) ghi 1751; IEP ghi 1750 ('In 1750 he published the Discourse on the Arts and Sciences'; danh mục IEP: 'Discours sur les Sciences et les Arts (Discourse on the Sciences and Arts), 1750'). Năm 1750 là năm đoạt giải Viện Hàn lâm Dijon. Giữ 1751 theo SEP (nguồn ưu tiên); đề xuất year_note: 'đoạt giải Dijon 1750; SEP ghi in 1751, IEP ghi 1750'. Cần chủ biên quyết nếu muốn đổi. Kiểm lại 5.1b: year_note mô tả đúng chỗ lệch giữa SEP (1751) và IEP (1750)."
 }

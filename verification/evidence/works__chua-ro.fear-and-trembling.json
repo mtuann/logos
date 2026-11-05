@@ -1,9 +1,20 @@
 {
   "unit": "works/chua-ro.fear-and-trembling",
-  "hash": "sha256:fe8f67b9ce7bcd5125804a97d5e863baa5f299436985d4c50078cc24d6ad1742",
+  "hash": "sha256:c527b8498b93f0ba3a4c4aa6d64105dc770284fa03547f1c3e9db5ac1c85c820",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với kierkegaard.frygt-og-bven",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Fear and Trembling: A Dialectical Lyric by Johannes de silentio ( Frygt og Bœven. Dialektisk Lyrik )"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Fear and Trembling (Frygt og Bæven)",
       "kind": "du-kien",
@@ -39,5 +50,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Søren Kierkegaard. trung-voi: kierkegaard.frygt-og-bven."
+  "notes": "attribution: Søren Kierkegaard. trung-voi: kierkegaard.frygt-og-bven.\nKiểm lại 5.1b: same_as có claim riêng: SEP viết \"Bœven\" (œ), bản ghi đích viết \"Bæven\" (æ): biến thể chính tả cùng tên, không ảnh hưởng same_as. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

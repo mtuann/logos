@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.lich-su-triet-hoc-phuong-tay",
-  "hash": "sha256:f8f99990c528bab852a9521c84836765a413a5cc47678913e37a6552f3964985",
+  "hash": "sha256:a02b531bd1fc2921805ee3ee62ef43a29a8f7bbdc27b2ab51b77a8b72e48a618",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Lịch sử triết học phương Tây (tên Việt của A History of Western Philosophy)",
@@ -36,8 +36,19 @@
           "quote": "his two best-selling works, The Problems of Philosophy (1912) and A History of Western Philosophy (1945)"
         }
       ]
+    },
+    {
+      "text": "same_as: cùng tác phẩm với russell.a-history-of-western-philosophy (\"Lịch sử triết học phương Tây\" là tên Việt của A History of Western Philosophy); author, year của bản ghi theo bản ghi đích (Russell, 1945)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/russell/",
+          "quote": "his two best-selling works, The Problems of Philosophy (1912) and A History of Western Philosophy (1945)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Bertrand Russell. trung-voi: russell.a-history-of-western-philosophy."
+  "notes": "attribution: Bertrand Russell. trung-voi: russell.a-history-of-western-philosophy. | Kiểm lại 5.1b: same_as đã kiểm."
 }

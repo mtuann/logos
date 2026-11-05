@@ -1,8 +1,8 @@
 {
   "unit": "works/leibniz.discours-de-metaphysique",
-  "hash": "sha256:abda7d26712ebe5987428f63f19e0e56f9a7510e7abf67b5e0bdbbb3225f4f2c",
+  "hash": "sha256:8a77ea82580e55a8e90c759c39a29b99b0f6afd2fd62bb8173eb26bbc766abf7",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Discours de métaphysique",
@@ -37,8 +37,23 @@
           "where": "1.1 Chronology of Major Writings"
         }
       ]
+    },
+    {
+      "text": "year_note: năm soạn (1686); in sau khi tác giả mất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz-exoteric/",
+          "quote": "Leibniz wrote the Discours in 1686. Although it was not published during his lifetime, this text has become one of Leibniz’s most famous works"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz/",
+          "quote": "1686 Discourse on Metaphysics"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1686 là năm soạn theo bảng niên biểu SEP; tác phẩm chỉ in sau khi Leibniz mất (năm in lần đầu không có trên trang nguồn đã mở, nên không đề xuất year_note có số)."
+  "notes": "1686 là năm soạn theo bảng niên biểu SEP; tác phẩm chỉ in sau khi Leibniz mất (năm in lần đầu không có trên trang nguồn đã mở, nên không đề xuất year_note có số). | Kiểm lại 5.1b: year_note mới khớp SEP leibniz-exoteric (viết 1686, không in khi ông còn sống)."
 }

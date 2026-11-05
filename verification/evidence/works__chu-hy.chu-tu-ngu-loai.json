@@ -1,8 +1,8 @@
 {
   "unit": "works/chu-hy.chu-tu-ngu-loai",
-  "hash": "sha256:acf9e3bde6f45873a32ece1d953829eec9555cf3f560e78eb9e90c99ae2cd0bc",
+  "hash": "sha256:8f79af7e403d52efdc60bda210c1f3528a7c3b216a5491a9d55bc1cd1f061ddc",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Chu Tử ngữ loại (朱子語類)",
@@ -29,8 +29,28 @@
           "quote": "His oral teachings are preserved in the Classified Dialogues of Master Zhu (Zhuzi yulei)"
         }
       ]
+    },
+    {
+      "text": "attribution: lời giảng của Chu Hy do học trò ghi lại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%9C%B1%E5%AD%90%E8%AA%9E%E9%A1%9E",
+          "quote": "初，朱子與門人問答之語，門人各錄為編",
+          "where": "Tứ khố toàn thư tổng mục đề yếu, đầu trang"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%9C%B1%E5%AD%90%E8%AA%9E%E9%A1%9E",
+          "quote": "宋咸淳庚午導江黎靖德編"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "His oral discourses and discussions are preserved in the Classified Dialogues of Master Zhu (Zhuzi yulei)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year null: chỉ kiểm tên và tác giả. Đây là lời giảng của Chu Hy do học trò ghi lại, được biên tập sau khi ông mất (nguồn đã mở chỉ nói 'preserved'); gán cho Chu Hy là cách quen dùng."
+  "notes": "year null: chỉ kiểm tên và tác giả. Đây là lời giảng của Chu Hy do học trò ghi lại, được biên tập sau khi ông mất (nguồn đã mở chỉ nói 'preserved'); gán cho Chu Hy là cách quen dùng.\nKiểm lại 5.1b: attribution mới có nguồn (Wikisource 朱子語類, đề yếu Tứ khố: môn nhân ghi lời vấn đáp; Lê Tĩnh Đức 黎靖德 biên tập bản phân loại năm 1270)."
 }

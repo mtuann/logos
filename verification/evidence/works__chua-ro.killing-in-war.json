@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.killing-in-war",
-  "hash": "sha256:627172893bb4868471d402b9ec3c55843825ff0265e0dec4e4e234aec1b9ba58",
+  "hash": "sha256:4d6f7f4da51d253f1f591709cbbf527c6d38a5212f50fed7e203a4f4c300e86f",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Killing in War",
@@ -40,8 +40,27 @@
           "quote": "–––, 2009, Killing in War, Oxford: Oxford University Press."
         }
       ]
+    },
+    {
+      "text": "attribution: Jeff McMahan",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "McMahan, J., 1994, “Innocence, Self-Defense and Killing in War”"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "–––, 2009, Killing in War, Oxford: Oxford University Press."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Robert McKim and Jeff McMahan (eds)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Jeff McMahan. Không trùng khóa nào khác trong data/kb/works.yml. Mục thư mục SEP dùng \"–––\" nối tiếp các mục McMahan, J.; trong thân bài trích \"McMahan 2009\"."
+  "notes": "attribution: Jeff McMahan. Không trùng khóa nào khác trong data/kb/works.yml. Mục thư mục SEP dùng \"–––\" nối tiếp các mục McMahan, J.; trong thân bài trích \"McMahan 2009\". | Kiểm lại 5.1b: attribution đã kiểm. Tên \"Jeff\" lấy từ mục Robert McKim and Jeff McMahan (eds) trong cùng thư mục SEP."
 }

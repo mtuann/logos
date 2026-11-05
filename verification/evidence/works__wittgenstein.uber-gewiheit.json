@@ -1,8 +1,8 @@
 {
   "unit": "works/wittgenstein.uber-gewiheit",
-  "hash": "sha256:bf27c9ef85b322fb7db124bf0502ab463c80385c26fcc1ddd3adb26e36486754",
+  "hash": "sha256:b2d9fa493ff24662a18df8b47c78bccea67b0ef8f18ebc279ea5da98bde9d144",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo20",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Über Gewißheit (On Certainty)",
@@ -52,8 +52,23 @@
           "quote": "\"author_name\":[\"Ludwig Wittgenstein\"],\"first_publish_year\":1969,\"key\":\"/works/OL15726244W\""
         }
       ]
+    },
+    {
+      "text": "year_note: ghi chép 1949–51, in sau khi tác giả mất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/wittgens/",
+          "quote": "He spent the last two years of his life in Vienna, Oxford and Cambridge and kept working until he died of prostate cancer in Cambridge in April 1951. His work from these last years has been published as On Certainty."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "On Certainty, 1969, G. E. M. Anscombe and G. H. von Wright (eds.)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Ghi chép năm cuối đời (1949–51), xuất bản sau khi mất năm 1969 (Blackwell, song ngữ, Anscombe và von Wright biên tập). IEP dẫn bản in 1979 (bản in lại). Open Library có cả cách viết 'Über Gewissheit' và 'Über Gewißheit'."
+  "notes": "Ghi chép năm cuối đời (1949–51), xuất bản sau khi mất năm 1969 (Blackwell, song ngữ, Anscombe và von Wright biên tập). IEP dẫn bản in 1979 (bản in lại). Open Library có cả cách viết 'Über Gewissheit' và 'Über Gewißheit'. Kiểm lại 5.1b: year_note mới khớp nguồn (IEP: hai năm cuối đời tới khi mất tháng 4/1951, tức khoảng 1949–51)."
 }

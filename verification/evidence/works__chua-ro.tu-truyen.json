@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.tu-truyen",
-  "hash": "sha256:5c65440a732dd0abd3b5660741e4d15d25fa2336915cc465214b61185109ace2",
+  "hash": "sha256:82fd215062fcfe62e59195debf68aa09d9d44c82bb35c4b9454739ec32739108",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo13",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Tự truyện (Autobiography)",
@@ -45,8 +45,23 @@
           "quote": "He died in Avignon on 7 May 1873"
         }
       ]
+    },
+    {
+      "text": "attribution: John Stuart Mill",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10378",
+          "quote": "Author Mill, John Stuart, 1806-1873 Title Autobiography"
+        },
+        {
+          "url": "https://archive.org/details/autobiographymil00milluoft",
+          "quote": "Autobiography by Mill, John Stuart, 1806-1873 Publication date 1873"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: John Stuart Mill. Không trùng khóa nào trong works.yml (mill.* chỉ có A System of Logic, On Liberty, The Subjection of Women, Utilitarianism). Sách in năm 1873, sau khi Mill mất (7/5/1873). Bản Gutenberg #10378 có Chương VII (1840–1870), khớp ngữ cảnh 'chương VII'."
+  "notes": "attribution: John Stuart Mill. Không trùng khóa nào trong works.yml (mill.* chỉ có A System of Logic, On Liberty, The Subjection of Women, Utilitarianism). Sách in năm 1873, sau khi Mill mất (7/5/1873). Bản Gutenberg #10378 có Chương VII (1840–1870), khớp ngữ cảnh 'chương VII'. Kiểm lại 5.1b: attribution John Stuart Mill đúng."
 }

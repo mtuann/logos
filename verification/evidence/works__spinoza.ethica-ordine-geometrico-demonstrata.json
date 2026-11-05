@@ -1,8 +1,8 @@
 {
   "unit": "works/spinoza.ethica-ordine-geometrico-demonstrata",
-  "hash": "sha256:4b893e5ad2a736491546a319632adae8887e3e4852c8f48ed2ae92aaf1c81bed",
+  "hash": "sha256:f509c7d51b607e393fa693cb37452d2725a0b3edc499a94c19cf0c825cc100a8",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Ethica, ordine geometrico demonstrata",
@@ -41,19 +41,38 @@
         },
         {
           "url": "https://archive.org/metadata/ned-kbn-all-00004303-001/metadata",
-          "quote": "\"title\": \"Opera posthuma, quorum series post præfationem exhibetur\""
+          "quote": "\"title\":\"Opera posthuma, quorum series post præfationem exhibetur\""
         },
         {
           "url": "https://archive.org/metadata/ned-kbn-all-00004303-001/metadata",
-          "quote": "\"imprint\": \"[Amsterdam,]: [J. Rieuwertsz.], 1677\""
+          "quote": "\"imprint\":\"[Amsterdam,]: [J. Rieuwertsz.], 1677\""
         },
         {
           "url": "https://iep.utm.edu/spinoza/",
           "quote": "the manuscripts of his unpublished works—the Treatise on the Emendation of the Intellect, the Ethics"
         }
       ]
+    },
+    {
+      "text": "year_note: di cảo, in trong Opera posthuma 1677",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/ned-kbn-all-00004303-001/metadata",
+          "quote": "\"title\":\"Opera posthuma, quorum series post præfationem exhibetur\""
+        },
+        {
+          "url": "https://archive.org/metadata/ned-kbn-all-00004303-001/metadata",
+          "quote": "\"imprint\":\"[Amsterdam,]: [J. Rieuwertsz.], 1677\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza-political/",
+          "quote": "upstaged as it was by the simultaneous appearance of Ethics"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Ethica in lần đầu trong Opera posthuma (Amsterdam, 1677) sau khi Spinoza mất; soạn khoảng 1661–1675 (Gutenberg). Có thể thêm year_note: 'di cảo, in trong Opera posthuma 1677'."
+  "notes": "Ethica in lần đầu trong Opera posthuma (Amsterdam, 1677) sau khi Spinoza mất; soạn khoảng 1661–1675 (Gutenberg). Có thể thêm year_note: 'di cảo, in trong Opera posthuma 1677'. Kiểm lại 5.1b: year_note mới khớp nguồn."
 }

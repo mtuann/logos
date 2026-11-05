@@ -1,8 +1,8 @@
 {
   "unit": "works/wittgenstein.tractatus-logico-philosophicus",
-  "hash": "sha256:d2249488651f9a0cd4e7d35c7f0ef6ea6652e8e8b1b63c4ec6d5ae19469471aa",
+  "hash": "sha256:f91b23da4a46d0f0d4390fef6d451a423ba112b239346777475b7b1ce9ae83f7",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo20",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Tractatus Logico-Philosophicus",
@@ -44,8 +44,27 @@
           "quote": "Originally published as “Logisch-Philosophische Abhandlung”, in Annalen der Naturphilosophische, XIV (3/4), 1921."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1922; year_note: bản Đức 1921; bản song ngữ mang tên Latin 1922",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "Tractatus Logico-Philosophicus (TLP), 1922, C. K. Ogden (ed.) and F. P. Ramsey (trans.) with Wittgenstein, London: Routledge & Kegan Paul. Originally published as “Logisch-Philosophische Abhandlung”, in Annalen der Naturphilosophische, XIV (3/4), 1921."
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/5740",
+          "quote": "Translator Ogden, C. K. (Charles Kay), 1889-1957 Title Tractatus Logico-Philosophicus"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/5740",
+          "quote": "Language German Language English"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "In tiếng Đức năm 1921 (Annalen der Naturphilosophie, tên 'Logisch-Philosophische Abhandlung'); bản Anh–Đức mang tên Tractatus Logico-Philosophicus in 1922. Năm 1921 đúng; có thể thêm year_note: 'bản Đức 1921, bản song ngữ mang tên Latin 1922'."
+  "notes": "In tiếng Đức năm 1921 (Annalen der Naturphilosophie, tên 'Logisch-Philosophische Abhandlung'); bản Anh–Đức mang tên Tractatus Logico-Philosophicus in 1922. Năm 1921 đúng; có thể thêm year_note: 'bản Đức 1921, bản song ngữ mang tên Latin 1922'. Kiểm lại 5.1b: years_ok và year_note mới khớp nguồn; tính song ngữ của bản Ogden dựa vào danh mục Gutenberg (bản dịch Ogden, ngôn ngữ Đức và Anh)."
 }

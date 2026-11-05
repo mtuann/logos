@@ -1,8 +1,8 @@
 {
   "unit": "works/popper.logik-der-forschung",
-  "hash": "sha256:647c512a2cbe8ece388c07362498148240eff6bbce718f0a0d6f6865ee27c752",
+  "hash": "sha256:264d67dd102a1c57832922fe876ea68b1099c32613df232c797b2824414e0601",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Logik der Forschung",
@@ -41,8 +41,39 @@
           "quote": "PREFACE TO THE FIRST EDITION, 1934"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1935; year_note: in mùa thu 1934, trang tên đề 1935",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/karl-popper-the-logic-of-scientific-discovery/Karl%20Popper%2C%20The%20Logic%20of%20Scientific%20Discovery_djvu.txt",
+          "quote": "The Logic of Scientific Discovery is a translation of Logik der Forschung, published in Vienna in the autumn of 1934",
+          "where": "Translators’ Note"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "1935, Logik der Forschung, Vienna: Julius Springer Verlag."
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1959; year_note: bản tiếng Anh The Logic of Scientific Discovery 1959",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "The Logic of Scientific Discovery, translation by the author of Logik der Forschung (1935)"
+        },
+        {
+          "url": "https://iep.utm.edu/pop-sci/",
+          "quote": "1959. The Logic of Scientific Discovery. London: Hutchinson."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP và IEP ghi 1935 (năm in trên trang tên); bản tiếng Anh The Logic of Scientific Discovery (Lời người dịch) ghi sách ra ở Vienna mùa thu 1934, trang tên đề 1935. Trang người đã ghi đúng điều này. Giữ 1934; đề xuất year_note: 'in mùa thu 1934, trang tên đề 1935'."
+  "notes": "SEP và IEP ghi 1935 (năm in trên trang tên); bản tiếng Anh The Logic of Scientific Discovery (Lời người dịch) ghi sách ra ở Vienna mùa thu 1934, trang tên đề 1935. Trang người đã ghi đúng điều này. Giữ 1934; đề xuất year_note: 'in mùa thu 1934, trang tên đề 1935'. Kiểm lại 5.1b: years_ok và year_note mới khớp nguồn."
 }

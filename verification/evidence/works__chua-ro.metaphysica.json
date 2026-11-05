@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.metaphysica",
-  "hash": "sha256:e6f4ef5788d1a72c667bb46b4c99f12ade96d06afcca2743d33f502eff077cd7",
+  "hash": "sha256:b80fa6982a1ee65ce6dba706b1112c5a8714c97beeed28822dc28da6a3d49ece",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Metaphysica (tên Latin của Metaphysics)",
@@ -40,8 +40,23 @@
           "quote": "In Metaphysics (983 b21) Aristotle stated"
         }
       ]
+    },
+    {
+      "text": "same_as: cùng tác phẩm với aristotle.metaphysica (cùng tên Metaphysica (Metaphysics) của Aristotle); author, year của bản ghi theo bản ghi đích (year null)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-metaphysics/",
+          "quote": "Il Libro Lambda della Metaphysica di Aristotele"
+        },
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "In Metaphysics (983 b21) Aristotle stated"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Aristotle. trung-voi: aristotle.metaphysica. year null: chỉ kiểm tên và tác giả (983b thuộc quyển I, chương 3)."
+  "notes": "attribution: Aristotle. trung-voi: aristotle.metaphysica. year null: chỉ kiểm tên và tác giả (983b thuộc quyển I, chương 3). | Kiểm lại 5.1b: same_as đã kiểm. year null ở cả hai bản ghi: không kiểm năm."
 }

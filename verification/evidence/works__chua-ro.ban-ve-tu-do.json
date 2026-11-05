@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.ban-ve-tu-do",
-  "hash": "sha256:0c42ba7cf5f1f55b67e5393d84ab4ae8e22b76941e986960968787fa7c8a04e8",
+  "hash": "sha256:e2aec24e4c26f74372d9614fe9471a872e4dc7da03648626b2a425109a35de14",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Bàn về tự do (tên dịch Việt của On Liberty)",
@@ -36,8 +36,24 @@
           "quote": "On Liberty (1859)"
         }
       ]
+    },
+    {
+      "text": "same_as: mill.on-liberty — cùng tác phẩm với works/mill.on-liberty",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/phil/article/view/129096",
+          "quote": "được quan tâm nhiều nhất là tác phẩm Bàn về tự do (1859)",
+          "where": "Tạp chí Triết học, bài \"Quan niệm của John Stuart Mill về quyền lực nhà nước\", tóm tắt"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "On Liberty (1859)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: John Stuart Mill\ntrung-voi: mill.on-liberty"
+  "notes": "attribution: John Stuart Mill\ntrung-voi: mill.on-liberty\nKiểm lại 5.1b: same_as mới. Tên Việt \"Bàn về tự do\" gắn với Mill và năm 1859 trong bài trên Tạp chí Triết học (vjol), khớp On Liberty (1859) của SEP. Năm và tác giả theo bản ghi đích works/mill.on-liberty."
 }

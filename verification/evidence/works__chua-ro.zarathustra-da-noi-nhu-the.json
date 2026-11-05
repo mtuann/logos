@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.zarathustra-da-noi-nhu-the",
-  "hash": "sha256:051ddbbde7787db2959a5cb5a6815fb197e128733ae2ab88810894db12597e76",
+  "hash": "sha256:a6cc2d287b9f36fec0e6bcfeefc8cb56e1f7b72f55d5f1fc59522b70d5e23538",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo13",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Zarathustra đã nói như thế (Also sprach Zarathustra; Thus Spoke Zarathustra)",
@@ -36,8 +36,23 @@
           "quote": "Thus Spoke Zarathustra (1883–5)"
         }
       ]
+    },
+    {
+      "text": "same_as: nietzsche.also-sprach-zarathustra — cùng tác phẩm với bản ghi đích (Also sprach Zarathustra, Nietzsche, 1883); năm và tác giả theo bản ghi đích: 'Zarathustra đã nói như thế' dịch sát Also sprach Zarathustra / Thus Spoke Zarathustra",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "Thus Spoke Zarathustra (Also Sprach Zarathustra, bks I-II, 1883"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1998",
+          "quote": "Uniform Title Also sprach Zarathustra. English Title Thus Spake Zarathustra"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Friedrich Nietzsche. trung-voi: nietzsche.also-sprach-zarathustra (cũng trùng chua-ro.thus-spoke-zarathustra). SEP ghi 1883–5; trang lich-su đã ghi 1883–1885. Đề xuất year_note: '1883–1885'."
+  "notes": "attribution: Friedrich Nietzsche. trung-voi: nietzsche.also-sprach-zarathustra (cũng trùng chua-ro.thus-spoke-zarathustra). SEP ghi 1883–5; trang lich-su đã ghi 1883–1885. Đề xuất year_note: '1883–1885'. Kiểm lại 5.1b: same_as nietzsche.also-sprach-zarathustra đúng; tên Việt dịch sát tên Đức/Anh mà IEP ghi cặp đôi."
 }

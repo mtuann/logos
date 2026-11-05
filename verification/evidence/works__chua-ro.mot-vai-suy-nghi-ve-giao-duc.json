@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.mot-vai-suy-nghi-ve-giao-duc",
-  "hash": "sha256:cd86e8edee3dfb2d40570727fd47d530ced1d4155c84f5dc1c3c55eb3307c21c",
+  "hash": "sha256:72a45aea498162cf96da2942669e3156bb820e448a28473cf08e2b436508c296",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Một vài suy nghĩ về giáo dục (tên Việt của Some Thoughts Concerning Education)",
@@ -36,8 +36,19 @@
           "quote": "Some Thoughts Concerning Education was first published in 1693."
         }
       ]
+    },
+    {
+      "text": "same_as: cùng tác phẩm với locke.some-thoughts-concerning-education (\"Một vài suy nghĩ về giáo dục\" là tên Việt của Some Thoughts Concerning Education); author, year của bản ghi theo bản ghi đích (Locke, 1693)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Some Thoughts Concerning Education was first published in 1693."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: John Locke. trung-voi: locke.some-thoughts-concerning-education."
+  "notes": "attribution: John Locke. trung-voi: locke.some-thoughts-concerning-education. | Kiểm lại 5.1b: same_as đã kiểm."
 }

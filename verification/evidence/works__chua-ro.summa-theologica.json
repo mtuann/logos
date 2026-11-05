@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.summa-theologica",
-  "hash": "sha256:a5209859f13ab45514f2b6e2285dbd937f145417194a1e45f13be7e80f30f6da",
+  "hash": "sha256:74206de47db4d440ba49b081294c8e13c77c22de686cc09c1df30394a9413c69",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Summa Theologica (cách viết khác của Summa theologiae)",
@@ -40,8 +40,27 @@
           "quote": "Summa theologiae (1267–73, unfinished after 3a 90)"
         }
       ]
+    },
+    {
+      "text": "same_as: aquinas.summa-theologiae — cùng tác phẩm với aquinas.summa-theologiae (Summa Theologica là cách viết tên của các bản dịch cũ, ví dụ bản Complete American Edition; năm 1265 theo bản ghi đích, khớp IEP: Prima Pars 1265–1268)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/17611",
+          "quote": "Author Thomas, Aquinas, Saint, 1225?-1274 Title Summa Theologica, Part I (Prima Pars)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Summa theologiae (1267–73, unfinished after 3a 90)"
+        },
+        {
+          "url": "https://iep.utm.edu/aquinas/",
+          "quote": "Summa theologiae (Synopsis of Theology) [ST], 1265-1268 (Prima Pars)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Thomas Aquinas. trung-voi: aquinas.summa-theologiae (cùng tác phẩm; 'Theologica' là cách viết của các bản dịch cũ). Nguồn khác nhau về năm khởi soạn: IEP ghi Prima Pars 1265–1268 (khớp 1265, khớp câu 'khoảng 1265–1273, bỏ dở'); SEP ghi 1267–73. Đề xuất year_note: 'soạn khoảng 1265/1267–1273, bỏ dở'."
+  "notes": "attribution: Thomas Aquinas. trung-voi: aquinas.summa-theologiae (cùng tác phẩm; 'Theologica' là cách viết của các bản dịch cũ). Nguồn khác nhau về năm khởi soạn: IEP ghi Prima Pars 1265–1268 (khớp 1265, khớp câu 'khoảng 1265–1273, bỏ dở'); SEP ghi 1267–73. Đề xuất year_note: 'soạn khoảng 1265/1267–1273, bỏ dở'. Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

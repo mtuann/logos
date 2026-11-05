@@ -1,9 +1,20 @@
 {
   "unit": "works/chua-ro.either-or",
-  "hash": "sha256:1d31d6e518687f913aabb0b81de0f6d5fd71937201900d4641753366ea354ea5",
+  "hash": "sha256:60f9f4cf4cbb905d3c875db066b7c9fa376bef4bb24a8de5e694ad1a397cc904",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với kierkegaard.enteneller",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "1843 Either-Or: A Fragment of Life edited by Victor Eremita ( Enten-Eller. Et Livs-Fragment )"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Either/Or (Enten–Eller)",
       "kind": "du-kien",
@@ -39,5 +50,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Søren Kierkegaard. trung-voi: kierkegaard.enteneller."
+  "notes": "attribution: Søren Kierkegaard. trung-voi: kierkegaard.enteneller.\nKiểm lại 5.1b: same_as có claim riêng: SEP ghi tên Anh kèm tên Đan Mạch gốc \"Enten-Eller\". Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

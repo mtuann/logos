@@ -1,8 +1,8 @@
 {
   "unit": "works/augustine.de-trinitate",
-  "hash": "sha256:77e1ef49831e7bbc4e4c704b29265d332a4dcf4bada4d4d5be2ac1500d114339",
+  "hash": "sha256:2098e98bfbb9dc5a7ebff35b5585890892fa0a3157cf3a447c3b84095ac70703",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: De trinitate",
@@ -36,8 +36,19 @@
           "quote": "De trinitate (begun in 399 and completed in 419 or perhaps as late as 426)"
         }
       ]
+    },
+    {
+      "text": "year_note: soạn 399–419 hoặc muộn tới 426",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "De trinitate (begun in 399 and completed in 419 or perhaps as late as 426)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP: khởi 399, xong 419 hoặc muộn tới 426. Đề xuất year_note: 'soạn 399–419/426'."
+  "notes": "Kiểm lại 5.1b: year_note 'soạn 399–419 hoặc muộn tới 426' khớp SEP augustine (mở lại trong phiên)."
 }

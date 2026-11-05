@@ -1,9 +1,20 @@
 {
   "unit": "works/chua-ro.doan-ban-ve-chinh-quyen",
-  "hash": "sha256:10f3a92ac991f4b4dd934551fcb9d3fd368a1630c683ce1f7768e01c9f30bdaf",
+  "hash": "sha256:8e08f2f9bcb005950a206a681eace8fe49c1be2677b088affb919902d92c28fa",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với bentham.a-fragment-on-government",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "in 1776 with the anonymously published A Fragment on Government"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Đoạn bàn về chính quyền (bản dịch tên A Fragment on Government)",
       "kind": "du-kien",
@@ -39,5 +50,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Jeremy Bentham. trung-voi: bentham.a-fragment-on-government. SEP ghi sách in khuyết danh."
+  "notes": "attribution: Jeremy Bentham. trung-voi: bentham.a-fragment-on-government. SEP ghi sách in khuyết danh.\nKiểm lại 5.1b: same_as có claim riêng: \"Đoạn bàn về chính quyền\" là tên dịch của site; trang triết gia Bentham ghi cặp \"A Fragment on Government (1776) — Đoạn bàn về chính quyền\". Không có nguồn ngoài cho tên Việt (tên do site dịch); nguồn ngoài xác nhận tác phẩm gốc và năm 1776 khớp bản ghi đích. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

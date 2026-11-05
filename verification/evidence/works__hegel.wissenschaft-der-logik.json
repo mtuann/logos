@@ -1,8 +1,8 @@
 {
   "unit": "works/hegel.wissenschaft-der-logik",
-  "hash": "sha256:87b973a06846d9bd3c6a00d09c6d6a29e747f05bfdcf2237b0ec3893bc3f9f98",
+  "hash": "sha256:483a71975eacf2d677fcdbf5856a22512d16a227f91410d69c547c3f1fe13827",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo14",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Wissenschaft der Logik",
@@ -40,8 +40,23 @@
           "quote": "published in 1812-16 in two volumes"
         }
       ]
+    },
+    {
+      "text": "year_note: xuất bản 1812–16 thành nhiều phần",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hegelsoc/",
+          "quote": "The Science of Logic (Wissenschaft der Logik), published in 1812-16 in two volumes"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "Science of Logic (1812–18)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1812 là năm phần đầu ra đời. SEP 'Hegel' ghi 1812–18, IEP (Hegel: Social and Political Thought) ghi 1812-16 (nguồn lệch về năm kết thúc, không ảnh hưởng 1812). Đề xuất year_note: 'xuất bản 1812–16 thành nhiều phần'."
+  "notes": "1812 là năm phần đầu ra đời. SEP 'Hegel' ghi 1812–18, IEP (Hegel: Social and Political Thought) ghi 1812-16 (nguồn lệch về năm kết thúc, không ảnh hưởng 1812). Đề xuất year_note: 'xuất bản 1812–16 thành nhiều phần'. Kiểm lại 5.1b: year_note theo IEP (1812-16); SEP 'Hegel' ghi 1812–18 (lệch năm cuối, như lần kiểm đầu đã ghi). Không ảnh hưởng năm chốt 1812; 'nhiều phần' đúng với cả hai nguồn."
 }

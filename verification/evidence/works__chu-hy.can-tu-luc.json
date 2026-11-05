@@ -1,8 +1,8 @@
 {
   "unit": "works/chu-hy.can-tu-luc",
-  "hash": "sha256:28c5256b4a99a8911cd7d229cd2c58a20073515d45009becde39ac9b7ca50f07",
+  "hash": "sha256:090c5e4aeb0b52ddb844cffae85fdcfdfcf9b5f0a74d8f11c09e0744924a82fd",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Cận tư lục (近思錄)",
@@ -29,8 +29,32 @@
           "quote": "Reflections on Things at Hand: The Neo-Confucian Anthology Compiled by Chu Hsi and Lu Tsu-ch’ien"
         }
       ]
+    },
+    {
+      "text": "attribution: Chu Hy cùng Lã Tổ Khiêm (呂祖謙) biên soạn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/zhu-xi/",
+          "quote": "The Neo-Confucian Anthology Compiled by Chu Hsi and Lu Tsu-ch'ien"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%BF%91%E6%80%9D%E9%8C%84",
+          "quote": "近思錄作者：朱熹 呂祖謙"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%BF%91%E6%80%9D%E9%8C%84",
+          "quote": "朱子與呂祖謙同撰",
+          "where": "Tứ khố toàn thư tổng mục đề yếu, đầu trang"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "He debated with Lü Zuqian (1134-1181)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year null: chỉ kiểm tên và tác giả. Lưu ý: Cận tư lục do Chu Hy và Lã Tổ Khiêm (Lü Zuqian) cùng biên soạn (IEP); ghi tác giả Chu Hy là chấp nhận được, có thể ghi chú 'cùng Lã Tổ Khiêm biên soạn'."
+  "notes": "year null: chỉ kiểm tên và tác giả. Lưu ý: Cận tư lục do Chu Hy và Lã Tổ Khiêm (Lü Zuqian) cùng biên soạn (IEP); ghi tác giả Chu Hy là chấp nhận được, có thể ghi chú 'cùng Lã Tổ Khiêm biên soạn'.\nKiểm lại 5.1b: attribution mới có nguồn (IEP, Wikisource 近思錄 ghi 作者：朱熹 呂祖謙, chữ Hán 呂祖謙 khớp)."
 }

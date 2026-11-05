@@ -1,8 +1,8 @@
 {
   "unit": "works/hegel.grundlinien-der-philosophie-des-rechts",
-  "hash": "sha256:2ae0b4cbd58b22891b5492a7b33dfab116daa4d9a2942cc0a01a3fe7c52e4994",
+  "hash": "sha256:3ac991a28e1a33a0485bc38a58af356896cf4f5b6423618ffaa9bf8b69556452",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo14",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Grundlinien der Philosophie des Rechts",
@@ -40,8 +40,33 @@
           "quote": "In 1821, Hegel’s Philosophy of Right orginally appeared under the double title"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1820; year_note: ra cuối 1820, trang tên đề 1821",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "Elements of the Philosophy of Right, effectively an expansion of a section of the Encyclopaedia and published in 1820 after his move to Berlin"
+        },
+        {
+          "url": "http://www.zeno.org/Philosophie/M/Hegel,+Georg+Wilhelm+Friedrich/Grundlinien+der+Philosophie+des+Rechts/Vorrede",
+          "quote": "Berlin, den 25. Juni 1820.",
+          "where": "cuối Lời tựa"
+        },
+        {
+          "url": "https://de.wikisource.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+          "quote": "Grundlinien der Philosophie des Rechts. Nicolai, Berlin 1821",
+          "where": "danh mục bản in đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "The book entitled Elements of the Philosophy of Right, published in 1821 as a textbook"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP có chỗ ghi 'published in 1820 after his move to Berlin' và chỗ khác ghi 'published in 1821'; IEP ghi 1821. Sách ra cuối 1820, trang tên đề 1821 (lời tựa đề ngày 25/6/1820, như trang người đã ghi). Giữ 1821; đề xuất year_note: 'ra cuối 1820, trang tên đề 1821'."
+  "notes": "SEP có chỗ ghi 'published in 1820 after his move to Berlin' và chỗ khác ghi 'published in 1821'; IEP ghi 1821. Sách ra cuối 1820, trang tên đề 1821 (lời tựa đề ngày 25/6/1820, như trang người đã ghi). Giữ 1821; đề xuất year_note: 'ra cuối 1820, trang tên đề 1821'. Kiểm lại 5.1b: years_ok 1820 và year_note đúng về thực chất: SEP ghi sách ra năm 1820 (và chỗ khác 1821), Lời tựa đề ngày 25/6/1820, bản in đầu Nicolai đề 1821 (de.wikisource). Chữ 'cuối' (1820) là suy ra từ ngày Lời tựa, không nguồn nào đã mở nói đúng tháng ra sách; đề xuất nhẹ (không bắt buộc): 'ra năm 1820, trang tên đề 1821'. zeno.org là văn bản gốc (nguồn văn bản)."
 }

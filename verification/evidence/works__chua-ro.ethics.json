@@ -1,9 +1,20 @@
 {
   "unit": "works/chua-ro.ethics",
-  "hash": "sha256:9ee89af5109c6baf2542ae24bfe9bb8caa72d4f615442dd7614686e18b547506",
+  "hash": "sha256:0bc0c2bdd6c7d7998f0728c761f32c4dc00d0b032e14455d9c9a96360858a0e0",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với spinoza.ethica-ordine-geometrico-demonstrata",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3800",
+          "quote": "Uniform Title Ethica. English Title Ethics Alternate Title Ethica Ordine Geometrico Demonstrata"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Ethics (Ethica, ordine geometrico demonstrata)",
       "kind": "du-kien",
@@ -51,5 +62,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Baruch Spinoza. trung-voi: spinoza.ethica-ordine-geometrico-demonstrata. Năm 1677: nguồn đã mở cho biết Spinoza mất năm 1677, bản thảo Ethics chưa in được gửi đi in ngay và ra 'in short order' trong Opera Posthuma (IEP); không trang nào ghi rõ chữ '1677' cạnh tên Opera Posthuma, nhưng khớp với cách trang ghi '1677, xuất bản sau khi mất'."
+  "notes": "attribution: Baruch Spinoza. trung-voi: spinoza.ethica-ordine-geometrico-demonstrata. Năm 1677: nguồn đã mở cho biết Spinoza mất năm 1677, bản thảo Ethics chưa in được gửi đi in ngay và ra 'in short order' trong Opera Posthuma (IEP); không trang nào ghi rõ chữ '1677' cạnh tên Opera Posthuma, nhưng khớp với cách trang ghi '1677, xuất bản sau khi mất'.\nKiểm lại 5.1b: same_as có claim riêng: catalog Gutenberg #3800 (Spinoza, bản dịch Elwes) ghi tên Anh Ethics = Ethica Ordine Geometrico Demonstrata. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

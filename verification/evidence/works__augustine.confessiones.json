@@ -1,8 +1,8 @@
 {
   "unit": "works/augustine.confessiones",
-  "hash": "sha256:64f6dd0d3bb198382e8a7ba11a4f872a49e7e5775dd28ec6679c2212eba2bb9a",
+  "hash": "sha256:5d8f534909e4da86f04d96067a95711c627140168afb236dcc65281da55945fa",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Confessiones",
@@ -36,8 +36,19 @@
           "quote": "The Confessiones (ca. 396–400"
         }
       ]
+    },
+    {
+      "text": "years_ok: 396; year_note: soạn k. 396–400",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "The Confessiones (ca. 396–400; Toom 2020)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi khoảng 396–400; 397 nằm trong khoảng. Đề xuất year_note: 'soạn k. 396–400'."
+  "notes": "Kiểm lại 5.1b: years_ok 396 và year_note 'soạn k. 396–400' khớp SEP augustine (mở lại trong phiên)."
 }

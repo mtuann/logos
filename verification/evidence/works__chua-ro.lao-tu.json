@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.lao-tu",
-  "hash": "sha256:3b742ab0a9293268d943da7a16e403e4db261464287ca22277279d151b990ac5",
+  "hash": "sha256:e714f088374cf41f2205e5ab6b99835b7fac5f04b5a864172873b5bfb4da0d1e",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Lão Tử (văn bản Laozi / Daodejing)",
@@ -40,8 +40,23 @@
           "quote": "There is little consensus among scholars, however, on the date or authorship of the Laozi"
         }
       ]
+    },
+    {
+      "text": "same_as: cùng tác phẩm với lao-tu.lao-tu (cùng văn bản Lão Tử / Laozi; bản ghi này chỉ thêm author_name Vương Bật là người chú giải bản lưu hành); author, year của bản ghi theo bản ghi đích (tác giả truyền thống Lão Tử, year null)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "which has come to be called simply the Laozi, after its putative author"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "the received text of Wang Bi (226–249 C.E.) and Heshang Gong"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Lão Tử (tác giả truyền thống; Vương Bật là người chú giải bản lưu hành, không phải tác giả). trung-voi: lao-tu.lao-tu (cùng văn bản; bản ghi này là dòng \"Vương Bật chú giải Lão Tử\" trong danh mục nguồn của people/lao-tu, có thể giữ riêng nếu muốn tách bản chú giải). year null: chỉ kiểm tên và tác giả."
+  "notes": "attribution: Lão Tử (tác giả truyền thống; Vương Bật là người chú giải bản lưu hành, không phải tác giả). trung-voi: lao-tu.lao-tu (cùng văn bản; bản ghi này là dòng \"Vương Bật chú giải Lão Tử\" trong danh mục nguồn của people/lao-tu, có thể giữ riêng nếu muốn tách bản chú giải). year null: chỉ kiểm tên và tác giả. | Kiểm lại 5.1b: same_as đã kiểm. year null ở cả hai bản ghi: không kiểm năm."
 }

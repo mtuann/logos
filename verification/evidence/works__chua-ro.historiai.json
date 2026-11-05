@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.historiai",
-  "hash": "sha256:425091745ee37bee071991afe6ced65bb4d27944fcaa64eb6833a0a30fa0b152",
+  "hash": "sha256:22d8f37905f9084ce1350105c85459100fe56ab510fbb6e7b8482d8d9d26f519",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Historiai (chuyển tự tên Hy Lạp; tiếng Anh: The Histories / The History)",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "text": "tác giả: Herodotus (author_name)",
+      "text": "attribution / tác giả: Herodotus",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -37,5 +37,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Herodotus. year null, years_seen rỗng: chỉ kiểm tên và tác giả. Bản dịch Macaulay trên Gutenberg #2707 dựng theo ấn bản 1890 ('prepared from an edition dated 1890'), khớp ghi chú '(1890)' ở people/thales; I.74 (nhật thực Thales báo trước) và I.75 (Thales cho quân Croesus qua sông Halys) có đúng chỗ. Nguồn đã mở ghi tên Anh 'The Histories'/'The History'; tên chuyển tự 'Historiai' không xuất hiện nguyên chữ trên trang đã mở, nhưng là chuyển tự chuẩn của tên Hy Lạp. Không trùng khóa nào khác trong works.yml."
+  "notes": "attribution: Herodotus. year null, years_seen rỗng: chỉ kiểm tên và tác giả. Bản dịch Macaulay trên Gutenberg #2707 dựng theo ấn bản 1890 ('prepared from an edition dated 1890'), khớp ghi chú '(1890)' ở people/thales; I.74 (nhật thực Thales báo trước) và I.75 (Thales cho quân Croesus qua sông Halys) có đúng chỗ. Nguồn đã mở ghi tên Anh 'The Histories'/'The History'; tên chuyển tự 'Historiai' không xuất hiện nguyên chữ trên trang đã mở, nhưng là chuyển tự chuẩn của tên Hy Lạp. Không trùng khóa nào khác trong works.yml.\nKiểm lại 5.1b: trường attribution mới khớp claim tác giả; mở lại mọi URL cũ, mọi quote còn trên trang. year null, không có year_fixed."
 }

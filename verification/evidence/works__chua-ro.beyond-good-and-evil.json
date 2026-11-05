@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.beyond-good-and-evil",
-  "hash": "sha256:9e5062f4e63a2dbadfa1ac25feed7eb9c725d1cf6960ace1cd90239c93463b3b",
+  "hash": "sha256:e918ac28f4e987a2bec8c9b74413570f3123baa992bd7e31970a8d13d753047b",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Beyond Good and Evil (tên dịch Anh của Jenseits von Gut und Böse)",
@@ -36,8 +36,19 @@
           "quote": "Beyond Good and Evil (1886)"
         }
       ]
+    },
+    {
+      "text": "same_as: nietzsche.jenseits-von-gut-und-bose — cùng tác phẩm với works/nietzsche.jenseits-von-gut-und-bose",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "Beyond Good and Evil (1886)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Friedrich Nietzsche\ntrung-voi: nietzsche.jenseits-von-gut-und-bose"
+  "notes": "attribution: Friedrich Nietzsche\ntrung-voi: nietzsche.jenseits-von-gut-und-bose\nKiểm lại 5.1b: same_as mới. SEP nietzsche dùng tên Anh \"Beyond Good and Evil (1886)\" cho tác phẩm năm 1886, trùng năm bản ghi đích Jenseits von Gut und Böse. Năm và tác giả theo bản ghi đích works/nietzsche.jenseits-von-gut-und-bose."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/averroes.tahafut-al-tahafut",
-  "hash": "sha256:88ffeeba2487b89f76bc0b8e7e5bc222ecb96ab9a7dd1861552ef5856ce59e61",
+  "hash": "sha256:4bef7cbfecda0d473fa5893f3804f857532bfde50deda857a183ebdf182e057d",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "titles: Tahafut al-Tahafut",
@@ -41,8 +41,20 @@
           "where": "Bibliography"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1181; year_note: soạn khoảng 1180/81",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "The Incoherence of the Incoherence (Tahāfut al-Tahāfut) (1180/81)",
+          "where": "Bibliography"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi năm soạn 1180/81; 1180 chấp nhận được. Có thể thêm year_note: 'soạn khoảng 1180/81'."
+  "notes": "Kiểm lại 5.1b: years_ok 1181 và year_note 'soạn khoảng 1180/81' khớp SEP ibn-rushd (mở lại trong phiên)."
 }

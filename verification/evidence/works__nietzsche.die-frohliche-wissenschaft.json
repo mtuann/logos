@@ -1,8 +1,8 @@
 {
   "unit": "works/nietzsche.die-frohliche-wissenschaft",
-  "hash": "sha256:7433ad76402763834c6fd4db4dbc34d62c936f20c82003217a35865c4e08c7db",
+  "hash": "sha256:b3f91445c08c55b5088d75ad349551e77fce353881539be73227a2e9c1607db5",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo17",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Die fröhliche Wissenschaft",
@@ -40,8 +40,19 @@
           "quote": "The Gay Science (Die fröliche Wissenschaft, 1882"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1887; year_note: bản mở rộng 1887",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "The Gay Science (1882, second expanded edition 1887)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Bản mở rộng lần hai 1887 (thêm quyển V). Có thể thêm year_note: \"bản mở rộng 1887\". IEP viết \"fröliche\" (thiếu h, lỗi in của IEP); cách viết của site \"fröhliche\" là chuẩn."
+  "notes": "Bản mở rộng lần hai 1887 (thêm quyển V). Có thể thêm year_note: \"bản mở rộng 1887\". IEP viết \"fröliche\" (thiếu h, lỗi in của IEP); cách viết của site \"fröhliche\" là chuẩn. | Kiểm lại 5.1b: years_ok và year_note khớp SEP nietzsche. IEP viết \"fröliche\" (lỗi in của IEP); \"fröhliche\" là chuẩn."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/popper.the-poverty-of-historicism",
-  "hash": "sha256:2ded74b1219ae97790bf5d5887151de8198b664f38d42ef3a20c07f2fcb0535a",
+  "hash": "sha256:49f9444b83b9becd6028209e34fd3b203eccc89485aadddadb791bf01f45f78d",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: The Poverty of Historicism",
@@ -40,8 +40,23 @@
           "quote": "The Poverty of Historicism (1957)"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1944, 1945; year_note: ba bài trên Economica 1944–45, in thành sách 1957",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pop-sci/",
+          "quote": "Originally published as a series of three articles in Economica 42, 43, and 46 (1944-1945)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "1957, The Poverty of Historicism, London: Routledge. Revised version of Popper 1944–5."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Bản đầu là ba bài trên Economica 1944–45; sách 1957. Đề xuất year_note: 'đăng thành ba bài trên Economica 1944–45, in thành sách 1957'."
+  "notes": "Bản đầu là ba bài trên Economica 1944–45; sách 1957. Đề xuất year_note: 'đăng thành ba bài trên Economica 1944–45, in thành sách 1957'. Kiểm lại 5.1b: years_ok và year_note mới khớp nguồn."
 }

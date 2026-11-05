@@ -1,8 +1,8 @@
 {
   "unit": "works/husserl.logische-untersuchungen",
-  "hash": "sha256:f65913832c6748391eb7437b451d92133ce6766049e3b34cd6d63421b0231099",
+  "hash": "sha256:46d784fbf12a80c4f58cecf17fd275b10810650ee77f0cb5f539f3a7f91858c7",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Logische Untersuchungen",
@@ -36,8 +36,38 @@
           "quote": "Logical Investigations (1900–01)"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1901; year_note: tập I 1900, tập II 1901",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/husserl/",
+          "quote": "The two volumes of Logische Untersuchungen came out in 1900 and 1901"
+        },
+        {
+          "url": "https://iep.utm.edu/husserl/",
+          "quote": "Logische Untersuchungen. Erste Teil: Prolegomena zur reinen Logik, 1900; reprinted 1913. Logische Untersuchungen. Zweite Teil: Untersuchungen zur Phänomenologie und Theorie der Erkenntnis, 1901"
+        }
+      ]
+    },
+    {
+      "text": "year_note: bản sửa 1913",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "By the time of the second edition of Logical Investigations (1913)"
+        },
+        {
+          "url": "https://iep.utm.edu/husserl/",
+          "quote": "1901; second edition 1913 (for part one); second edition 1921 (for part two)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: tập I (Prolegomena) năm 1900, tập II năm 1901 (SEP ghi 1900–01); bản sửa lần 2 năm 1913. Câu trích ở people/husserl dẫn tập II (1901) là nhất quán."
+  "notes": "year_note: tập I (Prolegomena) năm 1900, tập II năm 1901 (SEP ghi 1900–01); bản sửa lần 2 năm 1913. Câu trích ở people/husserl dẫn tập II (1901) là nhất quán. | Kiểm lại 5.1b: years_ok 1901 và year_note khớp IEP husserl và SEP husserl. Lưu ý (không phải lỗi): theo IEP, năm 1913 là bản 2 của tập I và phần đầu tập II; phần hai tập II tái bản 1921. \"bản sửa 1913\" là cách nói gọn chấp nhận được."
 }

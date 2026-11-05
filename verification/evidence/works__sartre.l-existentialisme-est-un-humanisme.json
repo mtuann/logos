@@ -1,8 +1,8 @@
 {
   "unit": "works/sartre.l-existentialisme-est-un-humanisme",
-  "hash": "sha256:1e79211322f564e61fdaa39b1a6e1ed60fd43c1410b1082c3b9639696cd47698",
+  "hash": "sha256:82d8b36397973b6363f718b8629d559831838f33c52276ab51a53d31a5cfc4d3",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: L'existentialisme est un humanisme",
@@ -51,8 +51,23 @@
           "quote": "Existentialism and Humanism in 1946"
         }
       ]
+    },
+    {
+      "text": "year: 1946; year_fixed: 1946; years_ok: 1945; year_note: bài giảng cuối năm 1945, in 1946",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sartre/",
+          "quote": "his public lecture, Existentialism is a Humanism, towards the end of 1945"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sartre/",
+          "quote": "1946a [2007], L’existentialisme est un humanisme, (Collection Pensées), Paris: Nagel."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year đang null. Hai năm trong years_seen đều đúng nhưng chỉ hai việc khác nhau: 1945 là năm bài giảng (SEP: cuối năm 1945), 1946 là năm in thành sách (Nagel, Paris). Đề xuất year: 1946, year_note: 'bài giảng cuối năm 1945, in 1946'."
+  "notes": "Kiểm lại 5.1b: year đã đặt 1946 (năm in, Nagel), 1945 (năm bài giảng) thành years_ok, đúng đề xuất lần kiểm đầu."
 }

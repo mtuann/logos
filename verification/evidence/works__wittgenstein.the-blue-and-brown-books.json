@@ -1,8 +1,8 @@
 {
   "unit": "works/wittgenstein.the-blue-and-brown-books",
-  "hash": "sha256:421280408abb8ea094cee3a7e0be74583810522d92d990c0e14df701e89549e7",
+  "hash": "sha256:3d0cd31fe25308ff21a3a53ef9fcca8128c9d7614573a917998a39dcc6c84a47",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo20",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: The Blue and Brown Books",
@@ -44,8 +44,29 @@
           "quote": "The Blue and Brown Books (BB), 1958, Oxford: Blackwell."
         }
       ]
+    },
+    {
+      "text": "year_note: đọc chép 1933–35, in 1958",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/wittgenstein-the-blue-and-brown-books-2015.188382.-2-200/Wittgenstein_The-Blue-And-Brown-Books_2015.188382.-2-200_djvu.txt",
+          "quote": "He dictated the “Brown Book” to two of his pupils (Francis Skinner and Alice Ambrose) during 1934-35",
+          "where": "Preface (Rush Rhees), bản OCR"
+        },
+        {
+          "url": "https://archive.org/download/wittgenstein-the-blue-and-brown-books-2015.188382.-2-200/Wittgenstein_The-Blue-And-Brown-Books_2015.188382.-2-200_djvu.txt",
+          "quote": "to his class in Cambridge during the session 193 3-34",
+          "where": "Preface (Rush Rhees), bản OCR; \"193 3-34\" là lỗi OCR của 1933-34"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "The Blue and Brown Books (BB), 1958, Oxford: Blackwell."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP: xuất bản 1958 (Oxford: Blackwell); SEP cũng ghi thời kỳ Blue and Brown Books là 1933–35; mục tác phẩm chính của IEP dẫn bản in 1969 (bản sau). Năm 1958 là năm công bố đầu tiên: đúng. Có thể thêm year_note: 'đọc chép 1933–35, in 1958'."
+  "notes": "SEP: xuất bản 1958 (Oxford: Blackwell); SEP cũng ghi thời kỳ Blue and Brown Books là 1933–35; mục tác phẩm chính của IEP dẫn bản in 1969 (bản sau). Năm 1958 là năm công bố đầu tiên: đúng. Có thể thêm year_note: 'đọc chép 1933–35, in 1958'. Kiểm lại 5.1b: year_note mới khớp nguồn (lời tựa Rush Rhees: Blue Book đọc cho lớp ở Cambridge 1933–34, Brown Book đọc cho hai học trò 1934–35)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.the-case-for-animal-rights",
-  "hash": "sha256:d115a93a427c387c4f790ef94cc1d7254023003e434da687bd5136a16396af19",
+  "hash": "sha256:6fe81f18926b34e24a5d02e0b66a256a6c17695711e7e032ed8fc561c1483ff9",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: The Case for Animal Rights",
@@ -36,8 +36,23 @@
           "quote": "Regan, T., 1983. The Case for Animal Rights, London: Routledge and Kegan Paul."
         }
       ]
+    },
+    {
+      "text": "attribution: Tom Regan",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-environmental/",
+          "quote": "“animal rights” advocate Tom Regan (1983)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-environmental/",
+          "quote": "Regan, T., 1983. The Case for Animal Rights, London: Routledge and Kegan Paul."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Tom Regan. Không trùng khóa nào khác trong data/kb/works.yml. (Năm 1985 Regan có bài cùng tên trong In Defence of Animals, khác với sách 1983.)"
+  "notes": "attribution: Tom Regan. Không trùng khóa nào khác trong data/kb/works.yml. (Năm 1985 Regan có bài cùng tên trong In Defence of Animals, khác với sách 1983.) Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

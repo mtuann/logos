@@ -1,8 +1,8 @@
 {
   "unit": "works/spinoza.tractatus-politicus",
-  "hash": "sha256:4d9a6e4841631b440cfe272820c0aeb316456eb57f24e7e4ec93d08150743bd0",
+  "hash": "sha256:9ce97ae2f61b9501b8d53901f02b09157ed9d55840d3ac0c2ee454363f30cda2",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Tractatus politicus",
@@ -45,11 +45,26 @@
         },
         {
           "url": "https://archive.org/metadata/ned-kbn-all-00004303-001/metadata",
-          "quote": "\"imprint\": \"[Amsterdam,]: [J. Rieuwertsz.], 1677\""
+          "quote": "\"imprint\":\"[Amsterdam,]: [J. Rieuwertsz.], 1677\""
+        }
+      ]
+    },
+    {
+      "text": "year_note: di cảo, dang dở; in 1677",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "When Spinoza died in 1677, in The Hague, he was still at work on his Political Treatise"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza-political/",
+          "quote": "The publication of the unfinished TP in Spinoza’s posthumous Opera"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Tác phẩm dang dở, in sau khi ông mất trong Opera posthuma (1677). Có thể thêm year_note: 'di cảo, dang dở; in 1677'."
+  "notes": "Tác phẩm dang dở, in sau khi ông mất trong Opera posthuma (1677). Có thể thêm year_note: 'di cảo, dang dở; in 1677'. Kiểm lại 5.1b: year_note mới khớp nguồn."
 }

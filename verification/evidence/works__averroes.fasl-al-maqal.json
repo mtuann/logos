@@ -1,8 +1,8 @@
 {
   "unit": "works/averroes.fasl-al-maqal",
-  "hash": "sha256:9733071f88d735cba4a9f8aa46c657006bf9dd2879b5cffeb1fbc28bb03320a2",
+  "hash": "sha256:8acc1876e1d611fd87dbf05fbbc1e8592b084cf96cf3de1e3647cc335bf04219",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Fasl al-Maqal (Faṣl al-Maqāl; The Decisive Treatise)",
@@ -36,8 +36,20 @@
           "quote": "Decisive Treatise (Faṣl al-maqāl) (1178/9)"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1179; year_note: 1178/9 (năm Hijri vắt hai năm dương lịch)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Decisive Treatise (Faṣl al-maqāl) (1178/9)",
+          "where": "Bibliography"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi 1178/9 (năm Hijri vắt qua hai năm dương lịch). Đề xuất year_note: '1178/9'."
+  "notes": "Kiểm lại 5.1b: years_ok 1179 và year_note '1178/9' khớp SEP ibn-rushd (mở lại trong phiên). Phần giải thích 'năm Hijri vắt hai năm dương lịch' là diễn giải của người làm, SEP không nói thẳng; hợp lý với cách ghi 1178/9, không xếp lỗi."
 }

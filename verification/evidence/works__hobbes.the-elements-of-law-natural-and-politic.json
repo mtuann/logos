@@ -1,8 +1,8 @@
 {
   "unit": "works/hobbes.the-elements-of-law-natural-and-politic",
-  "hash": "sha256:d68adb246f30b139ba65d8e4c459de776e26155f213790afacd36b798b290a1e",
+  "hash": "sha256:97894dca0e090cc29b80ee6fcf735d8d0ee13a0323620388da46c5c56bd66abc",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "titles: The Elements of Law, Natural and Politic",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "text": "year: 1640 (people/hobbes)",
+      "text": "years_ok: 1640 (trước là year; people/hobbes)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -40,8 +40,34 @@
           "quote": "(also under the titles Human Nature and De Corpore Politico) published in 1650"
         }
       ]
+    },
+    {
+      "text": "year / year_fixed: 1650 — năm in lần đầu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/",
+          "quote": "The Elements of Law, Natural and Politic (also under the titles Human Nature and De Corpore Politico) published in 1650"
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1640; year_note: lưu hành bản chép tay 1640; in lần đầu 1650",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes/",
+          "quote": "The Elements of Law, which Hobbes circulated in 1640"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/",
+          "quote": "published in 1650"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: lưu hành bản chép tay năm 1640; in lần đầu năm 1650 (thành hai phần Human Nature và De Corpore Politico). Năm 1640 hợp lệ."
+  "notes": "year_note: lưu hành bản chép tay năm 1640; in lần đầu năm 1650 (thành hai phần Human Nature và De Corpore Politico). Năm 1640 hợp lệ. Kiểm lại 5.1b: year đổi từ 1640 sang 1650 (year_fixed), 1640 chuyển sang years_ok; cả hai có nguồn SEP. Claim cũ 'year: 1640' giữ, đổi chữ thành years_ok."
 }

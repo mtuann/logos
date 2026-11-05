@@ -1,8 +1,8 @@
 {
   "unit": "works/khong-tu.luan-ngu",
-  "hash": "sha256:de6cbc06ab1d91e1df1f9288aeca16cdc219cbe9ea4b73c35788e42054ea25a2",
+  "hash": "sha256:4c4fdee53ecdefb965ee39b974c254c980e0b8fd9e68044206f1d6d0ed215611",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Luận ngữ (論語; Analects / Lunyu)",
@@ -29,8 +29,23 @@
           "quote": "the compilers of the Analects themselves, who worked gradually from the time of Confucius’ death until sometime during the former Han dynasty"
         }
       ]
+    },
+    {
+      "text": "attribution: lời Khổng Tử và học trò, do các thế hệ học trò biên soạn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "describes the work as having been compiled by first and second generation disciples of Confucius"
+        },
+        {
+          "url": "https://iep.utm.edu/confucius/",
+          "quote": "the compilers of the Analects themselves, who worked gradually from the time of Confucius’ death until sometime during the former Han dynasty"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. attribution (đề xuất, không bắt buộc): lời Khổng Tử và học trò, do các thế hệ học trò biên soạn — khớp note ở people/khong-tu. Không coi là sai vì sách là lời của ông."
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. attribution (đề xuất, không bắt buộc): lời Khổng Tử và học trò, do các thế hệ học trò biên soạn — khớp note ở people/khong-tu. Không coi là sai vì sách là lời của ông. | Kiểm lại 5.1b: attribution mới khớp SEP confucius và IEP confucius."
 }

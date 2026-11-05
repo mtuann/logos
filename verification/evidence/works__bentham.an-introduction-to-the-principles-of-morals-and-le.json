@@ -1,8 +1,8 @@
 {
   "unit": "works/bentham.an-introduction-to-the-principles-of-morals-and-le",
-  "hash": "sha256:c0a8fc233df4a9586985750302edfff54efeb56baca8f3b0c13d474152c44df3",
+  "hash": "sha256:def89b8eb8d83e6bd3c66b59a52719b212746481a3ddb5cc14325acf3b5de039",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: An Introduction to the Principles of Morals and Legislation",
@@ -40,8 +40,23 @@
           "quote": "Introduction to the Principles of Morals and Legislation (1789)"
         }
       ]
+    },
+    {
+      "text": "year_fixed: 1789 (năm công bố lần đầu); years_ok: 1780; year_note: \"in 1780, xuất bản (có bổ sung) 1789\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "(printed 1780, published with additions 1789)"
+        },
+        {
+          "url": "https://iep.utm.edu/bentham/",
+          "quote": "Introduction to the Principles of Morals and Legislation (1789)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP: in năm 1780, xuất bản (có bổ sung) năm 1789; IEP ghi 1789. Năm 1780 đúng là năm in, nhưng năm công bố chính thức là 1789. Đề xuất year_note: 'in 1780, xuất bản 1789'. Chủ biên có thể cân nhắc đổi year thành 1789 theo quy ước 'năm công bố lần đầu'."
+  "notes": "SEP: in năm 1780, xuất bản (có bổ sung) năm 1789; IEP ghi 1789. Năm 1780 đúng là năm in, nhưng năm công bố chính thức là 1789. Đề xuất year_note: 'in 1780, xuất bản 1789'. Chủ biên có thể cân nhắc đổi year thành 1789 theo quy ước 'năm công bố lần đầu'.\nKiểm lại 5.1b: year đổi thành 1789 = year_fixed (năm xuất bản chính thức); 1780 (năm in) nằm trong years_ok; year_note đúng như SEP. Claim cũ \"year: 1780\" giữ làm căn cứ cho years_ok."
 }

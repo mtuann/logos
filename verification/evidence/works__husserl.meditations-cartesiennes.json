@@ -1,8 +1,8 @@
 {
   "unit": "works/husserl.meditations-cartesiennes",
-  "hash": "sha256:fe5fbc957526df29f815820804923d85da6c707557698a7f2302744f9240fc48",
+  "hash": "sha256:7b4a64fe0f35d1e420f676ebb4b5a65fcccb3054640c6b721857c7c97af60bef",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Méditations cartésiennes (tên bản tiếng Pháp in lần đầu; bản Đức: Cartesianische Meditationen)",
@@ -36,8 +36,49 @@
           "quote": "published as Cartesian Meditations in 1931"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1929; year_note: từ bài giảng ở Paris 1929",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/levinas/",
+          "quote": "Based on 2 lectures delivered at the Sorbonne in 1929"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "Shortly after his retirement, Husserl was invited to Paris to give a series of lectures meant to introduce a French audience to the basic ideas of phenomenology"
+        }
+      ]
+    },
+    {
+      "text": "year_note: bản Pháp 1931",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "published as Cartesian Meditations in 1931"
+        },
+        {
+          "url": "https://iep.utm.edu/husserl/",
+          "quote": "Mèditations cartèsiennes, 1931"
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1950; year_note: bản Đức trong Husserliana 1 (1950)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "Husserliana 1: Cartesianische Meditationen und Pariser Vorträge, Stephan Strasser (ed.), The Hague: Martinus Nijhoff, 1950"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: dựa trên bài giảng ở Paris năm 1929; bản dịch Pháp của Levinas và Peiffer in năm 1931; bản tiếng Đức in trong Husserliana 1 (1950)."
+  "notes": "year_note: dựa trên bài giảng ở Paris năm 1929; bản dịch Pháp của Levinas và Peiffer in năm 1931; bản tiếng Đức in trong Husserliana 1 (1950). | Kiểm lại 5.1b: years_ok 1929, 1950 và year_note khớp SEP husserl, SEP levinas (thư mục: bài giảng ở Sorbonne 1929), IEP husserl."
 }

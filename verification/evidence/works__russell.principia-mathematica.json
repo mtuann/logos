@@ -1,8 +1,8 @@
 {
   "unit": "works/russell.principia-mathematica",
-  "hash": "sha256:bc88f76e1ae7803ab9f282a48df9d390b921e11ea8272c8748c639f55e117c6f",
+  "hash": "sha256:9ac421528474e3a894e8a51246d62e0908c9ae7195b7d33ec2f3264f8bc84f15",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Principia Mathematica",
@@ -44,8 +44,34 @@
           "quote": "1910-1913. Principia Mathematica, with Alfred Nort"
         }
       ]
+    },
+    {
+      "text": "attribution: Alfred North Whitehead và Bertrand Russell",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/principia-mathematica/",
+          "quote": "the landmark work in formal logic written by Alfred North Whitehead and Bertrand Russell"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/russell/",
+          "quote": "the three-volume work he co-authored with Alfred North Whitehead"
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1912, 1913; year_note: ba tập, 1910–1913",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/principia-mathematica/",
+          "quote": "which was not to be published until 1910 (Volume I), 1912 (Volume II) and 1913 (Volume III)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1910 là năm tập I; ba tập in 1910, 1912, 1913. Đề xuất year_note: 'ba tập, 1910–1913'. Tác phẩm do Whitehead và Russell đồng tác giả; bản ghi chỉ có author: russell. Đề xuất thêm ghi chú attribution: 'Alfred North Whitehead và Bertrand Russell' (các câu văn nơi dùng đã nhắc Whitehead)."
+  "notes": "1910 là năm tập I; ba tập in 1910, 1912, 1913. Đề xuất year_note: 'ba tập, 1910–1913'. Tác phẩm do Whitehead và Russell đồng tác giả; bản ghi chỉ có author: russell. Đề xuất thêm ghi chú attribution: 'Alfred North Whitehead và Bertrand Russell' (các câu văn nơi dùng đã nhắc Whitehead). Kiểm lại 5.1b: attribution, years_ok, year_note mới khớp nguồn."
 }

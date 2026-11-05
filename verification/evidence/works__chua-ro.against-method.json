@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.against-method",
-  "hash": "sha256:3ad31e912e128e1df4a136cb505a34553cd0c3d1b6555f42abbc504b2a59e0cb",
+  "hash": "sha256:5fe604692c3c0b6fb9d0feb85ca2fe693bff2b271af6ea01ad7797b0164e5977",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Against Method",
@@ -36,8 +36,19 @@
           "quote": "Against Method: Outline of an Anarchist Theory of Knowledge (1975, 1988, 1993)"
         }
       ]
+    },
+    {
+      "text": "attribution: Paul Feyerabend",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feyerabend/",
+          "quote": "His most famous work, Against Method"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Paul Feyerabend. Không trùng khóa nào khác trong data/kb/works.yml. 1988 và 1993 là các bản sửa."
+  "notes": "attribution: Paul Feyerabend. Không trùng khóa nào khác trong data/kb/works.yml. 1988 và 1993 là các bản sửa.\nKiểm lại 5.1b: trường attribution mới (\"Paul Feyerabend\") khớp claim tác giả cũ; mở lại nguồn trong phiên này."
 }

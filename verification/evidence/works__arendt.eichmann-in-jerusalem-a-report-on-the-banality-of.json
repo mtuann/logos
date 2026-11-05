@@ -1,8 +1,8 @@
 {
   "unit": "works/arendt.eichmann-in-jerusalem-a-report-on-the-banality-of",
-  "hash": "sha256:b7c49e5dc34d7703ef28076314b8d84069a89e934b7eea30a9526b49ae4d5f48",
+  "hash": "sha256:6d2ca1311550aad03b87740f7993e873b2041cca7f85eaa8961aa8b5b612ac6f",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Eichmann in Jerusalem: A Report on the Banality of Evil",
@@ -36,8 +36,19 @@
           "quote": "Eichmann in Jerusalem: A Report on the Banality of Evil. New York: Viking Press, 1963."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1965; year_note: bản sửa và mở rộng 1965",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arendt/",
+          "quote": "New York: Viking Press, 1963. Revised and enlarged edition, 1965."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi bản sửa và mở rộng năm 1965; năm xuất bản đầu 1963."
+  "notes": "Kiểm lại 5.1b: years_ok 1965 và year_note 'bản sửa và mở rộng 1965' khớp SEP arendt (mở lại trong phiên); year 1963 là năm in đầu."
 }

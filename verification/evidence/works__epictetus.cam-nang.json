@@ -1,8 +1,8 @@
 {
   "unit": "works/epictetus.cam-nang",
-  "hash": "sha256:1ea83c7904e4b8caf7616ba25ac554a6c0ce2a64634bb705572cd00b55104380",
+  "hash": "sha256:ce9a89685ad400b73b451081bc267d1a74f4bbf6a711ff3d273771443d21a56f",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo14",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Cẩm nang (Encheiridion; tiếng Anh Manual/Handbook)",
@@ -25,8 +25,23 @@
           "quote": "Our knowledge of his philosophy and his method as a teacher comes to us via two works composed by his student Arrian, the Discourses and the Handbook."
         }
       ]
+    },
+    {
+      "text": "attribution: Arrian ghi lại lời dạy của Epictetus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/epictetu/",
+          "quote": "Our knowledge of his philosophy and his method as a teacher comes to us via two works composed by his student Arrian, the Discourses and the Handbook."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epictetus/",
+          "quote": "The shorter Encheiridion (titled in English either Manual or Handbook) is a brief abridgment of the Discourses."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Encheiridion do Arrian soạn (tóm lược Diễn từ) để truyền lời dạy của Epictetus; ghi tác giả Epictetus là cách quy ước, có thể thêm ghi chú 'Arrian ghi lại'. 'Cẩm nang' là tên dịch hợp lý của Encheiridion/Handbook. Không có năm để kiểm."
+  "notes": "Encheiridion do Arrian soạn (tóm lược Diễn từ) để truyền lời dạy của Epictetus; ghi tác giả Epictetus là cách quy ước, có thể thêm ghi chú 'Arrian ghi lại'. 'Cẩm nang' là tên dịch hợp lý của Encheiridion/Handbook. Không có năm để kiểm. Kiểm lại 5.1b: attribution đúng (IEP: Handbook do học trò Arrian soạn; SEP: Encheiridion là bản tóm lược Diễn từ, vốn do Arrian ghi)."
 }
