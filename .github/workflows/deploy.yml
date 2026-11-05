@@ -118,10 +118,8 @@ jobs:
           key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
       - name: Cài Chromium cho Playwright
         run: npx playwright install --with-deps chromium
-      - name: axe trên trình duyệt thật (đo, chưa chặn tới việc 4.3)
-        run: |
-          AXE_REPORT=1 npm run test:real
-          sed -n '1,20p' verification/giao-dien/axe.md >> "$GITHUB_STEP_SUMMARY"
+      - name: axe trên trình duyệt thật (chặn từ đợt 4.3; 10 trang mẫu × 2 cỡ × sáng/tối)
+        run: npm run test:real
       - name: Ảnh chụp 10 trang mẫu
         run: npm run anh
       - uses: actions/upload-artifact@v7

@@ -20,6 +20,7 @@
   --md-accent-fg-color--transparent: rgba(163, 64, 28, 0.1);
   --md-typeset-a-color: var(--oz-accent);
   --md-default-bg-color: var(--oz-paper);
+  --md-default-fg-color--light: rgba(0, 0, 0, 0.6);   /* Material: 0.54 — chưa đủ 4,5:1 trên nền ô (đợt 4.3) */
   --md-text-font: "Be Vietnam Pro", "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif;
   --md-code-font: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   --oz-serif: "Noto Serif", "Source Serif Pro", Georgia, "Times New Roman", serif;
@@ -613,4 +614,33 @@ body {
   font-size: 0.82em;
   color: var(--md-default-fg-color--light);
   margin-top: 0.5em;
+}
+
+/* ---------- Khả năng tiếp cận (đợt 4, việc 4.3; đo bằng tests/real/axe.test.js) ---------- */
+/* Material làm mờ <small> (opacity .75): chữ phụ và link trong đó tụt dưới 4,5:1. */
+.md-typeset small {
+  opacity: 1;
+}
+/* Link trong bài không chỉ khác chữ thường bằng màu (WCAG 1.4.1): gạch chân. */
+.md-typeset a:not(.md-button):not(.headerlink):not(.md-tag):not(.footnote-ref):not(.footnote-backref) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+.md-typeset a:not(.md-button):hover {
+  text-decoration-thickness: 2px;
+}
+/* Vùng chạm ≥ 24 px (WCAG 2.5.8) cho mục menu trái. */
+.md-nav__link {
+  min-height: 24px;
+  align-items: center;
+}
+
+/* Tiêu đề nhóm dính (sticky) che một phần mục menu đang cuộn qua bên dưới: vùng chạm còn 6–15 px (axe target-size).
+   Trên màn rộng, menu trái không cần tiêu đề dính; trên điện thoại md-nav__title là đầu ngăn kéo, giữ nguyên. */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__title,
+  .md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+    position: static;
+  }
 }

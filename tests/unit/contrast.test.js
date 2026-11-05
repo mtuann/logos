@@ -55,7 +55,8 @@ const resolve = (v, vars) => (v.startsWith("var(") ? vars[v.slice(4, -1)] : v);
 const cases = [
   // [tên, chữ, nền, chế độ]
   ["chữ thường / nền giấy", "rgba(0, 0, 0, 0.87)", "--oz-paper", light],
-  ["chữ phụ / nền giấy", "rgba(0, 0, 0, 0.54)", "--oz-paper", light],
+  ["chữ phụ / nền giấy", "--md-default-fg-color--light", "--oz-paper", light],
+  ["chữ phụ / nền ô", "--md-default-fg-color--light", "--oz-soft", light],
   ["liên kết / nền giấy", "--oz-accent", "--oz-paper", light],
   ["liên kết / nền ô", "--oz-accent", "--oz-soft", light],
   ["chữ trắng / nút nhấn", "#ffffff", "--oz-accent", light],
