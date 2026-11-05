@@ -23,7 +23,7 @@
 
 Thứ tự đề xuất: 4.1 → 4.2 → 4.3 → 4.4 → 4.5 → 4.6 → 4.7 → 4.8 → 4.9 → 4.10 → 4.11. Việc 4.1–4.2 là công cụ đo, làm trước để mọi việc sau có số đo trước/sau.
 
-**10 trang mẫu**: `index.md`, `bat-dau/index.md`, `cau-hoi/tri-thuc.md` (bài dài, bảng PhilPapers, hình), `cau-hoi/tu-do-y-chi.md` (khối thời sự, quiz), `cong-cu/lap-luan.md`, `lich-su/dong-thoi-gian.md`, `doc/platon-bien-ho.md`, `triet-gia/kant.md`, `them/tu-dien.md`, `luyen-tap/nguy-bien.md`.
+**10 trang mẫu**: `index.md`, `bat-dau/index.md`, `cau-hoi/tri-thuc.md` (bài dài, bảng PhilPapers, hình), `cau-hoi/tu-do-y-chi.md` (khối thời sự, quiz), `cong-cu/lap-luan-la-gi.md`, `lich-su/dong-thoi-gian.md`, `doc/platon-bien-ho.md`, `triet-gia/kant.md`, `them/tu-dien.md`, `luyen-tap/nguy-bien.md`.
 
 ## Đặc tả
 
