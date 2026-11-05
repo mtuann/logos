@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://mtuann.github.io/logos/schema/kb/quotes.schema.json",
   "title": "Trích dẫn (data/kb/quotes.yml)",
-  "description": "Mỗi khối trích dẫn một bản ghi, chữ giữ nguyên như trên trang. Khóa <tác giả>.<tác phẩm>.<vị trí> khi rút được.",
+  "description": "Mỗi khối trích dẫn một bản ghi, rút bằng tools/kb_quotes.py, chữ giữ nguyên như trên trang: khối trong trang có body; trích dẫn của hồ sơ có original, translation. Khóa <tác giả>.<tác phẩm> khi rút được từ tiêu đề.",
   "type": "object",
   "propertyNames": {
     "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
@@ -17,8 +17,6 @@
       "required": [
         "work",
         "title",
-        "original",
-        "translation",
         "translator",
         "license",
         "used_in",
@@ -78,8 +76,25 @@
         },
         "verified": {
           "$ref": "#/$defs/verified"
+        },
+        "body": {
+          "description": "Thân khối !!! quote trong trang, nguyên văn, đã bỏ thụt lề của khối.",
+          "type": "string",
+          "minLength": 1
         }
-      }
+      },
+      "oneOf": [
+        {
+          "required": [
+            "body"
+          ]
+        },
+        {
+          "required": [
+            "translation"
+          ]
+        }
+      ]
     },
     "evidence": {
       "description": "Khóa trong sources.yml hoặc URL đã mở khi kiểm; rỗng khi mới rút.",

@@ -42,7 +42,7 @@ uv sync --frozen
 npm ci
 
 # Bộ kiểm tra đầy đủ, giống CI. Chạy trước mọi báo cáo.
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes; do
   uv run python tools/$t.py --check || break
 done
 uv run python tools/content_registry.py --check
