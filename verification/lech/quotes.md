@@ -2,8 +2,8 @@
 
 Sinh bằng `python tools/kb_quotes.py`. Đầu vào cho đợt 5 (đợt con 5.2): không sửa trong đợt 2.
 
-- 156 khối trích dẫn; 104 có bản dịch của Logos Zero.
-- 74 ghép được với tác phẩm trong works.yml; 82 chưa.
+- 155 khối trích dẫn; 103 có bản dịch của Logos Zero.
+- 73 ghép được với tác phẩm trong works.yml; 82 chưa.
 
 ## Tiêu đề khối không theo mẫu "Tác giả, *Tác phẩm*, vị trí" (64)
 
@@ -72,7 +72,7 @@ Sinh bằng `python tools/kb_quotes.py`. Đầu vào cho đợt 5 (đợt con 5.
 - `trich.man-giac-cao-tat-thi-chung-co-benh-bao-moi-nguoi`: "Mãn Giác, “Cáo tật thị chúng” (Có bệnh, bảo mọi người) — nguyên văn, phiên âm, bản dịch của Logos Zero" (`doc/tho-van-ly-tran.md#doc-tung-doan`)
 - `trich.tran-nhan-tong-xuan-hieu-sang-xuan`: "Trần Nhân Tông, “Xuân hiểu” (Sáng xuân) — nguyên văn, phiên âm, bản dịch của Logos Zero" (`doc/tho-van-ly-tran.md#doc-tung-doan`)
 
-## Cùng tác giả và tác phẩm, nhiều khối (28)
+## Cùng tác giả và tác phẩm, nhiều khối (27)
 
 Khóa thêm hậu tố; đợt 5 ghi `locator` (38a, §IV, 2A6…) để phân biệt, hoặc gộp khi trùng đoạn.
 
@@ -93,8 +93,7 @@ Khóa thêm hậu tố; đợt 5 ghi `locator` (38a, §IV, 2A6…) để phân b
 - `mill.on-liberty-3`: "Mill, *On Liberty* (1859), chương II, đoạn 21 và 23 — nguyên văn, bản Project Gutenberg"
 - `mill.on-liberty-4`: "Mill, *On Liberty* (1859), chương II, đoạn 34 — nguyên văn, bản Project Gutenberg"
 - `mill.on-liberty-5`: "Mill, *On Liberty* (1859), chương I — nguyên văn tiếng Anh"
-- `platon.cong-hoa-2`: "Platon, *Cộng hòa*, Quyển VI (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng)"
-- `platon.cong-hoa-3`: "Platon, *Cộng hòa* X, 596a — bản dịch tiếng Anh của Benjamin Jowett"
+- `platon.cong-hoa-2`: "Platon, *Cộng hòa* X, 596a — bản dịch tiếng Anh của Benjamin Jowett"
 - `russell.the-problems-of-philosophy-2`: "Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 4 — nguyên văn, bản in 1912"
 - `russell.the-problems-of-philosophy-3`: "Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 7 — nguyên văn, bản in 1912"
 - `russell.the-problems-of-philosophy-4`: "Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 9 và 12 — nguyên văn, bản in 1912"

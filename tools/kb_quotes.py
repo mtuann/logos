@@ -96,6 +96,11 @@ def extract(root: Path = ROOT) -> tuple[dict, list[str]]:
         us = units.split(p.path, raw)
         for idx, (lineno, title, body) in enumerate(page_blocks(p.path, raw), start=1):
             unit = next(u.key for u in us if u.start <= lineno <= u.end)
+            same = next((r for r in recs.values() if r.get("title") == title and r.get("body") == body), None)
+            if same is not None:   # cùng một khối ở nhiều trang: một bản ghi, nhiều nơi dùng
+                if unit not in same["used_in"]:
+                    same["used_in"].append(unit)
+                continue
             rec = {"work": work_of(title), "title": title, "body": body,
                    "translator": "logos-zero" if LZ_TRANSLATION in body else None,
                    "license": "unknown", "used_in": [unit]}

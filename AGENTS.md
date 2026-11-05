@@ -49,7 +49,7 @@ uv run python tools/content_registry.py --check
 uv run python tools/add_heading_ids.py --check
 uv run python tools/check_ledger.py --check
 uv run python tools/kb_check.py --check
-for l in lint_terms lint_volatile lint_structure; do uv run python tools/$l.py -q; done   # cảnh báo, chưa chặn
+for l in lint_terms lint_volatile lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done   # cảnh báo, chưa chặn
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build

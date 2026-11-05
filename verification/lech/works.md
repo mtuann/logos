@@ -2,21 +2,20 @@
 
 Sinh bằng `python tools/kb_works.py`. Đầu vào cho đợt 5 (đợt con 5.1): không sửa trong đợt 2.
 
-- 338 tác phẩm; 220 đã biết tác giả (từ hồ sơ), 118 chưa rõ tác giả (`chua-ro.*`).
-- 4 tác phẩm gặp với hơn một năm.
+- 337 tác phẩm; 220 đã biết tác giả (từ hồ sơ), 117 chưa rõ tác giả (`chua-ro.*`).
+- 3 tác phẩm gặp với hơn một năm.
 
-## Tác phẩm có hơn một năm (4)
+## Tác phẩm có hơn một năm (3)
 
 Năm bản gốc, năm bản sửa, năm bản dịch có thể khác nhau hợp lệ: xem từng chỗ, rồi chốt `year` và cách ghi.
 
 | Tác phẩm | Các năm và nơi dùng |
 |---|---|
-| `chua-ro.cong-hoa` (Cộng hòa) | **-380**: `lich-su/hy-lap-co-dai.md#nguon`, `lich-su/hy-lap-co-dai.md#platon-the-gioi-cua-nhung-y-niem`<br>**519**: `people/platon` |
 | `chua-ro.stanford-encyclopedia-of-philosophy` (Stanford Encyclopedia of Philosophy) | **2004**: `cau-hoi/noi-doi.md#nguon`<br>**2008**: `cau-hoi/noi-doi.md#nguon`<br>**2026**: `doc/hume-nhan-qua.md#nguon` |
 | `mill.utilitarianism` (Utilitarianism) | **1861**: `people/mill`<br>**1863**: `cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh`, `cau-hoi/dao-duc-hanh-dong.md#doc-van-ban-goc`, `cau-hoi/noi-doi.md#doc-van-ban-goc`, `lich-su/the-ky-19.md#nguon` |
 | `sartre.l-existentialisme-est-un-humanisme` (L'existentialisme est un humanisme) | **1945**: `people/sartre`<br>**1946**: `people/sartre` |
 
-## Chưa rõ tác giả (118)
+## Chưa rõ tác giả (117)
 
 Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nào trong hồ sơ; gán tác giả ở đợt 5.
 
@@ -77,7 +76,6 @@ Gặp trong văn xuôi dạng *Tên* (năm) nhưng không khớp tác phẩm nà
 - `chua-ro.khung-hoang-cua-cac-khoa-hoc-chau-au`: *Khủng hoảng của các khoa học châu Âu*
 - `chua-ro.killing-in-war`: *Killing in War*
 - `chua-ro.la-technique`: *La Technique*
-- `chua-ro.lam-duoc`: *làm được*
 - `chua-ro.lam-son-thuc-luc`: *Lam Sơn thực lục*
 - `chua-ro.language-truth-and-logic`: *Language, Truth and Logic*
 - `chua-ro.lao-tu`: *Lão Tử* — Vương Bật (王弼, 226–249), chú giải
