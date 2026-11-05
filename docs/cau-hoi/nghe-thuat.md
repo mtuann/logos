@@ -3,6 +3,8 @@ title: "Cái gì làm nên nghệ thuật?"
 description: "Một cái bồn tiểu đặt trong phòng triển lãm có phải nghệ thuật? Từ Tolstoy (nghệ thuật là truyền cảm xúc), Clive Bell (hình thức có ý nghĩa) đến Danto và Dickie (thế giới nghệ thuật quyết định)."
 skill: aesthetics
 updated: 2026-10-22
+tier: loi
+block: my-hoc
 ---
 
 # Cái gì làm nên nghệ thuật?

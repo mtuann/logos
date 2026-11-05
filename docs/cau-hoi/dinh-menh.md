@@ -3,6 +3,8 @@ title: "Mọi thứ đã được viết sẵn?"
 description: "Từ lập luận \"hải chiến ngày mai\" của Aristotle đến con quỷ của Laplace và câu trả lời của Boethius: tương lai có bị khóa chặt không — và tử vi, bói toán đứng ở đâu trong chuyện này?"
 skill: freewill
 updated: 2026-10-22
+tier: loi
+block: tu-do
 ---
 
 # Mọi thứ đã được viết sẵn?

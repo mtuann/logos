@@ -3,6 +3,8 @@ title: Ba con đường đọc
 description: Gợi ý nên bắt đầu đọc Logos Zero từ đâu — tư duy rõ ràng, những câu hỏi lớn, hay lịch sử tư tưởng và văn bản gốc — tùy điều bạn đang tò mò.
 skill: intro
 updated: 2026-10-22
+tier: loi
+block: bat-dau
 ---
 
 # Ba con đường đọc

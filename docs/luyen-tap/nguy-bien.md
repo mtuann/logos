@@ -3,6 +3,7 @@ title: Nhận ra ngụy biện
 description: Đọc một đoạn tranh luận ngắn, chọn lỗi lập luận (hoặc không có lỗi nào), rồi xem giải thích.
 skill: fallacy
 updated: 2026-10-13
+tier: he-thong
 ---
 
 # Nhận ra ngụy biện

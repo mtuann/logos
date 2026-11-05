@@ -3,6 +3,8 @@ title: "Cần khác đủ như thế nào?"
 description: "P là điều kiện đủ cho Q nghĩa là có P thì chắc chắn có Q; P là điều kiện cần nghĩa là không P thì không Q. Phân biệt hai khái niệm qua ví dụ đời thường và chỉ ra nhầm lẫn phổ biến khi đảo ngược chúng."
 skill: deduction
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Cần khác đủ như thế nào?

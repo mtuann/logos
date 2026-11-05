@@ -2,6 +2,8 @@
 title: "Nhật Bản và Việt Nam: triết học ở phương Đông"
 description: Phật giáo đến Nhật Bản, trường phái Kyoto của Nishida, Thiền Trúc Lâm và Nho học Việt Nam — hai con đường tiếp biến tư tưởng ngoại lai ở phương Đông.
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Nhật Bản và Việt Nam: triết học ở phương Đông

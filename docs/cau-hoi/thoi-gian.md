@@ -3,6 +3,8 @@ title: "Thời gian có trôi không? Hay quá khứ–hiện tại–tương la
 description: "Ngày hôm qua đi đâu mất? Tương lai đã 'có sẵn' ở đâu đó chưa? Từ lập luận của McTaggart rằng thời gian không thật, đến hiện tại luận và vĩnh cửu luận."
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Thời gian có trôi không? Hay quá khứ–hiện tại–tương lai đều thật?

@@ -3,6 +3,8 @@ title: "Khoa học khác gì với phi khoa học? Vấn đề phân giới"
 description: "Vì sao thiên văn là khoa học mà chiêm tinh không? Từ khả bác bỏ của Popper, mô thức của Kuhn, đến 'anything goes' của Feyerabend."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: tri-thuc
 ---
 
 # Khoa học khác gì với phi khoa học?

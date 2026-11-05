@@ -3,6 +3,8 @@ title: "Mộng hồ điệp — Trang Tử (thiên Tề vật luận)"
 description: "Hướng dẫn đọc giấc mơ con bướm nổi tiếng nhất triết học Trung Hoa, qua nguyên văn, phiên âm và bản dịch: giấc mộng lớn, Trang Chu mộng làm bướm hay bướm mộng làm Trang Chu, và chữ 'vật hóa'."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Mộng hồ điệp — Trang Tử (thiên *Tề vật luận*)

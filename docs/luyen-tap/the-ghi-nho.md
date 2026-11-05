@@ -3,6 +3,7 @@ title: Thẻ ghi nhớ thuật ngữ
 description: Ôn thuật ngữ triết học theo phương pháp Leitner. Thẻ đã nhớ sẽ lâu mới gặp lại.
 skill: terms
 updated: 2026-10-13
+tier: he-thong
 ---
 
 # Thẻ ghi nhớ thuật ngữ

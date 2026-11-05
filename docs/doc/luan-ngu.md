@@ -3,6 +3,8 @@ title: "Luận ngữ — những lời dạy của Khổng Tử"
 description: "Hướng dẫn đọc chậm sáu đoạn ngắn trong Luận ngữ về học, biết, lễ, thứ và người quân tử, kèm nguyên văn chữ Hán, phiên âm Hán Việt và bản dịch: triết học Trung Hoa không bắt đầu từ định nghĩa mà từ cách sống mỗi ngày."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # *Luận ngữ* — những lời dạy của Khổng Tử

@@ -2,6 +2,8 @@
 title: "Trung cổ: đức tin gặp lý trí"
 description: "Từ Augustine đến Aquinas, triết học trung cổ đặt câu hỏi lớn: đức tin và lý trí có thể đi cùng nhau không, với sự góp mặt của các triết gia Hồi giáo và Do Thái."
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Trung cổ: đức tin gặp lý trí

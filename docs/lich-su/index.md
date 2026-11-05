@@ -2,6 +2,7 @@
 title: Lịch sử tư tưởng
 description: Câu chuyện triết học qua các thời kỳ và truyền thống — từ Hy Lạp cổ đại đến Việt Nam, Ấn Độ, Trung Hoa.
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Lịch sử tư tưởng

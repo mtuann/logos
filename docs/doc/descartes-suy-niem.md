@@ -3,6 +3,8 @@ title: Đọc "Suy niệm" I–II của Descartes
 description: "Descartes nghi ngờ mọi thứ — giác quan, toán học, cả thế giới — để tìm một điều không thể nghi ngờ: “tôi là, tôi hiện hữu”. Đọc chậm Suy niệm I–II qua bản dịch Veitch."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Đọc *Suy niệm* I–II của Descartes

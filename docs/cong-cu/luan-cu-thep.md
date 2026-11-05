@@ -3,6 +3,8 @@ title: "Luận cứ thép: hiểu đối thủ trước khi phản bác"
 description: "Ngược với ngụy biện người rơm, luận cứ thép dựng lại lập trường đối lập ở dạng mạnh nhất rồi mới phản biện. Công cụ 4 bước giúp bạn luyện kỹ năng này."
 skill: argument
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Luận cứ thép

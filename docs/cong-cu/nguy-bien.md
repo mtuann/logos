@@ -3,6 +3,8 @@ title: "Ngụy biện: những lối tắt dẫn sai đường"
 description: Ngụy biện là những kiểu lập luận trông có vẻ thuyết phục nhưng không cho ta lý do tốt để tin kết luận. Bài này giới thiệu 19 loại ngụy biện thường gặp, mỗi loại kèm ví dụ và trường hợp không phải ngụy biện.
 skill: fallacy
 updated: 2026-10-13
+tier: loi
+block: cong-cu
 ---
 
 # Ngụy biện: những lối tắt dẫn sai đường

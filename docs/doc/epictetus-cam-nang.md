@@ -3,6 +3,8 @@ title: "Đọc \"Cẩm nang\" của Epictetus"
 description: "Sổ tay Khắc kỷ do Arrian soạn từ lời giảng của Epictetus: có những điều tùy thuộc vào ta, có những điều không. Học phân biệt hai thứ đó là học cách bớt khổ."
 skill: meaning
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Đọc *Cẩm nang* của Epictetus

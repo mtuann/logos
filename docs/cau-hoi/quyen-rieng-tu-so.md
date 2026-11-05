@@ -3,6 +3,8 @@ title: "\"Người ngay thẳng thì có gì phải giấu?\": quyền riêng t�
 description: "Giám sát để bảo vệ an ninh có đáng đánh đổi? Từ \"quyền được yên thân\" của Warren và Brandeis (1890) đến lập luận \"nothing to hide\" và lý thuyết toàn vẹn ngữ cảnh của Nissenbaum."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: luan-ly-ung-dung
 ---
 
 # "Người ngay thẳng thì có gì phải giấu?": quyền riêng tư trong thời đại số

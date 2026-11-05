@@ -2,6 +2,7 @@
 title: Tham khảo
 description: Các nguồn chính Logos Zero dùng, và gợi ý đọc, xem tiếp.
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Tham khảo

@@ -3,6 +3,8 @@ title: "Tin vào lời người khác: tri thức qua lời chứng"
 description: "Phần lớn điều ta 'biết' đến từ lời người khác nói. Khi nào tin lời chứng là có lý do? Từ Hume về phép lạ, Reid về thói quen tin người, đến cách chọn chuyên gia giữa thời tin giả."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: tri-thuc
 ---
 
 # Tin vào lời người khác: tri thức qua lời chứng

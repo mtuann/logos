@@ -3,6 +3,8 @@ title: "Chết có đáng sợ không?"
 description: "Epicurus nói chết 'không là gì với ta' — vì khi ta còn, chết chưa đến. Nagel đáp: chết đáng sợ vì nó tước đi những điều tốt đẹp ta có thể có. Ai đúng?"
 skill: meaning
 updated: 2026-10-22
+tier: loi
+block: y-nghia
 ---
 
 # Chết có đáng sợ không?

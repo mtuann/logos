@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Thơ văn Lý–Trần (tuyển)"
 description: "Đọc chậm bốn bài thơ văn Lý–Trần qua nguyên văn, phiên âm và bản dịch: kệ Vạn Hạnh về vô thường, cành mai của Mãn Giác, 'Bụt ở trong nhà' của Trần Nhân Tông, và đôi bướm trắng trong 'Xuân hiểu'."
 skill: vietnam
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: Thơ văn Lý–Trần (tuyển)

@@ -2,6 +2,7 @@
 title: Luyện tập
 description: Nhận ra ngụy biện, thẻ ghi nhớ thuật ngữ, và tiến độ của bạn (chỉ lưu trên máy bạn).
 updated: 2026-10-13
+tier: he-thong
 ---
 
 # Luyện tập

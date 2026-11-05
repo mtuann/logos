@@ -3,6 +3,8 @@ title: "Ai nên cai trị: số đông hay người hiểu biết?"
 description: "Nếu cai trị là một nghề, vì sao ta lại bầu thay vì tuyển người giỏi nhất? Từ \"vua triết gia\" của Platon, hình ảnh con tàu, đến lời bênh vực dân chủ của Churchill và chủ nghĩa tinh hoa tri thức (epistocracy) của Brennan."
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Ai nên cai trị: số đông hay người hiểu biết?

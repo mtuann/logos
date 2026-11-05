@@ -3,6 +3,8 @@ title: "Ăn thịt có sai không? Đạo đức học ứng dụng"
 description: "Từ lý thuyết đến đời sống: động vật có đáng được quan tâm đạo đức không, và người giàu có bổn phận gì với người nghèo đói? Peter Singer và hai câu hỏi gây tranh cãi nhất của đạo đức học ứng dụng."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Ăn thịt có sai không? Đạo đức học ứng dụng

@@ -3,6 +3,8 @@ title: "Hành động đúng là gì? Ba lý thuyết lớn của đạo đức 
 description: "Điều gì làm cho một hành động là đúng: hậu quả tốt nhất, bổn phận phải làm, hay con người tốt sẽ làm? Ba lý thuyết lớn — vị lợi, Kant, đức hạnh — ở phiên bản mạnh nhất của mỗi bên."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học

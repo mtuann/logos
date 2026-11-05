@@ -3,6 +3,8 @@ title: Con người có linh hồn không?
 description: Descartes nói tâm trí là thực chất phi vật chất; vật lý luận đáp rằng ý thức chỉ là hoạt động của não. Và nếu cả hai đều chưa ổn thì sao?
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Con người có linh hồn không?

@@ -3,6 +3,8 @@ title: "Cách viết một đoạn lập luận"
 description: "Một đoạn lập luận tốt có bốn phần: câu luận điểm, lý do, lời giải thích nối lý do với luận điểm, và lường trước phản biện. Bài này so sánh bản nháp lộn xộn với bản sửa của cùng một đoạn, kèm các lỗi thường gặp và tiêu chí tự đánh giá."
 skill: argument
 updated: 2026-10-22
+tier: loi
+block: cong-cu
 ---
 
 # Cách viết một đoạn lập luận

@@ -3,6 +3,8 @@ title: "Đọc Hume về nhân quả (\"Điều tra về trí năng con người
 description: "Hume hỏi: ta có thật sự thấy mối liên hệ nhân quả, hay chỉ thấy hai sự việc nối tiếp nhau? Đọc chậm mục IV, V và VII của Điều tra về trí năng con người (1748): vấn đề quy nạp và vai trò của thói quen."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Đọc Hume về nhân quả (*Điều tra về trí năng con người*)

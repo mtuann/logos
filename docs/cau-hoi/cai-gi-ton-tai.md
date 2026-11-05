@@ -3,6 +3,8 @@ title: Cái gì thực sự tồn tại?
 description: Hai quả táo cùng "đỏ" — vậy cái "đỏ" ở đâu? Hiện thực luận cho rằng các tính chất phổ quát có thật; duy danh đáp rằng chỉ có sự vật cụ thể tồn tại.
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Cái gì thực sự tồn tại?

@@ -3,6 +3,8 @@ title: Quốc gia có quyền đóng cửa biên giới không?
 description: Tự do đi lại trong nước là quyền cơ bản — vì sao qua biên giới thì không? Từ lập luận biên giới mở của Carens (1987) đến quyền tự quyết thành viên của Walzer.
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Quốc gia có quyền đóng cửa biên giới không?

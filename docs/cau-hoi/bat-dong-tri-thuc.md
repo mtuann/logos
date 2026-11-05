@@ -3,6 +3,8 @@ title: "Khi người giỏi cãi nhau: bất đồng về tri thức"
 description: "Hai chuyên gia giỏi ngang nhau, cùng bằng chứng, kết luận trái ngược — bạn nên tin ai? Thuyết hòa giải, thuyết kiên định, và vì sao tranh cãi vaccine không phải là 'bất đồng ngang tài'."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: tri-thuc
 ---
 
 # Khi người giỏi cãi nhau: bất đồng về tri thức

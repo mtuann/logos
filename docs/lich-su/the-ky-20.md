@@ -2,6 +2,8 @@
 title: "Thế kỷ 20: triết học chia hai ngả"
 description: Phân tích ngôn ngữ một bên, hiện tượng luận và hiện sinh bên kia. Frege, Russell, Wittgenstein, Husserl, Heidegger, Sartre — hai ngả đang xích lại gần nhau.
 updated: 2026-10-22
+tier: loi
+block: lich-su
 ---
 
 # Thế kỷ 20: triết học chia hai ngả

@@ -88,5 +88,39 @@ class TestRegistry(unittest.TestCase):
         self.assertError(reg, "docs/assets/data/terms.json: có trong docs/assets/data/ nhưng thiếu")
 
 
+
+class TestFrontMatterSync(unittest.TestCase):
+    def test_every_hand_written_page_carries_tier(self):
+        reg = cr.load_registry(ROOT)
+        for e in reg["pages"]:
+            if e["generated"]:
+                continue
+            meta = cr.yaml.safe_load(cr.FRONT_MATTER.match((ROOT / "docs" / e["path"]).read_text(encoding="utf-8")).group(1))
+            self.assertEqual({k: meta.get(k) for k in cr.frontmatter_fields(e)}, cr.frontmatter_fields(e), e["path"])
+
+    def test_sync_only_touches_tier_and_block(self):
+        import tempfile
+        root = Path(tempfile.mkdtemp(prefix="registry-test-"))
+        (root / "docs" / "cau-hoi").mkdir(parents=True)
+        f = root / "docs" / "cau-hoi" / "x.md"
+        f.write_text("---\ntitle: X\nupdated: 2026-10-22\ntier: mo-rong\n---\n\n# X\n", encoding="utf-8")
+        reg = {"pages": [{"path": "cau-hoi/x.md", "type": "cau-hoi", "tier": "loi", "block": "tri-thuc", "generated": False},
+                         {"path": "index.md", "type": "he-thong", "tier": "he-thong", "block": None, "generated": True}]}
+        self.assertEqual(cr.sync_frontmatter(reg, root), 1)
+        self.assertEqual(f.read_text(encoding="utf-8"),
+                         "---\ntitle: X\nupdated: 2026-10-22\ntier: loi\nblock: tri-thuc\n---\n\n# X\n")
+        self.assertEqual(cr.sync_frontmatter(reg, root), 0)
+        self.assertEqual(cr.frontmatter_fields(reg["pages"][1]), {"tier": "he-thong"})
+
+    def test_front_matter_block_mismatch_is_an_error(self):
+        reg = copy.deepcopy(cr.load_registry(ROOT))
+        e = self.page_entry(reg, "cau-hoi/tri-thuc.md")
+        e["block"] = "tam-tri"
+        self.assertTrue(any("front matter block" in x for x in cr.check(reg, ROOT)))
+
+    @staticmethod
+    def page_entry(reg, path):
+        return next(e for e in reg["pages"] if e["path"] == path)
+
 if __name__ == "__main__":
     unittest.main()

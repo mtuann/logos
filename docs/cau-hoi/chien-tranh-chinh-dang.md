@@ -3,6 +3,8 @@ title: Chiến tranh có bao giờ chính đáng không?
 description: Khi nào được phép bắt đầu chiến tranh (jus ad bellum) và trong chiến tranh được phép làm gì (jus in bello)? Từ chủ nghĩa hòa bình đến lý thuyết chiến tranh chính nghĩa của Walzer và các lời phê phán.
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Chiến tranh có bao giờ chính đáng không?

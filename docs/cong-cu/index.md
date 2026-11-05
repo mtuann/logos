@@ -3,6 +3,7 @@ title: Công cụ tư duy
 description: Lập luận, suy diễn, quy nạp, giả định ngầm, ngụy biện. Những công cụ triết gia dùng hằng ngày, và ai cũng dùng được.
 skill: argument
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Công cụ tư duy

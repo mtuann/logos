@@ -3,6 +3,8 @@ title: "Vì sao phải vâng lời nhà nước? Khế ước xã hội"
 description: "Bạn chưa bao giờ ký vào bản khế ước nào với nhà nước — vậy vì sao phải tuân luật, đóng thuế? Ba phiên bản khế ước xã hội: Hobbes, Locke, Rousseau, và phản bác của Hume."
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Vì sao phải vâng lời nhà nước? Khế ước xã hội

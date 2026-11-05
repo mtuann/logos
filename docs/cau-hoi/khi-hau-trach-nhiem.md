@@ -3,6 +3,8 @@ title: Ai chịu trách nhiệm cho khí hậu? Công lý liên thế hệ
 description: Một người tắt đèn có cứu được hành tinh không? Từ nghịch lý "giọt nước giữa đại dương" đến vấn đề non-identity của Parfit và trách nhiệm với thế hệ chưa sinh ra.
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: luan-ly-ung-dung
 ---
 
 # Ai chịu trách nhiệm cho khí hậu? Công lý liên thế hệ

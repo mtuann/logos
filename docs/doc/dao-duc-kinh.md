@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Đạo đức kinh"
 description: "Đọc chậm Đạo đức kinh qua nguyên văn, phiên âm và bản dịch: Đạo khả đạo (chương 1), đẹp xấu sinh ra nhau và vô vi (chương 2), nước (chương 8, 78), cái trống rỗng (chương 11), biết đủ (chương 44)."
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: *Đạo đức kinh*

@@ -3,6 +3,8 @@ title: "Đọc ẩn dụ hang động (Platon, \"Cộng hòa\" VII)"
 description: "Ẩn dụ hang động của Platon: những tù nhân cả đời chỉ thấy bóng trên tường và tưởng đó là thực tại. Ta có chắc mình không phải một trong số họ?"
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Đọc ẩn dụ hang động (Platon, *Cộng hòa* VII)

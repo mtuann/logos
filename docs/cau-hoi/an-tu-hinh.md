@@ -3,6 +3,8 @@ title: "Án tử hình: công lý hay rủi ro không thể sửa?"
 description: "Lập luận răn đe và công lý báo ứng đối đầu với nguy cơ oan sai không thể đảo ngược — từ Beccaria (1764) đến hơn 200 ca minh oan trên hàng tử hình ở Mỹ."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: luan-ly-ung-dung
 ---
 
 # Án tử hình: công lý hay rủi ro không thể sửa?

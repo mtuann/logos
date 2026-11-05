@@ -3,6 +3,8 @@ title: Điều không được nói ra
 description: Hầu hết lập luận ngoài đời đều bỏ lửng một vài tiền đề. Bài này bàn về giả định ngầm, nguyên tắc diễn giải thiện chí, và quy trình năm bước để tái dựng một lập luận từ một đoạn văn thật.
 skill: assumption
 updated: 2026-10-13
+tier: loi
+block: cong-cu
 ---
 
 # Điều không được nói ra

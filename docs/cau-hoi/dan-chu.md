@@ -3,6 +3,8 @@ title: Dân chủ là gì, và vì sao nó đáng giá?
 description: Bầu cử có đủ để gọi là dân chủ? Từ dân chủ thủ tục của Schumpeter đến dân chủ thảo luận của Habermas, và những lời phê phán từ Platon đến "chuyên chế của đa số" của Tocqueville và Mill.
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Dân chủ là gì, và vì sao nó đáng giá?

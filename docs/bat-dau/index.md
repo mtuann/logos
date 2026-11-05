@@ -3,6 +3,7 @@ title: Triết học là gì, và không phải là gì?
 description: Trang mở cửa của Logos Zero — triết học là việc khảo sát những câu hỏi nền tảng bằng lý lẽ, nó khác gì danh ngôn, tôn giáo hay khoa học, và vì sao người bình thường nên bận tâm.
 skill: intro
 updated: 2026-10-22
+tier: he-thong
 ---
 
 # Triết học là gì, và không phải là gì?

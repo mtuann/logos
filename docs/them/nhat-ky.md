@@ -2,6 +2,7 @@
 title: Nhật ký
 description: Ghi chép suy nghĩ mỗi ngày khi đọc triết học. Chỉ lưu trên trình duyệt của bạn, có thể gộp qua trang Dữ liệu.
 updated: 2026-10-13
+tier: he-thong
 ---
 
 # Nhật ký

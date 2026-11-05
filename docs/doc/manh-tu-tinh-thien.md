@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Mạnh Tử: tính thiện"
 description: "Đọc chậm Mạnh Tử qua nguyên văn, phiên âm và bản dịch: đứa trẻ bên giếng và bốn đầu mối (2A6), dòng nước của Cáo Tử (6A2), núi Ngưu trơ trụi (6A8), người nước Tống nhổ mạ (2A2)."
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: Mạnh Tử — *tính thiện*

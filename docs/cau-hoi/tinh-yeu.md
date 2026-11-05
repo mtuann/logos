@@ -3,6 +3,8 @@ title: Tình yêu là gì?
 description: Tình yêu là khao khát cái mình thiếu (Platon), là quan tâm không vụ lợi (Frankfurt), hay là sự đáp lại giá trị con người (Velleman)? Và một người máy hoàn hảo có đáng được yêu không?
 skill: meaning
 updated: 2026-10-22
+tier: loi
+block: y-nghia
 ---
 
 # Tình yêu là gì?

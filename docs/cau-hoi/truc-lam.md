@@ -3,6 +3,8 @@ title: "Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần"
 description: "Từ vua thành thiền sư: Trần Nhân Tông và tư tưởng 'ở giữa bụi trần mà vui với đạo'. Tu hành có nhất thiết phải rời bỏ đời sống không?"
 skill: vietnam
 updated: 2026-10-22
+tier: loi
+block: viet-nam
 ---
 
 # Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần

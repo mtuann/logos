@@ -3,6 +3,8 @@ title: Có nghĩa vụ cứu người nghèo đói không? Lập luận của Pe
 description: Đứa trẻ đuối nước trước mặt và đứa trẻ chết đói ở xa có khác gì nhau về mặt đạo đức? Nguyên tắc cứu giúp của Singer, phản bác "đòi hỏi quá mức", và lập trường trung gian.
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: luan-ly-ung-dung
 ---
 
 # Có nghĩa vụ cứu người nghèo đói không? Lập luận của Peter Singer

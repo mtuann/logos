@@ -3,6 +3,8 @@ title: "Ngôn từ có định hình tư duy? Ngôn ngữ và tri thức"
 description: "Tiếng mẹ đẻ có quyết định cách ta nghĩ? Từ giả thuyết Sapir-Whorf, nghiên cứu màu sắc của Berlin & Kay, đến lập luận ngôn ngữ riêng tư của Wittgenstein."
 skill: knowledge
 updated: 2026-10-22
+tier: loi
+block: tri-thuc
 ---
 
 # Ngôn từ có định hình tư duy?

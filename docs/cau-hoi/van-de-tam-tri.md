@@ -3,6 +3,8 @@ title: "Thân xác và tâm trí: vấn đề lâu đời nhất của triết h
 description: "Cơn đau răng \"ở đâu\" — trong răng hay trong tâm trí? Từ nhị nguyên luận của Descartes, thuyết đồng nhất não–tâm trí, Mary trong phòng đen trắng của Jackson đến zombie triết học của Chalmers."
 skill: mind
 updated: 2026-10-22
+tier: loi
+block: tam-tri
 ---
 
 # Thân xác và tâm trí: vấn đề lâu đời nhất của triết học

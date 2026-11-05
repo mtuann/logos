@@ -3,6 +3,8 @@ title: Thiên nhiên có giá trị tự thân? Đạo đức môi trường
 description: Một cái cây cổ thụ có giá trị ngay cả khi không ai cần gỗ của nó? Từ "đạo đức đất" của Leopold đến "sinh thái học sâu" của Naess và lập luận của Singer về động vật.
 skill: ethics
 updated: 2026-10-22
+tier: loi
+block: dao-duc
 ---
 
 # Thiên nhiên có giá trị tự thân? Đạo đức môi trường

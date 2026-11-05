@@ -3,6 +3,8 @@ title: "Nếu Chúa toàn năng và tốt lành, vì sao có đau khổ?"
 description: "Vấn đề sự dữ: từ thách thức logic của Mackie, con nai chết cháy của Rowe, đến các đáp lại — biện hộ tự do ý chí của Plantinga, linh hồn-tôi luyện của Hick, hoài nghi luận thần học."
 skill: religion
 updated: 2026-10-22
+tier: loi
+block: ton-giao
 ---
 
 # Nếu Chúa toàn năng và tốt lành, vì sao có đau khổ?

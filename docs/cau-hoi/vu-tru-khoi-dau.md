@@ -3,6 +3,8 @@ title: Vũ trụ có khởi đầu không?
 description: Lập luận Kalam — mọi thứ bắt đầu tồn tại đều có nguyên nhân — đối đầu với vũ trụ vĩnh cửu và đa vũ trụ. Vũ trụ học hiện đại nói gì về "trước Big Bang"?
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: sieu-hinh
 ---
 
 # Vũ trụ có khởi đầu không?

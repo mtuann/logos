@@ -3,6 +3,8 @@ title: "Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằ
 description: "\"Bình đẳng về cái gì\" — cơ hội, kết quả, hay tài nguyên? Từ bình đẳng hình thức đến bình đẳng thực chất và chủ nghĩa bình đẳng may mắn của Dworkin, Cohen, Arneson."
 skill: politics
 updated: 2026-10-22
+tier: loi
+block: chinh-tri
 ---
 
 # Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằng nhau?

@@ -3,6 +3,8 @@ title: Ta có thật sự tự do lựa chọn?
 description: Nếu mọi việc đều có nguyên nhân, kể cả quyết định của ta, thì tự do và trách nhiệm còn chỗ nào? Bài này trình bày tất định luận, tương thích luận, bất tương thích luận và thí nghiệm Libet.
 skill: freewill
 updated: 2026-10-22
+tier: loi
+block: tu-do
 ---
 
 # Ta có thật sự tự do lựa chọn?

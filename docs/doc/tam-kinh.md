@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Bát nhã Tâm kinh"
 description: "Đọc chậm Tâm kinh qua nguyên văn chữ Hán, phiên âm dùng trong nghi lễ và bản dịch: ngũ uẩn giai không, \"sắc tức thị không\", \"trong cái không không có...\", câu chú kết, kèm phản biện và câu hỏi tự viết."
 skill: metaphysics
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: *Bát nhã Tâm kinh*

@@ -3,6 +3,8 @@ title: "Hướng dẫn đọc Bình Ngô đại cáo của Nguyễn Trãi"
 description: "Đọc chậm Bình Ngô đại cáo qua nguyên văn chữ Hán, phiên âm và bản dịch: nhân nghĩa cốt ở yên dân, nước Đại Việt có văn hiến riêng, kể tội giặc, lấy chí nhân thay cường bạo, cùng những vấn đề văn bản còn bàn cãi."
 skill: vietnam
 updated: 2026-10-22
+tier: loi
+block: van-ban
 ---
 
 # Hướng dẫn đọc: *Bình Ngô đại cáo* của Nguyễn Trãi
