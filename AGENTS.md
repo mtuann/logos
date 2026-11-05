@@ -53,13 +53,19 @@ npm test        # cần thư mục site/ đã build
 
 Không có uv: tạo virtualenv Python 3.11+, `pip install -r requirements.txt` (sinh từ `uv.lock`), rồi chạy các lệnh trên không kèm `uv run`. Không sửa tay `uv.lock`, `requirements.txt`; nâng phiên bản là việc phải hỏi (mục 6).
 
+Thay đổi cơ học (mục 5, bước 3) chứng minh "không đổi chữ" bằng:
+
+```bash
+uv run python tools/parity.py --base main   # so văn bản hiển thị, <title>, description, id của mọi trang
+```
+
 Sửa nguồn của một trang sinh tự động thì chạy lại tool đó **không** kèm `--check` (ví dụ `uv run python tools/philosophers.py`), rồi mới chạy bộ kiểm tra. Các tool mới của kế hoạch (registry, sổ kiểm chứng, linter) được thêm vào danh sách này khi đợt tương ứng xong; `KE-HOACH.md` ghi danh sách hiện hành.
 
 ## 5. Một phiên làm việc
 
 1. Đọc mục 2. Xác định phần việc nhỏ của phiên: tối đa 3 đơn vị nội dung, hoặc đúng một thay đổi cơ học (do script).
 2. Làm. **Sau mỗi đơn vị**, thêm một dòng vào `ban-giao/nhat-ky-dot-N.md`: ngày, việc, file, trạng thái, còn gì. Phiên có thể bị ngắt bất cứ lúc nào; nhật ký là thứ giữ lại công việc.
-3. Thay đổi cơ học phải chứng minh "không đổi chữ" bằng kiểm tra tương đương (so văn bản hiển thị trước/sau) khi công cụ đó đã có.
+3. Thay đổi cơ học phải chứng minh "không đổi chữ" bằng kiểm tra tương đương: `tools/parity.py --base main` (mục 4).
 4. Chạy bộ kiểm tra đầy đủ. Đỏ thì sửa; không sửa được trong phạm vi đợt thì dừng và báo.
 5. Commit trên nhánh, message dạng `Đợt N: <việc>`. Agent thêm dòng `Co-Authored-By` của mình.
 6. Kết thúc bằng báo cáo theo mẫu ở mục 7.

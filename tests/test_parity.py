@@ -1,0 +1,76 @@
+"""tools/parity.py: trích văn bản hiển thị và so hai bản build. Chạy: python -m unittest discover -s tests"""
+
+import contextlib
+import io
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+
+import parity  # noqa: E402
+
+PAGE = """<!doctype html><html><head><title>Tri thức - Logos Zero</title>
+<meta name="description" content="Mô tả &amp; tóm tắt"></head><body>
+<nav>Thanh điều hướng</nav>
+<article class="md-content__inner md-typeset">
+<h1 id="tri-thuc">Tri   thức</h1>
+<p>Năm <em>1641</em>, Descartes.<script>var x = "không hiện";</script></p>
+<h2 id="nguon">Nguồn<a class="headerlink" href="#nguon">#</a></h2>
+<ul><li>SEP</li></ul>
+</article>
+<footer>Chân trang</footer></body></html>"""
+
+
+def site(files: dict[str, str]) -> Path:
+    d = Path(tempfile.mkdtemp(prefix="parity-test-"))
+    for rel, text in files.items():
+        (d / rel).parent.mkdir(parents=True, exist_ok=True)
+        (d / rel).write_text(text, encoding="utf-8")
+    return d
+
+
+class TestExtract(unittest.TestCase):
+    def test_visible_text_only(self):
+        t = parity.extract(PAGE)
+        self.assertEqual(t.title, "Tri thức - Logos Zero")
+        self.assertEqual(t.description, "Mô tả & tóm tắt")
+        self.assertEqual(t.lines, ("Tri thức", "Năm 1641, Descartes.", "Nguồn#", "SEP"))
+        self.assertEqual(t.ids, ("tri-thuc", "nguon"))
+
+    def test_markup_change_is_invisible(self):
+        a = parity.extract(PAGE)
+        b = parity.extract(PAGE.replace("<em>1641</em>", "<strong>1641</strong>"))
+        self.assertEqual(a, b)
+
+
+class TestCompare(unittest.TestCase):
+    def test_identical(self):
+        problems, n = parity.compare(site({"a/index.html": PAGE}), site({"a/index.html": PAGE}))
+        self.assertEqual((problems, n), ([], 1))
+
+    def test_detects_text_title_description_ids_and_missing_pages(self):
+        changed = (PAGE.replace("1641", "1642").replace("Tri thức -", "Tri thức mới -")
+                   .replace("Mô tả", "Mô tả khác").replace('id="nguon"', 'id="nguon-1"'))
+        problems, n = parity.compare(site({"a/index.html": PAGE, "b/index.html": PAGE}),
+                                     site({"a/index.html": changed, "c/index.html": PAGE}))
+        text = "\n".join(problems)
+        self.assertEqual(n, 3)
+        for needle in ("b/index.html: chỉ có ở bản trước", "c/index.html: chỉ có ở bản sau",
+                       "<title> lệch", "description lệch", "văn bản hiển thị lệch", "-Năm 1641", "+Năm 1642",
+                       "id lệch (mất ['nguon'], thêm ['nguon-1']"):
+            self.assertIn(needle, text)
+
+    def test_cli_exit_codes(self):
+        a, b = site({"x.html": PAGE}), site({"x.html": PAGE.replace("SEP", "IEP")})
+        with contextlib.redirect_stdout(io.StringIO()) as out:
+            self.assertEqual(parity.main([str(a), str(a)]), 0)
+            self.assertEqual(parity.main([str(a), str(b)]), 1)
+        self.assertIn("giống 100%", out.getvalue())
+        self.assertIn("LỆCH", out.getvalue())
+
+
+if __name__ == "__main__":
+    unittest.main()
