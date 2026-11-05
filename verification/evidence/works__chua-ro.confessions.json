@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.confessions",
-  "hash": "sha256:a5e32e0e268fcb12eae0b0e3205896cb6a0b3261d519ac8b9d06860a2e4dc4a5",
+  "hash": "sha256:ebef3d47badc609e248221591ece5f7d4d5a1baf07fd8c767826e93e6b3c0748",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Confessions (tên dịch Anh của Confessiones)",
@@ -42,8 +42,19 @@
       ],
       "severity": "nhe",
       "fix": "year: 396 (lich-su/trung-co.md#nguon; nhãn 'k. 396–400'), hoặc giữ 397 nếu có nguồn ghi 397; SEP augustine ghi 'ca. 396–400'."
+    },
+    {
+      "text": "same_as: augustine.confessiones — cùng tác phẩm với works/augustine.confessiones",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/augustin/",
+          "quote": "His own Confessiones (Confessions)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Augustine\ntrung-voi: augustine.confessiones\nSEP augustine (fall2026) ghi Confessiones 'ca. 396–400'; trang ghi 397–400. 397 nằm trong khoảng soạn nhưng mốc đầu lệch 1 năm so với nguồn đã mở; chưa tìm được nguồn đã mở ghi 397 (IEP, Catholic Encyclopedia không nêu năm; Britannica chặn). Mức nhẹ; chủ biên quyết."
+  "notes": "attribution: Augustine\ntrung-voi: augustine.confessiones\nSEP augustine (fall2026) ghi Confessiones 'ca. 396–400'; trang ghi 397–400. 397 nằm trong khoảng soạn nhưng mốc đầu lệch 1 năm so với nguồn đã mở; chưa tìm được nguồn đã mở ghi 397 (IEP, Catholic Encyclopedia không nêu năm; Britannica chặn). Mức nhẹ; chủ biên quyết.\nKiểm lại 5.1b: same_as mới. IEP augustin: Confessiones (Confessions). Năm và tác giả theo bản ghi đích works/augustine.confessiones. Claim sai (nhẹ) cũ về năm chưa đánh dấu fixed: bản ghi giờ lấy năm của bản ghi đích, đích có years_ok (412/396) và year_note, nhưng vẫn chưa có nguồn đã mở ghi 397; mức nhẹ nên không chặn."
 }

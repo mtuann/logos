@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.candide",
-  "hash": "sha256:ef23727e96d803d693e5c0c1947ff525fdd55fd95c5350caa4bc661218fc8d6f",
+  "hash": "sha256:288ce8b44a33e048407355d6138baba6d25a5821b0fec1b3aaed56d97c4f0e5c",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Candide (Candide, ou l'optimisme)",
@@ -44,8 +44,19 @@
           "quote": "Candide, ou l’Optimisme, first published in 1759"
         }
       ]
+    },
+    {
+      "text": "attribution: Voltaire",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/19942",
+          "quote": "Author Voltaire, 1694-1778"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Voltaire\nGhi chú: phần thư mục SEP voltaire liệt kê 'Candide, or Optimism (1758)' trong một tuyển tập, nhưng thân bài SEP nói rõ 'first published in 1759'; giữ 1759. Không thấy khóa voltaire.* trong works.yml."
+  "notes": "attribution: Voltaire\nGhi chú: phần thư mục SEP voltaire liệt kê 'Candide, or Optimism (1758)' trong một tuyển tập, nhưng thân bài SEP nói rõ 'first published in 1759'; giữ 1759. Không thấy khóa voltaire.* trong works.yml.\nKiểm lại 5.1b: trường attribution mới (\"Voltaire\") khớp claim tác giả cũ; mở lại nguồn trong phiên này."
 }

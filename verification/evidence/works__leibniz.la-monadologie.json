@@ -1,8 +1,8 @@
 {
   "unit": "works/leibniz.la-monadologie",
-  "hash": "sha256:ae0d2ba0c8408a149663707daf640e4ee7d4d494cbdb4bd587b277e0f13f0843",
+  "hash": "sha256:e35e4adc7eaee66b30fd089cc54df89c939e84b96aff333a6efcb61cda9a38b9",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: La Monadologie",
@@ -37,8 +37,28 @@
           "where": "1.1 Chronology of Major Writings"
         }
       ]
+    },
+    {
+      "text": "year_note: năm soạn (1714); in sau khi tác giả mất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz/",
+          "quote": "1714 Monadology"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz/",
+          "quote": "Leibniz died November 14, 1716"
+        },
+        {
+          "url": "https://fr.wikisource.org/wiki/La_Monadologie",
+          "quote": "Date de publication1720",
+          "where": "hộp thông tin Wikidata trên trang Wikisource"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1714 là năm soạn theo niên biểu SEP; tác phẩm in sau khi Leibniz mất (năm in không có trên trang nguồn đã mở)."
+  "notes": "1714 là năm soạn theo niên biểu SEP; tác phẩm in sau khi Leibniz mất (năm in không có trên trang nguồn đã mở). | Kiểm lại 5.1b: year_note mới khớp: soạn 1714 (SEP leibniz), Leibniz mất 1716 (SEP leibniz), in 1720 (hộp dữ liệu trên Wikisource fr, lấy từ Wikidata: nguồn phụ). Không có câu SEP nói thẳng \"in sau khi mất\" cho Monadologie; kết luận ghép từ hai năm."
 }

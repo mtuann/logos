@@ -1,8 +1,8 @@
 {
   "unit": "people/thales",
-  "hash": "sha256:c8ad3303d4d90a72d9ff6cca7180f5404dabdcbe39ecb46975dcd1c28ffb5db2",
+  "hash": "sha256:76b1cbd800892d6074334e7c3db711b9c5e659b399dcb9b81e1a5b6eb7e09bc9",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo01",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "name: Thales; name_en: Thales of Miletus",
@@ -23,12 +23,12 @@
       "sources": [
         {
           "url": "https://iep.utm.edu/thales/",
-          "quote": "Thales of Miletus (c. 620 B.C.E.—c. 546 B.C.E.)",
-          "where": "đầu mục"
+          "quote": "Thales of Miletus (c. 620 B.C.E.—c. 546 B.C.E.)"
         }
       ],
       "severity": "nhe",
-      "fix": "born: -620; years_label: k. 620–546 TCN"
+      "fix": "born: -620; years_label: k. 620–546 TCN",
+      "fixed": true
     },
     {
       "text": "died: -546 (years_label: k. 624–546 TCN)",
@@ -85,5 +85,5 @@
     }
   ],
   "result": "dat",
-  "notes": "SEP không có mục riêng về Thales (archives/fall2026/entries/thales/ trả 'Document Not Found'); dùng IEP. IEP ghi c. 620 TCN cho năm sinh; bản ghi ghi 624 (con số theo truyền thống cổ, nhưng nguồn đã mở không nêu 624). Lệch vài năm trong một năm ước đoán đã có 'k.', nên chỉ xếp mức nhẹ; chủ biên quyết giữ 624 hay theo IEP."
+  "notes": "Kiểm lại 5.1b: born đã sửa thành -620, years_label 'k. 620–546 TCN', khớp IEP thales (mở lại trong phiên). Claim sai nhẹ cũ đánh dấu fixed. SEP không có mục riêng về Thales."
 }

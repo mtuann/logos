@@ -1,8 +1,8 @@
 {
   "unit": "works/khong-tu.le-ky",
-  "hash": "sha256:94fc0a8c566607cedc9bbbc7e2268915feb4efc0c315bf5e6f6a82409d16e15f",
+  "hash": "sha256:a5dc55d25409770958f79c38c3f1709fec425390f6a4b38544a97e637375f46f",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Lễ ký (禮記; Records of Ritual / Liji)",
@@ -38,9 +38,33 @@
         }
       ],
       "severity": "vua",
-      "fix": "Lễ ký không do Khổng Tử soạn: là tập văn của học trò Khổng Tử và nho gia thời Chiến Quốc, Đái Thánh (戴聖, Tây Hán) biên tập. Đề xuất: giữ dưới khong-tu như 'tác phẩm gắn với ông' nhưng thêm attribution: 'Đái Thánh biên tập (Tây Hán); văn của học trò và nho gia đời sau', hoặc chuyển sang author_name Đái Thánh. Câu văn ở people/khong-tu (year 'thời Hán', note 'tuyển tập về lễ') không sai; lỗi chỉ ở trường author của bản ghi."
+      "fix": "Lễ ký không do Khổng Tử soạn: là tập văn của học trò Khổng Tử và nho gia thời Chiến Quốc, Đái Thánh (戴聖, Tây Hán) biên tập. Đề xuất: giữ dưới khong-tu như 'tác phẩm gắn với ông' nhưng thêm attribution: 'Đái Thánh biên tập (Tây Hán); văn của học trò và nho gia đời sau', hoặc chuyển sang author_name Đái Thánh. Câu văn ở people/khong-tu (year 'thời Hán', note 'tuyển tập về lễ') không sai; lỗi chỉ ở trường author của bản ghi.",
+      "fixed": true
+    },
+    {
+      "text": "attribution: Đái Thánh (戴聖, Tây Hán) biên tập; văn của học trò Khổng Tử và nho gia đời sau",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E7%A6%AE%E8%A8%98",
+          "quote": "禮記 輯者：戴聖"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E7%A6%AE%E8%A8%98",
+          "quote": "西漢禮經博士戴德刪簡劉向所集百三十篇爲八十五篇"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E7%A6%AE%E8%A8%98",
+          "quote": "後其姪戴聖刪簡《大戴〈禮記〉》，得四十六篇"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E7%A6%AE%E8%A8%98",
+          "quote": "乃孔子門生及戰國時儒家學者解説《禮經》與「禮學」的文集"
+        }
+      ]
     }
   ],
-  "result": "sua",
-  "notes": "attribution (đề xuất): Đái Thánh (戴聖) biên tập thời Tây Hán; văn của học trò Khổng Tử và nho gia Chiến Quốc. Nguồn: Wikisource zh (trang 禮記, dòng 輯者：戴聖, dẫn Hán thư · Nghệ văn chí). SEP confucius chỉ coi Lễ ký là nguồn chứa đối thoại của Khổng Tử. ctext.org và Britannica chặn tải tự động."
+  "result": "dat",
+  "notes": "attribution (đề xuất): Đái Thánh (戴聖) biên tập thời Tây Hán; văn của học trò Khổng Tử và nho gia Chiến Quốc. Nguồn: Wikisource zh (trang 禮記, dòng 輯者：戴聖, dẫn Hán thư · Nghệ văn chí). SEP confucius chỉ coi Lễ ký là nguồn chứa đối thoại của Khổng Tử. ctext.org và Britannica chặn tải tự động. | Kiểm lại 5.1b: đã thêm attribution đúng đề xuất; claim sai về author đánh fixed. \"Tây Hán\" suy từ Wikisource: Đái Thánh là cháu (姪) của Đái Đức, bác sĩ Lễ kinh thời Tây Hán. SEP confucius chỉ coi Lễ ký là nguồn chứa đối thoại của Khổng Tử; ctext.org và Britannica chặn tải tự động."
 }

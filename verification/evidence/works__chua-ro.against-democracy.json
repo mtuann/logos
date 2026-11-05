@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.against-democracy",
-  "hash": "sha256:9a3349f258c432a26f7985ea74b206e286dd21a526d8a25ad5760eb1f7aa9a2b",
+  "hash": "sha256:2b3b29ade0aeac5a7e141361c92791a94783d86f9963e153894919bee1871d59",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Against Democracy",
@@ -50,8 +50,19 @@
           "quote": "\"first_publish_year\":2016"
         }
       ]
+    },
+    {
+      "text": "attribution: Jason Brennan",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=against+democracy+brennan&fields=title,author_name,first_publish_year,publisher,isbn&limit=3",
+          "quote": "\"author_name\":[\"Jason Brennan\"]"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Jason Brennan. Không trùng khóa nào khác trong data/kb/works.yml. Trang Princeton University Press chặn truy cập tự động (Cloudflare); dùng SEP 'democracy' và catalog Open Library."
+  "notes": "attribution: Jason Brennan. Không trùng khóa nào khác trong data/kb/works.yml. Trang Princeton University Press chặn truy cập tự động (Cloudflare); dùng SEP 'democracy' và catalog Open Library.\nKiểm lại 5.1b: trường attribution mới (\"Jason Brennan\") khớp claim tác giả cũ; mở lại nguồn trong phiên này."
 }

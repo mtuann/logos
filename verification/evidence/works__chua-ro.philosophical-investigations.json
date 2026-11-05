@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.philosophical-investigations",
-  "hash": "sha256:5dc3e94fe7b33347105807eb95463856452e1c6a1ba0887100ac28f5bf256e8c",
+  "hash": "sha256:2ddddd8dd2a1b51186ed2a21ceb0ab37f0578961bfe8ffd63bee409530caaf7b",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Philosophical Investigations",
@@ -36,8 +36,23 @@
           "quote": "Philosophical Investigations (PI) was published posthumously in 1953."
         }
       ]
+    },
+    {
+      "text": "same_as: wittgenstein.philosophische-untersuchungen — cùng tác phẩm với wittgenstein.philosophische-untersuchungen (tên tiếng Anh của Philosophische Untersuchungen; năm 1953, tác giả Wittgenstein theo bản ghi đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28philosophische+untersuchungen%29+AND+creator%3A%28wittgenstein%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=creator&rows=10&output=json",
+          "quote": "\"title\":\"Philosophical investigations = Philosophische untersuchungen\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "Philosophical Investigations (PI) was published posthumously in 1953."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Ludwig Wittgenstein. trung-voi: wittgenstein.philosophische-untersuchungen (tên tiếng Anh của cùng tác phẩm). Xuất bản sau khi ông mất, khớp câu văn trên trang."
+  "notes": "attribution: Ludwig Wittgenstein. trung-voi: wittgenstein.philosophische-untersuchungen (tên tiếng Anh của cùng tác phẩm). Xuất bản sau khi ông mất, khớp câu văn trên trang. Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

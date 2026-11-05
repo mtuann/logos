@@ -1,8 +1,8 @@
 {
   "unit": "works/thales.on-the-solstice",
-  "hash": "sha256:ec128c7cc2f474d65c56886cd82bca979c0eb837650715238796b9654a997751",
+  "hash": "sha256:f27320f0fb22aaf201467628a5339261e16eecae25d3932810608255ad492b1f",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: On the Solstice (Περὶ τροπῆς; cùng với On the Equinox)",
@@ -31,8 +31,24 @@
           "quote": "The works On the Solstice, On the Equinox, which were attributed to Thales (D.L. I.23)"
         }
       ]
+    },
+    {
+      "text": "attribution: chỉ được quy cho Thales theo một số người (Diogenes Laërtius I.23)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_I",
+          "quote": "But according to others he wrote nothing but two treatises, one On the Solstice and one On the Equinox",
+          "where": "Diogenes Laertius I.23, bản dịch Hicks"
+        },
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "which were attributed to Thales (D.L. I.23)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Tác phẩm không còn; chỉ biết qua Diogenes Laertius I.23, và chỉ 'theo một số người' (κατά τινας). IEP ghi 'attributed to Thales' và lưu ý Diogenes nghi ngờ tính xác thực các tác phẩm của Thales. Đề xuất ghi chú attribution: 'quy cho Thales theo Diogenes Laertius I.23; không còn'. Không có năm để kiểm."
+  "notes": "Tác phẩm không còn; chỉ biết qua Diogenes Laertius I.23, và chỉ 'theo một số người' (κατά τινας). IEP ghi 'attributed to Thales' và lưu ý Diogenes nghi ngờ tính xác thực các tác phẩm của Thales. Đề xuất ghi chú attribution: 'quy cho Thales theo Diogenes Laertius I.23; không còn'. Không có năm để kiểm. Kiểm lại 5.1b: attribution mới khớp nguồn."
 }

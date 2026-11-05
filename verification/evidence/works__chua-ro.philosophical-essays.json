@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.philosophical-essays",
-  "hash": "sha256:6cfc7a67ca20a2cfc71e236509310669e8df6c5240ece61524b7b2c53c51b60a",
+  "hash": "sha256:4e91d5705a3f494ccc8500402092c351085e2ac798f0973613241de496d2bf59",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Philosophical Essays",
@@ -48,8 +48,23 @@
           "quote": "\"date\":\"1910\""
         }
       ]
+    },
+    {
+      "text": "attribution: Bertrand Russell",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/cu31924031008802",
+          "quote": "\"creator\":\"Russell, Bertrand, 1872-1970\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/russell/",
+          "quote": "A1910, Philosophical Essays , London: Longmans, Green."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Bertrand Russell. Không trùng khóa nào khác trong data/kb/works.yml. Tuyển tập tiểu luận (London: Longmans, Green, 1910), có bài 'William James's Conception of Truth'; bản archive.org cu31924031008802 mà trang dẫn là bản 1910."
+  "notes": "attribution: Bertrand Russell. Không trùng khóa nào khác trong data/kb/works.yml. Tuyển tập tiểu luận (London: Longmans, Green, 1910), có bài 'William James's Conception of Truth'; bản archive.org cu31924031008802 mà trang dẫn là bản 1910. Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

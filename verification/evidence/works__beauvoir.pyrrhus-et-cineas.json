@@ -1,8 +1,8 @@
 {
   "unit": "works/beauvoir.pyrrhus-et-cineas",
-  "hash": "sha256:10f7ab59fb4b41722af6bc09a478cb778e9f8a5482682f0d1d05ceef6a42d969",
+  "hash": "sha256:8aabd3f1f449f1c3b630e66f87c73bb9800025a9f173b758e6ce3bc520cae118",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "titles: Pyrrhus et Cinéas",
@@ -46,8 +46,24 @@
           "quote": "her first philosophical essay Pyrrhus et Cinéas (1944)"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1943; year_note: viết 1943, in 1944",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/beauvoir/",
+          "quote": "In 1943 she wrote her first philosophical essay, an ethical treatise entitled Pyrrhus et Cinéas"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "1944, Pyrrhus et Cinéas: A Cette Dame, Paris: Editions Gallimard",
+          "where": "Bibliography"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "IEP nói bà viết tiểu luận này năm 1943 ('In 1943 she wrote her first philosophical essay'); xuất bản 1944 theo SEP, nên 1944 đúng là năm công bố."
+  "notes": "Kiểm lại 5.1b: years_ok 1943 và year_note 'viết 1943, in 1944' khớp IEP beauvoir (viết 1943) và SEP beauvoir (in 1944, Gallimard), cả hai mở lại trong phiên. year 1944 là năm công bố lần đầu."
 }

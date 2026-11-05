@@ -1,9 +1,24 @@
 {
   "unit": "works/chua-ro.discourse-on-the-method",
-  "hash": "sha256:a8b706cc5eff975ce89ffe4117789445d4716a484e0bcbb332c892f690ca5876",
+  "hash": "sha256:c08a3567a10f54da679163f60662fb7fc7b0036a650ca29abc47fd2750a11348",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với descartes.discours-de-la-methode",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "Discours de la méthode: pour bein conduire sa raison et chercher la verité dans les sciences = Discourse on the Method"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "1637, Discours de la methode pour bien conduire sa raison"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Discourse on the Method (Discours de la méthode)",
       "kind": "du-kien",
@@ -47,5 +62,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: René Descartes. trung-voi: descartes.discours-de-la-methode (cũng trùng chua-ro.luan-ve-phuong-phap)."
+  "notes": "attribution: René Descartes. trung-voi: descartes.discours-de-la-methode (cũng trùng chua-ro.luan-ve-phuong-phap).\nKiểm lại 5.1b: same_as có claim riêng: SEP ghi bản song ngữ \"Discours de la méthode ... = Discourse on the Method\"; năm 1637 khớp bản ghi đích. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

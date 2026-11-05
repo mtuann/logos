@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.den-hien-dai-tu-truyen-thong",
-  "hash": "sha256:cbb2f5710478809bba491c3f0e9f8bcbf83bf43a9923f6854ce082121c7b295f",
+  "hash": "sha256:3ff35b928783377814a98c620a15ce0400726523f48d597ec78eac5f1c3d510d",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Đến hiện đại từ truyền thống",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "text": "tác giả: Trần Đình Hượu",
+      "text": "attribution / tác giả: Trần Đình Hượu",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -35,14 +35,10 @@
       ]
     },
     {
-      "text": "Năm: 1996 (year; years_seen: cau-hoi/viet-hien-dai.md#doc-van-ban-goc)",
+      "text": "year / year_fixed: 1994 (in lần đầu)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {
-          "url": "https://books.google.com.vn/books/about/%C4%90%E1%BA%BFn_hi%E1%BB%87n_%C4%91%E1%BA%A1i_t%E1%BB%AB_truy%E1%BB%81n_th%E1%BB%91.html?id=RX3XAAAAMAAJ&redir_esc=y&hl=en",
-          "quote": "PublisherVăn hóa, 1996"
-        },
         {
           "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
           "quote": "in lần đầu vào tháng 5/1994"
@@ -52,8 +48,34 @@
           "quote": "Publication details: Hà Nội : [k.n.x.b.], 1994Description: 250 Tr."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1996 (bản NXB Văn hóa)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com.vn/books/about/%C4%90%E1%BA%BFn_hi%E1%BB%87n_%C4%91%E1%BA%A1i_t%E1%BB%AB_truy%E1%BB%81n_th%E1%BB%91.html?id=RX3XAAAAMAAJ&redir_esc=y&hl=en",
+          "quote": "PublisherVăn hóa, 1996"
+        }
+      ]
+    },
+    {
+      "text": "year_note: in lần đầu 1994; bản NXB Văn hóa 1996",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "in lần đầu vào tháng 5/1994"
+        },
+        {
+          "url": "https://books.google.com.vn/books/about/%C4%90%E1%BA%BFn_hi%E1%BB%87n_%C4%91%E1%BA%A1i_t%E1%BB%AB_truy%E1%BB%81n_th%E1%BB%91.html?id=RX3XAAAAMAAJ&redir_esc=y&hl=en",
+          "quote": "Văn hóa, 1996 - Vietnam - 399 pages"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Trần Đình Hượu. 1996 là bản NXB Văn hóa (399 tr., Google Books, gốc thư viện Đại học Michigan) — năm hợp lệ của bản in mà trang dẫn (mục nguồn trang viet-hien-dai ghi NXB Văn hóa, 1996); nhưng sách in lần đầu tháng 5/1994 (trang ĐHQGHN; catalog thư viện Viện Mỹ thuật: Hà Nội, 1994, 250 tr.; lý lịch khoa học ĐHQGHN cũng ghi 1994). Đề xuất year_note: 'in lần đầu 1994; bản NXB Văn hóa 1996'. Chủ biên cân nhắc đổi year sang 1994 nếu theo quy tắc năm xuất bản lần đầu (đơn vị đang ghi 1996: cau-hoi/viet-hien-dai.md#doc-van-ban-goc, và cả hình trục thời gian, mục nguồn của trang đó). Không trùng khóa nào khác trong works.yml."
+  "notes": "attribution: Trần Đình Hượu. 1996 là bản NXB Văn hóa (399 tr., Google Books, gốc thư viện Đại học Michigan) — năm hợp lệ của bản in mà trang dẫn (mục nguồn trang viet-hien-dai ghi NXB Văn hóa, 1996); nhưng sách in lần đầu tháng 5/1994 (trang ĐHQGHN; catalog thư viện Viện Mỹ thuật: Hà Nội, 1994, 250 tr.; lý lịch khoa học ĐHQGHN cũng ghi 1994). Đề xuất year_note: 'in lần đầu 1994; bản NXB Văn hóa 1996'. Chủ biên cân nhắc đổi year sang 1994 nếu theo quy tắc năm xuất bản lần đầu (đơn vị đang ghi 1996: cau-hoi/viet-hien-dai.md#doc-van-ban-goc, và cả hình trục thời gian, mục nguồn của trang đó). Không trùng khóa nào khác trong works.yml.\nKiểm lại 5.1b: year đổi 1996→1994 theo đề xuất lần kiểm đầu; year_fixed 1994, years_ok 1996, year_note đều có nguồn (mở lại trong phiên). Trang vnu.edu.vn là trang tin đại học (không phải nguồn yếu); bản 1994 trong catalog thư viện Viện Mỹ thuật ghi [k.n.x.b.]."
 }

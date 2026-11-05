@@ -1,9 +1,24 @@
 {
   "unit": "works/chua-ro.hien-tuong-luan-va-duy-vat-bien-chung",
-  "hash": "sha256:f17ae11a963388de96d2327dfd95dfaa201eabf15d249631e1b56836aa61aa65",
+  "hash": "sha256:a5ff623e187ac4c68252598aa9023509f55738dc546248a647807087ade7821a",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với tran-duc-thao.phenomenologie-et-materialisme-dialectique",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://damau.org/74446/doc-hien-tuong-luan-v-thuyet-duy-vat-bien-chung-cua-tran-duc-thao",
+          "quote": "phần thứ nhất của cuốn Hiện-tượng Luận và Thuyết Duy-vật Biện-chứng được cụ viết giữa những năm 1942 và 1950"
+        },
+        {
+          "url": "https://www.historicalmaterialism.org/figure/tran-duc-thao/",
+          "quote": "the seminal 1951 book called Phénoménologie et matérialisme dialectique"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Hiện tượng luận và duy vật biện chứng (Phénoménologie et matérialisme dialectique)",
       "kind": "du-kien",
@@ -43,5 +58,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Trần Đức Thảo. trung-voi: tran-duc-thao.phenomenologie-et-materialisme-dialectique. Bản tiếng Anh D. Reidel c1986 (CiNii), khớp note 'bản tiếng Anh 1986' trong people/tran-duc-thao. Chưa mở được nguồn xác nhận tên nhà xuất bản Minh-Tân (chỉ thấy trong kết quả tìm kiếm), nhưng đó không phải claim của bản ghi này."
+  "notes": "attribution: Trần Đức Thảo. trung-voi: tran-duc-thao.phenomenologie-et-materialisme-dialectique. Bản tiếng Anh D. Reidel c1986 (CiNii), khớp note 'bản tiếng Anh 1986' trong people/tran-duc-thao. Chưa mở được nguồn xác nhận tên nhà xuất bản Minh-Tân (chỉ thấy trong kết quả tìm kiếm), nhưng đó không phải claim của bản ghi này.\nKiểm lại 5.1b: same_as có claim riêng: damau.org (trang văn hóa hải ngoại) là nguồn yếu (quyết định 31): bài ghi tên Việt \"Hiện-tượng Luận và Thuyết Duy-vật Biện-chứng\" cho sách của Trần Đức Thảo 1951; tên ở site (\"Hiện tượng luận và duy vật biện chứng\") là biến thể ngắn; trang viet-hien-dai ghi cặp tên Pháp — tên Việt. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

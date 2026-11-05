@@ -1,8 +1,8 @@
 {
   "unit": "works/tran-duc-thao.van-de-con-nguoi-va-chu-nghia-ly-luan-khong-co-con",
-  "hash": "sha256:97e33fcf449e7c8035fbdfdc5701f54e50c0d45185a9e818a5ba2ec9fdcbea07",
+  "hash": "sha256:ffe81ed9740455a772d6fcc0afc50eaf347cd3d4f7c070eeb492fb0fb37d34d0",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Vấn đề con người và chủ nghĩa “lý luận không có con người”",
@@ -50,9 +50,25 @@
         }
       ],
       "severity": "nhe",
-      "fix": "year: 1988 (people/tran-duc-thao đang ghi 1989); thêm year_note: 'in lần đầu 9/1988, NXB TP. Hồ Chí Minh; in lần hai 1/1989'"
+      "fix": "year: 1988 (people/tran-duc-thao đang ghi 1989); thêm year_note: 'in lần đầu 9/1988, NXB TP. Hồ Chí Minh; in lần hai 1/1989'",
+      "fixed": true
+    },
+    {
+      "text": "year: 1988; year_fixed: 1988; years_ok: 1989; year_note: in lần đầu tháng 9/1988, lần hai tháng 1/1989",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://thangnghia.org/wp-content/uploads/2019/07/dtn-tran-duc-thao.pdf",
+          "quote": "Tác phẩm này do Nhà xuất bản Thành phố Hồ Chí Minh ấn hành lần thứ nhất vào tháng 9 năm 1988 và lần thứ hai tháng 1 năm 1989."
+        },
+        {
+          "url": "https://staff.hnue.edu.vn/Tintuc-Sukien/Trangtintonghop/tabid/260/news/1715/TTXVNHoithaoveGSTranDucThaoTrietgiagiuanuirungVietBac.aspx",
+          "quote": "Vấn đề con người và chủ nghĩa lý luận không có con người (1988)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn lệch nhau: Đỗ Thái Nhiên ghi rõ in lần thứ nhất tháng 9/1988, lần thứ hai tháng 1/1989; bài TTXVN đăng lại trên trang ĐHSP Hà Nội ghi (1988); các bài báo khoa học (Tạp chí Triết học 2024; Triết học và Đời sống số 6, 12/2024) trích bản 1989. Năm in lần đầu có vẻ là 1988, 1989 là bản in lần hai. Open Library có bản 2000 ghi 'In lần thứ 2' (cách đánh số lần in không khớp hoàn toàn với Đỗ Thái Nhiên). Chưa mở được bản ghi catalog của bản 1988; chủ biên nên xác nhận trước khi sửa."
+  "notes": "Nguồn lệch nhau: Đỗ Thái Nhiên ghi rõ in lần thứ nhất tháng 9/1988, lần thứ hai tháng 1/1989; bài TTXVN đăng lại trên trang ĐHSP Hà Nội ghi (1988); các bài báo khoa học (Tạp chí Triết học 2024; Triết học và Đời sống số 6, 12/2024) trích bản 1989. Năm in lần đầu có vẻ là 1988, 1989 là bản in lần hai. Open Library có bản 2000 ghi 'In lần thứ 2' (cách đánh số lần in không khớp hoàn toàn với Đỗ Thái Nhiên). Chưa mở được bản ghi catalog của bản 1988; chủ biên nên xác nhận trước khi sửa. Kiểm lại 5.1b: year đã sửa thành 1988 theo đề xuất (claim sai cũ đánh fixed); 1989 thành years_ok. Nguồn cho năm 1988 là bài của Đỗ Thái Nhiên và bài TTXVN đăng lại trên trang ĐHSP Hà Nội: nguồn yếu (quyết định 31), chưa có bản ghi catalog của bản 1988."
 }

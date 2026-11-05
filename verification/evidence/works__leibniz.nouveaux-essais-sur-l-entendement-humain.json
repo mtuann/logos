@@ -1,8 +1,8 @@
 {
   "unit": "works/leibniz.nouveaux-essais-sur-l-entendement-humain",
-  "hash": "sha256:dcda5406f189e8072853847ccb5b9cb829d3bafa391d035bae33d611d1f45c0f",
+  "hash": "sha256:9bb00ef4219ceef23e0935882ada0afbc4e0da1ebe8cdf5c168e9459bc8b8986",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Nouveaux essais sur l'entendement humain",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "text": "year: 1704 (people/leibniz) — năm hoàn thành; in lần đầu 1765",
+      "text": "year: 1765 (year_fixed 1765, năm in lần đầu); years_ok: 1704 (năm hoàn thành) — year: 1704 (people/leibniz) — năm hoàn thành; in lần đầu 1765",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -41,8 +41,19 @@
           "where": "1.1 Chronology of Major Writings"
         }
       ]
+    },
+    {
+      "text": "year_note: hoàn thành 1704, in lần đầu 1765",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz/",
+          "quote": "finished in 1704 but not published until 1765"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: 'hoàn thành 1704, in lần đầu 1765' (SEP leibniz). Theo quy ước 'năm công bố lần đầu', chủ biên có thể cân nhắc đổi year thành 1765; 1704 là cách ghi phổ biến (chính niên biểu SEP dùng 1704)."
+  "notes": "year_note: 'hoàn thành 1704, in lần đầu 1765' (SEP leibniz). Theo quy ước 'năm công bố lần đầu', chủ biên có thể cân nhắc đổi year thành 1765; 1704 là cách ghi phổ biến (chính niên biểu SEP dùng 1704). | Kiểm lại 5.1b: year đổi sang 1765 (year_fixed) và 1704 vào years_ok, đúng quy ước năm công bố lần đầu; khớp SEP leibniz."
 }

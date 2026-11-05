@@ -1,8 +1,8 @@
 {
   "unit": "people/trang-tu",
-  "hash": "sha256:25904bfdadf927eb49a55784e3dc6899c9632c8d108fc1df6f16dfc62c8abfa4",
+  "hash": "sha256:6ea894e145a37d1597280ea7fc423b474e3a3cd0b957f07cf54f9e48fdce3257",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo05",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "name: Trang Tử; name_en: Zhuangzi",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "text": "born: -369 (years_label: k. 369–286 TCN)",
+      "text": "born: -369 (years_label: k. 369–298 TCN)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -34,14 +34,11 @@
         {
           "url": "https://iep.utm.edu/zhuangzi/",
           "quote": "Zhuangzi (Chuang-Tzu, 369—298 B.C.E.)"
-        },
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
-          "quote": "Zhuangzi flourished through the latter half of the fourth century BC, roughly contemporary with Mencius"
         }
       ],
       "severity": "vua",
-      "fix": "died: -298; years_label: k. 369–298 TCN (theo IEP); hoặc đổi nhãn thành 'cuối TK 4 TCN' theo SEP"
+      "fix": "died: -298; years_label: k. 369–298 TCN (theo IEP); hoặc đổi nhãn thành 'cuối TK 4 TCN' theo SEP",
+      "fixed": true
     },
     {
       "text": "school: Trung Hoa",
@@ -103,6 +100,6 @@
       ]
     }
   ],
-  "result": "sua",
-  "notes": "IEP ghi 369–298 TCN; SEP chỉ ghi 'late 4th century BC' / hoạt động nửa sau TK 4 TCN. Năm mất -286 không có trong nguồn đã mở và lệch 12 năm so với IEP; xếp mức vừa (năm cổ ước đoán, đã có 'k.'). influence rỗng."
+  "result": "dat",
+  "notes": "Kiểm lại 5.1b: died đã sửa từ -286 thành -298, years_label 'k. 369–298 TCN', khớp IEP zhuangzi (mở lại trong phiên). Claim sai mức vừa cũ đánh dấu fixed. SEP chỉ ghi 'late 4th century BC'. influence rỗng."
 }

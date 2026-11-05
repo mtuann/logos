@@ -1,8 +1,8 @@
 {
   "unit": "works/khong-tu.xuan-thu",
-  "hash": "sha256:1b05f9905214090637e6f7db57c8b07a90ff24de242f7a9aa9ae575b530e7f26",
+  "hash": "sha256:029abeab9fc60365768d25c2583eceee46f018628636b9186540efbde1fbeae7",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Xuân Thu (春秋; Spring and Autumn Annals / Chunqiu)",
@@ -30,8 +30,29 @@
           "quote": "his work as uncrowned king may be seen in the Spring and Autumn Annals"
         }
       ]
+    },
+    {
+      "text": "attribution: theo truyền thống (Mạnh Tử 3B9) do Khổng Tử soạn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E6%BB%95%E6%96%87%E5%85%AC%E4%B8%8B",
+          "quote": "9[编辑] 公都子曰：「外人皆稱夫子好辯，敢問何也？」",
+          "where": "Mạnh Tử, Đằng Văn Công hạ, chương 9"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E6%BB%95%E6%96%87%E5%85%AC%E4%B8%8B",
+          "quote": "孔子懼，作《春秋》",
+          "where": "Mạnh Tử, Đằng Văn Công hạ, chương 9"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "his work as uncrowned king may be seen in the Spring and Autumn Annals"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Việc Khổng Tử soạn Xuân Thu là thuyết truyền thống từ Mạnh Tử 3B9; people/khong-tu ghi đúng 'truyền thống gán cho ông'. attribution (đề xuất): theo truyền thống (Mạnh Tử 3B9)."
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Việc Khổng Tử soạn Xuân Thu là thuyết truyền thống từ Mạnh Tử 3B9; people/khong-tu ghi đúng 'truyền thống gán cho ông'. attribution (đề xuất): theo truyền thống (Mạnh Tử 3B9). | Kiểm lại 5.1b: attribution mới khớp Mạnh Tử, Đằng Văn Công hạ (= 3B), chương 9 trên Wikisource zh."
 }

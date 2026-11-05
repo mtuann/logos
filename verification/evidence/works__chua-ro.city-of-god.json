@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.city-of-god",
-  "hash": "sha256:9009a009a3dae43dda39e6cf80361f461cabbdee2a9beccd23a8e59a267c3321",
+  "hash": "sha256:8a7131a4f2ede54d3ff3b38b61ea695cc37f9a63324eb96bf13fcab11f93a9d0",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: City of God (tên dịch Anh của De civitate dei)",
@@ -42,8 +42,19 @@
       ],
       "severity": "nhe",
       "fix": "year: 412 (lich-su/trung-co.md#nguon), hoặc giữ 413 nếu có nguồn ghi 413 (năm các quyển đầu lưu hành) và thêm year_note; SEP augustine ghi bắt đầu 412, xong 426."
+    },
+    {
+      "text": "same_as: augustine.de-civitate-dei — cùng tác phẩm với works/augustine.de-civitate-dei",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/augustin/",
+          "quote": "his great work De civitate dei (On the City of God)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Augustine\ntrung-voi: augustine.de-civitate-dei\nSEP augustine (fall2026): 'begun in 412 … completed in 426'. Trang ghi 413–426; mốc 413 thường được dùng (công bố các quyển đầu) nhưng chưa tìm được nguồn đã mở nói 413 (IEP và Catholic Encyclopedia trên newadvent không nêu năm; Britannica chặn). Lệch 1 năm do nguồn khác nhau → mức nhẹ; chủ biên quyết."
+  "notes": "attribution: Augustine\ntrung-voi: augustine.de-civitate-dei\nSEP augustine (fall2026): 'begun in 412 … completed in 426'. Trang ghi 413–426; mốc 413 thường được dùng (công bố các quyển đầu) nhưng chưa tìm được nguồn đã mở nói 413 (IEP và Catholic Encyclopedia trên newadvent không nêu năm; Britannica chặn). Lệch 1 năm do nguồn khác nhau → mức nhẹ; chủ biên quyết.\nKiểm lại 5.1b: same_as mới. IEP augustin: De civitate dei (On the City of God). Năm và tác giả theo bản ghi đích works/augustine.de-civitate-dei. Claim sai (nhẹ) cũ về năm chưa đánh dấu fixed: bản ghi giờ lấy năm của bản ghi đích, đích có years_ok (412/396) và year_note, nhưng vẫn chưa có nguồn đã mở ghi 413; mức nhẹ nên không chặn."
 }

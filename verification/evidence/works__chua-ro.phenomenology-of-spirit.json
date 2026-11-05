@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.phenomenology-of-spirit",
-  "hash": "sha256:2b51eaeb59e39cc81397f4ecce61bf3f9abe2416805206d874b0c379edeb6467",
+  "hash": "sha256:1a498aeefd8a6ee399f986e4001d4f32d9e4abf96e0a410032664867e9cb6336",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Phenomenology of Spirit",
@@ -40,8 +40,19 @@
           "quote": "Phenomenology of Spirit (1807) and Science of Logic (1812–18)"
         }
       ]
+    },
+    {
+      "text": "same_as: hegel.phanomenologie-des-geistes — cùng tác phẩm với hegel.phanomenologie-des-geistes (Phenomenology of Spirit là tên tiếng Anh của Phänomenologie des Geistes; năm 1807, tác giả Hegel theo bản ghi đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hegelsoc/",
+          "quote": "Hegel published his first major work, the Phenomenology of Spirit ( Phänomenologie des Geistes , 1807)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: G. W. F. Hegel. trung-voi: hegel.phanomenologie-des-geistes (tên tiếng Anh của cùng tác phẩm)."
+  "notes": "attribution: G. W. F. Hegel. trung-voi: hegel.phanomenologie-des-geistes (tên tiếng Anh của cùng tác phẩm). Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

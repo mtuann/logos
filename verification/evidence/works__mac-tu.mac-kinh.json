@@ -1,8 +1,8 @@
 {
   "unit": "works/mac-tu.mac-kinh",
-  "hash": "sha256:484bd69377bea1e15b312c3e7bfd73f88c1b243785e4cf956faf0e4ddb5b75f3",
+  "hash": "sha256:064f8328c7e6e50248d623b0530b7fe5f1019f2e15c12dfeb6d8d2523c4b272d",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Mặc kinh (墨經, thiên 40–45 sách Mặc Tử)",
@@ -34,9 +34,29 @@
         }
       ],
       "severity": "nhe",
-      "fix": "Ghi tác giả là Mặc gia hậu kỳ (khuyết danh, thuộc sách Mặc Tử), ví dụ author_name: 'Mặc gia hậu kỳ' hoặc giữ author: mac-tu kèm attribution: 'Mặc gia hậu kỳ'. Mặc Tử (hoạt động cuối TK 5–đầu TK 4 TCN) không phải người viết Mặc kinh."
+      "fix": "Ghi tác giả là Mặc gia hậu kỳ (khuyết danh, thuộc sách Mặc Tử), ví dụ author_name: 'Mặc gia hậu kỳ' hoặc giữ author: mac-tu kèm attribution: 'Mặc gia hậu kỳ'. Mặc Tử (hoạt động cuối TK 5–đầu TK 4 TCN) không phải người viết Mặc kinh.",
+      "fixed": true
+    },
+    {
+      "text": "attribution: Mặc gia hậu kỳ (khuyết danh), trong sách Mặc Tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohist-canons/",
+          "quote": "by anonymous members of the Mohist school"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohist-canons/",
+          "quote": "the Canons are often referred to as the “later Mohist” or “Neo-Mohist” canons"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohist-canons/",
+          "quote": "six texts, which form Books 40 through 45 of the Mozi"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Trang hồ sơ (data/people/mac-tu.yml) đã ghi đúng 'Mặc gia hậu kỳ'; lỗi chỉ ở trường author của bản ghi kho, nên chấm mức nhe. Chủ biên có thể nâng mức nếu bản ghi kho dùng làm căn cứ tác giả ở nơi khác."
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Trang hồ sơ (data/people/mac-tu.yml) đã ghi đúng 'Mặc gia hậu kỳ'; lỗi chỉ ở trường author của bản ghi kho, nên chấm mức nhe. Chủ biên có thể nâng mức nếu bản ghi kho dùng làm căn cứ tác giả ở nơi khác. | Kiểm lại 5.1b: đã thêm attribution đúng đề xuất; claim sai về tác giả đánh fixed."
 }

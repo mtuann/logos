@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.cac-nguyen-ly-cua-triet-hoc",
-  "hash": "sha256:7b97e43d63620db50efaa8c15b6542a8445ae23313744c5f9a3a784c80959283",
+  "hash": "sha256:88b6ca9aad4cc62ae52e5bcf2ff947ff8c5ec30ca2671b6afa8cd68fefade9cf",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Các nguyên lý của triết học (tên dịch Việt của Principia philosophiae / Principles of Philosophy)",
@@ -36,8 +36,23 @@
           "quote": "the Principles of Philosophy, covering his metaphysics and much of his natural philosophy (in Latin, 1644)"
         }
       ]
+    },
+    {
+      "text": "same_as: descartes.principia-philosophiae — cùng tác phẩm với works/descartes.principia-philosophiae",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "1644, Principia philosophiae, Amsterdam: Elzevir"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "the Principles of Philosophy, covering his metaphysics and much of his natural philosophy (in Latin, 1644)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: René Descartes\ntrung-voi: descartes.principia-philosophiae\nCùng tác phẩm với chua-ro.cac-nguyen-ly-triet-hoc (hai cách dịch tên)."
+  "notes": "attribution: René Descartes\ntrung-voi: descartes.principia-philosophiae\nCùng tác phẩm với chua-ro.cac-nguyen-ly-triet-hoc (hai cách dịch tên).\nKiểm lại 5.1b: same_as mới. SEP descartes: Principia philosophiae (1644) = Principles of Philosophy (Latin, 1644). Tên Việt là dịch sát từng chữ của tên Anh; không tìm được nguồn tiếng Việt đã mở cho tên này. Năm và tác giả theo bản ghi đích works/descartes.principia-philosophiae."
 }

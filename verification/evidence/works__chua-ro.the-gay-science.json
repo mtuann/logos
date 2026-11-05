@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.the-gay-science",
-  "hash": "sha256:59a520f41b277d65cefcba015b33ed54777fc4862873896984487d9bd3870f3e",
+  "hash": "sha256:b3cb1a808f534df56937bdab82e42ffd709e2f0aff15055015488c407e56a96c",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: The Gay Science",
@@ -36,8 +36,19 @@
           "quote": "The Gay Science (1882, second expanded edition 1887)"
         }
       ]
+    },
+    {
+      "text": "same_as: nietzsche.die-frohliche-wissenschaft — cùng tác phẩm với nietzsche.die-frohliche-wissenschaft (tên tiếng Anh của Die fröhliche Wissenschaft; năm 1882, tác giả Nietzsche theo bản ghi đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche-life-works/",
+          "quote": "The Gay Science ( Die fröhliche Wissenschaft , 1882)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Friedrich Nietzsche. trung-voi: nietzsche.die-frohliche-wissenschaft (tên tiếng Anh của cùng tác phẩm). Bản mở rộng lần 2 năm 1887; có thể thêm year_note."
+  "notes": "attribution: Friedrich Nietzsche. trung-voi: nietzsche.die-frohliche-wissenschaft (tên tiếng Anh của cùng tác phẩm). Bản mở rộng lần 2 năm 1887; có thể thêm year_note. Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

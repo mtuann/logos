@@ -1,8 +1,8 @@
 {
   "unit": "works/heraclitus.peri-physeos",
-  "hash": "sha256:d72bc26930820a5aa137144d40f885e7da11428929c3eacd9c134a06d8b8c373",
+  "hash": "sha256:b44ce7bb6e36cef582c725b7d5edd805ecb1dda8a0c3739efd6098fecd92cacc",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo14",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Peri physeōs (Περὶ φύσεως, On Nature) — tên mà truyền thống gán cho cuốn sách duy nhất của Heraclitus",
@@ -50,8 +50,33 @@
           "quote": "Heraclitus (fl. c. 500 B.C.E.)"
         }
       ]
+    },
+    {
+      "text": "year_note: ước đoán theo thời tác giả hoạt động (k. 500 TCN); tên sách do người sau gán",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "who was active around 500 BCE"
+        },
+        {
+          "url": "https://iep.utm.edu/heraclit/",
+          "quote": "Heraclitus (fl. c. 500 B.C.E.)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0257:book=9:chapter=1",
+          "quote": "ἐπιγράφουσι δ᾽ αὐτῷ οἱ μὲν Μούσας, οἱ δὲ Περὶ φύσεως",
+          "where": "Diogenes Laertius 9.12"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+          "quote": "The title given to it by some is The Muses",
+          "where": "Diogenes Laërtius IX.12, bản dịch Hicks"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Diogenes Laertius (9.5, và một đoạn sau trong cùng chương: 'ἐπιγράφουσι δ᾽ αὐτῷ οἱ μὲν Μούσας, οἱ δὲ Περὶ φύσεως') cho biết tên 'Về tự nhiên' là tên được gán, không chắc do tác giả đặt. Năm -500 là ước đoán theo thời Heraclitus hoạt động (SEP, IEP), không phải năm soạn được ghi nhận. Đề xuất year_note: 'ước đoán, k. 500 TCN (thời tác giả hoạt động)'."
+  "notes": "Diogenes Laertius (9.5, và một đoạn sau trong cùng chương: 'ἐπιγράφουσι δ᾽ αὐτῷ οἱ μὲν Μούσας, οἱ δὲ Περὶ φύσεως') cho biết tên 'Về tự nhiên' là tên được gán, không chắc do tác giả đặt. Năm -500 là ước đoán theo thời Heraclitus hoạt động (SEP, IEP), không phải năm soạn được ghi nhận. Đề xuất year_note: 'ước đoán, k. 500 TCN (thời tác giả hoạt động)'. Kiểm lại 5.1b: year_note đúng: -500 là ước đoán theo thời hoạt động (SEP, IEP); DL cho biết tên sách do người đời sau đặt khác nhau (Các nàng Muse / Về tự nhiên)."
 }

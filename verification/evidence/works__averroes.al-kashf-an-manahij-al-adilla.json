@@ -1,8 +1,8 @@
 {
   "unit": "works/averroes.al-kashf-an-manahij-al-adilla",
-  "hash": "sha256:22f96f03a254126c97bbf363c5ad2a2c00e6d5f78b845cd3bb42153a79c7c845",
+  "hash": "sha256:75846a4c04b9a319e8bbf3d9afcf9d12abd2363b72520ae63b284f5717205ff1",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: al-Kashf ʿan manahij al-adilla (al-Kashf ʿan manāhij al-adilla fī ʿaqāʾid al-milla)",
@@ -36,8 +36,20 @@
           "quote": "Al-Kashf ʿan manāhij al-adilla fī ʿaqāʾid al-milla (Exposition of the Methods of Proof concerning Religious Doctrines) (1179/80?)"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1180; year_note: 1179/80, chưa chắc",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Exposition of the Methods of Proof concerning Religious Doctrines) (1179/80?)",
+          "where": "Bibliography"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi 1179/80 kèm dấu hỏi; IEP: viết ngay sau Fasl al-Maqal. Tên trong bản ghi bỏ dấu dài (manahij thay manāhij), chấp nhận được. Đề xuất year_note: '1179/80, chưa chắc'."
+  "notes": "Kiểm lại 5.1b: years_ok 1180 và year_note '1179/80, chưa chắc' khớp SEP ibn-rushd (mở lại trong phiên; SEP ghi kèm dấu hỏi)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/arendt.on-revolution",
-  "hash": "sha256:9613f4a31cf7d6e0e2d743e47d1a0f057ba53ac3c438068501545f68029642e8",
+  "hash": "sha256:1ced29b5d2435b3e89defa0f6b2e3755b7f36c40169157af86696d633d533b59",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: On Revolution",
@@ -40,8 +40,19 @@
           "quote": "In this year, she also published On Revolution."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1965; year_note: bản sửa 1965",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arendt/",
+          "quote": "On Revolution. New York: Viking Press, 1963. Revised second edition, 1965."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi Viking Press 1963 (bản sửa 1965). IEP tự mâu thuẫn: phần tiểu sử ghi cùng năm với Eichmann (1963), nhưng chỗ khác ghi 'On Revolution (1961)' và mục sách ghi 'Penguin, 1962'. Theo SEP, 1963 đúng."
+  "notes": "Kiểm lại 5.1b: years_ok 1965 và year_note 'bản sửa 1965' khớp SEP arendt (mở lại trong phiên: 'Revised second edition, 1965'); year 1963 là năm in đầu. IEP tự mâu thuẫn về năm (ghi chú lần kiểm đầu)."
 }

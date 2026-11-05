@@ -1,8 +1,8 @@
 {
   "unit": "works/tue-trung.tue-trung-thuong-si-ngu-luc",
-  "hash": "sha256:1f532e86073f9fd37dfee06fe14d8fddc6fb60c12084c98806b24bdfa50d95c8",
+  "hash": "sha256:828a6f09c953f846c6750c851cd0ec4b7a8000b26b5fa98e3770a2dfddfe448a",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo20",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Tuệ Trung Thượng Sĩ ngữ lục (慧忠上士語錄)",
@@ -37,8 +37,20 @@
           "quote": "Sau ngày ông mất, bộ Thượng sĩ ngữ lục của Tuệ Trung đã được chính tay Pháp Loa biên tập"
         }
       ]
+    },
+    {
+      "text": "attribution: Pháp Loa biên tập sau khi Tuệ Trung mất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/article/download/16248/14546",
+          "quote": "Sau ngày ông mất, bộ Thượng sĩ ngữ lục của Tuệ Trung đã được chính tay Pháp Loa biên tập, trông nom khắc ván tại Yên Tử",
+          "where": "Nguyễn Huệ Chi, Nghiên cứu và Phát triển số 3-4 (110-111), 2014; PDF phông VNI, đã đổi sang Unicode rồi đối chiếu tự động"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn gọi là 'Thượng sĩ ngữ lục' hoặc 'Tuệ Trung thượng sĩ ngữ lục'; bản in cổ nhất còn lại là bản trùng san năm Chính Hòa thứ 4 (1683), tên đầy đủ 'Trần triều Thượng sĩ ngữ lục' (Viện Hán Nôm A.1932, theo Nguyễn Huệ Chi). Sách do Pháp Loa biên tập sau khi Tuệ Trung mất, tức là tập hợp lời và thơ của ông, không phải do ông tự soạn thành sách. Chữ Hán 慧忠上士語錄 chưa thấy trên nguồn đã mở (Nguyễn Huệ Chi trích nguyên văn chữ Hán từ sách nhưng không ghi tên sách bằng chữ Hán); không ảnh hưởng claim tên. year null. Bài của Nguyễn Huệ Chi (Tạp chí Nghiên cứu và Phát triển, số 3-4 (110-111), 2014) là PDF dùng phông VNI; chữ trích đã đổi sang Unicode bằng bảng mã VNI-Windows rồi đối chiếu tự động."
+  "notes": "Nguồn gọi là 'Thượng sĩ ngữ lục' hoặc 'Tuệ Trung thượng sĩ ngữ lục'; bản in cổ nhất còn lại là bản trùng san năm Chính Hòa thứ 4 (1683), tên đầy đủ 'Trần triều Thượng sĩ ngữ lục' (Viện Hán Nôm A.1932, theo Nguyễn Huệ Chi). Sách do Pháp Loa biên tập sau khi Tuệ Trung mất, tức là tập hợp lời và thơ của ông, không phải do ông tự soạn thành sách. Chữ Hán 慧忠上士語錄 chưa thấy trên nguồn đã mở (Nguyễn Huệ Chi trích nguyên văn chữ Hán từ sách nhưng không ghi tên sách bằng chữ Hán); không ảnh hưởng claim tên. year null. Bài của Nguyễn Huệ Chi (Tạp chí Nghiên cứu và Phát triển, số 3-4 (110-111), 2014) là PDF dùng phông VNI; chữ trích đã đổi sang Unicode bằng bảng mã VNI-Windows rồi đối chiếu tự động. Kiểm lại 5.1b: attribution mới khớp nguồn."
 }

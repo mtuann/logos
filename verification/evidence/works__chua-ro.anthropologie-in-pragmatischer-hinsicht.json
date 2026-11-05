@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.anthropologie-in-pragmatischer-hinsicht",
-  "hash": "sha256:83c9bed46d0ddd47b0ff4a24648f308c52de3b2086abf82209497f4001b74658",
+  "hash": "sha256:a3794369141e430b459ad00c56a9408db24d5de5ac956172f317b339cbb402bf",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Anthropologie in pragmatischer Hinsicht",
@@ -41,8 +41,19 @@
           "quote": "Anthropology From a Pragmatic Point of View (1798)"
         }
       ]
+    },
+    {
+      "text": "attribution: Immanuel Kant",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "Anthropology From a Pragmatic Point of View (1798), based on Kant's anthropology lectures"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Immanuel Kant\nKhông thấy khóa kant.anthropologie… trong works.yml."
+  "notes": "attribution: Immanuel Kant\nKhông thấy khóa kant.anthropologie… trong works.yml.\nKiểm lại 5.1b: trường attribution mới (\"Immanuel Kant\") khớp claim tác giả cũ; mở lại nguồn trong phiên này."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.de-revolutionibus",
-  "hash": "sha256:3ab04e6e36f9ad1522f910ff029961397f2f805cb41b12353511ff883cc6472c",
+  "hash": "sha256:492269510f2fc5d148bc032590ea49506f6f971c8b9bb6660b50b16e143f26b5",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: De revolutionibus (De revolutionibus orbium coelestium; On the Revolutions)",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "text": "tác giả: Nicolaus Copernicus",
+      "text": "attribution / tác giả: Nicolaus Copernicus",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -43,5 +43,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Nicolaus Copernicus. Không trùng khóa nào khác trong works.yml."
+  "notes": "attribution: Nicolaus Copernicus. Không trùng khóa nào khác trong works.yml.\nKiểm lại 5.1b: trường attribution mới khớp claim tác giả; mở lại mọi URL cũ, mọi quote còn trên trang."
 }

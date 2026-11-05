@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.principia-ethica",
-  "hash": "sha256:7ea2e6044454baef5c41c6d3150885b95ec54138ad507ed8d676e673fe1fb0eb",
+  "hash": "sha256:01bc6eff36e532c5bcea1565c81fbd490e3900d6a20381c246cdd5d815f960bc",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Principia Ethica",
@@ -40,8 +40,19 @@
           "quote": "Principia Ethica (1903)"
         }
       ]
+    },
+    {
+      "text": "attribution: G. E. Moore",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moore/",
+          "quote": "The main achievement of Moore's early period is his book Principia Ethica . It was published in 1903"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: G. E. Moore. Không trùng khóa nào khác trong data/kb/works.yml."
+  "notes": "attribution: G. E. Moore. Không trùng khóa nào khác trong data/kb/works.yml. Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

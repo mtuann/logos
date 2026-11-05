@@ -1,8 +1,8 @@
 {
   "unit": "people/democritus",
-  "hash": "sha256:dd68948545fb193214f2cce031fc6eb5a03f26d33fb837029fc4a4b0307d6733",
+  "hash": "sha256:c40a28d89ecd59154064eaa940e89fe1c5e706a02a79583c55af93d07b703424",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo01",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "name: Democritus; name_en: Democritus of Abdera",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "text": "born: -460 (years_label: k. 460–370 TCN)",
+      "text": "born: -460 (years_label: sinh k. 460 TCN)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -27,9 +27,16 @@
       ]
     },
     {
-      "text": "died: -370 (years_label: k. 460–370 TCN)",
+      "text": "years_label: sinh k. 460 TCN; dates_note: died -370 chỉ là số ước lượng để xếp trục thời gian, SEP ghi sinh khoảng 460 TCN và không ghi năm mất",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democritus/",
+          "quote": "Democritus was born about 460 BCE (thus, he was a younger contemporary of Socrates)",
+          "where": "mục 1 Life and Works"
+        }
+      ]
     },
     {
       "text": "school: Tiền Socrates",
@@ -76,6 +83,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "SEP democritus và ancient-atomism (fall2026) không nêu năm mất; IEP không có mục Democritus; Britannica chặn (403). Năm mất -370 chưa kiểm được."
+  "result": "dat",
+  "notes": "Kiểm lại 5.1b: bản ghi đổi years_label thành 'sinh k. 460 TCN' và thêm dates_note nói died -370 chỉ là số ước lượng. Đã mở lại SEP democritus (fall2026): chỉ ghi sinh khoảng 460 TCN, không có năm mất (chữ 'death' chỉ xuất hiện trong bàn về linh hồn). Nhãn và dates_note đúng như nguồn; claim chua-kiem-duoc cũ về died được thay bằng claim nhãn/dates_note."
 }

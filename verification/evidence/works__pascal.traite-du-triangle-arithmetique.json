@@ -1,8 +1,8 @@
 {
   "unit": "works/pascal.traite-du-triangle-arithmetique",
-  "hash": "sha256:d88553178ab7cd8b2831a03364bb8eb5c3413d39a63109eb78c09664be6d2a9f",
+  "hash": "sha256:08b0c8ec6d2567b78d431cd7b62519da81d01862c9c63505d8482ef186e7b36b",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Traité du triangle arithmétique",
@@ -40,8 +40,27 @@
           "quote": "remained unpublished until after his death"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1654; year_note: soạn 1653–54, in sau khi tác giả mất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "Pascal’s “Treatise on the Arithmetical Triangle,” which he composed in 1653"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "In the summer of 1654, Pascal returned briefly to mathematics in correspondence with Pierre Fermat"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "He summarized his findings in the Traité du triangle arithmétique which, like much of his other work, remained unpublished until after his death"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1653 là năm soạn (IEP), không phải năm in: SEP và IEP đều nói tác phẩm chỉ in sau khi Pascal mất (1662). Trang người ghi đúng '(1653–1654) ... in sau khi ông mất', nên chấp nhận 1653 theo nghĩa năm soạn. Đề xuất year_note: 'soạn 1653–54, in sau khi ông mất'. Không tìm được trong nguồn đã mở năm in cụ thể (thường nói 1665); không ghi năm này."
+  "notes": "1653 là năm soạn (IEP), không phải năm in: SEP và IEP đều nói tác phẩm chỉ in sau khi Pascal mất (1662). Trang người ghi đúng '(1653–1654) ... in sau khi ông mất', nên chấp nhận 1653 theo nghĩa năm soạn. Đề xuất year_note: 'soạn 1653–54, in sau khi ông mất'. Không tìm được trong nguồn đã mở năm in cụ thể (thường nói 1665); không ghi năm này. Kiểm lại 5.1b: IEP ghi soạn năm 1653; SEP đặt việc tóm kết vào Traité sau thư từ với Fermat mùa hè 1654; cả hai nói in sau khi Pascal mất. year 1653 là năm soạn (di cảo chưa rõ năm in trong nguồn đã mở), đúng quy tắc năm đã chốt."
 }

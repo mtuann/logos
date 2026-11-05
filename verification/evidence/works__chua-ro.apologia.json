@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.apologia",
-  "hash": "sha256:39445dc00bfa138f49e33a8ce65548d842f48bcd38ddc89dac4c004263601d6a",
+  "hash": "sha256:206af478cf00ce3bc2a47cbb0ddf9c62babc216aff0d5e3021f849779c8c5878",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Apologia (Biện hộ của Socrates)",
@@ -29,8 +29,19 @@
           "quote": "Plato, Apology 33a–b"
         }
       ]
+    },
+    {
+      "text": "attribution: Platon",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "There is one striking exception: his Apology"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Platon\nyear null, years_seen rỗng: chỉ kiểm tên và tác giả. Không thấy khóa platon.apology hay tương tự trong works.yml (chỉ có platon.euthyphro, parmenides, phaedo, politeia, symposium)."
+  "notes": "attribution: Platon\nyear null, years_seen rỗng: chỉ kiểm tên và tác giả. Không thấy khóa platon.apology hay tương tự trong works.yml (chỉ có platon.euthyphro, parmenides, phaedo, politeia, symposium).\nKiểm lại 5.1b: trường attribution mới (\"Platon\") khớp claim tác giả cũ; mở lại nguồn trong phiên này. author_name: Platon khớp."
 }

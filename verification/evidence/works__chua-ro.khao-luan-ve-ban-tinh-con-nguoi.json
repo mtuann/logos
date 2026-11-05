@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.khao-luan-ve-ban-tinh-con-nguoi",
-  "hash": "sha256:be1b947b368b94116651e28e114c307ee2a1479727688659cb10be8510654738",
+  "hash": "sha256:80aed421c2cac502d5f664d68a36e6c6c5fe5977a85fe777cc61cbcb1c82f945",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Khảo luận về bản tính con người (A Treatise of Human Nature)",
@@ -36,8 +36,23 @@
           "quote": "Books 1 and 2 of the Treatise were published anonymously in 1739, with Book 3 (as well as a similarly anonymous “Abstract” of the first two books) following a year later in 1740"
         }
       ]
+    },
+    {
+      "text": "same_as: cùng tác phẩm với hume.a-treatise-of-human-nature (\"Khảo luận về bản tính con người\" là tên Việt của A Treatise of Human Nature); author, year của bản ghi theo bản ghi đích (Hume, 1739)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "he began writing A Treatise of Human Nature"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Books 1 and 2 of the Treatise were published anonymously in 1739"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: David Hume. trung-voi: hume.a-treatise-of-human-nature. Quyển 1–2 in 1739, quyển 3 năm 1740; trang ghi '(1739–1740)'. Đề xuất year_note: '1739–40'."
+  "notes": "attribution: David Hume. trung-voi: hume.a-treatise-of-human-nature. Quyển 1–2 in 1739, quyển 3 năm 1740; trang ghi '(1739–1740)'. Đề xuất year_note: '1739–40'. | Kiểm lại 5.1b: same_as đã kiểm. Năm 1739 là năm in quyển 1–2 (quyển 3 năm 1740), khớp bản ghi đích."
 }

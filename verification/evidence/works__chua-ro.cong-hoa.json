@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.cong-hoa",
-  "hash": "sha256:04d05e7edb477c4a7101d451fefcd8b3239d6e02c61ef81b4c1a79bfe22ab488",
+  "hash": "sha256:fa267ff91f298639f4356774a0f1512cbfe7c9c9547d053720498b3a4f614e2a",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Cộng hòa (tên dịch Việt của Politeia / Republic)",
@@ -37,8 +37,24 @@
           "where": "mục Plato's Dialogues, niên đại ước đoán"
         }
       ]
+    },
+    {
+      "text": "same_as: platon.politeia — cùng tác phẩm với works/platon.politeia",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnexpress.net/do-vui-khoa-hoc-2430328-p10.html",
+          "quote": "\"Cộng hòa\" của Plato được xem là cột mốc lớn của triết học phương Tây",
+          "where": "VnExpress 2/3/2013, giới thiệu bản dịch Alpha Books"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "in Plato's Republic"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Platon\ntrung-voi: platon.politeia\nIEP plato: Republic quyển I thuộc nhóm sớm, quyển II–X thuộc nhóm giữa 'c. 380-360 B.C.E.'; trang ghi 'khoảng 380 TCN' khớp ước đoán (đầu khoảng). Đề xuất year_note: 'niên đại ước đoán, IEP: c. 380–360 TCN'. SEP plato không nêu năm."
+  "notes": "attribution: Platon\ntrung-voi: platon.politeia\nIEP plato: Republic quyển I thuộc nhóm sớm, quyển II–X thuộc nhóm giữa 'c. 380-360 B.C.E.'; trang ghi 'khoảng 380 TCN' khớp ước đoán (đầu khoảng). Đề xuất year_note: 'niên đại ước đoán, IEP: c. 380–360 TCN'. SEP plato không nêu năm.\nKiểm lại 5.1b: same_as mới. Nguồn yếu (báo chí, quyết định 31): VnExpress giới thiệu \"Cộng hòa\" của Plato (đối thoại về nhà nước lý tưởng, ẩn dụ cái hang) = Republic/Politeia. Năm và tác giả theo bản ghi đích works/platon.politeia."
 }

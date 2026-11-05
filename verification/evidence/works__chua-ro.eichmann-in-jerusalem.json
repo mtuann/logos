@@ -1,9 +1,20 @@
 {
   "unit": "works/chua-ro.eichmann-in-jerusalem",
-  "hash": "sha256:66b82a7ed7c751f2e6ac066241706dab96b9fb1a0741f2ccc84267b2ecfb4874",
+  "hash": "sha256:e4a8ef3475d2964166d06c4942aa2db64d4f5c2dbcdde21e920658ab8b35e2e0",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với arendt.eichmann-in-jerusalem-a-report-on-the-banality-of",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arendt/",
+          "quote": "[EJ] Eichmann in Jerusalem: A Report on the Banality of Evil. New York: Viking Press, 1963"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Eichmann in Jerusalem (Eichmann in Jerusalem: A Report on the Banality of Evil)",
       "kind": "du-kien",
@@ -39,5 +50,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Hannah Arendt. trung-voi: arendt.eichmann-in-jerusalem-a-report-on-the-banality-of. Bản sửa và bổ sung 1965."
+  "notes": "attribution: Hannah Arendt. trung-voi: arendt.eichmann-in-jerusalem-a-report-on-the-banality-of. Bản sửa và bổ sung 1965.\nKiểm lại 5.1b: same_as có claim riêng: tên rút gọn (bỏ phụ đề) của tên đầy đủ ở bản ghi đích. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

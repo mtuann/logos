@@ -1,8 +1,8 @@
 {
   "unit": "works/marx.manifest-der-kommunistischen-partei",
-  "hash": "sha256:da7022a76571f7882f1b46c225c02832e107e2505cd45b58e7236340d482c5ee",
+  "hash": "sha256:5633702a474039a25d4f23ab8acbd78446a199287a5173a1fa44af787bea8b93",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Manifest der Kommunistischen Partei",
@@ -48,8 +48,23 @@
           "quote": "is a political pamphlet published in 1848"
         }
       ]
+    },
+    {
+      "text": "attribution: Karl Marx và Friedrich Engels",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/61",
+          "quote": "The Communist Manifesto by Karl Marx and Friedrich Engels"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "in the Communist Manifesto, where he and Engels insist"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Đồng tác giả Engels nên ghi trong bản ghi (vd attribution: 'Marx và Engels')."
+  "notes": "Đồng tác giả Engels nên ghi trong bản ghi (vd attribution: 'Marx và Engels'). | Kiểm lại 5.1b: attribution mới khớp Gutenberg #61 và SEP marx."
 }

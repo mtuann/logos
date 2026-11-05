@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.nephelai",
-  "hash": "sha256:8b79887add2107da2af046b3f909c7ef3f81c12597e22743f8b83b7a6118fe79",
+  "hash": "sha256:b12dfada149c237a9c731b8b3e23a8bb154d97d0d06a4f71d593fac387b28fcf",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Nephelai (chuyển tự Latin của Νεφέλαι, Clouds)",
@@ -44,8 +44,38 @@
           "quote": "His comedy, Clouds, was produced within a year of the battle of Delium (423)"
         }
       ]
+    },
+    {
+      "text": "attribution: Aristophanes",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0019.tlg003",
+          "quote": "Work title: Clouds Textgroup: tlg0019 Author: Aristophanes"
+        },
+        {
+          "url": "https://el.wikisource.org/wiki/%CE%9D%CE%B5%CF%86%CE%AD%CE%BB%CE%B1%CE%B9",
+          "quote": "Νεφέλαι Κωμῳδία Ἀριστοφάνους"
+        }
+      ]
+    },
+    {
+      "text": "year_note: \"diễn lần đầu 423 TCN; bản còn lại là bản sửa sau đó\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Aristophanes did not stop accusing Socrates in 423 when Clouds placed third"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "he soon began writing a revision, which he circulated but never produced. Complicating matters, the revision is our only extant version of the play."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Aristophanes. trung-voi: chua-ro.may (cùng vở hài kịch, tên Việt \"Mây\")."
+  "notes": "attribution: Aristophanes. trung-voi: chua-ro.may (cùng vở hài kịch, tên Việt \"Mây\"). | Kiểm lại 5.1b: attribution; year_note đã kiểm. year_note được SEP Socrates xác nhận: bản còn lại là bản sửa, chưa từng diễn."
 }

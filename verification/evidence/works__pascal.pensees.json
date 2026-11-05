@@ -1,8 +1,8 @@
 {
   "unit": "works/pascal.pensees",
-  "hash": "sha256:33956d8551ff655b8803b19aa41ea657ebcfdcfcafe6d17c21fdfe905b136d29",
+  "hash": "sha256:9c24bb8ed9a931f5c36b60ba5f7f845373a423c7b9e35e16da7a9d5e386a88fa",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Pensées",
@@ -44,8 +44,23 @@
           "quote": "The original Port Royal edition of Pascal’s works came out in 1670"
         }
       ]
+    },
+    {
+      "text": "year_note: in sau khi tác giả mất, bản Port-Royal 1670",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "The Pensées is a posthumously published collection of unfinished notes"
+        },
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "The original Port Royal edition of Pascal’s works came out in 1670"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Năm 1670 là bản Port-Royal in lần đầu (sau khi Pascal mất 1662). Có thể thêm year_note: 'in sau khi ông mất, bản Port-Royal 1670'."
+  "notes": "Năm 1670 là bản Port-Royal in lần đầu (sau khi Pascal mất 1662). Có thể thêm year_note: 'in sau khi ông mất, bản Port-Royal 1670'. Kiểm lại 5.1b: year_note mới khớp nguồn."
 }

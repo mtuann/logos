@@ -1,8 +1,8 @@
 {
   "unit": "works/anselm.proslogion",
-  "hash": "sha256:21f7278d2c3fa09337cec2cb2c36f22ba6fe7e53ef9a9946e05905b0aaa7c3fb",
+  "hash": "sha256:f071c9e42bd23db4ccada524bc0f9e1a5066c1111919fc00d918958123123784",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Proslogion",
@@ -40,8 +40,23 @@
           "quote": "and in 1078 the Proslogion"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1078; year_note: soạn 1077–78",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/anselm/",
+          "quote": "the Proslogion (1077–78)"
+        },
+        {
+          "url": "https://iep.utm.edu/anselm/",
+          "quote": "and in 1078 the Proslogion"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP ghi 1077–78, khớp với cách trang ghi '1077–1078'; IEP ghi 1078. Có thể thêm year_note: 'soạn 1077–78'."
+  "notes": "Kiểm lại 5.1b: years_ok 1078 và year_note 'soạn 1077–78' khớp SEP anselm và IEP anselm (mở lại trong phiên)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "people/heraclitus",
-  "hash": "sha256:55fb58d8cc5b98cd0359077049e073c62fda674e8990eef7c09f511473bd08e3",
+  "hash": "sha256:f92fb3998c186090ee5e664ffd353af6310a69221e352ee779bfa98bc820faf0",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo01",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "name: Heraclitus; name_en: Heraclitus of Ephesus",
@@ -16,9 +16,9 @@
       ]
     },
     {
-      "text": "born: -540; died: -480 (years_label: k. 540–480 TCN)",
+      "text": "years_label: hoạt động k. 500 TCN; dates_note: born -540/died -480 chỉ là số ước lượng để xếp trục thời gian, SEP và IEP chỉ ghi ông hoạt động khoảng năm 500 TCN",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
@@ -37,7 +37,7 @@
       "sources": [
         {
           "url": "https://iep.utm.edu/heraclit/",
-          "quote": "DK22B121 in the Diels-Kranz collection of Presocratic sources"
+          "quote": "DK 22B121 in the Diels-Kranz collection of Presocratic sources"
         }
       ]
     },
@@ -109,6 +109,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "SEP và IEP chỉ ghi Heraclitus hoạt động khoảng 500 TCN, không nêu năm sinh/mất; 540–480 không có trong nguồn đã mở. Britannica chặn truy cập (403). Có thể cân nhắc đổi nhãn thành 'hoạt động k. 500 TCN'. Cạnh tới Marcus Aurelius chỉ dựa vào việc Marcus trích Heraclitus (SEP marcus-aurelius); cạnh tới Hegel: SEP nói 'Since Hegel' ông được xem là triết gia quá trình, tức Hegel đọc và đánh giá Heraclitus."
+  "result": "dat",
+  "notes": "Kiểm lại 5.1b: bản ghi đổi years_label thành 'hoạt động k. 500 TCN' và thêm dates_note. Đã mở lại SEP heraclitus (fall2026) và IEP heraclit: cả hai chỉ ghi hoạt động khoảng 500 TCN, không nêu năm sinh/mất; nhãn và dates_note mô tả đúng nguồn. Claim chua-kiem-duoc cũ về 540–480 được thay. Cạnh tới Marcus Aurelius chỉ dựa vào việc Marcus trích Heraclitus (SEP marcus-aurelius); cạnh tới Hegel: SEP nói 'Since Hegel' ông được xem là triết gia quá trình."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.animal-liberation",
-  "hash": "sha256:98a6629394efc8c0954299af9a51d224f06207df80064578acb5e8a6e7c6e288",
+  "hash": "sha256:b8f7d77c5a38ed54e77f4e1f705825dcbe4c6026a46f99067b211231802a46b9",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Animal Liberation",
@@ -41,8 +41,19 @@
           "where": "Bibliography"
         }
       ]
+    },
+    {
+      "text": "attribution: Peter Singer",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-environmental/",
+          "quote": "Singer, P., 1975. Animal Liberation"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Peter Singer\nKhông thấy khóa trùng trong works.yml."
+  "notes": "attribution: Peter Singer\nKhông thấy khóa trùng trong works.yml.\nKiểm lại 5.1b: trường attribution mới (\"Peter Singer\") khớp claim tác giả cũ; mở lại nguồn trong phiên này."
 }

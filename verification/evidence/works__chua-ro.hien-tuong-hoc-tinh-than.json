@@ -1,9 +1,20 @@
 {
   "unit": "works/chua-ro.hien-tuong-hoc-tinh-than",
-  "hash": "sha256:77225b6a565a54d5192da3289b930e3bdd1983061f9a36634926449e9334d53a",
+  "hash": "sha256:7949a2e5bbcd256241a9299a0548bda846833d51fc7f19c68f713f87f5c07c18",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo10",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với hegel.phanomenologie-des-geistes",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hegelsoc/",
+          "quote": "the Phenomenology of Spirit ( Phänomenologie des Geistes , 1807)"
+        }
+      ]
+    },
     {
       "text": "Tác phẩm có thật, tên: Hiện tượng học Tinh thần (Phänomenologie des Geistes; Phenomenology of Spirit)",
       "kind": "du-kien",
@@ -43,5 +54,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: G. W. F. Hegel. trung-voi: hegel.phanomenologie-des-geistes (cũng trùng chua-ro.phenomenology-of-spirit; chua-ro.phenomenologie-de-lesprit là tên bản dịch Pháp)."
+  "notes": "attribution: G. W. F. Hegel. trung-voi: hegel.phanomenologie-des-geistes (cũng trùng chua-ro.phenomenology-of-spirit; chua-ro.phenomenologie-de-lesprit là tên bản dịch Pháp).\nKiểm lại 5.1b: same_as có claim riêng: tên Việt dịch sát \"Phenomenology of Spirit\"/\"Phänomenologie des Geistes\"; trang lich-su/the-ky-19 ghi cặp \"Hiện tượng học Tinh thần (Phenomenology of Spirit, 1807)\". Tìm thấy (qua kết quả tìm kiếm) bản dịch tiếng Việt \"Hiện tượng học tinh thần\" NXB Văn học 2006, nhưng trang thư viện số Quốc hội trả 403 nên không dùng làm nguồn. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

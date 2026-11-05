@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.su-ra-doi-cua-bi-kich",
-  "hash": "sha256:e108f1896ab6720ad125f5c8aec7906ecbd7b1fa9a10766360607236704d8769",
+  "hash": "sha256:d59c5e2fb048485209fde26ea280494ea104581dedeacd162d149cff12797da1",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Sự ra đời của bi kịch (bản dịch tên The Birth of Tragedy / Die Geburt der Tragödie)",
@@ -36,8 +36,23 @@
           "quote": "His first book, The Birth of Tragedy out of the Spirit of Music (1872)"
         }
       ]
+    },
+    {
+      "text": "same_as: nietzsche.die-geburt-der-tragodie — cùng tác phẩm với nietzsche.die-geburt-der-tragodie (“Sự ra đời của bi kịch” là tên dịch tiếng Việt của Die Geburt der Tragödie / The Birth of Tragedy; năm 1872, tác giả Nietzsche theo bản ghi đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche-life-works/",
+          "quote": "was entitled The Birth of Tragedy, Out of the Spirit of Music ( Die Geburt der Tragödie aus dem Geiste der Musik )"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/51356",
+          "quote": "Uniform Title Die Geburt der Tragödie. English Title The Birth of Tragedy"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Friedrich Nietzsche. trung-voi: nietzsche.die-geburt-der-tragodie (tên tiếng Việt của cùng tác phẩm)."
+  "notes": "attribution: Friedrich Nietzsche. trung-voi: nietzsche.die-geburt-der-tragodie (tên tiếng Việt của cùng tác phẩm). Kiểm lại 5.1b: tên tiếng Việt là bản dịch tên của site; nguồn xác nhận Die Geburt der Tragödie = The Birth of Tragedy, 1872."
 }

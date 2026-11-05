@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.may",
-  "hash": "sha256:543b067ba7915245cee17aed4a89156ac11e1ce936018c3fa6e58338830e5a94",
+  "hash": "sha256:7c1602c43e509479a3fa88cccb1016880a835eb4a2f52083a57403aef08b10d3",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Mây (tên Việt của Νεφέλαι / Clouds)",
@@ -48,8 +48,27 @@
           "quote": "His comedy, Clouds, was produced within a year of the battle of Delium (423)"
         }
       ]
+    },
+    {
+      "text": "same_as: cùng tác phẩm với chua-ro.nephelai (\"Mây\" là tên Việt của Νεφέλαι (Nephelai, Clouds) của Aristophanes); author, year của bản ghi theo bản ghi đích (năm -423 theo chua-ro.nephelai)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://el.wikisource.org/wiki/%CE%9D%CE%B5%CF%86%CE%AD%CE%BB%CE%B1%CE%B9",
+          "quote": "Νεφέλαι Κωμῳδία Ἀριστοφάνους"
+        },
+        {
+          "url": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0019.tlg003",
+          "quote": "Work title: Clouds Textgroup: tlg0019 Author: Aristophanes"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "His Clouds (423 B.C.E.)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Aristophanes. trung-voi: chua-ro.nephelai (cùng vở hài kịch, tên gốc Hy Lạp). Năm 423 TCN là lần diễn đầu; bản văn còn lại là bản sửa sau đó (không kiểm trong phiên này)."
+  "notes": "attribution: Aristophanes. trung-voi: chua-ro.nephelai (cùng vở hài kịch, tên gốc Hy Lạp). Năm 423 TCN là lần diễn đầu; bản văn còn lại là bản sửa sau đó (không kiểm trong phiên này). | Kiểm lại 5.1b: same_as đã kiểm."
 }

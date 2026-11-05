@@ -1,8 +1,8 @@
 {
   "unit": "works/mac-tu.mac-tu",
-  "hash": "sha256:f7e89a8d31ed65c5b5d2b2d3b8bf5b982679332ec9dacd9049006b7f2f13bdc7",
+  "hash": "sha256:6a3ced90269c78f274872fc4d24005b2580f549a7b814d98cd17d62711bdb946",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Mặc Tử (墨子, tên sách)",
@@ -29,8 +29,23 @@
           "quote": "the different parts of the book ranging in date from the 5th to the 3rd century BCE"
         }
       ]
+    },
+    {
+      "text": "attribution: khuyết danh, nhiều thế hệ Mặc gia",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "a corpus of anonymously authored texts collected into a book called the Mozi"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "the different parts of the book ranging in date from the 5th to the 3rd century BCE"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Sách mang tên Mặc Tử, khuyết danh, do nhiều thế hệ Mặc gia soạn; trang hồ sơ đã ghi rõ. Gán author: mac-tu theo lệ tên sách là chấp nhận được."
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Sách mang tên Mặc Tử, khuyết danh, do nhiều thế hệ Mặc gia soạn; trang hồ sơ đã ghi rõ. Gán author: mac-tu theo lệ tên sách là chấp nhận được. | Kiểm lại 5.1b: attribution mới khớp SEP mohism."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/augustine.de-libero-arbitrio",
-  "hash": "sha256:7e22cd70376819d4168d1f8fd2fc5703e43bb4c627242958249a5d13b77d8018",
+  "hash": "sha256:48172bfa637a7c41d2a9c75590cf660f800a2983deadda0f6fc1c72348766e34",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo07",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: De libero arbitrio",
@@ -36,8 +36,19 @@
           "quote": "De libero arbitrio, begun in 388 and completed perhaps as late as 395"
         }
       ]
+    },
+    {
+      "text": "year_note: soạn 388–395",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "De libero arbitrio, begun in 388 and completed perhaps as late as 395"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "SEP: khởi 388, xong có thể muộn tới 395. Đề xuất year_note: 'soạn 388–395'."
+  "notes": "Kiểm lại 5.1b: year_note 'soạn 388–395' khớp SEP augustine (mở lại trong phiên; SEP nói xong 'có thể muộn tới 395')."
 }

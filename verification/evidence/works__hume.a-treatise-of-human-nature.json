@@ -1,8 +1,8 @@
 {
   "unit": "works/hume.a-treatise-of-human-nature",
-  "hash": "sha256:978582ab4500c08b170f3f41a362d3cdf1b8a2ed373bba294fac5bc256ab5b58",
+  "hash": "sha256:5039d7f565dfb19b70a25dbdc11f69698ffec12d4bc55e9582c1f437fc60c3ed",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo15",
+  "checker": "agent-kiem-5.1b-lo06",
   "claims": [
     {
       "text": "titles: A Treatise of Human Nature",
@@ -36,8 +36,19 @@
           "quote": "Books 1 and 2 of the Treatise were published anonymously in 1739, with Book 3"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1740; year_note: quyển 1–2 năm 1739, quyển 3 năm 1740",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Books 1 and 2 of the Treatise were published anonymously in 1739, with Book 3 (as well as a similarly anonymous “Abstract” of the first two books) following a year later in 1740."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: Quyển 1–2 in năm 1739, Quyển 3 năm 1740 (SEP ghi 1739–40). Các trang ghi 1739–1740 là đúng."
+  "notes": "year_note: Quyển 1–2 in năm 1739, Quyển 3 năm 1740 (SEP ghi 1739–40). Các trang ghi 1739–1740 là đúng. Kiểm lại 5.1b: years_ok và year_note đúng."
 }

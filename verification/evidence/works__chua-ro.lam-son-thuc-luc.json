@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.lam-son-thuc-luc",
-  "hash": "sha256:67dfc2213944e3917bd787de5acedf72d7f1a1959f1fd312ade12a9397746399",
+  "hash": "sha256:1ab0f99ef1a1dea3fe5bc9c9bdcd7339982aeaf1d9c1b7ff02f296c5a446295d",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo11",
+  "checker": "agent-kiem-5.1b-lo04",
   "claims": [
     {
       "text": "titles: Lam Sơn thực lục",
@@ -31,7 +31,38 @@
       ]
     },
     {
-      "text": "year: 1944 (doc/nguyen-trai-binh-ngo.md#_dau)",
+      "text": "attribution: Nguyễn Trãi soạn, Lê Lợi đề tựa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c",
+          "quote": "Nguyên bản bằng chữ Hán do Nguyễn Trãi viết, Lê Lợi đề tựa."
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c",
+          "quote": "NGUYỄN TRÃI biên-soạn LÊ THÁI-TỔ đề tựa"
+        }
+      ]
+    },
+    {
+      "text": "year_fixed: 1431 (năm soạn nguyên bản chữ Hán; year = 1431)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c",
+          "quote": "Lam Sơn thực lục (1431) của Nguyễn Trãi"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c/T%E1%BB%B1a_c%E1%BB%A7a_vua_L%C3%AA_Th%C3%A1i_T%E1%BB%95",
+          "quote": "Khi ấy là: Ngày tốt, tháng giữa Đông, năm thứ-tư hiệu Thuận-thiên.",
+          "where": "Tựa của vua Lê Thái Tổ, phần dịch nghĩa"
+        }
+      ]
+    },
+    {
+      "text": "years_ok: 1944; year_note: \"nguyên bản chữ Hán soạn 1431; 1944 là năm bản dịch Mạc Bảo Thần\"",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -41,11 +72,11 @@
         },
         {
           "url": "https://vi.wikisource.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c",
-          "quote": "(1431)  của Nguyễn Trãi, do Mạc Bảo Thần dịch"
+          "quote": "Lam Sơn thực lục (1431) của Nguyễn Trãi , do Mạc Bảo Thần dịch"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Nguyễn Trãi (Lê Lợi đề tựa). Không trùng khóa nào khác (các khóa nguyen-trai.* là tác phẩm khác). year_note: 1944 là năm bản dịch Mạc Bảo Thần (câu văn của trang nói đúng về bản dịch); nguyên bản chữ Hán soạn năm 1431 theo Wikisource tiếng Việt. Đề xuất: year 1431, year_note \"bản dịch Mạc Bảo Thần 1944\"."
+  "notes": "attribution: Nguyễn Trãi (Lê Lợi đề tựa). Không trùng khóa nào khác (các khóa nguyen-trai.* là tác phẩm khác). year_note: 1944 là năm bản dịch Mạc Bảo Thần (câu văn của trang nói đúng về bản dịch); nguyên bản chữ Hán soạn năm 1431 theo Wikisource tiếng Việt. Đề xuất: year 1431, year_note \"bản dịch Mạc Bảo Thần 1944\". | Kiểm lại 5.1b: attribution; year_fixed; years_ok đã kiểm. Claim cũ \"year: 1944\" được thay bằng claim years_ok/year_note (1944 nay là năm hợp lệ phụ, năm bản dịch), vì year đã đổi thành 1431 theo đề xuất của lần kiểm đầu. Wikisource ghi \"(1431)\" ở đầu trang và xếp vào \"Tác phẩm 1431\"; lời tựa đề \"năm thứ-tư hiệu Thuận-thiên\" (Thuận Thiên năm 4), khớp 1431. Ghi chú trang nói người đời sau có sửa chữa, thêm bớt."
 }

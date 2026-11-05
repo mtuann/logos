@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.a-sand-county-almanac",
-  "hash": "sha256:1cc2e460a9bcf5668e43df7925facdc523e7387bfa826933a63ced9712004877",
+  "hash": "sha256:86717cf4a9573475d04fe64d1718434b71cfa63dea3f01a758ea871c977447b9",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo08",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: A Sand County Almanac",
@@ -49,8 +49,19 @@
           "quote": "Leopold, A., 1949. A Sand County Almanac, Oxford: Oxford University Press."
         }
       ]
+    },
+    {
+      "text": "attribution: Aldo Leopold",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/envi-eth/",
+          "quote": "Leopold, Aldo, A Sand County Almanac"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Aldo Leopold. Không trùng khóa nào khác trong data/kb/works.yml. Chi tiết 'xuất bản sau khi ông mất' trong câu văn không thuộc bản ghi; nguồn đã mở không nêu."
+  "notes": "attribution: Aldo Leopold. Không trùng khóa nào khác trong data/kb/works.yml. Chi tiết 'xuất bản sau khi ông mất' trong câu văn không thuộc bản ghi; nguồn đã mở không nêu.\nKiểm lại 5.1b: trường attribution mới (\"Aldo Leopold\") khớp claim tác giả cũ; mở lại nguồn trong phiên này."
 }

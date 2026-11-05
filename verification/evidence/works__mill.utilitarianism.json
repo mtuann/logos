@@ -1,8 +1,8 @@
 {
   "unit": "works/mill.utilitarianism",
-  "hash": "sha256:0cc06dbc8635e0354de064b359495f699c25bd3566dea824b91316c1ea51db95",
+  "hash": "sha256:cfd9bf6def07a66e0f63dc26477ae4a3b98fc8bd17b4134959f54fc26d6422dc",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo17",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Utilitarianism",
@@ -51,8 +51,19 @@
           "quote": "it was later brought out in book form in 1863"
         }
       ]
+    },
+    {
+      "text": "year: 1861 (year_fixed); years_ok: 1863; year_note: đăng kỳ trên Fraser’s Magazine 1861, in thành sách 1863",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/milljs/",
+          "quote": "Mill published Utilitarianism (1861) in installments in Fraser’s Magazine (it was later brought out in book form in 1863)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year đang null. Lần công bố đầu: 1861, đăng nhiều kỳ trên Fraser’s Magazine (IEP, SEP); in thành sách 1863 (IEP). Cả hai năm hợp lệ. Đề xuất year: 1861; year_note: \"đăng kỳ trên Fraser’s Magazine năm 1861, in thành sách năm 1863\". Các trang ghi 1863 nói \"cuốn\" (sách) nên không sai."
+  "notes": "year đang null. Lần công bố đầu: 1861, đăng nhiều kỳ trên Fraser’s Magazine (IEP, SEP); in thành sách 1863 (IEP). Cả hai năm hợp lệ. Đề xuất year: 1861; year_note: \"đăng kỳ trên Fraser’s Magazine năm 1861, in thành sách năm 1863\". Các trang ghi 1863 nói \"cuốn\" (sách) nên không sai. | Kiểm lại 5.1b: year 1861 (year_fixed), years_ok 1863 và year_note khớp IEP milljs và SEP mill."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "works/marx.okonomisch-philosophische-manuskripte",
-  "hash": "sha256:a025fdce7f56091e661e539e09f345d37b9d77f208ec1419409b2dd51e2cb8f1",
+  "hash": "sha256:85b1be0fbb33b2b583cb1131d099f55019bcba1f8741af21a60a05360553d5e8",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Ökonomisch-philosophische Manuskripte (Bản thảo kinh tế – triết học 1844)",
@@ -31,7 +31,18 @@
       ]
     },
     {
-      "text": "year: 1844 (people/marx) — năm soạn; in lần đầu 1932",
+      "text": "year: 1932 (year_fixed, năm in lần đầu); years_ok: 1844 (năm soạn) — year: 1844 (people/marx) — năm soạn; in lần đầu 1932",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm",
+          "quote": "Written: Between April and August 1844; First Published: 1932"
+        }
+      ]
+    },
+    {
+      "text": "year_note: soạn 1844, in lần đầu 1932",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -43,5 +54,5 @@
     }
   ],
   "result": "dat",
-  "notes": "year_note: 'soạn 1844, in lần đầu 1932'."
+  "notes": "year_note: 'soạn 1844, in lần đầu 1932'. | Kiểm lại 5.1b: year đổi sang 1932 (year_fixed), 1844 vào years_ok; khớp marxists.org."
 }

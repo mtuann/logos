@@ -1,8 +1,8 @@
 {
   "unit": "works/marx.thesen-uber-feuerbach",
-  "hash": "sha256:a9cca86a218b6ad3851373591d3445ccd30952636416678717a598bc80f15574",
+  "hash": "sha256:76d2b53c273e235a8bfb50e243992ed3ddab95ed49edf250189c7107c5cb6dad",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Thesen über Feuerbach",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "text": "year: 1845 (people/marx) — năm soạn",
+      "text": "year: 1888 (year_fixed, năm in lần đầu, bản Engels biên tập); years_ok: 1845 (năm soạn) — year: 1845 (people/marx) — năm soạn",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -44,8 +44,27 @@
           "quote": "Written: by Marx in Brussels in the spring of 1845"
         }
       ]
+    },
+    {
+      "text": "year_note: soạn xuân 1845; Engels in bản đã biên tập năm 1888; nguyên bản in 1924",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/index.htm",
+          "quote": "Written: by Marx in Brussels in the spring of 1845"
+        },
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/index.htm",
+          "quote": "The most widely known version of the Theses is that based on Engels’ edited version, published as an appendix to his Ludwig Feuerbach in 1888"
+        },
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1845/theses/index.htm",
+          "quote": "Marx’s original text was first published in 1924"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: 'soạn mùa xuân 1845; Engels in bản đã biên tập năm 1888; nguyên bản in 1924' (marxists.org). Tên 'Thesen über Feuerbach' là tên Engels đặt năm 1888."
+  "notes": "year_note: 'soạn mùa xuân 1845; Engels in bản đã biên tập năm 1888; nguyên bản in 1924' (marxists.org). Tên 'Thesen über Feuerbach' là tên Engels đặt năm 1888. | Kiểm lại 5.1b: year đổi sang 1888 (year_fixed), years_ok 1845, year_note khớp marxists.org."
 }

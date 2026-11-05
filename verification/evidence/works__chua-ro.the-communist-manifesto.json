@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.the-communist-manifesto",
-  "hash": "sha256:856738bf52a2bc97595572be714f6d8e974668efb284ad8a72287dfdbd072bef",
+  "hash": "sha256:a7c1153070355fe2e40717a6b3b7ee4043a7a7b627a1d9705513082632998ae2",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo12",
+  "checker": "agent-kiem-5.1b-lo05",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: The Communist Manifesto (tên Anh của Manifest der Kommunistischen Partei)",
@@ -44,8 +44,19 @@
           "quote": "\"The Communist Manifesto\" by Karl Marx and Friedrich Engels is a political pamphlet published in 1848."
         }
       ]
+    },
+    {
+      "text": "same_as: marx.manifest-der-kommunistischen-partei — cùng tác phẩm với marx.manifest-der-kommunistischen-partei (tên tiếng Anh của Manifest der Kommunistischen Partei; năm 1848, tác giả theo bản ghi đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/61",
+          "quote": "Uniform Title Manifest der Kommunistischen Partei. English Title The Communist Manifesto"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Karl Marx & Friedrich Engels. trung-voi: marx.manifest-der-kommunistischen-partei (cùng tác phẩm; cũng trùng chua-ro.tuyen-ngon-cua-dang-cong-san)."
+  "notes": "attribution: Karl Marx & Friedrich Engels. trung-voi: marx.manifest-der-kommunistischen-partei (cùng tác phẩm; cũng trùng chua-ro.tuyen-ngon-cua-dang-cong-san). Kiểm lại 5.1b: trường mới đã có claim với nguồn mở lại trong phiên này."
 }

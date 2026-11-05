@@ -1,8 +1,8 @@
 {
   "unit": "works/pascal.les-provinciales",
-  "hash": "sha256:979fb8674ab30300b15c2c7af09884a284fef4fb90ea666de101baaa53478022",
+  "hash": "sha256:5114408c453e763ca5513f813a54f4230ebb3a68145f99c9cc7f5baea6162eb2",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Les Provinciales (Lettres provinciales; tiếng Anh Provincial Letters)",
@@ -48,8 +48,23 @@
           "quote": "composed and published between January, 1656, and March, 1657"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1657; year_note: các thư ra từng lá, 1/1656–3/1657",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "between January 1656 and March 1657, which were published one by one under a pseudonym"
+        },
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "composed and published between January, 1656, and March, 1657"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Các thư ra lần lượt từ tháng 1/1656 đến tháng 3/1657; 1656 là năm thư đầu. Đề xuất year_note: 'các thư ra từng lá, 1/1656–3/1657'."
+  "notes": "Các thư ra lần lượt từ tháng 1/1656 đến tháng 3/1657; 1656 là năm thư đầu. Đề xuất year_note: 'các thư ra từng lá, 1/1656–3/1657'. | Kiểm lại 5.1b: years_ok 1657 và year_note khớp SEP pascal và IEP pascal."
 }

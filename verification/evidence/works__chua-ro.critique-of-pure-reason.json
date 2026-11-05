@@ -1,9 +1,28 @@
 {
   "unit": "works/chua-ro.critique-of-pure-reason",
-  "hash": "sha256:2c94b576c8ee7663fd833d33285f85c73ed632288de257f58d8f6a9d001a9a3d",
+  "hash": "sha256:c4c059fccfe38743fc51025c5260675faf315abca002cc372103a727759a3fb3",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo03",
   "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với kant.kritik-der-reinen-vernunft",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4280",
+          "quote": "Translator Meiklejohn, J. M. D. (John Miller Dow), 1830-1902 Title The Critique of Pure Reason"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/6342",
+          "quote": "\"Kritik der reinen Vernunft\" by Immanuel Kant is a philosophical work published in 1781"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/4280",
+          "quote": "\"The Critique of Pure Reason\" by Immanuel Kant is a philosophical work published in 1781"
+        }
+      ]
+    },
     {
       "text": "titles: Critique of Pure Reason (tên dịch Anh của Kritik der reinen Vernunft)",
       "kind": "du-kien",
@@ -39,5 +58,5 @@
     }
   ],
   "result": "dat",
-  "notes": "attribution: Immanuel Kant\ntrung-voi: kant.kritik-der-reinen-vernunft\nTrang ghi thêm 'ấn bản 2, 1787', khớp SEP '(1781, 1787)'."
+  "notes": "attribution: Immanuel Kant\ntrung-voi: kant.kritik-der-reinen-vernunft\nTrang ghi thêm 'ấn bản 2, 1787', khớp SEP '(1781, 1787)'.\nKiểm lại 5.1b: same_as có claim riêng: tên Anh là bản dịch (Meiklejohn) của Kritik der reinen Vernunft; cùng tác giả và cùng năm 1781 với bản ghi đích. Mở lại mọi URL cũ, mọi quote còn trên trang."
 }

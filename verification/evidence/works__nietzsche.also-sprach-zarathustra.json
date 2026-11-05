@@ -1,8 +1,8 @@
 {
   "unit": "works/nietzsche.also-sprach-zarathustra",
-  "hash": "sha256:08625776990e222ae26e96307274b77dd55fdc4d8942e3dd54e837dfa8446375",
+  "hash": "sha256:639c1d47919c0b13fa8c9281cad056d6aaf8a9cf232d7bf70c5f1b9ca387cac3",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo17",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Also sprach Zarathustra",
@@ -44,8 +44,23 @@
           "quote": "Thus Spoke Zarathustra (Also Sprach Zarathustra, bks I-II, 1883"
         }
       ]
+    },
+    {
+      "text": "years_ok: 1884, 1885; year_note: phần I–II 1883, III 1884, IV 1885",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "bks I-II, 1883; bk III, 1884; bk IV [printed and distributed privately], 1885"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "Thus Spoke Zarathustra (1883–5)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Phần I–II năm 1883, III năm 1884, IV in riêng năm 1885 (IEP; SEP ghi 1883–5). Có thể thêm year_note: \"phần I–II 1883; trọn bộ 1883–1885\"."
+  "notes": "Phần I–II năm 1883, III năm 1884, IV in riêng năm 1885 (IEP; SEP ghi 1883–5). Có thể thêm year_note: \"phần I–II 1883; trọn bộ 1883–1885\". | Kiểm lại 5.1b: years_ok và year_note khớp IEP nietzsch và SEP nietzsche."
 }

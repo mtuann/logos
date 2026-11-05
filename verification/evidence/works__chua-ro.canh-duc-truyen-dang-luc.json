@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.canh-duc-truyen-dang-luc",
-  "hash": "sha256:e0e167ea7b79f8db5ea9e264984acb58e9c262e8626c3beb5d84bf6f5a206860",
+  "hash": "sha256:90d78e3e3524969e7ef400b20b45185555f4099a140d9edee0c15d796206cce8",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo09",
+  "checker": "agent-kiem-5.1b-lo02",
   "claims": [
     {
       "text": "titles: Cảnh Đức truyền đăng lục (景德傳燈錄)",
@@ -36,8 +36,19 @@
           "quote": "北宋1004年"
         }
       ]
+    },
+    {
+      "text": "attribution: Đạo Nguyên (道原) biên soạn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84",
+          "quote": "作者：道原"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: Đạo Nguyên (道原, biên soạn)\nWikisource tiếng Trung (trang 傳燈錄, chuyển hướng từ 景德傳燈錄) ghi 'Đạo Nguyên, Bắc Tống, năm 1004'. CBETA (T2076) không đọc được bằng curl (trang tải bằng JS). Không thấy khóa trùng trong works.yml."
+  "notes": "attribution: Đạo Nguyên (道原, biên soạn)\nWikisource tiếng Trung (trang 傳燈錄, chuyển hướng từ 景德傳燈錄) ghi 'Đạo Nguyên, Bắc Tống, năm 1004'. CBETA (T2076) không đọc được bằng curl (trang tải bằng JS). Không thấy khóa trùng trong works.yml.\nKiểm lại 5.1b: attribution mới khớp Wikisource (作者：道原)."
 }

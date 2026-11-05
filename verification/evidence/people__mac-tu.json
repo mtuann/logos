@@ -1,8 +1,8 @@
 {
   "unit": "people/mac-tu",
-  "hash": "sha256:335d391f71ab4cf6533a3696d35e16bac3a9f0c85d8241306b73fb1f0956f665",
+  "hash": "sha256:f7289d5b3710148bba92f31d9b679b90c953c644404961b2ea14cd2c2f126676",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo05",
+  "checker": "agent-kiem-5.1b-lo01",
   "claims": [
     {
       "text": "name: Mặc Tử; name_en: Mozi",
@@ -16,17 +16,17 @@
       ]
     },
     {
-      "text": "born: -470 (years_label: k. 470–391 TCN)",
+      "text": "years_label: hoạt động k. 430 TCN, mất k. 390 TCN; dates_note: born -470 chỉ là số ước lượng để xếp trục thời gian, SEP ghi hoạt động k. 430 TCN, mất k. 390 TCN",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
           "quote": "Mo Di, or “Mozi” (“Master Mo,” fl. ca. 430 BCE)"
         },
         {
-          "url": "https://iep.utm.edu/mozi/",
-          "quote": "was a Chinese thinker active from the late 5th to the early 4th centuries B.C.E."
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/xunzi/",
+          "quote": "Mo Di 墨翟 (d. ca. 390 BCE)"
         }
       ]
     },
@@ -41,7 +41,8 @@
         }
       ],
       "severity": "nhe",
-      "fix": "died: -390; years_label: k. 470–390 TCN (nếu giữ năm sinh)"
+      "fix": "died: -390; years_label: k. 470–390 TCN (nếu giữ năm sinh)",
+      "fixed": true
     },
     {
       "text": "school: Trung Hoa",
@@ -114,6 +115,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "SEP mohism ghi Mozi 'fl. ca. 430 BCE'; IEP ghi 'c. 400s—300s B.C.E.', hoạt động cuối TK 5 đến đầu TK 4 TCN; SEP xunzi ghi Mo Di 'd. ca. 390 BCE'. Năm sinh 470 không có trong nguồn đã mở nên chưa kiểm được; năm mất 391 lệch 1 năm so với 'ca. 390' của SEP (mức nhẹ). Cân nhắc đổi nhãn thành 'k. 470–390 TCN' hoặc 'hoạt động k. 430 TCN'. Britannica chặn (Cloudflare)."
+  "result": "dat",
+  "notes": "Kiểm lại 5.1b: died đã sửa từ -391 thành -390 đúng theo SEP xunzi ('d. ca. 390 BCE'), đánh dấu fixed. years_label mới 'hoạt động k. 430 TCN, mất k. 390 TCN' khớp SEP mohism (fl. ca. 430 BCE) và SEP xunzi; dates_note nói born -470 chỉ là ước lượng, đúng (không nguồn nào đã mở ghi năm sinh). Claim chua-kiem-duoc cũ về born được thay bằng claim nhãn/dates_note."
 }

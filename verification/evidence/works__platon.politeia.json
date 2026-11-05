@@ -1,8 +1,8 @@
 {
   "unit": "works/platon.politeia",
-  "hash": "sha256:7f66a28b6bf705d8467eec8963442a2e673c4e3b5dcdf6578cc3b9322102c406",
+  "hash": "sha256:1e8e579e39ca03d6f6980681210d8240b955737017c3137d1658b1bcde497765",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo18",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Politeia (tiếng Anh Republic; tiếng Việt Cộng hòa)",
@@ -33,8 +33,19 @@
           "quote": "Why, after all, did Plato write so many works (for example: Phaedo, Symposium, Republic"
         }
       ]
+    },
+    {
+      "text": "year: -380; year_fixed: -380; year_note: niên đại ước đoán; IEP: c. 380–360 TCN",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "Middle (c. 380-360 B.C.E.) Phaedo, Republic Bks. II-X, Symposium"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Politeia là tên Hy Lạp của đối thoại thường gọi bằng tiếng Anh là Republic (SEP 'Plato’s Ethics and Politics in The Republic' dẫn các sách 'Platon: Politeia', 'Dialogues on Plato’s Politeia'). Không có năm để kiểm. Lưu ý cho người làm: works.yml có khóa chua-ro.cong-hoa (tên 'Cộng hòa', year -380) có lẽ cùng tác phẩm này; khóa đó thuộc lô khác, nên xem việc gộp."
+  "notes": "Politeia là tên Hy Lạp của đối thoại thường gọi bằng tiếng Anh là Republic (SEP 'Plato’s Ethics and Politics in The Republic' dẫn các sách 'Platon: Politeia', 'Dialogues on Plato’s Politeia'). Không có năm để kiểm. Lưu ý cho người làm: works.yml có khóa chua-ro.cong-hoa (tên 'Cộng hòa', year -380) có lẽ cùng tác phẩm này; khóa đó thuộc lô khác, nên xem việc gộp. Kiểm lại 5.1b: year mới -380 là cận đầu của khoảng ước đoán IEP (c. 380–360 TCN) cho quyển II–X; IEP xếp quyển I vào nhóm sớm hơn. year_note ghi rõ là ước đoán nên chấp nhận."
 }

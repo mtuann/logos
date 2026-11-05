@@ -1,8 +1,8 @@
 {
   "unit": "works/marx.die-deutsche-ideologie",
-  "hash": "sha256:5ff8948e9d86149bfcc45e115f51c477073200a048a2e539fdd3bc2065131eba",
+  "hash": "sha256:fbe027e2d2c7b0242a9e51bfc7eaa571101c2046def93f0d3906353d7d6525a0",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo16",
+  "checker": "agent-kiem-5.1b-lo07",
   "claims": [
     {
       "text": "titles: Die deutsche Ideologie",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "text": "year: 1845 (people/marx) — năm bắt đầu soạn; in đầy đủ 1932",
+      "text": "year: 1932 (year_fixed, năm in đầy đủ lần đầu); years_ok 1845, 1846 (năm soạn) — year: 1845 (people/marx) — năm bắt đầu soạn; in đầy đủ 1932",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -40,8 +40,34 @@
           "quote": "Written: Fall 1845 to mid-1846; First Published: 1932 (in full)"
         }
       ]
+    },
+    {
+      "text": "attribution: Karl Marx và Friedrich Engels",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "The German Ideology, written with Friedrich Engels (1820–1895) in 1845–46"
+        }
+      ]
+    },
+    {
+      "text": "year_note: soạn 1845–46 cùng Engels, in đầy đủ 1932",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/index.htm",
+          "quote": "Written: Fall 1845 to mid-1846; First Published: 1932 (in full)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "written with Friedrich Engels (1820–1895) in 1845–46"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "year_note: 'soạn 1845–46 (cùng Engels), in đầy đủ 1932'. Theo quy ước 'năm công bố lần đầu' chủ biên có thể cân nhắc; ghi năm soạn là cách phổ biến cho bản thảo in sau khi tác giả mất. Đồng tác giả Engels nên ghi trong bản ghi (vd attribution: 'Marx và Engels')."
+  "notes": "year_note: 'soạn 1845–46 (cùng Engels), in đầy đủ 1932'. Theo quy ước 'năm công bố lần đầu' chủ biên có thể cân nhắc; ghi năm soạn là cách phổ biến cho bản thảo in sau khi tác giả mất. Đồng tác giả Engels nên ghi trong bản ghi (vd attribution: 'Marx và Engels'). | Kiểm lại 5.1b: year đổi sang 1932 (year_fixed), years_ok 1845, 1846, attribution và year_note khớp SEP marx và marxists.org."
 }

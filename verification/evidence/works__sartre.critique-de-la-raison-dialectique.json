@@ -1,8 +1,8 @@
 {
   "unit": "works/sartre.critique-de-la-raison-dialectique",
-  "hash": "sha256:cbaea95d2fb8848222741a08c2038f39e8fcaa5d8aca98debf9998e76bb312aa",
+  "hash": "sha256:95eb4053045cf4b77f096228e7084c83fa557a0c05e502a50e14c010e9e4d184",
   "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1-lo19",
+  "checker": "agent-kiem-5.1b-lo08",
   "claims": [
     {
       "text": "Tác phẩm có thật, tên: Critique de la raison dialectique",
@@ -40,8 +40,23 @@
           "quote": "In 1960, after three years working on it, Sartre published the Critique of Dialectical Reason."
         }
       ]
+    },
+    {
+      "text": "years_ok: 1985; year_note: tập 1 năm 1960; tập 2 (di cảo) 1985",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sartre/",
+          "quote": "The second volume, “The Intelligibility of History”, was published posthumously in French in 1985."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sartre/",
+          "quote": "1985, Critique de la raison dialectique, tome 2, L’intelligibilité de l’histoire, Paris: Gallimard."
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "1960 là năm tập 1; tập 2 (L’intelligibilité de l’histoire) in sau khi ông mất, năm 1985 (SEP: '1985, Critique de la raison dialectique, tome 2'). Có thể thêm year_note: 'tập 1: 1960; tập 2: 1985 (di cảo)'."
+  "notes": "1960 là năm tập 1; tập 2 (L’intelligibilité de l’histoire) in sau khi ông mất, năm 1985 (SEP: '1985, Critique de la raison dialectique, tome 2'). Có thể thêm year_note: 'tập 1: 1960; tập 2: 1985 (di cảo)'. Kiểm lại 5.1b: years_ok và year_note mới khớp nguồn."
 }
