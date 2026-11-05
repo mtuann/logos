@@ -27,3 +27,4 @@ Mỗi dòng một việc đã xong hoặc đang dở. Phiên sau đọc từ đ�
 | 2026-11-05 | `changed_units.py` báo dữ liệu theo bản ghi (`people/…`, `ho-so/…`, `works/…`, `quotes/…`, `events/…`, `sources/…`, `philpapers/…`), khóa giống sổ kiểm chứng | `tools/changed_units.py`, `tests/test_changed_units.py` | xong | — |
 | 2026-11-05 | Kiểm cổng đợt 2: mọi mục đạt trừ CI trên GitHub; push `main` | `ban-giao/dot-2.md`, `KE-HOACH.md` | xong | chờ CI xanh, tag `v1.2` |
 | 2026-11-05 | Sửa CI: tên bước có "PhilPapers: …" làm `deploy.yml` sai YAML (CI hỏng ngay khi push); thêm `tests/test_workflows.py` đọc mọi workflow bằng YAML | `.github/workflows/deploy.yml`, `tests/test_workflows.py` | xong | chờ CI xanh |
+| 2026-11-05 | CI xanh (run 41994940623); đóng đợt 2, tag `v1.2` | `ban-giao/dot-2.md`, `KE-HOACH.md` | xong | brief đợt 3 |

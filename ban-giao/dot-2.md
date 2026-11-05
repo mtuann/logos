@@ -105,7 +105,7 @@ Danh sách lệch: `verification/lech/<loại>.md`, sinh bằng script, chạy l
 - [x] Danh sách lệch lưu ở `verification/lech/` cho đợt 5 (sources, sep, works, quotes, philpapers, events).
 - [x] `lint_facts`, `lint_quotes` chạy trong CI (cảnh báo), có báo cáo nền.
 - [x] `AGENTS.md` mục 4, `README.md` có lệnh mới.
-- [ ] CI xanh.
+- [x] CI xanh (5/11/2026: trên máy 150 unittest, 122 + 250 kiểm thử JS; GitHub Actions run 41994940623 trên `main`: build và deploy xanh).
 
 ## Không làm
 
