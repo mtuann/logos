@@ -58,6 +58,8 @@ jobs:
         run: uv run --frozen python tools/frontmatter_check.py --check
       - name: Kiểm tra ngân hàng câu hỏi khớp dữ liệu
         run: uv run --frozen python tools/quiz_bank.py --check
+      - name: Kiểm tra chính sách thuật ngữ khớp HUONG-DAN-VIET.md
+        run: uv run --frozen python tools/terms_policy.py --check
       - name: Kiểm tra sổ đăng ký nội dung khớp trang và dữ liệu
         run: uv run --frozen python tools/content_registry.py --check
       - name: ID cố định cho mục H2 của Lõi
@@ -67,6 +69,11 @@ jobs:
           # Được sửa đơn vị Lõi đã đóng băng khi: PR mang nhãn doi-loi, hoặc một commit được push có "[doi-loi]".
           LZ_ALLOW_CORE_CHANGE: ${{ (contains(github.event.pull_request.labels.*.name, 'doi-loi') || contains(toJSON(github.event.commits.*.message), '[doi-loi]')) && '1' || '' }}
         run: uv run --frozen python tools/check_ledger.py --check
+      - name: Linter (chế độ cảnh báo, chưa chặn)
+        run: |
+          for l in lint_terms lint_volatile lint_structure; do
+            uv run --frozen python tools/$l.py -q
+          done
       - name: Đơn vị thay đổi (không chặn)
         continue-on-error: true
         env:

@@ -42,12 +42,13 @@ uv sync --frozen
 npm ci
 
 # Bộ kiểm tra đầy đủ, giống CI. Chạy trước mọi báo cáo.
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy; do
   uv run python tools/$t.py --check || break
 done
 uv run python tools/content_registry.py --check
 uv run python tools/add_heading_ids.py --check
 uv run python tools/check_ledger.py --check
+for l in lint_terms lint_volatile lint_structure; do uv run python tools/$l.py -q; done   # cảnh báo, chưa chặn
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build

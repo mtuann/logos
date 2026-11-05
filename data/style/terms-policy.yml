@@ -1,0 +1,237 @@
+# Chính sách thuật ngữ, bản máy đọc. SINH TỰ ĐỘNG từ HUONG-DAN-VIET.md mục 3 bằng tools/terms_policy.py.
+# Không sửa tay: sửa bảng trong HUONG-DAN-VIET.md (hoặc AMBIGUOUS/CONTEXT/EXCEPTIONS trong tool) rồi chạy lại.
+# Dùng bởi tools/lint_terms.py.
+version: 1
+terms:
+- en: philosophy
+  use: triết học
+  avoid: []
+- en: argument
+  use: lập luận
+  avoid:
+  - luận cứ
+  context:
+    luận cứ:
+      not_before:
+      - ' thép'
+      not_after:
+      - 'tranh '
+- en: premise
+  use: tiền đề
+  avoid: []
+- en: conclusion
+  use: kết luận
+  avoid: []
+- en: claim / assertion
+  use: khẳng định
+  avoid:
+  - mệnh đề
+  ambiguous:
+    mệnh đề: cũng là thuật ngữ đúng cho proposition (logic mệnh đề)
+- en: explanation
+  use: lời giải thích
+  avoid: []
+- en: deductive
+  use: suy diễn
+  avoid:
+  - diễn dịch
+  ambiguous:
+    diễn dịch: cũng nghĩa là diễn giải, chuyển ngữ
+- en: inductive
+  use: quy nạp
+  avoid: []
+- en: inference to the best explanation (abduction)
+  use: suy luận đến lời giải thích tốt nhất
+  avoid:
+  - suy diễn hồi quy
+- en: valid
+  use: hợp lệ
+  avoid:
+  - hợp logic
+  ambiguous:
+    hợp logic: cũng là từ thường
+- en: sound
+  use: vững chắc
+  avoid:
+  - đúng đắn
+  ambiguous:
+    đúng đắn: cũng là từ thường
+- en: strong / cogent (inductive)
+  use: mạnh / thuyết phục
+  avoid: []
+- en: modus ponens
+  use: modus ponens (khẳng định tiền kiện)
+  avoid: []
+- en: modus tollens
+  use: modus tollens (phủ định hậu kiện)
+  avoid: []
+- en: syllogism
+  use: tam đoạn luận
+  avoid: []
+- en: hidden assumption / unstated premise
+  use: giả định ngầm
+  avoid:
+  - tiền đề ẩn
+- en: fallacy
+  use: ngụy biện
+  avoid: []
+- en: counterexample
+  use: phản ví dụ
+  avoid: []
+- en: necessary / sufficient condition
+  use: điều kiện cần / điều kiện đủ
+  avoid: []
+- en: thought experiment
+  use: thí nghiệm tư duy
+  avoid:
+  - thực nghiệm tư duy
+- en: epistemology
+  use: tri thức luận
+  avoid:
+  - nhận thức luận
+- en: metaphysics
+  use: siêu hình học
+  avoid: []
+- en: ethics
+  use: đạo đức học
+  avoid:
+  - luân lý học
+- en: knowledge
+  use: tri thức
+  avoid:
+  - hiểu biết
+  ambiguous:
+    hiểu biết: cũng là từ thường
+- en: belief
+  use: niềm tin
+  avoid: []
+- en: justification
+  use: sự biện minh
+  avoid:
+  - sự chứng thực
+  ambiguous:
+    sự chứng thực: cũng là từ thường
+- en: justified true belief (JTB)
+  use: niềm tin đúng được biện minh
+  avoid: []
+- en: skepticism
+  use: hoài nghi luận
+  avoid:
+  - chủ nghĩa hoài nghi
+- en: rationalism
+  use: duy lý luận
+  avoid:
+  - chủ nghĩa duy lý
+- en: empiricism
+  use: duy nghiệm luận
+  avoid:
+  - chủ nghĩa kinh nghiệm
+- en: a priori / a posteriori
+  use: tiên nghiệm / hậu nghiệm
+  avoid: []
+- en: reliabilism
+  use: thuyết tin cậy
+  avoid: []
+- en: contextualism
+  use: ngữ cảnh luận
+  avoid: []
+- en: internalism / externalism (epistemic)
+  use: nội tại luận / ngoại tại luận
+  avoid: []
+- en: mind
+  use: tâm trí
+  avoid:
+  - tinh thần
+  ambiguous:
+    tinh thần: cũng là từ thường (tinh thần, tâm lý; spirit)
+- en: consciousness
+  use: ý thức
+  avoid: []
+- en: phenomenal consciousness
+  use: ý thức hiện tượng
+  avoid: []
+- en: qualia
+  use: qualia (cảm chất)
+  avoid: []
+- en: intentionality
+  use: ý hướng tính
+  avoid:
+  - tính hướng đối tượng
+- en: hard problem of consciousness
+  use: vấn đề khó của ý thức
+  avoid: []
+- en: physicalism
+  use: vật lý luận
+  avoid:
+  - chủ nghĩa vật lý
+- en: dualism
+  use: nhị nguyên luận
+  avoid: []
+- en: functionalism
+  use: chủ nghĩa chức năng
+  avoid:
+  - thuyết chức năng
+- en: multiple realizability
+  use: tính đa hiện thực
+  avoid: []
+- en: problem of other minds
+  use: vấn đề những tâm trí khác
+  avoid: []
+- en: philosophical zombie
+  use: zombie triết học
+  avoid: []
+- en: free will
+  use: tự do ý chí
+  avoid:
+  - ý chí tự do
+  context:
+    ý chí tự do:
+      not_after:
+      - 'thuyết '
+- en: determinism
+  use: tất định luận
+  avoid:
+  - quyết định luận
+  - thuyết định mệnh
+  ambiguous:
+    thuyết định mệnh: đúng khi nói về fatalism; chỉ sai khi dùng để dịch determinism
+- en: compatibilism
+  use: tương thích luận
+  avoid: []
+- en: incompatibilism
+  use: bất tương thích luận
+  avoid: []
+- en: libertarianism (free will)
+  use: thuyết ý chí tự do (libertarianism)
+  avoid: []
+  note: không nhầm với chủ nghĩa tự do cá nhân trong chính trị
+- en: hard determinism
+  use: tất định luận cứng
+  avoid: []
+- en: moral responsibility
+  use: trách nhiệm đạo đức
+  avoid: []
+- en: consequentialism
+  use: hệ quả luận
+  avoid: []
+- en: deontology
+  use: nghĩa vụ luận
+  avoid: []
+- en: virtue ethics
+  use: đạo đức học đức hạnh
+  avoid: []
+names:
+- use: Platon
+  avoid:
+  - Plato
+exceptions:
+  pages:
+  - them/tu-dien.md
+  data:
+  - docs/assets/data/terms.json
+  contexts:
+  - 'trích nguyên văn: khối !!! quote và dòng > …'
+  - 'chữ trong ngoặc kép ("…", “…”): thường là lời người khác hoặc tên gọi'
+  - 'chữ in nghiêng *…*: tên tác phẩm, thuật ngữ gốc'
+  - 'mục ## Nguồn'
+  - code, đích link

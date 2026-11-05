@@ -46,6 +46,11 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
                           --hash KHÓA (mã băm hiện tại của đơn vị)
   changed_units.py        báo cáo đơn vị đổi chữ giữa hai phiên bản (tầng, khối, trạng thái sổ, việc cần làm);
                           CI đăng thành bình luận PR, hoặc vào job summary khi push
+  terms_policy.py         data/style/terms-policy.yml từ bảng thuật ngữ ở HUONG-DAN-VIET.md mục 3; --check (CI)
+  lint_terms.py           cách dịch bị tránh, tên riêng sai (Plato → Platon) trong Lõi viết tay
+  lint_volatile.py        nội dung có hạn dùng: năm 2022+, "hiện nay"…, văn bản luật; khối thời sự quá hạn
+  lint_structure.py       thiếu mục bắt buộc theo loại trang; nhãn độ chắc chắn đặt sai chỗ
+                          (ba linter: chế độ cảnh báo; --write ghi verification/lint/, --strict để chặn)
   parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
                           giữa hai bản build (--base REF: tự build commit REF và cây làm việc)
   lz/                     thư viện dùng chung cho công cụ kiểm chứng (KE-HOACH.md mục 5.5–5.6):
@@ -58,6 +63,7 @@ tests/
   test_hooks.py           kiểm thử hook Python và script sinh trang
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
+  test_linters.py         terms_policy và ba linter
   test_parity.py          tools/parity.py: trích văn bản hiển thị, phát hiện lệch
   test_lz.py              thư viện tools/lz: mọi hệ quả của chuẩn hóa và băm (KE-HOACH.md mục 5.6)
   test_indexes.py         chỉ mục mỗi mục liệt kê đủ bài; Kế hoạch học trỏ tới trang có thật;
@@ -99,12 +105,13 @@ Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy; do
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
 uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có ID cố định {#id}
 uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng dạng; đơn vị đóng băng không đổi mã băm
+for l in lint_terms lint_volatile lint_structure; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
