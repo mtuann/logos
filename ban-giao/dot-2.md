@@ -99,12 +99,12 @@ Danh sách lệch: `verification/lech/<loại>.md`, sinh bằng script, chạy l
 
 ## Cổng
 
-- [ ] 100% bản ghi qua schema (`kb_check --check` xanh, trong CI).
-- [ ] 59 trang triết gia (và `index.md`, `philosophers.json`, dòng thời gian, sơ đồ ảnh hưởng) giống từng byte sau việc 2.2.
-- [ ] Link SEP dùng bản lưu theo quý; parity chỉ lệch ở URL SEP.
-- [ ] Danh sách lệch lưu ở `verification/lech/` cho đợt 5.
-- [ ] `lint_facts`, `lint_quotes` chạy trong CI (cảnh báo), có báo cáo nền.
-- [ ] `AGENTS.md` mục 4, `README.md` có lệnh mới.
+- [x] 100% bản ghi qua schema (`kb_check --check` xanh, trong CI): people 59, hồ sơ 59, works 337, quotes 155, events 128, sources 681, philpapers 87.
+- [x] 59 trang triết gia (và `index.md`, `philosophers.json`, dòng thời gian, sơ đồ ảnh hưởng) giống từng byte sau việc 2.2.
+- [x] Link SEP dùng bản lưu theo quý (186/186 mục, 277 link); parity cả đợt `v1.1` → `main` giống 100% sau đúng một phép thay (URL SEP); 82 đơn vị trang đổi mã băm, đều là `#nguon`.
+- [x] Danh sách lệch lưu ở `verification/lech/` cho đợt 5 (sources, sep, works, quotes, philpapers, events).
+- [x] `lint_facts`, `lint_quotes` chạy trong CI (cảnh báo), có báo cáo nền.
+- [x] `AGENTS.md` mục 4, `README.md` có lệnh mới.
 - [ ] CI xanh.
 
 ## Không làm
