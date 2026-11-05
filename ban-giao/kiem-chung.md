@@ -70,7 +70,7 @@ Không dùng: blog không rõ tác giả, trang tổng hợp, trang "danh ngôn"
 }
 ```
 
-- `hash`: mã băm của đơn vị lúc kiểm (khi công cụ đợt 1 đã có); chưa có thì `null`.
+- `hash`: mã băm của đơn vị lúc kiểm: `uv run python tools/check_ledger.py --hash <khóa đơn vị>`. Phải trùng mã băm ghi trong `verification/ledger.json`.
 - `result`: `dat` = không còn lỗi nghiêm trọng hay vừa; `sua` = có lỗi cần sửa, liệt kê trong `claims`; `chua-kiem-duoc` = còn khẳng định không mở được nguồn.
 
 ## Quy tắc trung thực

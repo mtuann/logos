@@ -31,7 +31,7 @@ Vi phạm một luật dưới đây thì dừng lại và hỏi chủ biên, kh
 5. **Không phá người đọc.** Không đổi URL trang (đường dẫn giữ như logos-zero), khóa `localStorage` `logos`, `data-id` của quiz, `id` của thuật ngữ và của bản ghi luyện tập.
 6. **Git an toàn.** Làm trên nhánh `dot-N-<ten-ngan>`. Không push lên `main`, không merge, không force-push, không xóa file, không viết lại lịch sử.
 7. **Không thêm nội dung mới** (bài, triết gia, hướng dẫn đọc) trước đợt 7, trừ khi chủ biên mở rõ trong `KE-HOACH.md`.
-8. **Đơn vị Lõi đã đóng băng** (có trạng thái `frozen` trong `verification/ledger.json`) chỉ được sửa trong PR mang nhãn `doi-loi`, kèm bằng chứng mới.
+8. **Đơn vị Lõi đã đóng băng** (có trạng thái `frozen` trong `verification/ledger.json`) chỉ được sửa trong PR mang nhãn `doi-loi` (hoặc commit có `[doi-loi]` trong message khi merge thẳng), kèm bằng chứng mới. Xem tiến độ: `uv run python tools/check_ledger.py --status`.
 
 ## 4. Lệnh
 
@@ -47,6 +47,7 @@ for t in gen_glossary figures review_check timeline influence philosophers book 
 done
 uv run python tools/content_registry.py --check
 uv run python tools/add_heading_ids.py --check
+uv run python tools/check_ledger.py --check
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build
