@@ -135,7 +135,7 @@ tier: he-thong
 <!-- gen:review -->
 ## Tình trạng rà soát
 
-170 bài đã được rà soát trong 12 tháng qua (tính từ ngày build).
+171 bài đã được rà soát trong 12 tháng qua (tính từ ngày build).
 
 Không có bài nào quá hạn rà soát.
 <!-- /gen:review -->

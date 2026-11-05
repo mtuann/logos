@@ -51,6 +51,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   kb_events.py            data/kb/events.yml: ứng viên sự kiện (năm + câu) ở khối lich-su, viet-nam và câu có nhãn độ chắc chắn
   sep_archive.py          đổi link SEP sang bản lưu fall2026 (quyết định 14) sau khi mở thử từng mục; --dry-run, --cache
   kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
+  works_page.py           trang chỉ mục tác phẩm docs/tac-pham/index.md từ data/kb/works.yml (quyết định 23); --check
+  verification_page.py    trang Tình trạng kiểm chứng docs/them/kiem-chung.md từ sổ kiểm chứng; --check
   thoi_su_check.py        khối thời sự data/thoi-su/*.md: schema, id, mỗi khối được đúng trang của nó dùng một lần
   migrate/                script chuyển đổi một lần, giữ lại để đọc và chạy lại (chạy lại không đổi gì):
                           dot2_people.py (hồ sơ → YAML), dot3_thoi_su.py (dời đoạn có hạn dùng),
@@ -134,7 +136,7 @@ Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers kb_events; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers kb_events works_page verification_page; do
   uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
 done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu

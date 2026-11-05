@@ -27,7 +27,7 @@ Vi phạm một luật dưới đây thì dừng lại và hỏi chủ biên, kh
 1. **Không bịa.** Mọi năm, tên người, tên tác phẩm, trích dẫn, số liệu phải có nguồn bạn đã thực sự mở được (SEP — ưu tiên link bản lưu theo quý dạng `plato.stanford.edu/archives/fall2026/entries/<mục>/`, IEP, Project Gutenberg, Wikisource, ctext.org, bài báo gốc qua DOI). Không chắc thì không viết; ghi vào "Câu hỏi mở" trong báo cáo.
 2. **Không tự chế câu nói.** Trích nguyên văn chỉ từ văn bản đã mở. Văn bản còn bản quyền: tối đa 1–2 câu. Bản dịch của site ghi "(bản dịch của Logos Zero)".
 3. **Một nhánh (một việc), một loại thay đổi, đúng đợt đang mở.** Không "tiện tay" sửa chỗ khác. Thấy lỗi ngoài phạm vi: ghi vào `ban-giao/viec-cho.md`.
-4. **Không sửa tay file sinh tự động**: `docs/triet-gia/*.md`, `docs/assets/data/philosophers.json` (sinh từ `data/kb/people.yml`), `docs/them/sach.md`, `docs/them/tu-dien.md`, `docs/assets/data/quiz-bank.json`, phần giữa `<!-- gen:… -->`…`<!-- /gen:… -->` và `<!-- fig:… -->`…`<!-- /fig:… -->`. Sửa nguồn rồi chạy tool tương ứng trong `tools/`.
+4. **Không sửa tay file sinh tự động**: `docs/triet-gia/*.md`, `docs/assets/data/philosophers.json` (sinh từ `data/kb/people.yml`), `docs/them/sach.md`, `docs/them/tu-dien.md`, `docs/tac-pham/index.md`, `docs/them/kiem-chung.md`, `docs/assets/data/quiz-bank.json`, phần giữa `<!-- gen:… -->`…`<!-- /gen:… -->` và `<!-- fig:… -->`…`<!-- /fig:… -->`. Sửa nguồn rồi chạy tool tương ứng trong `tools/`.
 5. **Không phá người đọc.** Không đổi URL trang (đường dẫn giữ như logos-zero), khóa `localStorage` `logos`, `data-id` của quiz, `id` của thuật ngữ và của bản ghi luyện tập.
 6. **Git an toàn.** Mỗi việc làm trên nhánh `dot-N-<ten-ngan>`; xong việc và bộ kiểm tra đầy đủ xanh thì `git merge --no-ff` vào `main` **trên máy**. Không mở PR. **Chỉ push `main` khi xong cả một đợt** (mọi việc đã merge, cổng đạt trừ mục CI, bộ kiểm tra xanh), vì push là deploy ngay; sau khi push, chờ CI xanh rồi gắn tag đóng đợt. Không force-push, không xóa file, không viết lại lịch sử.
 7. **Không thêm nội dung mới** (bài, triết gia, hướng dẫn đọc) trước đợt 7, trừ khi chủ biên mở rõ trong `KE-HOACH.md`.
@@ -42,7 +42,7 @@ uv sync --frozen
 npm ci
 
 # Bộ kiểm tra đầy đủ, giống CI. Chạy trước mọi báo cáo.
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers kb_events; do
+for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers kb_events works_page verification_page; do
   uv run python tools/$t.py --check || break
 done
 uv run python tools/content_registry.py --check

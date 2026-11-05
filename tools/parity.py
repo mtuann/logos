@@ -175,7 +175,7 @@ def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: lis
             new = [i for i in y.ids if i not in x.ids][:5]
             problems.append(f"{p}: id lệch (mất {gone}, thêm {new}"
                             f"{', hoặc đổi thứ tự' if not gone and not new else ''})")
-    problems += compare_search(before, after, subs, exempt, notes)
+    problems += compare_search(before, after, subs, exempt, notes, new_ok)
     return problems, len(a.keys() | b.keys())
 
 
@@ -187,7 +187,7 @@ def _no_accent_copy(doc: dict) -> dict:
     return {k: NOACCENT.sub("", v) if isinstance(v, str) else v for k, v in doc.items()}
 
 
-def compare_search(before: Path, after: Path, subs=(), exempt=(), notes: list | None = None) -> list[str]:
+def compare_search(before: Path, after: Path, subs=(), exempt=(), notes: list | None = None, new_ok=()) -> list[str]:
     fa, fb = before / "search" / "search_index.json", after / "search" / "search_index.json"
     if not (fa.exists() and fb.exists()):
         return []
@@ -196,6 +196,11 @@ def compare_search(before: Path, after: Path, subs=(), exempt=(), notes: list | 
     da = [_no_accent_copy(d) for d in json.loads(_apply(fa.read_text(encoding="utf-8"), subs))["docs"]]
     db = [_no_accent_copy(d) for d in json.loads(fb.read_text(encoding="utf-8"))["docs"]]
     skipped = {page_of(d) for d in da + db if _match(page_of(d), exempt)}
+    a_pages = {page_of(d) for d in da}
+    fresh = {page_of(d) for d in db if page_of(d) not in a_pages and _match(page_of(d), new_ok)}
+    if fresh and notes is not None:
+        notes += [f"search_index.json: {p}: trang mới có chủ đích" for p in sorted(fresh)]
+    skipped |= fresh
     if skipped and notes is not None:
         changed = sorted(p for p in skipped if [d for d in da if page_of(d) == p] != [d for d in db if page_of(d) == p])
         notes += [f"search_index.json: {p}: ngoại lệ, mục tìm kiếm có đổi" for p in changed]
