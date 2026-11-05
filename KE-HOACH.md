@@ -13,7 +13,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | 0 | Chốt mốc | 3/11–8/11/2026 | **Xong** 4/11/2026 (PR #1) — `ban-giao/dot-0.md`, nhật ký `ban-giao/nhat-ky-dot-0.md` |
 | 1 | Công cụ nền | 9/11–22/11/2026 | **Xong** 5/11/2026 (tag `v1.1`) — `ban-giao/dot-1.md`, nhật ký `ban-giao/nhat-ky-dot-1.md` |
 | 2 | Kho dữ kiện | 23/11–6/12/2026 | **Xong** 5/11/2026 (tag `v1.2`) — `ban-giao/dot-2.md`, nhật ký `ban-giao/nhat-ky-dot-2.md` |
-| 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | Chưa |
+| 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | **Đang làm** từ 5/11/2026 — `ban-giao/dot-3.md`, nhật ký `ban-giao/nhat-ky-dot-3.md` |
 | 4 | Giao diện tối thiểu | 14/12–20/12/2026 | Chưa |
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
 | 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | Chưa |
@@ -66,6 +66,7 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 17 | Năm trong trích dẫn tác giả–năm ("Bourget & Chalmers 2023") ở `lint_volatile` | Không tính: là năm xuất bản, không có hạn dùng | Tính, như báo cáo nền | chờ |
 | 18 | "thuyết định mệnh" trong bảng thuật ngữ | Ghi rõ trong `HUONG-DAN-VIET.md`: chỉ sai khi dịch *determinism*; đúng cho *fatalism* | Giữ "(sai)" chung | chờ |
 | 19 | Hai trang thiếu mục bắt buộc (`cong-cu/luan-cu-thep.md`: Bài tập, Tự kiểm tra; `doc/sartre-hien-sinh.md`: Đọc từng đoạn) | Bổ sung ở đợt 5 | Ghi ngoại lệ cho `lint_structure` | chờ |
+| 20 | Tiêu chí dời vào khối thời sự (đợt 3) | Chỉ dời đoạn đúng hay sai tùy lúc đọc (luật đang hiệu lực, số liệu đang đổi, AI hiện tại không gắn mốc); chỗ còn lại vào `data/style/volatile-allow.yml` có lý do (`co-moc-thoi-gian`, `vi-du-gia-dinh`, `trang-thai-hoc-thuat`, `chung-chung`, `su-kien-lich-su`), hết hiệu lực khi đổi chữ | Dời mọi chỗ `lint_volatile` bắt | theo Đề xuất (chủ biên chốt 5/11/2026) |
 
 ## 4. Kiến trúc
 
