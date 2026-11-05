@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mtuann.github.io/logos/schema/kb/philpapers.schema.json",
+  "title": "Số liệu PhilPapers Survey 2020 (data/kb/philpapers-2020.json)",
+  "description": "% 'chấp nhận hoặc nghiêng về', tính bao gồm (Bảng 1–2 của Bourget & Chalmers 2023). Khóa số liệu: <câu>.<lựa chọn>.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source",
+    "questions"
+  ],
+  "properties": {
+    "source": {
+      "type": "object"
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "table",
+          "options"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "title": {
+            "$ref": "#/$defs/text"
+          },
+          "title_vi": {
+            "$ref": "#/$defs/text"
+          },
+          "table": {
+            "enum": [
+              1,
+              2
+            ]
+          },
+          "n": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "note": {
+            "type": "string"
+          },
+          "options": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "id",
+                "pct"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                },
+                "label": {
+                  "$ref": "#/$defs/text"
+                },
+                "label_vi": {
+                  "$ref": "#/$defs/text"
+                },
+                "pct": {
+                  "oneOf": [
+                    {
+                      "type": "null"
+                    },
+                    {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 100
+                    }
+                  ]
+                },
+                "pct_reject": {
+                  "oneOf": [
+                    {
+                      "type": "null"
+                    },
+                    {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 100
+                    }
+                  ]
+                },
+                "pct_exclusive": {
+                  "oneOf": [
+                    {
+                      "type": "null"
+                    },
+                    {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 100
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "text": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

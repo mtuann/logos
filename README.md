@@ -43,6 +43,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   baseline_report.py      báo cáo nền verification/bao-cao-nen.md (số đo trước khi làm lại; không chạy lại)
   github_labels.sh        tạo nhãn GitHub của kế hoạch (cần gh)
   add_heading_ids.py      gắn ID cố định {#id} cho mục H2 của Lõi, lấy đúng anchor đang build ra; --check (CI)
+  kb_check.py             kho dữ kiện: schema (jsonschema), khóa trùng, tham chiếu chéo, used_in còn tồn tại
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị)
   changed_units.py        báo cáo đơn vị đổi chữ giữa hai phiên bản (tầng, khối, trạng thái sổ, việc cần làm);
@@ -62,6 +63,7 @@ tests/
   unit/                   kiểm thử hàm thuần + tương phản màu WCAG
   browser/                jsdom: mở mọi trang đã build qua bộ tải thật; axe-core; tìm kiếm
   test_hooks.py           kiểm thử hook Python và script sinh trang
+  test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
   test_linters.py         terms_policy và ba linter
@@ -71,6 +73,8 @@ tests/
                           không có văn xuôi lọt vào khối code
 content.yml               sổ đăng ký: mỗi trang, mỗi file dữ liệu một dòng (loại, tầng, khối, sinh tự động?)
 schema/content.schema.json  giá trị cho phép của content.yml
+schema/kb/                schema của kho dữ kiện (người, hồ sơ, tác phẩm, trích dẫn, sự kiện, nguồn, PhilPapers)
+data/kb/, data/people/    kho dữ kiện và hồ sơ triết gia (đợt 2)
 verification/             báo cáo nền; sổ kiểm chứng ledger.json (schema/ledger.schema.json); evidence/ bằng chứng
 AGENTS.md, KE-HOACH.md, ban-giao/  luật cho agent, kế hoạch làm lại, việc từng đợt (không xuất bản)
 overrides/main.html       tùy biến Material (manifest, "cập nhật lần cuối", link "Báo lỗi trang này")
@@ -112,6 +116,7 @@ done
 uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
 uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có ID cố định {#id}
 uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng dạng; đơn vị đóng băng không đổi mã băm
+uv run python tools/kb_check.py --check          # kho dữ kiện data/kb/, data/people/ khớp schema/kb/ và tham chiếu chéo
 for l in lint_terms lint_volatile lint_structure; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục

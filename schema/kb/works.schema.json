@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mtuann.github.io/logos/schema/kb/works.schema.json",
+  "title": "Tác phẩm (data/kb/works.yml)",
+  "description": "Khóa <tác giả>.<slug tên>. author là khóa trong people.yml, hoặc null khi tác giả chưa có hồ sơ (khi đó author_name bắt buộc). year null khi các trang lệch nhau (verification/lech/works.md).",
+  "type": "object",
+  "propertyNames": {
+    "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
+  },
+  "additionalProperties": {
+    "$ref": "#/$defs/entry"
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "author",
+        "titles",
+        "year",
+        "years_seen",
+        "used_in",
+        "evidence",
+        "verified"
+      ],
+      "properties": {
+        "author": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            }
+          ]
+        },
+        "author_name": {
+          "$ref": "#/$defs/text"
+        },
+        "titles": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/text"
+          },
+          "uniqueItems": true
+        },
+        "title_orig": {
+          "$ref": "#/$defs/text"
+        },
+        "year": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "integer"
+            }
+          ]
+        },
+        "years_seen": {
+          "type": "object",
+          "propertyNames": {
+            "pattern": "^-?\\d{1,4}$"
+          },
+          "additionalProperties": {
+            "$ref": "#/$defs/used_in"
+          }
+        },
+        "used_in": {
+          "$ref": "#/$defs/used_in"
+        },
+        "evidence": {
+          "$ref": "#/$defs/evidence"
+        },
+        "verified": {
+          "$ref": "#/$defs/verified"
+        }
+      },
+      "if": {
+        "properties": {
+          "author": {
+            "type": "null"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "author_name"
+        ]
+      }
+    },
+    "evidence": {
+      "description": "Khóa trong sources.yml hoặc URL đã mở khi kiểm; rỗng khi mới rút.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "verified": {
+      "description": "null tới khi được kiểm ở đợt 5; khi kiểm: ngày và người/phiên kiểm.",
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "date",
+            "by"
+          ],
+          "properties": {
+            "date": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      ]
+    },
+    "used_in": {
+      "description": "Đơn vị dùng bản ghi này: trang.md#id (lz.units), hoặc people/<id> cho hồ sơ.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^([a-z0-9-]+/)*[a-z0-9-]+\\.md#[A-Za-z0-9_-]+$|^people/[a-z0-9-]+$"
+      }
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "pattern": "^https?://\\S+$"
+    }
+  }
+}

@@ -12,6 +12,7 @@ dependencies = [
   "pymdown-extensions==12.2",
   "Markdown==3.11",
   "PyYAML==6.0.3",
+  "jsonschema==4.26.0",       # kiểm schema của kho dữ kiện data/kb/ (quyết định 13)
 ]
 
 [tool.uv]
