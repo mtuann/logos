@@ -57,7 +57,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
                           CI đăng thành bình luận PR, hoặc vào job summary khi push
   terms_policy.py         data/style/terms-policy.yml từ bảng thuật ngữ ở HUONG-DAN-VIET.md mục 3; --check (CI)
   lint_terms.py           cách dịch bị tránh, tên riêng sai (Plato → Platon) trong Lõi viết tay
-  lint_volatile.py        nội dung có hạn dùng: năm 2022+, "hiện nay"…, văn bản luật; khối thời sự quá hạn
+  lint_volatile.py        nội dung có hạn dùng: năm 2022+, "hiện nay"…, văn bản luật; khối thời sự quá hạn;
+                          danh sách miễn data/style/volatile-allow.yml (quyết định 20); CHẶN trong CI từ đợt 3
   lint_structure.py       thiếu mục bắt buộc theo loại trang; nhãn độ chắc chắn đặt sai chỗ
   lint_facts.py           năm tác phẩm, năm sinh mất trong văn xuôi so với works.yml, people.yml
   lint_quotes.py          khối !!! quote so với quotes.yml; trích dẫn chưa ghép tác phẩm, chưa có vị trí
@@ -135,7 +136,8 @@ uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có
 uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng dạng; đơn vị đóng băng không đổi mã băm
 uv run python tools/kb_check.py --check          # kho dữ kiện data/kb/, data/people/ khớp schema/kb/ và tham chiếu chéo
 uv run python tools/thoi_su_check.py --check     # khối thời sự data/thoi-su/ khớp schema, mỗi khối dùng đúng một lần
-for l in lint_terms lint_volatile lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
+uv run python tools/lint_volatile.py --strict -q  # chặn từ đợt 3: có hạn dùng thì ở data/thoi-su/ hoặc data/style/volatile-allow.yml
+for l in lint_terms lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
@@ -169,6 +171,8 @@ Thêm một bài mới:
 3. Chạy lại các tool sinh trang bị ảnh hưởng: `python tools/quiz_bank.py` (nếu có quiz), `python tools/philosophers.py` (nếu có link tới triết gia), `python tools/book.py` (luôn luôn — sách in gộp mọi bài), `python tools/review_check.py`.
 
 Thuật ngữ mới: thêm vào `docs/assets/data/terms.json`, rồi chạy `python tools/gen_glossary.py`.
+
+Đoạn có hạn dùng (luật đang hiệu lực, số liệu đang đổi, tình trạng AI hiện tại; quyết định 20) không viết thẳng vào bài Lõi: đặt vào khối thời sự `data/thoi-su/<trang>.<tên-ngắn>.md` (front matter `page`, `updated_to`, `review_by`, `sources`; schema `schema/thoi-su.schema.json`) và gọi trong bài bằng `[[thoi-su:<id>]]`. Rà khối khi tới `review_by`: sửa thân khối, cập nhật hai ngày; mã băm của bài Lõi không đổi. Chỗ `lint_volatile` bắt mà không có hạn dùng: thêm vào `data/style/volatile-allow.yml` kèm lý do.
 
 Thêm một triết gia (từ đợt 7): thêm bản ghi vào `data/kb/people.yml` và hồ sơ `data/people/<id>.yml` (bắt buộc có `sources`; schema ở `schema/kb/`), thêm vào `nav`, rồi chạy `python tools/kb_check.py --check` và `philosophers.py`, `timeline.py`, `influence.py`.
 

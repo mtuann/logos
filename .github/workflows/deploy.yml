@@ -83,9 +83,11 @@ jobs:
           # Được sửa đơn vị Lõi đã đóng băng khi: PR mang nhãn doi-loi, hoặc một commit được push có "[doi-loi]".
           LZ_ALLOW_CORE_CHANGE: ${{ (contains(github.event.pull_request.labels.*.name, 'doi-loi') || contains(toJSON(github.event.commits.*.message), '[doi-loi]')) && '1' || '' }}
         run: uv run --frozen python tools/check_ledger.py --check
+      - name: Nội dung có hạn dùng trong Lõi (chặn từ đợt 3; danh sách miễn data/style/volatile-allow.yml)
+        run: uv run --frozen python tools/lint_volatile.py --strict -q
       - name: Linter (chế độ cảnh báo, chưa chặn)
         run: |
-          for l in lint_terms lint_volatile lint_structure lint_facts lint_quotes; do
+          for l in lint_terms lint_structure lint_facts lint_quotes; do
             uv run --frozen python tools/$l.py -q
           done
       - name: Đơn vị thay đổi (không chặn)

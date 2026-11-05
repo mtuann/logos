@@ -69,6 +69,17 @@ class TestThoiSuCheck(unittest.TestCase):
             encoding="utf-8")
         self.assertIn("Additional properties", "\n".join(self.errs()))
 
+    def test_source_key_must_exist(self):
+        (self.root / "data" / "kb").mkdir(parents=True)
+        (self.root / "data" / "kb" / "sources.yml").write_text("web.co-that: {type: khac}\n", encoding="utf-8")
+        (self.root / "data" / "thoi-su" / "cau-hoi.a.luat.md").write_text(
+            "---\npage: cau-hoi/a.md\nupdated_to: 2026-10-22\nreview_by: 2027-10-22\n"
+            "sources: [web.co-that, https://x.org/, web.khong-co]\n---\nx\n", encoding="utf-8")
+        self.page("cau-hoi/a.md", "[[thoi-su:cau-hoi.a.luat]]\n")
+        e = self.errs()
+        self.assertEqual(len(e), 1, e)
+        self.assertIn("web.khong-co", e[0])
+
     def test_multiline_must_stand_alone(self):
         self.block("cau-hoi.a.dai", "Dòng một.\n\nDòng hai.")
         self.page("cau-hoi/a.md", "Chữ [[thoi-su:cau-hoi.a.dai]]\n")
