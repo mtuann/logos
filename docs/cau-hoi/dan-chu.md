@@ -134,7 +134,7 @@ Platon tưởng tượng một con tàu mà chủ tàu thì to khỏe nhưng m�
 !!! quote "Platon, *Cộng hòa*, Quyển VI (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng)"
     "Will he not be called by them a prater, a star-gazer, a good-for-nothing?"
 
-    Chẳng phải người ấy sẽ bị họ gọi là kẻ ba hoa, kẻ ngắm sao, kẻ vô tích sự sao? *(bản dịch của Logos Zero)*
+    Chẳng phải người ấy sẽ bị họ gọi là kẻ ba hoa, kẻ ngắm sao, kẻ vô tích sự sao? *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

@@ -1,4 +1,4 @@
-/* Logos Zero — kế hoạch học thích ứng.
+/* Logos — kế hoạch học thích ứng.
  * <div class="oz-ke-hoach"></div>
  * Gợi ý bài học tiếp theo dựa trên tiến độ đã lưu (EMA từng kỹ năng + bài đã đọc).
  * CHỈ gợi ý, KHÔNG chấm điểm, KHÔNG gọi P.record.

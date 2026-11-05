@@ -156,7 +156,7 @@ Một điểm đáng chú ý: nhiều triết gia ngày nay không chọn hẳn 
 !!! quote "Platon, *Phaedo*, 100c–d (bản tiếng Anh của Benjamin Jowett)"
     "I cannot help thinking, if there be anything beautiful other than absolute beauty should there be such, that it can be beautiful only in as far as it partakes of absolute beauty—and I should say the same of everything. [...] nothing makes a thing beautiful but the presence and participation of beauty in whatever way or manner obtained; for as to the manner I am uncertain, but I stoutly contend that by beauty all beautiful things become beautiful."
 
-    "Tôi không thể không nghĩ rằng, nếu có thứ gì đẹp ngoài cái Đẹp tuyệt đối — giả như có thứ như thế — thì nó chỉ có thể đẹp chừng nào nó tham dự vào cái Đẹp tuyệt đối; và tôi cũng sẽ nói như vậy về mọi thứ. […] Không gì làm cho một vật trở nên đẹp ngoài sự hiện diện và sự tham dự của cái Đẹp, dù bằng cách nào; vì về cách thức thì tôi không chắc, nhưng tôi quả quyết rằng nhờ cái Đẹp mà mọi vật đẹp trở nên đẹp." *(bản dịch của Logos Zero)*
+    "Tôi không thể không nghĩ rằng, nếu có thứ gì đẹp ngoài cái Đẹp tuyệt đối — giả như có thứ như thế — thì nó chỉ có thể đẹp chừng nào nó tham dự vào cái Đẹp tuyệt đối; và tôi cũng sẽ nói như vậy về mọi thứ. […] Không gì làm cho một vật trở nên đẹp ngoài sự hiện diện và sự tham dự của cái Đẹp, dù bằng cách nào; vì về cách thức thì tôi không chắc, nhưng tôi quả quyết rằng nhờ cái Đẹp mà mọi vật đẹp trở nên đẹp." *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

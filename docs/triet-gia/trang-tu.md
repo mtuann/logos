@@ -49,7 +49,7 @@ Trong thiên “Tề vật luận”, qua lời nhân vật Trường Ngô Tử,
 !!! quote "Trang Tử, *Trang Tử*, thiên 4 “Nhân gian thế” (人間世), đoạn kết — nguyên văn chữ Hán và phiên âm Hán Việt"
     "山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無用之用也。 — Sơn mộc tự khấu dã, cao hỏa tự tiễn dã. Quế khả thực, cố phạt chi; tất khả dụng, cố cát chi. Nhân giai tri hữu dụng chi dụng, nhi mạc tri vô dụng chi dụng dã."
 
-    "Cây trên núi tự chuốc lấy búa rìu, mỡ đèn tự đốt cạn mình. Quế ăn được nên bị chặt, sơn dùng được nên bị rạch. Người đời ai cũng biết cái dụng của cái hữu dụng, mà chẳng ai biết cái dụng của cái vô dụng." *(bản dịch của Logos Zero)*
+    "Cây trên núi tự chuốc lấy búa rìu, mỡ đèn tự đốt cạn mình. Quế ăn được nên bị chặt, sơn dùng được nên bị rạch. Người đời ai cũng biết cái dụng của cái hữu dụng, mà chẳng ai biết cái dụng của cái vô dụng." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Trong thiên “Tề vật luận”, qua lời nhân vật Trường Ngô Tử,
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Mộng hồ điệp — Trang Tử (thiên Tề vật luận)](../doc/trang-tu-mong-ho-diep.md)
 - [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md)

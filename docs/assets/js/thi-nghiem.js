@@ -1,4 +1,4 @@
-/* Logos Zero — công cụ thí nghiệm tư duy.
+/* Logos — công cụ thí nghiệm tư duy.
  * <div class="oz-thi-nghiem"></div>  Dữ liệu: assets/data/thi-nghiem.json
  * KHÔNG chấm điểm, KHÔNG gọi P.record — không có đáp án đúng trong thí nghiệm tư duy.
  * Mẫu UMD của repo: hàm thuần xuất qua module.exports; trình duyệt dùng OZReady(initAll). */

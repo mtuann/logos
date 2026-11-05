@@ -1,4 +1,4 @@
-/* Logos Zero — quiz "Tự kiểm tra".
+/* Logos — quiz "Tự kiểm tra".
  * Dữ liệu: <div class="oz-quiz" data-id data-skill><script type="application/json">[…]</script></div> */
 (function (root, factory) {
   var api = factory();

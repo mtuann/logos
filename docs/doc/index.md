@@ -13,7 +13,7 @@ Mỗi hướng dẫn chọn vài đoạn ngắn và đi cùng bạn qua chúng:
 
 - **Về văn bản này**: ai viết, khi nào, đọc toàn văn ở đâu (bản thuộc phạm vi công cộng).
 - **Bối cảnh**: văn bản ra đời để trả lời ai, cãi với ai.
-- **Đọc từng đoạn**: nguyên văn (hoặc bản dịch thuộc phạm vi công cộng) kèm bản dịch tiếng Việt của Logos Zero, vị trí chính xác trong tác phẩm, và câu hỏi dẫn dắt.
+- **Đọc từng đoạn**: nguyên văn (hoặc bản dịch thuộc phạm vi công cộng) kèm bản dịch tiếng Việt của Logos, vị trí chính xác trong tác phẩm, và câu hỏi dẫn dắt.
 - **Tái dựng lập luận** ở dạng chuẩn, **phản bác** và cách đáp lại, **hiểu lầm thường gặp**.
 - **Câu hỏi để tự viết** và một bài **tự kiểm tra** ngắn.
 

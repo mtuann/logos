@@ -25,7 +25,7 @@ Không xuất bản lên site.
 Vi phạm một luật dưới đây thì dừng lại và hỏi chủ biên, không tự xoay xở.
 
 1. **Không bịa.** Mọi năm, tên người, tên tác phẩm, trích dẫn, số liệu phải có nguồn bạn đã thực sự mở được (SEP — ưu tiên link bản lưu theo quý dạng `plato.stanford.edu/archives/fall2026/entries/<mục>/`, IEP, Project Gutenberg, Wikisource, ctext.org, bài báo gốc qua DOI). Không chắc thì không viết; ghi vào "Câu hỏi mở" trong báo cáo.
-2. **Không tự chế câu nói.** Trích nguyên văn chỉ từ văn bản đã mở. Văn bản còn bản quyền: tối đa 1–2 câu. Bản dịch của site ghi "(bản dịch của Logos Zero)".
+2. **Không tự chế câu nói.** Trích nguyên văn chỉ từ văn bản đã mở. Văn bản còn bản quyền: tối đa 1–2 câu. Bản dịch của site ghi "(bản dịch của Logos)".
 3. **Một nhánh (một việc), một loại thay đổi, đúng đợt đang mở.** Không "tiện tay" sửa chỗ khác. Thấy lỗi ngoài phạm vi: ghi vào `ban-giao/viec-cho.md`.
 4. **Không sửa tay file sinh tự động**: `docs/triet-gia/*.md`, `docs/assets/data/philosophers.json` (sinh từ `data/kb/people.yml`), `docs/them/sach.md`, `docs/them/tu-dien.md`, `docs/tac-pham/index.md`, `docs/them/kiem-chung.md`, `docs/assets/data/quiz-bank.json`, phần giữa `<!-- gen:… -->`…`<!-- /gen:… -->` và `<!-- fig:… -->`…`<!-- /fig:… -->`. Sửa nguồn rồi chạy tool tương ứng trong `tools/`.
 5. **Không phá người đọc.** Không đổi URL trang (đường dẫn giữ như logos-zero), khóa `localStorage` `logos`, `data-id` của quiz, `id` của thuật ngữ và của bản ghi luyện tập.

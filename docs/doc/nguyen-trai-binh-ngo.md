@@ -9,13 +9,13 @@ block: van-ban
 
 # Hướng dẫn đọc: *Bình Ngô đại cáo* của Nguyễn Trãi
 
-*Bình Ngô đại cáo* là bản tuyên cáo [Nguyễn Trãi](../triet-gia/nguyen-trai.md) viết thay lời Lê Lợi sau thắng lợi của khởi nghĩa Lam Sơn trước quân Minh. "Đại cáo" là lời tuyên bố lớn với thiên hạ. Đây vừa là văn bản chính trị, tuyên bố chiến tranh kết thúc, vừa là một lập luận về *chính nghĩa*: khi nào việc dùng binh là đúng? Ta đọc bốn đoạn, mỗi đoạn kèm nguyên văn chữ Hán, phiên âm Hán Việt và bản dịch của Logos Zero.
+*Bình Ngô đại cáo* là bản tuyên cáo [Nguyễn Trãi](../triet-gia/nguyen-trai.md) viết thay lời Lê Lợi sau thắng lợi của khởi nghĩa Lam Sơn trước quân Minh. "Đại cáo" là lời tuyên bố lớn với thiên hạ. Đây vừa là văn bản chính trị, tuyên bố chiến tranh kết thúc, vừa là một lập luận về *chính nghĩa*: khi nào việc dùng binh là đúng? Ta đọc bốn đoạn, mỗi đoạn kèm nguyên văn chữ Hán, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Nguyễn Trãi (1380–1442) soạn dưới danh nghĩa Lê Lợi; bản trong *Lam Sơn thực lục* và *Hoàng Việt văn tuyển* mở đầu bằng câu "Thay trời làm việc giáo hóa, Hoàng thượng truyền rằng" (代天行化皇上若曰). *Đại Việt sử ký toàn thư* chép bài cáo ngay sau khi quân Minh rút về nước, vào tháng Chạp năm Đinh Mùi (khoảng cuối năm 1427 – đầu năm 1428 dương lịch), và ghi ở cuối: "Đại cáo do văn thần Nguyễn Trãi soạn" (大誥乃文臣阮廌撰).
     - **Thể loại, độ dài:** thể cáo, văn biền ngẫu chữ Hán; bản trong *Toàn thư* dài khoảng 1.300 chữ.
     - **Đọc toàn văn:** nguyên văn theo *Toàn thư* trên [Wikisource tiếng Trung](https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十) và theo *Hoàng Việt văn tuyển* (1825) trên [Wikisource tiếng Việt](https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo); các bản dịch cũ đã thuộc phạm vi công cộng, như bản in trong *Việt Nam sử lược* của Trần Trọng Kim (1920) và bản Mạc Bảo Thần trong *Lam Sơn thực lục* (1944), cũng có trên Wikisource tiếng Việt.
-    - **Bản dịch trong bài:** của Logos Zero, dịch từ bản *Toàn thư*. **Thời gian đọc:** khoảng 20 phút.
+    - **Bản dịch trong bài:** của Logos, dịch từ bản *Toàn thư*. **Thời gian đọc:** khoảng 20 phút.
 
 ## Bối cảnh {#boi-canh}
 
@@ -27,12 +27,12 @@ Ngôn ngữ của bài cáo là ngôn ngữ Nho giáo. Chữ **điếu phạt** 
 
 ### 1. Luận đề nhân nghĩa
 
-!!! quote "Bình Ngô đại cáo, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Bình Ngô đại cáo, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     仁義之舉，要在安民，吊伐之師，莫先去暴。
 
     *Nhân nghĩa chi cử, yếu tại an dân; điếu phạt chi sư, mạc tiên khứ bạo.*
 
-    Việc làm nhân nghĩa, cốt ở yên dân; đạo quân thương dân đánh kẻ có tội, trước hết là trừ bạo. *(bản dịch của Logos Zero)*
+    Việc làm nhân nghĩa, cốt ở yên dân; đạo quân thương dân đánh kẻ có tội, trước hết là trừ bạo. *(bản dịch của Logos)*
 
 Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩa. Việc dùng binh chỉ đúng khi nhằm *yên dân* và *trừ bạo*: không vì mở cõi, không vì trả thù. Tiêu chí này phán xét cả ta lẫn địch. Câu này có nhiều bản dịch: câu quen thuộc trong sách giáo khoa là "Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo"; bản in trong *Việt Nam sử lược* (1920) viết "quân điếu phạt chỉ vì khử bạo".
 
@@ -40,12 +40,12 @@ Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩ
 
 ### 2. Một nước văn hiến
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     惟我大越之國，實為文獻之邦。山川之封域既殊，南北之風俗亦異。自趙、丁、李、陳之肇造我國，與漢、唐、宋、元而各帝一方。
 
     *Duy ngã Đại Việt chi quốc, thực vi văn hiến chi bang. Sơn xuyên chi phong vực ký thù, Nam Bắc chi phong tục diệc dị. Tự Triệu, Đinh, Lý, Trần chi triệu tạo ngã quốc, dữ Hán, Đường, Tống, Nguyên nhi các đế nhất phương.*
 
-    Nước Đại Việt ta thật là một nước văn hiến. Cõi bờ núi sông đã riêng, phong tục Nam Bắc cũng khác. Từ các đời Triệu, Đinh, Lý, Trần dựng nên nước ta, cùng với Hán, Đường, Tống, Nguyên, mỗi bên xưng đế một phương. *(bản dịch của Logos Zero)*
+    Nước Đại Việt ta thật là một nước văn hiến. Cõi bờ núi sông đã riêng, phong tục Nam Bắc cũng khác. Từ các đời Triệu, Đinh, Lý, Trần dựng nên nước ta, cùng với Hán, Đường, Tống, Nguyên, mỗi bên xưng đế một phương. *(bản dịch của Logos)*
 
 "Văn hiến" là đòn then chốt: độc lập không chỉ là giành lại đất, mà là khẳng định một nền văn hóa có tư cách ngang hàng. Cụm "mỗi bên xưng đế một phương" (各帝一方) đặt vua nước Việt ngang với hoàng đế phương Bắc, chứ không phải phiên thần. Lưu ý văn bản: cả ba bản chữ Hán được kiểm (*Toàn thư*, *Lam Sơn thực lục*, *Hoàng Việt văn tuyển*) đều có chữ 趙 (Triệu), nhưng bản dịch trong *Việt Nam sử lược* lại viết "Từ Đinh, Lê, Lý, Trần".
 
@@ -53,12 +53,12 @@ Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩ
 
 ### 3. Kể tội giặc
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     決東海之水，不足以濯其污。罄南山之竹，不足以書其惡。神人之所共憤，天地之所不容。
 
     *Quyết Đông Hải chi thủy, bất túc dĩ trạc kỳ ô. Khánh Nam Sơn chi trúc, bất túc dĩ thư kỳ ác. Thần nhân chi sở cộng phẫn, thiên địa chi sở bất dung.*
 
-    Tháo hết nước biển Đông không đủ rửa sạch vết nhơ; chặt hết trúc núi Nam không đủ ghi hết tội ác. Thần và người đều căm giận, trời đất không dung tha. *(bản dịch của Logos Zero)*
+    Tháo hết nước biển Đông không đủ rửa sạch vết nhơ; chặt hết trúc núi Nam không đủ ghi hết tội ác. Thần và người đều căm giận, trời đất không dung tha. *(bản dịch của Logos)*
 
 Trước câu này là một đoạn dài kể chính sách của quân Minh: thuế nặng, bắt dân xuống biển mò ngọc, vào núi đãi vàng, phu phen không dứt. Chức năng lập luận rất rõ: chứng minh đối phương chính là "kẻ bạo" mà câu mở đầu đã nói tới, để "trừ bạo" thành chính đáng. Câu về trúc núi Nam và nước biển Đông phỏng theo bài hịch của Lý Mật kể mười tội của Tùy Dạng Đế, chép trong *Cựu Đường thư* (quyển 53): người đọc thời ấy nhận ra ngay điển cố, và nhận ra bài cáo đang xếp nhà Minh vào hàng bạo chúa.
 
@@ -66,12 +66,12 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ### 4. Lấy chí nhân thay cường bạo
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     卒能以大義而勝凶殘，以至仁而易強暴。……神武不殺，予亦體上帝好生之心。……乾坤既否而復泰，日月既晦而復明。
 
     *Tốt năng dĩ đại nghĩa nhi thắng hung tàn, dĩ chí nhân nhi dịch cường bạo. … Thần vũ bất sát, dư diệc thể thượng đế hiếu sinh chi tâm. … Càn khôn ký bĩ nhi phục thái, nhật nguyệt ký hối nhi phục minh.*
 
-    Rốt cuộc đã lấy đại nghĩa mà thắng hung tàn, lấy chí nhân mà thay cường bạo. … Thần vũ không giết, ta cũng thể theo lòng hiếu sinh của Thượng đế. … Trời đất đã bĩ rồi lại thái, mặt trời mặt trăng đã mờ rồi lại sáng. *(bản dịch của Logos Zero)*
+    Rốt cuộc đã lấy đại nghĩa mà thắng hung tàn, lấy chí nhân mà thay cường bạo. … Thần vũ không giết, ta cũng thể theo lòng hiếu sinh của Thượng đế. … Trời đất đã bĩ rồi lại thái, mặt trời mặt trăng đã mờ rồi lại sáng. *(bản dịch của Logos)*
 
 Đoạn kể trận mạc (Tốt Động, Chi Lăng, Xương Giang) kết thúc không bằng cuộc tàn sát mà bằng việc tha hàng binh: bài cáo nói quân Minh được cấp hơn năm trăm chiếc thuyền, mấy nghìn con ngựa để về nước. *Toàn thư* chép lời Lê Lợi khi tướng sĩ đòi giết quân đã hàng: "Báo thù trả oán là thường tình của mọi người; không thích giết người là bản tâm của người nhân" (復讐報怨者，眾人之常情。不嗜殺人者，仁人之本心). "Bĩ" và "thái" là tên hai quẻ trong *Kinh Dịch*, bế tắc và thông suốt. Câu kết trở về điểm xuất phát: thái bình cho dân.
 

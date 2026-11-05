@@ -48,7 +48,7 @@ Phương châm của Anselm là “đức tin đi tìm hiểu biết” (*fides 
 !!! quote "Anselm, *Proslogion*, chương 1 — bản dịch tiếng Anh của Sidney Norton Deane (1903)"
     "For I do not seek to understand that I may believe, but I believe in order to understand. For this also I believe,—that unless I believed, I should not understand."
 
-    "Vì con không tìm hiểu để rồi mới tin, nhưng con tin để có thể hiểu. Bởi con còn tin điều này nữa: nếu không tin, con sẽ không hiểu." *(bản dịch của Logos Zero)*
+    "Vì con không tìm hiểu để rồi mới tin, nhưng con tin để có thể hiểu. Bởi con còn tin điều này nữa: nếu không tin, con sẽ không hiểu." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Phương châm của Anselm là “đức tin đi tìm hiểu biết” (*fides 
 
 **Ảnh hưởng tới:** [Thomas Aquinas](aquinas.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)
 

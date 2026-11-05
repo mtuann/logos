@@ -57,7 +57,7 @@ Lập luận từ **vị trí nguyên thủy** (*original position*) trong *A Th
 
 **Ảnh hưởng tới:** [Robert Nozick](nozick.md), [Derek Parfit](parfit.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Công lý là gì? Rawls và bức màn vô tri](../cau-hoi/cong-ly.md)
 - [Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằng nhau?](../cau-hoi/binh-dang.md)

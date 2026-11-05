@@ -1,6 +1,6 @@
 ---
 title: Cập nhật
-description: Nhật ký thay đổi của Logos Zero.
+description: Nhật ký thay đổi của Logos.
 updated: 2026-10-22
 tier: he-thong
 ---
@@ -29,7 +29,7 @@ tier: he-thong
 
 **Hướng dẫn đọc văn bản gốc**
 
-- Cả 19 [hướng dẫn đọc](../doc/index.md) được viết lại. Mỗi bài có khối "Về văn bản này" (đọc toàn văn ở đâu, trích bản dịch nào), vị trí trích chính xác (số Stephanus, số Bekker, Ak…), nguyên văn phạm vi công cộng đối chiếu từng chữ kèm bản dịch của Logos Zero (với văn bản Hán: chữ Hán, phiên âm Hán Việt và bản dịch), phần tái dựng lập luận, phản bác kèm cách đáp lại, hiểu lầm thường gặp và bài tự kiểm tra.
+- Cả 19 [hướng dẫn đọc](../doc/index.md) được viết lại. Mỗi bài có khối "Về văn bản này" (đọc toàn văn ở đâu, trích bản dịch nào), vị trí trích chính xác (số Stephanus, số Bekker, Ak…), nguyên văn phạm vi công cộng đối chiếu từng chữ kèm bản dịch của Logos (với văn bản Hán: chữ Hán, phiên âm Hán Việt và bản dịch), phần tái dựng lập luận, phản bác kèm cách đáp lại, hiểu lầm thường gặp và bài tự kiểm tra.
 - Vài lỗi đã sửa: "mềm thắng cứng" là chương 78 của *Đạo đức kinh*, không phải chương 8; hai câu từng gán cho *Suy tưởng* không có trong sách; câu "tôi tư duy, vậy tôi tồn tại" không có trong *Suy niệm*; Mill nêu bốn căn cứ cho tự do ngôn luận, không phải ba; *kiêm ái* của Mặc Tử không có nghĩa là đối xử với mọi người như nhau.
 - Thêm link từ các bài Câu hỏi lớn liên quan tới từng hướng dẫn đọc.
 

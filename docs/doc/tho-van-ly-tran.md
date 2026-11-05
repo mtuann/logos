@@ -9,13 +9,13 @@ block: van-ban
 
 # Hướng dẫn đọc: Thơ văn Lý–Trần (tuyển)
 
-Thời Lý–Trần (1009–1400) là giai đoạn Thiền tông thấm sâu vào văn chương Việt: vua học thiền, thiền sư dự việc triều chính, và thơ trở thành nơi nói đạo. Tuyển hiện đại đầy đủ nhất là bộ *Thơ văn Lý–Trần* của Viện Văn học (3 tập, 1977–1989). Hướng dẫn này đọc bốn bài quanh hai chủ đề: **vô thường** và **thiền giữa đời**. Nguyên văn đã thuộc phạm vi công cộng; các bản dịch hiện đại còn bản quyền nên phần dịch dưới đây là của Logos Zero, kèm vài câu dịch thơ của Ngô Tất Tố (1894–1954), nay đã thuộc phạm vi công cộng.
+Thời Lý–Trần (1009–1400) là giai đoạn Thiền tông thấm sâu vào văn chương Việt: vua học thiền, thiền sư dự việc triều chính, và thơ trở thành nơi nói đạo. Tuyển hiện đại đầy đủ nhất là bộ *Thơ văn Lý–Trần* của Viện Văn học (3 tập, 1977–1989). Hướng dẫn này đọc bốn bài quanh hai chủ đề: **vô thường** và **thiền giữa đời**. Nguyên văn đã thuộc phạm vi công cộng; các bản dịch hiện đại còn bản quyền nên phần dịch dưới đây là của Logos, kèm vài câu dịch thơ của Ngô Tất Tố (1894–1954), nay đã thuộc phạm vi công cộng.
 
 !!! info "Về văn bản này"
     - **Tác giả:** Vạn Hạnh (?–1018), thiền sư đầu đời Lý; Mãn Giác (1052–1096), thiền sư đời Lý; [Trần Nhân Tông](../triet-gia/tran-nhan-tong.md) (1258–1308), vua Trần, người lập Thiền phái Trúc Lâm.
     - **Nguồn văn bản:** thơ kệ của các thiền sư đời Lý còn lại phần lớn nhờ sách *Thiền uyển tập anh*, có lẽ biên soạn vào thế kỷ 14. Nhan đề nhiều bài do người đời sau đặt: theo bộ *Thơ văn Lý–Trần* (tập I, 1977), nhan đề "Cáo tật thị chúng" là do Lê Quý Đôn đặt. *Cư trần lạc đạo phú* của Trần Nhân Tông viết bằng chữ Nôm, gồm 10 hội, kết bằng một bài kệ chữ Hán.
     - **Đọc toàn văn trên Wikisource tiếng Việt:** [Thị đệ tử](https://vi.wikisource.org/wiki/Thị_đệ_tử), [Cáo tật thị chúng](https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng), [Cư trần lạc đạo phú](https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú), [Xuân hiểu](https://vi.wikisource.org/wiki/Xuân_hiểu_(Trần_Nhân_Tông)).
-    - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 20 phút.
+    - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 20 phút.
 
 ## Bối cảnh {#boi-canh}
 
@@ -27,7 +27,7 @@ Câu hỏi xuyên suốt các bài dưới đây là: tu đạo có đòi phải
 
 ### 1. Vạn Hạnh: thân như bóng chớp
 
-!!! quote "Vạn Hạnh, “Thị đệ tử” (Bảo đệ tử) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Vạn Hạnh, “Thị đệ tử” (Bảo đệ tử) — nguyên văn, phiên âm, bản dịch của Logos"
     身如電影有還無，  
     萬木春榮秋又枯。  
     任運盛衰無怖畏，  
@@ -38,7 +38,7 @@ Câu hỏi xuyên suốt các bài dưới đây là: tu đạo có đòi phải
     *Nhậm vận thịnh suy vô bố úy,*  
     *Thịnh suy như lộ thảo đầu phô.*
 
-    Thân như bóng chớp, có rồi lại không; cây cối xuân tươi tốt, thu lại héo khô. Mặc cho vận đời thịnh suy, đừng sợ hãi: thịnh suy như giọt sương trải đầu ngọn cỏ. *(bản dịch của Logos Zero)*
+    Thân như bóng chớp, có rồi lại không; cây cối xuân tươi tốt, thu lại héo khô. Mặc cho vận đời thịnh suy, đừng sợ hãi: thịnh suy như giọt sương trải đầu ngọn cỏ. *(bản dịch của Logos)*
 
 Theo truyền thống, Vạn Hạnh đọc bài kệ này cho học trò trước khi mất; ông cũng được coi là thầy của Lý Công Uẩn, người lập nhà Lý. Năm mất của ông có hai ghi chép: *Thiền uyển tập anh* ghi năm Thuận Thiên thứ 9 (1018), còn *Toàn thư* chép vào năm Thuận Thiên thứ 16 (1025).
 
@@ -48,7 +48,7 @@ Theo truyền thống, Vạn Hạnh đọc bài kệ này cho học trò trướ
 
 ### 2. Mãn Giác: một cành mai
 
-!!! quote "Mãn Giác, “Cáo tật thị chúng” (Có bệnh, bảo mọi người) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mãn Giác, “Cáo tật thị chúng” (Có bệnh, bảo mọi người) — nguyên văn, phiên âm, bản dịch của Logos"
     春去百花落，  
     春到百花開。  
     事逐眼前過，  
@@ -63,7 +63,7 @@ Theo truyền thống, Vạn Hạnh đọc bài kệ này cho học trò trướ
     *Mạc vị xuân tàn hoa lạc tận,*  
     *Đình tiền tạc dạ nhất chi mai.*
 
-    Xuân đi, trăm hoa rụng; xuân đến, trăm hoa nở. Việc đời trôi qua trước mắt; tuổi già hiện trên mái đầu. Chớ bảo xuân tàn thì hoa rụng hết: đêm qua trước sân, một cành mai. *(bản dịch của Logos Zero)*
+    Xuân đi, trăm hoa rụng; xuân đến, trăm hoa nở. Việc đời trôi qua trước mắt; tuổi già hiện trên mái đầu. Chớ bảo xuân tàn thì hoa rụng hết: đêm qua trước sân, một cành mai. *(bản dịch của Logos)*
 
 Hai câu cuối nổi tiếng nhất, quen thuộc qua bản dịch thơ của Ngô Tất Tố: "Đừng bảo xuân tàn hoa rụng hết, / Đêm qua, sân trước một nhành mai." Bốn câu đầu tả một vòng lặp: hoa rụng, hoa nở, già đến. Câu thứ năm cắt ngang vòng lặp ấy bằng chữ "chớ" (莫). Người đọc hiểu cành mai theo nhiều cách: hình ảnh của tâm giác ngộ không theo xuân đến xuân đi, hay đơn giản là sự sống vẫn nở ngay giữa lúc tàn phai, trong khi chính người viết đang bệnh.
 
@@ -71,7 +71,7 @@ Hai câu cuối nổi tiếng nhất, quen thuộc qua bản dịch thơ của N
 
 ### 3. Trần Nhân Tông: Bụt ở trong nhà
 
-!!! quote "Trần Nhân Tông, *Cư trần lạc đạo phú*, hội 5 (chữ Nôm) và bài kệ kết (chữ Hán) — nguyên văn, phiên âm, diễn nghĩa của Logos Zero"
+!!! quote "Trần Nhân Tông, *Cư trần lạc đạo phú*, hội 5 (chữ Nôm) và bài kệ kết (chữ Hán) — nguyên văn, phiên âm, diễn nghĩa của Logos"
     丕買処：孛於宮茹，庄沛寻賒。因虧本年些寻孛，典谷処㐱孛羅些。
 
     *Vậy mới hay: Bụt ở cong nhà, chẳng phải tìm xa. Nhân khuây bản nên ta tìm Bụt, đến cốc hay chỉn Bụt là ta.*
@@ -80,7 +80,7 @@ Hai câu cuối nổi tiếng nhất, quen thuộc qua bản dịch thơ của N
 
     *Cư trần lạc đạo thả tùy duyên, cơ tắc xan hề khốn tắc miên. Gia trung hữu bảo hưu tầm mịch, đối cảnh vô tâm mạc vấn thiền.*
 
-    Vậy mới biết: Bụt ở ngay trong nhà, chẳng phải tìm đâu xa. Vì ta quên mất cái gốc nên mới đi tìm Bụt; đến khi biết ra thì Bụt chính là ta. — Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên; đói thì ăn, mệt thì ngủ. Trong nhà có báu, thôi tìm kiếm; gặp cảnh mà tâm không vướng, chớ hỏi thiền. *(bản dịch của Logos Zero)*
+    Vậy mới biết: Bụt ở ngay trong nhà, chẳng phải tìm đâu xa. Vì ta quên mất cái gốc nên mới đi tìm Bụt; đến khi biết ra thì Bụt chính là ta. — Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên; đói thì ăn, mệt thì ngủ. Trong nhà có báu, thôi tìm kiếm; gặp cảnh mà tâm không vướng, chớ hỏi thiền. *(bản dịch của Logos)*
 
 Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "vốn, thật là". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
 
@@ -88,7 +88,7 @@ Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" 
 
 ### 4. Trần Nhân Tông: buổi sáng mùa xuân
 
-!!! quote "Trần Nhân Tông, “Xuân hiểu” (Sáng xuân) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Trần Nhân Tông, “Xuân hiểu” (Sáng xuân) — nguyên văn, phiên âm, bản dịch của Logos"
     睡起啟窗扉，  
     不知春已歸。  
     一雙白蝴蝶，  
@@ -99,7 +99,7 @@ Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" 
     *Nhất song bạch hồ điệp,*  
     *Phách phách sấn hoa phi.*
 
-    Ngủ dậy, mở cánh cửa sổ, chẳng biết xuân đã về. Một đôi bướm trắng phấp phới đuổi theo hoa mà bay. *(bản dịch của Logos Zero)*
+    Ngủ dậy, mở cánh cửa sổ, chẳng biết xuân đã về. Một đôi bướm trắng phấp phới đuổi theo hoa mà bay. *(bản dịch của Logos)*
 
 Không một chữ nào nói về đạo. Chỉ có một người vừa thức dậy, mở cửa, và một đôi bướm. Đây là kiểu thơ thiền nói bằng cách *không nói*: cái thấy trọn vẹn một khoảnh khắc bình thường, không bình luận. Đặt bài này cạnh bài kệ ở đoạn 3, "đói thì ăn, mệt thì ngủ" có thêm một vế: thức thì nhìn. (Đôi bướm cũng gợi nhớ con bướm của [Trang Tử](../triet-gia/trang-tu.md), dù không có bằng chứng Trần Nhân Tông cố ý nhắc tới.)
 

@@ -48,7 +48,7 @@ Phần đời còn lại là giảng dạy và viết: hai nhiệm kỳ làm gi�
 !!! quote "Thomas Aquinas, *Tổng luận Thần học* I, câu 1, mục 8, trả lời phản bác 2 — bản dịch tiếng Anh của Fathers of the English Dominican Province (1920)"
     "Since therefore grace does not destroy nature but perfects it, natural reason should minister to faith as the natural bent of the will ministers to charity."
 
-    "Vậy, vì ân sủng không phá hủy tự nhiên mà hoàn thiện nó, lý trí tự nhiên phải phục vụ đức tin, như khuynh hướng tự nhiên của ý chí phục vụ đức ái." *(bản dịch của Logos Zero)*
+    "Vậy, vì ân sủng không phá hủy tự nhiên mà hoàn thiện nó, lý trí tự nhiên phải phục vụ đức tin, như khuynh hướng tự nhiên của ý chí phục vụ đức ái." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Phần đời còn lại là giảng dạy và viết: hai nhiệm kỳ làm gi�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)
 - [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)

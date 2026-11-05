@@ -15,12 +15,12 @@ block: van-ban
     - **Tác giả, thời điểm:** sách có lẽ do học trò của Mạnh Tử hoặc học trò của họ biên soạn; bản ta đọc ngày nay do Triệu Kỳ biên tập, rút gọn vào thế kỷ 2 (Van Norden, SEP).
     - **Thể loại:** đối thoại và lời nói ngắn bằng văn ngôn, gồm 7 thiên, mỗi thiên hai phần. "2A6" là thiên 2, phần thượng, chương 6.
     - **Đọc toàn văn:** nguyên văn song song với bản dịch tiếng Anh của James Legge (1861, phạm vi công cộng) trên ctext.org: [thiên 2A](https://ctext.org/mengzi/gong-sun-chou-i), [thiên 6A](https://ctext.org/mengzi/gaozi-i).
-    - **Bản dịch trong bài:** của Logos Zero; các bản dịch tiếng Việt hiện hành phần lớn còn bản quyền nên không chép.
+    - **Bản dịch trong bài:** của Logos; các bản dịch tiếng Việt hiện hành phần lớn còn bản quyền nên không chép.
     - **Thời gian đọc:** khoảng 25 phút.
 
 ## Bối cảnh {#boi-canh}
 
-Thời Chiến Quốc, vua chúa hỏi nhau: làm sao cho nước ta được *lợi* (1A1)? Mạnh Tử tự nhận việc bảo vệ đạo Khổng trước hai học thuyết đang "đầy thiên hạ": "Họ Dương vì mình, thế là không có vua; họ Mặc kiêm ái, thế là không có cha. Không cha không vua, ấy là cầm thú" (楊氏為我，是無君也；墨氏兼愛，是無父也。無父無君，是禽獸也, 3B9, *bản dịch của Logos Zero*).
+Thời Chiến Quốc, vua chúa hỏi nhau: làm sao cho nước ta được *lợi* (1A1)? Mạnh Tử tự nhận việc bảo vệ đạo Khổng trước hai học thuyết đang "đầy thiên hạ": "Họ Dương vì mình, thế là không có vua; họ Mặc kiêm ái, thế là không có cha. Không cha không vua, ấy là cầm thú" (楊氏為我，是無君也；墨氏兼愛，是無父也。無父無君，是禽獸也, 3B9, *bản dịch của Logos*).
 
 Theo Bryan Van Norden (SEP), thuyết tính thiện trả lời cả hai phía. Dương Chu viện đến "tính" để nói giữ thân là lẽ tự nhiên; Mạnh Tử đồng ý con người có bản tính, nhưng bản tính ấy giàu hơn lòng vị kỷ. Mặc gia tin động cơ con người nắn được gần như tùy ý bằng thưởng phạt; Mạnh Tử đáp rằng bản tính đặt giới hạn cho mọi học thuyết đạo đức. Gần hơn, ông tranh luận với Cáo Tử, người coi tính như gỗ liễu, còn nhân nghĩa như chén bát đẽo từ gỗ ấy (6A1).
 
@@ -28,12 +28,12 @@ Theo Bryan Van Norden (SEP), thuyết tính thiện trả lời cả hai phía. 
 
 ### 1. Đứa trẻ bên giếng và bốn đầu mối (2A6)
 
-!!! quote "Mạnh Tử 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mạnh Tử 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     今人乍見孺子將入於井，皆有怵惕惻隱之心。非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。……惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。人之有是四端也，猶其有四體也。
 
     *Kim nhân sạ kiến nhụ tử tương nhập ư tỉnh, giai hữu truật dịch trắc ẩn chi tâm. Phi sở dĩ nạp giao ư nhụ tử chi phụ mẫu dã, phi sở dĩ yêu dự ư hương đảng bằng hữu dã, phi ố kỳ thanh nhi nhiên dã. … Trắc ẩn chi tâm, nhân chi đoan dã; tu ố chi tâm, nghĩa chi đoan dã; từ nhượng chi tâm, lễ chi đoan dã; thị phi chi tâm, trí chi đoan dã. Nhân chi hữu thị tứ đoan dã, do kỳ hữu tứ thể dã.*
 
-    Nay người ta chợt thấy một đứa bé sắp rơi xuống giếng, ai cũng giật mình, xót thương. Không phải để làm thân với cha mẹ đứa bé, không phải để được làng xóm bạn bè khen, cũng không phải vì ghét nghe tiếng nó khóc. … Lòng xót thương là đầu mối của nhân; lòng hổ thẹn, ghét điều xấu là đầu mối của nghĩa; lòng từ nhường là đầu mối của lễ; lòng biết phải trái là đầu mối của trí. Người ta có bốn đầu mối ấy, cũng như có tứ chi. *(bản dịch của Logos Zero; chữ 聲 cũng có thể hiểu là "tiếng tăm", theo chú giải của Chu Hy)*
+    Nay người ta chợt thấy một đứa bé sắp rơi xuống giếng, ai cũng giật mình, xót thương. Không phải để làm thân với cha mẹ đứa bé, không phải để được làng xóm bạn bè khen, cũng không phải vì ghét nghe tiếng nó khóc. … Lòng xót thương là đầu mối của nhân; lòng hổ thẹn, ghét điều xấu là đầu mối của nghĩa; lòng từ nhường là đầu mối của lễ; lòng biết phải trái là đầu mối của trí. Người ta có bốn đầu mối ấy, cũng như có tứ chi. *(bản dịch của Logos; chữ 聲 cũng có thể hiểu là "tiếng tăm", theo chú giải của Chu Hy)*
 
 Ba chữ "không phải" loại lần lượt ba động cơ vụ lợi: cầu thân, cầu danh, tránh khó chịu. Mạnh Tử không nói ai cũng sẽ lao tới cứu; ông chỉ nói ai cũng có cái giật mình ấy. Chữ then chốt là **đoan** (端): cái mầm vừa nhú (Van Norden dịch là *sprouts*). Mầm chưa phải cây; vì thế bốn đầu mối cần được "mở rộng và làm đầy" (擴而充之).
 
@@ -43,12 +43,12 @@ Ba chữ "không phải" loại lần lượt ba động cơ vụ lợi: cầu t
 
 Cáo Tử nói: tính như dòng nước xiết, khơi về đông thì chảy về đông, khơi về tây thì chảy về tây; tính người không phân thiện hay bất thiện. Mạnh Tử đáp:
 
-!!! quote "Mạnh Tử 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mạnh Tử 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     水信無分於東西。無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。今夫水，搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。
 
     *Thủy tín vô phân ư đông tây. Vô phân ư thượng hạ hồ? Nhân tính chi thiện dã, do thủy chi tựu hạ dã. Nhân vô hữu bất thiện, thủy vô hữu bất hạ. Kim phù thủy, bác nhi dược chi, khả sử quá tảng; kích nhi hành chi, khả sử tại sơn. Thị khởi thủy chi tính tai? Kỳ thế tắc nhiên dã.*
 
-    Nước quả không phân đông tây. Nhưng không phân trên dưới sao? Tính người hướng thiện cũng như nước chảy xuống chỗ thấp. Người không ai không hướng thiện, nước không có nước nào không chảy xuống. Nay vỗ cho nước bắn lên, có thể vượt quá trán; chặn dòng mà dẫn đi, có thể đưa nó lên núi. Há đó là tính của nước sao? Ấy là do thế ép mà ra. *(bản dịch của Logos Zero)*
+    Nước quả không phân đông tây. Nhưng không phân trên dưới sao? Tính người hướng thiện cũng như nước chảy xuống chỗ thấp. Người không ai không hướng thiện, nước không có nước nào không chảy xuống. Nay vỗ cho nước bắn lên, có thể vượt quá trán; chặn dòng mà dẫn đi, có thể đưa nó lên núi. Há đó là tính của nước sao? Ấy là do thế ép mà ra. *(bản dịch của Logos)*
 
 Mạnh Tử không bỏ hình ảnh của đối thủ; ông lật nó lại. Để ý cặp chữ **tính** (性, xu hướng tự thân) và **thế** (勢, sức ép từ ngoài): cái ác thuộc về thế. Đây là lập luận bằng **loại suy** (*analogy*), mạnh đến đâu tùy chỗ tính người giống nước đến đâu.
 
@@ -56,12 +56,12 @@ Mạnh Tử không bỏ hình ảnh của đối thủ; ông lật nó lại. Đ
 
 ### 3. Núi Ngưu trơ trụi (6A8)
 
-!!! quote "Mạnh Tử 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mạnh Tử 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     牛山之木嘗美矣，以其郊於大國也，斧斤伐之，可以為美乎？……牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？
 
     *Ngưu Sơn chi mộc thường mỹ hĩ, dĩ kỳ giao ư đại quốc dã, phủ cân phạt chi, khả dĩ vi mỹ hồ? … Ngưu dương hựu tòng nhi mục chi, thị dĩ nhược bỉ trạc trạc dã. Nhân kiến kỳ trạc trạc dã, dĩ vi vị thường hữu tài yên, thử khởi sơn chi tính dã tai?*
 
-    Cây trên núi Ngưu từng rất đẹp. Vì núi nằm sát một nước lớn, búa rìu đốn chặt, còn đẹp được sao? … [Chồi non vẫn nhú lên,] trâu dê lại theo đó mà gặm, nên núi trơ trụi như thế kia. Người ta thấy núi trơ trụi, tưởng núi chưa từng có cây. Đó há là tính của núi sao? *(bản dịch của Logos Zero)*
+    Cây trên núi Ngưu từng rất đẹp. Vì núi nằm sát một nước lớn, búa rìu đốn chặt, còn đẹp được sao? … [Chồi non vẫn nhú lên,] trâu dê lại theo đó mà gặm, nên núi trơ trụi như thế kia. Người ta thấy núi trơ trụi, tưởng núi chưa từng có cây. Đó há là tính của núi sao? *(bản dịch của Logos)*
 
 Mạnh Tử chuyển ngay sang con người: người đánh mất lương tâm cũng như cây bị búa rìu "ngày ngày đốn chặt". Rồi ông rút ra một nguyên lý: "Được nuôi dưỡng thì không vật gì không lớn; mất sự nuôi dưỡng thì không vật gì không tiêu mòn" (苟得其養，無物不長；苟失其養，無物不消). Đây là câu trả lời cho câu hỏi khó nhất: nếu tính thiện, sao đời đầy người ác? Không phải vì họ không có mầm, mà vì mầm bị chặt phá lặp đi lặp lại.
 
@@ -69,12 +69,12 @@ Mạnh Tử chuyển ngay sang con người: người đánh mất lương tâm 
 
 ### 4. Người nước Tống nhổ mạ (2A2)
 
-!!! quote "Mạnh Tử 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mạnh Tử 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：「今日病矣，予助苗長矣。」其子趨而往視之，苗則槁矣。……以為無益而舍之者，不耘苗者也；助之長者，揠苗者也。非徒無益，而又害之。
 
     *Tống nhân hữu mẫn kỳ miêu chi bất trưởng nhi yết chi giả, mang mang nhiên quy, vị kỳ nhân viết: "Kim nhật bệnh hĩ, dư trợ miêu trưởng hĩ." Kỳ tử xu nhi vãng thị chi, miêu tắc cảo hĩ. … Dĩ vi vô ích nhi xả chi giả, bất vân miêu giả dã; trợ chi trưởng giả, yết miêu giả dã. Phi đồ vô ích, nhi hựu hại chi.*
 
-    Có người nước Tống lo mạ không lớn, bèn nhổ cho nó cao lên, ngây ngô trở về, bảo người nhà: "Hôm nay mệt quá, ta đã giúp mạ lớn rồi." Con ông chạy ra xem thì mạ đã héo cả. … Kẻ cho là vô ích mà bỏ mặc là kẻ không làm cỏ cho mạ; kẻ giúp nó mau lớn là kẻ nhổ mạ. Chẳng những vô ích mà còn hại nữa. *(bản dịch của Logos Zero)*
+    Có người nước Tống lo mạ không lớn, bèn nhổ cho nó cao lên, ngây ngô trở về, bảo người nhà: "Hôm nay mệt quá, ta đã giúp mạ lớn rồi." Con ông chạy ra xem thì mạ đã héo cả. … Kẻ cho là vô ích mà bỏ mặc là kẻ không làm cỏ cho mạ; kẻ giúp nó mau lớn là kẻ nhổ mạ. Chẳng những vô ích mà còn hại nữa. *(bản dịch của Logos)*
 
 Câu chuyện nằm trong đoạn bàn về việc nuôi "khí hạo nhiên" (浩然之氣), thứ khí sinh ra từ chỗ tích lũy việc nghĩa. Lời khuyên ngay trước đó: chuyên tâm làm, đừng hẹn trước kết quả, lòng đừng quên, nhưng đừng giúp cho mau lớn (必有事焉而勿正，心勿忘，勿助長也). Hai lỗi đối xứng: bỏ mặc, và nóng vội ép mầm.
 

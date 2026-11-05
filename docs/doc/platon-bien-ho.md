@@ -35,7 +35,7 @@ Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Pelo
 !!! quote "Biện hộ, 21d — bản dịch Benjamin Jowett"
     "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know."
 
-    "Ừ thì, tuy tôi không cho rằng ai trong hai chúng tôi biết điều gì thật sự đẹp và tốt, tôi vẫn hơn ông ta: ông ta chẳng biết gì mà tưởng mình biết; còn tôi không biết, và cũng không tưởng mình biết." *(bản dịch của Logos Zero)*
+    "Ừ thì, tuy tôi không cho rằng ai trong hai chúng tôi biết điều gì thật sự đẹp và tốt, tôi vẫn hơn ông ta: ông ta chẳng biết gì mà tưởng mình biết; còn tôi không biết, và cũng không tưởng mình biết." *(bản dịch của Logos)*
 
 Thi sĩ và thợ thủ công cũng vậy. Thợ thủ công biết thật nhiều điều Socrates không biết (22d), nhưng vì giỏi nghề nên tưởng mình biết cả những chuyện lớn. Kết luận: người khôn ngoan nhất là người, như Socrates, nhận ra sự khôn ngoan của mình chẳng đáng là bao (23a–b).
 
@@ -46,7 +46,7 @@ Thi sĩ và thợ thủ công cũng vậy. Thợ thủ công biết thật nhi�
 !!! quote "Biện hộ, 29a–b — bản dịch Benjamin Jowett"
     "For the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown; […] but I do know that injustice and disobedience to a better, whether God or man, is evil and dishonourable"
 
-    "Bởi sợ chết thật ra là làm ra vẻ khôn ngoan chứ không phải khôn ngoan thật, là làm ra vẻ biết điều mình không biết; […] nhưng tôi biết rằng làm điều bất chính và bất tuân người tốt hơn mình, dù là thần hay người, là xấu xa và đáng hổ thẹn." *(bản dịch của Logos Zero)*
+    "Bởi sợ chết thật ra là làm ra vẻ khôn ngoan chứ không phải khôn ngoan thật, là làm ra vẻ biết điều mình không biết; […] nhưng tôi biết rằng làm điều bất chính và bất tuân người tốt hơn mình, dù là thần hay người, là xấu xa và đáng hổ thẹn." *(bản dịch của Logos)*
 
 Giả sử tòa tha cho ông với điều kiện thôi hỏi han, ông sẽ đáp: tôi kính trọng các vị, nhưng sẽ vâng lời thần hơn vâng lời các vị (29c–d). Ông còn tự ví mình là con ruồi trâu thần gắn vào thành phố, một con tuấn mã to lớn mà chậm chạp, để suốt ngày đốt cho nó tỉnh (30e–31a).
 
@@ -57,7 +57,7 @@ Giả sử tòa tha cho ông với điều kiện thôi hỏi han, ông sẽ đ�
 !!! quote "Biện hộ, 38a — bản dịch Benjamin Jowett"
     "...daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living..."
 
-    "...mỗi ngày bàn luận về đức hạnh và những điều khác mà các vị vẫn nghe tôi đem chính mình và người khác ra xét hỏi, là điều tốt đẹp nhất cho con người, và một cuộc đời không được xét lại thì không đáng sống..." *(bản dịch của Logos Zero)*
+    "...mỗi ngày bàn luận về đức hạnh và những điều khác mà các vị vẫn nghe tôi đem chính mình và người khác ra xét hỏi, là điều tốt đẹp nhất cho con người, và một cuộc đời không được xét lại thì không đáng sống..." *(bản dịch của Logos)*
 
 Nguyên văn Hy Lạp gọn hơn: *ho de anexetastos bios ou biōtos anthrōpōi*, "đời không được xét hỏi thì không đáng sống đối với con người". Ông không nói đời ấy là *sai*, mà nói nó *không đáng sống*: một khẳng định về giá trị, không phải về logic.
 
@@ -66,7 +66,7 @@ Nguyên văn Hy Lạp gọn hơn: *ho de anexetastos bios ou biōtos anthrōpōi
 !!! quote "Biện hộ, 40c — bản dịch Benjamin Jowett"
     "Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
 
-    "Ta hãy nghĩ theo cách khác, sẽ thấy có nhiều lý do để hy vọng cái chết là điều tốt: vì nó chỉ có thể là một trong hai điều, hoặc chết là hư không, hoàn toàn không còn cảm giác, hoặc như người ta nói, đó là một cuộc đổi chỗ, linh hồn dời từ thế giới này sang thế giới khác." *(bản dịch của Logos Zero)*
+    "Ta hãy nghĩ theo cách khác, sẽ thấy có nhiều lý do để hy vọng cái chết là điều tốt: vì nó chỉ có thể là một trong hai điều, hoặc chết là hư không, hoàn toàn không còn cảm giác, hoặc như người ta nói, đó là một cuộc đổi chỗ, linh hồn dời từ thế giới này sang thế giới khác." *(bản dịch của Logos)*
 
 Nếu là hư không, chết như một đêm ngủ say không mộng (40d–e). Nếu là sang thế giới khác, ông sẽ được tiếp tục hỏi chuyện xem ai khôn thật, ai chỉ tưởng mình khôn (41b). Câu cuối của bài: "tôi đi chết, còn các vị đi sống; bên nào tốt hơn, chỉ thần biết" (42a).
 

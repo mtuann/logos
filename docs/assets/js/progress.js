@@ -1,4 +1,4 @@
-/* Logos Zero — lưu trữ và tiến độ.
+/* Logos — lưu trữ và tiến độ.
  * Một khóa localStorage duy nhất, có phiên bản. Các hàm thuần (không đụng localStorage)
  * được xuất ra để kiểm thử: emptyState, migrate, applyAnswer, applyQuiz, markRead,
  * addJournalEntry, today. */

@@ -1,4 +1,4 @@
-/* Logos Zero — Nhật ký: ghi chép suy nghĩ mỗi ngày, chỉ lưu trên trình duyệt này.
+/* Logos — Nhật ký: ghi chép suy nghĩ mỗi ngày, chỉ lưu trên trình duyệt này.
  * <div class="oz-nhat-ky"></div>. Dữ liệu gộp được qua trang Dữ liệu
  * (merge.js: mergeJournal — phía dài hơn thắng).
  * Mẫu UMD của repo: hàm thuần xuất qua module.exports; trình duyệt dùng OZReady(initAll). */

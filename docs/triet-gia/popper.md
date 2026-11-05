@@ -57,7 +57,7 @@ Lập luận bất đối xứng trong *Logik der Forschung* (§1, §6), tái d�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Khoa học khác gì với phi khoa học? Vấn đề phân giới](../cau-hoi/khoa-hoc.md)
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md)

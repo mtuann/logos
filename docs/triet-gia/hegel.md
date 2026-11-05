@@ -48,7 +48,7 @@ Chương IV của *Hiện tượng học Tinh thần* (1807) là phần nổi ti
 !!! quote "Hegel, *Grundlinien der Philosophie des Rechts* (1821), Lời tựa (đề ngày 25/6/1820) — bản dịch tiếng Anh của S. W. Dyde (1896)"
     "When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering."
 
-    "Khi triết học tô màu xám lên nền xám, thì một hình thái của đời sống đã già cỗi; bằng màu xám, triết học không làm nó trẻ lại được, mà chỉ hiểu được nó. Con cú của thần Minerva chỉ cất cánh khi bóng đêm buông xuống." *(bản dịch của Logos Zero)*
+    "Khi triết học tô màu xám lên nền xám, thì một hình thái của đời sống đã già cỗi; bằng màu xám, triết học không làm nó trẻ lại được, mà chỉ hiểu được nó. Con cú của thần Minerva chỉ cất cánh khi bóng đêm buông xuống." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Chương IV của *Hiện tượng học Tinh thần* (1807) là phần nổi ti
 
 **Ảnh hưởng tới:** [Kierkegaard](kierkegaard.md), [Karl Marx](marx.md), [Karl Popper](popper.md), [Sartre](sartre.md), [Simone de Beauvoir](beauvoir.md), [Trần Đức Thảo](tran-duc-thao.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)
 

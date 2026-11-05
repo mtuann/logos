@@ -47,7 +47,7 @@ Tử Lộ hỏi: nếu vua nước Vệ giao chính sự cho thầy, thầy làm
 !!! quote "Khổng Tử, *Luận ngữ* 15.24 (thiên Vệ Linh Công) — nguyên văn chữ Hán và phiên âm Hán Việt"
     "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」 — Tử Cống vấn viết: “Hữu nhất ngôn nhi khả dĩ chung thân hành chi giả hồ?” Tử viết: “Kỳ thứ hồ! Kỷ sở bất dục, vật thi ư nhân.”"
 
-    "Tử Cống hỏi: “Có một chữ nào có thể theo mà làm suốt đời không?” Thầy đáp: “Có lẽ là chữ thứ chăng! Điều mình không muốn, đừng làm cho người.”" *(bản dịch của Logos Zero)*
+    "Tử Cống hỏi: “Có một chữ nào có thể theo mà làm suốt đời không?” Thầy đáp: “Có lẽ là chữ thứ chăng! Điều mình không muốn, đừng làm cho người.”" *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Tử Lộ hỏi: nếu vua nước Vệ giao chính sự cho thầy, thầy làm
 
 **Ảnh hưởng tới:** [Mặc Tử](mac-tu.md), [Mạnh Tử](manh-tu.md), [Tuân Tử](tuan-tu.md), [Chu Hy](chu-hy.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Luận ngữ — những lời dạy của Khổng Tử](../doc/luan-ngu.md)
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md)

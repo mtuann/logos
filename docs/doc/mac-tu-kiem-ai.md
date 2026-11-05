@@ -15,7 +15,7 @@ block: van-ban
     - **Tác giả, thời điểm:** Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN. Sách *Mặc Tử* là tuyển tập nhiều người viết qua nhiều thời kỳ; không phần nào tự nhận do chính tay ông viết. Theo mục lục đời Hán, sách có 71 thiên, nay mất 18 (Fraser, SEP).
     - **Thể loại:** tiểu luận nghị luận; mỗi học thuyết chính có ba thiên thượng, trung, hạ. Các đoạn dưới đây thuộc nhóm thiên cốt lõi: *Kiêm ái* (thiên 14, 16), *Phi công* (17), *Thiên chí* (26).
     - **Đọc toàn văn:** nguyên văn song song với bản dịch tiếng Anh của W. P. Mei (1929) trên ctext.org: [Kiêm ái thượng](https://ctext.org/mozi/universal-love-i), [Kiêm ái hạ](https://ctext.org/mozi/universal-love-iii), [Phi công thượng](https://ctext.org/mozi/condemnation-of-offensive-war-i), [Thiên chí thượng](https://ctext.org/mozi/will-of-heaven-i).
-    - **Bản dịch trong bài:** của Logos Zero. **Thời gian đọc:** khoảng 25 phút.
+    - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 25 phút.
 
 ## Bối cảnh {#boi-canh}
 
@@ -27,12 +27,12 @@ Người chống ông gay gắt nhất là [Mạnh Tử](../triet-gia/manh-tu.md
 
 ### 1. Gốc của loạn (Kiêm ái thượng, thiên 14)
 
-!!! quote "Mặc Tử, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mặc Tử, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos"
     盜愛其室不愛其異室，故竊異室以利其室；賊愛其身不愛人，故賊人以利其身。……諸侯各愛其國，不愛異國，故攻異國以利其國。……察此何自起？皆起不相愛。……視人之室若其室，誰竊？……視人國若其國，誰攻？
 
     *Đạo ái kỳ thất bất ái kỳ dị thất, cố thiết dị thất dĩ lợi kỳ thất; tặc ái kỳ thân bất ái nhân, cố tặc nhân dĩ lợi kỳ thân. … Chư hầu các ái kỳ quốc, bất ái dị quốc, cố công dị quốc dĩ lợi kỳ quốc. … Sát thử hà tự khởi? Giai khởi bất tương ái. … Thị nhân chi thất nhược kỳ thất, thùy thiết? … Thị nhân quốc nhược kỳ quốc, thùy công?*
 
-    Kẻ trộm thương nhà mình mà không thương nhà khác, nên trộm nhà khác để lợi cho nhà mình; kẻ cướp thương thân mình mà không thương người, nên hại người để lợi cho thân mình. … Chư hầu ai cũng thương nước mình mà không thương nước khác, nên đánh nước khác để lợi cho nước mình. … Xét xem những điều ấy từ đâu ra? Đều do không thương nhau. … Coi nhà người như nhà mình, ai còn trộm? … Coi nước người như nước mình, ai còn đánh? *(bản dịch của Logos Zero)*
+    Kẻ trộm thương nhà mình mà không thương nhà khác, nên trộm nhà khác để lợi cho nhà mình; kẻ cướp thương thân mình mà không thương người, nên hại người để lợi cho thân mình. … Chư hầu ai cũng thương nước mình mà không thương nước khác, nên đánh nước khác để lợi cho nước mình. … Xét xem những điều ấy từ đâu ra? Đều do không thương nhau. … Coi nhà người như nhà mình, ai còn trộm? … Coi nước người như nước mình, ai còn đánh? *(bản dịch của Logos)*
 
 Mặc Tử làm việc như thầy thuốc: muốn chữa loạn phải biết loạn từ đâu ra. Kẻ trộm, kẻ cướp và chư hầu đánh nhau được xếp vào cùng một khuôn: thương cái của mình, gạt cái của người ra ngoài, rồi hại người để lợi mình.
 
@@ -42,12 +42,12 @@ Mặc Tử làm việc như thầy thuốc: muốn chữa loạn phải biết l
 
 Người phản đối nói: kiêm ái tốt đấy, nhưng dùng được không? Mặc Tử dựng hai người bạn. Người theo **biệt** (別, tách mình khỏi người) thấy bạn đói không cho ăn, rét không cho mặc; người theo **kiêm** lo cho bạn như lo cho mình. Rồi ông hỏi:
 
-!!! quote "Mặc Tử, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mặc Tử, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos"
     今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也；……不識將惡也家室，奉承親戚，提挈妻子，而寄託之？……我以為當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。
 
     *Kim hữu bình nguyên quảng dã ư thử, bị giáp anh trụ tương vãng chiến, tử sinh chi quyền vị khả thức dã; … bất thức tương ô dã gia thất, phụng thừa thân thích, đề khiết thê tử, nhi ký thác chi? … Ngã dĩ vi đương kỳ ư thử dã, thiên hạ vô ngu phu ngu phụ, tuy phi kiêm chi nhân, tất ký thác chi ư kiêm chi hữu thị dã.*
 
-    Nay có một cánh đồng rộng, một người mặc giáp đội mũ sắp ra trận, sống chết chưa biết; … người ấy sẽ gửi nhà cửa, nhờ phụng dưỡng cha mẹ, trông nom vợ con cho ai? … Tôi cho rằng vào lúc ấy, trong thiên hạ không có người đàn ông hay đàn bà nào ngu đến mức, dù vốn không theo thuyết kiêm, lại không gửi gắm cho người bạn theo kiêm. *(bản dịch của Logos Zero)*
+    Nay có một cánh đồng rộng, một người mặc giáp đội mũ sắp ra trận, sống chết chưa biết; … người ấy sẽ gửi nhà cửa, nhờ phụng dưỡng cha mẹ, trông nom vợ con cho ai? … Tôi cho rằng vào lúc ấy, trong thiên hạ không có người đàn ông hay đàn bà nào ngu đến mức, dù vốn không theo thuyết kiêm, lại không gửi gắm cho người bạn theo kiêm. *(bản dịch của Logos)*
 
 Đây là một **thí nghiệm tư duy** (*thought experiment*) "gần như chính xác kiểu lý thuyết trò chơi" (Van Norden, SEP "Mencius"). Mặc Tử kết luận: miệng chê kiêm, lúc chọn lại lấy kiêm. Ông không đòi người nghe bỏ lòng thương gia đình; ông dùng chính lòng thương ấy để bênh kiêm ái.
 
@@ -55,12 +55,12 @@ Người phản đối nói: kiêm ái tốt đấy, nhưng dùng được khôn
 
 ### 3. Giết một người, đánh một nước (Phi công thượng, thiên 17)
 
-!!! quote "Mặc Tử, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mặc Tử, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos"
     殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。當此，天下之君子皆知而非之，謂之不義。今至大為不義攻國，則弗知非，從而譽之，謂之義。
 
     *Sát nhất nhân vị chi bất nghĩa, tất hữu nhất tử tội hĩ. Nhược dĩ thử thuyết vãng, sát thập nhân thập trùng bất nghĩa, tất hữu thập tử tội hĩ; sát bách nhân bách trùng bất nghĩa, tất hữu bách tử tội hĩ. Đương thử, thiên hạ chi quân tử giai tri nhi phi chi, vị chi bất nghĩa. Kim chí đại vi bất nghĩa công quốc, tắc phất tri phi, tòng nhi dự chi, vị chi nghĩa.*
 
-    Giết một người thì gọi là bất nghĩa, ắt phải chịu một tội chết. Theo lẽ ấy mà suy, giết mười người là bất nghĩa gấp mười, ắt chịu mười tội chết; giết trăm người là bất nghĩa gấp trăm, ắt chịu trăm tội chết. Những việc ấy, người quân tử trong thiên hạ đều biết mà chê, gọi là bất nghĩa. Nay đến việc bất nghĩa lớn nhất là đánh nước người, thì lại không biết chê, còn theo đó mà khen, gọi là nghĩa. *(bản dịch của Logos Zero)*
+    Giết một người thì gọi là bất nghĩa, ắt phải chịu một tội chết. Theo lẽ ấy mà suy, giết mười người là bất nghĩa gấp mười, ắt chịu mười tội chết; giết trăm người là bất nghĩa gấp trăm, ắt chịu trăm tội chết. Những việc ấy, người quân tử trong thiên hạ đều biết mà chê, gọi là bất nghĩa. Nay đến việc bất nghĩa lớn nhất là đánh nước người, thì lại không biết chê, còn theo đó mà khen, gọi là nghĩa. *(bản dịch của Logos)*
 
 Lập luận dựa vào sự **nhất quán**: cùng một loại hành vi, hại càng nhiều càng bất nghĩa. Kẻ khen chiến tranh giống người "thấy ít đen thì bảo đen, thấy nhiều đen lại bảo trắng" (少見黑曰黑，多見黑曰白). Thiên Công Thâu (thuộc nhóm thiên đối thoại mà theo Fraser có lẽ ít nhiều hư cấu) kể Mặc Tử đi mười ngày mười đêm tới kinh đô nước Sở, thuyết phục người thợ Công Thâu Bàn và vua Sở bỏ ý định đánh nước Tống nhỏ bé, bằng đúng lý lẽ ấy: giữ nghĩa không giết một người mà lại giết nhiều người thì "không thể gọi là biết suy theo loại" (不可謂知類).
 
@@ -68,12 +68,12 @@ Lập luận dựa vào sự **nhất quán**: cùng một loại hành vi, hạ
 
 ### 4. Ý trời như cái compa (Thiên chí thượng, thiên 26)
 
-!!! quote "Mặc Tử, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Mặc Tử, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos"
     順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。……我有天志，譬若輪人之有規，匠人之有矩。
 
     *Thuận thiên ý giả, kiêm tương ái, giao tương lợi, tất đắc thưởng. Phản thiên ý giả, biệt tương ố, giao tương tặc, tất đắc phạt. … Ngã hữu thiên chí, thí nhược luân nhân chi hữu quy, tượng nhân chi hữu củ.*
 
-    Thuận ý trời thì cùng thương nhau, làm lợi cho nhau, ắt được thưởng. Trái ý trời thì tách nhau ra mà ghét bỏ, làm hại nhau, ắt bị phạt. … Ta có ý trời, ví như người thợ đóng bánh xe có cái compa, người thợ mộc có cái thước vuông. *(bản dịch của Logos Zero)*
+    Thuận ý trời thì cùng thương nhau, làm lợi cho nhau, ắt được thưởng. Trái ý trời thì tách nhau ra mà ghét bỏ, làm hại nhau, ắt bị phạt. … Ta có ý trời, ví như người thợ đóng bánh xe có cái compa, người thợ mộc có cái thước vuông. *(bản dịch của Logos)*
 
 Mỗi phe đều viện cớ riêng; Mặc Tử cần một thước đo đứng trên mọi phe, dễ dùng như dụng cụ của người thợ. Trời được chọn vì trời quan tâm và làm lợi cho mọi người không phân biệt. Ý trời, vậy, là một **pháp** (法, khuôn mẫu, chuẩn đo) để đem lời nói, việc làm, luật lệ ra đo.
 

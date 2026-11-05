@@ -103,7 +103,7 @@ Boethius — triết gia La Mã viết *An ủi của Triết học* (*De Consol
 
 Chúa không "biết trước" theo nghĩa thời gian như ta tưởng. Chúa ở *ngoài* thời gian, trong một hiện tại vĩnh cửu — thấy quá khứ, hiện tại và tương lai "cùng một lúc", giống như ta thấy một người đang ngồi trước mặt mình. Mà *thấy* ai đó đang ngồi không *ép* người đó phải ngồi. Tri thức không phải là nguyên nhân. Vì vậy, Chúa "thấy" bạn làm X không lấy mất tự do của bạn, cũng như việc tôi thấy bạn đang đọc bài này không ép bạn phải đọc.
 
-Boethius còn đưa ra một định nghĩa nổi tiếng về vĩnh cửu, nguyên văn Latin: *"Aeternitas igitur est interminabilis vitae tota simul et perfecta possessio"* — "Vĩnh cửu là sự chiếm hữu trọn vẹn, đồng thời và hoàn hảo một đời sống vô hạn." *(lược dịch của Logos Zero)*
+Boethius còn đưa ra một định nghĩa nổi tiếng về vĩnh cửu, nguyên văn Latin: *"Aeternitas igitur est interminabilis vitae tota simul et perfecta possessio"* — "Vĩnh cửu là sự chiếm hữu trọn vẹn, đồng thời và hoàn hảo một đời sống vô hạn." *(lược dịch của Logos)*
 
 **Lập luận mạnh nhất.** Boethius phân biệt *biết* với *gây ra* — một phân biệt mà ta dùng hằng ngày nhưng hay quên khi nói về Thượng đế. Ông cũng phân biệt hai loại tất yếu: "bạn đang ngồi thì bạn đang ngồi" là tất yếu có điều kiện (hiển nhiên, vô hại); còn "bạn *phải* ngồi dù thế nào" mới là tất yếu tuyệt đối (điều đáng sợ). Biết trước chỉ cho ta loại thứ nhất.
 
@@ -170,7 +170,7 @@ Dưới đây là lập luận của Boethius về biết trước và tự do, 
 !!! quote "Boethius, *An ủi của Triết học*, Quyển V (khoảng 524; bản dịch tiếng Anh của H. R. James, 1897)"
     Boethius đặt vấn đề: nếu Thượng đế thấy trước mọi sự và không thể lầm, thì mọi sự ắt phải xảy ra đúng như Người thấy — vậy con người còn tự do gì? Bà Triết học (nhân vật đối thoại với ông) đáp: sai lầm nằm ở chữ "thấy trước". Thượng đế không sống trong thời gian như ta; Người sống trong một hiện tại vĩnh cửu, nơi quá khứ, hiện tại và tương lai đều "đang diễn ra". Vì vậy Người không *tiên đoán* hành động của bạn — Người *chứng kiến* nó, như bạn chứng kiến một người đang ngồi trước mặt. Mà chứng kiến không phải là ép buộc.
 
-    Định nghĩa nổi tiếng của Boethius về vĩnh cửu, nguyên văn Latin: *"Aeternitas igitur est interminabilis vitae tota simul et perfecta possessio"* — "Vĩnh cửu là sự chiếm hữu trọn vẹn, đồng thời và hoàn hảo một đời sống vô hạn." *(lược dịch của Logos Zero)*
+    Định nghĩa nổi tiếng của Boethius về vĩnh cửu, nguyên văn Latin: *"Aeternitas igitur est interminabilis vitae tota simul et perfecta possessio"* — "Vĩnh cửu là sự chiếm hữu trọn vẹn, đồng thời và hoàn hảo một đời sống vô hạn." *(lược dịch của Logos)*
 
     Toàn văn bản dịch: Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <http://www.gutenberg.org/ebooks/14328>
 

@@ -57,7 +57,7 @@ Các nhà thực chứng logic như Carnap dựa vào phân biệt giữa câu *
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Ngôn từ có định hình tư duy? Ngôn ngữ và tri thức](../cau-hoi/ngon-ngu.md)
 - [Thế kỷ 20: triết học chia hai ngả](../lich-su/the-ky-20.md)

@@ -57,7 +57,7 @@ Lập luận trong mục “How Liberty Upsets Patterns” của *Anarchy, State
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Công lý là gì? Rawls và bức màn vô tri](../cau-hoi/cong-ly.md)
 - [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md)

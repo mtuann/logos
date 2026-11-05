@@ -34,7 +34,7 @@ Hume chia mọi đối tượng của lý trí làm hai loại: *quan hệ giữ
 !!! quote "Hume, *An Enquiry concerning Human Understanding* (1748), EHU 4.2 và 4.4 — bản Selby-Bigge (1902)"
     "*That the sun will not rise to-morrow* is no less intelligible a proposition, and implies no more contradiction than the affirmation, *that it will rise*. […] All reasonings concerning matter of fact seem to be founded on the relation of *Cause and Effect*. By means of that relation alone we can go beyond the evidence of our memory and senses."
 
-    "*Ngày mai mặt trời sẽ không mọc* là một mệnh đề dễ hiểu không kém, và cũng không mâu thuẫn hơn, so với khẳng định *mặt trời sẽ mọc*. […] Mọi suy luận về sự việc thực tế dường như đều dựa trên quan hệ *nguyên nhân và kết quả*. Chỉ nhờ quan hệ ấy, ta mới đi được ra ngoài bằng chứng của trí nhớ và giác quan." *(bản dịch của Logos Zero)*
+    "*Ngày mai mặt trời sẽ không mọc* là một mệnh đề dễ hiểu không kém, và cũng không mâu thuẫn hơn, so với khẳng định *mặt trời sẽ mọc*. […] Mọi suy luận về sự việc thực tế dường như đều dựa trên quan hệ *nguyên nhân và kết quả*. Chỉ nhờ quan hệ ấy, ta mới đi được ra ngoài bằng chứng của trí nhớ và giác quan." *(bản dịch của Logos)*
 
 Nhân quả là cây cầu duy nhất từ điều đang thấy sang điều không thấy: thấy một chiếc đồng hồ trên đảo hoang, ta biết từng có người ở đó (EHU 4.4). Nếu cây cầu này không có móng, gần như mọi tri thức về thế giới đều treo lơ lửng.
 
@@ -47,7 +47,7 @@ Bánh mì hôm qua nuôi tôi; có suy ra được bánh mì hôm nay cũng sẽ
 !!! quote "Hume, *An Enquiry concerning Human Understanding* (1748), EHU 4.21 — bản Selby-Bigge (1902)"
     "For all inferences from experience suppose, as their foundation, that the future will resemble the past […]. It is impossible, therefore, that any arguments from experience can prove this resemblance of the past to the future; since all these arguments are founded on the supposition of that resemblance."
 
-    "Bởi mọi suy luận từ kinh nghiệm đều lấy làm nền móng giả định rằng tương lai sẽ giống quá khứ […]. Vậy không lập luận nào từ kinh nghiệm chứng minh được rằng tương lai giống quá khứ, vì mọi lập luận như thế đều dựa trên chính giả định ấy." *(bản dịch của Logos Zero)*
+    "Bởi mọi suy luận từ kinh nghiệm đều lấy làm nền móng giả định rằng tương lai sẽ giống quá khứ […]. Vậy không lập luận nào từ kinh nghiệm chứng minh được rằng tương lai giống quá khứ, vì mọi lập luận như thế đều dựa trên chính giả định ấy." *(bản dịch của Logos)*
 
 Đây là một thế lưỡng nan. Suy diễn không giúp được: nghĩ rằng một thứ rơi từ mây xuống giống hệt tuyết mà lại mặn như muối không hề mâu thuẫn (EHU 4.18). Kinh nghiệm cũng không, vì đi vòng tròn. Mà đứa trẻ bị đau vì chạm ngọn nến cũng biết tránh nến, nên nếu có "lập luận" nào đứng sau, nó không thể cao siêu tới mức không ai tìm ra (EHU 4.23). Đời sau gọi đây là **vấn đề quy nạp** (*problem of induction*), dù Hume không dùng tên ấy.
 
@@ -60,7 +60,7 @@ Hume không kết luận "vậy đừng tin gì cả". Thấy lửa và nóng đ
 !!! quote "Hume, *An Enquiry concerning Human Understanding* (1748), EHU 5.6 — bản Selby-Bigge (1902)"
     "Custom, then, is the great guide of human life. It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past."
 
-    "Vậy thì thói quen là người dẫn đường vĩ đại của đời người. Chỉ nhờ nguyên lý ấy mà kinh nghiệm mới có ích cho ta, và khiến ta trông đợi ở tương lai một chuỗi sự kiện giống như những gì đã xuất hiện trong quá khứ." *(bản dịch của Logos Zero)*
+    "Vậy thì thói quen là người dẫn đường vĩ đại của đời người. Chỉ nhờ nguyên lý ấy mà kinh nghiệm mới có ích cho ta, và khiến ta trông đợi ở tương lai một chuỗi sự kiện giống như những gì đã xuất hiện trong quá khứ." *(bản dịch của Logos)*
 
 Thói quen là một bản năng: tự nhiên không giao một việc sống còn như thế cho lý trí vốn chậm chạp và hay sai (EHU 5.22). Vì là bản năng, ta không bỏ được nó.
 
@@ -71,7 +71,7 @@ Thói quen là một bản năng: tự nhiên không giao một việc sống c�
 !!! quote "Hume, *An Enquiry concerning Human Understanding* (1748), EHU 7.6 và 7.28 — bản Selby-Bigge (1902)"
     "We only find, that the one does actually, in fact, follow the other. The impulse of one billiard-ball is attended with motion in the second. […] This connexion, therefore, which we *feel* in the mind, this customary transition of the imagination from one object to its usual attendant, is the sentiment or impression from which we form the idea of power or necessary connexion."
 
-    "Ta chỉ thấy rằng trên thực tế cái này quả có theo sau cái kia. Cú va của quả bi-a thứ nhất đi kèm chuyển động của quả thứ hai. […] Vậy mối liên hệ mà ta *cảm thấy* trong tâm trí, sự chuyển tiếp theo thói quen của trí tưởng tượng từ một sự vật sang cái thường đi kèm nó, chính là cảm nhận hay ấn tượng mà từ đó ta tạo nên ý niệm về sức mạnh hay mối liên hệ tất yếu." *(bản dịch của Logos Zero)*
+    "Ta chỉ thấy rằng trên thực tế cái này quả có theo sau cái kia. Cú va của quả bi-a thứ nhất đi kèm chuyển động của quả thứ hai. […] Vậy mối liên hệ mà ta *cảm thấy* trong tâm trí, sự chuyển tiếp theo thói quen của trí tưởng tượng từ một sự vật sang cái thường đi kèm nó, chính là cảm nhận hay ấn tượng mà từ đó ta tạo nên ý niệm về sức mạnh hay mối liên hệ tất yếu." *(bản dịch của Logos)*
 
 Các sự việc "có vẻ *đi liền nhau*, nhưng không bao giờ *nối với nhau*" (EHU 7.26). Ý niệm "tất yếu" vẫn có thật, nhưng nó sao chép một ấn tượng *bên trong* ta, không phải thứ gì nằm giữa hai quả bi-a. Định nghĩa nguyên nhân của Hume (EHU 7.29) còn có vế "nếu sự vật thứ nhất không có thì sự vật thứ hai đã không bao giờ tồn tại", mầm của lý thuyết nhân quả **phản thực** (*counterfactual*) mà David Lewis phát triển năm 1973.
 

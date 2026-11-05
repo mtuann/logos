@@ -1,4 +1,4 @@
-"""Sinh hình minh họa SVG cho Logos Zero.
+"""Sinh hình minh họa SVG cho Logos.
 
 Cách dùng trong bài viết — đặt cặp dấu ở chỗ muốn hiện hình:
 

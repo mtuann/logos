@@ -75,7 +75,7 @@ Có một sự giằng co cần để ý. Giả định yếu nhất về mặt 
 
 ## Ví dụ 1: một đoạn bình luận báo chí {#vi-du-1-mot-doan-binh-luan-bao-chi}
 
-Đoạn văn sau do Logos Zero tự viết, theo kiểu một bài bình luận thường gặp:
+Đoạn văn sau do Logos tự viết, theo kiểu một bài bình luận thường gặp:
 
 > "Đề xuất cấm học sinh dùng điện thoại trong trường học đang gây nhiều tranh cãi. Nhưng hãy nhìn vào thực tế. Nhiều nước phát triển đã áp dụng lệnh cấm này. Học sinh bây giờ cắm mặt vào màn hình hàng giờ mỗi ngày, phụ huynh nào cũng than phiền. Điện thoại khiến các em mất tập trung trong giờ học, đó là điều không ai chối cãi. Vì vậy, đã đến lúc phải cấm điện thoại trong mọi trường học trên cả nước."
 
@@ -119,7 +119,7 @@ Lưu ý: tái dựng xong, ta *không* kết luận rằng không nên cấm. Ta
 
 ## Ví dụ 2: một bình luận trên mạng xã hội {#vi-du-2-mot-binh-luan-tren-mang-xa-hoi}
 
-Bình luận sau cũng do Logos Zero tự viết:
+Bình luận sau cũng do Logos tự viết:
 
 > "Mấy ông cứ bảo AI sắp thay lập trình viên, buồn cười thật. Tuần trước tôi nhờ nó viết một hàm đơn giản mà sai be bét. Cái thứ không viết nổi một hàm đơn giản thì thay được ai? Các bạn trẻ cứ yên tâm đi học lập trình nhé, an toàn chán."
 

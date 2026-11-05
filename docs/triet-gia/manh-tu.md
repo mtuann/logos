@@ -47,7 +47,7 @@ Vua Tuyên nước Tề thấy người ta dắt một con trâu đi giết lấ
 !!! quote "Mạnh Tử, *Mạnh Tử* 3B2 (thiên Đằng Văn công hạ), lời đáp Cảnh Xuân về các thuyết khách — nguyên văn chữ Hán và phiên âm Hán Việt"
     "得志與民由之，不得志獨行其道。富貴不能淫，貧賤不能移，威武不能屈。此之謂大丈夫。 — Đắc chí dữ dân do chi, bất đắc chí độc hành kỳ đạo. Phú quý bất năng dâm, bần tiện bất năng di, uy vũ bất năng khuất. Thử chi vị đại trượng phu."
 
-    "Đắc chí thì cùng dân đi theo đạo, không đắc chí thì một mình giữ đạo của mình. Giàu sang không làm cho hư hỏng, nghèo hèn không làm cho đổi lòng, uy vũ không khuất phục được. Như thế mới gọi là bậc đại trượng phu." *(bản dịch của Logos Zero)*
+    "Đắc chí thì cùng dân đi theo đạo, không đắc chí thì một mình giữ đạo của mình. Giàu sang không làm cho hư hỏng, nghèo hèn không làm cho đổi lòng, uy vũ không khuất phục được. Như thế mới gọi là bậc đại trượng phu." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Vua Tuyên nước Tề thấy người ta dắt một con trâu đi giết lấ
 
 **Ảnh hưởng tới:** [Tuân Tử](tuan-tu.md), [Chu Hy](chu-hy.md), [Nguyễn Trãi](nguyen-trai.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

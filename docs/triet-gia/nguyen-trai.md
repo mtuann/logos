@@ -50,7 +50,7 @@ Phần mở đầu *Bình Ngô đại cáo* không kể chiến công mà nêu m
 !!! quote "Nguyễn Trãi, lời tâu khi dâng bản vẽ khánh đá (1437), chép trong *Đại Việt sử ký toàn thư*, Bản kỷ quyển 11 — nguyên văn chữ Hán và phiên âm Hán Việt"
     "和平為樂之本，聲音為樂之文。……願陛下愛養元元，使閭里無怨恨愁嘆之聲，斯為不失樂之本矣。 (Hòa bình vi nhạc chi bản, thanh âm vi nhạc chi văn. … Nguyện bệ hạ ái dưỡng nguyên nguyên, sử lư lý vô oán hận sầu thán chi thanh, tư vi bất thất nhạc chi bản hĩ.)"
 
-    "Hòa bình là gốc của nhạc, âm thanh chỉ là phần văn vẻ của nhạc. … Mong bệ hạ thương yêu nuôi dưỡng muôn dân, khiến nơi xóm làng không còn tiếng oán hận sầu than; như thế mới là không đánh mất cái gốc của nhạc." *(bản dịch của Logos Zero)*
+    "Hòa bình là gốc của nhạc, âm thanh chỉ là phần văn vẻ của nhạc. … Mong bệ hạ thương yêu nuôi dưỡng muôn dân, khiến nơi xóm làng không còn tiếng oán hận sầu than; như thế mới là không đánh mất cái gốc của nhạc." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Phần mở đầu *Bình Ngô đại cáo* không kể chiến công mà nêu m
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Bình Ngô đại cáo của Nguyễn Trãi](../doc/nguyen-trai-binh-ngo.md)
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)

@@ -1,4 +1,4 @@
-/* Logos Zero — "Câu hỏi hôm nay" trên trang chủ.
+/* Logos — "Câu hỏi hôm nay" trên trang chủ.
  * <div class="oz-daily"> chứa một danh sách <li>; mỗi ngày làm nổi bật một mục.
  * Không có JavaScript thì người đọc vẫn thấy cả danh sách. */
 (function (root, factory) {

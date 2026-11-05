@@ -50,7 +50,7 @@ Thiên “Tính ác” mở đầu bằng một luận đề như đáp thẳng 
 !!! quote "Tuân Tử, *Tuân Tử*, thiên 1 “Khuyến học” (勸學), đoạn mở đầu — nguyên văn chữ Hán và phiên âm Hán Việt"
     "君子曰：學不可以已。青、取之於藍，而青於藍；冰、水為之，而寒於水。 — Quân tử viết: Học bất khả dĩ dĩ. Thanh, thủ chi ư lam, nhi thanh ư lam; băng, thủy vi chi, nhi hàn ư thủy."
 
-    "Người quân tử nói: việc học không thể dừng. Màu xanh lấy từ cây chàm mà xanh hơn chàm; băng do nước làm thành mà lạnh hơn nước." *(bản dịch của Logos Zero)*
+    "Người quân tử nói: việc học không thể dừng. Màu xanh lấy từ cây chàm mà xanh hơn chàm; băng do nước làm thành mà lạnh hơn nước." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Thiên “Tính ác” mở đầu bằng một luận đề như đáp thẳng 
 
 **Ảnh hưởng tới:** [Hàn Phi](han-phi.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)
 - [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md)

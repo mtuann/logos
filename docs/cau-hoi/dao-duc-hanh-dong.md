@@ -143,7 +143,7 @@ Như mọi khảo sát, số đông không quyết định chân lý. Nhưng b�
 !!! quote "John Stuart Mill, *Utilitarianism*, chương 2, 1863"
     "Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure."
 
-    "Hành động đúng tương xứng với mức độ chúng có xu hướng tạo ra hạnh phúc, sai tương xứng với mức độ chúng tạo ra điều ngược lại với hạnh phúc. Hạnh phúc ở đây được hiểu là niềm vui và sự vắng mặt của đau khổ; bất hạnh là đau khổ và sự thiếu vắng niềm vui." *(bản dịch của Logos Zero)*
+    "Hành động đúng tương xứng với mức độ chúng có xu hướng tạo ra hạnh phúc, sai tương xứng với mức độ chúng tạo ra điều ngược lại với hạnh phúc. Hạnh phúc ở đây được hiểu là niềm vui và sự vắng mặt của đau khổ; bất hạnh là đau khổ và sự thiếu vắng niềm vui." *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

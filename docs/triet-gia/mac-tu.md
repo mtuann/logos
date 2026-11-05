@@ -48,7 +48,7 @@ Người phản đối nói: kiêm ái hay thì hay thật, nhưng dùng đượ
 !!! quote "*Mặc Tử*, thiên 15 “Kiêm ái trung” (兼愛中) — nguyên văn chữ Hán và phiên âm Hán Việt"
     "視人之國若視其國，視人之家若視其家，視人之身若視其身。 — Thị nhân chi quốc nhược thị kỳ quốc, thị nhân chi gia nhược thị kỳ gia, thị nhân chi thân nhược thị kỳ thân."
 
-    "Coi nước của người như nước của mình, coi nhà của người như nhà của mình, coi thân của người như thân của mình." *(bản dịch của Logos Zero)*
+    "Coi nước của người như nước của mình, coi nhà của người như nhà của mình, coi thân của người như thân của mình." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Người phản đối nói: kiêm ái hay thì hay thật, nhưng dùng đượ
 
 **Ảnh hưởng tới:** [Mạnh Tử](manh-tu.md), [Tuân Tử](tuan-tu.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Mặc Tử: kiêm ái](../doc/mac-tu-kiem-ai.md)
 - [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md)

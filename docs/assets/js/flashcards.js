@@ -1,4 +1,4 @@
-/* Logos Zero — thẻ ghi nhớ thuật ngữ, ôn tập ngắt quãng kiểu Leitner (5 hộp).
+/* Logos — thẻ ghi nhớ thuật ngữ, ôn tập ngắt quãng kiểu Leitner (5 hộp).
  * <div class="oz-flashcards" data-new="5" data-max="20"></div>  Dữ liệu: assets/data/terms.json */
 (function (root, factory) {
   var api = factory();

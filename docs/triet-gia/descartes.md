@@ -49,7 +49,7 @@ Tâm trí có phải chỉ là một phần của thân thể? Ở *Suy niệm* 
 !!! quote "René Descartes, *Luận về phương pháp* (1637), phần IV — bản dịch tiếng Anh của John Veitch"
     "But immediately upon this I observed that, whilst I thus wished to think that all was false, it was absolutely necessary that I, who thus thought, should be somewhat; and as I observed that this truth, I think, therefore I am (COGITO ERGO SUM), was so certain and of such evidence that no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it […]"
 
-    "Nhưng ngay sau đó tôi nhận ra rằng, trong khi tôi muốn nghĩ như thế rằng mọi thứ đều sai, thì chính tôi, kẻ đang nghĩ như thế, nhất thiết phải là một cái gì đó; và thấy rằng chân lý này, tôi tư duy, vậy tôi tồn tại, chắc chắn và hiển nhiên đến mức mọi lý do nghi ngờ của những người hoài nghi, dù ngông cuồng đến đâu, cũng không lay chuyển được […]" *(bản dịch của Logos Zero)*
+    "Nhưng ngay sau đó tôi nhận ra rằng, trong khi tôi muốn nghĩ như thế rằng mọi thứ đều sai, thì chính tôi, kẻ đang nghĩ như thế, nhất thiết phải là một cái gì đó; và thấy rằng chân lý này, tôi tư duy, vậy tôi tồn tại, chắc chắn và hiển nhiên đến mức mọi lý do nghi ngờ của những người hoài nghi, dù ngông cuồng đến đâu, cũng không lay chuyển được […]" *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Tâm trí có phải chỉ là một phần của thân thể? Ở *Suy niệm* 
 
 **Ảnh hưởng tới:** [John Locke](locke.md), [Spinoza](spinoza.md), [Leibniz](leibniz.md), [David Hume](hume.md), [Husserl](husserl.md), [Sartre](sartre.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Đọc “Suy niệm” I–II của Descartes](../doc/descartes-suy-niem.md)
 - [Thân xác và tâm trí: vấn đề lâu đời nhất của triết học](../cau-hoi/van-de-tam-tri.md)

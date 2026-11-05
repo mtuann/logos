@@ -156,7 +156,7 @@ Một điểm đáng chú ý: cả hai phe đều đồng ý rằng *nỗi sợ 
 !!! quote "Epicurus, *Những châm ngôn chủ yếu*, câu 2 (bản dịch tiếng Anh của C. D. Yonge, 1853)"
     "Death is nothing to us; for that which is dissolved is devoid of sensation, and that which is devoid of sensation is nothing to us."
 
-    "Cái chết không là gì với ta; vì cái gì đã tan rã thì không còn cảm giác, và cái gì không còn cảm giác thì không là gì với ta." *(bản dịch của Logos Zero)*
+    "Cái chết không là gì với ta; vì cái gì đã tan rã thì không còn cảm giác, và cái gì không còn cảm giác thì không là gì với ta." *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

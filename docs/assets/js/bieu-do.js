@@ -1,4 +1,4 @@
-/* Logos Zero — biểu đồ tiến độ.
+/* Logos — biểu đồ tiến độ.
  * <div class="oz-bieu-do"></div>
  * Vẽ SVG thuần (không thư viện ngoài): cột ngang theo từng kỹ năng (EMA + số câu)
  * và cột đứng cho 14 ngày hoạt động gần nhất. Màu dùng currentColor để hợp sáng/tối.

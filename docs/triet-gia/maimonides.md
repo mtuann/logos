@@ -48,7 +48,7 @@ Trong phần I của *Chỉ dẫn*, Maimonides lập luận rằng mọi thuộc
 !!! quote "Maimonides, *Chỉ dẫn cho người hoang mang*, phần I, chương 60 — bản dịch tiếng Anh của M. Friedländer (1904)"
     "In the same manner you will come nearer to the knowledge and comprehension of God by the negative attributes. But you must be careful, in what you negative, to negative by proof, not by mere words, for each time you ascertain by proof that a certain thing, believed to exist in the Creator, must be negatived, you have undoubtedly come one step nearer to the knowledge of God."
 
-    "Cũng vậy, bạn sẽ đến gần hơn sự hiểu biết và lĩnh hội về Thượng đế nhờ những thuộc tính phủ định. Nhưng phải cẩn thận: điều gì bạn phủ định thì phủ định bằng chứng minh, không chỉ bằng lời; vì mỗi lần bạn xác lập được bằng chứng minh rằng một điều người ta tưởng có nơi Đấng Tạo hóa phải bị phủ định, chắc chắn bạn đã tiến thêm một bước tới sự hiểu biết về Thượng đế." *(bản dịch của Logos Zero)*
+    "Cũng vậy, bạn sẽ đến gần hơn sự hiểu biết và lĩnh hội về Thượng đế nhờ những thuộc tính phủ định. Nhưng phải cẩn thận: điều gì bạn phủ định thì phủ định bằng chứng minh, không chỉ bằng lời; vì mỗi lần bạn xác lập được bằng chứng minh rằng một điều người ta tưởng có nơi Đấng Tạo hóa phải bị phủ định, chắc chắn bạn đã tiến thêm một bước tới sự hiểu biết về Thượng đế." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Trong phần I của *Chỉ dẫn*, Maimonides lập luận rằng mọi thuộc
 
 **Ảnh hưởng tới:** [Thomas Aquinas](aquinas.md), [Spinoza](spinoza.md), [Leibniz](leibniz.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)
 

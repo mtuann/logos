@@ -57,7 +57,7 @@ Bài học bà rút ra từ phiên xử Eichmann (*Eichmann in Jerusalem*, 1963;
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Cái ác là gì?](../cau-hoi/cai-ac.md)
 - [Từ điển thuật ngữ](../them/tu-dien.md)

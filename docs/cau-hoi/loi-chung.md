@@ -127,7 +127,7 @@ Dưới đây là đoạn then chốt trong mục X ("Of Miracles") của Hume �
 
     Không lời chứng nào đủ để xác lập một phép lạ, trừ khi lời chứng ấy thuộc loại mà sự sai lầm của nó còn kỳ lạ hơn cả sự việc mà nó muốn xác lập.
 
-    Đoạn tiếp theo, Hume minh họa (lược dịch): khi nghe ai kể thấy người chết sống lại, ta tự hỏi điều nào có khả năng hơn — người này đang lừa dối hay bị lừa, hay sự việc thực sự đã xảy ra; ta cân hai "phép lạ" với nhau và luôn loại bỏ phép lạ lớn hơn. *(bản dịch của Logos Zero)*
+    Đoạn tiếp theo, Hume minh họa (lược dịch): khi nghe ai kể thấy người chết sống lại, ta tự hỏi điều nào có khả năng hơn — người này đang lừa dối hay bị lừa, hay sự việc thực sự đã xảy ra; ta cân hai "phép lạ" với nhau và luôn loại bỏ phép lạ lớn hơn. *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

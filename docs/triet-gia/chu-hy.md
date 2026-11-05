@@ -47,7 +47,7 @@ Sách *Đại học* nói mở mang hiểu biết là ở chỗ “cách vật�
 !!! quote "Chu Hy, *Chu Tử ngữ loại* (朱子語類), quyển 94, lời đáp học trò về Thái cực — nguyên văn chữ Hán và phiên âm Hán Việt"
     "本只是一太極，而萬物各有稟受，又自各全具一太極爾。如月在天，只一而已；及散在江湖，則隨處而見，不可謂月已分也。 — Bản chỉ thị nhất Thái cực, nhi vạn vật các hữu bẩm thụ, hựu tự các toàn cụ nhất Thái cực nhĩ. Như nguyệt tại thiên, chỉ nhất nhi dĩ; cập tán tại giang hồ, tắc tùy xứ nhi kiến, bất khả vị nguyệt dĩ phân dã."
 
-    "Vốn chỉ có một Thái cực, nhưng muôn vật mỗi vật đều bẩm thụ, lại mỗi vật tự có đủ trọn một Thái cực. Như mặt trăng trên trời chỉ có một mà thôi; khi rải xuống sông hồ thì chỗ nào cũng thấy, không thể nói rằng mặt trăng đã bị chia ra." *(bản dịch của Logos Zero)*
+    "Vốn chỉ có một Thái cực, nhưng muôn vật mỗi vật đều bẩm thụ, lại mỗi vật tự có đủ trọn một Thái cực. Như mặt trăng trên trời chỉ có một mà thôi; khi rải xuống sông hồ thì chỗ nào cũng thấy, không thể nói rằng mặt trăng đã bị chia ra." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Sách *Đại học* nói mở mang hiểu biết là ở chỗ “cách vật�
 
 **Ảnh hưởng tới:** [Chu Văn An](chu-van-an.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)
 - [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)

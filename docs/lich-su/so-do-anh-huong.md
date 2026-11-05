@@ -6,7 +6,7 @@ updated: 2026-10-22
 
 # Sơ đồ ảnh hưởng
 
-Triết học không phải một dãy tên rời rạc. Mỗi triết gia đều đứng trên vai — hoặc đạp lên vai — người đi trước: Platon viết tiếp Socrates, Kant thức tỉnh nhờ Hume, Sartre vay mượn cả Husserl lẫn Marx. Sơ đồ dưới đây vẽ các mối ảnh hưởng đã ghi trong [dữ liệu triết gia](../assets/data/philosophers.json) của Logos Zero.
+Triết học không phải một dãy tên rời rạc. Mỗi triết gia đều đứng trên vai — hoặc đạp lên vai — người đi trước: Platon viết tiếp Socrates, Kant thức tỉnh nhờ Hume, Sartre vay mượn cả Husserl lẫn Marx. Sơ đồ dưới đây vẽ các mối ảnh hưởng đã ghi trong [dữ liệu triết gia](../assets/data/philosophers.json) của Logos.
 
 Cách đọc: mũi tên đi **từ người ảnh hưởng tới người chịu ảnh hưởng**, xếp theo dòng thời gian từ trái sang phải. Di chuột (hoặc chạm) vào một tên để xem tóm tắt.
 

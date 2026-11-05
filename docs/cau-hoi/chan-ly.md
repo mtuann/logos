@@ -46,7 +46,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ## Các lập trường chính {#cac-lap-truong-chinh}
 
-Các trích dẫn trong phần này do Logos Zero dịch từ bản tiếng Anh.
+Các trích dẫn trong phần này do Logos dịch từ bản tiếng Anh.
 
 ### 1. Thuyết tương ứng: đúng là khớp với thực tại
 
@@ -136,7 +136,7 @@ Khảo sát diễn ra cuối năm 2020, trước khi chatbot AI phổ biến. V�
 !!! quote "Bertrand Russell, *The Problems of Philosophy* (1912), chương XII — nguyên văn tiếng Anh"
     "It will be seen that minds do not *create* truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains. What makes a belief true is a *fact*, and this fact does not (except in exceptional cases) in any way involve the mind of the person who has the belief."
 
-    Ta sẽ thấy rằng tâm trí không *tạo ra* cái đúng hay cái sai. Nó tạo ra niềm tin; nhưng một khi niềm tin đã được tạo ra, tâm trí không thể làm cho chúng đúng hay sai, trừ trường hợp đặc biệt khi chúng nói về những việc tương lai nằm trong tầm tay của chính người tin, như chuyện kịp chuyến tàu. Cái làm cho một niềm tin đúng là một *sự kiện*, và sự kiện ấy (trừ những trường hợp ngoại lệ) không hề dính dáng gì đến tâm trí của người có niềm tin. *(bản dịch của Logos Zero)*
+    Ta sẽ thấy rằng tâm trí không *tạo ra* cái đúng hay cái sai. Nó tạo ra niềm tin; nhưng một khi niềm tin đã được tạo ra, tâm trí không thể làm cho chúng đúng hay sai, trừ trường hợp đặc biệt khi chúng nói về những việc tương lai nằm trong tầm tay của chính người tin, như chuyện kịp chuyến tàu. Cái làm cho một niềm tin đúng là một *sự kiện*, và sự kiện ấy (trừ những trường hợp ngoại lệ) không hề dính dáng gì đến tâm trí của người có niềm tin. *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

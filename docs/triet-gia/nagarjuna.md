@@ -49,7 +49,7 @@ SEP lưu ý Nagarjuna không có một “lập luận chủ chốt” duy nhấ
 !!! quote "Nagarjuna, *Trung luận* 24.14 — bản Hán dịch của Cưu-ma-la-thập (đầu thế kỷ 5), nguyên văn chữ Hán và phiên âm Hán Việt"
     "以有空義故，一切法得成；若無空義者，一切則不成。 (Dĩ hữu không nghĩa cố, nhất thiết pháp đắc thành; nhược vô không nghĩa giả, nhất thiết tắc bất thành.)"
 
-    "Vì có nghĩa lý của tính không, nên mọi pháp mới thành được; nếu không có nghĩa lý của tính không, thì chẳng gì thành được cả." *(bản dịch của Logos Zero)*
+    "Vì có nghĩa lý của tính không, nên mọi pháp mới thành được; nếu không có nghĩa lý của tính không, thì chẳng gì thành được cả." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ SEP lưu ý Nagarjuna không có một “lập luận chủ chốt” duy nhấ
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md)
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md)

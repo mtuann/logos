@@ -48,7 +48,7 @@ Trong *Thư gửi Menoeceus* (124–125), Epicurus muốn gỡ nỗi sợ lớn 
 !!! quote "Epicurus, *Thư gửi Menoeceus* 125, chép trong Diogenes Laërtius X — bản dịch tiếng Anh của R. D. Hicks (1925)"
     "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not."
 
-    "Vậy cái chết, điều đáng sợ nhất trong mọi điều xấu, chẳng là gì với ta, bởi khi ta còn thì cái chết chưa đến, và khi cái chết đến thì ta không còn." *(bản dịch của Logos Zero)*
+    "Vậy cái chết, điều đáng sợ nhất trong mọi điều xấu, chẳng là gì với ta, bởi khi ta còn thì cái chết chưa đến, và khi cái chết đến thì ta không còn." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Trong *Thư gửi Menoeceus* (124–125), Epicurus muốn gỡ nỗi sợ lớn 
 
 **Ảnh hưởng tới:** [Marcus Aurelius](marcus-aurelius.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)

@@ -7,7 +7,7 @@
 Khối trong trang: `title` = tiêu đề khối (trong ngoặc kép), `body` = phần thân, nguyên văn, đã bỏ thụt lề của khối
 (ghép ngược ra khối cho đúng từng chữ). Không tách nguyên văn và bản dịch bằng phỏng đoán. Trích dẫn của hồ sơ có sẵn
 trường riêng: `title` = source, `original` = orig, `translation` = vi, `url`.
-`translator: logos-zero` khi có chữ "(bản dịch của Logos Zero)"; còn lại `null`. `license: unknown` tới đợt 5.
+`translator: logos` khi có chữ "(bản dịch của Logos)" (trước đợt 5.0d: `logos-zero`); còn lại `null`. `license: unknown` tới đợt 5.
 Khóa `<tác giả>.<tác phẩm>` rút từ tiêu đề dạng "Tác giả, *Tác phẩm*, …" (thêm `-2`, `-3` khi trùng);
 không rút được thì `trich.<phần đầu tiêu đề>` (tiêu đề rỗng: `trang.<đường dẫn>.<số thứ tự>`) và vào danh sách lệch. `work` trỏ tới works.yml khi tên in nghiêng
 trùng một tên trong đó. Trường `locator`, `license`, `evidence`, `verified` được giữ khi rút lại.
@@ -33,7 +33,7 @@ KEEP = ("locator", "license", "evidence", "verified")
 BLOCK = re.compile(r'^(?P<indent>[ \t]*)(?:!!!|\?\?\?\+?)[ \t]+quote(?:[ \t]+"(?P<title>.*)")?[ \t]*$')
 FENCE = re.compile(r"^\s*(```|~~~)")
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
-LZ_TRANSLATION = "(bản dịch của Logos Zero)"
+LZ_TRANSLATION = "(bản dịch của Logos)"
 HEAD = ("# Kho trích dẫn. RÚT TỰ ĐỘNG bằng tools/kb_quotes.py từ khối !!! quote của Lõi viết tay và quote của hồ sơ;\n"
         "# chỉ locator, license, evidence, verified được sửa ở đây. Schema: schema/kb/quotes.schema.json. Lệch: verification/lech/quotes.md.\n")
 
@@ -102,7 +102,7 @@ def extract(root: Path = ROOT) -> tuple[dict, list[str]]:
                     same["used_in"].append(unit)
                 continue
             rec = {"work": work_of(title), "title": title, "body": body,
-                   "translator": "logos-zero" if LZ_TRANSLATION in body else None,
+                   "translator": "logos" if LZ_TRANSLATION in body else None,
                    "license": "unknown", "used_in": [unit]}
             base = base_key(title)
             if base is None:   # không theo mẫu: khóa theo phần đầu tiêu đề (trước " — "), ổn định hơn số thứ tự
@@ -144,7 +144,7 @@ def render_lech(recs: dict, unkeyed: list[str]) -> str:
     suffixed = [k for k in recs if re.search(r"-\d+$", k) and re.sub(r"-\d+$", "", k) in recs]
     L = ["# Danh sách lệch: trích dẫn", "",
          "Sinh bằng `python tools/kb_quotes.py`. Đầu vào cho đợt 5 (đợt con 5.2): không sửa trong đợt 2.", "",
-         f"- {len(recs)} khối trích dẫn; {sum(1 for r in recs.values() if r['translator'] == 'logos-zero')} có bản dịch của Logos Zero.",
+         f"- {len(recs)} khối trích dẫn; {sum(1 for r in recs.values() if r['translator'] == 'logos')} có bản dịch của Logos.",
          f"- {len(recs) - len(nowork)} ghép được với tác phẩm trong works.yml; {len(nowork)} chưa.", "",
          f"## Tiêu đề khối không theo mẫu \"Tác giả, *Tác phẩm*, vị trí\" ({len(unkeyed)})", ""]
     L += [f"- `{k}`: \"{recs[k]['title']}\" (`{recs[k]['used_in'][0]}`)" for k in unkeyed]

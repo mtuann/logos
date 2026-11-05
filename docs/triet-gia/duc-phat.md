@@ -50,7 +50,7 @@ Trong *Kinh Vô ngã tướng* (SN 22.59), Đức Phật lần lượt hỏi nă
 !!! quote "*Kinh Vô ngã tướng* (SN 22.59) — bản dịch tiếng Anh của Bhikkhu Sujato, SuttaCentral (CC0)"
     "Mendicants, form is not-self. For if form were self, it wouldn’t lead to affliction. And you could compel form: ‘May my form be like this! May it not be like that!’"
 
-    "Này các tỳ-kheo, sắc (thân) không phải là tự ngã. Vì nếu sắc là tự ngã, nó đã không dẫn tới bệnh khổ, và ta có thể ra lệnh cho nó: ‘Thân ta hãy như thế này! Đừng như thế kia!’" *(bản dịch của Logos Zero)*
+    "Này các tỳ-kheo, sắc (thân) không phải là tự ngã. Vì nếu sắc là tự ngã, nó đã không dẫn tới bệnh khổ, và ta có thể ra lệnh cho nó: ‘Thân ta hãy như thế này! Đừng như thế kia!’" *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Trong *Kinh Vô ngã tướng* (SN 22.59), Đức Phật lần lượt hỏi nă
 
 **Ảnh hưởng tới:** [Nagarjuna](nagarjuna.md), [Tuệ Trung Thượng Sĩ](tue-trung.md), [Trần Nhân Tông](tran-nhan-tong.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md)
 - [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)

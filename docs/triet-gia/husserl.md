@@ -49,7 +49,7 @@ Cuối thế kỷ 19, nhiều người cho rằng logic là một nhánh của t
 !!! quote "Edmund Husserl, *Logische Untersuchungen*, tập II (1901), Dẫn nhập, §2 — nguyên văn tiếng Đức bản in lần đầu (chính tả hiện đại hóa)"
     "Wir wollen uns schlechterdings nicht mit „bloßen Worten“, das ist mit einem bloß symbolischen Wortverständnis zufrieden geben. […] Wir wollen auf die „Sachen selbst“ zurückgehen."
 
-    "Chúng ta tuyệt đối không muốn bằng lòng với “chữ suông”, tức là với một cách hiểu từ ngữ chỉ thuần ký hiệu. […] Chúng ta muốn quay về với “chính các sự vật”." *(bản dịch của Logos Zero)*
+    "Chúng ta tuyệt đối không muốn bằng lòng với “chữ suông”, tức là với một cách hiểu từ ngữ chỉ thuần ký hiệu. […] Chúng ta muốn quay về với “chính các sự vật”." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Cuối thế kỷ 19, nhiều người cho rằng logic là một nhánh của t
 
 **Ảnh hưởng tới:** [Heidegger](heidegger.md), [Sartre](sartre.md), [Simone de Beauvoir](beauvoir.md), [Trần Đức Thảo](tran-duc-thao.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md)
 - [Thế kỷ 20: triết học chia hai ngả](../lich-su/the-ky-20.md)

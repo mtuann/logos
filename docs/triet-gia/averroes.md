@@ -57,7 +57,7 @@ Mở đầu *Bàn luận quyết định*, Ibn Rushd đặt câu hỏi như mộ
 
 **Ảnh hưởng tới:** [Thomas Aquinas](aquinas.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)
 

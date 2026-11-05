@@ -31,7 +31,7 @@ Nước Anh thời Victoria bề ngoài tự do, nhưng Mill lo một thứ chuy
 !!! quote "Mill, *On Liberty* (1859), chương II, đoạn 1 — nguyên văn, bản Project Gutenberg"
     "If all mankind minus one, were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind. […] But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it. If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth, produced by its collision with error."
 
-    "Nếu toàn thể loài người trừ một người cùng chung một ý kiến, và chỉ một người có ý kiến ngược lại, thì loài người cũng chẳng có quyền bịt miệng người ấy hơn gì người ấy, nếu có quyền lực, có quyền bịt miệng loài người. […] Nhưng cái hại riêng của việc bịt miệng một ý kiến là nó cướp đi của cả loài người: của hậu thế cũng như thế hệ hiện tại, của những người không đồng ý với ý kiến ấy còn hơn của những người theo nó. Nếu ý kiến ấy đúng, họ mất cơ hội đổi sai lấy đúng; nếu nó sai, họ mất một lợi ích gần lớn ngang thế: nhận thức rõ hơn và cảm nhận sống động hơn về chân lý, nảy ra khi chân lý va chạm với sai lầm." *(bản dịch của Logos Zero)*
+    "Nếu toàn thể loài người trừ một người cùng chung một ý kiến, và chỉ một người có ý kiến ngược lại, thì loài người cũng chẳng có quyền bịt miệng người ấy hơn gì người ấy, nếu có quyền lực, có quyền bịt miệng loài người. […] Nhưng cái hại riêng của việc bịt miệng một ý kiến là nó cướp đi của cả loài người: của hậu thế cũng như thế hệ hiện tại, của những người không đồng ý với ý kiến ấy còn hơn của những người theo nó. Nếu ý kiến ấy đúng, họ mất cơ hội đổi sai lấy đúng; nếu nó sai, họ mất một lợi ích gần lớn ngang thế: nhận thức rõ hơn và cảm nhận sống động hơn về chân lý, nảy ra khi chân lý va chạm với sai lầm." *(bản dịch của Logos)*
 
 Để ý cấu trúc: Mill không cần biết ý kiến bị cấm đúng hay sai. Ông xét *cả hai* khả năng, và chứng minh rằng khả năng nào cũng có người mất.
 
@@ -40,7 +40,7 @@ Nước Anh thời Victoria bề ngoài tự do, nhưng Mill lo một thứ chuy
 !!! quote "Mill, *On Liberty* (1859), chương II, đoạn 2, 3 và 6 — nguyên văn, bản Project Gutenberg"
     "We can never be sure that the opinion we are endeavouring to stifle is a false opinion; and if we were sure, stifling it would be an evil still. […] All silencing of discussion is an assumption of infallibility. […] There is the greatest difference between presuming an opinion to be true, because, with every opportunity for contesting it, it has not been refuted, and assuming its truth for the purpose of not permitting its refutation."
 
-    "Ta không bao giờ chắc được rằng ý kiến ta đang tìm cách dập tắt là một ý kiến sai; và dù có chắc, dập tắt nó vẫn là điều xấu. […] Mọi sự bịt miệng thảo luận đều là tự cho mình không thể sai. […] Có một khác biệt cực lớn giữa việc coi một ý kiến là đúng vì nó chưa bị bác bỏ dù đã có mọi cơ hội để phản bác nó, và việc mặc định nó đúng để không cho phép ai phản bác nó." *(bản dịch của Logos Zero)*
+    "Ta không bao giờ chắc được rằng ý kiến ta đang tìm cách dập tắt là một ý kiến sai; và dù có chắc, dập tắt nó vẫn là điều xấu. […] Mọi sự bịt miệng thảo luận đều là tự cho mình không thể sai. […] Có một khác biệt cực lớn giữa việc coi một ý kiến là đúng vì nó chưa bị bác bỏ dù đã có mọi cơ hội để phản bác nó, và việc mặc định nó đúng để không cho phép ai phản bác nó." *(bản dịch của Logos)*
 
 Câu cuối là lời Mill đáp một phản bác mà chính ông nêu ra (II.5): chính quyền nào cũng phải hành động theo niềm tin tốt nhất của mình dù có thể sai, như khi đánh thuế hay tuyên chiến; cấm một học thuyết mình tin là sai và nguy hại cũng chỉ là hành động như thế. Mill đáp: ta được tin một điều là đúng để hành động *chính vì* nó đã được để ngỏ cho mọi phản bác. Tự do phản bác là điều kiện của sự tự tin có lý.
 
@@ -49,7 +49,7 @@ Câu cuối là lời Mill đáp một phản bác mà chính ông nêu ra (II.5
 !!! quote "Mill, *On Liberty* (1859), chương II, đoạn 21 và 23 — nguyên văn, bản Project Gutenberg"
     "[…] however true it may be, if it is not fully, frequently, and fearlessly discussed, it will be held as a dead dogma, not a living truth. […] He who knows only his own side of the case, knows little of that."
 
-    "[…] dù nó đúng đến đâu, nếu không được thảo luận đầy đủ, thường xuyên và không sợ hãi, nó sẽ được giữ như một giáo điều chết, không phải một chân lý sống. […] Người chỉ biết lý lẽ phía mình thì cũng biết rất ít về chính phía mình." *(bản dịch của Logos Zero)*
+    "[…] dù nó đúng đến đâu, nếu không được thảo luận đầy đủ, thường xuyên và không sợ hãi, nó sẽ được giữ như một giáo điều chết, không phải một chân lý sống. […] Người chỉ biết lý lẽ phía mình thì cũng biết rất ít về chính phía mình." *(bản dịch của Logos)*
 
 Giả sử ý kiến thịnh hành là *đúng*. Ngay cả trong khoa học tự nhiên, Mill nhắc, luôn có một lời giải thích khác cho cùng các dữ kiện, "thuyết địa tâm thay cho nhật tâm"; chưa biết vì sao thuyết kia sai thì chưa thật hiểu căn cứ của thuyết mình (II.23). Niềm tin đúng mà không qua tranh luận giống một cơ bắp không bao giờ vận động: còn đó, nhưng teo dần.
 
@@ -60,7 +60,7 @@ Giả sử ý kiến thịnh hành là *đúng*. Ngay cả trong khoa học tự
 !!! quote "Mill, *On Liberty* (1859), chương II, đoạn 34 — nguyên văn, bản Project Gutenberg"
     "But there is a commoner case than either of these; when the conflicting doctrines, instead of being one true and the other false, share the truth between them; and the nonconforming opinion is needed to supply the remainder of the truth, of which the received doctrine embodies only a part. Popular opinions, on subjects not palpable to sense, are often true, but seldom or never the whole truth."
 
-    "Nhưng có một trường hợp phổ biến hơn cả hai trường hợp trên: khi các học thuyết đối nghịch, thay vì một đúng một sai, lại chia nhau phần sự thật; và cần đến ý kiến không theo số đông để bổ sung phần sự thật còn lại, mà học thuyết được chấp nhận chỉ chứa một phần. Những ý kiến phổ biến về các chủ đề giác quan không kiểm chứng được thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật." *(bản dịch của Logos Zero)*
+    "Nhưng có một trường hợp phổ biến hơn cả hai trường hợp trên: khi các học thuyết đối nghịch, thay vì một đúng một sai, lại chia nhau phần sự thật; và cần đến ý kiến không theo số đông để bổ sung phần sự thật còn lại, mà học thuyết được chấp nhận chỉ chứa một phần. Những ý kiến phổ biến về các chủ đề giác quan không kiểm chứng được thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật." *(bản dịch của Logos)*
 
 Ví dụ của Mill: thế kỷ 18, khi giới có học say mê "văn minh", những nghịch lý của [Rousseau](../triet-gia/rousseau.md) nổ ra "như những quả bom". Mill nói quan điểm đương thời gần sự thật hơn Rousseau, nhưng Rousseau giữ một phần sự thật mà họ thiếu (II.35).
 

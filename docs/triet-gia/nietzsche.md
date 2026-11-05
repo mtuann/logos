@@ -50,7 +50,7 @@ Ta thường hỏi một hành động có đạo đức không. Nietzsche hỏi
 !!! quote "Friedrich Nietzsche, *Die fröhliche Wissenschaft* (1882), §125 “Người điên” — bản dịch tiếng Anh của Thomas Common (*The Joyful Wisdom*, 1910)"
     "God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of all murderers?"
 
-    "Chúa đã chết! Chúa vẫn chết! Và chính chúng ta đã giết Người! Chúng ta, những kẻ sát nhân bậc nhất trong mọi kẻ sát nhân, sẽ lấy gì tự an ủi?" *(bản dịch của Logos Zero)*
+    "Chúa đã chết! Chúa vẫn chết! Và chính chúng ta đã giết Người! Chúng ta, những kẻ sát nhân bậc nhất trong mọi kẻ sát nhân, sẽ lấy gì tự an ủi?" *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -63,7 +63,7 @@ Ta thường hỏi một hành động có đạo đức không. Nietzsche hỏi
 
 **Ảnh hưởng tới:** [Heidegger](heidegger.md), [Sartre](sartre.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)
 

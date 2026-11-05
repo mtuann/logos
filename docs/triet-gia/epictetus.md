@@ -46,7 +46,7 @@ Lập luận ghép từ chương 1 và chương 5 của *Cẩm nang* trả lời
 !!! quote "Epictetus, *Cẩm nang* (*Encheiridion*), chương 5 — bản dịch tiếng Anh của George Long (1877)"
     "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing."
 
-    "Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp." *(bản dịch của Logos Zero)*
+    "Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -59,7 +59,7 @@ Lập luận ghép từ chương 1 và chương 5 của *Cẩm nang* trả lời
 
 **Ảnh hưởng tới:** [Marcus Aurelius](marcus-aurelius.md), [Blaise Pascal](pascal.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md)

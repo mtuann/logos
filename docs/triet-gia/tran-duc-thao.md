@@ -57,7 +57,7 @@ Câu hỏi của *Hiện tượng luận và duy vật biện chứng* (1951): m
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md)
 - [Nhật Bản và Việt Nam: triết học ở phương Đông](../lich-su/nhat-ban-viet-nam.md)

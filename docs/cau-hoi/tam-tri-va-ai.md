@@ -135,7 +135,7 @@ Câu hỏi máy có thể có tâm trí hay không vẫn **hoàn toàn bỏ ng�
 !!! quote "Alan Turing, “Computing Machinery and Intelligence”, *Mind*, 1950"
     "I propose to consider the question, 'Can machines think?' This should begin with definitions of the meaning of the terms 'machine' and 'think'."
 
-    "Tôi đề nghị xem xét câu hỏi: 'Máy có thể suy nghĩ không?' Việc này lẽ ra phải bắt đầu bằng định nghĩa nghĩa của các từ 'máy' và 'suy nghĩ'." *(bản dịch của Logos Zero)*
+    "Tôi đề nghị xem xét câu hỏi: 'Máy có thể suy nghĩ không?' Việc này lẽ ra phải bắt đầu bằng định nghĩa nghĩa của các từ 'máy' và 'suy nghĩ'." *(bản dịch của Logos)*
 
 Ngay sau câu mở đầu ấy, Turing *từ chối* định nghĩa. Ông nhận xét rằng nếu tìm nghĩa của "máy" và "suy nghĩ" bằng cách xem người ta thường dùng chúng thế nào, thì câu trả lời sẽ phải tìm bằng một cuộc thăm dò dư luận, và điều đó thật vô lý. Vì vậy ông thay câu hỏi cũ bằng trò chơi bắt chước. Phần còn lại của bài, Turing lần lượt trả lời chín phản bác mà ông đoán trước, từ phản bác thần học, qua phản bác "máy chỉ làm được những gì ta lập trình" (gắn với Lady Lovelace), đến phản bác dựa vào ngoại cảm.
 

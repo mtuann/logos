@@ -1,4 +1,4 @@
-/* Logos Zero — công cụ sơ đồ lập luận.
+/* Logos — công cụ sơ đồ lập luận.
  * <div class="oz-so-do"></div>  Dữ liệu: assets/data/lap-luan.json
  * Người dùng gán vai trò cho từng câu (tiền đề / kết luận / giả định ngầm /
  * không liên quan), nộp bài, xem đáp án và cây sơ đồ SVG vẽ từ đáp án đúng.

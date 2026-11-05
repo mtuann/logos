@@ -49,7 +49,7 @@ Trong một chú thích ở chương XVII cuốn *Dẫn nhập…*, Bentham hỏ
 !!! quote "Bentham, *An Introduction to the Principles of Morals and Legislation* (1789), chương I, đoạn 1 — nguyên văn tiếng Anh, bản Clarendon Press 1907 in lại ấn bản 1823"
     "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do."
 
-    "Tự nhiên đã đặt loài người dưới quyền cai quản của hai ông chủ tối cao: đau khổ và khoái lạc. Chỉ chúng mới chỉ ra điều ta nên làm, cũng như quyết định điều ta sẽ làm." *(bản dịch của Logos Zero)*
+    "Tự nhiên đã đặt loài người dưới quyền cai quản của hai ông chủ tối cao: đau khổ và khoái lạc. Chỉ chúng mới chỉ ra điều ta nên làm, cũng như quyết định điều ta sẽ làm." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Trong một chú thích ở chương XVII cuốn *Dẫn nhập…*, Bentham hỏ
 
 **Ảnh hưởng tới:** [J. S. Mill](mill.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Ăn thịt có sai không? Đạo đức học ứng dụng](../cau-hoi/dao-duc-ung-dung.md)
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)

@@ -46,7 +46,7 @@ Trong *Euthyphro* của Platon (10a–11b), ngay trước phiên tòa, Euthyphro
 !!! quote "Platon, *Biện hộ của Socrates* 38a — bản dịch tiếng Anh của Benjamin Jowett"
     "…daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living…"
 
-    "…mỗi ngày bàn luận về đức hạnh và về những điều khác mà các vị nghe tôi xem xét chính mình và người khác, là điều tốt đẹp nhất cho con người, và cuộc đời không được xem xét thì không đáng sống…" *(bản dịch của Logos Zero)*
+    "…mỗi ngày bàn luận về đức hạnh và về những điều khác mà các vị nghe tôi xem xét chính mình và người khác, là điều tốt đẹp nhất cho con người, và cuộc đời không được xem xét thì không đáng sống…" *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -59,7 +59,7 @@ Trong *Euthyphro* của Platon (10a–11b), ngay trước phiên tòa, Euthyphro
 
 **Ảnh hưởng tới:** [Platon](platon.md), [Zeno xứ Citium](zeno.md), [Epictetus](epictetus.md), [Kierkegaard](kierkegaard.md), [Nietzsche](nietzsche.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Đọc “Biện hộ của Socrates” (Platon)](../doc/platon-bien-ho.md)
 - [Phép biện chứng Socrates](../cong-cu/bien-chung-socrates.md)

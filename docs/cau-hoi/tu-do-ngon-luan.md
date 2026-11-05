@@ -56,7 +56,7 @@ Và nguyên tắc giới hạn của Mill — **nguyên tắc gây hại** — �
 !!! quote "J. S. Mill, *On Liberty* (1859), chương 1"
     "the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others."
 
-    Mục đích duy nhất cho phép xã hội can thiệp một cách chính đáng vào tự do của bất kỳ ai, trái với ý muốn của người đó, là để ngăn ngừa sự gây hại cho người khác. *(bản dịch của Logos Zero)*
+    Mục đích duy nhất cho phép xã hội can thiệp một cách chính đáng vào tự do của bất kỳ ai, trái với ý muốn của người đó, là để ngăn ngừa sự gây hại cho người khác. *(bản dịch của Logos)*
 
 Mill minh họa bằng một ví dụ cụ thể (chương 3): nói "bọn buôn lúa mì là kẻ bỏ đói người nghèo" trên báo thì được — nhưng gào câu đó vào mặt một *đám đông đang kích động* đứng trước nhà người buôn lúa mì thì có thể bị trừng phạt chính đáng, vì đó là xúi giục bạo lực trực tiếp. (Mill viết *corn-dealers*; "corn" trong tiếng Anh nước Anh thời ấy là ngũ cốc, chủ yếu lúa mì, không phải ngô.) Ranh giới, với Mill, không nằm ở *nội dung* của lời nói mà ở *hoàn cảnh* và *hậu quả có thể thấy trước* của nó.
 

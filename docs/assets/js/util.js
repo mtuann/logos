@@ -1,4 +1,4 @@
-/* Logos Zero — tiện ích dùng chung cho các công cụ. */
+/* Logos — tiện ích dùng chung cho các công cụ. */
 (function (root, factory) {
   var api = factory();
   if (typeof module === "object" && module.exports) module.exports = api;

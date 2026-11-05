@@ -9,13 +9,13 @@ block: van-ban
 
 # Hướng dẫn đọc: *Bát nhã Tâm kinh*
 
-*Bát nhã Tâm kinh* là văn bản ngắn nhất mà nổi tiếng nhất của Phật giáo Đại thừa: bản chữ Hán thông dụng chỉ có 260 chữ, kể cả câu chú. Nó gom lại tinh thần của cả hệ kinh *Bát nhã Ba la mật đa* (*Prajñāpāramitā*, "trí tuệ hoàn hảo", theo cách hiểu truyền thống là trí tuệ đưa người "qua bờ bên kia"). Ở Việt Nam, kinh thường được tụng trong các khóa lễ ở chùa. Văn bản cổ này thuộc phạm vi công cộng, nên dưới đây ta đọc gần trọn nó qua bốn đoạn, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos Zero.
+*Bát nhã Tâm kinh* là văn bản ngắn nhất mà nổi tiếng nhất của Phật giáo Đại thừa: bản chữ Hán thông dụng chỉ có 260 chữ, kể cả câu chú. Nó gom lại tinh thần của cả hệ kinh *Bát nhã Ba la mật đa* (*Prajñāpāramitā*, "trí tuệ hoàn hảo", theo cách hiểu truyền thống là trí tuệ đưa người "qua bờ bên kia"). Ở Việt Nam, kinh thường được tụng trong các khóa lễ ở chùa. Văn bản cổ này thuộc phạm vi công cộng, nên dưới đây ta đọc gần trọn nó qua bốn đoạn, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
     - **Bản chữ Hán:** bản lưu hành rộng nhất mang tên Huyền Trang (thế kỷ 7), số T251 trong *Đại chính tân tu Đại tạng kinh*, tựa là 般若波羅蜜多心經 (*Bát nhã Ba la mật đa Tâm kinh*); hai chữ "Ma ha" được thêm vào trong cách gọi khi tụng. Một bản khác, theo truyền thống gán cho Cưu-ma-la-thập, mang tên *Ma ha Bát nhã Ba la mật Đại minh chú kinh* (T250).
     - **Nguồn gốc:** truyền thống coi đây là bản dịch từ tiếng Phạn. Jan Nattier (1992) nêu giả thuyết ngược lại: kinh được soạn ở Trung Hoa, phần cốt lõi lấy từ bản Hán dịch của bộ *Đại phẩm Bát nhã*, rồi mới được dịch sang tiếng Phạn. Giả thuyết này đến nay vẫn còn tranh luận.
     - **Đọc toàn văn:** [CBETA, T0251](https://cbetaonline.dila.edu.tw/zh/T0251_001) (nguyên văn chữ Hán); bản phiên âm và dịch của Trần Trọng Kim trong sách *Phật giáo*, trên [Wikisource tiếng Việt](https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh) (phạm vi công cộng).
-    - **Phiên âm trong bài:** theo cách đọc dùng khi tụng ở chùa Việt Nam; bản Trần Trọng Kim đọc khác vài chữ (Quan Tự-tại, Xá-lị-tử, thụ, khuể-ngại). **Bản dịch:** của Logos Zero. **Thời gian đọc:** khoảng 15 phút.
+    - **Phiên âm trong bài:** theo cách đọc dùng khi tụng ở chùa Việt Nam; bản Trần Trọng Kim đọc khác vài chữ (Quan Tự-tại, Xá-lị-tử, thụ, khuể-ngại). **Bản dịch:** của Logos. **Thời gian đọc:** khoảng 15 phút.
 
 ## Bối cảnh {#boi-canh}
 
@@ -27,12 +27,12 @@ Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh lu�
 
 ### 1. Năm uẩn đều không
 
-!!! quote "Tâm kinh (T251), câu mở đầu — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Tâm kinh (T251), câu mở đầu — nguyên văn, phiên âm, bản dịch của Logos"
     觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。
 
     *Quán Tự Tại Bồ Tát hành thâm Bát nhã Ba la mật đa thời, chiếu kiến ngũ uẩn giai không, độ nhất thiết khổ ách.*
 
-    Bồ tát Quán Tự Tại, khi thực hành sâu xa trí tuệ Bát nhã, soi thấy năm uẩn đều không, vượt qua mọi khổ ách. *(bản dịch của Logos Zero)*
+    Bồ tát Quán Tự Tại, khi thực hành sâu xa trí tuệ Bát nhã, soi thấy năm uẩn đều không, vượt qua mọi khổ ách. *(bản dịch của Logos)*
 
 Đây là luận đề của cả bài kinh. Năm **uẩn** (蘊, "đống", "nhóm") là năm nhóm yếu tố làm nên một con người: *sắc* (thân thể, vật chất), *thọ* (cảm giác dễ chịu, khó chịu, trung tính), *tưởng* (nhận biết "đây là cái gì"), *hành* (ý chí, thói quen phản ứng), *thức* (nhận thức phân biệt). Phật giáo phân tích con người thành năm nhóm ấy thay vì một cái "tôi" nguyên khối. Để ý động từ: *soi thấy*, sau khi *thực hành sâu*. Đây là cái thấy có được nhờ tu tập, không chỉ là một kết luận trên giấy.
 
@@ -40,12 +40,12 @@ Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh lu�
 
 ### 2. Sắc tức thị không
 
-!!! quote "Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos"
     舍利子！色不異空，空不異色，色即是空，空即是色；受、想、行、識，亦復如是。
 
     *Xá Lợi Tử! Sắc bất dị không, không bất dị sắc, sắc tức thị không, không tức thị sắc; thọ, tưởng, hành, thức diệc phục như thị.*
 
-    Này Xá Lợi Tử! Sắc chẳng khác không, không chẳng khác sắc; sắc chính là không, không chính là sắc. Thọ, tưởng, hành, thức cũng đều như vậy. *(bản dịch của Logos Zero)*
+    Này Xá Lợi Tử! Sắc chẳng khác không, không chẳng khác sắc; sắc chính là không, không chính là sắc. Thọ, tưởng, hành, thức cũng đều như vậy. *(bản dịch của Logos)*
 
 "Không" (空, *śūnyatā*) ở đây nghĩa là *không có tự tính*: không có gì tự mình mà có, tách khỏi mọi thứ khác. Câu kinh đi hai chiều để chặn hai cách đọc sai. Nếu chỉ có "sắc là không", ta dễ trượt sang "mọi thứ là ảo ảnh". Vế "không là sắc" nhắc rằng cái không chẳng phải một cõi riêng nằm sau hiện tượng: chỉ có một thế giới, được thấy đúng hay thấy sai.
 
@@ -53,12 +53,12 @@ Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh lu�
 
 ### 3. Trong cái không, không có…
 
-!!! quote "Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos"
     是諸法空相，不生不滅，不垢不淨，不增不減。是故，空中無色，……無無明亦無無明盡，乃至無老死亦無老死盡；無苦、集、滅、道；無智，亦無得。
 
     *Thị chư pháp không tướng, bất sinh bất diệt, bất cấu bất tịnh, bất tăng bất giảm. Thị cố không trung vô sắc, … vô vô minh diệc vô vô minh tận, nãi chí vô lão tử diệc vô lão tử tận; vô khổ, tập, diệt, đạo; vô trí diệc vô đắc.*
 
-    Tướng không của các pháp ấy không sinh không diệt, không nhơ không sạch, không thêm không bớt. Vì thế, trong cái không, không có sắc, … không có vô minh cũng không có hết vô minh, cho đến không có già chết cũng không có hết già chết; không có khổ, tập, diệt, đạo; không có trí, cũng không có chứng đắc. *(bản dịch của Logos Zero)*
+    Tướng không của các pháp ấy không sinh không diệt, không nhơ không sạch, không thêm không bớt. Vì thế, trong cái không, không có sắc, … không có vô minh cũng không có hết vô minh, cho đến không có già chết cũng không có hết già chết; không có khổ, tập, diệt, đạo; không có trí, cũng không có chứng đắc. *(bản dịch của Logos)*
 
 Đây là đoạn táo bạo nhất. "Vô minh… già chết" là hai đầu của **mười hai nhân duyên**; "khổ, tập, diệt, đạo" là **Tứ diệu đế**, giáo lý nền tảng của chính Phật giáo. Nhưng hãy đọc kỹ hai chữ *không trung* (空中, "trong cái không"). Kinh không nói các giáo lý ấy sai hay vô dụng; nó nói chúng cũng không có tự tính, như mọi pháp khác. Nếu còn bám vào giáo lý như một vật sở hữu, thì giáo lý cũng thành xiềng xích.
 
@@ -66,12 +66,12 @@ Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh lu�
 
 ### 4. Câu chú kết
 
-!!! quote "Tâm kinh (T251), đoạn kết — nguyên văn, phiên âm, bản dịch của Logos Zero"
+!!! quote "Tâm kinh (T251), đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
     故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。……揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　僧莎訶
 
     *Cố tri Bát nhã Ba la mật đa thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thật bất hư. … Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha.*
 
-    Cho nên biết Bát nhã Ba la mật đa là câu chú thần diệu lớn, câu chú sáng suốt lớn, câu chú cao nhất, câu chú không gì sánh bằng, trừ được mọi khổ, chân thật không hư dối. … *(bản dịch của Logos Zero)*
+    Cho nên biết Bát nhã Ba la mật đa là câu chú thần diệu lớn, câu chú sáng suốt lớn, câu chú cao nhất, câu chú không gì sánh bằng, trừ được mọi khổ, chân thật không hư dối. … *(bản dịch của Logos)*
 
 Câu chú để nguyên âm, không dịch khi tụng. Chú thích của bản Đại chính ghi âm Phạn: *gate gate pāragate pārasaṃgate bodhi svāhā*, đại ý "đi rồi, đi rồi, đi qua bờ bên kia, đi qua hẳn bờ bên kia, giác ngộ", còn *svāhā* là tiếng xướng ở cuối lời khấn, lời chú. Cách đọc "ba la… tát bà ha" ở chùa Việt theo chữ viết của các bản Tống, Nguyên, Minh (波羅…薩婆訶); bản Đại chính chép 般羅…僧莎訶. Sau bao nhiêu phủ định, kinh kết bằng một tiếng reo, như thể điều cuối cùng không phải một mệnh đề mà là một hành động vượt qua.
 

@@ -150,7 +150,7 @@ Như mọi khảo sát, số đông không quyết định chân lý. Nhưng nó
 !!! quote "Descartes, *Suy niệm về Triết học Đệ nhất*, Suy niệm VI, 1641 (bản tiếng Anh của John Veitch)"
     "...I rightly conclude that my essence consists only in my being a thinking thing... it is certain that I, [that is, my mind, by which I am what I am], is entirely and truly distinct from my body, and may exist without it."
 
-    "...tôi kết luận một cách đúng đắn rằng bản chất của tôi chỉ gồm ở chỗ tôi là một vật suy nghĩ... điều chắc chắn là tôi, [tức là tâm trí tôi, cái làm cho tôi là chính tôi], hoàn toàn và thực sự khác biệt với thân thể tôi, và có thể tồn tại mà không cần nó." *(bản dịch của Logos Zero)*
+    "...tôi kết luận một cách đúng đắn rằng bản chất của tôi chỉ gồm ở chỗ tôi là một vật suy nghĩ... điều chắc chắn là tôi, [tức là tâm trí tôi, cái làm cho tôi là chính tôi], hoàn toàn và thực sự khác biệt với thân thể tôi, và có thể tồn tại mà không cần nó." *(bản dịch của Logos)*
 
 Câu hỏi dẫn dắt:
 

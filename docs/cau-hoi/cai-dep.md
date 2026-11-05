@@ -153,7 +153,7 @@ Một hướng phát triển đáng chú ý: mỹ học thực nghiệm (*experi
 !!! quote "David Hume, 'Of the Standard of Taste', 1757"
     "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty."
 
-    Cái đẹp không phải là một tính chất của sự vật tự thân: nó chỉ tồn tại trong tâm trí của người chiêm ngưỡng; và mỗi tâm trí cảm nhận một vẻ đẹp khác nhau. *(bản dịch của Logos Zero)*
+    Cái đẹp không phải là một tính chất của sự vật tự thân: nó chỉ tồn tại trong tâm trí của người chiêm ngưỡng; và mỗi tâm trí cảm nhận một vẻ đẹp khác nhau. *(bản dịch của Logos)*
 
 Cũng trong đoạn ấy còn một câu nói thẳng hơn: "Đi tìm cái đẹp *thật sự*, cũng như đi tìm cái ngọt *thật sự* hay cái đắng *thật sự*, là một cuộc tìm kiếm vô ích." ("To seek the real beauty, or real deformity, is as fruitless an enquiry, as to pretend to ascertain the real sweet or real bitter.") Ngọt hay đắng là chuyện của lưỡi; đẹp hay xấu là chuyện của mắt thẩm mỹ — nhưng, như Hume lập luận ở phần sau của bài, cả hai đều có thể bàn cãi một cách nghiêm túc.
 

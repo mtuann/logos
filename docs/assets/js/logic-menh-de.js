@@ -1,4 +1,4 @@
-/* Logos Zero — công cụ logic mệnh đề: kiểm tra tính hợp lệ, tìm phản ví dụ.
+/* Logos — công cụ logic mệnh đề: kiểm tra tính hợp lệ, tìm phản ví dụ.
  * <div class="oz-logic"></div> — hai tab: "Tự kiểm tra" (nhập tự do) và "Luyện tập" (ngân hàng logic.json).
  * CHỈ xử lý logic mệnh đề (không có lượng từ, vị từ) — UI ghi rõ giới hạn này.
  * Mẫu UMD của repo: hàm thuần xuất qua module.exports; trình duyệt dùng OZReady(initAll). */

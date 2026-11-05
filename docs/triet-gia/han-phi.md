@@ -49,7 +49,7 @@ Thiên “Nạn thế” là một cuộc tranh luận về quyền thế. Ngư�
 !!! quote "Hàn Phi, *Hàn Phi Tử*, thiên 6 “Hữu độ” (有度) — nguyên văn chữ Hán và phiên âm Hán Việt"
     "法不阿貴，繩不撓曲。法之所加，智者弗能辭，勇者弗敢爭。刑過不避大臣，賞善不遺匹夫。 — Pháp bất a quý, thằng bất nạo khúc. Pháp chi sở gia, trí giả phất năng từ, dũng giả phất cảm tranh. Hình quá bất tị đại thần, thưởng thiện bất di thất phu."
 
-    "Pháp luật không nể kẻ sang, dây mực không uốn theo chỗ cong. Pháp đã áp vào thì kẻ khôn không chối được, kẻ mạnh không dám cãi. Phạt lỗi không chừa đại thần, thưởng điều thiện không bỏ sót kẻ thường dân." *(bản dịch của Logos Zero)*
+    "Pháp luật không nể kẻ sang, dây mực không uốn theo chỗ cong. Pháp đã áp vào thì kẻ khôn không chối được, kẻ mạnh không dám cãi. Phạt lỗi không chừa đại thần, thưởng điều thiện không bỏ sót kẻ thường dân." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Thiên “Nạn thế” là một cuộc tranh luận về quyền thế. Ngư�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md)
 - [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)

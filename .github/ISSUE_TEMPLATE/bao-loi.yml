@@ -1,12 +1,12 @@
 name: Báo lỗi nội dung
-description: Báo một sai sót trên Logos Zero (sự kiện, năm tháng, trích dẫn, bản dịch, quiz, link hỏng, lỗi hiển thị).
+description: Báo một sai sót trên Logos (sự kiện, năm tháng, trích dẫn, bản dịch, quiz, link hỏng, lỗi hiển thị).
 title: "[Báo lỗi] "
 labels: ["bao-loi"]
 body:
   - type: markdown
     attributes:
       value: |
-        Cảm ơn bạn đã giúp Logos Zero chính xác hơn. Nút "Báo lỗi trang này" ở cuối mỗi trang đã điền sẵn tên và đường dẫn trang.
+        Cảm ơn bạn đã giúp Logos chính xác hơn. Nút "Báo lỗi trang này" ở cuối mỗi trang đã điền sẵn tên và đường dẫn trang.
   - type: input
     id: trang
     attributes:

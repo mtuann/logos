@@ -1,4 +1,4 @@
-/* Logos Zero — gộp bản sao lưu dữ liệu (merge-restore).
+/* Logos — gộp bản sao lưu dữ liệu (merge-restore).
  * Mọi hàm đều thuần (không đụng localStorage/DOM), xuất qua module.exports để kiểm thử.
  * Mô hình dữ liệu: state của progress.js là các bộ đếm tổng hợp (aggregate),
  * nên gộp theo NGỮ NGHĨA từng mục (xem quy tắc trong mergeStates), không phải
@@ -221,7 +221,7 @@
   function validateBackup(data) {
     if (!isObj(data)) return { ok: false, error: "File không phải là JSON object." };
     // Nhận cả bản sao lưu xuất từ logos-zero, để người đọc mang tiến độ sang site mới.
-    if (data.app !== "logos" && data.app !== "logos-zero") return { ok: false, error: "Đây không phải bản sao lưu của Logos Zero." };
+    if (data.app !== "logos" && data.app !== "logos-zero") return { ok: false, error: "Đây không phải bản sao lưu của Logos hay Logos Zero." };
     if (!isObj(data.state)) return { ok: false, error: "Bản sao lưu thiếu trường state." };
     return {
       ok: true,

@@ -46,7 +46,7 @@ Heraclitus không viết theo dạng tiền đề – kết luận. Đây là c�
 !!! quote "Heraclitus, mảnh văn DK 22 B30 — bản dịch tiếng Anh của John Burnet, *Early Greek Philosophy* (1908)"
     "This world, which is the same for all, no one of gods or men has made; but it was ever, is now, and ever shall be an ever-living Fire, with measures kindling, and measures going out."
 
-    "Thế giới này, vốn chung cho mọi người, không thần nào hay người nào làm ra; nó đã luôn là, đang là và sẽ mãi là một ngọn Lửa sống mãi, bùng lên theo chừng mực và tắt đi theo chừng mực." *(bản dịch của Logos Zero)*
+    "Thế giới này, vốn chung cho mọi người, không thần nào hay người nào làm ra; nó đã luôn là, đang là và sẽ mãi là một ngọn Lửa sống mãi, bùng lên theo chừng mực và tắt đi theo chừng mực." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -59,7 +59,7 @@ Heraclitus không viết theo dạng tiền đề – kết luận. Đây là c�
 
 **Ảnh hưởng tới:** [Platon](platon.md), [Marcus Aurelius](marcus-aurelius.md), [Hegel](hegel.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 

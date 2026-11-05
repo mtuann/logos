@@ -49,7 +49,7 @@ Nếu lý trí không phân xử được Chúa có tồn tại hay không, ta n
 !!! quote "Blaise Pascal, *Pensées* (1670), đoạn 347 theo Brunschvicg (200 theo Lafuma) — bản dịch tiếng Anh của W. F. Trotter (1910)"
     "Man is but a reed, the most feeble thing in nature; but he is a thinking reed. […] But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this."
 
-    "Con người chỉ là một cây sậy, thứ yếu ớt nhất trong tự nhiên; nhưng đó là một cây sậy biết suy nghĩ. […] Nhưng nếu vũ trụ có nghiền nát con người, con người vẫn cao quý hơn cái đã giết mình, vì con người biết mình chết và biết ưu thế của vũ trụ đối với mình; còn vũ trụ chẳng biết gì về điều đó." *(bản dịch của Logos Zero)*
+    "Con người chỉ là một cây sậy, thứ yếu ớt nhất trong tự nhiên; nhưng đó là một cây sậy biết suy nghĩ. […] Nhưng nếu vũ trụ có nghiền nát con người, con người vẫn cao quý hơn cái đã giết mình, vì con người biết mình chết và biết ưu thế của vũ trụ đối với mình; còn vũ trụ chẳng biết gì về điều đó." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -62,7 +62,7 @@ Nếu lý trí không phân xử được Chúa có tồn tại hay không, ta n
 
 **Ảnh hưởng tới:** [Nietzsche](nietzsche.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)

@@ -1,6 +1,6 @@
 ---
 title: Ba con đường đọc
-description: Gợi ý nên bắt đầu đọc Logos Zero từ đâu — tư duy rõ ràng, những câu hỏi lớn, hay lịch sử tư tưởng và văn bản gốc — tùy điều bạn đang tò mò.
+description: Gợi ý nên bắt đầu đọc Logos từ đâu — tư duy rõ ràng, những câu hỏi lớn, hay lịch sử tư tưởng và văn bản gốc — tùy điều bạn đang tò mò.
 skill: intro
 updated: 2026-10-22
 tier: loi
@@ -11,7 +11,7 @@ block: bat-dau
 
 Không ai bước vào triết học từ cùng một cánh cửa. Có người đến vì một cuộc cãi nhau trên mạng mà mình thua dù tin chắc mình đúng. Có người đến vì một đêm mất ngủ với câu hỏi "rồi mọi thứ để làm gì?". Có người chỉ tò mò: AI có biết nghĩ không?
 
-Vì thế Logos Zero không có "chương 1, chương 2". Có ba con đường. Bạn có thể đi một con đến cuối, hoặc rẽ ngang bất cứ lúc nào. Hiện site có [[count:cong-cu]] bài công cụ tư duy, [[count:cau-hoi]] bài về những câu hỏi lớn, [[count:lich-su]] bài lịch sử tư tưởng, [[count:doc]] hướng dẫn đọc văn bản gốc và trang riêng cho từng triết gia.
+Vì thế Logos không có "chương 1, chương 2". Có ba con đường. Bạn có thể đi một con đến cuối, hoặc rẽ ngang bất cứ lúc nào. Hiện site có [[count:cong-cu]] bài công cụ tư duy, [[count:cau-hoi]] bài về những câu hỏi lớn, [[count:lich-su]] bài lịch sử tư tưởng, [[count:doc]] hướng dẫn đọc văn bản gốc và trang riêng cho từng triết gia.
 
 ## 1. Tư duy rõ ràng {#1-tu-duy-ro-rang}
 

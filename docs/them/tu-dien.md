@@ -6,7 +6,7 @@ updated: 2026-10-13
 
 # Từ điển thuật ngữ
 
-Mỗi thuật ngữ gồm: tên tiếng Việt Logos Zero dùng thống nhất, tên tiếng Anh, chữ Hán (khi có), định nghĩa một câu, một ví dụ và các cách dịch khác. Ôn bằng [thẻ ghi nhớ](../luyen-tap/the-ghi-nho.md).
+Mỗi thuật ngữ gồm: tên tiếng Việt Logos dùng thống nhất, tên tiếng Anh, chữ Hán (khi có), định nghĩa một câu, một ví dụ và các cách dịch khác. Ôn bằng [thẻ ghi nhớ](../luyen-tap/the-ghi-nho.md).
 
 Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 

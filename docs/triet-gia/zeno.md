@@ -47,7 +47,7 @@ Zeno không để lại văn bản trình bày lập luận này; Diogenes Laër
 !!! quote "Diogenes Laërtius, *Lives of the Eminent Philosophers* VII.87 — bản dịch tiếng Anh của R. D. Hicks (1925)"
     "This is why Zeno was the first (in his treatise On the Nature of Man) to designate as the end “life in agreement with nature” (or living agreeably to nature), which is the same as a virtuous life, virtue being the goal towards which nature guides us."
 
-    "Vì thế Zeno là người đầu tiên (trong chuyên luận *Về bản tính con người*) xác định mục đích là “sống phù hợp với tự nhiên” (hay sống thuận theo tự nhiên), điều cũng chính là sống theo đức hạnh, vì đức hạnh là đích mà tự nhiên dẫn ta tới." *(bản dịch của Logos Zero)*
+    "Vì thế Zeno là người đầu tiên (trong chuyên luận *Về bản tính con người*) xác định mục đích là “sống phù hợp với tự nhiên” (hay sống thuận theo tự nhiên), điều cũng chính là sống theo đức hạnh, vì đức hạnh là đích mà tự nhiên dẫn ta tới." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -60,7 +60,7 @@ Zeno không để lại văn bản trình bày lập luận này; Diogenes Laër
 
 **Ảnh hưởng tới:** [Epictetus](epictetus.md), [Marcus Aurelius](marcus-aurelius.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)

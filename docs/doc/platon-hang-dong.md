@@ -35,9 +35,9 @@ Vậy triết gia biết gì mà người khác không biết? Platon trả lờ
 
     "To them, I said, the truth would be literally nothing but the shadows of the images."
 
-    "Giống như chúng ta thôi, tôi đáp; họ chỉ thấy bóng của chính mình, hay bóng của nhau, do ngọn lửa hắt lên vách hang trước mặt, phải không?" *(bản dịch của Logos Zero)*
+    "Giống như chúng ta thôi, tôi đáp; họ chỉ thấy bóng của chính mình, hay bóng của nhau, do ngọn lửa hắt lên vách hang trước mặt, phải không?" *(bản dịch của Logos)*
 
-    "Với họ, tôi nói, sự thật đúng là chẳng gì khác ngoài bóng của những hình nộm." *(bản dịch của Logos Zero)*
+    "Với họ, tôi nói, sự thật đúng là chẳng gì khác ngoài bóng của những hình nộm." *(bản dịch của Logos)*
 
 Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt nhất trong việc nhớ bóng nào đến trước, bóng nào đến sau, để đoán bóng sắp tới (516c–d).
 
@@ -48,7 +48,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 !!! quote "Cộng hòa, 516b — bản dịch Benjamin Jowett"
     "Last of all he will be able to see the sun, and not mere reflections of him in the water, but he will see him in his own proper place, and not in another; and he will contemplate him as he is."
 
-    "Sau cùng, anh ta sẽ nhìn được mặt trời, không phải bóng của nó dưới nước, mà chính nó, ở đúng chỗ của nó, và ngắm nó đúng như nó là." *(bản dịch của Logos Zero)*
+    "Sau cùng, anh ta sẽ nhìn được mặt trời, không phải bóng của nó dưới nước, mà chính nó, ở đúng chỗ của nó, và ngắm nó đúng như nó là." *(bản dịch của Logos)*
 
 *Platon nhấn mạnh: sự thật ban đầu gây đau, và hiểu biết đến theo từng bậc. Bạn có trải nghiệm nào mà một sự thật mới khiến bạn muốn quay về với cái hiểu cũ dễ chịu hơn không?*
 
@@ -57,7 +57,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 !!! quote "Cộng hòa, 517a — bản dịch Benjamin Jowett"
     "Men would say of him that up he went and down he came without his eyes; and that it was better not even to think of ascending; and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death."
 
-    "Người ta sẽ bảo anh ta lên trên ấy rồi trở về mù cả mắt, và tốt hơn hết đừng nghĩ đến chuyện đi lên; còn kẻ nào định cởi trói cho người khác và dẫn họ lên chỗ sáng, cứ để họ bắt được, họ sẽ giết hắn." *(bản dịch của Logos Zero)*
+    "Người ta sẽ bảo anh ta lên trên ấy rồi trở về mù cả mắt, và tốt hơn hết đừng nghĩ đến chuyện đi lên; còn kẻ nào định cởi trói cho người khác và dẫn họ lên chỗ sáng, cứ để họ bắt được, họ sẽ giết hắn." *(bản dịch của Logos)*
 
 *Nhiều nhà chú giải đọc câu cuối như lời ám chỉ cái chết của Socrates. Bạn nghĩ ẩn dụ này có công bằng với đám đông không?*
 
@@ -68,9 +68,9 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
     "Wherefore each of you, when his turn comes, must go down to the general underground abode, and get the habit of seeing in the dark."
 
-    "...một số người dạy học hẳn đã sai khi bảo rằng họ có thể đặt vào linh hồn một tri thức vốn không có ở đó, như đặt thị lực vào đôi mắt mù." *(bản dịch của Logos Zero)*
+    "...một số người dạy học hẳn đã sai khi bảo rằng họ có thể đặt vào linh hồn một tri thức vốn không có ở đó, như đặt thị lực vào đôi mắt mù." *(bản dịch của Logos)*
 
-    "Vì vậy mỗi người các anh, khi đến lượt, phải đi xuống chỗ ở chung dưới lòng đất, và tập cho quen nhìn trong bóng tối." *(bản dịch của Logos Zero)*
+    "Vì vậy mỗi người các anh, khi đến lượt, phải đi xuống chỗ ở chung dưới lòng đất, và tập cho quen nhìn trong bóng tối." *(bản dịch của Logos)*
 
 Giáo dục, theo Platon, không phải đổ kiến thức vào đầu, mà là *xoay* cả linh hồn về đúng hướng: năng lực nhìn đã có sẵn, chỉ đang nhìn sai chỗ (518c–d). Còn người đã thấy ánh sáng thì không được ở lại trên ấy: họ phải xuống cai trị, và thành phố tốt nhất là nơi người cầm quyền ít muốn cầm quyền nhất (520d).
 

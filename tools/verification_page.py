@@ -33,7 +33,7 @@ RECORDS = {"people": "Người (năm sinh mất, trường phái)", "works": "T�
 
 HEAD = """---
 title: Tình trạng kiểm chứng
-description: Bao nhiêu phần của Logos Zero đã được kiểm chứng với nguồn, theo từng mảng nội dung.
+description: Bao nhiêu phần của Logos đã được kiểm chứng với nguồn, theo từng mảng nội dung.
 updated: {updated}
 ---
 

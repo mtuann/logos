@@ -48,7 +48,7 @@ Hiếm khi *Đạo đức kinh* lập luận lộ liễu, nhưng chương 57 th�
 !!! quote "*Đạo đức kinh*, chương 64 — nguyên văn chữ Hán theo bản lưu hành (ctext.org) và phiên âm Hán Việt"
     "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。 — Hợp bão chi mộc, sinh ư hào mạt; cửu tằng chi đài, khởi ư lũy thổ; thiên lý chi hành, thủy ư túc hạ."
 
-    "Cây to một vòng tay ôm mọc lên từ mầm nhỏ như sợi lông; đài cao chín tầng dựng lên từ từng sọt đất; đường xa nghìn dặm bắt đầu từ chỗ đặt chân." *(bản dịch của Logos Zero)*
+    "Cây to một vòng tay ôm mọc lên từ mầm nhỏ như sợi lông; đài cao chín tầng dựng lên từ từng sọt đất; đường xa nghìn dặm bắt đầu từ chỗ đặt chân." *(bản dịch của Logos)*
 
 ## Hiểu lầm thường gặp
 
@@ -61,7 +61,7 @@ Hiếm khi *Đạo đức kinh* lập luận lộ liễu, nhưng chương 57 th�
 
 **Ảnh hưởng tới:** [Trang Tử](trang-tu.md), [Hàn Phi](han-phi.md).
 
-## Đọc thêm trên Logos Zero
+## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md)
 - [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)
