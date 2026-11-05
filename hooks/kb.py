@@ -93,7 +93,18 @@ H1_END = re.compile(r"</h1>")
 H2 = re.compile(r"<h2[\s>]")
 
 
-def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict) -> str | None:
+NEW_DAYS = 60
+
+
+def is_new(entry: dict | None, meta: dict, today: datetime.date | None = None) -> bool:
+    """Nhãn Mới (đợt 4.7): trang Mở rộng có `added` trong NEW_DAYS ngày gần nhất."""
+    if not entry or entry.get("tier") != "mo-rong" or not meta.get("added"):
+        return False
+    added = meta["added"] if isinstance(meta["added"], datetime.date) else datetime.date.fromisoformat(str(meta["added"]))
+    return 0 <= ((today or datetime.date.today()) - added).days <= NEW_DAYS
+
+
+def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict, new: bool = False) -> str | None:
     """Dải thông tin dưới tiêu đề (đợt 4.6): tầng, vị trí trong mục lục, ngày cập nhật, trạng thái kiểm chứng.
     Không có ở trang he-thong. Toàn bộ là phần sinh: data-oz-sinh (parity bỏ qua), data-search-exclude."""
     entry = ctx.get("pages", {}).get(path)
@@ -102,7 +113,8 @@ def info_strip(path: str, trail: list[str], updated, html_text: str, ctx: dict) 
     total = len(H2.findall(html_text)) + 1                 # các mục H2 và phần trước H2 đầu tiên (#_dau)
     done = sum(1 for k, u in ctx.get("ledger", {}).items() if k.startswith(path + "#") and u.get("status") in DONE)
     kiem = "Chưa kiểm chứng" if not done else f"Đã kiểm chứng {done}/{total} mục"
-    parts = [f'<span class="oz-info__tang oz-info__tang--{entry["tier"]}" title="{TIER_HELP[entry["tier"]]}">'
+    parts = ['<span class="oz-info__moi">Mới</span>'] if new else []
+    parts += [f'<span class="oz-info__tang oz-info__tang--{entry["tier"]}" title="{TIER_HELP[entry["tier"]]}">'
              f'{TIER_NAMES[entry["tier"]]}</span>']
     if trail:
         parts.append(f'<span class="oz-info__muc">{" › ".join(trail)}</span>')
@@ -288,7 +300,8 @@ def on_page_content(html_text, page, config, files, **kwargs):
     if page.is_homepage:
         return html_text
     trail = [a.title for a in reversed(page.ancestors) if getattr(a, "title", None)]
-    strip = info_strip(page.file.src_uri, trail, page.meta.get("updated"), html_text, _ctx)
+    strip = info_strip(page.file.src_uri, trail, page.meta.get("updated"), html_text, _ctx,
+                       new=is_new(_ctx["pages"].get(page.file.src_uri), page.meta))
     if not strip:
         return html_text
     m = H1_END.search(html_text)
@@ -296,6 +309,10 @@ def on_page_content(html_text, page, config, files, **kwargs):
 
 
 def on_page_markdown(markdown, page, config, files, **kwargs):
+    # Nhãn Mới trong nav: Material hiện biểu tượng cho `status: new` (extra.status trong mkdocs.yml). Mọi trang
+    # được đọc trước khi dựng nav, nên gán ở đây kịp cho mọi trang.
+    if is_new(_ctx["pages"].get(page.file.src_uri), page.meta) and "status" not in page.meta:
+        page.meta["status"] = "new"
     if "[[" not in markdown:
         return markdown
     return expand(markdown, _ctx, page.file.src_uri)

@@ -19,6 +19,7 @@ const TOOL_SELECTORS = {
   ".oz-bieu-do": ["util.js", "bieu-do.js"],
   ".oz-nhat-ky": ["util.js", "nhat-ky.js"],
   ".oz-steelman": ["util.js", "steelman.js"],
+  '.md-content a[href*="triet-gia/"], .md-content a[href*="tu-dien/#"]': ["the-di-chuot.js"],
 };
 
 assert.ok(fs.existsSync(path.join(SITE, "index.html")), "Chưa build site — chạy: mkdocs build --strict");
@@ -69,8 +70,15 @@ for (const page of pages) {
 }
 
 test("trang chỉ có chữ không tải script công cụ nào", async () => {
-  const { toolScripts, window } = await openPage("/logos/lich-su/");
+  // Đợt 4.7: trang có link tới triết gia nạp thêm the-di-chuot.js; /logos/them/ không có link nào như vậy.
+  const { toolScripts, window } = await openPage("/logos/them/");
   assert.deepEqual(toolScripts.sort(), [...CORE].sort());
+  window.close();
+});
+
+test("trang có link tới triết gia chỉ nạp thêm thẻ di chuột", async () => {
+  const { toolScripts, window } = await openPage("/logos/lich-su/");
+  assert.deepEqual(toolScripts.sort(), [...CORE, "the-di-chuot.js"].sort());
   window.close();
 });
 

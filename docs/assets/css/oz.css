@@ -734,3 +734,42 @@ body {
     background: none;
   }
 }
+
+/* ---------- Thẻ di chuột (đợt 4.7; docs/assets/js/the-di-chuot.js) ---------- */
+.oz-the {
+  position: absolute;
+  z-index: 5;
+  max-width: min(22rem, calc(100vw - 16px));
+  padding: 0.6rem 0.8rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--oz-line);
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  font-size: 0.72rem;
+  line-height: 1.5;
+}
+.oz-the p {
+  margin: 0 0 0.25rem;
+}
+.oz-the p:last-child {
+  margin-bottom: 0;
+}
+.oz-the__ten {
+  font-weight: 700;
+}
+.oz-the__phu {
+  color: var(--md-default-fg-color--light);
+}
+@media print {
+  .oz-the {
+    display: none !important;
+  }
+}
+.md-typeset .oz-info__moi {
+  padding: 0 0.4em;
+  border-radius: 0.2em;
+  background: var(--oz-accent);
+  color: var(--md-default-bg-color);
+  font-weight: 700;
+}

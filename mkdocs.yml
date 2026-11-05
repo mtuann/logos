@@ -85,6 +85,9 @@ extra_javascript:
 
 extra:
   generator: false
+  # Nhãn Mới trong nav cho trang Mở rộng có `added` trong 60 ngày (hooks/kb.py, đợt 4.7).
+  status:
+    new: Mới
   # Link "Báo lỗi trang này" cuối mỗi trang (overrides/main.html), mở mẫu .github/ISSUE_TEMPLATE/bao-loi.yml.
   report_issue_url: https://github.com/mtuann/logos/issues/new
   # Quyết định 12 ở KE-HOACH.md: chưa cho công cụ tìm kiếm lập chỉ mục khi logos còn trùng nội dung với logos-zero.

@@ -27,6 +27,7 @@
     { sel: ".oz-bieu-do", js: ["util.js", "bieu-do.js"] },
     { sel: ".oz-nhat-ky", js: ["util.js", "nhat-ky.js"] },
     { sel: ".oz-steelman", js: ["util.js", "steelman.js"] },
+    { sel: '.md-content a[href*="triet-gia/"], .md-content a[href*="tu-dien/#"]', js: ["the-di-chuot.js"] },
   ];
 
   /* Hàm thuần: cho danh sách bộ chọn có mặt, trả về danh sách script cần nạp, không trùng. */
