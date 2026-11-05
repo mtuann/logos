@@ -1,0 +1,47 @@
+{
+  "unit": "works/nietzsche.die-frohliche-wissenschaft",
+  "hash": "sha256:7433ad76402763834c6fd4db4dbc34d62c936f20c82003217a35865c4e08c7db",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo17",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Die fröhliche Wissenschaft",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "The Gay Science (Die fröliche Wissenschaft, 1882"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Nietzsche (nietzsche)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "the mature works for which Nietzsche is best known"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1882 (year; years_seen: people/nietzsche)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "The Gay Science (1882, second expanded edition 1887)"
+        },
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "The Gay Science (Die fröliche Wissenschaft, 1882"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản mở rộng lần hai 1887 (thêm quyển V). Có thể thêm year_note: \"bản mở rộng 1887\". IEP viết \"fröliche\" (thiếu h, lỗi in của IEP); cách viết của site \"fröhliche\" là chuẩn."
+}

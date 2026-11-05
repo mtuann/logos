@@ -1,0 +1,52 @@
+{
+  "unit": "works/chua-ro.tu-truyen",
+  "hash": "sha256:5c65440a732dd0abd3b5660741e4d15d25fa2336915cc465214b61185109ace2",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo13",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Tự truyện (Autobiography)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10378",
+          "quote": "Author Mill, John Stuart, 1806-1873 Title Autobiography"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "John’s remarkable education, famously recounted in his Autobiography"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: John Stuart Mill",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/10378/pg10378.txt",
+          "quote": "Title: Autobiography Author: John Stuart Mill"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1873 (year; years_seen: doc/mill-tu-do.md#boi-canh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/autobiographymil00milluoft",
+          "quote": "Autobiography by Mill, John Stuart, 1806-1873 Publication date 1873 Topics Mill, John Stuart, 1806-1873, Philosophers -- Great Britain Biography Publisher London : Longmans, Green, Reader, and Dyer",
+          "where": "bản in đầu, London 1873 (Internet Archive)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "He died in Avignon on 7 May 1873"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: John Stuart Mill. Không trùng khóa nào trong works.yml (mill.* chỉ có A System of Logic, On Liberty, The Subjection of Women, Utilitarianism). Sách in năm 1873, sau khi Mill mất (7/5/1873). Bản Gutenberg #10378 có Chương VII (1840–1870), khớp ngữ cảnh 'chương VII'."
+}

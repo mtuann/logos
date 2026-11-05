@@ -1,0 +1,47 @@
+{
+  "unit": "works/nietzsche.menschliches-allzumenschliches",
+  "hash": "sha256:5bbf85c4389bf256d6ed99dc220465ff49369d61ba14fd5766271db1e126b23c",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo17",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Menschliches, Allzumenschliches",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "Human, All Too Human (Menschliches, Allzumenschliches [vol. 1], 1878"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Nietzsche (nietzsche)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "the mature works for which Nietzsche is best known"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1878 (year; years_seen: people/nietzsche)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "Human, All-too-human (1878)"
+        },
+        {
+          "url": "https://iep.utm.edu/nietzsch/",
+          "quote": "Human, All Too Human (Menschliches, Allzumenschliches [vol. 1], 1878"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tập 1 năm 1878, tập 2 năm 1879–1880 (IEP). Có thể thêm year_note: \"tập 1; tập 2 năm 1879–1880\"."
+}

@@ -1,0 +1,49 @@
+{
+  "unit": "works/kierkegaard.kjerlighedens-gjerninger",
+  "hash": "sha256:9dafa807d172f736e3d7dba1a99f8a1dbcf96a8ec6668d8d5f511d693b300990",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo15",
+  "claims": [
+    {
+      "text": "titles: Kjerlighedens Gjerninger",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tekster.kb.dk/text/sks-kg-txt-root",
+          "quote": "Kjerlighedens Gjerninger Kierkegaard, Søren",
+          "where": "Det Kgl. Bibliotek, Søren Kierkegaards Skrifter"
+        }
+      ]
+    },
+    {
+      "text": "author: kierkegaard (Søren Kierkegaard)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tekster.kb.dk/text/sks-kg-txt-root",
+          "quote": "Forfatter: Søren Kierkegaard"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Works of Love: Some Christian Reflections in the Form of Discourses by S. Kierkegaard"
+        }
+      ]
+    },
+    {
+      "text": "year: 1847 (people/kierkegaard)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Works of Love (1847)",
+          "where": "Chronology / Life and Works"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ký tên thật S. Kierkegaard."
+}

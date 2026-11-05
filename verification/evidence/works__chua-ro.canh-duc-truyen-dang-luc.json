@@ -1,0 +1,43 @@
+{
+  "unit": "works/chua-ro.canh-duc-truyen-dang-luc",
+  "hash": "sha256:e0e167ea7b79f8db5ea9e264984acb58e9c262e8626c3beb5d84bf6f5a206860",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: Cảnh Đức truyền đăng lục (景德傳燈錄)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84",
+          "quote": "景德傳燈録作者：道原"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Đạo Nguyên (道原)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84",
+          "quote": "作者：道原"
+        }
+      ]
+    },
+    {
+      "text": "year: 1004 (people/tran-nhan-tong)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84",
+          "quote": "北宋1004年"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Đạo Nguyên (道原, biên soạn)\nWikisource tiếng Trung (trang 傳燈錄, chuyển hướng từ 景德傳燈錄) ghi 'Đạo Nguyên, Bắc Tống, năm 1004'. CBETA (T2076) không đọc được bằng curl (trang tải bằng JS). Không thấy khóa trùng trong works.yml."
+}

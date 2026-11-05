@@ -1,0 +1,74 @@
+{
+  "unit": "works/chua-ro.phenomenologie-de-lesprit",
+  "hash": "sha256:2d9ff56ccf8f7a304ab5fc94607c128926e52e6e627bd6cb4e46db1c68c43f16",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo11",
+  "claims": [
+    {
+      "text": "titles: Phénoménologie de l’esprit",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "titles: “La Phénoménologie de l’esprit et son contenu réel” (bài của Trần Đức Thảo trên Les Temps modernes, 1948). Nhan đề hiện bị cắt còn \"Phénoménologie de l’esprit\", trùng với nhan đề tiếng Pháp của sách Hegel; đúng như dòng title trong data/people/tran-duc-thao.yml.",
+      "sources": [
+        {
+          "url": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao",
+          "quote": "In 1948, he wrote ‘The Phenomenology of Spirit in its Real Content’, a critical review for Les Temps modernes"
+        },
+        {
+          "url": "https://ipernity.com/blog/235050/512209",
+          "quote": "The first formulation of this project was made in an article published in 1948 in Les Temps Modernes: \"The Phenomenology of Mind in Its Real Content\""
+        }
+      ]
+    },
+    {
+      "text": "author_name: “La",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "author: tran-duc-thao (Trần Đức Thảo); bỏ author_name \"“La\" (mảnh vỡ do tách nhan đề).",
+      "sources": [
+        {
+          "url": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao",
+          "quote": "In 1948, he wrote ‘The Phenomenology of Spirit in its Real Content’, a critical review for Les Temps modernes"
+        },
+        {
+          "url": "https://ipernity.com/blog/235050/512209",
+          "quote": "The first formulation of this project was made in an article published in 1948 in Les Temps Modernes: \"The Phenomenology of Mind in Its Real Content\""
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Trần Đức Thảo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao",
+          "quote": "In 1948, he wrote ‘The Phenomenology of Spirit in its Real Content’, a critical review for Les Temps modernes"
+        },
+        {
+          "url": "https://ipernity.com/blog/235050/512209",
+          "quote": "The first formulation of this project was made in an article published in 1948 in Les Temps Modernes: \"The Phenomenology of Mind in Its Real Content\""
+        }
+      ]
+    },
+    {
+      "text": "year: 1948 (people/tran-duc-thao)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao",
+          "quote": "In 1948, he wrote ‘The Phenomenology of Spirit in its Real Content’, a critical review for Les Temps modernes"
+        },
+        {
+          "url": "https://ipernity.com/blog/235050/512209",
+          "quote": "The first formulation of this project was made in an article published in 1948 in Les Temps Modernes: \"The Phenomenology of Mind in Its Real Content\""
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "attribution: Trần Đức Thảo. Không trùng khóa nào khác: là bài phê bình cách đọc Hegel của Kojève, không phải sách Hegel (chua-ro.phenomenology-of-spirit, chua-ro.hien-tuong-hoc-tinh-than). Hai nguồn mở được chỉ ghi nhan đề dịch tiếng Anh (\"The Phenomenology of Spirit in its Real Content\" / \"The Phenomenology of Mind in Its Real Content\"); nhan đề tiếng Pháp lấy theo data/people/tran-duc-thao.yml, chưa đối chiếu được với bản in gốc. Câu văn trên trang (people/tran-duc-thao) đúng; lỗi chỉ nằm ở bản ghi kho do bộ tách nhan đề."
+}

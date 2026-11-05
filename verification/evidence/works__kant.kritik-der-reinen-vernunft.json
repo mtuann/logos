@@ -1,0 +1,48 @@
+{
+  "unit": "works/kant.kritik-der-reinen-vernunft",
+  "hash": "sha256:285b6b3349cfd92932ae9651f2a36f8abd057bf2e591c946a972d30d2541ba52",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo15",
+  "claims": [
+    {
+      "text": "titles: Kritik der reinen Vernunft",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/Kant/aa04/001.html",
+          "quote": "Kant: AA IV, Kritik der reinen Vernunft ... , Seite 001",
+          "where": "AA IV, S. 001 (bản A, trang tên sách)"
+        }
+      ]
+    },
+    {
+      "text": "author: kant (Immanuel Kant)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/Kant/aa04/001.html",
+          "quote": "03 reinen Vernunft 04 von 05 Immanuel Kant, 06 Professor in Königsberg. 07 1781."
+        }
+      ]
+    },
+    {
+      "text": "year: 1781 (people/kant)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "the Critique of Pure Reason (1781, 1787)"
+        },
+        {
+          "url": "https://korpora.org/Kant/aa04/001.html",
+          "quote": "06 Professor in Königsberg. 07 1781."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "year_note: bản A 1781; bản B sửa lớn 1787."
+}

@@ -1,0 +1,34 @@
+{
+  "unit": "works/aristotle.physica",
+  "hash": "sha256:1d8ca9b8d9c976d12ec20c47e1b18d1b4d648cf25d4d8c18c7b55dc3e0ac42c3",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo07",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Physica",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/aristotl/",
+          "quote": "Phys. Physica Physics",
+          "where": "bảng viết tắt"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Aristotle (aristotle)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/aristotl/",
+          "quote": "Phys. Physica Physics",
+          "where": "bảng viết tắt tác phẩm của Aristotle"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả."
+}

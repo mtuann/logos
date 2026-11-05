@@ -1,0 +1,47 @@
+{
+  "unit": "works/pascal.traite-du-triangle-arithmetique",
+  "hash": "sha256:d88553178ab7cd8b2831a03364bb8eb5c3413d39a63109eb78c09664be6d2a9f",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo18",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Traité du triangle arithmétique",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "He summarized his findings in the Traité du triangle arithmétique"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Blaise Pascal (pascal)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "Pascal’s “Treatise on the Arithmetical Triangle,” which he composed in 1653"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1653 (year; years_seen: people/pascal)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "which he composed in 1653. (He sent a copy of this document to Fermat during their correspondence, but it was never published until after his death"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "remained unpublished until after his death"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "1653 là năm soạn (IEP), không phải năm in: SEP và IEP đều nói tác phẩm chỉ in sau khi Pascal mất (1662). Trang người ghi đúng '(1653–1654) ... in sau khi ông mất', nên chấp nhận 1653 theo nghĩa năm soạn. Đề xuất year_note: 'soạn 1653–54, in sau khi ông mất'. Không tìm được trong nguồn đã mở năm in cụ thể (thường nói 1665); không ghi năm này."
+}

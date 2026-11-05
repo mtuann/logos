@@ -1,0 +1,48 @@
+{
+  "unit": "works/chua-ro.de-anima",
+  "hash": "sha256:41c33ea3699ab4dced0c5cd66cfa4a447d3dd5b64c4779656be12760c381eea5",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo09",
+  "claims": [
+    {
+      "text": "titles: De Anima (ngữ cảnh: 'Chú giải lớn về De Anima của Aristotle')",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Long Commentary (1186) Survives only in Latin: Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros"
+        }
+      ],
+      "severity": "vua",
+      "fix": "titles: Chú giải lớn về De Anima của Aristotle (Commentarium magnum in Aristotelis De anima libros / Long Commentary on De Anima). Tên 'De Anima' một mình là tác phẩm của Aristotle, không phải tác phẩm năm 1186."
+    },
+    {
+      "text": "tác giả: author_name 'Chú giải lớn về' (trình rút cắt nhầm tên tác phẩm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Long Commentary (1186) Survives only in Latin: Averrois Cordubensis Commentarium magnum"
+        }
+      ],
+      "severity": "nghiem-trong",
+      "fix": "attribution: Averroes (Ibn Rushd); bỏ author_name 'Chú giải lớn về'. Tác phẩm được chú giải là De anima của Aristotle."
+    },
+    {
+      "text": "year: 1186 (people/averroes) — năm của Chú giải lớn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Long Commentary (1186)",
+          "where": "Bibliography, các bản chú giải De anima"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "attribution: Averroes (Ibn Rushd)\nBản ghi kho trộn tên tác phẩm của Aristotle với bản chú giải của Averroes: dòng hồ sơ là 'Chú giải lớn về *De Anima* của Aristotle', trình rút lấy phần chữ nghiêng làm tên và phần đứng trước làm tên tác giả. Năm 1186 đúng cho Chú giải lớn (SEP ibn-rushd ghi thêm Epitome c. 1158–1160 và Paraphrase/Chú giải trung 1172/1181). Không có khóa aristotle.de-anima hay averroes.* tương ứng trong works.yml."
+}

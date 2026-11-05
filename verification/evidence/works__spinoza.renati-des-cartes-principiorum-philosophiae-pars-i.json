@@ -1,0 +1,51 @@
+{
+  "unit": "works/spinoza.renati-des-cartes-principiorum-philosophiae-pars-i",
+  "hash": "sha256:825a064a82b189fff37165b704ebb98697c15ef0e951343b4dbcec8751b03f0b",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo19",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Renati Des Cartes Principiorum Philosophiae Pars I et II (Nguyên lý triết học của Descartes, phần I và II)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/spinoza/",
+          "quote": "René Descartes’s Principles of Philosophy, Parts I and II, Demonstrated According to the Geometric Method by Benedict de Spinoza of Amsterdam"
+        },
+        {
+          "url": "https://la.wikisource.org/wiki/Scriptor:Benedictus_de_Spinoza",
+          "quote": "Renati Descartes principia philosophiae more geometrico demonstrata (1663)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Spinoza (spinoza)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/spinoza/",
+          "quote": "The result was the only work that he was to publish under his own name"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1663 (year; years_seen: people/spinoza)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "His critical exposition of Descartes’s Principles of Philosophy, the only work he published under his own name in his lifetime, was completed in 1663"
+        },
+        {
+          "url": "https://la.wikisource.org/wiki/Scriptor:Benedictus_de_Spinoza",
+          "quote": "Renati Descartes principia philosophiae more geometrico demonstrata (1663)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn đã mở ghi tên Latin dạng rút gọn ('Renati Descartes principia philosophiae more geometrico demonstrata', Wikisource Latin) và tên Anh đầy đủ (IEP); chưa mở được trang tên sách bản 1663 để đối chiếu đúng từng chữ dạng 'Principiorum Philosophiae Pars I et II', nhưng dạng này khớp nội dung 'Parts I and II'. Năm 1663: SEP ghi 'completed in 1663', Wikisource Latin ghi (1663)."
+}

@@ -1,0 +1,43 @@
+{
+  "unit": "works/chua-ro.principia",
+  "hash": "sha256:3df57bff95beaa51a7a356cc265e931a86ca71178c7c9e44a1a70fe8c9a8207f",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo12",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Principia (tên gọi tắt của Philosophiae Naturalis Principia Mathematica)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/newton-principia/",
+          "quote": "Newton, Isaac, Philosophiae Naturalis Principia Mathematica (“Mathematical Principles of Natural Philosophy”), London, 1687"
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Isaac Newton",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/newton/",
+          "quote": "He became a dominant figure in Britain almost immediately following publication of his Principia in 1687"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1687 (year; years_seen: lich-su/can-dai.md#_dau)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/newton/",
+          "quote": "He became a dominant figure in Britain almost immediately following publication of his Principia in 1687"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Isaac Newton. Không trùng khóa nào khác trong data/kb/works.yml (russell.principia-mathematica và descartes.principia-philosophiae là tác phẩm khác). 'Principia' là tên gọi tắt của Philosophiae Naturalis Principia Mathematica; in lần 2 năm 1713, lần 3 năm 1726."
+}

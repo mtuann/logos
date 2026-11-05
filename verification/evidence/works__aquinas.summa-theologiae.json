@@ -1,0 +1,47 @@
+{
+  "unit": "works/aquinas.summa-theologiae",
+  "hash": "sha256:b432e5e434d05283d4292b97089188a673ec1c84e43c88dca00ed07a18d298bd",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo07",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Summa Theologiae",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Summa theologiae (1267–73, unfinished after 3a 90)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Thomas Aquinas (aquinas)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Aquinas’s masterpiece, which he began in Rome"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1265 (year; years_seen: people/aquinas)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/aquinas/",
+          "quote": "Summa theologiae (Synopsis of Theology) [ST], 1265-1268 (Prima Pars)"
+        },
+        {
+          "url": "https://iep.utm.edu/aquinas/",
+          "quote": "It was during this period, perhaps in Rome, that Thomas began work on his magisterial Summa theologiae"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn khác nhau về năm khởi soạn: IEP ghi Prima Pars 1265–1268 (khớp 1265); SEP ghi 1267–73. Giữ 1265 có căn cứ; đề xuất year_note: 'khởi soạn 1265 (IEP) hoặc 1267 (SEP), bỏ dở 1273'. Chủ biên có thể chọn."
+}

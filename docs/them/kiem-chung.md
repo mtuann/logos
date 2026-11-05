@@ -10,8 +10,6 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 
 <!-- gen:kiem-chung: không sửa tay; sinh bằng tools/verification_page.py -->
 
-Việc kiểm chứng chưa bắt đầu: các con số dưới đây sẽ tăng dần.
-
 ## Bài viết {#bai-viet}
 
 | Mảng | Số mục | Đã kiểm | Đã đóng băng | Tỉ lệ đóng băng |

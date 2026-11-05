@@ -1,0 +1,89 @@
+{
+  "unit": "people/thales",
+  "hash": "sha256:c8ad3303d4d90a72d9ff6cca7180f5404dabdcbe39ecb46975dcd1c28ffb5db2",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo01",
+  "claims": [
+    {
+      "text": "name: Thales; name_en: Thales of Miletus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "Thales of Miletus (c. 620 B.C.E.—c. 546 B.C.E.)",
+          "where": "đầu mục"
+        }
+      ]
+    },
+    {
+      "text": "born: -624 (years_label: k. 624–546 TCN)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "Thales of Miletus (c. 620 B.C.E.—c. 546 B.C.E.)",
+          "where": "đầu mục"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "born: -620; years_label: k. 620–546 TCN"
+    },
+    {
+      "text": "died: -546 (years_label: k. 624–546 TCN)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "Thales of Miletus (c. 620 B.C.E.—c. 546 B.C.E.)",
+          "where": "đầu mục"
+        }
+      ]
+    },
+    {
+      "text": "school: Tiền Socrates",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "three of the great pre-Socratics, eminent philosophers who were familiar with the work of Thales"
+        },
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "The Milesian School"
+        }
+      ]
+    },
+    {
+      "text": "summary: Hỏi muôn vật từ đâu mà ra và trả lời bằng tự nhiên (nước) thay cho thần thoại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "For Thales, this nature was a single material substance, water."
+        },
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "Thales supplanted myth in his explanations of the behaviour of natural phenomena"
+        }
+      ]
+    },
+    {
+      "text": "summary: được Aristotle coi là triết gia đầu tiên",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thales/",
+          "quote": "Aristotle acknowledged Thales as the first philosopher"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "SEP không có mục riêng về Thales (archives/fall2026/entries/thales/ trả 'Document Not Found'); dùng IEP. IEP ghi c. 620 TCN cho năm sinh; bản ghi ghi 624 (con số theo truyền thống cổ, nhưng nguồn đã mở không nêu 624). Lệch vài năm trong một năm ước đoán đã có 'k.', nên chỉ xếp mức nhẹ; chủ biên quyết giữ 624 hay theo IEP."
+}

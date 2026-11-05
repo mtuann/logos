@@ -1,0 +1,51 @@
+{
+  "unit": "works/chua-ro.sieu-hinh-hoc",
+  "hash": "sha256:7e579f81a071e34f66abe2480aa304549b9611e4cc0cc83886a3efd32e0bcd67",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo12",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Siêu hình học (Metaphysics của Aristotle)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "In keeping with Aristotle’s remarks in Metaphysics XII.7"
+        }
+      ]
+    },
+    {
+      "text": "Tác phẩm được nhắc là Chú giải lớn (Long Commentary) của Ibn Rushd/Averroes về Siêu hình học của Aristotle, soạn sau 1190 (trang ghi 'sau 1190')",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Long Commentary (after 1190) Extant in Arabic: Tafsīr Mā baʿd al-ṭabīʿa",
+          "where": "Bibliography, Metaphysics"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "In his Long Commentary on the Metaphysics (I.2 {10})"
+        }
+      ]
+    },
+    {
+      "text": "author_name: Chú giải lớn về",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Long Commentary (after 1190) Extant in Arabic: Tafsīr Mā baʿd al-ṭabīʿa",
+          "where": "Bibliography, Metaphysics"
+        }
+      ],
+      "severity": "vua",
+      "fix": "'Chú giải lớn về' không phải tên tác giả mà là phần đầu nhan đề, bị tách nhầm. Hoặc sửa bản ghi thành tác phẩm của averroes, titles 'Chú giải lớn về Siêu hình học' (Tafsīr Mā baʿd al-ṭabīʿa), year_note 'sau 1190'; hoặc nếu chỉ giữ 'Siêu hình học' thì author_name: Aristotle và gộp vào aristotle.metaphysica."
+    }
+  ],
+  "result": "sua",
+  "notes": "attribution: Aristotle (cho Siêu hình học); tác phẩm thực sự được nhắc ở people/averroes là Chú giải lớn về Siêu hình học của Ibn Rushd (Averroes), sau 1190. trung-voi: aristotle.metaphysica (nếu bản ghi là Siêu hình học của Aristotle; cũng gần với chua-ro.metaphysica). Đề xuất tách thành khóa riêng averroes.<...> cho bộ chú giải. year null, years_seen rỗng nên không kiểm năm."
+}

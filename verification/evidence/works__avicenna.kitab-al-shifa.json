@@ -1,0 +1,36 @@
+{
+  "unit": "works/avicenna.kitab-al-shifa",
+  "hash": "sha256:242f5cc3d9a3e4093515f494f083d37562b55eb7ded1bcfa811129428830a7f7",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo08",
+  "claims": [
+    {
+      "text": "titles: Kitab al-Shifa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-sina/",
+          "quote": "He completed there his major work, The Cure (al-Shifāʾ, GS 5)"
+        },
+        {
+          "url": "https://iep.utm.edu/avicenna/",
+          "quote": "whose major summa the Cure (al-Shifa’)"
+        }
+      ]
+    },
+    {
+      "text": "author: avicenna (Avicenna)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-sina/",
+          "quote": "He completed there his major work, The Cure (al-Shifāʾ, GS 5)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "year null, years_seen rỗng: chỉ kiểm tên và tác giả. Nguồn ghi 'al-Shifāʾ' (The Cure); 'Kitab' chỉ là 'sách', tên hợp lý."
+}

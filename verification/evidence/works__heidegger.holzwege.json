@@ -1,0 +1,43 @@
+{
+  "unit": "works/heidegger.holzwege",
+  "hash": "sha256:3e5efb140b22498fa525e77770eac9233fb1fb2273cf2bc97adf0ee3c2402b0b",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo14",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Holzwege",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "GA5 Holzwege, lectures given between 1935 and 1946, first published in 1950"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Martin Heidegger (heidegger)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/heidegge/",
+          "quote": "Holzwege (1935-46)."
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1950 (year; years_seen: people/heidegger)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "GA5 Holzwege, lectures given between 1935 and 1946, first published in 1950"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "IEP ghi '(1935-46)' là năm soạn các bài; SEP ghi in lần đầu 1950. 1950 đúng theo quy tắc năm công bố. Có thể thêm year_note: 'các bài soạn 1935–46'."
+}

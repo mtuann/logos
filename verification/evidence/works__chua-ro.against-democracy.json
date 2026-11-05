@@ -1,0 +1,57 @@
+{
+  "unit": "works/chua-ro.against-democracy",
+  "hash": "sha256:9a3349f258c432a26f7985ea74b206e286dd21a526d8a25ad5760eb1f7aa9a2b",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo08",
+  "claims": [
+    {
+      "text": "titles: Against Democracy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "–––, 2016, Against Democracy, Princeton: Princeton University Press.",
+          "where": "Bibliography"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=against+democracy+brennan&fields=title,author_name,first_publish_year,publisher,isbn&limit=3",
+          "quote": "\"title\":\"Against Democracy\""
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Jason Brennan",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Brennan, Jason, 2011, The Ethics of Voting",
+          "where": "Bibliography (mục kế tiếp ––– 2016 cùng tác giả)"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=against+democracy+brennan&fields=title,author_name,first_publish_year,publisher,isbn&limit=3",
+          "quote": "\"author_name\":[\"Jason Brennan\"],\"first_publish_year\":2016"
+        }
+      ]
+    },
+    {
+      "text": "year: 2016 (cau-hoi/ai-nen-cai-tri.md#cac-lap-truong-chinh, #doc-van-ban-goc, #gioi-triet-hoc-ngay-nay-nghi-gi)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "–––, 2016, Against Democracy, Princeton: Princeton University Press."
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=against+democracy+brennan&fields=title,author_name,first_publish_year,publisher,isbn&limit=3",
+          "quote": "\"first_publish_year\":2016"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Jason Brennan. Không trùng khóa nào khác trong data/kb/works.yml. Trang Princeton University Press chặn truy cập tự động (Cloudflare); dùng SEP 'democracy' và catalog Open Library."
+}

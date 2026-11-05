@@ -1,0 +1,68 @@
+{
+  "unit": "works/chua-ro.stoicorum-veterum-fragmenta",
+  "hash": "sha256:7514ae5cf0f806432dc9843b7512508c5a0d66437f6a02b53f61dbb466d2b394",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo12",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Stoicorum Veterum Fragmenta",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "von Arnim’s Stoicorum Veterum Fragmenta (SVF), gathered fragments of Stoic works and testimonia in their original Greek and Latin into a three-volume set in 1903–5."
+        }
+      ]
+    },
+    {
+      "text": "tác giả: Hans von Arnim (author_name: von Arnim; người biên tập/sưu tập)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "von Arnim’s Stoicorum Veterum Fragmenta (SVF)"
+        },
+        {
+          "url": "https://archive.org/download/stoicorumveterum0001arni/stoicorumveterum0001arni_djvu.txt",
+          "quote": "COLLEGIT IOANNES 4B ARNIM VOLUMEN I ZENO ET ZENONIS DISCIPULI"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1903 (year; years_seen: people/zeno)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "into a three-volume set in 1903–5."
+        },
+        {
+          "url": "https://archive.org/metadata/stoicorumveterum0001arni",
+          "quote": "II. Chrysippi fragmenta logica et physica. 1903."
+        }
+      ]
+    },
+    {
+      "text": "Tập I (trang people/zeno dẫn 'tập I', năm hiển thị 1903–1905)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/stoicorumveterum0001arni",
+          "quote": "I. Zeno et Zenonis discipuli. 1905."
+        },
+        {
+          "url": "https://archive.org/download/stoicorumveterum0001arni/stoicorumveterum0001arni_djvu.txt",
+          "quote": "VOLUMEN I ZENO ET ZENONIS DISCIPULI"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Tập I (Zeno et Zenonis discipuli) in năm 1905; tập II và III năm 1903. people/zeno ghi 'tập I' với năm 1903–1905: nên ghi 1905, hoặc giữ 1903–1905 và bỏ chữ 'tập I'. Đề xuất year_note cho bản ghi: 'bộ ba tập 1903–05; tập I năm 1905'."
+    }
+  ],
+  "result": "dat",
+  "notes": "attribution: Hans von Arnim (người sưu tập, biên tập). Không trùng khóa nào khác trong data/kb/works.yml. Năm 1903 đúng cho bộ (tập II, III 1903; tập I 1905; tập IV chỉ mục của M. Adler 1924). Chỗ lệch nhẹ ở people/zeno: dẫn tập I nhưng năm ghi cả bộ. Trang tiêu đề tập I có số La Mã MCMV (1905) trong bản quét archive.org."
+}

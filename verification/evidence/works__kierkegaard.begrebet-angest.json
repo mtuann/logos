@@ -1,0 +1,49 @@
+{
+  "unit": "works/kierkegaard.begrebet-angest",
+  "hash": "sha256:ee77a83b9a6769243457be3afb904018d2517bfb44b6a60dc66b1544a4fe73fb",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo15",
+  "claims": [
+    {
+      "text": "titles: Begrebet Angest",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tekster.kb.dk/text/sks-ba-txt-root",
+          "quote": "Begrebet Angest Kierkegaard, Søren",
+          "where": "Det Kgl. Bibliotek, Søren Kierkegaards Skrifter"
+        }
+      ]
+    },
+    {
+      "text": "author: kierkegaard (Søren Kierkegaard)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tekster.kb.dk/text/sks-ba-txt-root",
+          "quote": "Forfatter: Søren Kierkegaard"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "The Concept of Anxiety (1844)"
+        }
+      ]
+    },
+    {
+      "text": "year: 1844 (people/kierkegaard)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "The Concept of Anxiety (1844)",
+          "where": "Chronology / Life and Works"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bút danh Vigilius Haufniensis."
+}

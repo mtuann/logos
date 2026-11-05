@@ -1,0 +1,55 @@
+{
+  "unit": "works/spinoza.tractatus-theologico-politicus",
+  "hash": "sha256:906b2158d64afed34d17b29059fe72cd3aa8b8981239e6253c6c1c4020a40785",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo19",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Tractatus theologico-politicus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/ned-kbn-all-00004178-001/metadata",
+          "quote": "\"title\": \"Tractatus theologico-politicus continens dissertationes aliquot"
+        },
+        {
+          "url": "https://la.wikisource.org/wiki/Scriptor:Benedictus_de_Spinoza",
+          "quote": "Tractatus theologico-politicus (1670)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Spinoza (spinoza)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/spinoza/",
+          "quote": "This was the Theological-Political Treatise, which he completed and published anonymously in 1670."
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1670 (year; years_seen: people/spinoza)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "Theological-Political Treatise, published anonymously and to great alarm in 1670"
+        },
+        {
+          "url": "https://iep.utm.edu/spinoza/",
+          "quote": "which he completed and published anonymously in 1670"
+        },
+        {
+          "url": "https://archive.org/metadata/ned-kbn-all-00004178-001/metadata",
+          "quote": "\"date\": \"1670\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "In ẩn danh năm 1670, nơi in ghi giả là Hamburg (bản ghi KB trên Internet Archive: 'H. Künrath is pseud. van J. Rieuwertsz in Amsterdam')."
+}

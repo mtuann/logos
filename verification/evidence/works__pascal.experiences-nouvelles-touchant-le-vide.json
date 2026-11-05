@@ -1,0 +1,51 @@
+{
+  "unit": "works/pascal.experiences-nouvelles-touchant-le-vide",
+  "hash": "sha256:d8daa13d04ae2907d5f08b82829cf5dffcde0fd7716f8e3607a4ff675cdb65ba",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo18",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Expériences nouvelles touchant le vide",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "published Expériences nouvelles touchant la vide in 1647"
+        },
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "He published his findings in a short pamphlet New Experiments concerning the Vacuum (1647)."
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Blaise Pascal (pascal)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "Pascal performed experiments with mercury barometers initially in Rouen and Paris, and published Expériences nouvelles touchant la vide in 1647"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1647 (year; years_seen: people/pascal)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "published Expériences nouvelles touchant la vide in 1647"
+        },
+        {
+          "url": "https://iep.utm.edu/pascal/",
+          "quote": "New Experiments concerning the Vacuum (1647)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "SEP viết 'touchant la vide' (lỗi đánh máy của SEP; 'vide' giống đực, IEP dịch 'concerning the Vacuum'). Tên trong bản ghi 'touchant le vide' là đúng ngữ pháp, giữ nguyên."
+}

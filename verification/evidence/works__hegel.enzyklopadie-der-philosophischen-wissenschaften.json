@@ -1,0 +1,43 @@
+{
+  "unit": "works/hegel.enzyklopadie-der-philosophischen-wissenschaften",
+  "hash": "sha256:89a8a60f0a2b2a5e2cebbecbbfdb0656a1277cc6dedbf2b0e98c47a972ae7f7d",
+  "checked_on": "2026-11-05",
+  "checker": "agent-kiem-5.1-lo14",
+  "claims": [
+    {
+      "text": "Tác phẩm có thật, tên: Enzyklopädie der philosophischen Wissenschaften",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "the Encyclopaedia of Philosophical Sciences, first published in 1817 while he was teaching at Heidelberg"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: G. W. F. Hegel (hegel)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "works that were published at the time as handbooks for use in student teaching, such as the Encyclopaedia of Philosophical Sciences"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1817 (year; years_seen: people/hegel)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "first published in 1817 while he was teaching at Heidelberg and subsequently revised and republished in 1827 and again in 1830"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản sửa 1827 và 1830. Đề xuất year_note: 'in lần đầu 1817; bản sửa 1827, 1830'."
+}
