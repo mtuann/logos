@@ -18,6 +18,8 @@ theo đúng thứ tự nav trong mkdocs.yml:
 - Các <div class="oz-..."> chứa công cụ tương tác khác được thay bằng dòng
   chú thích "[Công cụ tương tác — trải nghiệm trên web]".
 - Link tương đối trong bài được viết lại cho đúng khi nhìn từ docs/them/.
+- Khối thời sự `[[thoi-su:…]]` được mở ra trước (link trong khối viết theo trang gốc); shortcode khác giữ
+  nguyên, hook kb.py in số khi build trang sách.
 
     python3 tools/book.py          # sinh lại
     python3 tools/book.py --check  # báo lỗi nếu file sinh lệch nội dung
@@ -37,6 +39,19 @@ DOCS = os.path.join(ROOT, "docs")
 THEM = os.path.join(DOCS, "them")
 BOOK_PAGE = os.path.join(THEM, "sach.md")
 NAV = os.path.join(ROOT, "mkdocs.yml")
+
+sys.path.insert(0, os.path.join(ROOT, "hooks"))
+import kb  # noqa: E402
+from pathlib import Path  # noqa: E402
+
+_THOI_SU: dict | None = None
+
+
+def thoi_su_blocks() -> dict:
+    global _THOI_SU
+    if _THOI_SU is None:
+        _THOI_SU = kb.load_thoi_su(Path(ROOT))
+    return _THOI_SU
 
 SECTIONS = ["Bắt đầu", "Công cụ tư duy", "Câu hỏi lớn", "Lịch sử", "Đọc văn bản"]
 
@@ -272,6 +287,8 @@ def load_articles(
             meta, body = parse_front_matter(text)
             title = meta.get("title") or nav_title
             body = H2_ID_RE.sub(r"\1", body)
+            if "[[thoi-su:" in body:
+                body = kb.expand_thoi_su(body, thoi_su_blocks(), rel)
             body = rewrite_links(body, rel)
             body = strip_tool_divs(body)
             articles.append(
