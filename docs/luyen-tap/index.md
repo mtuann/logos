@@ -13,7 +13,7 @@ tier: he-thong
 
 -   **[Nhận ra ngụy biện](nguy-bien.md)**
 
-    100 đoạn hội thoại đời thường: gia đình, công sở, quảng cáo, mạng xã hội. Có cả những đoạn *không* mắc lỗi nào.
+    [[count:nguy-bien]] đoạn hội thoại đời thường: gia đình, công sở, quảng cáo, mạng xã hội. Có cả những đoạn *không* mắc lỗi nào.
 
 -   **[Thẻ ghi nhớ thuật ngữ](the-ghi-nho.md)**
 

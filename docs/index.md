@@ -58,7 +58,7 @@ tier: he-thong
 
     ---
 
-    15 bài: lập luận, suy diễn, quy nạp, điều kiện cần và đủ, giả định ngầm, ngụy biện, thí nghiệm tư duy, sơ đồ hóa lập luận. Những công cụ mà triết gia nào cũng dùng hằng ngày.
+    [[count:cong-cu]] bài: lập luận, suy diễn, quy nạp, điều kiện cần và đủ, giả định ngầm, ngụy biện, thí nghiệm tư duy, sơ đồ hóa lập luận. Những công cụ mà triết gia nào cũng dùng hằng ngày.
 
     [Vào hộp công cụ →](cong-cu/index.md)
 
@@ -66,7 +66,7 @@ tier: he-thong
 
     ---
 
-    57 câu hỏi chưa ngã ngũ: tri thức và chân lý, tâm trí và AI, tự do, đạo đức, chính trị, cái đẹp, tôn giáo, siêu hình, ý nghĩa cuộc sống, tư tưởng Việt Nam. Mỗi bài có các lập trường mạnh nhất, phản bác, và giới triết học hôm nay nghĩ gì.
+    [[count:cau-hoi]] câu hỏi chưa ngã ngũ: tri thức và chân lý, tâm trí và AI, tự do, đạo đức, chính trị, cái đẹp, tôn giáo, siêu hình, ý nghĩa cuộc sống, tư tưởng Việt Nam. Mỗi bài có các lập trường mạnh nhất, phản bác, và giới triết học hôm nay nghĩ gì.
 
     [Xem các câu hỏi →](cau-hoi/index.md)
 
@@ -74,7 +74,7 @@ tier: he-thong
 
     ---
 
-    19 hướng dẫn đọc chậm: Platon, Aristotle, Epictetus, Descartes, Hume, Kant, Mill, Sartre, *Luận ngữ*, *Đạo đức kinh*, *Tâm kinh*, *Bình Ngô đại cáo*… kèm nguyên văn và bản dịch.
+    [[count:doc]] hướng dẫn đọc chậm: Platon, Aristotle, Epictetus, Descartes, Hume, Kant, Mill, Sartre, *Luận ngữ*, *Đạo đức kinh*, *Tâm kinh*, *Bình Ngô đại cáo*… kèm nguyên văn và bản dịch.
 
     [Đọc cùng nhau →](doc/index.md)
 
@@ -90,7 +90,7 @@ tier: he-thong
 
     ---
 
-    Nhận ra ngụy biện trong 100 đoạn hội thoại đời thường, thẻ ghi nhớ thuật ngữ, ôn tập ngắt quãng và một kế hoạch học tự điều chỉnh theo tiến độ của bạn.
+    Nhận ra ngụy biện trong [[count:nguy-bien]] đoạn hội thoại đời thường, thẻ ghi nhớ thuật ngữ, ôn tập ngắt quãng và một kế hoạch học tự điều chỉnh theo tiến độ của bạn.
 
     [Luyện tay →](luyen-tap/index.md)
 

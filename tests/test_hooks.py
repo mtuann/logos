@@ -77,7 +77,8 @@ class TestKbShortcode(unittest.TestCase):
 
     def test_counts_match_registry(self):
         expect = {"cau-hoi": "57", "cong-cu": "15", "lich-su": "8", "doc": "19", "triet-gia": "59",
-                  "bat-dau": "1", "cau-hoi/dao-duc": "7", "cau-hoi/viet-nam": "3"}
+                  "bat-dau": "1", "cau-hoi/dao-duc": "7", "cau-hoi/viet-nam": "3",
+                  "nguy-bien": "100", "thuat-ngu": "249", "quiz": "428"}
         for key, n in expect.items():
             self.assertEqual(kb.expand(f"[[count:{key}]]", self.reg), n, key)
 
@@ -86,7 +87,8 @@ class TestKbShortcode(unittest.TestCase):
         self.assertEqual(kb.expand(src, self.reg), "Có 57 bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n")
 
     def test_unknown_kind_or_key_stops_build(self):
-        for bad in ("[[count:khong-co]]", "[[count:cau-hoi/khong-co]]", "[[fact:kant]]", "[[count:he-thong]]"):
+        for bad in ("[[count:khong-co]]", "[[count:cau-hoi/khong-co]]", "[[fact:kant]]", "[[count:he-thong]]",
+                    "[[count:quiz/cong-cu]]"):
             with self.assertRaises(kb.PluginError, msg=bad) as cm:
                 kb.expand(bad, self.reg, "x.md")
             self.assertIn("x.md: shortcode", str(cm.exception))

@@ -9,7 +9,7 @@ tier: he-thong
 
 Triết học không phải một danh sách "ai nói gì, năm nào". Đây là câu chuyện về những câu hỏi được truyền tay qua nhiều thế kỷ: ai đọc ai, ai phản bác ai, và vì sao một câu trả lời từng thuyết phục rồi không còn thuyết phục nữa.
 
-Mỗi bài dưới đây kể một chặng của câu chuyện đó. Nếu muốn nhìn toàn cảnh một lúc, mở [Dòng thời gian triết học](dong-thoi-gian.md): 59 triết gia trên một trục thời gian, từ Thales đến Derek Parfit — hoặc [Sơ đồ ảnh hưởng](so-do-anh-huong.md): ai đọc ai, ai chịu ảnh hưởng của ai. Mỗi triết gia cũng có một [trang tiểu sử riêng](../triet-gia/index.md): cuộc đời, tư tưởng chính và mạng lưới ảnh hưởng hai chiều.
+Mỗi bài dưới đây kể một chặng của câu chuyện đó. Nếu muốn nhìn toàn cảnh một lúc, mở [Dòng thời gian triết học](dong-thoi-gian.md): [[count:triet-gia]] triết gia trên một trục thời gian, từ Thales đến Derek Parfit — hoặc [Sơ đồ ảnh hưởng](so-do-anh-huong.md): ai đọc ai, ai chịu ảnh hưởng của ai. Mỗi triết gia cũng có một [trang tiểu sử riêng](../triet-gia/index.md): cuộc đời, tư tưởng chính và mạng lưới ảnh hưởng hai chiều.
 
 <div class="grid cards" markdown>
 
