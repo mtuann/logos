@@ -88,7 +88,7 @@ def render_graph(data: list, cols: list[str], label: str, uid: str) -> str:
     # role="group" chứ không phải "img": các node là link (axe: nested-interactive).
     a(f'<svg viewBox="{-ARC_PAD} 0 {w + 2 * ARC_PAD} {h}" role="group" '
       f'aria-label="Sơ đồ ảnh hưởng: {html.escape(label)}" '
-      f'xmlns="http://www.w3.org/2000/svg" class="oz-influence">')
+      f'xmlns="http://www.w3.org/2000/svg" class="oz-influence" data-search-exclude>')  # chữ SVG dính liền trong chỉ mục (đợt 4.5)
     a("<style>")
     a(":root{--inf-text:#333;--inf-edge:#8a8a8a;}")
     a("@media (prefers-color-scheme: dark){:root{--inf-text:#ddd;--inf-edge:#777;}}")

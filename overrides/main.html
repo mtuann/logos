@@ -36,3 +36,37 @@
   {% endif %}
   {% if page and page.is_homepage %}</div>{% endif %}
 {% endblock %}
+
+{% block scripts %}
+  {#- Tìm kiếm (đợt 4.5, quyết định 22): worker riêng bỏ dấu tiếng Việt, và chỉ tải search_index.json khi người đọc
+      có ý tìm (rê/chạm vào ô tìm, mở hộp tìm, phím tắt, hoặc trang mở kèm ?q=). Chạy trước bundle của Material. -#}
+  <script>
+    (function () {
+      var el = document.getElementById("__config");
+      var c = JSON.parse(el.textContent);
+      c.search = "{{ 'assets/js/search-worker.js' | url }}";
+      el.textContent = JSON.stringify(c);
+      var go, ready = new Promise(function (r) { go = r; });
+      /* Material 9.8.0 tải chỉ mục bằng XMLHttpRequest (browser/request): hoãn send() của đúng yêu cầu đó. */
+      var open = XMLHttpRequest.prototype.open, send = XMLHttpRequest.prototype.send;
+      XMLHttpRequest.prototype.open = function (m, u) {
+        this.__ozIndex = /search\/search_index\.json/.test(String(u));
+        return open.apply(this, arguments);
+      };
+      XMLHttpRequest.prototype.send = function () {
+        var xhr = this, args = arguments;
+        if (!xhr.__ozIndex) return send.apply(xhr, args);
+        ready.then(function () { send.apply(xhr, args); });
+      };
+      function want(e) {
+        var t = e && e.target;
+        if (!e || (t && t.closest && t.closest(".md-search, label[for='__search']")) || (t && t.id === "__search")) go();
+      }
+      ["pointerover", "pointerdown", "focusin", "change"].forEach(function (ev) { document.addEventListener(ev, want, true); });
+      document.addEventListener("keydown", function (e) { if (/^[sf/]$/.test(e.key)) go(); }, true);
+      if (/[?&]q=/.test(location.search)) go();
+    })();
+  </script>
+  {{ super() }}
+{% endblock %}
+
