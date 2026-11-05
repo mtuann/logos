@@ -104,11 +104,12 @@ class TestKbCheck(unittest.TestCase):
                        "trang không có mục #khong-co", "không có trang docs/cau-hoi/y.md", "used_in people/khong-co"):
             self.assertError(needle)
 
-    def test_author_null_needs_name(self):
+    def test_author_may_be_unknown(self):
+        # Không đoán tác giả: author null hợp lệ (khóa chua-ro.*), gán ở đợt 5.
         d = copy.deepcopy(DATA)
         d["works"]["kant.phe-phan-ly-tinh-thuan-tuy"]["author"] = None
         self.write(d)
-        self.assertError("'author_name' is a required property")
+        self.assertEqual(self.errors(), [])
 
     def test_duplicate_yaml_key(self):
         f = self.root / kc.FILES["people"][0]
