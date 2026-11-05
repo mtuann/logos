@@ -118,6 +118,13 @@ class TestFrontMatterSync(unittest.TestCase):
         e["block"] = "tam-tri"
         self.assertTrue(any("front matter block" in x for x in cr.check(reg, ROOT)))
 
+    def test_data_directory_entry(self):
+        reg = copy.deepcopy(cr.load_registry(ROOT))
+        e = next(x for x in reg["data"] if x["path"] == "data/people/")
+        e["path"] = "data/khong-co/"
+        errors = cr.check(reg, ROOT)
+        self.assertTrue(any("data/khong-co/: không còn thư mục" in x for x in errors), errors)
+
     @staticmethod
     def page_entry(reg, path):
         return next(e for e in reg["pages"] if e["path"] == path)

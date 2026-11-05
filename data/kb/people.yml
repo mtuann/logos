@@ -1,0 +1,781 @@
+# Người có hồ sơ triết gia. Nguồn sự thật cho docs/assets/data/philosophers.json (sinh bởi tools/philosophers.py).
+# Thứ tự = thứ tự hiện ở trang chỉ mục. Schema: schema/kb/people.schema.json. Đặc tả: ban-giao/dot-2.md.
+thales:
+  name: Thales
+  name_en: Thales of Miletus
+  born: -624
+  died: -546
+  years_label: k. 624–546 TCN
+  school: Tiền Socrates
+  summary: Hỏi muôn vật từ đâu mà ra và trả lời bằng tự nhiên (nước) thay cho thần thoại; được Aristotle coi là triết gia đầu tiên.
+  influence: []
+  evidence: []
+  verified: null
+heraclitus:
+  name: Heraclitus
+  name_en: Heraclitus of Ephesus
+  born: -540
+  died: -480
+  years_label: k. 540–480 TCN
+  school: Tiền Socrates
+  summary: Muôn vật biến đổi nhưng theo chừng mực và một logos chung; dòng sông vẫn là nó chính nhờ nước luôn thay.
+  influence:
+  - platon
+  - marcus-aurelius
+  - hegel
+  evidence: []
+  verified: null
+democritus:
+  name: Democritus
+  name_en: Democritus of Abdera
+  born: -460
+  died: -370
+  years_label: k. 460–370 TCN
+  school: Tiền Socrates
+  summary: 'Thuyết nguyên tử: chỉ có nguyên tử và khoảng trống; hạnh phúc là một tâm hồn an vui, không sợ hãi.'
+  influence:
+  - epicurus
+  evidence: []
+  verified: null
+socrates:
+  name: Socrates
+  name_en: Socrates
+  born: -469
+  died: -399
+  years_label: k. 469–399 TCN
+  school: Hy Lạp cổ đại
+  summary: Không viết gì; hỏi đến cùng những người tưởng mình biết, đặt câu hỏi sống thế nào cho đúng vào trung tâm triết học.
+  influence:
+  - platon
+  - zeno
+  - epictetus
+  - kierkegaard
+  - nietzsche
+  evidence: []
+  verified: null
+platon:
+  name: Platon
+  name_en: Plato
+  born: -428
+  died: -347
+  years_label: k. 428–347 TCN
+  school: Hy Lạp cổ đại
+  summary: 'Học trò Socrates, lập Học viện ở Athens; thuyết Ý niệm: sau những vật đẹp đổi thay có cái Đẹp tự thân bất biến.'
+  influence:
+  - aristotle
+  - augustine
+  - popper
+  - rousseau
+  evidence: []
+  verified: null
+aristotle:
+  name: Aristotle
+  name_en: Aristotle
+  born: -384
+  died: -322
+  years_label: 384–322 TCN
+  school: Hy Lạp cổ đại
+  summary: 'Học trò rồi người phê bình Platon; đặt nền logic học, sinh học, đạo đức đức hạnh: hạnh phúc là sống tốt theo lý trí cả đời.'
+  influence:
+  - avicenna
+  - averroes
+  - maimonides
+  - aquinas
+  - arendt
+  - hobbes
+  - leibniz
+  evidence: []
+  verified: null
+epicurus:
+  name: Epicurus
+  name_en: Epicurus
+  born: -341
+  died: -270
+  years_label: 341–270 TCN
+  school: Hy Lạp cổ đại
+  summary: 'Thầy của Khu Vườn ở Athens: hạnh phúc là thân không đau, tâm không xao động; chết không là gì với ta.'
+  influence:
+  - marcus-aurelius
+  evidence: []
+  verified: null
+zeno:
+  name: Zeno xứ Citium
+  name_en: Zeno of Citium
+  born: -334
+  died: -262
+  years_label: k. 334–262 TCN
+  school: Hy Lạp cổ đại
+  summary: 'Sáng lập phái Khắc kỷ ở Stoa Poikile: sống phù hợp với tự nhiên và lý trí; chỉ đức hạnh là điều thiện.'
+  influence:
+  - epictetus
+  - marcus-aurelius
+  evidence: []
+  verified: null
+epictetus:
+  name: Epictetus
+  name_en: Epictetus
+  born: 50
+  died: 135
+  years_label: k. 50–k. 135
+  school: La Mã
+  summary: 'Nô lệ thành triết gia Khắc kỷ: phân biệt điều thuộc quyền ta với điều không; phán đoán của ta mới làm ta khổ.'
+  influence:
+  - marcus-aurelius
+  - pascal
+  evidence: []
+  verified: null
+marcus-aurelius:
+  name: Marcus Aurelius
+  name_en: Marcus Aurelius
+  born: 121
+  died: 180
+  years_label: 121–180
+  school: La Mã
+  summary: 'Hoàng đế La Mã viết “Suy tưởng” cho riêng mình: sống Khắc kỷ giữa chiến tranh, dịch bệnh và quyền lực tuyệt đối.'
+  influence: []
+  evidence: []
+  verified: null
+augustine:
+  name: Augustine
+  name_en: Augustine of Hippo
+  born: 354
+  died: 430
+  years_label: 354–430
+  school: Trung cổ
+  summary: Cầu nối giữa triết học Platon và Kitô giáo; “Tự thú” mở ra nội tâm, thời gian, ý chí và câu hỏi về cái ác.
+  influence:
+  - aquinas
+  - anselm
+  - pascal
+  - arendt
+  - wittgenstein
+  evidence: []
+  verified: null
+avicenna:
+  name: Avicenna
+  name_en: Ibn Sina
+  born: 970
+  died: 1037
+  years_label: k. 970/980–1037
+  school: Trung cổ
+  summary: Triết gia, thầy thuốc hàng đầu thế giới Hồi giáo; Đấng Tất yếu Tồn tại; thí nghiệm “người bay” về ý thức bản ngã.
+  influence:
+  - averroes
+  - maimonides
+  - aquinas
+  evidence: []
+  verified: null
+anselm:
+  name: Anselm xứ Canterbury
+  name_en: Anselm of Canterbury
+  born: 1033
+  died: 1109
+  years_label: 1033–1109
+  school: Trung cổ
+  summary: '“Đức tin đi tìm hiểu biết”; luận chứng bản thể luận: Thượng đế là cái không thể nghĩ ra gì lớn hơn, nên phải có thật.'
+  influence:
+  - aquinas
+  evidence: []
+  verified: null
+averroes:
+  name: Averroes
+  name_en: Ibn Rushd
+  born: 1126
+  died: 1198
+  years_label: 1126–1198
+  school: Trung cổ
+  summary: “Nhà chú giải” Aristotle; chân lý không chống lại chân lý, nên với người đủ sức suy lý, học triết học là bổn phận.
+  influence:
+  - aquinas
+  evidence: []
+  verified: null
+maimonides:
+  name: Maimonides
+  name_en: Moses Maimonides
+  born: 1138
+  died: 1204
+  years_label: 1135/1138–1204
+  school: Trung cổ
+  summary: 'Triết gia Do Thái lớn nhất thời Trung cổ; “Chỉ dẫn cho người hoang mang”: về Thượng đế, chỉ nói được điều Ngài không phải.'
+  influence:
+  - aquinas
+  - spinoza
+  - leibniz
+  evidence: []
+  verified: null
+aquinas:
+  name: Thomas Aquinas
+  name_en: Thomas Aquinas
+  born: 1225
+  died: 1274
+  years_label: k. 1225–1274
+  school: Trung cổ
+  summary: 'Đỉnh cao kinh viện: đưa Aristotle vào thần học Kitô giáo; năm con đường đến Thượng đế; luật tự nhiên.'
+  influence: []
+  evidence: []
+  verified: null
+hobbes:
+  name: Thomas Hobbes
+  name_en: Thomas Hobbes
+  born: 1588
+  died: 1679
+  years_label: 1588–1679
+  school: Cận đại
+  summary: 'Khế ước xã hội dựng từ nỗi sợ: không có quyền lực chung, đời người “cô độc, nghèo nàn, bẩn thỉu, tàn bạo và ngắn ngủi”.'
+  influence:
+  - spinoza
+  - locke
+  - leibniz
+  - hume
+  - rousseau
+  evidence: []
+  verified: null
+descartes:
+  name: Descartes
+  name_en: René Descartes
+  born: 1596
+  died: 1650
+  years_label: 1596–1650
+  school: Cận đại
+  summary: '“Tôi tư duy, vậy tôi tồn tại”: dùng hoài nghi làm phương pháp để tìm nền móng chắc chắn cho tri thức; nhị nguyên tâm–thân.'
+  influence:
+  - spinoza
+  - locke
+  - leibniz
+  - hume
+  - husserl
+  - sartre
+  evidence: []
+  verified: null
+pascal:
+  name: Blaise Pascal
+  name_en: Blaise Pascal
+  born: 1623
+  died: 1662
+  years_label: 1623–1662
+  school: Cận đại
+  summary: 'Nhà toán học thành nhà biện hộ đức tin: con người là “cây sậy biết suy nghĩ”; canh bạc Pascal là lý do thực dụng để tin.'
+  influence:
+  - nietzsche
+  evidence: []
+  verified: null
+locke:
+  name: John Locke
+  name_en: John Locke
+  born: 1632
+  died: 1704
+  years_label: 1632–1704
+  school: Cận đại
+  summary: Tâm trí như tờ giấy trắng, mọi ý niệm đến từ kinh nghiệm; quyền tự nhiên, chính quyền do dân ủy thác; ý thức làm nên cái tôi.
+  influence:
+  - leibniz
+  - hume
+  - rousseau
+  - mill
+  - rawls
+  - nozick
+  - parfit
+  evidence: []
+  verified: null
+spinoza:
+  name: Spinoza
+  name_en: Baruch Spinoza
+  born: 1632
+  died: 1677
+  years_label: 1632–1677
+  school: Cận đại
+  summary: Một thực thể duy nhất, “Thượng đế hay Tự nhiên”; mọi sự đều tất yếu, và tự do là hiểu được tính tất yếu ấy.
+  influence:
+  - leibniz
+  - hegel
+  evidence: []
+  verified: null
+leibniz:
+  name: Leibniz
+  name_en: Gottfried Wilhelm Leibniz
+  born: 1646
+  died: 1716
+  years_label: 1646–1716
+  school: Cận đại
+  summary: Nguyên lý lý do đầy đủ, các đơn tử và “thế giới tốt nhất trong các thế giới khả hữu”, niềm lạc quan mà Voltaire giễu nhại.
+  influence:
+  - kant
+  - russell
+  - frege
+  evidence: []
+  verified: null
+hume:
+  name: David Hume
+  name_en: David Hume
+  born: 1711
+  died: 1776
+  years_label: 1711–1776
+  school: Cận đại
+  summary: 'Nhà hoài nghi của duy nghiệm luận: niềm tin nhân quả là thói quen, quy nạp không có biện minh lý trí, lý trí là nô lệ của đam mê.'
+  influence:
+  - kant
+  - bentham
+  - mill
+  - popper
+  evidence: []
+  verified: null
+rousseau:
+  name: Jean-Jacques Rousseau
+  name_en: Jean-Jacques Rousseau
+  born: 1712
+  died: 1778
+  years_label: 1712–1778
+  school: Cận đại
+  summary: Con người vốn không xấu, xã hội bất bình đẳng làm ta hư; nhà nước chỉ chính đáng khi luật là ý chí chung của chính công dân.
+  influence:
+  - kant
+  - hegel
+  - rawls
+  evidence: []
+  verified: null
+kant:
+  name: Immanuel Kant
+  name_en: Immanuel Kant
+  born: 1724
+  died: 1804
+  years_label: 1724–1804
+  school: Cận đại
+  summary: '“Cách mạng Copernicus”: tâm trí cấu trúc kinh nghiệm; đạo đức là luật do chính lý trí đặt ra — mệnh lệnh tuyệt đối.'
+  influence:
+  - hegel
+  - husserl
+  - heidegger
+  - arendt
+  - rawls
+  - nozick
+  - parfit
+  - popper
+  evidence: []
+  verified: null
+bentham:
+  name: Jeremy Bentham
+  name_en: Jeremy Bentham
+  born: 1748
+  died: 1832
+  years_label: 1748–1832
+  school: Cận đại
+  summary: 'Người đặt nền cho thuyết vị lợi hiện đại: đúng sai đo bằng hạnh phúc và đau khổ, kể cả của loài vật; nhà cải cách luật pháp.'
+  influence:
+  - mill
+  evidence: []
+  verified: null
+hegel:
+  name: Hegel
+  name_en: G. W. F. Hegel
+  born: 1770
+  died: 1831
+  years_label: 1770–1831
+  school: Thế kỷ 19
+  summary: 'Duy tâm tuyệt đối: thực tại và lịch sử là Tinh thần tự hiểu mình qua mâu thuẫn; tự do chỉ có trong sự công nhận lẫn nhau.'
+  influence:
+  - kierkegaard
+  - marx
+  - popper
+  - sartre
+  - beauvoir
+  - tran-duc-thao
+  evidence: []
+  verified: null
+mill:
+  name: J. S. Mill
+  name_en: John Stuart Mill
+  born: 1806
+  died: 1873
+  years_label: 1806–1873
+  school: Thế kỷ 19
+  summary: 'Thuyết vị lợi có phẩm chất và tự do cá nhân: “nguyên tắc gây hại” giới hạn quyền lực của cả nhà nước lẫn dư luận.'
+  influence:
+  - russell
+  evidence: []
+  verified: null
+kierkegaard:
+  name: Kierkegaard
+  name_en: Søren Kierkegaard
+  born: 1813
+  died: 1855
+  years_label: 1813–1855
+  school: Thế kỷ 19
+  summary: 'Người mở đường cho hiện sinh: mỗi người phải tự trở thành chính mình qua lựa chọn; đức tin là dấn thân, không phải kết luận.'
+  influence:
+  - heidegger
+  - sartre
+  - wittgenstein
+  - beauvoir
+  evidence: []
+  verified: null
+marx:
+  name: Karl Marx
+  name_en: Karl Marx
+  born: 1818
+  died: 1883
+  years_label: 1818–1883
+  school: Thế kỷ 19
+  summary: 'Duy vật lịch sử, tha hóa, giá trị thặng dư: hiểu xã hội từ cách con người cùng nhau sản xuất; triết học phải góp phần thay đổi thế giới.'
+  influence:
+  - sartre
+  - arendt
+  - popper
+  - beauvoir
+  - tran-duc-thao
+  evidence: []
+  verified: null
+nietzsche:
+  name: Nietzsche
+  name_en: Friedrich Nietzsche
+  born: 1844
+  died: 1900
+  years_label: 1844–1900
+  school: Thế kỷ 19
+  summary: '“Chúa đã chết”: truy vấn nguồn gốc và giá trị của đạo đức, tìm cách khẳng định cuộc đời khi những chỗ dựa cũ sụp đổ.'
+  influence:
+  - heidegger
+  - sartre
+  evidence: []
+  verified: null
+frege:
+  name: Frege
+  name_en: Gottlob Frege
+  born: 1848
+  died: 1925
+  years_label: 1848–1925
+  school: Thế kỷ 19
+  summary: 'Đặt nền cho logic hiện đại; phân biệt nghĩa và vật được chỉ: “Sao Mai” và “Sao Hôm” cùng chỉ sao Kim nhưng khác nghĩa.'
+  influence:
+  - russell
+  - wittgenstein
+  - quine
+  evidence: []
+  verified: null
+husserl:
+  name: Husserl
+  name_en: Edmund Husserl
+  born: 1859
+  died: 1938
+  years_label: 1859–1938
+  school: Thế kỷ 20
+  summary: 'Sáng lập hiện tượng luận: mô tả kinh nghiệm đúng như nó hiện ra, “trở về với chính các sự vật”; ý thức luôn là ý thức về điều gì đó.'
+  influence:
+  - heidegger
+  - sartre
+  - beauvoir
+  - tran-duc-thao
+  evidence: []
+  verified: null
+russell:
+  name: Bertrand Russell
+  name_en: Bertrand Russell
+  born: 1872
+  died: 1970
+  years_label: 1872–1970
+  school: Thế kỷ 20
+  summary: 'Đồng sáng lập triết học phân tích: nghịch lý Russell, lý thuyết mô tả; nhà hoạt động phản chiến, giải Nobel Văn học 1950.'
+  influence:
+  - wittgenstein
+  - quine
+  evidence: []
+  verified: null
+heidegger:
+  name: Heidegger
+  name_en: Martin Heidegger
+  born: 1889
+  died: 1976
+  years_label: 1889–1976
+  school: Thế kỷ 20
+  summary: 'Hỏi lại “tồn tại nghĩa là gì?”: con người là tồn-tại-trong-thế-giới, hữu hạn trước cái chết; kỹ thuật là một cách “đặt bày” thế giới.'
+  influence:
+  - sartre
+  - arendt
+  - beauvoir
+  evidence: []
+  verified: null
+wittgenstein:
+  name: Wittgenstein
+  name_en: Ludwig Wittgenstein
+  born: 1889
+  died: 1951
+  years_label: 1889–1951
+  school: Thế kỷ 20
+  summary: 'Hai triết học trong một đời: Tractatus vạch giới hạn của điều nói được; về sau, nghĩa là cách dùng trong các trò chơi ngôn ngữ.'
+  influence: []
+  evidence: []
+  verified: null
+popper:
+  name: Karl Popper
+  name_en: Karl Popper
+  born: 1902
+  died: 1994
+  years_label: 1902–1994
+  school: Thế kỷ 20
+  summary: 'Khoa học là dám sai: lý thuyết phải có thể bị bác bỏ. Xã hội mở là nơi mọi chính sách đều có thể bị phê phán và sửa.'
+  influence: []
+  evidence: []
+  verified: null
+sartre:
+  name: Sartre
+  name_en: Jean-Paul Sartre
+  born: 1905
+  died: 1980
+  years_label: 1905–1980
+  school: Thế kỷ 20
+  summary: '“Hiện hữu có trước bản chất”: con người bị kết án phải tự do, tự làm nên mình qua lựa chọn và chịu trách nhiệm trọn vẹn.'
+  influence:
+  - beauvoir
+  - tran-duc-thao
+  evidence: []
+  verified: null
+arendt:
+  name: Hannah Arendt
+  name_en: Hannah Arendt
+  born: 1906
+  died: 1975
+  years_label: 1906–1975
+  school: Thế kỷ 20
+  summary: 'Chủ nghĩa toàn trị, hành động và sự khởi đầu; “tính tầm thường của cái ác”: tội ác khủng khiếp có thể đến từ người không suy nghĩ.'
+  influence: []
+  evidence: []
+  verified: null
+quine:
+  name: Quine
+  name_en: Willard Van Orman Quine
+  born: 1908
+  died: 2000
+  years_label: 1908–2000
+  school: Thế kỷ 20
+  summary: Bác bỏ ranh giới phân tích/tổng hợp; tri thức là một mạng lưới niềm tin, không mệnh đề nào miễn nhiễm sửa đổi; phép dịch thiếu xác định.
+  influence: []
+  evidence: []
+  verified: null
+beauvoir:
+  name: Simone de Beauvoir
+  name_en: Simone de Beauvoir
+  born: 1908
+  died: 1986
+  years_label: 1908–1986
+  school: Thế kỷ 20
+  summary: '“Người ta không sinh ra là đàn bà”: phụ nữ bị biến thành “Kẻ Khác”; tự do luôn có tình thế và cần đến tự do của người khác.'
+  influence:
+  - sartre
+  evidence: []
+  verified: null
+rawls:
+  name: John Rawls
+  name_en: John Rawls
+  born: 1921
+  died: 2002
+  years_label: 1921–2002
+  school: Thế kỷ 20
+  summary: 'Công lý như là sự công bằng: chọn luật chơi sau “bức màn vô tri”; bất bình đẳng chỉ chính đáng khi có lợi nhất cho người kém may mắn nhất.'
+  influence:
+  - nozick
+  - parfit
+  evidence: []
+  verified: null
+nozick:
+  name: Robert Nozick
+  name_en: Robert Nozick
+  born: 1938
+  died: 2002
+  years_label: 1938–2002
+  school: Thế kỷ 20
+  summary: 'Quyền cá nhân là giới hạn không được vượt qua: chỉ nhà nước tối thiểu là chính đáng; cỗ máy trải nghiệm thách thức thuyết khoái lạc.'
+  influence: []
+  evidence: []
+  verified: null
+parfit:
+  name: Derek Parfit
+  name_en: Derek Parfit
+  born: 1942
+  died: 2017
+  years_label: 1942–2017
+  school: Thế kỷ 20
+  summary: Bản sắc cá nhân không phải điều quan trọng; ta nợ gì những người chưa sinh ra; và có những điều thật sự quan trọng.
+  influence: []
+  evidence: []
+  verified: null
+lao-tu:
+  name: Lão Tử
+  name_en: Laozi
+  born: -600
+  died: -500
+  years_label: TK 6 TCN (theo truyền thống)
+  school: Trung Hoa
+  summary: Đạo không thể gọi tên; vô vi là làm mà không cưỡng ép; nước mềm mà thắng cứng. Tác giả truyền thống của Đạo đức kinh.
+  influence:
+  - trang-tu
+  - han-phi
+  evidence: []
+  verified: null
+khong-tu:
+  name: Khổng Tử
+  name_en: Kongzi (Confucius)
+  born: -551
+  died: -479
+  years_label: 551–479 TCN (theo truyền thống)
+  school: Trung Hoa
+  summary: 'Người thầy của nhân và lễ: tu thân trước rồi mới trị người; cai trị bằng đức và gương sáng hơn bằng hình phạt.'
+  influence:
+  - manh-tu
+  - tuan-tu
+  - chu-hy
+  - mac-tu
+  evidence: []
+  verified: null
+mac-tu:
+  name: Mặc Tử
+  name_en: Mozi
+  born: -470
+  died: -391
+  years_label: k. 470–391 TCN
+  school: Trung Hoa
+  summary: 'Kiêm ái: quan tâm đến mọi người không phân biệt; chống chiến tranh xâm lược; đo đúng sai bằng lợi ích của thiên hạ.'
+  influence:
+  - manh-tu
+  - tuan-tu
+  evidence: []
+  verified: null
+manh-tu:
+  name: Mạnh Tử
+  name_en: Mengzi (Mencius)
+  born: -372
+  died: -289
+  years_label: k. 372–289 TCN (theo truyền thống)
+  school: Trung Hoa
+  summary: Tính người có bốn mầm thiện cần vun xới; dân là quý, vua là nhẹ; kẻ tàn hại nhân nghĩa đã mất tư cách làm vua.
+  influence:
+  - chu-hy
+  - tuan-tu
+  - nguyen-trai
+  evidence: []
+  verified: null
+trang-tu:
+  name: Trang Tử
+  name_en: Zhuangzi
+  born: -369
+  died: -286
+  years_label: k. 369–286 TCN
+  school: Trung Hoa
+  summary: Đúng sai tùy chỗ đứng; mộng hồ điệp và tự do tiêu dao. Người đưa Đạo gia vào văn chương bằng ngụ ngôn và tiếng cười.
+  influence: []
+  evidence: []
+  verified: null
+tuan-tu:
+  name: Tuân Tử
+  name_en: Xunzi
+  born: -310
+  died: -238
+  years_label: k. 310–sau 238 TCN
+  school: Trung Hoa
+  summary: 'Tính người là ác, điều thiện do con người làm ra: học tập và lễ nghĩa chuyển hóa bản tính; trời chỉ là tự nhiên vận hành.'
+  influence:
+  - han-phi
+  evidence: []
+  verified: null
+han-phi:
+  name: Hàn Phi
+  name_en: Han Feizi
+  born: -280
+  died: -233
+  years_label: k. 280–233 TCN
+  school: Trung Hoa
+  summary: 'Tổng hợp tư tưởng Pháp gia: pháp, thuật, thế; đừng chờ vua thánh, hãy dựng thể chế chạy được với người cầm quyền bình thường.'
+  influence: []
+  evidence: []
+  verified: null
+chu-hy:
+  name: Chu Hy
+  name_en: Zhu Xi
+  born: 1130
+  died: 1200
+  years_label: 1130–1200
+  school: Trung Hoa
+  summary: 'Tổng hợp Tân Nho giáo: lý và khí, cách vật trí tri; chú giải Tứ thư làm chuẩn khoa cử từ năm 1313, ảnh hưởng khắp Đông Á.'
+  influence:
+  - chu-van-an
+  evidence: []
+  verified: null
+duc-phat:
+  name: Đức Phật
+  name_en: Siddhartha Gautama (the Buddha)
+  born: -480
+  died: -400
+  years_label: k. 480–400 TCN (còn tranh luận)
+  school: Ấn Độ
+  summary: 'Chẩn đoán khổ và chỉ đường thoát khổ: Tứ diệu đế, duyên khởi, trung đạo; lập luận rằng không có cái “tôi” thường hằng.'
+  influence:
+  - nagarjuna
+  - tue-trung
+  - tran-nhan-tong
+  evidence: []
+  verified: null
+nagarjuna:
+  name: Nagarjuna
+  name_en: Nāgārjuna
+  born: 150
+  died: 250
+  years_label: k. 150–250
+  school: Ấn Độ
+  summary: 'Trung quán: mọi pháp đều “không” vì do duyên khởi mà có, không có tự tính; tính không không phải hư vô mà là trung đạo.'
+  influence: []
+  evidence: []
+  verified: null
+tue-trung:
+  name: Tuệ Trung Thượng Sĩ
+  name_en: Tuệ Trung Thượng Sĩ
+  born: 1230
+  died: 1291
+  years_label: 1230–1291
+  school: Việt Nam
+  summary: 'Bậc thầy thiền tại gia thời Trần, thầy của Trần Nhân Tông: Phật là Phật, ta là ta; quay về soi chính mình, đừng bám hình thức.'
+  influence:
+  - tran-nhan-tong
+  evidence: []
+  verified: null
+tran-nhan-tong:
+  name: Trần Nhân Tông
+  name_en: Trần Nhân Tông
+  born: 1258
+  died: 1308
+  years_label: 1258–1308
+  school: Việt Nam
+  summary: 'Vua hai lần thắng Nguyên–Mông rồi đi tu, sáng lập thiền phái Trúc Lâm: Phật ở ngay trong tâm, có thể tu giữa đời.'
+  influence: []
+  evidence: []
+  verified: null
+chu-van-an:
+  name: Chu Văn An
+  name_en: Chu Văn An
+  born: 1292
+  died: 1370
+  years_label: k. 1292–1370
+  school: Việt Nam
+  summary: 'Nhà giáo, nhà Nho đời Trần: dâng “Thất trảm sớ” xin chém bảy nịnh thần; không được nghe thì từ quan về dạy học.'
+  influence: []
+  evidence: []
+  verified: null
+nguyen-trai:
+  name: Nguyễn Trãi
+  name_en: Nguyễn Trãi
+  born: 1380
+  died: 1442
+  years_label: 1380–1442
+  school: Việt Nam
+  summary: 'Nhà Nho hành động: soạn Bình Ngô đại cáo, lấy “yên dân” làm thước đo của nhân nghĩa và của quyền lực chính đáng.'
+  influence: []
+  evidence: []
+  verified: null
+tran-duc-thao:
+  name: Trần Đức Thảo
+  name_en: Trần Đức Thảo
+  born: 1917
+  died: 1993
+  years_label: 1917–1993
+  school: Việt Nam
+  summary: 'Triết gia Việt viết bằng tiếng Pháp: đi qua hiện tượng luận của Husserl để tới một lý thuyết duy vật về nguồn gốc ý thức, ngôn ngữ.'
+  influence: []
+  evidence: []
+  verified: null

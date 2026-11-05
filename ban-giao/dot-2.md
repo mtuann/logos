@@ -23,7 +23,7 @@ Thứ tự đề xuất: 2.1 → 2.2 → 2.3 → 2.4 → 2.5 → 2.6 → 2.7 →
 
 ## Đặc tả
 
-Mọi bản ghi có `evidence` (danh sách khóa trong `sources.yml` hoặc URL đã mở; được rỗng khi mới rút) và `verified` (`null`, hoặc `{date: YYYY-MM-DD, by: <người/phiên>}`; chỉ đợt 5 điền). Khóa: chữ thường, không dấu, `[a-z0-9.-]`. YAML: một file một loại, dạng ánh xạ `khóa: bản ghi`, sắp theo khóa (để diff gọn).
+Mọi bản ghi có `evidence` (danh sách khóa trong `sources.yml` hoặc URL đã mở; được rỗng khi mới rút) và `verified` (`null`, hoặc `{date: YYYY-MM-DD, by: <người/phiên>}`; chỉ đợt 5 điền). Khóa: chữ thường, không dấu, `[a-z0-9.-]`. YAML: một file một loại, dạng ánh xạ `khóa: bản ghi`, sắp theo khóa (để diff gọn); riêng `people.yml` giữ thứ tự của `philosophers.json` (thứ tự biên tập, hiện ở trang chỉ mục, không theo năm).
 
 ```yaml
 # data/kb/people.yml

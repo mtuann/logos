@@ -153,7 +153,15 @@
             "$ref": "#/$defs/text"
           },
           "url": {
-            "$ref": "#/$defs/url"
+            "description": "Rỗng với sách in không có bản trực tuyến.",
+            "oneOf": [
+              {
+                "const": ""
+              },
+              {
+                "$ref": "#/$defs/url"
+              }
+            ]
           }
         }
       }

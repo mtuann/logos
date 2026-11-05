@@ -27,6 +27,8 @@ REGISTRY = "content.yml"
 SCHEMA = Path("schema") / "content.schema.json"
 MKDOCS = "mkdocs.yml"
 DATA_DIR = Path("docs") / "assets" / "data"
+# Thư mục mà mọi file trong đó phải có dòng trong content.yml (hoặc nằm trong một mục thư mục, đường dẫn kết thúc "/").
+DATA_DIRS = [DATA_DIR, Path("data") / "kb"]
 
 # Nhóm con của "Câu hỏi lớn" trong nav → khóa khối (KE-HOACH.md mục 5.3).
 CAU_HOI_BLOCKS = {
@@ -57,8 +59,9 @@ GENERATED_PAGES = {"them/sach.md", "them/tu-dien.md", "lich-su/dong-thoi-gian.md
 # File dữ liệu: (đường dẫn từ gốc repo, kind, tier, block, generated). Thứ tự giữ nguyên khi sinh.
 DATA_FILES = [
     ("docs/assets/data/terms.json", "thuat-ngu", "loi", "thuat-ngu", False),
-    ("docs/assets/data/philosophers.json", "triet-gia", "loi", "triet-gia", False),
-    ("tools/philosophers.py", "ho-so-triet-gia", "loi", "triet-gia", False),
+    ("data/kb/people.yml", "triet-gia", "loi", "triet-gia", False),
+    ("data/people/", "ho-so-triet-gia", "loi", "triet-gia", False),
+    ("docs/assets/data/philosophers.json", "triet-gia", "he-thong", None, True),
     ("tools/philpapers-2020.md", "philpapers", "loi", None, False),
     ("docs/assets/data/fallacies.json", "luyen-tap", "loi", "luyen-tap", False),
     ("docs/assets/data/lap-luan.json", "luyen-tap", "loi", "luyen-tap", False),
@@ -259,17 +262,22 @@ def check(reg, root: Path = ROOT) -> list[str]:
         if path in seen_data:
             errors.append(f"dữ liệu {path}: đường dẫn trùng")
         seen_data.add(path)
-        if not (root / path).is_file():
+        if path.endswith("/"):
+            if not (root / path).is_dir():
+                errors.append(f"dữ liệu {path}: không còn thư mục")
+        elif not (root / path).is_file():
             errors.append(f"dữ liệu {path}: không còn file")
         if e["kind"] not in enums["kind"]:
             errors.append(f"dữ liệu {path}: kind {e['kind']!r} không thuộc {enums['kind']}")
         if e["generated"] != (path in generated_data):
             errors.append(f"dữ liệu {path}: generated phải là {str(path in generated_data).lower()}")
-    if (root / DATA_DIR).is_dir():
-        for p in sorted((root / DATA_DIR).iterdir()):
+    for d in DATA_DIRS:
+        if not (root / d).is_dir():
+            continue
+        for p in sorted((root / d).iterdir()):
             rel = p.relative_to(root).as_posix()
             if p.is_file() and rel not in seen_data:
-                errors.append(f"dữ liệu {rel}: có trong {DATA_DIR.as_posix()}/ nhưng thiếu trong content.yml")
+                errors.append(f"dữ liệu {rel}: có trong {d.as_posix()}/ nhưng thiếu trong content.yml")
     return errors
 
 
