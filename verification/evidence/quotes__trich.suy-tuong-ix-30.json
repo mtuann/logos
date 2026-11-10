@@ -2,7 +2,7 @@
   "unit": "quotes/trich.suy-tuong-ix-30",
   "hash": "sha256:47ba03f655694e458d5ad1c908daf63dc79783b19d899ee1a568386dc3460b61",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q15",
+  "checker": "agent-kiem-5.2-r07",
   "claims": [
     {
       "text": "Nguyên văn Long: \"Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die.\"",
@@ -38,9 +38,16 @@
     {
       "text": "locator: IX.30 (số đoạn)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15877/pg15877-images.html",
+          "quote": "30. Look down from above on the countless herds of men and their countless solemnities",
+          "where": "Quyển IX, đoạn 30"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Quyển IX xác nhận; số đoạn 30 chưa xác nhận bằng nguồn có đánh số (MIT và Standard Ebooks không đánh số)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): Gutenberg #15877 (Long 1862) có số đoạn; IX.30 xác nhận (đoạn nằm trong quyển IX theo tiêu đề)."
 }

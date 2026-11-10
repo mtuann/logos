@@ -2,24 +2,48 @@
   "unit": "quotes/trich.manh-tu-6a8-thien-cao-tu-thuong",
   "hash": "sha256:fea91959da57227795675605493045c4a36de06da30b6747da1b6581283a052e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
       "text": "Nguyên văn đoạn 牛山之木嘗美矣 … 此豈山之性也哉",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "牛山之木嘗美矣。以其郊於大國也，斧斤伐之"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？"
+        }
+      ]
     },
     {
       "text": "locator: 6A8",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "牛山之木嘗美矣",
+          "where": "nằm trong mục '===8===' của trang 孟子/告子上 (chương 8)"
+        }
+      ]
     },
     {
       "text": "Bản dịch Logos sát nghĩa (phần trong [ ] chèn cho đoạn lược)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "非無萌蘗之生焉",
+          "where": "đoạn bị lược trong nguyên văn: 'chẳng phải không có chồi non nhú lên'; phần [ ] trong bản dịch đúng ý"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn nguyên văn: ctext.org chặn tải tự động; zh.wikisource.org các trang 孟子/公孫丑上, 孟子/告子上, 四書章句集註 đều trả 'url_not_found' trong phiên. Không ghi dung theo trí nhớ. Lưu ý: bản dịch có đoạn chèn '[Chồi non vẫn nhú lên,]' cho phần bị lược trong nguyên văn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Khớp từng chữ; đoạn lược (……) nằm giữa 斧斤伐之，可以為美乎 và 牛羊又從而牧之 (nguồn có 是其日夜之所息…非無萌蘗之生焉). Chữ trong nguồn: 以為美乎 (không phải 以爲)."
 }

@@ -2,7 +2,7 @@
   "unit": "quotes/trich.cong-hoa-517a",
   "hash": "sha256:2ec9407d90edb98d4d6e6e8d2900d4597fc11d0426a14f2dd511d8aaa90f0bf0",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q12",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn 'Men would say of him that up he went and down he came without his eyes; ... put him to death.' đúng bản Jowett",
@@ -40,9 +40,16 @@
     {
       "text": "locator: Cộng hòa VII, Stephanus 517a (như tiêu đề)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=517a",
+          "quote": "if it were possible to lay hands on and to kill the man who tried to release them and lead them up, would they not kill him",
+          "where": "517a, Book 7"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn văn bản: Jowett (bản mở qua WebFetch, nguồn chứa văn bản không in số Stephanus; Gutenberg bị chặn với công cụ). Số Stephanus không kiểm được từ trang nào đã mở (Perseus bị robots chặn), nên locator để chua-kiem-duoc; không ghi theo trí nhớ. Bản dịch tiếng Việt đã đọc đối chiếu, sát nghĩa. Công cụ tóm tắt của WebFetch cho thấy trang MIT/constitution.org ghi 'Last of he' (có thể lỗi đánh máy của bản số hóa đó); trang maricopa có 'Last of all he'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): chữ và bản dịch giữ từ lượt trước; locator đối chiếu ở Perseus (số Stephanus/Bekker in trong dấu ngoặc vuông của trang, bản dịch Perseus khác bản Jowett/Ross nhưng cùng vị trí)."
 }

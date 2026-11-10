@@ -2,14 +2,21 @@
   "unit": "sources/wikisource.zh.3d636b2d10",
   "hash": "sha256:45aa92b42f3af398a85de1e57c3de4b2138d5fe53b12391e2f50728440cf0e11",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r03",
   "claims": [
     {
       "text": "URL 墨子/公輸 mở được; thiên Công Thâu của Mặc Tử, nguyên văn chữ Hán",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%85%AC%E8%BC%B8",
+          "quote": "公輸般爲楚造雲梯之械成，將以攻宋。子墨子聞之，起於齊",
+          "where": "đầu trang 墨子/公輸"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. WebSearch cho thấy Wikisource tiếng Trung có 墨子閒詁/卷十三 và 墨子 (四庫全書本)/卷13; chưa thấy trang '墨子/公輸' trong kết quả, có thể trang đó là trang chuyển hướng hoặc không tồn tại - người làm nên kiểm, cân nhắc dùng 墨子閒詁/卷十三."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): trang tồn tại, đúng thiên Công Thâu. Ghi chú lượt trước nghi trang không tồn tại là sai (do bị chặn)."
 }

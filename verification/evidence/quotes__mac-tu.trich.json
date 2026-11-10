@@ -2,7 +2,7 @@
   "unit": "quotes/mac-tu.trich",
   "hash": "sha256:4fddaa0be1799534d5510efaf946b20030d214d7c0e3ab6e7dd65c9e19e598f1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q07",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn: 視人之國若視其國，視人之家若視其家，視人之身若視其身。",
@@ -31,7 +31,19 @@
     {
       "text": "locator: thiên 15 (Kiêm ái trung)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90",
+          "quote": "===卷四=== *兼愛上 *兼愛中 *兼愛下",
+          "where": "mục lục 墨子: 卷一 có 7 thiên (親士…三辯), 卷二 3, 卷三 3, 卷四 mở đầu 兼愛上 = 14, 兼愛中 = 15 (đếm theo mục lục, không có thiên khuyết ở 4 quyển đầu)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%85%BC%E6%84%9B%E4%B8%AD",
+          "quote": "子墨子言：視人之國若視其國，視人之家若視其家，視人之身若視其身。",
+          "where": "墨子/兼愛中; URL ctext theo mẫu của site (quyết định 34), nội dung đối chiếu ở zh.wikisource"
+        }
+      ]
     },
     {
       "text": "Phiên âm Hán Việt và bản dịch tiếng Việt sát nghĩa",
@@ -45,6 +57,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chữ và tên thiên (兼愛中) khớp. Chỉ số thứ tự 15 chưa mở được nguồn hiển thị số (trang ctext và Wikisource không cho ra số thứ tự). Số 15 trùng thứ tự thường dùng (兼愛上 14, 中 15, 下 16) nhưng không ghi dung theo trí nhớ. Nguyên văn nằm trong câu 子墨子言: bản ghi đã bỏ dấu ngoặc kép, không sao."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): zh.wikisource 墨子/兼愛中 có đúng câu 視人之國若視其國，視人之家若視其家，視人之身若視其身 (sau 子墨子言). Số thứ tự 15 suy ra bằng cách đếm mục lục 墨子 trên Wikisource (卷一 7 + 卷二 3 + 卷三 3 + 兼愛上 14 → 兼愛中 15), không có nguồn in số '15' trực tiếp; số này theo cách đánh số thường dùng. ctext.org không mở (site chặn); URL theo mẫu."
 }

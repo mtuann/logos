@@ -2,7 +2,7 @@
   "unit": "quotes/trich.mac-tu-thien-16-kiem-ai-ha",
   "hash": "sha256:8da8131f07266c4ab077d1888e089354def8988066139dbc89c47047dd03ed8f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
       "text": "Nguyên văn: 今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也",
@@ -10,21 +10,19 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
-          "quote": "今有平原廣野於此，被甲嬰冑，將往戰，死生之權，未可識也。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也"
         }
       ]
     },
     {
       "text": "Nguyên văn: 不識將惡也家室，奉承親戚，提挈妻子，而寄託之？",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "不識將惡也？家室，奉承親戚、提挈妻子而寄託之？（dấu câu: có '？' sau 也, '、' giữa 親戚 và 提挈, không có ',' trước 而）",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
-          "quote": "不識將惡也？家室，奉承親戚、提挈妻子而寄託之？"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "不識將惡也家室，奉承親戚，提挈妻子，而寄託之？"
         }
       ]
     },
@@ -34,8 +32,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
-          "quote": "我以爲當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "我以為當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。"
         }
       ]
     },
@@ -45,17 +43,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
-          "quote": "天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "雖非兼之人，必寄託之於兼之有是也",
+          "where": "dịch đúng ý; 'người bạn theo kiêm' hơi thoát nhưng không đổi nghĩa"
         }
       ]
     },
     {
       "text": "locator: thiên 16 Kiêm ái hạ",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "兼愛下第十六",
+          "where": "Mặc tử nhàn cổ quyển 4, tiêu đề thiên"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Số thiên 16 chưa kiểm được (xem ghi chú bản 14). Khác biệt 爲/為 là dị thể chữ, không tính. Nguồn: Wikisource."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Bản 閒詁 khớp bản ghi (kể cả 冑 và dấu câu); bản Wikisource 墨子/兼愛下 khác (嬰胄, 不識將惡擇之也) nên đó là dị bản chứ không phải lỗi của bản ghi, có thể ghi rõ 'theo Mặc tử nhàn cổ' nếu cần. Lệch 爲/為 là dị thể chữ."
 }

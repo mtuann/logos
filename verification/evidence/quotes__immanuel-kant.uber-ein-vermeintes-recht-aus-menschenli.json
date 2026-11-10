@@ -2,7 +2,7 @@
   "unit": "quotes/immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli",
   "hash": "sha256:6b5d6a6e12821e38aea2d67aa5d2c70292b41b5c45b00f5b3c037fca70700216",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q06",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh (Abbott): \"Truth in utterances that cannot be avoided is the formal duty of a man to everyone ... this is a wrong which is done to mankind.\"",
@@ -35,18 +35,31 @@
     {
       "text": "Bản dịch tiếng Anh của T. K. Abbott (lần in thứ 4, 1889)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "Third Edition (further enlarged], 1883. Fourth Edition, 1889.",
+          "where": "trang tên sách, Longmans, Green 1889; dịch giả Thomas Kingsmill Abbott"
+        },
+        {
+          "url": "https://archive.org/stream/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "Truth in utterances that cannot be avoided is the formal duty of a man to everyone",
+          "where": "bài On a supposed right to lie from philanthropy trong tuyển tập"
+        }
+      ]
     },
     {
       "text": "locator: Ak 8:426",
       "kind": "du-kien",
       "verdict": "sai",
       "severity": "nhe",
-      "fix": "Điền locator: Ak 8:426 (tiêu đề chưa ghi vị trí).",
+      "fix": "Điền locator: Ak 8:426 (tiêu đề chưa ghi vị trí; đã xác nhận đoạn nằm ở AA VIII, tr. 426, dòng 14-24).",
       "sources": [
         {
           "url": "https://www.korpora.org/Kant/aa08/426.html",
-          "quote": "Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale Pflicht des Menschen gegen jeden"
+          "quote": "Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale",
+          "where": "AA VIII, S. 426, Z. 14"
         }
       ]
     },
@@ -62,6 +75,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguyên văn đúng. Bản Abbott 1889 hết hạn bản quyền, không rủi ro. Nguồn đã mở là PDF Online Library of Liberty (host ở blogs.ubc.ca), trang đó không ghi dịch giả/lần in; tên tuyển tập là Abbott's Critique of Practical Reason and Other Works on the Theory of Ethics. 'Lần in thứ 4, 1889' không kiểm được. Đề xuất link ổn định: trang Online Library of Liberty của tuyển tập này hoặc Gutenberg #5683/#5684 (không chứa bài này, đã kiểm #5683). Có thể sửa tiêu đề bỏ 'lần in thứ 4, 1889' nếu không xác nhận được."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): bản Abbott 1889 (Fourth Edition) đọc ở Internet Archive critiquepractic00kantuoft; chữ khớp bản ghi (OCR có 'false state ment' do ngắt dòng, và dấu chú thích '1' sau 'everyone'). Đề xuất link ổn định: https://archive.org/details/critiquepractic00kantuoft thay cho PDF blogs.ubc.ca. Locator Ak 8:426 xác nhận ở korpora.org (câu Đức nằm tr. 426, dòng 14-24); claim 'sai nhe' chỉ nhắc điền trường locator."
 }

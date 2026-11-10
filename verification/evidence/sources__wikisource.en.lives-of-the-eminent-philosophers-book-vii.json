@@ -2,14 +2,33 @@
   "unit": "sources/wikisource.en.lives-of-the-eminent-philosophers-book-vii",
   "hash": "sha256:bfc125b0e62d5dfc641926806aeb82ffc38fe0bb42a3612c5cf479ebc83ca4a4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Diogenes Laërtius, Lives, quyển VII, bản dịch Hicks 1925",
+      "text": "Diogenes Laërtius, Lives of the Eminent Philosophers, bản dịch R. D. Hicks (1925), Wikisource",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers",
+          "quote": "Lives of the Eminent Philosophers (1925)",
+          "where": "trang gốc: by Diogenes Laërtius, translated by Robert Drew Hicks; Loeb, 1925"
+        }
+      ]
+    },
+    {
+      "text": "Quyển VII có Zeno xứ Citium (Khắc kỷ); URL mở được và trỏ đúng quyển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII",
+          "quote": "Zeno of Citium, son of Mnaseas, has for many years been devoted to philosophy",
+          "where": "sắc lệnh Athens về Zeno"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi 'not backed by a scanned copy'. Đã thấy sắc lệnh nói về Zeno xứ Citium; không đối chiếu tiểu sử mở đầu."
 }

@@ -2,7 +2,7 @@
   "unit": "quotes/spinoza.dao-duc-hoc",
   "hash": "sha256:16ebbb70ed8cd63bddda79600909281c265d139afdb39a13c40e7bd4947b2bf4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q10",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh (Elwes) đúng từng chữ: Herefrom it follows, first, that men think themselves free ... so to wish and desire.",
@@ -58,14 +58,32 @@
     {
       "text": "Năm 1677 (xuất bản Đạo đức học) trong tiêu đề",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Ethics_(Spinoza)",
+          "quote": "Although it was publish",
+          "where": "đầu trang: 'it was published posthumously in 1677'"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Author:Baruch_Spinoza",
+          "quote": "Ethica Ordine Geometrico Demonstrata (The Ethics), (1677) finished 1674, but published posthumously"
+        }
+      ]
     },
     {
       "text": "Bản dịch Elwes in 1883–1884 trong tiêu đề",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Author:Baruch_Spinoza",
+          "quote": "The Chief Works of Benedict de Spinoza, 2 volumes (1883–1884)",
+          "where": "mục Compilations; Ethics (1883) translated by Robert Harvey Monro Elwes"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hai năm trong tiêu đề chưa tìm được nguồn đã mở nêu rõ: SEP Spinoza chỉ nói ông mất 1677; Open Library chỉ nói bản dịch cho Bohn's Philosophical Library năm 1883 (in lại 1887, Bell 1889). Người làm nên dẫn một nguồn cho ngày xuất bản (ví dụ SEP mục Spinoza hay IEP). Bản dịch Elwes thuộc phạm vi công cộng; Gutenberg ghi Elwes là dịch giả. Trang Gutenberg bị công cụ cắt ở 100000 ký tự nhưng đoạn trích nằm trong phần đọc được."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): nguyên văn đối chiếu lại ở Gutenberg 3800 (pg3800-images.html) khớp từng chữ. Năm 1677 và 1883–1884 xác nhận ở Wikisource tiếng Anh (nguồn hạng vừa; SEP/IEP chỉ nói Spinoza mất 1677, không nêu năm in Ethics). Gợi ý: có thể ghi 1883–1884 là 'The Chief Works' (Bohn), bản Ethics in trong tập 2."
 }

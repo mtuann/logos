@@ -2,7 +2,7 @@
   "unit": "quotes/tran-nhan-tong.cu-tran-lac-dao-phu-2",
   "hash": "sha256:50dc567868a7628d301cd19a3b07af10d3214cb2cffaddb8759a88cd9a5c8eff",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q10",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Phiên âm: Bụt ở cong nhà, chẳng phải tìm xa. Nhân khuây bản nên ta tìm bụt; đến cốc hay chỉn bụt là ta (hội thứ năm)",
@@ -23,14 +23,27 @@
     {
       "text": "Chữ Nôm 孛於宮茹 / 庄沛寻賒 / 因虧本年些寻孛 / 典谷処㐱孛羅些 và việc theo Wikisource tiếng Việt",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "孛於宮茹 庄沛寻賒 因虧本年些寻孛 典谷処㐱孛羅些",
+          "where": "Đệ ngũ hội, cột Chữ Nôm"
+        }
+      ]
     },
     {
       "text": "Bản dịch hiện đại: Phật ở ngay trong nhà ... Phật chính là ta",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Bụt ở cong nhà; Chẳng phải tìm xa. Nhân khuây bản nên ta tìm bụt; Đến cốc hay chỉn bụt là ta."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "URL trong record (vi.wikisource Đệ ngũ hội) có trong kết quả tìm kiếm nhưng không tải được (url_not_found) nên không đọc được chữ Nôm. Phiên âm quốc ngữ khớp bài báo vjol (hội 5). Bản dịch hiện đại đổi 'Bụt' thành 'Phật' và 'cốc' thành 'đến khi', hợp ý nhưng cần xem lại chú giải 'cốc'. Dị bản 'cong/trong nhà' ở nguồn khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): chữ Nôm và phiên âm khớp vi.wikisource Đệ ngũ hội (URL của bản ghi mở được). Bản dịch hiện đại đổi Bụt thành Phật, 'cốc' thành 'đến khi'; đúng ý, Wikisource không chú giải 'cốc'. Trong trường original, 'bụt' viết thường ở hai chỗ so với bản 'Bụt' ở câu đầu, khác chính tả nhẹ."
 }

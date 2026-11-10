@@ -2,14 +2,45 @@
   "unit": "sources/wikisource.en.popular-science-monthly-volume-12-january-1878-illustrations",
   "hash": "sha256:e74b983ebfcc56b638699856f84b457a45227c9c6ce3c6c2f78b713319233600",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
-      "text": "Trang đúng Peirce 'How to Make Our Ideas Clear', Popular Science Monthly 12: 286–302 (1878)",
+      "text": "Tác giả Peirce, bài 'How to Make Our Ideas Clear' (Illustrations of the Logic of Science, second paper)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II",
+          "quote": "SECOND PAPER.—HOW TO MAKE OUR IDEAS CLEAR.",
+          "where": "thân trang; header: by C. S. PEIRCE"
+        }
+      ]
+    },
+    {
+      "text": "Popular Science Monthly tập 12, tháng 1/1878, trang 286–302",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II",
+          "quote": "Popular Science Monthly Volume 12 January 1878 (1878)",
+          "where": "header; mốc trang [286] đến [302] trong văn bản"
+        }
+      ]
+    },
+    {
+      "text": "URL mở được và trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II",
+          "quote": "Illustrations of the Logic of Science II by Charles Sanders Peirce",
+          "where": "header"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): trang Wikisource có mốc trang [286]...[302] (đúng 286–302). Tiêu đề bản ghi dùng tên bài 'How to Make Our Ideas Clear' còn trang đặt tên 'Illustrations of the Logic of Science II' — hợp lý."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/wikisource.vi.cu-tran-lac-ao-phu",
   "hash": "sha256:abbd3b25ed7d4b8988cbfd285d736a12b556f12e069a73d1d9ec00ed79730b40",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
       "text": "Trang Wikisource 'Cư trần lạc đạo phú' (居塵樂道賦), tác giả Trần Nhân Tông, chữ Nôm",
@@ -11,17 +11,24 @@
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA",
-          "quote": "được viết bằng chữ Nôm, dài 10 hội, cuối bài là 4 câu kệ bằng chữ Hán",
-          "where": "đoạn giới thiệu đầu trang"
+          "quote": "Bài phú được viết bằng chữ Nôm, dài 10 hội, cuối bài là 4 câu kệ bằng chữ Hán.",
+          "where": "đoạn giới thiệu đầu trang; tiêu đề: Cư trần lạc đạo phú - 居塵樂道賦 của Trần Nhân Tông"
         }
       ]
     },
     {
-      "text": "Trang có phiên âm (chữ quốc ngữ) kèm chữ Nôm",
+      "text": "Văn bản có phiên âm (chữ quốc ngữ) kèm chữ Nôm (ở các trang con của hội)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Vậy mới hay!",
+          "where": "Đệ ngũ hội: hai cột 'Chữ Nôm' và 'Tiếng Việt'; trang mục lục liệt kê Đệ nhất hội ... Đệ thập hội, Kệ vân"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang mở được, chỉ đọc được phần giới thiệu (tác giả, chữ Nôm, 10 hội); không thấy nội dung hội/phiên âm trong phần lấy về (trang là trang mục lục, văn bản nằm ở các trang con 'Đệ ... hội'). Chưa xác nhận 'phiên âm'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): trang chính là trang mục lục (giới thiệu + liên kết 10 hội và Kệ vân); chữ Nôm và phiên âm nằm ở trang con. Trang con đọc qua fetch ?action=render cùng site."
 }

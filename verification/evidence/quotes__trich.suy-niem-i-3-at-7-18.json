@@ -2,7 +2,7 @@
   "unit": "quotes/trich.suy-niem-i-3-at-7-18",
   "hash": "sha256:3339c8a525189e02bb3da7be4906c576161ee58219f37158ea931c4de1c46ea4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q15",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
       "text": "Nguyên văn Veitch: \"All that I have, up to this moment, accepted ... even once been deceived.\"",
@@ -10,28 +10,21 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "All that I have, up to this moment, accepted as possessed of the highest truth and certainty,",
-          "where": "Meditation I"
-        },
-        {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "I observed, however, that these sometimes misled us;"
-        },
-        {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "by which we have even once been deceived."
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "All that I have, up to this moment, accepted as possessed of the highest truth and certainty, I received either from or through the senses. I observed, however, that these sometimes misled us; and it is the part of prudence not to place absolute confidence in that by which we have even once been deceived.",
+          "where": "đoạn 3"
         }
       ]
     },
     {
-      "text": "Người nói và tác phẩm đúng (Descartes, Suy niệm I)",
+      "text": "Người nói và tác phẩm đúng (Descartes, Suy niệm I); bản dịch Veitch",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "The Meditations of Descartes 1853 John Veitch"
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "translator = John Veitch",
+          "where": "First published 1853"
         }
       ]
     },
@@ -41,17 +34,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "and it is the part of prudence not to place absolute confidence in that"
+          "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_I",
+          "quote": "quidquid hactenus ut maxime verum admisi, vel a sensibus, vel per sensus accepi",
+          "where": "đối chiếu bản Latinh"
         }
       ]
     },
     {
       "text": "locator: §3, AT 7:18",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "3. All that I have, up to this moment",
+          "where": "§3 theo bản Veitch"
+        },
+        {
+          "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_I",
+          "quote": "3. Nempe quidquid hactenus ut maxime verum admisi",
+          "where": "§3 nằm sau mốc [18] và trước mốc [19]"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn: Veitch 1853 (yogebooks.com PDF, in lại bản gốc; không phải Gutenberg). Veitch 1853 và Long 1862 đều thuộc phạm vi công cộng, trường license 'unknown' nên điền lại. Locator (số § và số AT) không tìm được trong nguồn đã mở: bản Veitch 1853 không đánh số đoạn, bản earlymoderntexts không có số AT."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Xem ghi chú bản §12: Veitch ở en.wikisource, AT ở la.wikisource (Adam et Tannery)."
 }

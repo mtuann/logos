@@ -2,7 +2,7 @@
   "unit": "quotes/platon.cong-hoa",
   "hash": "sha256:0199673b8e3872afe1bb8a816279ec6d9e5f824cbcf52e9d5a17dcaff1a65b0a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q09",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn \"Will he not be called by them a prater, a star-gazer, a good-for-nothing?\" có đúng từng chữ trong bản Jowett",
@@ -65,9 +65,21 @@
     {
       "text": "locator: số Stephanus của câu (tiêu đề chỉ ghi Quyển VI; không mở được nguồn có số Stephanus: Perseus/Perseids chặn công cụ)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=6:section=489a",
+          "quote": "τε καὶ ἀδολέσχην καὶ ἄχρηστόν σφισι καλεῖσθαι ὑπὸ τῶν ἐν ταῖς οὕτω κατεσκευασμέναις ναυσὶ πλωτήρων;",
+          "where": "Cộng hòa VI, 489a (câu bắt đầu ở 488e)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=488e",
+          "quote": "would be called a star-gazer, an idle babbler,",
+          "where": "Cộng hòa VI, 488e (Shorey) — câu 'star-gazer, babbler, good-for-nothing' trải từ 488e sang 489a"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trường work là 'chua-ro.cong-hoa' (khóa tạm?) nên người làm xem lại. Số Stephanus: dự kiến 488e nhưng chưa mở được nguồn xác nhận, nên chưa ghi dung. Gutenberg 1497 cắt trước Quyển VI nên đối chiếu bằng classics.mit.edu (bản Jowett) và Complete Plato (austria-forum). license 'unknown': Jowett 1871-1894, phạm vi công cộng."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): Perseus (Burnet/Shorey) cho thấy câu 'ἀστρονόμον… ἀδολέσχην… ἄχρηστον' trải từ 488e sang 489a (đầu 489a: 'τε καὶ ἀδολέσχην καὶ ἄχρηστόν'). Đề xuất locator: 488e–489a (không phải 488e đơn thuần). Trường work 'chua-ro.cong-hoa' vẫn là khóa tạm, người làm xem lại."
 }

@@ -2,14 +2,33 @@
   "unit": "sources/wikisource.en.lives-of-the-eminent-philosophers-book-i",
   "hash": "sha256:3947aff8d2a5cadb3b2ddfe5fcad2bf8b880ce03692f3cfb7298f5dbd41820a0",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Diogenes Laërtius, Lives, quyển I, bản dịch R. D. Hicks 1925",
+      "text": "Diogenes Laërtius, Lives of the Eminent Philosophers, bản dịch R. D. Hicks (1925), Wikisource",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers",
+          "quote": "Lives of the Eminent Philosophers (1925)",
+          "where": "trang gốc: by Diogenes Laërtius, translated by Robert Drew Hicks; Loeb, 1925"
+        }
+      ]
+    },
+    {
+      "text": "Quyển I có Thales (Seven Sages); URL mở được và trỏ đúng quyển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_I",
+          "quote": "The men who were commonly regarded as sages were the following: Thales, Solon",
+          "where": "Prologue 13"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): trang gốc ghi Book I - The Seven Sages; Wikisource ghi 'not backed by a scanned copy' (nguồn không có bản quét, ghi nhận để người làm biết)."
 }

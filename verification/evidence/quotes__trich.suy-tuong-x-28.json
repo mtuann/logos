@@ -2,7 +2,7 @@
   "unit": "quotes/trich.suy-tuong-x-28",
   "hash": "sha256:43bb2bb04c875ac0244be7ac0384f81d18838166f4fa2f49efe0c03891b04957",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q15",
+  "checker": "agent-kiem-5.2-r07",
   "claims": [
     {
       "text": "Nguyên văn Long: \"Imagine every man who is grieved at anything or discontented to be like a pig which is sacrificed and kicks and screams.\"",
@@ -45,9 +45,16 @@
     {
       "text": "locator: X.28 (số đoạn)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15877/pg15877-images.html",
+          "quote": "28. Imagine every man who is grieved at anything or discontented to be like a pig which is sacrificed and kicks and screams.",
+          "where": "Quyển X, đoạn 28"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Quyển X xác nhận; số đoạn 28 chưa xác nhận bằng nguồn có đánh số."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): Gutenberg #15877 (Long 1862); X.28 xác nhận. Câu thứ hai nằm ở đoạn kế (sau một câu 'Like this pig also is he…'), bản ghi dùng '...' hợp lệ."
 }

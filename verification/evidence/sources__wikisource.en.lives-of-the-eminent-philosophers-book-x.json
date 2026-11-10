@@ -2,14 +2,67 @@
   "unit": "sources/wikisource.en.lives-of-the-eminent-philosophers-book-x",
   "hash": "sha256:87b202a73b9cb9fadc59fcbe4c0217054ecea1985dbe1277863a963f21d2c4de",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Diogenes Laërtius, Lives, quyển X (ba bức thư và Những học thuyết chính), bản dịch Hicks 1925",
+      "text": "Diogenes Laërtius, Lives of the Eminent Philosophers, bản dịch R. D. Hicks (1925), Wikisource",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers",
+          "quote": "Lives of the Eminent Philosophers (1925)",
+          "where": "trang gốc: by Diogenes Laërtius, translated by Robert Drew Hicks; Loeb, 1925"
+        }
+      ]
+    },
+    {
+      "text": "Quyển X có Epicurus, ba bức thư và những học thuyết chính; URL mở được và trỏ đúng quyển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X",
+          "quote": "Epicurus, son of Neocles and Chaerestrate, was a citizen of Athens of the deme Gargettus",
+          "where": "Epicurus"
+        }
+      ]
+    },
+    {
+      "text": "Có ba bức thư (Herodotus, Pythocles, Menoeceus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X",
+          "quote": "Epicurus to Herodotus, greeting.",
+          "where": "đ. 35"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X",
+          "quote": "Epicurus to Pythocles, greeting.",
+          "where": "đ. 84"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X",
+          "quote": "Epicurus to Menoeceus, greeting.",
+          "where": "đ. 122"
+        }
+      ]
+    },
+    {
+      "text": "Có Những học thuyết chính (Principal Doctrines)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X",
+          "quote": "A blessed and eternal being has no trouble himself and brings no trouble upon any other being",
+          "where": "đ. 139, học thuyết 1; bản Hicks gọi mục lục là 'Sovran Maxims'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi 'not backed by a scanned copy'."
 }

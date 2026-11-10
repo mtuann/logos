@@ -2,12 +2,31 @@
   "unit": "sources/wikisource.en.the-problems-of-philosophy-chapter-15",
   "hash": "sha256:3b750e1f01d6f85abd3df3d9ab82dd91d71f74459faac25f7cecc49213ee19a7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
-      "text": "Trang đúng Russell, The Problems of Philosophy (1912), chương XV, bản in 1912 trên Wikisource",
+      "text": "Russell, The Problems of Philosophy (1912), London: Williams and Norgate (bản in 1912 trên Wikisource)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Problems_of_Philosophy",
+          "quote": "The Problems of Philosophy (1912)",
+          "where": "header; trang tên sách: WILLIAMS & NORGATE, London"
+        }
+      ]
+    },
+    {
+      "text": "URL chương XV mở được: 'The Value of Philosophy'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15",
+          "quote": "CHAPTER XV",
+          "where": "thân trang; tiêu đề THE VALUE OF PHILOSOPHY"
+        }
+      ]
     },
     {
       "text": "Gutenberg ebook 5827 là The Problems of Philosophy của Russell (1912)",
@@ -17,11 +36,11 @@
         {
           "url": "https://www.gutenberg.org/ebooks/5827",
           "quote": "The Problems of Philosophy",
-          "where": "Gutenberg 5827, Bertrand Russell, 1912"
+          "where": "Gutenberg 5827, Bertrand Russell, 1912 (từ lượt kiểm trước, agent-kiem-5.2-s15; không mở lại)"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): hai trang Wikisource khớp. Claim Gutenberg giữ nguyên từ lượt trước (đã dung, kèm nguồn)."
 }

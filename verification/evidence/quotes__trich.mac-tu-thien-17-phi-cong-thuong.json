@@ -2,20 +2,27 @@
   "unit": "quotes/trich.mac-tu-thien-17-phi-cong-thuong",
   "hash": "sha256:8bfa24e6b5365deb9fd89efd8d6f4f342cd2d0f3286939eb5524345e39312647",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
-      "text": "Nguyên văn đoạn 殺一人謂之不義 … 謂之義",
+      "text": "Nguyên văn đoạn 殺一人謂之不義 … 謂之義 (nửa đầu)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷五",
           "quote": "殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。"
-        },
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn đoạn 殺一人謂之不義 … 謂之義 (nửa sau)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
-          "quote": "當此，天下之君子皆知而非之，謂之不義。今至大爲不義攻國，則弗知非，從而譽之，謂之義"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷五",
+          "quote": "當此，天下之君子皆知而非之，謂之不義。今至大為不義攻國，則弗知非，從而譽之，謂之義"
         }
       ]
     },
@@ -25,17 +32,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
-          "quote": "殺十人十重不義，必有十死罪矣"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷五",
+          "quote": "今至大為不義攻國，則弗知非，從而譽之，謂之義",
+          "where": "dịch đúng ý"
         }
       ]
     },
     {
       "text": "locator: thiên 17 Phi công thượng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷五",
+          "quote": "非攻上第十七",
+          "where": "Mặc tử nhàn cổ quyển 5, tiêu đề thiên"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Số thiên 17 chưa kiểm được (chinesenotes.com chỉ ghi 卷五 非攻上). Nguyên văn khớp đúng chữ (爲/為 dị thể). Nguồn: Wikisource."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Khớp bản 墨子閒詁/卷五. Bản Wikisource 墨子/非攻上 viết 弗知而非 (thêm 而) — dị bản, không sai bản ghi."
 }

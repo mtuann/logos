@@ -2,7 +2,7 @@
   "unit": "events/lich-su.nhat-ban-viet-nam.1075",
   "hash": "sha256:994101e3b206760da5aeaf7687253607d522500da6e0dc58af17b8f6e6642659",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e02",
+  "checker": "agent-kiem-5.2-r08",
   "claims": [
     {
       "text": "Thời Lê sơ (thế kỷ 15) Nho giáo trở thành hệ tư tưởng chính thống",
@@ -21,6 +21,11 @@
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之三",
+          "quote": "乙卯四年〈宋熙寕八年〉春二月，詔選明經博學及試儒學三場。",
+          "where": "Toàn thư, Bản kỷ quyển 3, Lý Nhân Tông, Thái Ninh năm 4 (Ất Mão, 1075)"
+        },
+        {
           "url": "https://vtcnews.vn/vi-vua-nao-to-chuc-khoa-thi-cu-dau-tien-o-nuoc-ta-di-chieu-khong-xay-lang-mo-ar772720.html",
           "quote": "xuống chiếu tuyển Minh kinh bác học và thi nho học tam trường"
         }
@@ -29,9 +34,20 @@
     {
       "text": "Nho học du nhập từ thời Bắc thuộc",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/外紀卷之三",
+          "quote": "錫光漢中人，在交趾教民以禮義。",
+          "where": "Toàn thư, Ngoại kỷ quyển 3, thời Đông Hán (Tích Quang, Nhâm Diên)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/外紀卷之三",
+          "quote": "嶺南文風始二守焉"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn yếu: 1075 chỉ đọc qua báo VTC News trích Đại Việt sử ký toàn thư (chưa mở được bản Toàn thư, bản kỷ Lý Nhân Tông, Ất Mão 1075); đề xuất trích trực tiếp Toàn thư quyển 3. Lê sơ: bài báo khoa học vjol (nguồn yếu hơn Viện Văn học/Hán Nôm). 'Bắc thuộc' chưa mở được nguồn trong lượt cho phép. Nhãn [chắc chắn] cho 'Lê sơ chính thống' hợp nguồn; mức độc tôn hay chính thống còn tranh luận."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Năm 1075 đối chiếu trực tiếp Đại Việt sử ký toàn thư (zh.wikisource, Ất Mão = Tống Hy Ninh 8 = 1075; chép 'thi Nho học tam trường'). Bắc thuộc: Toàn thư chỉ nói Tích Quang 'dạy dân lễ nghĩa', văn phong Lĩnh Nam bắt đầu từ hai thái thú; đó là bằng chứng gián tiếp cho việc Nho học du nhập, chưa phải câu nói thẳng 'Nho học'. Lê sơ: nguồn là bài tạp chí khoa học (vjol), nguồn yếu hơn Viện Hán Nôm/Viện Văn học; nhãn [chắc chắn] hợp nguồn nhưng mức 'chính thống' còn tranh luận. VTC News là nguồn yếu, giữ để đối chiếu."
 }

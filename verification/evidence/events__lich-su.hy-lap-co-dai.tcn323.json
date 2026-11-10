@@ -2,7 +2,7 @@
   "unit": "events/lich-su.hy-lap-co-dai.tcn323",
   "hash": "sha256:2c22b2c5d5803f9899ebf9aa9e12ebcd3fed0da49902d872d052d8161d55c09d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e02",
+  "checker": "agent-kiem-5.2-r08",
   "claims": [
     {
       "text": "Alexander Đại đế qua đời năm 323 TCN",
@@ -10,17 +10,37 @@
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://www.britannica.com/event/Hellenistic-Age",
+          "quote": "the death of Alexander the Great in 323 BCE"
+        },
+        {
           "url": "https://www.britannica.com/biography/Alexander-the-Great",
           "quote": "died June 13, 323 bce, Babylon"
         }
       ]
     },
     {
-      "text": "Sau đó các thành bang Hy Lạp suy tàn, con người mất chỗ dựa chính trị cũ",
+      "text": "Sau đó các thành bang Hy Lạp suy tàn (mất độc lập thực tế trước các vương quốc Hellenistic)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/event/Hellenistic-Age",
+          "quote": "Aratus and the league were allowed to retain a shadow of independence, but no more than that.",
+          "where": "về Liên minh Achaea dưới sự thống trị Macedon"
+        },
+        {
+          "url": "https://www.britannica.com/event/Hellenistic-Age",
+          "quote": "Sparta, always different from the rest of Greece, was a shadow of its former self."
+        }
+      ]
+    },
+    {
+      "text": "Con người vì thế mất đi chỗ dựa chính trị cũ (diễn giải tâm lý–triết học về thời Hellenistic)",
       "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Năm 323 đúng. Phần diễn giải 'thành bang suy tàn, mất chỗ dựa chính trị' chưa mở được nguồn nói đúng ý (Britannica chỉ nói Alexander đặt nền cho thế giới Hellenistic). Đề xuất nguồn: SEP 'Hellenistic Philosophy' hoặc IEP; hoặc làm nhẹ câu (thành bang mất độc lập thực tế trước các vương quốc Hellenistic)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Năm 323 đúng; thành bang mất độc lập thực tế có cơ sở ở Britannica 'Hellenistic age'. Vế 'con người mất chỗ dựa chính trị' là diễn giải phổ biến nhưng Britannica không nói; đã thử SEP/IEP (không có mục Hellenistic philosophy ở bản lưu; stoicism, epicurus không nói). Đề xuất nguồn: Long, Hellenistic Philosophy, hoặc làm nhẹ câu."
 }

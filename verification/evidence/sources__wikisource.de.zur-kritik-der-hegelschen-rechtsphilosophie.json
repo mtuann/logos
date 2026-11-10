@@ -2,14 +2,33 @@
   "unit": "sources/wikisource.de.zur-kritik-der-hegelschen-rechtsphilosophie",
   "hash": "sha256:1fb476c19fb7c156880c53cd8aae6b962322a0454c664935b281bfe0761c355d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang de.wikisource là 'Zur Kritik der Hegel'schen Rechtsphilosophie. Einleitung' của Marx, Deutsch-Französische Jahrbücher 1844",
+      "text": "Marx, \"Zur Kritik der Hegel'schen Rechtsphilosophie. Einleitung\", Deutsch-Französische Jahrbücher (1844)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Zur_Kritik_der_Hegel%E2%80%99schen_Rechtsphilosophie",
+          "quote": "aus:\tDeutsch-Französische Jahrbücher; S. 71–85.",
+          "where": "Kopfdaten (Erscheinungsdatum: 1844, Paris)"
+        }
+      ]
+    },
+    {
+      "text": "URL Wikisource tiếng Đức mở được và trỏ đúng văn bản",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Zur_Kritik_der_Hegel%E2%80%99schen_Rechtsphilosophie",
+          "quote": "Für Deutschland ist die Kritik der Religion im Wesentlichen beendigt",
+          "where": "Đoạn đầu"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi Entstehungsdatum 1843/44, in 1844."
 }

@@ -2,19 +2,110 @@
   "unit": "sources/wikisource.zh.a1c4f2e4b8",
   "hash": "sha256:d75ef6263ef0b9a377b94af5439fce1480a859d1c216323228e874db06f9847e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r03",
   "claims": [
     {
-      "text": "URL 本紀卷之六 mở được; Bản kỷ quyển 5-6 có Trần Nhân Tông sinh 1258, lên ngôi 1278, nhường ngôi 1293, xuất gia 1295 và 1299, sang Chiêm Thành 1301, mất 1308",
+      "text": "Trần Nhân Tông sinh năm 1258 (Bản kỷ quyển 5)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "以元豊八年戊午十一月十一日誕生",
+          "where": "mục 仁宗皇帝; 戊午 = 1258"
+        }
+      ]
+    },
+    {
+      "text": "Lên ngôi 1278 (quyển 5)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "冬十月二十二日，帝禅位于皇太子昑。昑即皇帝位",
+          "where": "mục 戊寅六年 (1278), triều Thánh Tông"
+        }
+      ]
+    },
+    {
+      "text": "Nhường ngôi 1293 (quyển 5)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "癸巳九年〈三月以後英宗興隆元年，元至元三十年〉春三月九日，帝禪位于皇太子烇即皇帝位。",
+          "where": "mục 癸巳 (1293), phần Nhân Tông"
+        }
+      ]
+    },
+    {
+      "text": "Xuất gia 1295 và 1299 (quyển 6)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "夏六月，上皇回京師，出家居武林行宫，而復回也。",
+          "where": "mục 乙未三年 (1295)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "八月，上皇自天長府復出家，入安子山苦行。",
+          "where": "mục 己亥七年 (1299)"
+        }
+      ]
+    },
+    {
+      "text": "Sang Chiêm Thành 1301 (quyển 6)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "三月，上皇遊方幸占城，哀牢冦沱江。",
+          "where": "mục 辛丑九年 (1301), trước mục 壬寅"
+        }
+      ]
+    },
+    {
+      "text": "Mất 1308 (quyển 6)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "三日，上皇崩于安子山卧雲庵。",
+          "where": "mục 戊申十六年 (1308), tháng 11"
+        }
+      ]
+    },
+    {
+      "text": "Lời bình của Ngô Sĩ Liên về Nhân Tông",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "史臣吳士連曰：仁宗上奉慈宫，有光孝道",
+          "where": "mục 戊申 (1308)"
+        }
+      ]
     },
     {
       "text": "Năm 1303: Thượng hoàng mở hội ở chùa Phổ Minh, trao giới (texts_seen)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "上皇居天長府，建無量法會於普明寺，施金銀錢帛賑給天下貧民，及授戒施經。",
+          "where": "mục 1303 (癸卯; trang in 十一年元大德十年, nhầm 'đại đức thất niên', lỗi của Wikisource)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. WebSearch cho thấy 本紀卷之五 và 本紀卷之六 tồn tại trên zh.wikisource; chưa đọc được nội dung. Lưu ý: URL chỉ là quyển 6 trong khi mô tả ghi quyển 5-6; nên thống nhất cách ghi (texts_seen ghi quyển 6 cho năm 1303; bản chính ghi quyển 5-6) và thêm URL quyển 5 cho các mốc 1258 và 1278."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): URL bản ghi chỉ là quyển 6; các mốc 1258, 1278, 1293 nằm ở quyển 5 (đề nghị thêm URL quyển 5). Cách ghi nên thống nhất 'quyển 5-6' (bản chính) thay vì 'quyển 6' (texts_seen) vì có mốc ở cả hai quyển."
 }

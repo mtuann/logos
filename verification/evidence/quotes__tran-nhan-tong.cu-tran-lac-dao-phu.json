@@ -2,7 +2,7 @@
   "unit": "quotes/tran-nhan-tong.cu-tran-lac-dao-phu",
   "hash": "sha256:36d68ceafdf5a96fa10b7d3bbc11830705da39ce737dae1412d3857b7e1f7415",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q10",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Phiên âm Nôm: Bụt ở cong nhà, chẳng phải tìm xa. Nhân khuây bản nên ta tìm Bụt ... thuộc hội thứ năm",
@@ -35,24 +35,58 @@
     {
       "text": "Chữ Nôm 丕買処：孛於宮茹，庄沛寻賒。因虧本年些寻孛，典谷処㐱孛羅些",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "丕買処 孛於宮茹 庄沛寻賒 因虧本年些寻孛 典谷処㐱孛羅些",
+          "where": "Đệ ngũ hội, cột Chữ Nôm (các dòng liền nhau)"
+        }
+      ]
     },
     {
       "text": "Chữ Hán của bài kệ 居塵樂道且隨緣，飢則飧兮困則眠。家中有寶休尋覓，對境無心莫問禪",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Vi.wikisource in: 居塵樂道且隨緣，饑則飧兮困則眠。家中有宝休尋覓，對鏡無心莫問禪 (饑, 宝, 對鏡/Đối kính). Chỉ khác ở dị thể 飢/饑, 寶/宝 và 境/鏡; người làm chọn một bản in và ghi rõ nguồn (bản Logos dùng 對境, Đối cảnh, chưa đối chiếu được ở nguồn thứ hai).",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "饑則飧兮困則眠。 家中有宝休尋覓， 對鏡無心莫問禪。",
+          "where": "Kệ vân, cột Nguyên văn chữ Hán"
+        }
+      ]
     },
     {
       "text": "Câu 'Vậy mới hay:' mở đầu phiên âm hội 5",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Vậy mới hay! Bụt ở cong nhà; Chẳng phải tìm xa.",
+          "where": "Đệ ngũ hội, cột Tiếng Việt"
+        }
+      ]
     },
     {
       "text": "Diễn nghĩa của Logos sát nghĩa nguyên văn",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Nhân khuây bản nên ta tìm bụt; Đến cốc hay chỉn bụt là ta."
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Đói thì ăn, mệt thì ngủ",
+          "where": "Kệ vân, cột Dịch nghĩa"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được vi.wikisource Đệ ngũ hội (url_not_found, hai lần), không có bản chữ Nôm/Hán nào đọc được. Kiểm gián tiếp được phiên âm quốc ngữ và vị trí hội 5/kệ kết qua bài báo vjol; bản khác (jos.hueuni.edu.vn) in 'Bụt ở trong nhà... Nhân khuấy bổn', tức dị bản phiên âm 'cong/trong', 'khuây/khuấy', cần thống nhất. Ở chữ Hán, record viết 飧 còn nhiều bản in 飡; người kiểm cần đối chiếu Viện Hán Nôm hoặc CBETA/Wikisource. Ý diễn nghĩa 'Bụt ở trong nhà ... Bụt chính là ta' hợp với phiên âm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): đối chiếu vi.wikisource Đệ ngũ hội và Kệ vân. Chữ Nôm khớp. Chữ Hán kệ khác ba dị thể (饑/飢, 宝/寶, 對鏡/對境); chỉ 境/鏡 đổi chữ, mức nhẹ vì tùy bản in. Phiên âm 'cong/trong', 'khuây/khuấy' là dị bản đã ghi lượt trước. Diễn nghĩa 'đến khi biết ra' cho 'đến cốc hay' hợp ý chung, Wikisource không chú giải 'cốc'."
 }

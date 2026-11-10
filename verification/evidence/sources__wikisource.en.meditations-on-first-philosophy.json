@@ -2,14 +2,62 @@
   "unit": "sources/wikisource.en.meditations-on-first-philosophy",
   "hash": "sha256:0cdac824e5a067918639f1aab58d4ee0a4863abe3b2cb4e3eafc145b3f9dc0e9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Descartes, Meditations on First Philosophy, bản dịch John Veitch (1853; ấn bản 1901 trên Wikisource), cũng khớp mọi texts_seen",
+      "text": "Descartes, Meditations on First Philosophy",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "Meditations on First Philosophy (1901)",
+          "where": "by René Descartes"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch John Veitch (1853; Wikisource theo ấn bản 1901), phạm vi công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "First published 1853. Reprinted 1901.",
+          "where": "trang gốc: by René Descartes, translated by John Veitch"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "in the public domain worldwide because the author died at least 100 years ago",
+          "where": "giấy phép"
+        }
+      ]
+    },
+    {
+      "text": "Cách ghi thứ hai (texts_seen): Meditations (1641)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/70091",
+          "quote": "first published in Latin in 1641",
+          "where": "Project Gutenberg 70091"
+        }
+      ]
+    },
+    {
+      "text": "URL Wikisource mở được và trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "Letter of Dedication Preface to the Reader Synopsis Meditation I",
+          "where": "mục lục"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi 'The source document of this text is not known' (không có bản quét/nguồn gốc); nên ghi nhận. Cách ghi nên thống nhất: bản ghi chính '(1853; Wikisource theo ấn bản 1901)'; cách ghi thứ hai '(1641), bản dịch John Veitch' dễ hiểu nhầm 1641 là năm bản dịch, nên ghi 'Descartes (1641; bản dịch Veitch 1853)'."
 }

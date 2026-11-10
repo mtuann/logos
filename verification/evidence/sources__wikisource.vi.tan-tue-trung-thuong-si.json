@@ -2,7 +2,7 @@
   "unit": "sources/wikisource.vi.tan-tue-trung-thuong-si",
   "hash": "sha256:2070ca4f897fb80f39e9c5e2cd84ae4adb17a68a2bda549c2d229ace4c6a7ae4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
       "text": "Trang Wikisource 'Tán Tuệ Trung thượng sĩ' tồn tại và mở được",
@@ -17,11 +17,30 @@
       ]
     },
     {
-      "text": "Tác giả Trần Nhân Tông và có nguyên văn chữ Hán 贊慧忠上士 (trang không nêu rõ tác giả/chữ Hán trong phần lấy về)",
+      "text": "Tác giả Trần Nhân Tông; tên chữ Hán 贊慧忠上士",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/T%C3%A1n_Tu%E1%BB%87_Trung_th%C6%B0%E1%BB%A3ng_s%C4%A9",
+          "quote": "Tán Tuệ Trung thượng sĩ - 贊慧忠上士 của Trần Nhân Tông",
+          "where": "dòng tiêu đề dưới tên trang"
+        }
+      ]
+    },
+    {
+      "text": "Nội dung: bài thơ Hán Việt có phiên âm và dịch nghĩa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/T%C3%A1n_Tu%E1%BB%87_Trung_th%C6%B0%E1%BB%A3ng_s%C4%A9",
+          "quote": "Nhìn lên càng thấy cao,",
+          "where": "cột Dịch nghĩa; phiên âm: 'Vọng chí di cao,'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang đúng tên bài, có bài thơ chữ Việt (dòng 'Nhìn lên càng thấy cao, Khoan vào càng thấy cứng.'), nhưng bản lấy về không ghi tác giả và không có chữ Hán; bản ghi mô tả 'nguyên văn chữ Hán' chưa xác nhận. Trang có vẻ là bản dịch/phiên âm; người làm kiểm lại."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): bản ghi chỉ dẫn tên chữ Hán (贊慧忠上士) trong tiêu đề — khớp. Lưu ý: trang chỉ có phiên âm Hán Việt và dịch nghĩa, KHÔNG có nguyên văn chữ Hán của bài (dù lời dẫn trang ghi 'Nguyên văn bài thơ bằng chữ Hán, sau đây là phiên âm và dịch nghĩa'); nếu bài dùng trang này để trích chữ Hán thì cần nguồn khác."
 }

@@ -2,7 +2,7 @@
   "unit": "quotes/trich.suy-tuong-ii-11-va-iv-48",
   "hash": "sha256:7d6a820babded4d0a3ac8a73b332e0f264d77765db4fa2615f99684c17ccbc13",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q15",
+  "checker": "agent-kiem-5.2-r07",
   "claims": [
     {
       "text": "Nguyên văn Long II.11: \"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.\"",
@@ -19,14 +19,12 @@
     {
       "text": "Nguyên văn Long IV.48: \"...end thy journey in content, as an olive falls off when it is ripe...\"",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "end thy journey in content, just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
-          "quote": "just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
-          "where": "Book Four, gần cuối"
+          "url": "https://www.gutenberg.org/cache/epub/15877/pg15877-images.html",
+          "quote": "as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
+          "where": "Long 1862 (Gutenberg #15877)"
         }
       ]
     },
@@ -47,17 +45,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
-          "quote": "blessing nature who produced it, and thanking the tree on which it grew."
+          "url": "https://www.gutenberg.org/cache/epub/15877/pg15877-images.html",
+          "quote": "blessing nature who produced it, and thanking the tree on which it grew.",
+          "where": "IV.48"
         }
       ]
     },
     {
       "text": "locator: II.11 và IV.48 (số đoạn trong quyển)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15877/pg15877-images.html",
+          "quote": "11. Since it is possible[A] that thou mayest depart from life this very moment, regulate every act and thought accordingly.",
+          "where": "Quyển II, đoạn 11"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15877/pg15877-images.html",
+          "quote": "Pass then through this little space of time conformably to nature, and end thy journey in content, as an olive falls off when it is ripe",
+          "where": "Quyển IV, đoạn 48 (đoạn kế tiếp là 49 'Be like the promontory')"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Quyển II và IV đã xác nhận; số đoạn 11 và 48 chưa xác nhận bằng nguồn có đánh số (MIT không đánh số, Standard Ebooks chặn robot ở trang từng quyển). Lỗi nhe: bản ghi bỏ chữ 'just' trong 'just as an olive' mà không dùng dấu chấm lửng."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): bản Long 1862 trên Gutenberg #15877 có đánh số đoạn và khớp nguyên văn bản ghi (có 'as an olive', không có 'just'). Lượt trước ghi lỗi nhe vì đối chiếu với bản MIT (đã hiệu đính: 'just as an olive'); với bản Long 1862 thì bản ghi đúng, nên đổi thành dung. Locator xác nhận: II.11 và IV.48."
 }

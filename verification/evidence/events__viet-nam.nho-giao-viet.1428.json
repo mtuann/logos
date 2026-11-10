@@ -2,7 +2,7 @@
   "unit": "events/viet-nam.nho-giao-viet.1428",
   "hash": "sha256:9bdbb6c8fa8d69beafacdb7132e0e3c701edc2305f58782565f6e57751a8efa9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e05",
+  "checker": "agent-kiem-5.2-r08",
   "claims": [
     {
       "text": "Bình Ngô đại cáo của Nguyễn Trãi viết năm 1428; văn bản chữ Hán 仁義之舉要在安民 / 弔伐之師莫先去暴",
@@ -11,8 +11,13 @@
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
+          "quote": "Bình Ngô đại cáo (1428) là bài cáo của Nguyễn Trãi",
+          "where": "phần dẫn của trang"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
           "quote": "仁義之舉,要在安民,",
-          "where": "Wikisource, theo Hoàng Việt văn tuyển 1825"
+          "where": "Hán văn theo Hoàng Việt văn tuyển"
         },
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
@@ -21,11 +26,22 @@
       ]
     },
     {
-      "text": "Câu dịch 'Việc nhân nghĩa cốt ở yên dân…' là câu dịch quen thuộc trong sách giáo khoa (chưa mở được bản dịch cụ thể)",
+      "text": "Câu dịch 'Việc nhân nghĩa cốt ở yên dân…' là bản dịch có thật, dịch sát hai câu chữ Hán (bản Ngô Tất Tố trên Wikisource)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
+          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo."
+        }
+      ]
+    },
+    {
+      "text": "Câu dịch này là câu quen thuộc trong sách giáo khoa",
       "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chữ Hán và năm 1428 đã kiểm; phần bản dịch SGK không xác định được nguồn trong phiên này (trang dịch Wikisource không mở được)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Chữ Hán và năm 1428 khớp. Bản dịch Ngô Tất Tố (vi.wikisource) trùng chữ với câu trong bản ghi; việc nó 'quen thuộc trong sách giáo khoa' chỉ thấy ở trang tổng hợp soạn văn (loigiaihay), loại nguồn không dùng được; chưa mở được sách giáo khoa hay trang nhà xuất bản. Bản ghi đã nói 'chưa xác định chắc chắn người dịch', hợp với thực tế: có thể ghi 'bản dịch của Ngô Tất Tố' nếu người làm xác nhận trên sách giáo khoa."
 }
