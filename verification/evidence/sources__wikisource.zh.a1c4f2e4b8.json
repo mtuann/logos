@@ -1,0 +1,20 @@
+{
+  "unit": "sources/wikisource.zh.a1c4f2e4b8",
+  "hash": "sha256:d75ef6263ef0b9a377b94af5439fce1480a859d1c216323228e874db06f9847e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "URL 本紀卷之六 mở được; Bản kỷ quyển 5-6 có Trần Nhân Tông sinh 1258, lên ngôi 1278, nhường ngôi 1293, xuất gia 1295 và 1299, sang Chiêm Thành 1301, mất 1308",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Năm 1303: Thượng hoàng mở hội ở chùa Phổ Minh, trao giới (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. WebSearch cho thấy 本紀卷之五 và 本紀卷之六 tồn tại trên zh.wikisource; chưa đọc được nội dung. Lưu ý: URL chỉ là quyển 6 trong khi mô tả ghi quyển 5-6; nên thống nhất cách ghi (texts_seen ghi quyển 6 cho năm 1303; bản chính ghi quyển 5-6) và thêm URL quyển 5 cho các mốc 1258 và 1278."
+}

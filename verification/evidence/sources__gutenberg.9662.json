@@ -1,0 +1,49 @@
+{
+  "unit": "sources/gutenberg.9662",
+  "hash": "sha256:82e5538a6b406bcafd40faf0c0429d84483b8f5ac494b28277885e852d92543e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #9662 là Hume, An Enquiry Concerning Human Understanding, biên tập Selby-Bigge",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "An Enquiry Concerning Human Understanding"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "Selby-Bigge, L. A. (Lewis Amherst), Sir, 1860-1951"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1748",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "published in 1748",
+          "where": "Tóm tắt tự động của trang ebook"
+        }
+      ]
+    },
+    {
+      "text": "Bản Selby-Bigge 1902",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662.txt",
+          "quote": "Second Edition, 1902",
+          "where": "Trang bìa"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bốn cách ghi texts_seen đều khớp ebook. Link davidhume.org không mở trong lô này (không thuộc Gutenberg). Số đoạn, mục VIII và XII không kiểm."
+}

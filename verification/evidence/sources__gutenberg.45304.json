@@ -1,0 +1,37 @@
+{
+  "unit": "sources/gutenberg.45304",
+  "hash": "sha256:11d22f068e654f965789a61cf7b8469767ac8e876b1d92fab0ac60b9edb65d99",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #45304 là Augustine, The City of God, tập I",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45304",
+          "quote": "The City of God, Volume I"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/45304",
+          "quote": "Augustine, of Hippo, Saint, 354-430"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Marcus Dods",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45304",
+          "quote": "Dods, Marcus, 1834-1909",
+          "where": "Trường Editor; trang bìa văn bản (pg45304.txt) ghi Dods là người dịch và biên tập, T. & T. Clark, Edinburgh, 1871"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang ebook xếp Dods ở mục Editor, không có mục Translator, nhưng trang bìa văn bản nêu ông là người dịch. Mục không ghi năm bản in; có thể thêm: T. & T. Clark, Edinburgh, 1871. Vị trí (chương/mục) trong sách không kiểm trong lô này (trang ebook không có)."
+}

@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.korpora-org.kant-aa07-006-html",
+  "hash": "sha256:a3324421f67fe8b63b88968e6ce4bf9d01b6fe01bad02719f79eace4d6fd6b7c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "Der Streit der Fakultäten, AA VII tr. 6 chứa chỉ dụ (rescript) ngày 1/10/1794",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa07/006.html",
+          "quote": "Berlin, den 1. October 1794",
+          "where": "nội dung trang"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ dụ của vua Friedrich Wilhelm II: trang chỉ ghi \"Friedrich Wilhelm, König von Preußen\", không có số hiệu \"II\"; ký tên Woellner",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Năm 1798 của Der Streit der Fakultäten (AK 7:5–116)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-religion/",
+          "quote": "The Conflict of the Faculties",
+          "where": "thư mục"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ còn chữ \"II\" chưa thấy trên trang (đúng về lịch sử là Friedrich Wilhelm II nhưng không ghi theo trí nhớ). Ngày 1/10/1794 đúng."
+}

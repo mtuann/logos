@@ -1,0 +1,33 @@
+{
+  "unit": "sources/web.api-parliament-uk.historic-hansard-commons-1947-nov-11-parliament-bi",
+  "hash": "sha256:22a3fbd7563b96cc18f0eb8ef145d1cc7f068c8651480e79a109ca0435dae1ae",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s17",
+  "claims": [
+    {
+      "text": "Churchill phát biểu tại Hạ viện 11/11/1947 (Parliament Bill), Hansard tập 444, cột 207",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "democracy is the worst form of Government except all those other forms that have been tried from time to time",
+          "where": "Hansard HC Deb 11 November 1947 vol 444 col 207"
+        }
+      ]
+    },
+    {
+      "text": "URL mở được và trỏ đúng bài phát biểu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "Parliament Bill"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đã đối chiếu tập 444 cột 207 qua nội dung trang. Ông nói “it has been said that…”, tức dẫn lại một nhận xét quen thuộc."
+}

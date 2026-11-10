@@ -1,0 +1,20 @@
+{
+  "unit": "sources/wikisource.vi.cu-tran-lac-dao-phu-de-ngu-hoi",
+  "hash": "sha256:030d8a2dbf26d4882df0966669b1395cf0e0663d7fac3ad049c9b258885e136b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "Trang Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội mở được, là hội 5, có chữ Nôm và phiên âm",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Trang Cư_trần_lạc_đạo_phú/Kệ_vân mở được, là bài kệ kết",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. WebSearch cho thấy trang con 'Cư trần lạc đạo phú/Đệ ngũ hội' có trên vi.wikisource (cùng Đệ cửu hội), nên URL hội 5 có vẻ đúng; không thấy trang 'Kệ vân' trong kết quả tìm, chưa rõ tên trang bài kệ kết (có thể tên khác) - người làm cần kiểm."
+}

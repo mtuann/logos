@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.vi.quan-hai",
+  "hash": "sha256:7070c7e554e590f07a87480ba9ce8a8301ffc709128ae7777ab070cdad4b9213",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "Trang Quan_hải mở được, là bài Quan hải (關海) của Nguyễn Trãi, nguyên văn chữ Hán",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. WebSearch có liệt kê trang vi.wikisource 'Quan hải' (URL đúng như bản ghi) cạnh bài thivien 'Quan hải - 關海 (Nguyễn Trãi)', nên tồn tại và đúng tác phẩm có khả năng cao; chưa đọc được nội dung để ghi dung."
+}

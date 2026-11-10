@@ -1,0 +1,41 @@
+{
+  "unit": "sources/web.classics-mit-edu.aristotle-nicomachaen-4-iv-html",
+  "hash": "sha256:65c42da6e1eed75d66d42987f0c06c48f41d45b5bbb99ccf48843e123652dc2e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s17",
+  "claims": [
+    {
+      "text": "Nicomachean Ethics IV.7, bản dịch Ross; URL là Quyển IV, có Part 7 (sự trung thực)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html",
+          "quote": "The mean opposed to boastfulness is found in almost the same sphere",
+          "where": "Book IV, Part 7"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch W. D. Ross (1908)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Aristotle, Nicomachean Ethics, bản dịch W. D. Ross (1925; Works of Aristotle, tập IX); 1908 là năm bản dịch Metaphysics",
+      "sources": [
+        {
+          "url": "https://www.cambridge.org/core/journals/classical-review/article/nicomachean-ethics-the-works-of-aristotle-translated-into-english-ethica-nicomachea-by-ross-w-d-fellow-and-tutor-of-oriel-college-deputy-professor-of-moral-philosophy-in-the-university-of-oxford-oxford-at-the-clarendon-press-1925-paper-6s-net-cloth-7s-6d-net/B51DC3023B2F4420C7CD57A95A69D6A1",
+          "quote": "Ethica Nicomachea … Oxford at the Clarendon Press, 1925",
+          "where": "tiêu đề điểm sách, lấy từ kết quả tìm kiếm"
+        },
+        {
+          "url": "https://dn790008.ca.archive.org/0/items/dli.ernet.6106/6106-The%20Works%20Of%20Aristotle%20Vol-ix_djvu.txt",
+          "quote": "Ethica Nicomachea (translated by W. D. Ross)",
+          "where": "tập IX, lời tựa ghi 1925"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Lỗi năm: Ross dịch Nicomachean Ethics in năm 1925 (Works of Aristotle IX; Metaphysics mới là 1908). Đề xuất sửa “(1908)” thành “(1925)”, nguồn Classical Review: “Ethica Nicomachea … Oxford at the Clarendon Press, 1925”."
+}

@@ -1,0 +1,27 @@
+{
+  "unit": "sources/web.eur-lex-europa-eu.eli-reg-2024-1689-oj",
+  "hash": "sha256:975fd82ab4a5617d85952b4ca87daf7c62c9557157e1f3fca1ae90dfe8a5e30e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "Quy định (EU) 2024/1689 (Đạo luật AI) có thật",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689",
+          "quote": "REGULATION (EU) 2024/1689 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+          "where": "đầu văn bản"
+        }
+      ]
+    },
+    {
+      "text": "Điều 50 là điều về nghĩa vụ minh bạch (bản tải bị cắt ở khoảng 183.000 ký tự, dừng ở phần Recital, không thấy các Điều)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Số hiệu và tên quy định đúng; chưa đọc được thân Điều 50 qua công cụ. Cần người xem Điều 50 (\"Transparency obligations for providers and deployers of certain AI systems\") ở eur-lex."
+}

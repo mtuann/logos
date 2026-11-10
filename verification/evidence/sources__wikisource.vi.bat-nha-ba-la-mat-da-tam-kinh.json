@@ -1,0 +1,27 @@
+{
+  "unit": "sources/wikisource.vi.bat-nha-ba-la-mat-da-tam-kinh",
+  "hash": "sha256:73d0e8c4ed691de6c914d170fe71b3e1db92292ca7a162fb334323d794a8d1c7",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang vi.wikisource là Tâm kinh, bản dịch Trần Trọng Kim",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/B%C3%A1t-nh%C3%A3_ba-la-m%E1%BA%ADt-%C4%91a_t%C3%A2m_kinh",
+          "quote": "của không rõ, do Trần Trọng Kim dịch",
+          "where": "header"
+        }
+      ]
+    },
+    {
+      "text": "Nằm trong phụ lục sách Phật giáo của Trần Trọng Kim (trang không nêu nguồn này)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang không nhắc 'Phật giáo' hay 'phụ lục'; chỉ ghi dịch lại từ bản chữ Hán của Huyền Trang. Đề xuất người làm kiểm sách in hoặc bỏ cụm 'phụ lục', ghi 'bản dịch của Trần Trọng Kim'. Nội dung trang do công cụ tóm tắt."
+}

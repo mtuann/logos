@@ -1,0 +1,47 @@
+{
+  "unit": "sources/gutenberg.5827",
+  "hash": "sha256:a65dfda9848b38755bd2f23e03f931bdce69868dbb99a180037a9ff6d56da0ff",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #5827 là Russell, The Problems of Philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "The Problems of Philosophy"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "Russell, Bertrand, 1872-1970"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1912",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+          "quote": "1912",
+          "where": "Sau lời tựa"
+        }
+      ]
+    },
+    {
+      "text": "Chương XV 'The Value of Philosophy' (còn texts_seen ghi chương XII)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Mục archive.org cu31924031008802 là Philosophical Essays (1910) của Russell",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Văn bản ebook bị cắt trước chương XV nên chưa xác nhận số chương; hai cách ghi trong kho mâu thuẫn (XV và XII), cần người làm thống nhất sau khi đối chiếu. Link archive.org chưa mở. Link pg5827.txt cùng ebook (cùng host Gutenberg)."
+}

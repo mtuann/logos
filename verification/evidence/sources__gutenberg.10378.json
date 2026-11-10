@@ -1,0 +1,31 @@
+{
+  "unit": "sources/gutenberg.10378",
+  "hash": "sha256:ef1828d17e8bb13134a897402ca9d35091b54b44992d95b9c34ec48998470532",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 10378 là Autobiography của John Stuart Mill",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10378",
+          "quote": "Autobiography by John Stuart Mill"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1873 (xuất bản lần đầu)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Chương VII — trang ebook không liệt kê chương",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang ebook không ghi năm xuất bản (summary tự sinh chỉ nói 'mid-19th century'). Cần nguồn ngoài cho 1873 và chương VII."
+}

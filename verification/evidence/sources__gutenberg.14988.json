@@ -1,0 +1,38 @@
+{
+  "unit": "sources/gutenberg.14988",
+  "hash": "sha256:fe6e9a8b7b2fcae57adacc1b9724f15591d21c64f87e43da1f4cd83890843ffb",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 14988 chứa Cicero, On the Nature of the Gods (cùng Tusculan Disputations, On the Commonwealth)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/14988",
+          "quote": "Also, Treatises On The Nature Of The Gods, And On The Commonwealth",
+          "where": "trường Title"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch C. D. Yonge",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/14988",
+          "quote": "Yonge, Charles Duke, 1812-1891"
+        }
+      ]
+    },
+    {
+      "text": "Vị trí III.22–23 — chưa đối chiếu văn bản",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Tiêu đề ebook là 'Cicero's Tusculan Disputations' (kèm Nature of the Gods) — nên ghi rõ điều này; nếu trích văn bản, III.22–23 cần đối chiếu."
+}

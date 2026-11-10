@@ -1,0 +1,32 @@
+{
+  "unit": "sources/doi.10-1515-gcla-2014-0004",
+  "hash": "sha256:2dbfc27399033f16641c58543d334d42a8e597f46e9a551ab8d12f680212650c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Tác giả Mickan, Schiefke, Stefanowitsch; tên bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1515/gcla-2014-0004",
+          "quote": "\"title\": \"Key is a llave is a Schlüssel: A failure to replicate an experiment from Boroditsky et al. 2003\""
+        }
+      ]
+    },
+    {
+      "text": "Yearbook of the German Cognitive Linguistics Association 2(1), 2014",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1515/gcla-2014-0004",
+          "quote": "\"container-title\":\"Yearbook of the German Cognitive Linguistics Association\"; \"volume\":\"2\"; \"issued\":{\"date-parts\":[[2014,1,1]]}"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Crossref không có trường trang; mục không nêu trang nên khớp. Tên bài ở Crossref viết 'failure' thường, mục viết hoa 'A Failure' (chính tả tiêu đề, bỏ qua)."
+}

@@ -1,0 +1,39 @@
+{
+  "unit": "sources/wikisource.vi.nho-giao-quyen-iv-thien-iv",
+  "hash": "sha256:63762517bd5e132b74d77d12096071cdb72be90cd7924c8ce8a49f378158d011",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "Trang là Nho giáo, quyển IV, thiên IV (Nho-giáo ở Việt-Nam) trên Wikisource tiếng Việt",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Nho_gi%C3%A1o/Quy%E1%BB%83n_IV/Thi%C3%AAn_IV",
+          "quote": "Nho-giáo / Quyển IV / Thiên IV",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Trang có phần về Chu Văn An (dùng cho people/chu-van-an)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Nho_gi%C3%A1o/Quy%E1%BB%83n_IV/Thi%C3%AAn_IV",
+          "quote": "Chu Văn-An 朱 文 安, người huyện Thanh-trì, tỉnh Hà-đông bây giờ.",
+          "where": "mục Chu Văn An"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Trần Trọng Kim; bản in 1943 (trang không ghi năm bản in trong phần lấy về)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang đúng thiên và có Chu Văn An. Năm bản in 1943 và tác giả không hiện trong phần trang đọc được; xác nhận bằng trang tác phẩm gốc 'Nho giáo' (mục lục) hoặc Tác gia:Trần Trọng Kim. Nho giáo của Trần Trọng Kim in 1930-1933 (3 quyển) và bản 1943 cần nguồn thư mục."
+}

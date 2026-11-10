@@ -1,0 +1,66 @@
+{
+  "unit": "sources/gutenberg.7370",
+  "hash": "sha256:cbb348bf62df1976b4f84b6ccc9a90e41be0d2cbbfc318d02d3432712ab4788f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #7370 là Locke, Second Treatise of Government (trong Two Treatises of Government)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/7370",
+          "quote": "Second Treatise of Government"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370.txt",
+          "quote": "TWO TREATISES OF GOVERNMENT",
+          "where": "Trang bìa"
+        }
+      ]
+    },
+    {
+      "text": "Locke (1689)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/7370",
+          "quote": "published in 1689",
+          "where": "Tóm tắt tự động của trang ebook"
+        }
+      ]
+    },
+    {
+      "text": "Trang bìa ghi 1690",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Trang bìa của bản ebook in 'LONDON PRINTED MDCLXXXVIII' (1688) và dòng bản in lại lần thứ sáu 'MDCCLXIII' (1763); không phải 1690",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370.txt",
+          "quote": "LONDON PRINTED MDCLXXXVIII",
+          "where": "Trang bìa ebook #7370"
+        }
+      ]
+    },
+    {
+      "text": "London: Awnsham Churchill (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Trang bìa ebook không nêu Churchill; nó nêu bản in lại 1763 của A. Millar, H. Woodfall, J. Whiston, B. White và đồng nghiệp",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370.txt",
+          "quote": "REPRINTED, THE SIXTH TIME, BY A. MILLAR, H. WOODFALL",
+          "where": "Trang bìa ebook #7370"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Nếu 'trang bìa ghi 1690' nói về ấn bản đầu thật (1690) thì cần nguồn khác (Internet Archive, bản scan ấn bản đầu); với bản Gutenberg đã trỏ thì không đúng. Ba cách ghi nên thống nhất: 'Two Treatises of Government (1689); bản Gutenberg #7370, bản in lại lần thứ sáu 1763'. Tóm tắt Gutenberg cũng nêu 1690 ở tiêu đề (theo tool), mâu thuẫn với trang bìa."
+}

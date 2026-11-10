@@ -1,0 +1,20 @@
+{
+  "unit": "sources/wikisource.zh.029261a9f0",
+  "hash": "sha256:1aa1c0ed4546da7cabcf42f0f7fd7903eb6b1ced8d9f1675503e60fd99445186",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "URL zh.wikisource 景德傳燈錄 (四部叢刊本)/卷第六 mở được và là quyển 6, có Đại Châu Tuệ Hải (大珠慧海)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Cảnh Đức truyền đăng lục soạn năm 1004; tác giả ghi 'Đạo Nguyên'",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần; curl bị proxy chặn; hết lượt WebSearch. Chưa kiểm được URL, tác giả Đạo Nguyên (道原), năm 1004, quyển 6 chứa Đại Châu Tuệ Hải."
+}

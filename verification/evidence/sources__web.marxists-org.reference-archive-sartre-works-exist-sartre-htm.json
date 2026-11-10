@@ -1,0 +1,51 @@
+{
+  "unit": "sources/web.marxists-org.reference-archive-sartre-works-exist-sartre-htm",
+  "hash": "sha256:84c17e914291921c1a02dccf532f75cd94d9324ff2c04839bcb6f3f120dc2f83",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "Sartre, Existentialism Is a Humanism, bản dịch Philip Mairet, trong Kaufmann (ed.), Existentialism from Dostoevsky to Sartre, trên Marxists Internet Archive",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "quote": "Existentialism from Dostoyevsky to Sartre",
+          "where": "đầu trang; edited by Walter Kaufman"
+        }
+      ]
+    },
+    {
+      "text": "Bài giảng 1945, in 1946 (texts_seen): trang ghi \"Lecture given in 1946\"; chưa có nguồn thứ hai về 1945",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Simone de Beauvoir, SEP, tác giả \"Bergoffen, D. & M. Burke\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Burke, M., \"Simone de Beauvoir\", SEP (bản Fall 2026 chỉ ghi một tác giả)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "Burke, Megan"
+        }
+      ]
+    },
+    {
+      "text": "Mục SEP \"Simone de Beauvoir\" tồn tại ở bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "Simone de Beauvoir (1908–1986) was a philosopher, novelist, feminist, public intellectual and activist"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Hai cách ghi (text và texts_seen) nên thống nhất: texts_seen nói \"bài giảng 1945, in 1946\" còn text chỉ ghi (1946); trang MIA ghi lecture 1946 (thực tế bài giảng 29/10/1945, nhưng chưa có nguồn mở trong phiên này). Byline SEP fall2026: chỉ \"Burke, Megan\" (first published 17/8/2004, substantive revision 11/1/2023); Bergoffen chỉ còn trong thư mục. Trang MIA nêu bản Meridian 1989 cho Kaufmann; ấn bản đầu 1956 (World Publishing)."
+}

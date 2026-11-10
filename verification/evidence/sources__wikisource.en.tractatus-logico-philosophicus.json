@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.en.tractatus-logico-philosophicus",
+  "hash": "sha256:2553ed1d9a701d73f4c1912e9ecd97e256aee4b8d2736956cdb3be23d50d19ee",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang đúng Wittgenstein, Tractatus, bản dịch C. K. Ogden 1922, khớp texts_seen",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}

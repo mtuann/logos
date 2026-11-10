@@ -1,0 +1,32 @@
+{
+  "unit": "sources/doi.10-1136-bmj-c4973",
+  "hash": "sha256:15dd386c55bbf4aba356876a8bf34790cddc30f4eec91919b1f118e140dfb1bc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Tác giả Fabre, Murphy, Matesanz; tên bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1136/bmj.c4973",
+          "quote": "\"title\":[\"Presumed consent: a distraction in the quest for increasing rates of organ donation\"]"
+        }
+      ]
+    },
+    {
+      "text": "BMJ 341, 2010, c4973",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1136/bmj.c4973",
+          "quote": "\"container-title\":[\"BMJ\"]; \"volume\":\"341\"; \"issued\":{\"date-parts\":[[2010,10,18]]}; \"page\":\"c4973-c4973\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Crossref ghi tác giả viết tắt J. Fabre, P. Murphy, R. Matesanz; khớp (John, Paul, Rafael) về người."
+}

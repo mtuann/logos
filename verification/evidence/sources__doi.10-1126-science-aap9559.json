@@ -1,0 +1,43 @@
+{
+  "unit": "sources/doi.10-1126-science-aap9559",
+  "hash": "sha256:bc0cf98855e2c11104a413a621d74773cf2367b0c28c37027a4251f0f94434b5",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Tác giả Vosoughi, Roy, Aral; tên bài 'The spread of true and false news online'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.aap9559",
+          "quote": "\"title\":[\"The spread of true and false news online\"]"
+        }
+      ]
+    },
+    {
+      "text": "Science 359 (6380), 2018",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.aap9559",
+          "quote": "\"container-title\":[\"Science\"]; \"issued\":{\"date-parts\":[[2018,3,9]]}; \"volume\":\"359\"; \"issue\":\"6380\""
+        }
+      ]
+    },
+    {
+      "text": "Trang 1146–1151",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.aap9559",
+          "quote": "\"page\":\"1146-1151\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "DOI trỏ đúng bài; tác giả Soroush Vosoughi, Deb Roy, Sinan Aral theo Crossref."
+}

@@ -1,0 +1,27 @@
+{
+  "unit": "sources/web.news-bbc-co-uk.2-hi-entertainment-4059997-stm",
+  "hash": "sha256:51f7c5e25231f8b4bdbc673f889eca0f2f99087a467f9c3aba56f2f64fdd0a61",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "URL news.bbc.co.uk bị công cụ chặn (SITE_BLOCKED), không mở được",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Tựa \"Duchamp's urinal tops art survey\", BBC News, 1/12/2004 (qua bản sao, không phải BBC)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://bbcbreakingnews.pages.dev/2/hi/entertainment/4059997.stm",
+          "quote": "Duchamp's urinal tops art survey",
+          "where": "bản sao; ngày 1 December 2004"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ thấy qua một bản sao bbcbreakingnews.pages.dev (không chính thống). Bài báo tin tức (nguồn yếu). Người làm mở URL gốc hoặc web.archive.org."
+}

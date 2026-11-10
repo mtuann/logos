@@ -1,0 +1,44 @@
+{
+  "unit": "sources/web.davidhume-org.texts-mol",
+  "hash": "sha256:ec2bbb98efefa0563a3ab4fbbc475f2aedb3c638e7848b7d12e1bd5e28e8061c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "URL trỏ đúng \"My Own Life\" của Hume",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/mol",
+          "quote": "My Own Life"
+        }
+      ]
+    },
+    {
+      "text": "Mục 6 và 8 tồn tại; nói về Treatise \"dead-born\" và việc đi in quá sớm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/mol",
+          "quote": "going to the press too early",
+          "where": "MOL 8"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1777 (xuất bản cùng thư Smith gửi Strahan)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.maxwell.syr.edu/research/article/adam-smith-and-the-death-of-david-hume-the-letter-to-strahan-and-related-texts",
+          "quote": "published alongside Hume's autobiography, 'My Own Life,' in 1777"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang davidhume.org đề ngày viết 18/4/1776; 1777 là năm in (sau khi Hume mất). Cân nhắc ghi \"viết 1776, in 1777\". Nguồn 1777 là trang Maxwell School (yếu)."
+}

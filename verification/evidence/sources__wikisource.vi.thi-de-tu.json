@@ -1,0 +1,32 @@
+{
+  "unit": "sources/wikisource.vi.thi-de-tu",
+  "hash": "sha256:1501b45090f638dcb883424f8100ba1586e5615f24dd9962abf1ce8be24a088c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "'Cáo tật thị chúng' của Mãn Giác (告疾示眾), nguyên văn chữ Hán và bản dịch thơ Ngô Tất Tố",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C3%A1o_t%E1%BA%ADt_th%E1%BB%8B_ch%C3%BAng",
+          "quote": "Cáo tật thị chúng (告疾示眾, 1096)",
+          "where": "tiêu đề; tác giả Mãn Giác; bản dịch thơ Ngô Tất Tố"
+        }
+      ]
+    },
+    {
+      "text": "Trang Thị_đệ_tử (Vạn Hạnh) mở được, có chữ Hán và bản dịch Ngô Tất Tố",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Trang Xuân_hiểu_(Trần_Nhân_Tông) mở được, có chữ Hán và bản dịch Ngô Tất Tố",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ mở được Cáo tật thị chúng (đúng). Thị đệ tử: url_not_found, và WebSearch không thấy trang Wikisource nào tên đó (chỉ thivien.net và blog) - có thể trang không tồn tại hoặc tên khác. Xuân hiểu_(Trần_Nhân_Tông): url_not_found; WebSearch cho thấy trang vi.wikisource tên 'Xuân hiểu' (không có hậu tố), nên URL trong bản ghi có thể sai; 'Xuân_hiểu' cũng không mở được. Người làm cần kiểm."
+}

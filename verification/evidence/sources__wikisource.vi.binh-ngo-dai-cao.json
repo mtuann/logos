@@ -1,0 +1,27 @@
+{
+  "unit": "sources/wikisource.vi.binh-ngo-dai-cao",
+  "hash": "sha256:343ee6098eee2ae4ed3fbf2c999ddcb94adf897182187ef3a8eee3b9e609564b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang vi.wikisource là Bình Ngô đại cáo của Nguyễn Trãi, nguyên văn chữ Hán theo Hoàng Việt văn tuyển (Bùi Huy Bích, 1825)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
+          "quote": "trong Hoàng Việt văn tuyển do Bùi Huy Bích biên soạn năm 1825",
+          "where": "header"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Trần Trọng Kim trong Việt Nam sử lược (1920), URL '..._(Trần_Trọng_Kim_dịch)'",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang chính khớp. Trang con bản dịch Trần Trọng Kim không mở được (url_not_found, có thể tên trang khác hoặc không tồn tại); người làm kiểm lại. Khóa trùng với vi.binh-ngo-ai-cao."
+}

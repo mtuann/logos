@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.en.meditations-on-first-philosophy-meditation-vi",
+  "hash": "sha256:c3edf4e42df4c475a373c5e21c06354d11ad247a1c232baac8539bc8b382d0ba",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang đúng Meditations, Suy niệm VI, bản dịch Veitch (1901), khớp texts_seen",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}

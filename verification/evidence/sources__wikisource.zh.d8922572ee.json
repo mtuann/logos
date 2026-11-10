@@ -1,0 +1,51 @@
+{
+  "unit": "sources/wikisource.zh.d8922572ee",
+  "hash": "sha256:49b796a1d1dd25630a37f2d9645e8d9c512151a4749c0ac2f0b4ce38e3846edd",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "Bản kỷ quyển 10 có nguyên văn Bình Ngô đại cáo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "仁義之舉,要在安民,吊伐之師,莫先去暴。",
+          "where": "bài cáo sau 帝既平吳,大告天下"
+        }
+      ]
+    },
+    {
+      "text": "Quyển 10 ghi các sự kiện cuối năm Đinh Mùi (1427)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "於是兵革偃息,天下太平。",
+          "where": "cuối mục 丁未"
+        }
+      ]
+    },
+    {
+      "text": "Quyển 11 (URL also) mở được và có án năm 1442 (Lệ Chi Viên)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Quyển 12 có việc năm 1464 và 1467",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二",
+          "quote": "甲申,光順五年(明天順八年)[1464年]",
+          "where": "mục 1464; mục 丁亥 光順八年 [1467年] kế sau"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Quyển 10 và 12 kiểm được; quyển 11 (URL also) không mở được nên claim 1442 chưa kiểm. URL quyển 12 không có trong bản ghi (chỉ mô tả 'quyển 11 và 12') - đề nghị thêm."
+}

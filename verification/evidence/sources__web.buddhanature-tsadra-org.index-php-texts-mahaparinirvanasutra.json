@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.buddhanature-tsadra-org.index-php-texts-mahaparinirvanasutra",
+  "hash": "sha256:3362c696be19a52f248f08ce1600c2249c8f686bd86322eac005b1c4073da613",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s17",
+  "claims": [
+    {
+      "text": "URL mở được, là trang kinh Mahāparinirvāṇasūtra, trích Brunnhölzl, When the Clouds Part",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra",
+          "quote": "Description from When the Clouds Part",
+          "where": "(pp. 17-20)"
+        }
+      ]
+    },
+    {
+      "text": "Brunnhölzl, When the Clouds Part, Snow Lion, 2014",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Brunnhölzl, Karl (2015), When the Clouds Part, Snow Lion (Shambhala), đăng 17/2/2015; hoặc ghi rõ 2014 là năm bản quyền nếu có căn cứ",
+      "sources": [
+        {
+          "url": "https://shambhala.com/when-the-clouds-part-3265.html",
+          "quote": "Publication date: February 17, 2015"
+        },
+        {
+          "url": "https://www.schweitzer-online.de/en/buch/When-Clouds-Part/9781559394178/A23015432/",
+          "quote": "Snow Lion Publications; 2015"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Trang Tsadra không ghi chi tiết xuất bản. Hai trang nhà xuất bản/bán sách đều cho 2015; nếu 2014 lấy từ trang bản quyền, người làm xác minh lại. Cả hai cách ghi (text, texts_seen) cùng dùng 2014."
+}

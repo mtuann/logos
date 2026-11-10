@@ -1,0 +1,39 @@
+{
+  "unit": "sources/gutenberg.57342",
+  "hash": "sha256:7d2d2bab5e644400f51b4ee38f66de7ded42f17c4c926a853281360de52eb2ec",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #57342 là Diogenes Laertius, Lives and Opinions of Eminent Philosophers, dịch C. D. Yonge",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/57342",
+          "quote": "The Lives and Opinions of Eminent Philosophers"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/57342",
+          "quote": "Yonge, Charles Duke, 1812-1891"
+        }
+      ]
+    },
+    {
+      "text": "Bản in London: Henry G. Bohn, 1853",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bohn's Classical Library, London: G. Bell and Sons, 1915 (bản dịch Yonge in đầu thế kỷ 19 trong Bohn's Library; 1853 không có trên nguồn đã mở)",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/57342/pg57342.txt",
+          "quote": "G. BELL AND SONS, LTD",
+          "where": "Trang bìa văn bản của ebook #57342: London, G. Bell and Sons, 1915, 'Bohn's Classical Library'"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Ebook là bản G. Bell and Sons 1915 trong Bohn's Classical Library, không phải bản Bohn 1853. Nếu muốn giữ 1853 cần nguồn riêng (Internet Archive). Quyển X có Thư gửi Menoeceus và Kyriai Doxai: không kiểm."
+}

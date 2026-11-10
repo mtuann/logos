@@ -1,0 +1,31 @@
+{
+  "unit": "sources/doi.10-2307-2185680",
+  "hash": "sha256:f36a14bf2d0e683b7b4daf63e46e5bc6584d5445e75626946efe6884863a5d69",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Burge (1993) 'Content Preservation', Phil. Review 102(4)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2185680",
+          "quote": "\"title\":[\"Content Preservation\"]; \"volume\":\"102\"; \"issue\":\"4\"; \"page\":\"457\""
+        }
+      ]
+    },
+    {
+      "text": "Trang 457–488",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Nguyên tắc chấp nhận (Acceptance Principle) ở tr. 467",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI. Số trang 467 cần bản in/PDF."
+}

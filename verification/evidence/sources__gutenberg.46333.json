@@ -1,0 +1,41 @@
+{
+  "unit": "sources/gutenberg.46333",
+  "hash": "sha256:472dce0cc1e14d670b51f877499f14e640aea093f42dda55bdfdfc6a702aa5af",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #46333 là Rousseau, The Social Contract & Discourses",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "The social contract & discourses"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "Rousseau, Jean-Jacques, 1712-1778"
+        }
+      ]
+    },
+    {
+      "text": "Dịch giả G. D. H. Cole",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "Cole, G. D. H. (George Douglas Howard), 1889-1959"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của Cole năm 1913 (cả texts_seen)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang ebook và trang bìa văn bản (J. M. Dent & Sons, Everyman's Library) không in năm xuất bản nên không xác nhận được 1913. Nhờ người làm tìm nguồn năm (Internet Archive/WorldCat). Hai cách ghi (text và texts_seen) cùng trỏ đúng ebook; nên thống nhất tên 'The Social Contract & Discourses'. Vị trí (chương/mục) trong sách không kiểm trong lô này (trang ebook không có)."
+}

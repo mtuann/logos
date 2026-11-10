@@ -1,0 +1,27 @@
+{
+  "unit": "sources/wikisource.en.meditations-on-first-philosophy-meditation-i",
+  "hash": "sha256:bf273ce092bfe31264f68153f1c7b5cf0b97f7d056caee5c9e7e7b77e06bfb38",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang đúng Meditations, Suy niệm I, bản dịch Veitch (in lại 1901)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Gutenberg ebook 70091 là bản Molyneux 1680 của Descartes (mục 'also')",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/70091",
+          "quote": "Six metaphysical meditations",
+          "where": "Gutenberg 70091: Descartes, tr. William Molyneux, 1680"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}
