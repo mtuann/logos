@@ -1,0 +1,44 @@
+{
+  "unit": "quotes/trich.luan-ngu-thien-ung-da-6-11",
+  "hash": "sha256:e4d8b726a9843903ee6498f0eaa0acd7490570260f16487549cb35acda74c2d2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q13",
+  "claims": [
+    {
+      "text": "Nguyên văn khớp ctext.org",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/yong-ye/zh",
+          "quote": "子曰:「賢哉回也!一簞食,一瓢飲,在陋巷。人不堪其憂,回也不改其樂。賢哉回也!」"
+        }
+      ]
+    },
+    {
+      "text": "locator: Ung dã 6.11",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/yong-ye/zh",
+          "quote": "賢哉回也!",
+          "where": "chương thứ 11 theo thứ tự trang"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/yong-ye/zh",
+          "quote": "人不堪其憂,回也不改其樂。"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang không in số chương; vị trí 11 do công cụ đếm theo thứ tự, khớp ký hiệu chuẩn 6.11."
+}

@@ -1,0 +1,55 @@
+{
+  "unit": "quotes/trich.tam-kinh-t251-cau-mo-dau",
+  "hash": "sha256:89943a17e6bb41ee5af7dfa5d98b764a2ba4084339fd790940a450ef89fcc126",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q16",
+  "claims": [
+    {
+      "text": "Nguyên văn: 觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。"
+        }
+      ]
+    },
+    {
+      "text": "locator: T251 (Huyền Trang dịch)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "唐三藏法師玄奘譯",
+          "where": "tiêu đề kinh"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (Bồ tát Quán Tự Tại... soi thấy năm uẩn đều không, vượt qua mọi khổ ách)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "照見五蘊皆空，度一切苦厄。"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán-Việt khớp nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "觀自在菩薩行深般若波羅蜜多時"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn CBETA qua cbdata (cbeta.org V1.13 cũng có câu này nhưng OCR hỏng một số chữ, không dùng làm quote)."
+}

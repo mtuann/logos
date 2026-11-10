@@ -1,0 +1,63 @@
+{
+  "unit": "quotes/trich.suy-tuong-ii-11-va-iv-48",
+  "hash": "sha256:7d6a820babded4d0a3ac8a73b332e0f264d77765db4fa2615f99684c17ccbc13",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q15",
+  "claims": [
+    {
+      "text": "Nguyên văn Long II.11: \"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.2.two.html",
+          "quote": "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.",
+          "where": "Book Two"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Long IV.48: \"...end thy journey in content, as an olive falls off when it is ripe...\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "end thy journey in content, just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+          "quote": "just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
+          "where": "Book Four, gần cuối"
+        }
+      ]
+    },
+    {
+      "text": "Phần còn lại của câu IV.48 khớp: \"Pass then through this little space of time conformably to nature, and end thy journey in content,\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+          "quote": "Pass then through this little space of time conformably to nature, and end thy journey in content,"
+        }
+      ]
+    },
+    {
+      "text": "Hai đoạn dịch tiếng Việt sát nghĩa (bản dịch 'như quả ô liu chín thì rụng' bỏ 'just', không đổi ý)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+          "quote": "blessing nature who produced it, and thanking the tree on which it grew."
+        }
+      ]
+    },
+    {
+      "text": "locator: II.11 và IV.48 (số đoạn trong quyển)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Quyển II và IV đã xác nhận; số đoạn 11 và 48 chưa xác nhận bằng nguồn có đánh số (MIT không đánh số, Standard Ebooks chặn robot ở trang từng quyển). Lỗi nhe: bản ghi bỏ chữ 'just' trong 'just as an olive' mà không dùng dấu chấm lửng."
+}

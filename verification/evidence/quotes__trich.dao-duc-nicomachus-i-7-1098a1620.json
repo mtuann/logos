@@ -1,0 +1,53 @@
+{
+  "unit": "quotes/trich.dao-duc-nicomachus-i-7-1098a1620",
+  "hash": "sha256:c02e0b19481745eca771656e9f734e4212ad7e317d6f925ba1b3fb0a583f3b4f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q13",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh khớp bản dịch Ross (I.7)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "human good turns out to be activity of soul in accordance with virtue,"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "and if there are more than one virtue, in accordance with the best and most complete."
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "But we must add 'in a complete life.'"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "For one swallow does not make a summer, nor does one day;"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "and so too one day, or a short time, does not make a man blessed and happy."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (én/mùa xuân là thoát chọn lọc cho 'summer', giữ ý thành ngữ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "For one swallow does not make a summer, nor does one day;"
+        }
+      ]
+    },
+    {
+      "text": "locator: I.7, 1098a16–20 (trang MIT không in số Bekker; bản Hicks chỉ có mốc [1096a] cho mục 7, không đủ để xác nhận 1098a16–20)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguyên văn đã khớp. Dịch 'summer' thành 'mùa xuân' là thoát (nên chú thích: bản Ross dùng 'summer', Hy Lạp là 'ear'/mùa xuân). Cần nguồn có số Bekker (ví dụ Perseus, Oxford) cho locator."
+}

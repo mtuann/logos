@@ -1,0 +1,37 @@
+{
+  "unit": "sources/cbeta.zh-t0253-001",
+  "hash": "sha256:49f01f49a715d95f87df250888d0aa9d89079032d2df2ca07ec0d77e0ea3beef",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Bát nhã Ba la mật đa Tâm kinh (bản dài), Bát Nhã và Lợi Ngôn dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/works?work=T0253",
+          "quote": "唐 般若共利言等譯"
+        }
+      ]
+    },
+    {
+      "text": "T08 n0253",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/works?work=T0253&fields=work,title,byline,vol",
+          "quote": "T08n0253"
+        }
+      ]
+    },
+    {
+      "text": "URL https://cbetaonline.dila.edu.tw/zh/T0253_001 mở được và trỏ đúng văn bản",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Siêu dữ liệu qua API cbdata. Trang cbetaonline là ứng dụng JS: khi mở chỉ hiện giao diện mặc định (T0001 Trường A hàm) chứ không hiện kinh văn, nên không xác nhận được URL bằng công cụ này."
+}

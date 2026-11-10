@@ -1,0 +1,57 @@
+{
+  "unit": "quotes/trich.suy-niem-i-3-at-7-18",
+  "hash": "sha256:3339c8a525189e02bb3da7be4906c576161ee58219f37158ea931c4de1c46ea4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q15",
+  "claims": [
+    {
+      "text": "Nguyên văn Veitch: \"All that I have, up to this moment, accepted ... even once been deceived.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "All that I have, up to this moment, accepted as possessed of the highest truth and certainty,",
+          "where": "Meditation I"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "I observed, however, that these sometimes misled us;"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "by which we have even once been deceived."
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm đúng (Descartes, Suy niệm I)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "The Meditations of Descartes 1853 John Veitch"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "and it is the part of prudence not to place absolute confidence in that"
+        }
+      ]
+    },
+    {
+      "text": "locator: §3, AT 7:18",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn: Veitch 1853 (yogebooks.com PDF, in lại bản gốc; không phải Gutenberg). Veitch 1853 và Long 1862 đều thuộc phạm vi công cộng, trường license 'unknown' nên điền lại. Locator (số § và số AT) không tìm được trong nguồn đã mở: bản Veitch 1853 không đánh số đoạn, bản earlymoderntexts không có số AT."
+}

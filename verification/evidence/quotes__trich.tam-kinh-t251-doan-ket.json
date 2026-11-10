@@ -1,0 +1,73 @@
+{
+  "unit": "quotes/trich.tam-kinh-t251-doan-ket",
+  "hash": "sha256:c23155fd0f88373e8ccaeeebd6d07212fbc4ed0a56c30a996e6e992b04b9d716",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q16",
+  "claims": [
+    {
+      "text": "Nguyên văn: 故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，"
+        },
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "能除一切苦，真實不虛"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn câu chú: 揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　僧莎訶",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cbeta.org/result/normal/T08/0251_001.htm",
+          "quote": "揭帝 揭帝 般羅揭帝 般羅僧揭帝 菩提 僧莎訶",
+          "where": "CBETA V1.13 (cbeta.org)"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm câu chú 'bồ đề tát bà ha' khớp chữ Hán 菩提　僧莎訶 (tăng sa ha)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Hai bản CBETA khác nhau ở chữ cuối: V1.13 ghi 僧莎訶 (tăng sa ha), bản cbdata hiện hành ghi 莎婆訶 (sa bà ha). Chọn một và cho phiên âm khớp: '...bồ đề tăng sa ha' hoặc đổi chữ Hán thành 菩提　莎婆訶 / 'bồ đề sa bà ha'; 'tát bà ha' là cách đọc Phạn quen thuộc nhưng không khớp chữ Hán đã chép.",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　莎婆訶"
+        }
+      ]
+    },
+    {
+      "text": "locator: T251 (Huyền Trang dịch)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "唐三藏法師玄奘譯",
+          "where": "tiêu đề kinh"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (câu chú thần diệu lớn... trừ được mọi khổ, chân thật không hư dối)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "能除一切苦，真實不虛"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Lỗi nhẹ: lệch chữ Hán/phiên âm ở chú cuối (hai bản CBETA cũng lệch nhau). Phần … đầu bản dịch lược câu chú, đã đánh dấu."
+}

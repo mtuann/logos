@@ -1,0 +1,60 @@
+{
+  "unit": "quotes/tuan-tu.tuan-tu-2",
+  "hash": "sha256:cbb87cdf765e697983ac731b0c0c19278b3d16400e8a28ed71bb3c17a06c3f18",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q17",
+  "claims": [
+    {
+      "text": "Nguyên văn: 君子曰：學不可以已。青、取之於藍，而青於藍；冰、水為之，而寒於水。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
+          "quote": "君子曰:學不可以已。靑,取之於藍而靑於藍;冰,水爲之而寒於水。",
+          "where": "Khuyến học, câu mở đầu"
+        },
+        {
+          "url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_06_text.pdf",
+          "quote": "君子曰：學不可以已。青，取之於藍，而青於藍；冰，水為之，而寒於水。",
+          "where": "Bộ Giáo dục Hồng Kông, văn bản khuyến nghị (nguồn thứ cấp)"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán Việt: Quân tử viết: Học bất khả dĩ dĩ. Thanh, thủ chi ư lam, nhi thanh ư lam; băng, thủy vi chi, nhi hàn ư thủy.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
+          "quote": "君子曰:學不可以已。"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: Người quân tử nói: việc học không thể dừng. Màu xanh lấy từ cây chàm mà xanh hơn chàm; băng do nước làm thành mà lạnh hơn nước.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
+          "quote": "冰,水爲之而寒於水。"
+        }
+      ]
+    },
+    {
+      "text": "locator: thiên 1 Khuyến học (勸學), đoạn mở đầu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/勸學篇",
+          "quote": "君子曰:學不可以已。"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "URL ctext.org/xunzi/quan-xue/zh của bản ghi KHÔNG mở được (ctext chặn công cụ tự động), nên chưa xác nhận trực tiếp trang đó; đối chiếu bằng Wikisource và tài liệu Bộ Giáo dục Hồng Kông. Chỉ khác dấu câu (bản ghi dùng 、 sau 青 và 冰 và thêm dấu phẩy trước 而, nguồn thì không) và thể chữ 靑/爲: mức nhe. Nên kiểm lại link ctext bằng trình duyệt."
+}

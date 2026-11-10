@@ -1,0 +1,63 @@
+{
+  "unit": "quotes/trich.winston-churchill-phat-bieu-tai-ha-vien-anh-11-11-1947",
+  "hash": "sha256:01df0c46ac257d912ec026008bcb9c06e531932f5aea2f277e8bea7a21f81c27",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q17",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "Indeed, it has been said that democracy is the",
+          "where": "HC Deb 11 November 1947, vol 444, cols 206-207"
+        },
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "form of Government except all those other forms that have been tried from time to time;",
+          "where": "cùng câu, ngay sau đoạn trên"
+        }
+      ]
+    },
+    {
+      "text": "Người nói là Winston Churchill, tại Hạ viện Anh, ngày 11/11/1947",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "No one pretends that democracy is perfect or all-wise.",
+          "where": "Hansard Commons, 11 Nov 1947, bài phát biểu về Parliament Bill"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của Logos: Quả thật người ta đã nói rằng dân chủ là thể chế tồi tệ nhất — ngoại trừ tất cả những thể chế khác đã từng được thử qua.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "democracy is the"
+        }
+      ]
+    },
+    {
+      "text": "locator: HC Deb 11 November 1947, vol 444, cols 206-207 (tiêu đề chưa ghi)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "HC Deb 11 November 1947, vol 444, cols 206-207 (Parliament Bill)",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "Indeed, it has been said that democracy is the"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Hansard (Open Parliament Licence) nên một câu trích không rủi ro bản quyền. Bản ghi để dấu chấm cuối câu còn Hansard dùng dấu chấm phẩy vì câu còn tiếp (\"but there is the broad feeling...\"): khác dấu câu, mức nhe, nên ghi \"[...]\" hoặc chú thích câu bị cắt. winstonchurchill.org xác nhận ngày 11/11/1947 nhưng không nêu nơi nói."
+}

@@ -1,0 +1,54 @@
+{
+  "unit": "quotes/trich.suy-tuong-viii-47",
+  "hash": "sha256:64bc25993ba550dae446b68c84c91df6719c0a4eda953f3628393af34d1d8f14",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q15",
+  "claims": [
+    {
+      "text": "Nguyên văn Long: \"...it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now.\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "thy own judgement about it ... wipe out this judgement now (chính tả Long/MIT: 'judgement')",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.8.eight.html",
+          "quote": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgement about it."
+        },
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.8.eight.html",
+          "quote": "And it is in thy power to wipe out this judgement now."
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Long: \"...why dost thou not rather act than complain?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.8.eight.html",
+          "quote": "which seems to thee to be right, why dost thou not rather act than complain?"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Antoninus/meditations.8.eight.html",
+          "quote": "it is not this thing that disturbs thee, but thy own judgement about it."
+        }
+      ]
+    },
+    {
+      "text": "locator: VIII.47 (số đoạn)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Quyển VIII xác nhận; số đoạn 47 chưa xác nhận bằng nguồn có đánh số. Lỗi nhe: 'judgment' thay vì 'judgement' (MIT, bản Long). Nếu Standard Ebooks hiện đại hóa chính tả thì có thể ghi chú là bản hiện đại hóa."
+}

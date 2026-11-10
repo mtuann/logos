@@ -1,0 +1,46 @@
+{
+  "unit": "sources/ctext.han-shu-wu-di-ji-zh",
+  "hash": "sha256:f5cbfc2f5663b65421e6ea1e48607f6d7ce67570d528e3050ed84864ec20357e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Hán thư, 'Vũ đế kỷ', trang ctext.org/han-shu/wu-di-ji/zh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/han-shu/wu-di-ji/zh",
+          "quote": "武帝紀",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Lời tán có câu '卓然罷黜百家，表章六經'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/han-shu/wu-di-ji/zh",
+          "quote": "孝武初立，卓然罷黜百家，表章六經。",
+          "where": "phần 贊"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Hán thư là Ban Cố",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/漢書",
+          "quote": "作者:班固 東漢",
+          "where": "trang mục Hán thư"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Wikisource /漢書/卷006 cho cùng câu (dấu câu nửa chiều, 表章《六經》). Nguồn Wikisource dùng để đối chiếu tác giả."
+}

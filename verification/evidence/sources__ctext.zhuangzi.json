@@ -1,0 +1,33 @@
+{
+  "unit": "sources/ctext.zhuangzi",
+  "hash": "sha256:5bf97837ef499b987954bf8531ab19aabac3792f78205c249304962fb6f5be49",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s02",
+  "claims": [
+    {
+      "text": "Trang Tử (莊子) nguyên văn kèm bản dịch tiếng Anh James Legge",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/zhuangzi",
+          "quote": "English translation: James Legge",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Legge là The Writings of Chuang Tzu (1891)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/zhuangzi",
+          "quote": "The Writings of Chuang Tzu (1891)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ghi chú: công cụ tải trang trả về bản tóm tắt; quote lấy từ kết quả tải. "
+}

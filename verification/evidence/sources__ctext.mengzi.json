@@ -1,0 +1,20 @@
+{
+  "unit": "sources/ctext.mengzi",
+  "hash": "sha256:397805b73a2b692a9a03b7b8af1bf4b34ad3e582deea99687f86453a1598ef85",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Mạnh Tử 7B14 (Tận tâm hạ) và 1B8 (Lương Huệ Vương hạ) trên ctext.org/mengzi, nguyên văn",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bản dịch James Legge có trên trang (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. "
+}
