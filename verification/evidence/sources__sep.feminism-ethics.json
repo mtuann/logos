@@ -1,0 +1,39 @@
+{
+  "unit": "sources/sep.feminism-ethics",
+  "hash": "sha256:82d4ec05c9bfc5c9e349bd8b675aac5be620ebd168c67d007117e1eac04ab587",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s04",
+  "claims": [
+    {
+      "text": "Mục SEP \"Feminist Ethics\" có thật; bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/",
+          "quote": "Feminist Ethics",
+          "where": "tiêu đề mục"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Pascoe, Jordan",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/",
+          "quote": "Pascoe, Jordan",
+          "where": "metadata DC.creator/citation_author"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Norlock, Kathryn (đồng tác giả với Pascoe)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Metadata SEP chỉ liệt kê Pascoe; PhilPapers (liên kết thư mục) chỉ ghi Norlock; không xác nhận được qua công cụ rằng bản fall2026 ghi cả hai. Cần người xem dòng bản quyền cuối trang."
+}

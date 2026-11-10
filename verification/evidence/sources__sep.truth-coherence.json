@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.truth-coherence",
+  "hash": "sha256:878796fd87e442f3eb9815ae31c2171aa7bd46a92790983a288ac55fa951dbc6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"The Coherence Theory of Truth\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/",
+          "quote": "The Coherence Theory of Truth",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: James O. Young (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/",
+          "quote": "meta-citation_author: Young, James O."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

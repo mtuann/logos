@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.technology",
+  "hash": "sha256:77fd930ca596ea74bfddb5dd354761369d39609127e8523f6468a9dd8b320236",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Philosophy of Technology\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/technology/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "Philosophy of Technology",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Maarten Franssen, Ibo van de Poel, Michael Klenk & Filippo Santoni de Sio (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/technology/",
+          "quote": "by Maarten Franssen, Ibo van de Poel, Michael Klenk and Filippo Santoni de Sio"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "meta-citation_author: Santoni de Sio, Filippo"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text."
+}

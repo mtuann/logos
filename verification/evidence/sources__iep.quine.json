@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.quine",
+  "hash": "sha256:7a019bfaeb3cb0f010d4c3a7d2e0201052ee85d864c8e94a054ac747b072051c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/quine/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/quine/",
+          "quote": "Willard Van Orman Quine: The Analytic/Synthetic Distinction",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/quine/",
+          "quote": "Willard Van Orman Quine: The Analytic/Synthetic Distinction",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Rocknak",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/quine/",
+          "quote": "Stefanie Rocknak",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại)."
+}

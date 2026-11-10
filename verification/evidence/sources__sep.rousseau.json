@@ -1,0 +1,44 @@
+{
+  "unit": "sources/sep.rousseau",
+  "hash": "sha256:4e0bfde37b5fe375ce9dd7b2d12feea938b58c751a3d1f4b7bb9d0af271e9359",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s07",
+  "claims": [
+    {
+      "text": "URL bản lưu mở được và trỏ đúng mục SEP \"Jean Jacques Rousseau\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rousseau/",
+          "quote": "First published Mon Sep 27, 2010; substantive revision Fri Apr 21, 2023",
+          "where": "đầu trang (tên mục và ngày đăng)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Christopher Bertram",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rousseau/",
+          "quote": "Bertram, Christopher"
+        }
+      ]
+    },
+    {
+      "text": "Mục ghi \"sửa đổi 2023\": bản sửa đổi đáng kể ngày 21/4/2023",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rousseau/",
+          "quote": "substantive revision Fri Apr 21, 2023"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ba cách ghi: một cách viết tắt \"SEP\" thay vì tên đầy đủ; nên thống nhất ghi đầy đủ Stanford Encyclopedia of Philosophy."
+}

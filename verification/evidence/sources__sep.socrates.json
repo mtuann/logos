@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.socrates",
+  "hash": "sha256:38ba975638ce3cf8305e7f28fff4200da73616fa48bdb61b1f0fbcc6cb0d3ed7",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Socrates\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/socrates/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Socrates",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Debra Nails & S. Sara Monoson (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/socrates/",
+          "quote": "Linked bibliography for the SEP article \"Socrates\" by Debra Nails and S. Sara Monoson"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "meta-citation_author: Monoson, S. Sara"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text. Các cách ghi khác nhau chỉ khác dấu nháy và 'và'/'&'; nên thống nhất 'Họ, Tên & Họ, Tên'."
+}

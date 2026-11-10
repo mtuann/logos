@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.cosmological-argument",
+  "hash": "sha256:1445cd145d7aaed0846c5ab3a8608074878b1ffe7ba325d4d0a01e5d6e37292d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Cosmological Argument\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/cosmological-argument/",
+          "quote": "Cosmological Argument"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục là Bruce Reichenbach",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/cosmological-argument/",
+          "quote": "Bruce Reichenbach"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Bản lưu fall2026/cosmological-argument/ báo lỗi client_error 3 lần trong phiên này; bản sống plato.stanford.edu/entries/cosmological-argument/ mở được và khớp. Nên thử lại sau."
+}

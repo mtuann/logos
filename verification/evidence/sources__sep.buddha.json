@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.buddha",
+  "hash": "sha256:82325759515df711182b4a92f483e33afc4efbd7beeebdcf9b03d591a4429438",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Buddha\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "Buddha"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Mark Siderits",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "Mark Siderits",
+          "where": "metadata/dòng bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "First published Thu Feb 17, 2011; substantive revision Mon Mar 6, 2023",
+          "where": "dòng ngày đầu mục"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "texts_seen có một cách ghi trỏ bản lưu fall2024 (chưa mở); nên thống nhất về fall2026 như bản ghi chính."
+}

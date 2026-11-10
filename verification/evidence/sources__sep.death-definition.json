@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sep.death-definition",
+  "hash": "sha256:afada6d332f01debbc152494ae9cf92f1643affc3a96ab37b3c3d2a56bae208c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"The Definition of Death\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/",
+          "quote": "The Definition of Death"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục là Adam Omelianchuk",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nghiem-trong",
+      "fix": "DeGrazia, David (không phải Omelianchuk)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/",
+          "quote": "DeGrazia, David",
+          "where": "meta-DC.creator / meta-citation_author"
+        }
+      ]
+    },
+    {
+      "text": "Mục có bàn về báo cáo Harvard 1968 và ca Jahi McMath",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/",
+          "quote": "Jahi McMath",
+          "where": "theo tóm tắt công cụ: mục nêu báo cáo Harvard 1968 và ca McMath"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/",
+          "quote": "First published Fri Oct 26, 2007; substantive revision Fri Jul 10, 2026"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Metadata cả bản lưu fall2026 lẫn bản sống chỉ ghi DeGrazia, David; Omelianchuk chỉ xuất hiện như tài liệu trích (Omelianchuk 2021, Omelianchuk et al. 2022). Dòng bản quyền cuối trang không đọc được; vì metadata các mục nhiều tác giả thường chỉ nêu một người, nên người làm cần đối chiếu thêm xem còn đồng tác giả nào không."
+}

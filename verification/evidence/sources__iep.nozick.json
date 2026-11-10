@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.nozick",
+  "hash": "sha256:f9d6dd2c0d8c7d541e146abd041f883cbac9c982e7a12085e93b7ea9c5757843",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/nozick/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nozick/",
+          "quote": "Nozick, Robert",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nozick/",
+          "quote": "Nozick, Robert",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Feser",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nozick/",
+          "quote": "Edward Feser",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Tiêu đề bài trên trang là 'Robert Nozick (1938—2002)'; mục ghi theo tiêu đề thẻ trình duyệt 'Nozick, Robert' (cách IEP dùng để trích) — chấp nhận."
+}

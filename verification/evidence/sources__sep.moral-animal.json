@@ -1,0 +1,60 @@
+{
+  "unit": "sources/sep.moral-animal",
+  "hash": "sha256:a9da9ac9647dbd864b2f295979212059d0058187f680d4cdf9ee9db23e541137",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s06",
+  "claims": [
+    {
+      "text": "Tên mục: The Moral Status of Animals",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "The Moral Status of Animals",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Lori Gruen (và Susana Monsó)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "Susana Monsó",
+          "where": "siêu dữ liệu trang; chân trang ghi bản quyền Lori Gruen và Susana Monsó"
+        }
+      ]
+    },
+    {
+      "text": "Cách ghi chính 'Gruen, Lori' (chỉ một tác giả) khớp tác giả mục",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Gruen, Lori & Susana Monsó, \"The Moral Status of Animals\", Stanford Encyclopedia of Philosophy.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/contents.html",
+          "quote": "animals, moral status of",
+          "where": "mục lục bản lưu: Lori Gruen và Susana Monsó"
+        }
+      ]
+    },
+    {
+      "text": "Ngày đăng/sửa trên trang",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "First published Tue Jul 1, 2003; substantive revision Mon Aug 12, 2024",
+          "where": "đầu trang"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Bản lưu fall2026 có hai tác giả (Gruen và Monsó, bản sửa 2024). Cách ghi chính trong text chỉ có Gruen; texts_seen đã ghi cả hai. Nên thống nhất theo cách ghi hai tác giả. texts_seen: các cách ghi khác chỉ khác dấu nháy cong/thẳng hoặc thêm chú thích, cùng tên mục và tác giả; nên thống nhất một cách."
+}

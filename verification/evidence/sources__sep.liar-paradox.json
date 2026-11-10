@@ -1,0 +1,39 @@
+{
+  "unit": "sources/sep.liar-paradox",
+  "hash": "sha256:b6a79c7e1b4f2db7f3c9d03a69349627e69e7b40cf076d5a1464c777bb1c0266",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Liar Paradox\" có thật ở bản lưu fall2026 và URL mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "First published Thu Jan 20, 2011; substantive revision Sun Jul 26, 2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Beall, Jc, Michael Glanzberg & Ellie Ripley",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, \"Liar Paradox\", Stanford Encyclopedia of Philosophy",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/liar-paradox/",
+          "quote": "by Jc Beall, Michael Glanzberg, Ellie Ripley and Lorenzo Rossi"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "Rossi, Lorenzo",
+          "where": "metadata DC.creator của bản lưu fall2026"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Thiếu tác giả thứ tư (Rossi), có trong bản lưu fall2026. Mục ghi 'SEP' thay vì tên đầy đủ: nên thống nhất 'Stanford Encyclopedia of Philosophy'. Ba tác giả còn lại đúng."
+}

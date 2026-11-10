@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.tropes",
+  "hash": "sha256:f7249f873b70b297058a3312d0e9159111598f12ce3169ba59ed39a10a6e94c2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Tropes\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/tropes/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tropes/",
+          "quote": "Tropes",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Anna-Sofia Maurin (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tropes/",
+          "quote": "meta-citation_author: Maurin, Anna-Sofia"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

@@ -1,0 +1,39 @@
+{
+  "unit": "sources/sep.locke-political",
+  "hash": "sha256:30644d67b289b8050965b83c2dc78ee587f12a8b036ef54a35db278537aa3b01",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s06",
+  "claims": [
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Tên mục 'Locke's Political Philosophy'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/locke-political/",
+          "quote": "Locke’s Political Philosophy",
+          "where": "tiêu đề trang bản hiện hành (không phải bản lưu)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Alex Tuckness",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/locke-political/",
+          "quote": "Copyright © 2020 by Alex Tuckness",
+          "where": "cuối trang bản hiện hành"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Bản lưu fall2026 của mục này không mở được qua WebFetch (client_error, thử 4 lần). Tên mục, tác giả và ngày kiểm trên bản hiện hành plato.stanford.edu/entries/locke-political/. Cần người làm mở thử bằng trình duyệt. texts_seen: các cách ghi khác chỉ khác dấu nháy cong/thẳng hoặc thêm chú thích, cùng tên mục và tác giả; nên thống nhất một cách."
+}

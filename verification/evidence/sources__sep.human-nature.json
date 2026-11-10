@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.human-nature",
+  "hash": "sha256:1256337d742950c12e7bfdef54dfdbc62ae3eb2bbeaf6d41dd06d85dd3d1e6c2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Human Nature\" có thật ở bản lưu fall2026 và URL archive mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/human-nature/",
+          "quote": "First published Mon Mar 15, 2021",
+          "where": "đầu trang, tiêu đề: Human Nature"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục khớp cách ghi trong text",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/human-nature/",
+          "quote": "Roughley, Neil",
+          "where": "metadata DC.creator của bản lưu"
+        }
+      ]
+    },
+    {
+      "text": "Năm: Roughley (2021)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/human-nature/",
+          "quote": "First published Mon Mar 15, 2021"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.rousseau",
+  "hash": "sha256:6466453451a245cc26f9aeec891a2787b843a54c4084d90750ea4bcf7c5affa5",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/rousseau/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/rousseau/",
+          "quote": "Jean-Jacques Rousseau (1712–1778)",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/rousseau/",
+          "quote": "Jean-Jacques Rousseau (1712–1778)",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Delaney",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/rousseau/",
+          "quote": "James J. Delaney",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại)."
+}

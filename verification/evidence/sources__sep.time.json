@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.time",
+  "hash": "sha256:31c2666a6450008844f4777e4a5b5dafc8ad93c60d971cc0f97e3251a0ad43a8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Time\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/time/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "Time",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Nina Emery, Ned Markosian & Meghan Sullivan (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/time/",
+          "quote": "Linked bibliography for the SEP article \"Time\" by Nina Emery, Ned Markosian and Meghan Sullivan"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "meta-citation_author: Sullivan, Meghan"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text. Ghi chú '(về hiện tại luận – vĩnh cửu luận)' không kiểm ở đây."
+}

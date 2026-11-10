@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.arendt",
+  "hash": "sha256:68451ff6557e2e640c0799e71ff4d343ab2fc76d2e6951723df1ddedb640f2da",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/arendt/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/arendt/",
+          "quote": "Instead, her thoughts span totalitarianism, revolution, the nature of freedom and the faculties of thought and judgment.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Arendt, Hannah\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/arendt/",
+          "quote": "Hannah Arendt (1906–1975)",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Yar, Majid",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/arendt/",
+          "quote": "Majid Yar (Lancaster University, United Kingdom)",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

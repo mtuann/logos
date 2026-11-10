@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.wittgenstein",
+  "hash": "sha256:53cd8f96f9e869b5cc58e05f587549f75509f167608e364513dde6cefb7a1dd2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Ludwig Wittgenstein\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "Ludwig Wittgenstein",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Anat Biletzki & Anat Matar (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/authors.html",
+          "quote": "Ludwig Wittgenstein (with Anat Matar)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "meta-citation_author: Matar, Anat"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text. Các cách ghi khác nhau chỉ khác dấu nháy và 'và'/'&'; nên thống nhất 'Họ, Tên & Họ, Tên'."
+}

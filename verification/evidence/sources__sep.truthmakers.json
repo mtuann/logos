@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.truthmakers",
+  "hash": "sha256:34c645c9e665a11d528807f1cf6d6bba977f2cda7b932e884d7f27fdf515cd36",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Truthmakers\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/truthmakers/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truthmakers/",
+          "quote": "Truthmakers",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Fraser MacBride & Christopher Daly (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/truthmakers/",
+          "quote": "Linked bibliography for the SEP article \"Truthmakers\" by Fraser MacBride and Christopher Daly"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truthmakers/",
+          "quote": "meta-citation_author: Daly, Christopher"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text."
+}

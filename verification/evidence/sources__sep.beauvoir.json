@@ -1,0 +1,49 @@
+{
+  "unit": "sources/sep.beauvoir",
+  "hash": "sha256:4784ecee9acfc5b098505220d9cc9d0f0400afbbc9e07866c0cae283b644760b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Simone de Beauvoir\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "Simone de Beauvoir"
+        }
+      ]
+    },
+    {
+      "text": "Megan Burke là tác giả mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "Burke, Megan",
+          "where": "metadata citation_author"
+        }
+      ]
+    },
+    {
+      "text": "Debra Bergoffen là đồng tác giả mục",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "First published Tue Aug 17, 2004; substantive revision Wed Jan 11, 2023"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Metadata trang chỉ liệt kê Burke, Megan; phần cuối trang (dòng bản quyền) bị cắt khi tải nên không xác nhận được Debra Bergoffen. Với mục nhiều tác giả khác (Arendt, Compatibilism) metadata chỉ nêu một người, nên chưa thể kết luận sai; cần người xem dòng bản quyền/trang archinfo (robots chặn công cụ)."
+}

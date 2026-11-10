@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.nagarjun",
+  "hash": "sha256:54eb4dbcc31a11bc639c6defdb0f9e143aa08aa0bf727aa0d71e1e19581c6aaf",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/nagarjun/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nagarjun/",
+          "quote": "Nagarjuna (c. 150–c. 250)",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nagarjun/",
+          "quote": "Nagarjuna (c. 150–c. 250)",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Berger",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/nagarjun/",
+          "quote": "Douglas Berger",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Tiêu đề trang dùng gạch nối ngắn (–) giữa năm, mục ghi dấu — : khác biệt typo nhỏ, không đáng sửa."
+}

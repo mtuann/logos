@@ -1,0 +1,70 @@
+{
+  "unit": "sources/sep.logic-classical",
+  "hash": "sha256:0c9d17c9516ae325430d01f964e4d26d72b164f2a7bdea67f6a49c7cff4afe6d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s06",
+  "claims": [
+    {
+      "text": "Tên mục: Classical Logic",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "Classical Logic",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Stewart Shapiro và Teresa Kouri Kissel",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://digitalcommons.odu.edu/philosophy_fac_pubs/61/",
+          "quote": "\"Classical Logic\" by Stewart Shapiro and Teresa Kouri Kissel",
+          "where": "kho lưu của ODU, nguồn là SEP"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Kouri Kissel có trong siêu dữ liệu bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "Kouri Kissel, Teresa",
+          "where": "meta citation_author"
+        }
+      ]
+    },
+    {
+      "text": "Ký hiệu Γ ⊢ φ: φ suy ra được từ Γ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "We write \\(\\Gamma \\vdash \\phi\\) to indicate that \\(\\phi\\) is deducible from \\(\\Gamma\\).",
+          "where": "Mục 3"
+        }
+      ]
+    },
+    {
+      "text": "Ngày đăng/sửa trên trang",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "First published Sat Sep 16, 2000; substantive revision Wed Jun 17, 2026",
+          "where": "đầu trang"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Siêu dữ liệu bản lưu chỉ hiện Kouri Kissel (công cụ đọc chỉ trả một tên cho mục nhiều tác giả; dòng bản quyền cuối trang bị cắt nên không đọc được). Tên Shapiro xác nhận qua kho ODU (thứ cấp). Nên người làm mở dòng 'Author and Citation Info' bằng trình duyệt nếu muốn chắc."
+}

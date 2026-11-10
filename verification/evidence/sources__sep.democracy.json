@@ -1,0 +1,56 @@
+{
+  "unit": "sources/sep.democracy",
+  "hash": "sha256:628c745fe00f34e08081ad411ceffc265e95120583fde24276d6c78c589e557c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Democracy\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Democracy"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Sameer Bajaj",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Bajaj, Sameer",
+          "where": "metadata"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Thomas (Tom) Christiano, đứng trước Bajaj",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/rec/BAJDAV",
+          "quote": "Christiano, Tom",
+          "where": "PhilPapers, mục Democracy (SEP)"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "First published Thu Jul 27, 2006; substantive revision Tue Jun 18, 2024"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Metadata SEP chỉ liệt kê Bajaj; PhilPapers xác nhận Christiano là tác giả. Tên: PhilPapers ghi 'Christiano, Tom'; texts_seen ghi cả Tom và Thomas; nên thống nhất một cách (Thomas Christiano là tên đầy đủ, Tom là cách SEP/PhilPapers ghi)."
+}

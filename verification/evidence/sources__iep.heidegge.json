@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.heidegge",
+  "hash": "sha256:b9d81697c5769ff6bfc3d15f5a79dacc3dec98cb87d809fbd4260b095413d628",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/heidegge/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/heidegge/",
+          "quote": "Martin Heidegger is widely acknowledged to be one of the most original and important philosophers of the 20th century",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Martin Heidegger\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/heidegge/",
+          "quote": "Martin Heidegger (1889–1976)",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Korab-Karpowicz, W. J.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/heidegge/",
+          "quote": "W. J. Korab-Karpowicz",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

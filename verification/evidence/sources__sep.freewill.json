@@ -1,0 +1,39 @@
+{
+  "unit": "sources/sep.freewill",
+  "hash": "sha256:93fb8f811b703ae470f13aa072b1f2b7dad6d7123d9af0c9554498a30098d473",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s04",
+  "claims": [
+    {
+      "text": "Mục SEP \"Free Will\" có thật; bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "Free Will",
+          "where": "tiêu đề mục"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: O'Connor, Timothy & Franklin, Christopher",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/freewill/",
+          "quote": "Timothy O'Connor and Christopher Franklin",
+          "where": "PhilPapers, danh mục thư mục liên kết của bài SEP"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "Franklin, Christopher",
+          "where": "metadata liệt kê tác giả cuối; tác giả đầu không hiện trong văn bản tải được"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Metadata SEP chỉ hiện tác giả cuối; tác giả đầu xác nhận qua PhilPapers (thư mục liên kết của bài SEP)."
+}

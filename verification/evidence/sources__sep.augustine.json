@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.augustine",
+  "hash": "sha256:78507d5786857791915cf0f11f4fa25c2a73a138b544e32448648c081dc66426",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Augustine of Hippo\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "Augustine of Hippo"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Christian Tornau",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "Tornau, Christian",
+          "where": "metadata/dòng bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "First published Wed Sep 25, 2019; substantive revision Fri Apr 26, 2024",
+          "where": "dòng ngày đầu mục"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

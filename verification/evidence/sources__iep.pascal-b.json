@@ -1,0 +1,27 @@
+{
+  "unit": "sources/iep.pascal-b",
+  "hash": "sha256:1018c57b4ab586c0e4259f6fee11eebc5c167bf0f890b72218636836a692b4a2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài 'Pascal, Blaise' của IEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pascal-b/",
+          "quote": "Blaise Pascal (1623–1662)",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: David Simpson",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Không thấy tên tác giả ở phần đọc được của trang IEP (WebFetch không cho thấy byline/Author Information) và bản ghi PhilPapers (philpapers.org/rec/AUTPB) không nêu tác giả; chỉ kết quả tìm kiếm gợi ý 'David Simpson, Pascal, Blaise - PhilPapers' chưa đủ. Cần mở trang bằng trình duyệt."
+}

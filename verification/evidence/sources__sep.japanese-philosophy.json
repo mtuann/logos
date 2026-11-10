@@ -1,0 +1,54 @@
+{
+  "unit": "sources/sep.japanese-philosophy",
+  "hash": "sha256:cb882dfde5963a9689f0b91572da1949d366f4f2c9816889d98c3d042a3df1db",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Japanese Philosophy\" có thật ở bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "First published Fri Apr 5, 2019; substantive revision Sun Jan 11, 2026",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục Japanese Philosophy gồm Bouso, Raquel (và Kasulis, Thomas)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Mục \"The Kyoto School\", Davis, Bret W., có thật ở bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/",
+          "quote": "First published Mon Feb 27, 2006; substantive revision Mon Sep 14, 2026",
+          "where": "đầu trang; metadata tác giả: Davis, Bret W."
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu (archive) của cả hai mục mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "Japanese Philosophy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/",
+          "quote": "The Kyoto School"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Metadata bản lưu chỉ liệt kê Bouso, Raquel; byline đầy đủ không đọc được qua công cụ. PhilPapers (có thể cũ) ghi mục 'by Thomas Kasulis'. Không xác nhận được rằng bản fall2026 ghi cả Kasulis lẫn Bouso, nên cần người làm mở trang bằng trình duyệt xem byline. Kyoto School: Davis đúng."
+}

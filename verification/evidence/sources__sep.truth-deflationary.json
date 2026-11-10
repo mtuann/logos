@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.truth-deflationary",
+  "hash": "sha256:d3f444a1f1ce3700a696c2e43360dcce76a3e83eef01cb47518094ee89c069a6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Deflationism About Truth\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/",
+          "quote": "Deflationism About Truth",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Bradley Armour-Garb, Daniel Stoljar & James Woodbridge (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/authors.html",
+          "quote": "Deflationism About Truth (with Daniel Stoljar and James Woodbridge)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/",
+          "quote": "meta-citation_author: Woodbridge, James"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text."
+}

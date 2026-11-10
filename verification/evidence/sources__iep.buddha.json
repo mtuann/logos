@@ -1,0 +1,58 @@
+{
+  "unit": "sources/iep.buddha",
+  "hash": "sha256:5ff6f57f43eb26492ee5516e78ee9b4dc17dd836c985e3cf65cbd40a67e41237",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/buddha/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/buddha/",
+          "quote": "There is no complete agreement among scholars and Buddhist traditions regarding the dates of the historical Buddha.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Buddha\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/buddha/",
+          "quote": "Buddha (c. 500s B.C.E.)",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Velez, Abraham",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/buddha/",
+          "quote": "Abraham Velez (Eastern Kentucky University, U.S.A.)",
+          "where": "Author Information / byline"
+        }
+      ]
+    },
+    {
+      "text": "Mục 1a về niên đại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/buddha/",
+          "quote": "a. Dates",
+          "where": "mục 1 'Interpreting the Historical Buddha'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tên bài trên trang kèm niên đại 'c. 500s B.C.E.'."
+}

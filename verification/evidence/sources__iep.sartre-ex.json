@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.sartre-ex",
+  "hash": "sha256:8ecc73d0ae5fc2450109e4cfb309277e555c18bce617b1fa90fe83d291bdc5ef",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/sartre-ex/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/sartre-ex/",
+          "quote": "Jean Paul Sartre: Existentialism",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/sartre-ex/",
+          "quote": "Jean Paul Sartre: Existentialism",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Onof",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/sartre-ex/",
+          "quote": "Christian J. Onof",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Hai cách ghi khớp: 'Jean Paul Sartre: Existentialism' là tiêu đề bài; 'Sartre, Jean Paul: Existentialism' là tiêu đề thẻ trình duyệt. Nên thống nhất một cách (đề xuất tiêu đề bài)."
+}

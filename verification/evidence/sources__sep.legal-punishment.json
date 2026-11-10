@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sep.legal-punishment",
+  "hash": "sha256:1cbca2dc3365f39c5994d51d8decfc149f6d60ad5ec055a64009eddd0b939818",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Legal Punishment\" có thật ở bản lưu fall2026 và URL archive mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "First published Tue Jan 2, 2001; substantive revision Wed Mar 11, 2026",
+          "where": "đầu trang, tiêu đề: Legal Punishment"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục khớp cách ghi trong text",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/legal-punishment/",
+          "quote": "Zachary Hoskins and Antony Duff",
+          "where": "trang PhilPapers liên kết với mục SEP"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Metadata bản lưu chỉ ghi Duff; hai tác giả xác nhận qua PhilPapers. Phần '(về các lý thuyết biện minh...)' là diễn giải, không kiểm."
+}

@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.ep-testi",
+  "hash": "sha256:f2f8b5983e080804a7dfe0ff6d40848fb787fb5411d6d09293377564335d0e18",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/ep-testi/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ep-testi/",
+          "quote": "We get a great number of our beliefs from what others tell us.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Epistemology of Testimony\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ep-testi/",
+          "quote": "Epistemology of Testimony",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Green, Christopher R.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ep-testi/",
+          "quote": "Christopher R. Green, University of Mississippi, U.S.A.",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tác giả ở Author Information cuối trang: Christopher R. Green, University of Mississippi."
+}

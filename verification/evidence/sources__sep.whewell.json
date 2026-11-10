@@ -1,0 +1,44 @@
+{
+  "unit": "sources/sep.whewell",
+  "hash": "sha256:dcdae9cb6a50058b8ceb457bcf908e45f04b554e4b12e697dce8bb791860ea06",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"William Whewell\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/whewell/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/whewell/",
+          "quote": "William Whewell",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Laura J. Snyder (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/whewell/",
+          "quote": "meta-citation_author: Snyder, Laura J."
+        }
+      ]
+    },
+    {
+      "text": "Whewell đặt ra từ scientist năm 1833; trước đó chỉ có 'natural philosopher' và 'man of science'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/whewell/",
+          "quote": "In response to a challenge by the poet S.T. Coleridge in 1833, Whewell invented the English word “scientist;”"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

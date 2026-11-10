@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.prop-log",
+  "hash": "sha256:b451bfb2ed93975e423027ee82c35b24094d13544627b892e9d59c1ec10ab51a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài 'Propositional Logic' của IEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "Propositional Logic | Internet Encyclopedia of Philosophy",
+          "where": "thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Bài có mục lịch sử nói bảng chân trị trước Post và Wittgenstein",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "appear explicitly in writings by Eugen Müller as early as 1909",
+          "where": "mục 2 History"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Kevin C. Klement",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/rec/KLEPL",
+          "quote": "Kevin C. Klement",
+          "where": "Author's Profile; Internet Encyclopedia of Philosophy (2004)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Trang IEP khi tải không hiện dòng tác giả (WebFetch cắt phần Author Information); tác giả xác nhận qua bản ghi PhilPapers (nguồn thứ cấp, yếu hơn): nên người làm/kiểm mẫu xem trực tiếp trang IEP."
+}

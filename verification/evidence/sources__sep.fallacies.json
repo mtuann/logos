@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sep.fallacies",
+  "hash": "sha256:1a57bd30bcba707819eb1dcf93b6df01190f9165a88596d0b72d2b3c2f51f247",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s04",
+  "claims": [
+    {
+      "text": "Mục SEP \"Fallacies\" có thật; bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Fallacies",
+          "where": "tiêu đề mục"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Hansen, Hans",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Hansen, Hans",
+          "where": "metadata/bản quyền"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Text ghi 'Hans Hansen' (tên trước họ) trong khi các mục khác ghi 'Họ, Tên'; nên thống nhất 'Hansen, Hans'."
+}

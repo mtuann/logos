@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sep.al-ghazali",
+  "hash": "sha256:b8755ebc533d2fa86c801c2908da7be9345a598fa6c9075225e87328588adf0e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"al-Ghazali\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "al-Ghazali"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Frank Griffel",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "Griffel, Frank",
+          "where": "metadata/dòng bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "First published Tue Aug 14, 2007; substantive revision Thu Jan 15, 2026",
+          "where": "dòng ngày đầu mục"
+        }
+      ]
+    },
+    {
+      "text": "Tên mục viết \"Al-Ghazali\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "al-Ghazali (SEP viết thường chữ al-)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "al-Ghazali"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chỉ lệch hoa/thường tên mục."
+}

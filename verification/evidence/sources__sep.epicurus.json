@@ -1,0 +1,46 @@
+{
+  "unit": "sources/sep.epicurus",
+  "hash": "sha256:04490d9529459c0fb4d5d938d942e90d6a212e7a7c6129e6e57b58934dce1542",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s04",
+  "claims": [
+    {
+      "text": "Mục SEP \"Epicurus\" có thật; bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "Epicurus",
+          "where": "tiêu đề mục"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Konstan, David",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "Copyright © 2022 by David Konstan",
+          "where": "metadata/bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "Mục 3 (Physical Theory) nói phê phán của Aristotle (với thuyết nguyên tử) và lời đáp của Epicurus",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "Epicurus rose to the challenge, although one cannot be certain that he was responding directly to Aristotle’s critique.",
+          "where": "mục 3 Physical Theory"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mục 3 là 'Physical Theory': phê phán của Aristotle nhằm vào thuyết nguyên tử (minima của Democritus), không phải thuyết khoái lạc; chú thích 'phê phán của Aristotle' nên nói rõ là về nguyên tử luận để tránh hiểu nhầm. texts_seen: mọi cách ghi cùng tên mục, tác giả; nên thống nhất dạng 'Họ, Tên, “Tên mục”, Stanford Encyclopedia of Philosophy. <URL bản lưu>'."
+}
