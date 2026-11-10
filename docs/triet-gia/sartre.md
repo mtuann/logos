@@ -68,11 +68,11 @@ Lập luận trong bài giảng *L'existentialisme est un humanisme* (1945, in n
 
 ## Nguồn
 
-1. Reynolds, Jack & Pierre-Jean Renaudie, “Jean-Paul Sartre”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
-2. Onof, Christian J., “Sartre, Jean Paul: Existentialism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/sartre-ex/>
+1. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
+2. Onof, Christian J., "Jean Paul Sartre: Existentialism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/sartre-ex/>
 3. Sartre, Jean-Paul, *Existentialism Is a Humanism* (bài giảng 1945, in 1946), bản dịch tiếng Anh của Philip Mairet, trong W. Kaufmann (biên tập), *Existentialism from Dostoevsky to Sartre*, trên Marxists Internet Archive. <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
 4. The Nobel Prize in Literature 1964, NobelPrize.org. <https://www.nobelprize.org/prizes/literature/1964/summary/>
-5. O’Sullivan, Rory, “The tragedy of Trần Đức Thảo”, *Aeon*. <https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao>
+5. O’Sullivan, Rory, “The tragedy of Trần Đức Thảo”, *Aeon*, 8/1/2026. <https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao>
 
 ---
 

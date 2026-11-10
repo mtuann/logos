@@ -172,4 +172,4 @@ Biết khuôn hỏng rồi, hãy làm quen với các khuôn đáng tin — rồ
 
 ## Nguồn {#nguon}
 
-1. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/fallacy/>
+1. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy* (các mục "Affirming the Consequent" và "Denying the Antecedent"). <https://iep.utm.edu/fallacy/>

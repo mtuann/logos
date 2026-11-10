@@ -73,9 +73,10 @@ Phần mở đầu *Bình Ngô đại cáo* không kể chiến công mà nêu m
 1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 10–12 (Bình Ngô đại cáo; các việc năm 1435 và 1437; án Lệ Chi Viên 1442; các năm 1464, 1467), nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81%E4%B8%80>
 2. Nguyễn Trãi, *Bình Ngô đại cáo* (1428), nguyên văn chữ Hán theo *Hoàng Việt văn tuyển* và các bản dịch, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o>
 3. Nguyễn Trãi, *Quan hải* (關海), nguyên văn chữ Hán, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Quan_h%E1%BA%A3i>
-4. Mạnh Tử, thiên Lương Huệ Vương hạ (“tru kỳ quân nhi điếu kỳ dân”) và Tuân Tử, thiên Vương chế (“quân giả chu dã, thứ nhân giả thủy dã”), Chinese Text Project. <https://ctext.org/mengzi/liang-hui-wang-ii>
-5. Nguyễn Trãi, *Toàn tập*, in lần thứ hai có sửa chữa bổ sung, Hà Nội: NXB Khoa học xã hội, 1976.
-6. Nguyễn Minh Sơn, “Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”, *Ngôn ngữ & Đời sống*, số 5, 2010 (về 254 bài của *Quốc âm thi tập*). <https://vjol.info.vn/NNDS/article/view/13430>
+4. *Mạnh Tử* 1B11, nguyên văn. <https://ctext.org/mengzi/liang-hui-wang-ii>
+5. *Tuân Tử* (荀子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/xunzi>
+6. Nguyễn Trãi, *Toàn tập*, in lần thứ hai có sửa chữa bổ sung, Hà Nội: NXB Khoa học xã hội, 1976.
+7. Nguyễn Minh Sơn, “Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”, *Ngôn ngữ & Đời sống*, số 5, 2010 (về 254 bài của *Quốc âm thi tập*). <https://vjol.info.vn/NNDS/article/view/13430>
 
 ---
 

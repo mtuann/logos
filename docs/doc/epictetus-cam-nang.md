@@ -142,7 +142,9 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
+Bài IEP "Stoicism": cảm xúc trong Khắc kỷ, phép chia ba của Irvine (2008) và mối liên hệ với liệu pháp nhận thức.
+
 1. Epictetus, *A Selection from the Discourses of Epictetus with the Encheiridion*, bản dịch tiếng Anh của George Long (in đầy đủ lần đầu trong *The Discourses of Epictetus; with the Encheiridion and Fragments*, London: George Bell, 1877; phạm vi công cộng), Project Gutenberg #10661. <https://www.gutenberg.org/ebooks/10661>
 2. Graver, Margaret, "Epictetus", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epictetus/>
-3. Pigliucci, Massimo, "Stoicism", *Internet Encyclopedia of Philosophy* — về cảm xúc trong Khắc kỷ, phép chia ba của Irvine (2008) và mối liên hệ với liệu pháp nhận thức. <https://iep.utm.edu/stoicism/>
+3. Pigliucci, Massimo, “Stoicism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/stoicism/>
 4. Liddell, Scott & Jones, *A Greek-English Lexicon*, mục *encheiridios*, Perseus Digital Library. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=e)gxeiri/dios>

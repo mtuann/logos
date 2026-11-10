@@ -191,4 +191,4 @@ Gợi ý độ dài: 250–400 chữ.
 1. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 2. Gardiner, Stephen M. (2011), *A Perfect Moral Storm: The Ethical Tragedy of Climate Change*, Oxford: Oxford University Press.
 3. CDP & Climate Accountability Institute (2017), *CDP Carbon Majors Report 2017* (100 nhà sản xuất nhiên liệu hóa thạch gắn với 71% phát thải công nghiệp từ 1988).
-4. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

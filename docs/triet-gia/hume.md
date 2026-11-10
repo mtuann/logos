@@ -75,10 +75,10 @@ Trong *Điều tra về trí năng con người* (mục IV), Hume hỏi: dựa v
 
 ## Nguồn
 
-1. Qu, Hsueh & Elizabeth S. Radcliffe, “David Hume”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume/>
-2. Hume, David, *An Enquiry concerning Human Understanding* (1748), bản L. A. Selby-Bigge, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
+1. Qu, Hsueh & Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (2026). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
+2. David Hume, *An Enquiry concerning Human Understanding* (1748), bản phạm vi công cộng trên Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
 3. Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>
-4. Henderson, Leah, “The Problem of Induction”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
+4. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
 5. Cohon, Rachel, “Hume’s Moral Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-moral/>
 
 ---

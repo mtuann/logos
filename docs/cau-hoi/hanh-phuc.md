@@ -93,7 +93,7 @@ Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp liên quan đến b
 | Máy trải nghiệm: có vào không? (câu chính, n ≈ [[pp:may-trai-nghiem-co-vao-khong/n]]) | Có | [[pp:may-trai-nghiem-co-vao-khong.co]] |
 | | Không | [[pp:may-trai-nghiem-co-vao-khong.khong]] |
 | | Khác | [[pp:may-trai-nghiem-co-vao-khong.khac]] |
-| Phúc lợi (câu bổ sung, n ≈ [[pp:phuc-loi-well-being/n]]) | Khoái lạc / trải nghiệm | 12,7 |
+| Phúc lợi (câu bổ sung, n ≈ [[pp:phuc-loi-well-being/n]]) | Khoái lạc / trải nghiệm | [[pp:phuc-loi-well-being.khoai-lac-trai-nghiem]] |
 | | Thỏa mãn ước muốn | [[pp:phuc-loi-well-being.thoa-man-uoc-muon]] |
 | | Danh sách khách quan | [[pp:phuc-loi-well-being.danh-sach-khach-quan]] |
 | | Khác | [[pp:phuc-loi-well-being.khac]] |
@@ -206,5 +206,5 @@ Gợi ý độ dài: 200–350 chữ.
 2. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm cỗ máy trải nghiệm).
 3. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press (phụ lục về ba họ lý thuyết đời sống tốt).
 4. Epicurus, *Thư gửi Menoeceus* (cuối thế kỷ 4 – đầu thế kỷ 3 TCN, phạm vi công cộng; được Diogenes Laertius chép lại trong Quyển X của *Lives of Eminent Philosophers*).
-5. Mill, John Stuart (1863), *Utilitarianism*, London: Parker, Son, and Bourn (phạm vi công cộng). <https://www.gutenberg.org/ebooks/11224>
-6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

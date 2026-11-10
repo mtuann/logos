@@ -69,7 +69,7 @@ Lập luận từ trường hợp “phân đôi” (*fission*) trong *Reasons a
 
 ## Nguồn
 
-1. Olson, Eric T., “Personal Identity”, *Stanford Encyclopedia of Philosophy* (SEP chưa có mục riêng về Parfit). <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
+1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
 2. Dancy, Jonathan, “Derek Antony Parfit, 11 December 1942 – 2 January 2017”, *Biographical Memoirs of Fellows of the British Academy* XIX (2020), tr. 37–57. <https://www.thebritishacademy.ac.uk/documents/890/19-Memoirs-03-Parfit.pdf>
 3. Roberts, M. A., “The Nonidentity Problem”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nonidentity-problem/>
 4. Arrhenius, Gustaf, Jesper Ryberg & Torbjörn Tännsjö, “The Repugnant Conclusion”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/repugnant-conclusion/>

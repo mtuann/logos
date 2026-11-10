@@ -20,15 +20,8 @@ cbeta.zh-t1564-004:
   - doc/tam-kinh.md#nguon
 ctext.analects:
   type: ctext
-  text: '*Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11, nguyên văn và bản dịch James Legge: <https://ctext.org/analects>, <https://ctext.org/mengzi>; Csikszentmihalyi, Mark, "Confucius", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/confucius/>'
-  texts_seen:
-  - '*Luận ngữ* (*Analects*), thiên 2.3 và 12.19. Nguyên văn: <https://ctext.org/analects>'
-  - '*Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>'
-  - '*Luận ngữ* (論語), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/analects>'
+  text: '*Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>'
   url: https://ctext.org/analects
-  also:
-  - https://ctext.org/mengzi
-  - https://plato.stanford.edu/archives/fall2026/entries/confucius/
   used_in:
   - cau-hoi/duc-tri.md#nguon
   - cau-hoi/noi-doi.md#nguon
@@ -49,8 +42,6 @@ ctext.analects-xian-jin:
 ctext.dao-de-jing:
   type: ctext
   text: Lão Tử, *Đạo đức kinh*, nguyên văn (bản Vương Bật) và bản dịch tiếng Anh của James Legge (1891), Chinese Text Project. <https://ctext.org/dao-de-jing>
-  texts_seen:
-  - '*Đạo đức kinh* (道德經), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/dao-de-jing>'
   url: https://ctext.org/dao-de-jing
   used_in:
   - doc/dao-duc-kinh.md#nguon
@@ -63,10 +54,7 @@ ctext.han-shu-wu-di-ji-zh:
   - lich-su/trung-hoa.md#nguon
 ctext.hanfeizi:
   type: ctext
-  text: '*Hàn Phi Tử*, các thiên Hữu độ (有度), Nhị bính (二柄), Dương quyền (揚權), Công danh (功名) và Lục phản (六反). Nguyên văn: <https://ctext.org/hanfeizi>'
-  texts_seen:
-  - '*Hàn Phi Tử*, mục lục (thiên 20 "Giải Lão", thiên 21 "Dụ Lão"). <https://ctext.org/hanfeizi>'
-  - '*Hàn Phi Tử* (韓非子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/hanfeizi>'
+  text: '*Hàn Phi Tử* (韓非子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/hanfeizi>'
   url: https://ctext.org/hanfeizi
   used_in:
   - cau-hoi/duc-tri.md#nguon
@@ -80,12 +68,11 @@ ctext.huainanzi-yao-lve-zh:
   - people/mac-tu
 ctext.mengzi:
   type: ctext
-  text: '*Mạnh Tử* (*Mencius*), thiên Tận tâm hạ 7B14 và Lương Huệ Vương hạ 1B8. Nguyên văn: <https://ctext.org/mengzi>'
-  texts_seen:
-  - '*Mạnh Tử* (孟子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/mengzi>'
+  text: '*Mạnh Tử* (孟子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/mengzi>'
   url: https://ctext.org/mengzi
   used_in:
   - cau-hoi/duc-tri.md#nguon
+  - cau-hoi/noi-doi.md#nguon
   - people/manh-tu
 ctext.mengzi-gong-sun-chou-i:
   type: ctext
@@ -105,8 +92,6 @@ ctext.mengzi-gong-sun-chou-i:
 ctext.mengzi-liang-hui-wang-ii:
   type: ctext
   text: '*Mạnh Tử* 1B11, nguyên văn. <https://ctext.org/mengzi/liang-hui-wang-ii>'
-  texts_seen:
-  - Mạnh Tử, thiên Lương Huệ Vương hạ (“tru kỳ quân nhi điếu kỳ dân”) và Tuân Tử, thiên Vương chế (“quân giả chu dã, thứ nhân giả thủy dã”), Chinese Text Project. <https://ctext.org/mengzi/liang-hui-wang-ii>
   url: https://ctext.org/mengzi/liang-hui-wang-ii
   used_in:
   - doc/nguyen-trai-binh-ngo.md#nguon
@@ -168,6 +153,7 @@ ctext.xunzi:
   text: '*Tuân Tử* (荀子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/xunzi>'
   url: https://ctext.org/xunzi
   used_in:
+  - people/nguyen-trai
   - people/tuan-tu
 ctext.xunzi-tian-lun:
   type: ctext
@@ -443,9 +429,7 @@ doi.10-2307-2023833:
   - cau-hoi/tu-do-y-chi.md#nguon
 doi.10-2307-2025310:
   type: doi
-  text: 'Lewis, David (1973), "Causation", *Journal of Philosophy* 70(17): 556–567. <https://doi.org/10.2307/2025310>'
-  texts_seen:
-  - 'Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>'
+  text: 'Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>'
   url: https://doi.org/10.2307/2025310
   used_in:
   - cau-hoi/nhan-qua-ban-chat.md#nguon
@@ -520,12 +504,7 @@ doi.10-3998-phimp-2109:
   type: doi
   text: 'David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers'' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>'
   texts_seen:
-  - 'Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers'' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>'
-  - 'Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers'' Imprint* 23. <https://doi.org/10.3998/phimp.2109>'
-  - 'Bourget, D. & Chalmers, D. J. (2023). "Philosophers on Philosophy: The 2020 PhilPapers Survey". *Philosophers'' Imprint* 23. <https://doi.org/10.3998/phimp.2109>'
-  - 'Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers'' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>. Khảo sát không có câu hỏi riêng về định mệnh/biết trước; bài dùng hai câu bổ sung về diễn giải cơ học lượng tử và bản thể luận thời gian.'
   - 'Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers'' Imprint* 23 <https://doi.org/10.3998/phimp.2109>; Dancy, Jonathan, "Moral Particularism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/>'
-  - 'Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers'' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả chi tiết và bảng tương quan theo từng câu: <https://survey2020.philpeople.org/>'
   url: https://doi.org/10.3998/phimp.2109
   also:
   - https://survey2020.philpeople.org/
@@ -626,8 +605,6 @@ gutenberg.10615:
 gutenberg.10661:
   type: gutenberg
   text: 'Epictetus, *A Selection from the Discourses of Epictetus with the Encheiridion*, bản dịch tiếng Anh của George Long (in đầy đủ lần đầu trong *The Discourses of Epictetus; with the Encheiridion and Fragments*, London: George Bell, 1877; phạm vi công cộng), Project Gutenberg #10661. <https://www.gutenberg.org/ebooks/10661>'
-  texts_seen:
-  - Epictetus, *A Selection from the Discourses of Epictetus with the Encheiridion*, bản dịch George Long, Project Gutenberg. <https://www.gutenberg.org/ebooks/10661>
   url: https://www.gutenberg.org/ebooks/10661
   used_in:
   - doc/epictetus-cam-nang.md#nguon
@@ -635,14 +612,11 @@ gutenberg.10661:
 gutenberg.11224:
   type: gutenberg
   text: 'Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser''s Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>'
-  texts_seen:
-  - 'Mill, John Stuart (1863), *Utilitarianism*, London: Parker, Son, and Bourn (phạm vi công cộng). <https://www.gutenberg.org/ebooks/11224>'
-  - Mill, John Stuart, *Utilitarianism* (1863), chương V (châm ngôn “mỗi người tính là một”), Project Gutenberg. <https://www.gutenberg.org/ebooks/11224>
-  - Mill, John Stuart, *Utilitarianism* (1863), Project Gutenberg. <https://www.gutenberg.org/ebooks/11224>
   url: https://www.gutenberg.org/ebooks/11224
   used_in:
   - cau-hoi/dao-duc-hanh-dong.md#nguon
   - cau-hoi/hanh-phuc.md#nguon
+  - cau-hoi/noi-doi.md#nguon
   - people/bentham
   - people/mill
 gutenberg.14328:
@@ -677,8 +651,6 @@ gutenberg.14988:
 gutenberg.15877:
   type: gutenberg
   text: 'Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch tiếng Anh của George Long (1862; phạm vi công cộng), Project Gutenberg #15877. <https://www.gutenberg.org/ebooks/15877>'
-  texts_seen:
-  - Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch George Long (kèm tiểu sử của người dịch), Project Gutenberg. <https://www.gutenberg.org/ebooks/15877>
   url: https://www.gutenberg.org/ebooks/15877
   used_in:
   - doc/aurelius-suy-tuong.md#nguon
@@ -692,8 +664,6 @@ gutenberg.1600:
 gutenberg.1642:
   type: gutenberg
   text: Platon, *Euthyphro* (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1642>
-  texts_seen:
-  - Platon, *Euthyphro*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1642>
   url: https://www.gutenberg.org/ebooks/1642
   used_in:
   - cong-cu/bien-chung-socrates.md#nguon
@@ -701,9 +671,6 @@ gutenberg.1642:
 gutenberg.1656:
   type: gutenberg
   text: Platon, *Biện hộ của Socrates* (*Apology*, bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1656>
-  texts_seen:
-  - 'Platon, *Apology*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1656. <https://www.gutenberg.org/ebooks/1656>'
-  - Platon, *Apology*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1656>
   url: https://www.gutenberg.org/ebooks/1656
   used_in:
   - cong-cu/bien-chung-socrates.md#nguon
@@ -711,9 +678,7 @@ gutenberg.1656:
   - people/socrates
 gutenberg.1658:
   type: gutenberg
-  text: Platon, *Phaedo*, 100c–d. Bản dịch tiếng Anh của Benjamin Jowett (in lần đầu 1871, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1658>
-  texts_seen:
-  - Platon, *Phaedo*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1658>
+  text: Platon, *Phaedo*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1658>
   url: https://www.gutenberg.org/ebooks/1658
   used_in:
   - cau-hoi/pho-quat.md#nguon
@@ -721,8 +686,6 @@ gutenberg.1658:
 gutenberg.1726:
   type: gutenberg
   text: Platon, *Theaetetus*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1726>
-  texts_seen:
-  - Platon, *Theaetetus* (174a), bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1726>
   url: https://www.gutenberg.org/ebooks/1726
   used_in:
   - people/socrates
@@ -735,9 +698,7 @@ gutenberg.17611:
   - people/aquinas
 gutenberg.18269:
   type: gutenberg
-  text: Pascal, Blaise, *Pensées*, bản dịch W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg — các đoạn 466–467 bàn về Epictetus. <https://www.gutenberg.org/ebooks/18269>
-  texts_seen:
-  - Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
+  text: Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
   url: https://www.gutenberg.org/ebooks/18269
   used_in:
   - people/epictetus
@@ -785,11 +746,10 @@ gutenberg.3207:
   - people/hobbes
 gutenberg.3296:
   type: gutenberg
-  text: Augustine, *Confessions*, Quyển XI. Bản dịch tiếng Anh của Edward Pusey (1838, phạm vi công cộng). <https://www.gutenberg.org/ebooks/3296>
-  texts_seen:
-  - Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
+  text: Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
   url: https://www.gutenberg.org/ebooks/3296
   used_in:
+  - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - cau-hoi/thoi-gian.md#nguon
   - people/augustine
 gutenberg.3420:
@@ -801,9 +761,6 @@ gutenberg.3420:
 gutenberg.34901:
   type: gutenberg
   text: 'Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>'
-  texts_seen:
-  - Mill, John Stuart (1859), *On Liberty*, Project Gutenberg (bản Walter Scott Publishing). <https://www.gutenberg.org/ebooks/34901>
-  - Mill, John Stuart, *On Liberty* (1859), Project Gutenberg. <https://www.gutenberg.org/ebooks/34901>
   url: https://www.gutenberg.org/ebooks/34901
   used_in:
   - cau-hoi/dan-chu.md#nguon
@@ -843,8 +800,6 @@ gutenberg.45304:
 gutenberg.46333:
   type: gutenberg
   text: 'Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>'
-  texts_seen:
-  - Rousseau, Jean-Jacques, *The Social Contract & Discourses*, bản dịch tiếng Anh của G. D. H. Cole (1913), Project Gutenberg. <https://www.gutenberg.org/ebooks/46333>
   url: https://www.gutenberg.org/ebooks/46333
   used_in:
   - cau-hoi/khe-uoc-xa-hoi.md#nguon
@@ -865,9 +820,7 @@ gutenberg.46564:
   - cau-hoi/noi-doi.md#nguon
 gutenberg.4705:
   type: gutenberg
-  text: Hume, David (1739–1740), *A Treatise of Human Nature*, quyển 3, phần 1, mục 1 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/4705>
-  texts_seen:
-  - Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>
+  text: Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>
   url: https://www.gutenberg.org/ebooks/4705
   used_in:
   - cau-hoi/sieu-dao-duc.md#nguon
@@ -943,8 +896,6 @@ gutenberg.5827:
 gutenberg.59:
   type: gutenberg
   text: 'René Descartes, *Discourse on the Method* (1637), bản dịch John Veitch, Project Gutenberg #59. <https://www.gutenberg.org/ebooks/59>'
-  texts_seen:
-  - Descartes, René, *Discourse on the Method* (1637), bản dịch John Veitch, Project Gutenberg. <https://www.gutenberg.org/ebooks/59>
   url: https://www.gutenberg.org/ebooks/59
   used_in:
   - doc/descartes-suy-niem.md#nguon
@@ -981,15 +932,8 @@ gutenberg.67097:
   - people/heraclitus
 gutenberg.6762:
   type: gutenberg
-  text: Aristotle, *Chính trị học* I.2 (bản tiếng Anh của W. Ellis) <https://www.gutenberg.org/ebooks/6762> và *Đạo đức Nicomachus* I.7, II.1 (bản của W. D. Ross) <http://classics.mit.edu/Aristotle/nicomachaen.html>; Augustine, *Confessiones* I.7 (bản của E. B. Pusey) <https://www.gutenberg.org/ebooks/3296>; Tornau, Christian, "Augustine of Hippo", SEP <https://plato.stanford.edu/archives/fall2026/entries/augustine/>
-  texts_seen:
-  - Aristotle, *Politics*, bản dịch William Ellis, Project Gutenberg. <https://www.gutenberg.org/ebooks/6762>
-  - Aristotle, *Politics* I.11 (1259a), bản dịch William Ellis, Project Gutenberg. <https://www.gutenberg.org/ebooks/6762>
+  text: Aristotle, *Politics*, bản dịch William Ellis, Project Gutenberg. <https://www.gutenberg.org/ebooks/6762>
   url: https://www.gutenberg.org/ebooks/6762
-  also:
-  - http://classics.mit.edu/Aristotle/nicomachaen.html
-  - https://www.gutenberg.org/ebooks/3296
-  - https://plato.stanford.edu/archives/fall2026/entries/augustine/
   used_in:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - people/aristotle
@@ -997,8 +941,6 @@ gutenberg.6762:
 gutenberg.7370:
   type: gutenberg
   text: 'Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg #7370). <https://www.gutenberg.org/ebooks/7370>'
-  texts_seen:
-  - Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg <https://www.gutenberg.org/ebooks/7370>
   url: https://www.gutenberg.org/ebooks/7370
   used_in:
   - cau-hoi/khe-uoc-xa-hoi.md#nguon
@@ -1019,14 +961,7 @@ gutenberg.8438:
 gutenberg.9662:
   type: gutenberg
   text: David Hume, *An Enquiry concerning Human Understanding* (1748), bản phạm vi công cộng trên Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
-  texts_seen:
-  - Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục VIII "Of Liberty and Necessity", bản L. A. Selby-Bigge biên tập, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
-  - Hume, David (1748), *An Enquiry concerning Human Understanding*, bản L. A. Selby-Bigge (1902), Project Gutenberg <https://www.gutenberg.org/ebooks/9662>; số đoạn theo Hume Texts Online <https://davidhume.org/texts/e/>
-  - Hume, David, *An Enquiry Concerning Human Understanding* (1748), mục XII, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
-  - Hume, David, *An Enquiry concerning Human Understanding* (1748), bản L. A. Selby-Bigge, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
   url: https://www.gutenberg.org/ebooks/9662
-  also:
-  - https://davidhume.org/texts/e/
   used_in:
   - cau-hoi/tu-do-y-chi.md#nguon
   - cong-cu/quy-nap.md#nguon
@@ -1087,8 +1022,6 @@ iep.ep-testi:
 iep.fallacy:
   type: iep
   text: Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy* (các mục "Affirming the Consequent" và "Denying the Antecedent"). <https://iep.utm.edu/fallacy/>
-  texts_seen:
-  - Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/fallacy/>
   url: https://iep.utm.edu/fallacy/
   used_in:
   - cong-cu/nguy-bien-hinh-thuc.md#nguon
@@ -1145,8 +1078,6 @@ iep.maimonid:
 iep.marcus:
   type: iep
   text: Sellars, John, "Marcus Aurelius", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/marcus/>
-  texts_seen:
-  - Sellars, John, “Marcus Aurelius”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/marcus/>
   url: https://iep.utm.edu/marcus/
   used_in:
   - doc/aurelius-suy-tuong.md#nguon
@@ -1232,8 +1163,6 @@ iep.rousseau:
 iep.sartre-ex:
   type: iep
   text: 'Onof, Christian J., "Jean Paul Sartre: Existentialism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/sartre-ex/>'
-  texts_seen:
-  - 'Onof, Christian J., “Sartre, Jean Paul: Existentialism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/sartre-ex/>'
   url: https://iep.utm.edu/sartre-ex/
   used_in:
   - doc/sartre-hien-sinh.md#nguon
@@ -1241,8 +1170,6 @@ iep.sartre-ex:
 iep.socrates:
   type: iep
   text: James M. Ambury, "Socrates", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/socrates/>
-  texts_seen:
-  - 'Ambury, James M., "Socrates", *Internet Encyclopedia of Philosophy* — bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi. <https://iep.utm.edu/socrates/>'
   url: https://iep.utm.edu/socrates/
   used_in:
   - cong-cu/bien-chung-socrates.md#nguon
@@ -1255,10 +1182,7 @@ iep.spinoz-m:
   - people/spinoza
 iep.stoicism:
   type: iep
-  text: Pigliucci, Massimo, "Stoicism", *Internet Encyclopedia of Philosophy* — về cảm xúc trong Khắc kỷ, phép chia ba của Irvine (2008) và mối liên hệ với liệu pháp nhận thức. <https://iep.utm.edu/stoicism/>
-  texts_seen:
-  - Pigliucci, Massimo, "Stoicism", *Internet Encyclopedia of Philosophy* — về cảm xúc trong Khắc kỷ. <https://iep.utm.edu/stoicism/>
-  - Pigliucci, Massimo, “Stoicism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/stoicism/>
+  text: Pigliucci, Massimo, “Stoicism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/stoicism/>
   url: https://iep.utm.edu/stoicism/
   used_in:
   - doc/aurelius-suy-tuong.md#nguon
@@ -2455,9 +2379,6 @@ sep.aristotle:
 sep.aristotle-ethics:
   type: sep
   text: Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
-  texts_seen:
-  - Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy* — Aristotle và phái Khắc kỷ về giận và sợ. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
-  - Kraut, Richard, “Aristotle’s Ethics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
   url: https://plato.stanford.edu/entries/aristotle-ethics/
   archive: https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/
   accessed: '2026-11-05'
@@ -2496,6 +2417,7 @@ sep.augustine:
   archive: https://plato.stanford.edu/archives/fall2026/entries/augustine/
   accessed: '2026-11-05'
   used_in:
+  - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - people/augustine
 sep.beauvoir:
   type: sep
@@ -2504,6 +2426,7 @@ sep.beauvoir:
   archive: https://plato.stanford.edu/archives/fall2026/entries/beauvoir/
   accessed: '2026-11-05'
   used_in:
+  - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - people/beauvoir
 sep.bentham:
   type: sep
@@ -2516,9 +2439,6 @@ sep.bentham:
 sep.buddha:
   type: sep
   text: Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
-  texts_seen:
-  - Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2024/entries/buddha/> — khái niệm Phật giáo chung (con đường tu tập, xuất thế).
-  - Siderits, Mark, “Buddha”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
   url: https://plato.stanford.edu/entries/buddha/
   archive: https://plato.stanford.edu/archives/fall2026/entries/buddha/
   accessed: '2026-11-05'
@@ -2537,9 +2457,6 @@ sep.causation-metaphysics:
 sep.chinese-legalism:
   type: sep
   text: Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
-  texts_seen:
-  - Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy* (bản sửa 2023). <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
-  - Pines, Yuri, “Legalism in Chinese Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
   url: https://plato.stanford.edu/entries/chinese-legalism/
   archive: https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/
   accessed: '2026-11-05'
@@ -2587,15 +2504,13 @@ sep.condemnation:
 sep.confucius:
   type: sep
   text: Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
-  texts_seen:
-  - Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/> — khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
-  - Csikszentmihalyi, Mark, “Confucius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
   url: https://plato.stanford.edu/entries/confucius/
   archive: https://plato.stanford.edu/archives/fall2026/entries/confucius/
   accessed: '2026-11-05'
   used_in:
   - cau-hoi/duc-tri.md#nguon
   - cau-hoi/nho-giao-viet.md#nguon
+  - cau-hoi/noi-doi.md#nguon
   - doc/luan-ngu.md#nguon
   - people/khong-tu
 sep.constructivism-metaethics:
@@ -2626,8 +2541,6 @@ sep.davidson:
 sep.death:
   type: sep
   text: Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
-  texts_seen:
-  - Luper, Steven, “Death”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
   url: https://plato.stanford.edu/entries/death/
   archive: https://plato.stanford.edu/archives/fall2026/entries/death/
   accessed: '2026-11-05'
@@ -2645,8 +2558,6 @@ sep.death-definition:
 sep.democracy:
   type: sep
   text: Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
-  texts_seen:
-  - Christiano, Tom & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
   url: https://plato.stanford.edu/entries/democracy/
   archive: https://plato.stanford.edu/archives/fall2026/entries/democracy/
   accessed: '2026-11-05'
@@ -2663,9 +2574,7 @@ sep.democritus:
   - people/democritus
 sep.descartes:
   type: sep
-  text: Hatfield, Gary, "René Descartes", *Stanford Encyclopedia of Philosophy* — bảy bộ phản bác, Arnauld và vòng tròn Descartes. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>
-  texts_seen:
-  - Hatfield, Gary, “René Descartes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>
+  text: Hatfield, Gary, “René Descartes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>
   url: https://plato.stanford.edu/entries/descartes/
   archive: https://plato.stanford.edu/archives/fall2026/entries/descartes/
   accessed: '2026-11-05'
@@ -2675,9 +2584,6 @@ sep.descartes:
 sep.descartes-epistemology:
   type: sep
   text: Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
-  texts_seen:
-  - Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy* — số AT, Lichtenberg và Russell, lời đáp Gassendi và bộ phản bác thứ hai. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
-  - Newman, Lex, “Descartes’ Epistemology”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
   url: https://plato.stanford.edu/entries/descartes-epistemology/
   archive: https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/
   accessed: '2026-11-05'
@@ -2730,8 +2636,6 @@ sep.enlightenment:
 sep.epictetus:
   type: sep
   text: Graver, Margaret, "Epictetus", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epictetus/>
-  texts_seen:
-  - Graver, Margaret, “Epictetus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epictetus/>
   url: https://plato.stanford.edu/entries/epictetus/
   archive: https://plato.stanford.edu/archives/fall2026/entries/epictetus/
   accessed: '2026-11-05'
@@ -2740,9 +2644,7 @@ sep.epictetus:
   - people/epictetus
 sep.epicurus:
   type: sep
-  text: 'Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy* (mục 3: phê phán của Aristotle và lời đáp của Epicurus). <https://plato.stanford.edu/archives/fall2026/entries/epicurus/>'
-  texts_seen:
-  - Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epicurus/>
+  text: Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epicurus/>
   url: https://plato.stanford.edu/entries/epicurus/
   archive: https://plato.stanford.edu/archives/fall2026/entries/epicurus/
   accessed: '2026-11-05'
@@ -2768,8 +2670,6 @@ sep.ethics-environmental:
 sep.ethics-virtue:
   type: sep
   text: Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
-  texts_seen:
-  - Hursthouse, Rosalind & Glen Pettigrove, “Virtue Ethics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
   url: https://plato.stanford.edu/entries/ethics-virtue/
   archive: https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/
   accessed: '2026-11-05'
@@ -2813,8 +2713,6 @@ sep.feminism-ethics:
 sep.feminism-gender:
   type: sep
   text: Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/>
-  texts_seen:
-  - Mikkola, Mari, “Feminist Perspectives on Sex and Gender”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/>
   url: https://plato.stanford.edu/entries/feminism-gender/
   archive: https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/
   accessed: '2026-11-05'
@@ -2909,9 +2807,7 @@ sep.heraclitus:
   - people/heraclitus
 sep.hobbes:
   type: sep
-  text: 'Stewart Duncan, "Thomas Hobbes", *Stanford Encyclopedia of Philosophy* (về *De Corpore*, 1655): <https://plato.stanford.edu/archives/fall2026/entries/hobbes/>'
-  texts_seen:
-  - Duncan, Stewart, “Thomas Hobbes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes/>
+  text: Duncan, Stewart, “Thomas Hobbes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes/>
   url: https://plato.stanford.edu/entries/hobbes/
   archive: https://plato.stanford.edu/archives/fall2026/entries/hobbes/
   accessed: '2026-11-05'
@@ -2920,9 +2816,7 @@ sep.hobbes:
   - people/hobbes
 sep.hobbes-moral:
   type: sep
-  text: Lloyd, Sharon A. & Susanne Sreedhar, "Hobbes's Moral and Political Philosophy", SEP (sửa đổi 2022). <https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/>
-  texts_seen:
-  - Lloyd, Sharon A. & Susanne Sreedhar, “Hobbes’s Moral and Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/>
+  text: Lloyd, Sharon A. & Susanne Sreedhar, “Hobbes’s Moral and Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/>
   url: https://plato.stanford.edu/entries/hobbes-moral/
   archive: https://plato.stanford.edu/archives/fall2026/entries/hobbes-moral/
   accessed: '2026-11-05'
@@ -2939,10 +2833,7 @@ sep.human-nature:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
 sep.hume:
   type: sep
-  text: Hsueh Qu và Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (mục về quy nạp). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
-  texts_seen:
-  - Qu, Hsueh & Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (2026). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
-  - Qu, Hsueh & Elizabeth S. Radcliffe, “David Hume”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume/>
+  text: Qu, Hsueh & Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (2026). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
   url: https://plato.stanford.edu/entries/hume/
   archive: https://plato.stanford.edu/archives/fall2026/entries/hume/
   accessed: '2026-11-05'
@@ -3010,8 +2901,6 @@ sep.ibn-sina-metaphysics:
 sep.identity-personal:
   type: sep
   text: Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
-  texts_seen:
-  - Olson, Eric T., “Personal Identity”, *Stanford Encyclopedia of Philosophy* (SEP chưa có mục riêng về Parfit). <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
   url: https://plato.stanford.edu/entries/identity-personal/
   archive: https://plato.stanford.edu/archives/fall2026/entries/identity-personal/
   accessed: '2026-11-05'
@@ -3038,9 +2927,6 @@ sep.incompatibilism-arguments:
 sep.induction-problem:
   type: sep
   text: Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
-  texts_seen:
-  - Henderson, Leah, "The Problem of Induction", *Stanford Encyclopedia of Philosophy* (mục 3.1 và 4.1). <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
-  - Henderson, Leah, “The Problem of Induction”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
   url: https://plato.stanford.edu/entries/induction-problem/
   archive: https://plato.stanford.edu/archives/fall2026/entries/induction-problem/
   accessed: '2026-11-05'
@@ -3093,9 +2979,6 @@ sep.kant-hume-causality:
 sep.kant-moral:
   type: sep
   text: Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
-  texts_seen:
-  - Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy* (2004, sửa lớn 2025). <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
-  - Johnson, Robert & Adam Cureton, “Kant’s Moral Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
   url: https://plato.stanford.edu/entries/kant-moral/
   archive: https://plato.stanford.edu/archives/fall2026/entries/kant-moral/
   accessed: '2026-11-05'
@@ -3130,8 +3013,6 @@ sep.knowledge-analysis:
 sep.laozi:
   type: sep
   text: Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
-  texts_seen:
-  - Chan, Alan, “Laozi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
   url: https://plato.stanford.edu/entries/laozi/
   archive: https://plato.stanford.edu/archives/fall2026/entries/laozi/
   accessed: '2026-11-05'
@@ -3151,8 +3032,6 @@ sep.legal-punishment:
 sep.leibniz:
   type: sep
   text: Look, Brandon C., “Gottfried Wilhelm Leibniz”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/leibniz/>
-  texts_seen:
-  - Look, Brandon C., “Gottfried Wilhelm Leibniz”, *Stanford Encyclopedia of Philosophy* (mục 6.3, về ý niệm bẩm sinh). <https://plato.stanford.edu/archives/fall2026/entries/leibniz/>
   url: https://plato.stanford.edu/entries/leibniz/
   archive: https://plato.stanford.edu/archives/fall2026/entries/leibniz/
   accessed: '2026-11-05'
@@ -3202,9 +3081,7 @@ sep.life-meaning:
   - cau-hoi/y-nghia-song.md#nguon
 sep.locke:
   type: sep
-  text: Uzgalis, William, "John Locke", *Stanford Encyclopedia of Philosophy* (về thời điểm viết và in *Two Treatises*). <https://plato.stanford.edu/archives/fall2026/entries/locke/>
-  texts_seen:
-  - Uzgalis, William, “John Locke”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke/>
+  text: Uzgalis, William, “John Locke”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke/>
   url: https://plato.stanford.edu/entries/locke/
   archive: https://plato.stanford.edu/archives/fall2026/entries/locke/
   accessed: '2026-11-05'
@@ -3216,7 +3093,6 @@ sep.locke-personal-identity:
   text: Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
   texts_seen:
   - 'Locke, John (1689/1694), *An Essay Concerning Human Understanding*, Quyển II, chương 27 ("Of Identity and Diversity") — chương này có từ lần in thứ hai (London, 1694); lần in đầu: London: Thomas Basset, 1689. Xem Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>'
-  - Gordon-Roth, Jessica, “Locke on Personal Identity”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
   url: https://plato.stanford.edu/entries/locke-personal-identity/
   archive: https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/
   accessed: '2026-11-05'
@@ -3227,8 +3103,6 @@ sep.locke-personal-identity:
 sep.locke-political:
   type: sep
   text: Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
-  texts_seen:
-  - Tuckness, Alex, “Locke’s Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
   url: https://plato.stanford.edu/entries/locke-political/
   archive: https://plato.stanford.edu/archives/fall2026/entries/locke-political/
   accessed: '2026-11-05'
@@ -3247,9 +3121,6 @@ sep.logic-classical:
 sep.logic-informal:
   type: sep
   text: Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
-  texts_seen:
-  - Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (về giả định ngầm, tiền đề tối thiểu về mặt logic và nguyên tắc thiện chí). <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
-  - 'Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*, mục 3.1 "Implicit Premises and Conclusions" (nguyên tắc diễn giải thiện chí: chọn cách hiểu khiến lập luận đáng tin nhất). <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>'
   url: https://plato.stanford.edu/entries/logic-informal/
   archive: https://plato.stanford.edu/archives/fall2026/entries/logic-informal/
   accessed: '2026-11-05'
@@ -3296,8 +3167,6 @@ sep.maimonides:
 sep.marcus-aurelius:
   type: sep
   text: Kamtekar, Rachana, "Marcus Aurelius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/>
-  texts_seen:
-  - Kamtekar, Rachana, “Marcus Aurelius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/>
   url: https://plato.stanford.edu/entries/marcus-aurelius/
   archive: https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/
   accessed: '2026-11-05'
@@ -3323,11 +3192,6 @@ sep.material-constitution:
 sep.mencius:
   type: sep
   text: Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
-  texts_seen:
-  - Van Norden, Bryan W., "Mencius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
-  - Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
-  - Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), mục 4. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
-  - Van Norden, Bryan, “Mencius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
   url: https://plato.stanford.edu/entries/mencius/
   archive: https://plato.stanford.edu/archives/fall2026/entries/mencius/
   accessed: '2026-11-05'
@@ -3356,8 +3220,6 @@ sep.metaphysics:
 sep.mill:
   type: sep
   text: Macleod, Christopher, "John Stuart Mill", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mill/>
-  texts_seen:
-  - Macleod, Christopher, “John Stuart Mill”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mill/>
   url: https://plato.stanford.edu/entries/mill/
   archive: https://plato.stanford.edu/archives/fall2026/entries/mill/
   accessed: '2026-11-05'
@@ -3375,12 +3237,7 @@ sep.mind-identity:
 sep.mohism:
   type: sep
   text: Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
-  texts_seen:
-  - Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/archives/fall2026/entries/mohism/>; <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>
-  - Fraser, Chris, “Mohism”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
   url: https://plato.stanford.edu/entries/mohism/
-  also:
-  - https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html
   archive: https://plato.stanford.edu/archives/fall2026/entries/mohism/
   accessed: '2026-11-05'
   used_in:
@@ -3398,8 +3255,6 @@ sep.mohist-canons:
 sep.moral-animal:
   type: sep
   text: Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
-  texts_seen:
-  - Gruen, Lori & Susana Monsó, “The Moral Status of Animals”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
   url: https://plato.stanford.edu/entries/moral-animal/
   archive: https://plato.stanford.edu/archives/fall2026/entries/moral-animal/
   accessed: '2026-11-05'
@@ -3441,8 +3296,6 @@ sep.moral-relativism:
 sep.nagarjuna:
   type: sep
   text: Westerhoff, Jan, "Nāgārjuna", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/>
-  texts_seen:
-  - Westerhoff, Jan Christoph, “Nāgārjuna”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/>
   url: https://plato.stanford.edu/entries/nagarjuna/
   archive: https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/
   accessed: '2026-11-05'
@@ -3517,8 +3370,6 @@ sep.nozick-political:
 sep.ontological-arguments:
   type: sep
   text: Oppy, Graham, Joshua Rasmussen & Joseph Schmid, "Ontological Arguments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
-  texts_seen:
-  - Oppy, Graham, Joshua Rasmussen & Joseph Schmid, “Ontological Arguments”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
   url: https://plato.stanford.edu/entries/ontological-arguments/
   archive: https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/
   accessed: '2026-11-05'
@@ -3536,9 +3387,6 @@ sep.organ-donation:
 sep.original-position:
   type: sep
   text: Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
-  texts_seen:
-  - Freeman, Samuel, “Original Position”, *Stanford Encyclopedia of Philosophy* (phản bác của Nozick và lời đáp của Rawls). <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
-  - Freeman, Samuel, “Original Position”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
   url: https://plato.stanford.edu/entries/original-position/
   archive: https://plato.stanford.edu/archives/fall2026/entries/original-position/
   accessed: '2026-11-05'
@@ -3557,8 +3405,6 @@ sep.pascal:
 sep.pascal-wager:
   type: sep
   text: Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
-  texts_seen:
-  - Hájek, Alan, “Pascal’s Wager”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
   url: https://plato.stanford.edu/entries/pascal-wager/
   archive: https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/
   accessed: '2026-11-05'
@@ -3584,8 +3430,6 @@ sep.plato:
 sep.plato-ethics-politics:
   type: sep
   text: Brown, Eric, "Plato's Ethics and Politics in The Republic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/>
-  texts_seen:
-  - Brown, Eric, “Plato’s Ethics and Politics in The Republic”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/>
   url: https://plato.stanford.edu/entries/plato-ethics-politics/
   archive: https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/
   accessed: '2026-11-05'
@@ -3595,8 +3439,6 @@ sep.plato-ethics-politics:
 sep.plato-parmenides:
   type: sep
   text: Rickless, Samuel, "Plato's Parmenides", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/>
-  texts_seen:
-  - Rickless, Samuel, “Plato’s Parmenides”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/>
   url: https://plato.stanford.edu/entries/plato-parmenides/
   archive: https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/
   accessed: '2026-11-05'
@@ -3606,9 +3448,6 @@ sep.plato-parmenides:
 sep.popper:
   type: sep
   text: Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/popper/>
-  texts_seen:
-  - Thornton, Stephen, "Karl Popper", *Stanford Encyclopedia of Philosophy* — về *The Open Society and Its Enemies* (1945). <https://plato.stanford.edu/archives/fall2026/entries/popper/>
-  - Thornton, Stephen, “Karl Popper”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/popper/>
   url: https://plato.stanford.edu/entries/popper/
   archive: https://plato.stanford.edu/archives/fall2026/entries/popper/
   accessed: '2026-11-05'
@@ -3701,8 +3540,6 @@ sep.rationalism-empiricism:
 sep.rawls:
   type: sep
   text: Wenar, Leif, "John Rawls", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rawls/>
-  texts_seen:
-  - Wenar, Leif, “John Rawls”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rawls/>
   url: https://plato.stanford.edu/entries/rawls/
   archive: https://plato.stanford.edu/archives/fall2026/entries/rawls/
   accessed: '2026-11-05'
@@ -3743,10 +3580,7 @@ sep.repugnant-conclusion:
   - people/parfit
 sep.rousseau:
   type: sep
-  text: Bertram, Christopher, "Jean Jacques Rousseau", SEP (sửa đổi 2023). <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
-  texts_seen:
-  - Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
-  - Bertram, Christopher, “Jean Jacques Rousseau”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
+  text: Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
   url: https://plato.stanford.edu/entries/rousseau/
   archive: https://plato.stanford.edu/archives/fall2026/entries/rousseau/
   accessed: '2026-11-05'
@@ -3757,8 +3591,6 @@ sep.rousseau:
 sep.russell:
   type: sep
   text: Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
-  texts_seen:
-  - Irvine, Andrew David, “Bertrand Russell”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
   url: https://plato.stanford.edu/entries/russell/
   archive: https://plato.stanford.edu/archives/fall2026/entries/russell/
   accessed: '2026-11-05'
@@ -3768,9 +3600,6 @@ sep.russell:
 sep.sartre:
   type: sep
   text: Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
-  texts_seen:
-  - Reynolds, Jack & Pierre-Jean Renaudie, “Jean-Paul Sartre”, *Stanford Encyclopedia of Philosophy* (Sartre phát hiện hiện tượng luận; Trần Đức Thảo). <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
-  - Reynolds, Jack & Pierre-Jean Renaudie, “Jean-Paul Sartre”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
   url: https://plato.stanford.edu/entries/sartre/
   archive: https://plato.stanford.edu/archives/fall2026/entries/sartre/
   accessed: '2026-11-05'
@@ -3805,10 +3634,7 @@ sep.skepticism-moral-responsibility:
   - cau-hoi/tu-do-y-chi.md#nguon
 sep.socrates:
   type: sep
-  text: Debra Nails và S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
-  texts_seen:
-  - Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
-  - Nails, Debra & S. Sara Monoson, “Socrates”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
+  text: Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
   url: https://plato.stanford.edu/entries/socrates/
   archive: https://plato.stanford.edu/archives/fall2026/entries/socrates/
   accessed: '2026-11-05'
@@ -3971,8 +3797,6 @@ sep.whewell:
 sep.wittgenstein:
   type: sep
   text: Biletzki, Anat & Anat Matar, "Ludwig Wittgenstein", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/>
-  texts_seen:
-  - Biletzki, Anat & Anat Matar, “Ludwig Wittgenstein”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/>
   url: https://plato.stanford.edu/entries/wittgenstein/
   archive: https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/
   accessed: '2026-11-05'
@@ -3982,8 +3806,6 @@ sep.wittgenstein:
 sep.xunzi:
   type: sep
   text: Goldin, Paul R., "Xunzi", SEP (sửa đổi 2025). <https://plato.stanford.edu/archives/fall2026/entries/xunzi/>
-  texts_seen:
-  - Goldin, Paul R., “Xunzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/xunzi/>
   url: https://plato.stanford.edu/entries/xunzi/
   archive: https://plato.stanford.edu/archives/fall2026/entries/xunzi/
   accessed: '2026-11-05'
@@ -3994,8 +3816,6 @@ sep.xunzi:
 sep.zhu-xi:
   type: sep
   text: Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/>
-  texts_seen:
-  - Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy* (về bộ *Tứ thư* do Chu Hy biên soạn và ảnh hưởng của ông tới Việt Nam). <https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/>
   url: https://plato.stanford.edu/entries/zhu-xi/
   archive: https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/
   accessed: '2026-11-05'
@@ -4005,8 +3825,6 @@ sep.zhu-xi:
 sep.zhuangzi:
   type: sep
   text: Hansen, Chad, "Zhuangzi", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/>
-  texts_seen:
-  - Hansen, Chad, “Zhuangzi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/>
   url: https://plato.stanford.edu/entries/zhuangzi/
   archive: https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/
   accessed: '2026-11-05'
@@ -4023,9 +3841,7 @@ sep.zombies:
   - cau-hoi/van-de-tam-tri.md#nguon
 web.aeon-co.essays-the-tragic-life-and-principled-politics-of:
   type: khac
-  text: O’Sullivan, Rory, “The tragedy of Trần Đức Thảo”, *Aeon*. <https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao>
-  texts_seen:
-  - O’Sullivan, Rory, “The tragedy of Trần Đức Thảo”, *Aeon*, 8/1/2026. <https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao>
+  text: O’Sullivan, Rory, “The tragedy of Trần Đức Thảo”, *Aeon*, 8/1/2026. <https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao>
   url: https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao
   used_in:
   - people/sartre
@@ -4056,12 +3872,8 @@ web.archive-org.details-dli-ernet-6106:
   - doc/aristotle-dao-duc.md#nguon
 web.archive-org.details-introductiontoth033476mbp:
   type: khac
-  text: Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương XVI, mục 24 <https://archive.org/details/introductiontoth033476mbp>; Mill, John Stuart (1863), *Utilitarianism*, chương 2 (lần in thứ 7, 1879) <https://www.gutenberg.org/ebooks/11224>
-  texts_seen:
-  - 'Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>'
+  text: 'Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>'
   url: https://archive.org/details/introductiontoth033476mbp
-  also:
-  - https://www.gutenberg.org/ebooks/11224
   used_in:
   - cau-hoi/noi-doi.md#nguon
   - people/bentham
@@ -4134,8 +3946,6 @@ web.britannica-com.topic-das-kapital:
 web.buddhanature-tsadra-org.index-php-texts-mahaparinirvanasutra:
   type: khac
   text: Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
-  texts_seen:
-  - Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
   url: https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra
   used_in:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
@@ -4181,6 +3991,7 @@ web.classics-mit-edu.aristotle-nicomachaen-html:
   text: Aristotle, *Nicomachean Ethics*, bản dịch W. D. Ross, Internet Classics Archive. <http://classics.mit.edu/Aristotle/nicomachaen.html>
   url: http://classics.mit.edu/Aristotle/nicomachaen.html
   used_in:
+  - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - doc/aristotle-dao-duc.md#nguon
 web.congbao-chinhphu-vn.van-ban-nghi-dinh-so-356-2025-nd-cp-468371-htm:
   type: khac
@@ -4304,12 +4115,8 @@ web.lexundria-com.plut-thes-23-prr:
   - bat-dau/index.md#nguon
 web.marxists-org.reference-archive-sartre-works-exist-sartre-htm:
   type: khac
-  text: Sartre, J.-P. (1946), *L'existentialisme est un humanisme*, bản tiếng Anh của P. Mairet <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>; Bergoffen, D. & M. Burke, "Simone de Beauvoir", SEP <https://plato.stanford.edu/archives/fall2026/entries/beauvoir/>
-  texts_seen:
-  - Sartre, Jean-Paul, *Existentialism Is a Humanism* (bài giảng 1945, in 1946), bản dịch tiếng Anh của Philip Mairet, trong W. Kaufmann (biên tập), *Existentialism from Dostoevsky to Sartre*, trên Marxists Internet Archive. <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
+  text: Sartre, Jean-Paul, *Existentialism Is a Humanism* (bài giảng 1945, in 1946), bản dịch tiếng Anh của Philip Mairet, trong W. Kaufmann (biên tập), *Existentialism from Dostoevsky to Sartre*, trên Marxists Internet Archive. <https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
   url: https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm
-  also:
-  - https://plato.stanford.edu/archives/fall2026/entries/beauvoir/
   used_in:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - people/sartre
@@ -4363,9 +4170,7 @@ web.open-unive-it.ojs-index-php-pr-article-view-98:
   - people/parfit
 web.parliament-uk.about-living-heritage-transformingsociety-election:
   type: khac
-  text: 'Quốc hội Anh, "Living Heritage": đề nghị sửa đổi của Mill năm 1867 về quyền bầu cử của phụ nữ — <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>.'
-  texts_seen:
-  - UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
+  text: UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
   url: https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/
   used_in:
   - lich-su/the-ky-19.md#nguon
@@ -4545,8 +4350,6 @@ wikisource.en.lives-of-the-eminent-philosophers-book-x:
 wikisource.en.meditations-on-first-philosophy:
   type: wikisource
   text: René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
-  texts_seen:
-  - Descartes, René, *Meditations on First Philosophy* (1641), bản dịch John Veitch, Wikisource. <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
   url: https://en.wikisource.org/wiki/Meditations_on_First_Philosophy
   used_in:
   - doc/descartes-suy-niem.md#nguon
@@ -4562,8 +4365,6 @@ wikisource.en.meditations-on-first-philosophy-meditation-i:
 wikisource.en.meditations-on-first-philosophy-meditation-vi:
   type: wikisource
   text: Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
-  texts_seen:
-  - Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (1901), Wikisource. <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
   url: https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI
   used_in:
   - cau-hoi/van-de-tam-tri.md#nguon
@@ -4591,8 +4392,6 @@ wikisource.en.the-problems-of-philosophy-chapter-15:
 wikisource.en.tractatus-logico-philosophicus:
   type: wikisource
   text: Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, bản dịch C. K. Ogden (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
-  texts_seen:
-  - Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, C. K. Ogden dịch (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
   url: https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus
   used_in:
   - cau-hoi/chan-ly.md#nguon

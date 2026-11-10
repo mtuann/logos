@@ -73,9 +73,9 @@ Vì sao còn đọc Rousseau? Vì ông hỏi câu mà mọi nền chính trị h
 
 ## Nguồn
 
-1. Bertram, Christopher, “Jean Jacques Rousseau”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
+1. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
 2. Delaney, James J., “Rousseau, Jean-Jacques”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/rousseau/>
-3. Rousseau, Jean-Jacques, *The Social Contract & Discourses*, bản dịch tiếng Anh của G. D. H. Cole (1913), Project Gutenberg. <https://www.gutenberg.org/ebooks/46333>
+3. Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>
 4. Carter, Ian & Ilkin Huseynli, “Positive and Negative Liberty”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/liberty-positive-negative/>
 5. Ellingson, Ter, *The Myth of the Noble Savage*, Berkeley: University of California Press, 2001. <https://music.washington.edu/research/publications/myth-noble-savage>
 

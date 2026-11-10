@@ -34,10 +34,12 @@ class TestKbWorks(unittest.TestCase):
         self.assertTrue(all(k.startswith("chua-ro.") and self.recs[k]["author"] is None for k in herodotus))
 
     def test_prose_count_matches_baseline(self):
-        """157 chỗ *Tác phẩm* (năm) trong Lõi viết tay: báo cáo nền đếm 159, gồm 1 chỗ là số trang Stephanus
-        (*Cộng hòa* (519a…)) và 1 chỗ "(100 nhà sản xuất…)" (đợt 5.1, không phải năm)."""
+        """160 chỗ *Tác phẩm* (năm) trong Lõi viết tay: báo cáo nền đếm 159, gồm 1 chỗ là số trang Stephanus
+        (*Cộng hòa* (519a…)) và 1 chỗ "(100 nhà sản xuất…)" (đợt 5.1, không phải năm) → 157; đợt 5.2 thống nhất cách
+        ghi nguồn ở mục Nguồn: thêm 4 (Hume *Enquiry* (1748) ở tu-do-y-chi và hume-nhan-qua, *Treatise* (1739–1740) ở
+        sieu-dao-duc, SEP (2026) ở quy-nap), bớt 1 (SEP (2004, …) ở noi-doi) → 160."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 157)
+        self.assertEqual(n, 160)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():

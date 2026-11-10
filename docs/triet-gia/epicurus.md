@@ -72,7 +72,7 @@ Trong *Thư gửi Menoeceus* (đoạn 124–125), Epicurus muốn gỡ nỗi s�
 ## Nguồn
 
 1. Konstan, David, “Epicurus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epicurus/>
-2. Luper, Steven, “Death”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
+2. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
 3. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển X (có ba bức thư và *Những học thuyết chính*), bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X>
 4. Nagel, Thomas, “Death”, *Noûs* 4 (1970): 73–80. <https://doi.org/10.2307/2214297>
 

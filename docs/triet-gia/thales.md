@@ -71,8 +71,8 @@ Thales không để lại lập luận nào. Đây là phỏng đoán của Aris
 2. Curd, Patricia, “Presocratic Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presocratics/>
 3. Herodotus, *The History*, quyển I, bản dịch G. C. Macaulay (1890), Project Gutenberg. <https://www.gutenberg.org/ebooks/2707>
 4. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển I, bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_I>
-5. Platon, *Theaetetus* (174a), bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1726>
-6. Aristotle, *Politics* I.11 (1259a), bản dịch William Ellis, Project Gutenberg. <https://www.gutenberg.org/ebooks/6762>
+5. Platon, *Theaetetus*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1726>
+6. Aristotle, *Politics*, bản dịch William Ellis, Project Gutenberg. <https://www.gutenberg.org/ebooks/6762>
 
 ---
 

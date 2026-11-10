@@ -209,4 +209,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Craig, William Lane (1979), *The Kalam Cosmological Argument*, London: Macmillan.
 3. Penrose, Roger (2010), *Cycles of Time: An Extraordinary New View of the Universe*, London: Bodley Head.
 4. Borde, Arvind, Alan H. Guth & Alexander Vilenkin (2003), "Inflationary Spacetimes Are Incomplete in Past Directions", *Physical Review Letters* 90, 151301. <https://doi.org/10.1103/PhysRevLett.90.151301>
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

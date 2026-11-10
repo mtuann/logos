@@ -71,8 +71,8 @@ Hiếm khi *Đạo đức kinh* lập luận lộ liễu, nhưng chương 57 th�
 
 ## Nguồn
 
-1. Chan, Alan, “Laozi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
-2. *Đạo đức kinh* (道德經), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/dao-de-jing>
+1. Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
+2. Lão Tử, *Đạo đức kinh*, nguyên văn (bản Vương Bật) và bản dịch tiếng Anh của James Legge (1891), Chinese Text Project. <https://ctext.org/dao-de-jing>
 3. Tư Mã Thiên, *Sử ký*, “Lão Tử Hàn Phi liệt truyện” (老子韓非列傳), nguyên văn chữ Hán, ctext.org. <https://ctext.org/shiji/lao-zi-han-fei-lie-zhuan/zh>
 
 ---

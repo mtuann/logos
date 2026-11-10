@@ -201,4 +201,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Singer, Peter (2009), *The Life You Can Save*, New York: Random House.
 3. Unger, Peter (1996), *Living High and Letting Die*, Oxford: Oxford University Press.
 4. GiveWell, "How Much Does It Cost To Save a Life?" (ước tính 3.000–5.500 đô-la Mỹ cho mỗi mạng người qua các tổ chức được đánh giá cao nhất). <https://www.givewell.org/how-much-does-it-cost-to-save-a-life>
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

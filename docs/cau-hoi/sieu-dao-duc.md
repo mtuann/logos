@@ -190,6 +190,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, phần 1, mục 1.
+
 1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaethics/>
 2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-realism/>
 3. Joyce, Richard, "Moral Anti-Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/>
@@ -198,9 +200,9 @@ Gợi ý độ dài: 200–350 chữ.
 6. Bagnoli, Carla, "Constructivism in Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/constructivism-metaethics/>
 7. Westacott, Emrys, "Moral Relativism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/moral-re/>
 8. Herodotus, *Histories*, quyển III, chương 38. Bản dịch tiếng Anh của G. C. Macaulay (1890, phạm vi công cộng). <https://www.gutenberg.org/ebooks/2707>
-9. Hume, David (1739–1740), *A Treatise of Human Nature*, quyển 3, phần 1, mục 1 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/4705>
+9. Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>
 10. Moore, G. E. (1903), *Principia Ethica*, Cambridge: Cambridge University Press, §13 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/53430>
 11. Mackie, J. L. (1977), *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin, chương 1.
 12. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz, chương 6 ("Critique of Ethics and Theology").
 13. Gabriel, Iason (2020), "Artificial Intelligence, Values, and Alignment", *Minds and Machines* 30(3): 411–437. <https://doi.org/10.1007/s11023-020-09539-2>
-14. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+14. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

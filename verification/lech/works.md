@@ -11,7 +11,7 @@ Năm bản gốc, năm bản sửa, năm bản dịch có thể khác nhau hợp
 
 | Tác phẩm | Các năm và nơi dùng |
 |---|---|
-| `chua-ro.stanford-encyclopedia-of-philosophy` (Stanford Encyclopedia of Philosophy) | **2004**: `cau-hoi/noi-doi.md#nguon`<br>**2008**: `cau-hoi/noi-doi.md#nguon`<br>**2026**: `doc/hume-nhan-qua.md#nguon` |
+| `chua-ro.stanford-encyclopedia-of-philosophy` (Stanford Encyclopedia of Philosophy) | **2008**: `cau-hoi/noi-doi.md#nguon`<br>**2026**: `cong-cu/quy-nap.md#nguon`, `doc/hume-nhan-qua.md#nguon` |
 
 ## Chưa rõ tác giả (0)
 

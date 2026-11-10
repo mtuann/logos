@@ -75,7 +75,7 @@ Câu “Vua nước Pháp hiện nay bị hói” có nghĩa, dù nước Pháp 
 
 ## Nguồn
 
-1. Irvine, Andrew David, “Bertrand Russell”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
+1. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
 2. Linsky, Bernard & Andrew David Irvine, “Principia Mathematica”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/principia-mathematica/>
 3. Russell, Bertrand, *The Problems of Philosophy* (1912), Project Gutenberg. <https://www.gutenberg.org/ebooks/5827>
 4. Strawson, P. F., “On Referring”, *Mind* 59 (1950), tr. 320–344. <https://doi.org/10.1093/mind/LIX.235.320>

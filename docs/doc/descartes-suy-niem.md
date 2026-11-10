@@ -158,8 +158,10 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
+Mục SEP "Descartes' Epistemology": số AT, Lichtenberg và Russell, lời đáp Gassendi và bộ phản bác thứ hai. Mục SEP "René Descartes": bảy bộ phản bác, Arnauld và vòng tròn Descartes.
+
 1. René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
 2. René Descartes, *The Meditations and Selections from the Principles*, bản dịch John Veitch (Chicago: Open Court, 1913) — lời nhà xuất bản về các phần thêm từ bản tiếng Pháp. <https://archive.org/details/themeditatiions00descuoft>
 3. René Descartes, *Discourse on the Method* (1637), bản dịch John Veitch, Project Gutenberg #59. <https://www.gutenberg.org/ebooks/59>
-4. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy* — số AT, Lichtenberg và Russell, lời đáp Gassendi và bộ phản bác thứ hai. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
-5. Hatfield, Gary, "René Descartes", *Stanford Encyclopedia of Philosophy* — bảy bộ phản bác, Arnauld và vòng tròn Descartes. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>
+4. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
+5. Hatfield, Gary, “René Descartes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>

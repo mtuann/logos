@@ -73,7 +73,7 @@ Cuối thế kỷ 19, nhiều người cho rằng logic là một nhánh của t
 ## Nguồn
 
 1. Zahavi, Dan, “Edmund Husserl”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/husserl/>
-2. Reynolds, Jack & Pierre-Jean Renaudie, “Jean-Paul Sartre”, *Stanford Encyclopedia of Philosophy* (Sartre phát hiện hiện tượng luận; Trần Đức Thảo). <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
+2. Reynolds, Jack & Pierre-Jean Renaudie, "Jean-Paul Sartre", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/sartre/>
 3. Husserl, Edmund, *Logische Untersuchungen*, tập II (Halle: Niemeyer, 1901), bản quét tại Internet Archive. <https://archive.org/details/logischeuntersuc00hussuoft>
 4. Banaji, Jairus, “Tran Duc Thao”, *Historical Materialism* (trang nhân vật, dựa trên Courtine 2013 và McHale 2002). <https://www.historicalmaterialism.org/figure/tran-duc-thao/>
 

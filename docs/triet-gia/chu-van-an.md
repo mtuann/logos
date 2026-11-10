@@ -69,7 +69,7 @@ Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nh�
 1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 7 (năm 1370: tiểu sử Chu An và lời bình của Ngô Sĩ Liên), nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E4%B8%83>
 2. Trần Trọng Kim, *Nho giáo* (bản in 1943), quyển IV, thiên IV, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Nho_gi%C3%A1o/Quy%E1%BB%83n_IV/Thi%C3%AAn_IV>
 3. Khổng Tử, *Luận ngữ*, thiên Tiên tiến (11.24), nguyên văn chữ Hán, Chinese Text Project. <https://ctext.org/analects/xian-jin>
-4. Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy* (về bộ *Tứ thư* do Chu Hy biên soạn và ảnh hưởng của ông tới Việt Nam). <https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/>
+4. Thompson, Kirill, “Zhu Xi”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/>
 5. Nguyễn Hải Anh, “Lược quan hệ thống sách ‘Tiết yếu’ gắn với ‘Bùi thị nguyên bản’”, *Tạp chí Hán Nôm*, số 3 (184), 2024 (có nhắc đến *Tứ thư thuyết ước*). <https://vjol.info.vn/hannom/article/view/233140>
 6. “Chu Văn An: Người thầy mẫu mực”, *Báo Pháp luật Việt Nam* (về năm sinh theo thần tích làng Thanh Liệt). <https://baophapluat.vn/chu-van-an-nguoi-thay-mau-muc-post216187.html>
 

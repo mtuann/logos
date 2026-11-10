@@ -67,9 +67,9 @@ Chín lần trong *Suy tưởng*, Marcus đặt trước mình hai khả năng v
 
 ## Nguồn
 
-1. Kamtekar, Rachana, “Marcus Aurelius”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/>
-2. Sellars, John, “Marcus Aurelius”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/marcus/>
-3. Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch George Long (kèm tiểu sử của người dịch), Project Gutenberg. <https://www.gutenberg.org/ebooks/15877>
+1. Kamtekar, Rachana, "Marcus Aurelius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/>
+2. Sellars, John, "Marcus Aurelius", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/marcus/>
+3. Marcus Aurelius, *Thoughts of Marcus Aurelius Antoninus*, bản dịch tiếng Anh của George Long (1862; phạm vi công cộng), Project Gutenberg #15877. <https://www.gutenberg.org/ebooks/15877>
 
 ---
 

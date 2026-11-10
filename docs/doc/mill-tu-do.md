@@ -123,7 +123,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 ## Nguồn {#nguon}
 
-1. Mill, John Stuart (1859), *On Liberty*, Project Gutenberg (bản Walter Scott Publishing). <https://www.gutenberg.org/ebooks/34901>
+1. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 2. Mill, John Stuart (1873), *Autobiography*, chương VII, Project Gutenberg. <https://www.gutenberg.org/ebooks/10378>
 3. Macleod, Christopher, "John Stuart Mill", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mill/>
 4. Vosoughi, Soroush, Deb Roy & Sinan Aral (2018), "The spread of true and false news online", *Science* 359 (6380): 1146–1151. <https://doi.org/10.1126/science.aap9559>
