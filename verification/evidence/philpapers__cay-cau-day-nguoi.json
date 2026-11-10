@@ -1,0 +1,107 @@
+{
+  "unit": "philpapers/cay-cau-day-nguoi",
+  "hash": "sha256:bb7816c7fe88434bf57bbb9d564b0e6580cb96a0196c35e421866cebd49dba80",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Cây cầu (đẩy người) [Footbridge]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Footbridge (pushing man off bridge will save five on track below, what",
+          "where": "Bảng 1, tiêu đề câu Footbridge"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "ought one do?)",
+          "where": "Bảng 1, tiêu đề câu Footbridge"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Footbridge (pushing man off bridge will save five on track below, what ought one do?): push or don't push?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Footbridge nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Footbridge"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1740",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1740, excluding skipped & insufficiently familiar (45 respondents)",
+          "where": "Footbridge"
+        }
+      ]
+    },
+    {
+      "text": "Đẩy [Push]: 22,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Push 382 22.0",
+          "where": "Bảng 1, câu Footbridge (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "21.95% (21.55%)",
+          "where": "Footbridge, push: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Không đẩy [Don't push]: 56,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Don’t push 975 56.0",
+          "where": "Bảng 1, câu Footbridge (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "56.03% (55.80%)",
+          "where": "Footbridge, don't push: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 22,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 382 22.0",
+          "where": "Bảng 1, câu Footbridge, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null. Trang web in 21,95% cho push (giá trị biên); 382/1740 = 21,954% nên 22,0 của bài báo đúng. 'Đẩy' và 'Khác' cùng n = 382 trong bảng."
+}

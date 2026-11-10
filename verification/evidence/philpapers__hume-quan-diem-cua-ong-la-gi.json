@@ -1,0 +1,91 @@
+{
+  "unit": "philpapers/hume-quan-diem-cua-ong-la-gi",
+  "hash": "sha256:52ca93126ed0a5e1d63b5354609e13a9875b2a4745677769c6f46888292151df",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp05",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Hume (what is his view?)",
+          "where": "Table 2, giữa nhóm Human genetic engineering và Immortality (would you choose it?)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Hume (quan điểm của ông là gì?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Hume (what is his view?)",
+          "where": "Table 2, nhóm Hume"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Hume (what is his view?): skeptic or naturalist?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 870",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 872, excluding skipped & insufficiently familiar",
+          "where": "câu Hume"
+        }
+      ]
+    },
+    {
+      "text": "Nhà hoài nghi (skeptic): 36,5; Exclusive 28,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Skeptic 318 36.5 252 28.9",
+          "where": "Table 2, nhóm Hume"
+        }
+      ]
+    },
+    {
+      "text": "Nhà tự nhiên luận (naturalist): 54,9; Exclusive 47,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Naturalist 479 54.9 413 47.4",
+          "where": "Table 2, nhóm Hume"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 15,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 138 15.8",
+          "where": "Table 2, nhóm Hume"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. Bài báo không in tổng n; N = 872 trên trang web khớp số đếm trong bảng (318/872 = 36,47%). Trang web (hai chữ số lẻ): Skeptic 36.47% (28.90%), Naturalist 54.93% (47.36%), cùng cách làm tròn với bài báo. Dòng Other của web (23.74%) tính khác, không dùng cho 'Khác'. 'Nhà hoài nghi' không vướng terms-policy (chỉ tránh 'chủ nghĩa hoài nghi')."
+}

@@ -1,7 +1,7 @@
 ---
 title: Tình trạng kiểm chứng
 description: Bao nhiêu phần của Logos đã được kiểm chứng với nguồn, theo từng mảng nội dung.
-updated: 2026-11-05
+updated: 2026-11-09
 ---
 
 # Tình trạng kiểm chứng
@@ -43,7 +43,7 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Sự kiện (ứng viên) | 134 | 0 |
 | Nguồn | 681 | 0 |
 | Hồ sơ triết gia | 59 | 0 |
-| Câu hỏi khảo sát PhilPapers 2020 | 87 | 0 |
+| Câu hỏi khảo sát PhilPapers 2020 | 100 | 0 |
 | Thuật ngữ (Từ điển) | 249 | 0 |
 | Loại ngụy biện | 20 | 0 |
 | Đoạn luyện nhận diện ngụy biện | 100 | 0 |

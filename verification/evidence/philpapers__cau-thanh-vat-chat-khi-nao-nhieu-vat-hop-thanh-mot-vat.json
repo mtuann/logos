@@ -1,0 +1,129 @@
+{
+  "unit": "philpapers/cau-thanh-vat-chat-khi-nao-nhieu-vat-hop-thanh-mot-vat",
+  "hash": "sha256:afe84ca888264fa8ccf163bce78ea8da537341bccaec89ceba0cf8eef463b190",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Cấu thành vật chất (khi nào nhiều vật hợp thành một vật?)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Material composition\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Cấu thành vật chất (khi nào nhiều vật hợp thành một vật?)\" dịch câu \"Material composition\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Material composition",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Material composition: nihilism, restrictivism, or universalism?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 570 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 574, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Material composition"
+        }
+      ]
+    },
+    {
+      "text": "Không bao giờ (hư vô luận) (nihilism): 8,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nihilism 47 8.2",
+          "where": "Bảng 2, câu Material composition"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "8.19%",
+          "where": "trang kết quả, câu Material composition, lựa chọn nihilism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Đôi khi (hạn chế luận) (restrictivism): 35,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Restrictivism 201 35.0",
+          "where": "Bảng 2, câu Material composition"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "35.02%",
+          "where": "trang kết quả, câu Material composition, lựa chọn restrictivism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Luôn luôn (phổ biến luận) (universalism): 27,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Universalism 157 27.4",
+          "where": "Bảng 2, câu Material composition"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "27.35%",
+          "where": "trang kết quả, câu Material composition, lựa chọn universalism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 30,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 173 30.1",
+          "where": "Bảng 2, câu Material composition"
+        }
+      ]
+    },
+    {
+      "text": "raw: bài báo in \"35\" (pct) cho lựa chọn Đôi khi (hạn chế luận)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bài báo in \"35.0\" (đúng quy ước một chữ số thập phân): bỏ trường raw của lựa chọn doi-khi-han-che-luan, hiển thị 35,0; giá trị số không đổi.",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Restrictivism 201 35.0",
+          "where": "Bảng 2, câu Material composition"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (31.36%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. Ô raw: hỏi WebFetch ba cách (chép nguyên dòng; tìm mọi ô không có dấu thập phân trong Bảng 1–2, kết quả: không có; đánh vần từng ký tự dòng Restrictivism) đều cho \"35.0\", đúng quy ước một chữ số thập phân. Đề xuất bỏ trường raw (giá trị pct không đổi); người làm có thể mở PDF xem tận mắt. Tên câu trong bài báo là \"Material composition\" (không phải \"Mereological composition\"); phần ngoặc của title_vi là chú giải đúng ý. | Kiểm lại 2026-11-09 (agent-kiem-5.2-pp06): mở lại PhilArchive BOUPOP-3 và trang survey2020 trong phiên; mọi quote của các claim giữ nguyên vẫn khớp chữ trên trang, mọi % của bản ghi mới vẫn bằng số in trong bảng; mã băm mới khớp tools/check_ledger.py (tính lại trong phiên). Bản ghi mới không còn trường raw; pct 35.0 khớp 'Restrictivism 201 35.0' (đọc lại trong phiên, in có dấu thập phân): claim raw đánh dấu fixed. N = 574 không đổi."
+}

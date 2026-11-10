@@ -1,0 +1,106 @@
+{
+  "unit": "philpapers/platon-quan-diem-cua-ong-la-gi",
+  "hash": "sha256:21dfef8d8556bbd3a55e2866303a5be4c6bef2e9c69c49b51e61500351988936",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Plato (what is his view?)",
+          "where": "Table 2, ngay sau nhóm Philosophical knowledge (tr. 13 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Platon (quan điểm của ông là gì?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Plato (what is his view?)",
+          "where": "Table 2, nhóm Plato (tr. 13 theo số in chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Plato (what is his view?): knowledge only of forms or knowledge also of concrete things?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 630",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 634, excluding skipped & insufficiently familiar",
+          "where": "câu Plato"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ có tri thức về các Form (knowledge only of forms): 52,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Knowledge only of forms 335 52.8",
+          "where": "Table 2, nhóm Plato (tr. 13 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "label_vi: Chỉ có tri thức về các Form",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Chỉ có tri thức về các Ý niệm (*Form*)",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Knowledge only of forms 335 52.8",
+          "where": "Table 2, nhóm Plato (tr. 13 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Có cả tri thức về vật cụ thể (knowledge also of concrete things): 28,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Knowledge also of concrete things 179 28.2",
+          "where": "Table 2, nhóm Plato (tr. 13 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 19,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 122 19.2",
+          "where": "Table 2, nhóm Plato (tr. 13 theo số in chân trang)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. Bài báo không in cột Exclusive cho câu này, nên pct_exclusive = null là khớp bài báo (web: 52.52%, 27.92%). Bài báo không in tổng n; N = 634 trên trang web khớp số đếm trong bảng (335/634 = 52,84%), làm tròn hàng chục là 630. Trang web (hai chữ số lẻ): 52.84%, 28.23%, cùng cách làm tròn với bài báo. Dòng Other của web (19.56%) tính khác, không dùng cho 'Khác'. Lỗi nhẹ duy nhất: nhãn giữ nguyên chữ tiếng Anh 'Form' (nghĩa vẫn đúng); từ điển dự án (docs/assets/data/terms.json, mục y-niem-platon: 'Ý niệm (thuyết Platon)') và bài docs/triet-gia/platon.md đều dùng 'Ý niệm'. 'Ý niệm' không có trong data/style/terms-policy.yml nên không tính là sai thuật ngữ bắt buộc. Dòng tương ứng ở tools/philpapers-2020.md cũng ghi 'các Form'. | Kiểm lại 2026-11-09 (agent-kiem-5.2-pp06): mở lại PhilArchive BOUPOP-3 và trang survey2020 trong phiên; mọi quote của các claim giữ nguyên vẫn khớp chữ trên trang, mọi % của bản ghi mới vẫn bằng số in trong bảng; mã băm mới khớp tools/check_ledger.py (tính lại trong phiên). Nhãn mới 'Chỉ có tri thức về các Ý niệm (*Form*)' đúng câu sửa đề xuất, khớp 'Knowledge only of forms 335 52.8' và từ điển (mục y-niem-platon): claim nhãn đánh dấu fixed. Claim số liệu giữ nguyên chữ nhãn cũ trong text (số không đổi). tools/philpapers-2020.md cũng đã đổi sang 'Ý niệm'."
+}

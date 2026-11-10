@@ -1,0 +1,105 @@
+{
+  "unit": "philpapers/trai-nghiem-tri-giac",
+  "hash": "sha256:b819bd1e5d43be3b34c506b0d897198f190a187183efac68dc9a4407c47ef9a5",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Perceptual experience\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Trải nghiệm tri giác\" (dịch câu \"Perceptual experience\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Perceptual experience: disjunctivism, qualia theory, representationalism, or sense-datum theory?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1320 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1323, excluding skipped & insufficiently familiar (462 respondents)",
+          "where": "khối kết quả câu \"Perceptual experience\""
+        }
+      ]
+    },
+    {
+      "text": "Tuyển luận (*disjunctivism*) (disjunctivism): 15,6; exclusive 13,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Disjunctivism 207 15.6 183 13.8",
+          "where": "Bảng 1, câu \"Perceptual experience\""
+        }
+      ]
+    },
+    {
+      "text": "Thuyết qualia (qualia theory): 15,1; exclusive 13,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Qualia theory 200 15.1 176 13.3",
+          "where": "Bảng 1, câu \"Perceptual experience\""
+        }
+      ]
+    },
+    {
+      "text": "Thuyết biểu hiện (*representationalism*) (representationalism): 39,3; exclusive 36,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Representationalism 520 39.3 478 36.1",
+          "where": "Bảng 1, câu \"Perceptual experience\""
+        }
+      ]
+    },
+    {
+      "text": "Thuyết dữ liệu giác quan (sense-datum theory): 5,0; exclusive 3,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Sense-datum theory 66 5.0 51 3.9",
+          "where": "Bảng 1, câu \"Perceptual experience\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 28,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 372 28.1",
+          "where": "Bảng 1, câu \"Perceptual experience\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang web cho disjunctivism 15.65%: làm tròn nửa-lên sẽ ra 15,7, nhưng 207/1323 = 15,646% nên bài báo in 15.6; bản ghi theo bài báo là đúng. \"Thuyết biểu hiện\" cho representationalism chấp nhận được vì có kèm thuật ngữ tiếng Anh (cách dịch khác hay gặp: thuyết biểu diễn, thuyết biểu tượng)."
+}

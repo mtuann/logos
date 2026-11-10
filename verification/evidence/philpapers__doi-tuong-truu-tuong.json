@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/doi-tuong-truu-tuong",
+  "hash": "sha256:a369d399ea0ae610bba13f060a97504f234ef83be654b249bddb84f8809811dc",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Abstract objects\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Đối tượng trừu tượng\" (dịch câu \"Abstract objects\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Abstract objects: Platonism or nominalism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1640 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1639, excluding skipped & insufficiently familiar (146 respondents)",
+          "where": "khối kết quả câu \"Abstract objects\""
+        }
+      ]
+    },
+    {
+      "text": "Thuyết Platon (*Platonism*) (Platonism): 38,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Platonism 629 38.4",
+          "where": "Bảng 1, câu \"Abstract objects\""
+        }
+      ]
+    },
+    {
+      "text": "Duy danh luận (*nominalism*) (nominalism): 41,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nominalism 686 41.9",
+          "where": "Bảng 1, câu \"Abstract objects\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 19,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 323 19.7",
+          "where": "Bảng 1, câu \"Abstract objects\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo. Dòng Other của trang web (20.81%) khác bài báo (19.7); bản ghi dùng số bài báo, đúng quy ước."
+}

@@ -1,0 +1,126 @@
+{
+  "unit": "philpapers/sieu-ban-the-hoc-metaontology",
+  "hash": "sha256:46d77dd8f7105573098f459efb7857f8ae0644898c5d2d973c6920bf1360262b",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Metaontology",
+          "where": "Bảng 2, tên câu (tr. 12 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Metaontology"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Siêu bản thể học (*metaontology*) — dịch câu 'Metaontology'",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Siêu bản thể luận (*metaontology*) — nghĩa hiện tại đúng; đổi 'bản thể học' thành 'bản thể luận' theo từ điển dự án",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Metaontology",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Metaontology: heavyweight realism, deflationary realism, or anti-realism?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 700 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 704, excluding skipped & insufficiently familiar (428 respondents)",
+          "where": "trang kết quả, câu Metaontology"
+        }
+      ]
+    },
+    {
+      "text": "Hiện thực luận mạnh (*heavyweight realism*) [Heavyweight realism]: 38,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Heavyweight realism 272 38.6",
+          "where": "Bảng 2, câu Metaontology"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "38.64% (37.64%)",
+          "where": "trang kết quả, câu Metaontology, lựa chọn Heavyweight realism: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Hiện thực luận giảm phát (*deflationary realism*) [Deflationary realism]: 28,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Deflationary realism 198 28.1",
+          "where": "Bảng 2, câu Metaontology"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "28.13% (27.27%)",
+          "where": "trang kết quả, câu Metaontology, lựa chọn Deflationary realism: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Phản hiện thực luận (*anti-realism*) [Anti-realism]: 11,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Anti-realism 84 11.9",
+          "where": "Bảng 2, câu Metaontology"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "11.93% (11.65%)",
+          "where": "trang kết quả, câu Metaontology, lựa chọn Anti-realism: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 21,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 152 21.6",
+          "where": "Bảng 2, câu Metaontology, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 704, làm tròn hàng chục là 700. Bài báo không in cột Exclusive cho câu này (web lệch tối đa 1 điểm), khớp pct_exclusive null. 198/704 = 28,125% đúng bằng; bài báo in 28,1 (web 28.13%), khớp bản ghi. Dòng Other của web (23.44%) tính khác, không dùng cho 'Khác'. title_vi đúng nghĩa; đề xuất đổi 'bản thể học' thành 'bản thể luận' cho khớp từ điển dự án (docs/assets/data/terms.json, mục ban-the-luan: 'bản thể luận' = ontology; docs dùng 'bản thể luận' 70 lần, 'bản thể học' 2 lần, chỉ trong tên sách dịch). Nhãn lựa chọn khớp từ điển: 'hiện thực luận' (hiện thực luận đạo đức), 'giảm phát' (thuyết giảm phát về chân lý). Dòng tương ứng ở tools/philpapers-2020.md cũng ghi 'Siêu bản thể học'."
+}

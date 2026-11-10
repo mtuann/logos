@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/may-dich-chuyen-vat-chat-moi",
+  "hash": "sha256:6e842e9b6683c26ab10d2af17848e5080457d489f52bee2dd5179be3a40a58bd",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Teletransporter (new matter)\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Máy dịch chuyển (vật chất mới)\" (dịch câu \"Teletransporter (new matter)\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Teletransporter (new matter): survival or death?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1570 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1575, excluding skipped & insufficiently familiar (210 respondents)",
+          "where": "khối kết quả câu \"Teletransporter (new matter)\""
+        }
+      ]
+    },
+    {
+      "text": "Sống sót (survival): 35,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Survival 555 35.2",
+          "where": "Bảng 1, câu \"Teletransporter (new matter)\""
+        }
+      ]
+    },
+    {
+      "text": "Chết (death): 40,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Death 631 40.1",
+          "where": "Bảng 1, câu \"Teletransporter (new matter)\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 24,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 390 24.8",
+          "where": "Bảng 1, câu \"Teletransporter (new matter)\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "n: trang web ghi N = 1575, đúng nửa giữa 1570 và 1580; bản ghi 1570 lệch 5, vẫn trong sai số làm tròn hàng chục nên chấm dung. Theo quy tắc nửa-lên thì là 1580: người làm nên thống nhất quy tắc làm tròn n. Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

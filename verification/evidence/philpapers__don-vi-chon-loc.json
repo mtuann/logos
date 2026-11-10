@@ -1,0 +1,107 @@
+{
+  "unit": "philpapers/don-vi-chon-loc",
+  "hash": "sha256:ae0c6e166e4076732011f29b21a0671ed2ab54688641f6d5a26da937aef1c2ad",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Units of selection",
+          "where": "Bảng 2, tên câu (tr. 14 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Units of selection"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Đơn vị chọn lọc — dịch câu 'Units of selection'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Units of selection",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Units of selection: genes or organisms?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 680 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 682, excluding skipped & insufficiently familiar (447 respondents)",
+          "where": "trang kết quả, câu Units of selection"
+        }
+      ]
+    },
+    {
+      "text": "Gen [Genes]: 43,5; Exclusive 33,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Genes 297 43.5 225 33.0",
+          "where": "Bảng 2, câu Units of selection"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "43.55% (32.99%)",
+          "where": "trang kết quả, câu Units of selection, lựa chọn Genes: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Sinh vật (*organisms*) [Organisms]: 43,1; Exclusive 32,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Organisms 294 43.1 223 32.7",
+          "where": "Bảng 2, câu Units of selection"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "43.11% (32.70%)",
+          "where": "trang kết quả, câu Units of selection, lựa chọn Organisms: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 23,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 159 23.3",
+          "where": "Bảng 2, câu Units of selection, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 682, làm tròn hàng chục là 680. Làm tròn hai lần: web in 43.55% cho genes, làm tròn tiếp sẽ ra 43,6, nhưng 297/682 = 43,548% nên 43,5 của bài báo và bản ghi là đúng. Dòng Other của web (34.31%) tính khác, không dùng cho 'Khác'."
+}

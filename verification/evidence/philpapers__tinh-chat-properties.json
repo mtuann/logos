@@ -1,0 +1,148 @@
+{
+  "unit": "philpapers/tinh-chat-properties",
+  "hash": "sha256:91fbc69bcb5408d6a27718e4f8f3264f93790f261977cb0794622d08d1dfdaa0",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Tính chất (*properties*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Properties\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Tính chất (*properties*)\" dịch câu \"Properties\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Properties",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Properties: classes, immanent universals, transcendent universals, tropes, or nonexistent?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 780 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 776, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Properties"
+        }
+      ]
+    },
+    {
+      "text": "Lớp (tập hợp) (classes): 11,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Classes 89 11.5",
+          "where": "Bảng 2, câu Properties"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "11.47%",
+          "where": "trang kết quả, câu Properties, lựa chọn classes (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Phổ quát nội tại (kiểu Aristotle) (immanent universals): 20,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Immanent universals 160 20.6",
+          "where": "Bảng 2, câu Properties"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "20.62%",
+          "where": "trang kết quả, câu Properties, lựa chọn immanent universals (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Phổ quát siêu việt (kiểu Platon) (transcendent universals): 19,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Transcendent universals 154 19.8",
+          "where": "Bảng 2, câu Properties"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "19.85%",
+          "where": "trang kết quả, câu Properties, lựa chọn transcendent universals (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Trope (tính chất cá biệt) (tropes): 15,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Tropes 119 15.3",
+          "where": "Bảng 2, câu Properties"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "15.34%",
+          "where": "trang kết quả, câu Properties, lựa chọn tropes (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Không tồn tại (nonexistent): 8,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nonexistent 63 8.1",
+          "where": "Bảng 2, câu Properties"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "8.12%",
+          "where": "trang kết quả, câu Properties, lựa chọn nonexistent (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 29,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 226 29.1",
+          "where": "Bảng 2, câu Properties"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (32.86%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. Trang web in 19.85% cho transcendent universals: làm tròn nửa-lên từ số này sẽ ra 19,9, nhưng bài báo in 19.8 (154/776 = 19,845%); bản ghi theo bài báo là đúng."
+}

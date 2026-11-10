@@ -1,0 +1,119 @@
+{
+  "unit": "philpapers/chan-ly",
+  "hash": "sha256:6ea04dbd749220d1ef8522043c9328e9e5deb00c444e9ab6f7ee08f1d002abdb",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Chân lý [Truth]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Truth",
+          "where": "Bảng 1, tiêu đề câu Truth"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Truth: correspondence, deflationary, or epistemic?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Truth nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Truth"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1640",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1643, excluding skipped & insufficiently familiar (142 respondents)",
+          "where": "Truth"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết tương ứng (*correspondence*): 51,4; exclusive 48,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Correspondence 844 51.4 794 48.3",
+          "where": "Bảng 1, câu Truth (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "51.37% (48.33%)",
+          "where": "Truth, correspondence: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết giảm phát (*deflationary*): 24,5; exclusive 22,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Deflationary 403 24.5 365 22.2",
+          "where": "Bảng 1, câu Truth (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "24.53% (22.22%)",
+          "where": "Truth, deflationary: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết tri thức (*epistemic*): 10,2; exclusive 8,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Epistemic 167 10.2 144 8.8",
+          "where": "Bảng 1, câu Truth (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "10.16% (8.76%)",
+          "where": "Truth, epistemic: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 16,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 276 16.8",
+          "where": "Bảng 1, câu Truth, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Cột Exclusive khớp số trong ngoặc trên trang web. 'Thuyết tri thức (epistemic)' dịch sát chữ (thuyết chân lý theo tri thức/khả năng biết); chấp nhận được nhờ có chữ Anh kèm theo."
+}

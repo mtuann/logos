@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/logic",
+  "hash": "sha256:0762c01f02dd3b5817a08bf680a33250b2365d58acf7644e22a6d981388807aa",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Logic\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Logic\" (dịch câu \"Logic\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Logic: classical or non-classical?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1420 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1415, excluding skipped & insufficiently familiar (370 respondents)",
+          "where": "khối kết quả câu \"Logic\""
+        }
+      ]
+    },
+    {
+      "text": "Cổ điển (classical): 53,6; exclusive 48,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Classical 759 53.6 689 48.7",
+          "where": "Bảng 1, câu \"Logic\""
+        }
+      ]
+    },
+    {
+      "text": "Phi cổ điển (non-classical): 26,4; exclusive 21,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-classical 374 26.4 308 21.8",
+          "where": "Bảng 1, câu \"Logic\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 24,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 342 24.2",
+          "where": "Bảng 1, câu \"Logic\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "n: N = 1415 làm tròn nửa-lên thành 1420, đúng. Lưu ý các bản ghi ban-sac-ca-nhan (1615 → 1610), may-dich-chuyen-vat-chat-moi (1575 → 1570), tien-bo-triet-hoc-co-khong (1775 → 1770) lại làm tròn xuống: nên thống nhất. Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

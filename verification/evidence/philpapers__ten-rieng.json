@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/ten-rieng",
+  "hash": "sha256:88941920b5d8b16d2e51f6b8a545b681ccbb4e4c0e10451b11d5acb919b3d641",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Proper names\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Tên riêng\" (dịch câu \"Proper names\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Proper names: Fregean or Millian?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1270 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1269, excluding skipped & insufficiently familiar (516 respondents)",
+          "where": "khối kết quả câu \"Proper names\""
+        }
+      ]
+    },
+    {
+      "text": "Kiểu Frege (Fregean): 36,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Fregean 458 36.1",
+          "where": "Bảng 1, câu \"Proper names\""
+        }
+      ]
+    },
+    {
+      "text": "Kiểu Mill (Millian): 38,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Millian 491 38.7",
+          "where": "Bảng 1, câu \"Proper names\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 25,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 323 25.5",
+          "where": "Bảng 1, câu \"Proper names\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

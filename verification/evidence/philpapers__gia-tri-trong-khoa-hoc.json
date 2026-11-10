@@ -1,0 +1,114 @@
+{
+  "unit": "philpapers/gia-tri-trong-khoa-hoc",
+  "hash": "sha256:e86faa1222b1735198d0e7f44ff15367d1bfc0885281d6ca881bf8fb94e59093",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Giá trị trong khoa học",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Values in science (is ideal scientific reasoning necessarily sensitive or insensitive to non-epistemic values?)\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Giá trị trong khoa học\" dịch câu \"Values in science (is ideal scientific reasoning necessarily sensitive or insensitive to non-epistemic values?)\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Values in science (is ideal scientific reasoning necessarily sensitive or insensitive to non-epistemic values?)",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Values in science (is ideal scientific reasoning necessarily sensitive or insensitive to non-epistemic values?)",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 960 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 961, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Values in science"
+        }
+      ]
+    },
+    {
+      "text": "Nhất thiết trung lập giá trị (necessarily value-free): 17,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Necessarily value-free 170 17.7",
+          "where": "Bảng 2, câu Values in science"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "17.69%",
+          "where": "trang kết quả, câu Values in science, lựa chọn necessarily value-free (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Nhất thiết mang giá trị (necessarily value-laden): 44,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Necessarily value-laden 423 44.0",
+          "where": "Bảng 2, câu Values in science"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "44.02%",
+          "where": "trang kết quả, câu Values in science, lựa chọn necessarily value-laden (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Có thể cả hai (can be either): 31,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Can be either 299 31.1",
+          "where": "Bảng 2, câu Values in science"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "31.11%",
+          "where": "trang kết quả, câu Values in science, lựa chọn can be either (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 7,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 69 7.2",
+          "where": "Bảng 2, câu Values in science"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (7.80%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng."
+}

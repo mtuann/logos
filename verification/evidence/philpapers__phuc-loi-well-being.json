@@ -1,0 +1,104 @@
+{
+  "unit": "philpapers/phuc-loi-well-being",
+  "hash": "sha256:c584d23f7fecab5815dc1df159470c19752b3e69ee9f855dea1e03ffe33a0673",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Well-being",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Phúc lợi (*well-being*) — dịch câu 'Well-being'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Well-being",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Well-being: hedonism/experientialism, desire satisfaction, or objective list?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 970",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 967, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Well-being'"
+        }
+      ]
+    },
+    {
+      "text": "Khoái lạc/trải nghiệm [Hedonism/experientialism]: 12,7; Exclusive 10,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Hedonism/experientialism 123 12.7 98 10.1",
+          "where": "Bảng 2, khối 'Well-being'"
+        }
+      ]
+    },
+    {
+      "text": "Thỏa mãn ước muốn [Desire satisfaction]: 18,6; Exclusive 15,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Desire satisfaction 180 18.6 146 15.1",
+          "where": "Bảng 2, khối 'Well-being'"
+        }
+      ]
+    },
+    {
+      "text": "Danh sách khách quan [Objective list]: 53,2; Exclusive 49,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Objective list 514 53.2 483 49.9",
+          "where": "Bảng 2, khối 'Well-being'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 20,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 194 20.1",
+          "where": "Bảng 2, khối 'Well-being'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 967, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (24,82%) tính khác, không dùng cho 'Khác'. Objective list (exclusive): web ghi 49,95%, số chính xác 483/967 = 49,948% nên một chữ số là 49,9 như bài báo (làm tròn lại từ 49,95 sẽ ra 50,0). PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

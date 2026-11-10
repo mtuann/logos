@@ -1,0 +1,107 @@
+{
+  "unit": "philpapers/nguoi-dep-ngu-sleeping-beauty",
+  "hash": "sha256:761371454170f82cc0376c99fa636e31d4e21aaed28efda8ec185f9f7cb68e35",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Sleeping beauty (woken once if heads, woken twice if tails, credence in heads on waking?)",
+          "where": "Bảng 2, tên câu (tr. 14 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Sleeping beauty"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Người đẹp ngủ (*Sleeping Beauty*: ngửa thì được đánh thức một lần, sấp thì hai lần; khi thức dậy, độ tin vào mặt ngửa là bao nhiêu?) — dịch câu 'Sleeping beauty (woken once if heads, woken twice if tails, credence in heads on waking?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Sleeping beauty (woken once if heads, woken twice if tails, credence in heads on waking?)",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Sleeping beauty (woken once if heads, woken twice if tails, credence in heads on waking?): one-third or one-half?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 430 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 429, excluding skipped & insufficiently familiar (702 respondents)",
+          "where": "trang kết quả, câu Sleeping beauty"
+        }
+      ]
+    },
+    {
+      "text": "Một phần ba [One-third]: 27,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "One-third 119 27.7",
+          "where": "Bảng 2, câu Sleeping beauty"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "27.74% (27.74%)",
+          "where": "trang kết quả, câu Sleeping beauty, lựa chọn One-third: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Một nửa [One-half]: 18,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "One-half 80 18.6",
+          "where": "Bảng 2, câu Sleeping beauty"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "18.65% (18.65%)",
+          "where": "trang kết quả, câu Sleeping beauty, lựa chọn One-half: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 53,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 229 53.4",
+          "where": "Bảng 2, câu Sleeping beauty, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 429, làm tròn hàng chục là 430. Bài báo không in cột Exclusive (web: % bao gồm = % loại trừ), khớp pct_exclusive null. Làm tròn hai lần: web in 18.65% cho one-half, làm tròn tiếp sẽ ra 18,7, nhưng 80/429 = 18,648% nên 18,6 là đúng. Dòng Other của web (53.61%) tính khác, không dùng cho 'Khác'. title_vi dịch đủ phần ngoặc của bài báo; 'ngửa' (heads) và 'sấp' (tails) dùng nhất quán."
+}

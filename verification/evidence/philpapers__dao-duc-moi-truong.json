@@ -1,0 +1,97 @@
+{
+  "unit": "philpapers/dao-duc-moi-truong",
+  "hash": "sha256:699afcc0363ebec29cc00235e681c2516aca651400e3ad55543e396bfc4689f2",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Đạo đức môi trường",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Environmental ethics\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Đạo đức môi trường\" dịch câu \"Environmental ethics\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Environmental ethics",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Environmental ethics: anthropocentric or non-anthropocentric?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 890 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 890, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Environmental ethics"
+        }
+      ]
+    },
+    {
+      "text": "Lấy con người làm trung tâm (anthropocentric): 42,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Anthropocentric 376 42.2",
+          "where": "Bảng 2, câu Environmental ethics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "42.25%",
+          "where": "trang kết quả, câu Environmental ethics, lựa chọn anthropocentric (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Không lấy con người làm trung tâm (non-anthropocentric): 50,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-anthropocentric 451 50.7",
+          "where": "Bảng 2, câu Environmental ethics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "50.67%",
+          "where": "trang kết quả, câu Environmental ethics, lựa chọn non-anthropocentric (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 8,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 79 8.9",
+          "where": "Bảng 2, câu Environmental ethics"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (10.79%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. Trang web in 42.25% cho anthropocentric: làm tròn nửa-lên từ số này sẽ ra 42,3, nhưng bài báo in 42.2 (376/890 = 42,247%); bản ghi theo bài báo là đúng."
+}

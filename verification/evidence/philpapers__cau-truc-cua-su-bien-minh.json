@@ -1,0 +1,116 @@
+{
+  "unit": "philpapers/cau-truc-cua-su-bien-minh",
+  "hash": "sha256:054d7dab9977798a9dd70d73bb95ddd9d18d46457515764f204dbb69264c63cf",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Justification",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Cấu trúc của sự biện minh — dịch câu 'Justification'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Justification",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Justification: coherentism, infinitism, nonreliabilist foundationalism, or reliabilism?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 950",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 950, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Justification'"
+        }
+      ]
+    },
+    {
+      "text": "Mạch lạc luận (*coherentism*) [Coherentism]: 23,7; Exclusive 19,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Coherentism 225 23.7 182 19.2",
+          "where": "Bảng 2, khối 'Justification'"
+        }
+      ]
+    },
+    {
+      "text": "Vô hạn luận (*infinitism*) [Infinitism]: 2,0; Exclusive 1,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Infinitism 19 2.0 14 1.5",
+          "where": "Bảng 2, khối 'Justification'"
+        }
+      ]
+    },
+    {
+      "text": "Nền tảng luận (không theo thuyết tin cậy) [Nonreliabilist foundationalism]: 25,2; Exclusive 21,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nonreliabilist foundationalism 239 25.2 207 21.8",
+          "where": "Bảng 2, khối 'Justification'"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết tin cậy [Reliabilism]: 33,6; Exclusive 28,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Reliabilism 319 33.6 274 28.8",
+          "where": "Bảng 2, khối 'Justification'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 21,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 207 21.8",
+          "where": "Bảng 2, khối 'Justification'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 950, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (28,74%) tính khác, không dùng cho 'Khác'. title_vi 'Cấu trúc của sự biện minh' là dịch thoát của 'Justification' (bài báo chỉ ghi 'Justification'); chấp nhận vì bốn lựa chọn được đặt như các lập trường về cấu trúc (nền tảng luận tách thành có/không theo thuyết tin cậy). Nếu muốn sát chữ: 'Sự biện minh'. PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

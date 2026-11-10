@@ -1,0 +1,103 @@
+{
+  "unit": "philpapers/tri-thuc-triet-hoc-co-khong",
+  "hash": "sha256:eb938791ff7fbc038d2d44db7aa1f89f6cb1d4b87031ba8bf6092e6df60222c8",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp05",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Philosophical knowledge (is there any?)",
+          "where": "Table 2, giữa nhóm Ought implies can và Plato (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Tri thức triết học (có không?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Philosophical knowledge (is there any?)",
+          "where": "Table 2, nhóm Philosophical knowledge (tr. 12 theo số in chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Philosophical knowledge (is there any?): none, a little, or a lot?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1110",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1110, excluding skipped & insufficiently familiar",
+          "where": "câu Philosophical knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Không có (none): 3,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "None 40 3.6",
+          "where": "Table 2, nhóm Philosophical knowledge (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Một ít (a little): 32,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "A little 361 32.5",
+          "where": "Table 2, nhóm Philosophical knowledge (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều (a lot): 56,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "A lot 624 56.2",
+          "where": "Table 2, nhóm Philosophical knowledge (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 8,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 90 8.1",
+          "where": "Table 2, nhóm Philosophical knowledge (tr. 12 theo số in chân trang)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. Bài báo không in cột Exclusive cho câu này, nên pct_exclusive = null là khớp bài báo (web có số loại trừ: 3.60%, 32.07%, 55.68%). Bài báo không in tổng n; N = 1110 trên trang web khớp số đếm trong bảng (361/1110 = 32,52%). Trang web (hai chữ số lẻ): None 3.60%, A little 32.52%, A lot 56.22%, cùng cách làm tròn với bài báo. Dòng Other của web (8.65%) tính khác, không dùng cho 'Khác'."
+}

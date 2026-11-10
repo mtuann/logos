@@ -1,0 +1,119 @@
+{
+  "unit": "philpapers/zombie-triet-hoc",
+  "hash": "sha256:15c44ab54598b290b17e9a48801db75e12b9cc0cdd02bd82fe75fd861ef31c28",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Zombie triết học [Zombies]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Zombies",
+          "where": "Bảng 1, tiêu đề câu Zombies"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Zombies: inconceivable, conceivable but not metaphysically possible, or metaphysically possible?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Zombies nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Zombies"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1610",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1610, excluding skipped & insufficiently familiar (175 respondents)",
+          "where": "Zombies"
+        }
+      ]
+    },
+    {
+      "text": "Không thể hình dung [Inconceivable]: 16,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Inconceivable 264 16.4",
+          "where": "Bảng 1, câu Zombies (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "16.40% (15.84%)",
+          "where": "Zombies, inconceivable: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Hình dung được nhưng không khả hữu (về siêu hình) [Conceivable but not possible]: 36,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Conceivable but not posssible 588 36.5",
+          "where": "Bảng 1, câu Zombies (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "36.52% (35.78%)",
+          "where": "Zombies, conceivable but not possible: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khả hữu về siêu hình [Metaphysically possible]: 24,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Metaphysically possible 393 24.4",
+          "where": "Bảng 1, câu Zombies (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "24.41% (24.22%)",
+          "where": "Zombies, metaphysically possible: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 22,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 362 22.5",
+          "where": "Bảng 1, câu Zombies, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null. Bảng 1 in nhầm chữ 'posssible' (dòng 'Conceivable but not posssible'); trang web ghi 'conceivable but not metaphysically possible', khớp nhãn 'Hình dung được nhưng không khả hữu (về siêu hình)'."
+}

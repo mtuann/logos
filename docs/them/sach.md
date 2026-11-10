@@ -1,14 +1,14 @@
 ---
 title: Logos — Sách in
 description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được.
-updated: 2026-10-22
+updated: 2026-11-10
 search:
   exclude: true
 ---
 
 # Logos — Sách in {#logos-zero-sach-in}
 
-*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 22/10/2026.*
+*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 10/11/2026.*
 
 !!! note "Lưu ý khi in"
     Mỗi bài bắt đầu ở một trang mới.
@@ -7222,8 +7222,8 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về án tử hì
 | | Không được phép | [[pp:an-tu-hinh.khong-duoc-phep]] |
 | | Khác (lập trường khác, không có ý kiến…) | [[pp:an-tu-hinh.khac]] |
 | Luật pháp — câu bổ sung, n ≈ [[pp:luat-phap/n]] | Thực chứng luận pháp lý (*legal positivism*) | [[pp:luat-phap.thuc-chung-luan-phap-ly]] |
-| | Phi thực chứng luận pháp lý | 45,0 |
-| | Khác | 16,0 |
+| | Phi thực chứng luận pháp lý | [[pp:luat-phap.phi-thuc-chung-luan-phap-ly]] |
+| | Khác | [[pp:luat-phap.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -7426,7 +7426,7 @@ Tuy nhiên, có ba câu hỏi *gần nhất* với chủ đề bài, và các co
 | | Khác | [[pp:cay-cau-day-nguoi.khac]] |
 | "Phải" kéo theo "có thể" (*ought implies can*) — câu bổ sung, n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
-| | Khác | 9,0 |
+| | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

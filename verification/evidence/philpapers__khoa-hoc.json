@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/khoa-hoc",
+  "hash": "sha256:02b5c4b0fafe577097eaf97214ba30c33b8899b51706a5a8cb9b49ec97ab9f6d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Science\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Khoa học\" (dịch câu \"Science\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Science: scientific realism or scientific anti-realism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1690 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1689, excluding skipped & insufficiently familiar (96 respondents)",
+          "where": "khối kết quả câu \"Science\""
+        }
+      ]
+    },
+    {
+      "text": "Hiện thực luận khoa học (scientific realism): 72,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Scientific realism 1222 72.4",
+          "where": "Bảng 1, câu \"Science\""
+        }
+      ]
+    },
+    {
+      "text": "Phản hiện thực luận khoa học (scientific anti-realism): 15,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Scientific anti-realism 254 15.0",
+          "where": "Bảng 1, câu \"Science\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 12,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 217 12.8",
+          "where": "Bảng 1, câu \"Science\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo. (scientific realism 72.35% = 1222/1689 = 72,3505% nên 72,4 đúng.)"
+}

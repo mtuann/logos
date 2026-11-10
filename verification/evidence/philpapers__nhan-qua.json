@@ -1,0 +1,131 @@
+{
+  "unit": "philpapers/nhan-qua",
+  "hash": "sha256:d51c0f04fb9caa757ac615fc2d1d2455674182f9b5db8b3388859d22f7b4df89",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Nhân quả",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Causation\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Nhân quả\" dịch câu \"Causation\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Causation",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Causation: counterfactual/difference-making, process/production, primitive, or nonexistent?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 890 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 892, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Causation"
+        }
+      ]
+    },
+    {
+      "text": "Phản thực / tạo khác biệt (counterfactual/difference-making): 37,2; loại trừ 33,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Counterfactual/diff.-making 332 37.2 298 33.4",
+          "where": "Bảng 2, câu Causation"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "37.22%",
+          "where": "trang kết quả, câu Causation, lựa chọn counterfactual/difference-making (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Quá trình / sản sinh (process/production): 22,5; loại trừ 18,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Process/production 201 22.5 167 18.7",
+          "where": "Bảng 2, câu Causation"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "22.53%",
+          "where": "trang kết quả, câu Causation, lựa chọn process/production (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên thủy (không phân tích được) (primitive): 20,5; loại trừ 18,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Primitive 183 20.5 169 18.9",
+          "where": "Bảng 2, câu Causation"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "20.52%",
+          "where": "trang kết quả, câu Causation, lựa chọn primitive (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Không tồn tại (nonexistent): 4,1; loại trừ 3,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nonexistent 37 4.1 34 3.8",
+          "where": "Bảng 2, câu Causation"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "4.15%",
+          "where": "trang kết quả, câu Causation, lựa chọn nonexistent (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 20,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 184 20.6",
+          "where": "Bảng 2, câu Causation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (25.11%) nên không dùng cho \"Khác\". Cột Exclusive của bài báo khớp pct_exclusive. Trang web in 4.15% cho nonexistent (làm tròn nửa-lên sẽ ra 4,2; bài báo in 4.1, 37/892 = 4,148%) và 18.95% cho cột loại trừ của primitive (làm tròn nửa-lên sẽ ra 19,0; bài báo in 18.9, 169/892 = 18,946%); bản ghi theo bài báo là đúng."
+}

@@ -1,0 +1,91 @@
+{
+  "unit": "philpapers/wittgenstein-thich-giai-doan-nao",
+  "hash": "sha256:d58f63d6907e5fbb02ba7bec998465621a1273754478b0aeaea4a331c1d3ab0d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp05",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Wittgenstein (which do you prefer?)",
+          "where": "Table 2, ngay sau nhóm Well-being (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Wittgenstein (thích giai đoạn nào?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Wittgenstein (which do you prefer?)",
+          "where": "Table 2, nhóm Wittgenstein (tr. 14 theo số in chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Wittgenstein (which do you prefer?): early or late?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 960",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 963, excluding skipped & insufficiently familiar",
+          "where": "câu Wittgenstein"
+        }
+      ]
+    },
+    {
+      "text": "Giai đoạn đầu (early): 24,6; Exclusive 20,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Early 237 24.6 200 20.8",
+          "where": "Table 2, nhóm Wittgenstein (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Giai đoạn sau (late): 57,5; Exclusive 53,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Late 554 57.5 515 53.5",
+          "where": "Table 2, nhóm Wittgenstein (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 17,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 166 17.2",
+          "where": "Table 2, nhóm Wittgenstein (tr. 14 theo số in chân trang)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. title_vi dịch thoát '(which do you prefer?)' thành '(thích giai đoạn nào?)': đúng ý vì hai lựa chọn là early/late. Bài báo không in tổng n; N = 963 trên trang web khớp số đếm trong bảng (237/963 = 24,61%). Trang web (hai chữ số lẻ): Early 24.61% (20.77%), Late 57.53% (53.48%), cùng cách làm tròn với bài báo. Dòng Other của web (25.75%) tính khác, không dùng cho 'Khác'."
+}

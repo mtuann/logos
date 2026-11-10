@@ -1,0 +1,94 @@
+{
+  "unit": "philpapers/tien-bo-triet-hoc-co-khong",
+  "hash": "sha256:9ced5f1a9210fce64437402e5596df5158f47d65f54414020ea40479b961de9c",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Philosophical progress (is there any?)\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Tiến bộ triết học (có không?)\" (dịch câu \"Philosophical progress (is there any?)\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Philosophical progress (is there any?)",
+          "where": "Bảng 1, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1770 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1775, excluding skipped & insufficiently familiar (10 respondents)",
+          "where": "khối kết quả câu \"Philosophical progress (is there any?)\""
+        }
+      ]
+    },
+    {
+      "text": "Không có (none): 3,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "None 68 3.8",
+          "where": "Bảng 1, câu \"Philosophical progress (is there any?)\""
+        }
+      ]
+    },
+    {
+      "text": "Một ít (a little): 46,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "A little 827 46.6",
+          "where": "Bảng 1, câu \"Philosophical progress (is there any?)\""
+        }
+      ]
+    },
+    {
+      "text": "Nhiều (a lot): 41,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "A lot 740 41.7",
+          "where": "Bảng 1, câu \"Philosophical progress (is there any?)\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 8,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 149 8.4",
+          "where": "Bảng 1, câu \"Philosophical progress (is there any?)\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "n: trang web ghi N = 1775, đúng nửa giữa 1770 và 1780; bản ghi 1770 lệch 5, vẫn trong sai số làm tròn hàng chục nên chấm dung. Theo quy tắc nửa-lên thì là 1780: người làm nên thống nhất quy tắc. Trang web có in % exclusive cho câu này nhưng Bảng 1 của bài báo không in cột Exclusive; bản ghi để pct_exclusive null là khớp bài báo. Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

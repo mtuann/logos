@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/noi-dung-tam-tri",
+  "hash": "sha256:6ff837a3d9ec479ececf3855699a336b6631ea0ba7948753e0f8ff23727f0080",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Mental content\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Nội dung tâm trí\" (dịch câu \"Mental content\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Mental content: internalism or externalism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1510 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1514, excluding skipped & insufficiently familiar (271 respondents)",
+          "where": "khối kết quả câu \"Mental content\""
+        }
+      ]
+    },
+    {
+      "text": "Nội tại luận (internalism): 26,4; exclusive 21,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Internalism 399 26.4 332 21.9",
+          "where": "Bảng 1, câu \"Mental content\""
+        }
+      ]
+    },
+    {
+      "text": "Ngoại tại luận (externalism): 58,1; exclusive 53,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Externalism 880 58.1 815 53.8",
+          "where": "Bảng 1, câu \"Mental content\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 19,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 297 19.6",
+          "where": "Bảng 1, câu \"Mental content\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo. (internalism 26.35% = 399/1514 = 26,354% nên 26,4 đúng.)"
+}

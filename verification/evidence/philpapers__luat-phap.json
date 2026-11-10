@@ -1,0 +1,127 @@
+{
+  "unit": "philpapers/luat-phap",
+  "hash": "sha256:2011304b6cba0a5b75ab200c3f6aa0bc217925561c8315d44c73453c4fcceb3d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Luật pháp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Law\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Luật pháp\" dịch câu \"Law\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Law",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Law: legal positivism or legal non-positivism?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 620 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 618, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Law"
+        }
+      ]
+    },
+    {
+      "text": "Thực chứng luận pháp lý (legal positivism): 39,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Legal positivism 244 39.5",
+          "where": "Bảng 2, câu Law"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "39.48%",
+          "where": "trang kết quả, câu Law, lựa chọn legal positivism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Phi thực chứng luận pháp lý (legal non-positivism): 45,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Legal non-positivism 278 45.0",
+          "where": "Bảng 2, câu Law"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "44.98%",
+          "where": "trang kết quả, câu Law, lựa chọn legal non-positivism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 16,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 99 16.0",
+          "where": "Bảng 2, câu Law"
+        }
+      ]
+    },
+    {
+      "text": "raw: bài báo in \"45\" (pct) cho lựa chọn Phi thực chứng luận pháp lý",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bài báo in \"45.0\" (đúng quy ước một chữ số thập phân): bỏ trường raw của lựa chọn phi-thuc-chung-luan-phap-ly, hiển thị 45,0; giá trị số không đổi.",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Legal non-positivism 278 45.0",
+          "where": "Bảng 2, câu Law"
+        }
+      ]
+    },
+    {
+      "text": "raw: bài báo in \"16\" (pct) cho lựa chọn Khác",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bài báo in \"16.0\" (đúng quy ước một chữ số thập phân): bỏ trường raw của lựa chọn khac, hiển thị 16,0; giá trị số không đổi.",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 99 16.0",
+          "where": "Bảng 2, câu Law"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (16.99%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. Ô raw: hỏi WebFetch ba cách (chép nguyên dòng; tìm mọi ô không có dấu thập phân trong Bảng 1–2, kết quả: không có; đánh vần từng ký tự) đều cho \"45.0\" (Legal non-positivism) và \"16.0\" (Other), đúng quy ước một chữ số thập phân. Đề xuất bỏ hai trường raw (giá trị pct không đổi); người làm có thể mở PDF xem tận mắt. | Kiểm lại 2026-11-09 (agent-kiem-5.2-pp06): mở lại PhilArchive BOUPOP-3 và trang survey2020 trong phiên; mọi quote của các claim giữ nguyên vẫn khớp chữ trên trang, mọi % của bản ghi mới vẫn bằng số in trong bảng; mã băm mới khớp tools/check_ledger.py (tính lại trong phiên). Bản ghi mới không còn hai trường raw; pct 45.0 và 16.0 khớp 'Legal non-positivism 278 45.0' và 'Other 99 16.0': hai claim raw đánh dấu fixed. N = 618 không đổi."
+}

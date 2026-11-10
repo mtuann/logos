@@ -1,0 +1,91 @@
+{
+  "unit": "philpapers/kant-mot-hay-hai-the-gioi",
+  "hash": "sha256:3a520378dd91a413d88b55d250c709f9e41d47ea3d3c1de6b8c3965850aafb8a",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp05",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Kant (what is his view?)",
+          "where": "Table 2, giữa nhóm Justification và Law (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Kant (một hay hai thế giới?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Kant (what is his view?)",
+          "where": "Table 2, nhóm Kant (tr. 12 theo số in chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Kant (what is his view?): one world or two worlds?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 720",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 722, excluding skipped & insufficiently familiar",
+          "where": "câu Kant"
+        }
+      ]
+    },
+    {
+      "text": "Một thế giới (one world): 45,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "One world 328 45.4",
+          "where": "Table 2, nhóm Kant (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Hai thế giới (two worlds): 34,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Two worlds 252 34.9",
+          "where": "Table 2, nhóm Kant (tr. 12 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 20,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 145 20.1",
+          "where": "Table 2, nhóm Kant (tr. 12 theo số in chân trang)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. title_vi không dịch sát tiêu đề in trong bảng ('Kant (what is his view?)') mà nói nội dung câu hỏi trên web ('one world or two worlds?'): đúng ý nên ghi dung. Nếu muốn thống nhất với hai bản ghi Platon và Hume (đều dịch '(what is his view?)' thành '(quan điểm của ông là gì?)'), có thể đổi thành 'Kant (quan điểm của ông là gì?)'; không bắt buộc. Bài báo không in cột Exclusive cho câu này, nên pct_exclusive = null là khớp bài báo (web: 45.01%, 34.35%). Bài báo không in tổng n; N = 722 trên trang web khớp số đếm trong bảng (328/722 = 45,43%). Trang web (hai chữ số lẻ): 45.43%, 34.90%, cùng cách làm tròn với bài báo. Dòng Other của web (20.64%) tính khác, không dùng cho 'Khác'."
+}

@@ -1,0 +1,141 @@
+{
+  "unit": "philpapers/thai-do-menh-de-propositional-attitudes",
+  "hash": "sha256:687ad169e020699f49e89f96c0bf5032a209cda83ad6c62213f69902c5865800",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Propositional attitudes",
+          "where": "Bảng 2, tên câu (tr. 13 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Propositional attitudes"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Thái độ mệnh đề (*propositional attitudes*) — dịch câu 'Propositional attitudes'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Propositional attitudes",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Propositional attitudes: dispositional, phenomenal, representational, or nonexistent?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 790 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 794, excluding skipped & insufficiently familiar (333 respondents)",
+          "where": "trang kết quả, câu Propositional attitudes"
+        }
+      ]
+    },
+    {
+      "text": "Khuynh hướng (*dispositional*) [Dispositional]: 31,5; Exclusive 25,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Dispositional 250 31.5 205 25.8",
+          "where": "Bảng 2, câu Propositional attitudes"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "31.49% (25.82%)",
+          "where": "trang kết quả, câu Propositional attitudes, lựa chọn Dispositional: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Hiện tượng (*phenomenal*) [Phenomenal]: 6,9; Exclusive 4,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Phenomenal 55 6.9 35 4.4",
+          "where": "Bảng 2, câu Propositional attitudes"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "6.93% (4.41%)",
+          "where": "trang kết quả, câu Propositional attitudes, lựa chọn Phenomenal: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Biểu thị (*representational*) [Representational]: 46,5; Exclusive 40,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Representational 369 46.5 325 40.9",
+          "where": "Bảng 2, câu Propositional attitudes"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "46.47% (40.93%)",
+          "where": "trang kết quả, câu Propositional attitudes, lựa chọn Representational: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Không tồn tại [Nonexistent]: 3,5; Exclusive 3,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nonexistent 28 3.5 26 3.3",
+          "where": "Bảng 2, câu Propositional attitudes"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "3.53% (3.27%)",
+          "where": "trang kết quả, câu Propositional attitudes, lựa chọn Nonexistent: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 18,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 150 18.9",
+          "where": "Bảng 2, câu Propositional attitudes, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 794, làm tròn hàng chục là 790. Dòng Other của web (25.57%) tính khác, không dùng cho 'Khác'. Nhãn dịch đúng; 'mệnh đề' cho proposition đúng ghi chú của data/style/terms-policy.yml."
+}

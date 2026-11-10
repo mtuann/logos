@@ -1,0 +1,102 @@
+{
+  "unit": "philpapers/tri-thuc-nguon-goc",
+  "hash": "sha256:864d2ebb0ad363ac4b9af078a8ed63c4f3dedda108a37db01e205b6631845457",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Tri thức (nguồn gốc) [Knowledge]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Knowledge",
+          "where": "Bảng 1, tiêu đề câu Knowledge"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Knowledge: empiricism or rationalism?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Knowledge nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1720",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1722, excluding skipped & insufficiently familiar (63 respondents)",
+          "where": "Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Duy nghiệm luận [Empiricism]: 43,9; exclusive 37,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Empiricism 756 43.9 642 37.3",
+          "where": "Bảng 1, câu Knowledge (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "43.90% (37.28%)",
+          "where": "Knowledge, empiricism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Duy lý luận [Rationalism]: 33,5; exclusive 26,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Rationalism 577 33.5 461 26.8",
+          "where": "Bảng 1, câu Knowledge (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "33.51% (26.77%)",
+          "where": "Knowledge, rationalism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 27,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 475 27.6",
+          "where": "Bảng 1, câu Knowledge, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Cột Exclusive khớp số trong ngoặc trên trang web."
+}

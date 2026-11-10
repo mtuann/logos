@@ -1,0 +1,97 @@
+{
+  "unit": "philpapers/du-hanh-thoi-gian",
+  "hash": "sha256:5a19c9c9ec0eee26d92016068b5efba839f3bb20c56a606c617ddd025a8d3268",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Du hành thời gian",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Time travel\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Du hành thời gian\" dịch câu \"Time travel\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Time travel",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Time travel: metaphysically possible or metaphysically impossible?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 950 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 948, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Time travel"
+        }
+      ]
+    },
+    {
+      "text": "Khả hữu về siêu hình (metaphysically possible): 42,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Metaphysically possible 401 42.3",
+          "where": "Bảng 2, câu Time travel"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "42.30%",
+          "where": "trang kết quả, câu Time travel, lựa chọn metaphysically possible (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Bất khả về siêu hình (metaphysically impossible): 41,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Metaphysically impossible 389 41.0",
+          "where": "Bảng 2, câu Time travel"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "41.03%",
+          "where": "trang kết quả, câu Time travel, lựa chọn metaphysically impossible (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 16,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 158 16.7",
+          "where": "Bảng 2, câu Time travel"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (16.67%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng."
+}

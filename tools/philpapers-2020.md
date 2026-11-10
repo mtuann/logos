@@ -65,7 +65,7 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 | Siêu đạo đức học (*meta-ethics*) (n ≈ 1.720) | Hiện thực luận đạo đức (*moral realism*) | 62,1 |  |
 |  | Phản hiện thực luận đạo đức | 26,1 |  |
 |  | Khác | 11,8 |  |
-| Phán đoán đạo đức (n ≈ 1.630) | Thuyết nhận thức (*cognitivism*) | 69,3 |  |
+| Phán đoán đạo đức (n ≈ 1.640) | Thuyết nhận thức (*cognitivism*) | 69,3 |  |
 |  | Thuyết phi nhận thức (*non-cognitivism*) | 20,7 |  |
 |  | Khác | 10,3 |  |
 | Động cơ đạo đức (n ≈ 1.430) | Nội tại luận | 41,0 |  |
@@ -199,6 +199,9 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Độ tin (*credence*) | 31,3 |  |
 |  | Không cái nào | 19,5 |  |
 |  | Khác | 19,3 |  |
+| Người đẹp ngủ (*Sleeping Beauty*: ngửa thì được đánh thức một lần, sấp thì hai lần; khi thức dậy, độ tin vào mặt ngửa là bao nhiêu?) (n ≈ 430) | Một phần ba | 27,7 |  |
+|  | Một nửa | 18,6 |  |
+|  | Khác | 53,4 |  |
 | Căn phòng tiếng Trung (n ≈ 1.030) | Hiểu | 17,8 |  |
 |  | Không hiểu | 67,1 |  |
 |  | Khác | 14,9 |  |
@@ -227,7 +230,18 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Trẻ sơ sinh | 84,3 / 4,9 |  |
 |  | Hệ thống AI hiện tại (năm 2020) | 3,4 / 82,4 |  |
 |  | Hệ thống AI tương lai | 39,2 / 26,8 |  |
-| Bản chất của đạo đức (n ≈ 1.030) | Phi tự nhiên luận | 26,6 | 24,2 |
+| Nền tảng của ý hướng tính (*grounds of intentionality*) (n ≈ 720) | Nhân quả / mục đích (*causal/teleological*) | 34,7 | 29,8 |
+|  | Suy luận (*inferential*) | 9,5 | 6,7 |
+|  | Diễn giải (*interpretational*) | 15,1 | 12,1 |
+|  | Hiện tượng (*phenomenal*) | 12,6 | 10,0 |
+|  | Nguyên sơ (*primitive*) | 13,7 | 12,4 |
+|  | Khác | 22,3 |  |
+| Thái độ mệnh đề (*propositional attitudes*) (n ≈ 790) | Khuynh hướng (*dispositional*) | 31,5 | 25,8 |
+|  | Hiện tượng (*phenomenal*) | 6,9 | 4,4 |
+|  | Biểu thị (*representational*) | 46,5 | 40,9 |
+|  | Không tồn tại | 3,5 | 3,3 |
+|  | Khác | 18,9 |  |
+| Bản chất của đạo đức (n ≈ 1.020) | Phi tự nhiên luận | 26,6 | 24,2 |
 |  | Hiện thực luận tự nhiên | 31,6 | 28,1 |
 |  | Kiến tạo luận | 20,8 | 17,7 |
 |  | Biểu cảm luận (*expressivism*) | 10,6 | 8,2 |
@@ -240,9 +254,14 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Kiểu Hume | 30,6 | 28,3 |
 |  | Kiểu Kant | 18,9 | 15,9 |
 |  | Khác | 16,1 |  |
+| Khái niệm chuẩn tắc (khái niệm nào cơ bản nhất?) (n ≈ 860) | Sự phù hợp (*fit*) | 7,3 | 5,0 |
+|  | Phải (*ought*) | 14,2 | 10,6 |
+|  | Lý do (*reasons*) | 25,4 | 21,5 |
+|  | Giá trị (*value*) | 37,4 | 32,8 |
+|  | Khác | 24,5 |  |
 | "Phải" kéo theo "có thể" (*ought implies can*) (n ≈ 1.080) | Có | 62,9 |  |
 |  | Không | 28,3 |  |
-|  | Khác | 9 |  |
+|  | Khác | 9,0 |  |
 | Phúc lợi (*well-being*) (n ≈ 970) | Khoái lạc/trải nghiệm | 12,7 | 10,1 |
 |  | Thỏa mãn ước muốn | 18,6 | 15,1 |
 |  | Danh sách khách quan | 53,2 | 49,9 |
@@ -266,11 +285,11 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Chủ nghĩa xã hội | 53,0 | 48,6 |
 |  | Khác | 19,3 |  |
 | Phương pháp triết học chính trị (n ≈ 790) | Lý thuyết lý tưởng | 32,4 | 22,4 |
-|  | Lý thuyết phi lý tưởng | 58 | 48 |
+|  | Lý thuyết phi lý tưởng | 58,0 | 48,0 |
 |  | Khác | 18,8 |  |
 | Luật pháp (n ≈ 620) | Thực chứng luận pháp lý | 39,5 |  |
-|  | Phi thực chứng luận pháp lý | 45 |  |
-|  | Khác | 16 |  |
+|  | Phi thực chứng luận pháp lý | 45,0 |  |
+|  | Khác | 16,0 |  |
 | Phạm trù giới (nên làm gì với chúng?) (n ≈ 980) | Giữ nguyên | 20,4 |  |
 |  | Sửa đổi | 50,9 |  |
 |  | Loại bỏ | 16,3 |  |
@@ -309,7 +328,7 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Không tồn tại | 8,1 |  |
 |  | Khác | 29,1 |  |
 | Cấu thành vật chất (khi nào nhiều vật hợp thành một vật?) (n ≈ 570) | Không bao giờ (hư vô luận) | 8,2 |  |
-|  | Đôi khi (hạn chế luận) | 35 |  |
+|  | Đôi khi (hạn chế luận) | 35,0 |  |
 |  | Luôn luôn (phổ biến luận) | 27,4 |  |
 |  | Khác | 30,1 |  |
 | Bức tượng và khối đất sét (n ≈ 960) | Một vật | 30,1 |  |
@@ -331,18 +350,52 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Đa thế giới | 19,4 | 17,1 |
 |  | Tri thức (hàm sóng chỉ là thông tin) | 12,8 | 11,3 |
 |  | Khác | 32,0 |  |
+| Siêu hình học liên tầng (khái niệm nào hữu ích nhất?) (n ≈ 750) | Nền tảng (*grounding*) | 29,1 | 22,3 |
+|  | Đồng nhất (*identity*) | 11,5 | 6,8 |
+|  | Hiện thực hóa (*realization*) | 21,0 | 14,2 |
+|  | Phụ thuộc (*supervenience*) | 24,7 | 18,4 |
+|  | Khác | 28,3 |  |
+| Siêu bản thể học (*metaontology*) (n ≈ 700) | Hiện thực luận mạnh (*heavyweight realism*) | 38,6 |  |
+|  | Hiện thực luận giảm phát (*deflationary realism*) | 28,1 |  |
+|  | Phản hiện thực luận (*anti-realism*) | 11,9 |  |
+|  | Khác | 21,6 |  |
+| Không–thời gian (n ≈ 630) | Quan hệ luận (*relationism*) | 45,4 |  |
+|  | Thực thể luận (*substantivalism*) | 27,5 |  |
+|  | Khác | 27,0 |  |
 | Giá trị trong khoa học (n ≈ 960) | Nhất thiết trung lập giá trị | 17,7 |  |
 |  | Nhất thiết mang giá trị | 44,0 |  |
 |  | Có thể cả hai | 31,1 |  |
 |  | Khác | 7,2 |  |
+| Đơn vị chọn lọc (n ≈ 680) | Gen | 43,5 | 33,0 |
+|  | Sinh vật (*organisms*) | 43,1 | 32,7 |
+|  | Khác | 23,3 |  |
 | Mâu thuẫn đúng (n ≈ 920) | Bất khả | 71,4 |  |
 |  | Khả hữu nhưng không có thật | 4,8 |  |
 |  | Có thật | 12,4 |  |
 |  | Khác | 11,7 |  |
+| Giả thuyết continuum (có giá trị chân lý xác định không?) (n ≈ 480) | Xác định | 37,7 |  |
+|  | Không xác định | 28,7 |  |
+|  | Khác | 33,7 |  |
+| Nền tảng của toán học (n ≈ 600) | Kiến tạo luận / trực giác luận (*constructivism/intuitionism*) | 15,3 | 13,7 |
+|  | Hình thức luận (*formalism*) | 6,2 | 5,2 |
+|  | Logic luận (*logicism*) | 11,8 | 10,3 |
+|  | Cấu trúc luận (*structuralism*) | 21,2 | 17,8 |
+|  | Lý thuyết tập hợp (*set-theoretic*) | 15,3 | 13,0 |
+|  | Khác | 34,3 |  |
 | Lý thuyết quy chiếu (n ≈ 880) | Nhân quả | 46,3 | 41,0 |
 |  | Mô tả | 22,1 | 17,0 |
 |  | Giảm phát | 15,1 | 14,0 |
 |  | Khác | 21,6 |  |
+| Mệnh đề (là gì?) (n ≈ 810) | Tập hợp (*sets*) | 8,4 |  |
+|  | Thực thể có cấu trúc (*structured entities*) | 38,3 |  |
+|  | Thực thể đơn (*simple entities*) | 6,9 |  |
+|  | Hành vi (*acts*) | 8,1 |  |
+|  | Không tồn tại | 15,4 |  |
+|  | Khác | 25,0 |  |
+| Nội dung ngữ nghĩa (biểu thức nào phụ thuộc ngữ cảnh?) (n ≈ 780) | Tối thiểu luận (*minimalism*): không quá vài biểu thức | 9,4 |  |
+|  | Ngữ cảnh luận vừa phải (*moderate contextualism*): mức trung gian | 52,5 |  |
+|  | Ngữ cảnh luận triệt để (*radical contextualism*): phần lớn hoặc tất cả | 25,5 |  |
+|  | Khác | 13,1 |  |
 | Khái niệm (n ≈ 860) | Bẩm sinh luận | 28,1 | 23,3 |
 |  | Duy nghiệm luận | 50,3 | 45,1 |
 |  | Khác | 25,1 |  |
@@ -350,7 +403,10 @@ Kết quả đầy đủ: https://survey2020.philpeople.org/
 |  | Một ít | 32,5 |  |
 |  | Nhiều | 56,2 |  |
 |  | Khác | 8,1 |  |
-| Platon (quan điểm của ông là gì?) (n ≈ 630) | Chỉ có tri thức về các Form | 52,8 |  |
+| Phương pháp nghiên cứu lịch sử triết học (bạn chọn cách nào?) (n ≈ 940) | Tái dựng phân tích / duy lý (*analytic/rational reconstruction*) | 60,8 | 42,9 |
+|  | Theo ngữ cảnh / lịch sử (*contextual/historicist*) | 44,4 | 26,8 |
+|  | Khác | 12,0 |  |
+| Platon (quan điểm của ông là gì?) (n ≈ 630) | Chỉ có tri thức về các Ý niệm (*Form*) | 52,8 |  |
 |  | Có cả tri thức về vật cụ thể | 28,2 |  |
 |  | Khác | 19,2 |  |
 | Hume (quan điểm của ông là gì?) (n ≈ 870) | Nhà hoài nghi | 36,5 | 28,9 |

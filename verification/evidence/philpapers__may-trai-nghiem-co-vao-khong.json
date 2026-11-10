@@ -1,0 +1,102 @@
+{
+  "unit": "philpapers/may-trai-nghiem-co-vao-khong",
+  "hash": "sha256:f39e362472682d2a5e0cb7e437e52fe504ceacfc725a787d3c246aa6a70c9990",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Máy trải nghiệm (có vào không?) [Experience machine]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Experience machine (would you enter?)",
+          "where": "Bảng 1, tiêu đề câu Experience machine"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Experience machine (would you enter?): yes or no?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Experience machine nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Experience machine"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1640",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1642, excluding skipped & insufficiently familiar (143 respondents)",
+          "where": "Experience machine"
+        }
+      ]
+    },
+    {
+      "text": "Có [Yes]: 13,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Yes 219 13.3",
+          "where": "Bảng 1, câu Experience machine (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "13.34% (13.34%)",
+          "where": "Experience machine, yes: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Không [No]: 76,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "No 1262 76.9",
+          "where": "Bảng 1, câu Experience machine (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "76.86% (76.86%)",
+          "where": "Experience machine, no: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 9,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 160 9.7",
+          "where": "Bảng 1, câu Experience machine, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null."
+}
