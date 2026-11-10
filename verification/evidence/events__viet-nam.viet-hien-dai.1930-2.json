@@ -2,7 +2,7 @@
   "unit": "events/viet-nam.viet-hien-dai.1930-2",
   "hash": "sha256:186d89c122d41fbcb5e38048116fd550503360f7b39688305091297b190ce8bb",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-u01",
+  "checker": "agent-kiem-5.2-v01",
   "claims": [
     {
       "text": "Năm 1930 có tổ chức mác-xít ở Việt Nam (Đảng Cộng sản Việt Nam thành lập năm 1930)",
@@ -31,9 +31,21 @@
     {
       "text": "Khoảng năm 1930, báo chữ Quốc ngữ có bàn về Rousseau",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Vấn_đề_phụ_nữ_giải_phóng_với_nhân_sanh_quan",
+          "quote": "phải kể một phần lớn nhờ chịu ảnh hưởng của cái học thuyết J.J. Rousseau.",
+          "where": "Phan Khôi, Phụ nữ tân văn (Sài Gòn) số 158 (7.7.1932) và số 160 (21.7.1932); bàn dài về Rousseau và giáo dục phụ nữ"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Luận_về_chánh_học_cùng_tà_thuyết",
+          "quote": "ông Lư (Rousseau)",
+          "where": "Ngô Đức Kế, Hữu Thanh số 21, 1/9/1924; chỉ nhắc Rousseau, bối cảnh phê phán"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): ĐCSVN thành lập 3/2/1930 khớp Britannica; bối cảnh Nho học suy giảm/trí thức phương Tây giữ từ bằng chứng cũ. Vế 'báo chữ Quốc ngữ bàn về Rousseau khoảng 1930' chưa có nguồn: chỉ tìm thấy Nguyễn An Ninh dịch 'Dân ước' trên báo La Cloche fêlée năm 1923 (lời nói đầu bản dịch của Hoàng Thanh Đạm, archive.org; báo viết bằng tiếng Pháp, nên không khớp 'Quốc ngữ' và không khớp 1930). Đề xuất: nêu cụ thể (ví dụ Nguyễn An Ninh dịch 'Dân ước' 1923) kèm nguồn tốt, hoặc đổi thành 'báo chí đương thời bàn về các tư tưởng Tây phương như Rousseau' và dán nhãn [có cơ sở] hay [giả định minh họa]. Câu là hình ảnh giả định minh họa, không phải sự kiện có năm cụ thể."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-v01): vế Rousseau nay có nguồn: Phan Khôi bàn về học thuyết Rousseau trên Phụ nữ tân văn (chữ Quốc ngữ, Sài Gòn) tháng 7/1932, gần 1930; Hữu Thanh 1924 cũng nhắc. Hai claim cũ (ĐCSVN 3/2/1930; Nho học suy giảm, trí thức tiếp xúc Tây học) giữ nguyên từ bằng chứng cũ, chữ bản ghi không đổi ở các vế đó. Câu là hình ảnh giả định minh họa."
 }

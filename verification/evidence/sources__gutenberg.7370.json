@@ -1,8 +1,8 @@
 {
   "unit": "sources/gutenberg.7370",
-  "hash": "sha256:7677d5b14b2b38d8d296c45b642ba90dcd80ca223a5d8c207ed9db7b1ba3e7a0",
+  "hash": "sha256:ad12ea3b62730223c174401d02f4c6a3934ed6407d31707c25bbd85eee505b4e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-u01",
+  "checker": "agent-kiem-5.2-v01",
   "claims": [
     {
       "text": "Ebook #7370 là Locke, Second Treatise of Government (phần hai của Two Treatises of Government), URL mở được",
@@ -34,32 +34,18 @@
       ]
     },
     {
-      "text": "Bản in lại lần thứ sáu, 1763 (trang bìa trong ebook)",
+      "text": "Second Treatise là phần hai của Two Treatises of Government",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.gutenberg.org/cache/epub/7370/pg7370.txt",
-          "quote": "REPRINTED, THE SIXTH TIME, BY A. MILLAR, H. WOODFALL",
-          "where": "trang bìa ebook; ngay sau danh sách nhà in là 'MDCCLXIII'"
-        }
-      ]
-    },
-    {
-      "text": "Bản Project Gutenberg này theo bản in lại lần thứ sáu 1763 (ngụ ý nguồn văn bản của ebook)",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Ghi: 'Project Gutenberg #7370, số hóa từ bản Hackett 1980 của C. B. Macpherson (văn bản gốc năm 1690); trang bìa in trong ebook là của bản in lại lần thứ sáu, 1763'. Hoặc bỏ cụm 'theo bản in lại lần thứ sáu, 1763'.",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370.txt",
-          "quote": "This text is recovered entire from the paperback book",
-          "where": "lời đề đầu ebook: nguồn là sách Hackett 1980 do C. B. McPherson biên soạn, 'only the original words contained in the 1690 Locke text'"
+          "quote": "TWO TREATISES OF GOVERNMENT",
+          "where": "trang bìa in trong ebook; phần chính văn đề SECOND TREATISE OF GOVERNMENT"
         }
       ]
     }
   ],
-  "result": "sua",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): các cách ghi của mục đã bỏ 'trang bìa ghi 1690' và Churchill nên các lỗi cũ không còn. Còn lại: ebook tự nói text 'published in 1690' và 'The 1690 edition text', trong khi trang ebook ghi 1689 (cả hai đều là cách ghi thông dụng: bản đầu in đề năm 1690, ra cuối 1689; mục chọn 1689 là chấp nhận được, nên thống nhất với bài Locke ở nơi khác). Trang bìa trong ebook ghi 'LONDON PRINTED MDCLXXXVIII' (dòng nhái lại bìa ấn bản cổ, 1688 kiểu cũ) rồi 'REPRINTED, THE SIXTH TIME ... MDCCLXIII'. Vì ebook nói rõ văn bản số hóa từ sách Macpherson/Hackett 1980, cụm 'theo bản in lại lần thứ sáu, 1763' dễ khiến hiểu nhầm nguồn văn bản (mức vừa, người làm cân nhắc)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-v01): dòng nguồn nay chỉ ghi Project Gutenberg #7370, không còn cụm bản in lại 1763 nên claim sai cũ (vua) đã được sửa. Trang ebook ghi 1689; ebook tự ghi 'published in 1690' (hai cách ghi thông dụng, 1689 chấp nhận được; nên thống nhất với bài Locke)."
 }
