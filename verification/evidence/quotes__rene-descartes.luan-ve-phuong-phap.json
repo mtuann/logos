@@ -1,0 +1,79 @@
+{
+  "unit": "quotes/rene-descartes.luan-ve-phuong-phap",
+  "hash": "sha256:f7aebc93fc502bf72e6180f232b811316ab43a7b9b8bb8953233a82981e0ef83",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q09",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh (Veitch) đúng từng chữ: từ 'But immediately upon this I observed' đến 'capable of shaking it' (câu có dấu […] cuối)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/59/pg59.txt",
+          "quote": "But immediately upon this I observed that, whilst I thus wished to",
+          "where": "PART IV"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/59/pg59.txt",
+          "quote": "think, therefore I am (COGITO ERGO SUM), was so certain and of such",
+          "where": "PART IV"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/59/pg59.txt",
+          "quote": "by the sceptics capable of shaking it, I concluded that I might,",
+          "where": "PART IV"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh là của John Veitch; URL Gutenberg 59 đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/59",
+          "quote": "John Veitch",
+          "where": "Translator, ebook 59"
+        }
+      ]
+    },
+    {
+      "text": "Phần IV của Luận về phương pháp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/59/pg59.txt",
+          "quote": "PART IV",
+          "where": "tiêu đề phần chứa câu"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (whilst... wished to think that all was false; somewhat = một cái gì đó; sceptics = người hoài nghi)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/59/pg59.txt",
+          "quote": "it was absolutely necessary that I, who thus",
+          "where": "PART IV"
+        }
+      ]
+    },
+    {
+      "text": "locator: Phần IV (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/59/pg59.txt",
+          "quote": "PART IV"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Một chi tiết nhỏ: nguyên văn Veitch viết 'whilst', 'sceptics' như bản ghi. Bản dịch Việt đổi 'think' thành 'tư duy' trong cụm 'tôi tư duy, vậy tôi tồn tại', thoáng hơn nhưng đúng ý. work 'chua-ro.luan-ve-phuong-phap' có vẻ là khóa tạm, người làm xem. Năm 1637 đúng (Gutenberg ghi 1637). Khuyến nghị: ghi 'Part IV' thay 'phần IV' nếu cần thống nhất."
+}

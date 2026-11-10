@@ -1,0 +1,56 @@
+{
+  "unit": "quotes/trich.cam-nang-48",
+  "hash": "sha256:2241ae038344d2847f2e9821ba65068d88201ad86eb5b9a0f4efdd477e77f7b4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q11",
+  "claims": [
+    {
+      "text": "Nguyên văn khớp bản dịch George Long, Cẩm nang §48 (chỉ khác dấu câu nhỏ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/text/the-enchiridion",
+          "quote": "The signs (marks) of one who is making progress are these: he censures no man, he praises no man"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Epictetus; dịch giả George Long; năm 1877",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalog.oslri.net/Record/265951",
+          "quote": "London : G. Bell, 1877."
+        }
+      ]
+    },
+    {
+      "text": "locator: §48 (chương 48)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/text/the-enchiridion",
+          "quote": "The signs (marks) of one who is making progress are these: he censures no man, he praises no man"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Dịch 'he praises no man' là 'không khen ai' (không phải 'tâng bốc', nghĩa là nịnh, mạnh hơn nguyên văn); phần còn lại đúng.",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/text/the-enchiridion",
+          "quote": "he censures no man, he praises no man"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguyên văn trích bỏ phần sau 'knew something' và dấu chấm phẩy cuối (đúng, có trích cắt). Lỗi dịch 'tâng bốc' mức nhe. Nguồn Standard Ebooks (không ghi tên dịch giả/năm trên trang chương; năm 1877 xác nhận qua mục lục thư viện G. Bell 1877, nguồn yếu; nên thêm link Wikisource/Internet Archive archive.org/details/discoursesofepic00epicrich). Long (mất 1879) thuộc phạm vi công cộng."
+}

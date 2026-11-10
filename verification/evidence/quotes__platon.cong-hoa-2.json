@@ -1,0 +1,51 @@
+{
+  "unit": "quotes/platon.cong-hoa-2",
+  "hash": "sha256:a41b193f22a2b32b0da6b4a9f6558cf37ea4f483b1e4413e3c2ef0efb0a07d54",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q09",
+  "claims": [
+    {
+      "text": "Nguyên văn \"Whenever a number of individuals have a common name, we assume them to have also a corresponding idea or form.\" đúng từng chữ (Quyển X, bản Jowett)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.11.x.html",
+          "quote": "Whenever a number of individuals have a common name, we assume them to have also a corresponding idea or form.",
+          "where": "Book X"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh là của Jowett; URL Gutenberg 1497 trỏ đúng Cộng hòa (Jowett)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "Benjamin Jowett",
+          "where": "Translator, ebook 1497"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (common name = chung một tên gọi; idea or form = ý niệm hay mô thức)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.11.x.html",
+          "quote": "a common name",
+          "where": "Book X"
+        }
+      ]
+    },
+    {
+      "text": "locator: 596a (tiêu đề ghi X, 596a; không mở được nguồn có số Stephanus: Perseus chặn công cụ, SEP không dẫn 596a)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Quyển X xác nhận ở classics.mit.edu; chưa xác nhận được 596a nên claim locator để chua-kiem-duoc (kiến thức chung nói 596a, nhưng không ghi dung theo trí nhớ). Câu ở đầu đoạn Socrates hỏi Glaucon về mô thức, ngắn (1 câu), không rủi ro bản bản quyền."
+}

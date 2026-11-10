@@ -1,0 +1,58 @@
+{
+  "unit": "quotes/simone-de-beauvoir.le-deuxieme-sexe",
+  "hash": "sha256:362b07953d7100d9ca94d3a5b9c1f4d69971b99a9730e4a1f8817cd817fdbb61",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q10",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"On ne naît pas femme : on le devient.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "On ne naît pas femme: on le devient",
+          "where": "SEP, trích The Second Sex 1949"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Simone de Beauvoir, Le Deuxième Sexe (Gallimard, 1949)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "perhaps the most famous line of The Second Sex",
+          "where": "SEP Beauvoir (nội dung trang, đoạn nói về sex-gender)"
+        }
+      ]
+    },
+    {
+      "text": "locator: tập II, phần một, chương 1 \"Enfance\", câu mở đầu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/5863/chapter/309621765",
+          "quote": "The opening line of the first chapter of the second volume",
+          "where": "mô tả chương sách OUP, The Life of a Sentence"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Người ta không sinh ra là đàn bà: người ta trở thành đàn bà.\" sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "One is not born but becomes a woman",
+          "where": "SEP, bản dịch 1953"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chỉ trích một câu, rủi ro bản quyền thấp. Khác biệt nhỏ: dấu cách trước dấu hai chấm theo quy ước chữ Pháp, SEP in không cách; không đáng sửa. Tên 'phần một' (Formation) và 'chương 1' không in trên trang SEP; OUP chỉ xác nhận đây là câu mở đầu chương đầu của tập II. Nguồn trong record là SEP (nguồn thứ cấp), nên thêm bản in Gallimard nếu có."
+}

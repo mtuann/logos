@@ -1,0 +1,67 @@
+{
+  "unit": "quotes/trich.binh-ngo-dai-cao-theo-toan-thu-2",
+  "hash": "sha256:edd6c988bae8eaca2835013130401cd26f0259113f103ba592ef33e82acea1bc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q11",
+  "claims": [
+    {
+      "text": "Nguyên văn chữ Hán khớp văn bản Toàn thư (Wikisource, 本紀卷之十), từng chữ: đoạn tội ác giặc Minh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "決東海之水,不足以濯其污。罄南山之竹,不足以書其惡。神人之所共憤,天地之所不容。"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Nguyễn Trãi (阮廌), tác phẩm Bình Ngô đại cáo (平吳大誥) trong Toàn thư",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "大越史記全書"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán-Việt khớp nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "決東海之水,不足以濯其污。罄南山之竹,不足以書其惡。神人之所共憤,天地之所不容。"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn: đúng ('Khánh' = 罄, hết)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "決東海之水,不足以濯其污。罄南山之竹,不足以書其惡。神人之所共憤,天地之所不容。"
+        }
+      ]
+    },
+    {
+      "text": "locator: (tiêu đề chỉ ghi 'theo Toàn thư', chưa có quyển)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đại Việt sử ký toàn thư, Bản kỷ thực lục, quyển X (本紀卷之十), mục Lê Thái Tổ",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "大越史記全書"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn: zh.wikisource.org (Wikisource, bản chép Toàn thư; không phải ảnh bản khắc nên là nguồn hạng vừa). Bản Hoàng Việt văn tuyển trên vi.wikisource khác vài chữ (弔, 神民, 孝生...), nên bài cần ghi rõ 'theo Toàn thư' như đã ghi. Locator trong Toàn thư là quyển X; người làm điền trường locator. Văn bản phạm vi công cộng."
+}

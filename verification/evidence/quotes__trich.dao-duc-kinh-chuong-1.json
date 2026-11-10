@@ -1,0 +1,69 @@
+{
+  "unit": "quotes/trich.dao-duc-kinh-chuong-1",
+  "hash": "sha256:d1a14e9edea702ab571376841c4c2e7e2ffd7790f594afa8f21e2e2bc76a2709",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q12",
+  "claims": [
+    {
+      "text": "Nguyên văn chương 1: 道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道,非常道,名可名,非常名;",
+          "where": "chương 1"
+        }
+      ]
+    },
+    {
+      "text": "Vế 無名天地之始，有名萬物之母",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "無名,天地之始,有名,萬物之母。",
+          "where": "chương 1"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương 1 (như tiêu đề)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道,非常道,名可名,非常名;",
+          "where": "chương 1"
+        }
+      ]
+    },
+    {
+      "text": "Người nói/tác phẩm: Đạo đức kinh (Lão Tử), bản Vương Bật",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道,非常道,名可名,非常名;",
+          "where": "道德經 (王弼本)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt và phiên âm sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道,非常道,名可名,非常名;"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn: zh.wikisource (Vương Bật; đọc qua WebFetch, dấu câu của trang khác bản trong kho, chỉ tính là khác dấu câu). Ctext bị chặn tự động. "
+}

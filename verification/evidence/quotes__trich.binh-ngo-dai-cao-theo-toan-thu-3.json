@@ -1,0 +1,75 @@
+{
+  "unit": "quotes/trich.binh-ngo-dai-cao-theo-toan-thu-3",
+  "hash": "sha256:97302c53cc55e29ae83620b796516ff9562565eeee46baae99c05f1d70f486ed",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q11",
+  "claims": [
+    {
+      "text": "Nguyên văn chữ Hán khớp văn bản Toàn thư (Wikisource, 本紀卷之十), từng chữ: ba đoạn rút gọn bằng ……",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "卒能以大義而勝凶殘,以至仁而易強暴。"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "神武不殺,予亦體上帝好生之心。"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "乾坤既否而復泰,日月既晦而復明。"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Nguyễn Trãi (阮廌), tác phẩm Bình Ngô đại cáo (平吳大誥) trong Toàn thư",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "大越史記全書"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán-Việt khớp nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "卒能以大義而勝凶殘,以至仁而易強暴。"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn: đúng; ba câu cách xa nhau trong văn bản nhưng bản ghi đã đánh dấu ……",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "卒能以大義而勝凶殘,以至仁而易強暴。"
+        }
+      ]
+    },
+    {
+      "text": "locator: (tiêu đề chỉ ghi 'theo Toàn thư', chưa có quyển)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đại Việt sử ký toàn thư, Bản kỷ thực lục, quyển X (本紀卷之十), mục Lê Thái Tổ",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "大越史記全書"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn: zh.wikisource.org (Wikisource, bản chép Toàn thư; không phải ảnh bản khắc nên là nguồn hạng vừa). Bản Hoàng Việt văn tuyển trên vi.wikisource khác vài chữ (弔, 神民, 孝生...), nên bài cần ghi rõ 'theo Toàn thư' như đã ghi. Locator trong Toàn thư là quyển X; người làm điền trường locator. Văn bản phạm vi công cộng."
+}
