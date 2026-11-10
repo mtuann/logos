@@ -2,7 +2,7 @@
   "unit": "sources/sep.descartes",
   "hash": "sha256:6a17a28c82f79f0bf1fdf616970cba6aa43c1e7e811fa03e45a23613127a1bc3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s04",
+  "checker": "agent-kiem-5.2-r36",
   "claims": [
     {
       "text": "Mục SEP \"René Descartes\" có thật; bản lưu fall2026 mở được và trỏ đúng mục",
@@ -11,8 +11,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
-          "quote": "René Descartes",
-          "where": "tiêu đề mục"
+          "quote": "René Descartes (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang"
         }
       ]
     },
@@ -23,17 +23,24 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
-          "quote": "Hatfield, Gary",
-          "where": "metadata/bản quyền"
+          "quote": "Copyright © 2023 by\nGary Hatfield",
+          "where": "dòng Copyright cuối trang"
         }
       ]
     },
     {
       "text": "Chú thích: mục bàn bảy bộ phản bác, Arnauld và vòng tròn Descartes",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "he and Mersenne collected seven sets of objections to the Meditations",
+          "where": "đoạn về Objections; mục 3.2 \"The mark of truth and the circle\"; trích Arnauld: \"how the author avoids reasoning in a circle\""
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "texts_seen: mọi cách ghi cùng tên mục, tác giả; nên thống nhất dạng 'Họ, Tên, “Tên mục”, Stanford Encyclopedia of Philosophy. <URL bản lưu>'. Phần chú thích nội dung (bảy bộ phản bác/AT...) chưa đối chiếu: văn bản tải được của mục bị cắt ~15%; tên mục và tác giả đã khớp."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): texts_seen chỉ khác cách ghi (có/không chú thích; nháy cong/thẳng); nên thống nhất một dạng."
 }

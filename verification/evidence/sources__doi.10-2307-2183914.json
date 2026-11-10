@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-2307-2183914",
   "hash": "sha256:7b4357712ef70ae0ec0c3b9537efa6528692511c18df9e5298e5bd716b06382a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s12",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
       "text": "Nagel (1974) 'What Is It Like to Be a Bat?', Phil. Review 83(4)",
@@ -11,16 +11,23 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2183914",
-          "quote": "\"title\": \"What Is It Like to Be a Bat?\"; \"volume\":\"83\"; \"issue\":\"4\"; \"page\":\"435\""
+          "quote": "\"title\":[\"What Is It Like to Be a Bat?\"]; \"volume\":\"83\"; \"issue\":\"4\""
         }
       ]
     },
     {
       "text": "Trang 435–450",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2183914",
+          "quote": "Vol. 83, No. 4, Oct., 1974; pageStart 435, pageEnd 450 (pageCount 16)",
+          "where": "trang ổn định JSTOR, dòng Vol./pp."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref khớp tên bài, tạp chí, tập, số, năm; trang JSTOR cho đủ khoảng trang. DOI trỏ đúng bài. "
 }

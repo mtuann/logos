@@ -2,26 +2,45 @@
   "unit": "sources/ctext.analects-xian-jin",
   "hash": "sha256:38bd1eedf71c72d9c74039667b91b226554963dfd2d7016c3205010a64e8c827",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Luận ngữ thiên Tiên tiến 11.24 có nguyên văn trên URL ctext.org/analects/xian-jin",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Khổng Tử, Luận ngữ có trên ctext, thiên Tiên tiến (先進) là thiên 11",
+      "text": "Luận ngữ thiên Tiên tiến 11.24 (nguyên văn chữ Hán)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://ctext.org/analects",
-          "quote": "11. 先進 - Xian Jin",
-          "where": "danh mục chương"
+          "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+          "quote": "子路使子羔爲費宰。子曰：「賊夫人之子。」",
+          "where": "đoạn thứ 24 của thiên 先進"
+        }
+      ]
+    },
+    {
+      "text": "Thiên Tiên tiến (先進) là thiên 11 của Luận ngữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+          "quote": "先進第十一",
+          "where": "tên trang Wikisource"
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org/analects/xian-jin trỏ đúng thiên Tiên tiến",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/先進第十一",
+          "quote": "子路使子羔爲費宰。",
+          "where": "đối chiếu ở zh.wikisource 論語/先進第十一; URL theo mẫu của site (quyết định 34)"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. Không ghi dung 11.24 theo trí nhớ."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đoạn 子路使子羔為費宰 đứng thứ 24 theo thứ tự đoạn trong trang Wikisource. Quote 'tên trang' là tiêu đề trang, không phải câu trong thân bài."
 }

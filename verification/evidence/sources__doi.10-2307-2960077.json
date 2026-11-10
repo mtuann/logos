@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-2307-2960077",
   "hash": "sha256:44e3cdea0626d92beb904edb27af539cd531002438770c8d994ec6c11bdc131b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s12",
+  "checker": "agent-kiem-5.2-r33",
   "claims": [
     {
       "text": "Jackson (1982) 'Epiphenomenal Qualia', Phil. Quarterly 32(127)",
@@ -18,9 +18,16 @@
     {
       "text": "Trang 127–136",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2960077",
+          "quote": "Vol. 32, No. 127 (Apr., 1982), pp. 127-136 (10 pages)",
+          "where": "trang JSTOR, đầu trang"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r33): JSTOR ghi đủ khoảng trang; Crossref đã khớp tên, tạp chí, tập, trang đầu."
 }

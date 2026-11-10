@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.suttacentral-net.sn12-15-en-sujato",
+  "hash": "sha256:09dbe8abc2a629c8227724922da1f6e65a262d87fd077cb593565136a3215ca2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng SN 12.15 Kaccānagottasutta, bản dịch Bhikkhu Sujato",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/sn12.15/en/sujato",
+          "quote": "SN 12.15: Kaccānagottasutta—Bhikkhu Sujato",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Trung luận (MMK) 15.7 dẫn lại bài kinh này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/sn12.15/en/sujato",
+          "quote": "It was cited by name in Nāgārjuna’s Mūlamadhyamakakārikā 15.7",
+          "where": "ghi chú đầu bài kinh"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của Sujato theo giấy phép CC0 (trang kinh và trang /licensing không nêu giấy phép riêng của bản dịch Sujato; /licensing chỉ nói CC0 cho tư liệu SuttaCentral tự tạo)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): chỉ còn claim giấy phép CC0 chưa thấy chữ trên trang đã mở; đề nghị người làm kiểm ở github.com/suttacentral/bilara-data hoặc trang xuất bản của Sujato. Nội dung còn lại đạt."
+}

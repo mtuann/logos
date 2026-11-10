@@ -2,14 +2,111 @@
   "unit": "sources/ctext.mozi-universal-love-i",
   "hash": "sha256:c5d4e05b3dda67e61fa13f261178216e4842be9abb5f8661df2fc675e99bfa00",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Mặc Tử thiên 14, 16, 17, 26, 50 và bản dịch W. P. Mei (1929) trên ctext (URL mở được, đúng tác phẩm và nội dung)",
+      "text": "Mặc Tử thiên 14 (Kiêm ái thượng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
+          "quote": "兼愛上第十四",
+          "where": "tiêu đề trang"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子",
+          "quote": "兼愛上",
+          "where": "thứ tự thứ 14 trong mục lục"
+        }
+      ]
+    },
+    {
+      "text": "Thiên 16 (Kiêm ái hạ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+          "quote": "兼愛下第十六",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Thiên 17 (Phi công thượng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "非攻上第十七",
+          "where": "tiêu đề trang"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "今有一人，入人園圃，竊其桃李"
+        }
+      ]
+    },
+    {
+      "text": "Thiên 26 (Thiên chí thượng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子",
+          "quote": "天志上",
+          "where": "thứ tự thứ 26 trong mục lục (đếm các mục)"
+        }
+      ]
+    },
+    {
+      "text": "Thiên 50 (Công Thâu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/公輸",
+          "quote": "公輸般爲楚造雲梯之械成，將以攻宋。",
+          "where": "thứ tự thứ 50 trong mục lục (đếm các mục)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch W. P. Mei (1929): The Ethical and Political Works of Motse (A. Probsthain, London)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=ethical+and+political+works+of+motse&fields=title,author_name,first_publish_year,publisher",
+          "quote": "\"first_publish_year\":1929,\"publisher\":[\"Hyperion Press\",\"Cheng Wen Pub. Co.\",\"A. Probsthain\"],\"title\":\"The ethical and political works of Motse\""
+        },
+        {
+          "url": "https://archive.org/metadata/ethicalpolitical0000moti/metadata",
+          "quote": "Reprint of the 1929 ed. published by A. Probsthain, London"
+        }
+      ]
+    },
+    {
+      "text": "Dịch giả ghi là W. P. Mei",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Yi-pao Mei (Mei Yi-pao, 1900-)",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/ethicalpolitical0000moti/metadata",
+          "quote": "\"associated-names\":\"Mei, I-pao, 1900-\""
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Mei có đủ các thiên 14, 16, 17, 26, 50 và hiển thị trên ctext ở các URL đã ghi",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. "
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Nguyên văn và số thiên đối chiếu ở zh.wikisource (số thứ tự theo mục lục trang 墨子). Sách của Mei (1929) có thật (ghi 'Mei, I-pao' trong siêu dữ liệu Internet Archive); không xác nhận được phạm vi thiên Mei đã dịch (nhất là thiên 50) và việc ctext hiển thị chúng. Tên dịch giả trong mục ('W. P. Mei') không khớp 'Mei, I-pao' của thư mục; sửa mức nhẹ."
 }

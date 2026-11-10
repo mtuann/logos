@@ -2,7 +2,7 @@
   "unit": "sources/sep.japanese-philosophy",
   "hash": "sha256:cb882dfde5963a9689f0b91572da1949d366f4f2c9816889d98c3d042a3df1db",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s05",
+  "checker": "agent-kiem-5.2-r36",
   "claims": [
     {
       "text": "Mục \"Japanese Philosophy\" có thật ở bản lưu fall2026",
@@ -11,15 +11,22 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
-          "quote": "First published Fri Apr 5, 2019; substantive revision Sun Jan 11, 2026",
-          "where": "đầu trang"
+          "quote": "Japanese Philosophy (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang"
         }
       ]
     },
     {
-      "text": "Tác giả mục Japanese Philosophy gồm Bouso, Raquel (và Kasulis, Thomas)",
+      "text": "Tác giả mục Japanese Philosophy gồm Kasulis, Thomas và Bouso, Raquel",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "Copyright © 2026 by\nThomas Kasulis",
+          "where": "dòng Copyright cuối trang; metadata: Kasulis, Thomas; Bouso, Raquel"
+        }
+      ]
     },
     {
       "text": "Mục \"The Kyoto School\", Davis, Bret W., có thật ở bản lưu fall2026",
@@ -29,7 +36,7 @@
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/",
           "quote": "First published Mon Feb 27, 2006; substantive revision Mon Sep 14, 2026",
-          "where": "đầu trang; metadata tác giả: Davis, Bret W."
+          "where": "đầu trang (lượt trước đã đọc; tác giả Davis, Bret W. theo metadata)"
         }
       ]
     },
@@ -40,15 +47,11 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
-          "quote": "Japanese Philosophy"
-        },
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/",
-          "quote": "The Kyoto School"
+          "quote": "Japanese Philosophy (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Metadata bản lưu chỉ liệt kê Bouso, Raquel; byline đầy đủ không đọc được qua công cụ. PhilPapers (có thể cũ) ghi mục 'by Thomas Kasulis'. Không xác nhận được rằng bản fall2026 ghi cả Kasulis lẫn Bouso, nên cần người làm mở trang bằng trình duyệt xem byline. Kyoto School: Davis đúng."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): Japanese Philosophy: Kasulis và Bouso xác nhận ở dòng bản quyền. Kyoto School: tôi không mở lại lượt này, giữ kết quả của lượt trước (agent-kiem-5.2-s05)."
 }

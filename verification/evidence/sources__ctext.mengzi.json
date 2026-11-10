@@ -2,19 +2,56 @@
   "unit": "sources/ctext.mengzi",
   "hash": "sha256:397805b73a2b692a9a03b7b8af1bf4b34ad3e582deea99687f86453a1598ef85",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Mạnh Tử 7B14 (Tận tâm hạ) và 1B8 (Lương Huệ Vương hạ) trên ctext.org/mengzi, nguyên văn",
+      "text": "Mạnh Tử 7B14 (Tận tâm hạ), nguyên văn",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+          "quote": "孟子曰：「民為貴，社稷次之，君為輕。",
+          "where": "mục 14"
+        }
+      ]
     },
     {
-      "text": "Bản dịch James Legge có trên trang (texts_seen)",
+      "text": "Mạnh Tử 1B8 (Lương Huệ Vương hạ), nguyên văn",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "聞誅一夫紂矣，未聞弒君也。",
+          "where": "mục 8"
+        }
+      ]
+    },
+    {
+      "text": "texts_seen: bản dịch James Legge của Mạnh Tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius",
+          "quote": "Vol. II (1861) of Legge's series The Chinese Classics, with a second edition in 1895."
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org/mengzi trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+          "quote": "孟子曰：「民為貴，社稷次之，君為輕。",
+          "where": "đối chiếu ở zh.wikisource 孟子 và en.wikisource (Legge); URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. "
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở Wikisource; ctext không mở."
 }

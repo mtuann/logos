@@ -1,0 +1,50 @@
+{
+  "unit": "sources/web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-01-0170",
+  "hash": "sha256:29477626404ee81e8249ab7f30c77d39982fe451c6e639643b7127bd0b673472",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ tới Platon, văn bản Perseus 1999.01.0170 (Plato in Twelve Volumes, vol. 1, bản dịch Harold North Fowler) có mục Apology",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170",
+          "quote": "Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler",
+          "where": "trang mở ở Euthyphro 2a; mục lục có Euthyphro, Apology, Crito, Phaedo; liên kết Apology: ...1999.01.0170:text=Apol."
+        }
+      ]
+    },
+    {
+      "text": "Bản Hy Lạp năm 1903 (Burnet) đi kèm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170",
+          "quote": "Greek (1903)",
+          "where": "tab nguồn Hy Lạp trên trang"
+        }
+      ]
+    },
+    {
+      "text": "Người dịch Harold North Fowler",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170",
+          "quote": "translated by Harold North Fowler"
+        }
+      ]
+    },
+    {
+      "text": "Hy Lạp 1903 là của John Burnet (trang chỉ ghi 'Greek (1903)', chưa mở trang thông tin nguồn)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): URL không dẫn thẳng vào Apology mà mở ở Euthyphro 2a (cùng tập 1); nên dùng liên kết ...1999.01.0170:text=Apol. Chưa xác nhận tên Burnet trên trang."
+}

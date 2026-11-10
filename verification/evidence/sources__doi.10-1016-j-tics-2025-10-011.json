@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-1016-j-tics-2025-10-011",
   "hash": "sha256:37291fea0b14ec66781730b4ac0bd5880378f95556e3d4d2f86140c90f916c11",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s02",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
       "text": "Butlin, Long và cộng sự (2026), Identifying indicators of consciousness in AI systems, Trends in Cognitive Sciences 30(6)",
@@ -10,18 +10,23 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://sciencedaily.com/releases/2026/06/260604044258.htm",
-          "quote": "(2026). Identifying indicators of consciousness in AI systems. Trends in Cognitive Sciences, 30(6), 488.",
-          "where": "trích dẫn trong bản tin ScienceDaily"
+          "url": "https://api.crossref.org/works/10.1016/j.tics.2025.10.011",
+          "quote": "\"title\":[\"Identifying indicators of consciousness in AI systems\"]; \"volume\":\"30\"; \"issue\":\"6\"; issued 2026-6"
         }
       ]
     },
     {
-      "text": "Trang 488–501 (trang cuối 501 chưa xác nhận); DOI resolve tới trang Elsevier",
+      "text": "Trang 488–501; DOI trỏ đúng bài",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.tics.2025.10.011",
+          "quote": "\"page\":\"488-501\"; tác giả đầu Butlin, Long, Bayne, Bengio, Birch, Chalmers…"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn yếu (bản tin ScienceDaily). doi.org chuyển hướng tới linkinghub.elsevier.com/retrieve/pii/S1364661325002864 nhưng trang đó chỉ là 'Redirecting'. Trang bắt đầu 488 khớp; trang cuối chưa có nguồn. Đề xuất kiểm trên trang Cell Press."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref (bản ghi do nhà xuất bản nộp) cho đủ 488-501 và tác giả Butlin, Long đứng đầu, 20 tác giả. Trang Cell Press bị Cloudflare chặn (403), PubMed hiện reCAPTCHA nên không mở; không vượt chặn."
 }

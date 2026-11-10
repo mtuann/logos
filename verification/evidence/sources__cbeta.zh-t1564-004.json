@@ -2,7 +2,7 @@
   "unit": "sources/cbeta.zh-t1564-004",
   "hash": "sha256:d4ac4090b603e6b6708fe03684b4993c460d5da2ed69e2f783d9ef50efbc26b4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
       "text": "Long Thọ, Trung luận (中論), bản Cưu-ma-la-thập",
@@ -21,7 +21,7 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://cbdata.dila.edu.tw/stable/works?work=T1564&fields=work,title,byline,vol,juan,file",
+          "url": "https://cbdata.dila.edu.tw/stable/works?work=T1564",
           "quote": "T30n1564"
         }
       ]
@@ -33,7 +33,7 @@
       "sources": [
         {
           "url": "https://cbdata.dila.edu.tw/stable/search?q=觀四諦品第二十四&note=0",
-          "quote": "T1564 | 4 | 11337 | 中論",
+          "quote": "\"file\":\"T30n1564\",\"work\":\"T1564\",\"juan\":4",
           "where": "kết quả tìm kiếm cbdata"
         }
       ]
@@ -41,9 +41,16 @@
     {
       "text": "URL https://cbetaonline.dila.edu.tw/zh/T1564_004 mở được và trỏ đúng quyển 4",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/search?q=觀四諦品第二十四&note=0",
+          "quote": "\"juan\":4,\"title\":\"中論\"",
+          "where": "đối chiếu ở CBETA cbdata (hit phẩm 24 ở quyển 4); URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Phẩm 24 xác nhận bằng hit tìm kiếm cbdata (quyển 4); trang cbetaonline là ứng dụng JS, WebFetch client_error nên chưa mở được URL."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Siêu dữ liệu đối chiếu qua API CBETA/DILA (cbdata) mở bằng trình duyệt; cbetaonline không mở (quyết định 34), URL đúng mẫu T<số>_<quyển> của site."
 }

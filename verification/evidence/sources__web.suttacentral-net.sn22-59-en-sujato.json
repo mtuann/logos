@@ -1,0 +1,74 @@
+{
+  "unit": "sources/web.suttacentral-net.sn22-59-en-sujato",
+  "hash": "sha256:9c7e30ce2af3ce54b84845937a69ac594fdfc0bdbb27b9f9e5477e6d16c76097",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng SN 22.59 Anattalakkhaṇasutta, bản dịch Bhikkhu Sujato",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/sn22.59/en/sujato",
+          "quote": "SN 22.59: Anattalakkhaṇasutta—Bhikkhu Sujato",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "SN 22.59 là 'Kinh Vô ngã tướng' (bài giảng thứ hai)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/sn22.59/en/sujato",
+          "quote": "The Characteristic of Not-Self",
+          "where": "tiêu đề bản dịch; 'the famous “second discourse”'"
+        }
+      ]
+    },
+    {
+      "text": "SN 56.11 là Kinh Chuyển pháp luân",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/sn56.11/en/sujato",
+          "quote": "Rolling Forth the Wheel of Dhamma",
+          "where": "tiêu đề bản dịch Sujato (qua API suttacentral.net/api/suttas/sn56.11/sujato)"
+        }
+      ]
+    },
+    {
+      "text": "MN 63 là Tiểu kinh Māluṅkya",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/mn63/en/sujato",
+          "quote": "The Shorter Discourse With Māluṅkya",
+          "where": "tiêu đề (Cūḷamālukyasutta) qua API suttacentral.net/api/suttas/mn63/sujato"
+        }
+      ]
+    },
+    {
+      "text": "SN 12.15 là Kinh Ca-chiên-diên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/sn12.15/en/sujato",
+          "quote": "SN 12.15: Kaccānagottasutta—Bhikkhu Sujato"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của Sujato theo giấy phép CC0 (không thấy chữ nêu giấy phép bản dịch Sujato trên trang đã mở)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): chỉ còn claim giấy phép CC0 chưa xác nhận bằng chữ; nội dung khác đạt. Nguyên văn Pāli có trên cùng trang (root_text lang pli)."
+}

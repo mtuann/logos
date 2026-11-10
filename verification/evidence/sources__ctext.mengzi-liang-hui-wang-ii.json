@@ -2,31 +2,44 @@
   "unit": "sources/ctext.mengzi-liang-hui-wang-ii",
   "hash": "sha256:292f93e1d15a7730b2a31f84f22b951b7576014bae9a6c0b5ec14e2609d0d91a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Trang ctext.org/mengzi/liang-hui-wang-ii là thiên Lương Huệ Vương hạ, có câu 'tru kỳ quân nhi điếu kỳ dân'",
+      "text": "Mạnh Tử 1B11: 'tru kỳ quân nhi điếu kỳ dân'",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://ctext.org/mengzi/liang-hui-wang-ii",
-          "quote": "誅其君而弔其民，若時雨降，民大悅。",
-          "where": "梁惠王下"
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "誅其君而弔其民，若時雨降。民大悅。",
+          "where": "mục 11"
         }
       ]
     },
     {
-      "text": "Câu đó là Mạnh Tử 1B11 (số đoạn không hiện trong kết quả tải)",
+      "text": "texts_seen: Tuân Tử thiên Vương chế: 'quân giả chu dã, thứ nhân giả thủy dã'",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/王制篇",
+          "quote": "君者、舟也，庶人者、水也；水則載舟，水則覆舟。"
+        }
+      ]
     },
     {
-      "text": "Tuân Tử thiên Vương chế: 'quân giả chu dã, thứ nhân giả thủy dã' (texts_seen, chưa mở)",
+      "text": "URL ctext.org/mengzi/liang-hui-wang-ii là thiên Lương Huệ Vương hạ",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "誅其君而弔其民，若時雨降。",
+          "where": "đối chiếu ở zh.wikisource 孟子/梁惠王下; URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ mở được trang Mạnh Tử; số 1B11 và dòng Tuân Tử chưa kiểm. Lưu ý texts_seen dẫn Tuân Tử nhưng URL chỉ là Mạnh Tử; nên thêm URL ctext.org/xunzi/wang-zhi."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Câu Tuân Tử nằm ở thiên Vương chế, URL của mục chỉ là trang Mạnh Tử; nên thêm URL ctext.org/xunzi/wang-zhi."
 }

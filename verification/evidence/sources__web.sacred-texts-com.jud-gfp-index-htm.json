@@ -1,0 +1,34 @@
+{
+  "unit": "sources/web.sacred-texts-com.jud-gfp-index-htm",
+  "hash": "sha256:f355006082c59dee759f0319c39fc4d5e31c8003ad4610b72371e842e02c0d29",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng Guide for the Perplexed (Maimonides, dịch Friedländer)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sacred-texts.com/book/the-guide-for-the-perplexed",
+          "quote": "The Guide for the Perplexed Moses Maimonides Translated by M. Friedländer",
+          "where": "URL cũ /jud/gfp/index.htm chuyển hướng sang URL này"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1904: bản Friedländer in lại, London: Routledge",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/guideforperplexe00maimiala",
+          "quote": "The guide for the perplexed — London : George Routledge & Sons, ltd.",
+          "where": "tìm kiếm Internet Archive, date 1904 (nhà xuất bản Routledge/Dutton)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): trang sacred-texts không ghi năm 1904; xác nhận qua Internet Archive (ấn bản 1904, Routledge). Gutenberg #73584 ghi 'Edition 2nd edition, revised throughout, London: George Routledge 1910' - 1904 là năm ấn bản sửa lần hai, 1910 là bản in lại; có thể ghi '(1904)' hoặc 'ấn bản 2'. Ghi: mục URL ghi /jud/gfp/index.htm bị chuyển hướng, nên cập nhật sang URL mới."
+}

@@ -2,25 +2,32 @@
   "unit": "sources/doi.10-2307-2181906",
   "hash": "sha256:f8109aeed6bc7a8252a365fd9f7c84c55e849b699906f23232c6b066e581af3e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s12",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
-      "text": "Quine, Philosophical Review 60 (1951), bài 'Two Dogmas of Empiricism', bắt đầu tr. 20",
+      "text": "Quine, Philosophical Review 60 (1951), bài 'Two Dogmas of Empiricism'",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2181906",
-          "quote": "\"title\": \"Main Trends in Recent Philosophy: Two Dogmas of Empiricism\"; \"volume\":\"60\"; \"page\":\"20\""
+          "quote": "\"title\":[\"Main Trends in Recent Philosophy: Two Dogmas of Empiricism\"]; \"volume\":\"60\"; \"issue\":\"1\""
         }
       ]
     },
     {
       "text": "Trang 20–43",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2181906",
+          "quote": "Vol. 60, No. 1, Jan., 1951; pageStart 20, pageEnd 43 (pageCount 24)",
+          "where": "trang ổn định JSTOR, dòng Vol./pp."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI. Tên bài ở Crossref có tiền tố chuyên mục 'Main Trends in Recent Philosophy:' (đúng với bản in); mục ghi tên ngắn, chấp nhận được."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref khớp tên bài, tạp chí, tập, số, năm; trang JSTOR cho đủ khoảng trang. DOI trỏ đúng bài. Tên bài ở Crossref/JSTOR có tiền tố chuyên mục 'Main Trends in Recent Philosophy'; tên mục ghi đúng tên bài thường dùng."
 }

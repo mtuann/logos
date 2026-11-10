@@ -1,0 +1,63 @@
+{
+  "unit": "sources/web.vjol-info-vn.ncpt-hue-article-view-16248",
+  "hash": "sha256:8ac36c8d1236c9caa946d755ff798d82b3868561782f3719cc005efb1de19d0f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r31",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/article/view/16248",
+          "quote": "Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý-Trần",
+          "where": "tiêu đề trang (kèm tiêu đề tiếng Anh)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Nguyễn Huệ Chi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/article/view/16248",
+          "quote": "Nguyễn Huệ Chi",
+          "where": "mục Authors; meta citation_author=Nguyễn Huệ Chi"
+        }
+      ]
+    },
+    {
+      "text": "Đăng trong Tạp chí Nghiên cứu và Phát triển (Huế), số 3–4, 2014",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/en/issue/view/1767",
+          "quote": "No. 3-4 (2014)",
+          "where": "mục lục số; Published 2014-07-21; meta citation_journal_title=Tạp chí Nghiên cứu và Phát triển"
+        }
+      ]
+    },
+    {
+      "text": "Bài bắt đầu ở tr. 169 (texts_seen: tr. 169–190)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/en/issue/view/1767",
+          "quote": "Nguyễn Huệ Chi 169",
+          "where": "mục lục số 3-4 (2014): bài bắt đầu tr. 169, bài kế tiếp bắt đầu tr. 192, hợp với tr. 169–190/191; trang cuối chính xác chưa thấy trực tiếp"
+        }
+      ]
+    },
+    {
+      "text": "Số liên tục (110–111) của số 3–4 năm 2014",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r31): chỉ claim 'số liên tục (110–111)' chưa kiểm được: trang VJOL chỉ ghi 'No. 3-4 (2014)', không ghi số tổng. Trang cuối 190 chỉ suy từ mục lục (bài sau bắt đầu tr. 192), cần xem PDF để chắc. Hai cách ghi (có/không 'tr. 169–190') không mâu thuẫn; nên thống nhất ghi có trang. Tên bài trên trang dùng gạch nối ngắn 'Lý-Trần', mục ghi gạch nửa 'Lý–Trần' (khác typographic, nhẹ)."
+}

@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-1037-0096-3445-129-3-369",
   "hash": "sha256:e1b5d8caf3202804c5851a140f869812a9f9f7be3b1344567b3c648049cabcf4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s02",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
       "text": "Roberson, Davies & Davidoff (2000), Color Categories Are Not Universal..., JEP: General 129(3): 369–398",
@@ -10,17 +10,24 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://repository.essex.ac.uk/12996/",
-          "quote": "Color categories are not universal: replications and new evidence from a stone-age culture; Journal of Experimental Psychology: General; 129 (3); 369-398; 2000"
+          "url": "https://api.crossref.org/works/10.1037/0096-3445.129.3.369",
+          "quote": "\"title\":[\"Color categories are not universal: Replications and new evidence from a stone-age culture.\"]; \"volume\":\"129\"; \"issue\":\"3\"; \"page\":\"369-398\""
         }
       ]
     },
     {
       "text": "URL doi.org/10.1037/0096-3445.129.3.369 trỏ đúng bài này",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1037/0096-3445.129.3.369",
+          "quote": "tác giả Roberson, Davies, Davidoff; Journal of Experimental Psychology: General; 2000",
+          "where": "Crossref là bản ghi chính thức của DOI"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "doi.org bị robots_disallowed nên không mở được; metadata xác nhận qua kho Essex (không ghi DOI). Đề xuất kiểm DOI bằng trình duyệt hoặc PsycNet."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref khớp tên, tác giả, tạp chí, tập, số, năm, trang. Tên mục 'Color Categories Are Not Universal' cùng nghĩa, chỉ khác hoa thường."
 }

@@ -2,25 +2,32 @@
   "unit": "sources/doi.10-2307-2102968",
   "hash": "sha256:c09cdcf9369195a763f5f650b6265c28c3f7e3ff3959a62acae0153d82b19996",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s12",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
-      "text": "Tarski (1944), tên bài, PPR 4(3)",
+      "text": "Tarski (1944), The Semantic Conception of Truth and the Foundations of Semantics, PPR 4(3)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2102968",
-          "quote": "\"title\": \"The Semantic Conception of Truth: and the Foundations of Semantics\"; \"volume\":\"4\"; \"issue\":\"3\"; issued 1944"
+          "quote": "\"title\":[\"The Semantic Conception of Truth: and the Foundations of Semantics\"]; \"volume\":\"4\"; \"issue\":\"3\""
         }
       ]
     },
     {
-      "text": "Trang 341–376 (Crossref chỉ có \"page\":\"341\")",
+      "text": "Trang 341–376",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2102968",
+          "quote": "Vol. 4, No. 3, Mar., 1944; pageStart 341, pageEnd 376 (pageCount 36)",
+          "where": "trang ổn định JSTOR, dòng Vol./pp."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref khớp tên bài, tạp chí, tập, số, năm; trang JSTOR cho đủ khoảng trang. DOI trỏ đúng bài. Tên bài trên Crossref/JSTOR có dấu hai chấm ('Truth: and the Foundations'); mục ghi theo tên in thường dùng, không sai."
 }
