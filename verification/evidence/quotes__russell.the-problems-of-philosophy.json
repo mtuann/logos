@@ -1,8 +1,8 @@
 {
   "unit": "quotes/russell.the-problems-of-philosophy",
-  "hash": "sha256:39ce2170f991ab5838ca19493016e79860de02ce9958b85e2d8876a51054cfcb",
+  "hash": "sha256:943e7214510c29285220f028898ebae428dd70cd0dce53ab73cfb447c0ee0754",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q09",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn đoạn 'The practical man ... goods of the body' đúng từng chữ (trừ chính tả Mỹ/Anh)",
@@ -18,18 +18,6 @@
           "url": "https://paulgraham.com/valueofphilosophy.html",
           "quote": "the goods of the mind are at least as important as the goods of the body.",
           "where": "chương XV"
-        }
-      ]
-    },
-    {
-      "text": "Vị trí: chương XV, đoạn 3",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.stephenhicks.org/wp-content/uploads/2015/08/RussellB-The-Value-of-Philosophy-text.pdf",
-          "quote": "But further, if we are not",
-          "where": "đầu đoạn 3, chứa câu 'practical man'"
         }
       ]
     },
@@ -60,8 +48,25 @@
           "where": "original publication"
         }
       ]
+    },
+    {
+      "text": "locator: chương XV, đoạn 3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+          "quote": "is one who recognizes only material needs",
+          "where": "chương XV, đoạn 3 (đếm từ đoạn 'Having now come to the end', Gutenberg 5827)"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+          "quote": "the goods of the mind are at least as important",
+          "where": "chương XV, đoạn 3"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn đọc được là bản đăng lại của chương XV: paulgraham.com và PDF stephenhicks.org, cả hai theo chính tả Mỹ ('recognizes', 'realizes'); bản ghi giữ chính tả Anh ('recognises', 'realises'), phù hợp bản in 1912 (Gutenberg 5827), nhưng bản Gutenberg bị cắt trước chương XV nên chưa đối chiếu được từng ký tự chính tả. Khác chính tả coi là nhe nếu có. Số đoạn lấy từ PDF stephenhicks (đoạn suy ra từ ngắt dòng, nên người làm kiểm lại). Nguồn yếu: trang đăng lại. Russell mất 1970, bản 1912 phạm vi công cộng ở Mỹ; trích đoạn dài nhưng PD."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Nguồn đọc được là bản đăng lại của chương XV: paulgraham.com và PDF stephenhicks.org, cả hai theo chính tả Mỹ ('recognizes', 'realizes'); bản ghi giữ chính tả Anh ('recognises', 'realises'), phù hợp bản in 1912 (Gutenberg 5827), nhưng bản Gutenberg bị cắt trước chương XV nên chưa đối chiếu được từng ký tự chính tả. Khác chính tả coi là nhe nếu có. Số đoạn lấy từ PDF stephenhicks (đoạn suy ra từ ngắt dòng, nên người làm kiểm lại). Nguồn yếu: trang đăng lại. Russell mất 1970, bản 1912 phạm vi công cộng ở Mỹ; trích đoạn dài nhưng PD."
 }

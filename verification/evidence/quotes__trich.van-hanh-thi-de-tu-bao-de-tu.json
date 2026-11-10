@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.van-hanh-thi-de-tu-bao-de-tu",
-  "hash": "sha256:895313dbe32e81c3962257bca8d2b27bf9aba40f55e61c36d6aa42a555b0d79c",
+  "hash": "sha256:52dc5e9f45457bc25b3f8c468bec373dfb2c02286a5a590323f9a831adafe53e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r07",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Bài kệ là của thiền sư Vạn Hạnh, tiêu đề \"Thị đệ tử\" (ghi trong Thiền uyển tập anh)",
@@ -79,8 +79,20 @@
           "where": "dịch nghĩa trên Wikisource, tương đương bản dịch của Logos"
         }
       ]
+    },
+    {
+      "text": "locator: trọn bài (bốn câu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Th%E1%BB%8B_%C4%91%E1%BB%87_t%E1%BB%AD",
+          "quote": "盛衰如露草頭鋪。",
+          "where": "câu 4, câu cuối; Wikisource chép đúng bốn dòng chữ Hán, hết bài"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): vi.wikisource 'Thị đệ tử' (示弟子) của Vạn Hạnh khớp từng chữ chữ Hán và phiên âm. Tiêu đề trên Wikisource là 'Thị đệ tử'; tên phụ 'Bảo đệ tử' trong tiêu đề bản ghi chưa tìm thấy ở nguồn này (không đổi nghĩa, nên kiểm lại nếu muốn giữ). Nguồn Wikisource là nguồn yếu (không ghi bản in); không có locator trong bản ghi."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): vi.wikisource 'Thị đệ tử' có đúng bốn dòng Hán, trọn bài: locator đúng. Tên phụ 'Bảo đệ tử' trong tiêu đề vẫn chưa thấy ở nguồn này (không đổi nghĩa). Các claim cũ giữ nguyên."
 }

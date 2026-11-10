@@ -1,8 +1,8 @@
 {
   "unit": "quotes/kant.beantwortung-der-frage-was-ist-aufklarun",
-  "hash": "sha256:da35c92041320b300eded543c6899aa5b165dea2101fdf3eac5f711cb2c34132",
+  "hash": "sha256:87bfbc88c66e7f3fe5afd10cf90713179d2636a64bcf4298b52fbddfe9fac399",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q06",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn tiếng Đức: \"Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. Sapere aude! Habe Muth dich deines eigenen Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.\"",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "text": "locator: Ak 8:35",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.korpora.org/Kant/aa08/035.html",
-          "quote": "Aufklärung ist der Ausgang des Menschen aus seiner selbst",
-          "where": "AA VIII, S. 35, Z. 1"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (Verstand = trí tuệ; Unmündigkeit = chưa trưởng thành; Entschließung und Muth = quyết tâm và can đảm)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -73,8 +61,20 @@
           "quote": "Mangel des Verstandes, sondern der Entschließung und des Muthes liegt,"
         }
       ]
+    },
+    {
+      "text": "locator: Ak 8:35, từ dòng 1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "01\tAufklärung ist der Ausgang des Menschen aus seiner selbst",
+          "where": "AA VIII, S. 35, Zeile 01; câu \"Wahlspruch der Aufklärung\" kết ở dòng 08"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn đã mở: bản số hóa Akademie-Ausgabe ở korpora.org (nguồn học thuật đáng tin; ctext/Gutenberg bản #30821 đã mở nhưng hiện đại hóa chính tả nên không dùng để so chữ). Chính tả của bản ghi (Muth, Theil...) khớp Akademie. Trường work có tiền tố 'chua-ro.' (tác giả chưa gán): đề nghị người làm gán khóa tác giả Kant. Dịch ý ổn."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Đoạn trích chiếm dòng 1–8 trang Ak 8:35. Ghi chú kiểm trước: Nguồn đã mở: bản số hóa Akademie-Ausgabe ở korpora.org (nguồn học thuật đáng tin; ctext/Gutenberg bản #30821 đã mở nhưng hiện đại hóa chính tả nên không dùng để so chữ). Chính tả của bản ghi (Muth, Theil...) khớp Akademie. Trường work có tiền tố 'chua-ro.' (tác giả chưa gán): đề nghị người làm gán khóa tác giả Kant. Dịch ý ổn."
 }

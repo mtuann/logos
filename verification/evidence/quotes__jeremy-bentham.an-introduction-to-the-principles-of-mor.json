@@ -1,8 +1,8 @@
 {
   "unit": "quotes/jeremy-bentham.an-introduction-to-the-principles-of-mor",
-  "hash": "sha256:106788db2a42b2957cc71089d276fa64655ff6839ed93a05d18802a5a00fdd84",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q03",
+  "hash": "sha256:8607b2c5feb50eb911194ceffd6bca99fc254d63629eb478fef21b02af9f4749",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: \"The question is not, Can they reason? nor, Can they talk? but, Can they suffer?\"",
@@ -46,20 +46,6 @@
       ]
     },
     {
-      "text": "locator: chương XVII, § 1, đoạn IV, chú thích (tiêu đề chỉ ghi \"chương 17\")",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "chương XVII, § 1, đoạn IV, chú thích (chú thích 122 trong bản Clarendon 1907 trên EconLib)",
-      "sources": [
-        {
-          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
-          "quote": "What other agents then are there",
-          "where": "đầu đoạn IV của § 1, chương XVII; câu trích nằm trong chú thích 122 gắn vào đoạn này, không ở thân bài"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: \"Vấn đề không phải là, chúng có biết suy luận không? cũng không phải là, chúng có biết nói không? mà là, chúng có biết đau khổ không?\"",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -80,8 +66,25 @@
           "quote": "printed in the year 1780; and first published in 1789."
         }
       ]
+    },
+    {
+      "text": "locator: chương XVII, §1, đoạn IV, chú thích",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "IV. What other agents then are there, which, at the same time that they are under the influence of man’s direction, are susceptible of happiness.",
+          "where": "Chapter XVII § 1, đoạn IV; cuối đoạn có dấu chú thích *122"
+        },
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "the question is not, Can they reason? nor, Can they talk? but, Can they suffer?",
+          "where": "trong chú thích 122 (phần chú thích của chương, đặt ở cuối trang)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Câu trích nằm trong chú thích (không ở thân bài) của chương XVII, § 1, đoạn IV. Nguyên văn viết thường \"the question is not…\" vì nối sau \"what would it avail?\"; viết hoa \"The\" ở đầu trích là chấp nhận được. Đề xuất ghi URL ổn định: https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19 (Liberty Fund, bản Clarendon 1907 in lại bản 1823)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Locator \"chương XVII, §1, đoạn IV, chú thích\" khớp Econlib; câu nằm trong chú thích 122, nguyên văn viết thường \"the question\". Ghi chú kiểm trước: Câu trích nằm trong chú thích (không ở thân bài) của chương XVII, § 1, đoạn IV. Nguyên văn viết thường \"the question is not…\" vì nối sau \"what would it avail?\"; viết hoa \"The\" ở đầu trích là chấp nhận được. Đề xuất ghi URL ổn định: https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19 (Liberty Fund, bản Clarendon 1907 in lại bản 1823)."
 }

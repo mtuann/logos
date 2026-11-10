@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.david-hume-of-the-standard-of-taste-1757",
-  "hash": "sha256:c029c018c6dbad3caa3f5744092e0a49341b66e80a930992a3edfdfb35cb5b66",
+  "hash": "sha256:788179ec32903d9230eeadc612c87c3661f3d4dc682d20bb3f1401af6bb92a68",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q13",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn khớp văn bản Hume",
@@ -50,20 +50,26 @@
       ]
     },
     {
-      "text": "locator: tiêu đề chưa ghi vị trí",
+      "text": "locator: đoạn 7 (bản Miller, tr. 226–7)",
       "kind": "du-kien",
       "verdict": "sai",
       "severity": "nhe",
-      "fix": "locator: đoạn 7 (ST 7 trên davidhume.org; Miller 226-7)",
+      "fix": "đoạn 7 (bản Miller, tr. 229–30)",
       "sources": [
         {
           "url": "https://davidhume.org/texts/empl1/st",
-          "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them;",
+          "quote": "ST 7, Mil 229-30",
           "where": "ST 7"
+        },
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them",
+          "where": "nằm trong đoạn ST 7; 'ST 1, Mil 226-7' là đoạn 1"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Trang davidhume.org là bản Essays Moral, Political, and Literary (hiệu đính sau), không phải bản in 1757 gốc; câu trích giống. Cân nhắc dẫn thêm nguồn cho bản 1757 nếu cần."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator cần rút gọn/sửa theo fix (mức nhẹ). Giữ nguyên các claim cũ. Ghi chú lượt trước: Trang davidhume.org là bản Essays Moral, Political, and Literary (hiệu đính sau), không phải bản in 1757 gốc; câu trích giống. Cân nhắc dẫn thêm nguồn cho bản 1757 nếu cần. | 10/11/2026 (sổ sách, Claude): kho sửa `locator` thành \"đoạn 7 (bản Miller, tr. 229–30)\" đúng `fix` ở trên; cập nhật mã băm, không mở lại nguồn."
 }

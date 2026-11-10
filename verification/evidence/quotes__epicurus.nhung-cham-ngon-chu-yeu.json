@@ -1,8 +1,8 @@
 {
   "unit": "quotes/epicurus.nhung-cham-ngon-chu-yeu",
-  "hash": "sha256:6b1703f67ede85be9f8833727d9b09d915239ed8546abd5fbd49a8c4b8df0ae7",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q02",
+  "hash": "sha256:f94a8e1eb379edee53a1906aa8bbba897fe7eed0b765f20956ea65de72609e74",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn (bản Yonge): “Death is nothing to us; for that which is dissolved is devoid of sensation, and that which is devoid of sensation is nothing to us.”",
@@ -44,23 +44,6 @@
       ]
     },
     {
-      "text": "locator: Kyriai doxai 2 (= Diogenes Laërtius X.139)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/book-10",
-          "quote": "That which is happy and imperishable",
-          "where": "mục “1.”, ngay trước mục “2. Death is nothing to us…” — tiêu đề ghi “câu 2” là đúng"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
-          "quote": "2. Death is nothing to us; for the body, when it has been resolved into its elements, has no feeling,",
-          "where": "bản Hicks (Perseus), mục 10.1.139 — xác nhận vị trí X.139"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: “Cái chết không là gì với ta; vì cái gì đã tan rã thì không còn cảm giác, và cái gì không còn cảm giác thì không là gì với ta.”",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -83,8 +66,20 @@
           "where": "năm dịch; người dịch mất 1891 (Gutenberg ghi 1812-1891)"
         }
       ]
+    },
+    {
+      "text": "locator: câu 2 (Diogenes Laërtius X.139)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "2. Death is nothing to us; for the body, when it has been resolved into its elements, has no feeling",
+          "where": "bản Hicks (Perseus), thẻ n=\"139\" (urn …perseus-eng2:10.1), ngay sau mục 1 của Kyriai Doxai; đánh số \"2.\""
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Bản ghi không có url. WebFetch chỉ đọc ~115 nghìn ký tự đầu của Gutenberg #57342 nên không tới được cuối Book X; đã đối chiếu trên Standard Ebooks (bản Yonge dựng từ chính bản chép Gutenberg 2018). Đề xuất url: https://www.gutenberg.org/ebooks/57342 (Yonge) và locator \"KD 2 (D.L. X.139)\". Trường license có thể ghi public-domain."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): KD 2 nằm trong D.L. X.139 theo cấu trúc TEI của Perseus. Ghi chú kiểm trước: Bản ghi không có url. WebFetch chỉ đọc ~115 nghìn ký tự đầu của Gutenberg #57342 nên không tới được cuối Book X; đã đối chiếu trên Standard Ebooks (bản Yonge dựng từ chính bản chép Gutenberg 2018). Đề xuất url: https://www.gutenberg.org/ebooks/57342 (Yonge) và locator \"KD 2 (D.L. X.139)\". Trường license có thể ghi public-domain."
 }

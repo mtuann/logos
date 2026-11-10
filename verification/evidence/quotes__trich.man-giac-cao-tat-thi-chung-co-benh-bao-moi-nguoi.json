@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.man-giac-cao-tat-thi-chung-co-benh-bao-moi-nguoi",
-  "hash": "sha256:5fe4dcc7f405dc519d20f410f1bd6232df8dc8d08460776e2b0e056b6878d7c1",
+  "hash": "sha256:559734408ca0b19b5569969bff7d99240a4dde840b23dc6a131e84817a7c26bf",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn sáu câu 春去百花落 … 庭前昨夜一枝梅",
@@ -39,17 +39,23 @@
       ]
     },
     {
-      "text": "locator: không có (bài thơ, không có chương/đoạn)",
+      "text": "locator: trọn bài (sáu câu)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng",
-          "quote": "春去百花落"
+          "url": "https://vi.wikisource.org/wiki/C%C3%A1o_t%E1%BA%ADt_th%E1%BB%8B_ch%C3%BAng",
+          "quote": "莫謂春殘花落盡，",
+          "where": "câu 5"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C3%A1o_t%E1%BA%ADt_th%E1%BB%8B_ch%C3%BAng",
+          "quote": "庭前昨夜一枝梅。",
+          "where": "câu 6, câu cuối; bài thơ trên Wikisource có đúng sáu dòng chữ Hán"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn là Wikisource tiếng Việt (qua công cụ tóm tắt, chữ Hán khớp từng chữ); chưa đối chiếu bản gốc Thiền uyển tập anh (CBETA/Viện Hán Nôm). Người làm có thể bổ sung link bản gốc. Khớp dấu câu chỉ khác ',' và '，'."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): locator 'trọn bài (sáu câu)' đúng: vi.wikisource chép đúng sáu dòng Hán từ 春去百花落 đến 庭前昨夜一枝梅, đủ trọn bài. Các claim nguyên văn/dịch/người nói giữ từ lượt trước. Nguồn Wikisource, chưa đối chiếu Thiền uyển tập anh."
 }

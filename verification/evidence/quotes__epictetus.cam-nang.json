@@ -1,8 +1,8 @@
 {
   "unit": "quotes/epictetus.cam-nang",
-  "hash": "sha256:bae9e6eac9a7cbcf531be32859a13d4fa79a3aa5f5213e0c8c53e1b083be9db1",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q02",
+  "hash": "sha256:79d75cc26b02fed437437a75e04f399d8b3cff3dc28e1b8c25106c2424f86f48",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn (bản Long): “Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.”",
@@ -44,18 +44,6 @@
       ]
     },
     {
-      "text": "locator: Encheiridion 5",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-eng3.xml",
-          "quote": "<div type=\"textpart\" subtype=\"chapter\" n=\"5\"> <p>Men are disturbed not by the things which happen",
-          "where": "chương 5 bản Perseus; Gutenberg #10661 đánh số “V.”"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: “Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp.”",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -78,8 +66,20 @@
           "where": "năm in; Gutenberg #10661 phát hành tự do"
         }
       ]
+    },
+    {
+      "text": "locator: §5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-eng3.xml",
+          "quote": "subtype=\"chapter\" n=\"5\"> <p>Men are disturbed not by the things which happen",
+          "where": "Perseus, bản Long, chương 5 của Encheiridion"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "URL Gutenberg #10661 đúng tác phẩm (A Selection from the Discourses of Epictetus with the Encheiridion, dịch giả George Long). WebFetch chỉ đọc được ~120 nghìn ký tự đầu của bản txt nên đối chiếu từng chữ trên bản sao git của chính file Gutenberg (GITenberg) và bản Perseus. Đề xuất locator \"Encheiridion 5\" (= chương 5). Trường license có thể ghi public-domain."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích mở đầu chương 5 Encheiridion (bản Long, Perseus). Ghi chú kiểm trước: URL Gutenberg #10661 đúng tác phẩm (A Selection from the Discourses of Epictetus with the Encheiridion, dịch giả George Long). WebFetch chỉ đọc được ~120 nghìn ký tự đầu của bản txt nên đối chiếu từng chữ trên bản sao git của chính file Gutenberg (GITenberg) và bản Perseus. Đề xuất locator \"Encheiridion 5\" (= chương 5). Trường license có thể ghi public-domain."
 }

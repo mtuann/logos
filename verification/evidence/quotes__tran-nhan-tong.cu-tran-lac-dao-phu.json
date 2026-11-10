@@ -1,8 +1,8 @@
 {
   "unit": "quotes/tran-nhan-tong.cu-tran-lac-dao-phu",
-  "hash": "sha256:36d68ceafdf5a96fa10b7d3bbc11830705da39ce737dae1412d3857b7e1f7415",
+  "hash": "sha256:3950b0ac037b450e3cc51c639fa2f6d88367b353849748cffadbb9f57fb87f6e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r05",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Phiên âm Nôm: Bụt ở cong nhà, chẳng phải tìm xa. Nhân khuây bản nên ta tìm Bụt ... thuộc hội thứ năm",
@@ -85,8 +85,25 @@
           "where": "Kệ vân, cột Dịch nghĩa"
         }
       ]
+    },
+    {
+      "text": "locator: hội thứ năm; bài kệ kết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Đệ ngũ hội - 第五會",
+          "where": "trang Đệ ngũ hội chứa 'Vậy mới hay! Bụt ở cong nhà'"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Cư trần lạc đạo thả tùy duyên,",
+          "where": "Kệ vân, trang nối sau Đệ thập hội (hội cuối), không còn trang nào sau đó"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): đối chiếu vi.wikisource Đệ ngũ hội và Kệ vân. Chữ Nôm khớp. Chữ Hán kệ khác ba dị thể (饑/飢, 宝/寶, 對鏡/對境); chỉ 境/鏡 đổi chữ, mức nhẹ vì tùy bản in. Phiên âm 'cong/trong', 'khuây/khuấy' là dị bản đã ghi lượt trước. Diễn nghĩa 'đến khi biết ra' cho 'đến cốc hay' hợp ý chung, Wikisource không chú giải 'cốc'."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): đối chiếu vi.wikisource Đệ ngũ hội và Kệ vân. Chữ Nôm khớp. Chữ Hán kệ khác ba dị thể (饑/飢, 宝/寶, 對鏡/對境); chỉ 境/鏡 đổi chữ, mức nhẹ vì tùy bản in. Phiên âm 'cong/trong', 'khuây/khuấy' là dị bản đã ghi lượt trước. Diễn nghĩa 'đến khi biết ra' cho 'đến cốc hay' hợp ý chung, Wikisource không chú giải 'cốc'."
 }

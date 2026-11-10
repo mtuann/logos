@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.suy-niem-ii-11-va-16-at-7-30-34",
-  "hash": "sha256:05baa3b33697667dcb8f4cbf49f38b01fedee5caff2e88edebe096b9d94366ed",
+  "hash": "sha256:61814be222ee110eca14faf8463637218aa97ee1a36c6b983a7b316375206d42",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r07",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn Veitch: \"It must be admitted that it does remain; no one doubts it, or judges otherwise.\"",
@@ -40,23 +40,23 @@
       ]
     },
     {
-      "text": "locator: §11 và §16, AT 7:30, 34",
+      "text": "locator: AT VII 30, 34",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_II",
-          "quote": "Remanere fatendum est; nemo negat, nemo aliter putat.",
-          "where": "§11 (đoạn bắt đầu 'Consideremus'), nằm giữa mốc [30] và [31] = AT 7:30"
+          "quote": "11. Consideremus res illas quae vulgo putantur omnium",
+          "where": "§11 nằm sau mốc [30] và đoạn 'remanet cera' kết trước mốc [31] = AT VII 30"
         },
         {
           "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_II",
           "quote": "aperte cognosco nihil facilius aut evidentius meâ mente posse a me percipi.",
-          "where": "§16 ('Atque ecce tandem'), sau mốc [34] = AT 7:34"
+          "where": "§16 nằm sau mốc [34] = AT VII 34"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): locator đối chiếu ở Wikisource Latin (ấn bản Adam–Tannery, có đánh số § và mốc trang AT trong ngoặc vuông). Hai claim nguyên văn Veitch giữ nguyên từ lượt trước. Câu thứ nhất nói về miếng sáp: nên ghi chú ngữ cảnh ở bài."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): đo vị trí §11 và §16 so với mốc [30], [31], [34] trong wikitext la.wikisource Meditatio II: khớp 'AT VII 30, 34'. Các claim cũ giữ nguyên."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.tam-kinh-t251-cau-mo-dau",
-  "hash": "sha256:89943a17e6bb41ee5af7dfa5d98b764a2ba4084339fd790940a450ef89fcc126",
+  "hash": "sha256:c872eae0f9b9a7a135595956d86f0a0847f668d36af4939fde96a6268b4ff686",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn: 觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。",
@@ -12,18 +12,6 @@
         {
           "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
           "quote": "觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。"
-        }
-      ]
-    },
-    {
-      "text": "locator: T251 (Huyền Trang dịch)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
-          "quote": "唐三藏法師玄奘譯",
-          "where": "tiêu đề kinh"
         }
       ]
     },
@@ -48,8 +36,20 @@
           "quote": "觀自在菩薩行深般若波羅蜜多時"
         }
       ]
+    },
+    {
+      "text": "locator: T251, câu mở đầu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "般若波羅蜜多心經唐三藏法師玄奘譯觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。",
+          "where": "câu đầu tiên của kinh, ngay sau tiêu đề và dòng dịch giả Huyền Trang (văn bản cbdata, sau hai bài tựa)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn CBETA qua cbdata (cbeta.org V1.13 cũng có câu này nhưng OCR hỏng một số chữ, không dùng làm quote)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): câu này mở đầu phần kinh văn của T251 (sau tiêu đề + 唐三藏法師玄奘譯). Các claim cũ giữ nguyên."
 }

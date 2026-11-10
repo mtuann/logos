@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trang-tu.trang-tu",
-  "hash": "sha256:599edac43735105bea0a9daf7d8fa525b9276026a4aaa94ed668e476f661447f",
+  "hash": "sha256:69442135e6237b53035a2f1d737dc65697399f4f463b80abb1f51020119fbea5",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q10",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn chữ Hán: 山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無用之用也。",
@@ -13,23 +13,6 @@
           "url": "https://ctext.org/zhuangzi/man-in-the-world-associated-with",
           "quote": "山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無用之用也。",
           "where": "ctext, 人間世"
-        }
-      ]
-    },
-    {
-      "text": "locator: thiên 4 人間世, đoạn kết",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://ctext.org/zhuangzi",
-          "quote": "人間世 - Man in the World, Associated with other Men",
-          "where": "mục 4 của Nội thiên: 逍遙遊, 齊物論, 養生主, 人間世"
-        },
-        {
-          "url": "https://ctext.org/zhuangzi/man-in-the-world-associated-with",
-          "quote": "山木自寇也",
-          "where": "đoạn cuối, mục 9 của chương trên ctext"
         }
       ]
     },
@@ -54,8 +37,25 @@
           "quote": "人皆知有用之用，而莫知無用之用也。"
         }
       ]
+    },
+    {
+      "text": "locator: thiên 4 Nhân gian thế, đoạn kết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E4%BA%BA%E9%96%93%E4%B8%96",
+          "quote": "人間世第四",
+          "where": "điều hướng Wikisource: 養生主第三 ◄ 人間世第四 ► 德充符第五"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E4%BA%BA%E9%96%93%E4%B8%96",
+          "quote": "桂可食，故伐之。漆可用，故割之。",
+          "where": "câu cuối cùng của trang 人間世 (Wikisource dùng 无 thay 無)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "URL có hậu tố /zh trong record không mở được (client_error); bản không có /zh mở được và có đúng chữ này. Nên đổi url sang https://ctext.org/zhuangzi/man-in-the-world-associated-with. 漆 đọc Hán Việt 'tất' đúng; bản dịch 'sơn' (cây sơn) hợp nghĩa."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: URL có hậu tố /zh trong record không mở được (client_error); bản không có /zh mở được và có đúng chữ này. Nên đổi url sang https://ctext.org/zhuangzi/man-in-the-world-associated-with. 漆 đọc Hán Việt 'tất' đúng; bản dịch 'sơn' (cây sơn) hợp nghĩa. ctext.org không mở (site chặn); locator đối chiếu ở zh.wikisource."
 }

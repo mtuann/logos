@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.suy-niem-i-5-va-8-at-7-1920",
-  "hash": "sha256:ff810e3480613f289c7f76d585be0fce2c938761474246b6906ecd32d4d0e138",
+  "hash": "sha256:0db143d13fa68ab3962680b2c0088269f51e02b0daf5bc6e65960ee5b470ec35",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-g01",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn Veitch §5: \"I perceive so clearly that there exist no certain marks ... I am now dreaming.\"",
@@ -46,30 +46,23 @@
       ]
     },
     {
-      "text": "locator: §5, AT 7:19",
+      "text": "locator: AT VII 19–20",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_I",
           "quote": "5. Praeclare sane, tanquam non sim homo",
-          "where": "§5 nằm sau mốc [19] và trước mốc [20]"
-        }
-      ]
-    },
-    {
-      "text": "locator: §8, AT 7:20 (tiêu đề ghi AT 7:19–20)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
+          "where": "§5 sau mốc [19], trước mốc [20] = AT VII 19"
+        },
         {
-          "url": "https://archive.org/download/oeuvresdedescar07desc/oeuvresdedescar07desc_djvu.txt",
-          "quote": "quadratumque non plura habet latera",
-          "where": "Œuvres de Descartes, tập VII (Adam–Tannery, 1897), bản quét archive.org: đoạn nằm trên trang in 20 (đầu trang 'ŒUVRES DE DESCARTES', trang kế 'Meditationes. Prima. 21')"
+          "url": "https://archive.org/download/uvresdedescartes07desc/uvresdedescartes07desc_djvu.txt",
+          "quote": "Nam  five  vigilem,  five  dormiam,  duo   &  tria  fimul  junda",
+          "where": "§8 nằm trên trang in 20 của Œuvres de Descartes VII (ngay sau đó là đầu trang 'Meditationes. — Prima. 21' mở bằng §9); OCR chữ s dài"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, mở bản quét Adam–Tannery tập VII trên archive.org (identifier oeuvresdedescar07desc, bản 1897, và bản uvresdedescartes07desc, 1904): đoạn 'Nam sive vigilem... quadratumque non plura habet latera quam quatuor' (§8) nằm trên trang 20, ngay trước trang 21 mở đầu bằng 'Verumtamen infixa'. Vậy §8 = AT 7:20, tiêu đề 'AT 7:19–20' đúng. Các claim đã dung giữ nguyên từ lượt trước. Văn bản OCR dùng chữ s dài nên quote lấy cụm không có s dài."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): §5 = AT VII 19 (la.wikisource); §8 = AT VII 20 (bản quét Adam–Tannery trên archive.org; la.wikisource thiếu mốc [21] nên dùng bản quét). 'AT VII 19–20' đúng. Các claim cũ giữ nguyên."
 }

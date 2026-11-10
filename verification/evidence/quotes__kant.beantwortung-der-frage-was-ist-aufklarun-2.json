@@ -1,8 +1,8 @@
 {
   "unit": "quotes/kant.beantwortung-der-frage-was-ist-aufklarun-2",
-  "hash": "sha256:76f3cf32585235ef1ba1aae4b29468788435e38a1364c5f43775d13d71638843",
+  "hash": "sha256:47d5b050f9a1a7cc5d98eca262426ce0571d290751254a2a571303e67346ecc7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q06",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: \"Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil der Menschen […] dennoch gerne Zeitlebens unmündig bleiben; und warum es Anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt der für mich die Diät beurtheilt, u. s. w. so brauche ich mich ja nicht selbst zu bemühen.\"",
@@ -53,18 +53,6 @@
       ]
     },
     {
-      "text": "locator: Ak 8:35",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.korpora.org/Kant/aa08/035.html",
-          "quote": "Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil",
-          "where": "AA VIII, S. 35, Z. 9-16"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (Seelsorger = mục sư; Vormünder = người giám hộ)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -74,8 +62,25 @@
           "quote": "einen Seelsorger, der für mich Gewissen hat,"
         }
       ]
+    },
+    {
+      "text": "locator: Ak 8:35, dòng 9–16",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "09\tFaulheit und Feigheit sind die Ursachen, warum ein so großer Theil",
+          "where": "AA VIII, S. 35, Zeile 09"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "ja nicht selbst zu bemühen.",
+          "where": "dòng 16 (\"so brauche ich mich mich / ja nicht selbst zu bemühen\" ở dòng 15–16)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Phần lược […] (giữa 'Theil der Menschen' và 'dennoch') hợp lệ: bản gốc ở đó có mệnh đề 'nachdem sie die Natur längst von fremder Leitung frei gesprochen (naturaliter maiorennes)'. 'Seelsorger' dịch 'mục sư' là thoát nhưng đúng ý (có thể 'người chăn dắt linh hồn/linh mục' trung tính hơn). Tiền tố work 'chua-ro.' (tác giả chưa gán)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Đoạn trích chiếm dòng 9–16 trang Ak 8:35 (bản Akademie in \"mich mich\" ở dòng 15; bản ghi viết một \"mich\"). Ghi chú kiểm trước: Phần lược […] (giữa 'Theil der Menschen' và 'dennoch') hợp lệ: bản gốc ở đó có mệnh đề 'nachdem sie die Natur längst von fremder Leitung frei gesprochen (naturaliter maiorennes)'. 'Seelsorger' dịch 'mục sư' là thoát nhưng đúng ý (có thể 'người chăn dắt linh hồn/linh mục' trung tính hơn). Tiền tố work 'chua-ro.' (tác giả chưa gán)."
 }

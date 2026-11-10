@@ -1,8 +1,8 @@
 {
   "unit": "quotes/nguyen-trai.binh-ngo-dai-cao",
-  "hash": "sha256:21922a7c73d1b6973864ddd09bac2176f45f3cb94d207ac672a3fe789b0bb5ff",
+  "hash": "sha256:8f61fb6e0f286ec23c1e69392ee04395d3b455ad681083f0a9fffccc4c5002a9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-t03",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Tác giả và tác phẩm: Nguyễn Trãi, Bình Ngô đại cáo, 1428",
@@ -65,18 +65,18 @@
       ]
     },
     {
-      "text": "locator: phần mở đầu (đoạn 1) của bài cáo",
+      "text": "locator: đoạn mở đầu",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
-          "quote": "蓋 聞﹕ 仁 義 之 舉，要 在 安 民 ，",
-          "where": "câu mở đầu văn bản"
+          "quote": "代天行化皇上若曰。 蓋 聞﹕ 仁 義 之 舉，要 在 安 民 ，",
+          "where": "câu đầu của văn bản (nguyên bản chữ Hán, Hoàng Việt văn tuyển)"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t03): nguyên văn Hán in 弔 trên vi.wikisource (Hoàng Việt văn tuyển 1825) nên claim 弔/吊 cũ không còn (zh.wikisource in dị thể 吊). Bản dịch Ngô Tất Tố xác nhận qua trang 'Bình Ngô đại cáo (Ngô Tất Tố dịch)' trên vi.wikisource (đề xuất dùng URL trang này trong bài). URL 'Trần Trọng Kim dịch' đúng là .../Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch); đường dẫn '(bản dịch của Trần Trọng Kim)' là 404. Năm 1428: vi.wikisource ghi (1428); bản soạn ở tháng Chạp Đinh Mùi (đầu 1428 dương lịch) — cách ghi 1428 thông dụng, không sai. Chưa kiểm 'Hán–Việt/ngày tháng' qua Toàn thư."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích là câu mở đầu của bài cáo. Ghi chú kiểm trước: Kiểm lại bằng trình duyệt (agent-kiem-5.2-t03): nguyên văn Hán in 弔 trên vi.wikisource (Hoàng Việt văn tuyển 1825) nên claim 弔/吊 cũ không còn (zh.wikisource in dị thể 吊). Bản dịch Ngô Tất Tố xác nhận qua trang 'Bình Ngô đại cáo (Ngô Tất Tố dịch)' trên vi.wikisource (đề xuất dùng URL trang này trong bài). URL 'Trần Trọng Kim dịch' đúng là .../Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch); đường dẫn '(bản dịch của Trần Trọng Kim)' là 404. Năm 1428: vi.wikisource ghi (1428); bản soạn ở tháng Chạp Đinh Mùi (đầu 1428 dương lịch) — cách ghi 1428 thông dụng, không sai. Chưa kiểm 'Hán–Việt/ngày tháng' qua Toàn thư."
 }

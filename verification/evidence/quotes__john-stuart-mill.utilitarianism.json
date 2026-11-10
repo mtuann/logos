@@ -1,8 +1,8 @@
 {
   "unit": "quotes/john-stuart-mill.utilitarianism",
-  "hash": "sha256:9304a5422d3ad0cc2f594ec1aa200e4fcdda74cf87feffbd8829c840ba8db0e1",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q03",
+  "hash": "sha256:266546e2b150ae4e8132d295e376dc2d68d5ff35463427d2e9db77d58a682d2c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: \"Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure.\"",
@@ -46,18 +46,6 @@
       ]
     },
     {
-      "text": "locator: chương 2 (Chapter II \"What Utilitarianism Is\")",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/ebooks/11224.txt.utf-8",
-          "quote": "A passing remark is all that needs be",
-          "where": "đầu đoạn 1 của Chapter II; câu trích ở đoạn 2"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: \"Hành động đúng tương xứng với mức độ chúng có xu hướng tạo ra hạnh phúc, sai tương xứng với mức độ chúng tạo ra điều ngược lại với hạnh phúc. Hạnh phúc ở đây được hiểu là niềm vui và sự vắng mặt của đau khổ; bất hạnh là đau khổ và sự thiếu vắng niềm vui.\"",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -67,8 +55,25 @@
           "quote": "By happiness is intended pleasure, and the absence of pain"
         }
       ]
+    },
+    {
+      "text": "locator: chương II",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "CHAPTER II. WHAT UTILITARIANISM IS",
+          "where": "tiêu đề chương 2"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness",
+          "where": "trong Chapter II, trước CHAPTER III"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Câu gốc là \"…the Greatest Happiness Principle, holds that actions are right…\" (giữa câu); bản ghi viết hoa \"Actions\" ở đầu trích — có thể ghi \"[A]ctions\" hoặc thêm \"[…]\". Năm: in trên Fraser's Magazine 1861, thành sách 1863 (SEP ghi \"Utilitarianism (1861)\"); 1863 đúng nếu hiểu là năm in sách. Gợi ý thống nhất \"pleasure\" = \"khoái lạc\" như trang Bentham/Mill (\"niềm vui\" vẫn đúng ý). Không có rủi ro bản quyền."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích thuộc chương II (Gutenberg #11224). Ghi chú kiểm trước: Câu gốc là \"…the Greatest Happiness Principle, holds that actions are right…\" (giữa câu); bản ghi viết hoa \"Actions\" ở đầu trích — có thể ghi \"[A]ctions\" hoặc thêm \"[…]\". Năm: in trên Fraser's Magazine 1861, thành sách 1863 (SEP ghi \"Utilitarianism (1861)\"); 1863 đúng nếu hiểu là năm in sách. Gợi ý thống nhất \"pleasure\" = \"khoái lạc\" như trang Bentham/Mill (\"niềm vui\" vẫn đúng ý). Không có rủi ro bản quyền."
 }

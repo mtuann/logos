@@ -1,8 +1,8 @@
 {
   "unit": "quotes/john-stuart-mill.utilitarianism-2",
-  "hash": "sha256:e15c920aa88f94eb54dff21d7eaacbe77c1d533c3ba9c3eaa93997bcdee3f5dd",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q03",
+  "hash": "sha256:f36f4acd330241727a9c74ab70041ddc4e487326d6cbae4d569bce4d3eea8c93",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn (lần in thứ 7, 1879, Project Gutenberg): \"Yet that even this rule, sacred as it is, admits of possible exceptions, is acknowledged by all moralists; the chief of which is when the withholding of some fact (as of information from a malefactor, or of bad news from a person dangerously ill) would preserve some one (especially a person other than oneself) from great and unmerited evil, and when the withholding can only be effected by denial.\"",
@@ -70,18 +70,6 @@
       ]
     },
     {
-      "text": "locator: chương 2 (Chapter II \"What Utilitarianism Is\")",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
-          "quote": "admits of possible exceptions",
-          "where": "Chapter II, \"What Utilitarianism Is\""
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: \"Thế nhưng ngay cả quy tắc này, thiêng liêng như nó vốn là, vẫn có thể có ngoại lệ, điều mọi nhà đạo đức học đều thừa nhận; ngoại lệ chính là khi việc giữ kín một sự việc (như giấu thông tin với kẻ gian, hay giấu tin dữ với người đang bệnh nặng nguy hiểm) sẽ che chở ai đó (nhất là một người khác chứ không phải chính mình) khỏi một điều ác lớn mà họ không đáng phải chịu, và khi việc giữ kín chỉ có thể thực hiện bằng cách chối.\"",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -91,8 +79,25 @@
           "quote": "is acknowledged by all moralists; the chief of which is when the withholding of some fact"
         }
       ]
+    },
+    {
+      "text": "locator: chương II",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "CHAPTER II. WHAT UTILITARIANISM IS",
+          "where": "tiêu đề chương 2"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "Yet that even this rule, sacred as it is, admits of possible exceptions",
+          "where": "trong Chapter II, trước CHAPTER III"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Chỉ khác một chữ: \"male-factor\" (Gutenberg, cả bản text và HTML) / \"malefactor\" (bản ghi) — chính tả, không đổi nghĩa. Bản dịch: \"evil\" ở đây là tai họa/điều dữ, \"điều ác\" hơi nghiêng về nghĩa đạo đức nhưng không sai ý; \"denial\" = chối, phủ nhận. Không có rủi ro bản quyền."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích thuộc chương II (Gutenberg #11224). Ghi chú kiểm trước: Chỉ khác một chữ: \"male-factor\" (Gutenberg, cả bản text và HTML) / \"malefactor\" (bản ghi) — chính tả, không đổi nghĩa. Bản dịch: \"evil\" ở đây là tai họa/điều dữ, \"điều ác\" hơi nghiêng về nghĩa đạo đức nhưng không sai ý; \"denial\" = chối, phủ nhận. Không có rủi ro bản quyền."
 }

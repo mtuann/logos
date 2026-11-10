@@ -1,8 +1,8 @@
 {
   "unit": "quotes/duc-phat.trich",
-  "hash": "sha256:e20bd70fe600111e66e584afdb7fa56c52a74f6c2eef8aed5c988a5f899a36c1",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q02",
+  "hash": "sha256:14856bb08f84b9d8911872724281c7b031453bf537f50a415e2719f9b35563a6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn (bản Sujato): “Mendicants, form is not-self. For if form were self, it wouldn’t lead to affliction. And you could compel form: ‘May my form be like this! May it not be like that!’”",
@@ -54,18 +54,6 @@
       ]
     },
     {
-      "text": "locator: SN 22.59 (segment 2.1–2.3)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/sn/sn22/sn22.59_root-pli-ms.json",
-          "quote": "“Rūpaṁ, bhikkhave, anattā. ",
-          "where": "sn22.59:2.1; câu trích ứng với 2.1–2.3"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: “Này các tỳ-kheo, sắc (thân) không phải là tự ngã. Vì nếu sắc là tự ngã, nó đã không dẫn tới bệnh khổ, và ta có thể ra lệnh cho nó: ‘Thân ta hãy như thế này! Đừng như thế kia!’”",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -88,8 +76,25 @@
           "where": "scpub4, Linked Discourses (SN), bản Sujato"
         }
       ]
+    },
+    {
+      "text": "locator: SN 22.59:2.1–2.3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/bilarasuttas/sn22.59/sujato?lang=en",
+          "quote": "“Mendicants, form is not-self. ",
+          "where": "segment sn22.59:2.1 (translation_text)"
+        },
+        {
+          "url": "https://suttacentral.net/api/bilarasuttas/sn22.59/sujato?lang=en",
+          "quote": "‘May my form be like this! May it not be like that!’ ",
+          "where": "segment sn22.59:2.3; 2.2 là \"For if form were self, it wouldn’t lead to affliction.\""
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Trang suttacentral.net/sn22.59/en/sujato là ứng dụng JavaScript (WebFetch chỉ thấy vỏ trang); đã đối chiếu qua API của SuttaCentral và kho dữ liệu chính thức suttacentral/bilara-data (nhánh published): khớp từng chữ. Trường license đang là unknown, nên ghi public-domain (CC0). Đề xuất: locator \"SN 22.59\" (hoặc chi tiết \"SN 22.59:2.1–2.3\")."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích trọn ba segment 2.1–2.3 của SN 22.59 bản Sujato (API SuttaCentral). Ghi chú kiểm trước: Trang suttacentral.net/sn22.59/en/sujato là ứng dụng JavaScript (WebFetch chỉ thấy vỏ trang); đã đối chiếu qua API của SuttaCentral và kho dữ liệu chính thức suttacentral/bilara-data (nhánh published): khớp từng chữ. Trường license đang là unknown, nên ghi public-domain (CC0). Đề xuất: locator \"SN 22.59\" (hoặc chi tiết \"SN 22.59:2.1–2.3\")."
 }

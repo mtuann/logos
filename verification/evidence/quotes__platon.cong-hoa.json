@@ -1,8 +1,8 @@
 {
   "unit": "quotes/platon.cong-hoa",
-  "hash": "sha256:0199673b8e3872afe1bb8a816279ec6d9e5f824cbcf52e9d5a17dcaff1a65b0a",
+  "hash": "sha256:b3a85dbb4d676b1ea9108e4b2c2dbf947f4cd9f70721e5623ed6aed95b048da2",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r04",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn \"Will he not be called by them a prater, a star-gazer, a good-for-nothing?\" có đúng từng chữ trong bản Jowett",
@@ -63,23 +63,23 @@
       ]
     },
     {
-      "text": "locator: số Stephanus của câu (tiêu đề chỉ ghi Quyển VI; không mở được nguồn có số Stephanus: Perseus/Perseids chặn công cụ)",
+      "text": "locator: VI, 488e–489a",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=6:section=489a",
-          "quote": "τε καὶ ἀδολέσχην καὶ ἄχρηστόν σφισι καλεῖσθαι ὑπὸ τῶν ἐν ταῖς οὕτω κατεσκευασμέναις ναυσὶ πλωτήρων;",
-          "where": "Cộng hòa VI, 489a (câu bắt đầu ở 488e)"
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=488e",
+          "quote": "[488e]",
+          "where": "Shorey, Republic VI: \"would the real pilot in very deed be called a star-gazer, an idle babbler,\" ở 488e"
         },
         {
-          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=488e",
-          "quote": "would be called a star-gazer, an idle babbler,",
-          "where": "Cộng hòa VI, 488e (Shorey) — câu 'star-gazer, babbler, good-for-nothing' trải từ 488e sang 489a"
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=6:section=489a",
+          "quote": "[489α] τε καὶ ἀδολέσχην καὶ ἄχρηστόν σφισι καλεῖσθαι",
+          "where": "Greek 489a: câu tiếp từ 488e (\"useless\" ở 489a)"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): Perseus (Burnet/Shorey) cho thấy câu 'ἀστρονόμον… ἀδολέσχην… ἄχρηστον' trải từ 488e sang 489a (đầu 489a: 'τε καὶ ἀδολέσχην καὶ ἄχρηστόν'). Đề xuất locator: 488e–489a (không phải 488e đơn thuần). Trường work 'chua-ro.cong-hoa' vẫn là khóa tạm, người làm xem lại."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trải từ 488e sang 489a; \"VI, 488e–489a\" đúng. Ghi chú kiểm trước: Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): Perseus (Burnet/Shorey) cho thấy câu 'ἀστρονόμον… ἀδολέσχην… ἄχρηστον' trải từ 488e sang 489a (đầu 489a: 'τε καὶ ἀδολέσχην καὶ ἄχρηστόν'). Đề xuất locator: 488e–489a (không phải 488e đơn thuần). Trường work 'chua-ro.cong-hoa' vẫn là khóa tạm, người làm xem lại."
 }

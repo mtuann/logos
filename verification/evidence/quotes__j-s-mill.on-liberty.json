@@ -1,8 +1,8 @@
 {
   "unit": "quotes/j-s-mill.on-liberty",
-  "hash": "sha256:c58c4b375c507138003071d964b346c5bcf2c98812ec15b5d827f0b751b97c7d",
+  "hash": "sha256:99dc94b3492cf0b6ec3006de210ccb2ab4f9189ce4e713a31e07e5e2f9744e34",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q06",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: \"the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.\"",
@@ -29,18 +29,6 @@
       ]
     },
     {
-      "text": "locator: chương 1",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
-          "quote": "to prevent harm to others",
-          "where": "Chương I 'Introductory'"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa: mục đích duy nhất cho phép xã hội can thiệp chính đáng vào tự do của bất kỳ ai, trái ý muốn, là ngăn ngừa gây hại cho người khác",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -50,8 +38,20 @@
           "quote": "against his will, is to prevent harm to others."
         }
       ]
+    },
+    {
+      "text": "locator: chương I",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "quote": "That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.",
+          "where": "CHAPTER I. INTRODUCTORY (câu nằm giữa phần nội dung chương I, trước CHAPTER II)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Tiêu đề ghi 'chương 1', đúng. Bản dịch hơi thoát: 'power' dịch thành 'xã hội can thiệp vào tự do' (ngữ cảnh trước đó của Mill là xã hội can thiệp vào tự do hành động), đúng ý. Mill 1859 phạm vi công cộng."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích thuộc chương I (Introductory). Ghi chú kiểm trước: Tiêu đề ghi 'chương 1', đúng. Bản dịch hơi thoát: 'power' dịch thành 'xã hội can thiệp vào tự do' (ngữ cảnh trước đó của Mill là xã hội can thiệp vào tự do hành động), đúng ý. Mill 1859 phạm vi công cộng."
 }
