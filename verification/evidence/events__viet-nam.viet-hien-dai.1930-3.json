@@ -1,0 +1,31 @@
+{
+  "unit": "events/viet-nam.viet-hien-dai.1930-3",
+  "hash": "sha256:d2229b72f4392a1a9accd4818923c13c7d5b46eebe4899191e38b0d0dd428a21",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-e07",
+  "claims": [
+    {
+      "text": "Có hội kín mác-xít (tổ chức cộng sản) ở Việt Nam quanh năm 1930",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vietcetera.com/vn/5-phut-on-lai-lich-su-ngay-ky-niem-thanh-lap-dang-cong-san-viet-nam-ngay-32",
+          "quote": "Ngày 3/2/1930 vẫn thường được biết đến là ngày Đảng Cộng sản Việt Nam chính thức ra đời."
+        }
+      ]
+    },
+    {
+      "text": "Năm 1930, báo chữ Quốc ngữ có bàn về Rousseau",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Một trí thức năm 1930 có thể đồng thời đọc Khổng Tử, báo Quốc ngữ và tham gia tổ chức mác-xít mà không thấy mâu thuẫn",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Không tìm được nguồn cho việc báo Quốc ngữ bàn Rousseau thời đó (hết lượt tìm). Vietcetera là nguồn yếu (báo/trang tổng hợp), nên thay bằng nguồn Viện Sử học hoặc tư liệu Đảng. Văn bản rút có ký tự thừa '[' trước Rousseau (lỗi rút tự động, không phải lỗi bài)."
+}

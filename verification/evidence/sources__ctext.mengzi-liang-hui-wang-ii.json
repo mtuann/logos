@@ -1,0 +1,32 @@
+{
+  "unit": "sources/ctext.mengzi-liang-hui-wang-ii",
+  "hash": "sha256:292f93e1d15a7730b2a31f84f22b951b7576014bae9a6c0b5ec14e2609d0d91a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Trang ctext.org/mengzi/liang-hui-wang-ii là thiên Lương Huệ Vương hạ, có câu 'tru kỳ quân nhi điếu kỳ dân'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/mengzi/liang-hui-wang-ii",
+          "quote": "誅其君而弔其民，若時雨降，民大悅。",
+          "where": "梁惠王下"
+        }
+      ]
+    },
+    {
+      "text": "Câu đó là Mạnh Tử 1B11 (số đoạn không hiện trong kết quả tải)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Tuân Tử thiên Vương chế: 'quân giả chu dã, thứ nhân giả thủy dã' (texts_seen, chưa mở)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ mở được trang Mạnh Tử; số 1B11 và dòng Tuân Tử chưa kiểm. Lưu ý texts_seen dẫn Tuân Tử nhưng URL chỉ là Mạnh Tử; nên thêm URL ctext.org/xunzi/wang-zhi."
+}

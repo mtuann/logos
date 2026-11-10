@@ -1,0 +1,37 @@
+{
+  "unit": "sources/cbeta.zh-t0251-001",
+  "hash": "sha256:d58eed520970e9d6ac50e4aae03fed71b0c254fe115eeddb1adb8225b9ee6bdc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Bát nhã Ba la mật đa Tâm kinh (般若波羅蜜多心經), Huyền Trang dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/works?work=T0251",
+          "quote": "唐 玄奘譯"
+        }
+      ]
+    },
+    {
+      "text": "Đại chính tân tu Đại tạng kinh T08 n0251",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/works?work=T0251&fields=work,title,byline,vol",
+          "quote": "T08n0251"
+        }
+      ]
+    },
+    {
+      "text": "URL https://cbetaonline.dila.edu.tw/zh/T0251_001 mở được và trỏ đúng văn bản",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Siêu dữ liệu đối chiếu qua API chính thức CBETA/DILA (cbdata). Trang cbetaonline là ứng dụng JS, WebFetch báo client_error nên chưa xác nhận được URL; người làm mở bằng trình duyệt."
+}

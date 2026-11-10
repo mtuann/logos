@@ -1,0 +1,27 @@
+{
+  "unit": "sources/ctext.xunzi-tian-lun",
+  "hash": "sha256:a17b557d195e94515e035850a82ffc8441e95847c95b8ae4a21bc36e39c9183c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s02",
+  "claims": [
+    {
+      "text": "Tuân Tử có thiên 17 Thiên luận (天論)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/xunzi",
+          "quote": "17. 天論 (Tian Lun)",
+          "where": "mục lục"
+        }
+      ]
+    },
+    {
+      "text": "URL https://ctext.org/xunzi/tian-lun mở được và là nguyên văn thiên Thiên luận",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Ghi chú: công cụ tải trang trả về bản tóm tắt; quote lấy từ kết quả tải. Trang thiên không tải được (client_error, thử 2 lần). Mục lục xác nhận thiên 17 là 天論; nên thử lại bằng trình duyệt."
+}

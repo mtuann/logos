@@ -1,0 +1,50 @@
+{
+  "unit": "quotes/trich.suy-niem-ii-3-at-7-25",
+  "hash": "sha256:fdb4b0c0494bf2a39fa7b589f135c035a71bc781199982630c6bbd4990c80aab",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q15",
+  "claims": [
+    {
+      "text": "Nguyên văn Veitch: \"Doubtless, then, I exist, since I am deceived; ... conceived in my mind.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may,",
+          "where": "Meditation II"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "he can never bring it about that I am nothing, so long as I shall be conscious that I am something."
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me,"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "or conceived in my mind."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (bỏ '(pronunciatum)' ở bản dịch, không đổi ý)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me,"
+        }
+      ]
+    },
+    {
+      "text": "locator: §3, AT 7:25",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn: Veitch 1853 (yogebooks.com PDF, in lại bản gốc; không phải Gutenberg). Veitch 1853 và Long 1862 đều thuộc phạm vi công cộng, trường license 'unknown' nên điền lại. Locator (số § và số AT) không tìm được trong nguồn đã mở: bản Veitch 1853 không đánh số đoạn, bản earlymoderntexts không có số AT."
+}

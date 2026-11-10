@@ -1,0 +1,27 @@
+{
+  "unit": "sources/ctext.analects-xian-jin",
+  "hash": "sha256:38bd1eedf71c72d9c74039667b91b226554963dfd2d7016c3205010a64e8c827",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Luận ngữ thiên Tiên tiến 11.24 có nguyên văn trên URL ctext.org/analects/xian-jin",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Khổng Tử, Luận ngữ có trên ctext, thiên Tiên tiến (先進) là thiên 11",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects",
+          "quote": "11. 先進 - Xian Jin",
+          "where": "danh mục chương"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. Không ghi dung 11.24 theo trí nhớ."
+}

@@ -1,0 +1,60 @@
+{
+  "unit": "quotes/trich.luan-ngu-thien-ly-nhan-4-16-va-thien-ve-linh-cong-15-21",
+  "hash": "sha256:c0e2171ff28db45f6b1cb699f66ac1470187bba72c29bde4bf27e0e19469e409",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q13",
+  "claims": [
+    {
+      "text": "Nguyên văn 4.16 khớp ctext.org",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/li-ren",
+          "quote": "子曰：「君子喻於義，小人喻於利。」",
+          "where": "里仁 16"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 15.21 khớp ctext.org",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/wei-ling-gong",
+          "quote": "子曰：「君子求諸己，小人求諸人。」",
+          "where": "衛靈公 21"
+        }
+      ]
+    },
+    {
+      "text": "locator: Lý nhân 4.16 và Vệ Linh Công 15.21",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/li-ren",
+          "quote": "里仁 16:"
+        },
+        {
+          "url": "https://ctext.org/analects/wei-ling-gong",
+          "quote": "衛靈公 21:"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/li-ren",
+          "quote": "君子喻於義，小人喻於利。"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn ctext.org đọc được qua trang không có hậu tố /zh; kết quả do công cụ đọc trang trả về."
+}

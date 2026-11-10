@@ -1,0 +1,37 @@
+{
+  "unit": "sources/ctext.analects",
+  "hash": "sha256:356d66077d98f20d57e6733946f5830a04bcaba5b70cb112a49adc5ae0638f2c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Luận ngữ có nguyên văn và bản dịch James Legge (1861) trên ctext, URL ctext.org/analects",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects",
+          "quote": "《論語 - The Analects》 ... English translation: James Legge",
+          "where": "trang đầu"
+        }
+      ]
+    },
+    {
+      "text": "Luận ngữ 2.17, 2.22, 13.18, 13.20 đúng nguyên văn/dịch trên ctext",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Mạnh Tử 4B11 và URL ctext.org/mengzi",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "SEP Csikszentmihalyi, Confucius, bản fall2026 (chưa mở trong lượt này)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang analects mở được một lần. ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. Ghi thêm: texts_seen có cách ghi '2.3 và 12.19' khác bản chính (2.17, 2.22, 13.18, 13.20); nên thống nhất. Cách ghi 'Legge (1861; bản sửa 1893)' chưa kiểm; trang chỉ ghi 1861."
+}

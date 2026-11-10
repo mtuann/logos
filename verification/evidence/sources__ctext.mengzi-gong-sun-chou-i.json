@@ -1,0 +1,30 @@
+{
+  "unit": "sources/ctext.mengzi-gong-sun-chou-i",
+  "hash": "sha256:f2f3442246af600c6a26a2be801428fd660f28655c24582e322ceb142aa42944",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s01",
+  "claims": [
+    {
+      "text": "Mạnh Tử 2A6 (ctext.org/mengzi/gong-sun-chou-i) và 6A (gaozi-i)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Tuân Tử thiên 23 (ctext.org/xunzi/xing-e)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Tam tự kinh (ctext.org/three-character-classic)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "H. A. Giles (1900), lời tựa San Tzu Ching trên Wikisource",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. Mục gộp nhiều URL, chưa mở được URL nào; Wikisource Giles chưa thử do hết lượt."
+}

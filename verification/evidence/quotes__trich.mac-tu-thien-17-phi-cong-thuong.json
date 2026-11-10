@@ -1,0 +1,41 @@
+{
+  "unit": "quotes/trich.mac-tu-thien-17-phi-cong-thuong",
+  "hash": "sha256:8bfa24e6b5365deb9fd89efd8d6f4f342cd2d0f3286939eb5524345e39312647",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q14",
+  "claims": [
+    {
+      "text": "Nguyên văn đoạn 殺一人謂之不義 … 謂之義",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "當此，天下之君子皆知而非之，謂之不義。今至大爲不義攻國，則弗知非，從而譽之，謂之義"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Logos sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "殺十人十重不義，必有十死罪矣"
+        }
+      ]
+    },
+    {
+      "text": "locator: thiên 17 Phi công thượng",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Số thiên 17 chưa kiểm được (chinesenotes.com chỉ ghi 卷五 非攻上). Nguyên văn khớp đúng chữ (爲/為 dị thể). Nguồn: Wikisource."
+}

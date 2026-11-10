@@ -1,0 +1,61 @@
+{
+  "unit": "quotes/trich.suy-niem-i-5-va-8-at-7-1920",
+  "hash": "sha256:ff810e3480613f289c7f76d585be0fce2c938761474246b6906ecd32d4d0e138",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q15",
+  "claims": [
+    {
+      "text": "Nguyên văn Veitch: \"I perceive so clearly that there exist no certain marks ... I am now dreaming.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "and, attentively considering those cases, I perceive so clearly that there exist no certain marks",
+          "where": "Meditation I"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "by which the state of waking can ever be distinguished from sleep, that I feel greatly astonished;"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "and in amazement I almost persuade myself that I am now dreaming."
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Veitch: \"for whether I am awake or dreaming, it remains true that two and three make five, and that a square has but four sides\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "for whether I am awake or dreaming, it remains true that two and three make five,"
+        },
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "and that a square has but four sides"
+        }
+      ]
+    },
+    {
+      "text": "Hai đoạn dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "and in amazement I almost persuade myself that I am now dreaming."
+        }
+      ]
+    },
+    {
+      "text": "locator: §5 và §8, AT 7:19-20",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn: Veitch 1853 (yogebooks.com PDF, in lại bản gốc; không phải Gutenberg). Veitch 1853 và Long 1862 đều thuộc phạm vi công cộng, trường license 'unknown' nên điền lại. Locator (số § và số AT) không tìm được trong nguồn đã mở: bản Veitch 1853 không đánh số đoạn, bản earlymoderntexts không có số AT. Đoạn thứ nhất bắt đầu giữa câu (bỏ 'attentively considering those cases'), chấp nhận được vì không đổi nghĩa."
+}

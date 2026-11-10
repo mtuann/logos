@@ -1,0 +1,50 @@
+{
+  "unit": "quotes/trich.suy-niem-ii-11-va-16-at-7-30-34",
+  "hash": "sha256:05baa3b33697667dcb8f4cbf49f38b01fedee5caff2e88edebe096b9d94366ed",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q15",
+  "claims": [
+    {
+      "text": "Nguyên văn Veitch: \"It must be admitted that it does remain; no one doubts it, or judges otherwise.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "It must be admitted that it does remain; no one doubts it, or judges otherwise.",
+          "where": "Meditation II"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Veitch: \"I readily discover that there is nothing more easily or clearly apprehended than my own mind.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "I readily discover that there is nothing more easily or clearly apprehended than my own mind.",
+          "where": "Meditation II"
+        }
+      ]
+    },
+    {
+      "text": "Hai câu dịch tiếng Việt sát nghĩa (chữ 'nó' chỉ miếng sáp, cần ngữ cảnh nhưng đúng ý)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
+          "quote": "It must be admitted that it does remain; no one doubts it, or judges otherwise."
+        }
+      ]
+    },
+    {
+      "text": "locator: §11 và §16, AT 7:30, 34",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn: Veitch 1853 (yogebooks.com PDF, in lại bản gốc; không phải Gutenberg). Veitch 1853 và Long 1862 đều thuộc phạm vi công cộng, trường license 'unknown' nên điền lại. Locator (số § và số AT) không tìm được trong nguồn đã mở: bản Veitch 1853 không đánh số đoạn, bản earlymoderntexts không có số AT. Câu thứ nhất nói về miếng sáp: nên ghi chú ngữ cảnh ở bài."
+}
