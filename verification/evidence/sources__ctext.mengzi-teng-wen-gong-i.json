@@ -2,14 +2,45 @@
   "unit": "sources/ctext.mengzi-teng-wen-gong-i",
   "hash": "sha256:b2f3eb051f849e0f7df813e98df03dba5c4557e71cf998dc7cf8c04d12616371",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Mạnh Tử 3A5 và 3B9 trên ctext (teng-wen-gong-i, -ii) (URL mở được, đúng tác phẩm và nội dung)",
+      "text": "Mạnh Tử 3A5 (Đằng Văn Công thượng), nguyên văn",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+          "quote": "吾聞夷子墨",
+          "where": "mục 5"
+        }
+      ]
+    },
+    {
+      "text": "Mạnh Tử 3B9 (Đằng Văn Công hạ), nguyên văn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+          "quote": "孟子曰：「予豈好辯哉？予不得已也。",
+          "where": "mục 9"
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org/mengzi/teng-wen-gong-i và -ii trỏ đúng thiên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+          "quote": "吾聞夷子墨",
+          "where": "đối chiếu ở zh.wikisource 孟子/滕文公上, 滕文公下; URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. "
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở zh.wikisource; ctext không mở."
 }

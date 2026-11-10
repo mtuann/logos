@@ -2,12 +2,18 @@
   "unit": "sources/sep.locke-political",
   "hash": "sha256:30644d67b289b8050965b83c2dc78ee587f12a8b036ef54a35db278537aa3b01",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s06",
+  "checker": "agent-kiem-5.2-r36",
   "claims": [
     {
       "text": "URL bản lưu fall2026 mở được và trỏ đúng mục",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "First published Wed Nov 9, 2005; substantive revision Tue Oct 6, 2020"
+        }
+      ]
     },
     {
       "text": "Tên mục 'Locke's Political Philosophy'",
@@ -15,9 +21,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/entries/locke-political/",
-          "quote": "Locke’s Political Philosophy",
-          "where": "tiêu đề trang bản hiện hành (không phải bản lưu)"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "Locke’s Political Philosophy (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang"
         }
       ]
     },
@@ -27,13 +33,13 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/entries/locke-political/",
-          "quote": "Copyright © 2020 by Alex Tuckness",
-          "where": "cuối trang bản hiện hành"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "Copyright © 2020 by\nAlex Tuckness",
+          "where": "dòng Copyright cuối trang"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Bản lưu fall2026 của mục này không mở được qua WebFetch (client_error, thử 4 lần). Tên mục, tác giả và ngày kiểm trên bản hiện hành plato.stanford.edu/entries/locke-political/. Cần người làm mở thử bằng trình duyệt. texts_seen: các cách ghi khác chỉ khác dấu nháy cong/thẳng hoặc thêm chú thích, cùng tên mục và tác giả; nên thống nhất một cách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): texts_seen chỉ khác dấu nháy cong/thẳng; nên thống nhất một cách."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/iep.fallacy",
   "hash": "sha256:6e94ed48ee298987fab8d5e90f645c1cd82be73289f1e5c9c98c1f9338bd08b7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s09",
+  "checker": "agent-kiem-5.2-r36",
   "claims": [
     {
       "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/fallacy/",
@@ -11,8 +11,8 @@
       "sources": [
         {
           "url": "https://iep.utm.edu/fallacy/",
-          "quote": "A fallacy is a kind of error in reasoning.",
-          "where": "đoạn mở đầu"
+          "quote": "Fallacies | Internet Encyclopedia of Philosophy",
+          "where": "tiêu đề trang"
         }
       ]
     },
@@ -31,7 +31,14 @@
     {
       "text": "Tác giả: Bradley Dowden",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Author Information\n\nBradley Dowden",
+          "where": "cuối bài, Author Information"
+        }
+      ]
     },
     {
       "text": "Trang có các mục \"Affirming the Consequent\" và \"Denying the Antecedent\"",
@@ -41,16 +48,11 @@
         {
           "url": "https://iep.utm.edu/fallacy/",
           "quote": "Affirming the Consequent",
-          "where": "danh sách các nguỵ biện"
-        },
-        {
-          "url": "https://iep.utm.edu/fallacy/",
-          "quote": "Denying the Antecedent",
-          "where": "danh sách các nguỵ biện"
+          "where": "tìm thấy cả hai cụm \"Affirming the Consequent\" và \"Denying the Antecedent\" trong văn bản trang"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Tên bài khớp cả hai cách ghi trong texts_seen. Phần đọc được của trang (WebFetch, bị cắt ở ~100k ký tự, phần cuối không đọc được) không hiện dòng tác giả; PhilPapers không mở được, tìm kiếm chỉ cho tiêu đề 'Bradley Dowden, Fallacies'. Người làm xem tay phần Author Information cuối trang. Hai cách ghi (có/không ghi chú mục) chỉ khác phần chú thích; nên thống nhất bản có chú mục ở nơi trích hai mục đó."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): tác giả xác nhận ở Author Information. Hai cách ghi trong texts_seen chỉ khác chú thích mục; nên thống nhất bản có chú mục."
 }

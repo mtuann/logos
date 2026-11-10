@@ -1,0 +1,46 @@
+{
+  "unit": "sources/web.sourcebooks-fordham-edu.halsall-mod-hume-miracles-asp",
+  "hash": "sha256:7677fa076c44785dd7ee4d42ed176b07379b881a11e9d07b75a4e3d4a2cf5e4f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được, trang Hume 'On Miracles' trích An Enquiry Concerning Human Understanding (chuyển hướng sang https)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.fordham.edu/mod/hume-miracles.asp",
+          "quote": "From David Hume. An Enquiry Concerning Human Understanding",
+          "where": "trang Internet History Sourcebooks"
+        }
+      ]
+    },
+    {
+      "text": "Đoạn trên trang nằm ở mục X 'Of Miracles'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662.txt",
+          "quote": "SECTION X.",
+          "where": "đoạn 'A miracle is a violation of the laws of nature' nằm dưới 'OF MIRACLES' (Gutenberg #9662)"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1748",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/miracles/",
+          "quote": "Hume 1748/2000",
+          "where": "SEP Miracles, mục 1.2"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): trang Fordham chỉ là trích đoạn ngắn (không ghi 'mục X' hay 1748); đối chiếu Gutenberg và SEP. Tác giả trang: Paul Halsall; URL cũ halsall/mod/ chuyển hướng sang /mod/."
+}

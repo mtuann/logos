@@ -1,0 +1,46 @@
+{
+  "unit": "sources/web.rogerebert-com.roger-ebert-okay-kids-play-on-my-lawn",
+  "hash": "sha256:66773073e689e5de36c1c4ec9aa4a5468cb649543b3e589f339bb83f5c383bb4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được, trỏ đúng bài 'Okay, kids, play on my lawn' của Roger Ebert",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn",
+          "quote": "Okay, kids, play on my lawn Roger Ebert",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Năm 2010: bài đăng gốc ngày 1/7/2010 trên blog Sun-Times",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20100701171847/http://blogs.suntimes.com/ebert/2010/07/okay_kids_play_on_my_lawn.html",
+          "quote": "By Roger Ebert on July 1, 2010 12:08 AM",
+          "where": "bản lưu Wayback 2010-07-01"
+        }
+      ]
+    },
+    {
+      "text": "Nội dung: Ebert nói trò chơi điện tử không bao giờ là Nghệ thuật",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn",
+          "quote": "I declared as an axiom that video games can never be Art.",
+          "where": "đoạn mở"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): trang rogerebert.com hiện ngày 14/12/2012 (ngày chuyển site), nên khẳng định 'năm 2010' dựa vào bản Wayback; nên ghi trong mục 'bản gốc 2010, blog Sun-Times'. Nguồn báo chí/blog tác giả: yếu theo quyết định 31."
+}

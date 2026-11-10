@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-1007-bf01624156",
   "hash": "sha256:a579e33c886471b2811467d14b5224f0c9d99c63c40bbf4c5347479bfb2b0a69",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s02",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
       "text": "van Inwagen (1975), The Incompatibility of Free Will and Determinism, Philosophical Studies 27(3): 185–199",
@@ -10,18 +10,23 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://link.springer.com/article/10.1007/BF01624156",
-          "quote": "Philosophical Studies; Volume 27, Issue 3; Pages 185–199; 1975",
-          "where": "DOI chuyển hướng tới trang này"
+          "url": "https://api.crossref.org/works/10.1007/BF01624156",
+          "quote": "\"title\":[\"The incompatibility of free will and determinism\"]; \"volume\":\"27\"; \"issue\":\"3\"; \"page\":\"185-199\""
         }
       ]
     },
     {
       "text": "van Inwagen (1983), An Essay on Free Will, Oxford: Clarendon Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=an+essay+on+free+will+van+inwagen",
+          "quote": "\"first_publish_year\":1983,\"publisher\":[\"Clarendon\",\"Clarendon Press\",\"Oxford University Press\"],\"title\":\"An essay on free will\""
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Mục sách 1983 không có URL, chưa mở nguồn (WorldCat/OUP bị giới hạn lượt). Đề xuất kiểm bằng trang OUP/WorldCat; mục gộp hai nguồn trong một khóa DOI."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref khớp bài 1975 đủ trang 185-199. Sách 1983 xác nhận qua Open Library (nguồn thư mục, không phải trang nhà xuất bản). Link ổn định đề xuất cho sách: trang OUP hoặc DOI 10.1093/acprof:oso/9780198249245.001.0001 nếu có (chưa mở, không dùng làm bằng chứng)."
 }

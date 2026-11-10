@@ -2,7 +2,7 @@
   "unit": "sources/ctext.zhuangzi-adjustment-of-controversies",
   "hash": "sha256:61b424bc6b07518f30d1cd9bd20c3cf49f552f1b4ec7f9ee7748184109c698b2",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s02",
+  "checker": "agent-kiem-5.2r35",
   "claims": [
     {
       "text": "Trang Tử thiên 2 là Tề vật luận (齊物論), tên Legge The Adjustment of Controversies",
@@ -12,7 +12,12 @@
         {
           "url": "https://ctext.org/zhuangzi",
           "quote": "The Adjustment of Controversies (齊物論)",
-          "where": "mục lục, thiên thứ hai nội thiên"
+          "where": "mục lục (lượt kiểm trước, giữ lại)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "齊物論第二",
+          "where": "header"
         }
       ]
     },
@@ -23,16 +28,29 @@
       "sources": [
         {
           "url": "https://ctext.org/zhuangzi",
-          "quote": "The Writings of Chuang Tzu (1891)"
+          "quote": "The Writings of Chuang Tzu (1891)",
+          "where": "lượt kiểm trước, giữ lại"
+        },
+        {
+          "url": "https://archive.org/details/legge-1891-zhuangzi",
+          "quote": "Legge's translation and study from volumes 39 and 40 of Sacred Books of the East (Oxford, 1891)",
+          "where": "mô tả mục"
         }
       ]
     },
     {
-      "text": "URL .../adjustment-of-controversies mở được và có nguyên văn + bản dịch Legge",
+      "text": "URL .../adjustment-of-controversies có nguyên văn + bản dịch Legge",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "南郭子綦隱几而坐，仰天而噓，嗒焉似喪其耦。",
+          "where": "đối chiếu ở zh.wikisource; URL theo mẫu của site (quyết định 34); Legge 1891 xác nhận ở Internet Archive"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Ghi chú: công cụ tải trang trả về bản tóm tắt; quote lấy từ kết quả tải. Trang thiên bị chặn (màn hình kiểm tra bảo mật, 2 lần). Tên thiên và số thứ tự xác nhận qua mục lục."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r35): ctext không mở (quyết định 34). Nguyên văn đối chiếu ở zh.wikisource; Legge 1891 (SBE 39-40) xác nhận ở Internet Archive, chưa đối chiếu từng câu tiếng Anh của thiên 2."
 }

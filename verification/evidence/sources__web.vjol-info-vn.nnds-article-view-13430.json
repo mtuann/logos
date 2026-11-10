@@ -1,0 +1,77 @@
+{
+  "unit": "sources/web.vjol-info-vn.nnds-article-view-13430",
+  "hash": "sha256:dba302c5028a787503d3b068b929800ed8104e4b708390a9690eaf4b0a5b8f38",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r31",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài về “nếu” trong Quốc âm thi tập của Nguyễn Trãi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/NNDS/article/view/13430",
+          "quote": "Bài viết tìm hiểu việc Nguyễn Trãi dùng \"nếu\" trong Quốc âm thi tập gồm 254 bài",
+          "where": "Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Nguyễn Minh Sơn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/NNDS/article/view/13430",
+          "quote": "Nguyễn Minh Sơn",
+          "where": "mục Authors"
+        }
+      ]
+    },
+    {
+      "text": "Đăng trong Ngôn ngữ & Đời sống, số 5, 2010",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/NNDS/article/view/13430",
+          "quote": "No. 5 (2010)",
+          "where": "Issue; Tạp chí Ngôn ngữ và Đời sống, ISSN 0868-3409"
+        }
+      ]
+    },
+    {
+      "text": "Về 254 bài của Quốc âm thi tập",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/NNDS/article/view/13430",
+          "quote": "Quốc âm thi tập gồm 254 bài",
+          "where": "Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: “Phải chăng thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "“Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?” (thiếu chữ “từ” sau “Phải chăng”)",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/NNDS/article/view/13430",
+          "quote": "Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết \"Nếu\"?",
+          "where": "tiêu đề trang; meta citation_title"
+        }
+      ]
+    },
+    {
+      "text": "Số liên tục (175) của số 5 năm 2010",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r31): lỗi tên bài là bỏ sót một chữ (nhẹ về mặt đọc, xếp 'vua' theo hướng dẫn: sai tên). Trang chỉ ghi 'No. 5 (2010)', không ghi số tổng 175: chưa kiểm được, nên cần xem PDF hoặc mục lục tạp chí. Trang ghi đăng trên VJOL 2013-12-23 (không ảnh hưởng năm 2010 của số báo). Trang bài: 34–40 theo meta (firstpage 40, lastpage 34 đảo), mục không ghi trang nên không phải kiểm."
+}

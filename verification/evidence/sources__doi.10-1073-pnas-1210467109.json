@@ -2,45 +2,30 @@
   "unit": "sources/doi.10-1073-pnas-1210467109",
   "hash": "sha256:db46c058ca4c60123e3f2ab06688a38ef4b8ceb3c7025d60a169275a2a861a0f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s11",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
-      "text": "Tác giả: Schurger, Sitt, Dehaene",
+      "text": "Tác giả: Schurger, Sitt, Dehaene; tên bài; PNAS 109(42), 2012",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.1073/pnas.1210467109",
-          "quote": "Aaron Schurger; Jacobo D. Sitt; Stanislas Dehaene"
+          "quote": "\"title\":[\"An accumulator model for spontaneous neural activity prior to self-initiated movement\"]; \"volume\":\"109\"; \"issue\":\"42\""
         }
       ]
     },
     {
-      "text": "Tên bài: An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement",
+      "text": "Trang E2904–E2913",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://api.crossref.org/works/10.1073/pnas.1210467109",
-          "quote": "An accumulator model for spontaneous neural activity prior to self-initiated movement"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22869750/",
+          "quote": "Proc Natl Acad Sci U S A. 2012 Oct 16;109(42):E2904-13. doi: 10.1073/pnas.1210467109",
+          "where": "PubMed PMID 22869750"
         }
       ]
-    },
-    {
-      "text": "PNAS 109(42), 2012",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works/10.1073/pnas.1210467109",
-          "quote": "Proceedings of the National Academy of Sciences; 2012; volume 109; issue 42"
-        }
-      ]
-    },
-    {
-      "text": "Trang E2904–E2913 (Crossref không có trường page; trang pnas.org và PubMed không mở được)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     },
     {
       "text": "DOI trỏ đúng bài",
@@ -49,11 +34,11 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.1073/pnas.1210467109",
-          "quote": "An accumulator model for spontaneous neural activity prior to self-initiated movement"
+          "quote": "authors Schurger, Sitt, Dehaene; issued 2012-8-6 (online), 2012-10-16 (print)"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Số trang chưa xác nhận từ nguồn mở được; kết quả tìm kiếm cho thấy 'E2904' trong URL pnas.org/content/109/42/E2904 nhưng chưa mở. Xin người làm hoặc lô sau mở PubMed."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): PubMed ghi E2904-13 (tức E2904–E2913). Crossref không có trường page."
 }

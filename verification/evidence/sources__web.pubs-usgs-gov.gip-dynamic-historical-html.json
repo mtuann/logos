@@ -1,0 +1,45 @@
+{
+  "unit": "sources/web.pubs-usgs-gov.gip-dynamic-historical-html",
+  "hash": "sha256:237d20e7cc235587375a151030f1bb6a6b028f879089d0a73e934866f1aaee58",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được, trang 'Historical perspective' của This Dynamic Earth (USGS)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "Historical perspective [This Dynamic Earth, USGS]",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1912: thuyết trôi dạt lục địa của Wegener",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "it was not until 1912 that the idea of moving continents was seriously considered as a full-blown scientific theory",
+          "where": "đoạn về Continental Drift"
+        }
+      ]
+    },
+    {
+      "text": "Wegener là nhà khí tượng học Đức",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "a 32-year-old German meteorologist named Alfred Lothar Wegener"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): nguồn chính phủ Hoa Kỳ, đạt."
+}

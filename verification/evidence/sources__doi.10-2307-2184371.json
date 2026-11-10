@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-2307-2184371",
   "hash": "sha256:f6070445b8578a4dca1d0696b1a7ec1566f973ac8ac367ed90a618bb31c54c1f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s12",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
       "text": "Block (1981) 'Psychologism and Behaviorism', Phil. Review 90(1)",
@@ -11,16 +11,23 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2184371",
-          "quote": "\"title\": \"Psychologism and Behaviorism\"; \"volume\":\"90\"; \"issue\":\"1\"; \"page\":\"5\""
+          "quote": "\"title\":[\"Psychologism and Behaviorism\"]; \"volume\":\"90\"; \"issue\":\"1\"; \"page\":\"5\""
         }
       ]
     },
     {
       "text": "Trang 5–43",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2184371",
+          "quote": "Vol. 90, No. 1, Jan., 1981; pageStart 5, pageEnd 43 (pageCount 39)",
+          "where": "trang ổn định JSTOR, dòng Vol./pp."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref khớp tên bài, tạp chí, tập, số, năm; trang JSTOR cho đủ khoảng trang. DOI trỏ đúng bài. "
 }

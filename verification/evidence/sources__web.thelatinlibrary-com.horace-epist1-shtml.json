@@ -1,0 +1,34 @@
+{
+  "unit": "sources/web.thelatinlibrary-com.horace-epist1-shtml",
+  "hash": "sha256:c1e88e246db730943d35b36f82ea7750bdf86be27152245ee0706484e294b7f2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được, trang 'Horace: Epistulae I' của The Latin Library",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelatinlibrary.com/horace/epist1.shtml",
+          "quote": "Q. HORATI FLACCI EPISTVLARVM LIBER PRIMVS",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Epistulae I.2 có dòng 40 'sapere aude'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelatinlibrary.com/horace/epist1.shtml",
+          "quote": "Dimidium facti, qui coepit, habet; sapere aude,               40",
+          "where": "thư II (Troiani belli scriptorem, Maxime Lolli), dòng 40"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): trang chứa toàn Quyển I; đánh số dòng 40 khớp 'I.2.40'. The Latin Library không nêu người biên tập (nguồn yếu về biên tập)."
+}

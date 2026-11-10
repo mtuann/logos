@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.thebritishacademy-ac-uk.documents-890-19-memoirs-03-parfit-pdf",
+  "hash": "sha256:6588027959e8e6ad41b2b1f42b71faf81236ad6b4305e0a528705f560ea29a82",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "Tác giả Jonathan Dancy; tên bài 'Derek Antony Parfit, 11 December 1942 – 2 January 2017'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://docslib.org/doc/13419738/derek-parfit",
+          "quote": "Derek Antony Parfit 11 December 1942 - 2 January 2017 elected Fellow of the British Academy 1986 by JONATHAN DANCY",
+          "where": "bản sao văn bản memoir; kết quả tìm kiếm cũng trỏ pdf.stafforini.com và Scribd cùng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Biographical Memoirs of Fellows of the British Academy, XIX, tr. 37–57, năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://docslib.org/doc/13419738/derek-parfit",
+          "quote": "Biographical Memoirs of Fellows of the British Academy, XIX, 37–57 Posted 28 April 2020. © British Academy 2020.",
+          "where": "chân bài"
+        }
+      ]
+    },
+    {
+      "text": "URL thebritishacademy.ac.uk/documents/890/... mở được và là chính PDF này (trình xem PDF không đọc được chữ; chỉ thấy tên file 19-Memoirs-03-Parfit.pdf, 57 trang thu nhỏ)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): URL mở ra một PDF (tên tệp khớp) nhưng không đọc được chữ trong trình xem; nội dung đối chiếu qua bản sao docslib. Người làm xem hộ trang đầu PDF nếu cần. Crossref không có mục riêng cho memoir."
+}

@@ -1,0 +1,34 @@
+{
+  "unit": "sources/web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-04-0057-entry-fi",
+  "hash": "sha256:3812266168d346ef6335cc017d8119d8fbcf382b11bfdd480384c8f9d3f634ac",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r30",
+  "claims": [
+    {
+      "text": "URL mở được, trỏ đúng mục φιλοσοφία trong LSJ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=filosofi/a",
+          "quote": "Henry George Liddell, Robert Scott, A Greek-English Lexicon, φι^λοσοφ-ία",
+          "where": "tiêu đề tab"
+        }
+      ]
+    },
+    {
+      "text": "Mục φιλοσοφία có nghĩa 'love of knowledge, pursuit thereof'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=filosofi/a",
+          "quote": "love of knowledge, pursuit there of, speculation",
+          "where": "A.1"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): bài viết dùng mục để nói nghĩa gốc 'yêu tri thức'; khớp."
+}

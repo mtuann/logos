@@ -2,7 +2,7 @@
   "unit": "sources/doi.10-2307-2023833",
   "hash": "sha256:1f8c8e81ec05e7bf1c06e3388f10356841c13c79002cc5fe75ddd14810919860",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s12",
+  "checker": "agent-kiem-5.2-r32",
   "claims": [
     {
       "text": "Frankfurt (1969) 'Alternate Possibilities and Moral Responsibility', Journal of Philosophy 66(23)",
@@ -11,14 +11,21 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2023833",
-          "quote": "\"title\":\"Alternate Possibilities and Moral Responsibility\"; \"volume\":\"66\"; \"issue\":\"23\"; issued 1969"
+          "quote": "\"title\":[\"Alternate Possibilities and Moral Responsibility\"]; \"volume\":\"66\"; \"issue\":\"23\""
         }
       ]
     },
     {
-      "text": "Trang 829–839 của bài 1969 (Crossref chỉ có \"page\":\"829\")",
+      "text": "Trang 829–839 của bài 1969",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2023833",
+          "quote": "Vol. 66, No. 23 (Dec. 4, 1969), pp. 829-839 (11 pages)",
+          "where": "dòng thông tin bài"
+        }
+      ]
     },
     {
       "text": "Frankfurt (1971) 'Freedom of the Will and the Concept of a Person', J. Philosophy 68(1), DOI 10.2307/2024717",
@@ -27,16 +34,23 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2024717",
-          "quote": "\"Freedom of the Will and the Concept of a Person\"; \"volume\":\"68\"; \"issue\":\"1\"; issued 1971"
+          "quote": "\"title\":[\"Freedom of the Will and the Concept of a Person\"]; \"volume\":\"68\"; \"issue\":\"1\""
         }
       ]
     },
     {
-      "text": "Trang 5–20 của bài 1971 (Crossref chỉ có \"page\":\"5\")",
+      "text": "Trang 5–20 của bài 1971",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2024717",
+          "quote": "Vol. 68, No. 1, Jan. 14, 1971; pageStart 5, pageEnd 20 (pageCount 16)",
+          "where": "dữ liệu trang JSTOR (pageStart/pageEnd, tải bằng trình duyệt)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI. Cả hai DOI trỏ đúng bài. texts_seen chỉ nêu bài 1969: nên thống nhất ghi cả hai hoặc ghi theo từng trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref và JSTOR khớp cả hai bài; DOI trỏ đúng bài. texts_seen chỉ nêu bài 1969: nên thống nhất ghi cả hai hoặc ghi theo từng trang."
 }

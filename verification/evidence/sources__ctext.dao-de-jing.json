@@ -2,14 +2,44 @@
   "unit": "sources/ctext.dao-de-jing",
   "hash": "sha256:0e553a2366b16cd695fede0f3b55ec3193d45ce621c79d4748fb43e4b5026d8d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Đạo đức kinh nguyên văn bản Vương Bật và dịch James Legge (1891) trên ctext.org/dao-de-jing",
+      "text": "Đạo đức kinh, nguyên văn bản Vương Bật có trên Wikisource (đối chiếu chương 1)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道，非常道，名可名，非常名；",
+          "where": "一章"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh của James Legge (1891)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/T%C3%A2o_Teh_King",
+          "quote": "Published in Sacred Books of the East, Vol. 39 (1891)."
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org/dao-de-jing mở được, đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道，非常道，名可名，非常名；",
+          "where": "đối chiếu ở zh.wikisource 道德經 (王弼本) và en.wikisource (Legge); URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. Cũng cần xác nhận 'bản Vương Bật' và năm 1891."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Chỉ xác nhận được 'bản Vương Bật' ở Wikisource và Legge 1891 ở en.wikisource; việc ctext dùng đúng bản Vương Bật không mở được trên site (theo quyết định 34)."
 }

@@ -2,19 +2,100 @@
   "unit": "sources/ctext.hanfeizi",
   "hash": "sha256:60c23706c1afcb86f0058f74ea8485bde808d362d1542d5fd05b46bec634a66f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Hàn Phi Tử có các thiên Hữu độ, Nhị bính, Dương quyền, Công danh, Lục phản trên ctext.org/hanfeizi",
+      "text": "Hàn Phi Tử thiên Hữu độ (有度)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子/有度",
+          "quote": "國無常强，無常弱。奉法者强，則國强"
+        }
+      ]
     },
     {
-      "text": "Thiên 20 'Giải Lão', thiên 21 'Dụ Lão' (texts_seen)",
+      "text": "Thiên Nhị bính (二柄)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子/二柄",
+          "quote": "明主之所導制其臣者，二柄而已矣。二柄者，刑德也。"
+        }
+      ]
+    },
+    {
+      "text": "Thiên Dương quyền (揚權)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子/揚權",
+          "quote": "事在四方，要在中央。聖人執要，四方來效。"
+        }
+      ]
+    },
+    {
+      "text": "Thiên Công danh (功名)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子/功名",
+          "quote": "明君之所以立功成名者四：一曰天時，二曰人心，三曰技能，四曰勢"
+        }
+      ]
+    },
+    {
+      "text": "Thiên Lục phản (六反)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子/六反",
+          "quote": "畏死遠難，降北之民也，而世尊之曰「貴生之士」"
+        }
+      ]
+    },
+    {
+      "text": "texts_seen: thiên 20 'Giải Lão' (解老)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子",
+          "quote": "解老第二十",
+          "where": "mục lục"
+        }
+      ]
+    },
+    {
+      "text": "texts_seen: thiên 21 'Dụ Lão' (喻老)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子",
+          "quote": "喻老第二十一",
+          "where": "mục lục"
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org/hanfeizi trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子/有度",
+          "quote": "國無常强，無常弱。",
+          "where": "đối chiếu ở zh.wikisource 韓非子; URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. "
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở zh.wikisource; ctext không mở."
 }

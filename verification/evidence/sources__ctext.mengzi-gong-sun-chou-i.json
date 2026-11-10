@@ -2,29 +2,110 @@
   "unit": "sources/ctext.mengzi-gong-sun-chou-i",
   "hash": "sha256:f2f3442246af600c6a26a2be801428fd660f28655c24582e322ceb142aa42944",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s01",
+  "checker": "agent-kiem-5.2-r34",
   "claims": [
     {
-      "text": "Mạnh Tử 2A6 (ctext.org/mengzi/gong-sun-chou-i) và 6A (gaozi-i)",
+      "text": "Mạnh Tử 2A6 (Công Tôn Sửu thượng)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "皆有怵惕惻隱之心",
+          "where": "mục 6"
+        }
+      ]
     },
     {
-      "text": "Tuân Tử thiên 23 (ctext.org/xunzi/xing-e)",
+      "text": "Mạnh Tử 6A (Cáo Tử thượng)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "告子曰：「性，猶杞柳也；義，猶桮棬也。",
+          "where": "mục 1"
+        }
+      ]
     },
     {
-      "text": "Tam tự kinh (ctext.org/three-character-classic)",
+      "text": "texts_seen: Mạnh Tử 3B (Đằng Văn Công hạ)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+          "quote": "孟子曰：「予豈好辯哉？予不得已也。",
+          "where": "mục 9"
+        }
+      ]
     },
     {
-      "text": "H. A. Giles (1900), lời tựa San Tzu Ching trên Wikisource",
+      "text": "Tuân Tử thiên 23 (Tính ác)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
+          "quote": "人之性惡，其善者僞也。"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子",
+          "quote": "性惡篇第二十三",
+          "where": "mục lục"
+        }
+      ]
+    },
+    {
+      "text": "Tam tự kinh (nguyên văn)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/三字經釋句",
+          "quote": "人之初，性本善，性相近，習相遠；"
+        }
+      ]
+    },
+    {
+      "text": "H. A. Giles (1900), lời tựa San Tzu Ching trên Wikisource, nói về tác giả (Vương Ứng Lân)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "To Wang Ying-lin, A.D. 1223–1296, the authorship of the San Tzŭ Ching is by common consent attributed"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "Cambridge, 20 March, 1900."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Legge của Mạnh Tử (1861), texts_seen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius",
+          "quote": "Vol. II (1861) of Legge's series The Chinese Classics, with a second edition in 1895."
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org của Mạnh Tử 2A/6A, Tuân Tử 23, Tam tự kinh trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "皆有怵惕惻隱之心",
+          "where": "đối chiếu ở zh.wikisource và en.wikisource; URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org trả về trang chặn truy cập tự động ('Checking the security of your connection', yêu cầu không scrape) và API bị robots chặn; không vượt chặn. Cần người mở bằng trình duyệt. Mục gộp nhiều URL, chưa mở được URL nào; Wikisource Giles chưa thử do hết lượt."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở Wikisource; ctext không mở. Văn bản Tam tự kinh lấy từ 三字經釋句 (zh.wikisource). Giles ghi tác giả theo truyền thống là Vương Ứng Lân ('by common consent')."
 }

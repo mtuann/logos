@@ -1,0 +1,61 @@
+{
+  "unit": "sources/web.vjol-info-vn.phil-article-download-135041-110963",
+  "hash": "sha256:799e65686114b015fd73486a927da7bb62e0fa3b4cce30dc95af5ea7783f8129",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r31",
+  "claims": [
+    {
+      "text": "Bài “Phép biện chứng duy vật trong tư tưởng triết học Trần Đức Thảo” có thật, trang bài VJOL (article 135041)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/phil/article/view/135041",
+          "quote": "PHÉP BIỆN CHỨNG DUY VẬT TRONG TƯ TƯỞNG TRIẾT HỌC TRẦN ĐỨC THẢO",
+          "where": "tiêu đề trang bài"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Phạm Công Thưởng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/phil/article/view/135041",
+          "quote": "Phạm Công Thưởng",
+          "where": "mục Authors; meta citation_author"
+        }
+      ]
+    },
+    {
+      "text": "Đăng trong Tạp chí Triết học, số 12, 2024",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/phil/article/view/135041",
+          "quote": "No. 12 (2024)",
+          "where": "Issue; ISSN 1011-9833; trang hiện tên tạp chí tiếng Anh 'Vietnamese journal of philosophy' (tên tiếng Việt Tạp chí Triết học không in trên trang)"
+        }
+      ]
+    },
+    {
+      "text": "Số liên tục (396)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Trang tr. 50–60",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "URL tải PDF https://vjol.info.vn/phil/article/download/135041/110963/ mở được và trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r31): trình duyệt từ chối điều hướng tới URL /article/download/... (là liên kết tải tệp; không tải). Trang bài tương ứng (article/view/135041) khớp tên bài, tác giả, số 12 (2024). Trang mục lục số và trang bài không ghi số trang hay số liên tục 396, nên chưa kiểm được 'tr. 50–60' và '(396)'. Đề xuất đổi URL sang trang bài https://vjol.info.vn/phil/article/view/135041 (ổn định hơn liên kết tải). Cần xem PDF để xác nhận số trang và số tổng."
+}

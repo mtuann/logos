@@ -2,7 +2,7 @@
   "unit": "sources/sep.cosmological-argument",
   "hash": "sha256:1445cd145d7aaed0846c5ab3a8608074878b1ffe7ba325d4d0a01e5d6e37292d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s03",
+  "checker": "agent-kiem-5.2-r36",
   "claims": [
     {
       "text": "Tên mục SEP là \"Cosmological Argument\"",
@@ -10,8 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/entries/cosmological-argument/",
-          "quote": "Cosmological Argument"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Cosmological Argument (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang"
         }
       ]
     },
@@ -21,17 +22,24 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/entries/cosmological-argument/",
-          "quote": "Bruce Reichenbach"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Copyright © 2026 by\nBruce Reichenbach",
+          "where": "dòng Copyright cuối trang"
         }
       ]
     },
     {
       "text": "URL bản lưu fall2026 mở được",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "First published Tue Jul 13, 2004; substantive revision Wed Jul 1, 2026"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Bản lưu fall2026/cosmological-argument/ báo lỗi client_error 3 lần trong phiên này; bản sống plato.stanford.edu/entries/cosmological-argument/ mở được và khớp. Nên thử lại sau."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): bản lưu fall2026 mở được lượt này; một tác giả duy nhất."
 }
