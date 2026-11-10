@@ -1,31 +1,58 @@
 {
   "unit": "events/viet-nam.viet-hien-dai.1996-2",
-  "hash": "sha256:f52d9875dbd051fed1176bff664f8ae8d3277248a57363d933282552f2502d20",
+  "hash": "sha256:06cefc74c2e5bc15a2a1c970ff02a90f52e9dc0cf7bc06eaf0634946da32f217",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r11",
+  "checker": "agent-kiem-5.2-t03",
   "claims": [
     {
-      "text": "Trần Đình Hượu, Đến hiện đại từ truyền thống, NXB Văn hóa, 1996",
+      "text": "Trần Đình Hượu, Đến hiện đại từ truyền thống, in lần đầu 1994",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://elib.hcmussh.edu.vn/handle/HCMUSSH/37336",
-          "quote": "Đến hiện đại từ truyền thống",
-          "where": "Nhà xuất bản: Văn hóa; ngày xuất bản: 1996 (metadata thư viện số ĐHQG-HCM; giữ từ lượt trước)"
-        },
-        {
-          "url": "https://vjol.info.vn/khxh/article/download/35116/29019/",
-          "quote": "Lời tựa công trình Đến hiện đại từ truyền thống (1996)"
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "in lần đầu vào tháng 5/1994",
+          "where": "cùng bài vnu.edu.vn"
         }
       ]
     },
     {
-      "text": "Hượu đề xuất một con đường thứ ba (giữa đoạn tuyệt và Tây hóa)",
+      "text": "NXB Văn hóa tái bản năm 1996",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://elib.hcmussh.edu.vn/handle/HCMUSSH/37336?mode=full",
+          "quote": "Publisher Văn hóa Date of Issue 1996",
+          "where": "metadata thư viện số ĐH KHXH&NV TP.HCM (chế độ xem đầy đủ)"
+        }
+      ]
+    },
+    {
+      "text": "Hượu coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống, có nguồn mạch từ truyền thống",
+          "where": "bài Giải thưởng Nhà nước 2000 trên vnu.edu.vn (nguồn yếu: trang tin cơ quan)"
+        }
+      ]
+    },
+    {
+      "text": "Nhãn [có cơ sở] hợp nguồn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống, có nguồn mạch từ truyền thống",
+          "where": "bài Giải thưởng Nhà nước 2000 trên vnu.edu.vn (nguồn yếu: trang tin cơ quan)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r11): đã mở vnu.edu.vn (bài Giải thưởng Nhà nước 2000) và ussh.vnu.edu.vn (bài về Trần Đình Hượu); không trang nào dùng ý 'con đường thứ ba' hay 'đoạn tuyệt/Tây hóa'; DuckDuckGo không ra kết quả cho cụm 'con đường thứ ba'. Lưu ý: vnu.edu.vn ghi sách 'in lần đầu vào tháng 5/1994' (catalog ĐH KHXH&NV TP.HCM: Nxb Hà Nội, 1994); bản NXB Văn hóa 1996 là bản in lại, nên nên ghi 'in lần đầu 1994; NXB Văn hóa tái bản 1996' để khỏi hiểu lầm. Đề xuất câu sửa nếu không có nguồn cho 'con đường thứ ba': 'Trần Đình Hượu, trong Đến hiện đại từ truyền thống (NXB Văn hóa, 1996), cho rằng việc xây dựng văn hóa hiện tại và tương lai không tách rời truyền thống mà có nguồn mạch từ truyền thống' (theo https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html: 'coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống'). Nguồn yếu (trang tin cơ quan)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t03): câu mới khớp nguồn; mốc 1996 = bản NXB Văn hóa (metadata thư viện) đúng; chưa mở nguồn nói rõ 1996 là «tái bản» nhưng 1994 là lần in đầu nên hợp lý. Nguồn yếu (trang tin cơ quan, thư viện số); câu «con đường thứ ba» đã bỏ khỏi câu này. Ghi chú: ở đoạn sau của trang (phần 2) vẫn còn «hiện đại hóa không đồng nghĩa với Tây hóa toàn diện» — không thuộc bản ghi này, chưa kiểm."
 }

@@ -1,16 +1,23 @@
 {
   "unit": "events/viet-nam.viet-hien-dai.1930-2",
-  "hash": "sha256:455ecda50feeee8340c5a722bb2670e0cca9cff283aaa55335b1169a3a92b520",
+  "hash": "sha256:186d89c122d41fbcb5e38048116fd550503360f7b39688305091297b190ce8bb",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r10",
+  "checker": "agent-kiem-5.2-u01",
   "claims": [
     {
-      "text": "Câu hỏi truyền thống–hiện đại «không chỉ là chuyện của năm 1930» (nhận định tu từ của bài)",
-      "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "text": "Năm 1930 có tổ chức mác-xít ở Việt Nam (Đảng Cộng sản Việt Nam thành lập năm 1930)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Ho-Chi-Minh",
+          "quote": "on February 3, 1930, he presided over the founding of the party",
+          "where": "Britannica, Ho Chi Minh; đảng lúc đầu tên Vietnamese Communist Party, từ tháng 10/1930 là Indochinese Communist Party"
+        }
+      ]
     },
     {
-      "text": "Quanh năm 1930, giới trí thức Việt Nam chuyển từ nho sĩ sang trí thức học theo phương Tây, nên cùng lúc có người giữ Nho học và người theo học thuật phương Tây",
+      "text": "Khoảng năm 1930, một trí thức Việt Nam có thể đồng thời tiếp xúc Nho học (Khổng Tử) và học thuật phương Tây",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -20,8 +27,13 @@
           "where": "abstract"
         }
       ]
+    },
+    {
+      "text": "Khoảng năm 1930, báo chữ Quốc ngữ có bàn về Rousseau",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): claim 2 giữ từ lượt trước. Claim 1 chỉ là nhận định tu từ của bài, không nguồn nào nói được; đề xuất sửa «Câu hỏi này không chỉ thuộc về giai đoạn 1930; nó còn gợi lại ở nhiều thời điểm sau (nhận định của bài)» hoặc bỏ câu. Không có sự kiện riêng gắn với năm 1930 để kiểm."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): ĐCSVN thành lập 3/2/1930 khớp Britannica; bối cảnh Nho học suy giảm/trí thức phương Tây giữ từ bằng chứng cũ. Vế 'báo chữ Quốc ngữ bàn về Rousseau khoảng 1930' chưa có nguồn: chỉ tìm thấy Nguyễn An Ninh dịch 'Dân ước' trên báo La Cloche fêlée năm 1923 (lời nói đầu bản dịch của Hoàng Thanh Đạm, archive.org; báo viết bằng tiếng Pháp, nên không khớp 'Quốc ngữ' và không khớp 1930). Đề xuất: nêu cụ thể (ví dụ Nguyễn An Ninh dịch 'Dân ước' 1923) kèm nguồn tốt, hoặc đổi thành 'báo chí đương thời bàn về các tư tưởng Tây phương như Rousseau' và dán nhãn [có cơ sở] hay [giả định minh họa]. Câu là hình ảnh giả định minh họa, không phải sự kiện có năm cụ thể."
 }

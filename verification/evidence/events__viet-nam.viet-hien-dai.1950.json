@@ -1,8 +1,8 @@
 {
   "unit": "events/viet-nam.viet-hien-dai.1950",
-  "hash": "sha256:24aa864a5b356ca1073355fd89279ff6a80fb110bc4d723aee601f5edcc0f470",
+  "hash": "sha256:5028fbdbc07f9fd3989e15d37409a2fa6f7c1afe96efd8525d9d7aba53582aac",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r10",
+  "checker": "agent-kiem-5.2-t03",
   "claims": [
     {
       "text": "Triết học hiện sinh được tiếp nhận rộng ở miền Nam Việt Nam giai đoạn 1954-1975, kể cả qua dịch thuật",
@@ -12,12 +12,12 @@
         {
           "url": "https://vjol.info.vn/otn/article/view/120830",
           "quote": "triết học hiện sinh đã thâm nhập và tạo ảnh hưởng sâu rộng cả ở bình diện lý luận - phê bình lẫn sáng tác",
-          "where": "abstract"
+          "where": "abstract (giữ từ lượt trước)"
         }
       ]
     },
     {
-      "text": "Triết học hiện sinh được giới thiệu trên báo chí miền Nam từ cuối thập niên 1950 (bài «Nhận định đại cương về triết học Hiện Hữu», Nguyên Sa, 11-1957)",
+      "text": "Triết học hiện sinh được giới thiệu và bàn luận trên báo chí miền Nam từ cuối thập niên 1950 (Nguyên Sa, «Nhận định đại cương về triết học Hiện Hữu», 11-1957; Quang Minh 1-2/1959)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -25,15 +25,56 @@
           "url": "http://www.saimonthidan.com/?c=article&p=22046",
           "quote": "Nhận định đại cương về triết học Hiện Hữu, Nguyên Sa, số 14 tháng 11-1957",
           "where": "Nguyễn Văn Lục, «20 Năm Văn Học Dịch Thuật Miền Nam 1955-1975» (nguồn yếu)"
+        },
+        {
+          "url": "http://www.saimonthidan.com/?c=article&p=22046",
+          "quote": "Khái niệm về chủ nghĩa Hiện Sinh, Quang Minh, số 28-29 tháng 1 và 2-1959",
+          "where": "Nguyễn Văn Lục, «20 Năm Văn Học Dịch Thuật Miền Nam 1955-1975» (nguồn yếu)"
         }
       ]
     },
     {
-      "text": "Sartre và Camus được dịch và bàn luận sôi nổi ở miền Nam từ những năm 1950",
+      "text": "Camus được dịch và bàn luận ở miền Nam từ cuối thập niên 1950–đầu 1960 (bài về Camus 9/1960; Camus dịch 12/1960)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.saimonthidan.com/?c=article&p=22046",
+          "quote": "Dịch và giới thiệu: Người đàn bà ngoại tình của Camus, Nguyễn văn Trung, số tháng 12-1960.",
+          "where": "Nguyễn Văn Lục, «20 Năm Văn Học Dịch Thuật Miền Nam 1955-1975» (nguồn yếu)"
+        }
+      ]
+    },
+    {
+      "text": "Sartre được dịch và bàn luận ở miền Nam (chủ yếu phần văn chương/kịch/tiểu thuyết; chưa dịch các tác phẩm triết học chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.saimonthidan.com/?c=article&p=22046",
+          "quote": "Phần lớn sách dịch về Sartre là ở phần văn chương Hiện Sinh, phần tiểu thuyết của Sartre.",
+          "where": "Nguyễn Văn Lục, «20 Năm Văn Học Dịch Thuật Miền Nam 1955-1975» (nguồn yếu)"
+        }
+      ]
+    },
+    {
+      "text": "Cách nói «sôi nổi nhất trong thập niên 1960» và nhãn co-co-so",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/existentialism-and-intellectual-culture-in-south-vietnam/FB94AF17BE537CC7FD142DCECFE42F14",
+          "quote": "analyzed the relevance of the works of Malraux, Camus, and Sartre to Buddhism",
+          "where": "abstract, Sài Gòn thập niên 1960 (giữ từ lượt trước)"
+        },
+        {
+          "url": "http://www.saimonthidan.com/?c=article&p=22046",
+          "quote": "Trong những năm đầu, từ 1955 đến 1960 số đầu sách dịch kể ra còn thưa thớt.",
+          "where": "Nguyễn Văn Lục, «20 Năm Văn Học Dịch Thuật Miền Nam 1955-1975» (nguồn yếu)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): nguồn duy nhất mở được có dòng thời gian (Nguyễn Văn Lục, trang văn học, nguồn yếu) cho thấy giai đoạn 1955–1960 sách dịch «còn thưa thớt», giới thiệu hiện sinh bắt đầu từ 1957, bài về Camus 9/1960 và Camus dịch 12/1960; còn «sôi nổi» là thập niên 1960. Chưa nguồn học thuật nào nêu Sartre/Camus gắn với thập niên 1950. Đề xuất sửa: «Từ cuối thập niên 1950, và sôi nổi nhất trong thập niên 1960, triết học hiện sinh của Sartre và Camus được dịch và bàn luận ở miền Nam Việt Nam…». Nhãn co-co-so hợp."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t03): câu mới («Từ cuối thập niên 1950, sôi nổi nhất trong thập niên 1960…») đã khớp nguồn: giai đoạn 1955–60 còn thưa thớt, giới thiệu hiện sinh từ 1957, Camus 9–12/1960, sôi nổi là thập niên 1960. Lưu ý nhỏ (không sai): Sartre được dịch chủ yếu mảng văn chương, tác phẩm triết học chính (L'Être et le Néant) chưa dịch; câu hiện nói «triết học hiện sinh của Sartre và Camus được dịch và bàn luận», nên hiểu rộng là «hiện sinh» chứ không phải bản dịch tác phẩm triết học. Nguồn yếu (trang văn học Sài Gòn Thi Đàn); nguồn học thuật là Cambridge (J. Asian Stud., tóm tắt) và VJOL."
 }

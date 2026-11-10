@@ -1,0 +1,58 @@
+{
+  "unit": "sources/gutenberg.61",
+  "hash": "sha256:8d0118b264f1259012883d8bba0acbed4ad2f1aed5f87b99bf864e5cf5f7454c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-u01",
+  "claims": [
+    {
+      "text": "Project Gutenberg #61 là The Communist Manifesto của Karl Marx và Friedrich Engels, URL mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/61",
+          "quote": "The Communist Manifesto by Karl Marx and Friedrich Engels",
+          "where": "tiêu đề trang; eBook-No. 61"
+        }
+      ]
+    },
+    {
+      "text": "The Communist Manifesto xuất bản năm 1848",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/61",
+          "quote": "is a political pamphlet published in 1848",
+          "where": "tóm tắt trang ebook"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/61/pg61.txt",
+          "quote": "[From the English edition of 1888, edited by Friedrich Engels]",
+          "where": "đầu văn bản ebook #61"
+        }
+      ]
+    },
+    {
+      "text": "Karl Marx, Capital, tập 1 (1867)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Das-Kapital",
+          "quote": "The first volume was published in Berlin in 1867",
+          "where": "Britannica, Das Kapital"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): kiểm từ đầu (chưa có bằng chứng cũ). Mục Capital không có URL (sách in/phạm vi công cộng); nên thêm link ổn định, ví dụ bản dịch Moore–Aveling trên marxists.org hoặc Wikisource. Trang ebook không nêu tên dịch giả (Samuel Moore); mục cũng không ghi nên không phải lỗi."
+}

@@ -1,0 +1,58 @@
+{
+  "unit": "sources/web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-01-0170-text-apo",
+  "hash": "sha256:6975c0622ed13c7ec100ea4876a261d949272183187c50a13b0d475035999b26",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-t06",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng Platon, Apology trên Perseus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.",
+          "quote": "Plato, Apology, section 17a",
+          "where": "tiêu đề trang; mở ra Apology 17a"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của Harold North Fowler (Perseus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.",
+          "quote": "Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler",
+          "where": "chân trang văn bản; Harvard University Press / William Heinemann, 1966; doc 1999.01.0170 là bản dịch này"
+        }
+      ]
+    },
+    {
+      "text": "Bản Hy Lạp của John Burnet (1903) trong Perseus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=17a",
+          "quote": "Platonis Opera, ed. John Burnet. Oxford University Press. 1903.",
+          "where": "bản Hy Lạp là doc 1999.01.0169 (anh em của 0170), cùng Apology 17a"
+        }
+      ]
+    },
+    {
+      "text": "Văn bản đánh số Stephanus (đối chiếu số Stephanus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.",
+          "quote": "[17a]",
+          "where": "Perseus chia Apology theo mục 17a–42a (số Stephanus)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t06): URL trong mục (doc 0170) chỉ mở bản dịch tiếng Anh của Fowler; bản Hy Lạp Burnet nằm ở doc 1999.01.0169. Đề xuất (nhẹ): thêm link Perseus:text:1999.01.0169 cho phần Burnet, hoặc ghi rõ URL là bản Fowler. Perseus là thư viện số học thuật (nguồn chấp nhận được)."
+}

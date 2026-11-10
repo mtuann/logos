@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sach.sren-kierkegaard-either-or-1843-fear-and-trembling-1843",
+  "hash": "sha256:11b2fd7cb33671129956de50ea4695a77c7ce511c4de220feb3088ec92f54442",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-t05",
+  "claims": [
+    {
+      "text": "Søren Kierkegaard, Either/Or (1843)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Kierkegaard+Either%2FOr",
+          "quote": "\"author_name\":[\"Søren Kierkegaard\"],\"first_publish_year\":1843",
+          "where": "Open Library, tác phẩm Either/Or"
+        }
+      ]
+    },
+    {
+      "text": "Søren Kierkegaard, Fear and Trembling (1843)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Kierkegaard+Fear+and+Trembling",
+          "quote": "\"author_name\":[\"Søren Kierkegaard\"],\"first_publish_year\":1843",
+          "where": "Open Library, tác phẩm Fear and Trembling"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t05): năm 1843 là năm xuất bản gốc tiếng Đan Mạch (Enten-Eller, Frygt og Bæven); Open Library là nguồn thư mục, không phải nhà xuất bản. Link đề xuất: bản Gutenberg/Internet Archive của bản dịch, hoặc SEP mục kierkegaard."
+}

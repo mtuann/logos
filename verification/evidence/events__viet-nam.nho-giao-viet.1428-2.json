@@ -1,57 +1,57 @@
 {
   "unit": "events/viet-nam.nho-giao-viet.1428-2",
-  "hash": "sha256:f5101965ab8a980089a2f6d3e53d7d4cd0221047dae0bb983228963d779520ea",
+  "hash": "sha256:77c6e312f7b17e9522092d5738a5aee91e4052a2e39bb4a3f98fbcb21897ab17",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r08",
+  "checker": "agent-kiem-5.2-t02",
   "claims": [
     {
-      "text": "Bình Ngô đại cáo, 1428, hai câu mở đầu chữ Hán 仁義之舉要在安民 / 弔伐之師莫先去暴",
+      "text": "Bình Ngô đại cáo là của Nguyễn Trãi, năm 1428",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
           "quote": "Bình Ngô đại cáo (1428) là bài cáo của Nguyễn Trãi"
-        },
-        {
-          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
-          "quote": "仁義之舉,要在安民,"
-        },
-        {
-          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
-          "quote": "弔伐之師,莫先去暴。"
         }
       ]
     },
     {
-      "text": "Bản dịch 'Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo' là bản dịch có thật, sát nghĩa chữ Hán",
+      "text": "Nguyên văn Hán hai câu mở đầu: 仁義之舉要在安民 / 弔伐之師莫先去暴",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Việt_Nam_sử_lược/Quyển_I/Phần_III/Chương_XIV",
+          "quote": "蓋聞仁義之舉 ， 要在安民 。 弔伐之師 。 莫先去暴",
+          "where": "bản chữ Hán trong Hoàng Việt văn tuyển, trích trong Việt Nam sử lược"
+        }
+      ]
+    },
+    {
+      "text": "Wikisource tiếng Việt ghi câu dịch 'Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo' là bản dịch của Ngô Tất Tố; câu dịch sát nghĩa chữ Hán",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
-          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo."
+          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo.",
+          "where": "đầu trang: 'Bản dịch: Ngô Tất Tố'"
         }
       ]
     },
     {
-      "text": "Bản dịch này đúng như sách giáo khoa",
-      "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Bản dịch Trần Trọng Kim chép 'quân điếu phạt chỉ vì khử bạo'",
+      "text": "Bản dịch Trần Trọng Kim (1920) chép câu sau là 'quân điếu phạt chỉ vì khử bạo'",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)",
           "quote": "Việc nhân-nghĩa cốt ở yên dân, quân điếu phạt chỉ vì khử bạo.",
-          "where": "bản 1920 (Việt Nam sử lược, quyển I, phần III, chương XIV)"
+          "where": "đầu trang ghi năm 1920, Việt Nam sử lược"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Chữ Hán, năm 1428 và bản Trần Trọng Kim (1920) khớp. Lưu ý Trần Trọng Kim còn bản lược dịch 1916 chép khác ('quân điếu phạt không gì bằng trừ bạo'); cần nói rõ là bản 1920 nếu trích. 'Đúng như sách giáo khoa' chưa kiểm được (không mở được sách giáo khoa; chỉ thấy trang tổng hợp loigiaihay, không dùng)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t02): bản ghi nay chỉ là tiêu đề khối trích ('câu dịch thường gặp'); câu 'đúng như sách giáo khoa' đã bỏ khỏi bài nên không còn claim. Các claim cũ đối chiếu lại đều đúng. Lưu ý nhỏ: zh.wikisource ghi bài cáo viết tháng 12 âm lịch năm 1427 (tức đầu 1428 dương lịch), nên năm 1428 hợp. Bản dịch Ngô Tất Tố còn bản quyền hay không: Ngô Tất Tố mất 1954, đã hết thời hạn; hai câu là rất ngắn."
 }

@@ -1,39 +1,62 @@
 {
   "unit": "sources/gutenberg.57342",
-  "hash": "sha256:7d2d2bab5e644400f51b4ee38f66de7ded42f17c4c926a853281360de52eb2ec",
+  "hash": "sha256:c24db11b18e304515692daa04b8648c6a66b796c67ca9a31cb98f569236cd65d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s14",
+  "checker": "agent-kiem-5.2-t04",
   "claims": [
     {
-      "text": "Ebook #57342 là Diogenes Laertius, Lives and Opinions of Eminent Philosophers, dịch C. D. Yonge",
+      "text": "Ebook #57342 là Diogenes Laertius, The Lives and Opinions of Eminent Philosophers, dịch C. D. Yonge",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/57342",
-          "quote": "The Lives and Opinions of Eminent Philosophers"
-        },
-        {
-          "url": "https://www.gutenberg.org/ebooks/57342",
-          "quote": "Yonge, Charles Duke, 1812-1891"
+          "quote": "Yonge, Charles Duke, 1812-1891",
+          "where": "Translator; tiêu đề trang: The Lives and Opinions of Eminent Philosophers"
         }
       ]
     },
     {
-      "text": "Bản in London: Henry G. Bohn, 1853",
+      "text": "Bohn's Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Bohn's Classical Library, London: G. Bell and Sons, 1915 (bản dịch Yonge in đầu thế kỷ 19 trong Bohn's Library; 1853 không có trên nguồn đã mở)",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://www.gutenberg.org/cache/epub/57342/pg57342.txt",
-          "quote": "G. BELL AND SONS, LTD",
-          "where": "Trang bìa văn bản của ebook #57342: London, G. Bell and Sons, 1915, 'Bohn's Classical Library'"
+          "quote": "LONDON G. BELL AND SONS, LTD 1915",
+          "where": "trang tên sách"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/57342/pg57342.txt",
+          "quote": "BOHN’S CLASSICAL LIBRARY DIOGENES LAËRTIUS"
+        }
+      ]
+    },
+    {
+      "text": "Thư gửi Menoeceus và Những châm ngôn chủ yếu (Kyriai Doxai) nằm trong Quyển X (Life of Epicurus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/57342/pg57342.txt",
+          "quote": "the third is addressed to Menœceus",
+          "where": "BOOK X. LIFE OF EPICURUS; chỉ mục cũng có 'fundamental maxims of'"
+        }
+      ]
+    },
+    {
+      "text": "Phạm vi công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/57342",
+          "quote": "Yonge, Charles Duke, 1812-1891",
+          "where": "dịch giả mất 1891; in 1915"
         }
       ]
     }
   ],
-  "result": "sua",
-  "notes": "Ebook là bản G. Bell and Sons 1915 trong Bohn's Classical Library, không phải bản Bohn 1853. Nếu muốn giữ 1853 cần nguồn riêng (Internet Archive). Quyển X có Thư gửi Menoeceus và Kyriai Doxai: không kiểm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t04): lỗi 'Bohn 1853' đã được sửa thành G. Bell and Sons 1915, khớp trang tên sách ebook. Không đối chiếu từng châm ngôn Kyriai Doxai từng điều; chỉ xác nhận Quyển X có thư gửi Menoeceus và nhắc 'Ethical Maxims'."
 }

@@ -1,11 +1,11 @@
 {
   "unit": "events/viet-nam.nho-giao-viet.1428",
-  "hash": "sha256:9bdbb6c8fa8d69beafacdb7132e0e3c701edc2305f58782565f6e57751a8efa9",
+  "hash": "sha256:f6e946d57d180e8d247093a416ffddcf44f77ee371b77d54978c2d2b8d371efc",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r08",
+  "checker": "agent-kiem-5.2-t01",
   "claims": [
     {
-      "text": "Bình Ngô đại cáo của Nguyễn Trãi viết năm 1428; văn bản chữ Hán 仁義之舉要在安民 / 弔伐之師莫先去暴",
+      "text": "Bình Ngô đại cáo là của Nguyễn Trãi, năm 1428",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -13,35 +13,46 @@
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
           "quote": "Bình Ngô đại cáo (1428) là bài cáo của Nguyễn Trãi",
           "where": "phần dẫn của trang"
-        },
-        {
-          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
-          "quote": "仁義之舉,要在安民,",
-          "where": "Hán văn theo Hoàng Việt văn tuyển"
-        },
-        {
-          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
-          "quote": "弔伐之師,莫先去暴。"
         }
       ]
     },
     {
-      "text": "Câu dịch 'Việc nhân nghĩa cốt ở yên dân…' là bản dịch có thật, dịch sát hai câu chữ Hán (bản Ngô Tất Tố trên Wikisource)",
+      "text": "Hai câu mở đầu văn bản chữ Hán là 仁義之舉，要在安民 / 弔伐之師，莫先去暴",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
+          "quote": "仁 義 之 舉，要 在 安 民",
+          "where": "Nguyên văn Hán văn, theo Hoàng Việt văn tuyển (1825); trang in có khoảng trắng giữa các chữ"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
+          "quote": "弔 伐 之 師，莫 先 去 暴"
+        }
+      ]
+    },
+    {
+      "text": "Wikisource tiếng Việt ghi câu dịch 'Việc nhân nghĩa cốt ở yên dân, quân điếu phạt trước lo trừ bạo' là bản dịch của Ngô Tất Tố, dịch sát hai câu chữ Hán",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
-          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo."
+          "quote": "Bản dịch: Ngô Tất Tố",
+          "where": "đầu trang"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
+          "quote": "Việc nhân nghĩa cốt ở yên dân,"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
+          "quote": "Quân điếu phạt trước lo trừ bạo."
         }
       ]
-    },
-    {
-      "text": "Câu dịch này là câu quen thuộc trong sách giáo khoa",
-      "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Chữ Hán và năm 1428 khớp. Bản dịch Ngô Tất Tố (vi.wikisource) trùng chữ với câu trong bản ghi; việc nó 'quen thuộc trong sách giáo khoa' chỉ thấy ở trang tổng hợp soạn văn (loigiaihay), loại nguồn không dùng được; chưa mở được sách giáo khoa hay trang nhà xuất bản. Bản ghi đã nói 'chưa xác định chắc chắn người dịch', hợp với thực tế: có thể ghi 'bản dịch của Ngô Tất Tố' nếu người làm xác nhận trên sách giáo khoa."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t01): câu mới chỉ khẳng định điều kiểm được (không còn 'quen thuộc trong sách giáo khoa'). Lưu ý: trang Wikisource chính 'Bình Ngô đại cáo' hiện chỉ liệt kê bản dịch Trần Trọng Kim, Mạc Bảo Thần, Bùi Kỷ; bản Ngô Tất Tố nằm ở trang riêng (link trên), nên nếu dẫn trang chính hãy dẫn thêm link bản Ngô Tất Tố. Câu chữ trong bản ghi có chữ 'quân' viết thường, trang nguồn ghi 'Quân'; dấu câu/hoa thường, mức nhe, không cần sửa."
 }

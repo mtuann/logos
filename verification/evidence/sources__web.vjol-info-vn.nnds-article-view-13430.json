@@ -1,8 +1,8 @@
 {
   "unit": "sources/web.vjol-info-vn.nnds-article-view-13430",
-  "hash": "sha256:dba302c5028a787503d3b068b929800ed8104e4b708390a9690eaf4b0a5b8f38",
+  "hash": "sha256:f08c4b2653ea7426d369ce9bf2cadad28151867f4de456d30bd79acd5e3eb19e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r31",
+  "checker": "agent-kiem-5.2-u02",
   "claims": [
     {
       "text": "URL mở được và trỏ đúng bài về “nếu” trong Quốc âm thi tập của Nguyễn Trãi",
@@ -36,7 +36,7 @@
         {
           "url": "https://vjol.info.vn/NNDS/article/view/13430",
           "quote": "No. 5 (2010)",
-          "where": "Issue; Tạp chí Ngôn ngữ và Đời sống, ISSN 0868-3409"
+          "where": "Archives/breadcrumb; citation_journal_title=Tạp chí Ngôn ngữ và Đời sống; citation_issue=5; citation_date=2010"
         }
       ]
     },
@@ -53,25 +53,18 @@
       ]
     },
     {
-      "text": "Tên bài: “Phải chăng thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”",
+      "text": "Tên bài: “Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "“Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?” (thiếu chữ “từ” sau “Phải chăng”)",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://vjol.info.vn/NNDS/article/view/13430",
-          "quote": "Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết \"Nếu\"?",
+          "quote": "Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết",
           "where": "tiêu đề trang; meta citation_title"
         }
       ]
-    },
-    {
-      "text": "Số liên tục (175) của số 5 năm 2010",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "sua",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r31): lỗi tên bài là bỏ sót một chữ (nhẹ về mặt đọc, xếp 'vua' theo hướng dẫn: sai tên). Trang chỉ ghi 'No. 5 (2010)', không ghi số tổng 175: chưa kiểm được, nên cần xem PDF hoặc mục lục tạp chí. Trang ghi đăng trên VJOL 2013-12-23 (không ảnh hưởng năm 2010 của số báo). Trang bài: 34–40 theo meta (firstpage 40, lastpage 34 đảo), mục không ghi trang nên không phải kiểm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u02): tên bài đã sửa khớp trang (trang viết \"Nếu\" hoa trong ngoặc kép, khác biệt nhẹ không đáng sửa). Bản ghi không có số liên tục nên không kiểm. VJOL là nguồn yếu theo QĐ 31."
 }

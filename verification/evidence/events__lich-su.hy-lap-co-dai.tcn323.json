@@ -1,8 +1,8 @@
 {
   "unit": "events/lich-su.hy-lap-co-dai.tcn323",
-  "hash": "sha256:2c22b2c5d5803f9899ebf9aa9e12ebcd3fed0da49902d872d052d8161d55c09d",
+  "hash": "sha256:6a8ec1e140eea81c4370f2d77d8398560b179cb4f2399e92799f624d1cb3d9b8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r08",
+  "checker": "agent-kiem-5.2-t01",
   "claims": [
     {
       "text": "Alexander Đại đế qua đời năm 323 TCN",
@@ -11,36 +11,26 @@
       "sources": [
         {
           "url": "https://www.britannica.com/event/Hellenistic-Age",
-          "quote": "the death of Alexander the Great in 323 BCE"
-        },
-        {
-          "url": "https://www.britannica.com/biography/Alexander-the-Great",
-          "quote": "died June 13, 323 bce, Babylon"
+          "quote": "the period between the death of Alexander the Great in 323 BCE"
         }
       ]
     },
     {
-      "text": "Sau đó các thành bang Hy Lạp suy tàn (mất độc lập thực tế trước các vương quốc Hellenistic)",
+      "text": "Sau đó các thành bang Hy Lạp chỉ còn độc lập trên danh nghĩa",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.britannica.com/event/Hellenistic-Age",
-          "quote": "Aratus and the league were allowed to retain a shadow of independence, but no more than that.",
-          "where": "về Liên minh Achaea dưới sự thống trị Macedon"
+          "quote": "Aratus and the league were allowed to retain a shadow of independence, but no more than that."
         },
         {
           "url": "https://www.britannica.com/event/Hellenistic-Age",
           "quote": "Sparta, always different from the rest of Greece, was a shadow of its former self."
         }
       ]
-    },
-    {
-      "text": "Con người vì thế mất đi chỗ dựa chính trị cũ (diễn giải tâm lý–triết học về thời Hellenistic)",
-      "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Năm 323 đúng; thành bang mất độc lập thực tế có cơ sở ở Britannica 'Hellenistic age'. Vế 'con người mất chỗ dựa chính trị' là diễn giải phổ biến nhưng Britannica không nói; đã thử SEP/IEP (không có mục Hellenistic philosophy ở bản lưu; stoicism, epicurus không nói). Đề xuất nguồn: Long, Hellenistic Philosophy, hoặc làm nhẹ câu."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t01): vế 'con người mất chỗ dựa chính trị' không còn trong câu. Nguồn Britannica nói cụ thể về Liên minh Achaea và Sparta, diễn đạt chung 'các thành bang chỉ còn độc lập trên danh nghĩa' là khái quát hợp lý nhưng nguồn yếu hơn SEP/IEP."
 }

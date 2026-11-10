@@ -1,8 +1,8 @@
 {
   "unit": "events/viet-nam.truc-lam.1288-2",
-  "hash": "sha256:6d2d213c797624ae75a731fc6efc6c616e6d197ed805266cbc52999d6ed4bc9f",
+  "hash": "sha256:fe041f9e5dce69a084f570962666b0ecf9e223922a1806f76bfeb748752f28da",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r09",
+  "checker": "agent-kiem-5.2-u01",
   "claims": [
     {
       "text": "Cuộc kháng chiến chống Nguyên-Mông kết thúc năm 1288",
@@ -34,11 +34,23 @@
       ]
     },
     {
-      "text": "Thiền phái Trúc Lâm chỉ thành hình sau khi kháng chiến kết thúc; người sáng lập nó chính là vị vua đã lãnh đạo kháng chiến ấy",
+      "text": "Việc xuất gia và lập thiền phái Trúc Lâm của Nhân Tông diễn ra sau cuộc kháng chiến chống Nguyên-Mông (kết thúc 1288); người sáng lập thiền phái chính là vị vua đã lãnh đạo kháng chiến ấy",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tapchinghiencuuphathoc.vn/boi-canh-ra-doi-cua-dong-thien-truc-lam-yen-tu.html",
+          "quote": "mà Thượng Hoàng Trần Nhân Tông sáng lập sau khi xuất gia và thành đạo",
+          "where": "Tạp chí Nghiên cứu Phật học, bài 'Bối cảnh ra đời của dòng thiền Trúc Lâm Yên Tử'"
+        },
+        {
+          "url": "https://thuvienphatviet.com/pham-van-tuan-thien-phai-truc-lam-yen-tu-tu-luan-giai-tran-nhan-tong/",
+          "quote": "đánh đuổi quân Nguyên xâm lược 2 lần, rồi làm Thái Thượng hoàng điều hành đất nước",
+          "where": "Phạm Văn Tuấn (Viện Nghiên cứu Hán Nôm), đoạn nói Nhân Tông xuất gia sau kháng chiến; cũng 'mở ra tông phái Trúc Lâm Yên Tử', 'Trúc Lâm Đệ nhất tổ'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r09): năm 1288 và việc Nhân Tông (vua trị vì trong kháng chiến 1285 và 1287-88) xuất gia, hiệu Trúc Lâm đại sĩ đã đối chiếu Toàn thư (zh.wikisource). Toàn thư không nói 'sáng lập thiền phái Trúc Lâm' và không nói phái ấy 'thành hình' sau 1288; nguồn tốt (Viện Nghiên cứu Phật học, Viện Hán Nôm, hay IEP/Britannica về Thiền Việt Nam) chưa mở được. Đề xuất sửa nếu không tìm được nguồn: 'tuy việc xuất gia và lập thiền phái Trúc Lâm của ông diễn ra sau kháng chiến (1288), vị sáng lập chính là Trần Nhân Tông, vua đã lãnh đạo kháng chiến' kèm nguồn cho vế lập phái, hoặc bỏ 'thành hình' và viết 'Trần Nhân Tông, vua lãnh đạo kháng chiến, sau xuất gia và tự hiệu Trúc Lâm đại sĩ'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): giữ hai claim dung cũ (Toàn thư). Vế lập thiền phái: hai bài học thuật tiếng Việt đều nói Nhân Tông sáng lập/mở ra dòng Trúc Lâm sau khi xuất gia, sau hai cuộc kháng chiến chống Nguyên. Lưu ý: Britannica chỉ nói phái Trúc Lâm 'under the patronage of King Tran Nhan Tong' (bảo trợ), không nói sáng lập; bài thuvienphatviet.com chỉ là bản đăng lại bài của Viện Hán Nôm (nguồn trung gian). Nhãn [chắc chắn] của câu: vế sáng lập có nguồn học thuật Việt Nam nhưng nên cân nhắc [có cơ sở] vì nguồn phương Tây diễn đạt yếu hơn."
 }

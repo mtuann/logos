@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sach.chandogya-upanishad-mot-trong-cac-upanishad-co-nhat-khoang-g",
+  "hash": "sha256:26ff28a447b45d104a5b4bab1f4d3c552aa44b6913f90f41c1ed233601e7305d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-u02",
+  "claims": [
+    {
+      "text": "Có bản dịch tiếng Anh của Patrick Olivelle, Upaniṣads, do Oxford University Press xuất bản (Oxford World's Classics)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes/f9-2jV7sRuEC",
+          "quote": "Upaniṣads",
+          "where": "dc:creator Patrick Olivelle; dc:publisher Oxford University Press; ISBN 9780192835765; Google Books Data API"
+        }
+      ]
+    },
+    {
+      "text": "Bản Olivelle có Chandogya Upanishad",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?id=f9-2jV7sRuEC",
+          "quote": "Chāndogya",
+          "where": "trang sách Google Books, mục 'Common terms and phrases' (kèm Bodewitz, Janaka, Gautama...); chưa đọc được mục lục chương"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1996 (bản đầu của bản dịch này)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?id=WJGL2tUm6P4C&q=%22Oxford+World%27s+Classics%22+1996",
+          "quote": "First published as a World's Classics paperback 1996 Reissued as an Oxford World's Classics paperback 1998",
+          "where": "Page iv (trang bản quyền), Google Books snippet"
+        }
+      ]
+    },
+    {
+      "text": "Chandogya là một trong các Upanishad cổ nhất; niên đại khoảng giữa thiên niên kỷ 1 TCN",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Upanishad",
+          "quote": "The earliest extant Upanishads date roughly from the middle of the 1st millennium BCE",
+          "where": "Britannica 'Upanishad'; cùng trang: 'The first five of these—Brihadaranyaka, Chandogya, Taittiriya...'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u02): kiểm từ đầu. Britannica là nguồn bách khoa tổng quát, hạng thấp hơn SEP/IEP nhưng chấp nhận được cho niên đại. Chú ý nhẹ: 1996 là năm in đầu dưới tên 'World's Classics'; tên 'Oxford World's Classics' dùng từ bản tái bản 1998 (Open Library/Google ghi ISBN 9780192835765 là 1998). Có thể ghi '(1996; tái bản 1998)'. Nên thêm link ổn định (ISBN 978-0-19-283576-5). Chưa mở được trang OUP (404)."
+}

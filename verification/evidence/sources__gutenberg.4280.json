@@ -1,0 +1,57 @@
+{
+  "unit": "sources/gutenberg.4280",
+  "hash": "sha256:3641b683a99b760c8722f523cd895c823686a36a52bbf8bd5ca4b317c1fae994",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-t04",
+  "claims": [
+    {
+      "text": "Gutenberg #4280 là Kant, Critique of Pure Reason",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/4280/pg4280.txt",
+          "quote": "Title: The Critique of Pure Reason Author: Immanuel Kant Translator: J. M. D. Meiklejohn"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của J. M. D. Meiklejohn, phạm vi công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4280",
+          "quote": "Meiklejohn, J. M. D. (John Miller Dow), 1830-1902",
+          "where": "Translator; mất 1902 nên bản dịch đã công cộng"
+        }
+      ]
+    },
+    {
+      "text": "Ấn bản 1 năm 1781, ấn bản 2 năm 1787",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/4280/pg4280.txt",
+          "quote": "Preface to the First Edition (1781) Preface to the Second Edition (1787)",
+          "where": "mục lục ebook"
+        }
+      ]
+    },
+    {
+      "text": "URL https://www.gutenberg.org/ebooks/4280 mở được và trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4280",
+          "quote": "The Critique of Pure Reason",
+          "where": "tiêu đề trang ebook"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t04): kiểm từ đầu, không có bằng chứng cũ."
+}
