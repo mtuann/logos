@@ -179,7 +179,7 @@ Gợi ý độ dài: 250–400 chữ.
 
 1. Ad Hoc Committee of the Harvard Medical School (1968), "A Definition of Irreversible Coma", *JAMA*, vol. 205, no. 6, tr. 337–340.
 2. Wilkinson, Martin & Stephen Wilkinson, "The Donation of Human Organs", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/organ-donation/>
-3. Omelianchuk, Adam, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
+3. DeGrazia, David, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
 4. Johnson, Eric J. & Daniel Goldstein (2003), "Do Defaults Save Lives?", *Science* 302 (5649): 1338–1339. <https://doi.org/10.1126/science.1091721>
 5. Fabre, John, Paul Murphy & Rafael Matesanz (2010), "Presumed consent: a distraction in the quest for increasing rates of organ donation", *BMJ* 341: c4973. <https://doi.org/10.1136/bmj.c4973>
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

@@ -12,7 +12,7 @@ block: viet-nam
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: Nho giáo đến Việt Nam như công cụ của kẻ đô hộ, nhưng chính những nhà Nho Việt lại dùng nó để chống phương Bắc (rõ nhất là [Nguyễn Trãi](../triet-gia/nguyen-trai.md)) và hiểu nó theo cách của mình ([Chu Văn An](../triet-gia/chu-van-an.md), Nguyễn Bỉnh Khiêm) — một học thuyết ngoại lai trở thành "của mình" bằng cách nào, và cái gì làm nên "truyền thống" của một dân tộc?
-    - Hai lập trường lịch sử: tiếp thu — Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa (cùng chữ, cùng kinh điển, cùng khoa cử; chỉ là một "trường phái địa phương"); sáng tạo/Việt hóa (Trần Đình Hượu, *Đến hiện đại từ truyền thống*, 1996) — người Việt chọn lọc mặt thực tiễn-đạo đức, và Nguyễn Trãi đã *định nghĩa lại* "nhân nghĩa" thành "cốt ở yên dân" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.
+    - Hai lập trường lịch sử: tiếp thu — Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa (cùng chữ, cùng kinh điển, cùng khoa cử; chỉ là một "trường phái địa phương"); sáng tạo/Việt hóa — người Việt chọn lọc mặt thực tiễn-đạo đức, và Nguyễn Trãi đã *định nghĩa lại* "nhân nghĩa" thành "cốt ở yên dân" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.
     - Lập trường triết học về "truyền thống": định nghĩa tĩnh (giữ nguyên cha ông để lại) đối đầu định nghĩa động (truyền thống là cuộc đối thoại liên tục giữa quá khứ và hiện tại) — bài bênh vực định nghĩa động: ngay cả Nho giáo Trung Hoa cũng đã "định nghĩa lại" nhau suốt hai nghìn năm.
     - Thái độ của bài: mỗi khẳng định lịch sử được gắn nhãn độ chắc chắn (chắc chắn / có cơ sở / suy đoán); nghịch lý "vũ khí của kẻ thù thành vũ khí của mình" là sợi chỉ đỏ của bài.
 
@@ -39,11 +39,11 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
-Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được dựng hoặc tu sửa (chữ 脩 trong *Toàn thư* hiểu được cả hai cách) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học đầu tiên của nhà nước — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
+Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được làm (*Toàn thư* chép 脩文廟) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học của triều đình — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
 
 Một chi tiết đáng chú ý: chính trong hệ thống ấy, những nhà Nho Việt Nam xuất sắc nhất lại thường là những người *dám cãi* — Chu Văn An dâng "thất trảm sớ" xin vua Trần Dụ Tông chém bảy gian thần, vua không nghe, ông bèn từ quan **[chắc chắn]** (sự kiện được sử sách ghi lại); Nguyễn Bỉnh Khiêm (1491–1585) **[chắc chắn]** đỗ Trạng nguyên rồi cáo quan về dạy học ở am Bạch Vân, đào tạo hàng trăm học trò **[có cơ sở]**. Họ trung thành với Nho giáo, nhưng là thứ Nho giáo mà họ hiểu theo cách của mình.
 
-Điều lạ lùng: cùng một học thuyết ấy, trong tay sĩ phu Việt, lại sinh ra những điều "rất Việt Nam". Nguyễn Trãi viết trong *Bình Ngô đại cáo* (1428) **[chắc chắn]** (câu dịch quen thuộc trong sách giáo khoa):
+Điều lạ lùng: cùng một học thuyết ấy, trong tay sĩ phu Việt, lại sinh ra những điều "rất Việt Nam". Nguyễn Trãi viết trong *Bình Ngô đại cáo* (1428) **[chắc chắn]** (câu dịch thường gặp):
 > Việc nhân nghĩa cốt ở yên dân,
 > Quân điếu phạt trước lo trừ bạo.
 
@@ -74,7 +74,7 @@ Phe "sáng tạo" có thể đáp lại điểm này: người sáng tạo hiế
 
 ### 2. Sáng tạo: Nho giáo đã được Việt hóa
 
-Trần Đình Hượu, trong *Đến hiện đại từ truyền thống* (NXB Văn hóa, 1996) **[chắc chắn]**, là người trình bày có hệ thống nhất luận điểm Việt hóa Nho giáo. Theo ông, Nho giáo khi vào Việt Nam đã được chọn lọc và biến đổi: người Việt tiếp thu mặt *thực tiễn, đạo đức* của Nho giáo mà ít quan tâm đến mặt siêu hình, duy lý của Tống Nho **[có cơ sở]** (đây là luận điểm của Trần Đình Hượu, được nhiều nhà nghiên cứu tán đồng nhưng cũng có người tranh luận).
+Lập trường này cho rằng Nho giáo khi vào Việt Nam đã được chọn lọc và biến đổi: người Việt tiếp thu mặt *thực tiễn, đạo đức* của Nho giáo mà ít quan tâm đến mặt siêu hình, duy lý của Tống Nho **[có cơ sở]** (một quan điểm trong giới nghiên cứu: có người tán đồng, cũng có người tranh luận).
 
 Bằng chứng mạnh nhất là Nguyễn Trãi. Ông không chỉ "áp dụng" Nho giáo mà *định nghĩa lại* khái niệm trung tâm của nó:
 
@@ -110,10 +110,10 @@ Hãy thử định nghĩa "truyền thống" như một khái niệm triết h�
 Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt Nam, nên không có số liệu để trích. Bức tranh học thuật trong nước:
 
 - **Đồng thuận:** Nho giáo du nhập từ thời Bắc thuộc, thành hệ tư tưởng chính thống dưới các triều đại phong kiến độc lập, đặc biệt nhà Lê **[chắc chắn]**; các nhân vật Chu Văn An, Nguyễn Trãi, Nguyễn Bỉnh Khiêm là những nhà Nho tiêu biểu **[chắc chắn]**.
-- **Luận điểm có ảnh hưởng:** Trần Đình Hượu (*Đến hiện đại từ truyền thống*, 1996) cho rằng Nho giáo Việt Nam đã được Việt hóa theo hướng thực tiễn và yêu nước — luận điểm này định hình cách dạy và nghiên cứu trong nhiều thập kỷ **[có cơ sở]**.
+- **Một nhà nghiên cứu có ảnh hưởng:** Trần Đình Hượu nghiên cứu mối liên hệ giữa Nho giáo và cơ chế nhà nước chuyên chế phương Đông, cùng tác động của nó tới con người Việt Nam hiện đại; trong *Đến hiện đại từ truyền thống* (in lần đầu 1994; NXB Văn hóa tái bản 1996), ông coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống **[có cơ sở]**.
 - **Tranh luận mở:** mức độ "sáng tạo" thực sự của Nho giáo Việt so với Nho giáo Trung Hoa; và câu hỏi liệu có nên gọi đó là "triết học Việt Nam" hay chỉ là "Nho giáo ở Việt Nam" **[có cơ sở]**.
 - **Một góc nhìn bổ sung:** có học giả lưu ý rằng chính Nho giáo Trung Hoa cũng không đồng nhất — Nho gia thời Chiến Quốc khác Tống Nho, Tống Nho khác Hán Nho **[chắc chắn]**. Vậy câu hỏi "Nho giáo Việt có phải là Nho giáo thật không?" có thể đặt ngược lại: có "Nho giáo thật" nào để so sánh không, hay mọi Nho giáo đều là Nho giáo của một nơi, một thời? **[suy đoán]** (câu hỏi gợi mở; không phải luận điểm đã thành hình trong học giới).
-- Nguồn mốc: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình của Viện Triết học, thuộc cụm công trình "Lịch sử tư tưởng Việt Nam" được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016 **[chắc chắn]**.
+- Nguồn mốc: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình nằm trong cụm công trình của Nguyễn Tài Thư và các cộng sự được Giải thưởng Nhà nước về khoa học và công nghệ (đợt 5, năm 2016) **[chắc chắn]**.
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 
@@ -129,9 +129,9 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 ## Đọc văn bản gốc {#doc-van-ban-goc}
 
-Dưới đây là hai câu mở đầu *Bình Ngô đại cáo* của Nguyễn Trãi (văn bản chữ Hán, 1428 — đã hết bản quyền), kèm câu dịch quen thuộc trong sách giáo khoa (chưa xác định chắc chắn người dịch).
+Dưới đây là hai câu mở đầu *Bình Ngô đại cáo* của Nguyễn Trãi (văn bản chữ Hán, 1428 — đã hết bản quyền), kèm câu dịch thường gặp (Wikisource tiếng Việt ghi là bản dịch của Ngô Tất Tố).
 
-!!! quote "Nguyễn Trãi, *Bình Ngô đại cáo*, 1428 (câu dịch trong sách giáo khoa)"
+!!! quote "Nguyễn Trãi, *Bình Ngô đại cáo*, 1428 (câu dịch thường gặp)"
     "Việc nhân nghĩa cốt ở yên dân,
     Quân điếu phạt trước lo trừ bạo."
 
@@ -153,7 +153,7 @@ Thử xem bạn nắm được đến đâu.
 <script type="application/json">
 [
  {"q": "Nguyễn Trãi đã làm gì với khái niệm 'nhân nghĩa' của Nho giáo trong Bình Ngô đại cáo?", "options": ["Giữ nguyên định nghĩa gốc của Khổng Tử", "Định nghĩa lại: nhân nghĩa cốt ở yên dân, và trừ bạo là bổn phận — biến nó thành lý lẽ của độc lập dân tộc", "Bác bỏ khái niệm nhân nghĩa", "Thay nhân nghĩa bằng pháp trị"], "answer": 1, "explain": "Văn bản còn nguyên: 'Việc nhân nghĩa cốt ở yên dân, quân điếu phạt trước lo trừ bạo.' Từ khái niệm đạo đức cá nhân, Nguyễn Trãi nâng nhân nghĩa thành tiêu chuẩn chính trị: dân có yên không, kẻ bạo ngược có bị trừ không."},
- {"q": "Theo Trần Đình Hượu, Nho giáo Việt Nam khác Nho giáo Trung Hoa ở điểm nào?", "options": ["Người Việt không học chữ Hán", "Được Việt hóa theo hướng thực tiễn, ít siêu hình, gắn với yêu nước và độc lập dân tộc", "Bỏ hoàn toàn tam cương ngũ thường", "Chỉ tồn tại ở miền Bắc"], "answer": 1, "explain": "Luận điểm của Trần Đình Hượu trong Đến hiện đại từ truyền thống (1996): người Việt chọn lọc mặt thực tiễn, đạo đức của Nho giáo, ít quan tâm mặt siêu hình của Tống Nho, và gắn nó với sự nghiệp giữ nước."},
+ {"q": "Theo lập trường 'Việt hóa' trong bài, Nho giáo Việt Nam khác Nho giáo Trung Hoa ở điểm nào?", "options": ["Người Việt không học chữ Hán", "Được Việt hóa theo hướng thực tiễn, ít siêu hình, gắn với yêu nước và độc lập dân tộc", "Bỏ hoàn toàn tam cương ngũ thường", "Chỉ tồn tại ở miền Bắc"], "answer": 1, "explain": "Lập trường Việt hóa (một quan điểm trong giới nghiên cứu) cho rằng người Việt chọn lọc mặt thực tiễn, đạo đức của Nho giáo, ít quan tâm mặt siêu hình của Tống Nho, và gắn nó với sự nghiệp giữ nước."},
  {"q": "Phản bác mạnh nhất nhằm vào lập trường 'Nho giáo Việt chỉ là sao chép' là gì?", "options": ["Người Việt không biết chữ Hán", "Một công cụ sao chép thuần túy không thể quay ngược chống lại chủ của nó — Nho giáo trong tay sĩ phu Việt lại thành lý lẽ chống xâm lược, chứng tỏ đã có biến đổi thực chất", "Nho giáo Trung Hoa đã biến mất", "Chu Văn An không phải nhà Nho"], "answer": 1, "explain": "Cùng một học thuyết, ở Trung Hoa là công cụ của 'thiên triều', ở Việt Nam thành lý lẽ của độc lập. Sự 'quay ngược' ấy không thể giải thích bằng sao chép thuần túy."},
  {"q": "Theo 'định nghĩa động' về truyền thống trong bài, Nguyễn Trãi là người như thế nào?", "options": ["Phản bội truyền thống Nho giáo", "Người viết tiếp truyền thống: vẫn nói ngôn ngữ Nho giáo (nhân, nghĩa, dân) nhưng nói một câu mới bằng ngôn ngữ cũ", "Người không hiểu Nho giáo", "Người sáng lập một tôn giáo mới"], "answer": 1, "explain": "Định nghĩa động coi truyền thống là dòng chảy tiếp nối có biến đổi. Nguyễn Trãi không phá bỏ ngôn ngữ Nho giáo mà dùng chính nó để diễn đạt tư tưởng mới — đó là 'viết tiếp', không phải 'viết khác'."},
  {"q": "Một người bạn nói: 'Áo dài, tiếng Việt vay mượn, Nho giáo ngoại lai — vậy Việt Nam chẳng có bản sắc gì nguyên chất cả.' Dùng nội dung bài, bạn đáp lại thế nào?", "options": ["Đồng ý, Việt Nam không có bản sắc", "Bản sắc không phải là cái nguyên chất mà là cái đã được tiêu hóa thành của mình — như Nho giáo ngoại lai đã thành một phần bản sắc", "Bản sắc chỉ tính từ năm 1945", "Không nên bàn về bản sắc"], "answer": 1, "explain": "Bài lập luận: chính Nho giáo — một học thuyết ngoại lai — từng là một phần của bản sắc Việt. Bản sắc là kết quả của quá trình tiếp thu và biến đổi, không phải độ nguyên chất."}
@@ -175,7 +175,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
+1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/> — khái niệm Nho giáo chung (nhân, nghĩa, tam cương).

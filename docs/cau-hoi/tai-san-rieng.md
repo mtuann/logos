@@ -217,7 +217,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/libertarianism/>
 2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
-3. Locke, John (1689; trang bìa ghi 1690), *Two Treatises of Government*, London: Awnsham Churchill (phạm vi công cộng). Khảo luận thứ hai: <https://www.gutenberg.org/ebooks/7370>
+3. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo bản in lại lần thứ sáu, 1763). <https://www.gutenberg.org/ebooks/7370>
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
 6. Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>

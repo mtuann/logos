@@ -6,6 +6,8 @@
 Phạm vi: văn xuôi Lõi viết tay của khối `lich-su` và `viet-nam`, cộng mọi câu có nhãn độ chắc chắn ở bài khác
 (bỏ code, đích link, mục Nguồn; giữ trích dẫn). Mỗi năm (200–2029, hoặc kèm "TCN") cùng câu chứa nó thành một ứng viên:
 `year`, `year_label` (chữ gốc), `text` (câu, tối đa 240 ký tự), `certainty` theo nhãn trong câu, `used_in`.
+Số đứng ngay trước đơn vị đếm ("300 trang", "500 người") hay trước "chữ", kể cả số đầu một khoảng ("150–300 chữ",
+"200–350 chữ": độ dài gợi ý cho bài viết; đợt 5.2), không phải năm.
 Bỏ qua, có lý do (ghi ở verification/lech/events.md):
   - `nam-tac-pham`: năm trong "*Tên* (năm)" — thuộc works.yml;
   - `nam-song`: khoảng năm "(1258–1308)", "(k. 470–399 TCN)", và khoảng năm trong ô bảng niên biểu — năm sinh mất;
@@ -32,7 +34,10 @@ OUT = ROOT / "data" / "kb" / "events.yml"
 LECH = ROOT / "verification" / "lech" / "events.md"
 KEEP = ("evidence", "verified")
 BLOCKS = {"lich-su", "viet-nam"}
-YEAR = re.compile(r"(?<![\d.,/:§-])(?P<y>1\d{3}|20[0-2]\d|[2-9]\d{2})(?P<tcn>\s*TCN)?(?![\d%]|[.,]\d|\s*(?:người|trang|câu|bài))")
+# Sau số không được là: chữ số, %, phần thập phân, đơn vị đếm (người, trang, câu, bài), hay "chữ" — kể cả khi số là
+# đầu một khoảng ("200–350 chữ": cả 200 lẫn 350 là số chữ gợi ý cho bài viết, không phải năm; đợt 5.2).
+YEAR = re.compile(r"(?<![\d.,/:§-])(?P<y>1\d{3}|20[0-2]\d|[2-9]\d{2})(?P<tcn>\s*TCN)?"
+                  r"(?![\d%]|[.,]\d|\s*(?:người|trang|câu|bài)|(?:\s*[–-]\s*\d+)?\s*chữ)")
 LABEL = re.compile(r"\[(chắc chắn|có cơ sở|suy đoán)\]")
 CERTAINTY = {"chắc chắn": "chac-chan", "có cơ sở": "co-co-so", "suy đoán": "suy-doan"}
 WORK_YEAR = re.compile(r"\*[^*\n]{2,160}?\*\s*\((?:khoảng |k\. |năm )?\d{3,4}[^)]*\)")

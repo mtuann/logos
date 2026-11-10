@@ -38,7 +38,7 @@ Một chi tiết đáng nhớ: trong phiên tòa, Socrates có cơ hội đề x
 
 ## Platon: thế giới của những ý niệm {#platon-the-gioi-cua-nhung-y-niem}
 
-**Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — thường được ví là trường đại học đầu tiên của phương Tây.
+**Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — thường được xem là tiền thân xa của trường đại học.
 
 Tư tưởng cốt lõi của ông là **thuyết ý niệm** (*Theory of Forms*): những vật ta thấy chỉ là bản sao mờ nhạt của những **Ý niệm** (*Forms*) hoàn hảo, bất biến, tồn tại độc lập. Có nhiều cái bàn méo mó, nhưng chỉ có một Ý niệm "Bàn" hoàn hảo; có nhiều hành động được gọi là công bằng, nhưng chỉ có một Ý niệm "Công lý". Tri thức thật sự không phải là ý kiến về các bản sao (giác quan), mà là sự nắm bắt các Ý niệm (lý trí).
 
@@ -66,7 +66,7 @@ Ba đóng góp lớn nhất:
 
 ## Thời Hellenistic: triết học cho đời sống {#thoi-hellenistic-triet-hoc-cho-doi-song}
 
-Sau khi Alexander Đại đế qua đời (323 TCN), các thành bang Hy Lạp suy tàn, con người mất đi chỗ dựa chính trị cũ. Triết học chuyển hướng: không còn hỏi "thế giới là gì" mà hỏi "sống thế nào cho thanh thản". Hai trường phái lớn:
+Sau khi Alexander Đại đế qua đời (323 TCN), các thành bang Hy Lạp chỉ còn độc lập trên danh nghĩa. Triết học chuyển hướng: không còn hỏi "thế giới là gì" mà hỏi "sống thế nào cho thanh thản". Hai trường phái lớn:
 
 **Khắc kỷ** (*Stoicism*), do [Zeno xứ Citium](../triet-gia/zeno.md) sáng lập khoảng 300 TCN: hạnh phúc đến từ việc sống thuận theo tự nhiên và lý trí, và chỉ đức hạnh mới thật sự là điều thiện. Khoảng bốn thế kỷ sau, [Epictetus](../triet-gia/epictetus.md) gói lời dạy ấy thành phép phân biệt nổi tiếng giữa điều ta kiểm soát được (phán đoán, ý chí của mình) với điều không (danh vọng, sức khỏe, ý kiến người khác) — và chỉ bận tâm về vế đầu. Triết gia Khắc kỷ nổi tiếng nhất là hoàng đế La Mã **[Marcus Aurelius](../triet-gia/marcus-aurelius.md)** (121–180), với cuốn *Suy tưởng* viết cho chính mình giữa chiến trận.
 

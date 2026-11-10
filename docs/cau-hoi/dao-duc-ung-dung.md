@@ -192,7 +192,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House (tái bản nhiều lần).
 2. Singer, Peter (1972), "Famine, Affluence, and Morality", *Philosophy & Public Affairs* 1(3): 229–243.
-3. Gruen, Lori, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
+3. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
 4. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
 5. MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về "vị tha hiệu quả").
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

@@ -80,5 +80,5 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 2. Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất) — bản dịch tiếng Anh công cộng.
 3. John Locke, *An Essay Concerning Human Understanding* (1689) — bản dịch/văn bản công cộng.
 4. David Hume, *An Enquiry Concerning Human Understanding* (1748) — văn bản công cộng.
-5. Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của Norman Kemp Smith.
+5. Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của J. M. D. Meiklejohn, Project Gutenberg #4280 <https://www.gutenberg.org/ebooks/4280>.
 6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Descartes, Elisabeth of Bohemia, Spinoza, Leibniz, Locke, Berkeley, Hume, Kant.

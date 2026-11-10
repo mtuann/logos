@@ -197,7 +197,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, London: Henry G. Bohn, 1853; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
+1. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, Bohn's Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
 2. Lucretius, *De Rerum Natura* (*Về bản chất của sự vật*), Quyển III (lập luận đối xứng). Bản dịch tiếng Anh của William Ellery Leonard (1916, phạm vi công cộng). <https://www.gutenberg.org/ebooks/785>
 3. Nagel, Thomas (1970), "Death", *Noûs* 4(1): 73–80.
 4. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>

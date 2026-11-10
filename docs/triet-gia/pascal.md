@@ -72,7 +72,7 @@ Nếu lý trí không phân xử được Chúa có tồn tại hay không, ta n
 1. Clarke, Desmond & William Wood, “Blaise Pascal”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal/>
 2. Hájek, Alan, “Pascal’s Wager”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
 3. Simpson, David, “Pascal, Blaise”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/pascal-b/>
-4. Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
+4. Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
 5. *Pensées de Blaise Pascal*, ấn bản điện tử có bảng đối chiếu số đoạn Brunschvicg – Lafuma – Sellier. <https://www.penseesdepascal.fr/>
 
 ---

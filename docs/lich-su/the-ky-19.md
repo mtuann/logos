@@ -38,7 +38,7 @@ Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – k
 
 **Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, là "kẻ phản Hegel" đầu tiên theo một nghĩa rất cá nhân: ông cho rằng hệ thống của Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
 
-Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Không có lý trí nào chứng minh được nấc nào cao hơn — chuyển nấc đòi hỏi một **bước nhảy** (*leap*) của đức tin, như Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843) sẵn sàng hiến tế con trai vì vâng lời Chúa, vượt lên trên cả đạo đức thông thường.
+Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Việc chuyển từ nấc này sang nấc khác không phải là một kết luận mà lý trí buộc ta phải chấp nhận, mà là một thành tựu đòi hỏi biến đổi những "đam mê" định hình cả đời sống. Hình mẫu của nấc tôn giáo là Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843), người sẵn sàng hiến tế con trai vì vâng lời Chúa; nhiều người đọc thấy ở đây sự đình chỉ đạo đức thông thường vì một mục đích cao hơn.
 
 Kierkegaard được xem là cha đẻ của **hiện sinh** (*existentialism*): triết học bắt đầu từ trải nghiệm của cá nhân cụ thể — lo âu, tuyệt vọng, lựa chọn — chứ không từ hệ thống trừu tượng.
 
@@ -74,7 +74,7 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 |---|---|---|
 | 1770–1831 | Hegel | Biện chứng; Tinh thần Tuyệt đối; chủ–nô |
 | 1818–1883 | Marx | Duy vật lịch sử; giá trị thặng dư; tha hóa |
-| 1813–1855 | Kierkegaard | Ba nấc tồn tại; bước nhảy đức tin |
+| 1813–1855 | Kierkegaard | Ba nấc tồn tại; cá nhân trước hệ thống |
 | 1844–1900 | Nietzsche | Chúa đã chết; siêu nhân; vĩnh cửu luân hồi |
 | 1806–1873 | Mill | Nguyên tắc gây hại; vị lợi luận tinh chỉnh |
 
@@ -88,8 +88,8 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 ## Nguồn {#nguon}
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
-2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848); Karl Marx, *Capital*, tập 1 (1867) — bản dịch tiếng Anh công cộng.
-3. Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843) — bản dịch tiếng Anh công cộng.
+2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
+3. Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843).
 4. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
 5. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
 6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.

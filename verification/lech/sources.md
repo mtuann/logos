@@ -2,11 +2,11 @@
 
 Sinh bằng `python tools/kb_sources.py`. Đầu vào cho đợt 5: không sửa trong đợt 2.
 
-- 907 mục Nguồn (trang viết tay + hồ sơ) → 681 bản ghi.
-- Theo loại: cbeta 3, ctext 23, doi 54, gutenberg 51, iep 36, khac 75, sach 223, sep 179, wikisource 37.
-- 236 mục không có URL (sách in, hoặc thiếu link).
+- 906 mục Nguồn (trang viết tay + hồ sơ) → 679 bản ghi.
+- Theo loại: cbeta 3, ctext 23, doi 54, gutenberg 53, iep 36, khac 75, sach 219, sep 179, wikisource 37.
+- 233 mục không có URL (sách in, hoặc thiếu link).
 
-## Cùng một nguồn, chữ khác nhau (93)
+## Cùng một nguồn, chữ khác nhau (91)
 
 Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau: thống nhất ở đợt 5.
 
@@ -39,7 +39,6 @@ Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau:
 - `gutenberg.5827` (3 cách ghi; dùng ở `bat-dau/index.md#nguon`, `cau-hoi/chan-ly.md#nguon`, `people/russell`)
 - `gutenberg.59` (2 cách ghi; dùng ở `doc/descartes-suy-niem.md#nguon`, `people/descartes`)
 - `gutenberg.6762` (3 cách ghi; dùng ở `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `people/aristotle`, `people/thales`)
-- `gutenberg.7370` (3 cách ghi; dùng ở `cau-hoi/khe-uoc-xa-hoi.md#nguon`, `cau-hoi/tai-san-rieng.md#nguon`, `people/locke`)
 - `gutenberg.9662` (5 cách ghi; dùng ở `cau-hoi/tu-do-y-chi.md#nguon`, `cong-cu/quy-nap.md#nguon`, `doc/hume-nhan-qua.md#nguon`, `people/descartes`, `people/hume`)
 - `iep.fallacy` (2 cách ghi; dùng ở `cong-cu/nguy-bien-hinh-thuc.md#nguon`, `cong-cu/nguy-bien.md#nguon`, `cong-cu/suy-dien.md#nguon`)
 - `iep.marcus` (2 cách ghi; dùng ở `doc/aurelius-suy-tuong.md#nguon`, `people/marcus-aurelius`)
@@ -97,19 +96,17 @@ Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau:
 - `web.buddhanature-tsadra-org.index-php-texts-mahaparinirvanasutra` (2 cách ghi; dùng ở `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `cau-hoi/truc-lam.md#nguon`)
 - `web.marxists-org.reference-archive-sartre-works-exist-sartre-htm` (2 cách ghi; dùng ở `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `people/sartre`)
 - `web.parliament-uk.about-living-heritage-transformingsociety-election` (2 cách ghi; dùng ở `lich-su/the-ky-19.md#nguon`, `people/mill`)
-- `web.vjol-info-vn.ncpt-hue-article-view-16248` (2 cách ghi; dùng ở `people/tran-nhan-tong`, `people/tue-trung`)
 - `wikisource.en.meditations-on-first-philosophy` (2 cách ghi; dùng ở `doc/descartes-suy-niem.md#nguon`, `people/descartes`)
 - `wikisource.en.meditations-on-first-philosophy-meditation-vi` (2 cách ghi; dùng ở `cau-hoi/van-de-tam-tri.md#nguon`, `doc/trang-tu-mong-ho-diep.md#nguon`)
 - `wikisource.en.tractatus-logico-philosophicus` (2 cách ghi; dùng ở `cau-hoi/chan-ly.md#nguon`, `people/wittgenstein`)
 - `wikisource.vi.binh-ngo-dai-cao` (2 cách ghi; dùng ở `cau-hoi/nho-giao-viet.md#nguon`, `doc/nguyen-trai-binh-ngo.md#nguon`)
 - `wikisource.zh.a1c4f2e4b8` (2 cách ghi; dùng ở `people/tran-nhan-tong`, `people/tue-trung`)
 
-## Sách có thể trùng (11)
+## Sách có thể trùng (10)
 
 Sách in không có URL, ghi gần giống nhau ở các trang (khác chương, trang, nhà xuất bản): xem có phải một nguồn.
 
 - `sach.aquinas-thomas-khoang-12651273-summa-theologiae-phan-i-cau-2-2`: Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 — phản bác thứ nhất ở đây chính là vấn đề sự dữ.
-- `sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1-2`: Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 - `sach.nozick-robert-1974-anarchy-state-and-utopia-new-york-basic-b-2`: Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 - `sach.nozick-robert-1974-anarchy-state-and-utopia-new-york-basic-b-3`: Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm cỗ máy trải nghiệm).
 - `sach.parfit-derek-1984-reasons-and-persons-oxford-oxford-universi-2`: Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press (phụ lục về ba họ lý thuyết đời sống tốt).
@@ -160,7 +157,7 @@ Bản ghi lấy URL đầu; các URL sau ghi ở `also`. Xem có nên tách thà
 - `doc/kant-khai-sang.md#nguon`: Kant, Immanuel (1784), "Beantwortung der Frage: Was ist Aufklärung?", *Berlinische Monatsschrift* 4 (12): 481–494, bản in gốc trên Wikisource <https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F>; Akademie-Ausgabe 8: 33–42 <https://www.korpora.org/Kant/aa08/035.html>
 - `doc/russell-gia-tri.md#nguon`: Russell, Bertrand (1912), *The Problems of Philosophy*, London: Williams and Norgate, chương XV; bản in 1912 trên Wikisource <https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15>; Project Gutenberg <https://www.gutenberg.org/ebooks/5827>
 - `doc/manh-tu-tinh-thien.md#nguon`: *Mạnh Tử*, nguyên văn và bản dịch tiếng Anh của James Legge (1861), Chinese Text Project: thiên 2A <https://ctext.org/mengzi/gong-sun-chou-i>; 3B <https://ctext.org/mengzi/teng-wen-gong-ii>; 6A <https://ctext.org/mengzi/gaozi-i>.
-- `doc/mac-tu-kiem-ai.md#nguon`: *Mặc Tử*, nguyên văn và bản dịch tiếng Anh của W. P. Mei (1929), Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
+- `doc/mac-tu-kiem-ai.md#nguon`: *Mặc Tử*, nguyên văn, Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
 - `doc/mac-tu-kiem-ai.md#nguon`: *Mạnh Tử* 3A5 và 3B9, nguyên văn: <https://ctext.org/mengzi/teng-wen-gong-i>; <https://ctext.org/mengzi/teng-wen-gong-ii>.
 - `doc/mac-tu-kiem-ai.md#nguon`: Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/archives/fall2026/entries/mohism/>; <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>
 - `doc/nguyen-trai-binh-ngo.md#nguon`: *Đại Việt sử ký toàn thư*, Bản kỷ quyển 10 (nguyên văn bài cáo, các sự kiện cuối năm Đinh Mùi), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十>; quyển 11 và 12 (án năm 1442; việc năm 1464, 1467). <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一>
@@ -177,7 +174,7 @@ Bản ghi lấy URL đầu; các URL sau ghi ở `also`. Xem có nên tách thà
 - `cau-hoi/noi-doi.md#nguon`: <http://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>
 - `cau-hoi/ban-tinh-con-nguoi.md#nguon`: <http://classics.mit.edu/Aristotle/nicomachaen.html>
 - `cau-hoi/nghe-thuat.md#nguon`: <http://news.bbc.co.uk/2/hi/entertainment/4059997.stm>
-- `doc/platon-bien-ho.md#nguon`: <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170>
+- `doc/platon-bien-ho.md#nguon`: <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.>
 - `doc/platon-hang-dong.md#nguon`: <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a>
 - `doc/epictetus-cam-nang.md#nguon`: <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=e)gxeiri/dios>
 - `doc/aristotle-dao-duc.md#nguon`: <http://classics.mit.edu/Aristotle/nicomachaen.html>

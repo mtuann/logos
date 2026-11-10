@@ -40,8 +40,8 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Người (năm sinh mất, trường phái) | 59 | 59 |
 | Tác phẩm | 335 | 335 |
 | Trích dẫn | 155 | 0 |
-| Sự kiện (ứng viên) | 134 | 0 |
-| Nguồn | 681 | 0 |
+| Sự kiện (ứng viên) | 129 | 0 |
+| Nguồn | 679 | 0 |
 | Hồ sơ triết gia | 59 | 0 |
 | Câu hỏi khảo sát PhilPapers 2020 | 100 | 0 |
 | Thuật ngữ (Từ điển) | 249 | 0 |
