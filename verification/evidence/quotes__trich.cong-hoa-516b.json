@@ -1,0 +1,37 @@
+{
+  "unit": "quotes/trich.cong-hoa-516b",
+  "hash": "sha256:32124a225243cb17ad21f05446fe9e3a1428f20ebacb2e7ab80b0c3fd1baa21c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q12",
+  "claims": [
+    {
+      "text": "Nguyên văn 'Last of all he will be able to see the sun, ... and he will contemplate him as he is.' đúng bản Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.pc.maricopa.edu/ss/phi101/II/II_B__Plato_the_Cave_Jowett.htm",
+          "quote": "Last of all he will be able to see the sun, and not mere reflections of him in the water, but he will see him in his own proper place, and not in another; and he will contemplate him as he is."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.pc.maricopa.edu/ss/phi101/II/II_B__Plato_the_Cave_Jowett.htm",
+          "quote": "and he will contemplate him as he is."
+        }
+      ]
+    },
+    {
+      "text": "locator: Cộng hòa VII, Stephanus 516b (như tiêu đề)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn văn bản: Jowett (bản mở qua WebFetch, nguồn chứa văn bản không in số Stephanus; Gutenberg bị chặn với công cụ). Số Stephanus không kiểm được từ trang nào đã mở (Perseus bị robots chặn), nên locator để chua-kiem-duoc; không ghi theo trí nhớ. Bản dịch tiếng Việt đã đọc đối chiếu, sát nghĩa. Công cụ tóm tắt của WebFetch cho thấy trang MIT/constitution.org ghi 'Last of he' (có thể lỗi đánh máy của bản số hóa đó); trang maricopa có 'Last of all he'."
+}

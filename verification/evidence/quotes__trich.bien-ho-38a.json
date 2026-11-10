@@ -1,0 +1,52 @@
+{
+  "unit": "quotes/trich.bien-ho-38a",
+  "hash": "sha256:f0ce840c1bb3fa4c6ed78ff875d234d3d181864b1a75d4bef80223e6f1a76000",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q11",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh khớp bản dịch Jowett (Apology, Gutenberg #1656)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "is the greatest good of man, and that the unexamined life is not worth living"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "daily to discourse about virtue, and of those other things about which you hear me examining myself and others,"
+        }
+      ]
+    },
+    {
+      "text": "Người nói Socrates trong Biện hộ của Plato; dịch giả Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "Translator: Benjamin Jowett"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "is the greatest good of man, and that the unexamined life is not worth living"
+        }
+      ]
+    },
+    {
+      "text": "locator: Stephanus 38a",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chữ khớp từng chữ. Chưa mở được nguồn có số Stephanus (Perseus/Perseids bị robots chặn, Wikisource không mở được) nên locator 38a chưa xác nhận bằng nguồn; theo trí nhớ là đúng nhưng không ghi dung. Jowett (mất 1893) là phạm vi công cộng, trường license 'unknown' nên điền. Trích 1 câu dài, chấp nhận được."
+}

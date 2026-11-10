@@ -1,0 +1,73 @@
+{
+  "unit": "quotes/platon.cong-hoa",
+  "hash": "sha256:0199673b8e3872afe1bb8a816279ec6d9e5f824cbcf52e9d5a17dcaff1a65b0a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q09",
+  "claims": [
+    {
+      "text": "Nguyên văn \"Will he not be called by them a prater, a star-gazer, a good-for-nothing?\" có đúng từng chữ trong bản Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.7.vi.html",
+          "quote": "Will he not be called by them a prater, a star-gazer, a good-for-nothing?",
+          "where": "Book VI, Jowett"
+        },
+        {
+          "url": "https://austria-forum.org/web-books/en/completeplato00enisds/001181",
+          "quote": "Will he not be called by them a prater, a star-gazer, a good-for-nothing?",
+          "where": "The Complete Plato"
+        }
+      ]
+    },
+    {
+      "text": "Trích đúng tác phẩm và quyển: Platon, Cộng hòa, Quyển VI (câu nói về hoa tiêu thật và thủy thủ nổi loạn)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.7.vi.html",
+          "quote": "Now in vessels which are in a state of mutiny and by sailors who are mutineers, how will the true pilot be regarded?",
+          "where": "Book VI"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh là của Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.7.vi.html",
+          "quote": "Translated by Benjamin Jowett",
+          "where": "đầu trang Book VI"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "Benjamin Jowett",
+          "where": "Translator, ebook 1497"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (prater = kẻ ba hoa, star-gazer = kẻ ngắm sao, good-for-nothing = kẻ vô tích sự)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.7.vi.html",
+          "quote": "a prater, a star-gazer, a good-for-nothing",
+          "where": "Book VI"
+        }
+      ]
+    },
+    {
+      "text": "locator: số Stephanus của câu (tiêu đề chỉ ghi Quyển VI; không mở được nguồn có số Stephanus: Perseus/Perseids chặn công cụ)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trường work là 'chua-ro.cong-hoa' (khóa tạm?) nên người làm xem lại. Số Stephanus: dự kiến 488e nhưng chưa mở được nguồn xác nhận, nên chưa ghi dung. Gutenberg 1497 cắt trước Quyển VI nên đối chiếu bằng classics.mit.edu (bản Jowett) và Complete Plato (austria-forum). license 'unknown': Jowett 1871-1894, phạm vi công cộng."
+}

@@ -1,0 +1,58 @@
+{
+  "unit": "quotes/thomas-hobbes.leviathan",
+  "hash": "sha256:f517e9916a79af1afd7c94bbdfed6874aa530611beb8782ddc8acd69cc3ac34a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q10",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh (chính tả 1651): In such condition, there is no place for Industry ... solitary, poore, nasty, brutish, and short.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://rosendalelibrary.org/files/2023/10/Excerpt-from-Thomas-Hobbes-Leviathan-.pdf",
+          "quote": "In such condition, there is no place for Industry; because the fruit thereof is uncertain;"
+        },
+        {
+          "url": "https://rosendalelibrary.org/files/2023/10/Excerpt-from-Thomas-Hobbes-Leviathan-.pdf",
+          "quote": "And the life of man, solitary, poore, nasty, brutish, and short."
+        },
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "continual fear, and danger of violent death; and the life of man, solitary, poor, nasty,",
+          "where": "bản chính tả hiện đại, cùng văn"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Hobbes, Leviathan (1651), chương 13",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "Chapter XIII (1651)",
+          "where": "Fordham Internet Modern History Sourcebook, Leviathan ch. XIII"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "quote": "Leviathan, Thomas Hobbes (1588-1679)",
+          "where": "trang ebook Gutenberg 3207, chỉ xác nhận tác phẩm"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt của Logos sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "no culture of the earth; no navigation, nor use of the commodities that may be imported by sea;"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn nguyên văn chính tả cũ lấy từ PDF thư viện Rosendale (nguồn yếu), đối chiếu thêm Fordham (chính tả hiện đại). Trang Gutenberg 3207 bị công cụ cắt ở Chương VII nên không dùng được cho đoạn này; nên đối chiếu thêm bản EEBO-TCP/Gutenberg khi mở được. Văn công cộng. 'máy móc' cho 'Instruments of moving' hơi thoát nhưng đúng ý."
+}

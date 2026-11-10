@@ -1,0 +1,68 @@
+{
+  "unit": "quotes/rousseau.du-contrat-social",
+  "hash": "sha256:ca2c958c21da7104978ccbbc6c1ca08a5473bb428b3afe9f80e569271465a80f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q09",
+  "claims": [
+    {
+      "text": "Nguyên văn 'Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they.' đúng từng chữ (Cole)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
+          "quote": "Man is born free; and everywhere he is in chains.",
+          "where": "Book I, Chapter I"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
+          "quote": "One thinks himself the master of others, and still remains a greater slave than they.",
+          "where": "Book I, Chapter I"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của G. D. H. Cole, in năm 1913; URL Gutenberg 46333 đúng (The Social Contract & Discourses, Cole)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.lib.sophia.ac.jp/opac/opac_link/bibid/1002233500",
+          "quote": "1913",
+          "where": "Dent/Dutton, G.D.H. Cole"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "G. D. H. Cole",
+          "where": "Translator, ebook 46333"
+        }
+      ]
+    },
+    {
+      "text": "Quyển I, chương 1 (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
+          "quote": "CHAPTER I: SUBJECT OF THE FIRST BOOK",
+          "where": "Book I"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (born free = sinh ra tự do; master/slave = chủ/nô lệ hơn cả họ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
+          "quote": "still remains a greater slave than they",
+          "where": "Book I, Chapter I"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguyên văn dùng dấu chấm phẩy đúng như bản ghi. Năm 1913 lấy từ OPAC thư viện Sophia (ghi 1913, Dent, Dutton); nguồn yếu hơn nhưng là thư mục thư viện. Gutenberg 46333 không ghi năm in; đề xuất bổ sung link ổn định là chính trang Gutenberg 46333. Câu 'mà đâu đâu cũng mang xiềng xích' đúng ý. Cần lưu ý nhiều bản dịch cho câu 2 khác nhau ('Kẻ tưởng mình là chủ' vẫn đúng với Cole)."
+}

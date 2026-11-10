@@ -1,0 +1,68 @@
+{
+  "unit": "quotes/sartre.l-existentialisme-est-un-humanisme",
+  "hash": "sha256:b6e779af4df2f84ffbc0e2449999191690283b95df4c41ecf0f25faf3317483f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q09",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Pháp: « l'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. » (đúng từng chữ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philosophie.ac-versailles.fr/IMG/pdf/liberte_individuelle_et_action_historique_dans_l_etre_et_le_ne_ant_de_sartre_michel_cardin.pdf",
+          "quote": "l'homme est condamné à être libre",
+          "where": "trích L'existentialisme est un humanisme"
+        },
+        {
+          "url": "https://philosophie.ac-versailles.fr/IMG/pdf/liberte_individuelle_et_action_historique_dans_l_etre_et_le_ne_ant_de_sartre_michel_cardin.pdf",
+          "quote": "Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre,",
+          "where": "trích"
+        },
+        {
+          "url": "https://philosophie.ac-versailles.fr/IMG/pdf/liberte_individuelle_et_action_historique_dans_l_etre_et_le_ne_ant_de_sartre_michel_cardin.pdf",
+          "quote": "parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait.",
+          "where": "trích"
+        }
+      ]
+    },
+    {
+      "text": "Đúng người và tác phẩm: Sartre, L'existentialisme est un humanisme; bài nói 29/10/1945, in năm 1946 (Nagel)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.schoolmouv.fr/cours/l-existentialisme-est-un-humanisme-jean-paul-sartre/",
+          "quote": "est finalement entreprise par l'éditeur Nagel, en 1946",
+          "where": "bài nói 29 tháng 10 năm 1945 theo cùng trang"
+        }
+      ]
+    },
+    {
+      "text": "Phần 'bị bỏ rơi' (abandon/délaissement): câu nằm trong phần abandonment của bài nói",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "quote": "Condemned, because he did not create himself, yet is nevertheless at liberty,",
+          "where": "mục abandonment (bản Anh trên marxists.org)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (condamné = bị kết án; jeté dans le monde = bị ném vào thế giới; responsable = chịu trách nhiệm)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "quote": "and from the moment that he is thrown into this world he is responsible for everything he does.",
+          "where": "bản Anh cùng đoạn"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu đầu 'l'homme est condamné à être libre' bắt đầu bằng chữ thường vì trích giữa câu (đúng với văn bản: '...en disant que l'homme est condamné...'). Nguồn Pháp là bài PDF của Académie de Versailles (nguồn học thuật vừa, không phải bản in); bản Nagel 1946 không có online hợp pháp. Số trang chưa kiểm được; nên điền locator là 'phần Bị bỏ rơi' hoặc số trang một ấn bản cụ thể. Bản quyền: Sartre mất 1980, văn bản còn bản quyền ở Pháp; bản ghi chỉ trích 2 câu (một câu dài), ở mức chấp nhận được, không đánh vua."
+}

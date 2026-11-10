@@ -1,0 +1,61 @@
+{
+  "unit": "quotes/trang-tu.trang-tu",
+  "hash": "sha256:599edac43735105bea0a9daf7d8fa525b9276026a4aaa94ed668e476f661447f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q10",
+  "claims": [
+    {
+      "text": "Nguyên văn chữ Hán: 山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無用之用也。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/zhuangzi/man-in-the-world-associated-with",
+          "quote": "山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無用之用也。",
+          "where": "ctext, 人間世"
+        }
+      ]
+    },
+    {
+      "text": "locator: thiên 4 人間世, đoạn kết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/zhuangzi",
+          "quote": "人間世 - Man in the World, Associated with other Men",
+          "where": "mục 4 của Nội thiên: 逍遙遊, 齊物論, 養生主, 人間世"
+        },
+        {
+          "url": "https://ctext.org/zhuangzi/man-in-the-world-associated-with",
+          "quote": "山木自寇也",
+          "where": "đoạn cuối, mục 9 của chương trên ctext"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán Việt khớp chữ Hán (Sơn mộc tự khấu dã ... vô dụng chi dụng dã)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/zhuangzi/man-in-the-world-associated-with",
+          "quote": "桂可食，故伐之；漆可用，故割之。"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/zhuangzi/man-in-the-world-associated-with",
+          "quote": "人皆知有用之用，而莫知無用之用也。"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "URL có hậu tố /zh trong record không mở được (client_error); bản không có /zh mở được và có đúng chữ này. Nên đổi url sang https://ctext.org/zhuangzi/man-in-the-world-associated-with. 漆 đọc Hán Việt 'tất' đúng; bản dịch 'sơn' (cây sơn) hợp nghĩa."
+}

@@ -1,0 +1,52 @@
+{
+  "unit": "quotes/thomas-hobbes.leviathan-2",
+  "hash": "sha256:9e9465530df1bc184336e4b17f117efd4d1a2e813e5891b559fc60af20daa62c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q10",
+  "claims": [
+    {
+      "text": "Nguyên văn (chính tả bản đầu 1651): For as the nature of Foule weather, lyeth not in a showre or two of rain; ... All other time is PEACE.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://thephilosophylibrary.org/article/the-state-of-nature/",
+          "quote": "For as the nature of Foule weather, lyeth not in a showre or two of rain;"
+        },
+        {
+          "url": "https://rosendalelibrary.org/files/2023/10/Excerpt-from-Thomas-Hobbes-Leviathan-.pdf",
+          "quote": "So the nature of War, consisteth not in actuall fighting; but in the known disposition thereto,"
+        },
+        {
+          "url": "https://rosendalelibrary.org/files/2023/10/Excerpt-from-Thomas-Hobbes-Leviathan-.pdf",
+          "quote": "All other time is PEACE."
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Hobbes, Leviathan, chương 13",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "All other time is peace.",
+          "where": "Leviathan ch. XIII"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "so the nature of war consisteth not in actual fighting, but in the known disposition thereto"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chính tả 1651 xác nhận qua hai trang thứ cấp (Rosendale PDF, The Philosophy Library: nguồn yếu); không mở được bản EEBO-TCP (quod.lib.umich.edu) hay Gutenberg 3207 (bị cắt). Link Gutenberg trong record trỏ đúng Leviathan nhưng không kiểm được từng chữ ở đó. Cân nhắc đổi url sang bản có chính tả 1651 đọc được."
+}

@@ -1,0 +1,56 @@
+{
+  "unit": "quotes/trich.bien-ho-40c",
+  "hash": "sha256:7a40f8682377dcd0b04836e1581dfa8028847ac28c7bab44cb1994d1aeba3fb1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q11",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh khớp bản dịch Jowett (Gutenberg #1656)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "Let us reflect in another way, and we shall see that there is great reason to hope that death is a good"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "either death is a state of nothingness and utter unconsciousness"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "or, as men say, there is a change and migration of the soul from this world to another."
+        }
+      ]
+    },
+    {
+      "text": "Người nói Socrates trong Biện hộ; dịch giả Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "Translator: Benjamin Jowett"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa (thoát nhẹ 'đổi chỗ' cho 'change and migration' nhưng đúng ý)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "there is a change and migration of the soul from this world to another"
+        }
+      ]
+    },
+    {
+      "text": "locator: Stephanus 40c",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chữ khớp. Locator 40c chưa xác nhận bằng nguồn có số Stephanus (Perseus/Perseids bị robots chặn). Jowett thuộc phạm vi công cộng; có thể điền license."
+}
