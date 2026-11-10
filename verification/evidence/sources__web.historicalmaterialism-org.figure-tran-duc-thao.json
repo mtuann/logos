@@ -2,10 +2,10 @@
   "unit": "sources/web.historicalmaterialism-org.figure-tran-duc-thao",
   "hash": "sha256:f0e087144d58b8ff6d9469a05b01ef34ab313d03023f71c5bf3c396345e75349",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
-      "text": "Trang nhân vật \"Tran Duc Thao\" do Jairus Banaji viết, trên Historical Materialism",
+      "text": "Trang nhân vật 'Tran Duc Thao' do Jairus Banaji viết, trên Historical Materialism",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -22,16 +22,36 @@
       "sources": [
         {
           "url": "https://www.historicalmaterialism.org/figure/tran-duc-thao/",
-          "quote": "Tran Duc Thao et la protofondation des archives Husserl de Paris"
+          "quote": "Tran Duc Thao et la protofondation des archives Husserl de Paris",
+          "where": "cuối trang; '(Paris, 2013)'"
         }
       ]
     },
     {
-      "text": "McHale 2002 (trang dẫn McHale, \"Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory\" nhưng không ghi năm)",
+      "text": "Dựa trên McHale 2002 ('Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory')",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.historicalmaterialism.org/figure/tran-duc-thao/",
+          "quote": "What follows on Thao’s experiences back in Vietnam is taken from McHale’s revealing article on Thao.",
+          "where": "trang dẫn JSTOR 2700187; Crossref xác nhận năm 2002, J. of Asian Studies 61, tr. 7–31"
+        }
+      ]
+    },
+    {
+      "text": "McHale 2002: năm xuất bản đúng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=McHale+Vietnamese+Marxism+Dissent+and+the+Politics+of+Postcolonial+Memory&rows=2",
+          "quote": "Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory: Tran Duc Thao, 1946–1993",
+          "where": "issued 2002-02; DOI 10.2307/2700187"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ còn thiếu năm 2002 của McHale (JSTOR 2700187 theo link trên trang; chưa mở JSTOR)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): trang HM ghi tác giả Banaji, dẫn McHale (JSTOR 2700187) và Courtine (Paris, 2013); Crossref cho McHale năm 2002. Nguồn là trang nhân vật của tạp chí/nhóm, không phải bài có bình duyệt; cân nhắc dẫn thêm McHale 2002 trực tiếp."
 }

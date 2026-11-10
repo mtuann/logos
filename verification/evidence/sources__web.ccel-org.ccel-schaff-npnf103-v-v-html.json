@@ -2,7 +2,7 @@
   "unit": "sources/web.ccel-org.ccel-schaff-npnf103-v-v-html",
   "hash": "sha256:9515b34c5206de85a2b5c08089dc5620ce8a1030f89122bed60753df46cb0017",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s17",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
       "text": "Augustine, De mendacio, bản dịch H. Browne, NPNF series 1, tập 3",
@@ -16,28 +16,54 @@
       ]
     },
     {
-      "text": "Contra Mendacium cùng dịch giả, cùng tập NPNF 1, tập 3 (trang kế)",
+      "text": "Contra Mendacium cùng dịch giả, cùng tập NPNF 1, tập 3 (trang kế v.vi)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.ccel.org/ccel/schaff/npnf103.v.vi.html",
-          "quote": "Against Lying",
-          "where": "Contra Mendacium; Rev. H. Browne"
+          "url": "https://www.ccel.org/ccel/schaff/npnf103/cache/npnf103.txt",
+          "quote": "Against Lying. To Consentius [Contra Mendacium.] Translated by the Rev. H. Browne, M.A.",
+          "where": "bản văn bản toàn tập npnf103"
         }
       ]
     },
     {
-      "text": "Năm viết: De mendacio khoảng 395; Contra mendacium 420 (trang CCEL không nêu năm)",
+      "text": "De mendacio viết khoảng 395",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103/cache/npnf103.txt",
+          "quote": "to have been written about a.d. 395",
+          "where": "ghi chú đầu On Lying"
+        }
+      ]
     },
     {
-      "text": "Năm 1887 của tập NPNF 3 (trang đã mở không nêu)",
+      "text": "Contra mendacium viết 420",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103/cache/npnf103.txt",
+          "quote": "i.e. A.D. 420",
+          "where": "chú thích [2383] đầu Against Lying"
+        }
+      ]
+    },
+    {
+      "text": "Tập NPNF 1, tập 3 in năm 1887",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103/cache/npnf103.txt",
+          "quote": "New York, Feb. 1, 1887",
+          "where": "lời tựa Shedd; lời tựa Schaff ký 'New York, March, 1887'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "URL trong bản ghi chỉ trỏ De mendacio; Contra mendacium ở trang v.vi. Đề xuất thêm link v.vi."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): đối chiếu qua toàn văn CCEL (npnf103/cache/npnf103.txt). URL trong bản ghi chỉ trỏ De mendacio; nên thêm https://www.ccel.org/ccel/schaff/npnf103.v.vi.html cho Contra mendacium. Chữ 'tập 3' đúng (NPNF1-03)."
 }

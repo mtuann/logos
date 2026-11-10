@@ -2,7 +2,7 @@
   "unit": "sources/web.archive-org.details-dli-ernet-6106",
   "hash": "sha256:6a0587cc24834851c8caa0bca53ab2a5ce2503b7c39119ef10b2986fdc5d4430",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s17",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
       "text": "The Works of Aristotle tập IX, W. D. Ross là người chủ biên/dịch, Oxford; URL đúng tập",
@@ -40,11 +40,18 @@
       ]
     },
     {
-      "text": "Lời tựa đề đúng “tháng 7”/1925 (OCR bị nhiễu: “yiify 1925”)",
+      "text": "Lời tựa đề đúng tháng 7/1925",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/dli.ernet.6106/page/n8_w1000.jpg",
+          "quote": "W. D. ROSS, July 1925",
+          "where": "ảnh scan trang Preface (leaf n8); OCR văn bản ghi nhiễu 'yiify 1925'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Siêu dữ liệu IA ghi năm 1915 (sai/đáng ngờ; OCR ghi first edition 1915 nhưng lời tựa 1925). Chỉ chữ “1925” đọc được; “tháng 7” cần xem scan. Người làm xem lại bản scan."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): đọc ảnh scan leaf n8, lời tựa ký 'W. D. Ross, July 1925'. Siêu dữ liệu IA ghi năm 1915 (đáng ngờ) nhưng không ảnh hưởng mục ghi."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.360",
   "hash": "sha256:b7ca9da97955c9604722676bf62fd55f3a2acb9417e6c178c1958ecd5e337ae8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 360 là What is Property? của P.-J. Proudhon",
@@ -10,17 +10,35 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/360",
-          "quote": "What is Property? An Inquiry into the Principle of Right and of Government"
+          "url": "https://www.gutenberg.org/cache/epub/360/pg360-images.html",
+          "quote": "WHAT IS PROPERTY? AN INQUIRY INTO THE PRINCIPLE OF RIGHT AND OF GOVERNMENT By P. J. Proudhon"
         }
       ]
     },
     {
-      "text": "Năm 1840 của bản gốc tiếng Pháp Qu'est-ce que la propriété?",
+      "text": "Năm 1840 của bản gốc tiếng Pháp",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/360/pg360-images.html",
+          "quote": "The first memoir on property appeared in 1840"
+        }
+      ]
+    },
+    {
+      "text": "Tên gốc tiếng Pháp Qu'est-ce que la propriété?",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=qu%27est-ce+que+la+propri%C3%A9t%C3%A9&author=proudhon",
+          "quote": "Qu'est-ce que la propriété? ; P.-J. Proudhon ; 1840",
+          "where": "API Open Library, first_publish_year 1840 (mô tả ghép các trường)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không nêu năm 1840 hay tên gốc tiếng Pháp. Trang không nêu dịch giả (bản ghi cũng không nêu)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): ebook không nêu dịch giả (bản ghi cũng không nêu). Tên gốc tiếng Pháp xác nhận qua metadata Open Library."
 }

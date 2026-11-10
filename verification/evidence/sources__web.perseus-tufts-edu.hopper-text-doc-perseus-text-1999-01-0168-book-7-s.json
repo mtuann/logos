@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-01-0168-book-7-s",
+  "hash": "sha256:3592d997262b7b74136c90e0a6be2406573ecb0a12b397aee7114009e2e44434",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r29",
+  "claims": [
+    {
+      "text": "Plato, Republic, bản dịch Paul Shorey (Perseus); trang Book 7, 514a",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a",
+          "quote": "Plato, Republic, Book 7, section 514a",
+          "where": "tiêu đề tab"
+        },
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a",
+          "quote": "translated by Paul Shorey. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1969.",
+          "where": "cuối văn bản (Plato in Twelve Volumes, Vols. 5 & 6)"
+        }
+      ]
+    },
+    {
+      "text": "Trang chứa ẩn dụ hang động (đối chiếu số Stephanus 514a)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a",
+          "quote": "Picture men dwelling in a sort of subterranean cavern",
+          "where": "đầu 514a"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): kiểm lần đầu. Bản dịch Shorey in lần đầu 1930/35 (Loeb); Perseus ghi bản in 1969. Mục không ghi năm nên không sai. Nguồn mạnh (Perseus/Loeb)."
+}

@@ -2,14 +2,33 @@
   "unit": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb",
   "hash": "sha256:d1e5056502283920f0bf539959757246832d0590774d6453bfd649d9e55c2bff",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r23",
   "claims": [
     {
-      "text": "Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.",
+      "text": "Trần Đình Hượu là tác giả; tên sách Đến hiện đại từ truyền thống",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1784953W/editions.json",
+          "quote": "by_statement: Trần Đình Hượu. ; title Đến hiện đại từ truyền thống",
+          "where": "Open Library, bản ghi OL338195M"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1996, nhà xuất bản Văn hóa, Hà Nội",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1784953W/editions.json",
+          "quote": "publishers: Văn hóa; publish_date: 1996; publish_places: [Hà Nội?]",
+          "where": "Open Library, bản ghi OL338195M (399 trang)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Open Library còn bản 1994 (Chương trình KX-07, 250 trang) là bản in trước; mục ghi 1996/Văn hóa khớp. Chưa mở trang nhà xuất bản/WorldCat nên đây là nguồn thư mục duy nhất. Link đề xuất: https://openlibrary.org/books/OL338195M"
 }

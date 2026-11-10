@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.2680",
   "hash": "sha256:8e4d5244632bb77186c7ab01a1f38ac4cebd7dbb58f9f239aaea6842f54245b6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 2680 là Meditations của Marcus Aurelius",
@@ -10,17 +10,28 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/2680",
-          "quote": "Meditations"
+          "url": "https://www.gutenberg.org/cache/epub/2680/pg2680-images.html",
+          "quote": "MEDITATIONS By Marcus Aurelius"
         }
       ]
     },
     {
       "text": "Bản dịch Meric Casaubon (1634)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2680/pg2680-images.html",
+          "quote": "The text itself has been prepared by a comparison of the editions of 1634 and 1635",
+          "where": "Lời giới thiệu và mục NOTES của ebook; danh sách 'By Meric Casaubon, 1634'"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2680/pg2680-images.html",
+          "quote": "Casaubon's own notes have been omitted"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang /ebooks/2680 không nêu dịch giả. Văn bản ebook (cache/epub/2680) không có trang tựa nêu người dịch; phần giới thiệu liệt kê 'Meric Casaubon (1634)' và 'George Long (1862)' trong danh sách các bản dịch, nhưng không nói bản nào là của ebook này. Lời mở Quyển 1 ghi 'Of my grandfather Verus I have learned to be gentle and meek…' (giọng văn kiểu Casaubon) nhưng đây chưa phải bằng chứng đủ. Người làm nên xác nhận qua trang Gutenberg khác (phần Contributor/Credits) hoặc Internet Archive."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): đầu trang Gutenberg không nêu dịch giả, nhưng mục NOTES của chính ebook nói đây là bản hiệu chỉnh từ bản dịch của Casaubon (đối chiếu ấn bản 1634 và 1635). Đề xuất người làm thêm ghi chú 'bản có hiệu chỉnh'."
 }

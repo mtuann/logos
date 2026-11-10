@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.10615",
   "hash": "sha256:a72345d9b719c67515a9b99be1174abd6cb4208992f97a716ce8bf2991139a9b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 10615 là An Essay Concerning Human Understanding của John Locke, tập 1 (Quyển I–II)",
@@ -11,7 +11,8 @@
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/10615",
-          "quote": "An Essay Concerning Humane Understanding, Volume 1"
+          "quote": "An Essay Concerning Humane Understanding, Volume 1",
+          "where": "(từ lượt trước, trang ebook)"
         }
       ]
     },
@@ -23,7 +24,7 @@
         {
           "url": "https://www.gutenberg.org/ebooks/10615",
           "quote": "MDCXC, Based on the 2nd Edition, Books 1 and 2",
-          "where": "trường Title"
+          "where": "trường Title (từ lượt trước)"
         }
       ]
     },
@@ -35,16 +36,40 @@
         {
           "url": "https://www.gutenberg.org/ebooks/10615",
           "quote": "first published in 1689",
-          "where": "summary tự sinh"
+          "where": "summary tự sinh (từ lượt trước)"
         }
       ]
     },
     {
-      "text": "Chương xxvii (Quyển II) bổ sung trong ấn bản lần hai, 1694",
+      "text": "Bản trong ebook là ấn bản lần hai (có Chương XXVII Quyển II)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/10615/pg10615-images.html",
+          "quote": "In the Second Edition I added as followeth:",
+          "where": "Epistle to the Reader; mục lục có 'CHAPTER XXVII. OF IDENTITY AND DIVERSITY.'"
+        }
+      ]
+    },
+    {
+      "text": "Ấn bản lần hai xuất bản lần đầu năm 1694",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "2nd ed., first published 1694",
+          "where": "thư mục: Locke 1975, An Essay Concerning Human Understanding, ed. Nidditch"
+        }
+      ]
+    },
+    {
+      "text": "Chương xxvii ('Of Identity and Diversity') là chương bổ sung trong ấn bản lần hai (không phải ấn bản đầu)",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang ghi bản dựa trên ấn bản 2 và đề 'MDCXC' (1690, năm trên trang tựa bản đầu) trong khi summary nói 1689 — hai cách ghi, cả hai nhất quán với 'ấn bản đầu 1689' (phát hành cuối 1689, đề 1690). Ebook là bản ấn bản 2 nên chương xxvii có mặt, nhưng năm 1694 chưa kiểm. texts_seen: 'II.1.2' (Quyển II chương i §2) cần đối chiếu văn bản; Bartleby (Some Thoughts Concerning Education, 1693) và SEP locke ngoài phạm vi lô Gutenberg này, chưa mở. Nên thống nhất cách ghi năm (1689) và ghi rõ 'tập 1'."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Ebook là ấn bản 2 và có Quyển II chương XXVII 'Of Identity and Diversity'; SEP (identity-personal, thư mục) xác nhận ấn bản 2 ra năm 1694. Chưa tìm được nguồn nói thẳng chương xxvii mới có từ ấn bản 2 (SEP locke và IEP locke không nêu). Đã thử: SEP locke, SEP identity-personal, IEP locke. Cách ghi: 'ấn bản đầu 1689' (trang tựa ghi MDCXC=1690, phát hành cuối 1689) — nên thống nhất. texts_seen 'II.1.2' là Quyển II chương i §2, không đối chiếu ở lượt này; Bartleby/SEP locke ngoài phạm vi Gutenberg."
 }

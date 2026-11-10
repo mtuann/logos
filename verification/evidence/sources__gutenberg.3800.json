@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.3800",
   "hash": "sha256:9bee10253a9f540d88a5d67a3aa3e39b1b6c65069248bd9b2b73cffe7c7c9739",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 3800 là Ethics của Spinoza",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3800",
-          "quote": "Ethics"
+          "url": "https://www.gutenberg.org/cache/epub/3800/pg3800-images.html",
+          "quote": "The Ethics (Ethica Ordine Geometrico Demonstrata) by Benedict de Spinoza"
         }
       ]
     },
@@ -21,8 +21,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3800",
-          "quote": "R. H. M. Elwes (Robert Harvey Monro Elwes, 1853–1892)"
+          "url": "https://www.gutenberg.org/cache/epub/3800/pg3800-images.html",
+          "quote": "Translated from the Latin by R. H. M. Elwes"
         }
       ]
     },
@@ -34,16 +34,23 @@
         {
           "url": "https://www.gutenberg.org/ebooks/3800",
           "quote": "written between 1661 and 1675",
-          "where": "summary tự sinh; năm in 1677 không có trên trang"
+          "where": "summary tự sinh trang ebook (nguồn yếu), từ lượt trước"
         }
       ]
     },
     {
       "text": "Xuất bản 1677",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/w/api.php?action=query&list=search&srsearch=Spinoza+Ethics+Opera+Posthuma+1677",
+          "quote": "In 1677 his literary remains were published under the title",
+          "where": "Catholic Encyclopedia (1913), mục Benedict Spinoza, trên en.wikisource: 'B. D. S. Opera posthuma' có Ethics; đọc qua kết quả API tìm kiếm (nguồn phụ)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Năm 1677 (xuất bản di cảo) không có trên trang ebook."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): năm 1677 (Opera posthuma, gồm Ethica) lấy từ Catholic Encyclopedia 1913 trên Wikisource, và các tìm kiếm Wikisource khác (Notice bibliographique, Œuvres de Spinoza) cùng ghi 1677; nguồn mạnh hơn là SEP mục Spinoza nếu người làm muốn thay."
 }

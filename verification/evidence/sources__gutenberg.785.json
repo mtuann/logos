@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.785",
   "hash": "sha256:adc262b4ae334361accd78d3a4b88fe824ee4f3df6642872976aaa925feb6bda",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s14",
+  "checker": "agent-kiem-5.2-r27",
   "claims": [
     {
       "text": "Ebook #785 là Lucretius, De Rerum Natura (On the Nature of Things), dịch William Ellery Leonard",
@@ -14,17 +14,24 @@
           "quote": "On the Nature of Things"
         },
         {
-          "url": "https://www.gutenberg.org/ebooks/785",
-          "quote": "Leonard, William Ellery, 1876-1944"
+          "url": "https://www.gutenberg.org/cache/epub/785/pg785-images.html",
+          "quote": "Translator: William Ellery Leonard"
         }
       ]
     },
     {
       "text": "Bản dịch Leonard năm 1916",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3A%28Lucretius%29+AND+%28Leonard%29+AND+title%3A%28nature+of+things%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=publisher&fl%5B%5D=date&fl%5B%5D=creator&rows=12&output=json",
+          "quote": "\"date\":\"1916-01-01T00:00:00Z\",\"identifier\":\"ofnatureofthings00lucrrich\"",
+          "where": "Of the nature of things; a metrical translation, J. M. Dent / E. P. Dutton"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook và đầu văn bản không in năm; chưa xác nhận 1916. Nhờ người làm tìm nguồn năm (Internet Archive)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): năm 1916 từ bản ghi thư mục Internet Archive (Dent/Dutton, Leonard, metrical translation); trang Gutenberg không in năm (nguồn khá yếu nhưng khớp). Đề xuất link: https://archive.org/details/ofnatureofthings00lucrrich."
 }

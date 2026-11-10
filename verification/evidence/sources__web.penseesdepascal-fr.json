@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.penseesdepascal-fr",
+  "hash": "sha256:bb07a28fb2d2c0ace541d83646c2c45e319f5ea7b1bc8e03ca15fd510ae48f0e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r29",
+  "claims": [
+    {
+      "text": "penseesdepascal.fr là ấn bản điện tử các Pensées của Blaise Pascal",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.penseesdepascal.fr/",
+          "quote": "L’édition électronique des Pensées de Blaise Pascal.",
+          "where": "trang chủ; site tạo 2011 bởi D. Descotes và G. Proust"
+        }
+      ]
+    },
+    {
+      "text": "Có đối chiếu số đoạn Brunschvicg – Lafuma – Sellier",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.penseesdepascal.fr/Ordre/Ordre1-moderne.php",
+          "quote": "Brunschvicg 596",
+          "where": "đầu mỗi trang fragment, mục 'Éditions savantes'; cùng dòng: Lafuma 1 / Sellier 37"
+        },
+        {
+          "url": "https://www.penseesdepascal.fr/",
+          "quote": "Laf 132 ; Sel 24",
+          "where": "hộp tìm kiếm cho phép tra theo số Lafuma/Sellier"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): site đối chiếu theo từng fragment (không phải một bảng riêng): mỗi trang liệt kê Faugère/Havet/Brunschvicg/Lafuma/Sellier... Trang chủ không nêu chữ Brunschvicg; chữ này nằm ở các trang fragment. Nguồn học thuật (do Descotes và Proust lập)."
+}

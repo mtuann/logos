@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.1658",
   "hash": "sha256:52f591326e7f712ca39141c3616afc7b83f122e520513f1fa596294de1a2aac4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 1658 là Phaedo của Plato",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1658",
-          "quote": "Phaedo"
+          "url": "https://www.gutenberg.org/cache/epub/1658/pg1658-images.html",
+          "quote": "PHAEDO By Plato Translated by Benjamin Jowett"
         }
       ]
     },
@@ -21,22 +21,36 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1658",
-          "quote": "Benjamin Jowett, 1817-1893"
+          "url": "https://www.gutenberg.org/cache/epub/1658/pg1658-images.html",
+          "quote": "Translator: Benjamin Jowett"
         }
       ]
     },
     {
-      "text": "In lần đầu 1871",
+      "text": "In lần đầu 1871 (The Dialogues of Plato, Oxford, Clarendon Press)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=dialogues+of+plato&author=jowett&fields=title,author_name,first_publish_year,publisher&limit=4",
+          "quote": "Oxford at the Clarendon Press",
+          "where": "Open Library: first_publish_year 1871 (nguồn thư mục)"
+        }
+      ]
     },
     {
-      "text": "Vị trí 100c–d",
+      "text": "Phaedo 100c–d: nếu có gì đẹp ngoài cái Đẹp tự thân thì đẹp là nhờ tham dự vào cái Đẹp ấy",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Phaedo:section=100c",
+          "quote": "εἴ τί ἐστιν ἄλλο καλὸν πλὴν αὐτὸ τὸ καλόν",
+          "where": "Perseus (Greek): đoạn đầu mục 100c; tương ứng Jowett: 'assume that there is an absolute beauty and goodness and greatness' (100b) rồi 'if there is anything beautiful other than absolute beauty'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Năm 1871 và Stephanus 100c–d chưa kiểm từ trang ebook."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Perseus mục 100c mở đầu bằng tuyên bố tham dự vào cái Đẹp, khớp locator '100c–d'. Phần 'giả định có cái Đẹp tự thân' nằm sát trước đó (100b). Năm 1871 theo Open Library."
 }

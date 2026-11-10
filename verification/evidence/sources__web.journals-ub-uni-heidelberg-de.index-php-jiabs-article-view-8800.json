@@ -2,26 +2,33 @@
   "unit": "sources/web.journals-ub-uni-heidelberg-de.index-php-jiabs-article-view-8800",
   "hash": "sha256:4ea782600431a13de40b3010c8ce803affac62d269c59d00198307c6bbb18a85",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
-      "text": "Nattier (1992), \"The Heart Sūtra: A Chinese Apocryphal Text?\", JIABS 15(2): từ tr. 153, bài kế tiếp từ tr. 224 (tức 153–223)",
+      "text": "Nattier (1992), 'The Heart Sūtra: A Chinese Apocryphal Text?', JIABS 15(2): từ tr. 153, bài kế tiếp từ tr. 224 (tức 153–223)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.silkqin.com/02qnpu/40tyxs/ty28skj/ty28nattier.pdf",
           "quote": "The Heart Sutra: A Chinese Apocryphal Text?",
-          "where": "đầu PDF (bản tải lại)"
+          "where": "kết quả lượt trước (bản PDF phụ)"
         }
       ]
     },
     {
-      "text": "URL journals.ub.uni-heidelberg.de/.../article/view/8800 mở được và trỏ đúng bài (trang trả \"Access Denied\" do Anubis)",
+      "text": "URL mở được và trỏ đúng bài; tác giả Nattier, JIABS 15/2, năm 1992",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/8800",
+          "quote": "The Heart Sūtra: A Chinese Apocryphal Text? Jan Nattier (Author)",
+          "where": "Archives / JIABS 15/2 (1992); Published 1992-12-31"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Thông tin thư mục khớp qua bản PDF ở silkqin.com (nguồn phụ, không phải nhà xuất bản). URL Heidelberg bị chặn công cụ; người làm mở bằng trình duyệt."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): trang Heidelberg mở được sau bước kiểm tra Anubis; trang không in số trang (153–223 theo bản PDF phụ ở lượt trước, khớp mục ghi)."
 }

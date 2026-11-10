@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.46333",
   "hash": "sha256:472dce0cc1e14d670b51f877499f14e640aea093f42dda55bdfdfc6a702aa5af",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s14",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook #46333 là Rousseau, The Social Contract & Discourses",
@@ -10,12 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/46333",
-          "quote": "The social contract & discourses"
-        },
-        {
-          "url": "https://www.gutenberg.org/ebooks/46333",
-          "quote": "Rousseau, Jean-Jacques, 1712-1778"
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+          "quote": "THE SOCIAL CONTRACT & DISCOURSES BY JEAN JACQUES ROUSSEAU"
         }
       ]
     },
@@ -25,17 +21,24 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/46333",
-          "quote": "Cole, G. D. H. (George Douglas Howard), 1889-1959"
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+          "quote": "TRANSLATED WITH INTRODUCTION BY G. D. H. COLE, FELLOW OF MAGDALEN COLLEGE, OXFORD"
         }
       ]
     },
     {
       "text": "Bản dịch của Cole năm 1913 (cả texts_seen)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=social+contract+discourses&author=cole",
+          "quote": "The social contract and Discourses ; Jean-Jacques Rousseau/G. D. H. Cole ; 1913 ; 1913 ; Dent|Dutton",
+          "where": "API Open Library (mô tả ghép các trường)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook và trang bìa văn bản (J. M. Dent & Sons, Everyman's Library) không in năm xuất bản nên không xác nhận được 1913. Nhờ người làm tìm nguồn năm (Internet Archive/WorldCat). Hai cách ghi (text và texts_seen) cùng trỏ đúng ebook; nên thống nhất tên 'The Social Contract & Discourses'. Vị trí (chương/mục) trong sách không kiểm trong lô này (trang ebook không có)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): bản in trong ebook đề 'J. M. Dent & Sons ... E. P. Dutton & Co 1920' (Everyman's Library), tức bản in lại 1920; 1913 là năm xuất bản bản dịch Cole (Dent/Dutton) theo Open Library (nguồn thư mục, không phải trang ebook). Nên ghi 'Cole 1913; ebook theo bản Everyman 1920'."
 }

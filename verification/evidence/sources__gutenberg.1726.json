@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.1726",
   "hash": "sha256:eaf3f729439c0edb63660e44d97a06e3d86872356acf837ff1d67bda1a6fe228",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 1726 là Theaetetus của Plato",
@@ -10,8 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1726",
-          "quote": "Theaetetus"
+          "url": "https://www.gutenberg.org/cache/epub/1726/pg1726-images.html",
+          "quote": "Theaetetus",
+          "where": "(từ lượt trước)"
         }
       ]
     },
@@ -22,16 +23,24 @@
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/1726",
-          "quote": "Benjamin Jowett (1817-1893)"
+          "quote": "Benjamin Jowett (1817-1893)",
+          "where": "(từ lượt trước)"
         }
       ]
     },
     {
-      "text": "Vị trí 174a (texts_seen)",
+      "text": "Theaetetus 174a: chuyện Thales rơi xuống giếng và cô hầu gái người Thrace",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0172:text=Theaet.:section=174a",
+          "quote": "a neat, witty Thracian servant girl jeered at him",
+          "where": "Perseus (Fowler): mục 174a; tương ứng Gutenberg Jowett: 'the jest which the clever witty Thracian handmaid is said to have made about Thales'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "174a chưa đối chiếu với văn bản."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Locator 174a khớp nội dung (Perseus 174a) và có trong văn bản Gutenberg (Thales/Thracian handmaid). Gutenberg Jowett không in số Stephanus."
 }

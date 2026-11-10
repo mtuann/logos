@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.5827",
   "hash": "sha256:a65dfda9848b38755bd2f23e03f931bdce69868dbb99a180037a9ff6d56da0ff",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s14",
+  "checker": "agent-kiem-5.2-r27",
   "claims": [
     {
       "text": "Ebook #5827 là Russell, The Problems of Philosophy",
@@ -32,16 +32,46 @@
       ]
     },
     {
-      "text": "Chương XV 'The Value of Philosophy' (còn texts_seen ghi chương XII)",
+      "text": "Chương XV 'The Value of Philosophy'",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "CHAPTER XV. THE VALUE OF PHILOSOPHY"
+        }
+      ]
     },
     {
-      "text": "Mục archive.org cu31924031008802 là Philosophical Essays (1910) của Russell",
+      "text": "Cách ghi trong texts_seen: chương XII",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Chương XV (chương XII là 'Truth and Falsehood')",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "CHAPTER XII. TRUTH AND FALSEHOOD"
+        }
+      ]
+    },
+    {
+      "text": "Mục archive.org cu31924031008802 là Philosophical Essays (1910) của Russell, có bài 'William James's Conception of Truth'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/cu31924031008802/metadata",
+          "quote": "\"title\":\"Philosophical essays \""
+        },
+        {
+          "url": "https://archive.org/download/cu31924031008802/cu31924031008802_djvu.txt",
+          "quote": "William  James's  Conception  of  Truth",
+          "where": "Mục lục, bài V, tr. 127"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Văn bản ebook bị cắt trước chương XV nên chưa xác nhận số chương; hai cách ghi trong kho mâu thuẫn (XV và XII), cần người làm thống nhất sau khi đối chiếu. Link archive.org chưa mở. Link pg5827.txt cùng ebook (cùng host Gutenberg)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): metadata archive.org: creator Russell, Bertrand; date 1910. Cách ghi 'chương XII' ở một trang là sai nhẹ, nên thống nhất chương XV."
 }

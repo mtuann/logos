@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.34901",
   "hash": "sha256:909190417c88bc0bd5707d637b70b1c30c136f8370f8e1701451ac4a75c89e25",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 34901 là On Liberty của J. S. Mill",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/34901",
-          "quote": "On Liberty"
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "quote": "On Liberty. By John Stuart Mill."
         }
       ]
     },
@@ -21,23 +21,37 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/34901",
-          "quote": "is an essay published in 1859",
-          "where": "summary tự sinh (nguồn yếu)"
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "quote": "Liberty was published in 1859",
+          "where": "phần Introduction của W. L. Courtney"
         }
       ]
     },
     {
-      "text": "London: John W. Parker and Son",
+      "text": "London: John W. Parker and Son (ấn bản đầu 1859)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title:(on liberty) AND publisher:(parker) AND date:[1859-01-01 TO 1859-12-31]",
+          "quote": "On Liberty ; Mill, John Stuart ; John W. Parker and Son (London)",
+          "where": "API Internet Archive, mục india.history.resource.71150, date 1859 (mô tả ghép các trường)"
+        }
+      ]
     },
     {
       "text": "Bản Walter Scott Publishing (texts_seen)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "quote": "The Walter Scott Publishing Co., Ltd. London and Felling-on-Tyne",
+          "where": "trang tựa ebook; lời giới thiệu Courtney ký 'London, July 5th, 1901'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không nêu nhà xuất bản của ấn bản nguồn (Parker 1859 hay Walter Scott). Hai cách ghi (Parker vs Walter Scott) mâu thuẫn tiềm tàng: nên thống nhất sau khi xác nhận ấn bản nguồn của ebook."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): hai cách ghi không mâu thuẫn nhưng khác bản: ebook Gutenberg là ấn bản Walter Scott Publishing (có lời giới thiệu W. L. Courtney, 1901), còn 'London: John W. Parker and Son' là ấn bản đầu 1859. Nên thống nhất: 'On Liberty (1859; London: J. W. Parker and Son); bản điện tử Gutenberg theo ấn bản Walter Scott, có lời giới thiệu của Courtney'."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.2707",
   "hash": "sha256:dbf87fb7908879e58167dbf824d12f4f12e422db3e8891009016b319e4d77abb",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 2707 là The History of Herodotus, Volume 1",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/2707",
-          "quote": "The History of Herodotus — Volume 1"
+          "url": "https://www.gutenberg.org/cache/epub/2707/pg2707-images.html",
+          "quote": "THE HISTORY OF HERODOTUS By Herodotus Translated into English by G. C. Macaulay IN TWO VOLUMES VOL. I"
         }
       ]
     },
@@ -21,22 +21,36 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/2707",
-          "quote": "Macaulay, G. C. (George Campbell), 1852–1915"
+          "url": "https://www.gutenberg.org/cache/epub/2707/pg2707-images.html",
+          "quote": "Translated into English by G. C. Macaulay"
         }
       ]
     },
     {
       "text": "Năm 1890 (bản dịch Macaulay)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2707/pg2707-images.html",
+          "quote": "This text was prepared from an edition dated 1890, published by MacMillan and Co., London and New York",
+          "where": "PREPARER'S NOTE"
+        }
+      ]
     },
     {
       "text": "Quyển III, chương 38 — vị trí trích",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2707/pg2707-images.html",
+          "quote": "Thus then these things are established by usage, and I think that Pindar spoke rightly",
+          "where": "đoạn Dareios, người Hy Lạp và người Callatians nằm trong Quyển III, ngay trước mục '39. Now while Cambyses was marching upon Egypt' nên là III.38; tập 1 gồm Quyển I–IV"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Ebook là 'Volume 1' (thường gồm Quyển I–IV): III.38 nằm trong phạm vi tập này, nhưng chưa đối chiếu văn bản. texts_seen ghi 'Quyển I' – nhất quán với tập 1. Năm 1890 chưa kiểm từ trang ebook."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): ebook gồm Quyển I–IV (mục lục có 'BOOK III. THE THIRD BOOK OF THE HISTORIES, CALLED THALEIA'). Chú thích 28 trong bản này ghi chính câu Pindar 'nomos panton basileus'."
 }

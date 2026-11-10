@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.18269",
   "hash": "sha256:552703f1aca2342817fde004049811e4bf055e2b0688f7f942124f34268dd981",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 18269 là Pensées của Blaise Pascal",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/18269",
-          "quote": "Pascal's Pensées"
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
+          "quote": "PASCAL'S PENSÉES INTRODUCTION BY T. S. ELIOT"
         }
       ]
     },
@@ -23,7 +23,7 @@
         {
           "url": "https://www.gutenberg.org/ebooks/18269",
           "quote": "Published posthumously in 1670",
-          "where": "summary tự sinh (nguồn yếu)"
+          "where": "summary tự sinh (nguồn yếu), từ lượt trước"
         }
       ]
     },
@@ -35,9 +35,20 @@
     {
       "text": "Các đoạn 466–467 bàn về Epictetus",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
+          "quote": "Had Epictetus seen the way perfectly, he would have said to men",
+          "where": "đoạn 466 và 467 trong ebook; mục lục chủ đề cũng ghi 'Epictetus, 80, 466, 467'"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
+          "quote": "The reason of effects.—Epictetus"
+        }
+      ]
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không nêu dịch giả (chỉ T. S. Eliot viết lời giới thiệu); văn bản ebook ghi 'Published 1958 by E. P. Dutton & Co., Inc.'. Tôi không xác nhận được Trotter 1910 từ nguồn đã mở; đánh số đoạn 466–467 (Trotter đánh số khác bản Brunschvicg/Lafuma) cần đối chiếu văn bản — phần cuối ebook chưa đọc."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): đoạn 466–467 đúng (ebook đánh số này). Chưa xác nhận 'Trotter, 1910': văn bản và đầu trang ebook không nêu dịch giả/năm dịch (chỉ 'Published 1958 by E. P. Dutton & Co., Inc.', lời giới thiệu T. S. Eliot). Archive.org (advancedsearch) chỉ cho thấy W. F. Trotter dịch Pensées (Modern Library 1941), không thấy năm 1910; Open Library có 'Pensées, Pascal/W. F. Trotter, J.M. Dent' nhưng không ghi 1910. Đề xuất người làm ghi 'bản dịch tiếng Anh (Dutton, 1958, giới thiệu T. S. Eliot)' hoặc tự xác nhận năm Trotter ở Internet Archive."
 }

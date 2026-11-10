@@ -2,25 +2,33 @@
   "unit": "sources/web.korpora-org.kant-aa08-144-html",
   "hash": "sha256:02150e9a4e0d7877e1513adca44794e10ea1d0e29e1016aa87e39850aababd54",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r29",
   "claims": [
     {
-      "text": "Trang thuộc AA VIII tr. 144, bài \"Was heißt: Sich im Denken ...\" (tựa bị cắt trên header)",
+      "text": "Trang thuộc AA VIII tr. 144, bài 'Was heißt: sich im Denken orientiren?'",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.korpora.org/Kant/aa08/144.html",
-          "quote": "Kant: AA VIII, Was heißt: Sich im Denken ... , Seite 144"
+          "url": "https://korpora.org/Kant/aa08/144.html",
+          "quote": "Kant: AA VIII, Was heißt: Sich im Denken ... , Seite 144",
+          "where": "tiêu đề trang; nội dung bàn Vernunftglaube và khả năng của Gott ở Zeile 01-07"
         }
       ]
     },
     {
-      "text": "Năm 1786: SEP (kant-religion, thư mục) ghi 1785a [AK 8:133–146]; ngày in thực tế (Berlinische Monatsschrift, 1786) chưa mở được nguồn xác nhận",
+      "text": "Năm 1786",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1786: Was heißt: Sich im Denken orientiren?",
+          "where": "danh mục tác phẩm"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Cần người xem lại năm: SEP thư mục ghi \"1785a\", mục ghi 1786. Trang korpora chỉ có header, không có thân văn bản đọc được."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): SEP kant-religion ghi '1785a' cho bài này (Ak 8:133–146, chứa trang 144); de.wikisource ghi 1786. Hai nguồn lệch một năm; mục ghi 1786 khớp de.wikisource. Người làm nên đối chiếu năm in gốc (Berlinische Monatsschrift) trước khi đóng băng."
 }

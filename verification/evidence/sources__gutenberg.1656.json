@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.1656",
   "hash": "sha256:63d0d4c978cb13c1a932e854515e075a19c3dadb55b1aae3ba5acf91577e7155",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 1656 là Apology của Plato",
@@ -10,8 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1656",
-          "quote": "Apology"
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656-images.html",
+          "quote": "Apology by Plato",
+          "where": "'Apology by Plato Translated by Benjamin Jowett'"
         }
       ]
     },
@@ -21,17 +22,24 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1656",
-          "quote": "Benjamin Jowett, 1817-1893"
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656-images.html",
+          "quote": "Translator: Benjamin Jowett"
         }
       ]
     },
     {
-      "text": "In lần đầu trong The Dialogues of Plato, Oxford, 1871",
+      "text": "In lần đầu trong The Dialogues of Plato, Oxford (Clarendon Press), 1871",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=dialogues+of+plato&author=jowett&fields=title,author_name,first_publish_year,publisher&limit=4",
+          "quote": "Oxford at the Clarendon Press",
+          "where": "Open Library: 'The dialogues of Plato [5 volumes]', first_publish_year 1871, publisher Oxford at the Clarendon Press (nguồn thư mục)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không ghi năm 1871. Tên tiếng Việt 'Biện hộ của Socrates' là dịch tự do của Apology (chấp nhận được)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Năm 1871 theo Open Library (nguồn thư mục), Gutenberg không ghi. Tên 'Biện hộ của Socrates' là dịch tự do của 'Apology' (chấp nhận được)."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/web.archive-org.details-logischeuntersuc00hussuoft",
   "hash": "sha256:eb46cda0273ec1580db5ab2d161b0744ad529829f00ed666c1ef56a92cfae27c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s17",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
       "text": "Husserl, Logische Untersuchungen; URL đúng tác phẩm, năm 1900–1901",
@@ -16,11 +16,18 @@
       ]
     },
     {
-      "text": "Là tập II, Halle: Niemeyer, 1901 (trang IA ghi “Leipzig: Veit”, gồm cả Th.1 và Th.2, không nêu Niemeyer)",
+      "text": "Là tập II, Halle: Niemeyer, 1901 (bản quét là Zweiter Theil)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "ZWEITER THEIL UNTERSUCHUNGEN ZUR PHÄNOMENOLOGIE UND THEORIE DER ERKENNTNIS",
+          "where": "trang tựa trong OCR: 'HALLE A. S. MAX NIEMEYER 1901'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Bản quét chứa cả hai phần (Prolegomena và các nghiên cứu), không riêng tập II; đề xuất ghi “tập I–II” hoặc ghi nhà xuất bản đúng theo biểu ghi thư viện."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): trang tựa OCR của bản quét ghi 'Zweiter Theil ... Halle a. S. Max Niemeyer 1901'; văn bản chỉ có phần II (Prolegomena chỉ được nhắc tới trong chú thích, không có trong bản quét). Nhận định lượt trước (có cả Th.1) không đúng; metadata IA ghi 'Leipzig: Veit' là của biểu ghi, không ảnh hưởng."
 }

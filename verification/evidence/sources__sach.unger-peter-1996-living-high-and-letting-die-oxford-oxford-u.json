@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sach.unger-peter-1996-living-high-and-letting-die-oxford-oxford-u",
+  "hash": "sha256:a02015e613623e5ddcbd1a6220e2c4e2fac58868cb4b28c96ddc2f262524bb40",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r23",
+  "claims": [
+    {
+      "text": "Peter Unger, Living High and Letting Die, 1996",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL3233572W/editions.json",
+          "quote": "by_statement: Peter Unger. ; publish_date: 1996; isbn 0195075897",
+          "where": "Open Library, bản ghi OL965163M (187 trang)"
+        }
+      ]
+    },
+    {
+      "text": "Nhà xuất bản Oxford University Press (Oxford/New York)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL3233572W/editions.json",
+          "quote": "publishers: Oxford University Press, Oxford University Press, USA; publish_places: New York",
+          "where": "Open Library"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Bản ghi Open Library ghi nơi in 'New York' (chi nhánh OUP USA); mục ghi 'Oxford: Oxford University Press' là cách ghi quen dùng, không coi là sai. Link đề xuất: https://openlibrary.org/books/OL965163M (ISBN 0195075897)."
+}

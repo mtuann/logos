@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.11224",
   "hash": "sha256:2fdc24c96805e5ac6e96b43b0e3e64cb5c97fddc1964abc40d94bdbd6a9e1964",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 11224 là Utilitarianism của J. S. Mill",
@@ -10,8 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/11224",
-          "quote": "Mill, John Stuart, 1806-1873"
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "Utilitarianism by John Stuart Mill",
+          "where": "'UTILITARIANISM BY JOHN STUART MILL'"
         }
       ]
     },
@@ -23,21 +24,52 @@
         {
           "url": "https://www.gutenberg.org/ebooks/11224",
           "quote": "an essay written in 1861",
-          "where": "summary tự sinh (nguồn yếu)"
+          "where": "summary tự sinh (nguồn yếu; từ lượt trước)"
         }
       ]
     },
     {
-      "text": "In thành sách 1863 (London: Parker, Son, and Bourn); đăng trên Fraser's Magazine 1861",
+      "text": "Bản Gutenberg theo lần in thứ 7, 1879 (Longmans, Green, and Co.), in lại từ Fraser's Magazine",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE' SEVENTH EDITION LONDON LONGMANS, GREEN, AND CO. 1879",
+          "where": "trang tựa trong văn bản ebook"
+        }
+      ]
     },
     {
-      "text": "Bản Gutenberg theo lần in thứ 7, 1879",
+      "text": "In thành sách 1863, London: Parker, Son, and Bourn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title:(utilitarianism) AND creator:(mill) AND date:[1861-01-01 TO 1864-12-31]",
+          "quote": "London, Parker, son, and Bourn",
+          "where": "Internet Archive: 'Utilitarianism', Mill, John Stuart, 1806-1873, London, Parker, son, and Bourn, 1863-01-01 (id utilitarianism01mill; bản a592840000milluoft: 'London : Parker, Son, and Bourn')"
+        }
+      ]
+    },
+    {
+      "text": "Chương V có châm ngôn 'mỗi người tính là một' (Bentham)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "everybody to count for one, nobody for more than one,",
+          "where": "nằm trong Chương V ('OF THE CONNEXION BETWEEN JUSTICE AND UTILITY')"
+        }
+      ]
+    },
+    {
+      "text": "Đăng lần đầu trên Fraser's Magazine năm 1861 (năm đăng chưa đối chiếu với mục lục tạp chí)",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không ghi ấn bản nguồn (1863/1879) hay nhà xuất bản; summary tự sinh chỉ cho 1861. Cần đối chiếu văn bản/Internet Archive. Cách ghi texts_seen (3 dạng) nhất quán về tác giả, tên, năm 1863; chương V cần đối chiếu văn bản."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Chỉ còn khẳng định 'Fraser's Magazine 1861': trang ebook chỉ ghi 'reprinted from Fraser's Magazine'; IA có các số Fraser's 1861 (tập 63-64) nhưng chưa mở mục lục để thấy bài Utilitarianism (Oct-Dec 1861). Lưu ý: chương V có chú [D] và câu Bentham nằm trong chương IV hay V cần kiểm nếu cần locator chính xác: tìm thấy trong văn bản ở đoạn sau tiêu đề Chương V."
 }

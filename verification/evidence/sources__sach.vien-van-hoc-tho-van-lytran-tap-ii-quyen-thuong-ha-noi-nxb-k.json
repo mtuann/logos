@@ -1,0 +1,41 @@
+{
+  "unit": "sources/sach.vien-van-hoc-tho-van-lytran-tap-ii-quyen-thuong-ha-noi-nxb-k",
+  "hash": "sha256:11320c14defd360fa58d28d8c7909c57f6360cbd7087fe967c5fa18703aafdec",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r23",
+  "claims": [
+    {
+      "text": "Thơ văn Lý–Trần, tập II, quyển thượng, NXB Khoa học xã hội, Hà Nội, do Viện Văn học",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://opac.hnue.edu.vn/Detail.aspx?id=13292",
+          "quote": "Thơ văn Lý Trần : T.2 Quyển thượng / Nguyễn Huệ Chi, Đỗ Văn Hỷ, Trần Thị Băng Thanh...; Cb.: Nguyễn Huệ Chi",
+          "where": "Thư viện ĐHSP Hà Nội (trích trong kết quả tìm kiếm); Nhà Xuất Bản: KHXH"
+        }
+      ]
+    },
+    {
+      "text": "Năm xuất bản 1989",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "1988 (các bản ghi thư mục ghi 1988; nếu muốn giữ 1989 thì cần nguồn riêng)",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL45441335W/editions.json",
+          "quote": "publish_date: 1988; pg 966; by_statement: Viện Văn học ; chủ biên, Nguyễn Huệ Chi",
+          "where": "Open Library, OL61916105M; OPAC HNUE cũng ghi 'Năm Xuất Bản: 1988'; Thi Viện: 'tập II ... 1988'"
+        }
+      ]
+    },
+    {
+      "text": "Phần Tuệ Trung Thượng Sĩ nằm trong tập II quyển thượng (chưa mở nguồn có mục lục)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Mâu thuẫn: ba nguồn thư mục (Open Library, OPAC ĐHSP Hà Nội, Thi Viện) ghi 1988; một tệp Scribd chỉ có tên 'Thơ văn Lý Trần t1 t2 1989' (không dùng làm nguồn). Có thể 1989 là năm in lại hay quyển hạ; người làm cần kiểm bản in."
+}
