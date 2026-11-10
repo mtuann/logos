@@ -1,0 +1,49 @@
+{
+  "unit": "sources/sach.nagarjuna-mulamadhyamakakarika-khoang-the-ky-23-ban-dich-tie",
+  "hash": "sha256:ae6d5acfa44d4761afc6829569ea84e6c6210d2201effca34129b58d11502dd9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s24",
+  "claims": [
+    {
+      "text": "Bản dịch tiếng Anh của Jay Garfield, The Fundamental Wisdom of the Middle Way, 1995",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Fundamental+Wisdom+of+the+Middle+Way+Nagarjuna+Garfield&rows=3",
+          "quote": "Jay L Garfield; 1995",
+          "where": "DOI 10.1093/oso/9780195103175.001.0001"
+        }
+      ]
+    },
+    {
+      "text": "Nhà xuất bản Oxford (University Press)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Fundamental+Wisdom+of+the+Middle+Way+Nagarjuna+Garfield&rows=3",
+          "quote": "Oxford University Press"
+        }
+      ]
+    },
+    {
+      "text": "Nagarjuna, Mūlamadhyamakakārikā là văn bản được dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Fundamental+Wisdom+of+the+Middle+Way+Nagarjuna+Garfield&rows=3",
+          "quote": "Nāgārjuna's Mūlamadhyamakakārikā"
+        }
+      ]
+    },
+    {
+      "text": "Niên đại gốc 'khoảng thế kỷ 2–3' của Nagarjuna (chưa mở nguồn trong phiên này)",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Khẳng định niên đại thế kỷ 2–3 chưa kiểm do hết lượt tra cứu (SEP/IEP mục Nagarjuna nên dùng). Link ổn định đề xuất: https://doi.org/10.1093/oso/9780195103175.001.0001"
+}

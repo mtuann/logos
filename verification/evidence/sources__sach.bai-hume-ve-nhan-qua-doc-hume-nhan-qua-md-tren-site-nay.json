@@ -1,0 +1,15 @@
+{
+  "unit": "sources/sach.bai-hume-ve-nhan-qua-doc-hume-nhan-qua-md-tren-site-nay",
+  "hash": "sha256:7c79dc4f4d3b463d9a79e260d54bd22425307e0eb1dc68e41ea56599d91c3e75",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s19",
+  "claims": [
+    {
+      "text": "Bài Hume về nhân quả (docs/doc/hume-nhan-qua.md) tồn tại trên site: file thấy trong repo nhưng chưa dựng thành URL xuất bản",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Đây là liên kết nội bộ, không phải sách in. File docs/doc/hume-nhan-qua.md có trong repo (tier loi, block van-ban, updated 2026-10-22). Nên chuyển sang kiểu mục nội bộ, không xếp vào Nguồn như 'sach'."
+}

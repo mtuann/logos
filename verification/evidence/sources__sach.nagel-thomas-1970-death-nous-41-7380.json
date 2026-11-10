@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sach.nagel-thomas-1970-death-nous-41-7380",
+  "hash": "sha256:1d9fc53d9a98baf2a14adb183006ac105da31af6d8ae5688374c94cb75157f22",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s24",
+  "claims": [
+    {
+      "text": "Tác giả Thomas Nagel, năm 1970",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "Thomas Nagel",
+          "where": "issued 1970"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài Death",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "Death"
+        }
+      ]
+    },
+    {
+      "text": "Noûs 4(1): 73–80 (Crossref chỉ ghi trang đầu 73)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "Noûs; volume 4; issue 1; page 73",
+          "where": "trang cuối 80 không thấy trong Crossref"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang cuối 80 chưa thấy trực tiếp (Crossref chỉ có trang đầu 73); 73–80 khớp hiểu biết chung nhưng chưa có nguồn mở. Link ổn định đề xuất: https://doi.org/10.2307/2214297 (xác nhận qua api.crossref.org)."
+}

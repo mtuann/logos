@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sach.martin-laura-1986-eskimo-words-for-snow-a-case-study-in-the",
+  "hash": "sha256:6fc5c90a2c183463a93c227d3409f0b9ec4ee7f7b2f70950bd24a7834432227b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s24",
+  "claims": [
+    {
+      "text": "Tác giả Laura Martin, năm 1986",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Eskimo+Words+for+Snow+Genesis+and+Decay+of+an+Anthropological+Example+Martin&rows=2",
+          "quote": "Lauras Martin",
+          "where": "Crossref item 1"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: Eskimo Words for Snow: A Case Study in the Genesis and Decay of an Anthropological Example",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Eskimo+Words+for+Snow+Genesis+and+Decay+of+an+Anthropological+Example+Martin&rows=2",
+          "quote": "“Eskimo Words for Snow”: A Case Study in the Genesis and Decay of an Anthropological Example"
+        }
+      ]
+    },
+    {
+      "text": "American Anthropologist 88(2): 418–423",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Eskimo+Words+for+Snow+Genesis+and+Decay+of+an+Anthropological+Example+Martin&rows=2",
+          "quote": "American Anthropologist; volume 88; issue 2; pages 418-423",
+          "where": "DOI 10.1525/aa.1986.88.2.02a00080"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Crossref ghi tên tác giả là 'Lauras Martin' (lỗi nhập liệu của Crossref; tác giả là Laura Martin). Link ổn định đề xuất: https://doi.org/10.1525/aa.1986.88.2.02a00080 (đã xác nhận qua api.crossref.org, không mở doi.org). Quote cho các trường lấy từ kết quả Crossref qua công cụ tóm tắt."
+}

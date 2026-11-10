@@ -1,0 +1,26 @@
+{
+  "unit": "sources/sach.rene-descartes-meditations-on-first-philosophy-1641-ban-dich",
+  "hash": "sha256:9ad8fe364156479d4e29c41b1213547e5962f177fdc529f6bc130a2e0adc313c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s25",
+  "claims": [
+    {
+      "text": "Descartes, Meditations on First Philosophy (1641), có Meditationes de prima philosophia",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/23306",
+          "quote": "Meditationes de prima philosophia"
+        }
+      ]
+    },
+    {
+      "text": "bản dịch tiếng Anh công cộng (ví dụ Veitch)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Gutenberg #23306 chỉ là bản Latin; #59 là Discourse on Method (Veitch), chưa thấy bản Meditations tiếng Anh. Cần tìm số ebook bản Meditations tiếng Anh (Veitch/Haldane). Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+}

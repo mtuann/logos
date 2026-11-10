@@ -1,0 +1,27 @@
+{
+  "unit": "sources/sach.douglas-walton-informal-logic-a-pragmatic-approach-an-ban-2",
+  "hash": "sha256:d5cb12bca04376ecc994aae833c7e7554250f323b72a32b01e0113376e642f14",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s21",
+  "claims": [
+    {
+      "text": "Walton, Informal Logic: A Pragmatic Approach, Cambridge University Press (có thật; bản ghi Crossref là ấn bản năm 2001 DOI 10.1017/cbo9780511808630)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.title=Informal+Logic+A+Pragmatic+Approach&query.author=Walton&rows=3",
+          "quote": "Informal Logic: A Pragmatic Approach",
+          "where": "Crossref: Douglas Walton, Cambridge University Press"
+        }
+      ]
+    },
+    {
+      "text": "Ấn bản 2, năm 2008",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Crossref chỉ trả bản ghi năm 2001 (bản trực tuyến), không cho ấn bản 2/2008; Internet Archive có tựa nhưng không có metadata. Cần trang CUP ấn bản 2 (ISBN 9780521713801)."
+}

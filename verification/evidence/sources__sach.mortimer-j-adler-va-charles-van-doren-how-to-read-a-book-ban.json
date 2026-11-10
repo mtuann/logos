@@ -1,0 +1,32 @@
+{
+  "unit": "sources/sach.mortimer-j-adler-va-charles-van-doren-how-to-read-a-book-ban",
+  "hash": "sha256:252de58e288d3ddd08d8371aa38fe7e1205431d2a4321bf9b886ce8f2617c0ff",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s24",
+  "claims": [
+    {
+      "text": "Mortimer J. Adler, How to Read a Book, bản gốc 1940, bản sửa 1972",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Mortimer-J-Adler",
+          "quote": "How to Read a Book (1940; rev. ed. 1972)",
+          "where": "Britannica, tiểu sử Adler (nguồn bách khoa, không phải trang NXB)"
+        }
+      ]
+    },
+    {
+      "text": "Charles Van Doren là đồng tác giả (bản 1972)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bốn cấp độ đọc: sơ cấp, đọc lướt có hệ thống (inspectional), phân tích, đối chiếu (syntopical)",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang Simon & Schuster, Open Library và Google Books không mở được trong phiên. Link ổn định đề xuất: trang NXB Simon & Schuster (Touchstone) ISBN 9780671212094 hoặc archive.org. Mục không ghi nhà xuất bản; nên bổ sung 'New York: Simon & Schuster (1972)'. Chưa có bằng chứng mở cho đồng tác giả và bốn cấp độ."
+}

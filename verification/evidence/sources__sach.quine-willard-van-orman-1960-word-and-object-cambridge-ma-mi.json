@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sach.quine-willard-van-orman-1960-word-and-object-cambridge-ma-mi",
+  "hash": "sha256:30881516f57603412a3fe2b5713722c103ffec086da0d95369c239d4ded52eed",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s25",
+  "claims": [
+    {
+      "text": "Quine (1960), Word and Object",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?vid=ISBN9780262670012",
+          "quote": "Word and Object"
+        }
+      ]
+    },
+    {
+      "text": "Cambridge, MA: MIT Press",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Cambridge, MA: Technology Press of MIT; New York: Wiley, 1960 (MIT Press là bản in lại sau này)",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?vid=ISBN9780262670012",
+          "quote": "Technology Press of the Massachusetts Institute of Technology"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Google Books ISBN 9780262670012 (ấn bản MIT Press 2013 là in lại); nhà xuất bản gốc 1960 là Technology Press of MIT. Chỉ lệch nhẹ. Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+}

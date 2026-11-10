@@ -1,0 +1,27 @@
+{
+  "unit": "sources/sach.beauvoir-simone-de-le-deuxieme-sexe-2-tap-paris-gallimard-19",
+  "hash": "sha256:618f43a03f0ee3048da2db680ee960d6d51d2ad5168b4162837ad7328f5b7f60",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s20",
+  "claims": [
+    {
+      "text": "Beauvoir, Le Deuxième Sexe, 2 tập, Gallimard",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/ledeuxiemesexe0000beau/metadata",
+          "quote": "2 v",
+          "where": "Description; Publisher Gallimard"
+        }
+      ]
+    },
+    {
+      "text": "năm 1949",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Bản Archive.org (Gallimard 1984) xác nhận tác giả, nhà xuất bản, 2 tập; năm 1949 chưa có nguồn. Link đề xuất: https://archive.org/details/ledeuxiemesexe0000beau. Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+}
