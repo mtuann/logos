@@ -40,6 +40,7 @@ from lz import ROOT, registry, units
 EVIDENCE_SCHEMA = cl.EVIDENCE_SCHEMA
 MAU_DIR = Path("verification") / "mau"
 NGUONG = 0.02   # KE-HOACH.md mục 7.4
+MUC_LOI = {"nghiem-trong": "nghiêm trọng", "vua": "vừa", "nhe": "nhẹ"}   # mã mức lỗi → chữ hiển thị
 
 # Đợt con → (loại bản ghi, khối trang Lõi). Theo ban-giao/dot-5.md bảng Việc.
 DOT_CON: dict[str, tuple[tuple[str, ...], tuple[str, ...]]] = {
@@ -156,7 +157,7 @@ def evidence_problems(key: str, path: Path, root: Path = ROOT, schema: dict | No
         if c["verdict"] == "chua-kiem-duoc":
             out.append(f"claim {i}: chưa kiểm được")
         elif c["verdict"] == "sai" and c["severity"] != "nhe" and not c.get("fixed"):
-            out.append(f"claim {i}: sai ({c['severity']}), chưa sửa")
+            out.append(f"claim {i}: sai ({MUC_LOI.get(c['severity'], c['severity'])}), chưa sửa")
     if "#" in key and "checklist" not in doc:
         out.append("đơn vị trang thiếu checklist")
     return out
@@ -240,7 +241,7 @@ def so_mau(dot: str, root: Path = ROOT) -> dict:
             continue
         if any(c["verdict"] == "sai" and c["severity"] == "nghiem-trong" and not c.get("fixed") for c in doc["claims"]):
             missed.append(key)
-        notes = [f"lỗi {c['severity']}" + (" (đã sửa)" if c.get("fixed") else "")
+        notes = [f"lỗi {MUC_LOI.get(c['severity'], c['severity'])}" + (" (đã sửa)" if c.get("fixed") else "")
                  for c in doc["claims"] if c["verdict"] == "sai"]
         notes += ["chưa kiểm được: " + c["text"] for c in doc["claims"] if c["verdict"] == "chua-kiem-duoc"]
         if notes:
