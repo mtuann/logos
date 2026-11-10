@@ -24,14 +24,14 @@
 | 5.0c | Công cụ đợt con `tools/verify.py` (đặc tả dưới) và `schema/evidence.schema.json`; `check_ledger --check` kiểm mọi file bằng chứng theo schema | công cụ | kiểm thử cho từng lệnh; bằng chứng sai schema thì CI đỏ |
 | 5.0d | Đổi tên "Logos Zero" thành "Logos" (quyết định 27) bằng `tools/migrate/dot5_ten.py`: tên site, manifest, chân trang, nhãn "(bản dịch của Logos Zero)" và mọi chỗ trong bài, dữ liệu (`data/kb/quotes.yml`, `data/people/*.yml`), tool và kiểm thử đọc nhãn đó, `AGENTS.md` luật 2, `HUONG-DAN-VIET.md`. **Giữ** chỗ nói tới site song song `logos-zero` (trang Dữ liệu của tôi, nhập bản sao lưu, `KE-HOACH.md`, nhật ký) | cơ học | parity: mọi khác biệt chỉ là "Logos Zero" → "Logos" (script in bảng chỗ đổi và chỗ giữ, chủ biên xem); làm **trước** khi ghi sổ chỗ nào |
 | 5.1 | Kho: người và tác phẩm | nội dung | mọi bản ghi `people/*` và `works/*` đóng băng; `verification/lech/works.md` hết mục mở (117 tác phẩm chưa rõ tác giả được gán hoặc ghi lý do; 3 tác phẩm nhiều năm được chốt) |
-| 5.2 | Kho: trích dẫn, sự kiện, nguồn, PhilPapers | nội dung | `quotes/*`, `events/*`, `sources/*`, `philpapers/*` đóng băng; `lint_quotes` = 0 trong Lõi; `verification/lech/{quotes,events,sources,sep,philpapers,philpapers-bang}.md` hết mục mở |
+| 5.2 | Kho: trích dẫn, sự kiện, nguồn, PhilPapers | nội dung | `quotes/*`, `events/*`, `sources/*`, `philpapers/*` đóng băng; `lint_quotes` = 0 trong Lõi; `verification/lech/{quotes,events,sources,sep,philpapers,philpapers-bang}.md` hết mục mở; sau khi `philpapers/*` đóng băng, số % gõ tay trong văn xuôi và hộp Tóm tắt đổi sang `[[pp:…]]` bằng script (kiểm tra tương đương), quiz và JSON khớp kho (`lint_so_lieu` = 0) |
 | 5.3 | Hồ sơ triết gia và thuật ngữ | nội dung | `ho-so/*` (59), `terms/*` (249) đóng băng; quyết định 18 vào `HUONG-DAN-VIET.md`; `lint_terms` = 0 trong Lõi |
 | 5.4 | Văn bản gốc: 19 hướng dẫn | nội dung | 190 đơn vị `doc/*` đóng băng; `doc/sartre-hien-sinh.md` có mục "Đọc từng đoạn" (quyết định 19) |
 | 5.5 | Công cụ tư duy và dữ liệu luyện tập | nội dung | 171 đơn vị `cong-cu/*`, `fallacy-types/*`, `fallacies/*`, `lap-luan/*`, `logic/*`, `thi-nghiem/*` đóng băng; `cong-cu/luan-cu-thep.md` có "Bài tập", "Tự kiểm tra" (quyết định 19) |
 | 5.6 | Lịch sử và Bắt đầu | nội dung | 74 đơn vị `lich-su/*`, `bat-dau/lo-trinh.md` đóng băng |
-| 5.7 | Câu hỏi lớn I: Tri thức, Tâm trí, Tự do, Đạo đức, Luân lý ứng dụng | nội dung | 253 đơn vị đóng băng |
-| 5.8 | Câu hỏi lớn II: Chính trị, Mỹ học, Tôn giáo, Siêu hình, Ý nghĩa, Việt Nam | nội dung | 299 đơn vị đóng băng; ba bài Tư tưởng Việt Nam có nhãn độ chắc chắn (quyết định 6) |
-| 5.9 | Đóng đợt: `lint_structure`, `lint_terms`, `lint_facts`, `lint_quotes` chuyển sang chặn trong CI (0 trong Lõi); `AGENTS.md`, `README.md`, `KE-HOACH.md`; push, CI, tag `v1.5` | — | cổng đạt |
+| 5.7 | Câu hỏi lớn I: Tri thức, Tâm trí, Tự do, Đạo đức, Luân lý ứng dụng | nội dung | 253 đơn vị đóng băng; lập trường Pereboom ở `trach-nhiem` đủ ba nhãn; `dao-duc-ung-dung` theo quyết định 32 |
+| 5.8 | Câu hỏi lớn II: Chính trị, Mỹ học, Tôn giáo, Siêu hình, Ý nghĩa, Việt Nam | nội dung | 299 đơn vị đóng băng; ba bài Tư tưởng Việt Nam có nhãn độ chắc chắn (quyết định 6); lập trường "Khối đang lớn" ở `thoi-gian` đủ ba nhãn |
+| 5.9 | Đóng đợt: `lint_structure`, `lint_terms`, `lint_facts`, `lint_quotes`, `lint_so_lieu`, `lint_lien_ket` chuyển sang chặn trong CI (0 trong Lõi); trang Tác phẩm hiện cả tác phẩm có `attribution` (`viec-cho.md`); `AGENTS.md`, `README.md`, `KE-HOACH.md`; push, CI, tag `v1.5` | — | cổng đạt |
 
 Thứ tự: 5.0a → 5.0b → 5.0c → 5.0d → 5.1 → … → 5.8 → 5.9. Kho trước (5.1–5.3) để các bài sau chỉ còn kiểm phần diễn giải: dữ kiện trong bài khớp bản ghi đã đóng băng thì ghi `dung` kèm khóa bản ghi, không phải mở lại nguồn.
 
@@ -78,7 +78,7 @@ Theo `ban-giao/kiem-chung.md`, kiểm bằng `schema/evidence.schema.json`. Thê
 
 - [ ] 100% đơn vị Lõi (987) và mọi bản ghi trong phạm vi đóng băng (`check_ledger --status`).
 - [ ] Mỗi đợt con: lỗi nghiêm trọng bị bỏ sót trong mẫu ≤ 2%; chủ biên đã duyệt mẫu (`verification/mau/5.N.md`).
-- [ ] Mọi danh sách lệch ở `verification/lech/` hết mục mở; `lint_structure`, `lint_terms`, `lint_facts`, `lint_quotes` = 0 trong Lõi và chặn trong CI.
+- [ ] Mọi danh sách lệch ở `verification/lech/` hết mục mở; `lint_structure`, `lint_terms`, `lint_facts`, `lint_quotes`, `lint_so_lieu`, `lint_lien_ket` = 0 trong Lõi và chặn trong CI.
 - [ ] Không còn "Logos Zero" trong bài và giao diện, trừ chỗ nói tới site song song (quyết định 27).
 - [ ] `AGENTS.md` mục 4 có lệnh mới (`verify.py`).
 - [ ] CI xanh.
@@ -89,4 +89,6 @@ Thêm bài, triết gia, hướng dẫn đọc mới (đợt 7; luật 7). Thi�
 
 ## Đầu vào từ đợt trước
 
-`verification/lech/*.md` (đợt 2–3), `verification/lint/*.md` (báo cáo nền của linter), `ban-giao/viec-cho.md` (các dòng loại "lỗi nghi ngờ" và "quyết định" dành cho đợt 5), `data/kb/*`, `data/people/*`, `data/thoi-su/*` (đợt 5 bổ sung nguồn còn thiếu), quyết định 15–19 (còn "chờ": dùng Đề xuất).
+`verification/lech/*.md` (đợt 2–3), `verification/lint/*.md` (báo cáo nền của linter), `ban-giao/viec-cho.md` (các dòng loại "lỗi nghi ngờ" và "quyết định" dành cho đợt 5), `data/kb/*`, `data/people/*`, `data/thoi-su/*` (đợt 5 bổ sung nguồn còn thiếu), quyết định 15–19 (Claude chọn tạm theo Đề xuất ngày 9/11/2026) và 32.
+
+Rà soát độ hoàn thiện ngày 9/11/2026: `verification/ra-soat-2026-11-09.md`. Việc rút ra nằm ở `viec-cho.md` (các dòng ngày 9/11, cột Đợt dự kiến), theo đợt con: 5.2 số % gõ tay (script sau khi `philpapers/*` đóng băng) và link cho mục Nguồn; 5.3 ngoại lệ "luận cứ thép"; 5.4–5.8 link triết gia (`lint_lien_ket`), 6 lỗi thuật ngữ cứng, hai lập trường thiếu nhãn, bài "Ăn thịt có sai không?"; 5.9 trang Tác phẩm. Hai linter mới (`lint_so_lieu`, `lint_lien_ket`) chạy ở chế độ cảnh báo tới 5.9.
