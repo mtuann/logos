@@ -2,38 +2,57 @@
   "unit": "sources/sach.dworkin-ronald-1981-what-is-equality-part-1-equality-of-welf",
   "hash": "sha256:fe9bf525b69bb6f9c0a825e2527b5ac464a94dfcd6674f2fef507263e5cad95f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
-      "text": "Phần 1: 'What Is Equality? Part 1: Equality of Welfare', Philosophy & Public Affairs 10(3): 185–246, 1981",
+      "text": "Tác giả Ronald Dworkin; Phần 1: 'What Is Equality? Part 1: Equality of Welfare', Philosophy & Public Affairs 10(3): 185–246, 1981",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/",
+          "quote": "Dworkin, Ronald, 1981a, “What Is Equality? Part 1: Equality of Welfare”, Philosophy & Public Affairs, 10(3): 185–246.",
+          "where": "SEP, Egalitarianism, Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "Phần 1: 'What Is Equality? Part 1: Equality of Welfare', Philosophy & Public Affairs 10(3): 185–246, 1981 (PhilPapers, lượt trước)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://philpapers.org/rec/DWOWIE",
           "quote": "What is equality? Part 1: Equality of welfare",
-          "where": "PhilPapers: Philosophy and Public Affairs, vol 10, issue 3, pages 185-246, 1981"
+          "where": "PhilPapers: vol 10, issue 3, pages 185-246, 1981 (lượt kiểm trước)"
         }
       ]
     },
     {
-      "text": "Phần 2: 'Part 2: Equality of Resources', Philosophy & Public Affairs 10(4): 283–345, 1981",
+      "text": "Phần 2: 'Part 2: Equality of Resources', Philosophy & Public Affairs, 10: 283–345, 1981",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/equality/",
+          "quote": "1981b, “What is Equality? Part 2: Equality of Resources,” Philosophy and Public Affairs, 10: 283–345",
+          "where": "SEP, Equality, Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "Phần 2: số 4 (issue 4), 1981 (PhilPapers, lượt trước)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://philpapers.org/rec/DWOWIE-2",
           "quote": "What is equality? Part 2: Equality of resources",
-          "where": "PhilPapers: vol 10, issue 4, pages 283-345, 1981"
+          "where": "PhilPapers: vol 10, issue 4, pages 283-345, 1981 (lượt kiểm trước)"
         }
       ]
-    },
-    {
-      "text": "Tác giả Ronald Dworkin (trang PhilPapers đã mở không in tên tác giả trong phần đọc được; Crossref không lập chỉ mục bài 1981)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Bản tóm tắt trang không hiện tên tác giả; mã bản ghi DWO... chỉ gợi ý. Rất có thể đúng, cần một lần xác nhận (JSTOR 2264894/2264...) khi công cụ mở được. Link đề xuất: https://philpapers.org/rec/DWOWIE và https://philpapers.org/rec/DWOWIE-2."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): tác giả và trang được SEP xác nhận trong lượt này; số (issue) 3 xác nhận bởi SEP, số 4 của Phần 2 chỉ dựa vào bản ghi PhilPapers lượt trước (PhilPapers và JSTOR hiện chặn trình duyệt, Crossref không lập chỉ mục 1981). Link ổn định đề xuất: https://philpapers.org/rec/DWOWIE và https://philpapers.org/rec/DWOWIE-2. Lưu ý: SEP Distributive Justice ghi nhầm 'Part 1: Equality of Resources', không dùng mục đó."
 }

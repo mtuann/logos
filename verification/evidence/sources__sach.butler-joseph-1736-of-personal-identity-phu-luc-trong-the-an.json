@@ -2,14 +2,33 @@
   "unit": "sources/sach.butler-joseph-1736-of-personal-identity-phu-luc-trong-the-an",
   "hash": "sha256:8118aa8359d8f474ed485c32488c413da7f38cfa1b1dcf65066c5d0087fd41e9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Butler, Joseph (1736), The Analogy of Religion, London; 'Of Personal Identity' là phụ lục (dissertation I) trong sách",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28analogy+of+religion%29+AND+creator%3Abutler+AND+date%3A%5B1736-01-01+TO+1740-12-31%5D",
+          "quote": "To which are added two brief dissertations: I. Of personal identity. II. Of the nature of virtue",
+          "where": "Internet Archive analogyreligionn00butl: Butler, Joseph, 1692-1752; London : Printed for James, John., and Paul. Knapton; 1736"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1736, nhà in/xuất bản ở London (Knapton)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28analogy+of+religion%29+AND+creator%3Abutler+AND+date%3A%5B1736-01-01+TO+1740-12-31%5D",
+          "quote": "London : Printed for James, John., and Paul. Knapton",
+          "where": "Internet Archive, date 1736-01-01"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Sách có thật, 1736, London (Knapton). 'Of Personal Identity' = dissertation I phụ vào Analogy. Link ổn định đề xuất: https://archive.org/details/analogyreligionn00butl (bản quét 1736). Mục 'phản bác tính vòng tròn' là diễn giải nội dung, ngoài phạm vi kiểm thư mục."
 }

@@ -2,39 +2,59 @@
   "unit": "sources/sach.augustine-confessions-397400-city-of-god-413426-ban-dich-tie",
   "hash": "sha256:6375d52624ac09e58b897b12dd3a0f92ee89245ff22df316c653003522e0a0a1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
-      "text": "Confessions viết khoảng 397–400",
+      "text": "Confessions (397–400)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Confessions viết khoảng 396–400 (SEP ghi 'ca. 396–400'); hoặc ghi 'khoảng 397–400' nếu theo quy ước khác và nói rõ nguồn",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "The Confessiones (ca. 396–400; Toom 2020)"
+        }
+      ]
+    },
+    {
+      "text": "City of God (413–426)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "City of God viết 412–426 (SEP: bắt đầu 412, hoàn thành 426)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "begun in 412, two years after the sack of Rome, and completed in 426"
+        }
+      ]
+    },
+    {
+      "text": "Có bản dịch tiếng Anh công cộng của City of God",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
-          "quote": "ca. 396–400",
-          "where": "SEP ghi ca. 396–400; 'khoảng 397–400' gần khớp"
+          "url": "https://www.gutenberg.org/ebooks/45304",
+          "quote": "The City of God, Volume I",
+          "where": "Gutenberg #45304; Editor Dods, Marcus, 1834-1909"
         }
       ]
     },
     {
-      "text": "City of God viết 413–426",
+      "text": "Có bản dịch tiếng Anh công cộng của Confessions",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "City of God bắt đầu năm 412 (theo SEP) và hoàn thành 426; nên ghi 412–426 hoặc 'khoảng 413–426'",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
-          "quote": "begun in 412"
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "The Confessions of St. Augustine",
+          "where": "Gutenberg #3296; Translator Pusey, E. B. (Edward Bouverie), 1800-1882"
         }
       ]
-    },
-    {
-      "text": "Bản dịch tiếng Anh công cộng của Confessions và City of God (chỉ mở được Confessions Quyển 7 bản Pilkington ở New Advent; chưa mở bản City of God)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Link ổn định đề xuất: Confessions (Pilkington) https://www.newadvent.org/fathers/1101.htm; City of God (Dods) https://www.gutenberg.org/ebooks/45304 (số ebook chưa mở trong phiên này, cần kiểm trước khi dùng). Quote 'begun in 412' lấy theo kết quả đọc trang SEP."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): hai lỗi năm đều mức nhẹ (lệch 1 năm so với SEP). Link ổn định đề xuất: Confessions (Pusey) https://www.gutenberg.org/ebooks/3296; City of God (Dods, tập I; tập II và III là các ebook riêng) https://www.gutenberg.org/ebooks/45304. Ghi chú: bản ghi trước dẫn Pilkington/New Advent; Gutenberg là Pusey, nên nếu bài trích một bản thì ghi đúng tên dịch giả."
 }

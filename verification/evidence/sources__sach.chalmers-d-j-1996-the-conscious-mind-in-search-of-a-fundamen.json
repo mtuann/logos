@@ -2,26 +2,33 @@
   "unit": "sources/sach.chalmers-d-j-1996-the-conscious-mind-in-search-of-a-fundamen",
   "hash": "sha256:8a73899598480480ffca62e020ee2c395703b9406e665621707b462684bd9983",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "Chalmers, tên sách 'The Conscious Mind: In Search of a Fundamental Theory' và tác giả",
+      "text": "Chalmers, The Conscious Mind: In Search of a Fundamental Theory — tên sách và tác giả",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://books.google.com/books?vid=ISBN9780195117899",
           "quote": "The Conscious Mind: In Search of a Fundamental Theory",
-          "where": "Google Books: author David J. Chalmers, Publisher OUP USA"
+          "where": "Google Books (lượt trước): David J. Chalmers; OUP USA"
         }
       ]
     },
     {
-      "text": "năm 1996 (nguồn đã mở chỉ ghi bản 1997, ISBN 9780195117899 là bản in 1997)",
+      "text": "Năm 1996, Oxford University Press (bản đầu bìa cứng, New York)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL2954764W/editions.json?limit=100",
+          "quote": "The Conscious Mind",
+          "where": "Open Library OL799767M: publisher Oxford University Press, publish_date 1996, place New York, ISBN 0195105532; còn bản paperback OUP USA 1997 (ISBN 9780195117899)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Bản đã mở là Oxford University Press USA 1997 (paperback; Archive.org cũng ghi 1997). Năm 1996 (bản bìa cứng đầu) chưa có nguồn đã mở, không kết luận sai. Link đề xuất: https://global.oup.com/academic/product/the-conscious-mind-9780195117899 (không đọc được trong phiên). Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Bản đầu 1996 (OUP, New York), paperback in lại 1997. Mục chỉ ghi 'Oxford University Press'. Link ổn định đề xuất: https://global.oup.com/academic/product/the-conscious-mind-9780195117899 (chưa mở được) hoặc https://openlibrary.org/works/OL2954764W."
 }

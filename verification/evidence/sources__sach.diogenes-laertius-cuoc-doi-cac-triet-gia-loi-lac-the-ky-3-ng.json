@@ -2,7 +2,7 @@
   "unit": "sources/sach.diogenes-laertius-cuoc-doi-cac-triet-gia-loi-lac-the-ky-3-ng",
   "hash": "sha256:4ef2939099a3e6ea4e0cd7534ee6dbc7f683f6e40b71b7dea385834a115e72f1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
       "text": "Tác phẩm có thật, có bản dịch công cộng (Yonge) trên Gutenberg",
@@ -17,11 +17,18 @@
       ]
     },
     {
-      "text": "Niên đại thế kỷ 3 (trang Gutenberg không ghi)",
+      "text": "Niên đại thế kỷ 3",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/empedocles/",
+          "quote": "Diogenes Laertius’ Lives and Opinions of Eminent Philosophers, which dates to the third century CE.",
+          "where": "SEP, Empedocles, mục về nguồn tiểu sử"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Link đề xuất: https://www.gutenberg.org/ebooks/57342. Niên đại thế kỷ 3 cần SEP/IEP/Britannica; tên Việt 'Cuộc đời các triết gia lỗi lạc' là cách dịch của bài, không phải tên gốc."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): giữ claim cũ, bổ sung niên đại qua SEP (mục Epicurus cũng ghi 'third-century'). Tên Việt là cách dịch của bài, không phải tên gốc. Link ổn định đề xuất: https://www.gutenberg.org/ebooks/57342."
 }

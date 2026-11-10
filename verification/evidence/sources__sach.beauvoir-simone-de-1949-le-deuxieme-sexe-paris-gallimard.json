@@ -2,26 +2,43 @@
   "unit": "sources/sach.beauvoir-simone-de-1949-le-deuxieme-sexe-paris-gallimard",
   "hash": "sha256:83d759f375cd08195ad687e3e45ed193dc95619ff86e1594c31e94bb435aff2f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "Beauvoir, Le Deuxième Sexe, Paris: Gallimard (tác giả, tên, nhà xuất bản)",
+      "text": "Beauvoir, Le Deuxième Sexe, Paris: Gallimard (tác giả, tên, nhà xuất bản, nơi in)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://openlibrary.org/works/OL767941W/editions.json",
+          "quote": "Le deuxième sexe.|Gallimard|1949|Paris",
+          "where": "Open Library, danh sách ấn bản của work OL767941W (nhiều ấn bản Gallimard, Paris, 1949)"
+        },
+        {
           "url": "https://archive.org/metadata/ledeuxiemesexe0000beau/metadata",
           "quote": "Beauvoir, Simone de, 1908-1986",
-          "where": "bản Internet Archive: Title Le deuxieme sexe, Publisher Gallimard (in 1984)"
+          "where": "bản Internet Archive: Le deuxieme sexe, Gallimard"
         }
       ]
     },
     {
       "text": "năm 1949 là năm xuất bản lần đầu",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL767941W/editions.json",
+          "quote": "Le deuxième sexe|Gallimard|1949",
+          "where": "ấn bản Gallimard 1949 gồm Vol 1 (395 tr.) và Vol 2 (504 tr.); first_publish_year của work = 1949 (search.json)"
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3Abeauvoir+AND+title%3A%28deuxieme+sexe%29&fl[]=identifier&fl[]=title&fl[]=date&output=json",
+          "quote": "1949-01-01T00:00:00Z",
+          "where": "Internet Archive: dedeuxiemesexe0000simo, Simone de Beauvoir, date 1949"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Archive.org chỉ thấy bản Gallimard 1984, 2 v; chưa có nguồn cho 1949. Link đề xuất: https://archive.org/details/ledeuxiemesexe0000beau (hoặc trang Gallimard). Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp. Link ổn định đề xuất: https://openlibrary.org/works/OL767941W (hoặc trang Gallimard của tác phẩm); bản số hóa https://archive.org/details/ledeuxiemesexe0000beau (in 1984, không phải bản 1949). Mục không ghi tập; nên thống nhất với mục 'sach.beauvoir-simone-de-le-deuxieme-sexe-2-tap'."
 }

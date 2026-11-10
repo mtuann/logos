@@ -2,7 +2,7 @@
   "unit": "sources/sach.fricker-elizabeth-1987-the-epistemology-of-testimony-proceed",
   "hash": "sha256:4f4691a631dabd575f30e32fdf180cecbde0d987df265c80c05907b9f1f44bd6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
       "text": "Fricker (1987), 'The Epistemology of Testimony', Proc. Aristotelian Society Suppl. Vol. 61, bắt đầu tr. 57",
@@ -12,21 +12,47 @@
         {
           "url": "https://api.crossref.org/works?query.title=The+Epistemology+of+Testimony&query.author=Fricker&rows=3",
           "quote": "The Epistemology of Testimony",
-          "where": "Crossref: Aristotelian Society Supplementary Volume, vol 61, issue 1, pages 57–106 (gồm cả bài phản hồi của Cooper), 1987, DOI 10.1093/aristoteliansupp/61.1.57"
+          "where": "Crossref: Aristotelian Society Supplementary Volume, vol 61, pages 57–106 (gồm cả bài phản hồi Cooper), 1987, DOI 10.1093/aristoteliansupp/61.1.57"
         }
       ]
     },
     {
-      "text": "Tr. 57–83 (Crossref ghi 57–106 gộp cả bài Cooper)",
+      "text": "Tr. 57–83 (Crossref ghi 57–106 gộp bài Cooper)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Fricker, Elizabeth, 1987, “The Epistemology of Testimony”, Aristotelian Society Supplementary Volume, 61: 57–83.",
+          "where": "SEP, Epistemological Problems of Testimony, Bibliography"
+        }
+      ]
     },
     {
-      "text": "(1994), 'Against Gullibility', trong Matilal & Chakrabarti (chủ biên), Knowing from Words, Dordrecht: Kluwer, tr. 125–161",
+      "text": "(1994), 'Against Gullibility', trong Matilal & Chakrabarti (chủ biên), Knowing from Words, tr. 125–161",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Fricker+Against+Gullibility+Knowing+from+Words&rows=4",
+          "quote": "Against Gullibility",
+          "where": "Crossref: Elizabeth Fricker, container 'Knowing from Words', pages 125-161, 1994, DOI 10.1007/978-94-017-2018-2_8"
+        }
+      ]
+    },
+    {
+      "text": "Knowing from Words: Dordrecht: Kluwer, 1994, chủ biên Matilal & Chakrabarti",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL18317650W/editions.json?limit=20",
+          "quote": "Dordrecht",
+          "where": "Open Library: Knowing from words, 1994, Kluwer Academic/Springer, Dordrecht/Boston, edited by Bimal Krishna Matilal and Arindam Chakrabarti"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Link ổn định bài 1987: https://doi.org/10.1093/aristoteliansupp/61.1.57. Bài 1994 chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): các claim cũ chua-kiem-duoc nay được SEP (57–83), Crossref (bài 1994, tr. 125–161) và Open Library (Kluwer, Dordrecht) xác nhận. Link ổn định: https://doi.org/10.1093/aristoteliansupp/61.1.57 và https://doi.org/10.1007/978-94-017-2018-2_8"
 }

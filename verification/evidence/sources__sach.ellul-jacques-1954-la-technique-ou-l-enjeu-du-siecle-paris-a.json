@@ -2,14 +2,33 @@
   "unit": "sources/sach.ellul-jacques-1954-la-technique-ou-l-enjeu-du-siecle-paris-a",
   "hash": "sha256:95177490a7fb9c351fad6e444564bc1abf496e0fc8d6fe962dd82cde836f3a0f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
-      "text": "Ellul (1954), La Technique ou l'enjeu du siècle, Paris: Armand Colin; bản Anh The Technological Society 1964, New York: Knopf",
+      "text": "Ellul (1954), La Technique ou l'enjeu du siècle, Paris: Armand Colin",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1985863W/editions.json?limit=40",
+          "quote": "La technique, ou, L'enjeu du siècle",
+          "where": "Open Library OL1985863W, tác giả Jacques Ellul; edition 'La technique', 1954, A. Colin, Paris, 401 tr."
+        }
+      ]
+    },
+    {
+      "text": "Bản tiếng Anh The Technological Society, 1964, New York: Knopf",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1985863W/editions.json?limit=40",
+          "quote": "The technological society.",
+          "where": "Open Library: 1964, Knopf, New York, '[1st American ed.]', 449 tr."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn trong phiên (ngân sách công cụ chung)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): Open Library đủ tác giả, năm, nhà xuất bản, nơi in cho cả bản Pháp 1954 và bản Anh 1964 (dịch John Wilkinson). Link ổn định đề xuất: https://openlibrary.org/works/OL1985863W."
 }

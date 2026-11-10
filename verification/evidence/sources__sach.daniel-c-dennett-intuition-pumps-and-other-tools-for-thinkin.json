@@ -2,30 +2,65 @@
   "unit": "sources/sach.daniel-c-dennett-intuition-pumps-and-other-tools-for-thinkin",
   "hash": "sha256:c2e48de9a94b34e1553a03a768ae22d244df3ff7dcf6ec3a7c747a2175c03093",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "Sách có thật: Daniel C. Dennett, Intuition Pumps and Other Tools for Thinking, W. W. Norton",
+      "text": "Sách có thật: Daniel C. Dennett, Intuition Pumps and Other Tools for Thinking, New York: W. W. Norton, 2013",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://wwnorton.com/books/9780393348781",
-          "quote": "Intuition Pumps And Other Tools for Thinking"
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28intuition+pumps%29+AND+creator%3Adennett",
+          "quote": "New York : W. W. Norton & Company",
+          "where": "Internet Archive intuitionpumpsot0000denn: Dennett, D. C. (Daniel Clement), date 2013"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL16816583W/editions.json?limit=30",
+          "quote": "W. W. Norton & Company",
+          "where": "Open Library OL25442968M, publish_date 2013; OL29668160M Norton 2013, New York"
         }
       ]
     },
     {
-      "text": "Năm 2013 (trang nhà xuất bản không ghi ngày xuất bản)",
+      "text": "Phần II của sách là 'A Dozen General Thinking Tools'; mục 'Rapoport's Rules' là mục 3 trong đó (tr. 32–35)",
       "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?vid=ISBN9780393082067&q=%22A+dozen+general+thinking+tools%22",
+          "quote": "II. a dozen General thInkInG tools",
+          "where": "Google Books tìm trong sách, trang 15"
+        },
+        {
+          "url": "https://books.google.com/books?vid=ISBN9780393082067&q=%22Rapoport%27s+rules%22",
+          "quote": "3. RAPOPORT'S RULES",
+          "where": "Google Books, trang 32; chỉ mục: Rapoport's Rules, 33-35"
+        }
+      ]
+    },
+    {
+      "text": "Anatol Rapoport được nhắc trong mục (chỉ mục tr. 33)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?vid=ISBN9780393082067&q=%22Rapoport%27s+rules%22",
+          "quote": "Rapoport , Anatol , 33",
+          "where": "Google Books, chỉ mục"
+        }
+      ]
+    },
+    {
+      "text": "Bốn quy tắc: diễn đạt lại rõ và công bằng đến mức đối phương cảm ơn; nêu điểm đồng ý; nêu điều học được; chỉ sau đó mới phản bác (Google Books chỉ cho thấy tiêu đề, không có đoạn chữ của tr. 33–34)",
+      "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     },
     {
-      "text": "Phần II, mục \"Rapoport's Rules\" và bốn quy tắc như mô tả",
-      "kind": "dien-giai",
+      "text": "Rapoport là nhà tâm lý học xã hội và lý thuyết trò chơi",
+      "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chỉ mở được trang Norton (ISBN 9780393348781, bản bìa mềm), không nêu năm và không có mục lục. Link đề xuất: https://wwnorton.com/books/9780393348781. Người làm cần đối chiếu mục lục (Google Books/Internet Archive) cho năm 2013 và vị trí mục Rapoport's Rules."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Thư mục, năm 2013 và vị trí (Phần II, mục 3, tr. 33–35) đã xác nhận. Còn chưa đọc được chữ của tr. 33–34 (Google Books không có xem trước, archive.org mượn có hạn chế). Link đề xuất: https://wwnorton.com/books/9780393348781 (bản bìa mềm) và https://archive.org/details/intuitionpumpsot0000denn."
 }

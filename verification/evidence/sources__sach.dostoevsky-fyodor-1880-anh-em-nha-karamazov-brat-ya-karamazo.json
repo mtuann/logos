@@ -2,7 +2,7 @@
   "unit": "sources/sach.dostoevsky-fyodor-1880-anh-em-nha-karamazov-brat-ya-karamazo",
   "hash": "sha256:ff5c8be21c0b0d7f9cad3d3b6e5515645eabb9bc0f6990321640e48dd7364845",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
       "text": "Anh em Karamazov, Quyển V, chương 4 mang tên 'Rebellion' (Nổi loạn)",
@@ -17,11 +17,23 @@
       ]
     },
     {
-      "text": "Năm 1880 (Gutenberg #28054, dịch Constance Garnett, không ghi năm gốc)",
+      "text": "Năm 1880 (xuất bản thành sách; đăng nhiều kỳ 1879–80)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/existentialism/",
+          "quote": "Dostoevsky, F., 1879–80 [1957]. The brothers Karamazov, C. Garnett (trans.), New York: Signet Classic.",
+          "where": "SEP, Existentialism, Bibliography: 1879–80 là thời gian đăng/viết"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=brothers+karamazov+dostoevsky&limit=8&fields=title,author_name,first_publish_year,publisher,publish_year,key",
+          "quote": "\"first_publish_year\":1880",
+          "where": "Open Library work OL10432709W (Братья Карамазовы): first_publish_year 1880"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Link đề xuất: https://www.gutenberg.org/ebooks/28054. Cần nguồn cho năm 1880 (xuất bản thành sách; đăng nhiều kỳ 1879–80)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): năm 1880 là năm in thành sách (Open Library), SEP ghi 1879–80 cho cả quá trình đăng; người làm có thể ghi '1879–80' cho chặt. Link ổn định đề xuất: https://www.gutenberg.org/ebooks/28054 (bản Garnett)."
 }

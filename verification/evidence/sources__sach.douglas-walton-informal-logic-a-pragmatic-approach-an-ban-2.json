@@ -2,10 +2,10 @@
   "unit": "sources/sach.douglas-walton-informal-logic-a-pragmatic-approach-an-ban-2",
   "hash": "sha256:d5cb12bca04376ecc994aae833c7e7554250f323b72a32b01e0113376e642f14",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
-      "text": "Walton, Informal Logic: A Pragmatic Approach, Cambridge University Press (có thật; bản ghi Crossref là ấn bản năm 2001 DOI 10.1017/cbo9780511808630)",
+      "text": "Walton, Informal Logic: A Pragmatic Approach, Cambridge University Press (có thật; Crossref ghi bản 2001 DOI 10.1017/cbo9780511808630)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -17,11 +17,18 @@
       ]
     },
     {
-      "text": "Ấn bản 2, năm 2008",
+      "text": "Ấn bản 2, năm 2008, Cambridge University Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL14852718W/editions.json?limit=40",
+          "quote": "2nd ed.",
+          "where": "Open Library: Informal logic, Douglas N. Walton, Cambridge University Press, 2008, Cambridge/New York, 347 tr., ISBN 9780521713801 / 9780521886178"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref chỉ trả bản ghi năm 2001 (bản trực tuyến), không cho ấn bản 2/2008; Internet Archive có tựa nhưng không có metadata. Cần trang CUP ấn bản 2 (ISBN 9780521713801)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): Open Library ghi ấn bản '2nd ed.' năm 2008 của CUP, tác giả Douglas N. Walton. Crossref chỉ có bản trực tuyến 2001/2012. Link ổn định đề xuất: https://openlibrary.org/works/OL14852718W hoặc trang CUP ISBN 9780521713801."
 }

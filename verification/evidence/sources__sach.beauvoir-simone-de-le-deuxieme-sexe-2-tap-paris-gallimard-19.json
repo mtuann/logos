@@ -2,26 +2,45 @@
   "unit": "sources/sach.beauvoir-simone-de-le-deuxieme-sexe-2-tap-paris-gallimard-19",
   "hash": "sha256:618f43a03f0ee3048da2db680ee960d6d51d2ad5168b4162837ad7328f5b7f60",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "Beauvoir, Le Deuxième Sexe, 2 tập, Gallimard",
+      "text": "Beauvoir, Le Deuxième Sexe, Paris: Gallimard (tác giả, tên, nhà xuất bản)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://archive.org/metadata/ledeuxiemesexe0000beau/metadata",
-          "quote": "2 v",
-          "where": "Description; Publisher Gallimard"
+          "url": "https://openlibrary.org/works/OL767941W/editions.json",
+          "quote": "Le deuxième sexe.|Gallimard|1949|Paris",
+          "where": "Open Library"
+        }
+      ]
+    },
+    {
+      "text": "2 tập (Vol 1: Les faits et les mythes; Vol 2: L'expérience vécue)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL767941W/editions.json",
+          "quote": "Simone de Beauvoir. 2, L'expérience vécue.",
+          "where": "Open Library, ấn bản Gallimard 1949 (by_statement); ấn bản khác ghi 'Simone de Beauvoir. Vol 1.' với phụ đề 'les Faits et les Mythes'"
         }
       ]
     },
     {
       "text": "năm 1949",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL767941W/editions.json",
+          "quote": "Le deuxième sexe|Gallimard|1949",
+          "where": "Open Library: Vol 1 395 tr., Vol 2 504 tr., Gallimard 1949"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Bản Archive.org (Gallimard 1984) xác nhận tác giả, nhà xuất bản, 2 tập; năm 1949 chưa có nguồn. Link đề xuất: https://archive.org/details/ledeuxiemesexe0000beau. Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp. Link ổn định đề xuất: https://openlibrary.org/works/OL767941W. Mục trùng nội dung với 'sach.beauvoir-simone-de-1949-le-deuxieme-sexe-paris-gallimard': nên thống nhất cách ghi (gộp một mục, ghi '2 tập, Gallimard, 1949')."
 }

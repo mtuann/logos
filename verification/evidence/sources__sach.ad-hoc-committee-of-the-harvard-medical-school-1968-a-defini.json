@@ -2,7 +2,7 @@
   "unit": "sources/sach.ad-hoc-committee-of-the-harvard-medical-school-1968-a-defini",
   "hash": "sha256:90bc95931b18d92f9da00b518e40f479019b1433b4ec10545f4d90e2dab69657",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
       "text": "Tên bài: A Definition of Irreversible Coma",
@@ -40,23 +40,18 @@
       ]
     },
     {
-      "text": "Trang bắt đầu 337",
+      "text": "Trang 337–340",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://api.crossref.org/works/10.1001/jama.1968.03140320031009",
-          "quote": "337",
-          "where": "page"
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=5694976&retmode=json",
+          "quote": "337-40",
+          "where": "PubMed PMID 5694976, trường pages; Crossref: page 337"
         }
       ]
-    },
-    {
-      "text": "Trang kết thúc 340 (Crossref chỉ trả trang đầu 337)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Link ổn định đề xuất: https://doi.org/10.1001/jama.1968.03140320031009. Crossref khớp tên bài, tạp chí, tập 205, số 6, 1968; trang cuối không thấy trong kết quả Crossref nên chưa xác nhận '340'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): trang cuối 340 xác nhận qua PubMed E-utilities (PMID 5694976: JAMA 205(6):337-40, 1968 Aug 5). Link ổn định đề xuất: https://doi.org/10.1001/jama.1968.03140320031009"
 }

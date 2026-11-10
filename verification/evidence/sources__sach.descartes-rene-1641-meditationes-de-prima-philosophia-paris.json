@@ -2,7 +2,7 @@
   "unit": "sources/sach.descartes-rene-1641-meditationes-de-prima-philosophia-paris",
   "hash": "sha256:fb0abc33d58a7a8bb21eaf5675e138a7534632a32fbe7f22ec975c22311d7273",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
       "text": "Meditationes de prima philosophia xuất bản năm 1641 (bản in đầu)",
@@ -10,18 +10,35 @@
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Meditationes+de+prima+philosophia%22+1641+%22Michaelem+Soly%22",
+          "quote": "The first edition of the Meditationes , published in Paris apud Michaelem Soly in August 1641",
+          "where": "Google Books: C.F. Fowler, Descartes on the Human Soul (2012), tr. 35"
+        },
+        {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
           "quote": "a seventh set was added with the second edition (1642)",
-          "where": "SEP Descartes' Epistemology (trang nêu 1641 là ấn bản đầu)"
+          "where": "SEP Descartes' Epistemology"
         }
       ]
     },
     {
-      "text": "Nhà xuất bản/nơi in: Paris, Michel Soly",
+      "text": "Nơi in và nhà in: Paris, Michel Soly",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Meditationes+de+prima+philosophia%22+1641+%22Michaelem+Soly%22",
+          "quote": "Meditationes de prima philosophia , in qua Dei existentia et animae immortalitas demonstratur (Parisiis, apud Michaelem Soly, 1641)",
+          "where": "Google Books: Descartes. Opere 1637-1649 (Belgioioso, 2014), tr. lxviii"
+        },
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Meditationes+de+prima+philosophia%22+1641+%22Michaelem+Soly%22",
+          "quote": "Apud MICHAELEM SOLY , via Iacobeâ",
+          "where": "Google Books: Descartes, Meditationes (1912), tr. 16, chép trang tựa bản 1641: M. DC . XLI"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "SEP không nêu nhà in. Hậu quả: cần xác nhận Soly ở Gallica/Internet Archive/thư viện (tìm trên archive.org không ra bản 1641)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Soly xác nhận qua nhiều sách (Google Books tìm kiếm trong sách; không có bản quét 1641 trên archive.org). Link ổn định đề xuất: chưa có bản quét 1641 mở; có thể dùng trang tựa qua https://archive.org/details/ned-kbn-all-00003574-001 (bản 1642, Elzevir, Amsterdam) cho bản in sau, hoặc Gallica (chưa mở)."
 }

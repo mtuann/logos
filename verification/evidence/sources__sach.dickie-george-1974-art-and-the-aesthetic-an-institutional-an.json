@@ -2,14 +2,26 @@
   "unit": "sources/sach.dickie-george-1974-art-and-the-aesthetic-an-institutional-an",
   "hash": "sha256:641abb6d5f4d5765dba45c8b0fb51a30c4e3aee96ea5db51a502f545f9cf45c4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
-      "text": "Dickie (1974), Art and the Aesthetic: An Institutional Analysis, Ithaca: Cornell University Press",
+      "text": "Dickie, George (1974), Art and the Aesthetic: An Institutional Analysis, Ithaca: Cornell University Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=art+and+the+aesthetic+dickie&fields=key,title,author_name,first_publish_year,publisher,publish_year",
+          "quote": "Cornell University Press",
+          "where": "Open Library work OL3281735W: tác giả George Dickie, năm 1974, tên 'Art and the aesthetic'"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL3281735W/editions.json?limit=40",
+          "quote": "Ithaca, N.Y",
+          "where": "Edition: Cornell University Press, 1974, ISBN 0801408873, 204 tr."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn trong phiên (ngân sách công cụ). Cần kiểm qua Cornell UP/Crossref/WorldCat."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): Open Library xác nhận tác giả, tên (phụ đề 'An Institutional Analysis' không có trong tựa Open Library nhưng là tên đầy đủ quen thuộc của sách), năm 1974, Cornell UP, Ithaca. Link ổn định đề xuất: https://openlibrary.org/works/OL3281735W (hoặc trang Cornell UP/ISBN 0-8014-0887-3)."
 }

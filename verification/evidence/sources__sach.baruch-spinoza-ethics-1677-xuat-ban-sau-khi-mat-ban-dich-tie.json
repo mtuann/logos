@@ -2,14 +2,45 @@
   "unit": "sources/sach.baruch-spinoza-ethics-1677-xuat-ban-sau-khi-mat-ban-dich-tie",
   "hash": "sha256:fc5e80d3e863779c58afb78257dcd590670572c8a6f435258dbc322e34c02d93",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Spinoza, Ethics, xuất bản sau khi mất (Spinoza mất 1677; Ethics nằm trong các bản thảo in thành Opus Posthuma)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/spinoza/",
+          "quote": "the Ethics, the Hebrew Grammar, and the Political Treatise along with his correspondence",
+          "where": "mục 1, đoạn cuối; các bản thảo 'appeared in print as B.D.S. Opus Posthuma'"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1677 (Opera Posthuma in năm 1677)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28opera+posthuma%29+AND+creator%3Aspinoza&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=publisher&rows=6&output=json",
+          "quote": "\"date\":\"1677-01-01T00:00:00Z\"",
+          "where": "bản ghi Internet Archive (KB Hà Lan) 'Opera posthuma, quorum series post præfationem exhibetur', Rieuwertsz, Jan"
+        }
+      ]
+    },
+    {
+      "text": "Có bản dịch tiếng Anh công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3800",
+          "quote": "Translator Elwes, R. H. M. (Robert Harvey Monro), 1853-1892",
+          "where": "Gutenberg #3800, Ethics (Ethica Ordine Geometrico Demonstrata)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): mục không nêu dịch giả; nên ghi 'bản dịch R. H. M. Elwes (1883)' nếu bài dùng bản này (năm 1883 là first_publish_year Open Library cho Ethica/Elwes, chưa kiểm riêng). Link ổn định đề xuất: https://www.gutenberg.org/ebooks/3800. Năm 1677 là năm in Opera Posthuma (ngày tháng 1677-01-01 là mặc định của kho lưu trữ, không phải ngày cụ thể)."
 }

@@ -2,7 +2,7 @@
   "unit": "events/viet-nam.viet-hien-dai.1951-3",
   "hash": "sha256:e4add6520c57cf818cbd42e8ac0f03f55a255ae87ffd7d5cf4169aba2dfb07a4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e07",
+  "checker": "agent-kiem-5.2-r10",
   "claims": [
     {
       "text": "Tác phẩm năm 1951 của Trần Đức Thảo là Phénoménologie et matérialisme dialectique",
@@ -12,15 +12,32 @@
         {
           "url": "https://www.hel-journal.org/articles/hel/pdf/2020/02/hel200013.pdf",
           "quote": "son ouvrage le plus célèbre, Phénoménologie et matérialisme dialectique (1951)."
+        },
+        {
+          "url": "https://journals.openedition.org/moussons/3163",
+          "quote": "intitulé Phénoménologie et matérialisme dialectique, publié en 1951",
+          "where": "đoạn 1 (bài điểm sách Moussons 24, 2014)"
         }
       ]
     },
     {
-      "text": "Tham vọng của tác phẩm là nối hiện tượng luận Husserl với duy vật biện chứng Marx",
+      "text": "Tham vọng của tác phẩm là nối hiện tượng luận Husserl với duy vật biện chứng/chủ nghĩa Marx",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.openedition.org/moussons/3163",
+          "quote": "Au cœur de ce face-à-face dont Tran Duc Thao tentera pendant toute sa vie la résolution dialectique",
+          "where": "đoạn 3; «face-à-face» = phénoménologie husserlienne và marxisme (đoạn 2)"
+        },
+        {
+          "url": "https://journals.openedition.org/moussons/3163",
+          "quote": "la phénoménologie husserlienne et le marxisme, dont le difficile dialogue n’est pas terminé",
+          "where": "đoạn 2"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Dòng rút là câu hỏi quiz (JSON). Năm 1951 đúng. Chưa mở được trang nào tóm tắt tham vọng của sách (đáp án quiz) trong lượt tìm; cần SEP/IEP hoặc bài học thuật về Trần Đức Thảo."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): dòng rút là câu hỏi quiz (JSON), không phải câu văn bài; khẳng định nằm ở đáp án quiz (cần xem đáp án khớp: «nối Husserl với Marx/duy vật biện chứng»). Nguồn điểm sách (Moussons/OpenEdition) nói chung về cặp Husserl–Marx trong sự nghiệp của Thảo, không tóm riêng ‘tham vọng’ của cuốn 1951; để chắc hơn nên dẫn thêm lời giới thiệu nhà xuất bản (Delga) hoặc SEP/IEP nếu có. PDF HEL (hel-journal.org) trình duyệt không đọc được chữ, quote HEL giữ từ lượt trước."
 }
