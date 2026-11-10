@@ -1,28 +1,17 @@
 {
   "unit": "events/lich-su.hy-lap-co-dai.tcn387",
-  "hash": "sha256:9c89578eead57e885f662a94a61025ccde9f10d1e1abf57975dac96ee5535a64",
+  "hash": "sha256:e0cace8073c9dac71a9ccb38b8b4fd22740c91c31f679fda5cfa96136f402bd4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r08",
+  "checker": "agent-kiem-5.2-t01",
   "claims": [
     {
-      "text": "Platon sinh 428/427 TCN",
+      "text": "Platon sinh 428/427 TCN và mất 348/347 TCN",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.britannica.com/biography/Plato",
-          "quote": "born 428/427 BCE, Athens, Greece"
-        }
-      ]
-    },
-    {
-      "text": "Platon mất 348/347 TCN",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.britannica.com/biography/Plato",
-          "quote": "died 348/347, Athens"
+          "quote": "born 428/427 BCE, Athens, Greece—died 348/347, Athens"
         }
       ]
     },
@@ -38,7 +27,7 @@
       ]
     },
     {
-      "text": "Platon lập Học viện khoảng 387 TCN",
+      "text": "Platon sáng lập Học viện Athens khoảng năm 387 TCN",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -49,18 +38,17 @@
       ]
     },
     {
-      "text": "Học viện thường được ví là trường đại học đầu tiên của phương Tây",
+      "text": "Học viện thường được xem là tiền thân xa của trường đại học",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.britannica.com/topic/Academy-ancient-academy-Athens-Greece",
-          "quote": "was the ultimate ancestor of the modern university",
-          "where": "Britannica nói 'tổ tiên của đại học hiện đại', yếu hơn 'trường đại học đầu tiên'"
+          "quote": "was the ultimate ancestor of the modern university"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Britannica 'Plato' khớp cả 428/427 và 348/347 (SEP ghi 429?–347). 'Học trò xuất sắc nhất' là đánh giá, không kiểm. Câu 'đại học đầu tiên' là cách ví von; Britannica chỉ nói 'ultimate ancestor of the modern university', nên cân nhắc viết 'thường được xem là tiền thân của đại học'. Nguồn Britannica (hạng thấp hơn SEP/IEP nhưng được nhận cho mốc năm)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t01): câu đã làm mềm thành 'tiền thân xa', khớp Britannica; claim 'đại học đầu tiên' cũ không còn trong câu. Britannica ghi 'founded in the 380s' và 'acquired property about 387 BCE' (nguồn hạng thấp hơn SEP/IEP, nhận cho mốc năm). 'Học trò xuất sắc nhất' là đánh giá, không kiểm. SEP fall2026 ghi 429?–347 (ước đoán)."
 }

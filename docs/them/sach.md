@@ -8082,7 +8082,7 @@ Gợi ý độ dài: 250–400 chữ.
 
 1. Ad Hoc Committee of the Harvard Medical School (1968), "A Definition of Irreversible Coma", *JAMA*, vol. 205, no. 6, tr. 337–340.
 2. Wilkinson, Martin & Stephen Wilkinson, "The Donation of Human Organs", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/organ-donation/>
-3. DeGrazia, David, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
+3. Omelianchuk, Adam & David DeGrazia, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
 4. Johnson, Eric J. & Daniel Goldstein (2003), "Do Defaults Save Lives?", *Science* 302 (5649): 1338–1339. <https://doi.org/10.1126/science.1091721>
 5. Fabre, John, Paul Murphy & Rafael Matesanz (2010), "Presumed consent: a distraction in the quest for increasing rates of organ donation", *BMJ* 341: c4973. <https://doi.org/10.1136/bmj.c4973>
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
@@ -8262,7 +8262,7 @@ Gợi ý độ dài: 150–300 chữ.
 ## Nguồn
 
 1. Hobbes, Thomas (1651), *Leviathan*. Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/3207>
-2. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo bản in lại lần thứ sáu, 1763). <https://www.gutenberg.org/ebooks/7370>
+2. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg #7370). <https://www.gutenberg.org/ebooks/7370>
 3. Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>
 4. Hume, David (1748), "Of the Original Contract", in lần đầu trong *Three Essays, Moral and Political* (1748), cùng năm được đưa vào ấn bản thứ ba của *Essays, Moral and Political*. <https://davidhume.org/texts/empl2/oc>
 5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
@@ -8898,7 +8898,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/libertarianism/>
 2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
-3. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo bản in lại lần thứ sáu, 1763). <https://www.gutenberg.org/ebooks/7370>
+3. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg #7370). <https://www.gutenberg.org/ebooks/7370>
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
 6. Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>

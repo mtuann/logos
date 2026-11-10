@@ -1,31 +1,67 @@
 {
   "unit": "events/viet-nam.nho-giao-viet.1996",
-  "hash": "sha256:8751d5b7b49756e4d8d306bab8915cdb5628fb524c2648714b2270cc5ce37fb8",
+  "hash": "sha256:328931c6284d379d2548d421adc8396be529ca2c6751714190a95702bc3f9275",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r09",
+  "checker": "agent-kiem-5.2-u01",
   "claims": [
     {
-      "text": "Trần Đình Hượu, Đến hiện đại từ truyền thống, 1996",
-      "kind": "du-kien",
+      "text": "Trần Đình Hượu nghiên cứu mối liên hệ giữa Nho giáo và cơ chế nhà nước chuyên chế phương Đông, cùng tác động của nó tới con người Việt Nam hiện đại",
+      "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://elib.hcmussh.edu.vn/handle/HCMUSSH/37336",
-          "quote": "Đến hiện đại từ truyền thống"
-        },
-        {
-          "url": "https://elib.hcmussh.edu.vn/handle/HCMUSSH/37336",
-          "quote": "Văn hóa",
-          "where": "Publisher/Date: Văn hóa, 1996 (lượt kiểm trước)"
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "biểu hiện tập trung là nhà nước chuyên chế phương Đông",
+          "where": "đoạn trích từ Hượu: Nho giáo gắn với cơ chế ấy; con người 'vẫn nghĩ, vẫn sống theo cách Nho giáo hóa' khi cơ chế chưa đổi"
         }
       ]
     },
     {
-      "text": "Trần Đình Hượu đại diện cho lập trường sáng tạo/Việt hóa Nho giáo (người Việt chọn lọc mặt thực tiễn-đạo đức)",
+      "text": "Đến hiện đại từ truyền thống in lần đầu 1994",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Đến hiện đại từ truyền thống. 1994.",
+          "where": "danh mục công trình của Trần Đình Hượu (nguồn: Trường ĐH KHXH&NV, ĐHQGHN)"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Đến+hiện+đại+từ+truyền+thống%22+Trần+Đình+Hượu",
+          "quote": "Đến hiện đại từ truyền thống ( PGS Trần Đình Hượu , 1994 , tái bản 1996 )",
+          "where": "đoạn Tạp chí cộng sản 1997 trong kết quả Google Books"
+        }
+      ]
+    },
+    {
+      "text": "NXB Văn hóa tái bản 1996",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://elib.hcmussh.edu.vn/items/808ddaf5-71ee-430e-afb5-fbb323ef65c1/full",
+          "quote": "dc.publisher\tVăn hóa",
+          "where": "cùng biểu ghi: dc.date.issued 1996; tác giả Trần Đình Hượu"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Đến+hiện+đại+từ+truyền+thống%22+Trần+Đình+Hượu",
+          "quote": "Đến hiện đại từ truyền thống ( PGS Trần Đình Hượu , 1994 , tái bản 1996 )"
+        }
+      ]
+    },
+    {
+      "text": "Trong sách, ông coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống, có nguồn mạch từ truyền thống",
+          "where": "mô tả công trình 'Đến hiện đại từ truyền thống' (ĐHQGHN, giải thưởng KHCN 2007), in lần đầu tháng 5/1994"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r09): không tìm được nguồn nói Hượu theo lập trường 'Việt hóa/sáng tạo'; nguồn mở được cho thấy Hượu phê phán tính chuyên chế gắn với Nho giáo. Đề xuất sửa: bỏ việc gán nhãn lập trường cho Hượu, hoặc viết 'Trần Đình Hượu nghiên cứu Nho giáo Việt Nam gắn với cơ chế nhà nước chuyên chế phương Đông và cho rằng nó vẫn còn tác động trong xã hội hiện đại' (nguồn: ussh.vnu.edu.vn, bài trên). Đã mở thêm ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html: trang mô tả Hượu coi Nho giáo gắn với nhà nước chuyên chế phương Đông, 'tư tưởng mới từ ngoài vào cũng bị Nho giáo hóa'; không có chữ 'Việt hóa' hay 'yêu nước'. Danh mục thư viện (kết quả tìm kiếm, chưa mở trang) ghi bản 1994 Nxb Hà Nội, 250 tr., khác bản NXB Văn hóa 1996, 399 tr.: người làm nên xác nhận ấn bản."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): giữ các claim dung cũ (câu không đổi ở các vế đó); vế 'xây dựng văn hóa cho hiện tại và tương lai không tách rời truyền thống' khớp gần nguyên văn bài ĐHQGHN, cùng đoạn ghi 'in lần đầu vào tháng 5/1994'. Nguồn là trang tin của ĐHQGHN (nguồn khá yếu, quyết định 31). Năm 1996: tái bản 1996 NXB Văn hóa khớp biểu ghi elib.hcmussh và Tạp chí cộng sản (claim cũ)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "sources/sep.liar-paradox",
-  "hash": "sha256:b6a79c7e1b4f2db7f3c9d03a69349627e69e7b40cf076d5a1464c777bb1c0266",
+  "hash": "sha256:f438b2c97d03fcf10d01ef161cb36df00f32e78f7e6d3703a90f3b643c491dd7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s05",
+  "checker": "agent-kiem-5.2-t05",
   "claims": [
     {
       "text": "Mục \"Liar Paradox\" có thật ở bản lưu fall2026 và URL mở được",
@@ -16,24 +16,30 @@
       ]
     },
     {
-      "text": "Tác giả: Beall, Jc, Michael Glanzberg & Ellie Ripley",
+      "text": "Tác giả: Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, \"Liar Paradox\", Stanford Encyclopedia of Philosophy",
+      "verdict": "dung",
       "sources": [
-        {
-          "url": "https://philpapers.org/sep/liar-paradox/",
-          "quote": "by Jc Beall, Michael Glanzberg, Ellie Ripley and Lorenzo Rossi"
-        },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
           "quote": "Rossi, Lorenzo",
-          "where": "metadata DC.creator của bản lưu fall2026"
+          "where": "meta citation_author: Beall, Jc; Glanzberg, Michael; Ripley, Ellie; Rossi, Lorenzo; chân trang Copyright © 2026 by Jc Beall, Michael Glanzberg, Ellie Ripley, Lorenzo Rossi"
+        }
+      ]
+    },
+    {
+      "text": "Tên mục \"Liar Paradox\" và tên đầy đủ Stanford Encyclopedia of Philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "Liar Paradox",
+          "where": "citation_title"
         }
       ]
     }
   ],
-  "result": "sua",
-  "notes": "Thiếu tác giả thứ tư (Rossi), có trong bản lưu fall2026. Mục ghi 'SEP' thay vì tên đầy đủ: nên thống nhất 'Stanford Encyclopedia of Philosophy'. Ba tác giả còn lại đúng."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t05): bản ghi đã đủ bốn tác giả và ghi đầy đủ tên bách khoa."
 }

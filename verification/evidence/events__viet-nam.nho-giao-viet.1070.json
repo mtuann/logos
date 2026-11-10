@@ -1,57 +1,58 @@
 {
   "unit": "events/viet-nam.nho-giao-viet.1070",
-  "hash": "sha256:cc5a7c10253486bd33695fe3c3975a81e3c7b6b375027391f38ff64f8a366e96",
+  "hash": "sha256:4d1121f7cc739561927f4c254d8b04deb4fb34f8c0d5f5aca648b852f9176608",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r08",
+  "checker": "agent-kiem-5.2-t01",
   "claims": [
     {
-      "text": "Năm 1070 dưới Lý Thánh Tông Văn Miếu Thăng Long được làm, đắp tượng Khổng Tử",
+      "text": "Năm 1070 (Thần Vũ năm 2, Canh Tuất) Văn Miếu được làm và đắp tượng Khổng Tử",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {
-          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之三",
-          "quote": "庚戌神武二年〈宋熙寕三年〉春，造紫宸殿。夏四月，旱",
-          "where": "Toàn thư, Bản kỷ quyển 3, Thần Vũ năm 2 (Canh Tuất, 1070)"
-        },
         {
           "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之三",
           "quote": "秋八月，脩文廟，塑孔子、周公及四配像",
-          "where": "cùng năm Canh Tuất"
-        },
-        {
-          "url": "https://www.vjol.info.vn/index.php/VSS/article/view/17489/15516",
-          "quote": "làm Văn Miếu, đắp tượng Khổng Tử, Chu Công và Tứ phối"
+          "where": "Toàn thư, Bản kỷ quyển 3, mục 庚戌神武二年〈宋熙寕三年〉"
         }
       ]
     },
     {
-      "text": "Chữ 脩 trong Toàn thư hiểu được cả 'dựng' lẫn 'tu sửa' (bản dịch tiếng Việt dùng 'làm')",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Quốc Tử Giám ra đời sau đó (1076)",
+      "text": "Việc đó diễn ra dưới thời Lý Thánh Tông",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.vjol.info.vn/index.php/VSS/article/view/17489/15516",
-          "quote": "Năm 1076, vua Lý Nhân Tông cho xây nhà Quốc Tử Giám kề sau Văn Miếu"
-        },
-        {
           "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之三",
-          "quote": "夏四月，赦改元英武昭勝元年。",
-          "where": "Anh Vũ Chiêu Thắng năm 1 (1076), liền sau đó chép 選文職官員識字者入國子監"
+          "quote": "聖宗皇帝",
+          "where": "Bản kỷ quyển 3, mục Lý kỷ; Thần Vũ là niên hiệu của đế này, liền trước Anh Vũ Chiêu Thắng"
         }
       ]
     },
     {
-      "text": "Quốc Tử Giám là 'trường học đầu tiên của nhà nước'",
+      "text": "Toàn thư chép 脩文廟",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之三",
+          "quote": "秋八月，脩文廟",
+          "where": "cùng mục năm Canh Tuất"
+        }
+      ]
+    },
+    {
+      "text": "Quốc Tử Giám — trường học của triều đình — ra đời sau năm 1070",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之三",
+          "quote": "選文職官員識字者入國子監。",
+          "where": "mục 英武昭勝元年 (1076): Toàn thư chép việc chọn quan văn biết chữ vào Quốc Tử Giám"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Văn bản chữ Hán Toàn thư (zh.wikisource) xác nhận năm 1070, chữ 脩文廟, tượng Khổng Tử, và 1076 có chép Quốc Tử Giám. Toàn thư không dùng cụm 'trường đầu tiên của nhà nước' (nguồn đã mở chỉ nói ban đầu dành cho hoàng thái tử); cần nguồn Viện Hán Nôm/Viện Văn học hoặc sửa thành 'một trường học của nhà nước' / 'trường học cao cấp của triều đình'. Việc 脩 hiểu được cả hai nghĩa là chú giải từ vựng, chưa mở được từ điển Hán Nôm đáng tin. Nhãn 'chắc chắn' hợp cho năm 1070 và 1076, chưa hợp cho 'đầu tiên'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t01): câu đã bỏ 'trường học đầu tiên của nhà nước', nay chỉ nói 'trường học của triều đình ra đời sau đó', khớp Toàn thư. Lưu ý: đoạn 1076 chỉ chứng minh Quốc Tử Giám đã có và sau 1070, không nêu ngày thành lập chính xác; câu không nêu năm nên không vấp. Chữ 'Lý Thánh Tông' suy từ tiêu đề mục 聖宗皇帝 và các niên hiệu trong cùng quyển (Thần Vũ). Nhãn chắc chắn hợp. Văn bản chữ Hán là Wikisource (nguồn gốc ghi trên trang), nên đối chiếu thêm bản in nếu có điều kiện."
 }

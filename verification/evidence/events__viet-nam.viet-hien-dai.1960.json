@@ -1,8 +1,8 @@
 {
   "unit": "events/viet-nam.viet-hien-dai.1960",
-  "hash": "sha256:2055a0de11fff09366617ddafeb487560a1941735602c395793c9a4bb5b31f81",
+  "hash": "sha256:145d10ee59371250714921fc8c18015552a7c8da61d1424314f05055912050d3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e07",
+  "checker": "agent-kiem-5.2-t03",
   "claims": [
     {
       "text": "Triết học hiện sinh (Sartre, Camus) được bàn luận ở miền Nam Việt Nam thập niên 1960",
@@ -12,7 +12,7 @@
         {
           "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/existentialism-and-intellectual-culture-in-south-vietnam/FB94AF17BE537CC7FD142DCECFE42F14",
           "quote": "analyzed the relevance of the works of Malraux, Camus, and Sartre to Buddhism",
-          "where": "abstract, Sài Gòn thập niên 1960"
+          "where": "abstract, Sài Gòn thập niên 1960 (giữ từ lượt trước)"
         }
       ]
     },
@@ -24,11 +24,28 @@
         {
           "url": "https://vjol.info.vn/otn/article/view/120830",
           "quote": "triết học hiện sinh đã thâm nhập và tạo ảnh hưởng sâu rộng cả ở bình diện lý luận - phê bình lẫn sáng tác",
-          "where": "abstract"
+          "where": "abstract (giữ từ lượt trước)"
+        }
+      ]
+    },
+    {
+      "text": "Cách nói «sôi nổi nhất trong thập niên 1960» và nhãn co-co-so",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/existentialism-and-intellectual-culture-in-south-vietnam/FB94AF17BE537CC7FD142DCECFE42F14",
+          "quote": "analyzed the relevance of the works of Malraux, Camus, and Sartre to Buddhism",
+          "where": "abstract, Sài Gòn thập niên 1960 (giữ từ lượt trước)"
+        },
+        {
+          "url": "http://www.saimonthidan.com/?c=article&p=22046",
+          "quote": "Trong những năm đầu, từ 1955 đến 1960 số đầu sách dịch kể ra còn thưa thớt.",
+          "where": "Nguyễn Văn Lục, «20 Năm Văn Học Dịch Thuật Miền Nam 1955-1975» (nguồn yếu)"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Phần '1950' của cùng câu chưa kiểm được (xem bản ghi 1950). Riêng mốc 1960 hợp nguồn Cambridge (J. Asian Stud., tóm tắt). Nhãn co-co-so hợp."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t03): giữ các claim dung cũ (Cambridge, VJOL). Phần 'từ cuối thập niên 1950' của cùng câu đã khớp nguồn Nguyễn Văn Lục (xem bản ghi 1950): giới thiệu hiện sinh từ 1957, Camus 1960, trước đó sách dịch còn thưa thớt. Nhãn co-co-so hợp."
 }

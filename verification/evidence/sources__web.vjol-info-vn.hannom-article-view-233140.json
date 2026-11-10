@@ -1,30 +1,18 @@
 {
   "unit": "sources/web.vjol-info-vn.hannom-article-view-233140",
-  "hash": "sha256:d39a0e09a8c6baca14bc4d04bff8c757e49bccb50cb31b02cdbe4b1429574be6",
+  "hash": "sha256:20808ed21c79d945551c965cd19d8178d2322bad9d6943ec19cae1fddc2a6eef",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-g03",
+  "checker": "agent-kiem-5.2-t06",
   "claims": [
     {
-      "text": "URL mở được và trỏ đúng bài “Lược quan hệ thống sách ‘Tiết yếu’ gắn với ‘Bùi thị nguyên bản’”",
+      "text": "URL mở được và trỏ đúng bài \"Lược quan hệ thống sách 'Tiết yếu' gắn với 'Bùi thị nguyên bản'\"",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vjol.info.vn/hannom/article/view/233140",
           "quote": "LƯỢC QUAN HỆ THỐNG SÁCH “TIẾT YẾU” GẮN VỚI “BÙI THỊ NGUYÊN BẢN”",
-          "where": "tiêu đề trang, Tạp chí Hán Nôm"
-        }
-      ]
-    },
-    {
-      "text": "Đăng trong Tạp chí Hán Nôm, số 3, 2024",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://vjol.info.vn/hannom/article/view/233140",
-          "quote": "Số 3 (2024)",
-          "where": "trang bài; meta DC.Source=Tạp chí Hán Nôm, DC.Date.issued=2024-06-15, bài bắt đầu tr. 25 (mục lục số 3 (2024))"
+          "where": "tiêu đề trang, Tạp chí Hán Nôm, Số 3 (2024)"
         }
       ]
     },
@@ -35,38 +23,36 @@
       "sources": [
         {
           "url": "https://vjol.info.vn/hannom/article/download/233140/207085/375225",
-          "quote": "NGUY Ễ N H Ả I ANH",
-          "where": "trang 1 PDF bài, dưới tiêu đề; đầu mỗi trang chẵn lặp lại tên tác giả (lớp chữ PDF bị tách dấu, đọc là NGUYỄN HẢI ANH)"
+          "quote": "NGUYỄN HẢI ANH",
+          "where": "trang 1 PDF, dưới tiêu đề (đọc bằng pdf.js; lớp chữ tách khoảng trắng)"
         }
       ]
     },
     {
-      "text": "Số liên tục (184) của số 3 năm 2024",
+      "text": "Tạp chí Hán Nôm, số 3 (184), 2024",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://vjol.info.vn/hannom/article/download/233140/207085/375225",
-          "quote": "s ố   3   (184) - 2024",
-          "where": "đầu trang 2 PDF: 'TẠP CHÍ HÁN NÔM số 3 (184) - 2024' (lớp chữ PDF bị tách dấu)"
+          "quote": "TẠP CHÍ HÁN NÔM số 3 (184) - 2024",
+          "where": "đầu trang 2 PDF; trang VJOL: Lưu trữ / Số 3 (2024)"
         }
       ]
     },
     {
-      "text": "Bài nói (về) Tứ thư thuyết ước",
+      "text": "Bài có nhắc đến Tứ thư thuyết ước",
       "kind": "dien-giai",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Bài nói về hệ thống sách 'Tiết yếu' gắn với 'Bùi thị nguyên bản' (Tứ thư, Ngũ kinh, Tính lý, Thiếu Vi tiết yếu); Tứ thư thuyết ước của Chu An (1292–1370) chỉ được nhắc ở phần lược sử như một tác phẩm sớm, văn bản còn tàn khuyết. Nên ghi 'có nhắc đến Tứ thư thuyết ước' thay vì '(về Tứ thư thuyết ước)'.",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://vjol.info.vn/hannom/article/download/233140/207085/375225",
-          "quote": "thuyết ước ( 四書說約 )",
-          "where": "trang 3 PDF: 'Đầu tiên phải kể đến Chu An (1292 - 1370) với Tứ thư thuyết ước ( 四書說約 )'; tóm tắt trang 1 liệt kê bốn bộ phận Tứ thư, Ngũ kinh, Tính lý, Thiếu Vi tiết yếu, không có Thuyết ước"
+          "quote": "Chu An (1292-1370) với Tứ thư thuyết ước",
+          "where": "trang 3 PDF, phần lược sử; bài chỉ nhắc, không phải đối tượng chính, nên cách ghi 'có nhắc đến' là đúng"
         }
       ]
     }
   ],
-  "result": "sua",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): tải PDF bài (1 MB, 13 trang) trong cùng origin vjol.info.vn và đọc lớp chữ bằng pdf.js (nạp từ cdnjs). Xác nhận tác giả Nguyễn Hải Anh và số 3 (184) - 2024. Claim 'về Tứ thư thuyết ước' sai mức vừa: bài chỉ nhắc đến tác phẩm này (kèm tên tác giả 'Chu An', tức Chu Văn An) trong phần lịch sử chung, không phải đối tượng chính. Chữ trích có khoảng trắng thừa do lớp chữ PDF; số trang bài 25–37 (13 trang), nên khoảng cách hợp lý với mục lục."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t06): claim đã sửa ('có nhắc đến' thay vì 'về') nay đúng. Chữ trích từ PDF có khoảng trắng bị lớp chữ PDF tách, đã chuẩn hóa khoảng trắng thường. Nguồn tạp chí Việt Nam (nguồn yếu, quyết định 31)."
 }

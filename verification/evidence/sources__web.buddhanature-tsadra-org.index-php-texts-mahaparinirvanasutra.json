@@ -1,39 +1,45 @@
 {
   "unit": "sources/web.buddhanature-tsadra-org.index-php-texts-mahaparinirvanasutra",
-  "hash": "sha256:3362c696be19a52f248f08ce1600c2249c8f686bd86322eac005b1c4073da613",
+  "hash": "sha256:9703a28ac39a8428ea50bed166bf1de27d84cee8f4dea7a9bea08d24b5bad1ea",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s17",
+  "checker": "agent-kiem-5.2-t05",
   "claims": [
     {
-      "text": "URL mở được, là trang kinh Mahāparinirvāṇasūtra, trích Brunnhölzl, When the Clouds Part",
+      "text": "URL mở được, là trang kinh Mahāparinirvāṇasūtra, có mục 'In When the Clouds Part' (Brunnhölzl)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra",
-          "quote": "Description from When the Clouds Part",
-          "where": "(pp. 17-20)"
+          "quote": "In When the Clouds Part",
+          "where": "tiêu đề trang: Mahāparinirvāṇasūtra - Buddha-Nature"
         }
       ]
     },
     {
-      "text": "Brunnhölzl, When the Clouds Part, Snow Lion, 2014",
+      "text": "Brunnhölzl, Karl (2015), When the Clouds Part, Snow Lion",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Brunnhölzl, Karl (2015), When the Clouds Part, Snow Lion (Shambhala), đăng 17/2/2015; hoặc ghi rõ 2014 là năm bản quyền nếu có căn cứ",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://shambhala.com/when-the-clouds-part-3265.html",
-          "quote": "Publication date: February 17, 2015"
-        },
+          "url": "https://www.shambhala.com/products/when-the-clouds-part-the-uttaratantra-and-its-meditative-tradition-as-a-bridge-between-sutra-and-tantra",
+          "quote": "February 17, 2015",
+          "where": "Shambhala Publications, mục Details, ISBN 9781559394178"
+        }
+      ]
+    },
+    {
+      "text": "Trang nói về Phật tính (tathāgatagarbha) trong kinh Đại Bát Niết-bàn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
         {
-          "url": "https://www.schweitzer-online.de/en/buch/When-Clouds-Part/9781559394178/A23015432/",
-          "quote": "Snow Lion Publications; 2015"
+          "url": "https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra",
+          "quote": "main scriptural basis for the discussion of tathāgatagarbha in China"
         }
       ]
     }
   ],
-  "result": "sua",
-  "notes": "Trang Tsadra không ghi chi tiết xuất bản. Hai trang nhà xuất bản/bán sách đều cho 2015; nếu 2014 lấy từ trang bản quyền, người làm xác minh lại. Cả hai cách ghi (text, texts_seen) cùng dùng 2014."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t05): năm 2015 đúng. Trang Shambhala ghi nhà xuất bản Shambhala Publications, không nêu tên imprint Snow Lion (Snow Lion là imprint của Shambhala; cách ghi 'Snow Lion' chấp nhận). Nguồn là trang tổng hợp trích dẫn của Tsadra, nguồn yếu."
 }

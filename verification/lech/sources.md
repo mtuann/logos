@@ -6,7 +6,7 @@ Sinh bằng `python tools/kb_sources.py`. Đầu vào cho đợt 5: không sửa
 - Theo loại: cbeta 3, ctext 23, doi 54, gutenberg 53, iep 36, khac 75, sach 219, sep 179, wikisource 37.
 - 233 mục không có URL (sách in, hoặc thiếu link).
 
-## Cùng một nguồn, chữ khác nhau (91)
+## Cùng một nguồn, chữ khác nhau (92)
 
 Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau: thống nhất ở đợt 5.
 
@@ -39,6 +39,7 @@ Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau:
 - `gutenberg.5827` (3 cách ghi; dùng ở `bat-dau/index.md#nguon`, `cau-hoi/chan-ly.md#nguon`, `people/russell`)
 - `gutenberg.59` (2 cách ghi; dùng ở `doc/descartes-suy-niem.md#nguon`, `people/descartes`)
 - `gutenberg.6762` (3 cách ghi; dùng ở `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `people/aristotle`, `people/thales`)
+- `gutenberg.7370` (2 cách ghi; dùng ở `cau-hoi/khe-uoc-xa-hoi.md#nguon`, `cau-hoi/tai-san-rieng.md#nguon`, `people/locke`)
 - `gutenberg.9662` (5 cách ghi; dùng ở `cau-hoi/tu-do-y-chi.md#nguon`, `cong-cu/quy-nap.md#nguon`, `doc/hume-nhan-qua.md#nguon`, `people/descartes`, `people/hume`)
 - `iep.fallacy` (2 cách ghi; dùng ở `cong-cu/nguy-bien-hinh-thuc.md#nguon`, `cong-cu/nguy-bien.md#nguon`, `cong-cu/suy-dien.md#nguon`)
 - `iep.marcus` (2 cách ghi; dùng ở `doc/aurelius-suy-tuong.md#nguon`, `people/marcus-aurelius`)

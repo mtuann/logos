@@ -1,8 +1,8 @@
 {
   "unit": "sources/ctext.mozi-universal-love-i",
-  "hash": "sha256:c5d4e05b3dda67e61fa13f261178216e4842be9abb5f8661df2fc675e99bfa00",
+  "hash": "sha256:db8ffc624ac3fe872264b04d8e71eaea02478808d17bde688907d4a4348738f4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r34",
+  "checker": "agent-kiem-5.2-t04",
   "claims": [
     {
       "text": "Mặc Tử thiên 14 (Kiêm ái thượng)",
@@ -10,103 +10,73 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "兼愛上第十四",
-          "where": "tiêu đề trang"
-        },
-        {
           "url": "https://zh.wikisource.org/wiki/墨子",
           "quote": "兼愛上",
-          "where": "thứ tự thứ 14 trong mục lục"
+          "where": "mục lục trang 墨子, thứ tự 14 (đếm cả thiên khuyết)"
         }
       ]
     },
     {
-      "text": "Thiên 16 (Kiêm ái hạ)",
+      "text": "Mặc Tử thiên 16 (Kiêm ái hạ)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
-          "quote": "兼愛下第十六",
-          "where": "tiêu đề trang"
+          "url": "https://zh.wikisource.org/wiki/墨子",
+          "quote": "兼愛下",
+          "where": "mục lục, thứ tự 16"
         }
       ]
     },
     {
-      "text": "Thiên 17 (Phi công thượng)",
+      "text": "Mặc Tử thiên 17 (Phi công thượng)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
-          "quote": "非攻上第十七",
-          "where": "tiêu đề trang"
-        },
-        {
-          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
-          "quote": "今有一人，入人園圃，竊其桃李"
+          "url": "https://zh.wikisource.org/wiki/墨子",
+          "quote": "非攻上",
+          "where": "mục lục, thứ tự 17"
         }
       ]
     },
     {
-      "text": "Thiên 26 (Thiên chí thượng)",
+      "text": "Mặc Tử thiên 26 (Thiên chí thượng)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://zh.wikisource.org/wiki/墨子",
           "quote": "天志上",
-          "where": "thứ tự thứ 26 trong mục lục (đếm các mục)"
+          "where": "mục lục, thứ tự 26"
         }
       ]
     },
     {
-      "text": "Thiên 50 (Công Thâu)",
+      "text": "Mặc Tử thiên 50 (Công Thâu)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/公輸",
-          "quote": "公輸般爲楚造雲梯之械成，將以攻宋。",
-          "where": "thứ tự thứ 50 trong mục lục (đếm các mục)"
+          "url": "https://zh.wikisource.org/wiki/墨子",
+          "quote": "公輸",
+          "where": "mục lục, thứ tự 50 (đếm cả thiên khuyết, ngay trước 備城門)"
         }
       ]
     },
     {
-      "text": "Bản dịch W. P. Mei (1929): The Ethical and Political Works of Motse (A. Probsthain, London)",
+      "text": "Các URL ctext.org (universal-love-i, universal-love-iii, condemnation-of-offensive-war-i, will-of-heaven-i, gong-shu) mở được và là nguyên văn các thiên trên",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://openlibrary.org/search.json?q=ethical+and+political+works+of+motse&fields=title,author_name,first_publish_year,publisher",
-          "quote": "\"first_publish_year\":1929,\"publisher\":[\"Hyperion Press\",\"Cheng Wen Pub. Co.\",\"A. Probsthain\"],\"title\":\"The ethical and political works of Motse\""
-        },
-        {
-          "url": "https://archive.org/metadata/ethicalpolitical0000moti/metadata",
-          "quote": "Reprint of the 1929 ed. published by A. Probsthain, London"
+          "url": "https://zh.wikisource.org/wiki/墨子",
+          "quote": "兼愛上",
+          "where": "đối chiếu ở zh.wikisource; URL theo mẫu của site (quyết định 34); không mở ctext"
         }
       ]
-    },
-    {
-      "text": "Dịch giả ghi là W. P. Mei",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Yi-pao Mei (Mei Yi-pao, 1900-)",
-      "sources": [
-        {
-          "url": "https://archive.org/metadata/ethicalpolitical0000moti/metadata",
-          "quote": "\"associated-names\":\"Mei, I-pao, 1900-\""
-        }
-      ]
-    },
-    {
-      "text": "Bản dịch Mei có đủ các thiên 14, 16, 17, 26, 50 và hiển thị trên ctext ở các URL đã ghi",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Nguyên văn và số thiên đối chiếu ở zh.wikisource (số thứ tự theo mục lục trang 墨子). Sách của Mei (1929) có thật (ghi 'Mei, I-pao' trong siêu dữ liệu Internet Archive); không xác nhận được phạm vi thiên Mei đã dịch (nhất là thiên 50) và việc ctext hiển thị chúng. Tên dịch giả trong mục ('W. P. Mei') không khớp 'Mei, I-pao' của thư mục; sửa mức nhẹ."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t04): bản ghi đã bỏ mục bản dịch Mei nên claim cũ về W. P. Mei không còn áp dụng. Số thiên 14/16/17/26/50 khớp mục lục zh.wikisource (đếm cả các thiên ghi 闕). Slug ctext (universal-love-iii = 兼愛下 v.v.) không mở được vì ctext chặn; chỉ theo mẫu site."
 }

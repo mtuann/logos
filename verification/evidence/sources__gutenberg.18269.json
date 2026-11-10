@@ -1,36 +1,30 @@
 {
   "unit": "sources/gutenberg.18269",
-  "hash": "sha256:552703f1aca2342817fde004049811e4bf055e2b0688f7f942124f34268dd981",
+  "hash": "sha256:58050fc2b1fe8b8312efa156608b3ab7a29105ad4c709e518af62e7096bd10d3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r26",
+  "checker": "agent-kiem-5.2-u01",
   "claims": [
     {
-      "text": "Ebook 18269 là Pensées của Blaise Pascal",
+      "text": "Ebook 18269 là Pascal, Pensées, có lời giới thiệu của T. S. Eliot",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
-          "quote": "PASCAL'S PENSÉES INTRODUCTION BY T. S. ELIOT"
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt",
+          "quote": "Title: Pascal's Pensées Author: Blaise Pascal Author of introduction, etc.: T. S. Eliot"
         }
       ]
     },
     {
-      "text": "Pensées xuất bản 1670 (sau khi tác giả mất)",
+      "text": "Bản in của E. P. Dutton, 1958",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/18269",
-          "quote": "Published posthumously in 1670",
-          "where": "summary tự sinh (nguồn yếu), từ lượt trước"
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt",
+          "quote": "Published 1958 by E. P. Dutton & Co., Inc."
         }
       ]
-    },
-    {
-      "text": "Bản dịch W. F. Trotter, 1910",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     },
     {
       "text": "Các đoạn 466–467 bàn về Epictetus",
@@ -38,17 +32,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt",
           "quote": "Had Epictetus seen the way perfectly, he would have said to men",
-          "where": "đoạn 466 và 467 trong ebook; mục lục chủ đề cũng ghi 'Epictetus, 80, 466, 467'"
+          "where": "đoạn 466"
         },
         {
-          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269-images.html",
-          "quote": "The reason of effects.—Epictetus"
+          "url": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt",
+          "quote": "The reason of effects.--Epictetus.",
+          "where": "đoạn 467"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch W. F. Trotter (cho đúng bản Dutton 1958 này)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Pascal's+Pensées+Eliot+Dutton+1958+Trotter",
+          "quote": "trans . W. F. Trotter , with Intro . by T. S. Eliot ( New York : Dutton , 1958 )",
+          "where": "đoạn chú thích trong Paul Samuel Lifton, Thornton Wilder and \"World Theatre\" (1985), kết quả Google Books; Hadjiyiannis 2018 và Jankélévitch 2005 cũng dẫn 'trans . W. F. Trotter ... ( New York : Dutton , 1958 )'"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): đoạn 466–467 đúng (ebook đánh số này). Chưa xác nhận 'Trotter, 1910': văn bản và đầu trang ebook không nêu dịch giả/năm dịch (chỉ 'Published 1958 by E. P. Dutton & Co., Inc.', lời giới thiệu T. S. Eliot). Archive.org (advancedsearch) chỉ cho thấy W. F. Trotter dịch Pensées (Modern Library 1941), không thấy năm 1910; Open Library có 'Pensées, Pascal/W. F. Trotter, J.M. Dent' nhưng không ghi 1910. Đề xuất người làm ghi 'bản dịch tiếng Anh (Dutton, 1958, giới thiệu T. S. Eliot)' hoặc tự xác nhận năm Trotter ở Internet Archive."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): giữ các claim dung cũ; vế dịch giả Trotter nay có nguồn: nhiều sách học thuật (Google Books) dẫn đúng bản Dutton 1958 là 'Pascal's Pensées, trans. W. F. Trotter, intro. T. S. Eliot'; Google Books cũng liệt kê bản gốc 'Translated by W.F. Trotter. [With an Introduction by T.S. Eliot.]' (1931). Trang ebook Gutenberg không nêu tên dịch giả (chỉ Eliot là 'Author of introduction'); mối nối Gutenberg = bản Trotter dựa vào dòng 'Published 1958 by E. P. Dutton' ở claim cũ và chú thích học thuật. Nguồn Google Books là đoạn trích (không phải bìa sách); nếu muốn chắc hơn nên dẫn trang tên bản scan (archive.org pascalspenses00pasc bị hạn chế mượn)."
 }

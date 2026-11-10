@@ -1,41 +1,58 @@
 {
   "unit": "sources/sach.vien-van-hoc-tho-van-lytran-tap-ii-quyen-thuong-ha-noi-nxb-k",
-  "hash": "sha256:11320c14defd360fa58d28d8c7909c57f6360cbd7087fe967c5fa18703aafdec",
+  "hash": "sha256:2b497839935c35d712498053ab608968f51bc58562d3058b106021ebaf82ff5a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r23",
+  "checker": "agent-kiem-5.2-u02",
   "claims": [
     {
-      "text": "Thơ văn Lý–Trần, tập II, quyển thượng, NXB Khoa học xã hội, Hà Nội, do Viện Văn học",
+      "text": "Thơ văn Lý–Trần, tập II, quyển thượng, Hà Nội: NXB Khoa học xã hội, do Viện Văn học",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://opac.hnue.edu.vn/Detail.aspx?id=13292",
-          "quote": "Thơ văn Lý Trần : T.2 Quyển thượng / Nguyễn Huệ Chi, Đỗ Văn Hỷ, Trần Thị Băng Thanh...; Cb.: Nguyễn Huệ Chi",
-          "where": "Thư viện ĐHSP Hà Nội (trích trong kết quả tìm kiếm); Nhà Xuất Bản: KHXH"
+          "url": "https://openlibrary.org/works/OL45441335W/editions.json",
+          "quote": "Thơ văn Lý-Trần",
+          "where": "Open Library (bằng chứng lượt trước): publishers Khoa Học Xã Hội; by_statement Viện Văn học; Hà-nội"
         }
       ]
     },
     {
-      "text": "Năm xuất bản 1989",
+      "text": "Năm xuất bản 1988",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "1988 (các bản ghi thư mục ghi 1988; nếu muốn giữ 1989 thì cần nguồn riêng)",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://openlibrary.org/works/OL45441335W/editions.json",
-          "quote": "publish_date: 1988; pg 966; by_statement: Viện Văn học ; chủ biên, Nguyễn Huệ Chi",
-          "where": "Open Library, OL61916105M; OPAC HNUE cũng ghi 'Năm Xuất Bản: 1988'; Thi Viện: 'tập II ... 1988'"
+          "url": "https://openlibrary.org/search.json?q=Tho+van+Ly+Tran+tap+II",
+          "quote": "\"first_publish_year\":1988",
+          "where": "Open Library (bằng chứng lượt trước)"
         }
       ]
     },
     {
-      "text": "Phần Tuệ Trung Thượng Sĩ nằm trong tập II quyển thượng (chưa mở nguồn có mục lục)",
+      "text": "Cách trích dẫn 'tập 2, quyển thượng, Nxb KHXH, HN, 1988' có ở công trình học thuật khác",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Th%C6%A1+v%C4%83n+L%C3%BD+Tr%E1%BA%A7n+t%E1%BA%ADp+II",
+          "quote": "Viện Văn học , Thơ văn Lý - Trần , tập 2 , quyển thượng , Nxb KHXH , HN , 1988 , tr.458",
+          "where": "Google Books Data API, mục '越南研究（2019年第2期．总第2期）' (Nguyễn Công Lý); nguồn thứ cấp"
+        }
+      ]
+    },
+    {
+      "text": "Phần thơ văn Tuệ Trung Thượng Sĩ nằm trong tập II (quyển thượng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Th%C6%A1+v%C4%83n+L%C3%BD+Tr%E1%BA%A7n+t%E1%BA%ADp+II",
+          "quote": "văn Lý - Trần , tập II , quyển thượng , sđd",
+          "where": "Google Books Data API, mục 'Danh nhân Hà Nội' (trích thơ Tuệ Trung thượng sĩ); và mục 'Triết học Phật giáo Việt Nam' (Nguyễn Duy Hinh): 'Thơ văn Lý - Trần . Tập II.Sđd , tr . 223-351 . Thượng sĩ ngữ lục'; nguồn thứ cấp, chưa thấy mục lục sách"
+        }
+      ]
     }
   ],
-  "result": "sua",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Mâu thuẫn: ba nguồn thư mục (Open Library, OPAC ĐHSP Hà Nội, Thi Viện) ghi 1988; một tệp Scribd chỉ có tên 'Thơ văn Lý Trần t1 t2 1989' (không dùng làm nguồn). Có thể 1989 là năm in lại hay quyển hạ; người làm cần kiểm bản in."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u02): nguồn yếu (thư mục Open Library + trích dẫn thứ cấp trong sách/tạp chí qua Google Books Data API); chưa mở được mục lục chính sách. Claim vị trí Tuệ Trung trong quyển thượng dựa trên hai trích dẫn thứ cấp nhất quán, người làm nên xác nhận bằng mục lục nếu có thể. Một nguồn thứ cấp khác ghi 'NXB KHXH, 1989' cho tập II (có thể là năm tái bản) — 1988 được nhiều trích dẫn ủng hộ hơn."
 }

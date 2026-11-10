@@ -1,44 +1,50 @@
 {
   "unit": "events/viet-nam.truc-lam.1993",
-  "hash": "sha256:579a229aa23153b3cef77b8fa9c4fe5619c3d5e236472f8cf8985d7f3db4ebe7",
+  "hash": "sha256:c649e0a98112ff55503e33e07ec61ec7b32d3e71157afa7787904e32f0770127",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r10",
+  "checker": "agent-kiem-5.2-t02",
   "claims": [
     {
-      "text": "Nguyễn Tài Thư (chủ biên), Lịch sử tư tưởng Việt Nam, tập 1, NXB Khoa học xã hội, 1993",
+      "text": "Nguyễn Tài Thư là chủ biên Lịch sử tư tưởng Việt Nam, tập 1",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "http://lib.isvnu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=3747",
           "quote": "Lịch sử tư tưởng Việt Nam. Tập 1 / Cb. : Nguyễn Tài Thư",
-          "where": "biểu ghi thư viện; «Hà Nội : KHXH, 1993», 496 tr"
-        },
-        {
-          "url": "https://dc2.philarchive.org/rec/NGULST-5",
-          "quote": "Khoa học xã hội (Hà Nội)",
-          "where": "1993"
+          "where": "biểu ghi thư viện Quốc tế, ĐHQGHN"
         }
       ]
     },
     {
-      "text": "Cụm công trình «Lịch sử tư tưởng Việt Nam» được Giải thưởng Nhà nước về khoa học và công nghệ (năm 2016)",
+      "text": "Do NXB Khoa học xã hội (Hà Nội) xuất bản năm 1993",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://lib.isvnu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=3747",
+          "quote": "Publication details: Hà Nội : KHXH, 1993"
+        }
+      ]
+    },
+    {
+      "text": "Nguyễn Tài Thư và các cộng sự được Giải thưởng Nhà nước về khoa học và công nghệ (đợt 5, năm 2016) cho cụm công trình có Lịch sử tư tưởng Việt Nam",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://dantri.com.vn/khoa-hoc/16-cong-trinh-nhan-giai-thuong-ho-chi-minh-giai-thuong-nha-nuoc-ve-khcn-20170116052222193.htm",
-          "quote": "Cụm công trình: Lịch sử tư tưởng Việt Nam",
-          "where": "danh sách công trình nhận Giải thưởng Nhà nước về KH&CN; cùng trang: «năm 2016 là đợt xét tặng thứ 5»"
+          "quote": "7. Cụm công trình: Lịch sử tư tưởng Việt Nam",
+          "where": "mục 'Danh sách 7 công trình/cụm công trình được trao tặng Giải thưởng Nhà nước'; tác giả GS.TS. Nguyễn Tài Thư, Minh Chi, Lý Kim Hoa, Hà Thúc Minh, Hà Văn Tấn, Phan Đại Doãn, Nguyễn Đức Sự (nguồn yếu: báo)"
+        },
+        {
+          "url": "https://dantri.com.vn/khoa-hoc/16-cong-trinh-nhan-giai-thuong-ho-chi-minh-giai-thuong-nha-nuoc-ve-khcn-20170116052222193.htm",
+          "quote": "năm 2016 là đợt xét tặng thứ 5",
+          "where": "cùng trang"
         }
       ]
-    },
-    {
-      "text": "Công trình của Viện Triết học",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): chủ biên, tập 1, NXB, năm 1993 khớp biểu ghi thư viện lib.isvnu.vn và PhilArchive. Giải thưởng: Dân trí (nguồn yếu, 16/1/2017) nêu cụm công trình «Lịch sử tư tưởng Việt Nam» (Nguyễn Tài Thư và các tác giả) trong số 7 công trình nhận Giải thưởng Nhà nước về KH&CN đợt 5 năm 2016 (quyết định của Chủ tịch nước; lễ trao tháng 1/2017). Lưu ý: giải trao cho CỤM 4 công trình (Nho học và Nho học ở Việt Nam; Vấn đề con người trong Nho học sơ kỳ; Lịch sử Phật giáo Việt Nam; Lịch sử tư tưởng Việt Nam), không riêng tập 1 — câu «thuộc cụm công trình … được Giải thưởng» hợp. Vế «công trình của Viện Triết học» không nguồn mở được nào nói (biểu ghi thư viện, PhilArchive, trang VASS không nêu cơ quan chủ trì); đề xuất sửa «do Nguyễn Tài Thư chủ biên» hoặc dẫn trang Viện Triết học/Quyết định của Chủ tịch nước. Nên thay nguồn yếu bằng thông báo của Bộ KH&CN hoặc quyết định Chủ tịch nước."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t02): câu mới đã bỏ vế 'Viện Triết học' và nói đúng 'cụm công trình của Nguyễn Tài Thư và các cộng sự'; các claim khớp nguồn. Giải thưởng trao cho cụm 4 công trình (Nho học..., Vấn đề con người trong Nho học sơ kỳ, Lịch sử Phật giáo Việt Nam, Lịch sử tư tưởng Việt Nam), câu của bài dùng 'cụm công trình' nên đúng. Nguồn giải thưởng là báo Dân trí (nguồn yếu); nên thay bằng quyết định Chủ tịch nước/Bộ KH&CN nếu tìm được. PhilArchive (dc2.philarchive.org) hôm nay trả 403 Cloudflare nên không dùng lại; năm/NXB đã khớp biểu ghi thư viện."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "sources/sach.popper-karl-the-logic-of-scientific-discovery-london-routled",
-  "hash": "sha256:16d98cc1e727ea90ea0aa7660ea5896db92f7a088f4c8e5457f2eeaf8d6c77b5",
+  "hash": "sha256:2dd24b23acf3e905b977d9d015d2f06588062f30eb502587ff2f430a97928d9e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r20",
+  "checker": "agent-kiem-5.2-t05",
   "claims": [
     {
       "text": "The Logic of Scientific Discovery, London: Routledge Classics, 2002",
@@ -10,35 +10,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
-          "quote": "( Routledge Classics . ) London : Routledge",
-          "where": "đoạn trích Google Books của Pelkey 2011, trích bản Popper dịch J. và L. Freed"
-        },
-        {
-          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
-          "quote": "The Logic of Scientific Discovery",
-          "where": "mục Google Books, Karl Raimund Popper, 2002"
+          "url": "https://openlibrary.org/works/OL262211W/editions.json?limit=80",
+          "quote": "\"publish_date\":\"2002\"",
+          "where": "Open Library, ấn bản 'The Logic of Scientific Discovery', publishers Routledge Classics, ISBN 9780415278447 (một ấn bản khác: Routledge, Routledge Classics, 29/3/2002)"
         }
       ]
     },
     {
-      "text": "Bản dịch của Logik der Forschung, Vienna: Julius Springer, 1934",
+      "text": "Bản tiếng Anh của Logik der Forschung, 1934",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
-          "quote": "Logik der Forschung . Vienna : Verlag von Julius Springer",
-          "where": "Pelkey 2011"
+          "url": "https://www.google.com/books/feeds/volumes?q=Popper+%22Logik+der+Forschung%22+1934+Springer+Vienna",
+          "quote": "Logik der Forschung erschien im Herbst 1934 ( mit der Jahresangabe 1935 ) im Verlag von Julius Springer in Wien",
+          "where": "đoạn trích Google Books"
         }
       ]
-    },
-    {
-      "text": "Các vị trí 'Lời người dịch' và §1, §4, §6, §11, §20 (chưa mở được văn bản)",
-      "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): bản Routledge Classics 2002 xác nhận gián tiếp qua trích dẫn thứ cấp; trang Routledge lượt trước chỉ ghi 2002, 2nd Edition. Các § chưa đối chiếu. Link đề xuất: https://www.routledge.com/The-Logic-of-Scientific-Discovery/Popper/p/book/9780415278447"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t05): bản ghi nay không còn các § (đã bỏ khỏi claim). Open Library ghi bản Springer là 1935 vì ghi theo năm in trên sách; sách ra mắt cuối 1934 (đề năm 1935), cách ghi 1934 chấp nhận được. Link đề xuất: https://www.routledge.com/The-Logic-of-Scientific-Discovery/Popper/p/book/9780415278447"
 }

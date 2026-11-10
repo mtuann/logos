@@ -1,55 +1,42 @@
 {
   "unit": "quotes/nguyen-trai.binh-ngo-dai-cao",
-  "hash": "sha256:f3ee7dee18ae44b17d6755603a3b34c66133ff4803bd0af66bca76f987b09e9f",
+  "hash": "sha256:21922a7c73d1b6973864ddd09bac2176f45f3cb94d207ac672a3fe789b0bb5ff",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r04",
+  "checker": "agent-kiem-5.2-t03",
   "claims": [
     {
-      "text": "Tác giả và tác phẩm: Nguyễn Trãi, Bình Ngô đại cáo",
+      "text": "Tác giả và tác phẩm: Nguyễn Trãi, Bình Ngô đại cáo, 1428",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/平吳大誥",
-          "quote": "阮廌 (後黎朝)",
-          "where": "đầu trang 平吳大誥"
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
+          "quote": "Bình Ngô đại cáo (1428) là bài cáo của Nguyễn Trãi viết thay lời Bình Định vương Lê Lợi",
+          "where": "đầu trang vi.wikisource (trích Wikipedia; nguồn yếu cho năm — xem notes)"
         }
       ]
     },
     {
-      "text": "Nguyên văn Hán: 仁義之舉要在安民 / 弔伐之師莫先去暴",
+      "text": "Nguyên văn Hán: 仁義之舉要在安民 / 弔伐之師莫先去暴 (chữ 弔)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/平吳大誥",
-          "quote": "蓋聞仁義之舉，要在安民，吊伐之師，莫先去暴。",
-          "where": "câu mở đầu"
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
+          "quote": "仁 義 之 舉，要 在 安 民 ， 弔 伐 之 師，莫 先 去 暴 。",
+          "where": "Nguyên văn Hán, theo Hoàng Việt văn tuyển (Bùi Huy Bích, 1825); văn bản in 弔, khớp bản ghi"
         }
       ]
     },
     {
-      "text": "Chữ 弔 trong bản ghi so với 吊 trên Wikisource",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Ghi chú rằng Wikisource in dị thể 吊 (弔 và 吊 cùng chữ); có thể giữ 弔.",
-      "sources": [
-        {
-          "url": "https://zh.wikisource.org/wiki/平吳大誥",
-          "quote": "吊伐之師，莫先去暴"
-        }
-      ]
-    },
-    {
-      "text": "Câu dịch: Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo",
+      "text": "Câu dịch: Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo — là bản dịch Ngô Tất Tố (theo vi.wikisource)",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vjol.info.vn/phil/article/download/129787/106531/",
-          "quote": "việc nhân nghĩa cốt ở yên dân",
-          "where": "mục 2.1, Ngô Quang Huy, Tạp chí Triết học 3 (399) 2025; dẫn bản Viện Sử học 1976 (nguồn thứ cấp, ghi 'an dân' ở câu dẫn đầu)"
+          "url": "https://vi.wikisource.org/w/index.php?search=%22quân+điếu+phạt+trước+lo+trừ+bạo%22&ns0=1&ns104=1&fulltext=1",
+          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo.",
+          "where": "kết quả tìm kiếm: trang 'Bình Ngô đại cáo (Ngô Tất Tố dịch)'"
         }
       ]
     },
@@ -59,23 +46,21 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vi.wikisource.org/w/index.php?search=%22%C4%91i%E1%BA%BFu+ph%E1%BA%A1t+ch%E1%BB%89+v%C3%AC+kh%E1%BB%AD+b%E1%BA%A1o%22&ns0=1&ns104=1",
+          "url": "https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV",
           "quote": "Việc nhân-nghĩa cốt ở yên dân, quân điếu phạt chỉ vì khử bạo.",
-          "where": "vi.wikisource: Bình Ngô đại cáo (Trần Trọng Kim dịch), 1920; cũng trong Việt Nam sử lược, Quyển I, Phần III, Chương XIV"
+          "where": "Việt Nam sử lược, Quyển I, Phần III, Chương XIV (kết quả tìm kiếm vi.wikisource; trang 'Bình Ngô đại cáo (Trần Trọng Kim dịch)' cũng có chữ này)"
         }
       ]
     },
     {
-      "text": "Năm viết Bình Ngô đại cáo là 1428",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Ghi: soạn tháng Chạp năm Đinh Mùi (tháng 12 âm lịch 1427), tức đầu năm 1428 dương lịch; 1428 là cách ghi thông dụng.",
+      "text": "Nhận định 'nhân nghĩa cốt ở yên dân' là tiêu chuẩn chính trị của Nguyễn Trãi (đoạn mở đầu bài cáo)",
+      "kind": "dien-giai",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
-          "quote": "《平吳大誥》是1427年農曆十二月",
-          "where": "lời giới thiệu trang zh.wikisource (nguồn yếu cho ngày tháng; chưa mở Toàn thư)"
+          "url": "https://zh.wikisource.org/wiki/平吳大誥",
+          "quote": "蓋聞仁義之舉，要在安民",
+          "where": "câu mở đầu"
         }
       ]
     },
@@ -85,13 +70,13 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/平吳大誥",
-          "quote": "蓋聞仁義之舉",
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
+          "quote": "蓋 聞﹕ 仁 義 之 舉，要 在 安 民 ，",
           "where": "câu mở đầu văn bản"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): câu dịch Trần Trọng Kim (1920) 'quân điếu phạt chỉ vì khử bạo' xác nhận trên vi.wikisource (kết quả tìm kiếm trích đoạn từ trang 'Bình Ngô đại cáo (Trần Trọng Kim dịch)'; nên mở trực tiếp trang đó làm URL). Năm: Wikisource ghi 1427 âm lịch tháng 12 = đầu 1428 dương lịch; chưa có nguồn in sẵn '1428' (việc quy đổi lịch là của tôi, nên nêu rõ trong bài). Chữ 吊/弔 và các claim đã dung lượt trước giữ nguyên; 'sách giáo khoa' (tiêu đề) vẫn chưa xác nhận cụ thể sách nào."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t03): nguyên văn Hán in 弔 trên vi.wikisource (Hoàng Việt văn tuyển 1825) nên claim 弔/吊 cũ không còn (zh.wikisource in dị thể 吊). Bản dịch Ngô Tất Tố xác nhận qua trang 'Bình Ngô đại cáo (Ngô Tất Tố dịch)' trên vi.wikisource (đề xuất dùng URL trang này trong bài). URL 'Trần Trọng Kim dịch' đúng là .../Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch); đường dẫn '(bản dịch của Trần Trọng Kim)' là 404. Năm 1428: vi.wikisource ghi (1428); bản soạn ở tháng Chạp Đinh Mùi (đầu 1428 dương lịch) — cách ghi 1428 thông dụng, không sai. Chưa kiểm 'Hán–Việt/ngày tháng' qua Toàn thư."
 }

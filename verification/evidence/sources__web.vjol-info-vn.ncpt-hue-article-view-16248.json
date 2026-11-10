@@ -1,8 +1,8 @@
 {
   "unit": "sources/web.vjol-info-vn.ncpt-hue-article-view-16248",
-  "hash": "sha256:8ac36c8d1236c9caa946d755ff798d82b3868561782f3719cc005efb1de19d0f",
+  "hash": "sha256:4e62215c2bb7b3c98655662ef78ff606aee1c550c0711155f142f042dcabbf2d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r31",
+  "checker": "agent-kiem-5.2-u02",
   "claims": [
     {
       "text": "URL mở được và trỏ đúng bài “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”",
@@ -10,9 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vjol.info.vn/ncpt-hue/article/view/16248",
+          "url": "https://vjol.info.vn/ncpt-hue/en/article/view/16248",
           "quote": "Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý-Trần",
-          "where": "tiêu đề trang (kèm tiêu đề tiếng Anh)"
+          "where": "tiêu đề trang (gạch nối ngắn trên trang)"
         }
       ]
     },
@@ -22,9 +22,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vjol.info.vn/ncpt-hue/article/view/16248",
+          "url": "https://vjol.info.vn/ncpt-hue/en/article/view/16248",
           "quote": "Nguyễn Huệ Chi",
-          "where": "mục Authors; meta citation_author=Nguyễn Huệ Chi"
+          "where": "mục Authors; meta citation_author"
         }
       ]
     },
@@ -34,30 +34,39 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vjol.info.vn/ncpt-hue/en/issue/view/1767",
+          "url": "https://vjol.info.vn/ncpt-hue/en/article/view/16248",
           "quote": "No. 3-4 (2014)",
-          "where": "mục lục số; Published 2014-07-21; meta citation_journal_title=Tạp chí Nghiên cứu và Phát triển"
+          "where": "Archives/breadcrumb; citation_journal_title=Tạp chí Nghiên cứu và Phát triển; citation_date 2014/07/21"
         }
       ]
     },
     {
-      "text": "Bài bắt đầu ở tr. 169 (texts_seen: tr. 169–190)",
+      "text": "Bài bắt đầu ở tr. 169",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vjol.info.vn/ncpt-hue/en/issue/view/1767",
-          "quote": "Nguyễn Huệ Chi 169",
-          "where": "mục lục số 3-4 (2014): bài bắt đầu tr. 169, bài kế tiếp bắt đầu tr. 192, hợp với tr. 169–190/191; trang cuối chính xác chưa thấy trực tiếp"
+          "url": "https://vjol.info.vn/ncpt-hue/en/article/download/16248/14546/55968",
+          "quote": "169 Taïp chí Nghieân cöùu vaø Phaùt trieån, soá 3-4 (110-111)",
+          "where": "PDF trang 1 (đầu trang in số 169; chữ trích nguyên văn theo mã hóa phông cũ của PDF); meta citation_firstpage=169"
         }
       ]
     },
     {
-      "text": "Số liên tục (110–111) của số 3–4 năm 2014",
+      "text": "Bài kết thúc ở tr. 190 (tr. 169–190)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "tr. 169–191 (hoặc bỏ số trang theo quyết định 35)",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/en/article/download/16248/14546/55968",
+          "quote": "191 Taïp chí Nghieân cöùu vaø Phaùt trieån, soá 3-4 (110-111)",
+          "where": "PDF 23 trang; trang PDF thứ 23 là tr. 191, còn nội dung bài (tiếp câu về 'Nhâm Tý/Nhâm Thìn') rồi tóm tắt tiếng Anh; trang PDF 22 là tr. 190, bài chưa hết"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r31): chỉ claim 'số liên tục (110–111)' chưa kiểm được: trang VJOL chỉ ghi 'No. 3-4 (2014)', không ghi số tổng. Trang cuối 190 chỉ suy từ mục lục (bài sau bắt đầu tr. 192), cần xem PDF để chắc. Hai cách ghi (có/không 'tr. 169–190') không mâu thuẫn; nên thống nhất ghi có trang. Tên bài trên trang dùng gạch nối ngắn 'Lý-Trần', mục ghi gạch nửa 'Lý–Trần' (khác typographic, nhẹ)."
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u02): đọc PDF của bài (pdf.js trên vjol.info.vn, 23 trang): in tr. 169 đến tr. 191, bài chạy sang cả tr. 191. Dòng nguồn ghi 'tr. 169–190' sai trang cuối; nên sửa 'tr. 169–191' hoặc bỏ số trang. Số liên tục '(110-111)' in ở đầu trang PDF, nên số 3–4 là số 110–111. VJOL là nguồn tạp chí điện tử Việt Nam (nguồn yếu theo QĐ 31). Trang web ghi citation_lastpage=169 (metadata sai/chỉ trang đầu)."
 }
