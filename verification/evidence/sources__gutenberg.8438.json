@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.8438",
   "hash": "sha256:deacb81b5d3a1c44f5ac03e7bd741d0b6782ec93c9b022b33b7b2e9182caa78a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r27",
+  "checker": "agent-kiem-5.2-g01",
   "claims": [
     {
       "text": "Ebook #8438 là Aristotle, The Nicomachean Ethics",
@@ -18,9 +18,21 @@
     {
       "text": "Bản dịch D. P. Chase",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/nicomacheanethic0000aris/nicomacheanethic0000aris_djvu.txt",
+          "quote": "THE NICOMACHEAN ETHICS OF ARISTOTLE INTRODUCTION BY J. A. SMITH, M.A. TRANSLATED BY D. P. CHASE",
+          "where": "trang tựa bản Everyman's Library (Dent/Dutton, 1911), bản quét Internet Archive nicomacheanethic0000aris"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html",
+          "quote": "Every art, and every science reduced to a teachable form, and in like manner every action and moral choice, aims, it is thought, at some good",
+          "where": "mở đầu Quyển I trong ebook 8438; trùng từng chữ với đoạn 'Every art, and every science reduced to a teachable form...' ở bản Everyman của Chase"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): văn bản ebook (pg8438-images.html) chỉ ghi 'Introduction by J. A. Smith', không có tên dịch giả ở trang tên sách; thư mục dịch trong sách có 'Nicomachean Ethics, 1819, mainly from text of Bekker by D P Chase, 1847, revised 1861' nhưng không nói rõ đó là bản của ebook. Đã thử archive.org advancedsearch (2 truy vấn) và Open Library: không có kết quả. Đề xuất người làm tìm bản Everyman's Library (Dent) 1911 'The Ethics of Aristotle', dịch D. P. Chase, hoặc đổi thành 'bản dịch không rõ trên trang Gutenberg'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, bản Everyman 1911 'The Nicomachean Ethics of Aristotle', giới thiệu J. A. Smith, dịch D. P. Chase (archive.org nicomacheanethic0000aris; Gutenberg ebook kèm 'Introduction by J. A. Smith' và cùng thư mục dịch 'by D P Chase, 1847'). Suy ra ebook 8438 là bản dịch Chase vì câu mở Quyển I trùng chữ với bản Everyman; trang Gutenberg không tự ghi tên dịch giả, nên nên thêm ghi chú 'theo bản Everyman 1911'. Metadata IA ethicsofaristotl0000unse_f0x8 (Dutton) cũng ghi 'Translation by D.P. Chase'."
 }

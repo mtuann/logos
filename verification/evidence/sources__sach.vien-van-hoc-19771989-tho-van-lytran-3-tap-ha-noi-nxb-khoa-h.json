@@ -2,7 +2,7 @@
   "unit": "sources/sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h",
   "hash": "sha256:2693b6b99daffddc4c3a14440788bd8e2389a0f7b57cecda159ade963b4da491",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r23",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Thơ văn Lý–Trần do Viện Văn học biên soạn, NXB Khoa học xã hội, Hà Nội",
@@ -29,16 +29,45 @@
       ]
     },
     {
-      "text": "Bộ ấn hành trong khoảng 1977–1989 (cận trên 1989 và năm tập 3 chưa xác nhận)",
+      "text": "Bộ ấn hành trong khoảng 1977–1989",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22Vi%E1%BB%87n+V%C4%83n+h%E1%BB%8Dc%22+%22t%E1%BA%ADp+III%22+1978+%22Khoa+h%E1%BB%8Dc+x%C3%A3+h%E1%BB%99i%22",
+          "quote": "THƠ VĂN LÝ - TRAN TẬP III NHÀ XUẤT BẢN KHOA HỌC XÃ HỘI HÀ NỘI 1978",
+          "where": "Google Books, chính trang tên sách tập III (năm 1978)"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22t%E1%BA%ADp+II%22+%22quy%E1%BB%83n+h%E1%BA%A1%22+1989",
+          "quote": "Thơ văn Lý - Trần , Tập II , Quyển hạ . Nxb . Khoa học xã hội , Hà Nội , 1989 ; tr . 223-351",
+          "where": "Google Books, đoạn trích Tuyển tập 40 năm tạp chí Văn học (1999), chú thích: quyển hạ tập II năm 1989"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22t%E1%BA%ADp+II%22+%22quy%E1%BB%83n+h%E1%BA%A1%22+1989",
+          "quote": "tập I : 1977 ; tập III : 1979 ; tập II , q . thượng : 1989 ; tập II , quyển hạ sẽ ra trong nay mai",
+          "where": "Google Books, đoạn trích Tạp chí văn học 2003 (nguồn thứ cấp, có sai lệch năm tập III và quyển thượng so với trang tên sách và thư mục)"
+        }
+      ]
     },
     {
-      "text": "Bản văn \"Cư trần lạc đạo phú\" của Trần Nhân Tông nằm trong bộ này (chưa mở nguồn có mục lục)",
+      "text": "Bản văn \"Cư trần lạc đạo phú\" của Trần Nhân Tông nằm trong bộ này",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22C%C6%B0+tr%E1%BA%A7n+l%E1%BA%A1c+%C4%91%E1%BA%A1o+ph%C3%BA%22+%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22t%E1%BA%ADp+II%22+%22Khoa+h%E1%BB%8Dc+x%C3%A3+h%E1%BB%99i%22",
+          "quote": "Thiền tông chỉ nam tự ) , do Nguyễn Đức Vân , Băng Thanh dịch . In trong Thơ văn Lý - Trần",
+          "where": "Google Books, đoạn trích Tập san nghiên cứu lịch sử (2008): 'Cư trần lạc đạo phú' dẫn từ Thơ văn Lý - Trần tập II"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+Tr%E1%BA%A7n%22+%22C%C6%B0+tr%E1%BA%A7n+l%E1%BA%A1c+%C4%91%E1%BA%A1o+ph%C3%BA%22+t%E1%BA%ADp+II+quy%E1%BB%83n+th%C6%B0%E1%BB%A3ng+Tr%E1%BA%A7n+Nh%C3%A2n+T%C3%B4ng+tr.",
+          "quote": "Thơ văn Lý - Trần , tập II , Q. thượng . Nxb . Khoa học xã hội , Hà Nội , 1989 . 7. Cư trần lạc đạo phủ , Sdd",
+          "where": "Google Books, đoạn trích Tạp chí văn học 1992, chú thích: Cư trần lạc đạo phú dẫn từ tập II, quyển thượng"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Open Library chỉ ghi các tập lẻ: tập 1 (1977, OL4091797M), một bản ghi tập 2 quyển thượng năm 1988 (OL61916105M, 966 trang, chủ biên Nguyễn Huệ Chi). Chưa tìm được nguồn xác nhận năm cuối '1989' hay năm tập 3. Link đề xuất: https://openlibrary.org/works/OL45441335W"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): dùng Google Books Data API. Năm các tập: tập I 1977, tập III 1978 (trang tên sách), tập II quyển thượng 1988 (OPAC, Open Library, Thi Viện; một số tài liệu ghi 1989), tập II quyển hạ 1989 (Tuyển tập 40 năm Tạp chí Văn học). Nên khoảng '1977–1989' vẫn đúng; nếu chỉ tính 3 tập (không tính quyển hạ) cận trên là 1988. Các nguồn thứ cấp lệch nhau về năm một số tập, người làm có thể ghi rõ từng tập nếu muốn chính xác. Bộ gồm 3 tập 4 quyển (Tạp chí văn học 2003)."
 }

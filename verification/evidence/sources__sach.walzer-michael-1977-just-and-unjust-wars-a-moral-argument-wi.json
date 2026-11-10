@@ -2,7 +2,7 @@
   "unit": "sources/sach.walzer-michael-1977-just-and-unjust-wars-a-moral-argument-wi",
   "hash": "sha256:91c423aaca86b858f9e6b73115cfc14635e8828686c900f274730b8bd9f5e010",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r23",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Michael Walzer, Just and Unjust Wars, 1977",
@@ -29,11 +29,18 @@
       ]
     },
     {
-      "text": "Phụ đề \"A Moral Argument with Historical Illustrations\" (Open Library không hiện phụ đề)",
+      "text": "Phụ đề \"A Moral Argument with Historical Illustrations\"",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=intitle:%22Just+and+Unjust+Wars%22+inauthor:Walzer",
+          "quote": "Just and Unjust Wars / A Moral Argument with Historical Illustrations",
+          "where": "Google Books Data API: dc:title thứ nhất và thứ hai (phụ đề), Basic Books, bản 2015 (lần in thứ 5)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Link đề xuất: https://openlibrary.org/books/OL4562397M . Phụ đề chưa xác nhận trên trang nào; người làm nên đối chiếu trang nhà xuất bản."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): phụ đề xác nhận qua Google Books (bản Basic Books 2015); bản 1977 theo Open Library (kiểm lượt trước) cùng tác phẩm. Link: https://openlibrary.org/books/OL4562397M"
 }

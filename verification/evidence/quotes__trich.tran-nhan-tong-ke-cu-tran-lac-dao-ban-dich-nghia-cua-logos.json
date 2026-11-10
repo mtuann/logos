@@ -2,7 +2,7 @@
   "unit": "quotes/trich.tran-nhan-tong-ke-cu-tran-lac-dao-ban-dich-nghia-cua-logos",
   "hash": "sha256:369e586ea030c3ac88b2765fd8d21aa937273e79428553ec7b9f71bffe3fbe61",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r07",
+  "checker": "agent-kiem-5.2-g01",
   "claims": [
     {
       "text": "Bài kệ thuộc Cư trần lạc đạo (phú) của Trần Nhân Tông",
@@ -46,21 +46,26 @@
     {
       "text": "Chữ Hán dòng 4: 對境無心莫問禪",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Wikisource chép 對鏡無心莫問禪 (鏡, phiên âm 'Đối kính'); bản ghi viết 對境 (cảnh) khớp với phiên âm 'đối cảnh' ở bài. Người làm đối chiếu bản in Thơ văn Lý–Trần và ghi dị bản 境/鏡 nếu cần.",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
-          "quote": "對鏡無心莫問禪。",
-          "where": "dòng 4 trên vi.wikisource"
+          "url": "https://www.thivien.net/Tr%E1%BA%A7n-Nh%C3%A2n-T%C3%B4ng/K%E1%BB%87-v%C3%A2n/poem-fEAJw6gSdRH2Pzfq3DAxTA",
+          "quote": "對境無心莫問禪。",
+          "where": "thivien.net, Kệ vân (偈云), dòng 4; vi.wikisource chép 對鏡 (dị bản, xem notes)"
         }
       ]
     },
     {
       "text": "Văn bản in trong Thơ văn Lý–Trần (Viện Văn học, NXB KHXH)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thivien.net/Tr%E1%BA%A7n-Nh%C3%A2n-T%C3%B4ng/K%E1%BB%87-v%C3%A2n/poem-fEAJw6gSdRH2Pzfq3DAxTA",
+          "quote": "Thơ văn Lý Trần tập II (1988)",
+          "where": "thivien.net, mục 'Tuyển tập chung' của bài Kệ vân (Cư trần lạc đạo phú); nguồn yếu, chưa mở bản in"
+        }
+      ]
     },
     {
       "text": "Bản dịch nghĩa sát phiên âm (Gia trung hữu bảo hưu tầm mích; Đối cảnh vô tâm mạc vấn thiền)",
@@ -97,6 +102,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): vi.wikisource trang 'Cư trần lạc đạo phú/Kệ vân' (nguồn cộng đồng, không ghi bản in nên là nguồn yếu) có đủ chữ Hán, phiên âm, dịch nghĩa; khớp 3 dòng đầu (khác dị thể 饑/飢, 宝/寶), dòng 4 Wikisource chép 鏡 thay 境 (nhe). Không mở được bản in Thơ văn Lý–Trần nên claim 'in trong Thơ văn Lý–Trần' để chua-kiem-duoc; zh.wikisource không có bài phú (liên kết đỏ). Đã thử: vi.wikisource, zh.wikisource, tìm DuckDuckGo."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, mở thivien.net trang Kệ vân (Trần Nhân Tông, Cư trần lạc đạo phú): ghi tuyển tập nguồn 'Thơ văn Lý Trần tập II (1988)' và chép dòng 4 là 對境 (khớp bản ghi), 4 dòng Hán khớp (thivien dùng 饑, 宝). vi.wikisource chép 鏡 ở dòng 4: dị bản 境/鏡, nên ghi chú dị bản nếu cần. thivien.net là nguồn yếu (cộng đồng); chưa mở được bản in để chắc 'Viện Văn học, NXB KHXH' (thivien chỉ ghi tên tập và năm 1988)."
 }

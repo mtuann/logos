@@ -2,7 +2,7 @@
   "unit": "sources/web.marxists-org.reference-archive-sartre-works-exist-sartre-htm",
   "hash": "sha256:84c17e914291921c1a02dccf532f75cd94d9324ff2c04839bcb6f3f120dc2f83",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-g03",
   "claims": [
     {
       "text": "Sartre, Existentialism Is a Humanism, bản dịch Philip Mairet, trong Kaufmann (ed.), Existentialism from Dostoevsky to Sartre, trên Marxists Internet Archive",
@@ -12,25 +12,31 @@
         {
           "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
           "quote": "Existentialism from Dostoyevsky to Sartre",
-          "where": "đầu trang; edited by Walter Kaufman"
+          "where": "đầu trang; edited by Walter Kaufman (lượt kiểm trước)"
         }
       ]
     },
     {
-      "text": "Bài giảng 1945, in 1946 (texts_seen): trang ghi \"Lecture given in 1946\"; chưa có nguồn thứ hai về 1945",
+      "text": "Bài giảng 1945, in 1946 (texts_seen)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sartre/",
+          "quote": "Existentialism is a Humanism, towards the end of 1945",
+          "where": "đoạn mở đầu mục; thư mục ghi 1946a, Paris: Nagel"
+        }
+      ]
     },
     {
       "text": "Simone de Beauvoir, SEP, tác giả \"Bergoffen, D. & M. Burke\"",
       "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Burke, M., \"Simone de Beauvoir\", SEP (bản Fall 2026 chỉ ghi một tác giả)",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
-          "quote": "Burke, Megan"
+          "quote": "Copyright © 2023 by Debra Bergoffen Megan Burke",
+          "where": "dòng bản quyền cuối mục (hai tác giả); lượt trước chỉ đọc byline đầu trang"
         }
       ]
     },
@@ -46,6 +52,6 @@
       ]
     }
   ],
-  "result": "sua",
-  "notes": "Hai cách ghi (text và texts_seen) nên thống nhất: texts_seen nói \"bài giảng 1945, in 1946\" còn text chỉ ghi (1946); trang MIA ghi lecture 1946 (thực tế bài giảng 29/10/1945, nhưng chưa có nguồn mở trong phiên này). Byline SEP fall2026: chỉ \"Burke, Megan\" (first published 17/8/2004, substantive revision 11/1/2023); Bergoffen chỉ còn trong thư mục. Trang MIA nêu bản Meridian 1989 cho Kaufmann; ấn bản đầu 1956 (World Publishing)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): claim 'sai' cũ về tác giả SEP được rút lại: dòng bản quyền mục fall2026 ghi cả Debra Bergoffen và Megan Burke (byline đầu trang chỉ Burke, nhưng tác giả bản quyền là hai người). Bài giảng cuối 1945 xác nhận bằng SEP Sartre. Trang MIA ghi 'Lecture given in 1946' (lượt trước); nên thống nhất cách ghi giữa text (1946) và texts_seen (1945, in 1946)."
 }

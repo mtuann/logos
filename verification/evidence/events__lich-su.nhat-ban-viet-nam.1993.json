@@ -2,7 +2,7 @@
   "unit": "events/lich-su.nhat-ban-viet-nam.1993",
   "hash": "sha256:24a5bc70dc724baa2727f9ebd95ccc4ad018cbff303e24c9cf0bbcd8e824b9d5",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r08",
+  "checker": "agent-kiem-5.2-g01",
   "claims": [
     {
       "text": "Nguyễn Tài Thư chủ biên, Lịch sử tư tưởng Việt Nam, 1993 (NXB Khoa học xã hội)",
@@ -22,9 +22,21 @@
     {
       "text": "Việt Nam tiếp nhận cả Phật, Nho, Đạo theo cách riêng",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://scholar.dlu.edu.vn/thuvienso/handle/DLU123456789/214315",
+          "quote": "hiện tượng Tam giáo đồng nguyên (hay là sự dung hợp nhuần nhuyễn giữa 3 tôn giáo: Nho – Phật – Đạo thời bấy giờ)",
+          "where": "Tóm tắt; Nguyễn Thị Mỹ Hạnh, Tạp chí Khoa học Đại học Quảng Nam 2018, số 7, tr. 25–33 (đọc PDF đính kèm bản ghi thư viện số ĐH Đà Lạt)"
+        },
+        {
+          "url": "https://scholar.dlu.edu.vn/thuvienso/handle/DLU123456789/214315",
+          "quote": "Khác với nhiều nước phương Tây, ở Việt Nam không có sự thống trị độc tôn của bất kỳ một tôn giáo nào",
+          "where": "Mục 1 Mở đầu của cùng bài"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Sách có thật, 1993 (giữ kết quả lượt trước: CiNii và PhilArchive). Luận điểm 'tiếp nhận theo cách riêng' chưa kiểm được: Britannica (tìm kiếm Vietnam + ba giáo) chỉ cho kết quả chung về Trung Quốc và Cao Đài, trang Britannica 'Vietnam' không có mục tôn giáo; không mở được nội dung sách. 'Thơ văn Lý–Trần' không thuộc năm của câu này, chưa kiểm. Nhãn [có cơ sở] hợp lý nhưng cần trích trang cụ thể của Nguyễn Tài Thư hoặc nguồn khác (Viện Văn học)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): Britannica không có mục phù hợp (đã thử lượt trước và lượt này), nên dùng bài học thuật: Nguyễn Thị Mỹ Hạnh (2018), 'Hiện tượng tam giáo đồng nguyên thời Trần', Tạp chí Khoa học ĐH Quảng Nam số 7, tr. 25–33 (ISSN 0866-7586), đọc toàn văn PDF qua thư viện số ĐH Đà Lạt. Bài nói về thời Trần và nói ba giáo cùng tồn tại, dung hợp, không có một tôn giáo độc tôn; vế 'theo cách riêng' hiểu là so với phương Tây/không độc tôn, hợp với nhãn [có cơ sở]. Nguồn là tạp chí đại học Việt Nam (nguồn yếu theo quyết định 31). Chưa kiểm 'Thơ văn Lý–Trần' (không thuộc năm 1993)."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/web.suttacentral-net.sn22-59-en-sujato",
   "hash": "sha256:9c7e30ce2af3ce54b84845937a69ac594fdfc0bdbb27b9f9e5477e6d16c76097",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r30",
+  "checker": "agent-kiem-5.2-g03",
   "claims": [
     {
       "text": "URL mở được và trỏ đúng SN 22.59 Anattalakkhaṇasutta, bản dịch Bhikkhu Sujato",
@@ -64,11 +64,23 @@
       ]
     },
     {
-      "text": "Bản dịch của Sujato theo giấy phép CC0 (không thấy chữ nêu giấy phép bản dịch Sujato trên trang đã mở)",
+      "text": "Bản dịch của Sujato theo giấy phép CC0",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+          "quote": "All translations created in Bilara and supported by SuttaCentral are dedicated to the Public Domain",
+          "where": "LICENSE.md của kho bilara-data (CC0); bản dịch en/sujato nằm trong kho này"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/README.md",
+          "quote": "all translations supported by SuttaCentral must use CC0 licence",
+          "where": "README.md của bilara-data"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): chỉ còn claim giấy phép CC0 chưa xác nhận bằng chữ; nội dung khác đạt. Nguyên văn Pāli có trên cùng trang (root_text lang pli)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): Claim CC0 được xác nhận ở kho bilara-data (LICENSE.md, README.md; tệp translation/en/sujato/sutta/sn/sn12/sn12.15_translation-en-sujato.json có trong kho); trang suttacentral.net/licensing chỉ nói CC0 cho tư liệu SuttaCentral tự tạo, nên nên dẫn thêm link LICENSE.md của bilara-data. Các tiêu đề kinh giữ nguyên từ lượt trước."
 }

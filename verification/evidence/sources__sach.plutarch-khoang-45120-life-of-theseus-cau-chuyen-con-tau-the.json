@@ -2,7 +2,7 @@
   "unit": "sources/sach.plutarch-khoang-45120-life-of-theseus-cau-chuyen-con-tau-the",
   "hash": "sha256:afcb22ce16f67f2bfb4eb1570ea60e3a37cdcce6d63ff58d167c3e6cf707fa36",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r20",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Plutarch, Life of Theseus có câu chuyện con tàu của Theseus được thay ván dần",
@@ -29,11 +29,35 @@
       ]
     },
     {
-      "text": "Hobbes trong De Corpore nêu biến thể con tàu thứ hai ghép từ ván cũ (chưa mở văn bản De Corpore II.11.7); khoảng 45-120 là niên đại Plutarch (chưa đối chiếu)",
+      "text": "Hobbes trong De Corpore nêu biến thể con tàu thứ hai ghép từ ván cũ (II.11)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Hobbes+%22De+Corpore%22+%22ship+of+Theseus%22+%22old+planks%22+%22first+the+same+ship%22+repaired",
+          "quote": "ship [ were continually repaired by ] taking out the old planks and putting in new and if some man had kept the old planks as they were taken out , and by putting them afterwards together in the same",
+          "where": "Google Books, đoạn trích What If... (Peg Tittle, Routledge 2016) trích Hobbes, De Corpore, Part II"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Hobbes+%22De+Corpore%22+%22ship+of+Theseus%22+%22old+planks%22+%22first+the+same+ship%22+repaired",
+          "quote": "ship as it was at the beginning” (Hobbes, De Corpore II: 11)",
+          "where": "Google Books, đoạn trích Thought Experiment (Gendler, Routledge 2014); xác nhận chương II.11, chưa thấy số mục 7 riêng"
+        }
+      ]
+    },
+    {
+      "text": "Khoảng 45–120 là niên đại Plutarch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plutarch/",
+          "quote": "45–120 CE) was a Platonist philosopher",
+          "where": "SEP Plutarch, đoạn đầu"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Gutenberg #674 có đoạn con tàu trong Life of Theseus. De Corpore 1655 xác nhận qua Open Library; đoạn về con tàu thứ hai trong De Corpore chưa tìm được văn bản (thử Open Library, Gutenberg). Link đề xuất: https://www.gutenberg.org/ebooks/674 cho Plutarch; De Corpore: bản Molesworth (1839) trên Internet Archive nếu tìm thêm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): đoạn con tàu thứ hai của Hobbes đối chiếu qua đoạn trích Google Books (sách thứ cấp trích De Corpore II.11); số mục '7' chưa thấy trực tiếp, nhưng 'II.11' khớp. Khuyến nghị bản Molesworth 1839 trên Internet Archive nếu muốn dẫn mục."
 }

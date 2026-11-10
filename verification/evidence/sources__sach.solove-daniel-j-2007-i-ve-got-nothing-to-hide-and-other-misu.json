@@ -2,7 +2,7 @@
   "unit": "sources/sach.solove-daniel-j-2007-i-ve-got-nothing-to-hide-and-other-misu",
   "hash": "sha256:c238c1e982e283c9c01fd59d6e7583e9ae8f985b5896fb1399c5b665207efe1e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r22",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Solove, Daniel J. (2007), \"'I've Got Nothing to Hide' and Other Misunderstandings of Privacy\", San Diego Law Review 44 (tác giả, tên bài, tạp chí, tập 44, năm 2007, trang đầu 745)",
@@ -23,9 +23,26 @@
     {
       "text": "Trang cuối là 772 (khoảng trang 745–772)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Solove+%22I%27ve+Got+Nothing+to+Hide%22+%22San+Diego+Law+Review%22+%2244%22+%22745-772%22",
+          "quote": "San Diego Law Review , 44 , 745-772",
+          "where": "Google Books, đoạn trích The Law and Economics of Privacy, Personal Data, AI... (2022), danh mục tài liệu tham khảo"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Solove+%22I%27ve+Got+Nothing+to+Hide%22+%22San+Diego+Law+Review%22+%2244%22+%22745-772%22",
+          "quote": "San Diego Law Review 44 , no . 4 ( 2007 ) : 745–772",
+          "where": "Google Books, đoạn trích We, the Data (MIT Press, 2023), chú thích"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Solove+%22I%27ve+Got+Nothing+to+Hide%22+%22San+Diego+Law+Review%22+%2244%22+%22745-772%22",
+          "quote": "San Diego Law Review 44 , 745–772 ( 2007 )",
+          "where": "Google Books, đoạn trích Privacy Enhancing Technologies (Springer 2014)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): trang kho SDLR và GWU xác nhận tác giả, tên, tập, năm, trang đầu 745. Không thấy trang cuối 772 ở trang đã mở (SSRN bị chặn bởi kiểm tra bot, PDF không đọc được văn bản). Link ổn định đề xuất: https://digital.sandiego.edu/sdlr/vol44/iss4/5/ ; mục này là bài báo, không phải sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): trang kho SDLR/GWU chỉ có trang đầu 745 (meta bepress_citation_firstpage=745, không có lastpage); trang cuối 772 xác nhận qua ba công trình học thuật trích dẫn (nguồn thứ cấp). Mục là bài báo, không phải sách. Link: https://digital.sandiego.edu/sdlr/vol44/iss4/5/"
 }

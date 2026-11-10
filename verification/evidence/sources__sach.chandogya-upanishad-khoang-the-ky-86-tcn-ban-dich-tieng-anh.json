@@ -2,7 +2,7 @@
   "unit": "sources/sach.chandogya-upanishad-khoang-the-ky-86-tcn-ban-dich-tieng-anh",
   "hash": "sha256:ec2f9bdead83f71610382beca781d045820d4fd18b265471c156781d292c35d7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r14",
+  "checker": "agent-kiem-5.2-g01",
   "claims": [
     {
       "text": "Olivelle (1996), Upaniṣads, Oxford World's Classics (OUP), bản dịch tiếng Anh",
@@ -24,9 +24,23 @@
     {
       "text": "Niên đại khoảng thế kỷ 8–6 TCN của Chandogya Upanishad",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Ghi niên đại thận trọng hơn: các Upanishad cổ nhất (trong đó có Chandogya) thường được xếp vào khoảng giữa thiên niên kỷ 1 TCN (Britannica của Olivelle: soạn từ khoảng giữa thế kỷ 5 TCN); ước tính học thuật dao động, nên viết 'khoảng thế kỷ 7–5 TCN (ước tính khác nhau)' hoặc 'khoảng giữa thiên niên kỷ 1 TCN' thay vì 'thế kỷ 8–6 TCN'.",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Upanishad",
+          "quote": "The earliest extant Upanishads date roughly from the middle of the 1st millennium BCE.",
+          "where": "Britannica 'Upanishad' (tác giả Patrick Olivelle)"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Upanishad",
+          "quote": "Thirteen known Upanishads were composed from the middle of the 5th century through the 2nd century BCE.",
+          "where": "cùng bài; Chandogya nằm trong năm bộ đầu tiên theo danh sách của bài"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Thư mục đúng (Olivelle 1996, OUP, series World's Classics). Chưa kiểm mục lục (Chandogya) và niên đại: trang IEP /upanishads/ trả 404, trang OUP 404. Cần nguồn SEP/IEP về niên đại. Lưu ý: bản 1998 'The Early Upanisads' (OUP) của Olivelle cũng chứa Chandogya đầy đủ nên nếu cần bản dịch đầy đủ nên cân nhắc ghi bản 1998. Link đề xuất: https://openlibrary.org/books/OL796096M."
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, Britannica 'Upanishad' (Olivelle) đã mở: xếp Upanishad cổ nhất vào khoảng giữa thiên niên kỷ 1 TCN và mười ba bộ từ giữa thế kỷ 5 đến thế kỷ 2 TCN, muộn hơn 'thế kỷ 8–6 TCN' của bản ghi. Một kết quả tìm kiếm (trích đoạn PDF của Olivelle 1998, host không chính thống nên không dùng làm nguồn) gợi ý Olivelle cho 'seventh to sixth centuries BCE, give or take', nên các ước tính chênh nhau; mức 'vua' vì là con số nêu quá chắc. Claim mục lục (Chandogya có trong Olivelle 1996) vẫn chua-kiem-duoc: Open Library OL796096M không có mục lục (pagination lx, 446 p.); đã thử Britannica, Open Library. Nếu muốn bản dịch đầy đủ và niên đại 'The Early Upanisads' (OUP 1998) cũng chứa Chandogya."
 }

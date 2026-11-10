@@ -2,7 +2,7 @@
   "unit": "sources/web.nrs-harvard-edu.urn-3-hul-instrepos-3200670",
   "hash": "sha256:41728a2a914e4876a8eed9c01fb26b9019afacb49aaff8484c40a8531c429239",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r29",
+  "checker": "agent-kiem-5.2-g03",
   "claims": [
     {
       "text": "Korsgaard, Christine M., 'The Right to Lie: Kant on Dealing with Evil', Philosophy and Public Affairs 15 (4): 325–349 (1986)",
@@ -10,18 +10,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://html.duckduckgo.com/html/?q=Korsgaard+%22The+Right+to+Lie:+Kant+on+Dealing+with+Evil%22+Philosophy+and+Public+Affairs+15+4+325-349",
-          "quote": "Philosophy and Public Affairs 15 (4):325-349 (1986)",
-          "where": "kết quả tìm kiếm trích philpapers.org/rec/KORTRT; kết quả dash.harvard.edu: 'Korsgaard, Christine. 1986. The right to lie: Kant on dealing with evil. Philosophy and Public Affairs 15, no. 4: 325-349.'"
+          "url": "https://dash.harvard.edu/entities/publication/73120378-83c1-6bd4-e053-0100007fdf3b",
+          "quote": "Korsgaard, Christine. 1986. The right to lie: Kant on dealing with evil. Philosophy and Public Affairs 15, no. 4: 325-349.",
+          "where": "mục Citation của trang DASH"
         }
       ]
     },
     {
       "text": "URL nrs.harvard.edu/urn-3:HUL.InstRepos:3200670 mở được và trỏ đúng bài",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dash.harvard.edu/entities/publication/73120378-83c1-6bd4-e053-0100007fdf3b",
+          "quote": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670",
+          "where": "mục URI; mở URL nrs chuyển thẳng tới trang này, tiêu đề 'The Right to Lie: Kant on Dealing with Evil'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): thư mục bài (tác giả, tên, tạp chí, tập, số, trang, năm) khớp qua kết quả tìm kiếm DuckDuckGo (trích PhilPapers và Harvard DASH); philpapers.org bị Cloudflare chặn. URL nrs.harvard.edu chuyển tới dash.harvard.edu/handle/1/3200670, rồi tới dash.harvard.edu/entities/publication/73120378-83c1-6bd4-e053-0100007fdf3b, đúng mục DASH mà kết quả tìm kiếm liệt kê là bài Korsgaard; nhưng trang trả về xác minh người dùng/HTTP 429 nên không đọc được nội dung, không vượt qua kiểm tra bot. Đề xuất: giữ link, hoặc người làm mở tay; thay thế ổn định khác: JSTOR số Vol. 15, No. 4 (jstor.org/stable/i313753)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): lần này URL nrs.harvard.edu chuyển tới trang DASH và đọc được nội dung (không bị chặn bot). Trang liệt kê thêm JSTOR stable/2265252 làm nguồn khác. Lưu ý: trường 'Published Version' của DASH ghi DOI 10.1017/CBO9781139174503.006 (có vẻ là bản in lại trong sách), không phải bài tạp chí gốc."
 }

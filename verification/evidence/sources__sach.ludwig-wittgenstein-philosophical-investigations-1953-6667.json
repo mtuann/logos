@@ -2,7 +2,7 @@
   "unit": "sources/sach.ludwig-wittgenstein-philosophical-investigations-1953-6667",
   "hash": "sha256:72b7ff3b8310665c49f6b772788d9994ed6db2d91013f592a60ef1ac531f911f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r18",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Wittgenstein, Philosophical Investigations (1953)",
@@ -19,9 +19,21 @@
     {
       "text": "Vị trí §§66–67 (phần nói về 'tương đồng gia đình')",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "a complicated network of similarities overlapping and criss-crossing” (PI 66)",
+          "where": "SEP Wittgenstein, mục 3.4 Language-games and Family Resemblance"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22no+better+expression+to+characterize+these+similarities+than+%27family+resemblances%27%22",
+          "quote": "no better expression to characterize these similarities than ' family resemblances \" ( §66 , §67 )",
+          "where": "Google Books, đoạn trích The New Wittgenstein (Crary & Read, Routledge 2002); đoạn Wittgenstein 'I can think of no better expression…' nằm ở §67"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Đã xác nhận sách và năm 1953 nhưng chưa mở được toàn văn để đối chiếu số đoạn §§66–67 (Google Books API hết hạn mức 429; chưa tìm được bản toàn văn hợp pháp). Link đề xuất: https://openlibrary.org/works/OL1410380W"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): SEP dẫn PI 66 cho khái niệm tương đồng gia đình; sách học thuật dẫn cả §66 và §67 cho thuật ngữ 'family resemblances'. Nên ghi thêm dịch giả G. E. M. Anscombe, Oxford: Blackwell."
 }

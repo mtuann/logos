@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.11224",
   "hash": "sha256:2fdc24c96805e5ac6e96b43b0e3e64cb5c97fddc1964abc40d94bdbd6a9e1964",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r25",
+  "checker": "agent-kiem-5.2-g01",
   "claims": [
     {
       "text": "Ebook 11224 là Utilitarianism của J. S. Mill",
@@ -65,11 +65,23 @@
       ]
     },
     {
-      "text": "Đăng lần đầu trên Fraser's Magazine năm 1861 (năm đăng chưa đối chiếu với mục lục tạp chí)",
+      "text": "Đăng lần đầu trên Fraser's Magazine năm 1861",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/mill-eth/",
+          "quote": "The work first appeared in 1861 as a series of three articles for Fraser’s Magazine",
+          "where": "IEP 'Mill, John Stuart: Ethics', mục về Utilitarianism; cùng đoạn nói sách in năm 1863"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "Utilitarianism (1861)",
+          "where": "đoạn tóm tắt đầu mục SEP 'John Stuart Mill'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Chỉ còn khẳng định 'Fraser's Magazine 1861': trang ebook chỉ ghi 'reprinted from Fraser's Magazine'; IA có các số Fraser's 1861 (tập 63-64) nhưng chưa mở mục lục để thấy bài Utilitarianism (Oct-Dec 1861). Lưu ý: chương V có chú [D] và câu Bentham nằm trong chương IV hay V cần kiểm nếu cần locator chính xác: tìm thấy trong văn bản ở đoạn sau tiêu đề Chương V."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, IEP 'Mill: Ethics' (iep.utm.edu/mill-eth/) nói tác phẩm xuất hiện lần đầu năm 1861 thành ba bài trên Fraser’s Magazine và in thành sách năm 1863; SEP 'Mill' ghi Utilitarianism (1861). SEP mill-moral-political không có chữ 'Fraser'. Các claim khác giữ từ lượt trước. Lưu ý locator chương V của câu Bentham đã có ở lượt trước."
 }

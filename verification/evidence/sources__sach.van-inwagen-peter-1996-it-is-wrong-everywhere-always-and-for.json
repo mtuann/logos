@@ -2,7 +2,7 @@
   "unit": "sources/sach.van-inwagen-peter-1996-it-is-wrong-everywhere-always-and-for",
   "hash": "sha256:5ce519224a3354598f4a2d3d1b7a6cc9a2a65e8e0a3f83d19b686d0bbfbfbb89",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r23",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Sách: Faith, Freedom, and Rationality: Philosophy of Religion Today, Jeff Jordan & Daniel Howard-Snyder (chủ biên), Lanham: Rowman & Littlefield, 1996",
@@ -17,11 +17,23 @@
       ]
     },
     {
-      "text": "Peter van Inwagen là tác giả chương \"It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence\" trong sách này (Open Library không có mục lục)",
+      "text": "Peter van Inwagen là tác giả chương \"It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence\" trong sách này",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Faith%2C+Freedom%2C+and+Rationality%22+Jordan+Howard-Snyder+%22van+Inwagen%22+%22It+Is+Wrong%2C+Everywhere%2C+Always%2C+and+for+Anyone%2C+to+Believe+Anything+upon+Insufficient+Evidence%22",
+          "quote": "7 \" It Is Wrong , Everywhere , Always , and for Anyone , to Believe Anything upon Insufficient Evidence \" Peter van Inwagen",
+          "where": "Google Books, chính cuốn Faith, Freedom, and Rationality (1996-06-28), chương 7"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Faith%2C+Freedom%2C+and+Rationality%22+Jordan+Howard-Snyder+%22van+Inwagen%22+%22It+Is+Wrong%2C+Everywhere%2C+Always%2C+and+for+Anyone%2C+to+Believe+Anything+upon+Insufficient+Evidence%22",
+          "quote": "Faith, Freedom, and Rationality, ed. Jeff Jordan and Daniel HowardSnyder (Lanham, Md.: Rowman & Littlefield, 1996) 137-153",
+          "where": "Google Books, đoạn trích Epistemology as Theology (2017), chú thích"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Chưa xác nhận được mục lục (thử Open Library; Google Books API không trả kết quả). Người làm nên xem trang nhà xuất bản/PhilPapers; link sách đề xuất: https://openlibrary.org/books/OL981665M (ISBN 0847681521)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): chương 7, tr. 137–153 (theo sách thứ cấp). Có thể bổ sung trang 137–153 vào mục. Link sách: https://openlibrary.org/books/OL981665M"
 }

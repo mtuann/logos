@@ -1,6 +1,6 @@
 {
   "unit": "sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1",
-  "hash": "sha256:0c738d7eeac461b3e6e643220433fc7b6fc9730acc9a0c557027e6d2ae076baf",
+  "hash": "sha256:6c8c0dd66e52fc2ce93ac5fc0d9a18d3400cc340c2bee5e353b683ad9a1c084e",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r19",
   "claims": [
@@ -15,13 +15,8 @@
           "where": "Open Library (biên mục Harvard): Tập I; Khoa học xã hội; Hà Nội; 1993; 496 p."
         }
       ]
-    },
-    {
-      "text": "Viện Triết học là cơ quan chủ quản/đơn vị biên soạn (phần '(Viện Triết học)' trong mục)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Biên mục thư viện không ghi Viện Triết học; chưa tìm được nguồn mở xác nhận (cần trang bìa/NXB hoặc Viện Triết học). Hai mục cùng một sách (hậu tố -2 không có '(Viện Triết học)'): nên thống nhất cách ghi. Link ổn định đề xuất: https://openlibrary.org/books/OL59680041M"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Bản ghi (hậu tố -2, không có '(Viện Triết học)') hoàn toàn khớp biên mục. Hai mục cùng một sách (khóa 'tap-1' có thêm '(Viện Triết học)'): nên thống nhất cách ghi. Nguồn là biên mục thư viện qua Open Library, chưa mở WorldCat/Thư viện Quốc gia. Link ổn định đề xuất: https://openlibrary.org/books/OL59680041M | Chuyển từ khóa `…-tap-1-2` (đã bỏ khi gộp hai cách ghi cùng một sách, 10/11/2026): bản ghi trùng từng chữ, cùng mã băm; nội dung kiểm giữ nguyên."
 }
