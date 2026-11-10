@@ -15,7 +15,7 @@ Ví dụ: A nói "Nên tăng thuế thuốc lá để giảm số người hút.
 
 Vì sao phải làm vậy? Ba lý do. Thứ nhất, hạ một người rơm không chứng minh được gì: đối thủ thật vẫn đứng đó, nguyên vẹn. Thứ hai, chỉ khi hiểu đúng lập trường đối lập, ta mới biết chỗ nào của nó thật sự yếu — và chỗ nào của *mình* thật sự hở. Thứ ba, thỉnh thoảng ta sẽ phát hiện phe đối lập... có lý hơn ta tưởng. Đổi ý sau khi đã hiểu đúng không phải thua; đó là triết học đang làm đúng việc của nó.
 
-Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đối lập ở dạng mạnh nhất, liệt kê 3 luận cứ tốt nhất của họ, ghi bằng chứng mạnh nhất họ viện dẫn, và viết rõ điều gì sẽ làm bạn đổi ý. Cuối cùng bạn có một bản "luận cứ thép" hoàn chỉnh — bài tập tốt nhất để chống lại thói quen đấm bao cát.
+Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đối lập ở dạng mạnh nhất, liệt kê 3 lập luận tốt nhất của họ, ghi bằng chứng mạnh nhất họ viện dẫn, và viết rõ điều gì sẽ làm bạn đổi ý. Cuối cùng bạn có một bản "luận cứ thép" hoàn chỉnh — bài tập tốt nhất để chống lại thói quen đấm bao cát.
 
 ## Thử ngay {#thu-ngay}
 

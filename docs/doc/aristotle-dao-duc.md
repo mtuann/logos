@@ -101,7 +101,7 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). Hai **giả định ng�
 
 1. Chọn một đức tính bạn muốn có (kiên nhẫn, trung thực, dũng cảm...). Theo Aristotle, "bài tập thói quen" cụ thể trong tuần này của bạn là gì, và đâu là hai thái cực bạn phải tránh?
 2. Aristotle nói hạnh phúc là hoạt động cả đời, không phải khoảnh khắc. Điều này thay đổi cách bạn đánh giá "một cuộc đời thành công" như thế nào?
-3. Kant nói thói quen làm mất giá trị đạo đức; Aristotle nói thói quen là con đường dẫn tới đức hạnh. Hãy viết luận cứ mạnh nhất cho mỗi bên, rồi nói bạn nghiêng về đâu.
+3. Kant nói thói quen làm mất giá trị đạo đức; Aristotle nói thói quen là con đường dẫn tới đức hạnh. Hãy viết lập luận mạnh nhất cho mỗi bên, rồi nói bạn nghiêng về đâu.
 
 ## Tự kiểm tra {#tu-kiem-tra}
 

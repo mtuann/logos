@@ -73,7 +73,7 @@ Logos là **một website triết học**, không phải lớp học hay khóa �
 | problem of other minds | vấn đề những tâm trí khác | |
 | philosophical zombie | zombie triết học | |
 | free will | tự do ý chí | ý chí tự do |
-| determinism | tất định luận | quyết định luận, thuyết định mệnh (sai) |
+| determinism | tất định luận | quyết định luận, thuyết định mệnh (sai) — "thuyết định mệnh" chỉ sai khi dịch *determinism*; đúng khi nói về *fatalism* ("kết cục xảy ra bất kể bạn làm gì", thuyết định mệnh logic), quyết định 18 |
 | compatibilism | tương thích luận | |
 | incompatibilism | bất tương thích luận | |
 | libertarianism (free will) | thuyết ý chí tự do (libertarianism) | — không nhầm với chủ nghĩa tự do cá nhân trong chính trị |

@@ -79,12 +79,12 @@ Giáo dục, theo Platon, không phải đổ kiến thức vào đầu, mà là
 Platon cho ta sẵn bản đồ của hình ảnh (517b): hang là thế giới giác quan; bóng là những gì ta thấy và nghe hằng ngày, luôn đổi thay; sự vật bên ngoài là các ý niệm, như cái Đẹp tự thân, cái Công bằng tự thân; mặt trời là **ý niệm về cái Thiện** (*Form of the Good*), nguồn của chân lý và hiểu biết (517c). Từ bản đồ ấy, lập luận về người cai trị có dạng:
 
 - **P1.** Muốn cai trị tốt, phải biết điều gì thật sự công bằng và tốt, chứ không chỉ biết bóng của chúng (520c).
-- **P2.** Chỉ người được giáo dục để "đi lên" tới ý niệm về cái Thiện mới có hiểu biết đó (517b–c).
+- **P2.** Chỉ người được giáo dục để "đi lên" tới ý niệm về cái Thiện mới có tri thức đó (517b–c).
 - **P3.** Những người ấy lại không ham quyền lực (519c–d, 520d).
-- **P4** (giả định ngầm). Người có hiểu biết mà không ham quyền lực sẽ cai trị tốt hơn người ham quyền mà thiếu hiểu biết.
+- **P4** (giả định ngầm). Người có tri thức mà không ham quyền lực sẽ cai trị tốt hơn người ham quyền mà thiếu tri thức.
 - **K.** Thành phố tốt nhất là nơi những người đã "ra khỏi hang" được buộc quay về cai trị.
 
-Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là tiền đề: P2 dựa trên thuyết ý niệm (có tồn tại những ý niệm ấy không, và có người biết được chúng không?), còn P4 giả định rằng hiểu biết và đức hạnh của người cai trị là đủ, không cần cơ chế nào để kiểm soát họ.
+Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là tiền đề: P2 dựa trên thuyết ý niệm (có tồn tại những ý niệm ấy không, và có người biết được chúng không?), còn P4 giả định rằng tri thức và đức hạnh của người cai trị là đủ, không cần cơ chế nào để kiểm soát họ.
 
 ## Phản bác {#phan-bac}
 

@@ -18,7 +18,7 @@ Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố
 
 Tư tưởng cốt lõi của Augustine có hai trụ cột. Thứ nhất, ông đặt **nội tâm** vào trung tâm triết học: con người tìm thấy Chúa không phải bằng cách nhìn ra ngoài, mà bằng cách quay vào trong — một bước ngoặt mà 1.200 năm sau [Descartes](../triet-gia/descartes.md) sẽ lặp lại theo cách khác. Thứ hai, trong *Thành phố của Chúa* (*City of God*, viết 413–426 sau khi Rome bị cướp phá năm 410), ông phân biệt **thành phố trần gian** (xây trên tình yêu bản thân) với **thành phố của Chúa** (xây trên tình yêu Thiên Chúa): lịch sử nhân loại là cuộc đấu tranh giữa hai thành phố này.
 
-Ảnh hưởng: Augustine định hình thần học và triết học Kitô giáo phương Tây suốt một nghìn năm — về tội lỗi, ân sủng, ý chí tự do, và thời gian (những trang ông viết về câu hỏi "thời gian là gì" ở quyển XI của *Tự thú* thuộc loại nổi tiếng nhất trong triết học, dù Aristotle và Plotinus đã bàn về thời gian trước ông).
+Ảnh hưởng: Augustine định hình thần học và triết học Kitô giáo phương Tây suốt một nghìn năm — về tội lỗi, ân sủng, tự do ý chí, và thời gian (những trang ông viết về câu hỏi "thời gian là gì" ở quyển XI của *Tự thú* thuộc loại nổi tiếng nhất trong triết học, dù Aristotle và Plotinus đã bàn về thời gian trước ông).
 
 Ông cũng để lại một lập luận về **vấn đề sự dữ** mà các triết gia vẫn bàn: nếu Chúa tốt lành và toàn năng, vì sao có đau khổ? Đáp án của Augustine: sự dữ không phải một "thứ" Chúa tạo ra, mà là sự *thiếu vắng* điều thiện — như bóng tối là thiếu ánh sáng. Kẻ làm điều ác không theo một sức mạnh đối lập với Chúa, mà quay lưng lại với điều thiện. Lời giải này — gọi là **thuyết thiếu vắng** (*privation theory*) — vẫn là một trong những câu trả lời có ảnh hưởng nhất cho đến hôm nay.
 

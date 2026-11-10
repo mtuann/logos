@@ -114,7 +114,7 @@ Thế nào là một lời giải thích "tốt"? Không có công thức chung,
 
 1. **Giải thích được nhiều**: bao quát được càng nhiều dữ kiện càng tốt, kể cả dữ kiện lạ (đau sau hốc mắt, tiểu cầu giảm).
 2. **Đơn giản**: không đặt ra nhiều thực thể hay cơ chế hơn mức cần thiết.
-3. **Nhất quán với điều đã biết**: phù hợp với hiểu biết nền (đang mùa mưa, đang có dịch sốt xuất huyết ở địa phương).
+3. **Nhất quán với điều đã biết**: phù hợp với tri thức nền (đang mùa mưa, đang có dịch sốt xuất huyết ở địa phương).
 4. **Ít giả định ad hoc**: không phải vá víu thêm những giả định chỉ được tạo ra để cứu giả thuyết.
 
 !!! warning "Tốt nhất chưa chắc là đúng"
@@ -180,7 +180,7 @@ Giải thích  → Đã xét đủ các giả thuyết khác chưa? Giả thuy�
 **Bài 5.** Chiếc bánh bông lan trên bàn biến mất. Có vụn bánh trên áo em trai bạn; con mèo đang ngủ trên ghế sofa; cửa sổ mở. Ba giả thuyết: (a) em trai ăn; (b) mèo ăn; (c) kẻ trộm trèo cửa sổ vào lấy. Giả thuyết nào là lời giải thích tốt nhất? Theo tiêu chí nào?
 
 ??? success "Xem gợi ý đáp án"
-    (a). Nó giải thích được dữ kiện lạ nhất (vụn bánh trên áo em), đơn giản, nhất quán với hiểu biết nền (trẻ con thích bánh). Giả thuyết (b) không giải thích vụn bánh trên áo và cần thêm giả định (mèo ăn hết cả chiếc bánh mà không để lại dấu vết). Giả thuyết (c) cần nhiều giả định ad hoc (trộm chỉ lấy bánh?). Nhưng (a) vẫn có thể sai; có thể em chỉ ăn một miếng.
+    (a). Nó giải thích được dữ kiện lạ nhất (vụn bánh trên áo em), đơn giản, nhất quán với tri thức nền (trẻ con thích bánh). Giả thuyết (b) không giải thích vụn bánh trên áo và cần thêm giả định (mèo ăn hết cả chiếc bánh mà không để lại dấu vết). Giả thuyết (c) cần nhiều giả định ad hoc (trộm chỉ lấy bánh?). Nhưng (a) vẫn có thể sai; có thể em chỉ ăn một miếng.
 
 ## Tự kiểm tra {#tu-kiem-tra}
 

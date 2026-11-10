@@ -80,7 +80,7 @@ Các sự việc "có vẻ *đi liền nhau*, nhưng không bao giờ *nối v�
 ## Tái dựng lập luận {#tai-dung-lap-luan}
 
 - **P1.** Mọi suy luận về sự việc ngoài giác quan và trí nhớ đều dựa trên nhân quả. (EHU 4.4)
-- **P2.** Hiểu biết về nhân quả chỉ đến từ kinh nghiệm. (EHU 4.6)
+- **P2.** Tri thức về nhân quả chỉ đến từ kinh nghiệm. (EHU 4.6)
 - **P3.** Mọi suy luận từ kinh nghiệm đều giả định tương lai giống quá khứ. (EHU 4.21)
 - **P4.** Mọi lập luận hoặc là suy diễn, hoặc là suy luận từ kinh nghiệm. (EHU 4.18)
 - **P5.** Giả định ở P3 không chứng minh được bằng suy diễn (phủ định nó không mâu thuẫn), cũng không bằng kinh nghiệm (vòng tròn). (EHU 4.18–4.21)
