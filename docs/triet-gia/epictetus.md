@@ -71,7 +71,7 @@ Lập luận ghép từ chương 1 và chương 5 của *Cẩm nang* trả lời
 1. Graver, Margaret, “Epictetus”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/epictetus/>
 2. Pigliucci, Massimo, “Stoicism”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/stoicism/>
 3. Epictetus, *A Selection from the Discourses of Epictetus with the Encheiridion*, bản dịch George Long, Project Gutenberg. <https://www.gutenberg.org/ebooks/10661>
-4. Pascal, Blaise, *Pensées*, bản dịch W. F. Trotter (1910), Project Gutenberg — các đoạn 466–467 bàn về Epictetus. <https://www.gutenberg.org/ebooks/18269>
+4. Pascal, Blaise, *Pensées*, bản dịch W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg — các đoạn 466–467 bàn về Epictetus. <https://www.gutenberg.org/ebooks/18269>
 
 ---
 

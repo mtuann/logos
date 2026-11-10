@@ -64,11 +64,11 @@ Câu hỏi của *Hiện tượng luận và duy vật biện chứng* (1951): m
 
 ## Nguồn
 
-1. McHale, Shawn, “Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory: Tran Duc Thao, 1946–1993”, *The Journal of Asian Studies* 61(1), 2002, tr. 7–37. <https://doi.org/10.2307/2700187>
+1. McHale, Shawn, “Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory: Tran Duc Thao, 1946–1993”, *The Journal of Asian Studies* 61(1), 2002, tr. 7–31. <https://doi.org/10.2307/2700187>
 2. Benoist, Jocelyn & Michel Espagne (chủ biên), *L’itinéraire de Tran Duc Thao. Phénoménologie et transferts culturels*, Paris: Armand Colin, 2013 (ISBN 978-2-200-28045-1).
 3. Féron, Alexandre, “Who is Tran Duc Thao? Life and Work of a Vietnamese Philosopher” (bản dịch tiếng Anh bài viết của tác giả). <https://ipernity.com/blog/235050/512209>
 4. O’Sullivan, Rory, “The tragedy of Trần Đức Thảo”, *Aeon*, 8/1/2026. <https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao>
-5. Phạm Công Thưởng, “Phép biện chứng duy vật trong tư tưởng triết học Trần Đức Thảo”, *Tạp chí Triết học*, số 12 (396), 2024, tr. 50–60. <https://vjol.info.vn/phil/article/download/135041/110963/>
+5. Phạm Công Thưởng, “Phép biện chứng duy vật trong tư tưởng triết học Trần Đức Thảo”, *Tạp chí Triết học*, số 12, 2024. <https://vjol.info.vn/phil/article/view/135041>
 6. Trường Đại học Sư phạm Hà Nội, “Trường Đại học Sư phạm Hà Nội với Giải thưởng Hồ Chí Minh” (đợt II, năm 2000). <https://staff.hnue.edu.vn/Tintuc-Sukien/Trangtintonghop/tabid/260/news/377/TruongDaihocSuphamHaNoivoiGiaithuongHoChiMinh.aspx>
 
 ---

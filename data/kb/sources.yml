@@ -127,7 +127,7 @@ ctext.mozi:
   - people/mac-tu
 ctext.mozi-universal-love-i:
   type: ctext
-  text: '*Mặc Tử*, nguyên văn và bản dịch tiếng Anh của W. P. Mei (1929), Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.'
+  text: '*Mặc Tử*, nguyên văn, Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.'
   url: https://ctext.org/mozi/universal-love-i
   also:
   - https://ctext.org/mozi/universal-love-iii
@@ -500,7 +500,7 @@ doi.10-2307-2214297:
   - people/epicurus
 doi.10-2307-2700187:
   type: doi
-  text: 'McHale, Shawn, “Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory: Tran Duc Thao, 1946–1993”, *The Journal of Asian Studies* 61(1), 2002, tr. 7–37. <https://doi.org/10.2307/2700187>'
+  text: 'McHale, Shawn, “Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory: Tran Duc Thao, 1946–1993”, *The Journal of Asian Studies* 61(1), 2002, tr. 7–31. <https://doi.org/10.2307/2700187>'
   url: https://doi.org/10.2307/2700187
   used_in:
   - people/tran-duc-thao
@@ -735,9 +735,9 @@ gutenberg.17611:
   - people/aquinas
 gutenberg.18269:
   type: gutenberg
-  text: Pascal, Blaise, *Pensées*, bản dịch W. F. Trotter (1910), Project Gutenberg — các đoạn 466–467 bàn về Epictetus. <https://www.gutenberg.org/ebooks/18269>
+  text: Pascal, Blaise, *Pensées*, bản dịch W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg — các đoạn 466–467 bàn về Epictetus. <https://www.gutenberg.org/ebooks/18269>
   texts_seen:
-  - Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
+  - Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
   url: https://www.gutenberg.org/ebooks/18269
   used_in:
   - people/epictetus
@@ -822,6 +822,12 @@ gutenberg.3800:
   url: https://www.gutenberg.org/ebooks/3800
   used_in:
   - people/spinoza
+gutenberg.4280:
+  type: gutenberg
+  text: 'Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của J. M. D. Meiklejohn, Project Gutenberg #4280 <https://www.gutenberg.org/ebooks/4280>.'
+  url: https://www.gutenberg.org/ebooks/4280
+  used_in:
+  - lich-su/can-dai.md#nguon
 gutenberg.45109:
   type: gutenberg
   text: Epictetus, *The Enchiridion*, bản dịch Thomas Wentworth Higginson, Project Gutenberg. <https://www.gutenberg.org/ebooks/45109>
@@ -916,7 +922,7 @@ gutenberg.5682:
   - people/kant
 gutenberg.57342:
   type: gutenberg
-  text: 'Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, London: Henry G. Bohn, 1853; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>'
+  text: 'Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, Bohn''s Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>'
   url: https://www.gutenberg.org/ebooks/57342
   used_in:
   - cau-hoi/cai-chet.md#nguon
@@ -949,6 +955,12 @@ gutenberg.60333:
   url: https://www.gutenberg.org/ebooks/60333
   used_in:
   - people/kierkegaard
+gutenberg.61:
+  type: gutenberg
+  text: 'Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).'
+  url: https://www.gutenberg.org/ebooks/61
+  used_in:
+  - lich-su/the-ky-19.md#nguon
 gutenberg.64908:
   type: gutenberg
   text: 'Tolstoy, Lev (1897), *What is Art?* (*Chto takoe iskusstvo?*). Bản dịch tiếng Anh của Aylmer Maude (1898) thuộc phạm vi công cộng: <https://www.gutenberg.org/ebooks/64908>'
@@ -984,10 +996,7 @@ gutenberg.6762:
   - people/thales
 gutenberg.7370:
   type: gutenberg
-  text: 'Locke, John (1689; trang bìa ghi 1690), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/7370>'
-  texts_seen:
-  - 'Locke, John (1689; trang bìa ghi 1690), *Two Treatises of Government*, London: Awnsham Churchill (phạm vi công cộng). Khảo luận thứ hai: <https://www.gutenberg.org/ebooks/7370>'
-  - Locke, John, *Second Treatise of Government* (1689), Project Gutenberg. <https://www.gutenberg.org/ebooks/7370>
+  text: Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo bản in lại lần thứ sáu, 1763). <https://www.gutenberg.org/ebooks/7370>
   url: https://www.gutenberg.org/ebooks/7370
   used_in:
   - cau-hoi/khe-uoc-xa-hoi.md#nguon
@@ -1172,7 +1181,7 @@ iep.nozick:
   - people/nozick
 iep.ont-arg:
   type: iep
-  text: Himma, Kenneth Einar, “Ontological Argument”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ont-arg/>
+  text: 'Himma, Kenneth Einar, “Anselm: Ontological Argument for God’s Existence”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ont-arg/>'
   url: https://iep.utm.edu/ont-arg/
   used_in:
   - people/anselm
@@ -1380,11 +1389,6 @@ sach.bach-khoa-toan-thu-triet-hoc-stanford-sep-cac-muc-ve-presocr:
   text: 'Bách khoa toàn thư Triết học Stanford (SEP): các mục về Presocratics, Heraclitus, Socrates, The Sophists, Plato, Aristotle, Stoicism, Epicurus, Pyrrho.'
   used_in:
   - lich-su/hy-lap-co-dai.md#nguon
-sach.bai-hume-ve-nhan-qua-doc-hume-nhan-qua-md-tren-site-nay:
-  type: sach
-  text: Bài [Hume về nhân quả](../doc/hume-nhan-qua.md) trên site này.
-  used_in:
-  - cau-hoi/nhan-qua-ban-chat.md#nguon
 sach.baruch-spinoza-ethics-1677-xuat-ban-sau-khi-mat-ban-dich-tie:
   type: sach
   text: Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất) — bản dịch tiếng Anh công cộng.
@@ -1721,11 +1725,6 @@ sach.ibn-rushd-on-the-harmony-of-religion-and-philosophy-kitab-fa:
   text: 'Ibn Rushd, *On the Harmony of Religion and Philosophy* (*Kitab fasl al-maqal*), bản dịch George F. Hourani, London: Luzac (E. J. W. Gibb Memorial).'
   used_in:
   - people/averroes
-sach.immanuel-kant-critique-of-pure-reason-1781-an-ban-2-1787-ban:
-  type: sach
-  text: Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của Norman Kemp Smith.
-  used_in:
-  - lich-su/can-dai.md#nguon
 sach.jackson-frank-1982-epiphenomenal-qualia-philosophical-quarte:
   type: sach
   text: 'Jackson, Frank (1982), "Epiphenomenal Qualia", *Philosophical Quarterly* 32(127): 127–136.'
@@ -1766,11 +1765,6 @@ sach.kant-immanuel-1797-metaphysik-der-sitten-konigsberg-nicolovi:
   text: 'Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.'
   used_in:
   - cau-hoi/an-tu-hinh.md#nguon
-sach.karl-marx-friedrich-engels-the-communist-manifesto-1848-karl:
-  type: sach
-  text: Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848); Karl Marx, *Capital*, tập 1 (1867) — bản dịch tiếng Anh công cộng.
-  used_in:
-  - lich-su/the-ky-19.md#nguon
 sach.kelly-thomas-2005-the-epistemic-significance-of-disagreement:
   type: sach
   text: 'Kelly, Thomas (2005), "The Epistemic Significance of Disagreement", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1, Oxford: Oxford University Press.'
@@ -1933,14 +1927,10 @@ sach.nagel-thomas-1971-the-absurd-the-journal-of-philosophy-6820:
   - cau-hoi/y-nghia-song.md#nguon
 sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1:
   type: sach
-  text: 'Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).'
+  text: 'Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.'
   used_in:
   - cau-hoi/nho-giao-viet.md#nguon
   - cau-hoi/truc-lam.md#nguon
-sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1-2:
-  type: sach
-  text: 'Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.'
-  used_in:
   - cau-hoi/viet-hien-dai.md#nguon
   - doc/luan-ngu.md#nguon
   - lich-su/nhat-ban-viet-nam.md#nguon
@@ -1954,9 +1944,9 @@ sach.nissenbaum-helen-2004-privacy-as-contextual-integrity-washin:
   text: 'Nissenbaum, Helen (2004), "Privacy as Contextual Integrity", *Washington Law Review* 79(1): 119.'
   used_in:
   - cau-hoi/quyen-rieng-tu-so.md#nguon
-sach.nissenbaum-helen-2010-privacy-in-context-technology-policy-a:
+sach.nissenbaum-helen-2009-privacy-in-context-technology-policy-a:
   type: sach
-  text: 'Nissenbaum, Helen (2010), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.'
+  text: 'Nissenbaum, Helen (2009), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.'
   used_in:
   - cau-hoi/quyen-rieng-tu-so.md#nguon
 sach.nozick-robert-1974-anarchy-state-and-utopia-new-york-basic-b:
@@ -2084,7 +2074,7 @@ sach.popper-karl-1945-the-open-society-and-its-enemies-london-rou-2:
   - cau-hoi/tu-do-ngon-luan.md#nguon
 sach.popper-karl-the-logic-of-scientific-discovery-london-routled:
   type: sach
-  text: 'Popper, Karl, *The Logic of Scientific Discovery*, London: Routledge Classics, 2002 (bản dịch của *Logik der Forschung*, Vienna: Julius Springer, 1934; xem Lời người dịch và §1, §4, §6, §11, §20).'
+  text: 'Popper, Karl, *The Logic of Scientific Discovery*, London: Routledge Classics, 2002 (bản tiếng Anh của *Logik der Forschung*, 1934).'
   used_in:
   - people/popper
 sach.putnam-hilary-1981-reason-truth-and-history-cambridge-cambri:
@@ -2232,9 +2222,9 @@ sach.solove-daniel-j-2008-understanding-privacy-cambridge-ma-harv:
   text: 'Solove, Daniel J. (2008), *Understanding Privacy*, Cambridge, MA: Harvard University Press.'
   used_in:
   - cau-hoi/quyen-rieng-tu-so.md#nguon
-sach.sren-kierkegaard-either-or-1843-fear-and-trembling-1843-ban:
+sach.sren-kierkegaard-either-or-1843-fear-and-trembling-1843:
   type: sach
-  text: Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843) — bản dịch tiếng Anh công cộng.
+  text: Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843).
   used_in:
   - lich-su/the-ky-19.md#nguon
 sach.strawson-peter-f-1962-freedom-and-resentment-proceedings-of:
@@ -2315,7 +2305,7 @@ sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h-3:
   - doc/tho-van-ly-tran.md#nguon
 sach.vien-van-hoc-tho-van-lytran-tap-ii-quyen-thuong-ha-noi-nxb-k:
   type: sach
-  text: 'Viện Văn học, *Thơ văn Lý–Trần*, tập II, quyển thượng, Hà Nội: NXB Khoa học xã hội, 1989 (phần Tuệ Trung Thượng Sĩ).'
+  text: 'Viện Văn học, *Thơ văn Lý–Trần*, tập II, quyển thượng, Hà Nội: NXB Khoa học xã hội, 1988 (phần Tuệ Trung Thượng Sĩ).'
   used_in:
   - people/tue-trung
 sach.w-v-quine-1951-two-dogmas-of-empiricism-the-philosophical-re:
@@ -2644,7 +2634,7 @@ sep.death:
   - people/epicurus
 sep.death-definition:
   type: sep
-  text: Omelianchuk, Adam, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
+  text: DeGrazia, David, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
   url: https://plato.stanford.edu/entries/death-definition/
   archive: https://plato.stanford.edu/archives/fall2026/entries/death-definition/
   accessed: '2026-11-05'
@@ -3177,7 +3167,7 @@ sep.leibniz-evil:
   - people/leibniz
 sep.liar-paradox:
   type: sep
-  text: Beall, Jc, Michael Glanzberg & Ellie Ripley, "Liar Paradox", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
+  text: Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, "Liar Paradox", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
   url: https://plato.stanford.edu/entries/liar-paradox/
   archive: https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/
   accessed: '2026-11-05'
@@ -3405,7 +3395,7 @@ sep.mohist-canons:
   - people/trang-tu
 sep.moral-animal:
   type: sep
-  text: Gruen, Lori, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
+  text: Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
   texts_seen:
   - Gruen, Lori & Susana Monsó, “The Moral Status of Animals”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
   url: https://plato.stanford.edu/entries/moral-animal/
@@ -4141,9 +4131,9 @@ web.britannica-com.topic-das-kapital:
   - people/marx
 web.buddhanature-tsadra-org.index-php-texts-mahaparinirvanasutra:
   type: khac
-  text: Brunnhölzl, Karl (2014), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
+  text: Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
   texts_seen:
-  - Brunnhölzl, Karl (2014), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
+  - Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
   url: https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra
   used_in:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
@@ -4180,7 +4170,7 @@ web.classics-mit-edu.aristotle-nicomachaen-3-iii-html:
   - cau-hoi/trach-nhiem.md#nguon
 web.classics-mit-edu.aristotle-nicomachaen-4-iv-html:
   type: khac
-  text: Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1908). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
+  text: Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1925). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
   url: http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html
   used_in:
   - cau-hoi/noi-doi.md#nguon
@@ -4190,6 +4180,12 @@ web.classics-mit-edu.aristotle-nicomachaen-html:
   url: http://classics.mit.edu/Aristotle/nicomachaen.html
   used_in:
   - doc/aristotle-dao-duc.md#nguon
+web.congbao-chinhphu-vn.van-ban-nghi-dinh-so-356-2025-nd-cp-468371-htm:
+  type: khac
+  text: Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm>
+  url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm
+  used_in:
+  - cau-hoi/quyen-rieng-tu-so.md#nguon
 web.consc-net.papers-facing-html:
   type: khac
   text: 'Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness". *Journal of Consciousness Studies* 2(3): 200–219. <https://consc.net/papers/facing.html>'
@@ -4252,7 +4248,7 @@ web.ipernity-com.blog-235050-512209:
   - people/tran-duc-thao
 web.journal-hcmue-edu-vn.index-php-hcmuejos-article-download-1260-1251-1261:
   type: khac
-  text: 'Bùi Duy Tân (2007), "Bình Ngô đại cáo: văn bản – bản dịch – nhan đề", *Tạp chí Nghiên cứu văn học*, số 6, tr. 117 trở đi; ý kiến về nhan đề dẫn theo Lý Thơ Phúc (2008), "Hai vấn đề cần thảo luận với tác giả bài *Bình Ngô đại cáo: một số vấn đề về chữ nghĩa*", *Tạp chí Khoa học ĐHSP TP.HCM*, số 13. <https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261>'
+  text: 'Bùi Duy Tân (2007), "Bình Ngô đại cáo: văn bản – bản dịch – nhan đề", *Tạp chí Nghiên cứu văn học*, số 6; ý kiến về nhan đề dẫn theo Lý Thơ Phúc (2008), "Hai vấn đề cần thảo luận với tác giả bài *Bình Ngô đại cáo: một số vấn đề về chữ nghĩa*", *Tạp chí Khoa học ĐHSP TP.HCM*, số 13. <https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261>'
   url: https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261
   used_in:
   - doc/nguyen-trai-binh-ngo.md#nguon
@@ -4390,10 +4386,10 @@ web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-01-0168-book-7-s:
   url: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a
   used_in:
   - doc/platon-hang-dong.md#nguon
-web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-01-0170:
+web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-01-0170-text-apo:
   type: khac
-  text: Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170>
-  url: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170
+  text: Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.>
+  url: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.
   used_in:
   - doc/platon-bien-ho.md#nguon
 web.perseus-tufts-edu.hopper-text-doc-perseus-text-1999-04-0057-entry-e:
@@ -4462,12 +4458,6 @@ web.thelatinlibrary-com.horace-epist1-shtml:
   url: https://www.thelatinlibrary.com/horace/epist1.shtml
   used_in:
   - doc/kant-khai-sang.md#nguon
-web.thuvienphapluat-vn.van-ban-quyen-dan-su-nghi-dinh-356-2025-nd-cp-huon:
-  type: khac
-  text: Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-356-2025-ND-CP-huong-dan-Luat-Bao-ve-du-lieu-ca-nhan-687428.aspx>
-  url: https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-356-2025-ND-CP-huong-dan-Luat-Bao-ve-du-lieu-ca-nhan-687428.aspx
-  used_in:
-  - cau-hoi/quyen-rieng-tu-so.md#nguon
 web.vjol-info-vn.hannom-article-view-233140:
   type: khac
   text: Nguyễn Hải Anh, “Lược quan hệ thống sách ‘Tiết yếu’ gắn với ‘Bùi thị nguyên bản’”, *Tạp chí Hán Nôm*, số 3 (184), 2024 (về *Tứ thư thuyết ước*). <https://vjol.info.vn/hannom/article/view/233140>
@@ -4476,23 +4466,21 @@ web.vjol-info-vn.hannom-article-view-233140:
   - people/chu-van-an
 web.vjol-info-vn.ncpt-hue-article-view-16248:
   type: khac
-  text: Nguyễn Huệ Chi, “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”, *Tạp chí Nghiên cứu và Phát triển* (Huế), số 3–4 (110–111), 2014. <https://vjol.info.vn/ncpt-hue/article/view/16248>
-  texts_seen:
-  - Nguyễn Huệ Chi, “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”, *Tạp chí Nghiên cứu và Phát triển* (Huế), số 3–4 (110–111), 2014, tr. 169–190. <https://vjol.info.vn/ncpt-hue/article/view/16248>
+  text: Nguyễn Huệ Chi, “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”, *Tạp chí Nghiên cứu và Phát triển* (Huế), số 3–4, 2014, tr. 169–190. <https://vjol.info.vn/ncpt-hue/article/view/16248>
   url: https://vjol.info.vn/ncpt-hue/article/view/16248
   used_in:
   - people/tran-nhan-tong
   - people/tue-trung
 web.vjol-info-vn.nnds-article-view-13430:
   type: khac
-  text: Nguyễn Minh Sơn, “Phải chăng thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”, *Ngôn ngữ & Đời sống*, số 5 (175), 2010 (về 254 bài của *Quốc âm thi tập*). <https://vjol.info.vn/NNDS/article/view/13430>
+  text: Nguyễn Minh Sơn, “Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”, *Ngôn ngữ & Đời sống*, số 5, 2010 (về 254 bài của *Quốc âm thi tập*). <https://vjol.info.vn/NNDS/article/view/13430>
   url: https://vjol.info.vn/NNDS/article/view/13430
   used_in:
   - people/nguyen-trai
-web.vjol-info-vn.phil-article-download-135041-110963:
+web.vjol-info-vn.phil-article-view-135041:
   type: khac
-  text: Phạm Công Thưởng, “Phép biện chứng duy vật trong tư tưởng triết học Trần Đức Thảo”, *Tạp chí Triết học*, số 12 (396), 2024, tr. 50–60. <https://vjol.info.vn/phil/article/download/135041/110963/>
-  url: https://vjol.info.vn/phil/article/download/135041/110963/
+  text: Phạm Công Thưởng, “Phép biện chứng duy vật trong tư tưởng triết học Trần Đức Thảo”, *Tạp chí Triết học*, số 12, 2024. <https://vjol.info.vn/phil/article/view/135041>
+  url: https://vjol.info.vn/phil/article/view/135041
   used_in:
   - people/tran-duc-thao
 web.vjol-info-vn.thanglongjournalofscience-article-view-134618:
@@ -4615,7 +4603,7 @@ wikisource.fr.principes-de-la-nature-et-de-la-grace-fondes-en-raison:
   - people/leibniz
 wikisource.vi.bat-nha-ba-la-mat-da-tam-kinh:
   type: wikisource
-  text: 'Trần Trọng Kim, *Phật giáo*, phụ lục: phiên âm và bản dịch Tâm kinh, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh>'
+  text: 'Trần Trọng Kim, *Phật giáo*, tr. 116–118 (mục II: Bát-nhã ba-la-mật-đa tâm kinh): phiên âm và bản dịch Tâm kinh, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh>'
   url: https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh
   used_in:
   - doc/tam-kinh.md#nguon

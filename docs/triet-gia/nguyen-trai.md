@@ -75,7 +75,7 @@ Phần mở đầu *Bình Ngô đại cáo* không kể chiến công mà nêu m
 3. Nguyễn Trãi, *Quan hải* (關海), nguyên văn chữ Hán, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Quan_h%E1%BA%A3i>
 4. Mạnh Tử, thiên Lương Huệ Vương hạ (“tru kỳ quân nhi điếu kỳ dân”) và Tuân Tử, thiên Vương chế (“quân giả chu dã, thứ nhân giả thủy dã”), Chinese Text Project. <https://ctext.org/mengzi/liang-hui-wang-ii>
 5. Nguyễn Trãi, *Toàn tập*, in lần thứ hai có sửa chữa bổ sung, Hà Nội: NXB Khoa học xã hội, 1976.
-6. Nguyễn Minh Sơn, “Phải chăng thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”, *Ngôn ngữ & Đời sống*, số 5 (175), 2010 (về 254 bài của *Quốc âm thi tập*). <https://vjol.info.vn/NNDS/article/view/13430>
+6. Nguyễn Minh Sơn, “Phải chăng từ thời Nguyễn Trãi chưa có từ nêu giả thuyết ‘nếu’?”, *Ngôn ngữ & Đời sống*, số 5, 2010 (về 254 bài của *Quốc âm thi tập*). <https://vjol.info.vn/NNDS/article/view/13430>
 
 ---
 

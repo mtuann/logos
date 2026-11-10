@@ -181,7 +181,7 @@ Gợi ý độ dài: 200–350 chữ.
 3. Young, James O., "The Coherence Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/>
 4. Armour-Garb, Bradley, Daniel Stoljar & James Woodbridge, "Deflationism About Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/>
 5. Legg, Catherine & Christopher Hookway, "Pragmatism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/pragmatism/>; Capps, John, "The Pragmatic Theory of Truth", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/>.
-6. Beall, Jc, Michael Glanzberg & Ellie Ripley, "Liar Paradox", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
+6. Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, "Liar Paradox", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
 7. Aristotle, *Metaphysics*, quyển IV (Γ), chương 7, bản dịch W. D. Ross (1908), Wikisource. <https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4>
 8. Peirce, Charles S. (1878), "How to Make Our Ideas Clear", *Popular Science Monthly* 12: 286–302, Wikisource. <https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II>
 9. James, William (1907), *Pragmatism*, bài giảng VI, Project Gutenberg. <https://www.gutenberg.org/ebooks/5116>

@@ -50,7 +50,7 @@ Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũn
 
 **[Jean-Paul Sartre](../triet-gia/sartre.md)** (1905–1980) đưa những ý tưởng này thành **hiện sinh** (*existentialism*) — triết học nổi tiếng nhất với công chúng thế kỷ 20. Trong *Tồn tại và hư vô* (*L'Être et le néant*, 1943), ông tuyên bố: "hiện hữu đi trước bản chất" — con người sinh ra không có kịch bản sẵn, nên *bị kết án phải tự do*: mọi lựa chọn đều là của ta, không đổ thừa được cho ai. Trong bài giảng "Hiện sinh là một thuyết nhân bản" (giảng cuối năm 1945, in năm 1946), ông biến triết học thành lời kêu gọi hành động.
 
-Ảnh hưởng: hiện sinh vượt ra khỏi giảng đường, đi vào văn chương, điện ảnh, và tâm trạng của cả một thế hệ sau chiến tranh — ở cả phương Tây lẫn miền Nam Việt Nam những năm 1950–1960.
+Ảnh hưởng: hiện sinh vượt ra khỏi giảng đường, đi vào văn chương, điện ảnh, và tâm trạng của cả một thế hệ sau chiến tranh — ở phương Tây, và ở miền Nam Việt Nam từ cuối thập niên 1950, sôi nổi nhất trong thập niên 1960.
 
 ### Trường phái Frankfurt: triết học dấn thân
 

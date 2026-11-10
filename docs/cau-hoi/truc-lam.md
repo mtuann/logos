@@ -71,7 +71,7 @@ Chính Đức Phật là tấm gương của mô hình này: ngài rời bỏ cu
 
 ### 2. Nhập thế Trúc Lâm: tu ngay giữa bụi trần
 
-Trần Nhân Tông đi con đường ngược lại. Ông từng là vua, từng cầm quân đánh giặc **[chắc chắn]**, rồi nhường ngôi năm 1293 **[chắc chắn]**, lên Yên Tử tu năm 1299 và tự hiệu là Trúc Lâm Đại Sĩ **[chắc chắn]** (các sử liệu Phật giáo đời sau còn gọi ông là Hương Vân Đại Đầu Đà **[có cơ sở]**) — nhưng ông không cắt đứt với đời. Ông vẫn dạy học trò, vẫn quan tâm việc nước **[có cơ sở]**; và tuy thiền phái Trúc Lâm chỉ thành hình sau khi cuộc kháng chiến chống Nguyên-Mông đã kết thúc (1288), người sáng lập nó chính là vị vua đã lãnh đạo cuộc kháng chiến ấy **[chắc chắn]**.
+Trần Nhân Tông đi con đường ngược lại. Ông từng là vua, từng cầm quân đánh giặc **[chắc chắn]**, rồi nhường ngôi năm 1293 **[chắc chắn]**, lên Yên Tử tu năm 1299 và tự hiệu là Trúc Lâm Đại Sĩ **[chắc chắn]** (các sử liệu Phật giáo đời sau còn gọi ông là Hương Vân Đại Đầu Đà **[có cơ sở]**) — nhưng ông không cắt đứt với đời. Ông vẫn dạy học trò, vẫn quan tâm việc nước **[có cơ sở]**; và tuy việc xuất gia và lập thiền phái Trúc Lâm của ông diễn ra sau cuộc kháng chiến chống Nguyên-Mông (kết thúc năm 1288), người sáng lập thiền phái chính là vị vua đã lãnh đạo cuộc kháng chiến ấy **[chắc chắn]**.
 
 Tư tưởng "cư trần lạc đạo" của ông có thể diễn đạt thành một lập luận:
 
@@ -110,7 +110,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 - **Đồng thuận:** Trúc Lâm Yên Tử là thiền phái do Trần Nhân Tông sáng lập cuối thế kỷ 13, với ba vị tổ là Trần Nhân Tông, Pháp Loa và Huyền Quang **[chắc chắn]**; tư tưởng "cư trần lạc đạo" là cốt lõi của phái **[có cơ sở]**.
 - **Tranh luận:** mức độ độc lập của Trúc Lâm so với Thiền Trung Hoa, và mức độ "chính trị hóa" trong tư tưởng Trần Nhân Tông (ông là thiền sư trước hết hay nhà chính trị dùng đạo?) — học giới chưa ngã ngũ **[có cơ sở]**.
 - **Hướng nghiên cứu mới:** một số học giả trẻ đặt câu hỏi liệu có nên đọc Trúc Lâm như một *triết học* (với các khái niệm về tâm, duyên, vô tâm) thay vì chỉ như một *lịch sử tôn giáo* — tức là đối xử với Trần Nhân Tông như một triết gia, không chỉ như một nhân vật lịch sử **[suy đoán]** (đây là hướng đi còn ít người làm).
-- Nguồn mốc chính: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình của Viện Triết học, thuộc cụm công trình "Lịch sử tư tưởng Việt Nam" được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016 **[chắc chắn]**.
+- Nguồn mốc chính: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình nằm trong cụm công trình của Nguyễn Tài Thư và các cộng sự được Giải thưởng Nhà nước về khoa học và công nghệ (đợt 5, năm 2016) **[chắc chắn]**.
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 
@@ -174,8 +174,8 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
+1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội — văn bản "Cư trần lạc đạo phú" của Trần Nhân Tông.
 3. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 4. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2024/entries/buddha/> — khái niệm Phật giáo chung (con đường tu tập, xuất thế).
-5. Brunnhölzl, Karl (2014), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
+5. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>

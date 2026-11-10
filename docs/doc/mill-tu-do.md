@@ -60,7 +60,7 @@ Giả sử ý kiến thịnh hành là *đúng*. Ngay cả trong khoa học tự
 !!! quote "Mill, *On Liberty* (1859), chương II, đoạn 34 — nguyên văn, bản Project Gutenberg"
     "But there is a commoner case than either of these; when the conflicting doctrines, instead of being one true and the other false, share the truth between them; and the nonconforming opinion is needed to supply the remainder of the truth, of which the received doctrine embodies only a part. Popular opinions, on subjects not palpable to sense, are often true, but seldom or never the whole truth."
 
-    "Nhưng có một trường hợp phổ biến hơn cả hai trường hợp trên: khi các học thuyết đối nghịch, thay vì một đúng một sai, lại chia nhau phần sự thật; và cần đến ý kiến không theo số đông để bổ sung phần sự thật còn lại, mà học thuyết được chấp nhận chỉ chứa một phần. Những ý kiến phổ biến về các chủ đề giác quan không kiểm chứng được thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật." *(bản dịch của Logos)*
+    "Nhưng có một trường hợp phổ biến hơn cả hai trường hợp trên: khi các học thuyết đối nghịch, thay vì một đúng một sai, lại chia nhau phần sự thật; và cần đến ý kiến không theo số đông để bổ sung phần sự thật còn lại, mà học thuyết được chấp nhận chỉ chứa một phần. Những ý kiến phổ biến về các chủ đề không hiển nhiên đối với giác quan thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật." *(bản dịch của Logos)*
 
 Ví dụ của Mill: thế kỷ 18, khi giới có học say mê "văn minh", những nghịch lý của [Rousseau](../triet-gia/rousseau.md) nổ ra "như những quả bom". Mill nói quan điểm đương thời gần sự thật hơn Rousseau, nhưng Rousseau giữ một phần sự thật mà họ thiếu (II.35).
 

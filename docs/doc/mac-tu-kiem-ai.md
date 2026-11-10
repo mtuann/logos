@@ -14,7 +14,7 @@ block: van-ban
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN. Sách *Mặc Tử* là tuyển tập nhiều người viết qua nhiều thời kỳ; không phần nào tự nhận do chính tay ông viết. Theo mục lục đời Hán, sách có 71 thiên, nay mất 18 (Fraser, SEP).
     - **Thể loại:** tiểu luận nghị luận; mỗi học thuyết chính có ba thiên thượng, trung, hạ. Các đoạn dưới đây thuộc nhóm thiên cốt lõi: *Kiêm ái* (thiên 14, 16), *Phi công* (17), *Thiên chí* (26).
-    - **Đọc toàn văn:** nguyên văn song song với bản dịch tiếng Anh của W. P. Mei (1929) trên ctext.org: [Kiêm ái thượng](https://ctext.org/mozi/universal-love-i), [Kiêm ái hạ](https://ctext.org/mozi/universal-love-iii), [Phi công thượng](https://ctext.org/mozi/condemnation-of-offensive-war-i), [Thiên chí thượng](https://ctext.org/mozi/will-of-heaven-i).
+    - **Đọc toàn văn:** nguyên văn trên ctext.org: [Kiêm ái thượng](https://ctext.org/mozi/universal-love-i), [Kiêm ái hạ](https://ctext.org/mozi/universal-love-iii), [Phi công thượng](https://ctext.org/mozi/condemnation-of-offensive-war-i), [Thiên chí thượng](https://ctext.org/mozi/will-of-heaven-i).
     - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 25 phút.
 
 ## Bối cảnh {#boi-canh}
@@ -139,7 +139,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
-1. *Mặc Tử*, nguyên văn và bản dịch tiếng Anh của W. P. Mei (1929), Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
+1. *Mặc Tử*, nguyên văn, Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
 2. *Mạnh Tử* 3A5 và 3B9, nguyên văn: <https://ctext.org/mengzi/teng-wen-gong-i>; <https://ctext.org/mengzi/teng-wen-gong-ii>.
 3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/archives/fall2026/entries/mohism/>; <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>
 4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), mục 4. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>

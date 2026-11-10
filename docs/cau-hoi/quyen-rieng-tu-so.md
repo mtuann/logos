@@ -69,7 +69,7 @@ Lập trường thứ hai, có gốc từ bài báo kinh điển của Samuel Wa
 
 ### 3. Toàn vẹn ngữ cảnh: vấn đề không phải công hay kín, mà là chảy đúng chỗ
 
-Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004, phát triển đầy đủ trong sách *Privacy in Context*, 2010), cho rằng cả hai lập trường trên đều dùng một khung khái niệm đã lỗi thời: phân chia thế giới thành "thông tin công khai" và "thông tin riêng tư". Trong đời sống thực, ta chia sẻ thông tin *liên tục* — với bác sĩ, với ngân hàng, với bạn bè, với đồng nghiệp — và không thấy đó là "mất riêng tư". Vấn đề chỉ nảy sinh khi thông tin *chảy sai ngữ cảnh*: hồ sơ bệnh án của bạn là bình thường trong tay bác sĩ, nhưng là vi phạm riêng tư nghiêm trọng trong tay công ty bảo hiểm hay nhà tuyển dụng. Riêng tư, theo Nissenbaum, là *toàn vẹn ngữ cảnh* (*contextual integrity*): thông tin phải chảy đúng theo các chuẩn mực của ngữ cảnh mà nó được chia sẻ.
+Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004, phát triển đầy đủ trong sách *Privacy in Context*, 2009), cho rằng cả hai lập trường trên đều dùng một khung khái niệm đã lỗi thời: phân chia thế giới thành "thông tin công khai" và "thông tin riêng tư". Trong đời sống thực, ta chia sẻ thông tin *liên tục* — với bác sĩ, với ngân hàng, với bạn bè, với đồng nghiệp — và không thấy đó là "mất riêng tư". Vấn đề chỉ nảy sinh khi thông tin *chảy sai ngữ cảnh*: hồ sơ bệnh án của bạn là bình thường trong tay bác sĩ, nhưng là vi phạm riêng tư nghiêm trọng trong tay công ty bảo hiểm hay nhà tuyển dụng. Riêng tư, theo Nissenbaum, là *toàn vẹn ngữ cảnh* (*contextual integrity*): thông tin phải chảy đúng theo các chuẩn mực của ngữ cảnh mà nó được chia sẻ.
 
 **Lập luận mạnh nhất.** Điểm mạnh của lý thuyết này là nó giải thích được các trực giác mà hai lập trường trên đều lúng túng. Vì sao bạn thoải mái kể bệnh tình cho bác sĩ nhưng phẫn nộ khi công ty dược mua dữ liệu đó? Vì sao bạn chấp nhận camera an ninh ở ngân hàng nhưng không chấp nhận camera trong nhà tắm? Câu trả lời không nằm ở "thông tin có nhạy cảm không" (hồ sơ bệnh án nhạy cảm hơn nhiều so với hình ảnh bạn trong nhà tắm công cộng), mà ở *chuẩn mực của ngữ cảnh*: bác sĩ được phép biết vì vai trò chữa bệnh; công ty bảo hiểm không được phép biết vì vai trò của họ không bao gồm việc đó. Lý thuyết này cũng giải thích vì sao "đồng ý" chung chung trong điều khoản dịch vụ dài 50 trang là một sự lừa dối: đồng ý thật sự phải gắn với *ngữ cảnh sử dụng cụ thể*, không phải một tờ giấy cho phép mọi thứ.
 
@@ -83,7 +83,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư h
 
 Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "giám sát đại trà có chấp nhận được không" hay "quyền riêng tư là gì". Vì vậy, ở đây ta không có con số nào để trích.
 
-Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2010) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
+Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2009) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 
@@ -180,9 +180,9 @@ Gợi ý độ dài: 250–400 chữ.
 
 1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220.
 2. Nissenbaum, Helen (2004), "Privacy as Contextual Integrity", *Washington Law Review* 79(1): 119.
-3. Nissenbaum, Helen (2010), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
+3. Nissenbaum, Helen (2009), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
 4. Solove, Daniel J. (2007), "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy", *San Diego Law Review* 44: 745–772.
 5. Solove, Daniel J. (2008), *Understanding Privacy*, Cambridge, MA: Harvard University Press.
 6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/privacy/>
-7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-356-2025-ND-CP-huong-dan-Luat-Bao-ve-du-lieu-ca-nhan-687428.aspx>
+7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm>
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>

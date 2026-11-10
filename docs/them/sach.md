@@ -3803,7 +3803,7 @@ Gợi ý độ dài: 200–350 chữ.
 3. Young, James O., "The Coherence Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/>
 4. Armour-Garb, Bradley, Daniel Stoljar & James Woodbridge, "Deflationism About Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/>
 5. Legg, Catherine & Christopher Hookway, "Pragmatism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/pragmatism/>; Capps, John, "The Pragmatic Theory of Truth", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/>.
-6. Beall, Jc, Michael Glanzberg & Ellie Ripley, "Liar Paradox", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
+6. Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, "Liar Paradox", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
 7. Aristotle, *Metaphysics*, quyển IV (Γ), chương 7, bản dịch W. D. Ross (1908), Wikisource. <https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4>
 8. Peirce, Charles S. (1878), "How to Make Our Ideas Clear", *Popular Science Monthly* 12: 286–302, Wikisource. <https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II>
 9. James, William (1907), *Pragmatism*, bài giảng VI, Project Gutenberg. <https://www.gutenberg.org/ebooks/5116>
@@ -6189,7 +6189,7 @@ Gợi ý độ dài: 200–350 chữ.
 3. Augustine, *De mendacio* (khoảng 395) và *Contra mendacium* (420), bản dịch H. Browne, *Nicene and Post-Nicene Fathers*, First Series, tập 3 (1887). <https://www.ccel.org/ccel/schaff/npnf103.v.v.html>
 4. Kant, Immanuel (1785), *Groundwork of the Metaphysic of Morals*, bản dịch T. K. Abbott <https://www.gutenberg.org/ebooks/5682>; Kant (1797), "On a Supposed Right to Tell Lies from Benevolent Motives", bản dịch T. K. Abbott (1889) <https://archive.org/details/cu31924029021612>; nguyên văn: Akademie-Ausgabe VIII: 423–430 <https://www.korpora.org/Kant/aa08/425.html>
 5. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương XVI, mục 24 <https://archive.org/details/introductiontoth033476mbp>; Mill, John Stuart (1863), *Utilitarianism*, chương 2 (lần in thứ 7, 1879) <https://www.gutenberg.org/ebooks/11224>
-6. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1908). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
+6. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1925). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
 7. *Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11, nguyên văn và bản dịch James Legge: <https://ctext.org/analects>, <https://ctext.org/mengzi>; Csikszentmihalyi, Mark, "Confucius", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 8. Grotius, Hugo (1625), *The Rights of War and Peace*, III.1, mục 11–16, bản dịch A. C. Campbell <https://www.gutenberg.org/ebooks/46564>; Pliny Trẻ, *Thư* III.16, bản dịch W. Melmoth <https://www.gutenberg.org/ebooks/2811>
 9. Bok, Sissela (1978), *Lying: Moral Choice in Public and Private Life*, New York: Pantheon Books.
@@ -6295,7 +6295,7 @@ Sartre (*Thuyết hiện sinh là một thuyết nhân bản*, 1946) nói **hi�
 
 Lập trường này cho rằng câu hỏi "thiện hay ác" đặt sai: con người sinh ra *để có thể* tốt, và cũng có thể rất xấu. Aristotle (384–322 TCN) viết rằng con người "tự nhiên là một động vật chính trị"; khi được hoàn thiện, nó là loài tốt nhất, tách khỏi luật pháp và công lý thì là loài tệ nhất, vì trí khôn và lòng can đảm bẩm sinh có thể dùng cho những mục đích trái ngược nhau (*Chính trị học* 1253a). Trong *Đạo đức Nicomachus*, công năng riêng của con người là hoạt động theo lý trí (I.7), và đức hạnh "không nảy sinh do tự nhiên, cũng không trái với tự nhiên; tự nhiên cho ta khả năng tiếp nhận chúng, và thói quen làm chúng hoàn thiện" (II.1, *bản dịch của Logos*): ta thành người công bằng nhờ làm việc công bằng, như thành thợ xây nhờ xây nhà (xem [Hướng dẫn đọc Đạo đức Nicomachus](../doc/aristotle-dao-duc.md)).
 
-Phật giáo Đại thừa có một ý tưởng cùng dáng dấp: **Phật tính** (*Buddha-nature*). Kinh *Đại Bát Niết-bàn*, nguồn kinh điển chính cho các bàn luận về Phật tính ở Trung Hoa, dạy rằng mọi chúng sinh đều có Phật tính, như hạt giống của sự giác ngộ, bị che lấp chứ không mất (Brunnhölzl 2014). Đó không phải "thiện" theo nghĩa của Mạnh Tử mà là khả năng tỉnh thức, cần tu tập mới hiển lộ (xem [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md)).
+Phật giáo Đại thừa có một ý tưởng cùng dáng dấp: **Phật tính** (*Buddha-nature*). Kinh *Đại Bát Niết-bàn*, nguồn kinh điển chính cho các bàn luận về Phật tính ở Trung Hoa, dạy rằng mọi chúng sinh đều có Phật tính, như hạt giống của sự giác ngộ, bị che lấp chứ không mất (Brunnhölzl 2015). Đó không phải "thiện" theo nghĩa của Mạnh Tử mà là khả năng tỉnh thức, cần tu tập mới hiển lộ (xem [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md)).
 
 **Lập luận mạnh nhất.** Lập trường này giữ phần đúng của cả ba lập trường trước: có lòng giúp người và có lòng ghen tị, có ham muốn cần uốn nắn và có sức nhào nặn của văn hóa. Nó giải thích vì sao cùng một trí thông minh làm ra cả vắc-xin lẫn vũ khí, và cho ta thước đo để đánh giá cách nuôi dạy.
 
@@ -6386,7 +6386,7 @@ Mọi câu trích tiếng Việt trong bài là bản dịch của Logos, từ n
 10. Aristotle, *Chính trị học* I.2 (bản tiếng Anh của W. Ellis) <https://www.gutenberg.org/ebooks/6762> và *Đạo đức Nicomachus* I.7, II.1 (bản của W. D. Ross) <http://classics.mit.edu/Aristotle/nicomachaen.html>; Augustine, *Confessiones* I.7 (bản của E. B. Pusey) <https://www.gutenberg.org/ebooks/3296>; Tornau, Christian, "Augustine of Hippo", SEP <https://plato.stanford.edu/archives/fall2026/entries/augustine/>
 11. Warneken, F. & M. Tomasello (2006), *Science* 311: 1301–1303 <https://doi.org/10.1126/science.1121448>; Hamlin, J. K., K. Wynn & P. Bloom (2007), *Nature* 450: 557–559 <https://doi.org/10.1038/nature06288>; Lucca, K. và cộng sự (2025), *Developmental Science* 28(1): e13581 <https://doi.org/10.1111/desc.13581>; de Waal, Frans (2006), *Primates and Philosophers*, Princeton University Press.
 12. Platon, *Cộng hòa*, quyển II (bản của B. Jowett) <https://www.gutenberg.org/ebooks/1497>; Suler, John (2004), *CyberPsychology & Behavior* 7(3): 321–326 <https://doi.org/10.1089/1094931041291295>; Microsoft (2016), "Learning from Tay's introduction" <https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/>
-13. Brunnhölzl, Karl (2014), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
+13. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
 14. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -6764,7 +6764,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House (tái bản nhiều lần).
 2. Singer, Peter (1972), "Famine, Affluence, and Morality", *Philosophy & Public Affairs* 1(3): 229–243.
-3. Gruen, Lori, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
+3. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
 4. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
 5. MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về "vị tha hiệu quả").
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -7789,7 +7789,7 @@ Lập trường thứ hai, có gốc từ bài báo kinh điển của Samuel Wa
 
 ### 3. Toàn vẹn ngữ cảnh: vấn đề không phải công hay kín, mà là chảy đúng chỗ
 
-Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004, phát triển đầy đủ trong sách *Privacy in Context*, 2010), cho rằng cả hai lập trường trên đều dùng một khung khái niệm đã lỗi thời: phân chia thế giới thành "thông tin công khai" và "thông tin riêng tư". Trong đời sống thực, ta chia sẻ thông tin *liên tục* — với bác sĩ, với ngân hàng, với bạn bè, với đồng nghiệp — và không thấy đó là "mất riêng tư". Vấn đề chỉ nảy sinh khi thông tin *chảy sai ngữ cảnh*: hồ sơ bệnh án của bạn là bình thường trong tay bác sĩ, nhưng là vi phạm riêng tư nghiêm trọng trong tay công ty bảo hiểm hay nhà tuyển dụng. Riêng tư, theo Nissenbaum, là *toàn vẹn ngữ cảnh* (*contextual integrity*): thông tin phải chảy đúng theo các chuẩn mực của ngữ cảnh mà nó được chia sẻ.
+Lập trường thứ ba, của Helen Nissenbaum (nêu từ bài báo năm 2004, phát triển đầy đủ trong sách *Privacy in Context*, 2009), cho rằng cả hai lập trường trên đều dùng một khung khái niệm đã lỗi thời: phân chia thế giới thành "thông tin công khai" và "thông tin riêng tư". Trong đời sống thực, ta chia sẻ thông tin *liên tục* — với bác sĩ, với ngân hàng, với bạn bè, với đồng nghiệp — và không thấy đó là "mất riêng tư". Vấn đề chỉ nảy sinh khi thông tin *chảy sai ngữ cảnh*: hồ sơ bệnh án của bạn là bình thường trong tay bác sĩ, nhưng là vi phạm riêng tư nghiêm trọng trong tay công ty bảo hiểm hay nhà tuyển dụng. Riêng tư, theo Nissenbaum, là *toàn vẹn ngữ cảnh* (*contextual integrity*): thông tin phải chảy đúng theo các chuẩn mực của ngữ cảnh mà nó được chia sẻ.
 
 **Lập luận mạnh nhất.** Điểm mạnh của lý thuyết này là nó giải thích được các trực giác mà hai lập trường trên đều lúng túng. Vì sao bạn thoải mái kể bệnh tình cho bác sĩ nhưng phẫn nộ khi công ty dược mua dữ liệu đó? Vì sao bạn chấp nhận camera an ninh ở ngân hàng nhưng không chấp nhận camera trong nhà tắm? Câu trả lời không nằm ở "thông tin có nhạy cảm không" (hồ sơ bệnh án nhạy cảm hơn nhiều so với hình ảnh bạn trong nhà tắm công cộng), mà ở *chuẩn mực của ngữ cảnh*: bác sĩ được phép biết vì vai trò chữa bệnh; công ty bảo hiểm không được phép biết vì vai trò của họ không bao gồm việc đó. Lý thuyết này cũng giải thích vì sao "đồng ý" chung chung trong điều khoản dịch vụ dài 50 trang là một sự lừa dối: đồng ý thật sự phải gắn với *ngữ cảnh sử dụng cụ thể*, không phải một tờ giấy cho phép mọi thứ.
 
@@ -7803,7 +7803,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư h
 
 Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "giám sát đại trà có chấp nhận được không" hay "quyền riêng tư là gì". Vì vậy, ở đây ta không có con số nào để trích.
 
-Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2010) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
+Một điều có thể nói một cách trung thực: triết học về quyền riêng tư là một lĩnh vực đang bùng nổ cùng với chính công nghệ số — từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2009) và hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước. Nhưng "đang bùng nổ" không phải là một con số khảo sát. Khi nào có khảo sát, ta sẽ trích; khi chưa có, ta nói rõ là chưa có.
 
 ## Liên hệ đời sống
 
@@ -7900,11 +7900,11 @@ Gợi ý độ dài: 250–400 chữ.
 
 1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220.
 2. Nissenbaum, Helen (2004), "Privacy as Contextual Integrity", *Washington Law Review* 79(1): 119.
-3. Nissenbaum, Helen (2010), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
+3. Nissenbaum, Helen (2009), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
 4. Solove, Daniel J. (2007), "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy", *San Diego Law Review* 44: 745–772.
 5. Solove, Daniel J. (2008), *Understanding Privacy*, Cambridge, MA: Harvard University Press.
 6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/privacy/>
-7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://thuvienphapluat.vn/van-ban/Quyen-dan-su/Nghi-dinh-356-2025-ND-CP-huong-dan-Luat-Bao-ve-du-lieu-ca-nhan-687428.aspx>
+7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm>
 8. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
@@ -8082,7 +8082,7 @@ Gợi ý độ dài: 250–400 chữ.
 
 1. Ad Hoc Committee of the Harvard Medical School (1968), "A Definition of Irreversible Coma", *JAMA*, vol. 205, no. 6, tr. 337–340.
 2. Wilkinson, Martin & Stephen Wilkinson, "The Donation of Human Organs", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/organ-donation/>
-3. Omelianchuk, Adam, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
+3. DeGrazia, David, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
 4. Johnson, Eric J. & Daniel Goldstein (2003), "Do Defaults Save Lives?", *Science* 302 (5649): 1338–1339. <https://doi.org/10.1126/science.1091721>
 5. Fabre, John, Paul Murphy & Rafael Matesanz (2010), "Presumed consent: a distraction in the quest for increasing rates of organ donation", *BMJ* 341: c4973. <https://doi.org/10.1136/bmj.c4973>
 6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
@@ -8262,7 +8262,7 @@ Gợi ý độ dài: 150–300 chữ.
 ## Nguồn
 
 1. Hobbes, Thomas (1651), *Leviathan*. Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/3207>
-2. Locke, John (1689; trang bìa ghi 1690), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng: <https://www.gutenberg.org/ebooks/7370>
+2. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo bản in lại lần thứ sáu, 1763). <https://www.gutenberg.org/ebooks/7370>
 3. Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>
 4. Hume, David (1748), "Of the Original Contract", in lần đầu trong *Three Essays, Moral and Political* (1748), cùng năm được đưa vào ấn bản thứ ba của *Essays, Moral and Political*. <https://davidhume.org/texts/empl2/oc>
 5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
@@ -8898,7 +8898,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. van der Vossen, Bas & Billy Christmas, "Libertarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/libertarianism/>
 2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
-3. Locke, John (1689; trang bìa ghi 1690), *Two Treatises of Government*, London: Awnsham Churchill (phạm vi công cộng). Khảo luận thứ hai: <https://www.gutenberg.org/ebooks/7370>
+3. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo bản in lại lần thứ sáu, 1763). <https://www.gutenberg.org/ebooks/7370>
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
 6. Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>
@@ -12175,8 +12175,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Gallow, J. Dmitri, "The Metaphysics of Causation", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/causation-metaphysics/>
 2. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.
 3. Lewis, David (1973), "Causation", *Journal of Philosophy* 70(17): 556–567. <https://doi.org/10.2307/2025310>
-4. Bài [Hume về nhân quả](../doc/hume-nhan-qua.md) trên site này.
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+4. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
 
 <div class="oz-page-break"></div>
 
@@ -13760,7 +13759,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, London: Henry G. Bohn, 1853; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
+1. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, Bohn's Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
 2. Lucretius, *De Rerum Natura* (*Về bản chất của sự vật*), Quyển III (lập luận đối xứng). Bản dịch tiếng Anh của William Ellery Leonard (1916, phạm vi công cộng). <https://www.gutenberg.org/ebooks/785>
 3. Nagel, Thomas (1970), "Death", *Noûs* 4(1): 73–80.
 4. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
@@ -13835,7 +13834,7 @@ Chính Đức Phật là tấm gương của mô hình này: ngài rời bỏ cu
 
 ### 2. Nhập thế Trúc Lâm: tu ngay giữa bụi trần
 
-Trần Nhân Tông đi con đường ngược lại. Ông từng là vua, từng cầm quân đánh giặc **[chắc chắn]**, rồi nhường ngôi năm 1293 **[chắc chắn]**, lên Yên Tử tu năm 1299 và tự hiệu là Trúc Lâm Đại Sĩ **[chắc chắn]** (các sử liệu Phật giáo đời sau còn gọi ông là Hương Vân Đại Đầu Đà **[có cơ sở]**) — nhưng ông không cắt đứt với đời. Ông vẫn dạy học trò, vẫn quan tâm việc nước **[có cơ sở]**; và tuy thiền phái Trúc Lâm chỉ thành hình sau khi cuộc kháng chiến chống Nguyên-Mông đã kết thúc (1288), người sáng lập nó chính là vị vua đã lãnh đạo cuộc kháng chiến ấy **[chắc chắn]**.
+Trần Nhân Tông đi con đường ngược lại. Ông từng là vua, từng cầm quân đánh giặc **[chắc chắn]**, rồi nhường ngôi năm 1293 **[chắc chắn]**, lên Yên Tử tu năm 1299 và tự hiệu là Trúc Lâm Đại Sĩ **[chắc chắn]** (các sử liệu Phật giáo đời sau còn gọi ông là Hương Vân Đại Đầu Đà **[có cơ sở]**) — nhưng ông không cắt đứt với đời. Ông vẫn dạy học trò, vẫn quan tâm việc nước **[có cơ sở]**; và tuy việc xuất gia và lập thiền phái Trúc Lâm của ông diễn ra sau cuộc kháng chiến chống Nguyên-Mông (kết thúc năm 1288), người sáng lập thiền phái chính là vị vua đã lãnh đạo cuộc kháng chiến ấy **[chắc chắn]**.
 
 Tư tưởng "cư trần lạc đạo" của ông có thể diễn đạt thành một lập luận:
 
@@ -13874,7 +13873,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 - **Đồng thuận:** Trúc Lâm Yên Tử là thiền phái do Trần Nhân Tông sáng lập cuối thế kỷ 13, với ba vị tổ là Trần Nhân Tông, Pháp Loa và Huyền Quang **[chắc chắn]**; tư tưởng "cư trần lạc đạo" là cốt lõi của phái **[có cơ sở]**.
 - **Tranh luận:** mức độ độc lập của Trúc Lâm so với Thiền Trung Hoa, và mức độ "chính trị hóa" trong tư tưởng Trần Nhân Tông (ông là thiền sư trước hết hay nhà chính trị dùng đạo?) — học giới chưa ngã ngũ **[có cơ sở]**.
 - **Hướng nghiên cứu mới:** một số học giả trẻ đặt câu hỏi liệu có nên đọc Trúc Lâm như một *triết học* (với các khái niệm về tâm, duyên, vô tâm) thay vì chỉ như một *lịch sử tôn giáo* — tức là đối xử với Trần Nhân Tông như một triết gia, không chỉ như một nhân vật lịch sử **[suy đoán]** (đây là hướng đi còn ít người làm).
-- Nguồn mốc chính: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình của Viện Triết học, thuộc cụm công trình "Lịch sử tư tưởng Việt Nam" được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016 **[chắc chắn]**.
+- Nguồn mốc chính: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình nằm trong cụm công trình của Nguyễn Tài Thư và các cộng sự được Giải thưởng Nhà nước về khoa học và công nghệ (đợt 5, năm 2016) **[chắc chắn]**.
 
 ## Liên hệ đời sống
 
@@ -13938,11 +13937,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
+1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội — văn bản "Cư trần lạc đạo phú" của Trần Nhân Tông.
 3. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 4. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2024/entries/buddha/> — khái niệm Phật giáo chung (con đường tu tập, xuất thế).
-5. Brunnhölzl, Karl (2014), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
+5. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion — về Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*; trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
 
 <div class="oz-page-break"></div>
 
@@ -13952,7 +13951,7 @@ Gợi ý độ dài: 150–300 chữ.
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: Nho giáo đến Việt Nam như công cụ của kẻ đô hộ, nhưng chính những nhà Nho Việt lại dùng nó để chống phương Bắc (rõ nhất là [Nguyễn Trãi](../triet-gia/nguyen-trai.md)) và hiểu nó theo cách của mình ([Chu Văn An](../triet-gia/chu-van-an.md), Nguyễn Bỉnh Khiêm) — một học thuyết ngoại lai trở thành "của mình" bằng cách nào, và cái gì làm nên "truyền thống" của một dân tộc?
-    - Hai lập trường lịch sử: tiếp thu — Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa (cùng chữ, cùng kinh điển, cùng khoa cử; chỉ là một "trường phái địa phương"); sáng tạo/Việt hóa (Trần Đình Hượu, *Đến hiện đại từ truyền thống*, 1996) — người Việt chọn lọc mặt thực tiễn-đạo đức, và Nguyễn Trãi đã *định nghĩa lại* "nhân nghĩa" thành "cốt ở yên dân" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.
+    - Hai lập trường lịch sử: tiếp thu — Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa (cùng chữ, cùng kinh điển, cùng khoa cử; chỉ là một "trường phái địa phương"); sáng tạo/Việt hóa — người Việt chọn lọc mặt thực tiễn-đạo đức, và Nguyễn Trãi đã *định nghĩa lại* "nhân nghĩa" thành "cốt ở yên dân" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.
     - Lập trường triết học về "truyền thống": định nghĩa tĩnh (giữ nguyên cha ông để lại) đối đầu định nghĩa động (truyền thống là cuộc đối thoại liên tục giữa quá khứ và hiện tại) — bài bênh vực định nghĩa động: ngay cả Nho giáo Trung Hoa cũng đã "định nghĩa lại" nhau suốt hai nghìn năm.
     - Thái độ của bài: mỗi khẳng định lịch sử được gắn nhãn độ chắc chắn (chắc chắn / có cơ sở / suy đoán); nghịch lý "vũ khí của kẻ thù thành vũ khí của mình" là sợi chỉ đỏ của bài.
 
@@ -13979,11 +13978,11 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ## Câu hỏi thật sự là gì?
 
-Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được dựng hoặc tu sửa (chữ 脩 trong *Toàn thư* hiểu được cả hai cách) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học đầu tiên của nhà nước — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
+Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được làm (*Toàn thư* chép 脩文廟) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học của triều đình — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
 
 Một chi tiết đáng chú ý: chính trong hệ thống ấy, những nhà Nho Việt Nam xuất sắc nhất lại thường là những người *dám cãi* — Chu Văn An dâng "thất trảm sớ" xin vua Trần Dụ Tông chém bảy gian thần, vua không nghe, ông bèn từ quan **[chắc chắn]** (sự kiện được sử sách ghi lại); Nguyễn Bỉnh Khiêm (1491–1585) **[chắc chắn]** đỗ Trạng nguyên rồi cáo quan về dạy học ở am Bạch Vân, đào tạo hàng trăm học trò **[có cơ sở]**. Họ trung thành với Nho giáo, nhưng là thứ Nho giáo mà họ hiểu theo cách của mình.
 
-Điều lạ lùng: cùng một học thuyết ấy, trong tay sĩ phu Việt, lại sinh ra những điều "rất Việt Nam". Nguyễn Trãi viết trong *Bình Ngô đại cáo* (1428) **[chắc chắn]** (câu dịch quen thuộc trong sách giáo khoa):
+Điều lạ lùng: cùng một học thuyết ấy, trong tay sĩ phu Việt, lại sinh ra những điều "rất Việt Nam". Nguyễn Trãi viết trong *Bình Ngô đại cáo* (1428) **[chắc chắn]** (câu dịch thường gặp):
 > Việc nhân nghĩa cốt ở yên dân,
 > Quân điếu phạt trước lo trừ bạo.
 
@@ -14014,7 +14013,7 @@ Phe "sáng tạo" có thể đáp lại điểm này: người sáng tạo hiế
 
 ### 2. Sáng tạo: Nho giáo đã được Việt hóa
 
-Trần Đình Hượu, trong *Đến hiện đại từ truyền thống* (NXB Văn hóa, 1996) **[chắc chắn]**, là người trình bày có hệ thống nhất luận điểm Việt hóa Nho giáo. Theo ông, Nho giáo khi vào Việt Nam đã được chọn lọc và biến đổi: người Việt tiếp thu mặt *thực tiễn, đạo đức* của Nho giáo mà ít quan tâm đến mặt siêu hình, duy lý của Tống Nho **[có cơ sở]** (đây là luận điểm của Trần Đình Hượu, được nhiều nhà nghiên cứu tán đồng nhưng cũng có người tranh luận).
+Lập trường này cho rằng Nho giáo khi vào Việt Nam đã được chọn lọc và biến đổi: người Việt tiếp thu mặt *thực tiễn, đạo đức* của Nho giáo mà ít quan tâm đến mặt siêu hình, duy lý của Tống Nho **[có cơ sở]** (một quan điểm trong giới nghiên cứu: có người tán đồng, cũng có người tranh luận).
 
 Bằng chứng mạnh nhất là Nguyễn Trãi. Ông không chỉ "áp dụng" Nho giáo mà *định nghĩa lại* khái niệm trung tâm của nó:
 
@@ -14050,10 +14049,10 @@ Hãy thử định nghĩa "truyền thống" như một khái niệm triết h�
 Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt Nam, nên không có số liệu để trích. Bức tranh học thuật trong nước:
 
 - **Đồng thuận:** Nho giáo du nhập từ thời Bắc thuộc, thành hệ tư tưởng chính thống dưới các triều đại phong kiến độc lập, đặc biệt nhà Lê **[chắc chắn]**; các nhân vật Chu Văn An, Nguyễn Trãi, Nguyễn Bỉnh Khiêm là những nhà Nho tiêu biểu **[chắc chắn]**.
-- **Luận điểm có ảnh hưởng:** Trần Đình Hượu (*Đến hiện đại từ truyền thống*, 1996) cho rằng Nho giáo Việt Nam đã được Việt hóa theo hướng thực tiễn và yêu nước — luận điểm này định hình cách dạy và nghiên cứu trong nhiều thập kỷ **[có cơ sở]**.
+- **Một nhà nghiên cứu có ảnh hưởng:** Trần Đình Hượu nghiên cứu mối liên hệ giữa Nho giáo và cơ chế nhà nước chuyên chế phương Đông, cùng tác động của nó tới con người Việt Nam hiện đại; trong *Đến hiện đại từ truyền thống* (in lần đầu 1994; NXB Văn hóa tái bản 1996), ông coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống **[có cơ sở]**.
 - **Tranh luận mở:** mức độ "sáng tạo" thực sự của Nho giáo Việt so với Nho giáo Trung Hoa; và câu hỏi liệu có nên gọi đó là "triết học Việt Nam" hay chỉ là "Nho giáo ở Việt Nam" **[có cơ sở]**.
 - **Một góc nhìn bổ sung:** có học giả lưu ý rằng chính Nho giáo Trung Hoa cũng không đồng nhất — Nho gia thời Chiến Quốc khác Tống Nho, Tống Nho khác Hán Nho **[chắc chắn]**. Vậy câu hỏi "Nho giáo Việt có phải là Nho giáo thật không?" có thể đặt ngược lại: có "Nho giáo thật" nào để so sánh không, hay mọi Nho giáo đều là Nho giáo của một nơi, một thời? **[suy đoán]** (câu hỏi gợi mở; không phải luận điểm đã thành hình trong học giới).
-- Nguồn mốc: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình của Viện Triết học, thuộc cụm công trình "Lịch sử tư tưởng Việt Nam" được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016 **[chắc chắn]**.
+- Nguồn mốc: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình nằm trong cụm công trình của Nguyễn Tài Thư và các cộng sự được Giải thưởng Nhà nước về khoa học và công nghệ (đợt 5, năm 2016) **[chắc chắn]**.
 
 ## Liên hệ đời sống
 
@@ -14069,9 +14068,9 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 ## Đọc văn bản gốc
 
-Dưới đây là hai câu mở đầu *Bình Ngô đại cáo* của Nguyễn Trãi (văn bản chữ Hán, 1428 — đã hết bản quyền), kèm câu dịch quen thuộc trong sách giáo khoa (chưa xác định chắc chắn người dịch).
+Dưới đây là hai câu mở đầu *Bình Ngô đại cáo* của Nguyễn Trãi (văn bản chữ Hán, 1428 — đã hết bản quyền), kèm câu dịch thường gặp (Wikisource tiếng Việt ghi là bản dịch của Ngô Tất Tố).
 
-!!! quote "Nguyễn Trãi, *Bình Ngô đại cáo*, 1428 (câu dịch trong sách giáo khoa)"
+!!! quote "Nguyễn Trãi, *Bình Ngô đại cáo*, 1428 (câu dịch thường gặp)"
     "Việc nhân nghĩa cốt ở yên dân,
     Quân điếu phạt trước lo trừ bạo."
 
@@ -14093,7 +14092,7 @@ Thử xem bạn nắm được đến đâu.
 <script type="application/json">
 [
  {"q": "Nguyễn Trãi đã làm gì với khái niệm 'nhân nghĩa' của Nho giáo trong Bình Ngô đại cáo?", "options": ["Giữ nguyên định nghĩa gốc của Khổng Tử", "Định nghĩa lại: nhân nghĩa cốt ở yên dân, và trừ bạo là bổn phận — biến nó thành lý lẽ của độc lập dân tộc", "Bác bỏ khái niệm nhân nghĩa", "Thay nhân nghĩa bằng pháp trị"], "answer": 1, "explain": "Văn bản còn nguyên: 'Việc nhân nghĩa cốt ở yên dân, quân điếu phạt trước lo trừ bạo.' Từ khái niệm đạo đức cá nhân, Nguyễn Trãi nâng nhân nghĩa thành tiêu chuẩn chính trị: dân có yên không, kẻ bạo ngược có bị trừ không."},
- {"q": "Theo Trần Đình Hượu, Nho giáo Việt Nam khác Nho giáo Trung Hoa ở điểm nào?", "options": ["Người Việt không học chữ Hán", "Được Việt hóa theo hướng thực tiễn, ít siêu hình, gắn với yêu nước và độc lập dân tộc", "Bỏ hoàn toàn tam cương ngũ thường", "Chỉ tồn tại ở miền Bắc"], "answer": 1, "explain": "Luận điểm của Trần Đình Hượu trong Đến hiện đại từ truyền thống (1996): người Việt chọn lọc mặt thực tiễn, đạo đức của Nho giáo, ít quan tâm mặt siêu hình của Tống Nho, và gắn nó với sự nghiệp giữ nước."},
+ {"q": "Theo lập trường 'Việt hóa' trong bài, Nho giáo Việt Nam khác Nho giáo Trung Hoa ở điểm nào?", "options": ["Người Việt không học chữ Hán", "Được Việt hóa theo hướng thực tiễn, ít siêu hình, gắn với yêu nước và độc lập dân tộc", "Bỏ hoàn toàn tam cương ngũ thường", "Chỉ tồn tại ở miền Bắc"], "answer": 1, "explain": "Lập trường Việt hóa (một quan điểm trong giới nghiên cứu) cho rằng người Việt chọn lọc mặt thực tiễn, đạo đức của Nho giáo, ít quan tâm mặt siêu hình của Tống Nho, và gắn nó với sự nghiệp giữ nước."},
  {"q": "Phản bác mạnh nhất nhằm vào lập trường 'Nho giáo Việt chỉ là sao chép' là gì?", "options": ["Người Việt không biết chữ Hán", "Một công cụ sao chép thuần túy không thể quay ngược chống lại chủ của nó — Nho giáo trong tay sĩ phu Việt lại thành lý lẽ chống xâm lược, chứng tỏ đã có biến đổi thực chất", "Nho giáo Trung Hoa đã biến mất", "Chu Văn An không phải nhà Nho"], "answer": 1, "explain": "Cùng một học thuyết, ở Trung Hoa là công cụ của 'thiên triều', ở Việt Nam thành lý lẽ của độc lập. Sự 'quay ngược' ấy không thể giải thích bằng sao chép thuần túy."},
  {"q": "Theo 'định nghĩa động' về truyền thống trong bài, Nguyễn Trãi là người như thế nào?", "options": ["Phản bội truyền thống Nho giáo", "Người viết tiếp truyền thống: vẫn nói ngôn ngữ Nho giáo (nhân, nghĩa, dân) nhưng nói một câu mới bằng ngôn ngữ cũ", "Người không hiểu Nho giáo", "Người sáng lập một tôn giáo mới"], "answer": 1, "explain": "Định nghĩa động coi truyền thống là dòng chảy tiếp nối có biến đổi. Nguyễn Trãi không phá bỏ ngôn ngữ Nho giáo mà dùng chính nó để diễn đạt tư tưởng mới — đó là 'viết tiếp', không phải 'viết khác'."},
  {"q": "Một người bạn nói: 'Áo dài, tiếng Việt vay mượn, Nho giáo ngoại lai — vậy Việt Nam chẳng có bản sắc gì nguyên chất cả.' Dùng nội dung bài, bạn đáp lại thế nào?", "options": ["Đồng ý, Việt Nam không có bản sắc", "Bản sắc không phải là cái nguyên chất mà là cái đã được tiêu hóa thành của mình — như Nho giáo ngoại lai đã thành một phần bản sắc", "Bản sắc chỉ tính từ năm 1945", "Không nên bàn về bản sắc"], "answer": 1, "explain": "Bài lập luận: chính Nho giáo — một học thuyết ngoại lai — từng là một phần của bản sắc Việt. Bản sắc là kết quả của quá trình tiếp thu và biến đổi, không phải độ nguyên chất."}
@@ -14115,7 +14114,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội (Viện Triết học).
+1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/> — khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
@@ -14145,7 +14144,7 @@ Câu hỏi của bài này: khi một nền tư tưởng phải "hiện đại h
 
     **Bạn đứng về phía nào? Và có cách thứ ba nào không — một cách vừa không quay lưng với truyền thống, vừa không nhắm mắt trước tri thức mới?**
 
-Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Câu hỏi này không chỉ là chuyện của năm 1930.
+Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Câu hỏi này không chỉ thuộc về một thời điểm.
 
 ??? question "Sau khi bạn đã tự trả lời"
     Một chi tiết đáng suy nghĩ thêm: chính những người hô hào "đoạn tuyệt" mạnh nhất — như Phan Châu Trinh — lại là những người *thông thạo* Nho học nhất. Ông đỗ Phó bảng (một học vị cao trong khoa cử) **[chắc chắn]** rồi mới quay sang phê phán khoa cử. Điều đó gợi ý một nghịch lý: để phê phán truyền thống một cách có sức nặng, có khi phải hiểu nó từ bên trong trước đã. Kẻ ngoài cuộc chê thì dễ; người trong cuộc chê mới đau — và mới đáng nghe.
@@ -14156,9 +14155,9 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 **Câu hỏi thứ nhất: triết học Việt Nam hiện đại *gồm những gì*?** Không có một "trường phái Việt Nam hiện đại" duy nhất. Có ít nhất ba dòng chảy lớn: (1) sự suy tàn của Nho học và những nỗ lực canh tân nó; (2) sự du nhập triết học phương Tây qua giáo dục Pháp và báo chí chữ Quốc ngữ; (3) sự tiếp nhận chủ nghĩa Marx, rồi sau 1945 trở thành nền tảng tư tưởng chính thức ở miền Bắc **[có cơ sở]**.
 
-Ba dòng chảy này không nối tiếp nhau gọn gàng mà đan xen, chồng lấn. Một trí thức năm 1930 có thể sáng đọc Khổng Tử, trưa đọc báo chữ Quốc ngữ bàn về [Rousseau](../triet-gia/rousseau.md), tối tham gia hội kín mác-xít — và không thấy có gì mâu thuẫn. Chính sự đan xen đó làm cho triết học Việt Nam hiện đại khó tóm gọn, nhưng cũng là điều khiến nó thú vị: đây là một phòng thí nghiệm sống động về việc các hệ tư tưởng gặp nhau, va chạm và biến đổi lẫn nhau.
+Ba dòng chảy này không nối tiếp nhau gọn gàng mà đan xen, chồng lấn. Hãy hình dung một trí thức khoảng năm 1930: sáng đọc Khổng Tử, trưa đọc báo chữ Quốc ngữ bàn về [Rousseau](../triet-gia/rousseau.md), tối sinh hoạt trong một tổ chức mác-xít — ba nguồn ấy cùng có mặt trong một đời sống trí thức. Chính sự đan xen đó làm cho triết học Việt Nam hiện đại khó tóm gọn, nhưng cũng là điều khiến nó thú vị: đây là một phòng thí nghiệm sống động về việc các hệ tư tưởng gặp nhau, va chạm và biến đổi lẫn nhau.
 
-Còn một dòng chảy nữa, nhỏ hơn nhưng đáng chú ý: **hiện sinh** (*existentialism*). Từ những năm 1950–1960, triết học hiện sinh của [Sartre](../triet-gia/sartre.md) và Camus được dịch và bàn luận sôi nổi ở miền Nam Việt Nam, gắn với tâm trạng của một thế hệ sống giữa chiến tranh — câu hỏi về ý nghĩa, về lựa chọn, về cái chết bỗng trở nên rất cụ thể **[có cơ sở]** (sự tiếp nhận hiện sinh ở miền Nam là một hiện tượng được ghi nhận trong nghiên cứu văn học–tư tưởng). Hiện sinh đến Việt Nam không phải qua giảng đường đại học mà qua văn chương, kịch, cà phê vỉa hè — một con đường "hiện đại hóa" rất khác với con đường hàn lâm của Trần Đức Thảo. Bài này không đi sâu vào dòng chảy này (nguồn tư liệu còn phân tán), nhưng ghi nhận nó để bức tranh được đầy đủ hơn.
+Còn một dòng chảy nữa, nhỏ hơn nhưng đáng chú ý: **hiện sinh** (*existentialism*). Từ cuối thập niên 1950, sôi nổi nhất trong thập niên 1960, triết học hiện sinh của [Sartre](../triet-gia/sartre.md) và Camus được dịch và bàn luận ở miền Nam Việt Nam, gắn với tâm trạng của một thế hệ sống giữa chiến tranh — câu hỏi về ý nghĩa, về lựa chọn, về cái chết bỗng trở nên rất cụ thể **[có cơ sở]** (sự tiếp nhận hiện sinh ở miền Nam là một hiện tượng được ghi nhận trong nghiên cứu văn học–tư tưởng). Hiện sinh đến Việt Nam không phải qua giảng đường đại học mà qua văn chương, kịch, cà phê vỉa hè — một con đường "hiện đại hóa" rất khác với con đường hàn lâm của Trần Đức Thảo. Bài này không đi sâu vào dòng chảy này (nguồn tư liệu còn phân tán), nhưng ghi nhận nó để bức tranh được đầy đủ hơn.
 
 **Câu hỏi thứ hai: quan hệ giữa truyền thống và hiện đại là gì?** Đây là câu hỏi mà Trần Đình Hượu dành cả sự nghiệp để trả lời. "Hiện đại hóa" có nhất thiết nghĩa là "Tây hóa" và đoạn tuyệt với truyền thống không? Hay có một con đường khác — đến hiện đại *từ* truyền thống?
 
@@ -14191,7 +14190,7 @@ Họ cũng có thể chỉ ra một điểm yếu trong phản bác: việc "ng�
 
 ### 2. Đến hiện đại từ truyền thống: con đường của Trần Đình Hượu
 
-Trần Đình Hượu, trong *Đến hiện đại từ truyền thống* (NXB Văn hóa, 1996) **[chắc chắn]**, đề xuất một con đường thứ ba. Ông không phủ nhận sự cần thiết của hiện đại hóa, nhưng ông cho rằng hiện đại hóa không đồng nghĩa với Tây hóa toàn diện và đoạn tuyệt truyền thống. Luận điểm trung tâm của ông, diễn đạt lại bằng lời mình: mỗi dân tộc hiện đại hóa theo cách riêng của mình, *từ* chính truyền thống của mình; Nhật Bản hiện đại hóa mà không phải trở thành phương Tây, thì Việt Nam cũng có thể như vậy **[có cơ sở]** (diễn đạt lại luận điểm xuyên suốt tác phẩm theo cách hiểu phổ biến trong giới nghiên cứu).
+Trần Đình Hượu, trong *Đến hiện đại từ truyền thống* (in lần đầu 1994; NXB Văn hóa tái bản 1996), coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống **[có cơ sở]**. Ông không phủ nhận sự cần thiết của hiện đại hóa, nhưng ông cho rằng hiện đại hóa không đồng nghĩa với Tây hóa toàn diện và đoạn tuyệt truyền thống. Luận điểm trung tâm của ông, diễn đạt lại bằng lời mình: mỗi dân tộc hiện đại hóa theo cách riêng của mình, *từ* chính truyền thống của mình; Nhật Bản hiện đại hóa mà không phải trở thành phương Tây, thì Việt Nam cũng có thể như vậy **[có cơ sở]** (diễn đạt lại luận điểm xuyên suốt tác phẩm theo cách hiểu phổ biến trong giới nghiên cứu).
 
 Theo Trần Đình Hượu, truyền thống Việt Nam có những yếu tố *thuận* cho hiện đại hóa (tinh thần cộng đồng, tính thực tiễn, khả năng tiếp biến văn hóa ngoại lai — người Việt đã nhiều lần "Việt hóa" những gì du nhập từ Trung Hoa hay phương Tây) và những yếu tố *nghịch* (tâm lý tiểu nông, thiếu tinh thần pháp quyền, bệnh hình thức) **[có cơ sở]** (tóm tắt theo cách hiểu phổ biến về tác phẩm; người viết chưa đối chiếu được nguyên văn từng phạm trù). Nhiệm vụ của trí thức không phải là chọn phe "giữ" hay "bỏ", mà là phân tích cụ thể: cái gì trong truyền thống giúp ta đi tới, cái gì níu ta lại.
 
@@ -14574,7 +14573,7 @@ Một chi tiết đáng nhớ: trong phiên tòa, Socrates có cơ hội đề x
 
 ## Platon: thế giới của những ý niệm
 
-**Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — thường được ví là trường đại học đầu tiên của phương Tây.
+**Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — thường được xem là tiền thân xa của trường đại học.
 
 Tư tưởng cốt lõi của ông là **thuyết ý niệm** (*Theory of Forms*): những vật ta thấy chỉ là bản sao mờ nhạt của những **Ý niệm** (*Forms*) hoàn hảo, bất biến, tồn tại độc lập. Có nhiều cái bàn méo mó, nhưng chỉ có một Ý niệm "Bàn" hoàn hảo; có nhiều hành động được gọi là công bằng, nhưng chỉ có một Ý niệm "Công lý". Tri thức thật sự không phải là ý kiến về các bản sao (giác quan), mà là sự nắm bắt các Ý niệm (lý trí).
 
@@ -14602,7 +14601,7 @@ Ba đóng góp lớn nhất:
 
 ## Thời Hellenistic: triết học cho đời sống
 
-Sau khi Alexander Đại đế qua đời (323 TCN), các thành bang Hy Lạp suy tàn, con người mất đi chỗ dựa chính trị cũ. Triết học chuyển hướng: không còn hỏi "thế giới là gì" mà hỏi "sống thế nào cho thanh thản". Hai trường phái lớn:
+Sau khi Alexander Đại đế qua đời (323 TCN), các thành bang Hy Lạp chỉ còn độc lập trên danh nghĩa. Triết học chuyển hướng: không còn hỏi "thế giới là gì" mà hỏi "sống thế nào cho thanh thản". Hai trường phái lớn:
 
 **Khắc kỷ** (*Stoicism*), do [Zeno xứ Citium](../triet-gia/zeno.md) sáng lập khoảng 300 TCN: hạnh phúc đến từ việc sống thuận theo tự nhiên và lý trí, và chỉ đức hạnh mới thật sự là điều thiện. Khoảng bốn thế kỷ sau, [Epictetus](../triet-gia/epictetus.md) gói lời dạy ấy thành phép phân biệt nổi tiếng giữa điều ta kiểm soát được (phán đoán, ý chí của mình) với điều không (danh vọng, sức khỏe, ý kiến người khác) — và chỉ bận tâm về vế đầu. Triết gia Khắc kỷ nổi tiếng nhất là hoàng đế La Mã **[Marcus Aurelius](../triet-gia/marcus-aurelius.md)** (121–180), với cuốn *Suy tưởng* viết cho chính mình giữa chiến trận.
 
@@ -14800,7 +14799,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 2. Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất) — bản dịch tiếng Anh công cộng.
 3. John Locke, *An Essay Concerning Human Understanding* (1689) — bản dịch/văn bản công cộng.
 4. David Hume, *An Enquiry Concerning Human Understanding* (1748) — văn bản công cộng.
-5. Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của Norman Kemp Smith.
+5. Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của J. M. D. Meiklejohn, Project Gutenberg #4280 <https://www.gutenberg.org/ebooks/4280>.
 6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Descartes, Elisabeth of Bohemia, Spinoza, Leibniz, Locke, Berkeley, Hume, Kant.
 
 <div class="oz-page-break"></div>
@@ -14838,7 +14837,7 @@ Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – k
 
 **Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, là "kẻ phản Hegel" đầu tiên theo một nghĩa rất cá nhân: ông cho rằng hệ thống của Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
 
-Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Không có lý trí nào chứng minh được nấc nào cao hơn — chuyển nấc đòi hỏi một **bước nhảy** (*leap*) của đức tin, như Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843) sẵn sàng hiến tế con trai vì vâng lời Chúa, vượt lên trên cả đạo đức thông thường.
+Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Việc chuyển từ nấc này sang nấc khác không phải là một kết luận mà lý trí buộc ta phải chấp nhận, mà là một thành tựu đòi hỏi biến đổi những "đam mê" định hình cả đời sống. Hình mẫu của nấc tôn giáo là Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843), người sẵn sàng hiến tế con trai vì vâng lời Chúa; nhiều người đọc thấy ở đây sự đình chỉ đạo đức thông thường vì một mục đích cao hơn.
 
 Kierkegaard được xem là cha đẻ của **hiện sinh** (*existentialism*): triết học bắt đầu từ trải nghiệm của cá nhân cụ thể — lo âu, tuyệt vọng, lựa chọn — chứ không từ hệ thống trừu tượng.
 
@@ -14874,7 +14873,7 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 |---|---|---|
 | 1770–1831 | Hegel | Biện chứng; Tinh thần Tuyệt đối; chủ–nô |
 | 1818–1883 | Marx | Duy vật lịch sử; giá trị thặng dư; tha hóa |
-| 1813–1855 | Kierkegaard | Ba nấc tồn tại; bước nhảy đức tin |
+| 1813–1855 | Kierkegaard | Ba nấc tồn tại; cá nhân trước hệ thống |
 | 1844–1900 | Nietzsche | Chúa đã chết; siêu nhân; vĩnh cửu luân hồi |
 | 1806–1873 | Mill | Nguyên tắc gây hại; vị lợi luận tinh chỉnh |
 
@@ -14888,8 +14887,8 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 ## Nguồn
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
-2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848); Karl Marx, *Capital*, tập 1 (1867) — bản dịch tiếng Anh công cộng.
-3. Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843) — bản dịch tiếng Anh công cộng.
+2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
+3. Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843).
 4. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
 5. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
 6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
@@ -14942,7 +14941,7 @@ Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũn
 
 **[Jean-Paul Sartre](../triet-gia/sartre.md)** (1905–1980) đưa những ý tưởng này thành **hiện sinh** (*existentialism*) — triết học nổi tiếng nhất với công chúng thế kỷ 20. Trong *Tồn tại và hư vô* (*L'Être et le néant*, 1943), ông tuyên bố: "hiện hữu đi trước bản chất" — con người sinh ra không có kịch bản sẵn, nên *bị kết án phải tự do*: mọi lựa chọn đều là của ta, không đổ thừa được cho ai. Trong bài giảng "Hiện sinh là một thuyết nhân bản" (giảng cuối năm 1945, in năm 1946), ông biến triết học thành lời kêu gọi hành động.
 
-Ảnh hưởng: hiện sinh vượt ra khỏi giảng đường, đi vào văn chương, điện ảnh, và tâm trạng của cả một thế hệ sau chiến tranh — ở cả phương Tây lẫn miền Nam Việt Nam những năm 1950–1960.
+Ảnh hưởng: hiện sinh vượt ra khỏi giảng đường, đi vào văn chương, điện ảnh, và tâm trạng của cả một thế hệ sau chiến tranh — ở phương Tây, và ở miền Nam Việt Nam từ cuối thập niên 1950, sôi nổi nhất trong thập niên 1960.
 
 ### Trường phái Frankfurt: triết học dấn thân
 
@@ -15329,7 +15328,7 @@ Văn bản này đáng đọc vì nó là chân dung rõ nhất về Socrates �
 !!! info "Về văn bản này"
     - **Tác giả:** Platon (k. 428–347 TCN). Ông có mặt ở phiên tòa: chính ông ghi tên mình trong số người dự (34a) và trong số bạn bè bảo lãnh khoản tiền phạt (38b).
     - **Thể loại:** diễn từ trước tòa, chừng 25 trang Stephanus (17a–42a), gồm lời bào chữa (17a–35d), đề nghị hình phạt (35e–38b) và lời nói sau khi bị tuyên án tử (38c–42a). Chữ Hy Lạp *apologia* nghĩa là "lời bào chữa", không phải "lời xin lỗi".
-    - **Đọc toàn văn:** [Project Gutenberg](https://www.gutenberg.org/ebooks/1656) (bản Jowett); [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170) (có số Stephanus).
+    - **Đọc toàn văn:** [Project Gutenberg](https://www.gutenberg.org/ebooks/1656) (bản Jowett); [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.) (có số Stephanus).
     - **Bản dịch được trích:** Benjamin Jowett (in lần đầu 1871; phạm vi công cộng). Số như "38a" là trang và đoạn của ấn bản Stephanus (1578), mọi bản dịch đều ghi.
     - **Thời gian đọc:** các đoạn chọn khoảng 20 phút; cả tác phẩm khoảng một giờ.
 
@@ -15451,7 +15450,7 @@ Thử xem bạn nắm được đến đâu.
 ## Nguồn
 
 1. Platon, *Apology*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1656. <https://www.gutenberg.org/ebooks/1656>
-2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170>
+2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.>
 3. Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 4. Ambury, James M., "Socrates", *Internet Encyclopedia of Philosophy* — bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi. <https://iep.utm.edu/socrates/>
 
@@ -16233,7 +16232,7 @@ Giả sử ý kiến thịnh hành là *đúng*. Ngay cả trong khoa học tự
 !!! quote "Mill, *On Liberty* (1859), chương II, đoạn 34 — nguyên văn, bản Project Gutenberg"
     "But there is a commoner case than either of these; when the conflicting doctrines, instead of being one true and the other false, share the truth between them; and the nonconforming opinion is needed to supply the remainder of the truth, of which the received doctrine embodies only a part. Popular opinions, on subjects not palpable to sense, are often true, but seldom or never the whole truth."
 
-    "Nhưng có một trường hợp phổ biến hơn cả hai trường hợp trên: khi các học thuyết đối nghịch, thay vì một đúng một sai, lại chia nhau phần sự thật; và cần đến ý kiến không theo số đông để bổ sung phần sự thật còn lại, mà học thuyết được chấp nhận chỉ chứa một phần. Những ý kiến phổ biến về các chủ đề giác quan không kiểm chứng được thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật." *(bản dịch của Logos)*
+    "Nhưng có một trường hợp phổ biến hơn cả hai trường hợp trên: khi các học thuyết đối nghịch, thay vì một đúng một sai, lại chia nhau phần sự thật; và cần đến ý kiến không theo số đông để bổ sung phần sự thật còn lại, mà học thuyết được chấp nhận chỉ chứa một phần. Những ý kiến phổ biến về các chủ đề không hiển nhiên đối với giác quan thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật." *(bản dịch của Logos)*
 
 Ví dụ của Mill: thế kỷ 18, khi giới có học say mê "văn minh", những nghịch lý của [Rousseau](../triet-gia/rousseau.md) nổ ra "như những quả bom". Mill nói quan điểm đương thời gần sự thật hơn Rousseau, nhưng Rousseau giữ một phần sự thật mà họ thiếu (II.35).
 
@@ -17318,7 +17317,7 @@ Thử xem bạn nắm được đến đâu.
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN. Sách *Mặc Tử* là tuyển tập nhiều người viết qua nhiều thời kỳ; không phần nào tự nhận do chính tay ông viết. Theo mục lục đời Hán, sách có 71 thiên, nay mất 18 (Fraser, SEP).
     - **Thể loại:** tiểu luận nghị luận; mỗi học thuyết chính có ba thiên thượng, trung, hạ. Các đoạn dưới đây thuộc nhóm thiên cốt lõi: *Kiêm ái* (thiên 14, 16), *Phi công* (17), *Thiên chí* (26).
-    - **Đọc toàn văn:** nguyên văn song song với bản dịch tiếng Anh của W. P. Mei (1929) trên ctext.org: [Kiêm ái thượng](https://ctext.org/mozi/universal-love-i), [Kiêm ái hạ](https://ctext.org/mozi/universal-love-iii), [Phi công thượng](https://ctext.org/mozi/condemnation-of-offensive-war-i), [Thiên chí thượng](https://ctext.org/mozi/will-of-heaven-i).
+    - **Đọc toàn văn:** nguyên văn trên ctext.org: [Kiêm ái thượng](https://ctext.org/mozi/universal-love-i), [Kiêm ái hạ](https://ctext.org/mozi/universal-love-iii), [Phi công thượng](https://ctext.org/mozi/condemnation-of-offensive-war-i), [Thiên chí thượng](https://ctext.org/mozi/will-of-heaven-i).
     - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 25 phút.
 
 ## Bối cảnh
@@ -17443,7 +17442,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn
 
-1. *Mặc Tử*, nguyên văn và bản dịch tiếng Anh của W. P. Mei (1929), Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
+1. *Mặc Tử*, nguyên văn, Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
 2. *Mạnh Tử* 3A5 và 3B9, nguyên văn: <https://ctext.org/mengzi/teng-wen-gong-i>; <https://ctext.org/mengzi/teng-wen-gong-ii>.
 3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/archives/fall2026/entries/mohism/>; <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>
 4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), mục 4. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
@@ -17580,7 +17579,7 @@ Thử xem bạn nắm được đến đâu.
 
 1. *Bát nhã Ba la mật đa Tâm kinh* (般若波羅蜜多心經), Huyền Trang dịch, *Đại chính tân tu Đại tạng kinh* T08 n0251, CBETA. <https://cbetaonline.dila.edu.tw/zh/T0251_001>
 2. Bản dài: *Bát nhã Ba la mật đa Tâm kinh*, Bát Nhã và Lợi Ngôn dịch, T08 n0253, CBETA. <https://cbetaonline.dila.edu.tw/zh/T0253_001>
-3. Trần Trọng Kim, *Phật giáo*, phụ lục: phiên âm và bản dịch Tâm kinh, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh>
+3. Trần Trọng Kim, *Phật giáo*, tr. 116–118 (mục II: Bát-nhã ba-la-mật-đa tâm kinh): phiên âm và bản dịch Tâm kinh, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh>
 4. Long Thọ, *Trung luận* (中論), phẩm 24 "Quán Tứ đế", bản Cưu-ma-la-thập, T30 n1564, CBETA. <https://cbetaonline.dila.edu.tw/zh/T1564_004>
 5. Nattier, Jan (1992), "The Heart Sūtra: A Chinese Apocryphal Text?", *Journal of the International Association of Buddhist Studies* 15(2): 153–223. <https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/8800>
 6. Lopez, Donald S., Jr. (1988), *The Heart Sutra Explained: Indian and Tibetan Commentaries*, Albany: SUNY Press.
@@ -17723,7 +17722,7 @@ Thử xem bạn nắm được đến đâu.
 4. *Mạnh Tử* 1B11, nguyên văn. <https://ctext.org/mengzi/liang-hui-wang-ii>
 5. *Cựu Đường thư*, quyển 53 (truyện Lý Mật, bài hịch kể tội Tùy Dạng Đế), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/舊唐書/卷53>
 6. *Minh sử*, quyển 1 (Thái Tổ bản kỷ: năm 1364 Chu Nguyên Chương lên ngôi Ngô vương), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/明史/卷1>
-7. Bùi Duy Tân (2007), "Bình Ngô đại cáo: văn bản – bản dịch – nhan đề", *Tạp chí Nghiên cứu văn học*, số 6, tr. 117 trở đi; ý kiến về nhan đề dẫn theo Lý Thơ Phúc (2008), "Hai vấn đề cần thảo luận với tác giả bài *Bình Ngô đại cáo: một số vấn đề về chữ nghĩa*", *Tạp chí Khoa học ĐHSP TP.HCM*, số 13. <https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261>
+7. Bùi Duy Tân (2007), "Bình Ngô đại cáo: văn bản – bản dịch – nhan đề", *Tạp chí Nghiên cứu văn học*, số 6; ý kiến về nhan đề dẫn theo Lý Thơ Phúc (2008), "Hai vấn đề cần thảo luận với tác giả bài *Bình Ngô đại cáo: một số vấn đề về chữ nghĩa*", *Tạp chí Khoa học ĐHSP TP.HCM*, số 13. <https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261>
 
 <div class="oz-page-break"></div>
 

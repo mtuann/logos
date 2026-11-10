@@ -191,7 +191,7 @@ Gợi ý độ dài: 200–350 chữ.
 3. Augustine, *De mendacio* (khoảng 395) và *Contra mendacium* (420), bản dịch H. Browne, *Nicene and Post-Nicene Fathers*, First Series, tập 3 (1887). <https://www.ccel.org/ccel/schaff/npnf103.v.v.html>
 4. Kant, Immanuel (1785), *Groundwork of the Metaphysic of Morals*, bản dịch T. K. Abbott <https://www.gutenberg.org/ebooks/5682>; Kant (1797), "On a Supposed Right to Tell Lies from Benevolent Motives", bản dịch T. K. Abbott (1889) <https://archive.org/details/cu31924029021612>; nguyên văn: Akademie-Ausgabe VIII: 423–430 <https://www.korpora.org/Kant/aa08/425.html>
 5. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương XVI, mục 24 <https://archive.org/details/introductiontoth033476mbp>; Mill, John Stuart (1863), *Utilitarianism*, chương 2 (lần in thứ 7, 1879) <https://www.gutenberg.org/ebooks/11224>
-6. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1908). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
+6. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1925). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
 7. *Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11, nguyên văn và bản dịch James Legge: <https://ctext.org/analects>, <https://ctext.org/mengzi>; Csikszentmihalyi, Mark, "Confucius", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 8. Grotius, Hugo (1625), *The Rights of War and Peace*, III.1, mục 11–16, bản dịch A. C. Campbell <https://www.gutenberg.org/ebooks/46564>; Pliny Trẻ, *Thư* III.16, bản dịch W. Melmoth <https://www.gutenberg.org/ebooks/2811>
 9. Bok, Sissela (1978), *Lying: Moral Choice in Public and Private Life*, New York: Pantheon Books.

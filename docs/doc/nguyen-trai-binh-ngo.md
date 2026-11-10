@@ -140,4 +140,4 @@ Thử xem bạn nắm được đến đâu.
 4. *Mạnh Tử* 1B11, nguyên văn. <https://ctext.org/mengzi/liang-hui-wang-ii>
 5. *Cựu Đường thư*, quyển 53 (truyện Lý Mật, bài hịch kể tội Tùy Dạng Đế), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/舊唐書/卷53>
 6. *Minh sử*, quyển 1 (Thái Tổ bản kỷ: năm 1364 Chu Nguyên Chương lên ngôi Ngô vương), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/明史/卷1>
-7. Bùi Duy Tân (2007), "Bình Ngô đại cáo: văn bản – bản dịch – nhan đề", *Tạp chí Nghiên cứu văn học*, số 6, tr. 117 trở đi; ý kiến về nhan đề dẫn theo Lý Thơ Phúc (2008), "Hai vấn đề cần thảo luận với tác giả bài *Bình Ngô đại cáo: một số vấn đề về chữ nghĩa*", *Tạp chí Khoa học ĐHSP TP.HCM*, số 13. <https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261>
+7. Bùi Duy Tân (2007), "Bình Ngô đại cáo: văn bản – bản dịch – nhan đề", *Tạp chí Nghiên cứu văn học*, số 6; ý kiến về nhan đề dẫn theo Lý Thơ Phúc (2008), "Hai vấn đề cần thảo luận với tác giả bài *Bình Ngô đại cáo: một số vấn đề về chữ nghĩa*", *Tạp chí Khoa học ĐHSP TP.HCM*, số 13. <https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261>
