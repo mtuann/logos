@@ -1,0 +1,51 @@
+{
+  "unit": "sources/gutenberg.3207",
+  "hash": "sha256:8883d6628b4c096253eb4b1bf5c9467a61aaf8b7818149e4558572f3bca86f8e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Hobbes, Thomas, *Leviathan*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "quote": "Hobbes, Thomas, 1588-1679",
+          "where": "bảng thư mục, dòng Author"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "quote": "Leviathan by Thomas Hobbes | Project Gutenberg",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1651)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/3207/pg3207-images.html",
+          "quote": "Printed for Andrew Crooke, at the Green Dragon in St. Paul’s Churchyard, 1651.",
+          "where": "trang tên sách (theo bản in đầu) trong bản Gutenberg"
+        }
+      ]
+    },
+    {
+      "text": "Project Gutenberg, URL <https://www.gutenberg.org/ebooks/3207> trỏ đúng tác phẩm (ebook số 3207)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "quote": "3207",
+          "where": "bảng thư mục, dòng eBook-No.; Title: Leviathan; Copyright: Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Gutenberg #3207 là Leviathan của Thomas Hobbes; trang tên sách in lại bản đầu \"Printed for Andrew Crooke … 1651\" (ghi chú người chép: dựng từ bản Pelican Classics, vốn theo bản in đầu)."
+}

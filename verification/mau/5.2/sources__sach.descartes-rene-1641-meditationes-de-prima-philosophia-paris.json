@@ -1,0 +1,68 @@
+{
+  "unit": "sources/sach.descartes-rene-1641-meditationes-de-prima-philosophia-paris",
+  "hash": "sha256:fb0abc33d58a7a8bb21eaf5675e138a7534632a32fbe7f22ec975c22311d7273",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: René Descartes",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb30328465x",
+          "quote": "Renati Des-Cartes Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstratur",
+          "where": "BnF, notice FRBNF30328465, Titre(s); tác giả: Descartes, René (1596-1650)"
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Meditationes de prima philosophia*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb30328465x",
+          "quote": "Renati Des-Cartes Meditationes de prima philosophia",
+          "where": "BnF, notice FRBNF30328465"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "1641, Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstrantur, Paris: Michel Soly.",
+          "where": "SEP, mục René Descartes, Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "Năm xuất bản: 1641",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb30328465x",
+          "quote": "Publication : Parisiis : M. Soly, 1641",
+          "where": "BnF, notice FRBNF30328465"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà in: Paris: Michel Soly",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb30328465x",
+          "quote": "Publication : Parisiis : M. Soly, 1641",
+          "where": "BnF, notice FRBNF30328465"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "Paris: Michel Soly.",
+          "where": "SEP, mục René Descartes, Bibliography (Descartes’s Works)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): BnF (notice FRBNF30328465: Parisiis : M. Soly, 1641, [24]-602-[2] tr., in-8, có bản số hóa trên Gallica) và SEP bản lưu fall2026 (mục René Descartes: \"Paris: Michel Soly\") khớp mọi dữ kiện. Gallica (texteBrut) bị Cloudflare chặn kiểm tra bot nên không đọc trang tên sách; la.wikisource và Internet Archive không có bản 1641 (IA chỉ có bản Elzevir 1642). Đề xuất link ổn định: https://gallica.bnf.fr/ark:/12148/btv1b86002964 (bản in 1641, phạm vi công cộng) hoặc https://catalogue.bnf.fr/ark:/12148/cb30328465x."
+}

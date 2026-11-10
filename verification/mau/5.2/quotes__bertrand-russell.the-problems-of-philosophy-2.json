@@ -1,0 +1,99 @@
+{
+  "unit": "quotes/bertrand-russell.the-problems-of-philosophy-2",
+  "hash": "sha256:ac798a22c2d4af6036ec4c10fe14a9e6d71ca331b87d56f0bd9771b1fd6cfc39",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"The man who has fed the chicken every day throughout its life at last wrings its neck instead, showing that more refined views as to the uniformity of nature would have been useful to the chicken.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "The man who has fed the chicken every day throughout its life at last wrings its neck instead, showing that more refined views as to the uniformity of nature",
+          "where": "Chapter VI, đoạn 7"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "would have been useful to the chicken.",
+          "where": "Chapter VI, đoạn 7 (cuối câu)"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Bertrand Russell, The Problems of Philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "The Problems of Philosophy by Bertrand Russell"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1912)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "suggestions of Professor Gilbert Murray. 1912",
+          "where": "cuối Preface (lời tựa ký năm 1912)"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "is a book published in 1912"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương VI (“On Induction”)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "CHAPTER VI. ON INDUCTION",
+          "where": "câu trích ở đoạn 7 của chương"
+        }
+      ]
+    },
+    {
+      "text": "URL https://www.gutenberg.org/ebooks/5827 mở được và trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "eBook-No.\t5827"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Người đã cho con gà ăn mỗi ngày suốt đời nó, rốt cuộc lại vặn cổ nó, cho thấy rằng những quan niệm tinh tế hơn về tính đồng nhất của tự nhiên lẽ ra đã có ích cho con gà.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "at last wrings its neck instead, showing that more refined views as to the uniformity of nature would have been useful to the chicken."
+        }
+      ]
+    },
+    {
+      "text": "Độ dài trích hợp bản quyền (một câu, bản in 1912)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): nguyên văn khớp từng chữ với Gutenberg #5827 (bản HTML), Chapter VI \"On Induction\", đoạn 7 của chương (đếm theo bản Gutenberg). Bản dịch sát nghĩa. Có thể ghi locator chi tiết hơn: \"chương VI, đoạn 7\"."
+}

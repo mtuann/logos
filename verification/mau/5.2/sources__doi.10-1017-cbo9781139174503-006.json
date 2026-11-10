@@ -1,0 +1,93 @@
+{
+  "unit": "sources/doi.10-1017-cbo9781139174503-006",
+  "hash": "sha256:76c2384acbdf5a12a24f2ece9b45c65433ef0e806a99b768a9c3e072995efc69",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Tác giả: Korsgaard, Christine M.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/CBO9781139174503",
+          "quote": "\"given\":\"Christine M.\",\"family\":\"Korsgaard\",\"sequence\":\"first\"",
+          "where": "bản ghi Crossref của cuốn sách (monograph) chứa chương này"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Right+to+Lie+Kant+on+Dealing+with+Evil+Korsgaard&rows=6&select=DOI,title,author,container-title,volume,issue,page,issued,type",
+          "quote": "Christine M. Korsgaard THE RIGHT TO LIE: KANT ON DEALING WITH EVIL",
+          "where": "kết quả 1 (bản in lại trong tuyển tập Routledge, DOI 10.4324/9780203723746-46)"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: “The Right to Lie: Kant on Dealing with Evil”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/CBO9781139174503.006",
+          "quote": "\"title\":[\"The right to lie: Kant on dealing with evil\"]"
+        }
+      ]
+    },
+    {
+      "text": "Năm đăng lần đầu: (1986)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22The+Right+to+Lie%3A+Kant+on+Dealing+with+Evil%22+Philosophy+%26+Public+Affairs+1986",
+          "quote": "Citation Korsgaard, Christine. 1986. The right to lie: Kant on dealing with evil. Philosophy and Public Affairs 15, no. 4: 325-349.",
+          "where": "đoạn trích kết quả dash.harvard.edu (kho Harvard DASH)"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22The+Right+to+Lie%3A+Kant+on+Dealing+with+Evil%22+Philosophy+%26+Public+Affairs+1986",
+          "quote": "Christine M. Korsgaard Philosophy and Public Affairs 15 (4):325-349 (1986)",
+          "where": "đoạn trích kết quả philpapers.org/rec/KORTRT"
+        }
+      ]
+    },
+    {
+      "text": "in lại trong *Creating the Kingdom of Ends*, Cambridge University Press, 1996",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/CBO9781139174503.006",
+          "quote": "\"container-title\":[\"Creating the Kingdom of Ends\"]"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1017/CBO9781139174503.006",
+          "quote": "\"publisher\":\"Cambridge University Press\"",
+          "where": "trường publisher"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1017/CBO9781139174503.006",
+          "quote": "\"issued\":{\"date-parts\":[[1996,7,28]]}",
+          "where": "trường issued; chương ở trang 133-158"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22The+Right+to+Lie%3A+Kant+on+Dealing+with+Evil%22+Philosophy+%26+Public+Affairs+1986",
+          "quote": "reprinted in Creating the Kingdom of Ends (Cambridge: Cambridge University Press, 1996)",
+          "where": "đoạn trích một bài điểm sách trên cambridge.org"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://doi.org/10.1017/CBO9781139174503.006> trỏ đúng chương",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/CBO9781139174503.006",
+          "quote": "\"DOI\":\"10.1017\\/cbo9781139174503.006\",\"type\":\"book-chapter\"",
+          "where": "bản ghi Crossref của DOI là chương “The right to lie…” trong sách trên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): DOI trỏ đúng chương (Crossref: book-chapter, Creating the Kingdom of Ends, CUP, 28/7/1996, tr. 133-158); bản ghi chương không ghi tác giả, tác giả lấy từ bản ghi sách (Christine M. Korsgaard). Năm 1986 (Philosophy and Public Affairs 15(4): 325-349) xác nhận qua đoạn trích kết quả tìm kiếm của Harvard DASH và PhilPapers, vì philpapers.org/rec/KORTRT (Cloudflare, 403) và jstor.org/stable/2265294 (\"Client Challenge\") chặn bằng thử thách bot nên không mở được trang gốc. Đề xuất (tùy chọn) ghi rõ nơi đăng gốc: Philosophy & Public Affairs 15(4): 325–349, và trang chương 133–158."
+}

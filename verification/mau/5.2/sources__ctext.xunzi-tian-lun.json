@@ -1,0 +1,44 @@
+{
+  "unit": "sources/ctext.xunzi-tian-lun",
+  "hash": "sha256:a17b557d195e94515e035850a82ffc8441e95847c95b8ae4a21bc36e39c9183c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "*Tuân Tử*, thiên 17 \"Thiên luận\" (天論)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90",
+          "quote": "天論篇第十七",
+          "where": "mục 目錄, dòng 第十一卷 (bản 楊倞 注, 32 thiên)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90/%E5%A4%A9%E8%AB%96%E7%AF%87",
+          "quote": "天行有常，不為堯存，不為桀亡。",
+          "where": "câu mở đầu thiên 荀子/天論篇 (header section=天論篇第十七); đọc wikitext qua api.php?action=parse"
+        }
+      ]
+    },
+    {
+      "text": "nguyên văn, URL <https://ctext.org/xunzi/tian-lun> trỏ đúng thiên Thiên luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://html.duckduckgo.com/html/?q=ctext+xunzi+tian+lun+Discourse+on+Heaven",
+          "quote": "Xunzi : Tian Lun - Chinese Text Project",
+          "where": "kết quả tìm kiếm trỏ tới ctext.org/xunzi/tian-lun; đối chiếu nội dung ở zh.wikisource.org (荀子/天論篇); URL theo mẫu của site (quyết định 34)"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=ctext+xunzi+tian+lun+Discourse+on+Heaven",
+          "quote": "ctext.org/xunzi/tian-lun",
+          "where": "URL hiển thị của kết quả trên; không mở ctext.org"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Thiên 17 = 天論篇 xác nhận ở mục lục 荀子 trên Wikisource (bản 楊倞 注, 32 thiên); nội dung thiên đối chiếu ở Wikisource 荀子/天論篇. Không vào ctext.org (quyết định 34): URL đúng mẫu đường dẫn của site, kết quả DuckDuckGo cho tiêu đề \"Xunzi : Tian Lun - Chinese Text Project\". Có thể thêm link dự phòng https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90/%E5%A4%A9%E8%AB%96%E7%AF%87."
+}

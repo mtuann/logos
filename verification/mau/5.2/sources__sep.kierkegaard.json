@@ -1,0 +1,46 @@
+{
+  "unit": "sources/sep.kierkegaard",
+  "hash": "sha256:659a1eb0c8306f9a5e2d937a01d7e332e54f8c32a7fc4cae6b2a9ae68b963041",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: “Søren Kierkegaard”, *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Søren Kierkegaard (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: Søren Kierkegaard"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục, đủ và đúng thứ tự: Lippitt, John & C. Stephen Evans",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "John Lippitt",
+          "where": "dòng bản quyền cuối bài: Copyright © 2023 by John Lippitt, rồi C. Stephen Evans (hai tác giả, thứ tự này)"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "First published Mon May 22, 2023",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; đúng mục, hai tác giả theo thứ tự John Lippitt, C. Stephen Evans (đăng 22/05/2023; bản ghi không ghi năm). Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu."
+}

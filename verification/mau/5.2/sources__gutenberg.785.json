@@ -1,0 +1,90 @@
+{
+  "unit": "sources/gutenberg.785",
+  "hash": "sha256:adc262b4ae334361accd78d3a4b88fe824ee4f3df6642872976aaa925feb6bda",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Lucretius, *De Rerum Natura* (*Về bản chất của sự vật*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/785",
+          "quote": "Lucretius Carus, Titus, 95? BCE-50? BCE",
+          "where": "bảng thư mục, dòng Author"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/785",
+          "quote": "De rerum natura. English",
+          "where": "bảng thư mục, dòng Uniform Title"
+        }
+      ]
+    },
+    {
+      "text": "Quyển III (lập luận đối xứng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/785/pg785-images.html",
+          "quote": "Of time the eternal, ere we had a birth.",
+          "where": "Book III, mục FOLLY OF THE FEAR OF DEATH, câu sau \"Look back: Nothing to us was all fore-passed eld\""
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/785/pg785-images.html",
+          "quote": "And Nature holds this like a mirror up",
+          "where": "Book III, cùng đoạn (tiếp: \"Of time-to-be when we are dead and gone.\"); nằm giữa tiêu đề BOOK III và BOOK IV"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh của William Ellery Leonard",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/785",
+          "quote": "Leonard, William Ellery, 1876-1944",
+          "where": "bảng thư mục, dòng Translator"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/785/pg785-images.html",
+          "quote": "A Metrical Translation By William Ellery Leonard",
+          "where": "trang tên sách bản Gutenberg"
+        }
+      ]
+    },
+    {
+      "text": "(1916, phạm vi công cộng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28nature+of+things%29+AND+creator%3A%28lucretius%29+AND+%28leonard%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=publisher&fl%5B%5D=creator&sort%5B%5D=date+asc&rows=25&output=json",
+          "quote": "London [etc.] J. M. Dent & sons, limited; New York, E. P. Dutton & co",
+          "where": "Internet Archive, bản ofnatureofthings00lucrrich \"Of the nature of things; a metrical translation\", date 1916-01-01, creator gồm Leonard, William Ellery"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/785",
+          "quote": "Public domain in the USA.",
+          "where": "bảng thư mục, dòng Copyright"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://www.gutenberg.org/ebooks/785> trỏ đúng tác phẩm (ebook số 785)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/785",
+          "quote": "On the Nature of Things by Titus Lucretius Carus | Project Gutenberg",
+          "where": "tiêu đề trang ebook 785"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Gutenberg #785 là bản dịch thơ của William Ellery Leonard (uniform title De rerum natura. English). Đoạn lập luận đối xứng (\"Look back … like a mirror up / Of time-to-be when we are dead and gone\") nằm trong Book III, mục \"Folly of the Fear of Death\". Bản Gutenberg không ghi năm; năm 1916 (Dent / Dutton) xác nhận qua siêu dữ liệu Internet Archive (ofnatureofthings00lucrrich)."
+}

@@ -1,0 +1,44 @@
+{
+  "unit": "sources/sach.aristotle-de-interpretatione-chuong-9-lap-luan-hai-chien-tri",
+  "hash": "sha256:82e0ca8a46a62da7463ec5c54b966def8167aa3e2121973ededf021ca945e9ba",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Aristotle là tác giả *De Interpretatione*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/future-contingents/",
+          "quote": "Chapter IX of his work, On Interpretation, is without doubt the philosophical text which has had the greatest impact",
+          "where": "SEP, mục Future Contingents, §1 (câu trước: \"Already Aristotle (384–322 B.C.E.) was aware of the problem of future contingents.\")"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/The_Works_of_Aristotle/On_Interpretation",
+          "quote": "The Works of Aristotle/On Interpretation",
+          "where": "Wikisource, bản dịch E. M. Edghill trong The Works of Aristotle (W. D. Ross chủ biên, 1928)"
+        }
+      ]
+    },
+    {
+      "text": "Lập luận hải chiến nằm ở chương 9 của *De Interpretatione*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/future-contingents/",
+          "quote": "(See On Interpretation, 18 b 23 ff.)",
+          "where": "SEP, mục Future Contingents, §1, ngay sau ví dụ “Tomorrow there will be a sea-battle”"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/The_Works_of_Aristotle/On_Interpretation",
+          "quote": "A sea-fight must either take place to-morrow or not, but it is not necessary that it should take place to-morrow",
+          "where": "Wikisource, chương 9 (bắt đầu \"In the case of that which is or which has taken place\", trước chương 10)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): SEP bản lưu fall2026 (Future Contingents) nói rõ chương IX của On Interpretation là văn bản gốc của vấn đề, ví dụ hải chiến dẫn 18 b 23 ff.; bản dịch Edghill trên Wikisource xác nhận hai đoạn \"sea-fight\" đều nằm trong chương 9. Chú thích \"trình bày lại bằng lời mình trong bài\" là mô tả cách bài dùng nguồn: đã xem docs/cau-hoi/dinh-menh.md, bài diễn giải lập luận chứ không trích nguyên văn, khớp. Mục không có URL; đề xuất link ổn định: https://en.wikisource.org/wiki/The_Works_of_Aristotle/On_Interpretation (Gutenberg không có bản On Interpretation khi tìm \"aristotle interpretation\")."
+}

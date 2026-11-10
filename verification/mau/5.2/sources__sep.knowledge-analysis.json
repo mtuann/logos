@@ -1,0 +1,56 @@
+{
+  "unit": "sources/sep.knowledge-analysis",
+  "hash": "sha256:d079593f5ba04ee0b0a8308c4d619887e50e1e727a6f15045562cc0d1f4db53a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: \"The Analysis of Knowledge\", *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "The Analysis of Knowledge (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: The Analysis of Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục, đủ và đúng thứ tự: Ichikawa, Jonathan Jenkins & Matthias Steup",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-analysis&archive=fall2026",
+          "quote": "Ichikawa, Jonathan; Steup, Matthias, \"The Analysis of Knowledge\", The Stanford Encyclopedia of Philosophy (Fall 2026 Edition)",
+          "where": "cách trích SEP khuyến nghị cho bản Fall 2026 (hai tác giả, thứ tự này)"
+        },
+        {
+          "url": "https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-analysis&archive=fall2026",
+          "quote": "[new author(s): Ichikawa, Jonathan Jenkins; Steup, Matthias]",
+          "where": "lịch sử phiên bản, dòng Winter 2012 (tên đầy đủ có Jenkins)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Jonathan Ichikawa",
+          "where": "dòng bản quyền cuối bài: Copyright © 2026 by Jonathan Ichikawa, Matthias Steup"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "First published Tue Feb 6, 2001; substantive revision Wed Jan 21, 2026",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 và trang Author and Citation Info bằng trình duyệt; đúng mục, hai tác giả theo thứ tự Ichikawa, Steup (bản ghi không ghi năm; mục sửa lớn 21/01/2026). SEP bản Fall 2026 in tên là \"Ichikawa, Jonathan\"; \"Jonathan Jenkins\" là tên đầy đủ SEP ghi khi ông nhận viết mục (Winter 2012), nên không tính là sai. Nếu muốn khớp đúng cách trích SEP hiện hành thì ghi \"Ichikawa, Jonathan & Matthias Steup\" (không bắt buộc). Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu."
+}

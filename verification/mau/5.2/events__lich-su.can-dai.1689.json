@@ -1,0 +1,68 @@
+{
+  "unit": "events/lich-su.can-dai.1689",
+  "hash": "sha256:c94d4eb71c0a258e32baf13908390a95cff01d33a92ef9e3c430f2245cbe6b48",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m02",
+  "claims": [
+    {
+      "text": "John Locke (1632–1704), người Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "John Locke (b. 1632, d. 1704) was a British philosopher, Oxford academic and medical researcher.",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Locke was born in Wrington to Puritan parents of modest means.",
+          "where": "mục 1.1"
+        }
+      ]
+    },
+    {
+      "text": "trong Khảo luận về hiểu biết của con người (Essay Concerning Human Understanding, 1689)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Locke’s monumental An Essay Concerning Human Understanding (1689) is one of the first great defenses of modern empiricism",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "phản bác thuyết \"ý niệm bẩm sinh\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Book I argues that we have no innate knowledge.",
+          "where": "mục 2 (The Limits of Human Understanding)"
+        }
+      ]
+    },
+    {
+      "text": "tâm trí lúc sinh ra như một tấm bảng trắng (tabula rasa), mọi ý niệm đều do kinh nghiệm khắc lên",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "So, at birth, the human mind is a sort of blank slate on which experience writes.",
+          "where": "mục 2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Locke holds that the mind is a tabula rasa or blank sheet until experience in the form of sensation and reflection provide the basic materials",
+          "where": "mục 2.2 Book II"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m02): đối chiếu SEP bản lưu Fall 2026, mục locke (bản sửa 7/7/2022). Năm 1689, năm sinh–mất, quốc tịch, luận điểm chống ý niệm bẩm sinh và tabula rasa đều khớp. Câu đầy đủ trong bài (docs/lich-su/can-dai.md, dòng 37) kết thúc bằng \"mọi ý niệm đều do kinh nghiệm khắc lên\" — đã kiểm cùng claim tabula rasa. Không có lỗi."
+}

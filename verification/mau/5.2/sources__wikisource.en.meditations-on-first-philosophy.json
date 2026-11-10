@@ -1,0 +1,63 @@
+{
+  "unit": "sources/wikisource.en.meditations-on-first-philosophy",
+  "hash": "sha256:0cdac824e5a067918639f1aab58d4ee0a4863abe3b2cb4e3eafc145b3f9dc0e9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "by René Descartes, translated by John Veitch",
+          "where": "khung tiêu đề"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Veitch in năm 1853; Wikisource theo ấn bản 1901",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "Meditations on First Philosophy (1901)",
+          "where": "khung tiêu đề"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "First published 1853. Reprinted 1901.",
+          "where": "ghi chú ấn bản"
+        }
+      ]
+    },
+    {
+      "text": "Phạm vi công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "This work was published before January 1, 1931, and is in the public domain worldwide",
+          "where": "chân trang (giấy phép PD-old)"
+        }
+      ]
+    },
+    {
+      "text": "URL https://en.wikisource.org/wiki/Meditations_on_First_Philosophy mở được và trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "Meditations on First Philosophy - Wikisource, the free online library",
+          "where": "tiêu đề trang; mục lục gồm Letter of Dedication, Preface, Synopsis, Meditation I–VI"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở trang Wikisource bằng trình duyệt; mọi dữ kiện khớp. Nguồn yếu: trang ghi \"The source document of this text is not known.\" (thể loại Texts without a source), tức văn bản chưa được đối chiếu với bản quét. Đã tìm Gutenberg (\"Descartes Meditations Veitch\": không có kết quả; \"Descartes Meditations\": chỉ có #70091 \"Six metaphysical meditations\" và #23306 bản Latin), nên chưa có link Gutenberg thay thế cho bản Veitch."
+}

@@ -69,7 +69,7 @@ Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh lu�
 !!! quote "Tâm kinh (T251), đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
     故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。……揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　僧莎訶
 
-    *Cố tri Bát nhã Ba la mật đa thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thật bất hư. … Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha.*
+    *Cố tri Bát nhã Ba la mật đa thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thật bất hư. … Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha* (cách đọc quen ở chùa Việt, theo chữ 揭諦…波羅…薩婆訶 của các bản Tống, Nguyên, Minh; bản Đại chính chép 揭帝…般羅…僧莎訶).
 
     Cho nên biết Bát nhã Ba la mật đa là câu chú thần diệu lớn, câu chú sáng suốt lớn, câu chú cao nhất, câu chú không gì sánh bằng, trừ được mọi khổ, chân thật không hư dối. … *(bản dịch của Logos)*
 

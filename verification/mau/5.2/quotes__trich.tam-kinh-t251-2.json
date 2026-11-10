@@ -1,0 +1,88 @@
+{
+  "unit": "quotes/trich.tam-kinh-t251-2",
+  "hash": "sha256:67203e4f8d768c942a00f53ac7cd854c50a627055033e5bed0d653d61dbd8f95",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn: 是諸法空相，不生不滅，不垢不淨，不增不減。是故，空中無色，……無無明亦無無明盡，乃至無老死亦無老死盡；無苦、集、滅、道；無智，亦無得。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "「舍利子！是諸法空相，不生不滅，不垢不淨，",
+          "where": "CBETA XML T08n0251, dòng 848c09"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "不增不減。是故，空中無色，無受、想、行、識；無眼、",
+          "where": "dòng 848c10"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "無意識界；無無明亦無無明盡，乃至無老死",
+          "where": "dòng 848c12; dấu …… thay đúng phần 無受、想、行、識 … 乃至無意識界"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "亦無老死盡；無苦、集、滅、道；無智，亦無得。",
+          "where": "dòng 848c13"
+        }
+      ]
+    },
+    {
+      "text": "Tác phẩm và người dịch: Tâm kinh, T251, Huyền Trang dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "大正新脩大藏經數位版, No. 251 般若波羅蜜多心經"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "唐 玄奘譯",
+          "where": "teiHeader, author"
+        }
+      ]
+    },
+    {
+      "text": "locator: T251, đoạn “Thị chư pháp không tướng”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "「舍利子！是諸法空相，不生不滅，不垢不淨，",
+          "where": "T08, tr. 848c09–13"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm: Thị chư pháp không tướng, bất sinh bất diệt, bất cấu bất tịnh, bất tăng bất giảm. Thị cố không trung vô sắc, … vô vô minh diệc vô vô minh tận, nãi chí vô lão tử diệc vô lão tử tận; vô khổ, tập, diệt, đạo; vô trí diệc vô đắc.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "亦無老死盡；無苦、集、滅、道；無智，亦無得。",
+          "where": "đối chiếu từng chữ với nguyên văn"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Tướng không của các pháp ấy không sinh không diệt, không nhơ không sạch, không thêm không bớt. Vì thế, trong cái không, không có sắc, … không có vô minh cũng không có hết vô minh, cho đến không có già chết cũng không có hết già chết; không có khổ, tập, diệt, đạo; không có trí, cũng không có chứng đắc.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "不增不減。是故，空中無色，無受、想、行、識；無眼、"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): nguyên văn khớp từng chữ với T251 bản CBETA (XML trên kho GitHub cbeta-org/xml-p5, có bộ hiệu khám); đoạn này không có dị bản trong hiệu khám. Phiên âm và bản dịch đúng. Gợi ý locator chính xác hơn: \"T08, tr. 848c09–13\"."
+}

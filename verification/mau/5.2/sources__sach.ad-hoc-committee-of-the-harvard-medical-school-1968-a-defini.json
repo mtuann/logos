@@ -1,0 +1,75 @@
+{
+  "unit": "sources/sach.ad-hoc-committee-of-the-harvard-medical-school-1968-a-defini",
+  "hash": "sha256:90bc95931b18d92f9da00b518e40f479019b1433b4ec10545f4d90e2dab69657",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: Ad Hoc Committee of the Harvard Medical School",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=5694976&retmode=json",
+          "quote": "Report of the Ad Hoc Committee of the Harvard Medical School to Examine the Definition of Brain Death.",
+          "where": "PubMed PMID 5694976, trường title"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"A Definition of Irreversible Coma\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=A+Definition+of+Irreversible+Coma+Harvard+Medical+School+1968&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"DOI\":\"10.1001\\/jama.1968.03140320031009\",\"title\":[\"A Definition of Irreversible Coma\"]",
+          "where": "Crossref, kết quả đầu"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1968",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=5694976&retmode=json",
+          "quote": "1968 Aug 5",
+          "where": "PubMed PMID 5694976, trường pubdate"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=A+Definition+of+Irreversible+Coma+Harvard+Medical+School+1968&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"published-print\":{\"date-parts\":[[1968,8,5]]}",
+          "where": "Crossref, DOI 10.1001/jama.1968.03140320031009"
+        }
+      ]
+    },
+    {
+      "text": "Tạp chí: *JAMA*, vol. 205, no. 6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=A+Definition+of+Irreversible+Coma+Harvard+Medical+School+1968&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"container-title\":[\"JAMA\"],\"volume\":\"205\",\"issue\":\"6\",\"page\":\"337\"",
+          "where": "Crossref, DOI 10.1001/jama.1968.03140320031009"
+        }
+      ]
+    },
+    {
+      "text": "Trang: tr. 337–340",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=5694976&retmode=json",
+          "quote": "337-40",
+          "where": "PubMed PMID 5694976, trường pages (volume 205, issue 6)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): Crossref (DOI 10.1001/jama.1968.03140320031009: JAMA 205(6), trang đầu 337, ngày 5/8/1968) và PubMed (PMID 5694976, đọc qua API E-utilities vì giao diện web PubMed hiện hộp reCAPTCHA: JAMA 1968 Aug 5;205(6):337-40) khớp mọi dữ kiện. Tên đầy đủ của tác giả tập thể là \"Ad Hoc Committee of the Harvard Medical School to Examine the Definition of Brain Death\"; bản ghi rút gọn, chấp nhận được. Đề xuất link ổn định: https://doi.org/10.1001/jama.1968.03140320031009 (hoặc https://pubmed.ncbi.nlm.nih.gov/5694976/)."
+}

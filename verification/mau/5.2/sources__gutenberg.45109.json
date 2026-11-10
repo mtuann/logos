@@ -1,0 +1,51 @@
+{
+  "unit": "sources/gutenberg.45109",
+  "hash": "sha256:4a70b0d67fc8302d005ab2eadfcc77dcce4c096061de99739db9f500a7187068",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Epictetus, *The Enchiridion*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45109",
+          "quote": "Epictetus, 55-135",
+          "where": "bảng thư mục, dòng Author"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/45109",
+          "quote": "The Enchiridion by Epictetus | Project Gutenberg",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "bản dịch Thomas Wentworth Higginson",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45109",
+          "quote": "Higginson, Thomas Wentworth, 1823-1911",
+          "where": "bảng thư mục, dòng Translator"
+        }
+      ]
+    },
+    {
+      "text": "Project Gutenberg, URL <https://www.gutenberg.org/ebooks/45109> trỏ đúng tác phẩm (ebook số 45109)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45109",
+          "quote": "45109",
+          "where": "bảng thư mục, dòng eBook-No.; Title: The Enchiridion; Copyright: Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Gutenberg #45109 là The Enchiridion của Epictetus, người dịch Thomas Wentworth Higginson; mọi dữ kiện khớp trang thư mục của ebook."
+}

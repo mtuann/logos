@@ -1,0 +1,106 @@
+{
+  "unit": "quotes/russell.the-problems-of-philosophy",
+  "hash": "sha256:943e7214510c29285220f028898ebae428dd70cd0dce53ab73cfb447c0ee0754",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"The ‘practical’ man, as this word is often used, is one who recognises only material needs, who realises that men must have food for the body, but is oblivious of the necessity of providing food for the mind. If all men were well off, if poverty and disease had been reduced to their lowest possible point, there would still remain much to be done to produce a valuable society; and even in the existing world the goods of the mind are at least as important as the goods of the body.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/problemsofphilos00russuoft/problemsofphilos00russuoft_djvu.txt",
+          "quote": "man, as this word is often used, is one who recognises only material needs, who realises that men must have food for the body, but is oblivious of the necessity",
+          "where": "bản in London, Williams & Norgate 1912 (OCR), tr. 238–239"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "If all men were well off, if poverty and disease had been reduced to their lowest possible point, there would still remain much to be done to produce a valuable society",
+          "where": "Chapter XV, đoạn 3"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "and even in the existing world the goods of the mind are at least as important as the goods of the body.",
+          "where": "Chapter XV, đoạn 3"
+        }
+      ]
+    },
+    {
+      "text": "Ghi chú \"bản in 1912\": chính tả recognises/realises theo bản in 1912",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28problems+of+philosophy%29+AND+creator%3A%28russell%29&fl%5B%5D=identifier&fl%5B%5D=year&fl%5B%5D=date&fl%5B%5D=publisher&fl%5B%5D=title&rows=60&output=json",
+          "quote": "{\"date\":\"1912-01-01T00:00:00Z\",\"identifier\":\"problemsofphilos00russuoft\",\"publisher\":\"London : Williams & Norgate\""
+        },
+        {
+          "url": "https://archive.org/download/problemsofphilos00russuoft/problemsofphilos00russuoft_djvu.txt",
+          "quote": "one who recognises only material needs, who realises that men must have food",
+          "where": "bản Gutenberg #5827 in recognizes/realizes; bản 1912 in -ise như bản ghi"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Russell, The Problems of Philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/problemsofphilos00russuoft/problemsofphilos00russuoft_djvu.txt",
+          "quote": "THE PROBLEMS OF PHILOSOPHY By BERTRAND RUSSELL",
+          "where": "trang tên sách"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1912)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "suggestions of Professor Gilbert Murray. 1912",
+          "where": "cuối Preface"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương XV, đoạn 3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "But further, if we are not to fail in our endeavour to determine the value of philosophy",
+          "where": "CHAPTER XV. THE VALUE OF PHILOSOPHY, câu đầu đoạn 3 (chương có 13 đoạn); câu trích bắt đầu từ câu thứ hai của đoạn"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Người 'thực tế', theo nghĩa chữ này thường được dùng, là người chỉ thừa nhận những nhu cầu vật chất, … những điều tốt của tâm trí ít nhất cũng quan trọng ngang những điều tốt của thân thể.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
+          "quote": "but is oblivious of the necessity of providing food for the mind."
+        }
+      ]
+    },
+    {
+      "text": "Độ dài trích hợp bản quyền (hai câu, bản in 1912)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): nguyên văn khớp từng chữ với bản in London 1912 (Internet Archive problemsofphilos00russuoft, tr. 238–239), kể cả chính tả recognises/realises; Gutenberg #5827 cùng chữ nhưng in -ize. Khác nhỏ không tính lỗi: bản in dùng ngoặc kép \"practical\", bản ghi dùng ngoặc đơn ‘practical’. Chương XV đếm theo Gutenberg có 13 đoạn, câu trích thuộc đoạn 3."
+}

@@ -1,0 +1,46 @@
+{
+  "unit": "sources/web.givewell-org.how-much-does-it-cost-to-save-a-life",
+  "hash": "sha256:0145b4a25901a3070a71a701eae5604ea418ead7c363a22dd6338ae7df0614ea",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "Tác giả/tổ chức: GiveWell; tên trang: \"How Much Does It Cost To Save a Life?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.givewell.org/how-much-does-it-cost-to-save-a-life",
+          "quote": "How Much Does It Cost To Save a Life? | GiveWell",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Ước tính 3.000–5.500 đô-la Mỹ cho mỗi mạng người qua các tổ chức được đánh giá cao nhất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.givewell.org/how-much-does-it-cost-to-save-a-life",
+          "quote": "our models for grants to our Top Charities have typically estimated an average cost between $3,000 and $5,500.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "URL https://www.givewell.org/how-much-does-it-cost-to-save-a-life mở được và trỏ đúng trang",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.givewell.org/how-much-does-it-cost-to-save-a-life",
+          "quote": "Published: April 2024 (February 2024 version)",
+          "where": "đầu trang (mở ngày 2026-11-10)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở trang GiveWell bằng trình duyệt; tên trang, con số 3.000–5.500 USD (\"average cost\" theo mô hình cho Top Charities trong vài năm qua) và URL khớp. Con số có hạn dùng (trang ghi \"Published: April 2024 (February 2024 version)\" và nói chi phí dự kiến tăng theo thời gian): đề xuất ghi thêm năm phiên bản (2024) vào bản ghi, ví dụ \"GiveWell (2024), ...\"; \"đô-la Mỹ\" là cách hiểu ký hiệu $ trên trang."
+}

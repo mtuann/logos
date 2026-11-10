@@ -1,0 +1,80 @@
+{
+  "unit": "sources/sach.foucault-michel-1984-what-is-enlightenment-trong-paul-rabino",
+  "hash": "sha256:73ab646f34ee8c03cc714f7b15807e602eb01d584840d8973463c89971f3b727",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: Michel Foucault; tên bài \"What is Enlightenment?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/foucaultreader00fouc/mode/2up?q=%22What+Is+Enlightenment%22",
+          "quote": "What Is Enlightenment? based on an unpublished French manuscript by Michel Foucault.",
+          "where": "Internet Archive, bản quét The Foucault Reader, tìm trong sách, trang bản quyền (n5)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1984",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/foucaultreader00fouc/mode/2up?q=%22What+Is+Enlightenment%22",
+          "quote": "Copyright © as an unpublished work, 1984, by Michel Foucault and Paul Rabinow.",
+          "where": "Internet Archive, trang bản quyền (n5)"
+        },
+        {
+          "url": "https://lccn.loc.gov/83019510",
+          "quote": "Published: Pantheon Books, New York, c1984",
+          "where": "Thư viện Quốc hội Mỹ, LCCN 83019510"
+        }
+      ]
+    },
+    {
+      "text": "Trong Paul Rabinow (chủ biên), *The Foucault Reader*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/83019510",
+          "quote": "The Foucault reader / edited by Paul Rabinow.",
+          "where": "Thư viện Quốc hội Mỹ, dòng nhan đề; Contributors: Rabinow, Paul"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: New York: Pantheon",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/83019510",
+          "quote": "Pantheon Books, New York",
+          "where": "Thư viện Quốc hội Mỹ, mục Publication details > Publisher (1st ed.)"
+        }
+      ]
+    },
+    {
+      "text": "Trang: tr. 32–50",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/foucaultreader00fouc/mode/2up?q=%22What+Is+Enlightenment%22",
+          "quote": "What Is Enlightenment? I 32 Truth and Power I 51",
+          "where": "Internet Archive, tìm trong sách, trang mục lục (n8): bài bắt đầu tr. 32, bài sau bắt đầu tr. 51"
+        },
+        {
+          "url": "https://archive.org/details/foucaultreader00fouc/mode/2up?q=%22What+Is+Enlightenment%22",
+          "quote": "What Is Enlightenment? • 49",
+          "where": "Internet Archive, tiêu đề chạy trang 33 đến 49"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): Thư viện Quốc hội Mỹ (LCCN 83019510: The Foucault reader / edited by Paul Rabinow, Pantheon Books, New York, c1984, 1st ed.) và bản quét Internet Archive foucaultreader00fouc (sách mượn; dùng ô tìm trong sách: mục lục ghi \"What Is Enlightenment?\" tr. 32, \"Truth and Power\" tr. 51) khớp mọi dữ kiện. Sách in nhan đề là \"What Is Enlightenment?\" (chữ Is viết hoa), chỉ là kiểu ghi. PhilPapers bị Cloudflare chặn, Google Books API hết hạn mức. Đề xuất link ổn định: https://lccn.loc.gov/83019510 (sách còn bản quyền)."
+}

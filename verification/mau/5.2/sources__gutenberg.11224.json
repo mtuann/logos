@@ -1,0 +1,80 @@
+{
+  "unit": "sources/gutenberg.11224",
+  "hash": "sha256:2fdc24c96805e5ac6e96b43b0e3e64cb5c97fddc1964abc40d94bdbd6a9e1964",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Mill, John Stuart, *Utilitarianism*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "Mill, John Stuart, 1806-1873",
+          "where": "bảng thư mục, dòng Author"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "Utilitarianism by John Stuart Mill | Project Gutenberg",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "(1863) … in thành sách năm 1863",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/mill-eth/",
+          "quote": "Mill planned from the beginning a separate book publication, which came to light in 1863.",
+          "where": "IEP “Mill, John Stuart: Ethics”, mục về hoàn cảnh ra đời của Utilitarianism"
+        }
+      ]
+    },
+    {
+      "text": "đăng lần đầu trên *Fraser's Magazine* năm 1861",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/mill-eth/",
+          "quote": "The work first appeared in 1861 as a series of three articles for Fraser’s Magazine",
+          "where": "IEP “Mill, John Stuart: Ethics”"
+        }
+      ]
+    },
+    {
+      "text": "Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/11224/pg11224-images.html",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE' SEVENTH EDITION LONDON LONGMANS, GREEN, AND CO. 1879",
+          "where": "trang tên sách của bản Gutenberg"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "Public domain in the USA.",
+          "where": "bảng thư mục, dòng Copyright"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://www.gutenberg.org/ebooks/11224> trỏ đúng tác phẩm (ebook số 11224)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "11224",
+          "where": "bảng thư mục, dòng eBook-No.; Title: Utilitarianism"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Gutenberg #11224 là Utilitarianism của J. S. Mill, trang tên sách ghi bản in thứ bảy, Longmans, Green, and Co., 1879, \"reprinted from Fraser's Magazine\". Năm 1861 (ba kỳ trên Fraser's Magazine) và 1863 (in thành sách) xác nhận ở IEP; SEP (mill, mill-moral-political) chỉ ghi Utilitarianism (1861), không nói Fraser's hay 1863."
+}

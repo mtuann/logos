@@ -1,0 +1,81 @@
+{
+  "unit": "quotes/trich.mac-tu-thien-26-thien-chi-thuong",
+  "hash": "sha256:740fa2fc0777c2e9398139656dcc7c423f4667a63c41c74972d0e4367184aa1b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn đoạn 1: 順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%A4%A9%E5%BF%97%E4%B8%8A",
+          "quote": "順天意者，兼相愛、交相利，必得賞；反天意者，別相惡、交相賊，必得罰。",
+          "where": "khác bản ghi chỉ ở dấu câu"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn đoạn 2: 我有天志，譬若輪人之有規，匠人之有矩。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%A4%A9%E5%BF%97%E4%B8%8A",
+          "quote": "子墨子言曰：我有天志，譬若輪人之有規，匠人之有矩。",
+          "where": "đoạn cuối thiên"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Mặc Tử, sách Mặc Tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%A4%A9%E5%BF%97%E4%B8%8A",
+          "quote": "天志上\n作者：墨翟"
+        }
+      ]
+    },
+    {
+      "text": "locator: thiên 26 Thiên chí thượng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90",
+          "quote": "節用下（闕）\n節葬上（闕）\n節葬中（闕）\n節葬下\n卷七\n天志上",
+          "where": "mục lục: đếm cả các thiên khuyết, 親士 (1) … 節葬下 (25), 天志上 (26)"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm: Thuận thiên ý giả, kiêm tương ái, giao tương lợi, tất đắc thưởng. Phản thiên ý giả, biệt tương ố, giao tương tặc, tất đắc phạt. … Ngã hữu thiên chí, thí nhược luân nhân chi hữu quy, tượng nhân chi hữu củ.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%A4%A9%E5%BF%97%E4%B8%8A",
+          "quote": "譬若輪人之有規，匠人之有矩",
+          "where": "đối chiếu từng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Thuận ý trời thì cùng thương nhau, làm lợi cho nhau, ắt được thưởng. Trái ý trời thì tách nhau ra mà ghét bỏ, làm hại nhau, ắt bị phạt. … Ta có ý trời, ví như người thợ đóng bánh xe có cái compa, người thợ mộc có cái thước vuông.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%A4%A9%E5%BF%97%E4%B8%8A",
+          "quote": "輪匠執其規矩，以度天下之方圜，曰：中者是也，不中者非也。",
+          "where": "ngữ cảnh: ý trời là chuẩn đo như compa, thước vuông"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): hai đoạn khớp từng chữ với Wikisource 墨子/天志上 (chỉ khác dấu câu). Thiên chí thượng là thiên 26 theo mục lục 71 thiên (kể cả thiên khuyết). Bản dịch đúng ý; gợi ý (không bắt buộc): \"cùng thương nhau\" chưa nói rõ chữ 兼 (thương không phân biệt), có thể viết \"thương nhau không phân biệt\" để đối với 別 (\"phân biệt mà ghét nhau\")."
+}

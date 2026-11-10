@@ -1,0 +1,93 @@
+{
+  "unit": "sources/sach.bach-khoa-toan-thu-triet-hoc-stanford-sep-cac-muc-ve-augusti",
+  "hash": "sha256:ab22ddd88c5f9f7196abe19b0f0da963c768e4101aed885f97264afb82f98a50",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "SEP có các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "Augustine of Hippo (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Christian Tornau"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/anselm/",
+          "quote": "Anselm of Canterbury (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Thomas Williams"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-sina/",
+          "quote": "Ibn Sina [Avicenna] (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Dimitri Gutas"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
+          "quote": "Ibn Rushd [Averroes] (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Fouad Ben Ahmed"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "al-Ghazali (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Frank Griffel"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/maimonides/",
+          "quote": "Maimonides (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Kenneth Seeskin"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Thomas Aquinas (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tác giả mục Robert Pasnau"
+        }
+      ]
+    },
+    {
+      "text": "Mục \"Medieval Philosophy\" của SEP do John Marenbon viết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/medieval-philosophy/",
+          "quote": "Copyright © 2024 by John Marenbon",
+          "where": "cuối mục; tiêu đề \"Medieval Philosophy\", first published Wed Sep 14, 2022"
+        }
+      ]
+    },
+    {
+      "text": "Mục \"Influence of Arabic and Islamic Philosophy on the Latin West\" của SEP do Dag Nikolaus Hasse viết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arabic-islamic-influence/",
+          "quote": "Copyright © 2025 by Dag Nikolaus Hasse",
+          "where": "cuối mục; tiêu đề \"Influence of Arabic and Islamic Philosophy on the Latin West\""
+        }
+      ]
+    },
+    {
+      "text": "Hai mục của Marenbon và Hasse bàn về các phong trào dịch thuật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/medieval-philosophy/",
+          "quote": "1.3 Translation Movements",
+          "where": "mục lục và §1.3 của mục Medieval Philosophy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arabic-islamic-influence/",
+          "quote": "The Arabic-Latin translation movements in the Middle Ages, which paralleled that from Greek into Latin",
+          "where": "câu mở đầu mục; §1 Transmission"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): Cả chín mục đều có trong SEP bản lưu fall2026 (mã 200, đúng tiêu đề); tác giả hai mục được nêu tên (Marenbon, Hasse) đúng theo dòng bản quyền cuối mục. Mục không có URL; đề xuất ghi link bản lưu cho từng mục, ít nhất: https://plato.stanford.edu/archives/fall2026/entries/medieval-philosophy/ và https://plato.stanford.edu/archives/fall2026/entries/arabic-islamic-influence/ (các mục còn lại: augustine, anselm, ibn-sina, ibn-rushd, al-ghazali, maimonides, aquinas cùng mẫu đường dẫn)."
+}

@@ -1,0 +1,70 @@
+{
+  "unit": "sources/sep.arrows-theorem",
+  "hash": "sha256:aa652dca9e0bcf11c05a154ddfad393f3eb6c423504e7a52e89b83acd840aa9f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: \"Arrow's Theorem\", *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/",
+          "quote": "Arrow’s Theorem (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: Arrow’s Theorem (SEP dùng dấu nháy cong, chỉ khác kiểu chữ)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Morreau, Michael (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/",
+          "quote": "Michael Morreau",
+          "where": "dòng bản quyền cuối bài: Copyright © 2025 by Michael Morreau (chỉ một tác giả)"
+        }
+      ]
+    },
+    {
+      "text": "Chú thích \"về nghịch lý Condorcet 1785\": mục bàn về nghịch lý bỏ phiếu do Condorcet phát hiện năm 1785",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/",
+          "quote": "Discovered by the Marquis de Condorcet (1785)",
+          "where": "mục 1. The Will of the People? (nói về “paradox of voting”)"
+        }
+      ]
+    },
+    {
+      "text": "Chú thích \"định lý Arrow 1951\": mục trình bày định lý theo sách Arrow năm 1951",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/",
+          "quote": "1951 [1963], Social Choice and Individual Values, New York: Wiley. 2nd ed., 1963.",
+          "where": "Bibliography (mục Arrow, K.J.); trong bài dẫn là (Arrow 1951 [1963])"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/",
+          "quote": "First published Mon Oct 13, 2014; substantive revision Sun Dec 7, 2025",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; đúng mục, tác giả duy nhất Michael Morreau (đăng 2014, sửa lớn 07/12/2025; bản ghi không ghi năm mục). Trường url (bản hiện hành, cùng slug arrows-theorem) không mở vì hướng dẫn chỉ cho mở bản lưu. Thư mục của mục còn ghi bài Arrow 1950 (Journal of Political Economy), nhưng bài viết dẫn định lý theo sách 1951 [1963], nên chú thích \"định lý Arrow 1951\" hợp với nguồn."
+}

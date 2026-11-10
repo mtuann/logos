@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sep.zhuangzi",
+  "hash": "sha256:8372110220e91ffb4390dbf750ee9d5023be6b17054f8e8c5ff280690122f2bc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: \"Zhuangzi\", *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Zhuangzi (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: Zhuangzi"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Hansen, Chad (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Chad Hansen",
+          "where": "dòng bản quyền cuối bài: Copyright © 2024 by Chad Hansen (chỉ một tác giả)"
+        }
+      ]
+    },
+    {
+      "text": "Chú thích năm: (bản sửa 2024)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "First published Wed Dec 17, 2014; substantive revision Sun Mar 24, 2024",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Zhuangzi",
+          "where": "tiêu đề bài trên trang bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; đúng mục, tác giả duy nhất Chad Hansen; đăng 17/12/2014, sửa lớn 24/03/2024, khớp chú thích \"bản sửa 2024\". Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu."
+}

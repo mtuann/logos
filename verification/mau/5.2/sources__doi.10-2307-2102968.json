@@ -1,0 +1,94 @@
+{
+  "unit": "sources/doi.10-2307-2102968",
+  "hash": "sha256:c09cdcf9369195a763f5f650b6265c28c3f7e3ff3959a62acae0153d82b19996",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Tác giả: Tarski, Alfred (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"given\":\"Alfred\",\"family\":\"Tarski\",\"sequence\":\"first\"",
+          "where": "trường author (chỉ một mục)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1944)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"issued\":{\"date-parts\":[[1944,3]]}"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"The Semantic Conception of Truth and the Foundations of Semantics\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"title\":[\"The Semantic Conception of Truth: and the Foundations of Semantics\"]"
+        }
+      ]
+    },
+    {
+      "text": "*Philosophy and Phenomenological Research* 4(3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"container-title\":[\"Philosophy and Phenomenological Research\"]"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"volume\":\"4\"",
+          "where": "trường volume"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"issue\":\"3\"",
+          "where": "trường issue"
+        }
+      ]
+    },
+    {
+      "text": "Trang: 341–376",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"page\":\"341\"",
+          "where": "Crossref chỉ ghi trang đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tarski-truth/",
+          "quote": "1944, “The semantic conception of truth”, Philosophy and Phenomenological Research, 4 (3): 341–376.",
+          "where": "SEP “Tarski’s Truth Definitions”, Bibliography, mục Tarski"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://doi.org/10.2307/2102968> trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2102968",
+          "quote": "\"DOI\":\"10.2307\\/2102968\",\"type\":\"journal-article\"",
+          "where": "bản ghi Crossref của DOI là đúng bài trên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Tác giả, tên, tạp chí, 4(3), năm 1944 khớp Crossref (số tháng 3/1944); Crossref chỉ ghi trang đầu 341, trang cuối 376 xác nhận ở thư mục SEP bản lưu fall2026 (tarski-truth)."
+}

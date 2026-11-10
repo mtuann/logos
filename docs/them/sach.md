@@ -1689,7 +1689,7 @@ Mục SEP "Informal Logic": mục 3.1 "Implicit Premises and Conclusions" (về 
 
 1. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 2. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-3. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
+3. Hansen, Hans, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
 
 <div class="oz-page-break"></div>
 
@@ -1967,7 +1967,7 @@ Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chú
 
 ## Nguồn
 
-1. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
+1. Hansen, Hans, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
 2. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy* (các mục "Affirming the Consequent" và "Denying the Antecedent"). <https://iep.utm.edu/fallacy/>
 3. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 4. Douglas Walton, *Informal Logic: A Pragmatic Approach*, ấn bản 2, Cambridge University Press, 2008.
@@ -3628,7 +3628,7 @@ Gợi ý độ dài: 150–300 chữ.
 5. van Inwagen, Peter (1996), "It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence", trong Jeff Jordan & Daniel Howard-Snyder (chủ biên), *Faith, Freedom, and Rationality: Philosophy of Religion Today*, Lanham: Rowman & Littlefield.
 6. Feldman, Richard & Ted A. Warfield (chủ biên) (2010), *Disagreement*, Oxford: Oxford University Press.
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
-8. U.S. Geological Survey, *This Dynamic Earth*, mục "Historical perspective" (Wegener và thuyết trôi dạt lục địa, 1912). <https://pubs.usgs.gov/gip/dynamic/historical.html>
+8. Kious, W. Jacquelyne & Robert I. Tilling (1996), *This Dynamic Earth*, U.S. Geological Survey, mục "Historical perspective" (Wegener và thuyết trôi dạt lục địa, 1912). <https://pubs.usgs.gov/gip/dynamic/historical.html>
 
 <div class="oz-page-break"></div>
 
@@ -17610,7 +17610,7 @@ Kinh thuộc truyền thống Đại thừa, ra đời giữa những tranh lu�
 !!! quote "Tâm kinh (T251), đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
     故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。……揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　僧莎訶
 
-    *Cố tri Bát nhã Ba la mật đa thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thật bất hư. … Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha.*
+    *Cố tri Bát nhã Ba la mật đa thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thật bất hư. … Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha* (cách đọc quen ở chùa Việt, theo chữ 揭諦…波羅…薩婆訶 của các bản Tống, Nguyên, Minh; bản Đại chính chép 揭帝…般羅…僧莎訶).
 
     Cho nên biết Bát nhã Ba la mật đa là câu chú thần diệu lớn, câu chú sáng suốt lớn, câu chú cao nhất, câu chú không gì sánh bằng, trừ được mọi khổ, chân thật không hư dối. … *(bản dịch của Logos)*
 

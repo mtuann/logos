@@ -1,0 +1,72 @@
+{
+  "unit": "sources/sach.williamson-timothy-2000-knowledge-and-its-limits-oxford-oxfo",
+  "hash": "sha256:7932f0e3e2ab6f74c2eacca527b4eb03c4081664a731254c664a40b2247f77e4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Tác giả: Williamson, Timothy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/837bb2ae-532d-507a-8a56-c5ab0a928df7?option=lccn&query=00038490",
+          "quote": "Knowledge and its limits / Timothy Williamson.",
+          "where": "biểu ghi LCCN 00038490 (permalink https://lccn.loc.gov/00038490)"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1093/019925656X.001.0001",
+          "quote": "\"author\":[{\"given\":\"Timothy\",\"family\":\"Williamson\",\"sequence\":\"first\""
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Knowledge and Its Limits*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1093/019925656X.001.0001",
+          "quote": "\"title\":[\"Knowledge and its Limits\"]"
+        },
+        {
+          "url": "https://search.catalog.loc.gov/instances/837bb2ae-532d-507a-8a56-c5ab0a928df7?option=lccn&query=00038490",
+          "quote": "Knowledge and its limits / Timothy Williamson."
+        }
+      ]
+    },
+    {
+      "text": "Năm: 2000",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/837bb2ae-532d-507a-8a56-c5ab0a928df7?option=lccn&query=00038490",
+          "quote": "Published: Oxford University Press, Oxford ; New York, 2000"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL7398292M.json",
+          "quote": "\"publish_date\": \"December 28, 2000\"",
+          "where": "ấn bản bìa cứng ISBN 0198250436"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Oxford: Oxford University Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/837bb2ae-532d-507a-8a56-c5ab0a928df7?option=lccn&query=00038490",
+          "quote": "Published: Oxford University Press, Oxford ; New York, 2000"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1093/019925656X.001.0001",
+          "quote": "\"publisher\":\"Oxford University PressOxford\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): mọi dữ kiện khớp biểu ghi Thư viện Quốc hội Mỹ LCCN 00038490 (Oxford University Press, Oxford ; New York, 2000; ISBN 0198250436) và Open Library (bìa cứng 28/12/2000). Bản ghi DOI 10.1093/019925656X.001.0001 trên Crossref là bản bìa mềm/Oxford Scholarship Online (published-print 2002-10-10), nên năm 2000 phải lấy từ ấn bản bìa cứng. Link ổn định đề xuất: https://doi.org/10.1093/019925656X.001.0001 hoặc https://lccn.loc.gov/00038490 ."
+}

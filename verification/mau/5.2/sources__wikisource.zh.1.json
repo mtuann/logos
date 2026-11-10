@@ -1,0 +1,56 @@
+{
+  "unit": "sources/wikisource.zh.1",
+  "hash": "sha256:b5a3534bc471fea655d9a3098fcd14d80e60807f79781782688c84e0d958c34d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "*Minh sử*, quyển 1 (Thái Tổ bản kỷ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71",
+          "quote": "卷一 本紀第一 太祖一",
+          "where": "đầu trang (khoảng trắng rút gọn)"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1364 Chu Nguyên Chương lên ngôi Ngô vương",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71",
+          "quote": "二十四年春正月丙寅朔，李善長等率羣臣勸進，不允。固請，乃即吳王位。",
+          "where": "mục 至正二十四年"
+        },
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Prince+of+Wu%22+1364+%22Zhu+Yuanzhang%22",
+          "quote": "1364 , Zhu Yuanzhang declared himself the prince of Wu",
+          "where": "Google Books, đoạn trích *The Great Ming Code / Da Ming lu* (2012), tr. xxxv"
+        },
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Prince+of+Wu%22+1364+%22Zhu+Yuanzhang%22",
+          "quote": "In the first month of that year , Zhu claimed to be the Prince of Wu",
+          "where": "Google Books, đoạn trích Yonglin Jiang, *The Great Ming Code* (1997), tr. 67, \"that year\" = 1364"
+        }
+      ]
+    },
+    {
+      "text": "Wikisource tiếng Trung; URL https://zh.wikisource.org/wiki/明史/卷1 mở được và trỏ đúng quyển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71",
+          "quote": "明史/卷1 - 维基文库，自由的图书馆",
+          "where": "tiêu đề trang (URL chữ Hán được trình duyệt mã hóa phần trăm)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở 明史/卷1 trên Wikisource tiếng Trung bằng trình duyệt; quyển 1 là 本紀第一 太祖一, và sự kiện 即吳王位 nằm ở mục 至正二十四年 (tháng Giêng); năm 1364 đối chiếu ở các đoạn trích Google Books (Great Ming Code 2012; Jiang 1997; Farmer 2021). Cùng quyển có câu 張士誠自稱吳王 ở năm trước (至正二十三年), không lẫn với sự kiện này. Đề xuất ghi URL dạng mã hóa phần trăm (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B71) cho thống nhất với các bản ghi Wikisource khác; dạng chữ Hán hiện tại vẫn mở được."
+}

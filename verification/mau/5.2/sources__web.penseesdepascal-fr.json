@@ -1,0 +1,51 @@
+{
+  "unit": "sources/web.penseesdepascal-fr",
+  "hash": "sha256:bb07a28fb2d2c0ace541d83646c2c45e319f5ea7b1bc8e03ca15fd510ae48f0e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "*Pensées de Blaise Pascal*, ấn bản điện tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.penseesdepascal.fr/",
+          "quote": "L’édition électronique des Pensées de Blaise Pascal.",
+          "where": "trang chủ, mục Présentation"
+        }
+      ]
+    },
+    {
+      "text": "Có bảng đối chiếu số đoạn Brunschvicg – Lafuma – Sellier",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.penseesdepascal.fr/Vanite/Vanite31-moderne.php",
+          "quote": "Brunschvicg 82 et 83 / Tourneur p. 173-6 / Le Guern 41 / Maeda II p. 13 / Lafuma 44 et 45 / Sellier 78",
+          "where": "đầu trang đoạn Vanité 31, dòng \"Éditions savantes\""
+        },
+        {
+          "url": "https://www.penseesdepascal.fr/General/Avertissement.php",
+          "quote": "Brunschvicg (G.E.F. 1904 - n° fragment)",
+          "where": "Mode d'emploi: danh sách các ấn bản hiện đại được đối chiếu (gồm cả Lafuma 1951, Sellier 2000)"
+        }
+      ]
+    },
+    {
+      "text": "URL https://www.penseesdepascal.fr/ mở được và trỏ đúng ấn bản",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.penseesdepascal.fr/",
+          "quote": "Pensées de Blaise Pascal",
+          "where": "tiêu đề trang (mở ngày 2026-11-10)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở trang chủ, Mode d'emploi, Table des matières, Éditions modernes và trang đoạn Vanité 31 bằng trình duyệt. Việc đối chiếu số đoạn có thật nhưng nằm ở từng trang đoạn (dòng \"Éditions savantes\": Brunschvicg, Lafuma, Sellier và các ấn bản khác) và ô Rechercher nhận \"Laf 132 ; Sel 24\"; không thấy một bảng đối chiếu chung ở các trang đã mở, nên nếu muốn chính xác hơn có thể viết \"mỗi đoạn ghi số theo Brunschvicg, Lafuma, Sellier\". Bản ghi không nêu người làm: trang chủ ghi \"Ce site, créé en 2011 par † D. Descotes et G. Proust\"; đề xuất thêm \"Descotes, D. & Proust, G. (2011–)\" (trang chỉ ghi tên viết tắt)."
+}

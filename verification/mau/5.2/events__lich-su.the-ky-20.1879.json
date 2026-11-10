@@ -1,0 +1,56 @@
+{
+  "unit": "events/lich-su.the-ky-20.1879",
+  "hash": "sha256:5800dd01120b7d31b37e798ee3d6c47dfcc54848069ae32c3cbb805193487f17",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m02",
+  "claims": [
+    {
+      "text": "Năm 1879, ông [Frege] xuất bản Begriffsschrift",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "In 1879, Frege published his first book Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens",
+          "where": "mục 1. Frege’s Life and Influences"
+        }
+      ]
+    },
+    {
+      "text": "(tạm dịch: \"chữ viết khái niệm\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "(Concept Notation: A formula language of pure thought, modelled upon that of arithmetic)",
+          "where": "mục 1. Frege’s Life and Influences"
+        }
+      ]
+    },
+    {
+      "text": "sáng tạo ra logic vị từ hiện đại — công cụ mà đến nay sinh viên logic vẫn học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "Frege essentially reconceived the discipline of logic by constructing a formal system which, in effect, constituted the first ‘predicate calculus’.",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "formalized the notion of a ‘proof’ in terms that are still accepted today",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "the principal elements of this later system can be found already in the Begriffsschrift of 1879.",
+          "where": "mục 1. Frege’s Life and Influences"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m02): đối chiếu SEP bản lưu Fall 2026, mục frege (bản sửa 1/8/2026). \"ông\" là Gottlob Frege (câu trước trong docs/lich-su/the-ky-20.md dòng 17: 1848–1925, nhà toán học người Đức — khớp SEP \"b. 1848, d. 1925 ... German mathematician, logician, and philosopher\"). Năm 1879 và vai trò \"predicate calculus\" đầu tiên khớp. Không có lỗi."
+}

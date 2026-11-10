@@ -1,0 +1,61 @@
+{
+  "unit": "sources/web.korpora-org.kant-aa04-429-html",
+  "hash": "sha256:51225c860c3ec3f599245f97cd3f3b049d6aa2c3e4cd3b9148a1e8948ab82548",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "Kant, Immanuel, *Grundlegung zur Metaphysik der Sitten* (1785), Akademie-Ausgabe tập 4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/Inhalt4.html",
+          "quote": "I. Kant, AA IV : Kritik der reinen Vernunft",
+          "where": "đầu mục lục tập 4"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa04/Inhalt4.html",
+          "quote": "1785. Grundlegung zur Metaphysik der Sitten 385",
+          "where": "mục lục tập 4 (năm, tên, trang đầu; khoảng trắng rút gọn)"
+        }
+      ]
+    },
+    {
+      "text": "Kant, “Über ein vermeintes Recht aus Menschenliebe zu lügen” (1797), Akademie-Ausgabe tập 8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/Inhalt8.html",
+          "quote": "I. Kant, AA VIII : Abhandlungen nach 1781",
+          "where": "đầu mục lục tập 8"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/Inhalt8.html",
+          "quote": "1797. Über ein vermeintes Recht aus Menschenliebe zu lügen 423",
+          "where": "mục lục tập 8 (khoảng trắng rút gọn)"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn tiếng Đức trên korpora.org; URL https://www.korpora.org/Kant/aa04/429.html mở được và trỏ đúng Grundlegung (AA IV: 429)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "Kant: AA IV, Grundlegung zur Metaphysik der ... , Seite 429",
+          "where": "tiêu đề trang"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "Handle so, daß du die Menschheit sowohl in deiner Person, als",
+          "where": "dòng 10"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở trang AA IV 429 và mục lục tập 4, tập 8 trên korpora.org bằng trình duyệt; tên hai tác phẩm, năm 1785 và 1797, tập 4 và 8 đều khớp. Bản ghi gộp hai tác phẩm nhưng chỉ có một URL (Grundlegung, AA IV: 429, đoạn công thức nhân tính). Đề xuất thêm vào \"also\" URL của bài 1797: https://www.korpora.org/Kant/aa08/423.html (trang đầu bài theo mục lục; đã mở thử https://www.korpora.org/Kant/aa08/425.html, tiêu đề \"Kant: AA VIII, Über ein vermeintes Recht ... , Seite 425\")."
+}

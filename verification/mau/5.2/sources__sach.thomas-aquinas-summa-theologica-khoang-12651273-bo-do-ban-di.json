@@ -1,0 +1,76 @@
+{
+  "unit": "sources/sach.thomas-aquinas-summa-theologica-khoang-12651273-bo-do-ban-di",
+  "hash": "sha256:76da591300401bea86e3d8fdb4067f79e07442a349280b037cddecd5024c7498",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Thomas Aquinas là tác giả *Summa Theologica*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Summa theologiae (1267–73, unfinished after 3a 90) Aquinas’s masterpiece, which he began in Rome and worked on until near the end his life.",
+          "where": "mục Thomas Aquinas (Robert Pasnau), đoạn liệt kê tác phẩm kèm niên đại"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/17611",
+          "quote": "Author Thomas, Aquinas, Saint, 1225?-1274 Title Summa Theologica, Part I (Prima Pars)"
+        }
+      ]
+    },
+    {
+      "text": "Thời gian soạn: khoảng 1265–1273",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thomas-aquinas/",
+          "quote": "Rome (1265-1268). It was during this period, perhaps in Rome, that Thomas began work on his magisterial Summa theologiae.",
+          "where": "mục Thomas Aquinas (Christopher M. Brown), đoạn tiểu sử"
+        },
+        {
+          "url": "https://iep.utm.edu/thomas-aquinas/",
+          "quote": "In the middle of composing his treatise on the sacraments for the Summa theologiae around December of 1273"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "Summa theologiae (1267–73, unfinished after 3a 90)"
+        }
+      ]
+    },
+    {
+      "text": "bỏ dở (chưa hoàn thành)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "During these final years he nearly, but not quite, finished both the Summa theologiae and his commentary series."
+        },
+        {
+          "url": "https://iep.utm.edu/thomas-aquinas/",
+          "quote": "Summa theologiae, although unfinished, numbers 2,592 pages in the English translation of the Fathers of the English Dominican Province"
+        }
+      ]
+    },
+    {
+      "text": "Có bản dịch tiếng Anh thuộc phạm vi công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/17611",
+          "quote": "Language English"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/17611",
+          "quote": "Release Date Jan 26, 2006 Last Update Jan 3, 2021 Copyright Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): tác giả, tình trạng bỏ dở và bản dịch công cộng đều có nguồn. Về năm: IEP ghi Aquinas bắt đầu Summa trong thời ở Rome (1265–1268) và ngừng viết khoảng tháng 12/1273; SEP ghi \"1267–73, unfinished after 3a 90\". \"khoảng 1265–1273\" nằm trong khoảng các nguồn cho; muốn khớp SEP thì có thể ghi \"khoảng 1265/1267–1273\". Gutenberg có bản dịch tiếng Anh công cộng (Fathers of the English Dominican Province, theo IEP) chia bốn phần: #17611 (Part I), #17897 (I-II), #18755 (II-II), #19950 (III). Link ổn định đề xuất: https://www.gutenberg.org/ebooks/17611 ."
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz",
+  "hash": "sha256:cb89a741fdb106389c1186bc94cfbc6cb58f4345a481aea8b40ba3586b901f2c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: A. J. Ayer",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/36018286",
+          "quote": "By: Ayer, A. J. (Alfred Jules), 1910-1989",
+          "where": "Thư viện Quốc hội Mỹ, bản ghi LCCN 36018286"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL6340309M.json",
+          "quote": "by Alfred J. Ayer.",
+          "where": "Open Library, ấn bản OL6340309M, trường by_statement"
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Language, Truth, and Logic*",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "*Language, Truth and Logic*",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/36018286",
+          "quote": "Language, truth and logic, by Alfred J. Ayer.",
+          "where": "Thư viện Quốc hội Mỹ, dòng nhan đề (chép theo trang tên sách)"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL6340309M.json",
+          "quote": "Language, truth and logic",
+          "where": "Open Library, ấn bản OL6340309M, trường title"
+        }
+      ]
+    },
+    {
+      "text": "Năm xuất bản: 1936",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/36018286",
+          "quote": "Published: V. Gollancz, ltd., London, 1936",
+          "where": "Thư viện Quốc hội Mỹ, LCCN 36018286"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: London: Gollancz",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/36018286",
+          "quote": "V. Gollancz, ltd., London",
+          "where": "Thư viện Quốc hội Mỹ, mục Publication details > Publisher"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL6340309M.json",
+          "quote": "V. Gollancz, ltd.",
+          "where": "Open Library, ấn bản OL6340309M, trường publishers (publish_places: London)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): Đối chiếu bản ghi Thư viện Quốc hội Mỹ (LCCN 36018286, OCLC 1221768: \"Language, truth and logic, by Alfred J. Ayer\", V. Gollancz, ltd., London, 1936, 254 tr.) và Open Library OL6340309M. Tác giả, năm, nơi in, nhà xuất bản đúng. Nhan đề in không có dấu phẩy trước \"and\" (lỗi kiểu ghi, nhe): nên ghi *Language, Truth and Logic*. Mục không có URL; đề xuất link ổn định: https://lccn.loc.gov/36018286 (sách còn bản quyền, không có bản công cộng)."
+}

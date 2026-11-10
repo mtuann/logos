@@ -1,0 +1,83 @@
+{
+  "unit": "sources/doi.10-1007-s11023-020-09539-2",
+  "hash": "sha256:141c76610b0829b613f432d19ecd1f7d15b8018e2337e53c1abb17c0aa54d608",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Tác giả: Gabriel, Iason (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"given\":\"Iason\",\"family\":\"Gabriel\",\"sequence\":\"first\"",
+          "where": "trường author (chỉ một mục)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (2020)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"issued\":{\"date-parts\":[[2020,9]]}",
+          "where": "trường issued; published-online 2020-10-01"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Artificial Intelligence, Values, and Alignment\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"title\":[\"Artificial Intelligence, Values, and Alignment\"]"
+        }
+      ]
+    },
+    {
+      "text": "*Minds and Machines* 30(3): 411–437",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"container-title\":[\"Minds and Machines\"]"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"volume\":\"30\"",
+          "where": "trường volume"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"issue\":\"3\"",
+          "where": "trường issue"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"page\":\"411-437\"",
+          "where": "trường page"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://doi.org/10.1007/s11023-020-09539-2> trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1007/s11023-020-09539-2",
+          "quote": "\"DOI\":\"10.1007\\/s11023-020-09539-2\",\"type\":\"journal-article\"",
+          "where": "bản ghi Crossref của DOI này là đúng bài trên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Mọi dữ kiện khớp bản ghi Crossref của DOI (một tác giả, Minds and Machines 30(3): 411-437, số in tháng 9/2020, bản trực tuyến 1/10/2020)."
+}

@@ -1,0 +1,96 @@
+{
+  "unit": "sources/sach.habermas-jurgen-1992-faktizitat-und-geltung-frankfurt-suhrka",
+  "hash": "sha256:64062566d694075e67d01a8cad510a27f11e70e74b674824421a9bedb7b3943f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Tác giả: Habermas, Jürgen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1414376W/editions.json",
+          "quote": "\"publish_date\":\"1992\",\"publish_country\":\"gw \",\"by_statement\":\"Jürgen Habermas.\"",
+          "where": "ấn bản /books/OL1486311M"
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Faktizität und Geltung*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1414376W/editions.json",
+          "quote": "\"title\":\"Faktizität und Geltung\",\"notes\":\"Includes bibliographical references and index.\"",
+          "where": "ấn bản /books/OL1486311M"
+        }
+      ]
+    },
+    {
+      "text": "Năm in: 1992",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Faktizit%C3%A4t+und+Geltung+Habermas&fields=key,title,author_name,first_publish_year,publisher,publish_year,publish_place&limit=5",
+          "quote": "\"author_name\":[\"Jürgen Habermas\"],\"first_publish_year\":1992,\"key\":\"/works/OL1414376W\""
+        },
+        {
+          "url": "https://openlibrary.org/works/OL1414376W/editions.json",
+          "quote": "\"publish_date\":\"1992\",\"publish_country\":\"gw \"",
+          "where": "ấn bản /books/OL1486311M (ISBN 3518581260, 3518581279; \"edition_name\":\"1. Aufl.\")"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Frankfurt: Suhrkamp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1414376W/editions.json",
+          "quote": "\"entries\":[{\"publishers\":[\"Suhrkamp\"]",
+          "where": "ấn bản /books/OL1486311M"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL1414376W/editions.json",
+          "quote": "\"publish_places\":[\"Frankfurt am Main\"]",
+          "where": "ấn bản /books/OL1486311M"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=Faktizit%C3%A4t+und+Geltung+Habermas&fields=key,title,author_name,first_publish_year,publisher,publish_year,publish_place&limit=5",
+          "quote": "\"publish_place\":[\"Frankfurt am Main\",\"Frankfurt\"],\"publish_year\":[1992,1998],\"publisher\":[\"Suhrkamp\"]",
+          "where": "tác phẩm /works/OL1414376W"
+        }
+      ]
+    },
+    {
+      "text": "bản tiếng Anh *Between Facts and Norms* (là bản dịch của chính sách này, của Habermas)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mitpress.mit.edu/9780262581622/between-facts-and-norms/",
+          "quote": "Between Facts and Norms Contributions to a Discourse Theory of Law and Democracy By Jürgen Habermas Translated by William Rehg",
+          "where": "đầu trang sách"
+        }
+      ]
+    },
+    {
+      "text": "bản tiếng Anh: 1996, MIT Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mitpress.mit.edu/9780262581622/between-facts-and-norms/",
+          "quote": "Hardcover ISBN: 9780262082433 Pub date: May 10, 1996 Publisher: The MIT Press",
+          "where": "thẻ Hardcover (bìa mềm: January 23, 1998)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): mọi dữ kiện khớp Open Library (ấn bản Suhrkamp, Frankfurt am Main, 1992) và trang MIT Press (bìa cứng 10/5/1996, người dịch William Rehg; bìa mềm 1998). Có thể ghi thêm phụ đề và người dịch nếu muốn đầy đủ. Link ổn định đề xuất: bản dịch https://mitpress.mit.edu/9780262581622/between-facts-and-norms/ ; bản gốc https://openlibrary.org/works/OL1414376W . portal.dnb.de hiện trang kiểm tra bot nên không dùng."
+}

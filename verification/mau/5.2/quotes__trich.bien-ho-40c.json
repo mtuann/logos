@@ -1,0 +1,70 @@
+{
+  "unit": "quotes/trich.bien-ho-40c",
+  "hash": "sha256:6f2215584f85fec89cbf81a806085b4a79803ec29beb7daf6482e086e9a5c8e2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản dịch Jowett): \"Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656-images.html",
+          "quote": "Let us reflect in another way, and we shall see that there is great reason to hope that death is a good;"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656-images.html",
+          "quote": "for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
+        }
+      ]
+    },
+    {
+      "text": "Tác phẩm và người dịch: Biện hộ (Apology) của Platon, bản dịch Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "Author\tPlato, 428? BCE-348? BCE\nTranslator\tJowett, Benjamin, 1817-1893\nTitle\tApology"
+        }
+      ]
+    },
+    {
+      "text": "locator: 40c",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "Let us consider in another way also how good reason there is to hope that it is a good thing.",
+          "where": "Plato, Apology, section 40c (bản dịch Fowler trên Perseus, cùng đoạn với câu Jowett)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Ta hãy nghĩ theo cách khác, sẽ thấy có nhiều lý do để hy vọng cái chết là điều tốt: vì nó chỉ có thể là một trong hai điều, hoặc chết là hư không, hoàn toàn không còn cảm giác, hoặc như người ta nói, đó là một cuộc đổi chỗ, linh hồn dời từ thế giới này sang thế giới khác.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "either it is virtually nothingness, so that the dead has no consciousness of anything, or it is, as people say, a change and migration of the soul from this to another place."
+        }
+      ]
+    },
+    {
+      "text": "Độ dài trích hợp bản quyền (một câu, bản dịch Jowett thế kỷ 19)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "Translator\tJowett, Benjamin, 1817-1893"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): câu Jowett khớp từng chữ với Gutenberg #1656; đối chiếu bản Fowler trên Perseus thì cùng đoạn nằm trọn trong Stephanus 40c. Bản dịch tiếng Việt đúng ý. Trường work còn là khóa tạm \"chua-ro.apologia\"."
+}
