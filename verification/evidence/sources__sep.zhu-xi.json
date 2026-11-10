@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.zhu-xi",
+  "hash": "sha256:200234f1feda2fadc9ee59715d0d6e9fe1f06a50545a3f1ae914f5283a78fc28",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Zhu Xi\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "Zhu Xi",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Kirill Thompson (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "meta-citation_author: Thompson, Kirill"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Ghi chú trong ngoặc ở texts_seen (Tứ thư, ảnh hưởng tới Việt Nam) là nội dung nơi dùng, không kiểm ở đây. Các cách ghi khác nhau chỉ khác dấu nháy và 'và'/'&'; nên thống nhất 'Họ, Tên & Họ, Tên'."
+}

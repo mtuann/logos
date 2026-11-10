@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sep.identity-personal",
+  "hash": "sha256:c08086cba0a23e791fcf168d1500fb81c8467e8998c55bbeac20e0bb69aeda75",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Personal Identity\" có thật ở bản lưu fall2026 và URL archive mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "First published Tue Aug 20, 2002; substantive revision Fri Jun 30, 2023",
+          "where": "đầu trang, tiêu đề: Personal Identity"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục khớp cách ghi trong text",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Olson, Eric T.",
+          "where": "metadata DC.creator của bản lưu"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Cách ghi trong texts_seen có thêm chú thích '(SEP chưa có mục riêng về Parfit)': đó là lời của bài, không phải thông tin nguồn; nên thống nhất cách ghi không kèm chú thích."
+}

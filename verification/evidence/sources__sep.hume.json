@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.hume",
+  "hash": "sha256:42d69a7c95b0cae754a10866943491d47dc21ae86e49b3c54214c1c4dbda8a11",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"David Hume\" có thật ở bản lưu fall2026 và URL archive mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "First published Tue Jun 16, 2026",
+          "where": "đầu trang, tiêu đề: David Hume"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục khớp cách ghi trong text",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/hume/",
+          "quote": "Hsueh Qu and Elizabeth S. Radcliffe",
+          "where": "trang PhilPapers liên kết với mục SEP"
+        }
+      ]
+    },
+    {
+      "text": "Năm: năm 2026 (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "First published Tue Jun 16, 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Metadata trang bản lưu chỉ ghi Radcliffe; ghi chú biên tập trên trang: 'new entry by Hsueh Qu and Elizabeth S. Radcliffe'. Cách ghi nên thống nhất: Qu, Hsueh & Elizabeth S. Radcliffe, có năm 2026. Mục ghi chú '(mục về quy nạp)' là diễn giải riêng, không kiểm."
+}

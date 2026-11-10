@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.confucius",
+  "hash": "sha256:ce5c39dc561f4613c73851f693eb4206728220b5fdd352ed2872b9d807c1c890",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Confucius\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Confucius"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Mark Csikszentmihalyi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Mark Csikszentmihalyi",
+          "where": "metadata/dòng bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "First published Tue Mar 31, 2020; substantive revision Thu May 2, 2024",
+          "where": "dòng ngày đầu mục"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "texts_seen có thêm mô tả đuôi; tên/tác giả đều khớp."
+}

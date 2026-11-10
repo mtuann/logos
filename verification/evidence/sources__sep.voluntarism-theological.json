@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.voluntarism-theological",
+  "hash": "sha256:ff68a9caae303e7052597e23c9ebc18eeffb9c82723d07fed8c78de69c83ef09",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Theological Voluntarism\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/",
+          "quote": "Theological Voluntarism",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Mark Murphy (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/",
+          "quote": "meta-citation_author: Murphy, Mark"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

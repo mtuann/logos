@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.aristotle",
+  "hash": "sha256:2594db58e785cde7450c0ce630ee458d46248a1a48ce09f123da50b97e3488a7",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s03",
+  "claims": [
+    {
+      "text": "Tên mục SEP là \"Aristotle\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle/",
+          "quote": "Aristotle"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục gồm Christopher Shields",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle/",
+          "quote": "Shields, Christopher",
+          "where": "metadata/dòng bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu fall2026 mở được và trỏ đúng mục này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle/",
+          "quote": "First published Thu Sep 25, 2008; substantive revision Tue Aug 25, 2020",
+          "where": "dòng ngày đầu mục"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

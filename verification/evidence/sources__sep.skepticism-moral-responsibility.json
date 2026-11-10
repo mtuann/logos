@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.skepticism-moral-responsibility",
+  "hash": "sha256:534791325fd2604c39397eff9174a52ec22ddd98bd14712239ca20860fa9280f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Skepticism About Moral Responsibility\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/",
+          "quote": "Skepticism About Moral Responsibility",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Gregg Caruso (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/",
+          "quote": "meta-citation_author: Caruso, Gregg"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

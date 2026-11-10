@@ -1,0 +1,58 @@
+{
+  "unit": "sources/iep.socrates",
+  "hash": "sha256:66f639ecb723005d2f0b5853094e8c0e458a21a4f6466412fefa325759f8affe",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/socrates/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates (469–399 B.C.E.)",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates (469–399 B.C.E.)",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Ambury",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "James M. Ambury",
+          "where": "Author Information / byline"
+        }
+      ]
+    },
+    {
+      "text": "Bài có đề cập bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "The Thirty",
+          "where": "bài nói về Critias, Alcibiades và The Thirty"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). texts_seen: tác giả và tên bài khớp; phần chú thích 'Critias, Alcibiades, nhóm Ba Mươi' được bài đề cập (Critias, Alcibiades, Thirty, 404-403 TCN)."
+}

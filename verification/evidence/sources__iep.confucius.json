@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.confucius",
+  "hash": "sha256:f6999f21e0d766ce8bc86c5d73b3c12d2e6173256e1f149e8bff00bc5f892fe5",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/confucius/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/confucius/",
+          "quote": "Above all else, the Analects depicts Confucius as someone who 'transmits, but does not innovate' (7.1).",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Confucius\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/confucius/",
+          "quote": "Confucius (551–479 B.C.E.)",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Richey, Jeff",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/confucius/",
+          "quote": "Jeff Richey (Berea College)",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

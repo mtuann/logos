@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.spinoza",
+  "hash": "sha256:27ac3482039afcd0cb13332d1a3b5a93e32729ccf5bd8cfc34199b809681418c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Baruch Spinoza\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/spinoza/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "Baruch Spinoza",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Steven Nadler (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "meta-citation_author: Nadler, Steven"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

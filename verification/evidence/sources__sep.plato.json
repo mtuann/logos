@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.plato",
+  "hash": "sha256:56a2ac3fe49777c27245d8f6fdda345c0feed8709c3d64b81e06f157af4ac14b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s07",
+  "claims": [
+    {
+      "text": "URL bản lưu mở được và trỏ đúng mục SEP \"Plato\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "First published Sat Mar 20, 2004; substantive revision Fri Apr 24, 2026",
+          "where": "đầu trang (tên mục và ngày đăng)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Richard Kraut",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "Copyright © 2026 by Richard Kraut"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

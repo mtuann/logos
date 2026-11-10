@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.gettier",
+  "hash": "sha256:392d902895eb3cb5d8ef89251fc819b80802cefa2b478efa0a8cc912a615ac3e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/gettier/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "Gettier problems or cases are named in honor of the American philosopher Edmund Gettier, who discovered them in 1963.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Gettier Problems\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "Gettier Problems",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Hetherington, Stephen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "Stephen Hetherington (University of New South Wales, Australia)",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

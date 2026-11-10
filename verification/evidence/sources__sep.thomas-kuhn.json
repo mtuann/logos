@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.thomas-kuhn",
+  "hash": "sha256:42d83678004f4975737b347fde708656c1e9719782823440bbda9ea7f0f28d2c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Thomas Kuhn\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "Thomas Kuhn",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Alexander Bird (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "meta-citation_author: Bird, Alexander"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

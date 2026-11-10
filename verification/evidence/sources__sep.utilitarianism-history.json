@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.utilitarianism-history",
+  "hash": "sha256:f18c8b56c2ba1c15709f6756ef9806f50203f7518cc59aed81408c0c4bcc534a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"The History of Utilitarianism\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/utilitarianism-history/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/utilitarianism-history/",
+          "quote": "The History of Utilitarianism",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Julia Driver (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/utilitarianism-history/",
+          "quote": "meta-citation_author: Driver, Julia"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

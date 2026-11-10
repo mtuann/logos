@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.kierkega",
+  "hash": "sha256:423fa23ee653fd6f0e057970beab004c9ad287b30e63959142ae4f6c2da860bf",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/kierkega/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/kierkega/",
+          "quote": "Søren Kierkegaard is an outsider in the history of philosophy.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Søren Kierkegaard\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/kierkega/",
+          "quote": "Søren Kierkegaard (1813–1855)",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: McDonald, William",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/kierkega/",
+          "quote": "William McDonald (University of New England, Australia)",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

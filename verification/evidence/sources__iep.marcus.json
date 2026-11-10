@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.marcus",
+  "hash": "sha256:3ba41fd03e5d5b7f232bb33367dcc03bd9caf6f9bc66156068b726dd9519be85",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s09",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài IEP https://iep.utm.edu/marcus/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/marcus/",
+          "quote": "He is no Plato or Aristotle, nor even a Sextus Empiricus or Alexander of Aphrodisias.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Marcus Aurelius\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/marcus/",
+          "quote": "Marcus Aurelius (121—180 C.E.)",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Sellars, John",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/marcus/",
+          "quote": "John Sellars",
+          "where": "Author Information / byline"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Hai cách ghi trong texts_seen chỉ khác kiểu dấu ngoặc kép, nội dung trùng; nên thống nhất một kiểu."
+}

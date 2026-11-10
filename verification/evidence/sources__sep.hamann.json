@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.hamann",
+  "hash": "sha256:b270743e49193b588203206758a55bb11c9ce1b4d081b5ccd9ec2f6c2ac53a12",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s04",
+  "claims": [
+    {
+      "text": "Mục SEP \"Johann Georg Hamann\" có thật; bản lưu fall2026 mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "Johann Georg Hamann",
+          "where": "tiêu đề mục"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Griffith-Dickson, Gwen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "Griffith-Dickson, Gwen",
+          "where": "metadata/bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "Mục nói về thư gửi Kraus năm 1784",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "an inflamed private letter to Christian Jacob Kraus"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang in nhầm '(1984)' ở chỗ thư gửi Kraus, ngữ cảnh là 1784 (lỗi in của SEP)."
+}

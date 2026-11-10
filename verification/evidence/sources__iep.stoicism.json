@@ -1,0 +1,58 @@
+{
+  "unit": "sources/iep.stoicism",
+  "hash": "sha256:285fb9dd6f1b9a0a121ab6869a77ba158ffb97dfea8e8e7f3303dd5f9194af73",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL https://iep.utm.edu/stoicism/ mở được và trỏ đúng bài IEP này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Stoicism",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài khớp cách ghi trong text (và texts_seen nếu có)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Stoicism",
+          "where": "tiêu đề bài / thẻ title"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Pigliucci",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Massimo Pigliucci",
+          "where": "Author Information / byline"
+        }
+      ]
+    },
+    {
+      "text": "Mô tả: về cảm xúc trong Khắc kỷ, phép chia ba của Irvine và liên hệ liệu pháp nhận thức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Apatheia and the Stoic Treatment of Emotions",
+          "where": "mục 4"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Ba cách ghi texts_seen đều trỏ cùng bài, cùng tác giả. Phần mô tả (cảm xúc, phép chia ba của Irvine 2008, liệu pháp nhận thức) khớp nội dung bài: mục 4 'Apatheia and the Stoic Treatment of Emotions', Irvine 'a more reasonable trichotomy', liên hệ CBT. Năm 2008 của Irvine không đối chiếu được trên trang IEP (chỉ thấy tên Irvine); nên giữ như mô tả hay thêm chú thích nguồn."
+}

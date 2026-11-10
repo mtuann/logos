@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.self-consciousness",
+  "hash": "sha256:e52fbebdc6af90540c03b9b53f9769e3cf779b846b91f8a2c226f0009414d508",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Self-Consciousness\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/self-consciousness/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/self-consciousness/",
+          "quote": "Self-Consciousness",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Joel Smith (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/self-consciousness/",
+          "quote": "meta-citation_author: Smith, Joel"
+        }
+      ]
+    },
+    {
+      "text": "Mục 1 (1.1) có thảo luận 'người bay' (Flying Man) của Avicenna",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/self-consciousness/",
+          "quote": "Flying Man thought experiment",
+          "where": "mục 1.1"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

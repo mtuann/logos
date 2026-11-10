@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.song-ming-confucianism",
+  "hash": "sha256:5344df6aa043ac98de9ff008ac8fb76779f71e8b47a97e7d9c1ba74867df2b19",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Song-Ming Confucianism\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/song-ming-confucianism/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/song-ming-confucianism/",
+          "quote": "Song-Ming Confucianism",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Justin Tiwald (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/song-ming-confucianism/",
+          "quote": "meta-citation_author: Tiwald, Justin"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.kant-moral",
+  "hash": "sha256:87142c283099ad48b33c4623253f90e9eeb74e6852265d075e5e0b8130f20b88",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Kant's Moral Philosophy\" có thật ở bản lưu fall2026 và URL archive mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-moral/",
+          "quote": "First published Mon Feb 23, 2004; substantive revision Thu Oct 2, 2025",
+          "where": "đầu trang, tiêu đề: Kant's Moral Philosophy"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục khớp cách ghi trong text",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philpapers.org/sep/kant-moral/",
+          "quote": "Robert Johnson and Adam Cureton",
+          "where": "trang PhilPapers liên kết với mục SEP"
+        }
+      ]
+    },
+    {
+      "text": "Năm: năm 2004, sửa lớn 2025 (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-moral/",
+          "quote": "First published Mon Feb 23, 2004; substantive revision Thu Oct 2, 2025"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Metadata bản lưu chỉ ghi Cureton; người làm nên đối chiếu lại byline trên trình duyệt thật vì công cụ không thấy byline đầy đủ. Hai tác giả xác nhận qua PhilPapers."
+}

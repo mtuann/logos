@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.well-being",
+  "hash": "sha256:65ffb708db90443f4a06e06f9dc88bcbc74d36277a4b6161ed7b147504f35a2f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Well-Being\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/well-being/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "Well-Being",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Roger Crisp (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "meta-citation_author: Crisp, Roger"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026)."
+}

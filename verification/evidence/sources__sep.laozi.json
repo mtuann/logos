@@ -1,0 +1,45 @@
+{
+  "unit": "sources/sep.laozi",
+  "hash": "sha256:e0e16b9a7919c98ff556a6bac3c6c6c5d849c44c94bfaaf982f18e6c7314def6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s05",
+  "claims": [
+    {
+      "text": "Mục \"Laozi\" có thật ở bản lưu fall2026 và URL archive mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "First published Sat Dec 15, 2001; substantive revision Wed Oct 22, 2025",
+          "where": "đầu trang, tiêu đề: Laozi"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục khớp cách ghi trong text",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "Chan, Alan",
+          "where": "metadata DC.creator của bản lưu"
+        }
+      ]
+    },
+    {
+      "text": "Năm: bản sửa 2025",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "First published Sat Dec 15, 2001; substantive revision Wed Oct 22, 2025"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

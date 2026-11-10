@@ -1,0 +1,37 @@
+{
+  "unit": "sources/sep.thought-experiment",
+  "hash": "sha256:00a88d1771a805e50feb78c23a33c2c51da1e840fa41f9e38578415718ea4fea",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s08",
+  "claims": [
+    {
+      "text": "Mục SEP có tên \"Thought Experiments\" và URL bản lưu https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/ mở được, trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "Thought Experiments",
+          "where": "tiêu đề trang bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: James Robert Brown & Yiftach Fehige (khớp text và mọi texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/authors.html",
+          "quote": "Thought Experiments (with Yiftach Fehige)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "meta-citation_author: Fehige, Yiftach"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở bằng WebFetch (bản lưu fall2026). Mục nhiều tác giả: công cụ chỉ hiện thẻ meta của tác giả cuối nên danh sách và thứ tự đầy đủ được đối chiếu thêm qua trang PhilPapers 'Linked bibliography' hoặc trang authors.html của bản lưu (cho thấy tác giả đứng đầu 'with ...'); thứ tự khớp text."
+}

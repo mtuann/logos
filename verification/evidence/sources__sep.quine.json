@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sep.quine",
+  "hash": "sha256:cfddff906caf7feb82822d2129345606b079f507b4a358a48b96b56587248022",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s07",
+  "claims": [
+    {
+      "text": "URL bản lưu mở được và trỏ đúng mục SEP \"Willard Van Orman Quine\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "First published Fri Apr 9, 2010; substantive revision Thu Jul 6, 2023",
+          "where": "đầu trang (tên mục và ngày đăng)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Peter Hylton và Gary Kemp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "Copyright © 2023 by Peter Hylton and Gary Kemp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Metadata chỉ nêu Kemp; khối bản quyền nêu cả hai."
+}

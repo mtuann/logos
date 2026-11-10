@@ -1,0 +1,48 @@
+{
+  "unit": "sources/iep.ont-arg",
+  "hash": "sha256:ac4946af6042ed213f32bdf530678129b576e51a54ba88297e20910c16f951ae",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s10",
+  "claims": [
+    {
+      "text": "URL mở được và trỏ đúng bài do Himma viết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "Anselm: Ontological Argument for God’s Existence",
+          "where": "tiêu đề bài"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả: Kenneth Einar Himma",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "Kenneth Einar Himma (Seattle Pacific University, U.S.A.)",
+          "where": "Author Information"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: “Ontological Argument”",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Himma, Kenneth Einar, “Anselm: Ontological Argument for God’s Existence”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ont-arg/>",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "Anselm: Ontological Argument for God’s Existence",
+          "where": "tiêu đề bài; thẻ title: 'Anselm: Ontological Argument for the God’s Existence'"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Bài là về lập luận bản thể của Anselm, không phải bài tổng quát 'Ontological Argument'; tên rút gọn dễ gây hiểu lầm. Lần mở đầu tiên bị lỗi máy chủ, lần sau đọc được."
+}
