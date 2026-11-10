@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.zh.1",
+  "hash": "sha256:b5a3534bc471fea655d9a3098fcd14d80e60807f79781782688c84e0d958c34d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "URL 明史/卷1 mở được; Thái Tổ bản kỷ ghi năm 1364 Chu Nguyên Chương lên ngôi Ngô vương",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. "
+}

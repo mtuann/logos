@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.en.meditations-on-first-philosophy",
+  "hash": "sha256:0cdac824e5a067918639f1aab58d4ee0a4863abe3b2cb4e3eafc145b3f9dc0e9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang đúng Descartes, Meditations on First Philosophy, bản dịch John Veitch (1853; ấn bản 1901 trên Wikisource), cũng khớp mọi texts_seen",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}

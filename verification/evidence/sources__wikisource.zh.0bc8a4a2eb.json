@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.zh.0bc8a4a2eb",
+  "hash": "sha256:6ef4b6c2f7a491ddfe71c048fb78d8033510e1b8b3e455a78306838c3e6ac7ed",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "URL 本紀卷之十一 mở được; Bản kỷ quyển 10-12 chứa Bình Ngô đại cáo, 1435, 1437, án Lệ Chi Viên 1442, 1464, 1467",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. Trong phiên này mở được 本紀卷之十 (có Bình Ngô đại cáo, ghi Nguyễn Trãi soạn) và 本紀卷之十二 (có mục 甲申 光順五年 [1464] và 丁亥 光順八年 [1467]) nhưng URL của bản ghi này là 卷之十一, không mở được; claim 1435, 1437, 1442 chưa kiểm. Cách ghi 'quyển 10-12' chỉ có URL quyển 11 - đề nghị thêm URL quyển 10, 12."
+}

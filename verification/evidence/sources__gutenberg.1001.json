@@ -1,0 +1,37 @@
+{
+  "unit": "sources/gutenberg.1001",
+  "hash": "sha256:462853f1aa5bb23410963fe85ab533326b5560d2b7a475b14320cc0317368460",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 1001 là Divine Comedy (Hell) của Dante Alighieri",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1001",
+          "quote": "Divine Comedy, Longfellow's Translation, Hell"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của H. W. Longfellow",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1001",
+          "quote": "Longfellow, Henry Wadsworth, 1807-1882"
+        }
+      ]
+    },
+    {
+      "text": "Khúc IV (vị trí trích) — trang ebook không liệt kê từng khúc",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Khúc IV chưa đối chiếu với văn bản; đề xuất kiểm bằng văn bản ebook (Canto IV, Limbo)."
+}

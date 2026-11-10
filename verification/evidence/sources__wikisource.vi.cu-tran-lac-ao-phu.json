@@ -1,0 +1,27 @@
+{
+  "unit": "sources/wikisource.vi.cu-tran-lac-ao-phu",
+  "hash": "sha256:abbd3b25ed7d4b8988cbfd285d736a12b556f12e069a73d1d9ec00ed79730b40",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "Trang Wikisource 'Cư trần lạc đạo phú' (居塵樂道賦), tác giả Trần Nhân Tông, chữ Nôm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA",
+          "quote": "được viết bằng chữ Nôm, dài 10 hội, cuối bài là 4 câu kệ bằng chữ Hán",
+          "where": "đoạn giới thiệu đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Trang có phiên âm (chữ quốc ngữ) kèm chữ Nôm",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang mở được, chỉ đọc được phần giới thiệu (tác giả, chữ Nôm, 10 hội); không thấy nội dung hội/phiên âm trong phần lấy về (trang là trang mục lục, văn bản nằm ở các trang con 'Đệ ... hội'). Chưa xác nhận 'phiên âm'."
+}

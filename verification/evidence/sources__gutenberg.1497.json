@@ -1,0 +1,66 @@
+{
+  "unit": "sources/gutenberg.1497",
+  "hash": "sha256:9d6b7400b237624bf6640179ceb624678b3d770ba882f26033862d0d112909f4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 1497 là The Republic của Plato",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "The Republic by Plato"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh của Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "Jowett, Benjamin, 1817-1893"
+        }
+      ]
+    },
+    {
+      "text": "In lần đầu trong The Dialogues of Plato, Oxford, 1871",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Quyển II / Quyển VI (488a–489d) — vị trí trích",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "DOI 10.1089/1094931041291295 trỏ đúng bài Suler (2004), CyberPsychology & Behavior 7(3): 321–326",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "The Online Disinhibition Effect",
+          "where": "api.crossref.org/works/10.1089/1094931041291295: John Suler, CyberPsychology & Behavior, 2004, vol 7, issue 3, pp 321-326"
+        }
+      ]
+    },
+    {
+      "text": "Microsoft (2016), 'Learning from Tay's introduction' tại URL blogs.microsoft.com ngày 25/3/2016",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "Learning from Tay’s introduction",
+          "where": "blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/, đăng March 25, 2016"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Mục kèm hai nguồn không phải Gutenberg; đã mở Crossref (khớp đúng) và trang Microsoft (khớp). Năm 1871 và vị trí quyển/Stephanus chưa kiểm được từ trang ebook. texts_seen: 'Quyển II' và 'Quyển VI (488a–489d)' là hai đoạn trích khác nhau của cùng tác phẩm, không mâu thuẫn; nên ghi thống nhất 'The Republic' (không dùng 'Cộng hòa' lẫn 'Republic')."
+}

@@ -1,0 +1,50 @@
+{
+  "unit": "sources/gutenberg.10615",
+  "hash": "sha256:a72345d9b719c67515a9b99be1174abd6cb4208992f97a716ce8bf2991139a9b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 10615 là An Essay Concerning Human Understanding của John Locke, tập 1 (Quyển I–II)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10615",
+          "quote": "An Essay Concerning Humane Understanding, Volume 1"
+        }
+      ]
+    },
+    {
+      "text": "Tập 1 gồm Quyển 1 và 2, dựa trên ấn bản lần hai",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10615",
+          "quote": "MDCXC, Based on the 2nd Edition, Books 1 and 2",
+          "where": "trường Title"
+        }
+      ]
+    },
+    {
+      "text": "Ấn bản đầu 1689",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10615",
+          "quote": "first published in 1689",
+          "where": "summary tự sinh"
+        }
+      ]
+    },
+    {
+      "text": "Chương xxvii (Quyển II) bổ sung trong ấn bản lần hai, 1694",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang ghi bản dựa trên ấn bản 2 và đề 'MDCXC' (1690, năm trên trang tựa bản đầu) trong khi summary nói 1689 — hai cách ghi, cả hai nhất quán với 'ấn bản đầu 1689' (phát hành cuối 1689, đề 1690). Ebook là bản ấn bản 2 nên chương xxvii có mặt, nhưng năm 1694 chưa kiểm. texts_seen: 'II.1.2' (Quyển II chương i §2) cần đối chiếu văn bản; Bartleby (Some Thoughts Concerning Education, 1693) và SEP locke ngoài phạm vi lô Gutenberg này, chưa mở. Nên thống nhất cách ghi năm (1689) và ghi rõ 'tập 1'."
+}

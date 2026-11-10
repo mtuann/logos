@@ -1,0 +1,27 @@
+{
+  "unit": "sources/wikisource.en.the-problems-of-philosophy-chapter-15",
+  "hash": "sha256:3b750e1f01d6f85abd3df3d9ab82dd91d71f74459faac25f7cecc49213ee19a7",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang đúng Russell, The Problems of Philosophy (1912), chương XV, bản in 1912 trên Wikisource",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Gutenberg ebook 5827 là The Problems of Philosophy của Russell (1912)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "The Problems of Philosophy",
+          "where": "Gutenberg 5827, Bertrand Russell, 1912"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}

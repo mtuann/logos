@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.de.thesen-uber-feuerbach",
+  "hash": "sha256:05fa1d62b938017c1209de123619837411ae32f59404b8a461472a99d9adeea0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang de.wikisource là 'Thesen über Feuerbach' của Marx (1845; in 1888)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}

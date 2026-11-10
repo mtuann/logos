@@ -1,0 +1,26 @@
+{
+  "unit": "sources/web.deutschestextarchiv-de.book-show-frege-sinn-1892",
+  "hash": "sha256:3a24810013f2ac97884006f4a3432b999e912ee40b43c1d79df3ca25d84a9f57",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "Frege, \"Über Sinn und Bedeutung\", 1892, Zeitschrift für Philosophie und philosophische Kritik NF 100/1, S. 25–50 (bản DTA)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://clarin.bbaw.de/en/objects/dta:298/",
+          "quote": "Zeitschrift für Philosophie und philosophische Kritik, N. F., Bd. 100/1 (1892), S. 25-50"
+        }
+      ]
+    },
+    {
+      "text": "URL deutschestextarchiv.de/book/show/frege_sinn_1892 mở được và trỏ đúng văn bản (trang chỉ hiện \"JavaScript wird benötigt\", công cụ không đọc được; WebFetch cũng bị robots chặn bản txt)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Siêu dữ liệu xác nhận qua CLARIN-D (dta:298) cho cùng văn bản; chỉ thiếu việc mở trực tiếp URL (cần JS). Người làm nên mở bằng trình duyệt."
+}

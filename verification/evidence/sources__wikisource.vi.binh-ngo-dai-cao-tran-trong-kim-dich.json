@@ -1,0 +1,20 @@
+{
+  "unit": "sources/wikisource.vi.binh-ngo-dai-cao-tran-trong-kim-dich",
+  "hash": "sha256:611c171528e651490612ac3bd542d5543e796213c8df0feaf604271ef0e2401a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s16",
+  "claims": [
+    {
+      "text": "URL https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch) mở được và là bản dịch Bình Ngô đại cáo của Trần Trọng Kim (Việt Nam sử lược, 1920)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "URL Lam_Sơn_thực_lục/Cuốn_thứ_ba là bản Mạc Bảo Thần dịch 1944, có nguyên văn chữ Hán",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. Kết quả WebSearch có liệt kê trang vi.wikisource 'Bình Ngô đại cáo (Trần Trọng Kim dịch)' (cùng trang Thảo luận và Tác gia:Trần Trọng Kim) nên trang có tồn tại, nhưng chưa đọc được nội dung; chưa đủ để ghi dung. Chưa tìm thấy trang Lam Sơn thực lục."
+}

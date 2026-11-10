@@ -1,0 +1,34 @@
+{
+  "unit": "sources/doi.10-2307-2700187",
+  "hash": "sha256:ea359c7cf90ef2aae8e7fd756fa6d54cb98a9610041abccc7afbe3af1fcb1506",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "McHale, tên bài, J. Asian Studies 61(1), 2002",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2700187",
+          "quote": "\"title\":[\"Vietnamese Marxism, Dissent, and the Politics of Postcolonial Memory: Tran Duc Thao, 1946\\u20131993\"]; \"volume\":\"61\"; \"issue\":\"1\""
+        }
+      ]
+    },
+    {
+      "text": "Trang 7–37",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "tr. 7–31",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2700187",
+          "quote": "\"page\":\"7-31\""
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Chỉ trang cuối sai theo Crossref (7–31, không phải 7–37)."
+}

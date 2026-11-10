@@ -1,0 +1,43 @@
+{
+  "unit": "sources/gutenberg.34901",
+  "hash": "sha256:909190417c88bc0bd5707d637b70b1c30c136f8370f8e1701451ac4a75c89e25",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 34901 là On Liberty của J. S. Mill",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "On Liberty"
+        }
+      ]
+    },
+    {
+      "text": "Xuất bản 1859",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "is an essay published in 1859",
+          "where": "summary tự sinh (nguồn yếu)"
+        }
+      ]
+    },
+    {
+      "text": "London: John W. Parker and Son",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bản Walter Scott Publishing (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Trang ebook không nêu nhà xuất bản của ấn bản nguồn (Parker 1859 hay Walter Scott). Hai cách ghi (Parker vs Walter Scott) mâu thuẫn tiềm tàng: nên thống nhất sau khi xác nhận ấn bản nguồn của ebook."
+}

@@ -1,0 +1,48 @@
+{
+  "unit": "sources/gutenberg.5682",
+  "hash": "sha256:fb96d3d7fa83e95c3431069757591653a84ab9f996a7cc06095636a723bea0f5",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #5682 là Kant, Groundwork/Fundamental Principles of the Metaphysic of Morals, dịch T. K. Abbott",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5682",
+          "quote": "Fundamental Principles of the Metaphysic of Morals by Immanuel Kant"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/5682",
+          "quote": "Abbott, Thomas Kingsmill, 1829-1913"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Abbott (1889) trên archive.org, mục cu31924029021612",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/cu31924029021612",
+          "quote": "Kant's Critique of practical reason and other works on the theory of ethics",
+          "where": "London : Longmans, Green, 1889; dịch giả Abbott nằm ở Associated-names"
+        }
+      ]
+    },
+    {
+      "text": "Akademie-Ausgabe VIII, trang 425, Über ein vermeintes Recht aus Menschenliebe zu lügen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/425.html",
+          "quote": "Kant: AA VIII, Über ein vermeintes Recht ... , Seite 425"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Hai cách ghi (text và texts_seen) cùng trỏ đúng ebook; tên ebook là 'Fundamental Principles of the Metaphysic of Morals', mục ghi 'Groundwork' (cách gọi hiện đại), nên thống nhất một tên. Khoảng trang AA VIII 423-430 chỉ kiểm trang 425. Mục archive.org là tập gộp có bài 'On a supposed right to tell lies', không đọc nội dung bên trong."
+}

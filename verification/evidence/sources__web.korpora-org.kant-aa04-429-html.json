@@ -1,0 +1,38 @@
+{
+  "unit": "sources/web.korpora-org.kant-aa04-429-html",
+  "hash": "sha256:51225c860c3ec3f599245f97cd3f3b049d6aa2c3e4cd3b9148a1e8948ab82548",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s18",
+  "claims": [
+    {
+      "text": "URL trỏ đúng Grundlegung zur Metaphysik der Sitten, Akademie-Ausgabe IV, tr. 429",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "Kant: AA IV, Grundlegung zur Metaphysik der ...",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Bài \"Über ein vermeintes Recht aus Menschenliebe zu lügen\" nằm ở AA VIII (trang 425 là một trang của bài)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/425.html",
+          "quote": "Kant: AA VIII, Über ein vermeintes Recht ... , Seite 425"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1785 (Grundlegung) và 1797 (bài về quyền nói dối): korpora.org không ghi năm",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ còn năm xuất bản chưa mở được nguồn xác nhận (korpora không có năm). Nguồn korpora tốt cho văn bản AA."
+}

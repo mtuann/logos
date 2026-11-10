@@ -1,0 +1,60 @@
+{
+  "unit": "sources/doi.10-1111-1467-9213-00309",
+  "hash": "sha256:1335d2cdab7f8684a0231b0c167bb27c73e14b4cf45429b7f86d660526f94f89",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s11",
+  "claims": [
+    {
+      "text": "Tác giả: Bostrom, Nick",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/1467-9213.00309",
+          "quote": "Nick Bostrom"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Are You Living in a Computer Simulation?\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Are We Living in a Computer Simulation? (tiêu đề theo Crossref và trang OUP; bản trên trang tác giả dùng 'Are You Living...')",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/1467-9213.00309",
+          "quote": "Are We Living in a Computer Simulation?"
+        },
+        {
+          "url": "https://academic.oup.com/pq/article/53/211/243/1610975",
+          "quote": "Are We Living in a Computer Simulation?"
+        }
+      ]
+    },
+    {
+      "text": "The Philosophical Quarterly 53(211), 2003, tr. 243–255",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/1467-9213.00309",
+          "quote": "The Philosophical Quarterly; 2003; volume 53; issue 211; page 243-255"
+        }
+      ]
+    },
+    {
+      "text": "DOI trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/1467-9213.00309",
+          "quote": "Are We Living in a Computer Simulation?"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tên bài khác một chữ (You/We). Nhà xuất bản ghi 'We'; đề nghị thống nhất theo nhà xuất bản. Đã mở được trang OUP qua đường dẫn suy ra từ kết quả tìm, nội dung chỉ có tiêu đề/tập/trang."
+}

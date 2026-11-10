@@ -1,0 +1,37 @@
+{
+  "unit": "sources/gutenberg.4650",
+  "hash": "sha256:fc7647db51c5b2ac00d77c3aeea05e062cdf35d7d44978eaff073f73890930cb",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #4650 là Voltaire, Candide, ou l'optimisme",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4650",
+          "quote": "Candide, ou l'optimisme"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/4650",
+          "quote": "Voltaire, 1694-1778"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1759",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4650",
+          "quote": "first published in 1759",
+          "where": "Phần tóm tắt tự động của trang ebook"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Năm 1759 lấy từ tóm tắt tự động của trang Gutenberg (nguồn yếu), không phải bảng thư mục. Ebook là bản tiếng Pháp."
+}

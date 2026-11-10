@@ -1,0 +1,49 @@
+{
+  "unit": "sources/gutenberg.53430",
+  "hash": "sha256:00b602e470b2fb537e53993f2e9602ba96ebedb673e0b8d6c09fe1eee4e7ee01",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #53430 là G. E. Moore, Principia Ethica",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/53430",
+          "quote": "Principia Ethica"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/53430",
+          "quote": "Moore, G. E. (George Edward), 1873-1958"
+        }
+      ]
+    },
+    {
+      "text": "1903, Cambridge University Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/53430/pg53430.txt",
+          "quote": "CAMBRIDGE UNIVERSITY PRESS",
+          "where": "Trang bìa; trang bìa ghi bản in lại 1922 và nêu bản đầu 1903"
+        }
+      ]
+    },
+    {
+      "text": "Có §13 (chương I)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/53430/pg53430.txt",
+          "quote": "In fact, if it is not the case that",
+          "where": "Đầu §13, chương I"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ebook là bản in lại năm 1922; 1903 là năm in lần đầu, mục ghi đúng."
+}

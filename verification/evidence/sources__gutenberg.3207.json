@@ -1,0 +1,55 @@
+{
+  "unit": "sources/gutenberg.3207",
+  "hash": "sha256:a8337154747fe3604a94e6a3d3fd3377cc786adabd0b2e08c20e8c048cdb9dc6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 3207 là Leviathan của Thomas Hobbes",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "quote": "Leviathan"
+        }
+      ]
+    },
+    {
+      "text": "Leviathan xuất bản 1651",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "quote": "1651",
+          "where": "summary tự sinh trên trang ebook (nguồn yếu)"
+        }
+      ]
+    },
+    {
+      "text": "Dryden (1672), The Conquest of Granada tại Gutenberg 15349",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/15349",
+          "quote": "The works of John Dryden, now first collected in eighteen volumes. Volume 04",
+          "where": "trang ebook 15349: tập 4 chứa 'Almanzor and Almahide, or the Conquest of Granada'"
+        }
+      ]
+    },
+    {
+      "text": "Hobbes, Leviathan chương 13 — vị trí trích",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Năm 1672 của The Conquest of Granada; Rousseau (1755) Discours, bản Genève 1782 (Wikisource); Ellingson (2001), The Myth of the Noble Savage, University of California Press — chưa mở nguồn",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Mục kèm nhiều nguồn ngoài Gutenberg 3207; chỉ kiểm được Dryden 15349 (tập 4 của Works, Scott, không phải bản in 1672 — nên ghi rõ 'in trong The Works of John Dryden, ed. Walter Scott, tập 4'). Rousseau và Ellingson ngoài lô, chưa kiểm."
+}

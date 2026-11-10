@@ -1,0 +1,37 @@
+{
+  "unit": "sources/gutenberg.1726",
+  "hash": "sha256:eaf3f729439c0edb63660e44d97a06e3d86872356acf837ff1d67bda1a6fe228",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s13",
+  "claims": [
+    {
+      "text": "Ebook 1726 là Theaetetus của Plato",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1726",
+          "quote": "Theaetetus"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1726",
+          "quote": "Benjamin Jowett (1817-1893)"
+        }
+      ]
+    },
+    {
+      "text": "Vị trí 174a (texts_seen)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "174a chưa đối chiếu với văn bản."
+}

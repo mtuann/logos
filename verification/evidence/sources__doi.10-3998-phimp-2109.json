@@ -1,0 +1,48 @@
+{
+  "unit": "sources/doi.10-3998-phimp-2109",
+  "hash": "sha256:301eca745993f1f7eac8f443d495e7b0251bf1a42b41832898f9633114060829",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Bourget & Chalmers, tên bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "\"title\":[\"Philosophers on Philosophy: The 2020 PhilPapers Survey\"]"
+        }
+      ]
+    },
+    {
+      "text": "Philosophers' Imprint 23, 2023",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "\"container-title\":[\"Philosophers' Imprint\"]; \"volume\":\"23\"; \"issued\":[[2023,7,25]]"
+        }
+      ]
+    },
+    {
+      "text": "Philosophers' Imprint 23 (11), 2023",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/rec/BOUPOP-3",
+          "quote": "Philosophers' Imprint 23 (11) (2023)."
+        }
+      ]
+    },
+    {
+      "text": "URL survey2020.philpeople.org có mặt và mở được",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Crossref ghi issue '1' (bài số 11 của tập 23), PhilArchive ghi '23 (11)'. Nhiều cách ghi trong texts_seen (có/không '(11)'): nên thống nhất 'Philosophers' Imprint 23 (11)' hoặc '23: 11'. Không tách riêng claim survey2020.philpeople.org vì lô này chỉ kiểm DOI (chưa mở trang đó trong phiên); ở đây ghi chua-kiem-duoc. Plato SEP moral-particularism (trong texts_seen/also) chưa mở; thuộc kiểm riêng mục SEP."
+}

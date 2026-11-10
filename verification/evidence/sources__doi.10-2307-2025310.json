@@ -1,0 +1,33 @@
+{
+  "unit": "sources/doi.10-2307-2025310",
+  "hash": "sha256:ac5b7797aed57e5a2a8d439c9f84971eae5100a5f3ce17753c2c6172b5eb99b8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Lewis (1973) 'Causation', J. Philosophy 70(17)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2025310",
+          "quote": "\"title\":[\"Causation\"]; \"volume\":\"70\"; \"issue\":\"17\"; \"issued\":[[1973,10,11]]"
+        }
+      ]
+    },
+    {
+      "text": "Trang 556–567",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2025310",
+          "quote": "jphil_1973_0070_0017_0556_0567",
+          "where": "resource.primary.URL"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khớp. Hai cách ghi chỉ khác 'Journal of Philosophy' / 'The Journal of Philosophy'; Crossref ghi 'The Journal of Philosophy', nên thống nhất có 'The'."
+}

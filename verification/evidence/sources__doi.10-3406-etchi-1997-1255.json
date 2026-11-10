@@ -1,0 +1,36 @@
+{
+  "unit": "sources/doi.10-3406-etchi-1997-1255",
+  "hash": "sha256:69d042a98dbf07136dbe28aed19f2fa9bcd2956c55ac6fe8dfffdc9deb3024b0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Zufferey (1997), tên bài, Études chinoises",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://isidore.science/document/10.3406/etchi.1997.1255",
+          "quote": "Le Premier Empereur et les lettrés. L'exécution de 212 avant J.-C"
+        }
+      ]
+    },
+    {
+      "text": "Études chinoises 16(1): 59–100",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive-ouverte.unige.ch/unige:83806",
+          "quote": "vol. 16.1"
+        },
+        {
+          "url": "https://archive-ouverte.unige.ch/unige:83806",
+          "quote": "p. 59–100"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Crossref và Persée không mở được (client_error/robots); xác nhận qua Isidore (DOI, năm 1997) và Archive ouverte UNIGE. UNIGE ghi nhầm tên tạp chí 'Mémoires de l'Institut des hautes études chinoises' và năm 1998; bỏ qua, dùng DOI/Isidore. Nên kiểm lại bằng bản Persée nếu có."
+}

@@ -1,0 +1,49 @@
+{
+  "unit": "sources/gutenberg.4705",
+  "hash": "sha256:8b031cc32856341b8a3b836d228cf0db101d4d38f38c62bc61bb185efdf64ddc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s14",
+  "claims": [
+    {
+      "text": "Ebook #4705 là Hume, A Treatise of Human Nature",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4705",
+          "quote": "A Treatise of Human Nature"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/4705",
+          "quote": "Hume, David, 1711-1776"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1739–1740",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4705",
+          "quote": "published between 1739-40",
+          "where": "Tóm tắt tự động của trang ebook"
+        }
+      ]
+    },
+    {
+      "text": "Có quyển 3, phần 1, mục 1 (mục lục)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/4705/pg4705.txt",
+          "quote": "SECT. I     MORAL DISTINCTIONS NOT DERIVED FROM REASON.",
+          "where": "Mục lục Book III Part I"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mục lục ebook có Book III, Part I, Sect. I; không đọc được thân bài mục đó vì văn bản bị cắt. Hai cách ghi cùng đúng."
+}

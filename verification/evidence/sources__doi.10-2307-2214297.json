@@ -1,0 +1,26 @@
+{
+  "unit": "sources/doi.10-2307-2214297",
+  "hash": "sha256:c6e8108b5a14f8de8ca107def74c5fe6f1410d3de0df130cb9f49f7a6d3dc13c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s12",
+  "claims": [
+    {
+      "text": "Nagel 'Death', Noûs 4 (1970)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "\"title\":[\"Death\"]; \"container-title\":[\"Noûs\"]; \"volume\":\"4\"; \"page\":\"73\""
+        }
+      ]
+    },
+    {
+      "text": "Trang 73–80",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Crossref chỉ ghi trang đầu cho bài JSTOR/PhilPapers; không mở được trang thứ hai (jstor.org, philpapers.org, semanticscholar, openalex chỉ cho trang đầu) nên trang cuối chưa xác nhận. Nguồn Crossref (api.crossref.org) là bản ghi chính thức của DOI."
+}

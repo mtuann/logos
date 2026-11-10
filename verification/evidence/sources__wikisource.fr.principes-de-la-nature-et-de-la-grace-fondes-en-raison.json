@@ -1,0 +1,15 @@
+{
+  "unit": "sources/wikisource.fr.principes-de-la-nature-et-de-la-grace-fondes-en-raison",
+  "hash": "sha256:4d1c8f95395535fccb406d98caa6a29991acec5841ede7070b074f59ecaaf8d6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s15",
+  "claims": [
+    {
+      "text": "Trang fr.wikisource đúng Leibniz, Principes de la nature et de la grâce (1714), §7",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+}

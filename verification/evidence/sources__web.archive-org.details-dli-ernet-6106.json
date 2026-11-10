@@ -1,0 +1,50 @@
+{
+  "unit": "sources/web.archive-org.details-dli-ernet-6106",
+  "hash": "sha256:6a0587cc24834851c8caa0bca53ab2a5ce2503b7c39119ef10b2986fdc5d4430",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s17",
+  "claims": [
+    {
+      "text": "The Works of Aristotle tập IX, W. D. Ross là người chủ biên/dịch, Oxford; URL đúng tập",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/dli.ernet.6106",
+          "quote": "The Works Of Aristotle Vol-ix; Ross W. D.; Oxford University Press, London"
+        }
+      ]
+    },
+    {
+      "text": "Tập IX gồm Ethica Nicomachea do Ross dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dn790008.ca.archive.org/0/items/dli.ernet.6106/6106-The%20Works%20Of%20Aristotle%20Vol-ix_djvu.txt",
+          "quote": "Ethica Nicomachea (translated by W. D. Ross)",
+          "where": "trang tựa (OCR)"
+        }
+      ]
+    },
+    {
+      "text": "Lời tựa đề năm 1925 (Ross, Ethica Nicomachea, Clarendon Press 1925)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://colectivo.uloyola.es/Record/T177091?lng=en",
+          "quote": "Ethica Nicomachea, by W. D. Ross",
+          "where": "biểu ghi thư viện tập IX"
+        }
+      ]
+    },
+    {
+      "text": "Lời tựa đề đúng “tháng 7”/1925 (OCR bị nhiễu: “yiify 1925”)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Siêu dữ liệu IA ghi năm 1915 (sai/đáng ngờ; OCR ghi first edition 1915 nhưng lời tựa 1925). Chỉ chữ “1925” đọc được; “tháng 7” cần xem scan. Người làm xem lại bản scan."
+}
