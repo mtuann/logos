@@ -15100,7 +15100,7 @@ kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái du
 
 ## Nguồn
 
-1. *Chandogya Upanishad* (khoảng thế kỷ 8–6 TCN), bản dịch tiếng Anh: Patrick Olivelle (1996), Oxford World's Classics.
+1. *Chandogya Upanishad* (một trong các Upanishad cổ nhất, khoảng giữa thiên niên kỷ 1 TCN), bản dịch tiếng Anh: Patrick Olivelle (1996), Oxford World's Classics.
 2. *Kinh Chuyển pháp luân* (*Dhammacakkappavattana Sutta*) — bài giảng đầu tiên của Đức Phật về Tứ diệu đế, trong *Tương ưng bộ kinh*.
 3. Nagarjuna, *Mūlamadhyamakakārikā* (khoảng thế kỷ 2–3), bản dịch tiếng Anh: Jay Garfield (1995), *The Fundamental Wisdom of the Middle Way*, Oxford.
 4. Radhakrishnan, Sarvepalli & Charles Moore (chủ biên) (1957), *A Sourcebook in Indian Philosophy*, Princeton University Press.

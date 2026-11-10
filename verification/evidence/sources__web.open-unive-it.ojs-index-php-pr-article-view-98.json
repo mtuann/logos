@@ -2,7 +2,7 @@
   "unit": "sources/web.open-unive-it.ojs-index-php-pr-article-view-98",
   "hash": "sha256:e2714e9e5c6c1749a7ae308725f686944cbecad01603e49263e154565ed0c591",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r29",
+  "checker": "agent-kiem-5.2-g03",
   "claims": [
     {
       "text": "URL mở được, trỏ đúng bài 'Was The Buddha a Reductionist About The Self?' của Peter Donegan",
@@ -12,7 +12,7 @@
         {
           "url": "https://open.unive.it/ojs/index.php/pr/article/view/98",
           "quote": "Was The Buddha a Reductionist About The Self? Authors Peter Donegan",
-          "where": "trang bài"
+          "where": "trang bài (lượt trước)"
         }
       ]
     },
@@ -22,18 +22,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://open.unive.it/ojs/index.php/pr/article/view/98",
-          "quote": "Issue Vol. 12 No. 3 (2020)",
-          "where": "cùng trang: Published 2021-02-01 (ngày đưa lên mạng)"
+          "url": "https://open.unive.it/ojs/index.php/pr/issue/view/9",
+          "quote": "Vol. 12 No. 3 (2020)",
+          "where": "trang số tạp chí, mục Articles liệt kê bài Donegan"
+        },
+        {
+          "url": "https://open.unive.it/ojs/index.php/pr/article/download/98/89/602",
+          "quote": "XII.3 (2020), pp. 376 - 389",
+          "where": "đầu trang 1 của PDF, đọc bằng pdf.js"
         }
       ]
     },
     {
       "text": "Trang 376–389",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://open.unive.it/ojs/index.php/pr/article/download/98/89/602",
+          "quote": "XII.3 (2020), pp. 376 - 389",
+          "where": "đầu trang 1 PDF; PDF dài 14 trang, khớp 376–389"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): trang bài và metadata không ghi số trang; không mở được PDF (điều hướng bị từ chối). Kết quả tìm kiếm DuckDuckGo hiện tên file PDF là '4.Donegan,pp.375-388' (lệch 1 so với 376–389 của mục); chưa đủ để kết luận sai, người làm nên mở PDF xem trang đầu/cuối. Nên ghi tên tạp chí đúng 'Philosophical Readings' (đúng) kèm 'Vol. 12 No. 3'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): mở PDF bằng trình xem pdf.js và đọc lớp chữ: tiêu đề trang ghi pp. 376-389 (tên tệp PDF '375-388' của lượt trước chỉ là tên file nháp). PDF còn ghi DOI 10.5281/zenodo.3903513."
 }

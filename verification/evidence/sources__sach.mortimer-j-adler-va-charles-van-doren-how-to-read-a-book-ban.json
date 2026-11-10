@@ -2,7 +2,7 @@
   "unit": "sources/sach.mortimer-j-adler-va-charles-van-doren-how-to-read-a-book-ban",
   "hash": "sha256:252de58e288d3ddd08d8371aa38fe7e1205431d2a4321bf9b886ce8f2617c0ff",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r19",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Mortimer J. Adler, How to Read a Book, bản gốc 1940",
@@ -53,11 +53,40 @@
       ]
     },
     {
-      "text": "Hai cấp còn lại là đọc phân tích (analytical) và đọc đối chiếu/đồng chủ đề (syntopical), và 'phải nắm cấu trúc, hiểu đúng ý tác giả rồi mới phê phán' ở cấp phân tích",
+      "text": "Hai cấp còn lại là đọc phân tích (analytical) và đọc đối chiếu/đồng chủ đề (syntopical)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Adler+%22How+to+Read+a+Book%22+%22four+levels+of+reading%22+elementary+inspectional+analytical+syntopical",
+          "quote": "four levels of reading ( elementary , inspectional , analytical , syntopical )",
+          "where": "Google Books, Book Review Digest 1973, mục How to read a book, by Mortimer J. Adler and Charles Van Doren, rev."
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Adler+%22How+to+Read+a+Book%22+%22four+levels+of+reading%22+elementary+inspectional+analytical+syntopical",
+          "quote": "At the Fourth Level of Reading - Syntopical Reading",
+          "where": "Google Books, chính cuốn How to Read a Book (Simon and Schuster 2011), phụ lục"
+        }
+      ]
+    },
+    {
+      "text": "Ở cấp phân tích, phải hiểu đúng ý tác giả rồi mới phê phán",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Adler+Van+Doren+%22you+must+say%2C+with+reasonable+certainty%2C+%27I+understand%2C%27+before+you+can+say+any+one+of+the+following%22",
+          "quote": "Do not begin to talk back until you have listened carefully and are sure you understand",
+          "where": "Google Books, chính cuốn How to Read a Book (Simon and Schuster, 2025 reissue), đoạn về quy tắc thứ chín"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Adler+Van+Doren+%22you+must+say%2C+with+reasonable+certainty%2C+%27I+understand%2C%27+before+you+can+say+any+one+of+the+following%22",
+          "quote": "III . The Third Stage of Analytical Reading : Rules for Criticizing a Book as a Communication of Knowledge A. General Maxims of Intellectual Etiquette 9. Do not begin criticism until you have",
+          "where": "Google Books, mục lục chính cuốn sách (Simon and Schuster 2011)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Không mở được toàn văn (Internet Archive hạn chế mượn, Google Books API hết hạn mức, trang NXB chỉ tóm tắt hai cấp đầu). Còn claim cấp analytical/syntopical và thứ tự 'hiểu rồi mới phê phán'. Mục không ghi NXB; nên bổ sung 'New York: Simon & Schuster (1972)'. Link ổn định đề xuất: https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094 (ISBN 9780671212094)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): dùng Google Books Data API (đoạn trích có chữ thật từ chính cuốn sách và sách thứ cấp). Quy tắc 'phê phán sau khi hiểu' thuộc giai đoạn 3 của đọc phân tích (mục lục sách); phần 'nắm cấu trúc' là giai đoạn 1-2 của đọc phân tích, không có đoạn trích riêng nhưng nằm trong cách nói 'giai đoạn thứ ba'. Mục chưa ghi NXB; nên bổ sung 'New York: Simon & Schuster (1972)'. Link: https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094"
 }

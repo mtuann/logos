@@ -2,7 +2,7 @@
   "unit": "sources/sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h-3",
   "hash": "sha256:26fe149248497b4570c9f8c7885d3c547ce8c4b0fdd83064a681c6cf10d1d4ec",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r23",
+  "checker": "agent-kiem-5.2-g02",
   "claims": [
     {
       "text": "Thơ văn Lý–Trần do Viện Văn học biên soạn, NXB Khoa học xã hội, Hà Nội",
@@ -29,11 +29,28 @@
       ]
     },
     {
-      "text": "Bộ ấn hành trong khoảng 1977–1989 (cận trên 1989 và năm tập 3 chưa xác nhận)",
+      "text": "Bộ ấn hành trong khoảng 1977–1989",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22Vi%E1%BB%87n+V%C4%83n+h%E1%BB%8Dc%22+%22t%E1%BA%ADp+III%22+1978+%22Khoa+h%E1%BB%8Dc+x%C3%A3+h%E1%BB%99i%22",
+          "quote": "THƠ VĂN LÝ - TRAN TẬP III NHÀ XUẤT BẢN KHOA HỌC XÃ HỘI HÀ NỘI 1978",
+          "where": "Google Books, chính trang tên sách tập III (năm 1978)"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22t%E1%BA%ADp+II%22+%22quy%E1%BB%83n+h%E1%BA%A1%22+1989",
+          "quote": "Thơ văn Lý - Trần , Tập II , Quyển hạ . Nxb . Khoa học xã hội , Hà Nội , 1989 ; tr . 223-351",
+          "where": "Google Books, đoạn trích Tuyển tập 40 năm tạp chí Văn học (1999), chú thích: quyển hạ tập II năm 1989"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Th%C6%A1+v%C4%83n+L%C3%BD+-+Tr%E1%BA%A7n%22+%22t%E1%BA%ADp+II%22+%22quy%E1%BB%83n+h%E1%BA%A1%22+1989",
+          "quote": "tập I : 1977 ; tập III : 1979 ; tập II , q . thượng : 1989 ; tập II , quyển hạ sẽ ra trong nay mai",
+          "where": "Google Books, đoạn trích Tạp chí văn học 2003 (nguồn thứ cấp, có sai lệch năm tập III và quyển thượng so với trang tên sách và thư mục)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Open Library chỉ ghi các tập lẻ: tập 1 (1977, OL4091797M), một bản ghi tập 2 quyển thượng năm 1988 (OL61916105M, 966 trang, chủ biên Nguyễn Huệ Chi). Chưa tìm được nguồn xác nhận năm cuối '1989' hay năm tập 3. Link đề xuất: https://openlibrary.org/works/OL45441335W"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g02): dùng Google Books Data API. Năm các tập: tập I 1977, tập III 1978 (trang tên sách), tập II quyển thượng 1988 (OPAC, Open Library, Thi Viện; một số tài liệu ghi 1989), tập II quyển hạ 1989 (Tuyển tập 40 năm Tạp chí Văn học). Nên khoảng '1977–1989' vẫn đúng; nếu chỉ tính 3 tập (không tính quyển hạ) cận trên là 1988. Các nguồn thứ cấp lệch nhau về năm một số tập, người làm có thể ghi rõ từng tập nếu muốn chính xác. Bộ gồm 3 tập 4 quyển (Tạp chí văn học 2003)."
 }

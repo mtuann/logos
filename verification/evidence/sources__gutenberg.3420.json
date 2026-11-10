@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.3420",
   "hash": "sha256:5e35bc2d19ce579bb4e8ed61c9a2a17734d907e7d521be4e7830187406d25398",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r26",
+  "checker": "agent-kiem-5.2-g01",
   "claims": [
     {
       "text": "Ebook 3420 là A Vindication of the Rights of Woman của Mary Wollstonecraft",
@@ -30,9 +30,16 @@
     {
       "text": "London: J. Johnson",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://anthologydev.lib.virginia.edu/work/Wollstonecraft/wollstonecraft-vindication-excerpted",
+          "quote": "LONDON: PRINTED FOR J. JOHNSON, No.71, ST. PAUL’S CHURCH YARD. 1792.",
+          "where": "phiên âm trang tựa (TP) của ấn bản 1792, 'Literature in Context' (Univ. of Virginia, trang dev)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): tiểu sử trong ebook ghi 'In 1787 she made, or received, proposals from Johnson, a publisher in London' (không nói trực tiếp về ấn bản 1792). Internet Archive có bản 1796 'J. Johnson' và 'Posthumous works ... J. Johnson' (1798); các bản 1792 tìm được là Boston (Edes) hoặc W. Scott, chưa thấy trang tựa ấn bản London 1792 'Printed for J. Johnson'. Đề xuất người làm xác nhận ở Internet Archive hoặc ghi 'London: J. Johnson' kèm nguồn trang tựa."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý đã thử bản quét archive.org (bim_eighteenth-century_..._1792, OCR rác, không đọc được trang tựa). Dùng phiên âm trang tựa trên 'Literature in Context' (anthologydev.lib.virginia.edu): 'LONDON: PRINTED FOR J. JOHNSON ... 1792' (nguồn yếu: trang dev, tuyển văn). Kết quả tìm kiếm khác (Univ. of Oregon Scholars' Bank, người bán sách, Hunt 2026 Taylor & Francis) ghi 'No. 72, St. Paul's Church-Yard', còn trang này ghi No.71; không ảnh hưởng claim 'London: J. Johnson' (chỉ nhà in). Các claim khác giữ từ lượt trước."
 }

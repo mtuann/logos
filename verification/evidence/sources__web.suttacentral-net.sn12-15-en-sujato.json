@@ -2,7 +2,7 @@
   "unit": "sources/web.suttacentral-net.sn12-15-en-sujato",
   "hash": "sha256:09dbe8abc2a629c8227724922da1f6e65a262d87fd077cb593565136a3215ca2",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r30",
+  "checker": "agent-kiem-5.2-g03",
   "claims": [
     {
       "text": "URL mở được và trỏ đúng SN 12.15 Kaccānagottasutta, bản dịch Bhikkhu Sujato",
@@ -29,11 +29,23 @@
       ]
     },
     {
-      "text": "Bản dịch của Sujato theo giấy phép CC0 (trang kinh và trang /licensing không nêu giấy phép riêng của bản dịch Sujato; /licensing chỉ nói CC0 cho tư liệu SuttaCentral tự tạo)",
+      "text": "Bản dịch của Sujato theo giấy phép CC0",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/LICENSE.md",
+          "quote": "All translations created in Bilara and supported by SuttaCentral are dedicated to the Public Domain",
+          "where": "LICENSE.md của kho bilara-data (CC0); bản dịch en/sujato nằm trong kho này"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/suttacentral/bilara-data/published/README.md",
+          "quote": "all translations supported by SuttaCentral must use CC0 licence",
+          "where": "README.md của bilara-data"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r30): chỉ còn claim giấy phép CC0 chưa thấy chữ trên trang đã mở; đề nghị người làm kiểm ở github.com/suttacentral/bilara-data hoặc trang xuất bản của Sujato. Nội dung còn lại đạt."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): Claim CC0 được xác nhận ở kho bilara-data (LICENSE.md, README.md; tệp translation/en/sujato/sutta/sn/sn12/sn12.15_translation-en-sujato.json có trong kho); trang suttacentral.net/licensing chỉ nói CC0 cho tư liệu SuttaCentral tự tạo, nên nên dẫn thêm link LICENSE.md của bilara-data."
 }

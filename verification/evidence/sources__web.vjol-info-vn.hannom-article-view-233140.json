@@ -2,7 +2,7 @@
   "unit": "sources/web.vjol-info-vn.hannom-article-view-233140",
   "hash": "sha256:d39a0e09a8c6baca14bc4d04bff8c757e49bccb50cb31b02cdbe4b1429574be6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r31",
+  "checker": "agent-kiem-5.2-g03",
   "claims": [
     {
       "text": "URL mở được và trỏ đúng bài “Lược quan hệ thống sách ‘Tiết yếu’ gắn với ‘Bùi thị nguyên bản’”",
@@ -31,19 +31,42 @@
     {
       "text": "Tác giả: Nguyễn Hải Anh",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/hannom/article/download/233140/207085/375225",
+          "quote": "NGUY Ễ N H Ả I ANH",
+          "where": "trang 1 PDF bài, dưới tiêu đề; đầu mỗi trang chẵn lặp lại tên tác giả (lớp chữ PDF bị tách dấu, đọc là NGUYỄN HẢI ANH)"
+        }
+      ]
     },
     {
       "text": "Số liên tục (184) của số 3 năm 2024",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/hannom/article/download/233140/207085/375225",
+          "quote": "s ố   3   (184) - 2024",
+          "where": "đầu trang 2 PDF: 'TẠP CHÍ HÁN NÔM số 3 (184) - 2024' (lớp chữ PDF bị tách dấu)"
+        }
+      ]
     },
     {
       "text": "Bài nói (về) Tứ thư thuyết ước",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bài nói về hệ thống sách 'Tiết yếu' gắn với 'Bùi thị nguyên bản' (Tứ thư, Ngũ kinh, Tính lý, Thiếu Vi tiết yếu); Tứ thư thuyết ước của Chu An (1292–1370) chỉ được nhắc ở phần lược sử như một tác phẩm sớm, văn bản còn tàn khuyết. Nên ghi 'có nhắc đến Tứ thư thuyết ước' thay vì '(về Tứ thư thuyết ước)'.",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/hannom/article/download/233140/207085/375225",
+          "quote": "thuyết ước ( 四書說約 )",
+          "where": "trang 3 PDF: 'Đầu tiên phải kể đến Chu An (1292 - 1370) với Tứ thư thuyết ước ( 四書說約 )'; tóm tắt trang 1 liệt kê bốn bộ phận Tứ thư, Ngũ kinh, Tính lý, Thiếu Vi tiết yếu, không có Thuyết ước"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r31): trang VJOL trỏ đúng bài, nhưng mục 'Các tác giả' rỗng và không có meta citation_author; không thấy chữ '184' hay 'Nguyễn Hải Anh' trong trang bài/mục lục số; tóm tắt nhắc 'Tứ thư' (bộ phận của hệ thống Tiết yếu) nhưng không nhắc 'Tứ thư thuyết ước'. Tìm DuckDuckGo không ra tác giả. PDF (https://vjol.info.vn/hannom/article/download/233140/207085/375225, 1 MB) mở được nhưng chưa đọc chữ. Cần người xem PDF để xác nhận tác giả, số tổng (184) và mối liên hệ với Tứ thư thuyết ước. Trang tr. 25 chỉ là trang đầu (lastpage=25 trong meta, không đáng tin)."
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g03): tải PDF bài (1 MB, 13 trang) trong cùng origin vjol.info.vn và đọc lớp chữ bằng pdf.js (nạp từ cdnjs). Xác nhận tác giả Nguyễn Hải Anh và số 3 (184) - 2024. Claim 'về Tứ thư thuyết ước' sai mức vừa: bài chỉ nhắc đến tác phẩm này (kèm tên tác giả 'Chu An', tức Chu Văn An) trong phần lịch sử chung, không phải đối tượng chính. Chữ trích có khoảng trắng thừa do lớp chữ PDF; số trang bài 25–37 (13 trang), nên khoảng cách hợp lý với mục lục."
 }
