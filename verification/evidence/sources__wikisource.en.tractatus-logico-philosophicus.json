@@ -2,14 +2,47 @@
   "unit": "sources/wikisource.en.tractatus-logico-philosophicus",
   "hash": "sha256:2553ed1d9a701d73f4c1912e9ecd97e256aee4b8d2736956cdb3be23d50d19ee",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
-      "text": "Trang đúng Wittgenstein, Tractatus, bản dịch C. K. Ogden 1922, khớp texts_seen",
+      "text": "Wittgenstein, Tractatus Logico-Philosophicus, bản dịch C. K. Ogden (translator và tác giả đúng; khớp cả hai cách ghi trong texts_seen)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus",
+          "quote": "by Ludwig Wittgenstein, translated by Charles Kay Ogden",
+          "where": "header"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Ogden xuất bản lần đầu năm 1922 (Routledge & Kegan Paul)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus",
+          "quote": "First published in this Series 1922",
+          "where": "trang tên sách"
+        }
+      ]
+    },
+    {
+      "text": "Trang Wikisource là bản 'Ogden (1922)'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ghi 'bản dịch C. K. Ogden (xuất bản lần đầu 1922); Wikisource chép bản in lần thứ tám, 1960'",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus",
+          "quote": "Eighth impression 1960",
+          "where": "trang tên sách; header trang ghi Tractatus Logico-Philosophicus (1960)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): dịch giả đúng, 1922 là năm in lần đầu. Điểm nhẹ: văn bản trên Wikisource là Eighth impression 1960 (có 'a few corrections' từ 1933), nên '(1922)' gắn với trang này hơi lệch; cân nhắc ghi rõ."
 }

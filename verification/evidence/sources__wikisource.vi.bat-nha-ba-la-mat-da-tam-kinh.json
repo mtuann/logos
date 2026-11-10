@@ -2,7 +2,7 @@
   "unit": "sources/wikisource.vi.bat-nha-ba-la-mat-da-tam-kinh",
   "hash": "sha256:73d0e8c4ed691de6c914d170fe71b3e1db92292ca7a162fb334323d794a8d1c7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
       "text": "Trang vi.wikisource là Tâm kinh, bản dịch Trần Trọng Kim",
@@ -17,11 +17,23 @@
       ]
     },
     {
-      "text": "Nằm trong phụ lục sách Phật giáo của Trần Trọng Kim (trang không nêu nguồn này)",
+      "text": "Văn bản lấy từ sách Phật giáo của Trần Trọng Kim (trang 116–118)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Trang:Ph%E1%BA%ADt_gi%C3%A1o.pdf/116",
+          "quote": "BÁT-NHÃ BA-LA-MẬT-ĐA TÂM KINH",
+          "where": "Trang:Phật giáo.pdf/116, mục đánh số II; trang Tâm kinh có mốc [116] [117] [118] liên kết tới Trang:Phật giáo.pdf"
+        }
+      ]
+    },
+    {
+      "text": "Tâm kinh nằm ở 'phụ lục' của sách Phật giáo",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang không nhắc 'Phật giáo' hay 'phụ lục'; chỉ ghi dịch lại từ bản chữ Hán của Huyền Trang. Đề xuất người làm kiểm sách in hoặc bỏ cụm 'phụ lục', ghi 'bản dịch của Trần Trọng Kim'. Nội dung trang do công cụ tóm tắt."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): Tâm kinh có ở Phật giáo pp.116–118 (mục 'II', ngay sau phần thân sách nói về các tông phái, tr.115), nhưng chữ 'phụ lục' không thấy trên các trang đã đọc (112–117, đọc raw). Đề xuất: ghi 'Trần Trọng Kim, Phật giáo, tr. 116–118 (mục II: Bát-nhã ba-la-mật-đa tâm kinh)' hoặc người làm xác nhận nhãn 'phụ lục' bằng mục lục sách."
 }

@@ -2,14 +2,77 @@
   "unit": "sources/wikisource.zh.0bc8a4a2eb",
   "hash": "sha256:6ef4b6c2f7a491ddfe71c048fb78d8033510e1b8b3e455a78306838c3e6ac7ed",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r03",
   "claims": [
     {
-      "text": "URL 本紀卷之十一 mở được; Bản kỷ quyển 10-12 chứa Bình Ngô đại cáo, 1435, 1437, án Lệ Chi Viên 1442, 1464, 1467",
+      "text": "URL 本紀卷之十一 mở được; Bản kỷ quyển 10-12 chứa Bình Ngô đại cáo (quyển 10)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "帝既平吳，大告天下。其誥文曰：",
+          "where": "quyển 10"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一",
+          "quote": "大越史記全書/本紀卷之十一",
+          "where": "URL của bản ghi mở được (tiêu đề tab), nội dung triều Thái Tông, Nhân Tông"
+        }
+      ]
+    },
+    {
+      "text": "Quyển 11 có các việc năm 1435 và 1437",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一",
+          "quote": "乙卯二年明宣德十年春正月朔",
+          "where": "mục 1435"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一",
+          "quote": "四年明正統二年春正月",
+          "where": "mục 1437; trang in can chi 丁丑 (đúng là 丁巳), lỗi nhỏ của Wikisource"
+        }
+      ]
+    },
+    {
+      "text": "Quyển 11 có án Lệ Chi Viên năm 1442",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一",
+          "quote": "八月四日，帝至嘉定縣茘枝園，遽得虐疾崩。",
+          "where": "mục 壬戌三年 (正統七年 = 1442)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一",
+          "quote": "十六日，殺行遣阮廌并妻阮氏路，罪及三族。",
+          "where": "cùng mục"
+        }
+      ]
+    },
+    {
+      "text": "Quyển 12 có việc năm 1464 và 1467",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二",
+          "quote": "甲申，光順五年（明天順八年）[1464年]",
+          "where": "quyển 12"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二",
+          "quote": "丁亥，光順八年（明成化三年）[1467年]",
+          "where": "quyển 12"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. Trong phiên này mở được 本紀卷之十 (có Bình Ngô đại cáo, ghi Nguyễn Trãi soạn) và 本紀卷之十二 (có mục 甲申 光順五年 [1464] và 丁亥 光順八年 [1467]) nhưng URL của bản ghi này là 卷之十一, không mở được; claim 1435, 1437, 1442 chưa kiểm. Cách ghi 'quyển 10-12' chỉ có URL quyển 11 - đề nghị thêm URL quyển 10, 12."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): bản ghi chỉ có URL quyển 11; đề nghị thêm URL quyển 10 và 12 vì mô tả ghi quyển 10-12."
 }

@@ -2,22 +2,16 @@
   "unit": "quotes/trich.mac-tu-thien-26-thien-chi-thuong",
   "hash": "sha256:68c008068a4357b23374056928f6aedba708fb040ad5688639446af5f819c2ee",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
-      "text": "Nguyên văn: 順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。",
+      "text": "Nguyên văn: 順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://ctext.org/mozi/will-of-heaven-i",
-          "quote": "順天意者,兼相愛,交相利,必得賞。",
-          "where": "mục 4"
-        },
-        {
-          "url": "https://ctext.org/mozi/will-of-heaven-i",
-          "quote": "反天意者,別相惡,交相賊,必得罰。",
-          "where": "mục 4"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷七",
+          "quote": "順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。"
         }
       ]
     },
@@ -27,9 +21,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://ctext.org/mozi/will-of-heaven-i",
-          "quote": "我有天志,譬若輪人之有規,匠人之有矩,",
-          "where": "mục 7"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷七",
+          "quote": "我有天誌，譬若輪人之有規，匠人之有矩",
+          "where": "bản 閒詁 viết 誌, bản ghi viết 志: dị thể chữ"
         }
       ]
     },
@@ -39,17 +33,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://ctext.org/mozi/will-of-heaven-i",
-          "quote": "別相惡,交相賊,必得罰。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷七",
+          "quote": "別相惡，交相賊，必得罰",
+          "where": "dịch đúng ý: 別 = tách biệt/không kiêm"
         }
       ]
     },
     {
       "text": "locator: thiên 26 Thiên chí thượng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷七",
+          "quote": "天誌上第二十六",
+          "where": "Mặc tử nhàn cổ quyển 7, tiêu đề thiên"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Số thiên 26 chưa kiểm được (chinesenotes.com chỉ ghi 卷七 天志上). Nguyên văn đúng; dùng dấu câu ASCII trên ctext (chỉ khác dấu câu). Lưu ý: câu 順天意者 ở ctext nằm cùng câu với 故於富且貴者，當天意而不可不順 phía trước, bản ghi cắt đúng."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Khớp 墨子閒詁/卷七 (chỉ khác 志/誌, dị thể; bản 墨子/天志上 viết 志 và 兼相愛、交相利 dùng 、). Câu 順天意者 trong nguồn nằm sau 故欲富且貴者，當天意而不可不順, bản ghi cắt đúng chỗ."
 }

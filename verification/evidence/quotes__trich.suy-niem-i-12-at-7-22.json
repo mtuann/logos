@@ -2,7 +2,7 @@
   "unit": "quotes/trich.suy-niem-i-12-at-7-22",
   "hash": "sha256:dac28d45b2bbe21c4c89153d90c1b5dc31e3ac03bc715092fe9d7b4b0ad6ffdc",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q15",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
       "text": "Nguyên văn Veitch: \"I will suppose, then, not that Deity ... has employed all his artifice to deceive me\"",
@@ -10,14 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "I will suppose, then, not that Deity, who is sovereignly good and the fountain of truth,",
-          "where": "Meditation I"
-        },
-        {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "has employed all his artifice to deceive me;",
-          "where": "Meditation I"
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "I will suppose, then, not that Deity, who is sovereignly good and the fountain of truth, but that some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me",
+          "where": "đoạn 12; trang mục lục ghi translator John Veitch, first published 1853"
         }
       ]
     },
@@ -27,8 +22,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "The Meditations of Descartes 1853 John Veitch"
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "translator = John Veitch",
+          "where": "header: First published 1853. Reprinted 1901"
         }
       ]
     },
@@ -38,17 +34,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "http://yogebooks.com/english/veitch/1853tmod.pdf",
-          "quote": "but that some malignant demon, who is at once exceedingly potent and deceitful,"
+          "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_I",
+          "quote": "Supponam igitur non optimum Deum, fontem veritatis, sed genium aliquem malignum, eundemque summe potentem & callidum",
+          "where": "đối chiếu bản Latinh"
         }
       ]
     },
     {
       "text": "locator: §12, AT 7:22 (số § và số AT trong tiêu đề)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "12. I will suppose, then, not that Deity",
+          "where": "§12 theo bản Veitch (đoạn đánh số)"
+        },
+        {
+          "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_I",
+          "quote": "12. Supponam igitur non optimum Deum",
+          "where": "§12 nằm sau mốc [22] và trước mốc [23] của trang Adam et Tannery"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn: Veitch 1853 (yogebooks.com PDF, in lại bản gốc; không phải Gutenberg). Veitch 1853 và Long 1862 đều thuộc phạm vi công cộng, trường license 'unknown' nên điền lại. Locator (số § và số AT) không tìm được trong nguồn đã mở: bản Veitch 1853 không đánh số đoạn, bản earlymoderntexts không có số AT. Nguyên văn trích dừng ở 'me' (bản gốc có dấu chấm phẩy), không ảnh hưởng."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Veitch lấy ở en.wikisource (đoạn đánh số, đủ chữ). Số AT lấy từ bản Latinh Adam et Tannery trên la.wikisource (có mốc trang [18], [19], [20], [22], [23]; không có mốc [21]). Gợi ý: trường license nên là domain công cộng (Veitch 1853)."
 }

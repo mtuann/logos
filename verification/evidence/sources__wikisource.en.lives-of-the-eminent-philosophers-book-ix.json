@@ -2,14 +2,45 @@
   "unit": "sources/wikisource.en.lives-of-the-eminent-philosophers-book-ix",
   "hash": "sha256:35000d4669f630f2d649d26a861ef47ab6ece6d399b38adaf27e9416cd6e691c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Diogenes Laërtius, Lives, quyển IX, bản dịch Hicks 1925",
+      "text": "Diogenes Laërtius, Lives of the Eminent Philosophers, bản dịch R. D. Hicks (1925), Wikisource",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers",
+          "quote": "Lives of the Eminent Philosophers (1925)",
+          "where": "trang gốc: by Diogenes Laërtius, translated by Robert Drew Hicks; Loeb, 1925"
+        }
+      ]
+    },
+    {
+      "text": "Quyển IX có Heraclitus; URL mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+          "quote": "Heraclitus, son of Bloson or, according to some, of Heracon, was a native of Ephesus.",
+          "where": "Heraclitus"
+        }
+      ]
+    },
+    {
+      "text": "Quyển IX có Democritus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+          "quote": "Democritus was the son of Hegesistratus, though some say of Athenocritus",
+          "where": "Democritus, đoạn 34"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi 'not backed by a scanned copy'."
 }

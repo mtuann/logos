@@ -2,19 +2,33 @@
   "unit": "sources/wikisource.vi.cu-tran-lac-dao-phu-de-ngu-hoi",
   "hash": "sha256:030d8a2dbf26d4882df0966669b1395cf0e0663d7fac3ad049c9b258885e136b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
       "text": "Trang Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội mở được, là hội 5, có chữ Nôm và phiên âm",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Đệ ngũ hội - 第五會",
+          "where": "tiêu đề; hai cột 'Chữ Nôm' và 'Tiếng Việt' (mở đầu 'Vậy mới hay! Bụt ở cong nhà')"
+        }
+      ]
     },
     {
-      "text": "Trang Cư_trần_lạc_đạo_phú/Kệ_vân mở được, là bài kệ kết",
+      "text": "Trang Cư_trần_lạc_đạo_phú/Kệ_vân mở được, là bài kệ kết (chữ Hán, phiên âm Hán Việt, dịch nghĩa)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Cư trần lạc đạo thả tùy duyên,",
+          "where": "Kệ vân - 偈云; liên kết có trong trang mục lục sau Đệ thập hội"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. WebSearch cho thấy trang con 'Cư trần lạc đạo phú/Đệ ngũ hội' có trên vi.wikisource (cùng Đệ cửu hội), nên URL hội 5 có vẻ đúng; không thấy trang 'Kệ vân' trong kết quả tìm, chưa rõ tên trang bài kệ kết (có thể tên khác) - người làm cần kiểm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): cả hai trang con có thật. Kệ vân gồm 4 câu chữ Hán, phiên âm Hán Việt và dịch nghĩa; hội 5 có cột chữ Nôm và cột tiếng Việt."
 }

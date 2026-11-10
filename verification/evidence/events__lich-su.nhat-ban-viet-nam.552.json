@@ -2,19 +2,49 @@
   "unit": "events/lich-su.nhat-ban-viet-nam.552",
   "hash": "sha256:d4e0cba48fe18eff882566f46967f86771464c02aa204b9c923d596b3e1acc8d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e02",
+  "checker": "agent-kiem-5.2-r08",
   "claims": [
     {
-      "text": "Phật giáo đến Nhật Bản vào thế kỷ 6, từ Bách Tế qua Triều Tiên",
+      "text": "Phật giáo đến Nhật Bản vào thế kỷ 6, từ Bách Tế (Baekje) qua Triều Tiên",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Japanese-religion",
+          "quote": "In 538 or 552 King Seong (Sŏng) of the Korean kingdom of Baekje (Paekche) presented to the Japanese court a Buddhist image"
+        }
+      ]
     },
     {
-      "text": "Nihon Shoki ghi 552, nguồn cổ khác ghi 538",
+      "text": "Nihon Shoki ghi năm 552 cho việc Bách Tế dâng tượng Phật và kinh",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Nihongi/Book_XIX",
+          "quote": "A.D. 552. 13th year",
+          "where": "bản dịch Aston, Book XIX, năm Kimmei thứ 13"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Nihongi/Book_XIX",
+          "quote": "an image of Shaka Butsu in gold and copper, several flags and umbrellas, and a number of volumes of \"Sutras.\"",
+          "where": "cùng năm, tháng 10"
+        }
+      ]
+    },
+    {
+      "text": "Một số nguồn cổ khác ghi 538 (năm cụ thể còn tranh luận)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/Japanese-religion",
+          "quote": "In 538 or 552 King Seong",
+          "where": "Britannica nêu cả hai năm; không nói rõ nguồn cổ nào ghi 538 (thường dẫn Gangōji engi, Jōgū Shōtoku hōō teisetsu), chưa mở được các văn bản đó"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ thấy Wikipedia 'Buddhism in Japan' nói Nihon Shoki 552, nguồn khác 538 (Wikipedia chỉ dùng để tìm nguồn nên không ghi dung). Chưa mở được Nihon Shoki (Aston/Wikisource), Gangōji engi hay SEP/IEP trong lượt cho phép; nên kiểm ở IEP 'Japanese Philosophy' hoặc Nihon Shoki bản dịch Aston."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Britannica 'Japanese religion' nêu 538 hoặc 552 (King Seong của Baekje); Nihon Shoki (Aston, Wikisource en) đặt vụ dâng tượng Phật ở năm Kimmei thứ 13, ghi 'A.D. 552' (năm dương lịch do Aston chú). Chưa mở được văn bản cổ ghi 538 (Gangōji engi, Jōgū Shōtoku hōō teisetsu) nên 'nguồn cổ khác' chỉ được xác nhận ở mức Britannica nói 'truyền thống ghi 538 hoặc 552'; đề xuất thêm nguồn trực tiếp nếu muốn nêu tên văn bản. Bản ghi 538 và 552 dùng cùng một câu nên cùng kết quả."
 }

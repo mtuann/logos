@@ -2,7 +2,7 @@
   "unit": "quotes/platon.cong-hoa-2",
   "hash": "sha256:a41b193f22a2b32b0da6b4a9f6558cf37ea4f483b1e4413e3c2ef0efb0a07d54",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q09",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn \"Whenever a number of individuals have a common name, we assume them to have also a corresponding idea or form.\" đúng từng chữ (Quyển X, bản Jowett)",
@@ -43,9 +43,16 @@
     {
       "text": "locator: 596a (tiêu đề ghi X, 596a; không mở được nguồn có số Stephanus: Perseus chặn công cụ, SEP không dẫn 596a)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=10:section=596a",
+          "quote": "εἶδος γάρ πού τι ἓν ἕκαστον εἰώθαμεν τίθεσθαι περὶ ἕκαστα τὰ πολλά, οἷς ταὐτὸν ὄνομα ἐπιφέρομεν.",
+          "where": "Cộng hòa X, 596a (Burnet): đây là câu Jowett dịch 'Whenever a number of individuals have a common name…'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Quyển X xác nhận ở classics.mit.edu; chưa xác nhận được 596a nên claim locator để chua-kiem-duoc (kiến thức chung nói 596a, nhưng không ghi dung theo trí nhớ). Câu ở đầu đoạn Socrates hỏi Glaucon về mô thức, ngắn (1 câu), không rủi ro bản bản quyền."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): Perseus Republic book 10, 596a (Greek, Burnet) chứa đúng câu tương ứng với bản dịch Jowett; locator 596a đúng. Các claim khác đã dung giữ nguyên."
 }

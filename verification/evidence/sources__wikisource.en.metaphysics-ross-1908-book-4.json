@@ -2,14 +2,33 @@
   "unit": "sources/wikisource.en.metaphysics-ross-1908-book-4",
   "hash": "sha256:02e936eae1491eb74089e7a0aa838a4ba674af3dd3cfa7858687773854523cbc",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Aristotle, Metaphysics, quyển IV (Γ), chương 7, bản dịch W. D. Ross 1908",
+      "text": "Aristotle, Metaphysics, bản dịch W. D. Ross (1908), Wikisource",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4",
+          "quote": "by Aristotle, translated by W. D. Ross and J. A. Smith",
+          "where": "đầu trang; (1908)"
+        }
+      ]
+    },
+    {
+      "text": "Quyển IV (Γ), chương 7 nằm trong trang này; URL mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4",
+          "quote": "To say of what is that it is not, or of what is not that it is, is false",
+          "where": "Chapter 7"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Trang ghi dịch giả là W. D. Ross và J. A. Smith (Smith là chủ biên loạt); mục ghi 'W. D. Ross' vẫn chấp nhận được. Số Bekker không ghi ở bản Wikisource này."
 }

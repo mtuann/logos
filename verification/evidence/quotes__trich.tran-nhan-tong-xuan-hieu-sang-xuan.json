@@ -2,24 +2,45 @@
   "unit": "quotes/trich.tran-nhan-tong-xuan-hieu-sang-xuan",
   "hash": "sha256:794847e3ced937351c0dc21cbe3e2fd24000851b4d8895b1573a82235b2abd52",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-r07",
   "claims": [
     {
       "text": "Nguyên văn Hán: 睡起啟窗扉，不知春已歸。一雙白蝴蝶，拍拍趁花飛。",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E6%9B%89_(%E9%99%B3%E4%BB%81%E5%AE%97)",
+          "quote": "睡起啟窗扉 不知春已歸 一雙白蝴蝶 拍拍趁花飛",
+          "where": "zh.wikisource, 春曉 (陳仁宗); bốn dòng khớp từng chữ"
+        }
+      ]
     },
     {
       "text": "Bài 'Xuân hiểu' là của Trần Nhân Tông",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E6%9B%89_(%E9%99%B3%E4%BB%81%E5%AE%97)",
+          "quote": "作者：陳仁宗",
+          "where": "zh.wikisource, trang 春曉 (Xuân hiểu); Wikisource là nguồn yếu về xuất xứ, không ghi bản in"
+        }
+      ]
     },
     {
       "text": "Phiên âm Hán-Việt và bản dịch Logos sát nghĩa",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E6%9B%89_(%E9%99%B3%E4%BB%81%E5%AE%97)",
+          "quote": "拍拍趁花飛",
+          "where": "phiên âm khải song phi / dĩ quy / bạch hồ điệp / phách phách sấn hoa phi đúng với các chữ Hán; bản dịch 'phấp phới đuổi theo hoa mà bay' đúng ý 拍拍趁花飛"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Đã thử 6 lượt (vjol.info.vn, tapchinghiencuuphathoc.vn, DLBS NTU, Toàn tập Trần Nhân Tông của Lê Mạnh Thát) mà không trang nào chứa bài thơ này hay xác nhận tác giả. Cần nguồn: Thơ văn Lý–Trần (Viện Văn học) hoặc Toàn tập Trần Nhân Tông."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): zh.wikisource có bài 春曉 của 陳仁宗 trùng nguyên văn. Nguồn là Wikisource, không ghi bản in (nguồn yếu); nên bổ sung Thơ văn Lý–Trần khi có. Tiêu đề 'Xuân hiểu' (春曉) đúng; '(Sáng xuân)' là dịch tên."
 }

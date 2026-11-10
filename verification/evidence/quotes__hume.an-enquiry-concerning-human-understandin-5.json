@@ -2,7 +2,7 @@
   "unit": "quotes/hume.an-enquiry-concerning-human-understandin-5",
   "hash": "sha256:31778c18d9f5484f908e448d6258f789497b49e1f50a66ea37be90b94a83e1fa",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q06",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn: \"We only find, that the one does actually, in fact, follow the other. The impulse of one billiard-ball is attended with motion in the second.\"",
@@ -53,7 +53,19 @@
     {
       "text": "locator: EHU 7.6 và 7.28",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/7",
+          "quote": "E 7.6, SBN 63",
+          "where": "nhãn đứng ngay trước đoạn 'When we look about us towards external objects… We only find, that the one does actually, in fact, follow the other.'"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/7",
+          "quote": "E 7.28, SBN 75",
+          "where": "nhãn đoạn cuối chứa 'This connexion, therefore, which we feel in the mind…'"
+        }
+      ]
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (cái này quả có theo sau cái kia; cú va quả bi-a thứ nhất đi kèm chuyển động quả thứ hai; mối liên hệ ta cảm thấy trong tâm trí, sự chuyển tiếp theo thói quen của trí tưởng tượng, là cảm nhận hay ấn tượng làm nảy sinh ý niệm sức mạnh/liên hệ tất yếu)",
@@ -67,6 +79,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hai đoạn có thật và nguyên văn đúng (dấu […] giữa hai đoạn là lược hợp lệ: ở Gutenberg chúng cách xa nhau, ¶50 và ¶59 theo số Selby-Bigge). Locator 7.6/7.28 theo đánh số Beauchamp; trang Gutenberg đánh số khác (có đoạn không số, và đoạn chứa 'We only find' hiện ra là đoạn thứ 4 sau ¶49) nên không đối chiếu chắc được 7.6; cần người làm đối chiếu ấn bản Beauchamp/Oxford hoặc dùng số Selby-Bigge. Bản dịch có chữ 'sentiment' = 'cảm nhận': chấp nhận được."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): Hume Texts Online (davidhume.org/texts/e/7) đánh số E 7.6 (SBN 63) và E 7.28 (SBN 75) đúng hai đoạn trích. Các claim nguyên văn đã dung từ lượt trước giữ nguyên. Lưu ý: davidhume.org in thêm dấu phẩy ('impression, from which') so với Gutenberg/Selby-Bigge; bản ghi theo Gutenberg."
 }

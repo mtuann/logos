@@ -2,7 +2,7 @@
   "unit": "quotes/thomas-aquinas.tong-luan-than-hoc",
   "hash": "sha256:93b7b0d3db200f9be9684670302fa8be4c0dea19725a8f42e125981eec5df949",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q10",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn: Since therefore grace does not destroy nature but perfects it, natural reason should minister to faith as the natural bent of the will ministers to charity.",
@@ -57,9 +57,16 @@
     {
       "text": "Năm 1920 của bản dịch Dominican Province",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/",
+          "quote": "Second and Revised Edition, 1920 Literally translated by Fathers of the English Dominican Province",
+          "where": "trang chủ Summa, New Advent"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang New Advent xác nhận từng chữ và dịch giả nhưng không in năm 1920 trong phần đọc được; cần một nguồn cho năm (trang ghi nguồn của New Advent hoặc mục sách ở thư viện). Công cụ đọc trang chỉ trả từng đoạn ngắn nên đã đối chiếu theo đoạn nối tiếp nhau, khớp toàn câu."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): năm 1920 (Second and Revised Edition) xác nhận ở trang chủ New Advent; các claim còn lại giữ từ lượt trước."
 }

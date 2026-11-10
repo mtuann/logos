@@ -2,7 +2,7 @@
   "unit": "quotes/trich.dao-duc-nicomachus-i-7-1098a1620",
   "hash": "sha256:c02e0b19481745eca771656e9f734e4212ad7e317d6f925ba1b3fb0a583f3b4f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q13",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh khớp bản dịch Ross (I.7)",
@@ -43,11 +43,18 @@
       ]
     },
     {
-      "text": "locator: I.7, 1098a16–20 (trang MIT không in số Bekker; bản Hicks chỉ có mốc [1096a] cho mục 7, không đủ để xác nhận 1098a16–20)",
+      "text": "locator: I.7, 1098a16–20",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2:1.7/",
+          "quote": "κατʼ ἀρετήν, εἰ δὲ πλείους αἱ ἀρεταί, κατὰ τὴν ἀρίστην καὶ τελειοτάτην. ἔτι δʼ ἐν βίῳ τελείῳ. μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ",
+          "where": "Scaife, EN 1.7, Bekker 1098a: dòng 15 mở 'καλῶς, ἕκαστον…', câu ἀνθρώπινον ἀγαθόν ở dòng 16, 'μία ἡμέρα οὐδʼ ὀλίγος χρόνος' ở dòng 20"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguyên văn đã khớp. Dịch 'summer' thành 'mùa xuân' là thoát (nên chú thích: bản Ross dùng 'summer', Hy Lạp là 'ear'/mùa xuân). Cần nguồn có số Bekker (ví dụ Perseus, Oxford) cho locator."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): chữ và bản dịch giữ từ lượt trước; locator đối chiếu ở Scaife (số Stephanus/Bekker in trong dấu ngoặc vuông của trang, bản dịch Scaife khác bản Jowett/Ross nhưng cùng vị trí). Lưu ý: bản Ross dịch 'summer' còn Hy Lạp là ἔαρ (mùa xuân); bản Việt dùng 'mùa xuân', thoát nhưng đúng gốc Hy Lạp, nên chú thích."
 }

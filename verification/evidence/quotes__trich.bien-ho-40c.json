@@ -2,7 +2,7 @@
   "unit": "quotes/trich.bien-ho-40c",
   "hash": "sha256:7a40f8682377dcd0b04836e1581dfa8028847ac28c7bab44cb1994d1aeba3fb1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q11",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh khớp bản dịch Jowett (Gutenberg #1656)",
@@ -48,9 +48,16 @@
     {
       "text": "locator: Stephanus 40c",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "either it is virtually nothingness, so that the dead has no consciousness of anything, or it is, as people say, a change and migration of",
+          "where": "Perseus, Apology section 40c"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chữ khớp. Locator 40c chưa xác nhận bằng nguồn có số Stephanus (Perseus/Perseids bị robots chặn). Jowett thuộc phạm vi công cộng; có thể điền license."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): chữ và bản dịch giữ từ lượt trước; locator đối chiếu ở Perseus (số Stephanus/Bekker in trong dấu ngoặc vuông của trang, bản dịch Perseus khác bản Jowett/Ross nhưng cùng vị trí)."
 }

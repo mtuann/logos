@@ -2,7 +2,7 @@
   "unit": "quotes/leibniz.don-tu-luan",
   "hash": "sha256:8a4bb853bfb762bc052299f5fde0bf06c09d7f5c1a59e6a3247ba4a86560fe9d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q07",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Bản dịch tiếng Anh của Robert Latta (1898), Oxford: Clarendon Press, The Monadology and Other Philosophical Writings",
@@ -19,19 +19,52 @@
     {
       "text": "Nguyên văn tiếng Anh §32: And that of sufficient reason, in virtue of which we hold that there can be no fact real or existing, no statement true, unless there be a sufficient reason, why it should be so and not otherwise, although these reasons usually cannot be known by us.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "And that of sufficient reason, in virtue of which we hold that there can be no fact real or existing, no statement true, unless there be a sufficient reason, why it should be so and not otherwise, although these reasons usually cannot be known by us.",
+          "where": "đoạn 32, bản Latta (1898)"
+        }
+      ]
     },
     {
       "text": "locator: §32",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "32. And that of sufficient reason, in virtue of which we hold that there can be no fact real or existing",
+          "where": "đoạn đánh số 32"
+        }
+      ]
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "no fact real or existing, no statement true, unless there be a sufficient reason",
+          "where": "so với 'không thể có sự kiện nào là thật hay hiện hữu, không có mệnh đề nào đúng, nếu không có một lý do đầy đủ'"
+        }
+      ]
+    },
+    {
+      "text": "Đơn tử luận viết năm 1714",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "Categories: 75%1898 worksPD-old-80-US1714 worksWorks originally in French",
+          "where": "thể loại cuối trang (nguồn yếu: chỉ là phân loại Wikisource)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không đọc được thân văn Monadology: file djvu.txt của archive.org (hai bản monadologyotherp00leib_2 và themonadology00leibuoft) bị công cụ cắt giữa phần Giới thiệu, Wikisource bản Latta (en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)) không mở được. Đề nghị người làm kiểm lại bằng Wikisource bản Latta hoặc bản Gutenberg. Dịch tiếng Việt chưa đối chiếu được; nên so lại sau khi có nguyên văn. Năm 1714 và số §32 là hiểu biết chung, chưa có nguồn mở trong phiên."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): en.wikisource Monadology (Leibniz, tr. Latta) khớp từng chữ ở đoạn 32. Claim lịch Latta 1898/Clarendon từ lượt trước giữ nguyên (archive.org). Năm 1714 chỉ có từ thể loại '1714 works' của Wikisource (nguồn yếu), không xung đột. Đề nghị đổi url sang trang Wikisource này (có số đoạn) thay cho archive.org."
 }

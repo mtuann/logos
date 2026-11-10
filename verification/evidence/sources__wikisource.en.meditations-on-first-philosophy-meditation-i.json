@@ -2,26 +2,50 @@
   "unit": "sources/wikisource.en.meditations-on-first-philosophy-meditation-i",
   "hash": "sha256:bf273ce092bfe31264f68153f1c7b5cf0b97f7d056caee5c9e7e7b77e06bfb38",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Meditations, Suy niệm I, bản dịch Veitch (in lại 1901)",
+      "text": "Bản dịch John Veitch (1853; Wikisource theo ấn bản 1901), phạm vi công cộng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "First published 1853. Reprinted 1901.",
+          "where": "trang gốc: by René Descartes, translated by John Veitch"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "in the public domain worldwide because the author died at least 100 years ago",
+          "where": "giấy phép"
+        }
+      ]
     },
     {
-      "text": "Gutenberg ebook 70091 là bản Molyneux 1680 của Descartes (mục 'also')",
+      "text": "URL Suy niệm I trên Wikisource mở được, đúng Suy niệm I",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "OF THE THINGS OF WHICH WE MAY DOUBT.",
+          "where": "Meditation I"
+        }
+      ]
+    },
+    {
+      "text": "Bản tiếng Anh của William Molyneux (1680) có trên Project Gutenberg, ebook 70091",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/70091",
-          "quote": "Six metaphysical meditations",
-          "where": "Gutenberg 70091: Descartes, tr. William Molyneux, 1680"
+          "quote": "Printed by B. G. for Benj. Tooke at the Ship in St. Pauls Church-yard, 1680.",
+          "where": "Original Publication; Translator: Molyneux, William"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi 'The source document of this text is not known' (không có bản quét/nguồn gốc); nên ghi nhận. "
 }

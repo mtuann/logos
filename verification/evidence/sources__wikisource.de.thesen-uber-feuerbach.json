@@ -2,14 +2,33 @@
   "unit": "sources/wikisource.de.thesen-uber-feuerbach",
   "hash": "sha256:05fa1d62b938017c1209de123619837411ae32f59404b8a461472a99d9adeea0",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang de.wikisource là 'Thesen über Feuerbach' của Marx (1845; in 1888)",
+      "text": "Marx, Karl, \"Thesen über Feuerbach\" (1845; in 1888)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Thesen_%C3%BCber_Feuerbach",
+          "quote": "Entstehungsdatum:\tFrühjahr 1845",
+          "where": "Kopfdaten (Erscheinungsdatum: 1888, Stuttgart, J. H. W. Dietz)"
+        }
+      ]
+    },
+    {
+      "text": "URL Wikisource tiếng Đức mở được và trỏ đúng văn bản",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Thesen_%C3%BCber_Feuerbach",
+          "quote": "Der Hauptmangel alles bisherigen Materialismus",
+          "where": "Luận đề 1"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): văn bản là bản in 1888 trong phụ lục sách của Engels (tr. 69 trở đi)."
 }

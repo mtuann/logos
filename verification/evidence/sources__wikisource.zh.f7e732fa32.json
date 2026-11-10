@@ -2,14 +2,21 @@
   "unit": "sources/wikisource.zh.f7e732fa32",
   "hash": "sha256:c3e40060e4b87a8aeb043aa989d7387f3ee19d5caf23aaf866b2f20fa62c6848",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r03",
   "claims": [
     {
       "text": "URL 四書章句集注/大學章句 mở được; có đoạn bổ truyện chương 5 về cách vật trí tri của Chu Hy",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8/%E5%A4%A7%E5%AD%B8%E7%AB%A0%E5%8F%A5",
+          "quote": "右傳之五章，蓋釋格物、致知之義，而今亡矣。",
+          "where": "đoạn bổ truyện chương 5 ('閒嘗竊取程子之意以補之曰'); tác giả ghi 朱熹"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. "
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): URL của bản ghi (集注) tự chuyển hướng sang 四書章句集註/大學章句 (chữ 註); mở được bình thường."
 }

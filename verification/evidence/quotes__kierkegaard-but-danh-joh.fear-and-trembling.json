@@ -2,7 +2,7 @@
   "unit": "quotes/kierkegaard-but-danh-joh.fear-and-trembling",
   "hash": "sha256:075afe5b38aaff2fbefbc266be8e2c08dd8d7b4095e190133077406e127274e6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q07",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh (bản Hollander): He attends to his business, and when one sees him one might think he was a clerk who had lost his soul in doing double bookkeeping, he is so exact.",
@@ -43,7 +43,14 @@
     {
       "text": "locator: phần Preliminary Expectoration",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/60333/pg60333-images.html",
+          "quote": "He attends to his business, and when one sees him one might think he was a clerk who had lost his soul in doing double bookkeeping, he is so exact.",
+          "where": "mục FEAR AND TREMBLING > PRELIMINARY EXPECTORATION (tiêu đề mục ngay trước đoạn)"
+        }
+      ]
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
@@ -57,6 +64,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chữ khớp, lấy từ bản sao Wikisource (trang scan 146) vì công cụ chỉ đọc được 100000 ký tự đầu của file Gutenberg (đoạn nằm ở phần sau, không đọc được). Trang Wikisource không hiện tiêu đề mục nên chưa xác nhận được 'Preliminary Expectoration' (locator). Lưu ý: ebook 60333 là tuyển tập Selections, không phải toàn bộ Fear and Trembling; nên ghi work/tiêu đề là bản trích tuyển của Hollander. Trước 1927, không có rủi ro bản quyền."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): Gutenberg #60333 (Selections from the Writings of Kierkegaard, Hollander, University of Texas Bulletin 1923) có đoạn dưới đầu mục PRELIMINARY EXPECTORATION của phần FEAR AND TREMBLING; câu khớp từng chữ. Lưu ý lượt trước: ebook là tuyển tập Selections, không phải toàn bộ Fear and Trembling; nên ghi tiêu đề là bản trích tuyển của Hollander."
 }

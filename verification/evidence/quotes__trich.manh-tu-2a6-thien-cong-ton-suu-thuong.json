@@ -2,24 +2,64 @@
   "unit": "quotes/trich.manh-tu-2a6-thien-cong-ton-suu-thuong",
   "hash": "sha256:f129b10aabe7d00c7977a9c06cf54ca4f874ad920f49ec893bfc31a2f510e1f8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
       "text": "Nguyên văn đoạn 今人乍見孺子將入於井 … 猶其有四體也",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "今人乍見孺子將入於井，皆有怵惕惻隱之心"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。人之有是四端也，猶其有四體也。"
+        }
+      ]
     },
     {
       "text": "locator: 2A6",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "今人乍見孺子將入於井",
+          "where": "nằm trong mục '=== 6 ===' của trang 孟子/公孫丑上 (chương 6)"
+        }
+      ]
     },
     {
-      "text": "Bản dịch Logos sát nghĩa; chú thích 聲 theo Chu Hy ('tiếng tăm')",
+      "text": "Bản dịch Logos sát nghĩa",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "惻隱之心，仁之端也",
+          "where": "dịch đúng ý"
+        }
+      ]
+    },
+    {
+      "text": "Chú thích: chữ 聲 cũng có thể hiểu là 'tiếng tăm' theo chú giải Chu Hy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/四書章句集註/孟子集注卷三",
+          "quote": "聲，名也",
+          "where": "Tứ thư chương cú tập chú, Mạnh Tử tập chú quyển 3, chú câu 非惡其聲而然也"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn nguyên văn: ctext.org chặn tải tự động; zh.wikisource.org các trang 孟子/公孫丑上, 孟子/告子上, 四書章句集註 đều trả 'url_not_found' trong phiên. Không ghi dung theo trí nhớ. Người làm xem lại: trường translator=null trong khi các bản khác là 'logos' (bản dịch ghi là của Logos)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Nguyên văn khớp; chỉ khác dấu câu (nguồn có 怵惕惻隱之心； thay vì 。). Chu Hy chú '聲，名也' nên chú thích 'tiếng tăm' đúng. Người làm xem lại: trường translator=null trong khi các bản khác là 'logos'."
 }

@@ -2,7 +2,7 @@
   "unit": "quotes/descartes.suy-niem-ve-triet-hoc-de-nhat-2",
   "hash": "sha256:347d0ed44eac6d4cf38156b6c91a89332fb849d00d6e9769eb41f8527b749f39",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q05",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Người dịch: John Veitch (bản có Meditations)",
@@ -17,21 +17,64 @@
       ]
     },
     {
-      "text": "Nguyên văn Suy niệm VI: '…I rightly conclude that my essence consists only in my being a thinking thing… entirely and truly distinct from my body, and may exist without it.' (không mở được văn bản đầy đủ Suy niệm VI của bản Veitch; bản số hóa bị cắt)",
+      "text": "Nguyên văn Suy niệm VI: '…I rightly conclude that my essence consists only in my being a thinking thing… entirely and truly distinct from my body, and may exist without it.'",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "I rightly conclude that my essence consists only in my being a thinking thing",
+          "where": "Meditation VI, đoạn 9"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "it is certain that I, [that is, my mind, by which I am what I am], is entirely and truly distinct from my body, and may exist without it.",
+          "where": "Meditation VI, đoạn 9"
+        }
+      ]
     },
     {
-      "text": "Dấu ngoặc vuông '[that is, my mind, by which I am what I am]' có trong bản Veitch hay không",
+      "text": "Dấu ngoặc vuông '[that is, my mind, by which I am what I am]' có trong bản Veitch",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "[that is, my mind, by which I am what I am]",
+          "where": "Meditation VI, đoạn 9; bản Veitch 1901"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "by René Descartes, translated by John Veitch",
+          "where": "trang mục lục"
+        }
+      ]
     },
     {
-      "text": "locator: Suy niệm VI; bản dịch tiếng Việt sát nghĩa",
+      "text": "locator: Suy niệm VI (đoạn 9)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "it is certain that I, [that is, my mind, by which I am what I am], is entirely and truly distinct from my body",
+          "where": "Meditation VI, đoạn 9 (đoạn kế tiếp đánh số 10)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "may exist without it",
+          "where": "so với 'có thể tồn tại mà không cần nó'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết lượt: tệp Gutenberg #59/#23306 là bản Discourse hoặc bản Latin; trang Internet Archive chỉ đọc được đến Suy niệm III; Standard Ebooks chương Suy niệm VI bị robots chặn. Đề xuất người làm kiểm lại ở bản Veitch trên Wikisource/Standard Ebooks. Lưu ý: dạng 'I rightly conclude…' có thể thuộc bản dịch khác (ví dụ Haldane-Ross); cần xác nhận trước khi ghi 'bản của Veitch'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): en.wikisource Meditations on First Philosophy (Veitch, 1901) khớp từng chữ, kể cả ngoặc vuông. Bản ghi nối hai đoạn bằng '…' hợp lệ. Locator đề xuất: Suy niệm VI, đoạn 9 (đánh số Wikisource); chưa kiểm số AT VII."
 }

@@ -2,29 +2,17 @@
   "unit": "quotes/trich.mac-tu-thien-14-kiem-ai-thuong",
   "hash": "sha256:64eaebaa4bef6e350838446eefef5d836950edda893ee5e00a854d55dd929142",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
-      "text": "Nguyên văn: 盜愛其室不愛其異室，故竊異室以利其室",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "盜愛其室，不愛異室，故竊異室以利其室（bỏ chữ 其 trước 異室; phiên âm: 'bất ái dị thất', không có 'kỳ')",
-      "sources": [
-        {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "盜愛其室，不愛異室，故竊異室以利其室；"
-        }
-      ]
-    },
-    {
-      "text": "Nguyên văn: 賊愛其身不愛人，故賊人以利其身",
+      "text": "Nguyên văn: 盜愛其室不愛其異室，故竊異室以利其室；賊愛其身不愛人，故賊人以利其身",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "賊愛其身，不愛人，故賊人以利其身。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "盜愛其室不愛其異室，故竊異室以利其室；賊愛其身不愛人，故賊人以利其身。",
+          "where": "Mặc tử nhàn cổ, quyển 4, Kiêm ái thượng"
         }
       ]
     },
@@ -34,8 +22,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "諸侯各愛其國，不愛異國，故攻異國以利其國。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "諸侯各愛其國，不愛異國，故攻異國以利其國"
         }
       ]
     },
@@ -45,8 +33,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "察此何自起？皆起不相愛。"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "察此何自起？皆起不相愛"
         }
       ]
     },
@@ -56,12 +44,12 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "視人之室若其室，誰竊？"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "視人之室若其室，誰竊"
         },
         {
-          "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "視人國若其國，誰攻？"
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "視人國若其國，誰攻"
         }
       ]
     },
@@ -72,16 +60,24 @@
       "sources": [
         {
           "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
-          "quote": "皆起不相愛。"
+          "quote": "皆起不相愛。",
+          "where": "đối chiếu nghĩa"
         }
       ]
     },
     {
       "text": "locator: thiên 14 Kiêm ái thượng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+          "quote": "兼愛上第十四",
+          "where": "Mặc tử nhàn cổ quyển 4, tiêu đề thiên"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn nào ghi số thiên 14 (ctext chặn tải; chinesenotes.com chỉ cho 卷四 兼愛上; Wikisource trang mục lục 404 trong phiên). Số 14 chưa kiểm. Nguồn nguyên văn: Wikisource, chưa đối chiếu được với ctext (ctext chặn tự động). Lỗi nhẹ: dư chữ 其."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Lượt trước ghi 'sai nhẹ' vì Wikisource 墨子/兼愛上 viết 盜愛其室，不愛異室 (không có 其). Bản 墨子閒詁/卷四 (Tôn Trị Nhượng) trên Wikisource viết đúng 盜愛其室不愛其異室 như bản ghi, nên đây là dị bản, không phải lỗi; không cần sửa. Số thiên 14 lấy từ tiêu đề 兼愛上第十四 trong 閒詁."
 }

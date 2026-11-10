@@ -2,7 +2,7 @@
   "unit": "quotes/trich.tran-nhan-tong-ke-cu-tran-lac-dao-ban-dich-nghia-cua-logos",
   "hash": "sha256:369e586ea030c3ac88b2765fd8d21aa937273e79428553ec7b9f71bffe3fbe61",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-r07",
   "claims": [
     {
       "text": "Bài kệ thuộc Cư trần lạc đạo (phú) của Trần Nhân Tông",
@@ -13,11 +13,52 @@
           "url": "https://tapchinghiencuuphathoc.vn/2pdf/cu-tran-lac-dao-vi-thien-nhap-the-va-trung-dao-hien-thuc",
           "quote": "Cư trần lạc đạo thả tùy duyên",
           "where": "bài viết ghi tác phẩm Cư trần lạc đạo phú, tác giả Trần Nhân Tông"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Cư trần lạc đạo phú của Trần Nhân Tông",
+          "where": "vi.wikisource, trang Kệ vân (偈云), 4 câu kệ cuối bài phú"
         }
       ]
     },
     {
-      "text": "Chữ Hán: 居塵樂道且隨緣 / 飢則飧兮困則眠 / 家中有寶休尋覓 / 對境無心莫問禪 (in trong Thơ văn Lý–Trần)",
+      "text": "Chữ Hán dòng 1-3: 居塵樂道且隨緣 / 飢則飧兮困則眠 / 家中有寶休尋覓",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "居塵樂道且隨緣，",
+          "where": "dòng 1"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "饑則飧兮困則眠。",
+          "where": "dòng 2; Wikisource viết 饑 thay 飢 (dị thể, cùng nghĩa)"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "家中有宝休尋覓，",
+          "where": "dòng 3; Wikisource viết giản thể 宝 thay 寶"
+        }
+      ]
+    },
+    {
+      "text": "Chữ Hán dòng 4: 對境無心莫問禪",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Wikisource chép 對鏡無心莫問禪 (鏡, phiên âm 'Đối kính'); bản ghi viết 對境 (cảnh) khớp với phiên âm 'đối cảnh' ở bài. Người làm đối chiếu bản in Thơ văn Lý–Trần và ghi dị bản 境/鏡 nếu cần.",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "對鏡無心莫問禪。",
+          "where": "dòng 4 trên vi.wikisource"
+        }
+      ]
+    },
+    {
+      "text": "Văn bản in trong Thơ văn Lý–Trần (Viện Văn học, NXB KHXH)",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     },
@@ -46,9 +87,16 @@
     {
       "text": "locator: kệ cuối Cư trần lạc đạo phú",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Kệ vân - 偈云",
+          "where": "vi.wikisource: 'Bài phú ... dài 10 hội, cuối bài là 4 câu kệ bằng chữ Hán' (trang chính) và trang Kệ vân"
+        }
+      ]
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn có chữ Hán (Wikisource, Toàn tập Trần Nhân Tông của Lê Mạnh Thát, PDF chỉ mục) nên chưa đối chiếu 居塵樂道… và việc in trong Thơ văn Lý–Trần. Nguồn Việt đã mở (tapchinghiencuuphathoc.vn, baophapluat.vn) là nguồn yếu. Nên dò chữ Hán ở Thơ văn Lý–Trần tập II hoặc Toàn tập Trần Nhân Tông."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): vi.wikisource trang 'Cư trần lạc đạo phú/Kệ vân' (nguồn cộng đồng, không ghi bản in nên là nguồn yếu) có đủ chữ Hán, phiên âm, dịch nghĩa; khớp 3 dòng đầu (khác dị thể 饑/飢, 宝/寶), dòng 4 Wikisource chép 鏡 thay 境 (nhe). Không mở được bản in Thơ văn Lý–Trần nên claim 'in trong Thơ văn Lý–Trần' để chua-kiem-duoc; zh.wikisource không có bài phú (liên kết đỏ). Đã thử: vi.wikisource, zh.wikisource, tìm DuckDuckGo."
 }

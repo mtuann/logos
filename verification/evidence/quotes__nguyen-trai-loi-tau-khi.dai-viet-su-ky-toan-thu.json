@@ -2,29 +2,64 @@
   "unit": "quotes/nguyen-trai-loi-tau-khi.dai-viet-su-ky-toan-thu",
   "hash": "sha256:ed01be35d8b87f8cee73ec9ef55e405984fee268ac73fa99695c1a761a191cdc",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q08",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Nguyên văn chữ Hán: 和平為樂之本，聲音為樂之文。……願陛下愛養元元，使閭里無怨恨愁嘆之聲，斯為不失樂之本矣。",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Giữ nguyên văn như bản ghi; ghi chú rằng zh.wikisource in dị thể 爱養元元 (愛 = 爱), cùng chữ.",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81%E4%B8%80",
+          "quote": "和平為樂之本，聲音為樂之文。",
+          "where": "Bản kỷ quyển 11, dưới năm 丁丑 四年 (Thiệu Bình 4)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81%E4%B8%80",
+          "quote": "願陛下爱養元元，使閭里無怨恨愁嘆之聲，斯為不失樂之本矣。",
+          "where": "cùng đoạn; hai vế cách nhau bởi 臣奉詔作樂…諧和 nên '……' của bản ghi hợp lệ"
+        }
+      ]
     },
     {
       "text": "Người nói Nguyễn Trãi, lời tâu dâng bản vẽ khánh đá năm 1437, chép trong Đại Việt sử ký toàn thư, Bản kỷ quyển 11",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81%E4%B8%80",
+          "quote": "行遣阮廌進石磬圖，因奏曰",
+          "where": "Bản kỷ quyển 11; đoạn nằm dưới mục năm 丁丑 四年 / 明正統二年春正月 (= 1437; nguồn in 丁丑, 1437 đúng là 丁巳)"
+        }
+      ]
     },
     {
       "text": "locator: Bản kỷ quyển 11",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81%E4%B8%80",
+          "quote": "大越史記全書 本紀卷之十一",
+          "where": "tiêu đề trang Wikisource (Bản kỷ quyển 11, Lê Thái Tông)"
+        }
+      ]
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81%E4%B8%80",
+          "quote": "然無本不立，無文不行。和平為樂之本，聲音為樂之文。",
+          "where": "so với 'Hòa bình là gốc của nhạc, âm thanh chỉ là phần văn vẻ của nhạc'; 元元 = muôn dân, 閭里 = xóm làng, đều sát nghĩa"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn: url trong bản ghi (zh.wikisource, Bản kỷ quyển 11) và vi.wikisource cùng báo url_not_found; sites.google.com/hawaii.edu/viettexts (Toàn thư) chỉ thấy trang ngoại kỷ trong kết quả tìm, không mở được trang bản kỷ; hai lượt tìm không ra trang chứa câu. Cần người kiểm lại link (có thể đổi tên trang Wikisource) hoặc dùng bản Hán Nôm / viettexts."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): mở được trang zh.wikisource đúng URL trong bản ghi (lượt trước báo không mở được). Khác biệt duy nhất: nguồn in 爱 (dị thể) thay 愛, và nguồn in 'ghi năm 丁丑' trong khi 1437 là 丁巳 (lỗi can chi của bản in/Wikisource, nhưng niên hiệu 明正統二年 = 1437 khớp). Câu trong bản ghi thực ra nằm trong lời tâu nhiều câu; '……' lược 臣奉詔作樂…諧和."
 }

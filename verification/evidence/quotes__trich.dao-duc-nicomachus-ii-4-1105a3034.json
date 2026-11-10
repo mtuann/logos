@@ -2,7 +2,7 @@
   "unit": "quotes/trich.dao-duc-nicomachus-ii-4-1105a3034",
   "hash": "sha256:dabb67700b8fe853eb21f879f19317e6d5361e95e0172bec0206af0d1c449321",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q13",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh khớp bản dịch Ross (II.4)",
@@ -35,11 +35,18 @@
       ]
     },
     {
-      "text": "locator: II.4, 1105a30–34 (không có trang mở được in số Bekker cho đoạn này)",
+      "text": "locator: II.4, 1105a30–34",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2:2.4/",
+          "quote": "πρῶτον μὲν ἐὰν εἰδώς, ἔπειτʼ ἐὰν προαιρούμενος, καὶ προαιρούμενος διʼ αὐτά, τὸ δὲ τρίτον ἐὰν καὶ βεβαίως καὶ ἀμετακινήτως ἔχων πράττῃ",
+          "where": "Scaife, EN 2.4, Bekker 1105a: dòng 30 mở 'ἢ σωφρόνως πράττεται…', câu kết trước mốc 1105b"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguyên văn và dịch đúng; chỉ còn locator Bekker chưa xác nhận bằng trang đã mở."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): chữ và bản dịch giữ từ lượt trước; locator đối chiếu ở Scaife (số Stephanus/Bekker in trong dấu ngoặc vuông của trang, bản dịch Scaife khác bản Jowett/Ross nhưng cùng vị trí)."
 }

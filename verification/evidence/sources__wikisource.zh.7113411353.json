@@ -2,14 +2,31 @@
   "unit": "sources/wikisource.zh.7113411353",
   "hash": "sha256:b718398335c5a85e36b1d1065dc5c05ddd20223854b7761054af22fafe621ab8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s16",
+  "checker": "agent-kiem-5.2-r03",
   "claims": [
     {
       "text": "URL 中論_(佛教) mở được; bản Cưu-ma-la-thập dịch kèm chú Thanh Mục, có chương 15 và 24",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)",
+          "quote": "作者：龍樹菩薩 譯者：鳩摩羅什",
+          "where": "trang mục lục; liệt kê 觀有無品第十五 và 觀四諦品第二十四"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/15",
+          "quote": "龍樹菩薩造 梵志青目釋 姚秦三藏鳩摩羅什譯",
+          "where": "chương 15 (觀有無品)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "龍樹菩薩造 梵志青目釋 姚秦三藏鳩摩羅什譯",
+          "where": "chương 24 (觀四諦品)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "WebFetch trả url_not_found nhiều lần (dạng thường, mã hóa phần trăm, bản .m); curl bị proxy chặn; hết lượt WebSearch. "
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): URL của bản ghi là trang mục lục; nội dung chương 15 và 24 nằm ở trang con /15 và /24 (đề nghị thêm hai URL này). Thanh Mục = 青目 (Phạn chí Thanh Mục)."
 }

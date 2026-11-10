@@ -2,14 +2,38 @@
   "unit": "sources/wikisource.en.meditations-on-first-philosophy-meditation-vi",
   "hash": "sha256:c3edf4e42df4c475a373c5e21c06354d11ad247a1c232baac8539bc8b382d0ba",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang đúng Meditations, Suy niệm VI, bản dịch Veitch (1901), khớp texts_seen",
+      "text": "Bản dịch John Veitch (1853; Wikisource theo ấn bản 1901), phạm vi công cộng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "First published 1853. Reprinted 1901.",
+          "where": "trang gốc: by René Descartes, translated by John Veitch"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "in the public domain worldwide because the author died at least 100 years ago",
+          "where": "giấy phép"
+        }
+      ]
+    },
+    {
+      "text": "URL Suy niệm VI trên Wikisource mở được, đúng Suy niệm VI",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "OF THE EXISTENCE OF MATERIAL THINGS, AND OF THE REAL DISTINCTION BETWEEN THE MIND AND BODY OF MAN.",
+          "where": "Meditation VI"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): Wikisource ghi 'The source document of this text is not known' (không có bản quét/nguồn gốc); nên ghi nhận. Hai cách ghi (texts_seen) chỉ khác ở '(1901)' và 'phạm vi công cộng'; nên thống nhất một dạng."
 }

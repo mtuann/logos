@@ -2,7 +2,7 @@
   "unit": "quotes/nguyen-trai.binh-ngo-dai-cao",
   "hash": "sha256:f3ee7dee18ae44b17d6755603a3b34c66133ff4803bd0af66bca76f987b09e9f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q08",
+  "checker": "agent-kiem-5.2-r04",
   "claims": [
     {
       "text": "Tác giả và tác phẩm: Nguyễn Trãi, Bình Ngô đại cáo",
@@ -56,12 +56,28 @@
     {
       "text": "Bản dịch của Trần Trọng Kim (1920) chép câu sau là 'quân điếu phạt chỉ vì khử bạo'",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/w/index.php?search=%22%C4%91i%E1%BA%BFu+ph%E1%BA%A1t+ch%E1%BB%89+v%C3%AC+kh%E1%BB%AD+b%E1%BA%A1o%22&ns0=1&ns104=1",
+          "quote": "Việc nhân-nghĩa cốt ở yên dân, quân điếu phạt chỉ vì khử bạo.",
+          "where": "vi.wikisource: Bình Ngô đại cáo (Trần Trọng Kim dịch), 1920; cũng trong Việt Nam sử lược, Quyển I, Phần III, Chương XIV"
+        }
+      ]
     },
     {
       "text": "Năm viết Bình Ngô đại cáo là 1428",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ghi: soạn tháng Chạp năm Đinh Mùi (tháng 12 âm lịch 1427), tức đầu năm 1428 dương lịch; 1428 là cách ghi thông dụng.",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
+          "quote": "《平吳大誥》是1427年農曆十二月",
+          "where": "lời giới thiệu trang zh.wikisource (nguồn yếu cho ngày tháng; chưa mở Toàn thư)"
+        }
+      ]
     },
     {
       "text": "locator: phần mở đầu (đoạn 1) của bài cáo",
@@ -76,6 +92,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn yếu cho câu dịch: bài Tạp chí Triết học 2025 chỉ trích dẫn bản Viện Sử học 1976 (Nguyễn Trãi toàn tập) và chép 'an dân'/'yên dân' không thống nhất; cần mở trực tiếp Nguyễn Trãi toàn tập hoặc Toàn thư. Chưa tìm được Việt Nam sử lược (Trần Trọng Kim) để xác nhận câu 'chỉ vì khử bạo' (nên mở bản trên Wikisource/Internet Archive) và chưa mở nguồn cho năm 1428. 'Câu dịch trong sách giáo khoa' (tiêu đề) chưa xác nhận cụ thể sách nào. Locator cần điền: mở đầu bài cáo (câu đầu)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): câu dịch Trần Trọng Kim (1920) 'quân điếu phạt chỉ vì khử bạo' xác nhận trên vi.wikisource (kết quả tìm kiếm trích đoạn từ trang 'Bình Ngô đại cáo (Trần Trọng Kim dịch)'; nên mở trực tiếp trang đó làm URL). Năm: Wikisource ghi 1427 âm lịch tháng 12 = đầu 1428 dương lịch; chưa có nguồn in sẵn '1428' (việc quy đổi lịch là của tôi, nên nêu rõ trong bài). Chữ 吊/弔 và các claim đã dung lượt trước giữ nguyên; 'sách giáo khoa' (tiêu đề) vẫn chưa xác nhận cụ thể sách nào."
 }

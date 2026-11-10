@@ -2,13 +2,17 @@
   "unit": "events/lich-su.nhat-ban-viet-nam.1868",
   "hash": "sha256:336e0179660f4ff80fca46ede79381dd6674248d1da6395b34ff72d386539579",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e02",
+  "checker": "agent-kiem-5.2-r08",
   "claims": [
     {
       "text": "Minh Trị duy tân bắt đầu năm 1868",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "With the Meiji Restoration of 1868"
+        },
         {
           "url": "https://www.britannica.com/event/Meiji-Restoration",
           "quote": "beginning an era of major political, economic, and social change known as the Meiji period (1868–1912)"
@@ -18,9 +22,21 @@
     {
       "text": "Triết học phương Tây tràn vào Nhật qua các đại học mới sau mở cửa",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "Philosophical focus turned to the rise of Western academic philosophy",
+          "where": "ngay sau 'Meiji Restoration of 1868'"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "After completing training in philosophy at the Imperial University (Tokyo Imperial University was the first)",
+          "where": "mục 3.4"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Năm 1868 đúng. Phần 'qua các đại học mới' chưa tìm được nguồn trong lượt cho phép (gợi ý: SEP 'Japanese Philosophy' / 'Nishi Amane', Đại học Tokyo thành lập 1877)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): SEP 'Japanese Philosophy' (bản lưu fall2026) khớp năm 1868 và việc triết học học viện phương Tây lan qua các đại học đế quốc (Tokyo là trường đầu tiên). Chữ 'tràn vào' là cách nói của bài, SEP nói 'rise of Western academic philosophy'; chấp nhận được."
 }

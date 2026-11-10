@@ -2,13 +2,17 @@
   "unit": "events/viet-nam.nho-giao-viet.1428-2",
   "hash": "sha256:f5101965ab8a980089a2f6d3e53d7d4cd0221047dae0bb983228963d779520ea",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e05",
+  "checker": "agent-kiem-5.2-r08",
   "claims": [
     {
       "text": "Bình Ngô đại cáo, 1428, hai câu mở đầu chữ Hán 仁義之舉要在安民 / 弔伐之師莫先去暴",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
+          "quote": "Bình Ngô đại cáo (1428) là bài cáo của Nguyễn Trãi"
+        },
         {
           "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
           "quote": "仁義之舉,要在安民,"
@@ -20,16 +24,34 @@
       ]
     },
     {
-      "text": "Bản dịch 'Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo' đúng như sách giáo khoa",
+      "text": "Bản dịch 'Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo' là bản dịch có thật, sát nghĩa chữ Hán",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
+          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch này đúng như sách giáo khoa",
       "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     },
     {
       "text": "Bản dịch Trần Trọng Kim chép 'quân điếu phạt chỉ vì khử bạo'",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)",
+          "quote": "Việc nhân-nghĩa cốt ở yên dân, quân điếu phạt chỉ vì khử bạo.",
+          "where": "bản 1920 (Việt Nam sử lược, quyển I, phần III, chương XIV)"
+        }
+      ]
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Các trang bản dịch trên vi.wikisource.org không mở được; cần kiểm lại khi truy cập được."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r08): Chữ Hán, năm 1428 và bản Trần Trọng Kim (1920) khớp. Lưu ý Trần Trọng Kim còn bản lược dịch 1916 chép khác ('quân điếu phạt không gì bằng trừ bạo'); cần nói rõ là bản 1920 nếu trích. 'Đúng như sách giáo khoa' chưa kiểm được (không mở được sách giáo khoa; chỉ thấy trang tổng hợp loigiaihay, không dùng)."
 }

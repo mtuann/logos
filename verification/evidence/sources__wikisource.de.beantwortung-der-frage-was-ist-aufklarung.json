@@ -2,36 +2,55 @@
   "unit": "sources/wikisource.de.beantwortung-der-frage-was-ist-aufklarung",
   "hash": "sha256:06aa2e7ed00887ec54cf32736b5e28aed8e98b08d9464b99b2c90b6725f89f06",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r01",
   "claims": [
     {
-      "text": "Trang de.wikisource đúng bài Kant 'Beantwortung der Frage: Was ist Aufklärung?'",
+      "text": "Kant 1784, \"Beantwortung der Frage: Was ist Aufklärung?\", Berlinische Monatsschrift 4 (12): 481–494",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "aus: Berlinische Monatsschrift, Bd. 4, 1784, Zwölftes Stück, S. 481–494",
+          "where": "Kopfdaten"
+        }
+      ]
     },
     {
-      "text": "Berlinische Monatsschrift 4 (12): 481–494, năm 1784",
+      "text": "URL Wikisource mở được và là bản in gốc của bài",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Fertig! Dieser Text wurde zweimal anhand der Quelle Korrektur gelesen.",
+          "where": "Bearbeitungsstand; Quelle: UB Bielefeld"
+        }
+      ]
     },
     {
-      "text": "Akademie-Ausgabe 8, trang 035 (URL korpora.org) trỏ đúng bài này; nằm trong khoảng 33–42",
+      "text": "Akademie-Ausgabe 8: 33–42 và URL korpora.org/Kant/aa08/035.html",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.korpora.org/Kant/aa08/035.html",
           "quote": "Aufklärung ist der Ausgang des Menschen aus seiner selbst",
-          "where": "AA VIII, Seite 035"
+          "where": "AA VIII S. 35 (văn bản bắt đầu)"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/033.html",
+          "quote": "Was ist Aufklärung?",
+          "where": "AA VIII S. 33 (trang tên bài)"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/042.html",
+          "quote": "Königsberg in Preußen, den 30. Septemb. 1784.",
+          "where": "AA VIII S. 42 (kết bài)"
         }
       ]
-    },
-    {
-      "text": "Khoảng trang AA 8: 33–42 (đầu và cuối bài)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang. Chỉ xác nhận được qua korpora.org (nội dung do công cụ tóm tắt, không chép nguyên văn dài). Đề xuất người làm kiểm Wikisource thủ công."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r01): AA VIII 33 là trang tên bài, văn bản từ tr. 35 đến 42; khoảng 33–42 chấp nhận được."
 }

@@ -2,24 +2,56 @@
   "unit": "quotes/trich.manh-tu-6a2-thien-cao-tu-thuong",
   "hash": "sha256:0cf16f9005fa4456cdb04c6d73d7297cab2d7bde4d2528ebc24f5f756476dd2b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q14",
+  "checker": "agent-kiem-5.2-r06",
   "claims": [
     {
       "text": "Nguyên văn đoạn 水信無分於東西 … 其勢則然也",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "水信無分於東西，無分於上下乎？人性之善也"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "人無有不善，水無有不下"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "搏而躍之，可使過顙；激而行之，可使在山"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "是豈水之性哉？其勢則然也"
+        }
+      ]
     },
     {
       "text": "locator: 6A2",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "水信無分於東西",
+          "where": "nằm trong mục '===2===' của trang 孟子/告子上 (chương 2)"
+        }
+      ]
     },
     {
       "text": "Bản dịch Logos sát nghĩa",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "其勢則然也",
+          "where": "dịch đúng ý (勢 = thế ép từ bên ngoài)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn nguyên văn: ctext.org chặn tải tự động; zh.wikisource.org các trang 孟子/公孫丑上, 孟子/告子上, 四書章句集註 đều trả 'url_not_found' trong phiên. Không ghi dung theo trí nhớ."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Khớp từng chữ ở Wikisource zh 孟子/告子上; chỉ khác dấu câu nhỏ nếu có."
 }

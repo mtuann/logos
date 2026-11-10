@@ -2,7 +2,7 @@
   "unit": "quotes/trich.bien-ho-38a",
   "hash": "sha256:f0ce840c1bb3fa4c6ed78ff875d234d3d181864b1a75d4bef80223e6f1a76000",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q11",
+  "checker": "agent-kiem-5.2-r05",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh khớp bản dịch Jowett (Apology, Gutenberg #1656)",
@@ -44,9 +44,16 @@
     {
       "text": "locator: Stephanus 38a",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a",
+          "quote": "[38a] and if again I say that to talk every day about virtue",
+          "where": "Perseus, Apology section 38a; có 'the unexamined life is not worth living'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chữ khớp từng chữ. Chưa mở được nguồn có số Stephanus (Perseus/Perseids bị robots chặn, Wikisource không mở được) nên locator 38a chưa xác nhận bằng nguồn; theo trí nhớ là đúng nhưng không ghi dung. Jowett (mất 1893) là phạm vi công cộng, trường license 'unknown' nên điền. Trích 1 câu dài, chấp nhận được."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): chữ và bản dịch giữ từ lượt trước; locator đối chiếu ở Perseus (số Stephanus/Bekker in trong dấu ngoặc vuông của trang, bản dịch Perseus khác bản Jowett/Ross nhưng cùng vị trí)."
 }

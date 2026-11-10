@@ -2,14 +2,45 @@
   "unit": "sources/wikisource.fr.principes-de-la-nature-et-de-la-grace-fondes-en-raison",
   "hash": "sha256:4d1c8f95395535fccb406d98caa6a29991acec5841ede7070b074f59ecaaf8d6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s15",
+  "checker": "agent-kiem-5.2-r02",
   "claims": [
     {
-      "text": "Trang fr.wikisource đúng Leibniz, Principes de la nature et de la grâce (1714), §7",
+      "text": "Trang fr.wikisource đúng Leibniz, Principes de la nature et de la grâce fondés en raison",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Principes_de_la_nature_et_de_la_gr%C3%A2ce_fond%C3%A9s_en_raison",
+          "quote": "Principes de la nature et de la grâce fondés en raison (L’Europe savante, nov., art. VI)",
+          "where": "header; tác giả Gottfried Wilhelm Leibniz"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1714",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Principes_de_la_nature_et_de_la_gr%C3%A2ce_fond%C3%A9s_en_raison",
+          "quote": "FONDÉS EN RAISON 1714",
+          "where": "đầu văn bản (ghi chú: L’Europe savante, 1718, nov. art. VI là năm in lần đầu)"
+        }
+      ]
+    },
+    {
+      "text": "§7 là đoạn nêu nguyên lý lý do đầy đủ và câu hỏi 'vì sao có cái gì đó hơn là không có gì'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Principes_de_la_nature_et_de_la_gr%C3%A2ce_fond%C3%A9s_en_raison",
+          "quote": "Pourquoi il y a plutôt quelque chose que rien ?",
+          "where": "§7"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Egress proxy của phiên chặn en/de/fr.wikisource.org (CONNECT 403, WebFetch url_not_found, cả bản .m); không mở được trang."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r02): bản Paul Janet, Alcan 1900, tome I, p. 723-731. 1714 là năm viết; trang ghi in lần đầu 1718."
 }
