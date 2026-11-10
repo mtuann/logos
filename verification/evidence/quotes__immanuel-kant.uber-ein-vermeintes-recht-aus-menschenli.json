@@ -1,0 +1,67 @@
+{
+  "unit": "quotes/immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli",
+  "hash": "sha256:6b5d6a6e12821e38aea2d67aa5d2c70292b41b5c45b00f5b3c037fca70700216",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh (Abbott): \"Truth in utterances that cannot be avoided is the formal duty of a man to everyone ... this is a wrong which is done to mankind.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://blogs.ubc.ca/phil230/files/2014/08/Online-Library-of-Liberty-Kant%E2%80%99s-Critique-of-Practical-Reason-and-Other-Works-on-the-Theory-of-Ethics-Portable-Library-of-Liberty-Kant_0212_EBk_v6.0-OnSupposedRightToLie.pdf",
+          "quote": "Truth in utterances that cannot be avoided is the formal duty of a man to everyone",
+          "where": "bản OLL của Abbott, phụ lục 'On a Supposed Right to Tell Lies from Benevolent Motives'; toàn câu khớp từng chữ, chỉ khác dấu nháy cong ở jurist’s"
+        },
+        {
+          "url": "https://blogs.ubc.ca/phil230/files/2014/08/Online-Library-of-Liberty-Kant%E2%80%99s-Critique-of-Practical-Reason-and-Other-Works-on-the-Theory-of-Ethics-Portable-Library-of-Liberty-Kant_0212_EBk_v6.0-OnSupposedRightToLie.pdf",
+          "quote": "and hence that all rights founded on contract should lose their force; and this is a wrong which is done to mankind."
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Kant, Über ein vermeintes Recht aus Menschenliebe zu lügen (1797)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/426.html",
+          "quote": "Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale Pflicht des Menschen gegen jeden",
+          "where": "Akademie-Ausgabe Bd. 8, S. 426, tác phẩm 'Über ein vermeintes Recht ...'"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh của T. K. Abbott (lần in thứ 4, 1889)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "locator: Ak 8:426",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Điền locator: Ak 8:426 (tiêu đề chưa ghi vị trí).",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/426.html",
+          "quote": "Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale Pflicht des Menschen gegen jeden"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://blogs.ubc.ca/phil230/files/2014/08/Online-Library-of-Liberty-Kant%E2%80%99s-Critique-of-Practical-Reason-and-Other-Works-on-the-Theory-of-Ethics-Portable-Library-of-Liberty-Kant_0212_EBk_v6.0-OnSupposedRightToLie.pdf",
+          "quote": "so far as in me lies I cause that declarations in general find no credit"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguyên văn đúng. Bản Abbott 1889 hết hạn bản quyền, không rủi ro. Nguồn đã mở là PDF Online Library of Liberty (host ở blogs.ubc.ca), trang đó không ghi dịch giả/lần in; tên tuyển tập là Abbott's Critique of Practical Reason and Other Works on the Theory of Ethics. 'Lần in thứ 4, 1889' không kiểm được. Đề xuất link ổn định: trang Online Library of Liberty của tuyển tập này hoặc Gutenberg #5683/#5684 (không chứa bài này, đã kiểm #5683). Có thể sửa tiêu đề bỏ 'lần in thứ 4, 1889' nếu không xác nhận được."
+}

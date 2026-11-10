@@ -1,0 +1,62 @@
+{
+  "unit": "quotes/marx.trich",
+  "hash": "sha256:4207e470a7f67fecb8ee87a277c723a1cef7d636e1265ccac3064766cb6dd03d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn: Die Philosophen haben die Welt nur verschieden interpretirt; es kommt aber darauf an, sie zu verändern. (bản Engels 1888, chính tả 'interpretirt')",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://edoc.bbaw.de/files/1413/Feuerb_1888_I_30.pdf",
+          "quote": "Die Philosophen haben die Welt nur verschieden interpretirt; es kommt aber darauf an, sie zu verändern.",
+          "where": "MEGA I/30, Engels 1888, Marx über Feuerbach, luận cương 11"
+        }
+      ]
+    },
+    {
+      "text": "Người nói Karl Marx, Thesen über Feuerbach, viết mùa xuân 1845, in bởi Engels năm 1888",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://edoc.bbaw.de/files/1413/Feuerb_1888_I_30.pdf",
+          "quote": "Marx über Feuerbach",
+          "where": "phụ lục của Engels, Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie (1888); viết ở Brussels mùa xuân 1845"
+        },
+        {
+          "url": "https://www.marxists.org/deutsch/archiv/marx-engels/1845/thesen/thesfeue.htm",
+          "quote": "Die Philosophen haben die Welt nur verschieden interpretiert",
+          "where": "cùng luận cương 11, bản hiện đại hóa chính tả"
+        }
+      ]
+    },
+    {
+      "text": "locator: luận cương 11 (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/deutsch/archiv/marx-engels/1845/thesen/thesfeue.htm",
+          "quote": "es kommt aber darauf an, sie zu verändern",
+          "where": "luận cương 11, cuối văn bản"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: Các triết gia mới chỉ giải thích thế giới theo những cách khác nhau; nhưng điều cốt yếu là thay đổi nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://edoc.bbaw.de/files/1413/Feuerb_1888_I_30.pdf",
+          "quote": "es kommt aber darauf an, sie zu verändern"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang de.wikisource (url của bản ghi) không mở được trong phiên này (url_not_found); đã đối chiếu bằng MEGA I/30 (BBAW) và marxists.org. Nên đổi url sang edoc.bbaw.de hoặc kiểm lại link Wikisource. Public domain, không rủi ro bản quyền."
+}

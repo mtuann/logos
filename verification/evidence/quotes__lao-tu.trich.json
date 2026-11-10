@@ -1,0 +1,45 @@
+{
+  "unit": "quotes/lao-tu.trich",
+  "hash": "sha256:3cbb4be86aaa288044ba8090aa553483391a5e09082cec70871c726930274885",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn: 合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "合抱之木,生於毫末;九層之臺,起於累土;千里之行,始於足下。",
+          "where": "chương 64, bản Vương Bật"
+        }
+      ]
+    },
+    {
+      "text": "locator: Đạo đức kinh chương 64",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "第六十四章",
+          "where": "chương 64"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán Việt và bản dịch tiếng Việt sát nghĩa (累土 dịch là 'từng sọt đất': một cách hiểu 累 = 蔂 sọt đất; bản Vương Bật thường hiểu là đất chất đống, đúng ý)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "九層之臺,起於累土"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Công cụ trả về chữ qua tóm tắt của mô hình nhỏ; chữ khớp bản Vương Bật. URL trong bản ghi (ctext.org/dao-de-jing/zh) không mở được trong phiên này (client_error); đề xuất dùng thêm hoặc thay bằng Wikisource trên. Chương 64 trong một số bản (Quách Điếm, Mã Vương Đôi) chia khác; bản lưu hành là chương 64."
+}

@@ -1,0 +1,57 @@
+{
+  "unit": "quotes/khong-tu.luan-ngu",
+  "hash": "sha256:2dae6d440c71dae17be311ef82b25c4b5b18cb47cec022adb62574654cd8ea49",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn chữ Hán: 子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/wei-ling-gong",
+          "quote": "子貢問曰:「有一言而可以終身行之者乎?」子曰:「其恕乎!己所不欲,勿施於人。」",
+          "where": "Vệ Linh Công, chương 24"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Khổng Tử (Tử viết), Luận ngữ, thiên Vệ Linh Công",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/wei-ling-gong",
+          "quote": "子貢問曰",
+          "where": "Vệ Linh Công, chương 24"
+        }
+      ]
+    },
+    {
+      "text": "locator: 15.24 (thiên Vệ Linh Công)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/wei-ling-gong",
+          "quote": "其恕乎",
+          "where": "Vệ Linh Công, chương 24"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán Việt và bản dịch tiếng Việt sát nghĩa (恕 = thứ; 己所不欲，勿施於人 = điều mình không muốn, đừng làm cho người)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/analects/wei-ling-gong",
+          "quote": "己所不欲,勿施於人"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "URL trong bản ghi (.../wei-ling-gong/zh) không mở được bằng công cụ trong phiên này; trang ctext.org/analects/wei-ling-gong (không /zh) mở được và có đúng đoạn. Dấu câu ctext dùng dấu nửa chiều (: ? !), bản ghi dùng dấu toàn chiều: không đổi nghĩa. Trang không ghi bản dịch nên không có vấn đề bản quyền."
+}

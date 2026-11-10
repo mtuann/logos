@@ -1,0 +1,79 @@
+{
+  "unit": "quotes/david-hume.an-enquiry-concerning-human-understandin",
+  "hash": "sha256:8fa38ab4bc48a434db68287b5649a18f1fdb0c86a6650389fff881b7d70bd7fc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Nguyên văn câu 'That no testimony is sufficient to establish a miracle…'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/10",
+          "quote": "That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind,",
+          "where": "E 10.13, SBN 115-6"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/10",
+          "quote": "that its falsehood would be more miraculous, than the fact, which it endeavours to establish:",
+          "where": "E 10.13"
+        }
+      ]
+    },
+    {
+      "text": "Câu kết bằng dấu chấm sau 'establish'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nguồn kết bằng dấu hai chấm và còn vế 'And even in that case there is a mutual destruction of arguments…'; nên ghi […] hoặc giữ dấu ':' để không trình bày như câu trọn.",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/10",
+          "quote": "And even in that case there is a mutual destruction of arguments, and the superior only gives us",
+          "where": "E 10.13"
+        }
+      ]
+    },
+    {
+      "text": "Người nói/tác phẩm: Hume, Enquiry, mục X Of Miracles",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/10",
+          "quote": "That no testimony is sufficient to establish a miracle",
+          "where": "Section X"
+        }
+      ]
+    },
+    {
+      "text": "locator: tiêu đề chỉ ghi mục X; và 'Đoạn tiếp theo' (minh họa người chết sống lại)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "locator: EHU 10.13 (SBN 115–6). Minh họa người chết sống lại nằm ngay trong cùng đoạn 10.13, nên sửa 'Đoạn tiếp theo' thành 'Ngay sau đó'.",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/10",
+          "quote": "When any one tells me, that he saw a dead man restored to life,",
+          "where": "E 10.13"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch/lược dịch sát ý",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/10",
+          "quote": "When any one tells me, that he saw a dead man restored to life,",
+          "where": "đối chiếu: cân hai 'phép lạ', loại phép lạ lớn hơn"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Lược dịch phần minh họa dựa trên tóm tắt của trang (công cụ đọc không cho chép nguyên cả câu 'weigh the one miracle against the other'); sát ý. Chưa mở bản Gutenberg."
+}

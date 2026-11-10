@@ -1,0 +1,57 @@
+{
+  "unit": "quotes/platon.bien-ho-cua-socrates",
+  "hash": "sha256:d5bb3976811687b89fe61c37b8c65c639e4c79f2b6eefd446a9b9539d4435e3c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn Jowett: ...daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living...",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "the unexamined life is not worth living",
+          "where": "Apology, bản Jowett, Gutenberg #1656; công cụ xác nhận cả chuỗi dài khớp từng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Socrates trong Biện hộ của Socrates (Apology) của Platon, bản dịch Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "Apology by Plato, translated by Benjamin Jowett",
+          "where": "ebook #1656"
+        }
+      ]
+    },
+    {
+      "text": "locator: 38a (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://econtents.bc.unicamp.br/inpec/index.php/cpa/article/download/17211/11885/44135",
+          "quote": "38a of Plato's Apology of Socrates",
+          "where": "tóm tắt tiếng Anh, José Wilson da Silva, Revista Est. Fil. e Hist. da Antiguidade 30 (2016)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
+          "quote": "the unexamined life is not worth living"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Gutenberg #1656 không in số Stephanus; 38a xác nhận qua bài báo học thuật (nguồn thứ cấp). Jowett mất 1893, thuộc phạm vi công cộng, không có rủi ro bản quyền. Dấu chấm lửng đầu/cuối ở nguyên văn chấp nhận được. Trường work đang null, người làm có thể điền work cho bản ghi."
+}

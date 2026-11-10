@@ -1,0 +1,84 @@
+{
+  "unit": "quotes/hume.an-enquiry-concerning-human-understandin",
+  "hash": "sha256:b578ddc8005b116d2c4dd4ac553ce1a07ceb19111b8773e64e8b172437bee061",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Nguyên văn đoạn 'But to proceed in this reconciling project…' khớp bản Hume Texts Online",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "But to proceed in this reconciling project with regard to the question of liberty and necessity;",
+          "where": "E 8.23, SBN 95"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "By liberty, then, we can only mean a power of acting or not acting, according to the determinations of the will;",
+          "where": "E 8.23"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "Now this hypothetical liberty is universally allowed to belong to every one, who is not a prisoner and in chains.",
+          "where": "E 8.23"
+        }
+      ]
+    },
+    {
+      "text": "Chính tả/dấu câu: 'question of metaphysics', 'choose', 'Here, then, is'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nguồn: 'most contentious question, of metaphysics', 'chuse', 'Here then is no subject of dispute.' (chính tả/dấu câu cũ).",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "Here then is no subject of dispute.",
+          "where": "E 8.23"
+        }
+      ]
+    },
+    {
+      "text": "Người nói/tác phẩm: Hume, Enquiry, mục VIII",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "the most contentious question, of metaphysics, the most contentious science;",
+          "where": "Section VIII"
+        }
+      ]
+    },
+    {
+      "text": "locator: 'đoạn 73'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "locator: EHU 8.23 (SBN 95). Đoạn '73' có lẽ là số đếm liên tục của một bản in khác; nên dùng số chuẩn EHU 8.23.",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "But to proceed in this reconciling project with regard to the question of liberty and necessity;",
+          "where": "E 8.23, SBN 95"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/8",
+          "quote": "For what is meant by liberty, when applied to voluntary actions?",
+          "where": "đối chiếu bản dịch"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chưa mở bản Gutenberg (#9662 bị cắt trước mục VIII). Chưa kiểm số '73' ở bản in nào; đề nghị người làm nêu rõ ấn bản nếu giữ."
+}

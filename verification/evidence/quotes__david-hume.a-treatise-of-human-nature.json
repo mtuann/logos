@@ -1,0 +1,79 @@
+{
+  "unit": "quotes/david-hume.a-treatise-of-human-nature",
+  "hash": "sha256:ec45059d2f7cf90f6c177a540d8eb1d74a53f35e74e58d467fc92caa175be16d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Nguyên văn đoạn 'In every system of morality…' khớp bản Hume Texts Online (chính tả cũ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/t/3/1/1",
+          "quote": "In every system of morality, which I have hitherto met with,",
+          "where": "T 3.1.1.27"
+        },
+        {
+          "url": "https://davidhume.org/texts/t/3/1/1",
+          "quote": "how this new relation can be a deduction from others, which are entirely different from it.",
+          "where": "T 3.1.1.27"
+        }
+      ]
+    },
+    {
+      "text": "Chính tả hiện đại hóa: remarked, surprized, it is necessary that it should be observed and explained",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nguồn in 'remark'd', 'surpriz'd', ''tis necessary that it shou'd be observ'd and explain'd'; tiêu đề đã ghi 'chính tả đã hiện đại hóa một phần' nên chỉ cần giữ ghi chú đó.",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/t/3/1/1",
+          "quote": "'tis necessary that it shou'd be observ'd and explain'd;",
+          "where": "T 3.1.1.27"
+        }
+      ]
+    },
+    {
+      "text": "Người nói/tác phẩm: Hume, Treatise, quyển 3, phần 1, mục 1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/t/3/1/1",
+          "quote": "In every system of morality, which I have hitherto met with,",
+          "where": "Book 3, Part 1, Section 1"
+        }
+      ]
+    },
+    {
+      "text": "locator: tiêu đề chỉ ghi quyển 3, phần 1, mục 1",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "locator: T 3.1.1.27 (SBN 469–70)",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/t/3/1/1",
+          "quote": "I have always remark'd, that the author proceeds for some time in the ordinary way of reasoning,",
+          "where": "T 3.1.1.27, SBN 469-70"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/t/3/1/1",
+          "quote": "is, and is not, I meet with no proposition that is not connected with an ought, or an ought not.",
+          "where": "đối chiếu bản dịch"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Không mở được bản Project Gutenberg (tệp quá dài, công cụ cắt phần đầu), nên đối chiếu bằng Hume Texts Online (cùng văn bản, chính tả cũ). Tiêu đề nói 'bản Project Gutenberg': nên đối chiếu lại hoặc đổi sang davidhume.org (nguồn đã mở). Năm 1740 của quyển 3 không kiểm riêng."
+}

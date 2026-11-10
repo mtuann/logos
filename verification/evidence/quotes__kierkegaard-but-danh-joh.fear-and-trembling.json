@@ -1,0 +1,62 @@
+{
+  "unit": "quotes/kierkegaard-but-danh-joh.fear-and-trembling",
+  "hash": "sha256:075afe5b38aaff2fbefbc266be8e2c08dd8d7b4095e190133077406e127274e6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn tiếng Anh (bản Hollander): He attends to his business, and when one sees him one might think he was a clerk who had lost his soul in doing double bookkeeping, he is so exact.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Page%3ASelections_from_the_writings_of_Kierkegaard.djvu/146",
+          "quote": "He attends to his business, and when one sees him one might think he was a clerk",
+          "where": "trang 146 của Selections from the writings of Kierkegaard (bản dịch Hollander, Univ. of Texas Bulletin); câu tiếp: who had lost his soul in doing double bookkeeping, he is so exact."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của L. M. Hollander (1923) trong Selections from the Writings of Kierkegaard, Project Gutenberg #60333",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/60333",
+          "quote": "Selections from the Writings of Kierkegaard",
+          "where": "trang ebook: dịch giả Lee M. Hollander"
+        }
+      ]
+    },
+    {
+      "text": "Người nói: Kierkegaard (bút danh Johannes de Silentio), Fear and Trembling (1843); đoạn tả hiệp sĩ đức tin",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/files/60333/60333-0.txt",
+          "quote": "Fear and Trembling",
+          "where": "mục lục: Fear and Trembling nằm trong tuyển tập"
+        }
+      ]
+    },
+    {
+      "text": "locator: phần Preliminary Expectoration",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Page%3ASelections_from_the_writings_of_Kierkegaard.djvu/146",
+          "quote": "who had lost his soul in doing double bookkeeping, he is so exact."
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Chữ khớp, lấy từ bản sao Wikisource (trang scan 146) vì công cụ chỉ đọc được 100000 ký tự đầu của file Gutenberg (đoạn nằm ở phần sau, không đọc được). Trang Wikisource không hiện tiêu đề mục nên chưa xác nhận được 'Preliminary Expectoration' (locator). Lưu ý: ebook 60333 là tuyển tập Selections, không phải toàn bộ Fear and Trembling; nên ghi work/tiêu đề là bản trích tuyển của Hollander. Trước 1927, không có rủi ro bản quyền."
+}

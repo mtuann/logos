@@ -1,0 +1,57 @@
+{
+  "unit": "quotes/manh-tu.manh-tu",
+  "hash": "sha256:fa20270d98ec5d0ca663fc2b9c2948227c1a14d1228fdbea46c2e7152b9fbdf8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn: 得志與民由之，不得志獨行其道。富貴不能淫，貧賤不能移，威武不能屈。此之謂大丈夫。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/mengzi/teng-wen-gong-ii/zh",
+          "quote": "得志與民由之，不得志獨行其道。富貴不能淫，貧賤不能移，威武不能屈。此之謂大丈夫。",
+          "where": "Đằng Văn công hạ, 3B2"
+        }
+      ]
+    },
+    {
+      "text": "locator: 3B2 (Đằng Văn công hạ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/mengzi/teng-wen-gong-ii/zh",
+          "quote": "Teng Wen Gong II",
+          "where": "Book III, Part II (3B:2)"
+        }
+      ]
+    },
+    {
+      "text": "Lời của Mạnh Tử đáp Cảnh Xuân về Công Tôn Diễn, Trương Nghi (các thuyết khách)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/mengzi/teng-wen-gong-ii/zh",
+          "quote": "得志與民由之",
+          "where": "3B2; người hỏi Cảnh Xuân (景春) theo tóm tắt công cụ, ngữ cảnh khớp tiêu đề bản ghi"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán Việt và bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ctext.org/mengzi/teng-wen-gong-ii/zh",
+          "quote": "此之謂大丈夫"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mở được trang ctext này ở lượt thử sau. Một lượt dùng URL không /zh trả về số chương nhầm (7): bỏ qua, đã đối chiếu 3B:2 ở lượt có chữ Hán. Việc trang nêu tên Cảnh Xuân là từ tóm tắt công cụ; nếu cần chắc hơn, đối chiếu bản Wikisource khi mở được."
+}

@@ -1,0 +1,71 @@
+{
+  "unit": "quotes/locke.an-essay-concerning-human-understanding",
+  "hash": "sha256:5311b5c679a05b22af338c44fb202f09872b3c88f87fd33e165e042495894cea",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn: in this alone consists personal identity, i.e. the sameness of a rational being",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.yorku.ca/blogan/locke_pi.htm",
+          "quote": "in this alone consists personal identity, i.e. the sameness of a rational being",
+          "where": "Book II, ch. 27, §9"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn: since consciousness always accompanies thinking ... so far reaches the identity of that person",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.yorku.ca/blogan/locke_pi.htm",
+          "quote": "since consciousness always accompanies thinking",
+          "where": "II.xxvii.9; đoạn kết 'so far reaches the identity of that person' cũng có trong §9"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Locke, An Essay Concerning Human Understanding, II.xxvii",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.yorku.ca/blogan/locke_pi.htm",
+          "quote": "Book 2: Chapter 27",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "locator: II.xxvii.9 (tiêu đề mới ghi II.xxvii, chưa có số đoạn)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "locator: II.xxvii.9",
+      "sources": [
+        {
+          "url": "https://www.yorku.ca/blogan/locke_pi.htm",
+          "quote": "in this alone consists personal identity",
+          "where": "Section 9"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt (bản dịch của Logos) sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.yorku.ca/blogan/locke_pi.htm",
+          "quote": "so far reaches the identity of that person"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Công cụ giới hạn độ dài quote nên đối chiếu theo từng đoạn ngắn; đoạn dùng dấu ba chấm ở giữa (đã lược) nên khớp từng vế. Trang yorku.ca (Blogan) là bản chép trên trang giảng viên, nguồn khá yếu; đề xuất đối chiếu thêm Gutenberg #10615 (Essay, vol. 1) hoặc bản Fraser. Bản Gutenberg ghi 'Humane'; chính tả cổ khác nhau. Năm 1689/1694 trong tiêu đề chưa kiểm riêng."
+}

@@ -1,0 +1,57 @@
+{
+  "unit": "quotes/ludwig-wittgenstein.tractatus-logico-philosophicus",
+  "hash": "sha256:7282ed82020776f87252dc3c15cc63f0c5c93b79b9e8ff5f538048a863d662bf",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn 6.54 (Ogden): My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/6",
+          "quote": "My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless,",
+          "where": "mệnh đề 6.54; vế sau: when he has climbed out through them, on them, over them."
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn: (He must so to speak throw away the ladder, after he has climbed up on it.)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/6",
+          "quote": "(He must so to speak throw away the ladder, after he has climbed up on it.)",
+          "where": "6.54"
+        }
+      ]
+    },
+    {
+      "text": "locator: 6.54; người nói Wittgenstein, Tractatus Logico-Philosophicus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/6",
+          "quote": "My propositions are elucidatory in this way",
+          "where": "6.54"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/6",
+          "quote": "he has climbed out through them, on them, over them"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang Wikisource là bản Ogden (1922; công cụ không in tên dịch giả nhưng tiêu đề bản ghi khớp bản Wikisource thông dụng). Dịch giả Ogden và năm 1922 chưa đọc riêng từ trang; nên xác nhận trên trang mục lục. Công cụ giới hạn độ dài quote nên chia thành các vế liền nhau. Không rủi ro bản quyền (1922)."
+}

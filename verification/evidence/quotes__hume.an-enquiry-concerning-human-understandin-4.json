@@ -1,0 +1,62 @@
+{
+  "unit": "quotes/hume.an-enquiry-concerning-human-understandin-4",
+  "hash": "sha256:6eed3b817697c22b1c406f41cd08058b07ac68eab3a378b380ae1178f2acb3a0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Custom, then, is the great guide of human life. It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past.\" (bản Selby-Bigge)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "Custom, then, is the great guide of human life.",
+          "where": "Mục V, phần 1, đoạn mở đầu bằng câu này (Gutenberg #9662, ed. Selby-Bigge)"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events",
+          "where": "câu tiếp theo cùng đoạn"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Hume, An Enquiry concerning Human Understanding (1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "An Enquiry Concerning Human Understanding",
+          "where": "Tác giả David Hume, biên tập L. A. Selby-Bigge"
+        }
+      ]
+    },
+    {
+      "text": "locator: EHU 5.6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "Custom, then, is the great guide of human life.",
+          "where": "Mục V phần 1: đoạn 1 (¶34), 2 (không số), 3 (¶35), 4 (không số), 5 (¶36), 6 = đoạn câu này; tức 5.6"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (thói quen là người dẫn đường vĩ đại của đời người; chỉ nhờ nguyên lý ấy kinh nghiệm mới có ích; trông đợi ở tương lai chuỗi sự kiện giống quá khứ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "renders our experience useful to us, and makes us expect, for the future"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Hume 1748 thuộc phạm vi công cộng, trích hai câu không có rủi ro bản quyền. Năm 1902 của bản Selby-Bigge không hiện trên trang Gutenberg đã mở (chỉ thấy tên biên tập); không kiểm riêng."
+}

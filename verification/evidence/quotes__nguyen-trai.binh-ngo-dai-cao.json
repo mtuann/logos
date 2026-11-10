@@ -1,0 +1,81 @@
+{
+  "unit": "quotes/nguyen-trai.binh-ngo-dai-cao",
+  "hash": "sha256:f3ee7dee18ae44b17d6755603a3b34c66133ff4803bd0af66bca76f987b09e9f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Tác giả và tác phẩm: Nguyễn Trãi, Bình Ngô đại cáo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/平吳大誥",
+          "quote": "阮廌 (後黎朝)",
+          "where": "đầu trang 平吳大誥"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Hán: 仁義之舉要在安民 / 弔伐之師莫先去暴",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/平吳大誥",
+          "quote": "蓋聞仁義之舉，要在安民，吊伐之師，莫先去暴。",
+          "where": "câu mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Chữ 弔 trong bản ghi so với 吊 trên Wikisource",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ghi chú rằng Wikisource in dị thể 吊 (弔 và 吊 cùng chữ); có thể giữ 弔.",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/平吳大誥",
+          "quote": "吊伐之師，莫先去暴"
+        }
+      ]
+    },
+    {
+      "text": "Câu dịch: Việc nhân nghĩa cốt ở yên dân, / Quân điếu phạt trước lo trừ bạo",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/phil/article/download/129787/106531/",
+          "quote": "việc nhân nghĩa cốt ở yên dân",
+          "where": "mục 2.1, Ngô Quang Huy, Tạp chí Triết học 3 (399) 2025; dẫn bản Viện Sử học 1976 (nguồn thứ cấp, ghi 'an dân' ở câu dẫn đầu)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch của Trần Trọng Kim (1920) chép câu sau là 'quân điếu phạt chỉ vì khử bạo'",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Năm viết Bình Ngô đại cáo là 1428",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "locator: phần mở đầu (đoạn 1) của bài cáo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/平吳大誥",
+          "quote": "蓋聞仁義之舉",
+          "where": "câu mở đầu văn bản"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Nguồn yếu cho câu dịch: bài Tạp chí Triết học 2025 chỉ trích dẫn bản Viện Sử học 1976 (Nguyễn Trãi toàn tập) và chép 'an dân'/'yên dân' không thống nhất; cần mở trực tiếp Nguyễn Trãi toàn tập hoặc Toàn thư. Chưa tìm được Việt Nam sử lược (Trần Trọng Kim) để xác nhận câu 'chỉ vì khử bạo' (nên mở bản trên Wikisource/Internet Archive) và chưa mở nguồn cho năm 1428. 'Câu dịch trong sách giáo khoa' (tiêu đề) chưa xác nhận cụ thể sách nào. Locator cần điền: mở đầu bài cáo (câu đầu)."
+}

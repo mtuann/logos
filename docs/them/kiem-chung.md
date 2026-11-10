@@ -1,7 +1,7 @@
 ---
 title: Tình trạng kiểm chứng
 description: Bao nhiêu phần của Logos đã được kiểm chứng với nguồn, theo từng mảng nội dung.
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 # Tình trạng kiểm chứng

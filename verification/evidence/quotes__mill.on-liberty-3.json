@@ -1,0 +1,68 @@
+{
+  "unit": "quotes/mill.on-liberty-3",
+  "hash": "sha256:3a6dda64133ab4986c06c9f580b182be58b977fd6663dd79314a3cfeb5e99a7a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn 'however true it may be, if it is not fully, frequently, and fearlessly discussed, it will be held as a dead dogma, not a living truth.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "however true it may be, if it is not fully, frequently, and fearlessly discussed, it will be held as a dead dogma, not a living truth.",
+          "where": "Chương II, đoạn 21"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'He who knows only his own side of the case, knows little of that.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "He who knows only his own side of the case, knows little of that.",
+          "where": "Chương II, đoạn 23"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm đúng: Mill, On Liberty (1859)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "On Liberty by John Stuart Mill"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương II, đoạn 21 và 23 (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "He who knows only his own side of the case, knows little of that.",
+          "where": "đoạn 23; câu 'dead dogma' ở đoạn 21"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "it will be held as a dead dogma, not a living truth"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. "
+}

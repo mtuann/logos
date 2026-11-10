@@ -1,0 +1,37 @@
+{
+  "unit": "quotes/leibniz.don-tu-luan",
+  "hash": "sha256:8a4bb853bfb762bc052299f5fde0bf06c09d7f5c1a59e6a3247ba4a86560fe9d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Bản dịch tiếng Anh của Robert Latta (1898), Oxford: Clarendon Press, The Monadology and Other Philosophical Writings",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/monadologyotherp00leib_2",
+          "quote": "The monadology and other philosophical writings",
+          "where": "trang mô tả: Leibniz, dịch giả Robert Latta, 1898, Clarendon Press (theo tóm tắt công cụ)"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn tiếng Anh §32: And that of sufficient reason, in virtue of which we hold that there can be no fact real or existing, no statement true, unless there be a sufficient reason, why it should be so and not otherwise, although these reasons usually cannot be known by us.",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "locator: §32",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Không đọc được thân văn Monadology: file djvu.txt của archive.org (hai bản monadologyotherp00leib_2 và themonadology00leibuoft) bị công cụ cắt giữa phần Giới thiệu, Wikisource bản Latta (en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)) không mở được. Đề nghị người làm kiểm lại bằng Wikisource bản Latta hoặc bản Gutenberg. Dịch tiếng Việt chưa đối chiếu được; nên so lại sau khi có nguyên văn. Năm 1714 và số §32 là hiểu biết chung, chưa có nguồn mở trong phiên."
+}

@@ -1,0 +1,81 @@
+{
+  "unit": "quotes/mill.on-liberty",
+  "hash": "sha256:b390c97937fa09b27d85d667a4c9918d351eb71ff0d2e2f59f58ea3525837ae1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn câu 'If all mankind minus one, were of one opinion... silencing mankind.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "If all mankind minus one, were of one opinion, and only one person were of the contrary opinion",
+          "where": "Chương II, đoạn 1"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race...' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race",
+          "where": "Chương II, đoạn 1"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'If the opinion is right... collision with error.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "the clearer perception and livelier impression of truth, produced by its collision with error",
+          "where": "Chương II, đoạn 1"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Mill, On Liberty (1859); work mill.on-liberty",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "On Liberty by John Stuart Mill",
+          "where": "trang đầu ebook #34901"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương II, đoạn 1 (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "If all mankind minus one",
+          "where": "Chương II, đoạn 1"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "it is robbing the human race; posterity as well as the existing generation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. Dấu […] trong bản ghi nối hai đoạn xa trong cùng đoạn 1, chấp nhận được."
+}

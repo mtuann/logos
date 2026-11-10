@@ -1,0 +1,37 @@
+{
+  "unit": "quotes/descartes.suy-niem-ve-triet-hoc-de-nhat-2",
+  "hash": "sha256:347d0ed44eac6d4cf38156b6c91a89332fb849d00d6e9769eb41f8527b749f39",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Người dịch: John Veitch (bản có Meditations)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "John Veitch, LL.D.",
+          "where": "trang tên sách"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Suy niệm VI: '…I rightly conclude that my essence consists only in my being a thinking thing… entirely and truly distinct from my body, and may exist without it.' (không mở được văn bản đầy đủ Suy niệm VI của bản Veitch; bản số hóa bị cắt)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Dấu ngoặc vuông '[that is, my mind, by which I am what I am]' có trong bản Veitch hay không",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "locator: Suy niệm VI; bản dịch tiếng Việt sát nghĩa",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Hết lượt: tệp Gutenberg #59/#23306 là bản Discourse hoặc bản Latin; trang Internet Archive chỉ đọc được đến Suy niệm III; Standard Ebooks chương Suy niệm VI bị robots chặn. Đề xuất người làm kiểm lại ở bản Veitch trên Wikisource/Standard Ebooks. Lưu ý: dạng 'I rightly conclude…' có thể thuộc bản dịch khác (ví dụ Haldane-Ross); cần xác nhận trước khi ghi 'bản của Veitch'."
+}

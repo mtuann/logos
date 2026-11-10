@@ -1,0 +1,82 @@
+{
+  "unit": "quotes/hume.an-enquiry-concerning-human-understandin-2",
+  "hash": "sha256:5bcb5ba45ba1bf7d0094bad32c47334377abe4dfb11a2d2c4e4c8d3a63d96eca",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Nguyên văn EHU 4.2: 'That the sun will not rise to-morrow…'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "That the sun will not rise to-morrow is no less intelligible a proposition",
+          "where": "E 4.2, SBN 25-6"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "and implies no more contradiction, than the affirmation, that it will rise",
+          "where": "E 4.2"
+        }
+      ]
+    },
+    {
+      "text": "Dấu phẩy: 'contradiction, than'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thêm dấu phẩy: 'implies no more contradiction, than the affirmation'.",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "and implies no more contradiction, than the affirmation, that it will rise",
+          "where": "E 4.2"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn EHU 4.4: 'All reasonings concerning matter of fact…'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "All reasonings concerning matter of fact seem to be founded on the relation of Cause and Effect.",
+          "where": "E 4.4, SBN 26-7"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "By means of that relation alone we can go beyond the evidence of our memory and senses.",
+          "where": "E 4.4"
+        }
+      ]
+    },
+    {
+      "text": "locator: EHU 4.2 và 4.4 (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "All reasonings concerning matter of fact seem to be founded on the relation of Cause and Effect.",
+          "where": "E 4.4"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "By means of that relation alone we can go beyond the evidence of our memory and senses.",
+          "where": "đối chiếu bản dịch"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang Hume Texts Online dùng đánh số Beauchamp kèm SBN; chưa đối chiếu riêng 'bản Selby-Bigge (1902)'. Dấu […] hợp lệ (E 4.2 và 4.4 là hai đoạn khác nhau)."
+}

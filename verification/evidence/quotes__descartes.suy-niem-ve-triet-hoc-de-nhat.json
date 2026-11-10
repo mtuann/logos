@@ -1,0 +1,82 @@
+{
+  "unit": "quotes/descartes.suy-niem-ve-triet-hoc-de-nhat",
+  "hash": "sha256:8985a0d4443c06b483f734c1efdc93aef951e78815d732b7856832150d57175e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Nguyên văn đoạn 'Though this be true…' đến '…I am now dreaming' (bản Veitch)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "Though this be true, I must nevertheless here consider that I am a man, and that, consequently,",
+          "where": "Meditation I"
+        },
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "by which the state of waking can ever be distinguished from sleep, that I feel greatly astonished;",
+          "where": "Meditation I"
+        },
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "and in amazement I almost persuade myself that I am now dreaming.",
+          "where": "Meditation I"
+        }
+      ]
+    },
+    {
+      "text": "Dấu phẩy: 'at other times I have been deceived'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nguồn: 'at other times, I have been deceived in sleep by similar illusions'.",
+      "sources": [
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "But I cannot forget that, at other times, I have been deceived in sleep by similar illusions;",
+          "where": "Meditation I"
+        }
+      ]
+    },
+    {
+      "text": "Người dịch: John Veitch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "John Veitch, LL.D.",
+          "where": "trang tên sách"
+        }
+      ]
+    },
+    {
+      "text": "locator: Suy niệm I (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "How often have I dreamt that I was in these familiar circumstances, that I was dressed,",
+          "where": "Meditation I"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia801606.us.archive.org/15/items/meditationsselec00desc/meditationsselec00desc.pdf",
+          "quote": "and occupied this place by the fire, when I was lying undressed in bed?",
+          "where": "đối chiếu bản dịch"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu bằng bản Internet Archive 'Meditations and selections from the Principles' (Veitch); từng đoạn được đọc theo cụm ngắn, đủ khớp. Các chữ trong nguồn đọc qua OCR/PDF, nên dấu câu có thể lệch; chỉ ghi một chỗ dấu phẩy. Bản Veitch 1901 thuộc phạm vi công cộng."
+}

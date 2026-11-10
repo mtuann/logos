@@ -1,0 +1,80 @@
+{
+  "unit": "quotes/nagarjuna.trung-luan",
+  "hash": "sha256:04cd0263c4a0f75a639485945a41a13c88d125fe914ef3abf0ecc03636ab2dbf",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn chữ Hán: 以有空義故，一切法得成；若無空義者，一切則不成。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "以有空義故 一切法得成",
+          "where": "觀四諦品第二十四"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn câu sau: 若無空義者，一切則不成",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "若無空義者 一切則不成",
+          "where": "觀四諦品第二十四"
+        }
+      ]
+    },
+    {
+      "text": "Người/tác phẩm: Nagarjuna (龍樹), Trung luận, bản dịch của Cưu-ma-la-thập (姚秦三藏鳩摩羅什)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "姚秦三藏鳩摩羅什",
+          "where": "đầu trang, phẩm 24"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm Hán Việt: Dĩ hữu không nghĩa cố, nhất thiết pháp đắc thành; nhược vô không nghĩa giả, nhất thiết tắc bất thành.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "以有空義故 一切法得成"
+        }
+      ]
+    },
+    {
+      "text": "locator: Trung luận 24.14 (phẩm Quán Tứ đế, kệ 14)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "以有空義故 一切法得成",
+          "where": "觀四諦品第二十四; trang không in số kệ, đếm từ đầu phẩm thì đây là kệ 4 câu thứ 14"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: Vì có nghĩa lý của tính không, nên mọi pháp mới thành được; nếu không có nghĩa lý của tính không, thì chẳng gì thành được cả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)/24",
+          "quote": "若無空義者 一切則不成"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang Wikisource trả chữ Hán không dấu câu; dấu câu trong bản ghi là chuẩn hóa, khác biệt chỉ nhẹ. Trang không in số kệ nên 24.14 xác nhận bằng cách đếm (kệ 4 câu x 5 chữ; kệ 14 bắt đầu ở cặp câu thứ 27); nên đối chiếu thêm CBETA T1564 nếu muốn. Niên đại bản dịch (đầu thế kỷ 5) chưa mở nguồn riêng, không thuộc nguyên văn hay bản dịch."
+}
