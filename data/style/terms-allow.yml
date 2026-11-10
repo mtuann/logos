@@ -1,0 +1,221 @@
+# Miễn cho tools/lint_terms.py, chỉ luật thuat-ngu-mo-ho: cách dịch khác trùng một từ thường hay một thuật ngữ khác,
+# người đọc đã xem từng chỗ (đợt 5.3, Claude duyệt tạm 10/11/2026). Mỗi mục:
+#   page: đường dẫn trong docs/; word: chữ linter tìm thấy; count: số chỗ đã xem trong trang; reason: lý do
+# Số chỗ đổi thì linter báo mien-lech (xem lại chỗ mới); mục không còn chỗ nào thì báo mien-thua.
+
+- page: bat-dau/lo-trinh.md
+  word: hiểu biết
+  count: 1
+  reason: '"hiểu biết" (understanding) của máy, như trong câu hỏi Căn phòng tiếng Trung'
+- page: cau-hoi/ai-nen-cai-tri.md
+  word: hiểu biết
+  count: 12
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: cau-hoi/ai-nen-cai-tri.md
+  word: tinh thần
+  count: 2
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/ban-nga-thoi-gian.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/chan-ly.md
+  word: tinh thần
+  count: 2
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/chien-tranh-chinh-dang.md
+  word: đúng đắn
+  count: 3
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/cong-nghe-ai.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/dan-chu.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/dao-duc-ung-dung.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/dinh-menh.md
+  word: thuyết định mệnh
+  count: 9
+  reason: 'nói về fatalism (thuyết định mệnh logic), không dịch determinism (quyết định 18)'
+- page: cau-hoi/duc-tri.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/hanh-phuc.md
+  word: hiểu biết
+  count: 3
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: cau-hoi/khoa-hoc.md
+  word: tinh thần
+  count: 2
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/mo-phong.md
+  word: mệnh đề
+  count: 4
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: cau-hoi/ngon-ngu.md
+  word: tinh thần
+  count: 3
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/nho-giao-viet.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/nu-quyen.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/pho-quat.md
+  word: mệnh đề
+  count: 1
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: cau-hoi/sieu-dao-duc.md
+  word: mệnh đề
+  count: 1
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: cau-hoi/tai-san-rieng.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/thoi-gian.md
+  word: tinh thần
+  count: 1
+  reason: 'McTaggart: thực tại là tinh thần (spirit), nghĩa của duy tâm luận'
+- page: cau-hoi/tinh-yeu.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cau-hoi/truc-lam.md
+  word: tinh thần
+  count: 5
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/tu-do-ngon-luan.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/van-de-su-du.md
+  word: hiểu biết
+  count: 1
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: cau-hoi/van-de-su-du.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cau-hoi/van-de-tam-tri.md
+  word: mệnh đề
+  count: 1
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: cau-hoi/viet-hien-dai.md
+  word: tinh thần
+  count: 6
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cong-cu/doc-van-ban-kho.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: cong-cu/gia-dinh-ngam.md
+  word: hiểu biết
+  count: 1
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: cong-cu/gia-dinh-ngam.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: cong-cu/logic-menh-de.md
+  word: mệnh đề
+  count: 18
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: cong-cu/nguy-bien-hinh-thuc.md
+  word: mệnh đề
+  count: 2
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: cong-cu/nguy-bien.md
+  word: hiểu biết
+  count: 1
+  reason: 'tên ngụy biện "viện dẫn sự thiếu hiểu biết" (appeal to ignorance)'
+- page: cong-cu/nguy-bien.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: doc/aristotle-dao-duc.md
+  word: hiểu biết
+  count: 1
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: doc/aurelius-suy-tuong.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: doc/luan-ngu.md
+  word: hiểu biết
+  count: 1
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: doc/platon-bien-ho.md
+  word: hiểu biết
+  count: 1
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: doc/platon-hang-dong.md
+  word: hiểu biết
+  count: 4
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: doc/russell-gia-tri.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: doc/tam-kinh.md
+  word: mệnh đề
+  count: 1
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: doc/tam-kinh.md
+  word: tinh thần
+  count: 2
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: doc/tho-van-ly-tran.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: lich-su/an-do.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: lich-su/can-dai.md
+  word: mệnh đề
+  count: 1
+  reason: 'đúng thuật ngữ proposition (logic mệnh đề, đối tượng trừu tượng, ba mệnh đề của Bostrom…), không phải "claim" (khẳng định)'
+- page: lich-su/can-dai.md
+  word: tinh thần
+  count: 1
+  reason: 'đơn tử của Leibniz là "đơn vị tinh thần" (spiritual unit): nghĩa spirit'
+- page: lich-su/can-dai.md
+  word: đúng đắn
+  count: 1
+  reason: 'nghĩa thường (đúng, phải lẽ; "ý định đúng đắn" = right intention), không phải "sound" (vững chắc)'
+- page: lich-su/hy-lap-co-dai.md
+  word: hiểu biết
+  count: 1
+  reason: 'nghĩa thường: người hiểu biết, thiếu hiểu biết, sự hiểu biết (understanding, ignorance), không phải thuật ngữ "knowledge" (tri thức)'
+- page: lich-su/nhat-ban-viet-nam.md
+  word: tinh thần
+  count: 4
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: lich-su/the-ky-19.md
+  word: tinh thần
+  count: 2
+  reason: '"Tinh thần Tuyệt đối" (Absolute Spirit) của Hegel: đúng thuật ngữ'
+- page: lich-su/trung-co.md
+  word: hiểu biết
+  count: 1
+  reason: '"đức tin đi tìm hiểu biết" dịch fides quaerens intellectum (understanding)'
+- page: lich-su/trung-co.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'
+- page: lich-su/trung-hoa.md
+  word: tinh thần
+  count: 1
+  reason: 'nghĩa thường: tinh thần (spirit; "theo tinh thần của…", "đời sống tinh thần"), không phải thuật ngữ "mind" (tâm trí)'

@@ -1362,7 +1362,7 @@ Thế nào là một lời giải thích "tốt"? Không có công thức chung,
 
 1. **Giải thích được nhiều**: bao quát được càng nhiều dữ kiện càng tốt, kể cả dữ kiện lạ (đau sau hốc mắt, tiểu cầu giảm).
 2. **Đơn giản**: không đặt ra nhiều thực thể hay cơ chế hơn mức cần thiết.
-3. **Nhất quán với điều đã biết**: phù hợp với hiểu biết nền (đang mùa mưa, đang có dịch sốt xuất huyết ở địa phương).
+3. **Nhất quán với điều đã biết**: phù hợp với tri thức nền (đang mùa mưa, đang có dịch sốt xuất huyết ở địa phương).
 4. **Ít giả định ad hoc**: không phải vá víu thêm những giả định chỉ được tạo ra để cứu giả thuyết.
 
 !!! warning "Tốt nhất chưa chắc là đúng"
@@ -1428,7 +1428,7 @@ Giải thích  → Đã xét đủ các giả thuyết khác chưa? Giả thuy�
 **Bài 5.** Chiếc bánh bông lan trên bàn biến mất. Có vụn bánh trên áo em trai bạn; con mèo đang ngủ trên ghế sofa; cửa sổ mở. Ba giả thuyết: (a) em trai ăn; (b) mèo ăn; (c) kẻ trộm trèo cửa sổ vào lấy. Giả thuyết nào là lời giải thích tốt nhất? Theo tiêu chí nào?
 
 ??? success "Xem gợi ý đáp án"
-    (a). Nó giải thích được dữ kiện lạ nhất (vụn bánh trên áo em), đơn giản, nhất quán với hiểu biết nền (trẻ con thích bánh). Giả thuyết (b) không giải thích vụn bánh trên áo và cần thêm giả định (mèo ăn hết cả chiếc bánh mà không để lại dấu vết). Giả thuyết (c) cần nhiều giả định ad hoc (trộm chỉ lấy bánh?). Nhưng (a) vẫn có thể sai; có thể em chỉ ăn một miếng.
+    (a). Nó giải thích được dữ kiện lạ nhất (vụn bánh trên áo em), đơn giản, nhất quán với tri thức nền (trẻ con thích bánh). Giả thuyết (b) không giải thích vụn bánh trên áo và cần thêm giả định (mèo ăn hết cả chiếc bánh mà không để lại dấu vết). Giả thuyết (c) cần nhiều giả định ad hoc (trộm chỉ lấy bánh?). Nhưng (a) vẫn có thể sai; có thể em chỉ ăn một miếng.
 
 ## Tự kiểm tra
 
@@ -3003,7 +3003,7 @@ Ví dụ: A nói "Nên tăng thuế thuốc lá để giảm số người hút.
 
 Vì sao phải làm vậy? Ba lý do. Thứ nhất, hạ một người rơm không chứng minh được gì: đối thủ thật vẫn đứng đó, nguyên vẹn. Thứ hai, chỉ khi hiểu đúng lập trường đối lập, ta mới biết chỗ nào của nó thật sự yếu — và chỗ nào của *mình* thật sự hở. Thứ ba, thỉnh thoảng ta sẽ phát hiện phe đối lập... có lý hơn ta tưởng. Đổi ý sau khi đã hiểu đúng không phải thua; đó là triết học đang làm đúng việc của nó.
 
-Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đối lập ở dạng mạnh nhất, liệt kê 3 luận cứ tốt nhất của họ, ghi bằng chứng mạnh nhất họ viện dẫn, và viết rõ điều gì sẽ làm bạn đổi ý. Cuối cùng bạn có một bản "luận cứ thép" hoàn chỉnh — bài tập tốt nhất để chống lại thói quen đấm bao cát.
+Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đối lập ở dạng mạnh nhất, liệt kê 3 lập luận tốt nhất của họ, ghi bằng chứng mạnh nhất họ viện dẫn, và viết rõ điều gì sẽ làm bạn đổi ý. Cuối cùng bạn có một bản "luận cứ thép" hoàn chỉnh — bài tập tốt nhất để chống lại thói quen đấm bao cát.
 
 ## Thử ngay
 
@@ -5072,7 +5072,7 @@ Một người bị cướp dí dao vào cổ mà đưa ví là *không tự do*
 
 Anh Tư *không thể* làm khác đi: dù thế nào anh cũng sẽ bỏ phiếu cho X. Vậy mà dường như anh vẫn chịu trách nhiệm hoàn toàn cho lá phiếu của mình, vì anh đã tự chọn. Nếu đúng vậy, thì "có thể làm khác đi" *không phải* là **điều kiện cần** của trách nhiệm đạo đức. Và lập luận của bất tương thích luận, vốn dựa vào khả năng làm khác đi, mất đi chỗ dựa quan trọng.
 
-Trong một bài khác ("Freedom of the Will and the Concept of a Person", 1971), Frankfurt đề xuất một hình ảnh khác về tự do: ý chí tự do là khi mong muốn thực sự thúc đẩy ta hành động chính là mong muốn mà ta *muốn* có. Người nghiện ma túy bất đắc dĩ thèm thuốc nhưng không *muốn* mình thèm thuốc; mong muốn hành động của anh ta đi ngược mong muốn bậc cao hơn. Anh ta thiếu tự do theo một nghĩa rất thật, kể cả khi không ai ép.
+Trong một bài khác ("Freedom of the Will and the Concept of a Person", 1971), Frankfurt đề xuất một hình ảnh khác về tự do: tự do ý chí là khi mong muốn thực sự thúc đẩy ta hành động chính là mong muốn mà ta *muốn* có. Người nghiện ma túy bất đắc dĩ thèm thuốc nhưng không *muốn* mình thèm thuốc; mong muốn hành động của anh ta đi ngược mong muốn bậc cao hơn. Anh ta thiếu tự do theo một nghĩa rất thật, kể cả khi không ai ép.
 
 **Phản bác chính.** Người theo bất tương thích luận đưa ra **lập luận thao túng**. Derk Pereboom xây dựng một chuỗi trường hợp: ở trường hợp đầu, các nhà khoa học điều khiển trực tiếp não một người tên Plum để anh ta giết người, nhưng vẫn qua đúng quá trình cân nhắc "của anh ta". Ở các trường hợp sau, sự thao túng lùi dần ra xa: lập trình từ khi sinh ra, rồi rèn luyện từ nhỏ, cuối cùng chỉ là một thế giới tất định bình thường. Ở trường hợp đầu, hầu như ai cũng thấy Plum không có trách nhiệm. Nhưng giữa các trường hợp, khác biệt về trách nhiệm nằm ở đâu? Nếu không chỉ ra được, thì trong thế giới tất định bình thường, Plum cũng không có trách nhiệm.
 
@@ -6503,7 +6503,7 @@ Hơn một nghìn năm trước Arendt, Augustine vật lộn với một câu h
 
 Áp vào hành động con người: mọi sự vật, ở mức độ tồn tại của nó, đều tốt (sức mạnh, trí thông minh, ngôn ngữ đều là điều tốt). Cái ác xảy ra khi ý chí *quay lưng* khỏi điều thiện cao hơn để bám vào điều thấp hơn — như kẻ nói dối dùng *ngôn ngữ* (điều tốt) vào mục đích lừa gạt, kẻ bạo lực dùng *sức mạnh* (điều tốt) để làm hại. Cái ác, vậy, luôn *ký sinh* trên điều thiện: nó không tự đứng được một mình.
 
-**Lập luận mạnh nhất.** Lập trường này giải quyết được bài toán hóc búa nhất của nhất thần giáo: vì sao một vị Chúa toàn thiện lại để cái ác tồn tại — vì cái ác không phải "thứ" Chúa tạo ra, mà là hậu quả của việc các thụ tạo có ý chí tự do *quay lưng* khỏi điều thiện. Nó cũng giải thích được một quan sát tinh tế: cái ác hiếm khi là sự sáng tạo từ hư không — lời nói dối ký sinh trên ngôn ngữ thật, bạo lực có tổ chức ký sinh trên kỷ luật và trí thông minh, thậm chí guồng máy của ông K. ký sinh trên những đức tính *tốt* (đúng giờ, mẫn cán, có trách nhiệm). Hiểu cái ác như "ký sinh" giúp ta thấy vì sao nó khó nhận diện: nó luôn mặc áo của điều tốt.
+**Lập luận mạnh nhất.** Lập trường này giải quyết được bài toán hóc búa nhất của nhất thần giáo: vì sao một vị Chúa toàn thiện lại để cái ác tồn tại — vì cái ác không phải "thứ" Chúa tạo ra, mà là hậu quả của việc các thụ tạo có tự do ý chí *quay lưng* khỏi điều thiện. Nó cũng giải thích được một quan sát tinh tế: cái ác hiếm khi là sự sáng tạo từ hư không — lời nói dối ký sinh trên ngôn ngữ thật, bạo lực có tổ chức ký sinh trên kỷ luật và trí thông minh, thậm chí guồng máy của ông K. ký sinh trên những đức tính *tốt* (đúng giờ, mẫn cán, có trách nhiệm). Hiểu cái ác như "ký sinh" giúp ta thấy vì sao nó khó nhận diện: nó luôn mặc áo của điều tốt.
 
 **Phản bác chính.** "Thiếu vắng" nghe quá nhẹ so với thực tế của cái ác. Trại tập trung, tra tấn trẻ em, diệt chủng — gọi những thứ đó là "thiếu ánh sáng" chẳng phải là một sự xúc phạm đối với nạn nhân sao? Ngôn ngữ của sự thiếu hụt dường như không nắm được *tính tích cực, chủ động* của cái ác: kẻ tra tấn không "thiếu" gì cả — hắn *làm* điều ác một cách sáng tạo, có kế hoạch, thậm chí thích thú. Cái ác có một năng lượng riêng, một sự hiện diện riêng, mà từ "thiếu vắng" không bao giờ diễn tả nổi.
 
@@ -10964,7 +10964,7 @@ Câu bổ sung hỏi một điều khác hẳn: không phải "bạn có tin kh�
 
 **Tranh luận trên mạng.** Các cuộc cãi vã "có Chúa hay không" trên mạng xã hội thường là hai bên nói qua nhau: một bên đưa luận chứng vũ trụ luận, bên kia đáp bằng chuyện giáo sĩ làm bậy — hai chủ đề khác nhau. Bài này gợi ý một kỷ luật: hãy tách câu hỏi "các luận chứng có vững không" khỏi câu hỏi "tôn giáo có tốt không". Một luận chứng có thể yếu mà tôn giáo vẫn có giá trị với người tin, và ngược lại.
 
-**Đọc lại các luận chứng như bài tập tư duy.** Dù bạn tin hay không tin, ba luận chứng trên là những bài tập lập luận hạng nặng: chúng dạy ta cách xây dựng một lập luận nhiều tầng, cách tìm tiền đề ẩn, và cách một phản bác tốt nhắm vào đúng mắt xích yếu nhất. Đó cũng là lý do chúng vẫn được dạy trong mọi khoa triết — không phải vì ai cũng bị thuyết phục, mà vì tranh cãi với chúng làm ta suy nghĩ sắc sảo hơn. Thử thách bản thân: bạn có trình bày được luận chứng mình *không* đồng ý ở phiên bản mạnh nhất của nó không? Nếu không, có lẽ bạn chưa hiểu nó đủ để bác bỏ.
+**Đọc lại các luận chứng như bài tập tư duy.** Dù bạn tin hay không tin, ba luận chứng trên là những bài tập lập luận hạng nặng: chúng dạy ta cách xây dựng một lập luận nhiều tầng, cách tìm giả định ngầm, và cách một phản bác tốt nhắm vào đúng mắt xích yếu nhất. Đó cũng là lý do chúng vẫn được dạy trong mọi khoa triết — không phải vì ai cũng bị thuyết phục, mà vì tranh cãi với chúng làm ta suy nghĩ sắc sảo hơn. Thử thách bản thân: bạn có trình bày được luận chứng mình *không* đồng ý ở phiên bản mạnh nhất của nó không? Nếu không, có lẽ bạn chưa hiểu nó đủ để bác bỏ.
 
 **Vì sao người thông minh vẫn bất đồng?** Ba luận chứng trên đã được những bộ óc sắc sảo nhất của nhân loại tranh cãi suốt nhiều thế kỷ mà chưa ngã ngũ. Điều đó tự nó là một thông tin: hoặc câu hỏi này khó một cách đặc biệt, hoặc các luận chứng triết học có giới hạn của chúng khi đụng đến những điều vượt quá kinh nghiệm con người. Kant nghĩ là cả hai.
 
@@ -14735,7 +14735,7 @@ Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố
 
 Tư tưởng cốt lõi của Augustine có hai trụ cột. Thứ nhất, ông đặt **nội tâm** vào trung tâm triết học: con người tìm thấy Chúa không phải bằng cách nhìn ra ngoài, mà bằng cách quay vào trong — một bước ngoặt mà 1.200 năm sau [Descartes](../triet-gia/descartes.md) sẽ lặp lại theo cách khác. Thứ hai, trong *Thành phố của Chúa* (*City of God*, viết 413–426 sau khi Rome bị cướp phá năm 410), ông phân biệt **thành phố trần gian** (xây trên tình yêu bản thân) với **thành phố của Chúa** (xây trên tình yêu Thiên Chúa): lịch sử nhân loại là cuộc đấu tranh giữa hai thành phố này.
 
-Ảnh hưởng: Augustine định hình thần học và triết học Kitô giáo phương Tây suốt một nghìn năm — về tội lỗi, ân sủng, ý chí tự do, và thời gian (những trang ông viết về câu hỏi "thời gian là gì" ở quyển XI của *Tự thú* thuộc loại nổi tiếng nhất trong triết học, dù Aristotle và Plotinus đã bàn về thời gian trước ông).
+Ảnh hưởng: Augustine định hình thần học và triết học Kitô giáo phương Tây suốt một nghìn năm — về tội lỗi, ân sủng, tự do ý chí, và thời gian (những trang ông viết về câu hỏi "thời gian là gì" ở quyển XI của *Tự thú* thuộc loại nổi tiếng nhất trong triết học, dù Aristotle và Plotinus đã bàn về thời gian trước ông).
 
 Ông cũng để lại một lập luận về **vấn đề sự dữ** mà các triết gia vẫn bàn: nếu Chúa tốt lành và toàn năng, vì sao có đau khổ? Đáp án của Augustine: sự dữ không phải một "thứ" Chúa tạo ra, mà là sự *thiếu vắng* điều thiện — như bóng tối là thiếu ánh sáng. Kẻ làm điều ác không theo một sức mạnh đối lập với Chúa, mà quay lưng lại với điều thiện. Lời giải này — gọi là **thuyết thiếu vắng** (*privation theory*) — vẫn là một trong những câu trả lời có ảnh hưởng nhất cho đến hôm nay.
 
@@ -14908,7 +14908,7 @@ Tư tưởng cốt lõi là **duy vật lịch sử** (*historical materialism*)
 
 Trong *Tuyên ngôn của Đảng Cộng sản* (1848, viết cùng Engels) và *Tư bản* (tập 1, 1867), Marx phân tích chủ nghĩa tư bản: công nhân bán sức lao động, nhà tư bản chiếm đoạt **giá trị thặng dư** — phần giá trị công nhân tạo ra vượt quá tiền công. Hệ thống này, theo Marx, vừa tạo ra của cải khổng lồ vừa tạo ra **tha hóa** (*alienation*): người lao động xa lạ với sản phẩm, với quá trình lao động, với đồng loại và với chính mình.
 
-Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà hoạt động chính trị; tư tưởng của ông vừa là công cụ phân tích xã hội có ảnh hưởng sâu rộng (hầu như mọi ngành khoa học xã hội hiện đại đều chịu ảnh hưởng của ông, dù đồng ý hay phản bác), vừa gắn với các phong trào chính trị gây tranh cãi trong thế kỷ 20. Bài này trình bày ông như một lập trường triết học: một cách giải thích lịch sử và xã hội bằng điều kiện vật chất, với những luận cứ và những phản bác riêng.
+Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà hoạt động chính trị; tư tưởng của ông vừa là công cụ phân tích xã hội có ảnh hưởng sâu rộng (hầu như mọi ngành khoa học xã hội hiện đại đều chịu ảnh hưởng của ông, dù đồng ý hay phản bác), vừa gắn với các phong trào chính trị gây tranh cãi trong thế kỷ 20. Bài này trình bày ông như một lập trường triết học: một cách giải thích lịch sử và xã hội bằng điều kiện vật chất, với những lập luận và những phản bác riêng.
 
 Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – kiến trúc thượng tầng** (*base–superstructure*). Theo Marx, cách tổ chức sản xuất (cơ sở hạ tầng) định hình luật pháp, chính trị, tôn giáo, văn hóa (kiến trúc thượng tầng) — chứ không phải ngược lại. Phản bác phổ biến nhất: mô hình này có quá đơn giản không? Ý tưởng — ví dụ chính chủ nghĩa Marx — chẳng phải đã làm thay đổi thế giới vật chất đó sao? Nếu ý thức chỉ là "phản ánh" tồn tại, thì chính tư tưởng của Marx từ đâu mà có?
 
@@ -15613,12 +15613,12 @@ Giáo dục, theo Platon, không phải đổ kiến thức vào đầu, mà là
 Platon cho ta sẵn bản đồ của hình ảnh (517b): hang là thế giới giác quan; bóng là những gì ta thấy và nghe hằng ngày, luôn đổi thay; sự vật bên ngoài là các ý niệm, như cái Đẹp tự thân, cái Công bằng tự thân; mặt trời là **ý niệm về cái Thiện** (*Form of the Good*), nguồn của chân lý và hiểu biết (517c). Từ bản đồ ấy, lập luận về người cai trị có dạng:
 
 - **P1.** Muốn cai trị tốt, phải biết điều gì thật sự công bằng và tốt, chứ không chỉ biết bóng của chúng (520c).
-- **P2.** Chỉ người được giáo dục để "đi lên" tới ý niệm về cái Thiện mới có hiểu biết đó (517b–c).
+- **P2.** Chỉ người được giáo dục để "đi lên" tới ý niệm về cái Thiện mới có tri thức đó (517b–c).
 - **P3.** Những người ấy lại không ham quyền lực (519c–d, 520d).
-- **P4** (giả định ngầm). Người có hiểu biết mà không ham quyền lực sẽ cai trị tốt hơn người ham quyền mà thiếu hiểu biết.
+- **P4** (giả định ngầm). Người có tri thức mà không ham quyền lực sẽ cai trị tốt hơn người ham quyền mà thiếu tri thức.
 - **K.** Thành phố tốt nhất là nơi những người đã "ra khỏi hang" được buộc quay về cai trị.
 
-Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là tiền đề: P2 dựa trên thuyết ý niệm (có tồn tại những ý niệm ấy không, và có người biết được chúng không?), còn P4 giả định rằng hiểu biết và đức hạnh của người cai trị là đủ, không cần cơ chế nào để kiểm soát họ.
+Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là tiền đề: P2 dựa trên thuyết ý niệm (có tồn tại những ý niệm ấy không, và có người biết được chúng không?), còn P4 giả định rằng tri thức và đức hạnh của người cai trị là đủ, không cần cơ chế nào để kiểm soát họ.
 
 ## Phản bác
 
@@ -16062,7 +16062,7 @@ Các sự việc "có vẻ *đi liền nhau*, nhưng không bao giờ *nối v�
 ## Tái dựng lập luận
 
 - **P1.** Mọi suy luận về sự việc ngoài giác quan và trí nhớ đều dựa trên nhân quả. (EHU 4.4)
-- **P2.** Hiểu biết về nhân quả chỉ đến từ kinh nghiệm. (EHU 4.6)
+- **P2.** Tri thức về nhân quả chỉ đến từ kinh nghiệm. (EHU 4.6)
 - **P3.** Mọi suy luận từ kinh nghiệm đều giả định tương lai giống quá khứ. (EHU 4.21)
 - **P4.** Mọi lập luận hoặc là suy diễn, hoặc là suy luận từ kinh nghiệm. (EHU 4.18)
 - **P5.** Giả định ở P3 không chứng minh được bằng suy diễn (phủ định nó không mâu thuẫn), cũng không bằng kinh nghiệm (vòng tròn). (EHU 4.18–4.21)
@@ -17064,7 +17064,7 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). Hai **giả định ng�
 
 1. Chọn một đức tính bạn muốn có (kiên nhẫn, trung thực, dũng cảm...). Theo Aristotle, "bài tập thói quen" cụ thể trong tuần này của bạn là gì, và đâu là hai thái cực bạn phải tránh?
 2. Aristotle nói hạnh phúc là hoạt động cả đời, không phải khoảnh khắc. Điều này thay đổi cách bạn đánh giá "một cuộc đời thành công" như thế nào?
-3. Kant nói thói quen làm mất giá trị đạo đức; Aristotle nói thói quen là con đường dẫn tới đức hạnh. Hãy viết luận cứ mạnh nhất cho mỗi bên, rồi nói bạn nghiêng về đâu.
+3. Kant nói thói quen làm mất giá trị đạo đức; Aristotle nói thói quen là con đường dẫn tới đức hạnh. Hãy viết lập luận mạnh nhất cho mỗi bên, rồi nói bạn nghiêng về đâu.
 
 ## Tự kiểm tra
 

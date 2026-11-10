@@ -7,6 +7,10 @@
 Luật đọc từ data/style/terms-policy.yml (sinh từ HUONG-DAN-VIET.md mục 3 bằng tools/terms_policy.py).
 Không kiểm: trích nguyên văn (!!! quote, > …), chữ trong ngoặc kép, chữ in nghiêng, mục Nguồn, code, đích link.
 Có kiểm: thân bài, tiêu đề, quiz, `title` và `description` trong front matter.
+
+Miễn (đợt 5.3): `data/style/terms-allow.yml`, chỉ cho luật `thuat-ngu-mo-ho` (cách dịch khác trùng từ thường hay thuật
+ngữ khác, người đọc đã xem từng chỗ). Mỗi mục `page`, `word`, `count` (số chỗ đã xem), `reason`. Số chỗ đổi thì linter
+báo `mien-lech` (xem lại chỗ mới rồi sửa `count`, hoặc sửa chữ); mục không còn chỗ nào thì báo `mien-thua`.
 """
 
 from __future__ import annotations
@@ -20,12 +24,15 @@ from lz import ROOT, units
 from lz.lint import Finding, blank, core_pages, main_guard, masked_lines, run, unit_at
 
 POLICY = ROOT / "data" / "style" / "terms-policy.yml"
+ALLOW = ROOT / "data" / "style" / "terms-allow.yml"
 ITALIC = re.compile(r"(?<![*\w])\*(?!\*)[^*\n]+?(?<!\*)\*(?![*\w])|(?<![_\w])_(?!_)[^_\n]+?_(?![_\w])")
 QUOTED = re.compile(r'"[^"\n]*"|“[^”\n]*”')
 RULES = {
     "thuat-ngu": "dùng cách dịch khác thay cho thuật ngữ bắt buộc",
     "thuat-ngu-mo-ho": "cách dịch khác trùng một từ thường hay thuật ngữ khác: người đọc xem lại, thường là đúng",
     "ten-rieng": "tên riêng không theo cách phiên quy định (ví dụ Plato → Platon)",
+    "mien-lech": "số chỗ của một mục miễn đã đổi: xem lại các chỗ, rồi sửa `count` hoặc sửa chữ",
+    "mien-thua": "mục miễn không còn khớp chỗ nào (xóa mục)",
 }
 
 
@@ -54,7 +61,40 @@ def prose(line: str) -> str:
     return QUOTED.sub(lambda m: blank(m.group(0)), line)
 
 
+def load_allow() -> list[dict]:
+    items = (yaml.safe_load(ALLOW.read_text(encoding="utf-8")) or []) if ALLOW.exists() else []
+    for it in items:
+        if not (all(isinstance(it.get(k), str) and it.get(k) for k in ("page", "word", "reason"))
+                and isinstance(it.get("count"), int)):
+            raise SystemExit(f"{ALLOW.relative_to(ROOT)}: mỗi mục cần page, word, reason (chuỗi) và count (số): {it}")
+    return items
+
+
+def apply_allow(findings: list[Finding], allow: list[dict]) -> list[Finding]:
+    groups: dict[tuple[str, str], list[Finding]] = {}
+    for f in findings:
+        if f.rule == "thuat-ngu-mo-ho":
+            groups.setdefault((f.page, f.found.lower()), []).append(f)
+    drop: set[int] = set()
+    extra: list[Finding] = []
+    rel = str(ALLOW.relative_to(ROOT))
+    for a in allow:
+        g = groups.get((a["page"], a["word"].lower()))
+        if not g:
+            extra.append(Finding(rel, 0, "", "mien-thua", f"{a['page']}: {a['word']}", "xóa mục miễn"))
+        elif len(g) != a["count"]:
+            extra.append(Finding(rel, 0, "", "mien-lech", f"{a['page']}: {a['word']} — {len(g)} chỗ, miễn ghi {a['count']}",
+                                 "xem lại các chỗ của từ này trong trang"))
+        else:
+            drop.update(id(f) for f in g)
+    return [f for f in findings if id(f) not in drop] + extra
+
+
 def collect():
+    return apply_allow(list(collect_raw()), load_allow())
+
+
+def collect_raw():
     policy = yaml.safe_load(POLICY.read_text(encoding="utf-8"))
     rules = compile_rules(policy)
     skip = set(policy["exceptions"]["pages"])

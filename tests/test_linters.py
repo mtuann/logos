@@ -103,6 +103,21 @@ class TestLintTerms(unittest.TestCase):
     def test_italic_and_quotes_skipped(self):
         self.assertEqual(self.hits('*Plato* và "ý chí tự do" và “luận cứ”.'), [])
 
+    def test_allow(self):
+        """Miễn theo (trang, từ, số chỗ) chỉ cho thuat-ngu-mo-ho; số chỗ đổi → mien-lech; mục thừa → mien-thua."""
+        F = lint_terms.Finding
+        fs = [F("a.md", 1, "", "thuat-ngu-mo-ho", "tinh thần", ""), F("a.md", 2, "", "thuat-ngu-mo-ho", "Tinh thần", ""),
+              F("a.md", 3, "", "thuat-ngu", "ý chí tự do", ""), F("b.md", 1, "", "thuat-ngu-mo-ho", "mệnh đề", "")]
+        ok = lint_terms.apply_allow(fs, [{"page": "a.md", "word": "tinh thần", "count": 2, "reason": "x"}])
+        self.assertEqual(sorted((f.page, f.rule) for f in ok), [("a.md", "thuat-ngu"), ("b.md", "thuat-ngu-mo-ho")])
+        lech = lint_terms.apply_allow(fs, [{"page": "a.md", "word": "tinh thần", "count": 1, "reason": "x"}])
+        self.assertIn("mien-lech", [f.rule for f in lech])
+        self.assertEqual(sum(f.rule == "thuat-ngu-mo-ho" for f in lech), 3)
+        thua = lint_terms.apply_allow(fs, [{"page": "c.md", "word": "hiểu biết", "count": 1, "reason": "x"}])
+        self.assertIn("mien-thua", [f.rule for f in thua])
+        cung = lint_terms.apply_allow(fs, [{"page": "a.md", "word": "ý chí tự do", "count": 1, "reason": "x"}])
+        self.assertIn(("a.md", "thuat-ngu"), [(f.page, f.rule) for f in cung])   # luật cứng không miễn được
+
 
 class TestLintVolatile(unittest.TestCase):
     def test_year_and_citation(self):
