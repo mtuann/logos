@@ -93,7 +93,7 @@ jobs:
         run: uv run --frozen python tools/lint_volatile.py --strict -q
       - name: Linter (chế độ cảnh báo, chưa chặn)
         run: |
-          for l in lint_terms lint_structure lint_facts lint_quotes; do
+          for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do
             uv run --frozen python tools/$l.py -q
           done
       - name: Đơn vị thay đổi (không chặn)

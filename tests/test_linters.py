@@ -1,4 +1,5 @@
-"""Linter đợt 1: terms_policy, lint_terms, lint_volatile, lint_structure và phần chung lz.lint.
+"""Linter: terms_policy, lint_terms, lint_volatile, lint_structure, lint_facts, lint_quotes, lint_so_lieu, lint_lien_ket
+và phần chung lz.lint.
 Chạy: python -m unittest discover -s tests"""
 
 import contextlib
@@ -14,7 +15,9 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 
 import lint_facts  # noqa: E402
+import lint_lien_ket  # noqa: E402
 import lint_quotes  # noqa: E402
+import lint_so_lieu  # noqa: E402
 import lint_structure  # noqa: E402
 import lint_terms  # noqa: E402
 import lint_volatile  # noqa: E402
@@ -220,6 +223,109 @@ class TestLintQuotes(unittest.TestCase):
         rules = {f.rule for f in lint_quotes.collect()}
         self.assertNotIn("khong-khop", rules)
         self.assertNotIn("mo-coi", rules)
+
+
+class TestLintSoLieu(unittest.TestCase):
+    KB = {"questions": [{"id": "tu-do-y-chi", "options": [
+        {"id": "tuong-thich-luan", "pct": 59.2, "pct_reject": None, "pct_exclusive": None},
+        {"id": "khac", "pct": 11.4, "pct_reject": 3.0, "pct_exclusive": None}]}]}
+    PAGE = """---
+title: T
+---
+
+# T
+
+!!! summary "Tóm tắt 5 phút"
+    - Đa số (59,2%) theo tương thích luận.
+
+Văn xuôi: 92% người dùng ứng dụng X hài lòng.
+
+## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
+
+Khoảng 61% chấp nhận; [[pp:tu-do-y-chi.khac]]% khác; tổng không bằng 100%.
+
+## Tự kiểm tra {#tu-kiem-tra}
+
+<div class="oz-quiz" data-id="t"><script type="application/json">
+[{"q": "Bao nhiêu?", "options": ["20%", "59,2%", "70%"], "answer": 1, "explain": "Khoảng 60%."}]
+</script></div>
+
+## Nguồn {#nguon}
+
+1. Số 59,2% ở đây không tính.
+"""
+
+    def test_kb_values_and_lookup(self):
+        kb = lint_so_lieu.kb_values(self.KB)
+        self.assertEqual(kb["59,2"], ["tu-do-y-chi.tuong-thich-luan"])
+        self.assertEqual(kb["3,0"], ["tu-do-y-chi.khac/bac-bo"])
+        self.assertEqual(lint_so_lieu.lookup("3", kb, set()), ["tu-do-y-chi.khac/bac-bo"])   # "3%" = "3,0"
+        self.assertEqual(lint_so_lieu.lookup("59", kb, set()), [])
+
+    def test_scan_page(self):
+        found = lint_so_lieu.scan_page("cau-hoi/t.md", self.PAGE, lint_so_lieu.kb_values(self.KB))
+        self.assertEqual(sorted((f.rule, f.found) for f in found),
+                         [("go-tay", "59,2%"), ("ngoai-kho", "61%"), ("quiz", "câu 1: 60%")])
+        go = next(f for f in found if f.rule == "go-tay")
+        self.assertIn("[[pp:tu-do-y-chi.tuong-thich-luan]]%", go.message)
+
+    def test_allow(self):
+        f = lint.Finding("cau-hoi/t.md", 3, "", "ngoai-kho", "61%", "")
+        q = lint.Finding("cau-hoi/t.md", 9, "", "quiz", "câu 1: 60%", "")
+        allow = [{"page": "cau-hoi/t.md", "text": "Khoảng 61% chấp nhận", "reason": "r"},
+                 {"page": "cau-hoi/t.md", "text": "câu 1: 60%", "reason": "r"},
+                 {"page": "cau-hoi/khac.md", "text": "x", "reason": "r"}]
+        kept = lint_so_lieu.apply_allow([f, q], allow, lambda x: "Khoảng 61% chấp nhận; …" if x.line == 3 else "<div>")
+        self.assertEqual([k.rule for k in kept], ["mien-thua"])
+
+    def test_repo_runs(self):
+        rules = {f.rule for f in lint_so_lieu.collect()}
+        self.assertLessEqual(rules, set(lint_so_lieu.RULES))
+        self.assertNotIn("mien-thua", rules)
+
+
+class TestLintLienKet(unittest.TestCase):
+    PEOPLE = {"kant": {"name": "Immanuel Kant", "name_en": "Immanuel Kant"},
+              "khong-tu": {"name": "Khổng Tử", "name_en": "Kongzi (Confucius)"},
+              "zeno": {"name": "Zeno xứ Citium", "name_en": "Zeno of Citium"},
+              "anselm": {"name": "Anselm xứ Canterbury", "name_en": "Anselm of Canterbury"}}
+    PAGE = """---
+title: T
+---
+
+# T
+
+Theo Kant, đạo đức là bổn phận; người *Kantian* không tính. Khổng Tử dạy nhân.
+
+## Nguồn {#nguon}
+
+1. Anselm, *Proslogion*.
+"""
+
+    def test_aliases(self):
+        a = lint_lien_ket.aliases(self.PEOPLE)
+        self.assertEqual(a["kant"], {"Immanuel Kant", "Kant"})
+        self.assertEqual(a["khong-tu"], {"Khổng Tử", "Kongzi"})
+        self.assertEqual(a["anselm"], {"Anselm xứ Canterbury", "Anselm of Canterbury", "Anselm"})
+        self.assertNotIn("zeno", a)
+
+    def test_scan_page(self):
+        names = lint_lien_ket.aliases(self.PEOPLE)
+        display = {k: v["name"] for k, v in self.PEOPLE.items()}
+        found = lint_lien_ket.scan_page("cau-hoi/t.md", self.PAGE, names, display)
+        self.assertEqual(sorted(f.found for f in found), ["Kant (kant)", "Khổng Tử (khong-tu)"])   # Nguồn không tính
+        kant = next(f for f in found if f.found.startswith("Kant"))
+        self.assertEqual((kant.line, kant.rule), (7, "thieu-link"))
+        self.assertIn("[Immanuel Kant](../triet-gia/kant.md)", kant.message)
+        linked = self.PAGE.replace("Theo Kant", "Theo [Kant](../triet-gia/kant.md)")
+        self.assertEqual([f.found for f in lint_lien_ket.scan_page("cau-hoi/t.md", linked, names, display)],
+                         ["Khổng Tử (khong-tu)"])
+
+    def test_repo_runs(self):
+        rules = {f.rule for f in lint_lien_ket.collect()}
+        self.assertLessEqual(rules, set(lint_lien_ket.RULES))
+        self.assertNotIn("mien-thua", rules)
+
 
 if __name__ == "__main__":
     unittest.main()

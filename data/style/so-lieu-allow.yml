@@ -1,0 +1,7 @@
+# Miễn cho tools/lint_so_lieu.py: số % trong ngữ cảnh khảo sát cố ý không đọc từ data/kb/philpapers-2020.json
+# (số liệu khác PhilPapers, so sánh làm tròn nói rõ là làm tròn…). Mỗi mục:
+#   page: đường dẫn trong docs/
+#   text: một đoạn của dòng chứa số (với quiz: đúng chữ "câu N: số%" như báo cáo của linter in)
+#   reason: lý do
+# Mục không còn khớp chỗ nào thì linter báo `mien-thua`.
+[]
