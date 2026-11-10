@@ -1,6 +1,6 @@
 {
   "unit": "quotes/immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli",
-  "hash": "sha256:6b5d6a6e12821e38aea2d67aa5d2c70292b41b5c45b00f5b3c037fca70700216",
+  "hash": "sha256:9ece4254f8bd08436da15983c4e805b5b4b6e64ce7578f199a2c48f459485dea",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r04",
   "claims": [
@@ -61,7 +61,8 @@
           "quote": "Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale",
           "where": "AA VIII, S. 426, Z. 14"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
@@ -76,5 +77,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): bản Abbott 1889 (Fourth Edition) đọc ở Internet Archive critiquepractic00kantuoft; chữ khớp bản ghi (OCR có 'false state ment' do ngắt dòng, và dấu chú thích '1' sau 'everyone'). Đề xuất link ổn định: https://archive.org/details/critiquepractic00kantuoft thay cho PDF blogs.ubc.ca. Locator Ak 8:426 xác nhận ở korpora.org (câu Đức nằm tr. 426, dòng 14-24); claim 'sai nhe' chỉ nhắc điền trường locator."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): bản Abbott 1889 (Fourth Edition) đọc ở Internet Archive critiquepractic00kantuoft; chữ khớp bản ghi (OCR có 'false state ment' do ngắt dòng, và dấu chú thích '1' sau 'everyone'). Đề xuất link ổn định: https://archive.org/details/critiquepractic00kantuoft thay cho PDF blogs.ubc.ca. Locator Ak 8:426 xác nhận ở korpora.org (câu Đức nằm tr. 426, dòng 14-24); claim 'sai nhe' chỉ nhắc điền trường locator. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"Ak 8:426, dòng 14–24\", `work` = chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

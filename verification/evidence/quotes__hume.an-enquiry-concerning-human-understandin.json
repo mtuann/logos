@@ -1,6 +1,6 @@
 {
   "unit": "quotes/hume.an-enquiry-concerning-human-understandin",
-  "hash": "sha256:b578ddc8005b116d2c4dd4ac553ce1a07ceb19111b8773e64e8b172437bee061",
+  "hash": "sha256:a8dd97b114c04e47a00f29a240cc7b25549a5f6fcd843c7082b7830d64157d76",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-q05",
   "claims": [
@@ -64,7 +64,8 @@
           "quote": "But to proceed in this reconciling project with regard to the question of liberty and necessity;",
           "where": "E 8.23, SBN 95"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
@@ -80,5 +81,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Chưa mở bản Gutenberg (#9662 bị cắt trước mục VIII). Chưa kiểm số '73' ở bản in nào; đề nghị người làm nêu rõ ấn bản nếu giữ."
+  "notes": "Chưa mở bản Gutenberg (#9662 bị cắt trước mục VIII). Chưa kiểm số '73' ở bản in nào; đề nghị người làm nêu rõ ấn bản nếu giữ. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"EHU 8.23 (SBN 95)\", `work` = hume.an-enquiry-concerning-human-understanding theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

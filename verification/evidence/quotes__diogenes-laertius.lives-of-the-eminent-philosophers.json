@@ -1,6 +1,6 @@
 {
   "unit": "quotes/diogenes-laertius.lives-of-the-eminent-philosophers",
-  "hash": "sha256:365bfbcc95c06c09501b3568e02193ce2464c5135947346554ce9957419b477f",
+  "hash": "sha256:0dbaf65188f47bd689aaa2b51aad822440a3497af7bc40a0b46d02cada9854d4",
   "checked_on": "2026-11-09",
   "checker": "agent-kiem-5.2-q02",
   "claims": [
@@ -71,5 +71,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Đối chiếu bằng bản TEI của Perseus Digital Library (bản chép bản Loeb 1925 của Hicks) trên GitHub PerseusDL/canonical-greekLit; khớp từng chữ. URL trong bản ghi (en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII) không mở được trong phiên này (WebFetch báo url_not_found, proxy chặn Wikisource) nên chưa xác nhận link; kết quả tìm kiếm cho thấy trang anh em …/Book_X có trên Wikisource. Đề xuất: locator \"VII.87\"; trường license có thể đổi thành public-domain."
+  "notes": "Đối chiếu bằng bản TEI của Perseus Digital Library (bản chép bản Loeb 1925 của Hicks) trên GitHub PerseusDL/canonical-greekLit; khớp từng chữ. URL trong bản ghi (en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII) không mở được trong phiên này (WebFetch báo url_not_found, proxy chặn Wikisource) nên chưa xác nhận link; kết quả tìm kiếm cho thấy trang anh em …/Book_X có trên Wikisource. Đề xuất: locator \"VII.87\"; trường license có thể đổi thành public-domain. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"VII.87\", `work_note` = \"tác phẩm chưa có bản ghi (đợt 7)\" theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

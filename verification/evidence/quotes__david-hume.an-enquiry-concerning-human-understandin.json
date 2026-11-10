@@ -1,6 +1,6 @@
 {
   "unit": "quotes/david-hume.an-enquiry-concerning-human-understandin",
-  "hash": "sha256:8fa38ab4bc48a434db68287b5649a18f1fdb0c86a6650389fff881b7d70bd7fc",
+  "hash": "sha256:cd7f82a78f7be8eff0110706ccc49badeed670850145ff3312caf3731785d96b",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-q05",
   "claims": [
@@ -59,7 +59,8 @@
           "quote": "When any one tells me, that he saw a dead man restored to life,",
           "where": "E 10.13"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch/lược dịch sát ý",
@@ -75,5 +76,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Lược dịch phần minh họa dựa trên tóm tắt của trang (công cụ đọc không cho chép nguyên cả câu 'weigh the one miracle against the other'); sát ý. Chưa mở bản Gutenberg."
+  "notes": "Lược dịch phần minh họa dựa trên tóm tắt của trang (công cụ đọc không cho chép nguyên cả câu 'weigh the one miracle against the other'); sát ý. Chưa mở bản Gutenberg. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"EHU 10.13 (SBN 115–6)\", `work` = hume.an-enquiry-concerning-human-understanding theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

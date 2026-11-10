@@ -1,6 +1,6 @@
 {
   "unit": "quotes/locke.an-essay-concerning-human-understanding",
-  "hash": "sha256:5311b5c679a05b22af338c44fb202f09872b3c88f87fd33e165e042495894cea",
+  "hash": "sha256:e442b5752cfc1d29478b6591fa9f8d9f1814d989fd8535ac68f303c9a4455500",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-q07",
   "claims": [
@@ -52,7 +52,8 @@
           "quote": "in this alone consists personal identity",
           "where": "Section 9"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch tiếng Việt (bản dịch của Logos) sát nghĩa nguyên văn",
@@ -67,5 +68,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Công cụ giới hạn độ dài quote nên đối chiếu theo từng đoạn ngắn; đoạn dùng dấu ba chấm ở giữa (đã lược) nên khớp từng vế. Trang yorku.ca (Blogan) là bản chép trên trang giảng viên, nguồn khá yếu; đề xuất đối chiếu thêm Gutenberg #10615 (Essay, vol. 1) hoặc bản Fraser. Bản Gutenberg ghi 'Humane'; chính tả cổ khác nhau. Năm 1689/1694 trong tiêu đề chưa kiểm riêng."
+  "notes": "Công cụ giới hạn độ dài quote nên đối chiếu theo từng đoạn ngắn; đoạn dùng dấu ba chấm ở giữa (đã lược) nên khớp từng vế. Trang yorku.ca (Blogan) là bản chép trên trang giảng viên, nguồn khá yếu; đề xuất đối chiếu thêm Gutenberg #10615 (Essay, vol. 1) hoặc bản Fraser. Bản Gutenberg ghi 'Humane'; chính tả cổ khác nhau. Năm 1689/1694 trong tiêu đề chưa kiểm riêng. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"II.xxvii.9\", `work` = locke.an-essay-concerning-human-understanding theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

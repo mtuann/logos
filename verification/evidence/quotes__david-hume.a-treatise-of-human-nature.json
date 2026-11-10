@@ -1,6 +1,6 @@
 {
   "unit": "quotes/david-hume.a-treatise-of-human-nature",
-  "hash": "sha256:ec45059d2f7cf90f6c177a540d8eb1d74a53f35e74e58d467fc92caa175be16d",
+  "hash": "sha256:005513fcb7ad4f1f49837fe1f0dfc1276f29cfc0e6ee8ce2d54f792f9615d725",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-q05",
   "claims": [
@@ -59,7 +59,8 @@
           "quote": "I have always remark'd, that the author proceeds for some time in the ordinary way of reasoning,",
           "where": "T 3.1.1.27, SBN 469-70"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
@@ -75,5 +76,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Không mở được bản Project Gutenberg (tệp quá dài, công cụ cắt phần đầu), nên đối chiếu bằng Hume Texts Online (cùng văn bản, chính tả cũ). Tiêu đề nói 'bản Project Gutenberg': nên đối chiếu lại hoặc đổi sang davidhume.org (nguồn đã mở). Năm 1740 của quyển 3 không kiểm riêng."
+  "notes": "Không mở được bản Project Gutenberg (tệp quá dài, công cụ cắt phần đầu), nên đối chiếu bằng Hume Texts Online (cùng văn bản, chính tả cũ). Tiêu đề nói 'bản Project Gutenberg': nên đối chiếu lại hoặc đổi sang davidhume.org (nguồn đã mở). Năm 1740 của quyển 3 không kiểm riêng. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"T 3.1.1.27 (SBN 469–70)\", `work` = hume.a-treatise-of-human-nature theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }
