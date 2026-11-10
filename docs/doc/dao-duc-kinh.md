@@ -25,7 +25,7 @@ Thời Xuân Thu – Chiến Quốc, các nước đánh nhau liên miên; Nho g
 
 ### 1. Đạo nói ra được thì không phải Đạo thường hằng (chương 1)
 
-!!! quote "Đạo đức kinh, chương 1 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 1 — nguyên văn, phiên âm, bản dịch của Logos"
     道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。
 
     *Đạo khả đạo, phi thường Đạo. Danh khả danh, phi thường danh. Vô danh thiên địa chi thủy; hữu danh vạn vật chi mẫu.*
@@ -38,7 +38,7 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
 ### 2. Đẹp và xấu sinh ra nhau (chương 2)
 
-!!! quote "Đạo đức kinh, chương 2 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 2 — nguyên văn, phiên âm, bản dịch của Logos"
     天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，……是以聖人處無為之事，行不言之教。
 
     *Thiên hạ giai tri mỹ chi vi mỹ, tư ác dĩ. Giai tri thiện chi vi thiện, tư bất thiện dĩ. Cố hữu vô tương sinh, nan dị tương thành, trường đoản tương giảo, cao hạ tương khuynh, … Thị dĩ thánh nhân xử vô vi chi sự, hành bất ngôn chi giáo.*
@@ -51,7 +51,7 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
 ### 3. Nước (chương 8 và 78)
 
-!!! quote "Đạo đức kinh, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos"
     上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。……夫唯不爭，故無尤。（第八章）
 
     天下莫柔弱於水，而攻堅強者莫之能勝。（第七十八章）
@@ -68,7 +68,7 @@ Hai chương nói hai điều khác nhau về nước. Chương 8 nói về *ph�
 
 ### 4. Cái trống rỗng mới dùng được (chương 11)
 
-!!! quote "Đạo đức kinh, chương 11 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 11 — nguyên văn, phiên âm, bản dịch của Logos"
     三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。
 
     *Tam thập bức, cộng nhất cốc, đương kỳ vô, hữu xa chi dụng. Duyên thực dĩ vi khí, đương kỳ vô, hữu khí chi dụng. Tạc hộ dũ dĩ vi thất, đương kỳ vô, hữu thất chi dụng. Cố hữu chi dĩ vi lợi, vô chi dĩ vi dụng.*
@@ -81,7 +81,7 @@ Ba ví dụ đời thường cùng một cấu trúc. Câu kết không nói "c�
 
 ### 5. Biết đủ (chương 44)
 
-!!! quote "Đạo đức kinh, chương 44 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 44 — nguyên văn, phiên âm, bản dịch của Logos"
     名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。
 
     *Danh dữ thân thục thân? Thân dữ hóa thục đa? Đắc dữ vong thục bệnh? Thị cố thậm ái tất đại phí; đa tàng tất hậu vong. Tri túc bất nhục, tri chỉ bất đãi, khả dĩ trường cửu.*

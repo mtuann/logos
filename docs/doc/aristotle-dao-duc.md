@@ -29,7 +29,7 @@ Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng
 
 **Đoạn 1 — Mọi thứ đều hướng tới một cái tốt (I.1–2, 1094a1–22).** Nghề y nhắm sức khỏe, nghề đóng tàu nhắm con tàu. Các mục đích xếp thành chuỗi: làm yên cương để cưỡi ngựa, cưỡi ngựa để đánh trận...
 
-!!! quote "Đạo đức Nicomachus I.2, 1094a18–22 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* I.2, 1094a18–22 — bản dịch W. D. Ross (1925)"
     "If, then, there is some end of the things we do, which we desire for its own sake (everything else being desired for the sake of this), and if we do not choose everything for the sake of something else (for at that rate the process would go on to infinity, so that our desire would be empty and vain), clearly this must be the good and the chief good."
 
     "Vậy nếu trong những việc ta làm có một mục đích ta mong muốn vì chính nó (mọi thứ khác được mong muốn vì nó), và nếu ta không chọn mọi thứ vì một thứ khác (vì như thế quá trình sẽ kéo dài vô tận, khiến ham muốn của ta trống rỗng và vô ích), thì rõ ràng đó phải là điều tốt, điều tốt cao nhất." *(bản dịch của Logos)*
@@ -38,7 +38,7 @@ Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng
 
 **Đoạn 2 — Hạnh phúc là hoạt động (I.7, 1097b22–1098a20).** *Eudaimonia* thường dịch là "hạnh phúc", nhưng Aristotle không nói về cảm giác vui. Ông lập luận bằng **chức năng** (*ergon*): người thổi sáo, thợ mộc, con mắt đều có chức năng; lẽ nào con người lại không? Sống thì cây cỏ cũng sống, cảm giác thì ngựa, bò cũng có; cái riêng của con người là hoạt động theo lý trí.
 
-!!! quote "Đạo đức Nicomachus I.7, 1098a16–20 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* I.7, 1098a16–20 — bản dịch W. D. Ross (1925)"
     "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy."
 
     "điều tốt cho con người hóa ra là hoạt động của linh hồn theo đức hạnh, và nếu có nhiều đức hạnh thì theo đức hạnh tốt nhất, trọn vẹn nhất. Nhưng phải thêm: 'trong trọn một đời'. Vì một con én không làm nên mùa xuân, một ngày cũng vậy; một ngày hay một thời gian ngắn cũng không làm cho ai được phúc và hạnh phúc." *(bản dịch của Logos)*
@@ -49,7 +49,7 @@ Ross viết "summer" theo thành ngữ tiếng Anh; nguyên văn Hy Lạp là *e
 
 **Đoạn 3 — Đức hạnh do thói quen mà thành (II.1–4, 1103a14–1105b18).** Đức hạnh trí tuệ chủ yếu do dạy dỗ; đức hạnh đạo đức do thói quen, nên tên của nó (*ethike*) bắt nguồn từ chữ thói quen (*ethos*). Nó không có sẵn từ tự nhiên, cũng không trái tự nhiên: ta có khả năng tiếp nhận, và hoàn thiện nó bằng thói quen (1103a23–26). Như người ta thành thợ xây nhờ xây nhà, ta thành người công bằng nhờ làm việc công bằng (1103a33–b2). Nhưng nếu vậy, người đang làm việc công bằng chẳng phải đã công bằng rồi sao (1105a17–21)? Aristotle đáp:
 
-!!! quote "Đạo đức Nicomachus II.4, 1105a30–34 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* II.4, 1105a30–34 — bản dịch W. D. Ross (1925)"
     "in the first place he must have knowledge, secondly he must choose the acts, and choose them for their own sakes, and thirdly his action must proceed from a firm and unchangeable character."
 
     "trước hết người ấy phải biết mình đang làm gì; thứ hai, phải chọn hành động ấy, và chọn nó vì chính nó; thứ ba, hành động phải xuất phát từ một tính cách vững vàng, không lay chuyển." *(bản dịch của Logos)*
@@ -60,7 +60,7 @@ Làm việc *giống* người công bằng chưa đủ; phải làm *như* ngư
 
 **Đoạn 4 — Trung dung (II.6–9, 1106a26–1109b26).** Mười cân thức ăn là nhiều, hai cân là ít, nhưng huấn luyện viên không vì thế mà cho ai cũng ăn sáu cân: quá ít với đô vật Milo, quá nhiều với người mới tập (1106a36–b4). Đúng mức là "đối với ta".
 
-!!! quote "Đạo đức Nicomachus II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)"
     "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it."
 
     "Vậy đức hạnh là một phẩm tính liên quan đến sự lựa chọn, nằm ở trung dung, tức trung dung đối với ta, được xác định bằng lý trí, theo cách mà người có minh triết thực hành sẽ xác định." *(bản dịch của Logos)*

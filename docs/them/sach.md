@@ -15344,7 +15344,7 @@ Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Pelo
 
 **Đoạn 1 — Lời sấm ở Delphi (20e–23c).** Chaerephon, bạn của Socrates, đến đền Delphi hỏi có ai khôn ngoan hơn Socrates không. Nữ tư tế đáp: không ai cả (21a). Socrates bối rối: ông tự biết mình chẳng khôn ngoan gì, mà thần thì không thể nói dối (21b). Ông bèn đi tìm một người khôn hơn mình để "bác" lời sấm. Hỏi chuyện một chính trị gia xong, ông tự nhủ:
 
-!!! quote "Biện hộ, 21d — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 21d — bản dịch Benjamin Jowett"
     "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know."
 
     "Ừ thì, tuy tôi không cho rằng ai trong hai chúng tôi biết điều gì thật sự đẹp và tốt, tôi vẫn hơn ông ta: ông ta chẳng biết gì mà tưởng mình biết; còn tôi không biết, và cũng không tưởng mình biết." *(bản dịch của Logos)*
@@ -15355,7 +15355,7 @@ Thi sĩ và thợ thủ công cũng vậy. Thợ thủ công biết thật nhi�
 
 **Đoạn 2 — Không bỏ vị trí (28b–31a).** Người lính không rời vị trí vì sợ chết; Socrates cũng không bỏ việc thần giao (28d–29a). Rồi ông lật ngược nỗi sợ:
 
-!!! quote "Biện hộ, 29a–b — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 29a–b — bản dịch Benjamin Jowett"
     "For the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown; […] but I do know that injustice and disobedience to a better, whether God or man, is evil and dishonourable"
 
     "Bởi sợ chết thật ra là làm ra vẻ khôn ngoan chứ không phải khôn ngoan thật, là làm ra vẻ biết điều mình không biết; […] nhưng tôi biết rằng làm điều bất chính và bất tuân người tốt hơn mình, dù là thần hay người, là xấu xa và đáng hổ thẹn." *(bản dịch của Logos)*
@@ -15366,7 +15366,7 @@ Giả sử tòa tha cho ông với điều kiện thôi hỏi han, ông sẽ đ�
 
 **Đoạn 3 — Câu nói nổi tiếng nhất (37e–38a).** Socrates bị tuyên có tội; chỉ cần ba mươi phiếu đổi bên là ông được tha (36a). Ở phần nghị hình phạt, ông tự nêu câu hỏi mà người nghe hẳn đang nghĩ: sao không im lặng, sang thành khác mà sống yên (37e)? Ông đáp:
 
-!!! quote "Biện hộ, 38a — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 38a — bản dịch Benjamin Jowett"
     "...daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living..."
 
     "...mỗi ngày bàn luận về đức hạnh và những điều khác mà các vị vẫn nghe tôi đem chính mình và người khác ra xét hỏi, là điều tốt đẹp nhất cho con người, và một cuộc đời không được xét lại thì không đáng sống..." *(bản dịch của Logos)*
@@ -15375,7 +15375,7 @@ Nguyên văn Hy Lạp gọn hơn: *ho de anexetastos bios ou biōtos anthrōpōi
 
 **Đoạn 4 — Về cái chết (40c–42a).** Sau khi bị tuyên án tử, Socrates nói với những người đã bỏ phiếu tha mình:
 
-!!! quote "Biện hộ, 40c — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 40c — bản dịch Benjamin Jowett"
     "Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
 
     "Ta hãy nghĩ theo cách khác, sẽ thấy có nhiều lý do để hy vọng cái chết là điều tốt: vì nó chỉ có thể là một trong hai điều, hoặc chết là hư không, hoàn toàn không còn cảm giác, hoặc như người ta nói, đó là một cuộc đổi chỗ, linh hồn dời từ thế giới này sang thế giới khác." *(bản dịch của Logos)*
@@ -15480,7 +15480,7 @@ Vậy triết gia biết gì mà người khác không biết? Platon trả lờ
 
 **Đoạn 1 — Tù nhân và cái bóng (514a–515c).** Những người bị xích chân và cổ từ nhỏ, chỉ nhìn được vào vách hang. Sau lưng họ có ngọn lửa; giữa lửa và họ, có người mang qua lại những tượng người, tượng thú bằng gỗ, bằng đá. Thứ tù nhân thấy là bóng của *những hình nộm* ấy.
 
-!!! quote "Cộng hòa, 515a và 515c — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 515a và 515c — bản dịch Benjamin Jowett"
     "Like ourselves, I replied; and they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave?"
 
     "To them, I said, the truth would be literally nothing but the shadows of the images."
@@ -15495,7 +15495,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 **Đoạn 2 — Đi lên (515c–516c).** Một tù nhân được cởi trói và *bị buộc* quay lại nhìn lửa: chói mắt, đau đớn, anh ta muốn quay về với những cái bóng quen thuộc. Rồi anh bị lôi lên một con dốc gồ ghề, ra ngoài ánh sáng (515e). Anh phải tập nhìn từng bậc: bóng, rồi ảnh phản chiếu dưới nước, rồi chính sự vật, rồi trăng sao ban đêm.
 
-!!! quote "Cộng hòa, 516b — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 516b — bản dịch Benjamin Jowett"
     "Last of all he will be able to see the sun, and not mere reflections of him in the water, but he will see him in his own proper place, and not in another; and he will contemplate him as he is."
 
     "Sau cùng, anh ta sẽ nhìn được mặt trời, không phải bóng của nó dưới nước, mà chính nó, ở đúng chỗ của nó, và ngắm nó đúng như nó là." *(bản dịch của Logos)*
@@ -15504,7 +15504,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 **Đoạn 3 — Người quay về (516c–517a).** Nhớ lại bạn tù, người đã ra ngoài thấy thương họ. Anh quay xuống hang, nhưng mắt chưa quen bóng tối, đoán bóng thua cả những người chưa từng rời chỗ.
 
-!!! quote "Cộng hòa, 517a — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 517a — bản dịch Benjamin Jowett"
     "Men would say of him that up he went and down he came without his eyes; and that it was better not even to think of ascending; and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death."
 
     "Người ta sẽ bảo anh ta lên trên ấy rồi trở về mù cả mắt, và tốt hơn hết đừng nghĩ đến chuyện đi lên; còn kẻ nào định cởi trói cho người khác và dẫn họ lên chỗ sáng, cứ để họ bắt được, họ sẽ giết hắn." *(bản dịch của Logos)*
@@ -15513,7 +15513,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 **Đoạn 4 — Platon tự giải thích (517b–520d).** Ngay sau đó, nhân vật Socrates nói rõ: nhà tù là thế giới của thị giác, ánh lửa là mặt trời, cuộc đi lên là hành trình của linh hồn vào thế giới trí tuệ (517b). Rồi ông rút ra hai bài học, về giáo dục và về chính trị.
 
-!!! quote "Cộng hòa, 518b–c và 520c — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 518b–c và 520c — bản dịch Benjamin Jowett"
     "...certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before, like sight into blind eyes."
 
     "Wherefore each of you, when his turn comes, must go down to the general underground abode, and get the habit of seeing in the dark."
@@ -15620,7 +15620,7 @@ Epictetus sinh khoảng những năm 50 ở Hierapolis (Tiểu Á), có thời l
 
 **Đoạn 1 — Phân loại đầu tiên (§1).** Câu mở đầu nổi tiếng:
 
-!!! quote "Cẩm nang §1 — bản dịch George Long (1877)"
+!!! quote "*Cẩm nang* §1 — bản dịch George Long (1877)"
     "Of things some are in our power, and others are not. […] Not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts."
 
     "Trong mọi sự, có những điều tùy thuộc vào ta, và có những điều không. […] Không tùy thuộc vào ta là thân thể, tài sản, danh tiếng, chức vụ, và nói gọn, mọi thứ không phải là hành vi của chính ta." *(bản dịch của Logos)*
@@ -15631,7 +15631,7 @@ Tùy thuộc vào ta là phán đoán, thôi thúc hành động, mong muốn, �
 
 **Đoạn 2 — Không phải sự việc, mà là ý kiến (§5).**
 
-!!! quote "Cẩm nang §5 — bản dịch George Long (1877)"
+!!! quote "*Cẩm nang* §5 — bản dịch George Long (1877)"
     "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing."
 
     "Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp." *(bản dịch của Logos)*
@@ -15642,7 +15642,7 @@ Bằng chứng Epictetus đưa ra là một con người: [Socrates](../triet-gi
 
 **Đoạn 3 — Muốn mọi sự như nó xảy ra (§8).**
 
-!!! quote "Cẩm nang §8 — bản dịch George Long (1877)"
+!!! quote "*Cẩm nang* §8 — bản dịch George Long (1877)"
     "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life."
 
     "Đừng đòi những gì xảy ra phải xảy ra như ý bạn; hãy muốn những gì xảy ra đúng như chúng đang xảy ra, và đời bạn sẽ trôi êm ả." *(bản dịch của Logos)*
@@ -15651,7 +15651,7 @@ Bằng chứng Epictetus đưa ra là một con người: [Socrates](../triet-gi
 
 **Đoạn 4 — Cái bình đất và đứa con (§3).** Đoạn khó nghe nhất của cuốn sách:
 
-!!! quote "Cẩm nang §3 — bản dịch George Long (1877)"
+!!! quote "*Cẩm nang* §3 — bản dịch George Long (1877)"
     "If you love an earthen vessel, say it is an earthen vessel which you love; for when it has been broken you will not be disturbed. If you are kissing your child or wife, say that it is a human being whom you are kissing, for when the wife or child dies you will not be disturbed."
 
     "Nếu bạn yêu một cái bình đất, hãy nói: tôi yêu một cái bình đất; vì khi nó vỡ, bạn sẽ không bị xáo trộn. Nếu bạn hôn con hay vợ mình, hãy nói: tôi đang hôn một con người; vì khi vợ hay con mất, bạn sẽ không bị xáo trộn." *(bản dịch của Logos)*
@@ -15662,7 +15662,7 @@ Epictetus không bảo đừng yêu, mà bảo khi yêu, hãy nhớ bản chất
 
 **Đoạn 5 — Thước đo tiến bộ (§48).**
 
-!!! quote "Cẩm nang §48 — bản dịch George Long (1877)"
+!!! quote "*Cẩm nang* §48 — bản dịch George Long (1877)"
     "The signs (marks) of one who is making progress are these: he censures no man, he praises no man, he blames no man, he accuses no man, he says nothing about himself as if he were somebody or knew something"
 
     "Dấu hiệu của người đang tiến bộ là: không chỉ trích ai, không tâng bốc ai, không trách ai, không buộc tội ai, không nói gì về mình như thể mình là nhân vật quan trọng hay biết điều gì đó." *(bản dịch của Logos)*
@@ -15763,7 +15763,7 @@ Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*)
 
 **Đoạn 1 — Dỡ nền móng (Suy niệm I, §1–4; AT 7:17–19).** Từ nhỏ ông đã nhận nhiều điều sai làm đúng, nên một lần trong đời phải dỡ hết để xây lại từ móng (§1). Không cần chứng minh từng niềm tin là sai; móng đổ thì cả tòa nhà đổ (§2).
 
-!!! quote "Suy niệm I, §3 (AT 7:18) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* I, §3 (AT 7:18) — bản dịch John Veitch (1853)"
     "All that I have, up to this moment, accepted as possessed of the highest truth and certainty, I received either from or through the senses. I observed, however, that these sometimes misled us; and it is the part of prudence not to place absolute confidence in that by which we have even once been deceived."
 
     "Mọi điều mà cho tới lúc này tôi coi là chân thật và chắc chắn nhất, tôi đều nhận từ giác quan hay qua giác quan. Nhưng tôi nhận thấy giác quan đôi khi đánh lừa ta; và khôn ngoan là đừng tin tuyệt đối vào thứ đã từng lừa ta dù chỉ một lần." *(bản dịch của Logos)*
@@ -15774,7 +15774,7 @@ Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*)
 
 **Đoạn 2 — Giấc mơ (§5–8; AT 7:19–20).** Nhưng ông là người, mà người thì ngủ và mơ. Bao lần ông mơ thấy mình ngồi bên lò sưởi trong khi đang nằm trên giường.
 
-!!! quote "Suy niệm I, §5 và §8 (AT 7:19–20) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* I, §5 và §8 (AT 7:19–20) — bản dịch John Veitch (1853)"
     "I perceive so clearly that there exist no certain marks by which the state of waking can ever be distinguished from sleep, that I feel greatly astonished; and in amazement I almost persuade myself that I am now dreaming."
 
     "for whether I am awake or dreaming, it remains true that two and three make five, and that a square has but four sides"
@@ -15789,7 +15789,7 @@ Giấc mơ làm lung lay mọi niềm tin về sự vật cụ thể, nhưng ch�
 
 **Đoạn 3 — Ác thần (§9–12; AT 7:21–23).** Để với tới cả toán học, Descartes đẩy xa hơn: nếu một Thượng đế toàn năng tạo ra tôi, biết đâu ngài để tôi sai ngay cả khi cộng hai với ba (§9)? Rồi ông đổi giả thuyết:
 
-!!! quote "Suy niệm I, §12 (AT 7:22) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* I, §12 (AT 7:22) — bản dịch John Veitch (1853)"
     "I will suppose, then, not that Deity, who is sovereignly good and the fountain of truth, but that some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me"
 
     "Vậy tôi sẽ giả định, không phải Thượng đế, đấng chí thiện và là nguồn của chân lý, mà là một ác thần nào đó, vừa cực kỳ quyền năng vừa xảo trá, đã dùng mọi mưu mẹo để lừa tôi" *(bản dịch của Logos)*
@@ -15800,7 +15800,7 @@ Descartes không tin có con quỷ thật: đây là thí nghiệm tư duy để
 
 **Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27).** Archimedes chỉ đòi một điểm tựa vững để nâng trái đất; Descartes chỉ cần một điều chắc chắn (§1). Và điểm tựa xuất hiện:
 
-!!! quote "Suy niệm II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
     "Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may, he can never bring it about that I am nothing, so long as I shall be conscious that I am something. So that it must, in fine, be maintained, all things being maturely and carefully considered, that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind."
 
     "Vậy chắc chắn tôi hiện hữu, vì tôi bị lừa; và cứ để nó lừa tôi tùy ý, nó cũng không bao giờ làm được cho tôi thành hư không, chừng nào tôi còn ý thức rằng tôi là một cái gì đó. Cho nên, sau khi cân nhắc kỹ mọi điều, phải khẳng định rằng mệnh đề *tôi là, tôi hiện hữu* tất yếu đúng mỗi lần tôi nói ra hay nghĩ đến nó." *(bản dịch của Logos)*
@@ -15809,7 +15809,7 @@ Chú ý chữ "mỗi lần": điều này chắc chắn chừng nào tôi còn n
 
 **Đoạn 5 — Cục sáp (§11–16; AT 7:30–34).** Một cục sáp mới lấy khỏi tổ ong: còn vị mật, mùi hoa, có màu, hình dạng, cứng, lạnh, gõ thì kêu. Đặt gần lửa: vị bay, mùi tan, màu đổi, nó chảy ra, nóng lên, gõ không kêu nữa. Có còn là cục sáp cũ không?
 
-!!! quote "Suy niệm II, §11 và §16 (AT 7:30, 34) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* II, §11 và §16 (AT 7:30, 34) — bản dịch John Veitch (1853)"
     "It must be admitted that it does remain; no one doubts it, or judges otherwise."
 
     "I readily discover that there is nothing more easily or clearly apprehended than my own mind."
@@ -16616,7 +16616,7 @@ Thời Xuân Thu – Chiến Quốc, các nước đánh nhau liên miên; Nho g
 
 ### 1. Đạo nói ra được thì không phải Đạo thường hằng (chương 1)
 
-!!! quote "Đạo đức kinh, chương 1 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 1 — nguyên văn, phiên âm, bản dịch của Logos"
     道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。
 
     *Đạo khả đạo, phi thường Đạo. Danh khả danh, phi thường danh. Vô danh thiên địa chi thủy; hữu danh vạn vật chi mẫu.*
@@ -16629,7 +16629,7 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
 ### 2. Đẹp và xấu sinh ra nhau (chương 2)
 
-!!! quote "Đạo đức kinh, chương 2 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 2 — nguyên văn, phiên âm, bản dịch của Logos"
     天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，……是以聖人處無為之事，行不言之教。
 
     *Thiên hạ giai tri mỹ chi vi mỹ, tư ác dĩ. Giai tri thiện chi vi thiện, tư bất thiện dĩ. Cố hữu vô tương sinh, nan dị tương thành, trường đoản tương giảo, cao hạ tương khuynh, … Thị dĩ thánh nhân xử vô vi chi sự, hành bất ngôn chi giáo.*
@@ -16642,7 +16642,7 @@ Chữ 道 thứ hai là động từ. Phần đông người chú giải hiểu 
 
 ### 3. Nước (chương 8 và 78)
 
-!!! quote "Đạo đức kinh, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos"
     上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。……夫唯不爭，故無尤。（第八章）
 
     天下莫柔弱於水，而攻堅強者莫之能勝。（第七十八章）
@@ -16659,7 +16659,7 @@ Hai chương nói hai điều khác nhau về nước. Chương 8 nói về *ph�
 
 ### 4. Cái trống rỗng mới dùng được (chương 11)
 
-!!! quote "Đạo đức kinh, chương 11 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 11 — nguyên văn, phiên âm, bản dịch của Logos"
     三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。
 
     *Tam thập bức, cộng nhất cốc, đương kỳ vô, hữu xa chi dụng. Duyên thực dĩ vi khí, đương kỳ vô, hữu khí chi dụng. Tạc hộ dũ dĩ vi thất, đương kỳ vô, hữu thất chi dụng. Cố hữu chi dĩ vi lợi, vô chi dĩ vi dụng.*
@@ -16672,7 +16672,7 @@ Ba ví dụ đời thường cùng một cấu trúc. Câu kết không nói "c�
 
 ### 5. Biết đủ (chương 44)
 
-!!! quote "Đạo đức kinh, chương 44 — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Đạo đức kinh*, chương 44 — nguyên văn, phiên âm, bản dịch của Logos"
     名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。
 
     *Danh dữ thân thục thân? Thân dữ hóa thục đa? Đắc dữ vong thục bệnh? Thị cố thậm ái tất đại phí; đa tàng tất hậu vong. Tri túc bất nhục, tri chỉ bất đãi, khả dĩ trường cửu.*
@@ -16772,7 +16772,7 @@ Tên thiên *Tề vật luận* có thể đọc hai cách: "bàn về sự ngan
 
 Trước đoạn con bướm, nhân vật Trường Ngô Tử nói với Cù Thước Tử về giấc mơ:
 
-!!! quote "Trang Tử, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Trang Tử*, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos"
     方其夢也，不知其夢也。夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。……丘也，與女皆夢也；予謂女夢，亦夢也。
 
     *Phương kỳ mộng dã, bất tri kỳ mộng dã. Mộng chi trung hựu chiêm kỳ mộng yên, giác nhi hậu tri kỳ mộng dã. Thả hữu đại giác nhi hậu tri thử kỳ đại mộng dã, nhi ngu giả tự dĩ vi giác, thiết thiết nhiên tri chi. … Khâu dã, dữ nhữ giai mộng dã; dư vị nhữ mộng, diệc mộng dã.*
@@ -16785,7 +16785,7 @@ Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có th�
 
 ### 2. Giấc mơ con bướm
 
-!!! quote "Trang Tử, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Trang Tử*, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
     昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與，胡蝶之夢為周與？
 
     *Tích giả Trang Chu mộng vi hồ điệp, hủ hủ nhiên hồ điệp dã, tự dụ thích chí dư! Bất tri Chu dã. Nga nhiên giác, tắc cừ cừ nhiên Chu dã. Bất tri Chu chi mộng vi hồ điệp dư, hồ điệp chi mộng vi Chu dư?*
@@ -16798,7 +16798,7 @@ Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có th�
 
 ### 3. "Vật hóa": chữ kết của thiên
 
-!!! quote "Trang Tử, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Trang Tử*, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos"
     周與胡蝶，則必有分矣。此之謂物化。
 
     *Chu dữ hồ điệp, tắc tất hữu phân hĩ. Thử chi vị vật hóa.*
@@ -16898,7 +16898,7 @@ Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng
 
 **Đoạn 1 — Mọi thứ đều hướng tới một cái tốt (I.1–2, 1094a1–22).** Nghề y nhắm sức khỏe, nghề đóng tàu nhắm con tàu. Các mục đích xếp thành chuỗi: làm yên cương để cưỡi ngựa, cưỡi ngựa để đánh trận...
 
-!!! quote "Đạo đức Nicomachus I.2, 1094a18–22 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* I.2, 1094a18–22 — bản dịch W. D. Ross (1925)"
     "If, then, there is some end of the things we do, which we desire for its own sake (everything else being desired for the sake of this), and if we do not choose everything for the sake of something else (for at that rate the process would go on to infinity, so that our desire would be empty and vain), clearly this must be the good and the chief good."
 
     "Vậy nếu trong những việc ta làm có một mục đích ta mong muốn vì chính nó (mọi thứ khác được mong muốn vì nó), và nếu ta không chọn mọi thứ vì một thứ khác (vì như thế quá trình sẽ kéo dài vô tận, khiến ham muốn của ta trống rỗng và vô ích), thì rõ ràng đó phải là điều tốt, điều tốt cao nhất." *(bản dịch của Logos)*
@@ -16907,7 +16907,7 @@ Aristotle học ở Học viện của [Platon](../triet-gia/platon.md) khoảng
 
 **Đoạn 2 — Hạnh phúc là hoạt động (I.7, 1097b22–1098a20).** *Eudaimonia* thường dịch là "hạnh phúc", nhưng Aristotle không nói về cảm giác vui. Ông lập luận bằng **chức năng** (*ergon*): người thổi sáo, thợ mộc, con mắt đều có chức năng; lẽ nào con người lại không? Sống thì cây cỏ cũng sống, cảm giác thì ngựa, bò cũng có; cái riêng của con người là hoạt động theo lý trí.
 
-!!! quote "Đạo đức Nicomachus I.7, 1098a16–20 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* I.7, 1098a16–20 — bản dịch W. D. Ross (1925)"
     "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy."
 
     "điều tốt cho con người hóa ra là hoạt động của linh hồn theo đức hạnh, và nếu có nhiều đức hạnh thì theo đức hạnh tốt nhất, trọn vẹn nhất. Nhưng phải thêm: 'trong trọn một đời'. Vì một con én không làm nên mùa xuân, một ngày cũng vậy; một ngày hay một thời gian ngắn cũng không làm cho ai được phúc và hạnh phúc." *(bản dịch của Logos)*
@@ -16918,7 +16918,7 @@ Ross viết "summer" theo thành ngữ tiếng Anh; nguyên văn Hy Lạp là *e
 
 **Đoạn 3 — Đức hạnh do thói quen mà thành (II.1–4, 1103a14–1105b18).** Đức hạnh trí tuệ chủ yếu do dạy dỗ; đức hạnh đạo đức do thói quen, nên tên của nó (*ethike*) bắt nguồn từ chữ thói quen (*ethos*). Nó không có sẵn từ tự nhiên, cũng không trái tự nhiên: ta có khả năng tiếp nhận, và hoàn thiện nó bằng thói quen (1103a23–26). Như người ta thành thợ xây nhờ xây nhà, ta thành người công bằng nhờ làm việc công bằng (1103a33–b2). Nhưng nếu vậy, người đang làm việc công bằng chẳng phải đã công bằng rồi sao (1105a17–21)? Aristotle đáp:
 
-!!! quote "Đạo đức Nicomachus II.4, 1105a30–34 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* II.4, 1105a30–34 — bản dịch W. D. Ross (1925)"
     "in the first place he must have knowledge, secondly he must choose the acts, and choose them for their own sakes, and thirdly his action must proceed from a firm and unchangeable character."
 
     "trước hết người ấy phải biết mình đang làm gì; thứ hai, phải chọn hành động ấy, và chọn nó vì chính nó; thứ ba, hành động phải xuất phát từ một tính cách vững vàng, không lay chuyển." *(bản dịch của Logos)*
@@ -16929,7 +16929,7 @@ Làm việc *giống* người công bằng chưa đủ; phải làm *như* ngư
 
 **Đoạn 4 — Trung dung (II.6–9, 1106a26–1109b26).** Mười cân thức ăn là nhiều, hai cân là ít, nhưng huấn luyện viên không vì thế mà cho ai cũng ăn sáu cân: quá ít với đô vật Milo, quá nhiều với người mới tập (1106a36–b4). Đúng mức là "đối với ta".
 
-!!! quote "Đạo đức Nicomachus II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)"
+!!! quote "*Đạo đức Nicomachus* II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)"
     "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it."
 
     "Vậy đức hạnh là một phẩm tính liên quan đến sự lựa chọn, nằm ở trung dung, tức trung dung đối với ta, được xác định bằng lý trí, theo cách mà người có minh triết thực hành sẽ xác định." *(bản dịch của Logos)*
@@ -17030,7 +17030,7 @@ Marcus sinh năm 121, được hoàng đế Antoninus Pius nhận làm con nuôi
 
 **Đoạn 1 — Buổi sáng (II.1).** Mở đầu quyển II là một bài tập chuẩn bị tinh thần:
 
-!!! quote "Suy tưởng II.1 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* II.1 — bản dịch George Long (1862)"
     "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil."
 
     "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth."
@@ -17045,7 +17045,7 @@ Vậy đừng giận kẻ làm sai. Ở VII.26, Marcus khuyên: khi ai làm hạ
 
 **Đoạn 2 — Không phải sự việc, mà là phán đoán (VIII.47).** Khung tư duy chung của Khắc kỷ, mà công thức sắc nhất nằm ở Epictetus, được Marcus viết lại cho chính mình:
 
-!!! quote "Suy tưởng VIII.47 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* VIII.47 — bản dịch George Long (1862)"
     "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now."
 
     "...why dost thou not rather act than complain?"
@@ -17060,7 +17060,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
 **Đoạn 3 — Nhớ rằng mình sẽ chết (II.11, IV.48).**
 
-!!! quote "Suy tưởng II.11 và IV.48 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* II.11 và IV.48 — bản dịch George Long (1862)"
     "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly."
 
     "Pass then through this little space of time conformably to nature, and end thy journey in content, as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew."
@@ -17075,7 +17075,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
 **Đoạn 4 — Cái nhìn từ trên cao (IX.30).**
 
-!!! quote "Suy tưởng IX.30 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* IX.30 — bản dịch George Long (1862)"
     "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die."
 
     "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos)*
@@ -17086,7 +17086,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
 **Đoạn 5 — Theo cho tự nguyện (X.28).**
 
-!!! quote "Suy tưởng X.28 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* X.28 — bản dịch George Long (1862)"
     "Imagine every man who is grieved at anything or discontented to be like a pig which is sacrificed and kicks and screams."
 
     "...only to the rational animal is it given to follow voluntarily what happens; but simply to follow is a necessity imposed on all."
@@ -17191,7 +17191,7 @@ Theo Bryan Van Norden (SEP), thuyết tính thiện trả lời cả hai phía. 
 
 ### 1. Đứa trẻ bên giếng và bốn đầu mối (2A6)
 
-!!! quote "Mạnh Tử 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     今人乍見孺子將入於井，皆有怵惕惻隱之心。非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。……惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。人之有是四端也，猶其有四體也。
 
     *Kim nhân sạ kiến nhụ tử tương nhập ư tỉnh, giai hữu truật dịch trắc ẩn chi tâm. Phi sở dĩ nạp giao ư nhụ tử chi phụ mẫu dã, phi sở dĩ yêu dự ư hương đảng bằng hữu dã, phi ố kỳ thanh nhi nhiên dã. … Trắc ẩn chi tâm, nhân chi đoan dã; tu ố chi tâm, nghĩa chi đoan dã; từ nhượng chi tâm, lễ chi đoan dã; thị phi chi tâm, trí chi đoan dã. Nhân chi hữu thị tứ đoan dã, do kỳ hữu tứ thể dã.*
@@ -17206,7 +17206,7 @@ Ba chữ "không phải" loại lần lượt ba động cơ vụ lợi: cầu t
 
 Cáo Tử nói: tính như dòng nước xiết, khơi về đông thì chảy về đông, khơi về tây thì chảy về tây; tính người không phân thiện hay bất thiện. Mạnh Tử đáp:
 
-!!! quote "Mạnh Tử 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     水信無分於東西。無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。今夫水，搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。
 
     *Thủy tín vô phân ư đông tây. Vô phân ư thượng hạ hồ? Nhân tính chi thiện dã, do thủy chi tựu hạ dã. Nhân vô hữu bất thiện, thủy vô hữu bất hạ. Kim phù thủy, bác nhi dược chi, khả sử quá tảng; kích nhi hành chi, khả sử tại sơn. Thị khởi thủy chi tính tai? Kỳ thế tắc nhiên dã.*
@@ -17219,7 +17219,7 @@ Mạnh Tử không bỏ hình ảnh của đối thủ; ông lật nó lại. Đ
 
 ### 3. Núi Ngưu trơ trụi (6A8)
 
-!!! quote "Mạnh Tử 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     牛山之木嘗美矣，以其郊於大國也，斧斤伐之，可以為美乎？……牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？
 
     *Ngưu Sơn chi mộc thường mỹ hĩ, dĩ kỳ giao ư đại quốc dã, phủ cân phạt chi, khả dĩ vi mỹ hồ? … Ngưu dương hựu tòng nhi mục chi, thị dĩ nhược bỉ trạc trạc dã. Nhân kiến kỳ trạc trạc dã, dĩ vi vị thường hữu tài yên, thử khởi sơn chi tính dã tai?*
@@ -17232,7 +17232,7 @@ Mạnh Tử chuyển ngay sang con người: người đánh mất lương tâm 
 
 ### 4. Người nước Tống nhổ mạ (2A2)
 
-!!! quote "Mạnh Tử 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：「今日病矣，予助苗長矣。」其子趨而往視之，苗則槁矣。……以為無益而舍之者，不耘苗者也；助之長者，揠苗者也。非徒無益，而又害之。
 
     *Tống nhân hữu mẫn kỳ miêu chi bất trưởng nhi yết chi giả, mang mang nhiên quy, vị kỳ nhân viết: "Kim nhật bệnh hĩ, dư trợ miêu trưởng hĩ." Kỳ tử xu nhi vãng thị chi, miêu tắc cảo hĩ. … Dĩ vi vô ích nhi xả chi giả, bất vân miêu giả dã; trợ chi trưởng giả, yết miêu giả dã. Phi đồ vô ích, nhi hựu hại chi.*
@@ -17330,7 +17330,7 @@ Người chống ông gay gắt nhất là [Mạnh Tử](../triet-gia/manh-tu.md
 
 ### 1. Gốc của loạn (Kiêm ái thượng, thiên 14)
 
-!!! quote "Mặc Tử, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos"
     盜愛其室不愛其異室，故竊異室以利其室；賊愛其身不愛人，故賊人以利其身。……諸侯各愛其國，不愛異國，故攻異國以利其國。……察此何自起？皆起不相愛。……視人之室若其室，誰竊？……視人國若其國，誰攻？
 
     *Đạo ái kỳ thất bất ái kỳ dị thất, cố thiết dị thất dĩ lợi kỳ thất; tặc ái kỳ thân bất ái nhân, cố tặc nhân dĩ lợi kỳ thân. … Chư hầu các ái kỳ quốc, bất ái dị quốc, cố công dị quốc dĩ lợi kỳ quốc. … Sát thử hà tự khởi? Giai khởi bất tương ái. … Thị nhân chi thất nhược kỳ thất, thùy thiết? … Thị nhân quốc nhược kỳ quốc, thùy công?*
@@ -17345,7 +17345,7 @@ Mặc Tử làm việc như thầy thuốc: muốn chữa loạn phải biết l
 
 Người phản đối nói: kiêm ái tốt đấy, nhưng dùng được không? Mặc Tử dựng hai người bạn. Người theo **biệt** (別, tách mình khỏi người) thấy bạn đói không cho ăn, rét không cho mặc; người theo **kiêm** lo cho bạn như lo cho mình. Rồi ông hỏi:
 
-!!! quote "Mặc Tử, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos"
     今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也；……不識將惡也家室，奉承親戚，提挈妻子，而寄託之？……我以為當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。
 
     *Kim hữu bình nguyên quảng dã ư thử, bị giáp anh trụ tương vãng chiến, tử sinh chi quyền vị khả thức dã; … bất thức tương ô dã gia thất, phụng thừa thân thích, đề khiết thê tử, nhi ký thác chi? … Ngã dĩ vi đương kỳ ư thử dã, thiên hạ vô ngu phu ngu phụ, tuy phi kiêm chi nhân, tất ký thác chi ư kiêm chi hữu thị dã.*
@@ -17358,7 +17358,7 @@ Người phản đối nói: kiêm ái tốt đấy, nhưng dùng được khôn
 
 ### 3. Giết một người, đánh một nước (Phi công thượng, thiên 17)
 
-!!! quote "Mặc Tử, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos"
     殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。當此，天下之君子皆知而非之，謂之不義。今至大為不義攻國，則弗知非，從而譽之，謂之義。
 
     *Sát nhất nhân vị chi bất nghĩa, tất hữu nhất tử tội hĩ. Nhược dĩ thử thuyết vãng, sát thập nhân thập trùng bất nghĩa, tất hữu thập tử tội hĩ; sát bách nhân bách trùng bất nghĩa, tất hữu bách tử tội hĩ. Đương thử, thiên hạ chi quân tử giai tri nhi phi chi, vị chi bất nghĩa. Kim chí đại vi bất nghĩa công quốc, tắc phất tri phi, tòng nhi dự chi, vị chi nghĩa.*
@@ -17371,7 +17371,7 @@ Lập luận dựa vào sự **nhất quán**: cùng một loại hành vi, hạ
 
 ### 4. Ý trời như cái compa (Thiên chí thượng, thiên 26)
 
-!!! quote "Mặc Tử, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos"
     順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。……我有天志，譬若輪人之有規，匠人之有矩。
 
     *Thuận thiên ý giả, kiêm tương ái, giao tương lợi, tất đắc thưởng. Phản thiên ý giả, biệt tương ố, giao tương tặc, tất đắc phạt. … Ngã hữu thiên chí, thí nhược luân nhân chi hữu quy, tượng nhân chi hữu củ.*
@@ -17609,7 +17609,7 @@ Ngôn ngữ của bài cáo là ngôn ngữ Nho giáo. Chữ **điếu phạt** 
 
 ### 1. Luận đề nhân nghĩa
 
-!!! quote "Bình Ngô đại cáo, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo*, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     仁義之舉，要在安民，吊伐之師，莫先去暴。
 
     *Nhân nghĩa chi cử, yếu tại an dân; điếu phạt chi sư, mạc tiên khứ bạo.*
@@ -17622,7 +17622,7 @@ Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩ
 
 ### 2. Một nước văn hiến
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     惟我大越之國，實為文獻之邦。山川之封域既殊，南北之風俗亦異。自趙、丁、李、陳之肇造我國，與漢、唐、宋、元而各帝一方。
 
     *Duy ngã Đại Việt chi quốc, thực vi văn hiến chi bang. Sơn xuyên chi phong vực ký thù, Nam Bắc chi phong tục diệc dị. Tự Triệu, Đinh, Lý, Trần chi triệu tạo ngã quốc, dữ Hán, Đường, Tống, Nguyên nhi các đế nhất phương.*
@@ -17635,7 +17635,7 @@ Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩ
 
 ### 3. Kể tội giặc
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     決東海之水，不足以濯其污。罄南山之竹，不足以書其惡。神人之所共憤，天地之所不容。
 
     *Quyết Đông Hải chi thủy, bất túc dĩ trạc kỳ ô. Khánh Nam Sơn chi trúc, bất túc dĩ thư kỳ ác. Thần nhân chi sở cộng phẫn, thiên địa chi sở bất dung.*
@@ -17648,7 +17648,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ### 4. Lấy chí nhân thay cường bạo
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     卒能以大義而勝凶殘，以至仁而易強暴。……神武不殺，予亦體上帝好生之心。……乾坤既否而復泰，日月既晦而復明。
 
     *Tốt năng dĩ đại nghĩa nhi thắng hung tàn, dĩ chí nhân nhi dịch cường bạo. … Thần vũ bất sát, dư diệc thể thượng đế hiếu sinh chi tâm. … Càn khôn ký bĩ nhi phục thái, nhật nguyệt ký hối nhi phục minh.*

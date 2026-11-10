@@ -9,8 +9,12 @@ Khối trong trang: `title` = tiêu đề khối (trong ngoặc kép), `body` = 
 trường riêng: `title` = source, `original` = orig, `translation` = vi, `url`.
 `translator: logos` khi có chữ "(bản dịch của Logos)" (trước đợt 5.0d: `logos-zero`); còn lại `null`. `license: unknown` tới đợt 5.
 Khóa `<tác giả>.<tác phẩm>` rút từ tiêu đề dạng "Tác giả, *Tác phẩm*, …" (thêm `-2`, `-3` khi trùng);
-không rút được thì `trich.<phần đầu tiêu đề>` (tiêu đề rỗng: `trang.<đường dẫn>.<số thứ tự>`) và vào danh sách lệch. `work` trỏ tới works.yml khi tên in nghiêng
-trùng một tên trong đó. Trường `locator`, `license`, `evidence`, `verified` được giữ khi rút lại.
+không rút được thì `trich.<phần đầu tiêu đề>` (tiêu đề rỗng: `trang.<đường dẫn>.<số thứ tự>`) và vào danh sách lệch.
+`work` trỏ tới works.yml khi tên tác phẩm trong tiêu đề — tên in nghiêng đầu tiên; không có chữ in nghiêng thì tên
+đầu tiên trong ngoặc “…” hoặc '…' — trùng một tên trong `titles` của works.yml hoặc một tên khác trong `TEN_KHAC`;
+bản ghi tác phẩm có `same_as` (tên khác của một tác phẩm đã có, đợt 5.1) được thay bằng bản ghi gốc.
+Khối không thuộc tác phẩm nào trong kho (phát biểu, văn kiện, thơ lẻ, tác phẩm chưa có bản ghi) ghi lý do ở
+`work_note`. Trường `locator`, `work_note`, `license`, `evidence`, `verified` được giữ khi rút lại.
 """
 
 from __future__ import annotations
@@ -29,13 +33,35 @@ from lz import ROOT, registry, units
 OUT = ROOT / "data" / "kb" / "quotes.yml"
 LECH = ROOT / "verification" / "lech" / "quotes.md"
 WORKS = ROOT / "data" / "kb" / "works.yml"
-KEEP = ("locator", "license", "evidence", "verified")
+KEEP = ("locator", "work_note", "license", "evidence", "verified")
 BLOCK = re.compile(r'^(?P<indent>[ \t]*)(?:!!!|\?\?\?\+?)[ \t]+quote(?:[ \t]+"(?P<title>.*)")?[ \t]*$')
 FENCE = re.compile(r"^\s*(```|~~~)")
 ITALIC = re.compile(r"\*([^*\n]+?)\*")
+QUOTED = re.compile(r"“([^”\n]+)”|'([^'\n]+)'")
 LZ_TRANSLATION = "(bản dịch của Logos)"
 HEAD = ("# Kho trích dẫn. RÚT TỰ ĐỘNG bằng tools/kb_quotes.py từ khối !!! quote của Lõi viết tay và quote của hồ sơ;\n"
-        "# chỉ locator, license, evidence, verified được sửa ở đây. Schema: schema/kb/quotes.schema.json. Lệch: verification/lech/quotes.md.\n")
+        "# chỉ locator, work_note, license, evidence, verified được sửa ở đây. Schema: schema/kb/quotes.schema.json. Lệch: verification/lech/quotes.md.\n")
+# Tên khác (tên Việt, tên rút gọn) của tác phẩm đã có trong works.yml, đúng như viết trong tiêu đề khối → khóa tác
+# phẩm. Đợt 5.2, theo claim tác giả/tác phẩm đã kiểm trong verification/evidence/quotes__*.json và tên Việt ghi trong
+# hồ sơ data/people/*.yml. Tác phẩm chưa có bản ghi thì không thêm ở đây (works.yml đóng băng từ 5.1): ghi `work_note`.
+TEN_KHAC = {
+    "Biện hộ": "chua-ro.apologia",                                   # doc/platon-bien-ho.md
+    "Biện hộ của Socrates": "chua-ro.apologia",                      # hồ sơ Socrates
+    "Chỉ dẫn cho người hoang mang": "maimonides.dalalat-al-hairin",
+    "Cư trần lạc đạo": "tran-nhan-tong.cu-tran-lac-dao-phu",          # bài kệ kết của bài phú
+    "Đạo đức học": "spinoza.ethica-ordine-geometrico-demonstrata",
+    "Đạo đức kinh": "lao-tu.lao-tu",
+    "Đạo đức Nicomachus": "aristotle.ethica-nicomachea",
+    "Đơn tử luận": "leibniz.la-monadologie",
+    "Khảo luận về hiểu biết của con người": "locke.an-essay-concerning-human-understanding",
+    "Những châm ngôn chủ yếu": "epicurus.kuriai-doxai",
+    "Suy niệm": "descartes.meditationes-de-prima-philosophia",        # doc/descartes-suy-niem.md
+    "Suy niệm về Triết học Đệ nhất": "descartes.meditationes-de-prima-philosophia",
+    "Thư gửi Menoeceus": "epicurus.letter-to-menoeceus",
+    "Tổng luận Thần học": "aquinas.summa-theologiae",
+    "Trung luận": "nagarjuna.mulamadhyamakakarika",
+    "Tự thú": "augustine.confessiones",
+}
 
 
 def page_blocks(path: str, text: str) -> list[tuple[int, str, str]]:
@@ -71,12 +97,41 @@ def base_key(title: str) -> str | None:
     return f"{author}.{work}" if author and work else None
 
 
+def work_index(works: dict) -> dict[str, str]:
+    """Tên đã chuẩn hóa → khóa tác phẩm: mọi tên trong `titles` của works.yml, rồi `TEN_KHAC`. Bản ghi có `same_as`
+    trỏ về bản ghi gốc (theo chuỗi `same_as` tới bản ghi không còn `same_as`)."""
+    def goc(k: str) -> str:
+        seen = {k}
+        while (works.get(k) or {}).get("same_as") and works[k]["same_as"] not in seen:
+            k = works[k]["same_as"]
+            seen.add(k)
+        return k
+    index: dict[str, str] = {}
+    for k, w in works.items():
+        for t in w["titles"]:
+            index.setdefault(norm(t), goc(k))
+    for name, k in TEN_KHAC.items():
+        index.setdefault(norm(name), goc(k))
+    return index
+
+
+def work_name(title: str) -> str | None:
+    """Tên tác phẩm trong tiêu đề: tên in nghiêng đầu tiên; không có chữ in nghiêng thì tên đầu tiên trong “…”/'…'."""
+    m = ITALIC.search(title)
+    if m:
+        return m.group(1)
+    m = QUOTED.search(title)
+    return (m.group(1) or m.group(2)) if m else None
+
+
+def work_of(title: str, index: dict[str, str]) -> str | None:
+    name = work_name(title)
+    return index.get(norm(name)) if name else None
+
+
 def extract(root: Path = ROOT) -> tuple[dict, list[str]]:
     works = yaml.safe_load(WORKS.read_text(encoding="utf-8")) if WORKS.exists() else {}
-    title_to_work = {}
-    for k, w in (works or {}).items():
-        for t in w["titles"]:
-            title_to_work.setdefault(norm(t), k)
+    index = work_index(works or {})
     recs: dict[str, dict] = {}
     unkeyed: list[str] = []
 
@@ -86,10 +141,6 @@ def extract(root: Path = ROOT) -> tuple[dict, list[str]]:
             key, n = f"{base}-{n}", n + 1
         recs[key] = rec
         return key
-
-    def work_of(title: str):
-        m = ITALIC.search(title)
-        return title_to_work.get(norm(m.group(1))) if m else None
 
     for p in registry.load(root).select(tier="loi", generated=False):
         raw = p.file(root).read_text(encoding="utf-8")
@@ -101,7 +152,7 @@ def extract(root: Path = ROOT) -> tuple[dict, list[str]]:
                 if unit not in same["used_in"]:
                     same["used_in"].append(unit)
                 continue
-            rec = {"work": work_of(title), "title": title, "body": body,
+            rec = {"work": work_of(title, index), "title": title, "body": body,
                    "translator": "logos" if LZ_TRANSLATION in body else None,
                    "license": "unknown", "used_in": [unit]}
             base = base_key(title)
@@ -115,7 +166,7 @@ def extract(root: Path = ROOT) -> tuple[dict, list[str]]:
         q = yaml.safe_load(f.read_text(encoding="utf-8")).get("quote")
         if not q:
             continue
-        rec = {"work": work_of(q["source"]), "title": q["source"], "original": q["orig"], "translation": q["vi"],
+        rec = {"work": work_of(q["source"], index), "title": q["source"], "original": q["orig"], "translation": q["vi"],
                "translator": None, "license": "unknown", "url": q["url"], "used_in": [f"people/{f.stem}"]}
         put(base_key(q["source"]) or f"{f.stem}.trich", rec)
     for r in recs.values():
@@ -133,26 +184,36 @@ def merge_kept(recs: dict, old: dict) -> dict:
 
 
 def render(recs: dict) -> str:
-    order = ["work", "locator", "title", "body", "original", "translation", "translator", "license", "url",
-             "used_in", "evidence", "verified"]
+    order = ["work", "work_note", "locator", "title", "body", "original", "translation", "translator", "license",
+             "url", "used_in", "evidence", "verified"]
     out = {k: {f: r[f] for f in order if f in r} for k, r in recs.items()}
     return HEAD + yaml.safe_dump(out, allow_unicode=True, sort_keys=False, width=1_000_000)
 
 
 def render_lech(recs: dict, unkeyed: list[str]) -> str:
+    """Mục mở: khối chưa ghép được tác phẩm và chưa có `work_note`. Tiêu đề không theo mẫu mà đã ghép tác phẩm hoặc
+    có `work_note` thì đã xử lý (khóa `trich.*` giữ nguyên); khối cùng tác phẩm phân biệt bằng `locator`."""
     nowork = [k for k, r in recs.items() if not r["work"]]
+    noted = [k for k in nowork if recs[k].get("work_note")]
+    open_ = [k for k in nowork if not recs[k].get("work_note")]
+    matched = [k for k in unkeyed if recs[k]["work"]]
     suffixed = [k for k in recs if re.search(r"-\d+$", k) and re.sub(r"-\d+$", "", k) in recs]
     L = ["# Danh sách lệch: trích dẫn", "",
-         "Sinh bằng `python tools/kb_quotes.py`. Đầu vào cho đợt 5 (đợt con 5.2): không sửa trong đợt 2.", "",
+         "Sinh bằng `python tools/kb_quotes.py`. Mở ở đợt 2; đợt con 5.2 ghép tác phẩm, ghi `work_note` và `locator`.", "",
          f"- {len(recs)} khối trích dẫn; {sum(1 for r in recs.values() if r['translator'] == 'logos')} có bản dịch của Logos.",
-         f"- {len(recs) - len(nowork)} ghép được với tác phẩm trong works.yml; {len(nowork)} chưa.", "",
-         f"## Tiêu đề khối không theo mẫu \"Tác giả, *Tác phẩm*, vị trí\" ({len(unkeyed)})", ""]
-    L += [f"- `{k}`: \"{recs[k]['title']}\" (`{recs[k]['used_in'][0]}`)" for k in unkeyed]
+         f"- {len(recs) - len(nowork)} ghép được với tác phẩm trong works.yml; {len(noted)} không thuộc tác phẩm nào "
+         f"trong kho (có `work_note`); {len(open_)} chưa xử lý.",
+         f"- {sum(1 for r in recs.values() if r.get('locator'))} có `locator`.", "",
+         f"## Mục mở: chưa ghép được tác phẩm, chưa có `work_note` ({len(open_)})", ""]
+    L += [f"- `{k}`: \"{recs[k]['title']}\" (`{recs[k]['used_in'][0]}`)" for k in open_] or ["Không còn mục mở."]
+    L += ["", f"## Đã xử lý: không thuộc tác phẩm nào trong kho, có `work_note` ({len(noted)})", ""]
+    L += [f"- `{k}`: \"{recs[k]['title']}\" — {recs[k]['work_note']}" for k in noted]
+    L += ["", f"## Đã xử lý: tiêu đề khối không theo mẫu \"Tác giả, *Tác phẩm*, vị trí\", đã ghép tác phẩm ({len(matched)})",
+          "", "Khóa lấy từ phần đầu tiêu đề (`trich.*`), giữ nguyên khi tiêu đề chỉ thêm dấu in nghiêng.", ""]
+    L += [f"- `{k}` → `{recs[k]['work']}`: \"{recs[k]['title']}\" (`{recs[k]['used_in'][0]}`)" for k in matched]
     L += ["", f"## Cùng tác giả và tác phẩm, nhiều khối ({len(suffixed)})", "",
-          "Khóa thêm hậu tố; đợt 5 ghi `locator` (38a, §IV, 2A6…) để phân biệt, hoặc gộp khi trùng đoạn.", ""]
-    L += [f"- `{k}`: \"{recs[k]['title']}\"" for k in suffixed]
-    L += ["", f"## Chưa ghép được tác phẩm ({len(nowork)})", ""]
-    L += [f"- `{k}`: \"{recs[k]['title']}\"" for k in nowork]
+          "Khóa thêm hậu tố; `locator` phân biệt các khối (`lint_quotes` báo khối chưa có `locator`).", ""]
+    L += [f"- `{k}`: \"{recs[k]['title']}\" — `locator`: {recs[k].get('locator') or 'chưa có'}" for k in suffixed]
     return "\n".join(L) + "\n"
 
 

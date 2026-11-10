@@ -28,7 +28,7 @@ Theo Bryan Van Norden (SEP), thuyết tính thiện trả lời cả hai phía. 
 
 ### 1. Đứa trẻ bên giếng và bốn đầu mối (2A6)
 
-!!! quote "Mạnh Tử 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     今人乍見孺子將入於井，皆有怵惕惻隱之心。非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。……惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。人之有是四端也，猶其有四體也。
 
     *Kim nhân sạ kiến nhụ tử tương nhập ư tỉnh, giai hữu truật dịch trắc ẩn chi tâm. Phi sở dĩ nạp giao ư nhụ tử chi phụ mẫu dã, phi sở dĩ yêu dự ư hương đảng bằng hữu dã, phi ố kỳ thanh nhi nhiên dã. … Trắc ẩn chi tâm, nhân chi đoan dã; tu ố chi tâm, nghĩa chi đoan dã; từ nhượng chi tâm, lễ chi đoan dã; thị phi chi tâm, trí chi đoan dã. Nhân chi hữu thị tứ đoan dã, do kỳ hữu tứ thể dã.*
@@ -43,7 +43,7 @@ Ba chữ "không phải" loại lần lượt ba động cơ vụ lợi: cầu t
 
 Cáo Tử nói: tính như dòng nước xiết, khơi về đông thì chảy về đông, khơi về tây thì chảy về tây; tính người không phân thiện hay bất thiện. Mạnh Tử đáp:
 
-!!! quote "Mạnh Tử 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     水信無分於東西。無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。今夫水，搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。
 
     *Thủy tín vô phân ư đông tây. Vô phân ư thượng hạ hồ? Nhân tính chi thiện dã, do thủy chi tựu hạ dã. Nhân vô hữu bất thiện, thủy vô hữu bất hạ. Kim phù thủy, bác nhi dược chi, khả sử quá tảng; kích nhi hành chi, khả sử tại sơn. Thị khởi thủy chi tính tai? Kỳ thế tắc nhiên dã.*
@@ -56,7 +56,7 @@ Mạnh Tử không bỏ hình ảnh của đối thủ; ông lật nó lại. Đ
 
 ### 3. Núi Ngưu trơ trụi (6A8)
 
-!!! quote "Mạnh Tử 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     牛山之木嘗美矣，以其郊於大國也，斧斤伐之，可以為美乎？……牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？
 
     *Ngưu Sơn chi mộc thường mỹ hĩ, dĩ kỳ giao ư đại quốc dã, phủ cân phạt chi, khả dĩ vi mỹ hồ? … Ngưu dương hựu tòng nhi mục chi, thị dĩ nhược bỉ trạc trạc dã. Nhân kiến kỳ trạc trạc dã, dĩ vi vị thường hữu tài yên, thử khởi sơn chi tính dã tai?*
@@ -69,7 +69,7 @@ Mạnh Tử chuyển ngay sang con người: người đánh mất lương tâm 
 
 ### 4. Người nước Tống nhổ mạ (2A2)
 
-!!! quote "Mạnh Tử 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mạnh Tử* 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos"
     宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：「今日病矣，予助苗長矣。」其子趨而往視之，苗則槁矣。……以為無益而舍之者，不耘苗者也；助之長者，揠苗者也。非徒無益，而又害之。
 
     *Tống nhân hữu mẫn kỳ miêu chi bất trưởng nhi yết chi giả, mang mang nhiên quy, vị kỳ nhân viết: "Kim nhật bệnh hĩ, dư trợ miêu trưởng hĩ." Kỳ tử xu nhi vãng thị chi, miêu tắc cảo hĩ. … Dĩ vi vô ích nhi xả chi giả, bất vân miêu giả dã; trợ chi trưởng giả, yết miêu giả dã. Phi đồ vô ích, nhi hựu hại chi.*

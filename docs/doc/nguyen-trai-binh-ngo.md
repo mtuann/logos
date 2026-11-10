@@ -27,7 +27,7 @@ Ngôn ngữ của bài cáo là ngôn ngữ Nho giáo. Chữ **điếu phạt** 
 
 ### 1. Luận đề nhân nghĩa
 
-!!! quote "Bình Ngô đại cáo, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo*, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     仁義之舉，要在安民，吊伐之師，莫先去暴。
 
     *Nhân nghĩa chi cử, yếu tại an dân; điếu phạt chi sư, mạc tiên khứ bạo.*
@@ -40,7 +40,7 @@ Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩ
 
 ### 2. Một nước văn hiến
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     惟我大越之國，實為文獻之邦。山川之封域既殊，南北之風俗亦異。自趙、丁、李、陳之肇造我國，與漢、唐、宋、元而各帝一方。
 
     *Duy ngã Đại Việt chi quốc, thực vi văn hiến chi bang. Sơn xuyên chi phong vực ký thù, Nam Bắc chi phong tục diệc dị. Tự Triệu, Đinh, Lý, Trần chi triệu tạo ngã quốc, dữ Hán, Đường, Tống, Nguyên nhi các đế nhất phương.*
@@ -53,7 +53,7 @@ Bài cáo không mở đầu bằng chiến công mà bằng một định nghĩ
 
 ### 3. Kể tội giặc
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     決東海之水，不足以濯其污。罄南山之竹，不足以書其惡。神人之所共憤，天地之所不容。
 
     *Quyết Đông Hải chi thủy, bất túc dĩ trạc kỳ ô. Khánh Nam Sơn chi trúc, bất túc dĩ thư kỳ ác. Thần nhân chi sở cộng phẫn, thiên địa chi sở bất dung.*
@@ -66,7 +66,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ### 4. Lấy chí nhân thay cường bạo
 
-!!! quote "Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos"
     卒能以大義而勝凶殘，以至仁而易強暴。……神武不殺，予亦體上帝好生之心。……乾坤既否而復泰，日月既晦而復明。
 
     *Tốt năng dĩ đại nghĩa nhi thắng hung tàn, dĩ chí nhân nhi dịch cường bạo. … Thần vũ bất sát, dư diệc thể thượng đế hiếu sinh chi tâm. … Càn khôn ký bĩ nhi phục thái, nhật nguyệt ký hối nhi phục minh.*
