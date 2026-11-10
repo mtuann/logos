@@ -214,6 +214,8 @@ Kiểm kho trước, để các bài sau chỉ còn phải kiểm phần diễn 
 | `tools/parity.py` | văn bản hiển thị lệch sau thay đổi cơ học | 1 |
 | `tools/lint_facts.py` | năm và tên tác phẩm trong văn xuôi lệch kho | 2 |
 | `tools/lint_quotes.py` | khối trích không khớp bản ghi trích dẫn | 2 |
+| `tools/lint_so_lieu.py` | số % PhilPapers gõ tay ngoài `[[pp:…]]`; số trong quiz và dữ liệu lệch kho (rà soát 9/11) | 5 (cảnh báo), 5.9 (chặn) |
+| `tools/lint_lien_ket.py` | bài nhắc triết gia đã có hồ sơ mà không link (rà soát 9/11) | 5 (cảnh báo), 5.9 (chặn) |
 | `hooks/kb.py` | shortcode trỏ tới khóa không tồn tại (build dừng) | 1–3 |
 | kiểm thử axe trên trình duyệt thật (Playwright) | lỗi tiếp cận mà jsdom không thấy: tương phản, link chỉ khác bằng màu, vùng chạm | 4 |
 

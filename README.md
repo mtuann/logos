@@ -74,6 +74,8 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   lint_structure.py       thiếu mục bắt buộc theo loại trang; nhãn độ chắc chắn đặt sai chỗ
   lint_facts.py           năm tác phẩm, năm sinh mất trong văn xuôi so với works.yml, people.yml
   lint_quotes.py          khối !!! quote so với quotes.yml; trích dẫn chưa ghép tác phẩm, chưa có vị trí
+  lint_so_lieu.py         số % PhilPapers gõ tay ngoài [[pp:…]]; số trong quiz, thi-nghiem.json, hình so với kho
+  lint_lien_ket.py        bài nhắc triết gia đã có hồ sơ mà không link tới trang hồ sơ
                           (ba linter: chế độ cảnh báo; --write ghi verification/lint/, --strict để chặn)
   parity.py               kiểm tra tương đương: so văn bản hiển thị, <title>, description, id của mọi trang
                           giữa hai bản build (--base REF: tự build commit REF và cây làm việc;
@@ -152,7 +154,7 @@ uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng d�
 uv run python tools/kb_check.py --check          # kho dữ kiện data/kb/, data/people/ khớp schema/kb/ và tham chiếu chéo
 uv run python tools/thoi_su_check.py --check     # khối thời sự data/thoi-su/ khớp schema, mỗi khối dùng đúng một lần
 uv run python tools/lint_volatile.py --strict -q  # chặn từ đợt 3: có hạn dùng thì ở data/thoi-su/ hoặc data/style/volatile-allow.yml
-for l in lint_terms lint_structure lint_facts lint_quotes; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
+for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
