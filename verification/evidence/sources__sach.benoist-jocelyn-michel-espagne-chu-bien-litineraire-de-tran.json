@@ -1,0 +1,27 @@
+{
+  "unit": "sources/sach.benoist-jocelyn-michel-espagne-chu-bien-litineraire-de-tran",
+  "hash": "sha256:3526968f13420a916259d7ed4f086a459e4b1e1511bd56cba9c9906ad05ee1ae",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s20",
+  "claims": [
+    {
+      "text": "Benoist & Espagne (chủ biên), Paris: Armand Colin, 2013, ISBN 978-2-200-28045-1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?vid=ISBN9782200280451",
+          "quote": "9782200280451",
+          "where": "Google Books: Publisher Colin (Armand Colin), Published 2013; Jocelyn Benoist and Michel Espagne"
+        }
+      ]
+    },
+    {
+      "text": "tiêu đề chính xác: Google Books ghi 'transfert culturel' (số ít), mục ghi 'transferts culturels'; cần xem bìa/NXB",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Tác giả, NXB, năm, ISBN khớp. Dạng số ít/số nhiều của 'transfert(s) culturel(s)' chưa xác định: người làm đối chiếu trang Armand Colin. Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+}

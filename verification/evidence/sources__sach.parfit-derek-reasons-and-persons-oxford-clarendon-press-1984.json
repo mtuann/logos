@@ -1,0 +1,44 @@
+{
+  "unit": "sources/sach.parfit-derek-reasons-and-persons-oxford-clarendon-press-1984",
+  "hash": "sha256:78c3bd6e6216d9cc8f6050f604969501402657d4222a00cb4bf908dc66c84ac4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s24",
+  "claims": [
+    {
+      "text": "Tác giả Derek Parfit; tên Reasons and Persons",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Parfit+Reasons+and+Persons&rows=3",
+          "quote": "Reasons and Persons; Derek Parfit",
+          "where": "DOI 10.1093/019824908x.001.0001"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1984, Oxford University Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/identity-personal/",
+          "quote": "Parfit, D., 1984, Reasons and Persons. Oxford: Oxford University Press.",
+          "where": "thư mục SEP Personal Identity"
+        }
+      ]
+    },
+    {
+      "text": "Nhà xuất bản ghi Clarendon Press (Clarendon là imprint của OUP; chưa mở nguồn nêu 'Clarendon Press' 1984)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Trang 273 và Phụ lục J (chưa mở nguồn xác nhận)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Crossref ghi năm 1986 (bản in lại/online) nhưng SEP ghi 1984, khớp record. Cách ghi nên thống nhất: Oxford: Oxford University Press (như SEP), hoặc Clarendon Press nếu thống nhất toàn site; hai cách là cùng nhà xuất bản (Clarendon là imprint của OUP). Link ổn định đề xuất: https://doi.org/10.1093/019824908x.001.0001"
+}

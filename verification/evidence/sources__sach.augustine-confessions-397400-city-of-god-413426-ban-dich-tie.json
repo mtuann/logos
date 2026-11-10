@@ -1,0 +1,40 @@
+{
+  "unit": "sources/sach.augustine-confessions-397400-city-of-god-413426-ban-dich-tie",
+  "hash": "sha256:6375d52624ac09e58b897b12dd3a0f92ee89245ff22df316c653003522e0a0a1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s19",
+  "claims": [
+    {
+      "text": "Confessions viết khoảng 397–400",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "ca. 396–400",
+          "where": "SEP ghi ca. 396–400; 'khoảng 397–400' gần khớp"
+        }
+      ]
+    },
+    {
+      "text": "City of God viết 413–426",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "City of God bắt đầu năm 412 (theo SEP) và hoàn thành 426; nên ghi 412–426 hoặc 'khoảng 413–426'",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "begun in 412"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh công cộng của Confessions và City of God (chỉ mở được Confessions Quyển 7 bản Pilkington ở New Advent; chưa mở bản City of God)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Link ổn định đề xuất: Confessions (Pilkington) https://www.newadvent.org/fathers/1101.htm; City of God (Dods) https://www.gutenberg.org/ebooks/45304 (số ebook chưa mở trong phiên này, cần kiểm trước khi dùng). Quote 'begun in 412' lấy theo kết quả đọc trang SEP."
+}

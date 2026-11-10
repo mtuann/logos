@@ -1,0 +1,47 @@
+{
+  "unit": "sources/sach.olson-eric-t-1997-the-human-animal-personal-identity-without",
+  "hash": "sha256:1a4c0408e22f26ad8b3b9137936f296a66a5f3285111ab64a44281728de9b10f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s24",
+  "claims": [
+    {
+      "text": "Tác giả Eric T. Olson; Oxford University Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Olson+Human+Animal+Personal+Identity+Without+Psychology&rows=3",
+          "quote": "Eric T. Olson; Oxford University Press",
+          "where": "DOI 10.1093/0195134230.001.0001"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1997 và phụ đề Personal Identity Without Psychology",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/identity-personal/",
+          "quote": "Olson, E., 1997. The Human Animal: Personal Identity Without Psychology, New York: Oxford University Press.",
+          "where": "thư mục SEP, mục Personal Identity (bản hiện hành, không phải bản lưu fall2026)"
+        }
+      ]
+    },
+    {
+      "text": "Nơi xuất bản ghi 'Oxford' (SEP và Crossref ghi New York: OUP)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Olson, Eric T. (1997), The Human Animal: Personal Identity Without Psychology, New York: Oxford University Press.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/entries/identity-personal/",
+          "quote": "New York: Oxford University Press."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Crossref ghi năm 1999 (bản online OUP USA) nhưng SEP ghi 1997, khớp. Nơi xuất bản: Oxford hay New York chỉ là chi tiết nhẹ (OUP có trụ sở cả hai). SEP mở ở URL hiện hành, không phải bản lưu. Link ổn định đề xuất: https://doi.org/10.1093/0195134230.001.0001"
+}

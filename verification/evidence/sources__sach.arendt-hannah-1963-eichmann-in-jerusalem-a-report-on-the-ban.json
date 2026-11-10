@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sach.arendt-hannah-1963-eichmann-in-jerusalem-a-report-on-the-ban",
+  "hash": "sha256:e6735c40a0868f132286743b41d59c3a2c548afe0a880e9fcf9491b5ef55dc2b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-s19",
+  "claims": [
+    {
+      "text": "Arendt, Eichmann in Jerusalem: A Report on the Banality of Evil, Viking Press, New York, 1963",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/eichmanninjerusa0000aren/metadata",
+          "quote": "Originally published: New York : Viking Press, 1963",
+          "where": "metadata bản Penguin 2006"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả Hannah Arendt; nhà xuất bản Viking Press (New York)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/eichmanninjerusa00aren/metadata",
+          "quote": "New York, Viking Press",
+          "where": "bản Viking in 1964 (bản duyệt lại)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đúng: bản đầu Viking 1963; bản Viking 1964 là bản sửa, có thể gặp cả hai năm trong thư mục. Link ổn định đề xuất: https://archive.org/details/eichmanninjerusa0000aren (Penguin 2006, ghi rõ 'Originally published ... Viking Press, 1963'). Google Books/Open Library không mở được."
+}
