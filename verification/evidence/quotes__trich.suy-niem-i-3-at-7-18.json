@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.suy-niem-i-3-at-7-18",
-  "hash": "sha256:3339c8a525189e02bb3da7be4906c576161ee58219f37158ea931c4de1c46ea4",
+  "hash": "sha256:080092d2d42c5c4e7497d3b9c07a69ef9e609ffec1aa2b5ee2e239edaf7a9787",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r06",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn Veitch: \"All that I have, up to this moment, accepted ... even once been deceived.\"",
@@ -41,23 +41,18 @@
       ]
     },
     {
-      "text": "locator: §3, AT 7:18",
+      "text": "locator: AT VII 18",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
-          "quote": "3. All that I have, up to this moment",
-          "where": "§3 theo bản Veitch"
-        },
-        {
           "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_I",
           "quote": "3. Nempe quidquid hactenus ut maxime verum admisi",
-          "where": "§3 nằm sau mốc [18] và trước mốc [19]"
+          "where": "§3 nằm sau mốc [18] và trước mốc [19] (vị trí chữ trong wikitext)"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r06): Xem ghi chú bản §12: Veitch ở en.wikisource, AT ở la.wikisource (Adam et Tannery)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): §3 nằm giữa mốc [18] và [19] trên la.wikisource (Adam–Tannery), khớp 'AT VII 18'. Các claim cũ giữ nguyên."
 }

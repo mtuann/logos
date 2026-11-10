@@ -1,8 +1,8 @@
 {
   "unit": "quotes/hegel.grundlinien-der-philosophie-des-rechts",
-  "hash": "sha256:bf50a848877edef3a482189fe58bea24512fd5154151a04bee7e3b7c86b148da",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q02",
+  "hash": "sha256:867143b3cfcdf854cb862c83a42007e808a13f76b5b0403d5a5d8e6125eeca5e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn (bản dịch Dyde): “When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering.”",
@@ -39,23 +39,6 @@
       ]
     },
     {
-      "text": "locator: Lời tựa (đề ngày 25/6/1820)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=1820",
-          "quote": "Berlin, June 25th,",
-          "where": "dòng ký “Berlin, June 25th, 1820.” cuối Lời tựa của tác giả, cùng trang quét 37 với đoạn trích"
-        },
-        {
-          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=PREFACE",
-          "quote": "But it is time to close this",
-          "where": "trang quét 37; trang quét 36 có tiêu đề chạy “AUTHORS PREFACE. XXIX”, tức đoạn trích ở tr. xxx"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt: “Khi triết học tô màu xám lên nền xám, thì một hình thái của đời sống đã già cỗi; bằng màu xám, triết học không làm nó trẻ lại được, mà chỉ hiểu được nó. Con cú của thần Minerva chỉ cất cánh khi bóng đêm buông xuống.”",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -78,8 +61,25 @@
           "where": "dòng Published"
         }
       ]
+    },
+    {
+      "text": "locator: Lời tựa, tr. xxx (bản Dyde 1896)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/cu31924014578979/cu31924014578979_djvu.txt",
+          "quote": "XXX author's preface. philosophy leads to Grod.",
+          "where": "tiêu đề chạy trang xxx; đoạn trích nằm sau đó trên cùng trang (OCR)"
+        },
+        {
+          "url": "https://archive.org/stream/cu31924014578979/cu31924014578979_djvu.txt",
+          "quote": "The owl of Minerva takes its flight only when the shades of night are gathering.",
+          "where": "tr. xxx, Author's Preface, ngay trước \"Berlin, June 25th, 1820.\""
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Vị trí chi tiết có thể ghi thêm: Author's Preface, tr. xxx bản Dyde 1896 (đoạn áp chót của Lời tựa). Archive.org và Canadiana không ghi tuyên bố phạm vi công cộng rõ ràng; kết luận bản quyền dựa trên năm in 1896."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Locator tr. xxx bản Dyde 1896 khớp bản quét; Lời tựa đề ngày 25/6/1820 xác nhận. Ghi chú kiểm trước: Vị trí chi tiết có thể ghi thêm: Author's Preface, tr. xxx bản Dyde 1896 (đoạn áp chót của Lời tựa). Archive.org và Canadiana không ghi tuyên bố phạm vi công cộng rõ ràng; kết luận bản quyền dựa trên năm in 1896."
 }

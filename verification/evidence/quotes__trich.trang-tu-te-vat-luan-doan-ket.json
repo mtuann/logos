@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.trang-tu-te-vat-luan-doan-ket",
-  "hash": "sha256:d80ced1ca2fc0a43e3dc02f347b9727f30b2a9decf866348d66a3dbe915f734a",
+  "hash": "sha256:0ea3aec228bf6ea64e876e9ec06e16b072750bdf1d7cf750f3fb84aae712c7d8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn: 昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與，胡蝶之夢為周與？",
@@ -34,18 +34,6 @@
       ]
     },
     {
-      "text": "locator: Tề vật luận (ctext mục 14)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://ctext.org/zhuangzi/adjustment-of-controversies/ens",
-          "quote": "昔者庄周梦为胡蝶",
-          "where": "mục 14"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -55,8 +43,23 @@
           "quote": "不知周之梦为胡蝶与，胡蝶之梦为周与？"
         }
       ]
+    },
+    {
+      "text": "locator: Tề vật luận, đoạn kết (ctext mục 14)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Tề vật luận, đoạn kết",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+          "quote": "昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。",
+          "where": "đoạn cuối cùng của 齊物論 trên zh.wikisource"
+        }
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Giản thể trên ctext, chữ tương ứng trùng bản ghi. Quote ghép hai đoạn liền nhau cùng mục 14 (tách thành hai quote)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): 'Tề vật luận, đoạn kết' đúng (đoạn mộng hồ điệp là đoạn cuối chương trên zh.wikisource). Số 'mục 14' của ctext không kiểm được trong lượt này vì ctext.org chặn công cụ; đề xuất rút gọn locator. Các claim cũ giữ nguyên. | 10/11/2026 (sổ sách, Claude): kho sửa `locator` thành \"Tề vật luận, đoạn kết\" đúng `fix` ở trên; cập nhật mã băm, không mở lại nguồn."
 }

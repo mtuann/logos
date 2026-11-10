@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.winston-churchill-phat-bieu-tai-ha-vien-anh-11-11-1947",
-  "hash": "sha256:01df0c46ac257d912ec026008bcb9c06e531932f5aea2f277e8bea7a21f81c27",
+  "hash": "sha256:3953f8e7c16a34a8b1133af9d054d34098c3f332b5d6585f95894754eb4111c3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q17",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn: \"Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time.\"",
@@ -45,19 +45,21 @@
       ]
     },
     {
-      "text": "locator: HC Deb 11 November 1947, vol 444, cols 206-207 (tiêu đề chưa ghi)",
+      "text": "locator: HC Deb 11/11/1947, tập 444, cột 206–207",
       "kind": "du-kien",
       "verdict": "sai",
       "severity": "nhe",
-      "fix": "HC Deb 11 November 1947, vol 444, cols 206-207 (Parliament Bill)",
+      "fix": "HC Deb 11/11/1947, tập 444, cột 207",
       "sources": [
         {
           "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
-          "quote": "Indeed, it has been said that democracy is the"
+          "quote": "Indeed, it has been said that democracy is the worst form of Government",
+          "where": "đầu trang: 'HC Deb 11 November 1947 vol 444 cc203-321'; mốc cột 207 đứng trước 'one pretends that democracy is perfect or all-wise. Indeed, …', nên câu trích nằm trọn trong cột 207"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Hansard (Open Parliament Licence) nên một câu trích không rủi ro bản quyền. Bản ghi để dấu chấm cuối câu còn Hansard dùng dấu chấm phẩy vì câu còn tiếp (\"but there is the broad feeling...\"): khác dấu câu, mức nhe, nên ghi \"[...]\" hoặc chú thích câu bị cắt. winstonchurchill.org xác nhận ngày 11/11/1947 nhưng không nêu nơi nói."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): ngày, tập 444 đúng. Trên Hansard, mốc cột 207 đứng giữa 'No' và 'one pretends…', câu 'Indeed, it has been said…' nằm trọn trong cột 207; cột 206 chỉ có phần trước ('Many forms of Government have been tried…'). Nếu muốn ôm cả câu dẫn thì ghi 'cột 206–207', còn riêng câu trích là cột 207. Các claim cũ giữ nguyên. | 10/11/2026 (sổ sách, Claude): kho sửa `locator` thành \"HC Deb 11/11/1947, tập 444, cột 207\" đúng `fix` ở trên; cập nhật mã băm, không mở lại nguồn."
 }

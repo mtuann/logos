@@ -1,8 +1,8 @@
 {
   "unit": "quotes/blaise-pascal.pensees",
-  "hash": "sha256:bde8fb90bc1ba1211e5cc1625afb1ff7d2427349843ede8cef334e7c3e01950e",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q01",
+  "hash": "sha256:4c5d2e5c4272bd601997fefdf5aba0e4de62ddaa5e3be5710bf46850153e69c7",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: \"Man is but a reed, the most feeble thing in nature; but he is a thinking reed. […] But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this.\"",
@@ -55,23 +55,6 @@
       ]
     },
     {
-      "text": "locator: đoạn 347 theo Brunschvicg (200 theo Lafuma)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.penseesdepascal.fr/Transition/Transition5-moderne.php",
-          "quote": "Brunschvicg 347 / Tourneur p. 245-1 / Le Guern 186 / Lafuma 200 / Sellier 231",
-          "where": "ấn bản điện tử Descotes & Proust, liasse Transition 5"
-        },
-        {
-          "url": "https://ccel.org/ccel/pascal/pensees.vii.html",
-          "quote": "347.",
-          "where": "số đoạn ngay trước \"Man is but a reed\""
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: \"Con người chỉ là một cây sậy, thứ yếu ớt nhất trong tự nhiên; nhưng đó là một cây sậy biết suy nghĩ. […] Nhưng nếu vũ trụ có nghiền nát con người, con người vẫn cao quý hơn cái đã giết mình, vì con người biết mình chết và biết ưu thế của vũ trụ đối với mình; còn vũ trụ chẳng biết gì về điều đó.\" — sát nghĩa nguyên văn",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -109,8 +92,20 @@
           "quote": "Public domain in the USA."
         }
       ]
+    },
+    {
+      "text": "locator: Brunschvicg 347, Lafuma 200",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.penseesdepascal.fr/Transition/Transition5-moderne.php",
+          "quote": "Brunschvicg 347 / Tourneur p. 245-1 / Le Guern 186 / Lafuma 200 / Sellier 231",
+          "where": "dòng \"Éditions savantes\" ngay trước đoạn \"L’homme n’est qu’un roseau\""
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Đoạn 347 nằm ngoài phần trang Gutenberg #18269 mà công cụ đọc được, nên đối chiếu ở bản Trotter trên CCEL; Gutenberg #18269 và CCEL trùng chữ với bản Collier 1910 ở đoạn 72. Trang Gutenberg không ghi tên dịch giả (chỉ ghi lời giới thiệu T. S. Eliot, Dutton 1958). Locator đề xuất: \"Brunschvicg 347 / Lafuma 200 (Sellier 231)\" — đã có trong tiêu đề. Đề xuất license: public-domain."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Locator Brunschvicg 347 / Lafuma 200 khớp ấn bản điện tử Descotes & Proust. Ghi chú kiểm trước: Đoạn 347 nằm ngoài phần trang Gutenberg #18269 mà công cụ đọc được, nên đối chiếu ở bản Trotter trên CCEL; Gutenberg #18269 và CCEL trùng chữ với bản Collier 1910 ở đoạn 72. Trang Gutenberg không ghi tên dịch giả (chỉ ghi lời giới thiệu T. S. Eliot, Dutton 1958). Locator đề xuất: \"Brunschvicg 347 / Lafuma 200 (Sellier 231)\" — đã có trong tiêu đề. Đề xuất license: public-domain."
 }

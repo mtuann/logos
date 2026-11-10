@@ -1,8 +1,8 @@
 {
   "unit": "quotes/edmund-husserl.logische-untersuchungen",
-  "hash": "sha256:451058edb0a8d2c914d1571e8b8dc5d0f8ddc0acdc0cbbbb4e9612cf9ae8c9a7",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q02",
+  "hash": "sha256:52b22e06ee31ba864b732b7e597426cf3ca57416b3ff7dec572656e4c13afe4f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: “Wir wollen uns schlechterdings nicht mit „bloßen Worten“, das ist mit einem bloß symbolischen Wortverständnis zufrieden geben. […] Wir wollen auf die „Sachen selbst“ zurückgehen.”",
@@ -44,18 +44,6 @@
       ]
     },
     {
-      "text": "locator: tập II, Einleitung, §2",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
-          "quote": "§ 2. Zur Verdeutlichung der Ziele solcher Untersuchungen.",
-          "where": "đầu mục chứa câu trích; câu nằm ở tr. 7 bản 1901 (khoảng dòng 21 sau tiêu đề trang “Einleitung. 7”)"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: “Chúng ta tuyệt đối không muốn bằng lòng với “chữ suông”, tức là với một cách hiểu từ ngữ chỉ thuần ký hiệu. […] Chúng ta muốn quay về với “chính các sự vật”.”",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -83,8 +71,25 @@
           "where": "bản quét archive.org, Veit, Leipzig 1900–1901"
         }
       ]
+    },
+    {
+      "text": "locator: tập II, Dẫn nhập, §2 (tr. 7 bản 1901)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "Wir wollen auf die „Sachen selbst\" zurückgehen.",
+          "where": "cùng trang với tiêu đề chạy \"Einleitung. 7\" (OCR: \"Einleitung. 7 umgekehrt die aus Aequivocation\"); trang kế bắt đầu \"Einleitung. verschiedenen\""
+        },
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "§ 2. Zur Verdeutlichung der Ziele solcher Untersuchungen .... 5",
+          "where": "mục lục tập II (Zweiter Theil): §2 từ tr. 5, §3 \"Die Schwierigkeiten der rein phänomenologischen Analyse ... 10\" nên tr. 7 thuộc §2"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Đối chiếu với OCR bản quét lần in đầu (Veit, Leipzig 1901) trên archive.org — URL đúng như bản ghi; khớp từng chữ sau khi hiện đại hóa ſs→ß như tiêu đề nói. Đề xuất locator \"II, Einleitung §2\" (chi tiết: tr. 7 bản 1901 = A 7; Hua XIX/1, tr. 10). Trường license có thể ghi public-domain."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Locator đúng: tr. 7 bản 1901 nằm trong §2 của Einleitung tập II. Ghi chú kiểm trước: Đối chiếu với OCR bản quét lần in đầu (Veit, Leipzig 1901) trên archive.org — URL đúng như bản ghi; khớp từng chữ sau khi hiện đại hóa ſs→ß như tiêu đề nói. Đề xuất locator \"II, Einleitung §2\" (chi tiết: tr. 7 bản 1901 = A 7; Hua XIX/1, tr. 10). Trường license có thể ghi public-domain."
 }

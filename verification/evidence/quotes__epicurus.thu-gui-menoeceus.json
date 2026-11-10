@@ -1,8 +1,8 @@
 {
   "unit": "quotes/epicurus.thu-gui-menoeceus",
-  "hash": "sha256:2f7fd4de3610409aa2cdfe4f841841517fc2442ff89e24cb6234de8c78722770",
-  "checked_on": "2026-11-09",
-  "checker": "agent-kiem-5.2-q02",
+  "hash": "sha256:c12fba8c475df8085079ecb6b2f87dfff3dedcdf22ed8076012912339b09d43e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn (bản Hicks): “Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.”",
@@ -34,18 +34,6 @@
       ]
     },
     {
-      "text": "locator: Diogenes Laërtius X.125 (Thư gửi Menoeceus §125)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
-          "quote": "xml:base=\"urn:cts:greekLit:tlg0004.tlg001.perseus-eng2:10.1\" n=\"125\"",
-          "where": "mục chứa câu trích"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch: “Vậy cái chết, điều đáng sợ nhất trong mọi điều xấu, chẳng là gì với ta, bởi khi ta còn thì cái chết chưa đến, và khi cái chết đến thì ta không còn.”",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -68,8 +56,20 @@
           "where": "năm in bản Loeb; đã vào phạm vi công cộng ở Mỹ"
         }
       ]
+    },
+    {
+      "text": "locator: §125 (Diogenes Laërtius X.125)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.",
+          "where": "bản Hicks (Perseus), thẻ n=\"125\" (urn …perseus-eng2:10.1)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Đối chiếu bằng bản TEI Perseus (bản Loeb 1925 của Hicks) trên GitHub PerseusDL; khớp từng chữ. URL Wikisource …/Book_X có trong kết quả tìm kiếm nhưng không mở được trong phiên này (WebFetch báo url_not_found, proxy chặn Wikisource). Đề xuất locator \"D.L. X.125\". Trường license có thể ghi public-domain."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích nằm trong D.L. X.125 (Thư gửi Menoeceus §125). Ghi chú kiểm trước: Đối chiếu bằng bản TEI Perseus (bản Loeb 1925 của Hicks) trên GitHub PerseusDL; khớp từng chữ. URL Wikisource …/Book_X có trong kết quả tìm kiếm nhưng không mở được trong phiên này (WebFetch báo url_not_found, proxy chặn Wikisource). Đề xuất locator \"D.L. X.125\". Trường license có thể ghi public-domain."
 }

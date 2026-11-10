@@ -1,8 +1,8 @@
 {
   "unit": "quotes/kant.grundlegung-zur-metaphysik-der-sitten",
-  "hash": "sha256:b4f7b52ac058480e1b5862dce94fb8ac54b7e13b4d2831236acf4ecfe52911cf",
+  "hash": "sha256:9090240bc681fd61701ab871a0c3cd301960e2112599f55038bedefa99d2e40a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q06",
+  "checker": "agent-kiem-5.2-w01",
   "claims": [
     {
       "text": "Nguyên văn: \"Handle so, daß du die Menschheit sowohl in deiner Person, als in der Person eines jeden andern jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.\"",
@@ -39,18 +39,6 @@
       ]
     },
     {
-      "text": "locator: Akademie-Ausgabe 4:429 (mục II)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.korpora.org/Kant/aa04/429.html",
-          "quote": "niemals bloß als Mittel brauchst.",
-          "where": "AA IV, S. 429, Z. 12; mục II không ghi trên trang, đoạn 4:429 thuộc phần II theo cách đánh số thông thường (không đối chiếu riêng)"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (Menschheit = nhân tính; Zweck = mục đích; bloß als Mittel = chỉ như phương tiện)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -60,8 +48,25 @@
           "quote": "zugleich als Zweck,"
         }
       ]
+    },
+    {
+      "text": "locator: Ak 4:429, dòng 10–12",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "10\tHandle so, daß du die Menschheit sowohl in deiner Person, als",
+          "where": "AA IV, S. 429, Zeile 10"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "niemals bloß als Mittel brauchst.",
+          "where": "dòng 12"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguyên văn khớp từng chữ với Akademie-Ausgabe (korpora.org). Số 'mục II' không in trên trang số hóa này; dựa trên đánh số thông thường, không do trang xác nhận. Bản dịch 'bạn' cho 'du' là chọn lựa văn phong (mệnh lệnh phổ thông), đúng ý."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w01): Câu trích chiếm dòng 10–12 trang Ak 4:429. Ghi chú kiểm trước: Nguyên văn khớp từng chữ với Akademie-Ausgabe (korpora.org). Số 'mục II' không in trên trang số hóa này; dựa trên đánh số thông thường, không do trang xác nhận. Bản dịch 'bạn' cho 'du' là chọn lựa văn phong (mệnh lệnh phổ thông), đúng ý."
 }

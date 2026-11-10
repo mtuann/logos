@@ -1,8 +1,8 @@
 {
   "unit": "quotes/russell.the-problems-of-philosophy-3",
-  "hash": "sha256:8858e90df5f760ef1997b639240718e8aafef72dae1f1dcf5815431c52df438b",
+  "hash": "sha256:93f6742d3f2ffc3773fa141e0a4f047958e3f5346a3c73a4138ce68a9dff7613",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q09",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn đoạn 1 (The value of philosophy ... deliberate reason.) đúng từng chữ",
@@ -39,18 +39,6 @@
       ]
     },
     {
-      "text": "Vị trí: chương XV, đoạn 7",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.stephenhicks.org/wp-content/uploads/2015/08/RussellB-The-Value-of-Philosophy-text.pdf",
-          "quote": "The value of philosophy is, in",
-          "where": "đầu đoạn 7"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa (liberating doubt = hoài nghi giải phóng; unfamiliar aspect = dáng vẻ lạ lẫm; 'là'/'có thể là' nhấn mạnh đúng)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -77,8 +65,25 @@
           "where": "original publication"
         }
       ]
+    },
+    {
+      "text": "locator: chương XV, đoạn 7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+          "quote": "The value of philosophy is, in fact, to be sought largely in its very uncertainty.",
+          "where": "chương XV, đoạn 7"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+          "quote": "Thus, while diminishing our feeling",
+          "where": "chương XV, đoạn 7 (cùng đoạn)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn đọc được là bản đăng lại của chương XV: paulgraham.com và PDF stephenhicks.org, cả hai theo chính tả Mỹ ('recognizes', 'realizes'); bản ghi giữ chính tả Anh ('recognises', 'realises'), phù hợp bản in 1912 (Gutenberg 5827), nhưng bản Gutenberg bị cắt trước chương XV nên chưa đối chiếu được từng ký tự chính tả. Khác chính tả coi là nhe nếu có. Số đoạn lấy từ PDF stephenhicks (đoạn suy ra từ ngắt dòng, nên người làm kiểm lại). Nguồn yếu: trang đăng lại. Russell mất 1970, bản 1912 phạm vi công cộng ở Mỹ; trích đoạn dài nhưng PD."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Nguồn đọc được là bản đăng lại của chương XV: paulgraham.com và PDF stephenhicks.org, cả hai theo chính tả Mỹ ('recognizes', 'realizes'); bản ghi giữ chính tả Anh ('recognises', 'realises'), phù hợp bản in 1912 (Gutenberg 5827), nhưng bản Gutenberg bị cắt trước chương XV nên chưa đối chiếu được từng ký tự chính tả. Khác chính tả coi là nhe nếu có. Số đoạn lấy từ PDF stephenhicks (đoạn suy ra từ ngắt dòng, nên người làm kiểm lại). Nguồn yếu: trang đăng lại. Russell mất 1970, bản 1912 phạm vi công cộng ở Mỹ; trích đoạn dài nhưng PD."
 }

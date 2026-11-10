@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.tam-kinh-t251-doan-ket",
-  "hash": "sha256:c23155fd0f88373e8ccaeeebd6d07212fbc4ed0a56c30a996e6e992b04b9d716",
+  "hash": "sha256:6b86bc26f67dd0f084d121fda83892ae4c06b2ef0588f26919f5de2f7d836def",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn: 故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。",
@@ -45,18 +45,6 @@
       ]
     },
     {
-      "text": "locator: T251 (Huyền Trang dịch)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
-          "quote": "唐三藏法師玄奘譯",
-          "where": "tiêu đề kinh"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa (câu chú thần diệu lớn... trừ được mọi khổ, chân thật không hư dối)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -66,8 +54,20 @@
           "quote": "能除一切苦，真實不虛"
         }
       ]
+    },
+    {
+      "text": "locator: T251, đoạn kết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛，故說般若波羅蜜多咒。",
+          "where": "đoạn cuối của kinh, ngay trước câu chú kết thúc văn bản"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Lỗi nhẹ: lệch chữ Hán/phiên âm ở chú cuối (hai bản CBETA cũng lệch nhau). Phần … đầu bản dịch lược câu chú, đã đánh dấu."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): đoạn từ 故知般若波羅蜜多 đến câu chú là phần kết của T251 cbdata: locator đúng. Giữ nguyên claim sai nhẹ cũ về chữ cuối câu chú (cbdata: 菩提莎婆訶; bản ghi chép 僧莎訶 và phiên âm 'tát bà ha')."
 }

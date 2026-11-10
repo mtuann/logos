@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.binh-ngo-dai-cao-theo-toan-thu",
-  "hash": "sha256:a01bca69fcb5a487b64e28827bb9b3819c207632fdf2b6cb01ba43f53297f44f",
+  "hash": "sha256:7a2d95cf657b696f0f12b51a8eae2e5992d5b8a4c0fbe77c41e3ca1fc4f208c9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q11",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn chữ Hán khớp văn bản Toàn thư (Wikisource, 本紀卷之十), từng chữ: đoạn Đại Việt văn hiến",
@@ -49,19 +49,25 @@
       ]
     },
     {
-      "text": "locator: (tiêu đề chỉ ghi 'theo Toàn thư', chưa có quyển)",
+      "text": "locator: Toàn thư, Bản kỷ thực lục quyển 10; đoạn Đại Việt văn hiến",
       "kind": "du-kien",
       "verdict": "sai",
       "severity": "nhe",
-      "fix": "Đại Việt sử ký toàn thư, Bản kỷ thực lục, quyển X (本紀卷之十), mục Lê Thái Tổ",
+      "fix": "Toàn thư, Bản kỷ quyển 10; đoạn Đại Việt văn hiến",
       "sources": [
         {
           "url": "https://zh.wikisource.org/wiki/%E5%B9%B3%E5%90%B3%E5%A4%A7%E8%AA%A5",
-          "quote": "大越史記全書"
+          "quote": "本作品收錄於《大越史記全書/本紀卷之十》"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81",
+          "quote": "黎皇朝紀",
+          "where": "本紀卷之十 là quyển chứa Lê Thái Tổ; trang Wikisource không có chữ 'thực lục'"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Nguồn: zh.wikisource.org (Wikisource, bản chép Toàn thư; không phải ảnh bản khắc nên là nguồn hạng vừa). Bản Hoàng Việt văn tuyển trên vi.wikisource khác vài chữ (弔, 神民, 孝生...), nên bài cần ghi rõ 'theo Toàn thư' như đã ghi. Locator trong Toàn thư là quyển X; người làm điền trường locator. Văn bản phạm vi công cộng."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator cần rút gọn/sửa theo fix (mức nhẹ). Giữ nguyên các claim cũ. Ghi chú lượt trước: Nguồn: zh.wikisource.org (Wikisource, bản chép Toàn thư; không phải ảnh bản khắc nên là nguồn hạng vừa). Bản Hoàng Việt văn tuyển trên vi.wikisource khác vài chữ (弔, 神民, 孝生...), nên bài cần ghi rõ 'theo Toàn thư' như đã ghi. Locator trong Toàn thư là quyển X; người làm điền trường locator. Văn bản phạm vi công cộng. | 10/11/2026 (sổ sách, Claude): kho sửa `locator` thành \"Toàn thư, Bản kỷ quyển 10; đoạn Đại Việt văn hiến\" đúng `fix` ở trên; cập nhật mã băm, không mở lại nguồn."
 }

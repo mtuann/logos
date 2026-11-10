@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.suy-niem-ii-3-at-7-25",
-  "hash": "sha256:fdb4b0c0494bf2a39fa7b589f135c035a71bc781199982630c6bbd4990c80aab",
+  "hash": "sha256:dca3174f212ea383ef03867c571c5388f06ec33f3cc17b228f16838b7fb17871",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r07",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn Veitch: \"Doubtless, then, I exist, since I am deceived; ... conceived in my mind.\"",
@@ -40,18 +40,18 @@
       ]
     },
     {
-      "text": "locator: §3, AT 7:25",
+      "text": "locator: AT VII 25",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_II",
-          "quote": "Haud dubie igitur ego etiam sum, si me fallit; & fallat quantum potest, nunquam tamen efficiet, ut nihil sim",
-          "where": "§3 (đoạn kế tiếp là '4. Nondum verò'), sau mốc [25] và trước [26] = AT 7:25"
+          "quote": "Haud dubie igitur ego etiam sum, si me fallit",
+          "where": "§3 qua mốc [25]; câu 'Haud dubie igitur ego etiam sum' và 'hoc pronuntiatum, Ego sum, ego existo' nằm sau mốc [25], trước [26]"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): locator đối chiếu ở Wikisource Latin (Adam–Tannery, Meditatio II). Câu 'Haud dubie igitur ego etiam sum' và 'hoc pronuntiatum, Ego sum, ego existo' cùng nằm trên AT 7:25."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): phần trích (từ 'Haud dubie') nằm sau mốc [25], trước [26] trên la.wikisource Meditatio II: khớp 'AT VII 25'. (Đầu §3 nằm ở AT VII 24, phần trích thì ở 25.) Các claim cũ giữ nguyên."
 }

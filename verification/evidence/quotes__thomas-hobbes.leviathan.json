@@ -1,8 +1,8 @@
 {
   "unit": "quotes/thomas-hobbes.leviathan",
-  "hash": "sha256:f517e9916a79af1afd7c94bbdfed6874aa530611beb8782ddc8acd69cc3ac34a",
+  "hash": "sha256:916a4df1d7766d95d03fd92d0da26c814954e3b09381a241719ee24aa9d19b78",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q10",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn tiếng Anh (chính tả 1651): In such condition, there is no place for Industry ... solitary, poore, nasty, brutish, and short.",
@@ -51,8 +51,25 @@
           "quote": "no culture of the earth; no navigation, nor use of the commodities that may be imported by sea;"
         }
       ]
+    },
+    {
+      "text": "locator: chương 13",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "CHAPTER XIII:",
+          "where": "Fordham Sourcebook, Leviathan chương XIII"
+        },
+        {
+          "url": "https://sourcebooks.web.fordham.edu/mod/hobbes-lev13.asp",
+          "quote": "and the life of man, solitary, poor, nasty, brutish, and short.",
+          "where": "chương XIII (chính tả hiện đại hóa)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn nguyên văn chính tả cũ lấy từ PDF thư viện Rosendale (nguồn yếu), đối chiếu thêm Fordham (chính tả hiện đại). Trang Gutenberg 3207 bị công cụ cắt ở Chương VII nên không dùng được cho đoạn này; nên đối chiếu thêm bản EEBO-TCP/Gutenberg khi mở được. Văn công cộng. 'máy móc' cho 'Instruments of moving' hơi thoát nhưng đúng ý."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Nguồn nguyên văn chính tả cũ lấy từ PDF thư viện Rosendale (nguồn yếu), đối chiếu thêm Fordham (chính tả hiện đại). Trang Gutenberg 3207 bị công cụ cắt ở Chương VII nên không dùng được cho đoạn này; nên đối chiếu thêm bản EEBO-TCP/Gutenberg khi mở được. Văn công cộng. 'máy móc' cho 'Instruments of moving' hơi thoát nhưng đúng ý."
 }

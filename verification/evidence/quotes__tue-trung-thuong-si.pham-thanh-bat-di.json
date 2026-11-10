@@ -1,8 +1,8 @@
 {
   "unit": "quotes/tue-trung-thuong-si.pham-thanh-bat-di",
-  "hash": "sha256:0b51b5afcb94ef994b09aa30a02a5f39e6631f62f92683c60533f91cf3da3543",
+  "hash": "sha256:3a63f83602031b03a2e4c4af85a4cc3fa9733a8f92ac3d97a63a9447f07e1394",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r07",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Phiên âm: Ngã nhân tự lộ diệc tự sương, / Phàm thánh như lôi diệc như điện (theo Nguyễn Huệ Chi 2014)",
@@ -56,8 +56,20 @@
           "where": "tác giả Nguyễn Huệ Chi; Tạp chí Nghiên cứu và Phát triển số 3-4 (2014), đăng 2014-07-21"
         }
       ]
+    },
+    {
+      "text": "locator: hai câu, dẫn theo Nguyễn Huệ Chi (2014), tr. 188",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vjol.info.vn/ncpt-hue/en/article/view/16248/14546",
+          "quote": "188 Taïp chí Nghieân cöùu vaø Phaùt trieån, soá 3-4",
+          "where": "PDF trang 20/23 có đầu trang in '188 Tạp chí Nghiên cứu và Phát triển, số 3-4 (110-111) 2014' (phông VNI); cùng trang có Ngã nhân tự lộ diệc tự sương, / Phàm thánh như lôi diệc như điện (phông VNI: Ngaõ nhaân töï loä dieäc töï söông, Phaøm thaùnh nhö loâi dieäc nhö ñieän)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): trang vjol mở được; đọc PDF qua pdf.js, văn bản PDF dùng phông VNI nên tôi giải mã dấu để chép quote (nội dung đúng với bản hiển thị). Bài báo dẫn đúng hai câu và tên 'Phàm thánh bất dị'; bản dịch trong bài là 'Ta, người tựa móc cũng tựa sương, Phàm, thánh như sấm cũng như điện', bản ghi diễn đạt sát nghĩa. Bản ghi dùng 'Hán Việt' của Nguyễn Huệ Chi; chữ Hán gốc không có trong bài nên không kiểm."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): đọc PDF bằng pdf.js: hai câu đứng trong trang in 188 của bài (bài trải từ tr. 169 đến 191), ngay trước ghi chú '(Phàm thánh bất dị - ...)'. Hai câu là hai dòng đầu trong một đoạn thơ bốn dòng nên 'hai câu' đúng. Các claim cũ giữ nguyên."
 }

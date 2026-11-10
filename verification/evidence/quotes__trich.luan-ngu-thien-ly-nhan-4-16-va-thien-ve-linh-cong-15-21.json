@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.luan-ngu-thien-ly-nhan-4-16-va-thien-ve-linh-cong-15-21",
-  "hash": "sha256:c0e2171ff28db45f6b1cb699f66ac1470187bba72c29bde4bf27e0e19469e409",
+  "hash": "sha256:c9fdf6f1be93182453e6a14110d194d921b02766d29165c961c8efde102880f8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q13",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn 4.16 khớp ctext.org",
@@ -29,21 +29,6 @@
       ]
     },
     {
-      "text": "locator: Lý nhân 4.16 và Vệ Linh Công 15.21",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://ctext.org/analects/li-ren",
-          "quote": "里仁 16:"
-        },
-        {
-          "url": "https://ctext.org/analects/wei-ling-gong",
-          "quote": "衛靈公 21:"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -53,8 +38,25 @@
           "quote": "君子喻於義，小人喻於利。"
         }
       ]
+    },
+    {
+      "text": "locator: 4.16 và 15.21",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E9%87%8C%E4%BB%81%E7%AC%AC%E5%9B%9B",
+          "quote": "子曰：「君子喻於義，小人喻於利。」",
+          "where": "論語/里仁第四, đoạn thứ 16 trong 26"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E8%A1%9E%E9%9D%88%E5%85%AC%E7%AC%AC%E5%8D%81%E4%BA%94",
+          "quote": "子曰：「君子求諸己，小人求諸人。」",
+          "where": "論語/衞靈公第十五, đoạn thứ 20 vì Wikisource gộp 15.1-15.2 làm một đoạn, tức 15.21 theo cách đánh số chuẩn (sau 君子病無能焉, 君子疾沒世)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn ctext.org đọc được qua trang không có hậu tố /zh; kết quả do công cụ đọc trang trả về."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Nguồn ctext.org đọc được qua trang không có hậu tố /zh; kết quả do công cụ đọc trang trả về. ctext không mở; đối chiếu zh.wikisource."
 }

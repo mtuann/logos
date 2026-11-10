@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.tran-nhan-tong-xuan-hieu-sang-xuan",
-  "hash": "sha256:794847e3ced937351c0dc21cbe3e2fd24000851b4d8895b1573a82235b2abd52",
+  "hash": "sha256:13f1ad86861d0830d867c0e8a83ca7bba8dceec4948d93ca7b42e4a381e488e2",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r07",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn Hán: 睡起啟窗扉，不知春已歸。一雙白蝴蝶，拍拍趁花飛。",
@@ -39,8 +39,20 @@
           "where": "phiên âm khải song phi / dĩ quy / bạch hồ điệp / phách phách sấn hoa phi đúng với các chữ Hán; bản dịch 'phấp phới đuổi theo hoa mà bay' đúng ý 拍拍趁花飛"
         }
       ]
+    },
+    {
+      "text": "locator: trọn bài (bốn câu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E6%9B%89_(%E9%99%B3%E4%BB%81%E5%AE%97)",
+          "quote": "睡起啟窗扉\n不知春已歸\n一雙白蝴蝶\n拍拍趁花飛",
+          "where": "wikitext: đúng bốn dòng, hết bài"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r07): zh.wikisource có bài 春曉 của 陳仁宗 trùng nguyên văn. Nguồn là Wikisource, không ghi bản in (nguồn yếu); nên bổ sung Thơ văn Lý–Trần khi có. Tiêu đề 'Xuân hiểu' (春曉) đúng; '(Sáng xuân)' là dịch tên."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): zh.wikisource 春曉 (陳仁宗) có đúng bốn dòng, trọn bài. Các claim cũ giữ nguyên (nguồn Wikisource, nguồn yếu)."
 }

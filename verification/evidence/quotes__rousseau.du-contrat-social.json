@@ -1,8 +1,8 @@
 {
   "unit": "quotes/rousseau.du-contrat-social",
-  "hash": "sha256:ca2c958c21da7104978ccbbc6c1ca08a5473bb428b3afe9f80e569271465a80f",
+  "hash": "sha256:bdb97a6c1ad803d6ee90a6f333b6282e432c01f8143330c3a8f820a0b0255d5e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q09",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn 'Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they.' đúng từng chữ (Cole)",
@@ -39,18 +39,6 @@
       ]
     },
     {
-      "text": "Quyển I, chương 1 (tiêu đề đã ghi đúng)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
-          "quote": "CHAPTER I: SUBJECT OF THE FIRST BOOK",
-          "where": "Book I"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa (born free = sinh ra tự do; master/slave = chủ/nô lệ hơn cả họ)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -61,8 +49,25 @@
           "where": "Book I, Chapter I"
         }
       ]
+    },
+    {
+      "text": "locator: quyển I, chương 1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
+          "quote": "BOOK I",
+          "where": "tiêu đề Quyển I ngay trước chương I của chính văn"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333.txt",
+          "quote": "SUBJECT OF THE FIRST BOOK",
+          "where": "CHAPTER I; ngay sau đó là câu 'Man is born free;'"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguyên văn dùng dấu chấm phẩy đúng như bản ghi. Năm 1913 lấy từ OPAC thư viện Sophia (ghi 1913, Dent, Dutton); nguồn yếu hơn nhưng là thư mục thư viện. Gutenberg 46333 không ghi năm in; đề xuất bổ sung link ổn định là chính trang Gutenberg 46333. Câu 'mà đâu đâu cũng mang xiềng xích' đúng ý. Cần lưu ý nhiều bản dịch cho câu 2 khác nhau ('Kẻ tưởng mình là chủ' vẫn đúng với Cole)."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Nguyên văn dùng dấu chấm phẩy đúng như bản ghi. Năm 1913 lấy từ OPAC thư viện Sophia (ghi 1913, Dent, Dutton); nguồn yếu hơn nhưng là thư mục thư viện. Gutenberg 46333 không ghi năm in; đề xuất bổ sung link ổn định là chính trang Gutenberg 46333. Câu 'mà đâu đâu cũng mang xiềng xích' đúng ý. Cần lưu ý nhiều bản dịch cho câu 2 khác nhau ('Kẻ tưởng mình là chủ' vẫn đúng với Cole)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.tam-kinh-t251-2",
-  "hash": "sha256:435390a48c34529d55a82bcd53e60f2b16f4a4bd6ca5a16cb08e11efb776e220",
+  "hash": "sha256:67203e4f8d768c942a00f53ac7cd854c50a627055033e5bed0d653d61dbd8f95",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn: 是諸法空相，不生不滅，不垢不淨，不增不減。",
@@ -35,18 +35,6 @@
       ]
     },
     {
-      "text": "locator: T251 (Huyền Trang dịch)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
-          "quote": "唐三藏法師玄奘譯",
-          "where": "tiêu đề kinh"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa (không sinh không diệt…; không có vô minh cũng không có hết vô minh…; không có trí, cũng không có chứng đắc)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -67,8 +55,20 @@
           "quote": "無苦、集、滅、道；無智，亦無得。"
         }
       ]
+    },
+    {
+      "text": "locator: T251, đoạn “Thị chư pháp không tướng”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+          "quote": "「舍利子！是諸法空相，不生不滅，不垢不淨，不增不減。",
+          "where": "đoạn thứ hai của kinh, ngay sau đoạn 'Sắc bất dị không'"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Nguồn CBETA qua cbdata. Dấu … lược phần 受想行識/六根/六境/十八界, bản ghi đã đánh dấu rõ. Dịch 'Thị chư pháp không tướng' thành 'Tướng không của các pháp ấy' chấp nhận được."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): đoạn 'Thị chư pháp không tướng' có trong T251 cbdata, đúng tên locator. Các claim cũ giữ nguyên."
 }

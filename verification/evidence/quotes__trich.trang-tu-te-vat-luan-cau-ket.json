@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.trang-tu-te-vat-luan-cau-ket",
-  "hash": "sha256:457f5b2a953c569d9bf9e3cc07d2a6f620d95a584bba170e29a9d8537e932e4c",
+  "hash": "sha256:7e91081c81417d5e20d2ed04fad11c14abffac7c225e61d1861010d406e153ed",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-q16",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Nguyên văn: 周與胡蝶，則必有分矣。此之謂物化。",
@@ -29,18 +29,6 @@
       ]
     },
     {
-      "text": "locator: Tề vật luận (ctext mục 14, câu cuối chương)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://ctext.org/zhuangzi/adjustment-of-controversies/ens",
-          "quote": "此之谓物化",
-          "where": "mục 14"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch sát nghĩa ('vật hóa, sự chuyển hóa của muôn vật' là chú giải thêm hợp lý)",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -50,8 +38,23 @@
           "quote": "周与胡蝶，则必有分矣。此之谓物化。"
         }
       ]
+    },
+    {
+      "text": "locator: Tề vật luận, câu cuối (ctext mục 14)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Tề vật luận, câu cuối",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+          "quote": "周與胡蝶，則必有分矣，此之謂物化。",
+          "where": "câu cuối của 齊物論 trên zh.wikisource"
+        }
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Giản thể trên ctext, chữ tương ứng trùng bản ghi."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): 'Tề vật luận, câu cuối' đúng (zh.wikisource 莊子/齊物論 kết bằng 周與胡蝶，則必有分矣，此之謂物化). Số 'mục 14' của ctext không kiểm được trong lượt này vì ctext.org chặn công cụ (lượt trước ghi mục 14 theo trang ctext); đề xuất rút gọn locator. Các claim cũ giữ nguyên. | 10/11/2026 (sổ sách, Claude): kho sửa `locator` thành \"Tề vật luận, câu cuối\" đúng `fix` ở trên; cập nhật mã băm, không mở lại nguồn."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "quotes/thomas-aquinas.tong-luan-than-hoc",
-  "hash": "sha256:93b7b0d3db200f9be9684670302fa8be4c0dea19725a8f42e125981eec5df949",
+  "hash": "sha256:2c60ee2b94505b23b9ae3125b68caa528e11921b7cb508f084e509b53aefeaca",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r05",
+  "checker": "agent-kiem-5.2-w02",
   "claims": [
     {
       "text": "Nguyên văn: Since therefore grace does not destroy nature but perfects it, natural reason should minister to faith as the natural bent of the will ministers to charity.",
@@ -32,18 +32,6 @@
       ]
     },
     {
-      "text": "locator: I, q.1, a.8, ad 2",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.newadvent.org/summa/1001.htm",
-          "quote": "Reply to Objection 2",
-          "where": "Article 8 của Question 1, Part I (New Advent 1001)"
-        }
-      ]
-    },
-    {
       "text": "Bản dịch tiếng Việt sát nghĩa",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -65,8 +53,25 @@
           "where": "trang chủ Summa, New Advent"
         }
       ]
+    },
+    {
+      "text": "locator: I, q. 1, a. 8, ad 2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1001.htm",
+          "quote": "Whether sacred doctrine is a matter of argument?",
+          "where": "Article 8, Prima Pars Q. 1"
+        },
+        {
+          "url": "https://www.newadvent.org/summa/1001.htm",
+          "quote": "Since therefore grace does not destroy nature but perfects it",
+          "where": "Reply to Objection 2 của Article 8 (sau 'Reply to Objection 1', trước Article 9)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): năm 1920 (Second and Revised Edition) xác nhận ở trang chủ New Advent; các claim còn lại giữ từ lượt trước."
+  "notes": "Kiểm locator bằng trình duyệt (agent-kiem-5.2-w02): locator đúng, đối chiếu bản trực tuyến cùng đường dẫn đã mở. Giữ nguyên các claim cũ. Ghi chú lượt trước: Kiểm lại bằng trình duyệt (agent-kiem-5.2-r05): năm 1920 (Second and Revised Edition) xác nhận ở trang chủ New Advent; các claim còn lại giữ từ lượt trước."
 }

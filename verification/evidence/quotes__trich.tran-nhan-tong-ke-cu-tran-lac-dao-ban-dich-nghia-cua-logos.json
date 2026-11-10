@@ -1,8 +1,8 @@
 {
   "unit": "quotes/trich.tran-nhan-tong-ke-cu-tran-lac-dao-ban-dich-nghia-cua-logos",
-  "hash": "sha256:369e586ea030c3ac88b2765fd8d21aa937273e79428553ec7b9f71bffe3fbe61",
+  "hash": "sha256:497e2f730148d975b2ab4f3e717b1281c59f4bce772fde7f2ba4026f09059bb2",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-g01",
+  "checker": "agent-kiem-5.2-w03",
   "claims": [
     {
       "text": "Bài kệ thuộc Cư trần lạc đạo (phú) của Trần Nhân Tông",
@@ -90,18 +90,18 @@
       ]
     },
     {
-      "text": "locator: kệ cuối Cư trần lạc đạo phú",
+      "text": "locator: bài kệ kết",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
-          "quote": "Kệ vân - 偈云",
-          "where": "vi.wikisource: 'Bài phú ... dài 10 hội, cuối bài là 4 câu kệ bằng chữ Hán' (trang chính) và trang Kệ vân"
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA",
+          "quote": "Bài phú được viết bằng chữ Nôm, dài 10 hội, cuối bài là 4 câu kệ bằng chữ Hán.",
+          "where": "mục lục trang gồm Đệ nhất hội … Đệ thập hội, rồi 'Kệ vân' là mục cuối"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, mở thivien.net trang Kệ vân (Trần Nhân Tông, Cư trần lạc đạo phú): ghi tuyển tập nguồn 'Thơ văn Lý Trần tập II (1988)' và chép dòng 4 là 對境 (khớp bản ghi), 4 dòng Hán khớp (thivien dùng 饑, 宝). vi.wikisource chép 鏡 ở dòng 4: dị bản 境/鏡, nên ghi chú dị bản nếu cần. thivien.net là nguồn yếu (cộng đồng); chưa mở được bản in để chắc 'Viện Văn học, NXB KHXH' (thivien chỉ ghi tên tập và năm 1988)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-w03): vi.wikisource xác nhận kệ bốn câu chữ Hán đứng cuối bài phú (mục 'Kệ vân' sau Đệ thập hội). Các claim cũ giữ nguyên (nguồn thivien.net/baophapluat là nguồn yếu)."
 }
