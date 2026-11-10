@@ -1,0 +1,99 @@
+{
+  "unit": "philpapers/sieu-ban-the-hoc-metaontology",
+  "hash": "sha256:46d77dd8f7105573098f459efb7857f8ae0644898c5d2d973c6920bf1360262b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m02",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Additional questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 2 (Table 2, câu bổ sung); câu \"Metaontology\" nằm trong bảng này"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Siêu bản thể học (*metaontology*) (Metaontology)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Metaontology",
+          "where": "Bảng 2 (Table 2, câu bổ sung)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Metaontology: heavyweight realism, deflationary realism, or anti-realism?",
+          "where": "trang kết quả 2020 PhilPapers Survey"
+        }
+      ]
+    },
+    {
+      "text": "Hiện thực luận mạnh (*heavyweight realism*) (Heavyweight realism): 38,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Heavyweight realism\t272\t38.6",
+          "where": "Bảng 2 (Table 2, câu bổ sung), câu Metaontology (cột n, %)"
+        }
+      ]
+    },
+    {
+      "text": "Hiện thực luận giảm phát (*deflationary realism*) (Deflationary realism): 28,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Deflationary realism\t198\t28.1",
+          "where": "Bảng 2 (Table 2, câu bổ sung), câu Metaontology (cột n, %)"
+        }
+      ]
+    },
+    {
+      "text": "Phản hiện thực luận (*anti-realism*) (Anti-realism): 11,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Anti-realism\t84\t11.9",
+          "where": "Bảng 2 (Table 2, câu bổ sung), câu Metaontology (cột n, %)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 21,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Other\t152\t21.6",
+          "where": "Bảng 2 (Table 2, câu bổ sung), câu Metaontology (cột n, %)"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 700",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 704, excluding skipped & insufficiently familiar (428 respondents)",
+          "where": "trang kết quả, câu Metaontology"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m02): đối chiếu Bảng 2 (Table 2, câu bổ sung) của Bourget & Chalmers 2023, Philosophers' Imprint 23(11), bản xuất bản chính thức (HTML, doi 10.3998/phimp.2109) ở journals.publishing.umich.edu — PhilArchive BOUPOP-3 hiện bắt xác minh Cloudflare (ô \"Verify you are human\"), không vượt nên dùng bản tạp chí, cùng bài. Bảng, nhãn, % (và Exclusive nếu có) khớp từng ô; n ≈ 700 khớp N = 704 trên trang kết quả. Trang web: heavyweight 38,64%, deflationary 28,13% (198/704 = 28,125% nên 28,1 — đúng), anti-realism 11,93%; \"Other\" trên web 23,44% tính khác bài báo, không dùng cho \"Khác\". Tổng cột n = 706, N trên web = 704: cả hai đều khớp ≈700 trong sai số làm tròn. Không có lỗi."
+}

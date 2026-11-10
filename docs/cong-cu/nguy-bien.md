@@ -276,7 +276,7 @@ Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chú
 
 ## Nguồn {#nguon}
 
-1. Hans Hansen, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
+1. Hansen, Hans, "Fallacies", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>
 2. Bradley Dowden, "Fallacies", *Internet Encyclopedia of Philosophy* (các mục "Affirming the Consequent" và "Denying the Antecedent"). <https://iep.utm.edu/fallacy/>
 3. Leo Groarke, "Informal Logic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/logic-informal/>
 4. Douglas Walton, *Informal Logic: A Pragmatic Approach*, ấn bản 2, Cambridge University Press, 2008.

@@ -1,0 +1,125 @@
+{
+  "unit": "quotes/trich.tam-kinh-t251-doan-ket",
+  "hash": "sha256:7fa7be9101b6d0e0fe5d722ac319a67fb09e92dbdc77c5bda781da484e3d5d60",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn: 故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "「故知般若波羅蜜多是",
+          "where": "CBETA XML T08n0251, cuối dòng 848c17"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "大神咒、是大明咒、是無上咒、是無等等咒，能",
+          "where": "dòng 848c18"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "除一切苦，真實不虛，故說般若波羅蜜多咒。」",
+          "where": "dòng 848c19; dấu …… thay phần 故說般若波羅蜜多咒。即說咒曰"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn câu chú: 揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　僧莎訶",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "莎婆【CB】【房山-CB】，僧莎【大】，薩婆【宋】【元】【明】",
+          "where": "CBETA 校注 0848007: bản in Đại chính 【大】 là 僧莎(訶); CBETA nay hiệu đính 莎婆 theo Phòng Sơn"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "帝【大】＊，諦【宋】＊【元】＊【明】＊",
+          "where": "校注 0848005: 揭帝 là chữ của bản Đại chính"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "般【大】＊，波【宋】＊【元】＊【明】＊",
+          "where": "校注 0848006: 般羅 là chữ của bản Đại chính"
+        }
+      ]
+    },
+    {
+      "text": "Tác phẩm và người dịch: Tâm kinh, T251, Huyền Trang dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "大正新脩大藏經數位版, No. 251 般若波羅蜜多心經"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "唐 玄奘譯",
+          "where": "teiHeader, author"
+        }
+      ]
+    },
+    {
+      "text": "locator: T251, đoạn kết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "<p xml:id=\"pT08p0848c2001\">即說咒曰：</p>",
+          "where": "T08, tr. 848c17–22, ngay trước dòng đóng quyển"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm phần kinh: Cố tri Bát nhã Ba la mật đa thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thật bất hư.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "大神咒、是大明咒、是無上咒、是無等等咒，能",
+          "where": "đối chiếu từng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Phiên âm câu chú: Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha (cách đọc quen ở chùa Việt, theo chữ 揭諦…波羅…薩婆訶 của các bản Tống, Nguyên, Minh; bản Đại chính chép 揭帝…般羅…僧莎訶)",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "僧莎＝薩婆【三】",
+          "where": "大正藏校注 0848007: \"tát bà\" là âm của 薩婆 (Tống, Nguyên, Minh), không phải của 僧莎 trong nguyên văn bản ghi"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "般＝波【三】＊",
+          "where": "大正藏校注 0848006: \"ba la\" là âm của 波羅"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Bản dịch: \"Cho nên biết Bát nhã Ba la mật đa là câu chú thần diệu lớn, câu chú sáng suốt lớn, câu chú cao nhất, câu chú không gì sánh bằng, trừ được mọi khổ, chân thật không hư dối. …\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T08/T08n0251.xml",
+          "quote": "除一切苦，真實不虛，故說般若波羅蜜多咒。」"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): nguyên văn khớp T251 theo bản in Đại chính (CBETA XML, hiệu khám ghi 僧莎【大】). Lưu ý: văn bản CBETA hiện hành đã hiệu đính thành 菩提　莎婆訶 (theo kinh đá Phòng Sơn, 2023), nên ai đối chiếu với CBETA online sẽ thấy khác; nếu muốn có thể thêm chú thích \"theo bản in Đại chính\". Lỗi nhẹ duy nhất: phiên âm câu chú đọc theo chữ của bản Tống/Nguyên/Minh, không khớp chữ Hán in trong bản ghi (trang doc/tam-kinh.md có giải thích ở đoạn bình, nhưng bản ghi đứng riêng thì không). | 10/11/2026 (sổ sách, Claude): đã sửa theo claim 5 (thêm chú thích sau phiên âm câu chú: đọc theo chữ của các bản Tống, Nguyên, Minh; bản Đại chính chép khác); cập nhật mã băm, không mở lại nguồn."
+}

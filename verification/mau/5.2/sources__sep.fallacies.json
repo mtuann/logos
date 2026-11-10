@@ -1,0 +1,61 @@
+{
+  "unit": "sources/sep.fallacies",
+  "hash": "sha256:a56e5c51c7ef65718909d09c44ffb6b8df9695e1beb9e60df376eb691b469080",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: \"Fallacies\", *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Fallacies (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: Fallacies"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Hans Hansen (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Hans Hansen",
+          "where": "dòng bản quyền cuối bài: Copyright © 2024 by Hans Hansen (chỉ một tác giả)"
+        }
+      ]
+    },
+    {
+      "text": "Kiểu ghi tên tác giả \"Hans Hansen\" (tên trước họ), khác kiểu \"Họ, Tên\" của các mục nguồn SEP/IEP khác",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Hansen, Hans, \"Fallacies\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fallacies/>",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Hans Hansen",
+          "where": "dòng bản quyền cuối bài (họ là Hansen)"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/fallacies/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "First published Fri May 29, 2015; substantive revision Fri Aug 30, 2024",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; đúng mục, tác giả duy nhất Hans Hansen (đăng 2015, sửa lớn 30/08/2024; bản ghi không ghi năm). Chỉ có lỗi kiểu ghi nhẹ: nên ghi \"Hansen, Hans\" cho thống nhất với các mục nguồn khác. Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu. | 10/11/2026 (sổ sách, Claude): đã sửa theo claim 2 (tên tác giả ghi \"Hansen, Hans\" như các nguồn SEP khác); cập nhật mã băm, không mở lại nguồn."
+}

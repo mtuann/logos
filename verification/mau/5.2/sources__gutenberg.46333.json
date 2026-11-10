@@ -1,0 +1,80 @@
+{
+  "unit": "sources/gutenberg.46333",
+  "hash": "sha256:472dce0cc1e14d670b51f877499f14e640aea093f42dda55bdfdfc6a702aa5af",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Rousseau, Jean-Jacques, *Du contrat social* (*Khế ước xã hội*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "Rousseau, Jean-Jacques, 1712-1778",
+          "where": "bảng thư mục, dòng Author"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+          "quote": "Contrat Social, or Principes du droit politique, 1762",
+          "where": "bảng niên biểu tác phẩm trong bản Everyman"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1762)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/46333/pg46333-images.html",
+          "quote": "The Social Contract finally appeared, along with Emile, in 1762.",
+          "where": "Introduction của G. D. H. Cole"
+        }
+      ]
+    },
+    {
+      "text": "Bản tiếng Anh của G. D. H. Cole",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "Cole, G. D. H. (George Douglas Howard), 1889-1959",
+          "where": "bảng thư mục, dòng Translator"
+        }
+      ]
+    },
+    {
+      "text": "(1913, phạm vi công cộng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/socialcontractdi0000rous/metadata",
+          "quote": "\"associated-names\":\"Cole, G. D. H. (George Douglas Howard), 1889-1959\"",
+          "where": "Internet Archive, bản The social contract ; Discourses, London : Dent, date 1913"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "Public domain in the USA.",
+          "where": "bảng thư mục, dòng Copyright"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://www.gutenberg.org/ebooks/46333> trỏ đúng bản dịch Cole của Khế ước xã hội",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "quote": "The social contract & discourses by Jean-Jacques Rousseau | Project Gutenberg",
+          "where": "tiêu đề trang ebook 46333 (Everyman's library)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Gutenberg #46333 là tập \"The Social Contract & Discourses\" (Everyman's Library, người dịch G. D. H. Cole), gồm Khế ước xã hội và các Discourse; trang tên sách của bản quét ghi lần in 1920 (J. M. Dent / E. P. Dutton), còn lần in đầu 1913 của bản dịch Cole xác nhận qua siêu dữ liệu Internet Archive (socialcontractdi0000rous: London : Dent, 1913, associated-names Cole). Năm 1762 xác nhận trong lời giới thiệu của Cole. Gutenberg ghi \"Public domain in the USA\" (Cole mất 1959). Không sai; nếu muốn chính xác hơn có thể ghi \"bản dịch G. D. H. Cole (Everyman's Library, 1913; Gutenberg theo lần in 1920)\"."
+}

@@ -1,0 +1,46 @@
+{
+  "unit": "sources/sep.hobbes",
+  "hash": "sha256:0dd0fe74e1333a6d8835c270f921ff59aed8e9aae0b9ea51b1cd04cf4b6dfa06",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: “Thomas Hobbes”, *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes/",
+          "quote": "Thomas Hobbes (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: Thomas Hobbes"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Duncan, Stewart (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes/",
+          "quote": "Stewart Duncan",
+          "where": "dòng bản quyền cuối bài: Copyright © 2025 by Stewart Duncan (chỉ một tác giả)"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/hobbes/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes/",
+          "quote": "First published Wed Mar 11, 2009; substantive revision Sat Mar 1, 2025",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; đúng mục, tác giả duy nhất Stewart Duncan (đăng 2009, sửa lớn 01/03/2025; bản ghi không ghi năm). Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu."
+}

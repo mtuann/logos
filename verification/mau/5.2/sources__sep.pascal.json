@@ -1,0 +1,46 @@
+{
+  "unit": "sources/sep.pascal",
+  "hash": "sha256:190114428b23338560c80fe6dc8b07851b3eb78cfe150e05fffa54541b4a030d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: “Blaise Pascal”, *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "Blaise Pascal (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: Blaise Pascal"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục, đủ và đúng thứ tự: Clarke, Desmond & William Wood",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "Desmond Clarke",
+          "where": "dòng bản quyền cuối bài: Copyright © 2015 by Desmond Clarke, rồi William Wood (hai tác giả, thứ tự này)"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/pascal/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal/",
+          "quote": "First published Tue Aug 21, 2007; substantive revision Mon Jun 22, 2015",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; đúng mục, hai tác giả theo thứ tự Desmond Clarke, William Wood (đăng 2007, sửa lớn 22/06/2015; bản ghi không ghi năm). Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu."
+}

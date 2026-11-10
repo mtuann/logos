@@ -1,0 +1,74 @@
+{
+  "unit": "sources/sach.warren-samuel-d-louis-d-brandeis-1890-the-right-to-privacy-h",
+  "hash": "sha256:b6f321e3e58b695a3d46e0879f5ee4ceb47cc7b9f9cd1417196d9272401d8f50",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Tác giả: Warren, Samuel D. & Louis D. Brandeis (đúng thứ tự)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/1321160",
+          "quote": "The Right to Privacy Samuel D. Warren, Louis D. Brandeis Harvard Law Review"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Right+to+Privacy+Warren+Brandeis+Harvard+Law+Review+1890&rows=3&select=DOI,title,author,container-title,volume,issue,page,published-print,issued,publisher",
+          "quote": "\"author\":[{\"given\":\"Samuel D.\",\"family\":\"Warren\",\"sequence\":\"first\"",
+          "where": "bản ghi DOI 10.2307/1321160; người thứ hai: \"given\":\"Louis D.\",\"family\":\"Brandeis\",\"sequence\":\"additional\""
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"The Right to Privacy\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Right+to+Privacy+Warren+Brandeis+Harvard+Law+Review+1890&rows=3&select=DOI,title,author,container-title,volume,issue,page,published-print,issued,publisher",
+          "quote": "\"DOI\":\"10.2307\\/1321160\",\"page\":\"193\",\"title\":[\"The Right to Privacy\"],\"volume\":\"4\""
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1890",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/1321160",
+          "quote": "Harvard Law Review, Vol. 4, No. 5 (Dec. 15, 1890), pp. 193-220 (28 pages)"
+        }
+      ]
+    },
+    {
+      "text": "Tạp chí: *Harvard Law Review*, vol. 4, no. 5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/1321160",
+          "quote": "Harvard Law Review, Vol. 4, No. 5 (Dec. 15, 1890)"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Right+to+Privacy+Warren+Brandeis+Harvard+Law+Review+1890&rows=3&select=DOI,title,author,container-title,volume,issue,page,published-print,issued,publisher",
+          "quote": "{\"publisher\":\"JSTOR\",\"issue\":\"5\",\"published-print\":{\"date-parts\":[[1890,12,15]]}"
+        }
+      ]
+    },
+    {
+      "text": "Trang: 193–220",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/1321160",
+          "quote": "pp. 193-220 (28 pages)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): mọi dữ kiện khớp JSTOR (Harvard Law Review, Vol. 4, No. 5, 15/12/1890, pp. 193-220) và Crossref (DOI 10.2307/1321160, tác giả Samuel D. Warren rồi Louis D. Brandeis). Bài đọc miễn phí trên JSTOR. Link ổn định đề xuất: https://doi.org/10.2307/1321160 hoặc https://www.jstor.org/stable/1321160 ."
+}

@@ -1,0 +1,71 @@
+{
+  "unit": "sources/sach.nguyen-trai-toan-tap-in-lan-thu-hai-co-sua-chua-bo-sung-ha-n",
+  "hash": "sha256:4e28b4f7a2dbf9173c504690cf448c15537b9dce37aa49dbf098e3e25890a3a5",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Tác giả: Nguyễn Trãi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/3db88781-329f-5668-8d55-f39826dd347f?option=lccn&query=84239161",
+          "quote": "By: Nguyễn, Trãi, 1380-1442",
+          "where": "biểu ghi LCCN 84239161 (permalink https://lccn.loc.gov/84239161)"
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Toàn tập* (Nguyễn Trãi toàn tập)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/3db88781-329f-5668-8d55-f39826dd347f?option=lccn&query=84239161",
+          "quote": "Nguyễn Trãi toàn tập / Ủy ban khoa học xã hội Việt Nam, Viện sử học."
+        }
+      ]
+    },
+    {
+      "text": "in lần thứ hai có sửa chữa bổ sung",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/3db88781-329f-5668-8d55-f39826dd347f?option=lccn&query=84239161",
+          "quote": "Edition: In lần thừ 2 có sửa chữa và bổ sung."
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Hà Nội: NXB Khoa học xã hội",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/3db88781-329f-5668-8d55-f39826dd347f?option=lccn&query=84239161",
+          "quote": "Published: Khoa học xã hội, Hà Nội, 1976"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1976",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://search.catalog.loc.gov/instances/3db88781-329f-5668-8d55-f39826dd347f?option=lccn&query=84239161",
+          "quote": "Published: Khoa học xã hội, Hà Nội, 1976"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=Nguy%E1%BB%85n+Tr%C3%A3i+to%C3%A0n+t%E1%BA%ADp&fields=key,title,subtitle,author_name,first_publish_year,publisher,publish_year,publish_place,edition_key,edition_count&limit=10",
+          "quote": "\"first_publish_year\":1976,\"key\":\"/works/OL951228W\"",
+          "where": "ấn bản OL2986539M (cùng biểu ghi LoC, 844 tr.)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): mọi dữ kiện khớp biểu ghi Thư viện Quốc hội Mỹ LCCN 84239161 (\"Nguyễn Trãi toàn tập / Ủy ban khoa học xã hội Việt Nam, Viện sử học\", in lần 2 có sửa chữa và bổ sung, Hà Nội: Khoa học xã hội, 1976, 844 tr.) và Open Library (ấn bản OL2986539M). Tên sách in là \"Nguyễn Trãi toàn tập\"; cách ghi \"Nguyễn Trãi, *Toàn tập*\" chấp nhận được, có thể ghi đủ \"*Nguyễn Trãi toàn tập*, Viện Sử học biên soạn\". Không mở được Google Books (429), WorldCat (Cloudflare chặn), trang HTML Open Library (kiểm tra người thật, không làm). Link ổn định đề xuất: https://lccn.loc.gov/84239161 ."
+}

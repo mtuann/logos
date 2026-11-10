@@ -1,0 +1,63 @@
+{
+  "unit": "sources/wikisource.en.some-thoughts-concerning-education-part-i",
+  "hash": "sha256:09b0c4b865141e389336dfa2efcc473334305af7debbb3ef4e46ad6b803ad896",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "Tác giả: Locke, John; tác phẩm *Some Thoughts Concerning Education*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Some Thoughts Concerning Education by John Locke",
+          "where": "khung tiêu đề (khoảng trắng rút gọn)"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1693",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education",
+          "quote": "Index:Some Thoughts Concerning Education - Locke (1693, 1st ed.).djvu",
+          "where": "trang chính, khung báo bản quét có thể đối chiếu; thể loại \"1693 works\""
+        }
+      ]
+    },
+    {
+      "text": "§1–2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Section I. A sound mind in a sound body, is a short, but full description of a happy state in this world.",
+          "where": "Part I, §1"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Section 2. I imagine the minds of children as easily turn'd this or that way, as water it self",
+          "where": "Part I, §2"
+        }
+      ]
+    },
+    {
+      "text": "URL https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I mở được và trỏ đúng phần chứa §1–2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Some Thoughts Concerning Education/Part I - Wikisource, the free online library",
+          "where": "tiêu đề trang"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở Part I và trang chính trên Wikisource tiếng Anh bằng trình duyệt; tác giả, tên, năm 1693 (năm in lần đầu), §1–2 và URL đều khớp. Lưu ý nguồn: trang chính ghi \"It's unclear which of the many editions of Locke's work is transcribed here.\" Nếu cần văn bản đối chiếu được, Wikisource có bản quét ấn bản đầu 1693 (Index:Some Thoughts Concerning Education - Locke (1693, 1st ed.).djvu; chưa mở bản quét này)."
+}

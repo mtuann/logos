@@ -1,0 +1,76 @@
+{
+  "unit": "sources/sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban",
+  "hash": "sha256:c65cf8d7ac1ec0c3ee10c86515a19c1521fe3ac809053501085a9f407464e517",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "John Stuart Mill là tác giả *On Liberty*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "Author Mill, John Stuart, 1806-1873 Title On Liberty"
+        }
+      ]
+    },
+    {
+      "text": "*On Liberty* in năm 1859",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901-images.html",
+          "quote": "Liberty was published in 1859, when the nineteenth century was half over",
+          "where": "Lời giới thiệu của W. L. Courtney, mục III"
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3A(Mill)%20AND%20(title%3A(utilitarianism)%20OR%20title%3A(%22on%20liberty%22))%20AND%20year%3A%5B1859%20TO%201864%5D%20AND%20mediatype%3Atexts&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=date&fl[]=publisher&rows=20&output=json",
+          "quote": "\"date\":\"1859-01-01T00:00:00Z\",\"identifier\":\"onlibertyxero00milluoft\",\"publisher\":\"London, J.W. Parker\",\"title\":\"On liberty\"",
+          "where": "bản quét ấn bản đầu, Internet Archive"
+        }
+      ]
+    },
+    {
+      "text": "John Stuart Mill là tác giả *Utilitarianism*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "Author Mill, John Stuart, 1806-1873 Title Utilitarianism"
+        }
+      ]
+    },
+    {
+      "text": "*Utilitarianism* in năm 1863",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3A(Mill)%20AND%20(title%3A(utilitarianism)%20OR%20title%3A(%22on%20liberty%22))%20AND%20year%3A%5B1859%20TO%201864%5D%20AND%20mediatype%3Atexts&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=date&fl[]=publisher&rows=20&output=json",
+          "quote": "\"creator\":\"Mill, John Stuart, 1806-1873\",\"date\":\"1863-01-01T00:00:00Z\",\"identifier\":\"utilitarianism01mill\",\"publisher\":\"London, Parker, son, and Bourn\",\"title\":\"Utilitarianism\"",
+          "where": "bản quét ấn bản sách đầu, Internet Archive (cùng ấn bản: a592840000milluoft)"
+        }
+      ]
+    },
+    {
+      "text": "Cả hai là văn bản công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "Release Date Jan 10, 2011 Last Update Oct 6, 2026 Copyright Public domain in the USA."
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "Release Date Feb 1, 2004 Last Update Oct 28, 2024 Copyright Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): tác giả, năm 1859 và 1863 khớp bản quét ấn bản đầu ở Internet Archive (On Liberty: London, J.W. Parker, 1859; Utilitarianism: London, Parker, Son, and Bourn, 1863) và Gutenberg. Gutenberg #11224 in theo ấn bản thứ bảy (Longmans, 1879), trang tên ghi \"REPRINTED FROM 'FRASER'S MAGAZINE'\", tức năm 1863 là năm in thành sách. Link ổn định đề xuất: On Liberty https://www.gutenberg.org/ebooks/34901 ; Utilitarianism https://www.gutenberg.org/ebooks/11224 ; ấn bản đầu https://archive.org/details/onlibertyxero00milluoft và https://archive.org/details/utilitarianism01mill ."
+}

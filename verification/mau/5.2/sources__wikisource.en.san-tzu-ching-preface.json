@@ -1,0 +1,75 @@
+{
+  "unit": "sources/wikisource.en.san-tzu-ching-preface",
+  "hash": "sha256:fca2e5e9f9085579c8de49e2128c756cf31f393d3d3cdaeb132faf5b7e486338",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "Tác giả lời tựa: Giles, H. A.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "Herbert A. Giles.",
+          "where": "chữ ký cuối lời tựa"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1900",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "Cambridge, 20 March, 1900.",
+          "where": "cuối lời tựa"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching",
+          "quote": "San Tzu Ching (三字經) (1900)",
+          "where": "khung tiêu đề trang chính (trang tên sách: Shanghai, Kelly & Walsh, 1900)"
+        }
+      ]
+    },
+    {
+      "text": "Tác phẩm: *San Tzu Ching*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching",
+          "quote": "by Wang Yinglin, translated by Herbert Allen Giles",
+          "where": "khung tiêu đề trang chính"
+        }
+      ]
+    },
+    {
+      "text": "Lời tựa (về tác giả *Tam tự kinh*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "To Wang Ying-lin, A.D. 1223–1296, the authorship of the San Tzŭ Ching is by common consent attributed",
+          "where": "đoạn 3 lời tựa"
+        }
+      ]
+    },
+    {
+      "text": "Wikisource tiếng Anh; URL https://en.wikisource.org/wiki/San_Tzu_Ching/Preface mở được và trỏ đúng lời tựa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "San Tzu Ching/Preface - Wikisource, the free online library",
+          "where": "tiêu đề trang"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở trang lời tựa và trang chính của tác phẩm trên Wikisource tiếng Anh bằng trình duyệt; mọi dữ kiện khớp. Giles là người dịch và chú giải; lời tựa nói quyền tác giả Tam tự kinh \"by common consent\" thuộc Vương Ứng Lân (1223–1296), không khẳng định chắc chắn. Có thể thêm nơi in vào bản ghi: \"Shanghai: Kelly & Walsh, 1900\" (trang tên sách trên Wikisource)."
+}

@@ -1,0 +1,72 @@
+{
+  "unit": "sources/sach.maimonides-the-guide-for-the-perplexed-khoang-1190-ban-dich",
+  "hash": "sha256:fb7fd83fd4036402aa559852323bcdef9641b9f7329d12dc6e812783b6ae21ac",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Maimonides là tác giả *The Guide for the Perplexed*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/maimonides/",
+          "quote": "The Guide of the Perplexed was completed in 1190 and contains Maimonides’ most extensive philosophic discussions.",
+          "where": "mục 1 (Life and Works)"
+        },
+        {
+          "url": "https://archive.org/metadata/guideforperplexe00maimiala/metadata",
+          "quote": "{\"result\":{\"title\":\"The guide for the perplexed\",\"creator\":[\"Maimonides, Moses, 1135-1204\""
+        }
+      ]
+    },
+    {
+      "text": "Soạn xong khoảng 1190",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/maimonides/",
+          "quote": "The Guide of the Perplexed was completed in 1190",
+          "where": "mục 1 (Life and Works)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh của M. Friedländer",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/guideforperplexe00maimiala/metadata",
+          "quote": "\"associated-names\":\"Friedl\\u00e4nder, M. (Michael), 1833-1910\""
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Friedländer: năm 1904",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/guideforperplexe00maimiala/metadata",
+          "quote": "\"publisher\":\"London : George Routledge & Sons, ltd.; New York, E. P. Dutton & co.\",\"date\":\"1904\"",
+          "where": "ấn bản một tập (lời tựa: ba tập của ấn bản đầu gộp lại thành một tập)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Friedländer là văn bản công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/guideforperplexe00maimiala/metadata",
+          "quote": "\"possible-copyright-status\":\"NOT_IN_COPYRIGHT\",\"copyright-region\":\"US\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): SEP (mục Maimonides, bản lưu Fall 2026) ghi Guide hoàn thành năm 1190, hợp với \"khoảng 1190\". Bản Friedländer 1904 có bản quét ở Internet Archive (London: George Routledge & Sons; New York: E. P. Dutton, 1904; NOT_IN_COPYRIGHT). Đây là ấn bản một tập: mô tả ghi \"The three volumes of the first edition have been reduced to one volume by the elimination of the notes\", nên \"(1904)\" là năm của ấn bản được dùng, không phải năm dịch lần đầu; có thể ghi \"ấn bản 1904\" cho rõ. Link ổn định đề xuất: https://archive.org/details/guideforperplexe00maimiala ."
+}

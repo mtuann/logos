@@ -1,0 +1,53 @@
+{
+  "unit": "sources/sach.rene-descartes-meditations-on-first-philosophy-1641-ban-dich",
+  "hash": "sha256:9ad8fe364156479d4e29c41b1213547e5962f177fdc529f6bc130a2e0adc313c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "René Descartes là tác giả *Meditations on First Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "the Meditations on First Philosophy (i.e., on metaphysics), with its Objections and Replies (in Latin, 1641, 2nd edn. 1642)",
+          "where": "mục René Descartes (Gary Hatfield), đoạn liệt kê các tác phẩm chính"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/23306",
+          "quote": "Author Descartes, René, 1596-1650 Title Meditationes de prima philosophia"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1641",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "1641, Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstrantur, Paris: Michel Soly.",
+          "where": "Bibliography > Primary Literature: Works by Descartes > Original editions and early translations"
+        }
+      ]
+    },
+    {
+      "text": "Có bản dịch tiếng Anh thuộc phạm vi công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/70091",
+          "quote": "Translator Molyneux, William, 1656-1698 Uniform Title Meditationes de prima philosophia. English Title Six metaphysical meditations"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/70091",
+          "quote": "Release Date Feb 20, 2023 Copyright Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): tác giả và năm 1641 khớp SEP (bản lưu Fall 2026: bản Latin Paris, Michel Soly, 1641; bản 2 năm 1642). Mục không nói bản dịch nào: Gutenberg có bản dịch tiếng Anh công cộng của William Molyneux (1680, tên \"Six metaphysical meditations\", #70091) và bản Latin (#23306). Đề xuất ghi rõ người dịch và link ổn định, ví dụ https://www.gutenberg.org/ebooks/70091 (bản dịch) hoặc https://www.gutenberg.org/ebooks/23306 (nguyên bản Latin)."
+}

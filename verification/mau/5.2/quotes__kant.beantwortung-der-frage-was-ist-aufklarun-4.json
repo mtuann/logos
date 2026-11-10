@@ -1,0 +1,115 @@
+{
+  "unit": "quotes/kant.beantwortung-der-frage-was-ist-aufklarun-4",
+  "hash": "sha256:90a216f2392bdefde20f994ede6c29b3dd8ca187722d496bb9f63ae727fa40f8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn câu 1: \"Durch eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism und gewinnsüchtiger oder herrschsüchtiger Bedrükkung, aber niemals wahre Reform der Denkungsart zu Stande kommen […].\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/036.html",
+          "quote": "eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism",
+          "where": "AA VIII 36, dòng 29 (câu bắt đầu bằng \"Durch\" cuối dòng 28)"
+        },
+        {
+          "url": "https://korpora.org/kant/aa08/036.html",
+          "quote": "und gewinnsüchtiger oder herrschsüchtiger Bedrückung, aber niemals wahre",
+          "where": "AA VIII 36, dòng 30 (Ak in \"Bedrückung\")"
+        },
+        {
+          "url": "https://korpora.org/kant/aa08/036.html",
+          "quote": "Reform der Denkungsart zu Stande kommen; sondern neue Vorurtheile",
+          "where": "AA VIII 36, dòng 31"
+        },
+        {
+          "url": "https://www.deutschestextarchiv.de/book/show/kant_aufklaerung_1784",
+          "quote": "drükkung, aber niemals wahre Reform der Den¬",
+          "where": "bản in Berlinische Monatsschrift 1784 (DTA, tải bản HTML): \"Be¬drükkung\" ngắt dòng, đúng chính tả bản ghi"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn câu 2: \"(Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr wollt, und worüber ihr wollt; aber gehorcht!)\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/037.html",
+          "quote": "glaubt! (Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr",
+          "where": "AA VIII 37, dòng 3"
+        },
+        {
+          "url": "https://korpora.org/kant/aa08/037.html",
+          "quote": "wollt, und worüber ihr wollt; aber gehorcht!)",
+          "where": "AA VIII 37, dòng 4"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Kant, Beantwortung der Frage: Was ist Aufklärung?",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.deutschestextarchiv.de/book/show/kant_aufklaerung_1784",
+          "quote": "Kant, Immanuel: Beantwortung der Frage: Was ist Aufklärung? In: Berlinische Monatsschrift, 1784, H. 12, S. 481-494."
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1784)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.deutschestextarchiv.de/book/show/kant_aufklaerung_1784",
+          "quote": "Berlinische Monatsschrift. 1784. Zwölftes Stük. December."
+        }
+      ]
+    },
+    {
+      "text": "locator: Ak 8:36 và 8:37",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/036.html",
+          "quote": "Kant: AA VIII, Beantwortung der Frage: Was ist ... , Seite 036",
+          "where": "câu 1 ở dòng 28–31"
+        },
+        {
+          "url": "https://korpora.org/kant/aa08/037.html",
+          "quote": "Kant: AA VIII, Beantwortung der Frage: Was ist ... , Seite 037",
+          "where": "câu 2 ở dòng 3–4"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Một cuộc cách mạng có lẽ lật đổ được sự chuyên chế cá nhân và sự áp bức vì tham lợi hay tham quyền, nhưng không bao giờ đem lại một cuộc cải cách thật sự trong lối nghĩ […]. (Chỉ có một ông chủ duy nhất trên đời nói: cứ lý luận bao nhiêu tùy thích, về bất cứ điều gì tùy thích; nhưng hãy vâng lời!)\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/036.html",
+          "quote": "Reform der Denkungsart zu Stande kommen; sondern neue Vorurtheile"
+        }
+      ]
+    },
+    {
+      "text": "Độ dài trích hợp bản quyền (văn bản 1784)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.deutschestextarchiv.de/book/show/kant_aufklaerung_1784",
+          "quote": "Erscheinungsjahr:\t1784"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): chữ khớp AA VIII 36.28–31 và 37.3–4 (korpora.org), trừ \"Bedrükkung\": đây là chính tả của bản in đầu Berlinische Monatsschrift 1784 (DTA), còn Ak in \"Bedrückung\". Không tính lỗi (khác chính tả cũ/mới, đúng một bản in đáng tin); nếu muốn thống nhất với locator Ak thì sửa thành \"Bedrückung\". Gợi ý locator chính xác: \"Ak 8:36.28–31 và 8:37.3–4\". Trường work còn là khóa tạm \"chua-ro.…\"."
+}

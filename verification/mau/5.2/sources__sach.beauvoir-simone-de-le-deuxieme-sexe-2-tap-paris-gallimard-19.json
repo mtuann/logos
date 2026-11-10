@@ -1,0 +1,85 @@
+{
+  "unit": "sources/sach.beauvoir-simone-de-le-deuxieme-sexe-2-tap-paris-gallimard-19",
+  "hash": "sha256:618f43a03f0ee3048da2db680ee960d6d51d2ad5168b4162837ad7328f5b7f60",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: Simone de Beauvoir",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb39288758s",
+          "quote": "Le deuxième sexe / Simone de Beauvoir",
+          "where": "BnF, notice FRBNF39288758, Titre(s)"
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Le Deuxième Sexe*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb388258987",
+          "quote": "Le Deuxième sexe / Simone de Beauvoir",
+          "where": "BnF, notice FRBNF38825898 (ấn bản gốc)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "[SS] 1949, Le Deuxième sexe, Paris: Editions Gallimard.",
+          "where": "SEP, mục Simone de Beauvoir, Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "Sách gồm 2 tập",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Beauvoir+deuxi%C3%A8me+sexe+1949&critereRecherche=0&depart=0&facetteModifiee=ok",
+          "quote": "Le Deuxième sexe / Simone de Beauvoir. I, Les Faits et les mythes",
+          "where": "BnF, danh sách kết quả, mục 6 (Gallimard, 1949)"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/rechercher.do?motRecherche=Beauvoir+deuxi%C3%A8me+sexe+1949&critereRecherche=0&depart=0&facetteModifiee=ok",
+          "quote": "Le Deuxième sexe / Simone de Beauvoir. II, L'expérience vécue",
+          "where": "BnF, danh sách kết quả, mục 4 (Gallimard, 1949)"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Paris: Gallimard",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb39288758s",
+          "quote": "Publication : Paris : Gallimard, 1949",
+          "where": "BnF, notice FRBNF39288758"
+        }
+      ]
+    },
+    {
+      "text": "Năm xuất bản: 1949",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb388258987",
+          "quote": "Éd. originale tirée à 2 105 ex. numérotés.",
+          "where": "BnF, notice FRBNF38825898, Publication: [Paris] : Gallimard, 1949"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "[SS] 1949, Le Deuxième sexe, Paris: Editions Gallimard.",
+          "where": "SEP, mục Simone de Beauvoir, Bibliography"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): BnF (catalogue général) có notice bộ sách \"Le deuxième sexe / Simone de Beauvoir\", Paris : Gallimard, 1949, và hai notice tập: I, Les Faits et les mythes (1949); II, L'expérience vécue (1949); SEP bản lưu fall2026 cũng ghi 1949, Paris: Editions Gallimard. Mọi dữ kiện đúng. Mục không có URL; đề xuất link ổn định: https://catalogue.bnf.fr/ark:/12148/cb39288758s (sách còn bản quyền)."
+}

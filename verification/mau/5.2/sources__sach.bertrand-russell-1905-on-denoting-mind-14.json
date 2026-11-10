@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sach.bertrand-russell-1905-on-denoting-mind-14",
+  "hash": "sha256:aab546d0ae1b1b4a1ca98e385f8222d88863a351c3fb9d86751f887b2b786eb4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: Bertrand Russell",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Russell+On+Denoting+Mind+1905&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"given\":\"BERTRAND\",\"family\":\"RUSSELL\"",
+          "where": "Crossref, DOI 10.1093/mind/xiv.4.479"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"On Denoting\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Russell+On+Denoting+Mind+1905&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"DOI\":\"10.1093\\/mind\\/xiv.4.479\",\"page\":\"479-493\",\"title\":[\"II.\\u2014ON DENOTING\"]",
+          "where": "Crossref, kết quả đầu (\"II.—\" là số thứ tự bài trong số tạp chí)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1905",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Russell+On+Denoting+Mind+1905&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"published-print\":{\"date-parts\":[[1905]]}",
+          "where": "Crossref, DOI 10.1093/mind/xiv.4.479"
+        }
+      ]
+    },
+    {
+      "text": "Tạp chí: *Mind* 14",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Russell+On+Denoting+Mind+1905&rows=5&select=DOI,title,author,container-title,volume,issue,page,published-print,issued",
+          "quote": "\"volume\":\"XIV\"",
+          "where": "Crossref, DOI 10.1093/mind/xiv.4.479; container-title \"Mind\", issue 4"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): Crossref (DOI 10.1093/mind/xiv.4.479): Bertrand Russell, \"On Denoting\", Mind XIV, số 4, tr. 479–493, 1905; khớp mọi dữ kiện mục ghi. Mục thiếu số và trang (không sai); đề xuất ghi đủ: \"*Mind* 14 (4), tr. 479–493\" và link ổn định https://doi.org/10.1093/mind/XIV.4.479."
+}

@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.arendt",
+  "hash": "sha256:68451ff6557e2e640c0799e71ff4d343ab2fc76d2e6951723df1ddedb640f2da",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: “Arendt, Hannah”, *Internet Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hannah-arendt/",
+          "quote": "Arendt, Hannah | Internet Encyclopedia of Philosophy",
+          "where": "tiêu đề trang (thẻ title); tiêu đề bài in: Hannah Arendt (1906–1975)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Yar, Majid (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hannah-arendt/",
+          "quote": "Majid Yar",
+          "where": "mục Author Information cuối bài (chỉ một tác giả, Lancaster University)"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://iep.utm.edu/arendt/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/arendt/",
+          "quote": "Hannah Arendt (1906–1975)",
+          "where": "URL tự chuyển hướng tới https://iep.utm.edu/hannah-arendt/"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở https://iep.utm.edu/arendt/ bằng trình duyệt, trang chuyển hướng tới https://iep.utm.edu/hannah-arendt/ (đúng mục, tác giả duy nhất Majid Yar). Bản ghi không ghi năm. Đề xuất (không bắt buộc): đổi url sang địa chỉ hiện hành https://iep.utm.edu/hannah-arendt/ để khỏi phụ thuộc chuyển hướng."
+}

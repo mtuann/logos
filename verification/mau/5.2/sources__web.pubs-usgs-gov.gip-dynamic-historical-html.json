@@ -1,0 +1,88 @@
+{
+  "unit": "sources/web.pubs-usgs-gov.gip-dynamic-historical-html",
+  "hash": "sha256:6fc567b8f7431bb4704e7a0c3a5652437704ed3561a1f844cc3a4e65354ef238",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "Tác giả: U.S. Geological Survey",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Kious, W. Jacquelyne & Tilling, Robert I. (1996), *This Dynamic Earth*, U.S. Geological Survey, mục \"Historical perspective\" (Wegener và thuyết trôi dạt lục địa, 1912). <https://pubs.usgs.gov/gip/dynamic/historical.html>",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html",
+          "quote": "Authors: W. Jacquelyne Kious and Robert I. Tilling",
+          "where": "thuộc tính alt của ảnh trang tên sách (graphics/Titlepage.gif), trang Contents"
+        },
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html",
+          "quote": "This book was originally published in paper form in February 1996",
+          "where": "trang Contents, mục Ordering Instructions"
+        },
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "U.S. Department of the Interior | U.S. Geological Survey",
+          "where": "chân trang (đơn vị phát hành)"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Tên sách: *This Dynamic Earth*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/dynamic.html",
+          "quote": "This Dynamic Earth--Contents [USGS]",
+          "where": "tiêu đề trang mục lục"
+        }
+      ]
+    },
+    {
+      "text": "Mục \"Historical perspective\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "Historical perspective [This Dynamic Earth, USGS]",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Wegener và thuyết trôi dạt lục địa, 1912",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "it was not until 1912 that the idea of moving continents was seriously considered as a full-blown scientific theory -- called Continental Drift",
+          "where": "đoạn về Ortelius và Wegener"
+        },
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "a 32-year-old German meteorologist named Alfred Lothar Wegener",
+          "where": "cùng đoạn"
+        }
+      ]
+    },
+    {
+      "text": "URL https://pubs.usgs.gov/gip/dynamic/historical.html mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://pubs.usgs.gov/gip/dynamic/historical.html",
+          "quote": "Historical perspective [This Dynamic Earth, USGS]",
+          "where": "tiêu đề trang (mở ngày 2026-11-10)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở trang \"Historical perspective\" và trang Contents bằng trình duyệt; tên sách, tên mục, dữ kiện Wegener 1912 và URL khớp. Bản ghi để USGS ở vị trí tác giả, trong khi sách có hai tác giả (W. Jacquelyne Kious, Robert I. Tilling, theo ảnh trang tên sách) và năm in giấy 1996 (bản trực tuyến \"Version 1.20\"): ghi mức nhe vì USGS là đơn vị phát hành, chỉ là kiểu ghi thiếu người; câu sửa đề xuất thêm tác giả và năm. Chân trang hiện ghi URL gốc là https://pubsdata.usgs.gov/pubs/gip/dynamic/historical.html; URL trong bản ghi vẫn mở được. | 10/11/2026 (sổ sách, Claude): đã sửa theo claim 0 (tác giả ghi Kious & Tilling (1996) theo trang tên sách thay cho \"U.S. Geological Survey\" (tên thứ hai theo quy ước \"Họ, Tên & Tên Họ\" của site)); cập nhật mã băm, không mở lại nguồn."
+}

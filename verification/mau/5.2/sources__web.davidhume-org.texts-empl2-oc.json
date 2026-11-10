@@ -1,0 +1,80 @@
+{
+  "unit": "sources/web.davidhume-org.texts-empl2-oc",
+  "hash": "sha256:fc58b7164e8a6c61424fccd6d99e79976c9f205ba01cf677cb6254844a81330e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Hume, David, \"Of the Original Contract\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl2/oc",
+          "quote": "Of the Original Contract.",
+          "where": "tiêu đề bài (ESSAY XII.), Essays, Moral, Political, and Literary, Part 2, trên Hume Texts Online"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl2",
+          "quote": "Of the Original Contract (1748, 1777)",
+          "where": "mục lục Essays, Moral, Political, and Literary, Part 2 (năm in đầu, năm bản dùng làm gốc)"
+        }
+      ]
+    },
+    {
+      "text": "in lần đầu trong *Three Essays, Moral and Political* (1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl2/notes",
+          "quote": "Hume published three additional essays in 1748 (Of National Characters, Of the Original Contract, and Of Passive Obedience)",
+          "where": "Editorial Notes"
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28%22three+essays%22%29+AND+creator%3A%28hume%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=publisher&fl%5B%5D=creator&sort%5B%5D=date+asc&rows=25&output=json",
+          "quote": "Three essays, moral and political. Never before published. Which compleats the former edition, in two volumes, octavo. By David Hume, Esq. 1748",
+          "where": "Internet Archive, bản quét vi phim thế kỷ 18, trường title"
+        }
+      ]
+    },
+    {
+      "text": "cùng năm được đưa vào ấn bản thứ ba của *Essays, Moral and Political*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl2/notes",
+          "quote": "and then a third edition of the set, also in 1748, that incorporated these three.",
+          "where": "Editorial Notes, câu tiếp theo"
+        },
+        {
+          "url": "https://archive.org/metadata/bim_eighteenth-century_three-essays-moral-and-_hume-david_1748/metadata",
+          "quote": "Intended to accompany 'Essays, moral and political' 2nd ed. corrected, Edinburgh, 1742 and included in the 3rd ed., of 1748.",
+          "where": "trường notes của bản Three essays, moral and political (1748)"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://davidhume.org/texts/empl2/oc> mở được và trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl2/oc",
+          "quote": "ESSAY XII.",
+          "where": "đầu trang, ngay trên tiêu đề \"Of the Original Contract.\"; toàn văn có đánh số đoạn OC 1, OC 2…"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Trang davidhume.org mở được, là toàn văn \"Of the Original Contract\" (Essay XII, Essays, Moral, Political, and Literary, Part 2; mục lục ghi 1748, 1777 — văn bản theo bản 1777). Lịch sử in xác nhận ở Editorial Notes của site (ba bài thêm năm 1748, rồi ấn bản thứ ba cùng năm gộp cả ba) và ở siêu dữ liệu Internet Archive (Three essays, moral and political, 1748; \"included in the 3rd ed., of 1748\")."
+}

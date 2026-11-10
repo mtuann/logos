@@ -1,0 +1,78 @@
+{
+  "unit": "events/viet-nam.nho-giao-viet.1996",
+  "hash": "sha256:328931c6284d379d2548d421adc8396be529ca2c6751714190a95702bc3f9275",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m02",
+  "claims": [
+    {
+      "text": "Trần Đình Hượu nghiên cứu mối liên hệ giữa Nho giáo và cơ chế nhà nước chuyên chế phương Đông, cùng tác động của nó tới con người Việt Nam hiện đại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "biểu hiện tập trung là nhà nước chuyên chế phương Đông",
+          "where": "bài của ĐH KHXH&NV (ĐHQGHN), 31/08/2015, trích lời Trần Đình Hượu"
+        },
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "vẫn nghĩ, vẫn sống theo cách Nho giáo hóa",
+          "where": "cùng đoạn trích"
+        },
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "vấn đề gia đình trước những thử thách của công cuộc hiện đại hóa đất nước",
+          "where": "mục 1, mô tả phần thứ hai của sách"
+        }
+      ]
+    },
+    {
+      "text": "Đến hiện đại từ truyền thống (của Trần Đình Hượu) in lần đầu 1994",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "in lần đầu vào tháng 5/1994",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=%C4%90%E1%BA%BFn+hi%E1%BB%87n+%C4%91%E1%BA%A1i+t%E1%BB%AB+truy%E1%BB%81n+th%E1%BB%91ng&fields=key,title,author_name,first_publish_year,publish_year,publisher,edition_count,editions,editions.key,editions.publish_date,editions.publisher&limit=10",
+          "quote": "\"first_publish_year\":1994,\"key\":\"/works/OL1784953W\",\"publish_year\":[1994,1996]",
+          "where": "Open Library, tác phẩm OL1784953W (biên mục từ MARC Thư viện Quốc hội Mỹ)"
+        }
+      ]
+    },
+    {
+      "text": "NXB Văn hóa tái bản 1996",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1784953W/editions.json",
+          "quote": "\"publishers\":[\"Văn hóa\"],\"subject_place\":[\"Vietnam\"],\"lc_classifications\":[\"DS556.42 .T66 1996\"]",
+          "where": "ấn bản OL338195M"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL1784953W/editions.json",
+          "quote": "\"edition_name\":\"In là̂n thứ 2, có bỏ̂ sung.\",\"pagination\":\"399 p. ;\"",
+          "where": "ấn bản OL338195M (LCCN 97948165, OCLC 37631459)"
+        }
+      ]
+    },
+    {
+      "text": "ông coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống [có cơ sở]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống",
+          "where": "mục 1 (bài của ĐHQGHN về Giải thưởng Nhà nước 2000, nguồn Bộ KH&CN)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m02): năm in đầu 1994 và bản in lần thứ 2 (có bổ sung) của NXB Văn hóa năm 1996 khớp biên mục Open Library (từ MARC Thư viện Quốc hội Mỹ: bản 1994 250 tr., Hà Nội, nơi xuất bản ghi \"Chương trình khoa học công nghệ cấp nhà nước KX-07\"; bản 1996 399 tr., NXB Văn hóa). Luận điểm \"không tách rời truyền thống\" gần như trùng chữ với trang ĐHQGHN; nhãn [có cơ sở] hợp (có thể nâng lên chắc chắn). Trang ĐHQGHN và ĐH KHXH&NV là trang trường đại học, không thuộc nhóm ưu tiên — ghi \"nguồn yếu\" theo quyết định 31. WorldCat bắt đồng ý điều khoản nên không dùng. Không có lỗi."
+}

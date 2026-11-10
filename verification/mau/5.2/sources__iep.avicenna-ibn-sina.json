@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.avicenna-ibn-sina",
+  "hash": "sha256:d6a738340bb4746160caee5cc45c7644d76d852061fe7f33fcd9c2581012e2f8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: “Avicenna (Ibn Sina)”, *Internet Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/avicenna-ibn-sina/",
+          "quote": "Avicenna (Ibn Sina) | Internet Encyclopedia of Philosophy",
+          "where": "tiêu đề trang (thẻ title); tiêu đề bài in: Avicenna (Ibn Sina) (c. 980–1037)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Rizvi, Sajjad H. (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/avicenna-ibn-sina/",
+          "quote": "Sajjad H. Rizvi",
+          "where": "mục Author Information cuối bài (chỉ một tác giả, University of Bristol)"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://iep.utm.edu/avicenna-ibn-sina/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/avicenna-ibn-sina/",
+          "quote": "Avicenna (Ibn Sina) (c. 980–1037)",
+          "where": "mở trực tiếp, không chuyển hướng"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở https://iep.utm.edu/avicenna-ibn-sina/ bằng trình duyệt; đúng mục, tác giả duy nhất Sajjad H. Rizvi. Bản ghi không ghi năm."
+}

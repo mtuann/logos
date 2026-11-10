@@ -1,0 +1,59 @@
+{
+  "unit": "sources/sach.mcmahan-jeff-2009-killing-in-war-oxford-oxford-university-pr",
+  "hash": "sha256:cb590b45570489816dbde8dda4d12918fc454cb889790456dfc0537991e39910",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Tác giả: McMahan, Jeff",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Killing+in+War+McMahan&filter=type:monograph&rows=3&select=DOI,title,author,published-print,published-online,publisher,publisher-location,type,ISBN",
+          "quote": "\"DOI\":\"10.1093\\/acprof:oso\\/9780199548668.001.0001\",\"title\":[\"Killing in War\"],\"author\":[{\"given\":\"Jeff\",\"family\":\"McMahan\",\"sequence\":\"first\""
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: *Killing in War*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Killing+in+War+McMahan&filter=type:monograph&rows=3&select=DOI,title,author,published-print,published-online,publisher,publisher-location,type,ISBN",
+          "quote": "\"title\":[\"Killing in War\"]"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 2009",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Killing+in+War+McMahan&filter=type:monograph&rows=3&select=DOI,title,author,published-print,published-online,publisher,publisher-location,type,ISBN",
+          "quote": "\"published-print\":{\"date-parts\":[[2009,4,23]]},\"publisher\":\"Oxford University Press\",\"type\":\"monograph\",\"ISBN\":[\"9780199548668\"]"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Oxford: Oxford University Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Killing%20in%20War%20McMahan&fields=key,title,author_name,first_publish_year,publisher,publish_year,publish_place,edition_key&limit=3",
+          "quote": "\"first_publish_year\":2009,\"key\":\"/works/OL16925363W\",\"publish_place\":[\"Oxford\",\"New York\"],\"publish_year\":[2009],\"publisher\":[\"Oxford University Press\""
+        },
+        {
+          "url": "https://openlibrary.org/books/OL23175214M.json",
+          "quote": "{\"publishers\": [\"Clarendon Press\", \"Oxford University Press\", \"Oxford University Press, USA\"]",
+          "where": "ấn bản ISBN 9780199548668, Uehiro series in practical ethics"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): mọi dữ kiện khớp Crossref (DOI 10.1093/acprof:oso/9780199548668.001.0001, Oxford University Press, in 23/4/2009) và Open Library (Oxford, 2009; Clarendon Press là dấu in của OUP; by_statement ghi \"Jefferson McMahan.\"). Link ổn định đề xuất: https://doi.org/10.1093/acprof:oso/9780199548668.001.0001 ."
+}

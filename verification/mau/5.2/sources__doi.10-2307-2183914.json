@@ -1,0 +1,99 @@
+{
+  "unit": "sources/doi.10-2307-2183914",
+  "hash": "sha256:7b4357712ef70ae0ec0c3b9537efa6528692511c18df9e5298e5bd716b06382a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Tác giả: Nagel, T. (Thomas Nagel, một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"given\":\"Thomas\",\"family\":\"Nagel\",\"sequence\":\"first\"",
+          "where": "trường author (chỉ một mục)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1974)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"issued\":{\"date-parts\":[[1974,10]]}"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"What Is It Like to Be a Bat?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"title\":[\"What Is It Like to Be a Bat?\"]"
+        }
+      ]
+    },
+    {
+      "text": "*The Philosophical Review* 83(4)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"container-title\":[\"The Philosophical Review\"]"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"volume\":\"83\"",
+          "where": "trường volume"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"issue\":\"4\"",
+          "where": "trường issue"
+        }
+      ]
+    },
+    {
+      "text": "Trang: 435–450",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"page\":\"435\"",
+          "where": "Crossref chỉ ghi trang đầu"
+        },
+        {
+          "url": "https://api.crossref.org/works?filter=issn:0031-8108,from-pub-date:1974-10,until-pub-date:1974-10&rows=40&select=DOI,title,page,volume,issue,author",
+          "quote": "\"title\":[\"Volition and Basic Action\"],\"page\":\"451\",\"volume\":\"83\",\"issue\":\"4\"",
+          "where": "bài kế tiếp trong cùng số 83(4) bắt đầu ở tr. 451, nên bài Nagel kết thúc chậm nhất ở tr. 450"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22What+Is+It+Like+to+Be+a+Bat%22+%22Philosophical+Review%22+%22Vol.+83%2C+No.+4%22+jstor",
+          "quote": "The Philosophical Review, Vol. 83, No. 4. (Oct., 1974), pp. 435-450.",
+          "where": "tiêu đề kết quả (dòng bìa kiểu JSTOR của bản PDF ở acsu.buffalo.edu)"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://doi.org/10.2307/2183914> trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2183914",
+          "quote": "\"DOI\":\"10.2307\\/2183914\",\"type\":\"journal-article\"",
+          "where": "bản ghi Crossref của DOI là đúng bài trên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Tác giả, tên, tạp chí, 83(4), năm 1974 khớp Crossref (số tháng 10/1974). Crossref chỉ ghi trang đầu 435; trang cuối 450 xác nhận vì bài kế tiếp trong số (McCann, \"Volition and Basic Action\", DOI 10.2307/2183915) bắt đầu ở tr. 451, và dòng bìa JSTOR \"pp. 435-450\". Lưu ý: SEP bản lưu fall2026, mục consciousness và qualia, ghi \"83: 435–456\" — không thể đúng (tr. 451 đã là bài khác); đừng sửa theo SEP. Kiểu ghi \"Nagel, T.\" khác các mục khác ghi đủ tên (\"Nagel, Thomas\") — chỉ là thống nhất kiểu ghi."
+}

@@ -1,0 +1,97 @@
+{
+  "unit": "sources/sach.laudan-larry-1983-the-demise-of-the-demarcation-problem-tron",
+  "hash": "sha256:1d1be4f7ae7e8b72b85f763f1edddc4c04ab8db18a79a71315fccb9a4804e2fb",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m05",
+  "claims": [
+    {
+      "text": "Tác giả bài: Laudan, Larry",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Demise+of+the+Demarcation+Problem+Laudan&rows=3&select=DOI,title,author,container-title,published-print,published-online,page,publisher,publisher-location,editor,type",
+          "quote": "\"title\":[\"The Demise of the Demarcation Problem\"],\"author\":[{\"given\":\"Larry\",\"family\":\"Laudan\",\"sequence\":\"first\"",
+          "where": "bản ghi DOI 10.1007/978-94-009-7055-7_6"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"The Demise of the Demarcation Problem\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Demise+of+the+Demarcation+Problem+Laudan&rows=3&select=DOI,title,author,container-title,published-print,published-online,page,publisher,publisher-location,editor,type",
+          "quote": "\"DOI\":\"10.1007\\/978-94-009-7055-7_6\",\"type\":\"book-chapter\",\"page\":\"111-127\",\"title\":[\"The Demise of the Demarcation Problem\"]"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1983",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Demise+of+the+Demarcation+Problem+Laudan&rows=3&select=DOI,title,author,container-title,published-print,published-online,page,publisher,publisher-location,editor,type",
+          "quote": "\"publisher-location\":\"Dordrecht\",\"publisher\":\"Springer Netherlands\",\"published-print\":{\"date-parts\":[[1983]]}"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL3162751M.json",
+          "quote": "\"publish_date\": \"1983\"",
+          "where": "ấn bản D. Reidel"
+        }
+      ]
+    },
+    {
+      "text": "Chủ biên: R. S. Cohen & L. Laudan (đúng thứ tự)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1007/978-94-009-7055-7",
+          "quote": "\"editor\":[{\"given\":\"R. S.\",\"family\":\"Cohen\",\"sequence\":\"first\"",
+          "where": "bản ghi sách; người thứ hai: {\"given\":\"L.\",\"family\":\"Laudan\",\"sequence\":\"additional\""
+        },
+        {
+          "url": "https://openlibrary.org/books/OL3162751M.json",
+          "quote": "\"by_statement\": \"edited by R.S. Cohen and L. Laudan.\""
+        }
+      ]
+    },
+    {
+      "text": "Sách: *Physics, Philosophy and Psychoanalysis*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=The+Demise+of+the+Demarcation+Problem+Laudan&rows=3&select=DOI,title,author,container-title,published-print,published-online,page,publisher,publisher-location,editor,type",
+          "quote": "\"container-title\":[\"Boston Studies in the Philosophy of Science\",\"Physics, Philosophy and Psychoanalysis\"]"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL3162751M.json",
+          "quote": "\"title\": \"Physics, philosophy, and psychoanalysis\"",
+          "where": "phụ đề: essays in honor of Adolf Grünbaum"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Dordrecht: Reidel",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL3162751M.json",
+          "quote": "{\"publishers\": [\"D. Reidel\", \"Distributed in the U.S.A. by Kluwer Boston\"]",
+          "where": "ấn bản 1983, Boston studies in the philosophy of science v. 76"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL3162751M.json",
+          "quote": "\"publish_places\": [\"Dordrecht, Holland\", \"Boston\", \"Hingham, MA\"]"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m05): mọi dữ kiện khớp Crossref (chương sách, DOI 10.1007/978-94-009-7055-7_6, tr. 111–127, 1983; sách có chủ biên R. S. Cohen, L. Laudan) và Open Library (D. Reidel, Dordrecht, 1983, Boston Studies in the Philosophy of Science 76). Crossref ghi nhà xuất bản hiện nay là Springer Netherlands; bản in 1983 mang tên D. Reidel nên ghi \"Reidel\" là đúng. Đề xuất thêm trang và DOI: \"..., Dordrecht: Reidel, tr. 111–127\", link ổn định https://doi.org/10.1007/978-94-009-7055-7_6 ."
+}

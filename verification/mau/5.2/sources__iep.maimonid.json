@@ -1,0 +1,46 @@
+{
+  "unit": "sources/iep.maimonid",
+  "hash": "sha256:cd58099e64dd38f9785ee044a6a5875993a75a42920835a0bf6ab1a575fe4472",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: “Maimonides”, *Internet Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/maimonid/",
+          "quote": "Maimonides | Internet Encyclopedia of Philosophy",
+          "where": "tiêu đề trang (thẻ title); tiêu đề bài in: Maimonides (1138–1204)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục: Jacobs, Jonathan (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/maimonid/",
+          "quote": "Jonathan Jacobs",
+          "where": "mục Author Information cuối bài (chỉ một tác giả, City University of New York)"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://iep.utm.edu/maimonid/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/maimonid/",
+          "quote": "Maimonides (1138–1204)",
+          "where": "mở trực tiếp, không chuyển hướng"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở https://iep.utm.edu/maimonid/ bằng trình duyệt; đúng mục, tác giả duy nhất Jonathan Jacobs. Bản ghi không ghi năm."
+}

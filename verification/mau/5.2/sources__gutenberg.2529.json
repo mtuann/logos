@@ -1,0 +1,92 @@
+{
+  "unit": "sources/gutenberg.2529",
+  "hash": "sha256:4100161a3e57ff8c1f8ba0e96f1e989b2aa4d3a0f82fa5bfd5dca469fb1723d9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Russell, Bertrand, *The Analysis of Mind*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2529",
+          "quote": "Russell, Bertrand, 1872-1970",
+          "where": "bảng thư mục, dòng Author"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/2529",
+          "quote": "The Analysis of Mind by Bertrand Russell | Project Gutenberg",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1921)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "THE ANALYSIS OF MIND By Bertrand Russell 1921",
+          "where": "trang tên sách bản Gutenberg; Lời tựa ký \"Peking, January 1921\""
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28analysis+of+mind%29+AND+creator%3A%28russell%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=publisher&fl%5B%5D=creator&rows=25&output=json",
+          "quote": "1921-01-01T00:00:00Z",
+          "where": "bản quét analysisofmind00russ, trường date"
+        }
+      ]
+    },
+    {
+      "text": "London: George Allen & Unwin",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28analysis+of+mind%29+AND+creator%3A%28russell%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=publisher&fl%5B%5D=creator&rows=25&output=json",
+          "quote": "London, G. Allen & Unwin ltd.; New York, The Macmillan company",
+          "where": "Internet Archive, bản quét 1921 analysisofmind00russ, trường publisher"
+        }
+      ]
+    },
+    {
+      "text": "Bài giảng IX (\"Memory\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "LECTURE IX. MEMORY",
+          "where": "tiêu đề bài giảng IX (giữa LECTURE VIII. SENSATIONS AND IMAGES và LECTURE X. WORDS AND MEANING)"
+        }
+      ]
+    },
+    {
+      "text": "giả thuyết \"thế giới mới ra đời năm phút trước\" ở Bài giảng IX",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "There is no logical impossibility in the hypothesis that the world sprang into being five minutes ago",
+          "where": "Lecture IX. Memory, đoạn đầu bài giảng (nằm sau tiêu đề LECTURE IX, trước LECTURE X)"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://www.gutenberg.org/ebooks/2529> trỏ đúng tác phẩm (ebook số 2529)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2529",
+          "quote": "2529",
+          "where": "bảng thư mục, dòng eBook-No.; Title: The Analysis of Mind"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Gutenberg #2529 là The Analysis of Mind (Russell), trang tên sách ghi 1921 nhưng không ghi nhà xuất bản; nhà xuất bản London: G. Allen & Unwin (cùng New York: Macmillan) xác nhận qua siêu dữ liệu bản quét 1921 trên Internet Archive (analysisofmind00russ). Câu \"the world sprang into being five minutes ago\" nằm trong Lecture IX \"Memory\"; cách diễn \"thế giới mới ra đời năm phút trước\" đúng ý."
+}

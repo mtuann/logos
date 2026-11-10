@@ -1,0 +1,111 @@
+{
+  "unit": "quotes/immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli",
+  "hash": "sha256:9ece4254f8bd08436da15983c4e805b5b4b6e64ce7578f199a2c48f459485dea",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m01",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản dịch Abbott): \"Truth in utterances that cannot be avoided is the formal duty of a man to everyone, however great the disadvantage that may arise from it to him or any other; and although by making a false statement I do no wrong to him who unjustly compels me to speak, yet I do wrong to men in general in the most essential point of duty, so that it may be called a lie (though not in the jurist's sense), that is, so far as in me lies I cause that declarations in general find no credit, and hence that all rights founded on contract should lose their force; and this is a wrong which is done to mankind.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "Truth in utterances that cannot be avoided is the formal duty of a man to everyone,1 however great the disadvantage that may arise from it to him or any other ;",
+          "where": "Appendix I (OCR bản 1889; \"1\" là dấu chú thích)"
+        },
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "yet I do wrong to men in general in the most essential point of duty, so that it may be called a lie (though not in the jurist's sense)",
+          "where": "Appendix I"
+        },
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "and hence that all rights founded on contract should lose their force ; and this is a wrong which is done to mankind.",
+          "where": "Appendix I"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Immanuel Kant, Über ein vermeintes Recht aus Menschenliebe zu lügen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/426.html",
+          "quote": "Kant: AA VIII, Über ein vermeintes Recht ... , Seite 426"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (1797)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "This Essay was published in a Berlin periodical in 1797.",
+          "where": "chú thích 1 của Appendix I"
+        }
+      ]
+    },
+    {
+      "text": "Người dịch và ấn bản: T. K. Abbott, lần in thứ 4, 1889",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "TRANSLATED BY THOMAS KINGSMILL ABBOTT, B.D.,",
+          "where": "trang tên sách; nhà in LONGMANS, GREEN, & CO., 1889"
+        },
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "Fourth Edition, 1889."
+        }
+      ]
+    },
+    {
+      "text": "locator: Ak 8:426, dòng 14–24",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/426.html",
+          "quote": "Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale",
+          "where": "dòng 14 (đầu đoạn)"
+        },
+        {
+          "url": "https://korpora.org/kant/aa08/426.html",
+          "quote": "der Menschheit überhaupt zugefügt wird.",
+          "where": "dòng 24 (cuối đoạn)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Trung thực trong những lời khai không thể tránh là bổn phận hình thức của một người đối với mọi người, … tôi khiến lời khai nói chung không còn được tin, và do đó mọi quyền dựa trên khế ước đều mất hiệu lực; và đó là một điều bất công gây ra cho nhân loại.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/kant/aa08/426.html",
+          "quote": "mache, so viel an mir ist, daß Aussagen (Declarationen) überhaupt keinen",
+          "where": "dòng 21, đối chiếu thêm với nguyên bản Đức"
+        }
+      ]
+    },
+    {
+      "text": "Độ dài trích hợp bản quyền (bản dịch 1889)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/critiquepractic00kantuoft/critiquepractic00kantuoft_djvu.txt",
+          "quote": "LONGMANS, GREEN, & CO., PATERNOSTER-ROW 1889."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m01): bản dịch Abbott khớp từng chữ với bản in lần 4 (1889) trên Internet Archive (critiquepractic00kantuoft, Appendix I), tương ứng đúng đoạn Ak 8:426.14–24 (korpora.org). Bản dịch tiếng Việt sát nghĩa (\"Trung thực\" còn sát chữ Wahrhaftigkeit hơn chữ \"Truth\" của Abbott). Trường work còn là khóa tạm \"chua-ro.…\"."
+}

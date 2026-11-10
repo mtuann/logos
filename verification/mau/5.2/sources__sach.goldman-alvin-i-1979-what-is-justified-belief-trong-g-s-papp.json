@@ -1,0 +1,85 @@
+{
+  "unit": "sources/sach.goldman-alvin-i-1979-what-is-justified-belief-trong-g-s-papp",
+  "hash": "sha256:c50d42156850c3cfc38afe0931fe08bdec0cd11d8b9b5a957f9f53b46e652e4c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m04",
+  "claims": [
+    {
+      "text": "Tác giả: Alvin I. Goldman",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Goldman+What+Is+Justified+Belief+Justification+and+Knowledge+Pappas+1979&rows=4&select=DOI,title,author,editor,container-title,publisher,publisher-location,page,published-print,issued,type,ISBN",
+          "quote": "\"given\":\"Alvin I.\",\"family\":\"Goldman\"",
+          "where": "Crossref, chương sách DOI 10.1007/978-94-009-9493-5_1"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"What Is Justified Belief?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Goldman+What+Is+Justified+Belief+Justification+and+Knowledge+Pappas+1979&rows=4&select=DOI,title,author,editor,container-title,publisher,publisher-location,page,published-print,issued,type,ISBN",
+          "quote": "\"page\":\"1-23\",\"title\":[\"What is Justified Belief?\"]",
+          "where": "Crossref, DOI 10.1007/978-94-009-9493-5_1, container-title \"Justification and Knowledge\""
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1979",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Goldman+What+Is+Justified+Belief+Justification+and+Knowledge+Pappas+1979&rows=4&select=DOI,title,author,editor,container-title,publisher,publisher-location,page,published-print,issued,type,ISBN",
+          "quote": "\"published-print\":{\"date-parts\":[[1979]]},\"DOI\":\"10.1007\\/978-94-009-9493-5_1\"",
+          "where": "Crossref"
+        },
+        {
+          "url": "https://lccn.loc.gov/79019447",
+          "quote": "Published: D. Reidel Pub. Co., Dordrecht, Holland ; Boston, c1979",
+          "where": "Thư viện Quốc hội Mỹ, LCCN 79019447"
+        }
+      ]
+    },
+    {
+      "text": "Trong G. S. Pappas (chủ biên), *Justification and Knowledge*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/79019447",
+          "quote": "Justification and knowledge : new studies in epistemology / edited by George S. Pappas.",
+          "where": "Thư viện Quốc hội Mỹ, dòng nhan đề"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Goldman+What+Is+Justified+Belief+Justification+and+Knowledge+Pappas+1979&rows=4&select=DOI,title,author,editor,container-title,publisher,publisher-location,page,published-print,issued,type,ISBN",
+          "quote": "\"title\":[\"Justification and Knowledge\"],\"editor\":[{\"given\":\"George Sotiros\",\"family\":\"Pappas\"",
+          "where": "Crossref, sách DOI 10.1007/978-94-009-9493-5"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà xuất bản: Dordrecht: Reidel",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://lccn.loc.gov/79019447",
+          "quote": "D. Reidel Pub. Co., Dordrecht, Holland ; Boston",
+          "where": "Thư viện Quốc hội Mỹ, mục Publication details > Publisher"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL4415561M.json",
+          "quote": "D. Reidel Pub. Co.",
+          "where": "Open Library, ấn bản OL4415561M (ISBN 9027710244), trường publishers"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m04): Crossref (chương DOI 10.1007/978-94-009-9493-5_1: Alvin I. Goldman, \"What is Justified Belief?\", tr. 1–23, 1979; sách DOI 10.1007/978-94-009-9493-5, chủ biên George Sotiros Pappas; Crossref ghi tên nhà xuất bản hiện nay là Springer Netherlands) và Thư viện Quốc hội Mỹ (LCCN 79019447: D. Reidel Pub. Co., Dordrecht, Holland ; Boston, c1979) khớp mọi dữ kiện. Mục thiếu trang (không sai); đề xuất ghi thêm \"tr. 1–23\" và link ổn định https://doi.org/10.1007/978-94-009-9493-5_1."
+}

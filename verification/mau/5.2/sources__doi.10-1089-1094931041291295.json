@@ -1,0 +1,82 @@
+{
+  "unit": "sources/doi.10-1089-1094931041291295",
+  "hash": "sha256:74ef13ca2b971e95bb1d1801d846336208dec712993291b7b70d3baea569252f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Tác giả: Suler, John (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"given\":\"John\",\"family\":\"Suler\",\"sequence\":\"first\"",
+          "where": "trường author (chỉ một mục)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (2004)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"issued\":{\"date-parts\":[[2004,6]]}"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"The Online Disinhibition Effect\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"title\":[\"The Online Disinhibition Effect\"]"
+        }
+      ]
+    },
+    {
+      "text": "*CyberPsychology & Behavior* 7(3): 321–326",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"container-title\":[\"CyberPsychology &amp; Behavior\"]"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"volume\":\"7\"",
+          "where": "trường volume"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"issue\":\"3\"",
+          "where": "trường issue"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"page\":\"321-326\"",
+          "where": "trường page"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://doi.org/10.1089/1094931041291295> trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
+          "quote": "\"DOI\":\"10.1089\\/1094931041291295\",\"type\":\"journal-article\"",
+          "where": "bản ghi Crossref của DOI là đúng bài trên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Mọi dữ kiện khớp bản ghi Crossref của DOI (CyberPsychology & Behavior 7(3): 321-326, tháng 6/2004, một tác giả)."
+}

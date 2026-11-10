@@ -1,0 +1,82 @@
+{
+  "unit": "sources/doi.10-1086-381696",
+  "hash": "sha256:2a2966c370411bbdf774ad4684dc1da8d29ca8d74c1cbd0f79a933899a954803",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m06",
+  "claims": [
+    {
+      "text": "Tác giả: Kamtekar, Rachana (một tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"given\":\"Rachana\",\"family\":\"Kamtekar\",\"sequence\":\"first\"",
+          "where": "trường author (chỉ một mục)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (2004)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"issued\":{\"date-parts\":[[2004,4]]}"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài: \"Situationism and Virtue Ethics on the Content of Our Character\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"title\":[\"Situationism and Virtue Ethics on the Content of Our Character\"]"
+        }
+      ]
+    },
+    {
+      "text": "*Ethics* 114(3): 458–491",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"container-title\":[\"Ethics\"]"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"volume\":\"114\"",
+          "where": "trường volume"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"issue\":\"3\"",
+          "where": "trường issue"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"page\":\"458-491\"",
+          "where": "trường page"
+        }
+      ]
+    },
+    {
+      "text": "URL <https://doi.org/10.1086/381696> trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "\"DOI\":\"10.1086\\/381696\",\"type\":\"journal-article\"",
+          "where": "bản ghi Crossref của DOI là đúng bài trên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m06): Mọi dữ kiện khớp bản ghi Crossref của DOI (Ethics 114(3): 458-491, tháng 4/2004, University of Chicago Press, một tác giả)."
+}

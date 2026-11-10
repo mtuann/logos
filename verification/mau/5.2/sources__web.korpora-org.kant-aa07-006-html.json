@@ -1,0 +1,90 @@
+{
+  "unit": "sources/web.korpora-org.kant-aa07-006-html",
+  "hash": "sha256:a3324421f67fe8b63b88968e6ce4bf9d01b6fe01bad02719f79eace4d6fd6b7c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m07",
+  "claims": [
+    {
+      "text": "Kant, Immanuel, *Der Streit der Fakultäten* (1798), Akademie-Ausgabe tập VII",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa07/Inhalt7.html",
+          "quote": "I. Kant, AA VII : Der Streit der Fakultäten",
+          "where": "đầu mục lục tập 7"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa07/Inhalt7.html",
+          "quote": "1798. Der Streit der Facultäten 1",
+          "where": "mục lục tập 7 (khoảng trắng rút gọn)"
+        }
+      ]
+    },
+    {
+      "text": "Lời tựa (Vorrede), AA VII: 6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa07/Inhalt7.html",
+          "quote": "Vorrede 5",
+          "where": "mục lục tập 7: Vorrede từ tr. 5, mục kế tiếp \"Inhalt 13\""
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa07/005.html",
+          "quote": "Vorrede.",
+          "where": "AA VII: 5, dòng 01"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ dụ của vua Friedrich Wilhelm II",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa07/006.html",
+          "quote": "im Jahr 1794 folgendes Königl. Rescript",
+          "where": "AA VII: 6, dòng 03"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa07/006.html",
+          "quote": "Von Gottes Gnaden Friedrich Wilhelm, König von Preußen",
+          "where": "AA VII: 6, dòng 06"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa07/005.html",
+          "quote": "König Friedrich Wilhelm II, ein tapferer, redlicher, menschenliebender",
+          "where": "AA VII: 5, dòng 08"
+        }
+      ]
+    },
+    {
+      "text": "Ngày 1/10/1794",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa07/006.html",
+          "quote": "Sind Euch mit Gnade gewogen. Berlin, den 1. October 1794.",
+          "where": "AA VII: 6, dòng 25"
+        }
+      ]
+    },
+    {
+      "text": "URL https://www.korpora.org/Kant/aa07/006.html mở được và trỏ đúng trang AA VII: 6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa07/006.html",
+          "quote": "Kant: AA VII, Der Streit der ... , Seite 006",
+          "where": "tiêu đề trang"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m07): mở AA VII: 5, AA VII: 6 và mục lục tập 7 trên korpora.org bằng trình duyệt; mọi dữ kiện khớp. Chỉ dụ ký \"Auf Seiner Königl. Majestät allergnädigsten Specialbefehl. Woellner.\" (AA VII: 6, dòng 26–28), tức do Woellner ký thay vua: nếu bài viết nói chỉ dụ \"của vua\" thì vẫn đúng theo chữ của Kant (\"Königl. Rescript\")."
+}

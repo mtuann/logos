@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sep.hume",
+  "hash": "sha256:2586cb049d2ca56cfbd33137337bd702fa28013e5185f71829338d5354f0f863",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.2-m03",
+  "claims": [
+    {
+      "text": "Tên mục: \"David Hume\", *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "David Hume (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang; tiêu đề bài: David Hume"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả mục, đủ và đúng thứ tự: Qu, Hsueh & Elizabeth S. Radcliffe",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hsueh Qu",
+          "where": "dòng bản quyền cuối bài: Copyright © 2026 by Hsueh Qu, rồi Elizabeth S. Radcliffe (hai tác giả, thứ tự này)"
+        }
+      ]
+    },
+    {
+      "text": "Năm: (2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "First published Tue Jun 16, 2026",
+          "where": "đầu bài, bản lưu Fall 2026"
+        }
+      ]
+    },
+    {
+      "text": "URL bản lưu <https://plato.stanford.edu/archives/fall2026/entries/hume/> mở được và trỏ đúng mục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "David Hume",
+          "where": "tiêu đề bài trên trang bản lưu Fall 2026"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.2 (agent-mau-5.2-m03): mở bản lưu fall2026 bằng trình duyệt; mục \"David Hume\" mới đăng ngày 16/06/2026, hai tác giả theo thứ tự Hsueh Qu, Elizabeth S. Radcliffe — khớp bản ghi, kể cả năm 2026. Trường url (bản hiện hành, cùng slug) không mở vì hướng dẫn chỉ cho mở bản lưu."
+}
