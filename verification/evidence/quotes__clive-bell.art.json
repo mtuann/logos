@@ -1,0 +1,77 @@
+{
+  "unit": "quotes/clive-bell.art",
+  "hash": "sha256:7f3a702b14407533aea1e4c29f9adcd2e6e3a05e5ecf73c1bad854064e3b3976",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q05",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Only one answer seems possible — significant form. In each, lines and colours combined in a particular way, certain forms and relations of forms, stir our aesthetic emotions.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/16917/pg16917.txt",
+          "quote": "In each, lines and colours combined in a particular way, certain forms and relations of forms, stir our aesthetic emotions.",
+          "where": "Part I, Chương I, THE AESTHETIC HYPOTHESIS"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/16917/pg16917.txt",
+          "quote": "Only one answer seems possible--significant form.",
+          "where": "cùng chương"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Clive Bell, Art",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/16917/pg16917.txt",
+          "quote": "Frederick A. Stokes Company",
+          "where": "trang tên sách, ebook #16917"
+        }
+      ]
+    },
+    {
+      "text": "locator: Chương I (The Aesthetic Hypothesis), Part I",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/16917/pg16917.txt",
+          "quote": "THE AESTHETIC HYPOTHESIS",
+          "where": "tiêu đề chương I"
+        }
+      ]
+    },
+    {
+      "text": "Tiêu đề ghi năm 1914",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bản Gutenberg #16917 (Frederick A. Stokes, New York) ghi 1913; nên ghi '1913 (bản Stokes)' hoặc nêu rõ ấn bản nếu giữ 1914 (ấn bản Chatto & Windus chưa mở được nguồn trong phiên này).",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/16917/pg16917.txt",
+          "quote": "1913",
+          "where": "trang tên sách"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/16917/pg16917.txt",
+          "quote": "stir our aesthetic emotions",
+          "where": "đối chiếu: 'khuấy động cảm xúc thẩm mỹ của chúng ta'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguyên văn khớp; chỉ khác dấu gạch (Gutenberg dùng '--'): nhẹ. Hai câu được xác nhận riêng từng câu, không xác nhận liền kề từng chữ trong cùng một lần đọc. Văn bản 1913 thuộc phạm vi công cộng ở Mỹ, trích hai câu không có rủi ro bản quyền. Đề nghị thống nhất năm 1913/1914."
+}

@@ -1,0 +1,50 @@
+{
+  "unit": "events/lich-su.hy-lap-co-dai.428",
+  "hash": "sha256:302086172b052ff03d0b6aef8b870f5987e9ee3aaf926f0f22626c95188aee61",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-e01",
+  "claims": [
+    {
+      "text": "Platon sinh 428/427 và mất 348/347 TCN",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "born in 428-7 B.C.E"
+        },
+        {
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "348-7 B.C.E."
+        }
+      ]
+    },
+    {
+      "text": "Platon sáng lập Học viện Athens khoảng năm 387 TCN",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/plato-academy/",
+          "quote": "between the dates of 387 B.C.E. and 383 B.C.E.",
+          "where": "IEP: 'The Academy'"
+        }
+      ]
+    },
+    {
+      "text": "Học viện thường được ví là trường đại học đầu tiên của phương Tây",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thường được xem là mẫu hình ban đầu của loại hình trường học bậc cao ở phương Tây (nhưng không hoàn toàn giống đại học hiện đại)",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/plato-academy/",
+          "quote": "is often seen as the prototype of a new kind of educational organization"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Ghi chú: IEP (Plato: The Academy) nói rõ hoạt động của Học viện 'do not neatly map on to any of our concepts of school, university, or college' và nó chỉ là một trong nhiều tổ chức giáo dục ở Athens thế kỷ IV TCN; IEP không dùng cụm 'first university', nên cách nói 'trường đại học đầu tiên' nên làm mềm. Mốc 387 là cận trên trong khoảng 387–383 (IEP), 'khoảng' hợp lý. SEP bản fall2026 ghi Platon '429?–347', khác IEP chút ít; năm sinh/mất vẫn là ước đoán."
+}

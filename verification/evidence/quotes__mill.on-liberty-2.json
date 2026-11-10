@@ -1,0 +1,80 @@
+{
+  "unit": "quotes/mill.on-liberty-2",
+  "hash": "sha256:fc483946a9b8470375f6a7dc9158d6d9647f3cd73e0328fe0904a61d673d2fa3",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn 'We can never be sure that the opinion we are endeavouring to stifle is a false opinion; ... an evil still.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "We can never be sure that the opinion we are endeavouring to stifle is a false opinion",
+          "where": "Chương II, đoạn 2"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'All silencing of discussion is an assumption of infallibility.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "All silencing of discussion is an assumption of infallibility.",
+          "where": "Chương II, đoạn 3"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'There is the greatest difference between presuming an opinion to be true... refutation.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "There is the greatest difference between presuming an opinion to be true",
+          "where": "Chương II, đoạn 6"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm đúng: Mill, On Liberty (1859)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "On Liberty by John Stuart Mill"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương II, đoạn 2, 3 và 6 (tiêu đề đã ghi đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "All silencing of discussion is an assumption of infallibility.",
+          "where": "đoạn 3 theo bản đếm của công cụ; đoạn 6 cho câu 'greatest difference'"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "assuming its truth for the purpose of not permitting its refutation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. Một lượt đếm đầu cho câu 'greatest difference' ra đoạn 5, lượt sau ra đoạn 6 (khớp bản ghi); nên người làm tự đếm lại bằng bản có đánh số đoạn."
+}

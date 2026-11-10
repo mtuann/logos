@@ -1,0 +1,67 @@
+{
+  "unit": "quotes/kant.grundlegung-zur-metaphysik-der-sitten",
+  "hash": "sha256:b4f7b52ac058480e1b5862dce94fb8ac54b7e13b4d2831236acf4ecfe52911cf",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Handle so, daß du die Menschheit sowohl in deiner Person, als in der Person eines jeden andern jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "Handle so, daß du die Menschheit sowohl in deiner Person, als",
+          "where": "AA IV, S. 429, Z. 10"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "in der Person eines jeden andern jederzeit zugleich als Zweck,",
+          "where": "Z. 11"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "niemals bloß als Mittel brauchst.",
+          "where": "Z. 12"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Kant, Grundlegung zur Metaphysik der Sitten (1785); url korpora.org trỏ đúng trang 4:429",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "Handle so, daß du die Menschheit sowohl in deiner Person",
+          "where": "Kant: AA IV, Grundlegung zur Metaphysik der ..., Seite 429"
+        }
+      ]
+    },
+    {
+      "text": "locator: Akademie-Ausgabe 4:429 (mục II)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "niemals bloß als Mittel brauchst.",
+          "where": "AA IV, S. 429, Z. 12; mục II không ghi trên trang, đoạn 4:429 thuộc phần II theo cách đánh số thông thường (không đối chiếu riêng)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (Menschheit = nhân tính; Zweck = mục đích; bloß als Mittel = chỉ như phương tiện)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa04/429.html",
+          "quote": "zugleich als Zweck,"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguyên văn khớp từng chữ với Akademie-Ausgabe (korpora.org). Số 'mục II' không in trên trang số hóa này; dựa trên đánh số thông thường, không do trang xác nhận. Bản dịch 'bạn' cho 'du' là chọn lựa văn phong (mệnh lệnh phổ thông), đúng ý."
+}

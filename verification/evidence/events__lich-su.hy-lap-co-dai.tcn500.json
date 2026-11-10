@@ -1,0 +1,41 @@
+{
+  "unit": "events/lich-su.hy-lap-co-dai.tcn500",
+  "hash": "sha256:0cf780b6b3b4af9a95ed4d13cfc37feb9d03b7d21a6c0389490c7883aa3bb113",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-e02",
+  "claims": [
+    {
+      "text": "Heraclitus xứ Ephesus, hoạt động khoảng 500 TCN",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/heraclit/",
+          "quote": "Heraclitus (fl. c. 500 B.C.E.)"
+        },
+        {
+          "url": "https://iep.utm.edu/heraclit/",
+          "quote": "Heraclitus lived in Ephesus"
+        }
+      ]
+    },
+    {
+      "text": "Mọi thứ luôn chảy trôi; 'không bước hai lần vào cùng một dòng sông' là cách Platon thuật lại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "Heraclitus, I believe, says that all things pass and nothing stays"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "you could not step twice into the same river",
+          "where": "Cratylus 402a"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Cẩn thận: SEP cho rằng chỉ B12 là chính xác ('On those stepping into rivers staying the same other and other waters flow'), và cách đọc của Platon có thể từ Cratylus hiểu sai B12; bài đã ghi 'theo cách Platon thuật lại' nên đúng. Quote qua WebFetch."
+}

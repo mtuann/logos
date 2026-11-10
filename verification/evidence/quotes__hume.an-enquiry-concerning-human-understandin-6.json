@@ -1,0 +1,62 @@
+{
+  "unit": "quotes/hume.an-enquiry-concerning-human-understandin-6",
+  "hash": "sha256:401c03ae0bbe78b32f713ca75e96f17781e58e25dd55088c419f1db7f8fbc5c8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Custom, then, is the great guide of human life. It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "Custom, then, is the great guide of human life.",
+          "where": "Mục V, phần 1"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "makes us expect, for the future, a similar train of events",
+          "where": "câu tiếp theo"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Hume, An Enquiry concerning Human Understanding (1748); url Gutenberg #9662 trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "An Enquiry Concerning Human Understanding",
+          "where": "David Hume, biên tập L. A. Selby-Bigge"
+        }
+      ]
+    },
+    {
+      "text": "locator: mục V, phần 1 (EHU 5.6)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "Custom, then, is the great guide of human life.",
+          "where": "Mục V phần 1, đoạn thứ 6 của phần (¶34, không số, ¶35, không số, ¶36, rồi đoạn này)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "renders our experience useful to us, and makes us expect, for the future"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Cùng đoạn với bản ghi -4. Chữ 'ấn bản 1777' trong tiêu đề không hiện trên trang Gutenberg đã mở; không kiểm riêng. Không còn rủi ro bản quyền (Hume 1748)."
+}

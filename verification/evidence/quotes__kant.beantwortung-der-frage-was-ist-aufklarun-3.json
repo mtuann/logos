@@ -1,0 +1,86 @@
+{
+  "unit": "quotes/kant.beantwortung-der-frage-was-ist-aufklarun-3",
+  "hash": "sha256:04cfe3c2739d52ec84280cb707291d74ec930a5cd210b879cd00aca80ab09f81",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Zu dieser Aufklärung aber wird nichts erfordert als Freiheit; und zwar die unschädlichste unter allem, was nur Freiheit heißen mag, nämlich die: von seiner Vernunft in allen Stükken öffentlichen Gebrauch zu machen. […] Ich verstehe aber unter dem öffentlichen Gebrauche seiner eigenen Vernunft denjenigen, den jemand als Gelehrter von ihr vor dem ganzen Publikum der Leserwelt macht. Den Privatgebrauch nenne ich denjenigen, den er in einem gewissen ihm anvertrauten bürgerlichen Posten, oder Amte, von seiner Vernunft machen darf.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "Zu dieser Aufklärung aber wird nichts erfordert als Freiheit; und",
+          "where": "AA VIII, S. 36, Z. 34"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "zwar die unschädlichste unter allem, was nur Freiheit heißen mag, nämlich",
+          "where": "S. 36, Z. 35"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "Ich verstehe aber unter dem öffentlichen Gebrauche seiner eigenen Vernunft",
+          "where": "S. 37, Z. 11"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "der Leserwelt macht. Den Privatgebrauch nenne ich denjenigen,",
+          "where": "S. 37, Z. 13"
+        }
+      ]
+    },
+    {
+      "text": "Chính tả/dấu câu: \"Stükken\", \"Publikum\", \"Posten, oder Amte,\" so với Akademie",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Akademie in \"in allen Stücken\", \"ganzen Publicum der Leserwelt\", \"bürgerlichen Posten oder Amte von seiner Vernunft machen darf\" (bản ghi dùng chính tả/dấu câu bản in 1784); thống nhất và ghi rõ bản nào.",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "den er in einem gewissen ihm anvertrauten bürgerlichen Posten oder",
+          "where": "S. 37, Z. 14-15"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Kant, Beantwortung der Frage: Was ist Aufklärung? (1784)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "Zu dieser Aufklärung aber wird nichts erfordert als Freiheit",
+          "where": "AA VIII, S. 36"
+        }
+      ]
+    },
+    {
+      "text": "locator: Ak 8:36–37",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "Zu dieser Aufklärung aber wird nichts erfordert als Freiheit; und",
+          "where": "S. 36 Z. 34 đến S. 37 Z. 15"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (öffentlicher Gebrauch = dùng lý trí công khai; Privatgebrauch = dùng riêng tư trong chức vụ dân sự)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "Amte von seiner Vernunft machen darf."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Dấu […] lược hợp lệ (ở giữa là hết câu và 'Nun höre ich aber von allen Seiten rufen: räsonnirt nicht!...'). Tiền tố work 'chua-ro.' (tác giả chưa gán)."
+}

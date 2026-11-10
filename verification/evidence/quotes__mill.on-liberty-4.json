@@ -1,0 +1,63 @@
+{
+  "unit": "quotes/mill.on-liberty-4",
+  "hash": "sha256:9bb31edf1ad727ec30120affc7b3e2adf3ece90c7dac7229590e5fc6077d00c9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn 'But there is a commoner case than either of these; ... embodies only a part.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "But there is a commoner case than either of these; when the conflicting doctrines",
+          "where": "Chương II"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'Popular opinions, on subjects not palpable to sense, are often true, but seldom or never the whole truth.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "Popular opinions, on subjects not palpable to sense, are often true, but seldom or never the whole truth.",
+          "where": "Chương II"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm đúng: Mill, On Liberty (1859)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "On Liberty by John Stuart Mill"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương II, đoạn 34 (tiêu đề ghi 34)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bản dịch: 'các chủ đề giác quan không kiểm chứng được' cho 'subjects not palpable to sense'",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Những ý kiến phổ biến về các chủ đề không hiển nhiên đối với giác quan thường đúng, nhưng hiếm khi hoặc không bao giờ là toàn bộ sự thật.",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "Popular opinions, on subjects not palpable to sense"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. Locator: công cụ đếm đoạn 'commoner case' là 35 (đoạn 23 + 12), lệch 1 so với tiêu đề (34); Gutenberg không đánh số đoạn và không tìm được bản có đánh số đoạn, nên chưa kết luận. Người làm đối chiếu một bản in có đánh số đoạn. Phần dịch sai nhe: 'palpable to sense' là 'sờ thấy/hiển nhiên với giác quan', không phải 'kiểm chứng được'."
+}

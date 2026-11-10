@@ -1,0 +1,72 @@
+{
+  "unit": "quotes/hume.an-enquiry-concerning-human-understandin-5",
+  "hash": "sha256:31778c18d9f5484f908e448d6258f789497b49e1f50a66ea37be90b94a83e1fa",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"We only find, that the one does actually, in fact, follow the other. The impulse of one billiard-ball is attended with motion in the second.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "We only find, that the one does actually, in fact, follow the other.",
+          "where": "Mục VII, phần 1 (Gutenberg #9662)"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "The impulse of one billiard-ball is attended with motion in the second.",
+          "where": "câu liền sau"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn: \"This connexion, therefore, which we feel in the mind, this customary transition of the imagination from one object to its usual attendant, is the sentiment or impression from which we form the idea of power or necessary connexion.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "This connexion, therefore, which we feel in the mind, this customary transition of the imagination from one object to its usual attendant",
+          "where": "Mục VII, phần 2 (Gutenberg ¶59); \"feel\" in nghiêng"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "is the sentiment or impression from which we form the idea of power or necessary connexion.",
+          "where": "phần cuối câu cùng đoạn"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Hume, An Enquiry concerning Human Understanding (1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "An Enquiry Concerning Human Understanding",
+          "where": "David Hume, biên tập L. A. Selby-Bigge"
+        }
+      ]
+    },
+    {
+      "text": "locator: EHU 7.6 và 7.28",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (cái này quả có theo sau cái kia; cú va quả bi-a thứ nhất đi kèm chuyển động quả thứ hai; mối liên hệ ta cảm thấy trong tâm trí, sự chuyển tiếp theo thói quen của trí tưởng tượng, là cảm nhận hay ấn tượng làm nảy sinh ý niệm sức mạnh/liên hệ tất yếu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+          "quote": "is the sentiment or impression from which we form the idea of power or necessary connexion."
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Hai đoạn có thật và nguyên văn đúng (dấu […] giữa hai đoạn là lược hợp lệ: ở Gutenberg chúng cách xa nhau, ¶50 và ¶59 theo số Selby-Bigge). Locator 7.6/7.28 theo đánh số Beauchamp; trang Gutenberg đánh số khác (có đoạn không số, và đoạn chứa 'We only find' hiện ra là đoạn thứ 4 sau ¶49) nên không đối chiếu chắc được 7.6; cần người làm đối chiếu ấn bản Beauchamp/Oxford hoặc dùng số Selby-Bigge. Bản dịch có chữ 'sentiment' = 'cảm nhận': chấp nhận được."
+}

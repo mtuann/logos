@@ -1,0 +1,71 @@
+{
+  "unit": "quotes/mill.on-liberty-5",
+  "hash": "sha256:3c51e6596f23f14020ab496b8c36d3a2f70de0314dbb1e2432fff6601d4f051b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q08",
+  "claims": [
+    {
+      "text": "Nguyên văn 'That principle is, that the sole end for which mankind are warranted... is self-protection.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "That principle is, that the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action",
+          "where": "Chương I, đoạn 9"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn 'That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.' đúng từng chữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.",
+          "where": "Chương I, đoạn 9"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm đúng; url https://www.gutenberg.org/ebooks/34901 trỏ đúng On Liberty",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "On Liberty by John Stuart Mill",
+          "where": "ebook #34901"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương I, đoạn 9",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "chương I, đoạn 9 (tiêu đề mới ghi 'chương I')",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "That principle is, that the sole end for which mankind are warranted",
+          "where": "Chương I, đoạn 9"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "against his will, is to prevent harm to others"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. Đoạn 9 do công cụ đếm; nên người làm xác nhận."
+}

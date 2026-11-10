@@ -1,0 +1,71 @@
+{
+  "unit": "quotes/marcus-aurelius.suy-tuong",
+  "hash": "sha256:55f03e45737c2f681a967541ac62d290e043c08ddebff36af54bad145226d1ad",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q07",
+  "claims": [
+    {
+      "text": "Nguyên văn (Long): Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ghi busy-body (có gạch nối) nếu theo bản MIT Classics; chữ khác chỉ là chính tả, nghĩa không đổi. Cần đối chiếu bản Gutenberg #15877 để chọn cách viết",
+      "sources": [
+        {
+          "url": "http://classics.mit.edu/Antoninus/meditations.2.two.html",
+          "quote": "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial",
+          "where": "Book Two, đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn: All these things happen to them by reason of their ignorance of what is good and evil.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://classics.mit.edu/Antoninus/meditations.2.two.html",
+          "quote": "ignorance of what is good and evil",
+          "where": "Book Two, đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Marcus Aurelius, Suy tưởng (Meditations), bản dịch George Long",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/15877",
+          "quote": "Thoughts of Marcus Aurelius Antoninus",
+          "where": "trang ebook: dịch giả George Long"
+        }
+      ]
+    },
+    {
+      "text": "locator: II.1 (Book Two, mục 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://classics.mit.edu/Antoninus/meditations.2.two.html",
+          "quote": "Begin the morning by saying to thyself",
+          "where": "Book Two, đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://classics.mit.edu/Antoninus/meditations.2.two.html",
+          "quote": "ignorance of what is good and evil"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "URL trong bản ghi (Gutenberg #15877) không đọc được phần thân trong phiên này (công cụ chỉ đọc phần đầu, Thoughts bị cắt); đối chiếu qua MIT Classics (cũng là bản Long). Trang MIT không đánh số mục; 'II.1' là cách đánh số quy ước, tin vào mở đầu Book Two. Chữ đúng từng chữ ở các vế đã chép, trừ busy-body. Nên xác nhận busybody/busy-body trên Gutenberg."
+}

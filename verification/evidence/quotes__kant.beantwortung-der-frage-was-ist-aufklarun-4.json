@@ -1,0 +1,86 @@
+{
+  "unit": "quotes/kant.beantwortung-der-frage-was-ist-aufklarun-4",
+  "hash": "sha256:c15483124969321fbab065b2f409bfff50e06f1ba7f8f4985e4d6feab57a894c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Durch eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism und gewinnsüchtiger oder herrschsüchtiger Bedrükkung, aber niemals wahre Reform der Denkungsart zu Stande kommen […]. (Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr wollt, und worüber ihr wollt; aber gehorcht!)\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism",
+          "where": "AA VIII, S. 36, Z. 29"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "Reform der Denkungsart zu Stande kommen",
+          "where": "S. 36, Z. 31"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "(Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr",
+          "where": "S. 37, Z. 3"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "wollt, und worüber ihr wollt; aber gehorcht!)",
+          "where": "S. 37, Z. 4"
+        }
+      ]
+    },
+    {
+      "text": "Chính tả: \"Bedrükkung\" so với Akademie \"Bedrückung\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Akademie in \"Bedrückung\" (bản ghi dùng chính tả bản in 1784 'Bedrükkung'); thống nhất một bản.",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "und gewinnsüchtiger oder herrschsüchtiger Bedrückung, aber niemals wahre",
+          "where": "S. 36, Z. 30"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Kant, Beantwortung der Frage: Was ist Aufklärung? (1784)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "(Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr",
+          "where": "AA VIII, S. 37"
+        }
+      ]
+    },
+    {
+      "text": "locator: Ak 8:36 và 8:37",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/036.html",
+          "quote": "Reform der Denkungsart zu Stande kommen",
+          "where": "S. 36 (đoạn Revolution); đoạn 'Nur ein einziger Herr' ở S. 37"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (Abfall von Despotism = lật đổ chuyên chế; Reform der Denkungsart = cải cách lối nghĩ; räsonnirt = lý luận)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "wollt, und worüber ihr wollt; aber gehorcht!)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Hai đoạn cách nhau (S. 36 Z. 29-31 và S. 37 Z. 3-4, ở giữa còn chữ khác, gồm đoạn 'räsonnirt nicht!' mở ở S. 36 Z. 37), dấu […] hợp lệ nhưng ghép hai chỗ xa nhau: nên nhắc trong bài rằng câu trong ngoặc ở S. 37 nằm cách đoạn trước. 'Abfall' dịch 'lật đổ' hơi mạnh (sát hơn: 'sự thoát khỏi/ sự rời bỏ'); vẫn đúng ý. Tiền tố work 'chua-ro.' (tác giả chưa gán)."
+}

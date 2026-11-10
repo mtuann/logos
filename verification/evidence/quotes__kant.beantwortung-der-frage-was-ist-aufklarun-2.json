@@ -1,0 +1,81 @@
+{
+  "unit": "quotes/kant.beantwortung-der-frage-was-ist-aufklarun-2",
+  "hash": "sha256:76f3cf32585235ef1ba1aae4b29468788435e38a1364c5f43775d13d71638843",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-q06",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil der Menschen […] dennoch gerne Zeitlebens unmündig bleiben; und warum es Anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt der für mich die Diät beurtheilt, u. s. w. so brauche ich mich ja nicht selbst zu bemühen.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil",
+          "where": "AA VIII, S. 35, Z. 9"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "bleiben; und warum es Anderen so leicht wird, sich zu deren Vormündern",
+          "where": "Z. 12"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch,",
+          "where": "Z. 13"
+        }
+      ]
+    },
+    {
+      "text": "Chi tiết chính tả/dấu câu: \"Zeitlebens\" (hoa), \"Arzt der\" (không phẩy), \"u. s. w.\" so với Akademie",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Akademie in: \"dennoch gerne zeitlebens unmündig\", \"einen Arzt, der für mich die Diät beurtheilt, etc., so brauche ich mich ...\" (bản ghi dùng chính tả bản in 1784); thống nhất theo một bản và ghi rõ bản nào.",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "einen Arzt, der für mich die Diät beurtheilt, etc., so brauche ich mich mich",
+          "where": "Z. 15 (trang số hóa có 'mich mich' lặp, lỗi của trang, không phải của Kant)"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Kant, Beantwortung der Frage: Was ist Aufklärung? (1784)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "Faulheit und Feigheit sind die Ursachen",
+          "where": "AA VIII, S. 35"
+        }
+      ]
+    },
+    {
+      "text": "locator: Ak 8:35",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil",
+          "where": "AA VIII, S. 35, Z. 9-16"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn (Seelsorger = mục sư; Vormünder = người giám hộ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "einen Seelsorger, der für mich Gewissen hat,"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Phần lược […] (giữa 'Theil der Menschen' và 'dennoch') hợp lệ: bản gốc ở đó có mệnh đề 'nachdem sie die Natur längst von fremder Leitung frei gesprochen (naturaliter maiorennes)'. 'Seelsorger' dịch 'mục sư' là thoát nhưng đúng ý (có thể 'người chăn dắt linh hồn/linh mục' trung tính hơn). Tiền tố work 'chua-ro.' (tác giả chưa gán)."
+}

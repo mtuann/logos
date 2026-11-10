@@ -1,0 +1,51 @@
+{
+  "unit": "events/lich-su.can-dai.1637",
+  "hash": "sha256:87aea99aae0bac33c1f9517128f2c999d7d7788fd5342dda39de428b90fe3c05",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-e01",
+  "claims": [
+    {
+      "text": "Cụm 'I think, therefore I am (cogito ergo sum)' có trong Luận về phương pháp, 1637",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/59.txt.utf-8",
+          "quote": "this truth, I think, therefore I am (COGITO ERGO SUM)",
+          "where": "Phần IV; Gutenberg #59, bản Veitch"
+        }
+      ]
+    },
+    {
+      "text": "Cogito có trong Các nguyên lý triết học, 1644 (I.7)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "the first and most certain of all to occur to anyone who philosophizes in an orderly way",
+          "where": "trích Principles 1:7"
+        },
+        {
+          "url": "https://www.earlymoderntexts.com/assets/pdfs/descartes1644.pdf",
+          "quote": "I’m thinking, so I exist",
+          "where": "Phần 1, mục 7"
+        }
+      ]
+    },
+    {
+      "text": "Suy niệm viết 'tôi là, tôi hiện hữu' chứ không phải cogito ergo sum",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "this proposition, I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind",
+          "where": "Meditation II"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Latin 'ego cogito, ergo sum' trong Principles I.7 không được thấy nguyên văn trong bản đã mở (chỉ bản tiếng Anh); khớp với SEP. Bản ghi dùng chung câu với 1644."
+}
