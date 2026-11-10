@@ -1,6 +1,6 @@
 {
   "unit": "quotes/marcus-aurelius.suy-tuong",
-  "hash": "sha256:55f03e45737c2f681a967541ac62d290e043c08ddebff36af54bad145226d1ad",
+  "hash": "sha256:f02fd501b1d003818af35e979292abf5a339c1d979d4920cdf529d46152d713b",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-q07",
   "claims": [
@@ -67,5 +67,5 @@
     }
   ],
   "result": "dat",
-  "notes": "URL trong bản ghi (Gutenberg #15877) không đọc được phần thân trong phiên này (công cụ chỉ đọc phần đầu, Thoughts bị cắt); đối chiếu qua MIT Classics (cũng là bản Long). Trang MIT không đánh số mục; 'II.1' là cách đánh số quy ước, tin vào mở đầu Book Two. Chữ đúng từng chữ ở các vế đã chép, trừ busy-body. Nên xác nhận busybody/busy-body trên Gutenberg."
+  "notes": "URL trong bản ghi (Gutenberg #15877) không đọc được phần thân trong phiên này (công cụ chỉ đọc phần đầu, Thoughts bị cắt); đối chiếu qua MIT Classics (cũng là bản Long). Trang MIT không đánh số mục; 'II.1' là cách đánh số quy ước, tin vào mở đầu Book Two. Chữ đúng từng chữ ở các vế đã chép, trừ busy-body. Nên xác nhận busybody/busy-body trên Gutenberg. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"II.1\", `work` = marcus-aurelius.suy-tuong theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

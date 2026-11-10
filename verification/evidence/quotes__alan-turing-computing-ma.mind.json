@@ -1,6 +1,6 @@
 {
   "unit": "quotes/alan-turing-computing-ma.mind",
-  "hash": "sha256:eb077b02e43f030bd47ea472793b9d804c2d886ac29d4b9cca82a6f38a55550f",
+  "hash": "sha256:54bf9d35210c0c33be47b95ff93eefe7beb1f0dadd244eca3243752ef0ac2f00",
   "checked_on": "2026-11-09",
   "checker": "agent-kiem-5.2-q01",
   "claims": [
@@ -50,7 +50,8 @@
           "quote": "1. The Imitation Game",
           "where": "đề mục ngay trước hai câu được trích; đây là trang đầu của bài (tr. 433)"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch: \"Tôi đề nghị xem xét câu hỏi: 'Máy có thể suy nghĩ không?' Việc này lẽ ra phải bắt đầu bằng định nghĩa nghĩa của các từ 'máy' và 'suy nghĩ'.\" — sát nghĩa nguyên văn",
@@ -77,5 +78,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Nguyên văn khớp từng chữ với trang nhà xuất bản (OUP, DOI 10.1093/mind/LIX.236.433); trang dùng ngoặc đơn cong, bản ghi dùng ngoặc thẳng — không đáng kể. Tiêu đề chưa có vị trí: đề xuất locator \"§1 “The Imitation Game”, tr. 433\". Bài còn bản quyền nên chỉ nên trích ngắn như hiện nay; đề xuất license: fair-use-short. Kho works chưa có bản ghi cho bài này (work: null). Link ổn định đề xuất: https://doi.org/10.1093/mind/LIX.236.433."
+  "notes": "Nguyên văn khớp từng chữ với trang nhà xuất bản (OUP, DOI 10.1093/mind/LIX.236.433); trang dùng ngoặc đơn cong, bản ghi dùng ngoặc thẳng — không đáng kể. Tiêu đề chưa có vị trí: đề xuất locator \"§1 “The Imitation Game”, tr. 433\". Bài còn bản quyền nên chỉ nên trích ngắn như hiện nay; đề xuất license: fair-use-short. Kho works chưa có bản ghi cho bài này (work: null). Link ổn định đề xuất: https://doi.org/10.1093/mind/LIX.236.433. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"§1 “The Imitation Game”, tr. 433\", `work_note` = \"bài báo trên tạp chí Mind; tác phẩm chưa có bản ghi (đợt 7)\" theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

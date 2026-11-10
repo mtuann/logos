@@ -1,6 +1,6 @@
 {
   "unit": "quotes/friedrich-nietzsche.die-frohliche-wissenschaft",
-  "hash": "sha256:21f3121148e58f8f761c53e904e32fd0dd270282d5e39261dc974255b1c7db20",
+  "hash": "sha256:46dfc3eae3720d0c9cd7060543a3ba83875ef9663f1d712880966fc08a25eb41",
   "checked_on": "2026-11-09",
   "checker": "agent-kiem-5.2-q02",
   "claims": [
@@ -86,5 +86,5 @@
     }
   ],
   "result": "dat",
-  "notes": "URL Gutenberg #52881 đúng sách (The Joyful Wisdom, dịch giả Cohn, Common, Petre). WebFetch chỉ đọc ~120 nghìn ký tự đầu của file Gutenberg nên không tới được §125; chữ của bản Common được đối chiếu qua hai bản chép lại có ghi nguồn Gutenberg #52881 (TRU Pressbooks, Saylor) — khớp từng chữ; vị trí và tên mục đối chiếu với nguyên văn Đức (GHDI). Nên có người mở Gutenberg #52881 §125 để xác nhận lần cuối nếu cần nguồn bậc 1. Đề xuất locator \"§125\". Trường license có thể ghi public-domain."
+  "notes": "URL Gutenberg #52881 đúng sách (The Joyful Wisdom, dịch giả Cohn, Common, Petre). WebFetch chỉ đọc ~120 nghìn ký tự đầu của file Gutenberg nên không tới được §125; chữ của bản Common được đối chiếu qua hai bản chép lại có ghi nguồn Gutenberg #52881 (TRU Pressbooks, Saylor) — khớp từng chữ; vị trí và tên mục đối chiếu với nguyên văn Đức (GHDI). Nên có người mở Gutenberg #52881 §125 để xác nhận lần cuối nếu cần nguồn bậc 1. Đề xuất locator \"§125\". Trường license có thể ghi public-domain. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"§125\", `work` = nietzsche.die-frohliche-wissenschaft theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

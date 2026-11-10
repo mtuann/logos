@@ -1,6 +1,6 @@
 {
   "unit": "quotes/democritus.trich",
-  "hash": "sha256:4c62a35088fed7d9226e866a8dc204a6b29a4cfe26672702902c1fd5ccda0215",
+  "hash": "sha256:503a649487b6f2213c097a18f6a9467042d281fe8b8f086a4f5bbc545680ecba",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r04",
   "claims": [
@@ -66,5 +66,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): đoạn [72] ở Perseus (bản Hicks) chứa cả hai câu, đúng số IX.72. Hai câu nối bằng '…' hợp lệ. URL en.wikisource Book_IX trong bản ghi trả 404 (không có trang đó); đề nghị đổi url sang trang Perseus ở claim locator. Trình duyệt dùng chung nên tab-2 bị đổi bởi agent khác; đã dùng tab-7."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r04): đoạn [72] ở Perseus (bản Hicks) chứa cả hai câu, đúng số IX.72. Hai câu nối bằng '…' hợp lệ. URL en.wikisource Book_IX trong bản ghi trả 404 (không có trang đó); đề nghị đổi url sang trang Perseus ở claim locator. Trình duyệt dùng chung nên tab-2 bị đổi bởi agent khác; đã dùng tab-7. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"Diogenes Laërtius IX.72\", `work_note` = \"lời Democritus do Diogenes Laërtius dẫn; tác phẩm chưa có bản ghi (đợt 7)\" theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

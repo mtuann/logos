@@ -1,6 +1,6 @@
 {
   "unit": "quotes/aristotle.dao-duc-nicomachus",
-  "hash": "sha256:5faaf2360b8d58eb915abb93feb6acfd73a1dc1165028847cf7d9c1b43b3db29",
+  "hash": "sha256:a2e9ab351b2309670328b17a31455295558cb4b8a4dc1d74d67f4708e69cdeba",
   "checked_on": "2026-11-09",
   "checker": "agent-kiem-5.2-q01",
   "claims": [
@@ -54,7 +54,8 @@
           "quote": "Book III",
           "where": "đề mục \"Book III\", \"1\" ngay trước câu trích"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch: \"Vì đức hạnh liên quan đến những xúc cảm và hành động, và lời khen, lời trách được dành cho những xúc cảm, hành động tự nguyện, còn sự tha thứ — và đôi khi cả lòng thương hại — được dành cho những gì không tự nguyện, nên việc phân biệt tự nguyện với không tự nguyện hẳn là cần thiết cho ai nghiên cứu bản chất của đức hạnh, và cũng hữu ích cho các nhà làm luật khi xét việc ban thưởng và trừng phạt.\" — sát nghĩa nguyên văn",
@@ -80,5 +81,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Nguyên văn khớp từng chữ với bản Ross trên MIT Internet Classics Archive. Bản dịch Ross của Đạo đức Nicomachus in năm 1925 (không phải 1908 — năm 1908 là bản Siêu hình học), nên thuộc phạm vi công cộng ở Hoa Kỳ nhưng còn bản quyền ở các nước tính đời tác giả + 70 năm (Ross mất 1971); chỉ trích một câu như hiện nay là ổn — đề xuất license: fair-use-short. Locator đề xuất: \"III.1, 1109b30–35\". work đang null: đề xuất aristotle.ethica-nicomachea (đã có trong kho works). Link đề xuất: https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html."
+  "notes": "Nguyên văn khớp từng chữ với bản Ross trên MIT Internet Classics Archive. Bản dịch Ross của Đạo đức Nicomachus in năm 1925 (không phải 1908 — năm 1908 là bản Siêu hình học), nên thuộc phạm vi công cộng ở Hoa Kỳ nhưng còn bản quyền ở các nước tính đời tác giả + 70 năm (Ross mất 1971); chỉ trích một câu như hiện nay là ổn — đề xuất license: fair-use-short. Locator đề xuất: \"III.1, 1109b30–35\". work đang null: đề xuất aristotle.ethica-nicomachea (đã có trong kho works). Link đề xuất: https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"III.1, 1109b30–35\", `work` = aristotle.ethica-nicomachea theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }

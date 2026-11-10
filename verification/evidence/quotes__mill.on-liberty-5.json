@@ -1,6 +1,6 @@
 {
   "unit": "quotes/mill.on-liberty-5",
-  "hash": "sha256:3c51e6596f23f14020ab496b8c36d3a2f70de0314dbb1e2432fff6601d4f051b",
+  "hash": "sha256:f875382f59ecdbdb166453980388d9636e1886770a0ce980e6d81e40d3458674",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-q08",
   "claims": [
@@ -52,7 +52,8 @@
           "quote": "That principle is, that the sole end for which mankind are warranted",
           "where": "Chương I, đoạn 9"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bản dịch tiếng Việt sát nghĩa nguyên văn",
@@ -67,5 +68,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. Đoạn 9 do công cụ đếm; nên người làm xác nhận."
+  "notes": "Gutenberg #34901 mở qua WebFetch (công cụ trả lời bằng mô hình nhỏ, so khớp từng chuỗi). Số đoạn do công cụ đếm từ đầu chương (Gutenberg không đánh số đoạn). Mill mất năm 1873, nguyên văn thuộc phạm vi công cộng; bản dịch là của Logos nên không có rủi ro bản quyền. Đoạn 9 do công cụ đếm; nên người làm xác nhận. | 10/11/2026 (sổ sách, Claude): kho thêm `locator` = \"chương I, đoạn 9\", `work` = mill.on-liberty theo claim vị trí đã kiểm ở trên; thân trích không đổi; cập nhật mã băm, không mở lại nguồn."
 }
