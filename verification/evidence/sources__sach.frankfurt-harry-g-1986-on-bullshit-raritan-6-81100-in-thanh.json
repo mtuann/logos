@@ -2,7 +2,7 @@
   "unit": "sources/sach.frankfurt-harry-g-1986-on-bullshit-raritan-6-81100-in-thanh",
   "hash": "sha256:893caf40b33f07ed220aa0c69a50d6d7bbd1ce2872b8a094530d4d6ca7a50d81",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
       "text": "On Bullshit, Princeton University Press, 2005 (in thành sách)",
@@ -12,16 +12,28 @@
         {
           "url": "https://api.crossref.org/works?query.bibliographic=Frankfurt+On+Bullshit+Princeton+University+Press+2005&rows=3",
           "quote": "On Bullshit. By Harry G. Frankfurt. Princeton: Princeton University Press, 2005",
-          "where": "Crossref: tựa bài điểm sách của Jeff Harrison, 10.1093/litthe/fri049 (nguồn thứ cấp)"
+          "where": "Crossref: tựa bài điểm sách 10.1093/litthe/fri049 (thứ cấp)"
+        },
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Frankfurt+On+Bullshit+Raritan+1986&rows=3",
+          "quote": "On Bullshit",
+          "where": "Crossref: sách 'On Bullshit', Frankfurt, Princeton University Press, 2005-12-31, DOI 10.1515/9781400826537"
         }
       ]
     },
     {
       "text": "Bài gốc Raritan 6: 81–100, 1986",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "Frankfurt, H. G., 1986. ‘On Bullshit,’ Raritan, 6: 81–100.",
+          "where": "SEP, The Definition of Lying and Deception, Bibliography"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nhà xuất bản/năm sách chỉ xác nhận qua tựa các bài điểm sách (thứ cấp). Raritan chưa mở được. Cần trang Princeton UP hoặc Raritan."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): Crossref cho bản sách Princeton UP 2005 trực tiếp (DOI 10.1515/9781400826537); SEP cho Raritan 6: 81–100 (năm 1986). Link ổn định đề xuất: https://doi.org/10.1515/9781400826537"
 }

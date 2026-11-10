@@ -2,19 +2,43 @@
   "unit": "events/viet-nam.truc-lam.1288-2",
   "hash": "sha256:6d2d213c797624ae75a731fc6efc6c616e6d197ed805266cbc52999d6ed4bc9f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e06",
+  "checker": "agent-kiem-5.2-r09",
   "claims": [
     {
       "text": "Cuộc kháng chiến chống Nguyên-Mông kết thúc năm 1288",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "元人溺死不可勝計，江水為之盡赤。",
+          "where": "Toàn thư, bản kỷ quyển 5, mục năm Trùng Hưng 4 (chú: 元至元二十五年 = 1288), tháng 3, trận Bạch Đằng; bắt Ô Mã Nhi"
+        }
+      ]
     },
     {
-      "text": "Thiền phái Trúc Lâm chỉ thành hình sau khi kháng chiến kết thúc; người sáng lập là vị vua lãnh đạo kháng chiến ấy",
+      "text": "Vị vua lãnh đạo kháng chiến (Trần Nhân Tông) sau đó xuất gia, tự hiệu Trúc Lâm đại sĩ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "時上皇出家，居安子山之紫霄峯，自號竹林大士。",
+          "where": "Toàn thư, bản kỷ quyển 6, mục Nhân Tông, tháng 11 (Thượng hoàng mất ở Ngọa Vân am)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "在位十四年，遜位五年，出家八年",
+          "where": "bản kỷ quyển 5, tiểu truyện Nhân Tông"
+        }
+      ]
+    },
+    {
+      "text": "Thiền phái Trúc Lâm chỉ thành hình sau khi kháng chiến kết thúc; người sáng lập nó chính là vị vua đã lãnh đạo kháng chiến ấy",
       "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chưa mở được nguồn hạng chấp nhận: chỉ thấy Wikipedia (không được dùng làm nguồn; trang này dẫn Haw 2013, Lo 2012, Man 2012, Baldanza 2016 nhưng chưa mở các nguồn đó). Đề xuất: Đại Việt sử ký toàn thư (kỷ nhà Trần) hoặc Haw 2013 / Baldanza 2016. Phần Trần Nhân Tông sáng lập Trúc Lâm, nguồn hcmussh.edu.vn/static/document/12885.pdf và baovanhoa.vn có nói ông xuất gia 1299, nhưng chưa có câu về việc lãnh đạo kháng chiến."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r09): năm 1288 và việc Nhân Tông (vua trị vì trong kháng chiến 1285 và 1287-88) xuất gia, hiệu Trúc Lâm đại sĩ đã đối chiếu Toàn thư (zh.wikisource). Toàn thư không nói 'sáng lập thiền phái Trúc Lâm' và không nói phái ấy 'thành hình' sau 1288; nguồn tốt (Viện Nghiên cứu Phật học, Viện Hán Nôm, hay IEP/Britannica về Thiền Việt Nam) chưa mở được. Đề xuất sửa nếu không tìm được nguồn: 'tuy việc xuất gia và lập thiền phái Trúc Lâm của ông diễn ra sau kháng chiến (1288), vị sáng lập chính là Trần Nhân Tông, vua đã lãnh đạo kháng chiến' kèm nguồn cho vế lập phái, hoặc bỏ 'thành hình' và viết 'Trần Nhân Tông, vua lãnh đạo kháng chiến, sau xuất gia và tự hiệu Trúc Lâm đại sĩ'."
 }

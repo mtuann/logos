@@ -2,26 +2,33 @@
   "unit": "sources/sach.ayer-a-j-1936-language-truth-and-logic-london-victor-gollanc",
   "hash": "sha256:694b678c8e8c613374e4624e558aa60d99d83d5dc501113b11a2c6b36f1067fa",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
-      "text": "Ayer, Language, Truth and Logic, London: Victor Gollancz, 1936",
+      "text": "Ayer, A. J. (1936), Language, Truth and Logic, London: Victor Gollancz",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-empiricism/",
-          "quote": "London: Gollancz.",
-          "where": "SEP; Victor Gollancz Ltd xác nhận ở metadata bản 1950 tại archive.org"
+          "url": "https://openlibrary.org/search.json?q=language+truth+and+logic+ayer&fields=key,title,author_name,first_publish_year,publisher&limit=3",
+          "quote": "\"first_publish_year\":1936",
+          "where": "Open Library work OL1157990W: tác giả A. J. Ayer; nhà xuất bản gồm 'V. Gollancz', 'Gollancz Ltd.'"
         }
       ]
     },
     {
-      "text": "Chương 6 mang tên 'Critique of Ethics and Theology' (chỉ thấy ghi chú mục lục Dover tóm tắt, không thấy số chương)",
+      "text": "Chương 6 mang tên 'Critique of Ethics and Theology'",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/20191003languagetruthandlogic/20191003_Language%20truth%20and%20logic_djvu.txt",
+          "quote": "CHAPTER VI CRITIQUE OF ETHICS AND THEOLOGY",
+          "where": "văn bản bản Dover 1952 (tái bản không sửa của ấn bản 2, 1946); mục lục: 'Ch. VI. Critique of Ethics and Theology'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nội dung mục lục Dover 1952 (archive.org 20191003languagetruthandlogic) có phần phê phán đạo đức học và thần học nhưng số chương không được mở được; cần mở mục lục để chốt. Link ổn định đề xuất: https://archive.org/details/20191003languagetruthandlogic"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): tên chương lấy từ bản Dover 1952 (tái bản ấn bản 1946) trên Internet Archive; ấn bản 1936 đầu tiên có thể khác chút về nội dung nhưng tên chương VI giữ nguyên trong ấn bản 2. Nhà xuất bản Open Library ghi dạng 'V. Gollancz' (chưa mở bản ghi riêng ấn bản 1936). Link ổn định đề xuất: https://openlibrary.org/works/OL1157990W/Language_truth_and_logic"
 }

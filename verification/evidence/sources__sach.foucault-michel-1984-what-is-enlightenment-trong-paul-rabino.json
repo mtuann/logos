@@ -2,14 +2,26 @@
   "unit": "sources/sach.foucault-michel-1984-what-is-enlightenment-trong-paul-rabino",
   "hash": "sha256:73ab646f34ee8c03cc714f7b15807e602eb01d584840d8973463c89971f3b727",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
       "text": "Foucault (1984), 'What is Enlightenment?', trong Rabinow (chủ biên), The Foucault Reader, New York: Pantheon, tr. 32–50",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://foucault.info/documents/foucault.whatIsEnlightenment.en/",
+          "quote": "“What is Enlightenment?” In The Foucault Reader, by P. Rabinow, 32-50. Pantheon Books, 1984.",
+          "where": "Foucault.info (nguồn yếu): trang văn bản"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL26844W/editions.json?limit=10",
+          "quote": "Pantheon Books",
+          "where": "Open Library: The Foucault reader, 1984, 1st ed., New York, 389 tr., Rabinow, Paul (biên tập)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn trong phiên (ngân sách công cụ chung)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): sách, chủ biên, nhà xuất bản, năm xác nhận qua Open Library; trang 32–50 chỉ từ foucault.info (site tư liệu, nguồn yếu), bản Internet Archive bị hạn chế đọc nên chưa đối chiếu trang in. Link ổn định đề xuất: https://openlibrary.org/works/OL26844W."
 }

@@ -2,26 +2,26 @@
   "unit": "sources/sach.danto-arthur-1964-the-artworld-journal-of-philosophy-6119-57",
   "hash": "sha256:a32578e9a1647c263b84a5ce69c2d9c286dcb50a855e6b109c4166ae1cb0fa11",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "Danto, 'The Artworld', Journal of Philosophy 61(19), 1964 (tựa, tác giả, tạp chí, tập, số, năm, trang đầu 571)",
+      "text": "Danto, 'The Artworld', Journal of Philosophy 61(19), 1964: 571–584",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://api.crossref.org/works?query.bibliographic=Danto+The+Artworld+Journal+of+Philosophy+1964&rows=3",
+          "url": "https://www.jstor.org/stable/2022937",
+          "quote": "Vol. 61, No. 19, American Philosophical Association Eastern Division Sixty-First Annual Meeting (Oct. 15, 1964), pp. 571-584 (14 pages)",
+          "where": "JSTOR, tác giả Arthur Danto, The Journal of Philosophy"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2022937",
           "quote": "The Artworld",
-          "where": "Crossref: The Journal of Philosophy, vol 61, issue 19, page 571, 1964"
+          "where": "Crossref DOI 10.2307/2022937: volume 61, issue 19, page 571, issued 1964-10-15"
         }
       ]
-    },
-    {
-      "text": "Trang cuối 584 (Crossref chỉ ghi trang đầu 571)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref DOI 10.2307/2022937. Link đề xuất: https://doi.org/10.2307/2022937. Cần JSTOR/trang tạp chí xác nhận trang 571–584 (JSTOR bị chặn công cụ)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Khớp hoàn toàn. Link ổn định đề xuất: https://doi.org/10.2307/2022937 (hoặc https://www.jstor.org/stable/2022937). Bài là bài báo, không phải sách; nhãn type 'sach' của mục không chính xác."
 }

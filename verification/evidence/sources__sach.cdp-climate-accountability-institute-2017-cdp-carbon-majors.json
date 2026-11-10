@@ -2,14 +2,44 @@
   "unit": "sources/sach.cdp-climate-accountability-institute-2017-cdp-carbon-majors",
   "hash": "sha256:331d13322fb6efd03cf53ee8ec5f3700461b1f0a556874e6a25703b20e7c895c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Báo cáo CDP Carbon Majors Report 2017 do CDP phối hợp Climate Accountability Institute",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cdp.net/en/press-releases/new-report-shows-just-100-companies-are-source-of-over-70-of-emissions",
+          "quote": "in collaboration with the Climate Accountability Institute",
+          "where": "CDP press release, Jul 10, 2017"
+        }
+      ]
+    },
+    {
+      "text": "100 nhà sản xuất nhiên liệu hóa thạch gắn với 71% phát thải công nghiệp từ 1988",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cdp.net/en/press-releases/new-report-shows-just-100-companies-are-source-of-over-70-of-emissions",
+          "quote": "100 active fossil fuel producers including ExxonMobil, Shell, BHP Billiton and Gazprom are linked to 71% of industrial greenhouse gas emissions since 1988",
+          "where": "CDP press release, 10/7/2017"
+        }
+      ]
+    },
+    {
+      "text": "Năm 2017",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cdp.net/en/press-releases/new-report-shows-just-100-companies-are-source-of-over-70-of-emissions",
+          "quote": "Jul 10, 2017"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Nguồn: thông cáo báo chí của CDP (nguồn sơ cấp của nhà phát hành). Bản PDF báo cáo: https://climateaccountability.org/wp-content/uploads/2022/08/CarbonMajorsRpt2017-Jul17-1.pdf (đã mở trang nhưng trình xem PDF không đọc được chữ). Link ổn định đề xuất: thông cáo của CDP ở trên. Lưu ý: gọi là 'sách' nhưng là báo cáo; nên đổi nhãn loại nếu có. Cách ghi 'CDP & CAI' hợp lý nhưng trang bìa ghi CDP là tác giả chính (chưa mở bìa)."
 }

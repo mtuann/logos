@@ -2,19 +2,38 @@
   "unit": "sources/sach.dao-duc-kinh-trang-tu-ban-dich-tieng-anh-d-c-lau-1963-pengui",
   "hash": "sha256:c8e537eb4627ac605a06ad93eb71c2774b28ede399937a3f29c28ea320d37321",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "D. C. Lau (1963), Penguin Classics, Tao Te Ching",
+      "text": "D. C. Lau (1963), bản dịch Đạo đức kinh, Penguin Classics",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28tao+te+ching%29+AND+creator%3Alau",
+          "quote": "London : Penguin Books",
+          "where": "Internet Archive taoteching00laoz_1: Laozi, Lau, D. C. (Dim Cheuk), date 1963"
+        },
+        {
+          "url": "https://openlibrary.org/isbn/9780140441314.json",
+          "quote": "Penguin Classics",
+          "where": "Open Library OL7355111M: Tao Te Ching (Penguin Classics), ISBN 9780140441314, contributions D. C. Lau (Translator)"
+        }
+      ]
     },
     {
-      "text": "Burton Watson (2013), Columbia University Press, bản dịch Trang Tử",
+      "text": "Burton Watson (2013), Columbia University Press, bản dịch Trang Tử: The Complete Works of Zhuangzi",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://cup.columbia.edu/book/the-complete-works-of-zhuangzi/9780231164740",
+          "quote": "PUB DATE: December 2013",
+          "where": "Trang sách CUP: The Complete Works of Zhuangzi, Translated by Burton Watson, Columbia University Press"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn nào trong phiên (hết lượt/ngân sách WebFetch chung; WebSearch hết hạn mức). Lưu ý: bản Watson 2013 của Columbia là Zhuangzi: Basic Writings hay The Complete Works (1968, in lại 2013)? Cần người làm xác định chính xác tên bản."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Lau 1963 Penguin Classics đúng (OL ghi một lần in 1964). Watson: bản 2013 là The Complete Works of Zhuangzi (CUP, ISBN 9780231164740), bản dịch gốc 1968 là The Complete Works of Chuang Tzu (CUP, Records of Civilization no. 80), nên cách ghi 2013 là đúng nhưng nên nêu tên sách. Link ổn định đề xuất: https://cup.columbia.edu/book/the-complete-works-of-zhuangzi/9780231164740 và https://archive.org/details/taoteching00laoz_1."
 }

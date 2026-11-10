@@ -2,14 +2,26 @@
   "unit": "sources/sach.craig-william-lane-1979-the-kalam-cosmological-argument-lond",
   "hash": "sha256:15e7ee716b7155be3885f3e7fab3f671f1921eec6b92283d41d58e37cd917a78",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Craig, William Lane (1979), The Kalam Cosmological Argument, London: Macmillan",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Craig+The+Kalam+Cosmological+Argument+1979&rows=3&select=DOI,title,author,publisher,publisher-location,issued,ISBN",
+          "quote": "Palgrave Macmillan UK",
+          "where": "Crossref DOI 10.1007/978-1-349-04154-1: title The Kalām Cosmological Argument, author William Lane Craig, publisher-location London, issued 1979"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL31390657W/editions.json?limit=15",
+          "quote": "MACMILLAN",
+          "where": "Open Library OL43043488M: Macmillan, 1979-01-01, ISBN 9780333248096"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Macmillan (nay Palgrave Macmillan), London, 1979; Barnes & Noble ấn bản Mỹ cùng năm. Link ổn định đề xuất: https://doi.org/10.1007/978-1-349-04154-1."
 }

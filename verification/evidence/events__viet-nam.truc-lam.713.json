@@ -2,7 +2,7 @@
   "unit": "events/viet-nam.truc-lam.713",
   "hash": "sha256:e6a8a7b283c6a7427a277bd95b1f6857b1540a67cc48971b60e47efbb0cc0f55",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e06",
+  "checker": "agent-kiem-5.2-r10",
   "claims": [
     {
       "text": "Huệ Năng mất năm 713",
@@ -16,21 +16,41 @@
         },
         {
           "url": "https://iep.utm.edu/huineng/",
-          "quote": "Huineng died at the stroke of midnight on August 28, 713."
+          "quote": "Huineng died at the stroke of midnight on August 28, 713.",
+          "where": "mục Biography"
         }
       ]
     },
     {
       "text": "Thiền tông Trung Hoa đại thành từ Huệ Năng",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/huineng/",
+          "quote": "Not only did he articulate the major themes that came to dominate Chan discourse and practice",
+          "where": "mục Impact / Huineng là «Sixth Patriarch» của Chan"
+        }
+      ]
     },
     {
-      "text": "Thiền tông nhấn mạnh 'trực chỉ nhân tâm, kiến tính thành Phật'",
+      "text": "Thiền tông nhấn mạnh «trực chỉ nhân tâm, kiến tính thành Phật» — thấy thẳng vào tâm mình",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/huineng/",
+          "quote": "directly transmitted from mind to mind.",
+          "where": "mục 1, về Chan tự nhận «a separate transmission outside the scriptures»"
+        },
+        {
+          "url": "https://iep.utm.edu/huineng/",
+          "quote": "awakening is the natural result of activating or “seeing into” this innate but hidden potential",
+          "where": "mục Central Teachings, về Phật tính (fo xing)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Năm mất 713 đúng theo IEP. Hai claim diễn giải chưa kiểm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): IEP «Huineng (Hui-neng) (638–713)»; chết 28/8/713 theo Kinh Pháp Bảo Đàn (IEP nói truyền thống khác chép khác về cách mất, không đổi năm). Câu khẩu quyết bốn chữ-bốn chữ «trực chỉ nhân tâm, kiến tính thành Phật» (直指人心，見性成佛) không có nguyên văn trên IEP; IEP chỉ có ý «truyền thẳng từ tâm sang tâm» và «thấy vào Phật tính» (và gán bài kệ cho Bồ-đề-đạt-ma). Ý đúng, nhưng nếu muốn trích nguyên câu cần nguồn chữ Hán. IEP cũng lưu ý Huệ Năng phần lớn là hình tượng do truyền thống (Thần Hội) dựng lên, nên «đại thành từ Huệ Năng» nên hiểu theo truyền thống Thiền tông."
 }

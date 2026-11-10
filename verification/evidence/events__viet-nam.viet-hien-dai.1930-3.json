@@ -2,7 +2,7 @@
   "unit": "events/viet-nam.viet-hien-dai.1930-3",
   "hash": "sha256:d2229b72f4392a1a9accd4818923c13c7d5b46eebe4899191e38b0d0dd428a21",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e07",
+  "checker": "agent-kiem-5.2-r10",
   "claims": [
     {
       "text": "Có hội kín mác-xít (tổ chức cộng sản) ở Việt Nam quanh năm 1930",
@@ -10,15 +10,28 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vietcetera.com/vn/5-phut-on-lai-lich-su-ngay-ky-niem-thanh-lap-dang-cong-san-viet-nam-ngay-32",
-          "quote": "Ngày 3/2/1930 vẫn thường được biết đến là ngày Đảng Cộng sản Việt Nam chính thức ra đời."
+          "url": "https://vi.wikisource.org/wiki/Hiến_pháp_nước_Cộng_hòa_xã_hội_chủ_nghĩa_Việt_Nam_2013",
+          "quote": "Từ năm 1930, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam do Chủ tịch Hồ Chí Minh sáng lập và rèn luyện",
+          "where": "Lời nói đầu (đọc qua kết quả tìm kiếm API của Wikisource)"
         }
       ]
     },
     {
-      "text": "Năm 1930, báo chữ Quốc ngữ có bàn về Rousseau",
+      "text": "Báo chữ Quốc ngữ thời đó có bàn về Rousseau",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Vấn_đề_phụ_nữ_giải_phóng_với_nhân_sanh_quan",
+          "quote": "phải kể một phần lớn nhờ chịu ảnh hưởng của cái học thuyết J.J. Rousseau",
+          "where": "Phan Khôi, Phụ nữ tân văn (Sài Gòn) số 158, 7/7/1932"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Luận_về_chánh_học_cùng_tà_thuyết",
+          "quote": "học thuyết ông Mạnh (Montesquieu), ông Lư (Rousseau)",
+          "where": "Ngô Đức Kế, Hữu Thanh tạp chí số 21, 1/9/1924"
+        }
+      ]
     },
     {
       "text": "Một trí thức năm 1930 có thể đồng thời đọc Khổng Tử, báo Quốc ngữ và tham gia tổ chức mác-xít mà không thấy mâu thuẫn",
@@ -27,5 +40,5 @@
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Không tìm được nguồn cho việc báo Quốc ngữ bàn Rousseau thời đó (hết lượt tìm). Vietcetera là nguồn yếu (báo/trang tổng hợp), nên thay bằng nguồn Viện Sử học hoặc tư liệu Đảng. Văn bản rút có ký tự thừa '[' trước Rousseau (lỗi rút tự động, không phải lỗi bài)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): ĐCSVN thành lập đầu 1930 (Hiến pháp 2013 nói «Từ năm 1930»); nguồn Vietcetera của lượt trước (yếu) đã bỏ. Báo Quốc ngữ bàn Rousseau: tìm được bài 1924 và 1932 (không có bài đúng năm 1930), đủ cho «thời đó». Vế «không thấy có gì mâu thuẫn» là nhận định của bài, không nguồn nào nói; đề xuất sửa «có thể … và nhiều người không coi đó là mâu thuẫn (nhận định của bài)» hoặc «có thể … trong cùng một đời sống trí thức», bỏ vế không mâu thuẫn. Văn bản rút có ký tự thừa «[» trước Rousseau."
 }

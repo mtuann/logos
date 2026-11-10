@@ -2,14 +2,26 @@
   "unit": "sources/sach.beauvoir-simone-de-pour-une-morale-de-l-ambiguite-paris-gall",
   "hash": "sha256:703343717666f71e0194db5fec6cab8e4137cc9507e54ee83c54940702021a34",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Beauvoir, Pour une morale de l'ambiguïté, Paris: Gallimard, 1947 (tác giả, tên, NXB, năm)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL767898W/editions.json",
+          "quote": "Pour une morale de l'ambiguïté.|Gallimard|1947|[Paris]",
+          "where": "Open Library work OL767898W (Simone de Beauvoir, first_publish_year 1947, 223 tr.); ấn bản tiếng Anh The ethics of ambiguity 1948 là bản dịch"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL43309896W/editions.json",
+          "quote": "Pour une morale de l'ambiguite||Gallimard|1947",
+          "where": "Open Library, ấn bản Gallimard 1947 (238 tr.)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp. Link ổn định đề xuất: https://openlibrary.org/works/OL767898W (hoặc trang Gallimard: bản in lại 2003, ISBN 9782070426935)."
 }

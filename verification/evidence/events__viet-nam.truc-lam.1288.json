@@ -2,19 +2,74 @@
   "unit": "events/viet-nam.truc-lam.1288",
   "hash": "sha256:e40e29bb560876c0ee832cb11744cd47148fdd6f531f9e93eb7639a9db7193f1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e06",
+  "checker": "agent-kiem-5.2-r09",
   "claims": [
     {
-      "text": "Năm 1288 là một đợt Nguyên-Mông xâm lược Đại Việt trong thế kỷ 13 (câu liệt kê 1258, 1285, 1287–1288)",
+      "text": "Năm 1258 là một đợt Nguyên-Mông xâm lược Đại Việt",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "十二月十二日，元將兀良合䚟",
+          "where": "Toàn thư, Bản kỷ quyển 5, mục Đinh Tỵ Nguyên Phong 7 (tháng 12 âm lịch, tức đầu 1258 dương lịch): Ngột Lương Hợp Thai đánh Bình Lệ Nguyên"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "戊午八年",
+          "where": "Toàn thư, bản kỷ quyển 5: sang Mậu Ngọ Nguyên Phong 8 (1258), chiến sự đã yên ('百姓安堵如故')"
+        }
+      ]
     },
     {
-      "text": "Quân Nguyên-Mông từng chinh phục từ Trung Hoa đến Đông Âu",
+      "text": "Năm 1285 là đợt thứ hai Nguyên-Mông xâm lược",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "元烏馬兒犯萬刼、普頼山等處",
+          "where": "Toàn thư, bản kỷ quyển 5, mục Ất Dậu (chú: 元至元二十二年 = 1285), tháng giêng"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1287 Nguyên-Mông đợt xâm lược thứ ba bắt đầu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "元發江淮、江西、湖廣三行省蒙古、漢南軍及雲南兵",
+          "where": "Toàn thư, bản kỷ quyển 5, mục Đinh Hợi (chú: 元至元二十四年 = 1287): 'phân đạo nhập khấu'"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1288 là năm cuối của đợt xâm lược thứ ba (trận Bạch Đằng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "元人溺死不可勝計，江水為之盡赤。",
+          "where": "Toàn thư, bản kỷ quyển 5, mục năm Trùng Hưng 4 (chú: 元至元二十五年 = 1288), tháng 3, trận Bạch Đằng; bắt Ô Mã Nhi"
+        }
+      ]
+    },
+    {
+      "text": "Quân Nguyên-Mông từng chinh phục từ Trung Hoa đến tận Đông Âu",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/place/Mongol-empire",
+          "quote": "from the Pacific Ocean in the east to the Danube River and the shores of the Persian Gulf in the west",
+          "where": "đoạn mở đầu bài Mongol empire (Britannica)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa mở được nguồn hạng chấp nhận: chỉ thấy Wikipedia (không được dùng làm nguồn; trang này dẫn Haw 2013, Lo 2012, Man 2012, Baldanza 2016 nhưng chưa mở các nguồn đó). Đề xuất: Đại Việt sử ký toàn thư (kỷ nhà Trần) hoặc Haw 2013 / Baldanza 2016."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r09): đọc chữ Hán Đại Việt sử ký toàn thư trên zh.wikisource (bản kỷ quyển 5). Lưu ý: bản wikisource ghi nhầm can chi mục 1288 là 壬子 (đúng là Mậu Tý, 戊子); chú niên hiệu 元至元二十五年 khớp 1288. Ba đợt (1257-58, 1285, 1287-88) khớp câu liệt kê của bài; Toàn thư tính chiến dịch đầu từ tháng 12 âm lịch năm Đinh Tỵ (đầu 1258 dương lịch), cách ghi '1258' chuẩn. Vế Đông Âu dùng Britannica (Danube = ranh giới tây của đế quốc), chấp nhận được; 'Đông Âu' hơi rộng hơn, nếu muốn chặt hơn viết 'đến tận lưu vực sông Danube'."
 }

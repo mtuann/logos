@@ -2,31 +2,43 @@
   "unit": "events/viet-nam.truc-lam.2016",
   "hash": "sha256:f32acfc07c61b92561b9de0086098907a5e9526cd399c78069abb7bc98495290",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e06",
+  "checker": "agent-kiem-5.2-r10",
   "claims": [
     {
-      "text": "Nguyễn Tài Thư (chủ biên), Lịch sử tư tưởng Việt Nam, tập 1: tên người chủ biên và số tập (bản ghi PhilArchive không nêu)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Cụm công trình 'Lịch sử tư tưởng Việt Nam' được Giải thưởng Nhà nước về khoa học và công nghệ năm 2016",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Có công trình 'Lịch sử tư tưởng Việt Nam' xuất bản NXB Khoa học xã hội năm 1993 (phần còn lại của câu)",
+      "text": "Nguyễn Tài Thư (chủ biên), Lịch sử tư tưởng Việt Nam, tập 1, NXB Khoa học xã hội, 1993",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "http://lib.isvnu.vn/cgi-bin/koha/opac-detail.pl?biblionumber=3747",
+          "quote": "Lịch sử tư tưởng Việt Nam. Tập 1 / Cb. : Nguyễn Tài Thư",
+          "where": "biểu ghi thư viện; «Hà Nội : KHXH, 1993», 496 tr"
+        },
         {
           "url": "https://dc2.philarchive.org/rec/NGULST-5",
           "quote": "Khoa học xã hội (Hà Nội)",
           "where": "1993"
         }
       ]
+    },
+    {
+      "text": "Cụm công trình «Lịch sử tư tưởng Việt Nam» được Giải thưởng Nhà nước về khoa học và công nghệ (năm 2016)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dantri.com.vn/khoa-hoc/16-cong-trinh-nhan-giai-thuong-ho-chi-minh-giai-thuong-nha-nuoc-ve-khcn-20170116052222193.htm",
+          "quote": "Cụm công trình: Lịch sử tư tưởng Việt Nam",
+          "where": "danh sách công trình nhận Giải thưởng Nhà nước về KH&CN; cùng trang: «năm 2016 là đợt xét tặng thứ 5»"
+        }
+      ]
+    },
+    {
+      "text": "Công trình của Viện Triết học",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Tìm hai lượt chưa thấy nguồn xác nhận giải thưởng 2016 (bản tin KHCN 2016 của ISDI/VAST và bài phát biểu Ngày KHCN 2016 đều không nhắc). Cần nguồn Bộ KH&CN / Thủ tướng (quyết định trao giải) hoặc trang Viện Triết học."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): chủ biên, tập 1, NXB, năm 1993 khớp biểu ghi thư viện lib.isvnu.vn và PhilArchive. Giải thưởng: Dân trí (nguồn yếu, 16/1/2017) nêu cụm công trình «Lịch sử tư tưởng Việt Nam» (Nguyễn Tài Thư và các tác giả) trong số 7 công trình nhận Giải thưởng Nhà nước về KH&CN đợt 5 năm 2016 (quyết định của Chủ tịch nước; lễ trao tháng 1/2017). Lưu ý: giải trao cho CỤM 4 công trình (Nho học và Nho học ở Việt Nam; Vấn đề con người trong Nho học sơ kỳ; Lịch sử Phật giáo Việt Nam; Lịch sử tư tưởng Việt Nam), không riêng tập 1 — câu «thuộc cụm công trình … được Giải thưởng» hợp. Vế «công trình của Viện Triết học» không nguồn mở được nào nói (biểu ghi thư viện, PhilArchive, trang VASS không nêu cơ quan chủ trì); đề xuất sửa «do Nguyễn Tài Thư chủ biên» hoặc dẫn trang Viện Triết học/Quyết định của Chủ tịch nước. Nên thay nguồn yếu bằng thông báo của Bộ KH&CN hoặc quyết định Chủ tịch nước."
 }

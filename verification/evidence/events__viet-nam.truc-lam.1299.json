@@ -2,13 +2,34 @@
   "unit": "events/viet-nam.truc-lam.1299",
   "hash": "sha256:ea6a4340b2e4b51abd304c3051a26bf82d9f8a5550d1a73b2228ec54cff31870",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e06",
+  "checker": "agent-kiem-5.2-r10",
   "claims": [
     {
-      "text": "Trần Nhân Tông lên Yên Tử tu (xuất gia) năm 1299",
+      "text": "Trần Nhân Tông nhường ngôi năm 1293",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "癸巳九年",
+          "where": "Nhân Tông kỷ, mùa xuân tháng 3 năm Quý Tỵ (1293): «帝禪位于皇太子烇即皇帝位。改元興隆元年»"
+        },
+        {
+          "url": "https://hcmussh.edu.vn/static/document/12885.pdf",
+          "quote": "năm 1293, Trần Nhân Tông truyền ngôi cho con trưởng là Trần Thuyên"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1299 lên Yên Tử tu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "八月，上皇自天長府復出家，入安子山苦行。",
+          "where": "Anh Tông kỷ, năm Kỷ Hợi 1299 (Hưng Long thất niên)"
+        },
         {
           "url": "https://hcmussh.edu.vn/static/document/12885.pdf",
           "quote": "tháng 3 năm 1299, Trần Nhân Tông quyết chí xuất gia"
@@ -20,6 +41,11 @@
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之六",
+          "quote": "時上皇出家，居安子山之紫霄峯，自號竹林大士。",
+          "where": "Anh Tông kỷ, năm Mậu Thân 1308, mục Thượng hoàng băng"
+        },
         {
           "url": "https://baovanhoa.vn/van-hoa/tu-hoang-cung-trieu-tran-den-thanh-dia-truc-lam-78856.html",
           "quote": "lấy hiệu là Hương Vân Đại Đầu Đà, sau đổi là Trúc Lâm Đại sĩ."
@@ -38,11 +64,23 @@
       ]
     },
     {
-      "text": "Trần Nhân Tông từng cầm quân/lãnh đạo kháng chiến chống Nguyên-Mông",
+      "text": "Từng là vua, từng cầm quân đánh giặc (kháng chiến chống Nguyên-Mông)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "冬十月，帝親率王侯調水步軍習戰。",
+          "where": "Nhân Tông kỷ, năm 1283"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "二十日，二帝進次大忙步",
+          "where": "Nhân Tông kỷ, năm 1285: hai vua (Thánh Tông, Nhân Tông) cầm quân đánh bại giặc, chém Toa Đô"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Năm 1299 đúng. Nguồn yếu (tài liệu đại học dạng PDF và báo Văn hóa), chưa mở được Đại Việt sử ký toàn thư/Thiền uyển tập anh; đề xuất đối chiếu Toàn thư (kỷ nhà Trần, quyển 5-6). Hai nguồn lệch nhau về tháng xuất gia (hcmussh nêu cả tháng 3 và tháng 8 năm 1299), không ảnh hưởng năm. Các nguồn nói Hương Vân Đại Đầu Đà là hiệu đầu, sau đổi Trúc Lâm Đại sĩ — bản bài viết nói 'đời sau còn gọi', nên cân nhắc diễn đạt."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): mở Đại Việt sử ký toàn thư bản chữ Hán trên zh.wikisource (Bản kỷ quyển 5 và 6) qua API, đối chiếu được cả bốn ý. Toàn thư không chép hiệu «Hương Vân Đại Đầu Đà»; chỉ có hcmussh và báo Văn hóa (nguồn yếu) nói hiệu này, các nguồn đó nói đây là hiệu đầu rồi mới đổi Trúc Lâm Đại sĩ, nên cân nhắc diễn đạt «các sử liệu Phật giáo đời sau còn gọi». Toàn thư chép tháng 8 năm 1299 Thượng hoàng «復出家，入安子山苦行»; hcmussh nêu tháng 3 — lệch tháng, không ảnh hưởng năm. Toàn thư chép nhường ngôi ngày 9 tháng 3 Quý Tỵ (năm 1293)."
 }

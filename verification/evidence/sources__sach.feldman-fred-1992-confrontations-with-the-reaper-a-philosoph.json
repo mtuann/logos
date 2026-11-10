@@ -2,14 +2,33 @@
   "unit": "sources/sach.feldman-fred-1992-confrontations-with-the-reaper-a-philosoph",
   "hash": "sha256:70aeaab4667a9d7b25e662166a15a87ca57b9da056cc8424d55b2c3efd2f146f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s21",
+  "checker": "agent-kiem-5.2-r15",
   "claims": [
     {
-      "text": "Năm 1992, New York: Oxford University Press (Crossref ghi 1994 cho bản ghi OUP DOI 10.1093/acprof:oso/9780195089288.001.0001; hai tạp chí review ghi 1994)",
+      "text": "Feldman, Fred (1992), Confrontations with the Reaper, New York: Oxford University Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL3353634W/editions.json?limit=40",
+          "quote": "Oxford University Press",
+          "where": "Open Library: edition 1992, New York, ISBN 0195071026, 249 tr.; tác giả 'Feldman, Fred'"
+        }
+      ]
+    },
+    {
+      "text": "Sách có bản in khác năm (1993/1994, bìa mềm/trực tuyến), nhưng OUP có ấn bản 1992",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL4388098W/editions.json?limit=40",
+          "quote": "December 13, 1993",
+          "where": "Open Library: OUP USA 1993 (ISBN 9780195089288) và bản 1994; Crossref ghi 1994 cho DOI 10.1093/acprof:oso/9780195089288.001.0001"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Sách có thật (Fred Feldman, OUP). Năm 1992 thường là bản bìa cứng, 1994 bản bìa mềm/trực tuyến; chưa xác nhận được. Người làm nên thống nhất một năm và nêu nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r15): bản in đầu 1992 (New York: OUP) có trên Open Library; các bản 1993/1994 là bản bìa mềm/trực tuyến. Giữ 1992 là hợp lý, có thể ghi chú 'in lại 1994'. Phụ đề 'A Philosophical Study of the Nature and Value of Death' không hiện trong tựa Open Library nhưng là tên đầy đủ của sách. Link ổn định đề xuất: https://doi.org/10.1093/acprof:oso/9780195089288.001.0001"
 }

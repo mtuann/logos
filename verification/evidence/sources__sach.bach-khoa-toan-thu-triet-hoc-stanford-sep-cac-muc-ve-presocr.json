@@ -2,54 +2,117 @@
   "unit": "sources/sach.bach-khoa-toan-thu-triet-hoc-stanford-sep-cac-muc-ve-presocr",
   "hash": "sha256:956abd9a528760a5cc75ad748e4c274fdd8c2010f8d43b0308a976ef291b592d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
-      "text": "Mục Presocratics",
+      "text": "SEP có mục Presocratics (tiêu đề đầy đủ 'Presocratic Philosophy')",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presocratics/",
+          "quote": "Presocratic Philosophy",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Heraclitus",
+      "text": "SEP có mục Heraclitus",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "Heraclitus",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Socrates",
+      "text": "SEP có mục Socrates",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Socrates",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục The Sophists",
+      "text": "SEP có mục The Sophists",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sophists/",
+          "quote": "The Sophists",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Plato",
+      "text": "SEP có mục Plato",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato/",
+          "quote": "Plato",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Aristotle",
+      "text": "SEP có mục Aristotle",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle/",
+          "quote": "Aristotle",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Stoicism",
+      "text": "SEP có mục Stoicism",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "Stoicism",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Epicurus",
+      "text": "SEP có mục Epicurus",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "Epicurus",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Pyrrho",
+      "text": "SEP có mục Pyrrho",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pyrrho/",
+          "quote": "Pyrrho",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Mục SEP, không phải sách in. Chưa mở mục nào do hết ngân sách web."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): mở cả 9 mục. Mục 'Presocratics' có tiêu đề SEP là 'Presocratic Philosophy' (slug presocratics); nên ghi đúng tiêu đề. Mục là các bài SEP, không phải sách in: nên chuyển sang kiểu nguồn web, mỗi mục một link https://plato.stanford.edu/entries/<slug>/. Chưa kiểm nội dung các câu bài dùng mục."
 }

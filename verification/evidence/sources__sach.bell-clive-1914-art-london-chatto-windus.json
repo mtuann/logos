@@ -2,26 +2,33 @@
   "unit": "sources/sach.bell-clive-1914-art-london-chatto-windus",
   "hash": "sha256:431b49a9f95056d4f2ea87fed3b309d19a6d858a5ccdfc4b1cd0499f2f037a9b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "Bell, Clive, Art (tác giả, tên sách, năm khoảng 1914)",
+      "text": "Bell, Clive, Art: tác giả và tên sách",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://archive.org/metadata/artbellclive00belliala/metadata",
+          "url": "https://archive.org/advancedsearch.php?q=creator%3Abell+AND+title%3A%28art%29+AND+date%3A%5B1913-01-01+TO+1925-12-31%5D&fl[]=identifier&fl[]=title&fl[]=date&fl[]=publisher&rows=12&output=json",
           "quote": "Bell, Clive, 1881-1964",
-          "where": "Date [1914?], Publisher New York : F. A. Stokes (bản Mỹ)"
+          "where": "Internet Archive: identifier art1914bell, Art, 1914 (bản Mỹ, Stokes)"
         }
       ]
     },
     {
-      "text": "nhà xuất bản London: Chatto & Windus, 1914",
+      "text": "London: Chatto & Windus, 1914",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL351149W/editions.json",
+          "quote": "Art|Chatto & Windus|1914|London",
+          "where": "Open Library: ấn bản Chatto & Windus, London, 1914 (còn ấn bản Chatto and Windus 1915, 1928, 1949; Stokes, New York 1913/1914)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Archive.org chỉ có bản New York: F. A. Stokes [1914?]; Chatto & Windus (London) chưa xác nhận. Link đề xuất: https://archive.org/details/artbellclive00belliala (trước 1927, công cộng). Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp: Chatto & Windus, London 1914 có trong Open Library; bản Stokes (New York) ra 1913 hoặc 1914 tùy bản ghi. Link ổn định đề xuất (công cộng): https://archive.org/details/art1914bell (bản Mỹ) hoặc https://archive.org/details/artbellclive00belliala ; thư mục https://openlibrary.org/works/OL351149W."
 }

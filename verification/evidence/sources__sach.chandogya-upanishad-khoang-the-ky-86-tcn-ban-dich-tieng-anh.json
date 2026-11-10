@@ -2,14 +2,31 @@
   "unit": "sources/sach.chandogya-upanishad-khoang-the-ky-86-tcn-ban-dich-tieng-anh",
   "hash": "sha256:ec2f9bdead83f71610382beca781d045820d4fd18b265471c156781d292c35d7",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r14",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Olivelle (1996), Upaniṣads, Oxford World's Classics (OUP), bản dịch tiếng Anh",
       "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL796096M.json",
+          "quote": "translated from the original Sanskrit by Patrick Olivelle.",
+          "where": "Open Library OL796096M: Oxford University Press, 1996, series 'The world's classics', Oxford/New York"
+        }
+      ]
+    },
+    {
+      "text": "Chandogya Upanishad có mặt trong bản dịch Olivelle 1996 (mục lục chưa mở được)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Niên đại khoảng thế kỷ 8–6 TCN của Chandogya Upanishad",
+      "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r14): Thư mục đúng (Olivelle 1996, OUP, series World's Classics). Chưa kiểm mục lục (Chandogya) và niên đại: trang IEP /upanishads/ trả 404, trang OUP 404. Cần nguồn SEP/IEP về niên đại. Lưu ý: bản 1998 'The Early Upanisads' (OUP) của Olivelle cũng chứa Chandogya đầy đủ nên nếu cần bản dịch đầy đủ nên cân nhắc ghi bản 1998. Link đề xuất: https://openlibrary.org/books/OL796096M."
 }

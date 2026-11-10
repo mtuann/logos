@@ -2,7 +2,7 @@
   "unit": "sources/sach.benoist-jocelyn-michel-espagne-chu-bien-litineraire-de-tran",
   "hash": "sha256:3526968f13420a916259d7ed4f086a459e4b1e1511bd56cba9c9906ad05ee1ae",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
       "text": "Benoist & Espagne (chủ biên), Paris: Armand Colin, 2013, ISBN 978-2-200-28045-1",
@@ -10,18 +10,32 @@
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://openlibrary.org/works/OL23296886W/editions.json",
+          "quote": "L'itinéraire de Tran Duc Thao|Armand Colin|2013|Paris|9782200280451",
+          "where": "Open Library; by_statement: sous la direction de Jocelyn Benoist et Michel Espagne"
+        },
+        {
           "url": "https://books.google.com/books?vid=ISBN9782200280451",
           "quote": "9782200280451",
-          "where": "Google Books: Publisher Colin (Armand Colin), Published 2013; Jocelyn Benoist and Michel Espagne"
+          "where": "Google Books (kiểm lượt trước)"
         }
       ]
     },
     {
-      "text": "tiêu đề chính xác: Google Books ghi 'transfert culturel' (số ít), mục ghi 'transferts culturels'; cần xem bìa/NXB",
+      "text": "tiêu đề: 'Phénoménologie et transferts culturels' (số nhiều)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "*L’itinéraire de Tran Duc Thao. Phénoménologie et transfert culturel* (số ít 'transfert culturel'; sách còn kèm 'Phénoménologie et matérialisme dialectique' của Trần Đức Thảo)",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=%22L%27itin%C3%A9raire+de+Tran+Duc+Thao%22+Armand+Colin+transferts+culturels",
+          "quote": "Phénoménologie et transfert culturel / Phénoménologie et matérialisme dialectique",
+          "where": "kết quả tìm kiếm: VitalSource, Google Books, Kobo, Cairn, OpenEdition đều ghi 'transfert culturel' (số ít); chỉ thư viện Paris ghi 'transferts culturels'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Tác giả, NXB, năm, ISBN khớp. Dạng số ít/số nhiều của 'transfert(s) culturel(s)' chưa xác định: người làm đối chiếu trang Armand Colin. Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): tác giả, NXB, năm, ISBN đúng. Chỉ lỗi nhẹ: phụ đề số ít 'transfert culturel' ở NXB/Cairn/Kobo/Open Library. Chưa mở trực tiếp trang armand-colin.com. Link ổn định đề xuất: https://shs.cairn.info (trang sách trên Cairn) hoặc https://openlibrary.org/works/OL23296886W."
 }

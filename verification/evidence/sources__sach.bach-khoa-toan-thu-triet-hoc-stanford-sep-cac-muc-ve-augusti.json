@@ -2,7 +2,7 @@
   "unit": "sources/sach.bach-khoa-toan-thu-triet-hoc-stanford-sep-cac-muc-ve-augusti",
   "hash": "sha256:ab22ddd88c5f9f7196abe19b0f0da963c768e4101aed885f97264afb82f98a50",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
       "text": "SEP có mục Augustine",
@@ -11,7 +11,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
-          "quote": "Augustine"
+          "quote": "Augustine of Hippo",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
         }
       ]
     },
@@ -22,7 +23,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/anselm/",
-          "quote": "Anselm"
+          "quote": "Anselm of Canterbury",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
         }
       ]
     },
@@ -33,7 +35,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-sina/",
-          "quote": "Ibn Sina"
+          "quote": "Ibn Sina [Avicenna]",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
         }
       ]
     },
@@ -44,7 +47,32 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-rushd/",
-          "quote": "Ibn Rushd"
+          "quote": "Ibn Rushd [Averroes]",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "SEP có mục al-Ghazali",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "al-Ghazali",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "SEP có mục Maimonides",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/maimonides/",
+          "quote": "Maimonides",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
         }
       ]
     },
@@ -55,26 +83,36 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
-          "quote": "Aquinas"
+          "quote": "Thomas Aquinas",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
         }
       ]
     },
     {
-      "text": "Mục al-Ghazali và Maimonides (chưa mở)",
+      "text": "SEP có mục Medieval Philosophy (tác giả John Marenbon)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/medieval-philosophy/",
+          "quote": "Copyright © 2024 by John Marenbon",
+          "where": "dòng Copyright của mục, bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Medieval Philosophy (John Marenbon) (fetch bị chặn do hết ngân sách)",
+      "text": "SEP có mục Influence of Arabic and Islamic Philosophy on the Latin West (tác giả Dag Nikolaus Hasse)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Mục Influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse) (chưa mở)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arabic-islamic-influence/",
+          "quote": "Copyright © 2025 by Dag Nikolaus Hasse",
+          "where": "dòng Copyright của mục, bản lưu fall2026"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Mục SEP, không phải sách in. Quote chỉ là tên mục (đã mở được 5 mục). Ghi tác giả đúng từng mục và link https://plato.stanford.edu/entries/<mục>/ khi sửa. Hasse và Marenbon cần người kiểm lại; lượt web của phiên đã hết."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): mở cả 9 mục trong bản lưu fall2026. Slug mục Hasse: arabic-islamic-influence. Mục là các bài SEP, không phải sách in: nên chuyển sang kiểu nguồn web, mỗi mục một link https://plato.stanford.edu/entries/<slug>/. Chưa kiểm nội dung các câu bài dùng mục."
 }

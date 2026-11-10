@@ -2,55 +2,105 @@
   "unit": "sources/sach.bach-khoa-toan-thu-triet-hoc-stanford-sep-cac-muc-ve-descart",
   "hash": "sha256:4d251aa2b2be8ddec106d8e8510117e6b121367f2c4bf82f5cc4522ae3406544",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "checker": "agent-kiem-5.2-r12",
   "claims": [
     {
-      "text": "SEP có mục Elisabeth of Bohemia (Elisabeth, Princess of Bohemia, tác giả Lisa Shapiro)",
+      "text": "SEP có mục Descartes",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "René Descartes",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
+    },
+    {
+      "text": "SEP có mục Elisabeth of Bohemia",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/",
-          "quote": "Elisabeth, Princess of Bohemia"
+          "quote": "Elisabeth, Princess of Bohemia",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
         }
       ]
     },
     {
-      "text": "Mục Descartes",
+      "text": "SEP có mục Spinoza",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/spinoza/",
+          "quote": "Baruch Spinoza",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Spinoza",
+      "text": "SEP có mục Leibniz",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz/",
+          "quote": "Gottfried Wilhelm Leibniz",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Leibniz",
+      "text": "SEP có mục Locke",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "John Locke",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Locke",
+      "text": "SEP có mục Berkeley",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "George Berkeley",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Berkeley",
+      "text": "SEP có mục Hume",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "David Hume",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     },
     {
-      "text": "Mục Hume",
+      "text": "SEP có mục Kant",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
-    {
-      "text": "Mục Kant",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "Immanuel Kant",
+          "where": "tiêu đề mục (h1), bản lưu fall2026"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Mục SEP, không phải sách in. Chỉ xác nhận được mục Elisabeth; phần còn lại chưa mở được do hết ngân sách web của phiên."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r12): mở cả 8 mục. Mục Elisabeth có tiêu đề đầy đủ 'Elisabeth, Princess of Bohemia' (slug elisabeth-bohemia), tác giả Lisa Shapiro. Mục là các bài SEP, không phải sách in: nên chuyển sang kiểu nguồn web, mỗi mục một link https://plato.stanford.edu/entries/<slug>/. Chưa kiểm nội dung các câu bài dùng mục."
 }

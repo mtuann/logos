@@ -2,7 +2,7 @@
   "unit": "events/viet-nam.viet-hien-dai.1945",
   "hash": "sha256:de42536b5dd1d5ec5561e60c17b3bc28e1e4f192f3e179077c2abb3b44bd05be",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e07",
+  "checker": "agent-kiem-5.2-r10",
   "claims": [
     {
       "text": "Nho học suy tàn khi khoa cử bị bãi bỏ",
@@ -21,18 +21,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://vjol.vista.gov.vn/tnu/en/article/view/132087",
-          "quote": "engaging actively in political organizations, the press, and patriotic movements",
-          "where": "abstract (nói về trí thức học theo phương Tây và báo chí, chưa nêu riêng chữ Quốc ngữ)"
+          "url": "https://vi.wikisource.org/wiki/Vấn_đề_phụ_nữ_giải_phóng_với_nhân_sanh_quan",
+          "quote": "phải kể một phần lớn nhờ chịu ảnh hưởng của cái học thuyết J.J. Rousseau",
+          "where": "Phụ nữ tân văn 1932: báo Quốc ngữ bàn học thuyết phương Tây"
+        },
+        {
+          "url": "https://journals.openedition.org/moussons/3163",
+          "quote": "Tran Duc Thao y découvre Husserl, Heidegger, Sartre.",
+          "where": "đoạn 7: Trần Đức Thảo học ENS Paris sau khi qua trường Pháp ở Hà Nội"
         }
       ]
     },
     {
-      "text": "Sau 1945, chủ nghĩa Marx trở thành nền tảng tư tưởng chính thức ở miền Bắc",
+      "text": "Sau 1945, chủ nghĩa Marx trở thành nền tảng tư tưởng chính thức (ở miền Bắc)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tulieuvankien.dangcongsan.vn/ban-chap-hanh-trung-uong-dang/dai-hoi-dang/lan-thu-ii/dieu-le-dang-lao-dong-viet-nam-1449",
+          "quote": "Đảng Lao động Việt Nam lấy chủ nghĩa Mác - Ǎngghen - Lênin - Xtalin và tư tưởng Mao Trạch Đông kết hợp với thực tiễn cách mạng Việt Nam làm nền tảng tư tưởng",
+          "where": "Điều lệ Đảng Lao động Việt Nam, Đại hội II (2/1951), Mục đích và tôn chỉ"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn mở được (vjol, Tạp chí Triết học) chỉ nói Marx-Lênin là một thành phần nền tảng tư tưởng của Đảng, không gắn mốc 1945 hay miền Bắc ('Marxism-Leninism is a component of the ideological foundation of the Communist Party of Vietnam', https://vjol.info.vn/trh/article/view/108259). Cần nguồn có mốc thời gian (Viện Sử học, Văn kiện Đảng). Nhãn co-co-so hợp lý."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r10): mốc: điều lệ Đảng Lao động VN (Đại hội II, tháng 2/1951) nêu chủ nghĩa Mác-Lênin (kèm Stalin, Mao) làm nền tảng tư tưởng — tức sau 1945, và Đảng lãnh đạo miền Bắc từ 1954. Đây là nền tảng của Đảng, nên «chính thức ở miền Bắc» hiểu theo nghĩa nền tảng của Đảng cầm quyền; nên viết «của Đảng (từ 1951) và của nhà nước miền Bắc sau 1954» nếu muốn chặt. Vế «qua giáo dục Pháp» nguồn gián tiếp (tiểu sử Trần Đức Thảo); nguồn vjol về báo chí chỉ nói chung. Nhãn co-co-so hợp. Nguồn tulieuvankien.dangcongsan.vn là cổng văn kiện Đảng."
 }

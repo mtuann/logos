@@ -2,14 +2,21 @@
   "unit": "sources/sach.bok-sissela-1978-lying-moral-choice-in-public-and-private-li",
   "hash": "sha256:037bc70be0f43ff02c9f955b2b4d514b0a423bf3798a0f4a40e59b418b87be64",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Bok (1978), Lying: Moral Choice in Public and Private Life, New York: Pantheon Books",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL2746954W/editions.json",
+          "quote": "by Sissela Bok.",
+          "where": "Open Library, ấn bản OL4569905M: title 'Lying', subtitle 'moral choice in public and private life', Pantheon Books, 1978, New York (326 tr.; ISBN 9780394413709 ở bản Pantheon khác)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp. Link ổn định đề xuất: https://openlibrary.org/works/OL2746954W (hoặc trang Penguin Random House/Vintage)."
 }

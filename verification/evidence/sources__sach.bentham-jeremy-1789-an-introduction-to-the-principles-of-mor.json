@@ -2,14 +2,33 @@
   "unit": "sources/sach.bentham-jeremy-1789-an-introduction-to-the-principles-of-mor",
   "hash": "sha256:11d824741749f2357e203442981a0faee5622194d3311439e4928cdde83fbc4d",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Bentham (1789), An Introduction to the Principles of Morals and Legislation (in 1780, xuất bản 1789)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3Abentham+AND+title%3A%28principles+of+morals+and+legislation%29+AND+date%3A%5B1780-01-01+TO+1926-12-31%5D&fl[]=identifier&fl[]=title&fl[]=date&rows=12&output=json",
+          "quote": "Printed in the year 1780, and now first published.",
+          "where": "Internet Archive: bim_eighteenth-century_an-introduction-to-the-p_bentham-jeremy_1789, date 1789"
+        }
+      ]
+    },
+    {
+      "text": "chương 17 (Of the Limits of the Penal Branch of Jurisprudence) có đoạn về động vật ('Can they suffer?')",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/princmoralsleg00bentuoft/princmoralsleg00bentuoft_djvu.txt",
+          "quote": "OF THE LIMITS OF THE PENAL BRANCH OF JURISPRUDENCE",
+          "where": "bản Clarendon 1907 (in lại bản 1823): CHAPTER XVII; đoạn 'the question is not, Can they reason? nor, Can they talk? but, Can they suffer?' nằm trong chương này, trước CHAPTER XVIII"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp. Bản công cộng: https://archive.org/details/princmoralsleg00bentuoft (Clarendon 1907) hoặc bản 1789 https://archive.org/details/bim_eighteenth-century_an-introduction-to-the-p_bentham-jeremy_1789 ; Gutenberg/Econlib cũng có. Mục không ghi NXB, đúng với tính chất tác phẩm cổ."
 }

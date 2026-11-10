@@ -2,14 +2,38 @@
   "unit": "sources/sach.bechert-heinz-chu-bien-the-dating-of-the-historical-buddha-d",
   "hash": "sha256:efb367544fb4a86f89083140c88fe5e05ce6e16acd347612b3c987002635a7ab",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s20",
+  "checker": "agent-kiem-5.2-r13",
   "claims": [
     {
-      "text": "sách/tác phẩm có thật và tác giả, tên, năm, nhà xuất bản đúng như mục ghi",
+      "text": "Bechert (chủ biên), The Dating of the Historical Buddha / Die Datierung des historischen Buddha, Göttingen: Vandenhoeck & Ruprecht",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL18304980W/editions.json",
+          "quote": "The Dating of the historical Buddha =|Die Datierung des historischen Buddha|edited by Heinz Bechert.|Vandenhoeck & Ruprecht|1991|Göttingen",
+          "where": "Open Library, tập 1 (viết lại từ các trường title, subtitle, by_statement, publishers, publish_date, publish_places)"
+        }
+      ]
+    },
+    {
+      "text": "3 tập, 1991–1997 (tập đầu 1991, tập 3 năm 1997)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL28780676W/editions.json",
+          "quote": "Dating of the Historical Buddha. Die Datierung des Historischen Buddha, III",
+          "where": "Open Library: Vandenhoeck & Ruprecht, 1997, ISBN 9783525824191"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL36015347W/editions.json",
+          "quote": "Dating of the Historical Buddha",
+          "where": "Open Library: Vandenhoeck & Ruprecht, 1992, ISBN 9783525824818 (tập 2, không ghi số tập trong bản ghi)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Hết hạn ngạch WebFetch/WebSearch của phiên (cả hai bị chặn) nên chưa mở được nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r13): khớp: tập 1 (1991), tập 2 (1992, suy từ ISBN/năm; bản ghi không ghi số tập), tập 3 (1997). Chưa mở trang NXB/WorldCat để xác nhận số tập 2 trực tiếp. Link ổn định đề xuất: https://openlibrary.org/works/OL18304980W (hoặc trang Vandenhoeck & Ruprecht)."
 }
