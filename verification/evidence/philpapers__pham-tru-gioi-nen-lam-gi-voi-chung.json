@@ -1,0 +1,114 @@
+{
+  "unit": "philpapers/pham-tru-gioi-nen-lam-gi-voi-chung",
+  "hash": "sha256:9701d81159d86ba3e359122e0a7487cb6a00b4dfe47cd98368e80dc3c96bbec1",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Phạm trù giới (nên làm gì với chúng?)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Gender categories\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Phạm trù giới (nên làm gì với chúng?)\" dịch câu \"Gender categories\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Gender categories",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Gender categories: preserve, revise, or eliminate?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 980 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 983, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Gender categories"
+        }
+      ]
+    },
+    {
+      "text": "Giữ nguyên (preserve): 20,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Preserve 201 20.4",
+          "where": "Bảng 2, câu Gender categories"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "20.45%",
+          "where": "trang kết quả, câu Gender categories, lựa chọn preserve (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Sửa đổi (revise): 50,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Revise 500 50.9",
+          "where": "Bảng 2, câu Gender categories"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "50.86%",
+          "where": "trang kết quả, câu Gender categories, lựa chọn revise (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Loại bỏ (eliminate): 16,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Eliminate 160 16.3",
+          "where": "Bảng 2, câu Gender categories"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "16.28%",
+          "where": "trang kết quả, câu Gender categories, lựa chọn eliminate (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 15,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 150 15.3",
+          "where": "Bảng 2, câu Gender categories"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (18.51%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. Trang web in 20.45% cho preserve: làm tròn nửa-lên từ số này sẽ ra 20,5, nhưng bài báo in 20.4 (201/983 = 20,448%); bản ghi theo bài báo là đúng."
+}

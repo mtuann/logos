@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/thoi-gian",
+  "hash": "sha256:10f758bc00c5a4697abe66ff8c8dff10cded7ff200ff57ad58b9858a3fd78d77",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Time\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Thời gian\" (dịch câu \"Time\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Time: A-theory or B-theory?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1120 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1123, excluding skipped & insufficiently familiar (662 respondents)",
+          "where": "khối kết quả câu \"Time\""
+        }
+      ]
+    },
+    {
+      "text": "Thuyết A (A-theory): 27,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "A-theory 306 27.2",
+          "where": "Bảng 1, câu \"Time\""
+        }
+      ]
+    },
+    {
+      "text": "Thuyết B (B-theory): 38,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "B-theory 429 38.2",
+          "where": "Bảng 1, câu \"Time\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 36,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 406 36.2",
+          "where": "Bảng 1, câu \"Time\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang web cho A-theory 27.25%: làm tròn nửa-lên từ số này sẽ ra 27,3, nhưng 306/1123 = 27,248% nên bài báo in 27.2; bản ghi theo bài báo là đúng. Dòng Other của trang web (39.45%) khác bài báo (36.2); bản ghi dùng số bài báo."
+}

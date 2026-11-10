@@ -1,0 +1,97 @@
+{
+  "unit": "philpapers/chinh-tri-kinh-te",
+  "hash": "sha256:091ba8f3b47ed99be8e560bee22af22152fc3de103922d83cad06bab2c86d9e2",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Chính trị – kinh tế",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Politics\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Chính trị – kinh tế\" dịch câu \"Politics\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Politics",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Politics: capitalism or socialism?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1090 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1094, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Politics"
+        }
+      ]
+    },
+    {
+      "text": "Chủ nghĩa tư bản (capitalism): 29,5; loại trừ 26,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Capitalism 323 29.5 286 26.1",
+          "where": "Bảng 2, câu Politics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "29.52%",
+          "where": "trang kết quả, câu Politics, lựa chọn capitalism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Chủ nghĩa xã hội (socialism): 53,0; loại trừ 48,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Socialism 580 53.0 532 48.6",
+          "where": "Bảng 2, câu Politics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "53.02%",
+          "where": "trang kết quả, câu Politics, lựa chọn socialism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 19,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 211 19.3",
+          "where": "Bảng 2, câu Politics"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (25.23%) nên không dùng cho \"Khác\". Cột Exclusive của bài báo khớp pct_exclusive. Tên câu: bài báo in \"Politics\" (Bảng 1 có câu riêng \"Political philosophy\"), trang web ghi \"Politics: capitalism or socialism?\". \"Chính trị – kinh tế\" là dịch thoát nhưng đúng ý (câu hỏi về chế độ kinh tế – chính trị); nếu muốn sát chữ hơn có thể dùng \"Chính trị: tư bản hay xã hội chủ nghĩa?\"."
+}

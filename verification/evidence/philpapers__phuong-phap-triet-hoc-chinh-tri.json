@@ -1,0 +1,112 @@
+{
+  "unit": "philpapers/phuong-phap-triet-hoc-chinh-tri",
+  "hash": "sha256:eb63185bf588c60f9236be5c8a04175119fb11d620a45babe5f1f006e7081f5a",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Phương pháp triết học chính trị",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Method in political philosophy (which do you prefer?)\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Phương pháp triết học chính trị\" dịch câu \"Method in political philosophy (which do you prefer?)\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Method in political philosophy (which do you prefer?)",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Method in political philosophy (which do you prefer?): ideal theory or non-ideal theory?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 790 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 786, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Method in political philosophy"
+        }
+      ]
+    },
+    {
+      "text": "Lý thuyết lý tưởng (ideal theory): 32,4; loại trừ 22,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Ideal theory 255 32.4 176 22.4",
+          "where": "Bảng 2, câu Method in political philosophy"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "32.44%",
+          "where": "trang kết quả, câu Method in political philosophy, lựa chọn ideal theory (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Lý thuyết phi lý tưởng (non-ideal theory): 58,0; loại trừ 48,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-ideal theory 456 58.0 377 48.0",
+          "where": "Bảng 2, câu Method in political philosophy"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "58.02%",
+          "where": "trang kết quả, câu Method in political philosophy, lựa chọn non-ideal theory (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 18,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 148 18.8",
+          "where": "Bảng 2, câu Method in political philosophy"
+        }
+      ]
+    },
+    {
+      "text": "raw: bài báo in \"58\" (pct) và \"48\" (pct_exclusive) cho lựa chọn Lý thuyết phi lý tưởng",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bài báo in \"58.0\" và \"48.0\" (đúng quy ước một chữ số thập phân): bỏ trường raw của lựa chọn ly-thuyet-phi-ly-tuong, hiển thị 58,0 và 48,0; giá trị số không đổi.",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-ideal theory 456 58.0 377 48.0",
+          "where": "Bảng 2, câu Method in political philosophy"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (29.64%) nên không dùng cho \"Khác\". Cột Exclusive của bài báo khớp pct_exclusive. Ô raw: hỏi WebFetch ba cách (chép nguyên dòng; tìm mọi ô không có dấu thập phân trong Bảng 1–2, kết quả: không có; đánh vần từng ký tự dòng Non-ideal theory) đều cho \"58.0\" và \"48.0\", đúng quy ước một chữ số thập phân. Trang web 58.02% (47.96%) cũng khớp 58,0 / 48,0. Đề xuất bỏ trường raw (giá trị pct không đổi); người làm có thể mở PDF xem tận mắt cho chắc. | Kiểm lại 2026-11-09 (agent-kiem-5.2-pp06): mở lại PhilArchive BOUPOP-3 và trang survey2020 trong phiên; mọi quote của các claim giữ nguyên vẫn khớp chữ trên trang, mọi % của bản ghi mới vẫn bằng số in trong bảng; mã băm mới khớp tools/check_ledger.py (tính lại trong phiên). Bản ghi mới không còn trường raw; pct 58.0 và pct_exclusive 48.0 khớp 'Non-ideal theory 456 58.0 377 48.0': claim raw đánh dấu fixed. Gợi ý thống nhất: câu cùng dạng 'Method in history of philosophy (which do you prefer?)' (philpapers/phuong-phap-nghien-cuu-lich-su-triet-hoc-ban-chon-cach-nao) giữ phần ngoặc '(bạn chọn cách nào?)', câu này bỏ; nên chọn một cách cho cả hai."
+}

@@ -1,0 +1,90 @@
+{
+  "unit": "quotes/epicurus.nhung-cham-ngon-chu-yeu",
+  "hash": "sha256:6b1703f67ede85be9f8833727d9b09d915239ed8546abd5fbd49a8c4b8df0ae7",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản Yonge): “Death is nothing to us; for that which is dissolved is devoid of sensation, and that which is devoid of sensation is nothing to us.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/book-10",
+          "quote": "Death is nothing to us; for that which is dissolved is devoid of sensation,",
+          "where": "Book X, Epicurus, danh sách châm ngôn, mục “2.”"
+        },
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/book-10",
+          "quote": "and that which is devoid of sensation is nothing to us.",
+          "where": "cùng mục 2; khớp từng chữ và dấu câu"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Epicurus, Những châm ngôn chủ yếu (Kyriai doxai), bản dịch tiếng Anh của C. D. Yonge, 1853",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/book-10",
+          "quote": "giving some of his fundamental maxims, and closing the whole work with them",
+          "where": "câu dẫn ngay trước danh sách châm ngôn ở cuối Book X"
+        },
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/colophon",
+          "quote": "It was translated from Greek in 1853 by",
+          "where": "colophon Standard Ebooks: bản Yonge, dựa trên bản chép Project Gutenberg 2018 và bản quét Google Books"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/57342",
+          "quote": "Yonge, Charles Duke, 1812-1891",
+          "where": "Gutenberg #57342, người dịch"
+        }
+      ]
+    },
+    {
+      "text": "locator: Kyriai doxai 2 (= Diogenes Laërtius X.139)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/book-10",
+          "quote": "That which is happy and imperishable",
+          "where": "mục “1.”, ngay trước mục “2. Death is nothing to us…” — tiêu đề ghi “câu 2” là đúng"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "2. Death is nothing to us; for the body, when it has been resolved into its elements, has no feeling,",
+          "where": "bản Hicks (Perseus), mục 10.1.139 — xác nhận vị trí X.139"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: “Cái chết không là gì với ta; vì cái gì đã tan rã thì không còn cảm giác, và cái gì không còn cảm giác thì không là gì với ta.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/book-10",
+          "quote": "Death is nothing to us; for that which is dissolved is devoid of sensation,",
+          "where": "dịch sát từng vế (dissolved = tan rã; devoid of sensation = không còn cảm giác)"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Yonge 1853, trích một câu — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/diogenes-laertius/the-lives-and-opinions-of-eminent-philosophers/c-d-yonge/text/colophon",
+          "quote": "It was translated from Greek in 1853 by",
+          "where": "năm dịch; người dịch mất 1891 (Gutenberg ghi 1812-1891)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản ghi không có url. WebFetch chỉ đọc ~115 nghìn ký tự đầu của Gutenberg #57342 nên không tới được cuối Book X; đã đối chiếu trên Standard Ebooks (bản Yonge dựng từ chính bản chép Gutenberg 2018). Đề xuất url: https://www.gutenberg.org/ebooks/57342 (Yonge) và locator \"KD 2 (D.L. X.139)\". Trường license có thể ghi public-domain."
+}

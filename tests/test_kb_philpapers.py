@@ -26,7 +26,7 @@ class TestPhilPapers(unittest.TestCase):
         fw = q["tu-do-y-chi"]
         self.assertEqual((fw["table"], fw["n"]), (1, 1760))
         self.assertEqual({o["id"]: o["pct"] for o in fw["options"]}["tuong-thich-luan"], 59.2)
-        self.assertEqual(len(data["questions"]), 87)
+        self.assertEqual(len(data["questions"]), 100)
 
     def test_formatting(self):
         self.assertEqual(kp.fmt(18.0), "18,0")

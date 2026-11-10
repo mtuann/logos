@@ -1,0 +1,128 @@
+{
+  "unit": "philpapers/y-thuc-ly-thuyet",
+  "hash": "sha256:5886516a27691823fa84e151cbdead910b7507aa1c36e39c5a7d41c9bc193fc7",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Consciousness",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Ý thức (lý thuyết) — dịch câu 'Consciousness'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Consciousness",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Consciousness: dualism, eliminativism, functionalism, identity theory, or panpsychism?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1020, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Consciousness'"
+        }
+      ]
+    },
+    {
+      "text": "Nhị nguyên luận [Dualism]: 22,0; Exclusive 20,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Dualism 224 22.0 204 20.0",
+          "where": "Bảng 2, khối 'Consciousness'"
+        }
+      ]
+    },
+    {
+      "text": "Loại trừ luận [Eliminativism]: 4,5; Exclusive 3,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Eliminativism 46 4.5 39 3.8",
+          "where": "Bảng 2, khối 'Consciousness'"
+        }
+      ]
+    },
+    {
+      "text": "Chủ nghĩa chức năng [Functionalism]: 33,0; Exclusive 29,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Functionalism 337 33.0 301 29.5",
+          "where": "Bảng 2, khối 'Consciousness'"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết đồng nhất [Identity theory]: 13,3; Exclusive 11,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Identity theory 136 13.3 117 11.5",
+          "where": "Bảng 2, khối 'Consciousness'"
+        }
+      ]
+    },
+    {
+      "text": "Toàn tâm luận (*panpsychism*) [Panpsychism]: 7,5; Exclusive 6,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Panpsychism 77 7.5 62 6.1",
+          "where": "Bảng 2, khối 'Consciousness'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 22,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 232 22.7",
+          "where": "Bảng 2, khối 'Consciousness'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 1020, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (29,12%) tính khác, không dùng cho 'Khác'. Panpsychism (chấp nhận): web ghi 7,55%, số chính xác 77/1020 = 7,549% nên một chữ số là 7,5 như bài báo (làm tròn lại từ 7,55 sẽ ra 7,6). PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

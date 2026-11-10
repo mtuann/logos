@@ -1,0 +1,114 @@
+{
+  "unit": "philpapers/mau-thuan-dung",
+  "hash": "sha256:a8ac1d074e4e8140a2fd1f535dca6083a360759bd8b51e5f9f16a3614052d4f0",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Mâu thuẫn đúng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"True contradictions\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Mâu thuẫn đúng\" dịch câu \"True contradictions\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "True contradictions",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "True contradictions: impossible, possible but non-actual, or actual?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 920 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 925, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu True contradictions"
+        }
+      ]
+    },
+    {
+      "text": "Bất khả (impossible): 71,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Impossible 660 71.4",
+          "where": "Bảng 2, câu True contradictions"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "71.35%",
+          "where": "trang kết quả, câu True contradictions, lựa chọn impossible (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khả hữu nhưng không có thật (possible but non-actual): 4,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Possible but non-actual 44 4.8",
+          "where": "Bảng 2, câu True contradictions"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "4.76%",
+          "where": "trang kết quả, câu True contradictions, lựa chọn possible but non-actual (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Có thật (actual): 12,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Actual 115 12.4",
+          "where": "Bảng 2, câu True contradictions"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "12.43%",
+          "where": "trang kết quả, câu True contradictions, lựa chọn actual (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 11,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 108 11.7",
+          "where": "Bảng 2, câu True contradictions"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (12.11%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. n: trang web N = 925, bản ghi 920 (làm tròn về số chẵn); làm tròn nửa-lên sẽ là 930. Trong sai số ≈ ±5 nên ghi đúng, nhưng câu trai-nghiem-tham-my lại làm tròn 685 → 690: nên thống nhất một quy ước."
+}

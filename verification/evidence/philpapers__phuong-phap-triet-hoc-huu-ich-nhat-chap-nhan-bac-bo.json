@@ -1,0 +1,135 @@
+{
+  "unit": "philpapers/phuong-phap-triet-hoc-huu-ich-nhat-chap-nhan-bac-bo",
+  "hash": "sha256:ad74bf19784fb73791efaaa86da096bfa2cd2c3c279893f94ead262fa708e57d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Reject n & %",
+          "where": "Bảng 1, tiêu đề cột ngay dưới câu Philosophical methods: cặp số thứ hai của mỗi dòng là reject"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Phương pháp triết học hữu ích nhất (chấp nhận / bác bỏ)\" (dịch câu \"Philosophical methods (which methods are the most useful/important?)\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Philosophical methods (which methods are the most useful/important?)",
+          "where": "Bảng 1, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1730 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1733, excluding skipped & insufficiently familiar (52 respondents)",
+          "where": "khối kết quả câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Phân tích khái niệm (conceptual analysis): chấp nhận 70,9; bác bỏ 11,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Conceptual analysis 1229 70.9 201 11.6",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Kiến tạo khái niệm (conceptual engineering): chấp nhận 39,5; bác bỏ 20,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Conceptual engineering 684 39.5 357 20.6",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Triết học dựa trên khoa học thực nghiệm (empirical philosophy): chấp nhận 60,0; bác bỏ 14,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Empirical philosophy 1040 60.0 251 14.5",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Triết học thử nghiệm (*experimental philosophy*) (experimental philosophy): chấp nhận 32,6; bác bỏ 35,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Experimental philosophy 565 32.6 623 35.9",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Triết học hình thức (formal philosophy): chấp nhận 55,5; bác bỏ 12,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Formal philosophy 962 55.5 223 12.9",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Triết học dựa trên trực giác (intuition-based philosophy): chấp nhận 49,5; bác bỏ 29,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Intuition-based philosophy 857 49.5 503 29.0",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Triết học ngôn ngữ (linguistic philosophy): chấp nhận 46,2; bác bỏ 21,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Linguistic philosophy 800 46.2 373 21.5",
+          "where": "Bảng 1, câu \"Philosophical methods (which methods are the most useful/important?)\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bảng 1 còn in dòng \"Other 124 7.2\" (không có số reject) mà bản ghi không có; bỏ dòng này không làm sai claim nào, nhưng muốn nhất quán với các câu khác thì có thể thêm \"Khác\": 7,2. Trang web cho experimental philosophy reject 35.95%: làm tròn nửa-lên sẽ ra 36,0, nhưng 623/1733 = 35,949% nên bài báo in 35.9; bản ghi theo bài báo là đúng. \"Triết học ngôn ngữ\" dễ bị hiểu là triết học về ngôn ngữ (philosophy of language); có thể ghi rõ hơn là \"triết học theo lối phân tích ngôn ngữ\" (dien-giai, không phải lỗi)."
+}

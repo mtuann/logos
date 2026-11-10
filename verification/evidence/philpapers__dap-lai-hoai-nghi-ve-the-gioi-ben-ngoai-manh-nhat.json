@@ -1,0 +1,140 @@
+{
+  "unit": "philpapers/dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat",
+  "hash": "sha256:7023318a1341d777cc18fa09d08464ca3fcb74f1a11083468f55cdb0dc080b7d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Response to external-world skepticism (which is strongest?)",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Đáp lại hoài nghi về thế giới bên ngoài (mạnh nhất?) — dịch câu 'Response to external-world skepticism (which is strongest?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Response to external-world skepticism (which is strongest?)",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Response to external-world skepticism (which is strongest?): abductive, contextualist, dogmatist, epistemic externalist, semantic externalist, or pragmatic?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 930",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 931, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Suy luận đến lời giải thích tốt nhất [Abductive]: 22,1; Exclusive 17,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Abductive 206 22.1 160 17.2",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Ngữ cảnh luận [Contextualist]: 10,7; Exclusive 7,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Contextualist 100 10.7 72 7.7",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Giáo điều luận (*dogmatist*) [Dogmatist]: 13,4; Exclusive 10,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Dogmatist 125 13.4 94 10.1",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Ngoại tại luận tri thức [Epistemic externalist]: 18,9; Exclusive 14,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Epistemic externalist 176 18.9 136 14.6",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Ngoại tại luận ngữ nghĩa [Semantic externalist]: 8,4; Exclusive 5,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Semantic externalist 78 8.4 50 5.4",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Thực dụng [Pragmatic]: 22,8; Exclusive 18,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Pragmatic 212 22.8 170 18.3",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 17,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 160 17.2",
+          "where": "Bảng 2, khối 'Response to external-world skepticism (which is strongest?)'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 931, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (26,75%) tính khác, không dùng cho 'Khác'. Nhãn 'Suy luận đến lời giải thích tốt nhất' dịch theo nghĩa của 'Abductive' (abduction = suy luận đến lời giải thích tốt nhất): đúng ý. PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

@@ -1,0 +1,93 @@
+{
+  "unit": "philpapers/ban-sac-ca-nhan",
+  "hash": "sha256:129a89d6ca90b3fd9280434717d006ea081a25fb137ce5e492031849f89727e7",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Personal identity\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Bản sắc cá nhân\" (dịch câu \"Personal identity\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Personal identity: biological view, psychological view, or further-fact view?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1610 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1615, excluding skipped & insufficiently familiar (170 respondents)",
+          "where": "khối kết quả câu \"Personal identity\""
+        }
+      ]
+    },
+    {
+      "text": "Quan điểm sinh học (biological view): 19,1; exclusive 15,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Biological view 308 19.1 252 15.6",
+          "where": "Bảng 1, câu \"Personal identity\""
+        }
+      ]
+    },
+    {
+      "text": "Quan điểm tâm lý (psychological view): 43,7; exclusive 39,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Psychological view 705 43.7 637 39.4",
+          "where": "Bảng 1, câu \"Personal identity\""
+        }
+      ]
+    },
+    {
+      "text": "Quan điểm \"sự kiện bổ sung\" (further-fact view): 14,9; exclusive 13,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Further-fact view 240 14.9 216 13.4",
+          "where": "Bảng 1, câu \"Personal identity\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 26,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 429 26.6",
+          "where": "Bảng 1, câu \"Personal identity\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "n: trang web ghi N = 1615, đúng nửa giữa 1610 và 1620; bản ghi 1610 lệch 5, vẫn trong sai số làm tròn hàng chục nên chấm dung. Theo quy tắc nửa-lên thì là 1620 (bản ghi logic lại làm tròn 1415 thành 1420): người làm nên thống nhất một quy tắc. Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

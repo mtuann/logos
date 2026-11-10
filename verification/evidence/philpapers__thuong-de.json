@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/thuong-de",
+  "hash": "sha256:9b92c8c37bf830defdbbe382120340196058ba55050a28430cceefc6e442bd4f",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"God\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Thượng đế\" (dịch câu \"God\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "God: theism or atheism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1770 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1770, excluding skipped & insufficiently familiar (15 respondents)",
+          "where": "khối kết quả câu \"God\""
+        }
+      ]
+    },
+    {
+      "text": "Hữu thần (theism): 18,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Theism 335 18.9",
+          "where": "Bảng 1, câu \"God\""
+        }
+      ]
+    },
+    {
+      "text": "Vô thần (atheism): 66,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Atheism 1185 66.9",
+          "where": "Bảng 1, câu \"God\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 14,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 248 14.0",
+          "where": "Bảng 1, câu \"God\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang web cho atheism 66.95%: làm tròn nửa-lên từ số hai chữ số lẻ này sẽ ra 67,0, nhưng 1185/1770 = 66,949% nên bài báo in 66.9; bản ghi theo bài báo là đúng. Dòng Other của trang web (14.63%) khác dòng Other của bài báo (14.0); bản ghi dùng số bài báo, đúng quy ước."
+}

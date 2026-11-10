@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/quy-luat-tu-nhien",
+  "hash": "sha256:6e1565e45e3f0f4ac07a1409477d9fc803f4d17e35c85de8fbc388fa50dbea9f",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Laws of nature\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Quy luật tự nhiên\" (dịch câu \"Laws of nature\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Laws of nature: Humean or non-Humean?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1550 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1554, excluding skipped & insufficiently familiar (231 respondents)",
+          "where": "khối kết quả câu \"Laws of nature\""
+        }
+      ]
+    },
+    {
+      "text": "Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn) (Humean): 31,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Humean 486 31.3",
+          "where": "Bảng 1, câu \"Laws of nature\""
+        }
+      ]
+    },
+    {
+      "text": "Phi Hume (non-Humean): 54,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-humean 844 54.3",
+          "where": "Bảng 1, câu \"Laws of nature\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 14,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 231 14.9",
+          "where": "Bảng 1, câu \"Laws of nature\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo. Phần chú giải trong nhãn \"Kiểu Hume (quy luật chỉ tóm tắt các khuôn mẫu đều đặn)\" là lời giải thích thêm, bảng chỉ in \"Humean\"; chú giải đúng ý quan điểm Hume về quy luật."
+}

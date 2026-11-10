@@ -1,0 +1,118 @@
+{
+  "unit": "philpapers/muc-dich-cua-triet-hoc-dieu-gi-quan-trong-nhat",
+  "hash": "sha256:119f78599ef4b65198dffd4b377b67e3e3c269638cb90d0b7a002f21eb44573c",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Mục đích của triết học (điều gì quan trọng nhất?)\" (dịch câu \"Aim of philosophy (which is most important?)\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Aim of philosophy (which is most important?)",
+          "where": "Bảng 1, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1770 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1771, excluding skipped & insufficiently familiar (14 respondents)",
+          "where": "khối kết quả câu \"Aim of philosophy (which is most important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Chân lý/tri thức (truth/knowledge): 42,2; exclusive 17,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Truth/knowledge 747 42.2 313 17.7",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Thấu hiểu (understanding): 55,8; exclusive 29,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Understanding 988 55.8 524 29.6",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Minh triết (wisdom): 31,2; exclusive 10,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Wisdom 552 31.2 178 10.1",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Hạnh phúc (happiness): 12,6; exclusive 1,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Happiness 224 12.6 24 1.4",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Điều thiện/công lý (goodness/justice): 22,7; exclusive 3,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Goodness/justice 402 22.7 55 3.1",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 10,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 191 10.8",
+          "where": "Bảng 1, câu \"Aim of philosophy (which is most important?)\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang web cho happiness 12.65%: làm tròn nửa-lên sẽ ra 12,7, nhưng 224/1771 = 12,648% nên bài báo in 12.6; bản ghi theo bài báo là đúng. Các số khác của trang web làm tròn ra đúng số bài báo."
+}

@@ -1,0 +1,119 @@
+{
+  "unit": "philpapers/the-gioi-ben-ngoai",
+  "hash": "sha256:6b91df7990968e44da0293919cdfd422a7739277ce4a8d70d5f42487c9717158",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Thế giới bên ngoài [External world]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "External world",
+          "where": "Bảng 1, tiêu đề câu External world"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "External world: idealism, skepticism, or non-skeptical realism?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu External world nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu External world"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1760",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1764, excluding skipped & insufficiently familiar (21 respondents)",
+          "where": "External world"
+        }
+      ]
+    },
+    {
+      "text": "Duy tâm [Idealism]: 6,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Idealism 117 6.6",
+          "where": "Bảng 1, câu External world (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "6.63% (5.44%)",
+          "where": "External world, idealism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Hoài nghi [Skepticism]: 5,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Skepticism 96 5.4",
+          "where": "Bảng 1, câu External world (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "5.44% (4.76%)",
+          "where": "External world, skepticism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Thực tại luận phi hoài nghi [Non-skeptical realism]: 79,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-skeptical realism 1403 79.5",
+          "where": "Bảng 1, câu External world (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "79.54% (78.17%)",
+          "where": "External world, non-skeptical realism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 9,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 172 9.8",
+          "where": "Bảng 1, câu External world, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null. Nhãn ngắn 'Duy tâm', 'Hoài nghi' đúng nghĩa; muốn thống nhất với data/style/terms-policy.yml (skepticism → hoài nghi luận) thì có thể ghi 'Hoài nghi luận' (không bắt buộc)."
+}

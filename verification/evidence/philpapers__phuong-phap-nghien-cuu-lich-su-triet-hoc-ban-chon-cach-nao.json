@@ -1,0 +1,107 @@
+{
+  "unit": "philpapers/phuong-phap-nghien-cuu-lich-su-triet-hoc-ban-chon-cach-nao",
+  "hash": "sha256:e2f927500d3a1b71de549038f9f26218a91cf271dadc131b7dfea14356366c67",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Method in history of philosophy (which do you prefer?)",
+          "where": "Bảng 2, tên câu (tr. 12 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Method in history of philosophy"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Phương pháp nghiên cứu lịch sử triết học (bạn chọn cách nào?) — dịch câu 'Method in history of philosophy (which do you prefer?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Method in history of philosophy (which do you prefer?)",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Method in history of philosophy (which do you prefer?): analytic/rational reconstruction or contextual/historicist?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 940 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 936, excluding skipped & insufficiently familiar (219 respondents)",
+          "where": "trang kết quả, câu Method in history of philosophy"
+        }
+      ]
+    },
+    {
+      "text": "Tái dựng phân tích / duy lý (*analytic/rational reconstruction*) [Analytic/rational reconstruction]: 60,8; Exclusive 42,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Analytic/rational reconstruction 569 60.8 402 42.9",
+          "where": "Bảng 2, câu Method in history of philosophy"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "60.79% (42.95%)",
+          "where": "trang kết quả, câu Method in history of philosophy, lựa chọn Analytic/rational reconstruction: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Theo ngữ cảnh / lịch sử (*contextual/historicist*) [Contextual/historicist]: 44,4; Exclusive 26,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Contextual/historicist 416 44.4 251 26.8",
+          "where": "Bảng 2, câu Method in history of philosophy"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "44.44% (26.82%)",
+          "where": "trang kết quả, câu Method in history of philosophy, lựa chọn Contextual/historicist: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 12,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 112 12.0",
+          "where": "Bảng 2, câu Method in history of philosophy, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 936, làm tròn hàng chục là 940. Làm tròn hai lần: web in 42.95% (loại trừ, analytic/rational reconstruction), làm tròn tiếp sẽ ra 43,0, nhưng 402/936 = 42,949% nên 42,9 là đúng. Dòng Other của web (30.24%) tính khác, không dùng cho 'Khác'. Thống nhất: câu cùng dạng 'Method in political philosophy (which do you prefer?)' (philpapers/phuong-phap-triet-hoc-chinh-tri) được dịch bỏ phần ngoặc, câu này giữ '(bạn chọn cách nào?)'; nên chọn một cách cho cả hai."
+}

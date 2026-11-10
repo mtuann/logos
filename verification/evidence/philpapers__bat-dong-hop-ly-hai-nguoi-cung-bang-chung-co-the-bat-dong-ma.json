@@ -1,0 +1,92 @@
+{
+  "unit": "philpapers/bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma",
+  "hash": "sha256:78ff63c49f06de67ba1d9345f9992d21372f2d649fd46a2a20bd405355c6b1e0",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Rational disagreement (can two people with the same evidence rationally disagree?)",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Bất đồng hợp lý (hai người cùng bằng chứng có thể bất đồng mà vẫn hợp lý?) — dịch câu 'Rational disagreement (can two people with the same evidence rationally disagree?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Rational disagreement (can two people with the same evidence rationally disagree?)",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Rational disagreement (can two people with the same evidence rationally disagree?): non-permissivism or permissivism?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 990",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 995, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Rational disagreement (can two people with the same evidence rationally disagree?)'"
+        }
+      ]
+    },
+    {
+      "text": "Không thể (*non-permissivism*) [Non-permissivism]: 19,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-permissivism 193 19.4",
+          "where": "Bảng 2, khối 'Rational disagreement (can two people with the same evidence rationally disagree?)'"
+        }
+      ]
+    },
+    {
+      "text": "Có thể (*permissivism*) [Permissivism]: 70,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Permissivism 698 70.2",
+          "where": "Bảng 2, khối 'Rational disagreement (can two people with the same evidence rationally disagree?)'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 10,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 104 10.5",
+          "where": "Bảng 2, khối 'Rational disagreement (can two people with the same evidence rationally disagree?)'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 995, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (10,45%) tính khác, không dùng cho 'Khác'. N = 995 nằm đúng giữa hai bội số 10; bản ghi làm tròn thành 990 — chấp nhận. PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

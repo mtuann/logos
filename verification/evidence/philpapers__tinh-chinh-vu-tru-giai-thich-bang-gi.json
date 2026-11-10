@@ -1,0 +1,131 @@
+{
+  "unit": "philpapers/tinh-chinh-vu-tru-giai-thich-bang-gi",
+  "hash": "sha256:ba16b5a0c9830bb10e71922902b84bba9dc13cbd192b977317dd634cda408363",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Tinh chỉnh vũ trụ (giải thích bằng gì?)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Cosmological fine-tuning (what explains it?)\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Tinh chỉnh vũ trụ (giải thích bằng gì?)\" dịch câu \"Cosmological fine-tuning (what explains it?)\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Cosmological fine-tuning (what explains it?)",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Cosmological fine-tuning (what explains it?): design, multiverse, brute fact, or no fine-tuning?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 810 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 807, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Cosmological fine-tuning"
+        }
+      ]
+    },
+    {
+      "text": "Thiết kế (design): 17,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Design 140 17.3",
+          "where": "Bảng 2, câu Cosmological fine-tuning"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "17.35%",
+          "where": "trang kết quả, câu Cosmological fine-tuning, lựa chọn design (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Đa vũ trụ (multiverse): 15,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Multiverse 122 15.1",
+          "where": "Bảng 2, câu Cosmological fine-tuning"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "15.12%",
+          "where": "trang kết quả, câu Cosmological fine-tuning, lựa chọn multiverse (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Sự thật trần trụi (không cần giải thích) (brute fact): 32,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Brute fact 259 32.1",
+          "where": "Bảng 2, câu Cosmological fine-tuning"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "32.09%",
+          "where": "trang kết quả, câu Cosmological fine-tuning, lựa chọn brute fact (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Không có tinh chỉnh (no fine-tuning): 21,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "No fine-tuning 175 21.7",
+          "where": "Bảng 2, câu Cosmological fine-tuning"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "21.69%",
+          "where": "trang kết quả, câu Cosmological fine-tuning, lựa chọn no fine-tuning (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 17,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 144 17.8",
+          "where": "Bảng 2, câu Cosmological fine-tuning"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (23.42%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng. Trang web in 17.35% cho design: làm tròn nửa-lên từ số này sẽ ra 17,4, nhưng bài báo in 17.3 (140/807 = 17,348%); bản ghi theo bài báo là đúng."
+}

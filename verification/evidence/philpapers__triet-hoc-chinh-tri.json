@@ -1,0 +1,93 @@
+{
+  "unit": "philpapers/triet-hoc-chinh-tri",
+  "hash": "sha256:f73465eb5d99dc9b82fab5dd336b039f8e0b3ad594a93e11a983507cd90a12de",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Political philosophy\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Triết học chính trị\" (dịch câu \"Political philosophy\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Political philosophy: communitarianism, egalitarianism, or libertarianism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1540 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1537, excluding skipped & insufficiently familiar (248 respondents)",
+          "where": "khối kết quả câu \"Political philosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Cộng đồng luận (communitarianism): 27,3; exclusive 22,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Communitarianism 419 27.3 339 22.1",
+          "where": "Bảng 1, câu \"Political philosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Chủ nghĩa bình đẳng (*egalitarianism*) (egalitarianism): 44,0; exclusive 38,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Egalitarianism 677 44.0 588 38.3",
+          "where": "Bảng 1, câu \"Political philosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Chủ nghĩa tự do cá nhân (*libertarianism*) (libertarianism): 13,4; exclusive 10,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Libertarianism 206 13.4 158 10.3",
+          "where": "Bảng 1, câu \"Political philosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 20,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 315 20.5",
+          "where": "Bảng 1, câu \"Political philosophy\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu này là \"Political philosophy\" của Bảng 1 (Bảng 2 có câu khác tên \"Politics\"); bản ghi đúng bảng. Trang web cho egalitarianism 44.05%: làm tròn nửa-lên sẽ ra 44,1, nhưng 677/1537 = 44,047% nên bài báo in 44.0; bản ghi theo bài báo là đúng. \"Chủ nghĩa tự do cá nhân\" đúng nghĩa chính trị, khớp ghi chú bảng thuật ngữ (không nhầm với thuyết ý chí tự do)."
+}

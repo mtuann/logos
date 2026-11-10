@@ -1,0 +1,107 @@
+{
+  "unit": "philpapers/khong-thoi-gian",
+  "hash": "sha256:28012c24f7267466378478954ef50c44e0e4dd55d04ce9c71e13aee87d3477df",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Spacetime",
+          "where": "Bảng 2, tên câu (tr. 14 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Spacetime"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Không–thời gian — dịch câu 'Spacetime'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Spacetime",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Spacetime: relationism or substantivalism?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 630 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 626, excluding skipped & insufficiently familiar (504 respondents)",
+          "where": "trang kết quả, câu Spacetime"
+        }
+      ]
+    },
+    {
+      "text": "Quan hệ luận (*relationism*) [Relationism]: 45,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Relationism 284 45.4",
+          "where": "Bảng 2, câu Spacetime"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "45.37% (45.05%)",
+          "where": "trang kết quả, câu Spacetime, lựa chọn Relationism: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Thực thể luận (*substantivalism*) [Substantivalism]: 27,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Substantivalism 172 27.5",
+          "where": "Bảng 2, câu Spacetime"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "27.48% (27.16%)",
+          "where": "trang kết quả, câu Spacetime, lựa chọn Substantivalism: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 27,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 169 27.0",
+          "where": "Bảng 2, câu Spacetime, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 626, làm tròn hàng chục là 630. Bài báo không in cột Exclusive cho câu này (web lệch dưới 1 điểm), khớp pct_exclusive null. Dòng Other của web (27.80%) tính khác, không dùng cho 'Khác'. 'Không–thời gian' (gạch dài) giống cách viết ở docs/cau-hoi/thoi-gian.md; nhiều chỗ khác trong docs viết 'không-thời gian' (gạch nối): chỉ là kiểu chữ, không tính lỗi."
+}

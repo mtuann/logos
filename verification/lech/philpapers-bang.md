@@ -2,14 +2,11 @@
 
 Sinh bằng `python tools/migrate/dot3_philpapers.py` (đợt 3, việc 3.5). Đầu vào cho đợt 5: ô nào ghi khác JSON thì đối chiếu với Bảng 1–2 của bài báo, sửa bài hoặc JSON, rồi thay bằng `[[pp:…]]`.
 
-- Bảng: 96 câu; ô số 345, đã thay 341; n trong ô câu hỏi đã thay 63.
+- Bảng: 96 câu; ô số 345, đã thay 344; n trong ô câu hỏi đã thay 63.
 - Số tổng của khảo sát trong văn xuôi đã thay: 31.
 
-## Ô và câu chưa thay (4)
+## Ô và câu chưa thay (1)
 
-- `cau-hoi/an-tu-hinh.md:90` `luat-phap.phi-thuc-chung-luan-phap-ly` (pct): bài ghi "45,0", JSON 45
-- `cau-hoi/an-tu-hinh.md:91` `luat-phap.khac` (pct): bài ghi "16,0", JSON 16
-- `cau-hoi/cuu-giup-ngheo-doi.md:97` `phai-keo-theo-co-the-ought-implies-can.khac` (pct): bài ghi "9,0", JSON 9
 - `cau-hoi/hanh-phuc.md:96` `phuc-loi-well-being`: lựa chọn "Khoái lạc / trải nghiệm" chưa ghép được
 
 ## Số liệu trong văn xuôi mục "Giới triết học ngày nay nghĩ gì" còn gõ tay (190 chỗ ở 99 dòng)

@@ -1,0 +1,81 @@
+{
+  "unit": "philpapers/sieu-triet-hoc",
+  "hash": "sha256:f94e69afa9fc2e92892568ba0769ee2f2a5a5f3f01b746df9ca8f2f3850a9ffd",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Metaphilosophy\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Siêu triết học\" (dịch câu \"Metaphilosophy\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Metaphilosophy: naturalism or non-naturalism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1550 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1549, excluding skipped & insufficiently familiar (236 respondents)",
+          "where": "khối kết quả câu \"Metaphilosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Tự nhiên luận (naturalism): 50,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Naturalism 777 50.2",
+          "where": "Bảng 1, câu \"Metaphilosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Phi tự nhiên luận (non-naturalism): 31,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-naturalism 482 31.1",
+          "where": "Bảng 1, câu \"Metaphilosophy\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 19,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 296 19.1",
+          "where": "Bảng 1, câu \"Metaphilosophy\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

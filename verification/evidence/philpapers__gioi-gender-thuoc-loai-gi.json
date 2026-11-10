@@ -1,0 +1,105 @@
+{
+  "unit": "philpapers/gioi-gender-thuoc-loai-gi",
+  "hash": "sha256:08879186ed3c6f8dcffa8c0cab2a20802ee7f3692bf486ef59b2b5a3788632f2",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Gender\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Giới (*gender*) thuộc loại gì?\" (dịch câu \"Gender\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Gender: biological, psychological, social, or unreal?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1650 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1653, excluding skipped & insufficiently familiar (132 respondents)",
+          "where": "khối kết quả câu \"Gender\""
+        }
+      ]
+    },
+    {
+      "text": "Sinh học (biological): 29,0; exclusive 15,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Biological 480 29.0 250 15.1",
+          "where": "Bảng 1, câu \"Gender\""
+        }
+      ]
+    },
+    {
+      "text": "Tâm lý (psychological): 21,5; exclusive 4,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Psychological 356 21.5 71 4.3",
+          "where": "Bảng 1, câu \"Gender\""
+        }
+      ]
+    },
+    {
+      "text": "Xã hội (social): 63,1; exclusive 43,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Social 1043 63.1 711 43.0",
+          "where": "Bảng 1, câu \"Gender\""
+        }
+      ]
+    },
+    {
+      "text": "Không có thật (unreal): 4,2; exclusive 1,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Unreal 70 4.2 27 1.6",
+          "where": "Bảng 1, câu \"Gender\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 14,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 245 14.8",
+          "where": "Bảng 1, câu \"Gender\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu \"Gender\" của Bảng 1 (Bảng 2 có câu khác là \"Gender categories\"); bản ghi đúng bảng. Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

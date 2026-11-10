@@ -1,0 +1,105 @@
+{
+  "unit": "philpapers/phan-doan-dao-duc",
+  "hash": "sha256:abd468fa7ddf1f0a720bea6036063692356fe81b996bb6fda5ed327983661329",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "title_vi: Phán đoán đạo đức [Moral judgment]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moral judgment",
+          "where": "Bảng 1, tiêu đề câu Moral judgment"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Moral judgment: cognitivism or non-cognitivism?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Moral judgment nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Moral judgment"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1630",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "n ≈ 1640 (trang kết quả: N = 1636; làm tròn hàng chục là 1640)",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1636, excluding skipped & insufficiently familiar (149 respondents)",
+          "where": "Moral judgment"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết nhận thức (*cognitivism*): 69,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Cognitivism 1133 69.3",
+          "where": "Bảng 1, câu Moral judgment (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "69.25% (68.15%)",
+          "where": "Moral judgment, cognitivism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết phi nhận thức (*non-cognitivism*): 20,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Non-cognitivism 339 20.7",
+          "where": "Bảng 1, câu Moral judgment (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "20.72% (19.87%)",
+          "where": "Moral judgment, non-cognitivism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 10,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 169 10.3",
+          "where": "Bảng 1, câu Moral judgment, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null. n lệch quy ước làm tròn: trang web ghi N = 1636 (1785 − 149), làm tròn hàng chục là 1640. Có lẽ 1630 được tính ngược từ một dòng % đã làm tròn (1133/0,693 ≈ 1634,9); các dòng khác cho 339/0,207 ≈ 1637,7 và 169/0,103 ≈ 1640,8, nên cần lấy N trên trang web. Lệch 6 người, nhỏ hơn đơn vị làm tròn nên ghi mức nhe. Cùng số 1.630 có ở tools/philpapers-2020.md (dòng 'Phán đoán đạo đức (n ≈ 1.630)'); người làm sửa cả hai nơi. Trang web in 69,25% cho cognitivism (giá trị biên); 1133/1636 = 69,254% nên 69,3 của bài báo đúng. | Kiểm lại 2026-11-09 (agent-kiem-5.2-pp06): mở lại PhilArchive BOUPOP-3 và trang survey2020 trong phiên; mọi quote của các claim giữ nguyên vẫn khớp chữ trên trang, mọi % của bản ghi mới vẫn bằng số in trong bảng; mã băm mới khớp tools/check_ledger.py (tính lại trong phiên). Bản ghi mới có n = 1640, khớp 'N = 1636' (làm tròn hàng chục): claim n đánh dấu fixed. tools/philpapers-2020.md cũng đã ghi 'n ≈ 1.640'."
+}

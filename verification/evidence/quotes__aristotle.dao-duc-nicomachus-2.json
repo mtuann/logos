@@ -1,0 +1,82 @@
+{
+  "unit": "quotes/aristotle.dao-duc-nicomachus-2",
+  "hash": "sha256:3c702e5031bdbda15301c520d45b56735c941fc4401a763c2a73ed98dbe65683",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"…for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html",
+          "quote": "for as it is not one swallow or one fine day that makes a spring,",
+          "where": "Book I, \"Chapter V.\" của bản Chase; đứng sau \"And we must add, ἐν βίῳ τελείῳ;\""
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html",
+          "quote": "so it is not one day or a short time that makes a man blessed and happy."
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, dịch giả: Aristotle, *Đạo đức Nicomachus* — bản dịch tiếng Anh của D. P. Chase (url: https://www.gutenberg.org/ebooks/8438)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/8438",
+          "quote": "The Nicomachean ethics of Aristotle",
+          "where": "Project Gutenberg ebook #8438; trang sách ghi \"Introduction by J. A. Smith\""
+        },
+        {
+          "url": "https://www.lib.tohoku-gakuin.ac.jp/opac/opac_link/bibid/1000841214/?lang=0",
+          "quote": "The Nicomachean ethics of Aristotle / translated by D. P. Chase ; [introduction by J. A. Smith]",
+          "where": "ấn bản Everyman's Library, Dent, 1911 — cùng ấn bản Gutenberg #8438 chép lại"
+        }
+      ]
+    },
+    {
+      "text": "locator: I.7 (1098a) — chính xác: I.7, 1098a18–20",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2:1.7/",
+          "quote": "μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ, οὐδὲ μία ἡμέρα",
+          "where": "bản Bywater, quyển 1 chương 7, giữa mốc Bekker 1098a15 và 1098a20"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"…vì như một con én hay một ngày đẹp trời không làm nên mùa xuân, một ngày hay một thời gian ngắn cũng không làm cho con người được phúc và hạnh phúc.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html",
+          "quote": "makes a man blessed and happy"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Chase (1847, sửa 1861; in lại 1911) thuộc phạm vi công cộng — không rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/8438",
+          "quote": "Public domain in the USA."
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html",
+          "quote": "D P Chase, 1847, revised 1861",
+          "where": "thư mục các bản dịch trong phần đầu sách"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khớp từng chữ với Gutenberg #8438 (bản Chase, Everyman 1911). Lưu ý cho người đọc: bản Chase chia chương khác bản chuẩn — câu này in ở Quyển I, \"Chapter V.\" chứ không phải chương 7; tiêu đề dùng chương chuẩn I.7 là đúng. Locator đề xuất: \"I.7, 1098a18–20\". Trang Gutenberg không ghi tên dịch giả trong trường metadata; tên Chase xác nhận qua ấn bản Everyman 1911 (cùng lời giới thiệu J. A. Smith). work đang null: đề xuất aristotle.ethica-nicomachea. Đề xuất license: public-domain."
+}

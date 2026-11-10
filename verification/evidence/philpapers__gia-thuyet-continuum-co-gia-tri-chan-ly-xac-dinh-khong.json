@@ -1,0 +1,109 @@
+{
+  "unit": "philpapers/gia-thuyet-continuum-co-gia-tri-chan-ly-xac-dinh-khong",
+  "hash": "sha256:9a3f5aae986442ed7667e4740926198ac6911bfadd9f972976c81249a22709a3",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Continuum hypothesis (does it have a determinate truth-value?)",
+          "where": "Bảng 2, tên câu (tr. 10–11 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Continuum hypothesis"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Giả thuyết continuum (có giá trị chân lý xác định không?) — dịch câu 'Continuum hypothesis (does it have a determinate truth-value?)'",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Giả thuyết continuum (có chân trị xác định không?) — nghĩa hiện tại đúng; chỉ đổi 'giá trị chân lý' thành 'chân trị' theo từ điển dự án",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Continuum hypothesis (does it have a determinate truth-value?)",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Continuum hypothesis (does it have a determinate truth-value?): determinate or indeterminate?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 480 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 478, excluding skipped & insufficiently familiar (632 respondents)",
+          "where": "trang kết quả, câu Continuum hypothesis"
+        }
+      ]
+    },
+    {
+      "text": "Xác định [Determinate]: 37,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Determinate 180 37.7",
+          "where": "Bảng 2, câu Continuum hypothesis"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "37.66% (37.66%)",
+          "where": "trang kết quả, câu Continuum hypothesis, lựa chọn Determinate: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Không xác định [Indeterminate]: 28,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Indeterminate 137 28.7",
+          "where": "Bảng 2, câu Continuum hypothesis"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "28.66% (28.66%)",
+          "where": "trang kết quả, câu Continuum hypothesis, lựa chọn Indeterminate: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 33,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 161 33.7",
+          "where": "Bảng 2, câu Continuum hypothesis, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 478, làm tròn hàng chục là 480. Bài báo không in cột Exclusive cho câu này (web: % bao gồm = % loại trừ), khớp pct_exclusive null. Dòng Other của web (33.68%) ở câu này trùng 33,7. title_vi đúng nghĩa; chỉ đề xuất đổi 'giá trị chân lý' thành 'chân trị' cho khớp từ điển dự án (docs/them/tu-dien.md, mục 'chân trị (truth value)'; docs dùng 'chân trị' 132 lần, 'giá trị chân lý' 2 lần). Dòng 'Giả thuyết continuum (…)' ở tools/philpapers-2020.md cũng cần sửa theo nếu nhận đề xuất."
+}

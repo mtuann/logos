@@ -1,0 +1,119 @@
+{
+  "unit": "philpapers/dao-duc-hoc-chuan-tac",
+  "hash": "sha256:041479c7ef1b71738f1002fee2b3f729530937cb8586f1fc9d23c7b31d6edfc2",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Đạo đức học chuẩn tắc [Normative ethics]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Normative ethics",
+          "where": "Bảng 1, tiêu đề câu Normative ethics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Normative ethics: deontology, consequentialism, or virtue ethics?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Normative ethics nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Normative ethics"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1740",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1741, excluding skipped & insufficiently familiar (44 respondents)",
+          "where": "Normative ethics"
+        }
+      ]
+    },
+    {
+      "text": "Nghĩa vụ luận [Deontology]: 32,1; exclusive 19,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Deontology 558 32.1 343 19.7",
+          "where": "Bảng 1, câu Normative ethics (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "32.05% (19.70%)",
+          "where": "Normative ethics, deontology: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Hệ quả luận [Consequentialism]: 30,6; exclusive 21,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Consequentialism 532 30.6 373 21.4",
+          "where": "Bảng 1, câu Normative ethics (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "30.56% (21.42%)",
+          "where": "Normative ethics, consequentialism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Đạo đức học đức hạnh [Virtue ethics]: 37,0; exclusive 25,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Virtue ethics 644 37.0 436 25.0",
+          "where": "Bảng 1, câu Normative ethics (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "36.99% (25.04%)",
+          "where": "Normative ethics, virtue ethics: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 18,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 316 18.2",
+          "where": "Bảng 1, câu Normative ethics, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in. Cột Exclusive khớp số trong ngoặc trên trang web. Trang web in 32,05% cho deontology (giá trị biên); 558/1741 = 32,051% nên 32,1 của bài báo đúng."
+}

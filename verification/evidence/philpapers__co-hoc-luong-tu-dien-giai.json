@@ -1,0 +1,131 @@
+{
+  "unit": "philpapers/co-hoc-luong-tu-dien-giai",
+  "hash": "sha256:981de8845f58efd45457633a3d25b1c3d1bc1f6e608ee1c0293f7305624a4024",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Cơ học lượng tử (diễn giải)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Quantum mechanics\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Cơ học lượng tử (diễn giải)\" dịch câu \"Quantum mechanics\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Quantum mechanics",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Quantum mechanics: collapse, hidden-variables, many-worlds, or epistemic?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 560 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 556, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Quantum mechanics"
+        }
+      ]
+    },
+    {
+      "text": "Sụp đổ hàm sóng (collapse): 17,1; loại trừ 14,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Collapse 95 17.1 82 14.7",
+          "where": "Bảng 2, câu Quantum mechanics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "17.09%",
+          "where": "trang kết quả, câu Quantum mechanics, lựa chọn collapse (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Biến ẩn (hidden-variables): 21,9; loại trừ 18,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Hidden-variables 122 21.9 104 18.7",
+          "where": "Bảng 2, câu Quantum mechanics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "21.94%",
+          "where": "trang kết quả, câu Quantum mechanics, lựa chọn hidden-variables (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Đa thế giới (many-worlds): 19,4; loại trừ 17,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Many-worlds 108 19.4 95 17.1",
+          "where": "Bảng 2, câu Quantum mechanics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "19.42%",
+          "where": "trang kết quả, câu Quantum mechanics, lựa chọn many-worlds (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Tri thức (hàm sóng chỉ là thông tin) (epistemic): 12,8; loại trừ 11,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Epistemic 71 12.8 63 11.3",
+          "where": "Bảng 2, câu Quantum mechanics"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "12.77%",
+          "where": "trang kết quả, câu Quantum mechanics, lựa chọn epistemic (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 32,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 178 32.0",
+          "where": "Bảng 2, câu Quantum mechanics"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (38.13%) nên không dùng cho \"Khác\". Cột Exclusive của bài báo khớp pct_exclusive. Trang web in 14.75% cho cột loại trừ của collapse: làm tròn nửa-lên sẽ ra 14,8, nhưng bài báo in 14.7 (82/556 = 14,748%); bản ghi theo bài báo là đúng."
+}

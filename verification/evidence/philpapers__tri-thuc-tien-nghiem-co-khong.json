@@ -1,0 +1,102 @@
+{
+  "unit": "philpapers/tri-thuc-tien-nghiem-co-khong",
+  "hash": "sha256:0a94e33f3276b1ecdf6c9a73ab5ee4ed8c7d6d6eb11f70150a79ed8386600635",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Tri thức tiên nghiệm (có không?) [A priori knowledge]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "A priori knowledge",
+          "where": "Bảng 1, tiêu đề câu A priori knowledge"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "A priori knowledge: yes or no?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu A priori knowledge nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu A priori knowledge"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1750",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1749, excluding skipped & insufficiently familiar (36 respondents)",
+          "where": "A priori knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Có [Yes]: 72,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Yes 1274 72.8",
+          "where": "Bảng 1, câu A priori knowledge (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "72.84% (72.67%)",
+          "where": "A priori knowledge, yes: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Không [No]: 18,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "No 323 18.5",
+          "where": "Bảng 1, câu A priori knowledge (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "18.47% (18.30%)",
+          "where": "A priori knowledge, no: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 8,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 152 8.7",
+          "where": "Bảng 1, câu A priori knowledge, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null."
+}

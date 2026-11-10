@@ -1,0 +1,90 @@
+{
+  "unit": "quotes/edmund-husserl.logische-untersuchungen",
+  "hash": "sha256:451058edb0a8d2c914d1571e8b8dc5d0f8ddc0acdc0cbbbb4e9612cf9ae8c9a7",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn: “Wir wollen uns schlechterdings nicht mit „bloßen Worten“, das ist mit einem bloß symbolischen Wortverständnis zufrieden geben. […] Wir wollen auf die „Sachen selbst“ zurückgehen.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "Wir wollen uns schlechterdings nicht mit „blofsen Worten\", das ist mit einem blofs symbolischen",
+          "where": "Zweiter Theil (1901), Einleitung §2, tr. 7; OCR đọc chữ ſs thành “fs” (blofsen = bloßen)"
+        },
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "Wortverständnis zufrieden geben.",
+          "where": "dòng kế tiếp"
+        },
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "Wir wollen auf die „Sachen selbst\" zurückgehen.",
+          "where": "cùng đoạn, sau câu bị lược (“Bedeutungen, die nur von entfernten … können uns nicht genug thun.”) — chỗ lược […] không làm đổi nghĩa"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Edmund Husserl, Logische Untersuchungen, tập II (1901), Dẫn nhập (Einleitung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "ZWEITER THEIL: UNTERSUCHUNGEN ZUR PHÄNOMENOLOGIE UND THEORIE DER ERKENNTNIS",
+          "where": "trang tên tập II trong OCR; trang mục lục archive.org ghi Leipzig: Veit, 1900–1901 (bản in lần đầu)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "we must go back to the “things themselves”. (Hua 19/10",
+          "where": "SEP “Edmund Husserl” (Dan Zahavi), §2: dẫn từ phần dẫn nhập tập II"
+        }
+      ]
+    },
+    {
+      "text": "locator: tập II, Einleitung, §2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/logischeuntersuc00hussuoft/logischeuntersuc00hussuoft_djvu.txt",
+          "quote": "§ 2. Zur Verdeutlichung der Ziele solcher Untersuchungen.",
+          "where": "đầu mục chứa câu trích; câu nằm ở tr. 7 bản 1901 (khoảng dòng 21 sau tiêu đề trang “Einleitung. 7”)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: “Chúng ta tuyệt đối không muốn bằng lòng với “chữ suông”, tức là với một cách hiểu từ ngữ chỉ thuần ký hiệu. […] Chúng ta muốn quay về với “chính các sự vật”.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "we must go back to the “things themselves”.",
+          "where": "SEP dịch câu cuối; cùng nghĩa với “quay về với chính các sự vật”; vế đầu dịch sát (schlechterdings nicht = tuyệt đối không; bloß symbolisch = chỉ thuần ký hiệu)"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: nguyên văn tiếng Đức in 1901, tác giả mất 1938 — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "Edmund Husserl (1859–1938) is the founding father of phenomenology",
+          "where": "đoạn mở đầu mục SEP"
+        },
+        {
+          "url": "https://archive.org/details/logischeuntersuc00hussuoft",
+          "quote": "Logische Untersuchungen",
+          "where": "bản quét archive.org, Veit, Leipzig 1900–1901"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu với OCR bản quét lần in đầu (Veit, Leipzig 1901) trên archive.org — URL đúng như bản ghi; khớp từng chữ sau khi hiện đại hóa ſs→ß như tiêu đề nói. Đề xuất locator \"II, Einleitung §2\" (chi tiết: tr. 7 bản 1901 = A 7; Hua XIX/1, tr. 10). Trường license có thể ghi public-domain."
+}

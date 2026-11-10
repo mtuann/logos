@@ -1,0 +1,82 @@
+{
+  "unit": "philpapers/bai-toan-newcomb",
+  "hash": "sha256:6a74f0da50e80b9506c0a71381770233530ec246ca90a3a7f0e1e7e75b84d724",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Newcomb's problem\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Bài toán Newcomb\" (dịch câu \"Newcomb's problem\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "one box or two boxes?",
+          "where": "tiêu đề câu Newcomb's problem trên trang kết quả"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1070 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1071, excluding skipped & insufficiently familiar (714 respondents)",
+          "where": "khối kết quả câu \"Newcomb's problem\""
+        }
+      ]
+    },
+    {
+      "text": "Lấy một hộp (one box): 31,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "One box 334 31.2",
+          "where": "Bảng 1, câu \"Newcomb's problem\""
+        }
+      ]
+    },
+    {
+      "text": "Lấy hai hộp (two boxes): 39,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Two boxes 418 39.0",
+          "where": "Bảng 1, câu \"Newcomb's problem\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 30,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 323 30.2",
+          "where": "Bảng 1, câu \"Newcomb's problem\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo. Dòng Other của trang web (30.81%) khác bài báo (30.2); bản ghi dùng số bài báo."
+}

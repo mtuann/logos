@@ -1,0 +1,114 @@
+{
+  "unit": "philpapers/ban-the-luan-thoi-gian",
+  "hash": "sha256:325561c853f539b1f45e8e3a8f8f01245a38ac6f386d5980810f69ae7d6b1f9f",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Bản thể luận thời gian",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Temporal ontology\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Bản thể luận thời gian\" dịch câu \"Temporal ontology\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Temporal ontology",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Temporal ontology: presentism, eternalism, or growing block?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 730 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 734, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Temporal ontology"
+        }
+      ]
+    },
+    {
+      "text": "Hiện tại luận (presentism): 18,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Presentism 135 18.4",
+          "where": "Bảng 2, câu Temporal ontology"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "18.39%",
+          "where": "trang kết quả, câu Temporal ontology, lựa chọn presentism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Vĩnh cửu luận (eternalism): 39,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Eternalism 293 39.9",
+          "where": "Bảng 2, câu Temporal ontology"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "39.92%",
+          "where": "trang kết quả, câu Temporal ontology, lựa chọn eternalism (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết khối đang lớn (growing block): 17,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Growing block 125 17.0",
+          "where": "Bảng 2, câu Temporal ontology"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "17.03%",
+          "where": "trang kết quả, câu Temporal ontology, lựa chọn growing block (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 24,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 183 24.9",
+          "where": "Bảng 2, câu Temporal ontology"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (26.98%) nên không dùng cho \"Khác\". Bài báo không in cột Exclusive cho câu này; pct_exclusive = null là đúng."
+}

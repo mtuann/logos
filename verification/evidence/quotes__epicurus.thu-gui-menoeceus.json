@@ -1,0 +1,75 @@
+{
+  "unit": "quotes/epicurus.thu-gui-menoeceus",
+  "hash": "sha256:2f7fd4de3610409aa2cdfe4f841841517fc2442ff89e24cb6234de8c78722770",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản Hicks): “Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.",
+          "where": "Perseus TEI bản Hicks, mục 10.1.125; khớp từng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Epicurus, Thư gửi Menoeceus, chép trong Diogenes Laërtius quyển X, bản dịch tiếng Anh của R. D. Hicks (1925)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "Let no one be slow to seek wisdom when he is young nor weary in the search",
+          "where": "mở đầu Thư gửi Menoeceus, mục 10.1.122 (thư kéo dài tới §135)"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/__cts__.xml",
+          "quote": "Diogenes Laertius. Hicks, R. D., editor. Cambridge, MA.: Harvard University Press; London: William Heinemann Ltd., 1925.",
+          "where": "mô tả bản dịch perseus-eng2"
+        }
+      ]
+    },
+    {
+      "text": "locator: Diogenes Laërtius X.125 (Thư gửi Menoeceus §125)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "xml:base=\"urn:cts:greekLit:tlg0004.tlg001.perseus-eng2:10.1\" n=\"125\"",
+          "where": "mục chứa câu trích"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: “Vậy cái chết, điều đáng sợ nhất trong mọi điều xấu, chẳng là gì với ta, bởi khi ta còn thì cái chết chưa đến, và khi cái chết đến thì ta không còn.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "seeing that, when we are, death is not come, and, when death is come, we are not.",
+          "where": "§125; dịch sát (the most awful of evils = điều đáng sợ nhất trong mọi điều xấu)"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Hicks in 1925, trích một câu — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/__cts__.xml",
+          "quote": "London: William Heinemann Ltd., 1925.",
+          "where": "năm in bản Loeb; đã vào phạm vi công cộng ở Mỹ"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu bằng bản TEI Perseus (bản Loeb 1925 của Hicks) trên GitHub PerseusDL; khớp từng chữ. URL Wikisource …/Book_X có trong kết quả tìm kiếm nhưng không mở được trong phiên này (WebFetch báo url_not_found, proxy chặn Wikisource). Đề xuất locator \"D.L. X.125\". Trường license có thể ghi public-domain."
+}

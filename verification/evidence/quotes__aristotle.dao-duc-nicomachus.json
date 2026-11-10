@@ -1,0 +1,84 @@
+{
+  "unit": "quotes/aristotle.dao-duc-nicomachus",
+  "hash": "sha256:5faaf2360b8d58eb915abb93feb6acfd73a1dc1165028847cf7d9c1b43b3db29",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Since virtue is concerned with passions and actions, and on voluntary passions and actions praise and blame are bestowed, on those that are involuntary pardon, and sometimes also pity, to distinguish the voluntary and the involuntary is presumably necessary for those who are studying the nature of virtue, and useful also for legislators with a view to the assigning both of honours and of punishments.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html",
+          "quote": "Since virtue is concerned with passions and actions, and on voluntary passions and actions praise and blame are bestowed,",
+          "where": "Book III, 1 (câu mở đầu)"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html",
+          "quote": "and useful also for legislators with a view to the assigning both of honours and of punishments.",
+          "where": "Book III, 1 (cuối câu)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, dịch giả: Aristotle, *Đạo đức Nicomachus*, bản tiếng Anh của W. D. Ross",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html",
+          "quote": "Translated by W. D. Ross"
+        },
+        {
+          "url": "https://www.cambridge.org/core/journals/philosophy/article/abs/works-of-aristotle-ethica-nicomachea-translated-by-w-d-ross-ma-oxford-university-press-1925/25BA6FA41038C429882635E208CEC17F",
+          "quote": "The Works of Aristotle: Ethica Nicomachea. Translated by W. D. Ross, M.A. (Oxford University Press, 1925.)",
+          "where": "bài điểm sách, Philosophy 1(2), 1926"
+        }
+      ]
+    },
+    {
+      "text": "locator: Quyển III, chương 1, 1109b30–35",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "III.1, 1109b30–35 (tiêu đề mới ghi \"Quyển III, chương 1\", thiếu số Bekker)",
+      "sources": [
+        {
+          "url": "https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2:3.1/",
+          "quote": "τῆς ἀρετῆς δὴ περὶ πάθη τε καὶ πράξεις οὔσης",
+          "where": "bản Bywater trên Perseus: mốc 1109b 30 đứng trước câu này, mốc 35 trước \"τιμὰς καὶ τὰς κολάσεις\""
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html",
+          "quote": "Book III",
+          "where": "đề mục \"Book III\", \"1\" ngay trước câu trích"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Vì đức hạnh liên quan đến những xúc cảm và hành động, và lời khen, lời trách được dành cho những xúc cảm, hành động tự nguyện, còn sự tha thứ — và đôi khi cả lòng thương hại — được dành cho những gì không tự nguyện, nên việc phân biệt tự nguyện với không tự nguyện hẳn là cần thiết cho ai nghiên cứu bản chất của đức hạnh, và cũng hữu ích cho các nhà làm luật khi xét việc ban thưởng và trừng phạt.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html",
+          "quote": "on those that are involuntary pardon, and sometimes also pity,"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Ross (1925) — trích một câu, trong giới hạn 1–2 câu, không rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cambridge.org/core/journals/philosophy/article/abs/works-of-aristotle-ethica-nicomachea-translated-by-w-d-ross-ma-oxford-university-press-1925/25BA6FA41038C429882635E208CEC17F",
+          "quote": "(Oxford University Press, 1925.)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguyên văn khớp từng chữ với bản Ross trên MIT Internet Classics Archive. Bản dịch Ross của Đạo đức Nicomachus in năm 1925 (không phải 1908 — năm 1908 là bản Siêu hình học), nên thuộc phạm vi công cộng ở Hoa Kỳ nhưng còn bản quyền ở các nước tính đời tác giả + 70 năm (Ross mất 1971); chỉ trích một câu như hiện nay là ổn — đề xuất license: fair-use-short. Locator đề xuất: \"III.1, 1109b30–35\". work đang null: đề xuất aristotle.ethica-nicomachea (đã có trong kho works). Link đề xuất: https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html."
+}

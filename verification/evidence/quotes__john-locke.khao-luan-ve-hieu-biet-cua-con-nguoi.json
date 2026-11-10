@@ -1,0 +1,84 @@
+{
+  "unit": "quotes/john-locke.khao-luan-ve-hieu-biet-cua-con-nguoi",
+  "hash": "sha256:47b327cc3ef044695b13c6f6016416a6a6cde3654663c7add0d5f122d9a06728",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q03",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas:—How comes it to be furnished? […] Whence has it all the MATERIALS of reason and knowledge? To this I answer, in one word, from EXPERIENCE.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-i",
+          "quote": "Whence has it all the MATERIALS of reason and knowledge?",
+          "where": "Book II, Chapter I, § 2 — văn bản Gutenberg #10615 chép lại theo chương (trang ghi nguồn: Project Gutenberg, 2004)"
+        },
+        {
+          "url": "https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-i",
+          "quote": "To this I answer, in one word, from EXPERIENCE.",
+          "where": "Book II, Chapter I, § 2"
+        },
+        {
+          "url": "https://humanum.arts.cuhk.edu.hk/Philosophy/Locke/echu/lok0011.htm",
+          "quote": "To this I answer, in one word, from EXPERIENCE.",
+          "where": "Book II, Chapter I, § 2 (bản ILT/CUHK; bản này viết thường \"materials\")"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: John Locke, An Essay Concerning Human Understanding (Khảo luận về hiểu biết của con người), 1689",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "An Essay Concerning Human Understanding (1689)",
+          "where": "SEP, \"John Locke\" (Uzgalis), Fall 2026"
+        }
+      ]
+    },
+    {
+      "text": "locator: quyển II, chương 1, § 2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-i",
+          "quote": "2. All Ideas come from Sensation or Reflection.",
+          "where": "Book II, Chapter I"
+        },
+        {
+          "url": "https://humanum.arts.cuhk.edu.hk/Philosophy/Locke/echu/lok0011.htm",
+          "quote": "All ideas come from sensation or reflection.",
+          "where": "Book II, Chapter I, § 2"
+        }
+      ]
+    },
+    {
+      "text": "url https://www.gutenberg.org/ebooks/10615 là đúng tác phẩm (tập 1, gồm quyển I–II)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10615",
+          "quote": "An Essay Concerning Humane Understanding, Volume 1",
+          "where": "trang ebook: dựa trên lần in thứ 2, Books 1 and 2"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Vậy hãy giả sử tâm trí, như ta vẫn nói, là một tờ giấy trắng, không có chữ nào, không có ý niệm nào: làm sao nó được lấp đầy? […] Nó lấy đâu ra mọi VẬT LIỆU của lý trí và tri thức? Tôi xin trả lời bằng một chữ: từ KINH NGHIỆM.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-i",
+          "quote": "white paper, void of all characters, without any ideas"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Qua công cụ chỉ đọc được phần đầu ebook trên gutenberg.org (Quyển II nằm ngoài vùng đọc), nên đối chiếu từng chữ qua bản chép Gutenberg #10615 theo chương trên hackernoon.com (ghi nguồn Project Gutenberg 2004) và bản ILT/CUHK; cách viết \"MATERIALS\", \"EXPERIENCE\", \":—\" khớp Gutenberg (bản ILT viết thường \"materials\", gạch ngắn). Đoạn lược […] là câu \"Whence comes it by that vast store…\". Không có rủi ro bản quyền. Trường translator đang null — nên ghi \"logos\" nếu là bản dịch của Logos."
+}

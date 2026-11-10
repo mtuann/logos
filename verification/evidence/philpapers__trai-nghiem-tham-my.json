@@ -1,0 +1,114 @@
+{
+  "unit": "philpapers/trai-nghiem-tham-my",
+  "hash": "sha256:6491cbb6d624434cefaa8e34936cbe2bb9fefe8801d96014f308d3e79824cd94",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp04",
+  "claims": [
+    {
+      "text": "table = 2 (câu bổ sung): Trải nghiệm thẩm mỹ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2; câu \"Aesthetic experience\" in trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi \"Trải nghiệm thẩm mỹ\" dịch câu \"Aesthetic experience\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Aesthetic experience",
+          "where": "Bảng 2, dòng tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Aesthetic experience: perception, pleasure, or sui generis?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 690 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 685, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu Aesthetic experience"
+        }
+      ]
+    },
+    {
+      "text": "Tri giác (perception): 28,2; loại trừ 25,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Perception 193 28.2 171 25.0",
+          "where": "Bảng 2, câu Aesthetic experience"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "28.18%",
+          "where": "trang kết quả, câu Aesthetic experience, lựa chọn perception (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khoái cảm (pleasure): 14,2; loại trừ 11,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Pleasure 97 14.2 76 11.1",
+          "where": "Bảng 2, câu Aesthetic experience"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "14.16%",
+          "where": "trang kết quả, câu Aesthetic experience, lựa chọn pleasure (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Đặc thù riêng (*sui generis*) (sui generis): 37,2; loại trừ 35,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Sui generis 255 37.2 245 35.8",
+          "where": "Bảng 2, câu Aesthetic experience"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "37.23%",
+          "where": "trang kết quả, câu Aesthetic experience, lựa chọn sui generis (% bao gồm, hai chữ số lẻ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 24,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 167 24.4",
+          "where": "Bảng 2, câu Aesthetic experience"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 của bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tải PDF trực tiếp bị proxy chặn 403) và trang kết quả survey2020 (N, % hai chữ số lẻ). Các % trên trang web (trừ Other) khớp số in trong bài báo (lệch tối đa 0,05 điểm); dòng Other của trang web tính khác (28.18%) nên không dùng cho \"Khác\". Cột Exclusive của bài báo khớp pct_exclusive. n: trang web N = 685, bản ghi 690 (làm tròn nửa-lên). Lưu ý cách làm tròn số chẵn 5 trong lô không thống nhất: câu này 685 → 690, nhưng luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat 1025 → 1020 và mau-thuan-dung 925 → 920; cả hai cách đều trong sai số ≈ ±5, nên chọn một quy ước."
+}

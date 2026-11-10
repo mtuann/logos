@@ -1,0 +1,85 @@
+{
+  "unit": "quotes/epictetus.cam-nang",
+  "hash": "sha256:bae9e6eac9a7cbcf531be32859a13d4fa79a3aa5f5213e0c8c53e1b083be9db1",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản Long): “Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Selection-from-the-Discourses-of-Epictetus-with-the-Encheiridion_10661/master/10661.txt",
+          "quote": "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible,",
+          "where": "Gutenberg #10661 (bản sao git GITenberg), THE ENCHEIRIDION, mục V"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Selection-from-the-Discourses-of-Epictetus-with-the-Encheiridion_10661/master/10661.txt",
+          "quote": "for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.",
+          "where": "cùng mục V; khớp từng chữ, kể cả dấu câu"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-eng3.xml",
+          "quote": "but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates;",
+          "where": "Perseus, bản Long in lại (George Bell 1890), ch. 5 — chỉ khác dấu câu so với Gutenberg"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Epictetus, Cẩm nang (Encheiridion), bản dịch tiếng Anh của George Long (1877)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10661",
+          "quote": "A Selection from the Discourses of Epictetus with the Encheiridion",
+          "where": "trang ebook #10661; người dịch: Long, George, 1800-1879"
+        },
+        {
+          "url": "https://catalogue.nli.ie/Record/vtls000395259/Holdings",
+          "quote": "London : G. Bell, 1877.",
+          "where": "The Discourses of Epictetus: with the Encheiridion and Fragments, tr. George Long — năm in đầu 1877"
+        }
+      ]
+    },
+    {
+      "text": "locator: Encheiridion 5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-eng3.xml",
+          "quote": "<div type=\"textpart\" subtype=\"chapter\" n=\"5\"> <p>Men are disturbed not by the things which happen",
+          "where": "chương 5 bản Perseus; Gutenberg #10661 đánh số “V.”"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: “Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/GITenberg/A-Selection-from-the-Discourses-of-Epictetus-with-the-Encheiridion_10661/master/10661.txt",
+          "quote": "for the opinion about death that it is terrible, is the terrible thing.",
+          "where": "mục V; bản dịch sát từng vế"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch George Long 1877 — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://catalogue.nli.ie/Record/vtls000395259/Holdings",
+          "quote": "London : G. Bell, 1877.",
+          "where": "năm in; Gutenberg #10661 phát hành tự do"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "URL Gutenberg #10661 đúng tác phẩm (A Selection from the Discourses of Epictetus with the Encheiridion, dịch giả George Long). WebFetch chỉ đọc được ~120 nghìn ký tự đầu của bản txt nên đối chiếu từng chữ trên bản sao git của chính file Gutenberg (GITenberg) và bản Perseus. Đề xuất locator \"Encheiridion 5\" (= chương 5). Trường license có thể ghi public-domain."
+}

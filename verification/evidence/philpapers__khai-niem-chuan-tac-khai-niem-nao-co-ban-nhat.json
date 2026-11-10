@@ -1,0 +1,141 @@
+{
+  "unit": "philpapers/khai-niem-chuan-tac-khai-niem-nao-co-ban-nhat",
+  "hash": "sha256:28ce5d42c2ba6cd5f811f31ddaf93db2774966927520c1c9a6dd773efd5a1274",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Normative concepts (which is most fundamental?)",
+          "where": "Bảng 2, tên câu (tr. 12 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Normative concepts"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Khái niệm chuẩn tắc (khái niệm nào cơ bản nhất?) — dịch câu 'Normative concepts (which is most fundamental?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Normative concepts (which is most fundamental?)",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Normative concepts (which is most fundamental?): fit, ought, reasons, or value?",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 860 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 861, excluding skipped & insufficiently familiar (252 respondents)",
+          "where": "trang kết quả, câu Normative concepts"
+        }
+      ]
+    },
+    {
+      "text": "Sự phù hợp (*fit*) [Fit]: 7,3; Exclusive 5,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Fit 63 7.3 43 5.0",
+          "where": "Bảng 2, câu Normative concepts"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "7.32% (4.99%)",
+          "where": "trang kết quả, câu Normative concepts, lựa chọn Fit: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Phải (*ought*) [Ought]: 14,2; Exclusive 10,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Ought 122 14.2 91 10.6",
+          "where": "Bảng 2, câu Normative concepts"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "14.17% (10.57%)",
+          "where": "trang kết quả, câu Normative concepts, lựa chọn Ought: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Lý do (*reasons*) [Reasons]: 25,4; Exclusive 21,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Reasons 219 25.4 185 21.5",
+          "where": "Bảng 2, câu Normative concepts"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "25.44% (21.49%)",
+          "where": "trang kết quả, câu Normative concepts, lựa chọn Reasons: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Giá trị (*value*) [Value]: 37,4; Exclusive 32,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Value 322 37.4 282 32.8",
+          "where": "Bảng 2, câu Normative concepts"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "37.40% (32.75%)",
+          "where": "trang kết quả, câu Normative concepts, lựa chọn Value: % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 24,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 211 24.5",
+          "where": "Bảng 2, câu Normative concepts, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 861, làm tròn hàng chục là 860. Dòng Other của web (30.20%) tính khác, không dùng cho 'Khác'. 'Phải (*ought*)' khớp cách dịch 'ought' của dự án (từ điển: vấn đề \"là – phải\")."
+}

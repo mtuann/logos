@@ -1,0 +1,102 @@
+{
+  "unit": "philpapers/gia-tri-tham-my",
+  "hash": "sha256:ccc30d59e8bd3af55a189dbce609e6dbc482e5dd9facbd8d31aec8f95629f9f9",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Giá trị thẩm mỹ [Aesthetic value]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Aesthetic value",
+          "where": "Bảng 1, tiêu đề câu Aesthetic value"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Aesthetic value: objective or subjective?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Aesthetic value nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Aesthetic value"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1700",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1700, excluding skipped & insufficiently familiar (85 respondents)",
+          "where": "Aesthetic value"
+        }
+      ]
+    },
+    {
+      "text": "Khách quan [Objective]: 43,5; exclusive 40,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Objective 740 43.5 683 40.2",
+          "where": "Bảng 1, câu Aesthetic value (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "43.53% (40.18%)",
+          "where": "Aesthetic value, objective: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Chủ quan [Subjective]: 40,6; exclusive 37,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Subjective 690 40.6 632 37.2",
+          "where": "Bảng 1, câu Aesthetic value (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "40.59% (37.18%)",
+          "where": "Aesthetic value, subjective: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 18,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 322 18.9",
+          "where": "Bảng 1, câu Aesthetic value, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Cột Exclusive khớp số trong ngoặc trên trang web."
+}

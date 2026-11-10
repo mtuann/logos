@@ -1,0 +1,87 @@
+{
+  "unit": "philpapers/can-phong-tieng-trung",
+  "hash": "sha256:4b4a0474b0301f0b4b1ef1b7c371e139e496a44e2b94833394347d8700a34816",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Chinese room",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Căn phòng tiếng Trung — dịch câu 'Chinese room'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Chinese room",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1030",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1031, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Chinese room'"
+        }
+      ]
+    },
+    {
+      "text": "Hiểu [Understands]: 17,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Understands 184 17.8",
+          "where": "Bảng 2, khối 'Chinese room'"
+        }
+      ]
+    },
+    {
+      "text": "Không hiểu [Doesn’t understand]: 67,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Doesn’t understand 692 67.1",
+          "where": "Bảng 2, khối 'Chinese room'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 14,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 154 14.9",
+          "where": "Bảng 2, khối 'Chinese room'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 1031, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (15,13%) tính khác, không dùng cho 'Khác'. Understands (chấp nhận): web ghi 17,85%, số chính xác 184/1031 = 17,847% nên một chữ số là 17,8 như bài báo (làm tròn lại từ 17,85 sẽ ra 17,9). PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

@@ -94,7 +94,7 @@ Tuy nhiên, có ba câu hỏi *gần nhất* với chủ đề bài, và các co
 | | Khác | [[pp:cay-cau-day-nguoi.khac]] |
 | "Phải" kéo theo "có thể" (*ought implies can*) — câu bổ sung, n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] | Có | [[pp:phai-keo-theo-co-the-ought-implies-can.co]] |
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
-| | Khác | 9,0 |
+| | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

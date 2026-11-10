@@ -1,0 +1,91 @@
+{
+  "unit": "philpapers/khai-niem",
+  "hash": "sha256:fcf28c1a27a011e4d47258f261f603b0ab9775e29d1bee0b03b74ca45ab89f79",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp05",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Concepts",
+          "where": "Table 2, giữa nhóm Chinese room và Consciousness (tr. 10 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Khái niệm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Concepts",
+          "where": "Table 2, nhóm Concepts (tr. 10 theo số in chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Concepts: nativism or empiricism?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 860",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 858, excluding skipped & insufficiently familiar",
+          "where": "câu Concepts"
+        }
+      ]
+    },
+    {
+      "text": "Bẩm sinh luận (nativism): 28,1; Exclusive 23,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nativism 241 28.1 200 23.3",
+          "where": "Table 2, nhóm Concepts (tr. 10 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Duy nghiệm luận (empiricism): 50,3; Exclusive 45,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Empiricism 432 50.3 387 45.1",
+          "where": "Table 2, nhóm Concepts (tr. 10 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 25,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 215 25.1",
+          "where": "Table 2, nhóm Concepts (tr. 10 theo số in chân trang)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. Bài báo không in tổng n; N = 858 trên trang web khớp số đếm trong bảng (241/858 = 28,09%). Trang web (hai chữ số lẻ): Nativism 28.09% (23.31%), Empiricism 50.35% (45.10%). Lưu ý làm tròn: Empiricism trên web là 50.35% (làm tròn thẳng sẽ ra 50,4) nhưng bài báo in 50.3 vì 432/858 = 50,3497%; bản ghi theo bài báo là đúng. Dòng Other của web (31.59%) tính khác, không dùng cho 'Khác'. 'Duy nghiệm luận' đúng thuật ngữ bắt buộc (data/style/terms-policy.yml: empiricism → duy nghiệm luận)."
+}

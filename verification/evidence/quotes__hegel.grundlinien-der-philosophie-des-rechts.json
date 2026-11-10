@@ -1,0 +1,85 @@
+{
+  "unit": "quotes/hegel.grundlinien-der-philosophie-des-rechts",
+  "hash": "sha256:bf50a848877edef3a482189fe58bea24512fd5154151a04bee7e3b7c86b148da",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản dịch Dyde): “When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=%22paints%20its%20grey%22",
+          "quote": "in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known.",
+          "where": "OCR bản Dyde 1896 (archive.org cu31924014578979), trang quét 37, ngay sau “When philosophy paints its grey”"
+        },
+        {
+          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=%22owl%20of%20Minerva%22",
+          "quote": "takes its flight only when the shades of night are gathering.",
+          "where": "trang quét 37, ngay sau “The owl of Minerva”; không có dấu phẩy sau “Minerva”, khớp từng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Hegel, Grundlinien der Philosophie des Rechts, bản dịch tiếng Anh của S. W. Dyde (1896) (work: hegel.grundlinien-der-philosophie-des-rechts)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/cu31924014578979",
+          "quote": "Dyde, Samuel Walters, 1862- tr",
+          "where": "metadata.creator; title “Hegel's Philosophy of right”, date “1896”, publisher “London, G. Bell and sons”"
+        },
+        {
+          "url": "https://www.canadiana.ca/view/oocihm.50473",
+          "quote": "Translation of Grundlinien der Philosophie des Rechts.",
+          "where": "Canadiana oocihm.50473, mục Notes; Published “London : G. Bell, 1896.”"
+        }
+      ]
+    },
+    {
+      "text": "locator: Lời tựa (đề ngày 25/6/1820)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=1820",
+          "quote": "Berlin, June 25th,",
+          "where": "dòng ký “Berlin, June 25th, 1820.” cuối Lời tựa của tác giả, cùng trang quét 37 với đoạn trích"
+        },
+        {
+          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=PREFACE",
+          "quote": "But it is time to close this",
+          "where": "trang quét 37; trang quét 36 có tiêu đề chạy “AUTHORS PREFACE. XXIX”, tức đoạn trích ở tr. xxx"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt: “Khi triết học tô màu xám lên nền xám, thì một hình thái của đời sống đã già cỗi; bằng màu xám, triết học không làm nó trẻ lại được, mà chỉ hiểu được nó. Con cú của thần Minerva chỉ cất cánh khi bóng đêm buông xuống.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia601806.us.archive.org/fulltext/inside.php?item_id=cu31924014578979&doc=cu31924014578979&path=/20/items/cu31924014578979&q=%22paints%20its%20grey%22",
+          "quote": "in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known.",
+          "where": "bản Việt sát nghĩa; chuyển câu bị động sang chủ động (“triết học không làm nó trẻ lại được”) không đổi ý"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Dyde in năm 1896 (London: G. Bell), hết hạn bản quyền ở Mỹ (in trước 1931); trích hai câu, không có rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.canadiana.ca/view/oocihm.50473",
+          "quote": "London : G. Bell, 1896.",
+          "where": "dòng Published"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Vị trí chi tiết có thể ghi thêm: Author's Preface, tr. xxx bản Dyde 1896 (đoạn áp chót của Lời tựa). Archive.org và Canadiana không ghi tuyên bố phạm vi công cộng rõ ràng; kết luận bản quyền dựa trên năm in 1896."
+}

@@ -1,0 +1,92 @@
+{
+  "unit": "philpapers/ky-thuat-di-truyen-tren-nguoi",
+  "hash": "sha256:6b6769a882caf183673d075dc0eb70eeeab7613d5361c2e9f447987dc6d55d61",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Human genetic engineering",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Kỹ thuật di truyền trên người — dịch câu 'Human genetic engineering'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Human genetic engineering",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Human genetic engineering: permissible or impermissible?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1060",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1059, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Human genetic engineering'"
+        }
+      ]
+    },
+    {
+      "text": "Được phép [Permissible]: 64,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Permissible 680 64.2",
+          "where": "Bảng 2, khối 'Human genetic engineering'"
+        }
+      ]
+    },
+    {
+      "text": "Không được phép [Impermissible]: 19,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Impermissible 206 19.5",
+          "where": "Bảng 2, khối 'Human genetic engineering'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 16,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 171 16.1",
+          "where": "Bảng 2, khối 'Human genetic engineering'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 1059, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (16,34%) tính khác, không dùng cho 'Khác'. PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

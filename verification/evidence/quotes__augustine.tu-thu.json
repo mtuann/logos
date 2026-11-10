@@ -1,0 +1,88 @@
+{
+  "unit": "quotes/augustine.tu-thu",
+  "hash": "sha256:991a02c2e4442ecfdb0a79f3f63605a22163196790f54640994993739108327d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html",
+          "quote": "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself,",
+          "where": "BOOK I, đoạn đầu"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html",
+          "quote": "and our heart is restless, until it repose in Thee."
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, dịch giả, năm: Augustine, *Tự thú* (*Confessions*) — bản dịch tiếng Anh của Edward B. Pusey (1838)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "Pusey, E. B. (Edward Bouverie), 1800-1882",
+          "where": "trường Translator"
+        },
+        {
+          "url": "https://findingaugustine.org/Record/66217",
+          "quote": "John Henry Parker",
+          "where": "The Confessions of St. Augustine, Oxford, 1838, Library of the Fathers tập I"
+        }
+      ]
+    },
+    {
+      "text": "locator: quyển I, chương 1 (I.1.1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://faculty.georgetown.edu/jod/augustine/Pusey/book01",
+          "quote": "1.1.1",
+          "where": "nhãn đoạn đứng trước câu trích trong bản Pusey của J. J. O'Donnell"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Ngài đánh thức chúng con để chúng con vui sướng ca ngợi Ngài; vì Ngài đã dựng nên chúng con cho Ngài, và lòng chúng con khắc khoải cho tới khi được nghỉ yên trong Ngài.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://faculty.georgetown.edu/jod/augustine/Pusey/book01",
+          "quote": "and our heart is restless, until it repose in Thee."
+        }
+      ]
+    },
+    {
+      "text": "url: https://www.gutenberg.org/ebooks/3296 trỏ đúng bản Pusey của Confessions",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "The Confessions of St. Augustine"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Pusey thuộc phạm vi công cộng — không rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khớp từng chữ với Gutenberg #3296 và bản Pusey của J. J. O'Donnell (Georgetown, nhãn 1.1.1). Locator đề xuất: \"I.1.1\". work đang null: đề xuất augustine.confessiones. Đề xuất license: public-domain."
+}

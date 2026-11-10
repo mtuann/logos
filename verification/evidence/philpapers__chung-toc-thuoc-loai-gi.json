@@ -1,0 +1,93 @@
+{
+  "unit": "philpapers/chung-toc-thuoc-loai-gi",
+  "hash": "sha256:ecff105e49c1d322b47222ce590863a06eb353dbd3e2b72bcd89544b61fa29bf",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Race\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Chủng tộc thuộc loại gì?\" (dịch câu \"Race\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Race: biological, social, or unreal?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1650 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1649, excluding skipped & insufficiently familiar (136 respondents)",
+          "where": "khối kết quả câu \"Race\""
+        }
+      ]
+    },
+    {
+      "text": "Sinh học (biological): 18,7; exclusive 11,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Biological 308 18.7 189 11.5",
+          "where": "Bảng 1, câu \"Race\""
+        }
+      ]
+    },
+    {
+      "text": "Xã hội (social): 63,4; exclusive 52,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Social 1046 63.4 871 52.8",
+          "where": "Bảng 1, câu \"Race\""
+        }
+      ]
+    },
+    {
+      "text": "Không có thật (unreal): 15,0; exclusive 11,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Unreal 248 15.0 188 11.4",
+          "where": "Bảng 1, câu \"Race\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 13,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 219 13.3",
+          "where": "Bảng 1, câu \"Race\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu \"Race\" của Bảng 1 (Bảng 2 có câu khác là \"Race categories\"); bản ghi đúng bảng. Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo."
+}

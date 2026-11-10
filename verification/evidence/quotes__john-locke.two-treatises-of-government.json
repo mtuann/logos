@@ -1,0 +1,64 @@
+{
+  "unit": "quotes/john-locke.two-treatises-of-government",
+  "hash": "sha256:a65d1da1ba9d1bbf1120cfb14ef1a027702734c18505f43692a277839edfaedf",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q03",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370-images.html",
+          "quote": "every man has a property in his own person: this no body has any right to but himself.",
+          "where": "Second Treatise, CHAPTER. V. OF PROPERTY., Sect. 27."
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370-images.html",
+          "quote": "The labour of his body, and the work of his hands, we may say, are properly his.",
+          "where": "Sect. 27."
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: John Locke, Two Treatises of Government (1689)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "The Two Treatises of Government were published in 1689",
+          "where": "SEP, \"John Locke\" (Uzgalis), Fall 2026"
+        }
+      ]
+    },
+    {
+      "text": "locator: § 27 (tiêu đề không nói rõ thuộc khảo luận thứ hai; khảo luận thứ nhất cũng có § 27)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Second Treatise (khảo luận thứ hai), chương V \"Of Property\", § 27",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370-images.html",
+          "quote": "Sect. 27. Though the earth, and all inferior creatures, be common to",
+          "where": "SECOND TREATISE OF GOVERNMENT, CHAPTER. V. OF PROPERTY."
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Mỗi người đều có quyền sở hữu đối với chính bản thân mình: không ai ngoài anh ta có quyền gì đối với nó. Công sức lao động của thân thể anh ta, và thành quả của đôi tay anh ta, có thể nói là thuộc về anh ta một cách chính đáng.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7370/pg7370-images.html",
+          "quote": "we may say, are properly his."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu gốc là \"…yet every man has a property in his own person…\"; trích bắt đầu giữa câu bằng chữ thường là đúng. Gutenberg #7370 là Second Treatise theo bản 1764. Đề xuất URL ổn định: https://www.gutenberg.org/ebooks/7370. Không có rủi ro bản quyền."
+}

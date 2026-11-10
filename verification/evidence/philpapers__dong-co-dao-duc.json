@@ -1,0 +1,102 @@
+{
+  "unit": "philpapers/dong-co-dao-duc",
+  "hash": "sha256:5fb00b6304aeba8b7e3ccda7769c524c84ad24a0f122073a41eae76578beb30a",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Động cơ đạo đức [Moral motivation]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moral motivation",
+          "where": "Bảng 1, tiêu đề câu Moral motivation"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Moral motivation: internalism or externalism?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Moral motivation nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Moral motivation"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1430",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1429, excluding skipped & insufficiently familiar (356 respondents)",
+          "where": "Moral motivation"
+        }
+      ]
+    },
+    {
+      "text": "Nội tại luận [Internalism]: 41,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Internalism 586 41.0",
+          "where": "Bảng 1, câu Moral motivation (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "41.01% (38.14%)",
+          "where": "Moral motivation, internalism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Ngoại tại luận [Externalism]: 39,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Externalism 562 39.3",
+          "where": "Bảng 1, câu Moral motivation (cột n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "39.33% (36.60%)",
+          "where": "Moral motivation, externalism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 22,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 315 22.0",
+          "where": "Bảng 1, câu Moral motivation, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Bài báo không in cột Exclusive cho câu này (không lựa chọn nào lệch từ 3% trở lên), khớp pct_exclusive null."
+}

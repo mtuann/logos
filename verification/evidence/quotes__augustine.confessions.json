@@ -1,0 +1,96 @@
+{
+  "unit": "quotes/augustine.confessions",
+  "hash": "sha256:b6fd3c1d9f2a40e9bdf286c8b3cd79362d1064be43e6896e667d3b141f428d7e",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://faculty.georgetown.edu/jod/augustine/Pusey/book11",
+          "quote": "What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not: yet I say boldly",
+          "where": "đoạn 11.14.17 (bản Pusey do J. J. O'Donnell đăng)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, dịch giả: Augustine, *Confessions*, bản tiếng Anh của Edward Pusey, 1838",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "Pusey, E. B. (Edward Bouverie), 1800-1882",
+          "where": "trường Translator, ebook #3296 The Confessions of St. Augustine"
+        },
+        {
+          "url": "https://findingaugustine.org/Record/66217",
+          "quote": "Library of the Fathers",
+          "where": "The Confessions of St. Augustine, Oxford: John Henry Parker, 1838, tập I"
+        },
+        {
+          "url": "https://ccat.sas.upenn.edu/gopher/text/medieval/Augustine/readme",
+          "quote": "contain E.B. Pusey's nineteenth century translation of Augustine's Confessions",
+          "where": "readme của bộ file O'Donnell (cùng bộ với bản Georgetown)"
+        }
+      ]
+    },
+    {
+      "text": "locator: Quyển XI, chương 14 (XI.14.17)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://faculty.georgetown.edu/jod/augustine/Pusey/book11",
+          "quote": "11.14.17",
+          "where": "nhãn đoạn đứng trước câu trích"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Vậy thời gian là gì? Nếu không ai hỏi tôi, tôi biết; nếu tôi muốn giải thích cho người hỏi, tôi không biết.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://faculty.georgetown.edu/jod/augustine/Pusey/book11",
+          "quote": "if I wish to explain it to one that asketh, I know not"
+        }
+      ]
+    },
+    {
+      "text": "work: chua-ro.confessions",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "augustine.confessiones (bản ghi chua-ro.confessions chỉ là bí danh same_as: augustine.confessiones, author null)",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "Augustine, of Hippo, Saint, 354-430",
+          "where": "trường Author"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Pusey (1838) thuộc phạm vi công cộng — không rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/3296",
+          "quote": "Public domain in the USA."
+        },
+        {
+          "url": "https://ccat.sas.upenn.edu/gopher/text/medieval/Augustine/readme",
+          "quote": "safely out of copyright"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu gốc chưa dứt ở \"I know not\" (tiếp theo là \": yet I say boldly…\"); bản ghi cắt và đặt dấu chấm — chấp nhận được, có thể thay bằng \"I know not…\". Đoạn Quyển XI nằm ngoài phần trang Gutenberg #3296 mà công cụ đọc được, nên đối chiếu ở bản Pusey của J. J. O'Donnell (Georgetown), cùng văn bản với Gutenberg (đoạn Quyển I khớp cả hai). Locator đề xuất: \"XI.14.17\". Đề xuất license: public-domain; link: https://www.gutenberg.org/ebooks/3296."
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "philpapers/noi-dung-ngu-nghia-bieu-thuc-nao-phu-thuoc-ngu-canh",
+  "hash": "sha256:a6d7706b88a7638972f287dfac7b865a4c843161e8e5449094bd6f06936970c1",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp06",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Semantic content (which expressions are context-dependent?)",
+          "where": "Bảng 2, tên câu (tr. 14 theo số chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional questions",
+          "where": "trang kết quả, mục chứa câu Semantic content"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Nội dung ngữ nghĩa (biểu thức nào phụ thuộc ngữ cảnh?) — dịch câu 'Semantic content (which expressions are context-dependent?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Semantic content (which expressions are context-dependent?)",
+          "where": "Bảng 2, tên câu"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Semantic content (which expressions are context-dependent?): minimalism (no more than a few),",
+          "where": "trang kết quả, tên câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 780 (làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 779, excluding skipped & insufficiently familiar (367 respondents)",
+          "where": "trang kết quả, câu Semantic content"
+        }
+      ]
+    },
+    {
+      "text": "Tối thiểu luận (*minimalism*): không quá vài biểu thức [Minimalism (no more than a few)]: 9,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Minimalism (no more than a few) 73 9.4",
+          "where": "Bảng 2, câu Semantic content"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "9.37% (8.99%)",
+          "where": "trang kết quả, câu Semantic content, lựa chọn Minimalism (no more than a few): % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Ngữ cảnh luận vừa phải (*moderate contextualism*): mức trung gian [Moderate contextualism (intermediate)]: 52,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moderate contextualism (intermedi-",
+          "where": "Bảng 2, câu Semantic content (dòng bị ngắt chữ, mảnh 1)"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "ate) 409 52.5",
+          "where": "Bảng 2, câu Semantic content (dòng bị ngắt chữ, mảnh 2)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "52.50% (51.86%)",
+          "where": "trang kết quả, câu Semantic content, lựa chọn Moderate contextualism (intermediate): % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Ngữ cảnh luận triệt để (*radical contextualism*): phần lớn hoặc tất cả [Radical contextualism (most or all)]: 25,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Radical contextualism (most or all) 199 25.5",
+          "where": "Bảng 2, câu Semantic content"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "25.55% (25.03%)",
+          "where": "trang kết quả, câu Semantic content, lựa chọn Radical contextualism (most or all): % bao gồm (% loại trừ)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 13,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 102 13.1",
+          "where": "Bảng 2, câu Semantic content, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 2 bài báo (PhilArchive BOUPOP-3, đọc qua WebFetch; tên câu và dòng Other trích hai lần độc lập, khớp) và trang kết quả survey2020 (N, % hai chữ số lẻ), cả hai mở trong phiên. Mọi % (và Exclusive nếu có) của bảng bằng n/N với N của trang web, làm tròn một chữ số; % trên web khớp. N = 779, làm tròn hàng chục là 780. Bài báo không in cột Exclusive cho câu này, khớp pct_exclusive null. Làm tròn hai lần: web in 25.55% cho radical contextualism, làm tròn tiếp sẽ ra 25,6, nhưng 199/779 = 25,546% nên 25,5 là đúng. Dòng Other của web (14.12%) tính khác, không dùng cho 'Khác'. Nhãn dùng đúng thuật ngữ bắt buộc 'ngữ cảnh luận'; phần sau dấu hai chấm dịch đúng chú giải trong ngoặc của bài báo. Dòng 'Moderate contextualism' bị ngắt chữ trong PDF nên trích hai mảnh liền nhau."
+}

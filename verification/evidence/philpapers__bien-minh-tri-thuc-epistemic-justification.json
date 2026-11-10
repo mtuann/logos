@@ -1,0 +1,102 @@
+{
+  "unit": "philpapers/bien-minh-tri-thuc-epistemic-justification",
+  "hash": "sha256:967b3754df0565a60d8626e81a56df6dec3242d4a1dbcd9a290d7e7ed971ded8",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Biện minh tri thức (*epistemic justification*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Epistemic justification",
+          "where": "Bảng 1, tiêu đề câu Epistemic justification"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Epistemic justification: internalism or externalism?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Epistemic justification nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Epistemic justification"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1620",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1621, excluding skipped & insufficiently familiar (164 respondents)",
+          "where": "Epistemic justification"
+        }
+      ]
+    },
+    {
+      "text": "Nội tại luận [Internalism]: 35,7; exclusive 30,4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Internalism 579 35.7 493 30.4",
+          "where": "Bảng 1, câu Epistemic justification (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "35.72% (30.41%)",
+          "where": "Epistemic justification, internalism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Ngoại tại luận [Externalism]: 50,5; exclusive 45,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Externalism 819 50.5 735 45.3",
+          "where": "Bảng 1, câu Epistemic justification (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "50.52% (45.34%)",
+          "where": "Epistemic justification, externalism: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 18,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 292 18.0",
+          "where": "Bảng 1, câu Epistemic justification, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in; số hai chữ số lẻ trên trang web làm tròn khớp bài báo. Cột Exclusive khớp số trong ngoặc trên trang web."
+}

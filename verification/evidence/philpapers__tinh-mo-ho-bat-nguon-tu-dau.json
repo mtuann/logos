@@ -1,0 +1,93 @@
+{
+  "unit": "philpapers/tinh-mo-ho-bat-nguon-tu-dau",
+  "hash": "sha256:2724a04494729c680a49077cfd73892e3d0a63ff184705db0bd4f1ee0c75986e",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp02",
+  "claims": [
+    {
+      "text": "table: 1 (câu chính, Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 1, câu \"Vagueness\" (Bảng 1 có 40 câu chính; câu này không có trong Bảng 2)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: \"Tính mơ hồ (bắt nguồn từ đâu?)\" (dịch câu \"Vagueness\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Vagueness: epistemic, metaphysical, or semantic?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1430 (số người trả lời câu, làm tròn hàng chục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1431, excluding skipped & insufficiently familiar (354 respondents)",
+          "where": "khối kết quả câu \"Vagueness\""
+        }
+      ]
+    },
+    {
+      "text": "Tri thức (ở chỗ ta không biết) (epistemic): 24,2; exclusive 16,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Epistemic 346 24.2 233 16.3",
+          "where": "Bảng 1, câu \"Vagueness\""
+        }
+      ]
+    },
+    {
+      "text": "Siêu hình (ở chính sự vật) (metaphysical): 20,8; exclusive 15,2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Metaphysical 298 20.8 217 15.2",
+          "where": "Bảng 1, câu \"Vagueness\""
+        }
+      ]
+    },
+    {
+      "text": "Ngữ nghĩa (ở ngôn từ) (semantic): 52,1; exclusive 42,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Semantic 746 52.1 609 42.6",
+          "where": "Bảng 1, câu \"Vagueness\""
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 15,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 223 15.6",
+          "where": "Bảng 1, câu \"Vagueness\", dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trang survey2020 (% hai chữ số lẻ) làm tròn ra đúng các số bài báo. \"(bắt nguồn từ đâu?)\" trong tiêu đề và các chú giải trong ngoặc ở nhãn là lời giải thích thêm, bảng không in; đúng ý ba lập trường: mơ hồ do ta không biết ranh giới, do chính sự vật, do ngôn từ."
+}

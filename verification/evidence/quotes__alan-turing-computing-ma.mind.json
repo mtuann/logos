@@ -1,0 +1,81 @@
+{
+  "unit": "quotes/alan-turing-computing-ma.mind",
+  "hash": "sha256:eb077b02e43f030bd47ea472793b9d804c2d886ac29d4b9cca82a6f38a55550f",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"I propose to consider the question, 'Can machines think?' This should begin with definitions of the meaning of the terms 'machine' and 'think'.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "I propose to consider the question, ‘Can machines think?’",
+          "where": "trích đoạn mở đầu bài, mục 1"
+        },
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "This should begin with definitions of the meaning of the terms ‘machine’ and ‘think’.",
+          "where": "câu thứ hai của bài"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, năm: Alan Turing, “Computing Machinery and Intelligence”, *Mind*, 1950",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "I.—COMPUTING MACHINERY AND INTELLIGENCE",
+          "where": "tiêu đề bài; tác giả A. M. TURING; Mind LIX (236), 433–460"
+        },
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "01 October 1950",
+          "where": "dòng Published"
+        }
+      ]
+    },
+    {
+      "text": "locator: §1 “The Imitation Game”, tr. 433 (Mind 59, số 236, tr. 433–460)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "§1 “The Imitation Game”, tr. 433",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "1. The Imitation Game",
+          "where": "đề mục ngay trước hai câu được trích; đây là trang đầu của bài (tr. 433)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Tôi đề nghị xem xét câu hỏi: 'Máy có thể suy nghĩ không?' Việc này lẽ ra phải bắt đầu bằng định nghĩa nghĩa của các từ 'máy' và 'suy nghĩ'.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "This should begin with definitions of the meaning of the terms ‘machine’ and ‘think’."
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: trích 2 câu của bài báo 1950 còn bản quyền — nằm trong giới hạn 1–2 câu, không rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+          "quote": "© Oxford University Press",
+          "where": "chân trang bài"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguyên văn khớp từng chữ với trang nhà xuất bản (OUP, DOI 10.1093/mind/LIX.236.433); trang dùng ngoặc đơn cong, bản ghi dùng ngoặc thẳng — không đáng kể. Tiêu đề chưa có vị trí: đề xuất locator \"§1 “The Imitation Game”, tr. 433\". Bài còn bản quyền nên chỉ nên trích ngắn như hiện nay; đề xuất license: fair-use-short. Kho works chưa có bản ghi cho bài này (work: null). Link ổn định đề xuất: https://doi.org/10.1093/mind/LIX.236.433."
+}

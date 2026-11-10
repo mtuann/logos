@@ -1,0 +1,92 @@
+{
+  "unit": "philpapers/nguyen-tac-dao-duc",
+  "hash": "sha256:07a3ddd828410437ddfbca712fddde30f61daa4e8eb08eb24c9888ab29c9f11b",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moral principles",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Nguyên tắc đạo đức — dịch câu 'Moral principles'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moral principles",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Moral principles: moral generalism or moral particularism?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 980",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 984, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Moral principles'"
+        }
+      ]
+    },
+    {
+      "text": "Phổ quát luận đạo đức (*generalism*) [Moral generalism]: 54,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moral generalism 537 54.6",
+          "where": "Bảng 2, khối 'Moral principles'"
+        }
+      ]
+    },
+    {
+      "text": "Đặc thù luận đạo đức (*particularism*) [Moral particularism]: 33,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Moral particularism 332 33.7",
+          "where": "Bảng 2, khối 'Moral principles'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 12,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 127 12.9",
+          "where": "Bảng 2, khối 'Moral principles'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 984, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (15,04%) tính khác, không dùng cho 'Khác'. PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

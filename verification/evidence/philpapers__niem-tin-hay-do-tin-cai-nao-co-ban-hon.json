@@ -1,0 +1,104 @@
+{
+  "unit": "philpapers/niem-tin-hay-do-tin-cai-nao-co-ban-hon",
+  "hash": "sha256:b31f159a7216f0a7562d2801a004148d695cc5c6195eb1256340dcf4f23c2db5",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp03",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Belief or credence (which is more fundamental?)",
+          "where": "tiêu đề khối câu trong Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Niềm tin hay độ tin (cái nào cơ bản hơn?) — dịch câu 'Belief or credence (which is more fundamental?)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Belief or credence (which is more fundamental?)",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Belief or credence (which is more fundamental?): belief, credence, or neither?",
+          "where": "trang kết quả, tiêu đề câu"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 770",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 774, excluding skipped & insufficiently familiar",
+          "where": "trang kết quả, câu 'Belief or credence (which is more fundamental?)'"
+        }
+      ]
+    },
+    {
+      "text": "Niềm tin [Belief]: 30,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Belief 237 30.6",
+          "where": "Bảng 2, khối 'Belief or credence (which is more fundamental?)'"
+        }
+      ]
+    },
+    {
+      "text": "Độ tin (*credence*) [Credence]: 31,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Credence 242 31.3",
+          "where": "Bảng 2, khối 'Belief or credence (which is more fundamental?)'"
+        }
+      ]
+    },
+    {
+      "text": "Không cái nào [Neither]: 19,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Neither 151 19.5",
+          "where": "Bảng 2, khối 'Belief or credence (which is more fundamental?)'"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 19,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 149 19.3",
+          "where": "Bảng 2, khối 'Belief or credence (which is more fundamental?)'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Mọi số % của bài báo (kể cả dòng Other) bằng n/N với N = 774, làm tròn một chữ số; các lựa chọn trừ Other khớp % hai chữ số lẻ trên trang web. Dòng Other của web (19,9%) tính khác, không dùng cho 'Khác'. PDF đọc qua WebFetch (proxy chặn philarchive.org với curl); dòng thô chép hai lần độc lập, khớp từng số."
+}

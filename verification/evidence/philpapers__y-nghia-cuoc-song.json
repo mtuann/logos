@@ -1,0 +1,119 @@
+{
+  "unit": "philpapers/y-nghia-cuoc-song",
+  "hash": "sha256:1ce79fc032784131036d8266c0dc758cc5c974d154b9755350e45f192b395c62",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp01",
+  "claims": [
+    {
+      "text": "title_vi: Ý nghĩa cuộc sống [Meaning of life]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Meaning of life",
+          "where": "Bảng 1, tiêu đề câu Meaning of life"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Meaning of life: subjective, objective, or nonexistent?",
+          "where": "Main questions"
+        }
+      ]
+    },
+    {
+      "text": "table: 1 (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Main questions: respondents who accept or lean toward each answer",
+          "where": "chú thích Bảng 1 (Table 1); câu Meaning of life nằm trong Bảng 1"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main questions",
+          "where": "mục chứa câu Meaning of life"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 1730",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 1725, excluding skipped & insufficiently familiar (60 respondents)",
+          "where": "Meaning of life"
+        }
+      ]
+    },
+    {
+      "text": "Chủ quan [Subjective]: 33,0; exclusive 28,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Subjective 570 33.0 489 28.3",
+          "where": "Bảng 1, câu Meaning of life (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "33.04% (28.35%)",
+          "where": "Meaning of life, subjective: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khách quan [Objective]: 32,1; exclusive 27,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Objective 553 32.1 476 27.6",
+          "where": "Bảng 1, câu Meaning of life (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "32.06% (27.59%)",
+          "where": "Meaning of life, objective: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Không tồn tại [Nonexistent]: 16,1; exclusive 14,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Nonexistent 278 16.1 257 14.9",
+          "where": "Bảng 1, câu Meaning of life (cột n %, Exclusive n %)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "16.12% (14.90%)",
+          "where": "Meaning of life, nonexistent: inclusive (exclusive)"
+        }
+      ]
+    },
+    {
+      "text": "Khác [Other]: 23,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 407 23.6",
+          "where": "Bảng 1, câu Meaning of life, dòng Other"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu Bảng 1 bài báo (PhilArchive BOUPOP-3, cột n %) và trang kết quả survey2020 (N, % hai chữ số lẻ, mở trong phiên). Mọi n/N của bảng làm tròn đúng ra % đã in. Cột Exclusive khớp số trong ngoặc trên trang web. Trang web in exclusive 28,35% cho subjective; làm tròn kiểu 'nửa lên' từ số này sẽ ra 28,4, nhưng 489/1725 = 28,348% nên 28,3 của bài báo (và bản ghi) đúng. N = 1725 nằm đúng điểm giữa; n ≈ 1730 theo làm tròn nửa lên."
+}

@@ -1,0 +1,87 @@
+{
+  "unit": "quotes/jeremy-bentham.an-introduction-to-the-principles-of-mor",
+  "hash": "sha256:106788db2a42b2957cc71089d276fa64655ff6839ed93a05d18802a5a00fdd84",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q03",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"The question is not, Can they reason? nor, Can they talk? but, Can they suffer?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "the question is not, Can they reason? nor, Can they talk? but, Can they suffer?",
+          "where": "Chapter XVII, § 1, đoạn IV, chú thích 122 (Oxford: Clarendon Press 1907, in lại bản 1823)"
+        },
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "But suppose the case were otherwise, what would it avail?",
+          "where": "câu đứng ngay trước câu trích, cùng chú thích 122"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Jeremy Bentham, An Introduction to the Principles of Morals and Legislation, chương 17",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "stand degraded into the class of things.",
+          "where": "Chapter XVII \"Of the Limits of the Penal Branch of Jurisprudence\", § 1, đoạn IV — chỗ gắn chú thích 122"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1789 (tiêu đề ghi \"chương 17, 1789\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "The First Edition of this work was printed in the year 1780; and first published in 1789.",
+          "where": "lời dẫn của bản Clarendon 1907"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương XVII, § 1, đoạn IV, chú thích (tiêu đề chỉ ghi \"chương 17\")",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "chương XVII, § 1, đoạn IV, chú thích (chú thích 122 trong bản Clarendon 1907 trên EconLib)",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "What other agents then are there",
+          "where": "đầu đoạn IV của § 1, chương XVII; câu trích nằm trong chú thích 122 gắn vào đoạn này, không ở thân bài"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Vấn đề không phải là, chúng có biết suy luận không? cũng không phải là, chúng có biết nói không? mà là, chúng có biết đau khổ không?\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "Can they reason? nor, Can they talk? but, Can they suffer?"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: nguyên văn in năm 1780, xuất bản 1789 (phạm vi công cộng); bản dịch của Logos — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19",
+          "quote": "printed in the year 1780; and first published in 1789."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Câu trích nằm trong chú thích (không ở thân bài) của chương XVII, § 1, đoạn IV. Nguyên văn viết thường \"the question is not…\" vì nối sau \"what would it avail?\"; viết hoa \"The\" ở đầu trích là chấp nhận được. Đề xuất ghi URL ổn định: https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19 (Liberty Fund, bản Clarendon 1907 in lại bản 1823)."
+}

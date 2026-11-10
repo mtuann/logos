@@ -1,0 +1,103 @@
+{
+  "unit": "philpapers/ly-thuyet-quy-chieu",
+  "hash": "sha256:c445fa3eb35dd588d6ea34e76c840e46a81c35d1c807f976ae64c2575003fe34",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-pp05",
+  "claims": [
+    {
+      "text": "table: 2 (câu bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "chú thích Bảng 2"
+        },
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Theory of reference",
+          "where": "Table 2, giữa nhóm Temporal ontology và Time travel (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "title_vi: Lý thuyết quy chiếu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Theory of reference",
+          "where": "Table 2, nhóm Theory of reference (tr. 14 theo số in chân trang)"
+        },
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Theory of reference: causal, descriptive, or deflationary?"
+        }
+      ]
+    },
+    {
+      "text": "n ≈ 880",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://survey2020.philpeople.org/survey/results/all",
+          "quote": "N = 877, excluding skipped & insufficiently familiar",
+          "where": "câu Theory of reference"
+        }
+      ]
+    },
+    {
+      "text": "Nhân quả (causal): 46,3; Exclusive 41,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Causal 406 46.3 360 41.0",
+          "where": "Table 2, nhóm Theory of reference (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Mô tả (descriptive): 22,1; Exclusive 17,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Descriptive 194 22.1 149 17.0",
+          "where": "Table 2, nhóm Theory of reference (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Giảm phát (deflationary): 15,1; Exclusive 14,0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Deflationary 132 15.1 123 14.0",
+          "where": "Table 2, nhóm Theory of reference (tr. 14 theo số in chân trang)"
+        }
+      ]
+    },
+    {
+      "text": "Khác (Other): 21,6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://philarchive.org/archive/BOUPOP-3",
+          "quote": "Other 189 21.6",
+          "where": "Table 2, nhóm Theory of reference (tr. 14 theo số in chân trang)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "PDF đọc qua WebFetch (proxy chặn tải trực tiếp philarchive.org), hai lần trích độc lập cho cùng số. Bài báo không in tổng n; N = 877 trên trang web khớp số đếm trong bảng (406/877 = 46,29%). Trang web (hai chữ số lẻ): Causal 46.29% (41.05%), Descriptive 22.12% (16.99%), Deflationary 15.05% (14.03%). Lưu ý làm tròn: Exclusive của Causal trên web là 41.05% (làm tròn thẳng sẽ ra 41,1) nhưng bài báo in 41.0 vì 360/877 = 41,049%; bản ghi theo bài báo là đúng. Dòng Other của web (27.94%) tính khác, không dùng cho 'Khác'. 'Giảm phát' khớp thuật ngữ 'thuyết giảm phát' trong từ điển dự án."
+}
