@@ -2,14 +2,21 @@
   "unit": "sources/sach.hick-john-1966-evil-and-the-god-of-love-london-macmillan",
   "hash": "sha256:69abd16614f42e6fe8bb2a2d060b1d9b473363469a0e4cebe0b8d78ef7bfe545",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
       "text": "Hick, John (1966), Evil and the God of Love, London: Macmillan",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL3684486W/editions.json?limit=30",
+          "quote": "Evil and the God of love. | 1966 | Macmillan | London",
+          "where": "edition OL17157102M (cũng OL6015628M: 1966, Macmillan, London/Melbourne); tác giả John Harwood Hick"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Internet Archive chỉ cho thấy bản Harper & Row 1978 (evilgodoflove0000hick_q3o1) và bản in lại Palgrave Macmillan 2010 có lời tựa mới (evilgodoflove0000hick_r7a0); chưa thấy bản 1966 Macmillan London. Cần nguồn thư viện (mục 'bwb_KU-597-312' chưa mở)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): Open Library liệt kê bản 1966 Macmillan, London (OL17157102M, OL6015628M); cũng có bản Harper & Row (New York, 1966), Fontana 1974, Palgrave Macmillan in lại. Quote chép theo các trường title/publish_date/publishers/publish_places của bản ghi (ghép từ JSON). Link đề xuất: https://openlibrary.org/books/OL17157102M"
 }

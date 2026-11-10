@@ -2,25 +2,26 @@
   "unit": "sources/sach.regan-tom-1983-the-case-for-animal-rights-berkeley-universit",
   "hash": "sha256:cbd55270e93b6c454cc20512e291aeea79a8f8af27d24d1f853bd9b35832d147",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r20",
   "claims": [
     {
-      "text": "Regan, The Case for Animal Rights, University of California Press",
+      "text": "Regan (1983), The Case for Animal Rights, Berkeley: University of California Press",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://openlibrary.org/works/OL4472427W/editions.json?limit=60",
+          "quote": "University of California Press",
+          "where": "Open Library, ấn bản Berkeley 1983, ISBN 0520049047 (OL3159424M)"
+        },
+        {
           "url": "https://www.ucpress.edu/books/the-case-for-animal-rights/paper",
-          "quote": "University of California Press"
+          "quote": "University of California Press",
+          "where": "lượt kiểm trước"
         }
       ]
-    },
-    {
-      "text": "năm 1983 và Berkeley",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang UC Press (bản 2004) không ghi 1983; Google Books ISBN 9780520049987 trả sai sách. Cần nguồn xác nhận 1983. Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Open Library: UC Press, Berkeley, 1983 (cũng có Routledge & Kegan Paul, London, 1984). Link đề xuất: https://openlibrary.org/books/OL3159424M hoặc trang UC Press."
 }

@@ -2,14 +2,26 @@
   "unit": "sources/sach.mac-tu-han-phi-tu-ban-dich-tieng-anh-mot-phan-trong-ivanhoe",
   "hash": "sha256:1441f47b5cf527f5b69427efc998ceffdcc172bfee76b868ee1f5ad2931fa2b1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "*Mặc Tử*; *Hàn Phi Tử* — bản dịch tiếng Anh một phần trong Ivanhoe & Van Norden (2005), sđd.",
+      "text": "Bản dịch tiếng Anh một phần Mặc Tử và Hàn Phi Tử trong Ivanhoe & Van Norden (2005), Readings in Classical Chinese Philosophy",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL17742879W/editions.json?limit=10",
+          "quote": "edited by Philip J. Ivanhoe and Bryan W. Van Norden.",
+          "where": "Open Library: Readings in classical Chinese philosophy, 2005, Hackett, 2nd ed."
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=readings+in+classical+chinese+philosophy&author=ivanhoe",
+          "quote": "Mozi",
+          "where": "Open Library liệt kê tác giả/văn bản: Confucius, Mencius, Mozi, Zhuangzi, Xunzi, Han Fei"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Mục tham chiếu 'sđd' (sách đã dẫn) — nên ghi đủ tên sách ở mục này. Chỉ xác nhận ở mức Open Library (sách, biên tập viên, Hackett 2005 lần in 2, có Mozi và Han Fei trong danh sách tác giả); chưa mở mục lục chi tiết. Link đề xuất: https://openlibrary.org/works/OL17742879W"
 }

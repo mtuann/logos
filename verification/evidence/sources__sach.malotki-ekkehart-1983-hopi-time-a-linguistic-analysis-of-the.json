@@ -2,14 +2,45 @@
   "unit": "sources/sach.malotki-ekkehart-1983-hopi-time-a-linguistic-analysis-of-the",
   "hash": "sha256:7d2b0faa9a3824dc25c188d4d1d892507f650a653697f2cf04747008a5433bf4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Malotki, Ekkehart (1983), *Hopi Time: A Linguistic Analysis of the Temporal Concepts in the Hopi Language*, Berlin: Mouton.",
+      "text": "Tác giả Ekkehart Malotki, năm 1983",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL3008161W",
+          "quote": "Ekkehart Malotki; first_publish_year 1983",
+          "where": "Open Library search.json"
+        }
+      ]
+    },
+    {
+      "text": "Tên sách: Hopi Time: A Linguistic Analysis of the Temporal Concepts in the Hopi Language",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL3160575M",
+          "quote": "Hopi time | a linguistic analysis of the temporal concepts in the Hopi language",
+          "where": "Open Library editions.json"
+        }
+      ]
+    },
+    {
+      "text": "Nhà xuất bản Mouton, Berlin",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL3160575M",
+          "quote": "Mouton Publishers | 1983 | Berlin/New York",
+          "where": "Open Library editions.json"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Open Library ghi nơi in 'Berlin/New York' (Mouton Publishers), 1983; bản số hóa De Gruyter 2011. Link ổn định đề xuất: https://openlibrary.org/books/OL3160575M hoặc trang De Gruyter (DOI 10.1515/9783110822908 chưa kiểm). Chưa mở trang NXB."
 }

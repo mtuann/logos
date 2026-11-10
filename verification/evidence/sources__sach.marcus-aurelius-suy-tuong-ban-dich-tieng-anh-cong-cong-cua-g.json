@@ -2,14 +2,33 @@
   "unit": "sources/sach.marcus-aurelius-suy-tuong-ban-dich-tieng-anh-cong-cong-cua-g",
   "hash": "sha256:0d109d883e6edd9d4f0f1b7f1eb808e02853b0dd6c7616751f6ceb2a2595edf3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.",
+      "text": "Có bản dịch tiếng Anh công cộng của George Long (Marcus Aurelius)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/15877",
+          "quote": "Translator Long, George, 1800-1879 Title Thoughts of Marcus Aurelius Antoninus",
+          "where": "Project Gutenberg ebook 15877"
+        }
+      ]
+    },
+    {
+      "text": "Long dịch năm 1862",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2680",
+          "quote": "George Long, 1862",
+          "where": "lời giới thiệu trong ebook 2680 (danh sách các bản dịch tiếng Anh)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Lưu ý: Gutenberg #2680 (tên 'Meditations') KHÔNG phải bản Long (văn bản mở đầu 'Of my grandfather Verus I have learned...'); bản Long là #15877, tựa Long dùng là 'Thoughts'. Link ổn định đề xuất: https://www.gutenberg.org/ebooks/15877. Mục ghi 'Suy tưởng' là tên tiếng Việt, không kiểm."
 }

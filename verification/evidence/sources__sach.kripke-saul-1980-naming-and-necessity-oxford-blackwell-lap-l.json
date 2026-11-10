@@ -2,14 +2,33 @@
   "unit": "sources/sach.kripke-saul-1980-naming-and-necessity-oxford-blackwell-lap-l",
   "hash": "sha256:4983bc3924261193bd62541c2db741f399bfeb1c40dde77bb616c9f2531a11b9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "Kripke, Saul (1980), *Naming and Necessity*, Oxford: Blackwell (lập luận về tưởng tượng và khả hữu, dùng trong phản bác bước 2 của lập luận zombie).",
+      "text": "Kripke, Naming and Necessity, năm 1980, Blackwell",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL6447860W/editions.json?limit=40",
+          "quote": "Naming and necessity|1980|Basil Blackwell",
+          "where": "danh sách bản in; cũng có bản Harvard University Press 1980"
+        }
+      ]
+    },
+    {
+      "text": "Kripke dùng lập luận khả hữu/tưởng tượng (conceivability) liên quan zombie, bước 'cái gì tưởng tượng được thì khả hữu'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zombies/",
+          "quote": "Whatever is conceivable is possible.",
+          "where": "mục 3.1; cùng đoạn: '(Kripke used a similar argument in his 1972/80.')"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): sách ra lần đầu 1972 (trong bộ Semantics of Natural Language, Davidson & Harman), in sách riêng 1980 (Basil Blackwell, Oxford; Harvard UP cùng năm). Mục ghi 1980 Oxford: Blackwell là đúng cho bản sách (nơi in Oxford không ghi trong OL, chưa kiểm). SEP zombies ghi 'Kripke 1972/80', nên có thể ghi cả 1972/1980. Link đề xuất: https://openlibrary.org/works/OL6447860W"
 }

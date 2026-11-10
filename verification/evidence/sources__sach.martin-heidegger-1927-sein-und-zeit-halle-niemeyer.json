@@ -2,14 +2,33 @@
   "unit": "sources/sach.martin-heidegger-1927-sein-und-zeit-halle-niemeyer",
   "hash": "sha256:9c329c5d4a683e0e4f96d2254a57c7eab8102299b7e3be99bec4d410926489a9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.",
+      "text": "Heidegger, Sein und Zeit, 1927",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL77609W",
+          "quote": "Sein und Zeit; Martin Heidegger; first_publish_year 1927",
+          "where": "Open Library search.json"
+        }
+      ]
+    },
+    {
+      "text": "Halle: Niemeyer",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL20744875M",
+          "quote": "M. Niemeyer | 1927 | Halle a. d. S",
+          "where": "Open Library editions.json"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Có thêm bản Niemeyer Halle 1929 và 1931 (Erste Hälfte) trong Open Library; bản 1927 là bản in gốc (Jahrbuch für Philosophie und phänomenologische Forschung VIII, cũng 1927, chưa kiểm). Link ổn định đề xuất: https://openlibrary.org/books/OL20744875M."
 }

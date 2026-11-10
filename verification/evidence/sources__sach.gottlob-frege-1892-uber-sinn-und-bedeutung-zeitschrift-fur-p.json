@@ -2,14 +2,25 @@
   "unit": "sources/sach.gottlob-frege-1892-uber-sinn-und-bedeutung-zeitschrift-fur-p",
   "hash": "sha256:6458115ab47289ac84e93123d19977354dcce9997b4f45099700bffa4962fc5f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
       "text": "Frege (1892), Über Sinn und Bedeutung, Zeitschrift für Philosophie und philosophische Kritik 100",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "1892a\t‘Über Sinn und Bedeutung’, in Zeitschrift für Philosophie und philosophische Kritik, 100: 25–50",
+          "where": "SEP Frege (fall2026), Bibliography"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "Frege’s seminal paper in the philosophy of language is ‘Über Sinn und Bedeutung’ (‘On Sense and Reference’, 1892a)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa mở được nguồn (Wikisource de không có URL thử; Internet Archive có bản ghi 'de-c39cber_sinn_und_-jan_schreiber', không mở được metadata). Cần người kiểm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): SEP (bản lưu fall2026) khớp tên, năm, tạp chí, tập 100; mục nên thêm trang 25–50. Wikisource de không có trang cùng tên (404). Link đề xuất: https://plato.stanford.edu/archives/fall2026/entries/frege/ (thư mục) hoặc bản quét Internet Archive/Wikisource nếu người làm tìm được."
 }

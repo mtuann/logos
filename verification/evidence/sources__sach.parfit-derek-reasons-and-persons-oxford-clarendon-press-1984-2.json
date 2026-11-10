@@ -2,38 +2,38 @@
   "unit": "sources/sach.parfit-derek-reasons-and-persons-oxford-clarendon-press-1984-2",
   "hash": "sha256:729f8a7dcbaac5a1685228ac898fd76369a6be3e0ca9eb548721778a91ee715c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r20",
   "claims": [
     {
-      "text": "Tác giả Derek Parfit; tên Reasons and Persons",
+      "text": "Tác giả Derek Parfit; tên Reasons and Persons; năm 1984",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://api.crossref.org/works?query.bibliographic=Parfit+Reasons+and+Persons&rows=3",
-          "quote": "Reasons and Persons; Derek Parfit",
-          "where": "DOI 10.1093/019824908x.001.0001"
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28reasons+and+persons%29+AND+creator%3Aparfit&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&fl%5B%5D=publisher&rows=10&output=json",
+          "quote": "\"publisher\":\"Oxford [Oxfordshire] ; New York : Clarendon Press\",\"title\":\"Reasons and persons\",\"year\":1984",
+          "where": "Internet Archive trent_0116300637661"
         }
       ]
     },
     {
-      "text": "Năm 1984, Oxford University Press",
+      "text": "Nhà xuất bản Clarendon Press (imprint của Oxford University Press)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/entries/identity-personal/",
-          "quote": "Parfit, D., 1984, Reasons and Persons. Oxford: Oxford University Press.",
-          "where": "thư mục SEP Personal Identity"
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28reasons+and+persons%29+AND+creator%3Aparfit&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&fl%5B%5D=publisher&rows=10&output=json",
+          "quote": "Clarendon Press",
+          "where": "Internet Archive: Oxford [Oxfordshire] ; New York : Clarendon Press, 1984"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Reasons%20and%20Persons%22+Parfit+%22Appendix%20J%22+Buddha",
+          "quote": "Oxford : Clarendon Press , 1984",
+          "where": "đoạn trích Google Books của sách khác trích dẫn Parfit"
         }
       ]
-    },
-    {
-      "text": "Nhà xuất bản ghi Clarendon Press (Clarendon là imprint của OUP; chưa mở nguồn nêu 'Clarendon Press' 1984)",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref ghi năm 1986 (bản in lại/online) nhưng SEP ghi 1984, khớp record. Cách ghi nên thống nhất: Oxford: Oxford University Press (như SEP), hoặc Clarendon Press nếu thống nhất toàn site; hai cách là cùng nhà xuất bản (Clarendon là imprint của OUP). Link ổn định đề xuất: https://doi.org/10.1093/019824908x.001.0001"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Internet Archive ghi bản Clarendon Press 1984 (trent_0116300637661, mượn trực tuyến); Open Library có hai bản 1984 (Clarendon Press; Oxford University Press, ISBN 0198246153) và bản in lại 1986 (ISBN 019824908X). Hai cách ghi nhà xuất bản là cùng một nhà (Clarendon là imprint của OUP); nên thống nhất một cách. Link ổn định đề xuất: https://doi.org/10.1093/019824908x.001.0001 (hoặc https://openlibrary.org/books/OL3172889M)."
 }

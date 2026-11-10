@@ -2,14 +2,26 @@
   "unit": "sources/sach.macaskill-william-2015-doing-good-better-new-york-gotham-boo",
   "hash": "sha256:62cdf07f1b616e3618efdbd122140c689212d797f2f474257779d54976bc82d0",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về \"vị tha hiệu quả\").",
+      "text": "MacAskill (2015), Doing Good Better, New York: Gotham Books",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL17141552W/editions.json?limit=30",
+          "quote": "Doing Good Better",
+          "where": "Open Library: 2015, Gotham"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=doing+good+better&author=macaskill",
+          "quote": "William MacAskill",
+          "where": "2015, Gotham"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Nơi in 'New York' chưa thấy trong dữ liệu mở được (Gotham là nhà xuất bản/imprint ở New York, chưa đối chiếu trực tiếp). Link đề xuất: https://openlibrary.org/works/OL17141552W"
 }

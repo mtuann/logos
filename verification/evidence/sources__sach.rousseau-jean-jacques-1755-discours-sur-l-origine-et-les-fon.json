@@ -2,14 +2,33 @@
   "unit": "sources/sach.rousseau-jean-jacques-1755-discours-sur-l-origine-et-les-fon",
   "hash": "sha256:bfd7232cc9de4df8e0661a5f628070b6821e5487fb48134e3081e84e1557be57",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.",
+      "text": "Rousseau, Discours sur l'origine et les fondements de l'inégalité parmi les hommes, năm 1755",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/0019203323",
+          "quote": "Amsterdam - Marc-Michel Rey -1755",
+          "where": "kết quả tìm DuckDuckGo, mục CCFr (BnF)"
+        }
+      ]
+    },
+    {
+      "text": "Tên tác phẩm khớp bản Wikisource tiếng Pháp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Discours_sur_l’origine_et_les_fondements_de_l’inégalité_parmi_les_hommes",
+          "quote": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes",
+          "where": "tiêu đề trang, thấy trong kết quả tìm; không mở trực tiếp"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): in lần đầu Amsterdam, Marc-Michel Rey, 1755 (CCFr/BnF). Open Library chỉ xác nhận có nhiều ấn bản. Link ổn định đề xuất: https://fr.wikisource.org/wiki/Discours_sur_l’origine_et_les_fondements_de_l’inégalité_parmi_les_hommes (hoặc bản Gallica/BnF). Chưa mở trực tiếp trang Wikisource trong phiên; nguồn CCFr lấy từ kết quả tìm."
 }

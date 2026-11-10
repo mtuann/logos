@@ -2,31 +2,62 @@
   "unit": "sources/sach.mortimer-j-adler-va-charles-van-doren-how-to-read-a-book-ban",
   "hash": "sha256:252de58e288d3ddd08d8371aa38fe7e1205431d2a4321bf9b886ce8f2617c0ff",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Mortimer J. Adler, How to Read a Book, bản gốc 1940, bản sửa 1972",
+      "text": "Mortimer J. Adler, How to Read a Book, bản gốc 1940",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/biography/Mortimer-J-Adler",
-          "quote": "How to Read a Book (1940; rev. ed. 1972)",
-          "where": "Britannica, tiểu sử Adler (nguồn bách khoa, không phải trang NXB)"
+          "url": "https://openlibrary.org/works/OL487444W",
+          "quote": "How to Read a Book; The Art of Getting a Liberal Education; Mortimer J. Adler; first_publish_year 1940",
+          "where": "Open Library search.json"
         }
       ]
     },
     {
-      "text": "Charles Van Doren là đồng tác giả (bản 1972)",
+      "text": "Bản 1972 do Adler và Charles Van Doren, Simon and Schuster",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL5300355M",
+          "quote": "by Mortimer J. Adler and Charles Van Doren",
+          "where": "Open Library edition JSON: by_statement; publish_date 1972; Simon and Schuster"
+        }
+      ]
     },
     {
-      "text": "Bốn cấp độ đọc: sơ cấp, đọc lướt có hệ thống (inspectional), phân tích, đối chiếu (syntopical)",
+      "text": "Nhà xuất bản Simon & Schuster (Touchstone), Van Doren đồng tác giả",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094",
+          "quote": "How to Read a Book By Mortimer J. Adler and Charles Van Doren",
+          "where": "trang nhà xuất bản"
+        }
+      ]
+    },
+    {
+      "text": "Sách nói về các cấp độ đọc, gồm đọc sơ cấp và đọc lướt có hệ thống/đọc kiểm tra (một phần của khẳng định bốn cấp độ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094",
+          "quote": "from elementary reading, through systematic skimming and inspectional reading",
+          "where": "trang nhà xuất bản"
+        }
+      ]
+    },
+    {
+      "text": "Hai cấp còn lại là đọc phân tích (analytical) và đọc đối chiếu/đồng chủ đề (syntopical), và 'phải nắm cấu trúc, hiểu đúng ý tác giả rồi mới phê phán' ở cấp phân tích",
       "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang Simon & Schuster, Open Library và Google Books không mở được trong phiên. Link ổn định đề xuất: trang NXB Simon & Schuster (Touchstone) ISBN 9780671212094 hoặc archive.org. Mục không ghi nhà xuất bản; nên bổ sung 'New York: Simon & Schuster (1972)'. Chưa có bằng chứng mở cho đồng tác giả và bốn cấp độ."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Không mở được toàn văn (Internet Archive hạn chế mượn, Google Books API hết hạn mức, trang NXB chỉ tóm tắt hai cấp đầu). Còn claim cấp analytical/syntopical và thứ tự 'hiểu rồi mới phê phán'. Mục không ghi NXB; nên bổ sung 'New York: Simon & Schuster (1972)'. Link ổn định đề xuất: https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9780671212094 (ISBN 9780671212094)."
 }

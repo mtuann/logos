@@ -2,7 +2,7 @@
   "unit": "sources/sach.paley-william-1802-natural-theology-or-evidences-of-the-exis",
   "hash": "sha256:f1a724dd294ca968c900d387d223243211208773265765244fe22490006737f3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
       "text": "William Paley, Natural Theology, năm 1802",
@@ -10,18 +10,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/biography/William-Paley",
-          "quote": "Natural Theology (1802)",
-          "where": "Britannica, tiểu sử Paley"
+          "url": "https://archive.org/details/naturaltheologyo0000pale",
+          "quote": "London : Wilks and Taylor",
+          "where": "Internet Archive advancedsearch: Paley, William, 1743-1805; year 1802"
         }
       ]
     },
     {
-      "text": "Tên đầy đủ 'Natural Theology; or, Evidences of the Existence and Attributes of the Deity' (chưa mở bản in/ebook nêu nguyên tên)",
+      "text": "Tên đầy đủ: Natural Theology; or, Evidences of the Existence and Attributes of the Deity (phụ đề 'collected from the appearances of nature')",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/naturaltheologyo1802pale",
+          "quote": "Natural theology : or, Evidences of the existence and attributes of the Deity, collected from the appearances of nature.",
+          "where": "Internet Archive advancedsearch: tựa bản Philadelphia 1802, J. Morgan/H. Maxwell"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Gutenberg/Internet Archive không tra được trong phiên (tìm kiếm Gutenberg bị chặn, số ebook đoán sai). Sách trước 1927: đề xuất Gutenberg hoặc archive.org, người làm tìm số ebook/bản chụp. Nhà xuất bản gốc (J. Faulder, London) mục không ghi."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Bản in London 1802: J. Faulder (Open Library; bản Internet Archive 'naturaltheologyo0000pale' ghi Wilks and Taylor, có thể là bản in sau; chưa kiểm). Mục không ghi NXB gốc, có thể thêm 'London: R. Faulder, 1802'. Link ổn định đề xuất: https://archive.org/details/naturaltheologyo1802pale (bản Philadelphia 1802, tựa đầy đủ) hoặc https://openlibrary.org/works/OL3716636W. Chưa mở trang chi tiết, chỉ đọc siêu dữ liệu."
 }

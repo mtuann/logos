@@ -2,14 +2,21 @@
   "unit": "sources/sach.rosch-heider-eleanor-1972-universals-in-color-naming-and-mem",
   "hash": "sha256:ff49647c9f1c5f26e6bc5151fc515e46141b6aeba0199bef5ff202b9b4667d61",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Rosch Heider (1972), Universals in Color Naming and Memory, J. Exp. Psychol. 93(1): 10-20",
+      "text": "Rosch Heider (1972), Universals in Color Naming and Memory, J. Exp. Psychol. 93(1): 10–20",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1037/h0032606",
+          "quote": "Universals in color naming and memory.",
+          "where": "title; container Journal of Experimental Psychology; volume 93, issue 1, page 10-20, issued 1972; author Eleanor R. Heider"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "psycnet bị chặn robots, Crossref bị chặn; đề xuất DOI 10.1037/h0032606 (chưa mở được trong phiên). Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): Crossref ghi tác giả 'Eleanor R. Heider' (tên thời đó; sau là Rosch). Nhà xuất bản APA. Link ổn định đề xuất: https://doi.org/10.1037/h0032606"
 }

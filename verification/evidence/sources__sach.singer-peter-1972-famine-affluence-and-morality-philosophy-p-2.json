@@ -2,14 +2,21 @@
   "unit": "sources/sach.singer-peter-1972-famine-affluence-and-morality-philosophy-p-2",
   "hash": "sha256:5d66669888d4e5c10d9080d398a21c6e036080919a6fc289e0205d7b047f6c3b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
       "text": "Singer, Peter (1972), \"Famine, Affluence, and Morality\", *Philosophy & Public Affairs*, vol. 1, no. 3, tr. 229–243.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2265052",
+          "quote": "Vol. 1, No. 3 (Spring, 1972), pp. 229-243 (15 pages)",
+          "where": "trang JSTOR; tác giả Peter Singer; Published By: Wiley"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): JSTOR stable 2265052 khớp tác giả, tên, tập/số, năm, trang. Link ổn định đề xuất: https://www.jstor.org/stable/2265052 (có thể kèm DOI nếu Wiley cấp). Nguồn là bài báo (không phải sách) dù khóa ghi 'sach'."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/sach.ibn-rushd-on-the-harmony-of-religion-and-philosophy-kitab-fa",
   "hash": "sha256:6ca4d875b28ae88e65e9b1b19bed3a2f3e1fc97ea46b1651d46b32bf41cc92ab",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
       "text": "Ibn Rushd, On the Harmony of Religion and Philosophy, bản dịch George F. Hourani, London: Luzac",
@@ -11,20 +11,40 @@
       "sources": [
         {
           "url": "https://archive.org/metadata/averroesonharmon0000geor/metadata",
-          "quote": "Averroes: On the Harmony of Religion and Philosophy"
+          "quote": "Luzac & Co.",
+          "where": "creator George F. Hourani; date 1961-01-01"
         },
         {
-          "url": "https://archive.org/metadata/averroesonharmon0000geor/metadata",
-          "quote": "Luzac & Co."
+          "url": "https://www.google.com/books/feeds/volumes?q=hourani+averroes+harmony+religion+philosophy+gibb+memorial+luzac&max-results=6",
+          "quote": "On the Harmony of Religion and Philosophy. A Translation, with Introduction and Notes, of Ibn Rushd's Kitāb Faṣl Al-maqāl",
+          "where": "Google Books, 1961"
         }
       ]
     },
     {
-      "text": "Kitab fasl al-maqal; E. J. W. Gibb Memorial series",
+      "text": "Kitab fasl al-maqal là nguyên bản được dịch",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=hourani+averroes+harmony+religion+philosophy+gibb+memorial+luzac&max-results=6",
+          "quote": "Ibn Rushd's Kitāb Faṣl Al-maqāl, with Its Appendix, Damīma"
+        }
+      ]
+    },
+    {
+      "text": "E. J. W. Gibb Memorial (series)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=hourani+averroes+harmony+religion+philosophy+gibb+memorial+luzac&max-results=6",
+          "quote": "E. J. W. Gibb Memorial Series and International Commission for the Translation of Great Works . London : Luzac & Co. , 1961",
+          "where": "Google Books, trích dẫn trong sách của Peter Heath (UPenn Press, 2010)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Internet Archive: Hourani, Luzac & Co., 1961 (mục nên thêm năm 1961; tên Latin hóa 'Averroes' trên bìa). Link đề xuất: https://archive.org/details/averroesonharmon0000geor"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): sách có thật, Hourani dịch, Luzac & Co., London, 1961 (Internet Archive/Open Library: 146 tr.; Google Books 128 tr.). Mục nên thêm năm 1961 và tên series đầy đủ 'E. J. W. Gibb Memorial Series' (nguồn series là một sách khác trích dẫn: nguồn gián tiếp). Link đề xuất: https://archive.org/details/averroesonharmon0000geor"
 }

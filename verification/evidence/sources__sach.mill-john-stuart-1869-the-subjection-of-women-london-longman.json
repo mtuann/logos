@@ -2,19 +2,33 @@
   "unit": "sources/sach.mill-john-stuart-1869-the-subjection-of-women-london-longman",
   "hash": "sha256:51789119aa6ee3c7f6fcb710590a7cf43a74ae9c2126ed2ff953a1b2abf533ba",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Mill, John Stuart, The Subjection of Women, 1869",
+      "text": "Mill, The Subjection of Women, 1869",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/subjectionofwome00millrich",
+          "quote": "The subjection of women",
+          "where": "Internet Archive advancedsearch: creator Mill, John Stuart, 1806-1873; year 1869"
+        }
+      ]
     },
     {
       "text": "London: Longmans, Green, Reader, and Dyer",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/subjectionofwome00millrich",
+          "quote": "London : Longmans, Green, Reader, and Dyer",
+          "where": "Internet Archive advancedsearch: publisher"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn xác nhận: SEP (feminism-liberal bị cắt, mill không liệt kê riêng), Gutenberg/Wikisource không tìm đúng trang, archive.org bị chặn. Sách có thật, xuất bản 1869 (theo hiểu biết chung, chưa có nguồn mở). Đề xuất link: Gutenberg hoặc Internet Archive bản Longmans 1869; người làm tự tìm số ebook."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Link ổn định đề xuất: https://archive.org/details/subjectionofwome00millrich (bản chụp 1869 của Longmans). Chưa mở trang chi tiết, chỉ đọc siêu dữ liệu từ truy vấn advancedsearch của Internet Archive."
 }

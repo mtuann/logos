@@ -2,14 +2,21 @@
   "unit": "sources/sach.siderits-mark-2007-buddhism-as-philosophy-indianapolis-hacke",
   "hash": "sha256:63e372415eac66ad6d049338b721b7488581c7edd194107088e3575a8c4c60c4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Siderits, Mark (2007), *Buddhism as Philosophy*, Indianapolis: Hackett.",
+      "text": "Siderits (2007), Buddhism as Philosophy, Indianapolis: Hackett",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL4086621W/editions.json",
+          "quote": "Indianapolis",
+          "where": "edition OL17855321M: title Buddhism as philosophy, an introduction; Mark Siderits; publishers include Hackett Pub. Co.; publish_date 2007"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): tên đầy đủ có phụ đề 'An Introduction'; cùng năm có bản Ashgate (Aldershot). Link ổn định đề xuất: https://openlibrary.org/books/OL9489709M (Hackett, 2007)"
 }

@@ -2,14 +2,33 @@
   "unit": "sources/sach.kinh-chuyen-phap-luan-dhammacakkappavattana-sutta-bai-giang",
   "hash": "sha256:3f5dd77fb856a14335751f876b822b4a78862feea19cf8a84a81d09c9aa7745e",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "*Kinh Chuyển pháp luân* (*Dhammacakkappavattana Sutta*) — bài giảng đầu tiên của Đức Phật về Tứ diệu đế, trong *Tương ưng bộ kinh*.",
+      "text": "Dhammacakkappavattana Sutta là bài giảng đầu tiên của Đức Phật, về Tứ diệu đế",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/suttas/sn56.11/sujato?lang=en",
+          "quote": "The famous first discourse, taught at Varanasi to the group of five ascetics.",
+          "where": "blurb của SuttaCentral cho SN 56.11; blurb cũng nêu 'four noble truths'"
+        }
+      ]
+    },
+    {
+      "text": "nằm trong Saṁyutta Nikāya (Tương ưng bộ kinh), SN 56.11",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/suttas/sn56.11/sujato?lang=en",
+          "quote": "SN 56.11",
+          "where": "acronym; uid sn56.11 (SN = Saṁyutta Nikāya); tựa Dhammacakkappavattanasutta, 'Rolling Forth the Wheel of Dhamma'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): đúng. Kinh cũng nằm trong Vinaya Mahāvagga; tên Việt 'Kinh Chuyển pháp luân' không kiểm riêng. Link đề xuất: https://suttacentral.net/sn56.11"
 }

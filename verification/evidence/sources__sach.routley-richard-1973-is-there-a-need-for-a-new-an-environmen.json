@@ -2,14 +2,26 @@
   "unit": "sources/sach.routley-richard-1973-is-there-a-need-for-a-new-an-environmen",
   "hash": "sha256:0e9d477678ebdf5214f81c821d0dcf7e8c1fe431888ce2d914d0303156049961",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Routley, Richard (1973), \"Is There a Need for a New, an Environmental Ethic?\", *Proceedings of the XVth World Congress of Philosophy* 1: 205–210.",
+      "text": "Routley (1973), Is There a Need for a New, an Environmental Ethic, Proceedings of the XVth World Congress of Philosophy 1: 205–210",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.pdcnet.org/wcp15/content/wcp15_1973_0001_0205_0210",
+          "quote": "Volume 1, 1973 Richard Routley Pages 205-210 https://doi.org/10.5840/wcp151973136",
+          "where": "kết quả tìm DuckDuckGo, trang PDC"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.5840/wcp151973136",
+          "quote": "Is There a Need for a New, an Environmental Ethic",
+          "where": "title; container Proceedings of the XVth World Congress of Philosophy; issued 1973; page 205-210"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): tiêu đề trên PDC/Crossref không có dấu hỏi cuối (mục ghi có '?', lỗi nhẹ). Link ổn định đề xuất: https://doi.org/10.5840/wcp151973136. Trang PDC chỉ thấy qua kết quả tìm, Crossref mở trực tiếp."
 }

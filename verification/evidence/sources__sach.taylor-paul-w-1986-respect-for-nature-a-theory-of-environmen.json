@@ -2,14 +2,21 @@
   "unit": "sources/sach.taylor-paul-w-1986-respect-for-nature-a-theory-of-environmen",
   "hash": "sha256:d6f220cb66d1bc2cde8a24c6a9f5868357ca031a9a83ade95e7b39cbd180e8cd",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
       "text": "Taylor, Paul W. (1986), *Respect for Nature: A Theory of Environmental Ethics*, Princeton: Princeton University Press.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=respect+for+nature&author=paul+taylor",
+          "quote": "\"first_publish_year\":1986",
+          "where": "Open Library works/OL5114774W: Respect for nature, Paul W. Taylor, publisher Princeton University Press"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): Open Library khớp tác giả, tên, 1986, Princeton University Press (ISBN 0691077096). Phụ đề 'A Theory of Environmental Ethics' không có trong trường tên của Open Library, chưa đối chiếu trên trang nhà xuất bản. Link đề xuất: https://openlibrary.org/works/OL5114774W"
 }

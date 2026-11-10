@@ -2,10 +2,22 @@
   "unit": "sources/sach.nagarjuna-mulamadhyamakakarika-khoang-the-ky-23-ban-dich-tie",
   "hash": "sha256:ae6d5acfa44d4761afc6829569ea84e6c6210d2201effca34129b58d11502dd9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Bản dịch tiếng Anh của Jay Garfield, The Fundamental Wisdom of the Middle Way, 1995",
+      "text": "Bản dịch tiếng Anh của Jay Garfield, The Fundamental Wisdom of the Middle Way, Oxford",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "Garfield, Jay, The Fundamental Wisdom of the Middle Way. Translation and Commentary of Nāgārjuna’s Mūlamadhyamakakārikā, Oxford: Oxford University Press",
+          "where": "SEP Nāgārjuna, Bibliography, Primary Literature"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1995 (Crossref, kiểm ở lượt trước, giữ lại)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
@@ -17,33 +29,29 @@
       ]
     },
     {
-      "text": "Nhà xuất bản Oxford (University Press)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works?query.bibliographic=Fundamental+Wisdom+of+the+Middle+Way+Nagarjuna+Garfield&rows=3",
-          "quote": "Oxford University Press"
-        }
-      ]
-    },
-    {
-      "text": "Nagarjuna, Mūlamadhyamakakārikā là văn bản được dịch",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works?query.bibliographic=Fundamental+Wisdom+of+the+Middle+Way+Nagarjuna+Garfield&rows=3",
-          "quote": "Nāgārjuna's Mūlamadhyamakakārikā"
-        }
-      ]
-    },
-    {
-      "text": "Niên đại gốc 'khoảng thế kỷ 2–3' của Nagarjuna (chưa mở nguồn trong phiên này)",
+      "text": "Nagarjuna sống khoảng thế kỷ 2 (khớp khoảng '2–3')",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "the system of philosophy he founded in the second century",
+          "where": "SEP Nāgārjuna, đoạn kết"
+        }
+      ]
+    },
+    {
+      "text": "Mūlamadhyamakakārikā là tác phẩm được dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "The Fundamental Wisdom of the Middle Way (MMK) (Mūlamadhyamakakārikā). This is the most important of Nāgārjuna’s works."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Khẳng định niên đại thế kỷ 2–3 chưa kiểm do hết lượt tra cứu (SEP/IEP mục Nagarjuna nên dùng). Link ổn định đề xuất: https://doi.org/10.1093/oso/9780195103175.001.0001"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): SEP ghi niên đại 'second century' (chưa đọc mục nào ghi 'thế kỷ 3'); 'khoảng thế kỷ 2–3' chấp nhận được, có thể ghi gọn 'khoảng thế kỷ 2'. SEP ghi năm sách là 2005 (khác 1995 của Crossref: nhiều khả năng là bản in lại); giữ 1995 (năm in đầu). Link ổn định đề xuất: https://doi.org/10.1093/oso/9780195103175.001.0001"
 }

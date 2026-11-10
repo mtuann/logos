@@ -2,14 +2,49 @@
   "unit": "sources/sach.karl-marx-friedrich-engels-the-communist-manifesto-1848-karl",
   "hash": "sha256:38db868c5f0ef088ea29b9e81b7a5a64162febfb48f7a49d58097c5df29f235a",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848); Karl Marx, *Capital*, tập 1 (1867) — bản dịch tiếng Anh công cộng.",
+      "text": "Marx & Engels, The Communist Manifesto (Manifest der Kommunistischen Partei), năm 1848",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL629052W",
+          "quote": "Manifest der Kommunistischen Partei|Karl Marx,Friedrich Engels|1848",
+          "where": "kết quả search.json"
+        }
+      ]
+    },
+    {
+      "text": "có bản dịch tiếng Anh công cộng của Manifesto trên Project Gutenberg (ebook 61)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/61",
+          "quote": "The Communist Manifesto by Karl Marx and Friedrich Engels | Project Gutenberg"
+        }
+      ]
+    },
+    {
+      "text": "Marx, Capital (Das Kapital), tập 1, năm 1867",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL27710891W",
+          "quote": "Das Kapital [1/3]. Der Produktionsprocess des Kapitals|Karl Marx|1867",
+          "where": "kết quả search.json"
+        }
+      ]
+    },
+    {
+      "text": "Capital tập 1 có bản dịch tiếng Anh công cộng đúng như mục ghi (chưa tìm thấy ebook Gutenberg của Capital tập 1 trong lượt này)",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): Manifesto 1848 và Das Kapital tập 1 1867 có thật (Open Library). Chưa xác nhận được bản dịch tiếng Anh công cộng của Capital (Gutenberg 61 chỉ là Manifesto; Marxists.org chưa mở). Cần người làm chọn bản dịch (Moore & Aveling 1887 hay Moore-Engels 1888 cho Manifesto) và ghi rõ link: https://www.gutenberg.org/ebooks/61 cho Manifesto; Capital: nên tìm trên Internet Archive/Marxists.org."
 }

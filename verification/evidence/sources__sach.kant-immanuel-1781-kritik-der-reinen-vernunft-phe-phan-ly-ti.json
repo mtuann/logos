@@ -2,14 +2,43 @@
   "unit": "sources/sach.kant-immanuel-1781-kritik-der-reinen-vernunft-phe-phan-ly-ti",
   "hash": "sha256:bb82a46b08e6e04656ff8f887815495bdf352a633039ce0d5a9f617891923ef9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "Kant (1781), Kritik der reinen Vernunft, phản bác luận chứng bản thể luận và vũ trụ luận",
+      "text": "Kant, Kritik der reinen Vernunft, năm 1781 (lần in đầu, bản A)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL99844W",
+          "quote": "Kritik der reinen Vernunft|Immanuel Kant|1781",
+          "where": "kết quả search.json"
+        }
+      ]
+    },
+    {
+      "text": "Kant phê phán luận chứng bản thể luận (ontological) trong Critique of Pure Reason",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "Perhaps the best known criticisms of ontological arguments are due to Immanuel Kant, in his Critique of Pure Reason."
+        }
+      ]
+    },
+    {
+      "text": "Kant phê phán luận chứng vũ trụ luận (cosmological)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "The cosmological argument came under serious assault in the 18th century, first by David Hume and then by Immanuel Kant."
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa mở nguồn (hết lượt). Gợi ý: SEP 'kant-metaphysics' / Gutenberg bản Meiklejohn 4280."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): tên Phê phán lý tính thuần túy là bản dịch tiếng Việt đúng nghĩa (không kiểm riêng). Mục không nêu nhà xuất bản (Riga: Hartknoch 1781, chưa kiểm). Bản 1781 là bản A; bản B 1787. Bản dịch tiếng Anh công cộng: https://www.gutenberg.org/ebooks/4280 (Critique of Pure Reason, Kant). Link đề xuất: https://openlibrary.org/works/OL99844W"
 }

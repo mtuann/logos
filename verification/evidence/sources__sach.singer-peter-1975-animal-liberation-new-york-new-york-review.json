@@ -2,14 +2,26 @@
   "unit": "sources/sach.singer-peter-1975-animal-liberation-new-york-new-york-review",
   "hash": "sha256:f7c62d7f784f37a12ca93c84ce004e7745721a96b3ceea613a0edb900e0dc1a5",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
       "text": "Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House (tái bản nhiều lần).",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=animal+liberation&author=peter+singer&publisher=new+york+review",
+          "quote": "\"first_publish_year\":1975",
+          "where": "Open Library: Animal liberation, Peter Singer; publisher có 'New York Review of Books', 'Distributed by Random House'"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=animal+liberation&author=peter+singer&publisher=new+york+review",
+          "quote": "\"publisher\":[\"Distributed by Random House\",\"New York Review of Books\"",
+          "where": "Open Library works/OL1819657W"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): Open Library ghi Peter Singer, Animal Liberation, 1975, New York Review (phát hành qua Random House), còn nhiều bản tái bản (Avon, Cape, Ecco, HarperCollins). Link ổn định đề xuất: https://openlibrary.org/works/OL1819657W"
 }

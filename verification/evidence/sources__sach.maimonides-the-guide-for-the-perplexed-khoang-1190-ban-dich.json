@@ -2,14 +2,26 @@
   "unit": "sources/sach.maimonides-the-guide-for-the-perplexed-khoang-1190-ban-dich",
   "hash": "sha256:fb7fd83fd4036402aa559852323bcdef9641b9f7329d12dc6e812783b6ae21ac",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).",
+      "text": "Maimonides, The Guide for the Perplexed (khoảng 1190), bản dịch tiếng Anh M. Friedländer (1904)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/73584",
+          "quote": "Friedländer, M. (Michael), 1833-1910",
+          "where": "Gutenberg 73584: 2nd edition, revised throughout, London: George Routledge & Sons, 1910; tác phẩm viết 1185-1190"
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28guide+for+the+perplexed%29+AND+creator%3A%28maimonides%29+AND+year%3A%5B1880+TO+1925%5D&rows=20&output=json",
+          "quote": "guideforperplexe00maimiala",
+          "where": "Internet Archive: London: George Routledge & Sons, 1904; 'reduced to one volume'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Có hai bản 1 tập: 1904 (Routledge/Dutton, IA guideforperplexe00maimiala) và 1910 (Gutenberg ebook 73584 ghi 2nd edition 1910). Mục ghi 1904 là đúng cho bản IA; nếu liên kết tới Gutenberg thì nên ghi rõ bản Gutenberg là in lại 1910. Link ổn định đề xuất: https://www.gutenberg.org/ebooks/73584 hoặc https://archive.org/details/guideforperplexe00maimiala"
 }

@@ -2,25 +2,38 @@
   "unit": "sources/sach.james-william-1896-the-will-to-believe",
   "hash": "sha256:41dfc5415f170abf9e08415e483969bc11123c370fff9d967d60bdfc456aecdd",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "James, William, The Will to Believe (tên sách có thật, tác giả William James 1842–1910)",
+      "text": "James, William, The Will to Believe: tác giả William James, bài/sách có thật",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/26659",
-          "quote": "The Will to Believe, and Other Essays in Popular Philosophy"
+          "quote": "The Will to Believe, and Other Essays in Popular Philosophy",
+          "where": "Author James, William, 1842-1910"
         }
       ]
     },
     {
-      "text": "năm 1896",
+      "text": "năm 1896: bài luận 'The Will to Believe' đăng năm 1896 (New World, tháng 6/1896); in sách tuyển tập tháng 2/1897 (Longmans, Green)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "quote": "Published in the New World, June, 1896.",
+          "where": "chú thích 1 của bài luận"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/james/",
+          "quote": "Publishes The Will to Believe and Other Essays in Popular Philosophy, with Longmans, Green & Co.",
+          "where": "mục niên biểu 1897"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Gutenberg 26659 là tuyển tập 'The Will to Believe, and Other Essays in Popular Philosophy' (không ghi năm trên trang). Mục là bài luận 'The Will to Believe' (1896, rồi in sách 1897): nên ghi nơi đăng. Link đề xuất: https://www.gutenberg.org/ebooks/26659"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): mục ghi năm 1896 đúng cho bài luận (New World, 6/1896) nhưng sách tuyển tập ra tháng 2/1897 (bản quyền ghi 1896). Nên ghi 'James, William (1896), \"The Will to Believe\", New World 5(18); in lại trong The Will to Believe and Other Essays in Popular Philosophy, New York: Longmans, Green, 1897'. Số tập/kỳ New World chưa kiểm. Link đề xuất: https://www.gutenberg.org/ebooks/26659"
 }

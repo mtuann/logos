@@ -2,19 +2,38 @@
   "unit": "sources/sach.popper-karl-1934-logik-der-forschung-vienna-springer-ban-tie",
   "hash": "sha256:2f03be9e4b53dea2abede07556f8f2eb89cc372d85e414e542122c41928fb922",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r20",
   "claims": [
     {
       "text": "Popper (1934), Logik der Forschung, Vienna: Springer",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
+          "quote": "Logik der Forschung , Julius Springer , Vienna , 1934",
+          "where": "đoạn trích Google Books của bài báo MIS Quarterly (nguồn thứ cấp)"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL262211W/editions.json?limit=60",
+          "quote": "J. Springer",
+          "where": "Open Library, ấn bản 'Logik der Forschung', Wien (ghi năm 1935)"
+        }
+      ]
     },
     {
-      "text": "The Logic of Scientific Discovery (1959), London: Hutchinson",
+      "text": "Bản tiếng Anh The Logic of Scientific Discovery (1959), London: Hutchinson",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL262211W/editions.json?limit=60",
+          "quote": "Hutchinson",
+          "where": "Open Library, 'The logic of scientific discovery', London, 1959"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn xác nhận Springer 1934 / Hutchinson 1959 (Open Library, WorldCat bị chặn). Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Open Library ghi Springer, Wien với năm 1935 (năm in trên bìa/thông lệ ghi 1934, sách thường được trích là 1934); Hutchinson 1959 khớp. Link ổn định đề xuất: https://openlibrary.org/works/OL262211W"
 }

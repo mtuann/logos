@@ -2,14 +2,21 @@
   "unit": "sources/sach.shoemaker-sydney-1970-persons-and-their-pasts-american-philo",
   "hash": "sha256:916afca25dad9b726905eb6d38cb05e8c84451e32a8c9c1169615e2d63ae1969",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Shoemaker, Sydney (1970), \"Persons and Their Pasts\", *American Philosophical Quarterly* 7: 269–285 (khái niệm ký ức-giả).",
+      "text": "Shoemaker (1970), Persons and Their Pasts, American Philosophical Quarterly 7: 269–285",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/20009360",
+          "quote": "American Philosophical Quarterly, Vol. 7, No. 4, Oct., 1970",
+          "where": "JSON-LD trang: author Sydney Shoemaker, pageStart 269, pageEnd 285"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): số 4 (Oct. 1970) có thể thêm vào mục. Khái niệm ký-ức-giả (quasi-memory) là dien-giai, không kiểm ở đây. Link ổn định đề xuất: https://www.jstor.org/stable/20009360"
 }

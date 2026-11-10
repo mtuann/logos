@@ -2,14 +2,38 @@
   "unit": "sources/sach.sren-kierkegaard-either-or-1843-fear-and-trembling-1843-ban",
   "hash": "sha256:faedda60f3e432f7d81cefe5e7ef419a990b04c63ef88bac6613136a23fea1c4",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
-      "text": "Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843) — bản dịch tiếng Anh công cộng.",
+      "text": "Kierkegaard, Either/Or (1843)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "it was published in 1843. Between that year and 1846",
+          "where": "SEP Kierkegaard, đoạn nói về Either/Or ra năm 1843"
+        }
+      ]
+    },
+    {
+      "text": "Kierkegaard, Fear and Trembling (1843)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Fear and Trembling (1843), Repetition (1843)",
+          "where": "SEP Kierkegaard"
+        }
+      ]
+    },
+    {
+      "text": "Có bản dịch tiếng Anh thuộc phạm vi công cộng (miễn phí) của hai tác phẩm",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác. Tác phẩm trước 1927: nên dẫn link Gutenberg/Internet Archive."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): năm 1843 đúng cho cả hai. Gutenberg chỉ có 'Selections from the Writings of Kierkegaard' (và một bản tiếng Phần Lan), không có hai tác phẩm này; Open Library/Internet Archive chỉ thấy các bản dịch in thế kỷ 20 (Lowrie 1941, Princeton/Anchor, Penguin) còn bản quyền, nên chưa xác nhận được 'bản dịch tiếng Anh công cộng'. Người làm nên chỉ rõ bản dịch hoặc đổi lời ghi; link tham khảo Internet Archive FearAndTremblingBySorenKierkegaard chưa đối chiếu nội dung."
 }

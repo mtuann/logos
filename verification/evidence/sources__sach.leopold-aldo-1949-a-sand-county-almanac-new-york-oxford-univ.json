@@ -2,14 +2,21 @@
   "unit": "sources/sach.leopold-aldo-1949-a-sand-county-almanac-new-york-oxford-univ",
   "hash": "sha256:01b4b5efbc1a3eefd75608aa8f155db37ca4add1a0f0bf1babe20acbdd79346c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "Leopold, Aldo (1949), *A Sand County Almanac*, New York: Oxford University Press.",
+      "text": "Leopold (1949), A Sand County Almanac, New York: Oxford University Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL18416448W/editions.json?limit=30",
+          "quote": "A Sand County almanac, and Sketches here and there",
+          "where": "Open Library: 1949, Oxford University Press, New York, Aldo Leopold, illus. Charles W. Schwartz"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Tên bản in 1949: 'A Sand County Almanac, and Sketches Here and There'; mục dùng tên rút gọn quen dùng, chấp nhận. Link đề xuất: https://openlibrary.org/works/OL3528863W"
 }

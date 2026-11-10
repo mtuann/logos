@@ -2,14 +2,26 @@
   "unit": "sources/sach.strawson-peter-f-1962-freedom-and-resentment-proceedings-of",
   "hash": "sha256:4c40c1b6694a529d58ffb1a843ca3ac462a531a24d7f456ea6010bd82d58e226",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
       "text": "Strawson, Peter F. (1962), \"Freedom and Resentment\", *Proceedings of the British Academy* 48: 187–211.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/proceedings-volumes-1-111/48/strawson/",
+          "quote": "Philosophical Lecture, read 9 May 1962",
+          "where": "trang British Academy: Freedom and Resentment, By P.F. Strawson, Proceedings of the British Academy - Volume 48"
+        },
+        {
+          "url": "https://philarchive.org/rec/STRFAR",
+          "quote": "Proceedings of the British Academy 48:187-211",
+          "where": "kết quả tìm kiếm DuckDuckGo trích dòng PhilArchive; PhilArchive ghi năm 1963"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): tác giả, tên, tạp chí, tập 48, trang 187–211 khớp. Lưu ý: bài đọc 9/5/1962 (trang British Academy ghi 'read 9 May 1962', tập 48); PhilPapers/PhilArchive ghi 1963 (năm in), nên giữ 1962 và có thể thêm 'đọc 1962'. Link ổn định đề xuất: https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/proceedings-volumes-1-111/48/strawson/ ; PDF: https://www.thebritishacademy.ac.uk/documents/4837/48p187.pdf"
 }

@@ -2,7 +2,7 @@
   "unit": "sources/sach.hume-david-17391740-a-treatise-of-human-nature-quyen-i-phan",
   "hash": "sha256:4518583519af2f91d929724451d5a78f0d6b58a9db4b2374164907d01c632204",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
       "text": "Hume, A Treatise of Human Nature (1739–1740)",
@@ -12,15 +12,26 @@
         {
           "url": "https://www.gutenberg.org/ebooks/4705",
           "quote": "A Treatise of Human Nature"
+        },
+        {
+          "url": "https://www.google.com/search?q=Hume+%22Treatise+of+Human+Nature%22+1739+%22John+Noon%22+1740+%22Thomas+Longman%22+Book+3",
+          "quote": "London: printed for John Noon, 1739-40"
         }
       ]
     },
     {
       "text": "Quyển I, Phần IV, mục VI 'Of personal identity' (Về bản sắc cá nhân)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/4705/pg4705-images.html",
+          "quote": "SECT. VI. OF PERSONAL IDENTITY",
+          "where": "Mục lục Book I, sau 'PART IV. OF THE SCEPTICAL AND OTHER SYSTEMS OF PHILOSOPHY' (Sect. I–VII), trước BOOK II"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Gutenberg 4705 chỉ xác nhận tác phẩm; chưa mở văn bản để đối chiếu vị trí Book I Part IV Section VI. Link đề xuất: https://www.gutenberg.org/ebooks/4705"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): Gutenberg 4705 (HTML) xác nhận Book I, Part IV, Sect. VI 'Of personal identity'. Link đề xuất: https://www.gutenberg.org/ebooks/4705"
 }

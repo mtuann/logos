@@ -2,14 +2,26 @@
   "unit": "sources/sach.ludwig-wittgenstein-philosophical-investigations-1953-6667",
   "hash": "sha256:72b7ff3b8310665c49f6b772788d9994ed6db2d91013f592a60ef1ac531f911f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "Ludwig Wittgenstein, *Philosophical Investigations* (1953), §§66–67.",
+      "text": "Wittgenstein, Philosophical Investigations (1953)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1410380W/editions.json?limit=30",
+          "quote": "translated by G.E.M. Anscombe.",
+          "where": "Open Library: Philosophical investigations, 1953, B. Blackwell, Oxford"
+        }
+      ]
+    },
+    {
+      "text": "Vị trí §§66–67 (phần nói về 'tương đồng gia đình')",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Đã xác nhận sách và năm 1953 nhưng chưa mở được toàn văn để đối chiếu số đoạn §§66–67 (Google Books API hết hạn mức 429; chưa tìm được bản toàn văn hợp pháp). Link đề xuất: https://openlibrary.org/works/OL1410380W"
 }

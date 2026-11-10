@@ -2,19 +2,41 @@
   "unit": "sources/sach.immanuel-kant-critique-of-pure-reason-1781-an-ban-2-1787-ban",
   "hash": "sha256:212c3c67d59a6ce1a82746b24fa4aba887e595d8df4486f3ea13bdf15bc9df4b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
-      "text": "Kant, Critique of Pure Reason (1781; ấn bản 2, 1787), bản dịch Norman Kemp Smith",
+      "text": "Kant, Critique of Pure Reason (1781; ấn bản 2, 1787)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "the second and substantially revised edition of the Critique of Pure Reason (1787)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "the Critique of Pure Reason (1781, 1787)"
+        }
+      ]
     },
     {
-      "text": "bản dịch Kemp Smith là bản công cộng",
+      "text": "có bản dịch tiếng Anh của Norman Kemp Smith (Macmillan)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=critique+of+pure+reason&author=kant+kemp+smith&limit=6&fields=key,title,author_name,first_publish_year,publisher",
+          "quote": "Immanuel Kant's Critique of pure reason",
+          "where": "Open Library: tác giả Immanuel Kant, Norman Kemp Smith; first_publish_year 1952; publisher Macmillan (kết quả JSON); Internet Archive cũng có immanuelkantscri0000unse, London: Macmillan, 1952"
+        }
+      ]
+    },
+    {
+      "text": "bản dịch Kemp Smith là bản công cộng (public domain)",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Chưa mở nguồn. Cảnh báo: bản Kemp Smith (Macmillan 1929) hầu như còn bản quyền ở nhiều nơi; Gutenberg có bản Meiklejohn (ebook 4280). Nên kiểm lại mô tả 'công cộng'."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): claim 'công cộng' chưa kiểm được và nhiều khả năng cần sửa: Kemp Smith (mất 1958; Macmillan 1929) chưa chắc hết bản quyền ở mọi nước; tìm trên Internet Archive chỉ thấy các bản Macmillan 1952/1966 dạng mượn, còn bản công cộng rõ ràng là Meiklejohn (Bell 1878/1882; Internet Archive critiqueofpurere00kant; Gutenberg 4280, chưa mở). Đề xuất: ghi 'bản dịch Norman Kemp Smith (Macmillan, 1929)' không gắn nhãn công cộng, hoặc chuyển sang bản Meiklejohn kèm link https://archive.org/details/critiqueofpurere00kant. Năm 1929 của bản Kemp Smith chưa có nguồn mở trong lượt này."
 }
