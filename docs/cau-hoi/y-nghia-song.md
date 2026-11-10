@@ -203,4 +203,4 @@ Gợi ý độ dài: 150–300 chữ.
 2. Wolf, Susan (2010), *Meaning in Life and Why It Matters*, Princeton: Princeton University Press.
 3. Metz, Thaddeus, "The Meaning of Life", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/life-meaning/>
 4. Camus, Albert (1942), *Le Mythe de Sisyphe* (*Huyền thoại Sisyphus*). (Bối cảnh cho tranh luận về cái phi lý.)
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

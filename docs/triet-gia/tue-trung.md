@@ -71,7 +71,7 @@ Tuệ Trung không làm sư trụ trì, không lập tông phái. Nhưng qua ng�
 2. Viện Văn học, *Thơ văn Lý–Trần*, tập II, quyển thượng, Hà Nội: NXB Khoa học xã hội, 1988.
 3. Trần Thị Minh Trang, “Tuệ Trung Thượng Sĩ and Trúc Lâm Buddhism of Trần Dynasty (13th–14th century)”, *Thang Long Journal of Science: Văn hiến and Heritage*, tập 4, số 1, 2025, tr. 16–26. <https://vjol.info.vn/ThangLongJournalofScience/article/view/134618>
 4. Trần Nhân Tông, *Tán Tuệ Trung Thượng Sĩ* (贊慧忠上士), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/T%C3%A1n_Tu%E1%BB%87_Trung_th%C6%B0%E1%BB%A3ng_s%C4%A9>
-5. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 6 (năm 1303: Thượng hoàng mở hội ở chùa Phổ Minh, trao giới), nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%85%AD>
+5. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 6, nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%85%AD>
 
 ---
 

@@ -207,5 +207,5 @@ Gợi ý độ dài: 150–300 chữ.
 4. Rawls, John (1971), *A Theory of Justice*, Cambridge, MA: Harvard University Press (tái bản sửa đổi 1999).
 5. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 6. Sandel, Michael J. (1982), *Liberalism and the Limits of Justice*, Cambridge: Cambridge University Press.
-7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 8. Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>

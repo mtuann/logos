@@ -75,10 +75,10 @@ Tâm trí có phải chỉ là một phần của thân thể? Ở *Suy niệm* 
 ## Nguồn
 
 1. Hatfield, Gary, “René Descartes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes/>
-2. Newman, Lex, “Descartes’ Epistemology”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
-3. Descartes, René, *Discourse on the Method* (1637), bản dịch John Veitch, Project Gutenberg. <https://www.gutenberg.org/ebooks/59>
-4. Descartes, René, *Meditations on First Philosophy* (1641), bản dịch John Veitch, Wikisource. <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
-5. Hume, David, *An Enquiry Concerning Human Understanding* (1748), mục XII, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
+2. Newman, Lex, "Descartes' Epistemology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/>
+3. René Descartes, *Discourse on the Method* (1637), bản dịch John Veitch, Project Gutenberg #59. <https://www.gutenberg.org/ebooks/59>
+4. René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
+5. David Hume, *An Enquiry concerning Human Understanding* (1748), bản phạm vi công cộng trên Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
 
 ---
 

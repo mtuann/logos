@@ -1,0 +1,26 @@
+{
+  "unit": "sources/web.archive-org.details-cu31924031008802",
+  "hash": "sha256:a38d1a824fd1719cf34eb26fbe0a6ebf6eb565c5c6df225142a2d0233473729e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r27",
+  "claims": [
+    {
+      "text": "Mục archive.org cu31924031008802 là Philosophical Essays (1910) của Russell, có bài 'William James's Conception of Truth'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/cu31924031008802/metadata",
+          "quote": "\"title\":\"Philosophical essays \""
+        },
+        {
+          "url": "https://archive.org/download/cu31924031008802/cu31924031008802_djvu.txt",
+          "quote": "William  James's  Conception  of  Truth",
+          "where": "Mục lục, bài V, tr. 127"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `gutenberg.5827` (trang chan-ly); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; thêm tên tác giả (Russell) của chính mục gộp; cập nhật mã băm, không mở lại nguồn."
+}

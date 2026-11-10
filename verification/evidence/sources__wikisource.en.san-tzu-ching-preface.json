@@ -1,0 +1,25 @@
+{
+  "unit": "sources/wikisource.en.san-tzu-ching-preface",
+  "hash": "sha256:fca2e5e9f9085579c8de49e2128c756cf31f393d3d3cdaeb132faf5b7e486338",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r34",
+  "claims": [
+    {
+      "text": "H. A. Giles (1900), lời tựa San Tzu Ching trên Wikisource, nói về tác giả (Vương Ứng Lân)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "To Wang Ying-lin, A.D. 1223–1296, the authorship of the San Tzŭ Ching is by common consent attributed"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
+          "quote": "Cambridge, 20 March, 1900."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `ctext.mengzi-gong-sun-chou-i` (trang ban-tinh-con-nguoi); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; cập nhật mã băm, không mở lại nguồn."
+}

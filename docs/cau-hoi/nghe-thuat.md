@@ -209,4 +209,4 @@ Gợi ý độ dài: 150–300 chữ.
 8. Gaut, Berys (2000), "'Art' as a Cluster Concept", trong Noël Carroll (chủ biên), *Theories of Art Today*, Madison: University of Wisconsin Press, tr. 25–44.
 9. "Duchamp's urinal tops art survey", *BBC News*, 01/12/2004. <http://news.bbc.co.uk/2/hi/entertainment/4059997.stm>
 10. Ebert, Roger (2010), "Okay, kids, play on my lawn", *RogerEbert.com*. <https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn>
-11. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

@@ -75,8 +75,8 @@ Trong một chú thích ở chương XVII cuốn *Dẫn nhập…*, Bentham hỏ
 
 1. Crimmins, James E., “Jeremy Bentham”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/bentham/>
 2. Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>
-3. Gruen, Lori & Susana Monsó, “The Moral Status of Animals”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
-4. Mill, John Stuart, *Utilitarianism* (1863), chương V (châm ngôn “mỗi người tính là một”), Project Gutenberg. <https://www.gutenberg.org/ebooks/11224>
+3. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
+4. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 
 ---
 

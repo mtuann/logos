@@ -1,6 +1,6 @@
 {
   "unit": "sources/ctext.mengzi-gong-sun-chou-i",
-  "hash": "sha256:f2f3442246af600c6a26a2be801428fd660f28655c24582e322ceb142aa42944",
+  "hash": "sha256:55de2eff0ef606754df501e6c2c8e10f5425687aad95f0d9c0bdddcd7b0fe993",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r34",
   "claims": [
@@ -41,48 +41,6 @@
       ]
     },
     {
-      "text": "Tuân Tử thiên 23 (Tính ác)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://zh.wikisource.org/wiki/荀子/性惡篇",
-          "quote": "人之性惡，其善者僞也。"
-        },
-        {
-          "url": "https://zh.wikisource.org/wiki/荀子",
-          "quote": "性惡篇第二十三",
-          "where": "mục lục"
-        }
-      ]
-    },
-    {
-      "text": "Tam tự kinh (nguyên văn)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://zh.wikisource.org/wiki/三字經釋句",
-          "quote": "人之初，性本善，性相近，習相遠；"
-        }
-      ]
-    },
-    {
-      "text": "H. A. Giles (1900), lời tựa San Tzu Ching trên Wikisource, nói về tác giả (Vương Ứng Lân)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
-          "quote": "To Wang Ying-lin, A.D. 1223–1296, the authorship of the San Tzŭ Ching is by common consent attributed"
-        },
-        {
-          "url": "https://en.wikisource.org/wiki/San_Tzu_Ching/Preface",
-          "quote": "Cambridge, 20 March, 1900."
-        }
-      ]
-    },
-    {
       "text": "Bản dịch Legge của Mạnh Tử (1861), texts_seen",
       "kind": "du-kien",
       "verdict": "dung",
@@ -104,8 +62,20 @@
           "where": "đối chiếu ở zh.wikisource và en.wikisource; URL theo mẫu của site (quyết định 34)"
         }
       ]
+    },
+    {
+      "text": "URL ctext.org/mengzi/teng-wen-gong-i và -ii trỏ đúng thiên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+          "quote": "吾聞夷子墨",
+          "where": "đối chiếu ở zh.wikisource 孟子/滕文公上, 滕文公下; URL theo mẫu của site (quyết định 34)"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở Wikisource; ctext không mở. Văn bản Tam tự kinh lấy từ 三字經釋句 (zh.wikisource). Giles ghi tác giả theo truyền thống là Vương Ứng Lân ('by common consent')."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở Wikisource; ctext không mở. Văn bản Tam tự kinh lấy từ 三字經釋句 (zh.wikisource). Giles ghi tác giả theo truyền thống là Vương Ứng Lân ('by common consent'). | 10/11/2026 (sổ sách, Claude): chữ mới = cách ghi trong `texts_seen` (Mạnh Tử, bản Legge 1861, thiên 2A, 3B, 6A); Tuân Tử, Tam tự kinh, Giles tách thành mục riêng; thêm claim URL thiên 3B từ bằng chứng sources__ctext.mengzi-teng-wen-gong-i (quyết định 34); cập nhật mã băm, không mở lại nguồn."
 }

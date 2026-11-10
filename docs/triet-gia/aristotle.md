@@ -76,8 +76,8 @@ Hạnh phúc (*eudaimonia*) là gì? Trong *Đạo đức Nicomachus* I.7 (1097b
 ## Nguồn
 
 1. Shields, Christopher, “Aristotle”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle/>
-2. Kraut, Richard, “Aristotle’s Ethics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
-3. Hursthouse, Rosalind & Glen Pettigrove, “Virtue Ethics”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
+2. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
+3. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
 4. Aristotle, *The Nicomachean Ethics*, bản dịch D. P. Chase, Project Gutenberg. <https://www.gutenberg.org/ebooks/8438>
 5. Aristotle, *Politics*, bản dịch William Ellis, Project Gutenberg. <https://www.gutenberg.org/ebooks/6762>
 6. Diogenes Laërtius, *Lives of the Eminent Philosophers*, quyển V, bản dịch R. D. Hicks (1925), Wikisource. <https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_V>

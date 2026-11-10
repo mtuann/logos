@@ -224,6 +224,8 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Hume, *An Enquiry concerning Human Understanding*, mục VIII "Of Liberty and Necessity".
+
 1. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
 2. McKenna, Michael & D. Justin Coates, "Compatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/compatibilism/>
 3. Vihvelin, Kadri, "Arguments for Incompatibilism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/>
@@ -231,12 +233,13 @@ Gợi ý độ dài: 150–300 chữ.
 5. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/>
 6. Russell, Paul, "Hume on Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-freewill/>
 7. "Free Will", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/freewill/>
-8. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục VIII "Of Liberty and Necessity", bản L. A. Selby-Bigge biên tập, Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
-9. Frankfurt, Harry G. (1969), "Alternate Possibilities and Moral Responsibility", *The Journal of Philosophy* 66(23): 829–839. <https://doi.org/10.2307/2023833>; và Frankfurt, Harry G. (1971), "Freedom of the Will and the Concept of a Person", *The Journal of Philosophy* 68(1): 5–20. <https://doi.org/10.2307/2024717>
-10. van Inwagen, Peter (1975), "The Incompatibility of Free Will and Determinism", *Philosophical Studies* 27(3): 185–199. <https://doi.org/10.1007/BF01624156>; và van Inwagen, Peter (1983), *An Essay on Free Will*, Oxford: Clarendon Press.
-11. Strawson, Galen (1994), "The Impossibility of Moral Responsibility", *Philosophical Studies* 75(1–2): 5–24. <https://doi.org/10.1007/BF00989879>
-12. Pereboom, Derk (2001), *Living Without Free Will*, Cambridge: Cambridge University Press.
-13. Libet, Benjamin, Curtis A. Gleason, Elwood W. Wright & Dennis K. Pearl (1983), "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential)", *Brain* 106(3): 623–642. <https://doi.org/10.1093/brain/106.3.623>
-14. Schurger, Aaron, Jacobo D. Sitt & Stanislas Dehaene (2012), "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement", *PNAS* 109(42): E2904–E2913. <https://doi.org/10.1073/pnas.1210467109>
-15. Bộ luật Hình sự số 100/2015/QH13 (sửa đổi, bổ sung năm 2017), Điều 13 và Điều 21.
-16. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Hume, *An Enquiry concerning Human Understanding* (1748), bản phạm vi công cộng trên Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
+9. Frankfurt, Harry G. (1969), "Alternate Possibilities and Moral Responsibility", *The Journal of Philosophy* 66(23): 829–839. <https://doi.org/10.2307/2023833>
+10. Frankfurt, Harry G. (1971), "Freedom of the Will and the Concept of a Person", *The Journal of Philosophy* 68(1): 5–20. <https://doi.org/10.2307/2024717>
+11. van Inwagen, Peter (1975), "The Incompatibility of Free Will and Determinism", *Philosophical Studies* 27(3): 185–199. <https://doi.org/10.1007/BF01624156>; và van Inwagen, Peter (1983), *An Essay on Free Will*, Oxford: Clarendon Press.
+12. Strawson, Galen (1994), "The Impossibility of Moral Responsibility", *Philosophical Studies* 75(1–2): 5–24. <https://doi.org/10.1007/BF00989879>
+13. Pereboom, Derk (2001), *Living Without Free Will*, Cambridge: Cambridge University Press.
+14. Libet, Benjamin, Curtis A. Gleason, Elwood W. Wright & Dennis K. Pearl (1983), "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential)", *Brain* 106(3): 623–642. <https://doi.org/10.1093/brain/106.3.623>
+15. Schurger, Aaron, Jacobo D. Sitt & Stanislas Dehaene (2012), "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement", *PNAS* 109(42): E2904–E2913. <https://doi.org/10.1073/pnas.1210467109>
+16. Bộ luật Hình sự số 100/2015/QH13 (sửa đổi, bổ sung năm 2017), Điều 13 và Điều 21.
+17. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

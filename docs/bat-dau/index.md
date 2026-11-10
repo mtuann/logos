@@ -175,12 +175,14 @@ Thử xem bạn phân biệt câu hỏi triết học với câu hỏi thực ng
 
 ## Nguồn
 
-1. Bertrand Russell, *The Problems of Philosophy* (1912), chương XV "The Value of Philosophy". Project Gutenberg, eBook #5827: <https://www.gutenberg.org/ebooks/5827> (văn bản: <https://www.gutenberg.org/cache/epub/5827/pg5827.txt>).
+Mục SEP "Thomas Hobbes": phần về *De Corpore*, 1655. Russell, *The Problems of Philosophy*: chương XV "The Value of Philosophy".
+
+1. Russell, Bertrand, *The Problems of Philosophy* (1912), Project Gutenberg. <https://www.gutenberg.org/ebooks/5827>
 2. David J. Chalmers, "Why Isn't There More Progress in Philosophy?", *Philosophy* 90(1), 2015, tr. 3–31. <https://doi.org/10.1017/S0031819114000436>
 3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 4. Liddell, Scott & Jones, *A Greek–English Lexicon*, mục φιλοσοφία. Perseus Digital Library: <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=filosofi/a>
 5. George Smith, "Newton's *Philosophiae Naturalis Principia Mathematica*", *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/archives/fall2026/entries/newton-principia/>
 6. Plutarch, *Life of Theseus* 23.1 (bản dịch tiếng Anh của Bernadotte Perrin): <https://lexundria.com/plut_thes/23/prr>
 7. Ryan Wasserman, "Material Constitution", *Stanford Encyclopedia of Philosophy* (về con tàu của Theseus và biến thể của Hobbes): <https://plato.stanford.edu/archives/fall2026/entries/material-constitution/>
-8. Stewart Duncan, "Thomas Hobbes", *Stanford Encyclopedia of Philosophy* (về *De Corpore*, 1655): <https://plato.stanford.edu/archives/fall2026/entries/hobbes/>
+8. Duncan, Stewart, “Thomas Hobbes”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hobbes/>
 9. Laura J. Snyder, "William Whewell", *Stanford Encyclopedia of Philosophy* (Whewell đặt ra từ *scientist* năm 1833; trước đó tiếng Anh chỉ có "natural philosopher" và "man of science"): <https://plato.stanford.edu/archives/fall2026/entries/whewell/>

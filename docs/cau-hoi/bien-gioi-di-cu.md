@@ -208,4 +208,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Carens, Joseph H. (1987), "Aliens and Citizens: The Case for Open Borders", *The Review of Politics* 49(2): 251–273. <https://doi.org/10.1017/S0034670500033817>
 3. Walzer, Michael (1983), *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic Books.
 4. Tuyên ngôn Quốc tế Nhân quyền (1948), Liên Hợp Quốc (văn kiện công cộng).
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

@@ -1,6 +1,6 @@
 {
   "unit": "sources/gutenberg.46564",
-  "hash": "sha256:cc5fd3492112fcac8bab42da8a6ab34661b5047323094cc9613140193f3eac82",
+  "hash": "sha256:d334476fc2e9cf42c104d00be12ef23dc5ba2a69c27bbc316068a49a531ae012",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r27",
   "claims": [
@@ -30,36 +30,8 @@
           "where": "Tóm tắt tự động của trang ebook"
         }
       ]
-    },
-    {
-      "text": "Ebook #2811 là thư của Pliny Trẻ, dịch William Melmoth",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/2811/pg2811-images.html",
-          "quote": "Translator: William Melmoth"
-        }
-      ]
-    },
-    {
-      "text": "Thư III.16 của Pliny (Arria và Paetus) nằm trong ebook #2811 theo bản dịch Melmoth",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.thelatinlibrary.com/pliny.ep3.html",
-          "quote": "C. PLINIUS NEPOTI SUO S.",
-          "where": "Quyển III, thư 16: thư gửi Nepos về Arria, Caecina Paetus, Fannia"
-        },
-        {
-          "url": "https://www.gutenberg.org/cache/epub/2811/pg2811-images.html",
-          "quote": "Her husband Caecinna Paetus, and her son, were both attacked at the same time with a fatal illness",
-          "where": "Thư 'XXXIV — To NEPOS' (đánh số liên tục của ấn bản Melmoth/Bosanquet)"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): thư gửi Nepos về Arria có trong #2811 nhưng đánh số XXXIV (đánh số liên tục, không chia quyển); số III.16 là đánh số chuẩn theo Latin Library. Nên ghi 'III.16 (trong ebook #2811 là thư XXXIV)'. Vị trí mục 11-16 của Grotius không kiểm trong lô này."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): thư gửi Nepos về Arria có trong #2811 nhưng đánh số XXXIV (đánh số liên tục, không chia quyển); số III.16 là đánh số chuẩn theo Latin Library. Nên ghi 'III.16 (trong ebook #2811 là thư XXXIV)'. Vị trí mục 11-16 của Grotius không kiểm trong lô này. | 10/11/2026 (sổ sách, Claude): tách mục gộp Grotius + Pliny; vị trí III.1 mục 11–16 (lượt trước chưa kiểm) chuyển ra câu trước danh sách của trang noi-doi, kiểm cùng trang; cập nhật mã băm, không mở lại nguồn."
 }

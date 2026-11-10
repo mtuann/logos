@@ -149,9 +149,11 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
+*Hàn Phi Tử*: thiên 20 "Giải Lão", thiên 21 "Dụ Lão".
+
 1. Lão Tử, *Đạo đức kinh*, nguyên văn (bản Vương Bật) và bản dịch tiếng Anh của James Legge (1891), Chinese Text Project. <https://ctext.org/dao-de-jing>
 2. *Luận ngữ* 15.5 (thiên Vệ Linh Công), nguyên văn. <https://ctext.org/analects/wei-ling-gong>
 3. *Tuân Tử*, thiên 17 "Thiên luận", nguyên văn. <https://ctext.org/xunzi/tian-lun>
-4. *Hàn Phi Tử*, mục lục (thiên 20 "Giải Lão", thiên 21 "Dụ Lão"). <https://ctext.org/hanfeizi>
+4. *Hàn Phi Tử* (韓非子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/hanfeizi>
 5. Chan, Alan, "Laozi", *Stanford Encyclopedia of Philosophy* (bản sửa 2025). <https://plato.stanford.edu/archives/fall2026/entries/laozi/>
-6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy* (bản sửa 2023). <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
+6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>

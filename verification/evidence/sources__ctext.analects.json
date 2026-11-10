@@ -1,6 +1,6 @@
 {
   "unit": "sources/ctext.analects",
-  "hash": "sha256:356d66077d98f20d57e6733946f5830a04bcaba5b70cb112a49adc5ae0638f2c",
+  "hash": "sha256:7770dbd471516d197a8d683fc51faad7dae3ad6fdb99d995811cc22d2122aecc",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r34",
   "claims": [
@@ -139,5 +139,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở zh.wikisource và en.wikisource; ctext.org không mở. Số đoạn Luận ngữ tính theo thứ tự đoạn trong trang Wikisource, khớp cách đánh số thông dụng. texts_seen ghi '2.3 và 12.19' khác bản chính (2.17, 2.22, 13.18, 13.20); nên thống nhất cách ghi; cách ghi 'Legge (1861; bản sửa 1893)' khớp en.wikisource."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r34): Đối chiếu ở zh.wikisource và en.wikisource; ctext.org không mở. Số đoạn Luận ngữ tính theo thứ tự đoạn trong trang Wikisource, khớp cách đánh số thông dụng. texts_seen ghi '2.3 và 12.19' khác bản chính (2.17, 2.22, 13.18, 13.20); nên thống nhất cách ghi; cách ghi 'Legge (1861; bản sửa 1893)' khớp en.wikisource. | 10/11/2026 (sổ sách, Claude): chữ mới của bản ghi trùng đúng một cách ghi trong `texts_seen` cũ (đã kiểm ở trên); lượt thống nhất cách ghi 5.2 (quyết định 36); cập nhật mã băm, không mở lại nguồn."
 }

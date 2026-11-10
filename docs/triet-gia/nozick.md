@@ -69,8 +69,8 @@ Lập luận trong mục “How Liberty Upsets Patterns” của *Anarchy, State
 
 1. Mack, Eric, “Robert Nozick’s Political Philosophy”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nozick-political/>
 2. Feser, Edward, “Nozick, Robert”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/nozick/>
-3. Freeman, Samuel, “Original Position”, *Stanford Encyclopedia of Philosophy* (phản bác của Nozick và lời đáp của Rawls). <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
-4. Crisp, Roger, “Well-Being”, *Stanford Encyclopedia of Philosophy* (về cỗ máy trải nghiệm). <https://plato.stanford.edu/archives/fall2026/entries/well-being/>
+3. Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
+4. Crisp, Roger, “Well-Being”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/well-being/>
 5. Nozick, Robert, *Anarchy, State, and Utopia*, New York: Basic Books, 1974.
 
 ---

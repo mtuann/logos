@@ -1,6 +1,6 @@
 {
   "unit": "sources/iep.stoicism",
-  "hash": "sha256:285fb9dd6f1b9a0a121ab6869a77ba158ffb97dfea8e8e7f3303dd5f9194af73",
+  "hash": "sha256:d2ebb4d844ee9ae8cf06fa4c4acb3e36dfb38b6e25d736f94e8a8b872fd6ca58",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-s10",
   "claims": [
@@ -54,5 +54,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Ba cách ghi texts_seen đều trỏ cùng bài, cùng tác giả. Phần mô tả (cảm xúc, phép chia ba của Irvine 2008, liệu pháp nhận thức) khớp nội dung bài: mục 4 'Apatheia and the Stoic Treatment of Emotions', Irvine 'a more reasonable trichotomy', liên hệ CBT. Năm 2008 của Irvine không đối chiếu được trên trang IEP (chỉ thấy tên Irvine); nên giữ như mô tả hay thêm chú thích nguồn."
+  "notes": "Nguồn IEP, hạng 2 theo thứ tự ưu tiên. Mở bằng WebFetch (tool trả nội dung đã tóm lược theo prompt; 'quote' là tiêu đề/tác giả trang báo lại). Ba cách ghi texts_seen đều trỏ cùng bài, cùng tác giả. Phần mô tả (cảm xúc, phép chia ba của Irvine 2008, liệu pháp nhận thức) khớp nội dung bài: mục 4 'Apatheia and the Stoic Treatment of Emotions', Irvine 'a more reasonable trichotomy', liên hệ CBT. Năm 2008 của Irvine không đối chiếu được trên trang IEP (chỉ thấy tên Irvine); nên giữ như mô tả hay thêm chú thích nguồn. | 10/11/2026 (sổ sách, Claude): chữ mới của bản ghi trùng đúng một cách ghi trong `texts_seen` cũ (đã kiểm ở trên); lượt thống nhất cách ghi 5.2 (quyết định 36); cập nhật mã băm, không mở lại nguồn."
 }

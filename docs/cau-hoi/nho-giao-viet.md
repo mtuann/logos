@@ -175,8 +175,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
+Mục SEP "Confucius": các khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
+
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
-4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/> — khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
-5. Nguyễn Trãi, *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>; bản dịch trong *Việt Nam sử lược* (Trần Trọng Kim, 1920). <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)>
+4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
+5. *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (Bùi Huy Bích, 1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>
+6. Bản dịch trong *Việt Nam sử lược* (Trần Trọng Kim, 1920) và trong *Lam Sơn thực lục* (Mạc Bảo Thần dịch, 1944; có nguyên văn chữ Hán), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)>; <https://vi.wikisource.org/wiki/Lam_Sơn_thực_lục/Cuốn_thứ_ba>

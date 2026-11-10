@@ -198,4 +198,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Marquis, Don (1989), "Why Abortion is Immoral", *The Journal of Philosophy*, vol. 86, no. 4, tr. 183–202. <https://doi.org/10.2307/2026961>
 3. Warren, Mary Anne (1973), "On the Moral and Legal Status of Abortion", *The Monist*, vol. 57, no. 1, tr. 43–61. <https://doi.org/10.5840/monist197357133>
 4. Harman, Elizabeth (2025), "The Ethics of Abortion", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/abortion/>
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

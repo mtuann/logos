@@ -1,6 +1,6 @@
 {
   "unit": "sources/doi.10-2307-2023833",
-  "hash": "sha256:1f8c8e81ec05e7bf1c06e3388f10356841c13c79002cc5fe75ddd14810919860",
+  "hash": "sha256:71459a6072d7ee4dde1a9dc3a014af7efffb0a2b94d88918f13fd6c70b37a1f4",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r32",
   "claims": [
@@ -26,31 +26,8 @@
           "where": "dòng thông tin bài"
         }
       ]
-    },
-    {
-      "text": "Frankfurt (1971) 'Freedom of the Will and the Concept of a Person', J. Philosophy 68(1), DOI 10.2307/2024717",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works/10.2307/2024717",
-          "quote": "\"title\":[\"Freedom of the Will and the Concept of a Person\"]; \"volume\":\"68\"; \"issue\":\"1\""
-        }
-      ]
-    },
-    {
-      "text": "Trang 5–20 của bài 1971",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.jstor.org/stable/2024717",
-          "quote": "Vol. 68, No. 1, Jan. 14, 1971; pageStart 5, pageEnd 20 (pageCount 16)",
-          "where": "dữ liệu trang JSTOR (pageStart/pageEnd, tải bằng trình duyệt)"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref và JSTOR khớp cả hai bài; DOI trỏ đúng bài. texts_seen chỉ nêu bài 1969: nên thống nhất ghi cả hai hoặc ghi theo từng trang."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r32): Crossref và JSTOR khớp cả hai bài; DOI trỏ đúng bài. texts_seen chỉ nêu bài 1969: nên thống nhất ghi cả hai hoặc ghi theo từng trang. | 10/11/2026 (sổ sách, Claude): chữ mới = cách ghi trong `texts_seen` (chỉ bài 1969); bài 1971 tách thành mục doi.10-2307-2024717; cập nhật mã băm, không mở lại nguồn."
 }

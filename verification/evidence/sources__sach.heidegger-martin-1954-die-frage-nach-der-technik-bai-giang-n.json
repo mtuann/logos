@@ -1,0 +1,46 @@
+{
+  "unit": "sources/sach.heidegger-martin-1954-die-frage-nach-der-technik-bai-giang-n",
+  "hash": "sha256:70d091b41cd17a00115c84feb76893da2688c037285310e97f761c2b93bc076d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Bài giảng \"Die Frage nach der Technik\" năm 1953, in năm 1954",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“Die Frage nach der Technik”, lecture given in 1953, published in 1954",
+          "where": "SEP Heidegger, mục thư mục Vorträge und Aufsätze (GA 7)"
+        }
+      ]
+    },
+    {
+      "text": "In trong Vorträge und Aufsätze, năm 1954",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=heidegger+vortr%C3%A4ge+und+aufs%C3%A4tze&fields=title,first_publish_year,publisher,publish_year,author_name&limit=5",
+          "quote": "\"first_publish_year\":1954 ... \"title\":\"Vorträge und Aufsätze\"",
+          "where": "Open Library"
+        }
+      ]
+    },
+    {
+      "text": "Nhà xuất bản Neske, Pfullingen",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=heidegger+vortr%C3%A4ge+und+aufs%C3%A4tze&fields=title,first_publish_year,publisher,publish_year,author_name&limit=5",
+          "quote": "\"publisher\":[\"Gunther Neske Pfullingen\"] ... \"publish_year\":[1954]",
+          "where": "Open Library, bản 1954"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): Open Library cho bản 1954 do Neske (Gunther Neske Pfullingen) in. Chưa mở DNB/WorldCat; hai nguồn trên đủ khớp. Sách in sau 1927 không có link ổn định tự do; có thể thêm DOI/trang NXB khi có."
+}

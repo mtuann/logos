@@ -104,6 +104,18 @@ def match_option(q: dict, label: str):
     return hits[0] if len(hits) == 1 else None
 
 
+# Ghép tay lựa chọn có nhãn trong bài khác nhãn JSON (trang, câu, nhãn trong bài) → id lựa chọn; số trong ô vẫn phải
+# bằng JSON và mở shortcode phải ra đúng chữ cũ (đợt 5.2: "Khoái lạc / trải nghiệm" ~ "Khoái lạc/trải nghiệm").
+MANUAL_OPTIONS = {
+    ("cau-hoi/hanh-phuc.md", "phuc-loi-well-being", "Khoái lạc / trải nghiệm"): "khoai-lac-trai-nghiem",
+}
+
+
+def manual_option(page: str, q: dict, label: str):
+    oid = MANUAL_OPTIONS.get((page, q["id"], label))
+    return next((o for o in q["options"] if o["id"] == oid), None) if oid else None
+
+
 def first_value(cell: str) -> str:
     m = NUM.search(cell)
     return m.group(0) if m else ""
@@ -190,7 +202,7 @@ def plan_tables(page: str, text: str, questions: list[dict], lech: list, stats: 
                 subs.append((page, title_line, hline, hline.replace(n_cell[0], n_cell[1], 1)))
             for idx, (ln, line, c, lc) in enumerate(rws):
                 label = c[lc].strip()
-                o = match_option(q, label)
+                o = match_option(q, label) or manual_option(page, q, label)
                 new = list(c)
                 if n_cell and layout_a and idx == 0:
                     new[0] = new[0].replace(n_cell[0], n_cell[1], 1)

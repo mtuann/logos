@@ -170,7 +170,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Leonard, Nick, "Epistemological Problems of Testimony", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/>
 2. Green, Christopher R., "Epistemology of Testimony", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ep-testi/>
-3. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục X "Of Miracles". Bản tiếng Anh phạm vi công cộng, xem tại Internet History Sourcebooks, Đại học Fordham. <http://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp>
+3. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục X "Of Miracles". Bản tiếng Anh phạm vi công cộng, xem tại Internet History Sourcebooks, Đại học Fordham. <https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp>
 4. Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, chương VI, mục xxiv.
 5. Burge, Tyler (1993), "Content Preservation", *The Philosophical Review* 102(4): 457–488 (nguyên tắc chấp nhận ở tr. 467). <https://doi.org/10.2307/2185680>
 6. Coady, C. A. J. (1992), *Testimony: A Philosophical Study*, Oxford: Clarendon Press.

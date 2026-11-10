@@ -200,5 +200,5 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. Gallow, J. Dmitri, "The Metaphysics of Causation", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/causation-metaphysics/>
 2. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.
-3. Lewis, David (1973), "Causation", *Journal of Philosophy* 70(17): 556–567. <https://doi.org/10.2307/2025310>
-4. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+3. Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>
+4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

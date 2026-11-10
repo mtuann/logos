@@ -69,7 +69,7 @@ SEP lưu ý Nagarjuna không có một “lập luận chủ chốt” duy nhấ
 
 ## Nguồn
 
-1. Westerhoff, Jan Christoph, “Nāgārjuna”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/>
+1. Westerhoff, Jan, "Nāgārjuna", *Stanford Encyclopedia of Philosophy* (bản sửa 2026). <https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/>
 2. Berger, Douglas, “Nagarjuna (c. 150—c. 250)”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/nagarjun/>
 3. Nagarjuna, *Trung luận* (中論), bản Hán dịch của Cưu-ma-la-thập, chú giải của Thanh Mục, Wikisource tiếng Trung (các chương 15 và 24). <https://zh.wikisource.org/wiki/%E4%B8%AD%E8%AB%96_(%E4%BD%9B%E6%95%99)>
 4. *Kinh Ca-chiên-diên* (*Kaccānagotta Sutta*, SN 12.15), bản dịch tiếng Anh của Bhikkhu Sujato (CC0), SuttaCentral — bài kinh mà *Trung luận* 15.7 dẫn lại. <https://suttacentral.net/sn12.15/en/sujato>

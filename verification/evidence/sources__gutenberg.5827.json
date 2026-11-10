@@ -1,6 +1,6 @@
 {
   "unit": "sources/gutenberg.5827",
-  "hash": "sha256:a65dfda9848b38755bd2f23e03f931bdce69868dbb99a180037a9ff6d56da0ff",
+  "hash": "sha256:cfa1836c70f453eefc2995c80473d956dc54cd9ff9eac7f8e43f7aa5fe9358ae",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r27",
   "claims": [
@@ -30,48 +30,8 @@
           "where": "Sau lời tựa"
         }
       ]
-    },
-    {
-      "text": "Chương XV 'The Value of Philosophy'",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
-          "quote": "CHAPTER XV. THE VALUE OF PHILOSOPHY"
-        }
-      ]
-    },
-    {
-      "text": "Cách ghi trong texts_seen: chương XII",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Chương XV (chương XII là 'Truth and Falsehood')",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/5827/pg5827-images.html",
-          "quote": "CHAPTER XII. TRUTH AND FALSEHOOD"
-        }
-      ]
-    },
-    {
-      "text": "Mục archive.org cu31924031008802 là Philosophical Essays (1910) của Russell, có bài 'William James's Conception of Truth'",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://archive.org/metadata/cu31924031008802/metadata",
-          "quote": "\"title\":\"Philosophical essays \""
-        },
-        {
-          "url": "https://archive.org/download/cu31924031008802/cu31924031008802_djvu.txt",
-          "quote": "William  James's  Conception  of  Truth",
-          "where": "Mục lục, bài V, tr. 127"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): metadata archive.org: creator Russell, Bertrand; date 1910. Cách ghi 'chương XII' ở một trang là sai nhẹ, nên thống nhất chương XV."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): metadata archive.org: creator Russell, Bertrand; date 1910. Cách ghi 'chương XII' ở một trang là sai nhẹ, nên thống nhất chương XV. | 10/11/2026 (sổ sách, Claude): chữ mới = cách ghi trong `texts_seen` của hồ sơ Russell; chương XV (bat-dau) và chương XII (chan-ly) chuyển ra câu trước danh sách của từng trang. Người duyệt ghi thêm: claim `sai` nhẹ về chương XII là đọc nhầm (chương XII của sách là \"Truth and Falsehood\", đúng chỗ bài chan-ly dẫn); câu đó nay kiểm cùng trang chan-ly; cập nhật mã băm, không mở lại nguồn."
 }

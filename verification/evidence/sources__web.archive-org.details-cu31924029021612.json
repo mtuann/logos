@@ -1,0 +1,68 @@
+{
+  "unit": "sources/web.archive-org.details-cu31924029021612",
+  "hash": "sha256:b8bf7dc14fba92f7f441d48fb96357ff934b718d09072ea39a0809ba5f5560ac",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Mục archive.org cu31924029021612 là sách Abbott (1889) có chứa bài này (bản dịch T. K. Abbott)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/cu31924029021612/metadata",
+          "quote": "Kant's Critique of practical reason and other works on the theory of ethics",
+          "where": "title; date 1889; associated-names: Abbott, Thomas Kingsmill, 1829-1913; publisher London : Longmans, Green"
+        },
+        {
+          "url": "https://archive.org/metadata/cu31924029021612/metadata",
+          "quote": "Ueber ein vermeintes recht aus menchenliebe zu lugen.",
+          "where": "description, danh sách bản dịch trong sách"
+        }
+      ]
+    },
+    {
+      "text": "Năm bản dịch Abbott: 1889",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/cu31924029021612/metadata",
+          "quote": "\"date\":\"1889\"",
+          "where": "metadata archive.org"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên văn Akademie-Ausgabe VIII: 423–430",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/423.html",
+          "quote": "Über ein vermeintes Recht aus Menschenliebe zu lügen.",
+          "where": "korpora, Seite 423 (trang tiêu đề)"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/430.html",
+          "quote": "derentwegen allein sie den Namen der Grundsätze führen.",
+          "where": "korpora, Seite 430, câu cuối bài; trang 431 đã là 'Über die Buchmacherei'"
+        }
+      ]
+    },
+    {
+      "text": "Link korpora trỏ trang 425 (trang văn bản đầu tiên)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/425.html",
+          "quote": "Über ein vermeintes Recht aus Menschenliebe zu lügen. In der Schrift: Frankreich im Jahr 1797",
+          "where": "korpora, Seite 425, Zeile 01-02"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): trang 423 trên korpora chỉ có tiêu đề bài; văn bản bắt đầu ở trang 425 nên link 425 chấp nhận được (có thể đổi sang 423 nếu muốn trỏ tiêu đề, không bắt buộc). Chưa đối chiếu từng trang OCR của sách Abbott; xác nhận dựa trên mô tả metadata archive.org."
+}

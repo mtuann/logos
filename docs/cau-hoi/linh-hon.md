@@ -212,4 +212,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Descartes, René (1641), *Meditationes de prima philosophia*, Paris: Michel Soly.
 3. Jackson, Frank (1982), "Epiphenomenal Qualia", *The Philosophical Quarterly* 32(127): 127–136. <https://doi.org/10.2307/2960077>
 4. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả chi tiết và bảng tương quan theo từng câu: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

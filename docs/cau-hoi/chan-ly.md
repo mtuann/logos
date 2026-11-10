@@ -176,17 +176,21 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Russell, *The Problems of Philosophy*, chương XII "Truth and Falsehood".
+
 1. Glanzberg, Michael, "Truth", *Stanford Encyclopedia of Philosophy* (SEP). <https://plato.stanford.edu/archives/fall2026/entries/truth/>
 2. David, Marian, "The Correspondence Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-correspondence/>
 3. Young, James O., "The Coherence Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/>
 4. Armour-Garb, Bradley, Daniel Stoljar & James Woodbridge, "Deflationism About Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/>
-5. Legg, Catherine & Christopher Hookway, "Pragmatism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/pragmatism/>; Capps, John, "The Pragmatic Theory of Truth", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/>.
-6. Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, "Liar Paradox", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
-7. Aristotle, *Metaphysics*, quyển IV (Γ), chương 7, bản dịch W. D. Ross (1908), Wikisource. <https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4>
-8. Peirce, Charles S. (1878), "How to Make Our Ideas Clear", *Popular Science Monthly* 12: 286–302, Wikisource. <https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II>
-9. James, William (1907), *Pragmatism*, bài giảng VI, Project Gutenberg. <https://www.gutenberg.org/ebooks/5116>
-10. Russell, Bertrand (1912), *The Problems of Philosophy*, chương XII <https://www.gutenberg.org/ebooks/5827>; "William James's Conception of Truth", *Philosophical Essays* (1910) <https://archive.org/details/cu31924031008802>.
-11. Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, bản dịch C. K. Ogden (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
-12. Tarski, Alfred (1944), "The Semantic Conception of Truth and the Foundations of Semantics", *Philosophy and Phenomenological Research* 4(3): 341–376. <https://doi.org/10.2307/2102968>
-13. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge University Press. <https://doi.org/10.1017/CBO9780511625398>
-14. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. Legg, Catherine & Christopher Hookway, "Pragmatism", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/pragmatism/>
+6. Capps, John, "The Pragmatic Theory of Truth", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/>
+7. Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, "Liar Paradox", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/>
+8. Aristotle, *Metaphysics*, quyển IV (Γ), chương 7, bản dịch W. D. Ross (1908), Wikisource. <https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4>
+9. Peirce, Charles S. (1878), "How to Make Our Ideas Clear", *Popular Science Monthly* 12: 286–302, Wikisource. <https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II>
+10. James, William (1907), *Pragmatism*, bài giảng VI, Project Gutenberg. <https://www.gutenberg.org/ebooks/5116>
+11. Russell, Bertrand, *The Problems of Philosophy* (1912), Project Gutenberg. <https://www.gutenberg.org/ebooks/5827>
+12. Russell, Bertrand, "William James's Conception of Truth", *Philosophical Essays* (1910). <https://archive.org/details/cu31924031008802>
+13. Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, bản dịch C. K. Ogden (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
+14. Tarski, Alfred (1944), "The Semantic Conception of Truth and the Foundations of Semantics", *Philosophy and Phenomenological Research* 4(3): 341–376. <https://doi.org/10.2307/2102968>
+15. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge University Press. <https://doi.org/10.1017/CBO9780511625398>
+16. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

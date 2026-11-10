@@ -1,6 +1,6 @@
 {
   "unit": "sources/sep.heidegger",
-  "hash": "sha256:c01463be1dc63feee9ac2885bc939d5e1fa8424eaba006fe726a819427ddf83f",
+  "hash": "sha256:f551ceeda6ef97bb4df223e57d139db36db78e4446bc8c42134c45f38f8fbd56",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r36",
   "claims": [
@@ -39,32 +39,8 @@
           "where": "dòng Copyright cuối trang"
         }
       ]
-    },
-    {
-      "text": "Die Frage nach der Technik: bài giảng 1953, in 1954 trong Vorträge und Aufsätze",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
-          "quote": "“Die Frage nach der Technik”, lecture given in 1953, published in 1954",
-          "where": "Bibliography, GA7 Vorträge und Aufsätze, collected and published in 1954"
-        }
-      ]
-    },
-    {
-      "text": "Gelassenheit: bài nói 1955, in 1959; bản Anh Memorial Address trong Discourse on Thinking, dịch Anderson & Freund",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
-          "quote": "“Gelassenheit, 30. Oktober 1955”, speech delivered 1955, published in 1959; translated as: “Memorial Address”, John M. Anderson and E. Hans Freund (trans), in DT 43–57",
-          "where": "Bibliography, GA16; DT: Discourse on Thinking, Anderson and Freund (trans), Harper & Row, 1966"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): năm đọc và năm in khớp SEP. Nhà xuất bản 'Pfullingen: Neske' không có trong SEP (SEP chỉ nêu GA7 và GA16), đây là thông tin ngoài SEP; câu ghi 'theo mục SEP' chỉ đúng với năm đọc/năm in và bản dịch. Nên thêm nguồn thư mục nếu muốn giữ nhà xuất bản."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): năm đọc và năm in khớp SEP. Nhà xuất bản 'Pfullingen: Neske' không có trong SEP (SEP chỉ nêu GA7 và GA16), đây là thông tin ngoài SEP; câu ghi 'theo mục SEP' chỉ đúng với năm đọc/năm in và bản dịch. Nên thêm nguồn thư mục nếu muốn giữ nhà xuất bản. | 10/11/2026 (sổ sách, Claude): chữ mới = cách ghi trong `texts_seen` (Wrathall, SEP); hai tác phẩm của Heidegger tách thành mục sách riêng (kiểm riêng nhà xuất bản); cập nhật mã băm, không mở lại nguồn."
 }

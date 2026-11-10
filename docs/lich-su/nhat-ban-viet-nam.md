@@ -70,4 +70,5 @@ Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngo
 2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 3. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 4. Heisig, James W., Thomas P. Kasulis & John C. Maraldo (chủ biên) (2011), *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai'i Press.
-5. Kasulis, Thomas & Raquel Bouso, "Japanese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/>; Davis, Bret W., "The Kyoto School", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/>
+5. Kasulis, Thomas & Raquel Bouso, "Japanese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/>
+6. Davis, Bret W., "The Kyoto School", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/>

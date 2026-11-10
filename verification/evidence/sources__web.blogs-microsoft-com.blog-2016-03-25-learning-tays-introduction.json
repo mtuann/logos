@@ -1,0 +1,56 @@
+{
+  "unit": "sources/web.blogs-microsoft-com.blog-2016-03-25-learning-tays-introduction",
+  "hash": "sha256:1b6a971b320a92ff2e6efa2c0ec561adf326b6c3071123c5d97d18eb1d8b32c3",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Tác giả Peter Lee",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/",
+          "quote": "Peter Lee - Corporate Vice President, Microsoft Healthcare"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài \"Learning from Tay's introduction\", blog The Official Microsoft Blog",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/",
+          "quote": "Learning from Tay’s introduction - The Official Microsoft Blog",
+          "where": "tiêu đề trang"
+        }
+      ]
+    },
+    {
+      "text": "Ngày 25/3/2016",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/",
+          "quote": "Learning from Tay’s introduction Mar 25, 2016",
+          "where": "đầu bài"
+        }
+      ]
+    },
+    {
+      "text": "URL mở được và trỏ đúng bài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/",
+          "quote": "As many of you know by now, on Wednesday we launched a chatbot called Tay."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): khớp. Nguồn doanh nghiệp (blog chính thức của Microsoft, tác giả có tên): nguồn yếu, chấp nhận vì là nguồn gốc sự kiện."
+}

@@ -142,4 +142,4 @@ Thử xem bạn nắm được đến đâu.
 1. *Mạnh Tử*, nguyên văn và bản dịch tiếng Anh của James Legge (1861), Chinese Text Project: thiên 2A <https://ctext.org/mengzi/gong-sun-chou-i>; 3B <https://ctext.org/mengzi/teng-wen-gong-ii>; 6A <https://ctext.org/mengzi/gaozi-i>.
 2. Chu Hy, *Mạnh Tử tập chú*, thiên Công Tôn Sửu thượng (chú: 內 đọc là "nạp"; 聲 là "danh"; 芒芒 là vẻ ngây ngô). <https://ctext.org/si-shu-zhang-ju-ji-zhu/gong-sun-chou-zhang-ju-shang/zh>
 3. *Tuân Tử*, thiên 23 "Tính ác", nguyên văn. <https://ctext.org/xunzi/xing-e>
-4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
+4. Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>

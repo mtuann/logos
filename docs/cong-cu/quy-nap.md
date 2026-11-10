@@ -207,6 +207,6 @@ Trong nhiều lập luận ở trên, có những điều người nói không n
 1. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
 2. Igor Douven, "Abduction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/abduction/>
 3. Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/deductive-inductive-arguments/>
-4. Hsueh Qu và Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (mục về quy nạp). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
+4. Qu, Hsueh & Elizabeth S. Radcliffe, "David Hume", *Stanford Encyclopedia of Philosophy* (2026). <https://plato.stanford.edu/archives/fall2026/entries/hume/>
 5. David Hume, *An Enquiry concerning Human Understanding* (1748), bản phạm vi công cộng trên Project Gutenberg. <https://www.gutenberg.org/ebooks/9662>
 6. Peter Lipton, *Inference to the Best Explanation*, ấn bản 2, Routledge, 2004.

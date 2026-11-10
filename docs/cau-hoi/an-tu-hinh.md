@@ -199,4 +199,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.
 3. Death Penalty Information Center, "Innocence" (ít nhất 203 người bị kết án tử hình được minh oan kể từ 1973, số liệu năm 2026). <https://deathpenaltyinfo.org/policy-issues/innocence>
 4. Hoskins, Zachary & Antony Duff, "Legal Punishment", *Stanford Encyclopedia of Philosophy* (về các lý thuyết biện minh cho hình phạt: báo ứng, hệ quả). <https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/>
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

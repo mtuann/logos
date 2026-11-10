@@ -281,7 +281,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 1632–1704 · [Trang triết gia](../triet-gia/locke.md)
 
 - *A Letter Concerning Toleration* (1689) — nhắc tới trong: [hồ sơ John Locke](../triet-gia/locke.md)
-- *An Essay Concerning Human Understanding* (1689) — nhắc tới trong: [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon), [hồ sơ John Locke](../triet-gia/locke.md)
+- *An Essay Concerning Human Understanding* (1689) — nhắc tới trong: [Cái tôi qua thời gian — tôi của mười năm trước còn là tôi không?](../cau-hoi/ban-nga-thoi-gian.md#nguon), [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md#nguon), [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md#nguon), [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon), [hồ sơ John Locke](../triet-gia/locke.md)
 - *Two Treatises of Government* (1689) — nhắc tới trong: [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md#cac-lap-truong-chinh), [hồ sơ John Locke](../triet-gia/locke.md)
 - *Some Thoughts Concerning Education* (1693) — nhắc tới trong: [hồ sơ John Locke](../triet-gia/locke.md)
 
@@ -308,8 +308,8 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 1711–1776 · [Trang triết gia](../triet-gia/hume.md)
 
-- *A Treatise of Human Nature* (1739) — nhắc tới trong: [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md#cac-lap-truong-chinh), [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md#mot-cau-hoi-khong-de-chiu-vi-sao-tin-quy-nap), [hồ sơ David Hume](../triet-gia/hume.md)
-- *An Enquiry concerning Human Understanding* (1748) (còn ghi: *An Enquiry Concerning Human Understanding*) — nhắc tới trong: [Tin vào lời người khác: tri thức qua lời chứng](../cau-hoi/loi-chung.md#cac-lap-truong-chinh), [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md#mot-cau-hoi-khong-de-chiu-vi-sao-tin-quy-nap), [Đọc Hume về nhân quả (\"Điều tra về trí năng con người\")](../doc/hume-nhan-qua.md#doc-tung-doan), [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon), [hồ sơ David Hume](../triet-gia/hume.md)
+- *A Treatise of Human Nature* (1739) — nhắc tới trong: [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md#cac-lap-truong-chinh), [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md#nguon), [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md#mot-cau-hoi-khong-de-chiu-vi-sao-tin-quy-nap), [hồ sơ David Hume](../triet-gia/hume.md)
+- *An Enquiry concerning Human Understanding* (1748) (còn ghi: *An Enquiry Concerning Human Understanding*) — nhắc tới trong: [Tin vào lời người khác: tri thức qua lời chứng](../cau-hoi/loi-chung.md#cac-lap-truong-chinh), [Ta có thật sự tự do lựa chọn?](../cau-hoi/tu-do-y-chi.md#nguon), [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md#mot-cau-hoi-khong-de-chiu-vi-sao-tin-quy-nap), [Đọc Hume về nhân quả (\"Điều tra về trí năng con người\")](../doc/hume-nhan-qua.md#doc-tung-doan), [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon), [hồ sơ David Hume](../triet-gia/hume.md)
 - *An Enquiry concerning the Principles of Morals* (1751) — nhắc tới trong: [hồ sơ David Hume](../triet-gia/hume.md)
 - *The History of England* (1754) — nhắc tới trong: [hồ sơ David Hume](../triet-gia/hume.md)
 - *Dialogues concerning Natural Religion* (1779) — nhắc tới trong: [hồ sơ David Hume](../triet-gia/hume.md)

@@ -234,4 +234,4 @@ Ba nguồn đầu là ba nguồn mốc của chuyên mục triết học Việt 
 3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 4. Trần Đức Thảo (1951), *Phénoménologie et matérialisme dialectique*, Paris: Éditions Minh-Tân.
 5. Trần Đức Thảo (1973), *Recherches sur l'origine du langage et de la conscience*, Paris: Éditions sociales.
-6. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

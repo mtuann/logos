@@ -198,10 +198,12 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. *Luận ngữ* (*Analects*), thiên 2.3 và 12.19. Nguyên văn: <https://ctext.org/analects>
-2. *Mạnh Tử* (*Mencius*), thiên Tận tâm hạ 7B14 và Lương Huệ Vương hạ 1B8. Nguyên văn: <https://ctext.org/mengzi>
-3. *Hàn Phi Tử*, các thiên Hữu độ (有度), Nhị bính (二柄), Dương quyền (揚權), Công danh (功名) và Lục phản (六反). Nguyên văn: <https://ctext.org/hanfeizi>
+Các đoạn nguyên văn được dẫn: *Luận ngữ*, thiên 2.3 và 12.19; *Mạnh Tử*, thiên Tận tâm hạ 7B14 và Lương Huệ Vương hạ 1B8; *Hàn Phi Tử*, các thiên Hữu độ (有度), Nhị bính (二柄), Dương quyền (揚權), Công danh (功名) và Lục phản (六反).
+
+1. *Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>
+2. *Mạnh Tử* (孟子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/mengzi>
+3. *Hàn Phi Tử* (韓非子), nguyên văn chữ Hán, ctext.org. <https://ctext.org/hanfeizi>
 4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
-5. Van Norden, Bryan W., "Mencius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
+5. Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
 6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
-7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

@@ -237,4 +237,4 @@ Gợi ý độ dài: 150–300 chữ.
 9. Williamson, Timothy (2000), *Knowledge and Its Limits*, Oxford: Oxford University Press.
 10. Descartes, René, *Meditations on First Philosophy*, bản dịch John Veitch (in lại 1901), Suy niệm I, Wikisource (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I> (Bản tiếng Anh cổ hơn của William Molyneux, 1680, có trên Project Gutenberg: <https://www.gutenberg.org/ebooks/70091>.)
 11. Russell, Bertrand (1948), *Human Knowledge: Its Scope and Limits*, London: George Allen & Unwin (ví dụ chiếc đồng hồ đã dừng).
-12. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

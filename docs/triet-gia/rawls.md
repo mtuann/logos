@@ -68,8 +68,8 @@ Lập luận từ **vị trí nguyên thủy** (*original position*) trong *A Th
 
 ## Nguồn
 
-1. Wenar, Leif, “John Rawls”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rawls/>
-2. Freeman, Samuel, “Original Position”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
+1. Wenar, Leif, "John Rawls", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rawls/>
+2. Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
 3. Rawls, John, *A Theory of Justice*, Cambridge, MA: Harvard University Press, 1971 (bản sửa 1999).
 4. Harsanyi, John C., “Can the Maximin Principle Serve as a Basis for Morality? A Critique of John Rawls’s Theory”, *American Political Science Review* 69 (2), 1975, tr. 594–606. <https://doi.org/10.2307/1959090>
 

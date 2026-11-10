@@ -187,4 +187,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Platon, *Symposium* (khoảng thế kỷ 4 TCN); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1600>
 3. Frankfurt, Harry G. (2004), *The Reasons of Love*, Princeton: Princeton University Press.
 4. Velleman, J. David (1999), "Love as a Moral Emotion", *Ethics* 109(2): 338–374. <https://doi.org/10.1086/233898>
-5. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

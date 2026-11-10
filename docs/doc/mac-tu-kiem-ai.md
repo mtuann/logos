@@ -139,7 +139,9 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
+Mục SEP "Mencius": mục 4. Phụ lục "Texts and Authorship" của mục SEP "Mohism": <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>.
+
 1. *Mặc Tử*, nguyên văn, Chinese Text Project: thiên 14 <https://ctext.org/mozi/universal-love-i>; thiên 16 <https://ctext.org/mozi/universal-love-iii>; thiên 17 <https://ctext.org/mozi/condemnation-of-offensive-war-i>; thiên 26 <https://ctext.org/mozi/will-of-heaven-i>; thiên 50 Công Thâu <https://ctext.org/mozi/gong-shu>.
 2. *Mạnh Tử* 3A5 và 3B9, nguyên văn: <https://ctext.org/mengzi/teng-wen-gong-i>; <https://ctext.org/mengzi/teng-wen-gong-ii>.
-3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), cùng phụ lục "Texts and Authorship". <https://plato.stanford.edu/archives/fall2026/entries/mohism/>; <https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html>
-4. Van Norden, Bryan, "Mencius", *Stanford Encyclopedia of Philosophy* (bản sửa 2024), mục 4. <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
+3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
+4. Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>

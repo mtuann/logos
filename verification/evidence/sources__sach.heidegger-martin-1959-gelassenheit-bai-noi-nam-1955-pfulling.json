@@ -1,0 +1,58 @@
+{
+  "unit": "sources/sach.heidegger-martin-1959-gelassenheit-bai-noi-nam-1955-pfulling",
+  "hash": "sha256:ca605acaabc8d9d919e21cc159728050c04f20d6c0651fc9383ee521a32b0fcb",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Gelassenheit là bài nói năm 1955, in năm 1959",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“Gelassenheit, 30. Oktober 1955”, speech delivered 1955, published in 1959",
+          "where": "SEP Heidegger, thư mục Reden und andere Zeugnisse (GA 16)"
+        }
+      ]
+    },
+    {
+      "text": "Sách Gelassenheit, Pfullingen: Neske, 1959",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=heidegger+gelassenheit&fields=title,first_publish_year,publisher,publish_year,publish_place&limit=6",
+          "quote": "\"first_publish_year\":1959,\"publish_place\":[\"[Pfullingen]\",\"New York, [etc.]\",\"Pfullingen\"... \"publisher\":[\"Klett-Cotta\",\"Harper Perennial\",\"Neske\",\"Harper & Row\"]",
+          "where": "Open Library"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch \"Memorial Address\" trong Discourse on Thinking, John M. Anderson & E. Hans Freund dịch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "translated as: “Memorial Address”, John M. Anderson and E. Hans Freund (trans), in DT 43–57",
+          "where": "SEP Heidegger"
+        }
+      ]
+    },
+    {
+      "text": "Discourse on Thinking, New York: Harper & Row, 1966",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "DT Discourse on Thinking, John M. Anderson and E. Hans Freund (trans), New York: Harper & Row, 1966.",
+          "where": "SEP Heidegger, chữ tắt"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): khớp SEP và Open Library (Gelassenheit 1959 Neske Pfullingen; bản Harper & Row 1966 New York). Ngày bài nói 30/10/1955 theo SEP."
+}

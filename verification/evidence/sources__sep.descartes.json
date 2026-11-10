@@ -1,6 +1,6 @@
 {
   "unit": "sources/sep.descartes",
-  "hash": "sha256:6a17a28c82f79f0bf1fdf616970cba6aa43c1e7e811fa03e45a23613127a1bc3",
+  "hash": "sha256:10582baebe0c233b8d3844f6ccb48bc548079bd579cbd442c94373c571664449",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r36",
   "claims": [
@@ -42,5 +42,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): texts_seen chỉ khác cách ghi (có/không chú thích; nháy cong/thẳng); nên thống nhất một dạng."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r36): texts_seen chỉ khác cách ghi (có/không chú thích; nháy cong/thẳng); nên thống nhất một dạng. | 10/11/2026 (sổ sách, Claude): chữ mới của bản ghi trùng đúng một cách ghi trong `texts_seen` cũ (đã kiểm ở trên); lượt thống nhất cách ghi 5.2 (quyết định 36); cập nhật mã băm, không mở lại nguồn."
 }

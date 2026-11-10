@@ -177,10 +177,14 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
+Năm đọc và năm in hai bài của Heidegger theo mục SEP "Martin Heidegger". Nozick, *Anarchy, State, and Utopia*: thí nghiệm cỗ máy trải nghiệm.
+
 1. Franssen, Maarten, Ibo van de Poel, Michael Klenk & Filippo Santoni de Sio, "Philosophy of Technology", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/technology/>
-2. Heidegger, Martin (1954), "Die Frage nach der Technik" (bài giảng năm 1953), trong *Vorträge und Aufsätze*, Pfullingen: Neske; và (1959), *Gelassenheit* (bài nói năm 1955), Pfullingen: Neske — bản tiếng Anh "Memorial Address" trong *Discourse on Thinking*, bản dịch John M. Anderson & E. Hans Freund. Năm đọc và năm in theo mục "Heidegger" của *Stanford Encyclopedia of Philosophy*: <https://plato.stanford.edu/archives/fall2026/entries/heidegger/>
-3. Ellul, Jacques (1954), *La Technique ou l'enjeu du siècle*, Paris: Armand Colin (bản tiếng Anh *The Technological Society*, 1964, New York: Knopf).
-4. Bostrom, Nick (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford: Oxford University Press; và (2005), "In Defense of Posthuman Dignity", *Bioethics* 19(3): 202–214. <https://doi.org/10.1111/j.1467-8519.2005.00437.x>
-5. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books (thí nghiệm "máy trải nghiệm").
-6. Winner, Langdon (1980), "Do Artifacts Have Politics?", *Daedalus* 109(1): 121–136.
-7. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. <https://doi.org/10.3998/phimp.2109>
+2. Heidegger, Martin (1954), "Die Frage nach der Technik" (bài giảng năm 1953), trong *Vorträge und Aufsätze*, Pfullingen: Neske.
+3. Heidegger, Martin (1959), *Gelassenheit* (bài nói năm 1955), Pfullingen: Neske; bản tiếng Anh "Memorial Address" trong *Discourse on Thinking*, bản dịch John M. Anderson & E. Hans Freund, New York: Harper & Row, 1966.
+4. Wrathall, Mark, “Martin Heidegger”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/heidegger/>
+5. Ellul, Jacques (1954), *La Technique ou l'enjeu du siècle*, Paris: Armand Colin (bản tiếng Anh *The Technological Society*, 1964, New York: Knopf).
+6. Bostrom, Nick (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford: Oxford University Press; và (2005), "In Defense of Posthuman Dignity", *Bioethics* 19(3): 202–214. <https://doi.org/10.1111/j.1467-8519.2005.00437.x>
+7. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
+8. Winner, Langdon (1980), "Do Artifacts Have Politics?", *Daedalus* 109(1): 121–136.
+9. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
