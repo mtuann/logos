@@ -13,7 +13,7 @@ block: tam-tri
     - Tiêu chí thân thể (Olson, animalism): bạn là một sinh vật người; bản sắc qua thời gian là sự liên tục sinh học — đơn giản, không vòng tròn, nhưng phải chấp nhận rằng bước vào máy dịch chuyển là chết thật.
     - Tiêu chí tâm lý ([Locke](../triet-gia/locke.md): bản sắc nằm ở ký ức/ý thức trải ngược về quá khứ): bị Reid phản bác bằng "viên sĩ quan dũng cảm" (vi phạm tính bắc cầu) và Butler tố tính vòng tròn; các nhà tân-Locke đáp bằng "chuỗi nối tiếp" và khái niệm "ký ức-giả".
     - [Parfit](../triet-gia/parfit.md) (1984): điều quan trọng không phải bản sắc (quan hệ một-một) mà là sự liên tục tâm lý (Quan hệ R) — minh chứng bằng trường hợp phân nhánh; và góc nhìn Phật giáo: vô ngã — không có cái tôi thường hằng, con người chỉ là tập hợp ngũ uẩn.
-    - PhilPapers 2020: tâm lý 43,7%, sinh học 19,1%, sự kiện bổ sung 14,9%; máy dịch chuyển: sống sót 35,2% / chết 40,1% — trực giác "sống sót" không rạch ròi như ta tưởng.
+    - PhilPapers 2020: tâm lý [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]]%, sinh học [[pp:ban-sac-ca-nhan.quan-diem-sinh-hoc]]%, sự kiện bổ sung [[pp:ban-sac-ca-nhan.quan-diem-su-kien-bo-sung]]%; máy dịch chuyển: sống sót [[pp:may-dich-chuyen-vat-chat-moi.song-sot]]% / chết [[pp:may-dich-chuyen-vat-chat-moi.chet]]% — trực giác "sống sót" không rạch ròi như ta tưởng.
 
 Hãy tìm một tấm ảnh của bạn chụp cách đây mười năm. Nhìn người trong ảnh: cơ thể ấy gần như đã thay hết tế bào; nhiều ký ức của người ấy bạn không còn nhớ; tính cách, sở thích, niềm tin của người ấy có lẽ cũng khác bây giờ. Vậy mà bạn vẫn nói "đó là *tôi*". Vì sao? Điều gì đã giữ cho "tôi" còn là "tôi" suốt mười năm, trong khi gần như mọi thứ tạo nên tôi đều đã đổi thay?
 
@@ -111,12 +111,12 @@ Luận điểm cốt lõi: không tồn tại một cái "tôi" thường hằng
 | Máy dịch chuyển (bản sao bằng vật chất mới) | Sống sót | [[pp:may-dich-chuyen-vat-chat-moi.song-sot]] |
 | | Chết | [[pp:may-dich-chuyen-vat-chat-moi.chet]] |
 
-<small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Cả hai đều là câu hỏi chính (hỏi mọi người tham gia): bản sắc cá nhân khoảng 1.610 người trả lời, máy dịch chuyển khoảng 1.570 người.</small>
+<small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Cả hai đều là câu hỏi chính (hỏi mọi người tham gia): bản sắc cá nhân khoảng [[pp:ban-sac-ca-nhan/n]] người trả lời, máy dịch chuyển khoảng [[pp:may-dich-chuyen-vat-chat-moi/n]] người.</small>
 
 Vài điều đáng chú ý:
 
-- **Quan điểm tâm lý (dòng dõi Locke) dẫn đầu** với 43,7%, hơn gấp đôi quan điểm sinh học. Nhưng hơn một nửa triết gia *không* chọn nó — không có đồng thuận.
-- **Câu hỏi máy dịch chuyển chia rẽ gần đều:** 35,2% nói bạn sống sót, 40,1% nói bạn chết. Đây là một trong những câu hỏi gây chia rẽ nhất của cả khảo sát — phù hợp với nhận định của Parfit: trực giác của ta về "sống sót" không rạch ròi như ta tưởng.
+- **Quan điểm tâm lý (dòng dõi Locke) dẫn đầu** với [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]]%, hơn gấp đôi quan điểm sinh học. Nhưng hơn một nửa triết gia *không* chọn nó — không có đồng thuận.
+- **Câu hỏi máy dịch chuyển chia rẽ gần đều:** [[pp:may-dich-chuyen-vat-chat-moi.song-sot]]% nói bạn sống sót, [[pp:may-dich-chuyen-vat-chat-moi.chet]]% nói bạn chết. Đây là một trong những câu hỏi gây chia rẽ nhất của cả khảo sát — phù hợp với nhận định của Parfit: trực giác của ta về "sống sót" không rạch ròi như ta tưởng.
 - Không có số liệu khảo sát riêng cho quan điểm vô ngã của Phật giáo trong đợt này.
 
 ## Liên hệ đời sống {#lien-he-doi-song}

@@ -118,7 +118,7 @@ Ngược lại, thất bại của mọi biện hộ cũng không phải là "b�
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về vấn đề sự dữ, nên **chưa có số liệu khảo sát riêng cho câu hỏi này**. Con số gần nhất là câu hỏi chính về Thượng đế nói chung (n ≈ 1.770): 18,9% chấp nhận hoặc nghiêng về hữu thần, 66,9% về vô thần (xem bài [Có thể chứng minh Chúa tồn tại bằng lý trí?](luan-chung-ton-giao.md)).
+Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về vấn đề sự dữ, nên **chưa có số liệu khảo sát riêng cho câu hỏi này**. Con số gần nhất là câu hỏi chính về Thượng đế nói chung (n ≈ [[pp:thuong-de/n]]): [[pp:thuong-de.huu-than]]% chấp nhận hoặc nghiêng về hữu thần, [[pp:thuong-de.vo-than]]% về vô thần (xem bài [Có thể chứng minh Chúa tồn tại bằng lý trí?](luan-chung-ton-giao.md)).
 
 Điều có thể nói chắc chắn về tình trạng tranh luận: phiên bản *logic* của vấn đề (Mackie) được coi là đã được Plantinga hóa giải thành công (chính Mackie, trong *The Miracle of Theism* năm 1982, cũng thừa nhận các học thuyết trung tâm của hữu thần không mâu thuẫn logic với nhau) — đây là một trong những điểm đồng thuận hiếm hoi của ngành. Tranh luận hiện nay tập trung gần như hoàn toàn vào phiên bản *bằng chứng* (Rowe vs các đáp lại), và chưa có bên nào thắng thế rõ ràng.
 

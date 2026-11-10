@@ -14,7 +14,7 @@ block: tri-thuc
     - Thuyết mạch lạc (Joachim 1906, Blanshard 1939): đúng là thuộc về một hệ niềm tin ăn khớp toàn diện. Phản bác của Russell (1912): một tiểu thuyết gia có thể bịa ra một quá khứ khớp với mọi điều ta biết mà vẫn sai.
     - Thực dụng luận và thuyết tri thức (Peirce 1878, James 1907, Putnam 1981): đúng là điều mà sự truy tìm lý tưởng sẽ đi tới. Phản bác: những "bí mật bị chôn vùi", và "hữu ích" không phải là "đúng".
     - Thuyết giảm phát ([Frege](../triet-gia/frege.md) 1918, Ramsey 1927, [Quine](../triet-gia/quine.md) 1970, Horwich 1990): nói "'tuyết trắng' là đúng" chỉ là nói tuyết trắng; chữ "đúng" là công cụ để khái quát, không phải tính chất sâu xa.
-    - PhilPapers 2020 (câu chính, n ≈ 1.640): tương ứng 51,4%, giảm phát 24,5%, tri thức 10,2% chấp nhận hoặc nghiêng về. Bài không chọn hộ bạn; chỉ nhắc rằng chân lý khác niềm tin, lý do tốt và cảm giác chắc chắn.
+    - PhilPapers 2020 (câu chính, n ≈ [[pp:chan-ly/n]]): tương ứng [[pp:chan-ly.thuyet-tuong-ung-correspondence]]%, giảm phát [[pp:chan-ly.thuyet-giam-phat-deflationary]]%, tri thức [[pp:chan-ly.thuyet-tri-thuc-epistemic]]% chấp nhận hoặc nghiêng về. Bài không chọn hộ bạn; chỉ nhắc rằng chân lý khác niềm tin, lý do tốt và cảm giác chắc chắn.
 
 "Đó là sự thật của tôi" — câu này ta nghe ngày càng nhiều, từ những trận cãi nhau trên mạng đến bữa cơm gia đình. Trong nhóm Zalo họ hàng, một ảnh chụp "công văn khẩn" được chuyển tiếp hàng trăm lần rồi mới bị phát hiện là giả. Ở phiên tòa xử một vụ va chạm giao thông, hai người làm chứng đều quả quyết: người nói đèn xanh, người nói đèn đỏ. Và một chatbot AI trả lời bạn trôi chảy, tự tin, kèm cả "sách tham khảo" không hề tồn tại.
 
@@ -114,8 +114,8 @@ Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%. Cột "loại trừ" chỉ tính những người chọn *duy nhất* lựa chọn đó.
 
-- **Thuyết tương ứng là đa số mỏng** (51,4%; 48,3% chọn *chỉ* nó), nhưng nhãn này che nhiều phiên bản, từ thuyết sự kiện của Russell đến câu tối giản của Aristotle. Phía còn lại chia hai: khoảng một phần tư nghiêng về thuyết giảm phát, một phần mười về thuyết tri thức. Không có lựa chọn riêng cho thuyết mạch lạc hay thực dụng luận; người theo hai hướng này có thể đã chọn "tri thức" hoặc "khác".
-- **Mâu thuẫn đúng**: 71,4% cho là bất khả, nhưng 12,4% chấp nhận hoặc nghiêng về chỗ có mâu thuẫn đúng thật sự, như Priest.
+- **Thuyết tương ứng là đa số mỏng** ([[pp:chan-ly.thuyet-tuong-ung-correspondence]]%; [[pp:chan-ly.thuyet-tuong-ung-correspondence/loai-tru]]% chọn *chỉ* nó), nhưng nhãn này che nhiều phiên bản, từ thuyết sự kiện của Russell đến câu tối giản của Aristotle. Phía còn lại chia hai: khoảng một phần tư nghiêng về thuyết giảm phát, một phần mười về thuyết tri thức. Không có lựa chọn riêng cho thuyết mạch lạc hay thực dụng luận; người theo hai hướng này có thể đã chọn "tri thức" hoặc "khác".
+- **Mâu thuẫn đúng**: [[pp:mau-thuan-dung.bat-kha]]% cho là bất khả, nhưng [[pp:mau-thuan-dung.co-that]]% chấp nhận hoặc nghiêng về chỗ có mâu thuẫn đúng thật sự, như Priest.
 
 Khảo sát diễn ra cuối năm 2020, trước khi chatbot AI phổ biến. Và số đông không quyết định chân lý — ngay Peirce cũng không coi một cuộc thăm dò là "ý kiến cuối cùng".
 

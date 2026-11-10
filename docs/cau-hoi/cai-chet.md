@@ -128,10 +128,10 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Đọc bảng này thế nào?
 
-- **Giới triết học chia gần đôi:** 44,9% sẽ chọn bất tử, 41,3% sẽ không — hai bên chênh nhau chưa tới bốn điểm phần trăm.
+- **Giới triết học chia gần đôi:** [[pp:bat-tu-ban-co-chon-khong.co]]% sẽ chọn bất tử, [[pp:bat-tu-ban-co-chon-khong.khong]]% sẽ không — hai bên chênh nhau chưa tới bốn điểm phần trăm.
 - **Câu hỏi này hỏi gì.** Nó hỏi một lựa chọn cá nhân (có muốn sống mãi không), không hỏi trạng thái đã chết có xấu cho người chết không. Nhưng hai câu hỏi liên quan với nhau: với Nagel, sống thêm luôn là điều tốt, nên cái chết đến lúc nào cũng là một mất mát — người nghĩ như ông có lý do để chọn "có". Epicurus thì viết rằng hiểu đúng về cái chết sẽ giải thoát ta khỏi khao khát bất tử.
 - **Câu hỏi không hỏi gì.** Câu trả lời "không" có thể đến từ nhiều lý do, không nhất thiết từ Epicurus — chẳng hạn lập luận nổi tiếng của Bernard Williams (1973) rằng một đời sống bất tận rốt cuộc sẽ trở nên nhàm chán không chịu nổi. Câu hỏi cũng chỉ gồm mấy chữ ("bất tử — bạn có chọn không?"), không mô tả bất tử trong điều kiện nào (khỏe mạnh hay già yếu, có thể dừng lại hay không), nên mỗi người có thể hình dung một kiểu bất tử khác.
-- **Mẫu khảo sát** là khoảng 1.110 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống — kể cả những truyền thống tôn giáo có câu trả lời riêng về sự sống sau cái chết.
+- **Mẫu khảo sát** là khoảng [[pp:bat-tu-ban-co-chon-khong/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống — kể cả những truyền thống tôn giáo có câu trả lời riêng về sự sống sau cái chết.
 
 Ngoài con số, có thể nói: tranh luận Epicurus – Nagel vẫn là trục chính của triết học về cái chết đương đại: hầu hết các bài viết sau này hoặc bênh vực lập luận tước đoạt, hoặc tìm cách cứu lập luận của Epicurus khỏi nó.
 

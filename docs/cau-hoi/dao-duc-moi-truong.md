@@ -12,7 +12,7 @@ block: dao-duc
 !!! summary "Tóm tắt 5 phút"
     - Lấy con người làm trung tâm: chỉ con người (hay sinh vật có lý tính) mới có giá trị nội tại; rừng quý vì cho ta gỗ, không khí, thuốc men — lập luận này đứng sau hầu hết luật môi trường hiện nay và đã đủ mạnh để hành động.
     - Lấy sự sống làm trung tâm: Taylor (mỗi sinh vật có "cái tốt của riêng nó"), Singer (tiêu chí là năng lực cảm nhận; phân biệt theo loài là speciesism), Regan (động vật là "chủ thể của một đời sống" nên có quyền, không đem ra cân đo lợi ích).
-    - Lấy hệ sinh thái làm trung tâm: Leopold (1949, "đạo đức đất" — hành động đúng khi giữ được sự toàn vẹn, ổn định và vẻ đẹp của cộng đồng sinh vật), Naess (1973, sinh thái học sâu vs nông); phản bác nặng nhất là nguy cơ "chủ nghĩa phát xít sinh thái". PhilPapers 2020 (câu bổ sung, n ≈ 890): 50,7% chấp nhận hoặc nghiêng về đạo đức môi trường không lấy con người làm trung tâm, 42,2% lấy con người làm trung tâm.
+    - Lấy hệ sinh thái làm trung tâm: Leopold (1949, "đạo đức đất" — hành động đúng khi giữ được sự toàn vẹn, ổn định và vẻ đẹp của cộng đồng sinh vật), Naess (1973, sinh thái học sâu vs nông); phản bác nặng nhất là nguy cơ "chủ nghĩa phát xít sinh thái". PhilPapers 2020 (câu bổ sung, n ≈ [[pp:dao-duc-moi-truong/n]]): [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]]% chấp nhận hoặc nghiêng về đạo đức môi trường không lấy con người làm trung tâm, [[pp:dao-duc-moi-truong.lay-con-nguoi-lam-trung-tam]]% lấy con người làm trung tâm.
 
 Một con đường mới sắp mở qua khu rừng gần nhà bạn. Để làm đường, phải chặt hàng trăm cây cổ thụ, trong đó có những cây đã đứng đó trước cả khi ông bà bạn ra đời. Người ủng hộ nói: đường giúp hàng nghìn người đi lại, buôn bán, cấp cứu nhanh hơn. Người phản đối nói: khu rừng có giá trị của riêng nó, không phải chỉ vì con người cần.
 
@@ -109,7 +109,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 Đọc bảng này thế nào?
 
 - **Câu về đạo đức môi trường chia giới triết học gần làm đôi**, với phe "không lấy con người làm trung tâm" nhỉnh hơn. Nhưng câu hỏi chỉ có hai nhãn lớn: nó không tách lập trường 2 (lấy sự sống làm trung tâm) với lập trường 3 (lấy hệ sinh thái làm trung tâm), nên không thể suy ra bao nhiêu triết gia theo Taylor, Singer, Regan hay Leopold. Nó cũng không hỏi về chính sách cụ thể — người theo lập trường 1 vẫn có thể ủng hộ bảo vệ môi trường mạnh mẽ.
-- Mẫu chỉ khoảng 890 người, là triết gia chuyên nghiệp chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh — không đại diện cho mọi truyền thống (chẳng hạn quan niệm về tự nhiên trong Đạo gia hay Phật giáo).
+- Mẫu chỉ khoảng [[pp:dao-duc-moi-truong/n]] người, là triết gia chuyên nghiệp chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh — không đại diện cho mọi truyền thống (chẳng hạn quan niệm về tự nhiên trong Đạo gia hay Phật giáo).
 - Câu về đạo đức học chuẩn tắc là câu hỏi về đạo đức học *nói chung*, không phải về môi trường. Điều nó cho thấy là: ngay ở câu hỏi nền tảng nhất của đạo đức học, giới chuyên môn cũng chưa đồng thuận — ba họ lý thuyết chia nhau gần đều. Tranh luận trong bài này (giá trị nội tại của thiên nhiên) là một mặt trận cụ thể của sự bất đồng lớn hơn đó.
 - Lập luận của Singer trong bài thuộc họ **hệ quả luận** (*consequentialism*): đúng sai tùy vào hậu quả (tổng đau khổ và hạnh phúc). Lập luận của Taylor và Regan gần với **nghĩa vụ luận** (*deontology*): có những điều không được làm với sinh vật khác, bất kể hậu quả tính ra có lợi.
 

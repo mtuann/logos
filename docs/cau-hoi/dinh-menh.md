@@ -13,7 +13,7 @@ block: tu-do
     - Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính tất yếu logic.
     - Con quỷ của Laplace (1814): trí tuệ biết hết hiện tại sẽ thấy hết tương lai; hai phản bác lớn — hỗn loạn (chỉ đánh vào khả năng dự đoán, chưa đánh vào tính xác định) và cơ học lượng tử (các diễn giải chưa ngã ngũ).
     - Định mệnh từ logic (lập luận "hải chiến ngày mai" của [Aristotle](../triet-gia/aristotle.md)): ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), "đúng" không có nghĩa là "tất yếu" (chân trị đi theo sự kiện, không khóa sự kiện), và kể cả đúng thì nó chứng minh sai thứ (tính tất yếu logic, chưa phải "dù làm gì cũng vậy").
-    - Boethius (khoảng 524): Chúa không "đoán trước" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc; và ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ. PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%), và 39,9% nghiêng về vĩnh cửu luận về thời gian (tương lai "tồn tại", nhưng điều đó không phải thuyết định mệnh).
+    - Boethius (khoảng 524): Chúa không "đoán trước" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc; và ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ. PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%), và [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% nghiêng về vĩnh cửu luận về thời gian (tương lai "tồn tại", nhưng điều đó không phải thuyết định mệnh).
 
 Đầu năm, nhiều người rủ nhau đi xem tử vi, xem bói. Người thì nghe cho vui, người thì thật sự tin: năm nay "sao xấu chiếu mệnh", nên làm gì cũng dè chừng. Đằng sau thói quen đó là một câu hỏi triết học rất cũ: tương lai là thứ đã được viết sẵn, chỉ chờ ta đọc — hay là thứ còn để ngỏ, chờ ta viết tiếp?
 
@@ -125,7 +125,7 @@ Nhiều người nghe nói cơ học lượng tử có "ngẫu nhiên thật s�
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Ở đây phải thành thật: PhilPapers Survey 2020 **không có câu hỏi riêng** về thuyết định mệnh logic hay về vấn đề biết trước và tự do. Khảo sát có hỏi về tự do ý chí nói chung (tương thích luận 59,2%, thuyết ý chí tự do 18,8%, không có tự do ý chí 11,2% — xem [bài về tự do ý chí](tu-do-y-chi.md)), nhưng đó là một câu hỏi khác.
+Ở đây phải thành thật: PhilPapers Survey 2020 **không có câu hỏi riêng** về thuyết định mệnh logic hay về vấn đề biết trước và tự do. Khảo sát có hỏi về tự do ý chí nói chung (tương thích luận [[pp:tu-do-y-chi.tuong-thich-luan]]%, thuyết ý chí tự do [[pp:tu-do-y-chi.thuyet-y-chi-tu-do-libertarianism]]%, không có tự do ý chí [[pp:tu-do-y-chi.khong-co-tu-do-y-chi]]% — xem [bài về tự do ý chí](tu-do-y-chi.md)), nhưng đó là một câu hỏi khác.
 
 Tuy vậy, có hai câu hỏi bổ sung chạm thẳng vào hai mạch của bài: diễn giải cơ học lượng tử (mục 4), và câu hỏi tương lai đã "có sẵn" hay chưa (mục 2).
 
@@ -141,13 +141,13 @@ Tuy vậy, có hai câu hỏi bổ sung chạm thẳng vào hai mạch của bà
 | | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
 | | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm): cơ học lượng tử n ≈ 560 người trả lời, bản thể luận thời gian n ≈ 730.
+\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]].
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người chọn nhiều lựa chọn được tính vào mỗi lựa chọn, nên tổng có thể vượt 100%.
 
 Đọc bảng này thế nào?
 
-- **Cơ học lượng tử:** không diễn giải nào được quá 22%, và nhóm "Khác" lớn nhất (32,0%). Điều này khớp với nhận xét ở mục 4: câu hỏi còn bỏ ngỏ. Nhưng đây là ý kiến của khoảng 560 triết gia, không phải của giới vật lý; và câu hỏi hỏi diễn giải nào đúng, không hỏi thẳng thế giới có tất định hay không (diễn giải biến ẩn kiểu Bohm và đa thế giới giữ được tính tất định ở một nghĩa nào đó, các thuyết sụp đổ hàm sóng thì không).
+- **Cơ học lượng tử:** không diễn giải nào được quá 22%, và nhóm "Khác" lớn nhất ([[pp:co-hoc-luong-tu-dien-giai.khac]]%). Điều này khớp với nhận xét ở mục 4: câu hỏi còn bỏ ngỏ. Nhưng đây là ý kiến của khoảng [[pp:co-hoc-luong-tu-dien-giai/n]] triết gia, không phải của giới vật lý; và câu hỏi hỏi diễn giải nào đúng, không hỏi thẳng thế giới có tất định hay không (diễn giải biến ẩn kiểu Bohm và đa thế giới giữ được tính tất định ở một nghĩa nào đó, các thuyết sụp đổ hàm sóng thì không).
 - **Thời gian:** gần bốn trên mười người trả lời nghiêng về vĩnh cửu luận, tức coi tương lai "tồn tại" theo cách quá khứ tồn tại. Nghe như "mọi thứ đã được viết sẵn"? Không hẳn: vĩnh cửu luận là một luận đề về những gì *tồn tại*, không phải thuyết định mệnh. Nó không nói kết cục sẽ đến bất kể bạn làm gì, đúng như sự phân biệt ở đầu bài. Hiện tại luận và thuyết khối đang lớn thì cho rằng tương lai chưa tồn tại, gần với hình ảnh "tương lai mở" hơn.
 - **Mẫu khảo sát:** người trả lời là triết gia chuyên nghiệp, phần lớn ở các nước nói tiếng Anh, và hai câu trên là câu bổ sung nên ít người trả lời hơn hẳn câu chính. Số liệu cho biết giới triết học này đang nghiêng về đâu, không cho biết ai đúng, và không đại diện cho mọi truyền thống triết học.
 

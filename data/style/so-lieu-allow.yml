@@ -4,4 +4,27 @@
 #   text: một đoạn của dòng chứa số (với quiz: đúng chữ "câu N: số%" như báo cáo của linter in)
 #   reason: lý do
 # Mục không còn khớp chỗ nào thì linter báo `mien-thua`.
-[]
+- page: cau-hoi/ban-tinh-con-nguoi.md
+  text: chỉ 49,34% chọn nhân vật giúp đỡ
+  reason: số liệu thí nghiệm tâm lý học trẻ em của Lucca và cộng sự (2025), không phải PhilPapers
+- page: cau-hoi/cai-gi-ton-tai.md
+  text: cộng lại tối đa khoảng 40%
+  reason: tổng làm tròn của hai lựa chọn phổ quát nội tại và phổ quát siêu việt (câu "Tính chất"), câu văn ghi rõ "tối đa khoảng"
+- page: cau-hoi/pho-quat.md
+  text: cộng lại tối đa khoảng 40%
+  reason: tổng làm tròn của hai lựa chọn phổ quát nội tại và phổ quát siêu việt (câu "Tính chất"), câu văn ghi rõ "tối đa khoảng"
+- page: cau-hoi/dao-duc-hanh-dong.md
+  text: không họ nào vượt quá 40%
+  reason: ngưỡng tròn, không phải số khảo sát; ba số của câu "Đạo đức học chuẩn tắc" in bằng shortcode ở hộp Tóm tắt
+- page: cau-hoi/dinh-menh.md
+  text: quá 22%
+  reason: ngưỡng tròn, không phải số khảo sát (lựa chọn cao nhất của câu "Cơ học lượng tử (diễn giải)" là biến ẩn, `co-hoc-luong-tu-dien-giai.bien-an`)
+- page: cau-hoi/dao-duc-ung-dung.md
+  text: khoảng 45% cho rằng ăn thịt là *không* được phép
+  reason: tổng làm tròn của hai lựa chọn ăn chay và thuần chay (câu "Ăn động vật…"), câu văn ghi rõ "khoảng"
+- page: cau-hoi/khi-hau-trach-nhiem.md
+  text: 71% phát thải công nghiệp toàn cầu
+  reason: số liệu CDP Carbon Majors Report 2017, không phải PhilPapers
+- page: cau-hoi/khi-hau-trach-nhiem.md
+  text: "câu 2: 71%"
+  reason: quiz nhắc số liệu CDP Carbon Majors Report 2017, không phải PhilPapers

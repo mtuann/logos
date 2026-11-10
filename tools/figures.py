@@ -240,6 +240,19 @@ def pp(qid: str, bars: list[tuple[str, str]]) -> list[tuple[str, float]]:
     return [(label, opts[oid]["pct"]) for label, oid in bars]
 
 
+def ppv(qid: str, oid: str) -> str:
+    """% của lựa chọn `oid` trong câu `qid`, một chữ số lẻ, dấu phẩy — để ghép vào chữ của hình (nhãn, alt, chú thích),
+    không gõ tay số khảo sát (lint_so_lieu, luật du-lieu; cổng 5.2)."""
+    pp(qid, [])                                   # nạp kho
+    return f"{next(o for o in _PP[qid]['options'] if o['id'] == oid)['pct']:.1f}".replace(".", ",")
+
+
+def ppn(qid: str) -> str:
+    """Số người trả lời câu `qid` (kho làm tròn hàng chục), in kiểu Việt Nam: 1.020."""
+    pp(qid, [])
+    return f"{_PP[qid]['n']:,}".replace(",", ".")
+
+
 def fig_philpapers_dao_duc() -> str:
     return bar_chart(
         pp("dao-duc-hoc-chuan-tac", [("Đạo đức học đức hạnh", "dao-duc-hoc-duc-hanh"),
@@ -874,7 +887,7 @@ def fig_hanh_phuc_may() -> str:
         _t("bạn", 320, 332, 13),
         arrow(292, 268, 190, 172),
         arrow(348, 268, 450, 172),
-        _t("Bạn có bước vào không? 76,9% triết gia được hỏi nói", 320, 366, 13),
+        _t(f"Bạn có bước vào không? {ppv('may-trai-nghiem-co-vao-khong', 'khong')}% triết gia được hỏi nói", 320, 366, 13),
         _t("KHÔNG (PhilPapers Survey 2020).", 320, 386, 13, bold=True),
     ]
     return svg_wrap("".join(parts), 640, 406,
@@ -944,18 +957,24 @@ FIGURES = {
         "make": fig_cay_tu_do_y_chi,
     },
     "philpapers-dao-duc": {
-        "alt": "Biểu đồ cột: đạo đức học đức hạnh 37,0%, nghĩa vụ luận 32,1%, hệ quả luận 30,6%",
+        "alt": f"Biểu đồ cột: đạo đức học đức hạnh {ppv('dao-duc-hoc-chuan-tac', 'dao-duc-hoc-duc-hanh')}%, "
+               f"nghĩa vụ luận {ppv('dao-duc-hoc-chuan-tac', 'nghia-vu-luan')}%, "
+               f"hệ quả luận {ppv('dao-duc-hoc-chuan-tac', 'he-qua-luan')}%",
         "caption": "Tỉ lệ người chấp nhận hoặc nghiêng về (PhilPapers Survey 2020, Bourget & Chalmers 2023).",
         "make": fig_philpapers_dao_duc,
     },
     "philpapers-tu-do": {
-        "alt": "Biểu đồ cột: tương thích luận 59,2%, thuyết ý chí tự do 18,8%, không có tự do ý chí 11,2%",
+        "alt": f"Biểu đồ cột: tương thích luận {ppv('tu-do-y-chi', 'tuong-thich-luan')}%, "
+               f"thuyết ý chí tự do {ppv('tu-do-y-chi', 'thuyet-y-chi-tu-do-libertarianism')}%, "
+               f"không có tự do ý chí {ppv('tu-do-y-chi', 'khong-co-tu-do-y-chi')}%",
         "caption": "Tỉ lệ người chấp nhận hoặc nghiêng về (PhilPapers Survey 2020, Bourget & Chalmers 2023).",
         "make": fig_philpapers_tu_do,
     },
     "philpapers-jtb": {
-        "alt": "Biểu đồ cột: JTB 23,6%, một phân tích khác 32,2%, không có phân tích nào 30,6%",
-        "caption": "Câu hỏi bổ sung, khoảng 1.000–1.100 người trả lời (PhilPapers Survey 2020).",
+        "alt": f"Biểu đồ cột: JTB {ppv('phan-tich-khai-niem-tri-thuc', 'niem-tin-dung-duoc-bien-minh-jtb')}%, "
+               f"một phân tích khác {ppv('phan-tich-khai-niem-tri-thuc', 'mot-phan-tich-khac')}%, "
+               f"không có phân tích nào {ppv('phan-tich-khai-niem-tri-thuc', 'khong-co-phan-tich-nao')}%",
+        "caption": f"Câu hỏi bổ sung, khoảng {ppn('phan-tich-khai-niem-tri-thuc')} người trả lời (PhilPapers Survey 2020).",
         "make": fig_philpapers_jtb,
     },
     "rawls-man-vo-tri": {
@@ -1055,7 +1074,8 @@ FIGURES = {
     },
     "hanh-phuc-may": {
         "alt": "Một người đứng giữa hai lựa chọn: cắm vào máy để có mọi trải nghiệm hạnh phúc (nhưng không thật) và sống đời thực vui buồn lẫn lộn (nhưng là thật)",
-        "caption": "Thí nghiệm của Nozick (1974): bạn có đánh đổi đời thực để lấy một đời hạnh phúc giả lập không? Khảo sát PhilPapers 2020: 76,9% triết gia nói không.",
+        "caption": "Thí nghiệm của Nozick (1974): bạn có đánh đổi đời thực để lấy một đời hạnh phúc giả lập không? Khảo sát PhilPapers 2020: "
+                   f"{ppv('may-trai-nghiem-co-vao-khong', 'khong')}% triết gia nói không.",
         "make": fig_hanh_phuc_may,
     },
     "duc-tri-phap-tri": {
@@ -1089,7 +1109,9 @@ def process_markdown(text: str) -> str:
             raise SystemExit(f"Hình chưa định nghĩa: {name}")
         return render_block(name)
 
-    pattern = re.compile(r"<!-- fig:([a-z0-9-]+) -->\s*<!-- /fig:\1 -->", re.S)
+    # Cả cặp dấu trống lẫn khối đã điền: khối đã điền được sinh lại, nên --check bắt cả hình cũ (số, alt, chú thích
+    # đổi theo kho mà trang chưa sinh lại; đợt 5.2).
+    pattern = re.compile(r"<!-- fig:([a-z0-9-]+) -->.*?<!-- /fig:\1 -->", re.S)
     return pattern.sub(repl, text)
 
 
@@ -1120,7 +1142,7 @@ def main(argv: list[str]) -> int:
             return 1
         if new != current:
             if check:
-                errors.append(f"{page.relative_to(ROOT)} có dấu fig chưa điền — chạy: python tools/figures.py")
+                errors.append(f"{page.relative_to(ROOT)} có hình chưa điền hoặc đã cũ — chạy: python tools/figures.py")
             else:
                 page.write_text(new, encoding="utf-8")
 
