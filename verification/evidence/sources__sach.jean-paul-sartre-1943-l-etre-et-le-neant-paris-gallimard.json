@@ -2,14 +2,33 @@
   "unit": "sources/sach.jean-paul-sartre-1943-l-etre-et-le-neant-paris-gallimard",
   "hash": "sha256:1b424119b9eef14cde8b631d98ae537387ad7a0207b14f0d53aa07eb45097223",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "Sartre (1943), L'Être et le néant, Paris: Gallimard",
+      "text": "Sartre, L'Être et le néant (essai d'ontologie phénoménologique) có thật; tác giả Jean-Paul Sartre",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL4489180W",
+          "quote": "L' être et le néant, essai d'ontologie phénoménologique",
+          "where": "Open Library search: tác giả Jean-Paul Sartre"
+        }
+      ]
+    },
+    {
+      "text": "năm 1943, Paris: Gallimard",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL4489180W",
+          "quote": "L' être et le néant, essai d'ontologie phénoménologique|Jean-Paul Sartre|1943|Gallimard",
+          "where": "kết quả JSON search.json, trường first_publish_year và publisher"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa mở được nguồn (hết lượt)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): Open Library ghi 1943, Gallimard (nơi in Paris không in trong dữ liệu OL, chưa kiểm riêng). Bản Tel của Gallimard có trên Internet Archive (identifier l_etre_et_le_neant_tel_gallimard, ghi 1944 theo metadata bản scan, là bản in lại). Link đề xuất: https://openlibrary.org/works/OL4489180W"
 }

@@ -2,14 +2,21 @@
   "unit": "sources/sach.singer-peter-2009-the-life-you-can-save-new-york-random-hous",
   "hash": "sha256:e28bf1b26bd2487d2dd2f524dce45d1137f04e6dffe6a1f764d7a500410eaaf9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
       "text": "Singer, Peter (2009), *The Life You Can Save*, New York: Random House.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=the+life+you+can+save&author=singer",
+          "quote": "\"first_publish_year\":2009",
+          "where": "Open Library works/OL1819641W: The life you can save, Peter Singer, publisher Random House"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): Open Library ghi Peter Singer, The life you can save, 2009, Random House (ISBN 9781400067107 / 9781588367792). Link ổn định đề xuất: https://openlibrary.org/works/OL1819641W. Chưa mở trang nhà xuất bản; địa điểm 'New York' không có trong Open Library nhưng khớp với Random House."
 }

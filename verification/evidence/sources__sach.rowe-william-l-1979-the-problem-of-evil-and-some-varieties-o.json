@@ -2,14 +2,21 @@
   "unit": "sources/sach.rowe-william-l-1979-the-problem-of-evil-and-some-varieties-o",
   "hash": "sha256:2ba4bd6816f3cb063a2abd1e530e616d058699a8db00e41288151fc06042e2f3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Rowe, William L. (1979), \"The Problem of Evil and Some Varieties of Atheism\", *American Philosophical Quarterly* 16(4): 335–341.",
+      "text": "Rowe, William L. (1979), The Problem of Evil and Some Varieties of Atheism, American Philosophical Quarterly 16(4): 335–341",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/20009775",
+          "quote": "American Philosophical Quarterly, Vol. 16, No. 4, Oct., 1979",
+          "where": "JSON-LD trang: author William L. Rowe, pageStart 335, pageEnd 341, copyrightYear 1979, publisher University of Illinois Press"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): đọc metadata trang JSTOR. Link ổn định đề xuất: https://www.jstor.org/stable/20009775"
 }

@@ -2,14 +2,26 @@
   "unit": "sources/sach.laudan-larry-1983-the-demise-of-the-demarcation-problem-tron",
   "hash": "sha256:1d1be4f7ae7e8b72b85f763f1edddc4c04ab8db18a79a71315fccb9a4804e2fb",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "Laudan, Larry (1983), \"The Demise of the Demarcation Problem\", trong R. S. Cohen & L. Laudan (chủ biên), *Physics, Philosophy and Psychoanalysis*, Dordrecht: Reidel.",
+      "text": "Laudan (1983), \"The Demise of the Demarcation Problem\", trong Cohen & Laudan (ch.b.), Physics, Philosophy and Psychoanalysis, Dordrecht: Reidel",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Laudan+The+Demise+of+the+Demarcation+Problem+Physics%2C+Philosophy+and+Psychoanalysis&rows=3",
+          "quote": "The Demise of the Demarcation Problem",
+          "where": "Crossref: Laudan, 1983, tr. 111-127, DOI 10.1007/978-94-009-7055-7_6, container Physics, Philosophy and Psychoanalysis; sách biên tập Cohen, Laudan"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL19173749W/editions.json?limit=30",
+          "quote": "edited by R.S. Cohen and L. Laudan.",
+          "where": "Open Library: D. Reidel, Dordrecht, Holland, 1983"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Link ổn định đề xuất: https://doi.org/10.1007/978-94-009-7055-7_6 (tr. 111-127). Crossref ghi nhà xuất bản Springer Netherlands (kế thừa Reidel); Open Library ghi D. Reidel, Dordrecht."
 }

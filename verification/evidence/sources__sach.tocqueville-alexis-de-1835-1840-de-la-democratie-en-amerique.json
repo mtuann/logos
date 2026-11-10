@@ -2,14 +2,26 @@
   "unit": "sources/sach.tocqueville-alexis-de-1835-1840-de-la-democratie-en-amerique",
   "hash": "sha256:749ef6e5aa1de25de8ae7e54f0d148f4ffe4fdfb192a4ec8ca9468275dff300f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
-      "text": "Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin.",
+      "text": "Tocqueville, De la démocratie en Amérique, Paris: Gosselin, tập 1835 (và 1840)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28d%C3%A9mocratie+en+Am%C3%A9rique%29+AND+creator%3Atocqueville+AND+publisher%3Agosselin",
+          "quote": "\"publisher\":\"C. Gosselin\",\"title\":\"De la d\\u00e9mocratie en Am\\u00e9rique\",\"year\":1840",
+          "where": "Internet Archive deladmocratieen13tocqgoog"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=de+la+democratie+en+amerique&author=tocqueville",
+          "quote": "\"first_publish_year\":1835",
+          "where": "Open Library works/OL278001W, publisher 'Librairie de Charles Gosselin'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): Open Library xếp 1835 là năm xuất bản đầu; Internet Archive có bản Gosselin (các tập in 1836 và 1840). Link ổn định đề xuất: https://archive.org/details/deladmocratieen13tocqgoog (tập 1840) và https://openlibrary.org/works/OL278001W. Chưa tự mở trang kiểm riêng từng tập 1835/1840 ngoài siêu dữ liệu."
 }

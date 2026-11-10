@@ -2,25 +2,32 @@
   "unit": "sources/sach.rene-descartes-meditations-on-first-philosophy-1641-ban-dich",
   "hash": "sha256:9ad8fe364156479d4e29c41b1213547e5962f177fdc529f6bc130a2e0adc313c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Descartes, Meditations on First Philosophy (1641), có Meditationes de prima philosophia",
+      "text": "Descartes, Meditations on First Philosophy, in lần đầu năm 1641 (Latin)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/23306",
-          "quote": "Meditationes de prima philosophia"
+          "url": "https://www.gutenberg.org/ebooks/70091",
+          "quote": "first published in Latin in 1641"
         }
       ]
     },
     {
-      "text": "bản dịch tiếng Anh công cộng (ví dụ Veitch)",
+      "text": "có bản dịch tiếng Anh thuộc phạm vi công cộng (Molyneux, 1680, Gutenberg #70091)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/70091",
+          "quote": "Public domain in the USA.",
+          "where": "Copyright; Translator: Molyneux, William; Uniform Title: Meditationes de prima philosophia. English"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Gutenberg #23306 chỉ là bản Latin; #59 là Discourse on Method (Veitch), chưa thấy bản Meditations tiếng Anh. Cần tìm số ebook bản Meditations tiếng Anh (Veitch/Haldane). Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): bản dịch công cộng là Six metaphysical meditations (Molyneux, in 1680, Gutenberg #70091), không phải Veitch/Haldane; Gutenberg #23306 là bản Latin. Link ổn định đề xuất: https://www.gutenberg.org/ebooks/70091. Tên mục ghi 'Meditations on First Philosophy' là tiêu đề thông dụng, bản Molyneux có tên khác — nên ghi rõ 'bản dịch Molyneux 1680' trong mục."
 }

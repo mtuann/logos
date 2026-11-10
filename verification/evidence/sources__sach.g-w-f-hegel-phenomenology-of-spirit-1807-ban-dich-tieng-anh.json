@@ -2,19 +2,46 @@
   "unit": "sources/sach.g-w-f-hegel-phenomenology-of-spirit-1807-ban-dich-tieng-anh",
   "hash": "sha256:34422b95575bf3a911d8d44962b2be7d1dd5bb73d663c056ee0a5680ecfb04a6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
       "text": "Hegel, Phenomenology of Spirit, 1807",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "the Phenomenology of Spirit (published 1807)"
+        }
+      ]
     },
     {
-      "text": "bản dịch tiếng Anh công cộng (public domain) tồn tại",
+      "text": "tồn tại bản dịch tiếng Anh công cộng (J. B. Baillie, 1910)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28phenomenology+of+mind%29+AND+creator%3Ahegel&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=creator&fl%5B%5D=publisher&rows=15&output=json",
+          "quote": "The phenomenology of mind",
+          "where": "Internet Archive: phenomenologyof02hege, 1910, Hegel / Baillie, J. B., London: Sonnenschein; New York: Macmillan (cũng cu31924097557171, phenomenologyofm02hege)"
+        }
+      ]
+    },
+    {
+      "text": "mục ghi 'bản dịch tiếng Anh công cộng' dưới tên 'Phenomenology of Spirit' nhưng bản công cộng (Baillie 1910) mang tên 'The Phenomenology of Mind'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "G. W. F. Hegel, Phenomenology of Spirit (1807) — bản dịch tiếng Anh công cộng: J. B. Baillie, The Phenomenology of Mind (London: Sonnenschein, 1910).",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28phenomenology+of+mind%29+AND+creator%3Ahegel&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=creator&fl%5B%5D=publisher&rows=15&output=json",
+          "quote": "The phenomenology of mind",
+          "where": "Internet Archive, ngày 1910-01-01, dịch giả J. B. Baillie"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ thấy danh sách Internet Archive (phenomenologyofm00hege, thephenomenologyofmind) nhưng không mở được metadata (hết hạn mức fetch). Lưu ý: bản dịch PD là của J. B. Baillie, tên 'The Phenomenology of Mind' (1910), không phải 'of Spirit' (bản Miller 1977 còn bản quyền); nên ghi rõ tên bản dịch. Link đề xuất: https://archive.org/details/phenomenologyofm00hege (cần người xác nhận)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): SEP xác nhận 1807. Bản công cộng là Baillie 1910 (tên 'of Mind'); bản 'of Spirit' (Miller 1977) còn bản quyền. Nên ghi rõ dịch giả/tên. Link ổn định đề xuất: https://archive.org/details/phenomenologyof02hege (xác nhận qua truy vấn tìm kiếm, chưa mở trang chi tiết). Tính 'công cộng' theo năm 1910/tác giả mất 1940: suy luận, người làm nên kiểm theo luật nước."
 }

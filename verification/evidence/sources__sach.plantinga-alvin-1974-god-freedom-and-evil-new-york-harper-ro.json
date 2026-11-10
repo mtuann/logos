@@ -2,12 +2,19 @@
   "unit": "sources/sach.plantinga-alvin-1974-god-freedom-and-evil-new-york-harper-ro",
   "hash": "sha256:945f5eafaa2507157b7654fb0884e2ca11816a473c2ff9eb0b43eb4c870103ac",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r20",
   "claims": [
     {
       "text": "Plantinga (1974), God, Freedom, and Evil, New York: Harper & Row",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1875212W/editions.json?limit=60",
+          "quote": "Harper & Row",
+          "where": "Open Library, ấn bản New York 1974 (ISBN 0061361402, OL5423578M)"
+        }
+      ]
     },
     {
       "text": "tái bản Grand Rapids: Eerdmans, 1977",
@@ -15,12 +22,18 @@
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://openlibrary.org/works/OL1875212W/editions.json?limit=60",
+          "quote": "Eerdmans",
+          "where": "Open Library, ấn bản Grand Rapids 1977 (ISBN 0802817319, OL4548875M)"
+        },
+        {
           "url": "https://books.google.com/books?vid=ISBN9780802817310",
-          "quote": "Eerdmans Publishing Company"
+          "quote": "Eerdmans Publishing Company",
+          "where": "lượt kiểm trước"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ thấy bản Eerdmans 1977 (Google Books ISBN 9780802817310); bản Harper & Row 1974 chưa xác nhận. Link đề xuất: https://books.google.com/books?vid=ISBN9780802817310 Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Open Library liệt kê Harper & Row (New York, 1974), Allen and Unwin (London, 1975), Eerdmans (Grand Rapids, 1977). Link ổn định đề xuất: https://openlibrary.org/books/OL5423578M"
 }

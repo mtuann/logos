@@ -2,30 +2,43 @@
   "unit": "sources/sach.popper-karl-the-logic-of-scientific-discovery-london-routled",
   "hash": "sha256:16d98cc1e727ea90ea0aa7660ea5896db92f7a088f4c8e5457f2eeaf8d6c77b5",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r20",
   "claims": [
     {
-      "text": "Popper, The Logic of Scientific Discovery, Routledge Classics, 2002",
+      "text": "The Logic of Scientific Discovery, London: Routledge Classics, 2002",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.routledge.com/The-Logic-of-Scientific-Discovery/Popper/p/book/9780415278447",
-          "quote": "2nd Edition"
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
+          "quote": "( Routledge Classics . ) London : Routledge",
+          "where": "đoạn trích Google Books của Pelkey 2011, trích bản Popper dịch J. và L. Freed"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
+          "quote": "The Logic of Scientific Discovery",
+          "where": "mục Google Books, Karl Raimund Popper, 2002"
         }
       ]
     },
     {
-      "text": "bản dịch của Logik der Forschung, Vienna: Julius Springer, 1934",
+      "text": "Bản dịch của Logik der Forschung, Vienna: Julius Springer, 1934",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=%22Logic%20of%20Scientific%20Discovery%22+Popper+%22Routledge%20Classics%22+%22Julius%20Springer%22+Vienna+1934",
+          "quote": "Logik der Forschung . Vienna : Verlag von Julius Springer",
+          "where": "Pelkey 2011"
+        }
+      ]
     },
     {
-      "text": "xem Lời người dịch và §1, §4, §6, §11, §20",
-      "kind": "du-kien",
+      "text": "Các vị trí 'Lời người dịch' và §1, §4, §6, §11, §20 (chưa mở được văn bản)",
+      "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang Routledge: 2002, 2nd Edition; chưa thấy chữ 'Routledge Classics' trên trang. Springer 1934 và các § chưa kiểm. Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): bản Routledge Classics 2002 xác nhận gián tiếp qua trích dẫn thứ cấp; trang Routledge lượt trước chỉ ghi 2002, 2nd Edition. Các § chưa đối chiếu. Link đề xuất: https://www.routledge.com/The-Logic-of-Scientific-Discovery/Popper/p/book/9780415278447"
 }

@@ -2,14 +2,48 @@
   "unit": "sources/sach.gaunilo-thanh-marmoutier-liber-pro-insipiente-benh-vuc-ke-ng",
   "hash": "sha256:8913ee6a5d69bec54f6734e31273c3a1683691f405be77e2d0a841a4387e99db",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
-      "text": "Gaunilo thành Marmoutier, Liber pro insipiente (Bênh vực kẻ ngu dại), đáp lại Anselm",
+      "text": "Gaunilo thành Marmoutier là tác giả Liber pro insipiente",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Gaunilo",
+          "quote": "Benedictine monk of the Marmoutier Abbey near Tours, France"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Gaunilo",
+          "quote": "Gaunilo’s Liber pro insipiente (“In Defense of the Fool”)"
+        }
+      ]
+    },
+    {
+      "text": "đáp lại Anselm, viết cùng thời",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "Critiques of ontological arguments begin with Gaunilo, a contemporary of Anselm.",
+          "where": "SEP Ontological Arguments (fall2026); Timeline: 1078 Proslogion, 'Followed soon after by Gaunilo’s critique On Behalf of the Fool'"
+        }
+      ]
+    },
+    {
+      "text": "bản dịch tiếng Việt 'Bênh vực kẻ ngu dại' sát nghĩa 'In Defense of / On Behalf of the Fool'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "Gaunilo, “On Behalf of the Fool”",
+          "where": "Tài liệu tham khảo SEP; Britannica: 'In Defense of the Fool'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa mở được nguồn nào trong phiên (hết hạn mức fetch/search). Cần người kiểm hoặc lượt sau."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): mục là một tác phẩm cổ (cuối thế kỷ 11), không có nhà xuất bản; xác nhận qua SEP và Britannica. Nên dùng ấn bản/bản dịch để người đọc truy cập: Charlesworth (trans.), St. Anselm's Proslogion, Oxford: Clarendon Press, 1965 (SEP ghi; Open Library: first_publish_year 1965, Oxford at the Clarendon Press). Link ổn định: https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/ hoặc bản dịch Fordham Internet Medieval Sourcebook (SEP liệt kê, chưa mở)."
 }

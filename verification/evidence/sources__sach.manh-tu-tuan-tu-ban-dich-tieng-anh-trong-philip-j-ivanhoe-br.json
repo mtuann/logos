@@ -2,14 +2,45 @@
   "unit": "sources/sach.manh-tu-tuan-tu-ban-dich-tieng-anh-trong-philip-j-ivanhoe-br",
   "hash": "sha256:83df4ee6d9719daad33458f78e80bc8148ce353a388ac7ebaa2f60c4c22c70a8",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "*Mạnh Tử*; *Tuân Tử* — bản dịch tiếng Anh trong Philip J. Ivanhoe & Bryan W. Van Norden (chủ biên) (2005), *Readings in Classical Chinese Philosophy*, Hackett.",
+      "text": "Ivanhoe & Van Norden (chủ biên), Readings in Classical Chinese Philosophy, Hackett",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL17742879W",
+          "quote": "Readings in classical Chinese philosophy; P. J. Ivanhoe, Bryan W. Van Norden; Hackett",
+          "where": "Open Library search.json"
+        }
+      ]
+    },
+    {
+      "text": "Có phần Mạnh Tử (Mencius) và Tuân Tử (Xunzi) trong sách",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL17742879W",
+          "quote": "Confucius, Mencius, Mozi, 老子, Zhuangzi, Xunzi, Han Fei",
+          "where": "danh sách tác giả/tác phẩm trên Open Library"
+        }
+      ]
+    },
+    {
+      "text": "Bản in 2005, Hackett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL3426593M",
+          "quote": "Hackett Pub. | 2005 | Indianapolis",
+          "where": "Open Library editions.json"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Đây là bản in lần 2 (2005) của Hackett; còn các bản 2000/2001/2003. Mục ghi 'bản dịch tiếng Anh trong...' phù hợp: sách là tuyển dịch. Link ổn định đề xuất: https://openlibrary.org/books/OL3426593M hoặc trang Hackett (hackettpublishing.com). Chưa mở trang NXB; chưa kiểm chi tiết từng chương Mạnh Tử/Tuân Tử."
 }

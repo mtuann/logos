@@ -2,14 +2,45 @@
   "unit": "sources/sach.kelly-thomas-2005-the-epistemic-significance-of-disagreement",
   "hash": "sha256:96fe170f82cd9b6ad71fb7ef26e9c5d0c31e762d74cc1bab533707a7bad0ef2f",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "Kelly, Thomas (2005), \"The Epistemic Significance of Disagreement\", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1, Oxford: Oxford University Press.",
+      "text": "Kelly, Thomas (2005), 'The Epistemic Significance of Disagreement': tác giả, tên bài, 2005, sách Oxford Studies in Epistemology, Oxford University Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.1093/oso/9780199285891.003.0007",
+          "quote": "The Epistemic Significance of Disagreement",
+          "where": "Crossref API: container-title Oxford Studies In Epistemology, issued 2005-12, publisher Oxford University Press, page 167-196, author Thomas Kelly"
+        }
+      ]
+    },
+    {
+      "text": "chủ biên Tamar Szabó Gendler & John Hawthorne",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL17777152W",
+          "quote": "Oxford Studies in Epistemology|Tamar Szabo Gendler,John Hawthorne|2005|Oxford University Press",
+          "where": "kết quả search.json"
+        }
+      ]
+    },
+    {
+      "text": "tập 1 (Oxford Studies in Epistemology, vol. 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL17777152W/editions.json?limit=10",
+          "quote": "Oxford Studies in Epistemology|Volume 2|2007",
+          "where": "bản 2005 không có số tập, tập 2 ghi 2007; suy ra tập 1 là 2005"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): bài đúng tác giả, năm, nhà xuất bản, trang 167-196 (Crossref). 'Tập 1' chỉ suy ra từ việc tập 2 ra năm 2007 và ISBN 9780199285891 là bản 2005, chưa thấy trang ghi 'Volume 1' (api.crossref.org bị 429 khi tra bản ghi sách). Nên bổ sung trang 167-196. Link đề xuất: https://doi.org/10.1093/oso/9780199285891.003.0007"
 }

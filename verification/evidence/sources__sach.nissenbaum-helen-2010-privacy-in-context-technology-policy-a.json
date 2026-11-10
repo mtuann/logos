@@ -2,49 +2,57 @@
   "unit": "sources/sach.nissenbaum-helen-2010-privacy-in-context-technology-policy-a",
   "hash": "sha256:650986fd54f44ca9de9ded03066e643c7e0cdbdc957e4c0d9fbdee3c1edea7f2",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Tác giả Helen Nissenbaum; tên Privacy in Context",
+      "text": "Tác giả Helen Nissenbaum; tựa Privacy in Context; phụ đề Technology, Policy, and the Integrity of Social Life",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
+        {
+          "url": "https://www.sup.org/books/law/privacy-context",
+          "quote": "Privacy in Context Technology, Policy, and the Integrity of Social Life Helen Nissenbaum",
+          "where": "trang nhà xuất bản (sup.org)"
+        }
+      ]
+    },
+    {
+      "text": "Nhà xuất bản Stanford University Press (imprint Stanford Law Books), Stanford",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.sup.org/books/law/privacy-context",
+          "quote": "Imprint: Stanford Law Books",
+          "where": "trang sup.org"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL23712276M",
+          "quote": "Stanford Law Books | 2009 | Stanford, Calif",
+          "where": "Open Library edition"
+        }
+      ]
+    },
+    {
+      "text": "Năm 2010",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "2009 (xuất bản tháng 11/2009 theo nhà xuất bản); nếu muốn dùng 2010 (năm bản quyền/bản bìa mềm thường được trích) thì phải ghi rõ bản nào",
+      "sources": [
+        {
+          "url": "https://www.sup.org/books/law/privacy-context",
+          "quote": "Imprint: Stanford Law Books November 2009 304 Pages",
+          "where": "trang sup.org"
+        },
         {
           "url": "https://api.crossref.org/works?query.bibliographic=Privacy+in+Context+Technology+Policy+Integrity+Social+Life+Nissenbaum&rows=3",
           "quote": "Privacy in Context; Helen Nissenbaum",
-          "where": "Crossref item 1, DOI 10.1515/9780804772891"
+          "where": "Crossref ghi 2009 (kiểm lượt trước)"
         }
       ]
-    },
-    {
-      "text": "Nhà xuất bản Stanford University Press (Stanford)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.sup.org/books/title/?id=8862",
-          "quote": "Privacy in Context",
-          "where": "trang sup.org của chính nhà xuất bản"
-        }
-      ]
-    },
-    {
-      "text": "Phụ đề Technology, Policy, and the Integrity of Social Life",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.sup.org/books/title/?id=8862",
-          "quote": "Technology, Policy, and the Integrity of Social Life"
-        }
-      ]
-    },
-    {
-      "text": "Năm 2010: Crossref ghi 2009 (ngày xuất bản điện tử/ban đầu); trang sup.org không nêu năm khi đọc",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Năm: Crossref cho 2009, nguồn in thường ghi 2010 (bản quyền); chưa có nguồn mở xác nhận 2010, người làm nên kiểm trang bản quyền hoặc thống nhất 2010 (cách trích phổ biến). Link ổn định đề xuất: https://doi.org/10.1515/9780804772891"
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Trang sup.org ghi 'November 2009' (cả Open Library và Crossref đều 2009). Nhiều trích dẫn dùng 2010 (năm in bìa mềm), nhưng nguồn mở không xác nhận 2010; đề xuất sửa thành 2009 (hoặc ghi rõ bản bìa mềm 2010 nếu người làm có trang bản quyền). Link ổn định đề xuất: https://www.sup.org/books/law/privacy-context hoặc https://doi.org/10.1515/9780804772891"
 }

@@ -2,14 +2,33 @@
   "unit": "sources/sach.nguyen-trai-toan-tap-in-lan-thu-hai-co-sua-chua-bo-sung-ha-n",
   "hash": "sha256:4e28b4f7a2dbf9173c504690cf448c15537b9dce37aa49dbf098e3e25890a3a5",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s24",
+  "checker": "agent-kiem-5.2-r19",
   "claims": [
     {
-      "text": "Nguyễn Trãi, Toàn tập, in lần thứ hai có sửa chữa bổ sung, Hà Nội: NXB Khoa học xã hội, 1976",
+      "text": "Nguyễn Trãi, Toàn tập (tựa 'Nguyễn Trãi toàn tập'), in lần thứ hai có sửa chữa bổ sung",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL2986539M",
+          "quote": "In lần thứ 2 có sửa chữa và bổ sung.",
+          "where": "Open Library (biên mục Library of Congress/Harvard), edition_name; tên 'Nguyễn Trãi toàn tập'"
+        }
+      ]
+    },
+    {
+      "text": "Hà Nội: NXB Khoa học xã hội, 1976",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL2986539M",
+          "quote": "Khoa học xã hội | 1976 | Hà Nội | 844 p.",
+          "where": "Open Library edition JSON; by_statement: Ủy ban khoa học xã hội Việt Nam, Viện sử học"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được nguồn xác nhận trong phiên (Wikipedia tiếng Việt trả lỗi; Google, WorldCat, Open Library chặn công cụ; ngân sách tra cứu cạn). Cần người làm tra thư viện (Thư viện Quốc gia VN, WorldCat) hoặc trang Viện Triết học/NXB KHXH. Lưu ý: tên mục bắt đầu 'Nguyễn Trãi toàn tập' (Hà Nội, KHXH, 1976) nên kiểm cả tên 'Nguyễn Trãi toàn tập'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r19): Khớp biên mục LoC (LCCN 84239161). Mục nên ghi thêm cơ quan biên soạn (Ủy ban Khoa học xã hội Việt Nam, Viện Sử học) nếu muốn đầy đủ. Link ổn định đề xuất: https://openlibrary.org/books/OL2986539M hoặc https://lccn.loc.gov/84239161 (chưa mở)."
 }

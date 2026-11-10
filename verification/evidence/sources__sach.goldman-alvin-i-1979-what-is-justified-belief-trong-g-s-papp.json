@@ -2,14 +2,50 @@
   "unit": "sources/sach.goldman-alvin-i-1979-what-is-justified-belief-trong-g-s-papp",
   "hash": "sha256:c50d42156850c3cfc38afe0931fe08bdec0cd11d8b9b5a957f9f53b46e652e4c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
-      "text": "Goldman (1979), What Is Justified Belief?, trong G. S. Pappas (chủ biên), Justification and Knowledge, Dordrecht: Reidel",
+      "text": "Goldman (1979), What Is Justified Belief?, trong Justification and Knowledge (chương tr. 1–23)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-94-009-9493-5_1",
+          "quote": "What is Justified Belief?",
+          "where": "Chapter pp 1–23; Justification and Knowledge; Alvin I. Goldman"
+        }
+      ]
+    },
+    {
+      "text": "G. S. Pappas là chủ biên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-94-009-9493-5_1",
+          "quote": "George Sotiros Pappas",
+          "where": "Editor information"
+        }
+      ]
+    },
+    {
+      "text": "Dordrecht: Reidel, 1979",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-94-009-9493-5_1",
+          "quote": "© 1979 D. Riedel Publishing Company",
+          "where": "Copyright information (Springer ghi 'Riedel'; Publisher Name: Springer, Dordrecht)"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=justification+and+knowledge&author=pappas",
+          "quote": "D. Reidel Pub. Co.",
+          "where": "first_publish_year 1979"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa mở được nguồn (Internet Archive không có bản ghi cho Pappas; hết lượt). Cần nguồn như Springer (DOI 10.1007/978-94-009-9493-5_1) hoặc PhilPapers."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): Springer Link và Open Library khớp. Mục nên thêm trang 1–23. Chính tả đúng là 'D. Reidel' (Springer in nhầm 'Riedel'). Link ổn định: https://doi.org/10.1007/978-94-009-9493-5_1"
 }

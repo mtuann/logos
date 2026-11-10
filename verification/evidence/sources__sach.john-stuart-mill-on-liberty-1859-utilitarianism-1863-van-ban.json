@@ -2,36 +2,54 @@
   "unit": "sources/sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban",
   "hash": "sha256:c65cf8d7ac1ec0c3ee10c86515a19c1521fe3ac809053501085a9f407464e517",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2r-17",
   "claims": [
     {
-      "text": "Mill, On Liberty (1859), văn bản công cộng",
+      "text": "John Stuart Mill, On Liberty (1859)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://openlibrary.org/works/OL1068091W",
+          "quote": "On Liberty|John Stuart Mill|1859",
+          "where": "kết quả search.json"
+        },
+        {
           "url": "https://www.gutenberg.org/ebooks/34901",
-          "quote": "Original publication: 1859"
+          "quote": "On Liberty",
+          "where": "Author Mill, John Stuart, 1806-1873"
         }
       ]
     },
     {
-      "text": "Mill, Utilitarianism, văn bản công cộng",
+      "text": "John Stuart Mill, Utilitarianism (1863)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1068100W",
+          "quote": "Utilitarianism|John Stuart Mill|1863",
+          "where": "kết quả search.json"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/11224",
+          "quote": "Utilitarianism",
+          "where": "Author Mill, John Stuart, 1806-1873"
+        }
+      ]
+    },
+    {
+      "text": "có văn bản công cộng trên Project Gutenberg (34901 và 11224)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/11224",
-          "quote": "Utilitarianism"
+          "quote": "Utilitarianism by John Stuart Mill | Project Gutenberg"
         }
       ]
-    },
-    {
-      "text": "Utilitarianism năm 1863",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Gutenberg 34901 (On Liberty, 1859) và 11224 (Utilitarianism; trang không ghi năm 1863). Link đề xuất: hai trang Gutenberg trên."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2r-17): Utilitarianism đăng từng kỳ trên Fraser's Magazine 1861 rồi in sách 1863 (Parker, Son and Bourn); mục ghi 1863 là năm in sách, đúng. Chưa mở trang kiểm riêng nhà xuất bản năm 1859/1863. Link đề xuất: https://www.gutenberg.org/ebooks/34901 và https://www.gutenberg.org/ebooks/11224"
 }

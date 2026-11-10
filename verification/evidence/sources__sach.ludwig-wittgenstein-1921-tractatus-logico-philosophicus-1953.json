@@ -2,14 +2,38 @@
   "unit": "sources/sach.ludwig-wittgenstein-1921-tractatus-logico-philosophicus-1953",
   "hash": "sha256:5fd459f6a9bdcdfa4585fe3cd23892a9906b61985e732684e9626fecfe76f47b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s23",
+  "checker": "agent-kiem-5.2-r18",
   "claims": [
     {
-      "text": "Ludwig Wittgenstein (1921), *Tractatus Logico-Philosophicus*; (1953), *Philosophical Investigations*, Oxford: Blackwell.",
+      "text": "Wittgenstein (1921), Tractatus Logico-Philosophicus",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=tractatus+logico-philosophicus&author=wittgenstein",
+          "quote": "Tractatus Logico-Philosophicus",
+          "where": "Open Library: Ludwig Wittgenstein, first_publish_year 1921"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL1410381W/editions.json?limit=30",
+          "quote": "Tractatus logico-philosophicus",
+          "where": "bản Anh 1922, K. Paul, Trench, Trubner & co., London"
+        }
+      ]
+    },
+    {
+      "text": "Wittgenstein (1953), Philosophical Investigations, Oxford: Blackwell",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL1410380W/editions.json?limit=30",
+          "quote": "translated by G.E.M. Anscombe.",
+          "where": "Open Library: Philosophical investigations, 1953, B. Blackwell, Oxford"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: hết ngân sách WebSearch/WebFetch của phiên (WebSearch 200 lượt/lượt chạy dùng hết; WebFetch 800/giờ dùng hết) trước khi mở được nguồn cho mục này. curl bị proxy chặn (403). Không ghi 'dung' theo trí nhớ. Cần kiểm lại khi có ngân sách."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r18): Mục nên ghi thêm dịch giả G. E. M. Anscombe cho bản Blackwell 1953 (bản gốc tiếng Đức; bản 1953 là song ngữ Đức-Anh). Tractatus 1921 là bản tiếng Đức đầu tiên (Annalen der Naturphilosophie), bản Anh 1922 Kegan Paul, Trench, Trubner. Link đề xuất: https://openlibrary.org/works/OL1410380W"
 }

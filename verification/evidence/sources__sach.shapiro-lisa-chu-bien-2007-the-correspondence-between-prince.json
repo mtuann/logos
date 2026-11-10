@@ -2,14 +2,38 @@
   "unit": "sources/sach.shapiro-lisa-chu-bien-2007-the-correspondence-between-prince",
   "hash": "sha256:8ddeabc4434fbb8acb8e72a76bc54d345d8edf8ff222c5aca1973e6c2c064df3",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "Shapiro, Lisa (chủ biên, 2007), *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press (thư từ năm 1643 về vấn đề tương tác).",
+      "text": "Shapiro (chủ biên, 2007), The Correspondence between Princess Elisabeth of Bohemia and René Descartes, University of Chicago Press",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/pdf/10.1353/ren.0.0222.pdf",
+          "quote": "Lisa Shapiro, ed. and trans. The Correspondence between Princess Elisabeth of Bohemia and René Descartes",
+          "where": "kết quả tìm DuckDuckGo (bài điểm sách Renaissance Quarterly): Chicago: The University of Chicago Press, 2007"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL27826105W/editions.json",
+          "quote": "University of Chicago Press",
+          "where": "publish_date 2007"
+        }
+      ]
+    },
+    {
+      "text": "thư từ bắt đầu năm 1643",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/chicago-scholarship-online/book/28773",
+          "quote": "Between the years 1643 and 1649, Princess Elisabeth of Bohemia",
+          "where": "phần Abstract, kết quả tìm DuckDuckGo"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): thư từ 1643–1649 (58 thư); chủ đề tương tác tâm-thân không đối chiếu trực tiếp ở trang mở được (dien-giai, không ghi claim riêng). Link ổn định đề xuất: https://archive.org/details/correspondencebe0000elis hoặc https://philpapers.org/rec/SHATCB-6"
 }

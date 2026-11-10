@@ -2,19 +2,38 @@
   "unit": "sources/sach.plutarch-khoang-45120-life-of-theseus-cau-chuyen-con-tau-the",
   "hash": "sha256:afcb22ce16f67f2bfb4eb1570ea60e3a37cdcce6d63ff58d167c3e6cf707fa36",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s25",
+  "checker": "agent-kiem-5.2-r20",
   "claims": [
     {
-      "text": "Plutarch, Life of Theseus (câu chuyện con tàu Theseus)",
+      "text": "Plutarch, Life of Theseus có câu chuyện con tàu của Theseus được thay ván dần",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/674/pg674.txt",
+          "quote": "they took away the old planks as they decayed",
+          "where": "Gutenberg #674 (Plutarch's Lives, bản Dryden), Life of Theseus"
+        }
+      ]
     },
     {
-      "text": "Hobbes, De Corpore (1655), biến thể con tàu thứ hai",
+      "text": "Hobbes, De Corpore xuất bản 1655",
       "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=hobbes+de+corpore&fields=key,title,author_name,first_publish_year,publisher&limit=5",
+          "quote": "\"first_publish_year\":1655",
+          "where": "Open Library, tác phẩm 'De corpore', Thomas Hobbes; nhà in ghi 'sumptibus Andr. Crooke'"
+        }
+      ]
+    },
+    {
+      "text": "Hobbes trong De Corpore nêu biến thể con tàu thứ hai ghép từ ván cũ (chưa mở văn bản De Corpore II.11.7); khoảng 45-120 là niên đại Plutarch (chưa đối chiếu)",
+      "kind": "dien-giai",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Gutenberg #14033 là Plutarch's Lives vol.1 (Long & Stewart), #674 không xác nhận Theseus; chưa mở được văn bản Theseus hay De Corpore. Cần Gutenberg bản Dryden/Clough (Theseus) và Hobbes De Corpore (Molesworth, 1839 hoặc Internet Archive). Lưu ý: WebSearch hết hạn mức, quote chép từ kết quả WebFetch."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Gutenberg #674 có đoạn con tàu trong Life of Theseus. De Corpore 1655 xác nhận qua Open Library; đoạn về con tàu thứ hai trong De Corpore chưa tìm được văn bản (thử Open Library, Gutenberg). Link đề xuất: https://www.gutenberg.org/ebooks/674 cho Plutarch; De Corpore: bản Molesworth (1839) trên Internet Archive nếu tìm thêm."
 }

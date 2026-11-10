@@ -2,31 +2,50 @@
   "unit": "sources/sach.sartre-jean-paul-1946-l-existentialisme-est-un-humanisme-par",
   "hash": "sha256:a16203586229358246e725ba90f4a966a234ea9b7b4f8b94c94ce971bdb187ed",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r21",
   "claims": [
     {
-      "text": "bản dịch tiếng Anh Existentialism Is a Humanism, New Haven: Yale University Press, 2007; John Kulka có tên trong ấn phẩm",
+      "text": "bản dịch tiếng Anh Existentialism Is a Humanism, New Haven: Yale University Press, 2007",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://archive.org/metadata/existentialismis0000sart",
-          "quote": "New Haven: Yale University Press",
-          "where": "date 2007; associated-names: Kulka, John"
+          "url": "https://openlibrary.org/works/OL4488980W/editions.json",
+          "quote": "New Haven",
+          "where": "edition OL17848033M: publishers Yale University Press, publish_date 2007"
         }
       ]
     },
     {
-      "text": "Carol Macomber dịch; Kulka là biên tập",
+      "text": "Carol Macomber dịch; John Kulka biên tập",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL11671092W/editions.json",
+          "quote": "translated by Carol Macomber ; introduction by Annie Cohen-Solal ; notes and preface by Arlette Elkaïm-Sartre ; edited by John Kulka.",
+          "where": "edition OL22755409M, by_statement"
+        }
+      ]
     },
     {
       "text": "bản gốc 1946, Paris: Nagel; bài nói ngày 29/10/1945",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.bnfa.fr/livre?biblionumber=25031",
+          "quote": "conférence qu'il a donnée à Paris le lundi 29 octobre 1945",
+          "where": "kết quả tìm DuckDuckGo; cùng đoạn: publié l'année suivante aux Éditions Nagel"
+        },
+        {
+          "url": "https://archive.org/details/lexistentialisme0000unse",
+          "quote": "Publisher Paris, Nagel",
+          "where": "kết quả tìm; ấn bản 1966"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Metadata Internet Archive không nêu Macomber, vai trò Kulka, Nagel, ngày bài nói. Cần trang Yale UP hoặc thư viện (Yale bị robots chặn)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r21): ngày bài nói và Nagel 1946 dẫn từ trang BNFA (nguồn thư viện/hiệu sách, hơi yếu; quote lấy từ kết quả tìm, không mở trực tiếp). Open Library: Yale UP 2007, Macomber dịch, Kulka biên tập. Link ổn định đề xuất: https://openlibrary.org/books/OL22755409M"
 }

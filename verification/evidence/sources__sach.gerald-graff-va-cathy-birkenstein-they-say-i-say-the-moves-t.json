@@ -2,25 +2,42 @@
   "unit": "sources/sach.gerald-graff-va-cathy-birkenstein-they-say-i-say-the-moves-t",
   "hash": "sha256:4bf87ae0d8660174b881e08fb8e0ed0f294d18f4dfdebd64bc6706aecac709ee",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
-      "text": "Gerald Graff và Cathy Birkenstein, They Say / I Say, W. W. Norton",
+      "text": "Gerald Graff và Cathy Birkenstein, They Say / I Say: The Moves That Matter in Academic Writing, W. W. Norton",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://wwnorton.com/books/they-say-i-say",
-          "quote": "Gerald Graff and Cathy Birkenstein"
+          "quote": "by Gerald Graff (Author, University of Illinois at Chicago), Cathy Birkenstein (Author, University of Illinois at Chicago)"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=intitle:they+say+i+say+inauthor:graff&max-results=5",
+          "quote": "They Say / I Say: The Moves That Matter in Academic Writing",
+          "where": "Google Books feed: W. W. Norton & Company, ấn bản 4, 2018"
         }
       ]
     },
     {
-      "text": "ý tưởng trung tâm: viết học thuật là tham gia đối thoại, lường trước phản biện",
+      "text": "ý tưởng trung tâm: viết học thuật là tham gia một cuộc đối thoại; lường trước phản biện là động tác cần thiết",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=graff+birkenstein+%22they+say+i+say%22+%22naysayer%22+OR+%22entering+a+conversation%22+academic+writing+norton.com",
+          "quote": "Shows students that writing well means entering a conversation",
+          "where": "UiO, trích từ phần mô tả sách (kết quả tìm kiếm)"
+        },
+        {
+          "url": "https://www.google.com/search?q=graff+birkenstein+%22they+say+i+say%22+%22naysayer%22+OR+%22entering+a+conversation%22+academic+writing+norton.com",
+          "quote": "naysayer in your text",
+          "where": "NYU Libraries, mục lục sách: chương 'planting a naysayer in your text'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang nhà xuất bản W. W. Norton (https://wwnorton.com/books/they-say-i-say) xác nhận tên sách, tác giả, nhà xuất bản (W. W. Norton & Company). Không có số lần in/năm trong mục: ổn. Phần mô tả ý tưởng chưa đối chiếu được với trang nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): trang Norton chỉ hiện 'Seventh High School Edition' nên tên đầy đủ/phụ đề đối chiếu qua Google Books; mô tả ý tưởng dựa mô tả sách và mục lục (nguồn thư viện đại học, nguồn yếu hơn). Mục không nêu lần in nên không có gì để sai. Link đề xuất: https://wwnorton.com/books/they-say-i-say"
 }

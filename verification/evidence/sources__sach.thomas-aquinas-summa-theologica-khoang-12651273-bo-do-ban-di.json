@@ -2,14 +2,38 @@
   "unit": "sources/sach.thomas-aquinas-summa-theologica-khoang-12651273-bo-do-ban-di",
   "hash": "sha256:76da591300401bea86e3d8fdb4067f79e07442a349280b037cddecd5024c7498",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s26",
+  "checker": "agent-kiem-5.2-r22",
   "claims": [
     {
-      "text": "Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.",
+      "text": "Thomas Aquinas, Summa Theologica, viết khoảng 1265–1273 và bỏ dở",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/thomas-aquinas/",
+          "quote": "Rome (1265-1268). It was during this period, perhaps in Rome, that Thomas began work on his magisterial Summa theologiae.",
+          "where": "IEP Aquinas, tiểu sử"
+        },
+        {
+          "url": "https://iep.utm.edu/thomas-aquinas/",
+          "quote": "In the middle of composing his treatise on the sacraments for the Summa theologiae around December of 1273",
+          "where": "IEP; SEP fall2026 aquinas: 'nearly, but not quite, finished both the Summa theologiae'"
+        }
+      ]
+    },
+    {
+      "text": "Có bản dịch tiếng Anh công cộng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28summa+theologica%29+AND+creator%3A%28aquinas%29+AND+language%3Aeng",
+          "quote": "\"title\":\"The \\\"summa theologica\\\" of St. Thomas Aquinas\",\"year\":1920",
+          "where": "Internet Archive: bản dịch Dominican Fathers, 1912–1920, ví dụ summatheologicao04thom (1916)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: web-fetch hết ngân sách (800/giờ dùng chung) và WebSearch hết hạn mức; JSTOR, Open Library, Google Books, Yale UP, philpapers chặn công cụ; Crossref không có bản gốc của bài báo JSTOR. Cần lượt kiểm khác. Tác phẩm trước 1927: nên dẫn link Gutenberg/Internet Archive."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r22): năm bắt đầu 'khoảng 1265' hợp với IEP (Rome 1265–1268, bắt đầu 'có lẽ ở Rome'); bỏ dở khoảng cuối 1273 khớp. Bản dịch tiếng Anh in trước 1927 có ở Internet Archive (https://archive.org/details/summatheologicao04thom). Dịch giả của bản Internet Archive chưa mở trang chi tiết để xác nhận."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/sach.jackson-frank-1982-epiphenomenal-qualia-philosophical-quarte",
   "hash": "sha256:52e0d65b4ec1999794f911009ca1a2d67a5ef9522a696af5d8da86c8c952410c",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
     {
       "text": "Jackson, Frank (1982), Epiphenomenal Qualia, Philosophical Quarterly 32(127)",
@@ -11,16 +11,26 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.2307/2960077",
-          "quote": "Epiphenomenal Qualia; The Philosophical Quarterly; 1982; volume 32; issue 127"
+          "quote": "Epiphenomenal Qualia"
+        },
+        {
+          "url": "https://www.jstor.org/stable/2960077",
+          "quote": "Vol. 32, No. 127 (Apr., 1982), pp. 127-136 (10 pages)"
         }
       ]
     },
     {
       "text": "trang 127–136",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2960077",
+          "quote": "pp. 127-136 (10 pages)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Crossref DOI 10.2307/2960077 khớp tên, tác giả, năm, tập, số; bản ghi Crossref chỉ ghi trang đầu 127, chưa thấy trang cuối 136. Link đề xuất: https://doi.org/10.2307/2960077"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): JSTOR xác nhận Frank Jackson, The Philosophical Quarterly, Vol. 32, No. 127, tháng 4/1982, tr. 127–136, OUP. Link ổn định: https://doi.org/10.2307/2960077"
 }

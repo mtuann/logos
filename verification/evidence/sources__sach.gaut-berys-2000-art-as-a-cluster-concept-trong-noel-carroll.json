@@ -2,29 +2,43 @@
   "unit": "sources/sach.gaut-berys-2000-art-as-a-cluster-concept-trong-noel-carroll",
   "hash": "sha256:a8ddb2928a4c656070d883c4029955ea623e1c317a82150f7bc0ab1a221173ef",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s22",
+  "checker": "agent-kiem-5.2-r16",
   "claims": [
-    {
-      "text": "Gaut, Berys (2000), 'Art' as a Cluster Concept, tr. 25–44",
-      "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
-    },
     {
       "text": "Noël Carroll (chủ biên), Theories of Art Today, Madison: University of Wisconsin Press, 2000",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://archive.org/metadata/theoriesofarttod0000unse/metadata",
-          "quote": "Carroll, Noël, 1947-"
+          "url": "https://books.google.com/books?id=wC_hF6BYYK0C",
+          "quote": "Univ of Wisconsin Press, 2000",
+          "where": "Bibliographic information; Editor Noël Carroll; 268 pages"
         },
         {
           "url": "https://archive.org/metadata/theoriesofarttod0000unse/metadata",
-          "quote": "University of Wisconsin Press (Madison, Wis.)"
+          "quote": "University of Wisconsin Press (Madison, Wis.)",
+          "where": "bản đối chiếu lượt trước"
+        }
+      ]
+    },
+    {
+      "text": "Gaut, Berys (2000), 'Art' as a Cluster Concept, tr. 25–44",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books?id=wC_hF6BYYK0C",
+          "quote": "Art as a Cluster Concept 25",
+          "where": "Contents: chương bắt đầu tr. 25, chương sau 'Is It Reasonable to Attempt to Define Art?' bắt đầu tr. 45"
+        },
+        {
+          "url": "https://www.google.com/search?q=%22Gaut%22+%22Art+as+a+Cluster+Concept%22+%22Theories+of+Art+Today%22+25-44",
+          "quote": "(Madison: University of Wisconsin Press, 2000), pp. 25-44.",
+          "where": "ghi chú của bài 'The cluster theory of art' (ResearchSpace@Auckland) trích Gaut; Fokt (PhilArchive FOKTCA) cũng trích 25-44"
         }
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Internet Archive xác nhận tập sách (Carroll, UW Press, Madison, 2000, vi+268 tr.). Chưa xác nhận được mục lục (Gaut, tr. 25–44) vì không mở được trang mục lục. Link đề xuất: https://archive.org/details/theoriesofarttod0000unse"
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): Google Books mục lục xác nhận chương tr. 25 (chương sau tr. 45); trích dẫn học thuật khác ghi Gaut, 'Art' as a Cluster Concept, pp. 25–44. Người nêu tên Gaut là tác giả xác nhận qua các trích dẫn (không qua mục lục Google Books, vốn không ghi tác giả). Link ổn định đề xuất: https://archive.org/details/theoriesofarttod0000unse hoặc https://books.google.com/books?id=wC_hF6BYYK0C"
 }
