@@ -138,10 +138,10 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Đọc bảng này thế nào?
 
-- **Không phe nào chiếm đa số.** Chủ quan (33,0%) và khách quan (32,1%) gần như ngang nhau; khoảng một phần sáu (16,1%) cho rằng ý nghĩa cuộc sống không tồn tại; gần một phần tư thuộc nhóm "khác" (lập trường khác, không có ý kiến, cho rằng câu hỏi không rõ...). Con số xác nhận nhận xét ở đầu bài: các triết gia không thống nhất.
+- **Không phe nào chiếm đa số.** Chủ quan ([[pp:y-nghia-cuoc-song.chu-quan]]%) và khách quan ([[pp:y-nghia-cuoc-song.khach-quan]]%) gần như ngang nhau; khoảng một phần sáu ([[pp:y-nghia-cuoc-song.khong-ton-tai]]%) cho rằng ý nghĩa cuộc sống không tồn tại; gần một phần tư thuộc nhóm "khác" (lập trường khác, không có ý kiến, cho rằng câu hỏi không rõ...). Con số xác nhận nhận xét ở đầu bài: các triết gia không thống nhất.
 - **Câu hỏi khớp với bài ở mức nào.** "Chủ quan" gần với lập trường 3. "Khách quan" gom những người cho rằng ý nghĩa đòi hỏi một giá trị không phụ thuộc vào cảm nhận của ta — gồm cả quan điểm lai của Wolf (mục "The Meaning of Life" của *Stanford Encyclopedia of Philosophy* xếp nó vào phe khách quan luận) lẫn quan điểm tôn giáo; bài báo về khảo sát cũng ghi nhận người hữu thần nghiêng rõ về "khách quan". "Không tồn tại" gần với hư vô luận — không hẳn trùng với cái phi lý của Nagel, vì như đã nói, phi lý không có nghĩa là vô nghĩa.
 - **Câu hỏi không hỏi gì.** Nó dùng chữ "ý nghĩa cuộc sống" mà không tách "ý nghĩa *của* cuộc sống" với "ý nghĩa *trong* cuộc sống" như bài này làm, nên mỗi người có thể hiểu theo một cách. Nó cũng không hỏi *điều gì* làm cho một đời sống có ý nghĩa — câu hỏi thứ hai mà bài này chủ yếu bàn.
-- **Mẫu khảo sát** là khoảng 1.730 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống triết học và tôn giáo.
+- **Mẫu khảo sát** là khoảng [[pp:y-nghia-cuoc-song/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống triết học và tôn giáo.
 
 Ngoài con số, có thể nói thêm: đây là một lĩnh vực đang phát triển mạnh trong triết học đương đại — từ bài báo kinh điển của Nagel (1971), qua công trình của Wolf (2010), đến hàng loạt nghiên cứu về "ý nghĩa" trong tâm lý học và triết học hiện nay — mà vẫn chưa có lý thuyết nào được đa số chấp nhận.
 

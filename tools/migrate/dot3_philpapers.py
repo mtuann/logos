@@ -289,15 +289,35 @@ SURVEY = [  # (regex trên dòng, khóa); chỉ ở dòng có nhắc khảo sát
     (re.compile(r"(?<=ngẫu nhiên )10(?= câu)"), "cau-bo-sung-moi-nguoi"),
 ]
 CONTEXT = re.compile(r"khảo sát|PhilPapers", re.I)
+FIG_OPEN, FIG_CLOSE = re.compile(r"<!-- fig:[a-z0-9-]+ -->"), re.compile(r"<!-- /fig:[a-z0-9-]+ -->")
+ALLOW = ROOT / "data" / "style" / "so-lieu-allow.yml"   # miễn của lint_so_lieu (đợt 5.2): cùng trang, cùng đoạn chữ
 PROSE_NUM = re.compile(r"\d+(?:,\d+)?%|(?<![\d.,])\d{1,3}(?:\.\d{3})+(?= (?:triết gia|người))|(?<![\d.,])\d{3}(?= (?:triết gia|người))")
 
 
-def plan_prose(page: str, text: str, stats: Counter, prose_left: list):
+def load_allow() -> list[dict]:
+    import yaml
+    return (yaml.safe_load(ALLOW.read_text(encoding="utf-8")) or []) if ALLOW.exists() else []
+
+
+def counted(page: str, line: str, num: str, allow: list[dict]) -> bool:
+    """Số còn gõ tay cần đổi: không tính 0%, 100% (không phải số khảo sát), số trong mục miễn của lint_so_lieu."""
+    if num in ("0%", "100%"):
+        return False
+    return not any(a["page"] == page and a["text"] in line and num.rstrip("%") in a["text"] for a in allow)
+
+
+def plan_prose(page: str, text: str, stats: Counter, prose_left: list, allow: list[dict] | None = None):
     subs = []
-    in_pp = False
+    in_pp = in_fig = False
+    allow = load_allow() if allow is None else allow
     for ln, line in enumerate(text.split("\n"), start=1):
         if line.startswith("## "):
             in_pp = "gioi-triet-hoc-ngay-nay-nghi-gi" in line
+        if FIG_OPEN.search(line):
+            in_fig = True
+        if in_fig:                 # khối hình do tools/figures.py sinh, số đọc từ kho
+            in_fig = not FIG_CLOSE.search(line)
+            continue
         if line.lstrip().startswith("|"):
             continue
         new = line
@@ -308,7 +328,7 @@ def plan_prose(page: str, text: str, stats: Counter, prose_left: list):
         if new != line:
             subs.append((page, ln, line, new))
         if in_pp:
-            left = PROSE_NUM.findall(new)
+            left = [x for x in PROSE_NUM.findall(new) if counted(page, new, x, allow)]
             if left:
                 prose_left.append((page, ln, len(left)))
     return subs
@@ -324,12 +344,13 @@ def main(argv: list[str]) -> int:
     lech: list[str] = []
     prose_left: list = []
     subs = []
+    allow = load_allow()
     for p in registry.load(ROOT).select(generated=False):
         if p.path == "them/cap-nhat.md":
             continue
         text = (DOCS / p.path).read_text(encoding="utf-8")
         subs += plan_tables(p.path, text, questions, lech, stats)
-        subs += plan_prose(p.path, text, stats, prose_left)
+        subs += plan_prose(p.path, text, stats, prose_left, allow)
     subs += plan_manual(questions, stats)
     seen = Counter((page, ln) for page, ln, _, _ in subs)
     if max(seen.values(), default=1) > 1:
@@ -356,9 +377,10 @@ def write_lech(stats: Counter, lech: list[str], prose_left: list) -> None:
     L += lech or ["(không có)"]
     L += ["", f"## Số liệu trong văn xuôi mục \"Giới triết học ngày nay nghĩ gì\" còn gõ tay ({sum(n for *_, n in prose_left)} "
           f"chỗ ở {len(prose_left)} dòng)", "",
-          "% và số người trả lời trong câu văn: gắn với câu và lựa chọn nào là việc đọc hiểu, không làm cơ học. "
-          "`lint_facts` (đợt 5) đối chiếu với JSON.", ""]
-    L += [f"- `{p}:{ln}`: {n}" for p, ln, n in prose_left]
+          "% và số người trả lời trong câu văn: gắn với câu và lựa chọn nào là việc đọc hiểu, không làm cơ học "
+          "(5.2: đã đổi sang `[[pp:…]]` theo nghĩa câu văn). Không tính 0%, 100%, khối hình của `tools/figures.py` (số "
+          "đọc từ kho) và chỗ có trong `data/style/so-lieu-allow.yml` (miễn của `lint_so_lieu`).", ""]
+    L += [f"- `{p}:{ln}`: {n}" for p, ln, n in prose_left] or ["(không có)"]
     LECH.write_text("\n".join(L) + "\n", encoding="utf-8")
 
 

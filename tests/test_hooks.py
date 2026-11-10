@@ -97,6 +97,16 @@ class TestKbShortcode(unittest.TestCase):
         src = "Có [[count:cau-hoi]] bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n"
         self.assertEqual(kb.expand(src, self.reg), "Có 57 bài; `[[count:x]]`.\n\n```text\n[[count:y]]\n```\n")
 
+    def test_json_assets(self):
+        """Chuỗi trong JSON_ASSETS mở được shortcode (build xong mới mở; khóa sai thì dừng như trong trang)."""
+        import json
+        nested = {"a": ["[[pp:tu-do-y-chi.tuong-thich-luan]]%", {"b": "[[count:cau-hoi]] bài"}], "n": 3}
+        self.assertEqual(kb.expand_json(nested, self.reg), {"a": ["59,2%", {"b": "57 bài"}], "n": 3})
+        for rel in kb.JSON_ASSETS:
+            data = json.loads((ROOT / "docs" / rel).read_text(encoding="utf-8"))
+            out = json.dumps(kb.expand_json(data, self.reg, rel), ensure_ascii=False)
+            self.assertNotIn("[[", out, rel)
+
     def test_unknown_kind_or_key_stops_build(self):
         for bad in ("[[count:khong-co]]", "[[count:cau-hoi/khong-co]]", "[[fact:kant]]", "[[count:he-thong]]",
                     "[[count:quiz/cong-cu]]"):

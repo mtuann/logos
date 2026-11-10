@@ -91,7 +91,7 @@ Lập trường thứ ba bỏ qua câu hỏi "có đúng không" và hỏi "thì
 
 Khảo sát PhilPapers 2020 **không có câu hỏi nào** về giả thuyết mô phỏng. Vì vậy mục này ghi đúng như vậy: **chưa có khảo sát** cho các lập trường trong bài.
 
-Có một câu hỏi nghe có vẻ liên quan — "Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)": sống sót 27,5% / chết 54,2% — nhưng đó là câu hỏi khác: nó hỏi liệu *bạn* có còn là bạn sau khi tâm trí được số hóa, chứ không hỏi liệu ta *đang* sống trong một mô phỏng của tổ tiên. Mượn con số đó sang đây sẽ là mượn sai chỗ — giống như dùng kết quả bầu cử quốc hội để đoán kết quả bầu cử phường. Vì vậy ta không dùng nó; ở đây, trung thực nhất là thừa nhận ta không có số liệu.
+Có một câu hỏi nghe có vẻ liên quan — "Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)": sống sót [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.song-sot]]% / chết [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.chet]]% — nhưng đó là câu hỏi khác: nó hỏi liệu *bạn* có còn là bạn sau khi tâm trí được số hóa, chứ không hỏi liệu ta *đang* sống trong một mô phỏng của tổ tiên. Mượn con số đó sang đây sẽ là mượn sai chỗ — giống như dùng kết quả bầu cử quốc hội để đoán kết quả bầu cử phường. Vì vậy ta không dùng nó; ở đây, trung thực nhất là thừa nhận ta không có số liệu.
 
 Điều này không có nghĩa giới triết học không quan tâm — bài báo 2003 của Bostrom là một trong những bài triết học được trích dẫn và tranh luận nhiều nhất trong hai thập kỷ qua, và giả thuyết mô phỏng đã trở thành một chủ đề nghiêm túc trong triết học tâm trí, siêu hình học và triết học công nghệ. Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "bạn có nghĩ ta đang sống trong mô phỏng không".
 

@@ -131,7 +131,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về trách nhiệm đ�
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ 1.080 người trả lời.
+\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -139,7 +139,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 - Nguyên tắc "phải kéo theo có thể" (ta chỉ có bổn phận làm điều ta *có thể* làm) được gần hai phần ba ủng hộ. Đây là họ hàng gần của nguyên tắc mà Frankfurt tấn công ("chịu trách nhiệm chỉ khi có thể làm khác"). Nếu bạn thấy nguyên tắc "phải kéo theo có thể" hiển nhiên đúng, bạn sẽ thấy lập luận của Frankfurt gây khó chịu — và ngược lại.
 - Nhưng lưu ý: hai nguyên tắc không giống hệt nhau. Người ta có thể chấp nhận "phải kéo theo có thể" mà vẫn theo Frankfurt về trách nhiệm. Tranh luận này chưa ngã ngũ.
-- Về câu hỏi trong [bài tự do ý chí](tu-do-y-chi.md) — tương thích luận 59,2%, thuyết ý chí tự do 18,8%, không có tự do ý chí 11,2% — bạn có thể xem lại ở đó. Đừng suy thẳng từ "đa số theo tương thích luận" sang "đa số nghĩ ai cũng đáng trách", vì trách nhiệm còn có những tranh luận riêng của nó.
+- Về câu hỏi trong [bài tự do ý chí](tu-do-y-chi.md) — tương thích luận [[pp:tu-do-y-chi.tuong-thich-luan]]%, thuyết ý chí tự do [[pp:tu-do-y-chi.thuyet-y-chi-tu-do-libertarianism]]%, không có tự do ý chí [[pp:tu-do-y-chi.khong-co-tu-do-y-chi]]% — bạn có thể xem lại ở đó. Đừng suy thẳng từ "đa số theo tương thích luận" sang "đa số nghĩ ai cũng đáng trách", vì trách nhiệm còn có những tranh luận riêng của nó.
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 

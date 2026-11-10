@@ -13,7 +13,7 @@ block: dao-duc
     - Siêu đạo đức học hỏi: có sự thật đạo đức không, nói "sai" là mô tả hay bày tỏ, ta biết điều đúng bằng cách nào. Văn hóa bất đồng là một sự kiện; "không có đúng sai" là một luận đề — cái trước không kéo theo cái sau, và tương đối luận dạng đơn giản vấp phải phản bác "người cải cách".
     - Hiện thực luận (Moore 1903; [Parfit](../triet-gia/parfit.md) 2011; Boyd, Sturgeon, Brink; Railton 1986): có sự thật đạo đức. Mạnh nhất là lập luận từ tiến bộ đạo đức và lập luận "đồng phạm"; phản bác chính: những sự thật ấy kỳ dị, khó biết.
     - Thuyết sai lầm (Mackie 1977): ta nói như thể có giá trị khách quan nhưng không có. Biểu cảm luận (Ayer 1936; Blackburn, Gibbard): "trộm cắp là sai" bày tỏ thái độ — nhưng vấp vấn đề [Frege](../triet-gia/frege.md)–Geach. Kiến tạo luận ([Rawls](../triet-gia/rawls.md) 1980; Korsgaard 1996): đúng là điều một thủ tục suy xét hợp lý sẽ chọn — nhưng thủ tục nào?
-    - PhilPapers 2020: 62,1% triết gia chấp nhận hoặc nghiêng về hiện thực luận đạo đức, 26,1% về phản hiện thực luận (câu chính, n ≈ 1.720). Bài này không chọn phe.
+    - PhilPapers 2020: [[pp:sieu-dao-duc-hoc-meta-ethics.hien-thuc-luan-dao-duc-moral-realism]]% triết gia chấp nhận hoặc nghiêng về hiện thực luận đạo đức, [[pp:sieu-dao-duc-hoc-meta-ethics.phan-hien-thuc-luan-dao-duc]]% về phản hiện thực luận (câu chính, n ≈ [[pp:sieu-dao-duc-hoc-meta-ethics/n]]). Bài này không chọn phe.
 
 Bữa cơm ngày Tết, bà nội kể hồi xưa cháu hư là bị đánh đòn — "thương cho roi cho vọt" — mà đứa nào cũng nên người. Cô cháu phản đối: đánh trẻ là sai. Bố hòa giải: "Đạo đức là do xã hội quy định. Thời bà khác, thời con khác, chẳng ai đúng ai sai."
 
@@ -130,7 +130,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Đọc bảng này thế nào?
 
-- **Đa số nghiêng về hiện thực luận (62,1%) và thuyết nhận thức (69,3%).** Khoảng chênh phù hợp với việc có người theo thuyết nhận thức mà không theo hiện thực luận, như người theo thuyết sai lầm.
+- **Đa số nghiêng về hiện thực luận ([[pp:sieu-dao-duc-hoc-meta-ethics.hien-thuc-luan-dao-duc-moral-realism]]%) và thuyết nhận thức ([[pp:phan-doan-dao-duc.thuyet-nhan-thuc-cognitivism]]%).** Khoảng chênh phù hợp với việc có người theo thuyết nhận thức mà không theo hiện thực luận, như người theo thuyết sai lầm.
 - **Câu bổ sung chia nhỏ hơn**: không lập trường nào vượt một phần ba; câu này có mẫu khác nên đừng so thẳng với câu chính. Không có lựa chọn "tương đối luận".
 - **Thận trọng với mẫu**: triết gia chuyên nghiệp ở các nước nói tiếng Anh hoặc có công bố bằng tiếng Anh, đại đa số theo truyền thống phân tích — chính các tác giả thừa nhận bộ câu hỏi thiên về triết học phân tích. Số đông không phải phán quyết về chân lý.
 

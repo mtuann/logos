@@ -103,7 +103,7 @@ Lập luận của Chalmers có ba bước:
 
 **Lập luận mạnh nhất.** Nếu bạn thấy mình hình dung được zombie mà không thấy mâu thuẫn logic nào, thì bước 1 coi như xong — và bước 1 là bước duy nhất dựa vào trực giác của bạn. Các bước còn lại là logic: vật lý luận chẳng phải chính là khẳng định rằng mọi sự thật, kể cả sự thật về ý thức, đều suy ra được từ sự thật vật lý đó sao?
 
-**Phản bác chính.** Bước 2 là bước dễ tấn công nhất: tưởng tượng được không có nghĩa là khả hữu. Có vẻ như ta tưởng tượng được "nước không phải là H₂O", nhưng Saul Kripke đã lập luận rằng nước *nhất thiết* là H₂O — trực giác tưởng tượng của ta đã đánh lừa ta. Biết đâu zombie cũng vậy: ta *tưởng* mình tưởng tượng được, nhưng thật ra đã bỏ sót một mâu thuẫn ẩn. Trong khảo sát PhilPapers 2020, 16,4% triết gia cho rằng zombie *không thể hình dung*, và 36,5% cho rằng hình dung được nhưng không khả hữu về siêu hình — tức là hơn một nửa không đi hết ba bước của Chalmers.
+**Phản bác chính.** Bước 2 là bước dễ tấn công nhất: tưởng tượng được không có nghĩa là khả hữu. Có vẻ như ta tưởng tượng được "nước không phải là H₂O", nhưng Saul Kripke đã lập luận rằng nước *nhất thiết* là H₂O — trực giác tưởng tượng của ta đã đánh lừa ta. Biết đâu zombie cũng vậy: ta *tưởng* mình tưởng tượng được, nhưng thật ra đã bỏ sót một mâu thuẫn ẩn. Trong khảo sát PhilPapers 2020, [[pp:zombie-triet-hoc.khong-the-hinh-dung]]% triết gia cho rằng zombie *không thể hình dung*, và [[pp:zombie-triet-hoc.hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh]]% cho rằng hình dung được nhưng không khả hữu về siêu hình — tức là hơn một nửa không đi hết ba bước của Chalmers.
 
 **Cách đáp lại.** Chalmers phân biệt "tưởng tượng sơ sài" với "tưởng tượng sau khi suy xét lý tính đầy đủ". Ông cho rằng với zombie, càng suy xét kỹ ta càng thấy không có mâu thuẫn nào lộ ra — khác với trường hợp nước/H₂O, nơi khoa học đã chỉ ra được vì sao trực giác sai. Cuộc tranh luận này, đến nay, vẫn là một trong những điểm nóng nhất của triết học tâm trí.
 
@@ -125,7 +125,7 @@ Khảo sát PhilPapers 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuy
 | | Thuyết đồng nhất | [[pp:y-thuc-ly-thuyet.thuyet-dong-nhat]] |
 | | Toàn tâm luận | [[pp:y-thuc-ly-thuyet.toan-tam-luan-panpsychism]] |
 
-<small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Câu về tâm trí (n ≈ 1.730) và về zombie (n ≈ 1.610) là câu chính; câu về vấn đề khó (n ≈ 1.000) và về lý thuyết ý thức (n ≈ 1.020) là câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm.</small>
+<small>Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23. Câu về tâm trí (n ≈ [[pp:tam-tri/n]]) và về zombie (n ≈ [[pp:zombie-triet-hoc/n]]) là câu chính; câu về vấn đề khó (n ≈ [[pp:van-de-kho-cua-y-thuc-co-ton-tai-khong/n]]) và về lý thuyết ý thức (n ≈ [[pp:y-thuc-ly-thuyet/n]]) là câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm.</small>
 
 Vài điều đáng chú ý:
 

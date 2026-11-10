@@ -12,7 +12,7 @@ block: my-hoc
 !!! summary "Tóm tắt 5 phút"
     - [Hume](../triet-gia/hume.md) (1757): cái đẹp là cảm giác trong tâm trí người cảm nhận, nhưng có "chuẩn mực của thị hiếu" — ý kiến chung của những người phê bình lý tưởng (tinh tế, nhiều kinh nghiệm, hay so sánh, không thiên kiến, phán đoán lành mạnh).
     - [Kant](../triet-gia/kant.md) (1790): phán đoán "cái này đẹp" vừa chủ quan (dựa trên cảm giác) vừa đòi mọi người đồng ý — "tính phổ quát chủ quan"; thích thú thẩm mỹ phải vô vụ lợi và có "tính có mục đích mà không có mục đích".
-    - Điểm chung đáng ngạc nhiên: cả hai đều cho rằng tranh cãi về cái đẹp là có ý nghĩa, nhưng cái đẹp không chứng minh được như định lý toán học — sự căng thẳng giữa khiêm tốn và quả quyết đó chính là điều làm mỹ học thú vị. Khảo sát PhilPapers 2020 có hỏi thẳng chuyện này: 43,5% triết gia chấp nhận hoặc nghiêng về giá trị thẩm mỹ *khách quan*, 40,6% *chủ quan* (câu chính, n ≈ 1.700) — giới chuyên môn chia gần đôi.
+    - Điểm chung đáng ngạc nhiên: cả hai đều cho rằng tranh cãi về cái đẹp là có ý nghĩa, nhưng cái đẹp không chứng minh được như định lý toán học — sự căng thẳng giữa khiêm tốn và quả quyết đó chính là điều làm mỹ học thú vị. Khảo sát PhilPapers 2020 có hỏi thẳng chuyện này: [[pp:gia-tri-tham-my.khach-quan]]% triết gia chấp nhận hoặc nghiêng về giá trị thẩm mỹ *khách quan*, [[pp:gia-tri-tham-my.chu-quan]]% *chủ quan* (câu chính, n ≈ [[pp:gia-tri-tham-my/n]]) — giới chuyên môn chia gần đôi.
 
 "Cái đẹp nằm trong mắt kẻ si tình" — câu này ai cũng từng nghe. Bạn thấy một bài hát hay đến rợn người; bạn thân bạn nghe xong nhún vai: "Cũng thường." Ai đúng? Hay câu hỏi "ai đúng" vốn đã sai, vì cái đẹp chỉ là cảm giác riêng của mỗi người, không có đúng sai?
 
@@ -127,7 +127,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 - **Giới chuyên môn chia gần đôi.** "Khách quan" chỉ nhỉnh hơn "chủ quan" chưa tới 3 điểm phần trăm, và không lựa chọn nào đạt đa số: câu hỏi "chủ quan hay khách quan" vẫn chưa có lời đáp được đa số chấp nhận.
 - **Câu hỏi chỉ có hai nhãn — còn Hume và Kant thì không vừa khít nhãn nào.** Cả hai đều cho rằng cái đẹp dựa trên cảm giác (nghe như "chủ quan"), nhưng một người tìm ra chuẩn mực, một người thấy phán đoán thẩm mỹ đòi mọi người đồng ý (nghe như "khách quan"). Vì vậy bảng không cho biết bao nhiêu triết gia theo Hume hay theo Kant.
-- **Câu về trải nghiệm thẩm mỹ hỏi chuyện khác:** trải nghiệm ấy là một dạng tri giác, một dạng khoái cảm, hay một loại riêng không quy về hai thứ kia. Ý của Kant về sự thích thú "vô vụ lợi" có liên quan, nhưng câu hỏi không nhắc tới Kant, nên đừng đọc 37,2% là tỉ lệ ủng hộ Kant.
+- **Câu về trải nghiệm thẩm mỹ hỏi chuyện khác:** trải nghiệm ấy là một dạng tri giác, một dạng khoái cảm, hay một loại riêng không quy về hai thứ kia. Ý của Kant về sự thích thú "vô vụ lợi" có liên quan, nhưng câu hỏi không nhắc tới Kant, nên đừng đọc [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]]% là tỉ lệ ủng hộ Kant.
 - **Mẫu khảo sát** là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020; nó không đại diện cho mọi truyền thống mỹ học, chẳng hạn mỹ học phương Đông.
 
 Ngoài con số, có thể nói rằng tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của hầu hết giáo trình mỹ học đương đại.

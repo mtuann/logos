@@ -13,7 +13,7 @@ block: dao-duc
     - Thuyết vị lợi ([Bentham](../triet-gia/bentham.md); [Mill](../triet-gia/mill.md) 1863): hành động đúng là hành động tạo ra nhiều hạnh phúc nhất; để đáp lại phản ví dụ "bác sĩ giết một người khỏe để cứu năm người", phe vị lợi phân biệt vị lợi hành động với vị lợi quy tắc (hỏi quy tắc nào tốt hơn nếu mọi người đều theo).
     - [Kant](../triet-gia/kant.md) (1785): hành động đúng vì được làm từ bổn phận theo mệnh lệnh tuyệt đối — chỉ hành động theo châm ngôn có thể thành quy luật phổ quát, và đối xử với con người như mục đích chứ không chỉ như phương tiện; đây thường được xem là một nền tảng triết học quan trọng của ý tưởng nhân quyền hiện đại.
     - Đức hạnh ([Aristotle](../triet-gia/aristotle.md)): hỏi sai câu hỏi rồi — đừng hỏi "hành động nào đúng", hãy hỏi "người tốt sẽ làm gì"; mục tiêu là eudaimonia (đời sống viên mãn) qua các đức hạnh trung đạo được rèn bằng thói quen.
-    - PhilPapers 2020 (% chấp nhận hoặc nghiêng về): đức hạnh 37,0%, nghĩa vụ 32,1%, hệ quả 30,6% — nhưng 63,4% bẻ ghi xe điện trong khi 56% từ chối đẩy người khỏi cầu: lý thuyết ta chọn và trực giác ta có không phải lúc nào cũng đi cùng nhau.
+    - PhilPapers 2020 (% chấp nhận hoặc nghiêng về): đức hạnh [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]]%, nghĩa vụ [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]]%, hệ quả [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]]% — nhưng [[pp:bai-toan-xe-dien-be-ghi.be-ghi]]% bẻ ghi xe điện trong khi [[pp:cay-cau-day-nguoi.khong-day]]% từ chối đẩy người khỏi cầu: lý thuyết ta chọn và trực giác ta có không phải lúc nào cũng đi cùng nhau.
 
 Sáng nay bạn nhặt được một chiếc ví dày cộp trên đường. Không ai nhìn thấy. Trong ví có tiền mặt, thẻ ngân hàng, giấy tờ tùy thân — đủ để bạn tìm ra chủ nhân, cũng đủ để bạn giữ im lặng mà không ai biết.
 
@@ -102,7 +102,7 @@ Aristotle, trong *Đạo đức Nicomachus*, cho rằng cả hai họ trên đ�
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 ([[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng 1.740 người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
+Khảo sát PhilPapers 2020 ([[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp hoàn thành) hỏi họ chấp nhận hoặc nghiêng về lý thuyết đạo đức chuẩn tắc nào, và họ sẽ làm gì trong hai tình huống xe điện. Cả ba đều là câu chính; mỗi câu có khoảng [[pp:dao-duc-hoc-chuan-tac/n]] người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
@@ -122,7 +122,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 Đọc bảng này thế nào?
 
 - **Ba họ lý thuyết chia nhau gần đều**, không họ nào vượt quá 40%. Đạo đức học đức hạnh nhỉnh hơn một chút — một sự trở lại đáng chú ý của Aristotle, sau giai đoạn bị nghĩa vụ luận và thuyết vị lợi lấn át từ thế kỷ 19 đến cuối những năm 1950.
-- **Nhưng khi hỏi tình huống cụ thể, đa số lại hành động như người theo hệ quả luận**: 63,4% chọn bẻ ghi để cứu năm người. Tuy nhiên, ở biến thể "đẩy người xuống cầu" — cũng là một đổi năm, về mặt hậu quả — đa số (56%) lại *không* đẩy. Sự khác biệt giữa hai tình huống này (cùng là hy sinh một người) là một trong những câu đố dai dẳng nhất của đạo đức học: nếu chỉ hậu quả mới quan trọng, vì sao ta đối xử khác nhau?
+- **Nhưng khi hỏi tình huống cụ thể, đa số lại hành động như người theo hệ quả luận**: [[pp:bai-toan-xe-dien-be-ghi.be-ghi]]% chọn bẻ ghi để cứu năm người. Tuy nhiên, ở biến thể "đẩy người xuống cầu" — cũng là một đổi năm, về mặt hậu quả — đa số ([[pp:cay-cau-day-nguoi.khong-day]]%) lại *không* đẩy. Sự khác biệt giữa hai tình huống này (cùng là hy sinh một người) là một trong những câu đố dai dẳng nhất của đạo đức học: nếu chỉ hậu quả mới quan trọng, vì sao ta đối xử khác nhau?
 
 Như mọi khảo sát, số đông không quyết định chân lý. Nhưng bảng này cho thấy một điều thú vị: lý thuyết ta *chọn* và trực giác ta *có* không phải lúc nào cũng đi cùng nhau.
 

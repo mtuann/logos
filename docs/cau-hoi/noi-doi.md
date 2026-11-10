@@ -14,7 +14,7 @@ block: dao-duc
     - Tuyệt đối cấm ([Augustine](../triet-gia/augustine.md), khoảng 395; [Kant](../triet-gia/kant.md) 1785, 1797): không nói dối, kể cả với kẻ sát nhân gõ cửa. Phản bác: quá khắc nghiệt; Korsgaard (1986): ngay trong khung của Kant, nói dối kẻ đang lừa mình vẫn phổ quát hóa được.
     - Hệ quả luận ([Bentham](../triet-gia/bentham.md) 1789, [Mill](../triet-gia/mill.md) 1863): nói dối sai vì bào mòn lòng tin vào lời nói; quy tắc trung thực gần như không được phá, trừ ngoại lệ xác định rõ (giấu kẻ gian, giấu tin dữ với người bệnh nặng).
     - Đức hạnh và chữ tín ([Aristotle](../triet-gia/aristotle.md); *Luận ngữ* 2.22): trung thực là nét nhân cách, nhưng tín đứng dưới nghĩa. Quyền được biết sự thật (Grotius 1625, Bok 1978): nói dối xâm phạm quyền tự phán đoán của người nghe.
-    - PhilPapers 2020 không hỏi về nói dối; câu gần nhất cho thấy giới triết học chia ba về lý thuyết đạo đức (đức hạnh 37,0%, nghĩa vụ 32,1%, hệ quả 30,6%). Bài không phân xử thay bạn.
+    - PhilPapers 2020 không hỏi về nói dối; câu gần nhất cho thấy giới triết học chia ba về lý thuyết đạo đức (đức hạnh [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]]%, nghĩa vụ [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]]%, hệ quả [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]]%). Bài không phân xử thay bạn.
 
 Bác sĩ gọi riêng hai anh em vào phòng: kết quả sinh thiết của bố là ung thư dạ dày. Tối đó cả nhà họp. Mẹ khóc: "Ông ấy yếu tim, biết thì suy sụp mất." Chị cả quyết: "Cứ bảo bố là viêm loét." Chỉ cậu út ngập ngừng: "Nhưng đó là bệnh của bố. Bố không có quyền được biết sao?"
 
@@ -118,7 +118,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về nói dối. Hai câu
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1–2. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.
 
 - **Ba họ lý thuyết chia gần đều**, và nhiều người chấp nhận hơn một họ. Đừng suy từ đây ra ai nghĩ gì về kẻ sát nhân: Korsgaard theo Kant mà vẫn cho phép nói dối hắn; Mill theo hệ quả luận mà coi trung thực gần như bất khả xâm phạm.
-- **Nguyên tắc đạo đức**: phổ quát luận cho rằng suy nghĩ đạo đức hợp lý cần đến nguyên tắc; đặc thù luận, ở dạng mạnh nhất, cho rằng không có nguyên tắc đạo đức nào đứng vững. Nhưng như Jonathan Dancy lưu ý (SEP, "Moral Particularism"), "nguyên tắc" có thể là tuyệt đối ("nói dối luôn sai") hoặc chỉ góp phần ("là lời nói dối thì bị trừ điểm"). Vậy 54,6% không phải là 54,6% ủng hộ lệnh cấm tuyệt đối.
+- **Nguyên tắc đạo đức**: phổ quát luận cho rằng suy nghĩ đạo đức hợp lý cần đến nguyên tắc; đặc thù luận, ở dạng mạnh nhất, cho rằng không có nguyên tắc đạo đức nào đứng vững. Nhưng như Jonathan Dancy lưu ý (SEP, "Moral Particularism"), "nguyên tắc" có thể là tuyệt đối ("nói dối luôn sai") hoặc chỉ góp phần ("là lời nói dối thì bị trừ điểm"). Vậy [[pp:nguyen-tac-dao-duc.pho-quat-luan-dao-duc-generalism]]% không phải là [[pp:nguyen-tac-dao-duc.pho-quat-luan-dao-duc-generalism]]% ủng hộ lệnh cấm tuyệt đối.
 
 Câu bổ sung có ít người trả lời hơn, phần lớn là người tự nguyện làm thêm. Khảo sát diễn ra cuối năm 2020, trước khi chatbot AI phổ biến; và số đông không quyết định điều gì là đúng.
 

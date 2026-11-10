@@ -112,7 +112,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về giả thuyết Sapir
 | | Giai đoạn đầu (thời *Tractatus*) | [[pp:wittgenstein-thich-giai-doan-nao.giai-doan-dau]] |
 | | Khác | [[pp:wittgenstein-thich-giai-doan-nao.khac]] |
 
-\* Câu hỏi bổ sung, khoảng 960 người trả lời; % là tỉ lệ chấp nhận hoặc nghiêng về.
+\* Câu hỏi bổ sung, khoảng [[pp:wittgenstein-thich-giai-doan-nao/n]] người trả lời; % là tỉ lệ chấp nhận hoặc nghiêng về.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23.
 

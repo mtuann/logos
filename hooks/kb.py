@@ -28,6 +28,9 @@ nhiều dòng thì shortcode phải đứng riêng một dòng, và các dòng s
 (để khối nằm trong danh sách hay admonition). Mỗi khối chỉ được trang ghi ở `page` dùng (link trong khối viết tương
 đối với trang đó); tools/thoi_su_check.py kiểm việc này ngoài build.
 
+Chuỗi trong các file JSON ở JSON_ASSETS (dữ liệu luyện tập đọc bằng JavaScript) cũng được mở shortcode, lúc build xong
+(on_post_build, ghi đè bản trong site/): số liệu chỉ có một chỗ, kể cả ở ghi chú của thí nghiệm tư duy (đợt 5.2).
+
 Shortcode trong khối code (```…```) và code inline (`…`) được giữ nguyên, để tài liệu có thể viết ra cú pháp.
 Loại hoặc khóa không tồn tại thì build dừng (PluginError), kèm tên trang: không bao giờ in ra số sai hay chỗ trống.
 Mã băm đơn vị (tools/lz/normalize.py) giữ shortcode nguyên dạng, nên số đếm đổi không mở khóa đơn vị Lõi.
@@ -57,6 +60,7 @@ THOI_SU = re.compile(r"\[\[thoi-su:([a-z0-9][a-z0-9._-]*)\]\]")
 FRONT = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 
 _ctx: dict | None = None
+JSON_ASSETS = ("assets/data/thi-nghiem.json",)   # đường dẫn trong docs/ (và trong site/)
 
 
 def load_registry(root: Path) -> dict:
@@ -293,6 +297,17 @@ def expand(markdown: str, ctx: dict, where: str = "") -> str:
     return _outside_code(markdown, lambda chunk: SHORTCODE.sub(sub, chunk))
 
 
+def expand_json(obj, ctx: dict, where: str = ""):
+    """Mở shortcode trong mọi chuỗi của một giá trị JSON (dict/list lồng nhau); khóa giữ nguyên."""
+    if isinstance(obj, str):
+        return expand(obj, ctx, where) if "[[" in obj else obj
+    if isinstance(obj, list):
+        return [expand_json(x, ctx, where) for x in obj]
+    if isinstance(obj, dict):
+        return {k: expand_json(v, ctx, where) for k, v in obj.items()}
+    return obj
+
+
 def on_config(config, **kwargs):
     global _ctx
     _ctx = load_context(Path(config["config_file_path"]).resolve().parent)
@@ -324,3 +339,14 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
     if "[[" not in markdown:
         return markdown
     return expand(markdown, _ctx, page.file.src_uri)
+
+
+def on_post_build(config, **kwargs):
+    for rel in JSON_ASSETS:
+        out = Path(config["site_dir"]) / rel
+        if not out.exists():
+            continue
+        text = out.read_text(encoding="utf-8")
+        if "[[" in text:
+            data = expand_json(json.loads(text), _ctx, rel)
+            out.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
