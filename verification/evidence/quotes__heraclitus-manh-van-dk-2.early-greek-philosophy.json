@@ -1,0 +1,90 @@
+{
+  "unit": "quotes/heraclitus-manh-van-dk-2.early-greek-philosophy",
+  "hash": "sha256:331444e65a50f37a047091e1e623c17f354f9040e8279e68e09fdd5b0b1525fc",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản dịch Burnet): “This world, which is the same for all, no one of gods or men has made; but it was ever, is now, and ever shall be an ever-living Fire, with measures kindling, and measures going out.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia600404.us.archive.org/fulltext/inside.php?item_id=earlygreekphilo00burngoog&doc=earlygreekphilo00burngoog&path=/18/items/earlygreekphilo00burngoog&q=%22no%20one%20of%20gods%20or%20men%22",
+          "quote": "has made; but it was ever, is now, and ever shall be an",
+          "where": "OCR bản Early Greek Philosophy in 1908 (A. and C. Black), trang quét 167; so khớp toàn câu, chỉ khác nhiễu OCR (“world,^”, “ever-livinjB^”)"
+        },
+        {
+          "url": "https://ia600404.us.archive.org/fulltext/inside.php?item_id=earlygreekphilo00burngoog&doc=earlygreekphilo00burngoog&path=/18/items/earlygreekphilo00burngoog&q=%22no%20one%20of%20gods%20or%20men%22",
+          "quote": "(20) This world,^ which is the same for all,",
+          "where": "đầu mảnh văn, cùng trang"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và nguồn: Heraclitus; bản dịch tiếng Anh của John Burnet trong Early Greek Philosophy (1908)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/67097",
+          "quote": "United Kingdom: A. and C. Black,1908.",
+          "where": "trang ebook #67097, mục Original Publication; tác giả “Burnet, John, 1863-1928”"
+        },
+        {
+          "url": "https://archive.org/metadata/earlygreekphilo00burngoog",
+          "quote": "A. and C. Black",
+          "where": "metadata bản quét: date “1908”, creator “John Burnet”"
+        }
+      ]
+    },
+    {
+      "text": "locator: DK 22 B30 (trong sách của Burnet là mảnh 20)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heraclitus/",
+          "quote": "This world-order [kosmos], the same of all, no god nor man did create, but it ever was and is and will be:",
+          "where": "SEP, Daniel W. Graham, “Heraclitus”, bản Fall 2026: mảnh văn được ghi là B30"
+        },
+        {
+          "url": "https://ia600404.us.archive.org/fulltext/inside.php?item_id=earlygreekphilo00burngoog&doc=earlygreekphilo00burngoog&path=/18/items/earlygreekphilo00burngoog&q=%22no%20one%20of%20gods%20or%20men%22",
+          "quote": "(20) This world,^ which is the same for all,",
+          "where": "số mảnh của Burnet (đánh số theo Bywater) là 20"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt: “Thế giới này, vốn chung cho mọi người, không thần nào hay người nào làm ra; nó đã luôn là, đang là và sẽ mãi là một ngọn Lửa sống mãi, bùng lên theo chừng mực và tắt đi theo chừng mực.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ia600404.us.archive.org/fulltext/inside.php?item_id=earlygreekphilo00burngoog&doc=earlygreekphilo00burngoog&path=/18/items/earlygreekphilo00burngoog&q=%22no%20one%20of%20gods%20or%20men%22",
+          "quote": "has made; but it was ever, is now, and ever shall be an",
+          "where": "bản Việt sát từng vế"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Burnet 1908 (Burnet mất 1928) thuộc phạm vi công cộng, không có rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/67097",
+          "quote": "Public domain in the USA.",
+          "where": "dòng Copyright Status"
+        },
+        {
+          "url": "https://archive.org/metadata/earlygreekphilo00burngoog",
+          "quote": "NOT_IN_COPYRIGHT",
+          "where": "possible-copyright-status"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chương Herakleitos nằm ngoài giới hạn đọc của công cụ trên tệp Gutenberg #67097 (dài), nên so chữ trên bản quét Internet Archive của chính lần in 1908 (earlygreekphilo00burngoog). Có thể ghi thêm vào locator: “Burnet fr. 20”."
+}

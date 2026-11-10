@@ -1,0 +1,75 @@
+{
+  "unit": "quotes/diogenes-laertius.lives-of-the-eminent-philosophers",
+  "hash": "sha256:365bfbcc95c06c09501b3568e02193ce2464c5135947346554ce9957419b477f",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản Hicks): “This is why Zeno was the first (in his treatise On the Nature of Man) to designate as the end “life in agreement with nature” (or living agreeably to nature), which is the same as a virtuous life, virtue being the goal towards which nature guides us.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "This is why Zeno was the first (in his treatise On the Nature of Man) to designate as the end",
+          "where": "Perseus TEI bản Hicks, Book VII, §7.1.87 (Loeb tập II tr. 195)"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "(or living agreeably to nature), which is the same as a virtuous life, virtue being the goal towards which nature guides us.",
+          "where": "cùng câu, §7.1.87; so khớp từng chữ sau khi bỏ thẻ XML (<q> = ngoặc kép)"
+        }
+      ]
+    },
+    {
+      "text": "Người nói và tác phẩm: Diogenes Laërtius, Lives of the Eminent Philosophers (thuật lại học thuyết của Zeno), bản dịch tiếng Anh của R. D. Hicks (1925)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/__cts__.xml",
+          "quote": "Diogenes Laertius. Hicks, R. D., editor. Cambridge, MA.: Harvard University Press; London: William Heinemann Ltd., 1925.",
+          "where": "mô tả bản dịch urn:cts:greekLit:tlg0004.tlg001.perseus-eng2 (Lives of Eminent Philosophers)"
+        }
+      ]
+    },
+    {
+      "text": "locator: VII.87",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "xml:base=\"urn:cts:greekLit:tlg0004.tlg001.perseus-eng2:7.1\" n=\"87\"",
+          "where": "thẻ mở mục chứa câu trích (Book VII, ch. 1 Zeno, §87)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: “Vì thế Zeno là người đầu tiên (trong chuyên luận Về bản tính con người) xác định mục đích là “sống phù hợp với tự nhiên” (hay sống thuận theo tự nhiên), điều cũng chính là sống theo đức hạnh, vì đức hạnh là đích mà tự nhiên dẫn ta tới.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml",
+          "quote": "to designate as the end “life in agreement with nature” (or living agreeably to nature), which is the same as a virtuous life",
+          "where": "§7.1.87; bản dịch sát từng vế (designate as the end = xác định mục đích; virtue being the goal… = đức hạnh là đích…)"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Hicks in năm 1925, trích một câu — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/__cts__.xml",
+          "quote": "London: William Heinemann Ltd., 1925.",
+          "where": "năm in bản Loeb; tác phẩm in 1925 đã vào phạm vi công cộng ở Mỹ (từ 1/1/2021)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đối chiếu bằng bản TEI của Perseus Digital Library (bản chép bản Loeb 1925 của Hicks) trên GitHub PerseusDL/canonical-greekLit; khớp từng chữ. URL trong bản ghi (en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII) không mở được trong phiên này (WebFetch báo url_not_found, proxy chặn Wikisource) nên chưa xác nhận link; kết quả tìm kiếm cho thấy trang anh em …/Book_X có trên Wikisource. Đề xuất: locator \"VII.87\"; trường license có thể đổi thành public-domain."
+}

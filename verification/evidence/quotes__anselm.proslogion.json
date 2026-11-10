@@ -1,0 +1,92 @@
+{
+  "unit": "quotes/anselm.proslogion",
+  "hash": "sha256:be164e7bd8b98bdc2688df95db61a289d6c2909be5ece7f675d99df11655773d",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"And, indeed, we believe that thou art a being than which nothing greater can be conceived.\"",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"And indeed, we believe that thou art a being than which nothing greater can be conceived.\" (bản Deane không có dấu phẩy sau \"And\")",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "And indeed, we believe that thou art a being than which nothing greater can be conceived.",
+          "where": "Proslogium, CHAPTER II."
+        },
+        {
+          "url": "https://sourcebooks.web.fordham.edu/basis/anselm-proslogium.asp",
+          "quote": "And indeed, we believe that you are a being than which nothing greater can be conceived.",
+          "where": "Chapter II (bản Fordham đã đổi thou thành you)"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, dịch giả: Anselm, *Proslogion* (work: anselm.proslogion), bản tiếng Anh của S. N. Deane",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/stanselmeproslog00anseuoft/stanselmeproslog00anseuoft_djvu.txt",
+          "quote": "TRANSLATED FROM THE LATIN BY SIDNEY NORTON DEANE, B. A.",
+          "where": "trang tên sách, Open Court, Chicago, 1903"
+        },
+        {
+          "url": "https://media.sabda.org/alkitab-12/ccel/a/anselm/basic_wo/about.htm",
+          "quote": "Deane, S. N. (Sidney Norton), 1878-1943, tr.",
+          "where": "thông tin ấn bản CCEL (nguồn in: Open Court, 1926, 2d. ed.)"
+        }
+      ]
+    },
+    {
+      "text": "Năm soạn: 1077–1078",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/anselm/",
+          "quote": "the Monologion (1075–76), the Proslogion (1077–78)",
+          "where": "SEP, Thomas Williams, mục tiểu sử"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương 2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "CHAPTER II.",
+          "where": "đề chương chứa câu trích"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Và quả thật, chúng con tin rằng Ngài là một tồn tại mà không thể nghĩ ra cái gì lớn hơn được.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "a being than which nothing greater can be conceived"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Deane (1903; in lại 1926) thuộc phạm vi công cộng — không rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://media.sabda.org/alkitab-12/ccel/a/anselm/basic_wo/about.htm",
+          "quote": "Copyright: Public Domain"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chỉ lệch một dấu phẩy (\"And, indeed,\" → \"And indeed,\") so với bản CCEL (chép từ Open Court 1926, 2d. ed.) và bản Fordham; chưa mở được bản quét 1903 tới chương II (trang djvu của Internet Archive chỉ hiện phần dẫn nhập). Locator đề xuất: \"chương 2\" (đã có trong tiêu đề). Đề xuất license: public-domain; link nguồn: https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html."
+}

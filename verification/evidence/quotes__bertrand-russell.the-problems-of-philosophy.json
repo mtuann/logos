@@ -1,0 +1,82 @@
+{
+  "unit": "quotes/bertrand-russell.the-problems-of-philosophy",
+  "hash": "sha256:cd13a006a98f095fead54b47e089c3518001608aa5d9f5a11cc524b4f8ddeab0",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q01",
+  "claims": [
+    {
+      "text": "Nguyên văn: \"It will be seen that minds do not *create* truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains. What makes a belief true is a *fact*, and this fact does not (except in exceptional cases) in any way involve the mind of the person who has the belief.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/text/chapter-12",
+          "quote": "They create beliefs, but when once the beliefs are created, the mind cannot make them true or false,",
+          "where": "chương XII, Truth and Falsehood"
+        },
+        {
+          "url": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/text/chapter-12",
+          "quote": "except in the special case where they concern future things which are within the power of the person believing,"
+        },
+        {
+          "url": "https://americanliterature.com/author/bertrand-russell/book/the-problems-of-philosophy/chapter-xii-truth-and-falsehood",
+          "quote": "It will be seen that minds do not *create* truth or falsehood.",
+          "where": "bản chép thứ hai, giữ chữ nghiêng ở create và fact"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả, tác phẩm, năm: Bertrand Russell, *The Problems of Philosophy* (1912) (work: russell.the-problems-of-philosophy)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "Russell, Bertrand, 1872-1970",
+          "where": "ebook #5827 The Problems of Philosophy"
+        },
+        {
+          "url": "https://www.personal.kent.edu/~rmuhamma/Philosophy/RBwritings/ProbPhiloBook/probPhiloBook.htm",
+          "quote": "Home University Library, 1912",
+          "where": "mục lục sách (15 chương)"
+        }
+      ]
+    },
+    {
+      "text": "locator: chương XII (Truth and Falsehood)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/text/chapter-12",
+          "quote": "XII, Truth and Falsehood",
+          "where": "đề chương"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: \"Ta sẽ thấy rằng tâm trí không *tạo ra* cái đúng hay cái sai. Nó tạo ra niềm tin; nhưng một khi niềm tin đã được tạo ra, tâm trí không thể làm cho chúng đúng hay sai, trừ trường hợp đặc biệt khi chúng nói về những việc tương lai nằm trong tầm tay của chính người tin, như chuyện kịp chuyến tàu. Cái làm cho một niềm tin đúng là một *sự kiện*, và sự kiện ấy (trừ những trường hợp ngoại lệ) không hề dính dáng gì đến tâm trí của người có niềm tin.\" — sát nghĩa nguyên văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy/text/chapter-12",
+          "quote": "such as catching trains."
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: trích 3 câu từ sách 1912 — phạm vi công cộng tại Hoa Kỳ, không rủi ro theo chuẩn Gutenberg",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5827",
+          "quote": "Public domain in the USA."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Chương XII nằm ngoài phần trang Gutenberg #5827 mà công cụ đọc được (bị cắt ở chương VIII), nên đối chiếu ở Standard Ebooks (bản biên tập lại từ văn bản phạm vi công cộng) và một bản chép thứ hai; cả hai khớp từng chữ với bản ghi. Standard Ebooks hiện create/fact trong ngoặc kép, bản chép kia in nghiêng như bản ghi — khác trình bày, không đổi nghĩa. Bản quyền: Russell mất 1970 nên sách còn bản quyền ở các nước tính đời + 70 năm (tới hết 2040) dù đã thuộc phạm vi công cộng ở Hoa Kỳ và ở Việt Nam (đời + 50); nếu dự án áp chuẩn chặt nhất thì 3 câu vượt mức 1–2 câu. Locator đề xuất: \"chương XII\" (đã có trong tiêu đề). Đề xuất license: public-domain (Hoa Kỳ)."
+}

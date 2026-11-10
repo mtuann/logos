@@ -1,0 +1,90 @@
+{
+  "unit": "quotes/friedrich-nietzsche.die-frohliche-wissenschaft",
+  "hash": "sha256:21f3121148e58f8f761c53e904e32fd0dd270282d5e39261dc974255b1c7db20",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản Common): “God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of all murderers?”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://greatthinkers.pressbooks.tru.ca/chapter/on-the-death-of-god-nietzsche/",
+          "quote": "God is dead! God remains dead! And we have killed him!",
+          "where": "TRU Pressbooks chép lại bản Gutenberg #52881 (ghi nguồn), mục 125 “The Madman”"
+        },
+        {
+          "url": "https://greatthinkers.pressbooks.tru.ca/chapter/on-the-death-of-god-nietzsche/",
+          "quote": "How shall we console ourselves, the most murderous of all murderers?",
+          "where": "câu kế tiếp, cùng mục 125"
+        },
+        {
+          "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/PHIL101-5.3.2.pdf",
+          "quote": "God is dead! God remains dead! And we have killed him!",
+          "where": "Saylor Academy, bản in lại The Joyful Wisdom, mục 125 — khớp từng chữ"
+        }
+      ]
+    },
+    {
+      "text": "Tác giả và tác phẩm: Friedrich Nietzsche, Die fröhliche Wissenschaft (1882), §125 “Người điên” (Der tolle Mensch); bản dịch tiếng Anh của Thomas Common, The Joyful Wisdom (1910)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://germanhistorydocs.org/de/reichsgruendung-bismarcks-deutschland-1866-1890/friedrich-nietzsche-verkuendet-gott-ist-tot-die-froehliche-wissenschaft-1882.pdf",
+          "quote": "125. Der tolle Mensch",
+          "where": "GHDI, Die fröhliche Wissenschaft (1882), quyển 3"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/52881",
+          "quote": "The Joyful Wisdom (\"La Gaya Scienza\")",
+          "where": "Gutenberg #52881; người dịch: Paul V. Cohn, Thomas Common, Maude Dominica Petre"
+        },
+        {
+          "url": "https://catalog.hathitrust.org/Record/100193567",
+          "quote": "The joyful wisdom",
+          "where": "HathiTrust: bản dịch của Thomas Common, phần thơ do Paul V. Cohn và Maude D. Petre dịch"
+        }
+      ]
+    },
+    {
+      "text": "locator: §125",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://germanhistorydocs.org/de/reichsgruendung-bismarcks-deutschland-1866-1890/friedrich-nietzsche-verkuendet-gott-ist-tot-die-froehliche-wissenschaft-1882.pdf",
+          "quote": "Gott ist tot! Gott bleibt tot! Und wir haben ihn getötet!",
+          "where": "trong mục “125. Der tolle Mensch” (nguyên văn tiếng Đức, chính tả hiện đại)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch: “Chúa đã chết! Chúa vẫn chết! Và chính chúng ta đã giết Người! Chúng ta, những kẻ sát nhân bậc nhất trong mọi kẻ sát nhân, sẽ lấy gì tự an ủi?”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://germanhistorydocs.org/de/reichsgruendung-bismarcks-deutschland-1866-1890/friedrich-nietzsche-verkuendet-gott-ist-tot-die-froehliche-wissenschaft-1882.pdf",
+          "quote": "Wie trösten wir uns, die Mörder aller Mörder?",
+          "where": "nguyên văn câu hỏi; bản Việt sát cả bản Common lẫn nguyên văn Đức"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Common in 1910, trích hai câu — không có rủi ro bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/52881",
+          "quote": "The Joyful Wisdom (\"La Gaya Scienza\")",
+          "where": "Gutenberg #52881, phát hành tự do (bản Levy 1910)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "URL Gutenberg #52881 đúng sách (The Joyful Wisdom, dịch giả Cohn, Common, Petre). WebFetch chỉ đọc ~120 nghìn ký tự đầu của file Gutenberg nên không tới được §125; chữ của bản Common được đối chiếu qua hai bản chép lại có ghi nguồn Gutenberg #52881 (TRU Pressbooks, Saylor) — khớp từng chữ; vị trí và tên mục đối chiếu với nguyên văn Đức (GHDI). Nên có người mở Gutenberg #52881 §125 để xác nhận lần cuối nếu cần nguồn bậc 1. Đề xuất locator \"§125\". Trường license có thể ghi public-domain."
+}

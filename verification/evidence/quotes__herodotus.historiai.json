@@ -1,0 +1,85 @@
+{
+  "unit": "quotes/herodotus.historiai",
+  "hash": "sha256:0154b3672d278c9c9d81ef9f84316147d22ebce5bc256978ff64f89bdbe8c6df",
+  "checked_on": "2026-11-09",
+  "checker": "agent-kiem-5.2-q02",
+  "claims": [
+    {
+      "text": "Nguyên văn (bản dịch Macaulay): “And this change of the day Thales the Milesian had foretold to the Ionians laying down as a limit this very year in which the change took place.”",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707.txt.utf-8",
+          "quote": "And this change of the day Thales the Milesian had foretold to the Ionians laying down as a limit this very",
+          "where": "Gutenberg #2707, quyển I, mục 74; so khớp từng chữ và dấu câu"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707.txt.utf-8",
+          "quote": "year in which the change took place. The Lydians however and the Medes, when they saw that it had",
+          "where": "phần tiếp theo"
+        }
+      ]
+    },
+    {
+      "text": "Người viết và tác phẩm: Herodotus, Historiai (bản dịch tiếng Anh của G. C. Macaulay, 1890) (work: chua-ro.historiai, attribution Herodotus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707",
+          "quote": "Macaulay, G. C. (George Campbell), 1852-1915",
+          "where": "mục người dịch, trang ebook “The History of Herodotus — Volume 1”"
+        },
+        {
+          "url": "https://onlinebooks.library.upenn.edu/webbin/who/Macaulay%2c%20G%2e%20C%2e%20%28George%20Campbell%29%2c%201852%2d1915",
+          "quote": "The History of Herodotus. (Macmillan and co., 1890)",
+          "where": "danh mục sách của G. C. Macaulay, The Online Books Page"
+        }
+      ]
+    },
+    {
+      "text": "locator: I.74",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707.txt.utf-8",
+          "quote": "74. After this, seeing that Alyattes would not give up the Scythians",
+          "where": "đầu mục 74; đoạn trích nằm trong mục này"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707.txt.utf-8",
+          "quote": "BOOK I. THE FIRST BOOK OF THE HISTORIES, CALLED CLIO",
+          "where": "tiêu đề quyển I; không có tiêu đề quyển khác trước đoạn trích"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Việt: “Và việc ngày hóa thành đêm ấy, Thales người Miletus đã báo trước cho người Ionia, định hạn đúng vào năm mà sự đổi thay xảy ra.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707.txt.utf-8",
+          "quote": "in which it happened, when the fight had begun, that suddenly the day became night.",
+          "where": "câu ngay trước: “this change of the day” = ngày hóa thành đêm, nên bản Việt diễn đúng ý"
+        }
+      ]
+    },
+    {
+      "text": "Bản quyền: bản dịch Macaulay 1890 (Macaulay mất 1915) thuộc phạm vi công cộng, không có rủi ro",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2707",
+          "quote": "Public domain in the USA.",
+          "where": "dòng Copyright Status"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Trường work dùng khóa chua-ro.historiai (works.yml ghi attribution Herodotus; kho chưa có hồ sơ people/herodotus nên khóa chua-ro đúng quy ước): đúng tác phẩm."
+}
