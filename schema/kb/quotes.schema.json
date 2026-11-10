@@ -35,7 +35,12 @@
             }
           ]
         },
+        "work_note": {
+          "description": "Lý do khối không ghép với tác phẩm nào trong works.yml (phát biểu, văn kiện, thơ lẻ, tác phẩm chưa có bản ghi); sửa tay, giữ khi rút lại.",
+          "$ref": "#/$defs/text"
+        },
         "locator": {
+          "description": "Vị trí trích trong tác phẩm (38a, I.7, 1098a18–20, §32, 2A6…); sửa tay, giữ khi rút lại.",
           "$ref": "#/$defs/text"
         },
         "title": {

@@ -224,6 +224,24 @@ class TestLintQuotes(unittest.TestCase):
         self.assertNotIn("khong-khop", rules)
         self.assertNotIn("mo-coi", rules)
 
+    def test_work_note_and_locator(self):
+        """`work_note` (lý do không ghép tác phẩm) thay cho `work`; thiếu cả hai, hoặc thiếu `locator`, thì báo."""
+        base = {"title": "X", "original": "o", "translation": "t", "translator": None, "license": "unknown",
+                "url": "https://example.org", "used_in": ["people/x"], "evidence": [], "verified": None}
+        recs = {"x.co-ly-do": {"work": None, "work_note": "phát biểu, không phải tác phẩm", "locator": "§1", **base},
+                "x.co-tac-pham": {"work": "x.tac-pham", "locator": "38a", **base},
+                "x.chua": {"work": None, **base}}
+        tmp = Path(tempfile.mkdtemp(prefix="quotes-"))
+        (tmp / "quotes.yml").write_text(yaml.safe_dump(recs, allow_unicode=True), encoding="utf-8")
+        old = lint_quotes.QUOTES
+        lint_quotes.QUOTES = tmp / "quotes.yml"
+        try:
+            got = {(f.rule, f.found) for f in lint_quotes.collect() if f.page == "data/kb/quotes.yml"}
+        finally:
+            lint_quotes.QUOTES = old
+            shutil.rmtree(tmp, ignore_errors=True)
+        self.assertEqual(got, {("chua-ghep-tac-pham", "x.chua"), ("chua-co-vi-tri", "x.chua")})
+
 
 class TestLintSoLieu(unittest.TestCase):
     KB = {"questions": [{"id": "tu-do-y-chi", "options": [

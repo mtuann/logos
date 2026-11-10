@@ -30,7 +30,7 @@ Vậy triết gia biết gì mà người khác không biết? Platon trả lờ
 
 **Đoạn 1 — Tù nhân và cái bóng (514a–515c).** Những người bị xích chân và cổ từ nhỏ, chỉ nhìn được vào vách hang. Sau lưng họ có ngọn lửa; giữa lửa và họ, có người mang qua lại những tượng người, tượng thú bằng gỗ, bằng đá. Thứ tù nhân thấy là bóng của *những hình nộm* ấy.
 
-!!! quote "Cộng hòa, 515a và 515c — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 515a và 515c — bản dịch Benjamin Jowett"
     "Like ourselves, I replied; and they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave?"
 
     "To them, I said, the truth would be literally nothing but the shadows of the images."
@@ -45,7 +45,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 **Đoạn 2 — Đi lên (515c–516c).** Một tù nhân được cởi trói và *bị buộc* quay lại nhìn lửa: chói mắt, đau đớn, anh ta muốn quay về với những cái bóng quen thuộc. Rồi anh bị lôi lên một con dốc gồ ghề, ra ngoài ánh sáng (515e). Anh phải tập nhìn từng bậc: bóng, rồi ảnh phản chiếu dưới nước, rồi chính sự vật, rồi trăng sao ban đêm.
 
-!!! quote "Cộng hòa, 516b — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 516b — bản dịch Benjamin Jowett"
     "Last of all he will be able to see the sun, and not mere reflections of him in the water, but he will see him in his own proper place, and not in another; and he will contemplate him as he is."
 
     "Sau cùng, anh ta sẽ nhìn được mặt trời, không phải bóng của nó dưới nước, mà chính nó, ở đúng chỗ của nó, và ngắm nó đúng như nó là." *(bản dịch của Logos)*
@@ -54,7 +54,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 **Đoạn 3 — Người quay về (516c–517a).** Nhớ lại bạn tù, người đã ra ngoài thấy thương họ. Anh quay xuống hang, nhưng mắt chưa quen bóng tối, đoán bóng thua cả những người chưa từng rời chỗ.
 
-!!! quote "Cộng hòa, 517a — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 517a — bản dịch Benjamin Jowett"
     "Men would say of him that up he went and down he came without his eyes; and that it was better not even to think of ascending; and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death."
 
     "Người ta sẽ bảo anh ta lên trên ấy rồi trở về mù cả mắt, và tốt hơn hết đừng nghĩ đến chuyện đi lên; còn kẻ nào định cởi trói cho người khác và dẫn họ lên chỗ sáng, cứ để họ bắt được, họ sẽ giết hắn." *(bản dịch của Logos)*
@@ -63,7 +63,7 @@ Họ đặt tên cho các bóng (515b), và trao vinh dự cho kẻ nhanh mắt 
 
 **Đoạn 4 — Platon tự giải thích (517b–520d).** Ngay sau đó, nhân vật Socrates nói rõ: nhà tù là thế giới của thị giác, ánh lửa là mặt trời, cuộc đi lên là hành trình của linh hồn vào thế giới trí tuệ (517b). Rồi ông rút ra hai bài học, về giáo dục và về chính trị.
 
-!!! quote "Cộng hòa, 518b–c và 520c — bản dịch Benjamin Jowett"
+!!! quote "*Cộng hòa*, 518b–c và 520c — bản dịch Benjamin Jowett"
     "...certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before, like sight into blind eyes."
 
     "Wherefore each of you, when his turn comes, must go down to the general underground abode, and get the habit of seeing in the dark."

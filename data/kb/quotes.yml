@@ -1,7 +1,9 @@
 # Kho trích dẫn. RÚT TỰ ĐỘNG bằng tools/kb_quotes.py từ khối !!! quote của Lõi viết tay và quote của hồ sơ;
-# chỉ locator, license, evidence, verified được sửa ở đây. Schema: schema/kb/quotes.schema.json. Lệch: verification/lech/quotes.md.
+# chỉ locator, work_note, license, evidence, verified được sửa ở đây. Schema: schema/kb/quotes.schema.json. Lệch: verification/lech/quotes.md.
 alan-turing-computing-ma.mind:
   work: null
+  work_note: bài báo trên tạp chí Mind; tác phẩm chưa có bản ghi (đợt 7)
+  locator: §1 “The Imitation Game”, tr. 433
   title: Alan Turing, “Computing Machinery and Intelligence”, *Mind*, 1950
   body: '"I propose to consider the question, ''Can machines think?'' This should begin with definitions of the meaning of the terms ''machine'' and ''think''."
 
@@ -15,6 +17,7 @@ alan-turing-computing-ma.mind:
   verified: null
 anselm.proslogion:
   work: anselm.proslogion
+  locator: chương 2
   title: Anselm, *Proslogion*, chương 2, 1077–1078 (bản tiếng Anh của S. N. Deane)
   body: '"And, indeed, we believe that thou art a being than which nothing greater can be conceived."
 
@@ -28,6 +31,7 @@ anselm.proslogion:
   verified: null
 anselm.proslogion-2:
   work: anselm.proslogion
+  locator: chương 1
   title: Anselm, *Proslogion*, chương 1 — bản dịch tiếng Anh của Sidney Norton Deane (1903)
   original: For I do not seek to understand that I may believe, but I believe in order to understand. For this also I believe,—that unless I believed, I should not understand.
   translation: 'Vì con không tìm hiểu để rồi mới tin, nhưng con tin để có thể hiểu. Bởi con còn tin điều này nữa: nếu không tin, con sẽ không hiểu.'
@@ -39,7 +43,8 @@ anselm.proslogion-2:
   evidence: []
   verified: null
 aristotle.dao-duc-nicomachus:
-  work: null
+  work: aristotle.ethica-nicomachea
+  locator: III.1, 1109b30–35
   title: Aristotle, *Đạo đức Nicomachus*, Quyển III, chương 1 (bản tiếng Anh của W. D. Ross)
   body: '"Since virtue is concerned with passions and actions, and on voluntary passions and actions praise and blame are bestowed, on those that are involuntary pardon, and sometimes also pity, to distinguish the voluntary and the involuntary is presumably necessary for those who are studying the nature of virtue, and useful also for legislators with a view to the assigning both of honours and of punishments."
 
@@ -52,7 +57,8 @@ aristotle.dao-duc-nicomachus:
   evidence: []
   verified: null
 aristotle.dao-duc-nicomachus-2:
-  work: null
+  work: aristotle.ethica-nicomachea
+  locator: I.7, 1098a18–20
   title: Aristotle, *Đạo đức Nicomachus* I.7 (1098a) — bản dịch tiếng Anh của D. P. Chase
   original: …for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy.
   translation: …vì như một con én hay một ngày đẹp trời không làm nên mùa xuân, một ngày hay một thời gian ngắn cũng không làm cho con người được phúc và hạnh phúc.
@@ -64,7 +70,8 @@ aristotle.dao-duc-nicomachus-2:
   evidence: []
   verified: null
 augustine.confessions:
-  work: chua-ro.confessions
+  work: augustine.confessiones
+  locator: XI.14.17
   title: Augustine, *Confessions*, Quyển XI, chương 14 (bản tiếng Anh của Edward Pusey, 1838)
   body: '"What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not."
 
@@ -77,7 +84,8 @@ augustine.confessions:
   evidence: []
   verified: null
 augustine.tu-thu:
-  work: null
+  work: augustine.confessiones
+  locator: I.1.1
   title: Augustine, *Tự thú* (*Confessions*), quyển I, chương 1 — bản dịch tiếng Anh của Edward B. Pusey (1838)
   original: Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.
   translation: Ngài đánh thức chúng con để chúng con vui sướng ca ngợi Ngài; vì Ngài đã dựng nên chúng con cho Ngài, và lòng chúng con khắc khoải cho tới khi được nghỉ yên trong Ngài.
@@ -90,6 +98,7 @@ augustine.tu-thu:
   verified: null
 bentham.an-introduction-to-the-principles-of-mor:
   work: bentham.an-introduction-to-the-principles-of-morals-and-le
+  locator: chương I, đoạn 1
   title: Bentham, *An Introduction to the Principles of Morals and Legislation* (1789), chương I, đoạn 1 — nguyên văn tiếng Anh, bản Clarendon Press 1907 in lại ấn bản 1823
   original: Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.
   translation: 'Tự nhiên đã đặt loài người dưới quyền cai quản của hai ông chủ tối cao: đau khổ và khoái lạc. Chỉ chúng mới chỉ ra điều ta nên làm, cũng như quyết định điều ta sẽ làm.'
@@ -102,6 +111,7 @@ bentham.an-introduction-to-the-principles-of-mor:
   verified: null
 bertrand-russell.the-problems-of-philosophy:
   work: russell.the-problems-of-philosophy
+  locator: chương XII
   title: Bertrand Russell, *The Problems of Philosophy* (1912), chương XII — nguyên văn tiếng Anh
   body: '"It will be seen that minds do not *create* truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains. What makes a belief true is a *fact*, and this fact does not (except in exceptional cases) in any way involve the mind of the person who has the belief."
 
@@ -115,6 +125,7 @@ bertrand-russell.the-problems-of-philosophy:
   verified: null
 bertrand-russell.the-problems-of-philosophy-2:
   work: russell.the-problems-of-philosophy
+  locator: chương VI
   title: Bertrand Russell, *The Problems of Philosophy* (1912), chương VI “On Induction” — nguyên văn tiếng Anh
   original: The man who has fed the chicken every day throughout its life at last wrings its neck instead, showing that more refined views as to the uniformity of nature would have been useful to the chicken.
   translation: Người đã cho con gà ăn mỗi ngày suốt đời nó, rốt cuộc lại vặn cổ nó, cho thấy rằng những quan niệm tinh tế hơn về tính đồng nhất của tự nhiên lẽ ra đã có ích cho con gà.
@@ -127,6 +138,7 @@ bertrand-russell.the-problems-of-philosophy-2:
   verified: null
 blaise-pascal.pensees:
   work: pascal.pensees
+  locator: Brunschvicg 347, Lafuma 200
   title: Blaise Pascal, *Pensées* (1670), đoạn 347 theo Brunschvicg (200 theo Lafuma) — bản dịch tiếng Anh của W. F. Trotter (1910)
   original: Man is but a reed, the most feeble thing in nature; but he is a thinking reed. […] But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this.
   translation: Con người chỉ là một cây sậy, thứ yếu ớt nhất trong tự nhiên; nhưng đó là một cây sậy biết suy nghĩ. […] Nhưng nếu vũ trụ có nghiền nát con người, con người vẫn cao quý hơn cái đã giết mình, vì con người biết mình chết và biết ưu thế của vũ trụ đối với mình; còn vũ trụ chẳng biết gì về điều đó.
@@ -139,6 +151,8 @@ blaise-pascal.pensees:
   verified: null
 boethius.an-ui-cua-triet-hoc:
   work: null
+  work_note: tác phẩm chưa có bản ghi (đợt 7)
+  locator: quyển V, văn xuôi 3–6
   title: Boethius, *An ủi của Triết học*, Quyển V (khoảng 524; bản dịch tiếng Anh của H. R. James, 1897)
   body: 'Boethius đặt vấn đề: nếu Thượng đế thấy trước mọi sự và không thể lầm, thì mọi sự ắt phải xảy ra đúng như Người thấy — vậy con người còn tự do gì? Bà Triết học (nhân vật đối thoại với ông) đáp: sai lầm nằm ở chữ "thấy trước". Thượng đế không sống trong thời gian như ta; Người sống trong một hiện tại vĩnh cửu, nơi quá khứ, hiện tại và tương lai đều "đang diễn ra". Vì vậy Người không *tiên đoán* hành động của bạn — Người *chứng kiến* nó, như bạn chứng kiến một người đang ngồi trước mặt. Mà chứng kiến không phải là ép buộc.
 
@@ -155,6 +169,7 @@ boethius.an-ui-cua-triet-hoc:
   verified: null
 chu-hy.chu-tu-ngu-loai:
   work: chu-hy.chu-tu-ngu-loai
+  locator: quyển 94
   title: Chu Hy, *Chu Tử ngữ loại* (朱子語類), quyển 94, lời đáp học trò về Thái cực — nguyên văn chữ Hán và phiên âm Hán Việt
   original: 本只是一太極，而萬物各有稟受，又自各全具一太極爾。如月在天，只一而已；及散在江湖，則隨處而見，不可謂月已分也。 — Bản chỉ thị nhất Thái cực, nhi vạn vật các hữu bẩm thụ, hựu tự các toàn cụ nhất Thái cực nhĩ. Như nguyệt tại thiên, chỉ nhất nhi dĩ; cập tán tại giang hồ, tắc tùy xứ nhi kiến, bất khả vị nguyệt dĩ phân dã.
   translation: Vốn chỉ có một Thái cực, nhưng muôn vật mỗi vật đều bẩm thụ, lại mỗi vật tự có đủ trọn một Thái cực. Như mặt trăng trên trời chỉ có một mà thôi; khi rải xuống sông hồ thì chỗ nào cũng thấy, không thể nói rằng mặt trăng đã bị chia ra.
@@ -167,6 +182,8 @@ chu-hy.chu-tu-ngu-loai:
   verified: null
 chu-van-an.trich:
   work: null
+  work_note: đoạn chính sử trong Đại Việt sử ký toàn thư; tác phẩm chưa có bản ghi (đợt 7)
+  locator: Bản kỷ quyển 7, năm Canh Tuất (1370)
   title: '*Đại Việt sử ký toàn thư*, Bản kỷ quyển 7, tiểu sử Chu An chép ở năm 1370 — nguyên văn chữ Hán và phiên âm Hán Việt'
   original: 安諫不聽，乃上疏乞斬佞臣七人，皆權幸者，時人號七斬疏。疏入不報，遂掛冠歸田里。 (An gián bất thính, nãi thượng sớ khất trảm nịnh thần thất nhân, giai quyền hạnh giả, thời nhân hiệu Thất trảm sớ. Sớ nhập bất báo, toại quải quan quy điền lý.)
   translation: Chu An can ngăn, vua không nghe; ông bèn dâng sớ xin chém bảy tên nịnh thần, đều là những kẻ có quyền thế được vua sủng ái — người đương thời gọi là “Thất trảm sớ”. Sớ dâng vào không được trả lời; ông bèn treo mũ từ quan, về làng.
@@ -179,6 +196,8 @@ chu-van-an.trich:
   verified: null
 clive-bell.art:
   work: null
+  work_note: tác phẩm chưa có bản ghi (đợt 7)
+  locator: chương I (The Aesthetic Hypothesis)
   title: Clive Bell, *Art*, chương 1, 1914
   body: '"Only one answer seems possible — significant form. In each, lines and colours combined in a particular way, certain forms and relations of forms, stir our aesthetic emotions."
 
@@ -192,6 +211,7 @@ clive-bell.art:
   verified: null
 david-hume.a-treatise-of-human-nature:
   work: hume.a-treatise-of-human-nature
+  locator: T 3.1.1.27 (SBN 469–70)
   title: David Hume, *A Treatise of Human Nature*, quyển 3 (1740), phần 1, mục 1 — nguyên văn tiếng Anh, bản Project Gutenberg (chính tả đã hiện đại hóa một phần)
   body: '"In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surprized to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, it is necessary that it should be observed and explained; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it."
 
@@ -205,6 +225,7 @@ david-hume.a-treatise-of-human-nature:
   verified: null
 david-hume.an-enquiry-concerning-human-understandin:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 10.13 (SBN 115–6)
   title: David Hume, *An Enquiry Concerning Human Understanding*, mục X 'Of Miracles', 1748
   body: '"That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish."
 
@@ -221,6 +242,8 @@ david-hume.an-enquiry-concerning-human-understandin:
   verified: null
 democritus.trich:
   work: null
+  work_note: lời Democritus do Diogenes Laërtius dẫn; tác phẩm chưa có bản ghi (đợt 7)
+  locator: Diogenes Laërtius IX.72
   title: Democritus, dẫn theo Diogenes Laërtius IX.72 — bản dịch tiếng Anh của R. D. Hicks (1925)
   original: Opinion says hot or cold, but the reality is atoms and empty space. … Of a truth we know nothing, for truth is in a well.
   translation: Ý kiến nói nóng hay lạnh, nhưng thực tại là nguyên tử và khoảng trống. … Thật ra ta chẳng biết gì, vì sự thật nằm dưới đáy giếng.
@@ -232,7 +255,8 @@ democritus.trich:
   evidence: []
   verified: null
 descartes.suy-niem-ve-triet-hoc-de-nhat:
-  work: null
+  work: descartes.meditationes-de-prima-philosophia
+  locator: Suy niệm I
   title: Descartes, *Suy niệm về Triết học Đệ nhất*, Suy niệm I, 1641 (bản tiếng Anh của John Veitch)
   body: '"Though this be true, I must nevertheless here consider that I am a man, and that, consequently, I am in the habit of sleeping, and representing to myself in dreams those same things, or even sometimes others less probable, which the insane think are presented to them in their waking moments. How often have I dreamt that I was in these familiar circumstances, that I was dressed, and occupied this place by the fire, when I was lying undressed in bed? At the present moment, however, I certainly look upon this paper with eyes wide awake; the head which I now move is not asleep; I extend this hand consciously and with express purpose, and I perceive it; the occurrences in sleep are not so distinct as all this. But I cannot forget that, at other times I have been deceived in sleep by similar illusions; and, attentively considering those cases, I perceive so clearly that there exist no certain marks by which the state of waking can ever be distinguished from sleep, that I feel greatly astonished; and in amazement I almost persuade myself that I am now dreaming."
 
@@ -245,7 +269,8 @@ descartes.suy-niem-ve-triet-hoc-de-nhat:
   evidence: []
   verified: null
 descartes.suy-niem-ve-triet-hoc-de-nhat-2:
-  work: null
+  work: descartes.meditationes-de-prima-philosophia
+  locator: Suy niệm VI, đoạn 9
   title: Descartes, *Suy niệm về Triết học Đệ nhất*, Suy niệm VI, 1641 (bản tiếng Anh của John Veitch)
   body: '"...I rightly conclude that my essence consists only in my being a thinking thing... it is certain that I, [that is, my mind, by which I am what I am], is entirely and truly distinct from my body, and may exist without it."
 
@@ -259,6 +284,8 @@ descartes.suy-niem-ve-triet-hoc-de-nhat-2:
   verified: null
 diogenes-laertius.lives-of-the-eminent-philosophers:
   work: null
+  work_note: tác phẩm chưa có bản ghi (đợt 7)
+  locator: VII.87
   title: Diogenes Laërtius, *Lives of the Eminent Philosophers* VII.87 — bản dịch tiếng Anh của R. D. Hicks (1925)
   original: This is why Zeno was the first (in his treatise On the Nature of Man) to designate as the end “life in agreement with nature” (or living agreeably to nature), which is the same as a virtuous life, virtue being the goal towards which nature guides us.
   translation: Vì thế Zeno là người đầu tiên (trong chuyên luận *Về bản tính con người*) xác định mục đích là “sống phù hợp với tự nhiên” (hay sống thuận theo tự nhiên), điều cũng chính là sống theo đức hạnh, vì đức hạnh là đích mà tự nhiên dẫn ta tới.
@@ -271,6 +298,7 @@ diogenes-laertius.lives-of-the-eminent-philosophers:
   verified: null
 duc-phat.trich:
   work: duc-phat.kinh-vo-nga-tuong
+  locator: SN 22.59:2.1–2.3
   title: '*Kinh Vô ngã tướng* (SN 22.59) — bản dịch tiếng Anh của Bhikkhu Sujato, SuttaCentral (CC0)'
   original: 'Mendicants, form is not-self. For if form were self, it wouldn’t lead to affliction. And you could compel form: ‘May my form be like this! May it not be like that!’'
   translation: 'Này các tỳ-kheo, sắc (thân) không phải là tự ngã. Vì nếu sắc là tự ngã, nó đã không dẫn tới bệnh khổ, và ta có thể ra lệnh cho nó: ‘Thân ta hãy như thế này! Đừng như thế kia!’'
@@ -283,6 +311,7 @@ duc-phat.trich:
   verified: null
 edmund-husserl.logische-untersuchungen:
   work: husserl.logische-untersuchungen
+  locator: tập II, Dẫn nhập, §2 (tr. 7 bản 1901)
   title: Edmund Husserl, *Logische Untersuchungen*, tập II (1901), Dẫn nhập, §2 — nguyên văn tiếng Đức bản in lần đầu (chính tả hiện đại hóa)
   original: Wir wollen uns schlechterdings nicht mit „bloßen Worten“, das ist mit einem bloß symbolischen Wortverständnis zufrieden geben. […] Wir wollen auf die „Sachen selbst“ zurückgehen.
   translation: Chúng ta tuyệt đối không muốn bằng lòng với “chữ suông”, tức là với một cách hiểu từ ngữ chỉ thuần ký hiệu. […] Chúng ta muốn quay về với “chính các sự vật”.
@@ -295,6 +324,7 @@ edmund-husserl.logische-untersuchungen:
   verified: null
 epictetus.cam-nang:
   work: epictetus.cam-nang
+  locator: §5
   title: Epictetus, *Cẩm nang* (*Encheiridion*), chương 5 — bản dịch tiếng Anh của George Long (1877)
   original: Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.
   translation: Con người bị xáo trộn không phải bởi những gì xảy ra, mà bởi ý kiến về những điều ấy; chẳng hạn, cái chết chẳng có gì khủng khiếp, vì nếu có thì Socrates đã thấy nó khủng khiếp rồi; chính ý kiến cho rằng cái chết khủng khiếp mới là điều khủng khiếp.
@@ -306,7 +336,8 @@ epictetus.cam-nang:
   evidence: []
   verified: null
 epicurus.nhung-cham-ngon-chu-yeu:
-  work: null
+  work: epicurus.kuriai-doxai
+  locator: câu 2 (Diogenes Laërtius X.139)
   title: Epicurus, *Những châm ngôn chủ yếu*, câu 2 (bản dịch tiếng Anh của C. D. Yonge, 1853)
   body: '"Death is nothing to us; for that which is dissolved is devoid of sensation, and that which is devoid of sensation is nothing to us."
 
@@ -319,7 +350,8 @@ epicurus.nhung-cham-ngon-chu-yeu:
   evidence: []
   verified: null
 epicurus.thu-gui-menoeceus:
-  work: null
+  work: epicurus.letter-to-menoeceus
+  locator: §125 (Diogenes Laërtius X.125)
   title: Epicurus, *Thư gửi Menoeceus* 125, chép trong Diogenes Laërtius X — bản dịch tiếng Anh của R. D. Hicks (1925)
   original: Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.
   translation: Vậy cái chết, điều đáng sợ nhất trong mọi điều xấu, chẳng là gì với ta, bởi khi ta còn thì cái chết chưa đến, và khi cái chết đến thì ta không còn.
@@ -332,6 +364,7 @@ epicurus.thu-gui-menoeceus:
   verified: null
 friedrich-nietzsche.die-frohliche-wissenschaft:
   work: nietzsche.die-frohliche-wissenschaft
+  locator: §125
   title: Friedrich Nietzsche, *Die fröhliche Wissenschaft* (1882), §125 “Người điên” — bản dịch tiếng Anh của Thomas Common (*The Joyful Wisdom*, 1910)
   original: God is dead! God remains dead! And we have killed him! How shall we console ourselves, the most murderous of all murderers?
   translation: Chúa đã chết! Chúa vẫn chết! Và chính chúng ta đã giết Người! Chúng ta, những kẻ sát nhân bậc nhất trong mọi kẻ sát nhân, sẽ lấy gì tự an ủi?
@@ -344,6 +377,8 @@ friedrich-nietzsche.die-frohliche-wissenschaft:
   verified: null
 gottlob-frege-uber-sinn.zeitschrift-fur-philosophie-und-philosop:
   work: null
+  work_note: bài báo trên tạp chí; tác phẩm chưa có bản ghi (đợt 7)
+  locator: tr. 26–27
   title: Gottlob Frege, “Über Sinn und Bedeutung”, *Zeitschrift für Philosophie und philosophische Kritik* 100 (1892), tr. 26–27 — nguyên văn tiếng Đức (chữ ſ viết thành s)
   original: Es liegt nun nahe, mit einem Zeichen (Namen, Wortverbindung, Schriftzeichen) außer dem Bezeichneten, was die Bedeutung des Zeichens heißen möge, noch das verbunden zu denken, was ich den Sinn des Zeichens nennen möchte, worin die Art des Gegebenseins enthalten ist. […] Es würde die Bedeutung von „Abendstern“ und „Morgenstern“ dieselbe sein, aber nicht der Sinn.
   translation: Vậy tự nhiên ta nghĩ rằng gắn với một ký hiệu (tên gọi, cụm từ, chữ viết), ngoài cái được ký hiệu chỉ tới — có thể gọi là vật được chỉ của ký hiệu — còn có cái mà tôi muốn gọi là nghĩa của ký hiệu, chứa đựng cách thức vật ấy được trao cho ta. […] Vật được chỉ của “Sao Hôm” và “Sao Mai” sẽ là một, nhưng nghĩa thì không.
@@ -356,6 +391,7 @@ gottlob-frege-uber-sinn.zeitschrift-fur-philosophie-und-philosop:
   verified: null
 han-phi.han-phi-tu:
   work: han-phi.han-phi-tu
+  locator: thiên 6 Hữu độ
   title: Hàn Phi, *Hàn Phi Tử*, thiên 6 “Hữu độ” (有度) — nguyên văn chữ Hán và phiên âm Hán Việt
   original: 法不阿貴，繩不撓曲。法之所加，智者弗能辭，勇者弗敢爭。刑過不避大臣，賞善不遺匹夫。 — Pháp bất a quý, thằng bất nạo khúc. Pháp chi sở gia, trí giả phất năng từ, dũng giả phất cảm tranh. Hình quá bất tị đại thần, thưởng thiện bất di thất phu.
   translation: Pháp luật không nể kẻ sang, dây mực không uốn theo chỗ cong. Pháp đã áp vào thì kẻ khôn không chối được, kẻ mạnh không dám cãi. Phạt lỗi không chừa đại thần, thưởng điều thiện không bỏ sót kẻ thường dân.
@@ -368,6 +404,7 @@ han-phi.han-phi-tu:
   verified: null
 hegel.grundlinien-der-philosophie-des-rechts:
   work: hegel.grundlinien-der-philosophie-des-rechts
+  locator: Lời tựa, tr. xxx (bản Dyde 1896)
   title: Hegel, *Grundlinien der Philosophie des Rechts* (1821), Lời tựa (đề ngày 25/6/1820) — bản dịch tiếng Anh của S. W. Dyde (1896)
   original: When philosophy paints its grey in grey, one form of life has become old, and by means of grey it cannot be rejuvenated, but only known. The owl of Minerva takes its flight only when the shades of night are gathering.
   translation: Khi triết học tô màu xám lên nền xám, thì một hình thái của đời sống đã già cỗi; bằng màu xám, triết học không làm nó trẻ lại được, mà chỉ hiểu được nó. Con cú của thần Minerva chỉ cất cánh khi bóng đêm buông xuống.
@@ -380,6 +417,8 @@ hegel.grundlinien-der-philosophie-des-rechts:
   verified: null
 heraclitus-manh-van-dk-2.early-greek-philosophy:
   work: null
+  work_note: mảnh văn DK 22 B30; chưa có nguồn gán vào tác phẩm nào trong kho
+  locator: DK 22 B30 (Burnet, mảnh 20)
   title: Heraclitus, mảnh văn DK 22 B30 — bản dịch tiếng Anh của John Burnet, *Early Greek Philosophy* (1908)
   original: This world, which is the same for all, no one of gods or men has made; but it was ever, is now, and ever shall be an ever-living Fire, with measures kindling, and measures going out.
   translation: Thế giới này, vốn chung cho mọi người, không thần nào hay người nào làm ra; nó đã luôn là, đang là và sẽ mãi là một ngọn Lửa sống mãi, bùng lên theo chừng mực và tắt đi theo chừng mực.
@@ -392,6 +431,7 @@ heraclitus-manh-van-dk-2.early-greek-philosophy:
   verified: null
 herodotus.historiai:
   work: chua-ro.historiai
+  locator: I.74
   title: Herodotus, *Historiai* I.74 — bản dịch tiếng Anh của G. C. Macaulay (1890)
   original: And this change of the day Thales the Milesian had foretold to the Ionians laying down as a limit this very year in which the change took place.
   translation: Và việc ngày hóa thành đêm ấy, Thales người Miletus đã báo trước cho người Ionia, định hạn đúng vào năm mà sự đổi thay xảy ra.
@@ -404,6 +444,7 @@ herodotus.historiai:
   verified: null
 hume.an-enquiry-concerning-human-understandin:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 8.23 (SBN 95)
   title: Hume, *An Enquiry Concerning Human Understanding*, 1748, mục VIII, đoạn 73
   body: '"But to proceed in this reconciling project with regard to the question of liberty and necessity; the most contentious question of metaphysics, the most contentious science; it will not require many words to prove, that all mankind have ever agreed in the doctrine of liberty as well as in that of necessity, and that the whole dispute, in this respect also, has been hitherto merely verbal. For what is meant by liberty, when applied to voluntary actions? We cannot surely mean that actions have so little connexion with motives, inclinations, and circumstances, that one does not follow with a certain degree of uniformity from the other, and that one affords no inference by which we can conclude the existence of the other. For these are plain and acknowledged matters of fact. By liberty, then, we can only mean *a power of acting or not acting, according to the determinations of the will;* that is, if we choose to remain at rest, we may; if we choose to move, we also may. Now this hypothetical liberty is universally allowed to belong to every one who is not a prisoner and in chains. Here, then, is no subject of dispute."
 
@@ -417,6 +458,7 @@ hume.an-enquiry-concerning-human-understandin:
   verified: null
 hume.an-enquiry-concerning-human-understandin-2:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 4.2 và 4.4
   title: Hume, *An Enquiry concerning Human Understanding* (1748), EHU 4.2 và 4.4 — bản Selby-Bigge (1902)
   body: '"*That the sun will not rise to-morrow* is no less intelligible a proposition, and implies no more contradiction than the affirmation, *that it will rise*. […] All reasonings concerning matter of fact seem to be founded on the relation of *Cause and Effect*. By means of that relation alone we can go beyond the evidence of our memory and senses."
 
@@ -430,6 +472,7 @@ hume.an-enquiry-concerning-human-understandin-2:
   verified: null
 hume.an-enquiry-concerning-human-understandin-3:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 4.21
   title: Hume, *An Enquiry concerning Human Understanding* (1748), EHU 4.21 — bản Selby-Bigge (1902)
   body: '"For all inferences from experience suppose, as their foundation, that the future will resemble the past […]. It is impossible, therefore, that any arguments from experience can prove this resemblance of the past to the future; since all these arguments are founded on the supposition of that resemblance."
 
@@ -443,6 +486,7 @@ hume.an-enquiry-concerning-human-understandin-3:
   verified: null
 hume.an-enquiry-concerning-human-understandin-4:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 5.6
   title: Hume, *An Enquiry concerning Human Understanding* (1748), EHU 5.6 — bản Selby-Bigge (1902)
   body: '"Custom, then, is the great guide of human life. It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past."
 
@@ -456,6 +500,7 @@ hume.an-enquiry-concerning-human-understandin-4:
   verified: null
 hume.an-enquiry-concerning-human-understandin-5:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 7.6 và 7.28
   title: Hume, *An Enquiry concerning Human Understanding* (1748), EHU 7.6 và 7.28 — bản Selby-Bigge (1902)
   body: '"We only find, that the one does actually, in fact, follow the other. The impulse of one billiard-ball is attended with motion in the second. […] This connexion, therefore, which we *feel* in the mind, this customary transition of the imagination from one object to its usual attendant, is the sentiment or impression from which we form the idea of power or necessary connexion."
 
@@ -469,6 +514,7 @@ hume.an-enquiry-concerning-human-understandin-5:
   verified: null
 hume.an-enquiry-concerning-human-understandin-6:
   work: hume.an-enquiry-concerning-human-understanding
+  locator: EHU 5.6
   title: Hume, *An Enquiry concerning Human Understanding* (1748), mục V, phần 1 — nguyên văn tiếng Anh, bản L. A. Selby-Bigge in lại ấn bản 1777
   original: Custom, then, is the great guide of human life. It is that principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past.
   translation: Vậy thì thói quen là người dẫn đường vĩ đại của đời người. Chỉ nhờ nguyên lý ấy mà kinh nghiệm mới có ích cho ta, và khiến ta trông đợi ở tương lai một chuỗi sự kiện giống như những gì đã xuất hiện trong quá khứ.
@@ -481,6 +527,7 @@ hume.an-enquiry-concerning-human-understandin-6:
   verified: null
 immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli:
   work: chua-ro.uber-ein-vermeintes-recht-aus-menschenliebe-zu-lug
+  locator: Ak 8:426, dòng 14–24
   title: Immanuel Kant, *Über ein vermeintes Recht aus Menschenliebe zu lügen* (1797) — bản dịch tiếng Anh của T. K. Abbott (lần in thứ 4, 1889)
   body: '"Truth in utterances that cannot be avoided is the formal duty of a man to everyone, however great the disadvantage that may arise from it to him or any other; and although by making a false statement I do no wrong to him who unjustly compels me to speak, yet I do wrong to men in general in the most essential point of duty, so that it may be called a lie (though not in the jurist''s sense), that is, so far as in me lies I cause that declarations in general find no credit, and hence that all rights founded on contract should lose their force; and this is a wrong which is done to mankind."
 
@@ -494,6 +541,7 @@ immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli:
   verified: null
 j-s-mill.on-liberty:
   work: mill.on-liberty
+  locator: chương I
   title: J. S. Mill, *On Liberty* (1859), chương 1
   body: '"the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others."
 
@@ -507,6 +555,7 @@ j-s-mill.on-liberty:
   verified: null
 jeremy-bentham.an-introduction-to-the-principles-of-mor:
   work: bentham.an-introduction-to-the-principles-of-morals-and-le
+  locator: chương XVII, §1, đoạn IV, chú thích
   title: Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation*, chương 17, 1789
   body: '"The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"
 
@@ -519,7 +568,8 @@ jeremy-bentham.an-introduction-to-the-principles-of-mor:
   evidence: []
   verified: null
 john-locke.khao-luan-ve-hieu-biet-cua-con-nguoi:
-  work: null
+  work: locke.an-essay-concerning-human-understanding
+  locator: II.i.2
   title: John Locke, *Khảo luận về hiểu biết của con người* (1689), quyển II, chương 1, §2 — nguyên văn tiếng Anh
   original: Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas:—How comes it to be furnished? […] Whence has it all the MATERIALS of reason and knowledge? To this I answer, in one word, from EXPERIENCE.
   translation: 'Vậy hãy giả sử tâm trí, như ta vẫn nói, là một tờ giấy trắng, không có chữ nào, không có ý niệm nào: làm sao nó được lấp đầy? […] Nó lấy đâu ra mọi VẬT LIỆU của lý trí và tri thức? Tôi xin trả lời bằng một chữ: từ KINH NGHIỆM.'
@@ -532,6 +582,7 @@ john-locke.khao-luan-ve-hieu-biet-cua-con-nguoi:
   verified: null
 john-locke.two-treatises-of-government:
   work: locke.two-treatises-of-government
+  locator: khảo luận thứ hai, chương V, §27
   title: John Locke, *Two Treatises of Government* (1689), §27
   body: '"every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his."
 
@@ -545,6 +596,7 @@ john-locke.two-treatises-of-government:
   verified: null
 john-stuart-mill.utilitarianism:
   work: mill.utilitarianism
+  locator: chương II
   title: John Stuart Mill, *Utilitarianism*, chương 2, 1863
   body: '"Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure."
 
@@ -558,6 +610,7 @@ john-stuart-mill.utilitarianism:
   verified: null
 john-stuart-mill.utilitarianism-2:
   work: mill.utilitarianism
+  locator: chương II
   title: John Stuart Mill, *Utilitarianism* (1863), chương 2 — theo lần in thứ 7 (1879), Project Gutenberg
   body: '"Yet that even this rule, sacred as it is, admits of possible exceptions, is acknowledged by all moralists; the chief of which is when the withholding of some fact (as of information from a malefactor, or of bad news from a person dangerously ill) would preserve some one (especially a person other than oneself) from great and unmerited evil, and when the withholding can only be effected by denial."
 
@@ -571,6 +624,7 @@ john-stuart-mill.utilitarianism-2:
   verified: null
 kant.beantwortung-der-frage-was-ist-aufklarun:
   work: chua-ro.beantwortung-der-frage-was-ist-aufklarung
+  locator: Ak 8:35, từ dòng 1
   title: 'Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:35 — nguyên văn tiếng Đức'
   body: '"Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. Sapere aude! Habe Muth dich deines *eigenen* Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung."
 
@@ -584,6 +638,7 @@ kant.beantwortung-der-frage-was-ist-aufklarun:
   verified: null
 kant.beantwortung-der-frage-was-ist-aufklarun-2:
   work: chua-ro.beantwortung-der-frage-was-ist-aufklarung
+  locator: Ak 8:35, dòng 9–16
   title: 'Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:35 — nguyên văn tiếng Đức'
   body: '"Faulheit und Feigheit sind die Ursachen, warum ein so großer Theil der Menschen […] dennoch gerne Zeitlebens unmündig bleiben; und warum es Anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt der für mich die Diät beurtheilt, u. s. w. so brauche ich mich ja nicht selbst zu bemühen."
 
@@ -597,6 +652,7 @@ kant.beantwortung-der-frage-was-ist-aufklarun-2:
   verified: null
 kant.beantwortung-der-frage-was-ist-aufklarun-3:
   work: chua-ro.beantwortung-der-frage-was-ist-aufklarung
+  locator: Ak 8:36–37
   title: 'Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:36–37 — nguyên văn tiếng Đức'
   body: '"Zu dieser Aufklärung aber wird nichts erfordert als Freiheit; und zwar die unschädlichste unter allem, was nur Freiheit heißen mag, nämlich die: von seiner Vernunft in allen Stükken öffentlichen Gebrauch zu machen. […] Ich verstehe aber unter dem öffentlichen Gebrauche seiner eigenen Vernunft denjenigen, den jemand als Gelehrter von ihr vor dem ganzen Publikum der Leserwelt macht. Den Privatgebrauch nenne ich denjenigen, den er in einem gewissen ihm anvertrauten bürgerlichen Posten, oder Amte, von seiner Vernunft machen darf."
 
@@ -610,6 +666,7 @@ kant.beantwortung-der-frage-was-ist-aufklarun-3:
   verified: null
 kant.beantwortung-der-frage-was-ist-aufklarun-4:
   work: chua-ro.beantwortung-der-frage-was-ist-aufklarung
+  locator: Ak 8:36 và 8:37
   title: 'Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), Ak 8:36 và 8:37 — nguyên văn tiếng Đức'
   body: '"Durch eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism und gewinnsüchtiger oder herrschsüchtiger Bedrükkung, aber niemals wahre Reform der Denkungsart zu Stande kommen […]. (Nur ein einziger Herr in der Welt sagt: räsonnirt, so viel ihr wollt, und worüber ihr wollt; aber gehorcht!)"
 
@@ -623,6 +680,7 @@ kant.beantwortung-der-frage-was-ist-aufklarun-4:
   verified: null
 kant.grundlegung-zur-metaphysik-der-sitten:
   work: kant.grundlegung-zur-metaphysik-der-sitten
+  locator: Ak 4:429, dòng 10–12
   title: Kant, *Grundlegung zur Metaphysik der Sitten* (1785), mục II, Akademie-Ausgabe 4:429 — nguyên văn tiếng Đức
   original: Handle so, daß du die Menschheit sowohl in deiner Person, als in der Person eines jeden andern jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.
   translation: Hãy hành động sao cho bạn luôn đối xử với nhân tính, nơi chính bạn cũng như nơi bất kỳ ai khác, đồng thời như một mục đích, không bao giờ chỉ như một phương tiện.
@@ -635,6 +693,7 @@ kant.grundlegung-zur-metaphysik-der-sitten:
   verified: null
 khong-tu.luan-ngu:
   work: khong-tu.luan-ngu
+  locator: '15.24'
   title: Khổng Tử, *Luận ngữ* 15.24 (thiên Vệ Linh Công) — nguyên văn chữ Hán và phiên âm Hán Việt
   original: '子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」 — Tử Cống vấn viết: “Hữu nhất ngôn nhi khả dĩ chung thân hành chi giả hồ?” Tử viết: “Kỳ thứ hồ! Kỷ sở bất dục, vật thi ư nhân.”'
   translation: 'Tử Cống hỏi: “Có một chữ nào có thể theo mà làm suốt đời không?” Thầy đáp: “Có lẽ là chữ thứ chăng! Điều mình không muốn, đừng làm cho người.”'
@@ -646,7 +705,8 @@ khong-tu.luan-ngu:
   evidence: []
   verified: null
 kierkegaard-but-danh-joh.fear-and-trembling:
-  work: chua-ro.fear-and-trembling
+  work: kierkegaard.frygt-og-bven
+  locator: phần “Preliminary Expectoration”
   title: Kierkegaard (bút danh Johannes de Silentio), *Fear and Trembling* (1843), phần “Preliminary Expectoration”, đoạn tả “hiệp sĩ đức tin” — bản dịch tiếng Anh của L. M. Hollander (1923)
   original: He attends to his business, and when one sees him one might think he was a clerk who had lost his soul in doing double bookkeeping, he is so exact.
   translation: Ông lo việc làm ăn của mình, và ai thấy ông cũng có thể tưởng đó là một anh thư ký đã đánh mất linh hồn vào sổ sách kế toán kép, vì ông chỉn chu đến thế.
@@ -658,7 +718,8 @@ kierkegaard-but-danh-joh.fear-and-trembling:
   evidence: []
   verified: null
 lao-tu.trich:
-  work: null
+  work: lao-tu.lao-tu
+  locator: chương 64
   title: '*Đạo đức kinh*, chương 64 — nguyên văn chữ Hán theo bản lưu hành (ctext.org) và phiên âm Hán Việt'
   original: 合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。 — Hợp bão chi mộc, sinh ư hào mạt; cửu tằng chi đài, khởi ư lũy thổ; thiên lý chi hành, thủy ư túc hạ.
   translation: Cây to một vòng tay ôm mọc lên từ mầm nhỏ như sợi lông; đài cao chín tầng dựng lên từ từng sọt đất; đường xa nghìn dặm bắt đầu từ chỗ đặt chân.
@@ -670,7 +731,8 @@ lao-tu.trich:
   evidence: []
   verified: null
 leibniz.don-tu-luan:
-  work: null
+  work: leibniz.la-monadologie
+  locator: §32
   title: Leibniz, *Đơn tử luận* (viết năm 1714), §32 — bản dịch tiếng Anh của Robert Latta (1898)
   original: And that of sufficient reason, in virtue of which we hold that there can be no fact real or existing, no statement true, unless there be a sufficient reason, why it should be so and not otherwise, although these reasons usually cannot be known by us.
   translation: Và [nguyên lý] lý do đầy đủ, nhờ nó ta cho rằng không thể có sự kiện nào là thật hay hiện hữu, không có mệnh đề nào đúng, nếu không có một lý do đầy đủ vì sao nó như thế mà không khác đi, dù phần lớn những lý do ấy ta không thể biết.
@@ -683,6 +745,7 @@ leibniz.don-tu-luan:
   verified: null
 locke.an-essay-concerning-human-understanding:
   work: locke.an-essay-concerning-human-understanding
+  locator: II.xxvii.9
   title: Locke, *An Essay Concerning Human Understanding*, II.xxvii, 1689/1694
   body: '"For, since consciousness always accompanies thinking, and it is that which makes every one to be what he calls self... in this alone consists personal identity, i.e. the sameness of a rational being: and as far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person."
 
@@ -696,6 +759,7 @@ locke.an-essay-concerning-human-understanding:
   verified: null
 ludwig-wittgenstein.tractatus-logico-philosophicus:
   work: wittgenstein.tractatus-logico-philosophicus
+  locator: '6.54'
   title: Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (1921), mệnh đề 6.54 — bản dịch tiếng Anh của C. K. Ogden (1922)
   original: 'My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)'
   translation: 'Các mệnh đề của tôi làm sáng tỏ theo cách này: ai hiểu tôi thì rốt cuộc sẽ nhận ra chúng vô nghĩa, khi đã trèo ra khỏi chúng — nhờ chúng, trên chúng, vượt qua chúng. (Có thể nói, người ấy phải vứt cái thang đi sau khi đã trèo lên.)'
@@ -708,6 +772,7 @@ ludwig-wittgenstein.tractatus-logico-philosophicus:
   verified: null
 mac-tu.trich:
   work: mac-tu.mac-tu
+  locator: thiên 15 Kiêm ái trung
   title: '*Mặc Tử*, thiên 15 “Kiêm ái trung” (兼愛中) — nguyên văn chữ Hán và phiên âm Hán Việt'
   original: 視人之國若視其國，視人之家若視其家，視人之身若視其身。 — Thị nhân chi quốc nhược thị kỳ quốc, thị nhân chi gia nhược thị kỳ gia, thị nhân chi thân nhược thị kỳ thân.
   translation: Coi nước của người như nước của mình, coi nhà của người như nhà của mình, coi thân của người như thân của mình.
@@ -719,7 +784,8 @@ mac-tu.trich:
   evidence: []
   verified: null
 maimonides.chi-dan-cho-nguoi-hoang-mang:
-  work: null
+  work: maimonides.dalalat-al-hairin
+  locator: phần I, chương 60
   title: Maimonides, *Chỉ dẫn cho người hoang mang*, phần I, chương 60 — bản dịch tiếng Anh của M. Friedländer (1904)
   original: In the same manner you will come nearer to the knowledge and comprehension of God by the negative attributes. But you must be careful, in what you negative, to negative by proof, not by mere words, for each time you ascertain by proof that a certain thing, believed to exist in the Creator, must be negatived, you have undoubtedly come one step nearer to the knowledge of God.
   translation: 'Cũng vậy, bạn sẽ đến gần hơn sự hiểu biết và lĩnh hội về Thượng đế nhờ những thuộc tính phủ định. Nhưng phải cẩn thận: điều gì bạn phủ định thì phủ định bằng chứng minh, không chỉ bằng lời; vì mỗi lần bạn xác lập được bằng chứng minh rằng một điều người ta tưởng có nơi Đấng Tạo hóa phải bị phủ định, chắc chắn bạn đã tiến thêm một bước tới sự hiểu biết về Thượng đế.'
@@ -732,6 +798,7 @@ maimonides.chi-dan-cho-nguoi-hoang-mang:
   verified: null
 manh-tu.manh-tu:
   work: manh-tu.manh-tu
+  locator: 3B2
   title: Mạnh Tử, *Mạnh Tử* 3B2 (thiên Đằng Văn công hạ), lời đáp Cảnh Xuân về các thuyết khách — nguyên văn chữ Hán và phiên âm Hán Việt
   original: 得志與民由之，不得志獨行其道。富貴不能淫，貧賤不能移，威武不能屈。此之謂大丈夫。 — Đắc chí dữ dân do chi, bất đắc chí độc hành kỳ đạo. Phú quý bất năng dâm, bần tiện bất năng di, uy vũ bất năng khuất. Thử chi vị đại trượng phu.
   translation: Đắc chí thì cùng dân đi theo đạo, không đắc chí thì một mình giữ đạo của mình. Giàu sang không làm cho hư hỏng, nghèo hèn không làm cho đổi lòng, uy vũ không khuất phục được. Như thế mới gọi là bậc đại trượng phu.
@@ -744,6 +811,7 @@ manh-tu.manh-tu:
   verified: null
 marcus-aurelius.suy-tuong:
   work: marcus-aurelius.suy-tuong
+  locator: II.1
   title: Marcus Aurelius, *Suy tưởng* II.1 — bản dịch tiếng Anh của George Long (1862)
   original: Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.
   translation: 'Hãy bắt đầu buổi sáng bằng việc tự nhủ: hôm nay ta sẽ gặp kẻ tọc mạch, kẻ vô ơn, kẻ ngạo mạn, kẻ dối trá, kẻ đố kỵ, kẻ khó gần. Tất cả những điều ấy xảy đến với họ vì họ không biết đâu là thiện, đâu là ác.'
@@ -755,7 +823,8 @@ marcus-aurelius.suy-tuong:
   evidence: []
   verified: null
 marx.trich:
-  work: null
+  work: marx.thesen-uber-feuerbach
+  locator: luận cương 11
   title: Karl Marx, “Thesen über Feuerbach” (viết mùa xuân 1845), luận cương 11 — nguyên văn tiếng Đức theo bản Engels in năm 1888
   original: Die Philosophen haben die Welt nur verschieden interpretirt; es kommt aber darauf an, sie zu verändern.
   translation: Các triết gia mới chỉ giải thích thế giới theo những cách khác nhau; nhưng điều cốt yếu là thay đổi nó.
@@ -768,6 +837,7 @@ marx.trich:
   verified: null
 mill.on-liberty:
   work: mill.on-liberty
+  locator: chương II, đoạn 1
   title: Mill, *On Liberty* (1859), chương II, đoạn 1 — nguyên văn, bản Project Gutenberg
   body: '"If all mankind minus one, were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind. […] But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; posterity as well as the existing generation; those who dissent from the opinion, still more than those who hold it. If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth, produced by its collision with error."
 
@@ -781,6 +851,7 @@ mill.on-liberty:
   verified: null
 mill.on-liberty-2:
   work: mill.on-liberty
+  locator: chương II, đoạn 2, 3 và 6
   title: Mill, *On Liberty* (1859), chương II, đoạn 2, 3 và 6 — nguyên văn, bản Project Gutenberg
   body: '"We can never be sure that the opinion we are endeavouring to stifle is a false opinion; and if we were sure, stifling it would be an evil still. […] All silencing of discussion is an assumption of infallibility. […] There is the greatest difference between presuming an opinion to be true, because, with every opportunity for contesting it, it has not been refuted, and assuming its truth for the purpose of not permitting its refutation."
 
@@ -794,6 +865,7 @@ mill.on-liberty-2:
   verified: null
 mill.on-liberty-3:
   work: mill.on-liberty
+  locator: chương II, đoạn 21 và 23
   title: Mill, *On Liberty* (1859), chương II, đoạn 21 và 23 — nguyên văn, bản Project Gutenberg
   body: '"[…] however true it may be, if it is not fully, frequently, and fearlessly discussed, it will be held as a dead dogma, not a living truth. […] He who knows only his own side of the case, knows little of that."
 
@@ -807,6 +879,7 @@ mill.on-liberty-3:
   verified: null
 mill.on-liberty-4:
   work: mill.on-liberty
+  locator: chương II, đoạn 34
   title: Mill, *On Liberty* (1859), chương II, đoạn 34 — nguyên văn, bản Project Gutenberg
   body: '"But there is a commoner case than either of these; when the conflicting doctrines, instead of being one true and the other false, share the truth between them; and the nonconforming opinion is needed to supply the remainder of the truth, of which the received doctrine embodies only a part. Popular opinions, on subjects not palpable to sense, are often true, but seldom or never the whole truth."
 
@@ -820,6 +893,7 @@ mill.on-liberty-4:
   verified: null
 mill.on-liberty-5:
   work: mill.on-liberty
+  locator: chương I, đoạn 9
   title: Mill, *On Liberty* (1859), chương I — nguyên văn tiếng Anh
   original: That principle is, that the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection. That the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.
   translation: 'Nguyên tắc ấy là: mục đích duy nhất cho phép loài người, từng cá nhân hay tập thể, can thiệp vào tự do hành động của bất kỳ ai trong số họ, là tự vệ. Rằng mục đích duy nhất để quyền lực được thực thi chính đáng đối với bất kỳ thành viên nào của một cộng đồng văn minh, trái với ý muốn của người đó, là ngăn người đó gây hại cho người khác.'
@@ -831,7 +905,8 @@ mill.on-liberty-5:
   evidence: []
   verified: null
 nagarjuna.trung-luan:
-  work: null
+  work: nagarjuna.mulamadhyamakakarika
+  locator: '24.14'
   title: Nagarjuna, *Trung luận* 24.14 — bản Hán dịch của Cưu-ma-la-thập (đầu thế kỷ 5), nguyên văn chữ Hán và phiên âm Hán Việt
   original: 以有空義故，一切法得成；若無空義者，一切則不成。 (Dĩ hữu không nghĩa cố, nhất thiết pháp đắc thành; nhược vô không nghĩa giả, nhất thiết tắc bất thành.)
   translation: Vì có nghĩa lý của tính không, nên mọi pháp mới thành được; nếu không có nghĩa lý của tính không, thì chẳng gì thành được cả.
@@ -844,6 +919,8 @@ nagarjuna.trung-luan:
   verified: null
 nguyen-trai-loi-tau-khi.dai-viet-su-ky-toan-thu:
   work: null
+  work_note: lời tâu chép trong Đại Việt sử ký toàn thư; tác phẩm chưa có bản ghi (đợt 7)
+  locator: Bản kỷ quyển 11
   title: Nguyễn Trãi, lời tâu khi dâng bản vẽ khánh đá (1437), chép trong *Đại Việt sử ký toàn thư*, Bản kỷ quyển 11 — nguyên văn chữ Hán và phiên âm Hán Việt
   original: 和平為樂之本，聲音為樂之文。……願陛下愛養元元，使閭里無怨恨愁嘆之聲，斯為不失樂之本矣。 (Hòa bình vi nhạc chi bản, thanh âm vi nhạc chi văn. … Nguyện bệ hạ ái dưỡng nguyên nguyên, sử lư lý vô oán hận sầu thán chi thanh, tư vi bất thất nhạc chi bản hĩ.)
   translation: Hòa bình là gốc của nhạc, âm thanh chỉ là phần văn vẻ của nhạc. … Mong bệ hạ thương yêu nuôi dưỡng muôn dân, khiến nơi xóm làng không còn tiếng oán hận sầu than; như thế mới là không đánh mất cái gốc của nhạc.
@@ -856,6 +933,7 @@ nguyen-trai-loi-tau-khi.dai-viet-su-ky-toan-thu:
   verified: null
 nguyen-trai.binh-ngo-dai-cao:
   work: nguyen-trai.binh-ngo-dai-cao
+  locator: đoạn mở đầu
   title: Nguyễn Trãi, *Bình Ngô đại cáo*, 1428 (câu dịch thường gặp)
   body: '"Việc nhân nghĩa cốt ở yên dân,
 
@@ -870,7 +948,8 @@ nguyen-trai.binh-ngo-dai-cao:
   evidence: []
   verified: null
 platon.bien-ho-cua-socrates:
-  work: null
+  work: chua-ro.apologia
+  locator: 38a
   title: Platon, *Biện hộ của Socrates* 38a — bản dịch tiếng Anh của Benjamin Jowett
   original: …daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living…
   translation: …mỗi ngày bàn luận về đức hạnh và về những điều khác mà các vị nghe tôi xem xét chính mình và người khác, là điều tốt đẹp nhất cho con người, và cuộc đời không được xem xét thì không đáng sống…
@@ -882,7 +961,8 @@ platon.bien-ho-cua-socrates:
   evidence: []
   verified: null
 platon.cong-hoa:
-  work: chua-ro.cong-hoa
+  work: platon.politeia
+  locator: VI, 488e–489a
   title: Platon, *Cộng hòa*, Quyển VI (bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng)
   body: '"Will he not be called by them a prater, a star-gazer, a good-for-nothing?"
 
@@ -896,7 +976,8 @@ platon.cong-hoa:
   evidence: []
   verified: null
 platon.cong-hoa-2:
-  work: chua-ro.cong-hoa
+  work: platon.politeia
+  locator: X, 596a
   title: Platon, *Cộng hòa* X, 596a — bản dịch tiếng Anh của Benjamin Jowett
   original: Whenever a number of individuals have a common name, we assume them to have also a corresponding idea or form.
   translation: Hễ nhiều cá thể có chung một tên gọi, ta giả định rằng chúng cũng có một ý niệm hay mô thức tương ứng.
@@ -909,6 +990,7 @@ platon.cong-hoa-2:
   verified: null
 platon.phaedo:
   work: platon.phaedo
+  locator: 100c–d
   title: Platon, *Phaedo*, 100c–d (bản tiếng Anh của Benjamin Jowett)
   body: '"I cannot help thinking, if there be anything beautiful other than absolute beauty should there be such, that it can be beautiful only in as far as it partakes of absolute beauty—and I should say the same of everything. [...] nothing makes a thing beautiful but the presence and participation of beauty in whatever way or manner obtained; for as to the manner I am uncertain, but I stoutly contend that by beauty all beautiful things become beautiful."
 
@@ -921,7 +1003,8 @@ platon.phaedo:
   evidence: []
   verified: null
 rene-descartes.luan-ve-phuong-phap:
-  work: chua-ro.luan-ve-phuong-phap
+  work: descartes.discours-de-la-methode
+  locator: phần IV
   title: René Descartes, *Luận về phương pháp* (1637), phần IV — bản dịch tiếng Anh của John Veitch
   original: But immediately upon this I observed that, whilst I thus wished to think that all was false, it was absolutely necessary that I, who thus thought, should be somewhat; and as I observed that this truth, I think, therefore I am (COGITO ERGO SUM), was so certain and of such evidence that no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it […]
   translation: Nhưng ngay sau đó tôi nhận ra rằng, trong khi tôi muốn nghĩ như thế rằng mọi thứ đều sai, thì chính tôi, kẻ đang nghĩ như thế, nhất thiết phải là một cái gì đó; và thấy rằng chân lý này, tôi tư duy, vậy tôi tồn tại, chắc chắn và hiển nhiên đến mức mọi lý do nghi ngờ của những người hoài nghi, dù ngông cuồng đến đâu, cũng không lay chuyển được […]
@@ -934,6 +1017,7 @@ rene-descartes.luan-ve-phuong-phap:
   verified: null
 rousseau.du-contrat-social:
   work: rousseau.du-contrat-social
+  locator: quyển I, chương 1
   title: Rousseau, *Du contrat social* (1762), quyển I, chương 1 — bản dịch tiếng Anh của G. D. H. Cole (1913)
   original: Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they.
   translation: Con người sinh ra tự do, mà đâu đâu cũng mang xiềng xích. Kẻ tưởng mình là chủ của người khác thì vẫn là nô lệ hơn cả họ.
@@ -946,6 +1030,7 @@ rousseau.du-contrat-social:
   verified: null
 russell.the-problems-of-philosophy:
   work: russell.the-problems-of-philosophy
+  locator: chương XV, đoạn 3
   title: Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 3 — nguyên văn, bản in 1912
   body: '"The ‘practical’ man, as this word is often used, is one who recognises only material needs, who realises that men must have food for the body, but is oblivious of the necessity of providing food for the mind. If all men were well off, if poverty and disease had been reduced to their lowest possible point, there would still remain much to be done to produce a valuable society; and even in the existing world the goods of the mind are at least as important as the goods of the body."
 
@@ -959,6 +1044,7 @@ russell.the-problems-of-philosophy:
   verified: null
 russell.the-problems-of-philosophy-2:
   work: russell.the-problems-of-philosophy
+  locator: chương XV, đoạn 4
   title: Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 4 — nguyên văn, bản in 1912
   body: '"It is true that this is partly accounted for by the fact that, as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science."
 
@@ -972,6 +1058,7 @@ russell.the-problems-of-philosophy-2:
   verified: null
 russell.the-problems-of-philosophy-3:
   work: russell.the-problems-of-philosophy
+  locator: chương XV, đoạn 7
   title: Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 7 — nguyên văn, bản in 1912
   body: '"The value of philosophy is, in fact, to be sought largely in its very uncertainty. The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense, from the habitual beliefs of his age or his nation, and from convictions which have grown up in his mind without the co-operation or consent of his deliberate reason. […] Thus, while diminishing our feeling of certainty as to what things are, it greatly increases our knowledge as to what they may be; it removes the somewhat arrogant dogmatism of those who have never travelled into the region of liberating doubt, and it keeps alive our sense of wonder by showing familiar things in an unfamiliar aspect."
 
@@ -985,6 +1072,7 @@ russell.the-problems-of-philosophy-3:
   verified: null
 russell.the-problems-of-philosophy-4:
   work: russell.the-problems-of-philosophy
+  locator: chương XV, đoạn 9 và 12
   title: Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 9 và 12 — nguyên văn, bản in 1912
   body: '"[…] In contemplation, on the contrary, we start from the not-Self, and through its greatness the boundaries of Self are enlarged […]. The impartiality which, in contemplation, is the unalloyed desire for truth, is the very same quality of mind which, in action, is justice, and in emotion is that universal love which can be given to all, and not only to those who are judged useful or admirable."
 
@@ -998,6 +1086,7 @@ russell.the-problems-of-philosophy-4:
   verified: null
 sartre.l-existentialisme-est-un-humanisme:
   work: sartre.l-existentialisme-est-un-humanisme
+  locator: phần “bị bỏ rơi”
   title: Sartre, *L'existentialisme est un humanisme* (bài nói 1945, in 1946), phần “bị bỏ rơi” — nguyên văn tiếng Pháp (trích ngắn)
   body: '« l''homme est condamné à être libre. Condamné, parce qu''il ne s''est pas créé lui-même, et par ailleurs cependant libre, parce qu''une fois jeté dans le monde, il est responsable de tout ce qu''il fait. »
 
@@ -1011,6 +1100,7 @@ sartre.l-existentialisme-est-un-humanisme:
   verified: null
 simone-de-beauvoir.le-deuxieme-sexe:
   work: beauvoir.le-deuxieme-sexe
+  locator: tập II, phần một, chương 1, câu mở đầu
   title: 'Simone de Beauvoir, *Le Deuxième Sexe*, tập II (Paris: Gallimard, 1949), phần một, chương 1 “Enfance”, câu mở đầu — trích một câu; tác phẩm còn bản quyền'
   original: 'On ne naît pas femme : on le devient.'
   translation: 'Người ta không sinh ra là đàn bà: người ta trở thành đàn bà.'
@@ -1022,7 +1112,8 @@ simone-de-beauvoir.le-deuxieme-sexe:
   evidence: []
   verified: null
 spinoza.dao-duc-hoc:
-  work: null
+  work: spinoza.ethica-ordine-geometrico-demonstrata
+  locator: phần I, phụ lục
   title: Spinoza, *Đạo đức học* (1677), phần I, phụ lục — bản dịch tiếng Anh của R. H. M. Elwes (1883–1884)
   original: Herefrom it follows, first, that men think themselves free inasmuch as they are conscious of their volitions and desires, and never even dream, in their ignorance, of the causes which have disposed them so to wish and desire.
   translation: Từ đó suy ra, trước hết, rằng con người tưởng mình tự do vì họ ý thức được những ý muốn và ham muốn của mình, còn trong sự thiếu hiểu biết, họ chẳng bao giờ mơ tới những nguyên nhân đã khiến họ muốn và ham muốn như thế.
@@ -1034,7 +1125,8 @@ spinoza.dao-duc-hoc:
   evidence: []
   verified: null
 thomas-aquinas.tong-luan-than-hoc:
-  work: null
+  work: aquinas.summa-theologiae
+  locator: I, q. 1, a. 8, ad 2
   title: Thomas Aquinas, *Tổng luận Thần học* I, câu 1, mục 8, trả lời phản bác 2 — bản dịch tiếng Anh của Fathers of the English Dominican Province (1920)
   original: Since therefore grace does not destroy nature but perfects it, natural reason should minister to faith as the natural bent of the will ministers to charity.
   translation: Vậy, vì ân sủng không phá hủy tự nhiên mà hoàn thiện nó, lý trí tự nhiên phải phục vụ đức tin, như khuynh hướng tự nhiên của ý chí phục vụ đức ái.
@@ -1047,6 +1139,7 @@ thomas-aquinas.tong-luan-than-hoc:
   verified: null
 thomas-hobbes.leviathan:
   work: hobbes.leviathan
+  locator: chương 13
   title: Thomas Hobbes, *Leviathan*, chương 13, 1651
   body: '"In such condition, there is no place for Industry; because the fruit thereof is uncertain; and consequently no Culture of the Earth; no Navigation, nor use of the commodities that may be imported by Sea; no commodious Building; no Instruments of moving, and removing such things as require much force; no Knowledge of the face of the Earth; no account of Time; no Arts; no Letters; no Society; and which is worst of all, continuall feare, and danger of violent death; And the life of man, solitary, poore, nasty, brutish, and short."
 
@@ -1060,6 +1153,7 @@ thomas-hobbes.leviathan:
   verified: null
 thomas-hobbes.leviathan-2:
   work: hobbes.leviathan
+  locator: chương 13
   title: Thomas Hobbes, *Leviathan* (1651), chương 13 — nguyên văn tiếng Anh, chính tả theo bản in đầu tiên
   original: 'For as the nature of Foule weather, lyeth not in a showre or two of rain; but in an inclination thereto of many dayes together: So the nature of War, consisteth not in actuall fighting; but in the known disposition thereto, during all the time there is no assurance to the contrary. All other time is PEACE.'
   translation: Cũng như bản chất của thời tiết xấu không nằm ở một hai cơn mưa rào mà ở xu hướng mưa kéo dài nhiều ngày, bản chất của chiến tranh không nằm ở việc đánh nhau thật, mà ở thái độ sẵn sàng đánh nhau mà ai cũng biết, suốt thời gian không có gì bảo đảm điều ngược lại. Mọi thời gian khác là HÒA BÌNH.
@@ -1072,6 +1166,7 @@ thomas-hobbes.leviathan-2:
   verified: null
 tran-nhan-tong.cu-tran-lac-dao-phu:
   work: tran-nhan-tong.cu-tran-lac-dao-phu
+  locator: hội thứ năm; bài kệ kết
   title: Trần Nhân Tông, *Cư trần lạc đạo phú*, hội 5 (chữ Nôm) và bài kệ kết (chữ Hán) — nguyên văn, phiên âm, diễn nghĩa của Logos
   body: '丕買処：孛於宮茹，庄沛寻賒。因虧本年些寻孛，典谷処㐱孛羅些。
 
@@ -1094,6 +1189,7 @@ tran-nhan-tong.cu-tran-lac-dao-phu:
   verified: null
 tran-nhan-tong.cu-tran-lac-dao-phu-2:
   work: tran-nhan-tong.cu-tran-lac-dao-phu
+  locator: hội thứ năm
   title: Trần Nhân Tông, *Cư trần lạc đạo phú*, hội thứ năm — chữ Nôm và phiên âm quốc ngữ theo Wikisource tiếng Việt
   original: 孛於宮茹 / 庄沛寻賒 / 因虧本年些寻孛 / 典谷処㐱孛羅些 — Bụt ở cong nhà, chẳng phải tìm xa. Nhân khuây bản nên ta tìm bụt; đến cốc hay chỉn bụt là ta.
   translation: Phật ở ngay trong nhà, chẳng phải tìm đâu xa. Vì quên mất gốc của mình nên ta mới đi tìm Phật; đến khi hiểu ra mới biết Phật chính là ta.
@@ -1106,6 +1202,7 @@ tran-nhan-tong.cu-tran-lac-dao-phu-2:
   verified: null
 trang-tu.trang-tu:
   work: trang-tu.trang-tu
+  locator: thiên 4 Nhân gian thế, đoạn kết
   title: Trang Tử, *Trang Tử*, thiên 4 “Nhân gian thế” (人間世), đoạn kết — nguyên văn chữ Hán và phiên âm Hán Việt
   original: 山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無用之用也。 — Sơn mộc tự khấu dã, cao hỏa tự tiễn dã. Quế khả thực, cố phạt chi; tất khả dụng, cố cát chi. Nhân giai tri hữu dụng chi dụng, nhi mạc tri vô dụng chi dụng dã.
   translation: Cây trên núi tự chuốc lấy búa rìu, mỡ đèn tự đốt cạn mình. Quế ăn được nên bị chặt, sơn dùng được nên bị rạch. Người đời ai cũng biết cái dụng của cái hữu dụng, mà chẳng ai biết cái dụng của cái vô dụng.
@@ -1117,8 +1214,9 @@ trang-tu.trang-tu:
   evidence: []
   verified: null
 trich.bien-ho-21d:
-  work: null
-  title: Biện hộ, 21d — bản dịch Benjamin Jowett
+  work: chua-ro.apologia
+  locator: 21d
+  title: '*Biện hộ*, 21d — bản dịch Benjamin Jowett'
   body: '"Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know."
 
 
@@ -1130,8 +1228,9 @@ trich.bien-ho-21d:
   evidence: []
   verified: null
 trich.bien-ho-29ab:
-  work: null
-  title: Biện hộ, 29a–b — bản dịch Benjamin Jowett
+  work: chua-ro.apologia
+  locator: 29a–b
+  title: '*Biện hộ*, 29a–b — bản dịch Benjamin Jowett'
   body: '"For the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown; […] but I do know that injustice and disobedience to a better, whether God or man, is evil and dishonourable"
 
 
@@ -1143,8 +1242,9 @@ trich.bien-ho-29ab:
   evidence: []
   verified: null
 trich.bien-ho-38a:
-  work: null
-  title: Biện hộ, 38a — bản dịch Benjamin Jowett
+  work: chua-ro.apologia
+  locator: 38a
+  title: '*Biện hộ*, 38a — bản dịch Benjamin Jowett'
   body: '"...daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living..."
 
 
@@ -1156,8 +1256,9 @@ trich.bien-ho-38a:
   evidence: []
   verified: null
 trich.bien-ho-40c:
-  work: null
-  title: Biện hộ, 40c — bản dịch Benjamin Jowett
+  work: chua-ro.apologia
+  locator: 40c
+  title: '*Biện hộ*, 40c — bản dịch Benjamin Jowett'
   body: '"Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
 
 
@@ -1169,8 +1270,9 @@ trich.bien-ho-40c:
   evidence: []
   verified: null
 trich.binh-ngo-dai-cao-cau-mo-dau-theo-toan-thu:
-  work: null
-  title: Bình Ngô đại cáo, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos
+  work: nguyen-trai.binh-ngo-dai-cao
+  locator: Toàn thư, Bản kỷ thực lục quyển 10; câu mở đầu
+  title: '*Bình Ngô đại cáo*, câu mở đầu (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '仁義之舉，要在安民，吊伐之師，莫先去暴。
 
 
@@ -1185,8 +1287,9 @@ trich.binh-ngo-dai-cao-cau-mo-dau-theo-toan-thu:
   evidence: []
   verified: null
 trich.binh-ngo-dai-cao-theo-toan-thu:
-  work: null
-  title: Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos
+  work: nguyen-trai.binh-ngo-dai-cao
+  locator: Toàn thư, Bản kỷ thực lục quyển 10; đoạn Đại Việt văn hiến
+  title: '*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '惟我大越之國，實為文獻之邦。山川之封域既殊，南北之風俗亦異。自趙、丁、李、陳之肇造我國，與漢、唐、宋、元而各帝一方。
 
 
@@ -1201,8 +1304,9 @@ trich.binh-ngo-dai-cao-theo-toan-thu:
   evidence: []
   verified: null
 trich.binh-ngo-dai-cao-theo-toan-thu-2:
-  work: null
-  title: Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos
+  work: nguyen-trai.binh-ngo-dai-cao
+  locator: Toàn thư, Bản kỷ thực lục quyển 10; đoạn tội ác giặc Minh
+  title: '*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '決東海之水，不足以濯其污。罄南山之竹，不足以書其惡。神人之所共憤，天地之所不容。
 
 
@@ -1217,8 +1321,9 @@ trich.binh-ngo-dai-cao-theo-toan-thu-2:
   evidence: []
   verified: null
 trich.binh-ngo-dai-cao-theo-toan-thu-3:
-  work: null
-  title: Bình Ngô đại cáo (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos
+  work: nguyen-trai.binh-ngo-dai-cao
+  locator: Toàn thư, Bản kỷ thực lục quyển 10; ba câu cách xa nhau
+  title: '*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '卒能以大義而勝凶殘，以至仁而易強暴。……神武不殺，予亦體上帝好生之心。……乾坤既否而復泰，日月既晦而復明。
 
 
@@ -1233,8 +1338,9 @@ trich.binh-ngo-dai-cao-theo-toan-thu-3:
   evidence: []
   verified: null
 trich.cam-nang-1:
-  work: null
-  title: Cẩm nang §1 — bản dịch George Long (1877)
+  work: epictetus.cam-nang
+  locator: §1
+  title: '*Cẩm nang* §1 — bản dịch George Long (1877)'
   body: '"Of things some are in our power, and others are not. […] Not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts."
 
 
@@ -1246,8 +1352,9 @@ trich.cam-nang-1:
   evidence: []
   verified: null
 trich.cam-nang-3:
-  work: null
-  title: Cẩm nang §3 — bản dịch George Long (1877)
+  work: epictetus.cam-nang
+  locator: §3
+  title: '*Cẩm nang* §3 — bản dịch George Long (1877)'
   body: '"If you love an earthen vessel, say it is an earthen vessel which you love; for when it has been broken you will not be disturbed. If you are kissing your child or wife, say that it is a human being whom you are kissing, for when the wife or child dies you will not be disturbed."
 
 
@@ -1259,8 +1366,9 @@ trich.cam-nang-3:
   evidence: []
   verified: null
 trich.cam-nang-48:
-  work: null
-  title: Cẩm nang §48 — bản dịch George Long (1877)
+  work: epictetus.cam-nang
+  locator: §48
+  title: '*Cẩm nang* §48 — bản dịch George Long (1877)'
   body: '"The signs (marks) of one who is making progress are these: he censures no man, he praises no man, he blames no man, he accuses no man, he says nothing about himself as if he were somebody or knew something"
 
 
@@ -1272,8 +1380,9 @@ trich.cam-nang-48:
   evidence: []
   verified: null
 trich.cam-nang-5:
-  work: null
-  title: Cẩm nang §5 — bản dịch George Long (1877)
+  work: epictetus.cam-nang
+  locator: §5
+  title: '*Cẩm nang* §5 — bản dịch George Long (1877)'
   body: '"Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing."
 
 
@@ -1285,8 +1394,9 @@ trich.cam-nang-5:
   evidence: []
   verified: null
 trich.cam-nang-8:
-  work: null
-  title: Cẩm nang §8 — bản dịch George Long (1877)
+  work: epictetus.cam-nang
+  locator: §8
+  title: '*Cẩm nang* §8 — bản dịch George Long (1877)'
   body: '"Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life."
 
 
@@ -1298,8 +1408,9 @@ trich.cam-nang-8:
   evidence: []
   verified: null
 trich.cong-hoa-515a-va-515c:
-  work: null
-  title: Cộng hòa, 515a và 515c — bản dịch Benjamin Jowett
+  work: platon.politeia
+  locator: VII, 515a và 515c
+  title: '*Cộng hòa*, 515a và 515c — bản dịch Benjamin Jowett'
   body: '"Like ourselves, I replied; and they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave?"
 
 
@@ -1317,8 +1428,9 @@ trich.cong-hoa-515a-va-515c:
   evidence: []
   verified: null
 trich.cong-hoa-516b:
-  work: null
-  title: Cộng hòa, 516b — bản dịch Benjamin Jowett
+  work: platon.politeia
+  locator: VII, 516b
+  title: '*Cộng hòa*, 516b — bản dịch Benjamin Jowett'
   body: '"Last of all he will be able to see the sun, and not mere reflections of him in the water, but he will see him in his own proper place, and not in another; and he will contemplate him as he is."
 
 
@@ -1330,8 +1442,9 @@ trich.cong-hoa-516b:
   evidence: []
   verified: null
 trich.cong-hoa-517a:
-  work: null
-  title: Cộng hòa, 517a — bản dịch Benjamin Jowett
+  work: platon.politeia
+  locator: VII, 517a
+  title: '*Cộng hòa*, 517a — bản dịch Benjamin Jowett'
   body: '"Men would say of him that up he went and down he came without his eyes; and that it was better not even to think of ascending; and if any one tried to loose another and lead him up to the light, let them only catch the offender, and they would put him to death."
 
 
@@ -1343,8 +1456,9 @@ trich.cong-hoa-517a:
   evidence: []
   verified: null
 trich.cong-hoa-518bc-va-520c:
-  work: null
-  title: Cộng hòa, 518b–c và 520c — bản dịch Benjamin Jowett
+  work: platon.politeia
+  locator: VII, 518b–c và 520c
+  title: '*Cộng hòa*, 518b–c và 520c — bản dịch Benjamin Jowett'
   body: '"...certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before, like sight into blind eyes."
 
 
@@ -1362,8 +1476,9 @@ trich.cong-hoa-518bc-va-520c:
   evidence: []
   verified: null
 trich.dao-duc-kinh-chuong-1:
-  work: null
-  title: Đạo đức kinh, chương 1 — nguyên văn, phiên âm, bản dịch của Logos
+  work: lao-tu.lao-tu
+  locator: chương 1
+  title: '*Đạo đức kinh*, chương 1 — nguyên văn, phiên âm, bản dịch của Logos'
   body: '道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。
 
 
@@ -1378,8 +1493,9 @@ trich.dao-duc-kinh-chuong-1:
   evidence: []
   verified: null
 trich.dao-duc-kinh-chuong-11:
-  work: null
-  title: Đạo đức kinh, chương 11 — nguyên văn, phiên âm, bản dịch của Logos
+  work: lao-tu.lao-tu
+  locator: chương 11
+  title: '*Đạo đức kinh*, chương 11 — nguyên văn, phiên âm, bản dịch của Logos'
   body: '三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。
 
 
@@ -1394,8 +1510,9 @@ trich.dao-duc-kinh-chuong-11:
   evidence: []
   verified: null
 trich.dao-duc-kinh-chuong-2:
-  work: null
-  title: Đạo đức kinh, chương 2 — nguyên văn, phiên âm, bản dịch của Logos
+  work: lao-tu.lao-tu
+  locator: chương 2
+  title: '*Đạo đức kinh*, chương 2 — nguyên văn, phiên âm, bản dịch của Logos'
   body: '天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，……是以聖人處無為之事，行不言之教。
 
 
@@ -1410,8 +1527,9 @@ trich.dao-duc-kinh-chuong-2:
   evidence: []
   verified: null
 trich.dao-duc-kinh-chuong-44:
-  work: null
-  title: Đạo đức kinh, chương 44 — nguyên văn, phiên âm, bản dịch của Logos
+  work: lao-tu.lao-tu
+  locator: chương 44
+  title: '*Đạo đức kinh*, chương 44 — nguyên văn, phiên âm, bản dịch của Logos'
   body: '名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。
 
 
@@ -1426,8 +1544,9 @@ trich.dao-duc-kinh-chuong-44:
   evidence: []
   verified: null
 trich.dao-duc-kinh-chuong-8-va-78:
-  work: null
-  title: Đạo đức kinh, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos
+  work: lao-tu.lao-tu
+  locator: chương 8 và 78
+  title: '*Đạo đức kinh*, chương 8 và 78 — nguyên văn, phiên âm, bản dịch của Logos'
   body: '上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。……夫唯不爭，故無尤。（第八章）
 
 
@@ -1448,8 +1567,9 @@ trich.dao-duc-kinh-chuong-8-va-78:
   evidence: []
   verified: null
 trich.dao-duc-nicomachus-i-2-1094a1822:
-  work: null
-  title: Đạo đức Nicomachus I.2, 1094a18–22 — bản dịch W. D. Ross (1925)
+  work: aristotle.ethica-nicomachea
+  locator: I.2, 1094a18–22
+  title: '*Đạo đức Nicomachus* I.2, 1094a18–22 — bản dịch W. D. Ross (1925)'
   body: '"If, then, there is some end of the things we do, which we desire for its own sake (everything else being desired for the sake of this), and if we do not choose everything for the sake of something else (for at that rate the process would go on to infinity, so that our desire would be empty and vain), clearly this must be the good and the chief good."
 
 
@@ -1461,8 +1581,9 @@ trich.dao-duc-nicomachus-i-2-1094a1822:
   evidence: []
   verified: null
 trich.dao-duc-nicomachus-i-7-1098a1620:
-  work: null
-  title: Đạo đức Nicomachus I.7, 1098a16–20 — bản dịch W. D. Ross (1925)
+  work: aristotle.ethica-nicomachea
+  locator: I.7, 1098a16–20
+  title: '*Đạo đức Nicomachus* I.7, 1098a16–20 — bản dịch W. D. Ross (1925)'
   body: '"human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add ''in a complete life.'' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy."
 
 
@@ -1474,8 +1595,9 @@ trich.dao-duc-nicomachus-i-7-1098a1620:
   evidence: []
   verified: null
 trich.dao-duc-nicomachus-ii-4-1105a3034:
-  work: null
-  title: Đạo đức Nicomachus II.4, 1105a30–34 — bản dịch W. D. Ross (1925)
+  work: aristotle.ethica-nicomachea
+  locator: II.4, 1105a30–34
+  title: '*Đạo đức Nicomachus* II.4, 1105a30–34 — bản dịch W. D. Ross (1925)'
   body: '"in the first place he must have knowledge, secondly he must choose the acts, and choose them for their own sakes, and thirdly his action must proceed from a firm and unchangeable character."
 
 
@@ -1487,8 +1609,9 @@ trich.dao-duc-nicomachus-ii-4-1105a3034:
   evidence: []
   verified: null
 trich.dao-duc-nicomachus-ii-6-1106b361107a2:
-  work: null
-  title: Đạo đức Nicomachus II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)
+  work: aristotle.ethica-nicomachea
+  locator: II.6, 1106b36–1107a2
+  title: '*Đạo đức Nicomachus* II.6, 1106b36–1107a2 — bản dịch W. D. Ross (1925)'
   body: '"Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it."
 
 
@@ -1501,6 +1624,8 @@ trich.dao-duc-nicomachus-ii-6-1106b361107a2:
   verified: null
 trich.david-hume-of-the-standard-of-taste-1757:
   work: null
+  work_note: tiểu luận; tác phẩm chưa có bản ghi (đợt 7)
+  locator: đoạn 7 (bản Miller, tr. 226–7)
   title: David Hume, 'Of the Standard of Taste', 1757
   body: '"Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty."
 
@@ -1514,6 +1639,7 @@ trich.david-hume-of-the-standard-of-taste-1757:
   verified: null
 trich.luan-ngu-thien-bat-dat-3-4:
   work: khong-tu.luan-ngu
+  locator: '3.4'
   title: '*Luận ngữ*, thiên Bát dật, 3.4 — nguyên văn theo ctext.org'
   body: '林放問禮之本。子曰：「大哉問！禮，與其奢也，寧儉；喪，與其易也，寧戚。」
 
@@ -1530,6 +1656,7 @@ trich.luan-ngu-thien-bat-dat-3-4:
   verified: null
 trich.luan-ngu-thien-hoc-nhi-1-1:
   work: khong-tu.luan-ngu
+  locator: '1.1'
   title: '*Luận ngữ*, thiên Học nhi, 1.1 — nguyên văn theo ctext.org'
   body: '子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」
 
@@ -1546,6 +1673,7 @@ trich.luan-ngu-thien-hoc-nhi-1-1:
   verified: null
 trich.luan-ngu-thien-ly-nhan-4-16-va-thien-ve-linh-cong-15-21:
   work: khong-tu.luan-ngu
+  locator: 4.16 và 15.21
   title: '*Luận ngữ*, thiên Lý nhân, 4.16 và thiên Vệ Linh Công, 15.21 — nguyên văn theo ctext.org'
   body: '子曰：「君子喻於義，小人喻於利。」……子曰：「君子求諸己，小人求諸人。」
 
@@ -1562,6 +1690,7 @@ trich.luan-ngu-thien-ly-nhan-4-16-va-thien-ve-linh-cong-15-21:
   verified: null
 trich.luan-ngu-thien-ung-da-6-11:
   work: khong-tu.luan-ngu
+  locator: '6.11'
   title: '*Luận ngữ*, thiên Ung dã, 6.11 — nguyên văn theo ctext.org'
   body: '子曰：「賢哉回也！一簞食，一瓢飲，在陋巷。人不堪其憂，回也不改其樂。賢哉回也！」
 
@@ -1578,6 +1707,7 @@ trich.luan-ngu-thien-ung-da-6-11:
   verified: null
 trich.luan-ngu-thien-ve-linh-cong-15-24:
   work: khong-tu.luan-ngu
+  locator: '15.24'
   title: '*Luận ngữ*, thiên Vệ Linh Công, 15.24 — nguyên văn theo ctext.org'
   body: '子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」
 
@@ -1594,6 +1724,7 @@ trich.luan-ngu-thien-ve-linh-cong-15-24:
   verified: null
 trich.luan-ngu-thien-vi-chinh-2-17:
   work: khong-tu.luan-ngu
+  locator: '2.17'
   title: '*Luận ngữ*, thiên Vi chính, 2.17 — nguyên văn theo ctext.org'
   body: '子曰：「由！誨女知之乎？知之為知之，不知為不知，是知也。」
 
@@ -1609,8 +1740,9 @@ trich.luan-ngu-thien-vi-chinh-2-17:
   evidence: []
   verified: null
 trich.mac-tu-thien-14-kiem-ai-thuong:
-  work: null
-  title: Mặc Tử, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos
+  work: mac-tu.mac-tu
+  locator: thiên 14 Kiêm ái thượng
+  title: '*Mặc Tử*, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos'
   body: '盜愛其室不愛其異室，故竊異室以利其室；賊愛其身不愛人，故賊人以利其身。……諸侯各愛其國，不愛異國，故攻異國以利其國。……察此何自起？皆起不相愛。……視人之室若其室，誰竊？……視人國若其國，誰攻？
 
 
@@ -1625,8 +1757,9 @@ trich.mac-tu-thien-14-kiem-ai-thuong:
   evidence: []
   verified: null
 trich.mac-tu-thien-16-kiem-ai-ha:
-  work: null
-  title: Mặc Tử, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos
+  work: mac-tu.mac-tu
+  locator: thiên 16 Kiêm ái hạ
+  title: '*Mặc Tử*, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos'
   body: '今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也；……不識將惡也家室，奉承親戚，提挈妻子，而寄託之？……我以為當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。
 
 
@@ -1641,8 +1774,9 @@ trich.mac-tu-thien-16-kiem-ai-ha:
   evidence: []
   verified: null
 trich.mac-tu-thien-17-phi-cong-thuong:
-  work: null
-  title: Mặc Tử, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos
+  work: mac-tu.mac-tu
+  locator: thiên 17 Phi công thượng
+  title: '*Mặc Tử*, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos'
   body: '殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。當此，天下之君子皆知而非之，謂之不義。今至大為不義攻國，則弗知非，從而譽之，謂之義。
 
 
@@ -1657,8 +1791,9 @@ trich.mac-tu-thien-17-phi-cong-thuong:
   evidence: []
   verified: null
 trich.mac-tu-thien-26-thien-chi-thuong:
-  work: null
-  title: Mặc Tử, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos
+  work: mac-tu.mac-tu
+  locator: thiên 26 Thiên chí thượng
+  title: '*Mặc Tử*, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos'
   body: '順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。……我有天志，譬若輪人之有規，匠人之有矩。
 
 
@@ -1674,6 +1809,8 @@ trich.mac-tu-thien-26-thien-chi-thuong:
   verified: null
 trich.man-giac-cao-tat-thi-chung-co-benh-bao-moi-nguoi:
   work: null
+  work_note: bài kệ lẻ trong Thiền uyển tập anh; tác phẩm chưa có bản ghi (đợt 7)
+  locator: trọn bài (sáu câu)
   title: Mãn Giác, “Cáo tật thị chúng” (Có bệnh, bảo mọi người) — nguyên văn, phiên âm, bản dịch của Logos
   body: "春去百花落，  \n春到百花開。  \n事逐眼前過，  \n老從頭上來。  \n莫謂春殘花落盡，  \n庭前昨夜一枝梅。\n\n*Xuân khứ bách hoa lạc,*  \n*Xuân đáo bách hoa khai.*  \n*Sự trục nhãn tiền quá,*  \n*Lão tòng đầu thượng lai.*  \n*Mạc vị xuân tàn hoa lạc tận,*  \n*Đình tiền tạc dạ nhất chi mai.*\n\nXuân đi, trăm hoa rụng; xuân đến, trăm hoa nở. Việc đời trôi qua trước mắt; tuổi già hiện trên mái đầu. Chớ bảo xuân tàn thì hoa rụng hết: đêm qua trước sân, một cành mai. *(bản dịch của Logos)*"
   translator: logos
@@ -1683,8 +1820,9 @@ trich.man-giac-cao-tat-thi-chung-co-benh-bao-moi-nguoi:
   evidence: []
   verified: null
 trich.manh-tu-2a2-thien-cong-ton-suu-thuong:
-  work: null
-  title: Mạnh Tử 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos
+  work: manh-tu.manh-tu
+  locator: 2A2
+  title: '*Mạnh Tử* 2A2 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '宋人有閔其苗之不長而揠之者，芒芒然歸，謂其人曰：「今日病矣，予助苗長矣。」其子趨而往視之，苗則槁矣。……以為無益而舍之者，不耘苗者也；助之長者，揠苗者也。非徒無益，而又害之。
 
 
@@ -1699,8 +1837,9 @@ trich.manh-tu-2a2-thien-cong-ton-suu-thuong:
   evidence: []
   verified: null
 trich.manh-tu-2a6-thien-cong-ton-suu-thuong:
-  work: null
-  title: Mạnh Tử 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos
+  work: manh-tu.manh-tu
+  locator: 2A6
+  title: '*Mạnh Tử* 2A6 (thiên Công Tôn Sửu thượng) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '今人乍見孺子將入於井，皆有怵惕惻隱之心。非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。……惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。人之有是四端也，猶其有四體也。
 
 
@@ -1715,8 +1854,9 @@ trich.manh-tu-2a6-thien-cong-ton-suu-thuong:
   evidence: []
   verified: null
 trich.manh-tu-6a2-thien-cao-tu-thuong:
-  work: null
-  title: Mạnh Tử 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos
+  work: manh-tu.manh-tu
+  locator: 6A2
+  title: '*Mạnh Tử* 6A2 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '水信無分於東西。無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。今夫水，搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。
 
 
@@ -1731,8 +1871,9 @@ trich.manh-tu-6a2-thien-cao-tu-thuong:
   evidence: []
   verified: null
 trich.manh-tu-6a8-thien-cao-tu-thuong:
-  work: null
-  title: Mạnh Tử 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos
+  work: manh-tu.manh-tu
+  locator: 6A8
+  title: '*Mạnh Tử* 6A8 (thiên Cáo Tử thượng) — nguyên văn, phiên âm, bản dịch của Logos'
   body: '牛山之木嘗美矣，以其郊於大國也，斧斤伐之，可以為美乎？……牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？
 
 
@@ -1747,8 +1888,9 @@ trich.manh-tu-6a8-thien-cao-tu-thuong:
   evidence: []
   verified: null
 trich.suy-niem-i-12-at-7-22:
-  work: null
-  title: Suy niệm I, §12 (AT 7:22) — bản dịch John Veitch (1853)
+  work: descartes.meditationes-de-prima-philosophia
+  locator: AT VII 22
+  title: '*Suy niệm* I, §12 (AT 7:22) — bản dịch John Veitch (1853)'
   body: '"I will suppose, then, not that Deity, who is sovereignly good and the fountain of truth, but that some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me"
 
 
@@ -1760,8 +1902,9 @@ trich.suy-niem-i-12-at-7-22:
   evidence: []
   verified: null
 trich.suy-niem-i-3-at-7-18:
-  work: null
-  title: Suy niệm I, §3 (AT 7:18) — bản dịch John Veitch (1853)
+  work: descartes.meditationes-de-prima-philosophia
+  locator: AT VII 18
+  title: '*Suy niệm* I, §3 (AT 7:18) — bản dịch John Veitch (1853)'
   body: '"All that I have, up to this moment, accepted as possessed of the highest truth and certainty, I received either from or through the senses. I observed, however, that these sometimes misled us; and it is the part of prudence not to place absolute confidence in that by which we have even once been deceived."
 
 
@@ -1773,8 +1916,9 @@ trich.suy-niem-i-3-at-7-18:
   evidence: []
   verified: null
 trich.suy-niem-i-5-va-8-at-7-1920:
-  work: null
-  title: Suy niệm I, §5 và §8 (AT 7:19–20) — bản dịch John Veitch (1853)
+  work: descartes.meditationes-de-prima-philosophia
+  locator: AT VII 19–20
+  title: '*Suy niệm* I, §5 và §8 (AT 7:19–20) — bản dịch John Veitch (1853)'
   body: '"I perceive so clearly that there exist no certain marks by which the state of waking can ever be distinguished from sleep, that I feel greatly astonished; and in amazement I almost persuade myself that I am now dreaming."
 
 
@@ -1792,8 +1936,9 @@ trich.suy-niem-i-5-va-8-at-7-1920:
   evidence: []
   verified: null
 trich.suy-niem-ii-11-va-16-at-7-30-34:
-  work: null
-  title: Suy niệm II, §11 và §16 (AT 7:30, 34) — bản dịch John Veitch (1853)
+  work: descartes.meditationes-de-prima-philosophia
+  locator: AT VII 30, 34
+  title: '*Suy niệm* II, §11 và §16 (AT 7:30, 34) — bản dịch John Veitch (1853)'
   body: '"It must be admitted that it does remain; no one doubts it, or judges otherwise."
 
 
@@ -1811,8 +1956,9 @@ trich.suy-niem-ii-11-va-16-at-7-30-34:
   evidence: []
   verified: null
 trich.suy-niem-ii-3-at-7-25:
-  work: null
-  title: Suy niệm II, §3 (AT 7:25) — bản dịch John Veitch (1853)
+  work: descartes.meditationes-de-prima-philosophia
+  locator: AT VII 25
+  title: '*Suy niệm* II, §3 (AT 7:25) — bản dịch John Veitch (1853)'
   body: '"Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may, he can never bring it about that I am nothing, so long as I shall be conscious that I am something. So that it must, in fine, be maintained, all things being maturely and carefully considered, that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind."
 
 
@@ -1824,8 +1970,9 @@ trich.suy-niem-ii-3-at-7-25:
   evidence: []
   verified: null
 trich.suy-tuong-ii-1:
-  work: null
-  title: Suy tưởng II.1 — bản dịch George Long (1862)
+  work: marcus-aurelius.suy-tuong
+  locator: II.1
+  title: '*Suy tưởng* II.1 — bản dịch George Long (1862)'
   body: '"Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil."
 
 
@@ -1843,8 +1990,9 @@ trich.suy-tuong-ii-1:
   evidence: []
   verified: null
 trich.suy-tuong-ii-11-va-iv-48:
-  work: null
-  title: Suy tưởng II.11 và IV.48 — bản dịch George Long (1862)
+  work: marcus-aurelius.suy-tuong
+  locator: II.11 và IV.48
+  title: '*Suy tưởng* II.11 và IV.48 — bản dịch George Long (1862)'
   body: '"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly."
 
 
@@ -1862,8 +2010,9 @@ trich.suy-tuong-ii-11-va-iv-48:
   evidence: []
   verified: null
 trich.suy-tuong-ix-30:
-  work: null
-  title: Suy tưởng IX.30 — bản dịch George Long (1862)
+  work: marcus-aurelius.suy-tuong
+  locator: IX.30
+  title: '*Suy tưởng* IX.30 — bản dịch George Long (1862)'
   body: '"Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die."
 
 
@@ -1875,8 +2024,9 @@ trich.suy-tuong-ix-30:
   evidence: []
   verified: null
 trich.suy-tuong-viii-47:
-  work: null
-  title: Suy tưởng VIII.47 — bản dịch George Long (1862)
+  work: marcus-aurelius.suy-tuong
+  locator: VIII.47
+  title: '*Suy tưởng* VIII.47 — bản dịch George Long (1862)'
   body: '"If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now."
 
 
@@ -1894,8 +2044,9 @@ trich.suy-tuong-viii-47:
   evidence: []
   verified: null
 trich.suy-tuong-x-28:
-  work: null
-  title: Suy tưởng X.28 — bản dịch George Long (1862)
+  work: marcus-aurelius.suy-tuong
+  locator: X.28
+  title: '*Suy tưởng* X.28 — bản dịch George Long (1862)'
   body: '"Imagine every man who is grieved at anything or discontented to be like a pig which is sacrificed and kicks and screams."
 
 
@@ -1914,6 +2065,8 @@ trich.suy-tuong-x-28:
   verified: null
 trich.tam-kinh-t251:
   work: null
+  work_note: kinh Phật (T251, Huyền Trang dịch); tác phẩm chưa có bản ghi (đợt 7)
+  locator: T251, đoạn “Xá Lợi Tử! Sắc bất dị không”
   title: Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos
   body: '舍利子！色不異空，空不異色，色即是空，空即是色；受、想、行、識，亦復如是。
 
@@ -1930,6 +2083,8 @@ trich.tam-kinh-t251:
   verified: null
 trich.tam-kinh-t251-2:
   work: null
+  work_note: kinh Phật (T251, Huyền Trang dịch); tác phẩm chưa có bản ghi (đợt 7)
+  locator: T251, đoạn “Thị chư pháp không tướng”
   title: Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos
   body: '是諸法空相，不生不滅，不垢不淨，不增不減。是故，空中無色，……無無明亦無無明盡，乃至無老死亦無老死盡；無苦、集、滅、道；無智，亦無得。
 
@@ -1946,6 +2101,8 @@ trich.tam-kinh-t251-2:
   verified: null
 trich.tam-kinh-t251-cau-mo-dau:
   work: null
+  work_note: kinh Phật (T251, Huyền Trang dịch); tác phẩm chưa có bản ghi (đợt 7)
+  locator: T251, câu mở đầu
   title: Tâm kinh (T251), câu mở đầu — nguyên văn, phiên âm, bản dịch của Logos
   body: '觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。
 
@@ -1962,6 +2119,8 @@ trich.tam-kinh-t251-cau-mo-dau:
   verified: null
 trich.tam-kinh-t251-doan-ket:
   work: null
+  work_note: kinh Phật (T251, Huyền Trang dịch); tác phẩm chưa có bản ghi (đợt 7)
+  locator: T251, đoạn kết
   title: Tâm kinh (T251), đoạn kết — nguyên văn, phiên âm, bản dịch của Logos
   body: '故知般若波羅蜜多是大神咒、是大明咒、是無上咒、是無等等咒，能除一切苦，真實不虛。……揭帝　揭帝　般羅揭帝　般羅僧揭帝　菩提　僧莎訶
 
@@ -1977,7 +2136,8 @@ trich.tam-kinh-t251-doan-ket:
   evidence: []
   verified: null
 trich.tran-nhan-tong-ke-cu-tran-lac-dao-ban-dich-nghia-cua-logos:
-  work: null
+  work: tran-nhan-tong.cu-tran-lac-dao-phu
+  locator: bài kệ kết
   title: Trần Nhân Tông, kệ 'Cư trần lạc đạo' (bản dịch nghĩa của Logos)
   body: '"Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên;
 
@@ -1997,6 +2157,8 @@ trich.tran-nhan-tong-ke-cu-tran-lac-dao-ban-dich-nghia-cua-logos:
   verified: null
 trich.tran-nhan-tong-xuan-hieu-sang-xuan:
   work: null
+  work_note: bài thơ lẻ; tác phẩm chưa có bản ghi (đợt 7)
+  locator: trọn bài (bốn câu)
   title: Trần Nhân Tông, “Xuân hiểu” (Sáng xuân) — nguyên văn, phiên âm, bản dịch của Logos
   body: "睡起啟窗扉，  \n不知春已歸。  \n一雙白蝴蝶，  \n拍拍趁花飛。\n\n*Thụy khởi khải song phi,*  \n*Bất tri xuân dĩ quy.*  \n*Nhất song bạch hồ điệp,*  \n*Phách phách sấn hoa phi.*\n\nNgủ dậy, mở cánh cửa sổ, chẳng biết xuân đã về. Một đôi bướm trắng phấp phới đuổi theo hoa mà bay. *(bản dịch của Logos)*"
   translator: logos
@@ -2006,8 +2168,9 @@ trich.tran-nhan-tong-xuan-hieu-sang-xuan:
   evidence: []
   verified: null
 trich.trang-tu-te-vat-luan:
-  work: null
-  title: Trang Tử, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos
+  work: trang-tu.trang-tu
+  locator: Tề vật luận, ctext mục 12
+  title: '*Trang Tử*, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos'
   body: '方其夢也，不知其夢也。夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。……丘也，與女皆夢也；予謂女夢，亦夢也。
 
 
@@ -2022,8 +2185,9 @@ trich.trang-tu-te-vat-luan:
   evidence: []
   verified: null
 trich.trang-tu-te-vat-luan-cau-ket:
-  work: null
-  title: Trang Tử, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos
+  work: trang-tu.trang-tu
+  locator: Tề vật luận, câu cuối (ctext mục 14)
+  title: '*Trang Tử*, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos'
   body: '周與胡蝶，則必有分矣。此之謂物化。
 
 
@@ -2038,8 +2202,9 @@ trich.trang-tu-te-vat-luan-cau-ket:
   evidence: []
   verified: null
 trich.trang-tu-te-vat-luan-doan-ket:
-  work: null
-  title: Trang Tử, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos
+  work: trang-tu.trang-tu
+  locator: Tề vật luận, đoạn kết (ctext mục 14)
+  title: '*Trang Tử*, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos'
   body: '昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與，胡蝶之夢為周與？
 
 
@@ -2055,6 +2220,8 @@ trich.trang-tu-te-vat-luan-doan-ket:
   verified: null
 trich.tuyen-ngon-quoc-te-nhan-quyen-1948-dieu-13:
   work: null
+  work_note: văn kiện LHQ, không phải tác phẩm
+  locator: Điều 13, khoản 1
   title: Tuyên ngôn Quốc tế Nhân quyền (1948), Điều 13
   body: '"Everyone has the right to freedom of movement and residence within the borders of each State."
 
@@ -2068,6 +2235,8 @@ trich.tuyen-ngon-quoc-te-nhan-quyen-1948-dieu-13:
   verified: null
 trich.van-hanh-thi-de-tu-bao-de-tu:
   work: null
+  work_note: bài kệ lẻ trong Thiền uyển tập anh; tác phẩm chưa có bản ghi (đợt 7)
+  locator: trọn bài (bốn câu)
   title: Vạn Hạnh, “Thị đệ tử” (Bảo đệ tử) — nguyên văn, phiên âm, bản dịch của Logos
   body: "身如電影有還無，  \n萬木春榮秋又枯。  \n任運盛衰無怖畏，  \n盛衰如露草頭鋪。\n\n*Thân như điện ảnh hữu hoàn vô,*  \n*Vạn mộc xuân vinh thu hựu khô.*  \n*Nhậm vận thịnh suy vô bố úy,*  \n*Thịnh suy như lộ thảo đầu phô.*\n\nThân như bóng chớp, có rồi lại không; cây cối xuân tươi tốt, thu lại héo khô. Mặc cho vận đời thịnh suy, đừng sợ hãi: thịnh suy như giọt sương trải đầu ngọn cỏ. *(bản dịch của Logos)*"
   translator: logos
@@ -2078,6 +2247,8 @@ trich.van-hanh-thi-de-tu-bao-de-tu:
   verified: null
 trich.winston-churchill-phat-bieu-tai-ha-vien-anh-11-11-1947:
   work: null
+  work_note: phát biểu tại Hạ viện Anh, không phải tác phẩm
+  locator: HC Deb 11/11/1947, tập 444, cột 206–207
   title: Winston Churchill, phát biểu tại Hạ viện Anh, 11/11/1947
   body: '"Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time."
 
@@ -2091,6 +2262,7 @@ trich.winston-churchill-phat-bieu-tai-ha-vien-anh-11-11-1947:
   verified: null
 tuan-tu.tuan-tu:
   work: tuan-tu.tuan-tu
+  locator: thiên 23 Tính ác
   title: Tuân Tử, *Tuân Tử*, thiên 23 *Tính ác* (性惡), thế kỷ 3 TCN — nguyên văn theo ctext.org
   body: '人之性惡，其善者偽也。今人之性，生而有好利焉，順是，故爭奪生而辭讓亡焉；生而有疾惡焉，順是，故殘賊生而忠信亡焉；生而有耳目之欲，有好聲色焉，順是，故淫亂生而禮義文理亡焉。然則從人之性，順人之情，必出於爭奪，合於犯分亂理，而歸於暴。故必將有師法之化，禮義之道，然後出於辭讓，合於文理，而歸於治。用此觀之，人之性惡明矣，其善者偽也。
 
@@ -2107,6 +2279,7 @@ tuan-tu.tuan-tu:
   verified: null
 tuan-tu.tuan-tu-2:
   work: tuan-tu.tuan-tu
+  locator: thiên 1 Khuyến học, đoạn mở đầu
   title: Tuân Tử, *Tuân Tử*, thiên 1 “Khuyến học” (勸學), đoạn mở đầu — nguyên văn chữ Hán và phiên âm Hán Việt
   original: '君子曰：學不可以已。青、取之於藍，而青於藍；冰、水為之，而寒於水。 — Quân tử viết: Học bất khả dĩ dĩ. Thanh, thủ chi ư lam, nhi thanh ư lam; băng, thủy vi chi, nhi hàn ư thủy.'
   translation: 'Người quân tử nói: việc học không thể dừng. Màu xanh lấy từ cây chàm mà xanh hơn chàm; băng do nước làm thành mà lạnh hơn nước.'
@@ -2119,6 +2292,7 @@ tuan-tu.tuan-tu-2:
   verified: null
 tue-trung-thuong-si.pham-thanh-bat-di:
   work: tue-trung.pham-thanh-bat-di
+  locator: hai câu, dẫn theo Nguyễn Huệ Chi (2014), tr. 188
   title: Tuệ Trung Thượng Sĩ, *Phàm thánh bất dị*, hai câu — phiên âm Hán Việt theo Nguyễn Huệ Chi (2014)
   original: Ngã nhân tự lộ diệc tự sương, / Phàm thánh như lôi diệc như điện.
   translation: 'Ta với người: như hạt móc, cũng như giọt sương; / phàm với thánh: như tiếng sấm, cũng như tia chớp.'

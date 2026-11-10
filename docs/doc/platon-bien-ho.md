@@ -32,7 +32,7 @@ Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Pelo
 
 **Đoạn 1 — Lời sấm ở Delphi (20e–23c).** Chaerephon, bạn của Socrates, đến đền Delphi hỏi có ai khôn ngoan hơn Socrates không. Nữ tư tế đáp: không ai cả (21a). Socrates bối rối: ông tự biết mình chẳng khôn ngoan gì, mà thần thì không thể nói dối (21b). Ông bèn đi tìm một người khôn hơn mình để "bác" lời sấm. Hỏi chuyện một chính trị gia xong, ông tự nhủ:
 
-!!! quote "Biện hộ, 21d — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 21d — bản dịch Benjamin Jowett"
     "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know."
 
     "Ừ thì, tuy tôi không cho rằng ai trong hai chúng tôi biết điều gì thật sự đẹp và tốt, tôi vẫn hơn ông ta: ông ta chẳng biết gì mà tưởng mình biết; còn tôi không biết, và cũng không tưởng mình biết." *(bản dịch của Logos)*
@@ -43,7 +43,7 @@ Thi sĩ và thợ thủ công cũng vậy. Thợ thủ công biết thật nhi�
 
 **Đoạn 2 — Không bỏ vị trí (28b–31a).** Người lính không rời vị trí vì sợ chết; Socrates cũng không bỏ việc thần giao (28d–29a). Rồi ông lật ngược nỗi sợ:
 
-!!! quote "Biện hộ, 29a–b — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 29a–b — bản dịch Benjamin Jowett"
     "For the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown; […] but I do know that injustice and disobedience to a better, whether God or man, is evil and dishonourable"
 
     "Bởi sợ chết thật ra là làm ra vẻ khôn ngoan chứ không phải khôn ngoan thật, là làm ra vẻ biết điều mình không biết; […] nhưng tôi biết rằng làm điều bất chính và bất tuân người tốt hơn mình, dù là thần hay người, là xấu xa và đáng hổ thẹn." *(bản dịch của Logos)*
@@ -54,7 +54,7 @@ Giả sử tòa tha cho ông với điều kiện thôi hỏi han, ông sẽ đ�
 
 **Đoạn 3 — Câu nói nổi tiếng nhất (37e–38a).** Socrates bị tuyên có tội; chỉ cần ba mươi phiếu đổi bên là ông được tha (36a). Ở phần nghị hình phạt, ông tự nêu câu hỏi mà người nghe hẳn đang nghĩ: sao không im lặng, sang thành khác mà sống yên (37e)? Ông đáp:
 
-!!! quote "Biện hộ, 38a — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 38a — bản dịch Benjamin Jowett"
     "...daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living..."
 
     "...mỗi ngày bàn luận về đức hạnh và những điều khác mà các vị vẫn nghe tôi đem chính mình và người khác ra xét hỏi, là điều tốt đẹp nhất cho con người, và một cuộc đời không được xét lại thì không đáng sống..." *(bản dịch của Logos)*
@@ -63,7 +63,7 @@ Nguyên văn Hy Lạp gọn hơn: *ho de anexetastos bios ou biōtos anthrōpōi
 
 **Đoạn 4 — Về cái chết (40c–42a).** Sau khi bị tuyên án tử, Socrates nói với những người đã bỏ phiếu tha mình:
 
-!!! quote "Biện hộ, 40c — bản dịch Benjamin Jowett"
+!!! quote "*Biện hộ*, 40c — bản dịch Benjamin Jowett"
     "Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another."
 
     "Ta hãy nghĩ theo cách khác, sẽ thấy có nhiều lý do để hy vọng cái chết là điều tốt: vì nó chỉ có thể là một trong hai điều, hoặc chết là hư không, hoàn toàn không còn cảm giác, hoặc như người ta nói, đó là một cuộc đổi chỗ, linh hồn dời từ thế giới này sang thế giới khác." *(bản dịch của Logos)*

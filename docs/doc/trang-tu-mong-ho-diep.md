@@ -29,7 +29,7 @@ Tên thiên *Tề vật luận* có thể đọc hai cách: "bàn về sự ngan
 
 Trước đoạn con bướm, nhân vật Trường Ngô Tử nói với Cù Thước Tử về giấc mơ:
 
-!!! quote "Trang Tử, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Trang Tử*, Tề vật luận — nguyên văn, phiên âm, bản dịch của Logos"
     方其夢也，不知其夢也。夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。……丘也，與女皆夢也；予謂女夢，亦夢也。
 
     *Phương kỳ mộng dã, bất tri kỳ mộng dã. Mộng chi trung hựu chiêm kỳ mộng yên, giác nhi hậu tri kỳ mộng dã. Thả hữu đại giác nhi hậu tri thử kỳ đại mộng dã, nhi ngu giả tự dĩ vi giác, thiết thiết nhiên tri chi. … Khâu dã, dữ nhữ giai mộng dã; dư vị nhữ mộng, diệc mộng dã.*
@@ -42,7 +42,7 @@ Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có th�
 
 ### 2. Giấc mơ con bướm
 
-!!! quote "Trang Tử, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Trang Tử*, Tề vật luận, đoạn kết — nguyên văn, phiên âm, bản dịch của Logos"
     昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與，胡蝶之夢為周與？
 
     *Tích giả Trang Chu mộng vi hồ điệp, hủ hủ nhiên hồ điệp dã, tự dụ thích chí dư! Bất tri Chu dã. Nga nhiên giác, tắc cừ cừ nhiên Chu dã. Bất tri Chu chi mộng vi hồ điệp dư, hồ điệp chi mộng vi Chu dư?*
@@ -55,7 +55,7 @@ Có ba tầng. Trong mơ, ta không biết mình mơ. Trong mơ, ta còn có th�
 
 ### 3. "Vật hóa": chữ kết của thiên
 
-!!! quote "Trang Tử, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Trang Tử*, Tề vật luận, câu kết — nguyên văn, phiên âm, bản dịch của Logos"
     周與胡蝶，則必有分矣。此之謂物化。
 
     *Chu dữ hồ điệp, tắc tất hữu phân hĩ. Thử chi vị vật hóa.*

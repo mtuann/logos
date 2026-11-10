@@ -9,7 +9,8 @@ Luật:
   - `khong-khop`: khối trong trang không trùng (tiêu đề, thân) với bản ghi nào trong quotes.yml — chữ trích đã đổi
     mà kho chưa cập nhật (sau đợt 5: đổi một trích dẫn đã kiểm phải đi qua kho, có bằng chứng);
   - `mo-coi`: bản ghi trỏ tới một đơn vị không còn chứa khối đó;
-  - `chua-ghep-tac-pham`: bản ghi chưa có `work` (thông tin cho đợt con 5.2);
+  - `chua-ghep-tac-pham`: bản ghi chưa có `work` và cũng chưa có `work_note` (lý do không ghép: phát biểu, văn kiện,
+    thơ lẻ, tác phẩm chưa có bản ghi; đợt con 5.2);
   - `chua-co-vi-tri`: bản ghi chưa có `locator` (38a, §IV, 2A6…; điền ở đợt 5).
 """
 
@@ -25,7 +26,7 @@ QUOTES = ROOT / "data" / "kb" / "quotes.yml"
 RULES = {
     "khong-khop": "khối trích trong trang không khớp bản ghi nào trong quotes.yml",
     "mo-coi": "bản ghi trỏ tới đơn vị không còn chứa khối trích",
-    "chua-ghep-tac-pham": "bản ghi chưa ghép với tác phẩm trong works.yml",
+    "chua-ghep-tac-pham": "bản ghi chưa ghép với tác phẩm trong works.yml và chưa có lý do (work_note)",
     "chua-co-vi-tri": "bản ghi chưa có vị trí trích (locator)",
 }
 
@@ -49,7 +50,7 @@ def collect():
         where = r["used_in"][0]
         if "body" in r and where not in seen.get(key, set()):
             yield Finding("data/kb/quotes.yml", 0, where, "mo-coi", key, "chạy tools/kb_quotes.py")
-        if not r.get("work"):
+        if not r.get("work") and not r.get("work_note"):
             yield Finding("data/kb/quotes.yml", 0, where, "chua-ghep-tac-pham", key, f"\"{r['title']}\"")
         if not r.get("locator"):
             yield Finding("data/kb/quotes.yml", 0, where, "chua-co-vi-tri", key, f"\"{r['title']}\"")

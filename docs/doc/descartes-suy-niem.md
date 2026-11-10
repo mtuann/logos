@@ -31,7 +31,7 @@ Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*)
 
 **Đoạn 1 — Dỡ nền móng (Suy niệm I, §1–4; AT 7:17–19).** Từ nhỏ ông đã nhận nhiều điều sai làm đúng, nên một lần trong đời phải dỡ hết để xây lại từ móng (§1). Không cần chứng minh từng niềm tin là sai; móng đổ thì cả tòa nhà đổ (§2).
 
-!!! quote "Suy niệm I, §3 (AT 7:18) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* I, §3 (AT 7:18) — bản dịch John Veitch (1853)"
     "All that I have, up to this moment, accepted as possessed of the highest truth and certainty, I received either from or through the senses. I observed, however, that these sometimes misled us; and it is the part of prudence not to place absolute confidence in that by which we have even once been deceived."
 
     "Mọi điều mà cho tới lúc này tôi coi là chân thật và chắc chắn nhất, tôi đều nhận từ giác quan hay qua giác quan. Nhưng tôi nhận thấy giác quan đôi khi đánh lừa ta; và khôn ngoan là đừng tin tuyệt đối vào thứ đã từng lừa ta dù chỉ một lần." *(bản dịch của Logos)*
@@ -42,7 +42,7 @@ Phương pháp của ông là **hoài nghi phương pháp** (*methodical doubt*)
 
 **Đoạn 2 — Giấc mơ (§5–8; AT 7:19–20).** Nhưng ông là người, mà người thì ngủ và mơ. Bao lần ông mơ thấy mình ngồi bên lò sưởi trong khi đang nằm trên giường.
 
-!!! quote "Suy niệm I, §5 và §8 (AT 7:19–20) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* I, §5 và §8 (AT 7:19–20) — bản dịch John Veitch (1853)"
     "I perceive so clearly that there exist no certain marks by which the state of waking can ever be distinguished from sleep, that I feel greatly astonished; and in amazement I almost persuade myself that I am now dreaming."
 
     "for whether I am awake or dreaming, it remains true that two and three make five, and that a square has but four sides"
@@ -57,7 +57,7 @@ Giấc mơ làm lung lay mọi niềm tin về sự vật cụ thể, nhưng ch�
 
 **Đoạn 3 — Ác thần (§9–12; AT 7:21–23).** Để với tới cả toán học, Descartes đẩy xa hơn: nếu một Thượng đế toàn năng tạo ra tôi, biết đâu ngài để tôi sai ngay cả khi cộng hai với ba (§9)? Rồi ông đổi giả thuyết:
 
-!!! quote "Suy niệm I, §12 (AT 7:22) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* I, §12 (AT 7:22) — bản dịch John Veitch (1853)"
     "I will suppose, then, not that Deity, who is sovereignly good and the fountain of truth, but that some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me"
 
     "Vậy tôi sẽ giả định, không phải Thượng đế, đấng chí thiện và là nguồn của chân lý, mà là một ác thần nào đó, vừa cực kỳ quyền năng vừa xảo trá, đã dùng mọi mưu mẹo để lừa tôi" *(bản dịch của Logos)*
@@ -68,7 +68,7 @@ Descartes không tin có con quỷ thật: đây là thí nghiệm tư duy để
 
 **Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27).** Archimedes chỉ đòi một điểm tựa vững để nâng trái đất; Descartes chỉ cần một điều chắc chắn (§1). Và điểm tựa xuất hiện:
 
-!!! quote "Suy niệm II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
     "Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may, he can never bring it about that I am nothing, so long as I shall be conscious that I am something. So that it must, in fine, be maintained, all things being maturely and carefully considered, that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind."
 
     "Vậy chắc chắn tôi hiện hữu, vì tôi bị lừa; và cứ để nó lừa tôi tùy ý, nó cũng không bao giờ làm được cho tôi thành hư không, chừng nào tôi còn ý thức rằng tôi là một cái gì đó. Cho nên, sau khi cân nhắc kỹ mọi điều, phải khẳng định rằng mệnh đề *tôi là, tôi hiện hữu* tất yếu đúng mỗi lần tôi nói ra hay nghĩ đến nó." *(bản dịch của Logos)*
@@ -77,7 +77,7 @@ Chú ý chữ "mỗi lần": điều này chắc chắn chừng nào tôi còn n
 
 **Đoạn 5 — Cục sáp (§11–16; AT 7:30–34).** Một cục sáp mới lấy khỏi tổ ong: còn vị mật, mùi hoa, có màu, hình dạng, cứng, lạnh, gõ thì kêu. Đặt gần lửa: vị bay, mùi tan, màu đổi, nó chảy ra, nóng lên, gõ không kêu nữa. Có còn là cục sáp cũ không?
 
-!!! quote "Suy niệm II, §11 và §16 (AT 7:30, 34) — bản dịch John Veitch (1853)"
+!!! quote "*Suy niệm* II, §11 và §16 (AT 7:30, 34) — bản dịch John Veitch (1853)"
     "It must be admitted that it does remain; no one doubts it, or judges otherwise."
 
     "I readily discover that there is nothing more easily or clearly apprehended than my own mind."

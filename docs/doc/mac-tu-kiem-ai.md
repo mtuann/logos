@@ -27,7 +27,7 @@ Người chống ông gay gắt nhất là [Mạnh Tử](../triet-gia/manh-tu.md
 
 ### 1. Gốc của loạn (Kiêm ái thượng, thiên 14)
 
-!!! quote "Mặc Tử, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 14 Kiêm ái thượng — nguyên văn, phiên âm, bản dịch của Logos"
     盜愛其室不愛其異室，故竊異室以利其室；賊愛其身不愛人，故賊人以利其身。……諸侯各愛其國，不愛異國，故攻異國以利其國。……察此何自起？皆起不相愛。……視人之室若其室，誰竊？……視人國若其國，誰攻？
 
     *Đạo ái kỳ thất bất ái kỳ dị thất, cố thiết dị thất dĩ lợi kỳ thất; tặc ái kỳ thân bất ái nhân, cố tặc nhân dĩ lợi kỳ thân. … Chư hầu các ái kỳ quốc, bất ái dị quốc, cố công dị quốc dĩ lợi kỳ quốc. … Sát thử hà tự khởi? Giai khởi bất tương ái. … Thị nhân chi thất nhược kỳ thất, thùy thiết? … Thị nhân quốc nhược kỳ quốc, thùy công?*
@@ -42,7 +42,7 @@ Mặc Tử làm việc như thầy thuốc: muốn chữa loạn phải biết l
 
 Người phản đối nói: kiêm ái tốt đấy, nhưng dùng được không? Mặc Tử dựng hai người bạn. Người theo **biệt** (別, tách mình khỏi người) thấy bạn đói không cho ăn, rét không cho mặc; người theo **kiêm** lo cho bạn như lo cho mình. Rồi ông hỏi:
 
-!!! quote "Mặc Tử, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 16 Kiêm ái hạ — nguyên văn, phiên âm, bản dịch của Logos"
     今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也；……不識將惡也家室，奉承親戚，提挈妻子，而寄託之？……我以為當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也。
 
     *Kim hữu bình nguyên quảng dã ư thử, bị giáp anh trụ tương vãng chiến, tử sinh chi quyền vị khả thức dã; … bất thức tương ô dã gia thất, phụng thừa thân thích, đề khiết thê tử, nhi ký thác chi? … Ngã dĩ vi đương kỳ ư thử dã, thiên hạ vô ngu phu ngu phụ, tuy phi kiêm chi nhân, tất ký thác chi ư kiêm chi hữu thị dã.*
@@ -55,7 +55,7 @@ Người phản đối nói: kiêm ái tốt đấy, nhưng dùng được khôn
 
 ### 3. Giết một người, đánh một nước (Phi công thượng, thiên 17)
 
-!!! quote "Mặc Tử, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 17 Phi công thượng — nguyên văn, phiên âm, bản dịch của Logos"
     殺一人謂之不義，必有一死罪矣，若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣。當此，天下之君子皆知而非之，謂之不義。今至大為不義攻國，則弗知非，從而譽之，謂之義。
 
     *Sát nhất nhân vị chi bất nghĩa, tất hữu nhất tử tội hĩ. Nhược dĩ thử thuyết vãng, sát thập nhân thập trùng bất nghĩa, tất hữu thập tử tội hĩ; sát bách nhân bách trùng bất nghĩa, tất hữu bách tử tội hĩ. Đương thử, thiên hạ chi quân tử giai tri nhi phi chi, vị chi bất nghĩa. Kim chí đại vi bất nghĩa công quốc, tắc phất tri phi, tòng nhi dự chi, vị chi nghĩa.*
@@ -68,7 +68,7 @@ Lập luận dựa vào sự **nhất quán**: cùng một loại hành vi, hạ
 
 ### 4. Ý trời như cái compa (Thiên chí thượng, thiên 26)
 
-!!! quote "Mặc Tử, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos"
+!!! quote "*Mặc Tử*, thiên 26 Thiên chí thượng — nguyên văn, phiên âm, bản dịch của Logos"
     順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。……我有天志，譬若輪人之有規，匠人之有矩。
 
     *Thuận thiên ý giả, kiêm tương ái, giao tương lợi, tất đắc thưởng. Phản thiên ý giả, biệt tương ố, giao tương tặc, tất đắc phạt. … Ngã hữu thiên chí, thí nhược luân nhân chi hữu quy, tượng nhân chi hữu củ.*

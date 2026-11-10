@@ -29,7 +29,7 @@ Marcus sinh năm 121, được hoàng đế Antoninus Pius nhận làm con nuôi
 
 **Đoạn 1 — Buổi sáng (II.1).** Mở đầu quyển II là một bài tập chuẩn bị tinh thần:
 
-!!! quote "Suy tưởng II.1 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* II.1 — bản dịch George Long (1862)"
     "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil."
 
     "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth."
@@ -44,7 +44,7 @@ Vậy đừng giận kẻ làm sai. Ở VII.26, Marcus khuyên: khi ai làm hạ
 
 **Đoạn 2 — Không phải sự việc, mà là phán đoán (VIII.47).** Khung tư duy chung của Khắc kỷ, mà công thức sắc nhất nằm ở Epictetus, được Marcus viết lại cho chính mình:
 
-!!! quote "Suy tưởng VIII.47 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* VIII.47 — bản dịch George Long (1862)"
     "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now."
 
     "...why dost thou not rather act than complain?"
@@ -59,7 +59,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
 **Đoạn 3 — Nhớ rằng mình sẽ chết (II.11, IV.48).**
 
-!!! quote "Suy tưởng II.11 và IV.48 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* II.11 và IV.48 — bản dịch George Long (1862)"
     "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly."
 
     "Pass then through this little space of time conformably to nature, and end thy journey in content, as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew."
@@ -74,7 +74,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
 **Đoạn 4 — Cái nhìn từ trên cao (IX.30).**
 
-!!! quote "Suy tưởng IX.30 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* IX.30 — bản dịch George Long (1862)"
     "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die."
 
     "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos)*
@@ -85,7 +85,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
 **Đoạn 5 — Theo cho tự nguyện (X.28).**
 
-!!! quote "Suy tưởng X.28 — bản dịch George Long (1862)"
+!!! quote "*Suy tưởng* X.28 — bản dịch George Long (1862)"
     "Imagine every man who is grieved at anything or discontented to be like a pig which is sacrificed and kicks and screams."
 
     "...only to the rational animal is it given to follow voluntarily what happens; but simply to follow is a necessity imposed on all."
