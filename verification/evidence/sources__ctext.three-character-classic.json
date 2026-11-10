@@ -1,0 +1,33 @@
+{
+  "unit": "sources/ctext.three-character-classic",
+  "hash": "sha256:d9c959d55c0aa5635992ac4911d124c09be63fa52a005c9ce221b60776dc2009",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r34",
+  "claims": [
+    {
+      "text": "Tam tự kinh (nguyên văn)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/三字經釋句",
+          "quote": "人之初，性本善，性相近，習相遠；"
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org của Mạnh Tử 2A/6A, Tuân Tử 23, Tam tự kinh trỏ đúng tác phẩm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "皆有怵惕惻隱之心",
+          "where": "đối chiếu ở zh.wikisource và en.wikisource; URL theo mẫu của site (quyết định 34)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `ctext.mengzi-gong-sun-chou-i` (trang ban-tinh-con-nguoi); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; URL ctext theo quyết định 34; cập nhật mã băm, không mở lại nguồn."
+}

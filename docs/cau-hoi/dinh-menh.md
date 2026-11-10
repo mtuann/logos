@@ -172,7 +172,7 @@ Dưới đây là lập luận của Boethius về biết trước và tự do, 
 
     Định nghĩa nổi tiếng của Boethius về vĩnh cửu, nguyên văn Latin: *"Aeternitas igitur est interminabilis vitae tota simul et perfecta possessio"* — "Vĩnh cửu là sự chiếm hữu trọn vẹn, đồng thời và hoàn hảo một đời sống vô hạn." *(lược dịch của Logos)*
 
-    Toàn văn bản dịch: Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <http://www.gutenberg.org/ebooks/14328>
+    Toàn văn bản dịch: Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <https://www.gutenberg.org/ebooks/14328>
 
 Câu hỏi dẫn dắt:
 
@@ -215,7 +215,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về định mệnh/bi�
 
 1. Hoefer, Carl, "Causal Determinism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/>
 2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
-3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <http://www.gutenberg.org/ebooks/14328>
+3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <https://www.gutenberg.org/ebooks/14328>
 4. Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).
 5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài).
 6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

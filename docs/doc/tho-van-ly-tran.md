@@ -164,7 +164,11 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
-1. Vạn Hạnh, "Thị đệ tử"; Mãn Giác, "Cáo tật thị chúng"; Trần Nhân Tông, "Xuân hiểu": nguyên văn chữ Hán và bản dịch thơ của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Thị_đệ_tử>; <https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng>; <https://vi.wikisource.org/wiki/Xuân_hiểu_(Trần_Nhân_Tông)>
-2. Trần Nhân Tông, *Cư trần lạc đạo phú*, hội 5 (chữ Nôm và phiên âm) và bài kệ kết, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội>; <https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân>
-3. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 2 (việc Vạn Hạnh mất năm Thuận Thiên 16 và lời bàn của Ngô Sĩ Liên), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之二>
-4. Viện Văn học (1977–1989), *Thơ văn Lý–Trần*, 3 tập, Hà Nội: NXB Khoa học xã hội (dùng làm nguồn tham khảo; không chép bản dịch).
+Tuyển *Thơ văn Lý–Trần* của Viện Văn học dùng làm nguồn tham khảo; bài này không chép bản dịch trong đó.
+
+1. Vạn Hạnh, "Thị đệ tử", nguyên văn chữ Hán và bản dịch thơ của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Thị_đệ_tử>
+2. Mãn Giác, "Cáo tật thị chúng", nguyên văn chữ Hán và bản dịch thơ của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng>
+3. Trần Nhân Tông, "Xuân hiểu", nguyên văn chữ Hán và bản dịch thơ của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Xuân_hiểu_(Trần_Nhân_Tông)>
+4. Trần Nhân Tông, *Cư trần lạc đạo phú*, hội 5 (chữ Nôm và phiên âm) và bài kệ kết, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội>; <https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân>
+5. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 2 (việc Vạn Hạnh mất năm Thuận Thiên 16 và lời bàn của Ngô Sĩ Liên), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之二>
+6. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.

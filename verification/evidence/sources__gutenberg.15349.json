@@ -1,0 +1,54 @@
+{
+  "unit": "sources/gutenberg.15349",
+  "hash": "sha256:192110550eb13e74a6aecd5e29f5be339713a0e57f254aecc321a2dd326eb46d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Ebook 15349 là The Works of John Dryden, tập 4",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/15349",
+          "quote": "The works of John Dryden, now first collected in eighteen volumes. Volume 04"
+        }
+      ]
+    },
+    {
+      "text": "Walter Scott biên tập",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15349/pg15349-images.html",
+          "quote": "Commentator: Walter Scott"
+        }
+      ]
+    },
+    {
+      "text": "Tập 4 có vở The Conquest of Granada",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15349/pg15349-images.html",
+          "quote": "ALMANZOR AND ALMAHIDE: OR, THE CONQUEST OF GRANADA BY THE SPANIARDS. A TRAGEDY."
+        }
+      ]
+    },
+    {
+      "text": "Năm 1672 (in lần đầu của vở kịch)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/15349/pg15349-images.html",
+          "quote": "The Conquest of Granada was not printed till 1672."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): Gutenberg ghi Scott là 'Commentator' (biên tập/chú giải), trang tên sách là bản Scott 18 tập; hợp mục. Năm 1672 theo lời Scott trong phần dẫn nhập."
+}

@@ -1,6 +1,6 @@
 {
   "unit": "sources/sach.parfit-derek-reasons-and-persons-oxford-clarendon-press-1984",
-  "hash": "sha256:78c3bd6e6216d9cc8f6050f604969501402657d4222a00cb4bf908dc66c84ac4",
+  "hash": "sha256:729f8a7dcbaac5a1685228ac898fd76369a6be3e0ca9eb548721778a91ee715c",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r20",
   "claims": [
@@ -32,25 +32,8 @@
           "where": "đoạn trích Google Books của sách khác trích dẫn Parfit"
         }
       ]
-    },
-    {
-      "text": "Trang 273 và Phụ lục J (Buddha's View)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.google.com/books/feeds/volumes?q=%22Reasons%20and%20Persons%22+Parfit+%22Appendix%20J%22+Buddha",
-          "quote": "Parfit , Reasons and Persons , 273. Cf. Appendix J : Buddha&#39;s View , 502–3 , 532",
-          "where": "đoạn trích Google Books của sách nghiên cứu Parfit và Phật giáo"
-        },
-        {
-          "url": "https://api.crossref.org/works?query.bibliographic=Parfit+Reasons+and+Persons+Appendix&filter=prefix:10.1093,type:book-chapter&select=DOI,title,page&rows=30",
-          "quote": "\"title\":\"What We Believe Ourselves to Be\"",
-          "where": "Crossref: chương 10-12 trải trang 199-280, nên tr. 273 thuộc chương 12 'Why Our Identity Is not What Matters' (245-280)"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r20): Internet Archive ghi bản Clarendon Press 1984 (trent_0116300637661, mượn trực tuyến); Open Library có hai bản 1984 (Clarendon Press; Oxford University Press, ISBN 0198246153) và bản in lại 1986 (ISBN 019824908X). Hai cách ghi nhà xuất bản là cùng một nhà (Clarendon là imprint của OUP); nên thống nhất một cách. Link ổn định đề xuất: https://doi.org/10.1093/019824908x.001.0001 (hoặc https://openlibrary.org/books/OL3172889M). Trang 273 và Phụ lục J (tr. 502-503) chỉ xác nhận gián tiếp qua đoạn trích sách khác; người làm nên đối chiếu bản in nếu cần trang chính xác."
+  "notes": "10/11/2026 (sổ sách, Claude): thống nhất cách ghi sách in trùng: chữ mới của bản ghi = chữ của bản ghi `sach.parfit-derek-reasons-and-persons-oxford-clarendon-press-1984-2` (đã kiểm, claim chép từ bằng chứng của khóa đó; khóa đó không còn); chú thích riêng của trang chuyển ra câu trước danh sách Nguồn hoặc bỏ ở hồ sơ; cập nhật mã băm, không mở lại nguồn."
 }

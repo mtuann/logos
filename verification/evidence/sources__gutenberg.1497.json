@@ -1,6 +1,6 @@
 {
   "unit": "sources/gutenberg.1497",
-  "hash": "sha256:9d6b7400b237624bf6640179ceb624678b3d770ba882f26033862d0d112909f4",
+  "hash": "sha256:ce4611a6c753fc0482b67bd199b325690fddf0a546daaf5346d838f3061a07ed",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r25",
   "claims": [
@@ -39,56 +39,8 @@
           "where": "Open Library: 'The dialogues of Plato [5 volumes]', first_publish_year 1871, publisher Oxford at the Clarendon Press (nguồn thư mục)"
         }
       ]
-    },
-    {
-      "text": "Quyển VI: ví dụ con tàu (Stephanus 488a–489d)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=488a",
-          "quote": "[488a]",
-          "where": "Perseus (Shorey): 488a mở đầu hình ảnh con tàu ('Picture a shipmaster in height and strength surpassing all others on the ship'); 489d (Perseus Greek) kết đoạn 'φιλοσοφίᾳ'. Trong văn bản Gutenberg, đoạn 'Imagine then a fleet or a ship in which there is a captain' nằm sau tiêu đề BOOK VI và trước BOOK VII"
-        }
-      ]
-    },
-    {
-      "text": "Quyển II (đoạn Gyges, vòng nhẫn) nằm trong Quyển II",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/1497/pg1497-images.html",
-          "quote": "Gyges, the ancestor of Croesus the Lydian",
-          "where": "đoạn nằm sau tiêu đề BOOK II (văn bản Jowett)"
-        }
-      ]
-    },
-    {
-      "text": "DOI 10.1089/1094931041291295 trỏ đúng bài Suler (2004), CyberPsychology & Behavior 7(3): 321–326",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works/10.1089/1094931041291295",
-          "quote": "The Online Disinhibition Effect",
-          "where": "(từ lượt trước) Crossref: John Suler, CyberPsychology & Behavior, 2004, vol 7, issue 3, pp 321-326"
-        }
-      ]
-    },
-    {
-      "text": "Microsoft (2016), 'Learning from Tay's introduction' tại URL blogs.microsoft.com ngày 25/3/2016",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/",
-          "quote": "Learning from Tay’s introduction",
-          "where": "(từ lượt trước) đăng March 25, 2016"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Quyển II (Gyges) và Quyển VI (488a–489d) đã đối chiếu: số Stephanus lấy ở Perseus (bản Shorey/Greek), vị trí quyển lấy từ chính văn bản Jowett trên Gutenberg (Jowett Gutenberg không in số Stephanus). Năm 1871 theo Open Library (nguồn thư mục, nhà xuất bản Clarendon Press). 'Quyển II' chưa chỉ rõ đoạn Stephanus cụ thể (đoạn Gyges là 359d–360d, không kiểm ở Perseus lượt này). Nên thống nhất 'The Republic'/'Cộng hòa'."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Quyển II (Gyges) và Quyển VI (488a–489d) đã đối chiếu: số Stephanus lấy ở Perseus (bản Shorey/Greek), vị trí quyển lấy từ chính văn bản Jowett trên Gutenberg (Jowett Gutenberg không in số Stephanus). Năm 1871 theo Open Library (nguồn thư mục, nhà xuất bản Clarendon Press). 'Quyển II' chưa chỉ rõ đoạn Stephanus cụ thể (đoạn Gyges là 359d–360d, không kiểm ở Perseus lượt này). Nên thống nhất 'The Republic'/'Cộng hòa'. | 10/11/2026 (sổ sách, Claude): chữ mới = cách ghi trong `texts_seen` (Jowett, Oxford 1871, Gutenberg #1497); quyển II, quyển VI 488a–489d chuyển ra câu trước danh sách; Suler, Microsoft tách thành mục riêng; cập nhật mã băm, không mở lại nguồn."
 }

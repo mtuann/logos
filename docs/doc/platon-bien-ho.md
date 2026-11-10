@@ -16,7 +16,7 @@ Văn bản này đáng đọc vì nó là chân dung rõ nhất về Socrates �
 !!! info "Về văn bản này"
     - **Tác giả:** Platon (k. 428–347 TCN). Ông có mặt ở phiên tòa: chính ông ghi tên mình trong số người dự (34a) và trong số bạn bè bảo lãnh khoản tiền phạt (38b).
     - **Thể loại:** diễn từ trước tòa, chừng 25 trang Stephanus (17a–42a), gồm lời bào chữa (17a–35d), đề nghị hình phạt (35e–38b) và lời nói sau khi bị tuyên án tử (38c–42a). Chữ Hy Lạp *apologia* nghĩa là "lời bào chữa", không phải "lời xin lỗi".
-    - **Đọc toàn văn:** [Project Gutenberg](https://www.gutenberg.org/ebooks/1656) (bản Jowett); [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.) (có số Stephanus).
+    - **Đọc toàn văn:** [Project Gutenberg](https://www.gutenberg.org/ebooks/1656) (bản Jowett); [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.) (có số Stephanus).
     - **Bản dịch được trích:** Benjamin Jowett (in lần đầu 1871; phạm vi công cộng). Số như "38a" là trang và đoạn của ấn bản Stephanus (1578), mọi bản dịch đều ghi.
     - **Thời gian đọc:** các đoạn chọn khoảng 20 phút; cả tác phẩm khoảng một giờ.
 
@@ -140,6 +140,6 @@ Thử xem bạn nắm được đến đâu.
 Bài IEP "Socrates" về bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi.
 
 1. Platon, *Biện hộ của Socrates* (*Apology*, bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). <https://www.gutenberg.org/ebooks/1656>
-2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.>
+2. Platon, *Apology*, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library — đối chiếu số Stephanus. <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.>
 3. Nails, Debra & S. Sara Monoson, "Socrates", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/socrates/>
 4. James M. Ambury, "Socrates", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/socrates/>

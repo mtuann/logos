@@ -175,9 +175,9 @@ Thử xem bạn phân biệt câu hỏi triết học với câu hỏi thực ng
 
 ## Nguồn
 
-Mục SEP "Thomas Hobbes": phần về *De Corpore*, 1655.
+Mục SEP "Thomas Hobbes": phần về *De Corpore*, 1655. Russell, *The Problems of Philosophy*: chương XV "The Value of Philosophy".
 
-1. Bertrand Russell, *The Problems of Philosophy* (1912), chương XV "The Value of Philosophy". Project Gutenberg, eBook #5827: <https://www.gutenberg.org/ebooks/5827> (văn bản: <https://www.gutenberg.org/cache/epub/5827/pg5827.txt>).
+1. Russell, Bertrand, *The Problems of Philosophy* (1912), Project Gutenberg. <https://www.gutenberg.org/ebooks/5827>
 2. David J. Chalmers, "Why Isn't There More Progress in Philosophy?", *Philosophy* 90(1), 2015, tr. 3–31. <https://doi.org/10.1017/S0031819114000436>
 3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 4. Liddell, Scott & Jones, *A Greek–English Lexicon*, mục φιλοσοφία. Perseus Digital Library: <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=filosofi/a>

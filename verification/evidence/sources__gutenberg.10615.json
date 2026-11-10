@@ -1,6 +1,6 @@
 {
   "unit": "sources/gutenberg.10615",
-  "hash": "sha256:a72345d9b719c67515a9b99be1174abd6cb4208992f97a716ce8bf2991139a9b",
+  "hash": "sha256:922d31d0bc13b515c97a37718ff31e826a0b64096fdea8e945ed6f59919b0b5d",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-g01",
   "claims": [
@@ -39,44 +39,8 @@
           "where": "summary tự sinh (từ lượt trước)"
         }
       ]
-    },
-    {
-      "text": "Bản trong ebook là ấn bản lần hai (có Chương XXVII Quyển II)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/cache/epub/10615/pg10615-images.html",
-          "quote": "In the Second Edition I added as followeth:",
-          "where": "Epistle to the Reader; mục lục có 'CHAPTER XXVII. OF IDENTITY AND DIVERSITY.'"
-        }
-      ]
-    },
-    {
-      "text": "Ấn bản lần hai xuất bản lần đầu năm 1694",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
-          "quote": "2nd ed., first published 1694",
-          "where": "thư mục: Locke 1975, An Essay Concerning Human Understanding, ed. Nidditch"
-        }
-      ]
-    },
-    {
-      "text": "Chương xxvii ('Of Identity and Diversity') là chương bổ sung trong ấn bản lần hai (không phải ấn bản đầu)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
-          "quote": "added the chapter in which he treats persons and their persistence conditions (Book 2, Chapter 27) to the second edition of An Essay Concerning Human Understanding in 1694",
-          "where": "đoạn mở đầu mục SEP 'Locke on Personal Identity' (Uzgalis)"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, SEP 'Locke on Personal Identity' (bản fall2026) nói thẳng chương Quyển 2 chương 27 được thêm vào ấn bản hai năm 1694 (theo đề nghị của Molyneux). Các claim khác giữ từ lượt trước. Cách ghi 'ấn bản đầu 1689' (trang tựa MDCXC = 1690, phát hành cuối 1689) nên thống nhất; texts_seen 'II.1.2' là Quyển II chương i §2, chưa đối chiếu."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-g01): theo gợi ý, SEP 'Locke on Personal Identity' (bản fall2026) nói thẳng chương Quyển 2 chương 27 được thêm vào ấn bản hai năm 1694 (theo đề nghị của Molyneux). Các claim khác giữ từ lượt trước. Cách ghi 'ấn bản đầu 1689' (trang tựa MDCXC = 1690, phát hành cuối 1689) nên thống nhất; texts_seen 'II.1.2' là Quyển II chương i §2, chưa đối chiếu. | 10/11/2026 (sổ sách, Claude): chữ mới = cách ghi trong `texts_seen` của hồ sơ Locke (tập 1, 1689); vị trí II.xxvii, II.1.2 chuyển ra câu trước danh sách Nguồn của trang (kiểm cùng trang); cập nhật mã băm, không mở lại nguồn."
 }

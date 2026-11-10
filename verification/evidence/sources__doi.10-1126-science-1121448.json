@@ -1,6 +1,6 @@
 {
   "unit": "sources/doi.10-1126-science-1121448",
-  "hash": "sha256:75c043c27166232bd452b13929760dbcedcfdc2713270debf30098f5544319b8",
+  "hash": "sha256:d0db198d24a5a2ee1606ebcb8b8cc9a833552e57cc599483bd2912a6f9c4c565",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-s11",
   "claims": [
@@ -25,41 +25,8 @@
           "quote": "Altruistic Helping in Human Infants and Young Chimpanzees"
         }
       ]
-    },
-    {
-      "text": "Hamlin, Wynn & Bloom (2007), Nature 450: 557–559; DOI nature06288",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works/10.1038/nature06288",
-          "quote": "J. Kiley Hamlin; Karen Wynn; Paul Bloom; Nature; 2007; volume 450; page 557-559"
-        }
-      ]
-    },
-    {
-      "text": "Lucca và cộng sự (2025), Developmental Science 28(1): e13581; DOI desc.13581",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://api.crossref.org/works/10.1111/desc.13581",
-          "quote": "Developmental Science; volume 28; issue 1; article-number e13581; print issue January 2025"
-        }
-      ]
-    },
-    {
-      "text": "de Waal (2006), Primates and Philosophers, Princeton University Press",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://press.princeton.edu/books/paperback/9780691169163/primates-and-philosophers",
-          "quote": "Primates and Philosophers: How Morality Evolved; Frans de Waal; Princeton University Press; copyright 2006"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Lucca: Crossref ghi năm trực tuyến 2024 (26/11/2024), số in tháng 1/2025; 2025 theo số in là chấp nhận được. Mục gộp bốn nguồn mà khóa chỉ theo DOI đầu."
+  "notes": "Lucca: Crossref ghi năm trực tuyến 2024 (26/11/2024), số in tháng 1/2025; 2025 theo số in là chấp nhận được. Mục gộp bốn nguồn mà khóa chỉ theo DOI đầu. | 10/11/2026 (sổ sách, Claude): tách mục gộp bốn nguồn; chữ còn lại là phần Warneken & Tomasello, thêm tên bài \"Altruistic Helping in Human Infants and Young Chimpanzees\" theo claim DOI ở trên; cập nhật mã băm, không mở lại nguồn."
 }

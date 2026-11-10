@@ -1,0 +1,36 @@
+{
+  "unit": "sources/wikisource.en.some-thoughts-concerning-education-part-i",
+  "hash": "sha256:09b0c4b865141e389336dfa2efcc473334305af7debbb3ef4e46ad6b803ad896",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Tác phẩm Some Thoughts Concerning Education của Locke, năm 1693, §1–2 có thật (Wikisource, bản in lần đầu 1693)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education",
+          "quote": "Index:Some Thoughts Concerning Education - Locke (1693, 1st ed.).djvu"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Section I. A sound mind in a sound body, is a short, but full description of a happy state in this world."
+        }
+      ]
+    },
+    {
+      "text": "URL https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I mở được, là Phần I của tác phẩm (mở đầu bằng Section I)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Section I. A sound mind in a sound body, is a short, but full description of a happy state in this world."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): bartleby trả 503 hai lần liên tiếp nên không xác nhận được link; bartleby cũng là nguồn thương mại không ổn định. Đề xuất thay bằng Wikisource Part I (có §1 mở đầu 'A sound mind in a sound body'; chưa đếm riêng §2 nhưng cùng trang Part I). Nếu người làm muốn giữ bartleby thì cần kiểm lại khi site hoạt động. | 10/11/2026 (sổ sách, Claude): áp dụng fix của claim URL bartleby (503) ở bằng chứng sources__web.bartleby-com.37-1-1-html: mục Nguồn nay trỏ Wikisource Part I đúng chữ fix của người kiểm; claim URL lập từ chính nguồn người kiểm đã mở (claim 1, nguồn thứ hai); cập nhật mã băm, không mở lại nguồn."
+}

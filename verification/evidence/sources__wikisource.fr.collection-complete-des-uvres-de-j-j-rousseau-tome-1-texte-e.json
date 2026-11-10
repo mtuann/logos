@@ -1,0 +1,26 @@
+{
+  "unit": "sources/wikisource.fr.collection-complete-des-uvres-de-j-j-rousseau-tome-1-texte-e",
+  "hash": "sha256:69689d23c2bf1d74ceffcc12c058a9f0b2d5c5e216689414de7f3aba223feb34",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r26",
+  "claims": [
+    {
+      "text": "Rousseau, Discours sur l'origine et les fondemens de l'inégalité, bản Genève 1782 (Wikisource) và năm 1755",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Collection_compl%C3%A8te_des_%C5%93uvres_de_J._J._Rousseau/Tome_1/Texte_entier",
+          "quote": "Tome premier : Contenant les ouvrages de Politique",
+          "where": "trang Tome 1 ghi 's.n., 1782, Genève', văn bản có chữ 'l’inégalité qu’ils ont instituée' (Dédicace à la République de Genève); năm 1755 từ kết quả tìm của Wikisource"
+        },
+        {
+          "url": "https://fr.wikisource.org/w/api.php?action=query&list=search&srsearch=Discours+sur+l%27origine+et+les+fondements+de+l%27in%C3%A9galit%C3%A9+parmi+les+hommes+1755",
+          "quote": "Discours sur l’origine et les fondements de l’inégalité parmi les hommes 1755"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `gutenberg.3207` (trang ban-tinh-con-nguoi); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; thêm chữ \"Wikisource tiếng Pháp\" theo URL; cập nhật mã băm, không mở lại nguồn."
+}

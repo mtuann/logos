@@ -203,6 +203,6 @@ Gợi ý độ dài: 150–300 chữ.
 2. Strawson, Peter F. (1962), "Freedom and Resentment", *Proceedings of the British Academy* 48: 187–211.
 3. Pereboom, Derk (2001), *Living Without Free Will*, Cambridge: Cambridge University Press.
 4. Fischer, John Martin & Mark Ravizza (1998), *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
-5. Aristotle, *Nicomachean Ethics*, Quyển III, bản dịch W. D. Ross, Internet Classics Archive (phạm vi công cộng). <http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html>
+5. Aristotle, *Nicomachean Ethics*, Quyển III, bản dịch W. D. Ross, Internet Classics Archive (phạm vi công cộng). <https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html>
 6. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/>
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

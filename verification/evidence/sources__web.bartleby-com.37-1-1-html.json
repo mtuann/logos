@@ -1,0 +1,39 @@
+{
+  "unit": "sources/web.bartleby-com.37-1-1-html",
+  "hash": "sha256:30e2ceb4923c2b3fb50960280a4efcde6d4c23450b5e6e7361f9248e73170d2b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-x02",
+  "claims": [
+    {
+      "text": "Tác phẩm Some Thoughts Concerning Education của Locke, năm 1693, §1–2 có thật (Wikisource, bản in lần đầu 1693)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education",
+          "quote": "Index:Some Thoughts Concerning Education - Locke (1693, 1st ed.).djvu"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I",
+          "quote": "Section I. A sound mind in a sound body, is a short, but full description of a happy state in this world."
+        }
+      ]
+    },
+    {
+      "text": "URL bartleby.com/37/1/1.html mở được và trỏ đúng §1–2",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Locke, John (1693), *Some Thoughts Concerning Education*, §1–2. <https://en.wikisource.org/wiki/Some_Thoughts_Concerning_Education/Part_I>",
+      "sources": [
+        {
+          "url": "https://www.bartleby.com/37/1/1.html",
+          "quote": "503 Service Temporarily Unavailable",
+          "where": "tiêu đề trang, HTTP 503, thử hai lần"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x02): bartleby trả 503 hai lần liên tiếp nên không xác nhận được link; bartleby cũng là nguồn thương mại không ổn định. Đề xuất thay bằng Wikisource Part I (có §1 mở đầu 'A sound mind in a sound body'; chưa đếm riêng §2 nhưng cùng trang Part I). Nếu người làm muốn giữ bartleby thì cần kiểm lại khi site hoạt động."
+}

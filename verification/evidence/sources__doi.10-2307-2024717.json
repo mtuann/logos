@@ -1,0 +1,33 @@
+{
+  "unit": "sources/doi.10-2307-2024717",
+  "hash": "sha256:73560047777930d795d6839c9f2bd1f2d376a22c70a41044cf5396a017ffbb38",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r32",
+  "claims": [
+    {
+      "text": "Frankfurt (1971) 'Freedom of the Will and the Concept of a Person', J. Philosophy 68(1), DOI 10.2307/2024717",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2024717",
+          "quote": "\"title\":[\"Freedom of the Will and the Concept of a Person\"]; \"volume\":\"68\"; \"issue\":\"1\""
+        }
+      ]
+    },
+    {
+      "text": "Trang 5–20 của bài 1971",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/2024717",
+          "quote": "Vol. 68, No. 1, Jan. 14, 1971; pageStart 5, pageEnd 20 (pageCount 16)",
+          "where": "dữ liệu trang JSTOR (pageStart/pageEnd, tải bằng trình duyệt)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `doi.10-2307-2023833` (trang tu-do-y-chi); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; cập nhật mã băm, không mở lại nguồn."
+}

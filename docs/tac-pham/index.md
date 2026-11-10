@@ -281,7 +281,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 1632–1704 · [Trang triết gia](../triet-gia/locke.md)
 
 - *A Letter Concerning Toleration* (1689) — nhắc tới trong: [hồ sơ John Locke](../triet-gia/locke.md)
-- *An Essay Concerning Human Understanding* (1689) — nhắc tới trong: [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon), [hồ sơ John Locke](../triet-gia/locke.md)
+- *An Essay Concerning Human Understanding* (1689) — nhắc tới trong: [Cái tôi qua thời gian — tôi của mười năm trước còn là tôi không?](../cau-hoi/ban-nga-thoi-gian.md#nguon), [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md#nguon), [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md#nguon), [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon), [hồ sơ John Locke](../triet-gia/locke.md)
 - *Two Treatises of Government* (1689) — nhắc tới trong: [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md#cac-lap-truong-chinh), [hồ sơ John Locke](../triet-gia/locke.md)
 - *Some Thoughts Concerning Education* (1693) — nhắc tới trong: [hồ sơ John Locke](../triet-gia/locke.md)
 

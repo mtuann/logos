@@ -1,0 +1,38 @@
+{
+  "unit": "sources/gutenberg.2811",
+  "hash": "sha256:4e30c33ad1ad9d39e53e7d88a5834ca83a5f2fee00388f81a5fb99d426fe68f3",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r27",
+  "claims": [
+    {
+      "text": "Ebook #2811 là thư của Pliny Trẻ, dịch William Melmoth",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2811/pg2811-images.html",
+          "quote": "Translator: William Melmoth"
+        }
+      ]
+    },
+    {
+      "text": "Thư III.16 của Pliny (Arria và Paetus) nằm trong ebook #2811 theo bản dịch Melmoth",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelatinlibrary.com/pliny.ep3.html",
+          "quote": "C. PLINIUS NEPOTI SUO S.",
+          "where": "Quyển III, thư 16: thư gửi Nepos về Arria, Caecina Paetus, Fannia"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2811/pg2811-images.html",
+          "quote": "Her husband Caecinna Paetus, and her son, were both attacked at the same time with a fatal illness",
+          "where": "Thư 'XXXIV — To NEPOS' (đánh số liên tục của ấn bản Melmoth/Bosanquet)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `gutenberg.46564` (trang noi-doi); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; cập nhật mã băm, không mở lại nguồn."
+}

@@ -206,8 +206,10 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Platon, *Cộng hòa*, quyển VI (488a–489d).
+
 1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
-2. Platon, *Cộng hòa*, Quyển VI (488a–489d); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1497>
+2. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 3. Brennan, Jason (2016), *Against Democracy*, Princeton: Princeton University Press.
 4. Churchill, Winston, phát biểu tại Hạ viện Anh, 11/11/1947, *Hansard* (Hạ viện), tập 444, cột 207. <https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

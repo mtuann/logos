@@ -1,21 +1,9 @@
 {
   "unit": "sources/wikisource.vi.thi-de-tu",
-  "hash": "sha256:1501b45090f638dcb883424f8100ba1586e5615f24dd9962abf1ce8be24a088c",
+  "hash": "sha256:58159c197659288e9e354a44a4c37c47438e17938ecffc2e8ab6ea6e5ffecc5f",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-r03",
   "claims": [
-    {
-      "text": "'Cáo tật thị chúng' của Mãn Giác (告疾示眾), nguyên văn chữ Hán và bản dịch thơ Ngô Tất Tố",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://vi.wikisource.org/wiki/C%C3%A1o_t%E1%BA%ADt_th%E1%BB%8B_ch%C3%BAng",
-          "quote": "Cáo tật thị chúng (告疾示眾, 1096)",
-          "where": "tiêu đề; tác giả Mãn Giác; bản dịch thơ Ngô Tất Tố (kiểm lượt trước)"
-        }
-      ]
-    },
     {
       "text": "Trang Thị_đệ_tử (Vạn Hạnh) mở được, có chữ Hán và bản dịch Ngô Tất Tố",
       "kind": "du-kien",
@@ -27,20 +15,8 @@
           "where": "đầu trang; có cột Nguyên văn chữ Hán 身如電影有還無 và cột Dịch thơ của Ngô Tất Tố"
         }
       ]
-    },
-    {
-      "text": "Trang Xuân_hiểu_(Trần_Nhân_Tông) mở được, có chữ Hán và bản dịch Ngô Tất Tố",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://vi.wikisource.org/wiki/Xu%C3%A2n_hi%E1%BB%83u_(Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng)",
-          "quote": "của Trần Nhân Tông, do Ngô Tất Tố dịch",
-          "where": "đầu trang; có cột Nguyên văn chữ Hán 睡起啟窗扉 và cột Bản dịch của Ngô Tất Tố"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): cả ba trang mở được. Lượt trước ghi url_not_found là do bị chặn, không phải trang sai. Trang Xuân hiểu (Trần Nhân Tông) có ghi chú trỏ sang trang cùng tên 'Xuân hiểu'; URL trong bản ghi vẫn đúng."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): cả ba trang mở được. Lượt trước ghi url_not_found là do bị chặn, không phải trang sai. Trang Xuân hiểu (Trần Nhân Tông) có ghi chú trỏ sang trang cùng tên 'Xuân hiểu'; URL trong bản ghi vẫn đúng. | 10/11/2026 (sổ sách, Claude): tách mục gộp ba bài thơ; chữ còn lại là bài của Vạn Hạnh; cập nhật mã băm, không mở lại nguồn."
 }

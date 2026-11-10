@@ -69,10 +69,11 @@ Sử thần Ngô Sĩ Liên (thế kỷ 15) khen ông nhân từ, gắn kết đ�
 
 ## Nguồn
 
-1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 5–6 (Trần Nhân Tông: sinh 1258, lên ngôi 1278, nhường ngôi 1293, xuất gia 1295 và 1299, sang Chiêm Thành 1301, mất 1308; lời bình của Ngô Sĩ Liên), nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%85%AD>
-2. Trần Nhân Tông, *Cư trần lạc đạo phú* (chữ Nôm, phiên âm), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA>
-3. Nguyễn Huệ Chi, “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”, *Tạp chí Nghiên cứu và Phát triển* (Huế), số 3–4, 2014, tr. 169–191. <https://vjol.info.vn/ncpt-hue/article/view/16248>
-4. Đạo Nguyên (biên soạn), *Cảnh Đức truyền đăng lục* (1004), quyển 6 (thiền sư Đại Châu Tuệ Hải), bản Tứ bộ tùng san, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84_(%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC)/%E5%8D%B7%E7%AC%AC%E5%85%AD>
+1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 5, nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E4%BA%94>
+2. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 6, nguyên văn chữ Hán, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%85%AD>
+3. Trần Nhân Tông, *Cư trần lạc đạo phú* (chữ Nôm, phiên âm), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA>
+4. Nguyễn Huệ Chi, “Trần Tung, một gương mặt lạ trong làng thơ thiền thời Lý–Trần”, *Tạp chí Nghiên cứu và Phát triển* (Huế), số 3–4, 2014, tr. 169–191. <https://vjol.info.vn/ncpt-hue/article/view/16248>
+5. Đạo Nguyên (biên soạn), *Cảnh Đức truyền đăng lục* (1004), quyển 6 (thiền sư Đại Châu Tuệ Hải), bản Tứ bộ tùng san, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84_(%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC)/%E5%8D%B7%E7%AC%AC%E5%85%AD>
 
 ---
 

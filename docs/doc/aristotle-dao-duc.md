@@ -15,7 +15,7 @@ block: van-ban
     - **Tác giả:** Aristotle. Ông không tự đặt tên sách; chữ "Nicomachus" được thêm về sau, có lẽ vì con trai ông là Nicomachus đã biên tập nó.
     - **Độ dài:** 10 quyển; quyển I–II chừng 16 trang Bekker (1094a–1109b). Số như "1098a18" là trang, cột, dòng của ấn bản Bekker (1831), mọi bản dịch đều ghi.
     - **Bản gốc:** tiếng Hy Lạp cổ.
-    - **Đọc toàn văn:** bản Ross trên [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.html); bản Hy Lạp có số Bekker trên [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053).
+    - **Đọc toàn văn:** bản Ross trên [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.html); bản Hy Lạp có số Bekker trên [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053).
     - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, bản sửa năm 1925; Ross mất năm 1971).
     - **Thời gian đọc:** các đoạn chọn khoảng 25 phút; trọn quyển I–II khoảng hai giờ.
 
@@ -126,9 +126,9 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
-1. Aristotle, *Nicomachean Ethics*, bản dịch W. D. Ross, Internet Classics Archive. <http://classics.mit.edu/Aristotle/nicomachaen.html>
+1. Aristotle, *Nicomachean Ethics*, bản dịch W. D. Ross, Internet Classics Archive. <https://classics.mit.edu/Aristotle/nicomachaen.html>
 2. *The Works of Aristotle*, tập IX, bản dịch W. D. Ross (Oxford; lời tựa đề tháng 7/1925), bản scan trên Internet Archive. <https://archive.org/details/dli.ernet.6106>
-3. Aristotle, *Ethica Nicomachea*, bản Hy Lạp của J. Bywater (1894), Perseus — đối chiếu số Bekker. <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053>
+3. Aristotle, *Ethica Nicomachea*, bản Hy Lạp của J. Bywater (1894), Perseus — đối chiếu số Bekker. <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053>
 4. Kraut, Richard, "Aristotle's Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/>
 5. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
 6. Kant, *Die Metaphysik der Sitten* (1797), Ak 6:383–384, 6:404; *Anthropologie in pragmatischer Hinsicht* (1798), Ak 7:149, korpora.org. <https://korpora.org/Kant/aa06/404.html>

@@ -186,22 +186,25 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-Các đoạn được dẫn: Bentham, *An Introduction to the Principles of Morals and Legislation*, chương XVI, mục 24; Mill, *Utilitarianism*, chương 2; *Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11.
+Các đoạn được dẫn: Bentham, *An Introduction to the Principles of Morals and Legislation*, chương XVI, mục 24; Mill, *Utilitarianism*, chương 2; *Luận ngữ* 2.17, 2.22, 13.18, 13.20 và *Mạnh Tử* 4B11; Grotius, *The Rights of War and Peace*, III.1, mục 11–16.
 
 1. Mahon, James Edwin, "The Definition of Lying and Deception", *Stanford Encyclopedia of Philosophy* (2008, sửa lớn 2015). <https://plato.stanford.edu/archives/fall2026/entries/lying-definition/>
 2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
 3. Augustine, *De mendacio* (khoảng 395) và *Contra mendacium* (420), bản dịch H. Browne, *Nicene and Post-Nicene Fathers*, First Series, tập 3 (1887). <https://www.ccel.org/ccel/schaff/npnf103.v.v.html>
-4. Kant, Immanuel (1785), *Groundwork of the Metaphysic of Morals*, bản dịch T. K. Abbott <https://www.gutenberg.org/ebooks/5682>; Kant (1797), "On a Supposed Right to Tell Lies from Benevolent Motives", bản dịch T. K. Abbott (1889) <https://archive.org/details/cu31924029021612>; nguyên văn: Akademie-Ausgabe VIII: 423–430 <https://www.korpora.org/Kant/aa08/425.html>
-5. Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>
-6. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
-7. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1925). <http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
-8. *Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>
-9. *Mạnh Tử* (孟子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/mengzi>
-10. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
-11. Grotius, Hugo (1625), *The Rights of War and Peace*, III.1, mục 11–16, bản dịch A. C. Campbell <https://www.gutenberg.org/ebooks/46564>; Pliny Trẻ, *Thư* III.16, bản dịch W. Melmoth <https://www.gutenberg.org/ebooks/2811>
-12. Bok, Sissela (1978), *Lying: Moral Choice in Public and Private Life*, New York: Pantheon Books.
-13. Saul, Jennifer M. (2012), *Lying, Misleading, and What Is Said*, Oxford University Press. <https://doi.org/10.1093/acprof:oso/9780199603688.001.0001>
-14. Frankfurt, Harry G. (1986), "On Bullshit", *Raritan* 6: 81–100; in thành sách: Princeton University Press, 2005.
-15. Korsgaard, Christine M. (1986), "The Right to Lie: Kant on Dealing with Evil", *Philosophy and Public Affairs* 15 (4): 325–349. <http://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>
-16. Hicks, Michael Townsen, James Humphries & Joe Slater (2024), "ChatGPT is bullshit", *Ethics and Information Technology* 26: 38. <https://doi.org/10.1007/s10676-024-09775-5>
-17. Bourget, David & David J. Chalmers (2023), "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 <https://doi.org/10.3998/phimp.2109>; Dancy, Jonathan, "Moral Particularism", *SEP* <https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/>
+4. Kant, Immanuel, *Fundamental Principles of the Metaphysic of Morals* (*Grundlegung*, 1785), bản dịch tiếng Anh của T. K. Abbott, Project Gutenberg. <https://www.gutenberg.org/ebooks/5682>
+5. Kant, Immanuel (1797), "On a Supposed Right to Tell Lies from Benevolent Motives", bản dịch T. K. Abbott (1889) <https://archive.org/details/cu31924029021612>; nguyên văn: Akademie-Ausgabe VIII: 423–430 <https://www.korpora.org/Kant/aa08/425.html>
+6. Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>
+7. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
+8. Aristotle, *Nicomachean Ethics*, IV.7, bản dịch W. D. Ross (1925). <https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html>
+9. *Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>
+10. *Mạnh Tử* (孟子), nguyên văn chữ Hán kèm bản dịch tiếng Anh của James Legge, ctext.org. <https://ctext.org/mengzi>
+11. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
+12. Grotius, Hugo (1625), *The Rights of War and Peace*, bản dịch A. C. Campbell. <https://www.gutenberg.org/ebooks/46564>
+13. Pliny Trẻ, *Thư* III.16, bản dịch W. Melmoth. <https://www.gutenberg.org/ebooks/2811>
+14. Bok, Sissela (1978), *Lying: Moral Choice in Public and Private Life*, New York: Pantheon Books.
+15. Saul, Jennifer M. (2012), *Lying, Misleading, and What Is Said*, Oxford University Press. <https://doi.org/10.1093/acprof:oso/9780199603688.001.0001>
+16. Frankfurt, Harry G. (1986), "On Bullshit", *Raritan* 6: 81–100; in thành sách: Princeton University Press, 2005.
+17. Korsgaard, Christine M. (1986), "The Right to Lie: Kant on Dealing with Evil", *Philosophy and Public Affairs* 15 (4): 325–349. <https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>
+18. Hicks, Michael Townsen, James Humphries & Joe Slater (2024), "ChatGPT is bullshit", *Ethics and Information Technology* 26: 38. <https://doi.org/10.1007/s10676-024-09775-5>
+19. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+20. Dancy, Jonathan, "Moral Particularism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/>

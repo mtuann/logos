@@ -1,0 +1,22 @@
+{
+  "unit": "sources/wikisource.vi.xuan-hieu-tran-nhan-tong",
+  "hash": "sha256:3e973c21c3123a0d345aa97712ef6f5bacbee082492fe415b582440d3bb188de",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r03",
+  "claims": [
+    {
+      "text": "Trang Xuân_hiểu_(Trần_Nhân_Tông) mở được, có chữ Hán và bản dịch Ngô Tất Tố",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Xu%C3%A2n_hi%E1%BB%83u_(Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng)",
+          "quote": "của Trần Nhân Tông, do Ngô Tất Tố dịch",
+          "where": "đầu trang; có cột Nguyên văn chữ Hán 睡起啟窗扉 và cột Bản dịch của Ngô Tất Tố"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): tách từ mục gộp của bản ghi `wikisource.vi.thi-de-tu` (trang doc/tho-van-ly-tran); chữ của mục là một đoạn nguyên văn của mục gộp đã kiểm, claim chép từ bằng chứng của khóa đó; cập nhật mã băm, không mở lại nguồn."
+}

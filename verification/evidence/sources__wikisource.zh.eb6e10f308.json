@@ -1,0 +1,46 @@
+{
+  "unit": "sources/wikisource.zh.eb6e10f308",
+  "hash": "sha256:bec13aaecba3f864ba1c693713ecb52f9d532e374ce115d3c14c5fb27abd2323",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r03",
+  "claims": [
+    {
+      "text": "Trần Nhân Tông sinh năm 1258 (Bản kỷ quyển 5)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "以元豊八年戊午十一月十一日誕生",
+          "where": "mục 仁宗皇帝; 戊午 = 1258"
+        }
+      ]
+    },
+    {
+      "text": "Lên ngôi 1278 (quyển 5)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "冬十月二十二日，帝禅位于皇太子昑。昑即皇帝位",
+          "where": "mục 戊寅六年 (1278), triều Thánh Tông"
+        }
+      ]
+    },
+    {
+      "text": "Nhường ngôi 1293 (quyển 5)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之五",
+          "quote": "癸巳九年〈三月以後英宗興隆元年，元至元三十年〉春三月九日，帝禪位于皇太子烇即皇帝位。",
+          "where": "mục 癸巳 (1293), phần Nhân Tông"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "10/11/2026 (sổ sách, Claude): bản ghi mới cho Bản kỷ quyển 5 (hồ sơ Trần Nhân Tông), theo đề nghị trong bằng chứng của `wikisource.zh.a1c4f2e4b8`; claim các mốc 1258, 1278, 1293 (nguồn: chính trang quyển 5) chép từ bằng chứng đó; cập nhật mã băm, không mở lại nguồn."
+}

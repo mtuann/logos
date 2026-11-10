@@ -1,65 +1,34 @@
 {
   "unit": "sources/sep.chinese-room",
-  "hash": "sha256:004ac7e2cfaba1441942c2049fd42cff38fa56739dd0f417abd926d332d6ab5c",
+  "hash": "sha256:9d4af2a3c8df2828549582e54ba00f55d5f307165797671d964ff59a410fc8d0",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s03",
+  "checker": "agent-kiem-5.2-x01",
   "claims": [
     {
-      "text": "Mục \"The Chinese Room Argument\" có thật; URL bản lưu fall2026/chinese-room mở được và đúng tên mục",
+      "text": "Mục SEP \"The Chinese Room Argument\" có thật; URL bản lưu fall2026/chinese-room mở được và đúng tên mục",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
-          "quote": "The Chinese Room Argument"
+          "quote": "The Chinese Room Argument",
+          "where": "tiêu đề trang (mở được, HTTP 200)"
         }
       ]
     },
     {
-      "text": "Mục \"The Turing Test\" có thật; URL bản lưu fall2026/turing-test mở được và đúng tên mục",
+      "text": "Tác giả mục: David Cole",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
-          "quote": "The Turing Test"
-        }
-      ]
-    },
-    {
-      "text": "Mục \"Functionalism\" có thật; URL bản lưu fall2026/functionalism mở được và đúng tên mục",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/functionalism/",
-          "quote": "Functionalism"
-        }
-      ]
-    },
-    {
-      "text": "Mục \"Consciousness\" có thật; URL bản lưu fall2026/consciousness mở được và đúng tên mục",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/consciousness/",
-          "quote": "Consciousness"
-        }
-      ]
-    },
-    {
-      "text": "Mục \"Other Minds\" có thật; URL bản lưu fall2026/other-minds mở được và đúng tên mục",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/other-minds/",
-          "quote": "Other Minds"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Copyright © 2024 by David Cole",
+          "where": "dòng bản quyền cuối đầu trang"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Bản ghi không nêu tác giả; trang cho: Cole (Chinese Room), Dowe (Turing Test), Levin (Functionalism), Van Gulick (Consciousness), Avramides (Other Minds)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-x01): tên mục và tác giả khớp bản ghi; bản lưu fall2026 mở được ngày 2026-11-10. Bằng chứng cũ (gộp 5 mục) chỉ giữ claim tên mục Chinese Room; các claim về mục khác thuộc bản ghi riêng của chúng."
 }

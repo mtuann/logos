@@ -1,6 +1,6 @@
 {
   "unit": "sources/gutenberg.18269",
-  "hash": "sha256:58050fc2b1fe8b8312efa156608b3ab7a29105ad4c709e518af62e7096bd10d3",
+  "hash": "sha256:1354b4dc9b7a1951ca435c80fb197ee2a8f5418bdc6eeb310b8e5f54e2caf657",
   "checked_on": "2026-11-10",
   "checker": "agent-kiem-5.2-u01",
   "claims": [
@@ -57,5 +57,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): giữ các claim dung cũ; vế dịch giả Trotter nay có nguồn: nhiều sách học thuật (Google Books) dẫn đúng bản Dutton 1958 là 'Pascal's Pensées, trans. W. F. Trotter, intro. T. S. Eliot'; Google Books cũng liệt kê bản gốc 'Translated by W.F. Trotter. [With an Introduction by T.S. Eliot.]' (1931). Trang ebook Gutenberg không nêu tên dịch giả (chỉ Eliot là 'Author of introduction'); mối nối Gutenberg = bản Trotter dựa vào dòng 'Published 1958 by E. P. Dutton' ở claim cũ và chú thích học thuật. Nguồn Google Books là đoạn trích (không phải bìa sách); nếu muốn chắc hơn nên dẫn trang tên bản scan (archive.org pascalspenses00pasc bị hạn chế mượn)."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-u01): giữ các claim dung cũ; vế dịch giả Trotter nay có nguồn: nhiều sách học thuật (Google Books) dẫn đúng bản Dutton 1958 là 'Pascal's Pensées, trans. W. F. Trotter, intro. T. S. Eliot'; Google Books cũng liệt kê bản gốc 'Translated by W.F. Trotter. [With an Introduction by T.S. Eliot.]' (1931). Trang ebook Gutenberg không nêu tên dịch giả (chỉ Eliot là 'Author of introduction'); mối nối Gutenberg = bản Trotter dựa vào dòng 'Published 1958 by E. P. Dutton' ở claim cũ và chú thích học thuật. Nguồn Google Books là đoạn trích (không phải bìa sách); nếu muốn chắc hơn nên dẫn trang tên bản scan (archive.org pascalspenses00pasc bị hạn chế mượn). | 10/11/2026 (sổ sách, Claude): chữ mới của bản ghi trùng đúng một cách ghi trong `texts_seen` cũ (đã kiểm ở trên); lượt thống nhất cách ghi 5.2 (quyết định 36); cập nhật mã băm, không mở lại nguồn."
 }

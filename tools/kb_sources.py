@@ -37,6 +37,26 @@ SEP_QUARTER = "fall2026"   # quyết định 14: bản lưu SEP dùng trên site
 SEP_ARCHIVE = re.compile(r"https?://plato\.stanford\.edu/archives/%s/entries/([A-Za-z0-9_.-]+)/" % SEP_QUARTER)
 URL = re.compile(r"<(https?://[^>\s]+)>|\]\((https?://[^)\s]+)\)|(?<![<(\w])(https?://[^\s)>\]]+)")
 ITEM = re.compile(r"^(?:\d+\.|[-*+])\s+")
+# Quyết định 36 (đợt 5.2, Claude chọn tạm): mỗi mục Nguồn một tác phẩm. Mục có nhiều URL được giữ khi mọi URL thuộc
+# cùng một tác phẩm (bản điện tử khác, bản dịch, nguyên văn, các chương/thiên); mục gộp nhiều tác phẩm thì tách.
+# Bản ghi đã duyệt (khóa → lý do) hiện ở danh sách lệch mục "đã duyệt", không tính là mục mở.
+NHIEU_URL_DUYET = {
+    "ctext.mengzi-gong-sun-chou-i": "*Mạnh Tử*: ba thiên 2A, 3B, 6A",
+    "ctext.mengzi-teng-wen-gong-i": "*Mạnh Tử*: hai thiên 3A, 3B",
+    "ctext.mozi-universal-love-i": "*Mặc Tử*: năm thiên",
+    "doi.10-3998-phimp-2109": "bài báo khảo sát PhilPapers 2020 và trang kết quả của chính khảo sát",
+    "web.archive-org.details-cu31924029021612": "bài của Kant (1797): bản dịch Abbott và nguyên văn Akademie-Ausgabe",
+    "wikisource.de.beantwortung-der-frage-was-ist-aufklarung": "bài của Kant (1784): bản in gốc và Akademie-Ausgabe",
+    "wikisource.en.meditations-on-first-philosophy-meditation-i": "*Meditations* của Descartes: bản dịch Veitch và Molyneux",
+    "wikisource.en.the-problems-of-philosophy-chapter-15": "*The Problems of Philosophy*: Wikisource và Gutenberg",
+    "wikisource.vi.binh-ngo-dai-cao-tran-trong-kim-dich": "*Bình Ngô đại cáo*: hai bản dịch (Trần Trọng Kim; Mạc Bảo Thần)",
+    "wikisource.vi.cu-tran-lac-dao-phu-de-ngu-hoi": "*Cư trần lạc đạo phú*: hội 5 và bài kệ kết",
+    "wikisource.zh.d8922572ee": "*Đại Việt sử ký toàn thư*: Bản kỷ quyển 10 và 11",
+}
+# Link http:// được giữ (tiền tố URL → lý do).
+HTTP_DUYET = {
+    "http://news.bbc.co.uk/": "trang lưu của BBC News chỉ chạy http (mở bằng https bị chuyển về http)",
+}
 HEAD = ("# Kho nguồn: mỗi mục Nguồn (trang viết tay, hồ sơ triết gia) một bản ghi. RÚT TỰ ĐỘNG bằng tools/kb_sources.py;\n"
         "# chỉ các trường accessed, verified được sửa ở đây (tool giữ nguyên khi rút lại). Schema: schema/kb/sources.schema.json.\n")
 
@@ -133,8 +153,6 @@ def extract(root: Path = ROOT) -> tuple[dict, dict]:
             ident = norm_url(first) if first else "sach:" + text   # sách: chỉ gộp khi ghi giống hệt
         if not first:
             stats["no_url"] += 1
-        if len(urls) > 1:
-            stats["multi"].append((where, text))
         stats["http"] += [(where, u) for u in urls if u.startswith("http://")]
         key = by_norm.get(ident)
         if key is None:
@@ -151,6 +169,8 @@ def extract(root: Path = ROOT) -> tuple[dict, dict]:
                 recs[key]["archive"] = first
             recs[key]["used_in"] = []
         r = recs[key]
+        if len(urls) > 1:
+            stats["multi"].append((where, text, key))
         if text != r["text"] and text not in r.get("texts_seen", []):
             r.setdefault("texts_seen", []).append(text)
         for u in urls[1:]:
@@ -188,19 +208,31 @@ def render_lech(recs: dict, stats: dict) -> str:
          "- Theo loại: " + ", ".join(f"{t} {n}" for t, n in sorted(by_type.items())) + ".",
          f"- {stats['no_url']} mục không có URL (sách in, hoặc thiếu link).", "",
          f"## Cùng một nguồn, chữ khác nhau ({len(multi_text)})", "",
-         "Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau: thống nhất ở đợt 5.", ""]
-    for k, r in multi_text:
-        L.append(f"- `{k}` ({len(r['texts_seen']) + 1} cách ghi; dùng ở {', '.join(f'`{u}`' for u in r['used_in'])})")
+         "Cùng URL đầu nhưng các trang ghi tác giả, tiêu đề, năm khác nhau: thống nhất ở đợt 5 (cách ghi giống nhau ở mọi "
+         "trang và hồ sơ; vị trí và chú thích riêng của trang đặt ở câu trước danh sách Nguồn, quyết định 36).", ""]
+    L += [f"- `{k}` ({len(r['texts_seen']) + 1} cách ghi; dùng ở {', '.join(f'`{u}`' for u in r['used_in'])})"
+          for k, r in multi_text] or ["Không còn mục mở."]
     dup = [k for k in recs if re.match(r"(.*)-\d+$", k) and re.match(r"(.*)-\d+$", k).group(1) in recs
            and recs[re.match(r"(.*)-\d+$", k).group(1)]["type"] == recs[k]["type"]]
     L += ["", f"## Sách có thể trùng ({len(dup)})", "",
           "Sách in không có URL, ghi gần giống nhau ở các trang (khác chương, trang, nhà xuất bản): xem có phải một nguồn.", ""]
-    L += [f"- `{k}`: {recs[k]['text']}" for k in dup]
-    L += ["", f"## Mục có nhiều URL ({len(stats['multi'])})", "",
-          "Bản ghi lấy URL đầu; các URL sau ghi ở `also`. Xem có nên tách thành nhiều mục Nguồn không.", ""]
-    L += [f"- `{w}`: {t}" for w, t in stats["multi"]]
-    L += ["", f"## Link http:// ({len(stats['http'])})", ""]
-    L += [f"- `{w}`: <{u}>" for w, u in stats["http"]]
+    L += [f"- `{k}`: {recs[k]['text']}" for k in dup] or ["Không còn mục mở."]
+    open_multi = [(w, t) for w, t, k in stats["multi"] if k not in NHIEU_URL_DUYET]
+    ok_keys = sorted({k for _, _, k in stats["multi"] if k in NHIEU_URL_DUYET})
+    n_ok = sum(1 for _, _, k in stats["multi"] if k in NHIEU_URL_DUYET)
+    L += ["", f"## Mục có nhiều URL, chưa duyệt ({len(open_multi)})", "",
+          "Bản ghi lấy URL đầu; các URL sau ghi ở `also`. Mục gộp nhiều tác phẩm thì tách mỗi tác phẩm một mục; mục mà mọi "
+          "URL thuộc cùng một tác phẩm thì ghi vào `NHIEU_URL_DUYET` trong `tools/kb_sources.py` (quyết định 36).", ""]
+    L += [f"- `{w}`: {t}" for w, t in open_multi] or ["Không còn mục mở."]
+    L += ["", f"## Mục có nhiều URL, đã duyệt: cùng một tác phẩm ({n_ok} mục, {len(ok_keys)} bản ghi)", ""]
+    L += [f"- `{k}`: {NHIEU_URL_DUYET[k]} (dùng ở {', '.join(f'`{u}`' for u in recs[k]['used_in'])})" for k in ok_keys]
+    open_http = [(w, u) for w, u in stats["http"] if not any(u.startswith(p) for p in HTTP_DUYET)]
+    ok_http = [(w, u) for w, u in stats["http"] if any(u.startswith(p) for p in HTTP_DUYET)]
+    L += ["", f"## Link http:// ({len(open_http)})", ""]
+    L += [f"- `{w}`: <{u}>" for w, u in open_http] or ["Không còn mục mở."]
+    if ok_http:
+        L += ["", f"## Link http:// đã duyệt ({len(ok_http)})", ""]
+        L += [f"- `{w}`: <{u}> — {next(v for p, v in HTTP_DUYET.items() if u.startswith(p))}" for w, u in ok_http]
     return "\n".join(L) + "\n"
 
 

@@ -118,7 +118,7 @@ Khóa thêm hậu tố; `locator` phân biệt các khối (`lint_quotes` báo k
 - `russell.the-problems-of-philosophy-4`: "Russell, *The Problems of Philosophy* (1912), chương XV, đoạn 9 và 12 — nguyên văn, bản in 1912" — `locator`: chương XV, đoạn 9 và 12
 - `thomas-hobbes.leviathan-2`: "Thomas Hobbes, *Leviathan* (1651), chương 13 — nguyên văn tiếng Anh, chính tả theo bản in đầu tiên" — `locator`: chương 13
 - `tran-nhan-tong.cu-tran-lac-dao-phu-2`: "Trần Nhân Tông, *Cư trần lạc đạo phú*, hội thứ năm — chữ Nôm và phiên âm quốc ngữ theo Wikisource tiếng Việt" — `locator`: hội thứ năm
-- `trich.binh-ngo-dai-cao-theo-toan-thu-2`: "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos" — `locator`: Toàn thư, Bản kỷ thực lục quyển 10; đoạn tội ác giặc Minh
-- `trich.binh-ngo-dai-cao-theo-toan-thu-3`: "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos" — `locator`: Toàn thư, Bản kỷ thực lục quyển 10; ba câu cách xa nhau
+- `trich.binh-ngo-dai-cao-theo-toan-thu-2`: "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos" — `locator`: Toàn thư, Bản kỷ quyển 10; đoạn tội ác giặc Minh
+- `trich.binh-ngo-dai-cao-theo-toan-thu-3`: "*Bình Ngô đại cáo* (theo Toàn thư) — nguyên văn, phiên âm, bản dịch của Logos" — `locator`: Toàn thư, Bản kỷ quyển 10; ba câu cách xa nhau
 - `trich.tam-kinh-t251-2`: "Tâm kinh (T251) — nguyên văn, phiên âm, bản dịch của Logos" — `locator`: T251, đoạn “Thị chư pháp không tướng”
 - `tuan-tu.tuan-tu-2`: "Tuân Tử, *Tuân Tử*, thiên 1 “Khuyến học” (勸學), đoạn mở đầu — nguyên văn chữ Hán và phiên âm Hán Việt" — `locator`: thiên 1 Khuyến học, đoạn mở đầu

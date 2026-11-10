@@ -174,10 +174,10 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-Mục SEP "Buddha": các khái niệm Phật giáo chung (con đường tu tập, xuất thế). Sách *When the Clouds Part* của Brunnhölzl: Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*.
+Mục SEP "Buddha": các khái niệm Phật giáo chung (con đường tu tập, xuất thế). Sách *When the Clouds Part* của Brunnhölzl: Phật tính (*tathāgatagarbha*) trong kinh *Đại Bát Niết-bàn*. Văn bản *Cư trần lạc đạo phú* của Trần Nhân Tông theo *Thơ văn Lý–Trần*.
 
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
-2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội — văn bản "Cư trần lạc đạo phú" của Trần Nhân Tông.
+2. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 3. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 4. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
 5. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>

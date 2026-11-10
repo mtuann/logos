@@ -190,7 +190,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-Đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, phần 1, mục 1.
+Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, phần 1, mục 1; Herodotus, *The History*, quyển III, chương 38.
 
 1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaethics/>
 2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-realism/>
@@ -199,7 +199,7 @@ Gợi ý độ dài: 200–350 chữ.
 5. Gowans, Chris, "Moral Relativism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-relativism/>
 6. Bagnoli, Carla, "Constructivism in Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/constructivism-metaethics/>
 7. Westacott, Emrys, "Moral Relativism", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/moral-re/>
-8. Herodotus, *Histories*, quyển III, chương 38. Bản dịch tiếng Anh của G. C. Macaulay (1890, phạm vi công cộng). <https://www.gutenberg.org/ebooks/2707>
+8. Herodotus, *The History*, bản dịch tiếng Anh của G. C. Macaulay (1890), Project Gutenberg. <https://www.gutenberg.org/ebooks/2707>
 9. Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>
 10. Moore, G. E. (1903), *Principia Ethica*, Cambridge: Cambridge University Press, §13 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/53430>
 11. Mackie, J. L. (1977), *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin, chương 1.

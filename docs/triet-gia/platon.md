@@ -78,7 +78,7 @@ Platon rải lập luận này qua nhiều đối thoại (*Phaedo*, *Cộng hò
 2. Brickhouse, Thomas & Nicholas D. Smith, “Plato”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/plato/>
 3. Rickless, Samuel, "Plato's Parmenides", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/>
 4. Brown, Eric, "Plato's Ethics and Politics in The Republic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/>
-5. Platon, *The Republic*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1497>
+5. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 6. Platon, *Phaedo*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1658>
 
 ---
