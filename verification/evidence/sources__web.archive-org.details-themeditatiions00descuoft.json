@@ -2,7 +2,7 @@
   "unit": "sources/web.archive-org.details-themeditatiions00descuoft",
   "hash": "sha256:d7d51053e24a22a53b65790b9d88a05636e374d43df7276da3d5343a98d105c6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s17",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
       "text": "Descartes, The Meditations and Selections from the Principles, dịch John Veitch, Chicago: Open Court, 1913",
@@ -17,10 +17,17 @@
     },
     {
       "text": "Có lời nhà xuất bản về các phần thêm từ bản tiếng Pháp",
-      "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/themeditatiions00descuoft/themeditatiions00descuoft_djvu.txt",
+          "quote": "the additions and variations of the French version have also been given",
+          "where": "PUBLISHERS' PREFACE, tr. iii; thêm trong ngoặc vuông, khác biệt trong chú thích"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Biểu ghi chỉ nói có “preface”; chưa đọc nội dung lời nhà xuất bản."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): đọc toàn văn OCR; trang tựa ghi Open Court 1913 và có 'PUBLISHERS' PREFACE' nói về phần thêm/khác biệt từ bản Pháp."
 }

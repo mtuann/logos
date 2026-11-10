@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.1001",
   "hash": "sha256:462853f1aa5bb23410963fe85ab533326b5560d2b7a475b14320cc0317368460",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 1001 là Divine Comedy (Hell) của Dante Alighieri",
@@ -10,7 +10,7 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1001",
+          "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html",
           "quote": "Divine Comedy, Longfellow's Translation, Hell"
         }
       ]
@@ -21,17 +21,36 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1001",
-          "quote": "Longfellow, Henry Wadsworth, 1807-1882"
+          "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html",
+          "quote": "Translator: Henry Wadsworth Longfellow"
         }
       ]
     },
     {
-      "text": "Khúc IV (vị trí trích) — trang ebook không liệt kê từng khúc",
+      "text": "Khúc IV (Inferno: Canto IV) — locator",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html",
+          "quote": "Inferno: Canto IV",
+          "where": "văn bản ebook; khúc này có dòng 'Galen, Hippocrates, and Avicenna, / Averroes, who the great Comment made.' khớp used_in people/averroes, people/avicenna"
+        }
+      ]
+    },
+    {
+      "text": "Khúc IV có nhắc Averroes và Avicenna",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/1001/pg1001-images.html",
+          "quote": "Averroes, who the great Comment made.",
+          "where": "trong Canto IV"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Khúc IV chưa đối chiếu với văn bản; đề xuất kiểm bằng văn bản ebook (Canto IV, Limbo)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Cả ba claim đã đối chiếu trên văn bản ebook (cả Avicenna lẫn Averroes xuất hiện trong Canto IV, Limbo)."
 }

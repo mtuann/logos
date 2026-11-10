@@ -2,7 +2,7 @@
   "unit": "sources/web.korpora-org.kant-aa04-429-html",
   "hash": "sha256:51225c860c3ec3f599245f97cd3f3b049d6aa2c3e4cd3b9148a1e8948ab82548",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
       "text": "URL trỏ đúng Grundlegung zur Metaphysik der Sitten, Akademie-Ausgabe IV, tr. 429",
@@ -11,28 +11,48 @@
       "sources": [
         {
           "url": "https://www.korpora.org/Kant/aa04/429.html",
-          "quote": "Kant: AA IV, Grundlegung zur Metaphysik der ...",
-          "where": "đầu trang"
+          "quote": "Kant: AA IV, Grundlegung zur Metaphysik der ... , Seite 429",
+          "where": "tiêu đề trang"
         }
       ]
     },
     {
-      "text": "Bài \"Über ein vermeintes Recht aus Menschenliebe zu lügen\" nằm ở AA VIII (trang 425 là một trang của bài)",
+      "text": "Bài 'Über ein vermeintes Recht aus Menschenliebe zu lügen' nằm ở AA VIII",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://www.korpora.org/Kant/aa08/425.html",
-          "quote": "Kant: AA VIII, Über ein vermeintes Recht ... , Seite 425"
+          "quote": "Kant: AA VIII, Über ein vermeintes Recht ... , Seite 425",
+          "where": "lượt trước"
         }
       ]
     },
     {
-      "text": "Năm 1785 (Grundlegung) và 1797 (bài về quyền nói dối): korpora.org không ghi năm",
+      "text": "Grundlegung zur Metaphysik der Sitten xuất bản năm 1785 (Riga, Hartknoch)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1785: Grundlegung zur Metaphysik der Sitten Riga 1785, Hartknoch",
+          "where": "mục thư mục tác phẩm Kant, de.wikisource (kết quả tìm kiếm API); ADB cũng ghi (1785)"
+        }
+      ]
+    },
+    {
+      "text": "'Über ein vermeintes Recht aus Menschenliebe zu lügen' xuất bản năm 1797",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1797: Über ein vermeintes Recht aus Menschenliebe zu lügen",
+          "where": "mục thư mục tác phẩm Kant, de.wikisource; ADB: „Ueber ein vermeintes Recht, aus Menschenliebe zu lügen“ (1797)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ còn năm xuất bản chưa mở được nguồn xác nhận (korpora không có năm). Nguồn korpora tốt cho văn bản AA."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): năm 1785 và 1797 đối chiếu qua de.wikisource (danh mục tác phẩm Kant, đọc qua API tìm kiếm của site) và ADB; korpora.org không ghi năm nên nguồn năm là Wikisource (cùng hạng nguồn văn bản gốc). Bài 1797 nằm ở AA VIII (không phải tr. 429 của AA IV): mục ghi chung một URL cho hai tác phẩm, nên thêm https://www.korpora.org/Kant/aa08/425.html."
 }

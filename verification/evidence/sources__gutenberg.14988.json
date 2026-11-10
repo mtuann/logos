@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.14988",
   "hash": "sha256:fe6e9a8b7b2fcae57adacc1b9724f15591d21c64f87e43da1f4cd83890843ffb",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 14988 chứa Cicero, On the Nature of the Gods (cùng Tusculan Disputations, On the Commonwealth)",
@@ -10,9 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/14988",
-          "quote": "Also, Treatises On The Nature Of The Gods, And On The Commonwealth",
-          "where": "trường Title"
+          "url": "https://www.gutenberg.org/cache/epub/14988/pg14988-images.html",
+          "quote": "ALSO, TREATISES ON THE NATURE OF THE GODS, AND ON THE COMMONWEALTH",
+          "where": "trang tựa trong văn bản ebook"
         }
       ]
     },
@@ -22,17 +22,25 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/14988",
-          "quote": "Yonge, Charles Duke, 1812-1891"
+          "url": "https://www.gutenberg.org/cache/epub/14988/pg14988-images.html",
+          "quote": "LITERALLY TRANSLATED, CHIEFLY BY C. D. YONGE.",
+          "where": "trang tựa; in New York: Harper & Brothers, 1877"
         }
       ]
     },
     {
-      "text": "Vị trí III.22–23 — chưa đối chiếu văn bản",
+      "text": "De Natura Deorum III.22–23 (số đoạn chuẩn) là lập luận tam đoạn luận của Zeno (và phản bác 'thế giới biết đọc sách')",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelatinlibrary.com/cicero/nd3.shtml",
+          "quote": "Zeno enim ita concludit: 'Quod ratione utitur, id melius est quam id, quod ratione non utitur",
+          "where": "đoạn [22]–[23], Cotta nói; bản Yonge trên Gutenberg đánh số chương riêng: đoạn này nằm ở Quyển III, chương IX (Yonge), không phải 'XXII'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Tiêu đề ebook là 'Cicero's Tusculan Disputations' (kèm Nature of the Gods) — nên ghi rõ điều này; nếu trích văn bản, III.22–23 cần đối chiếu."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Locator 'III.22–23' đúng theo số đoạn chuẩn (Latin Library), nhưng ebook Gutenberg dùng số chương của Yonge: đoạn Zeno nằm ở 'BOOK III' chương IX; chương XXII–XXIII của Yonge nói về nhiều Vulcan/Mercury/Aesculapius. Người làm nên ghi rõ 'số đoạn chuẩn (không phải số chương Yonge)'. Tiêu đề ebook là 'Cicero's Tusculan Disputations; also treatises on the Nature of the Gods...'."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.15877",
   "hash": "sha256:114eb62b5ddd40bbaddecf82cbc82037be52b204dbe375df9457d73e557e8082",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 15877 là Thoughts of Marcus Aurelius Antoninus",
@@ -11,7 +11,8 @@
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/15877",
-          "quote": "Thoughts of Marcus Aurelius Antoninus"
+          "quote": "Thoughts of Marcus Aurelius Antoninus",
+          "where": "(từ lượt trước)"
         }
       ]
     },
@@ -22,7 +23,8 @@
       "sources": [
         {
           "url": "https://www.gutenberg.org/ebooks/15877",
-          "quote": "Long, George, 1800-1879"
+          "quote": "Long, George, 1800-1879",
+          "where": "(từ lượt trước)"
         }
       ]
     },
@@ -33,5 +35,5 @@
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không ghi năm 1862; cần nguồn ngoài. Tiểu sử người dịch kèm trong ebook (texts_seen) chưa đối chiếu."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Trang ebook và văn bản không ghi năm. Internet Archive chỉ trả bản Altemus 1880 (thoughtsofmarcus00marc) trong khoảng 1860-1880; chưa thấy bản 1862 trên IA/Open Library (Open Library chỉ ra các bản in lại hiện đại). Cần tra thư mục (WorldCat/Google Books: 'The Thoughts of the Emperor Marcus Aurelius Antoninus', London: Bell & Daldy, 1862)."
 }

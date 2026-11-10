@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sach.w-v-quine-1951-two-dogmas-of-empiricism-the-philosophical-re",
+  "hash": "sha256:58c4f711a2236af6c6edfa92bf2d33df162221d4d17b5f1bd9510632396cf33d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r23",
+  "claims": [
+    {
+      "text": "Quine, \"Two Dogmas of Empiricism\", The Philosophical Review 60, 1951",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2181906",
+          "quote": "container-title: The Philosophical Review; volume 60; issue 1; page 20; issued 1951-01; author Quine",
+          "where": "Crossref (tiêu đề Crossref ghi kèm 'Main Trends in Recent Philosophy: Two Dogmas of Empiricism')"
+        }
+      ]
+    },
+    {
+      "text": "Quine (1960), Word and Object, Cambridge, MA: MIT Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Word+and+Object+Quine",
+          "quote": "title Word and object; author Willard Van Orman Quine; first_publish_year 1960; publisher M.I.T. Press",
+          "where": "Open Library, work OL2910272W"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r23): Link đề xuất: bài báo https://doi.org/10.2307/2181906 (Crossref khớp); sách https://openlibrary.org/works/OL2910272W . Không thấy nhà xuất bản ghi 'MIT Press' đúng nguyên văn nhưng 'M.I.T. Press' là cùng nhà; trang đầu bài 20-43 chưa đối chiếu trang cuối."
+}

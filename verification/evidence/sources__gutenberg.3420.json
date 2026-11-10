@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.3420",
   "hash": "sha256:5e35bc2d19ce579bb4e8ed61c9a2a17734d907e7d521be4e7830187406d25398",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 3420 là A Vindication of the Rights of Woman của Mary Wollstonecraft",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3420",
-          "quote": "A Vindication of the Rights of Woman"
+          "url": "https://www.gutenberg.org/cache/epub/3420/pg3420-images.html",
+          "quote": "A VINDICATION OF THE RIGHTS OF WOMAN, WITH STRICTURES ON POLITICAL AND MORAL SUBJECTS, BY MARY WOLLSTONECRAFT"
         }
       ]
     },
@@ -21,9 +21,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3420",
-          "quote": "a feminist essay written in 1792",
-          "where": "summary tự sinh (nguồn yếu)"
+          "url": "https://archive.org/advancedsearch.php?q=title:(vindication rights woman) AND date:[1792-01-01 TO 1792-12-31]",
+          "quote": "A vindication of the rights of woman: with strictures on political and moral subjects. By Mary Wollstonecraft. 1792",
+          "where": "API Internet Archive, bản scan 1792 (bim_eighteenth-century_...); lượt trước cũng có summary Gutenberg 'written in 1792'"
         }
       ]
     },
@@ -34,5 +34,5 @@
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "Nhà xuất bản J. Johnson (1792) chưa kiểm từ trang ebook; cần Internet Archive."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): tiểu sử trong ebook ghi 'In 1787 she made, or received, proposals from Johnson, a publisher in London' (không nói trực tiếp về ấn bản 1792). Internet Archive có bản 1796 'J. Johnson' và 'Posthumous works ... J. Johnson' (1798); các bản 1792 tìm được là Boston (Edes) hoặc W. Scott, chưa thấy trang tựa ấn bản London 1792 'Printed for J. Johnson'. Đề xuất người làm xác nhận ở Internet Archive hoặc ghi 'London: J. Johnson' kèm nguồn trang tựa."
 }

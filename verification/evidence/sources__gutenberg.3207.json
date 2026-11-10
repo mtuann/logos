@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.3207",
   "hash": "sha256:a8337154747fe3604a94e6a3d3fd3377cc786adabd0b2e08c20e8c048cdb9dc6",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 3207 là Leviathan của Thomas Hobbes",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3207",
-          "quote": "Leviathan"
+          "url": "https://www.gutenberg.org/cache/epub/3207/pg3207-images.html",
+          "quote": "LEVIATHAN By Thomas Hobbes 1651"
         }
       ]
     },
@@ -21,9 +21,19 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3207",
-          "quote": "1651",
-          "where": "summary tự sinh trên trang ebook (nguồn yếu)"
+          "url": "https://www.gutenberg.org/cache/epub/3207/pg3207-images.html",
+          "quote": "Printed for Andrew Crooke, at the Green Dragon in St. Paul’s Churchyard, 1651"
+        }
+      ]
+    },
+    {
+      "text": "Hobbes, Leviathan chương 13 — vị trí trích",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/3207/pg3207-images.html",
+          "quote": "CHAPTER XIII.OF THE NATURALL CONDITION OF MANKIND, AS CONCERNING THEIR FELICITY, AND MISERY"
         }
       ]
     },
@@ -35,21 +45,51 @@
         {
           "url": "https://www.gutenberg.org/ebooks/15349",
           "quote": "The works of John Dryden, now first collected in eighteen volumes. Volume 04",
-          "where": "trang ebook 15349: tập 4 chứa 'Almanzor and Almahide, or the Conquest of Granada'"
+          "where": "kết quả lượt trước: tập 4 chứa 'Almanzor and Almahide, or the Conquest of Granada'"
         }
       ]
     },
     {
-      "text": "Hobbes, Leviathan chương 13 — vị trí trích",
+      "text": "Năm 1672 của The Conquest of Granada",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=conquest+of+granada&author=dryden",
+          "quote": "The conquest of Granada by the Spaniards ; John Dryden ; 1672",
+          "where": "API Open Library: first_publish_year 1672, nhà in Henry Herringman (mô tả ghép các trường)"
+        }
+      ]
     },
     {
-      "text": "Năm 1672 của The Conquest of Granada; Rousseau (1755) Discours, bản Genève 1782 (Wikisource); Ellingson (2001), The Myth of the Noble Savage, University of California Press — chưa mở nguồn",
+      "text": "Rousseau, Discours sur l'origine et les fondemens de l'inégalité, bản Genève 1782 (Wikisource) và năm 1755",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Collection_compl%C3%A8te_des_%C5%93uvres_de_J._J._Rousseau/Tome_1/Texte_entier",
+          "quote": "Tome premier : Contenant les ouvrages de Politique",
+          "where": "trang Tome 1 ghi 's.n., 1782, Genève', văn bản có chữ 'l’inégalité qu’ils ont instituée' (Dédicace à la République de Genève); năm 1755 từ kết quả tìm của Wikisource"
+        },
+        {
+          "url": "https://fr.wikisource.org/w/api.php?action=query&list=search&srsearch=Discours+sur+l%27origine+et+les+fondements+de+l%27in%C3%A9galit%C3%A9+parmi+les+hommes+1755",
+          "quote": "Discours sur l’origine et les fondements de l’inégalité parmi les hommes 1755"
+        }
+      ]
+    },
+    {
+      "text": "Ellingson (2001), The Myth of the Noble Savage, University of California Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=myth+of+the+noble+savage&author=ellingson",
+          "quote": "The Myth of the Noble Savage ; Ter Ellingson ; 2001 ; 2001 ; University of California Press",
+          "where": "API Open Library (mô tả ghép các trường)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Mục kèm nhiều nguồn ngoài Gutenberg 3207; chỉ kiểm được Dryden 15349 (tập 4 của Works, Scott, không phải bản in 1672 — nên ghi rõ 'in trong The Works of John Dryden, ed. Walter Scott, tập 4'). Rousseau và Ellingson ngoài lô, chưa kiểm."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): Dryden 15349 là tập 4 của 'The Works of John Dryden' (ed. Scott), không phải bản in 1672 — nên ghi 'in trong The Works of John Dryden, tập 4' hoặc ghi bản in 1672 (Herringman). Ebook Leviathan làm từ bản Pelican Classics (dựa bản đầu 1651). Open Library/Wikisource đọc qua API, nguồn Ellingson là metadata thư mục."
 }

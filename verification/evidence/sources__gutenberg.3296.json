@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.3296",
   "hash": "sha256:2d31f6431871842d3fe967fcbfb14b409e2d8771df103bf50dc6e097256d5b8b",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 3296 là The Confessions of St. Augustine",
@@ -10,8 +10,8 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3296",
-          "quote": "The Confessions of St. Augustine"
+          "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html",
+          "quote": "THE CONFESSIONS OF SAINT AUGUSTINE By Saint Augustine Bishop of Hippo"
         }
       ]
     },
@@ -21,22 +21,36 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/3296",
-          "quote": "E. B. Pusey (Edward Bouverie Pusey, 1800–1882)"
+          "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html",
+          "quote": "Translated by E. B. Pusey (Edward Bouverie)"
         }
       ]
     },
     {
       "text": "Năm bản dịch 1838",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title:(confessions) AND creator:(augustine) AND (pusey OR 1838)",
+          "quote": "The confessions of S. Augustine ; Augustine, Saint, Bishop of Hippo,Pusey, E. B. (Edward Bouverie), 1800-1882 ; Oxford : J. H. Parker",
+          "where": "API Internet Archive, mục ofsau00auguconfessionsrich, date 1838-01-01 (mô tả ghép các trường)"
+        }
+      ]
     },
     {
-      "text": "Quyển XI — vị trí trích",
+      "text": "Quyển XI — vị trí trích (bàn về thời gian)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/3296/pg3296-images.html",
+          "quote": "What then is time? If no one asks me, I know",
+          "where": "nằm trong BOOK XI của ebook (sau tiêu đề 'BOOK XI', trước 'BOOK XII')"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không ghi năm 1838 hay quyển."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): năm 1838 xác nhận qua metadata Internet Archive (bản Oxford: J. H. Parker, 1838), không phải trang ebook. Ebook ghi thêm 'AD 401' là năm viết bản gốc."
 }

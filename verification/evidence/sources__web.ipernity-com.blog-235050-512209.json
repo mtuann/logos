@@ -2,25 +2,45 @@
   "unit": "sources/web.ipernity-com.blog-235050-512209",
   "hash": "sha256:fd18f5f15ce587dbf8d58624279cfebaf0eee8b8632f699843d94cf2900cf927",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
-      "text": "Tên bài \"Who is Tran Duc Thao? Life and Work of a Vietnamese Philosopher\", tác giả Alexandre Féron",
+      "text": "Tên bài 'Who is Tran Duc Thao? Life and Work of a Vietnamese Philosopher', tác giả Alexandre Féron",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://ipernity.com/blog/235050/512209",
-          "quote": "Who is Tran Duc Thao? Life and Work of a Vietnamese Philosopher"
+          "quote": "Who is Tran Duc Thao? Life and Work of a Vietnamese Philosopher",
+          "where": "tác giả Féron xác nhận ở bài gốc Contretemps"
         }
       ]
     },
     {
-      "text": "\"bản dịch tiếng Anh bài viết của tác giả\": trang không ghi rõ người dịch, chỉ có liên kết \"See the original\" tới contretemps.eu",
+      "text": "Tác giả bài gốc là Alexandre Féron",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.contretemps.eu/qui-est-tran-duc-thao-vie-et-oeuvre-dun-philosophe-vietnamien/",
+          "quote": "L’auteur, Alexandre Féron est doctorant en philosophie.",
+          "where": "bài gốc 'Qui est Tran Duc Thao ? Vie et œuvre d'un philosophe vietnamien'"
+        }
+      ]
+    },
+    {
+      "text": "Trang ipernity là bản dịch tiếng Anh của bài gốc (người dịch không ghi)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ipernity.com/blog/235050/512209",
+          "quote": "See the original www.contretemps.eu/qui-est-tran-duc-thao-vie-et-oeuvre-dun-philosophe-vietnamien for references.",
+          "where": "đăng bởi 'Dam Son', 24 Apr 2021; có dòng 'Vietnamese translation' và 'Italian translation'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Nguồn yếu: blog ipernity do người khác đăng (Dam Son, 24/4/2021), không phải trang của tác giả hay tạp chí. Đề xuất link bản gốc Contretemps (contretemps.eu) hoặc bản in thay thế."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): NGUỒN YẾU, blog ipernity do người dùng 'Dam Son' đăng 24/4/2021, trang không nêu rõ người dịch. Nên dẫn bản gốc tiếng Pháp tại https://www.contretemps.eu/qui-est-tran-duc-thao-vie-et-oeuvre-dun-philosophe-vietnamien/ (tác giả Alexandre Féron) hoặc bản Việt tại viet-studies.net/TDThao/Feron_TranDucThaoLaAi.htm."
 }

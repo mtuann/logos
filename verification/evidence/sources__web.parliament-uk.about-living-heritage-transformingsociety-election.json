@@ -1,0 +1,44 @@
+{
+  "unit": "sources/web.parliament-uk.about-living-heritage-transformingsociety-election",
+  "hash": "sha256:70fd6c95fe0c558de3d935197f640be3e1dd7fb92e7e54eb97bf1932d1d2417f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r29",
+  "claims": [
+    {
+      "text": "UK Parliament 'Living Heritage': trang 'Presenting the 1866 petition' (cách ghi trong texts_seen)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/",
+          "quote": "Presenting the 1866 petition",
+          "where": "tiêu đề trang: Presenting the 1866 petition - UK Parliament"
+        }
+      ]
+    },
+    {
+      "text": "Đề nghị sửa đổi của Mill năm 1867 về quyền bầu cử của phụ nữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/",
+          "quote": "On 20 May 1867 Mill tried to amend the Second Reform Bill to replace the word ‘man' with ‘person'."
+        }
+      ]
+    },
+    {
+      "text": "Mill trình thỉnh nguyện thư 1866 về quyền bầu cử của phụ nữ (nội dung trang)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/",
+          "quote": "John Stuart Mill MP presented the first mass women's suffrage petition to the House of Commons on 7 June 1866."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): trang mở được. Hai cách ghi: bản tiếng Việt mô tả theo nội dung đoạn 1867 (đúng); bản 'texts_seen' dùng đúng tiêu đề trang. Nên thống nhất dùng tiêu đề gốc 'Presenting the 1866 petition' và ghi thêm 'đề nghị sửa đổi 1867' trong chú. Trang đề 'Second Reform Bill', không ghi 'Representation of the People Bill'. Nguồn cơ quan chính thức, nguồn mạnh."
+}

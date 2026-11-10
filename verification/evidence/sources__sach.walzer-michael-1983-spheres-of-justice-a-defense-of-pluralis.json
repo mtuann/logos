@@ -1,0 +1,34 @@
+{
+  "unit": "sources/sach.walzer-michael-1983-spheres-of-justice-a-defense-of-pluralis",
+  "hash": "sha256:0992efe949a9d0a3b3b35ce321bafd3d94ebee19b5698ad429ec6f69ce8460c0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.2-r24",
+  "claims": [
+    {
+      "text": "Sách có thật: Michael Walzer, Spheres of Justice: A Defense of Pluralism and Equality",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL3350245W/editions.json",
+          "quote": "Spheres of justice",
+          "where": "Open Library: tiêu đề phụ 'a defense of pluralism and equality'"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1983, nhà xuất bản Basic Books, New York",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/books/OL21314423M.json",
+          "quote": "Basic Books",
+          "where": "Open Library OL21314423M: publish_date 1983, New York"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r24): Open Library có ấn bản Basic Books (New York) 1983 (OL21314423M, OL3512126M) cùng ấn bản Blackwell/Robertson (Oxford) 1983. Link đề xuất: https://openlibrary.org/works/OL3350245W"
+}

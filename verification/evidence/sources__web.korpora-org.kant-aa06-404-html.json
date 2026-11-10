@@ -2,47 +2,74 @@
   "unit": "sources/web.korpora-org.kant-aa06-404-html",
   "hash": "sha256:a62429c9a30c0444bb61414b87c27eda29ca5afc1f64bfce3ed80bb53c837aa1",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r29",
   "claims": [
     {
-      "text": "Die Metaphysik der Sitten, AA VI tr. 404",
+      "text": "Die Metaphysik der Sitten, Ak 6:404 (URL trỏ đúng trang, có chữ Kant)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://korpora.org/Kant/aa06/404.html",
-          "quote": "Kant: AA VI, Die Metaphysik der Sitten. ... , Seite 404"
+          "quote": "Der Unterschied der Tugend vom Laster kann nie in",
+          "where": "Seite 404, Zeile 03; tiêu đề trang: Kant: AA VI, Die Metaphysik der Sitten. ... , Seite 404"
         }
       ]
     },
     {
-      "text": "AA VI tr. 383 thuộc Metaphysik der Sitten",
+      "text": "Ak 6:383–384 thuộc Metaphysik der Sitten (bàn về Tugendpflicht, Tugend và Laster)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.korpora.org/Kant/aa06/383.html",
-          "quote": "Kant: AA VI, Die Metaphysik der Sitten. ... , Seite 383"
+          "url": "https://korpora.org/Kant/aa06/383.html",
+          "quote": "Aller Pflicht correspondirt ein Recht",
+          "where": "Seite 383"
+        },
+        {
+          "url": "https://korpora.org/Kant/aa06/384.html",
+          "quote": "Der Tugend = + a ist die negative Untugend",
+          "where": "Seite 384"
         }
       ]
     },
     {
-      "text": "AA VII tr. 149 thuộc Anthropologie in pragmatischer Hinsicht",
+      "text": "Ak 7:149 thuộc Anthropologie in pragmatischer Hinsicht",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.korpora.org/Kant/aa07/149.html",
-          "quote": "Kant: AA VII, Anthropologie in pragmatischer ... , Seite 149"
+          "url": "https://korpora.org/Kant/aa07/149.html",
+          "quote": "Aber die Angewohnheit ( assuetudo ) ist eine physische innere Nöthigung",
+          "where": "Seite 149; tiêu đề: Kant: AA VII, Anthropologie in pragmatischer ... , Seite 149"
         }
       ]
     },
     {
-      "text": "Năm 1797 (Metaphysik der Sitten) và 1798 (Anthropologie): korpora không ghi năm",
+      "text": "Năm 1797 cho Metaphysik der Sitten và 1798 cho Anthropologie",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1797: Die Metaphysik der Sitten",
+          "where": "danh mục tác phẩm; cùng trang: 1798: Anthropologie in pragmatischer Hinsicht"
+        }
+      ]
+    },
+    {
+      "text": "Aristotle: Ak 6:404 phê phán nguyên lý đức hạnh là mức trung gian giữa hai tật xấu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/Kant/aa06/404.html",
+          "quote": "der belobte Grundsatz (des Aristoteles), die Tugend in dem Mittleren zwischen zwei Lastern zu setzen, ist falsch",
+          "where": "Zeile 06-07 (chữ ghép hai dòng liền kề)"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ chưa xác nhận được các năm; vị trí AA đúng. Chưa kiểm nội dung nằm ở 6:383–384 và 7:149 (chỉ kiểm trang tồn tại và đúng tác phẩm)."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r29): trang korpora có thân văn bản đọc được (tải qua fetch trong tab). Nguồn mạnh về số trang Akademie-Ausgabe; năm lấy từ danh mục de.wikisource (nguồn phụ, đối chiếu thư mục xuất bản). Chưa kiểm doc/aristotle-dao-duc.md dùng đoạn này thế nào."
 }

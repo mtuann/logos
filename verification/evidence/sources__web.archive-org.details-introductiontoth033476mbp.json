@@ -2,7 +2,7 @@
   "unit": "sources/web.archive-org.details-introductiontoth033476mbp",
   "hash": "sha256:bba5711d92171c153b96069b7adcf8b1c419dc738b681e9031f11f3d401e5412",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s17",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
       "text": "Bentham, An Introduction to the Principles of Morals and Legislation, Oxford: Clarendon Press, 1907; URL đúng",
@@ -23,7 +23,7 @@
         {
           "url": "https://archive.org/stream/introductiontoth033476mbp/introductiontoth033476mbp_djvu.txt",
           "quote": "The First Edition of this work was printed in the year 1780",
-          "where": "ghi chú trước Lời tựa; “first published in 1789”; “A New Edition, corrected by the Author” 1823"
+          "where": "ghi chú trước Lời tựa; 'first published in 1789'; 'A New Edition, corrected by the Author' 1823"
         }
       ]
     },
@@ -33,27 +33,37 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/11224",
-          "quote": "Utilitarianism; John Stuart Mill"
-        },
-        {
           "url": "https://www.gutenberg.org/cache/epub/11224/pg11224.txt",
-          "quote": "SEVENTH EDITION … 1879",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE' SEVENTH EDITION LONDON LONGMANS, GREEN, AND CO. 1879",
           "where": "trang tựa"
         }
       ]
     },
     {
-      "text": "Mill, Utilitarianism xuất bản năm 1863 (trang Gutenberg chỉ ghi 1879, tái bản từ Fraser’s Magazine)",
+      "text": "Mill, Utilitarianism xuất bản năm 1863 (in sách lần đầu, Parker, Son, and Bourn)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Utilitarianism",
+          "quote": "UTILITARIANISM BY JOHN STUART MILL. REPRINTED FROM 'FRASER'S MAGAZINE.' LONDON: PARKER, SON, AND BOURN, WEST STRAND. 1863.",
+          "where": "trang tựa bản 1863 trên Wikisource"
+        }
+      ]
     },
     {
-      "text": "Locator: Bentham chương XVI, mục 24 (bản scan thấy chương XVI chỉ có §1, §2, không có đoạn đánh số 24 trong phần đọc được; văn bản bị cắt)",
+      "text": "Locator: Bentham chương XVI, mục 24 (đoạn XXIV chương XVI, về 'simple falsehoods')",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/introductiontoth033476mbp/introductiontoth033476mbp_djvu.txt",
+          "quote": "this is chiefly the case with regard to simple falsehoods",
+          "where": "tr. 223, đầu trang 'xvi.] Division of Offences'; đoạn đánh số XXIV"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Không xác nhận được “chương XVI, mục 24”; Bentham đánh số đoạn trong chương bằng số La Mã, cần đối chiếu bản in. Người làm kiểm lại vị trí. Năm 1863 của Mill không có trên trang đã mở."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): đã đọc toàn văn OCR; đoạn XXIV nằm ở tr. 223 của chương XVI (Division of Offences), nói về 'simple falsehoods', hợp với chủ đề nói dối. Số đoạn là chữ số La Mã (XXIV). Năm 1863: Wikisource trang tựa; Gutenberg chỉ in bản 1879."
 }

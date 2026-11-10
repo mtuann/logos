@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.2529",
   "hash": "sha256:4100161a3e57ff8c1f8ba0e96f1e989b2aa4d3a0f82fa5bfd5dca469fb1723d9",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r26",
   "claims": [
     {
       "text": "Ebook 2529 là The Analysis of Mind của Bertrand Russell",
@@ -10,22 +10,51 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/2529",
-          "quote": "The Analysis of Mind"
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "THE ANALYSIS OF MIND By Bertrand Russell 1921"
         }
       ]
     },
     {
-      "text": "Năm 1921, London: George Allen & Unwin",
+      "text": "Năm 1921",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "THE ANALYSIS OF MIND By Bertrand Russell 1921"
+        }
+      ]
+    },
+    {
+      "text": "London: George Allen & Unwin",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title:(analysis of mind) AND creator:(russell) AND publisher:(allen)",
+          "quote": "The analysis of mind ; Russell, Bertrand, 1872-1970 ; London, G. Allen & Unwin ltd.",
+          "where": "API Internet Archive, mục analysisofmind00russ, date 1921-01-01 (mô tả ghép các trường title/creator/publisher)"
+        }
+      ]
     },
     {
       "text": "Bài giảng IX ('Memory') — giả thuyết thế giới ra đời năm phút trước",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "LECTURE IX. MEMORY Memory, which we are to consider to-day",
+          "where": "Lecture IX"
+        },
+        {
+          "url": "https://www.gutenberg.org/cache/epub/2529/pg2529-images.html",
+          "quote": "the hypothesis that the world sprang into being five minutes ago"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không ghi năm/nhà xuất bản; summary chỉ nói 'early 20th century'."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): trang tựa ebook ghi 1921 nhưng không nêu nhà xuất bản; nhà xuất bản George Allen & Unwin, London 1921 xác nhận qua metadata Internet Archive (analysisofmind00russ). Văn bản cũng nhắc 'Allen & Unwin' ở chú thích. Nguồn metadata là API, không phải trang sách."
 }

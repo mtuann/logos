@@ -2,49 +2,50 @@
   "unit": "sources/web.journal-hcmue-edu-vn.index-php-hcmuejos-article-download-1260-1251-1261",
   "hash": "sha256:b05db17d72c80cb594bfa3ed3b627d7efd8bf088d7503dba2833dbc4077f1606",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s18",
+  "checker": "agent-kiem-5.2-r28",
   "claims": [
     {
-      "text": "Lý Thơ Phúc (2008), \"Hai vấn đề cần thảo luận với tác giả bài Bình Ngô đại cáo: Một số vấn đề về chữ nghĩa\", Tạp chí Khoa học ĐHSP TP.HCM, số 13",
+      "text": "Lý Thơ Phúc (2008), 'Hai vấn đề cần thảo luận với tác giả bài Bình Ngô đại cáo: Một số vấn đề về chữ nghĩa', Tạp chí Khoa học ĐHSP TP.HCM, số 13",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/view/1260",
+          "quote": "Hai vấn đề cần thảo luận với tác giả bài Bình Ngô Đại Cáo:Một số vấn đề về chữ nghĩa",
+          "where": "trang bài báo: No. 13 (2008); trang view/1260 là trang đích của bản tải 1260/1251/1261"
+        }
+      ]
+    },
+    {
+      "text": "Bùi Duy Tân (2007), 'Bình Ngô đại cáo, văn bản – bản dịch – nhan đề', Tạp chí Nghiên cứu văn học, số 6 (qua danh mục tham khảo của Lý Thơ Phúc)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thuvientailieu.vn/tai-lieu/hai-van-de-can-thao-luan-voi-tac-gia-bai-binh-ngo-dai-cao-mot-so-van-de-ve-chu-nghia-57845/",
+          "quote": "Bùy Duy Tân (2007), Bình Ngô đại cáo, văn bản - bản dịch - nhan đề, T/c Nghiên cứu văn học, số 6",
+          "where": "đoạn trích trong kết quả tìm kiếm (bản sao thuvientailieu.vn, nguồn yếu)"
+        }
+      ]
+    },
+    {
+      "text": "Ý kiến về nhan đề dẫn theo Lý Thơ Phúc (lượt trước)",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261",
-          "quote": "Hai vấn đề cần thảo luận với tác giả bài Bình Ngô đại cáo",
-          "where": "đầu bài; số 13 năm 2008, tr. 32–39"
+          "quote": "cụ Bùi Duy Tân cho biết nhan đề BNĐC không tìm thấy trong sách Đại Việt sử ký toàn thư",
+          "where": "kết luận lượt trước, giữ lại"
         }
       ]
     },
     {
-      "text": "Bùi Duy Tân (2007), \"Bình Ngô đại cáo, văn bản – bản dịch – nhan đề\", Tạp chí Nghiên cứu văn học, số 6 (qua danh mục tài liệu tham khảo của Lý Thơ Phúc)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261",
-          "quote": "Bình Ngô đại cáo, văn bản – bản dịch – nhan đề, Tạp chí Nghiên cứu văn học, số 6",
-          "where": "tài liệu tham khảo"
-        }
-      ]
-    },
-    {
-      "text": "Ý kiến về nhan đề dẫn theo Lý Thơ Phúc",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261",
-          "quote": "cụ Bùi Duy Tân cho biết nhan đề BNĐC không tìm thấy trong sách Đại Việt sử ký toàn thư"
-        }
-      ]
-    },
-    {
-      "text": "\"tr. 117 trở đi\" của bài Bùi Duy Tân: trang Lý Thơ Phúc không nêu số trang",
+      "text": "'tr. 117 trở đi' của bài Bùi Duy Tân (trang Lý Thơ Phúc không nêu số trang)",
       "kind": "du-kien",
       "verdict": "chua-kiem-duoc"
     }
   ],
   "result": "chua-kiem-duoc",
-  "notes": "URL trỏ đúng bài của Lý Thơ Phúc (không phải bài Bùi Duy Tân; mục ghi cả hai, nên thấy rõ URL là của bài thứ hai). Nguồn tạp chí Việt Nam (nguồn yếu theo quyết định 31). Nhẹ: tựa bài Bùi Duy Tân trong mục dùng dấu hai chấm, bài tham khảo dùng dấu phẩy; trang trong bản tham khảo viết \"Bùy\" ở chú thích. Cần người xác nhận số trang 117 qua Tạp chí Nghiên cứu văn học 2007 số 6."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r28): trang view/1260 mở được; tải PDF bị trình duyệt từ chối nên không đọc lại thân bài, giữ các claim đã dung của lượt trước. Chưa tìm được số trang 117 của bài Bùi Duy Tân (Nghiên cứu văn học 2007 số 6) ở trang nào đã thử (DuckDuckGo hai truy vấn, view/1260). Nguồn tạp chí Việt Nam (nguồn yếu, quyết định 31). Nhẹ: tựa bài dùng dấu hai chấm trong mục, dấu phẩy/gạch ngang trong nguồn."
 }

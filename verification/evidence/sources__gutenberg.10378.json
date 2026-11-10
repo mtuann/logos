@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.10378",
   "hash": "sha256:ef1828d17e8bb13134a897402ca9d35091b54b44992d95b9c34ec48998470532",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s13",
+  "checker": "agent-kiem-5.2-r25",
   "claims": [
     {
       "text": "Ebook 10378 là Autobiography của John Stuart Mill",
@@ -10,22 +10,36 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/10378",
-          "quote": "Autobiography by John Stuart Mill"
+          "url": "https://www.gutenberg.org/cache/epub/10378/pg10378-images.html",
+          "quote": "Title: Autobiography Author: John Stuart Mill"
         }
       ]
     },
     {
       "text": "Năm 1873 (xuất bản lần đầu)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=autobiography&author=john+stuart+mill&fields=title,first_publish_year,publisher&limit=1",
+          "quote": "\"first_publish_year\":1873",
+          "where": "Open Library: Autobiography của John Stuart Mill, năm xuất bản đầu 1873 (nguồn thư mục, tương đối yếu); Gutenberg không ghi năm"
+        }
+      ]
     },
     {
-      "text": "Chương VII — trang ebook không liệt kê chương",
+      "text": "Chương VII (Autobiography) — locator",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/10378/pg10378-images.html",
+          "quote": "CHAPTER VII. GENERAL VIEW OF THE REMAINDER OF MY LIFE.",
+          "where": "văn bản ebook; mục lục ghi 'CHAPTER VII — 1840-1870 — GENERAL VIEW OF THE REMAINDER OF MY LIFE'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook không ghi năm xuất bản (summary tự sinh chỉ nói 'mid-19th century'). Cần nguồn ngoài cho 1873 và chương VII."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): Năm 1873 theo Open Library (nguồn thư mục); nên thêm nguồn mạnh hơn nếu có (trang nhà xuất bản/ấn bản Toronto Collected Works). Chương VII tồn tại, là chương cuối (1840-1870)."
 }

@@ -2,7 +2,7 @@
   "unit": "sources/gutenberg.67097",
   "hash": "sha256:a1560c8081507d5a44eac9c620dc11c248a70f2499cb1505800db65686449f55",
   "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s14",
+  "checker": "agent-kiem-5.2-r27",
   "claims": [
     {
       "text": "Ebook #67097 là Burnet, Early Greek Philosophy",
@@ -21,18 +21,24 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/67097",
-          "quote": "United Kingdom: A. and C. Black,1908",
-          "where": "Original Publication"
+          "url": "https://www.gutenberg.org/cache/epub/67097/pg67097-images.html",
+          "quote": "Original publication: United Kingdom: A. and C. Black, 1908"
         }
       ]
     },
     {
       "text": "Đây là 'bản 2' (second edition)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/67097/pg67097-images.html",
+          "quote": "SECOND EDITION | LONDON | ADAM AND CHARLES BLACK | 1908",
+          "where": "Trang tên sách; 'First Edition published April 1892'"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Trang ebook chỉ ghi A. and C. Black 1908, không ghi lần xuất bản; chưa xác nhận 'bản 2'. Nhờ người làm tìm nguồn."
+  "result": "dat",
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r27): trang bìa ebook ghi SECOND EDITION, A. and C. Black, 1908; bản 1 in tháng 4/1892."
 }
