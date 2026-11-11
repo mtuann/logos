@@ -1,0 +1,67 @@
+{
+  "unit": "terms/tat-dinh-luan",
+  "hash": "sha256:a39c6f316ec393fe78240bcbb9a4c99b3c5a3426f9df524c4f4dac7d16e3f88c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tất định luận = determinism (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Determinism is true of the world if and only if, given a specified way things are at a time t, the way things go thereafter is fixed as a matter of natural law."
+        }
+      ]
+    },
+    {
+      "text": "def: mọi sự kiện được xác định hoàn toàn bởi sự kiện trước cùng quy luật tự nhiên",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "given a specified way things are at a time t, the way things go thereafter is fixed as a matter of natural law"
+        }
+      ]
+    },
+    {
+      "text": "example: biết hết trạng thái vũ trụ và quy luật thì đoán được bạn ăn gì trưa mai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "we are looking at how everything that happens is determined by what has gone before",
+          "where": "SEP dùng ví dụ Ted lấy bia trong tủ lạnh"
+        }
+      ]
+    },
+    {
+      "text": "alt: quyết định luận; “thuyết định mệnh (cách dịch sai)” — đúng bảng mục 3 (determinism: quyết định luận, thuyết định mệnh sai; fatalism mới là định mệnh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Traditionally determinism has been given various, usually imprecise definitions.",
+          "where": "SEP tách determinism khỏi fatalism; đối chiếu bảng mục 3 và quyết định 18"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tu-do-y-chi.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Bài này trình bày tất định luận, tương thích luận, bất tương thích luận và thí nghiệm Libet."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): alt dựa chủ yếu vào bảng mục 3 (quyết định 18); SEP không bàn tên gọi tiếng Việt."
+}

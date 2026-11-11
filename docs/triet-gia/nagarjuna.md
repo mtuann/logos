@@ -16,7 +16,7 @@ Về cuộc đời ông, ta biết rất ít. Hầu như chắc chắn ông là 
 
 Tác phẩm chính là *Trung luận* (*Mūlamadhyamakakārikā*), khoảng 450 bài kệ. Ông không dựng một học thuyết mới về thế giới mà làm một việc khác: lần lượt xét quan niệm của đối thủ về nhân quả, chuyển động, thời gian, cái tôi, tri thức, rồi chỉ ra rằng nếu sự vật có **tự tính** (*svabhāva*) — một bản chất tự có, độc lập — thì quan niệm ấy tự mâu thuẫn. Kết luận: mọi pháp đều là **tính không** (*śūnyatā*), trống rỗng tự tính. Ông nhấn mạnh: “không” không có nghĩa là “không có gì”.
 
-Tư tưởng của ông ảnh hưởng tới tranh luận triết học Ấn Độ khoảng một nghìn năm, rồi theo Phật giáo sang Tây Tạng, Trung Hoa, Nhật Bản; ở Tây Tạng, một cách đọc ông (phái *Prāsaṅgika*) được coi là đỉnh cao triết học cho đến nay. Ở Đông Á, bản Hán *Trung luận* do Cưu-ma-la-thập dịch đầu thế kỷ 5 là bản được đọc rộng rãi nhất. Hôm nay, các triết gia còn đem ông vào siêu hình học đương đại, chẳng hạn cuộc tranh luận: thực tại có một tầng nền cuối cùng, hay chỉ có những quan hệ phụ thuộc chồng lên nhau mãi?
+Tư tưởng của ông ảnh hưởng tới tranh luận triết học Ấn Độ khoảng một nghìn năm, rồi theo Phật giáo sang Tây Tạng, Trung Hoa, Nhật Bản; ở Tây Tạng, một cách đọc ông (phái *Prāsaṅgika*) được coi là đỉnh cao triết học cho đến nay. Ở Đông Á, bản Hán *Trung luận* do Cưu-ma-la-thập dịch năm 409 (đầu thế kỷ 5) trở thành một văn bản nền tảng của tông Tam luận ở Trung Hoa và Nhật Bản. Hôm nay, các triết gia còn đem ông vào siêu hình học đương đại, chẳng hạn cuộc tranh luận: thực tại có một tầng nền cuối cùng, hay chỉ có những quan hệ phụ thuộc chồng lên nhau mãi?
 
 ## Tác phẩm chính
 

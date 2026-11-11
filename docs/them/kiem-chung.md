@@ -42,9 +42,9 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Trích dẫn | 155 | 155 |
 | Sự kiện (ứng viên) | 129 | 129 |
 | Nguồn | 695 | 695 |
-| Hồ sơ triết gia | 59 | 0 |
+| Hồ sơ triết gia | 59 | 59 |
 | Câu hỏi khảo sát PhilPapers 2020 | 100 | 100 |
-| Thuật ngữ (Từ điển) | 249 | 0 |
+| Thuật ngữ (Từ điển) | 249 | 249 |
 | Loại ngụy biện | 20 | 0 |
 | Đoạn luyện nhận diện ngụy biện | 100 | 0 |
 | Đoạn luyện sơ đồ lập luận | 30 | 0 |

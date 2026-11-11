@@ -1,0 +1,58 @@
+{
+  "unit": "terms/lua-doi",
+  "hash": "sha256:1528fde95d2941abb5067102b19578c8e30c0fe58ab43f6133de935c943f91bf",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: lừa dối = deception (deception)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "how deceiving is to be defined, and whether lying is always a form of deceiving"
+        }
+      ]
+    },
+    {
+      "text": "def: Cố ý làm cho người khác có một niềm tin sai, bằng lời nói dối, bằng câu đúng gây hiểu lầm hay bằng hành động.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "how deceiving is to be defined, and whether lying is always a form of deceiving"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "an attempt to mislead (Saul 2012b; Webber 2013)"
+        }
+      ]
+    },
+    {
+      "text": "example: Đi vắng mà để đèn sáng, dựng xe trước cửa cho kẻ trộm tưởng nhà có người là lừa dối, dù không nói câu nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "an attempt to mislead (Saul 2012b; Webber 2013)"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/noi-doi.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "Đây là lừa dối (deception), tức cố làm người khác tin điều sai, mà không nói dối"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Nguồn yếu: chỉ đọc vài đoạn SEP Definition of Lying and Deception (có phân biệt lying/deceiving/misleading); định nghĩa \"cố gây niềm tin sai bằng lời, câu đúng gây hiểu lầm hay hành động\" khớp văn liệu (Saul, Mahon) nhưng chưa chép được câu định nghĩa chính xác của SEP. Ví dụ đèn sáng/xe trước cửa là minh họa kinh điển (hành động đánh lừa)."
+}

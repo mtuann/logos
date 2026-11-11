@@ -1,0 +1,73 @@
+{
+  "unit": "terms/phan-bac",
+  "hash": "sha256:87389ffdd4dcb89bb1cb950cea452df66f7dbcbbf8b4418747305d408655f1ab",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phản bác = objection",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "provide answers to reasonable objections made by interlocutors who have opposing points of view"
+        }
+      ]
+    },
+    {
+      "text": "han: 反駁 đọc phản bác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/反",
+          "quote": "反: Hán Nôm readings: phản, phiên"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/駁",
+          "quote": "駁: Hán Nôm readings: bác"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/反駁",
+          "quote": "反駁 to rebut; to refute"
+        }
+      ]
+    },
+    {
+      "text": "def: lý do được đưa ra để chỉ rằng một lập luận hay lập trường có chỗ sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "provide answers to reasonable objections made by interlocutors who have opposing points of view"
+        }
+      ]
+    },
+    {
+      "text": "example: “Nếu chỉ cần tin chắc là biết, thì người tin nhầm cũng ‘biết’ à?” là một phản bác",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Most epistemologists agree that what is false cannot be known."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/luan-cu-thep.md có và bàn khái niệm (bài về cách đáp lại/phản bác đối thủ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/luan-cu-thep/",
+          "quote": "title: \"Luận cứ thép: hiểu đối thủ trước khi phản bác\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Hai bản ghi phan-bac và phan-bien cùng en = \"objection\": nên phân biệt (vd. phản bác = objection/rebuttal, phản biện = critique/counter-argument) hoặc gộp, để từ điển không có hai mục trùng nghĩa. Bài luan-cu-thep.md chỉ nhắc chữ \"phản bác\" ở tiêu đề và chú thích nhưng chủ đề là đáp lại đối thủ; chấp nhận."
+}

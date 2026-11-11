@@ -1,0 +1,103 @@
+{
+  "unit": "terms/tinh-khong",
+  "hash": "sha256:80223d55d8a8607ffaa6a4d1c414e5227bd541c8f107bf05843f754933e12c87",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m06",
+  "claims": [
+    {
+      "text": "vi–en: tính không — emptiness (śūnyatā)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "The central concept around which all of Nāgārjuna’s philosophy is built is the notion of emptiness (śūnyatā).",
+          "where": "SEP “Nāgārjuna” (Westerhoff, bản lưu fall2026), mục 2. Emptiness and svabhāva"
+        }
+      ]
+    },
+    {
+      "text": "han: 空",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "性空",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%A9%BA",
+          "quote": "Âm Hán Việt: không, khống, khổng",
+          "where": "空 đọc “không”, không ra “tính không”"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E6%80%A7",
+          "quote": "Âm Hán Việt: tính",
+          "where": "性 đọc “tính”; 性空 đọc “tính không”"
+        },
+        {
+          "url": "https://www.fodizi.tw/f05/70818.html",
+          "quote": "謂觀因緣所生之一切諸法，其性本空，皆無有我",
+          "where": "Phật Quang Đại từ điển (佛光大辭典), mục 性空觀, tr. 3231: 性空 là “tính vốn không” của mọi pháp do nhân duyên sinh"
+        },
+        {
+          "url": "https://www.fodizi.tw/so/index.asp?keyword=%E6%80%A7%E7%A9%BA",
+          "quote": "一切佛法的基本原理緣起性空，或者叫性空緣起",
+          "where": "trang kết quả tìm kiếm của fodizi.tw (đoạn trích bài giảng của 夢參老和尚): 性空 là thuật ngữ thông dụng, như trong 緣起性空 (duyên khởi tính không)"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "def: Trong Phật giáo Đại thừa: mọi pháp đều không có tự tính, tức không tự mình mà có, độc lập với mọi thứ khác; không phải là 'không có gì'.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "to exist with svabhāva means to be part of the basic furniture of the world, independent of anything else that also happens to exist",
+          "where": "mục 2; cùng mục: “the true nature of phenomena is emptiness, i.e. the absence of svabhāva”"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "their position avoids both of the extreme views, the view that believes in the existence of svabhāva as well as its nihilistic opposite",
+          "where": "mục 2, đoạn bác cách đọc hư vô (nihilism)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abhidharma/",
+          "quote": "defined the agenda for the Mahāyāna schools of Madhyamaka and Yogācāra",
+          "where": "SEP “Abhidharma” (Ronkin), đoạn mở đầu: Madhyamaka là trường phái Đại thừa"
+        }
+      ]
+    },
+    {
+      "text": "example: 'Sắc tức thị không': chiếc điện thoại vẫn dùng được, nhưng nó không tồn tại độc lập với linh kiện, nhà máy, sóng điện và người dùng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%A9%BA",
+          "quote": "“sắc tức thị không, không tức thị sắc” 色即是空, 空即是色",
+          "where": "nghĩa 6 của chữ 空 (nghĩa nhà Phật), Từ điển trích dẫn"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "mereological dependence (the dependence of a composite object on its parts), causal dependence (the dependence of an effect on its cause) and conceptual dependence",
+          "where": "đoạn “Various kinds of dependence relations are discussed in the Madhyamaka literature”: ba kiểu phụ thuộc, ứng với linh kiện, nhà máy, người dùng trong ví dụ"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/tam-kinh.md (có trong docs/ và bàn tính không)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "\"Không\" (空, śūnyatā) ở đây nghĩa là không có tự tính: không có gì tự mình mà có, tách khỏi mọi thứ khác.",
+          "where": "trang đã xuất bản; cùng câu ở docs/doc/tam-kinh.md dòng 50 (bản làm việc)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m06): kiểm từ đầu bằng SEP “Nāgārjuna” (Westerhoff) và “Abhidharma” (Ronkin), bản lưu fall2026; hvdic.thivien.net cho 空, 性; Phật Quang Đại từ điển trên fodizi.tw. def, ví dụ, en đúng. han ghi sai mức nhe: 空 là chữ Hán đúng cho “không” (śūnyatā), nhưng chỉ đọc là “không”, không ra “tính không”, trong khi các mục khác của từ điển đều đọc trọn âm Hán Việt (性善 tính thiện, 佛性 Phật tính, 意向性 ý hướng tính). Đề xuất 性空 (đọc “tính không”; Phật Quang: 其性本空, như trong 緣起性空 “duyên khởi tính không”). Cách khác người làm có thể chọn: giữ 空 và đổi vi thành “không (tính không)”; còn 空性 là từ Hán tương ứng với śūnyatā nhưng đọc là “không tính”. Đã dùng khoảng 7 lượt mở trang cho mục này (vượt mức 4) để có nguồn cho câu sửa. Trường see: đã đọc file trong repo và trang đã xuất bản. | 10/11/2026 (sổ sách, Claude): đã sửa: han đổi 空 thành 性空 theo fix (đọc “tính không”); cập nhật mã băm, không mở lại nguồn."
+}

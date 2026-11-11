@@ -1,0 +1,58 @@
+{
+  "unit": "terms/phan-tich-khai-niem",
+  "hash": "sha256:9aa6c5093ec7945a35061f1544a6ac7f66867476059020645025b78ade4d9419",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phân tích khái niệm = conceptual analysis",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/analysis/",
+          "quote": "conceptual analysis being pursued, in the sense of seeking necessary and sufficient conditions for the application of key philosophical concepts"
+        }
+      ]
+    },
+    {
+      "text": "def: phương pháp làm rõ khái niệm bằng điều kiện cần và đủ, rồi thử bằng phản ví dụ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/analysis/",
+          "quote": "seeking necessary and sufficient conditions for the application of key philosophical concepts"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "3. Counterexamples to the Tripartite Analysis"
+        }
+      ]
+    },
+    {
+      "text": "example: hỏi “biết” có phải chỉ là “tin đúng có lý do”, rồi tìm trường hợp tin đúng có lý do mà không phải biết (Gettier)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "3. Counterexamples to the Tripartite Analysis"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có và bàn khái niệm (thực hành phân tích tri thức bằng điều kiện cần/đủ và phản ví dụ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Mỗi điều kiện được xem là **điều kiện cần** (*necessary condition*), và cả ba gộp lại được xem là **điều kiện đủ** (*sufficient condition*)."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Bài tri-thuc.md thực hành phương pháp nhưng chỉ nhắc tên \"phân tích khái niệm\" trong chú thích bảng PhilPapers; nên cân nhắc một câu gọi tên phương pháp trong bài. Không tính là sai."
+}

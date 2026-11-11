@@ -1,0 +1,63 @@
+{
+  "unit": "terms/modus-tollens",
+  "hash": "sha256:24dbeca90f6da33bacfcdc218e2009a2f8409c0ada058feaba34a8da7dfe5339",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m05",
+  "claims": [
+    {
+      "text": "vi–en: modus tollens (phủ định hậu kiện) = modus tollens; khớp bảng HUONG-DAN-VIET.md mục 3 (dòng \"modus tollens | modus tollens (phủ định hậu kiện)\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "modus tollens, which involves deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent",
+          "where": "IEP, Klement, \"Propositional Logic\", mục Natural Deduction; bảng thuật ngữ: HUONG-DAN-VIET.md mục 3 trong repo"
+        }
+      ]
+    },
+    {
+      "text": "def: Dạng suy diễn hợp lệ: nếu P thì Q; không Q; vậy không P.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Each step in the chain represents a simple, obviously valid form of reasoning.",
+          "where": "ngay trước câu gọi bước 5 là modus tollens"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Modus tollens is sometimes also called “modus tollendo tollens” or a form of “→-elimination”.",
+          "where": "danh sách quy tắc suy diễn, dòng Modus tollens (MT): α → β, ¬β ⊢ ¬α"
+        }
+      ]
+    },
+    {
+      "text": "example: Nếu trời mưa thì sân ướt; sân không ướt; vậy trời không mưa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent",
+          "where": "ví dụ có đúng dạng: điều kiện, phủ định hậu kiện (sân không ướt), kết luận phủ định tiền kiện (trời không mưa)"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có trong repo và bàn modus tollens",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Modus tollens (phủ định hậu kiện)",
+          "where": "file docs/cong-cu/suy-dien.md trong repo, mục \"### Modus tollens (phủ định hậu kiện)\" với sơ đồ Nếu P thì Q / Không Q / Không P; trang đã xuất bản khớp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m05): không có lỗi; vi và en khớp đúng bảng thuật ngữ bắt buộc."
+}

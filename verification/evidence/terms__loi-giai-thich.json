@@ -1,0 +1,60 @@
+{
+  "unit": "terms/loi-giai-thich",
+  "hash": "sha256:30dbc76c951d8f45d0bd4dfc43d456f67414190d3e3d1c3179d1e206d86863ca",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: lời giải thích = explanation (khớp bảng mục 3 HUONG-DAN-VIET.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "Lời giải thích (explanation)"
+        }
+      ]
+    },
+    {
+      "text": "def: Lời nói cho biết vì sao một điều đã được chấp nhận là xảy ra, khác với lập luận nhằm chứng minh điều đó đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "B offers explanatory reasons for the explanandum (what is explained): this metal expanded.",
+          "where": "mục về cách đặc trưng hóa lập luận (structural vs pragmatic)"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the primary function of arguments, unlike explanations, is persuasion",
+          "where": "cùng mục; IEP nêu đây là một quan điểm đang được bàn, không phải chuẩn tuyệt đối"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Đường ngập vì cống bị tắc\" giải thích việc ngập, không nhằm thuyết phục bạn rằng đường đang ngập.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "Ở đây không ai nghi ngờ đường đang ngập"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/lap-luan-la-gi.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "Ở đây không ai nghi ngờ đường đang ngập"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): IEP Argument xác nhận: giải thích đưa ra lý do cho explanandum (điều được giải thích), phân biệt với lập luận có chức năng thuyết phục. IEP cũng nói một số tác giả (Thomas 1986) coi mọi giải thích là lập luận, nên khác biệt này là quy ước thực dụng; bản ghi trình bày đúng quan điểm phổ biến. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t02): Chưa mở được nguồn ngoài cho cách phân biệt \"giải thích vs lập luận\" (SEP logic-informal chỉ có từ \"explanation\" trong ngữ cảnh khác; SEP scientific-explanation 404 ở bản fall2026). Phân biệt này chuẩn trong sách logic nhập môn (Copi, Hurley), người làm nên dẫn một sách. Vi–en dựa vào bảng mục 3."
+}

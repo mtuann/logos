@@ -51,7 +51,7 @@ Sách *Đại học* nói mở mang hiểu biết là ở chỗ “cách vật�
 
 ## Hiểu lầm thường gặp
 
-- **“Cách vật trí tri là nghiên cứu khoa học thực nghiệm.”** Thực ra với Chu Hy, lý vừa là lẽ của tự nhiên vừa là chuẩn mực đạo đức, và việc “cách vật” chủ yếu là đọc kinh điển, suy xét việc người. Ông có nhiều quan sát tự nhiên sắc sảo, về tuần trăng, nhật thực, sự hình thành trời đất, nhưng theo SEP những giải thích ấy chưa đủ chặt để thành giả thuyết khoa học.
+- **“Cách vật trí tri là nghiên cứu khoa học thực nghiệm.”** Thực ra với Chu Hy, lý vừa là lẽ của tự nhiên vừa là chuẩn mực đạo đức, và việc “cách vật” chủ yếu là đọc kinh điển, suy xét việc người. Ông có nhiều quan sát tự nhiên sắc sảo, về tuần trăng, nhật thực, sự hình thành trời đất, nhưng theo SEP, các thuyết về sự hình thành trời đất thì chính ông thấy không cách nào kiểm chứng, còn lời giải thích về vỏ sò trên núi cũng chưa đủ chặt để thành giả thuyết khoa học.
 - **“Chu Hy chỉ là nhà chú giải bảo thủ.”** Thực ra ông là một nhà tổng hợp táo bạo: ông chọn lại kinh điển, đặt *Tứ thư* vào trung tâm việc học, tự viết thêm đoạn giải thích cho *Đại học*, và theo SEP có lẽ còn chịu ảnh hưởng lối nhìn toàn thể của Phật giáo Hoa Nghiêm khi dựng hệ thống. Vị thế “chính thống” là do triều đình đời sau trao cho tư tưởng của ông.
 
 ## Ảnh hưởng

@@ -1,0 +1,59 @@
+{
+  "unit": "terms/menh-de-don",
+  "hash": "sha256:50b07546df223b01455a794cc29c3d580ef31f2782b3ec3df6f22d5dc47ac63f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mệnh đề đơn = atomic proposition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "The formal language of propositional logic consists of “atomic” propositional variables"
+        }
+      ]
+    },
+    {
+      "text": "def: mệnh đề không chứa phép nối logic nào, thường ký hiệu bằng một chữ cái (P, Q…)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "produce complex statements whose truth-value depends entirely on the truth-values of the simpler statements making them up"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "The formal language of propositional logic consists of “atomic” propositional variables"
+        }
+      ]
+    },
+    {
+      "text": "example: trong \"nếu P thì Q\", P và Q là các mệnh đề đơn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "The formulas of propositional logic are defined recursively by Atomic propositional variables are formulas."
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "(*propositional logic*) chỉ làm việc với mệnh đề, và coi mỗi mệnh đề đơn giản là một khối không thể chia nhỏ: đúng hoặc sai, không có thứ ba. Phần còn lại của bài",
+          "where": "đọc từ docs/cong-cu/logic-menh-de.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03)."
+}

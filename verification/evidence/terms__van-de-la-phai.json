@@ -1,0 +1,79 @@
+{
+  "unit": "terms/van-de-la-phai",
+  "hash": "sha256:08ea18beee267a733ecd20bd4b1856917e976347517c7e46825f9234397ecb80",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vấn đề \"là – phải\"\" = is–ought problem",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-moral/",
+          "quote": "5. Is and Ought",
+          "where": "mục lục SEP"
+        }
+      ]
+    },
+    {
+      "text": "def: nhận xét của Hume (1740) trong Treatise quyển 3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4705",
+          "quote": "instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not.",
+          "where": "Treatise III.i.1; quyển 3 in năm 1740 (ghi trong kho works/hume.a-treatise-of-human-nature)"
+        }
+      ]
+    },
+    {
+      "text": "def: theo cách hiểu phổ biến ở thế kỷ 20 (cách hiểu này gây tranh cãi)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-moral/",
+          "quote": "Few passages in Hume’s work have generated more interpretive"
+        }
+      ]
+    },
+    {
+      "text": "def: Nhận xét của Hume (1740), theo cách hiểu phổ biến ở thế kỷ 20: không thể suy ra kết luận về điều nên làm chỉ từ những tiền đề thuần sự kiện, mà cần ít nhất một tiền đề giá trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-moral/",
+          "quote": "a deduction that seems to Hume “altogether inconceivable” (T3.1.1.27)"
+        }
+      ]
+    },
+    {
+      "text": "example: Từ 'thuốc lá gây ung thư' chỉ suy ra 'không nên hút thuốc' khi thêm tiền đề 'không nên làm hại sức khỏe của mình'.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4705",
+          "quote": "I meet with no proposition that is not connected with an ought, or an ought not.",
+          "where": "ví dụ thuốc lá là minh họa của cần tiền đề giá trị"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/sieu-dao-duc.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/sieu-dao-duc/",
+          "quote": "theo cách hiểu phổ biến ở thế kỷ 20, không thể suy ra \"phải\" chỉ từ tiền đề thuần sự kiện."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): cách ghi \"theo cách hiểu phổ biến\" đã đúng, vì SEP nêu nhiều cách đọc khác (kể cả không cấm suy luận xác suất)."
+}

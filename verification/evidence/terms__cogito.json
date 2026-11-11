@@ -1,0 +1,58 @@
+{
+  "unit": "terms/cogito",
+  "hash": "sha256:b890bb06d64cf4b4f342a9abbf8d46dc09679e836f9726cd063681d41e65c0bc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “cogito” ↔ cogito (I think, therefore I am) là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "I think therefore I am (Latin: cogito ergo sum; French: je pense, donc je suis)"
+        }
+      ]
+    },
+    {
+      "text": "def: Điều chắc chắn đầu tiên của Descartes: mỗi lần nghĩ không thể nghi ngờ mình hiện hữu; Suy niệm II viết ‘tôi là, tôi hiện hữu’",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "this proposition, I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "I think therefore I am (Latin: cogito ergo sum; French: je pense, donc je suis)"
+        }
+      ]
+    },
+    {
+      "text": "example: Ngay cả khi mọi điều tôi tin đều sai, việc tôi đang nghi ngờ cho thấy tôi tồn tại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "this proposition, I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/descartes-suy-niem.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/descartes-suy-niem/",
+          "quote": "Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27). Archimedes chỉ đòi một điểm tựa vững để nâng trái"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Trang `see` bàn đúng khái niệm (đoạn 4 Suy niệm II, mục ngộ nhận 'tôi tư duy, vậy tôi hiện hữu'); chữ 'cogito' xuất hiện ở dạng 'ego cogito, ergo sum'."
+}

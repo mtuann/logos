@@ -1,0 +1,71 @@
+{
+  "unit": "terms/nguyen-tac-loai-tru-thu-ba",
+  "hash": "sha256:3f4781e499a8f4cb403956c402df5e8ef9f26f7171b9d06e1b55ee795b09ec21",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m06",
+  "claims": [
+    {
+      "text": "vi–en: nguyên tắc loại trừ thứ ba — law of excluded middle",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "the so-called “law of excluded middle,” that is, the law that all statements of the form",
+          "where": "IEP “Propositional Logic”, đoạn về logic trực giác; tiếp theo là dạng ┌α∨¬α┐"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22lo%E1%BA%A1i+tr%E1%BB%AB+c%C3%A1i+th%E1%BB%A9+ba%22+%22b%C3%A0i+trung%22+logic",
+          "quote": "quy luật loại trừ cái thứ ba (hay còn gọi là luật bài trung)",
+          "where": "đoạn trích kết quả tìm kiếm từ xhnv.duytan.edu.vn (nguồn yếu, chỉ xác nhận cách dịch tiếng Việt)"
+        }
+      ]
+    },
+    {
+      "text": "def: Với mọi mệnh đề P, “P hoặc không P” luôn đúng — không có khả năng thứ ba. (Khác với nguyên tắc nhị trị: mọi mệnh đề hoặc đúng hoặc sai.)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "the law that all statements of the form",
+          "where": "định nghĩa luật loại trừ thứ ba: mọi câu dạng ┌α∨¬α┐ đều đúng (logic trực giác bác bỏ luật này)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/vagueness/",
+          "quote": "Thus the method of supervaluations allows one to retain all the theorems of standard logic while admitting “truth-value gaps”.",
+          "where": "SEP “Vagueness” (Sorensen), mục về supervaluationism: giữ ‘P hoặc không P’ mà vẫn có câu không đúng không sai, tức loại trừ thứ ba khác nhị trị"
+        }
+      ]
+    },
+    {
+      "text": "example: “Trời đang mưa hoặc trời không đang mưa” — một trong hai phải đúng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "“Trời đang mưa hoặc trời không đang mưa” luôn đúng, bất kể thời tiết ra sao.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/vagueness/",
+          "quote": "This would imply that either ‘P’ is true or ‘¬P’ is true",
+          "where": "SEP “Vagueness”, mục supervaluationism (Williamson 1994): người theo supervaluation nhận ‘P or ~P’ nhưng không nhận “P đúng hoặc ¬P đúng”, nếu không sẽ mất khoảng trống chân trị"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "see: cau-hoi/chan-ly.md (có trong docs/ và bàn nguyên tắc loại trừ thứ ba)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "xoay quanh nguyên tắc nhị trị (principle of bivalence): mọi khẳng định hoặc đúng hoặc sai",
+          "where": "trang đã xuất bản (Cập nhật 22/10/2026) mới có câu về nhị trị; câu về nguyên tắc loại trừ thứ ba (law of excluded middle) có ngay sau đó ở docs/cau-hoi/chan-ly.md dòng 43 bản làm việc, chưa lên trang"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m06): kiểm từ đầu bằng IEP “Propositional Logic” (định nghĩa luật loại trừ thứ ba) và SEP “Vagueness” (supervaluationism giữ mọi định lý cổ điển, gồm ‘P hoặc không P’, mà vẫn có khoảng trống chân trị: loại trừ thứ ba khác nhị trị). def đúng. Ví dụ ghi sai mức nhe: câu ví dụ đúng là một trường hợp của luật, nhưng lời giải thích “một trong hai phải đúng” là khẳng định về chân trị của từng vế, đúng điều mà def (phần ngoặc) và docs/cau-hoi/chan-ly.md dòng 43 nói là khác với luật này; trong logic cổ điển câu đó vẫn đúng, và giáo trình logic hình thức tiếng Việt cũng phát biểu luật bài trung theo cách đó, nên chỉ là chỗ chưa nhất quán, không phải sai khái niệm. Đề xuất thêm alt “luật bài trung”, “quy luật loại trừ cái thứ ba” (cách gọi phổ biến trong giáo trình tiếng Việt). Trường see: trang đã xuất bản chưa có câu về loại trừ thứ ba; file trong repo có. | 10/11/2026 (sổ sách, Claude): đã sửa: example viết lại đúng câu fix (“P hoặc không P” luôn đúng); cập nhật mã băm, không mở lại nguồn."
+}

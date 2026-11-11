@@ -1,0 +1,59 @@
+{
+  "unit": "terms/van-de-non-identity",
+  "hash": "sha256:c6cd62949f59d6f34e97c495b97d2a05f88df58235c64c6f75badccc91f2740b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vấn đề non-identity\" = non-identity problem",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nonidentity-problem/",
+          "quote": "The nonidentity problem raises questions regarding both the moral obligations agents have in respect of possible future people"
+        }
+      ]
+    },
+    {
+      "text": "def: Câu đố của Parfit: khi lựa chọn của ta quyết định cả việc ai sẽ ra đời, khó nói một lựa chọn xấu đã làm hại ai, vì nếu chọn khác thì chính những người ấy không tồn tại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nonidentity-problem/",
+          "quote": "what is bad must be bad for someone",
+          "where": "SEP trích Parfit 1987, 363"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nonidentity-problem/",
+          "quote": "The nonidentity problem raises questions regarding both the moral obligations agents have in respect of possible future people"
+        }
+      ]
+    },
+    {
+      "text": "example: Một chính sách khai thác cạn kiệt tài nguyên làm thế hệ sau sống kém, nhưng không có chính sách ấy thì những con người cụ thể đó đã không được sinh ra.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nonidentity-problem/",
+          "quote": "any significant climate action undertaken today will surely affect the timing and manner of human conception on a very wide scale"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/khi-hau-trach-nhiem.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/khi-hau-trach-nhiem/",
+          "quote": "vấn đề non-identity của Parfit và trách nhiệm với thế hệ chưa sinh ra"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): SEP trích Parfit 1987 (Reasons and Persons, in lần hai); bài kho nói 1984 (lần in đầu), đều đúng."
+}

@@ -1,0 +1,54 @@
+{
+  "unit": "terms/tinh-hop-le",
+  "hash": "sha256:1822351223cdc66f10baff25a806184627b21e5b75f1315a52a0bd1e528eaa0b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tính hợp lệ = validity (valid = hợp lệ, khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is said to be valid if and only if it takes a form that makes it impossible for the premises to be true and the conclusion nevertheless to be false."
+        }
+      ]
+    },
+    {
+      "text": "def: không thể nào tiền đề đều đúng mà kết luận sai; chỉ xét hình thức, không xét tiền đề đúng thực tế",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "it takes a form that makes it impossible for the premises to be true and the conclusion nevertheless to be false"
+        }
+      ]
+    },
+    {
+      "text": "example: “Nếu P thì Q; P; vậy Q” hợp lệ dù P, Q bịa đặt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "it takes a form that makes it impossible for the premises to be true and the conclusion nevertheless to be false"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Tính hợp lệ phụ thuộc vào hình thức của lập luận, không phụ thuộc vào nội dung."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): IEP Validity and Soundness."
+}

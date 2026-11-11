@@ -1,0 +1,72 @@
+{
+  "unit": "terms/trung-dung-aristotle",
+  "hash": "sha256:0a8bbc7a541c521633d4d1895c97c9d0fb8f5ab33b570c5d1519938b00f3ca96",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"trung dung (Aristotle)\" = the mean (mesotes)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "5. The Doctrine of the Mean",
+          "where": "mục lục SEP"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "every ethical virtue is a condition intermediate (a “golden mean” as it is popularly known)"
+        }
+      ]
+    },
+    {
+      "text": "def: Theo Aristotle, đức hạnh là phẩm tính chọn mức đúng 'đối với ta' giữa thái quá và bất cập, do lý trí của người có minh triết thực hành xác định; không phải trung bình cộng hay sự ôn hòa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "the mean is to be determined in a way that takes into account the particular circumstances of the individual (1106a36–b7)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "The arithmetic mean between 10 and 2 is 6, and this is so invariably, whatever is being counted."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "Ethical virtue is fully developed only when it is combined with practical wisdom (1144b14–17)."
+        }
+      ]
+    },
+    {
+      "text": "example: Dũng cảm nằm giữa liều lĩnh và hèn nhát; có lúc cơn giận lớn mới là đúng mức.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "the rash person, who judges every danger worth facing and experiences little or no fear",
+          "where": "đoạn về dũng cảm giữa liều lĩnh và hèn nhát"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "Sometimes only a small degree of anger is appropriate; but at other times, circumstances call for great anger."
+        }
+      ]
+    },
+    {
+      "text": "see: doc/aristotle-dao-duc.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/aristotle-dao-duc/",
+          "quote": "Đúng mức là \"đối với ta\"."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): \"do lý trí của người có minh triết thực hành xác định\" khớp NE II.6 (1107a1) và SEP mục 5 + mục phronesis; trích SEP gần nhất là câu về hoàn cảnh cá nhân và practical wisdom."
+}

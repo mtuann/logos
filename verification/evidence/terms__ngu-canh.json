@@ -1,0 +1,43 @@
+{
+  "unit": "terms/ngu-canh",
+  "hash": "sha256:e7312552d69275fd1b1113419e5e0bf3355a3f1df4da0ab40d5049127f3043ec",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: ngữ cảnh = context",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/context",
+          "quote": "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence."
+        }
+      ]
+    },
+    {
+      "text": "def: hoàn cảnh xung quanh một câu nói hay lập luận, quyết định nhiều đến ý nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/context",
+          "quote": "that determine, specify, or clarify the meaning of an event or other occurrence"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Bạn nên đi ngủ ngay\" mang nghĩa khác khi nói với sĩ tử đêm trước kỳ thi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contextualism-epistemology/",
+          "quote": "there are varying standards that one might have mind in applying either predicate which affect what is thereby said"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): nguồn yếu (Wiktionary + SEP gián tiếp). Bản ghi không có see."
+}

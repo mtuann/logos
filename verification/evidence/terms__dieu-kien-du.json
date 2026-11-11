@@ -1,0 +1,54 @@
+{
+  "unit": "terms/dieu-kien-du",
+  "hash": "sha256:39c6b5859d270910c05629bb81b4c8f7693d8ff733ccc962ff0904e222fdb1a4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: điều kiện đủ = sufficient condition (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "def: A là điều kiện đủ của B nếu có A thì chắc chắn có B",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "example: Chia hết cho 4 là điều kiện đủ để là số chẵn nhưng không cần",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/dieu-kien-can-du.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/dieu-kien-can-du/",
+          "quote": "- P là điều kiện đủ (sufficient condition) cho Q khi: có P thì chắc chắn có Q. Ký hiệu logic: P → Q."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Ví dụ đúng toán học (chia hết cho 4 ⇒ chẵn; chẵn không kéo theo chia hết cho 4). Nguồn gián tiếp."
+}

@@ -1,0 +1,44 @@
+{
+  "unit": "terms/mau-thuan-logic",
+  "hash": "sha256:d9e59d9826c0f40481412adec6bce750f01842574860cd00386d1a0f3fba01fb",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mâu thuẫn logic = contradiction",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "contradiction is restricted to statements or propositions",
+          "where": "mục SEP Contradiction"
+        }
+      ]
+    },
+    {
+      "text": "def: công thức luôn sai với mọi cách gán chân trị; hoặc tập mệnh đề không thể cùng đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "a corresponding affirmation and negation cannot both be true, by LNC"
+        }
+      ]
+    },
+    {
+      "text": "example: \"P và không P\" là một mâu thuẫn logic",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "a corresponding affirmation and negation cannot both be true, by LNC"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): SEP nói về cặp khẳng định–phủ định (contradictories), chưa nêu định nghĩa \"công thức sai với mọi phép gán\"; vế đó đúng theo logic mệnh đề chuẩn nhưng chưa có câu nguồn trực tiếp. Bản ghi không có see."
+}

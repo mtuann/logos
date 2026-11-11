@@ -1,0 +1,85 @@
+{
+  "unit": "terms/man-vo-tri",
+  "hash": "sha256:3c175c49d8ab4b1df50d78e07b713b71937f4d65b2d4d52e64e1473ad29d48a0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m06",
+  "claims": [
+    {
+      "text": "vi–en: bức màn vô tri — veil of ignorance",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "The main distinguishing feature of the original position is “the veil of ignorance”",
+          "where": "đoạn mở đầu (Freeman, SEP Fall 2026)"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22m%C3%A0n+v%C3%B4+tri%22+Rawls+c%C3%B4ng+l%C3%BD",
+          "quote": "những khái niệm công cụ tương tự như trong lý thuyết công bằng trong nước như khế ước, bức màn vô tri",
+          "where": "đoạn trích kết quả tìm kiếm từ luatminhkhue.vn (nguồn yếu, chỉ xác nhận cách dịch tiếng Việt đang dùng)"
+        }
+      ]
+    },
+    {
+      "text": "alt: màn vô tri",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22m%C3%A0n+v%C3%B4+tri%22+Rawls+c%C3%B4ng+l%C3%BD",
+          "quote": "\"tấm màn vô tri\" (veil of ignorance)",
+          "where": "đoạn trích kết quả tìm kiếm (bài điểm sách “Một lý thuyết về công lý”, nguồn yếu); cùng trang kết quả có “bức màn vô tri” (luatminhkhue.vn, sachkhaiminh.com)"
+        }
+      ]
+    },
+    {
+      "text": "def: Thí nghiệm tư duy của John Rawls: hãy tưởng tượng mình chọn nguyên tắc công bằng cho xã hội mà không biết mình sẽ là ai trong đó — giàu hay nghèo, khỏe hay bệnh — vì một “bức màn” che khuất mọi đặc điểm cá nhân.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "the parties are deprived of all knowledge of their personal characteristics and conceptions of the good, and of social and historical circumstances",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "no one knows their place in society, class position, wealth, or social status, nor does anyone know their race, gender, fortune or misfortune in the distribution of natural assets and abilities",
+          "where": "mục 3. The Veil of Ignorance"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "It is rather a hypothetical situation, a kind of “thought experiment” (JF 17)",
+          "where": "đoạn bắt đầu “How is this social contract to be conceived?”"
+        }
+      ]
+    },
+    {
+      "text": "example: Không biết mình sẽ sinh ra trong gia đình giàu hay nghèo, bạn sẽ chọn luật chơi công bằng cho cả hai phía — đó là cách bức màn vô tri hoạt động.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "the parties are without information enabling them to tailor principles of justice favorable to their personal circumstances and interests",
+          "where": "mục 3. The Veil of Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/cong-ly.md (có trong docs/ và bàn bức màn vô tri)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cong-ly/",
+          "quote": "Đây chính là thí nghiệm \"vị trí nguyên thủy\" (original position) đằng sau bức màn vô tri (veil of ignorance) của John Rawls",
+          "where": "trang đã xuất bản; file docs/cau-hoi/cong-ly.md (bản làm việc) dòng 29 và mục “### 1. Rawls: công bằng là những gì ta chọn sau bức màn vô tri” (dòng 51)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m06): kiểm từ đầu bằng SEP “Original Position” (Freeman, bản lưu fall2026). Định nghĩa khớp SEP: các bên bị tước mọi hiểu biết về đặc điểm cá nhân; “giàu hay nghèo” ứng với class/wealth, “khỏe hay bệnh” là cách nói phổ thông cho fortune or misfortune in natural assets, strength. Nói chặt thì “thí nghiệm tư duy” là vị trí nguyên thủy, màn vô tri là đặc điểm chính của nó; định nghĩa gộp hai cái theo cách nói thông dụng, không gây hiểu lầm. alt “màn vô tri”: không tìm thấy dạng đứng riêng ở nguồn ngoài (đã thử DuckDuckGo “sau màn vô tri”, “màn vô tri của Rawls”: không có kết quả); đó là phần lõi không có loại từ của hai dạng có dùng thật, “bức màn vô tri” và “tấm màn vô tri”, nên ghi dung. Có thể cân nhắc thêm “tấm màn vô tri” vào alt. Trường see: đã đọc file trong repo và trang đã xuất bản."
+}

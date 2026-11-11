@@ -65,7 +65,7 @@ Trong *Điều tra về trí năng con người* (mục IV), Hume hỏi: dựa v
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Đọc Hume về nhân quả (“Điều tra về trí năng con người”)](../doc/hume-nhan-qua.md)
+- [Đọc Hume về nhân quả ("Điều tra về trí năng con người")](../doc/hume-nhan-qua.md)
 - [Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md)
 - [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md)
 - [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md)

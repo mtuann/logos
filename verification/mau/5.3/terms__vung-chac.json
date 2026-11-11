@@ -1,0 +1,73 @@
+{
+  "unit": "terms/vung-chac",
+  "hash": "sha256:b3dc2d07139fed16a0d16088d8d54ae9971688b886be86de77d56d42afd2c3ee",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m07",
+  "claims": [
+    {
+      "text": "vi–en: vững chắc — sound",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true.",
+          "where": "IEP “Validity and Soundness”, đoạn mở đầu; khớp bảng HUONG-DAN-VIET.md mục 3 trong repo (dòng: sound | vững chắc | đúng đắn)"
+        }
+      ]
+    },
+    {
+      "text": "alt: đúng đắn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A sound argument is one that is not only valid, but begins with premises that are actually true.",
+          "where": "khái niệm mà alt gọi tên; “đúng đắn” có trong bảng HUONG-DAN-VIET.md mục 3 (cột “Cách dịch khác” của sound) — file nội bộ trong repo, không có URL công khai"
+        }
+      ]
+    },
+    {
+      "text": "def: Tính chất của lập luận suy diễn vừa hợp lệ vừa có tất cả tiền đề đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true."
+        },
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A sound argument is a valid argument with true premises."
+        }
+      ]
+    },
+    {
+      "text": "example: \"Mọi người đều phải chết; Lan là người; vậy Lan phải chết\" là lập luận vững chắc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "Socrates is a man. All men are mortal. Therefore, Socrates is mortal.",
+          "where": "IEP “Deductive and Inductive Arguments”: ví dụ suy diễn cùng dạng với ví dụ Lan (hợp lệ); hai tiền đề đúng nên lập luận vững chắc theo định nghĩa ở val-snd"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một lập luận là vững chắc (sound) khi nó vừa hợp lệ, vừa có mọi tiền đề đúng.",
+          "where": "file docs/cong-cu/suy-dien.md có trong repo (tiêu đề “Khi nào kết luận buộc phải đúng?”); trang xuất bản cùng nội dung"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m07): mọi trường đúng; vi, en và alt khớp bảng HUONG-DAN-VIET.md mục 3. Ví dụ đúng với giả định Lan là một người thật (như ví dụ Socrates của IEP)."
+}

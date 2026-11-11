@@ -62,7 +62,7 @@ Chín lần trong *Suy tưởng*, Marcus đặt trước mình hai khả năng v
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
 - [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md)
-- [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)
+- [Đọc "Cẩm nang" của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 
 ## Nguồn

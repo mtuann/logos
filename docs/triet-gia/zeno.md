@@ -22,7 +22,7 @@ Không tác phẩm nào của Zeno còn nguyên; ta biết ông qua lời trích
 
 - *Politeia* — *Cộng hòa*: viết khi còn theo Crates; người đương thời đùa là viết “trên đuôi chó”, ý nói còn đậm chất Khuyển nho (Diogenes Laërtius VII.4); đã mất
 - *On the Nature of Man* — *Về bản tính con người*: theo Diogenes Laërtius (VII.87), nơi Zeno lần đầu gọi mục đích đời người là “sống phù hợp với tự nhiên”; đã mất
-- von Arnim, *Stoicorum Veterum Fragmenta*, tập I (1903–1905) — bộ sưu tập chuẩn các mảnh văn và lời thuật lại về Zeno và học trò
+- von Arnim, *Stoicorum Veterum Fragmenta* (1903–1905) — bộ sưu tập chuẩn các mảnh văn và lời thuật lại về Zeno và học trò
 
 ## Tư tưởng chính
 
@@ -62,7 +62,7 @@ Zeno không để lại văn bản trình bày lập luận này; Diogenes Laër
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)
+- [Đọc "Cẩm nang" của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 
 ## Nguồn

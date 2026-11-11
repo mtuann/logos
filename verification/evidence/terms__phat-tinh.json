@@ -1,0 +1,95 @@
+{
+  "unit": "terms/phat-tinh",
+  "hash": "sha256:7d5d7c62244a14083f65207848e7a52a735e45bbfc496c59f351be78d307b55e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: Phật tính = Buddha-nature",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/yogacara/",
+          "quote": "buddha-nature or buddha-essence (tathāgatagarbha)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/korean-philosophy/",
+          "quote": "Buddha-nature (pulsŏng 佛性)"
+        }
+      ]
+    },
+    {
+      "text": "han: 佛性 đọc Phật tính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/佛",
+          "quote": "Vietnamese: Phật (佛)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/性",
+          "quote": "性: Hán Nôm readings: tính, dính, tánh"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/佛性",
+          "quote": "佛性 Buddha-nature"
+        }
+      ]
+    },
+    {
+      "text": "def: trong Phật giáo Đại thừa, khả năng giác ngộ có sẵn ở mọi chúng sinh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/yogacara/",
+          "quote": "the highly influential doctrine that all sentient beings contain the essence of a buddha or have the inherent potential to become one"
+        }
+      ]
+    },
+    {
+      "text": "def: khả năng đó “bị che lấp chứ không mất” (bản chất ngầm bị phiền não che)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.tibetanbuddhistencyclopedia.com/en/wiki/Buddha-nature",
+          "quote": "Either covered by defilement's, when it is called only \"embryo of the Tathagata\"; or free from defilement's",
+          "where": "đoạn về Śrīmālādevī Sūtra (nguồn yếu: bách khoa Phật giáo Tây Tạng, dẫn kinh)"
+        },
+        {
+          "url": "https://www.tibetanbuddhistencyclopedia.com/en/wiki/Buddha-nature",
+          "quote": "which is only adventitiously covered over by defilements (agantukaklesa)",
+          "where": "đoạn 'Early Indian Buddhism, Nikayas - Luminous mind'"
+        }
+      ]
+    },
+    {
+      "text": "example: câu “trong nhà có báu thôi tìm kiếm” của Trần Nhân Tông dựa trên ý tưởng Phật tính",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân",
+          "quote": "Trong nhà sẵn của báu, đừng tìm đâu khác",
+          "where": "Kệ vân, bản dịch hiện đại; tác giả Trần Nhân Tông theo trang mục lục Cư trần lạc đạo phú"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/truc-lam.md có và bàn Phật tính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/truc-lam/",
+          "quote": "nếu **Phật tính** (*Buddha-nature*, khả năng giác ngộ có sẵn trong tâm mỗi người)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): Nguồn yếu: Tibetan Buddhist Encyclopedia (trang kiểu wiki), dẫn Anguttara Nikāya và Śrīmālādevī Sūtra: tính sáng suốt vốn thanh tịnh, chỉ 'bị phiền não khách trần che phủ'; khi hết phiền não thì hiển lộ, không phải mất đi. SEP/IEP không có mục riêng; Britannica chỉ có trang tóm tắt bằng AI nên không dùng. Nên dẫn thêm Śrīmālādevī Sūtra hoặc Ratnagotravibhāga nếu muốn nguồn chính. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t04): Chưa tìm được câu trong SEP/IEP (các mục mở được) nói rõ “bị che lấp bởi phiền não, không mất”, dù đây là cách trình bày chuẩn của học thuyết tathāgatagarbha; để chua-kiem-duoc. Câu kệ trên Wikisource là bản dịch hiện đại, khác chữ với “Trong nhà có báu thôi tìm kiếm” (bản bài dùng), cùng nghĩa. Nên dẫn bản Nôm/Hán gốc nếu cần. Nguồn yếu về phần Trần Nhân Tông (Wikisource vi)."
+}

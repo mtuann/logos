@@ -1,0 +1,83 @@
+{
+  "unit": "terms/thuyet-menh-lenh-than-linh",
+  "hash": "sha256:82657eeca8b25487d676db65155f42c85e636afdeb39dc2daa8434c483484d52",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m05",
+  "claims": [
+    {
+      "text": "vi–en: thuyết mệnh lệnh thần linh = divine command theory",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/",
+          "quote": "There is a class of metaethical and normative views that commonly goes by the name ‘divine command theory.’",
+          "where": "SEP, Murphy, \"Theological Voluntarism\" (bản sửa 19/5/2025), câu đầu"
+        },
+        {
+          "url": "https://iep.utm.edu/divine-command-theory/",
+          "quote": "Divine Command Theory is the view that morality is somehow dependent upon God",
+          "where": "IEP, Austin, \"Divine Command Theory\", câu đầu"
+        }
+      ]
+    },
+    {
+      "text": "def: Lập trường cho rằng điều đúng (hay ít nhất nghĩa vụ đạo đức) là đúng vì Thượng đế ra lệnh — vế thứ hai của thế lưỡng nan Euthyphro.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/divine-command-theory/",
+          "quote": "Divine Command Theory is the view that morality is somehow dependent upon God, and that moral obligation consists in obedience to God’s commands.",
+          "where": "câu đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/",
+          "quote": "only moral properties in the “obligation family,” properties like those of being obligatory, being permissible, being required, and being right",
+          "where": "phiên bản của Adams, Quinn, Alston chỉ áp dụng cho nhóm nghĩa vụ (\"hay ít nhất nghĩa vụ đạo đức\")"
+        },
+        {
+          "url": "https://iep.utm.edu/divine-command-theory/",
+          "quote": "“Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?”",
+          "where": "mục 3, A Persistent Problem: The Euthyphro Dilemma; thuyết mệnh lệnh thần linh ứng với vế sau (IEP diễn lại: \"or is it morally right because God commands it?\")"
+        }
+      ]
+    },
+    {
+      "text": "example: Robert Adams cho rằng nghĩa vụ phụ thuộc mệnh lệnh của một Thượng đế công bằng và nhân từ, nên không tùy tiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/",
+          "quote": "the concept of the morally obligatory is to be analyzed as that of being commanded by a loving God",
+          "where": "mục Analysis (Adams 1973)"
+        },
+        {
+          "url": "https://iep.utm.edu/divine-command-theory/",
+          "quote": "It is not possible for a loving God to command cruelty for its own sake.",
+          "where": "mục 4.d Modified Divine Command Theory (Adams 1987): vì vậy đạo đức không tùy tiện"
+        },
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Adams+came+to+acknowledge%22+just+loving",
+          "quote": "the importance of God's justice for the grounding of a divine command theory",
+          "where": "Google Books, William Lane Craig, Systematic Philosophical Theology, vol. 2a: On God (2025), tr. 474 (cùng đoạn có \"just and loving God\"; dẫn Adams, Finite and Infinite Goods, tr. 254): \"công bằng\" là từ bản Adams 1999 sau phê bình của MacIntyre"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/bien-chung-socrates.md có trong repo và bàn thuyết mệnh lệnh thần linh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/bien-chung-socrates/",
+          "quote": "dưới cái tên \"thuyết mệnh lệnh thần thánh\" (divine command theory)",
+          "where": "file docs/cong-cu/bien-chung-socrates.md trong repo, mục \"Ví dụ kinh điển: Euthyphro\"; trang đã xuất bản khớp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m05): không có lỗi trong bản ghi. (1) Tên gọi chưa thống nhất: trang see (cong-cu/bien-chung-socrates.md) và them/sach.md dòng 2865 viết \"thuyết mệnh lệnh thần thánh\", còn mục từ điển, triet-gia/socrates.md, doc/mac-tu-kiem-ai.md viết \"thần linh\"; nên sửa trang see cho khớp tên mục từ. (2) \"Vế thứ hai\" đúng theo thứ tự câu hỏi ở Euthyphro 10a (như IEP dẫn); có nguồn đảo thứ tự (SEP \"Religion and Morality\" dẫn \"Is the holy holy because it is loved by the gods, or do they love it because it is holy?\"; chính IEP ở mục 4.d gọi hệ quả tùy tiện là \"first horn\"), nên nếu muốn tránh mơ hồ có thể viết \"vế 'mộ đạo vì được thần yêu' của thế lưỡng nan Euthyphro\" (không bắt buộc). (3) \"Công bằng và nhân từ\": SEP/IEP chỉ nói \"a loving God\" (Adams 1973, 1987); chữ \"công bằng\" khớp bản Adams 1999 theo Craig 2025 (Google Books), chưa đọc trực tiếp Finite and Infinite Goods."
+}

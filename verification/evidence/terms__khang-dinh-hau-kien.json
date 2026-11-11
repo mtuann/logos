@@ -1,0 +1,58 @@
+{
+  "unit": "terms/khang-dinh-hau-kien",
+  "hash": "sha256:1d4635097aa33c9efea3ca2948afdee65a58b51602b78f0531966a52570051ec",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: khẳng định hậu kiện = affirming the consequent",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the formal fallacy of affirming the consequent"
+        }
+      ]
+    },
+    {
+      "text": "def: Ngụy biện hình thức: từ “nếu P thì Q” và “Q”, kết luận “P” — sai vì Q đúng không đảm bảo P đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the formal fallacy of affirming the consequent"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "This does not mean that the conclusion is true. Perhaps the premises are not true."
+        }
+      ]
+    },
+    {
+      "text": "example: Nếu mưa thì đường ướt; đường ướt; vậy trời mưa (đường ướt có thể do xe tưới nước).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/nguy-bien-hinh-thuc/",
+          "quote": "khẳng định hậu kiện, phủ định tiền kiện, khẳng định một vế của tuyển bao hàm"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/nguy-bien-hinh-thuc.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/nguy-bien-hinh-thuc/",
+          "quote": "khẳng định hậu kiện, phủ định tiền kiện, khẳng định một vế của tuyển bao hàm"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): SEP Fallacies gọi tên \"formal fallacy of affirming the consequent\" nhưng không chép dạng P→Q, Q, ∴P; dạng đó là chuẩn (khớp trang see). Ví dụ mưa/đường ướt đúng cấu trúc."
+}

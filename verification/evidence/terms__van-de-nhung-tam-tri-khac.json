@@ -1,0 +1,60 @@
+{
+  "unit": "terms/van-de-nhung-tam-tri-khac",
+  "hash": "sha256:483ad46c98747b6e4592f6256b249ad9bfcb72a234b6b56d3ed21d7020349103",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vấn đề những tâm trí khác\" = problem of other minds",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "problem of other minds | vấn đề những tâm trí khác",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/other-minds/",
+          "quote": "Textbooks in philosophy often refer to the problem of other minds."
+        }
+      ]
+    },
+    {
+      "text": "def: Câu hỏi làm sao ta biết người khác, hay sinh vật khác, cũng có tâm trí như mình.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/other-minds/",
+          "quote": "How do I know that others have minds?"
+        }
+      ]
+    },
+    {
+      "text": "example: Bạn chỉ thấy bạn mình cười, đâu thấy được niềm vui \"bên trong\" của họ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/other-minds/",
+          "quote": "How do I know that others have minds?",
+          "where": "ví dụ nụ cười minh họa việc chỉ thấy hành vi"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tam-tri-va-ai.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "Còn một khó khăn chung cho cả ba câu: vấn đề những tâm trí khác (problem of other minds)."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): def \"hay sinh vật khác\" đúng (SEP bàn cả động vật)."
+}

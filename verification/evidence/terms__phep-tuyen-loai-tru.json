@@ -1,0 +1,70 @@
+{
+  "unit": "terms/phep-tuyen-loai-tru",
+  "hash": "sha256:3b15b124bd893889fb57d4e59dbee9435e76e2214bad461af9385cf74f025138",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: phép tuyển loại trừ = exclusive disjunction",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/exclusive_disjunction",
+          "quote": "exclusive disjunction (plural exclusive disjunctions) (logic) A disjunction which is true if only one, but not both, of its disjuncts is true."
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Abelard, for example, seems to have been the first to clearly differentiate exclusive disjunction from inclusive disjunction"
+        }
+      ]
+    },
+    {
+      "text": "def: “hoặc P hoặc Q nhưng không cả hai”, đúng khi đúng một trong hai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/exclusive_disjunction",
+          "quote": "A disjunction which is true if only one, but not both, of its disjuncts is true."
+        }
+      ]
+    },
+    {
+      "text": "ký hiệu ⊕ cho exclusive disjunction",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/%E2%8A%95",
+          "quote": "(logic) Exclusive or.",
+          "where": "mục ⊕ (U+2295 CIRCLED PLUS), nghĩa logic"
+        }
+      ]
+    },
+    {
+      "text": "example: “hoặc rẽ trái hoặc rẽ phải” ở ngã ba là tuyển loại trừ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/exclusive_or",
+          "quote": "the use of or to indicate that of two predicates, one is true and one is false"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có và bàn phép tuyển loại trừ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "### Tuyển loại trừ: ⊕ (\"hoặc… hoặc…\", chọn một)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): ⊕ là một ký hiệu thông dụng cho exclusive or (còn có ⊻, XOR); nguồn là từ điển Wiktionary (nguồn yếu hơn SEP/IEP; SEP Classical Logic không nêu ký hiệu này). Bản ghi không nói đây là ký hiệu duy nhất nên không sai. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t04): Chưa mở được nguồn học thuật cho ký hiệu ⊕ (IEP/SEP trong lô này không nêu); các nguồn ký hiệu thường là sách logic (vd. Copi) — người làm có thể dẫn thêm. Phần khái niệm đã có nguồn từ điển + IEP (Abelard phân biệt loại trừ/bao hàm)."
+}

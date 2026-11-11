@@ -1,0 +1,79 @@
+{
+  "unit": "terms/truc-giac-triet-hoc",
+  "hash": "sha256:a4f4245c2a04c55ca66ca0ac40f8bb82ed0f29e9d54d6ec0c5f88d25d45f3765",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"trực giác (triết học)\" = intuition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "This entry addresses the nature and epistemological role of intuition"
+        }
+      ]
+    },
+    {
+      "text": "han: 直覺 đọc Hán Việt ra \"trực giác (triết học)\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/直覺",
+          "quote": "intuition; instinct; gut feeling",
+          "where": "mục tiếng Hoa"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/直",
+          "quote": "Âm Hán Việt: trị, trực"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/覺",
+          "quote": "Âm Hán Việt: giác, giáo"
+        }
+      ]
+    },
+    {
+      "text": "def: Phán đoán tự nhiên, chưa qua lập luận, về một trường hợp cụ thể, thường được dùng làm dữ kiện để thử một lý thuyết.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "S has the rational intuition that p if and only if it intellectually seems to S that necessarily p."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "philosophical inquiry typically relies upon “a priori intuitions”"
+        }
+      ]
+    },
+    {
+      "text": "example: Hầu hết mọi người thấy ngay rằng phạt người vô tội để xoa dịu đám đông là sai, trước khi kịp đưa ra lý do.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "This entry addresses the nature and epistemological role of intuition",
+          "where": "ví dụ minh họa kiểu thí nghiệm tư duy (xe goòng/cây cầu, phạt người vô tội)"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/thi-nghiem-tu-duy.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/thi-nghiem-tu-duy/",
+          "quote": "nhằm kiểm tra trực giác (intuition) của ta về một khái niệm"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): hai bản ghi trùng en \"intuition\" (truc-giac và truc-giac-triet-hoc), cùng see; người làm cân nhắc gộp hoặc phân biệt rõ nghĩa thường ngày/nghĩa triết học. Ví dụ \"đẩy người xuống cầu\" là trực giác kinh điển của bài toán xe goòng (footbridge), SEP intuition chỉ dẫn được khái niệm chung. | 10/11/2026 (sổ sách, Claude): sửa theo kiểm mẫu 5.3 — def viết lại đúng câu fix (trực giác có thể về trường hợp cụ thể hay nguyên tắc chung; SEP Intuition); bằng chứng verification/mau/5.3/terms__truc-giac-triet-hoc.json; các dữ kiện khác không đổi; cập nhật mã băm, không mở lại nguồn."
+}

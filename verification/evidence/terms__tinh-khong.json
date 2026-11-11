@@ -1,0 +1,75 @@
+{
+  "unit": "terms/tinh-khong",
+  "hash": "sha256:80223d55d8a8607ffaa6a4d1c414e5227bd541c8f107bf05843f754933e12c87",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tính không = emptiness (śūnyatā)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "is built is the notion of emptiness (śūnyatā)"
+        }
+      ]
+    },
+    {
+      "text": "han: 空 đọc Hán Việt là không",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/空",
+          "quote": "hanviet=không-tdcndg;tdcntd;gdhn;bonet;genibrel",
+          "where": "wikitext mục 空"
+        }
+      ]
+    },
+    {
+      "text": "def: Phật giáo Đại thừa: mọi pháp không có tự tính, tức không tự mình mà có, độc lập; không phải “không có gì”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "Emptiness is of course always the emptiness of something, and the something Nāgārjuna has in mind here is svabhāva."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "“inherent existence” and “intrinsic nature” appear to be the more popular choices"
+        }
+      ]
+    },
+    {
+      "text": "example: “Sắc tức thị không”: chiếc điện thoại dùng được nhưng không tồn tại độc lập với linh kiện, nhà máy, người dùng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/般若波羅蜜多心經註解",
+          "quote": "色不異空空不異色。色即是空空即是色。",
+          "where": "Tâm kinh, trích trong bản chú giải trên Wikisource zh"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nagarjuna/",
+          "quote": "Emptiness is of course always the emptiness of something"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/tam-kinh.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "Duyên khởi, tính không và trung đạo là một."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): nguồn Tâm kinh là bản chú giải trên Wikisource; nếu muốn, dẫn trực tiếp CBETA T08n0251. Ví dụ điện thoại là minh họa của người làm. | 10/11/2026 (sổ sách, Claude): sửa theo kiểm mẫu 5.3 — han đổi 空 thành 性空 theo fix (đọc “tính không”); bằng chứng verification/mau/5.3/terms__tinh-khong.json; các dữ kiện khác không đổi; cập nhật mã băm, không mở lại nguồn."
+}

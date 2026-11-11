@@ -1,0 +1,84 @@
+{
+  "unit": "terms/lap-luan",
+  "hash": "sha256:6094776d5013747cd538e91628a467a09f8a306e1056339e41473d0a99cee0c0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: lập luận = argument (khớp bảng mục 3 HUONG-DAN-VIET.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "an attempt to provide evidence in favor of some conclusion"
+        }
+      ]
+    },
+    {
+      "text": "han: 立論 đọc Hán Việt là lập luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%AB%8B",
+          "quote": "Âm Hán Việt: lập"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E8%AB%96",
+          "quote": "Âm Hán Việt: luân, luận"
+        }
+      ]
+    },
+    {
+      "text": "def: Một tập hợp khẳng định, trong đó một số (tiền đề) được đưa ra làm lý do để chấp nhận một khẳng định khác (kết luận).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "an attempt to provide evidence in favor of some conclusion"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "The premises in an argument convey the evidence it provides."
+        }
+      ]
+    },
+    {
+      "text": "example: \"Trời đang mưa to, nên đường Nguyễn Hữu Cảnh sẽ ngập\" là một lập luận ngắn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "The premises in an argument convey the evidence it provides."
+        }
+      ]
+    },
+    {
+      "text": "alt: luận cứ (\"luận cứ\" có trong bảng mục 3; trang luan-cu-thep dùng \"luận cứ\" cho argument)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/luan-cu-thep/",
+          "quote": "Luận cứ thép: hiểu đối thủ trước khi phản bác"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/lap-luan-la-gi.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "Lập luận là gì?"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Hán 立論 đọc đúng \"lập luận\" (立 lập, 論 luận) nhưng trong tiếng Hán 立論 nghĩa gốc là \"lập ra luận điểm/đưa ra luận thuyết\"; \"argument\" thường là 論證/論辯. Hán Việt hợp, nghĩa gần: người làm cân nhắc có nên giữ chữ Hán này. \"Luận cứ\" nguồn yếu (chỉ là trang site)."
+}

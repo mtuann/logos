@@ -1,0 +1,58 @@
+{
+  "unit": "terms/giao-dieu-chet",
+  "hash": "sha256:a2f393dc2900faa30628da7d4442498190ebb5fdeeae6356e3ef49004528432a",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: giáo điều chết = dead dogma (Mill)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "it will be held as a dead dogma, not a living truth"
+        }
+      ]
+    },
+    {
+      "text": "def: Chữ của Mill: một niềm tin, dù đúng, không còn được tranh luận nên được giữ như định kiến; người ta quên căn cứ của nó và nó mất sức sống.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "it will be held as a dead dogma, not a living truth"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "the dogma becoming a mere formal profession"
+        }
+      ]
+    },
+    {
+      "text": "example: Thuộc lòng một khẩu hiệu mà không giải thích được vì sao nó đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/34901",
+          "quote": "he has no knowledge whatever of the grounds of the opinion"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/mill-tu-do.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/mill-tu-do/",
+          "quote": "Chân lý không được thách thức thành giáo điều chết"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Mill, On Liberty ch. II (Gutenberg 34901). Mill dùng \"dead dogma\" và \"prejudice\" ở các đoạn gần nhau; def nói \"giữ như định kiến\" hơi diễn giải nhưng đúng ý đoạn văn."
+}

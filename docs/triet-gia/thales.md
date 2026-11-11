@@ -12,7 +12,7 @@ updated: 2026-10-22
 
 Có hai giai thoại về Thales, vẽ ra hai chân dung trái ngược. Trong *Theaetetus* của Platon, ông mải ngẩng nhìn sao đến nỗi rơi xuống giếng, và một cô hầu gái người Thrace trêu rằng ông nóng lòng biết chuyện trên trời mà không thấy cái ở dưới chân. Còn Aristotle, trong *Chính trị học*, kể rằng khi bị chê nghèo vì theo đuổi thứ triết học vô ích, Thales nhìn trời đoán trước một mùa ô-liu bội thu, từ mùa đông đã thuê hết máy ép dầu ở Miletus và Chios, đến vụ thì cho thuê lại với giá tùy ý — để chứng tỏ triết gia muốn giàu thì dễ, chỉ là họ không nhắm tới điều đó. Cả hai đều là tương truyền, nhưng câu hỏi chúng đặt ra vẫn còn: nghĩ về những điều xa xôi thì có ích gì?
 
-Thales sống ở Miletus, một thành phố Hy Lạp bên bờ biển phía tây Tiểu Á (nay thuộc Thổ Nhĩ Kỳ), khoảng đầu thế kỷ 6 TCN, và được xếp vào hàng “Bảy hiền nhân”. Ông không để lại cuốn sách nào chắc chắn là của mình; mọi điều ta biết đều qua lời kể lại. Herodotus chép rằng Thales đã báo trước cho người Ionia năm sẽ có một lần ngày hóa thành đêm; nhật thực ấy đến giữa lúc quân Lydia và quân Media đang giao chiến, khiến hai bên ngừng đánh. Các nhà thiên văn hiện đại cho đó là trận nhật thực ngày 28/5/585 TCN. Diogenes Laërtius, viết hơn tám trăm năm sau, kể thêm rằng ông đo chiều cao kim tự tháp bằng cách chờ đến giờ bóng người dài đúng bằng người.
+Thales sống ở Miletus, một thành phố Hy Lạp bên bờ biển phía tây Tiểu Á (nay thuộc Thổ Nhĩ Kỳ), khoảng đầu thế kỷ 6 TCN, và được xếp vào hàng “Bảy hiền nhân”. Ông không để lại cuốn sách nào chắc chắn là của mình; mọi điều ta biết đều qua lời kể lại. Herodotus chép rằng Thales đã báo trước cho người Ionia năm sẽ có một lần ngày hóa thành đêm; nhật thực ấy đến giữa lúc quân Lydia và quân Media đang giao chiến, khiến hai bên ngừng đánh. Các nhà thiên văn hiện đại cho đó là trận nhật thực ngày 28/5/585 TCN. Diogenes Laërtius, viết khoảng tám trăm năm sau, kể thêm rằng ông đo chiều cao kim tự tháp bằng cách chờ đến giờ bóng người dài đúng bằng người.
 
 Điều khiến Aristotle gọi Thales là người mở đầu việc nghiên cứu tự nhiên là một câu hỏi: muôn vật từ đâu mà ra? Theo Aristotle, Thales đáp: từ nước — và trái đất nổi trên nước. Ông còn được thuật lại là cho rằng nam châm có linh hồn vì nó làm sắt chuyển động, và “mọi vật đầy thần linh”. Nghe xa lạ, nhưng bước ngoặt nằm ở chỗ khác: lời giải thích không còn là chuyện thần linh nổi giận hay ban ơn, mà là một nguyên lý nằm ngay trong tự nhiên.
 
@@ -41,7 +41,7 @@ Thales không để lại lập luận nào. Đây là phỏng đoán của Aris
 - **P4.** Nước là gốc của mọi thứ ẩm.
 - **K.** Vậy nước là nguyên lý của muôn vật.
 
-**Phản bác chính.** Anaximander phản đối: nước, lửa, đất, khí luôn biến đổi qua lại, nên chọn riêng một thứ làm gốc là thiên vị; gốc của muôn vật phải là một cái khác hẳn, “cái vô hạn định” (*apeiron*). Hơn nữa, đi từ sinh vật sang mọi vật (đá, kim loại, lửa) là khái quát vội.
+**Phản bác chính.** Anaximander, theo Theophrastus, cho rằng gốc của muôn vật không phải nước hay bất cứ “nguyên tố” nào khác, mà là “cái vô hạn định” (*apeiron*). Lý lẽ được Aristotle thuật lại (*Vật lý học* III.5, 204b) và thường gán cho ông: nước, khí, lửa đối nghịch nhau — khí lạnh, nước ẩm, lửa nóng — nên nếu một thứ là vô hạn thì nó đã tiêu diệt những thứ kia từ lâu; chọn riêng một thứ làm gốc là để nó lấn át phần còn lại. Thêm một phản bác của người đọc về sau, không phải của Anaximander: các lý do Aristotle đoán cho Thales đều lấy từ sinh vật (thức ăn, hạt giống), nên đi từ sinh vật sang mọi vật (đá, kim loại, lửa) là khái quát vội.
 
 **Cách đáp lại.** Thales không để lại lời đáp, nhưng có thể dựng lại: với ông, ranh giới giữa sống và không sống không rõ như với ta (nam châm “có linh hồn”), nên khái quát từ sự sống sang mọi vật không vội như ta tưởng. Và chính vì nước biến hóa được — bốc hơi, đông lại, lắng thành đất — mà nó đủ tư cách làm gốc; theo Aëtius, cả lửa của mặt trời và các vì sao cũng được nuôi bằng hơi nước.
 
@@ -52,7 +52,7 @@ Thales không để lại lập luận nào. Đây là phỏng đoán của Aris
 
 ## Hiểu lầm thường gặp
 
-- **“Thales nghĩ mọi thứ thực chất đều là nước.”** Thực ra ta không chắc. Mọi điều ta biết đi qua Aristotle, người đọc các bậc tiền bối bằng khung “nguyên nhân vật chất” của chính mình — cách đọc mà học giả nay coi là gán ghép. Có thể Thales chỉ muốn nói muôn vật *sinh ra từ* nước.
+- **“Thales nghĩ mọi thứ thực chất đều là nước.”** Thực ra ta không chắc. Hầu hết những gì ta biết đi qua Aristotle, người đọc các bậc tiền bối bằng khung “nguyên nhân vật chất” của chính mình — cách đọc mà học giả nay coi là gán ghép. Có thể Thales chỉ muốn nói muôn vật *sinh ra từ* nước.
 - **“Thales tính ra chính xác ngày nhật thực 28/5/585 TCN.”** Thực ra Herodotus chỉ nói ông báo trước nhật thực sẽ xảy ra trong năm ấy. Ngày 28/5/585 TCN là tính toán của thiên văn học hiện đại; ông làm cách nào, và có thật làm được không, vẫn còn tranh cãi.
 
 ## Ảnh hưởng

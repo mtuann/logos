@@ -1,0 +1,71 @@
+{
+  "unit": "terms/noi-tai-luan",
+  "hash": "sha256:8216442aa2e2a1995bb2a6724e06cbacde160cd7ff0c9cb9b6c99ac161830252",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m07",
+  "claims": [
+    {
+      "text": "vi–en: nội tại luận — internalism (epistemic)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "Internalists about justification defend the view that justification supervenes upon the internal.",
+          "where": "SEP “Internalist vs. Externalist Conceptions of Epistemic Justification” (Clayton Littlejohn, 2025), đoạn mở đầu; khớp bảng HUONG-DAN-VIET.md mục 3 trong repo (dòng: internalism / externalism (epistemic) | nội tại luận / ngoại tại luận)"
+        }
+      ]
+    },
+    {
+      "text": "def: Lập trường cho rằng những gì biện minh cho niềm tin phải là thứ người tin có thể tiếp cận bằng suy nghĩ của mình.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "The internal is most often understood in accessibilist terms (e.g., in terms of that which is reflectively accessible",
+          "where": "mục 1 Terms of the Debates"
+        },
+        {
+          "url": "https://iep.utm.edu/int-ext/",
+          "quote": "On an accessibilist view every factor that determines whether one’s belief is propositionally justified is reflectively accessible.",
+          "where": "IEP “Internalism and Externalism in Epistemology” (Ted Poston), mục The Meaning of ‘Internal’"
+        }
+      ]
+    },
+    {
+      "text": "example: Bạn chỉ được coi là có lý do để tin nếu bạn có thể nói ra lý do đó khi được hỏi.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bạn chỉ được coi là có lý do để tin nếu tự soi xét là nhận ra được lý do đó (điều mình đang thấy, nhớ được hay suy ra được), dù có khi khó nói thành lời.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/int-ext/",
+          "quote": "What reason do you have for this belief? It might be difficult to say. Yet internalism requires that you have some reason (typically, the content of one’s experience)",
+          "where": "mục The Socratic/Cartesian project: nội tại luận đòi có lý do trong tầm tiếp cận, không đòi nói được thành lời"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "unless the thinker has sufficiently good reasons available to reflection (BonJour 1980)",
+          "where": "đoạn mở đầu"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "see: cau-hoi/tri-thuc.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Ngược lại, nội tại luận (internalism) cho rằng biện minh phải là thứ bạn có thể tự soi xét được.",
+          "where": "file docs/cau-hoi/tri-thuc.md có trong repo (tiêu đề “Biết một điều nghĩa là gì?”), mục về thuyết tin cậy; trang xuất bản cùng nội dung"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m07): vi–en khớp bảng mục 3; def đúng theo cách hiểu phổ biến nhất (accessibilism). Gợi ý không bắt buộc: SEP và IEP nêu thêm dạng thứ hai là mentalism (Conee & Feldman: biện minh chỉ do trạng thái tâm trí quyết định), có thể thêm “theo cách hiểu phổ biến nhất”. Ví dụ hơi quá tay: đặt điều kiện là nói được lý do khi bị hỏi, trong khi nội tại luận chỉ đòi lý do nằm trong tầm tự soi xét (IEP nói rõ có khi khó nói ra mà vẫn có lý do); ghi sai mức nhẹ, đề xuất câu sửa. | 10/11/2026 (sổ sách, Claude): đã sửa: example viết lại đúng câu fix (tự soi xét nhận ra được lý do, không đòi nói thành lời); cập nhật mã băm, không mở lại nguồn."
+}

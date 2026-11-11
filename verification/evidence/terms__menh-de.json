@@ -1,0 +1,68 @@
+{
+  "unit": "terms/menh-de",
+  "hash": "sha256:1ee36de34de3cbb713c1f50070e7b07ab9474f45760a09b84621e6aaa32dcf98",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mệnh đề = proposition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/propositions/",
+          "quote": "the primary bearer of truth-value"
+        }
+      ]
+    },
+    {
+      "text": "han: 命題, đọc Hán Việt mệnh đề",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/命題",
+          "quote": "{{vi-Han form of|mệnh đề|[[proposition]]}}",
+          "where": "mục Vietnamese, wikitext API"
+        }
+      ]
+    },
+    {
+      "text": "def: câu khẳng định có chân trị xác định, đúng hoặc sai (không vừa đúng vừa sai)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "every statement is either true or false and not both",
+          "where": "IEP Propositional Logic"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Hà Nội là thủ đô của Việt Nam\" là mệnh đề; \"Hãy đóng cửa!\" không phải vì không đúng cũng không sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "every statement is either true or false and not both"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "description: Mệnh đề là gì, sáu phép nối với bảng chân trị của từng phép, cách đọc bảng của công thức phức, và cách kiểm",
+          "where": "đọc từ docs/cong-cu/logic-menh-de.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): ví dụ câu mệnh lệnh không đúng/sai suy từ định nghĩa trên, chưa tìm câu nguồn nêu riêng câu mệnh lệnh. SEP propositions: \"bearer of truth-value\"."
+}

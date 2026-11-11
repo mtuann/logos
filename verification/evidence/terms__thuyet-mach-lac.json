@@ -1,0 +1,56 @@
+{
+  "unit": "terms/thuyet-mach-lac",
+  "hash": "sha256:d52190bbc3674749bafb1aede108bce9dea89f9606a1603c3d2247146924acd1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: thuyết mạch lạc = coherence theory of truth",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/",
+          "quote": "The coherence theory of truth has several versions."
+        }
+      ]
+    },
+    {
+      "text": "def: niềm tin đúng khi và chỉ khi thuộc một hệ niềm tin mạch lạc, các niềm tin suy ra và giải thích lẫn nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/",
+          "quote": "Different versions of the theory give different accounts of the coherence relation.",
+          "where": "SEP: các phiên bản khác nhau về quan hệ mạch lạc (nhất quán, suy ra, giải thích) và về tập đối chiếu"
+        }
+      ]
+    },
+    {
+      "text": "example: điều tra viên chấp nhận giả thuyết làm mọi lời khai, dấu vết khớp nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/",
+          "quote": "if a proposition coheres with a set of beliefs, it can be known to cohere with the set",
+          "where": "minh họa của người làm"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/chan-ly.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "Thuyết mạch lạc (Joachim 1906, Blanshard 1939)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): mức 'nhẹ': def nói 'suy ra và giải thích lẫn nhau' là một trong các phiên bản (SEP: nhất quán, suy ra, giải thích); không hiểu lầm."
+}

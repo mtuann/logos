@@ -1,0 +1,86 @@
+{
+  "unit": "terms/phi-cong",
+  "hash": "sha256:95df3ced83fc19ce5a468db7988a20ebaf35232e0ad3c003b2831bf08497b39c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phi công = condemning offensive war (fei gong); SEP gọi là “Condemning Aggression”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "“Inclusive Care” and “Condemning Aggression.”"
+        }
+      ]
+    },
+    {
+      "text": "han: 非攻 đọc phi công",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/非",
+          "quote": "非: Hán Nôm readings: phi[1]"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/攻",
+          "quote": "攻: Hán Nôm readings: công"
+        }
+      ]
+    },
+    {
+      "text": "def: Mặc Tử chống chiến tranh xâm lược; đánh chiếm một nước cùng loại với trộm cắp, giết người, chỉ khác quy mô",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Military aggression is wrong for the same reasons that theft, robbery, and murder are"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "今至大爲攻國，則弗知非，從而譽之，謂之義。",
+          "where": "墨子·非攻上"
+        }
+      ]
+    },
+    {
+      "text": "def: Mặc gia không chống tự vệ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Some Mohists became specialists in defensive warfare"
+        }
+      ]
+    },
+    {
+      "text": "example: lên án kẻ trộm xe máy mà ca ngợi xâm lược là tiêu chuẩn kép theo lập luận phi công",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+          "quote": "今有一人，入人園圃，竊其桃李，衆聞則非之",
+          "where": "墨子·非攻上"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/mac-tu-kiem-ai.md có và bàn phi công",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/",
+          "quote": "giết một người và đánh một nước"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Wikisource zh đối chiếu Mặc Tử, Phi công thượng. Bài mac-tu-kiem-ai.md có một mục “giết một người và đánh một nước” (cùng lập luận 非攻) nhưng chỉ xuất hiện chữ 非攻 một lần; chấp nhận vì khái niệm được bàn đủ. Nguồn ctext không dùng."
+}

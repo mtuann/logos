@@ -1,0 +1,58 @@
+{
+  "unit": "terms/noi-tai-luan",
+  "hash": "sha256:8216442aa2e2a1995bb2a6724e06cbacde160cd7ff0c9cb9b6c99ac161830252",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: nội tại luận = internalism (epistemic), khớp bảng mục 3",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "arguments for internalism and for externalism about justification"
+        }
+      ]
+    },
+    {
+      "text": "def: cái biện minh cho niềm tin phải là thứ người tin tiếp cận được bằng suy nghĩ của mình",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "The internal is most often understood in accessibilist terms (e.g., in terms of that which is reflectively accessible"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "or in mentalist terms (i.e., in terms of the mental life of an individual thinker"
+        }
+      ]
+    },
+    {
+      "text": "example: chỉ có lý do để tin nếu nói ra được lý do khi được hỏi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justep-intext/",
+          "quote": "that which is reflectively accessible"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có và bàn nội tại luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "**nội tại luận** (*internalism*) cho rằng biện minh phải là thứ bạn có thể tự soi xét được"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Định nghĩa là cách hiểu theo phái \"accessibilist\"; phái \"mentalist\" (Conee–Feldman) rộng hơn (chỉ cần dựa vào trạng thái tinh thần, không nhất thiết tiếp cận được). Bản ghi viết \"có thể tiếp cận bằng suy nghĩ của mình\": chấp nhận như định nghĩa nhập môn. Ví dụ \"nói ra được lý do\" hơi mạnh hơn \"tiếp cận được\" nhưng không sai. | 10/11/2026 (sổ sách, Claude): sửa theo kiểm mẫu 5.3 — example viết lại đúng câu fix (tự soi xét nhận ra được lý do, không đòi nói thành lời); bằng chứng verification/mau/5.3/terms__noi-tai-luan.json; các dữ kiện khác không đổi; cập nhật mã băm, không mở lại nguồn."
+}

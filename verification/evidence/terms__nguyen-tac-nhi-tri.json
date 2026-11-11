@@ -1,0 +1,60 @@
+{
+  "unit": "terms/nguyen-tac-nhi-tri",
+  "hash": "sha256:f4e1c71aa777d76c2ab3ec88724b0148217d27977f84bb45384b1ff98c61b4a9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: nguyên tắc nhị trị = principle of bivalence",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/future-contingents/",
+          "quote": "restrict the validity of bivalence by introducing a third truth-value"
+        }
+      ]
+    },
+    {
+      "text": "def: mọi khẳng định hoặc đúng hoặc sai, không có khả năng thứ ba; khác với loại trừ thứ ba, một định luật của logic",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "every statement is either true or false but not both",
+          "where": "mô tả logic hai trị"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "the law of excluded middle (LEM)"
+        }
+      ]
+    },
+    {
+      "text": "example: câu về bảy con chim sáng 1/1/1000 ở Hồ Gươm, theo nhị trị đúng hoặc sai dù không ai biết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "every statement is either true or false but not both"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/chan-ly.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "không?** Đó là câu hỏi của bảy con chim, xoay quanh **nguyên tắc nhị trị** (*principle of bivalence*): mọi khẳng định hoặc đúng hoặc sai (bài [Mọi thứ đã được viết sẵn?](dinh-menh.md) gọi đó là",
+          "where": "đọc từ docs/cau-hoi/chan-ly.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): ví dụ bảy con chim là của chính bài chan-ly.md (Dummett); nguồn ngoài chỉ xác nhận định nghĩa nhị trị."
+}

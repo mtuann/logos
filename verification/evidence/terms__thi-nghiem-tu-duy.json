@@ -1,0 +1,67 @@
+{
+  "unit": "terms/thi-nghiem-tu-duy",
+  "hash": "sha256:b5210f9f65b7338b48059abf0d8383bb9488ae2165e9eebddf2d3b68639aeac3",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: thí nghiệm tư duy = thought experiment (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "Important Characteristics of Thought Experiments",
+          "where": "tiêu đề mục 1 của mục SEP Thought Experiments"
+        }
+      ]
+    },
+    {
+      "text": "def: tình huống tưởng tượng dựng lên để thử một khái niệm hay lý thuyết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "we visualize some situation that we have set up in the imagination; we let it run or we carry out an operation; we see what happens; finally, we draw a conclusion"
+        }
+      ]
+    },
+    {
+      "text": "example: con tàu của Theseus là thí nghiệm tư duy về việc vật còn là chính nó khi các bộ phận bị thay hết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
+          "quote": "Over a long period all of the planks composing a certain ship are replaced one by one."
+        }
+      ]
+    },
+    {
+      "text": "alt: thực nghiệm tư duy (có trong bảng mục 3 làm cách dịch khác)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "Important Characteristics of Thought Experiments",
+          "where": "đối chiếu bảng HUONG-DAN-VIET mục 3"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/thi-nghiem-tu-duy.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/thi-nghiem-tu-duy/",
+          "quote": "Một thí nghiệm tư duy (thought experiment) là một tình huống tưởng tượng được dựng lên cẩn thận"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): SEP không đóng khung Theseus là 'thought experiment' bằng đúng chữ, nhưng ví dụ là ca tưởng tượng quen thuộc trong mục Identity over Time."
+}

@@ -1,0 +1,95 @@
+{
+  "unit": "terms/ly-tinh",
+  "hash": "sha256:e7b54ecd4b27ee4b9070a6096ce6da01bd61567a68d293f4c30e06860361cce2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m05",
+  "claims": [
+    {
+      "text": "vi–en: lý tính = reason",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/%E7%90%86%E6%80%A7",
+          "quote": "reason; rationality",
+          "where": "Wiktionary 理性, mục Chinese, Noun"
+        },
+        {
+          "url": "https://www.britannica.com/topic/reason",
+          "quote": "Reason, in philosophy, the faculty or process of drawing logical inferences.",
+          "where": "Britannica, \"Reason\", câu đầu"
+        }
+      ]
+    },
+    {
+      "text": "han: 理性, đọc Hán Việt là lý tính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/%E7%90%86%E6%80%A7",
+          "quote": "chữ Hán form of lý tính",
+          "where": "Wiktionary 理性, mục Vietnamese"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%90%86",
+          "quote": "Âm Hán Việt: lí, lý",
+          "where": "hvdic, chữ 理"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E6%80%A7",
+          "quote": "Âm Hán Việt: tính",
+          "where": "hvdic, chữ 性 (hvdic không có mục từ ghép 理性)"
+        }
+      ]
+    },
+    {
+      "text": "def: Năng lực suy nghĩ có lý lẽ: cân nhắc bằng chứng, rút ra kết luận và đánh giá lý do.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/reason",
+          "quote": "Reason, in philosophy, the faculty or process of drawing logical inferences.",
+          "where": "câu đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "by assessing and weighing reasons for belief, the considerations that speak for and against the particular conclusions one might draw about the way the world is",
+          "where": "SEP, Wallace, \"Practical Reason\", đoạn so sánh lý tính thực hành với lý tính lý thuyết"
+        }
+      ]
+    },
+    {
+      "text": "example: Kìm cơn giận để xem xét xem người kia có lý ở điểm nào là dùng lý tính.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/reason",
+          "quote": "Reason is in opposition to sensation, perception, feeling, desire",
+          "where": "đoạn 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "In practical reasoning agents attempt to assess and weigh their reasons for action",
+          "where": "SEP, Wallace, \"Practical Reason\", đoạn so sánh lý tính thực hành với lý tính lý thuyết"
+        }
+      ]
+    },
+    {
+      "text": "see: lich-su/can-dai.md có trong repo và bàn lý tính (lý trí)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/can-dai/",
+          "quote": "lý trí của mình — chứ không phải Kinh thánh, Aristotle hay truyền thống — mới là thẩm phán cuối cùng của chân lý",
+          "where": "file docs/lich-su/can-dai.md trong repo (tiêu đề \"Cận đại: lý trí lên ngôi\"; có \"lý tính\" ở đoạn Hume và Kant); trang đã xuất bản khớp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m05): không có lỗi. Trang see dùng chủ yếu \"lý trí\" cho cùng khái niệm (tiêu đề, phần duy lý), \"lý tính\" chỉ ở đoạn Hume và Kant; bảng HUONG-DAN-VIET.md mục 3 chưa có \"reason\", người làm có thể cân nhắc thêm alt \"lý trí\" cho mục này (không bắt buộc)."
+}

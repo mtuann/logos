@@ -72,7 +72,7 @@
       "vi": "trực giác (triết học)",
       "en": "intuition",
       "han": "直覺",
-      "def": "Phán đoán tự nhiên, chưa qua lập luận, về một trường hợp cụ thể, thường được dùng làm dữ kiện để thử một lý thuyết.",
+      "def": "Phán đoán tự nhiên, chưa qua lập luận, rằng một điều là đúng — về một trường hợp cụ thể hay về một nguyên tắc chung — thường được dùng làm dữ kiện để thử một lý thuyết.",
       "example": "Hầu hết mọi người thấy ngay rằng phạt người vô tội để xoa dịu đám đông là sai, trước khi kịp đưa ra lý do.",
       "see": "cong-cu/thi-nghiem-tu-duy.md"
     },
@@ -365,9 +365,6 @@
       "id": "niem-tin",
       "vi": "niềm tin",
       "en": "belief",
-      "alt": [
-        "tín niệm"
-      ],
       "def": "Trạng thái coi một điều là đúng, dù điều đó có thật sự đúng hay không.",
       "example": "Tin rằng xe buýt sắp đến là một niềm tin, kể cả khi hôm nay xe hỏng giữa đường.",
       "see": "cau-hoi/tri-thuc.md"
@@ -473,7 +470,7 @@
       "vi": "nội tại luận",
       "en": "internalism (epistemic)",
       "def": "Lập trường cho rằng những gì biện minh cho niềm tin phải là thứ người tin có thể tiếp cận bằng suy nghĩ của mình.",
-      "example": "Bạn chỉ được coi là có lý do để tin nếu bạn có thể nói ra lý do đó khi được hỏi.",
+      "example": "Bạn chỉ được coi là có lý do để tin nếu tự soi xét là nhận ra được lý do đó (điều mình đang thấy, nhớ được hay suy ra được), dù có khi khó nói thành lời.",
       "see": "cau-hoi/tri-thuc.md"
     },
     {
@@ -559,7 +556,7 @@
       "han": "二元論",
       "def": "Lập trường cho rằng tâm trí, hay các thuộc tính tinh thần, không hoàn toàn là vật lý.",
       "example": "Theo nhị nguyên luận, biết hết về não vẫn chưa nói hết về cảm giác của bạn.",
-      "see": "cau-hoi/tam-tri-va-ai.md"
+      "see": "cau-hoi/van-de-tam-tri.md"
     },
     {
       "id": "chu-nghia-chuc-nang",
@@ -689,9 +686,6 @@
       "id": "he-qua-luan",
       "vi": "hệ quả luận",
       "en": "consequentialism",
-      "alt": [
-        "hậu quả luận"
-      ],
       "def": "Lập trường cho rằng đúng hay sai của hành động hoàn toàn tùy vào hệ quả của nó.",
       "example": "Nói dối để cứu một mạng người là đúng, vì kết quả tốt hơn.",
       "see": "cau-hoi/dao-duc-hanh-dong.md"
@@ -803,7 +797,6 @@
       "id": "phep-hoi",
       "vi": "phép hội",
       "en": "conjunction",
-      "han": "合取",
       "def": "Phép nối “P và Q”: chỉ đúng khi cả hai đều đúng. Ký hiệu ∧ hoặc &&.",
       "example": "“Trời mưa và trời lạnh” chỉ đúng khi vừa mưa vừa lạnh.",
       "see": "cong-cu/logic-menh-de.md"
@@ -812,7 +805,6 @@
       "id": "phep-tuyen",
       "vi": "phép tuyển",
       "en": "disjunction",
-      "han": "析取",
       "def": "Phép nối “P hoặc Q” theo nghĩa bao hàm: đúng khi ít nhất một trong hai đúng (kể cả khi cả hai cùng đúng). Ký hiệu ∨ hoặc ||.",
       "example": "“Uống trà hoặc cà phê” (bao hàm) vẫn đúng nếu uống cả hai.",
       "see": "cong-cu/logic-menh-de.md"
@@ -829,7 +821,6 @@
       "id": "phep-keo-theo",
       "vi": "phép kéo theo",
       "en": "material conditional",
-      "han": "蘊涵",
       "def": "Phép nối “nếu P thì Q”: chỉ sai trong đúng một trường hợp P đúng mà Q sai. Ký hiệu →.",
       "example": "“Nếu trời mưa thì đường ướt” chỉ sai khi trời mưa mà đường không ướt.",
       "see": "cong-cu/logic-menh-de.md"
@@ -954,7 +945,7 @@
       "id": "so-do-lap-luan",
       "vi": "sơ đồ lập luận",
       "en": "argument map",
-      "def": "Hình vẽ cấu trúc một lập luận: hộp tiền đề, mũi tên hỗ trợ, hộp kết luận; giả định ngầm vẽ đứt nét.",
+      "def": "Hình vẽ cấu trúc một lập luận: hộp tiền đề, mũi tên hỗ trợ, hộp kết luận; trên site này, giả định ngầm được vẽ bằng nét đứt.",
       "example": "Vẽ sơ đồ giúp thấy ngay một bài báo dài thực ra chỉ có hai lý do chính.",
       "see": "cong-cu/so-do-hoa-lap-luan.md"
     },
@@ -1057,7 +1048,7 @@
       "vi": "nguyên tắc loại trừ thứ ba",
       "en": "law of excluded middle",
       "def": "Với mọi mệnh đề P, “P hoặc không P” luôn đúng — không có khả năng thứ ba. (Khác với nguyên tắc nhị trị: mọi mệnh đề hoặc đúng hoặc sai.)",
-      "example": "“Trời đang mưa hoặc trời không đang mưa” — một trong hai phải đúng.",
+      "example": "“Trời đang mưa hoặc trời không đang mưa” luôn đúng, bất kể thời tiết ra sao.",
       "see": "cau-hoi/chan-ly.md"
     },
     {
@@ -1635,7 +1626,7 @@
       "en": "innate ideas",
       "def": "Những ý niệm hay nguyên lý có sẵn trong tâm trí từ lúc sinh ra, không do kinh nghiệm đem lại.",
       "example": "Locke bác bỏ ý niệm bẩm sinh (“tờ giấy trắng”); Leibniz đáp rằng chúng có sẵn như vân trong khối cẩm thạch.",
-      "see": "cau-hoi/tri-thuc.md"
+      "see": "lich-su/can-dai.md"
     },
     {
       "id": "canh-bac-pascal",
@@ -1673,7 +1664,7 @@
       "id": "phep-tinh-hanh-phuc",
       "vi": "phép tính hạnh phúc",
       "en": "felicific calculus",
-      "def": "Cách Bentham đề xuất để so sánh các lựa chọn theo cường độ, độ dài, độ chắc chắn, độ gần xa của khoái lạc và đau khổ, và số người chịu ảnh hưởng; cái tên do người đời sau đặt.",
+      "def": "Cách Bentham đề xuất để so sánh các lựa chọn theo bảy yếu tố của khoái lạc và đau khổ: cường độ, độ dài, độ chắc chắn, độ gần xa, khả năng sinh thêm cảm giác cùng loại, khả năng không kéo theo cảm giác trái ngược, và số người chịu ảnh hưởng; cái tên do người đời sau đặt.",
       "example": "Xây công viên hay bãi đỗ xe: ai được vui, ai chịu khổ, nhiều và lâu đến đâu?",
       "see": "cau-hoi/dao-duc-hanh-dong.md"
     },
@@ -1989,7 +1980,7 @@
       "id": "tinh-khong",
       "vi": "tính không",
       "en": "emptiness (śūnyatā)",
-      "han": "空",
+      "han": "性空",
       "def": "Trong Phật giáo Đại thừa: mọi pháp đều không có tự tính, tức không tự mình mà có, độc lập với mọi thứ khác; không phải là 'không có gì'.",
       "example": "'Sắc tức thị không': chiếc điện thoại vẫn dùng được, nhưng nó không tồn tại độc lập với linh kiện, nhà máy, sóng điện và người dùng.",
       "see": "doc/tam-kinh.md"
@@ -2055,7 +2046,7 @@
       "han": "正名",
       "def": "Làm cho tên gọi và danh phận khớp với thực chất. Khổng Tử coi đây là việc đầu tiên của chính trị: danh không chính thì lời không thuận, việc không thành (Luận ngữ 13.3).",
       "example": "Gọi việc sa thải là “tối ưu nhân sự” là danh không chính: tên gọi che mất thực chất và làm trách nhiệm mù mờ.",
-      "see": "doc/luan-ngu.md"
+      "see": "triet-gia/khong-tu.md"
     },
     {
       "id": "phi-cong",
@@ -2073,7 +2064,7 @@
       "han": "三表",
       "def": "Ba phép thử của Mặc Tử để thẩm định một lời nói: xét gốc (việc làm của các thánh vương xưa), xét nguồn (điều tai mắt trăm họ thật sự thấy nghe) và xét dụng (đem ra làm chính sách có lợi cho dân không).",
       "example": "Trước một lời đồn về thuốc chữa bệnh, có thể hỏi: có tiền lệ đáng tin không, có ai thật sự chứng kiến không, áp dụng ra có lợi hay hại?",
-      "see": "doc/mac-tu-kiem-ai.md"
+      "see": "triet-gia/mac-tu.md"
     },
     {
       "id": "phap-thuat-the",

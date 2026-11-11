@@ -1,0 +1,68 @@
+{
+  "unit": "terms/thuyet-y-chi-tu-do",
+  "hash": "sha256:ad2c703ae98176826d690bdfb64c29fcbf1a3739377cb1ad0ddb59facb10d598",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m04",
+  "claims": [
+    {
+      "text": "vi–en: thuyết ý chí tự do (libertarianism) — libertarianism (free will)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
+          "quote": "In the older literature, there were just two kinds of incompatibilists—hard determinists and libertarians.",
+          "where": "mục 1 Preliminaries; khớp đúng bảng HUONG-DAN-VIET.md mục 3 (libertarianism (free will) | thuyết ý chí tự do (libertarianism))"
+        }
+      ]
+    },
+    {
+      "text": "def: Lập trường bất tương thích luận cho rằng ta có tự do ý chí, nên tất định luận phải sai. Không nhầm với chủ nghĩa tự do cá nhân trong chính trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
+          "quote": "A libertarian is an incompatibilist who believes that we in fact have free will and this entails that determinism is false, in the right kind of way (van Inwagen 1983).",
+          "where": "mục 1 Preliminaries"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-theories/",
+          "quote": "Incompatibilists hold that free will and determinism are mutually exclusive and, consequently, that we act freely (i.e., with free will) only if determinism is false.",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/libertarianism/",
+          "quote": "Libertarianism is a family of views in political philosophy.",
+          "where": "đoạn mở đầu mục SEP riêng cho nghĩa chính trị (câu “không nhầm…”)"
+        }
+      ]
+    },
+    {
+      "text": "example: Lúc đứng trước hai lựa chọn, theo thuyết này, việc bạn chọn gì chưa được định sẵn bởi quá khứ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "requires, so it is argued, that one’s action not be causally determined by factors beyond one’s control. Libertarians, while united in endorsing this negative condition on sourcehood",
+          "where": "mục 2.5 Libertarian Accounts of Sourcehood"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tu-do-y-chi.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Thuyết ý chí tự do (libertarianism, không liên quan đến chủ nghĩa tự do cá nhân trong chính trị): ta có tự do ý chí, vậy tất định luận sai",
+          "where": "trang đã xuất bản; file docs/cau-hoi/tu-do-y-chi.md có trong repo, mục “1. Bất tương thích luận: tất định luận cứng và thuyết ý chí tự do” (dòng 59–64)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m04): đạt, không có claim sai. vi và en khớp đúng bảng HUONG-DAN-VIET.md mục 3; câu định nghĩa gần như dịch sát SEP incompatibilism-arguments mục 1 (“A libertarian is an incompatibilist who believes that we in fact have free will…”). SEP có mục riêng “Libertarianism” cho nghĩa chính trị, nên lời dặn “không nhầm” là xác đáng."
+}

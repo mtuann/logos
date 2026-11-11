@@ -1,0 +1,55 @@
+{
+  "unit": "terms/tat-dinh-luan-cung",
+  "hash": "sha256:72c9e0c20b23655c857ad4a44760c139c753e3cb799c974f7a9ee17471e558a8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tất định luận cứng = hard determinism (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
+          "quote": "A hard determinist is an incompatibilist who believes that determinism is in fact true"
+        }
+      ]
+    },
+    {
+      "text": "def: tất định luận đúng và vì thế không có tự do ý chí",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
+          "quote": "believes that determinism is in fact true (or, perhaps, that it is close enough to being true so far as we are concerned, in the ways relevant to free will) and because of this we lack free will"
+        }
+      ]
+    },
+    {
+      "text": "example: “kẻ phạm tội không thật sự chọn được khác, nên trách móc vô nghĩa”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
+          "quote": "because of this we lack free will",
+          "where": "hệ quả về trách nhiệm là minh họa của người làm, hợp với định nghĩa"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tu-do-y-chi.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Tất định luận cứng (hard determinism): tất định luận đúng, vậy không có tự do ý chí."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): SEP Arguments for Incompatibilism."
+}

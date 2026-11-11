@@ -1,0 +1,59 @@
+{
+  "unit": "terms/minh-triet-thuc-hanh",
+  "hash": "sha256:fb33b38fa6fd0785ff7a0c408a48253c522456ed6811a2ef085d40fdadb6e571",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: minh triết thực hành = practical wisdom (phronesis)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "they must acquire practical wisdom (phronêsis)"
+        }
+      ]
+    },
+    {
+      "text": "def: năng lực nhận ra điều nên làm trong hoàn cảnh cụ thể, cần để tìm ra trung dung; không học được chỉ bằng quy tắc chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "There is no universal rule, for example, about how much food an athlete should eat"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "every ethical virtue is a condition intermediate"
+        }
+      ]
+    },
+    {
+      "text": "example: biết lúc nào nên nói thẳng, lúc nào nên im lặng với người bạn đang buồn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "the particular circumstances of the individual"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/aristotle-dao-duc.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/aristotle-dao-duc/",
+          "quote": "ta, được xác định bằng lý trí, theo cách mà người có minh triết thực hành sẽ xác định.\" *(bản dịch của Logos)*",
+          "where": "đọc từ docs/doc/aristotle-dao-duc.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): SEP aristotle-ethics (practical wisdom, phronêsis)."
+}

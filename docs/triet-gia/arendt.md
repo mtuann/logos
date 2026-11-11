@@ -49,7 +49,7 @@ Bài học bà rút ra từ phiên xử Eichmann (*Eichmann in Jerusalem*, 1963;
 ## Hiểu lầm thường gặp
 
 - **“Theo Arendt, Eichmann chỉ là một bánh răng vô can, làm theo lệnh.”** Thực ra bà bác bỏ đúng lời bào chữa ấy: theo bà, Eichmann không phải một bánh răng thụ động mà là người hăng hái đưa người Do Thái tới cái chết, phải chịu trách nhiệm đầy đủ. Cái “tầm thường” là sự nông cạn trong suy nghĩ của hắn, không phải sự nhẹ đi của tội.
-- **“‘Tính tầm thường của cái ác’ nghĩa là cái ác là chuyện vặt.”** Thực ra cụm từ chỉ xuất hiện ở tiêu đề phụ và thêm một lần trong sách, để mô tả một điều bà quan sát được ở một kẻ gây tội. Về sau bà viết cho Gershom Scholem rằng cái ác chỉ “cực độ” chứ không bao giờ “triệt để”: nó không có chiều sâu, nhưng chính vì thế có thể lan khắp thế giới như nấm mốc trên bề mặt; chỉ điều thiện mới có chiều sâu.
+- **“‘Tính tầm thường của cái ác’ nghĩa là cái ác là chuyện vặt.”** Thực ra ngoài tiêu đề phụ, phần chính của sách chỉ dùng cụm từ này thêm một lần, ở câu kết chương cuối; Lời bạt (thêm vào từ bản in lần hai) dùng lại nó để nói rõ bà chỉ nói ở bình diện sự kiện, mô tả một điều bà quan sát được ở một kẻ gây tội. Về sau bà viết cho Gershom Scholem rằng cái ác chỉ “cực độ” chứ không bao giờ “triệt để”: nó không có chiều sâu, nhưng chính vì thế có thể lan khắp thế giới như nấm mốc trên bề mặt; chỉ điều thiện mới có chiều sâu.
 
 ## Ảnh hưởng
 

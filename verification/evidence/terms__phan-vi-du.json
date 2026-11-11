@@ -1,0 +1,58 @@
+{
+  "unit": "terms/phan-vi-du",
+  "hash": "sha256:803319cbf04612729291b22a5a76c8a0f124582265832654103b6a195253353d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phản ví dụ = counterexample (khớp bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/counterexample",
+          "quote": "counterexample (plural counterexamples) (logic) An example that counters a general rule"
+        }
+      ]
+    },
+    {
+      "text": "def: một trường hợp cụ thể cho thấy một khẳng định tổng quát hay một dạng lập luận là sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "One way to do this is to provide an argument of the same form for which the premises are clearly true and the conclusion is clearly false."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "Another way to do this is to provide a circumstance in which the premises are true and the conclusion is false."
+        }
+      ]
+    },
+    {
+      "text": "example: “mọi loài chim đều biết bay”, đà điểu là phản ví dụ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/counterexample",
+          "quote": "An example that counters a general rule; an exception to a general rule"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/dinh-nghia-phan-vi-du.md có và bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/dinh-nghia-phan-vi-du/",
+          "quote": "phương pháp **phản ví dụ** (*counterexample*)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Nguồn Wiktionary là từ điển ngôn ngữ; nội dung triết học lấy từ SEP Logical Consequence (counterexample = trường hợp tiền đề đúng, kết luận sai)."
+}

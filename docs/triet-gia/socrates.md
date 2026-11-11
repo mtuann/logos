@@ -61,7 +61,7 @@ Trong *Euthyphro* của Platon (10a–11b), ngay trước phiên tòa, Euthyphro
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Đọc “Biện hộ của Socrates” (Platon)](../doc/platon-bien-ho.md)
+- [Đọc "Biện hộ của Socrates" (Platon)](../doc/platon-bien-ho.md)
 - [Phép biện chứng Socrates](../cong-cu/bien-chung-socrates.md)
 - [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md)
 - [Thế nào là một định nghĩa tốt?](../cong-cu/dinh-nghia-phan-vi-du.md)

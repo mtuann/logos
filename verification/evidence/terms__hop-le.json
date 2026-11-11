@@ -1,0 +1,65 @@
+{
+  "unit": "terms/hop-le",
+  "hash": "sha256:4fb7d07b8a2c0abe77a32a4289ecce0aa3f24a0c94664340f2bb0a7f0e82744e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: hợp lệ = valid (khớp bảng mục 3 HUONG-DAN-VIET.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "then the argument is valid, that is, the conclusion follows deductively from the premises"
+        }
+      ]
+    },
+    {
+      "text": "def: Tính chất của lập luận suy diễn mà nếu các tiền đề đều đúng thì kết luận không thể sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "if the premises are true, then the conclusion is also true, as a matter of logic"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Mọi con mèo biết bay; Mướp là mèo; vậy Mướp biết bay\" hợp lệ, dù tiền đề sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "This does not mean that the conclusion is true. Perhaps the premises are not true."
+        }
+      ]
+    },
+    {
+      "text": "alt: hợp logic (\"hợp logic\" có trong bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Bài này phân biệt hợp lệ với vững chắc"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/suy-dien.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một lập luận suy diễn là hợp lệ (valid) khi nó giữ được lời hứa đó"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Khớp SEP Logical Consequence và bảng mục 3."
+}

@@ -1,0 +1,55 @@
+{
+  "unit": "terms/jus-ad-bellum",
+  "hash": "sha256:124453e77abffeaf5d78016a560cc3b2cbaaccf66af454001433e28ddf159f8e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "def: Nhánh của lý thuyết chiến tranh chính đáng bàn về quyền gây chiến: chiến tranh chỉ chính đáng khi có lý do chính đáng như tự vệ, do thẩm quyền hợp pháp phát động, là lựa chọn cuối cùng và có triển vọn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "traditionally, though somewhat misleadingly, called jus ad bellum and jus in bello respectively"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Right Intention: that entity intends to achieve the just cause"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Reasonable Prospects of Success: the war is sufficiently likely to achieve its aims."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "necessity (in the guise of last resort in the jus ad bellum)"
+        }
+      ]
+    },
+    {
+      "text": "example: Một nước bị tấn công có jus ad bellum để đáp trả; một nước muốn gây chiến để mở rộng lãnh thổ thì không.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "If legitimate authority is satisfied then additional positive reasons count in favour of fighting"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/chien-tranh-chinh-dang.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+          "quote": "Khi nào được phép bắt đầu chiến tranh (jus ad bellum)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Không có trường en/han nên không có claim vi–en/han. SEP \"War\" liệt kê đủ các điều kiện (lý do chính đáng, thẩm quyền, ý định đúng, triển vọng, tương xứng, biện pháp cuối cùng); tự vệ là lý do chính đáng điển hình (SEP bàn rộng, không chép từng chữ)."
+}

@@ -18,7 +18,7 @@ Tư tưởng cốt lõi là **biện chứng** (*dialectic*): mọi sự vật �
 
 Hegel áp dụng logic này cho lịch sử: lịch sử không phải chuỗi sự kiện ngẫu nhiên, mà là quá trình **Tinh thần Tuyệt đối** (*Absolute Spirit*) dần nhận thức chính mình qua con người — qua nghệ thuật, tôn giáo, và cuối cùng là triết học. Trong *Hiện tượng học Tinh thần* (*Phenomenology of Spirit*, 1807), ông truy vết hành trình của ý thức từ cảm giác thô sơ đến tri thức tuyệt đối.
 
-Đoạn nổi tiếng nhất của tác phẩm là biện chứng **chủ–nô** (*master–slave*): hai ý thức gặp nhau, mỗi bên muốn được bên kia công nhận; một bên chịu khuất phục để giữ mạng sống (nô), bên kia thắng (chủ). Nhưng rồi tình thế đảo ngược: người chủ phụ thuộc vào người nô lao động và chẳng làm được gì, còn người nô qua lao động mà biến đổi thế giới và nhận ra sức mạnh của mình. Bài học: quan hệ nhận thức lẫn nhau mới tạo nên ý thức tự do — một ý tưởng mà triết học chính trị và tâm lý học vẫn khai thác đến hôm nay.
+Đoạn nổi tiếng nhất của tác phẩm là biện chứng **chủ – tớ** (*master–slave*, Herr/Knecht; còn gọi là chủ – nô): hai ý thức gặp nhau, mỗi bên muốn được bên kia công nhận; một bên chịu khuất phục để giữ mạng sống (nô), bên kia thắng (chủ). Nhưng rồi tình thế đảo ngược: người chủ phụ thuộc vào người nô lao động và chẳng làm được gì, còn người nô qua lao động mà biến đổi thế giới và nhận ra sức mạnh của mình. Bài học: quan hệ nhận thức lẫn nhau mới tạo nên ý thức tự do — một ý tưởng mà triết học chính trị và tâm lý học vẫn khai thác đến hôm nay.
 
 Vì sao quan trọng? Dù ít ai ngày nay tin vào toàn bộ hệ thống Hegel, phương pháp của ông — nhìn sự vật trong vận động, mâu thuẫn và phát triển lịch sử — thấm vào mọi ngành khoa học xã hội. Và ông là điểm xuất phát (để tiếp thu hay để phản bác) của hầu hết triết học thế kỷ 19 sau ông.
 
@@ -72,7 +72,7 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 
 | Năm | Nhân vật | Ý chính |
 |---|---|---|
-| 1770–1831 | Hegel | Biện chứng; Tinh thần Tuyệt đối; chủ–nô |
+| 1770–1831 | Hegel | Biện chứng; Tinh thần Tuyệt đối; chủ – tớ |
 | 1818–1883 | Marx | Duy vật lịch sử; giá trị thặng dư; tha hóa |
 | 1813–1855 | Kierkegaard | Ba nấc tồn tại; cá nhân trước hệ thống |
 | 1844–1900 | Nietzsche | Chúa đã chết; siêu nhân; vĩnh cửu luân hồi |

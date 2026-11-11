@@ -1,0 +1,55 @@
+{
+  "unit": "terms/tuong-duong-logic",
+  "hash": "sha256:a31bff07887ce4137c2fb593a7a7e79fc91ad4e2042dd4ee7bfdb8cc449a59d2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"tương đương logic\" = logical equivalence",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "Tautologies, Logical Equivalence and Validity"
+        }
+      ]
+    },
+    {
+      "text": "def: Hai công thức tương đương logic khi chúng có cùng chân trị trong mọi dòng của bảng chân trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "two statements are said to be logically equivalent if and only if all possible truth-value assignments to the statement letters making them up result in the same resulting truth-values"
+        }
+      ]
+    },
+    {
+      "text": "example: “Nếu P thì Q” tương đương logic với “(không P) hoặc Q”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "would be defined as \\ulcorner (\\neg \\alpha \\lor \\beta) \\urcorner",
+          "where": "IEP: α → β được định nghĩa là ¬α ∨ β"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Hai cột ¬(P ∧ Q) và ¬P ∨ ¬Q giống hệt nhau trên mọi dòng: hai công thức tương đương logic."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): quote IEP lấy nguyên văn từ trang (LaTeX thô). Bài see cũng có dòng \"Cột ¬P ∨ Q trùng hệt cột P → Q\" đúng với example."
+}

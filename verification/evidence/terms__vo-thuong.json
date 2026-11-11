@@ -1,0 +1,70 @@
+{
+  "unit": "terms/vo-thuong",
+  "hash": "sha256:575d7cc505ab550790304edc814aaa8191d21237d6703ab8bf2ee3e434ae87ba",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vô thường\" = impermanence",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "all (oneself included) is impermanent"
+        }
+      ]
+    },
+    {
+      "text": "han: 無常 đọc Hán Việt ra \"vô thường\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/無常",
+          "quote": "vô thường (無常)",
+          "where": "mục tiếng Việt"
+        }
+      ]
+    },
+    {
+      "text": "def: Giáo lý Phật giáo: mọi sự vật đều sinh diệt, đổi thay, không có gì thường còn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "all (oneself included) is impermanent"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "we should avoid identifying with things that are transitory"
+        }
+      ]
+    },
+    {
+      "text": "example: kệ của Vạn Hạnh \"Thân như điện ảnh hữu hoàn vô\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tho-van-ly-tran/",
+          "quote": "Thân như điện ảnh hữu hoàn vô,"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/tho-van-ly-tran.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tho-van-ly-tran/",
+          "quote": "Kết luận rút ra từ vô thường không phải \"mọi thứ vô nghĩa\", mà là \"đừng sợ hãi\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): kệ Vạn Hạnh đã kiểm ở kho quotes/trich.van-hanh-thi-de-tu-bao-de-tu (đóng băng 5.1–5.2); claim dùng nguồn trang bài trong repo."
+}

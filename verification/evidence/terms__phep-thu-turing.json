@@ -1,0 +1,58 @@
+{
+  "unit": "terms/phep-thu-turing",
+  "hash": "sha256:d5c67b3cff2eea850eac0241f80085c16a0bf9dd6188b55fbdef37cfddc1fd02",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép thử Turing = Turing test",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
+          "quote": "The phrase “The Turing Test” is most properly used to refer to a proposal made by Turing (1950)"
+        }
+      ]
+    },
+    {
+      "text": "def: Alan Turing đề xuất; nếu qua trò chuyện bằng chữ không phân biệt được máy với người thì máy đáng coi là biết suy nghĩ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
+          "quote": "The object of the machine is to try to cause the interrogator to mistakenly conclude that the machine is the other person"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
+          "quote": "The point of putting the computer in a separate room and requiring communication by teletype"
+        }
+      ]
+    },
+    {
+      "text": "example: nhắn tin với hai “người” mà không đoán được ai là máy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
+          "quote": "The object of the machine is to try to cause the interrogator to mistakenly conclude that the machine is the other person"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tam-tri-va-ai.md có và bàn phép thử Turing",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "phép thử Turing (1950) — hãy nhìn vào hành vi"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): SEP lưu ý Turing coi câu hỏi “máy có nghĩ không” là “too meaningless”, và thay bằng trò chơi bắt chước; câu “máy có lẽ đáng được coi là biết suy nghĩ” là cách đọc phổ biến (diễn giải), chấp nhận."
+}

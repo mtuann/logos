@@ -1,0 +1,58 @@
+{
+  "unit": "terms/don-tu",
+  "hash": "sha256:bb7eb7269039e6ea79990a5b334bc834fe4ecaf610a998bb514051a2b23493f5",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “đơn tử” ↔ monad là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "The Monad, of which we shall here speak, is nothing but a simple substance"
+        }
+      ]
+    },
+    {
+      "text": "def: Theo Leibniz, thực thể đơn giản nhất cấu thành thực tại: không có phần, không tác động trực tiếp lên nhau, mỗi đơn tử phản chiếu cả vũ trụ từ góc nhìn riêng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "By 'simple' is meant 'without parts.'"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "a perpetual living mirror of the universe"
+        }
+      ]
+    },
+    {
+      "text": "example: Leibniz nói các đơn tử “không có cửa sổ” cho bất cứ gì ra vào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Monadology_(Leibniz,_tr._Latta)",
+          "quote": "The Monads have no windows, through which anything could come in or go out."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/lich-su/can-dai.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/can-dai/",
+          "quote": "kém: vũ trụ gồm vô số đơn tử (monads) — những đơn vị tinh thần không có cửa sổ, không tương tác trực tiếp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Monadology §§1, 7, 56 (bản dịch Latta, Wikisource). Trang `see` (lich-su/can-dai.md) chỉ giới thiệu ngắn nhưng có bàn khái niệm."
+}

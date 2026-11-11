@@ -1,0 +1,60 @@
+{
+  "unit": "terms/luoc-do-t",
+  "hash": "sha256:d7fe4ddd9cdee094a9515482da6f85d4c23328a424e19c325dcf5a896288cc48",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: lược đồ T = T-schema (Convention T)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tarski-truth/",
+          "quote": "Tarski’s own name for this criterion of material adequacy was Convention T."
+        }
+      ]
+    },
+    {
+      "text": "def: khuôn \"'p' đúng khi và chỉ khi p\"; mọi định nghĩa chân lý thỏa đáng phải suy ra mọi câu theo khuôn này",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/truth/",
+          "quote": "for each sentence S of L, if S expresses the proposition that p, then the theory entails a true “T-proposition” of the bi-conditional form",
+          "where": "mục 4 Tarski’s Semantic Theory"
+        },
+        {
+          "url": "https://iep.utm.edu/truth/",
+          "quote": "is true if and only if snow is white"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Tuyết trắng\" đúng khi và chỉ khi tuyết trắng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/truth/",
+          "quote": "The proposition expressed by the German sentence “Schnee ist weiss” is true if and only if snow is white"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/chan-ly.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "\"bản chất\" nào để khám phá. Nền của tranh luận là **lược đồ T** (*T-schema*) mà Alfred Tarski đưa vào triết học (1933, 1944):",
+          "where": "đọc từ docs/cau-hoi/chan-ly.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): SEP tarski-truth dùng tên Convention T, IEP truth cho ví dụ \"Schnee ist weiss\"."
+}

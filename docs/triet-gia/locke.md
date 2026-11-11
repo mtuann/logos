@@ -65,7 +65,7 @@ Thời Locke, nhiều người tin một số chân lý như “cái gì có th�
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md)
-- [Cái “tôi” là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
+- [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
 - [Cái tôi qua thời gian — tôi của mười năm trước còn là tôi không?](../cau-hoi/ban-nga-thoi-gian.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)
 

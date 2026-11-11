@@ -1,0 +1,80 @@
+{
+  "unit": "terms/chinh-danh",
+  "hash": "sha256:4d4bebfec7d39c404caa6174048441d161e786158fd62ff9319363e90eba11cd",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “chính danh” ↔ rectification of names (zhengming) (cách dịch chuẩn của 正名 trong văn liệu Anh ngữ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/子路第十三",
+          "quote": "名不正，則言不順；言不順，則事不成"
+        }
+      ]
+    },
+    {
+      "text": "han: 正名 đọc chính danh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/正名",
+          "quote": "to replace the current name or title of something with a new one that reflects its true nature"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/正",
+          "quote": "chinh (之(chi)盛(thịnh)切(thiết)), chánh"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/名",
+          "quote": "danh (民(dân)瞑(manh)切(thiết))"
+        }
+      ]
+    },
+    {
+      "text": "def: danh không chính thì lời không thuận, việc không thành — Luận ngữ 13.3, chính danh là việc trước hết khi làm chính trị",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/子路第十三",
+          "quote": "名不正，則言不順；言不順，則事不成"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/子路第十三",
+          "quote": "必也正名乎！"
+        }
+      ]
+    },
+    {
+      "text": "example: Gọi sa thải là “tối ưu nhân sự” là danh không chính",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/子路第十三",
+          "quote": "名不正，則言不順；言不順，則事不成"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/luan-ngu.md có bàn khái niệm chính danh",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "see = triet-gia/khong-tu.md (hoặc trang khác thật sự bàn 正名; luan-ngu.md không có chữ chính danh/正名/13.3)",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/khong-tu/",
+          "quote": "## Một lập luận tiêu biểu: Chính danh — muốn trị nước, hãy gọi cho đúng tên"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Luận ngữ 13.3 theo cách đánh số ctext = 子路第十三 (zh.wikisource đối chiếu). Trang `see` hiện tại (doc/luan-ngu.md) KHÔNG có chữ 'chính danh' hay 正名; chỉ khong-tu.md và tuan-tu.md có. Phần ví dụ 'tối ưu nhân sự' là ví dụ hiện đại tự đặt, hợp khái niệm. Đã thử: không mở ctext.org. | 10/11/2026 (sổ sách, Claude): see đổi sang triet-gia/khong-tu.md theo fix; cập nhật mã băm, không mở lại nguồn."
+}

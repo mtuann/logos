@@ -1,0 +1,83 @@
+{
+  "unit": "terms/eudaimonia",
+  "hash": "sha256:9da5015a08b8091dfadbb67d0117d1d9dff78cdd3fa99271709d30d9f3f46098",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m04",
+  "claims": [
+    {
+      "text": "vi–en: eudaimonia (hạnh phúc, sống tốt) — eudaimonia (flourishing)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "they begin with a discussion of eudaimonia (“happiness”, “flourishing”)",
+          "where": "mục 1 Preliminaries"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "He regards “eudaimon” as a mere substitute for eu zên (“living well”).",
+          "where": "mục 2 The Human Good and the Function Argument"
+        }
+      ]
+    },
+    {
+      "text": "def: Với Aristotle: sống tốt và làm tốt — hoạt động của linh hồn theo đức hạnh trong cả một đời, không phải một cảm giác nhất thời.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "identify living well and doing well with being happy",
+          "where": "bản dịch W. D. Ross, quyển I.4"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "human good turns out to be activity of soul in accordance with virtue",
+          "where": "bản dịch W. D. Ross, quyển I.7"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "But we must add 'in a complete life.'",
+          "where": "bản dịch W. D. Ross, quyển I.7"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "These terms play an evaluative role, and are not simply descriptions of someone’s state of mind.",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "example: “Một con én không làm nên mùa xuân”: một ngày vui chưa làm nên một đời hạnh phúc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",
+          "quote": "For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.",
+          "where": "bản dịch W. D. Ross, quyển I.7 (1098a18–20)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:bekker%20page=1098a",
+          "quote": "one swallow does not make spring, nor does one fine day",
+          "where": "bản dịch H. Rackham, Bekker 1098a — “spring” sát chữ Hy Lạp, nên “mùa xuân” đúng"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/aristotle-dao-duc.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/aristotle-dao-duc/",
+          "quote": "Eudaimonia thường dịch là \"hạnh phúc\", nhưng Aristotle không nói về cảm giác vui.",
+          "where": "trang đã xuất bản; file docs/doc/aristotle-dao-duc.md có trong repo, “Đoạn 2 — Hạnh phúc là hoạt động (I.7)” (dòng 39–46, có câu con én)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m04): đạt, không có claim sai. Ross dịch “one swallow does not make a summer” theo thành ngữ tiếng Anh; Rackham (Perseus) dịch “spring”, sát chữ Hy Lạp, nên “mùa xuân” trong ví dụ là đúng. “Sống tốt và làm tốt” khớp I.4 (living well and doing well); “trong cả một đời” khớp I.7 (in a complete life). Thuật ngữ không có trong bảng HUONG-DAN-VIET.md mục 3."
+}

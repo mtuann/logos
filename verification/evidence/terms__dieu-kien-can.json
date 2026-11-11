@@ -1,0 +1,54 @@
+{
+  "unit": "terms/dieu-kien-can",
+  "hash": "sha256:6846932863b420d115932391dd865cc14f5571e76bbbff03706e1828a3329310",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: điều kiện cần = necessary condition (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "def: A là điều kiện cần của B nếu không có A thì không thể có B",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "example: Có vé là điều kiện cần để vào rạp, nhưng chưa đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/dieu-kien-can-du.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/dieu-kien-can-du/",
+          "quote": "Không vô lý. Vé là điều kiện cần để xem phim: không vé thì chắc chắn không xem. Nhưng vé chưa đủ: còn cần"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Khái niệm sơ cấp; SEP Analysis of Knowledge dùng 'necessary and sufficient' (nguồn gián tiếp)."
+}

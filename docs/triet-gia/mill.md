@@ -12,7 +12,7 @@ updated: 2026-10-22
 
 Ba tuổi học tiếng Hy Lạp, tám tuổi học tiếng La-tinh, mười hai tuổi đã đọc gần hết các tác phẩm kinh điển: tuổi thơ của John Stuart Mill là một cuộc thí nghiệm giáo dục. Ông sinh năm 1806 ở London. Cha ông, James Mill, là bạn thân và đồng minh của Jeremy Bentham, tự tay dạy con để đào tạo một thủ lĩnh cho thế hệ cấp tiến kế tiếp. Mill không học đại học; ông đọc Bentham, biên tập một cuốn sách của Bentham, và sớm thành một cây bút trẻ tuyên truyền cho **thuyết vị lợi** (*utilitarianism*).
 
-Năm 20 tuổi, ông rơi vào khủng hoảng. Ông tự hỏi: giả sử mọi cải cách mình theo đuổi thành hiện thực ngay lúc này, mình có hạnh phúc không? Một tiếng nói trong ông đáp: “Không!”. Mill tìm lại mình nhờ thơ Wordsworth, và từ đó tin rằng nuôi dưỡng cảm xúc quan trọng không kém cải cách xã hội. Năm 1830 ông gặp Harriet Taylor; họ là đôi bạn tri kỷ gần hai mươi năm và cưới nhau năm 1851, hai năm sau khi chồng bà mất. Mill coi bà gần như đồng tác giả của nhiều tác phẩm; bà mất năm 1858, và *Bàn về tự do* (1859) được đề tặng bà.
+Năm 20 tuổi, ông rơi vào khủng hoảng. Ông tự hỏi: giả sử mọi cải cách mình theo đuổi thành hiện thực ngay lúc này, mình có hạnh phúc không? Một tiếng nói trong ông đáp: “Không!”. Mill tìm lại mình nhờ thơ Wordsworth, và từ đó tin rằng nuôi dưỡng cảm xúc quan trọng không kém cải cách xã hội. Năm 1830 ông gặp Harriet Taylor; họ là đôi bạn tri kỷ hơn hai mươi năm và cưới nhau năm 1851, hai năm sau khi chồng bà mất. Mill coi bà gần như đồng tác giả của nhiều tác phẩm; bà mất năm 1858, và *Bàn về tự do* (1859) được đề tặng bà.
 
 Mill làm việc gần 35 năm cho Công ty Đông Ấn, soạn công văn cho bộ máy cai trị Ấn Độ; ngay trong *Bàn về tự do*, ông viết rằng nguyên tắc tự do chưa áp dụng cho những xã hội ông coi là “lạc hậu” — giới hạn mà người đọc ở những nước từng là thuộc địa khó bỏ qua. Mặt khác, khi là nghị sĩ (1865–1868), ông trình lên Hạ viện Anh bản kiến nghị đại chúng đầu tiên đòi quyền bầu cử cho phụ nữ (1866), và năm 1867 đề nghị sửa luật bầu cử, thay chữ “đàn ông” bằng “người” (thua với 73 phiếu thuận, 196 phiếu chống). Ông mất năm 1873 ở Avignon (Pháp) và được chôn cạnh vợ.
 
@@ -63,7 +63,7 @@ Chương II của *Bàn về tự do* (1859) bảo vệ tự do tư tưởng và
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Tự do ngôn luận — John Stuart Mill, “Bàn về tự do” chương 2 (1859)](../doc/mill-tu-do.md)
+- [Tự do ngôn luận — John Stuart Mill, "Bàn về tự do" chương 2 (1859)](../doc/mill-tu-do.md)
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md)
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)
 - [Triết học nữ quyền là gì?](../cau-hoi/nu-quyen.md)

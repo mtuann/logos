@@ -1,0 +1,85 @@
+{
+  "unit": "terms/cu-tran-lac-dao",
+  "hash": "sha256:a888d7421462afebc8d4ecf7655d46cb35971f4dd8780a27076208e606652318",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "han: 居塵樂道 đọc cư trần lạc đạo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú",
+          "quote": "Cư trần lạc đạo phú - 居塵樂道賦"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/居",
+          "quote": "cư"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/塵",
+          "quote": "trần, chần"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/樂",
+          "quote": "lạc, nhạc, nhạo"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/道",
+          "quote": "đạo"
+        }
+      ]
+    },
+    {
+      "text": "vi–en: “cư trần lạc đạo” ↔ living in the dust, delighting in the Way (dịch sát chữ: 塵 bụi/cõi trần, 樂 vui, 道 Đạo)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân",
+          "quote": "Sống giữa phàm trần, hãy tùy duyên mà vui với đạo"
+        }
+      ]
+    },
+    {
+      "text": "def: Chủ trương của Trần Nhân Tông: tu ngay giữa đời nếu tâm không dính mắc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân",
+          "quote": "Sống giữa phàm trần, hãy tùy duyên mà vui với đạo"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú",
+          "quote": "Cư trần lạc đạo phú - 居塵樂道賦 của Trần Nhân Tông"
+        }
+      ]
+    },
+    {
+      "text": "example: Một người bán hàng không gian lận, làm việc trọn vẹn mà không bị lời lãi kéo đi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân",
+          "quote": "Đối kính vô tâm mạc vấn thiền"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/truc-lam.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/truc-lam/",
+          "quote": "lẽ chưa từng nghe nói đến \"cư trần lạc đạo\", nhưng họ đang bước trên con đường của chính tư tưởng ấy."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Nguồn Việt Nam: Wikisource tiếng Việt (nguồn yếu theo quyết định 31; nên bổ sung Thơ văn Lý–Trần). Lưu ý: bản Wikisource ghi 'Đối kính vô tâm' còn trang repo ghi 'Đối cảnh vô tâm' (biến thể bản): người làm nên thống nhất theo bản đã chọn. 'Cư trần' ở bài là một cụm; bài `see` bàn rõ."
+}

@@ -1,0 +1,65 @@
+{
+  "unit": "terms/duy-vat-bien-chung",
+  "hash": "sha256:39f09d8e78e5bd9b8143176cc3742709821e51c2ba6096131f1498b9c42775d6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: duy vật biện chứng ↔ dialectical materialism (calque của dialektischer Materialismus)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/dialectical_materialism",
+          "quote": "Calque of German dialektischer Materialismus, coined by Joseph Dietzgen"
+        }
+      ]
+    },
+    {
+      "text": "def: Triết học mác-xít coi vật chất là gốc, mọi sự vật kể cả ý thức phát triển qua mâu thuẫn và những bước nhảy về chất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/dialectical-materialism",
+          "quote": "ideas could arise, therefore, only as products and reflections of material conditions",
+          "where": "đoạn 1: vật chất là gốc, ý thức là sản phẩm/phản ánh"
+        },
+        {
+          "url": "https://www.britannica.com/topic/dialectical-materialism",
+          "quote": "All things contain contradictory sides or aspects, whose tension or conflict is the driving force of change",
+          "where": "đoạn 2: mâu thuẫn là động lực"
+        },
+        {
+          "url": "https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch10.htm",
+          "quote": "quantitative change suddenly passes at certain points into qualitative transformation",
+          "where": "Engels, Chống Dühring, Phần I, mục XII 'Dialectics. Quantity and Quality' (bước nhảy về chất)"
+        }
+      ]
+    },
+    {
+      "text": "example: Trần Đức Thảo muốn giải thích sự hình thành ý thức qua tiến hóa sinh học và lao động xã hội",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Tran+Duc+Thao+origine+du+langage+et+de+la+conscience",
+          "quote": "Recherches/sur l'origine du langage et de la conscience"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/viet-hien-dai.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/viet-hien-dai/",
+          "quote": "hoàng; đối thoại với thế giới (Trần Đức Thảo, Phénoménologie et matérialisme dialectique, 1951) — dùng hiện tượng luận của Husserl làm giàu duy"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): Britannica xác nhận hai ý đầu (vật chất có thực tại khách quan, ý thức là sản phẩm của điều kiện vật chất; mâu thuẫn là động lực biến đổi); 'bước nhảy về chất' là quy luật lượng-chất của Engels (Anti-Dühring I.XII, URL marxists.org ch10.htm). Định nghĩa ngắn nhưng không sai trọng tâm; lưu ý 'mọi sự vật kể cả ý thức' hơi gói gọn (Britannica nói ý thức là phản ánh của vật chất), vẫn đúng ý. Marxists.org là nguồn văn bản gốc, không phải bách khoa. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t01): Chỉ xác nhận được tên thuật ngữ (Wiktionary) và tên công trình Recherches sur l'origine du langage et de la conscience (1973, Open Library) khớp với example. Chưa mở được SEP/IEP/Marxists.org cho định nghĩa (IEP và SEP không có mục riêng trong lưu trữ fall2026: các slug marxism, engels, soviet-philosophy trả 404). Định nghĩa là khuôn quen thuộc của triết học Xô viết; người làm nên đối chiếu trực tiếp với văn bản của Engels (Chống Dühring) hoặc bách khoa triết học."
+}

@@ -10,7 +10,7 @@ updated: 2026-10-22
 
 **1135/1138–1204** · Trung cổ · *Moses Maimonides*
 
-Một học trò giỏi băn khoăn: em tin Kinh thánh, nhưng em cũng đã học logic và khoa học theo Aristotle, và hai bên dường như vênh nhau, em phải theo bên nào? Câu trả lời của người thầy dài thành ba quyển sách: *Chỉ dẫn cho người hoang mang* (*Dalalat al-Ha’irin*), viết bằng tiếng Ả Rập dưới dạng những lá thư gửi người học trò tên Joseph, hoàn thành năm 1190. Người thầy là Moses ben Maimon, người phương Tây gọi là Maimonides, người nói tiếng Hebrew gọi là Rambam.
+Một học trò giỏi băn khoăn: em tin Kinh thánh, nhưng em cũng đã học logic và khoa học theo Aristotle, và hai bên dường như vênh nhau, em phải theo bên nào? Câu trả lời của người thầy dài thành ba quyển sách: *Chỉ dẫn cho người hoang mang* (*Dalalat al-Ha’irin*), viết bằng tiếng Ả Rập dưới dạng những lá thư gửi người học trò tên Joseph, hoàn thành năm 1190. Người thầy là Moses ben Maimon, người phương Tây gọi là Maimonides, người Do Thái quen gọi là Rambam (chữ tắt của Rabbi Moses ben Maimon).
 
 Ông sinh ở Córdoba, cùng thành phố với Ibn Rushd, vào năm 1138 theo nghiên cứu gần đây (nhiều sách cũ ghi 1135). Năm 1148, triều Almohad chiếm Córdoba và buộc người không theo Hồi giáo phải cải đạo, lưu vong hoặc chết. Gia đình ông bỏ đi, lang bạt nhiều năm, tới Fez (Morocco) năm 1160, ghé qua Đất Thánh, năm 1166 tới Ai Cập rồi định cư ở Fustat, khu phố cổ của Cairo.
 

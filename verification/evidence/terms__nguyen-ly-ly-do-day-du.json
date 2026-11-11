@@ -1,0 +1,60 @@
+{
+  "unit": "terms/nguyen-ly-ly-do-day-du",
+  "hash": "sha256:96ebbf508b5af4e1f02d9327aa8c87e94683e4df9e9761c6f3002843b8d67a47",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: nguyên lý lý do đầy đủ = principle of sufficient reason",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sufficient-reason/",
+          "quote": "If you accept an unrestricted form of the Principle of Sufficient Reason (= PSR)"
+        }
+      ]
+    },
+    {
+      "text": "def: mọi sự thật đều có lý do giải thích vì sao nó như thế mà không khác đi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sufficient-reason/",
+          "quote": "For every fact \\(F\\), there must be a sufficient reason why \\(F\\) is the case."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/leibniz/",
+          "quote": "nothing happens in such a way that it is impossible for someone with enough information to give a reason why it is so and not otherwise"
+        }
+      ]
+    },
+    {
+      "text": "example: Leibniz hỏi: vì sao có cái gì đó chứ không phải không có gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Principes_de_la_nature_et_de_la_gr%C3%A2ce_fond%C3%A9s_en_raison",
+          "quote": "Ce principe posé, la première question qu’on a droit de faire sera : Pourquoi il y a plutôt quelque chose que rien ?",
+          "where": "§7, ngay sau khi nêu nguyên lý lý do đầy đủ"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/vu-tru-khoi-dau.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/vu-tru-khoi-dau/",
+          "quote": "giải thích bằng gì (đúng chủ đề của lập trường 3), và nguyên lý lý do đầy đủ.",
+          "where": "đọc từ docs/cau-hoi/vu-tru-khoi-dau.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): Văn bản gốc tiếng Pháp (Wikisource fr, bản Œuvres philosophiques de Leibniz) §7 xác nhận đúng cả ý 'từ nguyên lý này' lẫn câu hỏi. Bản ghi dùng 'Leibniz hỏi' đúng. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t03): câu \"vì sao có cái gì chứ không phải không có gì\" (Principles of Nature and Grace §7) không thấy trong SEP sufficient-reason và SEP leibniz đã mở; chưa mở Wikisource/Gutenberg bản Latham/Loemker. Định nghĩa PSR đúng."
+}

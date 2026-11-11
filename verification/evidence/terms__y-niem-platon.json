@@ -1,0 +1,59 @@
+{
+  "unit": "terms/y-niem-platon",
+  "hash": "sha256:7c0182d19f162ce10c5aa8ade3831111dad04176644feba88bb1893a4342f7eb",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"Ý niệm (thuyết Platon)\" = Form (Platonic Idea)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-metaphysics/",
+          "quote": "A particular that participates in the Form is an imperfect or deficient instance",
+          "where": "SEP viết hoa \"Form\"; \"Idea\" là cách dịch cũ"
+        }
+      ]
+    },
+    {
+      "text": "def: Thực thể bất biến, phi cảm giác mà các vật cùng tên “tham dự” vào, như cái Đẹp tự thân so với những vật đẹp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-metaphysics/",
+          "quote": "A particular that participates in the Form is an imperfect or deficient instance in that it has a property that approximates the perfect nature of the Form."
+        }
+      ]
+    },
+    {
+      "text": "example: Mọi tam giác vẽ tay đều méo; Tam giác tự thân thì hoàn hảo.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-metaphysics/",
+          "quote": "For instance, the Circle Itself is perfectly circular."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-metaphysics/",
+          "quote": "A drawn circle, or a round ball, is deficient in that it is not perfectly circular"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/pho-quat.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/pho-quat/",
+          "quote": "còn tồn tại một Ý niệm (Form) của cái Đỏ — hoàn hảo, bất biến"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): ví dụ tam giác tương tự ví dụ vòng tròn của SEP; \"phi cảm giác\" (phi cảm tính) là cách diễn giải chuẩn."
+}

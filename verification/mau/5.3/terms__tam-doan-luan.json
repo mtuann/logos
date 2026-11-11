@@ -1,0 +1,80 @@
+{
+  "unit": "terms/tam-doan-luan",
+  "hash": "sha256:a8d631c7eb69f0ae5017552d29a46164c1cf46d7adef9e5c2306b37530c4c8b4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m04",
+  "claims": [
+    {
+      "text": "vi–en: tam đoạn luận — syllogism",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "In modern usage, ‘syllogism’ means an argument of a very specific form.",
+          "where": "mục 3.2 Aristotelian Deductions and Modern Valid Arguments; khớp bảng HUONG-DAN-VIET.md mục 3 (syllogism | tam đoạn luận)"
+        },
+        {
+          "url": "https://en.wiktionary.org/w/api.php?action=parse&page=%E4%B8%89%E6%AE%B5%E8%AB%96&prop=text&format=json&origin=*",
+          "quote": "三段論 (logic) syllogism",
+          "where": "mục từ 三段論, tiếng Trung, Noun"
+        }
+      ]
+    },
+    {
+      "text": "han: 三段論",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E4%B8%89%E6%AE%B5%E8%AB%96",
+          "quote": "Phương pháp luận lí học, chia trình tự suy lí ra ba đoạn: “đại tiền đề” 大前提, “tiểu tiền đề” 小前提 và “kết luận” 結論.",
+          "where": "mục từ 三段論, âm Hán Việt ghi “tam đoạn luận”"
+        }
+      ]
+    },
+    {
+      "text": "def: Lập luận suy diễn gồm hai tiền đề và một kết luận, nối với nhau qua một thuật ngữ chung.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "inferences with two premises, each of which is a categorical sentence, having exactly one term in common",
+          "where": "mục 5 The Syllogistic"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "Aristotle calls the term shared by the premises the middle term (meson)",
+          "where": "mục 5 The Syllogistic"
+        }
+      ]
+    },
+    {
+      "text": "example: Mọi loài chim đều có lông vũ; chim sẻ là chim; vậy chim sẻ có lông vũ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "the middle term can be the subject of one premise and the predicate of the other",
+          "where": "mục 5 The Syllogistic (hình thứ nhất); ví dụ có dạng Barbara Aab, Abc ⊢ Aac ở bảng mục 5.4, trung từ là “chim”"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một tam đoạn luận (syllogism) nhất quyết có hai tiền đề và một kết luận, nói về quan hệ giữa các nhóm sự vật.",
+          "where": "trang đã xuất bản; file docs/cong-cu/suy-dien.md có trong repo, mục “Tam đoạn luận nhất quyết” (dòng 83–85)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m04): đạt, không có claim sai. en khớp bảng HUONG-DAN-VIET.md mục 3. Định nghĩa theo nghĩa thông dụng (tam đoạn luận nhất quyết: hai tiền đề có đúng một hạng từ chung — SEP mục 5, 3.2); bài see còn gọi “tam đoạn luận giả định/lựa chọn”, không có hạng từ chung — nếu muốn khớp có thể thêm “thường chỉ tam đoạn luận nhất quyết” (tùy chọn, không phải lỗi). Chữ Hán 三段論 đọc “tam đoạn luận” (hvdic); en.wiktionary: “(logic) syllogism”."
+}

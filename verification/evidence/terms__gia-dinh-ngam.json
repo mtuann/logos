@@ -1,0 +1,65 @@
+{
+  "unit": "terms/gia-dinh-ngam",
+  "hash": "sha256:ac915d3ad5a201b5931cc03f2797b9d53523cb63d1af8394d73248474ed74dca",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: giả định ngầm = hidden assumption (khớp bảng mục 3 HUONG-DAN-VIET.md: hidden assumption / unstated premise)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/gia-dinh-ngam/",
+          "quote": "Một giả định ngầm (hidden assumption hoặc unstated premise) là một tiền đề"
+        }
+      ]
+    },
+    {
+      "text": "def: Tiền đề không được nói ra nhưng lập luận cần đến để đi tới kết luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/gia-dinh-ngam/",
+          "quote": "Một giả định ngầm (hidden assumption hoặc unstated premise) là một tiền đề mà lập luận cần đến để đi tới k"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Thuốc này đắt nên chắc tốt\" ngầm giả định rằng giá cao đi đôi với chất lượng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "The premises in an argument convey the evidence it provides."
+        }
+      ]
+    },
+    {
+      "text": "alt: tiền đề ẩn (tiền đề ẩn có trong bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/gia-dinh-ngam/",
+          "quote": "hidden assumption hoặc unstated premise"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/gia-dinh-ngam.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/gia-dinh-ngam/",
+          "quote": "Bài này bàn về giả định ngầm, nguyên tắc diễn giải thiện chí"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Thuật ngữ thuộc bảng mục 3; không có nguồn ngoài cho \"giả định ngầm\" riêng, nên nguồn là chính trang site và SEP logic-informal (tiền đề trong lập luận)."
+}

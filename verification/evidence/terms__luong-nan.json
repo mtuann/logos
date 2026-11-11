@@ -1,0 +1,67 @@
+{
+  "unit": "terms/luong-nan",
+  "hash": "sha256:34235f5f40c797dbb804f1ea0086f1d47c1a7501e6fafe9c922935e1af3ee07b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: lưỡng nan = dilemma",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/dilemma",
+          "quote": "(logic) A type of syllogism of the form"
+        }
+      ]
+    },
+    {
+      "text": "def: hoặc A hoặc B; nếu A thì C, nếu B thì cũng C; vậy C. Chỉ đứng vững khi A, B bao quát hết khả năng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "\\text{ or } B; A \\Rightarrow C; B \\Rightarrow C; &\\text{ so } C",
+          "where": "dạng suy diễn hợp lệ hoặc A hoặc B; A⇒C; B⇒C; vậy C (SEP viết bằng LaTeX)"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacies of illegitimate presumption include Begging the Question, False Dilemma",
+          "where": "lưỡng nan giả"
+        }
+      ]
+    },
+    {
+      "text": "example: Marcus Aurelius: hoặc vũ trụ có thiên ý, hoặc chỉ là nguyên tử; trường hợp nào oán trách cũng vô ích",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IX",
+          "quote": "Either all things proceed from one intelligent source and come together as in one body",
+          "where": "Book IX §39 (bản dịch Long)"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IX",
+          "quote": "or there are only atoms, and nothing else than mixture and dispersion",
+          "where": "Book IX §39"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Nếu tiền đề lựa chọn bỏ sót khả năng, ta có một **lưỡng nan giả**, xem bài [Ngụy biện](nguy-bien.md#false-dilemma).",
+          "where": "đọc từ docs/cong-cu/suy-dien.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): ví dụ là Meditations IX.39 (bản Long, Wikisource). Nguồn định nghĩa dạng suy diễn: SEP conditionals; Wiktionary chỉ cho nghĩa chung. Có thể bổ sung \"Meditations IX.39\" vào example."
+}

@@ -1,0 +1,62 @@
+{
+  "unit": "terms/gia-thuyet-mo-phong",
+  "hash": "sha256:3a3d9406b4004975b0b8db47499546567871901366be24fa37dbbcd99f265369",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: giả thuyết mô phỏng = simulation hypothesis (tên gọi thông dụng; bài gốc nói \"simulation argument\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/",
+          "quote": "we are almost certainly living in a computer simulation"
+        }
+      ]
+    },
+    {
+      "text": "def: Giả thuyết rằng ta đang sống trong một mô phỏng máy tính. Nick Bostrom (2003) lập luận rằng ít nhất một trong ba điều sau là đúng: nhân loại gần như chắc chắn diệt vong trước khi đạt giai đoạn “hậu nh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/",
+          "quote": "Philosophical Quarterly, 2003, Vol. 53, No. 211, pp. 243-255"
+        },
+        {
+          "url": "https://simulation-argument.com/",
+          "quote": "the human species is very likely to go extinct before reaching a “posthuman” stage"
+        },
+        {
+          "url": "https://simulation-argument.com/",
+          "quote": "any posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history"
+        }
+      ]
+    },
+    {
+      "text": "example: Nếu hậu thế tạo ra hàng triệu thế giới ảo có cư dân ý thức, xác suất ta ở trong thế giới “gốc” chỉ là một phần triệu — đó là lập luận của Bostrom.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/",
+          "quote": "we are almost certainly living in a computer simulation"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/mo-phong.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/mo-phong/",
+          "quote": "giả thuyết mô phỏng có thể bị bác bỏ không?"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Bostrom 2003, Philosophical Quarterly 53(211): 243-255, tóm tắt trên simulation-argument.com khớp ba mệnh đề. Chữ \"hầu như không chạy mô phỏng tổ tiên\" khớp (2); ví dụ \"một phần triệu\" là minh họa lý luận bàng quan của Bostrom, không phải con số trong bài."
+}

@@ -1,0 +1,80 @@
+{
+  "unit": "terms/thu-nho-gia",
+  "hash": "sha256:ff1d959e9e2006a4d1921fa5b6a8030eafdcb54772fb4134c7ec7633916d2019",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: thứ = reciprocity, empathetic consideration (shu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/恕",
+          "quote": "to [[show]] consideration for [[others]]; to [[put oneself in someone's shoes]]",
+          "where": "wikitext mục 恕; cách dịch 'reciprocity' không tìm thấy trong SEP Confucius"
+        }
+      ]
+    },
+    {
+      "text": "han: 恕 đọc Hán Việt là thứ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/恕",
+          "quote": "hanviet=thứ",
+          "where": "wikitext mục 恕, phần Vietnamese"
+        }
+      ]
+    },
+    {
+      "text": "def: suy lòng mình ra lòng người; Khổng Tử coi là chữ theo suốt đời; “điều mình không muốn, đừng làm cho người”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/衞靈公第十五",
+          "quote": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+          "where": "Luận ngữ, Vệ Linh Công; Wikisource đánh số 十五之二三"
+        }
+      ]
+    },
+    {
+      "text": "locator: Luận ngữ 15.24",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "(12.2, cf. 5.12, 15.24)",
+          "where": "SEP cũng dẫn 15.24 cho câu này; Wikisource zh đánh số 15.23 (cách chia chương khác nhau)"
+        }
+      ]
+    },
+    {
+      "text": "example: không đăng ảnh xấu của bạn lên mạng vì chính mình cũng không muốn bị vậy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/衞靈公第十五",
+          "quote": "己所不欲，勿施於人。"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/luan-ngu.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/luan-ngu/",
+          "quote": "Thứ (恕) là suy lòng mình ra lòng người."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): đánh số 15.24 theo cách chia của ctext/SEP (Wikisource zh chia 15.23). Tên 'reciprocity' cho shu phổ biến (Slingerland...) nhưng chưa mở nguồn nêu đích danh; nghĩa 'empathetic consideration' khớp Wiktionary."
+}

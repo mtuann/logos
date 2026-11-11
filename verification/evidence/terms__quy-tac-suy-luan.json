@@ -1,0 +1,54 @@
+{
+  "unit": "terms/quy-tac-suy-luan",
+  "hash": "sha256:bcb913e7769d87087af7ca333d2134730732e65bdf6a41aa1c13c275bd11d9ac",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: quy tắc suy luận = rule of inference",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Rules of Inference and Replacement"
+        }
+      ]
+    },
+    {
+      "text": "def: khuôn suy luận luôn bảo toàn chân trị: tiền đề đúng thì kết luận đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Hence, we can see that the inference represented by this argument is truth-preserving."
+        }
+      ]
+    },
+    {
+      "text": "example: modus ponens là một quy tắc suy luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "These basic inference schemata were expanded upon by less basic inference schemata by Chrysippus himself and other Stoics"
+        }
+      ]
+    },
+    {
+      "text": "see: bản ghi không có trường see (không phải lỗi; không cần kiểm trang)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một lập luận **suy diễn** (*deductive*) là lập luận nhắm đến sự chắc chắn"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Bản ghi không có `see` nên không có liên kết bài; nên bổ sung see = cong-cu/suy-dien.md (bài có modus ponens/modus tollens). Cụm “đã được chứng minh” hợp với quy tắc suy luận của logic hình thức; quy tắc ứng dụng trong logic không hình thức không hoàn toàn bảo toàn chân trị, nhưng def nói đúng cho logic suy diễn."
+}

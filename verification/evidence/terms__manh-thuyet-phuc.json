@@ -1,0 +1,59 @@
+{
+  "unit": "terms/manh-thuyet-phuc",
+  "hash": "sha256:22fbd33228c0759aaeb8c4a0b35d209a60845ca900a2d794d5369221bd08c971",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mạnh / thuyết phục = strong / cogent (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "although terminology varies, they may also be considered cogent or not cogent"
+        }
+      ]
+    },
+    {
+      "text": "def: quy nạp mạnh nếu tiền đề đúng thì kết luận nhiều khả năng đúng; thuyết phục nếu mạnh và tiền đề thật sự đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A strong inductive argument is said to be one whose premises render the conclusion likely."
+        },
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A cogent argument is a strong argument with true premises."
+        }
+      ]
+    },
+    {
+      "text": "example: kết luận từ khảo sát lớn, ngẫu nhiên mạnh hơn hỏi năm người bạn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A strong inductive argument is said to be one whose premises render the conclusion likely."
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/quy-nap.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "nạp mạnh mà các tiền đề lại đúng thì được gọi là **thuyết phục** (*cogent*).",
+          "where": "đọc từ docs/cong-cu/quy-nap.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): khớp HUONG-DAN-VIET.md mục 3 (strong / cogent = mạnh / thuyết phục)."
+}

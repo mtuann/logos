@@ -1,0 +1,54 @@
+{
+  "unit": "terms/hang-dung",
+  "hash": "sha256:b945c2394ef9e8991a1182a1b6a9d39679a24f4885e266d245364d590682b80b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: hằng đúng = tautology (tautology)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-truth/",
+          "quote": "strict tautologies such as “Men are men”"
+        }
+      ]
+    },
+    {
+      "text": "def: Công thức luôn đúng với mọi cách gán chân trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-truth/",
+          "quote": "strict tautologies such as “Men are men”"
+        }
+      ]
+    },
+    {
+      "text": "example: “P hoặc không P” là một hằng đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Một công thức đúng trên mọi dòng gọi là hằng đúng (tautology), ví dụ P ∨ ¬P"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Một công thức đúng trên mọi dòng gọi là hằng đúng (tautology)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Nguồn yếu: SEP logical-truth chỉ xác nhận tautology là dạng chân lý logic; định nghĩa \"đúng với mọi cách gán chân trị\" là định nghĩa bảng chân trị chuẩn (khớp trang see). Ví dụ P hoặc không P là hằng đúng kinh điển."
+}

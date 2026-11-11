@@ -1,0 +1,58 @@
+{
+  "unit": "terms/khai-sang",
+  "hash": "sha256:7746a32407e72c9188b302f522c366672721b6a8cab48eb17352288f49e44340",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: khai sáng = enlightenment (Aufklärung) (Aufklärung chưa đối chiếu chữ Đức trên trang này; trang site có tiêu đề Đức \"Was ist Aufklärung?\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/What_is_Enlightenment%3F",
+          "quote": "What is Enlightenment? (1784)"
+        }
+      ]
+    },
+    {
+      "text": "def: Theo Kant (1784), việc con người bước ra khỏi tình trạng chưa trưởng thành do chính mình gây ra: dám dùng trí tuệ của mình mà không cần người khác dẫn dắt. Cũng là tên phong trào tư tưởng châu Âu nở r",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/What_is_Enlightenment%3F",
+          "quote": "release from his self-incurred tutelage"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/What_is_Enlightenment%3F",
+          "quote": "Have courage to use your own reason"
+        }
+      ]
+    },
+    {
+      "text": "example: Tự đọc tài liệu gốc và cân nhắc lý lẽ, thay vì chỉ làm theo lời một người nổi tiếng trên mạng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/What_is_Enlightenment%3F",
+          "quote": "Have courage to use your own reason"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/kant-khai-sang.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/kant-khai-sang/",
+          "quote": "Khai sáng là gì?"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Kant 1784, bản dịch Lewis White Beck trên Wikisource. Def \"tình trạng chưa trưởng thành\" = tutelage/Unmündigkeit (bản Beck dịch là \"tutelage\"). Phần \"phong trào thế kỷ 18\" là kiến thức chung, không đối chiếu ở đây (SEP kant chỉ có mục \"crisis of the Enlightenment\")."
+}

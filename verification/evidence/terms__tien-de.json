@@ -1,0 +1,71 @@
+{
+  "unit": "terms/tien-de",
+  "hash": "sha256:b73321bf79b55ecf56dfc79564741db8a28aef521cf7bc3aad9291ede9a3105c",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tiền đề = premise (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/argument/",
+          "quote": "some parts, known as the premises, offer support to another part, the conclusion"
+        }
+      ]
+    },
+    {
+      "text": "han: 前提 đọc Hán Việt ra tiền đề",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/前提",
+          "quote": "{{vi-Han form of|tiền đề|[[premise]]}}",
+          "where": "wikitext mục 前提 (API)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/前",
+          "quote": "reading=tiền,tèn",
+          "where": "Hán Việt của 前"
+        }
+      ]
+    },
+    {
+      "text": "def: khẳng định đưa ra làm lý do ủng hộ kết luận trong một lập luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/argument/",
+          "quote": "some parts, known as the premises, offer support to another part, the conclusion"
+        }
+      ]
+    },
+    {
+      "text": "example: “quán này luôn đông, nên chắc đồ ăn ngon”: tiền đề là “quán này luôn đông”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/argument/",
+          "quote": "some parts, known as the premises, offer support to another part, the conclusion"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/lap-luan-la-gi.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "Trong triết học, một lập luận là một tập hợp các khẳng định, trong đó một số khẳng định (gọi là tiền đề, premise) được đưa ra để ủng hộ một khẳng định khác"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): chữ 提 (đề) chỉ thấy reading=đề trong mục 提 của Wiktionary (đề, đè, dè...)."
+}

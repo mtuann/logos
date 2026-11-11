@@ -1,0 +1,110 @@
+{
+  "unit": "terms/tam-bieu",
+  "hash": "sha256:d5c2aebd6d1a09d312294ac6315fdd6c6c2a2ea6b223b26855086302144bad03",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: tam biểu (ba tiêu chuẩn) = three standards of Mozi (san biao); SEP gọi “three fa”, Mặc Tử gọi 三表 và 三法",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "The three fa are that statements must have a root, a source, and a use."
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非命上",
+          "quote": "故言必有三表。何謂三表？",
+          "where": "墨子·非命上"
+        }
+      ]
+    },
+    {
+      "text": "han: 三表 đọc tam biểu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/三",
+          "quote": "Vietnamese: tam (三)"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/表",
+          "quote": "Âm Hán Việt: biểu"
+        }
+      ]
+    },
+    {
+      "text": "def: xét gốc (việc làm của thánh vương xưa)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非命上",
+          "quote": "上本之於古者聖王之事",
+          "where": "墨子·非命上"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "The “root” is the historical precedent and evidence provided by the deeds of the ancient sage kings"
+        }
+      ]
+    },
+    {
+      "text": "def: xét nguồn (điều tai mắt trăm họ thật sự thấy nghe)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非命上",
+          "quote": "下原察百姓耳目之實",
+          "where": "墨子·非命上"
+        }
+      ]
+    },
+    {
+      "text": "def: xét dụng (đem ra làm chính sách có lợi cho dân không)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/墨子/非命上",
+          "quote": "廢以爲刑政，觀其中國家百姓人民之利",
+          "where": "墨子·非命上"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "the statement must produce benefit (lì) for the state, clan, and people"
+        }
+      ]
+    },
+    {
+      "text": "example: trước lời đồn thuốc chữa bệnh, hỏi tiền lệ, người chứng kiến, lợi hại khi áp dụng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "(2) No one has ever actually seen or heard fate."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/mac-tu-kiem-ai.md có và bàn tam biểu",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Đổi see sang triet-gia/mac-tu.md (có mục “Ba tiêu chuẩn (三表)”)",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/mac-tu/",
+          "quote": "**Ba tiêu chuẩn (三表).**"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): mac-tu-kiem-ai.md không chứa “tam biểu”/三表/“ba tiêu chuẩn” (đọc cả file); triet-gia/mac-tu.md có. Mặc Tử Phi mệnh thượng dùng 三表, Phi mệnh trung dùng 三法 (đối chiếu Wikisource zh); đổi tên “tiêu chuẩn” ở def hợp với cả hai. | 10/11/2026 (sổ sách, Claude): see đổi sang triet-gia/mac-tu.md theo fix; cập nhật mã băm, không mở lại nguồn."
+}

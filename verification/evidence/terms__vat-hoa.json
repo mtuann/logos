@@ -1,0 +1,82 @@
+{
+  "unit": "terms/vat-hoa",
+  "hash": "sha256:c52965e83c4d2956e2e88bbdc6b592f62f08391221d3d513d6196929612d40ef",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vật hóa\" = transformation of things",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/物化",
+          "quote": "change of things",
+          "where": "mục tiếng Hoa: \"literary change of things\""
+        }
+      ]
+    },
+    {
+      "text": "han: 物化 đọc Hán Việt ra \"vật hóa\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/物",
+          "quote": "Âm Hán Việt: vật"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/化",
+          "quote": "Âm Hán Việt: hoa, hoá"
+        }
+      ]
+    },
+    {
+      "text": "def: chữ kết đoạn mộng hồ điệp của Trang Tử; Chu và bướm có phân biệt",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "周與胡蝶，則必有分矣，此之謂物化",
+          "where": "Tề vật luận, đoạn cuối"
+        }
+      ]
+    },
+    {
+      "text": "def: sự chuyển hóa không ngừng của muôn vật, phân biệt có thật nhưng không cố định",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "周與胡蝶，則必有分矣，此之謂物化"
+        }
+      ]
+    },
+    {
+      "text": "example: sâu hóa bướm, Chu hóa bướm trong mơ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "不知周之夢爲胡蝶與？胡蝶之夢爲周與？"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/trang-tu-mong-ho-diep.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/trang-tu-mong-ho-diep/",
+          "quote": "\"Vật hóa\": chữ kết của thiên"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): en \"transformation of things\" là cách dịch của một số bản (Watson); Wiktionary ghi \"change of things\". \"Sâu hóa bướm\" là ví dụ ngoài văn bản Trang Tử (Chu hóa bướm trong mơ mới có trong văn bản)."
+}

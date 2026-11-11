@@ -1,0 +1,56 @@
+{
+  "unit": "terms/luat-de-morgan",
+  "hash": "sha256:eee617656aa79765afcb378f00f4d0c64b1443889234852596719f67b359ec96",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: luật De Morgan = De Morgan's laws",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "Three of the De Morgan inferences are derivable in ipc"
+        }
+      ]
+    },
+    {
+      "text": "def: không (P và Q) tương đương (không P) hoặc (không Q); không (P hoặc Q) tương đương (không P) và (không Q)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "all De Morgan’s inferences are derivable in ipc+wlem",
+          "where": "SEP chỉ nêu gián tiếp dạng ¬(A∧B) ⊢ ¬A∨¬B; không nêu đủ hai luật"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Không phải vừa mưa vừa nắng\" nghĩa là \"không mưa hoặc không nắng\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "all De Morgan’s inferences are derivable in ipc+wlem"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "kiểm tra xem ¬(P ∧ Q) có tương đương ¬P ∨ ¬Q không (luật De Morgan):",
+          "where": "đọc từ docs/cong-cu/logic-menh-de.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): nguồn gián tiếp; đề xuất thêm một nguồn nêu rõ hai luật (sách logic nhập môn) nếu muốn chặt hơn."
+}

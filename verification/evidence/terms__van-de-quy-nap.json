@@ -1,0 +1,56 @@
+{
+  "unit": "terms/van-de-quy-nap",
+  "hash": "sha256:e08a96c792cd908ffa6048a1e4f3393accec6d1f289af418415e2789bf8c78ca",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vấn đề quy nạp\" = problem of induction",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "The Problem of Induction",
+          "where": "tiêu đề mục SEP"
+        }
+      ]
+    },
+    {
+      "text": "def: Câu hỏi, gắn với David Hume, về việc lấy gì để biện minh cho niềm tin rằng tương lai sẽ giống quá khứ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "Hume then presents his famous argument to the conclusion that there can be no reasoning behind this principle."
+        }
+      ]
+    },
+    {
+      "text": "example: Mặt trời mọc mỗi sáng từ trước đến nay; nhưng lý do nào bảo đảm sáng mai cũng thế?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "We generally think that the observations we make are able to justify some expectations or predictions about observations we have not yet made",
+          "where": "đoạn mở; ví dụ mặt trời mọc là minh họa"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/quy-nap.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "Đây là vấn đề quy nạp, gắn với tên David Hume"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): SEP nêu Hume 1739 (Treatise) và 1748 (Enquiry), khớp bài see."
+}
