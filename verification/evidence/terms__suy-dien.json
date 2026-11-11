@@ -1,0 +1,66 @@
+{
+  "unit": "terms/suy-dien",
+  "hash": "sha256:b1c3c49d89145001d089784f16d6e5878ab7d252b556f1e452bb7f347dc45569",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: suy diễn = deduction (bảng mục 3: deductive = suy diễn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive/",
+          "quote": "a deductive argument is intended to provide logically conclusive support for its conclusion"
+        }
+      ]
+    },
+    {
+      "text": "alt: diễn dịch (có trong bảng mục 3, cột cách dịch khác của deductive)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một lập luận **suy diễn** (*deductive*) là lập luận nhắm đến sự chắc chắn",
+          "where": "alt “diễn dịch” xác nhận ở bảng mục 3 của HUONG-DAN-VIET.md trong repo"
+        }
+      ]
+    },
+    {
+      "text": "def: nếu các tiền đề đúng thì kết luận chắc chắn đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive/",
+          "quote": "a valid deductive argument is one whose logical structure or form is such that if the premises are true, the conclusion must be true"
+        }
+      ]
+    },
+    {
+      "text": "example: mọi số chia hết cho 4 đều chẵn; 12 chia hết cho 4; vậy 12 chẵn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive/",
+          "quote": "if the premises are true, the conclusion must be true"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/suy-dien.md có và bàn suy diễn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một lập luận **suy diễn** (*deductive*) là lập luận nhắm đến sự chắc chắn"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Định nghĩa của bản ghi hơi lẫn “suy diễn” (deductive) với “hợp lệ”: nếu tiền đề đúng thì kết luận chắc chắn đúng là đặc điểm của lập luận hợp lệ (SEP/IEP); với lập luận chỉ “nhắm đến” sự chắc chắn mà không hợp lệ thì không đúng. Chấp nhận ở mức nhập môn, bài suy-dien.md phân biệt hợp lệ và vững chắc."
+}

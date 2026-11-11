@@ -61,7 +61,7 @@ Lập luận ghép từ chương 1 và chương 5 của *Cẩm nang* trả lời
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Đọc “Cẩm nang” của Epictetus](../doc/epictetus-cam-nang.md)
+- [Đọc "Cẩm nang" của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md)
 
 **Các bài khác nhắc tới Epictetus:** [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md).

@@ -1,0 +1,55 @@
+{
+  "unit": "terms/modus-tollens",
+  "hash": "sha256:24dbeca90f6da33bacfcdc218e2009a2f8409c0ada058feaba34a8da7dfe5339",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: modus tollens (phủ định hậu kiện) = modus tollens (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "{\\sim}B; &\\text{ so } {\\sim}A \\text{ (modus tollens)}"
+        }
+      ]
+    },
+    {
+      "text": "def: dạng suy diễn hợp lệ: nếu P thì Q; không Q; vậy không P",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "A \\Rightarrow B; {\\sim}B; &\\text{ so } {\\sim}A \\text{ (modus tollens)}"
+        }
+      ]
+    },
+    {
+      "text": "example: nếu trời mưa thì sân ướt; sân không ướt; vậy trời không mưa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "A \\Rightarrow B; {\\sim}B; &\\text{ so } {\\sim}A \\text{ (modus tollens)}"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "### Modus tollens (phủ định hậu kiện)",
+          "where": "đọc từ docs/cong-cu/suy-dien.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): khớp HUONG-DAN-VIET.md mục 3; SEP viết công thức bằng LaTeX."
+}

@@ -1,0 +1,55 @@
+{
+  "unit": "terms/nghia-va-vat-duoc-chi",
+  "hash": "sha256:4343e77c73aecf94879d612f2317ebe7910ee89ceb7caaafd2d68c72f282f812",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: nghĩa và vật được chỉ = sense and reference (Sinn und Bedeutung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "‘Über Sinn und Bedeutung’ (‘On Sense and Reference’, 1892a)"
+        }
+      ]
+    },
+    {
+      "text": "def: biểu thức vừa chỉ tới một đối tượng (vật được chỉ), vừa trình bày đối tượng theo một cách nhất định (nghĩa)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "The sense and denotation of the names are basic"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Sao Mai\" và \"Sao Hôm\" cùng chỉ sao Kim nhưng khác nghĩa; \"Sao Mai là Sao Hôm\" là phát hiện, \"Sao Mai là Sao Mai\" thì không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/frege/",
+          "quote": "you can’t learn the truth of ‘\\(117+136 = 253\\)’ and ‘the morning star is identical to the evening star’ simply by inspection"
+        }
+      ]
+    },
+    {
+      "text": "see: lich-su/the-ky-20.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/the-ky-20/",
+          "quote": "báo \"Về nghĩa và quy chiếu\" (1892): ông phân biệt **nghĩa** (*Sinn*, sense) và **vật được chỉ đến** (*Bedeutung*, reference). \"Sao mai\" và \"sao hôm\" chỉ cùng một vật",
+          "where": "đọc từ docs/lich-su/the-ky-20.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): SEP frege dùng \"denotation\"/\"reference\"; ví dụ sao Mai/Hôm trong SEP là morning star/evening star."
+}

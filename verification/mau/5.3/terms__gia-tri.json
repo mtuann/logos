@@ -1,0 +1,78 @@
+{
+  "unit": "terms/gia-tri",
+  "hash": "sha256:6261c61684cdbcf0357f158c9f77a950c8d90ba67ceaf277a90f141e1a5bb454",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m05",
+  "claims": [
+    {
+      "text": "vi–en: giá trị = value",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/value-theory/",
+          "quote": "the area of moral philosophy that is concerned with theoretical questions about value and goodness of all varieties",
+          "where": "SEP, Schroeder, \"Value Theory\" (bản sửa 14/7/2025), phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "def: Cái đáng được theo đuổi, tôn trọng hoặc bảo vệ; triết học giá trị (axiology) hỏi điều gì thật sự có giá trị — hạnh phúc, tri thức, đức hạnh, cái đẹp — và giá trị là khách quan hay do ta gán cho.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/value-theory/",
+          "quote": "Axiology can be thought of as primarily concerned with classifying what things are good, and how good they are.",
+          "where": "phần mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/value-theory/",
+          "quote": "The basic idea behind all kinds of Fitting Attitudes account is that “good” is closely linked to “desirable”.",
+          "where": "mục 3.2 Fitting Attitudes"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/value-intrinsic-extrinsic/",
+          "quote": "happiness, beatitude, contentment, etc.; truth; knowledge and true opinions of various kinds, understanding, wisdom; beauty, harmony, proportion in objects contemplated",
+          "where": "SEP, \"Intrinsic vs. Extrinsic Value\", danh sách của Frankena (có cả \"morally good dispositions or virtues\")"
+        },
+        {
+          "url": "https://www.britannica.com/topic/axiology",
+          "quote": "The philosopher asks whether something is of value because it is desired, as subjectivists such as Perry hold, or whether it is desired because it has value",
+          "where": "Britannica, \"Axiology\" (also called theory of value)"
+        }
+      ]
+    },
+    {
+      "text": "example: Một bức tranh vô giá với người này chỉ là mảnh vải với người khác — vậy giá trị nằm trong bức tranh, hay trong mắt người nhìn?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/axiology",
+          "quote": "whether something is of value because it is desired, as subjectivists such as Perry hold, or whether it is desired because it has value",
+          "where": "câu hỏi chủ quan/khách quan mà ví dụ minh họa"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/value-intrinsic-extrinsic/",
+          "quote": "Then we may well want to say that the painting itself has value in light of this fact",
+          "where": "ví dụ Mona Lisa: giá trị của bức tranh gắn với sự thưởng thức của người xem (\"inherent value\")"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/y-nghia-song.md có trong repo và bàn khái niệm giá trị (khách quan hay chủ quan)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "sự gặp nhau giữa sự yêu thích chủ quan và giá trị khách quan",
+          "where": "file docs/cau-hoi/y-nghia-song.md trong repo, mục công thức của Wolf; mục \"Chủ quan luận\" bàn việc không có \"giá trị khách quan\"; trang đã xuất bản khớp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m05): SEP \"Value Theory\" coi axiology theo nghĩa hẹp là câu hỏi điều gì tốt; câu hỏi giá trị khách quan hay do ta gán thuộc lý thuyết giá trị theo nghĩa rộng, và Britannica (axiology = theory of value) nêu đúng câu hỏi ấy, nên định nghĩa chấp nhận được. Trang see bàn giá trị khách quan trong bối cảnh ý nghĩa cuộc sống (Wolf, chủ quan luận); repo chưa có trang riêng về giá trị."
+}

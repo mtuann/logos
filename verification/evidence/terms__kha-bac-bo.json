@@ -1,0 +1,54 @@
+{
+  "unit": "terms/kha-bac-bo",
+  "hash": "sha256:be0ce478a14c97509237be2657a649e40710bad6835d3665b1782d5c353161b1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: khả bác bỏ = falsifiability",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "Popper take falsifiability as his criterion for demarcating science from non-science"
+        }
+      ]
+    },
+    {
+      "text": "def: Tính chất của một lý thuyết nói đủ rõ để có thể bị kinh nghiệm chứng minh là sai; theo Popper, đây là dấu hiệu phân biệt khoa học thực nghiệm với phi khoa học.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "if a theory is incompatible with possible empirical observations it is scientific"
+        }
+      ]
+    },
+    {
+      "text": "example: “Chiều mai Hà Nội mưa” có thể bị bác bỏ; “năm nay anh có hạn, nhưng biết giữ mình thì qua” thì không, vì kết quả nào cũng khớp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "a theory which is compatible with all such observations"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/khoa-hoc.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/khoa-hoc/",
+          "quote": "Từ khả bác bỏ của Popper, mô thức của Kuhn"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): SEP Popper. Ví dụ dự báo mưa và lời tử vi: minh họa; khớp tiêu chí (tương thích với mọi quan sát thì phi khoa học)."
+}

@@ -1,0 +1,73 @@
+{
+  "unit": "terms/tinh-hop-le",
+  "hash": "sha256:1822351223cdc66f10baff25a806184627b21e5b75f1315a52a0bd1e528eaa0b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m05",
+  "claims": [
+    {
+      "text": "vi–en: tính hợp lệ = validity; khớp bảng HUONG-DAN-VIET.md mục 3 (valid → hợp lệ)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "Validity and Soundness",
+          "where": "IEP, tên mục; bảng thuật ngữ: HUONG-DAN-VIET.md mục 3 trong repo (dòng \"valid | hợp lệ\")"
+        }
+      ]
+    },
+    {
+      "text": "def: Tính chất của một lập luận: không thể nào các tiền đề đều đúng mà kết luận sai. Chỉ xét hình thức, không xét tiền đề có đúng thực tế không.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is said to be valid if and only if it takes a form that makes it impossible for the premises to be true and the conclusion nevertheless to be false.",
+          "where": "câu đầu"
+        },
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "It is important to stress that the premises of an argument do not have actually to be true in order for the argument to be valid.",
+          "where": "ngay sau ví dụ Elizabeth (Honda/Saturn)"
+        },
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "the validity or invalidity of an argument is determined entirely by its logical form",
+          "where": "đoạn về hình thức logic"
+        }
+      ]
+    },
+    {
+      "text": "example: “Nếu P thì Q; P; vậy Q” hợp lệ dù P, Q nói về điều hoàn toàn bịa đặt.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "if they were true, their truth would logically guarantee the conclusion’s truth",
+          "where": "ví dụ \"All toasters are items made of gold...\": tiền đề sai rõ ràng mà lập luận vẫn hợp lệ"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Modus ponens is sometimes also called “modus ponendo ponens”, “detachment” or a form of “→-elimination”.",
+          "where": "IEP, \"Propositional Logic\", danh sách quy tắc suy diễn, dòng Modus ponens (MP)"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có trong repo và bàn tính hợp lệ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Tính hợp lệ phụ thuộc vào hình thức của lập luận, không phụ thuộc vào nội dung.",
+          "where": "file docs/cong-cu/suy-dien.md trong repo, mục \"Hợp lệ: một lời hứa về hình thức\" và \"Những khuôn đáng tin\"; trang đã xuất bản khớp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m05): không có lỗi. IEP định nghĩa hợp lệ cho lập luận suy diễn; def viết \"một lập luận\" vẫn đúng (trang see nói rõ \"lập luận suy diễn\")."
+}

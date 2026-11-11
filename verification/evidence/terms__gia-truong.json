@@ -1,0 +1,58 @@
+{
+  "unit": "terms/gia-truong",
+  "hash": "sha256:4840e0e19d258db93f86e010e1260cace0d13473e49bfbd2aeb994c0f597c74b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: gia trưởng = paternalism",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/paternalism/",
+          "quote": "Paternalism is the interference of a state or an individual with another person, against their will"
+        }
+      ]
+    },
+    {
+      "text": "def: Can thiệp vào lựa chọn của một người, trái hoặc không cần ý muốn của họ, với lý do là để họ được tốt hơn hoặc khỏi bị hại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/paternalism/",
+          "quote": "against their will, and defended or motivated by a claim that the person interfered with will be better off or protected from harm"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/paternalism/",
+          "quote": "X does so without the consent of Y."
+        }
+      ]
+    },
+    {
+      "text": "example: Cả nhà giấu bố chẩn đoán bệnh \"để bố khỏi lo\" là một quyết định gia trưởng, dù xuất phát từ lòng thương.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/paternalism/",
+          "quote": "Paternalistic Lies"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/noi-doi.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "Đó là đường thẳng tới thói gia trưởng (paternalism)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): SEP \"Paternalism\": định nghĩa \"against their will\" và \"without the consent\" đều có, def của term gộp cả hai nên đúng. Ví dụ giấu chẩn đoán khớp mục \"Paternalistic Lies\" của SEP (chỉ thấy tiêu đề mục)."
+}

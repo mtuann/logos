@@ -1,0 +1,43 @@
+{
+  "unit": "terms/nghich-ly",
+  "hash": "sha256:d1ab2eb9df32141604d69f88903132940232c75f69e52373734c5ac314cee26f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: nghịch lý = paradox",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sorites-paradox/",
+          "quote": "the argument will remain a paradox"
+        }
+      ]
+    },
+    {
+      "text": "def: lập luận từ tiền đề có vẻ đúng, qua bước có vẻ hợp lý, đến kết luận có vẻ sai hoặc mâu thuẫn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sorites-paradox/",
+          "quote": "it will still appear to consist in unimpeachable reasoning from true premises to a false conclusion"
+        }
+      ]
+    },
+    {
+      "text": "example: một hạt gạo không làm nên đống gạo, thêm một hạt cũng không, vậy mãi mãi không có đống gạo?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/sorites-paradox/",
+          "quote": "A competent speaker must say that a single grain of wheat does not make a heap"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): định nghĩa theo nghĩa nghịch lý kiểu sorites; nghịch lý nói chung rộng hơn (Wiktionary có nhiều nghĩa), nhưng định nghĩa bản ghi hợp với cách dùng triết học. Bản ghi không có see."
+}

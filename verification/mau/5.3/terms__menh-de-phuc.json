@@ -1,0 +1,73 @@
+{
+  "unit": "terms/menh-de-phuc",
+  "hash": "sha256:e7600d3594da9ab2b6557d393d76b63d06e47797a8f13da90a5babd243323902",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m07",
+  "claims": [
+    {
+      "text": "vi–en: mệnh đề phức — compound proposition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22compound+proposition%22+%22simple+propositions%22+connectives+logic",
+          "quote": "A compound proposition is a proposition built up from a collection of simple propositions",
+          "where": "kết quả Google Books: Dexter J. Booth, Foundation Discrete Mathematics for Computing (2013), tr. 6"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "The term proposition is sometimes used synonymously with statement.",
+          "where": "IEP “Propositional Logic” (Kevin C. Klement), mục 1; bài dùng “compound statement”"
+        }
+      ]
+    },
+    {
+      "text": "def: Mệnh đề tạo thành từ các mệnh đề đơn bằng phép nối logic.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-propositional/",
+          "quote": "Every formula is built up stepwise from atoms through a finite application of propositional connectives.",
+          "where": "SEP “Propositional Logic” (Curtis Franks), mục 1 Basic Framework"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "connectives that are used to produce complex statements whose truth-value depends entirely on the truth-values of the simpler statements making them up",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "example: “P và Q”, “nếu P thì Q” là các mệnh đề phức.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "a compound statement joined together with the word “and” is true if both the statements so joined are true",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "In English, words such as “and”, “or”, “not”, “if … then…”, “because”, and “necessarily”, are all operators.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "từ những khối ấy, ta lắp ghép câu phức bằng các phép nối",
+          "where": "file docs/cong-cu/logic-menh-de.md có trong repo (tiêu đề “Bảng chân trị: khi lập luận thành phép tính”); trang xuất bản cùng nội dung"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m07): mọi trường đúng. Thuật ngữ không có trong bảng HUONG-DAN-VIET mục 3. SEP và IEP dùng “compound sentence/statement”, sách giáo khoa logic dùng đúng “compound proposition”. Trang see bàn khái niệm nhưng gọi là “câu phức”, “công thức phức” chứ không dùng đúng chữ “mệnh đề phức”; có thể thống nhất cách gọi (không phải lỗi)."
+}

@@ -1,0 +1,54 @@
+{
+  "unit": "terms/noi-doi",
+  "hash": "sha256:3be5ebbf6bd055b642e459d61c668168812b1eff894a722a8c242fecfebe10ed",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: nói dối = lying",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "L1 is the traditional definition of lying."
+        }
+      ]
+    },
+    {
+      "text": "def: định nghĩa truyền thống: khẳng định điều mình tin là sai, nói với người khác, với ý định người đó tin là thật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "(L1) To lie =df to make a believed-false statement to another person with the intention that the other person believe that statement to be true."
+        }
+      ]
+    },
+    {
+      "text": "example: biết xe từng ngập mà bảo “chưa ngập bao giờ” là nói dối; tin nhầm giờ bay rồi nói sai thì không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "The falsity condition is not a necessary condition for lying according to L1."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/noi-doi.md có và bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "Nói dối (định nghĩa truyền thống) là khẳng định điều mình tin là sai, với ý định người nghe tin là thật"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Định nghĩa khớp L1 của SEP (Mahon). SEP cũng nêu phản đối định nghĩa truyền thống (mục 1.5, 2) nhưng bản ghi đã ghi rõ \"theo định nghĩa truyền thống\". Ví dụ xe ngập là ca nói dối đúng định nghĩa (tin sai + ý định lừa)."
+}

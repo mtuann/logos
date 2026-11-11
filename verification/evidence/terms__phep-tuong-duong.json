@@ -1,0 +1,58 @@
+{
+  "unit": "terms/phep-tuong-duong",
+  "hash": "sha256:a9a42d98c3a8e2fe1b40f8207bec40f651d1e1d86b4bf82e0cd2a6975c7855fd",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép tương đương = biconditional",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "is also sometimes referred to as a (material) biconditional"
+        }
+      ]
+    },
+    {
+      "text": "def: “P khi và chỉ khi Q”, đúng khi P và Q cùng đúng hoặc cùng sai; ký hiệu ↔",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "is an analogue of the locution “if and only if”"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Material Equivalence: This truth-function is represented in language PL with the sign ‘↔’."
+        }
+      ]
+    },
+    {
+      "text": "example: “Tam giác đều khi và chỉ khi ba góc bằng nhau”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "is an analogue of the locution “if and only if”"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có và bàn phép tương đương",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "### Tương đương: ↔ (\"khi và chỉ khi\")"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Ví dụ tam giác đều: đúng với tam giác phẳng Euclid (ba cạnh bằng nhau ⇔ ba góc bằng nhau); đúng."
+}

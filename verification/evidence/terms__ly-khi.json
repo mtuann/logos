@@ -1,0 +1,72 @@
+{
+  "unit": "terms/ly-khi",
+  "hash": "sha256:8b6b796e07b9a927d88a685d701ed966077c1a1919a088194fea842446d331ad",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: lý và khí = pattern/principle and vital stuff (li and qi)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "He drew upon received notions of li (pattern) and qi (cosmic vapor)"
+        }
+      ]
+    },
+    {
+      "text": "han: 理氣, đọc Hán Việt lý khí",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/理",
+          "quote": "reading=lí, lẽ, nhẽ",
+          "where": "mục Vietnamese, wikitext API (lí = lý)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/氣",
+          "quote": "reading=khí",
+          "where": "mục Vietnamese, wikitext API"
+        }
+      ]
+    },
+    {
+      "text": "def: cặp phạm trù Tân Nho giáo Chu Hy: lý là khuôn mẫu, khí là chất liệu làm nên hình hài",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "Whereas Zhu had allegedly insisted on the priority of “pattern” over qi, (roughly, form over matter)"
+        }
+      ]
+    },
+    {
+      "text": "example: thuyền khác nhau về gỗ, dáng (khí) nhưng đều theo cái lẽ đi được trên nước (lý)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhu-xi/",
+          "quote": "(roughly, form over matter)"
+        }
+      ]
+    },
+    {
+      "text": "see: lich-su/trung-hoa.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+          "quote": "**lý** (nguyên lý) và **khí** (vật chất); tu dưỡng là \"cách vật trí tri\" — nghiên cứu sự vật để thấu",
+          "where": "đọc từ docs/lich-su/trung-hoa.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): SEP zhu-xi dịch li là \"pattern\", qi là \"cosmic vapor\"; Wiktionary ghi 理 đọc \"lí\"/\"lý\" là biến thể chính tả."
+}

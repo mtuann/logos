@@ -1,0 +1,61 @@
+{
+  "unit": "terms/nang-luc-lua-chon",
+  "hash": "sha256:291f32872a356a22f5378f27566e593c52deb24363f0baef98a362cd996708b6",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: năng lực lựa chọn = volition (prohairesis)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epictetus/",
+          "quote": "It is, again, the capacity for choice that makes us accountable for our own actions and states."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epictetus/",
+          "quote": "his favored term prohairesis refers more often to the capacity for choice than it does to particular acts of choosing"
+        }
+      ]
+    },
+    {
+      "text": "def: theo Epictetus, phần duy nhất thật sự tùy thuộc vào ta: phán đoán, mong muốn, ác cảm và cách dùng các ấn tượng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Encheiridion_of_Epictetus/Encheiridion",
+          "quote": "Of things that depend upon ourselves are our opinions and impulses, desires and aversions",
+          "where": "Encheiridion §1 (bản Long)"
+        }
+      ]
+    },
+    {
+      "text": "example: kẻ trộm lấy được cây đèn nhưng không lấy được cách ta phán đoán về việc mất đèn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Works_of_Epictetus,_His_Discourses,_in_Four_Books,_the_Enchiridion,_and_Fragments/Book_1/Chapter_18",
+          "quote": "I found my lamp was stolen.",
+          "where": "Discourses I.18"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/epictetus-cam-nang.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/epictetus-cam-nang/",
+          "quote": "ấy Epictetus gọi là *prohairesis*, có thể dịch là **năng lực lựa chọn** (*volition*). Điều tùy thuộc vào ta thì tự do; điều không tùy thuộc thì \"yếu ớt, lệ thuộc, nằm trong tay",
+          "where": "đọc từ docs/doc/epictetus-cam-nang.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): Encheiridion §1 chỉ nêu \"opinions, impulses, desires, aversions\"; vế \"cách dùng các ấn tượng\" (chrēsis phantasiōn) không đọc được trong trang đã mở — chấp nhận theo nghĩa tổng quát, nên dẫn Discourses/Encheiridion nếu muốn chặt."
+}

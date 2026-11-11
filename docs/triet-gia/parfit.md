@@ -16,7 +16,7 @@ Parfit sinh ngày 11 tháng 12 năm 1942 ở Thành Đô, Tứ Xuyên (Trung Qu�
 
 Cuốn sách đầu tiên ra đời dưới áp lực: All Souls cảnh báo rằng nếu đến năm 1984 không có một cuốn sách đủ tầm, ông sẽ mất chỗ. Kết quả là *Reasons and Persons* (1984), một trong những tác phẩm đạo đức học có ảnh hưởng nhất của nửa sau thế kỷ 20, đi từ lý trí và thời gian, bản sắc cá nhân, đến nghĩa vụ với các thế hệ tương lai. Ông viết rằng việc nhận ra bản sắc của mình chỉ là chuyện mức độ, chứ không phải một sự thật sâu xa, khiến ông thấy được giải phóng và an ủi: bớt bận tâm về tương lai và cái chết của chính mình, quan tâm nhiều hơn đến người khác.
 
-Về sau ông dạy thêm ở Harvard, Đại học New York và Rutgers, một phần, theo lời ông, để có tiền cho thú chụp ảnh kiến trúc Venice và St Petersburg, rồi để có thêm tiền làm từ thiện. Công trình cuối đời, *On What Matters* (hai tập năm 2011, tập ba năm 2017), bảo vệ niềm tin rằng có những điều thật sự quan trọng. Ông được trao giải Rolf Schock năm 2014 và mất đột ngột ở London ngày 2 tháng 1 năm 2017, chỉ vài giờ sau khi gửi đi bài viết cuối cùng, một lần nữa về những người chưa sinh ra.
+Về sau ông dạy thêm ở Harvard, Đại học New York và Rutgers, một phần, theo lời ông, để có tiền cho thú chụp ảnh kiến trúc Venice và St Petersburg, rồi để có thêm tiền làm từ thiện. Công trình cuối đời, *On What Matters* (hai tập năm 2011, tập ba năm 2017), bảo vệ niềm tin rằng có những điều thật sự quan trọng. Ông được trao giải Rolf Schock năm 2014 và mất đột ngột ở London vào rạng sáng ngày 2 tháng 1 năm 2017; ngay hôm trước, ông vừa gửi cho tạp chí *Philosophy & Public Affairs* bản thảo bài viết cuối cùng, một lần nữa về những người chưa sinh ra.
 
 ## Tác phẩm chính
 
@@ -27,7 +27,7 @@ Về sau ông dạy thêm ở Harvard, Đại học New York và Rutgers, một 
 
 ## Tư tưởng chính
 
-- **Quan điểm quy giản** (*reductionist view*) về con người: sự tồn tại của một người chỉ gồm sự tồn tại của một bộ não, một thân thể và một chuỗi sự kiện tâm lý, thể chất liên kết với nhau; không có thêm một “sự kiện bổ sung” nào như một cái tôi hay linh hồn tách biệt. Ở Phụ lục J của *Reasons and Persons*, ông trích kinh điển Phật giáo (*Thanh tịnh đạo*, ví dụ cỗ xe) và viết rằng Đức Phật hẳn sẽ đồng ý.
+- **Quan điểm quy giản** (*reductionist view*) về con người: sự tồn tại của một người chỉ gồm sự tồn tại của một bộ não, một thân thể và một chuỗi sự kiện tâm lý, thể chất liên kết với nhau; không có thêm một “sự kiện bổ sung” nào như một cái tôi hay linh hồn tách biệt. Ông viết rằng Đức Phật hẳn sẽ đồng ý với quan điểm này, và ở Phụ lục J (“Buddha’s View”) của *Reasons and Persons* dẫn nhiều kinh luận Phật giáo làm chứng: *Mi Tiên vấn đáp*, bài kệ ví chúng sinh với cỗ xe chỉ là tên gọi chung của các bộ phận, Thế Thân (Vasubandhu) và *Thanh tịnh đạo*.
 - **Vấn đề non-identity** (*non-identity problem*): chính sách hôm nay quyết định cả việc *ai* sẽ ra đời. Nếu một cộng đồng chọn khai thác cạn kiệt tài nguyên, người sống trong hai thế kỷ tới sẽ khá hơn đôi chút, nhưng sau đó chất lượng sống sụt mạnh; thế mà nếu chọn khác, chính những người chịu thiệt kia đã không tồn tại. Vậy lựa chọn ấy đã làm hại ai? Câu đố này nằm ở trung tâm tranh luận về trách nhiệm với khí hậu và thế hệ tương lai.
 - **Kết luận ghê tởm** (*Repugnant Conclusion*): theo một số lý thuyết hấp dẫn, với bất kỳ dân số mười tỷ người có chất lượng sống rất cao nào, sẽ có một dân số lớn hơn nhiều, mà đời ai cũng chỉ “vừa đủ đáng sống”, lại tốt hơn. Parfit thấy kết luận ấy không thể chấp nhận và dành nhiều năm tìm một lý thuyết tránh được nó; đến nay vẫn chưa có lời giải được đồng thuận.
 - Trong *On What Matters*, Parfit bảo vệ một hiện thực luận không khoan nhượng: có những lý lẽ khách quan, có những điều thật sự quan trọng bất kể ta muốn gì. Ông còn lập luận rằng các phiên bản tốt nhất của đạo đức học Kant, của khế ước luận và của hệ quả luận rốt cuộc hội tụ, như những người leo cùng một ngọn núi từ những sườn khác nhau.
@@ -36,7 +36,7 @@ Về sau ông dạy thêm ở Harvard, Đại học New York và Rutgers, một 
 
 Lập luận từ trường hợp “phân đôi” (*fission*) trong *Reasons and Persons*, Phần Ba, tái dựng gọn:
 
-- **P1.** Người ta có thể sống sót khi chỉ còn một bán cầu não hoạt động: y học từng cắt bỏ cả một bán cầu não để chữa động kinh nặng, và người bệnh vẫn là chính họ.
+- **P1.** Người ta có thể sống sót khi chỉ còn một bán cầu não hoạt động: nhiều người vẫn sống, vẫn là chính họ, sau khi đột quỵ hay chấn thương làm một bán cầu não ngừng hoạt động.
 - **P2.** Hãy tưởng tượng hai bán cầu não của tôi được ghép vào hai cơ thể khác nhau. Mỗi người tỉnh dậy đều liên tục về tâm lý với tôi (ký ức, tính cách, dự định) đầy đủ như khi chỉ một nửa được ghép.
 - **P3.** Tôi không thể là cả hai người, vì họ sẽ sống hai cuộc đời khác nhau, và cũng không có lý do gì để là người này mà không phải người kia; vậy nói chặt chẽ, tôi không đồng nhất với ai trong hai người.
 - **P4.** Nhưng quan hệ giữa tôi và mỗi người ấy chứa mọi thứ có trong sự sống sót bình thường; khó mà coi một thành công gấp đôi là một thất bại.
@@ -59,7 +59,7 @@ Lập luận từ trường hợp “phân đôi” (*fission*) trong *Reasons a
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Cái “tôi” là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
+- [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
 - [Cái tôi qua thời gian — tôi của mười năm trước còn là tôi không?](../cau-hoi/ban-nga-thoi-gian.md)
 - [Ai chịu trách nhiệm cho khí hậu? Công lý liên thế hệ](../cau-hoi/khi-hau-trach-nhiem.md)
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)

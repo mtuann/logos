@@ -1,0 +1,57 @@
+{
+  "unit": "terms/tam-doan-luan-gia-dinh",
+  "hash": "sha256:ebebe47bd9a1016b1967014bbec881e10ddb3f6208fc9a52c9f01cee0a032133",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tam đoạn luận giả định = hypothetical syllogism",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "Hypothetical syllogism is sometimes also called “chain reasoning” or “chain deduction”."
+        }
+      ]
+    },
+    {
+      "text": "def: từ “nếu P thì Q” và “nếu Q thì R” suy ra “nếu P thì R” (quy tắc bắc cầu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "Hypothetical syllogism (HS)",
+          "where": "dạng α → β, β → γ ⊢ α → γ; gọi là “chain reasoning”"
+        }
+      ]
+    },
+    {
+      "text": "example: học chăm → đỗ → có việc ⇒ học chăm → có việc minh họa đúng quy tắc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "Hypothetical syllogism is sometimes also called “chain reasoning” or “chain deduction”.",
+          "where": "ví dụ có đúng dạng α→β, β→γ ⊢ α→γ"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Tam đoạn luận giả định",
+          "where": "tiêu đề mục trong file"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): thuật ngữ khớp bảng mục 3 (syllogism = tam đoạn luận). Nguồn IEP Propositional Logic."
+}

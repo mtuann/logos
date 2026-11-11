@@ -1,0 +1,60 @@
+{
+  "unit": "terms/tuong-thich-luan",
+  "hash": "sha256:77c6c5ed42cc92217abddf8b5fa41c0f02a46e59bc1b335b3dc09b8aab3737b3",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"tương thích luận\" = compatibilism",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "compatibilism | tương thích luận",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/compatibilism/",
+          "quote": "Compatibilism is the thesis that free will is compatible with determinism."
+        }
+      ]
+    },
+    {
+      "text": "def: Lập trường cho rằng tự do ý chí có thể tồn tại cùng tất định luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/compatibilism/",
+          "quote": "Compatibilism is the thesis that free will is compatible with determinism."
+        }
+      ]
+    },
+    {
+      "text": "example: Bạn tự do khi làm theo mong muốn của mình mà không bị ép buộc, dù mong muốn ấy có nguyên nhân.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/compatibilism/",
+          "quote": "Compatibilism is the thesis that free will is compatible with determinism.",
+          "where": "ví dụ là dạng cổ điển: tự do = làm theo mong muốn không bị ép buộc"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tu-do-y-chi.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Bài này trình bày tất định luận, tương thích luận, bất tương thích luận và thí nghiệm Libet."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): ví dụ là tương thích luận cổ điển (Hume, Hobbes); chưa trích được câu SEP riêng cho dạng này nên dẫn lại câu định nghĩa."
+}

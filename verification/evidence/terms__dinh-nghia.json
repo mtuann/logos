@@ -1,0 +1,73 @@
+{
+  "unit": "terms/dinh-nghia",
+  "hash": "sha256:f022dc4ffc2bd28d9dd3cdb078fc64ad78a983eb0783caa3a9c616c98d00fcd1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “định nghĩa” ↔ definition là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "quote": "Plato’s early dialogues portray Socrates raising questions about definitions"
+        }
+      ]
+    },
+    {
+      "text": "han: 定義 đọc định nghĩa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/定義",
+          "quote": "chữ Hán form of định nghĩa (“definition”)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/定",
+          "quote": "định"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/義",
+          "quote": "nghĩa, nghì"
+        }
+      ]
+    },
+    {
+      "text": "def: Lời phát biểu nói rõ một từ hay khái niệm nghĩa là gì, thường bằng cách nêu điều kiện để áp dụng nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "quote": "the expression on the right-hand side is its definiens"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Hình vuông là hình chữ nhật có bốn cạnh bằng nhau\" là một định nghĩa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "quote": "the expression on the right-hand side is its definiens"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/dinh-nghia-phan-vi-du.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/dinh-nghia-phan-vi-du/",
+          "quote": "# Thế nào là một định nghĩa tốt?"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): SEP Definitions (2023)."
+}

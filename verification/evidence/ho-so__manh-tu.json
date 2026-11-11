@@ -1,0 +1,517 @@
+{
+  "unit": "ho-so/manh-tu",
+  "hash": "sha256:48f43ac60a1e2b50a179ae5bb05674ada4e47bdac0d981357262d0b246ea0968",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-r02",
+  "claims": [
+    {
+      "text": "Mạnh Tử k. 372–289 TCN (theo truyền thống)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/manh-tu"
+    },
+    {
+      "text": "desc: 'Á thánh' của Nho gia; bốn mầm thiện; vua Tề và con trâu; dân là quý; 'không làm' khác 'không thể'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Often referred to as the “Second Sage” of Confucianism",
+          "where": "đầu mục"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "故王之不王，不為也，非不能也",
+          "where": "1A7"
+        }
+      ]
+    },
+    {
+      "text": "bio: Mạnh Tử 7B3 'tin hết vào sách' (thiên Vũ Thành, Kinh Thư), chỉ lấy 'hai ba thẻ'; máu chảy trôi chày",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+          "quote": "盡信《書》，則不如無《書》。吾於《武成》，取二三策而已矣。",
+          "where": "7B3"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+          "quote": "而何其血之流杵也",
+          "where": "7B3"
+        }
+      ]
+    },
+    {
+      "text": "bio: tên Kha, người nước Trâu; học môn đồ Tử Tư; thuyết vua Tuyên Tề (không dùng) và vua Huệ Lương (cho là vu khoát) giữa lúc hợp tung liên hoành; cùng Vạn Chương soạn Mạnh Tử bảy thiên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/史記/卷074",
+          "quote": "孟軻，騶人也。受業子思之門人。",
+          "where": "Sử ký, Mạnh Tử Tuân Khanh liệt truyện"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/史記/卷074",
+          "quote": "梁惠王不果所言，則見以為迂遠而闊於事情",
+          "where": "như trên"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/史記/卷074",
+          "quote": "退而與萬章之徒序詩書，述仲尼之意，作孟子七篇",
+          "where": "như trên"
+        }
+      ]
+    },
+    {
+      "text": "bio: Trâu nay thuộc Sơn Đông; cha mất sớm; nhiều giai thoại về mẹ lo việc học; học với Tử Tư",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "he is said to have been born in the state of Zou, in what is now Shandong Province",
+          "where": "1. Life and Confucian Background"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "His father supposedly died when Mencius was young",
+          "where": "1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "several famous stories of the determination of Mencius’s mother to provide a good education for her son",
+          "where": "1"
+        }
+      ]
+    },
+    {
+      "text": "bio: sinh khoảng một thế kỷ sau khi Khổng Tử mất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Mencius was born about a century after the death of Confucius.",
+          "where": "1"
+        }
+      ]
+    },
+    {
+      "text": "bio: 'Theo truyền thống ông sống khoảng 372–289 TCN, nhưng nhiều học giả nay đẩy niên đại lên sớm hơn chừng hai mươi năm (Van Norden, SEP)' - dẫn SEP cho niên đại",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bỏ dẫn '(Van Norden, SEP)' cho con số 372–289 và 'sớm hơn hai mươi năm': bản SEP fall2026 chỉ ghi 'fourth century BCE' và 'born about a century after the death of Confucius'. Dẫn nguồn khác (ví dụ Sử ký không ghi năm; cần một tài liệu có ghi 372–289) hoặc bỏ thành 'thế kỷ IV TCN'.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Mencius (fourth century BCE) was a Confucian philosopher.",
+          "where": "đầu mục"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "bio: 'nhiều học giả nay đẩy niên đại lên sớm hơn chừng hai mươi năm' - chưa có nguồn mở được",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bỏ đoạn 'nhưng nhiều học giả nay đẩy niên đại lên sớm hơn chừng hai mươi năm (Van Norden, SEP)'; viết: 'Theo truyền thống ông sống khoảng 372–289 TCN; các mốc này không chắc chắn — SEP chỉ ghi ông sống ở thế kỷ IV TCN.'",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Mencius (fourth century BCE) was a Confucian philosopher.",
+          "where": "đầu mục; SEP không nói gì về việc đẩy niên đại sớm hơn"
+        },
+        {
+          "url": "https://iep.utm.edu/mencius/",
+          "quote": "postdates his traditional lifetime (372-289 BCE)",
+          "where": "1. The Mencius of History; IEP cũng không nêu niên đại khác"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "bio: Dương Chu 'vì mình' = không có vua; Mặc Tử 'kiêm ái' = không có cha (3B9); Mạnh Tử nhận việc chặn lời Dương Mặc",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+          "quote": "楊氏為我，是無君也。墨氏兼愛，是無父也。",
+          "where": "3B9"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+          "quote": "吾為此懼，閑先聖之道，距楊墨、放淫辭",
+          "where": "3B9"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "“the doctrines of Yang Zhu and Mozi fill the world.",
+          "where": "4. Mencius and His Philosophical Opponents"
+        }
+      ]
+    },
+    {
+      "text": "bio: 'dân là quý, xã tắc thứ hai, vua là nhẹ' (7B14)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/盡心下",
+          "quote": "民為貴，社稷次之，君為輕",
+          "where": "7B14"
+        }
+      ]
+    },
+    {
+      "text": "bio: vua phải lo cho dân có hằng sản rồi mới có hằng tâm (1A7)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "無恆產，因無恆心",
+          "where": "1A7"
+        }
+      ]
+    },
+    {
+      "text": "bio: Hàn Dũ (768–824) coi Mạnh Tử là 'thuần khiết nhất' của môn đồ Khổng Tử; Chu Hy đưa Mạnh Tử vào Tứ thư; tính thiện thành chính thống",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Han Yu singles out Mencius as the “most pure” of the followers of Confucius.",
+          "where": "5. Later Influence"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Zhu Xi, who grouped the Mengzi along with three other Confucian classics (the Great Learning, Analects, and Mean) as the Four Books",
+          "where": "5"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Zhu Xi’s interpretations of the Four Books became orthodoxy",
+          "where": "5"
+        }
+      ]
+    },
+    {
+      "text": "bio: 'Á thánh' — người thứ hai sau Khổng Tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "meaning second in importance only to Confucius himself",
+          "where": "đầu mục"
+        }
+      ]
+    },
+    {
+      "text": "bio: 'Nhân chi sơ, tính bản thiện' trong Tam tự kinh là dư âm qua lăng kính Chu Hy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "was even written into the opening lines of the Three Character Classic",
+          "where": "3. The Goodness of Human Nature"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "the latter phrase actually derives from a gloss on Mencius’s view popularized by the seminal commentator Zhu Xi",
+          "where": "3"
+        }
+      ]
+    },
+    {
+      "text": "bio: ngày nay được đọc cạnh Aristotle và Hume như nhà đạo đức học đức hạnh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "his views on the virtues, ethical cultivation, and human nature have intriguing similarities with but also provocative differences from familiar Humean and Aristotelian formulations",
+          "where": "đầu mục"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "the application of the framework of virtue ethics, beginning with Yearley (1990)",
+          "where": "5"
+        }
+      ]
+    },
+    {
+      "text": "works: Mạnh Tử (sách)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/manh-tu.manh-tu"
+    },
+    {
+      "text": "works.note: bảy thiên, mỗi thiên hai phần 1A–7B; biên soạn bởi ông và học trò hoặc học trò của học trò; Triệu Kỳ biên tập, chú giải thế kỷ 2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "It was subsequently edited and shortened by Zhao Qi in the second century C.E., who also wrote a commentary on the text.",
+          "where": "1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "The received text of the Mengzi is divided into seven “books,” each of which is subdivided into two parts",
+          "where": "1"
+        }
+      ]
+    },
+    {
+      "text": "works.note: 'Lương Huệ vương' 1A–1B: hà tất nói chuyện lợi; vua Tề và con trâu; giết kẻ tàn bạo không phải giết vua",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "王何必曰利？亦有仁義而已矣",
+          "where": "1A1"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "聞誅一夫紂矣，未聞弒君也",
+          "where": "1B8"
+        }
+      ]
+    },
+    {
+      "text": "works.note: 'Công Tôn Sửu thượng' 2A: đứa trẻ bên giếng và bốn mầm thiện",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "今人乍見孺子將入於井，皆有怵惕惻隱之心",
+          "where": "2A6"
+        }
+      ]
+    },
+    {
+      "text": "works.note: 'Cáo Tử thượng' 6A: tranh luận với Cáo Tử về tính người; núi Ngưu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "告子曰：『性無善無不善也。』",
+          "where": "6A6"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "牛山之木嘗美矣",
+          "where": "6A8"
+        }
+      ]
+    },
+    {
+      "text": "thoughts 1: bốn mầm thiện (đứa trẻ rơi xuống giếng; không vì lấy lòng cha mẹ hay được khen); trắc ẩn, hổ thẹn, nhường nhịn, phải trái = đầu mối của nhân, nghĩa, lễ, trí; như có tứ chi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也",
+          "where": "2A6"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+          "quote": "人之有是四端也，猶其有四體也",
+          "where": "2A6"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Employing an agricultural metaphor, he refers to these tendencies as “sprouts” (2A6).",
+          "where": "3"
+        }
+      ]
+    },
+    {
+      "text": "thoughts 2: núi Ngưu cây tốt, bị đốn, trâu dê gặm nên trơ trụi; 'há đó là tính của núi sao'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "人見其濯濯也，以為未嘗有材焉，此豈山之性也哉",
+          "where": "6A8"
+        }
+      ]
+    },
+    {
+      "text": "thoughts 3: có hằng sản mới có hằng tâm; 'giăng lưới bắt dân' (1A7)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "及陷於罪，然後從而刑之，是罔民也",
+          "where": "1A7"
+        }
+      ]
+    },
+    {
+      "text": "argument: vua Tề đổi trâu lấy dê vì 'không nỡ nhìn nó run rẩy như người vô tội bị đưa đến chỗ chết'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "吾不忍其觳觫，若無罪而就死地",
+          "where": "1A7"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "何可廢也？以羊易之",
+          "where": "1A7"
+        }
+      ]
+    },
+    {
+      "text": "argument: 'không làm' vs 'không thể': kẹp Thái Sơn nhảy biển Bắc vs bẻ cành cây cho người lớn tuổi; nhấc trăm quân (nghìn cân) mà không nhấc nổi một sợi lông",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "挾太山以超北海，語人曰：『我不能。』是誠不能也。為長者折枝，語人曰：『我不能。』是不為也，非不能也。",
+          "where": "1A7"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "吾力足以舉百鈞，而不足以舉一羽",
+          "where": "1A7"
+        }
+      ]
+    },
+    {
+      "text": "argument: kết luận 'mở rộng' (推) lòng thương: kính già nhà mình rồi già nhà người",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "言舉斯心加諸彼而已。故推恩足以保四海",
+          "where": "1A7"
+        }
+      ]
+    },
+    {
+      "text": "objection: vua 'thấy trâu mà chưa thấy dê'; Nivison 1980 làm sống lại tranh luận về 'mở rộng'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "見牛未見羊也",
+          "where": "1A7"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "revived in Western scholarship by Nivison (1980)",
+          "where": "3"
+        }
+      ]
+    },
+    {
+      "text": "reply: 'cân rồi mới biết nặng nhẹ, đo rồi mới biết dài ngắn; vật nào cũng vậy, lòng người lại càng thế' (1A7); mầm cần điều kiện (no ấm, giáo dục, suy ngẫm)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王上",
+          "quote": "權，然後知輕重；度，然後知長短。物皆然，心為甚。",
+          "where": "1A7"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Mencius, while not denying the value of the classics and ritual, stressed reflection based upon one’s own innate dispositions toward virtue.",
+          "where": "1"
+        }
+      ]
+    },
+    {
+      "text": "quote: Mạnh Tử 3B2 (đại trượng phu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/manh-tu.manh-tu"
+    },
+    {
+      "text": "misread 1: 'Nhân chi sơ' mở đầu Tam tự kinh; 'bản' đến từ chú giải Chu Hy; tính người 'có thể làm điều thiện' (6A6)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "the latter phrase actually derives from a gloss on Mencius’s view popularized by the seminal commentator Zhu Xi (1130–1200)",
+          "where": "3"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/告子上",
+          "quote": "乃若其情則可以為善矣，乃所謂善也",
+          "where": "6A6"
+        }
+      ]
+    },
+    {
+      "text": "misread 2: ngôi vua chính đáng khi được lòng dân, kẻ tàn bạo tự mất tư cách (1B8); không có cơ chế dân truất phế",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "殘賊之人謂之『一夫』。聞誅一夫紂矣，未聞弒君也",
+          "where": "1B8"
+        }
+      ]
+    },
+    {
+      "text": "related: mỗi path có trong docs/ và title khớp tiêu đề trang (5 mục)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/manh-tu-tinh-thien/",
+          "quote": "title: \"Hướng dẫn đọc Mạnh Tử: tính thiện\"",
+          "where": "đọc docs/doc/manh-tu-tinh-thien.md trong repo"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ban-tinh-con-nguoi/",
+          "quote": "title: \"Bản tính con người thiện hay ác?\"",
+          "where": "đọc docs/cau-hoi/ban-tinh-con-nguoi.md trong repo"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/",
+          "quote": "title: \"Cai trị bằng đức hay bằng pháp?\"",
+          "where": "đọc docs/cau-hoi/duc-tri.md trong repo"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/",
+          "quote": "title: \"Hướng dẫn đọc Mặc Tử: kiêm ái\"",
+          "where": "đọc docs/doc/mac-tu-kiem-ai.md trong repo"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "title: \"Nho giáo Việt Nam: tiếp thu hay sáng tạo?\"",
+          "where": "đọc docs/cau-hoi/nho-giao-viet.md trong repo"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r02): claim 6 đã sửa đúng — bio nay viết 'Theo truyền thống ông sống khoảng 372–289 TCN; các mốc này không chắc chắn — SEP chỉ ghi ông sống ở thế kỷ IV TCN', không còn dẫn SEP cho 372–289 → fixed. Claim 7: câu 'nhiều học giả nay đẩy niên đại lên sớm hơn chừng hai mươi năm' không có trong SEP Mencius lẫn IEP Mencius (IEP chỉ ghi 'traditional lifetime (372-289 BCE)'), nên ghi sai (dẫn SEP cho điều SEP không nói); bản ghi hiện tại đã bỏ câu này theo đúng cách sửa → fixed. Đề xuất: có thể thêm IEP 'Mencius (Mengzi)' (https://iep.utm.edu/mencius/) vào mục Nguồn làm chỗ dựa cho mốc truyền thống 372–289 (SEP Mohism cũng ghi 'Mencius (ca. 372–289 BCE)'). | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h01): đọc nguyên văn ở zh.wikisource.org (孟子 và 史記/卷074), không vào ctext. 1 claim sai mức vừa: dẫn SEP cho niên đại 372–289 và 'sớm hơn hai mươi năm' (SEP không nói); phần 'sớm hơn ~20 năm' chưa tìm được nguồn. Số chương theo Wikisource khớp ký hiệu 1A7, 2A6, 6A6, 6A8, 7B3, 7B14... Chú ý 'nghìn cân' là cách dịch thoáng của 百鈞 (trăm quân) - chấp nhận. Chuyện hai/ba thẻ: câu nguyên văn không nói 'Vũ vương' (nhưng thiên Vũ Thành là thiên về Vũ vương đánh Trụ). Tiêu đề các related khớp. Quote 3B2 đối chiếu ở kho (và Wikisource 滕文公下 mục 2 cho chữ Hán; URL ctext theo mẫu của site, quyết định 34)."
+}

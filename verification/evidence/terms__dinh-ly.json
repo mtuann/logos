@@ -1,0 +1,43 @@
+{
+  "unit": "terms/dinh-ly",
+  "hash": "sha256:6ed52be9fb1e194f6fd3ecbb85c30b414f48cc2bf9bbf7249e7038a3ccebee21",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “định lý” ↔ theorem là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/theorem",
+          "quote": "A mathematical statement of some importance that has been proven to be true."
+        }
+      ]
+    },
+    {
+      "text": "def: Một khẳng định đã được chứng minh từ các tiền đề/tiên đề cơ bản bằng các quy tắc suy luận hợp lệ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/theorem",
+          "quote": "A mathematical statement of some importance that has been proven to be true."
+        }
+      ]
+    },
+    {
+      "text": "example: Định lý Pythagoras là định lý (đã được chứng minh từ tiên đề hình học)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/theorem",
+          "quote": "A mathematical statement of some importance that has been proven to be true."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Nguồn yếu (Wiktionary), không có mục SEP riêng. Bản ghi không có `see`."
+}

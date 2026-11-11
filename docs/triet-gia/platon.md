@@ -12,7 +12,7 @@ updated: 2026-10-22
 
 Năm 399 TCN, Platon chừng gần ba mươi tuổi. Ông có mặt ở phiên tòa xử Socrates, là một trong những người bạn xin bảo lãnh tiền phạt cho thầy, và chứng kiến Athens kết án tử người mà *Phaedo* gọi là “khôn ngoan nhất, công chính nhất và tốt nhất” trong những người cùng thời. Hôm thầy uống thuốc độc, theo chính *Phaedo*, Platon ốm không đến được. Có lẽ không ngẫu nhiên mà câu hỏi lớn trong các tác phẩm của ông là: phải sống và tổ chức thành bang thế nào để công lý không thua ý kiến đám đông?
 
-Platon sinh khoảng năm 428 TCN trong một gia đình quyền thế ở Athens; tên thật có lẽ là Aristocles, còn “Platon” (gần với *platos*, “rộng”) tương truyền là biệt danh. Sau cái chết của thầy, ông rời Athens một thời gian, rồi trở về lập trường học trong khu vườn thờ anh hùng Academus ở ngoại ô — chữ “academic” bắt nguồn từ đó. Học viện là nhà của ông đến cuối đời; Aristotle học ở đây hai mươi năm. Theo *Bức thư thứ bảy*, văn bản mà học giả còn tranh cãi có phải của ông không, Platon từng ba lần sang Syracuse ở Sicily, mong giúp một bạo chúa trở thành người cai trị hiểu triết học; lần nào cũng thất bại, có lần ông bị giam lỏng.
+Platon sinh khoảng năm 428 TCN trong một gia đình quyền thế ở Athens; tên thật có lẽ là Aristocles, còn “Platon” (gần với *platos*, “rộng”) tương truyền là biệt danh. Sau cái chết của thầy, ông rời Athens một thời gian, rồi trở về lập trường học trong khu vườn thờ anh hùng Academus ở ngoại ô — chữ “academic” bắt nguồn từ đó. Học viện là nhà của ông đến cuối đời; Aristotle học ở đây hai mươi năm. Theo *Bức thư thứ bảy*, văn bản mà học giả còn tranh cãi có phải của ông không, Platon từng ba lần sang Syracuse ở Sicily; hai lần sau, ông mong giúp bạo chúa trẻ Dionysius II trở thành người cai trị hiểu triết học, nhưng đều thất bại, có lần ông bị giam lỏng.
 
 Platon viết triết học thành đối thoại và gần như không bao giờ tự nói bằng giọng mình: Socrates thường là người dẫn dắt, người đọc phải tự cân nhắc lý lẽ. Ông đặt ra phần lớn những câu hỏi lớn của triết học phương Tây: tri thức là gì, công lý là gì, linh hồn có bất tử không, ai nên cai trị. Câu trả lời nổi tiếng nhất của ông là thuyết **Ý niệm** (*Forms*): bên trên những vật đẹp, vật bằng nhau, việc công bằng mà ta gặp, có cái Đẹp, cái Bằng, cái Công bằng tự thân — bất biến, chỉ trí tuệ nắm bắt được.
 
@@ -64,7 +64,7 @@ Platon rải lập luận này qua nhiều đối thoại (*Phaedo*, *Cộng hò
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Đọc ẩn dụ hang động (Platon, “Cộng hòa” VII)](../doc/platon-hang-dong.md)
+- [Đọc ẩn dụ hang động (Platon, "Cộng hòa" VII)](../doc/platon-hang-dong.md)
 - [Cái đỏ của hoa hồng và cái đỏ của máu: phổ quát có thật không?](../cau-hoi/pho-quat.md)
 - [Cái gì thực sự tồn tại?](../cau-hoi/cai-gi-ton-tai.md)
 - [Ai nên cai trị: số đông hay người hiểu biết?](../cau-hoi/ai-nen-cai-tri.md)

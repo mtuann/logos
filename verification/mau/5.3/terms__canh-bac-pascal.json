@@ -1,0 +1,68 @@
+{
+  "unit": "terms/canh-bac-pascal",
+  "hash": "sha256:d9c768122169b3229c03cf9f37d5a42d60b05831fce7246c137e9520d85b4a52",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m06",
+  "claims": [
+    {
+      "text": "vi–en: canh bạc Pascal — Pascal's wager",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "“Pascal’s Wager” is the name given to an argument due to Blaise Pascal for believing, or for at least taking steps to believe, in God.",
+          "where": "đoạn mở đầu (Hájek, SEP Fall 2026)"
+        }
+      ]
+    },
+    {
+      "text": "def: Lập luận thực dụng của Pascal: khi lý trí không phân xử được, đặt cược rằng Chúa tồn tại là khôn ngoan vì có thể được vô hạn mà chỉ mất hữu hạn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "Reason cannot settle which way we should incline, but a consideration of the relevant outcomes supposedly can.",
+          "where": "ngay trước đoạn dẫn “Reason can decide nothing here” (Pensées §233)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "there is here an infinity of an infinitely happy life to gain, a chance of gain against a finite number of chances of loss, and what you stake is finite",
+          "where": "đoạn dẫn Pensées §233 (bản dịch Trotter)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "he seeks to provide prudential reasons rather than evidential reasons for believing in God",
+          "where": "mục 1. Background"
+        }
+      ]
+    },
+    {
+      "text": "example: Đây là lý do để tin, không phải bằng chứng rằng Chúa tồn tại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "He aims to show that we ought to believe in God, rather than that God exists.",
+          "where": "mục 1. Background"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/duc-tin-ly-tri.md (có trong docs/ và bàn canh bạc Pascal)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tin-ly-tri/",
+          "quote": "Pascal (Pensées, 1670): canh bạc — đây là lập luận thực dụng (\"được thì vô hạn, mất thì hữu hạn\"), không phải bằng chứng Chúa tồn tại",
+          "where": "khung Tóm tắt của trang đã xuất bản; file docs/cau-hoi/duc-tin-ly-tri.md trong bản làm việc có mục “### 3. Pascal: canh bạc” (dòng 74)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m06): kiểm từ đầu bằng SEP “Pascal’s Wager” (Hájek, bản lưu fall2026). Định nghĩa khớp: lý trí không quyết định được, cược cho Chúa vì lợi vô hạn so với phần đặt cược hữu hạn, lý do thận trọng (prudential) chứ không phải bằng chứng. SEP lưu ý trong Pensées có vài lập luận kiểu “cược”, tên “Pascal’s Wager” theo truyền thống chỉ lập luận thứ ba; định nghĩa tóm đúng lập luận này. Trường see: đã đọc file trong repo và trang đã xuất bản."
+}

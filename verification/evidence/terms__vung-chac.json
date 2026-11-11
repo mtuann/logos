@@ -1,0 +1,72 @@
+{
+  "unit": "terms/vung-chac",
+  "hash": "sha256:b3dc2d07139fed16a0d16088d8d54ae9971688b886be86de77d56d42afd2c3ee",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vững chắc\" = sound",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "sound | vững chắc | đúng đắn",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        },
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true."
+        }
+      ]
+    },
+    {
+      "text": "alt: đúng đắn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "sound | vững chắc | đúng đắn",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        }
+      ]
+    },
+    {
+      "text": "def: Tính chất của lập luận suy diễn vừa hợp lệ vừa có tất cả tiền đề đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true."
+        }
+      ]
+    },
+    {
+      "text": "example: \"Mọi người đều phải chết; Lan là người; vậy Lan phải chết\" là lập luận vững chắc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true.",
+          "where": "Mọi người đều phải chết; Lan là người; Lan phải chết là tam đoạn luận hợp lệ, tiền đề đúng"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một lập luận là vững chắc (sound) khi nó vừa hợp lệ, vừa có mọi tiền đề đúng."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): khớp bảng mục 3 và IEP."
+}

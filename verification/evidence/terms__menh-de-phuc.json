@@ -1,0 +1,56 @@
+{
+  "unit": "terms/menh-de-phuc",
+  "hash": "sha256:e7600d3594da9ab2b6557d393d76b63d06e47797a8f13da90a5babd243323902",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mệnh đề phức = compound proposition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "While the above compound sentence is itself a statement"
+        }
+      ]
+    },
+    {
+      "text": "def: mệnh đề tạo thành từ các mệnh đề đơn bằng phép nối logic",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "connectives that are used to produce complex statements whose truth-value depends entirely on the truth-values of the simpler statements making them up"
+        }
+      ]
+    },
+    {
+      "text": "example: \"P và Q\", \"nếu P thì Q\" là các mệnh đề phức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "We give a recursive definition of a formula of \\(\\LKe\\): All atomic formulas of \\(\\LKe\\) are formulas of \\(\\LKe\\).",
+          "where": "mục 2.3 Compound formulas"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "cứu cố định. Bài này dựng bảng tra cứu ấy cho mọi phép nối, rồi dùng nó như một cái máy: bỏ lập luận vào, quay tay, biết ngay hợp lệ hay không.",
+          "where": "đọc từ docs/cong-cu/logic-menh-de.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): IEP dùng \"compound sentence\"/\"complex statements\". Trang logic-menh-de.md gọi \"câu phức\" chứ không \"mệnh đề phức\", cùng khái niệm."
+}

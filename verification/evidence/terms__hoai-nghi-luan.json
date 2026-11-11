@@ -1,0 +1,84 @@
+{
+  "unit": "terms/hoai-nghi-luan",
+  "hash": "sha256:a8bd7262004ae898ad7a560b7029fe1d3b26cf62a07f2249666024ff05a0848e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: hoài nghi luận = skepticism (khớp bảng mục 3 HUONG-DAN-VIET.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism/",
+          "quote": "Philosophical skepticism is interesting because there are intriguing arguments for it"
+        }
+      ]
+    },
+    {
+      "text": "han: 懷疑論 đọc Hán Việt là hoài nghi luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E6%87%B7",
+          "quote": "Âm Hán Việt: hoài"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%96%91",
+          "quote": "Âm Hán Việt: nghi, nghĩ, ngưng, ngật"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E8%AB%96",
+          "quote": "Âm Hán Việt: luân, luận"
+        }
+      ]
+    },
+    {
+      "text": "def: Lập trường cho rằng ta không biết, hoặc biết rất ít, những gì ta tưởng mình biết.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism/",
+          "quote": "Philosophical skepticism is interesting because there are intriguing arguments for it"
+        }
+      ]
+    },
+    {
+      "text": "example: \"Bạn không thể loại trừ việc mình đang mơ, nên bạn không biết mình đang ngồi đọc bài này.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "ents of a vivid dream. Much ado has been made about whether dreaming arguments are self-refuting"
+        }
+      ]
+    },
+    {
+      "text": "alt: chủ nghĩa hoài nghi (chủ nghĩa hoài nghi có trong bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "hoài nghi luận — ta không loại trừ được khả năng đang mơ/bị lừa"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "ta không loại trừ được khả năng đang mơ/bị lừa, nên có thể biết ít hơn ta tưởng"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Nguồn yếu cho def: chỉ đọc câu mở đầu SEP Skepticism; def khớp cách dùng chuẩn. Hán Việt: 懷 hoài, 疑 nghi, 論 luận (hvdic). Ví dụ giấc mơ: lập luận kinh điển của Descartes (SEP descartes-epistemology bàn dreaming arguments)."
+}

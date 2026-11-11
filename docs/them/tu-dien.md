@@ -64,7 +64,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="chien-tranh-chinh-dang">chiến tranh chính đáng <span class="oz-en">(just war theory)</span></dt>
 <dd>Truyền thống đạo đức (từ Augustine và Aquinas đến nay) đặt điều kiện để một cuộc chiến có thể được biện minh — cả khi quyết định gây chiến lẫn khi tiến hành chiến tranh.<br><em>Ví dụ:</em> Tự vệ trước xâm lược có thể là chiến tranh chính đáng; xâm lược để cướp tài nguyên thì không — lý thuyết này cho ta tiêu chuẩn để phân biệt. <a href="../../cau-hoi/chien-tranh-chinh-dang">Đọc thêm →</a></dd>
 <dt id="chinh-danh">chính danh <span class="oz-en">(rectification of names (zhengming))</span> <span class="oz-en">正名</span></dt>
-<dd>Làm cho tên gọi và danh phận khớp với thực chất. Khổng Tử coi đây là việc đầu tiên của chính trị: danh không chính thì lời không thuận, việc không thành (Luận ngữ 13.3).<br><em>Ví dụ:</em> Gọi việc sa thải là “tối ưu nhân sự” là danh không chính: tên gọi che mất thực chất và làm trách nhiệm mù mờ. <a href="../../doc/luan-ngu">Đọc thêm →</a></dd>
+<dd>Làm cho tên gọi và danh phận khớp với thực chất. Khổng Tử coi đây là việc đầu tiên của chính trị: danh không chính thì lời không thuận, việc không thành (Luận ngữ 13.3).<br><em>Ví dụ:</em> Gọi việc sa thải là “tối ưu nhân sự” là danh không chính: tên gọi che mất thực chất và làm trách nhiệm mù mờ. <a href="../../triet-gia/khong-tu">Đọc thêm →</a></dd>
 <dt id="chu-nghia-chuc-nang">chủ nghĩa chức năng <span class="oz-en">(functionalism)</span></dt>
 <dd>Lập trường cho rằng một trạng thái tâm trí được xác định bởi vai trò của nó: nó do gì gây ra và nó gây ra gì.<br><em>Ví dụ:</em> Đau là trạng thái do tổn thương gây ra và khiến ta muốn tránh né — dù trong não người, bạch tuộc hay máy.<br><em>Cách dịch khác:</em> thuyết chức năng <a href="../../cau-hoi/tam-tri-va-ai">Đọc thêm →</a></dd>
 <dt id="co-may-trai-nghiem">cỗ máy trải nghiệm <span class="oz-en">(experience machine)</span></dt>
@@ -161,7 +161,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="hau-nghiem">hậu nghiệm <span class="oz-en">(a posteriori)</span> <span class="oz-en">後驗</span></dt>
 <dd>Được biết hoặc biện minh nhờ dựa vào kinh nghiệm giác quan.<br><em>Ví dụ:</em> Biết hôm nay Hà Nội trời lạnh vì vừa bước ra ngoài. <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
 <dt id="he-qua-luan">hệ quả luận <span class="oz-en">(consequentialism)</span></dt>
-<dd>Lập trường cho rằng đúng hay sai của hành động hoàn toàn tùy vào hệ quả của nó.<br><em>Ví dụ:</em> Nói dối để cứu một mạng người là đúng, vì kết quả tốt hơn.<br><em>Cách dịch khác:</em> hậu quả luận <a href="../../cau-hoi/dao-duc-hanh-dong">Đọc thêm →</a></dd>
+<dd>Lập trường cho rằng đúng hay sai của hành động hoàn toàn tùy vào hệ quả của nó.<br><em>Ví dụ:</em> Nói dối để cứu một mạng người là đúng, vì kết quả tốt hơn. <a href="../../cau-hoi/dao-duc-hanh-dong">Đọc thêm →</a></dd>
 <dt id="hien-huu-di-truoc-ban-chat">hiện hữu đi trước bản chất <span class="oz-en">(existence precedes essence)</span></dt>
 <dd>Luận đề của Sartre: con người không có bản tính định sẵn; ta hiện hữu trước, rồi tự làm nên mình bằng hành động.<br><em>Ví dụ:</em> Không ai &#x27;sinh ra đã là&#x27; kẻ hèn hay người hùng; ta trở thành thế qua việc mình làm. <a href="../../doc/sartre-hien-sinh">Đọc thêm →</a></dd>
 <dt id="hien-thuc-luan-dao-duc">hiện thực luận đạo đức <span class="oz-en">(moral realism)</span></dt>
@@ -317,7 +317,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="nguyen-tac-khong-mau-thuan">nguyên tắc không mâu thuẫn <span class="oz-en">(law of non-contradiction)</span></dt>
 <dd>Một mệnh đề không thể vừa đúng vừa sai trong cùng một nghĩa và cùng một lúc.<br><em>Ví dụ:</em> Không thể vừa “đang mưa” vừa “không đang mưa” theo cùng một nghĩa.</dd>
 <dt id="nguyen-tac-loai-tru-thu-ba">nguyên tắc loại trừ thứ ba <span class="oz-en">(law of excluded middle)</span></dt>
-<dd>Với mọi mệnh đề P, “P hoặc không P” luôn đúng — không có khả năng thứ ba. (Khác với nguyên tắc nhị trị: mọi mệnh đề hoặc đúng hoặc sai.)<br><em>Ví dụ:</em> “Trời đang mưa hoặc trời không đang mưa” — một trong hai phải đúng. <a href="../../cau-hoi/chan-ly">Đọc thêm →</a></dd>
+<dd>Với mọi mệnh đề P, “P hoặc không P” luôn đúng — không có khả năng thứ ba. (Khác với nguyên tắc nhị trị: mọi mệnh đề hoặc đúng hoặc sai.)<br><em>Ví dụ:</em> “Trời đang mưa hoặc trời không đang mưa” luôn đúng, bất kể thời tiết ra sao. <a href="../../cau-hoi/chan-ly">Đọc thêm →</a></dd>
 <dt id="nguyen-tac-nhi-tri">nguyên tắc nhị trị <span class="oz-en">(principle of bivalence)</span></dt>
 <dd>Nguyên tắc cho rằng mọi khẳng định hoặc đúng hoặc sai, không có khả năng thứ ba; khác với nguyên tắc loại trừ thứ ba, một định luật của logic (&#x27;p hoặc không-p&#x27;).<br><em>Ví dụ:</em> Câu &#x27;sáng 1/1/1000 ở chỗ nay là Hồ Gươm có đúng bảy con chim đậu&#x27; — theo nguyên tắc nhị trị, nó đúng hoặc sai dù không ai biết. <a href="../../cau-hoi/chan-ly">Đọc thêm →</a></dd>
 <dt id="nhan-nho-gia">nhân (Nho gia) <span class="oz-en">(humaneness, benevolence (ren))</span> <span class="oz-en">仁</span></dt>
@@ -327,9 +327,9 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="nhan-vi">nhân vị <span class="oz-en">(personhood)</span></dt>
 <dd>Địa vị của một thực thể được coi là “người” theo nghĩa đạo đức — có quyền và có lợi ích đáng được tôn trọng; câu hỏi trung tâm trong tranh luận về phá thai, quyền động vật và AI.<br><em>Ví dụ:</em> Thai nhi có nhân vị từ lúc thụ thai, từ khi có não, hay từ khi chào đời? Câu trả lời quyết định lập trường của bạn về phá thai. <a href="../../cau-hoi/pha-thai">Đọc thêm →</a></dd>
 <dt id="nhi-nguyen-luan">nhị nguyên luận <span class="oz-en">(dualism)</span> <span class="oz-en">二元論</span></dt>
-<dd>Lập trường cho rằng tâm trí, hay các thuộc tính tinh thần, không hoàn toàn là vật lý.<br><em>Ví dụ:</em> Theo nhị nguyên luận, biết hết về não vẫn chưa nói hết về cảm giác của bạn. <a href="../../cau-hoi/tam-tri-va-ai">Đọc thêm →</a></dd>
+<dd>Lập trường cho rằng tâm trí, hay các thuộc tính tinh thần, không hoàn toàn là vật lý.<br><em>Ví dụ:</em> Theo nhị nguyên luận, biết hết về não vẫn chưa nói hết về cảm giác của bạn. <a href="../../cau-hoi/van-de-tam-tri">Đọc thêm →</a></dd>
 <dt id="niem-tin">niềm tin <span class="oz-en">(belief)</span></dt>
-<dd>Trạng thái coi một điều là đúng, dù điều đó có thật sự đúng hay không.<br><em>Ví dụ:</em> Tin rằng xe buýt sắp đến là một niềm tin, kể cả khi hôm nay xe hỏng giữa đường.<br><em>Cách dịch khác:</em> tín niệm <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
+<dd>Trạng thái coi một điều là đúng, dù điều đó có thật sự đúng hay không.<br><em>Ví dụ:</em> Tin rằng xe buýt sắp đến là một niềm tin, kể cả khi hôm nay xe hỏng giữa đường. <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
 <dt id="niem-tin-dung-duoc-bien-minh">niềm tin đúng được biện minh <span class="oz-en">(justified true belief (JTB))</span></dt>
 <dd>Phân tích cổ điển cho rằng biết một điều là tin điều đó, điều đó đúng, và việc tin có biện minh.<br><em>Ví dụ:</em> Bạn tin tàu chạy lúc 8 giờ vì xem lịch ga, và tàu chạy đúng 8 giờ: theo phân tích này, bạn biết. <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
 <dt id="noi-doi">nói dối <span class="oz-en">(lying)</span></dt>
@@ -337,7 +337,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="noi-nham">nói nhảm <span class="oz-en">(bullshit)</span></dt>
 <dd>Theo Harry Frankfurt: nói mà không quan tâm điều mình nói đúng hay sai, miễn đạt mục đích như gây ấn tượng hay bán hàng.<br><em>Ví dụ:</em> Người review sản phẩm chưa từng dùng, khen bừa cho có bài đăng, đang nói nhảm theo nghĩa này. <a href="../../cau-hoi/noi-doi">Đọc thêm →</a></dd>
 <dt id="noi-tai-luan">nội tại luận <span class="oz-en">(internalism (epistemic))</span></dt>
-<dd>Lập trường cho rằng những gì biện minh cho niềm tin phải là thứ người tin có thể tiếp cận bằng suy nghĩ của mình.<br><em>Ví dụ:</em> Bạn chỉ được coi là có lý do để tin nếu bạn có thể nói ra lý do đó khi được hỏi. <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
+<dd>Lập trường cho rằng những gì biện minh cho niềm tin phải là thứ người tin có thể tiếp cận bằng suy nghĩ của mình.<br><em>Ví dụ:</em> Bạn chỉ được coi là có lý do để tin nếu tự soi xét là nhận ra được lý do đó (điều mình đang thấy, nhớ được hay suy ra được), dù có khi khó nói thành lời. <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
 </dl>
 
 ## P
@@ -357,9 +357,9 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dd>Ba trụ cột cai trị trong tư tưởng Hàn Phi: pháp là luật lệ công bố, thưởng phạt chắc chắn; thuật là kỹ thuật giao việc và đối chiếu lời nói với việc làm của quan lại; thế là uy quyền gắn với ngôi vị.<br><em>Ví dụ:</em> Một công ty có quy chế rõ (pháp), đánh giá theo kết quả đã cam kết (thuật) và quyền quyết định tập trung (thế). <a href="../../cau-hoi/duc-tri">Đọc thêm →</a></dd>
 <dt id="phat-tinh">Phật tính <span class="oz-en">(Buddha-nature)</span> <span class="oz-en">佛性</span></dt>
 <dd>Trong Phật giáo Đại thừa, khả năng giác ngộ có sẵn ở mọi chúng sinh, bị che lấp chứ không mất.<br><em>Ví dụ:</em> Câu &#x27;trong nhà có báu thôi tìm kiếm&#x27; của Trần Nhân Tông dựa trên ý tưởng Phật tính. <a href="../../cau-hoi/truc-lam">Đọc thêm →</a></dd>
-<dt id="phep-hoi">phép hội <span class="oz-en">(conjunction)</span> <span class="oz-en">合取</span></dt>
+<dt id="phep-hoi">phép hội <span class="oz-en">(conjunction)</span></dt>
 <dd>Phép nối “P và Q”: chỉ đúng khi cả hai đều đúng. Ký hiệu ∧ hoặc &amp;&amp;.<br><em>Ví dụ:</em> “Trời mưa và trời lạnh” chỉ đúng khi vừa mưa vừa lạnh. <a href="../../cong-cu/logic-menh-de">Đọc thêm →</a></dd>
-<dt id="phep-keo-theo">phép kéo theo <span class="oz-en">(material conditional)</span> <span class="oz-en">蘊涵</span></dt>
+<dt id="phep-keo-theo">phép kéo theo <span class="oz-en">(material conditional)</span></dt>
 <dd>Phép nối “nếu P thì Q”: chỉ sai trong đúng một trường hợp P đúng mà Q sai. Ký hiệu →.<br><em>Ví dụ:</em> “Nếu trời mưa thì đường ướt” chỉ sai khi trời mưa mà đường không ướt. <a href="../../cong-cu/logic-menh-de">Đọc thêm →</a></dd>
 <dt id="phep-phu-dinh">phép phủ định <span class="oz-en">(negation)</span> <span class="oz-en">否定</span></dt>
 <dd>Phép nối một ngôi: “không P” đúng khi P sai, và sai khi P đúng. Ký hiệu ¬ hoặc !.<br><em>Ví dụ:</em> Phủ định của “trời đang mưa” là “trời không đang mưa”. <a href="../../cong-cu/logic-menh-de">Đọc thêm →</a></dd>
@@ -368,10 +368,10 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="phep-thu-turing">phép thử Turing <span class="oz-en">(Turing test)</span></dt>
 <dd>Phép thử do Alan Turing đề xuất: nếu qua trò chuyện bằng chữ, ta không phân biệt được máy với người, thì máy có lẽ đáng được coi là biết suy nghĩ.<br><em>Ví dụ:</em> Nhắn tin với hai &quot;người&quot; mà không đoán được ai là máy. <a href="../../cau-hoi/tam-tri-va-ai">Đọc thêm →</a></dd>
 <dt id="phep-tinh-hanh-phuc">phép tính hạnh phúc <span class="oz-en">(felicific calculus)</span></dt>
-<dd>Cách Bentham đề xuất để so sánh các lựa chọn theo cường độ, độ dài, độ chắc chắn, độ gần xa của khoái lạc và đau khổ, và số người chịu ảnh hưởng; cái tên do người đời sau đặt.<br><em>Ví dụ:</em> Xây công viên hay bãi đỗ xe: ai được vui, ai chịu khổ, nhiều và lâu đến đâu? <a href="../../cau-hoi/dao-duc-hanh-dong">Đọc thêm →</a></dd>
+<dd>Cách Bentham đề xuất để so sánh các lựa chọn theo bảy yếu tố của khoái lạc và đau khổ: cường độ, độ dài, độ chắc chắn, độ gần xa, khả năng sinh thêm cảm giác cùng loại, khả năng không kéo theo cảm giác trái ngược, và số người chịu ảnh hưởng; cái tên do người đời sau đặt.<br><em>Ví dụ:</em> Xây công viên hay bãi đỗ xe: ai được vui, ai chịu khổ, nhiều và lâu đến đâu? <a href="../../cau-hoi/dao-duc-hanh-dong">Đọc thêm →</a></dd>
 <dt id="phep-tuong-duong">phép tương đương <span class="oz-en">(biconditional)</span></dt>
 <dd>Phép nối “P khi và chỉ khi Q”: đúng khi P và Q cùng đúng hoặc cùng sai. Ký hiệu ↔.<br><em>Ví dụ:</em> “Tam giác đều khi và chỉ khi ba góc bằng nhau.” <a href="../../cong-cu/logic-menh-de">Đọc thêm →</a></dd>
-<dt id="phep-tuyen">phép tuyển <span class="oz-en">(disjunction)</span> <span class="oz-en">析取</span></dt>
+<dt id="phep-tuyen">phép tuyển <span class="oz-en">(disjunction)</span></dt>
 <dd>Phép nối “P hoặc Q” theo nghĩa bao hàm: đúng khi ít nhất một trong hai đúng (kể cả khi cả hai cùng đúng). Ký hiệu ∨ hoặc ||.<br><em>Ví dụ:</em> “Uống trà hoặc cà phê” (bao hàm) vẫn đúng nếu uống cả hai. <a href="../../cong-cu/logic-menh-de">Đọc thêm →</a></dd>
 <dt id="phep-tuyen-loai-tru">phép tuyển loại trừ <span class="oz-en">(exclusive disjunction)</span></dt>
 <dd>Phép nối “hoặc P hoặc Q nhưng không cả hai”: đúng khi đúng một trong hai. Ký hiệu ⊕.<br><em>Ví dụ:</em> “Hoặc rẽ trái hoặc rẽ phải” (ở một ngã ba) là tuyển loại trừ. <a href="../../cong-cu/logic-menh-de">Đọc thêm →</a></dd>
@@ -402,7 +402,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="sieu-hinh-hoc">siêu hình học <span class="oz-en">(metaphysics)</span></dt>
 <dd>Ngành triết học nghiên cứu bản chất của thực tại: cái gì tồn tại, thời gian, nhân quả, sự đồng nhất.<br><em>Ví dụ:</em> Hỏi con tàu đã thay hết ván có còn là con tàu cũ không là một câu hỏi siêu hình học.<br><em>Cách dịch khác:</em> hình nhi thượng học <a href="../../cau-hoi/cai-gi-ton-tai">Đọc thêm →</a></dd>
 <dt id="so-do-lap-luan">sơ đồ lập luận <span class="oz-en">(argument map)</span></dt>
-<dd>Hình vẽ cấu trúc một lập luận: hộp tiền đề, mũi tên hỗ trợ, hộp kết luận; giả định ngầm vẽ đứt nét.<br><em>Ví dụ:</em> Vẽ sơ đồ giúp thấy ngay một bài báo dài thực ra chỉ có hai lý do chính. <a href="../../cong-cu/so-do-hoa-lap-luan">Đọc thêm →</a></dd>
+<dd>Hình vẽ cấu trúc một lập luận: hộp tiền đề, mũi tên hỗ trợ, hộp kết luận; trên site này, giả định ngầm được vẽ bằng nét đứt.<br><em>Ví dụ:</em> Vẽ sơ đồ giúp thấy ngay một bài báo dài thực ra chỉ có hai lý do chính. <a href="../../cong-cu/so-do-hoa-lap-luan">Đọc thêm →</a></dd>
 <dt id="su-bien-minh">sự biện minh <span class="oz-en">(justification)</span></dt>
 <dd>Những lý do hay bằng chứng làm cho việc tin một điều trở nên hợp lý.<br><em>Ví dụ:</em> Tin trời sắp mưa vì vừa xem bản đồ radar thời tiết là có biện minh; tin vì linh cảm thì không.<br><em>Cách dịch khác:</em> sự chứng thực <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
 <dt id="su-cong-nhan">sự công nhận <span class="oz-en">(recognition (Anerkennung))</span></dt>
@@ -419,7 +419,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="tai-dung-lap-luan">tái dựng lập luận <span class="oz-en">(argument reconstruction)</span></dt>
 <dd>Việc viết lại một đoạn văn thành dạng tiền đề–kết luận rõ ràng, làm lộ các giả định ngầm để kiểm tra.<br><em>Ví dụ:</em> Tái dựng một bài bình luận dài thành 3 tiền đề và 1 kết luận. <a href="../../cong-cu/gia-dinh-ngam">Đọc thêm →</a></dd>
 <dt id="tam-bieu">tam biểu (ba tiêu chuẩn) <span class="oz-en">(three standards of Mozi (san biao))</span> <span class="oz-en">三表</span></dt>
-<dd>Ba phép thử của Mặc Tử để thẩm định một lời nói: xét gốc (việc làm của các thánh vương xưa), xét nguồn (điều tai mắt trăm họ thật sự thấy nghe) và xét dụng (đem ra làm chính sách có lợi cho dân không).<br><em>Ví dụ:</em> Trước một lời đồn về thuốc chữa bệnh, có thể hỏi: có tiền lệ đáng tin không, có ai thật sự chứng kiến không, áp dụng ra có lợi hay hại? <a href="../../doc/mac-tu-kiem-ai">Đọc thêm →</a></dd>
+<dd>Ba phép thử của Mặc Tử để thẩm định một lời nói: xét gốc (việc làm của các thánh vương xưa), xét nguồn (điều tai mắt trăm họ thật sự thấy nghe) và xét dụng (đem ra làm chính sách có lợi cho dân không).<br><em>Ví dụ:</em> Trước một lời đồn về thuốc chữa bệnh, có thể hỏi: có tiền lệ đáng tin không, có ai thật sự chứng kiến không, áp dụng ra có lợi hay hại? <a href="../../triet-gia/mac-tu">Đọc thêm →</a></dd>
 <dt id="tam-doan-luan">tam đoạn luận <span class="oz-en">(syllogism)</span> <span class="oz-en">三段論</span></dt>
 <dd>Lập luận suy diễn gồm hai tiền đề và một kết luận, nối với nhau qua một thuật ngữ chung.<br><em>Ví dụ:</em> Mọi loài chim đều có lông vũ; chim sẻ là chim; vậy chim sẻ có lông vũ. <a href="../../cong-cu/suy-dien">Đọc thêm →</a></dd>
 <dt id="tam-doan-luan-gia-dinh">tam đoạn luận giả định <span class="oz-en">(hypothetical syllogism)</span></dt>
@@ -494,7 +494,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dd>Ý tưởng rằng cùng một trạng thái tâm trí có thể được hiện thực hóa bởi những chất liệu vật lý khác nhau.<br><em>Ví dụ:</em> Người và bạch tuộc có cấu tạo não rất khác nhau, nhưng có lẽ cả hai đều có thể đau. <a href="../../cau-hoi/tam-tri-va-ai">Đọc thêm →</a></dd>
 <dt id="tinh-hop-le">tính hợp lệ <span class="oz-en">(validity)</span></dt>
 <dd>Tính chất của một lập luận: không thể nào các tiền đề đều đúng mà kết luận sai. Chỉ xét hình thức, không xét tiền đề có đúng thực tế không.<br><em>Ví dụ:</em> “Nếu P thì Q; P; vậy Q” hợp lệ dù P, Q nói về điều hoàn toàn bịa đặt. <a href="../../cong-cu/suy-dien">Đọc thêm →</a></dd>
-<dt id="tinh-khong">tính không <span class="oz-en">(emptiness (śūnyatā))</span> <span class="oz-en">空</span></dt>
+<dt id="tinh-khong">tính không <span class="oz-en">(emptiness (śūnyatā))</span> <span class="oz-en">性空</span></dt>
 <dd>Trong Phật giáo Đại thừa: mọi pháp đều không có tự tính, tức không tự mình mà có, độc lập với mọi thứ khác; không phải là &#x27;không có gì&#x27;.<br><em>Ví dụ:</em> &#x27;Sắc tức thị không&#x27;: chiếc điện thoại vẫn dùng được, nhưng nó không tồn tại độc lập với linh kiện, nhà máy, sóng điện và người dùng. <a href="../../doc/tam-kinh">Đọc thêm →</a></dd>
 <dt id="tinh-tam-thuong-cua-cai-ac">tính tầm thường của cái ác <span class="oz-en">(banality of evil)</span></dt>
 <dd>Cụm từ của Hannah Arendt sau khi theo dõi phiên xử Adolf Eichmann (1961), đặt trong cuốn Eichmann in Jerusalem (1963): kẻ gây ra tội ác khủng khiếp không nhất thiết là ác quỷ; cái ác thường được thực hiện bởi những con người tầm thường, không suy nghĩ, chỉ biết làm theo quy trình.<br><em>Ví dụ:</em> Một viên chức ký lệnh trục xuất hàng nghìn người mà không hề căm thù ai — chỉ “làm đúng phận sự” — là hình ảnh Arendt muốn cảnh báo. <a href="../../cau-hoi/cai-ac">Đọc thêm →</a></dd>
@@ -519,7 +519,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="truc-giac">trực giác <span class="oz-en">(intuition)</span></dt>
 <dd>Cảm nhận tức thì rằng một điều gì đó đúng hay sai, trước khi kịp lý luận — nguyên liệu của thí nghiệm tư duy, nhưng cũng có thể sai.<br><em>Ví dụ:</em> Thấy “đẩy người xuống cầu” là sai ngay lập tức, dù chưa kịp nghĩ vì sao. <a href="../../cong-cu/thi-nghiem-tu-duy">Đọc thêm →</a></dd>
 <dt id="truc-giac-triet-hoc">trực giác (triết học) <span class="oz-en">(intuition)</span> <span class="oz-en">直覺</span></dt>
-<dd>Phán đoán tự nhiên, chưa qua lập luận, về một trường hợp cụ thể, thường được dùng làm dữ kiện để thử một lý thuyết.<br><em>Ví dụ:</em> Hầu hết mọi người thấy ngay rằng phạt người vô tội để xoa dịu đám đông là sai, trước khi kịp đưa ra lý do. <a href="../../cong-cu/thi-nghiem-tu-duy">Đọc thêm →</a></dd>
+<dd>Phán đoán tự nhiên, chưa qua lập luận, rằng một điều là đúng — về một trường hợp cụ thể hay về một nguyên tắc chung — thường được dùng làm dữ kiện để thử một lý thuyết.<br><em>Ví dụ:</em> Hầu hết mọi người thấy ngay rằng phạt người vô tội để xoa dịu đám đông là sai, trước khi kịp đưa ra lý do. <a href="../../cong-cu/thi-nghiem-tu-duy">Đọc thêm →</a></dd>
 <dt id="trung-dung">trung dung <span class="oz-en">(doctrine of the mean (zhongyong))</span> <span class="oz-en">中庸</span></dt>
 <dd>Một trong Tứ thư Nho giáo (tương truyền của Tử Tư): đạo lý giữ lòng không thiên lệch, xử sự vừa phải đúng mực trong mọi hoàn cảnh — “quá” và “không kịp” đều là sai. Khác với học thuyết trung dung (*mesotes*) của Aristotle: đức hạnh là điểm giữa hai thói xấu thái quá và thiếu hụt.<br><em>Ví dụ:</em> “Mừng, giận, buồn, vui chưa phát ra gọi là trung; phát ra mà đều đúng mực gọi là hòa” (*Trung dung*, chương 1).</dd>
 <dt id="trung-dung-aristotle">trung dung (Aristotle) <span class="oz-en">(the mean (mesotes))</span></dt>
@@ -587,7 +587,7 @@ Trang này được sinh tự động từ `docs/assets/data/terms.json`.
 <dt id="y-niem-platon">Ý niệm (thuyết Platon) <span class="oz-en">(Form (Platonic Idea))</span></dt>
 <dd>Thực thể bất biến, phi cảm giác mà các vật cùng tên “tham dự” vào, như cái Đẹp tự thân so với những vật đẹp.<br><em>Ví dụ:</em> Mọi tam giác vẽ tay đều méo; Tam giác tự thân thì hoàn hảo. <a href="../../cau-hoi/pho-quat">Đọc thêm →</a></dd>
 <dt id="y-niem-bam-sinh">ý niệm bẩm sinh <span class="oz-en">(innate ideas)</span></dt>
-<dd>Những ý niệm hay nguyên lý có sẵn trong tâm trí từ lúc sinh ra, không do kinh nghiệm đem lại.<br><em>Ví dụ:</em> Locke bác bỏ ý niệm bẩm sinh (“tờ giấy trắng”); Leibniz đáp rằng chúng có sẵn như vân trong khối cẩm thạch. <a href="../../cau-hoi/tri-thuc">Đọc thêm →</a></dd>
+<dd>Những ý niệm hay nguyên lý có sẵn trong tâm trí từ lúc sinh ra, không do kinh nghiệm đem lại.<br><em>Ví dụ:</em> Locke bác bỏ ý niệm bẩm sinh (“tờ giấy trắng”); Leibniz đáp rằng chúng có sẵn như vân trong khối cẩm thạch. <a href="../../lich-su/can-dai">Đọc thêm →</a></dd>
 <dt id="y-thuc">ý thức <span class="oz-en">(consciousness)</span> <span class="oz-en">意識</span></dt>
 <dd>Tình trạng có trải nghiệm, có &quot;cảm giác ra sao đó&quot; từ bên trong.<br><em>Ví dụ:</em> Lúc ngủ say không mộng bạn không có ý thức; lúc tỉnh dậy, thế giới lại &quot;hiện ra&quot;. <a href="../../cau-hoi/tam-tri-va-ai">Đọc thêm →</a></dd>
 <dt id="y-thuc-hien-tuong">ý thức hiện tượng <span class="oz-en">(phenomenal consciousness)</span></dt>

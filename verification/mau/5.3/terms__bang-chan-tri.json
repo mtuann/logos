@@ -1,0 +1,68 @@
+{
+  "unit": "terms/bang-chan-tri",
+  "hash": "sha256:bf94c8f707676feac8c13e573637d07e778cfe5ce57c7e8795427d29540bc70b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m05",
+  "claims": [
+    {
+      "text": "vi–en: bảng chân trị = truth table",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Charts such as the one given above are called truth tables.",
+          "where": "IEP, Klement, \"Propositional Logic\", đoạn ngay sau bảng của ((P∧Q)→¬R)"
+        }
+      ]
+    },
+    {
+      "text": "def: Bảng liệt kê mọi cách gán đúng/sai cho các mệnh đề đơn và chân trị tương ứng của công thức — cách kiểm tra tính hợp lệ chắc chắn nhất trong logic mệnh đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "a possible assignment of truth-values T or F to the different statement letters making up a wff or series of wffs",
+          "where": "định nghĩa truth-value assignment, ngay trước định nghĩa truth table"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "for determining the logical validity of any argument written in the language PL",
+          "where": "cuối mục về truth table: \"they provide an effective procedure ...\""
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "it is in principle possible to finish the table and determine a definite answer",
+          "where": "cùng đoạn, trước \"In sum, classical propositional logic is decidable\""
+        }
+      ]
+    },
+    {
+      "text": "example: Bảng chân trị của “P → Q” có 4 dòng; chỉ sai ở dòng P đúng, Q sai.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "is false if α is true and β is false, and is true if either α is false or β is true (or both)",
+          "where": "mục Material Implication; bảng đi kèm có 4 dòng (TT, TF, FT, FF), chỉ dòng TF cho F"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md có trong repo và bàn bảng chân trị",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Bảng ghi lại cách tính ấy gọi là bảng chân trị",
+          "where": "file docs/cong-cu/logic-menh-de.md trong repo (tiêu đề \"Bảng chân trị: khi lập luận thành phép tính\", mục \"Kiểm tra hợp lệ bằng bảng chân trị\"); trang đã xuất bản khớp"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m05): kiểm từ đầu bằng IEP \"Propositional Logic\". \"Chắc chắn nhất\" chỉ đúng theo nghĩa IEP gọi bảng chân trị là thủ tục hữu hiệu (effective procedure) luôn cho câu trả lời dứt khoát; IEP cũng nói phép suy diễn tự nhiên tương đương về kết quả, nên nếu muốn chặt chữ có thể viết \"một thủ tục máy móc luôn cho câu trả lời dứt khoát về tính hợp lệ trong logic mệnh đề\" (không bắt buộc). \"truth table\" không có trong bảng HUONG-DAN-VIET.md mục 3."
+}

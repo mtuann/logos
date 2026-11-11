@@ -10,7 +10,7 @@ updated: 2026-10-22
 
 **1844–1900** · Thế kỷ 19 · *Friedrich Nietzsche*
 
-Năm 1869, Friedrich Nietzsche được mời làm giáo sư ngữ văn cổ điển ở Đại học Basel khi mới 24 tuổi — người trẻ nhất từng giữ chức ấy. Ông sinh ngày 15/10/1844 ở Röcken, gần Leipzig; cha ông, một mục sư Lutheran, mất khi ông lên bốn, và cậu bé lớn lên ở Naumburg giữa mẹ, bà, hai cô và em gái Elisabeth. Người thầy của ông viết trong thư giới thiệu rằng chàng trai này “muốn làm gì cũng làm được”.
+Năm 1869, Friedrich Nietzsche được mời làm giáo sư ngữ văn cổ điển ở Đại học Basel khi mới 24 tuổi — người trẻ nhất từng giữ chức ấy. Ông sinh ngày 15/10/1844 ở Röcken, gần Leipzig; cha ông, một mục sư Lutheran, mất khi ông gần năm tuổi, và cậu bé lớn lên ở Naumburg giữa mẹ, bà, hai cô và em gái Elisabeth. Người thầy của ông viết trong thư giới thiệu rằng chàng trai này “muốn làm gì cũng làm được”.
 
 Cuốn sách đầu tay, *Sự ra đời của bi kịch* (1872), bị giới ngữ văn chê thậm tệ: không phải một khảo cứu cẩn trọng mà là một tuyên ngôn đặt hy vọng phục hưng văn hóa Đức vào nhạc kịch của người bạn thân Richard Wagner. Tình bạn ấy tan vỡ khi Nietzsche gửi Wagner cuốn *Con người, quá đỗi con người* (1878). Bệnh tật — đau đầu dữ dội, buồn nôn, mắt kém — buộc ông thôi dạy năm 1879. Từ đó ông sống lang bạt giữa nước Ý và vùng núi Thụy Sĩ, gần như năm nào cũng ra một cuốn: *Khoa học vui* (1882), *Zarathustra đã nói như thế* (1883–1885), *Bên kia thiện và ác* (1886), *Phả hệ của đạo đức* (1887).
 

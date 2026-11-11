@@ -1,0 +1,58 @@
+{
+  "unit": "terms/pham-tinh",
+  "hash": "sha256:82e069e38b1e329028e1d133cf4ed54db41677e0f0f4cd2f65db7515b9b85779",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phẩm tính = state of character (hexis)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "Aristotle describes ethical virtue as a “hexis” (“state” “condition” “disposition”)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "Defective states of character are hexeis"
+        }
+      ]
+    },
+    {
+      "text": "def: trạng thái tính cách ổn định hình thành qua thói quen, khiến ta cảm nhận/hành động đúng; theo Aristotle đức hạnh là một phẩm tính",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "a tendency or disposition, induced by our habits, to have appropriate feelings (1105b25–6)"
+        }
+      ]
+    },
+    {
+      "text": "example: người tiết độ thấy vui khi kiêng, chứ không chỉ cố nhịn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "he is not greatly distressed at having to give up a pleasure that he realizes he should forego"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/doc/aristotle-dao-duc.md có và bàn phẩm tính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/aristotle-dao-duc/",
+          "quote": "Trạng thái tính cách ổn định ấy Aristotle gọi là **phẩm tính** (*hexis*)."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Không có trong bảng mục 3. SEP dịch hexis là state/condition/disposition; \"state of character\" cũng là cách dịch chuẩn ở Ross/Irwin."
+}

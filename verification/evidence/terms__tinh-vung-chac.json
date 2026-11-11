@@ -1,0 +1,58 @@
+{
+  "unit": "terms/tinh-vung-chac",
+  "hash": "sha256:a826f0b2f54371395264dddf97936f85d4890610f03936a69646816795143197",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tính vững chắc = soundness (sound = vững chắc, khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true."
+        }
+      ]
+    },
+    {
+      "text": "def: lập luận vừa hợp lệ vừa có các tiền đề đúng thực tế; khi đó kết luận chắc chắn đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "A deductive argument is sound if and only if it is both valid, and all of its premises are actually true."
+        },
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "the conclusion is guaranteed to be true as well"
+        }
+      ]
+    },
+    {
+      "text": "example: lập luận hợp lệ nhưng tiền đề sai thì không vững chắc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/val-snd/",
+          "quote": "Otherwise, a deductive argument is unsound."
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Bài này phân biệt hợp lệ với vững chắc"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): IEP Validity and Soundness."
+}

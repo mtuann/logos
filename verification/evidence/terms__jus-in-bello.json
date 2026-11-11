@@ -1,0 +1,47 @@
+{
+  "unit": "terms/jus-in-bello",
+  "hash": "sha256:677b3a10ebca649d35cee7aef3cf3dcca501078c263f53919621e01560985ebd",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "def: Nhánh của lý thuyết chiến tranh chính đáng bàn về cách tiến hành chiến tranh cho đúng: phải phân biệt dân thường với chiến binh, và chỉ dùng vũ lực tương xứng với mục tiêu quân sự.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Discrimination: belligerents must always distinguish between military objectives and civilians"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Proportionality: foreseen but unintended harms must be proportionate to the military advantage achieved."
+        }
+      ]
+    },
+    {
+      "text": "example: Dù cuộc chiến là tự vệ chính đáng, việc cố ý ném bom khu dân cư vẫn vi phạm jus in bello.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Discrimination: belligerents must always distinguish between military objectives and civilians"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/chien-tranh-chinh-dang.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+          "quote": "trong chiến tranh được phép làm gì (jus in bello)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Không có trường en/han. Khớp SEP \"War\": phân biệt và tương xứng (SEP thêm điều kiện cần thiết)."
+}

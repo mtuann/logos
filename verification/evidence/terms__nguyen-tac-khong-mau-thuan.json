@@ -1,0 +1,43 @@
+{
+  "unit": "terms/nguyen-tac-khong-mau-thuan",
+  "hash": "sha256:9f9685bca28a5131c44a0bde27361d7bd3077225852c98be6c49b1372ecc3104",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: nguyên tắc không mâu thuẫn = law of non-contradiction",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "the law of non-contradiction (LNC)"
+        }
+      ]
+    },
+    {
+      "text": "def: một mệnh đề không thể vừa đúng vừa sai trong cùng một nghĩa và cùng một lúc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "a corresponding affirmation and negation cannot both be true, by LNC"
+        }
+      ]
+    },
+    {
+      "text": "example: không thể vừa \"đang mưa\" vừa \"không đang mưa\" theo cùng một nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "a corresponding affirmation and negation cannot both be true, by LNC"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): SEP contradiction nêu LNC; cụm \"cùng một nghĩa và cùng một lúc\" là điều kiện Aristotle (Metaphysics Γ), chưa đọc câu trực tiếp. Bản ghi không có see."
+}

@@ -1,0 +1,71 @@
+{
+  "unit": "terms/so-do-lap-luan",
+  "hash": "sha256:8b81c25ece49b22a8e7fc3e8d2e5c1b240a4d371e11b61f28e66e002cb9f669b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: sơ đồ lập luận = argument map (SEP: argument diagramming/“mapping”)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "argument diagramming (“mapping”)"
+        }
+      ]
+    },
+    {
+      "text": "def: hình vẽ cấu trúc lập luận: hộp tiền đề, mũi tên hỗ trợ, hộp kết luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/so-do-hoa-lap-luan/",
+          "quote": "Trong sơ đồ lập luận, mũi tên có nghĩa là gì?",
+          "where": "câu hỏi ôn trong bài"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "argument diagramming (“mapping”)"
+        }
+      ]
+    },
+    {
+      "text": "def: giả định ngầm vẽ đứt nét (quy ước vẽ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/so-do-hoa-lap-luan/",
+          "quote": "giả định ngầm (hidden assumption) vẽ bằng hộp đứt nét",
+          "where": "mục 'Giả định ngầm: hộp đứt nét'; đọc từ docs/cong-cu/so-do-hoa-lap-luan.md trong repo"
+        }
+      ]
+    },
+    {
+      "text": "example: vẽ sơ đồ giúp thấy một bài báo dài chỉ có hai lý do chính",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/so-do-hoa-lap-luan/",
+          "quote": "vẽ sơ đồ lập luận của chính mình trước: mũi tên nào yếu, tự mình thấy trước khi người khác thấy"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/so-do-hoa-lap-luan.md có và bàn sơ đồ lập luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/so-do-hoa-lap-luan/",
+          "quote": "Một sơ đồ lập luận chỉ có hai thứ:"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): Bản ghi ghi rõ 'trên site này', tức là quy ước riêng của site, và bài so-do-hoa-lap-luan.md nêu đúng quy ước đó ('Quy ước: ...'). Không có chuẩn học thuật chung nên không cần nguồn ngoài; claim đúng với phạm vi nó nêu. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t04): Nét đứt cho giả định ngầm là quy ước riêng của trang (nhiều phần mềm vẽ lập luận dùng nét đứt/ngoặc cho tiền đề ẩn, nhưng không có chuẩn chung); chưa tìm được nguồn học thuật trong lượt này, để chua-kiem-duoc. Ví dụ (bài báo dài chỉ có hai lý do) là minh họa, không có nguồn riêng."
+}

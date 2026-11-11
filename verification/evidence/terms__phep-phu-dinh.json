@@ -1,0 +1,73 @@
+{
+  "unit": "terms/phep-phu-dinh",
+  "hash": "sha256:1de57d56b1aa0e6cff30beb049fdc43af902eab3081d67a8da2142191759d552",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép phủ định = negation",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Unlike the other operators we have considered, negation is applied to a single statement."
+        }
+      ]
+    },
+    {
+      "text": "han: 否定 đọc phủ định",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/否",
+          "quote": "Âm Hán Việt: bĩ, bỉ, phầu, phủ"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/定",
+          "quote": "定: Hán Nôm readings: định"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/否定",
+          "quote": "否定 to negate; to deny"
+        }
+      ]
+    },
+    {
+      "text": "def: phép nối một ngôi: “không P” đúng khi P sai, sai khi P đúng; ký hiệu ¬ hoặc !",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Unlike the other operators we have considered, negation is applied to a single statement."
+        }
+      ]
+    },
+    {
+      "text": "example: phủ định của “trời đang mưa” là “trời không đang mưa”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Unlike the other operators we have considered, negation is applied to a single statement."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có và bàn phép phủ định",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "### Phủ định: ¬"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Ký hiệu ! là cách viết trong lập trình, không có trong IEP; chấp nhận."
+}

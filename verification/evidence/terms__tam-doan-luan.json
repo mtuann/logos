@@ -1,0 +1,77 @@
+{
+  "unit": "terms/tam-doan-luan",
+  "hash": "sha256:a8d631c7eb69f0ae5017552d29a46164c1cf46d7adef9e5c2306b37530c4c8b4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: tam đoạn luận = syllogism (khớp bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "Aristotle’s logic, especially his theory of the syllogism"
+        }
+      ]
+    },
+    {
+      "text": "han: 三段論 đọc tam đoạn luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/三",
+          "quote": "Vietnamese: tam (三)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/段",
+          "quote": "段: Hán Nôm readings: đoạn, đoàn"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/論",
+          "quote": "Âm Hán Việt: luân, luận"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/三段論",
+          "quote": "三段論 (logic) syllogism"
+        }
+      ]
+    },
+    {
+      "text": "def: lập luận suy diễn gồm hai tiền đề và một kết luận, nối nhau qua một thuật ngữ chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "inferences with two premises, each of which is a categorical sentence, having exactly one term in common"
+        }
+      ]
+    },
+    {
+      "text": "example: mọi loài chim có lông vũ; chim sẻ là chim; vậy chim sẻ có lông vũ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "Aristotle calls the term shared by the premises the middle term (meson)"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/suy-dien.md có và bàn tam đoạn luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Một **tam đoạn luận** (*syllogism*) nhất quyết có hai tiền đề và một kết luận"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): SEP nhấn mạnh tam đoạn luận trong nghĩa hẹp là suy luận hai tiền đề dạng nhất quyết (categorical); tam đoạn luận giả định (hypothetical) cũng được bài suy-dien.md bàn (mở rộng hợp lý). 論 đọc luân hoặc luận (hvdic); trong từ này đọc luận."
+}

@@ -1,0 +1,73 @@
+{
+  "unit": "terms/minh-triet-thuc-hanh",
+  "hash": "sha256:fb33b38fa6fd0785ff7a0c408a48253c522456ed6811a2ef085d40fdadb6e571",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m04",
+  "claims": [
+    {
+      "text": "vi–en: minh triết thực hành — practical wisdom (phronesis)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "when their reason is fully developed, they must acquire practical wisdom (phronêsis)",
+          "where": "mục 4 Virtues and Deficiencies, Continence and Incontinence"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "practical wisdom: phronêsis",
+          "where": "Glossary"
+        }
+      ]
+    },
+    {
+      "text": "def: Năng lực nhận ra điều nên làm trong từng hoàn cảnh cụ thể, thứ mà Aristotle cho là cần để tìm ra trung dung; không học được chỉ bằng quy tắc chung.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "the ability to see, on each occasion, which course of action is best supported by reasons. Therefore practical wisdom, as he conceives it, cannot be acquired solely by learning general rules.",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "determined by logos (“reason”, “account”) and in the way that the person of practical reason would determine it. (1107a1–2)",
+          "where": "mục 5.2 Ethical Theory Does Not Offer a Decision Procedure"
+        }
+      ]
+    },
+    {
+      "text": "example: Biết lúc nào nên nói thẳng, lúc nào nên im lặng với một người bạn đang buồn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "put our general understanding of well-being into practice in ways that are suitable to each occasion",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "what must be done on any particular occasion by a virtuous agent depends on the circumstances",
+          "where": "mục 5.2 Ethical Theory Does Not Offer a Decision Procedure"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/aristotle-dao-duc.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/aristotle-dao-duc/",
+          "quote": "được xác định bằng lý trí, theo cách mà người có minh triết thực hành sẽ xác định.",
+          "where": "trang đã xuất bản; file docs/doc/aristotle-dao-duc.md có trong repo, đoạn II.6 (dòng 64–68: “Tìm ra điểm đúng trong từng hoàn cảnh là việc của minh triết thực hành (phronesis)”)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m04): đạt, không có claim sai. SEP (aristotle-ethics, đoạn mở đầu) gần như nói đúng định nghĩa: thấy điều nên làm trong từng dịp, không học được chỉ bằng quy tắc chung; 1107a1–2 nối trung dung với người có minh triết thực hành. Thuật ngữ không có trong bảng HUONG-DAN-VIET.md mục 3."
+}

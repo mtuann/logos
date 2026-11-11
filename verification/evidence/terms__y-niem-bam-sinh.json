@@ -1,0 +1,68 @@
+{
+  "unit": "terms/y-niem-bam-sinh",
+  "hash": "sha256:1e76c97a2bd849dbdbbb97f800882d2fabe03e63b20d778cf4f7b23ef10fab4d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"ý niệm bẩm sinh\" = innate ideas",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/innateness-history/",
+          "quote": "The Historical Controversies Surrounding Innateness",
+          "where": "tiêu đề mục SEP, thuật ngữ \"innate ideas\" dùng trong lịch sử"
+        }
+      ]
+    },
+    {
+      "text": "def: Những ý niệm hay nguyên lý có sẵn trong tâm trí từ lúc sinh ra, không do kinh nghiệm đem lại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/innateness-history/",
+          "quote": "We are as we are and we live as we do because of the interplay of our inherent natures and the world around us."
+        }
+      ]
+    },
+    {
+      "text": "example: Locke bác bỏ ý niệm bẩm sinh (“tờ giấy trắng”); Leibniz đáp rằng chúng có sẵn như vân trong khối cẩm thạch.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/innateness-history/",
+          "quote": "competing image of the mind as a block of marble whose veins already mark out the shape of Hercules"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/innateness-history/",
+          "quote": "Locke’s analogy of the mind as blank slate"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tri-thuc.md có bàn khái niệm ý niệm bẩm sinh",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "see = lich-su/can-dai.md (có đoạn Locke phản bác thuyết \"ý niệm bẩm sinh\", tabula rasa; nên kiểm thêm có chỗ nào nhắc Leibniz đáp lại) hoặc thêm một đoạn ngắn vào cau-hoi/tri-thuc.md",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Duy lý luận (rationalism) cho rằng lý tính tự nó có thể cho ta tri thức quan trọng về thực tại, không chỉ về định nghĩa.",
+          "where": "trang chỉ bàn duy lý/duy nghiệm và tiên nghiệm/hậu nghiệm; không có \"bẩm sinh\", Locke \"tờ giấy trắng\" hay Leibniz \"vân cẩm thạch\""
+        },
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/can-dai/",
+          "quote": "phản bác thuyết \"ý niệm bẩm sinh\": tâm trí lúc sinh ra như một tấm bảng trắng (tabula rasa)",
+          "where": "nơi có bàn khái niệm"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): trang see không bàn khái niệm; đề xuất đổi see sang lich-su/can-dai.md. Locke/Leibniz trong example đúng theo SEP (Leibniz: \"block of marble whose veins...\" trong Nouveaux Essais). | 10/11/2026 (sổ sách, Claude): see đổi sang lich-su/can-dai.md theo fix; cập nhật mã băm, không mở lại nguồn."
+}

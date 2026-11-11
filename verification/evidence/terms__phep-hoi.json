@@ -1,0 +1,72 @@
+{
+  "unit": "terms/phep-hoi",
+  "hash": "sha256:ffbc727f9c1e4cfa5e8419d0c55e247fb0aa662bb884a891695c4084f81c69de",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép hội = conjunction",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "is language PL’s rough equivalent of joining statements together with ‘and’ in English"
+        }
+      ]
+    },
+    {
+      "text": "han: 合取 đọc Hán Việt ra “phép hội”",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bỏ trường han, hoặc ghi rõ 合取 là thuật ngữ Hán ngữ hiện đại (hé qǔ) đọc Hán Việt là “hợp thủ”, không phải “hội”; không có chữ Hán Việt chuẩn cho “phép hội”",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/合",
+          "quote": "Vietnamese: hợp (合)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/取",
+          "quote": "取: Hán Nôm readings: thủ, thú"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "def: “P và Q” chỉ đúng khi cả hai đúng; ký hiệu ∧ hoặc &&",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "is language PL’s rough equivalent of joining statements together with ‘and’ in English"
+        }
+      ]
+    },
+    {
+      "text": "example: “Trời mưa và trời lạnh” chỉ đúng khi vừa mưa vừa lạnh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "is language PL’s rough equivalent of joining statements together with ‘and’ in English"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có và bàn phép hội",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "### Hội: ∧ (\"và\")"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Không tìm được trang từ điển cho 合取 (Wiktionary không có mục) nên không xác nhận được rằng 合取 là từ Hán ngữ chuẩn cho conjunction; dù có, đọc Hán Việt là “hợp thủ” ≠ “hội”. Ký hiệu && là cách viết trong lập trình, không có trong IEP; bản ghi ghi thêm cho dân lập trình, chấp nhận. | 10/11/2026 (sổ sách, Claude): bỏ trường han theo fix; cập nhật mã băm, không mở lại nguồn."
+}

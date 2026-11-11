@@ -1,0 +1,80 @@
+{
+  "unit": "terms/thuyet-sai-lam",
+  "hash": "sha256:e62a041a55b1d6fd0fe9a196443523f255b62be4defb07c22fe1dfb965a9d0b9",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m06",
+  "claims": [
+    {
+      "text": "vi–en: thuyết sai lầm (đạo đức) — error theory",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "The error theorist is a cognitivist: maintaining that moral judgment consists of beliefs and assertions.",
+          "where": "SEP “Moral Anti-Realism” (Joyce, bản lưu fall2026), mục 3.2 Error Theory"
+        }
+      ]
+    },
+    {
+      "text": "Gán cho Mackie, năm 1977",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "John Mackie (who coined the term “error theory” in 1977)",
+          "where": "mục 3.2; cùng mục ghi “Defenders of moral error theory include Mackie 1977, Hinckfuss 1987, Joyce 2001, and Olson 2014”"
+        }
+      ]
+    },
+    {
+      "text": "def: Quan điểm của Mackie (1977): phán đoán đạo đức nhằm nêu sự thật khách quan, nhưng vì không có giá trị khách quan nên không phán đoán đạo đức nào đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "The moral error theorist thinks that although our moral judgments aim at the truth, they systematically fail to secure it",
+          "where": "đoạn đặc trưng sơ bộ ba lập trường (“these views can be initially characterized as follows”)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "when we participate in moral discourse we commit ourselves to the existence of objective values and objective prescriptions, but there are no such things",
+          "where": "mục 3.2, trình bày lập luận của Mackie"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "However, the error theorist thinks that these beliefs and assertions are never true.",
+          "where": "mục 3.2"
+        }
+      ]
+    },
+    {
+      "text": "example: Như mọi câu 'nhà này có ma' đều sai nếu ma không tồn tại, mọi câu 'việc này sai một cách khách quan' đều không đúng nếu không có giá trị khách quan.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "The error theorist thinks that employing moral discourse is rather like talking about unicorns",
+          "where": "mục 3.2 (phép so sánh cùng kiểu: nói về thứ không tồn tại thì khẳng định không đúng)"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/sieu-dao-duc.md (có trong docs/ và bàn thuyết sai lầm)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/sieu-dao-duc/",
+          "quote": "Ông gọi lập trường của mình là thuyết sai lầm (error theory)",
+          "where": "trang đã xuất bản; file docs/cau-hoi/sieu-dao-duc.md (bản làm việc) có mục “### 2. Thuyết sai lầm” (dòng 70–80)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m06): kiểm từ đầu bằng SEP “Moral Anti-Realism” (Joyce, bản lưu fall2026). Mackie đặt ra thuật ngữ năm 1977 (khớp bản ghi kho works/chua-ro.ethics-inventing-right-and-wrong, năm 1977); def khớp: phán đoán đạo đức nhắm tới chân lý, cam kết có giá trị khách quan, nhưng không có nên không bao giờ đúng. Ví dụ “nhà có ma” cùng kiểu với phép so sánh kỳ lân của SEP. Ghi chú nhỏ, không phải lỗi: SEP kể thêm Hinckfuss 1987, Joyce 2001, Olson 2014 cũng theo thuyết này; có thể viết “Quan điểm do Mackie đặt tên (1977)” để khỏi hiểu là của riêng Mackie. Trường see: đã đọc file trong repo và trang đã xuất bản."
+}

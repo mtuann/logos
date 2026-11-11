@@ -1,0 +1,55 @@
+{
+  "unit": "terms/tam-doan-luan-tuyen",
+  "hash": "sha256:e286a4c315a0560fa26c9de184e57996bf1db8eca7e27fd9b108d3c62a53e8c2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tam đoạn luận lựa chọn = disjunctive syllogism",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "Disjunctive syllogism (DS): (two forms)"
+        }
+      ]
+    },
+    {
+      "text": "def: từ “P hoặc Q” và “không P” suy ra “Q”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "involves deducing one disjunct of a disjunction on the basis of the disjunction and the negation of the other disjunct"
+        }
+      ]
+    },
+    {
+      "text": "example: hoặc xe buýt hoặc đi bộ; không xe buýt; vậy đi bộ đúng dạng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/prop-log/",
+          "quote": "involves deducing one disjunct of a disjunction on the basis of the disjunction and the negation of the other disjunct"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Tam đoạn luận lựa chọn",
+          "where": "tiêu đề mục trong file"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): nguồn IEP Propositional Logic."
+}

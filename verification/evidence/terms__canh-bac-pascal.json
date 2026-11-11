@@ -1,0 +1,58 @@
+{
+  "unit": "terms/canh-bac-pascal",
+  "hash": "sha256:d9c768122169b3229c03cf9f37d5a42d60b05831fce7246c137e9520d85b4a52",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “canh bạc Pascal” ↔ Pascal's wager là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "“Pascal’s Wager” is the name given to an argument due to Blaise Pascal for believing, or for at least taking steps to believe, in God."
+        }
+      ]
+    },
+    {
+      "text": "def: Lập luận thực dụng của Pascal: khi lý trí không phân xử được, đặt cược rằng Chúa tồn tại là khôn ngoan vì có thể được vô hạn mà chỉ mất hữu hạn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "“Pascal’s Wager” is the name given to an argument due to Blaise Pascal for believing, or for at least taking steps to believe, in God."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "if God exists, the result of wagering for God is strictly better than the result of wagering against God"
+        }
+      ]
+    },
+    {
+      "text": "example: Đây là lý do để tin, không phải bằng chứng rằng Chúa tồn tại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "“Pascal’s Wager” is the name given to an argument due to Blaise Pascal for believing, or for at least taking steps to believe, in God."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/duc-tin-ly-tri.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tin-ly-tri/",
+          "quote": "- Pascal (Pensées, 1670): canh bạc — đây là lập luận thực dụng (\"được thì vô hạn, mất thì hữu hạn\"), không phải bằng"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): SEP Pascal's Wager (cả 'vô hạn/hữu hạn' trong mục Argument from Expectation)."
+}

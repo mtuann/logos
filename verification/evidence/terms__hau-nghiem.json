@@ -1,0 +1,69 @@
+{
+  "unit": "terms/hau-nghiem",
+  "hash": "sha256:c34ce9c7b4958912f8783a57d4b695ee42933322282c262ec481928144e9d945",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t02",
+  "claims": [
+    {
+      "text": "vi–en: hậu nghiệm = a posteriori (khớp bảng mục 3 HUONG-DAN-VIET.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "the difference between a priori and a posteriori (empirical) justification"
+        }
+      ]
+    },
+    {
+      "text": "han: 後驗 đọc Hán Việt là hậu nghiệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E5%BE%8C",
+          "quote": "Âm Hán Việt: hấu, hậu"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/%E9%A9%97",
+          "quote": "Âm Hán Việt: nghiệm"
+        }
+      ]
+    },
+    {
+      "text": "def: Được biết hoặc biện minh nhờ dựa vào kinh nghiệm giác quan.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "the difference between a priori and a posteriori (empirical) justification"
+        }
+      ]
+    },
+    {
+      "text": "example: Biết hôm nay Hà Nội trời lạnh vì vừa bước ra ngoài.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "the difference between a priori and a posteriori (empirical) justification"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có bàn khái niệm này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "với tiên nghiệm/hậu nghiệm"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t02): Hán Việt: hvdic tra từng chữ 後 (hậu) và 驗 (nghiệm). 後驗 là cách viết thông dụng của a posteriori trong tiếng Hán. Trang see chỉ nhắc cặp tiên nghiệm/hậu nghiệm, không định nghĩa kỹ (nguồn yếu cho \"see\")."
+}

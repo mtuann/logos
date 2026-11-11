@@ -1,0 +1,54 @@
+{
+  "unit": "terms/niem-tin-dung-duoc-bien-minh",
+  "hash": "sha256:692bcf0c1114450ac477209036ebd35197b22af7c0d311ba401494da579fa00e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: niềm tin đúng được biện minh = justified true belief (JTB), khớp bảng mục 3",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "The tripartite analysis of knowledge is often abbreviated as the “JTB” analysis, for “justified true belief”."
+        }
+      ]
+    },
+    {
+      "text": "def: phân tích cổ điển: biết = tin + đúng + có biện minh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "S knows that P if and only if: It is true that P; S believes that P; and S is justified in believing that P."
+        }
+      ]
+    },
+    {
+      "text": "example: tin tàu chạy 8 giờ nhờ xem lịch ga và tàu đúng 8 giờ: theo phân tích này, biết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "justified true belief is necessary and sufficient for knowledge"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có và bàn JTB",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Đây gọi là định nghĩa **niềm tin đúng được biện minh** (*justified true belief*, viết tắt JTB)."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Ví dụ: ca \"tàu đúng 8 giờ\" là trường hợp tin đúng có lý do bình thường (không phải ca Gettier) nên đúng là \"biết\" theo JTB."
+}

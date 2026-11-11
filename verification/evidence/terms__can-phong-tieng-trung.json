@@ -1,0 +1,58 @@
+{
+  "unit": "terms/can-phong-tieng-trung",
+  "hash": "sha256:22373333707558c3f3ff7bf5ccd69c6ecdc158eae5ca839609611a2fc9863ffc",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “Căn phòng tiếng Trung” ↔ Chinese Room là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "first published in a 1980 article by American philosopher John Searle"
+        }
+      ]
+    },
+    {
+      "text": "def: Thí nghiệm tư duy của John Searle: một người làm theo sổ quy tắc để trả lời bằng tiếng Trung mà không hiểu tiếng Trung, nhằm cho thấy xử lý ký hiệu chưa đủ để hiểu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "first published in a 1980 article by American philosopher John Searle"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "by following the program for manipulating symbols and numerals just as a computer does"
+        }
+      ]
+    },
+    {
+      "text": "example: Một chatbot trả lời trôi chảy chưa chắc đã \"hiểu\" — đó là điều Searle muốn ta nghĩ đến.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "first published in a 1980 article by American philosopher John Searle"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tam-tri-va-ai.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "bằng chip của Chalmers 1996); Searle (căn phòng tiếng Trung, 1980) — cú pháp không đủ cho ngữ nghĩa, tâm trí cần sức mạnh"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): SEP Chinese Room Argument."
+}

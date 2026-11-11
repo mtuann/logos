@@ -1,0 +1,84 @@
+{
+  "unit": "terms/tri-thuc",
+  "hash": "sha256:4bfbb0903877a2f72bc67a14d0414f0045b142cfe20decb205afbf8ca0b435d1",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"tri thức\" = knowledge",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "knowledge | tri thức | hiểu biết",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "The Analysis of Knowledge",
+          "where": "tiêu đề mục SEP"
+        }
+      ]
+    },
+    {
+      "text": "han: 知識 đọc Hán Việt ra \"tri thức\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/知識",
+          "quote": "tri thức (知識)",
+          "where": "mục tiếng Việt"
+        }
+      ]
+    },
+    {
+      "text": "alt: hiểu biết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "knowledge | tri thức | hiểu biết",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        }
+      ]
+    },
+    {
+      "text": "def: Trạng thái biết một điều, thường được hiểu là ít nhất phải tin điều đó, điều đó phải đúng, và có lý do thích đáng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "S knows that P if and only if: It is true that P; S believes that P; and S is justified in believing that P."
+        }
+      ]
+    },
+    {
+      "text": "example: Bạn biết nhà mình ở tầng mấy, chứ không chỉ đoán.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "For any person, there are some things they know, and some things they don’t."
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tri-thuc.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Giả sử ta có biết nhiều điều. Vậy biết là gì?"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): def đã thêm \"ít nhất\" nên không bị hẹp; bài see có phần phản ví dụ Gettier."
+}

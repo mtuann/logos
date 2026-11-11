@@ -1,0 +1,62 @@
+{
+  "unit": "terms/bai-toan-gettier",
+  "hash": "sha256:f12aaa0698e7b8b18d3dd0f491efc5d400008960e8db4b8e0bf3efd37947bdd4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “bài toán Gettier” ↔ Gettier problem là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "“Gettier cases”"
+        }
+      ]
+    },
+    {
+      "text": "def: Những trường hợp mà một người có niềm tin đúng được biện minh nhưng dường như vẫn không biết, do Edmund Gettier nêu ra để phản bác phân tích tri thức cổ điển.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Since they appear to refute the JTB analysis"
+        }
+      ]
+    },
+    {
+      "text": "example: đồng hồ chết đúng giờ; ví dụ của Russell (1948) có trước Gettier",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Bertrand Russell gave a similar case in the early 20th century"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "you will acquire a true belief as to the time of day, but you cannot be correctly said to have knowledge"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=Human+Knowledge+its+scope+and+limits+Russell",
+          "quote": "first_publish_year\":1948,\"title\":\"Human knowledge, its scope and limits"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "(JTB) — và cú đánh của Gettier (1963): hai phản ví dụ cho thấy đủ ba điều kiện vẫn chưa phải tri thức vì"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Năm Russell: SEP chú 'Russell 1923:113' nhưng thư mục SEP ghi tên Human Knowledge: Its Scope and Limits kèm năm 1923 (có vẻ SEP nhầm năm); Open Library cho Human Knowledge in 1948. Hồ sơ ghi 1948: chấp nhận, nhưng người làm nên tự kiểm trang (tr. 170 bản 1948) nếu muốn khóa. Có trước Gettier (1963) đúng theo mọi cách tính."
+}

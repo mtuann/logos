@@ -1,0 +1,59 @@
+{
+  "unit": "terms/truc-giac",
+  "hash": "sha256:f92e12ddc808b93c84e63a741b7c7ab5bac585f1fa186873f8a3cbb692f105e3",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"trực giác\" = intuition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "This entry addresses the nature and epistemological role of intuition"
+        }
+      ]
+    },
+    {
+      "text": "def: Cảm nhận tức thì rằng một điều gì đó đúng hay sai, trước khi kịp lý luận — nguyên liệu của thí nghiệm tư duy, nhưng cũng có thể sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "S has the rational intuition that p if and only if it intellectually seems to S that necessarily p."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "philosophical inquiry typically relies upon “a priori intuitions”"
+        }
+      ]
+    },
+    {
+      "text": "example: Thấy “đẩy người xuống cầu” là sai ngay lập tức, dù chưa kịp nghĩ vì sao.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "This entry addresses the nature and epistemological role of intuition",
+          "where": "ví dụ minh họa kiểu thí nghiệm tư duy (xe goòng/cây cầu, phạt người vô tội)"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/thi-nghiem-tu-duy.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/thi-nghiem-tu-duy/",
+          "quote": "nhằm kiểm tra trực giác (intuition) của ta về một khái niệm"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): hai bản ghi trùng en \"intuition\" (truc-giac và truc-giac-triet-hoc), cùng see; người làm cân nhắc gộp hoặc phân biệt rõ nghĩa thường ngày/nghĩa triết học. Ví dụ \"đẩy người xuống cầu\" là trực giác kinh điển của bài toán xe goòng (footbridge), SEP intuition chỉ dẫn được khái niệm chung."
+}

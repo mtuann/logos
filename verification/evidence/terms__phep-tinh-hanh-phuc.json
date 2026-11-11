@@ -1,0 +1,83 @@
+{
+  "unit": "terms/phep-tinh-hanh-phuc",
+  "hash": "sha256:77977cf451956f738fd23c7733616e6c20e6ecc5c07ab01d903bee577a27e84f",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép tính hạnh phúc = felicific calculus",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "commonly known as the “felicific calculus”"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/felicific_calculus",
+          "quote": "felicific calculus (historical, philosophy, economics)"
+        }
+      ]
+    },
+    {
+      "text": "def: cái tên do người đời sau đặt",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "Though Bentham did not use this terminology, the calculus he devised"
+        }
+      ]
+    },
+    {
+      "text": "def: Bentham đề xuất so sánh khoái lạc/đau khổ theo cường độ, độ dài, độ chắc chắn, độ gần xa và số người chịu ảnh hưởng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "“intensity”, “duration”, “certainty or uncertainty”, and its “propinquity or remoteness”"
+        }
+      ]
+    },
+    {
+      "text": "def: liệt kê các tiêu chí của phép tính, không có “fecundity” và “purity”",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thêm: khả năng sinh thêm cảm giác cùng loại (fecundity) và khả năng không kéo theo cảm giác trái ngược (purity); số người (extent) là yếu tố thứ bảy",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "“fecundity” or “the chance it has of being followed by sensations of the same kind”"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "example: xây công viên hay bãi đỗ xe, ai vui ai khổ, nhiều và lâu đến đâu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/bentham/",
+          "quote": "Where there are a number of persons, with reference to whom the valu"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/dao-duc-hanh-dong.md có và bàn phép tính hạnh phúc",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "Bentham từng đề xuất một \"phép tính hạnh phúc\""
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): SEP có bảy yếu tố của giá trị khoái lạc/đau khổ: intensity, duration, certainty, propinquity, fecundity, purity, extent (SEP mục 3.2). Bản ghi nêu năm, bỏ hai yếu tố; chỉ nhẹ vì dùng “như” trong bài nguồn nhưng ở def thì đọc như danh sách đủ. Quote cuối claim example bị cắt ở chữ “valu” là phần đầu của “value” trong trang; có thể đọc “value”. | 10/11/2026 (sổ sách, Claude): định nghĩa thêm hai yếu tố fecundity, purity theo fix của claim sai (đủ bảy yếu tố như SEP Bentham người kiểm đã dẫn); cập nhật mã băm, không mở lại nguồn."
+}

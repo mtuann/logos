@@ -68,7 +68,7 @@ Theo cách tái dựng phổ biến của *Leviathan*, chương 13–17:
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)
 - [Triết học là gì, và không phải là gì?](../bat-dau/index.md)
-- [Cái “tôi” là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
+- [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)
 
 **Các bài khác nhắc tới Thomas Hobbes:** [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md), [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md).
 

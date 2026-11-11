@@ -1,0 +1,73 @@
+{
+  "unit": "terms/quy-nap",
+  "hash": "sha256:fa3dd715c2d6a75a58d3e2115362f01387f3cc2507c0e44f22ddcadf1428cea2",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: quy nạp = induction (bảng mục 3: inductive = quy nạp)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
+          "quote": "An inductive logic is a system of reasoning that articulates how evidence claims bear on the truth of hypotheses."
+        }
+      ]
+    },
+    {
+      "text": "han: 歸納 đọc quy nạp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/歸",
+          "quote": "歸: Hán Nôm readings: qui, quy"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/納",
+          "quote": "納: Hán Nôm readings: nạp"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/歸納",
+          "quote": "歸納 to induce (from a set of facts)"
+        }
+      ]
+    },
+    {
+      "text": "def: tiền đề làm kết luận có khả năng đúng cao hơn nhưng không bảo đảm chắc chắn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive/",
+          "quote": "an inductive argument is intended to provide only probable, but not conclusive, support"
+        }
+      ]
+    },
+    {
+      "text": "example: ba năm xe buýt 7 giờ chưa trễ, nên mai chắc cũng không trễ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive/",
+          "quote": "Assuming the truth of those premises, it is likely that Socrates eats olives, but that is not guaranteed."
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/quy-nap.md có và bàn quy nạp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "Phần lớn những gì ta tin đến từ quy nạp, không phải suy diễn."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): IEP cũng lưu ý cách phân biệt suy diễn/quy nạp theo “ý định của người lập luận” hay theo cấu trúc còn tranh luận; định nghĩa của bản ghi là cách nhập môn chuẩn."
+}

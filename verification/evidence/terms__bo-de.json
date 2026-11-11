@@ -1,0 +1,43 @@
+{
+  "unit": "terms/bo-de",
+  "hash": "sha256:9eeb73a69d2c0390d2ee0f3f07b7d6546cf5daef47da88121f245abdc5e169f7",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t01",
+  "claims": [
+    {
+      "text": "vi–en: “bổ đề” ↔ lemma là cặp thuật ngữ chuẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/lemma",
+          "quote": "A proposition proved or accepted for immediate use in the proof of some other proposition."
+        }
+      ]
+    },
+    {
+      "text": "def: Một kết luận trung gian được chứng minh trước để dùng làm bàn đạp cho kết luận chính.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/lemma",
+          "quote": "A proposition proved or accepted for immediate use in the proof of some other proposition."
+        }
+      ]
+    },
+    {
+      "text": "example: Ví dụ “tổng hai số chẵn là số chẵn” là bổ đề sơ cấp hợp lệ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/lemma",
+          "quote": "A proposition proved or accepted for immediate use in the proof of some other proposition."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t01): Nguồn yếu (Wiktionary) vì không có mục SEP riêng về lemma. Bản ghi không có `see`."
+}

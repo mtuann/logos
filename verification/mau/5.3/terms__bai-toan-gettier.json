@@ -1,0 +1,100 @@
+{
+  "unit": "terms/bai-toan-gettier",
+  "hash": "sha256:f12aaa0698e7b8b18d3dd0f491efc5d400008960e8db4b8e0bf3efd37947bdd4",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m04",
+  "claims": [
+    {
+      "text": "vi–en: bài toán Gettier — Gettier problem",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/notes.html",
+          "quote": "For a shorter helpful discussion of the Gettier problem, see the Appendix in Pollock 1986.",
+          "where": "chú thích 11"
+        },
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "Gettier problems or cases are named in honor of the American philosopher Edmund Gettier, who discovered them in 1963.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "def: Những trường hợp mà một người có niềm tin đúng được biện minh nhưng dường như vẫn không biết, do Edmund Gettier nêu ra để phản bác phân tích tri thức cổ điển.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "They function as challenges to the philosophical tradition of defining knowledge of a proposition as justified true belief in that proposition.",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "The problems are actual or possible situations in which someone has a belief that is both true and well supported by evidence, yet which — according to almost all epistemologists — fails to be knowledge.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "example: Bạn nhìn đồng hồ thấy 7 giờ và tin là 7 giờ; đúng là 7 giờ, nhưng đồng hồ đã chết từ hôm qua đúng lúc 7 giờ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "a clock which you believe to be going, but which in fact has stopped",
+          "where": "mục 3 Counterexamples to the Tripartite Analysis, ca đồng hồ của Russell"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "you will acquire a true belief as to the time of day, but you cannot be correctly said to have knowledge",
+          "where": "mục 3 Counterexamples to the Tripartite Analysis"
+        }
+      ]
+    },
+    {
+      "text": "example: ví dụ đồng hồ chết vốn của Russell, 1948 — có trước Gettier, nhưng cùng một kiểu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Bertrand Russell gave a similar case in the early 20th century:",
+          "where": "mục 3 Counterexamples to the Tripartite Analysis; dẫn “Russell 1923:113”"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Russell, Bertrand, 1923, Human Knowledge: Its Scope and Limits, London: George Allen and Unwin Ltd.",
+          "where": "Bibliography (năm 1923 ở đây là nhầm của SEP, xem notes)"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?q=human+knowledge+its+scope+and+limits&author=russell&fields=title,author_name,first_publish_year,publish_year,publisher&limit=5",
+          "quote": "\"first_publish_year\":1948,\"publish_year\":[2009,1948,1966],\"publisher\":[\"Routledge\",\"Allen and Unwin\",\"Simon and Schuster\"],\"title\":\"Human knowledge, its scope and limits\"",
+          "where": "kết quả đầu tiên"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "prompted especially by Gettier’s influential 1963 paper",
+          "where": "mục 3 Counterexamples to the Tripartite Analysis"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tri-thuc.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "tri thức là niềm tin đúng được biện minh (JTB) — và cú đánh của Gettier (1963)",
+          "where": "trang đã xuất bản; file docs/cau-hoi/tri-thuc.md có trong repo, mục “2. Tri thức là niềm tin đúng được biện minh, và cú đánh của Gettier” (dòng 77–100, có cả ví dụ đồng hồ của Russell)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m04): đạt, không có claim sai. Lưu ý nguồn: SEP fall2026 (knowledge-analysis) dẫn ca đồng hồ là “Russell 1923:113” và thư mục ghi “Russell, Bertrand, 1923, Human Knowledge: Its Scope and Limits” — năm 1923 là nhầm của SEP: Open Library cho first_publish_year 1948 (Allen and Unwin; Simon and Schuster), khớp bản ghi kho sources/sach.russell-bertrand-1948-human-knowledge-its-scope-and-limits-l; vậy “Russell, 1948” trong bản ghi đúng. Chú thích 10 của SEP lưu ý Russell không nhấn điều kiện biện minh; ví dụ trong bản ghi cũng chưa nói lý do biện minh (đồng hồ vốn chạy đúng) — có thể thêm vài chữ cho rõ (tùy chọn, không phải lỗi). “bài toán Gettier” không có trong bảng HUONG-DAN-VIET.md mục 3; “Gettier problem” là thuật ngữ chuẩn (SEP, IEP)."
+}

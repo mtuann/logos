@@ -1,0 +1,55 @@
+{
+  "unit": "terms/nguy-bien-hinh-thuc",
+  "hash": "sha256:9d2a9eb6758c72a8acab4e9eb05d21bdc93b49ceb4c45821a56c41f3a273ad20",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: ngụy biện hình thức = formal fallacy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The formal fallacies are fallacious only because of their logical form, their structure."
+        }
+      ]
+    },
+    {
+      "text": "def: ngụy biện nằm ở cấu trúc lập luận nên mọi lập luận cùng dạng đều không hợp lệ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The formal fallacies are fallacious only because of their logical form, their structure."
+        }
+      ]
+    },
+    {
+      "text": "example: nếu mưa thì sân ướt; sân ướt; vậy mưa (khẳng định hậu kiện)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This deductively invalid argument uses the Fallacy of Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/nguy-bien-hinh-thuc.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/nguy-bien-hinh-thuc/",
+          "quote": "# Ngụy biện hình thức",
+          "where": "đọc từ docs/cong-cu/nguy-bien-hinh-thuc.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03)."
+}

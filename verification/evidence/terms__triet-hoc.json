@@ -1,0 +1,68 @@
+{
+  "unit": "terms/triet-hoc",
+  "hash": "sha256:aeeb1f6df198722e9f51195cc50a5a6feab792a54601fd25d4a6f1b29fb346d0",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-rt",
+  "claims": [
+    {
+      "text": "vi–en: \"triết học\" = philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "philosophy | triết học",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        }
+      ]
+    },
+    {
+      "text": "han: 哲學 đọc Hán Việt ra \"triết học\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/哲學",
+          "quote": "chữ Hán form of triết học (“philosophy”)"
+        }
+      ]
+    },
+    {
+      "text": "def: Việc khảo sát những câu hỏi nền tảng về tri thức, thực tại, giá trị và lý lẽ bằng lập luận có thể bị phản bác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/philosophy",
+          "quote": "the rational, abstract, and methodical consideration of reality as a whole or of fundamental dimensions of human existence and experience",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "example: Hỏi \"làm sao mình biết lúc này mình không đang mơ?\" là đã bắt đầu làm triết học.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "undermines the judgment that I am presently awake – call this the ‘Now Dreaming Doubt’",
+          "where": "mục 3.1 Dreaming Doubts"
+        }
+      ]
+    },
+    {
+      "text": "see: bat-dau/index.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/index/",
+          "quote": "triết học là việc khảo sát những câu hỏi nền tảng bằng lý lẽ."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-rt): def khớp ý Britannica (xem xét có lý lẽ, có phương pháp về thực tại và những chiều kích nền tảng của đời sống con người); ví dụ là 'Now Dreaming Doubt' kinh điển của Descartes (SEP). Ghi chú: Britannica không nêu riêng 'giá trị' và 'lý lẽ' nhưng ý bao trùm đúng. || Lượt 1: Kiểm 5.3 (agent-kiem-5.3-t06): không tìm được mục SEP/IEP định nghĩa \"philosophy\" trong 4 lượt (SEP metaphilosophy/philosophy-of-philosophy trả 404 ở bản fall2026). Đề xuất nguồn: sách nhập môn (vd. Nagel, What Does It All Mean?) hoặc Blackburn, Think. Claim def/example giữ chua-kiem-duoc."
+}

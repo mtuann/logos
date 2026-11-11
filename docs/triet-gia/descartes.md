@@ -64,7 +64,7 @@ Tâm trí có phải chỉ là một phần của thân thể? Ở *Suy niệm* 
 
 ## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
 
-- [Đọc “Suy niệm” I–II của Descartes](../doc/descartes-suy-niem.md)
+- [Đọc "Suy niệm" I–II của Descartes](../doc/descartes-suy-niem.md)
 - [Thân xác và tâm trí: vấn đề lâu đời nhất của triết học](../cau-hoi/van-de-tam-tri.md)
 - [Con người có linh hồn không?](../cau-hoi/linh-hon.md)
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md)

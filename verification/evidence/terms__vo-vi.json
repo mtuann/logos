@@ -1,0 +1,83 @@
+{
+  "unit": "terms/vo-vi",
+  "hash": "sha256:ebba0aeb9e590b82bf274f990b4cac46b1ab922794c18550ec9b266a588b1468",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"vô vi\" = wu wei",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/daoism/",
+          "quote": "Wu-wei is a difficult notion to translate."
+        }
+      ]
+    },
+    {
+      "text": "han: 無為 đọc Hán Việt ra \"vô vi\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/無為",
+          "quote": "vô vi (無為)",
+          "where": "mục tiếng Việt"
+        }
+      ]
+    },
+    {
+      "text": "def: Khái niệm trung tâm của Đạo gia (Lão Tử, Trang Tử): “không làm” theo nghĩa không cưỡng ép — hành động thuận theo tự nhiên của sự vật thay vì dùng sức chống lại nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/daoism/",
+          "quote": "Wu-wei means something like “act naturally,” “effortless action,” or “nonwillful action.”"
+        },
+        {
+          "url": "https://iep.utm.edu/daoism/",
+          "quote": "the traditional rendering of it as “nonaction” or “no action” is incorrect."
+        }
+      ]
+    },
+    {
+      "text": "def: khái niệm trung tâm Đạo gia (Lão Tử, Trang Tử); văn bản Lão Tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "是以聖人處無為之事",
+          "where": "Đạo đức kinh chương 2"
+        }
+      ]
+    },
+    {
+      "text": "example: Người thợ giỏi không gồng mình chặt gỗ mà nương theo thớ gỗ; người cai trị giỏi không ra lệnh liên miên mà để dân tự yên — đó là vô vi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/daoism/",
+          "quote": "Wu-wei means something like “act naturally,” “effortless action,” or “nonwillful action.”",
+          "where": "ví dụ người thợ chặt gỗ lấy ý từ Trang Tử (Dưỡng sinh chủ), người cai trị từ Đạo đức kinh"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/dao-duc-kinh.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/dao-duc-kinh/",
+          "quote": "đẹp xấu sinh ra nhau và vô vi (chương 2)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): IEP nói rõ \"nonaction\" là cách dịch không đúng, khớp def \"không làm theo nghĩa không cưỡng ép\". Chú thích 王弼 trên Wikisource không dùng."
+}

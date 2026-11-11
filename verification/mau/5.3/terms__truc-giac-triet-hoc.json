@@ -1,0 +1,103 @@
+{
+  "unit": "terms/truc-giac-triet-hoc",
+  "hash": "sha256:a4f4245c2a04c55ca66ca0ac40f8bb82ed0f29e9d54d6ec0c5f88d25d45f3765",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m04",
+  "claims": [
+    {
+      "text": "vi–en: trực giác (triết học) — intuition",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "This entry addresses the nature and epistemological role of intuition",
+          "where": "đoạn mở đầu mục SEP “Intuition”"
+        },
+        {
+          "url": "https://en.wiktionary.org/w/api.php?action=parse&page=%E7%9B%B4%E8%A6%BA&prop=text&format=json&origin=*",
+          "quote": "直覺 intuition; instinct; gut feeling",
+          "where": "mục từ 直覺, tiếng Trung, Noun"
+        }
+      ]
+    },
+    {
+      "text": "han: 直覺",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%9B%B4%E8%A6%BA",
+          "quote": "Sự nhận biết tức khắc, không cần suy nghĩ hoặc có kinh nghiệm sẵn.",
+          "where": "mục từ 直覺, âm Hán Việt ghi “trực giác” (Từ điển Nguyễn Quốc Hùng)"
+        },
+        {
+          "url": "https://vi.wiktionary.org/w/api.php?action=parse&page=tr%E1%BB%B1c%20gi%C3%A1c&prop=wikitext&format=json&origin=*",
+          "quote": "{{vi-etym-sino|直覺}}",
+          "where": "mục từ “trực giác”, phần từ nguyên (phiên âm từ chữ Hán)"
+        }
+      ]
+    },
+    {
+      "text": "def: Phán đoán tự nhiên, chưa qua lập luận, về một trường hợp cụ thể, thường được dùng làm dữ kiện để thử một lý thuyết.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Phán đoán tự nhiên, chưa qua lập luận, rằng một điều là đúng — về một trường hợp cụ thể hay về một nguyên tắc chung — thường được dùng làm dữ kiện để thử một lý thuyết.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "In fact, there are philosophically significant propositions at all levels of generality which may be the content of intuitions.",
+          "where": "mục 2.3 General Intuitions (ví dụ: “Nothing can be red and green all over at the same time”)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "The focus of this entry is intuitions—mental states or events in which a proposition seems true in the manner of these propositions.",
+          "where": "mục 1 The Nature of Intuitions (các ví dụ I1–I3 là mệnh đề chung: “If not-not-p, then p”…)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "S has the intuition that p if and only if S forms the occurrent belief that p without consciously inferring it from some other belief.",
+          "where": "mục 1.1 Intuitions as Beliefs, định nghĩa [A2] (phần “chưa qua lập luận” đúng)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "much philosophical inquiry depends in significant ways on intuitions as evidence or reasons",
+          "where": "mục 2.4 Intuitions as Evidence (phần “dữ kiện để thử lý thuyết” đúng)"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "example: Hầu hết mọi người thấy ngay rằng phạt người vô tội để xoa dịu đám đông là sai, trước khi kịp đưa ra lý do.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "a philosophical theory is taken to be prima facie undermined by contradicting an intuition regarding a particular hypothetical case",
+          "where": "mục 2.2 The Method of Cases"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/intuition/",
+          "quote": "Transplant Intuition: It is not morally permissible to take the organs of the one in order to save the five.",
+          "where": "mục 2.2, ca cùng kiểu (trực giác đạo đức về một trường hợp, chống thuyết vị lợi hành vi)"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/thi-nghiem-tu-duy.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/thi-nghiem-tu-duy/",
+          "quote": "nhằm kiểm tra trực giác (intuition) của ta về một khái niệm",
+          "where": "trang đã xuất bản; file docs/cong-cu/thi-nghiem-tu-duy.md có trong repo, dòng 18 và mục “Khi cách diễn đạt thay đổi trực giác”"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m04): sửa — def hẹp quá (vua): bó trực giác vào “một trường hợp cụ thể”, trong khi SEP (Intuition, mục 1 và 2.3) nêu trực giác có nội dung ở mọi mức độ tổng quát (nguyên tắc logic, toán, nguyên tắc đạo đức chung — trực giác lý tính của phái duy lý); trực giác về trường hợp (phương pháp ca, mục 2.2) chỉ là một loại. Các phần “chưa qua lập luận” và “dùng làm dữ kiện để thử lý thuyết” đúng. han 直覺 đọc “trực giác” (hvdic; vi.wiktionary ghi từ nguyên 直覺). Thuật ngữ không có trong bảng HUONG-DAN-VIET.md mục 3. | 10/11/2026 (sổ sách, Claude): đã sửa: def viết lại đúng câu fix (trực giác có thể về trường hợp cụ thể hay nguyên tắc chung; SEP Intuition); cập nhật mã băm, không mở lại nguồn."
+}

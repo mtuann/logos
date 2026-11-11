@@ -1,0 +1,63 @@
+{
+  "unit": "terms/nguyen-tac-loai-tru-thu-ba",
+  "hash": "sha256:3f4781e499a8f4cb403956c402df5e8ef9f26f7171b9d06e1b55ee795b09ec21",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: nguyên tắc loại trừ thứ ba = law of excluded middle",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contradiction/",
+          "quote": "the law of excluded middle (LEM)"
+        }
+      ]
+    },
+    {
+      "text": "def: với mọi P, \"P hoặc không P\" luôn đúng, khác với nhị trị",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/aristotle-logic/",
+          "quote": "The law of excluded middle can be summarized as the idea that every proposition must be either true or false, not both and not neither.",
+          "where": "IEP gộp LEM với nhị trị; SEP phân biệt qua tranh luận về future contingents"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/future-contingents/",
+          "quote": "he found it necessary to restrict the validity of bivalence by introducing a third truth-value"
+        }
+      ]
+    },
+    {
+      "text": "example: \"trời đang mưa hoặc không đang mưa\", một trong hai phải đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/aristotle-logic/",
+          "quote": "“A is true or A is false,” where only one alternative holds."
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/chan-ly.md có bàn nguyên tắc loại trừ thứ ba",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Trang cau-hoi/chan-ly.md bàn nguyên tắc nhị trị và lược đồ T nhưng không có chữ \"loại trừ thứ ba\"; chỉ docs/them/tu-dien.md nhắc. Đổi see sang trang có bàn LEM (hoặc thêm một câu phân biệt LEM với nhị trị vào chan-ly.md, vì định nghĩa của bản ghi đã nói \"khác với nguyên tắc nhị trị\").",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "nguyên tắc nhị trị** (*principle of bivalence*): mọi khẳng định hoặc đúng hoặc sai",
+          "where": "chan-ly.md có nhị trị, không có loại trừ thứ ba"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): đã grep cả docs/: \"loại trừ thứ ba\" chỉ có ở docs/them/tu-dien.md và terms.json. IEP aristotle-logic gộp LEM với nhị trị — bản ghi theo cách phân biệt chuẩn của logic hiện đại (SEP) nên giữ. | 10/11/2026 (sổ sách, Claude): theo fix, đã thêm vào cau-hoi/chan-ly.md một câu phân biệt nguyên tắc loại trừ thứ ba với nhị trị (bản ghi không đổi), đánh dấu fixed; không mở lại nguồn. | 10/11/2026 (sổ sách, Claude): sửa theo kiểm mẫu 5.3 — example viết lại đúng câu fix (“P hoặc không P” luôn đúng); bằng chứng verification/mau/5.3/terms__nguyen-tac-loai-tru-thu-ba.json; các dữ kiện khác không đổi; cập nhật mã băm, không mở lại nguồn."
+}

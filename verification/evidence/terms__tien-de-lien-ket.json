@@ -1,0 +1,54 @@
+{
+  "unit": "terms/tien-de-lien-ket",
+  "hash": "sha256:7b9d32d366a61b94f7c0abc08899b506b37ac7ad687ae89bed56449e0b5f9728",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tiền đề liên kết = linked premises",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "two or more “linked” premises combine to support a conclusion with a single inference"
+        }
+      ]
+    },
+    {
+      "text": "def: các tiền đề phải đi cùng nhau mới hỗ trợ kết luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "the linked premises are indicated with a plus sign (“+”) that indicates that they support the argument’s conclusion (only) when combined"
+        }
+      ]
+    },
+    {
+      "text": "example: “trời mưa” và “nếu mưa thì đường ướt” là hai tiền đề liên kết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "two or more “linked” premises combine to support a conclusion with a single inference"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/so-do-hoa-lap-luan.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/so-do-hoa-lap-luan/",
+          "quote": "Hai mũi tên chập làm một: P1 và P2 phải đi cùng nhau mới đỡ nổi K."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): SEP Informal Logic."
+}

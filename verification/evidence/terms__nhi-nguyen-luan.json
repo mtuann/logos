@@ -1,0 +1,80 @@
+{
+  "unit": "terms/nhi-nguyen-luan",
+  "hash": "sha256:a93025dc15c123718c67095a35a4509e37d970a958cf672f1259a9137976b452",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: nhị nguyên luận = dualism (khớp bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/",
+          "quote": "This entry concerns dualism in the philosophy of mind."
+        }
+      ]
+    },
+    {
+      "text": "han: 二元論 đọc nhị nguyên luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/二",
+          "quote": "Vietnamese: nhị (二)"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/元",
+          "quote": "元: Hán Nôm readings: nguyên, nguyễn"
+        },
+        {
+          "url": "https://hvdic.thivien.net/whv/論",
+          "quote": "Âm Hán Việt: luân, luận"
+        }
+      ]
+    },
+    {
+      "text": "def: tâm trí hay các thuộc tính tinh thần không hoàn toàn là vật lý",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/",
+          "quote": "mind and body – or the mental and the physical – are, in some fundamental sense, different kinds of things"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/",
+          "quote": "3.2 Property Dualism"
+        }
+      ]
+    },
+    {
+      "text": "example: biết hết về não vẫn chưa nói hết về cảm giác (lập luận tri thức, Jackson)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/",
+          "quote": "4.1 The Knowledge Argument"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tam-tri-va-ai.md có bàn khái niệm nhị nguyên luận",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Đổi see sang cau-hoi/van-de-tam-tri.md (có mục \"Nhị nguyên luận: tâm trí là một thực thể khác hẳn thân thể\" và định nghĩa dualism, cả nhị nguyên thuộc tính)",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+          "quote": "Đây là **nhị nguyên luận** (*dualism*): con người gồm hai loại thực thể, tâm trí phi vật chất và thân thể vật chất."
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): tam-tri-va-ai.md chỉ có một dòng \"Nhị nguyên luận\" trong bảng số liệu PhilPapers, không giải thích khái niệm. 二元論 là từ gốc Nhật dùng cả ở Hán ngữ hiện đại; đọc Hán Việt khớp. | 10/11/2026 (sổ sách, Claude): see đổi sang cau-hoi/van-de-tam-tri.md theo fix; cập nhật mã băm, không mở lại nguồn."
+}

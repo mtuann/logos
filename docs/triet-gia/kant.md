@@ -10,7 +10,7 @@ updated: 2026-10-22
 
 **1724–1804** · Cận đại
 
-Tương truyền hàng xóm ở Königsberg chỉnh đồng hồ theo giờ Immanuel Kant ra khỏi nhà đi dạo — giai thoại do nhà thơ Heinrich Heine kể lại năm 1834, ba mươi năm sau khi Kant mất. Thật hay không, nó nói đúng một điều: đời sống bề ngoài của Kant rất đều đặn và phẳng lặng. Ông sinh năm 1724 ở Königsberg (nay là Kaliningrad, Nga), con một thợ làm yên cương, học ở một trường của phái Pietism, phong trào Tin Lành đề cao lòng sùng đạo cá nhân (ông ghét lối bắt học trò tự mổ xẻ tâm hồn ở đó), rồi vào đại học ngay tại thành phố. Ngoài mấy năm làm gia sư ở vùng lân cận, ông sống và dạy học cả đời ở đó.
+Tương truyền hàng xóm ở Königsberg cứ thấy Immanuel Kant ra khỏi nhà đi dạo là biết đúng mấy giờ — giai thoại do nhà thơ Heinrich Heine kể lại năm 1834, ba mươi năm sau khi Kant mất. Thật hay không, nó nói đúng một điều: đời sống bề ngoài của Kant rất đều đặn và phẳng lặng. Ông sinh năm 1724 ở Königsberg (nay là Kaliningrad, Nga), con một thợ làm yên cương, học ở một trường của phái Pietism, phong trào Tin Lành đề cao lòng sùng đạo cá nhân (ông ghét lối bắt học trò tự mổ xẻ tâm hồn ở đó), rồi vào đại học ngay tại thành phố. Ngoài mấy năm làm gia sư ở vùng lân cận, ông sống và dạy học cả đời ở đó.
 
 Suốt mười lăm năm (1755–1770), Kant là giảng viên không lương, sống nhờ học phí sinh viên trả trực tiếp, mỗi tuần đứng lớp khoảng hai mươi giờ: lô-gích, siêu hình học, đạo đức, cả toán, vật lý và địa lý. Năm 1770, ở tuổi 46, ông mới được giữ ghế giáo sư lô-gích và siêu hình học. Rồi ông gần như im lặng suốt mười năm, để năm 1781 cho ra *Phê phán lý tính thuần túy*. Những tác phẩm lớn khác nối nhau ra đời trong mười năm sau đó. Cuốn sách về tôn giáo ông cho in năm 1793, sau khi một phần đã bị cơ quan kiểm duyệt bác, khiến ông bị vua Phổ khiển trách bằng một chỉ dụ đề ngày 1/10/1794.
 
@@ -65,7 +65,7 @@ Trong *Nền tảng siêu hình học của đạo đức* (1785), Kant đề ra
 
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md)
-- [“Khai sáng là gì?” — Immanuel Kant (1784)](../doc/kant-khai-sang.md)
+- ["Khai sáng là gì?" — Immanuel Kant (1784)](../doc/kant-khai-sang.md)
 - [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md)
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)
 

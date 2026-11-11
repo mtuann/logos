@@ -1,0 +1,59 @@
+{
+  "unit": "terms/zombie-triet-hoc",
+  "hash": "sha256:181e95e86d8ae2df57b075c60deb2af156c1e15f159196224c3efd1a6773e66e",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t06",
+  "claims": [
+    {
+      "text": "vi–en: \"zombie triết học\" = philosophical zombie",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/blob/main/HUONG-DAN-VIET.md",
+          "quote": "philosophical zombie | zombie triết học",
+          "where": "bảng mục 3, đọc từ file trong repo"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zombies/",
+          "quote": "Zombies in philosophy are imaginary creatures designed to illuminate problems about consciousness"
+        }
+      ]
+    },
+    {
+      "text": "def: Một sinh thể tưởng tượng giống hệt người về vật lý và hành vi nhưng hoàn toàn không có trải nghiệm bên trong.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zombies/",
+          "quote": "they are exactly like us in all physical respects but without conscious experiences"
+        }
+      ]
+    },
+    {
+      "text": "example: Một \"người\" kêu đau, nhăn mặt, rụt tay khỏi lửa, nhưng bên trong không cảm thấy gì cả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zombies/",
+          "quote": "by definition there is ‘nothing it is like’ to be a zombie"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tam-tri-va-ai.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "Hãy hình dung một zombie triết học (philosophical zombie)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t06): SEP định nghĩa zombie giống hệt về vật lý; bản ghi thêm \"và hành vi\" — hệ quả của giống hệt vật lý, đúng."
+}

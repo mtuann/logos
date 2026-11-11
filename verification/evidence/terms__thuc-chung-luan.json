@@ -1,0 +1,70 @@
+{
+  "unit": "terms/thuc-chung-luan",
+  "hash": "sha256:6f09f69a08498cbd45aa33e54c80307ac8113abd0b117b95332b2390957e94db",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: thực chứng luận = positivism",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/comte/",
+          "quote": "The positivists, i.e., the followers of Comte, were equally active in England"
+        }
+      ]
+    },
+    {
+      "text": "def (1): tri thức chân chính chỉ đến từ quan sát và khoa học thực nghiệm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-empiricism/",
+          "quote": "in order to be meaningful a claim must be implied by a finite number of observation sentences",
+          "where": "nói về chủ nghĩa kinh nghiệm logic; ý 'quan sát' khớp"
+        }
+      ]
+    },
+    {
+      "text": "def (2): phái thực chứng logic (Vienna) đòi mọi phát biểu có nghĩa phải kiểm chứng được bằng kinh nghiệm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-empiricism/",
+          "quote": "The term ‘logical empiricism’ has no very precise boundaries and still less that distinguishes it from ‘logical positivism’."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-empiricism/",
+          "quote": "in order to be meaningful a claim must be implied by a finite number of observation sentences"
+        }
+      ]
+    },
+    {
+      "text": "example: câu “vũ trụ có mục đích” bị loại vì không có quan sát nào kiểm chứng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-empiricism/",
+          "quote": "in order to be meaningful a claim must be implied by a finite number of observation sentences"
+        }
+      ]
+    },
+    {
+      "text": "see: lich-su/the-ky-20.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/the-ky-20/",
+          "quote": "Họ đề xuất nguyên tắc kiểm chứng (verification principle): một câu chỉ có nghĩa khi ta biết cách kiểm chứng nó bằng kinh nghiệm."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): file the-ky-20.md bàn Trường phái Vienna và nguyên tắc kiểm chứng nhưng không dùng đúng chữ 'thực chứng luận' (grep không thấy); đề nghị người làm cân nhắc thêm một câu nối. Nguồn SEP Comte chỉ để xác nhận 'positivists' và Comte."
+}

@@ -1,0 +1,44 @@
+{
+  "unit": "terms/menh-de-phan-dao",
+  "hash": "sha256:a72138b9927d57bfb9adf765c29ff8f97a30a33ee5522357d668ba1e3ad72444",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mệnh đề phản đảo = contrapositive",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/contrapositive",
+          "quote": "The inverse of the converse of a given logical implication."
+        }
+      ]
+    },
+    {
+      "text": "def: phản đảo của \"nếu P thì Q\" là \"nếu không Q thì không P\", tương đương logic với mệnh đề gốc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "A \\Rightarrow B; {\\sim}B; &\\text{ so } {\\sim}A \\text{ (modus tollens)}",
+          "where": "suy diễn từ A⇒B suy ra ¬B⇒¬A qua modus tollens (SEP viết bằng LaTeX)"
+        }
+      ]
+    },
+    {
+      "text": "example: \"nếu không có khói thì không có lửa\" tương đương \"nếu có lửa thì có khói\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "A \\Rightarrow B; {\\sim}B; &\\text{ so } {\\sim}A \\text{ (modus tollens)}"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): nguồn yếu; SEP/IEP không có câu định nghĩa trực tiếp \"contrapositive\". Bản ghi không có see."
+}

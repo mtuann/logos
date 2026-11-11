@@ -1,0 +1,45 @@
+{
+  "unit": "terms/menh-de-dao",
+  "hash": "sha256:eed67bc3afb87ead8df10b822bfa21f518c4949073833d2abcb509c2c3433625",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: mệnh đề đảo = converse",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/converse",
+          "quote": "a converse proposition",
+          "where": "nghĩa tính từ \"Opposite; reversed in order or relation\""
+        }
+      ]
+    },
+    {
+      "text": "def: đảo của \"nếu P thì Q\" là \"nếu Q thì P\", không tương đương với mệnh đề gốc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/contrapositive",
+          "quote": "The inverse of the converse of a given logical implication."
+        }
+      ]
+    },
+    {
+      "text": "example: đảo của \"nếu mưa thì đường ướt\" là \"nếu đường ướt thì trời mưa\" (sai)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This deductively invalid argument uses the Fallacy of Affirming the Consequent",
+          "where": "suy từ hậu kiện sang tiền kiện là sai"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): nguồn yếu (Wiktionary, IEP gián tiếp). Chưa tìm mục SEP/IEP định nghĩa \"converse\" của điều kiện; nên thêm một sách logic nhập môn nếu muốn chặt. Bản ghi không có see."
+}

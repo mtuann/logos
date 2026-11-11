@@ -1,0 +1,55 @@
+{
+  "unit": "terms/modus-ponens",
+  "hash": "sha256:41737bb9ce9d06a8195b671b60f767d0a38aebbf84becb2ccdc760026942e27d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: modus ponens (khẳng định tiền kiện) = modus ponens (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "A basic rule of inference is modus ponens"
+        }
+      ]
+    },
+    {
+      "text": "def: dạng suy diễn hợp lệ: nếu P thì Q; P; vậy Q",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "from “If \\(A, B\\)” and \\(A\\), we can infer \\(B\\)"
+        }
+      ]
+    },
+    {
+      "text": "example: nếu trời mưa thì sân ướt; trời đang mưa; vậy sân ướt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "from “If \\(A, B\\)” and \\(A\\), we can infer \\(B\\)"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/suy-dien.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "### Modus ponens (khẳng định tiền kiện)",
+          "where": "đọc từ docs/cong-cu/suy-dien.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): khớp HUONG-DAN-VIET.md mục 3."
+}

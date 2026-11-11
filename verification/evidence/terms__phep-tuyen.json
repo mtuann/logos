@@ -1,0 +1,72 @@
+{
+  "unit": "terms/phep-tuyen",
+  "hash": "sha256:abbf8451690f73404bd9a7116fb85bfcd42494a4231bff403dd6aa5a8c7d9f05",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép tuyển = disjunction",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Disjunction: The disjunction of two statements"
+        }
+      ]
+    },
+    {
+      "text": "han: 析取 đọc Hán Việt ra “phép tuyển”",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bỏ trường han, hoặc ghi chú: 析取 đọc Hán Việt là “tích thủ”, không phải “tuyển”",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/析",
+          "quote": "Âm Hán Việt: tích"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/取",
+          "quote": "取: Hán Nôm readings: thủ, thú"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "def: “P hoặc Q” theo nghĩa bao hàm: đúng khi ít nhất một đúng, kể cả cả hai; ký hiệu ∨ hoặc ||",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "corresponds to “either … or … or both”"
+        }
+      ]
+    },
+    {
+      "text": "example: “uống trà hoặc cà phê” (bao hàm) vẫn đúng nếu uống cả hai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "corresponds to “either … or … or both”"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có và bàn phép tuyển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "### Tuyển: ∨ (\"hoặc\", bao hàm)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Không tìm được trang từ điển cho 析取 (Wiktionary không có mục); đọc Hán Việt của 析 là tích, 取 là thủ nên không ra “tuyển”. Ký hiệu || là cách viết lập trình; chấp nhận. | 10/11/2026 (sổ sách, Claude): bỏ trường han theo fix; cập nhật mã băm, không mở lại nguồn."
+}

@@ -1,0 +1,67 @@
+{
+  "unit": "terms/nghia-vu-luan",
+  "hash": "sha256:fc6a2127d7c8280075d01c00fc09307a804fb27ce2243a9c7d0ba6e647f0458d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: nghĩa vụ luận = deontology (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "The most familiar forms of deontology"
+        }
+      ]
+    },
+    {
+      "text": "han: 義務論, đọc Hán Việt nghĩa vụ luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/義務",
+          "quote": "{{vi-Han form of|nghĩa vụ|[[duty]]; [[responsibility]]; [[obligation]]}}",
+          "where": "mục Vietnamese; 論 đọc luận: wikitext 論 hanviet=luận"
+        }
+      ]
+    },
+    {
+      "text": "def: có những việc ta buộc phải làm hoặc không được làm, bất kể hệ quả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "hold that some choices cannot be justified by their effects"
+        }
+      ]
+    },
+    {
+      "text": "example: không được thất hứa, kể cả khi thất hứa mang lại lợi hơn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "no matter how morally good their consequences, some choices are morally forbidden"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/dao-duc-hanh-dong.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "- **Nghĩa vụ luận** (*deontology*): đúng hay sai nằm ở *bản thân hành động* — nó có tuân theo bổn phận không, bất kể hậu quả",
+          "where": "đọc từ docs/cau-hoi/dao-duc-hanh-dong.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): Wiktionary không có mục riêng 義務論; ghép 義務 + 論 (luận). Khớp bảng mục 3."
+}

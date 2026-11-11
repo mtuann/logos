@@ -1,0 +1,63 @@
+{
+  "unit": "terms/hang-dung",
+  "hash": "sha256:b945c2394ef9e8991a1182a1b6a9d39679a24f4885e266d245364d590682b80b",
+  "checked_on": "2026-11-10",
+  "checker": "agent-mau-5.3-m06",
+  "claims": [
+    {
+      "text": "vi–en: hằng đúng — tautology",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Statements that have this interesting feature are called tautologies.",
+          "where": "IEP “Propositional Logic”, mục 4. Tautologies, Logical Equivalence and Validity"
+        },
+        {
+          "url": "https://html.duckduckgo.com/html/?q=%22h%E1%BA%B1ng+%C4%91%C3%BAng%22+tautology+logic+m%E1%BB%87nh+%C4%91%E1%BB%81",
+          "quote": "Một biểu thức logic là hằng đúng (tautology) nếu nó nhận giá trị 1 với mọi tổ hợp giá trị của các biến.",
+          "where": "đoạn trích kết quả tìm kiếm từ fit.neu.edu.vn (bài Toán rời rạc, Khoa CNTT ĐH Kinh tế Quốc dân); chỉ để xác nhận cách dịch tiếng Việt"
+        }
+      ]
+    },
+    {
+      "text": "def: Công thức luôn đúng với mọi cách gán chân trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Definition: a wff is a tautology if and only if it is true for all possible truth-value assignments to the statement letters making it up.",
+          "where": "mục 4"
+        }
+      ]
+    },
+    {
+      "text": "example: “P hoặc không P” là một hằng đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Some complex statements have the interesting feature that they would be true regardless of the truth-values of the simple statements making them up. A simple example would be the wff",
+          "where": "mục 4; ví dụ ngay sau là wff “P∨¬P”, tức “P or not P”"
+        }
+      ]
+    },
+    {
+      "text": "see: cong-cu/logic-menh-de.md (có trong docs/ và bàn hằng đúng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Một công thức đúng trên mọi dòng gọi là hằng đúng (tautology), ví dụ P ∨ ¬P (\"hoặc P hoặc không P\").",
+          "where": "trang đã xuất bản; cùng câu ở docs/cong-cu/logic-menh-de.md dòng 134 (bản làm việc)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm mẫu 5.3 (agent-mau-5.3-m06): kiểm từ đầu bằng IEP “Propositional Logic” (URL cũ iep.utm.edu/prop-log/ chuyển hướng về URL đã ghi). Định nghĩa đúng nguyên văn định nghĩa IEP (đúng với mọi phép gán chân trị cho các chữ mệnh đề); ví dụ P ∨ ¬P là ví dụ IEP dùng. Cách dịch “hằng đúng” xác nhận qua tài liệu giảng dạy toán rời rạc tiếng Việt (đoạn trích tìm kiếm, nguồn yếu, chỉ bổ trợ). Trường see: đã đọc file trong repo và trang đã xuất bản."
+}

@@ -1,0 +1,58 @@
+{
+  "unit": "terms/niem-tin",
+  "hash": "sha256:70c4d365905b63a272cf9e9c12711fd32ba68dc23cd622a270468eb3fb6f36ff",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: niềm tin = belief (khớp bảng mục 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/belief/",
+          "quote": "refer to the attitude we have, roughly, whenever we take something to be the case or regard it as true"
+        }
+      ]
+    },
+    {
+      "text": "def: trạng thái coi một điều là đúng, dù thật sự đúng hay không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/belief/",
+          "quote": "whenever we take something to be the case or regard it as true"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Most epistemologists agree that what is false cannot be known."
+        }
+      ]
+    },
+    {
+      "text": "example: tin xe buýt sắp đến là niềm tin kể cả khi xe hỏng giữa đường",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/belief/",
+          "quote": "needn’t involve actively reflecting on it"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cau-hoi/tri-thuc.md có và bàn niềm tin",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Định nghĩa tri thức nào cũng đòi niềm tin phải *đúng*"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): \"tín niệm\" = Hán Việt của 信念 (Wiktionary: \"conviction; faith; belief\"), nhưng chưa tìm được văn bản tiếng Việt triết học nào dùng \"tín niệm\" cho belief trong 1 lượt tìm (Google Books feed không ra). Không có trong bảng mục 3 (cột \"cách dịch khác\" của belief trống): nên bỏ alt hoặc người làm tự dẫn nguồn. | 10/11/2026 (sổ sách, Claude): bỏ trường alt (cách gọi khác không tìm được nguồn); claim alt bỏ theo, các claim còn lại giữ; cập nhật mã băm, không mở lại nguồn."
+}

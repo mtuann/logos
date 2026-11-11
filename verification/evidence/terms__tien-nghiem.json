@@ -1,0 +1,77 @@
+{
+  "unit": "terms/tien-nghiem",
+  "hash": "sha256:1af83ae74cbdf1a6de9d4ac356f98af85726fca752f8aadd5b1510672bce822d",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t05",
+  "claims": [
+    {
+      "text": "vi–en: tiên nghiệm = a priori (khớp bảng mục 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "1. Examples that illustrate the difference between a priori and a posteriori (empirical) justification"
+        }
+      ]
+    },
+    {
+      "text": "han: 先驗 đọc Hán Việt ra tiên nghiệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/先驗",
+          "quote": "[[a priori]]",
+          "where": "wikitext mục 先驗: nghĩa triết học a priori"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/先",
+          "quote": "hanviet=tiên-tdcndg;tdcntd;gdhn;bonet;genibrel",
+          "where": "wikitext mục 先"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/驗",
+          "quote": "hanviet=nghiệm-tdcndg;tdcntd;gdhn;btcn;bonet;genibrel;taberd",
+          "where": "wikitext mục 驗"
+        }
+      ]
+    },
+    {
+      "text": "def: được biết hoặc biện minh mà không cần dựa vào kinh nghiệm giác quan",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "a priori justification provides reasons for thinking a proposition is true that comes from merely understanding, or thinking about, that proposition"
+        }
+      ]
+    },
+    {
+      "text": "example: biết 7 + 5 = 12 không cần đếm lại từng quả cam",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "a priori justification provides reasons for thinking a proposition is true that comes from merely understanding, or thinking about, that proposition",
+          "where": "ví dụ số học là minh họa chuẩn; SEP không dùng đúng 7+5"
+        }
+      ]
+    },
+    {
+      "text": "see: cau-hoi/tri-thuc.md có bàn khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Tri thức có được không cần dựa vào kinh nghiệm gọi là tiên nghiệm (a priori)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t05): 7+5=12 là ví dụ của Kant (Phê phán lý tính thuần túy, B15) nhưng chưa mở nguồn; chấp nhận như minh họa của người làm theo định nghĩa."
+}

@@ -1,0 +1,80 @@
+{
+  "unit": "terms/phep-keo-theo",
+  "hash": "sha256:b8ff47fae562cbaa40f85db53869870d534dedd9340d543b9197ae9fbe4dedd8",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t04",
+  "claims": [
+    {
+      "text": "vi–en: phép kéo theo = material conditional",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Material Implication: This truth-function is represented in language PL with the sign ‘→’."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "It is a strikingly simple theory"
+        }
+      ]
+    },
+    {
+      "text": "han: 蘊涵 đọc Hán Việt ra “phép kéo theo”",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bỏ trường han, hoặc ghi chú: 蘊涵 (uẩn hàm) chỉ là “entail/imply” nói chung, không riêng phép kéo theo vật chất (Hán ngữ: 實質蘊涵)",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/蘊涵",
+          "quote": "蘊涵 to contain; to include; to embody (logic) to entail; to imply"
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/蘊",
+          "quote": "蘊: Hán Nôm readings: uẩn, uẫn, uấn"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "def: “nếu P thì Q” chỉ sai trong đúng một trường hợp P đúng Q sai; ký hiệu →",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "It is a strikingly simple theory"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Material Implication: This truth-function is represented in language PL with the sign ‘→’."
+        }
+      ]
+    },
+    {
+      "text": "example: “Nếu trời mưa thì đường ướt” chỉ sai khi mưa mà đường không ướt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+          "quote": "It is a strikingly simple theory"
+        }
+      ]
+    },
+    {
+      "text": "see: docs/cong-cu/logic-menh-de.md có và bàn phép kéo theo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "### Kéo theo: → (\"nếu… thì…\")"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t04): Tên “phép kéo theo” không có chữ “vật chất” trong khi en là “material conditional”; nên ghi trong def rằng đây là phép nối đúng-sai (khác “nếu…thì” đời thường). SEP Conditionals nêu: “If A, B” sai khi A đúng và B sai, các trường hợp khác đúng. | 10/11/2026 (sổ sách, Claude): bỏ trường han theo fix; cập nhật mã băm, không mở lại nguồn."
+}

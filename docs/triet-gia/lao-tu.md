@@ -34,14 +34,14 @@ Năm nghìn chữ ấy đi rất xa. Nó để lại dấu ấn trong sách *Tra
 
 ## Một lập luận tiêu biểu: Càng nhiều lệnh cấm, dân càng nghèo (chương 57)
 
-Hiếm khi *Đạo đức kinh* lập luận lộ liễu, nhưng chương 57 thì có. Sau lời khuyên “lấy vô sự mà giữ thiên hạ”, văn bản hỏi: “Ta lấy gì mà biết được như vậy?” rồi đưa ra bằng chứng. Đoạn này có mặt cả trong bản thẻ tre Quách Điếm.
+Hiếm khi *Đạo đức kinh* lập luận lộ liễu, nhưng chương 57 thì có. Sau lời khuyên “dùng vô sự mà được thiên hạ” (以無事取天下), văn bản hỏi: “Ta lấy gì mà biết được như vậy?” rồi đưa ra bằng chứng. Đoạn này có mặt cả trong bản thẻ tre Quách Điếm.
 
 - **P1.** Thiên hạ càng nhiều điều cấm kỵ thì dân càng nghèo; người càng nhiều mánh khéo thì vật lạ càng sinh; pháp lệnh càng chồng chất thì trộm cướp càng nhiều.
 - **P2.** Vậy can thiệp của người cầm quyền thường sinh ra chính cái loạn mà nó muốn dẹp.
 - **P3.** Khi không bị quấy nhiễu, dân có khả năng tự chuyển hóa, tự ngay ngắn, tự làm giàu.
 - **K.** Người cai trị khôn ngoan nên vô vi: “ta vô vi mà dân tự hóa, ta thích tĩnh mà dân tự chính, ta vô sự mà dân tự giàu, ta không ham muốn mà dân tự chất phác”.
 
-**Phản bác chính.** Tương quan chưa phải nhân quả: có thể luật lệ nhiều lên chính vì trộm cướp đã nhiều, chứ không phải ngược lại. Hàn Phi, người từng chú giải Lão Tử, đọc cùng thực tế ấy theo chiều khác: người đông mà của ít thì dân tranh nhau, nên phải thưởng phạt nghiêm (thiên “Ngũ đố”). Và tiền đề thứ ba giả định bản tính con người vốn chất phác, điều Tuân Tử bác bỏ.
+**Phản bác chính.** Tương quan chưa phải nhân quả: có thể luật lệ nhiều lên chính vì trộm cướp đã nhiều, chứ không phải ngược lại. Hàn Phi, người từng chú giải Lão Tử, đọc cùng thực tế ấy theo chiều khác: người đông mà của ít thì dân tranh nhau, dù thưởng gấp bội, phạt chồng chất cũng không khỏi loạn (thiên “Ngũ đố”) — tức gốc của loạn là cảnh thiếu thốn, không phải luật lệ. Và tiền đề thứ ba giả định bản tính con người vốn chất phác, điều Tuân Tử bác bỏ.
 
 **Cách đáp lại.** Người theo Lão Tử có thể nhận rằng ở đây có một vòng luẩn quẩn: trộm nhiều thì luật nhiều, luật nhiều thì người ta tìm cách lách, rồi lại sinh luật mới. Muốn thoát vòng ấy phải bớt chứ không thể cứ thêm. Vô vi cũng không phải vô chính phủ: vẫn nấu cá, chỉ là đừng đảo liên tục. Ai từng thấy một thủ tục rườm rà đẻ ra cả nghề “dịch vụ làm hộ” sẽ hiểu vì sao lời cảnh báo này còn được nhắc.
 

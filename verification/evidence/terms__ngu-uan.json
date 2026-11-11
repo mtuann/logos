@@ -1,0 +1,68 @@
+{
+  "unit": "terms/ngu-uan",
+  "hash": "sha256:a7a669e60b6de9f42f48694a4e07f01b2509a1b415c8f65ef475abae27e9a865",
+  "checked_on": "2026-11-10",
+  "checker": "agent-kiem-5.3-t03",
+  "claims": [
+    {
+      "text": "vi–en: ngũ uẩn = five aggregates (skandhas)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "the five skandhas or psychophysical elements"
+        }
+      ]
+    },
+    {
+      "text": "han: 五蘊, đọc Hán Việt ngũ uẩn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wiktionary.org/wiki/五蘊",
+          "quote": "{{vi-Han form of|ngũ uẩn|the [[five]] [[skandha]]s}}",
+          "where": "mục Vietnamese, wikitext API"
+        }
+      ]
+    },
+    {
+      "text": "def: năm nhóm yếu tố Phật giáo dùng phân tích con người: sắc, thọ, tưởng, hành, thức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/般若波羅蜜多心經_(玄奘)",
+          "quote": "色不異空，空不異色，色即是空，空即是色；受、想、行、識，亦復如是。",
+          "where": "Tâm kinh bản Huyền Trang"
+        }
+      ]
+    },
+    {
+      "text": "example: Tâm kinh mở đầu bằng \"chiếu kiến ngũ uẩn giai không\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/般若波羅蜜多心經_(玄奘)",
+          "quote": "觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。"
+        }
+      ]
+    },
+    {
+      "text": "see: doc/tam-kinh.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "Tát hành thâm Bát nhã Ba la mật đa thời, chiếu kiến ngũ uẩn giai không, độ nhất thiết khổ ách.*",
+          "where": "đọc từ docs/doc/tam-kinh.md"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Kiểm 5.3 (agent-kiem-5.3-t03): Wikisource zh đọc qua API. SEP buddha gọi là \"five skandhas or psychophysical elements\"."
+}
