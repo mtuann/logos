@@ -1,0 +1,51 @@
+{
+ "unit": "fallacy-types/tu-quoque",
+ "hash": "sha256:ccd7e1887e55b396821ce13e1fb990fbeb2957b9af072d9151c3e5542c39c6d1",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Tu quoque; định nghĩa: gạt bỏ lời phê bình vì người phê bình cũng làm điều tương tự",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "not accepting a view or a recommendation because the espouser him- or herself does not follow it",
+     "where": "§1 item 13"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the fallacy is due to claiming the person does not practice what is preached, it is the Tu Quoque Fallacy.",
+     "where": "Ad Hominem"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: khi câu hỏi là sự nhất quán/độ đáng tin của người nói",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "deciding whether the personal attack is relevant or irrelevant",
+     "where": "Ad Hominem"
+    }
+   ]
+  },
+  {
+   "text": "example: bố hút thuốc nên con gạt lời khuyên bỏ thuốc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "not accepting a view or a recommendation because the espouser him- or herself does not follow it",
+     "where": "định nghĩa loại này; ví dụ do site soạn, khớp khuôn theo kiểm tay"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

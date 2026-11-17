@@ -1,0 +1,46 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#doc-bang-chan-tri-cua-cong-thuc-phuc",
+ "hash": "sha256:af8371e2b0372f46547da76ca6d51e6ade679320d6062d970163959159ee223e",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03",
+ "claims": [
+  {
+   "text": "Với n mệnh đề khác nhau, bảng có 2ⁿ dòng; bảng De Morgan 4 dòng và hai cột ¬(P∧Q), ¬P∨¬Q giống hệt [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "DeMorgan's Laws (DM): (two forms)",
+     "where": "§5c Rules of Replacement"
+    }
+   ]
+  },
+  {
+   "text": "Hằng đúng (tautology), ví dụ P ∨ ¬P; hằng sai (contradiction) khi sai trên mọi dòng, ví dụ P ∧ ¬P",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Tautologies are also sometimes called logical truths or truths of logic",
+     "where": "§4"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "a wff is a self-contradiction if and only if it is false for all possible truth-value assignments",
+     "where": "§4"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Thuật ngữ hằng đúng/hằng sai không thuộc bảng bắt buộc; nhất quán trong site."
+}

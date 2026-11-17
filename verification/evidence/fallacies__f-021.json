@@ -1,0 +1,82 @@
+{
+ "unit": "fallacies/f-021",
+ "hash": "sha256:130368cb0605dfc52a29bf0e0bdb3bc1a377d91479c6110b274d43b824904b9b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: post-hoc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  },
+  {
+   "text": "options: begging-question, appeal-authority, appeal-nature đều không khớp đoạn (không có tiền đề giả định sẵn kết luận, không viện chuyên gia, không nói vì là đá tự nhiên); không có phương án thứ hai hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Chuyện hết đau xảy ra sau khi đeo vòng không chứng minh vòng là nguyên nhân.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”"
+    }
+   ]
+  },
+  {
+   "text": "explanation: Đau lưng thường tự đỡ (câu kể về thế giới thật)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://www.nhs.uk/conditions/back-pain/",
+     "quote": "it often gets better on its own"
+    }
+   ]
+  },
+  {
+   "text": "explanation: Đau lưng thường tự đỡ sau vài ngày nghỉ ngơi",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Đau lưng thường tự đỡ sau vài ngày đến vài tuần.",
+   "sources": [
+    {
+     "url": "https://www.nhs.uk/conditions/back-pain/",
+     "quote": "It usually improves within a few weeks but can sometimes last longer or keep coming back."
+    }
+   ]
+  },
+  {
+   "text": "why_not.begging-question / appeal-nature / appeal-authority: nhận định đúng về nội dung đoạn",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "NHS: thường cải thiện trong vài tuần; \"vài ngày\" hơi hẹp, chỉ mức nhẹ."
+}

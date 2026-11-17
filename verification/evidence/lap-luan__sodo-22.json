@@ -1,0 +1,75 @@
+{
+  "unit": "lap-luan/sodo-22",
+  "hash": "sha256:96a801d327249d6a3564b9ae7ec48ed83115737b9652e2b800fd8dd1ef90289c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-l02",
+  "claims": [
+    {
+      "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "a claim-reason complex",
+          "where": "SEP Informal Logic: định nghĩa lập luận (tiền đề, kết luận, suy luận)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "SEP Informal Logic: phần Standardization, bỏ phần không đóng vai trò trong lập luận"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c5 'Thời gian và sức khỏe tiết kiệm được đáng giá hơn hai triệu chênh lệch' là tiền đề ngầm so sánh giá trị, nối c1-c3 với c6",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Arguments with implicit premises or conclusions are recognized in traditional discussions of enthymemes",
+          "where": "SEP Informal Logic"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed",
+          "where": "IEP Argument"
+        }
+      ]
+    },
+    {
+      "text": "ho_tro: các tiền đề cùng hướng về kết luận (vẽ thành các mũi tên riêng, theo cách đọc hội tụ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "supported by three independent",
+          "where": "SEP Informal Logic, Example 10"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "they support the conclusion jointly",
+          "where": "IEP Argument, linked vs convergent"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c3 ho_tro [c2] (c3 'Hai tiếng đó đủ để tôi học thêm ngoại ngữ hoặc nghỉ ngơi' được vẽ là đỡ c2 'mỗi ngày tôi mất gần hai tiếng kẹt xe')",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Đổi ho_tro của c3 thành [\"c6\"] (hoặc chuỗi c2 ho_tro [\"c3\"], c3 ho_tro [\"c6\"]). c3 dựa vào c2 chứ không đỡ c2: c2 là dữ kiện về thời gian mất đi, không có lý do nào trong c3 làm c2 đúng hơn.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "intermediate conclusions which are premises for further conclusions",
+          "where": "SEP Informal Logic: kết luận trung gian phải được tiền đề đỡ; ở đây c2 là dữ kiện, không phải kết luận trung gian"
+        }
+      ]
+    }
+  ],
+  "result": "sua",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Chỉ có mũi tên c3->c2 sai chiều, hiện ra trong 'Sơ đồ của đáp án đúng' sau khi nộp bài; vai trò từng câu vẫn đúng nên điểm chấm không đổi. Nhẹ hơn: c1 (giá cao hơn) là lý do chống lại kết luận nhưng bị vẽ cùng loại mũi tên 'đỡ' với các tiền đề khác; ghi_chu_tranh_cai đã giải thích đây là cân nhắc lợi/hại, chấp nhận được. c5 là giả định ngầm hợp lý (giá trị thời gian/sức khỏe hơn 2 triệu)."
+}

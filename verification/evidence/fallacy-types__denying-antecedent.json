@@ -1,0 +1,39 @@
+{
+ "unit": "fallacy-types/denying-antecedent",
+ "hash": "sha256:6b8c1bb88e9e50a3043c34297183894b1a09654ee7bba3fe629f1345ee7012bf",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Denying the antecedent; kind formal; định nghĩa: từ 'Nếu P thì Q' và 'không P' kết luận 'không Q' là không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "such as undistributed middle and denying the antecedent",
+     "where": "Introduction; §2.10"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent",
+     "where": "Denying the Antecedent"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: nếu điều kiện thực chất là 'chỉ khi' (điều kiện cần) thì không còn là suy luận từ 'nếu thì'; modus tollens (nếu P thì Q, không Q, vậy không P) hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent",
+     "where": "IEP Propositional Logic, modus tollens"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

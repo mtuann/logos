@@ -1,0 +1,165 @@
+{
+ "unit": "cong-cu/nguy-bien-hinh-thuc.md#bon-cai-bay",
+ "hash": "sha256:3856991faca2062c84ab36fe8524f3eeabe32c8af86d14778084b957e9544fd5",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p11",
+ "claims": [
+  {
+   "text": "Nếu P thì Q chỉ sai khi P đúng mà Q sai; dòng P sai Q đúng: hai tiền đề đúng, kết luận P sai, nên khuôn khẳng định hậu kiện không hợp lệ (dùng bảng chân trị)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
+     "where": "truth table of the conditional"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent.",
+     "where": "entry Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "A deductive argument is said to be valid if and only if it takes a form that makes it impossible",
+     "where": "validity"
+    }
+   ]
+  },
+  {
+   "text": "Phủ định tiền kiện (nếu P thì Q; không P; vậy không Q): dòng P sai, Q đúng cho 'không Q' sai; không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "entry Denying the Antecedent"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
+     "where": "truth table of the conditional"
+    }
+   ]
+  },
+  {
+   "text": "Khẳng định một vế của tuyển bao hàm (P hoặc Q; P; vậy không Q): dòng P đúng Q đúng; không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is used for disjunction in the inclusive sense",
+     "where": "disjunction"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "either … or … or both",
+     "where": "§2.3 ký hiệu ∨"
+    }
+   ]
+  },
+  {
+   "text": "Chữ 'hoặc' trong đời thường thường là tuyển bao hàm; khuôn trên lén đổi thành 'chỉ một trong hai'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+     "quote": "are merely pragmatic effects (conversational implicatures)",
+     "where": "§4 Disjunction in conversation: nghĩa chữ của 'or' là bao hàm, đọc loại trừ là hàm ý hội thoại"
+    }
+   ]
+  },
+  {
+   "text": "Nếu 'hoặc' là tuyển loại trừ thì khuôn trên hợp lệ (công tắc bật/tắt)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "the exclusive sense of 'or'",
+     "where": "disjunction: exclusive sense"
+    }
+   ]
+  },
+  {
+   "text": "Đảo ngược mệnh đề (nếu P thì Q; vậy nếu Q thì P): dòng P sai Q đúng thì tiền đề đúng, kết luận 'nếu Q thì P' sai; không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
+     "where": "truth table of the conditional"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Most professional basketball players are tall, so most tall people are professional basketball players.",
+     "where": "entry Inductive Conversion (cùng kiểu đảo ngược)"
+    }
+   ]
+  },
+  {
+   "text": "Hai cái đầu đã gặp ở bài Suy diễn và nhóm 'Hình thức' bài Ngụy biện (#affirming-consequent)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning.",
+     "where": "Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "Mẹo: với 'nếu P thì Q', khẳng định cái đầu hoặc phủ định cái đuôi thì an toàn; khẳng định cái đuôi hoặc phủ định cái đầu thì không",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent",
+     "where": "modus ponens"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent",
+     "where": "modus tollens"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent.",
+     "where": "entry Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "entry Denying the Antecedent"
+    }
+   ]
+  },
+  {
+   "text": "Phản ví dụ: chó có bốn chân, mèo có bốn chân, vậy mèo là chó; '12 chẵn hoặc lớn hơn 10, 12 chẵn, vậy 12 không lớn hơn 10'; chó là động vật có vú nhưng ngược lại không đúng; tiền đề đúng kết luận sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "A deductive argument is said to be valid if and only if it takes a form that makes it impossible",
+     "where": "validity"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ví dụ Hà ho, Lan đỗ, món cay mặn là chuyện kể. | Neo #affirming-consequent có thật trong docs/cong-cu/nguy-bien.md dòng 189; nhóm 4 có hai mục. | Tự kiểm bằng logic: tiền đề đúng, kết luận sai trong cả bốn phản ví dụ."
+}

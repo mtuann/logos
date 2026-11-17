@@ -1,0 +1,63 @@
+{
+ "unit": "cong-cu/nguy-bien-hinh-thuc.md#vi-sao-ta-hay-sap-bay",
+ "hash": "sha256:e47b4da821fa2328ecced8fec40a705995dbda19be606217a32e4fd7a38c3e15",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p11",
+ "claims": [
+  {
+   "text": "Thiên kiến niềm tin (belief bias): khi kết luận nghe hợp lý, ta lười kiểm tra bước đi",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://researchers.mq.edu.au/en/publications/when-fast-logic-meets-slow-belief-evidence-for-a-parallel-process/",
+     "quote": "When fast logic meets slow belief: evidence for a parallel-processing model of belief bias",
+     "where": "Trippas, Thompson & Handley 2017, Memory & Cognition 45(4):539-552, DOI 10.3758/s13421-016-0680-1; tóm tắt: believability của kết luận gây nhiễu phán đoán hợp lệ"
+    },
+    {
+     "url": "https://doi.org/10.3758/BF03196976",
+     "quote": "On the conflict between logic and belief in syllogistic reasoning (Evans, Barston & Pollard, Memory & Cognition 11(3):295-306, 1983)",
+     "where": "metadata qua api.crossref.org"
+    }
+   ]
+  },
+  {
+   "text": "Ví dụ 'Mọi người tốt đều giúp đỡ người khác. Chị Lan giúp đỡ. Vậy chị Lan tốt' có khuôn khẳng định hậu kiện; trong tam đoạn luận gọi là trung từ không chu diên",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "failing to distribute the middle term over at least one of the other terms is the fallacy of undistributed middle.",
+     "where": "entry Undistributed Middle"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "All C are A. All D are A. Therefore, all C are D.",
+     "where": "entry Undistributed Middle"
+    }
+   ]
+  },
+  {
+   "text": "Phản ví dụ: kẻ lừa đảo cũng hay giúp đỡ để lấy lòng tin; cảm giác 'nghe đúng' không phải bằng chứng hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "A deductive argument is said to be valid if and only if it takes a form that makes it impossible",
+     "where": "validity"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Lời giải thích 'lười kiểm tra' là mô hình default-interventionist; bài 2017 ủng hộ mô hình song song. Bài chỉ nói 'một phần' nên chấp nhận. Không mở được tóm tắt gốc Evans 1983 (Springer chặn); chỉ có metadata."
+}

@@ -1,0 +1,82 @@
+{
+ "unit": "cong-cu/nguy-bien-hinh-thuc.md#tu-kiem-tra",
+ "hash": "sha256:6201107917ee234aeeb32710931226f09f7039cc6dd9a2b155efd1610e79e08c",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p11",
+ "claims": [
+  {
+   "text": "Quiz 1 (answer 1): ngụy biện hình thức sai ở cấu trúc suy luận; phương án 0,2,3 sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A formal fallacy can be detected by examining the logical form of the reasoning.",
+     "where": "formal vs informal"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "Formal fallacies are those readily seen to be instances of identifiable invalid logical forms",
+     "where": "Introduction"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 2 (answer 0): nếu P thì Q; không P; vậy không Q = phủ định tiền kiện, không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "entry Denying the Antecedent"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 3 (answer 1): cay hoặc mặn (bao hàm); cay; vậy không mặn = khẳng định một vế của tuyển bao hàm, không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is used for disjunction in the inclusive sense",
+     "where": "disjunction"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 4 (answer 0): nếu P thì Q; vậy nếu Q thì P = đảo ngược mệnh đề, không hợp lệ; ví dụ chó/động vật có vú đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
+     "where": "truth table of the conditional"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 5 (answer 1): kết luận của ngụy biện hình thức có thể đúng tình cờ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both invalid, as well as valid but unsound, arguments can nevertheless have true conclusions",
+     "where": "validity"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Năm đáp án đều đúng, phương án nhiễu đều sai (tự kiểm bằng bảng chân trị). Quiz id fallacy-2 không đổi."
+}

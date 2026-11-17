@@ -1,0 +1,82 @@
+{
+  "unit": "cong-cu/dinh-nghia-phan-vi-du.md#tu-kiem-tra",
+  "hash": "sha256:aa47d04e979b831aca5e73eb17ba0d365a2021a71de916768511f271070c10e6",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p05",
+  "claims": [
+    {
+      "text": "Câu 1: answer 2 \"vừa cần vừa đủ\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "is composed of simpler concepts that express necessary and sufficient conditions for falling under C",
+          "where": "Section 2.1"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: answer 1 (phản ví dụ = trường hợp định nghĩa nói \"phải\" mà trực giác nói \"không phải\" hoặc ngược lại)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "quote": "A definition is extensionally adequate iff there are no actual counterexamples to it.",
+          "where": "Mục adequacy"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: answer 2 \"Niềm tin đúng được biện minh vẫn chưa đủ cho tri thức\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/gettier/",
+          "quote": "His belief is true and justified, but",
+          "where": "Case 10 xu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Gettier’s paper launched a flurry of philosophical activity by epistemologists attempting to revise the JTB theory.",
+          "where": "Mục Gettier"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: answer 1 \"Quá hẹp\" cho \"chim là động vật biết bay\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "is composed of simpler concepts that express necessary and sufficient conditions for falling under C",
+          "where": "Section 2.1"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: answer 1 (tương đồng gia đình, không có bản chất chung) và explain \"PI §§66–67\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://wab.uib.no/agora/tools/wab/collection-3-issue-1-article-4.annotate",
+          "quote": "And I shall say: 'games' form a family.",
+          "where": "PI §67"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một đáp án đúng duy nhất mỗi câu; các phương án nhiễu đều sai (câu 3: \"luôn là tri thức\", \"luôn đúng\", \"không cần niềm tin\" sai; câu 4: \"quá rộng\" sai vì đà điểu bị loại; câu 5: \"mọi định nghĩa đều quá hẹp\" và \"trò chơi nào cũng có thắng thua\" sai theo §66)."
+}

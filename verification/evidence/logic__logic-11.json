@@ -1,0 +1,49 @@
+{
+ "unit": "logic/logic-11",
+ "hash": "sha256:bf6d76954fbfc0b480830ad9367c29d18fbba2ff7f63052e1fa884f69b6120b1",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02",
+ "claims": [
+  {
+   "text": "dap_an: hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): không có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "DeMorgan’s Laws (DM):",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich: Modus Tollens cho ¬(P∨Q), rồi De Morgan",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus tollens (MT):"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "DeMorgan’s Laws (DM):"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề."
+}

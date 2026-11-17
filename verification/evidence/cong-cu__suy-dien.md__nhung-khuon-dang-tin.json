@@ -1,0 +1,129 @@
+{
+ "unit": "cong-cu/suy-dien.md#nhung-khuon-dang-tin",
+ "hash": "sha256:c2831e5d9cfab2d8556311a0f17cb69e8b21ecd36ebd584359593ec0838ac1cb",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Tính hợp lệ phụ thuộc hình thức, không phụ thuộc nội dung",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "the validity or invalidity of an argument is determined entirely by its logical form"
+    }
+   ]
+  },
+  {
+   "text": "Tiền kiện (P) và hậu kiện (Q) trong 'nếu P thì Q'",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "we call α the antecedent, and we call β the consequent",
+     "where": "Section 3.b"
+    }
+   ]
+  },
+  {
+   "text": "Modus ponens: nếu P thì Q; P; vậy Q",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent.",
+     "where": "Section 5.a"
+    }
+   ]
+  },
+  {
+   "text": "Modus tollens: nếu P thì Q; không Q; vậy không P",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent.",
+     "where": "Section 5.a"
+    }
+   ]
+  },
+  {
+   "text": "Tam đoạn luận nhất quyết 'Barbara' do các nhà logic thời Trung cổ đặt tên; Mọi M là P, Mọi S là M, vậy Mọi S là P",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+     "quote": "The second column lists the medieval mnemonic name associated with the inference.",
+     "where": "Mục 5.4; bảng hàng thứ nhất: Aab, Abc ⊢ Aac, 'Barbara'"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "a syllogism relates two or more premises and a single conclusion",
+     "where": "phần mở đầu"
+    }
+   ]
+  },
+  {
+   "text": "Tam đoạn luận giả định (nếu P thì Q; nếu Q thì R; vậy nếu P thì R) hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Hypothetical syllogism is sometimes also called \"chain reasoning\" or \"chain deduction\".",
+     "where": "Section 5.b"
+    }
+   ]
+  },
+  {
+   "text": "Tam đoạn luận lựa chọn (P hoặc Q; không P; vậy Q) hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing one disjunct of a disjunction on the basis of the disjunction and the negation of the other disjunct.",
+     "where": "Section 5.a"
+    }
+   ]
+  },
+  {
+   "text": "'P hoặc Q; P; vậy không Q' không hợp lệ vì 'hoặc' thường để ngỏ khả năng cả hai đúng (hoặc loại trừ chỉ khi nói rõ)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is true if either α is true or β is true, or both α and β are true",
+     "where": "Section 3.b (disjunction inclusive: 'if either α is true or β is true, or both α and β are true')"
+    }
+   ]
+  },
+  {
+   "text": "Ví dụ Socrates 'Mọi người đều phải chết; Socrates là người...' hợp lệ; modus tollens là công cụ bác bỏ giả thuyết khi dự đoán không xảy ra",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent.",
+     "where": "Section 5.a"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ví dụ đời thường tự kiểm bằng logic. Câu 'quan hệ vòng tròn' là minh họa, không phải claim cần nguồn."
+}

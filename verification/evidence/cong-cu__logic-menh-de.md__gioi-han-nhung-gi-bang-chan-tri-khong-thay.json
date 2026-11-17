@@ -1,0 +1,46 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#gioi-han-nhung-gi-bang-chan-tri-khong-thay",
+ "hash": "sha256:cdb768ee2b154a62ba4d50cf398bdc690e8942413421f54c8940796dcfc8fb87",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03",
+ "claims": [
+  {
+   "text": "Logic mệnh đề coi mỗi mệnh đề là khối không chia được, không xử lý được lượng từ ('mọi', 'tồn tại') và vị từ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "propositional logic does not study those logical properties and relations that depend upon parts of statements",
+     "where": "§1"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "which are not treated in propositional logic",
+     "where": "§2 History, về lượng từ 'all', 'some'"
+    }
+   ]
+  },
+  {
+   "text": "Tam đoạn luận 'Mọi người đều phải chết; Socrates là người; vậy Socrates phải chết' không suy được trong logic mệnh đề, cần logic vị từ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "dealt with the logic of categories and quantifiers such as 'all', and 'some', which are not treated in propositional logic",
+     "where": "§2 History"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ghi chú: trang IEP không dùng cụm 'predicate logic'; claim vẫn đúng."
+}

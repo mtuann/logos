@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-077",
+  "hash": "sha256:f0899c0308a40c434720e5d9125e754054290c48318c18d6c72118633175144e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: red-herring",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Việc tạo công ăn việc làm và làm từ thiện là chuyện khác hẳn chất lượng cây cầu. Câu trả lời kéo người nghe sang hình ảnh tốt đẹp của công ty và bỏ ngỏ câu hỏi về vết nứt.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.tu-quoque: Ông không nói phóng viên hay ai khác cũng mắc lỗi tương tự.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone’s argument not to perform some act must be faulty because the arguer himself or herself has performed it.",
+          "where": "Tu Quoque"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Ông không tấn công phóng viên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Không có chuyên gia nào được viện dẫn để chứng minh cầu an toàn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

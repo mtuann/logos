@@ -1,0 +1,105 @@
+{
+ "unit": "cong-cu/lap-luan-la-gi.md#viet-lap-luan-o-dang-chuan",
+ "hash": "sha256:843d0bdbaab9359f217974aab06d3754b78fa7e6896f362e8dd87b300999dc53",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p01",
+ "claims": [
+  {
+   "text": "Viết lại ở dạng chuẩn: mỗi tiền đề một dòng, đánh số, kẻ vạch, viết kết luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "Section 3"
+    }
+   ]
+  },
+  {
+   "text": "P1, P2 ∴ K; ∴ là dấu 'vậy'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "Section 3 (SEP không bàn riêng ký hiệu ∴; ∴ = 'therefore' là quy ước ký hiệu chuẩn, tự kiểm)"
+    }
+   ]
+  },
+  {
+   "text": "Ký hiệu ⊢ trong sách logic: P1, P2 ⊢ K là khẳng định mạnh hơn, rằng K suy ra được từ P1 và P2 theo quy tắc logic",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "We write Γ ⊢ φ to indicate that φ is deducible from Γ, or, in other words, that the argument ⟨Γ, φ⟩ is deducible in D.",
+     "where": "SEP Classical Logic"
+    }
+   ]
+  },
+  {
+   "text": "Hai câu hỏi: tiền đề có đúng không? Nếu đúng, có ủng hộ kết luận không?",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "\"acceptable\" premises and a \"valid\" inference",
+     "where": "Section 4.1: lập luận tốt = tiền đề chấp nhận được + suy luận hợp lệ (đoạn WebFetch tóm tắt, chữ 'acceptable'/'valid')"
+    }
+   ]
+  },
+  {
+   "text": "giả định ngầm: đại loại 'nếu bất tiện về sạc và pin xuống cấp nhanh thì không đáng mua'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "syllogisms with unstated premises",
+     "where": "Section 3.1 (enthymeme, tiền đề ngầm khi dựng lại lập luận)"
+    }
+   ]
+  },
+  {
+   "text": "Câu hỏi thứ hai, khi lập luận nhắm đến sự chắc chắn, là chuyện hợp lệ (valid); khi nhắm đến 'có lẽ đúng' là chuyện mạnh hay yếu",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "one whose premises render the conclusion likely"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "impossible for its premises to be true and its conclusion false",
+     "where": "Section 4.1, định nghĩa hợp lệ diễn dịch"
+    }
+   ]
+  },
+  {
+   "text": "Lập luận 'chung cư không có trạm sạc, pin chai ba năm => không nên mua' vẫn có thể bị đối lại: 'vẫn nên mua vì tiền xăng tiết kiệm lớn hơn tiền thay pin'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "\"acceptable\" premises and a \"valid\" inference",
+     "where": "Section 4.1: hai tiêu chí tách biệt"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": ""
+}

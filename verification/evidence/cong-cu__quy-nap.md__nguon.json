@@ -1,0 +1,82 @@
+{
+ "unit": "cong-cu/quy-nap.md#nguon",
+ "hash": "sha256:1e0fd159ed3111fd1e979b68319a37f168abbb40f23a4a7b5963f5613c791076",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p06",
+ "claims": [
+  {
+   "text": "Nguồn 1: Leah Henderson, The Problem of Induction, SEP.",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+     "quote": "Copyright © 2022 by Leah Henderson",
+     "where": "cuối trang"
+    }
+   ]
+  },
+  {
+   "text": "Nguồn 2: Igor Douven, Abduction, SEP.",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+     "quote": "Igor Douven",
+     "where": "trang SEP, tác giả giữ bản quyền"
+    }
+   ]
+  },
+  {
+   "text": "Nguồn 3: Timothy Shanahan, Deductive and Inductive Arguments, IEP.",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "Timothy Shanahan, Loyola Marymount University",
+     "where": "đầu bài"
+    }
+   ]
+  },
+  {
+   "text": "Nguồn 4: Qu, Hsueh & Elizabeth S. Radcliffe, David Hume, SEP.",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+     "quote": "Hsueh Qu and Elizabeth S. Radcliffe",
+     "where": "tác giả"
+    }
+   ]
+  },
+  {
+   "text": "Nguồn 5: David Hume, An Enquiry concerning Human Understanding (1748), Gutenberg ebook 9662.",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "kb": "sources/gutenberg.9662"
+  },
+  {
+   "text": "Nguồn 6: Peter Lipton, Inference to the Best Explanation, ấn bản 2, Routledge, 2004.",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://www.routledge.com/Inference-to-the-Best-Explanation/Lipton/p/book/9780415242028",
+     "quote": "Inference to the Best Explanation; Peter Lipton; 2nd Edition; Routledge; Copyright 2004"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Mọi URL SEP/IEP khớp bản ghi kho đã đóng băng (sources/sep.induction-problem, sep.abduction, iep.deductive-inductive-arguments, sep.hume, gutenberg.9662). Gutenberg trả 503 trong phiên nên dùng kb. Nguồn 4 ghi năm (2026) là năm bản lưu, SEP Hume không kiểm được năm bản sửa gần nhất; không đánh sai."
+}

@@ -1,0 +1,53 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#nham-lan-pho-bien-dao-can-thanh-du-va-nguoc-lai",
+  "hash": "sha256:2a691bab4dc4d571125a380bce34e117c61e530b898e09888ee44e75bb90c66a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04",
+  "claims": [
+    {
+      "text": "Nhầm lẫn kinh điển là tưởng điều kiện cần cũng là đủ (học giỏi cần cho thành công, chưa đủ; bằng đại học chỉ là điều kiện cần trong nhiều ngành)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "in some contexts there is a lack of reciprocity between necessary and sufficient conditions",
+          "where": "SEP: không đối xứng"
+        }
+      ]
+    },
+    {
+      "text": "Chiều ngược: tưởng điều kiện đủ cũng là cần, tức tưởng chỉ có một con đường (muốn giàu thì phải học đại học)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "in some contexts there is a lack of reciprocity between necessary and sufficient conditions",
+          "where": "SEP: không đối xứng"
+        }
+      ]
+    },
+    {
+      "text": "Câu 'nếu P thì Q' chỉ nói P đủ cho Q. Khẳng định hậu kiện chính là tưởng Q cũng đủ cho P, hay tưởng P là cần cho Q",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the truth of the consequent, “q”, is necessary for the truth of the antecedent, “p”",
+          "where": "Standard theory: antecedent đủ, consequent cần; đảo lại là lỗi khẳng định hậu kiện"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hệ quả logic đúng: P→Q, Q đúng thì không suy ra P (khẳng định hậu kiện). Chuyện chị Thu khớp docs/cong-cu/suy-dien.md. Các ví dụ 'học giỏi', 'bằng đại học' là nhận định đời thường của site, trình bày có giới hạn ('nhiều ngành')."
+}

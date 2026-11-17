@@ -1,0 +1,66 @@
+{
+ "unit": "fallacies/f-040",
+ "hash": "sha256:5712c681eb96ca3596dbc7037fef695a12b94c4cea46b675eff202873607ac06",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: ad-hominem",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "is deciding whether the personal attack is relevant or irrelevant"
+    }
+   ]
+  },
+  {
+   "text": "options: none, red-herring, genetic: genetic không hợp lý vì IEP chỉ xếp genetic khi chê nguồn gốc quan điểm, ở đây chê tiền sử người nói; none bị loại vì báo giá kiểm tra được tại chỗ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the fallacy focuses on a complaint about the origin of the arguer’s views, then it is a kind of Genetic Fallacy"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "is deciding whether the personal attack is relevant or irrelevant"
+    }
+   ]
+  },
+  {
+   "text": "explanation: Giá của B kiểm tra được ngay trên bảng báo giá; dùng tiền sử để gạt ý kiến là công kích cá nhân",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing."
+    }
+   ]
+  },
+  {
+   "text": "why_not.none / genetic / red-herring",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "is deciding whether the personal attack is relevant or irrelevant"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the fallacy focuses on a complaint about the origin of the arguer’s views, then it is a kind of Genetic Fallacy"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Có thể có người đọc là genetic (nguồn của ý kiến), nhưng IEP phân biệt như đã trích; không coi là tranh chấp nghiêm trọng."
+}

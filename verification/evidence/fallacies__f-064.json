@@ -1,0 +1,97 @@
+{
+  "unit": "fallacies/f-064",
+  "hash": "sha256:d0241ec9c578b2aea8b852313c4fb25fdd3c925d354271698d045b943c8c484d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: none",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+          "where": "Appeal to Authority"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This can happen when non-experts parade as experts in fields in which they have no special competence—when, for example, celebrities endorse commercial products or social movements.",
+          "where": "mục 1.9"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Chị Thủy là chuyên gia đúng lĩnh vực, nêu lý do cụ thể và dựa vào khuyến cáo mà giới chuyên môn đồng thuận. Tin theo lời khuyên như vậy là hợp lý.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Viện dẫn thẩm quyền chỉ là ngụy biện khi người được dẫn không có chuyên môn hoặc giới chuyên môn còn bất đồng; ở đây không phải vậy.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Không có lời kêu gọi cảm xúc nào; có một lý do cụ thể về nguy cơ ngộ độc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Khuyến cáo đến từ giới chuyên môn, không phải từ việc nhiều người tin.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Chị Thủy … nêu lý do cụ thể và dựa vào khuyến cáo mà giới chuyên môn đồng thuận (và passage: “Không nên cho trẻ dưới 1 tuổi ăn mật ong vì nguy cơ ngộ độc”)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+          "quote": "Parents and caregivers are therefore warned not to feed honey to the infants before the age of 1 year.",
+          "where": "Infant botulism"
+        },
+        {
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+          "quote": "Do not give your child honey until they're over 1 year old.",
+          "where": "Honey"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án none đúng. Khuyến cáo mật ong dưới 12 tháng xác nhận bằng WHO và NHS; không mở được trang AAP/CDC (CDC chặn, AAP 404) nên cụm \"các hiệp hội nhi khoa\" chưa đối chiếu riêng, nhưng nội dung khuyến cáo đúng."
+}

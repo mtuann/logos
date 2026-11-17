@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-025",
+ "hash": "sha256:8e6d6d0fce613c9d4d04ad0102ea23934ce15002d4bc16cb243b04953ea1ec9a",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: none (modus tollens hợp lệ)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Nếu P thì Q; không Q; vậy không P là dạng hợp lệ (P = bo mạch cháy, Q = đèn không sáng; \"đèn vẫn sáng\" là không Q). Tự kiểm bằng logic: bảng chân trị loại (P→Q, ¬Q) ⊨ ¬P",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional."
+    }
+   ]
+  },
+  {
+   "text": "why_not.denying-antecedent: phủ định tiền kiện là không P, vậy không Q; ở đây vế bị phủ định là vế sau",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent."
+    }
+   ]
+  },
+  {
+   "text": "why_not.affirming-consequent / hasty-generalization: không khẳng định vế sau; không khái quát từ mẫu nhỏ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin."
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Đã tự kiểm hợp lệ của modus tollens bằng bảng chân trị (4 dòng): chỉ dòng P=F,Q=F thỏa cả hai tiền đề, và ở đó ¬P đúng."
+}

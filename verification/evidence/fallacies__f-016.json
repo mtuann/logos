@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-016",
+  "hash": "sha256:584e606dadeca303dde39d0dbfb553730686e466f2842963b90a2a28a23bc05b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: red-herring",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Câu trả lời chuyển sang một thành tích chẳng liên quan gì đến việc giao hàng trễ. Câu hỏi của khách vẫn bị bỏ ngỏ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Nhân viên không lấy số đông làm bằng chứng cho một kết luận về đơn hàng; chuyện bình chọn chỉ để lái câu chuyện đi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "that someone’s claim or argument is correct simply because it’s what most everyone believes",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Không có chuyên gia hay người có thẩm quyền nào được viện dẫn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "mục Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.straw-man: Câu hỏi của khách không bị xuyên tạc; nó bị né tránh.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "you attribute an easily refuted position to your opponent, one that the opponent would not endorse",
+          "where": "mục Straw Man"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Né câu hỏi bằng thành tích không liên quan: đánh lạc hướng. Không phương án nào khác hợp lý."
+}

@@ -1,0 +1,68 @@
+{
+ "unit": "fallacies/f-084",
+ "hash": "sha256:d73626beec5006eb034e03ab17169b3fcc3f342d1a608b63edc178a96a21efa3",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: ad-hominem (công kích động cơ của chị Mai để bác số liệu)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "it is alleged that their position is supported by self-interest rather than by good evidence",
+     "where": "mục 12, circumstantial ad hominem"
+    }
+   ]
+  },
+  {
+   "text": "why_not.genetic: ngụy biện nguồn gốc nhắm vào hoàn cảnh ra đời của ý tưởng; ở đây là động cơ người tranh luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant",
+     "where": "Genetic Fallacy"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "it is alleged that their position is supported by self-interest rather than by good evidence",
+     "where": "mục 12, circumstantial ad hominem"
+    }
+   ]
+  },
+  {
+   "text": "why_not.tu-quoque: trưởng phòng không nói chị Mai cũng chi vượt ngân sách",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "must be faulty because the arguer himself or herself has performed it",
+     "where": "Tu Quoque"
+    }
+   ]
+  },
+  {
+   "text": "why_not.red-herring: có lái đi nhưng cách lái là nhắm vào người nói nên chính xác hơn là công kích cá nhân",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information",
+     "where": "Red Herring"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "it is alleged that their position is supported by self-interest rather than by good evidence",
+     "where": "mục 12, circumstantial ad hominem"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Đây là ad hominem hoàn cảnh (circumstantial) theo SEP; khớp với \"ad-hominem\" của site. Genetic có chút gần nhưng why_not đã phân biệt đúng; không coi là tranh chấp."
+}

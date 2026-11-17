@@ -1,0 +1,118 @@
+{
+  "unit": "thi-nghiem/gettier",
+  "hash": "sha256:75f3d1da7c8d7106d7b9d46653263d4b457ce867e8a40e9ac5a509ad8f82e221",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03",
+  "claims": [
+    {
+      "text": "nguon: Gettier (1963)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "Edmund L. Gettier, \"Is Justified True Belief Knowledge?\", Analysis 23 (1963): 121-123."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Gettier (1963) ... Analysis, 23(6): 121–123",
+          "where": "Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "hoan_canh: Smith, Jones, việc làm, 10 đồng xu; giám đốc nói Jones được nhận; Smith đếm xu của Jones; thực ra Smith được nhận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "the president of the company assured him that Jones would in the end be selected ... he, Smith, had counted the coins in Jones's pocket ten minutes ago",
+          "where": "Case I"
+        },
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "But imagine, further, that unknown to Smith, he himself, not Jones, will get the job.",
+          "where": "Case I"
+        },
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "Proposition (e): The man who will get the job has ten coins in his pocket.",
+          "where": "Case I"
+        }
+      ]
+    },
+    {
+      "text": "kết luận Gettier: Smith không biết (e); JTB chưa đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "But it is equally clear that Smith does not know that (e) is true.",
+          "where": "Case I"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "it is widely accepted that they are not themselves sufficient",
+          "where": "Gettier"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Weinberg, Nichols & Stich (2001); nhiều người Đông Á và Nam Á nói \"Smith biết\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/experimental-philosophy/",
+          "quote": "Weinberg, Nichols, and Stich 2001, \"Normativity and Epistemic Intuitions\", Philosophical Topics, 29(1/2): 429–460",
+          "where": "Bibliography"
+        },
+        {
+          "url": "https://home.csulb.edu/~cwallis/382/readings/382/NEIPT.html",
+          "quote": "A majority of EAs say that Bob really knows (Appendix: 13 Really Knows, 10 Only Believes); SC: 14 vs 9",
+          "where": "Gettier-style Buick case"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Machery và cộng sự, \"Gettier Across Cultures\" (Noûs, 2017); trực giác Gettier khá phổ biến ở Brazil, Ấn Độ, Nhật Bản, Mỹ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/nous.12110",
+          "quote": "Gettier Across Cultures ... Noûs, vol 51, issue 3, pp 645–664 (online 2015, print Sept 2017); four cultural groups (Brazil, India, Japan, USA) ... people in all four sometimes judged a justified true belief not to be knowledge",
+          "where": "Crossref/abstract"
+        }
+      ]
+    },
+    {
+      "text": "phan_bien b: Williamson, tri thức là trước nhất, không phân tích được",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Knowledge might figure into some analyses, but it will do so in the analysans, not in the analysandum; Williamson 2000, Knowledge and Its Limits",
+          "where": "Knowledge first"
+        }
+      ]
+    },
+    {
+      "text": "lua_chon a: Bảo vệ định nghĩa JTB; b: Gettier: JTB chưa đủ; tri thức không thể là chuyện may mắn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Smith's belief is true only because of an unrelated fact; his justification rests on a false belief — a coincidence he does not know about",
+          "where": "Gettier case"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Machery và cộng sự: DOI ghi online 2015, in 2017 (Noûs 51(3)); bài dùng \"2017\" là năm số in, chấp nhận được. Nội dung Machery lấy từ Crossref (không mở được Wiley 403, PhilPapers 403), nên mức xác nhận là phần tóm tắt. Phép đối chiếu Weinberg: chữ trong bài gốc (home.csulb.edu) là mẫu Buick (Bob/Jill), không phải ví dụ 10 đồng xu; nhận định \"người Đông Á/Nam Á nói biết\" khớp số liệu (13/10 và 14/9). Bài của site đúng khi ghi đây là nghiên cứu năm 2001; lưu ý Seyedsayamdost (2015) không tái lập kết quả, bài không nhắc (không bắt buộc)."
+}

@@ -1,0 +1,58 @@
+{
+ "unit": "cong-cu/gia-dinh-ngam.md#vi-du-2-mot-binh-luan-tren-mang-xa-hoi",
+ "hash": "sha256:92ac74d088c348991eb7598804cdf6c3714ce6e4c1b199a154f381fa1f044597",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p07",
+ "claims": [
+  {
+   "text": "Mỗi bước là một modus ponens, nên cả chuỗi hợp lệ (P1,P2→K1; K1,P3→K2; K2,P4→K3)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "it would be impossible for the premises to be true and for the conclusion to be false",
+     "where": "IEP: hợp lệ; tự kiểm cấu trúc: ba bước modus ponens liên tiếp"
+    }
+   ]
+  },
+  {
+   "text": "P2 khái quát từ một lần thử duy nhất; dấu hiệu của khái quát vội vàng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A Hasty Generalization is a Fallacy of J[umping to Conclusions] in which the conclusion is a generalization.",
+     "where": "IEP Fallacies"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+     "where": "SEP Fallacies mục 2.3"
+    }
+   ]
+  },
+  {
+   "text": "P3: điều đúng hiện nay sẽ còn đúng về sau; chữ 'thay thế' mơ hồ (hoàn toàn vs một phần); phiên bản thiện chí 'chưa thể thay thế hoàn toàn trong vài năm tới' đáng tin hơn nhưng làm K2, K3 yếu đi",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "favors an interpretation of an argument which makes the argument as credible as possible",
+     "where": "mục 3.1"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Bình luận do site tự soạn. Câu hỏi tu từ viết lại thành tiền đề: hợp lý. Không có khẳng định thật về AI nào cần nguồn (không có số liệu)."
+}

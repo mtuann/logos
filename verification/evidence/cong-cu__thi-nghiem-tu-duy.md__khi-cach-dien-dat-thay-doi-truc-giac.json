@@ -1,0 +1,46 @@
+{
+  "unit": "cong-cu/thi-nghiem-tu-duy.md#khi-cach-dien-dat-thay-doi-truc-giac",
+  "hash": "sha256:3bdff7d90f78f5d05a445f7e21fc350652c8bfab3ecc71af627f6c3271083fb2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p13",
+  "claims": [
+    {
+      "text": "Hiệu ứng đóng khung (framing effect): trực giác nhạy với cách diễn đạt, không chỉ nội dung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7455683&retmode=xml",
+          "quote": "produce predictable shifts of preference when the same problem is framed in different ways",
+          "where": "Abstract"
+        },
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7455683&retmode=xml",
+          "quote": "questions pertaining to the loss of human lives",
+          "where": "Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Nếu trực giác đổi theo cách diễn đạt thì thứ ta tin có thể không phải nguyên tắc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7455683&retmode=xml",
+          "quote": "The dependence of preferences on the formulation of decision problems is a significant concern for the theory of rational choice.",
+          "where": "Abstract"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tversky và Kahneman nghiên cứu khung trong chọn lựa (bệnh dịch, tiền), không phải riêng trường hợp xe điện; bài chỉ dùng như minh họa, chấp nhận được. Hai cách hỏi cứu năm/giết một do site soạn. Nguồn 2 khớp: Crossref ghi Science 211(4481), 30/01/1981, tr. 453-458."
+}

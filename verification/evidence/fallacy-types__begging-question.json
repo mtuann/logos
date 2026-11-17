@@ -1,0 +1,39 @@
+{
+ "unit": "fallacy-types/begging-question",
+ "hash": "sha256:7a8885a337e0e7c136eba1d3ff5b866a1dadf76c5d816e4d37902c5e2b490694",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Begging the question / circular reasoning; định nghĩa: kết luận đã giả định sẵn trong tiền đề, có khi nói lại bằng lời khác",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+     "where": "Begging the Question"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "albeit expressed in different words",
+     "where": "§1 item 5"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: tiền đề có cơ sở độc lập với kết luận (suy ra từ định nghĩa 'presuppose the conclusion')",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "premises that presuppose the conclusion",
+     "where": "Begging the Question"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

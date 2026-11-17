@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-087",
+ "hash": "sha256:07e36cc28476c69464ddee623a5a0898a9ece31d14fc5e85831604ccfa554d61",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: appeal-emotion (khơi cảm giác tội lỗi của cha mẹ thay vì số liệu)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief",
+     "where": "Appeal to Emotions"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-nature: không nói sản phẩm tốt vì tự nhiên",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief",
+     "where": "Appeal to Emotions"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-authority: không viện dẫn chuyên gia hay người nổi tiếng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "fallacious whenever the authority appealed to is not really an authority in this particular subject",
+     "where": "Appeal to Authority"
+    }
+   ]
+  },
+  {
+   "text": "why_not.genetic: không đánh giá ý tưởng theo nguồn gốc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant",
+     "where": "Genetic Fallacy"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án tranh chấp. Appeal to nature không có mục riêng trong SEP/IEP (chỉ là phương án nhiễu, why_not là mô tả đoạn nên không cần nguồn định nghĩa)."
+}

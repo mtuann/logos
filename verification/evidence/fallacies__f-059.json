@@ -1,0 +1,106 @@
+{
+  "unit": "fallacies/f-059",
+  "hash": "sha256:2fc60e4a5e0841b9a919ddf84788342fa7b34f4c42d84e4a0f47f272bd88e0e8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: denying-antecedent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "options: denying-antecedent, affirming-consequent, hasty-generalization, appeal-ignorance; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Dạng lập luận: Nếu P thì Q; không P; vậy không Q. Hút thuốc là một nguồn nguy cơ, không phải nguồn duy nhất: người không hút vẫn có nguy cơ vì khói thuốc thụ động, ô nhiễm, di truyền.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.affirming-consequent: Anh Phong không suy ngược từ hậu kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-ignorance: Anh không dựa vào việc chưa ai chứng minh điều gì; anh dựa vào một câu điều kiện bị dùng sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Anh không khái quát từ vài trường hợp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP, phần Mill"
+        }
+      ]
+    },
+    {
+      "text": "explanation: người không hút vẫn có nguy cơ vì khói thuốc thụ động, ô nhiễm, di truyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cancer.gov/types/lung/patient/lung-prevention-pdq",
+          "quote": "The following are risk factors for lung cancer: Cigarette, cigar, and pipe smoking Secondhand smoke Family history",
+          "where": "Risk factors"
+        }
+      ]
+    },
+    {
+      "text": "explanation: ô nhiễm không khí làm tăng nguy cơ ung thư phổi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cancer.gov/types/lung/patient/lung-prevention-pdq",
+          "quote": "Air pollution: Studies show that living in areas with higher levels of air pollution increases the risk of lung cancer.",
+          "where": "Risk factors"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

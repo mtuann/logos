@@ -1,0 +1,45 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#tu-kiem-tra",
+  "hash": "sha256:9a55f7055b27e195d4feeb3c069f50a1ba5a0476e500e944c1becf76c6b95a51",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p09",
+  "claims": [
+    {
+      "text": "Quiz Q1: đáp án 1 (nắm bài muốn chứng minh điều gì); Q2: đáp án 2 (tóm tắt bằng lời mình); Q3: đáp án 1; Q5: đáp án 2 — khớp nội dung các mục lượt một/hai/ba và ba-cai-bay",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the proposition that the premises are offered for is called the “conclusion”.",
+          "where": "Q1-Q3, Q5 là lời khuyên phương pháp của site; đã đối chiếu đáp án với chính thân bài, các phương án nhiễu đều sai theo thân bài"
+        }
+      ]
+    },
+    {
+      "text": "Quiz Q4: đáp án 2 ('Đúng đắn' đồng nghĩa với 'làm giảm tội phạm') là giả định ngầm; 'trừng phạt làm giảm tội phạm' là tiền đề nói thẳng; 'nên trừng phạt nghiêm khắc' là kết luận; 'trừng phạt nhẹ hiệu quả hơn' trái đoạn văn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed.",
+          "where": "tiền đề bị lược = giả định ngầm"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "simply the view that normative properties depend only on consequences"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mọi đáp án quiz đúng; phương án nhiễu thật sự sai. Chỉ một đáp án đúng cho mỗi câu. data-id intro-2 không đổi."
+}

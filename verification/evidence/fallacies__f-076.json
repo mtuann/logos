@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-076",
+  "hash": "sha256:e82b933f8f159f174b565f444bb908b4420cbf5c40e75df1d2a7958d4368381e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: appeal-popularity",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "that something is widely practised or believed is not compelling evidence that it is true or that it should be done.",
+          "where": "mục 1.10"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Lượt chia sẻ đo mức lan truyền, không đo sự thật. Một tuyên bố y học cần nghiên cứu kiểm chứng, không cần nhiều người bấm nút chia sẻ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "that something is widely practised or believed is not compelling evidence that it is true or that it should be done.",
+          "where": "mục 1.10"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-nature: Bác Tư không lập luận rằng chanh tốt vì nó tự nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Is-Ought Fallacy occurs when a conclusion expressing what ought to be so is inferred from premises expressing only what is so",
+          "where": "Is-Ought"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-ignorance: Bác Tư không nói “chưa ai chứng minh sai nên đúng”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Not knowing that a statement is false is taken to be a proof that it is true.",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Không có hai sự kiện nối tiếp nào được coi là nhân quả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B.",
+          "where": "Post Hoc"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

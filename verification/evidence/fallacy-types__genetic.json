@@ -1,0 +1,34 @@
+{
+ "unit": "fallacy-types/genetic",
+ "hash": "sha256:41831e2779543f5079ebc59e97b9ec1825a0fd96fa05d00d1396643e16ab4ba4",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Genetic fallacy; định nghĩa: đánh giá chỉ dựa vào nguồn gốc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "because of its origin (genesis) when such an appeal to origins is irrelevant",
+     "where": "Genetic Fallacy"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: nguồn gốc ảnh hưởng độ tin cậy (nguồn tin bịa); là lý do kiểm chứng thêm",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Because appeals to origins are sometimes relevant and sometimes irrelevant",
+     "where": "Genetic Fallacy"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

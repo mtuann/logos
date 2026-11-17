@@ -1,0 +1,68 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#nguon",
+  "hash": "sha256:4b550dc67645918aeed8dfb72dc23ba55f7138c545cca6f86a8e6275b5383bd5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p14",
+  "claims": [
+    {
+      "text": "Nguồn 1: Nails, Debra & S. Sara Monoson, \"Socrates\", SEP, bản lưu fall2026.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.socrates"
+    },
+    {
+      "text": "Nguồn 2: James M. Ambury, \"Socrates\", IEP.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/iep.socrates"
+    },
+    {
+      "text": "Nguồn 3: Platon, Euthyphro, bản dịch Benjamin Jowett, Gutenberg #1642.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1642"
+    },
+    {
+      "text": "Nguồn 4: Platon, Biện hộ của Socrates (Apology), bản dịch Benjamin Jowett, Gutenberg #1656.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1656"
+    },
+    {
+      "text": "Tác giả SEP \"Socrates\" là Debra Nails và S. Sara Monoson; IEP là James M. Ambury; Gutenberg 1642 và 1656 đều dịch bởi Jowett.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Copyright © 2022 by Debra Nails < nails @ msu . edu > S. Sara Monoson",
+          "where": "SEP Socrates, cuối trang"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "James M. Ambury",
+          "where": "IEP Socrates, cuối trang"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1642",
+          "quote": "Translator: Benjamin Jowett",
+          "where": "Gutenberg #1642 (bản lưu web.archive.org)"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "Translator: Benjamin Jowett",
+          "where": "Gutenberg #1656 (bản lưu web.archive.org)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả bốn dòng khớp đúng bản ghi sources/* đã đóng băng (kb). Ngoài ra tự mở lại: cả bốn URL mở được (Gutenberg qua bản lưu web.archive.org/web/2025 vì gutenberg.org bảo trì lúc kiểm); thông tin tác giả/dịch giả khớp. Ghi chú: bài còn cần dẫn SEP \"Plato's Ethics: An Overview\" (mục 2.1 aporetic procedure) và SEP \"Religion and Morality\" nếu muốn có nguồn cho \"aporia\" và \"thế lưỡng nan Euthyphro\"; không bắt buộc."
+}

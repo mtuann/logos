@@ -1,0 +1,47 @@
+{
+ "unit": "cong-cu/viet-doan-lap-luan.md#bon-phan-cua-mot-doan",
+ "hash": "sha256:761bc4bfef10119b49e0a041104f63037393101c02a39000372b02ab0bc8ab51",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p10",
+ "claims": [
+  {
+   "text": "Lý do ... Đây chính là các tiền đề của bạn.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a claim-reason complex",
+     "where": "Hitchcock 2007, định nghĩa lập luận: tiền đề, kết luận, suy luận nối"
+    }
+   ]
+  },
+  {
+   "text": "Lường trước phản biện: ... lập luận của bạn vì thế đáng tin hơn.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "kb": "sources/sach.gerald-graff-va-cathy-birkenstein-they-say-i-say-the-moves-t"
+  },
+  {
+   "text": "Lời giải thích nối lý do với luận điểm (lý do và luận điểm không tự dính vào nhau)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "an inference linking them",
+     "where": "Hitchcock: claim-reason complex gồm tiền đề, kết luận và suy luận nối"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Bốn phần của đoạn là khung sư phạm của site (kể cả thuật ngữ topic sentence), không phải dữ kiện; phần suy luận nối được đối chiếu SEP. Trang SEP đọc qua WebFetch, dạng tóm lược."
+}

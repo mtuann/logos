@@ -1,0 +1,77 @@
+{
+ "unit": "cong-cu/gia-dinh-ngam.md#tu-kiem-tra",
+ "hash": "sha256:b61bdc0f1ed90baa017a75d9bc51be69850a122c416717d74e8e1e769d2e88ae",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p07",
+ "claims": [
+  {
+   "text": "Quiz 1: đáp án B (nhà hàng nào đông khách thì đồ ăn ngon) làm lập luận hợp lệ; C là chiều ngược, khẳng định hậu kiện",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "it would be impossible for the premises to be true and for the conclusion to be false",
+     "where": "IEP: hợp lệ; tự kiểm: P1 (A) + 'A→B' ⊢ B modus ponens; 'B→A' không dẫn tới B (affirming the consequent)"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 2: đáp án B, thiện chí là chọn cách hiểu mạnh nhất trong phạm vi câu chữ; sai: đồng ý, bịa hay, không phản bác",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "favors an interpretation of an argument which makes the argument as credible as possible",
+     "where": "mục 3.1"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 3: đáp án B, lập luận hợp lệ thì điểm yếu dồn vào tiền đề; 'nếu kết luận đáng ngờ thì chắc chắn có tiền đề đáng ngờ'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "A sound argument is a valid argument with true premises.",
+     "where": "IEP: hợp lệ + tiền đề đúng = vững chắc; hợp lệ mà kết luận sai thì tiền đề phải có câu sai (từ định nghĩa hợp lệ)"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 4: đáp án A (từ 'là' sang 'nên' cần tiền đề về giá trị); các phương án còn lại sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "it applies to any attempt to argue from an “is” to an “ought,”",
+     "where": "IEP Fallacies, Naturalistic"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 5: đáp án C; tiền đề sai làm lập luận mất tính vững chắc nhưng không làm kết luận sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "A sound argument is a valid argument with true premises.",
+     "where": "IEP: vững chắc = hợp lệ + tiền đề đúng; tiền đề sai thì không vững chắc nhưng kết luận có thể vẫn đúng (suy từ định nghĩa hợp lệ)"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Cả 5 câu: một đáp án đúng duy nhất, các phương án nhiễu rõ ràng sai. Quiz 5 phương án A, B, D tuyệt đối hóa nên sai; chấp nhận được. Tự kiểm bằng logic: đồng ý."
+}

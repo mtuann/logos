@@ -1,0 +1,25 @@
+{
+ "unit": "fallacy-types/appeal-nature",
+ "hash": "sha256:1d94e56dc49783bf2e81269581d873d292000c10bd254c20b2293973b8102630",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Appeal to nature; định nghĩa 'tự nhiên thì tốt/an toàn, nhân tạo thì xấu' — SEP fall2026 'Fallacies' và IEP 'Fallacies' không có mục Appeal to Nature (IEP chỉ có 'Naturalistic': argue from is to ought).",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "not_fallacy_when: 'tự nhiên' chỉ là lời mô tả, an toàn được chứng minh bằng bằng chứng độc lập — không có nguồn SEP/IEP.",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "example: thuốc thảo dược nên không có tác dụng phụ (là chuyện kể của site; phần suy luận khớp khuôn)",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  }
+ ],
+ "result": "chua-kiem-duoc",
+ "notes": "SEP fall2026 Fallacies, IEP Fallacies: không có mục Appeal to Nature. Đã thử WebSearch trong plato.stanford.edu, iep.utm.edu: không có mục riêng. Định nghĩa là chuẩn thông dụng nhưng không có nguồn SEP/IEP."
+}

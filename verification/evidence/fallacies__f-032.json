@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-032",
+ "hash": "sha256:cd25af448b10d943356d08c5a7cd4c847e59d857831ecd69f8a4ee05101e8960",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: post-hoc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  },
+  {
+   "text": "options: appeal-authority, hasty-generalization, red-herring không hợp lý hơn; không phương án thứ hai hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Số vụ trộm giảm sau khi treo biển không có nghĩa là do biển (SEP đưa ví dụ cùng cấu trúc)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession."
+    }
+   ]
+  },
+  {
+   "text": "why_not.red-herring / hasty-generalization / appeal-authority",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

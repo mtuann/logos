@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-062",
+  "hash": "sha256:1f2b2d456a89cb28792c03757ec24dbf5cbe98e157a7c3d4861497c535cb0ed8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: hasty-generalization",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "I’ve met two people in Nicaragua so far, and they were both nice to me. So, all people I will meet in Nicaragua will be nice to me.",
+          "where": "Hasty Generalization, ví dụ"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Ba bình luận trong hơn 800 không đại diện cho ý kiến chung, nhất là khi phần lớn đánh giá là tốt. Thảo rút kết luận chung từ một mẫu rất nhỏ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Thảo không dựa vào một số đông thật sự; chị dựa vào rất ít người rồi tưởng là “mọi người”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-ignorance: Thảo không lập luận từ việc chưa ai chứng minh điều gì.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Not knowing that a statement is false is taken to be a proof that it is true.",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Đọc vài bình luận xấu để biết khách sạn có những rủi ro nào là hợp lý; kết luận “tệ lắm” thì không.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

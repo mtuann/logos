@@ -1,0 +1,68 @@
+{
+ "unit": "cong-cu/suy-dien.md#phuong-phap-phan-vi-du",
+ "hash": "sha256:aca5fc1515b1058afd9650a5aa52b63e5b0d324af2967b03d7725fbbedff6d2b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Phương pháp phản ví dụ: điền nội dung mới vào cùng hình thức sao cho tiền đề đúng, kết luận sai thì hình thức không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "One can represent the logical form of an argument by replacing the specific content words with letters used as place-holders or variables."
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "absence of counterexample",
+     "where": "mô hình lý thuyết của hệ quả logic"
+    }
+   ]
+  },
+  {
+   "text": "Ví dụ chó/mèo: 'Mọi con chó đều là động vật; con mèo nhà tôi là động vật; vậy con mèo nhà tôi là con chó' có tiền đề đúng, kết luận sai, cùng hình thức 'Mọi A là B; x là B; vậy x là A'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "Arguments with this form are invalid.",
+     "where": "ví dụ 'All A's are F; X is F; Therefore, X is an A'"
+    }
+   ]
+  },
+  {
+   "text": "Phản ví dụ không chứng minh kết luận sai (Lan có thể vẫn ăn chay), chỉ chứng minh lý do không đủ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "makes it impossible for the premises to be true and the conclusion nevertheless to be false"
+    }
+   ]
+  },
+  {
+   "text": "Hộp cảnh báo: phản ví dụ cần tiền đề đúng và kết luận sai không thể bàn cãi; ví dụ cá/mèo/chim có tiền đề sai nên không chứng minh gì",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "some way of manifesting the manner in which the premises of the argument fail to lead to a conclusion",
+     "where": "counterexample"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Tự kiểm logic: ví dụ Lan đúng hình thức 'Mọi A là B; x là B; vậy x là A' (ăn chay → không ăn bò). Ví dụ cá/chim/mèo: hình thức Mọi A là C; mọi B là C; vậy mọi A là B, tiền đề sai, đúng như bài nói."
+}

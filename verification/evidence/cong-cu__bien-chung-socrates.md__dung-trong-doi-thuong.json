@@ -1,0 +1,65 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#dung-trong-doi-thuong",
+  "hash": "sha256:924e9ec92d932024667fe261057806c4517e6e3fb9d4315c0cfddfd1d1291978",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p14",
+  "claims": [
+    {
+      "text": "Hai ví dụ (thành công = kiếm nhiều tiền; nhân viên giỏi = chăm chỉ) áp đúng các bước hỏi định nghĩa, tìm phản ví dụ, bế tắc, định nghĩa mới; phản ví dụ bác sĩ vùng cao, kỹ sư X và chị Y thật sự đánh vào định nghĩa (quá hẹp: bác sĩ thành công mà không giàu; quá rộng/sai: chị Y nhiều giờ nhưng không hiệu quả).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "too wide and include unwanted characteristics or subsets, or too narrow so that they exclude essential characteristics",
+          "where": "SEP Plato's Ethics mục 2.1: tiêu chuẩn \"quá rộng / quá hẹp\""
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "A typical Socratic elenchus is a cross-examination of a particular position, proposition, or definition",
+          "where": "IEP Socrates, mục Elenchus"
+        }
+      ]
+    },
+    {
+      "text": "Thử \"Thành công là sống đúng với điều mình cho là quan trọng\" rồi hỏi lại: kẻ lừa đảo cũng sống đúng với điều hắn cho là quan trọng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1642",
+          "quote": "Do you not recollect that there was one idea which made the impious impious, and the pious pious?",
+          "where": "Euthyphro 6d-e (Jowett): định nghĩa mới lại bị hỏi lại theo cùng cách"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Euthyphro appears to give five separate definitions of piety",
+          "where": "IEP Elenchus: vòng định nghĩa lặp"
+        }
+      ]
+    },
+    {
+      "text": "mỗi vòng vấn đáp không cho ta đáp án cuối cùng, nhưng nó lột bỏ dần những định nghĩa cẩu thả. Đó cũng là cách duy nhất để một khái niệm lớn (\"thành công\", \"tự do\", \"công bằng\") trở nên đáng tin.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "mỗi vòng vấn đáp không cho ta đáp án cuối cùng, nhưng nó lột bỏ dần những định nghĩa cẩu thả. Đó là một cách hữu hiệu để một khái niệm lớn (\"thành công\", \"tự do\", \"công bằng\") trở nên đáng tin hơn.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "Socrates contributed significantly to the development of such standards",
+          "where": "SEP Plato's Ethics 2.1: vấn đáp góp phần vào chuẩn định nghĩa, không nói là cách duy nhất"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Các ví dụ Bạn A, sếp, bác sĩ, kỹ sư X, chị Y do site tự soạn, không cần nguồn về chuyện kể; chỉ kiểm phần phân tích. \"Cách duy nhất\" là nói quá, mức nhẹ."
+}

@@ -1,0 +1,72 @@
+{
+ "unit": "lap-luan/sodo-12",
+ "hash": "sha256:55ab8e61ae986c634ce18fa37595e79a2a56af7722dd97643a675bfc22a7c66e",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3; c6 là giả định ngầm là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c6 là gia-dinh-ngam (điều cần để c2,c3 đỡ c5 nhưng không nói ra)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Arguments with implicit premises or conclusions are recognized in traditional discussions of enthymemes : syllogisms with unstated premises",
+     "where": "SEP Informal Logic, mục về thành phần ngầm"
+    }
+   ]
+  },
+  {
+   "text": "c2 và c3 đều vẽ mũi tên riêng tới c5 (ho_tro [c5]) tức độc lập",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "two or more “linked” premises combine to support a conclusion with a single inference",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "Ghi chú: c2 (sửa tốn một triệu) và c3 (máy mới gấp mười lần) là cặp so sánh liên kết (linked): mỗi câu một mình không đủ kết luận \"nên sửa\". Công cụ không thể hiện liên kết; nên thêm một câu giải thích ở trang hoặc ghi_chu."
+  }
+ ],
+ "result": "dat",
+ "notes": "c1 và c6 là chỗ phụ thuộc: c6 (máy còn dùng tốt vài năm sau sửa) là giả định ngầm hợp lý, duy nhất ứng viên ở Bước 2."
+}

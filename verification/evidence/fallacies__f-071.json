@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-071",
+  "hash": "sha256:d3d86aed247dedb2425628d29ca20e80ac1c9f265a870efad6dd19eb4a1c57f1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: red-herring",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Thành tích học sinh giỏi không nói gì về chuyện căng tin bán đồ ăn thế nào. Hiệu trưởng đưa ra một điểm mạnh khác để làm dịu phản ánh thay vì trả lời nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Không có chỗ nào dựa vào việc nhiều người tin hay làm theo.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Hiệu trưởng không viện dẫn một chuyên gia về dinh dưỡng hay ai khác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có kết luận chung rút ra từ vài trường hợp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

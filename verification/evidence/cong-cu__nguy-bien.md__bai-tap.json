@@ -1,0 +1,97 @@
+{
+ "unit": "cong-cu/nguy-bien.md#bai-tap",
+ "hash": "sha256:fd33b3ccc3103ef12a26cfc69b78f8a58470e15a77b1c9a086a32343612254a0",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p08",
+ "claims": [
+  {
+   "text": "Bài 1 đáp án: Anh cũng vậy (tu quoque); bác sĩ ăn mặn không đổi bằng chứng y học",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the value of advice is not wholly dependent on the integrity of the advisor",
+     "where": "SEP, tu quoque"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Discovering that a speaker is a hypocrite is a reason to be suspicious of the speaker’s reasoning",
+     "where": "IEP, Tu Quoque"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2 đáp án: dốc trơn trượt; thiếu lý do cho mắt xích",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Arguments of this form may or may not be fallacious depending on the probabilities involved in each step.",
+     "where": "IEP, Slippery Slope"
+    }
+   ]
+  },
+  {
+   "text": "Bài 3 đáp án: viện dẫn thẩm quyền phù hợp; khuyến cáo tiêm vắc-xin sởi phù hợp đồng thuận y khoa",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+     "where": "IEP, Appeal to Authority"
+    },
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/measles",
+     "quote": "Children should get two doses",
+     "where": "WHO Measles fact sheet: tiêm hai liều; vắc-xin 'the most effective way to prevent measles'"
+    }
+   ]
+  },
+  {
+   "text": "Bài 4 đáp án: 'ngụy biện về ngụy biện'; lấy một đợt nắng nóng làm bằng chứng là khái quát vội vàng; lập luận tồi cho X không chứng minh X sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A Hasty Generalization is a Fallacy of Jumping to Conclusions in which the conclusion is a generalization.",
+     "where": "IEP"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Truth can be obtained from bad reasoning if the errors cancel out.",
+     "where": "IEP"
+    }
+   ]
+  },
+  {
+   "text": "Bài 5 đáp án: có thể là đánh tráo khái niệm tùy nghĩa của 'tốt'; nếu 'mọi món chay đều tốt' thì hợp lệ nhưng tiền đề khó đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning.",
+     "where": "IEP"
+    },
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+     "quote": "Foods high in unhealthy fats, free sugars and sodium should be limited.",
+     "where": "WHO Healthy diet: món chế biến nhiều muối/dầu không tự động tốt"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Đáp án 5 bài đều đúng. Bài 5: modus ponens hợp lệ nếu P1 là 'mọi món chay đều tốt' (tự kiểm logic). Tiền đề 'ăn chay là tốt' có thể gây tranh cãi, đáp án đã nêu đúng."
+}

@@ -1,0 +1,45 @@
+{
+ "unit": "cong-cu/suy-dien.md#_dau",
+ "hash": "sha256:7208ca899502807508ca3669951cd6a6940250cb6cef3e7160a413a8448b3283",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Chị Thu: nếu trời mưa thì sân ướt; sân ướt; kết luận 'đêm qua mưa' sai dù tiền đề đúng (lỗi hình thức, không phải thông tin)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+     "where": "Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "if the premises are true, the conclusion must be true",
+     "where": "Section 1 (valid form)"
+    }
+   ]
+  },
+  {
+   "text": "Hợp lệ phụ thuộc cách đi từ tiền đề đến kết luận (hình thức), không chỉ thông tin",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "the validity or invalidity of an argument is determined entirely by its logical form"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Đoạn dẫn nhập tự soạn (nhân vật chị Thu); chỉ kiểm phần phân tích: đúng là khẳng định hậu kiện."
+}

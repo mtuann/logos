@@ -1,0 +1,80 @@
+{
+  "unit": "fallacies/f-078",
+  "hash": "sha256:239ee80545b5fce3092413545d3f80961cfdb6e442129f6b3d5680db8501e5de",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: none",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, the fallacy occurs when this degree of support is overestimated.",
+          "where": "Appeal to the People"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "that something is widely practised or believed is not compelling evidence that it is true or that it should be done.",
+          "where": "mục 1.10"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Câu hỏi ở đây là cả nhóm muốn gì, nên ý muốn của đa số là lý do thích đáng. Hòa không khẳng định chợ đêm “đúng” hay “tốt hơn” về mặt sự thật.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, the fallacy occurs when this degree of support is overestimated.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Theo số đông là ngụy biện khi dùng số đông để kết luận điều gì đúng; còn khi quyết định chuyện sở thích chung, biểu quyết là cách hợp lý.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, the fallacy occurs when this degree of support is overestimated.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Hòa không loại bỏ khả năng nào: tối đi chợ, mai vẫn đi hồ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Không có lời kêu gọi cảm xúc nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án none đúng vì câu hỏi là sở thích chung; IEP chỉ nói lỗi khi đa số được coi là bằng chứng cho sự thật. Không có phương án tranh chấp."
+}

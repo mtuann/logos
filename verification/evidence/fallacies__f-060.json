@@ -1,0 +1,68 @@
+{
+  "unit": "fallacies/f-060",
+  "hash": "sha256:05ed5c17d615c32f73930e5a569929fbc4ed220e5bad2b88c8c42e3067e4088e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: appeal-nature",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "options: post-hoc, red-herring, appeal-popularity, appeal-nature; không phương án nhiễu nào cũng hợp lý với đoạn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Cô Hương mặc định cách “tự nhiên” là tốt nhất mà không xét tác dụng thật của thuốc hạ sốt khi trẻ sốt cao. Tự nhiên hay không không quyết định điều gì an toàn hơn cho bé.",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "why_not.post-hoc: Không có chuyện gì được coi là nguyên nhân chỉ vì xảy ra trước.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Cô Hương không dựa vào việc nhiều người làm thế.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Cô không né câu hỏi nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Khái niệm không có mục riêng trong SEP \"Fallacies\" (fall2026) hay IEP \"Fallacy\" (đã tải, grep \"sunk\", \"Appeal to Nature\": 0 kết quả); cần nguồn khác, chưa mở được nguồn đáng tin nào trong phiên. Đối chiếu với bản ghi fallacy-types/appeal-nature cùng file: khớp lập luận của đoạn."
+}

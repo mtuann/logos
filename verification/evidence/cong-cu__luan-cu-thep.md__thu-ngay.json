@@ -1,0 +1,29 @@
+{
+  "unit": "cong-cu/luan-cu-thep.md#thu-ngay",
+  "hash": "sha256:7afbc60e5413485dd902fd1fcd63bcdb328682b98eea49418a0b0534e3f4ccde",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p15",
+  "claims": [
+    {
+      "text": "Đơn vị chỉ gồm khối <div class=\"oz-steelman\"></div> (công cụ tương tác), không có văn bản hay dữ kiện để kiểm; logic công cụ (steelman.js) không chấm điểm và dẫn 4 bước đúng như mô tả ở phần đầu trang",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "You should list any points of agreement",
+          "where": "Cơ sở khái niệm: quy tắc Rapoport"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đơn vị không chứa nội dung văn bản cần kiểm; mã băm chỉ phủ thẻ div. Các preset trong steelman.js không thuộc đơn vị này nên không kiểm."
+}

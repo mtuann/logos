@@ -1,0 +1,63 @@
+{
+ "unit": "fallacies/f-090",
+ "hash": "sha256:6b18763eb1182a127aac3bf8f40fd7a88230b0ec165db4365f67087c03152339",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: none (tiền sử sáu lần thất hứa là bằng chứng liên quan đến độ tin cậy lời hứa)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "not accepting a view or a recommendation because the espouser him- or herself does not follow it",
+     "where": "mục 13, tu quoque"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "it is alleged that their position is supported by self-interest rather than by good evidence",
+     "where": "mục 12, circumstantial ad hominem"
+    }
+   ]
+  },
+  {
+   "text": "why_not.ad-hominem: chị đánh giá độ tin cậy của lời hứa, quá khứ người hứa liên quan trực tiếp",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "it is alleged that their position is supported by self-interest rather than by good evidence",
+     "where": "mục 12, circumstantial ad hominem"
+    }
+   ]
+  },
+  {
+   "text": "why_not.tu-quoque: chị không nói anh cũng mắc lỗi chị bị phê bình",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "must be faulty because the arguer himself or herself has performed it",
+     "where": "Tu Quoque"
+    }
+   ]
+  },
+  {
+   "text": "why_not.hasty-generalization: sáu lần là mẫu đáng kể về chính hành vi và kết luận chỉ ở mức \"chưa tin ngay\"",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+     "where": "Hasty Generalization"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Khớp với not_fallacy_when của tu-quoque trong kho. Không có phương án tranh chấp. Claim ad hominem/ tu quoque chỉ nhằm xác nhận định nghĩa, còn nhận định \"quá khứ liên quan độ tin cậy\" là lập luận của site."
+}

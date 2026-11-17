@@ -1,0 +1,79 @@
+{
+  "unit": "cong-cu/dinh-nghia-phan-vi-du.md#socrates-va-nghe-thuat-phan-vi-du",
+  "hash": "sha256:e01488115e99b92e6db4333cf07ca1d7ff78bc2bc1d6b8669125870962be1342",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p05",
+  "claims": [
+    {
+      "text": "Trong Cộng hòa của Platon, Socrates liên tục hỏi \"công lý là gì?\" và dùng trường hợp cụ thể để thử các định nghĩa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/republic.2.i.html",
+          "quote": "speaking the truth and paying your debts is not a correct definition of justice",
+          "where": "Book I (Jowett), sau ví dụ gửi vũ khí cho người mất trí"
+        }
+      ]
+    },
+    {
+      "text": "Euthyphro định nghĩa \"mộ đạo là điều được các thần yêu mến\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/euthyfro.html",
+          "quote": "Piety, then, is that which is dear to the gods, and impiety is that which is not dear to them.",
+          "where": "Euthyphro (Jowett)"
+        }
+      ]
+    },
+    {
+      "text": "Socrates hỏi: các thần yêu mến nó vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu mến?",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/euthyfro.html",
+          "quote": "whether the pious or holy is beloved by the gods because it is holy, or holy because it is beloved of the gods",
+          "where": "Euthyphro (Jowett)"
+        }
+      ]
+    },
+    {
+      "text": "Sừng thứ nhất: nếu các thần yêu nó vì nó mộ đạo, thì mộ đạo có nội dung độc lập; định nghĩa của Euthyphro chưa chạm tới nội dung ấy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/euthyfro.html",
+          "quote": "to offer an attribute only, and not the essence-the attribute of being loved by all the gods",
+          "where": "Euthyphro (Jowett); Socrates: được yêu chỉ là thuộc tính, không phải bản chất"
+        }
+      ]
+    },
+    {
+      "text": "Sừng thứ hai: nếu nó mộ đạo vì được các thần yêu, thì \"mộ đạo\" chẳng còn nội dung gì riêng — chỉ là cái tên gọi cho sở thích của các thần",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Sừng thứ hai trong lời của Socrates dẫn tới vòng tròn (cái được yêu vì được yêu): nếu nó mộ đạo vì được các thần yêu, thì \"mộ đạo\" chẳng còn nội dung gì riêng ngoài việc được yêu — theo cách đọc hiện đại, chỉ là cái tên gọi cho sở thích của các thần.",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Plato/euthyfro.html",
+          "quote": "I mean to say that the holy has been acknowledge by us to be loved of God because it is holy, not to be holy because it is loved.",
+          "where": "Euthyphro (Jowett): Socrates chỉ đặt hướng nhân quả thứ nhất và nêu tính vòng tròn; \"sở thích tùy tiện\" là cách đọc về sau, không phải lời trong đối thoại"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Claim \"sai\" mức nhe: bài trình bày sừng thứ hai theo cách đọc hiện đại (tính tùy tiện) như thể là lập luận của Socrates trong văn bản. Không cần sửa để đóng đơn vị (mức nhe). Không mở được SEP về Euthyphro (plato-ethics-dialogues, divine-command, plato-republic, socrates đều 404 hoặc không có đoạn); dùng bản dịch Jowett tại MIT Classics. Chữ \"Platon, Cộng hòa\" của Socrates \"liên tục\" là mô tả chung, đúng với Quyển I."
+}

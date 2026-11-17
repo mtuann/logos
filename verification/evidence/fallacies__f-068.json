@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-068",
+  "hash": "sha256:2b6a577a60da49005b50afbdad008e886938c57b053583111e9fb1e7cde435bb",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: none",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whether the personal attack is relevant or irrelevant.",
+          "where": "Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Khi một lời khai là bằng chứng, độ tin cậy của người khai là điều liên quan trực tiếp. Luật sư không nói lời khai chắc chắn sai mà đề nghị thận trọng và tìm bằng chứng khác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whether the personal attack is relevant or irrelevant.",
+          "where": "Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Công kích cá nhân là dùng con người để bác bỏ một lập luận; ở đây quan hệ họ hàng và tiền sử khai sai liên quan thẳng đến độ tin cậy của lời khai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "Ad Hominem"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whether the personal attack is relevant or irrelevant.",
+          "where": "Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "why_not.genetic: Lời khai không bị bác bỏ vì nguồn gốc của nó; nó được đề nghị kiểm tra thêm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "why_not.tu-quoque: Luật sư không nói nhân chứng cũng mắc lỗi giao thông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone’s argument not to perform some act must be faulty because the arguer himself or herself has performed it.",
+          "where": "Tu Quoque"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án none đúng: IEP nói khó khăn là xác định công kích có liên quan hay không; quan hệ họ hàng và tiền sử khai sai liên quan thẳng độ tin cậy lời khai."
+}

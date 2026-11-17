@@ -1,0 +1,54 @@
+{
+ "unit": "fallacies/f-033",
+ "hash": "sha256:d0eea6a66bd061d92834c8d009009b26cf50c890b31a333e8c5bc25ed6c1b274",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: hasty-generalization",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin."
+    }
+   ]
+  },
+  {
+   "text": "options: post-hoc, ad-hominem, appeal-popularity không hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Hai người là một mẫu quá nhỏ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin."
+    }
+   ]
+  },
+  {
+   "text": "explanation: \"hàng trăm nghìn người làm trong ngành\" (số liệu thực: ngành CNTT Việt Nam)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://daibieunhandan.vn/70-sinh-vien-cong-nghe-thong-tin-can-dao-tao-lai-ky-nang-thuc-hanh-sau-khi-tot-nghiep-post398676.html",
+     "quote": "hiện có khoảng 1,5 triệu nhân lực trong ngành công nghệ thông tin đang hoạt động tại Việt Nam"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Con số nhân lực CNTT lấy từ phát biểu ông Đỗ Thanh Bình trên Báo Đại biểu Nhân dân (1,5 triệu; 500.000 kỹ sư); nguồn báo chí, chỉ đủ xác nhận cỡ \"hàng trăm nghìn\"."
+}

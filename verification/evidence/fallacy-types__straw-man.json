@@ -1,0 +1,51 @@
+{
+ "unit": "fallacy-types/straw-man",
+ "hash": "sha256:99d09e10b7a5c78d4695c538fd6ef7bbec9310f6a6f5f4614ab13b51a68c7c00",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Straw man; định nghĩa: xuyên tạc, phóng đại lập trường người khác rồi bác bỏ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "an opponent's point of view is distorted in order to make it easier to refute",
+     "where": "§1 item 8 (straw man as variation of ignoratio elenchi)"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent",
+     "where": "Straw Man"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: diễn đạt lại trung thành, hoặc chỉ ra hệ quả thực sự kéo theo (suy ra từ định nghĩa: xuyên tạc là điều kiện của ngụy biện)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "attribute an easily refuted position to your opponent",
+     "where": "Straw Man"
+    }
+   ]
+  },
+  {
+   "text": "example: giảm bài tập thành 'khỏi học gì nữa'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "an opponent's point of view is distorted in order to make it easier to refute",
+     "where": "định nghĩa loại này; ví dụ do site soạn, khớp khuôn theo kiểm tay"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

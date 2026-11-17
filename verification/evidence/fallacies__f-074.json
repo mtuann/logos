@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-074",
+  "hash": "sha256:26aefa83b847cd2b32c2a88cb7a558a27c1c76fcf7b58cb2c307f7e45a43cc4f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: post-hoc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B.",
+          "where": "Post Hoc"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 1.7"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Điểm 9 đến sau khi mặc áo đỏ, nhưng không có cơ chế nào cho thấy chiếc áo ảnh hưởng đến bài làm. Nhiều khả năng điểm cao là nhờ Tú ôn bài.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B.",
+          "where": "Post Hoc"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-ignorance: Tú không lập luận từ việc chưa ai chứng minh điều gì.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Not knowing that a statement is false is taken to be a proof that it is true.",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định trong tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "Begging the Question"
+        }
+      ]
+    },
+    {
+      "text": "why_not.equivocation: Không có từ nào đổi nghĩa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning",
+          "where": "Equivocation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

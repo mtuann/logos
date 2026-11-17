@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-052",
+  "hash": "sha256:5dabdf6b82fc5345f796f20fcad623d574aa1bfe1ed34158e993c067c5b0c960",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: appeal-ignorance",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-ignorance, begging-question, appeal-popularity, hasty-generalization; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Thiếu bằng chứng phủ nhận không phải là bằng chứng khẳng định. Người đưa ra khẳng định mới là người phải đưa bằng chứng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định trong tiền đề; lập luận dựa vào sự thiếu hiểu biết.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This argument begs the question because the premise and conclusion are the very same proposition, albeit expressed in different words.",
+          "where": "mục 5 (SEP)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Không có chỗ nào viện dẫn số đông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có mẫu quan sát nào bị khái quát.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP, phần Mill"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-095",
+ "hash": "sha256:50dd6b2c0814c7e4df20c645b99420e4cec22bf1f4dee00f0e6f166a026cb1c3",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: genetic (bác quy định vì cách nó ra đời)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant",
+     "where": "Genetic Fallacy"
+    }
+   ]
+  },
+  {
+   "text": "why_not.ad-hominem: không công kích người đang tranh luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "it is alleged that their position is supported by self-interest rather than by good evidence",
+     "where": "mục 12, circumstantial ad hominem"
+    }
+   ]
+  },
+  {
+   "text": "why_not.none: động cơ vận động chỉ là lý do xem lại số liệu, không phải bằng chứng mũ vô tác dụng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant",
+     "where": "Genetic Fallacy"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-ignorance: không dựa vào việc chưa ai chứng minh",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "absence of evidence is not good enough evidence of absence",
+     "where": "Appeal to Ignorance"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không tranh chấp. Phần \"quy định ra đời nhờ vận động\" là giả thiết trong lời người nói (\"nghe nói\"), site không khẳng định là thật nên không cần nguồn."
+}

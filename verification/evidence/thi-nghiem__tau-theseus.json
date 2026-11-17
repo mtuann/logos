@@ -1,0 +1,83 @@
+{
+  "unit": "thi-nghiem/tau-theseus",
+  "hash": "sha256:28ab3f48d002128115fb03e166a252016785cced31c5113d54319a802aecdc9b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03",
+  "claims": [
+    {
+      "text": "nguon: Hobbes, De Corpore (1655)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil1020/Hobbes.pdf",
+          "quote": "From De Corpore (1655) part 2, chapter 11 ... that Ship of Theseus ... putting in new ... some man had kept the old planks ... and so there would have been two ships numerically the same, which is absurd",
+          "where": "Part 2, ch. 11"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes/",
+          "quote": "De Corpore was published in 1655."
+        }
+      ]
+    },
+    {
+      "text": "nguon: Plutarch, Đời Theseus 23 (đầu thế kỷ 2): mô tả con tàu được thay ván và tranh luận triết học",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "hoan_canh: thay dần từng ván; một người thu ván cũ ghép thành tàu khác (Reassembly)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
+          "quote": "Over a long period all of the planks composing a certain ship are replaced one by one. Call the ship composed of the same planks as the ones initially composing the original ship Reassembly.",
+          "where": "Section 4"
+        },
+        {
+          "url": "https://classics.mit.edu/Plutarch/theseus.html",
+          "quote": "for they took away the old planks as they decayed, putting in new and stronger timber in their place",
+          "where": "Theseus"
+        }
+      ]
+    },
+    {
+      "text": "ghi_chu_khao_sat: PhilPapers 2020 không hỏi về tàu Theseus; câu gần nhất \"Bức tượng và khối đất sét\": một vật 30,1, hai vật 41,8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/buc-tuong-va-khoi-dat-set"
+    },
+    {
+      "text": "lua_chon b: Thuyết vật chất (material constitution): một vật được tạo nên bởi vật chất của nó; chỉ tàu ghép từ ván cũ mới là tàu Theseus",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
+          "quote": "constitution theorists ... Replacement is identical with the original but not constituted by its planks, and the Reassembly is constituted by the original planks without being identical with the original ship",
+          "where": "Section 4"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil1020/Hobbes.pdf",
+          "quote": "White: any body ... if the material is the same ... that will be the same body; if some part removed ... another body",
+          "where": "De Mundo Examined ch. 12"
+        }
+      ],
+      "severity": "vua",
+      "fix": "Thuyết vật chất (đồng nhất theo vật chất, material identity / mereological essentialism)"
+    },
+    {
+      "text": "lua_chon a: Thuyết tiếp tục (spatiotemporal continuity)",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "lua_chon c: Thuyết quy ước về đồng nhất: không có đáp án siêu hình duy nhất",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "sua",
+  "notes": "Lỗi vừa: nhãn tiếng Anh \"material constitution\" cho lựa chọn b gây hiểu lầm: trong SEP Identity Over Time và SEP Material Constitution, \"constitution view\" là thuyết hai vật trùng nhau (tàu thay ván đồng nhất với tàu gốc, tàu ghép chỉ được cấu thành bởi ván gốc nhưng không đồng nhất), tức không phải thuyết \"chỉ vật chất gốc mới là tàu gốc\". Quan điểm của b gần với lập luận vật chất của Thomas White (trong nguồn Hobbes). Chưa kiểm được: (1) Plutarch Theseus 23 và \"đầu thế kỷ 2\": classics.mit.edu không đánh số chương, Perseus/Wikisource không mở được; câu trích đúng nhưng số chương 23 và niên đại chưa xác nhận; (2) nhãn \"thuyết tiếp tục (spatiotemporal continuity)\" cho a và \"thuyết quy ước\" cho c: không trang SEP/IEP nào đã mở gán đúng các nhãn này cho Ship of Theseus (SEP Identity Over Time nói về Chisholm strict/loose identity, perspectivalism, phasalism, không nói \"conventionalism\"; IEP identity-over-time 404). Hobbes De Corpore 2.11 chỉ nêu tình huống làm phản chứng, không nhận một phương án nào."
+}

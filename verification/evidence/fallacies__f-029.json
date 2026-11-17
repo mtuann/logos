@@ -1,0 +1,66 @@
+{
+ "unit": "fallacies/f-029",
+ "hash": "sha256:8c7ea15a48289d42a9f2cbbeed53b3169a5a870582ddabca2e51b9e298eaea36",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: slippery-slope",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present."
+    }
+   ]
+  },
+  {
+   "text": "options: hasty-generalization, false-dilemma, post-hoc không hợp lý; không có phương án thứ hai hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Mỗi bước trong chuỗi đều không có lý do đi kèm",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion"
+    }
+   ]
+  },
+  {
+   "text": "why_not.false-dilemma / hasty-generalization / post-hoc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

@@ -1,0 +1,50 @@
+{
+ "unit": "logic/logic-20",
+ "hash": "sha256:3d3e9e2d8b7facfab8f0fac86dd9d89c3c957f6ea70d1649a6142cc6e39282af",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02",
+ "claims": [
+  {
+   "text": "dap_an: khong-hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Its form is an invalid form.",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Disjunctive syllogism (DS):",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich: Đảo ngược mệnh đề (inverse) — ngụy biện hình thức",
+   "kind": "du-kien",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "giai_thich: Phản ví dụ P=sai, Q=đúng; kéo theo đúng rỗng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Its form is an invalid form."
+    }
+   ]
+  }
+ ],
+ "result": "chua-kiem-duoc",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề.  Tên \"inverse\" cho ¬P→¬Q: đã thử IEP prop-log, IEP fallacy, IEP aristotle-logic, SEP fallacies, SEP logic-classical (phần hiển thị), không thấy từ \"inverse\"; dạng không hợp lệ đã xác nhận bằng bảng chân trị."
+}

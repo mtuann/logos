@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-096",
+ "hash": "sha256:4b5c4a5c6ed2228e85f2bab1e426a9d6a44ba2dc0e3dced71b9310b4dc9b8743",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: none (các lựa chọn khác đã được nêu và loại trừ có lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
+     "where": "False Dilemma"
+    }
+   ]
+  },
+  {
+   "text": "why_not.false-dilemma: lưỡng nan giả là bỏ sót lựa chọn; ở đây đã xét và loại trừ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
+     "where": "False Dilemma"
+    }
+   ]
+  },
+  {
+   "text": "why_not.sunk-cost: không ai đòi tiếp tục vì tiếc khoản đã chi",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+     "quote": "which can look like an irrational weighting of",
+     "where": "mục về hành động hợp lý, nhắc sunk costs"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-emotion: không có lời kêu gọi cảm xúc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief",
+     "where": "Appeal to Emotions"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án tranh chấp. Lưu ý: chị Hoa chưa xét hết (ô tô cá nhân, bay nơi khác...) nhưng đoạn nêu các khả năng được \"loại có lý do\"; chấp nhận được."
+}

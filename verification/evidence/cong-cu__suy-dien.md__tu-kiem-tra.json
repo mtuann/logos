@@ -1,0 +1,83 @@
+{
+ "unit": "cong-cu/suy-dien.md#tu-kiem-tra",
+ "hash": "sha256:3bd907d04822c64d04f32a3a989fe5babf6abb10259fa5e117a324374e96118f",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Câu 1 (answer 1): hợp lệ có thể có kết luận sai nếu có tiền đề sai; đáp án A, C, D sai (C: Hà Nội; D: không hợp lệ vẫn có thể có kết luận đúng); explain đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both invalid, as well as valid but unsound, arguments can nevertheless have true conclusions"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "A valid argument may still have a false conclusion."
+    }
+   ]
+  },
+  {
+   "text": "Câu 2 (answer 1): nếu giả thuyết thì nước sôi ở 80 độ; không sôi; vậy giả thuyết sai = modus tollens; explain đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent.",
+     "where": "Section 5.a"
+    }
+   ]
+  },
+  {
+   "text": "Câu 3 (answer 2): cà phê/mất ngủ = không hợp lệ, khẳng định hậu kiện; explain đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+     "where": "Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "Câu 4 (answer 1): vững chắc = hợp lệ và mọi tiền đề đúng; explain đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both valid, and all of its premises are actually true"
+    }
+   ]
+  },
+  {
+   "text": "Câu 5 (answer 0): phản ví dụ chó/mèo/động vật đúng hình thức 'Mọi A là B; mọi C là B; vậy mọi A là C', tiền đề đúng, kết luận sai; B và D khác hình thức; C cùng hình thức nhưng tiền đề sai; explain đúng. Tự kiểm bằng mô hình tập hợp",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "A valid argument may still have a false conclusion.",
+     "where": "khái niệm hợp lệ/hình thức"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "the validity or invalidity of an argument is determined entirely by its logical form"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Đã tự kiểm cả năm câu bằng logic; không phát hiện đáp án hay phương án nhiễu sai."
+}

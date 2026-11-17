@@ -1,0 +1,38 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#dung-xau-ho-khi-phai-doc-ba-lan",
+  "hash": "sha256:c5546c8a08f531510acd53a09696033db80727cb1b97683f8c0e33eba44a9e17",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p09",
+  "claims": [
+    {
+      "text": "Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau.",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Adler viết một cuốn sách về cách đọc sách",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=how+to+read+a+book+adler&fields=title,author_name,first_publish_year&limit=3",
+          "quote": "\"author_name\":[\"Mortimer J. Adler\"],\"first_publish_year\":1940,\"title\":\"How to Read a Book\"",
+          "where": "bản ghi Open Library"
+        },
+        {
+          "url": "https://archive.org/metadata/howtoreadbook0000adle",
+          "quote": "How to read a book ... Creator: Adler, Mortimer Jerome, 1902-2001"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ xác nhận được sự tồn tại của cuốn How to Read a Book (Adler, 1940). Chưa mở được nội dung sách để xác nhận (a) Adler dùng tên 'đọc phân tích' (analytical reading) cho cách đọc 'nắm cấu trúc trước, phán xét sau', và (b) việc gọi ông là 'nhà triết học'. Đã thử: britannica.com/biography/Mortimer-J-Adler (403), simonandschuster.com (403), archive.org full text djvu.txt của howtoreadbook0000adle và howtoreadbook0000adle_y9v4 (không có thân sách; bản mượn bị hạn chế), encyclopedia.com (404), jstor.org/stable/4332181 (không tải), googleapis books (429). Wikipedia chỉ gợi 'Structural/Interpretive/Critical stage' của analytical reading nhưng không phải nguồn được dùng. Người làm cần nguồn có trang (ví dụ bản 1972, Part Two) hoặc đổi câu."
+}

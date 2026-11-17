@@ -1,0 +1,79 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#thuc-hanh-tren-mot-doan-van-mau",
+  "hash": "sha256:e42a8ee02fe74b266112957b373dd28d51de2e7ffd57afa47c1c74c2852848e7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p09",
+  "claims": [
+    {
+      "text": "Khuôn tam đoạn luận: 'biện pháp làm giảm tội phạm thì đúng đắn'; 'trừng phạt nghiêm khắc làm giảm tội phạm'; suy ra 'nên trừng phạt nghiêm khắc' là hợp lệ (nếu 'đúng đắn' = 'nên làm')",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "it is not possible for its premises to all be true and its conclusion false",
+          "where": "mục 4"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "For a valid argument, it is not possible for the premises to be true with the conclusion false."
+        }
+      ]
+    },
+    {
+      "text": "Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "The reasons offered within the argument are called “premises”",
+          "where": "tiền đề phải được xét đúng/sai riêng"
+        }
+      ]
+    },
+    {
+      "text": "Người theo nghĩa vụ luận sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "If an act is not in accord with the Right, it may not be undertaken, no matter the Good that it might produce.",
+          "where": "SEP không nêu ví dụ 'trừng phạt người vô tội để răn đe'; nhưng nêu nguyên tắc bằng khuôn này"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "injunction against using others as mere means to one's end",
+          "where": "dẫn Kant"
+        }
+      ]
+    },
+    {
+      "text": "'Đúng đắn' = 'mang lại hậu quả tốt' chính là lập trường hệ quả luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "simply the view that normative properties depend only on consequences",
+          "where": "Introduction"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "depends only on the consequences of that act or of something related to that act",
+          "where": "về tính đúng của hành vi"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm: dạng 'Mọi M là R; T là M; vậy T là R' (Barbara) hợp lệ. Điều kiện 'nếu hiểu đúng đắn là nên làm' đã được site nêu rõ. Đoạn mẫu là văn Logos tự viết. Ví dụ trừng phạt người vô tội là ví dụ kinh điển của phản bác đối với hệ quả luận (SEP deontological không có đúng ví dụ này nhưng nêu nguyên tắc), không phải trích dẫn."
+}

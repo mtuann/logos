@@ -1,0 +1,50 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#nguon",
+  "hash": "sha256:7853e76592b6c579e645f2ae96945fc64f07b5a3bc11dc3e5ce7757c9eba884a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p09",
+  "claims": [
+    {
+      "text": "Mortimer J. Adler và Charles Van Doren, How to Read a Book — bản gốc 1940",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=how+to+read+a+book+adler&fields=title,author_name,first_publish_year&limit=3",
+          "quote": "\"first_publish_year\":1940,\"title\":\"How to Read a Book\"",
+          "where": "bản ghi Open Library"
+        },
+        {
+          "url": "https://archive.org/metadata/howtoreadbook0000adle",
+          "quote": "Creator: Adler, Mortimer Jerome, 1902-2001"
+        }
+      ]
+    },
+    {
+      "text": "Bản sửa 1972 do Adler và Van Doren (đồng tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/howtoreadbook0000adle",
+          "quote": "Associated name: Van Doren, Charles Lincoln, 1926- (joint author) ... Date: 1972",
+          "where": "Internet Archive metadata, Simon and Schuster, New York"
+        }
+      ]
+    },
+    {
+      "text": "cuốn sách kinh điển về bốn cấp độ đọc (sơ cấp, đọc lướt có hệ thống, đọc phân tích, đọc đối chiếu nhiều sách); ở cấp đọc phân tích, phải nắm cấu trúc và hiểu đúng ý tác giả rồi mới phê phán",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Năm 1940 và bản 1972 có Van Doren đã xác nhận qua metadata (Open Library, Internet Archive). Chưa mở được thân sách để xác nhận bốn cấp độ và quy tắc 'hiểu rồi mới phê phán'; chỉ Wikipedia (không phải nguồn được dùng) nêu analytical = cấp ba, syntopical = cấp bốn. URL đã thử: britannica (403), simonandschuster (403), archive.org djvu.txt hai bản (không có thân sách), jstor 4332181, google books (429). Mục Nguồn thiếu số trang/ISBN/nhà xuất bản; nên bổ sung (Simon & Schuster, 1972, ISBN 0-671-21209-5) và chỉ rõ chương (Part Two, đọc phân tích)."
+}

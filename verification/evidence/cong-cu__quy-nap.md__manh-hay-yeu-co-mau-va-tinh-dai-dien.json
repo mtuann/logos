@@ -1,0 +1,46 @@
+{
+ "unit": "cong-cu/quy-nap.md#manh-hay-yeu-co-mau-va-tinh-dai-dien",
+ "hash": "sha256:818ac51bcc98fafd7ca7c1dc3d37a4dab508e9028e8acf01db7ef7f56623f568",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p06",
+ "claims": [
+  {
+   "text": "Khi rút kết luận khái quát từ quá ít trường hợp hoặc từ trường hợp không đại diện, ta mắc lỗi khái quát vội vàng.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "overestimate the strength of an argument that is based on too small a sample",
+     "where": "Hasty Generalization"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Generalizing from a biased sample",
+     "where": "Biased Generalizing"
+    }
+   ]
+  },
+  {
+   "text": "Cỡ mẫu nhỏ: ngẫu nhiên đủ làm con số lệch; mẫu tự nguyện là nhóm chọn lọc; mẫu nhỏ chọn ngẫu nhiên tử tế có thể đáng tin hơn mẫu khổng lồ lệch.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Generalizing from a biased sample",
+     "where": "Biased Generalizing: 'overestimating the strength of an argument based on that sample'"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ví dụ khảo sát gym 92% do site soạn. Câu so sánh mẫu nhỏ ngẫu nhiên và mẫu lớn lệch là nguyên lý thống kê chuẩn, IEP chỉ nêu gián tiếp qua mục Biased Generalizing."
+}
