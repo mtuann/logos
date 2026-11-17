@@ -1,0 +1,84 @@
+{
+  "unit": "doc/platon-bien-ho.md#nguon",
+  "hash": "sha256:537c9b3e8e8ac23e8b1534aeab76f38da50cf0e5be8a5db5cd5ba5fde0324051",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Platon, Biện hộ của Socrates (Apology, bản dịch tiếng Anh của Benjamin Jowett, phạm vi công cộng). https://www.gutenberg.org/ebooks/1656",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "Title: Apology ... Author: Plato Translator: Benjamin Jowett [eBook #1656]",
+          "where": "Gutenberg 1656"
+        }
+      ]
+    },
+    {
+      "text": "Platon, Apology, bản Hy Lạp của John Burnet (1903) và bản dịch của Harold North Fowler, Perseus Digital Library",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=20e",
+          "quote": "Plato in Twelve Volumes, Vol. 1 translated by Harold North Fowler",
+          "where": "Perseus 1999.01.0170"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a",
+          "quote": "Platonis Opera, ed. John Burnet. Oxford University Press. 1903.",
+          "where": "Perseus 1999.01.0169"
+        }
+      ]
+    },
+    {
+      "text": "Nails, Debra & S. Sara Monoson, \"Socrates\", Stanford Encyclopedia of Philosophy (bản lưu fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Copyright © 2022 by Debra Nails < nails @ msu . edu > S. Sara Monoson < s-monoson @ northwestern . edu >",
+          "where": "SEP archive Fall 2026 Edition"
+        }
+      ]
+    },
+    {
+      "text": "James M. Ambury, \"Socrates\", Internet Encyclopedia of Philosophy. https://iep.utm.edu/socrates/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Author Information James M. Ambury Email: jamesambury@kings.edu King’s College U. S. A."
+        }
+      ]
+    },
+    {
+      "text": "Bài IEP \"Socrates\" về bối cảnh chính trị: Critias, Alcibiades, nhóm Ba Mươi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "led by Critias, a known associate of Socrates and a member of his circle"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Alcibiades was not the only of Socrates’ associates implicated in the sacrilegious crimes (Charmides and Critias were suspected as well)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả bốn URL mở được (Gutenberg qua bản chép web.archive.org vì trang gốc đang chặn bot); tên tác giả, tên bài khớp."
+}

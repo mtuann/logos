@@ -1,0 +1,58 @@
+{
+  "unit": "doc/epictetus-cam-nang.md#doc-tiep",
+  "hash": "sha256:d8dd5502c5517c86f84c18e09daa78572042c9239fc0e9ea69ad133c6bc7ab99",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Cẩm nang khép lại bằng chính lời Socrates: Anytus và Meletus có thể giết ông, nhưng không làm hại được ông",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0557/tlg002/tlg0557.tlg002.perseus-grc2.xml",
+          "quote": "ἀλλʼ, ὦ Κρίτων, εἰ ταύτῃ τοῖς θεοῖς φίλον, ταύτῃ γενέσθω. ἐμὲ δὲ Ἄνυτος καὶ Μέλιτος ἀποκτεῖναι μὲν δύνανται, βλάψαι δὲ οὔ.",
+          "where": "§53 (chương cuối), bản Hy Lạp Perseus"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "Anytus and Melitus are able indeed to kill me, but they cannot harm me.",
+          "where": "LII (Long), câu cuối sách"
+        }
+      ]
+    },
+    {
+      "text": "Marcus Aurelius: người học trò qua sách của Epictetus, viết cho chính mình",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epictetus/",
+          "quote": "The emperor Marcus Aurelius was never in fact his pupil, but was so deeply impressed with what he had read as to consider himself a follower",
+          "where": "mục 6"
+        }
+      ]
+    },
+    {
+      "text": "Khắc kỷ tin vũ trụ có trật tự tất định",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "the interweaving and ordering of which is fate, knowledge, truth, and a certain inevitable and inescapable law of the things that exist",
+          "where": "mục Physics"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Bốn link nội bộ (cau-hoi/dinh-menh, cau-hoi/y-nghia-song, doc/aurelius-suy-tuong, doc/platon-bien-ho) không kiểm nội dung trang đích (đơn vị khác). Chỉ kiểm câu mô tả §53. Lưu ý: văn bản Hy Lạp đặt câu \"Anytus và Meletus...\" sau câu \"Crito\": Epictetus trích lại lời Socrates (Crito/Apology)."
+}

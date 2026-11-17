@@ -1,0 +1,109 @@
+{
+  "unit": "doc/aristotle-dao-duc.md#tu-kiem-tra",
+  "hash": "sha256:4361a004434f7b65bc78ce5c9efa0ed9da62d143b5203cc800df927c7c749717",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Q1: \"Trung dung đối với ta\" (II.6) = mức đúng tùy người và tình huống, do lý trí của người có minh triết thực hành xác định (đáp án B); các lựa chọn khác sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it",
+          "where": "II.6"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "the intermediate relatively to us is not to be taken so; if ten pounds are too much for a particular person to eat and two too little, it does not follow that the trainer will order six pounds",
+          "where": "II.6 (loại phương án \"trung bình cộng\")"
+        }
+      ]
+    },
+    {
+      "text": "Giải thích Q1: sáu cân quá ít với Milo nhưng quá nhiều với người mới tập; đôi khi cơn giận lớn mới là đúng mức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "too little for Milo, too much for the beginner in athletic exercises",
+          "where": "II.6"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "at other times, circumstances call for great anger",
+          "where": "mục về doctrine of the mean"
+        }
+      ]
+    },
+    {
+      "text": "Q2: bạn trả lại ví chỉ vì sợ camera chưa có đức trung thực (đáp án B); \"có, vì hành động đúng là đủ\", \"có, nếu làm ba lần\", \"không quan tâm động cơ\" đều sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "The agent also must be in a certain condition when he does them; in the first place he must have knowledge, secondly he must choose the acts, and choose them for their own sakes, and thirdly his action must proceed from a firm and unchangeable character.",
+          "where": "II.4, 1105a30–34"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "as a condition of the possession of the virtues knowledge has little or no weight, while the other conditions count not for a little but for everything",
+          "where": "II.4 (loại phương án \"hành động đúng là đủ\" và \"ba lần\")"
+        }
+      ]
+    },
+    {
+      "text": "Giải thích Q2: ba điều kiện ở 1105a30–34",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml",
+          "quote": "πρῶτον μὲν ἐὰν εἰδώς, ἔπειτʼ ἐὰν προαιρούμενος, καὶ προαιρούμενος διʼ αὐτά, τὸ δὲ τρίτον ἐὰν καὶ βεβαίως καὶ ἀμετακινήτως ἔχων πράττῃ",
+          "where": "Bekker 1105a31–34"
+        }
+      ]
+    },
+    {
+      "text": "Q3: hạnh phúc không thể chỉ là \"sống\" hay \"cảm giác\" vì cây cỏ cũng sống, ngựa bò cũng có cảm giác; chức năng riêng của con người là hoạt động theo lý trí (đáp án B)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "Life seems to be common even to plants, but we are seeking what is peculiar to man.",
+          "where": "I.7"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "a life of perception, but it also seems to be common even to the horse, the ox, and every animal",
+          "where": "I.7"
+        }
+      ]
+    },
+    {
+      "text": "Giải thích Q3: đây cũng là chỗ bị phản bác: điều riêng của con người chưa chắc là điều tốt nhất cho con người",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "This might perhaps be given, if we could first ascertain the function of man.",
+          "where": "I.7: bước từ \"chức năng riêng\" sang \"điều tốt\" là chỗ nối của lập luận; đối chiếu bài kiểm đơn vị tai-dung-lap-luan"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả ba câu: đáp án đánh dấu đúng, ba phương án sai mỗi câu đều sai thật. Q3 đáp án B đúng; phương án D \"vì Platon đã nói như vậy\" sai."
+}

@@ -1,0 +1,53 @@
+{
+  "unit": "doc/platon-bien-ho.md#cau-hoi-de-tu-viet",
+  "hash": "sha256:47fbb44c7df8977306579c672c3e8e2bd48fe1670c8a2e66339fcdebf9aeefa2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Bạn có đồng ý \"cuộc đời không được xét lại thì không đáng sống\" không? (câu hỏi bám 38a)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a",
+          "quote": "the unexamined life is not worth living",
+          "where": "Apology 38a (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Socrates từ chối thỏa hiệp để giữ mạng (câu hỏi bám 29c–d, 38c–e)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29d",
+          "quote": "I shall obey the god rather than you",
+          "where": "Apology 29d (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Nếu là một bồi thẩm ở phiên tòa năm 399 TCN... bỏ phiếu có tội hay vô tội? (bám 36a: sát nút ba mươi phiếu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=36a",
+          "quote": "if only thirty votes had been cast the other way, I should have been acquitted",
+          "where": "Apology 36a (Fowler, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Ba câu hỏi bám đúng văn bản (38a, 29d, 36a); không chứa dữ kiện cần kiểm."
+}

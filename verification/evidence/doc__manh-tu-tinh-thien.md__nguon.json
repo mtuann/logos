@@ -1,0 +1,72 @@
+{
+  "unit": "doc/manh-tu-tinh-thien.md#nguon",
+  "hash": "sha256:48f69620aa4bb4e7a0036e0d7c6d95ef90080ef95cc84dee97cc542f1792f75f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01",
+  "claims": [
+    {
+      "text": "Van Norden, Bryan, \"Mencius\", SEP (sửa đổi 2024), bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "citation_author\" content=\"Van Norden, Bryan\"",
+          "where": "thẻ meta"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "MenciusFirst published Sat Oct 16, 2004; substantive revision Fri Sep 27, 2024"
+        }
+      ]
+    },
+    {
+      "text": "Chu Hy, Mạnh Tử tập chú, thiên Công Tôn Sửu thượng: chú 內 đọc nạp; 聲 là danh; 芒芒 là vẻ ngây ngô (đã mở bản Wikisource của chú thích, không phải ctext)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E5%AD%9F%E5%AD%90%E9%9B%86%E6%B3%A8%E5%8D%B7%E4%B8%89",
+          "quote": "內，讀為納。",
+          "where": "chú 2A6"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E5%AD%9F%E5%AD%90%E9%9B%86%E6%B3%A8%E5%8D%B7%E4%B8%89",
+          "quote": "芒芒，無知之貌。",
+          "where": "chú 2A2"
+        }
+      ]
+    },
+    {
+      "text": "Tuân Tử, thiên 23 \"Tính ác\", nguyên văn (bản Wikisource thay cho ctext)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90/%E6%80%A7%E6%83%A1%E7%AF%87",
+          "quote": "荀子卷第十七 ... 性惡篇第二十三",
+          "where": "tiêu đề"
+        }
+      ]
+    },
+    {
+      "text": "Mạnh Tử nguyên văn và bản dịch Legge 1861 tại ctext.org: thiên 2A /mengzi/gong-sun-chou-i; 3B /mengzi/teng-wen-gong-ii; 6A /mengzi/gaozi-i",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Chu Hy, Mạnh Tử tập chú tại https://ctext.org/si-shu-zhang-ju-ji-zhu/gong-sun-chou-zhang-ju-shang/zh; Tuân Tử https://ctext.org/xunzi/xing-e (URL ctext.org không mở được)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "ctext.org chặn truy cập tự động (đã thử trước đó với /analects/*, thông báo không cho phép scrape); không thử lại, không vòng. Nội dung chú của Chu Hy và nguyên văn Tuân Tử đã xác nhận qua Wikisource; chỉ URL ctext.org là chưa mở được."
+}

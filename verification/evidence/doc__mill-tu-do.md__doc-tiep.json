@@ -1,0 +1,52 @@
+{
+  "unit": "doc/mill-tu-do.md#doc-tiep",
+  "hash": "sha256:53be892c81baa14f9ebbc0f1d953baddcbf466e328a83ea15667c1a5912d2d37",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "Kant, 75 năm trước Mill (Khai sáng 1784; On Liberty 1859)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Erscheinungsdatum: Dezemberstück 1784",
+          "where": "Berlinische Monatsschrift Bd. 4, 1784"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "The Project Gutenberg eBook of On Liberty",
+          "where": "On Liberty 1859 xác nhận bằng kb works/mill.on-liberty"
+        }
+      ]
+    },
+    {
+      "text": "On Liberty năm 1859",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/mill.on-liberty"
+    },
+    {
+      "text": "Các liên kết nội bộ cau-hoi/dan-chu, cong-nghe-ai, tu-do-ngon-luan, cong-cu/luan-cu-thep, doc/kant-khai-sang, triet-gia/kant đều có file đích",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "docs/cau-hoi/dan-chu.md ... tồn tại",
+          "where": "kiểm bằng ls trong repo, không phải web"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. Mô tả chủ đề các bài liên kết thuộc đơn vị khác nên không kiểm sâu."
+}

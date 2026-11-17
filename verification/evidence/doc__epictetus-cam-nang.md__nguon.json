@@ -1,0 +1,104 @@
+{
+  "unit": "doc/epictetus-cam-nang.md#nguon",
+  "hash": "sha256:e01e915dca86562f8f21901a6e6bb116b1b487fa15afe28df03adbfadfec0fe8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Epictetus, A Selection from the Discourses of Epictetus with the Encheiridion, bản dịch George Long, Project Gutenberg #10661",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "*** START OF THE PROJECT GUTENBERG EBOOK 10661 *** A SELECTION FROM THE DISCOURSES OF EPICTETUS WITH THE ENCHEIRIDION TRANSLATED BY GEORGE LONG",
+          "where": "mirror gutenberg.pglaf.org; gutenberg.org trả 503 trong phiên"
+        }
+      ]
+    },
+    {
+      "text": "The Discourses of Epictetus; with the Encheiridion and Fragments, London: George Bell, 1877",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Author:George_Long",
+          "quote": "The Discourses of Epictetus; with the Encheiridion and Fragments (1877)",
+          "where": "Wikisource, danh mục tác phẩm George Long"
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28discourses+of+epictetus%29+AND+creator%3Along&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=publisher&rows=10&output=json",
+          "quote": "London : G. Bell | The Discourses of Epictetus, with the Encheiridion and fragments",
+          "where": "Internet Archive: nhà xuất bản G. Bell, London"
+        }
+      ]
+    },
+    {
+      "text": "(bản dịch của Long) in đầy đủ lần đầu trong ấn bản 1877",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Graver, Margaret, \"Epictetus\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epictetus/",
+          "quote": "Copyright © 2025 by Margaret Graver",
+          "where": "chân trang; bản lưu fall2026 mở được"
+        }
+      ]
+    },
+    {
+      "text": "Pigliucci, Massimo, \"Stoicism\", IEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Author Information Massimo Pigliucci",
+          "where": "cuối bài"
+        }
+      ]
+    },
+    {
+      "text": "Liddell, Scott & Jones, A Greek-English Lexicon, mục encheiridios, Perseus Digital Library",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/lexica/master/CTS_XML_TEI/perseus/pdllex/grc/lsj/grc.lsj.perseus-eng5.xml",
+          "quote": "e)gxeir-i/dios, on, (xei/r) in the hand ... hand-knife, dagger ... manual, handbook, title of works by Epict.",
+          "where": "mục e)gxeiri/dios; trang www.perseus.tufts.edu của mục này trả 403/cookie, đã đọc bản XML LSJ trên GitHub của Perseus"
+        }
+      ]
+    },
+    {
+      "text": "Bài IEP \"Stoicism\": cảm xúc trong Khắc kỷ, phép chia ba của Irvine (2008) và mối liên hệ với liệu pháp nhận thức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "One of Irvine’s major contributions is shifting from Epictetus’ famous dichotomy of control to a more reasonable trichotomy",
+          "where": "Irvine 2008"
+        },
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "early versions of Cognitive Behavioral Therapy, for instance in the work of Albert Ellis",
+          "where": "CBT"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Chỉ còn một ý nhỏ chưa kiểm được: \"in đầy đủ lần đầu\" năm 1877. Đã thử Wikisource Author:George_Long và tìm Internet Archive: xác nhận được năm 1877 và nhà xuất bản Bell, nhưng không có nguồn mở được nói rõ đây là lần in đầy đủ đầu tiên (Internet Archive chỉ có các bản in sau của Bell). Mức nhẹ; gợi ý chủ biên bỏ \"đầy đủ lần đầu\" nếu không có nguồn."
+}

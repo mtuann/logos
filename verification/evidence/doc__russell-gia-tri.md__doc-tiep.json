@@ -1,0 +1,53 @@
+{
+  "unit": "doc/russell-gia-tri.md#doc-tiep",
+  "hash": "sha256:a278abcc28be101c38dae4ba20602a66c5cb813802d9ac11fcf5c285c9c4dfcf",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "Cuốn sách của Russell bắt đầu từ chính câu 'biết một điều nghĩa là gì?'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "CHAPTER I. APPEARANCE AND REALITY",
+          "where": "Chương I mở bằng 'Is there any knowledge in the world which is so certain that no reasonable man could doubt it?' (đối chiếu đầu chương I Gutenberg)"
+        }
+      ]
+    },
+    {
+      "text": "Đoạn tóm tắt cuối chương XV nguyên văn và bản dịch có ở docs/bat-dau/index.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "Thus, to sum up our discussion of the value of philosophy; Philosophy is to be studied",
+          "where": "XV.13; đối chiếu trích ở docs/bat-dau/index.md dòng 110 khớp XV.13"
+        }
+      ]
+    },
+    {
+      "text": "Các liên kết nội bộ (cau-hoi/tri-thuc, y-nghia-song, bat-dau/index, bat-dong-tri-thuc) trỏ tới file có thật",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "kiểm bằng ls trong repo",
+          "where": "không phải web"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Wikisource (1912) mở được; đối chiếu Gutenberg 5827 qua mirror gutenberg.pglaf.org. Mô tả chủ đề trang liên kết (câu hỏi 'Cuộc sống có ý nghĩa không?') thuộc đơn vị khác."
+}

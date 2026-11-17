@@ -1,0 +1,58 @@
+{
+  "unit": "doc/luan-ngu.md#doc-tiep",
+  "hash": "sha256:9bac7aa93f9d996ba1121920f75e210d2085e276fda588ad8ecd594d458c3206",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01",
+  "claims": [
+    {
+      "text": "Liên kết nội bộ tới 5 trang đều tồn tại trong docs/ (dao-duc-hanh-dong, nho-giao-viet, noi-doi, mac-tu-kiem-ai, duc-tri)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "Kiểm bằng ls docs/cau-hoi/*.md docs/doc/mac-tu-kiem-ai.md trên repo, không phải trang web",
+          "where": "file cục bộ"
+        }
+      ]
+    },
+    {
+      "text": "noi-doi.md bàn chữ tín (2.22) và \"cha giấu cho con\" (13.18)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "docs/cau-hoi/noi-doi.md dòng 84: \"(2.22) ... người con ra làm chứng việc cha trộm dê ... (13.18)\"",
+          "where": "file cục bộ"
+        }
+      ]
+    },
+    {
+      "text": "duc-tri.md có lý tưởng quân tử trong chính trị",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "docs/cau-hoi/duc-tri.md dòng 54: \"Đức của người quân tử như gió ...\" (12.19)",
+          "where": "file cục bộ"
+        }
+      ]
+    },
+    {
+      "text": "nho-giao-viet.md bàn \"Luận ngữ đã định hình giáo dục Việt Nam thế nào\": trang đó nói về Tứ thư và khoa cử chứ chưa thấy bàn riêng Luận ngữ",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Mô tả \"Luận ngữ đã định hình giáo dục Việt Nam\" hơi rộng so với nội dung nho-giao-viet.md (nói Tứ thư Ngũ kinh, khoa cử); nhẹ, ghi để người viết cân nhắc. Không mở web được cho claim nội bộ, đối chiếu file cục bộ."
+}

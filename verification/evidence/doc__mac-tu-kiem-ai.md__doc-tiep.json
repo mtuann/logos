@@ -1,0 +1,39 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#doc-tiep",
+ "hash": "sha256:0220cc91a2626f23ae79638bef2d150446354186e01e3bc559763e57151e578b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03",
+ "claims": [
+  {
+   "text": "Các liên kết nội bộ (manh-tu-tinh-thien, lich-su/trung-hoa, chien-tranh-chinh-dang, cuu-giup-ngheo-doi, cong-ly) tồn tại trong repo",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/",
+     "quote": "file docs/doc/manh-tu-tinh-thien.md, docs/lich-su/trung-hoa.md, docs/cau-hoi/{chien-tranh-chinh-dang,cuu-giup-ngheo-doi,cong-ly}.md đều có trong repo (kiểm bằng ls)"
+    }
+   ]
+  },
+  {
+   "text": "Mạnh Tử chê Mặc Tử 'không có cha'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+     "quote": "墨氏兼愛，是無父也"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": null,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": null,
+  "thuat-ngu": null
+ },
+ "result": "dat",
+ "notes": "Chỉ kiểm tồn tại file đích bằng ls; chưa đọc nội dung các trang đích."
+}

@@ -1,0 +1,79 @@
+{
+  "unit": "doc/tho-van-ly-tran.md#doc-tiep",
+  "hash": "sha256:7135c6ae5e17fc50183d3ded884bf64a81aead8ec670764add9039369a0cc6eb",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k04",
+  "claims": [
+    {
+      "text": "Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần — \"câu hỏi tu có cần bỏ đời được bàn đầy đủ\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "Tu hành có nhất thiết phải rời bỏ đời sống không?",
+          "where": "trang đích docs/cau-hoi/truc-lam.md (đối chiếu nội bộ): khớp"
+        }
+      ]
+    },
+    {
+      "text": "Hướng dẫn đọc Bát nhã Tâm kinh — \"gốc kinh điển của tư tưởng không trong thiền\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "Đọc chậm Tâm kinh qua nguyên văn chữ Hán",
+          "where": "trang đích docs/doc/tam-kinh.md (đối chiếu nội bộ): mô tả hợp lý"
+        }
+      ]
+    },
+    {
+      "text": "Nguyễn Trãi: Bình Ngô đại cáo — \"từ thơ thiền Lý–Trần đến văn chính luận: cùng một nền văn hiến\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "惟我大越之國，實為文獻之邦",
+          "where": "trang đích: bài cáo có câu về nền văn hiến (đã mở nguồn gốc ở zh.wikisource Toàn thư quyển 10)"
+        }
+      ]
+    },
+    {
+      "text": "Nhật Bản và Việt Nam — \"bối cảnh Việt Nam thời Lý–Trần trong khu vực\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "Thiền Trúc Lâm: đời Trần, vua Trần Nhân Tông sau khi nhường ngôi đã xuất gia",
+          "where": "trang đích docs/lich-su/nhat-ban-viet-nam.md (đối chiếu nội bộ): có phần Việt Nam Thiền Trúc Lâm và Nho học, không có phần riêng \"thời Lý\""
+        }
+      ]
+    },
+    {
+      "text": "Cái đẹp ở trong mắt người nhìn? — \"thơ thiền đặt cạnh câu hỏi triết học về cái đẹp\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/",
+          "quote": "Hume … Ogilby … Milton",
+          "where": "trang đích docs/cau-hoi/cai-dep.md (đối chiếu nội bộ): không có chữ phật/zen/thiền/Lý–Trần; mô tả hàm ý rằng trang đích đặt thơ thiền cạnh câu hỏi"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Cái đẹp ở trong mắt người nhìn? — câu hỏi triết học về cái đẹp; đọc cạnh thơ thiền để thử áp dụng (trang này không bàn thơ thiền)"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một mô tả liên kết hơi vượt nội dung trang đích (mức nhẹ, tác giả có thể coi là gợi ý đọc chéo). Trang đích đối chiếu nội bộ trong repo, không phải nguồn ngoài."
+}

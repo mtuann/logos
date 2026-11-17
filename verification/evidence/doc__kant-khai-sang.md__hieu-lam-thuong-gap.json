@@ -1,0 +1,92 @@
+{
+  "unit": "doc/kant-khai-sang.md#hieu-lam-thuong-gap",
+  "hash": "sha256:f4e5a635cb43cdcdcbc06b0f8c6b38d7c5c40738a065a8a2a9bc2371123091d0",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "\"Riêng tư\" là dùng lý trí trong chức vụ được giao, kể cả trước hàng trăm người; \"công khai\" là nói với toàn thể công chúng độc giả với tư cách học giả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/038.html",
+          "quote": "ist bloß ein Privatgebrauch: weil diese immer nur eine häusliche, obzwar noch so große Versammlung ist",
+          "where": "tr. 038"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-social-political/",
+          "quote": "The public use of reason is the use an individual makes of reason as a scholar reaching the public world of readers",
+          "where": "mục Enlightenment"
+        }
+      ]
+    },
+    {
+      "text": "1786: ta sẽ nghĩ được bao nhiêu và đúng đến đâu nếu không nghĩ \"trong sự cộng đồng với những người khác\"; tước tự do công khai nói ra ý nghĩ cũng là tước tự do suy nghĩ (Was heißt: sich im Denken orientiren?, Ak 8:144)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/144.html",
+          "quote": "wenn wir nicht gleichsam in Gemeinschaft mit andern, denen wir unsere und die uns ihre Gedanken mittheilen, dächten",
+          "where": "Ak 8:144"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/144.html",
+          "quote": "den Menschen entreißt, ihnen auch die Freiheit zu denken nehme",
+          "where": "Ak 8:144"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1786 là năm của bài Orientiren (hai năm sau)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Immanuel_Kant",
+          "quote": "1786: Was heißt: Sich im Denken orientiren?",
+          "where": "danh mục tác phẩm Kant"
+        }
+      ]
+    },
+    {
+      "text": "Sapere aude là câu của Horace (Thư, I.2.40), Kant biến nó thành khẩu hiệu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelatinlibrary.com/horace/epist1.shtml",
+          "quote": "Dimidium facti, qui coepit, habet; sapere aude, incipe.",
+          "where": "Epistulae I.2, dòng 40"
+        },
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Vgl. Horaz: Epistulae (Briefe) I, 2, 40",
+          "where": "chú thích Wikisource"
+        }
+      ]
+    },
+    {
+      "text": "Horace là nhà thơ La Mã",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelatinlibrary.com/horace/epist1.shtml",
+          "quote": "Dimidium facti, qui coepit, habet",
+          "where": "The Latin Library, Horace Epistulae (không nói \"nhà thơ\" tường minh; kiến thức phổ thông)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Trích 8:144 đúng vị trí. Lưu ý: \"Horace là nhà thơ La Mã\" chỉ dựa vào việc trang The Latin Library xếp Horace/Epistulae, không có câu mô tả tường minh; không đáng ngờ."
+}

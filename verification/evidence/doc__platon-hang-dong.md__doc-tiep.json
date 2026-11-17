@@ -1,0 +1,78 @@
+{
+  "unit": "doc/platon-hang-dong.md#doc-tiep",
+  "hash": "sha256:30e8fa5bb9275e6a7f001f04652124ae4f4e5b1ace30add960adbef5a0f83ca1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Biết một điều nghĩa là gì? (../cau-hoi/tri-thuc.md): trang tồn tại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "<title> trang đã build"
+        }
+      ]
+    },
+    {
+      "text": "Ngôn từ định hình tư duy? (../cau-hoi/ngon-ngu.md): trang tồn tại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ngon-ngu/",
+          "quote": "Ngôn từ có định hình tư duy? Ngôn ngữ và tri thức - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Phổ quát có thật không? (../cau-hoi/pho-quat.md): trang tồn tại; Platon và Aristotle tranh luận về cái chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/pho-quat/",
+          "quote": "Cái đỏ của hoa hồng và cái đỏ của máu: phổ quát có thật không? - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Ai nên cai trị: số đông hay người hiểu biết? (../cau-hoi/ai-nen-cai-tri.md): trang tồn tại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ai-nen-cai-tri/",
+          "quote": "Ai nên cai trị: số đông hay người hiểu biết? - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Đọc \"Suy niệm\" I–II của Descartes: trang tồn tại; một tù nhân khác: mơ thấy mình tự do và sợ thức dậy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/descartes-suy-niem/",
+          "quote": "Đọc \"Suy niệm\" I–II của Descartes - Logos Zero"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "just as the captive, who, perchance, was enjoying in his dreams an imaginary liberty, when he begins to suspect that it is but a vision, dreads awakening",
+          "where": "Meditation I (Wikisource, bản dịch Veitch)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị)."
+}

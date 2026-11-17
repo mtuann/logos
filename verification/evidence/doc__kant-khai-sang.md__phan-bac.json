@@ -1,0 +1,117 @@
+{
+  "unit": "doc/kant-khai-sang.md#phan-bac",
+  "hash": "sha256:0b902a8472acf932d151a4b60bf7bff4be5c18919d436d269bba86260300364c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "Hamann trong thư gửi Christian Jacob Kraus năm 1784 cho rằng sự chưa trưởng thành không do dân tự gây ra, mà bị áp đặt bởi chính quyền độc đoán và bởi những người tự xưng là người giám hộ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "is not self-imposed. Rather, it is imposed, Hamann suggests, on the one hand by a politically authoritarian regime hostile to dissent and political free-thinking",
+          "where": "mục 7; trích thư gửi Kraus"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "those emancipated immature ones, who set themselves up as guardians"
+        }
+      ]
+    },
+    {
+      "text": "Hamann, bạn của Kant",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Johann Georg Hamann, người quen của Kant",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "through the intercession of his acquaintance, Immanuel Kant",
+          "where": "SEP mô tả Hamann–Kant là \"acquaintance\""
+        }
+      ]
+    },
+    {
+      "text": "Đáp lại: Kant tả người giám hộ cay nghiệt (đoạn 2); \"do chính mình\" khẳng định năng lực; yêu cầu chính nhắm vào chính quyền",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "Nachdem sie ihr Hausvieh zuerst dumm gemacht haben",
+          "where": "tr. 035"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/040.html",
+          "quote": "der also selbst den hochmüthigen Namen der Toleranz von sich ablehnt",
+          "where": "tr. 040: yêu cầu để công chúng tự do"
+        }
+      ]
+    },
+    {
+      "text": "Phản bác 2 \"Kant quá ôn hòa\": người lính tuân lệnh, người dân nộp thuế, chỉ xin được viết bài",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "Der Bürger kann sich nicht weigern, die ihm auferlegten Abgaben zu leisten",
+          "where": "tr. 037"
+        }
+      ]
+    },
+    {
+      "text": "Kant viết khế ước buộc các thế hệ sau mãi giữ giáo lý không đổi là \"hoàn toàn vô hiệu\", \"tội ác chống lại bản tính con người\" (Ak 8:39)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/039.html",
+          "quote": "ist schlechterdings null und nichtig",
+          "where": "tr. 039"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/039.html",
+          "quote": "Das wäre ein Verbrechen wider die menschliche Natur",
+          "where": "tr. 039"
+        }
+      ]
+    },
+    {
+      "text": "Foucault, \"What is Enlightenment?\" (1984, đúng 200 năm sau) đọc khai sáng là thái độ phê phán thường trực chứ không phải thời kỳ đã qua",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://foucault.info/documents/foucault.whatIsEnlightenment.en/",
+          "quote": "the permanent reactivation of an attitude — that is, of a philosophical ethos",
+          "where": "mở qua WebFetch (bản tóm lược máy); mục lục ghi \"The Foucault Reader, ed. P. Rabinow, pp. 32–50, Pantheon 1984\""
+        }
+      ]
+    },
+    {
+      "text": "Đáp lại Foucault: Kant nêu điều kiện thể chế cụ thể, tự do công khai dùng lý trí",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "der öffentliche Gebrauch seiner Vernunft muß jederzeit frei sein",
+          "where": "tr. 037"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một lỗi nhe: \"bạn của Kant\" nên là \"người quen\" theo SEP Hamann (acquaintance). Phản bác 3: nội dung Foucault chỉ kiểm qua bản WebFetch (tóm lược máy) trên foucault.info; không mở được văn bản gốc từng chữ nhưng khớp ý. Bản đầy đủ ở Foucault Reader tr. 32–50 chưa lật sách."
+}

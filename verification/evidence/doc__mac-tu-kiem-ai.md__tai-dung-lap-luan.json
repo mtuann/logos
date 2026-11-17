@@ -1,0 +1,73 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#tai-dung-lap-luan",
+ "hash": "sha256:99b8ba489b90f32a9f6cf78a1ce390bd19283701c27ff9788c9de94ac2af4f9f",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03",
+ "claims": [
+  {
+   "text": "Kiêm ái hạ: 仁人之事者，必務求興天下之利，除天下之害",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "仁人之事者，必務求興天下之利，除天下之害"
+    }
+   ]
+  },
+  {
+   "text": "Kết luận K: 兼以易別",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "是故子墨子曰：兼以易別。"
+    }
+   ]
+  },
+  {
+   "text": "P4: khi phải gửi gắm vợ con, ai cũng chọn người bạn theo kiêm",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也"
+    }
+   ]
+  },
+  {
+   "text": "Fraser: 'biệt' nghĩa là gạt hẳn người khác ra ngoài; lựa chọn thứ ba (quan tâm mọi người ở mức khác nhau) không được xét",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Bie means distinguishing or separating off others as other ... the Mohists never seriously consider that alternative (theo tóm tắt công cụ; cần đối chiếu trang)",
+     "where": "mục về bie / inclusive care"
+    }
+   ]
+  },
+  {
+   "text": "P1-P3 tái dựng đúng tinh thần Kiêm ái thượng/hạ: tìm gốc loạn, 'biệt' là gốc, thay bằng 'kiêm'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
+     "quote": "察此何自起？皆起不相愛 (xem nguyên văn Kiêm ái thượng)"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Quote Fraser về bie ghi theo kết quả truy xuất trang SEP (diễn đạt gần đúng, không phải câu nguyên văn liền mạch)."
+}

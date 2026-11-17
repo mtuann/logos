@@ -1,0 +1,77 @@
+{
+  "unit": "doc/manh-tu-tinh-thien.md#_dau",
+  "hash": "sha256:3d28e711abf43d3578e6ba6a283de4cdb1c5adeba4e6104e0bf36984a0bedcab",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01",
+  "claims": [
+    {
+      "text": "Mạnh Tử, thế kỷ 4 TCN (k. 372–289 TCN)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/manh-tu"
+    },
+    {
+      "text": "sách có lẽ do học trò của Mạnh Tử hoặc học trò của họ biên soạn; bản ngày nay do Triệu Kỳ biên tập, rút gọn ở thế kỷ 2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "This work was probably compiled by his disciples or disciples of his disciples. It was subsequently edited and shortened by Zhao Qi in the second century C.E."
+        }
+      ]
+    },
+    {
+      "text": "sách gồm 7 thiên, mỗi thiên hai phần; \"2A6\" là thiên 2, phần thượng, chương 6",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "The received text of the Mengzi is divided into seven \"books,\" each of which is subdivided into two parts (labeled \"A\" and \"B\" in English)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%85%AC%E5%AD%AB%E4%B8%91%E4%B8%8A",
+          "quote": "=== 6 === 孟子曰：「人皆有不忍人之心",
+          "where": "chương 6 của 公孫丑上"
+        }
+      ]
+    },
+    {
+      "text": "Mạnh Tử là người kế thừa Khổng Tử (Confucian philosopher; \"Second Sage\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Often referred to as the \"Second Sage\" of Confucianism (meaning second in importance only to Confucius himself)"
+        }
+      ]
+    },
+    {
+      "text": "bản dịch tiếng Anh James Legge (1861) của Mạnh Tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Author:James_Legge",
+          "quote": "Vol. II (1861 & 1895) ... The Works of Mencius"
+        }
+      ]
+    },
+    {
+      "text": "liên kết ctext.org thiên 2A (gong-sun-chou-i) và 6A (gaozi-i) mở được",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "ctext.org chặn truy cập tự động (đã thử trước đó với /analects/*, thông báo không cho phép scrape); không thử lại, không vòng."
+}

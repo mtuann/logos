@@ -1,0 +1,80 @@
+{
+  "unit": "doc/nguyen-trai-binh-ngo.md#hieu-lam-thuong-gap",
+  "hash": "sha256:9e9ce1f25bbce05837bce20fa7454abc60cf03d7aba4a6f94d8ca662deaf8f4e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k04",
+  "claims": [
+    {
+      "text": "\"Ngô\" là cách gọi nhà Minh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "帝既平吳，大告天下。其誥文曰：",
+          "where": "\"bình Ngô\" được dùng cho việc đánh quân Minh"
+        }
+      ]
+    },
+    {
+      "text": "ví dụ 要在 \"cốt ở\" trong Toàn thư và 務在 \"chuyên ở\" trong Lam Sơn thực lục",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "仁義之舉，要在安民",
+          "where": "Toàn thư"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Lam_Sơn_thực_lục/Cuốn_thứ_ba",
+          "quote": "仁義之舉務在安民",
+          "where": "Lam Sơn thực lục (Wikisource ghi nhận qua tra cứu; Hoàng Việt văn tuyển cũng 要在)"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo",
+          "quote": "仁義之舉，要在安民",
+          "where": "Hoàng Việt văn tuyển"
+        }
+      ]
+    },
+    {
+      "text": "Nhan đề \"Bình Ngô đại cáo\" không có trong Toàn thư, vốn chỉ ghi \"vua đã bình Ngô, bá cáo khắp thiên hạ\" (帝既平吳，大告天下)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "帝既平吳，大告天下。其誥文曰：",
+          "where": "Toàn thư chỉ có câu dẫn, không có nhan đề"
+        }
+      ]
+    },
+    {
+      "text": "Theo Bùi Duy Tân, ... nên ai đặt nhan đề còn phải để ngỏ (ý kiến dẫn theo Lý Thơ Phúc 2008)",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Nhân nghĩa nghĩa là không dùng vũ lực: bài cáo coi trừ bạo bằng binh đao là một phần của nhân nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "吊伐之師，莫先去暴 … 不嗜殺人者，仁人之本心",
+          "where": "điếu phạt = đánh kẻ có tội; vẫn cấm giết người đã hàng"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Không mở được bài gốc của Bùi Duy Tân (Tạp chí Nghiên cứu văn học số 6/2007). Đã thử: https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261 (là bài Lý Thơ Phúc 2008, PDF nén, không đọc được văn bản), https://vjol.info.vn/sphcm/article/view/15090 (trang mô tả, không nhắc Bùi Duy Tân), https://vjol.info.vn/index.php/NNDS/article/download/15738/14148 (PDF không đọc được). Một lần tìm web cho thấy một bài khác của Lý Thơ Phúc trích Bùi Duy Tân (2007) và Toàn thư chỉ có câu \"Đế ký bình Ngô, đại cáo thiên hạ\" nhưng tôi không mở được trang đó để lấy chữ. Phần Toàn thư không có nhan đề: đã kiểm trực tiếp. Gợi ý nhẹ: câu dịch \"bá cáo\" cho 大告 hơi cổ, không sai nghĩa."
+}

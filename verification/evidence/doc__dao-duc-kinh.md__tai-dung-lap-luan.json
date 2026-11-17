@@ -1,0 +1,87 @@
+{
+  "unit": "doc/dao-duc-kinh.md#tai-dung-lap-luan",
+  "hash": "sha256:50b26fef76a0c7d0d7a906123d32a5b9c04e25a72a1ee08304d25150e247fa56",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k02",
+  "claims": [
+    {
+      "text": "P1. Các phân biệt có tên (đẹp/xấu, giỏi/kém) sinh ra cùng nhau; đề cao một vế là dựng lên vế kia.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "故有無相生，難易相成，長短相較，高下相傾",
+          "where": "ch.2"
+        }
+      ]
+    },
+    {
+      "text": "P2. Theo đuổi những giá trị được đề cao (danh, của hiếm) khơi lên ham muốn, rồi tranh giành.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂",
+          "where": "ch.3"
+        }
+      ]
+    },
+    {
+      "text": "P3/P4. Tranh giành và can thiệp cưỡng ép làm rối trật tự tự nhiên; muôn vật không bị cưỡng ép tự vận hành tốt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "為無為，則無不治",
+          "where": "ch.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "philosophically wuwei is not about not doing certain things",
+          "where": "sec.7"
+        }
+      ]
+    },
+    {
+      "text": "P1 là khẳng định về khái niệm (chương 2); P2 và P3 về tâm lý và xã hội (chương 3, 44)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "是故甚愛必大費，多藏必厚亡",
+          "where": "ch.44"
+        }
+      ]
+    },
+    {
+      "text": "K. Người cai trị và người khôn nên vô vi: làm lợi mà không tranh, như nước",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "水善利萬物而不爭",
+          "where": "ch.8"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "聖人之道，為而不爭",
+          "where": "ch.81"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tái dựng là của Logos, đánh dấu rõ P4 là giả định ngầm; không gán thêm cho văn bản. Mỗi tiền đề có chỗ bám trong nguyên văn."
+}

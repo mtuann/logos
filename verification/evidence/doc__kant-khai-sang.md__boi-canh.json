@@ -1,0 +1,114 @@
+{
+  "unit": "doc/kant-khai-sang.md#boi-canh",
+  "hash": "sha256:27621e798dd49d5c48dbf5f4ffabe1aac1be73f14646da762ff70c0df7e077b7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "Tháng 12/1783, Zöllner trong bài về việc bỏ nghi thức tôn giáo khỏi hôn nhân ghi chú rằng \"khai sáng là gì?\" gần như quan trọng ngang \"chân lý là gì?\", chưa thấy ai trả lời",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Was ist Aufklärung? Diese Frage, die beinahe so wichtig ist, als: was ist Wahrheit, sollte doch wol beantwortet werden, ehe man aufzuklären anfange! Und noch habe ich sie nirgends beantwortet gefunden!",
+          "where": "Wikisource chú thích 1: Zöllner, Berlinische Monatsschrift 2 (1783), tr. 508–516, 516 Anm.; bản in Kant: \"S. Decemb. 1783. S. 516\""
+        }
+      ]
+    },
+    {
+      "text": "Johann Friedrich Zöllner là mục sư",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Mendelssohn trả lời năm 1784, số tháng 9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "worin des Herrn Mendelssohn Beantwortung eben derselben Frage angeführt wird",
+          "where": "chú thích cuối của Kant: Anzeige \"von diesem Monat\" (Büsching 13 Sept); Mendelssohn BM 4 (1784), tr. 193–200"
+        },
+        {
+          "url": "https://de.wikisource.org/wiki/Ueber_die_Frage:_was_hei%C3%9Ft_aufkl%C3%A4ren%3F",
+          "quote": "aus: Berlinische Monatsschrift, Bd. 4, 1784, S. 193–200."
+        }
+      ]
+    },
+    {
+      "text": "Kant ghi ở cuối bài rằng ông chưa kịp đọc bài của Mendelssohn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Mir ist sie noch nicht zu Händen gekommen",
+          "where": "chú thích cuối"
+        }
+      ]
+    },
+    {
+      "text": "Immanuel Kant (1724–1804)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/kant"
+    },
+    {
+      "text": "Khi ấy Kant 60 tuổi, giáo sư ở Königsberg, nước Phổ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Königsberg in Preußen, den 30. Septemb.[er] 1784.",
+          "where": "nơi ký; 1784 − 1724 = 60 theo people/kant (sinh 1724)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "through the intercession of his acquaintance, Immanuel Kant",
+          "where": "Hamann; gián tiếp: Kant ở Königsberg"
+        }
+      ]
+    },
+    {
+      "text": "Friedrich II là ông vua \"chuyên chế khai sáng\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/enlightenment/",
+          "quote": "The Prussian enlightened despot, Frederick the Great",
+          "where": "mục về đạo đức/Holbach"
+        }
+      ]
+    },
+    {
+      "text": "Friedrich II khoan dung về tôn giáo nhưng nắm quyền tuyệt đối",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/040.html",
+          "quote": "der also selbst den hochmüthigen Namen der Toleranz von sich ablehnt",
+          "where": "Ak 8:40 (khoan dung)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
+          "quote": "a politically authoritarian regime hostile to dissent and political free-thinking, while encouraging religious free-thinking",
+          "where": "mục Hamann, thư gửi Kraus"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Chưa kiểm được: Zöllner là \"mục sư\". Các nguồn đã mở (Wikisource chú thích) chỉ ghi tên, tựa bài; không có chức danh. Cần mở thêm tiểu sử Zöllner (ADB/NDB). Ngoài ra \"giáo sư\" Königsberg chỉ gián tiếp từ people/kant; đã đọc data/people/kant.yml (sống và dạy học cả đời ở đó) nhưng không có chức danh ghi 1784, nên chưa coi là chứng cứ độc lập. Đã thử thêm deutsche-biographie.de (tìm kiếm): chỉ ghi \"1753 – 1804, Oberkonsistorialrat; Polyhistor; Pädagoge\", không có \"Prediger\"; de.wikisource trang Johann_Friedrich_Zöllner trả 404. Tức là Zöllner là quan chức giáo hội (Oberkonsistorialrat), chưa xác nhận từ nguồn đã mở là \"mục sư\"; mọi chi tiết khác của đơn vị đều đúng."
+}

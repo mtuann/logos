@@ -1,0 +1,77 @@
+{
+  "unit": "doc/nguyen-trai-binh-ngo.md#tai-dung-lap-luan",
+  "hash": "sha256:7547beb84106291fa2117fef316830d3a0eae2d926dd32008b186d5db6064103",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k04",
+  "claims": [
+    {
+      "text": "P1 (định nghĩa nhân nghĩa: dùng binh chính đáng khi nhằm yên dân và trừ bạo) là tiền đề lấy từ câu mở đầu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。",
+          "where": "câu mở đầu bài cáo"
+        }
+      ]
+    },
+    {
+      "text": "P2 (quân Minh bóc lột, tàn hại dân lành)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "浚生民之血，以潤桀黠之吻牙。極土木之功，以崇公私之廨宇。州里之征徭重困",
+          "where": "đoạn kể tội trong bài cáo"
+        }
+      ]
+    },
+    {
+      "text": "P3 (Đại Việt có cõi bờ, phong tục, văn hiến riêng, ngang hàng phương Bắc)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "山川之封域既殊，南北之風俗亦異。…與漢、唐、宋、元而各帝一方",
+          "where": "bài cáo"
+        }
+      ]
+    },
+    {
+      "text": "P4 (kháng chiến kết thúc bằng tha hàng binh, đem thái bình cho dân)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "予以全軍為上，而欲民與息 … 于以開萬世太平之基",
+          "where": "bài cáo; cùng mục 12/12 Đinh Mùi chép việc cấp thuyền, lương cho quân Minh về"
+        }
+      ]
+    },
+    {
+      "text": "P2 và P4 là khẳng định sự kiện nói từ phía người thắng, cần đối chiếu nguồn độc lập; từ P1–P4 tới K là suy diễn; giả định ngầm \"thắng lợi là dấu hiệu chính nghĩa\" không cần cho K",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十",
+          "quote": "卒能以大義而勝凶殘，以至仁而易強暴",
+          "where": "bài cáo tự trình bày thắng lợi như kết quả của đại nghĩa; nhận định logic của bài là phân tích hợp lý, không sai nguồn"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tái dựng bám đúng cấu trúc bài cáo: định nghĩa, kể tội, khẳng định văn hiến, kết thúc bằng tha hàng binh. Ghi \"người thắng nói\" là cảnh báo đúng."
+}

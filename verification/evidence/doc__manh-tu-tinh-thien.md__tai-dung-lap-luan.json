@@ -1,0 +1,92 @@
+{
+  "unit": "doc/manh-tu-tinh-thien.md#tai-dung-lap-luan",
+  "hash": "sha256:e5fb32034411be8ca7e95be703b19732c5fda8219e23a6c0bd63d9b66625f369",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01",
+  "claims": [
+    {
+      "text": "P1/P2 (2A6): ai chợt thấy đứa trẻ sắp rơi xuống giếng cũng giật mình xót thương, không do vụ lợi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%85%AC%E5%AD%AB%E4%B8%91%E4%B8%8A",
+          "quote": "今人乍見孺子將入於井，皆有怵惕惻隱之心；非所以內交於孺子之父母也",
+          "where": "=== 6 ==="
+        }
+      ]
+    },
+    {
+      "text": "P4: lòng xót thương là mầm của nhân; ba lòng kia là mầm của nghĩa, lễ, trí",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%85%AC%E5%AD%AB%E4%B8%91%E4%B8%8A",
+          "quote": "惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。",
+          "where": "=== 6 ==="
+        }
+      ]
+    },
+    {
+      "text": "P5/6A6: 乃若其情，則可以為善矣，乃所謂善也 (xét theo tình thực thì có thể làm điều thiện, ấy là điều gọi là thiện)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%91%8A%E5%AD%90%E4%B8%8A",
+          "quote": "孟子曰：「乃若其情則可以為善矣，乃所謂善也。",
+          "where": "=== 6 ==="
+        }
+      ]
+    },
+    {
+      "text": "K: điều ác đến từ chỗ mầm bị chặt phá hoặc không được nuôi (núi Ngưu, nước)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%91%8A%E5%AD%90%E4%B8%8A",
+          "quote": "故茍得其養，無物不長；茍失其養，無物不消。",
+          "where": "=== 8 ==="
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Mencius holds that all humans have innate but incipient tendencies toward benevolence, righteousness, wisdom, and propriety."
+        }
+      ]
+    },
+    {
+      "text": "Mạnh Tử đồng thời lập luận bằng loại suy (nước, núi); thế (勢) khác tính",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%91%8A%E5%AD%90%E4%B8%8A",
+          "quote": "是豈水之性哉？其勢則然也。人之可使為不善，其性亦猶是也。",
+          "where": "=== 2 ==="
+        }
+      ]
+    },
+    {
+      "text": "P3 \"tức thời chưa chắc bẩm sinh\" là giả định ngầm của lập luận (nhận xét phân tích của bài, phù hợp việc SEP nói sprouts \"sporadic and inconsistent\" nhưng \"innate\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Our nascent virtues are sporadic and inconsistent in their manifestations."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Gọi bước tới vế đầu K là \"suy diễn (deductive)\" là cách trình bày của bài, không phải dữ kiện; SEP không dùng chữ này. Chấp nhận như dien-giai hợp lý, không lỗi."
+}

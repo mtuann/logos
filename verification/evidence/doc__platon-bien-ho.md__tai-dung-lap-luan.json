@@ -1,0 +1,109 @@
+{
+  "unit": "doc/platon-bien-ho.md#tai-dung-lap-luan",
+  "hash": "sha256:4c7e786c48d3635a9770d685f52a672c372bd8b1cb2b46ccab2f0c11da37cbca",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "P1. Không ai biết chết là xấu hay tốt; sợ chết là làm ra vẻ biết điều mình không biết (29a)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29a",
+          "quote": "For to fear death, gentlemen, is nothing else than to think one is wise when one is not; for it is thinking one knows what one does not know",
+          "where": "Apology 29a (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "P2. Bất tuân thần, đấng tốt hơn mình, thì chắc chắn là xấu (29b)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29b",
+          "quote": "it is evil and disgraceful to do wrong and to disobey him who is better than I, whether he be god or man",
+          "where": "Apology 29b (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "P3. Ngừng xét hỏi... là bất tuân thần, vì đó là nhiệm vụ thần giao qua lời sấm (23b, 30a)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=23b",
+          "quote": "I am still even now going about and searching and investigating at the god's behest",
+          "where": "Apology 23b (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=30a",
+          "quote": "For know that the god commands me to do this",
+          "where": "Apology 30a (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "P4. Không được né một điều có thể là tốt mà chấp nhận một điều chắc chắn là xấu (29b)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "I will never fear or avoid a possible good rather than a certain evil",
+          "where": "Jowett, 29b"
+        }
+      ]
+    },
+    {
+      "text": "Lời sấm chỉ nói \"không ai khôn ngoan hơn Socrates\"; đọc nó thành mệnh lệnh đi chất vấn cả thành phố là cách hiểu của riêng ông",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=21a",
+          "quote": "Now the Pythia replied that there was no one wiser",
+          "where": "Apology 21a (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=23b",
+          "quote": "I am still even now going about and searching and investigating at the god's behest",
+          "where": "Apology 23b (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Lập luận về cái chết có dạng lưỡng nan: chết hoặc là hư không, hoặc là dời chỗ; cả hai đều không xấu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "either it is virtually nothingness... or it is, as people say, a change and migration of the soul",
+          "where": "Apology 40c (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40d",
+          "quote": "death would be a wonderful gain",
+          "where": "Apology 40d (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40e",
+          "quote": "what greater blessing could there be, judges?",
+          "where": "Apology 40e (Fowler, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tái dựng bám sát 23b, 29a–b, 30a, 40c–e. Ghi chú không phải lỗi: ở 33c Socrates nói bổn phận hỏi người khác còn được thần báo 'bằng sấm, điềm mộng và mọi cách' (Jowett: 'oracles, visions, and in every way'), nên chỗ 'chỉ nói không ai khôn hơn' của bài là nhận định giản lược về Delphi, không phải về toàn bộ căn cứ ông nêu; có thể bổ sung nếu muốn mạnh nhất. Gutenberg #1656 chặn bot nên đọc bản chép web.archive.org của pg1656.txt; số Stephanus từ Perseus."
+}
