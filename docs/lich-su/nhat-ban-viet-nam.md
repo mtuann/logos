@@ -62,7 +62,7 @@ Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngo
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md)
 - [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md)
 - [Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md)
-- [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — Đạo gia và đạo đức môi trường, một cầu nối thú vị
+- [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — đạo đức môi trường: giá trị nội tại hay giá trị công cụ của thiên nhiên
 
 ## Nguồn {#nguon}
 
