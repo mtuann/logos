@@ -80,6 +80,43 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "[Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 và giới hạn của ngôn ngữ",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 đặt cạnh câu hỏi ngôn ngữ có định hình tư duy không",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ngon-ngu/",
+          "quote": "Phiên bản mạnh: ngôn ngữ quyết định thế giới của ta",
+          "where": "trang đích bàn giả thuyết Sapir–Whorf và ngôn ngữ riêng tư; không bàn điều không nói được hay \"giới hạn của ngôn ngữ\", không nhắc Lão Tử"
+        }
+      ]
+    },
+    {
+      "text": "[Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/",
+          "quote": "một bên là Khổng Tử và Mạnh Tử với đức trị — cai trị bằng đức hạnh; bên kia là Hàn Phi với pháp trị",
+          "where": "trang đích không bàn vô vi; mô tả chỉ đặt vô vi của bài này cạnh hai mô hình mà trang đích có"
+        }
+      ]
+    },
+    {
+      "text": "[Hướng dẫn đọc Bát nhã Tâm kinh](tam-kinh.md) — cái \"không\" của chương 11 đặt cạnh cái \"không\" của Phật giáo",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "Tướng không của các pháp ấy không sinh không diệt"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -90,5 +127,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Đã kiểm bằng ls trong repo rằng các file đích tồn tại (trung-hoa, ngon-ngu, trang-tu-mong-ho-diep, duc-tri, han-phi, tam-kinh) và tiêu đề khớp mô tả. Nội dung trang đích thuộc đơn vị khác, không đánh giá ở đây. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): hai dòng mẫu ghi sai (Trăm nhà đua tiếng: 'Lão–Trang đối đầu Nho–Pháp'; Trang Tử: 'người kế thừa nổi tiếng nhất của Lão Tử') đã được sửa đúng chữ fix của mẫu; SEP Zhuangzi fall2026 mở lại xác nhận 'Traditional orthodoxy understood Zhuangzi as an…'."
+  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Đã kiểm bằng ls trong repo rằng các file đích tồn tại (trung-hoa, ngon-ngu, trang-tu-mong-ho-diep, duc-tri, han-phi, tam-kinh) và tiêu đề khớp mô tả. Nội dung trang đích thuộc đơn vị khác, không đánh giá ở đây. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): hai dòng mẫu ghi sai (Trăm nhà đua tiếng: 'Lão–Trang đối đầu Nho–Pháp'; Trang Tử: 'người kế thừa nổi tiếng nhất của Lão Tử') đã được sửa đúng chữ fix của mẫu; SEP Zhuangzi fall2026 mở lại xác nhận 'Traditional orthodoxy understood Zhuangzi as an…'. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 gộp \"Trăm nhà đua tiếng: bối cảnh Lão–Trang đối đầu Nho–Pháp…\" (dung) đã bị kiểm mẫu bác cho vế đầu; dòng nay đã sửa, xem claim sai fixed."
 }

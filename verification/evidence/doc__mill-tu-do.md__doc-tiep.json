@@ -2,7 +2,7 @@
   "unit": "doc/mill-tu-do.md#doc-tiep",
   "hash": "sha256:53be892c81baa14f9ebbc0f1d953baddcbf466e328a83ea15667c1a5912d2d37",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k09 + agent-kiem-5.4-r07",
+  "checker": "agent-kiem-5.4-k09 + agent-kiem-5.4-r07 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Kant, 75 năm trước Mill (Khai sáng 1784; On Liberty 1859)",
@@ -63,6 +63,58 @@
           "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
         }
       ]
+    },
+    {
+      "text": "[Dân chủ là gì, và vì sao nó đáng giá?](../cau-hoi/dan-chu.md) — tự do ngôn luận là điều kiện của dân chủ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/",
+          "quote": "dân chủ còn đòi hỏi những điều kiện khác — quyền cơ bản của thiểu số, tự do ngôn luận, pháp quyền"
+        }
+      ]
+    },
+    {
+      "text": "[AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — ai kiểm duyệt \"chợ ý tưởng\" khi thuật toán làm người gác cổng?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — công nghệ trung lập hay định hình con người, khi thuật toán chọn sẵn tin tức cho ta đọc?",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cong-nghe-ai/",
+          "quote": "Bạn thức dậy, điện thoại đã chọn sẵn tin tức cho bạn đọc.",
+          "where": "Thí nghiệm tư duy; trang đích bàn công nghệ trung lập/định hình con người/siêu nhân loại; tìm \"kiểm duyệt\", \"chợ ý tưởng\", \"gác cổng\", \"ngôn luận\": 0 kết quả"
+        }
+      ]
+    },
+    {
+      "text": "[Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md) — nguyên tắc gây hại và các ranh giới ngày nay.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-ngon-luan/",
+          "quote": "nguyên tắc gây hại (harm principle) của Mill"
+        }
+      ]
+    },
+    {
+      "text": "[Luận cứ thép](../cong-cu/luan-cu-thep.md) — hiểu lập luận của đối phương ở dạng mạnh nhất, như Mill đòi hỏi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/luan-cu-thep/",
+          "quote": "dựng lại lập trường của phe đối lập ở dạng mạnh nhất có thể"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901-0.txt",
+          "quote": "He must know them in their most plausible and persuasive form",
+          "where": "On Liberty, chương II"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -72,6 +124,6 @@
     "trung-lap": true,
     "thuat-ngu": null
   },
-  "result": "dat",
-  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. Mô tả chủ đề các bài liên kết thuộc đơn vị khác nên không kiểm sâu. Lượt 2: mở 6 trang đích trên site deploy (đều 200), ghi <title>."
+  "result": "sua",
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. Mô tả chủ đề các bài liên kết thuộc đơn vị khác nên không kiểm sâu. Lượt 2: mở 6 trang đích trên site deploy (đều 200), ghi <title>. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }

@@ -2,7 +2,7 @@
   "unit": "doc/nguyen-trai-binh-ngo.md#doc-tiep",
   "hash": "sha256:ebb0938d627eca46898358ebbd14dd1e41bd0a4913950045dfc0bf4adbff68cf",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Thơ văn Lý–Trần: tuyển, \"truyền thống văn chương Việt trước Nguyễn Trãi: vô thường, thiền và thơ\"",
@@ -81,5 +81,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mô tả liên kết Mạnh Tử: tính thiện không đúng với nội dung trang đích. Các trang đích khác đã đọc trong repo (không phải nguồn ngoài; dùng URL gốc site chỉ làm chỗ ghi).\nLượt 2: mở các trang đích trên mtuann.github.io/logos (đã deploy), cập nhật quote; mô tả trang Mạnh Tử đã sửa đúng fix → fixed: true."
+  "notes": "Mô tả liên kết Mạnh Tử: tính thiện không đúng với nội dung trang đích. Các trang đích khác đã đọc trong repo (không phải nguồn ngoài; dùng URL gốc site chỉ làm chỗ ghi).\nLượt 2: mở các trang đích trên mtuann.github.io/logos (đã deploy), cập nhật quote; mô tả trang Mạnh Tử đã sửa đúng fix → fixed: true. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 0 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }

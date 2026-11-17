@@ -2,7 +2,7 @@
   "unit": "doc/epictetus-cam-nang.md#doc-tiep",
   "hash": "sha256:d8dd5502c5517c86f84c18e09daa78572042c9239fc0e9ea69ad133c6bc7ab99",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k06",
+  "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Cẩm nang khép lại bằng chính lời Socrates: Anytus và Meletus có thể giết ông, nhưng không làm hại được ông",
@@ -44,6 +44,61 @@
           "where": "mục Physics"
         }
       ]
+    },
+    {
+      "text": "[Mọi sự đã được định sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Mọi thứ đã được viết sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dinh-menh/",
+          "quote": "Mọi thứ đã được viết sẵn?",
+          "where": "H1 và <title> của trang đích"
+        }
+      ]
+    },
+    {
+      "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — một câu trả lời Khắc kỷ cho câu hỏi về ý nghĩa",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — bốn lập trường về ý nghĩa cuộc sống, để đặt cạnh câu trả lời Khắc kỷ của *Cẩm nang*",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Cái phi lý: nghiêm túc trong một vũ trụ dửng dưng",
+          "where": "bốn lập trường của trang đích: cái phi lý, dấn thân vào điều đáng giá, chủ quan luận, ý nghĩa từ điều vượt lên trên; tìm \"Khắc kỷ\", \"Stoic\", \"Epictetus\", \"Aurelius\": 0 kết quả"
+        }
+      ]
+    },
+    {
+      "text": "[Đọc *Suy tưởng* của Marcus Aurelius](aurelius-suy-tuong.md) — người học trò qua sách của Epictetus, viết cho chính mình",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/aurelius-suy-tuong/",
+          "quote": "người đã cho ông đọc các bài giảng của Epictetus (I.7)"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/aurelius-suy-tuong/",
+          "quote": "Ông viết cho chính mình"
+        }
+      ]
+    },
+    {
+      "text": "[Đọc \"Biện hộ của Socrates\"](platon-bien-ho.md) — *Cẩm nang* khép lại bằng chính lời Socrates: Anytus và Meletus có thể giết ông, nhưng không làm hại được ông",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/platon-bien-ho/",
+          "quote": "Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (24b).",
+          "where": "trang đích không trích 30c–d; mô tả nói về văn bản *Cẩm nang* (câu cuối đã kiểm ở claim lượt 1), không hứa trang đích bàn đoạn ấy"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -53,6 +108,6 @@
     "trung-lap": null,
     "thuat-ngu": true
   },
-  "result": "dat",
-  "notes": "Bốn link nội bộ (cau-hoi/dinh-menh, cau-hoi/y-nghia-song, doc/aurelius-suy-tuong, doc/platon-bien-ho) không kiểm nội dung trang đích (đơn vị khác). Chỉ kiểm câu mô tả §53. Lưu ý: văn bản Hy Lạp đặt câu \"Anytus và Meletus...\" sau câu \"Crito\": Epictetus trích lại lời Socrates (Crito/Apology)."
+  "result": "sua",
+  "notes": "Bốn link nội bộ (cau-hoi/dinh-menh, cau-hoi/y-nghia-song, doc/aurelius-suy-tuong, doc/platon-bien-ho) không kiểm nội dung trang đích (đơn vị khác). Chỉ kiểm câu mô tả §53. Lưu ý: văn bản Hy Lạp đặt câu \"Anytus và Meletus...\" sau câu \"Crito\": Epictetus trích lại lời Socrates (Crito/Apology). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (nhe, vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }

@@ -66,6 +66,54 @@
     }
    ],
    "fixed": true
+  },
+  {
+   "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — hoài nghi luận của Descartes được trình bày đầy đủ ở đây",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+     "quote": "Năm 1641, René Descartes viết Suy niệm về Triết học Đệ nhất.",
+     "where": "lập trường 1 \"Hoài nghi luận\", kèm đoạn giấc mơ ở \"Đọc văn bản gốc\""
+    }
+   ]
+  },
+  {
+   "text": "[Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+     "quote": "Năm 1641, René Descartes xuất bản Suy niệm về Triết học Đệ nhất. Trong Suy niệm II",
+     "where": "lập trường 1 \"Nhị nguyên luận\""
+    }
+   ]
+  },
+  {
+   "text": "[Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — phiên bản hiện đại của ác thần",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/mo-phong/",
+     "quote": "Descartes từng tưởng tượng một \"ác quỷ lừa dối\" dựng nên mọi trải nghiệm của ta",
+     "where": "trang đích gọi \"ác quỷ lừa dối\"; khác chữ, cùng giả thuyết"
+    }
+   ]
+  },
+  {
+   "text": "[Đọc ẩn dụ hang động](platon-hang-dong.md) — một người tù khác, cũng phải tập nhìn ra ánh sáng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/doc/platon-hang-dong/",
+     "quote": "Anh phải tập nhìn từng bậc",
+     "where": "Đoạn 2 (515c–516c)"
+    }
+   ]
   }
  ],
  "checklist": {
@@ -76,5 +124,5 @@
   "thuat-ngu": null
  },
  "result": "dat",
- "notes": "Chỉ kiểm quan hệ với văn bản gốc và sự tồn tại file đích (ls), không kiểm nội dung các trang đích. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): nhãn đã đổi thành 'Thân xác và tâm trí', khớp H1/<title> trang đích (mở lại, HTTP 200)."
+ "notes": "Chỉ kiểm quan hệ với văn bản gốc và sự tồn tại file đích (ls), không kiểm nội dung các trang đích. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): nhãn đã đổi thành 'Thân xác và tâm trí', khớp H1/<title> trang đích (mở lại, HTTP 200). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Trang mo-phong gọi \"ác quỷ lừa dối\", bài này \"ác thần\": khác chữ ngoài phạm vi đơn vị."
 }
