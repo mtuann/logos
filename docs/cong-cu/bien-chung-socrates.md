@@ -29,7 +29,7 @@ Một vòng vấn đáp thường đi qua các bước sau:
 
 **Bước 5. Định nghĩa mới — rồi lặp lại.** Đưa ra định nghĩa tốt hơn, và vòng vấn đáp bắt đầu lại từ bước 2.
 
-Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của *chính mình*. Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.
+Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của *chính mình*. Theo cách đọc phổ biến, Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.
 
 ## Ví dụ kinh điển: Euthyphro {#vi-du-kinh-dien-euthyphro}
 
@@ -63,7 +63,7 @@ Bạn không cần là Socrates mới dùng được phép vấn đáp. Thử v�
 
 **Định nghĩa mới:** "Thành công là sống đúng với điều mình cho là quan trọng." — Rồi lại hỏi tiếp: "điều mình cho là quan trọng" nghĩa là gì? Kẻ lừa đảo cũng "sống đúng với điều hắn cho là quan trọng" mà?
 
-Bạn thấy không: mỗi vòng vấn đáp không cho ta đáp án cuối cùng, nhưng nó lột bỏ dần những định nghĩa cẩu thả. Đó cũng là cách duy nhất để một khái niệm lớn ("thành công", "tự do", "công bằng") trở nên đáng tin.
+Bạn thấy không: mỗi vòng vấn đáp không cho ta đáp án cuối cùng, nhưng nó lột bỏ dần những định nghĩa cẩu thả. Đó là một cách hữu hiệu để một khái niệm lớn ("thành công", "tự do", "công bằng") trở nên đáng tin hơn.
 
 Một ví dụ nữa, ở công sở:
 
@@ -80,7 +80,7 @@ Một ví dụ nữa, ở công sở:
 Phép vấn đáp dễ bị dùng sai thành vũ khí. Đây là ranh giới:
 
 - **Mục đích là cùng tìm ra sự thật**, không phải thắng. Trong phép vấn đáp, "đối thủ" là người cùng đi tìm với bạn, không phải kẻ thù cần hạ.
-- **Tấn công lập luận, không tấn công người.** "Định nghĩa của bạn sụp đổ ở chỗ này" khác hẳn "bạn chẳng biết gì".
+- **Tấn công lập luận, không tấn công người.** "Định nghĩa của bạn sụp đổ ở chỗ này" khác hẳn "bạn chẳng biết gì". (Đây là chuẩn của tranh luận ngày nay; trong các đối thoại của Platon, Socrates đôi khi làm người đối thoại bẽ mặt, như Thrasymachus ở quyển I *Cộng hòa*.)
 - **Sẵn sàng thay đổi ý kiến** — kể cả ý kiến của chính mình. Socrates thường mở đầu bằng việc thừa nhận mình không biết. Nếu bạn hỏi người ta mà lòng đã quyết "mình đúng", thì đó không phải vấn đáp, đó là bẫy.
 - **Bế tắc phải đến từ lý lẽ**, không phải từ mệt mỏi hay từ giọng điệu dồn ép.
 
