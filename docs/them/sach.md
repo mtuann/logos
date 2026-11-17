@@ -5270,7 +5270,7 @@ Gợi ý độ dài: 150–300 chữ.
 
     - Luận điểm chính: mỗi lần khen hay trách, ta ngầm giả định người ta *có thể* đã hành xử khác đi — nhưng nếu tính cách và hoàn cảnh đã định đoạt mọi thứ, lời khen lời trách còn ý nghĩa gì? Bài tách thành ba câu hỏi: khi nào *đáng* bị trách, ta trách *để làm gì* (bản án cho quá khứ hay lời mời sửa sai cho tương lai), và trách nhiệm có đòi hỏi "có thể làm khác đi" không?
     - Bốn lập trường: Frankfurt (1969) — trách nhiệm không cần "có thể làm khác đi": chị Lan vẫn chịu trách nhiệm dù cơ chế can thiệp khiến chị không thể đổi ý, vì điều quan trọng là *diễn biến thực tế*; Strawson ("Freedom and Resentment", 1962) — trách nhiệm nằm trong các thái độ phản ứng (biết ơn, phẫn nộ, tội lỗi) của đời sống chung, đừng bắt đầu từ siêu hình học; Pereboom (*Living Without Free Will*, 2001) — có thể sống tốt mà không cần "đáng trách tối hậu": cách ly người nguy hiểm như cách ly người bệnh, để bảo vệ cộng đồng chứ không phải vì họ *đáng* bị nhốt; Fischer & Ravizza (1998) — trách nhiệm khi cơ chế ra quyết định là *của chính bạn* và *đáp ứng với lý do*.
-    - Thái độ của bài: đây không chỉ là lý thuyết mà là lựa chọn sống — sống tử tế mà không cần bản án tối hậu.
+    - Với Pereboom, đây không chỉ là lý thuyết mà là một lựa chọn sống: sống tử tế mà không cần bản án tối hậu.
 
 Tuần trước, một người bạn kể: "Tao mắng con thậm tệ vì nó nói dối. Đêm về nằm nghĩ — nó mới tám tuổi, nó học nói dối từ đâu? Từ tao, từ bạn bè, từ YouTube. Vậy tao đang trách ai?"
 
@@ -5351,7 +5351,7 @@ Khi ai đó giúp bạn vô tư, bạn thấy biết ơn. Khi ai đó cố tình
 
 ### 3. Pereboom: có thể sống tốt mà không cần "đáng trách tối hậu"
 
-Derk Pereboom đi xa hơn. Trong *Living Without Free Will* (2001), ông lập luận rằng không ai *đáng* bị trách hay bị phạt theo nghĩa sâu nhất — nghĩa mà ông gọi là *basic desert*: đáng bị khổ *chỉ vì* đã làm điều xấu, không vì mục đích nào khác. Điều đáng chú ý: lập luận của ông không cần **tất định luận** (*determinism*) phải đúng; ngay cả trong thế giới có ngẫu nhiên, ta vẫn không tự tạo ra chính mình (xem [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md), mục 3).
+Derk Pereboom đi xa hơn. Trong *Living Without Free Will* (2001), ông lập luận rằng không ai *đáng* bị trách hay bị phạt theo nghĩa sâu nhất — nghĩa mà ông gọi là *basic desert*: đáng bị khổ *chỉ vì* đã làm điều xấu, không vì mục đích nào khác. Điều đáng chú ý: lập luận của ông không cần **tất định luận** (*determinism*) phải đúng; ngay cả trong thế giới có ngẫu nhiên, may rủi cũng không cho ta quyền kiểm soát cần có để *đáng* bị trách (xem [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md), mục 3).
 
 Nhưng Pereboom nhấn mạnh: từ bỏ "đáng trách tối hậu" không có nghĩa là từ bỏ mọi thứ. Ta vẫn có thể:
 
@@ -5382,7 +5382,7 @@ Hãy so sánh: người bị cấy chip điều khiển toàn bộ quá trình c
 
 **Phản bác chính.** Đây chính là **lập luận thao túng** của Pereboom (đã giới thiệu trong [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md)): hãy tưởng tượng một chuỗi trường hợp, từ bị điều khiển trực tiếp, đến bị lập trình từ nhỏ, đến... một tuổi thơ bình thường trong thế giới tất định. Nếu ở đầu chuỗi ta miễn trách, thì điểm cắt nằm ở đâu? Người phản đối nói Fischer không chỉ ra được một điểm cắt có cơ sở.
 
-**Cách đáp lại.** Fischer đáp rằng có một khác biệt có cơ sở, và nó nằm ở điều kiện thứ nhất (cơ chế có phải *của mình* không): bị một *tác nhân khác* trực tiếp điều khiển vì mục đích của họ thì cơ chế không còn là của bạn, khác với được hình thành bởi những nguyên nhân tự nhiên không có chủ ý. Trong trường hợp thứ hai, không ai "viết kịch bản" cho bạn; cơ chế ra quyết định vẫn là nơi mà *lý do của chính bạn* được cân nhắc. Người phản đối có thể hỏi tiếp: "nhưng gen và môi trường cũng 'viết kịch bản' cho bạn đấy thôi?" — và cuộc tranh luận tiếp tục.
+**Cách đáp lại.** Fischer đáp bằng điều kiện thứ nhất (cơ chế có phải *của mình* không), vốn có yếu tố lịch sử: một cơ chế là của bạn khi bạn đã dần "nhận trách nhiệm" về nó — tin rằng chính mình hành động khi dùng nó, và mình là đối tượng thích đáng của lời khen, lời trách. Bị tẩy não hay bị điều khiển trực tiếp là đi tắt qua quá trình ấy, nên cơ chế không còn là của bạn. Còn người được "tạo ra" từ đầu rồi để đời mình tự diễn ra, không ai can thiệp thêm, thì theo Fischer vẫn có thể chịu trách nhiệm như người lớn lên bình thường. Người phản đối có thể hỏi tiếp: "nhưng gen và môi trường cũng 'viết kịch bản' cho bạn đấy thôi?" — và cuộc tranh luận tiếp tục.
 
 ## Giới triết học ngày nay nghĩ gì
 
@@ -5410,7 +5410,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 **Văn hóa "ném đá" trên mạng.** Một người nổi tiếng nói hớ một câu, hàng nghìn người vào mắng chửi. Theo Strawson, cơn giận đó là thái độ phản ứng tự nhiên — không cần xin phép triết học. Nhưng chính Strawson cũng nhắc: thực hành của ta vốn có những "van an toàn" — "nó không cố ý", "nó còn trẻ", "nó đã xin lỗi". Vấn đề của ném đá tập thể là nó thường bỏ qua mọi van an toàn: không xét hoàn cảnh, không chấp nhận lời xin lỗi, không có mức độ. Một thực hành trách nhiệm lành mạnh cần cả hai: dám trách, và biết khi nào nên dừng.
 
-**Dạy con.** Bạn phạt con vì nói dối. Bạn đang làm gì? Nếu theo nghĩa "bản án", bạn đang nói "con đáng bị khổ". Nếu theo nghĩa "lời mời sửa sai", bạn đang nói "con có thể làm tốt hơn, và bố/mẹ sẽ giúp con". Cách thứ hai không cần giả định siêu hình nào về tự do mà vẫn giữ được tính giáo dục. Có lẽ đó là lý do nhiều nhà giáo dục khuyên: phạt thì gắn với hành vi cụ thể và cách sửa, đừng gắn với "bản chất" của đứa trẻ ("con là đứa hư").
+**Dạy con.** Bạn phạt con vì nói dối. Bạn đang làm gì? Nếu theo nghĩa "bản án", bạn đang nói "con đáng bị khổ". Nếu theo nghĩa "lời mời sửa sai", bạn đang nói "con có thể làm tốt hơn, và bố/mẹ sẽ giúp con". Cách thứ hai không cần giả định siêu hình nào về tự do mà vẫn giữ được tính giáo dục. Có lẽ vì thế mà khi phạt, ta nên gắn lời phạt với hành vi cụ thể và cách sửa, đừng gắn với "bản chất" của đứa trẻ ("con là đứa hư").
 
 **Lời xin lỗi.** Khi nào lời xin lỗi có ý nghĩa? Khi người nói nhận mình là *nguồn* của hành động ("tôi đã làm điều đó, không đổ cho ai"), và thể hiện rằng cơ chế của họ đã thay đổi ("tôi hiểu vì sao điều đó sai, và tôi sẽ khác đi"). Đó chính là ngôn ngữ của Fischer, nói theo cách đời thường. Một lời xin lỗi kiểu "tôi xin lỗi *nếu* ai đó thấy bị xúc phạm" thất bại ở cả hai điểm.
 
