@@ -15126,7 +15126,7 @@ kinh Vệ Đà — xuất hiện một tư tưởng táo bạo. Các hiền tri�
 **Brahman**; và cái "tôi" sâu nhất trong mỗi người — **Atman** — không khác gì Brahman. Câu nói nổi
 tiếng trong *Chandogya Upanishad*: "Tat tvam asi" — "Ngươi chính là Cái Đó".
 
-Tư tưởng cốt lõi: hiểu biết về Atman đưa tới giải thoát — trong các Upanishad cổ nhất, giải thoát
+Tư tưởng cốt lõi: **tri thức** (*knowledge*) về Atman đưa tới giải thoát — trong các Upanishad cổ nhất, giải thoát
 trước hết là thoát khỏi cái chết. Về sau, nhất là trong Advaita Vedanta, cách đọc phổ biến là: khổ
 đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong khi bản chất thật của
 ta đồng nhất với Brahman; giác ngộ là nhận ra sự đồng nhất đó, và khi nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
