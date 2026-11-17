@@ -1,7 +1,7 @@
 ---
 title: Tình trạng kiểm chứng
 description: Bao nhiêu phần của Logos đã được kiểm chứng với nguồn, theo từng mảng nội dung.
-updated: 2026-11-10
+updated: 2026-11-17
 ---
 
 # Tình trạng kiểm chứng
@@ -28,8 +28,8 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Ý nghĩa cuộc sống | 38 | 0 | 0 | 0% |
 | Tư tưởng Việt Nam | 30 | 0 | 0 | 0% |
 | Lịch sử | 68 | 0 | 0 | 0% |
-| Đọc văn bản | 190 | 0 | 0 | 0% |
-| **Tổng** | **987** | **0** | **0** | **0%** |
+| Đọc văn bản | 190 | 190 | 0 | 0% |
+| **Tổng** | **987** | **190** | **0** | **0%** |
 
 ## Dữ kiện {#du-kien}
 
