@@ -135,7 +135,7 @@ Khi hai thứ hay đi cùng nhau (**tương quan**), có ít nhất bốn khả 
                                đi cùng nhau chỉ do tình cờ.
 ```
 
-Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm phổ biến nhất. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
+Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
 
 Một lỗi họ hàng là chỉ vì B xảy ra *sau* A mà cho rằng A gây ra B, gọi là [Sau nó nên do nó](nguy-bien.md#post-hoc).
 
