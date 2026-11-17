@@ -14,9 +14,9 @@ Triết học không chỉ có ở Hy Lạp, Ấn Độ hay Trung Hoa. Khi Phậ
 
 ## Nhật Bản: từ Phật giáo đến trường phái Kyoto {#nhat-ban-tu-phat-giao-den-truong-phai-kyoto}
 
-Phật giáo đến Nhật Bản vào thế kỷ 6, theo đường Triều Tiên (từ nước Bách Tế) **[chắc chắn]**; năm cụ thể còn tranh luận (*Nihon Shoki* ghi 552, một số nguồn cổ khác ghi 538) — và nhanh chóng gắn với triều đình, trở thành một trong những trụ cột văn hóa Nhật. Qua nhiều thế kỷ, Nhật Bản phát triển các tông phái Phật giáo riêng (Thiên Thai, Chân Ngôn, Tịnh Độ, Thiền), mỗi tông một cách hiểu khác nhau về giác ngộ. Song song, Nho giáo — đặc biệt Tân Nho giáo của [Chu Hy](../triet-gia/chu-hy.md) — du nhập và ảnh hưởng sâu đến giáo dục và đạo đức samurai thời Tokugawa (1603–1868).
+Phật giáo đến Nhật Bản vào thế kỷ 6, theo đường Triều Tiên (từ nước Bách Tế) **[chắc chắn]**; năm cụ thể còn tranh luận (*Nihon Shoki* ghi 552, một số nguồn cổ khác ghi 538) — và nhanh chóng gắn với triều đình, trở thành một trong những trụ cột văn hóa Nhật. Qua nhiều thế kỷ, Nhật Bản phát triển các tông phái Phật giáo riêng (Thiên Thai, Chân Ngôn, Tịnh Độ, Thiền), mỗi tông một cách hiểu khác nhau về giác ngộ. Song song, Nho giáo — đặc biệt Tân Nho giáo của [Chu Hy](../triet-gia/chu-hy.md) — du nhập và ảnh hưởng sâu đến giáo dục và đạo đức samurai thời Tokugawa (1600–1868).
 
-Thời Tokugawa (1603–1868), khi Nhật Bản đóng cửa với phương Tây, Nho giáo — đặc biệt Tân Nho giáo của Chu Hy — trở thành nền tảng giáo dục của tầng lớp võ sĩ (*samurai*). Đạo lý trung quân, trọng danh dự, coi thường tiền bạc thấm vào **võ sĩ đạo** (*bushido*, "đạo của võ sĩ") **[có cơ sở]**. Nghịch lý thú vị: một triết học Trung Hoa du nhập lại trở thành linh hồn của tinh thần Nhật Bản — thêm một ví dụ về "tiếp biến chứ không sao chép".
+Thời Tokugawa (1600–1868), khi Nhật Bản đóng cửa với phương Tây, Nho giáo — đặc biệt Tân Nho giáo của Chu Hy — trở thành nền tảng giáo dục của tầng lớp võ sĩ (*samurai*). Đạo lý trung quân, trọng danh dự của Nho giáo về sau thấm vào **võ sĩ đạo** (*bushido*, "đạo của võ sĩ") **[có cơ sở]** — dù võ sĩ đạo chỉ thành một học thuyết có hệ thống vào thời hiện đại (thế kỷ 19), lai ghép Nho, Phật, Thần đạo và cả tư tưởng châu Âu. Nghịch lý thú vị: một triết học Trung Hoa du nhập lại trở thành một phần của cái được tôn là "linh hồn" của tinh thần Nhật Bản — thêm một ví dụ về "tiếp biến chứ không sao chép".
 
 Bước ngoặt đến vào cuối thế kỷ 19, khi Nhật Bản mở cửa (Minh Trị duy tân 1868): triết học phương Tây tràn vào qua các đại học mới. Từ cuộc gặp gỡ đó nảy sinh **trường phái Kyoto** (*Kyoto School*): nhóm triết gia quanh Đại học Kyoto tìm cách đối thoại giữa Thiền Phật giáo với hiện tượng luận, hiện sinh và thần học Đức. Người sáng lập là Nishida Kitaro (1870–1945) **[chắc chắn]**, với khái niệm "logic của cái không" — dùng kinh nghiệm Thiền để đặt câu hỏi mà triết học phương Tây chưa hỏi.
 
@@ -39,7 +39,7 @@ Việt Nam tiếp nhận cả ba dòng — Phật, Nho, Đạo — nhưng theo c
 Hai chủ đề này đã có bài riêng, trình bày đầy đủ với nguồn và tranh luận:
 
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md) — triết lý "cư trần lạc đạo" của Trần Nhân Tông
-- [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — Nho học bản địa và tam giáo đồng nguyên
+- [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — tiếp thu hay sáng tạo: từ Chu Văn An đến Nguyễn Trãi
 
 ## Việt Nam hiện đại: đối thoại với thế giới {#viet-nam-hien-dai-doi-thoai-voi-the-gioi}
 
@@ -55,7 +55,7 @@ Câu chuyện đầy đủ — với nhãn độ chắc chắn cho từng khẳn
 
 Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngoại lai (Phật giáo, Nho giáo, triết học phương Tây) khi vào một nền văn hóa mới đều bị "bản địa hóa" — giữ cái hợp, biến cái chưa hợp, và sinh ra thứ mới **[suy đoán]** (mẫu hình được nhiều nhà nghiên cứu ghi nhận, nhưng mỗi trường hợp cụ thể cần khảo sát riêng). Thiền Trúc Lâm không phải Thiền Trung Hoa; trường phái Kyoto không phải hiện tượng luận Đức; Nho giáo Việt Nam không phải Nho giáo Tống–Minh.
 
-Điều này cũng trả lời một nỗi lo thường trực: "học triết học ngoại thì có mất gốc không?" Câu trả lời từ lịch sử: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*. Người Nhật đọc Husserl mà vẫn ngồi thiền; người Việt đọc Marx mà vẫn cúng giỗ. Truyền thống sống được không phải nhờ đóng khung bảo quản, mà nhờ dám đem ra đối thoại với cái mới — và thắng thua gì cũng là của mình.
+Điều này cũng trả lời một nỗi lo thường trực: "học triết học ngoại thì có mất gốc không?" Câu trả lời mà hai trường hợp này gợi ý **[suy đoán]**: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*. Người Nhật đọc Husserl mà vẫn ngồi thiền; người Việt đọc Marx mà vẫn cúng giỗ. Truyền thống sống được không phải nhờ đóng khung bảo quản, mà nhờ dám đem ra đối thoại với cái mới — và thắng thua gì cũng là của mình.
 
 ## Đọc tiếp {#doc-tiep}
 
