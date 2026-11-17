@@ -2,7 +2,7 @@
   "unit": "cong-cu/bien-chung-socrates.md#nguon",
   "hash": "sha256:4b550dc67645918aeed8dfb72dc23ba55f7138c545cca6f86a8e6275b5383bd5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Nguồn 1: Nails, Debra & S. Sara Monoson, \"Socrates\", SEP, bản lưu fall2026.",
@@ -44,12 +44,12 @@
           "where": "IEP Socrates, cuối trang"
         },
         {
-          "url": "https://www.gutenberg.org/ebooks/1642",
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
           "quote": "Translator: Benjamin Jowett",
           "where": "Gutenberg #1642 (bản lưu web.archive.org)"
         },
         {
-          "url": "https://www.gutenberg.org/ebooks/1656",
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
           "quote": "Translator: Benjamin Jowett",
           "where": "Gutenberg #1656 (bản lưu web.archive.org)"
         }
@@ -64,5 +64,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cả bốn dòng khớp đúng bản ghi sources/* đã đóng băng (kb). Ngoài ra tự mở lại: cả bốn URL mở được (Gutenberg qua bản lưu web.archive.org/web/2025 vì gutenberg.org bảo trì lúc kiểm); thông tin tác giả/dịch giả khớp. Ghi chú: bài còn cần dẫn SEP \"Plato's Ethics: An Overview\" (mục 2.1 aporetic procedure) và SEP \"Religion and Morality\" nếu muốn có nguồn cho \"aporia\" và \"thế lưỡng nan Euthyphro\"; không bắt buộc."
+  "notes": "Cả bốn dòng khớp đúng bản ghi sources/* đã đóng băng (kb). Ngoài ra tự mở lại: cả bốn URL mở được (Gutenberg qua bản lưu web.archive.org/web/2025 vì gutenberg.org bảo trì lúc kiểm); thông tin tác giả/dịch giả khớp. Ghi chú: bài còn cần dẫn SEP \"Plato's Ethics: An Overview\" (mục 2.1 aporetic procedure) và SEP \"Religion and Morality\" nếu muốn có nguồn cho \"aporia\" và \"thế lưỡng nan Euthyphro\"; không bắt buộc. Lượt 2: đổi URL Gutenberg #1642, #1656 sang bản lưu web.archive.org của pg*.txt (có dòng \"Translator: Benjamin Jowett\")."
 }

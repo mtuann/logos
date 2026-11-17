@@ -2,7 +2,7 @@
  "unit": "cong-cu/lap-luan-la-gi.md#mau-nhan-dien",
  "hash": "sha256:ad26cc7edc7f3144f63801ec7da9ebad171b230daf80743f8b8074dfe8f8cd94",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p01",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Dấu hiệu có lập luận: có câu được đưa ra để làm câu khác đáng tin hơn; cố thay đổi điều người nghe tin; có từ chỉ báo",
@@ -32,8 +32,8 @@
     },
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
-     "quote": "truth-bearing propositions",
-     "where": "phần kết: claims, commands... ngoài phạm vi mệnh đề đúng/sai của logic cổ điển"
+     "quote": "arguments are collections of propositions (\"bearers of truth value\")",
+     "where": "Section 6 (kết): claims, commands... ngoài phạm vi mệnh đề đúng/sai của logic cổ điển"
     }
    ]
   },
@@ -44,7 +44,7 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
-     "quote": "(θ → ψ) can be read as \"if θ then ψ\"",
+     "quote": "roughly corresponds to \"if … then … \", so … can be read \"if … then",
      "where": "SEP Classical Logic (đoạn tóm tắt của WebFetch): điều kiện là một công thức đơn; đơn vị đơn không có tiền đề + kết luận, tự kiểm bằng logic"
     }
    ]
@@ -70,5 +70,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": ""
+ "notes": "Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
 }

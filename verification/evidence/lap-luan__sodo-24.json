@@ -1,8 +1,8 @@
 {
   "unit": "lap-luan/sodo-24",
-  "hash": "sha256:f0e2e2747b117abb385d94621ee95091c733755fe17250ad9c109ae64645d70b",
+  "hash": "sha256:5adfac1de30e4ea1e9932a1411090afe270242e7c8cd5e93548d21537f01b0a2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-l02",
+  "checker": "agent-kiem-5.5-l02 + agent-kiem-5.5-k01",
   "claims": [
     {
       "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
@@ -67,9 +67,10 @@
           "quote": "an argument is not a function of the syntactic and semantic features",
           "where": "IEP Argument: vai trò do ý định người lập luận, câu gia đình này có thể được dùng như lý do"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Mức nhẹ: c4 có cách đọc khác khá hợp lý, nhưng chưa tới mức chấm sai oan nghiêm trọng. ghi_chu_tranh_cai về c2 hợp lý. c5 là giả định ngầm hợp lý."
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Mức nhẹ: c4 có cách đọc khác khá hợp lý, nhưng chưa tới mức chấm sai oan nghiêm trọng. ghi_chu_tranh_cai về c2 hợp lý. c5 là giả định ngầm hợp lý. Kiểm lại: đã thêm vào ghi_chu_tranh_cai câu về c4 đúng ý fix; ghi chú nhắc c2 và c4, đúng hai điểm tranh cãi, nên disputedIds chỉ nới hai câu này. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node)."
 }

@@ -1,92 +1,104 @@
 {
- "unit": "cong-cu/nguy-bien.md#tu-kiem-tra",
- "hash": "sha256:ad3d66b9e4cf516e9978f52df4faf4b2b1701e97dcb65c04f9b97e12fb19ed75",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p08",
- "claims": [
-  {
-   "text": "Q1 đáp án 0 (Người rơm): 'không đồng ý tăng học phí' bị bóp méo thành 'muốn trường xuống cấp'",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/nguy-bien.md#tu-kiem-tra",
+  "hash": "sha256:ad3d66b9e4cf516e9978f52df4faf4b2b1701e97dcb65c04f9b97e12fb19ed75",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "an opponent's point of view is distorted in order to make it easier to refute",
-     "where": "SEP"
+      "text": "Q1 đáp án 0 (Người rơm): 'không đồng ý tăng học phí' bị bóp méo thành 'muốn trường xuống cấp'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "an opponent's point of view is distorted in order to make it easier to refute",
+          "where": "SEP"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent.",
+          "where": "IEP"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent.",
-     "where": "IEP"
-    }
-   ]
-  },
-  {
-   "text": "Q2 đáp án 1: ngụy biện không làm kết luận sai; lập luận chưa cho lý do tốt; các phương án khác sai",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "just because what someone says is in their self-interest, does not mean it should be rejected",
-     "where": "SEP"
+      "text": "Q2 đáp án 1: ngụy biện không làm kết luận sai; lập luận chưa cho lý do tốt; các phương án khác sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "just because what someone says is in their self-interest, does not mean it should be rejected",
+          "where": "SEP"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Truth can be obtained from bad reasoning if the errors cancel out.",
+          "where": "IEP"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Truth can be obtained from bad reasoning if the errors cancel out.",
-     "where": "IEP"
-    }
-   ]
-  },
-  {
-   "text": "Q3 đáp án 2 (tổ chức khí tượng quốc gia về bão) không phải ngụy biện; các phương án 0,1,3 là thẩm quyền không đúng lĩnh vực",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Q3 đáp án 2 (tổ chức khí tượng quốc gia về bão) không phải ngụy biện; các phương án 0,1,3 là thẩm quyền không đúng lĩnh vực",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "IEP, Appeal to Authority"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "is fallacious whenever the authority appealed to is not really an authority in this particular subject",
-     "where": "IEP, Appeal to Authority"
-    }
-   ]
-  },
-  {
-   "text": "Q4 đáp án 1 (khẳng định hậu kiện): 'Nếu Hà Nội thì nói tiếng Việt; Lan nói tiếng Việt; vậy Lan ở Hà Nội' (nếu P thì Q; Q; vậy P). Phương án 0,2,3 sai",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Q4 đáp án 1 (khẳng định hậu kiện): 'Nếu Hà Nội thì nói tiếng Việt; Lan nói tiếng Việt; vậy Lan ở Hà Nội' (nếu P thì Q; Q; vậy P). Phương án 0,2,3 sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional",
+          "where": "IEP, Affirming the Consequent"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional",
-     "where": "IEP, Affirming the Consequent"
-    }
-   ]
-  },
-  {
-   "text": "Q5 đáp án 1 (chi phí chìm): quyết định nên dựa vào phía trước; 2 triệu đã trả không lấy lại được dù đi tiếp hay dừng. Phương án nhiễu (theo số đông, post hoc, nguồn gốc) không khớp",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Q5 đáp án 1 (chi phí chìm): quyết định nên dựa vào phía trước; 2 triệu đã trả không lấy lại được dù đi tiếp hay dừng. Phương án nhiễu (theo số đông, post hoc, nguồn gốc) không khớp",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "that something is widely practised or believed is not compelling evidence that it is true",
+          "where": "SEP, loại trừ phương án 0 (theo số đông)"
+        }
+      ]
+    },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "that something is widely practised or believed is not compelling evidence that it is true",
-     "where": "SEP, loại trừ phương án 0 (theo số đông)"
+      "text": "Định nghĩa chi phí chìm làm cơ sở cho đáp án Q5 (2 triệu đã trả không lấy lại được dù đi tiếp hay dừng; quyết định nên dựa vào những gì phía trước)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "commitments deriving from one’s past involvement in an activity or project, which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "SEP Practical Reason: coi trọng chi phí chìm là phi lý theo cách nhìn hệ quả; cam kết từ quá khứ có thể vẫn hợp lý"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tort-theories/",
+          "quote": "Economic analysis views injuries in the past as “sunk costs” which can never be recovered.",
+          "where": "SEP Theories of the Common Law of Torts"
+        }
+      ]
     }
-   ]
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
   },
-  {
-   "text": "Định nghĩa chi phí chìm làm cơ sở cho đáp án Q5 [SEP/IEP Fallacies không có sunk cost; đáp án đúng theo logic (khoản đã trả là chi phí chìm không đổi giữa các lựa chọn) nhưng chưa có nguồn đã mở nêu định nghĩa; Arkes & Blumer 1985 chỉ xác nhận tên khái niệm]",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  }
- ],
- "checklist": {
-  "dung-nguon": null,
-  "manh-nhat": true,
-  "phan-bac": null,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "chua-kiem-duoc",
- "notes": "Cả 5 đáp án quiz đúng, phương án nhiễu sai (tự kiểm logic và đối chiếu SEP/IEP). Chỉ định nghĩa 'chi phí chìm' chưa có nguồn SEP/IEP."
+  "result": "dat",
+  "notes": "Cả 5 đáp án quiz đúng, phương án nhiễu sai (tự kiểm logic và đối chiếu SEP/IEP). Chỉ định nghĩa 'chi phí chìm' chưa có nguồn SEP/IEP. Lượt 2: claim #5 giải quyết bằng SEP Practical Reason và SEP Tort Theories (chi phí chìm)."
 }

@@ -1,8 +1,8 @@
 {
  "unit": "lap-luan/sodo-13",
- "hash": "sha256:3abb3cd3bf9a69cd024e25ec4250f6d10b8836b7c4e122b990083777e6da6e1e",
+ "hash": "sha256:e63938a36f9a2e487b628f3f8a0458be02e183272e6b29ac4004d8ab9be996c2",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-l01",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
  "claims": [
   {
    "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
@@ -64,9 +64,10 @@
     }
    ],
    "severity": "vua",
-   "fix": "Thêm ghi_chu_tranh_cai: \"c4 là một ví dụ cá nhân cho thấy đi làm thêm vui; nó có thể đọc là tiền đề yếu theo kiểu viện dẫn một ca. Trong mạch này tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\" Hoặc đổi c4 sang chuyện lạc đề rõ."
+   "fix": "Thêm ghi_chu_tranh_cai: \"c4 là một ví dụ cá nhân cho thấy đi làm thêm vui; nó có thể đọc là tiền đề yếu theo kiểu viện dẫn một ca. Trong mạch này tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\" Hoặc đổi c4 sang chuyện lạc đề rõ.",
+   "fixed": true
   }
  ],
- "result": "sua",
- "notes": ""
+ "result": "dat",
+ "notes": "Kiểm lại: c4 đã đổi thành \"Quán cà phê gần ký túc xá vừa đổi chủ.\", lạc đề rõ; không còn đọc được là ví dụ một ca ủng hộ đi làm thêm."
 }

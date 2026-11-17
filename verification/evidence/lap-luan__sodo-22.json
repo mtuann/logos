@@ -1,8 +1,8 @@
 {
   "unit": "lap-luan/sodo-22",
-  "hash": "sha256:96a801d327249d6a3564b9ae7ec48ed83115737b9652e2b800fd8dd1ef90289c",
+  "hash": "sha256:12cdf11ce92a579715fb9aa6a83a0d9f2ab75aedbd47715e22e07af04ce13655",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-l02",
+  "checker": "agent-kiem-5.5-l02 + agent-kiem-5.5-k01",
   "claims": [
     {
       "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
@@ -67,9 +67,10 @@
           "quote": "intermediate conclusions which are premises for further conclusions",
           "where": "SEP Informal Logic: kết luận trung gian phải được tiền đề đỡ; ở đây c2 là dữ kiện, không phải kết luận trung gian"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
-  "result": "sua",
-  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Chỉ có mũi tên c3->c2 sai chiều, hiện ra trong 'Sơ đồ của đáp án đúng' sau khi nộp bài; vai trò từng câu vẫn đúng nên điểm chấm không đổi. Nhẹ hơn: c1 (giá cao hơn) là lý do chống lại kết luận nhưng bị vẽ cùng loại mũi tên 'đỡ' với các tiền đề khác; ghi_chu_tranh_cai đã giải thích đây là cân nhắc lợi/hại, chấp nhận được. c5 là giả định ngầm hợp lý (giá trị thời gian/sức khỏe hơn 2 triệu)."
+  "result": "dat",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Chỉ có mũi tên c3->c2 sai chiều, hiện ra trong 'Sơ đồ của đáp án đúng' sau khi nộp bài; vai trò từng câu vẫn đúng nên điểm chấm không đổi. Nhẹ hơn: c1 (giá cao hơn) là lý do chống lại kết luận nhưng bị vẽ cùng loại mũi tên 'đỡ' với các tiền đề khác; ghi_chu_tranh_cai đã giải thích đây là cân nhắc lợi/hại, chấp nhận được. c5 là giả định ngầm hợp lý (giá trị thời gian/sức khỏe hơn 2 triệu). Kiểm lại: dap_an c3 ho_tro đã đổi từ [c2] thành [c6] đúng fix; sơ đồ đáp án không còn mũi tên c3→c2 sai chiều. Ghi chú tranh cãi không đổi (chỉ nhắc c1, đúng điểm tranh cãi)."
 }

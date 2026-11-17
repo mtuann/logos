@@ -1,32 +1,44 @@
 {
- "unit": "fallacy-types/post-hoc",
- "hash": "sha256:5571af9fac5d85a51d5ac57ac0c40f8312f8740a58612f9b461ac016d804d5ea",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-d01",
- "claims": [
-  {
-   "text": "en: Post hoc ergo propter hoc; định nghĩa: B sau A nên A gây B",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "fallacy-types/post-hoc",
+  "hash": "sha256:5571af9fac5d85a51d5ac57ac0c40f8312f8740a58612f9b461ac016d804d5ea",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d01 + agent-kiem-5.5-r01",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "ascribes a causal relationship between two states or events on the basis of temporal succession",
-     "where": "§1 item 7"
+      "text": "en: Post hoc ergo propter hoc; định nghĩa: B sau A nên A gây B",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "ascribes a causal relationship between two states or events on the basis of temporal succession",
+          "where": "§1 item 7"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B",
+          "where": "Post Hoc"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B",
-     "where": "Post Hoc"
+      "text": "not_fallacy_when: Khi có cơ chế nhân quả hợp lý và các giải thích khác đã được loại trừ, ví dụ bằng thử nghiệm có nhóm đối chứng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”",
+          "where": "IEP, mục Post Hoc"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/medicine/",
+          "quote": "An experimental design that compares a treatment group with one or several control groups is therefore better able to control for this confounder than a simple “before-and-after” design.",
+          "where": "SEP Philosophy of Medicine"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "text": "not_fallacy_when: có cơ chế hợp lý, loại trừ giải thích khác, thử nghiệm có nhóm đối chứng — nguồn SEP/IEP đã mở không nêu rõ điều này (chỉ phần mở đầu mục IEP đọc được).",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  }
- ],
- "result": "chua-kiem-duoc",
- "notes": "Phần 'không phải ngụy biện' không có trong SEP/IEP đã mở; là ý chung hợp lý."
+  ],
+  "result": "dat",
+  "notes": "Phần 'không phải ngụy biện' không có trong SEP/IEP đã mở; là ý chung hợp lý. Lượt 2: claim #1 giải quyết bằng IEP mục Post Hoc (đọc đủ mục) và SEP Philosophy of Medicine (nhóm đối chứng loại trừ giải thích khác)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#dinh-nghia-trong-doi-song-khi-ranh-gioi-co-gia",
-  "hash": "sha256:bf035086db13da18d0946d66f4bccaa1c695bc0334e7900ba78aebb1f88e041e",
+  "hash": "sha256:d0903ace7e2e68f8bc9c929975f0d348d25eac1ce1909ba4812ab7ad379a80e2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06 + agent-kiem-5.5-k02",
   "claims": [
     {
       "text": "Trong pháp luật, định nghĩa vạch ranh giới có tội/vô tội (\"người thành niên\", \"tội cố ý\", \"phòng vệ chính đáng\"); định nghĩa quá rộng là oan sai, quá hẹp là bỏ lọt",
@@ -19,7 +19,17 @@
     {
       "text": "Định nghĩa pháp lý, y khoa dài dằng dặc với điều khoản loại trừ là dấu vết của phản ví dụ thực tế; \"ai chịu trách nhiệm khi xe tự lái gây tai nạn?\"",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Vì vậy các định nghĩa pháp lý, y khoa thường dài với nhiều điều khoản loại trừ: có thể xem chúng như những miếng vá cho các phản ví dụ gặp trong thực tế.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "where": "SEP Definitions, mục adequacy: chỉ nói định nghĩa đầy đủ là không có phản ví dụ; không nói về lịch sử điều khoản loại trừ",
+          "quote": "A definition is extensionally adequate iff there are no actual counterexamples to it."
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -29,6 +39,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Câu về nguồn gốc lịch sử của các điều khoản loại trừ (\"dấu vết của hàng chục phản ví dụ\") là nhận định chung, không có nguồn SEP/IEP trực tiếp mở được; không đoán. Mức nhẹ; có thể gỡ hoặc mềm hóa (\"có thể là dấu vết\"). Không có dữ kiện sai."
+  "result": "dat",
+  "notes": "Câu về nguồn gốc lịch sử của các điều khoản loại trừ (\"dấu vết của hàng chục phản ví dụ\") là nhận định chung, không có nguồn SEP/IEP trực tiếp mở được; không đoán. Mức nhẹ; có thể gỡ hoặc mềm hóa (\"có thể là dấu vết\"). Không có dữ kiện sai. Lượt 2: không tìm thấy nguồn được phép cho nhận định về nguồn gốc điều khoản loại trừ; chuyển claim thành sai mức nhẹ kèm fix nói thận trọng hơn. Kiểm lại: câu điều khoản loại trừ đã thay đúng nguyên văn fix (bỏ \"dằng dặc\", \"dấu vết của hàng chục\"); claim 1 fixed."
 }

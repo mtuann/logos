@@ -2,7 +2,7 @@
  "unit": "cong-cu/nguy-bien-hinh-thuc.md#bon-cai-bay",
  "hash": "sha256:3856991faca2062c84ab36fe8524f3eeabe32c8af86d14778084b957e9544fd5",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p11",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Nếu P thì Q chỉ sai khi P đúng mà Q sai; dòng P sai Q đúng: hai tiền đề đúng, kết luận P sai, nên khuôn khẳng định hậu kiện không hợp lệ (dùng bảng chân trị)",
@@ -11,8 +11,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     },
     {
      "url": "https://iep.utm.edu/fallacy/",
@@ -38,8 +38,8 @@
     },
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   },
@@ -91,8 +91,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     },
     {
      "url": "https://iep.utm.edu/fallacy/",
@@ -161,5 +161,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Ví dụ Hà ho, Lan đỗ, món cay mặn là chuyện kể. | Neo #affirming-consequent có thật trong docs/cong-cu/nguy-bien.md dòng 189; nhóm 4 có hai mục. | Tự kiểm bằng logic: tiền đề đúng, kết luận sai trong cả bốn phản ví dụ."
+ "notes": "Ví dụ Hà ho, Lan đỗ, món cay mặn là chuyện kể. | Neo #affirming-consequent có thật trong docs/cong-cu/nguy-bien.md dòng 189; nhóm 4 có hai mục. | Tự kiểm bằng logic: tiền đề đúng, kết luận sai trong cả bốn phản ví dụ. Lượt 2: chép lại quote IEP về bảng chân trị kéo theo đúng nguyên văn trên trang (α, β là mã MathJax \\alpha, \\beta)."
 }

@@ -2,7 +2,7 @@
  "unit": "cong-cu/logic-menh-de.md#_dau",
  "hash": "sha256:6a8840d942baf4eda25210141dca98eed3b36f7677719a9947428907bc594273",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p03",
+ "checker": "agent-kiem-5.5-p03 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Lời hứa 'nếu P thì Q' chỉ bị phá vỡ khi P xảy ra mà Q không xảy ra; chân trị 'nếu… thì…' quyết định máy móc bởi chân trị hai vế",
@@ -11,8 +11,13 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
-     "quote": "A conditional is satisfied when the antecedent fails to hold or the consequent holds",
-     "where": "Semantics (kéo theo vật chất)"
+     "quote": "(\\theta \\rightarrow \\psi)\\) if and only if either it is not the case that \\(M,s\\vDash \\theta\\), or \\(M,s\\vDash \\psi\\)",
+     "where": "§4 Semantics, mệnh đề thỏa cho phép kéo theo (ký hiệu MathJax giữ nguyên như trên trang)"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is regarded as true, whether or not there is any connection between the falsity of \\alpha and the truth-value of \\beta",
+     "where": "§3 Material Implication"
     }
    ]
   }
@@ -25,5 +30,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Đoạn mở bằng ví dụ tự soạn (bố và Tí); chỉ kiểm phần phân tích: đúng theo bảng chân trị kéo theo."
+ "notes": "Đoạn mở bằng ví dụ tự soạn (bố và Tí); chỉ kiểm phần phân tích: đúng theo bảng chân trị kéo theo. Lượt 2: thay quote SEP (câu tóm tắt) bằng nguyên văn mệnh đề thỏa của → trên trang; thêm nguyên văn IEP §3 về kéo theo vật chất không đòi liên hệ giữa hai vế."
 }

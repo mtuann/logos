@@ -2,7 +2,7 @@
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#bai-tap",
   "hash": "sha256:f86309080e93d815199033cba2f5d84766cb9e7dd667896d3b34479b81665354",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Bài 1: \"Xe là phương tiện có bốn bánh\" quá hẹp (xe máy, xe đạp) và quá rộng (giường bệnh viện có bánh)",
@@ -35,12 +35,12 @@
       "sources": [
         {
           "url": "https://www.ditext.com/gettier/gettier.html",
-          "quote": "Proposition (d): \"Jones is the man who will get the job, and Jones has ten coins in his pocket.\"",
-          "where": "Case I: cả tin, đúng, được biện minh đều thỏa"
+          "quote": "These two examples show that definition (a) does not state a sufficient condition for someone's knowing a given proposition.",
+          "where": "Kết luận sau Case II"
         },
         {
           "url": "https://iep.utm.edu/gettier/",
-          "quote": "His belief is true and justified",
+          "quote": "It contains a belief which is true and justified — but which is not knowledge.",
           "where": "Case 10 xu"
         }
       ]
@@ -54,5 +54,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tự kiểm từng đáp án: Bài 1 (xe máy/xe đạp không có bốn bánh: quá hẹp; bốn bánh mà không phải xe: quá rộng) đúng; Bài 3 \"luôn đồng ý\" quá rộng (kẻ nịnh) và quá hẹp (bạn thật phản đối) đúng; Bài 6, 7 đúng logic. Bài 4: nói đúng, vì bài gốc dùng JTB trước hết là điều kiện đủ."
+  "notes": "Tự kiểm từng đáp án: Bài 1 (xe máy/xe đạp không có bốn bánh: quá hẹp; bốn bánh mà không phải xe: quá rộng) đúng; Bài 3 \"luôn đồng ý\" quá rộng (kẻ nịnh) và quá hẹp (bạn thật phản đối) đúng; Bài 6, 7 đúng logic. Bài 4: nói đúng, vì bài gốc dùng JTB trước hết là điều kiện đủ. Lượt 2: thay quote ditext (kết luận sau Case II) và IEP Gettier bằng nguyên văn trên trang."
 }

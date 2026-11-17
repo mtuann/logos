@@ -2,7 +2,7 @@
   "unit": "cong-cu/dieu-kien-can-du.md#tu-kiem-tra",
   "hash": "sha256:8bfc048c79fb48244f1550909f4f6c9cb38962958e3ef96b43948896f65bbf36",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p04",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
   "claims": [
     {
       "text": "Q1: có vé là cần (nhưng chưa đủ) — đáp án 0",
@@ -11,7 +11,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
           "where": "định nghĩa cần"
         }
       ]
@@ -23,7 +23,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
           "where": "định nghĩa cần"
         }
       ]
@@ -47,7 +47,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
           "where": "B necessary for A: không B thì không A"
         }
       ]
@@ -59,7 +59,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "the truth of the consequent, “q”, is necessary for the truth of the antecedent, “p”",
+          "quote": "the standard theory claims that when the conditional … is true the truth of the consequent … is necessary for the truth of the antecedent … and the truth of the antecedent is in turn sufficient for the truth of the consequent",
           "where": "Consequent (sân ướt) cần cho antecedent (mưa); đúng chiều tiền đề, nên phương án 2 không phải lỗi"
         }
       ]
@@ -73,5 +73,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tự kiểm: 5 câu đều có đúng một đáp án đúng; phương án nhiễu đều sai; explain đúng. Phương án 2 của Q5 viết hơi lắt léo ('điều tiền đề không cho phép nói') nhưng không sai đáp án (nhe, không đề xuất sửa)."
+  "notes": "Tự kiểm: 5 câu đều có đúng một đáp án đúng; phương án nhiễu đều sai; explain đúng. Phương án 2 của Q5 viết hơi lắt léo ('điều tiền đề không cho phép nói') nhưng không sai đáp án (nhe, không đề xuất sửa). Lượt 2: thay 4 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
 }

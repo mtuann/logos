@@ -2,7 +2,7 @@
  "unit": "cong-cu/logic-menh-de.md#bai-tap",
  "hash": "sha256:318f1f04880565227a1df6b18871407d6be1c2bda7a21b20558a6505799dd021",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p03",
+ "checker": "agent-kiem-5.5-p03 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Bài 1: ¬P ∨ Q trùng cột P → Q; 'Nếu P thì Q cũng như hoặc không P hoặc Q' [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
@@ -11,8 +11,8 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
-     "quote": "A conditional is satisfied when the antecedent fails to hold or the consequent holds",
-     "where": "Semantics"
+     "quote": "(\\theta \\rightarrow \\psi)\\) if and only if either it is not the case that \\(M,s\\vDash \\theta\\), or \\(M,s\\vDash \\psi\\)",
+     "where": "§4 Semantics, mệnh đề thỏa cho phép kéo theo (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   },
@@ -73,5 +73,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Mọi đáp án đã tính lại bằng script. Bài 4 tên 'tam đoạn luận lựa chọn' = disjunctive syllogism, đúng tên thông dụng; nguồn IEP/SEP đã mở không nêu tên này."
+ "notes": "Mọi đáp án đã tính lại bằng script. Bài 4 tên 'tam đoạn luận lựa chọn' = disjunctive syllogism, đúng tên thông dụng; nguồn IEP/SEP đã mở không nêu tên này. Lượt 2: thay quote SEP (câu tóm tắt) bằng nguyên văn mệnh đề thỏa của → trên trang."
 }

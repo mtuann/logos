@@ -1,8 +1,8 @@
 {
   "unit": "lap-luan/sodo-21",
-  "hash": "sha256:ecad32471884bf784e1722cd0ea22f14b536e14c4bb61ceec932f13c25bcc3f8",
+  "hash": "sha256:76304470a6ac1689bbd5efa25a44aaf1a95658a6a8a3cb4603fa5c2886ebbbdc",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-l02",
+  "checker": "agent-kiem-5.5-l02 + agent-kiem-5.5-k01",
   "claims": [
     {
       "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
@@ -72,9 +72,10 @@
           "quote": "an argument is not a function of the syntactic and semantic features",
           "where": "IEP Argument: tiền đề do ý định của người lập luận dùng làm lý do, nên động cơ cá nhân có thể là tiền đề"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
-  "result": "sua",
-  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Lý do sai: quyết định mở quán cà phê có thể được người nói nêu lý do là yêu thích cà phê; một người đọc hợp lý gán c4 là tiền đề và bị chấm sai. So với sodo-16 (c4 'ngồi học lý thuyết rất ngán' được chấm là tiền đề) thì cách chấm không nhất quán. Các phần khác ổn: c6 là giả định ngầm hợp lý (nhu cầu mua cà phê quán)."
+  "result": "dat",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Lý do sai: quyết định mở quán cà phê có thể được người nói nêu lý do là yêu thích cà phê; một người đọc hợp lý gán c4 là tiền đề và bị chấm sai. So với sodo-16 (c4 'ngồi học lý thuyết rất ngán' được chấm là tiền đề) thì cách chấm không nhất quán. Các phần khác ổn: c6 là giả định ngầm hợp lý (nhu cầu mua cà phê quán). Kiểm lại: c4 đã đổi thành \"Quán bún chả đầu ngõ vừa đổi biển hiệu mới.\" đúng fix; lạc đề rõ, gỡ được lỗi chấm cứng."
 }

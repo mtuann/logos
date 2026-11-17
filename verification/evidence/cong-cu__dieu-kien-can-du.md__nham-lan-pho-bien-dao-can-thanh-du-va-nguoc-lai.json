@@ -2,7 +2,7 @@
   "unit": "cong-cu/dieu-kien-can-du.md#nham-lan-pho-bien-dao-can-thanh-du-va-nguoc-lai",
   "hash": "sha256:2a691bab4dc4d571125a380bce34e117c61e530b898e09888ee44e75bb90c66a",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p04",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
   "claims": [
     {
       "text": "Nhầm lẫn kinh điển là tưởng điều kiện cần cũng là đủ (học giỏi cần cho thành công, chưa đủ; bằng đại học chỉ là điều kiện cần trong nhiều ngành)",
@@ -35,7 +35,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "the truth of the consequent, “q”, is necessary for the truth of the antecedent, “p”",
+          "quote": "the standard theory claims that when the conditional … is true the truth of the consequent … is necessary for the truth of the antecedent … and the truth of the antecedent is in turn sufficient for the truth of the consequent",
           "where": "Standard theory: antecedent đủ, consequent cần; đảo lại là lỗi khẳng định hậu kiện"
         }
       ]
@@ -49,5 +49,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Hệ quả logic đúng: P→Q, Q đúng thì không suy ra P (khẳng định hậu kiện). Chuyện chị Thu khớp docs/cong-cu/suy-dien.md. Các ví dụ 'học giỏi', 'bằng đại học' là nhận định đời thường của site, trình bày có giới hạn ('nhiều ngành')."
+  "notes": "Hệ quả logic đúng: P→Q, Q đúng thì không suy ra P (khẳng định hậu kiện). Chuyện chị Thu khớp docs/cong-cu/suy-dien.md. Các ví dụ 'học giỏi', 'bằng đại học' là nhận định đời thường của site, trình bày có giới hạn ('nhiều ngành'). Lượt 2: thay 1 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
 }

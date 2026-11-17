@@ -2,7 +2,7 @@
  "unit": "cong-cu/lap-luan-la-gi.md#viet-lap-luan-o-dang-chuan",
  "hash": "sha256:843d0bdbaab9359f217974aab06d3754b78fa7e6896f362e8dd87b300999dc53",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p01",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Viết lại ở dạng chuẩn: mỗi tiền đề một dòng, đánh số, kẻ vạch, viết kết luận",
@@ -35,7 +35,7 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
-     "quote": "We write Γ ⊢ φ to indicate that φ is deducible from Γ, or, in other words, that the argument ⟨Γ, φ⟩ is deducible in D.",
+     "quote": "We write … to indicate that … is deducible from …, or, in other words, that the argument … is deducible in",
      "where": "SEP Classical Logic"
     }
    ]
@@ -101,5 +101,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": ""
+ "notes": "Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
 }

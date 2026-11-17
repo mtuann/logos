@@ -1,8 +1,8 @@
 {
   "unit": "thi-nghiem/may-trai-nghiem",
-  "hash": "sha256:0ddeda74c854429f9cafd74450adf4f38f2bd4dab9a08f798721eebbe2459116",
+  "hash": "sha256:d362f53ce660d6f78502ae170d254b8c06f585ebdf7a8836030466d4fdf3cbc4",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-d03",
+  "checker": "agent-kiem-5.5-d03 + agent-kiem-5.5-r02 + agent-kiem-5.5-k01",
   "claims": [
     {
       "text": "nguon: Nozick (1974)",
@@ -11,8 +11,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
-          "quote": "Nozick ... 1974, Anarchy, State, and Utopia, p. 43",
-          "where": "Experience machine"
+          "quote": "plugging into an experience machine limits us to a man-made reality' (Nozick 1974, p. 43) … Nozick, R., 1974, Anarchy, State, and Utopia",
+          "where": "Section 4.1 (Hedonism); Bibliography"
         }
       ]
     },
@@ -41,13 +41,13 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/hedonism/",
-          "quote": "to do certain things, and not just have the experience of doing them; to be a certain sort of person, not an indeterminate blob; (1974: 43–44)",
-          "where": "Experience machine"
+          "quote": "to do certain things, and not just have the experience [as if] of doing them\", \"to be a certain way, to be a certain sort of person\" and not just to be an \"indeterminate blob\" floating in a tank, and \"to make a difference in the world\"",
+          "where": "Section 2 (arguments against ethical hedonism)"
         },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
           "quote": "plugging into an experience machine limits us to a man-made reality",
-          "where": "Experience machine"
+          "where": "Section 4.1 (Hedonism); Bibliography"
         }
       ]
     },
@@ -58,7 +58,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/hedonism/",
-          "quote": "The strongest tack for hedonists to take is to accept the apparent force of the experience machine objection."
+          "quote": "On the face of it, hedonism is committed to the hedonic equality and thus the equal value of these lives. Commenting on his more fantastical and more famous 'experience machine' case",
+          "where": "Section 2 (arguments against ethical hedonism)"
         }
       ]
     },
@@ -70,13 +71,14 @@
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
           "quote": "plugging into an experience machine limits us to a man-made reality",
-          "where": "Experience machine"
+          "where": "Section 4.1 (Hedonism); Bibliography"
         }
       ],
       "severity": "nhe",
-      "fix": "Thứ ba, ta muốn tiếp xúc với một thực tại sâu hơn những gì con người dựng nên; cắm mình vào máy là tự giới hạn trong một thực tại do con người tạo ra, và tự nguyện sống trong ảo tưởng..."
+      "fix": "Thứ ba, ta muốn tiếp xúc với một thực tại sâu hơn những gì con người dựng nên; cắm mình vào máy là tự giới hạn trong một thực tại do con người tạo ra, và tự nguyện sống trong ảo tưởng...",
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Lỗi nhẹ: câu ba lý do hơi vụng, \"thực tại sâu hơn, do con người tạo ra\" dễ đọc thành thực tại sâu hơn được con người tạo ra, ngược ý Nozick. Bản SEP Hedonism liệt kê lý do thứ ba là \"make a difference in the world\"; SEP Well-being trích \"man-made reality\"; hai trang nhấn khác nhau, bài theo ý Nozick 1974 p.43 là chấp nhận được. SEP Nozick (entries/nozick/) trả 404 nên dùng well-being và hedonism."
+  "notes": "Lỗi nhẹ: câu ba lý do hơi vụng, \"thực tại sâu hơn, do con người tạo ra\" dễ đọc thành thực tại sâu hơn được con người tạo ra, ngược ý Nozick. Bản SEP Hedonism liệt kê lý do thứ ba là \"make a difference in the world\"; SEP Well-being trích \"man-made reality\"; hai trang nhấn khác nhau, bài theo ý Nozick 1974 p.43 là chấp nhận được. SEP Nozick (entries/nozick/) trả 404 nên dùng well-being và hedonism. Lượt 2: thay quote bằng nguyên văn SEP Well-Being và Hedonism (câu \"strongest tack\" của lượt 1 không có trên trang; thay bằng câu nêu thuyết khoái lạc là đích của phản bác cỗ máy trải nghiệm). Kiểm lại: phan_bien a đã đổi thành \"ta muốn tiếp xúc với một thực tại sâu hơn những gì con người dựng nên; cắm mình vào máy là tự giới hạn trong một thực tại do con người tạo ra, tự nguyện sống trong ảo tưởng\" đúng ý fix, khớp SEP Well-Being (mở lại trong phiên: \"plugging into an experience machine limits us to a man-made reality\", Nozick 1974 tr. 43). Không có khẳng định mới."
 }

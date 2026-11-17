@@ -1,56 +1,78 @@
 {
- "unit": "fallacies/f-027",
- "hash": "sha256:337eac6740fb7936abc77f4af0e1107c5503a5099d2d0e5326b34a423c411a30",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-f02",
- "claims": [
-  {
-   "text": "answer: appeal-nature (nhãn \"viện dẫn tự nhiên\"): không tìm thấy mục \"appeal to nature\" trong SEP Fallacies fall2026 hay IEP Fallacy; chỉ có mục \"Naturalistic\" (lập luận từ \"is\" sang \"ought\") có liên quan gián tiếp",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  },
-  {
-   "text": "Lập luận \"tự nhiên nên tốt hơn, trái tự nhiên nên không tốt\" là lập luận kém, và không phương án nào trong options (appeal-authority, appeal-popularity, genetic) hợp lý hơn",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "fallacies/f-027",
+  "hash": "sha256:337eac6740fb7936abc77f4af0e1107c5503a5099d2d0e5326b34a423c411a30",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f02 + agent-kiem-5.5-r01",
+  "claims": [
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "On a broad interpretation of this fallacy, it applies to any attempt to argue from an “is” to an “ought,”"
+      "text": "answer: appeal-nature (nhãn \"viện dẫn tự nhiên\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "On a broad interpretation of this fallacy, it applies to any attempt to argue from an “is” to an “ought,”",
+          "where": "IEP, mục Naturalistic"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/callicles-thrasymachus/",
+          "quote": "it violates the plausible principle, most famously advanced by David Hume, that no normative claims may be inferred from purely descriptive premises",
+          "where": "SEP Callicles and Thrasymachus: lối viện dẫn tự nhiên trong đạo đức"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chimeras/",
+          "quote": "the Unnaturalness Argument alleges that because the creation of chimeras is unnatural it is therefore wrong",
+          "where": "SEP Chimeras §2: lập luận 'trái tự nhiên nên sai', 'the argument against chimeras most often rejected'"
+        },
+        {
+          "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely",
+          "quote": "Many dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.”",
+          "where": "NCCIH (NIH), Using Dietary Supplements Wisely"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
-    }
-   ]
-  },
-  {
-   "text": "explanation/why_not.appeal-authority: bà không viện dẫn chuyên gia; why_not.genetic: bà đánh giá phương pháp theo tính tự nhiên chứ không theo nguồn gốc ý kiến",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject"
+      "text": "Lập luận \"tự nhiên nên tốt hơn, trái tự nhiên nên không tốt\" là lập luận kém, và không phương án nào trong options (appeal-authority, appeal-popularity, genetic) hợp lý hơn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "On a broad interpretation of this fallacy, it applies to any attempt to argue from an “is” to an “ought,”"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
-    }
-   ]
-  },
-  {
-   "text": "explanation: Chỉ định mổ dựa trên rủi ro cụ thể; ngôi ngược là chỉ định mổ (câu kể về thế giới thật)",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+      "text": "explanation/why_not.appeal-authority: bà không viện dẫn chuyên gia; why_not.genetic: bà đánh giá phương pháp theo tính tự nhiên chứ không theo nguồn gốc ý kiến",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
+        }
+      ]
+    },
     {
-     "url": "https://www.nhs.uk/conditions/caesarean-section/",
-     "quote": "your baby is in the breech position (feet first) and your doctor or midwife has been unable to turn them by applying gentle pressure to your tummy"
+      "text": "explanation: Chỉ định mổ dựa trên rủi ro cụ thể; ngôi ngược là chỉ định mổ (câu kể về thế giới thật)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.nhs.uk/conditions/caesarean-section/",
+          "quote": "your baby is in the breech position (feet first) and your doctor or midwife has been unable to turn them by applying gentle pressure to your tummy"
+        }
+      ]
     }
-   ]
-  }
- ],
- "result": "chua-kiem-duoc",
- "notes": "Nhãn appeal-nature không có trong hai nguồn bắt buộc (SEP fall2026, IEP). Đã mở và grep cả hai trang. Cần nguồn khác (vd. sách giáo khoa logic) hoặc chủ biên xác nhận. Không thấy phương án tranh chấp, answer hợp lý. Chưa kiểm \"thai to\" làm chỉ định mổ (NHS chỉ nêu ngôi ngược)."
+  ],
+  "result": "dat",
+  "notes": "Nhãn appeal-nature không có trong hai nguồn bắt buộc (SEP fall2026, IEP). Đã mở và grep cả hai trang. Cần nguồn khác (vd. sách giáo khoa logic) hoặc chủ biên xác nhận. Không thấy phương án tranh chấp, answer hợp lý. Chưa kiểm \"thai to\" làm chỉ định mổ (NHS chỉ nêu ngôi ngược). Lượt 2: answer appeal-nature có nguồn: IEP Naturalistic (cách hiểu rộng), SEP Callicles and Thrasymachus, SEP Chimeras ('unnatural nên wrong'), NCCIH ('natural' không đồng nghĩa 'safe'); khớp bản ghi fallacy-types/appeal-nature."
 }

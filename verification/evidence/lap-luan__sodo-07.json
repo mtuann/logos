@@ -1,8 +1,8 @@
 {
  "unit": "lap-luan/sodo-07",
- "hash": "sha256:94919a58f58c0ecd6c202a68fa9f275ba63a5d7a5c21a9ac37130639ebb6d50b",
+ "hash": "sha256:f7d92559b1a0f39eebbb0ae34648da8181ef520cfab6d8107761a6c36ad5e729",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-l01",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
  "claims": [
   {
    "text": "dap_an: c4 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
@@ -52,9 +52,10 @@
     }
    ],
    "severity": "vua",
-   "fix": "Đổi c5 thành câu rõ ràng lạc đề (vd \"Hôm qua đội bóng của khu phố thắng trận.\") hoặc thêm ghi_chu_tranh_cai: \"c5 có thể đọc là điều kiện thuận tiện để có bữa sáng (giống c3); trong mạch này nó không được đưa ra làm lý do nên tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\""
+   "fix": "Đổi c5 thành câu rõ ràng lạc đề (vd \"Hôm qua đội bóng của khu phố thắng trận.\") hoặc thêm ghi_chu_tranh_cai: \"c5 có thể đọc là điều kiện thuận tiện để có bữa sáng (giống c3); trong mạch này nó không được đưa ra làm lý do nên tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\"",
+   "fixed": true
   }
  ],
- "result": "sua",
- "notes": ""
+ "result": "dat",
+ "notes": "Kiểm lại: c5 đã đổi thành \"Quán phở đầu ngõ vừa đổi chủ.\", câu lạc đề rõ, không còn đọc được là điều kiện thuận tiện cho bữa sáng; gỡ được lỗi chấm cứng."
 }

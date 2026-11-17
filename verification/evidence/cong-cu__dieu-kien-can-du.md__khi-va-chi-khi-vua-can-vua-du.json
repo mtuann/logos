@@ -2,7 +2,7 @@
   "unit": "cong-cu/dieu-kien-can-du.md#khi-va-chi-khi-vua-can-vua-du",
   "hash": "sha256:866ce4e772c6b7eb22f04b497d666e4c1f08635a2dd96b5c28355154ba954242",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p04",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
   "claims": [
     {
       "text": "P khi và chỉ khi Q (P ↔ Q) nghĩa là P vừa cần vừa đủ cho Q",
@@ -11,7 +11,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "Under the standard theory, “necessary and sufficient conditions are converses of each other.”",
+          "quote": "Given the standard theory, necessary and sufficient conditions are converses of each other",
           "where": "Hai điều kiện đảo nhau; hai chiều cùng đúng cho biconditional"
         }
       ]
@@ -49,5 +49,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Bội của 6 ⇔ chia hết cho 2 và 3: đúng vì gcd(2,3)=1 (tự kiểm). Claim 'định nghĩa tốt' chỉ là giới thiệu bài sau; SEP trang này không bàn trực tiếp, nên đánh dấu nguồn gián tiếp."
+  "notes": "Bội của 6 ⇔ chia hết cho 2 và 3: đúng vì gcd(2,3)=1 (tự kiểm). Claim 'định nghĩa tốt' chỉ là giới thiệu bài sau; SEP trang này không bàn trực tiếp, nên đánh dấu nguồn gián tiếp. Lượt 2: thay 1 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
 }

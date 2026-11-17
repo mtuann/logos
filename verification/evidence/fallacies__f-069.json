@@ -2,7 +2,7 @@
   "unit": "fallacies/f-069",
   "hash": "sha256:20756caea5125773d7184f63a11ad046b0b9216298757ce197d4345ad0657492",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-f04",
+  "checker": "agent-kiem-5.5-f04 + agent-kiem-5.5-r01",
   "claims": [
     {
       "text": "answer: appeal-authority",
@@ -77,9 +77,16 @@
     {
       "text": "passage: Hiện giới ngôn ngữ học vẫn còn bất đồng lớn về độ tuổi bắt đầu học ngoại ngữ phù hợp.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:3834520&metadataPrefix=pmc",
+          "quote": "The most controversial issues in the field of L2 acquisition are the extent to which a learners’ age impacts his/her ultimate L2 attainment level",
+          "where": "White, Hutka, Williams và cộng sự 2013, Front Syst Neurosci (PMC3834520), phần mở đầu"
+        }
+      ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Đáp án appeal-authority đúng. Câu dữ kiện thế giới thật về bất đồng của giới ngôn ngữ học (độ tuổi bắt đầu học ngoại ngữ) chưa tìm được nguồn nói thẳng điều đó: đã thử Birdsong 2018 (doi 10.3389/fpsyg.2018.00081), chỉ nói chung về critical period; không đoán. Đây là tiền đề giả định của bài tập nên rủi ro thấp."
+  "result": "dat",
+  "notes": "Đáp án appeal-authority đúng. Câu dữ kiện thế giới thật về bất đồng của giới ngôn ngữ học (độ tuổi bắt đầu học ngoại ngữ) chưa tìm được nguồn nói thẳng điều đó: đã thử Birdsong 2018 (doi 10.3389/fpsyg.2018.00081), chỉ nói chung về critical period; không đoán. Đây là tiền đề giả định của bài tập nên rủi ro thấp. Lượt 2: claim #5 giải quyết bằng bài tổng quan PMC3834520 (ảnh hưởng của tuổi trong học ngôn ngữ thứ hai là một trong những vấn đề gây tranh cãi nhất)."
 }

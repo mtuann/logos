@@ -1,94 +1,99 @@
 {
- "unit": "cong-cu/quy-nap.md#quy-nap-la-gi",
- "hash": "sha256:8d630cf8285562a33d9b3d1a2da5672745a7b7549c3566eea7ebc2cf0de6d555",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p06",
- "claims": [
-  {
-   "text": "Một lập luận quy nạp ... chỉ nói: nếu tiền đề đúng thì kết luận có lẽ đúng.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/quy-nap.md#quy-nap-la-gi",
+  "hash": "sha256:8d630cf8285562a33d9b3d1a2da5672745a7b7549c3566eea7ebc2cf0de6d555",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p06 + agent-kiem-5.5-r05",
+  "claims": [
     {
-     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
-     "quote": "one whose premises render the conclusion likely",
-     "where": "mục 1"
+      "text": "Một lập luận quy nạp ... chỉ nói: nếu tiền đề đúng thì kết luận có lẽ đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "one whose premises render the conclusion likely",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
+          "quote": "supports the truth of its conclusion to some appropriate degree",
+          "where": "mở đầu"
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
-     "quote": "supports the truth of its conclusion to some appropriate degree",
-     "where": "mở đầu"
-    }
-   ]
-  },
-  {
-   "text": "Ta đánh giá lập luận quy nạp bằng mạnh hay yếu (strong).",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+      "text": "Ta đánh giá lập luận quy nạp bằng mạnh hay yếu (strong).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "are said to be strong or weak",
+          "where": "mục 1"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
-     "quote": "are said to be strong or weak",
-     "where": "mục 1"
-    }
-   ]
-  },
-  {
-   "text": "Một lập luận quy nạp mạnh mà các tiền đề lại đúng thì được gọi là thuyết phục (cogent).",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+      "text": "Một lập luận quy nạp mạnh mà các tiền đề lại đúng thì được gọi là thuyết phục (cogent).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A cogent argument is a strong argument with true premises.",
+          "where": "mục 1"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
-     "quote": "A cogent argument is a strong argument with true premises.",
-     "where": "mục 1"
-    }
-   ]
-  },
-  {
-   "text": "Thêm tiền đề không bao giờ làm một lập luận hợp lệ trở thành không hợp lệ. Nhưng thêm thông tin có thể làm một lập luận quy nạp yếu đi rất nhiều.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Thêm tiền đề không bao giờ làm một lập luận hợp lệ trở thành không hợp lệ. Nhưng thêm thông tin có thể làm một lập luận quy nạp yếu đi rất nhiều.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "an inductive argument is one that can be affected by acquiring new premises (evidence), but a deductive argument cannot be.",
+          "where": "mục 5"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
-     "quote": "an inductive argument is one that can be affected by acquiring new premises (evidence), but a deductive argument cannot be.",
-     "where": "mục 5"
-    }
-   ]
-  },
-  {
-   "text": "Hợp lệ là chuyện có hoặc không; mạnh là chuyện mức độ.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Hợp lệ là chuyện có hoặc không; mạnh là chuyện mức độ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
+          "quote": "to some appropriate degree",
+          "where": "mở đầu; hợp lệ là có/không theo định nghĩa suy diễn"
+        }
+      ]
+    },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
-     "quote": "to some appropriate degree",
-     "where": "mở đầu; hợp lệ là có/không theo định nghĩa suy diễn"
+      "text": "Kết luận của quy nạp đi xa hơn tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "as well as general claims that go beyond the observed",
+          "where": "SEP Problem of Induction, mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
+          "quote": "such arguments belong in the category of ampliative reasoning, since their conclusions do not follow with certainty",
+          "where": "SEP Analogy and Analogical Reasoning, mục 2"
+        }
+      ]
     }
-   ]
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
   },
-  {
-   "text": "Kết luận của quy nạp đi xa hơn tiền đề.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
-     "quote": "Analogical arguments are ampliative",
-     "where": "đối chiếu: lập luận quy nạp nói chung vượt tiền đề; SEP Problem of Induction: 'from the observed to the unobserved'"
-    }
-   ]
-  }
- ],
- "checklist": {
-  "dung-nguon": true,
-  "manh-nhat": null,
-  "phan-bac": null,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "dat",
- "notes": "Thuật ngữ khớp bảng: hợp lệ, mạnh, thuyết phục."
+  "result": "dat",
+  "notes": "Thuật ngữ khớp bảng: hợp lệ, mạnh, thuyết phục. Lượt 2: thay quote Analogy bằng nguyên văn và thêm câu SEP Problem of Induction; kết luận không đổi."
 }

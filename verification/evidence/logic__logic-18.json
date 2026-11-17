@@ -2,7 +2,7 @@
  "unit": "logic/logic-18",
  "hash": "sha256:62ede7f9c2b5a3fc8299e08b367dc33abba67ed7948ddd4b1114352cdaa672dc",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-d02",
+ "checker": "agent-kiem-5.5-d02 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "dap_an: khong-hop-le",
@@ -35,11 +35,12 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "in PL, the sign ‘∨’ is used inclusively."
+     "quote": "However, in PL, the sign ‘ \\lor ‘ is used inclusively",
+     "where": "§3 Disjunction (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   }
  ],
  "result": "dat",
- "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề."
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề. Lượt 2: chép lại quote IEP về tuyển bao hàm đúng nguyên văn trên trang (ký hiệu ∨ là mã MathJax \\lor)."
 }

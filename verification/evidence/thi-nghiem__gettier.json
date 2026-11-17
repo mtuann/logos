@@ -2,7 +2,7 @@
   "unit": "thi-nghiem/gettier",
   "hash": "sha256:75f3d1da7c8d7106d7b9d46653263d4b457ce867e8a40e9ac5a509ad8f82e221",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-d03",
+  "checker": "agent-kiem-5.5-d03 + agent-kiem-5.5-r02",
   "claims": [
     {
       "text": "nguon: Gettier (1963)",
@@ -11,11 +11,12 @@
       "sources": [
         {
           "url": "https://www.ditext.com/gettier/gettier.html",
-          "quote": "Edmund L. Gettier, \"Is Justified True Belief Knowledge?\", Analysis 23 (1963): 121-123."
+          "quote": "Edmund L. Gettier … from Analysis 23 … 1963): 121-123",
+          "where": "Header"
         },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
-          "quote": "Gettier (1963) ... Analysis, 23(6): 121–123",
+          "quote": "Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, Analysis … 23(6): 121–123",
           "where": "Bibliography"
         }
       ]
@@ -37,7 +38,7 @@
         },
         {
           "url": "https://www.ditext.com/gettier/gettier.html",
-          "quote": "Proposition (e): The man who will get the job has ten coins in his pocket.",
+          "quote": "Proposition (d) entails: … The man who will get the job has ten coins in his pocket.",
           "where": "Case I"
         }
       ]
@@ -66,13 +67,18 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/experimental-philosophy/",
-          "quote": "Weinberg, Nichols, and Stich 2001, \"Normativity and Epistemic Intuitions\", Philosophical Topics, 29(1/2): 429–460",
-          "where": "Bibliography"
+          "quote": "perhaps with the work of Weinberg, Nichols, and Stich (2001), which offers an articulation of what came to be known as the negative program",
+          "where": "Section 1"
         },
         {
           "url": "https://home.csulb.edu/~cwallis/382/readings/382/NEIPT.html",
-          "quote": "A majority of EAs say that Bob really knows (Appendix: 13 Really Knows, 10 Only Believes); SC: 14 vs 9",
-          "where": "Gettier-style Buick case"
+          "quote": "But amongst EAs this pattern is actually reversed … A majority of EAs say that Bob really knows. … It turns out that the epistemic intuitions of SCs are even more different from the intuitions of Ws than the intuitions of EAs are.",
+          "where": "Section 3.3.2–3.3.3"
+        },
+        {
+          "url": "https://home.csulb.edu/~cwallis/382/readings/382/NEIPT.html",
+          "quote": "Weinberg, J., Nichols, S. and Stich, S. 2001. Normativity and Epistemic Intuitions, Philosophical Topics, 29, 429-460.",
+          "where": "Header"
         }
       ]
     },
@@ -83,8 +89,8 @@
       "sources": [
         {
           "url": "https://api.crossref.org/works/10.1111/nous.12110",
-          "quote": "Gettier Across Cultures ... Noûs, vol 51, issue 3, pp 645–664 (online 2015, print Sept 2017); four cultural groups (Brazil, India, Japan, USA) ... people in all four sometimes judged a justified true belief not to be knowledge",
-          "where": "Crossref/abstract"
+          "quote": "in four different cultural groups that speak quite different languages (Brazil, India, Japan, and the USA) there are cases of justified true beliefs that are not judged to be cases of knowledge … \"page\":\"645-664\" … \"title\":[\"Gettier Across Cultures … \"volume\":\"51\"",
+          "where": "Crossref metadata (abstract, page, volume); published-print 2017-09"
         }
       ]
     },
@@ -95,8 +101,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
-          "quote": "Knowledge might figure into some analyses, but it will do so in the analysans, not in the analysandum; Williamson 2000, Knowledge and Its Limits",
-          "where": "Knowledge first"
+          "quote": "Proponents of the so-called “knowledge first” project, championed especially by Timothy Williamson’s 2000 book Knowledge and Its Limits … typically suppose that the project of analyzing knowledge was a mistake.",
+          "where": "Section 11"
         }
       ]
     },
@@ -107,12 +113,12 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
-          "quote": "Smith's belief is true only because of an unrelated fact; his justification rests on a false belief — a coincidence he does not know about",
-          "where": "Gettier case"
+          "quote": "A lesson of the Gettier problem is that it appears that even true beliefs that are justified can nevertheless be epistemically lucky in a way inconsistent with knowledge.",
+          "where": "Section 3"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Machery và cộng sự: DOI ghi online 2015, in 2017 (Noûs 51(3)); bài dùng \"2017\" là năm số in, chấp nhận được. Nội dung Machery lấy từ Crossref (không mở được Wiley 403, PhilPapers 403), nên mức xác nhận là phần tóm tắt. Phép đối chiếu Weinberg: chữ trong bài gốc (home.csulb.edu) là mẫu Buick (Bob/Jill), không phải ví dụ 10 đồng xu; nhận định \"người Đông Á/Nam Á nói biết\" khớp số liệu (13/10 và 14/9). Bài của site đúng khi ghi đây là nghiên cứu năm 2001; lưu ý Seyedsayamdost (2015) không tái lập kết quả, bài không nhắc (không bắt buộc)."
+  "notes": "Machery và cộng sự: DOI ghi online 2015, in 2017 (Noûs 51(3)); bài dùng \"2017\" là năm số in, chấp nhận được. Nội dung Machery lấy từ Crossref (không mở được Wiley 403, PhilPapers 403), nên mức xác nhận là phần tóm tắt. Phép đối chiếu Weinberg: chữ trong bài gốc (home.csulb.edu) là mẫu Buick (Bob/Jill), không phải ví dụ 10 đồng xu; nhận định \"người Đông Á/Nam Á nói biết\" khớp số liệu (13/10 và 14/9). Bài của site đúng khi ghi đây là nghiên cứu năm 2001; lưu ý Seyedsayamdost (2015) không tái lập kết quả, bài không nhắc (không bắt buộc). Lượt 2: thay quote bằng nguyên văn trang (ditext Gettier 1963, SEP Analysis of Knowledge mục 3, 11 và thư mục, SEP Experimental Philosophy, bản HTML Weinberg–Nichols–Stich 2001 trên csulb.edu, metadata Crossref cho Machery et al.)."
 }

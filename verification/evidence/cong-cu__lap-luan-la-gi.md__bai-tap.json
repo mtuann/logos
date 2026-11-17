@@ -2,7 +2,7 @@
  "unit": "cong-cu/lap-luan-la-gi.md#bai-tap",
  "hash": "sha256:8062b8beab16eceead750b98606c2c15d00dfd8d7f0dde724e6f2890515cbee2",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p01",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Bài 1: 'Bạn nên mang ô. Dự báo nói chiều nay có giông.' là lập luận; kết luận 'Bạn nên mang ô'; thêm 'vì' vào giữa mà nghĩa không đổi",
@@ -64,12 +64,12 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
-     "quote": "(θ → ψ) can be read as \"if θ then ψ\"",
+     "quote": "roughly corresponds to \"if … then … \", so … can be read \"if … then",
      "where": "SEP Classical Logic"
     },
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
-     "quote": "if Γ, θ ⊢ ψ, then Γ ⊢ (θ → ψ)",
+     "quote": "Conversely, if one deduces … from an assumption …, then one can conclude that",
      "where": "quy tắc →I: điều kiện không bao hàm vế trước đúng"
     }
    ]
@@ -83,5 +83,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Đã tự kiểm cả 5 đáp án: đúng. Đời thường (Minh, bà Tư, AI/giáo viên) là chuyện kể, không cần nguồn."
+ "notes": "Đã tự kiểm cả 5 đáp án: đúng. Đời thường (Minh, bà Tư, AI/giáo viên) là chuyện kể, không cần nguồn. Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
 }

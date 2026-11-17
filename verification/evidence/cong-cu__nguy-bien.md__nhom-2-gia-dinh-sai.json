@@ -1,136 +1,165 @@
 {
- "unit": "cong-cu/nguy-bien.md#nhom-2-gia-dinh-sai",
- "hash": "sha256:6de696510c76f48f1f070d12cd8c429ecb9488488dc565466df9261647b0d56a",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p08",
- "claims": [
-  {
-   "text": "Lưỡng nan giả (false dilemma)",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/nguy-bien.md#nhom-2-gia-dinh-sai",
+  "hash": "sha256:6de696510c76f48f1f070d12cd8c429ecb9488488dc565466df9261647b0d56a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "claims": [
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
-     "where": "IEP, False Dilemma"
-    }
-   ]
-  },
-  {
-   "text": "'A hoặc B; không A; vậy B' là hợp lệ, lỗi nằm ở tiền đề",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
-     "quote": "deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent",
-     "where": "IEP Propositional Logic: định nghĩa modus ponens; dạng tuyển loại trừ cùng hệ quy tắc hợp lệ, chưa trích riêng quy tắc tam đoạn luận tuyển"
-    }
-   ]
-  },
-  {
-   "text": "Dốc trơn trượt: lỗi ở mắt xích; hợp lý khi mỗi mắt xích có bằng chứng",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Arguments of this form may or may not be fallacious depending on the probabilities involved in each step.",
-     "where": "IEP, Slippery Slope"
+      "text": "Lưỡng nan giả (false dilemma)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
+          "where": "IEP, False Dilemma"
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "the reason why it is a fallacy, lies in the second and third causal claims",
-     "where": "SEP, slippery slope"
-    }
-   ]
-  },
-  {
-   "text": "Lập luận vòng quanh (begging the question)",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
-     "where": "IEP, Begging the Question"
+      "text": "'A hoặc B; không A; vậy B' là hợp lệ, lỗi nằm ở tiền đề",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent",
+          "where": "IEP Propositional Logic: định nghĩa modus ponens; dạng tuyển loại trừ cùng hệ quy tắc hợp lệ, chưa trích riêng quy tắc tam đoạn luận tuyển"
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "begs the question because the premise and conclusion are the very same proposition",
-     "where": "SEP"
-    }
-   ]
-  },
-  {
-   "text": "Khái quát vội vàng",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "A Hasty Generalization is a Fallacy of Jumping to Conclusions in which the conclusion is a generalization.",
-     "where": "IEP"
+      "text": "Dốc trơn trượt: lỗi ở mắt xích; hợp lý khi mỗi mắt xích có bằng chứng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Arguments of this form may or may not be fallacious depending on the probabilities involved in each step.",
+          "where": "IEP, Slippery Slope"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the reason why it is a fallacy, lies in the second and third causal claims",
+          "where": "SEP, slippery slope"
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
-     "where": "SEP"
-    }
-   ]
-  },
-  {
-   "text": "Post hoc ergo propter hoc: thứ tự thời gian là một phần bằng chứng nhân quả",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "ascribes a causal relationship between two states or events on the basis of temporal succession",
-     "where": "SEP"
+      "text": "Lập luận vòng quanh (begging the question)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "IEP, Begging the Question"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "begs the question because the premise and conclusion are the very same proposition",
+          "where": "SEP"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Correlations are often good evidence of causal connection.",
-     "where": "IEP, Post Hoc: lỗi chỉ khi nhảy 'hastily' sang kết luận nhân quả"
-    }
-   ]
-  },
-  {
-   "text": "Viện dẫn sự thiếu hiểu biết: đúng khi đã tìm kỹ",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "It would be proper reasoning only if the proof attempts were quite thorough.",
-     "where": "IEP, Appeal to Ignorance"
+      "text": "Khái quát vội vàng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A Hasty Generalization is a Fallacy of … in which the conclusion is a generalization.",
+          "where": "IEP, mục Hasty Generalization (chữ 'Jumping to Conclusions' bị thẻ link tách nên lược)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP"
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "infer a proposition to be true because there is no evidence against it",
-     "where": "SEP, ad ignorantiam"
+      "text": "Post hoc ergo propter hoc: thứ tự thời gian là một phần bằng chứng nhân quả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "ascribes a causal relationship between two states or events on the basis of temporal succession",
+          "where": "SEP"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Correlations are often good evidence of causal connection.",
+          "where": "IEP, Post Hoc: lỗi chỉ khi nhảy 'hastily' sang kết luận nhân quả"
+        }
+      ]
+    },
+    {
+      "text": "Viện dẫn sự thiếu hiểu biết: đúng khi đã tìm kỹ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It would be proper reasoning only if the proof attempts were quite thorough.",
+          "where": "IEP, Appeal to Ignorance"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "infer a proposition to be true because there is no evidence against it",
+          "where": "SEP, ad ignorantiam"
+        }
+      ]
+    },
+    {
+      "text": "Chi phí chìm (sunk cost fallacy): tiếp tục một việc vì đã bỏ vào đó nhiều tiền bạc, thời gian, công sức, chứ không phải vì triển vọng phía trước; ngoại lệ: công trình đã xây 90%, mất uy tín, phụ lời hứa, miễn là đang tính về những gì sắp tới",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "commitments deriving from one’s past involvement in an activity or project, which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "SEP Practical Reason: coi trọng chi phí chìm là phi lý theo cách nhìn hệ quả; cam kết từ quá khứ có thể vẫn hợp lý"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tort-theories/",
+          "quote": "Economic analysis views injuries in the past as “sunk costs” which can never be recovered.",
+          "where": "SEP Theories of the Common Law of Torts"
+        }
+      ]
+    },
+    {
+      "text": "Với chất gây nghiện, cơ chế dung nạp khiến liều dùng có xu hướng tăng; chụp X-quang kỹ mà không thấy chỗ gãy là lý do tốt để tin không gãy; trong tố tụng, suy đoán vô tội là một quy tắc về nghĩa vụ chứng minh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/drugs-brain",
+          "quote": "the person will often need to take larger amounts of the drug to produce the familiar high—an effect known as tolerance",
+          "where": "NIDA (NIH), Drugs and the Brain"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It would be proper reasoning only if the proof attempts were quite thorough, and it were the case that, if the being or object were to exist, then there would be a discoverable proof of this.",
+          "where": "IEP, mục Appeal to Ignorance (nguyên tắc của ví dụ X-quang)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/criminal-law/",
+          "quote": "the right to be tried before an independent court that respects the presumption of innocence—that requires the prosecution to prove beyond a reasonable doubt",
+          "where": "SEP Philosophy of Criminal Law"
+        }
+      ]
     }
-   ]
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
   },
-  {
-   "text": "Chi phí chìm (sunk cost fallacy): định nghĩa và ngoại lệ (công trình xây 90%, uy tín, lời hứa) [SEP/IEP Fallacies không có mục sunk cost; chỉ xác nhận được khái niệm qua tên bài Arkes & Blumer 1985, 'The psychology of sunk cost', OBHDP 35(1):124-140 (crossref); không đọc được nội dung/định nghĩa]",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  },
-  {
-   "text": "Suy đoán vô tội là quy tắc về nghĩa vụ chứng minh; chất gây nghiện có cơ chế dung nạp khiến liều tăng; đối chiếu: ví dụ 'X-quang không thấy gãy' [không mở nguồn pháp lý/dược lý nào trong phiên này]",
-   "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
-  }
- ],
- "checklist": {
-  "dung-nguon": null,
-  "manh-nhat": true,
-  "phan-bac": true,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "chua-kiem-duoc",
- "notes": "Đã thử: SEP, IEP Fallacies (không có sunk cost), crossref Arkes & Blumer (chỉ metadata). Các ví dụ đời thường là do site soạn. Mẫu 'Nếu A thì B...' khớp SEP/IEP."
+  "result": "dat",
+  "notes": "Đã thử: SEP, IEP Fallacies (không có sunk cost), crossref Arkes & Blumer (chỉ metadata). Các ví dụ đời thường là do site soạn. Mẫu 'Nếu A thì B...' khớp SEP/IEP. Lượt 2: thay quote IEP Hasty Generalization; claim #7 giải quyết bằng SEP Practical Reason (coi trọng 'sunk costs' là phi lý theo cách nhìn hệ quả, còn cam kết từ việc đã tham gia có thể hợp lý: khớp ngoại lệ uy tín/lời hứa) và SEP Tort Theories (chi phí chìm không lấy lại được); claim #8 giải quyết bằng NIDA (dung nạp), IEP Appeal to Ignorance (tìm kỹ mà không thấy), SEP Criminal Law (suy đoán vô tội = bên buộc tội phải chứng minh)."
 }

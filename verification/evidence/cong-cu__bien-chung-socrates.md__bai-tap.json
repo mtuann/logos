@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/bien-chung-socrates.md#bai-tap",
-  "hash": "sha256:4e4a556f5084940dea42e69ba8ddefeea6226fe204c34e147bd61dab9f6c6da2",
+  "hash": "sha256:283181b94a55c15eb97b7fd026e1fa448334c02690310dee45daadadd79eaa6f",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-k03",
   "claims": [
     {
       "text": "Bài 1 (gợi ý): \"học giỏi = thuộc nhiều\"; phản ví dụ học sinh thuộc lòng nhưng không giải nổi bài vận dụng (theo định nghĩa \"giỏi\", trực giác không), hoặc bạn không thuộc định nghĩa nhưng hiểu bản chất làm bài xuất sắc (định nghĩa quá rộng/hẹp); định nghĩa mới \"hiểu sâu và dùng được\".",
@@ -57,7 +57,8 @@
           "quote": "too wide and include unwanted characteristics or subsets, or too narrow so that they exclude essential characteristics",
           "where": "Phản ví dụ phải nhắm đúng định nghĩa đang xét; định nghĩa nói \"sẵn sàng\" (khuynh hướng), mà ví dụ chỉ nói \"không bao giờ phải hy sinh\""
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bài 5 (gợi ý): không có đáp án mẫu; mực xanh bắt được mực đỏ dùng từ mơ hồ (\"hạnh phúc\", \"đáng sống\", \"thành công\").",
@@ -79,6 +80,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Bài 4: ví dụ phản ví dụ lẫn lộn \"sẵn sàng hy sinh\" (khuynh hướng) với \"đã phải hy sinh\" (sự kiện); người đóng thuế, nuôi dạy con vẫn có thể \"sẵn sàng\" khi cần, nên không đánh trúng định nghĩa. Hơn nữa \"hy sinh\" không chỉ là \"đổ máu\". Là bài mẫu dạy phản ví dụ nên xếp mức vừa. Các bài còn lại là bài tự vấn hoặc đáp án logic đúng."
+  "result": "dat",
+  "notes": "Bài 4: ví dụ phản ví dụ lẫn lộn \"sẵn sàng hy sinh\" (khuynh hướng) với \"đã phải hy sinh\" (sự kiện); người đóng thuế, nuôi dạy con vẫn có thể \"sẵn sàng\" khi cần, nên không đánh trúng định nghĩa. Hơn nữa \"hy sinh\" không chỉ là \"đổ máu\". Là bài mẫu dạy phản ví dụ nên xếp mức vừa. Các bài còn lại là bài tự vấn hoặc đáp án logic đúng. Kiểm lại (k03): gợi ý Bài 4 đổi đúng nguyên văn fix: người trong phản ví dụ nói thẳng không muốn hy sinh tính mạng, nên phản ví dụ nay đánh đúng vào khuynh hướng \"sẵn sàng\"; \"trực giác nhiều người\" rào hợp lý. Không thêm khẳng định cần nguồn. Claim 3 fixed."
 }

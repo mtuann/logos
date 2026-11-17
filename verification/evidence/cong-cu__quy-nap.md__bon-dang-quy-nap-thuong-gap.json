@@ -1,73 +1,88 @@
 {
- "unit": "cong-cu/quy-nap.md#bon-dang-quy-nap-thuong-gap",
- "hash": "sha256:81a6ef56e7dd20dd1da6cd968f1cf0952bfd351e1d60815d452a744970c885dc",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p06",
- "claims": [
-  {
-   "text": "Quy nạp khái quát: từ một mẫu rút ra kết luận về cả tổng thể.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/quy-nap.md#bon-dang-quy-nap-thuong-gap",
+  "hash": "sha256:f8b8f80ef018a475ceadd6126619ea2ba7fdbb64adf344b88e7c0861a6c46f51",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p06 + agent-kiem-5.5-r05 + agent-kiem-5.5-k02",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
-     "quote": "Such inferences from the observed to the unobserved, or to general laws, are known as \"inductive inferences\"."
-    }
-   ]
-  },
-  {
-   "text": "Quy nạp thống kê: từ tỉ lệ trong một nhóm rút ra kết luận về một cá thể; nhóm tham chiếu hẹp hơn (ký túc xá) làm lập luận yếu đi.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
-     "quote": "supports the truth of its conclusion to some appropriate degree",
-     "where": "mở đầu; ví dụ mẫu 400 hộ gia đình"
-    }
-   ]
-  },
-  {
-   "text": "Loại suy: mạnh khi điểm giống nhau liên quan đến điểm đang xét, yếu khi chỉ giống bề ngoài.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
-     "quote": "not every similarity increases the probability of the conclusion",
-     "where": "phần đánh giá loại suy"
+      "text": "Quy nạp khái quát: từ một mẫu rút ra kết luận về cả tổng thể.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "Such inferences from the observed to the unobserved, or to general laws, are known as \"inductive inferences\"."
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
-     "quote": "the relevance of the similarities and differences to the conclusion"
-    }
-   ]
-  },
-  {
-   "text": "Quy nạp nhân quả: từ sự đi kèm rút ra A gây ra B (ví dụ tôm/ngứa) có lẽ đúng.",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Quy nạp thống kê: từ tỉ lệ trong một nhóm rút ra kết luận về một cá thể; nhóm tham chiếu hẹp hơn (ký túc xá) làm lập luận yếu đi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
+          "quote": "supports the truth of its conclusion to some appropriate degree",
+          "where": "mở đầu; ví dụ mẫu 400 hộ gia đình"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "hastily leap to the conclusion that A caused B",
-     "where": "mục Post Hoc; dạng lập luận nhân quả dễ trượt"
+      "text": "Loại suy: mạnh khi điểm giống nhau liên quan đến điểm đang xét, yếu khi chỉ giống bề ngoài.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
+          "quote": "not every similarity increases the probability of the conclusion",
+          "where": "phần đánh giá loại suy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
+          "quote": "the relevance of the similarities and differences to the conclusion"
+        }
+      ]
+    },
+    {
+      "text": "Quy nạp nhân quả: từ sự đi kèm rút ra A gây ra B (ví dụ tôm/ngứa) có lẽ đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "hastily leap to the conclusion that A caused B",
+          "where": "mục Post Hoc; dạng lập luận nhân quả dễ trượt"
+        }
+      ]
+    },
+    {
+      "text": "Người châu Âu từng có rất nhiều quan sát như thế, cho đến khi gặp thiên nga đen ở Úc.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nhưng chỉ cần gặp một con thiên nga không trắng, như thiên nga đen ở Úc, là câu trên sai.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/life/",
+          "quote": "storks, great egrets, and many cranes would be swans, while Australia's black swans would not",
+          "where": "SEP Life, mục 1 (ví dụ định nghĩa thiên nga)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/realism-theory-change/",
+          "quote": "a single non-white swan is enough to falsify the hypothesis 'All swans are white'",
+          "where": "SEP Realism and Theory Change in Science"
+        }
+      ],
+      "fixed": true
     }
-   ]
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
   },
-  {
-   "text": "Người châu Âu từng có rất nhiều quan sát như thế, cho đến khi gặp thiên nga đen ở Úc.",
-   "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
-  }
- ],
- "checklist": {
-  "dung-nguon": true,
-  "manh-nhat": null,
-  "phan-bac": null,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "chua-kiem-duoc",
- "notes": "Claim thiên nga đen: SEP Induction, SEP Popper, Britannica (403) không nêu hoặc không mở được; Wikipedia 'Black swan theory' (chỉ để tìm nguồn) nêu 1697, Willem de Vlamingh, Tây Úc, dẫn Haworth 2021 The Conversation. Chưa mở nguồn gốc nên chua-kiem-duoc. Đề xuất người làm thêm nguồn chính (vd Haworth, The Conversation, 2021) hoặc bỏ năm. Phân loại 'quy quy nạp thống kê / khái quát / loại suy / nhân quả' là cách chia của site, không phải trích nguồn."
+  "result": "dat",
+  "notes": "Claim thiên nga đen: SEP Induction, SEP Popper, Britannica (403) không nêu hoặc không mở được; Wikipedia 'Black swan theory' (chỉ để tìm nguồn) nêu 1697, Willem de Vlamingh, Tây Úc, dẫn Haworth 2021 The Conversation. Chưa mở nguồn gốc nên chua-kiem-duoc. Đề xuất người làm thêm nguồn chính (vd Haworth, The Conversation, 2021) hoặc bỏ năm. Phân loại 'quy quy nạp thống kê / khái quát / loại suy / nhân quả' là cách chia của site, không phải trích nguồn. Lượt 2: claim thiên nga đen — vẫn không tìm được nguồn được phép cho chi tiết lịch sử \"người châu Âu có nhiều quan sát cho đến khi gặp thiên nga đen ở Úc\" (đã thử SEP searcher \"black swans\" europeans, \"black swan\" australia \"all swans\", \"all swans are white\"; Australian Museum, WA Museum: không nêu lịch sử; OpenAlex/Semantic Scholar 429). Nguồn mở được chỉ xác nhận có thiên nga đen ở Úc và một con thiên nga không trắng đủ bác bỏ \"mọi thiên nga đều trắng\"; chuyển thành sai mức nhẹ, fix bỏ chi tiết lịch sử. Kiểm lại: câu thiên nga đen đã thay đúng nguyên văn fix; claim 4 fixed."
 }
