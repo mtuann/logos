@@ -1,14 +1,14 @@
 ---
 title: Logos — Sách in
 description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được.
-updated: 2026-11-10
+updated: 2026-11-17
 search:
   exclude: true
 ---
 
 # Logos — Sách in {#logos-zero-sach-in}
 
-*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 10/11/2026.*
+*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 17/11/2026.*
 
 !!! note "Lưu ý khi in"
     Mỗi bài bắt đầu ở một trang mới.
@@ -16633,9 +16633,9 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
 ## Phản bác
 
-**1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: thương mọi người như nhau. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
+**1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: quan tâm đến mọi người, không gạt ai ra ngoài. Theo Chris Fraser (SEP), kiêm ái không đòi đối xử với mọi người như nhau, chỉ đòi một mối quan tâm đạo đức tương tự dành cho mọi người; Mặc gia vẫn chấp nhận rằng trong thực hành, ta chăm người thân trước. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
 
-*Cách đáp lại:* chính 3.4 nói lễ xa hoa chẳng bằng tiết kiệm, nên phê phán lễ linh đình nhắm vào một cách thực hành, không phải vào Khổng Tử. Còn thương người thân trước là điểm khởi đầu tự nhiên để lòng nhân lan rộng dần; đòi thương mọi người *như nhau* có thể vượt quá sức con người.
+*Cách đáp lại:* chính 3.4 nói lễ xa hoa chẳng bằng tiết kiệm, nên phê phán lễ linh đình nhắm vào một cách thực hành, không phải vào Khổng Tử. Còn thương người thân trước là điểm khởi đầu tự nhiên để lòng nhân lan rộng dần; nếu hiểu kiêm ái là thương mọi người *như nhau* tuyệt đối, đòi hỏi ấy có thể vượt quá sức con người.
 
 **2. Thứ bậc và gia đình đặt trên công lý.** Khi nghe khoe về người con ra làm chứng việc cha trộm dê, Khổng Tử đáp: cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó (13.18). Phải chăng đây là mầm của thói bao che?
 
@@ -17408,7 +17408,7 @@ Thử xem bạn nắm được đến đâu.
 
 # Hướng dẫn đọc: Mặc Tử — *kiêm ái*
 
-[Mặc Tử](../triet-gia/mac-tu.md) sáng lập Mặc gia, trường phái từng đối trọng ngang ngửa Nho gia thời Chiến Quốc rồi lụi tàn sau khi nhà Tần thống nhất. Ông và môn đồ là những người đầu tiên ở Trung Hoa lập luận từng bước để tìm một chuẩn mực đạo đức khách quan, thay vì chỉ dựa vào tập tục (Fraser, SEP). Luận đề cốt lõi: **kiêm ái** (兼愛), quan tâm bao trùm mọi người, không gạt ai ra ngoài; và **phi công** (非攻), phản đối chiến tranh xâm lược.
+[Mặc Tử](../triet-gia/mac-tu.md) sáng lập Mặc gia, trường phái từng đối trọng ngang ngửa Nho gia thời Chiến Quốc rồi lụi dần và biến mất khoảng giữa thời Tây Hán. Ông và môn đồ là những người đầu tiên ở Trung Hoa lập luận từng bước để tìm một chuẩn mực đạo đức khách quan, thay vì chỉ dựa vào tập tục (Fraser, SEP). Luận đề cốt lõi: **kiêm ái** (兼愛), quan tâm bao trùm mọi người, không gạt ai ra ngoài; và **phi công** (非攻), phản đối chiến tranh xâm lược.
 
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN. Sách *Mặc Tử* là tuyển tập nhiều người viết qua nhiều thời kỳ; không phần nào tự nhận do chính tay ông viết. Theo mục lục đời Hán, sách có 71 thiên, nay mất 18 (Fraser, SEP).
@@ -17809,7 +17809,7 @@ Thử xem bạn nắm được đến đâu.
 - [Thơ văn Lý–Trần: tuyển](../doc/tho-van-ly-tran.md) — truyền thống văn chương Việt trước Nguyễn Trãi: vô thường, thiền và thơ
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — Nguyễn Trãi định nghĩa lại "nhân nghĩa"
 - [Chiến tranh có bao giờ chính đáng không?](../cau-hoi/chien-tranh-chinh-dang.md) — từ "trừ bạo" đến lý thuyết chiến tranh chính nghĩa
-- [Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md) — nguồn của ý "thương dân, đánh kẻ có tội"
+- [Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md) — cùng truyền thống Nho giáo mà bài cáo mượn ngôn ngữ (ý "điếu phạt" ở thiên *Lương Huệ vương hạ* không có trong hướng dẫn này)
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam trong dòng lịch sử Đông Á
 
 ## Nguồn

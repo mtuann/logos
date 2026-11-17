@@ -111,9 +111,9 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
 ## Phản bác {#phan-bac}
 
-**1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: thương mọi người như nhau. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
+**1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: quan tâm đến mọi người, không gạt ai ra ngoài. Theo Chris Fraser (SEP), kiêm ái không đòi đối xử với mọi người như nhau, chỉ đòi một mối quan tâm đạo đức tương tự dành cho mọi người; Mặc gia vẫn chấp nhận rằng trong thực hành, ta chăm người thân trước. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
 
-*Cách đáp lại:* chính 3.4 nói lễ xa hoa chẳng bằng tiết kiệm, nên phê phán lễ linh đình nhắm vào một cách thực hành, không phải vào Khổng Tử. Còn thương người thân trước là điểm khởi đầu tự nhiên để lòng nhân lan rộng dần; đòi thương mọi người *như nhau* có thể vượt quá sức con người.
+*Cách đáp lại:* chính 3.4 nói lễ xa hoa chẳng bằng tiết kiệm, nên phê phán lễ linh đình nhắm vào một cách thực hành, không phải vào Khổng Tử. Còn thương người thân trước là điểm khởi đầu tự nhiên để lòng nhân lan rộng dần; nếu hiểu kiêm ái là thương mọi người *như nhau* tuyệt đối, đòi hỏi ấy có thể vượt quá sức con người.
 
 **2. Thứ bậc và gia đình đặt trên công lý.** Khi nghe khoe về người con ra làm chứng việc cha trộm dê, Khổng Tử đáp: cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó (13.18). Phải chăng đây là mầm của thói bao che?
 
