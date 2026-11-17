@@ -151,7 +151,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 ## Đọc tiếp {#doc-tiep}
 
-- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.
+- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md) — chữ tín (2.22), "cha giấu cho con" (13.18) và tranh luận Đông–Tây về nói dối.
 - [Mặc Tử: kiêm ái](mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.
