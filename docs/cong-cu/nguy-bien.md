@@ -272,7 +272,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đi tiếp {#di-tiep}
 
-Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chúng vào những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).
+Đến đây bạn đã có đủ công cụ để bắt đầu với những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Trục "Công cụ tư duy" còn tiếp với [Đọc văn bản khó](doc-van-ban-kho.md); nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).
 
 ## Nguồn {#nguon}
 
