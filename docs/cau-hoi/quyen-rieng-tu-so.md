@@ -31,7 +31,7 @@ Chữ "riêng tư" trong tiếng Việt ghép từ *riêng* (của mình, không
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ??? question "Sau khi bạn đã tự trả lời"
-    Hầu hết mọi người đều từ chối — và sự từ chối đó cho thấy "không có gì để giấu" không phải là toàn bộ câu chuyện. Có điều gì đó về việc bị *quan sát* — dù bởi AI, dù ta vô tội — vẫn làm ta khó chịu. Một biến thể để thử thêm: giả sử thay vì camera, thành phố yêu cầu mọi công dân nộp nhật ký tin nhắn hàng tháng cho cơ quan an ninh, với cùng lời đảm bảo "chỉ AI đọc, chỉ tìm tội phạm". Bạn có đồng ý không? Và nếu bạn từ chối cả hai, thì ranh giới của bạn nằm ở đâu — ở *nơi* bị giám sát, ở *cái gì* bị thu thập, hay ở *ai* được phép xem?
+    Nhiều người sẽ từ chối — và sự từ chối đó cho thấy "không có gì để giấu" không phải là toàn bộ câu chuyện. Có điều gì đó về việc bị *quan sát* — dù bởi AI, dù ta vô tội — vẫn làm ta khó chịu. Một biến thể để thử thêm: giả sử thay vì camera, thành phố yêu cầu mọi công dân nộp nhật ký tin nhắn hàng tháng cho cơ quan an ninh, với cùng lời đảm bảo "chỉ AI đọc, chỉ tìm tội phạm". Bạn có đồng ý không? Và nếu bạn từ chối cả hai, thì ranh giới của bạn nằm ở đâu — ở *nơi* bị giám sát, ở *cái gì* bị thu thập, hay ở *ai* được phép xem?
 
 ## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
