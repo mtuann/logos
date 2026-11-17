@@ -11,7 +11,7 @@ block: tam-tri
 
 !!! summary "Tóm tắt 5 phút"
 
-    - Luận điểm chính: cơn đau răng "ở đâu" khi răng hoàn toàn khỏe mạnh? — câu hỏi xưa nhất của triết học: tâm trí quan hệ thế nào với thân thể, với ba câu hỏi nhỏ: một hay hai, vì sao trải nghiệm "có cảm giác như thế" (qualia, vấn đề khó), và nếu khác nhau thì chúng tác động nhau bằng cách nào?
+    - Luận điểm chính: cơn đau răng "ở đâu" khi răng hoàn toàn khỏe mạnh? — một trong những câu hỏi xưa nhất của triết học: tâm trí quan hệ thế nào với thân thể, với ba câu hỏi nhỏ: một hay hai, vì sao trải nghiệm "có cảm giác như thế" (qualia, vấn đề khó), và nếu khác nhau thì chúng tác động nhau bằng cách nào?
     - Bốn lập trường: nhị nguyên luận ([Descartes](../triet-gia/descartes.md), *Meditations* 1641) — tâm trí là thực thể phi vật chất riêng biệt, vấp vấn đề tương tác mà công chúa Elisabeth đã hỏi chí mạng năm 1643 (cái không có vị trí trong không gian thì "đẩy" cái gì?); thuyết đồng nhất (Place 1956; Smart 1959) — cơn đau *chính là* trạng thái não, vấp tính riêng tư của trải nghiệm và chuyện bạch tuộc không có sợi thần kinh C mà vẫn biết đau; Mary trong phòng đen trắng (Jackson, "Epiphenomenal Qualia", 1982) — nếu Mary học được điều mới khi lần đầu thấy màu đỏ thì vật lý chưa nói hết mọi sự thật (phản bác: cô chỉ có thêm *năng lực*, không phải sự thật mới — và chính Jackson sau này đã rút lại lập luận); zombie triết học (Chalmers, *The Conscious Mind*, 1996) — nếu zombie hình dung được mà không mâu thuẫn thì ý thức không suy ra được từ vật lý (PhilPapers 2020: hơn một nửa triết gia không đi hết ba bước của Chalmers).
     - Thái độ của bài: đây là bài về tâm trí của *chính chúng ta* (khác với bài tam-tri-va-ai về tâm trí của máy móc) — và đến nay vẫn chưa có lời đáp được mọi người chấp nhận.
 
@@ -56,7 +56,7 @@ Năm 1641, René Descartes xuất bản *Suy niệm về Triết học Đệ nh�
 
 **Phản bác chính.** Công chúa Elisabeth xứ Bohemia, trong thư gửi Descartes năm 1643, hỏi một câu đơn giản mà chí mạng: nếu tâm trí hoàn toàn phi vật chất, không chạm vào bất cứ thứ gì, thì nó *khiến* cánh tay cử động bằng cách nào? Mọi quan hệ nhân quả ta biết đều liên quan đến tiếp xúc, va chạm, truyền lực. Một thứ không có vị trí trong không gian thì "đẩy" cái gì? Đây gọi là **vấn đề tương tác**. Chính Descartes cũng lúng túng: trong *Những đam mê của tâm hồn*, ông đoán điểm tương tác nằm ở tuyến tùng trong não — nhưng đặt bí ẩn vào một tuyến nhỏ không giải được bí ẩn, nó chỉ thu nhỏ bí ẩn lại.
 
-**Cách đáp lại.** Một số nhà nhị nguyên luận hiện đại chuyển sang nhị nguyên luận *thuộc tính*: không phải có hai thực thể, mà vật chất có hai loại thuộc tính — thuộc tính vật lý và thuộc tính tâm trí. Vấn đề tương tác vẫn còn, nhưng họ cho rằng quan hệ nhân quả không nhất thiết phải là va chạm cơ học; vật lý hiện đại đầy những tương tác "từ xa" mà ta vẫn chấp nhận.
+**Cách đáp lại.** Người bênh vực sự tương tác đáp rằng phản bác này dựa trên một hình dung nhân quả kiểu bi-a: nếu nhân quả không nhất thiết là va chạm, mà có thể là một lực hay năng lượng tinh tế hơn, hoặc chỉ là sự đi kèm đều đặn giữa hai loại sự kiện, thì về nguyên tắc tâm trí và thân thể vẫn có thể tác động nhau. Một số nhà nhị nguyên luận hiện đại còn chuyển sang nhị nguyên luận *thuộc tính*: không phải có hai thực thể, mà vật chất có hai loại thuộc tính — thuộc tính vật lý và thuộc tính tâm trí; nhưng câu hỏi tương tác vẫn theo họ.
 
 ### 2. Thuyết đồng nhất: trạng thái tâm trí chính là trạng thái não
 
@@ -66,7 +66,7 @@ Năm 1641, René Descartes xuất bản *Suy niệm về Triết học Đệ nh�
 
 **Phản bác chính.** Định luật [Leibniz](../triet-gia/leibniz.md) nói: nếu A đồng nhất với B, thì mọi tính chất của A đều là tính chất của B. Nhưng cơn đau có tính *riêng tư* — chỉ bạn cảm thấy nó — trong khi trạng thái não thì bất kỳ nhà khoa học nào cũng quan sát được. Một thứ vừa "chỉ mình tôi tiếp cận được" vừa "ai cũng quan sát được" nghe như mâu thuẫn. Ngoài ra, bạch tuộc không có sợi thần kinh C mà dường như vẫn biết đau; nếu đau đồng nhất với một loại tế bào cụ thể của người, ta sẽ phải nói bạch tuộc không đau — điều khó chấp nhận.
 
-**Cách đáp lại.** Người theo thuyết đồng nhất phân biệt đồng nhất *loại* và đồng nhất *trường hợp*: có thể "đau ở người" là sợi C bắn, còn "đau ở bạch tuộc" là một cơ chế khác — mỗi trường hợp vẫn là một trạng thái vật lý. Còn tính riêng tư, họ cho rằng đó chỉ là *cách ta tiếp cận* cùng một sự kiện: bạn cảm nhận cơn đau "từ bên trong", nhà khoa học quan sát nó "từ bên ngoài", giống như cùng một thành phố nhìn từ mặt đất và từ máy bay.
+**Cách đáp lại.** Người theo thuyết đồng nhất có thể thu hẹp phạm vi đồng nhất: "đau ở người" là sợi C bắn, còn "đau ở bạch tuộc" là một trạng thái vật lý khác — vẫn là đồng nhất *loại*, chỉ là loại hẹp hơn. Lùi xa hơn nữa thì chỉ giữ đồng nhất *trường hợp*: mỗi cơn đau cụ thể là một trạng thái vật lý cụ thể. Còn tính riêng tư, họ cho rằng đó chỉ là *cách ta tiếp cận* cùng một sự kiện: bạn cảm nhận cơn đau "từ bên trong", nhà khoa học quan sát nó "từ bên ngoài", giống như cùng một thành phố nhìn từ mặt đất và từ máy bay.
 
 ### 3. Mary trong phòng đen trắng: biết hết vật lý đã đủ chưa?
 
@@ -105,7 +105,7 @@ Lập luận của Chalmers có ba bước:
 
 **Phản bác chính.** Bước 2 là bước dễ tấn công nhất: tưởng tượng được không có nghĩa là khả hữu. Có vẻ như ta tưởng tượng được "nước không phải là H₂O", nhưng Saul Kripke đã lập luận rằng nước *nhất thiết* là H₂O — trực giác tưởng tượng của ta đã đánh lừa ta. Biết đâu zombie cũng vậy: ta *tưởng* mình tưởng tượng được, nhưng thật ra đã bỏ sót một mâu thuẫn ẩn. Trong khảo sát PhilPapers 2020, [[pp:zombie-triet-hoc.khong-the-hinh-dung]]% triết gia cho rằng zombie *không thể hình dung*, và [[pp:zombie-triet-hoc.hinh-dung-duoc-nhung-khong-kha-huu-ve-sieu-hinh]]% cho rằng hình dung được nhưng không khả hữu về siêu hình — tức là hơn một nửa không đi hết ba bước của Chalmers.
 
-**Cách đáp lại.** Chalmers phân biệt "tưởng tượng sơ sài" với "tưởng tượng sau khi suy xét lý tính đầy đủ". Ông cho rằng với zombie, càng suy xét kỹ ta càng thấy không có mâu thuẫn nào lộ ra — khác với trường hợp nước/H₂O, nơi khoa học đã chỉ ra được vì sao trực giác sai. Cuộc tranh luận này, đến nay, vẫn là một trong những điểm nóng nhất của triết học tâm trí.
+**Cách đáp lại.** Chalmers phân biệt "tưởng tượng sơ sài" với "tưởng tượng sau khi suy xét lý tính đầy đủ". Ông cho rằng với zombie, càng suy xét kỹ ta càng thấy không có mâu thuẫn nào lộ ra — khác với trường hợp nước/H₂O: theo Chalmers, cái ta hình dung được ở đó là nước *lẽ ra đã có thể* là một chất khác H₂O, và điều ấy khả hữu theo một nghĩa, nên ví dụ nước không bác được bước 2. Cuộc tranh luận này, đến nay, vẫn là một trong những điểm nóng nhất của triết học tâm trí.
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
@@ -141,7 +141,7 @@ Như mọi khảo sát, số đông không quyết định chân lý. Nhưng nó
 
 **Thuốc giảm đau và tính riêng tư của cảm giác.** Khi bác sĩ hỏi "đau mức mấy, từ 1 đến 10?", ông đang đo một thứ chỉ bạn mới tiếp cận được. Không có máy quét nào thay thế được câu trả lời của bạn. Đó chính là qualia trong đời thường: y học vận hành mỗi ngày trên tiền đề rằng trải nghiệm thứ nhất là có thật và không quy được hết về số liệu.
 
-**"Tâm bệnh".** Lo âu kéo dài gây đau dạ dày thật, mất ngủ thật, rụng tóc thật. Người ta hay nói "bệnh đó là do tâm lý" với hàm ý "không có thật". Nhưng nếu tâm trí và thân thể tương tác hai chiều như kinh nghiệm cho thấy, thì một nguyên nhân "tâm lý" gây ra hậu quả "thân thể" thật chẳng có gì bí ẩn — đó chính là vấn đề tương tác của Công chúa Elisabeth, phiên bản đời thường.
+**"Tâm bệnh".** Lo âu kéo dài gây đau dạ dày thật, mất ngủ thật. Người ta hay nói "bệnh đó là do tâm lý" với hàm ý "không có thật". Nhưng nếu tâm trí và thân thể tương tác hai chiều như kinh nghiệm cho thấy, thì một nguyên nhân "tâm lý" gây ra hậu quả "thân thể" thật chẳng có gì bí ẩn — đó chính là vấn đề tương tác của Công chúa Elisabeth, phiên bản đời thường.
 
 ## Đọc văn bản gốc {#doc-van-ban-goc}
 
