@@ -2,7 +2,7 @@
   "unit": "doc/trang-tu-mong-ho-diep.md#doc-tiep",
   "hash": "sha256:890c17d59eb0afea851c3f72eccc2f35381c69cbeb8eca7d56f5b38ac92a5ebc",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k02",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Descartes: giấc mơ, \"Suy niệm\" I–II hoài nghi để tìm nền móng",
@@ -17,19 +17,65 @@
       ]
     },
     {
-      "text": "Hướng dẫn đọc Đạo đức kinh: Lão Tử, người đi trước của Trang Tử",
+      "text": "[Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người đi trước của Trang Tử",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- [Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người mà truyền thống xếp cùng Trang Tử thành Đạo gia (Lão–Trang)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Traditional orthodoxy understood Zhuangzi as an anti-rational, credulous follower of a mystical Laozi."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Graham averred that “Inner Chapters” Zhuangzi had neither met Laozi nor knew of the Daode Jing text"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "implied a later date for the emergence of the Laozi text"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/dao-duc-kinh/",
+          "quote": "có lẽ được ghi lại từ nửa sau thế kỷ 5 TCN, hợp nhất dần trong thế kỷ 4, và khá ổn định vào giữa thế kỷ 3 TCN",
+          "where": "mục Bối cảnh; cùng lỗi mà kiểm mẫu đã ghi vua ở doc/dao-duc-kinh.md#doc-tiep (đã sửa ở đó)"
+        }
+      ]
+    },
+    {
+      "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — giấc mơ của Descartes, phiên bản phương Tây của cùng câu hỏi",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
-          "quote": "flourished through the latter half of the fourth century BC",
-          "where": "Trang Tử nửa sau TK4 TCN"
-        },
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Dưới đây là đoạn giấc mơ trong Suy niệm thứ nhất của Descartes"
+        }
+      ]
+    },
+    {
+      "text": "[Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — giấc mộng lớn trong phiên bản thời máy tính",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
-          "quote": "gradually came to be consolidated during the fourth century B.C.E.",
-          "where": "Lão Tử, văn bản kinh hợp nhất trong TK4 và ghi lại từ nửa sau TK5 TCN"
+          "url": "https://mtuann.github.io/logos/cau-hoi/mo-phong/",
+          "quote": "Ta có đang sống trong mô phỏng?",
+          "where": "H1"
+        }
+      ]
+    },
+    {
+      "text": "[Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cái \"tôi\" và ý thức từ góc nhìn triết học tâm trí",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — ý thức và quan hệ tâm trí–thân xác từ góc nhìn triết học tâm trí",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+          "quote": "Thân xác và tâm trí: vấn đề lâu đời nhất của triết học",
+          "where": "H1; nhãn lệch tên trang; trang đích bàn nhị nguyên, đồng nhất, Mary, zombie, không bàn \"cái tôi\" (có trang riêng cau-hoi/cai-toi)"
         }
       ]
     }
@@ -41,6 +87,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "dat",
-  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Các file đích đã kiểm tồn tại trong repo. Mô tả \"cái tôi và ý thức từ góc nhìn triết học tâm trí\" là gợi ý đọc, không phải dữ kiện."
+  "result": "sua",
+  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Các file đích đã kiểm tồn tại trong repo. Mô tả \"cái tôi và ý thức từ góc nhìn triết học tâm trí\" là gợi ý đọc, không phải dữ kiện. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (vua, nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 \"Lão Tử, người đi trước của Trang Tử\" (dung) được đổi thành sai vua: SEP Zhuangzi (fall2026) nói giới học thuật hiện nay phần lớn đã bỏ cách đọc Trang Tử là môn đồ Lão Tử và văn bản Lão Tử có thể muộn hơn; cùng lỗi kiểm mẫu đã bắt ở dao-duc-kinh#doc-tiep."
 }

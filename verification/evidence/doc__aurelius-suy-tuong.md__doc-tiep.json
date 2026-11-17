@@ -2,7 +2,7 @@
  "unit": "doc/aurelius-suy-tuong.md#doc-tiep",
  "hash": "sha256:ac70f6a7898cb4d35566ffc0671c0afe93f33d15d797a2d2d441246bfb0a0f0a",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k07",
+ "checker": "agent-kiem-5.4-k07 + agent-kiem-5.4-r09",
  "claims": [
   {
    "text": "Epictetus: Cẩm nang là bài cùng trường phái Khắc kỷ với công thức \"tầm kiểm soát\"; trang đích tồn tại",
@@ -39,6 +39,61 @@
      "where": "Cái nhìn từ trên cao IX.30 liên quan đến câu hỏi ý nghĩa"
     }
    ]
+  },
+  {
+   "text": "[Epictetus: Cẩm nang](epictetus-cam-nang.md) — cùng trường phái Khắc kỷ, công thức \"tầm kiểm soát\" sắc bén nhất",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/doc/epictetus-cam-nang/",
+     "quote": "Trong mọi sự, có những điều tùy thuộc vào ta, và có những điều không.",
+     "where": "Đoạn 1, §1"
+    }
+   ]
+  },
+  {
+   "text": "[Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus và Nagel tranh luận với lời nhắc \"hãy nhớ mình sẽ chết\"",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus, Nagel và Heidegger bàn về cái chết, để đặt cạnh lời nhắc \"hãy nhớ mình sẽ chết\"",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cai-chet/",
+     "quote": "Đó mới là nơi Epicurus và Nagel đối đầu.",
+     "where": "trang đích không nhắc Marcus Aurelius; Epicurus và Nagel tranh luận với nhau, không với lời nhắc"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cai-chet/",
+     "quote": "Heidegger: ý thức về cái chết làm cuộc sống chân thực",
+     "where": "lập trường 3"
+    }
+   ]
+  },
+  {
+   "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — cái nhìn từ trên cao có làm đời người vô nghĩa không?",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+     "quote": "Hãy tưởng tượng bạn được xem cuộc đời mình từ rất xa",
+     "where": "Thí nghiệm tư duy"
+    }
+   ]
+  },
+  {
+   "text": "[Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh các trường phái Hy Lạp–La Mã",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/lich-su/hy-lap-co-dai/",
+     "quote": "Triết gia Khắc kỷ nổi tiếng nhất là hoàng đế La Mã Marcus Aurelius (121–180)",
+     "where": "mục \"Thời Hellenistic\""
+    }
+   ]
   }
  ],
  "checklist": {
@@ -49,5 +104,5 @@
   "thuat-ngu": null
  },
  "result": "dat",
- "notes": "Chỉ kiểm quan hệ nội dung với văn bản gốc và sự tồn tại của file đích bằng ls; không kiểm nội dung các trang đích (ngoài phạm vi)."
+ "notes": "Chỉ kiểm quan hệ nội dung với văn bản gốc và sự tồn tại của file đích bằng ls; không kiểm nội dung các trang đích (ngoài phạm vi). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }

@@ -2,7 +2,7 @@
   "unit": "doc/manh-tu-tinh-thien.md#doc-tiep",
   "hash": "sha256:b79f9e59367f33b73657ebc434a955464c7b80c4fc3a9d874916d64d65579935",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "ban-tinh-con-nguoi.md bàn Mạnh Tử, Tuân Tử, Hobbes, Rousseau, Sartre",
@@ -56,6 +56,18 @@
           "where": "Mạnh Tử kế thừa Khổng Tử"
         }
       ]
+    },
+    {
+      "text": "[Luận ngữ: hướng dẫn đọc](luan-ngu.md) — Khổng Tử, người thầy mà Mạnh Tử kế thừa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/luan-ngu/",
+          "quote": "Luận ngữ — những lời dạy của Khổng Tử",
+          "where": "H1; nhãn là cách gọi hợp lý"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -66,5 +78,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Đối chiếu file cục bộ, không có URL web đã mở cho các trang nội bộ. | Lượt 2: mở các trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang."
+  "notes": "Đối chiếu file cục bộ, không có URL web đã mở cho các trang nội bộ. | Lượt 2: mở các trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 1 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }

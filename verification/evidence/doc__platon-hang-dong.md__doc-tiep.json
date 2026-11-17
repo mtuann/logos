@@ -2,7 +2,7 @@
   "unit": "doc/platon-hang-dong.md#doc-tiep",
   "hash": "sha256:30e8fa5bb9275e6a7f001f04652124ae4f4e5b1ace30add960adbef5a0f83ca1",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05",
+  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Biết một điều nghĩa là gì? (../cau-hoi/tri-thuc.md): trang tồn tại",
@@ -64,6 +64,46 @@
           "where": "Meditation I (Wikisource, bản dịch Veitch)"
         }
       ]
+    },
+    {
+      "text": "[Ngôn từ định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ngon-ngu/",
+          "quote": "Ngôn từ có định hình tư duy?",
+          "where": "H1; nhãn thiếu chữ \"có\""
+        }
+      ]
+    },
+    {
+      "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — bóng trên tường có tính là tri thức không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Tri thức là niềm tin đúng được biện minh, và cú đánh của Gettier"
+        }
+      ]
+    },
+    {
+      "text": "[Ai nên cai trị: số đông hay người hiểu biết?](../cau-hoi/ai-nen-cai-tri.md) — triết vương và những phản bác dân chủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ai-nen-cai-tri/",
+          "quote": "Platon: để người hiểu biết cai trị — \"vua triết gia\""
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ai-nen-cai-tri/",
+          "quote": "Churchill và truyền thống dân chủ: dân chủ không hứa hẹn sự khôn ngoan"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -74,5 +114,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị).\nLượt 2: Đã mở lại các URL mtuann.github.io/logos/... ngày 2026-11-17 (curl): <title> trùng từng chữ với quote đã ghi; trang cai-chet có mục Epicurus và Nagel, trang pho-quat có mục Aristotle → giữ dung."
+  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị).\nLượt 2: Đã mở lại các URL mtuann.github.io/logos/... ngày 2026-11-17 (curl): <title> trùng từng chữ với quote đã ghi; trang cai-chet có mục Epicurus và Nagel, trang pho-quat có mục Aristotle → giữ dung. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }

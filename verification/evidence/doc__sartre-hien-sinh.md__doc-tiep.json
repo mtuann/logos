@@ -2,7 +2,7 @@
   "unit": "doc/sartre-hien-sinh.md#doc-tiep",
   "hash": "sha256:925e0c97ca5c5ec75798e6abe609fce5eb2c0d8634eaaad94ce7c54c1307558a",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Các liên kết tới cau-hoi/tu-do-y-chi, trach-nhiem, lich-su/the-ky-20, y-nghia-song, viet-hien-dai",
@@ -12,6 +12,65 @@
         {
           "url": "https://github.com/mtuann/logos/tree/main/docs/cau-hoi",
           "quote": "tu-do-y-chi.md đã liên kết ngược tới doc/sartre-hien-sinh.md (kiểm bằng file local docs/cau-hoi/tu-do-y-chi.md dòng 194); 5 trang đích đều tồn tại"
+        }
+      ]
+    },
+    {
+      "text": "[Ta có thật sự tự do lựa chọn?](../cau-hoi/tu-do-y-chi.md) — tất định luận, tương thích luận và thí nghiệm Libet đối đầu Sartre",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Tương thích luận: tự do là làm theo ý mình"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Khoa học vào cuộc: thí nghiệm Libet và tranh luận sau đó"
+        }
+      ]
+    },
+    {
+      "text": "[Ta có đáng bị trách không?](../cau-hoi/trach-nhiem.md) — trách nhiệm đạo đức khi mọi thứ đều có nguyên nhân",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/trach-nhiem/",
+          "quote": "Frankfurt: trách nhiệm không cần \"có thể làm khác đi\""
+        }
+      ]
+    },
+    {
+      "text": "[Thế kỷ 20](../lich-su/the-ky-20.md) — bối cảnh triết học châu Âu thời Sartre",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/the-ky-20/",
+          "quote": "Jean-Paul Sartre (1905–1980) đưa những ý tưởng này thành hiện sinh"
+        }
+      ]
+    },
+    {
+      "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — nếu ý nghĩa không có sẵn, ta có thể tự tạo ra nó không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Chủ quan luận: ý nghĩa là do mình đặt ra"
+        }
+      ]
+    },
+    {
+      "text": "[Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md) — hiện sinh đã đến với người đọc Việt Nam thế nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/viet-hien-dai/",
+          "quote": "triết học hiện sinh của Sartre và Camus được dịch và bàn luận"
         }
       ]
     }
@@ -24,5 +83,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Kiểm bằng file local: 5 trang đích tồn tại, mô tả khớp (tự do ý chí/Libet; trách nhiệm; Thế kỷ 20 nêu Sartre; ý nghĩa sống; hiện sinh ở Việt Nam). Mô tả 'Libet đối đầu Sartre' hơi gộp nhưng bài tu-do-y-chi có dẫn Sartre là phía ngược lại. URL github ghi ở nguồn chỉ là chỉ dẫn thư mục, bằng chứng thực là file local."
+  "notes": "Kiểm bằng file local: 5 trang đích tồn tại, mô tả khớp (tự do ý chí/Libet; trách nhiệm; Thế kỷ 20 nêu Sartre; ý nghĩa sống; hiện sinh ở Việt Nam). Mô tả 'Libet đối đầu Sartre' hơi gộp nhưng bài tu-do-y-chi có dẫn Sartre là phía ngược lại. URL github ghi ở nguồn chỉ là chỉ dẫn thư mục, bằng chứng thực là file local. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 5 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
 }
