@@ -13,7 +13,7 @@ block: luan-ly-ung-dung
     - Bài đặt ba câu hỏi triết học: án tử hình biện minh bằng gì (báo ứng — "xứng đáng", [Kant](../triet-gia/kant.md) 1797 — hay hệ quả — răn đe cứu mạng), rủi ro oan sai không thể đảo ngược có chấp nhận được không, và trong thực tế án tử rơi lên ai.
     - Phe ủng hộ: có tội ác chỉ cái chết mới tương xứng, cộng với lập luận răn đe. Phe chống (từ Beccaria, 1764): hơn 200 ca minh oan trên hàng tử hình ở Mỹ kể từ 1973 — cái chết không có nút hoàn tác, nên mọi mức rủi ro oan sai đều không chấp nhận được.
     - Phe trung gian: giữ án tử trong luật nhưng gần như không dùng (chỉ cho tội đặc biệt nghiêm trọng, chứng cứ cao nhất), hoặc thay bằng tù chung thân không ân xá — đạt mọi mục tiêu thực tế mà vẫn sửa sai được.
-    - Thái độ bài: trình bày trung lập; trong câu bổ sung của PhilPapers 2020 (n ≈ [[pp:an-tu-hinh/n]]), [[pp:an-tu-hinh.khong-duoc-phep]]% triết gia trả lời chấp nhận hoặc nghiêng về "không được phép" và [[pp:an-tu-hinh.duoc-phep]]% "được phép" — một dữ kiện về ý kiến của giới triết học (khớp với việc văn học triết học đương đại nghiêng về phía hoài nghi án tử hình), không phải một phán quyết đạo đức.
+    - Thái độ bài: trình bày trung lập; trong câu bổ sung của PhilPapers 2020 (n ≈ [[pp:an-tu-hinh/n]]), [[pp:an-tu-hinh.khong-duoc-phep]]% triết gia trả lời chấp nhận hoặc nghiêng về "không được phép" và [[pp:an-tu-hinh.duoc-phep]]% "được phép" — một dữ kiện về ý kiến của giới triết học, không phải một phán quyết đạo đức.
 
 Nhà nước có quyền tước đi mạng sống của công dân không? Đây là câu hỏi mà hầu hết các hệ thống pháp luật hiện đại đều phải trả lời, và câu trả lời thì chia thế giới làm hai: một số nước giữ án tử hình, một số đã bãi bỏ. Cả hai bên đều viện đến "công lý" — nhưng họ hiểu công lý theo hai nghĩa khác nhau.
 
@@ -37,7 +37,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
-**Câu hỏi thứ nhất: án tử hình có thể được biện minh bằng gì?** Có hai kiểu biện minh chính. Kiểu *báo ứng* (*retributivism*): kẻ phạm tội ác nghiêm trọng *xứng đáng* phải chết — đây là vấn đề công bằng, không phải lợi ích. Kiểu *hệ quả* (*consequentialism*): án tử hình được chấp nhận nếu nó *răn đe* được tội phạm và vì thế cứu được nhiều mạng người hơn số mạng nó tước đi.
+**Câu hỏi thứ nhất: án tử hình có thể được biện minh bằng gì?** Có hai kiểu biện minh chính. Kiểu *báo ứng* (*retributivism*): kẻ phạm tội ác nghiêm trọng *xứng đáng* phải chết — đây là vấn đề công bằng, không phải lợi ích. Kiểu **hệ quả luận** (*consequentialism*): án tử hình được chấp nhận nếu nó *răn đe* được tội phạm và vì thế cứu được nhiều mạng người hơn số mạng nó tước đi.
 
 **Câu hỏi thứ hai: rủi ro oan sai có thể chấp nhận được không?** Mọi hệ thống do con người vận hành đều sai lầm. Câu hỏi không phải "có oan sai không" (câu trả lời luôn là có), mà là: mức rủi ro nào thì chấp nhận được, và tính *không thể đảo ngược* của cái chết có làm cho mọi mức rủi ro đều không chấp nhận được không?
 
@@ -49,7 +49,7 @@ Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách kh
 
 ### 1. Ủng hộ: có những tội ác mà chỉ cái chết mới tương xứng
 
-Lập trường thứ nhất bênh vực án tử hình bằng cả hai kiểu biện minh. Về báo ứng: một số tội ác nghiêm trọng đến mức chỉ có cái chết mới là hình phạt *tương xứng*. Immanuel Kant, trong *Metaphysik der Sitten* (1797), là người phát biểu mạnh mẽ nhất quan điểm này (diễn đạt lại): kẻ giết người phải chết — không phải vì điều đó có ích gì, mà vì công lý đòi hỏi như vậy; giữa sống và chết không có gì "tương đương", nên không hình phạt nào khác thay được. Ông còn viết: ngay cả khi một xã hội sắp tự giải tán, kẻ giết người cuối cùng trong tù vẫn phải bị xử trước, để mỗi người nhận đúng điều việc làm của mình đáng nhận, và để cả dân tộc không mang "nợ máu" như kẻ đồng lõa với sự vi phạm công lý. Về hệ quả: án tử hình răn đe những kẻ có ý định giết người, và mỗi vụ giết người được ngăn chặn là một mạng người vô tội được cứu.
+Lập trường thứ nhất bênh vực án tử hình bằng cả hai kiểu biện minh. Về báo ứng: một số tội ác nghiêm trọng đến mức chỉ có cái chết mới là hình phạt *tương xứng*. Immanuel Kant, trong *Metaphysik der Sitten* (1797), là một trong những người phát biểu mạnh mẽ nhất quan điểm này (diễn đạt lại): kẻ giết người phải chết — không phải vì điều đó có ích gì, mà vì công lý đòi hỏi như vậy; giữa sống và chết không có gì "tương đương", nên không hình phạt nào khác thay được. Ông còn viết: ngay cả khi một xã hội sắp tự giải tán, kẻ giết người cuối cùng trong tù vẫn phải bị xử trước, để mỗi người nhận đúng điều việc làm của mình đáng nhận, và để cả dân tộc không mang "nợ máu" như kẻ đồng lõa với sự vi phạm công lý. Về hệ quả: án tử hình răn đe những kẻ có ý định giết người, và mỗi vụ giết người được ngăn chặn là một mạng người vô tội được cứu.
 
 **Lập luận mạnh nhất.** Điểm mạnh nhất của lập trường này là nó nắm được một trực giác công bằng rất sâu: có những hành động mà *không trừng phạt tương xứng* thì chính là bất công. Khi một kẻ giết người hàng loạt chỉ phải ngồi tù vài chục năm trong khi nạn nhân của hắn mất tất cả, nhiều người cảm thấy có gì đó sai — không phải vì họ khát máu, mà vì cán cân công lý chưa được lập lại. Lập luận răn đe bổ sung một điểm thực tế: nếu án tử hình cứu được dù chỉ một số mạng người vô tội, thì bãi bỏ nó cũng là một lựa chọn có *cái giá bằng sinh mạng* — phe bãi bỏ không thể giả vờ rằng lựa chọn của họ không giết ai.
 
@@ -59,7 +59,7 @@ Lập trường thứ nhất bênh vực án tử hình bằng cả hai kiểu b
 
 ### 2. Chống: không hệ thống nào đủ hoàn hảo để được quyền giết
 
-Lập trường thứ hai, mở đầu trong thời hiện đại bởi Cesare Beccaria trong *Dei delitti e delle pene* (*Bàn về tội ác và hình phạt*, 1764) — văn bản bãi bỏ án tử kinh điển đầu tiên — cho rằng vấn đề không nằm ở tội ác mà nằm ở *người trừng phạt*. Mọi hệ thống tư pháp đều do con người vận hành: nhân chứng nhận dạng nhầm, lời thú tội bị ép cung, giám định pháp y sai, công tố viên che giấu chứng cứ gỡ tội. Với án tù, sai lầm còn có thể sửa — bồi thường, trả tự do, xin lỗi. Với án tử, không có nút hoàn tác.
+Lập trường thứ hai, mở đầu trong thời hiện đại bởi Cesare Beccaria trong *Dei delitti e delle pene* (*Bàn về tội ác và hình phạt*, 1764) — văn bản kinh điển chống án tử hình của thời Khai sáng — cho rằng vấn đề không nằm ở tội ác mà nằm ở *người trừng phạt*. Mọi hệ thống tư pháp đều do con người vận hành: nhân chứng nhận dạng nhầm, lời thú tội bị ép cung, giám định pháp y sai, công tố viên che giấu chứng cứ gỡ tội. Với án tù, sai lầm còn có thể sửa — bồi thường, trả tự do, xin lỗi. Với án tử, không có nút hoàn tác.
 
 **Lập luận mạnh nhất.** Điểm mạnh nhất là con số, không phải lý thuyết. [[thoi-su:cau-hoi.an-tu-hinh.dpic-minh-oan]] Đây không phải là rủi ro giả thuyết trong thí nghiệm tư duy; đây là những con người thật với tên tuổi thật. Và logic của lập luận rất đơn giản: nếu bạn ủng hộ một hệ thống mà bạn *biết chắc* sẽ giết nhầm người vô tội (chỉ không biết là ai), thì bạn đã chấp nhận việc nhà nước giết người vô tội như một "chi phí vận hành" — một điều mà không lý thuyết công lý nào có thể nuốt trôi.
 
