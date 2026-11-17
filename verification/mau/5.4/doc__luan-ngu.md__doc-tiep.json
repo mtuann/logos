@@ -1,6 +1,6 @@
 {
   "unit": "doc/luan-ngu.md#doc-tiep",
-  "hash": "sha256:9bac7aa93f9d996ba1121920f75e210d2085e276fda588ad8ecd594d458c3206",
+  "hash": "sha256:cfbc8e55e69fce0f22f28f444f5513195398f6cecd50e50c2a52e83712c9cc5f",
   "checked_on": "2026-11-17",
   "checker": "agent-mau-5.4-m02",
   "claims": [
@@ -13,7 +13,8 @@
       "sources": [
         {"url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/", "quote": "1. Thuyết vị lợi: hãy tạo ra nhiều hạnh phúc nhất 2. Đạo đức học Kant: hãy hành động theo bổn phận 3. Đạo đức học đức hạnh: hãy trở thành con người tốt"},
         {"url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/", "quote": "( Aristotle ): hỏi sai câu hỏi rồi — đừng hỏi \"hành động nào đúng\", hãy hỏi \"người tốt sẽ làm gì\""}
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.",
@@ -64,5 +65,5 @@
   ],
   "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
   "result": "dat",
-  "notes": "Mọi trang đích trả HTTP 200 (17/11/2026). Lỗi nhẹ: trang dao-duc-hanh-dong chỉ so đạo đức học đức hạnh (Aristotle) với thuyết vị lợi và Kant, không nhắc Khổng Tử hay Luận ngữ; chú thích 'so với các lý thuyết phương Tây' dễ khiến người đọc chờ một so sánh Nho–Tây không có ở trang đích."
+  "notes": "Mọi trang đích trả HTTP 200 (17/11/2026). Lỗi nhẹ: trang dao-duc-hanh-dong chỉ so đạo đức học đức hạnh (Aristotle) với thuyết vị lợi và Kant, không nhắc Khổng Tử hay Luận ngữ; chú thích 'so với các lý thuyết phương Tây' dễ khiến người đọc chờ một so sánh Nho–Tây không có ở trang đích. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): dòng dao-duc-hanh-dong đã sửa thành 'đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.', đúng fix của mẫu và khớp ba lý thuyết trên trang đích."
 }

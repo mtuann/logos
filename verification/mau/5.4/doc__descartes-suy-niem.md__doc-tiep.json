@@ -1,6 +1,6 @@
 {
   "unit": "doc/descartes-suy-niem.md#doc-tiep",
-  "hash": "sha256:f9c45588d48bcdf824533c26f63cd5c66c2e30ac28cf04f0b10f8328f49e2e36",
+  "hash": "sha256:25b4c6226f2cf191023f9b2d6db29d704ef81d6df2c53cdedac42ad444c80668",
   "checked_on": "2026-11-17",
   "checker": "agent-mau-5.4-m01",
   "claims": [
@@ -20,7 +20,8 @@
       "fix": "[Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
       "sources": [
         {"url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/", "quote": "Thân xác và tâm trí: vấn đề lâu đời nhất của triết học", "where": "H1 (HTTP 200); nhãn nav trong mkdocs.yml: 'Thân xác và tâm trí?'"}
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — phiên bản hiện đại của ác thần",
@@ -49,5 +50,5 @@
   ],
   "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
   "result": "dat",
-  "notes": "Cả bốn link nội bộ mở được (HTTP 200) trên https://mtuann.github.io/logos/. Chỉ nhãn link thứ hai ('Tâm trí là gì?') không khớp tên trang đích ('Thân xác và tâm trí: vấn đề lâu đời nhất của triết học'), mức nhẹ. Ngoài phạm vi: trang mo-phong gọi là 'ác quỷ lừa dối', không thống nhất với 'ác thần' ở bài này."
+  "notes": "Cả bốn link nội bộ mở được (HTTP 200) trên https://mtuann.github.io/logos/. Chỉ nhãn link thứ hai ('Tâm trí là gì?') không khớp tên trang đích ('Thân xác và tâm trí: vấn đề lâu đời nhất của triết học'), mức nhẹ. Ngoài phạm vi: trang mo-phong gọi là 'ác quỷ lừa dối', không thống nhất với 'ác thần' ở bài này. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): nhãn đã đổi thành 'Thân xác và tâm trí', khớp H1/<title> trang đích (mở lại, HTTP 200)."
 }

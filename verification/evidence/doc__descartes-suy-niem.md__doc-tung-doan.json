@@ -1,8 +1,8 @@
 {
  "unit": "doc/descartes-suy-niem.md#doc-tung-doan",
- "hash": "sha256:33ce6f41958a03a9466d88540d154e54231cca22f84ef04918e7c2ddce1e8848",
+ "hash": "sha256:37816e65ad22360c380d3a70422ef8cdbbb41712b109c0f67c6004a4a1f105cd",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k07",
+ "checker": "agent-kiem-5.4-k07 + agent-kiem-5.4-r09",
  "claims": [
   {
    "text": "Med I §3 (AT 7:18): \"All that I have, up to this moment, accepted as possessed of the highest truth and certainty, I received either from or through the senses. I observed, however, that these sometimes misled us; and it is the part of prudence not to place absolute confidence in that by which we have even once been deceived.\"",
@@ -243,6 +243,26 @@
      "where": "đối chiếu từng câu: không có chỗ lệch nghĩa"
     }
    ]
+  },
+  {
+   "text": "Archimedes chỉ đòi một điểm tựa vững để nâng trái đất; Descartes chỉ cần một điều chắc chắn (§1).",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Archimedes chỉ đòi một điểm tựa vững để dời trái đất khỏi chỗ của nó; Descartes chỉ cần một điều chắc chắn (§1).",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+     "quote": "Archimedes, that he might transport the entire globe from the place it occupied to another, demanded only a point that was firm and immovable",
+     "where": "§1"
+    },
+    {
+     "url": "https://archive.org/download/oeuvresdedescar07desc/oeuvresdedescar07desc_djvu.txt",
+     "quote": "Nihil nifi punétum petebat Archi- medes, quod effet firmum & immobile, ut integram terram loco dimoveret",
+     "where": "AT VII, tr. 24"
+    }
+   ],
+   "fixed": true
   }
  ],
  "checklist": {
@@ -253,5 +273,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "AT kiểm bằng văn bản Latin AT 7 trên archive.org (OCR): số trang tính từ tiêu đề trang chạy. Tất cả vị trí khớp."
+ "notes": "AT kiểm bằng văn bản Latin AT 7 trên archive.org (OCR): số trang tính từ tiêu đề trang chạy. Tất cả vị trí khớp. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): §1 nay viết 'dời trái đất khỏi chỗ của nó', khớp Veitch 'transport the entire globe from the place it occupied' (Wikisource, mở lại) và Latin 'loco dimoveret'."
 }

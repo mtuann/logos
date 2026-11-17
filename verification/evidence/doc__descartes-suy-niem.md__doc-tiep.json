@@ -1,8 +1,8 @@
 {
  "unit": "doc/descartes-suy-niem.md#doc-tiep",
- "hash": "sha256:f9c45588d48bcdf824533c26f63cd5c66c2e30ac28cf04f0b10f8328f49e2e36",
+ "hash": "sha256:25b4c6226f2cf191023f9b2d6db29d704ef81d6df2c53cdedac42ad444c80668",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k07",
+ "checker": "agent-kiem-5.4-k07 + agent-kiem-5.4-r09",
  "claims": [
   {
    "text": "Biết một điều nghĩa là gì?: hoài nghi luận của Descartes (thí nghiệm giấc mơ) liên quan; file đích tồn tại (ls)",
@@ -51,6 +51,21 @@
      "where": "I §12: Descartes cũng dùng hình ảnh người tù"
     }
    ]
+  },
+  {
+   "text": "[Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "[Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+     "quote": "Thân xác và tâm trí: vấn đề lâu đời nhất của triết học",
+     "where": "H1 (HTTP 200); nhãn nav trong mkdocs.yml: 'Thân xác và tâm trí?'"
+    }
+   ],
+   "fixed": true
   }
  ],
  "checklist": {
@@ -61,5 +76,5 @@
   "thuat-ngu": null
  },
  "result": "dat",
- "notes": "Chỉ kiểm quan hệ với văn bản gốc và sự tồn tại file đích (ls), không kiểm nội dung các trang đích."
+ "notes": "Chỉ kiểm quan hệ với văn bản gốc và sự tồn tại file đích (ls), không kiểm nội dung các trang đích. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): nhãn đã đổi thành 'Thân xác và tâm trí', khớp H1/<title> trang đích (mở lại, HTTP 200)."
 }
