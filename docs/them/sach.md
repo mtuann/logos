@@ -15278,8 +15278,8 @@ mọi cuộc cãi nhau về giáo dục. Cuộc tranh luận ấy, cùng [Hobbes
 
 ## Lão Tử và Trang Tử: Đạo không nói được
 
-Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của Lão
-Tử (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
+Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của
+[Lão Tử](../triet-gia/lao-tu.md) (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
 nổi tiếng: "Đạo khả đạo, phi thường đạo" — Đạo mà nói được thì không phải Đạo thường hằng. Tư tưởng
 cốt lõi: vũ trụ vận hành theo **Đạo**, một nguyên lý không thể gọi tên; cách sống khôn ngoan nhất là
 **vô vi** — không cưỡng ép, thuận theo tự nhiên như nước chảy chỗ trũng.
