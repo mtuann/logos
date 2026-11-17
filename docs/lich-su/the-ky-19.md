@@ -12,7 +12,7 @@ block: lich-su
 
 ## Hegel: mọi thứ đều vận động theo biện chứng {#hegel-moi-thu-deu-van-dong-theo-bien-chung}
 
-**G. W. F. [Hegel](../triet-gia/hegel.md)** (1770–1831), người Đức, là triết gia có tham vọng hệ thống lớn nhất sau [Aristotle](../triet-gia/aristotle.md): ông muốn giải thích *toàn bộ* thực tại — tự nhiên, lịch sử, nghệ thuật, tôn giáo, triết học — trong một hệ thống duy nhất.
+**G. W. F. [Hegel](../triet-gia/hegel.md)** (1770–1831), người Đức, là triết gia có tham vọng hệ thống lớn nhất trong các nhà duy tâm Đức: ông muốn giải thích *toàn bộ* thực tại — tự nhiên, lịch sử, nghệ thuật, tôn giáo, triết học — trong một hệ thống duy nhất.
 
 Tư tưởng cốt lõi là **biện chứng** (*dialectic*): mọi sự vật đều chứa mâu thuẫn nội tại; mâu thuẫn thúc đẩy sự vật vượt lên chính nó. Sách phổ thông hay tóm tắt biện chứng bằng bộ ba chính đề – phản đề – hợp đề, nhưng Hegel không dùng bộ ba thuật ngữ ấy cho triết học của mình (nó gắn với Fichte), và trong Lời tựa *Hiện tượng học Tinh thần* ông còn chê lối áp "bộ ba" một cách máy móc. Ý của ông gần hơn với điều này: một khái niệm, khi được nghĩ cho đến cùng, tự lộ ra giới hạn và mâu thuẫn của nó; mâu thuẫn ấy không bị vứt bỏ mà được **vượt bỏ** (*Aufhebung*: vừa xóa bỏ vừa giữ lại) trong một khái niệm phong phú hơn — rồi khái niệm mới lại bộc lộ giới hạn của chính nó.
 
@@ -20,17 +20,17 @@ Hegel áp dụng logic này cho lịch sử: lịch sử không phải chuỗi s
 
 Đoạn nổi tiếng nhất của tác phẩm là biện chứng **chủ – tớ** (*master–slave*, Herr/Knecht; còn gọi là chủ – nô): hai ý thức gặp nhau, mỗi bên muốn được bên kia công nhận; một bên chịu khuất phục để giữ mạng sống (nô), bên kia thắng (chủ). Nhưng rồi tình thế đảo ngược: người chủ phụ thuộc vào người nô lao động và chẳng làm được gì, còn người nô qua lao động mà biến đổi thế giới và nhận ra sức mạnh của mình. Bài học: quan hệ nhận thức lẫn nhau mới tạo nên ý thức tự do — một ý tưởng mà triết học chính trị và tâm lý học vẫn khai thác đến hôm nay.
 
-Vì sao quan trọng? Dù ít ai ngày nay tin vào toàn bộ hệ thống Hegel, phương pháp của ông — nhìn sự vật trong vận động, mâu thuẫn và phát triển lịch sử — thấm vào mọi ngành khoa học xã hội. Và ông là điểm xuất phát (để tiếp thu hay để phản bác) của hầu hết triết học thế kỷ 19 sau ông.
+Vì sao quan trọng? Dù ít ai ngày nay tin vào toàn bộ hệ thống Hegel, phương pháp của ông — nhìn sự vật trong vận động, mâu thuẫn và phát triển lịch sử — thấm vào nhiều ngành khoa học xã hội. Và ông là điểm xuất phát (để tiếp thu hay để phản bác) của hầu hết triết học thế kỷ 19 sau ông.
 
 ## Marx: lật ngược Hegel {#marx-lat-nguoc-hegel}
 
 **[Karl Marx](../triet-gia/marx.md)** (1818–1883) từng là "người Hegel trẻ", rồi thực hiện một cú lật ngược nổi tiếng: giữ lại phương pháp biện chứng của Hegel nhưng "đặt nó đứng trên đôi chân của mình". Với Hegel, ý thức quyết định tồn tại; với Marx, **tồn tại xã hội quyết định ý thức**.
 
-Tư tưởng cốt lõi là **duy vật lịch sử** (*historical materialism*): động lực của lịch sử không phải ý tưởng, mà là cách con người tổ chức sản xuất vật chất. Mỗi thời đại có một **phương thức sản xuất** (chế độ nô lệ, phong kiến, tư bản...) với quan hệ giữa người sở hữu tư liệu sản xuất và người lao động; mâu thuẫn giữa **lực lượng sản xuất** (công nghệ, kỹ năng — luôn phát triển) và **quan hệ sản xuất** (ai sở hữu cái gì — trì trệ) cuối cùng bùng nổ thành cách mạng, chuyển sang phương thức mới.
+Tư tưởng cốt lõi là **duy vật lịch sử** (*historical materialism*): động lực của lịch sử không phải ý tưởng, mà là cách con người tổ chức sản xuất vật chất. Mỗi thời đại có một **phương thức sản xuất** (chế độ nô lệ, phong kiến, tư bản...) với quan hệ giữa người sở hữu tư liệu sản xuất và người lao động; mâu thuẫn giữa **lực lượng sản xuất** (công nghệ, kỹ năng — có xu hướng phát triển) và **quan hệ sản xuất** (ai sở hữu cái gì — chậm thay đổi) cuối cùng bùng nổ thành cách mạng, chuyển sang phương thức mới.
 
 Trong *Tuyên ngôn của Đảng Cộng sản* (1848, viết cùng Engels) và *Tư bản* (tập 1, 1867), Marx phân tích chủ nghĩa tư bản: công nhân bán sức lao động, nhà tư bản chiếm đoạt **giá trị thặng dư** — phần giá trị công nhân tạo ra vượt quá tiền công. Hệ thống này, theo Marx, vừa tạo ra của cải khổng lồ vừa tạo ra **tha hóa** (*alienation*): người lao động xa lạ với sản phẩm, với quá trình lao động, với đồng loại và với chính mình.
 
-Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà hoạt động chính trị; tư tưởng của ông vừa là công cụ phân tích xã hội có ảnh hưởng sâu rộng (hầu như mọi ngành khoa học xã hội hiện đại đều chịu ảnh hưởng của ông, dù đồng ý hay phản bác), vừa gắn với các phong trào chính trị gây tranh cãi trong thế kỷ 20. Bài này trình bày ông như một lập trường triết học: một cách giải thích lịch sử và xã hội bằng điều kiện vật chất, với những lập luận và những phản bác riêng.
+Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà hoạt động chính trị; tư tưởng của ông vừa là công cụ phân tích xã hội có ảnh hưởng sâu rộng (nhiều ngành khoa học xã hội hiện đại chịu ảnh hưởng của ông, dù đồng ý hay phản bác), vừa gắn với các phong trào chính trị gây tranh cãi trong thế kỷ 20. Bài này trình bày ông như một lập trường triết học: một cách giải thích lịch sử và xã hội bằng điều kiện vật chất, với những lập luận và những phản bác riêng.
 
 Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – kiến trúc thượng tầng** (*base–superstructure*). Theo Marx, cách tổ chức sản xuất (cơ sở hạ tầng) định hình luật pháp, chính trị, tôn giáo, văn hóa (kiến trúc thượng tầng) — chứ không phải ngược lại. Phản bác phổ biến nhất: mô hình này có quá đơn giản không? Ý tưởng — ví dụ chính chủ nghĩa Marx — chẳng phải đã làm thay đổi thế giới vật chất đó sao? Nếu ý thức chỉ là "phản ánh" tồn tại, thì chính tư tưởng của Marx từ đâu mà có?
 
