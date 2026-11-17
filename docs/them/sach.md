@@ -15622,11 +15622,11 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là ti
 
 ## Phản bác
 
-**Aristotle: không cần một thế giới ý niệm riêng.** [Aristotle](../triet-gia/aristotle.md), học trò của Platon, phản bác rằng ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật: "chúng không phải bản chất của các sự vật, nếu không thì chúng đã ở *trong* sự vật" (*Siêu hình học* I.9). Cái chung nằm ngay trong những sự vật cụ thể. Nhưng Aristotle không phải người đầu tiên thấy vấn đề: chính Platon, trong *Parmenides*, đã tự nêu những phản bác sắc bén với thuyết ý niệm.
+**Aristotle: không cần một thế giới ý niệm riêng.** [Aristotle](../triet-gia/aristotle.md), học trò của Platon, phản bác rằng ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật: "chúng không phải bản chất của các sự vật, nếu không thì chúng đã ở *trong* sự vật" (*Siêu hình học* I.9; bản dịch của Logos). Cái chung nằm ngay trong những sự vật cụ thể. Nhưng Aristotle không phải người đầu tiên thấy vấn đề: chính Platon, trong *Parmenides*, đã tự nêu những phản bác sắc bén với thuyết ý niệm.
 
 **Cách đáp lại:** Người theo Platon chỉ vào toán học: không vòng tròn vẽ trên giấy nào tròn hoàn hảo, vậy mà ta biết chính xác "hình tròn" là gì. Cuộc tranh luận giữa hai cách nhìn này đến nay chưa ngã ngũ.
 
-**[Popper](../triet-gia/popper.md): mầm mống chuyên chế.** Ẩn dụ vẽ đám đông như những kẻ mê muội và triết gia như người cứu rỗi. Karl Popper, trong *Xã hội mở và kẻ thù của nó* (1945), coi *Cộng hòa* là một gốc rễ của tư tưởng chống dân chủ: ai kiểm soát những người tự nhận đã "thấy ánh sáng"?
+**[Popper](../triet-gia/popper.md): mầm mống chuyên chế.** Ẩn dụ vẽ đám đông như những kẻ mê muội và triết gia như người cứu rỗi. Karl Popper, trong *Xã hội mở và kẻ thù của nó* (1945), coi *Cộng hòa* là một gốc rễ của tư tưởng toàn trị: ai kiểm soát những người tự nhận đã "thấy ánh sáng"?
 
 **Cách đáp lại:** Ẩn dụ đòi người hiểu biết phải phục vụ chứ không hưởng quyền: họ bị buộc quay về, và người ít ham quyền nhất mới đáng cầm quyền (520d). Dân chủ hiện đại cũng vẫn phải cân nhắc vai trò của chuyên môn.
 
@@ -16213,7 +16213,7 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 
 ## Phản bác
 
-**1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, bạn của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
+**1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, người quen của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
 
 *Cách đáp lại:* Kant không phủ nhận vai trò của người giám hộ; ông tả họ khá cay nghiệt (đoạn 2). Chữ "do chính mình" khẳng định năng lực vốn có hơn là buộc tội, và yêu cầu chính của ông nhắm vào chính quyền: hãy để công chúng tự do.
 
