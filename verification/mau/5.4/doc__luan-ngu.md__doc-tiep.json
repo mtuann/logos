@@ -1,0 +1,68 @@
+{
+  "unit": "doc/luan-ngu.md#doc-tiep",
+  "hash": "sha256:9bac7aa93f9d996ba1121920f75e210d2085e276fda588ad8ecd594d458c3206",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m02",
+  "claims": [
+    {
+      "text": "[Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "[Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/", "quote": "1. Thuyết vị lợi: hãy tạo ra nhiều hạnh phúc nhất 2. Đạo đức học Kant: hãy hành động theo bổn phận 3. Đạo đức học đức hạnh: hãy trở thành con người tốt"},
+        {"url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/", "quote": "( Aristotle ): hỏi sai câu hỏi rồi — đừng hỏi \"hành động nào đúng\", hãy hỏi \"người tốt sẽ làm gì\""}
+      ]
+    },
+    {
+      "text": "[Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/", "quote": "khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan"}
+      ]
+    },
+    {
+      "text": "[Có bao giờ được nói dối?](../cau-hoi/noi-doi.md) — chữ tín (2.22), \"cha giấu cho con\" (13.18) và tranh luận Đông–Tây về nói dối.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/", "quote": "Khổng Tử nói (2.22): \"人而無信，不知其可也\""},
+        {"url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/", "quote": "Khổng Tử đáp: cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó (13.18)"}
+      ]
+    },
+    {
+      "text": "[Mặc Tử: kiêm ái](mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/", "quote": "Nho gia dạy thương người thân trước rồi mới tới người dưng, và coi trật tự ấy là tự nhiên."},
+        {"url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/", "quote": "ông chê đám tang xa hoa, âm nhạc tốn kém, và trên hết là chiến tranh xâm lược"}
+      ]
+    },
+    {
+      "text": "[Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — lý tưởng người quân tử trong chính trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/", "quote": "\"đức người quân tử như gió, cỏ ắt rạp theo\" (12.19)"}
+      ]
+    },
+    {
+      "text": "Năm link nội bộ mở được, tiêu đề link khớp tiêu đề trang đích",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/", "quote": "Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học"},
+        {"url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/", "quote": "Nho giáo Việt Nam: tiếp thu hay sáng tạo?"},
+        {"url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/", "quote": "Có bao giờ được nói dối?"},
+        {"url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/", "quote": "Hướng dẫn đọc Mặc Tử: kiêm ái"},
+        {"url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/", "quote": "Cai trị bằng đức hay bằng pháp?"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Mọi trang đích trả HTTP 200 (17/11/2026). Lỗi nhẹ: trang dao-duc-hanh-dong chỉ so đạo đức học đức hạnh (Aristotle) với thuyết vị lợi và Kant, không nhắc Khổng Tử hay Luận ngữ; chú thích 'so với các lý thuyết phương Tây' dễ khiến người đọc chờ một so sánh Nho–Tây không có ở trang đích."
+}
