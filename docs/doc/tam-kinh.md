@@ -130,7 +130,7 @@ Thử xem bạn nắm được đến đâu.
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md) — bối cảnh Phật giáo ra đời và các trường phái tranh luận
 - [Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — cái "không" của [Lão Tử](../triet-gia/lao-tu.md) (chương 11) đặt cạnh cái "không" của Bát nhã: giống và khác ở đâu?
 - [Cái 'tôi' là gì?](../cau-hoi/cai-toi.md) — năm uẩn và câu hỏi về bản ngã trong triết học hiện đại
-- [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md) — tinh thần Bát nhã trong Phật giáo Việt Nam thời Trần
+- [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md) — Phật giáo nhập thế thời Trần: tu ngay giữa đời, "đối cảnh vô tâm"
 
 ## Nguồn {#nguon}
 

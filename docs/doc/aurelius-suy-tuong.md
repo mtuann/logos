@@ -153,7 +153,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp {#doc-tiep}
 
 - [Epictetus: Cẩm nang](epictetus-cam-nang.md) — cùng trường phái Khắc kỷ, công thức "tầm kiểm soát" sắc bén nhất
-- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus và Nagel tranh luận với lời nhắc "hãy nhớ mình sẽ chết"
+- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus, Nagel và Heidegger bàn về cái chết, để đặt cạnh lời nhắc "hãy nhớ mình sẽ chết"
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — cái nhìn từ trên cao có làm đời người vô nghĩa không?
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh các trường phái Hy Lạp–La Mã
 
