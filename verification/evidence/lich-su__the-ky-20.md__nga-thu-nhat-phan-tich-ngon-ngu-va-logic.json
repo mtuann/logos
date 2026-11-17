@@ -1,6 +1,6 @@
 {
   "unit": "lich-su/the-ky-20.md#nga-thu-nhat-phan-tich-ngon-ngu-va-logic",
-  "hash": "sha256:a1ddd729fb3fb314e9744b29c92d114cf6d702e60f3f84cae55bf9e8dc5406cd",
+  "hash": "sha256:274a15b720a4aa7655535b2f6866d00f3cb4dbd4825fd44297302d1d4f42efc0",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.6-p05 + claude-doi-loi-5",
   "claims": [
@@ -380,6 +380,128 @@
           "quote": "Metaphysics has undergone a certain sort of renaissance in post-linguistic analytic philosophy."
         }
       ]
+    },
+    {
+      "text": "Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/austin-jl/",
+          "quote": "was White’s Professor of Moral Philosophy at the University of Oxford"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ryle/",
+          "quote": "He would remain at Oxford for his entire academic career"
+        }
+      ]
+    },
+    {
+      "text": "J. L. Austin (1911–1960), trong các bài giảng xuất bản sau khi mất thành How to Do Things with Words (1962)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/austin-jl/",
+          "quote": "John Langshaw Austin (1911–1960)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/austin-jl/",
+          "quote": "a version of the lectures was published as How to Do Things With Words"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/austin-jl/",
+          "quote": "1962b, How to Do Things with Words"
+        }
+      ]
+    },
+    {
+      "text": "nhiều câu nói không phải để mô tả sự thật mà để làm điều gì đó: \"tôi hứa\", \"tôi đặt tên con tàu này là...\" ... Ông gọi đó là hành vi ngôn ngữ (speech act)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/austin-jl/",
+          "quote": "“I name this ship the Queen Elizabeth ”—as uttered when smashing a bottle against the stern"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/austin-jl/",
+          "quote": "the use of language in speech acts"
+        }
+      ]
+    },
+    {
+      "text": "Gilbert Ryle (1900–1976), trong The Concept of Mind (1949), dùng phương pháp này để tấn công nhị nguyên luận Descartes",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ryle/",
+          "quote": "born in Brighton, Sussex, England on 19 August 1900"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ryle/",
+          "quote": "He died on 6 October 1976"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/categories/",
+          "quote": "Most famously, Ryle (1949) introduced the idea of the category mistake"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ryle/",
+          "quote": "put the final nail in the coffin of Cartesian dualism"
+        }
+      ]
+    },
+    {
+      "text": "lỗi phạm trù (category mistake) — như hỏi \"trường đại học ở đâu\" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/categories/",
+          "quote": "a foreigner would make a category mistake if he observed the various colleges, libraries, and administrative offices of Oxford, and then asked to be shown the university"
+        }
+      ]
+    },
+    {
+      "text": "\"Tâm trí\" không phải một vật bí ẩn, mà là cách ta mô tả những khuynh hướng hành xử của con người",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/categories/",
+          "quote": "when the concepts of believing, knowing, and the like are actually dispositional"
+        }
+      ]
+    },
+    {
+      "text": "tấn công nhị nguyên luận Descartes",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ryle/",
+          "quote": "put the final nail in the coffin of Cartesian dualism"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md)",
+      "fixed": true
+    },
+    {
+      "text": "Mục \"### Ngôn ngữ thường: Austin và Ryle\" nằm dưới H2 \"Ngả thứ hai\" (triết học lục địa), dù chính đoạn văn nói đây là triết học phân tích",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/analytic-philosophy/",
+          "quote": "the Oxford philosophers Gilbert Ryle, John Austin, Peter Strawson, and Paul Grice"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Chuyển nguyên mục \"### Ngôn ngữ thường: Austin và Ryle\" lên cuối mục \"Ngả thứ nhất\" (sau \"Trường phái Vienna và sự phản công của Quine\"); chữ giữ nguyên.",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -390,5 +512,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một lỗi nhẹ: tên sách Ayer in là Language, Truth and Logic (không có dấu phẩy trước 'and'; bản ghi Open Library cho LCCN 36018286, Gollancz 1936). Chính SEP 'ayer' viết có dấu phẩy trong thân bài nhưng các nhan đề sách thứ cấp in 'Language, Truth and Logic'. Bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz (đã đóng băng) cũng mang dấu phẩy, cần sửa theo [doi-loi]. Về phản bác 'tự bác bỏ' của nguyên tắc kiểm chứng: SEP vienna-circle mục 3.6 ghi Carnap coi tiêu chuẩn là đề xuất siêu lý thuyết chứ không phải mệnh đề kinh nghiệm; bài không nêu cách đáp này, chấp nhận được ở mức bài lịch sử nhập môn. Gutenberg (Tractatus, ebook 5740) đang bảo trì (503) nên dùng SEP cho các câu Tractatus. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed)."
+  "notes": "Một lỗi nhẹ: tên sách Ayer in là Language, Truth and Logic (không có dấu phẩy trước 'and'; bản ghi Open Library cho LCCN 36018286, Gollancz 1936). Chính SEP 'ayer' viết có dấu phẩy trong thân bài nhưng các nhan đề sách thứ cấp in 'Language, Truth and Logic'. Bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz (đã đóng băng) cũng mang dấu phẩy, cần sửa theo [doi-loi]. Về phản bác 'tự bác bỏ' của nguyên tắc kiểm chứng: SEP vienna-circle mục 3.6 ghi Carnap coi tiêu chuẩn là đề xuất siêu lý thuyết chứ không phải mệnh đề kinh nghiệm; bài không nêu cách đáp này, chấp nhận được ở mức bài lịch sử nhập môn. Gutenberg (Tractatus, ebook 5740) đang bảo trì (503) nên dùng SEP cho các câu Tractatus. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed). [doi-loi] Mục H3 'Ngôn ngữ thường: Austin và Ryle' chuyển từ H2 ngả lục địa về đây (cuối ngả phân tích, ngay sau mục Quine; chữ không đổi). Các claim của mục này chuyển từ bằng chứng #nga-thu-hai cùng nguồn; claim cấu trúc (sai nhẹ) đặt fixed."
 }

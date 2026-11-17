@@ -36,6 +36,14 @@ Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũn
 
 Ảnh hưởng: sau Quine, triết học phân tích bớt giáo điều hơn, quay lại đối thoại với khoa học và với cả siêu hình học — thứ mà Trường phái Vienna từng tuyên bố đã chết.
 
+### Ngôn ngữ thường: Austin và Ryle
+
+Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đường khác: thay vì xây hệ thống, hãy quan sát thật kỹ cách người ta *thực sự* nói. **J. L. Austin** (1911–1960), trong các bài giảng xuất bản sau khi mất thành *How to Do Things with Words* (1962), chỉ ra rằng nhiều câu nói không phải để mô tả sự thật mà để *làm* điều gì đó: "tôi hứa", "tôi đặt tên con tàu này là...", "tôi xin lỗi" — nói ra là hành động đã xong. Ông gọi đó là **hành vi ngôn ngữ** (*speech act*). Hệ quả triết học: muốn hiểu "hứa", "biết", "tự do", đừng tra từ điển trừu tượng — hãy xem người ta dùng những từ đó trong tình huống nào, với hậu quả gì.
+
+**Gilbert Ryle** (1900–1976), trong *The Concept of Mind* (1949), dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md): nói "tâm trí" như một thứ *bên trong* cơ thể là phạm một **lỗi phạm trù** (*category mistake*) — như hỏi "trường đại học ở đâu" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá. "Tâm trí" không phải một vật bí ẩn, mà là cách ta mô tả những *khuynh hướng hành xử* của con người.
+
+Ảnh hưởng: triết học ngôn ngữ thường đưa triết học phân tích về gần đời sống — và phương pháp "xem cách dùng" của nó vẫn là công cụ sắc bén mỗi khi một khái niệm triết học trở nên mù mờ.
+
 ## Ngả thứ hai: tồn tại, ý thức và tự do {#nga-thu-hai-ton-tai-y-thuc-va-tu-do}
 
 ### Husserl: trở về với sự vật
@@ -55,14 +63,6 @@ Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũn
 ### Trường phái Frankfurt: triết học dấn thân
 
 Một nhánh khác của triết học lục địa là **Trường phái Frankfurt** (*Frankfurt School*): nhóm triết gia quanh Viện Nghiên cứu Xã hội thành lập năm 1923, gồm Max Horkheimer, Theodor Adorno, và sau này Jürgen Habermas. Trong *Biện chứng của Khai sáng* (*Dialectic of Enlightenment*, 1944, xuất bản 1947), Horkheimer và Adorno đặt câu hỏi đau đớn: vì sao lý tính — thứ từng hứa hẹn giải phóng con người — lại dẫn tới chủ nghĩa phát xít và xã hội quản lý toàn diện? Họ không từ bỏ lý tính, mà đòi một lý tính tự phê phán chính mình.
-
-### Ngôn ngữ thường: Austin và Ryle
-
-Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đường khác: thay vì xây hệ thống, hãy quan sát thật kỹ cách người ta *thực sự* nói. **J. L. Austin** (1911–1960), trong các bài giảng xuất bản sau khi mất thành *How to Do Things with Words* (1962), chỉ ra rằng nhiều câu nói không phải để mô tả sự thật mà để *làm* điều gì đó: "tôi hứa", "tôi đặt tên con tàu này là...", "tôi xin lỗi" — nói ra là hành động đã xong. Ông gọi đó là **hành vi ngôn ngữ** (*speech act*). Hệ quả triết học: muốn hiểu "hứa", "biết", "tự do", đừng tra từ điển trừu tượng — hãy xem người ta dùng những từ đó trong tình huống nào, với hậu quả gì.
-
-**Gilbert Ryle** (1900–1976), trong *The Concept of Mind* (1949), dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md): nói "tâm trí" như một thứ *bên trong* cơ thể là phạm một **lỗi phạm trù** (*category mistake*) — như hỏi "trường đại học ở đâu" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá. "Tâm trí" không phải một vật bí ẩn, mà là cách ta mô tả những *khuynh hướng hành xử* của con người.
-
-Ảnh hưởng: triết học ngôn ngữ thường đưa triết học phân tích về gần đời sống — và phương pháp "xem cách dùng" của nó vẫn là công cụ sắc bén mỗi khi một khái niệm triết học trở nên mù mờ.
 
 ## Triết học khoa học: từ Vienna đến Kuhn {#triet-hoc-khoa-hoc-tu-vienna-den-kuhn}
 
