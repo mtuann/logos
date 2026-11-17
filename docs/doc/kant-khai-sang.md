@@ -77,7 +77,7 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 
 ## Phản bác {#phan-bac}
 
-**1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, bạn của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
+**1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, người quen của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
 
 *Cách đáp lại:* Kant không phủ nhận vai trò của người giám hộ; ông tả họ khá cay nghiệt (đoạn 2). Chữ "do chính mình" khẳng định năng lực vốn có hơn là buộc tội, và yêu cầu chính của ông nhắm vào chính quyền: hãy để công chúng tự do.
 
