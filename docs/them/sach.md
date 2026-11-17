@@ -3922,7 +3922,7 @@ Ví dụ đối lập của Popper: thuyết tương đối của Einstein dự 
 
 Và tiêu chuẩn này cũng là một bài kiểm tra trung thực cho chính *niềm tin* của ta: hãy tự hỏi về một niềm tin mà bạn trân trọng nhất — điều gì, nếu xảy ra, sẽ khiến bạn từ bỏ nó? Nếu câu trả lời là "không có gì cả", thì có lẽ bạn đang giữ niềm tin đó đúng như cách nhà tiên tri B giữ lời tiên tri của mình.
 
-**Phản bác chính.** Có ba mũi tấn công lớn.
+**Phản bác chính.** Có hai mũi tấn công lớn, cộng một lưu ý từ chính Popper.
 
 *Thứ nhất, từ Thomas Kuhn (xem lập trường 2):* khoa học thực tế không vứt bỏ lý thuyết ngay khi gặp bằng chứng trái. Khi quỹ đạo sao Thủy lệch khỏi dự đoán của Newton, các nhà thiên văn không tuyên bố Newton sai — họ tìm hành tinh mới (và quả thật đã tìm ra sao Hải Vương từ một lệch lạc tương tự của quỹ đạo sao Thiên Vương). "Bảo vệ" lý thuyết bằng giả thuyết phụ là chuyện thường ngày của khoa học, không phải là gian lận. Nếu áp dụng Popper một cách máy móc — một bằng chứng trái là vứt lý thuyết — thì cả Newton lẫn Einstein đều đã "chết" từ khi còn non trẻ.
 
@@ -3949,19 +3949,19 @@ Khi gặp bằng chứng trái (gọi là **dị thường** (*anomaly*)), nhà 
 
 **Phản bác chính.** Mũi nhọn nhất: Kuhn có *tương đối hóa* khoa học quá mức không? Nếu các mô thức "không thể so sánh" và việc chọn mô thức phụ thuộc vào thế hệ, thì khoa học khác gì thời trang? Các nhà phê bình chỉ ra rằng khoa học *có* tiến bộ khách quan: dự đoán mới lạ thành công (Einstein dự đoán sóng hấp dẫn năm 1916, một thế kỷ sau LIGO mới đo được năm 2015), công nghệ hoạt động được (điện thoại trong túi bạn là bằng chứng vật lý lượng tử "đúng" theo một nghĩa rất thực tế). Và trên thực tế, các nhà khoa học ở hai mô thức *vẫn tranh luận được với nhau* — "không thể so sánh" không có nghĩa là "không thể nói chuyện".
 
-**Cách đáp lại.** Kuhn (đặc biệt trong ấn bản 1970 có lời bạt) đã lùi một bước: "không thể so sánh" không có nghĩa là không có tiêu chuẩn chung nào — các nhà khoa học vẫn cùng coi trọng tính chính xác, tính đơn giản, khả năng giải câu đố. Cách mạng khoa học không phải là đổi tôn giáo; nó là đổi khung nhìn *vì* khung mới giải được nhiều câu đố hơn. Kuhn mô tả khoa học như một hoạt động của con người — có quán tính, có chính trị — nhưng không vì thế mà nó ngừng là hoạt động tìm ra sự thật.
+**Cách đáp lại.** Kuhn (đặc biệt trong ấn bản 1970 có lời bạt) đã lùi một bước: "không thể so sánh" không có nghĩa là không có tiêu chuẩn chung nào — các nhà khoa học vẫn cùng coi trọng tính chính xác, tính đơn giản, khả năng giải câu đố. Cách mạng khoa học không phải là đổi tôn giáo; nó là đổi khung nhìn *vì* khung mới giải được nhiều câu đố hơn. Kuhn mô tả khoa học như một hoạt động của con người — có quán tính, có chính trị — nhưng không vì thế mà nó ngừng tiến bộ: mô thức mới giải được nhiều câu đố hơn mô thức cũ, dù chính Kuhn không cho rằng tiến bộ ấy là tiến dần tới sự thật.
 
 ### 3. Feyerabend: "cứ làm tới đi" — chống lại mọi phương pháp
 
 Paul Feyerabend đi xa nhất. Trong *Against Method* (1975), ông lập luận rằng lịch sử khoa học cho thấy *không có* phương pháp nào mà mọi thành công khoa học đều tuân theo — và mọi quy tắc phương pháp đều từng bị phá vỡ bởi chính những bước tiến lớn nhất.
 
-Ví dụ trung tâm của ông là Galileo: khi dùng kính viễn vọng để quan sát mặt trăng và các vệ tinh của sao Mộc, chưa ai chứng minh được kính viễn vọng *đáng tin* khi nhìn lên trời (nó được chế ra để nhìn tàu bè trên biển). Theo tiêu chuẩn phương pháp thời đó, Galileo không được phép tin vào những gì ông thấy. Ông vẫn tin — và đúng. Kết luận của Feyerabend: nếu Galileo mà ngoan ngoãn tuân thủ "phương pháp", cuộc cách mạng Copernicus đã không xảy ra. Khẩu hiệu của ông: **"anything goes"** — cứ làm tới đi.
+Ví dụ trung tâm của ông là Galileo: khi dùng kính viễn vọng để quan sát mặt trăng và các vệ tinh của sao Mộc, chưa ai chứng minh được kính viễn vọng *đáng tin* khi nhìn lên trời (nó được chế ra để nhìn vật ở xa trên mặt đất, trước hết cho mục đích quân sự). Theo tiêu chuẩn phương pháp thời đó, Galileo không được phép tin vào những gì ông thấy. Ông vẫn tin — và đúng. Kết luận của Feyerabend: nếu Galileo mà ngoan ngoãn tuân thủ "phương pháp", cuộc cách mạng Copernicus đã không xảy ra. Khẩu hiệu của ông: **"anything goes"** — cứ làm tới đi.
 
 **Lập luận mạnh nhất.** Feyerabend là lời nhắc cần thiết chống lại sự kiêu ngạo của phương pháp luận. Mọi tiêu chuẩn cứng nhắc — kể cả khả bác bỏ của Popper — đều có nguy cơ biến thành rào cản: nó loại bỏ những ý tưởng non trẻ chưa kịp hoàn thiện, và nó cho giới khoa học đương quyền một công cụ để gạt bỏ kẻ ngoại đạo. Khoa học thành công *nhờ* sự đa dạng và nổi loạn, không phải nhờ sự ngoan ngoãn.
 
 **Phản bác chính.** Nếu "anything goes", thì chiêm tinh, thuyết âm mưu, và thuốc "năng lượng vũ trụ" cũng được? Đây là mũi tấn công mà Feyerabend hứng chịu nhiều nhất. Ông đáp rằng "anything goes" không có nghĩa là "cái gì cũng đúng" — nó có nghĩa là *không có phương pháp duy nhất nào đặc quyền*. Ông chống *độc quyền* của phương pháp, không chống *tiêu chuẩn*: trong từng trường hợp cụ thể, ta vẫn có thể (và phải) tranh luận xem cách làm nào tốt hơn. Nhưng nhiều người thấy câu trả lời này quá mỏng: một khi đã phá hết hàng rào, rất khó dựng lại hàng rào vừa đủ để chặn chiêm tinh mà không chặn Galileo tiếp theo.
 
-Một phản bác khác, thực tế hơn: Feyerabend lấy ví dụ từ *quá khứ* (Galileo) để kết luận về *hiện tại*, nhưng khoa học hiện đại đã khác xa: thí nghiệm tốn hàng tỷ đô la, cần hợp tác quốc tế, không thể "cứ làm tới đi" một cách tùy hứng. Tự do phương pháp ở quy mô cá nhân không suy ra được tự do phương pháp ở quy mô thể chế.
+Một phản bác khác, thực tế hơn (đây là nhận xét của bài này, không gắn với một nhà phê bình cụ thể): Feyerabend lấy ví dụ từ *quá khứ* (Galileo) để kết luận về *hiện tại*, nhưng khoa học hiện đại đã khác xa: thí nghiệm tốn hàng tỷ đô la, cần hợp tác quốc tế, không thể "cứ làm tới đi" một cách tùy hứng. Tự do phương pháp ở quy mô cá nhân không suy ra được tự do phương pháp ở quy mô thể chế.
 
 **Cách đáp lại.** Người bênh vực Feyerabend nói: ông cố ý *khiêu khích*. "Anything goes" là một đòn rhetorical nhằm vào những người thờ phương pháp như thờ thánh — đọc ông như một hệ thống triết học hoàn chỉnh là đọc sai thể loại. Đóng góp thật của ông không phải là một tiêu chuẩn mới, mà là một sự khiêm tốn: đừng bao giờ tin rằng ta đã tìm ra *công thức* của khoa học một lần cho mãi mãi.
 
@@ -3989,13 +3989,13 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Ngoài các con số, điều có thể nói về tình trạng học thuật:
 
-- **Khả bác bỏ của Popper vẫn là câu trả lời phổ biến nhất** trong sách giáo khoa và trong cách công chúng hiểu về khoa học — dù các triết gia chuyên nghiệp đều biết nó cần tinh chỉnh (theo hướng Lakatos).
-- **Kuhn là triết gia khoa học có ảnh hưởng lớn nhất** thế kỷ 20 về mặt văn hóa ("mô thức", "cách mạng khoa học" đã thành từ thông dụng), nhưng giới triết học chuyên nghiệp đã làm mềm nhiều luận điểm cực đoan của ông.
+- **Khả bác bỏ của Popper vẫn là tiêu chuẩn phân giới nổi tiếng nhất** — dù phần lớn triết gia khoa học đương đại cho rằng nó không đủ khi đứng một mình.
+- **Kuhn có lẽ là triết gia khoa học có ảnh hưởng lớn nhất** thế kỷ 20 về mặt văn hóa ("mô thức", "cách mạng khoa học" đã thành từ thông dụng), nhưng giới triết học chuyên nghiệp đã làm mềm nhiều luận điểm cực đoan của ông.
 - **Vấn đề phân giới vẫn mở:** sau hàng thập kỷ tranh luận, chưa có tiêu chuẩn nào được mọi người chấp nhận. Một số triết gia (như Larry Laudan, 1983) thậm chí đề xuất *bỏ* khái niệm phân giới, thay bằng câu hỏi cụ thể hơn: "lý thuyết này có đáng tin không, và vì sao?"
 
 Đề xuất của Laudan đáng ngẫm thêm: thay vì hỏi "cái này có phải khoa học không" — một câu hỏi về *nhãn mác* — hãy hỏi "khẳng định này được bằng chứng nào hỗ trợ, và nó đáng tin đến mức nào". Trong nhiều tình huống thực tế (tòa án, chính sách y tế), câu hỏi thứ hai hữu ích hơn: ta không cần biết "đông y có phải khoa học không" để quyết định "bài thuốc này có hiệu quả không" — chỉ cần một thử nghiệm tốt.
 
-Nhân tiện, dù triết học chuyên nghiệp chưa ngã ngũ, hầu hết giáo trình triết học khoa học hiện nay đều trình bày cả ba lập trường — Popper như điểm xuất phát, Kuhn như đối trọng lịch sử, Feyerabend như lời cảnh tỉnh — rồi để người đọc tự đánh giá. Bài này cũng làm vậy.
+Nhân tiện, dù triết học chuyên nghiệp chưa ngã ngũ, bài này trình bày cả ba lập trường — Popper như điểm xuất phát, Kuhn như đối trọng lịch sử, Feyerabend như lời cảnh tỉnh — rồi để người đọc tự đánh giá.
 
 ## Liên hệ đời sống
 
@@ -4003,9 +4003,9 @@ Nhân tiện, dù triết học chuyên nghiệp chưa ngã ngũ, hầu hết gi
 
 **Thực phẩm chức năng "đã được chứng minh".** Chiêu quảng cáo kinh điển: "đã được khoa học chứng minh" mà không nói *chứng minh với ai, ở đâu, như thế nào*. Theo tiêu chuẩn của Lakatos, hãy nhìn vào *lịch sử*: sản phẩm đó có sinh ra dự đoán mới nào được kiểm chứng độc lập không, hay chỉ quanh quẩn vá víu ("hợp với cơ địa từng người", "cần dùng lâu dài mới thấy")? Một chương trình chỉ né tránh mà không bao giờ dám đánh cược là một chương trình thoái hóa — dù nó có mặc áo blouse trắng.
 
-**Đông y: đông hay tây không phải là câu hỏi.** Đây là chỗ cần sự công bằng của cả ba lập trường. Một mặt, không thể gạt bỏ cả một kho tàng kinh nghiệm bằng câu "không phải khoa học thì vứt đi" — artemisinin, thuốc chống sốt rét cứu hàng triệu người, được Tu Youyou tìm ra từ bài thuốc thanh hao hoa vàng trong y văn cổ (Nobel Y học 2015). Mặt khác, "cổ truyền" không phải là giấy miễn kiểm chứng: bài thuốc nào hiệu quả thì phải chịu được thử nghiệm lâm sàng như mọi thuốc khác. Câu hỏi đúng không phải "đông hay tây", mà là "có chịu đặt mình vào thế có thể sai không" — đúng tinh thần Popper.
+**Đông y: đông hay tây không phải là câu hỏi.** Đây là chỗ cần sự công bằng của cả ba lập trường. Một mặt, không thể gạt bỏ cả một kho tàng kinh nghiệm bằng câu "không phải khoa học thì vứt đi" — artemisinin, thuốc chống sốt rét mà theo thông cáo của giải Nobel đã cứu hơn 100.000 người mỗi năm chỉ riêng ở châu Phi, được Tu Youyou tìm ra từ bài thuốc thanh hao hoa vàng trong y văn cổ (Nobel Y học 2015). Mặt khác, "cổ truyền" không phải là giấy miễn kiểm chứng: bài thuốc nào hiệu quả thì phải chịu được thử nghiệm lâm sàng như mọi thuốc khác. Câu hỏi đúng không phải "đông hay tây", mà là "có chịu đặt mình vào thế có thể sai không" — đúng tinh thần Popper.
 
-**Tranh luận chính sách: "khoa học nói rằng..."** Trong các tranh luận công cộng (vaccine, biến đổi khí hậu, thực phẩm biến đổi gen), "khoa học" thường được viện dẫn như một thẩm quyền tuyệt đối. Kuhn nhắc ta một điều lành mạnh: khoa học là hoạt động của con người, có quán tính và có sai lầm — nên hoài nghi lành mạnh là cần thiết. Nhưng Feyerabend cũng nhắc điều ngược lại: hoài nghi không có nghĩa là mọi ý kiến đều ngang nhau. Giữa "tin mù quáng" và "chẳng tin gì" còn một khoảng rộng: tin có điều kiện, theo bằng chứng, và luôn mở cho sửa sai.
+**Tranh luận chính sách: "khoa học nói rằng..."** Trong các tranh luận công cộng (vaccine, biến đổi khí hậu, thực phẩm biến đổi gen), "khoa học" thường được viện dẫn như một thẩm quyền tuyệt đối. Kuhn nhắc ta một điều lành mạnh: khoa học là hoạt động của con người, có quán tính và có sai lầm — nên hoài nghi lành mạnh là cần thiết. Nhưng Popper và Lakatos cũng nhắc điều ngược lại: hoài nghi không có nghĩa là mọi ý kiến đều ngang nhau — khẳng định đã chịu được kiểm chứng gắt gao đáng tin hơn khẳng định chưa từng dám đặt mình vào thế có thể sai. Giữa "tin mù quáng" và "chẳng tin gì" còn một khoảng rộng: tin có điều kiện, theo bằng chứng, và luôn mở cho sửa sai.
 
 **Ai được gọi là "nhà khoa học"?** Vấn đề phân giới còn len vào cả danh xưng. Một người có bằng tiến sĩ vật lý phát biểu về dịch tễ học — lời nói đó có trọng lượng của "khoa học" không? (Xem thêm [Tin vào lời người khác?](../cau-hoi/loi-chung.md).) Tiêu chuẩn phân giới, dù chọn theo Popper hay Lakatos, đều đánh giá *tuyên bố và cách kiểm chứng*, chứ không đánh giá *tấm bằng* của người nói. Đây là một ứng dụng trực tiếp: đừng hỏi "ông ấy có phải nhà khoa học không", hãy hỏi "khẳng định này có thể bị bác bỏ bằng cách nào".
 
