@@ -9,7 +9,11 @@
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {"url": "https://www.nimh.nih.gov/health/topics/depression", "quote": "We're working to improve existing treatments like medications, talk therapy (including telehealth and online options), and brain stimulation therapy.", "where": "NIMH, trang Depression"}
+        {
+          "url": "https://www.nimh.nih.gov/health/topics/depression",
+          "quote": "We're working to improve existing treatments like medications, talk therapy (including telehealth and online options), and brain stimulation therapy.",
+          "where": "NIMH, trang Depression"
+        }
       ]
     },
     {
@@ -17,8 +21,16 @@
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {"url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad", "quote": "Have trouble falling asleep or staying asleep, or feel fatigued", "where": "NIMH, Generalized Anxiety Disorder, danh sách triệu chứng"},
-        {"url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad", "quote": "Experience pain such as headaches, muscle aches, stomachaches, or tension", "where": "như trên"}
+        {
+          "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+          "quote": "Have trouble falling asleep or staying asleep, or feel fatigued",
+          "where": "NIMH, Generalized Anxiety Disorder, danh sách triệu chứng"
+        },
+        {
+          "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+          "quote": "Experience pain such as headaches, muscle aches, stomachaches, or tension",
+          "where": "như trên"
+        }
       ]
     },
     {
@@ -28,19 +40,34 @@
       "severity": "nhe",
       "fix": "Lo âu kéo dài gây đau dạ dày thật, mất ngủ thật.",
       "sources": [
-        {"url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad", "quote": "Experience pain such as headaches, muscle aches, stomachaches, or tension", "where": "nguồn đã mở không nêu rụng tóc; chưa có nguồn cho ý này"}
-      ]
+        {
+          "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+          "quote": "Experience pain such as headaches, muscle aches, stomachaches, or tension",
+          "where": "nguồn đã mở không nêu rụng tóc; chưa có nguồn cho ý này"
+        }
+      ],
+      "fixed": true
     },
     {
       "text": "đó chính là vấn đề tương tác của Công chúa Elisabeth, phiên bản đời thường",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/", "quote": "how Descartes can explain the ability of an immaterial substance to act on a material substance", "where": "§4.2"}
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/",
+          "quote": "how Descartes can explain the ability of an immaterial substance to act on a material substance",
+          "where": "§4.2"
+        }
       ]
     }
   ],
-  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
   "result": "dat",
   "notes": "Ví dụ thang đau 1–10 là diễn giải đời thường, không ghi claim. Mục giữ trung lập ('Thực tế lâm sàng không đứng hẳn về bên nào'). Một lỗi nhẹ: 'rụng tóc' chưa có nguồn đã mở."
 }
