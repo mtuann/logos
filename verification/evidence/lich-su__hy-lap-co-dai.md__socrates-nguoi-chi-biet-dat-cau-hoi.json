@@ -1,0 +1,138 @@
+{
+  "unit": "lich-su/hy-lap-co-dai.md#socrates-nguoi-chi-biet-dat-cau-hoi",
+  "hash": "sha256:8c3ba3e76f7ff15216c3d74eafeb253a0ad57d0286b740c47cc87f8908b95e22",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p01",
+  "claims": [
+    {
+      "text": "Socrates (470/469–399 TCN)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/lich-su.hy-lap-co-dai.470"
+    },
+    {
+      "text": "không viết một dòng nào — ta biết ông chủ yếu qua các đối thoại của học trò Platon (và qua Xenophon)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Because he wrote nothing, what we know of his ideas and methods comes to us mainly from his contemporaries and disciples.",
+          "where": "1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Three primary sources: Aristophanes, Xenophon, and Plato",
+          "where": "2.1"
+        }
+      ]
+    },
+    {
+      "text": "Phương pháp của ông gọi là vấn đáp (elenchus): không dạy đáp án, mà vạch ra mâu thuẫn trong câu trả lời của người khác",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "A typical Socratic elenchus is a cross-examination of a particular position, proposition, or definition, in which Socrates tests what his interlocutor says and refutes it.",
+          "where": "The Elenchus: Socrates the Refuter"
+        }
+      ]
+    },
+    {
+      "text": "trong Biện hộ (21d), Socrates chỉ nói ông không tưởng mình biết điều mình không biết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/trich.bien-ho-21d"
+    },
+    {
+      "text": "Năm 399 TCN, Athens kết án ông tội làm hư giới trẻ và không tin vào các vị thần thành phố",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/lich-su.hy-lap-co-dai.tcn399-2"
+    },
+    {
+      "text": "ông từ chối trốn thoát và uống thuốc độc theo bản án",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates refuses to escape from prison on the grounds that he lived his whole life with an implied agreement with the laws of the democracy",
+          "where": "Crito 50a-54d"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "then Socrates cheerfully took the cup and drank",
+          "where": "Phaedo"
+        }
+      ]
+    },
+    {
+      "text": "ông chuyển hướng triết học từ tự nhiên sang con người — đạo đức, chính trị, cách sống",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Aristotle claims that Socrates never asked questions about nature, but concerned himself only with ethical questions.",
+          "where": "The Socratic Problem"
+        }
+      ]
+    },
+    {
+      "text": "Hầu như mọi trường phái Hy Lạp sau này đều tự nhận là học trò của ông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "nearly all the schools of philosophy that followed him",
+          "where": "The Socratic Problem"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "The Cynics greatly admired Socrates, and traced their philosophical lineage back to him.",
+          "where": "Legacy: Hellenistic Philosophy"
+        },
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "From the beginning Stoicism was squarely a “Socratic” philosophy"
+        }
+      ]
+    },
+    {
+      "text": "ông đề xuất... được nuôi ăn miễn phí ở tòa thị chính như một vị anh hùng, vì ông cho rằng mình có công với thành phố",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=36d",
+          "quote": "There is nothing, men of Athens , so fitting as that such a man be given his meals in the prytaneum.",
+          "where": "Apology 36d, bản dịch Fowler"
+        }
+      ]
+    },
+    {
+      "text": "Hội đồng xét xử không thấy hài hước chút nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "Perhaps the jury was too incensed by Socrates’s words to vote for the lesser penalty",
+          "where": "Trial"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu 'tôi chỉ biết một điều là tôi không biết gì' đã được bài nói rõ là cách nói gọn của đời sau; đối chiếu với quotes/trich.bien-ho-21d (đã đóng băng)."
+}

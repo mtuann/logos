@@ -1,0 +1,69 @@
+{
+  "unit": "lich-su/nhat-ban-viet-nam.md#doc-tiep",
+  "hash": "sha256:5f1c752400b29c29fd34594516c8e3ec608faa59f5daaf166f1d6400c01fb8c2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p08",
+  "claims": [
+    {
+      "text": "[Thiền Trúc Lâm](../cau-hoi/truc-lam.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/truc-lam/",
+          "quote": "nghĩa đen là: sống giữa bụi trần mà vui với đạo"
+        }
+      ]
+    },
+    {
+      "text": "[Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "Nho giáo Việt Nam: tiếp thu hay sáng tạo?"
+        }
+      ]
+    },
+    {
+      "text": "[Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/viet-hien-dai/",
+          "quote": "Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh"
+        }
+      ]
+    },
+    {
+      "text": "[Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — Đạo gia và đạo đức môi trường, một cầu nối thú vị",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-moi-truong/",
+          "quote": "Thiên nhiên có giá trị tự thân? Đạo đức môi trường",
+          "where": "tiêu đề"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-moi-truong/",
+          "quote": "Đạo gia hay Phật giáo",
+          "where": "mục Giới triết học ngày nay nghĩ gì — lần duy nhất bài nhắc Đạo gia, trong ngoặc"
+        }
+      ],
+      "severity": "vua",
+      "fix": "[Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — đạo đức môi trường: giá trị nội tại hay giá trị công cụ của thiên nhiên"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "sua",
+  "notes": "Bài dao-duc-moi-truong (Leopold, Naess, Singer, Taylor, Regan) chỉ nhắc Đạo gia một lần trong ngoặc ở mục PhilPapers; không có \"cầu nối\" Đạo gia nào như mô tả hứa. Các link nội bộ đều tồn tại."
+}

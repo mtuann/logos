@@ -1,0 +1,33 @@
+{
+  "unit": "lich-su/can-dai.md#nguon",
+  "hash": "sha256:19e04807081fea47bedcf77b39981ea6cd2b2a7cdf73fc052e333c0e95a462f5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p03",
+  "claims": [
+    {"text": "René Descartes, *Meditations on First Philosophy* (1641)", "kind": "du-kien", "verdict": "dung", "kb": "works/descartes.meditationes-de-prima-philosophia"},
+    {"text": "Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất)", "kind": "du-kien", "verdict": "dung", "kb": "works/spinoza.ethica-ordine-geometrico-demonstrata"},
+    {"text": "John Locke, *An Essay Concerning Human Understanding* (1689)", "kind": "du-kien", "verdict": "dung", "kb": "works/locke.an-essay-concerning-human-understanding"},
+    {"text": "David Hume, *An Enquiry Concerning Human Understanding* (1748)", "kind": "du-kien", "verdict": "dung", "kb": "works/hume.an-enquiry-concerning-human-understanding"},
+    {
+      "text": "Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của J. M. D. Meiklejohn, Project Gutenberg #4280 <https://www.gutenberg.org/ebooks/4280>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/kant.kritik-der-reinen-vernunft",
+      "sources": [{"url": "https://web.archive.org/web/2025/https://www.gutenberg.org/ebooks/4280", "quote": "Translator Meiklejohn, J. M. D. (John Miller Dow), 1830-1902 Title The Critique of Pure Reason", "where": "bản lưu trang Gutenberg #4280"}]
+    },
+    {
+      "text": "Bách khoa toàn thư Triết học Stanford (SEP): các mục về Descartes, Elisabeth of Bohemia, Spinoza, Leibniz, Locke, Berkeley, Hume, Kant.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/", "quote": "Elisabeth, Princess of Bohemia First published Tue Aug 20, 2013"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/", "quote": "René Descartes First published Wed Dec 3, 2008"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "George Berkeley First published Fri Sep 10, 2004"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/kant/", "quote": "Immanuel Kant First published Thu May 20, 2010"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Năm tác phẩm trùng bản ghi kho works/* đóng băng (Enquiry: in 1748 với tên Philosophical Essays…, theo year_note). gutenberg.org đang bảo trì trong phiên kiểm ('Temporarily Down for Maintenance'); xác nhận #4280 qua bản lưu web.archive.org. Mục 1–4 và 6 không có URL cụ thể; gợi ý (không bắt buộc) thêm link bản lưu SEP fall2026 và các mục SEP copernicus/galileo/newton dùng ở phần mở đầu."
+}

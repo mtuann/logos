@@ -1,0 +1,66 @@
+{
+  "unit": "lich-su/an-do.md#nguon",
+  "hash": "sha256:540b2b1f069271a9d5de4adb148083e3bfe393cd38ca157d67bd984bc5bb3937",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p06",
+  "claims": [
+    {
+      "text": "1. Chandogya Upanishad (...), bản dịch tiếng Anh: Patrick Olivelle (1996), Oxford World's Classics.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.chandogya-upanishad-mot-trong-cac-upanishad-co-nhat-khoang-g"
+    },
+    {
+      "text": "2. Kinh Chuyển pháp luân (Dhammacakkappavattana Sutta) — bài giảng đầu tiên của Đức Phật về Tứ diệu đế, trong Tương ưng bộ kinh.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.kinh-chuyen-phap-luan-dhammacakkappavattana-sutta-bai-giang",
+      "sources": [
+        {
+          "url": "https://suttacentral.net/api/bilarasuttas/sn56.11/sujato?lang=en",
+          "quote": "Linked Discourses 56.11",
+          "where": "SN 56.11:0.1"
+        }
+      ]
+    },
+    {
+      "text": "3. Nagarjuna, Mūlamadhyamakakārikā (...), bản dịch tiếng Anh: Jay Garfield (1995), The Fundamental Wisdom of the Middle Way, Oxford.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nagarjuna-mulamadhyamakakarika-khoang-the-ky-23-ban-dich-tie"
+    },
+    {
+      "text": "4. Radhakrishnan, Sarvepalli & Charles Moore (chủ biên) (1957), A Sourcebook in Indian Philosophy, Princeton University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.radhakrishnan-sarvepalli-charles-moore-chu-bien-1957-a-sourc"
+    },
+    {
+      "text": "5. Siderits, Mark (2007), Buddhism as Philosophy, Indianapolis: Hackett.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.siderits-mark-2007-buddhism-as-philosophy-indianapolis-hacke"
+    },
+    {
+      "text": "6. Bách khoa toàn thư Triết học Stanford (SEP): các mục \"Nāgārjuna\" và \"Mind in Indian Buddhist Philosophy\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.bach-khoa-toan-thu-triet-hoc-stanford-sep-cac-muc-nagarjuna",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mind-indian-buddhism/",
+          "quote": "Mind in Indian Buddhist Philosophy"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả sáu mục trùng bản ghi sources đã đóng băng. Mục 6 không có URL; nên thêm link bản lưu fall2026 (nagarjuna, mind-indian-buddhism) — gợi ý, không phải lỗi."
+}

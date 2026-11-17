@@ -1,0 +1,45 @@
+{
+  "unit": "bat-dau/lo-trinh.md#_dau",
+  "hash": "sha256:c7892b6bd137f18cdb195951a59f9c671e352d7cf9ba690b1883d15555ff94b1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p09",
+  "claims": [
+    {
+      "text": "Hiện site có [[count:cong-cu]] bài công cụ tư duy, [[count:cau-hoi]] bài về những câu hỏi lớn, [[count:lich-su]] bài lịch sử tư tưởng, [[count:doc]] hướng dẫn đọc văn bản gốc và trang riêng cho từng triết gia.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/lo-trinh/",
+          "quote": "Hiện site có 15 bài công cụ tư duy, 57 bài về những câu hỏi lớn, 8 bài lịch sử tư tưởng, 19 hướng dẫn đọc văn bản gốc",
+          "where": "bản dựng"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/",
+          "quote": "các bài trên site nhắc tới họ và nguồn để đọc tiếp. Hiện có 59 triết gia",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Có người chỉ tò mò: AI có biết nghĩ không? / Logos không có \"chương 1, chương 2\". Có ba con đường.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/lo-trinh/",
+          "quote": "Có ba con đường. Bạn có thể đi một con đến cuối, hoặc rẽ ngang bất cứ lúc nào."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Shortcode count mở theo hooks/kb.py (content.yml): cong-cu 15, cau-hoi 57, lich-su 8 (không tính Dòng thời gian, Sơ đồ), doc 19 — đếm lại trong docs/ khớp. Phần mở đầu không có khẳng định triết học; checklist dung-nguon/manh-nhat/phan-bac không áp dụng."
+}
