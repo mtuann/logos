@@ -16714,7 +16714,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 ## Đọc tiếp
 
-- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.
+- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học [Kant](../triet-gia/kant.md).
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md) — chữ tín (2.22), "cha giấu cho con" (13.18) và tranh luận Đông–Tây về nói dối.
 - [Mặc Tử: kiêm ái](../doc/mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.
@@ -17289,7 +17289,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp
 
 - [Epictetus: Cẩm nang](../doc/epictetus-cam-nang.md) — cùng trường phái Khắc kỷ, công thức "tầm kiểm soát" sắc bén nhất
-- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus, Nagel và Heidegger bàn về cái chết, để đặt cạnh lời nhắc "hãy nhớ mình sẽ chết"
+- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus, Nagel và [Heidegger](../triet-gia/heidegger.md) bàn về cái chết, để đặt cạnh lời nhắc "hãy nhớ mình sẽ chết"
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — cái nhìn từ trên cao có làm đời người vô nghĩa không?
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh các trường phái Hy Lạp–La Mã
 
