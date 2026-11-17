@@ -63,7 +63,7 @@ Từ Descartes, triết học thường hình dung con người là một chủ 
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 - [Thế kỷ 20: triết học chia hai ngả](../lich-su/the-ky-20.md)
 
-**Các bài khác nhắc tới Heidegger:** [Hướng dẫn đọc Sartre: Thuyết hiện sinh là một thuyết nhân bản](../doc/sartre-hien-sinh.md).
+**Các bài khác nhắc tới Heidegger:** [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md), [Hướng dẫn đọc Sartre: Thuyết hiện sinh là một thuyết nhân bản](../doc/sartre-hien-sinh.md).
 
 ## Nguồn
 
