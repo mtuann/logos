@@ -42,7 +42,7 @@ Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (kh
 
 **[Maimonides](../triet-gia/maimonides.md)** (Moses ben Maimon, 1138–1204) — triết gia Do Thái lớn nhất thời trung cổ, đồng thời là thầy thuốc của triều đình Ai Cập — đối mặt với cùng câu hỏi như Averroes nhưng từ phía Do Thái giáo. Trong *Chỉ dẫn cho người hoang mang* (*Guide for the Perplexed*, khoảng 1190), ông lập luận rằng Kinh thánh Do Thái, khi đọc theo nghĩa đen, đôi khi gán cho Chúa những thuộc tính con người (tay, mắt, cơn giận); lý trí triết học giúp ta hiểu đó là ngôn ngữ ẩn dụ, còn Chúa thật sự vượt lên trên mọi thuộc tính tích cực — ta chỉ có thể nói Chúa *không phải* là gì (không có thân thể, không thay đổi), chứ không thể nói Chúa *là* gì.
 
-Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau ảnh hưởng đến cả các nhà tư tưởng Kitô giáo như Aquinas. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
+Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau được các nhà tư tưởng Kitô giáo như Aquinas tiếp thu một phần: Aquinas đồng ý rằng ta không thể biết Chúa là gì, chỉ biết Chúa không phải là gì, nhưng bác bỏ quan điểm của Maimonides rằng mọi danh xưng về Chúa chỉ mang nghĩa phủ định. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
 
 ## Aquinas: cuộc hôn phối của đức tin và lý trí {#aquinas-cuoc-hon-phoi-cua-duc-tin-va-ly-tri}
 

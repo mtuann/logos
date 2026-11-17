@@ -8,7 +8,7 @@ block: lich-su
 
 # Thế kỷ 19: hệ thống vỡ vụn
 
-[Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau đến mức triết học không bao giờ còn là một "hệ thống" duy nhất nữa.
+[Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau: có người dựng hệ thống lớn hơn, có người đặt cá nhân và đời sống cụ thể lên trước mọi hệ thống.
 
 ## Hegel: mọi thứ đều vận động theo biện chứng {#hegel-moi-thu-deu-van-dong-theo-bien-chung}
 
@@ -62,7 +62,7 @@ Một tư tưởng khác của ông đáng suy ngẫm: **vĩnh cửu luân hồi
 
 Trong *Bàn về Tự do* (*On Liberty*, 1859), ông đưa ra **nguyên tắc gây hại** (*harm principle*): xã hội chỉ được can thiệp vào tự do cá nhân để ngăn người này gây hại cho người khác. Tin ngưỡng, lối sống, cách nghĩ — chừng nào không hại ai — phải được tuyệt đối tôn trọng. Lập luận của ông không chỉ dựa trên quyền, mà trên lợi ích của chính chân lý: chỉ trong tranh luận tự do, ý kiến sai mới bị loại bỏ và ý kiến đúng mới được hiểu sâu sắc (chứ không chỉ thuộc lòng).
 
-Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, 1863), Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) của thầy mình [Bentham](../triet-gia/bentham.md): hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất. Nhưng khác Bentham (đo hạnh phúc bằng khoái lạc đơn thuần), Mill phân biệt khoái lạc **cao** (trí tuệ, thẩm mỹ, đạo đức) với khoái lạc **thấp** (thuần giác quan): "thà làm một con người bất mãn còn hơn một con lợn thỏa mãn".
+Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, đăng báo 1861, in thành sách 1863), Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) mà ông thừa hưởng từ [Bentham](../triet-gia/bentham.md) và cha mình, James Mill: hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất. Nhưng khác Bentham (đo hạnh phúc bằng khoái lạc đơn thuần), Mill phân biệt khoái lạc **cao** (trí tuệ, thẩm mỹ, đạo đức) với khoái lạc **thấp** (thuần giác quan): "thà làm một con người bất mãn còn hơn một con lợn thỏa mãn".
 
 Ảnh hưởng: Mill là nền tảng triết học của chủ nghĩa tự do hiện đại — tự do ngôn luận, nữ quyền, và mọi cuộc tranh luận về giới hạn của tự do đến hôm nay.
 

@@ -14800,7 +14800,7 @@ Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (kh
 
 **[Maimonides](../triet-gia/maimonides.md)** (Moses ben Maimon, 1138–1204) — triết gia Do Thái lớn nhất thời trung cổ, đồng thời là thầy thuốc của triều đình Ai Cập — đối mặt với cùng câu hỏi như Averroes nhưng từ phía Do Thái giáo. Trong *Chỉ dẫn cho người hoang mang* (*Guide for the Perplexed*, khoảng 1190), ông lập luận rằng Kinh thánh Do Thái, khi đọc theo nghĩa đen, đôi khi gán cho Chúa những thuộc tính con người (tay, mắt, cơn giận); lý trí triết học giúp ta hiểu đó là ngôn ngữ ẩn dụ, còn Chúa thật sự vượt lên trên mọi thuộc tính tích cực — ta chỉ có thể nói Chúa *không phải* là gì (không có thân thể, không thay đổi), chứ không thể nói Chúa *là* gì.
 
-Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau ảnh hưởng đến cả các nhà tư tưởng Kitô giáo như Aquinas. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
+Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau được các nhà tư tưởng Kitô giáo như Aquinas tiếp thu một phần: Aquinas đồng ý rằng ta không thể biết Chúa là gì, chỉ biết Chúa không phải là gì, nhưng bác bỏ quan điểm của Maimonides rằng mọi danh xưng về Chúa chỉ mang nghĩa phủ định. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
 
 ## Aquinas: cuộc hôn phối của đức tin và lý trí
 
@@ -14927,7 +14927,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 
 # Thế kỷ 19: hệ thống vỡ vụn
 
-[Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau đến mức triết học không bao giờ còn là một "hệ thống" duy nhất nữa.
+[Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau: có người dựng hệ thống lớn hơn, có người đặt cá nhân và đời sống cụ thể lên trước mọi hệ thống.
 
 ## Hegel: mọi thứ đều vận động theo biện chứng
 
@@ -14981,7 +14981,7 @@ Một tư tưởng khác của ông đáng suy ngẫm: **vĩnh cửu luân hồi
 
 Trong *Bàn về Tự do* (*On Liberty*, 1859), ông đưa ra **nguyên tắc gây hại** (*harm principle*): xã hội chỉ được can thiệp vào tự do cá nhân để ngăn người này gây hại cho người khác. Tin ngưỡng, lối sống, cách nghĩ — chừng nào không hại ai — phải được tuyệt đối tôn trọng. Lập luận của ông không chỉ dựa trên quyền, mà trên lợi ích của chính chân lý: chỉ trong tranh luận tự do, ý kiến sai mới bị loại bỏ và ý kiến đúng mới được hiểu sâu sắc (chứ không chỉ thuộc lòng).
 
-Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, 1863), Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) của thầy mình [Bentham](../triet-gia/bentham.md): hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất. Nhưng khác Bentham (đo hạnh phúc bằng khoái lạc đơn thuần), Mill phân biệt khoái lạc **cao** (trí tuệ, thẩm mỹ, đạo đức) với khoái lạc **thấp** (thuần giác quan): "thà làm một con người bất mãn còn hơn một con lợn thỏa mãn".
+Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, đăng báo 1861, in thành sách 1863), Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) mà ông thừa hưởng từ [Bentham](../triet-gia/bentham.md) và cha mình, James Mill: hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất. Nhưng khác Bentham (đo hạnh phúc bằng khoái lạc đơn thuần), Mill phân biệt khoái lạc **cao** (trí tuệ, thẩm mỹ, đạo đức) với khoái lạc **thấp** (thuần giác quan): "thà làm một con người bất mãn còn hơn một con lợn thỏa mãn".
 
 Ảnh hưởng: Mill là nền tảng triết học của chủ nghĩa tự do hiện đại — tự do ngôn luận, nữ quyền, và mọi cuộc tranh luận về giới hạn của tự do đến hôm nay.
 
