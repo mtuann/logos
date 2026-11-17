@@ -1383,7 +1383,7 @@ Khi hai thứ hay đi cùng nhau (**tương quan**), có ít nhất bốn khả 
                                đi cùng nhau chỉ do tình cờ.
 ```
 
-Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm phổ biến nhất. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
+Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
 
 Một lỗi họ hàng là chỉ vì B xảy ra *sau* A mà cho rằng A gây ra B, gọi là [Sau nó nên do nó](../cong-cu/nguy-bien.md#post-hoc).
 
@@ -2783,7 +2783,7 @@ Vậy nên: hãy coi trực giác như *dữ liệu*, không phải *phán quy�
 **Bài 5.** Đọc lại tình huống "tên khủng bố gài bom" trong mục "Khi thí nghiệm bị dàn dựng". Liệt kê ba giả định chưa kiểm chứng của nó, rồi đề xuất một lựa chọn thứ ba mà tình huống cố tình giấu đi.
 
 ??? success "Xem gợi ý đáp án"
-    Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (thực tế người bị tra tấn thường khai bừa để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
+    Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (những người phản đối tra tấn lập luận rằng người bị tra tấn thường khai bất cứ điều gì để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
 
 ## Tự kiểm tra
 
