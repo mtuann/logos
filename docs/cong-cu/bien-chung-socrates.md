@@ -119,7 +119,7 @@ Ví dụ, tự vấn về "công việc tốt":
 >
 > *Xanh: "Vậy 'tốt' không phải là lương cao, mà là lương cao* cộng *thích? Hay là thích, còn lương chỉ là một phần?"*
 
-Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạn lảng: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
+Viết ra giúp bạn khó lảng hơn so với chỉ nghĩ trong đầu: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
 
 ## Bài tập {#bai-tap}
 
