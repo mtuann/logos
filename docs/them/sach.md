@@ -6637,7 +6637,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Lý thuyết của Arendt quá phức tạp để áp dụng"
   ],
   "answer": 1,
-  "explain": "Phản bác hai mũi: (1) về sử học — Eichmann thật có thể khác với Eichmann mà Arendt mô tả; (2) về đạo đức — 'tầm thường' dễ bị hiểu thành bào chữa, biến kẻ tổ chức diệt chủng thành nạn nhân của ngu dốt. Người bênh vực Arendt đáp: bà đòi tử hình Eichmann; 'tầm thường' mô tả cơ chế, không phải để giảm án."
+  "explain": "Phản bác hai mũi: (1) về sử học — Eichmann thật có thể khác với Eichmann mà Arendt mô tả; (2) về đạo đức — 'tầm thường' dễ bị hiểu thành bào chữa, biến kẻ tổ chức diệt chủng thành nạn nhân của ngu dốt. Người bênh vực Arendt đáp: bà ủng hộ bản án tử hình dành cho Eichmann; 'tầm thường' mô tả cơ chế, không phải để giảm án."
  },
  {
   "q": "Trong thí nghiệm ông K., người theo lập trường 'ác cần ý định' sẽ nói gì?",
