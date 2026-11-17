@@ -63,7 +63,7 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 | 354–430 | Augustine | Nội tâm; hai thành phố; sự dữ là thiếu vắng điều thiện |
 | k. 970/980–1037 | Avicenna | Phân biệt bản chất – hiện hữu |
 | 1033–1109 | Anselm | "Đức tin đi tìm hiểu biết"; luận chứng bản thể luận |
-| k. 1056–1111 | al-Ghazali | Tấn công triết học Hy Lạp hóa từ phía thần học |
+| k. 1056–1111 | al-Ghazali | Phê phán tính chứng minh của triết học Avicenna; kết án ba luận điểm |
 | 1126–1198 | Averroes | Chú giải Aristotle; đức tin và lý trí không mâu thuẫn |
 | 1138–1204 | Maimonides | Thần học phủ định; Kinh thánh đọc bằng ẩn dụ |
 | k. 1225–1274 | Aquinas | Tổng hợp đức tin + lý trí; năm con đường; luật tự nhiên |
