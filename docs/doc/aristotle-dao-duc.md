@@ -16,7 +16,7 @@ block: van-ban
     - **Độ dài:** 10 quyển; quyển I–II chừng 16 trang Bekker (1094a–1109b). Số như "1098a18" là trang, cột, dòng của ấn bản Bekker (1831), mọi bản dịch đều ghi.
     - **Bản gốc:** tiếng Hy Lạp cổ.
     - **Đọc toàn văn:** bản Ross trên [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.html); bản Hy Lạp có số Bekker trên [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053).
-    - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, bản sửa năm 1925; Ross mất năm 1971).
+    - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, 1925; Ross mất năm 1971).
     - **Thời gian đọc:** các đoạn chọn khoảng 25 phút; trọn quyển I–II khoảng hai giờ.
 
 ## Bối cảnh {#boi-canh}

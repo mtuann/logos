@@ -14,7 +14,7 @@ Năm 1641, [René Descartes](../triet-gia/descartes.md) (1596–1650) xuất b�
 Hai suy niệm đầu là phần nổi tiếng nhất, chứa lập luận mà hầu như ai cũng từng nghe qua dưới dạng "Tôi tư duy, vậy tôi hiện hữu", dù đúng câu chữ ấy không có trong *Suy niệm*.
 
 !!! info "Về văn bản này"
-    - **Tác giả:** René Descartes. Sách in bằng tiếng Latin năm 1641 (tái bản 1642), kèm bảy bộ phản bác của các học giả đương thời và lời đáp của ông; bản tiếng Pháp ra năm 1647.
+    - **Tác giả:** René Descartes. Sách in bằng tiếng Latin năm 1641, kèm sáu bộ phản bác của các học giả đương thời và lời đáp của ông (bản in lần hai năm 1642 thêm bộ thứ bảy); bản tiếng Pháp ra năm 1647.
     - **Độ dài:** Suy niệm I–II chỉ chừng 17 trang trong ấn bản Adam–Tannery (AT 7:17–34).
     - **Đọc toàn văn:** bản dịch của John Veitch trên [Wikisource](https://en.wikisource.org/wiki/Meditations_on_First_Philosophy).
     - **Bản dịch được trích:** John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). Chữ trong ngoặc vuông là phần Veitch thêm từ bản tiếng Pháp.
