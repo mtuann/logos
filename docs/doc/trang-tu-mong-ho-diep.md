@@ -12,7 +12,7 @@ block: van-ban
 Đây có lẽ là đoạn văn triết học ngắn nhất mà người ta bàn cãi nhiều nhất: chỉ khoảng sáu mươi chữ Hán, kể một giấc mơ. [Trang Tử](../triet-gia/trang-tu.md) mơ thấy mình là bướm, tỉnh dậy không biết mình là người mơ thành bướm hay bướm mơ thành người. Hơn hai nghìn năm sau, câu hỏi ấy vẫn chưa có lời đáp dứt khoát. Ta đọc đoạn văn cùng một đoạn đứng trước nó trong cùng thiên, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
-    - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
+    - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính cuốn sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
     - **Văn bản:** sách *Trang Tử* hiện còn 33 thiên do Quách Tượng (mất năm 312) biên tập, rút gọn từ 52 thiên. Bảy "nội thiên" đầu thường được coi là gần với chính Trang Tử nhất (Hansen, SEP). *Tề vật luận* là thiên thứ hai; đoạn mộng hồ điệp khép lại thiên này.
     - **Đọc toàn văn:** [ctext.org](https://ctext.org/zhuangzi/adjustment-of-controversies), nguyên văn song song với bản dịch tiếng Anh của James Legge (1891, phạm vi công cộng).
     - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 15 phút.
