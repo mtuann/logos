@@ -1,6 +1,6 @@
 {
   "unit": "lich-su/the-ky-19.md#kierkegaard-ca-nhan-truoc-he-thong",
-  "hash": "sha256:789fd328381155669ad2590b1c2654d9ef96b33f8424fff9085a0db68bcf2d5d",
+  "hash": "sha256:40ffac3531e90d9475071e2475248f1cc3821b55db8dd11c6dfb43481185d8fe",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02",
   "claims": [
@@ -27,7 +27,7 @@
       "kind": "dien-giai",
       "verdict": "sai",
       "severity": "vua",
-      "fix": "thường được xem là đối thủ lớn của Hegel (dù giới nghiên cứu gần đây cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**.",
+      "fix": "thường được xem là đối thủ lớn của Hegel (dù có những nhà nghiên cứu cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**.",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
@@ -134,6 +134,23 @@
           "where": "phần mở đầu"
         }
       ]
+    },
+    {
+      "text": "thường được xem là đối thủ lớn của Hegel (dù có những nhà nghiên cứu cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được mọi thứ trừ điều quan trọng nhất — cá nhân cụ thể đang sống.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Kierkegaard has often been understood as an arch opponent of Hegel, but scholarship in recent decades has challenged and complicated this view",
+          "where": "phần mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "the main target of his critique is certain Danish Hegelians influential in his day, rather than Hegel himself",
+          "where": "phần mở đầu"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -144,5 +161,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "SEP còn lưu ý nhãn 'cha đẻ hiện sinh' 'obscures at least as much as it reveals'; câu bài dùng 'được xem là' nên chấp nhận. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c2 sửa đúng fix: \"thường được xem là đối thủ lớn của Hegel (dù giới nghiên cứu gần đây cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch)\" — khớp hai câu SEP đã quote; không thêm khẳng định mới ngoài hai câu đó."
+  "notes": "SEP còn lưu ý nhãn 'cha đẻ hiện sinh' 'obscures at least as much as it reveals'; câu bài dùng 'được xem là' nên chấp nhận. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c2 sửa đúng fix: \"thường được xem là đối thủ lớn của Hegel (dù giới nghiên cứu gần đây cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch)\" — khớp hai câu SEP đã quote; không thêm khẳng định mới ngoài hai câu đó. doi-loi 5.6 (lint_volatile): commit 0d12ecf đổi \"dù giới nghiên cứu gần đây cho rằng\" thành \"dù có những nhà nghiên cứu cho rằng\" (bỏ cụm có hạn dùng \"gần đây\"). Câu mới vẫn đúng với SEP Kierkegaard (\"scholarship in recent decades has challenged and complicated this view\"; \"the main target of his critique is certain Danish Hegelians influential in his day, rather than Hegel himself\"), chỉ dè dặt hơn. Cập nhật fix của c2 theo chữ hiện hành, thêm claim dung cho câu hiện hành; c2 vẫn fixed."
 }
