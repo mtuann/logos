@@ -1,0 +1,61 @@
+{
+  "unit": "lich-su/the-ky-19.md#_dau",
+  "hash": "sha256:80f26e9c67abb4a31258fc51dd28fa7d1c59bd5986fd5b1d2e096b3044d22cab",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.6-m02",
+  "claims": [
+    {
+      "text": "Kant đã để lại một di sản khổng lồ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "set the terms for much of nineteenth and twentieth century philosophy",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "supplies forms that structure our experience of the sensible world",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "which Kant calls things in themselves",
+          "where": "mục về Phê phán lý tính thuần túy"
+        }
+      ]
+    },
+    {
+      "text": "Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau đến mức triết học không bao giờ còn là một \"hệ thống\" duy nhất nữa.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau: có người dựng hệ thống lớn hơn, có người đặt cá nhân và đời sống cụ thể lên trước mọi hệ thống.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "set the terms for much of nineteenth and twentieth century philosophy",
+          "where": "đoạn mở đầu"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu khái quát 'triết học không bao giờ còn là một hệ thống duy nhất nữa' không có nguồn và ngầm nói trước thế kỷ 19 triết học là một hệ thống duy nhất; theo HUONG-DAN-KIEM (khái quát lịch sử kiểu 'duy nhất' không nguồn) chấm 'vua'. SEP Kant chỉ ủng hộ phần Kant định khung cho triết học thế kỷ 19–20. Phần còn lại khớp SEP Kant (fall2026). Kiểm lại (k03): câu mở bài đã thay đúng nguyên văn fix (bỏ 'không bao giờ còn là một hệ thống duy nhất'); chữ mới chỉ nói hai hướng (dựng hệ thống / đặt cá nhân trước hệ thống), có SEP Hegel và Kierkegaard ủng hộ. fixed: true."
+}
