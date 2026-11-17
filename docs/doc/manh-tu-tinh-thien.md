@@ -102,7 +102,7 @@ Soi từng bước:
 
 **[Tuân Tử](../triet-gia/tuan-tu.md): tính ác.** Thiên 23 mở đầu: "Tính người là ác, cái thiện của nó là do con người làm ra" (人之性惡，其善者偽也). Nếu tính đã thiện, sao phải có thầy, có lễ, có luật? *Cách đáp lại:* Mạnh Tử chưa bao giờ nói không cần học; thầy và lễ là phần chăm bón. Với ông, giáo dục *làm lớn* cái đã có; với Tuân Tử, giáo dục *nắn* cái vốn cong. Theo A. C. Graham (1967), hai ông hiểu chữ "tính" khác nhau nên có phần nói lệch nhau (Van Norden, SEP).
 
-**Tâm lý học tiến hóa: thương trẻ chỉ là bản năng.** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
+**Một câu hỏi từ phía tiến hóa: phải chăng thương trẻ chỉ là bản năng?** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
 
 ## Hiểu lầm thường gặp {#hieu-lam-thuong-gap}
 

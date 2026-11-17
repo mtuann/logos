@@ -17361,7 +17361,7 @@ Soi từng bước:
 
 **[Tuân Tử](../triet-gia/tuan-tu.md): tính ác.** Thiên 23 mở đầu: "Tính người là ác, cái thiện của nó là do con người làm ra" (人之性惡，其善者偽也). Nếu tính đã thiện, sao phải có thầy, có lễ, có luật? *Cách đáp lại:* Mạnh Tử chưa bao giờ nói không cần học; thầy và lễ là phần chăm bón. Với ông, giáo dục *làm lớn* cái đã có; với Tuân Tử, giáo dục *nắn* cái vốn cong. Theo A. C. Graham (1967), hai ông hiểu chữ "tính" khác nhau nên có phần nói lệch nhau (Van Norden, SEP).
 
-**Tâm lý học tiến hóa: thương trẻ chỉ là bản năng.** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
+**Một câu hỏi từ phía tiến hóa: phải chăng thương trẻ chỉ là bản năng?** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
 
 ## Hiểu lầm thường gặp
 
@@ -17833,8 +17833,8 @@ Văn bản của Sartre (mất năm 1980) còn bản quyền, cả bản tiếng
 
 !!! info "Về văn bản này"
     - **Tác giả, năm:** Jean-Paul Sartre (1905–1980); bài nói ở câu lạc bộ Maintenant, Paris, ngày 29/10/1945; in thành sách *L'existentialisme est un humanisme*, Paris: Nagel, 1946.
-    - **Thể loại, độ dài:** bài nói phổ thông bằng tiếng Pháp, chừng 9.000 chữ; một bản dễ đọc hơn của *Tồn tại và hư vô* (1943).
-    - **Đọc ở đâu:** còn bản quyền nên không có bản trực tuyến hợp pháp miễn phí; bản dịch tiếng Anh: *Existentialism Is a Humanism*, Carol Macomber dịch (Yale University Press, 2007).
+    - **Thể loại, độ dài:** bài nói phổ thông bằng tiếng Pháp; một bản dễ đọc hơn của *Tồn tại và hư vô* (1943).
+    - **Đọc ở đâu:** văn bản còn bản quyền; bản dịch tiếng Anh: *Existentialism Is a Humanism*, Carol Macomber dịch (Yale University Press, 2007).
     - **Cách ghi vị trí:** bài không đánh số đoạn; dưới đây ghi theo thứ tự các phần của bài nói.
     - **Thời gian đọc:** khoảng 15 phút cho hướng dẫn này; chừng 1 giờ cho toàn văn.
 
@@ -18023,7 +18023,7 @@ Hai câu cuối nổi tiếng nhất, quen thuộc qua bản dịch thơ của N
 
     Vậy mới biết: Bụt ở ngay trong nhà, chẳng phải tìm đâu xa. Vì ta quên mất cái gốc nên mới đi tìm Bụt; đến khi biết ra thì Bụt chính là ta. — Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên; đói thì ăn, mệt thì ngủ. Trong nhà có báu, thôi tìm kiếm; gặp cảnh mà tâm không vướng, chớ hỏi thiền. *(bản dịch của Logos)*
 
-Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "vốn, thật là". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
+Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "chính". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
 
 > Câu hỏi: "Ở giữa đời mà tâm không vướng": nghe như đặc quyền của một ông vua đã đủ đầy. Một người còn lo cơm áo có tu theo cách này được không?
 

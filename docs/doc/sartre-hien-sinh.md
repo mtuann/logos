@@ -15,8 +15,8 @@ Văn bản của Sartre (mất năm 1980) còn bản quyền, cả bản tiếng
 
 !!! info "Về văn bản này"
     - **Tác giả, năm:** Jean-Paul Sartre (1905–1980); bài nói ở câu lạc bộ Maintenant, Paris, ngày 29/10/1945; in thành sách *L'existentialisme est un humanisme*, Paris: Nagel, 1946.
-    - **Thể loại, độ dài:** bài nói phổ thông bằng tiếng Pháp, chừng 9.000 chữ; một bản dễ đọc hơn của *Tồn tại và hư vô* (1943).
-    - **Đọc ở đâu:** còn bản quyền nên không có bản trực tuyến hợp pháp miễn phí; bản dịch tiếng Anh: *Existentialism Is a Humanism*, Carol Macomber dịch (Yale University Press, 2007).
+    - **Thể loại, độ dài:** bài nói phổ thông bằng tiếng Pháp; một bản dễ đọc hơn của *Tồn tại và hư vô* (1943).
+    - **Đọc ở đâu:** văn bản còn bản quyền; bản dịch tiếng Anh: *Existentialism Is a Humanism*, Carol Macomber dịch (Yale University Press, 2007).
     - **Cách ghi vị trí:** bài không đánh số đoạn; dưới đây ghi theo thứ tự các phần của bài nói.
     - **Thời gian đọc:** khoảng 15 phút cho hướng dẫn này; chừng 1 giờ cho toàn văn.
 
