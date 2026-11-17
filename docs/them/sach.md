@@ -14955,7 +14955,7 @@ Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – k
 
 ## Kierkegaard: cá nhân trước hệ thống
 
-**Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, thường được xem là đối thủ lớn của Hegel (dù giới nghiên cứu gần đây cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
+**Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, thường được xem là đối thủ lớn của Hegel (dù có những nhà nghiên cứu cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
 
 Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Việc chuyển từ nấc này sang nấc khác không phải là một kết luận mà lý trí buộc ta phải chấp nhận, mà là một thành tựu đòi hỏi biến đổi những "đam mê" định hình cả đời sống. Hình mẫu của nấc tôn giáo là Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843), người sẵn sàng hiến tế con trai vì vâng lời Chúa; nhiều người đọc thấy ở đây sự đình chỉ đạo đức thông thường vì một mục đích cao hơn.
 
