@@ -15126,13 +15126,14 @@ kinh Vệ Đà — xuất hiện một tư tưởng táo bạo. Các hiền tri�
 **Brahman**; và cái "tôi" sâu nhất trong mỗi người — **Atman** — không khác gì Brahman. Câu nói nổi
 tiếng trong *Chandogya Upanishad*: "Tat tvam asi" — "Ngươi chính là Cái Đó".
 
-Tư tưởng cốt lõi: khổ đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong
-khi bản chất thật của ta đồng nhất với thực tại vũ trụ. Giác ngộ là nhận ra sự đồng nhất đó, và khi
-nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
+Tư tưởng cốt lõi: hiểu biết về Atman đưa tới giải thoát — trong các Upanishad cổ nhất, giải thoát
+trước hết là thoát khỏi cái chết. Về sau, nhất là trong Advaita Vedanta, cách đọc phổ biến là: khổ
+đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong khi bản chất thật của
+ta đồng nhất với Brahman; giác ngộ là nhận ra sự đồng nhất đó, và khi nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
 
 Ảnh hưởng: cặp Brahman/Atman trở thành nền tảng mà hầu hết triết học Ấn Độ sau này — kể cả những
 trường phái phản đối — đều phải đối thoại. Khi Schopenhauer ở châu Âu thế kỷ 19 đọc được bản dịch
-Upanishad, ông viết rằng đó là "niềm an ủi của đời tôi, và sẽ là niềm an ủi khi tôi chết".
+Upanishad, ông coi đó là niềm an ủi của đời mình, và sẽ là niềm an ủi khi mình chết.
 
 ## Đức Phật: Tứ diệu đế và vô ngã
 
@@ -15177,7 +15178,7 @@ tọa bộ** (*Theravada*, "lời dạy của các bậc trưởng lão") — tr
 gần nguyên bản lời Phật: mỗi người tự tu tập theo Bát chánh đạo để trở thành **A-la-hán** (*arhat*),
 người đã giải thoát. Truyền thống này thịnh hành ở Sri Lanka, Thái Lan, Myanmar, Lào, Campuchia.
 
-**Đại thừa** (*Mahayana*, "cỗ xe lớn") — phát triển từ khoảng thế kỷ 1 — mở rộng lý tưởng: thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành **Bồ tát** (*bodhisattva*), hoãn nhập niết bàn để cứu độ tất cả chúng sinh. Triết học Trung quán của Nagarjuna, cùng với **Duy thức** (*Yogacara*) ra đời sau đó, là nền tảng trí tuệ của Đại thừa. Từ Đại thừa lại nảy sinh **Kim cương thừa** (*Vajrayana*) — hình thành ở Ấn Độ rồi thịnh hành ở Tây Tạng — với các phương pháp tu tập đặc biệt.
+**Đại thừa** (*Mahayana*, "cỗ xe lớn") — phát triển từ khoảng thế kỷ 1 TCN — mở rộng lý tưởng: thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành Phật để cứu độ tất cả chúng sinh — người đi trên con đường ấy gọi là **Bồ tát** (*bodhisattva*). Triết học Trung quán của Nagarjuna, cùng với **Duy thức** (*Yogacara*) ra đời sau đó, là nền tảng trí tuệ của Đại thừa. Từ Đại thừa lại nảy sinh **Kim cương thừa** (*Vajrayana*) — hình thành ở Ấn Độ rồi thịnh hành ở Tây Tạng — với các phương pháp tu tập đặc biệt.
 
 Điểm triết học đáng chú ý: sự phân hóa này cho thấy cùng một gốc mà có thể nở ra những siêu hình học
 rất khác — từ chủ nghĩa cá nhân tu chứng nghiêm ngặt đến vũ trụ quan Bồ tát đầy lòng bi mẫn. Phật
@@ -15426,7 +15427,7 @@ Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngo
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md)
 - [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md)
 - [Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md)
-- [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — Đạo gia và đạo đức môi trường, một cầu nối thú vị
+- [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — đạo đức môi trường: giá trị nội tại hay giá trị công cụ của thiên nhiên
 
 ## Nguồn
 
