@@ -2034,7 +2034,7 @@ Câu hỏi thứ ba thường là chỗ thú vị nhất. Giả định ngầm l
 
 ## Đừng xấu hổ khi phải đọc ba lần
 
-Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
+Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
 
 Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu vào tường. Tra thuật ngữ (bắt đầu từ [Từ điển](tu-dien.md) của site này), hỏi người khác, hoặc để đó vài ngày rồi quay lại. Văn bản khó thường "mềm ra" sau một giấc ngủ.
 
@@ -2934,7 +2934,7 @@ Ví dụ, tự vấn về "công việc tốt":
 >
 > *Xanh: "Vậy 'tốt' không phải là lương cao, mà là lương cao* cộng *thích? Hay là thích, còn lương chỉ là một phần?"*
 
-Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạn lảng: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
+Viết ra giúp bạn khó lảng hơn so với chỉ nghĩ trong đầu: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
 
 ## Bài tập
 

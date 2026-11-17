@@ -66,7 +66,7 @@ Câu hỏi thứ ba thường là chỗ thú vị nhất. Giả định ngầm l
 
 ## Đừng xấu hổ khi phải đọc ba lần {#dung-xau-ho-khi-phai-doc-ba-lan}
 
-Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
+Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
 
 Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu vào tường. Tra thuật ngữ (bắt đầu từ [Từ điển](../them/tu-dien.md) của site này), hỏi người khác, hoặc để đó vài ngày rồi quay lại. Văn bản khó thường "mềm ra" sau một giấc ngủ.
 
