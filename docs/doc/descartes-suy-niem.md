@@ -66,7 +66,7 @@ Descartes không tin có con quỷ thật: đây là thí nghiệm tư duy để
 
 *Bạn có nghĩ ra được một "ác thần" hiện đại không: một kịch bản mà mọi trải nghiệm của bạn đều bị làm giả?*
 
-**Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27).** Archimedes chỉ đòi một điểm tựa vững để nâng trái đất; Descartes chỉ cần một điều chắc chắn (§1). Và điểm tựa xuất hiện:
+**Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27).** Archimedes chỉ đòi một điểm tựa vững để dời trái đất khỏi chỗ của nó; Descartes chỉ cần một điều chắc chắn (§1). Và điểm tựa xuất hiện:
 
 !!! quote "*Suy niệm* II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
     "Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may, he can never bring it about that I am nothing, so long as I shall be conscious that I am something. So that it must, in fine, be maintained, all things being maturely and carefully considered, that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind."
@@ -152,7 +152,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — hoài nghi luận của Descartes được trình bày đầy đủ ở đây
-- [Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí
+- [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí
 - [Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — phiên bản hiện đại của ác thần
 - [Đọc ẩn dụ hang động](platon-hang-dong.md) — một người tù khác, cũng phải tập nhìn ra ánh sáng
 
