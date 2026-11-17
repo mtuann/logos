@@ -128,7 +128,7 @@ Vì vậy, ở lượt ba, hãy ghi thêm một dòng cho mỗi luận điểm q
 **Bài 2.** Giả định ngầm của đoạn văn mẫu là gì? Vì sao nó "ngầm"?
 
 ??? success "Xem gợi ý đáp án"
-    Giả định ngầm: "đúng đắn" đồng nghĩa với "làm giảm tội phạm" (lập trường hệ quả luận). Nó "ngầm" vì tác giả không bao giờ nói ra — ông chỉ dùng từ "đúng đắn" như thể ai cũng hiểu theo nghĩa đó.
+    Giả định ngầm: chỉ cần "làm giảm tội phạm" (có hậu quả tốt) là đủ để một biện pháp "đúng đắn" (lập trường hệ quả luận). Nó "ngầm" vì tác giả không bao giờ nói ra — ông chỉ dùng từ "đúng đắn" như thể ai cũng hiểu theo nghĩa đó.
 
 **Bài 3.** Chọn một đoạn văn khó bất kỳ, trong site này hoặc ngoài đời. Đọc lượt một và viết câu "tác giả muốn chứng minh rằng ___". Rồi đọc lượt hai, ghi chú lề mỗi đoạn một câu.
 
@@ -150,7 +150,7 @@ Thử xem bạn nắm được đến đâu.
  {"q": "Mục tiêu của lượt đọc đầu tiên là gì?", "options": ["Hiểu từng câu từng chữ", "Nắm được bài muốn chứng minh điều gì", "Đánh giá lập luận đúng hay sai", "Ghi nhớ các thuật ngữ khó"], "answer": 1, "explain": "Lượt một chỉ cần trả lời: tác giả muốn chứng minh điều gì. Hiểu chi tiết là việc của lượt hai, đánh giá là việc của lượt ba."},
  {"q": "Ghi chú lề tốt nhất là ghi chú như thế nào?", "options": ["Chép lại câu quan trọng nhất của đoạn", "Gạch chân mọi thuật ngữ khó", "Tóm tắt đoạn bằng một câu theo lời của mình", "Ghi cảm nghĩ của mình về đoạn"], "answer": 2, "explain": "Tóm tắt bằng lời mình buộc bạn phải hiểu. Chép lại thì chưa chứng minh được gì."},
  {"q": "Vì sao không nên chê “tác giả sai” ngay từ lượt đọc đầu?", "options": ["Vì như vậy là bất lịch sự", "Vì lúc đó bạn chưa chắc tác giả thật sự nói gì", "Vì triết học không có đúng sai", "Vì tác giả luôn đúng"], "answer": 1, "explain": "Quy tắc sắt: hiểu trước, phán sau. Phê bình một điều mình chưa hiểu là phê bình vào khoảng không."},
- {"q": "Trong đoạn văn mẫu về trừng phạt, giả định ngầm là gì?", "options": ["Trừng phạt làm giảm tội phạm", "Chúng ta nên trừng phạt nghiêm khắc", "“Đúng đắn” đồng nghĩa với “làm giảm tội phạm”", "Trừng phạt nhẹ hiệu quả hơn trừng phạt nghiêm khắc"], "answer": 2, "explain": "Tiền đề 1 (“biện pháp làm giảm tội phạm thì đúng đắn”) lén đồng nhất “đúng đắn” với “có hậu quả tốt” — một lập trường hệ quả luận không được nêu ra. “Trừng phạt làm giảm tội phạm” là tiền đề được nói thẳng, “nên trừng phạt nghiêm khắc” là kết luận, còn “trừng phạt nhẹ hiệu quả hơn” trái với chính đoạn văn."},
+ {"q": "Trong đoạn văn mẫu về trừng phạt, giả định ngầm là gì?", "options": ["Trừng phạt làm giảm tội phạm", "Chúng ta nên trừng phạt nghiêm khắc", "Chỉ cần làm giảm tội phạm là đủ để một biện pháp “đúng đắn”", "Trừng phạt nhẹ hiệu quả hơn trừng phạt nghiêm khắc"], "answer": 2, "explain": "Tiền đề 1 (“biện pháp làm giảm tội phạm thì đúng đắn”) lén coi “có hậu quả tốt” là đủ để “đúng đắn” — một lập trường hệ quả luận không được nêu ra. “Trừng phạt làm giảm tội phạm” là tiền đề được nói thẳng, “nên trừng phạt nghiêm khắc” là kết luận, còn “trừng phạt nhẹ hiệu quả hơn” trái với chính đoạn văn."},
  {"q": "Đọc ba lần vẫn chưa hiểu một đoạn thì nên làm gì?", "options": ["Kết luận mình không hợp với triết học", "Đọc lại lần bốn ngay lập tức, nhanh hơn", "Tra thuật ngữ, hỏi người khác, hoặc để vài ngày rồi quay lại", "Bỏ qua đoạn đó vì chắc nó không quan trọng"], "answer": 2, "explain": "Tắc là bình thường. Tra cứu, hỏi han và thời gian là ba liều thuốc — không phải bằng chứng bạn dốt."}
 ]
 </script>
