@@ -5479,7 +5479,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính tất yếu logic.
     - Con quỷ của Laplace (1814): trí tuệ biết hết hiện tại sẽ thấy hết tương lai; hai phản bác lớn — hỗn loạn (chỉ đánh vào khả năng dự đoán, chưa đánh vào tính xác định) và cơ học lượng tử (các diễn giải chưa ngã ngũ).
     - Định mệnh từ logic (lập luận "hải chiến ngày mai" của [Aristotle](../triet-gia/aristotle.md)): ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), "đúng" không có nghĩa là "tất yếu" (chân trị đi theo sự kiện, không khóa sự kiện), và kể cả đúng thì nó chứng minh sai thứ (tính tất yếu logic, chưa phải "dù làm gì cũng vậy").
-    - Boethius (khoảng 524): Chúa không "đoán trước" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc; và ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ. PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%), và [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% nghiêng về vĩnh cửu luận về thời gian (tương lai "tồn tại", nhưng điều đó không phải thuyết định mệnh).
+    - Boethius (khoảng 524): Chúa không "đoán trước" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc; và ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ. PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%), và [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% chấp nhận hoặc nghiêng về vĩnh cửu luận về thời gian (tương lai "tồn tại", nhưng điều đó không phải thuyết định mệnh).
 
 Đầu năm, nhiều người rủ nhau đi xem tử vi, xem bói. Người thì nghe cho vui, người thì thật sự tin: năm nay "sao xấu chiếu mệnh", nên làm gì cũng dè chừng. Đằng sau thói quen đó là một câu hỏi triết học rất cũ: tương lai là thứ đã được viết sẵn, chỉ chờ ta đọc — hay là thứ còn để ngỏ, chờ ta viết tiếp?
 
@@ -5506,7 +5506,7 @@ Ba khái niệm hay bị lẫn với nhau, cần tách ra ngay từ đầu:
 
 1. **Thuyết định mệnh** (*fatalism*): kết cục sẽ xảy ra *bất kể bạn làm gì*. Kiểu nói "số phận an bài", "trời đã định".
 2. **Tất định luận** (*determinism*): mọi sự kiện đều có nguyên nhân đầy đủ theo quy luật tự nhiên. (Đã trình bày trong [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md).)
-3. Tính tất yếu logic: một câu khi đã đúng thì không thể sai.
+3. Tính cố định của chân lý: một câu khi đã đúng thì không thể trở thành sai.
 
 Ba cái này *khác nhau*. Tất định luận không nói "dù bạn làm gì kết quả cũng vậy" — ngược lại, chính việc bạn làm là một mắt xích trong chuỗi nguyên nhân. Và một câu về tương lai "đúng" không có nghĩa là tương lai "bị ép phải thế" — có thể nó đúng *nhờ* điều sẽ xảy ra, chứ không phải điều sẽ xảy ra bị khóa *vì* nó đúng.
 
@@ -5550,7 +5550,7 @@ Lưu ý: lập luận này không cần đến vật lý hay Thượng đế. N�
 **Phản bác chính.** Có ba cách đáp lại lớn:
 
 - *(a) Tương lai mở.* Có lẽ những câu về tương lai ngẫu nhiên *chưa* đúng cũng chưa sai — chúng sẽ có chân trị khi sự việc xảy ra. Đây là hướng mà nhiều người gán cho chính Aristotle, và sau này được phát triển thành logic nhiều giá trị. Cái giá: phải sửa lại logic cổ điển, điều không phải ai cũng sẵn lòng.
-- *(b) Đúng không có nghĩa là tất yếu.* Đây là cách đáp lại được nhiều triết gia hiện nay ưa nhất. Câu "ngày mai có hải chiến" có thể *đúng* — nhờ điều sẽ xảy ra ngày mai — mà trận hải chiến vẫn không *tất yếu*. Chân trị của câu đi *theo* sự kiện, chứ không đi *trước* để khóa sự kiện. Nói "câu đó đúng" chỉ là nói "sự việc sẽ như vậy"; nó không thêm một xiềng xích nào vào sự việc.
+- *(b) Đúng không có nghĩa là tất yếu.* Theo một cách đọc khác, chính Aristotle cũng đi theo hướng này: ông bác bỏ bước suy từ "đúng" sang "tất yếu". Câu "ngày mai có hải chiến" có thể *đúng* — nhờ điều sẽ xảy ra ngày mai — mà trận hải chiến vẫn không *tất yếu*. Chân trị của câu đi *theo* sự kiện, chứ không đi *trước* để khóa sự kiện. Nói "câu đó đúng" chỉ là nói "sự việc sẽ như vậy"; nó không thêm một xiềng xích nào vào sự việc.
 - *(c) Kể cả khi lập luận đúng, nó chứng minh sai thứ.* Giả sử mọi câu về tương lai đều đã có chân trị. Điều đó cho ta tính tất yếu *logic*, chứ chưa cho ta thuyết định mệnh kiểu "dù bạn làm gì kết quả cũng vậy". Các đô đốc vẫn phải ra quyết định, và quyết định của họ vẫn là một phần của những gì làm nên ngày mai.
 
 **Cách đáp lại.** Người theo định mệnh logic có thể cắn răng giữ nguyên tắc hai giá trị và nói: nếu câu về ngày mai đã đúng từ hôm nay, thì không có "khả năng" nào cho nó sai — và đó chính là tất yếu. Cuộc tranh luận khi đó chuyển thành câu hỏi: "tất yếu" ở đây có nghĩa là gì? Và liệu có một nghĩa của "tất yếu" vừa giữ được logic cổ điển vừa chừa chỗ cho tương lai mở không? Câu hỏi này vẫn còn bỏ ngỏ. Nguyên tắc hai giá trị (nguyên tắc nhị trị) còn bị thử thách bởi những câu về quá khứ mà không ai kiểm chứng được: xem [Sự thật là gì?](../cau-hoi/chan-ly.md).
@@ -5585,7 +5585,11 @@ Nhiều người nghe nói cơ học lượng tử có "ngẫu nhiên thật s�
 
 **Điều vật lý nói (một cách cẩn trọng).** Một số cách diễn giải cơ học lượng tử (như diễn giải Copenhagen) cho rằng ở cấp vi mô có những sự kiện không được xác định đầy đủ bởi quá khứ — ngẫu nhiên thật sự, không phải do thiếu thông tin. Nhưng các diễn giải khác (như cơ học Bohm, hay diễn giải nhiều thế giới) vẫn giữ tính tất định ở một nghĩa nào đó. Vật lý hiện nay *chưa ngã ngũ*, và đây là câu hỏi của vật lý, không phải của triết học.
 
-**Vì sao ngẫu nhiên không phải là tự do.** Giả sử một quyết định quan trọng của bạn được định đoạt bởi một sự kiện lượng tử ngẫu nhiên trong não. Điều đó có làm quyết định ấy "tự do" hơn không? Khó mà nói vậy. Nếu kết quả do may rủi định đoạt chứ không phải do lý do, giá trị và cân nhắc của bạn, thì nó càng *không phải là của bạn*. Đây chính là "phản bác may rủi" đã bàn trong [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md): ngẫu nhiên và tất định đều có thể là kẻ thù của tự do, theo những cách khác nhau.
+**Lập luận mạnh nhất.** Nếu ở cấp vi mô có ngẫu nhiên thật sự, thì tương lai không bị quá khứ khóa chặt, và quyết định của ta có chỗ để không bị định sẵn.
+
+**Phản bác chính.** Giả sử một quyết định quan trọng của bạn được định đoạt bởi một sự kiện lượng tử ngẫu nhiên trong não. Điều đó có làm quyết định ấy "tự do" hơn không? Khó mà nói vậy. Nếu kết quả do may rủi định đoạt chứ không phải do lý do, giá trị và cân nhắc của bạn, thì nó càng *không phải là của bạn*. Đây chính là "phản bác may rủi" đã bàn trong [bài về tự do ý chí](../cau-hoi/tu-do-y-chi.md): ngẫu nhiên và tất định đều có thể là kẻ thù của tự do, theo những cách khác nhau.
+
+**Cách đáp lại.** Người theo thuyết ý chí tự do không cho rằng ngẫu nhiên tự nó là tự do. Họ đặt sự không xác định vào đúng chỗ: như trong mô hình của Robert Kane, khi ta giằng co giữa nghĩa vụ và lợi ích bản thân, nỗ lực ý chí của ta không được xác định trước, và kết quả nào xảy ra cũng xuất phát từ lý do và cân nhắc của chính ta.
 
 **Kết luận cẩn trọng.** Vật lý hiện đại làm cho tất định luận kiểu Laplace khó đứng vững ở dạng mạnh nhất — bức tranh "đồng hồ vũ trụ" đã nứt. Nhưng một vũ trụ có ngẫu nhiên vi mô chưa phải là một vũ trụ có tự do ý chí. Từ "không bị xác định hoàn toàn" đến "do tôi làm chủ" còn một khoảng cách dài, và vật lý không tự mình lấp được khoảng cách đó.
 
