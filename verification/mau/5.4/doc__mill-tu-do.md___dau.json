@@ -1,0 +1,83 @@
+{
+  "unit": "doc/mill-tu-do.md#_dau",
+  "hash": "sha256:c21c57028e7668d81efd338d62f1bfcd97e54bfddb9390f4a1192900d95db71b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m04",
+  "claims": [
+    {
+      "text": "John Stuart Mill, *On Liberty*, 1859; tiếng Anh.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/mill.on-liberty"
+    },
+    {
+      "text": "[Mill](../triet-gia/mill.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/mill/",
+          "quote": "J. S. Mill - Logos Zero",
+          "where": "<title> trang đích, HTTP 200"
+        }
+      ]
+    },
+    {
+      "text": "**Độ dài:** 5 chương; chương II, \"Of the Liberty of Thought and Discussion\", dài nhất, 44 đoạn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901-0.txt",
+          "quote": "CHAPTER II. OF THE LIBERTY OF THOUGHT AND DISCUSSION ... CHAPTER V. APPLICATIONS",
+          "where": "CONTENTS; đếm đoạn thân chương II (không tính tiêu đề, chú thích): 44, từ \"The time, it is to be hoped, is gone by\" đến \"Before quitting the subject of freedom of opinion\"; chương II ~96.800 ký tự, các chương khác ≤ 55.300"
+        }
+      ]
+    },
+    {
+      "text": "[Project Gutenberg](https://www.gutenberg.org/ebooks/34901) (bản in lại của Walter Scott Publishing, có lời giới thiệu của W. L. Courtney)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901-0.txt",
+          "quote": "*** START OF THE PROJECT GUTENBERG EBOOK 34901 *** On Liberty. By John Stuart Mill. With an Introduction by W. L. Courtney, LL.D. The Walter Scott Publishing Co., Ltd.",
+          "where": "đầu tệp; gutenberg.org trả 503 'Temporarily Down for Maintenance' trong phiên, đã mở bản mirror cùng số ebook"
+        }
+      ]
+    },
+    {
+      "text": "Ông lập luận rằng bịt miệng một ý kiến là \"cướp đi của cả nhân loại\", kể cả khi ý kiến ấy sai.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901-0.txt",
+          "quote": "the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race ... If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit",
+          "where": "chương II, đoạn 1"
+        }
+      ]
+    },
+    {
+      "text": "**Cách ghi vị trí:** \"II.21\" là chương II, đoạn 21, đếm theo bản Gutenberg.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901-0.txt",
+          "quote": "Let us now pass to the second division of the argument",
+          "where": "đoạn 21 của chương II khi đếm từ đoạn \"The time, it is to be hoped\" là 1; quy ước đánh số nhất quán với tổng 44 đoạn"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Thời gian đọc không phải dữ kiện kiểm được. gutenberg.org/ebooks/34901 trả 503 bảo trì trong phiên; nội dung kiểm qua mirror gutenberg.pglaf.org cùng số ebook."
+}

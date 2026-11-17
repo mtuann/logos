@@ -1,0 +1,76 @@
+{
+  "unit": "doc/aurelius-suy-tuong.md#boi-canh",
+  "hash": "sha256:50fef66572d120a289d1f0851ec94687723bb818205ffddba8ff6759e18fc063",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m01",
+  "claims": [
+    {
+      "text": "Marcus sinh năm 121",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/marcus-aurelius"
+    },
+    {
+      "text": "được hoàng đế Antoninus Pius nhận làm con nuôi và nối ngôi năm 161",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/", "quote": "Marcus Aurelius succeeded his adoptive father Antoninus Pius as Emperor of Rome in 161 CE", "where": "1. Life and Works"},
+        {"url": "https://iep.utm.edu/marcus/", "quote": "he was later adopted by the Emperor Antoninus Pius in 138 C.E.. ... Marcus became Emperor himself in C.E. 161", "where": "1. Life"}
+      ]
+    },
+    {
+      "text": "Triều đại của ông liên miên chiến tranh với các bộ tộc Germania, nổi loạn ở miền bắc nước Ý và Ai Cập, cộng thêm một trận dịch lớn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/", "quote": "His reign was troubled by attacks from Germany, rebellions in northern Italy and Egypt, and an outburst of the plague", "where": "1. Life and Works"}
+      ]
+    },
+    {
+      "text": "Ông được giáo dục kỹ về hùng biện và triết học",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/", "quote": "Born in 121 CE and educated extensively in rhetoric and philosophy", "where": "1. Life and Works"}
+      ]
+    },
+    {
+      "text": "trong quyển I, ông cảm ơn những người thầy Khắc kỷ, trong đó có Rusticus, người đã cho ông đọc các bài giảng của Epictetus (I.7)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://gutenberg.pglaf.org/1/5/8/7/15877/15877.txt", "quote": "I am indebted to him for being acquainted with the discourses of Epictetus, which he communicated to me out of his own collection.", "where": "Long, Book I, §7"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/", "quote": "he records his gratitude to his Stoic teachers Rusticus, Apollonius, Sextus for their examples and teachings (I.7–9)", "where": "1. Life and Works"}
+      ]
+    },
+    {
+      "text": "nếu vũ trụ không có thiên ý sắp đặt, mà chỉ là các nguyên tử va vào nhau như phái Epicurus nói, thì sao (IV.3)?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://gutenberg.pglaf.org/1/5/8/7/15877/15877.txt", "quote": "Recall to thy recollection this alternative; either there is providence or atoms [fortuitous concurrence of things]", "where": "Long, Book IV, §3"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/", "quote": "or the outcome of atoms colliding randomly in the void, as believed by the Epicureans", "where": "4.1 Providence or Atoms?"}
+      ]
+    },
+    {
+      "text": "\"hãy coi chừng, đừng để mình hóa thành một Caesar, đừng để bị nhuộm màu ấy\" (VI.30)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://gutenberg.pglaf.org/1/5/8/7/15877/15877.txt", "quote": "30. Take care that thou art not made into a Caesar, that thou art not dyed with this dye; for such things happen.", "where": "Long, Book VI, §30"}
+      ]
+    },
+    {
+      "text": "Ông không viết để tranh luận với một trường phái nào",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://iep.utm.edu/marcus/", "quote": "nowhere in the Meditations does Marcus explicitly call himself a Stoic. This may simply reflect the likelihood that Marcus was writing only for himself", "where": "2. Marcus' Stoicism"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Bản dịch VI.30 của bài là diễn ý sát Long (\"made into a Caesar\", \"dyed with this dye\"). IV.3 không nêu tên Epicurus; gắn 'nguyên tử' với phái Epicurus theo SEP 4.1."
+}

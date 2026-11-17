@@ -1,0 +1,65 @@
+{
+  "unit": "doc/platon-bien-ho.md#tu-kiem-tra",
+  "hash": "sha256:22edb38cab98f7b82a8a215a5a22781f2ffd55bbf6260e5189b0f5bcaad188f1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m04",
+  "claims": [
+    {
+      "text": "Câu 1: \"Theo 21d, Socrates hơn chính trị gia kia ở điểm nào?\" — đáp án: \"Cả hai đều không biết điều đẹp và tốt, nhưng Socrates không tưởng mình biết\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=21d", "quote": "neither of us really knows anything fine and good, but this man thinks he knows something when he does not, whereas I, as I do not know anything, do not think I do either", "where": "Apology 21d"}]
+    },
+    {
+      "text": "Lựa chọn thứ ba là cách hiểu phổ biến nhưng sai: ông thừa nhận thợ thủ công biết nhiều điều (22d) và tự nhận biết làm điều bất chính là xấu (29b).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=22d", "quote": "they did know what I did not, and in this way they were wiser than I", "where": "Apology 22d (thợ thủ công)"}, {"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29b", "quote": "But I do know that it is evil and disgraceful to do wrong and to disobey him who is better than I", "where": "Apology 29b"}]
+    },
+    {
+      "text": "Phương án sai câu 1: \"Ông biết nhiều điều đẹp và tốt hơn\", \"Ông được thần Delphi truyền tri thức\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=21d", "quote": "I seem, then, in just this little thing to be wiser than this man at any rate, that what I do not know I do not think I know either", "where": "Apology 21d: lợi thế chỉ là không tưởng mình biết; hai phương án này đều sai"}]
+    },
+    {
+      "text": "Câu 2: \"Vì sao Socrates nói sợ chết là 'làm ra vẻ khôn ngoan' (29a)?\" — đáp án: \"Vì sợ chết là hành xử như thể đã biết chết là điều xấu, trong khi không ai biết điều đó\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29a", "quote": "For to fear death, gentlemen, is nothing else than to think one is wise when one is not ... For no one knows whether death be not even the greatest of all blessings to man, but they fear it as if they knew that it is the greatest of evils.", "where": "Apology 29a"}]
+    },
+    {
+      "text": "Socrates không khẳng định chết chắc chắn là tốt; ở 42a ông nói chỉ thần biết.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=42a", "quote": "I go to die, and you to live; but which of us goes to the better lot, is known to none but God.", "where": "Apology 42a"}]
+    },
+    {
+      "text": "Câu 3: \"Lập luận ở 40c: chết hoặc là hư không, hoặc là dời sang nơi khác; trường hợp nào cũng không xấu.\" — đáp án: \"Có thể còn khả năng thứ ba, chẳng hạn một thế giới bên kia đầy trừng phạt, nên tiền đề 'chỉ có hai khả năng' chưa chắc đúng\"; giải thích: \"Hình thức lưỡng nan là hợp lệ; chỗ cần xét là tiền đề hai khả năng đã bao quát hết chưa. Lựa chọn thứ ba công kích con người, không xét lập luận.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c", "quote": "For the state of death is one of two things: either it is virtually nothingness, so that the dead has no consciousness of anything, or it is, as people say, a change and migration of the soul from this to another place.", "where": "Apology 40c"}, {"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40e", "quote": "if death is, as it were, a change of habitation from here to some other place, and if what we are told is true, that all the dead are there, what greater blessing could there be", "where": "Apology 40e: vế hai mặc định nơi kia tốt"}]
+    },
+    {
+      "text": "Phương án sai câu 3: \"Giấc ngủ không mộng là trạng thái khó chịu nhất\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40d", "quote": "like a sleep in which the sleeper does not even dream, death would be a wonderful gain", "where": "Apology 40d: văn bản nói ngược lại"}]
+    },
+    {
+      "text": "Câu 4: \"Ở 38a, điều tốt nhất là bàn luận về đức hạnh và tự xét hỏi, việc ai cũng làm được (xem thêm 22d về thợ thủ công).\" — đáp án: \"Điều được đề cao là thường xuyên xét hỏi chính mình về cách sống; Socrates thừa nhận cả thợ thủ công cũng biết nhiều điều, nên 'xét lại' không đồng nghĩa với đọc sách triết\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a", "quote": "to talk every day about virtue and the other things about which you hear me talking and examining myself and others is the greatest good to man, and that the unexamined life is not worth living", "where": "Apology 38a"}, {"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=22d", "quote": "they did know what I did not", "where": "Apology 22d"}]
+    },
+    {
+      "text": "Phương án sai câu 4: \"Câu 38a chỉ nói về các chính trị gia\", \"Câu 38a là lời của Aristophanes\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [{"url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a", "quote": "is the greatest good to man", "where": "Apology 38a: lời Socrates nói với tòa, về con người nói chung"}]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": true, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Mỗi câu chỉ có một đáp án đúng, khớp chỉ số answer=1. Câu 3: một thế giới bên kia đầy trừng phạt cũng có thể coi là một dạng của vế 'dời sang nơi khác' (40c nêu vế hai chung chung, 40e–41a mới mặc định nơi đó tốt), nên chỗ yếu cũng có thể đọc là giả định 'nơi kia tốt' chứ không chỉ là thiếu khả năng thứ ba. Cách đọc của quiz vẫn bảo vệ được (nếu vế hai hiểu là 'dời sang nơi tốt' thì lưỡng nan không bao quát hết) và khớp mục Tái dựng lập luận của bài; đáp án vẫn là phương án duy nhất đúng. Không ghi lỗi."
+}
