@@ -7065,7 +7065,7 @@ Gợi ý độ dài: 200–350 chữ.
     - Ba lập trường: quyền sống của thai nhi (pro-life) — chỉ có thời điểm thụ thai là ranh giới không tùy tiện, cộng lập luận "tương lai đang chờ" của Marquis (1989); quyền tự chủ thân thể (Thomson, "A Defense of Abortion", 1971) — *tạm chấp nhận* thai nhi là người rồi hỏi: quyền sống không bao gồm quyền cắm ống vào thận người khác (thí nghiệm nghệ sĩ violin), nên cũng không bao gồm quyền dùng tử cung chống ý muốn người mẹ; thuyết tiệm tiến (gradualism) — địa vị đạo đức tăng dần theo sự phát triển, phá thai càng muộn càng cần lý do càng nặng.
     - Thái độ của bài: không chọn phe; mỗi lập trường được trình bày ở phiên bản mạnh nhất kèm phản bác mạnh nhất — điểm yếu chung của mọi ranh giới là tính tùy tiện, và đạo đức thực hành luôn cần ranh giới dù tùy tiện (như tuổi bầu cử).
 
-Ít có tranh luận đạo đức nào dai dẳng và gay gắt như phá thai. Hai bên đều nói ngôn ngữ của quyền: một bên nói về *quyền được sống* của thai nhi, bên kia nói về *quyền tự chủ thân thể* của người phụ nữ. Cả hai đều nghe có lý. Vấn đề là khi hai quyền này va nhau, quyền nào thắng — và vì sao?
+Tranh luận đạo đức về phá thai dai dẳng và gay gắt: nhiều người cho rằng phá thai là sai trái nghiêm trọng, nhiều người khác cho rằng nó được phép. Hai bên đều nói ngôn ngữ của quyền: một bên nói về *quyền được sống* của thai nhi, bên kia nói về *quyền tự chủ thân thể* của người phụ nữ. Cả hai đều nghe có lý. Vấn đề là khi hai quyền này va nhau, quyền nào thắng — và vì sao?
 
 Bài này không chọn phe. Bài này tách tranh luận thành ba câu hỏi nhỏ, rồi xem ba lập trường triết học trả lời chúng ra sao.
 
@@ -7091,7 +7091,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng
 
 **Câu hỏi thứ hai: ngay cả khi thai nhi là người, quyền sống của nó có bao gồm quyền được dùng thân thể người khác không?** Đây là câu hỏi Thomson đặt ra. Quyền sống của bạn không cho bạn quyền cắm ống vào thận của tôi. Vậy vì sao quyền sống của thai nhi lại cho nó quyền dùng tử cung của người mẹ?
 
-**Câu hỏi thứ ba: việc mang thai do quan hệ tự nguyện có tạo ra nghĩa vụ đặc biệt không?** Hầu hết mọi người đồng ý rằng trường hợp bị cưỡng bức khác với trường hợp tự nguyện. Nhưng *khác như thế nào*, và sự khác biệt đó có đủ để biến một hành động được phép thành hành động bị cấm không?
+**Câu hỏi thứ ba: việc mang thai do quan hệ tự nguyện có tạo ra nghĩa vụ đặc biệt không?** Nhiều người cho rằng trường hợp bị cưỡng bức khác với trường hợp tự nguyện. Nhưng *khác như thế nào*, và sự khác biệt đó có đủ để biến một hành động được phép thành hành động bị cấm không?
 
 Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.
 
@@ -7115,7 +7115,7 @@ Thí nghiệm người nghệ sĩ violin là câu trả lời: không. Bạn có
 
 **Lập luận mạnh nhất.** Điểm mạnh của Thomson là bà tách hai câu hỏi mà phe pro-life thường gộp làm một. Rất nhiều người tranh luận phá thai với tiền đề ngầm: "nếu thai nhi là người thì phá thai là sai". Thomson chỉ ra tiền đề đó sai: từ "X là người có quyền sống" không suy ra được "mọi hành động gây ra cái chết của X đều sai". Ta không có nghĩa vụ hiến thận để cứu người lạ, dù người lạ đó hoàn toàn là "người". Nếu nhất quán, ta cũng không thể buộc người phụ nữ phải cho mượn thân thể chín tháng.
 
-**Phản bác chính.** Phản bác nổi tiếng nhất là phản bác *tự nguyện*: thí nghiệm violinist là một vụ bắt cóc, nhưng phần lớn các ca mang thai (trừ hiếp dâm) bắt đầu từ quan hệ tình dục tự nguyện. Người mẹ không phải nạn nhân bị cắm ống lén; bà đã tự đặt mình vào tình huống có thể dẫn đến mang thai. Trách nhiệm đối với hậu quả của hành động tự nguyện của mình là một nguyên tắc đạo đức cơ bản — giống như bạn không thể mời ai đó lên thuyền rồi giữa biển khơi đẩy họ xuống vì "thân thể tôi, quyền của tôi".
+**Phản bác chính.** Một phản bác thường gặp là phản bác *tự nguyện*: thí nghiệm violinist là một vụ bắt cóc, nhưng phần lớn các ca mang thai (trừ hiếp dâm) bắt đầu từ quan hệ tình dục tự nguyện. Người mẹ không phải nạn nhân bị cắm ống lén; bà đã tự đặt mình vào tình huống có thể dẫn đến mang thai. Trách nhiệm đối với hậu quả của hành động tự nguyện của mình là một nguyên tắc đạo đức cơ bản — giống như bạn không thể mời ai đó lên thuyền rồi giữa biển khơi đẩy họ xuống vì "thân thể tôi, quyền của tôi".
 
 **Cách đáp lại.** Thomson có câu trả lời chuẩn bị sẵn, bằng hình ảnh "hạt người" (*people-seeds*, diễn đạt lại): tưởng tượng những hạt người bay lảng vảng trong không khí; bạn lắp màn chắn cửa sổ cẩn thận, nhưng một hạt vẫn lọt vào và bám rễ trong nhà bạn. Bạn có "tự nguyện" đón nó không? Đồng ý quan hệ tình dục (nhất là khi đã dùng biện pháp tránh thai) không đồng nghĩa với đồng ý mang thai, cũng như mở cửa sổ cho thoáng không đồng nghĩa với mời trộm vào nhà. Với trường hợp hiếp dâm, thí nghiệm violinist áp dụng trực tiếp. Với trường hợp tự nguyện mà biện pháp tránh thai thất bại, hình ảnh hạt người cho thấy "tự nguyện quan hệ" và "tự nguyện mang thai" là hai việc khác nhau. (Thomson cũng thừa nhận: lập luận về trách nhiệm có thể đúng trong *một số* trường hợp — tức có những ca thai nhi có quyền dùng thân thể người mẹ, và phá thai khi đó là giết người bất công — nhưng bà để ngỏ đó là những ca nào, "nếu có". Điều bà khẳng định chỉ là: lập luận ấy không chứng minh được *mọi* ca phá thai đều sai.)
 
