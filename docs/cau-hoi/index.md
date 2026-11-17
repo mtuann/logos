@@ -311,7 +311,7 @@ Có **[[count:cau-hoi]] bài**, xếp theo mười một chủ đề dưới đ�
 Trong mỗi bài, mục "Giới triết học ngày nay nghĩ gì" dùng số liệu của **Khảo sát PhilPapers 2020** (*PhilPapers Survey*). Đây là cuộc khảo sát quan điểm lớn nhất của triết gia chuyên nghiệp hiện có:
 
 - Thực hiện trực tuyến từ 15/10 đến 16/11/2020; **[[pp:khao-sat/nguoi-tra-loi]]** triết gia chuyên nghiệp hoàn thành khảo sát gồm **[[pp:khao-sat/so-cau]]** câu hỏi: [[pp:khao-sat/cau-chinh]] câu chính hỏi tất cả mọi người; [[pp:khao-sat/cau-bo-sung]] câu bổ sung thì mỗi người nhận ngẫu nhiên [[pp:khao-sat/cau-bo-sung-moi-nguoi]] câu và có thể tự nguyện trả lời thêm (khoảng 450–1.100 người trả lời mỗi câu). Vì nhiều người trả lời câu bổ sung là người tự nguyện làm thêm, số liệu các câu này kém đại diện hơn câu chính.
-- Kết quả công bố trong bài báo của David Bourget và David Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023.
+- Kết quả công bố trong bài báo của David Bourget và David Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023.
 - Con số là tỉ lệ người **chấp nhận hoặc nghiêng về** một lựa chọn. Người chọn nhiều đáp án được tính vào mỗi đáp án, nên tổng có thể vượt 100%. Người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề" không được tính, nên mỗi câu có số người trả lời riêng.
 
 Đọc số liệu này cho đúng:

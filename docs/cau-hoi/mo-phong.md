@@ -190,4 +190,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge: Cambridge University Press (lập luận "bộ não trong bể", chương 1).
 3. Russell, Bertrand (1921), *The Analysis of Mind*, London: George Allen & Unwin, Bài giảng IX ("Memory") — giả thuyết "thế giới mới ra đời năm phút trước". <https://www.gutenberg.org/ebooks/2529>
 4. Beane, Silas R., Zohreh Davoudi & Martin J. Savage (2012), "Constraints on the Universe as a Numerical Simulation", arXiv:1210.1847; đăng trên *The European Physical Journal A* 50 (2014): 148. <https://arxiv.org/abs/1210.1847>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

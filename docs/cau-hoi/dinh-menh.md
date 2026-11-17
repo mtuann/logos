@@ -218,4 +218,4 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về định mệnh/bi�
 3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <https://www.gutenberg.org/ebooks/14328>
 4. Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).
 5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài).
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

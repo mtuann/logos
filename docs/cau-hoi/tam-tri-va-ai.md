@@ -190,7 +190,7 @@ Viết 150–300 chữ. Nêu rõ lập trường của bạn, đưa ra ít nhấ
 10. Cogitate Consortium (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness". *Nature* 642: 133–142. <https://doi.org/10.1038/s41586-025-08888-1>
 11. Long, R., Sebo, J. và cộng sự (2024). *Taking AI Welfare Seriously*. arXiv:2411.00986. <https://arxiv.org/abs/2411.00986>
 12. Frankish, K. (2016). "Illusionism as a Theory of Consciousness". *Journal of Consciousness Studies* 23(11–12): 11–39.
-13. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+13. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 14. Cole, David, "The Chinese Room Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-room/>
 15. Oppy, Graham & David Dowe, "The Turing Test", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/turing-test/>
 16. Levin, Janet, "Functionalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/functionalism/>

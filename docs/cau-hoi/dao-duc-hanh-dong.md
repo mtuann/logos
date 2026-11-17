@@ -117,7 +117,7 @@ Khảo sát PhilPapers 2020 ([[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên n
 | | Không đẩy | [[pp:cay-cau-day-nguoi.khong-day]] |
 | | Khác | [[pp:cay-cau-day-nguoi.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lý thuyết cùng lúc nên tổng vượt 100%.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lý thuyết cùng lúc nên tổng vượt 100%.
 
 Đọc bảng này thế nào?
 
@@ -187,4 +187,4 @@ Gợi ý độ dài: 150–300 chữ.
 4. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 5. Kant, Immanuel (1785), *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*).
 6. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

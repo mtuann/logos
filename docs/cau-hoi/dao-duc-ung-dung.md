@@ -118,7 +118,7 @@ Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số l
 | | Thuần chay (không cả hai) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.thuan-chay-khong-ca-hai]] |
 | | Khác | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Đọc bảng này thế nào?
 
@@ -195,4 +195,4 @@ Gợi ý độ dài: 150–300 chữ.
 3. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
 4. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
 5. MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về "vị tha hiệu quả").
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

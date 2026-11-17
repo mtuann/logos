@@ -203,4 +203,4 @@ Gợi ý độ dài: 150–300 chữ.
 4. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
 5. Feldman, Fred (1992), *Confrontations with the Reaper: A Philosophical Study of the Nature and Value of Death*, New York: Oxford University Press — bênh vực lập luận tước đoạt (bối cảnh thêm).
 6. Williams, Bernard (1973), "The Makropulos Case: Reflections on the Tedium of Immortality", trong *Problems of the Self*, Cambridge: Cambridge University Press.
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

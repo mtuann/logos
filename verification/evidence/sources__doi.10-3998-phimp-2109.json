@@ -1,8 +1,8 @@
 {
   "unit": "sources/doi.10-3998-phimp-2109",
-  "hash": "sha256:301eca745993f1f7eac8f443d495e7b0251bf1a42b41832898f9633114060829",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r33",
+  "hash": "sha256:0a973ed4728fe544db0a92358eb72c2adac43cce80b90c4e7e6435bb305460e8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-r33 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Bourget & Chalmers, tên bài",
@@ -27,13 +27,18 @@
       ]
     },
     {
-      "text": "Philosophers' Imprint 23 (11), 2023",
+      "text": "Philosophers' Imprint 23, bài số 11, 2023",
       "kind": "du-kien",
       "verdict": "dung",
+      "fixed": true,
       "sources": [
         {
-          "url": "https://philarchive.org/rec/BOUPOP-3",
-          "quote": "Philosophers' Imprint 23 (11) (2023)."
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Issue Volume 23 • 2023 Identifiers DOI: https://doi.org/10.3998/phimp.2109 Publication details Pages: 1–53 Article Number: 11"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "\"volume\":\"23\"; \"issue\":\"1\""
         }
       ]
     },
@@ -50,5 +55,5 @@
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r33): trang survey2020.philpeople.org mở được, đúng khảo sát. Crossref ghi issue '1', PhilArchive ghi '23 (11)'; nên thống nhất \"Philosophers' Imprint 23 (11)\". SEP moral-particularism (trong also) chưa mở; thuộc kiểm riêng mục SEP."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r33): trang survey2020.philpeople.org mở được, đúng khảo sát. Crossref ghi issue '1', PhilArchive ghi '23 (11)'; nên thống nhất \"Philosophers' Imprint 23 (11)\". SEP moral-particularism (trong also) chưa mở; thuộc kiểm riêng mục SEP. [doi-loi] Cách ghi '23 (11)' dễ đọc thành số kỳ 11 (Crossref ghi issue 1; trang nhà xuất bản ghi Volume 23, Article Number: 11) → đổi thành '23, bài số 11' ở mọi trang dùng nguồn này (viec-cho 2026-11-17, gợi ý kiểm 5.4)."
 }

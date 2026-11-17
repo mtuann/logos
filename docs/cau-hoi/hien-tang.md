@@ -182,4 +182,4 @@ Gợi ý độ dài: 250–400 chữ.
 3. Omelianchuk, Adam & David DeGrazia, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
 4. Johnson, Eric J. & Daniel Goldstein (2003), "Do Defaults Save Lives?", *Science* 302 (5649): 1338–1339. <https://doi.org/10.1126/science.1091721>
 5. Fabre, John, Paul Murphy & Rafael Matesanz (2010), "Presumed consent: a distraction in the quest for increasing rates of organ donation", *BMJ* 341: c4973. <https://doi.org/10.1136/bmj.c4973>
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

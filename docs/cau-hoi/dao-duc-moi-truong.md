@@ -104,7 +104,7 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về chủ đề 
 | | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
 | | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1–2. Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lựa chọn cùng lúc nên tổng vượt 100%.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1–2. Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lựa chọn cùng lúc nên tổng vượt 100%.
 
 Đọc bảng này thế nào?
 
@@ -176,5 +176,5 @@ Gợi ý độ dài: 200–350 chữ.
 5. Taylor, Paul W. (1986), *Respect for Nature: A Theory of Environmental Ethics*, Princeton: Princeton University Press.
 6. Regan, Tom (1983), *The Case for Animal Rights*, Berkeley: University of California Press.
 7. Routley, Richard (1973), "Is There a Need for a New, an Environmental Ethic?", *Proceedings of the XVth World Congress of Philosophy* 1: 205–210.
-8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
