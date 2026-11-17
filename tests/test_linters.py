@@ -196,13 +196,14 @@ class TestLintVolatile(unittest.TestCase):
 
 class TestLintStructure(unittest.TestCase):
     def test_baseline_missing_sections(self):
-        """Khớp verification/bao-cao-nen.md mục 5 (hai trang thiếu mục)."""
+        """Báo cáo nền (verification/bao-cao-nen.md mục 5) có hai trang; đợt 5.4: mục "Đọc từng đoạn (diễn ý)"
+        của Sartre được nhận, còn luan-cu-thep (5.5)."""
         got = sorted((f.page, f.found) for f in lint_structure.collect() if f.rule == "thieu-muc")
-        self.assertEqual(got, [("cong-cu/luan-cu-thep.md", "Bài tập"), ("cong-cu/luan-cu-thep.md", "Tự kiểm tra"),
-                               ("doc/sartre-hien-sinh.md", "Đọc từng đoạn")])
+        self.assertEqual(got, [("cong-cu/luan-cu-thep.md", "Bài tập"), ("cong-cu/luan-cu-thep.md", "Tự kiểm tra")])
 
     def test_norm_heading(self):
         self.assertEqual(lint_structure.norm_heading("Câu hỏi thật sự là gì? {#cau-hoi}"), "câu hỏi thật sự là gì")
+        self.assertEqual(lint_structure.norm_heading("Đọc từng đoạn (diễn ý) {#doc-tung-doan-dien-y}"), "đọc từng đoạn")
 
 
 class TestReports(unittest.TestCase):
