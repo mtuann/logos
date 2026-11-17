@@ -15834,7 +15834,7 @@ Năm 1641, [René Descartes](../triet-gia/descartes.md) (1596–1650) xuất b�
 Hai suy niệm đầu là phần nổi tiếng nhất, chứa lập luận mà hầu như ai cũng từng nghe qua dưới dạng "Tôi tư duy, vậy tôi hiện hữu", dù đúng câu chữ ấy không có trong *Suy niệm*.
 
 !!! info "Về văn bản này"
-    - **Tác giả:** René Descartes. Sách in bằng tiếng Latin năm 1641 (tái bản 1642), kèm bảy bộ phản bác của các học giả đương thời và lời đáp của ông; bản tiếng Pháp ra năm 1647.
+    - **Tác giả:** René Descartes. Sách in bằng tiếng Latin năm 1641, kèm sáu bộ phản bác của các học giả đương thời và lời đáp của ông (bản in lần hai năm 1642 thêm bộ thứ bảy); bản tiếng Pháp ra năm 1647.
     - **Độ dài:** Suy niệm I–II chỉ chừng 17 trang trong ấn bản Adam–Tannery (AT 7:17–34).
     - **Đọc toàn văn:** bản dịch của John Veitch trên [Wikisource](https://en.wikisource.org/wiki/Meditations_on_First_Philosophy).
     - **Bản dịch được trích:** John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). Chữ trong ngoặc vuông là phần Veitch thêm từ bản tiếng Pháp.
@@ -16075,7 +16075,7 @@ Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định 
 
 **1. Kant: nhân quả là khuôn của tâm trí.** [Kant](../triet-gia/kant.md) kể rằng ký ức về Hume đã "cắt ngang giấc ngủ giáo điều" của ông (*Prolegomena*, 1783). Theo Kant, nhân quả là một phạm trù tâm trí áp lên mọi kinh nghiệm, nên ta biết *tiên nghiệm* (*a priori*) rằng mọi biến cố đều có nguyên nhân.
 
-*Cách đáp lại:* nguyên tắc chung ấy không cho biết quy luật *cụ thể* nào (bánh mì nuôi người) còn đúng ngày mai; phần đông giới nghiên cứu Kant thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm.
+*Cách đáp lại:* nguyên tắc chung ấy không cho biết quy luật *cụ thể* nào (bánh mì nuôi người) còn đúng ngày mai; phần đông các nhà bình luận Kant viết bằng tiếng Anh ở thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm.
 
 **2. Quy nạp tự biện minh được.** Một số triết gia theo **ngoại tại luận** (*externalism*) cho rằng dùng quy nạp để kiểm tra quy nạp chỉ là "vòng tròn quy tắc", không phải vòng tròn tiền đề: nếu quy tắc thật sự đáng tin, niềm tin rút ra từ nó vẫn được biện minh.
 
@@ -16979,7 +16979,7 @@ Thử xem bạn nắm được đến đâu.
     - **Độ dài:** 10 quyển; quyển I–II chừng 16 trang Bekker (1094a–1109b). Số như "1098a18" là trang, cột, dòng của ấn bản Bekker (1831), mọi bản dịch đều ghi.
     - **Bản gốc:** tiếng Hy Lạp cổ.
     - **Đọc toàn văn:** bản Ross trên [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.html); bản Hy Lạp có số Bekker trên [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053).
-    - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, bản sửa năm 1925; Ross mất năm 1971).
+    - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, 1925; Ross mất năm 1971).
     - **Thời gian đọc:** các đoạn chọn khoảng 25 phút; trọn quyển I–II khoảng hai giờ.
 
 ## Bối cảnh
