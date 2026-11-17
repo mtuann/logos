@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-046",
+  "hash": "sha256:06686f41e215a581d77d9a40282ea5a7fe935d2d5f2548158646b24c6911b95e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: post-hoc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "options: sunk-cost, hasty-generalization, post-hoc, none; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Doanh số tháng 12 năm nào cũng tăng chừng ấy, nên mức tăng năm nay hoàn toàn có thể không liên quan đến khóa học. Trưởng phòng gán nhân quả chỉ dựa vào trình tự thời gian.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Trưởng phòng không khái quát từ một mẫu nhỏ ra tổng thể; lỗi là bỏ qua nguyên nhân theo mùa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP, phần Mill"
+        }
+      ]
+    },
+    {
+      "text": "why_not.sunk-cost: Không ai đòi tiếp tục vì tiếc khoản đã chi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Lập luận sẽ hợp lý nếu so với cùng kỳ năm trước, hoặc so với một nhóm nhân viên chưa học, và vẫn thấy mức tăng vượt trội.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

@@ -1,0 +1,98 @@
+{
+  "unit": "fallacies/f-058",
+  "hash": "sha256:7b6c5560d6ff327001e93c0b9415397bb2cd69b91acf3de2fe2d7789f265bf9a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: none",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "options: none, post-hoc, appeal-emotion, slippery-slope; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Mỗi mắt xích trong chuỗi đều có cơ chế y học rõ ràng và được ghi nhận nhiều. Bác sĩ dùng chữ “có thể”, không nói chắc chắn. Đây là một cảnh báo có cơ sở, không phải dốc trơn trượt.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Dốc trơn trượt là chuỗi hệ quả không có lý do; ở đây từng bước đều có cơ chế và bằng chứng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Kết cục đáng sợ, nhưng nó là thông tin thật về rủi ro, đi kèm lý do, chứ không thay thế lý do.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "mục Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Bác sĩ không suy nhân quả từ trình tự thời gian của hai sự kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Mỗi mắt xích trong chuỗi đều có cơ chế y học rõ ràng và được ghi nhận nhiều (tiểu đường, vết thương lâu lành, nhiễm trùng, cắt cụt)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+          "quote": "The infection might lead to gangrene . Gangrene and foot ulcers that do not get better with treatment can lead to an amputation of your toe, foot, or part of your leg.",
+          "where": "Foot problems"
+        },
+        {
+          "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/foot-problems",
+          "quote": "Not having enough blood flowing to your legs and feet can make it hard for a sore or an infection to heal."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đoạn khớp dạng lập luận trơn trượt có cơ sở (IEP: dạng này xuất hiện cả ở lập luận tốt lẫn xấu); đáp án none hợp lý."
+}

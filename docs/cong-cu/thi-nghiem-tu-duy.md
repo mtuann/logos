@@ -106,7 +106,7 @@ Một thí nghiệm trung thực mời bạn suy nghĩ; một thí nghiệm bị
 
 Thí nghiệm tư duy bắt đầu từ trực giác, nhưng không kết thúc ở đó — vì trực giác có thể sai.
 
-Trực giác vật lý từng sai một cách ngoạn mục: gần hai nghìn năm, theo [Aristotle](../triet-gia/aristotle.md), người ta "thấy rõ" vật nặng rơi nhanh hơn vật nhẹ, cho đến khi Galileo chứng minh ngược lại — và một trong những lập luận nổi tiếng nhất của ông lại chính là một thí nghiệm tư duy: buộc vật nặng vào vật nhẹ, thì theo Aristotle khối ghép phải rơi vừa chậm hơn vừa nhanh hơn vật nặng, một mâu thuẫn. Trực giác đạo đức cũng có thể sai theo cách tương tự: nó được đúc từ tiến hóa, văn hóa, thói quen — những thứ không phải lúc nào cũng đáng tin.
+Trực giác vật lý từng sai một cách ngoạn mục: suốt nhiều thế kỷ, theo [Aristotle](../triet-gia/aristotle.md), người ta "thấy rõ" vật nặng rơi nhanh hơn vật nhẹ (Philoponus đã phản bác từ thế kỷ 6), cho đến khi Galileo chứng minh ngược lại — và một trong những lập luận nổi tiếng nhất của ông lại chính là một thí nghiệm tư duy: buộc vật nặng vào vật nhẹ, thì theo Aristotle khối ghép phải rơi vừa chậm hơn vừa nhanh hơn vật nặng, một mâu thuẫn. Trực giác đạo đức cũng có thể sai theo cách tương tự: nó được đúc từ tiến hóa, văn hóa, thói quen — những thứ không phải lúc nào cũng đáng tin.
 
 Hơn nữa, trực giác không trung lập về văn hóa. Với những tình huống kiểu xe điện, người ở các nền văn hóa khác nhau trả lời khác nhau: thí nghiệm Moral Machine — khảo sát trực tuyến hàng triệu người về các quyết định đạo đức của xe tự lái, công bố trên *Nature* năm 2018 — cho thấy khác biệt rõ rệt giữa các vùng miền. Trực giác của bạn, một phần, là "trực giác của nền văn hóa bạn lớn lên trong đó".
 
@@ -137,7 +137,7 @@ Vậy nên: hãy coi trực giác như *dữ liệu*, không phải *phán quy�
 **Bài 5.** Đọc lại tình huống "tên khủng bố gài bom" trong mục "Khi thí nghiệm bị dàn dựng". Liệt kê ba giả định chưa kiểm chứng của nó, rồi đề xuất một lựa chọn thứ ba mà tình huống cố tình giấu đi.
 
 ??? success "Xem gợi ý đáp án"
-    Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (thực tế người bị tra tấn thường khai bừa để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
+    Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (những người phản đối tra tấn lập luận rằng người bị tra tấn thường khai bất cứ điều gì để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
 
 ## Tự kiểm tra {#tu-kiem-tra}
 

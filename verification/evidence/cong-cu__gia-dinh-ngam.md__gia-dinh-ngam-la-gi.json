@@ -1,0 +1,58 @@
+{
+ "unit": "cong-cu/gia-dinh-ngam.md#gia-dinh-ngam-la-gi",
+ "hash": "sha256:fe334cf2fce65cbda55293288a43eef667ad06846e6421e44580915e9add9124",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p07",
+ "claims": [
+  {
+   "text": "Một giả định ngầm (hidden assumption hoặc unstated premise) là một tiền đề mà lập luận cần đến để đi tới kết luận, nhưng người lập luận không nói ra",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "an argument’s dependence on premises and conclusions which are not explicitly stated",
+     "where": "mục 3.1 Implicit Premises and Conclusions"
+    },
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "an argument which is presented with at least one component that is suppressed",
+     "where": "IEP Argument (McKeon), định nghĩa enthymeme: 'suppressed premise'"
+    }
+   ]
+  },
+  {
+   "text": "Khung P1-P4, K cho câu của bà ngoại (tái dựng tự soạn, hợp lệ khi thêm P3, P4)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Recognizing an argument’s implicit premises prepares the way for argument evaluation",
+     "where": "mục 3.1"
+    }
+   ]
+  },
+  {
+   "text": "Giả định ngầm nguy hiểm vì không được nói ra, đi vào đầu người nghe không qua kiểm tra; ví dụ 'học khối A mà đòi làm nhà văn'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Recognizing an argument’s implicit premises prepares the way for argument evaluation",
+     "where": "mục 3.1: tiền đề ngầm cũng phải được đánh giá như tiền đề tường minh"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ví dụ tự soạn; thuật ngữ hidden assumption/unstated premise dùng khớp bảng thuật ngữ (giả định ngầm); IEP Argument dùng 'suppressed premise'."
+}

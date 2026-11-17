@@ -1,0 +1,61 @@
+{
+ "unit": "lap-luan/sodo-07",
+ "hash": "sha256:f7d92559b1a0f39eebbb0ae34648da8181ef520cfab6d8107761a6c36ad5e729",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
+ "claims": [
+  {
+   "text": "dap_an: c4 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 là tien-de, ho_tro [c4]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c5 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "c5: \"Quán phở đầu ngõ mở cửa từ năm giờ sáng.\" (dap_an: khong-lien-quan)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "vua",
+   "fix": "Đổi c5 thành câu rõ ràng lạc đề (vd \"Hôm qua đội bóng của khu phố thắng trận.\") hoặc thêm ghi_chu_tranh_cai: \"c5 có thể đọc là điều kiện thuận tiện để có bữa sáng (giống c3); trong mạch này nó không được đưa ra làm lý do nên tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\"",
+   "fixed": true
+  }
+ ],
+ "result": "dat",
+ "notes": "Kiểm lại: c5 đã đổi thành \"Quán phở đầu ngõ vừa đổi chủ.\", câu lạc đề rõ, không còn đọc được là điều kiện thuận tiện cho bữa sáng; gỡ được lỗi chấm cứng."
+}

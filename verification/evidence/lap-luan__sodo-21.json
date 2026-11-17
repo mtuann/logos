@@ -1,0 +1,81 @@
+{
+  "unit": "lap-luan/sodo-21",
+  "hash": "sha256:76304470a6ac1689bbd5efa25a44aaf1a95658a6a8a3cb4603fa5c2886ebbbdc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-l02 + agent-kiem-5.5-k01",
+  "claims": [
+    {
+      "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "a claim-reason complex",
+          "where": "SEP Informal Logic: định nghĩa lập luận (tiền đề, kết luận, suy luận)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "SEP Informal Logic: phần Standardization, bỏ phần không đóng vai trò trong lập luận"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c6 'Người dân ... sẽ chịu bỏ tiền uống cà phê quán thay vì pha ở nhà' là tiền đề ngầm cần có để đi từ c1-c3 đến c5",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Arguments with implicit premises or conclusions are recognized in traditional discussions of enthymemes",
+          "where": "SEP Informal Logic"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed",
+          "where": "IEP Argument"
+        }
+      ]
+    },
+    {
+      "text": "ho_tro: các tiền đề cùng hướng về kết luận (vẽ thành các mũi tên riêng, theo cách đọc hội tụ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "supported by three independent",
+          "where": "SEP Informal Logic, Example 10"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "they support the conclusion jointly",
+          "where": "IEP Argument, linked vs convergent"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c4 'Tôi rất thích mùi cà phê rang xay buổi sáng.' có vai trò khong-lien-quan (và không có trong ghi_chu_tranh_cai)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Thay nd của c4 bằng một câu thật sự không liên quan, ví dụ \"Quán bún chả đầu ngõ vừa đổi biển hiệu mới.\" (giữ vai_tro khong-lien-quan). Hoặc thêm ghi_chu_tranh_cai: \"c4 là động cơ cá nhân, có thể đọc như tiền đề yếu; công cụ này không chấm độ mạnh của lý lẽ.\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "SEP Informal Logic: chỉ bỏ những câu không đóng vai trò trong lập luận"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "an argument is not a function of the syntactic and semantic features",
+          "where": "IEP Argument: tiền đề do ý định của người lập luận dùng làm lý do, nên động cơ cá nhân có thể là tiền đề"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Lý do sai: quyết định mở quán cà phê có thể được người nói nêu lý do là yêu thích cà phê; một người đọc hợp lý gán c4 là tiền đề và bị chấm sai. So với sodo-16 (c4 'ngồi học lý thuyết rất ngán' được chấm là tiền đề) thì cách chấm không nhất quán. Các phần khác ổn: c6 là giả định ngầm hợp lý (nhu cầu mua cà phê quán). Kiểm lại: c4 đã đổi thành \"Quán bún chả đầu ngõ vừa đổi biển hiệu mới.\" đúng fix; lạc đề rõ, gỡ được lỗi chấm cứng."
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-082",
+  "hash": "sha256:824516cd4bc3c08751d2972eec21ff15d66bca795f0ae82b467c91ef3acb7bb3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f05 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "answer: none (hai PCR âm tính, bác sĩ nói \"rất thấp\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It would be proper reasoning only if the proof attempts were quite thorough",
+          "where": "Appeal to Ignorance"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "absence of evidence is not good enough evidence of absence",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-ignorance: \"không tìm thấy\" từ cuộc tìm kiếm đáng tin cậy là bằng chứng thật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It would be proper reasoning only if the proof attempts were quite thorough",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: kết luận chỉ về chị Ngân, dựa trên hai xét nghiệm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+          "where": "Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: kết luận dựa vào kết quả xét nghiệm và người nói là bác sĩ đúng chuyên môn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Xét nghiệm PCR là phương pháp tìm kiếm đủ mạnh, lại làm hai lần",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:6653685&metadataPrefix=pmc",
+          "quote": "reduce unnecessary antiviral therapy if a highly sensitive influenza test (eg, molecular assay) does not confirm influenza",
+          "where": "Uyeki và cộng sự 2019, IDSA Clinical Practice Guidelines (Clin Infect Dis 68(6):e1–e47, doi 10.1093/cid/ciy866, PMC6653685)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Phần logic đúng theo IEP (suy từ không tìm thấy hợp lệ khi tìm kiếm thật kỹ). Câu thực tế \"PCR là phương pháp đủ mạnh\" chưa mở được nguồn y khoa (thử https://www.cdc.gov/flu/hcp/testing-methods/index.html, molecular-assays.html, rt-pcr.html: trang rỗng/chuyển hướng). Không có phương án tranh chấp. Lượt 2: claim #4 giải quyết bằng hướng dẫn IDSA 2018 (xét nghiệm phân tử, như RT-PCR, độ nhạy cao; âm tính giúp tránh dùng thuốc kháng virus không cần thiết)."
+}

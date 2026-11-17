@@ -69,7 +69,7 @@ Bước 4. THÊM GIẢ ĐỊNH NGẦM  Thêm tiền đề TỐI THIỂU để l�
 Bước 5. ĐÁNH GIÁ            Giả định vừa thêm có đúng không? Có quá mạnh không?
 ```
 
-Bước 4 cần giải thích thêm. "Tối thiểu" nghĩa là: thêm vừa đủ để kết luận theo sau từ tiền đề, không thêm những tuyên bố mạnh hơn mức cần. Tại sao lại nhắm đến tính [hợp lệ](suy-dien.md)? Vì khi lập luận đã hợp lệ, mọi điểm yếu buộc phải lộ ra ở tiền đề, nơi ta có thể chỉ tay vào và hỏi "điều này có đúng không?".
+Bước 4 cần giải thích thêm. "Tối thiểu" nghĩa là: thêm vừa đủ để kết luận theo sau từ tiền đề, không thêm những tuyên bố mạnh hơn mức cần. Tại sao lại nhắm đến tính [hợp lệ](suy-dien.md) (*valid*)? Vì khi lập luận đã hợp lệ, mọi điểm yếu buộc phải lộ ra ở tiền đề, nơi ta có thể chỉ tay vào và hỏi "điều này có đúng không?".
 
 Có một sự giằng co cần để ý. Giả định yếu nhất về mặt logic luôn là câu "nếu [các tiền đề] thì [kết luận]". Nó làm lập luận hợp lệ, nhưng thường chỉ là nhắc lại khoảng trống chứ không lấp nó. Vì thế, theo tinh thần thiện chí, ta thường chọn một nguyên tắc *chung* mà người viết có vẻ thật sự tin, rồi xét xem nguyên tắc đó có quá rộng không.
 
@@ -149,7 +149,7 @@ Mỗi bước là một modus ponens, nên cả chuỗi hợp lệ.
 
 **Bước 5. Đánh giá.**
 
-- **P2** khái quát từ một lần thử duy nhất. Một lần sai không cho biết tỉ lệ sai. Đây là dấu hiệu của [khái quát vội vàng](nguy-bien.md#hasty-generalization).
+- **P2** khái quát từ một lần thử duy nhất. Một lần sai không cho biết tỉ lệ sai. Đây là dấu hiệu của [khái quát vội vàng](nguy-bien.md#hasty-generalization) (*hasty generalization*).
 - **P3** chứa một giả định về thời gian: điều đúng *hiện nay* sẽ còn đúng *về sau*. Nó cũng dựa vào chữ "thay thế" vốn mơ hồ. Thay thế *hoàn toàn* nghề lập trình là một khẳng định rất mạnh; thay thế *một phần* công việc là một khẳng định yếu hơn nhiều. Đọc thiện chí, người viết có lẽ muốn nói "AI chưa thể thay thế hoàn toàn lập trình viên trong vài năm tới". Phiên bản này đáng tin hơn, nhưng khi đó K2 yếu đi, và K3 cũng mất bớt sức nặng.
 - **P4** bỏ qua những rủi ro khác: nhu cầu tuyển dụng có thể giảm ngay cả khi nghề không biến mất.
 
@@ -226,7 +226,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đi tiếp {#di-tiep}
 
-Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng. Những lối tắt quen thuộc ấy là chủ đề của bài cuối trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).
+Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng. Những lối tắt quen thuộc ấy là chủ đề của bài tiếp theo trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).
 
 ## Nguồn {#nguon}
 

@@ -1,0 +1,46 @@
+{
+ "unit": "logic/logic-08",
+ "hash": "sha256:7ac30ea7f93cf9986af846768b00e97c1fb162addf13291f6e373e2ed7924b4c",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02",
+ "claims": [
+  {
+   "text": "dap_an: hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): không có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Disjunctive syllogism (DS):",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich: Tương đương hai chiều: P↔Q đúng và P đúng thì Q bắt buộc đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):",
+     "where": "dạng suy luận qua bicondition (kiểm bằng bảng chân trị)"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề."
+}

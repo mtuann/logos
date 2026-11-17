@@ -1,0 +1,56 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#luot-ba-danh-gia-va-chi-danh-gia-o-luot-ba",
+  "hash": "sha256:8290b3e6d6600900d4b524fcba85ab64a5809754f821c33b0779c1f2fca9e1c3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p09",
+  "claims": [
+    {
+      "text": "Lập luận hợp lệ: tiền đề đúng thì kết luận buộc phải đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "For a valid argument, it is not possible for the premises to be true with the conclusion false."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "it is not possible for its premises to all be true and its conclusion false",
+          "where": "mục 4"
+        }
+      ]
+    },
+    {
+      "text": "Hợp lệ mà tiền đề sai thì chưa đủ (khác với vững chắc)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+          "quote": "the longstanding view that a valid argument is truth-preserving",
+          "where": "Introduction: hợp lệ chỉ bảo toàn chân trị, không bảo đảm tiền đề đúng"
+        }
+      ]
+    },
+    {
+      "text": "Giả định ngầm: điều tác giả cho là hiển nhiên mà không nói ra",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "'hợp lệ', 'giả định ngầm' đúng bảng thuật ngữ; lần đầu 'giả định ngầm' ở mục này chưa kèm English term (hidden assumption); chỉ là nhẹ, không ghi lỗi. 'Hiểu trước, phán sau' là lời khuyên, không gán cho ai."
+}

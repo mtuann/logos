@@ -1,0 +1,77 @@
+{
+ "unit": "cong-cu/lap-luan-la-gi.md#tu-kiem-tra",
+ "hash": "sha256:b844c14f05133b0da7e68c1ccc0e05100117a92830911e7d2e40176914800237",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
+ "claims": [
+  {
+   "text": "Quiz 1: đáp án 2 'Hôm nay anh ấy ốm'; 'vì' đánh dấu tiền đề",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "words like \"for,\" \"given that,\" \"since,\" are ways of introducing premises, while words like \"so,\" \"hence,\" \"thus,\" \"therefore,\" are used to introduce conclusions",
+     "where": "Section 3"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 2: đáp án 0 'Nồi cơm bị khê vì tôi quên rút điện' là lời giải thích; ba câu còn lại là lập luận (mất điện/đèn tắt; học ngoại ngữ; xe đậu trước cửa)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "may indicate an explanation rather than an argument",
+     "where": "Section 3; tự kiểm: ba phương án nhiễu đều dùng lý do để ủng hộ điều chưa chắc, không phương án nào cũng là giải thích"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 3: đáp án 2 'Nếu giá xăng tăng thì giá rau cũng tăng' là một khẳng định duy nhất dạng điều kiện",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "roughly corresponds to \"if … then … \", so … can be read \"if … then",
+     "where": "SEP Classical Logic"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 4: đáp án 1 dạng chuẩn tách câu hỏi tiền đề đúng với câu hỏi tiền đề ủng hộ kết luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "\"acceptable\" premises and a \"valid\" inference",
+     "where": "Section 4.1"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 5: đáp án 2 độ tốt của lập luận phụ thuộc tiền đề và mối nối, không phụ thuộc việc thuyết phục",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a valid argument with true premises",
+     "where": "Section 4.1: sound; 'acceptable premises + valid inference'"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Đã kiểm 5 câu quiz: đáp án đúng (2,0,2,1,2), phương án nhiễu thật sự sai, lời giải thích đúng. Q2: phương án 'Anh ấy hẳn đã về nhà, vì xe đậu trước cửa' đúng là lập luận (suy diễn). Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
+}

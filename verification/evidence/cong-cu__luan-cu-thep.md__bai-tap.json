@@ -1,0 +1,95 @@
+{
+  "unit": "cong-cu/luan-cu-thep.md#bai-tap",
+  "hash": "sha256:cdb4bcf5a27ace4d7871b47ec243d326e27e3b445df7ef4e2ca566b131595c72",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p15",
+  "claims": [
+    {
+      "text": "Bài 1: Hùng đáp \"Vậy là bạn muốn học sinh bị cắt đứt với gia đình cả ngày à?\" là người rơm; Lan chỉ nói về giờ ra chơi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute",
+          "where": "mục Fallacies of relevance / ignoratio elenchi (straw man)"
+        }
+      ]
+    },
+    {
+      "text": "Bài 1 (gợi ý đáp án): câu đáp kiểu luận cứ thép nêu lại ý của Lan, thừa nhận điều có lý, rồi mới nêu băn khoăn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "You should list any points of agreement"
+        },
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "Only then are you permitted to say so much as a word of rebuttal or criticism"
+        }
+      ]
+    },
+    {
+      "text": "Bài 2: viết lập trường mình không đồng ý sao cho người ủng hộ gật đầu; tiêu chí tự đánh giá (đúng điều họ nói, nêu lý do mạnh nhất, chữ trung tính, để người ủng hộ đọc thử)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3: \"Ai phản đối tăng học phí thì chỉ muốn học không mất tiền\" gán động cơ ích kỷ, vừa là người rơm vừa gần với công kích cá nhân (chê động cơ của người nói thay vì xét lập luận)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "An irrelevant appeal to the motives of the arguer, and supposing that this revelation of their motives will thereby undermine their reasoning. A kind of Ad Hominem Fallacy",
+          "where": "mục Faulty Motives"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute",
+          "where": "mục Fallacies of relevance / ignoratio elenchi (straw man)"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3: lý do mạnh hơn là học phí cao có thể khiến sinh viên nhà nghèo bỏ học dù học giỏi, và có thể bị phản bác bằng học bổng hay khoản vay (lập luận do site soạn, không khẳng định số liệu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute",
+          "where": "mục Fallacies of relevance / ignoratio elenchi (straw man)"
+        }
+      ]
+    },
+    {
+      "text": "Bài 4: bằng chứng sẽ làm đổi ý phải cụ thể, kiểm tra được, ví dụ nghiên cứu theo dõi cùng một nhóm nhiều năm có tính đến các yếu tố khác; \"Không gì có thể làm tôi đổi ý\" là giữ niềm tin bất kể lý lẽ (dạng nghiên cứu dọc là phương pháp chuẩn, câu viết dạng giả định)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "Only then are you permitted to say so much as a word of rebuttal or criticism"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đáp án gợi ý và tiêu chí hợp lý, không có đáp án sai. Bài 3 chỉ nói \"gần với\" công kích cá nhân nên không quá lời; IEP xếp \"Faulty Motives\" là một dạng ad hominem, khớp. Không kiểm số liệu vì bài không nêu số."
+}

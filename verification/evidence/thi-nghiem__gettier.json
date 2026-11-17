@@ -1,0 +1,124 @@
+{
+  "unit": "thi-nghiem/gettier",
+  "hash": "sha256:75f3d1da7c8d7106d7b9d46653263d4b457ce867e8a40e9ac5a509ad8f82e221",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03 + agent-kiem-5.5-r02",
+  "claims": [
+    {
+      "text": "nguon: Gettier (1963)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "Edmund L. Gettier … from Analysis 23 … 1963): 121-123",
+          "where": "Header"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, Analysis … 23(6): 121–123",
+          "where": "Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "hoan_canh: Smith, Jones, việc làm, 10 đồng xu; giám đốc nói Jones được nhận; Smith đếm xu của Jones; thực ra Smith được nhận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "the president of the company assured him that Jones would in the end be selected ... he, Smith, had counted the coins in Jones's pocket ten minutes ago",
+          "where": "Case I"
+        },
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "But imagine, further, that unknown to Smith, he himself, not Jones, will get the job.",
+          "where": "Case I"
+        },
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "Proposition (d) entails: … The man who will get the job has ten coins in his pocket.",
+          "where": "Case I"
+        }
+      ]
+    },
+    {
+      "text": "kết luận Gettier: Smith không biết (e); JTB chưa đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ditext.com/gettier/gettier.html",
+          "quote": "But it is equally clear that Smith does not know that (e) is true.",
+          "where": "Case I"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "it is widely accepted that they are not themselves sufficient",
+          "where": "Gettier"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Weinberg, Nichols & Stich (2001); nhiều người Đông Á và Nam Á nói \"Smith biết\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/experimental-philosophy/",
+          "quote": "perhaps with the work of Weinberg, Nichols, and Stich (2001), which offers an articulation of what came to be known as the negative program",
+          "where": "Section 1"
+        },
+        {
+          "url": "https://home.csulb.edu/~cwallis/382/readings/382/NEIPT.html",
+          "quote": "But amongst EAs this pattern is actually reversed … A majority of EAs say that Bob really knows. … It turns out that the epistemic intuitions of SCs are even more different from the intuitions of Ws than the intuitions of EAs are.",
+          "where": "Section 3.3.2–3.3.3"
+        },
+        {
+          "url": "https://home.csulb.edu/~cwallis/382/readings/382/NEIPT.html",
+          "quote": "Weinberg, J., Nichols, S. and Stich, S. 2001. Normativity and Epistemic Intuitions, Philosophical Topics, 29, 429-460.",
+          "where": "Header"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Machery và cộng sự, \"Gettier Across Cultures\" (Noûs, 2017); trực giác Gettier khá phổ biến ở Brazil, Ấn Độ, Nhật Bản, Mỹ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/nous.12110",
+          "quote": "in four different cultural groups that speak quite different languages (Brazil, India, Japan, and the USA) there are cases of justified true beliefs that are not judged to be cases of knowledge … \"page\":\"645-664\" … \"title\":[\"Gettier Across Cultures … \"volume\":\"51\"",
+          "where": "Crossref metadata (abstract, page, volume); published-print 2017-09"
+        }
+      ]
+    },
+    {
+      "text": "phan_bien b: Williamson, tri thức là trước nhất, không phân tích được",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Proponents of the so-called “knowledge first” project, championed especially by Timothy Williamson’s 2000 book Knowledge and Its Limits … typically suppose that the project of analyzing knowledge was a mistake.",
+          "where": "Section 11"
+        }
+      ]
+    },
+    {
+      "text": "lua_chon a: Bảo vệ định nghĩa JTB; b: Gettier: JTB chưa đủ; tri thức không thể là chuyện may mắn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "A lesson of the Gettier problem is that it appears that even true beliefs that are justified can nevertheless be epistemically lucky in a way inconsistent with knowledge.",
+          "where": "Section 3"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Machery và cộng sự: DOI ghi online 2015, in 2017 (Noûs 51(3)); bài dùng \"2017\" là năm số in, chấp nhận được. Nội dung Machery lấy từ Crossref (không mở được Wiley 403, PhilPapers 403), nên mức xác nhận là phần tóm tắt. Phép đối chiếu Weinberg: chữ trong bài gốc (home.csulb.edu) là mẫu Buick (Bob/Jill), không phải ví dụ 10 đồng xu; nhận định \"người Đông Á/Nam Á nói biết\" khớp số liệu (13/10 và 14/9). Bài của site đúng khi ghi đây là nghiên cứu năm 2001; lưu ý Seyedsayamdost (2015) không tái lập kết quả, bài không nhắc (không bắt buộc). Lượt 2: thay quote bằng nguyên văn trang (ditext Gettier 1963, SEP Analysis of Knowledge mục 3, 11 và thư mục, SEP Experimental Philosophy, bản HTML Weinberg–Nichols–Stich 2001 trên csulb.edu, metadata Crossref cho Machery et al.)."
+}

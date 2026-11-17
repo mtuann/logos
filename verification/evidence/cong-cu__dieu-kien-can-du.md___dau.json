@@ -1,0 +1,41 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#_dau",
+  "hash": "sha256:27a460eb7482106ff2694f7ae6d9b87e902aff04bafe258d02a064c367882e7d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
+  "claims": [
+    {
+      "text": "Vé là điều kiện cần để xem phim: không vé thì chắc chắn không xem. Nhưng vé chưa đủ: còn cần đến đúng giờ, rạp còn chỗ, phim chưa chiếu xong",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
+          "where": "von Wright interdefinitions"
+        }
+      ]
+    },
+    {
+      "text": "Nhầm 'cần' thành 'đủ' là nhầm lẫn đứng sau nhiều lập luận hỏng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "in some contexts there is a lack of reciprocity between necessary and sufficient conditions",
+          "where": "Mục về chiều ngược (converse)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mở bài bằng ví dụ tự soạn (Minh, vé xem phim); phần phân tích cần/đủ khớp SEP (Brennan) và logic của điều kiện vật chất. Lượt 2: thay 1 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
+}

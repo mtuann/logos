@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-001",
+  "hash": "sha256:21742a276327479dd7d97e7da3fd85e48507bc5787ca040d99ea436b8d5fdedb",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: ad-hominem",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing.",
+          "where": "mục 13"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Người trả lời gạt số liệu đi vì hoàn cảnh riêng của người chia sẻ. Số liệu do Sở Giáo dục công bố, nên con chị Hằng học trường nào không làm nó đúng hơn hay sai đi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing.",
+          "where": "mục 13"
+        }
+      ]
+    },
+    {
+      "text": "why_not.genetic: Số liệu không bị bác bỏ vì nguồn gốc của nó (nguồn là Sở Giáo dục); thứ bị nhắm vào là hoàn cảnh của người chia sẻ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant",
+          "where": "mục Genetic"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Chị Hằng dẫn số liệu chính thức đúng lĩnh vực; người phản bác cũng không dựa vào thẩm quyền nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the fallacy involves accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority",
+          "where": "mục 9"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có kết luận chung nào được rút từ vài trường hợp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+          "where": "mục Hasty Generalization"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng (công kích cá nhân kiểu hoàn cảnh: SEP mục 13 nói \"negative aspects of an arguer, or their situation\"). genetic không hợp lý vì nguồn số liệu (Sở Giáo dục) không bị chê."
+}

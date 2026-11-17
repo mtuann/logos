@@ -1,0 +1,86 @@
+{
+  "unit": "thi-nghiem/cau-cau",
+  "hash": "sha256:5992d797f4af622e03a1975ebb82a145906bd709a25a4621b676f166bef6abc0",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03 + agent-kiem-5.5-r02",
+  "claims": [
+    {
+      "text": "nguon: Thomson (1976)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "Thomson, Judith Jarvis, 1976 “Killing, Letting Die, and the Trolley Problem,” The Monist",
+          "where": "Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Thomson (1985)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "1985. “The Trolley Problem,” The Yale Law Journal … 94: 1395–1415",
+          "where": "Bibliography"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "examples from Thomson, 1985, based on examples in Foot 1967",
+          "where": "Trolley examples"
+        }
+      ]
+    },
+    {
+      "text": "hoan_canh: người đàn ông to lớn trên cầu; đẩy ông xuống để chặn xe (tình huống Fat Man/footbridge)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "consequentialism will permit (in a case that we shall call, Fat Man) that a fat man be pushed in front of a runaway trolley if his being crushed by the trolley will halt its advance towards five workers trapped on the track",
+          "where": "Section 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "Pushing another bystander onto the track to stop the trolley would be wrong, many believe.",
+          "where": "Trolley examples"
+        }
+      ]
+    },
+    {
+      "text": "so_lieu_khao_sat a: 22.0; b: 56.0",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/cay-cau-day-nguoi"
+    },
+    {
+      "text": "lua_chon a: Hệ quả luận gắn với việc đẩy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "consequentialism will permit (in a case that we shall call, Fat Man) that a fat man be pushed in front of a runaway trolley",
+          "where": "Section 1"
+        }
+      ]
+    },
+    {
+      "text": "lua_chon b: Đẩy một người... là dùng họ thuần túy làm công cụ... ranh giới giữa chuyển hướng mối nguy có sẵn và chủ động tấn công người vô tội (nhãn \"Đạo đức học về quyền cá nhân\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "In Transplant (and Fat Man), the doomed person is used to benefit the others ... In Trolley, on the other hand, the doomed victim is not used",
+          "where": "Section 2.2"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Không mở được toàn văn Thomson 1976/1985 (JSTOR/Yale 403, Vanderbilt PDF không kết nối), nên chỉ xác nhận tên bài, năm, trang và việc SEP ghi các ví dụ là \"from Thomson 1985\"; chưa xác nhận từng bài nào đưa ra chi tiết \"người đàn ông to lớn trên cầu\" lần đầu. Với tư cách nguồn liệt kê thì không sai. Nhãn lập trường b \"Đạo đức học về quyền cá nhân\" không phải tên trường phái chuẩn trong SEP; gần với \"patient-centered deontology\" (nhẹ, không cần sửa). Lượt 2: thay quote bằng nguyên văn SEP (thư mục Double Effect cho Thomson 1976, 1985; Deontological Ethics cho Fat Man); trang OUP Monist không đối chiếu được nên dùng thư mục SEP."
+}

@@ -1,0 +1,52 @@
+{
+  "unit": "cong-cu/luan-cu-thep.md#_dau",
+  "hash": "sha256:7da91c41f77008d792bca9cd005c8306f9d57b82b761809807877c8156fb11db",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "\"người rơm\" (strawman): bóp méo lập trường của đối phương thành một phiên bản yếu ớt, rồi hạ bệ phiên bản đó và tưởng mình đã thắng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse, and then proceed to attack the easily refuted position (the straw man) believing you have thereby undermined the real man",
+          "where": "Straw Man"
+        }
+      ]
+    },
+    {
+      "text": "Luận cứ thép (steelman) là động tác ngược lại: dựng lại lập trường của phe đối lập ở dạng mạnh nhất có thể — rồi mới phản biện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "It favors an interpretation of an argument which makes the argument as credible as possible.",
+          "where": "Principle of Charity"
+        }
+      ]
+    },
+    {
+      "text": "Ví dụ thuế thuốc lá: câu đáp của B kiểu người rơm (\"Vậy là anh muốn người nghèo không được hút thuốc à?!\") và kiểu luận cứ thép",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "attribute an easily refuted position to your opponent, one that the opponent would not endorse"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "\"Luận cứ thép\" là ngoại lệ được phép trong bảng thuật ngữ. Ý \"thuế thuốc lá là thuế lũy thoái\", \"buôn lậu có thể nở rộ\" là lời nhân vật B nêu như mối lo, bài nói rõ \"phản biện của B có thể đúng hoặc sai\", nên không coi là khẳng định của site. SEP/IEP không có mục \"steelman\"; đối chiếu với nguyên tắc diễn giải thiện chí (SEP Informal Logic)."
+}

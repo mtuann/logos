@@ -1,0 +1,69 @@
+{
+ "unit": "fallacies/f-024",
+ "hash": "sha256:e347a1b6c5a5f6498178a0cd0aa85f6f99ccc7a651f8ef1a8efe891e12b8d4a7",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: appeal-authority",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the fallacy involves accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject"
+    }
+   ]
+  },
+  {
+   "text": "options: post-hoc, appeal-popularity không hợp lý; \"none\" không hợp lý vì nha sĩ không có chuyên môn về sốt phát ban ở trẻ (tình huống do site soạn)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject"
+    }
+   ]
+  },
+  {
+   "text": "explanation: viện dẫn một chuyên gia ngoài lĩnh vực là viện dẫn thẩm quyền không phù hợp",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the fallacy involves accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority"
+    }
+   ]
+  },
+  {
+   "text": "why_not.none: Nếu lời khuyên đến từ bác sĩ nhi khoa... thì viện dẫn ấy mới hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-popularity / post-hoc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the fallacy involves accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-015",
+  "hash": "sha256:981561593108ce0d326a72bbf22c83cede94f19cbfaf851508994ed187398199",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: appeal-emotion",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "mục Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Câu hỏi đánh vào cảm giác tội lỗi để thúc người đọc chuyển tiền, trong khi những thông tin cần để quyết định (ai nhận, chi tiêu thế nào) lại vắng mặt.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "mục Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Bài đăng không công kích ai để bác bỏ một lập luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing.",
+          "where": "mục 13"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Bài không viện dẫn việc nhiều người đã ủng hộ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the source appealed to is popular opinion, or common knowledge, rather than a specified authority",
+          "where": "mục 10"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Bài không né câu hỏi nào; nó dùng cảm xúc thay cho thông tin.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Gây quỹ đánh vào cảm giác tội lỗi; IEP liệt kê cảm xúc \"and so forth\" nên tội lỗi nằm trong phạm vi. Không phương án khác hợp lý."
+}

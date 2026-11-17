@@ -1,0 +1,87 @@
+{
+  "unit": "fallacies/f-011",
+  "hash": "sha256:5573fce1acac147c781d73b40be4570bde98ff18e91aab94d6d382bf964e1544",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: affirming-consequent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "your reasoning contains the Fallacy of Affirming the Consequent",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Sốt có thể do rất nhiều bệnh khác. Từ “nếu cúm thì sốt” và “đang sốt” không suy ra được “bị cúm”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "your reasoning contains the Fallacy of Affirming the Consequent",
+          "where": "mục Affirming the Consequent"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.denying-antecedent: Chị không nói “không cúm nên không sốt”; chị suy ngược từ hậu kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Không có hai sự kiện nối tiếp nào bị coi là nhân quả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "hastily leap to the conclusion that A caused B",
+          "where": "mục Post Hoc"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-ignorance: Chị không dựa vào việc chưa chứng minh được điều gì.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Not knowing that a statement is false is taken to be a proof that it is true.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Sốt có thể do rất nhiều bệnh khác.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://medlineplus.gov/ency/article/003090.htm",
+          "quote": "Almost any infection can cause a fever",
+          "where": "Causes"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "AC kinh điển (nếu cúm thì sốt; sốt; vậy cúm). Câu \"sốt có thể do rất nhiều bệnh khác\" kiểm bằng MedlinePlus."
+}

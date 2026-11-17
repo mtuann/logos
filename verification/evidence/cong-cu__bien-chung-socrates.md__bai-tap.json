@@ -1,0 +1,85 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#bai-tap",
+  "hash": "sha256:283181b94a55c15eb97b7fd026e1fa448334c02690310dee45daadadd79eaa6f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-k03",
+  "claims": [
+    {
+      "text": "Bài 1 (gợi ý): \"học giỏi = thuộc nhiều\"; phản ví dụ học sinh thuộc lòng nhưng không giải nổi bài vận dụng (theo định nghĩa \"giỏi\", trực giác không), hoặc bạn không thuộc định nghĩa nhưng hiểu bản chất làm bài xuất sắc (định nghĩa quá rộng/hẹp); định nghĩa mới \"hiểu sâu và dùng được\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "too wide and include unwanted characteristics or subsets, or too narrow so that they exclude essential characteristics",
+          "where": "SEP Plato's Ethics 2.1: phản ví dụ chỉ ra định nghĩa quá rộng hoặc quá hẹp; logic của đáp án tự kiểm đúng"
+        }
+      ]
+    },
+    {
+      "text": "Bài 2 (gợi ý): (a) là vấn đáp — hỏi định nghĩa rồi tìm phản ví dụ từ trong định nghĩa; (b) là cãi nhau để thắng: tấn công người (\"bạn chẳng hiểu gì\"), dựa vào thẩm quyền (\"tôi học luật\") thay vì lý lẽ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "IEP Fallacies, Ad Hominem"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You appeal to authority if you back up your reasoning by saying that it is supported by what some authority says on the subject.",
+          "where": "IEP Fallacies, Appeal to Authority (IEP lưu ý phần lớn lập luận dạng này không ngụy biện; đáp án site đúng vì (b) chỉ có thẩm quyền, không có lý lẽ)"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3 (gợi ý): không có đáp án mẫu; dấu hiệu làm đúng là ít nhất một lần phải dừng lại nghĩ \"ừ nhỉ\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "to show the interlocutor that he is confused, and, according to some scholars, to use that confusion as a stepping stone",
+          "where": "IEP Elenchus, Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Bài 4 (gợi ý): với \"yêu nước là sẵn sàng hy sinh vì đất nước\": phản ví dụ — một người đóng thuế đầy đủ, dạy con nên người, không làm điều gì hại ai, nhưng không bao giờ \"hy sinh\" theo nghĩa đổ máu. Người đó có yêu nước không? Trực giác nói có — vậy định nghĩa \"sẵn sàng hy sinh\" quá hẹp.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Ví dụ với \"yêu nước là sẵn sàng hy sinh vì đất nước\": phản ví dụ — một người đóng thuế đầy đủ, dạy con nên người, không làm điều gì hại ai, và nói thẳng rằng mình không muốn hy sinh tính mạng cho bất cứ ai, kể cả đất nước. Người đó có yêu nước không? Trực giác nhiều người nói có — vậy định nghĩa \"sẵn sàng hy sinh\" quá hẹp. Không có đáp án chuẩn; điểm của bài tập là trải nghiệm bế tắc.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "too wide and include unwanted characteristics or subsets, or too narrow so that they exclude essential characteristics",
+          "where": "Phản ví dụ phải nhắm đúng định nghĩa đang xét; định nghĩa nói \"sẵn sàng\" (khuynh hướng), mà ví dụ chỉ nói \"không bao giờ phải hy sinh\""
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Bài 5 (gợi ý): không có đáp án mẫu; mực xanh bắt được mực đỏ dùng từ mơ hồ (\"hạnh phúc\", \"đáng sống\", \"thành công\").",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "Socrates' interlocutors are usually, at first, quite confident about their own competence in the discussion.",
+          "where": "SEP Plato's Ethics 2.1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Bài 4: ví dụ phản ví dụ lẫn lộn \"sẵn sàng hy sinh\" (khuynh hướng) với \"đã phải hy sinh\" (sự kiện); người đóng thuế, nuôi dạy con vẫn có thể \"sẵn sàng\" khi cần, nên không đánh trúng định nghĩa. Hơn nữa \"hy sinh\" không chỉ là \"đổ máu\". Là bài mẫu dạy phản ví dụ nên xếp mức vừa. Các bài còn lại là bài tự vấn hoặc đáp án logic đúng. Kiểm lại (k03): gợi ý Bài 4 đổi đúng nguyên văn fix: người trong phản ví dụ nói thẳng không muốn hy sinh tính mạng, nên phản ví dụ nay đánh đúng vào khuynh hướng \"sẵn sàng\"; \"trực giác nhiều người\" rào hợp lý. Không thêm khẳng định cần nguồn. Claim 3 fixed."
+}

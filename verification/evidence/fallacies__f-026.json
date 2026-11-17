@@ -1,0 +1,66 @@
+{
+ "unit": "fallacies/f-026",
+ "hash": "sha256:2461377a0d9eb288723f778e6200f9f4d6be04bc0c10ea1e1905fb468febe91a",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: tu-quoque",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "It involves not accepting a view or a recommendation because the espouser him- or herself does not follow it."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone’s argument not to perform some act must be faulty because the arguer himself or herself has performed it."
+    }
+   ]
+  },
+  {
+   "text": "options: slippery-slope, genetic, straw-man không hợp lý; ad-hominem chung không có trong options",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Gạt bỏ đề xuất vì \"anh cũng vậy\" là ngụy biện",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "It involves not accepting a view or a recommendation because the espouser him- or herself does not follow it."
+    }
+   ]
+  },
+  {
+   "text": "why_not.slippery-slope / straw-man / genetic",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

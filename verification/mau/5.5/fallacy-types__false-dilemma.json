@@ -1,0 +1,66 @@
+{
+  "unit": "fallacy-types/false-dilemma",
+  "hash": "sha256:88480e664089c024ae86259cf937dc014f04de2590dc87e65d662fc1f98bee2c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "vi/en: Lưỡng nan giả / False dilemma",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "definition: Đưa ra chỉ hai lựa chọn như thể không còn khả năng nào khác, trong khi thực tế còn những lựa chọn khác.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy is called the “False Dichotomy Fallacy” or the “Black-or-White” Fallacy when the unfair menu contains only two choices, and thus two horns.",
+          "where": "False Dilemma"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Đưa ra quá ít lựa chọn (thường chỉ hai) như thể không còn khả năng nào khác, trong khi thực tế còn những lựa chọn khác.",
+      "fixed": true
+    },
+    {
+      "text": "pattern: Hoặc A, hoặc B. Không phải A. Vậy B. / example: “Hoặc con học y, hoặc con sẽ thất nghiệp.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Will you contribute $20 to our environmental fund, or are you on the side of environmental destruction?",
+          "where": "Black-or-White"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi các lựa chọn khác đã thực sự được xem xét và loại trừ có lý do, nên chỉ còn đúng hai khả năng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The key to diagnosing the Black-or-White Fallacy is to determine whether the limited menu is fair or unfair.",
+          "where": "Black-or-White"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Lỗi nhẹ: IEP định nghĩa False Dilemma là \"too few choices\"; chỉ khi đúng hai lựa chọn mới gọi là False Dichotomy/Black-or-White. Khuôn \"Hoặc A, hoặc B. Không phải A. Vậy B.\" là tam đoạn luận tuyển hợp lệ về hình thức; lỗi nằm ở tiền đề tuyển, như phần định nghĩa đã nói. Kiểm lại (k04): definition nay đúng nguyên văn fix ('quá ít lựa chọn (thường chỉ hai)'), khớp IEP."
+}

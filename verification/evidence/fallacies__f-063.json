@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-063",
+  "hash": "sha256:4472b44d654fecec4653cb162af4281f9d8bdd4e90f755f8268c77d7a0a33473",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: slippery-slope",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "Slippery Slope"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "The fallacy of the slippery slope generally takes the form that from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion",
+          "where": "mục 1.15"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Mắt xích đầu (kém tính nhẩm hơn) có thể có phần đúng, nhưng các bước sau không có cơ chế hay bằng chứng; chính máy tính giúp người ta làm việc với con số. Xác suất của từng bước nhân lại khiến kết luận rất yếu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Phụ huynh dự đoán tương lai, không kết luận nhân quả từ hai sự kiện đã xảy ra.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B.",
+          "where": "Post Hoc"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Một cảnh báo chỉ dừng ở “dùng máy nhiều có thể làm giảm kỹ năng tính nhẩm”, kèm bằng chứng, thì hợp lý; lập luận này đi xa hơn nhiều so với những gì có cơ sở.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có mẫu quan sát nào bị khái quát hóa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

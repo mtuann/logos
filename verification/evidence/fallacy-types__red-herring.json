@@ -1,0 +1,51 @@
+{
+  "unit": "fallacy-types/red-herring",
+  "hash": "sha256:b4a5c95c90b1ce8f01c5216ab90f7d8ed1ba4e11ccbaf5865e497e50854d72d2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d01 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "en: Red herring; định nghĩa: đưa vấn đề khác để kéo cuộc trao đổi rời câu hỏi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A red herring is a smelly fish that would distract even a bloodhound.",
+          "where": "Red Herring (entry on distraction)"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi vấn đề mới thực sự là một phần của câu trả lời, hoặc khi hai bên đồng ý chuyển sang chủ đề khác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "IEP, mục Red Herring: lỗi nằm ở chỗ rời thông tin liên quan, nên vấn đề thật sự liên quan thì không phải"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "At one point Walton had the idea that fallacies happened when there was an illicit shift from one kind of a dialogue to another",
+          "where": "SEP Fallacies: chỉ sự chuyển đổi không chính đáng mới là ngụy biện; hai bên đồng ý chuyển chủ đề là chuyển chính đáng"
+        }
+      ]
+    },
+    {
+      "text": "example: trễ dự án -> nhắc giải thưởng năm ngoái",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A red herring is a smelly fish that would distract even a bloodhound.",
+          "where": "định nghĩa loại này; ví dụ do site soạn, khớp khuôn theo kiểm tay"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "IEP chỉ đọc được câu mở đầu mục; SEP không có. Lượt 2: claim #1 giải quyết bằng IEP mục Red Herring (đọc đủ mục) và SEP Fallacies (Walton: illicit shift)."
+}

@@ -770,7 +770,7 @@ P ⊕ Q đúng khi *đúng một* trong hai đúng.
 
 ## Độ ưu tiên: ai tính trước
 
-Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨ và ⊕, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất.
+Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất; với ⊕, cứ viết ngoặc cho rõ.
 
 Ví dụ: ¬P ∨ Q → R được đọc là ((¬P) ∨ Q) → R.
 
@@ -1119,7 +1119,7 @@ Chú ý điều tinh tế: phản ví dụ không chứng minh định nghĩa *s
 Một màn đối thoại nổi tiếng khác nằm trong *Euthyphro*: Euthyphro định nghĩa "mộ đạo là điều được các thần yêu mến". Socrates hỏi lại: các thần yêu mến nó *vì* nó mộ đạo, hay nó mộ đạo *vì* được các thần yêu mến? Đây là một lưỡng nan:
 
 - Nếu các thần yêu nó *vì* nó mộ đạo, thì "mộ đạo" phải có nội dung độc lập với việc được yêu — định nghĩa của Euthyphro chưa chạm tới nội dung ấy.
-- Nếu nó mộ đạo *vì* được các thần yêu, thì "mộ đạo" chẳng còn nội dung gì riêng — nó chỉ là cái tên gọi cho sở thích của các thần.
+- Nếu nó mộ đạo *vì* được các thần yêu, thì "mộ đạo" chẳng còn nội dung gì riêng ngoài việc được yêu — theo cách đọc ngày nay, nó chỉ là cái tên gọi cho sở thích của các thần.
 
 Dù chọn sừng nào, định nghĩa cũng sụp đổ. Định nghĩa này chết không phải vì thiếu ví dụ, mà vì khi soi kỹ, nó hóa ra *trống rỗng*: nó không cho ta tiêu chuẩn nào độc lập để nhận ra cái mộ đạo.
 
@@ -1167,7 +1167,7 @@ Thử với một từ tiếng Việt: **"nhà"**. Nhà sàn, nhà chung cư, nh
 
 ## Định nghĩa trong đời sống: khi ranh giới có giá
 
-Định nghĩa không chỉ là trò chơi chữ. Trong pháp luật, định nghĩa vạch ranh giới giữa có tội và vô tội: "người thành niên", "tội cố ý", "phòng vệ chính đáng" — mỗi định nghĩa quá rộng là oan sai, mỗi định nghĩa quá hẹp là bỏ lọt. Trong y tế, định nghĩa quyết định ai được chữa trị thế nào. Vì vậy các định nghĩa pháp lý, y khoa thường dài dằng dặc với hàng loạt điều khoản loại trừ: đó là dấu vết của hàng chục phản ví dụ trong thực tế, mỗi phản ví dụ buộc người ta vá thêm một mảnh.
+Định nghĩa không chỉ là trò chơi chữ. Trong pháp luật, định nghĩa vạch ranh giới giữa có tội và vô tội: "người thành niên", "tội cố ý", "phòng vệ chính đáng" — mỗi định nghĩa quá rộng là oan sai, mỗi định nghĩa quá hẹp là bỏ lọt. Trong y tế, định nghĩa quyết định ai được chữa trị thế nào. Vì vậy các định nghĩa pháp lý, y khoa thường dài với nhiều điều khoản loại trừ: có thể xem chúng như những miếng vá cho các phản ví dụ gặp trong thực tế.
 
 Và ngay cả khi đã vá kỹ, ranh giới vẫn có thể bị thách thức: một ca bệnh mới, một tình huống công nghệ mới (ai chịu trách nhiệm khi xe tự lái gây tai nạn?) lại trở thành phản ví dụ sống, đòi định nghĩa phải sửa tiếp. Định nghĩa tốt không phải định nghĩa viết một lần là xong — nó là một quá trình.
 
@@ -1177,7 +1177,7 @@ Có một phân biệt hữu ích. **Định nghĩa mô tả** ghi lại cách m
 
 Khi tranh cãi "đây có phải là X không", nhiều khi hai bên đang làm hai việc khác nhau mà không biết: một bên mô tả cách dùng thông thường, một bên đề xuất một cách dùng chính xác hơn cho mục đích của mình. Gọi tên được mình đang làm việc nào giúp cuộc tranh luận đỡ rối: "anh đang mô tả, em đang đề xuất" — hai việc đều chính đáng, nhưng tiêu chuẩn đánh giá khác nhau. Định nghĩa mô tả bị phản ví dụ hạ khi nó mô tả sai cách dùng thực tế; định nghĩa quy định bị chất vấn khi mục đích đằng sau nó không chính đáng.
 
-Ví dụ: từ điển **mô tả** "xe ôm" là người chạy xe máy chở khách lấy tiền — ghi lại cách người Việt đang dùng từ này. Còn khi pháp luật **quy định** "kinh doanh vận tải bằng xe hai bánh" phải đăng ký, gắn biển hiệu, mua bảo hiểm, thì định nghĩa ấy không còn mô tả cách dùng thông thường nữa — nó *đặt ra* một khái niệm pháp lý để quản lý. Ai đem định nghĩa pháp lý ra cãi "ông xe ôm đầu ngõ không phải xe ôm vì không đăng ký" là lẫn lộn hai kiểu định nghĩa.
+Ví dụ: theo cách người Việt thường dùng, "xe ôm" là người chạy xe máy chở khách lấy tiền — một định nghĩa **mô tả** chỉ ghi lại cách dùng từ này. Còn khi một văn bản pháp luật **quy định** riêng về việc chở khách bằng xe hai bánh (chẳng hạn bắt người chạy xe phải đăng ký), thì định nghĩa ấy không còn mô tả cách dùng thông thường nữa — nó *đặt ra* một khái niệm pháp lý để quản lý. Ai đem định nghĩa pháp lý ra cãi "ông xe ôm đầu ngõ không phải xe ôm vì không đăng ký" là lẫn lộn hai kiểu định nghĩa.
 
 ## Kiểm tra nhanh một định nghĩa
 
@@ -1288,7 +1288,7 @@ Những con thiên nga ta đã quan sát đều màu trắng.
 Mọi con thiên nga đều màu trắng.
 ```
 
-Người châu Âu từng có rất nhiều quan sát như thế, cho đến khi gặp thiên nga đen ở Úc. Quy nạp mạnh vẫn có thể sai.
+Nhưng chỉ cần gặp một con thiên nga không trắng, như thiên nga đen ở Úc, là câu trên sai. Quy nạp mạnh vẫn có thể sai.
 
 ### Quy nạp thống kê
 
@@ -1383,7 +1383,7 @@ Khi hai thứ hay đi cùng nhau (**tương quan**), có ít nhất bốn khả 
                                đi cùng nhau chỉ do tình cờ.
 ```
 
-Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm phổ biến nhất. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
+Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
 
 Một lỗi họ hàng là chỉ vì B xảy ra *sau* A mà cho rằng A gây ra B, gọi là [Sau nó nên do nó](../cong-cu/nguy-bien.md#post-hoc).
 
@@ -1413,7 +1413,7 @@ Giải thích  → Đã xét đủ các giả thuyết khác chưa? Giả thuy�
 **Bài 2.** "Hãng bay X có 95% chuyến đúng giờ trong năm qua. Chuyến bay của tôi chiều nay thuộc hãng X. Vậy chuyến của tôi có lẽ sẽ đúng giờ." Thông tin nào sau đây làm lập luận yếu đi: (a) hãng X vừa được giải thưởng dịch vụ; (b) chiều nay có bão đổ bộ vào sân bay đến?
 
 ??? success "Xem gợi ý đáp án"
-    (b). Bây giờ nhóm liên quan không còn là "mọi chuyến bay của hãng X" mà là "chuyến bay vào sân bay đang có bão", và tỉ lệ đúng giờ của nhóm này chắc chắn thấp hơn nhiều. Điều này cho thấy lập luận quy nạp có thể yếu đi khi biết thêm thông tin, điều không bao giờ xảy ra với tính hợp lệ của suy diễn.
+    (b). Bây giờ nhóm liên quan không còn là "mọi chuyến bay của hãng X" mà là "chuyến bay vào sân bay đang có bão", và tỉ lệ đúng giờ của nhóm này nhiều khả năng thấp hơn nhiều. Điều này cho thấy lập luận quy nạp có thể yếu đi khi biết thêm thông tin, điều không bao giờ xảy ra với tính hợp lệ của suy diễn.
 
 **Bài 3.** Đánh giá lập luận loại suy: "Bộ não xử lý thông tin giống như máy tính. Máy tính không có cảm xúc. Vậy bộ não cũng không thực sự có cảm xúc."
 
@@ -1524,7 +1524,7 @@ Bước 4. THÊM GIẢ ĐỊNH NGẦM  Thêm tiền đề TỐI THIỂU để l�
 Bước 5. ĐÁNH GIÁ            Giả định vừa thêm có đúng không? Có quá mạnh không?
 ```
 
-Bước 4 cần giải thích thêm. "Tối thiểu" nghĩa là: thêm vừa đủ để kết luận theo sau từ tiền đề, không thêm những tuyên bố mạnh hơn mức cần. Tại sao lại nhắm đến tính [hợp lệ](../cong-cu/suy-dien.md)? Vì khi lập luận đã hợp lệ, mọi điểm yếu buộc phải lộ ra ở tiền đề, nơi ta có thể chỉ tay vào và hỏi "điều này có đúng không?".
+Bước 4 cần giải thích thêm. "Tối thiểu" nghĩa là: thêm vừa đủ để kết luận theo sau từ tiền đề, không thêm những tuyên bố mạnh hơn mức cần. Tại sao lại nhắm đến tính [hợp lệ](../cong-cu/suy-dien.md) (*valid*)? Vì khi lập luận đã hợp lệ, mọi điểm yếu buộc phải lộ ra ở tiền đề, nơi ta có thể chỉ tay vào và hỏi "điều này có đúng không?".
 
 Có một sự giằng co cần để ý. Giả định yếu nhất về mặt logic luôn là câu "nếu [các tiền đề] thì [kết luận]". Nó làm lập luận hợp lệ, nhưng thường chỉ là nhắc lại khoảng trống chứ không lấp nó. Vì thế, theo tinh thần thiện chí, ta thường chọn một nguyên tắc *chung* mà người viết có vẻ thật sự tin, rồi xét xem nguyên tắc đó có quá rộng không.
 
@@ -1604,7 +1604,7 @@ Mỗi bước là một modus ponens, nên cả chuỗi hợp lệ.
 
 **Bước 5. Đánh giá.**
 
-- **P2** khái quát từ một lần thử duy nhất. Một lần sai không cho biết tỉ lệ sai. Đây là dấu hiệu của [khái quát vội vàng](../cong-cu/nguy-bien.md#hasty-generalization).
+- **P2** khái quát từ một lần thử duy nhất. Một lần sai không cho biết tỉ lệ sai. Đây là dấu hiệu của [khái quát vội vàng](../cong-cu/nguy-bien.md#hasty-generalization) (*hasty generalization*).
 - **P3** chứa một giả định về thời gian: điều đúng *hiện nay* sẽ còn đúng *về sau*. Nó cũng dựa vào chữ "thay thế" vốn mơ hồ. Thay thế *hoàn toàn* nghề lập trình là một khẳng định rất mạnh; thay thế *một phần* công việc là một khẳng định yếu hơn nhiều. Đọc thiện chí, người viết có lẽ muốn nói "AI chưa thể thay thế hoàn toàn lập trình viên trong vài năm tới". Phiên bản này đáng tin hơn, nhưng khi đó K2 yếu đi, và K3 cũng mất bớt sức nặng.
 - **P4** bỏ qua những rủi ro khác: nhu cầu tuyển dụng có thể giảm ngay cả khi nghề không biến mất.
 
@@ -1681,7 +1681,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đi tiếp
 
-Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng. Những lối tắt quen thuộc ấy là chủ đề của bài cuối trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](../cong-cu/nguy-bien.md).
+Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng. Những lối tắt quen thuộc ấy là chủ đề của bài tiếp theo trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](../cong-cu/nguy-bien.md).
 
 ## Nguồn
 
@@ -1715,7 +1715,7 @@ Phần lớn ngụy biện trong đời sống là loại phi hình thức.
 
 ## Ba lời cảnh báo trước khi bắt đầu
 
-**Thứ nhất: một lập luận có ngụy biện không có nghĩa kết luận sai.** Nếu chú Hải lập luận tồi cho việc uống nước chanh, điều đó chỉ cho thấy *lý do của chú* không đủ, không cho thấy nước chanh vô hại hay có hại. Cho rằng "lập luận của anh có ngụy biện, vậy kết luận của anh sai" chính là một ngụy biện, đôi khi được gọi đùa là "ngụy biện về ngụy biện".
+**Thứ nhất: một lập luận có ngụy biện không có nghĩa kết luận sai.** Nếu chú Hải lập luận tồi cho việc uống nước chanh, điều đó chỉ cho thấy *lý do của chú* không đủ, không cho thấy nước chanh vô hại hay có hại. Cho rằng "lập luận của anh có ngụy biện, vậy kết luận của anh sai" chính là một ngụy biện; ta có thể gọi nó là "ngụy biện về ngụy biện".
 
 **Thứ hai: gọi tên không thay cho tranh luận.** Trên mạng, nhiều người ném ra "ad hominem!", "người rơm!" như ném một tấm thẻ đỏ rồi coi như thắng. Nhưng gọi tên chỉ là bước đầu. Bạn vẫn phải chỉ ra *vì sao* lập luận cụ thể này mắc lỗi đó, ở chỗ nào. Như Bradley Dowden lưu ý trong mục "Fallacies" của *Internet Encyclopedia of Philosophy*, dán nhãn ngụy biện không thay được việc xem xét kỹ đoạn văn và bối cảnh của nó.
 
@@ -1786,7 +1786,7 @@ Tiền đề có thể đúng, nhưng không liên quan đến việc kết lu�
 *Appeal to nature.* Cho rằng thứ gì "tự nhiên" thì tốt hoặc an toàn, thứ gì "nhân tạo" thì xấu hoặc nguy hiểm.
 
 - **Mẫu:** X là tự nhiên. Vậy X tốt (an toàn, đúng đắn).
-- **Ví dụ:** "Thuốc này làm từ lá cây trong rừng, hoàn toàn tự nhiên nên không có tác dụng phụ." (Lá ngón cũng hoàn toàn tự nhiên.)
+- **Ví dụ:** "Thuốc này làm từ lá cây trong rừng, hoàn toàn tự nhiên nên không có tác dụng phụ." (Nhiều loài cây, loài nấm cực độc cũng hoàn toàn tự nhiên.)
 - **Khi nào không phải ngụy biện:** Khi "tự nhiên" chỉ là cách nói tắt cho một bằng chứng cụ thể, chẳng hạn một loại thực phẩm đã được con người ăn an toàn qua nhiều thế hệ. Một số truyền thống đạo đức cũng có lý thuyết riêng về "tự nhiên"; đó là lập trường cần được xét bằng lập luận của nó, chứ không phải lỗi sơ đẳng.
 
 ### Ngụy biện nguồn gốc {#genetic}
@@ -1963,7 +1963,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đi tiếp
 
-Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chúng vào những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](../cong-cu/lap-luan-la-gi.md).
+Đến đây bạn đã có đủ công cụ để bắt đầu với những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Trục "Công cụ tư duy" còn tiếp với [Đọc văn bản khó](../cong-cu/doc-van-ban-kho.md); nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](../cong-cu/lap-luan-la-gi.md).
 
 ## Nguồn
 
@@ -2034,7 +2034,7 @@ Câu hỏi thứ ba thường là chỗ thú vị nhất. Giả định ngầm l
 
 ## Đừng xấu hổ khi phải đọc ba lần
 
-Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
+Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
 
 Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu vào tường. Tra thuật ngữ (bắt đầu từ [Từ điển](tu-dien.md) của site này), hỏi người khác, hoặc để đó vài ngày rồi quay lại. Văn bản khó thường "mềm ra" sau một giấc ngủ.
 
@@ -2054,9 +2054,9 @@ Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu v�
 
 **Lượt ba:** Đánh giá.
 
-- *Hợp lệ?* Có, nếu hiểu "đúng đắn" là "nên làm" — khi đó khuôn này là một tam đoạn luận: tiền đề đúng thì kết luận đúng.
-- *Tiền đề có đúng không?* Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông. Tiền đề 1 đáng ngờ hơn: "đúng đắn" có thực sự đồng nghĩa với "làm giảm tội phạm"? Người theo nghĩa vụ luận sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).
-- *Giả định ngầm?* "Đúng đắn" = "mang lại hậu quả tốt" — chính là lập trường **hệ quả luận**, được lén đưa vào như điều hiển nhiên.
+- *Hợp lệ?* Có, nếu hiểu "đúng đắn" là "nên làm" — khi đó khuôn này là một tam đoạn luận (*syllogism*): tiền đề đúng thì kết luận đúng.
+- *Tiền đề có đúng không?* Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông. Tiền đề 1 đáng ngờ hơn: chỉ cần "làm giảm tội phạm" là đủ để một biện pháp "đúng đắn" sao? Người theo nghĩa vụ luận (*deontology*) sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).
+- *Giả định ngầm?* "Đúng đắn" = "mang lại hậu quả tốt" — chính là lập trường **hệ quả luận** (*consequentialism*), được lén đưa vào như điều hiển nhiên.
 
 Thấy không? Đoạn văn chỉ có bốn câu, mà lượt ba đã mở ra cả một tranh luận của đạo đức học. Đó là phần thưởng của việc đọc chậm.
 
@@ -2244,11 +2244,11 @@ Không ai viết ra đoạn văn tốt ngay lần đầu — kể cả người 
 
 **Bài 3.** Dán nhãn bốn phần (luận điểm / lý do / giải thích / lường trước phản biện) cho từng câu trong đoạn sau:
 
-> "Nên dạy bơi cho học sinh tiểu học. Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam, mà phần lớn các vụ việc xảy ra vì trẻ không biết bơi. Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu. Có người lo học bơi tốn kém; tuy nhiên bể bơi di động và giáo viên tình nguyện đã chứng minh mô hình này làm được với chi phí thấp."
+> "Nên dạy bơi cho học sinh tiểu học. Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam, mà thiếu kỹ năng bơi và an toàn dưới nước là một yếu tố nguy cơ lớn. Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu. Có người lo học bơi tốn kém; tuy nhiên bể bơi di động và giáo viên tình nguyện đã chứng minh mô hình này làm được với chi phí thấp."
 
 ??? success "Xem gợi ý đáp án"
     - Luận điểm: "Nên dạy bơi cho học sinh tiểu học."
-    - Lý do: đuối nước gây tử vong hàng đầu ở trẻ em, phần lớn vì không biết bơi.
+    - Lý do: đuối nước gây tử vong hàng đầu ở trẻ em; thiếu kỹ năng bơi là một yếu tố nguy cơ lớn.
     - Giải thích: biết bơi biến tình huống chết người thành tình huống có thể tự cứu — đây là mối nối giữa "biết bơi" và "nên dạy bơi".
     - Lường trước phản biện: lo ngại tốn kém + câu trả lời (bể bơi di động, giáo viên tình nguyện).
 
@@ -2548,7 +2548,7 @@ P2 ──┘
 
 Quy ước: **giả định ngầm** (*hidden assumption*) vẽ bằng hộp đứt nét — để nhắc rằng nó có mặt trong lập luận dù tác giả không nói ra.
 
-Và đây mới là chỗ đáng đánh nhất: cấm có phải cách duy nhất không? Thu điện thoại đầu giờ, dùng app khóa máy trong giờ học — đều giảm mất tập trung mà không cần cấm. Tác giả lẳng lặng giả định "ngoài cấm ra không còn cách nào" mà không hề bảo vệ giả định đó. Trong hầu hết lập luận thực tế, giả định ngầm chính là mắt xích yếu nhất — vẽ nó ra là đã thắng một nửa. (Xem thêm [Giả định ngầm](../cong-cu/gia-dinh-ngam.md).)
+Và đây mới là chỗ đáng đánh nhất: cấm có phải cách duy nhất không? Thu điện thoại đầu giờ, dùng app khóa máy trong giờ học — đều giảm mất tập trung mà không cần cấm. Tác giả lẳng lặng giả định "ngoài cấm ra không còn cách nào" mà không hề bảo vệ giả định đó. Trong nhiều lập luận thực tế, giả định ngầm là mắt xích yếu nhất — vẽ nó ra là đã thắng một nửa. (Xem thêm [Giả định ngầm](../cong-cu/gia-dinh-ngam.md).)
 
 ## Một bài vẽ hoàn chỉnh
 
@@ -2752,7 +2752,7 @@ Một thí nghiệm trung thực mời bạn suy nghĩ; một thí nghiệm bị
 
 Thí nghiệm tư duy bắt đầu từ trực giác, nhưng không kết thúc ở đó — vì trực giác có thể sai.
 
-Trực giác vật lý từng sai một cách ngoạn mục: gần hai nghìn năm, theo [Aristotle](../triet-gia/aristotle.md), người ta "thấy rõ" vật nặng rơi nhanh hơn vật nhẹ, cho đến khi Galileo chứng minh ngược lại — và một trong những lập luận nổi tiếng nhất của ông lại chính là một thí nghiệm tư duy: buộc vật nặng vào vật nhẹ, thì theo Aristotle khối ghép phải rơi vừa chậm hơn vừa nhanh hơn vật nặng, một mâu thuẫn. Trực giác đạo đức cũng có thể sai theo cách tương tự: nó được đúc từ tiến hóa, văn hóa, thói quen — những thứ không phải lúc nào cũng đáng tin.
+Trực giác vật lý từng sai một cách ngoạn mục: suốt nhiều thế kỷ, theo [Aristotle](../triet-gia/aristotle.md), người ta "thấy rõ" vật nặng rơi nhanh hơn vật nhẹ (Philoponus đã phản bác từ thế kỷ 6), cho đến khi Galileo chứng minh ngược lại — và một trong những lập luận nổi tiếng nhất của ông lại chính là một thí nghiệm tư duy: buộc vật nặng vào vật nhẹ, thì theo Aristotle khối ghép phải rơi vừa chậm hơn vừa nhanh hơn vật nặng, một mâu thuẫn. Trực giác đạo đức cũng có thể sai theo cách tương tự: nó được đúc từ tiến hóa, văn hóa, thói quen — những thứ không phải lúc nào cũng đáng tin.
 
 Hơn nữa, trực giác không trung lập về văn hóa. Với những tình huống kiểu xe điện, người ở các nền văn hóa khác nhau trả lời khác nhau: thí nghiệm Moral Machine — khảo sát trực tuyến hàng triệu người về các quyết định đạo đức của xe tự lái, công bố trên *Nature* năm 2018 — cho thấy khác biệt rõ rệt giữa các vùng miền. Trực giác của bạn, một phần, là "trực giác của nền văn hóa bạn lớn lên trong đó".
 
@@ -2783,7 +2783,7 @@ Vậy nên: hãy coi trực giác như *dữ liệu*, không phải *phán quy�
 **Bài 5.** Đọc lại tình huống "tên khủng bố gài bom" trong mục "Khi thí nghiệm bị dàn dựng". Liệt kê ba giả định chưa kiểm chứng của nó, rồi đề xuất một lựa chọn thứ ba mà tình huống cố tình giấu đi.
 
 ??? success "Xem gợi ý đáp án"
-    Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (thực tế người bị tra tấn thường khai bừa để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
+    Ba giả định: (1) chắc chắn hắn biết chỗ bom; (2) chắc chắn tra tấn moi được tin thật (những người phản đối tra tấn lập luận rằng người bị tra tấn thường khai bất cứ điều gì để hết đau); (3) chắc chắn không còn cách nào khác (sơ tán, rà soát...). Lựa chọn thứ ba: sơ tán khu vực và dùng nghiệp vụ điều tra thay vì tra tấn. Điểm của bài tập: nhận ra khi nào một thí nghiệm đang "dồn" mình thay vì "mời" mình nghĩ.
 
 ## Tự kiểm tra
 
@@ -2844,7 +2844,7 @@ Một vòng vấn đáp thường đi qua các bước sau:
 
 **Bước 5. Định nghĩa mới — rồi lặp lại.** Đưa ra định nghĩa tốt hơn, và vòng vấn đáp bắt đầu lại từ bước 2.
 
-Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của *chính mình*. Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.
+Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của *chính mình*. Theo cách đọc phổ biến, Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.
 
 ## Ví dụ kinh điển: Euthyphro
 
@@ -2852,7 +2852,7 @@ Một vòng vấn đáp thường đi qua các bước sau:
 
 Socrates hỏi: "Vậy mộ đạo là gì?"
 
-Euthyphro đáp: "Mộ đạo là điều được các thần yêu mến."
+Euthyphro đáp trước bằng một ví dụ: mộ đạo là kiện kẻ làm điều bất công, như ông đang làm. Socrates bảo ông không cần một ví dụ mà cần một định nghĩa chung. Euthyphro thử lại: "Mộ đạo là điều được các thần yêu mến."
 
 Socrates lấy định nghĩa đó thật nghiêm túc (bước 2): nhưng các thần đôi khi bất đồng với nhau — thần này yêu điều mà thần kia ghét. Vậy cùng một việc vừa "mộ đạo" vừa "bất kính" hay sao? (bước 3: phản ví dụ rút ra từ chính niềm tin của Euthyphro về các thần).
 
@@ -2878,7 +2878,7 @@ Bạn không cần là Socrates mới dùng được phép vấn đáp. Thử v�
 
 **Định nghĩa mới:** "Thành công là sống đúng với điều mình cho là quan trọng." — Rồi lại hỏi tiếp: "điều mình cho là quan trọng" nghĩa là gì? Kẻ lừa đảo cũng "sống đúng với điều hắn cho là quan trọng" mà?
 
-Bạn thấy không: mỗi vòng vấn đáp không cho ta đáp án cuối cùng, nhưng nó lột bỏ dần những định nghĩa cẩu thả. Đó cũng là cách duy nhất để một khái niệm lớn ("thành công", "tự do", "công bằng") trở nên đáng tin.
+Bạn thấy không: mỗi vòng vấn đáp không cho ta đáp án cuối cùng, nhưng nó lột bỏ dần những định nghĩa cẩu thả. Đó là một cách hữu hiệu để một khái niệm lớn ("thành công", "tự do", "công bằng") trở nên đáng tin hơn.
 
 Một ví dụ nữa, ở công sở:
 
@@ -2895,7 +2895,7 @@ Một ví dụ nữa, ở công sở:
 Phép vấn đáp dễ bị dùng sai thành vũ khí. Đây là ranh giới:
 
 - **Mục đích là cùng tìm ra sự thật**, không phải thắng. Trong phép vấn đáp, "đối thủ" là người cùng đi tìm với bạn, không phải kẻ thù cần hạ.
-- **Tấn công lập luận, không tấn công người.** "Định nghĩa của bạn sụp đổ ở chỗ này" khác hẳn "bạn chẳng biết gì".
+- **Tấn công lập luận, không tấn công người.** "Định nghĩa của bạn sụp đổ ở chỗ này" khác hẳn "bạn chẳng biết gì". (Đây là chuẩn của tranh luận ngày nay; trong các đối thoại của Platon, Socrates đôi khi làm người đối thoại bẽ mặt, như Thrasymachus ở quyển I *Cộng hòa*.)
 - **Sẵn sàng thay đổi ý kiến** — kể cả ý kiến của chính mình. Socrates thường mở đầu bằng việc thừa nhận mình không biết. Nếu bạn hỏi người ta mà lòng đã quyết "mình đúng", thì đó không phải vấn đáp, đó là bẫy.
 - **Bế tắc phải đến từ lý lẽ**, không phải từ mệt mỏi hay từ giọng điệu dồn ép.
 
@@ -2934,7 +2934,7 @@ Ví dụ, tự vấn về "công việc tốt":
 >
 > *Xanh: "Vậy 'tốt' không phải là lương cao, mà là lương cao* cộng *thích? Hay là thích, còn lương chỉ là một phần?"*
 
-Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạn lảng: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
+Viết ra giúp bạn khó lảng hơn so với chỉ nghĩ trong đầu: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói. Làm vài lần, bạn sẽ phát hiện nhiều niềm tin của mình thực ra chưa từng được... tin một cách nghiêm túc.
 
 ## Bài tập
 
@@ -2960,7 +2960,7 @@ Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạ
 **Bài 4.** Chọn một từ to mà bạn hay dùng ("yêu nước", "truyền thống", "hiện đại"...). Viết ra định nghĩa của bạn trong một câu, rồi tự tìm một phản ví dụ. Bạn có rơi vào bế tắc không?
 
 ??? success "Xem gợi ý đáp án"
-    Ví dụ với "yêu nước là sẵn sàng hy sinh vì đất nước": phản ví dụ — một người đóng thuế đầy đủ, dạy con nên người, không làm điều gì hại ai, nhưng không bao giờ "hy sinh" theo nghĩa đổ máu. Người đó có yêu nước không? Trực giác nói có — vậy định nghĩa "sẵn sàng hy sinh" quá hẹp. Không có đáp án chuẩn; điểm của bài tập là trải nghiệm bế tắc.
+    Ví dụ với "yêu nước là sẵn sàng hy sinh vì đất nước": phản ví dụ — một người đóng thuế đầy đủ, dạy con nên người, không làm điều gì hại ai, và nói thẳng rằng mình không muốn hy sinh tính mạng cho bất cứ ai, kể cả đất nước. Người đó có yêu nước không? Trực giác nhiều người nói có — vậy định nghĩa "sẵn sàng hy sinh" quá hẹp. Không có đáp án chuẩn; điểm của bài tập là trải nghiệm bế tắc.
 
 **Bài 5.** Dùng kỹ thuật hai màu mực trong mục "Vấn đáp với chính mình" để tự vấn một niềm tin bạn đang giữ (ví dụ về tiền bạc, tình yêu, hay sự nghiệp). Viết ít nhất ba vòng hỏi-đáp. Bạn dừng ở đâu: định nghĩa mới, hay bế tắc?
 
@@ -2974,7 +2974,7 @@ Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạ
 [
  {"q": "Bước đầu tiên của phép vấn đáp Socrates là gì?", "options": ["Đưa ra lý thuyết của mình để đối phương phản biện", "Hỏi định nghĩa: X là gì?", "Tìm ngay phản ví dụ để bác bỏ đối phương", "Thừa nhận đối phương đúng để kết thúc nhanh"], "answer": 1, "explain": "Vấn đáp bắt đầu bằng câu hỏi định nghĩa — không phải ví dụ, mà là bản chất của X là gì. Mọi bước sau đều làm việc trên định nghĩa đó."},
  {"q": "Bế tắc (aporia) trong phép vấn đáp là gì?", "options": ["Thất bại của cuộc tranh luận", "Trạng thái cả hai cùng thừa nhận chưa hiểu X như mình tưởng — và đó là tiến bộ", "Chiêu trò để đối phương mệt mà bỏ cuộc", "Lúc Socrates đưa ra đáp án của mình"], "answer": 1, "explain": "Bế tắc không phải thất bại: trước đó ta tưởng mình hiểu, giờ ta biết mình chưa hiểu. Socrates không 'thắng' ở đây — ông cùng đối phương rơi vào bế tắc."},
- {"q": "Trong đối thoại Euthyphro, câu hỏi then chốt của Socrates là gì?", "options": ["Các thần có thật không?", "Các thần yêu điều mộ đạo vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu?", "Euthyphro có yêu cha mình không?", "Ai sẽ thắng kiện?"], "answer": 1, "explain": "Đây là 'thế lưỡng nan Euthyphro' nổi tiếng: vế nào cũng làm định nghĩa 'mộ đạo là điều các thần yêu mến' sụp đổ."},
+ {"q": "Trong đối thoại Euthyphro, câu hỏi then chốt của Socrates là gì?", "options": ["Các thần có thật không?", "Các thần yêu điều mộ đạo vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu?", "Euthyphro có yêu cha mình không?", "Ai sẽ thắng kiện?"], "answer": 1, "explain": "Đây là 'thế lưỡng nan Euthyphro' nổi tiếng: nếu các thần yêu điều mộ đạo vì nó mộ đạo, thì 'được các thần yêu' chỉ là một thuộc tính của mộ đạo chứ không nói lên mộ đạo là gì, và định nghĩa của Euthyphro sụp đổ; nếu nó mộ đạo chỉ vì được các thần yêu, thì mộ đạo trở thành ý thích tùy tiện của các thần."},
  {"q": "Điểm nào phân biệt phép vấn đáp với cãi nhau để thắng?", "options": ["Vấn đáp dùng câu hỏi, cãi nhau thì không", "Vấn đáp nhằm cùng tìm ra sự thật và người hỏi sẵn sàng đổi ý; cãi nhau nhằm thắng", "Vấn đáp chỉ dành cho triết gia", "Không có điểm nào khác nhau"], "answer": 1, "explain": "Hình thức câu hỏi không quyết định — vẫn có thể hỏi xoáy để làm nhục người khác. Điểm phân biệt là mục đích (cùng tìm sự thật) và sự sẵn sàng thay đổi ý kiến của chính mình."},
  {"q": "Có người nói: 'Tự do là muốn gì làm nấy.' Phản ví dụ nào đánh trúng định nghĩa này nhất?", "options": ["Một người muốn ăn kem nhưng hết tiền", "Một người nghiện muốn bỏ thuốc mà không bỏ được — 'muốn' của ai mới tính?", "Một người muốn bay như chim", "Một người không muốn gì cả"], "answer": 1, "explain": "Người nghiện 'muốn' hút và cũng 'muốn' bỏ — hai cái muốn mâu thuẫn nhau. Vậy 'muốn gì làm nấy' nghĩa là làm theo cái muốn nào? Định nghĩa sụp đổ vì chữ 'muốn' chưa được làm rõ."}
 ]
@@ -3012,6 +3012,47 @@ Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đố
 > *[Công cụ tương tác — trải nghiệm trên web]*
 
 
+
+## Bài tập
+
+**Bài 1.** Lan nói: "Trường nên cấm học sinh dùng điện thoại trong giờ ra chơi." Hùng đáp: "Vậy là bạn muốn học sinh bị cắt đứt với gia đình cả ngày à?" Hùng đang dựng người rơm hay luận cứ thép? Viết lại câu đáp của Hùng theo kiểu luận cứ thép.
+
+??? success "Xem gợi ý đáp án"
+    Người rơm: Lan chỉ nói về giờ ra chơi, không nói gì về việc liên lạc với gia đình. Một câu đáp kiểu luận cứ thép: "Nếu mình hiểu đúng, ý bạn là giờ ra chơi để nghỉ, chơi và nói chuyện trực tiếp với nhau, còn điện thoại làm học sinh cắm mặt vào màn hình, kể cả lúc ở cạnh bạn bè. Mình thấy điều đó có lý. Điều mình vẫn băn khoăn là nếu có việc gấp thì gia đình liên lạc với học sinh bằng cách nào." Hùng có thể vẫn không đồng ý, nhưng giờ hai người đang bàn đúng một chuyện.
+
+**Bài 2.** Chọn một lập trường bạn *không* đồng ý, ví dụ "Nên bỏ hẳn thi cử, chỉ đánh giá học sinh qua dự án." Viết một đoạn ba đến năm câu trình bày lập trường đó sao cho một người ủng hộ nó đọc xong sẽ gật đầu: "Đúng, tôi nghĩ vậy."
+
+??? tip "Tiêu chí tự đánh giá"
+    - Có đúng điều người ủng hộ thật sự nói, không thêm phần cực đoan mà họ không nói?
+    - Có nêu lý do mạnh nhất của họ, không chỉ lý do dễ bác nhất?
+    - Có dùng những chữ trung tính, không có chữ nào chê bai ngầm ("ngây thơ", "viển vông")?
+    - Đưa cho một người ủng hộ đọc thử, họ có muốn sửa gì không?
+
+**Bài 3.** "Ai phản đối tăng học phí thì chỉ muốn học không mất tiền." Câu này nói về những người phản đối theo kiểu nào? Hãy nêu một lý do mạnh hơn mà một người phản đối có thể đưa ra.
+
+??? success "Xem gợi ý đáp án"
+    Câu này gán cho phe phản đối một động cơ ích kỷ thay vì xét lý do của họ. Đó vừa là người rơm, vừa gần với [công kích cá nhân](../cong-cu/nguy-bien.md#ad-hominem) (chê động cơ của người nói thay vì xét lập luận). Một lý do mạnh hơn: học phí cao có thể khiến sinh viên nhà nghèo bỏ học dù học giỏi, nên cơ hội học lên phụ thuộc vào tiền của gia đình nhiều hơn vào năng lực. Lý do này có thể bị phản bác (chẳng hạn bằng học bổng hay khoản vay), nhưng ít ra nó đáng được phản bác.
+
+**Bài 4.** Bạn tin rằng "Mạng xã hội làm thanh thiếu niên cô đơn hơn." Ở bước cuối của công cụ, hãy viết rõ: bằng chứng nào sẽ làm bạn đổi ý?
+
+??? success "Xem gợi ý đáp án"
+    Một câu trả lời tốt phải cụ thể đến mức có thể kiểm tra được. Ví dụ: "Nếu những nghiên cứu theo dõi cùng một nhóm người trong nhiều năm cho thấy người dùng nhiều mạng xã hội không cô đơn hơn người dùng ít, sau khi đã tính đến các yếu tố khác, thì tôi sẽ bớt tin." Câu "Không gì có thể làm tôi đổi ý" là dấu hiệu bạn đang giữ một niềm tin bất kể lý lẽ, chưa phải đang lập luận.
+
+## Tự kiểm tra
+
+Thử xem bạn nắm được đến đâu.
+
+<div class="oz-quiz" data-id="steelman-1" data-skill="argument" markdown="0">
+<script type="application/json">
+[
+ {"q": "Luận cứ thép khác người rơm ở điểm nào?", "options": ["Luận cứ thép dùng nhiều số liệu hơn", "Luận cứ thép dựng lại lập trường đối lập ở dạng mạnh nhất rồi mới phản biện; người rơm bóp méo nó thành dạng yếu để dễ hạ", "Luận cứ thép là đồng ý với đối phương", "Không khác gì, chỉ là hai tên gọi"], "answer": 1, "explain": "Người rơm là ngụy biện: bác một phiên bản đối phương không hề nói. Luận cứ thép làm ngược lại: trình bày đối phương ở dạng tốt nhất, rồi mới phản biện. Nó không đòi bạn phải đồng ý."},
+ {"q": "Vì sao hạ được một người rơm không chứng minh được gì?", "options": ["Vì người rơm luôn đúng", "Vì lập trường thật của đối phương vẫn còn nguyên, chưa bị xét tới", "Vì phản biện nào cũng vô ích", "Vì người nghe không thích người rơm"], "answer": 1, "explain": "Bạn chỉ bác được một phiên bản bịa ra. Điều đối phương thật sự nghĩ vẫn chưa được trả lời."},
+ {"q": "Bạn viết lại lập trường của phe kia, và một người ủng hộ lập trường đó đọc xong nói: “Không, tôi đâu có nghĩ thế.” Điều này cho thấy gì?", "options": ["Họ đang ngụy biện", "Bản viết lại của bạn chưa đúng điều họ nghĩ; cần sửa trước khi phản biện", "Bạn đã thắng cuộc tranh luận", "Lập trường của họ không có lý do nào"], "answer": 1, "explain": "Thước đo tốt của luận cứ thép là chính người ủng hộ lập trường đó thấy bạn nói đúng ý họ. Nếu họ không thấy vậy, bạn có thể đang phản biện một người rơm mà không biết."},
+ {"q": "Câu nào là một câu trả lời tốt cho bước “điều gì sẽ làm bạn đổi ý”?", "options": ["Không gì có thể làm tôi đổi ý", "Khi nào tôi thấy thích thì tôi đổi", "Nếu số liệu cho thấy sau khi tăng thuế, số người hút thuốc không giảm, tôi sẽ bớt tin rằng tăng thuế là cách tốt để giảm hút thuốc", "Nếu đa số mọi người nghĩ khác tôi"], "answer": 2, "explain": "Câu trả lời tốt chỉ ra một bằng chứng cụ thể, kiểm tra được, liên quan tới lý do của chính bạn. “Đa số nghĩ khác” không phải bằng chứng về điều đang bàn (đó là viện dẫn đám đông); “không gì cả” nghĩa là niềm tin của bạn không còn phụ thuộc vào lý lẽ."},
+ {"q": "Sau khi dựng luận cứ thép cho phe đối lập, bạn thấy lập luận của họ thuyết phục hơn của mình. Theo bài, nên hiểu chuyện này thế nào?", "options": ["Bạn đã làm sai công cụ", "Bạn đã thua và nên im lặng", "Đổi ý sau khi đã hiểu đúng không phải thua; đó là triết học đang làm đúng việc của nó", "Nên làm yếu lập luận của họ đi một chút cho dễ bác"], "answer": 2, "explain": "Mục đích của luận cứ thép là đi tới chỗ đúng hơn, không phải để thắng. Làm yếu lập luận đối phương cho dễ bác chính là quay lại người rơm."}
+]
+</script>
+</div>
 
 ## Đi tiếp
 

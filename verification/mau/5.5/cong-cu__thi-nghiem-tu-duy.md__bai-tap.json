@@ -1,0 +1,117 @@
+{
+  "unit": "cong-cu/thi-nghiem-tu-duy.md#bai-tap",
+  "hash": "sha256:72ab3201162ce02e6c2bd2b99be61aaf3a0be0fa4cf62ba481666a03f6bcade6",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "Bài 1, gợi ý đáp án (anh Tuấn / anh Hùng): sự khác biệt giữa dũng cảm và liều lĩnh nằm ở động cơ hay kết quả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "They are employed for various purposes such as entertainment, education, conceptual analysis"
+        }
+      ]
+    },
+    {
+      "text": "Bài 2, gợi ý: hai người lơ đãng như nhau đều không gây tai nạn thì \"đáng trách như nhau\"; trực giác ban đầu bị chi phối bởi hậu quả chứ không phải bởi hành vi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-luck/",
+          "quote": "it seems that we are reluctant to blame one driver more than the other."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-luck/",
+          "quote": "If in any of these cases we correctly offer differential"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3, gợi ý (1): trực giác có thể sai một cách hệ thống — ví dụ trực giác vật lý về vật rơi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "It shows that in Aristotle’s account, a composite body (cannon ball and musket ball attached) would have to fall both faster and slower than the cannon ball alone."
+        }
+      ]
+    },
+    {
+      "text": "Bài 3, gợi ý (2): trực giác mang dấu ấn văn hóa — cùng một tình huống, người khác nền văn hóa có trực giác khác, như thí nghiệm Moral Machine cho thấy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.1038/s41586-018-0637-6",
+          "quote": "Third, we report cross-cultural ethical variation, and uncover three major clusters of countries."
+        },
+        {
+          "url": "https://doi.org/10.1038/s41586-018-0637-6",
+          "quote": "we deployed the Moral Machine, an online experimental platform designed to explore the moral dilemmas faced by autonomous vehicles."
+        }
+      ]
+    },
+    {
+      "text": "Bài 4, gợi ý: nghiêng theo cách diễn đạt là hiệu ứng đóng khung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7455683&rettype=abstract&retmode=text",
+          "quote": "produce predictable shifts of"
+        },
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7455683&rettype=abstract&retmode=text",
+          "quote": "The dependence of preferences on the formulation of"
+        }
+      ]
+    },
+    {
+      "text": "Bài 5, gợi ý: ba giả định (biết chỗ bom; tra tấn moi được tin thật; không còn cách khác) và lựa chọn thứ ba (sơ tán, điều tra)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "There are those who argue in the affirmative and point to so-called ticking bomb scenarios to support their case."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "the problem of knowing whether or not the victim of torture is holding out or does not really know"
+        }
+      ]
+    },
+    {
+      "text": "(thực tế người bị tra tấn thường khai bừa để hết đau)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "For instance, they typically claim that torture does not work, since those who are tortured tell their torturers whatever they want to hear."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "There are those who argue in the affirmative and point to so-called ticking bomb scenarios to support their case."
+        }
+      ],
+      "severity": "vua",
+      "fix": "(những người phản đối tra tấn lập luận rằng người bị tra tấn thường khai bất cứ điều gì để hết đau)",
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": false,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "SEP \"Torture\" (Miller) trình bày \"tra tấn không hiệu quả vì nạn nhân khai bất cứ điều gì kẻ tra tấn muốn nghe\" là luận điểm của một phe (\"they typically claim\"), trong khi phe kia viện dẫn kịch bản quả bom hẹn giờ; bài nêu nó như \"thực tế\" (khẳng định thực nghiệm còn tranh cãi, nghiêng một phía) — vua. Phần còn lại của gợi ý đáp án khớp nội dung bài và nguồn. Quote Tversky & Kahneman lấy từ tóm tắt PubMed (efetch), vì science.org và pubmed.ncbi.nlm.nih.gov chặn công cụ. Kiểm lại (k04): câu nay đúng nguyên văn fix, gán lập luận cho phe phản đối tra tấn như SEP Torture ('they typically claim that torture does not work')."
+}

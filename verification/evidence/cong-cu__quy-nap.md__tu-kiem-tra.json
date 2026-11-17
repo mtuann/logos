@@ -1,0 +1,87 @@
+{
+ "unit": "cong-cu/quy-nap.md#tu-kiem-tra",
+ "hash": "sha256:4d3446385d63e638cd84eb81eea6bc2df1655abea15f9e1406fb432d78f0a6ee",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p06",
+ "claims": [
+  {
+   "text": "Q1: đáp án 1 (tiền đề đúng làm kết luận có lẽ đúng, không bảo đảm); các phương án khác sai (quy nạp không luôn có tiền đề sai; dùng ngoài khoa học tự nhiên; suy diễn không cho kết luận mới).",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "one whose premises render the conclusion likely",
+     "where": "mục 1"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-inductive/",
+     "quote": "guarantees the truth of its conclusion",
+     "where": "suy diễn"
+    }
+   ]
+  },
+  {
+   "text": "Q2: đáp án 0 (mẫu không đại diện, hội sách); 'cỡ mẫu lớn đến đâu cũng không sửa được' đúng.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Generalizing from a biased sample",
+     "where": "Biased Generalizing"
+    }
+   ]
+  },
+  {
+   "text": "Q3: đáp án 2 (yếu tố chung, tương quan chưa đủ kết luận nhân quả); các phương án 'chắc chắn', 'khiến', 'chỉ trùng hợp' đều sai.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "both are the effect of a common cause",
+     "where": "Common cause"
+    }
+   ]
+  },
+  {
+   "text": "Q4: đáp án 3 (được nhiều người tin nhất không phải tiêu chí); ba tiêu chí kia và ad hoc thường được nêu.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+     "quote": "the so-called theoretical virtues, like simplicity, generality, and coherence with well-established theories",
+     "where": "mục 2"
+    }
+   ]
+  },
+  {
+   "text": "Q5: đáp án 1 (khó biện minh giả định mà không đi vòng tròn); 'không có nghĩa mọi lập luận quy nạp đều ngang nhau'.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+     "quote": "taking that for granted, which is the very point in question",
+     "where": "E 4.2.19"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+     "quote": "It implies no contradiction that the course of nature may change",
+     "where": "E 4.2.18"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Mỗi câu chỉ có một đáp án đúng rõ ràng; không phát hiện đáp án sai hay phương án nhiễu tranh chấp."
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-065",
+  "hash": "sha256:ba85e71952ed5f6a7eeee962278b53e38a141190df7a033302bc0fc17ab30fb4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: false-dilemma",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Will you contribute $20 to our environmental fund, or are you on the side of environmental destruction?",
+          "where": "Black-or-White, ví dụ"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Người ta có thể phản đối việc hành hạ động vật mà vẫn không chia sẻ một bài viết cụ thể. Bài đăng gộp mọi khả năng thành hai phe.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có kết luận chung rút ra từ vài trường hợp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Bài không bác bỏ lập luận của ai bằng cách công kích họ; nó ép người đọc vào một trong hai phe.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Bài không viện dẫn việc nhiều người đã chia sẻ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

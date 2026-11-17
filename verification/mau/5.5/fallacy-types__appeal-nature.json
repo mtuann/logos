@@ -1,0 +1,63 @@
+{
+  "unit": "fallacy-types/appeal-nature",
+  "hash": "sha256:1d94e56dc49783bf2e81269581d873d292000c10bd254c20b2293973b8102630",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "vi/en: Viện dẫn tự nhiên / Appeal to nature",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fallacyfiles.org/adnature.html",
+          "quote": "Appeal to Nature Alias: Argumentum ad Naturam",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "definition: Cho rằng điều gì “tự nhiên” thì tốt, đúng hoặc an toàn, còn điều gì “nhân tạo”, “trái tự nhiên” thì xấu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fallacyfiles.org/adnature.html",
+          "quote": "An argument appeals to nature when it claims that something is good because it's natural, or bad because it's unnatural.",
+          "where": "Exposition"
+        },
+        {
+          "url": "https://fallacyfiles.org/adnature.html",
+          "quote": "N is natural. Therefore, N is right or good. U is unnatural. Therefore, U is wrong or bad.",
+          "where": "Forms"
+        }
+      ]
+    },
+    {
+      "text": "example: “Thuốc này chiết xuất 100% từ thảo dược thiên nhiên nên không có tác dụng phụ.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fallacyfiles.org/adnature.html",
+          "quote": "A great many people would always prefer to take a \"natural\" remedy over an \"artificial\" one.",
+          "where": "Quote"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi “tự nhiên” chỉ là lời mô tả, còn tính an toàn hay hiệu quả được chứng minh bằng bằng chứng độc lập.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fallacyfiles.org/adnature.html",
+          "quote": "the fact that something is either natural or unnatural would give it only the presumption of goodness or badness, and that presumption could be rebutted by contrary evidence",
+          "where": "Exception"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "IEP \"Fallacies\" và SEP \"Fallacies\" không có mục Appeal to Nature (IEP chỉ có Naturalistic, nghĩa is→ought); dùng The Fallacy Files (Gary N. Curtis, có tác giả). Trường group \"relevance\" là phân loại của site; Fallacy Files xếp dưới Begging the Question > Loaded Words, không coi là lỗi."
+}

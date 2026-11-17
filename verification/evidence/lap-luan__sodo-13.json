@@ -1,0 +1,73 @@
+{
+ "unit": "lap-luan/sodo-13",
+ "hash": "sha256:e63938a36f9a2e487b628f3f8a0458be02e183272e6b29ac4004d8ab9be996c2",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3; c6 là giả định ngầm là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c6 là gia-dinh-ngam (không làm sa sút học tập: điều kiện cần để các lợi ích trên đáng kể)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Arguments with implicit premises or conclusions are recognized in traditional discussions of enthymemes : syllogisms with unstated premises",
+     "where": "SEP Informal Logic, mục về thành phần ngầm"
+    }
+   ]
+  },
+  {
+   "text": "c4: \"Bạn cùng phòng của tôi làm thêm ở quán cà phê rất vui.\" (dap_an: khong-lien-quan)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "vua",
+   "fix": "Thêm ghi_chu_tranh_cai: \"c4 là một ví dụ cá nhân cho thấy đi làm thêm vui; nó có thể đọc là tiền đề yếu theo kiểu viện dẫn một ca. Trong mạch này tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\" Hoặc đổi c4 sang chuyện lạc đề rõ.",
+   "fixed": true
+  }
+ ],
+ "result": "dat",
+ "notes": "Kiểm lại: c4 đã đổi thành \"Quán cà phê gần ký túc xá vừa đổi chủ.\", lạc đề rõ; không còn đọc được là ví dụ một ca ủng hộ đi làm thêm."
+}

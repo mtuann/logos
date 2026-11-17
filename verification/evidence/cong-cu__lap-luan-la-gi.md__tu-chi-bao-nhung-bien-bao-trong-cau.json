@@ -1,0 +1,57 @@
+{
+ "unit": "cong-cu/lap-luan-la-gi.md#tu-chi-bao-nhung-bien-bao-trong-cau",
+ "hash": "sha256:3ee2655e680271f674d12ba6b79bc27ca2a13b086933bae2f9557aff3b0bee30",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
+ "claims": [
+  {
+   "text": "Từ chỉ báo (vì, bởi vì, do… chỉ tiền đề; cho nên, do đó, vì vậy… chỉ kết luận) không phải lúc nào cũng có mặt và không bảo đảm có lập luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a helpful, but not necessary or sufficient, sign of argument",
+     "where": "Section 3: \"for,\" \"given that,\" \"since\" introduce premises; \"therefore,\" \"hence,\" \"thus\" introduce conclusions"
+    },
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "far from infallible guides"
+    }
+   ]
+  },
+  {
+   "text": "Bảng chỉ báo: 'cho nên, vì vậy, vì thế, do đó, thế nên, suy ra, chứng tỏ, như vậy... = chỉ báo kết luận; vì, bởi vì, bởi lẽ, do, tại vì, xét rằng, căn cứ vào, biết rằng... = chỉ báo tiền đề'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "words like \"for,\" \"given that,\" \"since,\" are ways of introducing premises, while words like \"so,\" \"hence,\" \"thus,\" \"therefore,\" are used to introduce conclusions",
+     "where": "Section 3 (đối chiếu loại từ tiếng Anh; danh sách tiếng Việt do site soạn, phân loại hợp lý)"
+    }
+   ]
+  },
+  {
+   "text": "Kết luận không nhất thiết đứng cuối; trong câu của Minh kết luận đứng đầu, lý do đứng sau 'vì'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "Section 3: dạng chuẩn tách khỏi thứ tự xuất hiện trong văn bản; vị trí kết luận tự kiểm bằng logic"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Nhận xét nhỏ không ghi thành lỗi: 'nên', 'vậy thì', 'hẳn là' có thể là chỉ báo kết luận nhưng 'nên' cũng là từ khuyến nghị; bài đã nói chỉ báo không bảo đảm. Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
+}

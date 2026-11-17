@@ -1,0 +1,80 @@
+{
+  "unit": "fallacies/f-067",
+  "hash": "sha256:a0da5d11108e857e53204dbe60836e23a45c4c06ee2b15d96cb58df2083fc4ce",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "answer: slippery-slope (vỉa hè → lòng đường → công viên)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion, and because of this unwanted result, the initial starting point should be rejected",
+          "where": "1. (mục 15, slippery slope)"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "explanation: … suy ra các bước tiếp theo (lòng đường, công viên) mà không đưa ra lý do vì sao bước này kéo theo bước kia.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion, and because of this unwanted result, the initial starting point should be rejected",
+          "where": "1. (mục 15, slippery slope)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.straw-man: Người viết không bóp méo đề xuất hiện tại…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse, and then proceed to attack the easily refuted position",
+          "where": "Straw Man"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Hình ảnh cuối gây lo ngại, nhưng cấu trúc lỗi là chuỗi hệ quả không có cơ sở.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "Appeal to Emotions"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion, and because of this unwanted result, the initial starting point should be rejected",
+          "where": "1. (mục 15, slippery slope)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có khái quát từ một mẫu nhỏ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A Hasty Generalization is a Fallacy of Jumping to Conclusions in which the conclusion is a generalization.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

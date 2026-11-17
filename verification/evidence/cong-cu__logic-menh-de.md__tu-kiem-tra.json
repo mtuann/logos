@@ -1,0 +1,77 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#tu-kiem-tra",
+ "hash": "sha256:aee5ec2a539a7aba46cdb7858ba33868c39e5693640641140bff271e9dd6879d",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03 + agent-kiem-5.5-r04",
+ "claims": [
+  {
+   "text": "Quiz 1 đáp án 2 (Hà Nội là thủ đô của Việt Nam) là mệnh đề; các phương án kia là câu hỏi/mệnh lệnh/cảm thán",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "A statement can be defined as a declarative sentence",
+     "where": "§1"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 2 đáp án 1 (P đúng, Q sai) [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "(\\theta \\rightarrow \\psi)\\) if and only if either it is not the case that \\(M,s\\vDash \\theta\\), or \\(M,s\\vDash \\psi\\)",
+     "where": "§4 Semantics, mệnh đề thỏa cho phép kéo theo (ký hiệu MathJax giữ nguyên như trên trang)"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 3 đáp án 1 (¬P ∨ ¬Q); ¬P ∧ ¬Q, P ∨ ¬Q, ¬P → ¬Q đều không tương đương [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "DeMorgan's Laws (DM): (two forms)",
+     "where": "§5c"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 4 đáp án 2 (P sai, Q đúng) là phản ví dụ của khẳng định hậu kiện [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "absence of counterexample",
+     "where": "Logical Consequence"
+    }
+   ]
+  },
+  {
+   "text": "Quiz 5 đáp án 2 (lượng từ 'mọi'/'tồn tại') là loại logic mệnh đề không xử lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "which are not treated in propositional logic",
+     "where": "§2 History"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Cả 5 câu quiz: đáp án đúng, phương án nhiễu sai, explain đúng. Lượt 2: thay quote SEP (câu tóm tắt) bằng nguyên văn mệnh đề thỏa của → trên trang."
+}

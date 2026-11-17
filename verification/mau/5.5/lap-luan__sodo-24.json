@@ -1,0 +1,75 @@
+{
+  "unit": "lap-luan/sodo-24",
+  "hash": "sha256:5adfac1de30e4ea1e9932a1411090afe270242e7c8cd5e93548d21537f01b0a2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m04",
+  "claims": [
+    {
+      "text": "dap_an: c6 'Tôi định cho con đi học thêm toán từ tháng sau.' = ket-luan",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the premises of an argument are reasons offered in support of its conclusion",
+          "where": "1. The Structural Approach to Characterizing Arguments"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c1, c2, c3 = tien-de, ho_tro [c6]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the premises of an argument are reasons offered in support of its conclusion",
+          "where": "1. The Structural Approach to Characterizing Arguments"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "premises that provide three separate reasons for thinking that the argument",
+          "where": "sau EXAMPLE 10 (convergent premises)"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c5 'Học thêm sẽ giúp con tiến bộ chứ không làm con sợ học.' = gia-dinh-ngam (câu không có trong đoạn, hiện ở bước 2)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "is an enthymeme which assumes that",
+          "where": "EXAMPLE 11"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c4 'Chồng tôi hồi nhỏ cũng học thêm toán.' = khong-lien-quan",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "mục Argument Identification / standardizing"
+        }
+      ]
+    },
+    {
+      "text": "ghi_chu_tranh_cai: c2 đọc được hai cách; c4 có thể đọc như tiền đề yếu; gán c4 là tiền đề cũng được chấp nhận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the premises of an argument are reasons offered in support of its conclusion",
+          "where": "1. The Structural Approach to Characterizing Arguments"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Cách chấm (docs/assets/js/so-do-lap-luan.js, grade/disputedIds): người dùng chỉ gán vai trò (tiền đề/kết luận/không liên quan; câu giả định ngầm ở bước 2), ho_tro không được chấm mà chỉ dùng vẽ cây SVG. Câu trong đoạn văn là lời người kể do site soạn, không phải khẳng định của site, nên không kiểm nguồn thực tế. disputedIds trích c2 và c4 từ ghi chú, nên gán khác đáp án ở hai câu này đều tính đúng; c2 (nếu gán 'không liên quan' hay 'kết luận') cũng được tính đúng, khá rộng nhưng không làm đáp án sai."
+}

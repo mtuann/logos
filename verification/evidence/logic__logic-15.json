@@ -1,0 +1,46 @@
+{
+ "unit": "logic/logic-15",
+ "hash": "sha256:39c42bdf725faad7b47b28a890d5e4e63c7b8a165a0b2ba1bc5baabf64143529",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02 + agent-kiem-5.5-r04",
+ "claims": [
+  {
+   "text": "dap_an: khong-hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Its form is an invalid form.",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Disjunctive syllogism (DS):",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich: “hoặc” ở đây không loại trừ; phản ví dụ P=Q=đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "However, in PL, the sign ‘ \\lor ‘ is used inclusively",
+     "where": "§3 Disjunction (ký hiệu MathJax giữ nguyên như trên trang)"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề. Lưu ý: \"hoặc\" tiếng Việt trong đề có thể hiểu loại trừ (khi đó hợp lệ); giai_thich đã nêu rõ cách hiểu bao hàm, nhưng đề không nói rõ như logic-12. Mức nhe, không ghi sai. Lượt 2: chép lại quote IEP về tuyển bao hàm đúng nguyên văn trên trang (ký hiệu ∨ là mã MathJax \\lor)."
+}

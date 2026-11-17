@@ -1,0 +1,59 @@
+{
+  "unit": "cong-cu/lap-luan-la-gi.md#tu-chi-bao-nhung-bien-bao-trong-cau",
+  "hash": "sha256:3ee2655e680271f674d12ba6b79bc27ca2a13b086933bae2f9557aff3b0bee30",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "Tiếng Việt có những từ đánh dấu vai trò của câu trong lập luận. Chúng không phải lúc nào cũng có mặt, và có mặt cũng không bảo đảm có lập luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Verbal inference indicators are a helpful, but not necessary or sufficient, sign of argument.",
+          "where": "§3"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "these expressions do not always function in these ways, and so their mere use does not necessitate the presence of an argument"
+        }
+      ]
+    },
+    {
+      "text": "Bảng chỉ báo kết luận (cho nên, vì vậy, do đó, suy ra…) và chỉ báo tiền đề (vì, bởi vì, do, xét rằng, căn cứ vào…)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "Typical premise indicators include: “because”, “since”, “for”, and “as”; typical conclusion indicators include “therefore”, “thus”, “hence”, and “so”."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "words like “for,” “given that,” “since,” are ways of introducing premises, while words like “so,” “hence,” “thus,” “therefore,” are used to introduce conclusions."
+        }
+      ]
+    },
+    {
+      "text": "Kết luận không nhất thiết đứng cuối. Trong câu của Minh, kết luận (\"không nên mua xe máy điện\") đứng đầu, lý do đứng sau chữ \"vì\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "telling us that the initial statement in the sentence (“Small businesses are important”) is a conclusion backed by a premise"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu của Minh khớp đoạn mở đầu cùng trang (dòng 12: \"Không nên mua xe máy điện lúc này\" … \"Vì trạm sạc…\"). Nhận xét \"trong văn viết nghị luận, kết luận thường xuất hiện cuối đoạn\" là quan sát văn phong có rào đón, không phải dữ kiện; không tính là claim."
+}

@@ -1,0 +1,53 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#khi-va-chi-khi-vua-can-vua-du",
+  "hash": "sha256:866ce4e772c6b7eb22f04b497d666e4c1f08635a2dd96b5c28355154ba954242",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
+  "claims": [
+    {
+      "text": "P khi và chỉ khi Q (P ↔ Q) nghĩa là P vừa cần vừa đủ cho Q",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "Given the standard theory, necessary and sufficient conditions are converses of each other",
+          "where": "Hai điều kiện đảo nhau; hai chiều cùng đúng cho biconditional"
+        }
+      ]
+    },
+    {
+      "text": "Một số tự nhiên là bội của 6 khi và chỉ khi nó vừa là bội của 2 vừa là bội của 3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "không có nguồn riêng; tự kiểm bằng logic/số học, dựa định nghĩa điều kiện vật chất"
+        }
+      ]
+    },
+    {
+      "text": "'Khi và chỉ khi' là tiêu chuẩn của một định nghĩa tốt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "necessary and sufficient conditions",
+          "where": "SEP, nhắc điều kiện cần và đủ làm cơ sở phân tích khái niệm (trong ví dụ về định nghĩa)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Bội của 6 ⇔ chia hết cho 2 và 3: đúng vì gcd(2,3)=1 (tự kiểm). Claim 'định nghĩa tốt' chỉ là giới thiệu bài sau; SEP trang này không bàn trực tiếp, nên đánh dấu nguồn gián tiếp. Lượt 2: thay 1 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
+}

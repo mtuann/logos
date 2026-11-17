@@ -1,0 +1,76 @@
+{
+ "unit": "lap-luan/sodo-15",
+ "hash": "sha256:ef1890d715f6eec549fc3d07c410771e65f3fa4e6f5bc9282e828dc2fe58269e",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "c4: \"Hướng dẫn viên của tour năm ngoái rất nhiệt tình.\" (dap_an: khong-lien-quan)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "Thêm ghi_chu_tranh_cai: \"c4 nêu điểm có lợi cho đi tour, tức đi ngược kết luận; công cụ không có vai trò phản bác nên tính là không liên quan.\" (Quy ước này nên thống nhất với sodo-22, nơi mặt trái được tính là tiền đề.)",
+   "fixed": true
+  },
+  {
+   "text": "ghi_chu_tranh_cai: \"… Gán c4 là tiền đề (một mặt được cân nhắc, như c1 ở bài sodo-22) cũng được chấp nhận.\" (chuỗi \"c1\" khiến công cụ chấp nhận mọi vai trò cho c1 của bài này)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "vua",
+   "fix": "ghi_chu_tranh_cai: \"c4 nêu một điểm có lợi cho đi tour, tức đi ngược kết luận chứ không đỡ nó; công cụ không có vai trò phản bác nên c4 được tính là không liên quan. Gán c4 là tiền đề (một mặt được cân nhắc, như câu về giá thuê nhà ở bài sodo-22) cũng được chấp nhận.\"",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "fixed": true
+  }
+ ],
+ "result": "dat",
+ "notes": "c3 nói về Đà Lạt trong khi kết luận về Sapa: tiền đề yếu nhưng vẫn là tiền đề. Kiểm lại: đã thêm ghi_chu_tranh_cai cho c4 đúng ý fix và nhất quán với sodo-22. Nhưng câu so sánh \"như c1 ở bài sodo-22\" chứa chuỗi \"c1\", nên disputedIds trả [c4, c1]: tiền đề c1 của bài này (tour đắt hơn 30%) nay được chấm đúng với bất kỳ vai trò nào, và ghi chú hiện ra nói về c1 của bài khác. Ghi claim mới mức vừa; fix bỏ mã câu của bài khác. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node). Kiểm lại lần 2 (commit 60494d1): ghi chú tranh cãi viết lại đúng fix (\"như câu về giá thuê nhà ở bài sodo-22\"); disputedIds trả [\"c4\"], tiền đề c1 lại được chấm chặt. Cơ chế: docs/assets/js/so-do-lap-luan.js, hàm disputedIds."
+}

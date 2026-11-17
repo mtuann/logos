@@ -1,0 +1,47 @@
+{
+  "unit": "cong-cu/logic-menh-de.md#gioi-han-nhung-gi-bang-chan-tri-khong-thay",
+  "hash": "sha256:cdb768ee2b154a62ba4d50cf398bdc690e8942413421f54c8940796dcfc8fb87",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "Nó coi mỗi mệnh đề là một khối không chia được, nên nó không xử lý được lượng từ (\"mọi\", \"tồn tại\") và vị từ (tính chất, quan hệ bên trong câu).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "in propositional logic, simple statements are considered as indivisible wholes, and those logical relationships and properties that involve parts of statements such as their subjects and predicates are not taken into consideration."
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "quantifiers such as “all”, and “some”, which are not treated in propositional logic."
+        }
+      ]
+    },
+    {
+      "text": "Ví dụ Socrates: với logic mệnh đề, P1 và P2 chỉ là hai khối A, B; từ A, B không thể suy ra K. Cần logic vị từ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "The recognition that the above argument is valid requires one to recognize that the subject in the first premise is the same as the subject in the second premise."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+          "quote": "The universal quantifier rules tell us that from the universally quantified claim \\(\\forall xFx\\) we can infer any instance \\(Fa\\)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm: ba câu nguyên tử khác nhau A, B, C; A, B không kéo theo C (gán A=B=đúng, C=sai). \"An cao hơn Bình\" là quan hệ hai ngôi, khớp ý IEP về \"subjects and predicates\"."
+}

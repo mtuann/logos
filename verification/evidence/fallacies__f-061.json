@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-061",
+  "hash": "sha256:f1b9c6f29c8942d2ec6ab5cceffa743b1df92f54255a8f23aeb6ef196cea0d13",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: appeal-nature",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Is-Ought Fallacy occurs when a conclusion expressing what ought to be so is inferred from premises expressing only what is so",
+          "where": "Is-Ought"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Tiền đề về răng nanh có thể đúng, nhưng từ chỗ cơ thể ta “có thể” ăn thịt không suy ra được ta “phải” ăn thịt. Lập luận nhảy từ điều tự nhiên sang điều đúng đắn về đạo đức.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Is-Ought Fallacy occurs when a conclusion expressing what ought to be so is inferred from premises expressing only what is so",
+          "where": "Is-Ought"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Bài không dựa vào việc nhiều người ăn thịt.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Một sự thật sinh học có thể là lý do để bàn về dinh dưỡng, nhưng không đủ để kết luận điều gì là sai về đạo đức.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Is-Ought Fallacy occurs when a conclusion expressing what ought to be so is inferred from premises expressing only what is so",
+          "where": "Is-Ought"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định sẵn trong tiền đề; lỗi là bước nhảy từ “tự nhiên” sang “nên”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "Begging the Question"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Loại \"appeal-nature\" không có mục riêng ở SEP/IEP; IEP có mục \"Is-Ought\" khớp đúng lỗi nhảy từ \"là\" sang \"nên\". Chỉ một đáp án hợp lý trong options; \"none\" bị loại đúng."
+}

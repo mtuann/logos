@@ -1,0 +1,51 @@
+{
+  "unit": "fallacy-types/affirming-consequent",
+  "hash": "sha256:156047e7bbc34b91685edb351f9fad137dee67c78089f9f5e6a560355643c2e9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d01 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "en: Affirming the consequent; kind formal; định nghĩa: từ 'Nếu P thì Q' và 'Q' kết luận 'P' là không hợp lệ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the formal fallacy of affirming the consequent",
+          "where": "§2.1.4 và §2.10 (Copi, formal fallacies)"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: suy luận đến lời giải thích tốt nhất là quy nạp (ampliative), không phải suy diễn hợp lệ, sau khi xét các khả năng khác",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+          "quote": "Because abduction is ampliative—as explained earlier—it will not be a sound rule of inference in the strict logical sense.",
+          "where": "SEP Abduction"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+          "quote": "Given evidence E and candidate explanations",
+          "where": "SEP Abduction, quy tắc ABD1"
+        }
+      ]
+    },
+    {
+      "text": "example: mưa -> sân ướt; sân ướt nên mưa (có thể tưới cây)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the formal fallacy of affirming the consequent",
+          "where": "định nghĩa loại này; ví dụ do site soạn, khớp khuôn theo kiểm tay"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Quan hệ IBE/affirming consequent: SEP Abduction không nêu tên ngụy biện nhưng nói abduction là ampliative, không hợp lệ chặt chẽ. Lượt 2: thay quote SEP Abduction (chỉ số dưới H1…Hn bị thẻ HTML tách) bằng cụm chữ trên trang."
+}

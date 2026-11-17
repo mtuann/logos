@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-018",
+  "hash": "sha256:69c10a37a53c674dff7bad544acd6f33ee998527aa124b29c2559bdab39edc92",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "answer: appeal-authority (giáo sư toán nói về nhịn ăn sáng)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority",
+          "where": "1. (mục 9, ad verecundiam)"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Giỏi toán không làm ai thành chuyên gia dinh dưỡng…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Bác Lực không suy từ vài trường hợp ra kết luận chung…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A Hasty Generalization is a Fallacy of Jumping to Conclusions in which the conclusion is a generalization.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.genetic: Lời khuyên không bị đánh giá theo hoàn cảnh ra đời mà theo danh tiếng của người nói…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-nature: Không có chỗ nào nói điều gì tốt vì tự nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fallacyfiles.org/adnature.html",
+          "quote": "An argument appeals to nature when it claims that something is good because it's natural, or bad because it's unnatural.",
+          "where": "Exposition"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

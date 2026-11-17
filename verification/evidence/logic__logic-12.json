@@ -1,0 +1,78 @@
+{
+ "unit": "logic/logic-12",
+ "hash": "sha256:7864fc9b65af923b8698edc38c9cdae43c8048015cbf47a4bfb621afca155931",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02 + agent-kiem-5.5-k04",
+ "claims": [
+  {
+   "text": "dap_an: hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): không có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "we only regard the whole as true if one side or the other is true, but not both",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich: Tuyển loại trừ (⊕): đúng một trong hai",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "we only regard the whole as true if one side or the other is true, but not both",
+     "where": "mục về \"or\" loại trừ"
+    }
+   ]
+  },
+  {
+   "text": "premises[0]: \"P ^ Q\" (đề: 'Hoặc (loại trừ nhau) uống trà hoặc uống cà phê')",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "vua",
+   "fix": "premises: [\"P ⊕ Q\", \"P\"]",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+     "quote": "logic textbook exclusive disjunction",
+     "where": "mục Exclusive uses of or, bảng chân trị"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+     "quote": "1 1 1 0 1 0 1 1 0 1 1 1 0 0 0 0",
+     "where": "bảng chân trị φ, ψ, φ∨ψ, tuyển loại trừ: dòng 1 1 → loại trừ 0; dòng 1 0 → 1"
+    }
+   ],
+   "fixed": true
+  },
+  {
+   "text": "premises[0]: \"P ⊕ Q\" hiển thị qua prettify là 'P ⊕ Q' và được bộ phân tích logic-menh-de.js đọc là tuyển loại trừ (xor); P ⊕ Q, P ⊢ ¬Q hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "we only regard the whole as true if one side or the other is true, but not both",
+     "where": "IEP Propositional Logic, tuyển loại trừ; kiểm bằng node: tokenize → xor, checkArgument → valid, bảng chân trị 4 dòng không phản ví dụ"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề. Mỗi claim ký hiệu: nguồn IEP là bản kiểm lập luận về quy tắc, không phải bản lưu SEP. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. premises nay là ['P ⊕ Q', 'P'] đúng fix. Chạy node: tokenize('P ⊕ Q') ra var P, xor, var Q; checkArgument → valid=true, không phản ví dụ; prettify giữ nguyên 'P ⊕ Q' (không có cặp thay thế nào cho ⊕) và đổi '!Q' thành '¬Q'. Không còn '^' trong bản ghi. Thêm 1 claim cho chữ mới, nguồn mở trong phiên này."
+}

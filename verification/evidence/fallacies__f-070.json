@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-070",
+  "hash": "sha256:538161814826d49a8b9b70a324be9c3cd94a2840b9b0aef0689e9e1b160d0a99",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: affirming-consequent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you have enough evidence to affirm the consequent of a conditional and then suppose that as a result you have sufficient reason for affirming the antecedent, your reasoning contains the Fallacy of Affirming the Consequent.",
+          "where": "Affirming the Consequent"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If she’s Brazilian, then she speaks Portuguese. Hey, she does speak Portuguese. So, she is Brazilian.",
+          "where": "Affirming the Consequent, ví dụ"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Từ “nếu thành đạt thì đeo đồng hồ đẳng cấp” không suy ra “ai đeo đồng hồ đẳng cấp cũng thành đạt”. Ai có tiền mua, thậm chí đi mượn, cũng đeo được.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you have enough evidence to affirm the consequent of a conditional and then suppose that as a result you have sufficient reason for affirming the antecedent, your reasoning contains the Fallacy of Affirming the Consequent.",
+          "where": "Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Quảng cáo không dựa vào số người dùng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.denying-antecedent: Quảng cáo không phủ định vế nào; nó suy ngược từ hậu kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.equivocation: Không có từ nào bị đổi nghĩa giữa chừng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning",
+          "where": "Equivocation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

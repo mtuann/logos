@@ -1,0 +1,51 @@
+{
+ "unit": "fallacy-types/appeal-popularity",
+ "hash": "sha256:d095c22caeb2126ab0f1366da740e90635f59f84fb464d1e48abb4762e84aac2",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: Appeal to popularity (ad populum); định nghĩa: đúng/tốt chỉ vì nhiều người tin",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If you suggest too strongly that someone's claim or argument is correct simply because it's what most everyone believes",
+     "where": "Appeal to the People"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the source appealed to is popular opinion, or common knowledge",
+     "where": "§1 item 10"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: số đông chỉ là dấu hiệu gián tiếp, có thể sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Agreement with popular opinion is not necessarily a reliable sign of truth.",
+     "where": "Appeal to the People"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: điều đang bàn chính là sở thích/quy ước của số đông (suy ra từ định nghĩa: ngụy biện khi dùng số đông làm bằng chứng cho chân lý/giá trị)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "simply because it's what most everyone believes",
+     "where": "Appeal to the People"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

@@ -1,0 +1,68 @@
+{
+  "unit": "cong-cu/thi-nghiem-tu-duy.md#nguon",
+  "hash": "sha256:72afab4b531ca2abfc32905810b3a3fe242337ff903747e4519e027585bc03ed",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p13 + agent-kiem-5.5-r02",
+  "claims": [
+    {
+      "text": "James Robert Brown và Yiftach Fehige, \"Thought Experiments\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "Copyright © 2023 by James Robert Brown",
+          "where": "Trang SEP"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thought-experiment/",
+          "quote": "Yiftach Fehige",
+          "where": "Trang SEP"
+        }
+      ]
+    },
+    {
+      "text": "Tversky và Kahneman, \"The Framing of Decisions and the Psychology of Choice\", Science 211(4481), 1981, tr. 453-458, DOI 10.1126/science.7455683",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.7455683",
+          "quote": "\"volume\":\"211\"",
+          "where": "Crossref JSON"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.7455683",
+          "quote": "\"page\":\"453-458\"",
+          "where": "Crossref JSON"
+        }
+      ]
+    },
+    {
+      "text": "Edmond Awad et al., \"The Moral Machine experiment\", Nature 563 (2018), tr. 59-64",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41586-018-0637-6",
+          "quote": "Awad, E., Dsouza, S., Kim, R. et al. The Moral Machine experiment. Nature 563 … 59-64 (2018)",
+          "where": "Cite this article"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41586-018-0637-6",
+          "quote": "Edmond Awad",
+          "where": "Trang bài"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "DOI Science khớp (Crossref). DOI Nature 10.1038/s41586-018-0637-6 xuất hiện trên trang Nature. Trang science.org chặn tải; dùng Crossref. Lượt 2: thay quote Nature bằng dòng trích dẫn nguyên văn trên trang."
+}

@@ -1,0 +1,58 @@
+{
+  "unit": "fallacy-types/appeal-ignorance",
+  "hash": "sha256:4a61cfd1e13b62b5986a111cc348809ef3d03ace9f33dfb5684a837703ccc76f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "vi/en: Viện dẫn sự thiếu hiểu biết / Appeal to ignorance",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy is also called “Argument from Ignorance.”",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "definition: Cho rằng một khẳng định đúng vì chưa ai chứng minh nó sai (hoặc sai vì chưa ai chứng minh nó đúng).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain statement is true is taken to be a proof that it is false. (2) Not knowing that a statement is false is taken to be a proof that it is true.",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "example: “Chưa ai chứng minh được ma không tồn tại, vậy ma có thật.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Nobody has ever proved to me there’s a God, so I know there is no God.",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi đã tìm kiếm kỹ bằng phương pháp đủ mạnh mà vẫn không thấy…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It would be proper reasoning only if the proof attempts were quite thorough, and it were the case that, if the being or object were to exist, then there would be a discoverable proof of this.",
+          "where": "Appeal to Ignorance"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

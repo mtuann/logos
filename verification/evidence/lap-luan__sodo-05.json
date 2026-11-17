@@ -1,0 +1,46 @@
+{
+ "unit": "lap-luan/sodo-05",
+ "hash": "sha256:498dee07015ed6354fa98dbb1ce60cf1f81ae2c8ff10ffc0d9149d88d235798b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Kết luận đứng cuối đoạn, câu nhiễu c4 nằm giữa: thứ tự trong đoạn không làm lộ đáp án, tốt. Chỉ báo \"Vì vậy\" xác định c5."
+}

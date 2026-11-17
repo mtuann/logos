@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-073",
+  "hash": "sha256:c3b7efb4bcaa6f3908b4e411e325ffd899e3ea2b1e953ffc2b2c0b547ce6f63c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: appeal-authority",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This can happen when non-experts parade as experts in fields in which they have no special competence—when, for example, celebrities endorse commercial products or social movements.",
+          "where": "mục 1.9"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "However, appealing to authority as a reason to believe something is fallacious whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Một hoa hậu không có chuyên môn về tim mạch hay dược học. Lời khẳng định của chị không thay được bằng chứng lâm sàng về tác dụng giảm mỡ máu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This can happen when non-experts parade as experts in fields in which they have no special competence—when, for example, celebrities endorse commercial products or social movements.",
+          "where": "mục 1.9"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Quảng cáo dựa vào một người nổi tiếng, không dựa vào số đông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-nature: Không có chỗ nào nói sản phẩm tốt vì tự nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Is-Ought Fallacy occurs when a conclusion expressing what ought to be so is inferred from premises expressing only what is so",
+          "where": "Is-Ought"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Quảng cáo không né câu hỏi nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

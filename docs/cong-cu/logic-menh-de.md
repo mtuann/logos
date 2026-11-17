@@ -110,7 +110,7 @@ P ⊕ Q đúng khi *đúng một* trong hai đúng.
 
 ## Độ ưu tiên: ai tính trước {#do-uu-tien-ai-tinh-truoc}
 
-Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨ và ⊕, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất.
+Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất; với ⊕, cứ viết ngoặc cho rõ.
 
 Ví dụ: ¬P ∨ Q → R được đọc là ((¬P) ∨ Q) → R.
 

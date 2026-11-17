@@ -1,0 +1,55 @@
+{
+  "unit": "cong-cu/logic-menh-de.md#do-uu-tien-ai-tinh-truoc",
+  "hash": "sha256:8b91e449bcc3cc81bf674d3e8c06838d45c8fa1a14dd862442d1818d337b104b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "thứ tự tính là: ¬ trước, rồi ∧, rồi ∨, rồi →, cuối cùng ↔",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://intrologic.stanford.edu/chapters/chapter_02.html",
+          "quote": "The ¬ operator has higher precedence than ∧; ∧ has higher precedence than ∨; ∨ has higher precedence than ⇒; and ⇒ has higher precedence than ⇔.",
+          "where": "Genesereth & Kroenke, Introduction to Logic, ch. 2"
+        }
+      ]
+    },
+    {
+      "text": "Ví dụ: ¬P ∨ Q → R được đọc là ((¬P) ∨ Q) → R.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://intrologic.stanford.edu/chapters/chapter_02.html",
+          "quote": "we agree that an operand in such a situation always associates with the operator of higher precedence."
+        }
+      ]
+    },
+    {
+      "text": "Quy tắc này … một ước lệ để khỏi phải viết ngoặc khắp nơi; ngoặc luôn được ưu tiên cao nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "It is conventional to regard the outermost parentheses on a wff as optional"
+        },
+        {
+          "url": "http://intrologic.stanford.edu/chapters/chapter_02.html",
+          "quote": "The solution to this problem is the use of operator precedence ."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm: theo thứ tự ¬>∧>∨>→>↔, ¬P ∨ Q → R phân tích đúng thành ((¬P) ∨ Q) → R. Nguồn là giáo trình Stanford Introduction to Logic (Genesereth & Kroenke), vì SEP/IEP không nêu bảng ưu tiên."
+}

@@ -1,0 +1,101 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#bai-tap",
+  "hash": "sha256:85b70784997bde007b53505a3fe0bca702c39794382e22d89e6a2ab3ebfa898d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
+  "claims": [
+    {
+      "text": "Bài 1: hoàn thành chương trình lớp 12 là cần, chưa đủ cho dự thi tốt nghiệp",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
+          "where": "định nghĩa cần"
+        }
+      ]
+    },
+    {
+      "text": "Bài 2: lửa là đủ cho khói (nếu có lửa thì có khói), sai khi có lửa mà không có khói; khói không cần lửa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "P→Q chỉ sai khi P đúng Q sai"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3: lập luận 'cà phê → tỉnh táo; An tỉnh táo; vậy An đã uống cà phê' mắc lỗi khẳng định hậu kiện",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the standard theory claims that when the conditional … is true the truth of the consequent … is necessary for the truth of the antecedent … and the truth of the antecedent is in turn sufficient for the truth of the consequent",
+          "where": "Hậu kiện là cần cho tiền kiện, không phải đủ: suy ngược sai"
+        }
+      ]
+    },
+    {
+      "text": "Bài 4: có xăng là cần cho xe máy chạy; trúng tuyển thẳng đủ nhưng không cần cho suất đại học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the absence of A is a necessary condition of the absence of B",
+          "where": "định nghĩa"
+        }
+      ]
+    },
+    {
+      "text": "Bài 5: bằng lái cần chưa đủ cho lái xe hợp pháp; cho lái xe an toàn thì chưa đủ và không cần theo nghĩa chặt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "distinguish the sense of condition that is being invoked in a particular context",
+          "where": "SEP: nghĩa thay đổi theo ngữ cảnh"
+        }
+      ]
+    },
+    {
+      "text": "Bài 6: 'Chỉ cần chăm chỉ là thành công' khẳng định chăm chỉ đủ; có thể sai vì chưa đủ hoặc không cần",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the absence of A is a necessary condition of the absence of B",
+          "where": "định nghĩa đủ"
+        }
+      ]
+    },
+    {
+      "text": "Bài 7: 'Phải uống thuốc này mới khỏi' là cần; người đáp đòi tính đủ; giống mẫu kẹt xe",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
+          "where": "định nghĩa cần"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm bằng logic: cả 7 gợi ý đáp án đúng. Bài 3: nhẹ, đáp án nói 'tưởng tỉnh táo đủ cho cà phê, hay tưởng cà phê là cần cho tỉnh táo' khớp lỗi khẳng định hậu kiện. Bài 5 hơi mở nhưng có rào 'theo nghĩa chặt'. Lượt 2: thay 5 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
+}

@@ -1,0 +1,56 @@
+{
+  "unit": "fallacy-types/none",
+  "hash": "sha256:6885b3b2e37fcdbd23810f620e0d6d4e137d1dca28dd369472bd1788c890f78f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d01 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "en: No fallacy; định nghĩa: lập luận hợp lý khi tiền đề liên quan, hỗ trợ kết luận tương xứng; nhiều lập luận trông giống ngụy biện nhưng đứng vững",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+          "where": "Appeal to Authority"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Schemes do not identify fallacies but rather argument kinds that are sometimes used fairly, and, other times, fallaciously.",
+          "where": "SEP Fallacies, argument schemes"
+        }
+      ]
+    },
+    {
+      "text": "example: bác sĩ nhi khuyên không cho trẻ dưới 1 tuổi ăn mật ong theo khuyến cáo chung của giới chuyên môn (là viện dẫn chuyên gia đúng lĩnh vực; không phải ngụy biện)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the argument creates a presumption for the conclusion—but not a guarantee",
+          "where": "appeal to expertise"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "Khẳng định thế giới thật ngầm trong ví dụ: trẻ dưới 1 tuổi không nên ăn mật ong theo khuyến cáo chung của giới chuyên môn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
+          "quote": "Parents and caregivers are therefore warned not to feed honey to the infants before the age of 1 year.",
+          "where": "WHO Botulism fact sheet, mục Infant botulism"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản ghi 'none' là lựa chọn không có ngụy biện; mô tả hợp lý, nhất quán với SEP/IEP. Ví dụ mật ong không có nguồn y khoa nên chua-kiem-duoc; không lỗi logic. Lượt 2: claim #2 giải quyết bằng WHO Botulism fact sheet."
+}

@@ -1,0 +1,61 @@
+{
+ "unit": "lap-luan/sodo-03",
+ "hash": "sha256:ae7448e906c24d074ccc562310376f715ef3086f51bcfbcc5d9eec4f51068034",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
+ "claims": [
+  {
+   "text": "dap_an: c4 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 là tien-de, ho_tro [c4]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c5 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "c3: \"Bác sĩ cũng dặn bố tôi uống nhiều nước sau đợt ốm vừa rồi.\" (dap_an: tien-de)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "Thêm trường ghi_chu_tranh_cai: \"c3 chỉ nói về một ca sau khi ốm nên là tiền đề yếu; vẫn tính là tiền đề vì được đưa ra để ủng hộ kết luận.\" (hoặc đổi c3 thành lời khuyên chung cho người trưởng thành)",
+   "fixed": true
+  }
+ ],
+ "result": "dat",
+ "notes": "c3 (bác sĩ dặn bố tôi sau đợt ốm) là tiền đề yếu theo kiểu viện dẫn một ca; gán tien-de là cách đọc chấp nhận được, nhưng người học có thể gán khong-lien-quan (xem claim nhe). Kiểm lại: đã thêm ghi_chu_tranh_cai đúng ý fix; ghi chú chỉ nhắc c3 nên disputedIds chỉ nới c3 (đúng điểm tranh cãi). Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node)."
+}

@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-055",
+  "hash": "sha256:11b937c9024b54dd13a42ef1d9c4e2267f17fddd138d63eb873ff1c603fa288a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: denying-antecedent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "options: hasty-generalization, denying-antecedent, affirming-consequent, post-hoc; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Mưa là một lý do khiến đường ướt, không phải lý do duy nhất. Từ “không mưa” không suy ra được “đường khô”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.affirming-consequent: Chị Hoa không khẳng định vế sau; chị phủ định vế trước.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Không có kết luận nhân quả từ trình tự thời gian.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có khái quát từ một mẫu nhỏ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP, phần Mill"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

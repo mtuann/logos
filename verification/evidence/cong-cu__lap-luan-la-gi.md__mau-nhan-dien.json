@@ -1,0 +1,74 @@
+{
+ "unit": "cong-cu/lap-luan-la-gi.md#mau-nhan-dien",
+ "hash": "sha256:ad26cc7edc7f3144f63801ec7da9ebad171b230daf80743f8b8074dfe8f8cd94",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
+ "claims": [
+  {
+   "text": "Dấu hiệu có lập luận: có câu được đưa ra để làm câu khác đáng tin hơn; cố thay đổi điều người nghe tin; có từ chỉ báo",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "serve as grounds for affirming another statement called the conclusion"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a helpful, but not necessary or sufficient, sign of argument",
+     "where": "Section 3"
+    }
+   ]
+  },
+  {
+   "text": "Không phải lập luận: một khẳng định đơn, chuỗi khẳng định không ủng hộ nhau, câu hỏi/mệnh lệnh/lời chào/cảm thán, lời giải thích điều ai cũng chấp nhận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "may indicate an explanation rather than an argument",
+     "where": "Section 3"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "arguments are collections of propositions (\"bearers of truth value\")",
+     "where": "Section 6 (kết): claims, commands... ngoài phạm vi mệnh đề đúng/sai của logic cổ điển"
+    }
+   ]
+  },
+  {
+   "text": "Câu điều kiện đứng một mình 'Nếu trời mưa thì đường ngập' chỉ là một khẳng định, chưa phải lập luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "roughly corresponds to \"if … then … \", so … can be read \"if … then",
+     "where": "SEP Classical Logic (đoạn tóm tắt của WebFetch): điều kiện là một công thức đơn; đơn vị đơn không có tiền đề + kết luận, tự kiểm bằng logic"
+    }
+   ]
+  },
+  {
+   "text": "Sơ đồ: tìm kết luận trước, hỏi 'vì sao người ấy tin điều này?', mỗi câu trả lời là một tiền đề; nhiều tiền đề cùng dẫn tới kết luận",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "Section 3"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
+}

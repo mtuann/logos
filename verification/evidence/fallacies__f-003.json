@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-003",
+  "hash": "sha256:92fefd137243d3a1598e7b9d64a8fabb59fc4a87b79b2ee7925a7124c4154bb4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: appeal-ignorance",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Not knowing that a statement is false is taken to be a proof that it is true.",
+          "where": "mục Appeal to Ignorance"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Không thấy ai phản đối không có nghĩa là mọi người đồng ý; tin nhắn gửi đêm thứ Sáu rất có thể chưa ai đọc. Anh Vinh suy ra sự đồng ý từ sự im lặng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Anh Vinh không lấy sự đồng thuận của số đông làm bằng chứng kế hoạch tốt; anh suy ra có đồng thuận từ chỗ không thấy phản đối.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the source appealed to is popular opinion, or common knowledge, rather than a specified authority",
+          "where": "mục 10"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Không có vài trường hợp được quan sát rồi khái quát; ở đây không có quan sát nào cả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+          "where": "mục Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định trong tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "mục Begging the Question"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án là lập luận từ im lặng (suy ra đồng ý từ chỗ không có phản đối): khớp dạng 2 của appeal to ignorance trong IEP (\"không biết là sai thì coi là đúng\") ở mức mở rộng; SEP/IEP không có mục riêng \"argument from silence\". Trong 4 phương án không có phương án nào tốt hơn. why_not hasty-generalization hơi cứng (\"không có quan sát nào\" trong khi có quan sát: không ai phản đối) nhưng không sai về chọn đáp án (mức nhe, không ghi lỗi)."
+}

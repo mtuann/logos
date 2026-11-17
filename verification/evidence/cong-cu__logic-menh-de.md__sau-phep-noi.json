@@ -1,0 +1,63 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#sau-phep-noi",
+ "hash": "sha256:81afc7ba60e7dc0420c199b5e845724863383d694ecb732f36f7abf16b0ca1b0",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03 + agent-kiem-5.5-r04",
+ "claims": [
+  {
+   "text": "Bảng ¬, ∧, ∨ (bao hàm), ↔ đúng theo định nghĩa chuẩn [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "This is called the exclusive sense of 'or'.",
+     "where": "§3b, đối chiếu với ∨ bao hàm"
+    }
+   ]
+  },
+  {
+   "text": "Bảng P → Q: sai chỉ khi P đúng, Q sai; tiền kiện sai thì đúng, không đòi quan hệ nhân quả [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "(\\theta \\rightarrow \\psi)\\) if and only if either it is not the case that \\(M,s\\vDash \\theta\\), or \\(M,s\\vDash \\psi\\)",
+     "where": "§4 Semantics, mệnh đề thỏa cho phép kéo theo (ký hiệu MathJax giữ nguyên như trên trang)"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is regarded as true, whether or not there is any connection between the falsity of \\alpha and the truth-value of \\beta",
+     "where": "§3 Material Implication"
+    }
+   ]
+  },
+  {
+   "text": "⊕ đúng khi đúng đúng một trong hai; 'hoặc' loại trừ vs bao hàm; ∨ luôn bao hàm trừ khi nói rõ [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "we only regard the whole as true if one side or the other is true, but not both",
+     "where": "§3b"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "This is called the exclusive sense of 'or'.",
+     "where": "§3b"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ký hiệu ⊕ là ước lệ (IEP định nghĩa loại trừ qua ¬(α↔β)); không sai. Mọi bảng 4 dòng đã tính lại bằng script. Lượt 2: thay quote SEP (câu tóm tắt) bằng nguyên văn mệnh đề thỏa của → trên trang; thêm nguyên văn IEP §3 về kéo theo vật chất không đòi liên hệ giữa hai vế."
+}

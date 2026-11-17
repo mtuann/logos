@@ -1,0 +1,87 @@
+{
+ "unit": "cong-cu/lap-luan-la-gi.md#bai-tap",
+ "hash": "sha256:8062b8beab16eceead750b98606c2c15d00dfd8d7f0dde724e6f2890515cbee2",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p01 + agent-kiem-5.5-r03",
+ "claims": [
+  {
+   "text": "Bài 1: 'Bạn nên mang ô. Dự báo nói chiều nay có giông.' là lập luận; kết luận 'Bạn nên mang ô'; thêm 'vì' vào giữa mà nghĩa không đổi",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "Section 3; đáp án tự kiểm logic: tiền đề ủng hộ khuyến nghị"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2: 'Cây xoài nhà bà Tư chết vì rễ bị úng nước sau đợt lũ' nhiều khả năng là lời giải thích, nhưng có thể là lập luận nếu đang tranh cãi nguyên nhân",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "may indicate an explanation rather than an argument",
+     "where": "Section 3"
+    }
+   ]
+  },
+  {
+   "text": "Bài 3: dạng chuẩn P1, P2, K đúng; từ P1 và P2 chỉ suy ra trực tiếp 'thuốc này có thể gây hại khó lường'; cần tiền đề ngầm 'bác sĩ không nên kê thuốc có thể gây hại khó lường'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "syllogisms with unstated premises",
+     "where": "Section 3.1"
+    },
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "the conclusion must be true",
+     "where": "valid deductive argument; tự kiểm: P2 + P1 cho 'có thể gây hại' bằng universal instantiation + modus ponens"
+    }
+   ]
+  },
+  {
+   "text": "Bài 4: hai lập luận nối tiếp; câu giữa là kết luận trung gian",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "Section 3; chuỗi lập luận/kết luận trung gian là khái niệm chuẩn, tự kiểm cấu trúc: 'Vì thế' và 'Do đó' đánh dấu hai kết luận"
+    }
+   ]
+  },
+  {
+   "text": "Bài 5: câu điều kiện đứng một mình không phải lập luận; người nói không khẳng định vế trước hay vế sau",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "roughly corresponds to \"if … then … \", so … can be read \"if … then",
+     "where": "SEP Classical Logic"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-classical/",
+     "quote": "Conversely, if one deduces … from an assumption …, then one can conclude that",
+     "where": "quy tắc →I: điều kiện không bao hàm vế trước đúng"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Đã tự kiểm cả 5 đáp án: đúng. Đời thường (Minh, bà Tư, AI/giáo viên) là chuyện kể, không cần nguồn. Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
+}

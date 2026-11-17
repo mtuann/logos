@@ -1,0 +1,104 @@
+{
+ "unit": "cong-cu/nguy-bien-hinh-thuc.md#bai-tap",
+ "hash": "sha256:3fc56250e6736ce96f0b9e46724b669e2a31b3aa5be5bbadf1566484e1aa253c",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
+ "claims": [
+  {
+   "text": "Bài 1: Nếu người Hà Nội gốc thì thích phở; thích phở; vậy Hà Nội gốc: khẳng định hậu kiện; phản ví dụ chó/ngựa bốn chân đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent.",
+     "where": "entry Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2: 'đi biển hoặc đi núi; đi biển; vậy không đi núi' là khẳng định một vế của tuyển bao hàm; muốn kết luận phải có tiền đề 'chỉ một trong hai'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is used for disjunction in the inclusive sense",
+     "where": "disjunction"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "the exclusive sense of 'or'",
+     "where": "disjunction"
+    }
+   ]
+  },
+  {
+   "text": "Bài 3: 'tập đều thì khỏe; khỏe; vậy tập đều' là khẳng định hậu kiện; kết luận có thể đúng tình cờ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent.",
+     "where": "entry Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both invalid, as well as valid but unsound, arguments can nevertheless have true conclusions",
+     "where": "validity"
+    }
+   ]
+  },
+  {
+   "text": "Bài 4: 'nếu xe hết xăng thì không nổ máy; vậy nếu không nổ máy thì hết xăng' là đảo ngược, sai; phản ví dụ hình vuông/hình chữ nhật đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
+    }
+   ]
+  },
+  {
+   "text": "Bài 5: Mọi người tốt đều giúp đỡ; Lan giúp đỡ; vậy Lan tốt: không hợp lệ, khẳng định hậu kiện (trung từ không chu diên); phản ví dụ 'mọi con chó bốn chân; con bàn bốn chân; vậy bàn là chó' đúng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "All C are A. All D are A. Therefore, all C are D.",
+     "where": "Undistributed Middle"
+    }
+   ]
+  },
+  {
+   "text": "Bài 6: Chỉ khi tập thì khỏe (nếu khỏe thì đã tập) kèm 'không tập' cho 'không khỏe' là modus tollens, hợp lệ; tiền đề mạnh hơn; modus tollens từ tiền đề 1 gốc: 'khỏe không tốt, vậy không tập' hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent",
+     "where": "modus tollens"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "entry Denying the Antecedent"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Mọi đáp án gợi ý đúng. | Tự kiểm: G→E, ¬E ⊢ ¬G là modus tollens, hợp lệ. 'Chỉ khi' diễn đạt điều kiện cần là cách đọc chuẩn của logic; không mở được trang SEP/IEP nêu riêng 'only if' (chỉ gián tiếp), nhưng đây là mệnh đề logic tự kiểm được. Lượt 2: chép lại quote IEP về bảng chân trị kéo theo đúng nguyên văn trên trang (α, β là mã MathJax \\alpha, \\beta)."
+}

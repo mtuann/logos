@@ -78,7 +78,7 @@ class TestKbShortcode(unittest.TestCase):
     def test_counts_match_registry(self):
         expect = {"cau-hoi": "57", "cong-cu": "15", "lich-su": "8", "doc": "19", "triet-gia": "59",
                   "bat-dau": "1", "cau-hoi/dao-duc": "7", "cau-hoi/viet-nam": "3",
-                  "nguy-bien": "100", "thuat-ngu": "249", "quiz": "428"}
+                  "nguy-bien": "100", "thuat-ngu": "249", "quiz": "433"}
         for key, n in expect.items():
             self.assertEqual(kb.expand(f"[[count:{key}]]", self.reg), n, key)
 

@@ -1,0 +1,109 @@
+{
+  "unit": "cong-cu/luan-cu-thep.md#_dau",
+  "hash": "sha256:7da91c41f77008d792bca9cd005c8306f9d57b82b761809807877c8156fb11db",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p15",
+  "claims": [
+    {
+      "text": "Trong bài Ngụy biện, ta đã gặp \"người rơm\" (strawman): bóp méo lập trường của đối phương thành một phiên bản yếu ớt, rồi hạ bệ phiên bản đó",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute",
+          "where": "mục Fallacies of relevance / ignoratio elenchi (straw man)"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Ideally an argument should not be assessed by a technique that unfairly misrepresents it",
+          "where": "mục Caricaturization / Straw Man"
+        }
+      ]
+    },
+    {
+      "text": "Luận cứ thép (steelman) là động tác ngược lại: dựng lại lập trường của phe đối lập ở dạng mạnh nhất có thể — rồi mới phản biện",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says",
+          "where": "Rapoport/Dennett: dựng lại lập trường đối phương trước khi phản bác"
+        },
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "Only then are you permitted to say so much as a word of rebuttal or criticism"
+        }
+      ]
+    },
+    {
+      "text": "thuốc lá gây hại rất lớn; giá cao hơn khiến nhiều người hút ít đi hoặc không bắt đầu; tiền thuế có thể dùng cho y tế (lời trong ví dụ của B)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+          "quote": "Tobacco taxes are the most cost-effective way to reduce tobacco use, especially among youth and low-income groups",
+          "where": "WHO fact sheet Tobacco, mục Taxes"
+        }
+      ]
+    },
+    {
+      "text": "Ví dụ A/B về thuế thuốc lá, câu \"Vậy là anh muốn người nghèo không được hút thuốc à?!\", phản biện về thuế lũy thoái và buôn lậu: tình huống do site tự soạn, là lời của nhân vật hư cấu; phần phân tích (đây là người rơm, kia là luận cứ thép) đúng với định nghĩa SEP về straw man",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute",
+          "where": "mục Fallacies of relevance / ignoratio elenchi (straw man)"
+        }
+      ]
+    },
+    {
+      "text": "Hạ một người rơm không chứng minh được gì: đối thủ thật vẫn đứng đó, nguyên vẹn (lý do thứ nhất)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute",
+          "where": "mục Fallacies of relevance / ignoratio elenchi (straw man)"
+        }
+      ]
+    },
+    {
+      "text": "Đổi ý sau khi đã hiểu đúng không phải thua; đó là triết học đang làm đúng việc của nó (nhận định của site, không gán cho nguồn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "It transforms your opponent into a more receptive audience for your criticism or dissent, which in turn helps advance the discussion"
+        }
+      ]
+    },
+    {
+      "text": "Công cụ dẫn qua 4 bước: phát biểu lại phe đối lập, liệt kê 3 lập luận, ghi bằng chứng, viết điều làm đổi ý (đối chiếu docs/assets/js/steelman.js: 4 bước khớp, MIN_LEN, \"Cần cả 3 luận cứ\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+          "quote": "You should list any points of agreement",
+          "where": "Quy tắc Rapoport là cơ sở khái niệm cho việc dựng lại và công nhận điểm mạnh của đối phương; 4 bước của công cụ là thiết kế của site"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ví dụ A/B (thuế thuốc lá) do site soạn nên không cần nguồn về chuyện kể; WHO xác nhận thuế thuốc lá giảm sử dụng, nhất là ở nhóm thu nhập thấp. Mối lo \"thuế lũy thoái, buôn lậu\" được nêu như một phản biện có thể tranh luận, không khẳng định như sự thật. Thuật ngữ: dùng \"lập luận\" đúng; \"luận cứ thép\" là tên khái niệm, được miễn."
+}

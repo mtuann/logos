@@ -1,0 +1,95 @@
+{
+ "unit": "cong-cu/quy-nap.md#tuong-quan-khong-phai-nhan-qua",
+ "hash": "sha256:5eeffb36e0a585bbb2c3dc81cd14c7b3765721522703102e8369ab50181d766d",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p06 + agent-kiem-5.5-k04",
+ "claims": [
+  {
+   "text": "Khả năng 3: yếu tố gây nhiễu chung (trời nóng → kem và đuối nước).",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "both are the effect of a common cause",
+     "where": "Correlation/Common cause"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-probabilistic/",
+     "quote": "Reichenbach says that the common cause explains the correlation between A and B",
+     "where": "SEP Probabilistic Causation"
+    }
+   ]
+  },
+  {
+   "text": "Khả năng 4: trùng hợp; có những cặp số đi cùng nhau chỉ do tình cờ.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "but on any other chance correlation of the supposed cause being in the presence of the supposed effect.",
+     "where": "Cum Hoc"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-probabilistic/",
+     "quote": "PR also has trouble with spurious correlations",
+     "where": "SEP"
+    }
+   ]
+  },
+  {
+   "text": "Khả năng 2: B gây ra A (đảo chiều nhân quả).",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Reversing Causation",
+     "where": "tên mục ngụy biện trong IEP"
+    }
+   ]
+  },
+  {
+   "text": "Một lỗi họ hàng: B xảy ra sau A mà cho rằng A gây ra B, gọi là Sau nó nên do nó.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "hastily leap to the conclusion that A caused B",
+     "where": "Post Hoc, Ergo Propter Hoc: After this, therefore because of this"
+    }
+   ]
+  },
+  {
+   "text": "Khả năng 3 (một yếu tố gây nhiễu chung) là thủ phạm phổ biến nhất.",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”",
+     "where": "Post Hoc"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Its four principal kinds are the Post Hoc Fallacy , the Fallacy of Cum Hoc, Ergo Propter Hoc, the Regression Fallacy, and the Fallacy of Reversing Causation .",
+     "where": "False Cause"
+    }
+   ],
+   "severity": "vua",
+   "fix": "Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua.",
+   "fixed": true
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ví dụ kem/đuối nước do site soạn, là ví dụ kinh điển; chỉ kiểm phân tích. Nhấn mạnh 'phổ biến nhất' (khả năng 3 là thủ phạm phổ biến nhất) là khẳng định cường độ không có nguồn, giọng thông thường, nhe, không đánh sai. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. câu nay đúng nguyên văn fix ('thủ phạm rất hay bị bỏ qua'); bỏ xếp hạng không nguồn."
+}

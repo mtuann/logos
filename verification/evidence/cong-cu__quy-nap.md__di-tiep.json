@@ -1,0 +1,29 @@
+{
+  "unit": "cong-cu/quy-nap.md#di-tiep",
+  "hash": "sha256:40fdcedf9bc1f26172d412edcc8e4f2f9fb35e2ea2400c2bcde8b8e7671dc8fc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p06 + agent-kiem-5.5-r05",
+  "claims": [
+    {
+      "text": "Liên kết nội bộ gia-dinh-ngam.md tồn tại; các ví dụ 'người dùng ứng dụng giống người Việt nói chung' khớp bài tập 1; 'chỉ có hai khả năng' là giả định ngầm (hidden assumption).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Generalizing from a biased sample. Using an unrepresentative sample and overestimating the strength of an argument based on that sample.",
+          "where": "IEP Fallacies, mục Biased Generalizing"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đoạn dẫn nối, không có dữ kiện. Giả định ngầm 'chỉ có hai khả năng' không xuất hiện trong thân bài này (chỉ trong bài kế); nhe, không đánh sai. Lượt 2: quote cũ không có trên IEP Deductive and Inductive Arguments; thay bằng nguyên văn IEP Fallacies (Biased Generalizing)."
+}

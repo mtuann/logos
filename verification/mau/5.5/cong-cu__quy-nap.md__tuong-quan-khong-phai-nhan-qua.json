@@ -1,0 +1,83 @@
+{
+  "unit": "cong-cu/quy-nap.md#tuong-quan-khong-phai-nhan-qua",
+  "hash": "sha256:5eeffb36e0a585bbb2c3dc81cd14c7b3765721522703102e8369ab50181d766d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "Khi hai thứ hay đi cùng nhau (tương quan), có ít nhất bốn khả năng: A gây ra B; B gây ra A; C gây ra cả A và B; trùng hợp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Drawing an improper conclusion about causation due to a causal assumption that reverses cause and effect.",
+          "where": "Reversing Causation"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "a causal connection between two kinds of events is claimed when evidence is available indicating that both are the effect of a common cause.",
+          "where": "Common Cause"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "on any other chance correlation of the supposed cause being in the presence of the supposed effect.",
+          "where": "Cum Hoc, Ergo Propter Hoc"
+        }
+      ]
+    },
+    {
+      "text": "Ví dụ kem và đuối nước: trời nóng là nguyên nhân chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Noting that the auto accident rate rises and falls with the rate of use of windshield wipers, one concludes that the use of wipers is somehow causing auto accidents. However, it’s the rain that’s the common cause of both.",
+          "where": "Common Cause (ví dụ cùng cấu trúc)"
+        }
+      ]
+    },
+    {
+      "text": "Khả năng 3 (một yếu tố gây nhiễu chung) là thủ phạm phổ biến nhất.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”",
+          "where": "Post Hoc"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Its four principal kinds are the Post Hoc Fallacy , the Fallacy of Cum Hoc, Ergo Propter Hoc, the Regression Fallacy, and the Fallacy of Reversing Causation .",
+          "where": "False Cause"
+        }
+      ],
+      "severity": "vua",
+      "fix": "Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua.",
+      "fixed": true
+    },
+    {
+      "text": "Một lỗi họ hàng là chỉ vì B xảy ra sau A mà cho rằng A gây ra B, gọi là Sau nó nên do nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B. If so, our reasoning contains the Post Hoc Fallacy.",
+          "where": "Post Hoc"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Claim \"phổ biến nhất\" là khẳng định so sánh tần suất không có nguồn nào trong SEP/IEP đã mở; IEP chỉ liệt kê các dạng nguyên nhân giả (post hoc, cum hoc, regression, reversing causation) và Common Cause, không xếp hạng. Ghi vua (khẳng định thực nghiệm không nguồn, dễ gây hiểu lầm); có thể hạ nhe nếu chủ biên coi là cách nói nhấn mạnh. Link nguy-bien.md#post-hoc tồn tại (H3 \"Sau nó nên do nó {#post-hoc}\"). Kiểm lại (k04): câu nay đúng nguyên văn fix ('thủ phạm rất hay bị bỏ qua'); bỏ xếp hạng không nguồn."
+}

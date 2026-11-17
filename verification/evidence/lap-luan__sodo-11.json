@@ -1,0 +1,96 @@
+{
+ "unit": "lap-luan/sodo-11",
+ "hash": "sha256:d414248c6e3bd0f19ecadc4363c2269b689ef9d8b61c11fd240707d2c3f8681a",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 (c1 đỡ c2, c2 và c3 đỡ c5) là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "c2: \"Khả năng đỗ vào trường A của em là rất cao.\" (dap_an: tien-de) là kết luận trung gian của c1",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "usually consist of layers of inference that proceed from initial premises to intermediate conclusions which are premises for further conclusions, culminating in some “main” or “principal” conclusion",
+     "where": "SEP Informal Logic, mục về cấu trúc lập luận"
+    }
+   ],
+   "severity": "vua",
+   "fix": "Thêm ghi_chu_tranh_cai: \"c2 vừa là kết luận của c1 vừa là tiền đề cho c5; công cụ chỉ có ba vai trò nên tính là tiền đề, cách gán kết luận cũng được chấp nhận.\" Công cụ không có vai trò \"kết luận trung gian\" mà SEP mô tả.",
+   "fixed": true
+  },
+  {
+   "text": "c4: \"Bạn thân của em cũng định thi trường A.\" (dap_an: khong-lien-quan)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "vua",
+   "fix": "Thêm ghi_chu_tranh_cai: \"c4 có thể đọc là lý do chọn trường (học cùng bạn); vì nó không được trình bày như lý do cân nhắc nên tính là không liên quan, nhưng cách đọc tiền đề cũng được chấp nhận.\" Hoặc đổi c4 thành câu rõ ràng lạc đề.",
+   "fixed": true
+  },
+  {
+   "text": "ghi_chu_tranh_cai: \"c2 vừa được c1 đỡ vừa đỡ c5, tức là một kết luận trung gian. …\" (nhắc c1 và c5 khiến công cụ chấp nhận mọi vai trò cho c1 và cho kết luận c5)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "vua",
+   "fix": "ghi_chu_tranh_cai: \"c2 vừa được câu về điểm chuẩn đỡ vừa đỡ lời khuyên đặt nguyện vọng một, tức là một kết luận trung gian. Công cụ chỉ có vai trò tiền đề và kết luận, nên c2 được tính là tiền đề; gán c2 là kết luận cũng được chấp nhận.\"",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "usually consist of layers of inference that proceed from initial premises to intermediate conclusions which are premises for further conclusions, culminating in some “main” or “principal” conclusion",
+     "where": "SEP Informal Logic, mục 3 (cấu trúc lập luận)"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "a standardized argument is a list of premises and a conclusion",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "fixed": true
+  }
+ ],
+ "result": "dat",
+ "notes": "Đoạn khó hơn: có chuỗi c1→c2→c5. Công cụ vẽ cạnh c1→c2 đúng, nhưng thiếu vai trò kết luận trung gian. Kiểm lại: c4 đã đổi thành câu lạc đề rõ (\"Năm nay em vừa đổi sang dùng điện thoại mới.\"): sửa đúng. ghi_chu_tranh_cai mới cho c2 đúng ý fix (c2 là kết luận trung gian, gán kết luận cũng được chấp nhận). Nhưng ghi chú nhắc cả \"c1\" và \"c5\", nên disputedIds trả [c2, c1, c5]: kết luận c5 và tiền đề c1 nay được chấm đúng với bất kỳ vai trò nào (người học gán c5 là không liên quan vẫn được điểm). Ghi claim mới mức vừa; fix viết lại ghi chú không nhắc mã câu nào ngoài c2. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node). Kiểm lại lần 2 (commit 60494d1): ghi chú tranh cãi viết lại đúng fix, chỉ còn mã c2; node chạy disputedIds trả [\"c2\"], kết luận c5 và tiền đề c1 lại được chấm chặt. Cơ chế: docs/assets/js/so-do-lap-luan.js, hàm disputedIds."
+}

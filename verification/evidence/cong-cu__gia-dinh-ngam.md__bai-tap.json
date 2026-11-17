@@ -1,0 +1,102 @@
+{
+  "unit": "cong-cu/gia-dinh-ngam.md#bai-tap",
+  "hash": "sha256:0ecd7b14ff295124391663ed17cd397307a23ab340ef28f9d627020e331f077b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-r05 + agent-kiem-5.5-k02",
+  "claims": [
+    {
+      "text": "Bài 1: giả định ngầm 'Mọi người miền Trung đều ăn cay giỏi'; sai; đọc thiện chí thành 'phần lớn' thì thành quy nạp thống kê và 'chắc chắn' không còn được biện minh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "those that make their conclusions merely probable",
+          "where": "IEP: lập luận quy nạp chỉ làm kết luận có xác suất, nên 'chắc chắn' không phù hợp"
+        }
+      ]
+    },
+    {
+      "text": "Bài 2: giả định 'mọi thứ hoàn toàn từ thiên nhiên đều an toàn tuyệt đối cho da em bé' sai (nhiều chất tự nhiên gây dị ứng/độc); 'Đây là một trường hợp của viện dẫn tự nhiên'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.fda.gov/cosmetics/cosmetics-labeling-claims/organic-cosmetics",
+          "quote": "An ingredient’s source does not determine its safety. For example, many plants, whether or not they are organically grown, contain substances that may be toxic or allergenic.",
+          "where": "FDA, \"Organic\" Cosmetics, câu hỏi 'Are cosmetics made with “organic” ingredients safer…?'"
+        },
+        {
+          "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely",
+          "quote": "Many dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.”",
+          "where": "NCCIH (NIH), Using Dietary Supplements Wisely: suy 'tự nhiên' ra 'an toàn' là không đúng"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/callicles-thrasymachus/",
+          "quote": "this kind of appeal to nature runs through almost all of ancient ethics",
+          "where": "SEP Callicles and Thrasymachus §2: tên 'appeal to nature' cho lối suy từ tự nhiên ra chuẩn mực, kèm nguyên tắc của Hume"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "On a broad interpretation of this fallacy, it applies to any attempt to argue from an “is” to an “ought,”",
+          "where": "IEP Fallacies, mục Naturalistic (cách hiểu rộng)"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3: dạng chuẩn P1, P2 (ngầm), K hợp lệ (modus ponens), P2 sai vì một trường hợp không bác bỏ khẳng định về nguy cơ/tỉ lệ; là khái quát vội vàng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP Fallacies mục 2.3"
+        },
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "it would be impossible for the premises to be true and for the conclusion to be false",
+          "where": "IEP: hợp lệ"
+        }
+      ]
+    },
+    {
+      "text": "Bài 4: ngầm 'đọc mà không trả lời thì giận'; bỏ qua lời giải thích khác; đây là bài toán của suy luận đến lời giải thích tốt nhất (đã xét đủ giả thuyết chưa?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+          "quote": "the best of a bad lot",
+          "where": "SEP Abduction (Douven): ABD1 dựa trên 'candidate explanations'; Inference to the Best Explanation là tên hiện đại của abduction; cảnh báo best of a bad lot khi chưa xét đủ giả thuyết"
+        }
+      ]
+    },
+    {
+      "text": "Bài 5: ngầm 'Nếu không biết chắc ... thì không ai phải chịu trách nhiệm' trộn tri thức với sự việc; tương thích luận cho rằng ta vẫn có thể chịu trách nhiệm dù bị định trước; bất tương thích luận không đồng ý",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/compatibilism/",
+          "quote": "Compatibilism is the thesis that free will is compatible with determinism.",
+          "where": "SEP Compatibilism"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/compatibilism/",
+          "quote": "Other incompatibilists argue directly that causal determinism precludes moral responsibility.",
+          "where": "SEP Compatibilism"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Bài 2: cụm 'viện dẫn tự nhiên' (appeal to nature) gọi tên một ngụy biện, nhưng SEP Fallacies (fall2026) không có mục này (không tìm thấy trong phần đã đọc) và IEP Fallacies không có mục 'Appeal to Nature' (có 'Naturalistic' về is-ought, không cùng nghĩa); URL đã thử: plato.stanford.edu/archives/fall2026/entries/fallacies/, iep.utm.edu/fallacy/ (đọc 100000 ký tự đầu và đoạn sau offset 100000). Lập luận phân tích (tự nhiên không bảo đảm an toàn) tự kiểm bằng logic: đúng. Cần nguồn học thuật cho tên gọi hoặc đổi cách gọi. Checklist điền theo kết quả: các mục bài tập không chấm gắt. Lượt 2: Bài 2 — phần phân tích (tự nhiên không bảo đảm an toàn; nhiều chất từ cây có thể độc/gây dị ứng) có nguồn FDA \"Organic\" Cosmetics; tên ngụy biện \"viện dẫn tự nhiên\" (appeal to nature) vẫn không tìm được nguồn học thuật (đã thử thêm SEP searcher \"appeal to nature\", \"appeals to nature\", \"appeal to naturalness\", \"argument from nature\", \"natural is good\": chỉ ra các mục lịch sử/vật lý, không bàn ngụy biện; OpenAlex/Semantic Scholar bị giới hạn 429), nên chuyển claim thành sai mức nhẹ với fix bỏ câu gán tên ngụy biện. Nếu bản ghi fallacy-types/appeal-nature được kiểm có nguồn thì có thể giữ liên kết chéo. Kiểm lại: chữ và mã băm không đổi. Đã mở lại nguồn của fallacy-types/appeal-nature: NCCIH ('natural' does not always mean 'safe'), SEP Callicles and Thrasymachus (dùng đúng cụm 'appeal to nature' cho lối suy từ tự nhiên, bị chất vấn theo nguyên tắc của Hume), IEP Naturalistic; SEP Chimeras chỉ bàn chiều ngược ('trái tự nhiên nên sai') nên không dẫn. Cùng FDA (nguồn gốc không quyết định an toàn), đủ cho câu 'Đây là một trường hợp của viện dẫn tự nhiên' khi hiểu là liên kết tới loại ngụy biện của site (bản ghi fallacy-types/appeal-nature đã dat, định nghĩa gồm 'tự nhiên thì … an toàn'). Chuyển claim 1 thành dung."
+}

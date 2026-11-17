@@ -66,7 +66,7 @@ Câu hỏi thứ ba thường là chỗ thú vị nhất. Giả định ngầm l
 
 ## Đừng xấu hổ khi phải đọc ba lần {#dung-xau-ho-khi-phai-doc-ba-lan}
 
-Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
+Đọc một văn bản khó ba lần không phải dấu hiệu bạn dốt. Đó là dấu hiệu bạn đang đọc đúng cách. Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau. Ai cũng phải đi qua con đường đó, kể cả người viết ra văn bản.
 
 Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu vào tường. Tra thuật ngữ (bắt đầu từ [Từ điển](../them/tu-dien.md) của site này), hỏi người khác, hoặc để đó vài ngày rồi quay lại. Văn bản khó thường "mềm ra" sau một giấc ngủ.
 
@@ -86,9 +86,9 @@ Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu v�
 
 **Lượt ba:** Đánh giá.
 
-- *Hợp lệ?* Có, nếu hiểu "đúng đắn" là "nên làm" — khi đó khuôn này là một tam đoạn luận: tiền đề đúng thì kết luận đúng.
-- *Tiền đề có đúng không?* Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông. Tiền đề 1 đáng ngờ hơn: "đúng đắn" có thực sự đồng nghĩa với "làm giảm tội phạm"? Người theo nghĩa vụ luận sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).
-- *Giả định ngầm?* "Đúng đắn" = "mang lại hậu quả tốt" — chính là lập trường **hệ quả luận**, được lén đưa vào như điều hiển nhiên.
+- *Hợp lệ?* Có, nếu hiểu "đúng đắn" là "nên làm" — khi đó khuôn này là một tam đoạn luận (*syllogism*): tiền đề đúng thì kết luận đúng.
+- *Tiền đề có đúng không?* Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông. Tiền đề 1 đáng ngờ hơn: chỉ cần "làm giảm tội phạm" là đủ để một biện pháp "đúng đắn" sao? Người theo nghĩa vụ luận (*deontology*) sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).
+- *Giả định ngầm?* "Đúng đắn" = "mang lại hậu quả tốt" — chính là lập trường **hệ quả luận** (*consequentialism*), được lén đưa vào như điều hiển nhiên.
 
 Thấy không? Đoạn văn chỉ có bốn câu, mà lượt ba đã mở ra cả một tranh luận của đạo đức học. Đó là phần thưởng của việc đọc chậm.
 

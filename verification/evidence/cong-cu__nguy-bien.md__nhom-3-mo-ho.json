@@ -1,0 +1,51 @@
+{
+  "unit": "cong-cu/nguy-bien.md#nhom-3-mo-ho",
+  "hash": "sha256:085c1512f5b4a5a480bafa490a0d72234eca0efec2f93b2e2767c0d0d91a1ec0",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "Đánh tráo khái niệm (equivocation): dùng một từ hai nghĩa trong cùng lập luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning.",
+          "where": "IEP"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "exploits the ambiguity of a term or phrase which has occurred at least twice in an argument",
+          "where": "SEP"
+        }
+      ]
+    },
+    {
+      "text": "Trong khoa học, \"thuyết\" là một hệ thống giải thích được kiểm chứng rộng rãi; trong lời nói thường ngày, \"thuyết\" có khi chỉ là \"giả thuyết suông\" (ví dụ thuyết tiến hóa)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/creationism/",
+          "quote": "this is to confuse two senses of the word ‘theory.’ Sometimes we use it to mean a body of scientific laws, as in ‘Einstein’s theory of relativity.’ Sometimes we use it to mean an ‘iffy hypothesis,’",
+          "where": "SEP Creationism, mục lập luận 'evolution is only a theory'"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/creationism/",
+          "quote": "There is nothing iffy about the Copernican heliocentric theory.",
+          "where": "SEP Creationism"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Phần định nghĩa khớp nguồn; phần định nghĩa 'theory' trong khoa học chưa mở được nguồn. Lượt 2: claim #1 giải quyết bằng SEP Creationism (hai nghĩa của 'theory', áp vào thuyết tiến hóa)."
+}

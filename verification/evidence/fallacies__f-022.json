@@ -1,0 +1,62 @@
+{
+ "unit": "fallacies/f-022",
+ "hash": "sha256:ab096225808576af3298346b7106c40953c50e3d87e941d1393182a579080ea5",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: false-dilemma",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Fallacy that limits you unfairly to only two choices, as if you were made to choose between black and white."
+    }
+   ]
+  },
+  {
+   "text": "options: appeal-emotion, straw-man, slippery-slope không hợp lý hơn; áp lực của mẹ không phải lý do sai chính",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings"
+    }
+   ]
+  },
+  {
+   "text": "explanation: Còn vô số ngành nghề khác... như thể không còn khả năng thứ ba.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy"
+    }
+   ]
+  },
+  {
+   "text": "why_not.slippery-slope / appeal-emotion / straw-man",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

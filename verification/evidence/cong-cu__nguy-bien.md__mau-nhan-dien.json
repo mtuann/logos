@@ -1,0 +1,46 @@
+{
+ "unit": "cong-cu/nguy-bien.md#mau-nhan-dien",
+ "hash": "sha256:ca871b4a30974dea295720381d43275fe4f16b91072d4c3cb5f637d2c228c3ca",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p08",
+ "claims": [
+  {
+   "text": "Bốn nhóm chẩn đoán: sai liên quan, giả định sai, mơ hồ, hình thức; từ chỉ báo ('ai cũng biết', 'hàng triệu người đã...', 'một là... hai là...')",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "simply applying the fallacy name to a passage cannot substitute for a detailed examination of the passage",
+     "where": "IEP; cách chia nhóm là của site (SEP không chia bốn nhóm này), không phải claim về nguồn"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "Formal fallacies are those readily seen to be instances of identifiable invalid logical forms.",
+     "where": "SEP"
+    }
+   ]
+  },
+  {
+   "text": "Viết lại dạng 'nếu P thì Q': đang khẳng định cái đuôi hay phủ định cái đầu",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional",
+     "where": "IEP"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Mục là công cụ chẩn đoán do site soạn; không có dữ kiện cần nguồn."
+}

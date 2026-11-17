@@ -1,0 +1,122 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#tu-kiem-tra",
+  "hash": "sha256:42e0750d6c0251938c17b829ede8e083c99f5da469229d38a69968f34ad580b3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06 + agent-kiem-5.5-k03",
+  "claims": [
+    {
+      "text": "Q1 (argument-3): đáp án 1 \"Hỏi định nghĩa: X là gì?\" — explain: vấn đáp bắt đầu bằng câu hỏi định nghĩa, không phải ví dụ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates typically begins his elenchus with the question, \"what is it\"?",
+          "where": "IEP Elenchus, Topic"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "I did not ask you to give me two or three examples of piety",
+          "where": "Euthyphro 6d-e (Jowett)"
+        }
+      ]
+    },
+    {
+      "text": "Q2: đáp án 1 \"Trạng thái cả hai cùng thừa nhận chưa hiểu X như mình tưởng — và đó là tiến bộ\"; phương án 0 (\"Thất bại của cuộc tranh luận\") là phương án nhiễu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "they end up admitting their ignorance",
+          "where": "SEP Plato's Ethics 2.1"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "to use that confusion as a stepping stone on the way to establishing a more consistent, well-formed set of beliefs",
+          "where": "IEP Elenchus, Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Q3: đáp án 1 (các thần yêu điều mộ đạo vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu?) đúng; ba phương án còn lại sai.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "whether the pious or holy is beloved by the gods because it is holy, or holy because it is beloved of the gods",
+          "where": "Euthyphro 10a (Jowett)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/religion-morality/",
+          "quote": "Is the holy holy because it is loved by the gods, or do they love it because it is holy?",
+          "where": "SEP Religion and Morality"
+        }
+      ]
+    },
+    {
+      "text": "Q3 explain: \"Đây là 'thế lưỡng nan Euthyphro' nổi tiếng: vế nào cũng làm định nghĩa 'mộ đạo là điều các thần yêu mến' sụp đổ.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Đây là \"thế lưỡng nan Euthyphro\" nổi tiếng: nếu các thần yêu điều mộ đạo vì nó mộ đạo, thì \"được các thần yêu\" chỉ là một thuộc tính chứ không nói lên bản chất của mộ đạo, và định nghĩa của Euthyphro sụp đổ; nếu nó mộ đạo chỉ vì được các thần yêu, thì mộ đạo trở thành ý thích tùy tiện của các thần.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/religion-morality/",
+          "quote": "Socrates makes it clear that his view is the second, though he does not argue for this conclusion in addressing this question",
+          "where": "SEP Religion and Morality: Socrates chỉ chọn một vế"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "to offer an attribute only, and not the essence--the attribute of being loved by all the gods",
+          "where": "Euthyphro 11a: định nghĩa sụp đổ vì vế \"yêu vì nó mộ đạo\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/religion-morality/",
+          "quote": "that it makes morality arbitrary",
+          "where": "Vế còn lại dẫn đến vấn đề \"tùy tiện\" (Quinn), không phải làm định nghĩa tự sụp đổ"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Q4: đáp án 1 (vấn đáp nhằm cùng tìm sự thật và người hỏi sẵn sàng đổi ý; cãi nhau nhằm thắng); phương án 0 (\"vấn đáp dùng câu hỏi, cãi nhau thì không\") sai vì hỏi xoáy vẫn có thể dùng để làm nhục.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "Alas! my companion, and will you leave me in despair?",
+          "where": "Euthyphro: Socrates cũng nhận bế tắc, không \"thắng\""
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "IEP Fallacies, Ad Hominem: tấn công người thay vì lập luận"
+        }
+      ]
+    },
+    {
+      "text": "Q5: \"Tự do là muốn gì làm nấy.\" Đáp án 1 (người nghiện vừa muốn hút vừa muốn bỏ) là phản ví dụ đánh trúng; ba phương án còn lại không phải phản ví dụ; explain \"muốn gì làm nấy nghĩa là theo cái muốn nào?\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liberty-positive-negative/",
+          "quote": "you feel you are being driven",
+          "where": "SEP Positive and Negative Liberty: người nghiện làm theo ham muốn nhưng không thấy mình tự do"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đáp án của cả 5 câu đúng. Phương án nhiễu Q5: (a) hết tiền và (c) muốn bay thì vẫn nhất quán với định nghĩa (không tự do), (d) không muốn gì cả không phải phản ví dụ rõ ràng; chỉ (b) đánh vào chữ \"muốn\". Q3 explain lệch với đoạn trước của bài (đoạn Euthyphro nói đúng rằng vế sau dẫn đến \"ý thích thất thường\", không phải làm định nghĩa sụp đổ), mức vừa. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn. Kiểm lại (k03): explain Q3 đổi theo fix: vế đầu làm \"được các thần yêu\" chỉ là một thuộc tính chứ không nói mộ đạo là gì (khớp Jowett 11a \"to offer an attribute only, and not the essence\"), vế sau biến mộ đạo thành ý thích tùy tiện; khớp đoạn Euthyphro của bài. Claim 3 fixed."
+}

@@ -1,0 +1,58 @@
+{
+ "unit": "cong-cu/gia-dinh-ngam.md#vi-du-1-mot-doan-binh-luan-bao-chi",
+ "hash": "sha256:cb03e3fe01a2473ea9f0d720c5c17455bc745bc0c34702999716184ddbf0ad4d",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p07",
+ "claims": [
+  {
+   "text": "Đoạn văn do Logos tự viết; nội dung các nước phát triển cấm điện thoại là câu kể trong ví dụ giả định, không khẳng định thật",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Recognizing an argument’s implicit premises prepares the way for argument evaluation",
+     "where": "mục 3.1"
+    }
+   ]
+  },
+  {
+   "text": "Hai phiên bản P1,P2,(P3),K đều hợp lệ; P2 phiên bản đầu quá mạnh (truyện tranh, bạn ngồi bên cạnh cũng gây mất tập trung); phiên bản sau hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "it would be impossible for the premises to be true and for the conclusion to be false",
+     "where": "IEP: hợp lệ"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "favors an interpretation of an argument which makes the argument as credible as possible",
+     "where": "mục 3.1"
+    }
+   ]
+  },
+  {
+   "text": "Lý do (a) chỉ nói các nước khác đã áp dụng, không nói có hiệu quả; muốn ủng hộ P3 cần dữ liệu về kết quả",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Recognizing an argument’s implicit premises prepares the way for argument evaluation",
+     "where": "mục 3.1"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Tự kiểm logic: P1+P3 cho vế điều kiện của P2, modus ponens, hợp lệ. Ví dụ 'mọi trường học' vs 'trong trường' khớp."
+}

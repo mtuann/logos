@@ -1,0 +1,49 @@
+{
+  "unit": "cong-cu/gia-dinh-ngam.md#di-tiep",
+  "hash": "sha256:c3d8af5e6bdc119be6e3764e70fc411cfb00bc5a979693daf164c36ddfd8a051",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument",
+          "where": "mục Hasty Generalization (ví dụ một kiểu lỗi được đặt tên)"
+        }
+      ]
+    },
+    {
+      "text": "Những lối tắt quen thuộc ấy là chủ đề của bài cuối trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Những lối tắt quen thuộc ấy là chủ đề của bài tiếp theo trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/",
+          "quote": "19 lối tắt dẫn sai đường, và khi nào chúng",
+          "where": "mục lục Công cụ tư duy: Ngụy biện là bài 8/15"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/",
+          "quote": "Dựng lại lập trường đối lập ở dạng mạnh nhất",
+          "where": "bài 15 Luận cứ thép là bài cuối của trục"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ngụy biện là bài 8 trong 15 bài của trục Công cụ tư duy (docs/cong-cu/index.md, mkdocs.yml nav), không phải bài cuối. Chữ \"bài cuối\" còn từ cấu trúc cũ. Ngoài khóa này: docs/cong-cu/nguy-bien.md mục Đi tiếp cũng viết \"Bạn đã đi hết trục \\\"Công cụ tư duy\\\"\" — cùng lỗi, nên ghi viec-cho. Kiểm lại (k04): câu nay đúng nguyên văn fix ('bài tiếp theo'); content.yml và mkdocs.yml nav xếp nguy-bien.md ngay sau gia-dinh-ngam.md."
+}

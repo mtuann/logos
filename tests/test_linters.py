@@ -197,9 +197,9 @@ class TestLintVolatile(unittest.TestCase):
 class TestLintStructure(unittest.TestCase):
     def test_baseline_missing_sections(self):
         """Báo cáo nền (verification/bao-cao-nen.md mục 5) có hai trang; đợt 5.4: mục "Đọc từng đoạn (diễn ý)"
-        của Sartre được nhận, còn luan-cu-thep (5.5)."""
+        của Sartre được nhận; đợt 5.5: luan-cu-thep có "Bài tập", "Tự kiểm tra" (quyết định 19)."""
         got = sorted((f.page, f.found) for f in lint_structure.collect() if f.rule == "thieu-muc")
-        self.assertEqual(got, [("cong-cu/luan-cu-thep.md", "Bài tập"), ("cong-cu/luan-cu-thep.md", "Tự kiểm tra")])
+        self.assertEqual(got, [])
 
     def test_norm_heading(self):
         self.assertEqual(lint_structure.norm_heading("Câu hỏi thật sự là gì? {#cau-hoi}"), "câu hỏi thật sự là gì")
@@ -216,10 +216,19 @@ class TestReports(unittest.TestCase):
         self.assertIn("| `thieu-muc` | ", a)
 
     def test_cli_warning_vs_strict(self):
-        with contextlib.redirect_stdout(io.StringIO()) as out:
-            self.assertEqual(lint_structure.main(["-q"]), 0)
-            self.assertEqual(lint_structure.main(["-q", "--strict"]), 1)
+        # Đợt 5.5: Lõi đã hết thieu-muc, nên dùng một chỗ giả để thử hai chế độ.
+        fake = [lint.Finding("cong-cu/x.md", 0, "", "thieu-muc", "Bài tập", "")]
+        orig = lint_structure.collect
+        lint_structure.collect = lambda: fake
+        try:
+            with contextlib.redirect_stdout(io.StringIO()) as out:
+                self.assertEqual(lint_structure.main(["-q"]), 0)
+                self.assertEqual(lint_structure.main(["-q", "--strict"]), 1)
+        finally:
+            lint_structure.collect = orig
         self.assertIn("chế độ cảnh báo", out.getvalue())
+        with contextlib.redirect_stdout(io.StringIO()):
+            self.assertEqual(lint_structure.main(["-q", "--strict"]), 0)
 
 
 class TestLintFacts(unittest.TestCase):

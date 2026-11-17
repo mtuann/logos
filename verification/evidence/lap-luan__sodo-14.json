@@ -1,0 +1,46 @@
+{
+ "unit": "lap-luan/sodo-14",
+ "hash": "sha256:76458ef3c37f9f02213d218fe1021a3b5b082316c50237d5a25c67ef383a3605",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "c2 \"giống chó nhỏ ít sủa\" là nội dung đoạn luyện tập; là khái quát đời thực gây tranh cãi (thường nghe nói chó nhỏ ồn hơn), tôi không tìm được nguồn xác nhận hay bác trong nguồn đã mở (McGreevy et al. 2013, PLoS ONE, chỉ nêu tiếng sủa dai dẳng tăng ở chó sọ dài), nên không phán. Nếu muốn an toàn, đổi c2 thành \"Chó nhỏ cần ít diện tích hơn chó to.\""
+}

@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-010",
+  "hash": "sha256:635bf824b0f2683be66769c9564b179c6719a5ed3569e4978d8cdc74f7c052d6",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: red-herring",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Một camera ở bãi xe chung cư và chuyện theo dõi điện thoại ở nước khác là hai vấn đề khác nhau. Anh Dũng mượn chữ “giám sát” để kéo cuộc họp sang chủ đề kia, nên đề xuất của chị Hạnh không được bàn đến.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.straw-man: Anh Dũng không nói chị Hạnh muốn theo dõi điện thoại người dân; anh không diễn đạt lại đề xuất mà bỏ nó sang một bên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "you attribute an easily refuted position to your opponent, one that the opponent would not endorse",
+          "where": "mục Straw Man"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Anh không nói lắp camera rồi sẽ dẫn tới bị theo dõi điện thoại; anh chỉ chuyển chủ đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Nếu anh Dũng lo camera quay vào cửa nhà ai đó trong chung cư thì đó là phản biện chính đáng. Nhưng anh lại nói chuyện khác hẳn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đánh lạc hướng: chuyển từ camera bãi xe sang theo dõi điện thoại. why_not none và straw-man hợp lý."
+}

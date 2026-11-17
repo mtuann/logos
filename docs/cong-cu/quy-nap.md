@@ -40,7 +40,7 @@ Những con thiên nga ta đã quan sát đều màu trắng.
 Mọi con thiên nga đều màu trắng.
 ```
 
-Người châu Âu từng có rất nhiều quan sát như thế, cho đến khi gặp thiên nga đen ở Úc. Quy nạp mạnh vẫn có thể sai.
+Nhưng chỉ cần gặp một con thiên nga không trắng, như thiên nga đen ở Úc, là câu trên sai. Quy nạp mạnh vẫn có thể sai.
 
 ### Quy nạp thống kê
 
@@ -135,7 +135,7 @@ Khi hai thứ hay đi cùng nhau (**tương quan**), có ít nhất bốn khả 
                                đi cùng nhau chỉ do tình cờ.
 ```
 
-Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm phổ biến nhất. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
+Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua. Trước khi kết luận A gây ra B, hãy hỏi: có yếu tố nào khác có thể gây ra cả hai không? Có thể nào chiều nhân quả ngược lại không?
 
 Một lỗi họ hàng là chỉ vì B xảy ra *sau* A mà cho rằng A gây ra B, gọi là [Sau nó nên do nó](nguy-bien.md#post-hoc).
 
@@ -165,7 +165,7 @@ Giải thích  → Đã xét đủ các giả thuyết khác chưa? Giả thuy�
 **Bài 2.** "Hãng bay X có 95% chuyến đúng giờ trong năm qua. Chuyến bay của tôi chiều nay thuộc hãng X. Vậy chuyến của tôi có lẽ sẽ đúng giờ." Thông tin nào sau đây làm lập luận yếu đi: (a) hãng X vừa được giải thưởng dịch vụ; (b) chiều nay có bão đổ bộ vào sân bay đến?
 
 ??? success "Xem gợi ý đáp án"
-    (b). Bây giờ nhóm liên quan không còn là "mọi chuyến bay của hãng X" mà là "chuyến bay vào sân bay đang có bão", và tỉ lệ đúng giờ của nhóm này chắc chắn thấp hơn nhiều. Điều này cho thấy lập luận quy nạp có thể yếu đi khi biết thêm thông tin, điều không bao giờ xảy ra với tính hợp lệ của suy diễn.
+    (b). Bây giờ nhóm liên quan không còn là "mọi chuyến bay của hãng X" mà là "chuyến bay vào sân bay đang có bão", và tỉ lệ đúng giờ của nhóm này nhiều khả năng thấp hơn nhiều. Điều này cho thấy lập luận quy nạp có thể yếu đi khi biết thêm thông tin, điều không bao giờ xảy ra với tính hợp lệ của suy diễn.
 
 **Bài 3.** Đánh giá lập luận loại suy: "Bộ não xử lý thông tin giống như máy tính. Máy tính không có cảm xúc. Vậy bộ não cũng không thực sự có cảm xúc."
 

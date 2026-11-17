@@ -28,7 +28,7 @@ Phần lớn ngụy biện trong đời sống là loại phi hình thức.
 
 ## Ba lời cảnh báo trước khi bắt đầu {#ba-loi-canh-bao-truoc-khi-bat-dau}
 
-**Thứ nhất: một lập luận có ngụy biện không có nghĩa kết luận sai.** Nếu chú Hải lập luận tồi cho việc uống nước chanh, điều đó chỉ cho thấy *lý do của chú* không đủ, không cho thấy nước chanh vô hại hay có hại. Cho rằng "lập luận của anh có ngụy biện, vậy kết luận của anh sai" chính là một ngụy biện, đôi khi được gọi đùa là "ngụy biện về ngụy biện".
+**Thứ nhất: một lập luận có ngụy biện không có nghĩa kết luận sai.** Nếu chú Hải lập luận tồi cho việc uống nước chanh, điều đó chỉ cho thấy *lý do của chú* không đủ, không cho thấy nước chanh vô hại hay có hại. Cho rằng "lập luận của anh có ngụy biện, vậy kết luận của anh sai" chính là một ngụy biện; ta có thể gọi nó là "ngụy biện về ngụy biện".
 
 **Thứ hai: gọi tên không thay cho tranh luận.** Trên mạng, nhiều người ném ra "ad hominem!", "người rơm!" như ném một tấm thẻ đỏ rồi coi như thắng. Nhưng gọi tên chỉ là bước đầu. Bạn vẫn phải chỉ ra *vì sao* lập luận cụ thể này mắc lỗi đó, ở chỗ nào. Như Bradley Dowden lưu ý trong mục "Fallacies" của *Internet Encyclopedia of Philosophy*, dán nhãn ngụy biện không thay được việc xem xét kỹ đoạn văn và bối cảnh của nó.
 
@@ -99,7 +99,7 @@ Tiền đề có thể đúng, nhưng không liên quan đến việc kết lu�
 *Appeal to nature.* Cho rằng thứ gì "tự nhiên" thì tốt hoặc an toàn, thứ gì "nhân tạo" thì xấu hoặc nguy hiểm.
 
 - **Mẫu:** X là tự nhiên. Vậy X tốt (an toàn, đúng đắn).
-- **Ví dụ:** "Thuốc này làm từ lá cây trong rừng, hoàn toàn tự nhiên nên không có tác dụng phụ." (Lá ngón cũng hoàn toàn tự nhiên.)
+- **Ví dụ:** "Thuốc này làm từ lá cây trong rừng, hoàn toàn tự nhiên nên không có tác dụng phụ." (Nhiều loài cây, loài nấm cực độc cũng hoàn toàn tự nhiên.)
 - **Khi nào không phải ngụy biện:** Khi "tự nhiên" chỉ là cách nói tắt cho một bằng chứng cụ thể, chẳng hạn một loại thực phẩm đã được con người ăn an toàn qua nhiều thế hệ. Một số truyền thống đạo đức cũng có lý thuyết riêng về "tự nhiên"; đó là lập trường cần được xét bằng lập luận của nó, chứ không phải lỗi sơ đẳng.
 
 ### Ngụy biện nguồn gốc {#genetic}
@@ -272,7 +272,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đi tiếp {#di-tiep}
 
-Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chúng vào những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).
+Đến đây bạn đã có đủ công cụ để bắt đầu với những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Trục "Công cụ tư duy" còn tiếp với [Đọc văn bản khó](doc-van-ban-kho.md); nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).
 
 ## Nguồn {#nguon}
 

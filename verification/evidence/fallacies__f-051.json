@@ -1,0 +1,92 @@
+{
+  "unit": "fallacies/f-051",
+  "hash": "sha256:3da7a18e80280c2ce3df5b9708b1b69d74aba0911028e2a9d17d485ca264a369",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "answer: sunk-cost",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "commitments deriving from one’s past involvement in an activity or project, which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "SEP Practical Reason: coi trọng chi phí chìm là phi lý theo cách nhìn hệ quả; cam kết từ quá khứ có thể vẫn hợp lý"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tort-theories/",
+          "quote": "Economic analysis views injuries in the past as “sunk costs” which can never be recovered.",
+          "where": "SEP Theories of the Common Law of Torts"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-emotion, false-dilemma, slippery-slope, sunk-cost; không phương án nhiễu nào cũng hợp lý với đoạn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Ba năm đã qua không lấy lại được dù Quân chọn gì. Lý do bố mẹ đưa ra là tiếc công sức cũ, chứ không phải so sánh tương lai của hai con đường.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tort-theories/",
+          "quote": "Economic analysis views injuries in the past as “sunk costs” which can never be recovered.",
+          "where": "SEP Theories of the Common Law of Torts"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "commitments deriving from one’s past involvement in an activity or project, which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "SEP Practical Reason: coi trọng chi phí chìm là phi lý theo cách nhìn hệ quả; cam kết từ quá khứ có thể vẫn hợp lý"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Bố mẹ không nói chỉ có hai lựa chọn; cái sai là lý do “phí công”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Không có lời kêu gọi cảm xúc nào thay cho lý do; lý do có đó, nhưng nhìn về quá khứ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "mục Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Không có chuỗi hệ quả nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khái niệm không có mục riêng trong SEP \"Fallacies\" (fall2026) hay IEP \"Fallacy\" (đã tải, grep \"sunk\", \"Appeal to Nature\": 0 kết quả); cần nguồn khác, chưa mở được nguồn đáng tin nào trong phiên. Đối chiếu với bản ghi fallacy-types/sunk-cost cùng file: khớp lập luận của đoạn. Lượt 2: answer sunk-cost và explanation có nguồn: SEP Practical Reason, SEP Tort Theories."
+}

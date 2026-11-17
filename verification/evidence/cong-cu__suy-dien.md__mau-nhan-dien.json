@@ -1,0 +1,62 @@
+{
+ "unit": "cong-cu/suy-dien.md#mau-nhan-dien",
+ "hash": "sha256:b43f198e616bd5ff6595b66cc47bd3df9f72bf4cd292bd50bc3dcd31d184037f",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Từ chỉ báo suy diễn: 'tất yếu', 'nhất định', 'chắc chắn suy ra', 'không thể khác'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "necessarily",
+     "where": "Section 2: chỉ báo như 'necessarily', 'it follows that', 'therefore it must be the case that'"
+    }
+   ]
+  },
+  {
+   "text": "Bảng tra nhanh: P→Q; P⇒Q modus ponens CÓ; không Q⇒không P modus tollens CÓ; Q⇒P khẳng định hậu kiện KHÔNG; không P⇒không Q phủ định tiền kiện KHÔNG",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+     "where": "Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "Denying the Antecedent"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent.",
+     "where": "Section 5.a"
+    }
+   ]
+  },
+  {
+   "text": "Ba câu hỏi đánh giá: hình thức, phản ví dụ, tiền đề có đúng (vững chắc)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both valid, and all of its premises are actually true"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": ""
+}

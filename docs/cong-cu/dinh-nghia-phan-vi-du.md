@@ -41,7 +41,7 @@ Chú ý điều tinh tế: phản ví dụ không chứng minh định nghĩa *s
 Một màn đối thoại nổi tiếng khác nằm trong *Euthyphro*: Euthyphro định nghĩa "mộ đạo là điều được các thần yêu mến". Socrates hỏi lại: các thần yêu mến nó *vì* nó mộ đạo, hay nó mộ đạo *vì* được các thần yêu mến? Đây là một lưỡng nan:
 
 - Nếu các thần yêu nó *vì* nó mộ đạo, thì "mộ đạo" phải có nội dung độc lập với việc được yêu — định nghĩa của Euthyphro chưa chạm tới nội dung ấy.
-- Nếu nó mộ đạo *vì* được các thần yêu, thì "mộ đạo" chẳng còn nội dung gì riêng — nó chỉ là cái tên gọi cho sở thích của các thần.
+- Nếu nó mộ đạo *vì* được các thần yêu, thì "mộ đạo" chẳng còn nội dung gì riêng ngoài việc được yêu — theo cách đọc ngày nay, nó chỉ là cái tên gọi cho sở thích của các thần.
 
 Dù chọn sừng nào, định nghĩa cũng sụp đổ. Định nghĩa này chết không phải vì thiếu ví dụ, mà vì khi soi kỹ, nó hóa ra *trống rỗng*: nó không cho ta tiêu chuẩn nào độc lập để nhận ra cái mộ đạo.
 
@@ -89,7 +89,7 @@ Thử với một từ tiếng Việt: **"nhà"**. Nhà sàn, nhà chung cư, nh
 
 ## Định nghĩa trong đời sống: khi ranh giới có giá {#dinh-nghia-trong-doi-song-khi-ranh-gioi-co-gia}
 
-Định nghĩa không chỉ là trò chơi chữ. Trong pháp luật, định nghĩa vạch ranh giới giữa có tội và vô tội: "người thành niên", "tội cố ý", "phòng vệ chính đáng" — mỗi định nghĩa quá rộng là oan sai, mỗi định nghĩa quá hẹp là bỏ lọt. Trong y tế, định nghĩa quyết định ai được chữa trị thế nào. Vì vậy các định nghĩa pháp lý, y khoa thường dài dằng dặc với hàng loạt điều khoản loại trừ: đó là dấu vết của hàng chục phản ví dụ trong thực tế, mỗi phản ví dụ buộc người ta vá thêm một mảnh.
+Định nghĩa không chỉ là trò chơi chữ. Trong pháp luật, định nghĩa vạch ranh giới giữa có tội và vô tội: "người thành niên", "tội cố ý", "phòng vệ chính đáng" — mỗi định nghĩa quá rộng là oan sai, mỗi định nghĩa quá hẹp là bỏ lọt. Trong y tế, định nghĩa quyết định ai được chữa trị thế nào. Vì vậy các định nghĩa pháp lý, y khoa thường dài với nhiều điều khoản loại trừ: có thể xem chúng như những miếng vá cho các phản ví dụ gặp trong thực tế.
 
 Và ngay cả khi đã vá kỹ, ranh giới vẫn có thể bị thách thức: một ca bệnh mới, một tình huống công nghệ mới (ai chịu trách nhiệm khi xe tự lái gây tai nạn?) lại trở thành phản ví dụ sống, đòi định nghĩa phải sửa tiếp. Định nghĩa tốt không phải định nghĩa viết một lần là xong — nó là một quá trình.
 
@@ -99,7 +99,7 @@ Có một phân biệt hữu ích. **Định nghĩa mô tả** ghi lại cách m
 
 Khi tranh cãi "đây có phải là X không", nhiều khi hai bên đang làm hai việc khác nhau mà không biết: một bên mô tả cách dùng thông thường, một bên đề xuất một cách dùng chính xác hơn cho mục đích của mình. Gọi tên được mình đang làm việc nào giúp cuộc tranh luận đỡ rối: "anh đang mô tả, em đang đề xuất" — hai việc đều chính đáng, nhưng tiêu chuẩn đánh giá khác nhau. Định nghĩa mô tả bị phản ví dụ hạ khi nó mô tả sai cách dùng thực tế; định nghĩa quy định bị chất vấn khi mục đích đằng sau nó không chính đáng.
 
-Ví dụ: từ điển **mô tả** "xe ôm" là người chạy xe máy chở khách lấy tiền — ghi lại cách người Việt đang dùng từ này. Còn khi pháp luật **quy định** "kinh doanh vận tải bằng xe hai bánh" phải đăng ký, gắn biển hiệu, mua bảo hiểm, thì định nghĩa ấy không còn mô tả cách dùng thông thường nữa — nó *đặt ra* một khái niệm pháp lý để quản lý. Ai đem định nghĩa pháp lý ra cãi "ông xe ôm đầu ngõ không phải xe ôm vì không đăng ký" là lẫn lộn hai kiểu định nghĩa.
+Ví dụ: theo cách người Việt thường dùng, "xe ôm" là người chạy xe máy chở khách lấy tiền — một định nghĩa **mô tả** chỉ ghi lại cách dùng từ này. Còn khi một văn bản pháp luật **quy định** riêng về việc chở khách bằng xe hai bánh (chẳng hạn bắt người chạy xe phải đăng ký), thì định nghĩa ấy không còn mô tả cách dùng thông thường nữa — nó *đặt ra* một khái niệm pháp lý để quản lý. Ai đem định nghĩa pháp lý ra cãi "ông xe ôm đầu ngõ không phải xe ôm vì không đăng ký" là lẫn lộn hai kiểu định nghĩa.
 
 ## Kiểm tra nhanh một định nghĩa {#kiem-tra-nhanh-mot-dinh-nghia}
 

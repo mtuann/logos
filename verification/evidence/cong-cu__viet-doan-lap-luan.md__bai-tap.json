@@ -1,0 +1,101 @@
+{
+  "unit": "cong-cu/viet-doan-lap-luan.md#bai-tap",
+  "hash": "sha256:f683cc5332c9ee80614834e144e030160d5dd155b6f41952d20788e206ab81db",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p10 + agent-kiem-5.5-r03 + agent-kiem-5.5-k02",
+  "claims": [
+    {
+      "text": "Bài 1: \"vì tôi thích ăn phở bò hơn\" lặp lại luận điểm (vòng quanh); \"mọi người sành ăn đều đồng ý\" là khẳng định không bằng chứng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "Begging the Question"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This fallacy is a kind of Non Sequitur in which the premises are wholly irrelevant to drawing the conclusion.",
+          "where": "Irrelevant Reason"
+        }
+      ]
+    },
+    {
+      "text": "Bài 3: nhãn luận điểm/lý do/giải thích/lường trước phản biện cho từng câu của đoạn dạy bơi là đúng với văn bản đề",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "a claim-reason complex",
+          "where": "Hitchcock 2007, định nghĩa lập luận: tiền đề, kết luận, suy luận nối"
+        }
+      ]
+    },
+    {
+      "text": "Bài 4: trích dẫn giáo sư X thay cho lập luận; sửa bằng lý do độc lập",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://suckhoedoisong.vn/canh-giac-voi-tai-nan-duoi-nuoc-16927653.htm",
+          "quote": "đuối nước là một trong những nguyên nhân hàng đầu gây tử vong ở trẻ em",
+          "where": "dẫn UNICEF Việt Nam; bài dùng số liệu 2005-2008"
+        },
+        {
+          "url": "https://vnexpress.net/duoi-nuoc-khien-gan-2-000-tre-em-thiet-mang-moi-nam-4918918.html",
+          "quote": "đuối nước nằm trong 10 nguyên nhân gây tử vong hàng đầu cho trẻ dưới 16 tuổi"
+        }
+      ]
+    },
+    {
+      "text": "mà phần lớn các vụ việc xảy ra vì trẻ không biết bơi",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Đoạn mẫu: \"…mà thiếu kỹ năng bơi và an toàn dưới nước là một yếu tố nguy cơ lớn.\" (và dòng đáp án: \"Lý do: đuối nước gây tử vong hàng đầu ở trẻ em; thiếu kỹ năng bơi là một yếu tố nguy cơ lớn.\")",
+      "sources": [
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/drowning",
+          "quote": "Young children are at a particularly high risk of drowning due to an underdeveloped ability to assess risk, and a lack of swimming and water safety skills",
+          "where": "WHO, Risk factors; không nguồn nào đã mở nêu tỉ lệ \"phần lớn\" vụ đuối nước do không biết bơi"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu; dạy bơi cho trẻ tiểu học là biện pháp phòng ngừa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/drowning",
+          "quote": "Teaching school-age children basic swimming, water safety and safe rescue skills",
+          "where": "WHO, Prevention; WHO nêu đây là biện pháp, kèm điều kiện an toàn"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Claim 'phần lớn các vụ đuối nước xảy ra vì trẻ không biết bơi': các trang mở được (suckhoedoisong.vn, vnexpress.net) chỉ nêu không biết bơi/thiếu kỹ năng là yếu tố nguy cơ, không có tỉ lệ 'phần lớn'; suckhoedoisong ghi rõ không có số về đuối nước do không biết bơi; WHO fact sheet không nhắc Việt Nam; moh.gov.vn lỗi kết nối (ECONNREFUSED); unicef.org/vietnam, who.int/vietnam trả 404/500. Gợi ý cho người làm: 'mà không biết bơi là một yếu tố nguy cơ lớn' hoặc dẫn nguồn có tỉ lệ. Các ví dụ phở/giáo sư X/xe máy là tự soạn. Lượt 2: thay quote suckhoedoisong bằng nguyên văn (bản cache cũ là gzip chưa giải nén); claim \"phần lớn vì không biết bơi\" vẫn không tìm được nguồn (đã thử suckhoedoisong, WHO fact sheet, tìm kiếm Bộ LĐTBXH/UNICEF/WHO Việt Nam) nên chuyển thành sai mức vừa kèm câu thay thế theo WHO. Kiểm lại: đoạn mẫu và dòng đáp án đã thay đúng nguyên văn fix (yếu tố nguy cơ theo WHO); claim 4 fixed."
+}
