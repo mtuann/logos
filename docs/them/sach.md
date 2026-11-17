@@ -3491,9 +3491,9 @@ Gợi ý độ dài: 150–300 chữ.
 
 Tranh cãi ở khắp nơi: vaccine có an toàn không, biến đổi khí hậu có thật không, ăn chay có đạo đức hơn không. Nhưng bài này hỏi một câu hẹp hơn và khó hơn: khi người bất đồng với bạn *giỏi ngang bạn* — cùng bằng chứng, cùng năng lực, cùng cẩn thận — thì bạn nên làm gì với niềm tin của mình?
 
-Đây là một nhánh của [tri thức luận](../cau-hoi/tri-thuc.md) chuyên nghiên cứu *bất đồng*, và nó có một điểm đặc biệt: nó không hỏi ai đúng, mà hỏi *việc biết rằng có người ngang tài nghĩ khác* sẽ thay đổi niềm tin của bạn ra sao.
+Đây là một nhánh của [tri thức luận](../cau-hoi/tri-thuc.md) (*epistemology*) chuyên nghiên cứu *bất đồng*, và nó có một điểm đặc biệt: nó không hỏi ai đúng, mà hỏi *việc biết rằng có người ngang tài nghĩ khác* sẽ thay đổi niềm tin của bạn ra sao.
 
-Bài này thuộc về một nhánh tri thức luận còn khá trẻ — bùng nổ từ giữa thập niên 2000 — nhưng câu hỏi của nó thì rất cũ: *người khôn ngoan phản ứng thế nào khi gặp một người khôn ngoan khác mà nghĩ ngược mình?*
+Bài này thuộc về một nhánh tri thức luận còn khá trẻ — các bài then chốt của nó ra đời giữa thập niên 2000 (Kelly 2005, Christensen 2007, Elga 2007) — nhưng câu hỏi của nó thì rất cũ: *người khôn ngoan phản ứng thế nào khi gặp một người khôn ngoan khác mà nghĩ ngược mình?*
 
 Chú ý: câu hỏi này khác với việc bất đồng với một đứa trẻ (nó thiếu kiến thức) hay với một kẻ chuyên tung tin vịt (hắn thiếu trung thực). Ở đó, bạn có lý do rõ ràng để giữ nguyên ý mình. Trường hợp khó — và thú vị — là khi người kia *không có điểm yếu nào* mà bạn có thể chỉ ra: cùng dữ liệu, cùng trình độ, cùng cẩn thận, mà vẫn nghĩ khác bạn.
 
@@ -3546,7 +3546,7 @@ Christensen sau này còn đề xuất một nguyên tắc bổ sung gọi là *
 
 **Phản bác chính.** Nếu áp dụng triệt để, ta sẽ phải treo lơ lửng gần như mọi niềm tin triết học và đạo đức — vì trong các lĩnh vực đó, lúc nào cũng có người ngang tài bất đồng. Đó là con đường dẫn đến hoài nghi toàn diện. Mà trong đời sống, ta vẫn phải hành động: bác sĩ An không thể "treo lơ lửng" mãi, bệnh nhân đang chờ quyết định mổ hay không.
 
-Một phản bác tinh vi hơn: bản thân thuyết hòa giải cũng là một quan điểm triết học — mà các triết gia thì bất đồng về nó (phe kiên định vẫn tồn tại và hùng mạnh). Vậy người theo thuyết hòa giải, nếu trung thành với chính mình, có phải hạ độ tin vào... thuyết hòa giải không? Đây gọi là phản bác "tự thua" (*self-defeat*). Phe hòa giải đáp rằng họ chỉ cần bớt chắc chắn một phần chứ không cần từ bỏ — nhưng không ai phủ nhận đây là một vết xước khó chịu.
+Một phản bác tinh vi hơn: bản thân thuyết hòa giải cũng là một quan điểm triết học — mà các triết gia thì bất đồng về nó (phe kiên định vẫn tồn tại và hùng mạnh). Vậy người theo thuyết hòa giải, nếu trung thành với chính mình, có phải hạ độ tin vào... thuyết hòa giải không? Đây gọi là phản bác "tự thua" (*self-defeat*). Phe hòa giải đáp theo vài cách: kiểu tự thua này không chứng minh thuyết hòa giải sai, chỉ cho thấy trong vài hoàn cảnh khó tin nó một cách hợp lý; một nguyên tắc khiêm tốn tối thiểu mà ai cũng chấp nhận cũng gặp đúng vấn đề ấy (Christensen); hoặc các nguyên tắc về bất đồng tự miễn cho chính mình (Elga) — nhưng không ai phủ nhận đây là một vết xước khó chịu.
 
 **Cách đáp lại.** Người theo thuyết hòa giải có thể giới hạn phạm vi: chỉ lùi bước khi bất đồng *thực sự* giữa những người *thực sự* ngang tài và cùng bằng chứng — điều này hiếm hơn ta tưởng (xem phần đời sống). Một số khác thì chấp nhận cái giá: nếu trung thực trí tuệ đòi ta bớt chắc chắn về triết học, thì cứ bớt — niềm tin đạo đức để hành động là chuyện khác với niềm tin để khẳng định mình đúng.
 
@@ -3566,7 +3566,7 @@ Một cách nói khác của phe kiên định: thuyết hòa giải nhầm lẫ
 
 **Cách đáp lại.** Người theo thuyết kiên định nhấn mạnh rằng họ không bênh vực *mọi* sự cứng đầu. Họ chỉ nói: bất đồng *tự nó* chưa phải là lý do để lùi bước; cần thêm thông tin — ví dụ, bạn phát hiện mình đã bỏ sót một lập luận của đối phương, hay bạn đang mệt và dễ sai. Khó khăn còn lại là thừa nhận: tiêu chuẩn này đòi hỏi sự trung thực với chính mình ở mức rất cao.
 
-Phe kiên định cũng hay viện đến lịch sử khoa học: nhiều niềm tin đúng đã từng là thiểu số bị chính những người ngang tài phản đối — từ thuyết nhật tâm thời Copernicus đến thuyết trôi dạt lục địa của Wegener (tiền thân của thuyết kiến tạo mảng). Nếu các nhà khoa học đó đều "hòa giải" mỗi khi gặp bất đồng, có lẽ nhiều cuộc cách mạng khoa học đã không xảy ra. Dĩ nhiên, phe hòa giải sẽ đáp: đó là những trường hợp mà về sau bằng chứng mới đã phân xử — chứ không phải giấy phép để giữ nguyên mọi niềm tin đang bị tranh cãi.
+Có thể viện đến lịch sử khoa học để bênh phe kiên định: nhiều niềm tin đúng đã từng là thiểu số bị chính những người ngang tài phản đối — từ thuyết nhật tâm thời Copernicus đến thuyết trôi dạt lục địa của Wegener (tiền thân của thuyết kiến tạo mảng). Nếu các nhà khoa học đó đều "hòa giải" mỗi khi gặp bất đồng, có lẽ nhiều cuộc cách mạng khoa học đã không xảy ra. Dĩ nhiên, phe hòa giải sẽ đáp: đó là những trường hợp mà về sau bằng chứng mới đã phân xử — chứ không phải giấy phép để giữ nguyên mọi niềm tin đang bị tranh cãi.
 
 ### 3. Bất đồng về đạo đức và triết học có khác bất đồng về khoa học?
 
@@ -3578,7 +3578,7 @@ Ví dụ: hai nhà vật lý cãi nhau về mô hình khí hậu cuối cùng c�
 
 Một câu hỏi liên quan: liệu có "chuyên gia đạo đức" theo nghĩa như chuyên gia khoa học không? Nếu bất đồng đạo đức là dai dẳng và không có phương pháp phân xử chung, thì việc *tin một điều đạo đức chỉ vì chuyên gia nói* càng đáng ngờ. Đây là lý do nhiều người cho rằng trong đạo đức, ta phải tự suy nghĩ lấy — không thể "khoán" niềm tin cho ai, dù người đó giỏi đến đâu.
 
-Có một câu hỏi còn đi xa hơn: nếu bất đồng triết học dai dẳng *một cách có hệ thống*, liệu có phải vì trong những lĩnh vực đó không hề có sự thật độc lập để mà đúng/sai? Đây là một hướng hoài nghi mạnh, nhưng cần thận trọng: sự dai dẳng của bất đồng cũng có thể chỉ phản ánh rằng câu hỏi khó, chứ không phải rằng không có đáp án. Toán học từng có những bất đồng kéo dài hàng thập kỷ trước khi ngã ngũ. Riêng với đạo đức, câu hỏi này được bàn trong [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md).
+Có một câu hỏi còn đi xa hơn: nếu bất đồng triết học dai dẳng *một cách có hệ thống*, liệu có phải vì trong những lĩnh vực đó không hề có sự thật độc lập để mà đúng/sai? Đây là một hướng hoài nghi mạnh, nhưng cần thận trọng: sự dai dẳng của bất đồng cũng có thể chỉ phản ánh rằng câu hỏi khó, chứ không phải rằng không có đáp án. Riêng với đạo đức, câu hỏi này được bàn trong [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md).
 
 Điều này cũng có ý nghĩa thực tế: khi đọc một tranh luận, hãy tự hỏi "lĩnh vực này có cách phân xử chung không?" Nếu có (như khoa học thực nghiệm), hãy chờ bằng chứng mới thay vì chọn phe theo cảm tính. Nếu không (như nhiều câu hỏi triết học và đạo đức), hãy chấp nhận rằng người giỏi nhất cũng có thể bất đồng — và học cách sống chung với sự không chắc chắn đó.
 
@@ -3609,7 +3609,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Điều nó không hỏi.** Câu hỏi không hỏi ta nên làm gì khi *biết* có người ngang tài nghĩ khác mình, cũng không hỏi về bằng chứng bậc cao hay quan điểm trọng số bằng nhau. Vì vậy đừng đọc con số [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma.co-the-permissivism]]% như một lá phiếu cho thuyết kiên định: bác bỏ luận đề duy nhất là *một* cách bảo vệ thuyết kiên định, nhưng không kéo theo nó — một người theo thuyết cho phép vẫn có thể thấy nên bớt chắc chắn khi gặp người ngang tài bất đồng, và như đã nói, một số người theo thuyết hòa giải không dựa vào luận đề duy nhất.
 - **Ai đã trả lời.** Đây là câu bổ sung, chỉ khoảng [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma/n]] người trả lời (các câu chính có khoảng [[pp:bai-toan-newcomb/n]]–[[pp:tien-bo-triet-hoc-co-khong/n]] người). Mẫu là triết gia chuyên nghiệp, phần lớn làm việc trong cộng đồng triết học nói tiếng Anh và theo truyền thống phân tích (chính các tác giả khảo sát thừa nhận điều này), nên không đại diện cho mọi truyền thống triết học. Khảo sát diễn ra cuối năm 2020.
 
-Ngoài con số ấy, điều có thể nói chắc chắn là đây là một trong những tranh luận sôi nổi nhất của tri thức luận đương đại kể từ giữa thập niên 2000, với một khối tài liệu lớn — đáng chú ý có tuyển tập *Disagreement* do Richard Feldman và Ted Warfield chủ biên (2010) — mà vẫn chưa có bên nào thắng thế rõ ràng.
+Ngoài con số ấy, có thể nói đây là một tranh luận lớn của tri thức luận đương đại kể từ giữa thập niên 2000, với một khối tài liệu lớn — đáng chú ý có tuyển tập *Disagreement* do Richard Feldman và Ted Warfield chủ biên (2010) — mà vẫn chưa có bên nào thắng thế rõ ràng.
 
 Một điểm đáng chú ý: ngay cả những người đứng về hai phe đối lập cũng đồng ý rằng *hiện tượng* bất đồng ngang tài là có thật và đáng được giải thích. Tranh luận không phải về việc "có nên quan tâm đến ý kiến người khác không" — ai cũng đồng ý là có — mà về việc quan tâm *đến mức nào* và *bằng cách nào*.
 
