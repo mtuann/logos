@@ -10,7 +10,7 @@ block: lich-su
 
 Khi đế chế La Mã sụp đổ (thế kỷ 5), châu Âu bước vào một nghìn năm mà nhiều người gọi là "đêm trường trung cổ". Nhưng về triết học, đây lại là thời kỳ sôi động: câu hỏi trung tâm không còn là "thế giới làm bằng gì" mà là "đức tin và lý trí quan hệ với nhau thế nào". Và đáng chú ý, những người giữ lửa triết học Hy Lạp trong nhiều thế kỷ không chỉ là người Kitô giáo ở Byzantium (nơi văn bản Hy Lạp gốc vẫn được đọc), mà còn là các triết gia Hồi giáo và Do Thái.
 
-Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố Toledo (Tây Ban Nha) trở thành "nhà máy dịch thuật" của châu Âu — các học giả Kitô giáo và Do Thái, giữa một cộng đồng đông người nói tiếng Ả Rập, cùng dịch sang tiếng Latinh các tác phẩm tiếng Ả Rập — cả bản dịch [Aristotle](../triet-gia/aristotle.md) lẫn trước tác của chính các triết gia Hồi giáo như [Avicenna](../triet-gia/avicenna.md). Cùng lúc, các đại học đầu tiên ra đời: Paris, Oxford, Bologna. Triết học trung cổ không diễn ra trong tháp ngà cô độc, mà trong các giảng đường tranh biện nảy lửa — sinh viên được đào tạo bằng cách *tranh luận* theo đúng phương pháp của Aristotle.
+Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố Toledo (Tây Ban Nha) trở thành "nhà máy dịch thuật" của châu Âu — các học giả Kitô giáo và Do Thái, giữa một cộng đồng đông người nói tiếng Ả Rập, cùng dịch sang tiếng Latinh các tác phẩm tiếng Ả Rập — cả bản dịch [Aristotle](../triet-gia/aristotle.md) lẫn trước tác của chính các triết gia Hồi giáo như [Avicenna](../triet-gia/avicenna.md). Cùng lúc, các đại học đầu tiên ra đời: Paris, Oxford, Bologna. Triết học trung cổ không diễn ra trong tháp ngà cô độc, mà trong các giảng đường tranh biện nảy lửa — sinh viên được đào tạo bằng cách *tranh luận* theo phương pháp biện chứng, dựa trên logic của Aristotle.
 
 ## Augustine: nội tâm và thành phố của Chúa {#augustine-noi-tam-va-thanh-pho-cua-chua}
 
@@ -36,13 +36,13 @@ Trong khi châu Âu mất dần tiếng Hy Lạp, thế giới Hồi giáo từ 
 
 Vì sao quan trọng? Các bản dịch và chú giải Ả Rập là một trong hai con đường chính đưa Aristotle trở lại Tây Âu Latinh — con đường kia là các bản dịch thẳng từ tiếng Hy Lạp, vì nguyên bản vẫn được giữ ở Byzantium. Khi các tác phẩm này được dịch sang tiếng Latinh ở thế kỷ 12–13, chúng gây ra một cuộc cách mạng trí thức ở châu Âu.
 
-Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (khoảng 1056–1111), nhà thần học Ba Tư, trong *Sự sụp đổ của các triết gia* (*Tahafut al-Falasifa*, khoảng 1095) đã tấn công dữ dội triết học Hy Lạp hóa — cho rằng các triết gia như Avicenna đi quá xa, đặt lý trí lên trên mặc khải. Chính tác phẩm *Sự sụp đổ của sự sụp đổ* (*Tahafut al-Tahafut*) của Averroes là lời đáp trả al-Ghazali. Cuộc tranh luận ba bên này — triết học, thần học bảo thủ, triết học tự vệ — là khuôn mẫu cho mọi cuộc xung đột đức tin–lý trí về sau.
+Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (khoảng 1056–1111), nhà thần học và triết gia Ba Tư, trong *Sự sụp đổ của các triết gia* (*Tahafut al-Falasifa*, khoảng 1095) đã phê phán gắt gao các triết gia như Avicenna — cho rằng hai mươi luận điểm của họ không được chứng minh chặt chẽ như họ tự nhận, và ba luận điểm (thế giới không có khởi đầu, Chúa không biết các sự vật riêng lẻ, linh hồn không trở lại thân xác) đi ngược mặc khải; dù vậy, ông vẫn tiếp thu nhiều phần của triết học Aristotle. Chính tác phẩm *Sự sụp đổ của sự sụp đổ* (*Tahafut al-Tahafut*) của Averroes là lời đáp trả al-Ghazali. Cách al-Ghazali giải quyết những chỗ có vẻ mâu thuẫn giữa lý trí và mặc khải, qua các tác phẩm của Averroes và các tác giả Do Thái, đã ảnh hưởng đáng kể tới tư tưởng Latinh thời trung cổ.
 
 ## Maimonides: lý trí trong Do Thái giáo {#maimonides-ly-tri-trong-do-thai-giao}
 
 **[Maimonides](../triet-gia/maimonides.md)** (Moses ben Maimon, 1138–1204) — triết gia Do Thái lớn nhất thời trung cổ, đồng thời là thầy thuốc của triều đình Ai Cập — đối mặt với cùng câu hỏi như Averroes nhưng từ phía Do Thái giáo. Trong *Chỉ dẫn cho người hoang mang* (*Guide for the Perplexed*, khoảng 1190), ông lập luận rằng Kinh thánh Do Thái, khi đọc theo nghĩa đen, đôi khi gán cho Chúa những thuộc tính con người (tay, mắt, cơn giận); lý trí triết học giúp ta hiểu đó là ngôn ngữ ẩn dụ, còn Chúa thật sự vượt lên trên mọi thuộc tính tích cực — ta chỉ có thể nói Chúa *không phải* là gì (không có thân thể, không thay đổi), chứ không thể nói Chúa *là* gì.
 
-Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau ảnh hưởng đến cả các nhà tư tưởng Kitô giáo như Aquinas. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
+Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau được các nhà tư tưởng Kitô giáo như Aquinas tiếp thu một phần: Aquinas đồng ý rằng ta không thể biết Chúa là gì, chỉ biết Chúa không phải là gì, nhưng bác bỏ quan điểm của Maimonides rằng mọi danh xưng về Chúa chỉ mang nghĩa phủ định. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
 
 ## Aquinas: cuộc hôn phối của đức tin và lý trí {#aquinas-cuoc-hon-phoi-cua-duc-tin-va-ly-tri}
 
@@ -50,11 +50,11 @@ Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ 
 
 Tư tưởng cốt lõi: đức tin và lý trí không đối lập nhau, vì cả hai đều đến từ Chúa. Một số chân lý tôn giáo (Chúa tồn tại, linh hồn bất tử) lý trí có thể tự chứng minh; một số khác (Ba Ngôi, Nhập thể) vượt quá lý trí nhưng không *trái* với lý trí. Tác phẩm đồ sộ *Tổng luận Thần học* (*Summa Theologica*, viết từ giữa những năm 1260 đến cuối năm 1273, bỏ dở vài tháng trước khi ông mất) trình bày thần học theo phương pháp tranh biện chặt chẽ: nêu câu hỏi, trình bày các phản bác, rồi đáp từng điểm.
 
-Nổi tiếng nhất là **năm con đường** (*Five Ways*) chứng minh Chúa tồn tại — trong đó lập luận về nguyên nhân đầu tiên (mọi sự vật đều có nguyên nhân, không thể lùi vô hạn, nên phải có một nguyên nhân đầu tiên không do đâu sinh ra) và lập luận về thiết kế (trật tự của vũ trụ chứng tỏ có một trí tuệ sắp đặt).
+Nổi tiếng nhất là **năm con đường** (*Five Ways*) chứng minh Chúa tồn tại — trong đó có lập luận về nguyên nhân đầu tiên (mọi sự vật đều có nguyên nhân, không thể lùi vô hạn, nên phải có một nguyên nhân đầu tiên không do đâu sinh ra) và lập luận về thiết kế (trật tự của vũ trụ chứng tỏ có một trí tuệ sắp đặt).
 
-Ảnh hưởng: Aquinas trở thành triết gia chính thức của Giáo hội Công giáo; phương pháp và nhiều luận đề của ông (về luật tự nhiên, về linh hồn) định hình tư tưởng phương Tây đến tận hôm nay. Cuộc tranh luận "đức tin vs lý trí" mà ông dàn xếp vẫn là khuôn mẫu cho mọi cuộc đối thoại tôn giáo–khoa học sau này.
+Ảnh hưởng: Aquinas được phong thánh năm 1323, và năm 1879 Giáo hoàng Leo XIII kêu gọi phục hưng việc học và dạy Aquinas; phương pháp và nhiều luận đề của ông (về luật tự nhiên, về linh hồn) định hình tư tưởng phương Tây đến tận hôm nay. Cách ông dàn xếp quan hệ "đức tin và lý trí" vẫn được bàn lại trong nhiều cuộc đối thoại tôn giáo–khoa học về sau.
 
-Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*) của Aquinas — ý tưởng rằng lý trí con người có thể nhận ra những nguyên tắc đạo đức phổ quát (đừng giết người, giữ lời hứa) mà không cần mặc khải. Học thuyết này trở thành nền tảng của tư tưởng về quyền con người và luật quốc tế trong nhiều thế kỷ sau.
+Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*) của Aquinas — ý tưởng rằng lý trí con người có thể nhận ra những nguyên tắc đạo đức phổ quát (đừng giết người, giữ lời hứa) mà không cần mặc khải. Học thuyết này gần chạm tới khái niệm quyền con người, và những người kế tục ông ở thế kỷ 16 dựa vào đó để xây dựng lý thuyết về cộng đồng quốc tế.
 
 ## Tóm tắt dòng thời gian {#tom-tat-dong-thoi-gian}
 
@@ -63,7 +63,7 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 | 354–430 | Augustine | Nội tâm; hai thành phố; sự dữ là thiếu vắng điều thiện |
 | k. 970/980–1037 | Avicenna | Phân biệt bản chất – hiện hữu |
 | 1033–1109 | Anselm | "Đức tin đi tìm hiểu biết"; luận chứng bản thể luận |
-| k. 1056–1111 | al-Ghazali | Tấn công triết học Hy Lạp hóa từ phía thần học |
+| k. 1056–1111 | al-Ghazali | Phê phán tính chứng minh của triết học Avicenna; kết án ba luận điểm |
 | 1126–1198 | Averroes | Chú giải Aristotle; đức tin và lý trí không mâu thuẫn |
 | 1138–1204 | Maimonides | Thần học phủ định; Kinh thánh đọc bằng ẩn dụ |
 | k. 1225–1274 | Aquinas | Tổng hợp đức tin + lý trí; năm con đường; luật tự nhiên |

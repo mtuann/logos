@@ -1,8 +1,8 @@
 {
   "unit": "events/lich-su.hy-lap-co-dai.tcn323",
-  "hash": "sha256:6a8ec1e140eea81c4370f2d77d8398560b179cb4f2399e92799f624d1cb3d9b8",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-t01",
+  "hash": "sha256:d28a2865c474e4a4870979a351d6b32846951dd1c743d718283415ddc9d99edb",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-t01; agent-kiem-5.6-e01",
   "claims": [
     {
       "text": "Alexander Đại đế qua đời năm 323 TCN",
@@ -10,27 +10,47 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/event/Hellenistic-Age",
-          "quote": "the period between the death of Alexander the Great in 323 BCE"
+          "url": "https://iep.utm.edu/epicur/",
+          "quote": "the three centuries following the death of Alexander the Great in 323 B.C.E.",
+          "where": "mở đầu"
         }
       ]
     },
     {
-      "text": "Sau đó các thành bang Hy Lạp chỉ còn độc lập trên danh nghĩa",
+      "text": "triết học chuyển trọng tâm: vẫn bàn về tự nhiên và logic",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/event/Hellenistic-Age",
-          "quote": "Aratus and the league were allowed to retain a shadow of independence, but no more than that."
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "Stoic philosophy was, from Zeno onwards, conceived of as comprising three parts: physics ( phusikê ), logic ( logikê ), and ethics ( êthikê ).",
+          "where": "1.2 Systematicity"
         },
         {
-          "url": "https://www.britannica.com/event/Hellenistic-Age",
-          "quote": "Sparta, always different from the rest of Greece, was a shadow of its former self."
+          "url": "https://iep.utm.edu/epicur/",
+          "quote": "Epicurus developed an unsparingly materialistic metaphysics, empiricist epistemology, and hedonistic ethics.",
+          "where": "mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "câu hỏi trung tâm là \"sống thế nào cho thanh thản\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/epicur/",
+          "quote": "then one will attain tranquility (ataraxia), the most exalted state",
+          "where": "Ethics"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "the purpose of philosophy, according to the Stoics, is to become virtuous, that is, to attain wisdom and thereby lead the good life",
+          "where": "1.2 Systematicity"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t01): vế 'con người mất chỗ dựa chính trị' không còn trong câu. Nguồn Britannica nói cụ thể về Liên minh Achaea và Sparta, diễn đạt chung 'các thành bang chỉ còn độc lập trên danh nghĩa' là khái quát hợp lý nhưng nguồn yếu hơn SEP/IEP."
+  "notes": "doi-loi 5.6: câu nguồn thay vế 'các thành bang chỉ còn độc lập trên danh nghĩa' bằng 'triết học chuyển trọng tâm: vẫn bàn về tự nhiên và logic, nhưng câu hỏi trung tâm là sống thế nào cho thanh thản' (sửa theo bằng chứng 5.6 của mục thoi-hellenistic). Claim cũ về thành bang bỏ vì không còn trong câu; năm 323 chuyển nguồn từ Britannica (bị chặn) sang IEP Epicurus. 'Thanh thản' khớp sát ataraxia của Epicurus; với Khắc kỷ, mục đích là sống đức hạnh/thuận tự nhiên — khái quát chấp nhận được, không thành sai."
 }

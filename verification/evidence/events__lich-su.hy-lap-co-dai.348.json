@@ -1,8 +1,8 @@
 {
   "unit": "events/lich-su.hy-lap-co-dai.348",
-  "hash": "sha256:e3ee2b23b4ef1a762bf2da0d24612477c068d7c6ac27581e6448773bd9f88393",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-t01",
+  "hash": "sha256:dd9b1b798003cf1b19466fdf9699f138075827f1be4f09b14a4f0a6582ba2cfc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-t01; agent-kiem-5.6-e01",
   "claims": [
     {
       "text": "Platon sinh 428/427 TCN và mất 348/347 TCN",
@@ -10,8 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/biography/Plato",
-          "quote": "born 428/427 BCE, Athens, Greece—died 348/347, Athens"
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "born in 428-7 B.C.E and died at the age of eighty or eighty-one at 348-7 B.C.E.",
+          "where": "1. Biography, a. Birth"
         }
       ]
     },
@@ -21,8 +22,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/biography/Plato",
-          "quote": "student of Socrates (c. 470–399 BCE), teacher of Aristotle"
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "He was the student of Socrates and the teacher of Aristotle",
+          "where": "mở đầu"
         }
       ]
     },
@@ -32,23 +34,30 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/topic/Academy-ancient-academy-Athens-Greece",
-          "quote": "where Plato acquired property about 387 BCE and used to teach"
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "Plato's first trip to Sicily in 387 B.C.E.",
+          "where": "mục Early dialogues"
+        },
+        {
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "Plato returned to Athens and founded a school, known as the Academy",
+          "where": "1. Biography"
         }
       ]
     },
     {
-      "text": "Học viện thường được xem là tiền thân xa của trường đại học",
-      "kind": "dien-giai",
+      "text": "chữ *academic* (học thuật) của tiếng Anh bắt nguồn từ tên trường này",
+      "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.britannica.com/topic/Academy-ancient-academy-Athens-Greece",
-          "quote": "was the ultimate ancestor of the modern university"
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "This is where we get our word, “academic.”",
+          "where": "1. Biography"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-t01): câu đã làm mềm thành 'tiền thân xa', khớp Britannica; claim 'đại học đầu tiên' cũ không còn trong câu. Britannica ghi 'founded in the 380s' và 'acquired property about 387 BCE' (nguồn hạng thấp hơn SEP/IEP, nhận cho mốc năm). 'Học trò xuất sắc nhất' là đánh giá, không kiểm. SEP fall2026 ghi 429?–347 (ước đoán)."
+  "notes": "doi-loi 5.6: vế cuối đổi từ 'tiền thân xa của trường đại học' thành 'chữ academic ... bắt nguồn từ tên trường này'; IEP Plato xác nhận. Claim năm giữ nguyên nhưng nguồn chuyển từ Britannica (curl bị chặn trong phiên này, không kiểm tự động được) sang IEP Plato đã mở: sinh 428-7, mất 348-7; chuyến Sicily lần đầu 387 rồi về Athens lập Học viện (mốc 'khoảng 387' là suy từ thứ tự này). 'Học trò xuất sắc nhất' là đánh giá, không kiểm."
 }

@@ -34,7 +34,7 @@ Hai triết gia lớn tiếp bước Descartes thuộc trường phái **duy lý
 
 Đối lập với duy lý là **duy nghiệm luận** (*empiricism*): mọi tri thức đều bắt nguồn từ kinh nghiệm giác quan.
 
-**[John Locke](../triet-gia/locke.md)** (1632–1704), người Anh, trong *Khảo luận về hiểu biết của con người* (*Essay Concerning Human Understanding*, 1689), phản bác thuyết "ý niệm bẩm sinh": tâm trí lúc sinh ra như một **tấm bảng trắng** (*tabula rasa*), mọi ý niệm đều do kinh nghiệm khắc lên. Quan điểm này không chỉ là tri thức luận — nó là nền tảng của tư tưởng chính trị hiện đại: nếu con người không sinh ra đã mang "bản chất" cố định (như vua sinh ra để trị vì), thì mọi thẩm quyền đều phải được biện minh.
+**[John Locke](../triet-gia/locke.md)** (1632–1704), người Anh, trong *Khảo luận về hiểu biết của con người* (*Essay Concerning Human Understanding*, 1689), phản bác thuyết "ý niệm bẩm sinh": tâm trí lúc sinh ra như một **tấm bảng trắng** (*tabula rasa*), mọi ý niệm đều do kinh nghiệm khắc lên. Đó là một luận điểm của **tri thức luận** (*epistemology*). Còn về chính trị, trong *Hai khảo luận về chính quyền* (*Two Treatises of Government*, 1689), Locke bác quan niệm rằng Chúa đã định cho mọi người tự nhiên phải phục tùng một quân vương: con người sinh ra tự do và bình đẳng, nên chính quyền chính đáng phải dựa trên sự đồng thuận của người bị trị.
 
 **George Berkeley** (1685–1753), giám mục Ireland, đẩy duy nghiệm đi xa hơn một bước gây sốc: nếu ta chỉ biết thế giới qua cảm giác, thì nói "vật chất tồn tại độc lập ngoài cảm giác" là nói thừa. Khẩu hiệu của ông: **tồn tại là được tri giác** (*esse est percipi*). Cái bàn tồn tại vì ta thấy và sờ nó; khi không ai tri giác, nó vẫn tồn tại vì Chúa luôn tri giác mọi thứ. Nghe như đùa, nhưng lập luận của ông buộc mọi người phải trả lời nghiêm túc: bạn chứng minh "vật chất ngoài tâm trí" bằng cách nào, nếu mọi bằng chứng đều đi qua tâm trí?
 
@@ -44,15 +44,15 @@ Hume còn "phá" thêm một thứ tưởng chắc chắn: **cái tôi**. Ông n
 
 ## Kant: cuộc cách mạng Copernicus trong triết học {#kant-cuoc-cach-mang-copernicus-trong-triet-hoc}
 
-**Immanuel Kant** (1724–1804), người Đức, dành cả đời ở Königsberg và hầu như không rời thành phố — nhưng tư tưởng của ông đảo lộn triết học. Ông đồng ý với Hume rằng kinh nghiệm là nguồn tri thức, nhưng hỏi ngược lại: kinh nghiệm *có thể* xảy ra được là nhờ đâu?
+**Immanuel Kant** (1724–1804), người Đức, sống gần trọn đời ở Königsberg (chỉ rời thành phố vài năm làm gia sư ở vùng quê quanh đó) — nhưng tư tưởng của ông đảo lộn triết học. Ông đồng ý với Hume rằng kinh nghiệm là nguồn tri thức, nhưng hỏi ngược lại: kinh nghiệm *có thể* xảy ra được là nhờ đâu?
 
-Đáp án trong *Phê phán Lý tính Thuần túy* (*Critique of Pure Reason*, 1781; tái bản sửa đổi 1787): tâm trí không phải tấm bảng trắng thụ động ghi nhận thế giới; nó **chủ động cấu trúc** kinh nghiệm bằng các hình thức tiên nghiệm — không gian, thời gian, và các phạm trù như nhân quả. Ta không bao giờ biết "vật tự thân" (*thing-in-itself*), chỉ biết hiện tượng đã qua bộ lọc của tâm trí. Kant ví bước ngoặt này với ý tưởng của Copernicus — nên người ta gọi nó là "cuộc cách mạng Copernicus": thay vì tri thức phải khớp với đối tượng, đối tượng (như ta kinh nghiệm) phải khớp với cấu trúc của tri thức.
+Đáp án trong *Phê phán Lý tính Thuần túy* (*Critique of Pure Reason*, 1781; tái bản sửa đổi 1787): tâm trí không phải tấm bảng trắng thụ động ghi nhận thế giới; nó **chủ động cấu trúc** kinh nghiệm bằng các hình thức **tiên nghiệm** (*a priori*) — không gian, thời gian, và các phạm trù như nhân quả. Ta không bao giờ biết "vật tự thân" (*thing-in-itself*), chỉ biết hiện tượng đã qua bộ lọc của tâm trí. Kant ví bước ngoặt này với ý tưởng của Copernicus — nên người ta gọi nó là "cuộc cách mạng Copernicus": thay vì tri thức phải khớp với đối tượng, đối tượng (như ta kinh nghiệm) phải khớp với cấu trúc của tri thức.
 
 Hệ quả lớn: duy lý và duy nghiệm đều đúng một nửa và sai một nửa. Lý trí có đóng góp thật (các cấu trúc tiên nghiệm), nhưng không thể vượt ra ngoài kinh nghiệm để bàn về Chúa, linh hồn bất tử hay vũ trụ toàn thể — đó là "lý tính" vượt giới hạn và chỉ sinh ra ảo tưởng. Kant vì thế vừa cứu khoa học (nhân quả là cấu trúc tất yếu của mọi kinh nghiệm có thể), vừa giới hạn nó.
 
-Ảnh hưởng: gần như mọi triết học sau Kant đều phải định vị mình *so với* Kant — đồng ý, phản bác hay vượt qua ông. Ông cũng là cha đẻ của đạo đức học hiện đại với **mệnh lệnh tuyệt đối** (*categorical imperative*): "hãy hành động như thể châm ngôn của ngươi có thể thành luật phổ quát" — nền tảng của **nghĩa vụ luận** (*deontology*).
+Ảnh hưởng: gần như mọi triết học sau Kant đều phải định vị mình *so với* Kant — đồng ý, phản bác hay vượt qua ông. Ông cũng là một nhân vật trung tâm của đạo đức học hiện đại với **mệnh lệnh tuyệt đối** (*categorical imperative*): "hãy hành động như thể châm ngôn của ngươi có thể thành luật phổ quát" — nền tảng của **nghĩa vụ luận** (*deontology*).
 
-Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế nào: bạn có được nói dối để cứu một người vô tội khỏi kẻ sát nhân không? Người theo hệ quả luận sẽ nói "được, vì cứu được mạng người". Kant nói "không" — vì nếu mọi người đều được nói dối khi thấy tiện, thì lời nói mất hết giá trị và không ai tin ai nữa; châm ngôn "được nói dối khi có lợi" không thể thành luật phổ quát mà không tự hủy. Nhiều người thấy kết luận này quá cứng nhắc — và đó chính là điểm tranh luận nóng nhất của nghĩa vụ luận đến hôm nay: đạo đức có cho phép ngoại lệ không?
+Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế nào: bạn có được nói dối để cứu một người vô tội khỏi kẻ sát nhân không? Người theo **hệ quả luận** (*consequentialism*) sẽ nói "được, vì cứu được mạng người". Kant nói "không" — vì nếu mọi người đều được nói dối khi thấy tiện, thì lời nói mất hết giá trị và không ai tin ai nữa; châm ngôn "được nói dối khi có lợi" không thể thành luật phổ quát mà không tự hủy. Nhiều người thấy kết luận này quá cứng nhắc — và đó chính là điểm tranh luận nóng nhất của nghĩa vụ luận đến hôm nay: đạo đức có cho phép ngoại lệ không?
 
 ## Tóm tắt dòng thời gian {#tom-tat-dong-thoi-gian}
 
@@ -70,7 +70,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 
 - Vấn đề tâm–vật của Descartes: [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md)
 - Hoài nghi luận Descartes và tri thức: [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md)
-- Vấn đề quy nạp của Hume: [Suy diễn](../cong-cu/suy-dien.md) và [Quy nạp](../cong-cu/quy-nap.md)
+- Vấn đề quy nạp của Hume: [Quy nạp](../cong-cu/quy-nap.md) (đối chiếu với [Suy diễn](../cong-cu/suy-dien.md))
 - Nghĩa vụ luận của Kant: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)
 - Tự do chính trị từ Locke đến [Mill](../triet-gia/mill.md): [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) (Locke) và [Dân chủ là gì?](../cau-hoi/dan-chu.md) (Mill)
 

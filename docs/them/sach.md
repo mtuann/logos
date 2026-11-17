@@ -195,7 +195,7 @@ Con đường này hợp với bạn nếu bạn hay đọc tin tức, tranh lu�
 - [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) — cửa vào triết học chính trị: khế ước xã hội, công lý, dân chủ.
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — và những bài anh em: hạnh phúc, tình yêu, cái chết.
 
-Bạn không cần đọc "Tư duy rõ ràng" trước. Khi một bài cần đến công cụ nào, nó sẽ dẫn link quay lại. Mỗi bài có mục "Tóm tắt 5 phút" ở đầu, một bài tự kiểm tra và một câu hỏi để tự viết ở cuối.
+Bạn không cần đọc "Tư duy rõ ràng" trước. Nhiều bài có link quay lại bài công cụ khi cần đến. Mỗi bài có mục "Tóm tắt 5 phút" ở đầu, một bài tự kiểm tra và một câu hỏi để tự viết ở cuối.
 
 ## 3. Lịch sử tư tưởng và văn bản gốc
 
@@ -14667,13 +14667,13 @@ Khoảng thế kỷ 6 trước Công nguyên, ở các thành phố Hy Lạp ven
 
 ## Các nhà tiền Socrates: thế giới làm bằng gì?
 
-Nhóm triết gia đầu tiên được gọi là các nhà **tiền [Socrates](../triet-gia/socrates.md)** (*Presocratics*) — họ sống trước Socrates và chủ yếu hỏi về tự nhiên.
+Nhóm triết gia đầu tiên được gọi là các nhà **tiền [Socrates](../triet-gia/socrates.md)** (*Presocratics*) — những người đi trước hoặc cùng thời với Socrates nhưng không chịu ảnh hưởng của ông, và chủ yếu hỏi về tự nhiên.
 
 **[Thales](../triet-gia/thales.md)** xứ Miletus (khoảng 620–546 TCN) thường được xem là triết gia đầu tiên. Ông cho rằng mọi thứ đều từ nước mà ra. Nghe ngô nghê, nhưng điểm cách mạng không phải đáp án mà là câu hỏi: ông tìm một **nguyên lý** (*arche*) duy nhất giải thích vạn vật, thay vì viện đến thần linh.
 
 **[Heraclitus](../triet-gia/heraclitus.md)** xứ Ephesus (hoạt động khoảng 500 TCN) thì nói ngược lại: không có gì đứng yên, mọi thứ luôn chảy trôi — "không ai tắm hai lần trên cùng một dòng sông", theo cách [Platon](../triet-gia/platon.md) thuật lại ý ông. Nhưng đằng sau sự biến đổi đó có một trật tự, mà ông gọi là **logos** (lý tính, lời).
 
-**Parmenides** xứ Elea (khoảng 515–450 TCN) phản bác: biến đổi chỉ là ảo giác của giác quan; thực tại (**Hữu**, *Being*) là một, bất biến, vĩnh cửu. Lập luận của ông chặt đến mức buộc mọi triết gia sau phải đối mặt: nếu giác quan lừa dối, ta tin vào cái gì?
+**Parmenides** xứ Elea (sinh khoảng 515 TCN, hoạt động đầu và giữa thế kỷ 5 TCN) phản bác: biến đổi chỉ là ảo giác của giác quan; thực tại (**Hữu**, *Being*) là một, bất biến, vĩnh cửu. Lập luận của ông chặt đến mức buộc mọi triết gia sau phải đối mặt: nếu giác quan lừa dối, ta tin vào cái gì?
 
 **[Democritus](../triet-gia/democritus.md)** xứ Abdera (sinh khoảng 460 TCN) đề xuất một đáp án táo bạo: vạn vật gồm những hạt không thể chia nhỏ — **nguyên tử** (*atomos*, nghĩa đen là "không cắt được") — chuyển động trong khoảng không. Gần 2.400 năm trước khi vật lý hiện đại ra đời, ông đã đoán trước ý tưởng cốt lõi rằng vật chất gồm những hạt rất nhỏ — dù bằng suy luận thuần túy chứ không bằng thí nghiệm, và "nguyên tử" của vật lý hiện đại hóa ra vẫn chia nhỏ được.
 
@@ -14693,7 +14693,7 @@ Một chi tiết đáng nhớ: trong phiên tòa, Socrates có cơ hội đề x
 
 ## Platon: thế giới của những ý niệm
 
-**Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — thường được xem là tiền thân xa của trường đại học.
+**Platon** (428/427–348/347 TCN), học trò xuất sắc nhất của Socrates, sáng lập Học viện Athens khoảng năm 387 TCN — chữ *academic* (học thuật) của tiếng Anh bắt nguồn từ tên trường này.
 
 Tư tưởng cốt lõi của ông là **thuyết ý niệm** (*Theory of Forms*): những vật ta thấy chỉ là bản sao mờ nhạt của những **Ý niệm** (*Forms*) hoàn hảo, bất biến, tồn tại độc lập. Có nhiều cái bàn méo mó, nhưng chỉ có một Ý niệm "Bàn" hoàn hảo; có nhiều hành động được gọi là công bằng, nhưng chỉ có một Ý niệm "Công lý". Tri thức thật sự không phải là ý kiến về các bản sao (giác quan), mà là sự nắm bắt các Ý niệm (lý trí).
 
@@ -14703,7 +14703,7 @@ Trong *Cộng hòa* (khoảng 380 TCN), ông dùng thuyết này để vẽ ra m
 
 Vì sao quan trọng? Thuyết ý niệm đặt ra câu hỏi mà triết học đeo đuổi suốt 2.400 năm: cái phổ quát (công lý, cái đẹp, con số) có thực sự tồn tại độc lập với các vật cụ thể không? Câu hỏi này — **vấn đề phổ quát** — vẫn còn tranh luận đến hôm nay.
 
-Một điểm thú vị: chính [Aristotle](../triet-gia/aristotle.md), học trò ông, là người phản bác thuyết ý niệm mạnh mẽ nhất — cho rằng Ý niệm không ở thế giới khác mà nằm ngay trong sự vật. Cuộc tranh luận thầy–trò này là khuôn mẫu cho mọi cuộc cách mạng triết học sau: học trò giỏi nhất thường là người dám phản thầy.
+Một điểm thú vị: chính [Aristotle](../triet-gia/aristotle.md), học trò ông, là người phản bác thuyết ý niệm mạnh mẽ nhất — cho rằng Ý niệm không ở thế giới khác mà nằm ngay trong sự vật. Cuộc tranh luận thầy–trò này cho thấy một nét của triết học: học trò giỏi có thể là người dám phản bác chính thầy mình.
 
 ## Aristotle: người hệ thống hóa mọi thứ
 
@@ -14713,21 +14713,21 @@ Ba đóng góp lớn nhất:
 
 **Logic học.** Ông phát minh ra **tam đoạn luận** (*syllogism*) — khuôn mẫu suy luận "Mọi người đều phải chết; Socrates là người; vậy Socrates phải chết" — đặt nền móng cho logic hình thức suốt 2.000 năm.
 
-**Siêu hình học.** Ông phản bác thầy mình: Ý niệm không tồn tại tách rời ở một thế giới khác, mà nằm ngay trong sự vật cụ thể. Để giải thích sự vật, ông đưa ra học thuyết bốn nguyên nhân (chất liệu, hình thức, tác nhân, mục đích) và cặp khái niệm **tiềm năng** (*potentiality*) – **hiện thực** (*actuality*): hạt sồi "tiềm năng" là cây sồi, và trở thành "hiện thực" khi lớn lên.
+**Siêu hình học** (*metaphysics*). Ông phản bác thầy mình: Ý niệm không tồn tại tách rời ở một thế giới khác, mà nằm ngay trong sự vật cụ thể. Để giải thích sự vật, ông đưa ra học thuyết bốn nguyên nhân (chất liệu, hình thức, tác nhân, mục đích) và cặp khái niệm **tiềm năng** (*potentiality*) – **hiện thực** (*actuality*): hạt sồi "tiềm năng" là cây sồi, và trở thành "hiện thực" khi lớn lên.
 
-**Đạo đức học.** Trong *Đạo đức Nicomachus*, ông cho rằng mục đích của đời người là **hạnh phúc** (*eudaimonia*) — không phải khoái lạc nhất thời, mà là sự phát triển trọn vẹn năng lực của mình, đặc biệt là lý trí. Con đường đến đó là **trung dung** (*the mean*): đức hạnh nằm giữa hai thái cực (dũng cảm nằm giữa hèn nhát và liều lĩnh).
+**Đạo đức học** (*ethics*). Trong *Đạo đức Nicomachus*, ông cho rằng mục đích của đời người là **hạnh phúc** (*eudaimonia*) — không phải khoái lạc nhất thời, mà là sự phát triển trọn vẹn năng lực của mình, đặc biệt là lý trí. Con đường đến đó là **trung dung** (*the mean*): đức hạnh nằm giữa hai thái cực (dũng cảm nằm giữa hèn nhát và liều lĩnh).
 
 Ảnh hưởng: Aristotle thống trị tư tưởng phương Tây suốt thời Trung cổ (qua các triết gia Hồi giáo rồi Kitô giáo) và là nền tảng của khoa học cho đến tận thế kỷ 17.
 
 ## Thời Hellenistic: triết học cho đời sống
 
-Sau khi Alexander Đại đế qua đời (323 TCN), các thành bang Hy Lạp chỉ còn độc lập trên danh nghĩa. Triết học chuyển hướng: không còn hỏi "thế giới là gì" mà hỏi "sống thế nào cho thanh thản". Hai trường phái lớn:
+Sau khi Alexander Đại đế qua đời (323 TCN), triết học chuyển trọng tâm: vẫn bàn về tự nhiên và logic, nhưng câu hỏi trung tâm là "sống thế nào cho thanh thản". Hai trường phái lớn:
 
 **Khắc kỷ** (*Stoicism*), do [Zeno xứ Citium](../triet-gia/zeno.md) sáng lập khoảng 300 TCN: hạnh phúc đến từ việc sống thuận theo tự nhiên và lý trí, và chỉ đức hạnh mới thật sự là điều thiện. Khoảng bốn thế kỷ sau, [Epictetus](../triet-gia/epictetus.md) gói lời dạy ấy thành phép phân biệt nổi tiếng giữa điều ta kiểm soát được (phán đoán, ý chí của mình) với điều không (danh vọng, sức khỏe, ý kiến người khác) — và chỉ bận tâm về vế đầu. Triết gia Khắc kỷ nổi tiếng nhất là hoàng đế La Mã **[Marcus Aurelius](../triet-gia/marcus-aurelius.md)** (121–180), với cuốn *Suy tưởng* viết cho chính mình giữa chiến trận.
 
 **[Epicurus](../triet-gia/epicurus.md)** (341–270 TCN) dạy ở khu vườn của ông tại Athens: mục đích đời người là **khoái lạc** — nhưng ông định nghĩa khoái lạc rất khắt khe: không phải ăn chơi, mà là *không đau đớn thể xác và không xao động tâm hồn*. Con đường đến đó: tình bạn, triết học, đời sống giản dị, và đừng sợ thần linh hay cái chết — theo lập luận nổi tiếng của ông: chết không đáng sợ vì khi ta còn sống thì chết chưa đến, và khi chết đến thì ta không còn cảm nhận gì nữa.
 
-Ngoài hai trường phái lớn còn có **Khuyển nho** (*Cynics*): Diogenes xứ Sinope sống trong một chiếc chum sành lớn (*pithos* — không phải thùng gỗ như tranh vẽ đời sau), khinh mọi quy ước xã hội, cho rằng hạnh phúc chỉ cần sống thuận tự nhiên với nhu cầu tối thiểu. Và **Hoài nghi phái** (*Skeptics*): Pyrrho và phái hoài nghi mang tên ông về sau chủ trương treo mọi phán đoán — vì với mỗi lập luận đều có lập luận đối trọng ngang sức — để đạt tâm an.
+Ngoài hai trường phái lớn còn có **Khuyển nho** (*Cynics*): Diogenes xứ Sinope sống trong một chiếc chum sành lớn (*pithos*), khinh mọi quy ước xã hội, cho rằng hạnh phúc chỉ cần sống thuận tự nhiên với nhu cầu tối thiểu. Và **Hoài nghi phái** (*Skeptics*): Pyrrho và phái hoài nghi mang tên ông về sau chủ trương treo mọi phán đoán — vì với mỗi lập luận đều có lập luận đối trọng ngang sức — để đạt tâm an.
 
 Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu thích trở lại trong thời hiện đại như một triết lý ứng phó với lo âu.
 
@@ -14737,7 +14737,7 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 |---|---|---|
 | k. 620–546 TCN | Thales | Mọi thứ từ nước mà ra; tìm nguyên lý duy nhất |
 | hoạt động k. 500 TCN | Heraclitus | Mọi thứ luôn chảy trôi; logos |
-| k. 515–450 TCN | Parmenides | Hữu là một, bất biến; giác quan lừa dối |
+| sinh k. 515 TCN | Parmenides | Hữu là một, bất biến; giác quan lừa dối |
 | sinh k. 460 TCN | Democritus | Vạn vật là nguyên tử chuyển động |
 | k. 469–399 TCN | Socrates | Vấn đáp; biết rằng mình không biết |
 | k. 428–347 TCN | Platon | Thuyết ý niệm; *Cộng hòa* |
@@ -14768,7 +14768,7 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 Khi đế chế La Mã sụp đổ (thế kỷ 5), châu Âu bước vào một nghìn năm mà nhiều người gọi là "đêm trường trung cổ". Nhưng về triết học, đây lại là thời kỳ sôi động: câu hỏi trung tâm không còn là "thế giới làm bằng gì" mà là "đức tin và lý trí quan hệ với nhau thế nào". Và đáng chú ý, những người giữ lửa triết học Hy Lạp trong nhiều thế kỷ không chỉ là người Kitô giáo ở Byzantium (nơi văn bản Hy Lạp gốc vẫn được đọc), mà còn là các triết gia Hồi giáo và Do Thái.
 
-Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố Toledo (Tây Ban Nha) trở thành "nhà máy dịch thuật" của châu Âu — các học giả Kitô giáo và Do Thái, giữa một cộng đồng đông người nói tiếng Ả Rập, cùng dịch sang tiếng Latinh các tác phẩm tiếng Ả Rập — cả bản dịch [Aristotle](../triet-gia/aristotle.md) lẫn trước tác của chính các triết gia Hồi giáo như [Avicenna](../triet-gia/avicenna.md). Cùng lúc, các đại học đầu tiên ra đời: Paris, Oxford, Bologna. Triết học trung cổ không diễn ra trong tháp ngà cô độc, mà trong các giảng đường tranh biện nảy lửa — sinh viên được đào tạo bằng cách *tranh luận* theo đúng phương pháp của Aristotle.
+Một chi tiết lịch sử đáng nhớ: vào thế kỷ 12–13, thành phố Toledo (Tây Ban Nha) trở thành "nhà máy dịch thuật" của châu Âu — các học giả Kitô giáo và Do Thái, giữa một cộng đồng đông người nói tiếng Ả Rập, cùng dịch sang tiếng Latinh các tác phẩm tiếng Ả Rập — cả bản dịch [Aristotle](../triet-gia/aristotle.md) lẫn trước tác của chính các triết gia Hồi giáo như [Avicenna](../triet-gia/avicenna.md). Cùng lúc, các đại học đầu tiên ra đời: Paris, Oxford, Bologna. Triết học trung cổ không diễn ra trong tháp ngà cô độc, mà trong các giảng đường tranh biện nảy lửa — sinh viên được đào tạo bằng cách *tranh luận* theo phương pháp biện chứng, dựa trên logic của Aristotle.
 
 ## Augustine: nội tâm và thành phố của Chúa
 
@@ -14794,13 +14794,13 @@ Trong khi châu Âu mất dần tiếng Hy Lạp, thế giới Hồi giáo từ 
 
 Vì sao quan trọng? Các bản dịch và chú giải Ả Rập là một trong hai con đường chính đưa Aristotle trở lại Tây Âu Latinh — con đường kia là các bản dịch thẳng từ tiếng Hy Lạp, vì nguyên bản vẫn được giữ ở Byzantium. Khi các tác phẩm này được dịch sang tiếng Latinh ở thế kỷ 12–13, chúng gây ra một cuộc cách mạng trí thức ở châu Âu.
 
-Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (khoảng 1056–1111), nhà thần học Ba Tư, trong *Sự sụp đổ của các triết gia* (*Tahafut al-Falasifa*, khoảng 1095) đã tấn công dữ dội triết học Hy Lạp hóa — cho rằng các triết gia như Avicenna đi quá xa, đặt lý trí lên trên mặc khải. Chính tác phẩm *Sự sụp đổ của sự sụp đổ* (*Tahafut al-Tahafut*) của Averroes là lời đáp trả al-Ghazali. Cuộc tranh luận ba bên này — triết học, thần học bảo thủ, triết học tự vệ — là khuôn mẫu cho mọi cuộc xung đột đức tin–lý trí về sau.
+Cần thêm một nhân vật để bức tranh đầy đủ: **al-Ghazali** (khoảng 1056–1111), nhà thần học và triết gia Ba Tư, trong *Sự sụp đổ của các triết gia* (*Tahafut al-Falasifa*, khoảng 1095) đã phê phán gắt gao các triết gia như Avicenna — cho rằng hai mươi luận điểm của họ không được chứng minh chặt chẽ như họ tự nhận, và ba luận điểm (thế giới không có khởi đầu, Chúa không biết các sự vật riêng lẻ, linh hồn không trở lại thân xác) đi ngược mặc khải; dù vậy, ông vẫn tiếp thu nhiều phần của triết học Aristotle. Chính tác phẩm *Sự sụp đổ của sự sụp đổ* (*Tahafut al-Tahafut*) của Averroes là lời đáp trả al-Ghazali. Cách al-Ghazali giải quyết những chỗ có vẻ mâu thuẫn giữa lý trí và mặc khải, qua các tác phẩm của Averroes và các tác giả Do Thái, đã ảnh hưởng đáng kể tới tư tưởng Latinh thời trung cổ.
 
 ## Maimonides: lý trí trong Do Thái giáo
 
 **[Maimonides](../triet-gia/maimonides.md)** (Moses ben Maimon, 1138–1204) — triết gia Do Thái lớn nhất thời trung cổ, đồng thời là thầy thuốc của triều đình Ai Cập — đối mặt với cùng câu hỏi như Averroes nhưng từ phía Do Thái giáo. Trong *Chỉ dẫn cho người hoang mang* (*Guide for the Perplexed*, khoảng 1190), ông lập luận rằng Kinh thánh Do Thái, khi đọc theo nghĩa đen, đôi khi gán cho Chúa những thuộc tính con người (tay, mắt, cơn giận); lý trí triết học giúp ta hiểu đó là ngôn ngữ ẩn dụ, còn Chúa thật sự vượt lên trên mọi thuộc tính tích cực — ta chỉ có thể nói Chúa *không phải* là gì (không có thân thể, không thay đổi), chứ không thể nói Chúa *là* gì.
 
-Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau ảnh hưởng đến cả các nhà tư tưởng Kitô giáo như Aquinas. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
+Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ một cách triệt để — về sau được các nhà tư tưởng Kitô giáo như Aquinas tiếp thu một phần: Aquinas đồng ý rằng ta không thể biết Chúa là gì, chỉ biết Chúa không phải là gì, nhưng bác bỏ quan điểm của Maimonides rằng mọi danh xưng về Chúa chỉ mang nghĩa phủ định. Maimonides chứng minh rằng truyền thống Do Thái cũng có thể đối thoại với triết học Hy Lạp mà không mất đi bản sắc.
 
 ## Aquinas: cuộc hôn phối của đức tin và lý trí
 
@@ -14808,11 +14808,11 @@ Tư tưởng này — **thần học phủ định**, mà Maimonides bảo vệ 
 
 Tư tưởng cốt lõi: đức tin và lý trí không đối lập nhau, vì cả hai đều đến từ Chúa. Một số chân lý tôn giáo (Chúa tồn tại, linh hồn bất tử) lý trí có thể tự chứng minh; một số khác (Ba Ngôi, Nhập thể) vượt quá lý trí nhưng không *trái* với lý trí. Tác phẩm đồ sộ *Tổng luận Thần học* (*Summa Theologica*, viết từ giữa những năm 1260 đến cuối năm 1273, bỏ dở vài tháng trước khi ông mất) trình bày thần học theo phương pháp tranh biện chặt chẽ: nêu câu hỏi, trình bày các phản bác, rồi đáp từng điểm.
 
-Nổi tiếng nhất là **năm con đường** (*Five Ways*) chứng minh Chúa tồn tại — trong đó lập luận về nguyên nhân đầu tiên (mọi sự vật đều có nguyên nhân, không thể lùi vô hạn, nên phải có một nguyên nhân đầu tiên không do đâu sinh ra) và lập luận về thiết kế (trật tự của vũ trụ chứng tỏ có một trí tuệ sắp đặt).
+Nổi tiếng nhất là **năm con đường** (*Five Ways*) chứng minh Chúa tồn tại — trong đó có lập luận về nguyên nhân đầu tiên (mọi sự vật đều có nguyên nhân, không thể lùi vô hạn, nên phải có một nguyên nhân đầu tiên không do đâu sinh ra) và lập luận về thiết kế (trật tự của vũ trụ chứng tỏ có một trí tuệ sắp đặt).
 
-Ảnh hưởng: Aquinas trở thành triết gia chính thức của Giáo hội Công giáo; phương pháp và nhiều luận đề của ông (về luật tự nhiên, về linh hồn) định hình tư tưởng phương Tây đến tận hôm nay. Cuộc tranh luận "đức tin vs lý trí" mà ông dàn xếp vẫn là khuôn mẫu cho mọi cuộc đối thoại tôn giáo–khoa học sau này.
+Ảnh hưởng: Aquinas được phong thánh năm 1323, và năm 1879 Giáo hoàng Leo XIII kêu gọi phục hưng việc học và dạy Aquinas; phương pháp và nhiều luận đề của ông (về luật tự nhiên, về linh hồn) định hình tư tưởng phương Tây đến tận hôm nay. Cách ông dàn xếp quan hệ "đức tin và lý trí" vẫn được bàn lại trong nhiều cuộc đối thoại tôn giáo–khoa học về sau.
 
-Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*) của Aquinas — ý tưởng rằng lý trí con người có thể nhận ra những nguyên tắc đạo đức phổ quát (đừng giết người, giữ lời hứa) mà không cần mặc khải. Học thuyết này trở thành nền tảng của tư tưởng về quyền con người và luật quốc tế trong nhiều thế kỷ sau.
+Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*) của Aquinas — ý tưởng rằng lý trí con người có thể nhận ra những nguyên tắc đạo đức phổ quát (đừng giết người, giữ lời hứa) mà không cần mặc khải. Học thuyết này gần chạm tới khái niệm quyền con người, và những người kế tục ông ở thế kỷ 16 dựa vào đó để xây dựng lý thuyết về cộng đồng quốc tế.
 
 ## Tóm tắt dòng thời gian
 
@@ -14821,7 +14821,7 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 | 354–430 | Augustine | Nội tâm; hai thành phố; sự dữ là thiếu vắng điều thiện |
 | k. 970/980–1037 | Avicenna | Phân biệt bản chất – hiện hữu |
 | 1033–1109 | Anselm | "Đức tin đi tìm hiểu biết"; luận chứng bản thể luận |
-| k. 1056–1111 | al-Ghazali | Tấn công triết học Hy Lạp hóa từ phía thần học |
+| k. 1056–1111 | al-Ghazali | Phê phán tính chứng minh của triết học Avicenna; kết án ba luận điểm |
 | 1126–1198 | Averroes | Chú giải Aristotle; đức tin và lý trí không mâu thuẫn |
 | 1138–1204 | Maimonides | Thần học phủ định; Kinh thánh đọc bằng ẩn dụ |
 | k. 1225–1274 | Aquinas | Tổng hợp đức tin + lý trí; năm con đường; luật tự nhiên |
@@ -14873,7 +14873,7 @@ Hai triết gia lớn tiếp bước Descartes thuộc trường phái **duy lý
 
 Đối lập với duy lý là **duy nghiệm luận** (*empiricism*): mọi tri thức đều bắt nguồn từ kinh nghiệm giác quan.
 
-**[John Locke](../triet-gia/locke.md)** (1632–1704), người Anh, trong *Khảo luận về hiểu biết của con người* (*Essay Concerning Human Understanding*, 1689), phản bác thuyết "ý niệm bẩm sinh": tâm trí lúc sinh ra như một **tấm bảng trắng** (*tabula rasa*), mọi ý niệm đều do kinh nghiệm khắc lên. Quan điểm này không chỉ là tri thức luận — nó là nền tảng của tư tưởng chính trị hiện đại: nếu con người không sinh ra đã mang "bản chất" cố định (như vua sinh ra để trị vì), thì mọi thẩm quyền đều phải được biện minh.
+**[John Locke](../triet-gia/locke.md)** (1632–1704), người Anh, trong *Khảo luận về hiểu biết của con người* (*Essay Concerning Human Understanding*, 1689), phản bác thuyết "ý niệm bẩm sinh": tâm trí lúc sinh ra như một **tấm bảng trắng** (*tabula rasa*), mọi ý niệm đều do kinh nghiệm khắc lên. Đó là một luận điểm của **tri thức luận** (*epistemology*). Còn về chính trị, trong *Hai khảo luận về chính quyền* (*Two Treatises of Government*, 1689), Locke bác quan niệm rằng Chúa đã định cho mọi người tự nhiên phải phục tùng một quân vương: con người sinh ra tự do và bình đẳng, nên chính quyền chính đáng phải dựa trên sự đồng thuận của người bị trị.
 
 **George Berkeley** (1685–1753), giám mục Ireland, đẩy duy nghiệm đi xa hơn một bước gây sốc: nếu ta chỉ biết thế giới qua cảm giác, thì nói "vật chất tồn tại độc lập ngoài cảm giác" là nói thừa. Khẩu hiệu của ông: **tồn tại là được tri giác** (*esse est percipi*). Cái bàn tồn tại vì ta thấy và sờ nó; khi không ai tri giác, nó vẫn tồn tại vì Chúa luôn tri giác mọi thứ. Nghe như đùa, nhưng lập luận của ông buộc mọi người phải trả lời nghiêm túc: bạn chứng minh "vật chất ngoài tâm trí" bằng cách nào, nếu mọi bằng chứng đều đi qua tâm trí?
 
@@ -14883,15 +14883,15 @@ Hume còn "phá" thêm một thứ tưởng chắc chắn: **cái tôi**. Ông n
 
 ## Kant: cuộc cách mạng Copernicus trong triết học
 
-**Immanuel Kant** (1724–1804), người Đức, dành cả đời ở Königsberg và hầu như không rời thành phố — nhưng tư tưởng của ông đảo lộn triết học. Ông đồng ý với Hume rằng kinh nghiệm là nguồn tri thức, nhưng hỏi ngược lại: kinh nghiệm *có thể* xảy ra được là nhờ đâu?
+**Immanuel Kant** (1724–1804), người Đức, sống gần trọn đời ở Königsberg (chỉ rời thành phố vài năm làm gia sư ở vùng quê quanh đó) — nhưng tư tưởng của ông đảo lộn triết học. Ông đồng ý với Hume rằng kinh nghiệm là nguồn tri thức, nhưng hỏi ngược lại: kinh nghiệm *có thể* xảy ra được là nhờ đâu?
 
-Đáp án trong *Phê phán Lý tính Thuần túy* (*Critique of Pure Reason*, 1781; tái bản sửa đổi 1787): tâm trí không phải tấm bảng trắng thụ động ghi nhận thế giới; nó **chủ động cấu trúc** kinh nghiệm bằng các hình thức tiên nghiệm — không gian, thời gian, và các phạm trù như nhân quả. Ta không bao giờ biết "vật tự thân" (*thing-in-itself*), chỉ biết hiện tượng đã qua bộ lọc của tâm trí. Kant ví bước ngoặt này với ý tưởng của Copernicus — nên người ta gọi nó là "cuộc cách mạng Copernicus": thay vì tri thức phải khớp với đối tượng, đối tượng (như ta kinh nghiệm) phải khớp với cấu trúc của tri thức.
+Đáp án trong *Phê phán Lý tính Thuần túy* (*Critique of Pure Reason*, 1781; tái bản sửa đổi 1787): tâm trí không phải tấm bảng trắng thụ động ghi nhận thế giới; nó **chủ động cấu trúc** kinh nghiệm bằng các hình thức **tiên nghiệm** (*a priori*) — không gian, thời gian, và các phạm trù như nhân quả. Ta không bao giờ biết "vật tự thân" (*thing-in-itself*), chỉ biết hiện tượng đã qua bộ lọc của tâm trí. Kant ví bước ngoặt này với ý tưởng của Copernicus — nên người ta gọi nó là "cuộc cách mạng Copernicus": thay vì tri thức phải khớp với đối tượng, đối tượng (như ta kinh nghiệm) phải khớp với cấu trúc của tri thức.
 
 Hệ quả lớn: duy lý và duy nghiệm đều đúng một nửa và sai một nửa. Lý trí có đóng góp thật (các cấu trúc tiên nghiệm), nhưng không thể vượt ra ngoài kinh nghiệm để bàn về Chúa, linh hồn bất tử hay vũ trụ toàn thể — đó là "lý tính" vượt giới hạn và chỉ sinh ra ảo tưởng. Kant vì thế vừa cứu khoa học (nhân quả là cấu trúc tất yếu của mọi kinh nghiệm có thể), vừa giới hạn nó.
 
-Ảnh hưởng: gần như mọi triết học sau Kant đều phải định vị mình *so với* Kant — đồng ý, phản bác hay vượt qua ông. Ông cũng là cha đẻ của đạo đức học hiện đại với **mệnh lệnh tuyệt đối** (*categorical imperative*): "hãy hành động như thể châm ngôn của ngươi có thể thành luật phổ quát" — nền tảng của **nghĩa vụ luận** (*deontology*).
+Ảnh hưởng: gần như mọi triết học sau Kant đều phải định vị mình *so với* Kant — đồng ý, phản bác hay vượt qua ông. Ông cũng là một nhân vật trung tâm của đạo đức học hiện đại với **mệnh lệnh tuyệt đối** (*categorical imperative*): "hãy hành động như thể châm ngôn của ngươi có thể thành luật phổ quát" — nền tảng của **nghĩa vụ luận** (*deontology*).
 
-Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế nào: bạn có được nói dối để cứu một người vô tội khỏi kẻ sát nhân không? Người theo hệ quả luận sẽ nói "được, vì cứu được mạng người". Kant nói "không" — vì nếu mọi người đều được nói dối khi thấy tiện, thì lời nói mất hết giá trị và không ai tin ai nữa; châm ngôn "được nói dối khi có lợi" không thể thành luật phổ quát mà không tự hủy. Nhiều người thấy kết luận này quá cứng nhắc — và đó chính là điểm tranh luận nóng nhất của nghĩa vụ luận đến hôm nay: đạo đức có cho phép ngoại lệ không?
+Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế nào: bạn có được nói dối để cứu một người vô tội khỏi kẻ sát nhân không? Người theo **hệ quả luận** (*consequentialism*) sẽ nói "được, vì cứu được mạng người". Kant nói "không" — vì nếu mọi người đều được nói dối khi thấy tiện, thì lời nói mất hết giá trị và không ai tin ai nữa; châm ngôn "được nói dối khi có lợi" không thể thành luật phổ quát mà không tự hủy. Nhiều người thấy kết luận này quá cứng nhắc — và đó chính là điểm tranh luận nóng nhất của nghĩa vụ luận đến hôm nay: đạo đức có cho phép ngoại lệ không?
 
 ## Tóm tắt dòng thời gian
 
@@ -14909,7 +14909,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 
 - Vấn đề tâm–vật của Descartes: [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md)
 - Hoài nghi luận Descartes và tri thức: [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md)
-- Vấn đề quy nạp của Hume: [Suy diễn](../cong-cu/suy-dien.md) và [Quy nạp](../cong-cu/quy-nap.md)
+- Vấn đề quy nạp của Hume: [Quy nạp](../cong-cu/quy-nap.md) (đối chiếu với [Suy diễn](../cong-cu/suy-dien.md))
 - Nghĩa vụ luận của Kant: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)
 - Tự do chính trị từ Locke đến [Mill](../triet-gia/mill.md): [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) (Locke) và [Dân chủ là gì?](../cau-hoi/dan-chu.md) (Mill)
 
@@ -14927,11 +14927,11 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 
 # Thế kỷ 19: hệ thống vỡ vụn
 
-[Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau đến mức triết học không bao giờ còn là một "hệ thống" duy nhất nữa.
+[Kant](../triet-gia/kant.md) đã để lại một di sản khổng lồ nhưng cũng đầy căng thẳng: lý trí vừa được tôn vinh (nó cấu trúc mọi kinh nghiệm) vừa bị giới hạn (nó không với tới được thực tại tự thân). Thế kỷ 19 là câu trả lời của nhiều thế hệ trước căng thẳng đó — và các câu trả lời đi theo những hướng đối lập nhau: có người dựng hệ thống lớn hơn, có người đặt cá nhân và đời sống cụ thể lên trước mọi hệ thống.
 
 ## Hegel: mọi thứ đều vận động theo biện chứng
 
-**G. W. F. [Hegel](../triet-gia/hegel.md)** (1770–1831), người Đức, là triết gia có tham vọng hệ thống lớn nhất sau [Aristotle](../triet-gia/aristotle.md): ông muốn giải thích *toàn bộ* thực tại — tự nhiên, lịch sử, nghệ thuật, tôn giáo, triết học — trong một hệ thống duy nhất.
+**G. W. F. [Hegel](../triet-gia/hegel.md)** (1770–1831), người Đức, là triết gia có tham vọng hệ thống lớn nhất trong các nhà duy tâm Đức: ông muốn giải thích *toàn bộ* thực tại — tự nhiên, lịch sử, nghệ thuật, tôn giáo, triết học — trong một hệ thống duy nhất.
 
 Tư tưởng cốt lõi là **biện chứng** (*dialectic*): mọi sự vật đều chứa mâu thuẫn nội tại; mâu thuẫn thúc đẩy sự vật vượt lên chính nó. Sách phổ thông hay tóm tắt biện chứng bằng bộ ba chính đề – phản đề – hợp đề, nhưng Hegel không dùng bộ ba thuật ngữ ấy cho triết học của mình (nó gắn với Fichte), và trong Lời tựa *Hiện tượng học Tinh thần* ông còn chê lối áp "bộ ba" một cách máy móc. Ý của ông gần hơn với điều này: một khái niệm, khi được nghĩ cho đến cùng, tự lộ ra giới hạn và mâu thuẫn của nó; mâu thuẫn ấy không bị vứt bỏ mà được **vượt bỏ** (*Aufhebung*: vừa xóa bỏ vừa giữ lại) trong một khái niệm phong phú hơn — rồi khái niệm mới lại bộc lộ giới hạn của chính nó.
 
@@ -14939,23 +14939,23 @@ Hegel áp dụng logic này cho lịch sử: lịch sử không phải chuỗi s
 
 Đoạn nổi tiếng nhất của tác phẩm là biện chứng **chủ – tớ** (*master–slave*, Herr/Knecht; còn gọi là chủ – nô): hai ý thức gặp nhau, mỗi bên muốn được bên kia công nhận; một bên chịu khuất phục để giữ mạng sống (nô), bên kia thắng (chủ). Nhưng rồi tình thế đảo ngược: người chủ phụ thuộc vào người nô lao động và chẳng làm được gì, còn người nô qua lao động mà biến đổi thế giới và nhận ra sức mạnh của mình. Bài học: quan hệ nhận thức lẫn nhau mới tạo nên ý thức tự do — một ý tưởng mà triết học chính trị và tâm lý học vẫn khai thác đến hôm nay.
 
-Vì sao quan trọng? Dù ít ai ngày nay tin vào toàn bộ hệ thống Hegel, phương pháp của ông — nhìn sự vật trong vận động, mâu thuẫn và phát triển lịch sử — thấm vào mọi ngành khoa học xã hội. Và ông là điểm xuất phát (để tiếp thu hay để phản bác) của hầu hết triết học thế kỷ 19 sau ông.
+Vì sao quan trọng? Dù ít ai ngày nay tin vào toàn bộ hệ thống Hegel, phương pháp của ông — nhìn sự vật trong vận động, mâu thuẫn và phát triển lịch sử — thấm vào nhiều ngành khoa học xã hội. Và ông là điểm xuất phát (để tiếp thu hay để phản bác) của hầu hết triết học thế kỷ 19 sau ông.
 
 ## Marx: lật ngược Hegel
 
 **[Karl Marx](../triet-gia/marx.md)** (1818–1883) từng là "người Hegel trẻ", rồi thực hiện một cú lật ngược nổi tiếng: giữ lại phương pháp biện chứng của Hegel nhưng "đặt nó đứng trên đôi chân của mình". Với Hegel, ý thức quyết định tồn tại; với Marx, **tồn tại xã hội quyết định ý thức**.
 
-Tư tưởng cốt lõi là **duy vật lịch sử** (*historical materialism*): động lực của lịch sử không phải ý tưởng, mà là cách con người tổ chức sản xuất vật chất. Mỗi thời đại có một **phương thức sản xuất** (chế độ nô lệ, phong kiến, tư bản...) với quan hệ giữa người sở hữu tư liệu sản xuất và người lao động; mâu thuẫn giữa **lực lượng sản xuất** (công nghệ, kỹ năng — luôn phát triển) và **quan hệ sản xuất** (ai sở hữu cái gì — trì trệ) cuối cùng bùng nổ thành cách mạng, chuyển sang phương thức mới.
+Tư tưởng cốt lõi là **duy vật lịch sử** (*historical materialism*): động lực của lịch sử không phải ý tưởng, mà là cách con người tổ chức sản xuất vật chất. Mỗi thời đại có một **phương thức sản xuất** (chế độ nô lệ, phong kiến, tư bản...) với quan hệ giữa người sở hữu tư liệu sản xuất và người lao động; mâu thuẫn giữa **lực lượng sản xuất** (công nghệ, kỹ năng — có xu hướng phát triển) và **quan hệ sản xuất** (ai sở hữu cái gì — chậm thay đổi) cuối cùng bùng nổ thành cách mạng, chuyển sang phương thức mới.
 
 Trong *Tuyên ngôn của Đảng Cộng sản* (1848, viết cùng Engels) và *Tư bản* (tập 1, 1867), Marx phân tích chủ nghĩa tư bản: công nhân bán sức lao động, nhà tư bản chiếm đoạt **giá trị thặng dư** — phần giá trị công nhân tạo ra vượt quá tiền công. Hệ thống này, theo Marx, vừa tạo ra của cải khổng lồ vừa tạo ra **tha hóa** (*alienation*): người lao động xa lạ với sản phẩm, với quá trình lao động, với đồng loại và với chính mình.
 
-Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà hoạt động chính trị; tư tưởng của ông vừa là công cụ phân tích xã hội có ảnh hưởng sâu rộng (hầu như mọi ngành khoa học xã hội hiện đại đều chịu ảnh hưởng của ông, dù đồng ý hay phản bác), vừa gắn với các phong trào chính trị gây tranh cãi trong thế kỷ 20. Bài này trình bày ông như một lập trường triết học: một cách giải thích lịch sử và xã hội bằng điều kiện vật chất, với những lập luận và những phản bác riêng.
+Cần trình bày công bằng: Marx là triết gia, nhà kinh tế và nhà hoạt động chính trị; tư tưởng của ông vừa là công cụ phân tích xã hội có ảnh hưởng sâu rộng (nhiều ngành khoa học xã hội hiện đại chịu ảnh hưởng của ông, dù đồng ý hay phản bác), vừa gắn với các phong trào chính trị gây tranh cãi trong thế kỷ 20. Bài này trình bày ông như một lập trường triết học: một cách giải thích lịch sử và xã hội bằng điều kiện vật chất, với những lập luận và những phản bác riêng.
 
 Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – kiến trúc thượng tầng** (*base–superstructure*). Theo Marx, cách tổ chức sản xuất (cơ sở hạ tầng) định hình luật pháp, chính trị, tôn giáo, văn hóa (kiến trúc thượng tầng) — chứ không phải ngược lại. Phản bác phổ biến nhất: mô hình này có quá đơn giản không? Ý tưởng — ví dụ chính chủ nghĩa Marx — chẳng phải đã làm thay đổi thế giới vật chất đó sao? Nếu ý thức chỉ là "phản ánh" tồn tại, thì chính tư tưởng của Marx từ đâu mà có?
 
 ## Kierkegaard: cá nhân trước hệ thống
 
-**Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, là "kẻ phản Hegel" đầu tiên theo một nghĩa rất cá nhân: ông cho rằng hệ thống của Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
+**Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, thường được xem là đối thủ lớn của Hegel (dù có những nhà nghiên cứu cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
 
 Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Việc chuyển từ nấc này sang nấc khác không phải là một kết luận mà lý trí buộc ta phải chấp nhận, mà là một thành tựu đòi hỏi biến đổi những "đam mê" định hình cả đời sống. Hình mẫu của nấc tôn giáo là Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843), người sẵn sàng hiến tế con trai vì vâng lời Chúa; nhiều người đọc thấy ở đây sự đình chỉ đạo đức thông thường vì một mục đích cao hơn.
 
@@ -14963,13 +14963,13 @@ Kierkegaard được xem là cha đẻ của **hiện sinh** (*existentialism*):
 
 ## Nietzsche: "Chúa đã chết"
 
-**Friedrich [Nietzsche](../triet-gia/nietzsche.md)** (1844–1900), người Đức, là triết gia bị hiểu lầm nhiều nhất lịch sử — một phần vì em gái ông sau này bóp méo di sản của ông cho chính trị.
+**Friedrich [Nietzsche](../triet-gia/nietzsche.md)** (1844–1900), người Đức, là một trong những triết gia bị hiểu lầm nhiều nhất — một phần vì em gái ông sau này bóp méo di sản của ông cho chính trị.
 
 Câu nói nổi tiếng "Chúa đã chết" (trong *Khoa học vui* (*The Gay Science*, 1882) và *Zarathustra đã nói như thế* (1883–1885)) **không** phải là tuyên bố vô thần đơn giản. Ý ông: nền tảng giá trị của văn minh phương Tây — Kitô giáo — đã sụp đổ về mặt trí thức (sau khoa học và phê phán lịch sử), nhưng con người vẫn sống như thể nó còn đó, bám vào những giá trị mà mình không còn tin. Cái chết của Chúa để lại một khoảng trống: *giờ ta sống theo giá trị nào?*
 
 Đáp án ông gợi ý là **siêu nhân** (*Übermensch*): con người vượt lên trên đạo đức bầy đàn (đạo đức của kẻ yếu: khiêm nhường, vâng lời, thương hại) để tự tạo ra giá trị của mình — khẳng định cuộc đời, kể cả đau khổ, như nghệ sĩ khẳng định tác phẩm. Trong *Bên kia Thiện và Ác* (*Beyond Good and Evil*, 1886), ông truy vấn gốc gác của mọi giá trị đạo đức: ai đặt ra chúng, và phục vụ lợi ích của ai?
 
-Cần tránh hai hiểu lầm phổ biến: Nietzsche không phải kẻ tôn thờ bạo lực (ông khinh miệt chủ nghĩa dân tộc Đức và bài Do Thái), và "ý chí quyền lực" của ông trước hết là khái niệm tâm lý–triết học về động lực khẳng định bản thân, không phải cương lĩnh chính trị.
+Cần tránh hai hiểu lầm phổ biến: Nietzsche không phải kẻ tôn thờ bạo lực (ông khinh miệt chủ nghĩa dân tộc Đức và bài Do Thái), và "ý chí quyền lực" của ông là một khái niệm mà giới nghiên cứu còn tranh luận (siêu hình học, giả thuyết tâm lý hay một thang giá trị), không phải cương lĩnh chính trị.
 
 Một tư tưởng khác của ông đáng suy ngẫm: **vĩnh cửu luân hồi** (*eternal recurrence*). Trong *Khoa học vui*, ông đặt thí nghiệm tư duy: nếu một con quỷ bảo rằng cuộc đời này của bạn — từng niềm vui, từng nỗi đau, từng khoảnh khắc tẻ nhạt — sẽ lặp lại y hệt vô số lần, không gì thay đổi, bạn sẽ nguyền rủa hay reo mừng? Đây không phải giả thuyết vũ trụ học mà là bài kiểm tra thái độ sống: bạn có dám khẳng định cuộc đời mình đến mức muốn sống nó thêm vô hạn lần không?
 
@@ -14981,7 +14981,7 @@ Một tư tưởng khác của ông đáng suy ngẫm: **vĩnh cửu luân hồi
 
 Trong *Bàn về Tự do* (*On Liberty*, 1859), ông đưa ra **nguyên tắc gây hại** (*harm principle*): xã hội chỉ được can thiệp vào tự do cá nhân để ngăn người này gây hại cho người khác. Tin ngưỡng, lối sống, cách nghĩ — chừng nào không hại ai — phải được tuyệt đối tôn trọng. Lập luận của ông không chỉ dựa trên quyền, mà trên lợi ích của chính chân lý: chỉ trong tranh luận tự do, ý kiến sai mới bị loại bỏ và ý kiến đúng mới được hiểu sâu sắc (chứ không chỉ thuộc lòng).
 
-Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, 1863), Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) của thầy mình [Bentham](../triet-gia/bentham.md): hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất. Nhưng khác Bentham (đo hạnh phúc bằng khoái lạc đơn thuần), Mill phân biệt khoái lạc **cao** (trí tuệ, thẩm mỹ, đạo đức) với khoái lạc **thấp** (thuần giác quan): "thà làm một con người bất mãn còn hơn một con lợn thỏa mãn".
+Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, đăng báo 1861, in thành sách 1863), Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) mà ông thừa hưởng từ [Bentham](../triet-gia/bentham.md) và cha mình, James Mill: hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất. Nhưng khác Bentham (đo hạnh phúc bằng khoái lạc đơn thuần), Mill phân biệt khoái lạc **cao** (trí tuệ, thẩm mỹ, đạo đức) với khoái lạc **thấp** (thuần giác quan): "thà làm một con người bất mãn còn hơn một con lợn thỏa mãn".
 
 Ảnh hưởng: Mill là nền tảng triết học của chủ nghĩa tự do hiện đại — tự do ngôn luận, nữ quyền, và mọi cuộc tranh luận về giới hạn của tự do đến hôm nay.
 
@@ -15005,8 +15005,6 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 - Hiện sinh và cái chết: [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 
 ## Nguồn
-
-Trang "Presenting the 1866 petition" của Quốc hội Anh: đề nghị sửa đổi của Mill năm 1867 về quyền bầu cử của phụ nữ.
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
@@ -15073,7 +15071,7 @@ Một nhánh khác của triết học lục địa là **Trường phái Frankf
 
 Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đường khác: thay vì xây hệ thống, hãy quan sát thật kỹ cách người ta *thực sự* nói. **J. L. Austin** (1911–1960), trong các bài giảng xuất bản sau khi mất thành *How to Do Things with Words* (1962), chỉ ra rằng nhiều câu nói không phải để mô tả sự thật mà để *làm* điều gì đó: "tôi hứa", "tôi đặt tên con tàu này là...", "tôi xin lỗi" — nói ra là hành động đã xong. Ông gọi đó là **hành vi ngôn ngữ** (*speech act*). Hệ quả triết học: muốn hiểu "hứa", "biết", "tự do", đừng tra từ điển trừu tượng — hãy xem người ta dùng những từ đó trong tình huống nào, với hậu quả gì.
 
-**Gilbert Ryle** (1900–1976), trong *The Concept of Mind* (1949), dùng phương pháp này để tấn công nhị nguyên luận [Descartes](../triet-gia/descartes.md): nói "tâm trí" như một thứ *bên trong* cơ thể là phạm một **lỗi phạm trù** (*category mistake*) — như hỏi "trường đại học ở đâu" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá. "Tâm trí" không phải một vật bí ẩn, mà là cách ta mô tả những *khuynh hướng hành xử* của con người.
+**Gilbert Ryle** (1900–1976), trong *The Concept of Mind* (1949), dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md): nói "tâm trí" như một thứ *bên trong* cơ thể là phạm một **lỗi phạm trù** (*category mistake*) — như hỏi "trường đại học ở đâu" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá. "Tâm trí" không phải một vật bí ẩn, mà là cách ta mô tả những *khuynh hướng hành xử* của con người.
 
 Ảnh hưởng: triết học ngôn ngữ thường đưa triết học phân tích về gần đời sống — và phương pháp "xem cách dùng" của nó vẫn là công cụ sắc bén mỗi khi một khái niệm triết học trở nên mù mờ.
 
@@ -15081,13 +15079,13 @@ Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đ�
 
 Một di sản khác của Trường phái Vienna là **triết học khoa học** (*philosophy of science*) — ngành hỏi: khoa học khác gì với phi khoa học, và khoa học tiến bộ bằng cách nào? **[Karl Popper](../triet-gia/popper.md)** (1902–1994), dù không thuộc Trường phái Vienna, tranh luận trực tiếp với họ: trong *Logik der Forschung* (1934; bản tiếng Anh *The Logic of Scientific Discovery*, 1959), ông đề xuất **khả bác bỏ** (*falsifiability*) làm tiêu chuẩn phân giới — lý thuyết khoa học phải dám đưa ra dự đoán có thể sai.
 
-**Thomas Kuhn** (1922–1996) đảo ngược bức tranh trong *The Structure of Scientific Revolutions* (1962): khoa học thường không "tiến bộ dần" mà vận hành trong các **mô thức** (*paradigm*); khi dị thường tích tụ, xảy ra **cách mạng khoa học** — và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau. **Paul Feyerabend** (1924–1994) đi xa hơn trong *Against Method* (1975), cho rằng không có "phương pháp khoa học" duy nhất nào cả.
+**Thomas Kuhn** (1922–1996) đảo ngược bức tranh trong *The Structure of Scientific Revolutions* (1962): khoa học không chỉ "tiến bộ dần": phần lớn thời gian nó tích lũy kết quả bên trong một **mô thức** (*paradigm*); khi dị thường tích tụ, xảy ra **cách mạng khoa học** — và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau. **Paul Feyerabend** (1924–1994) đi xa hơn trong *Against Method* (1975), cho rằng không có "phương pháp khoa học" duy nhất nào cả.
 
 Chủ đề này đã có bài riêng đầy đủ — xem [Khoa học khác gì với phi khoa học?](../cau-hoi/khoa-hoc.md).
 
 ## Hai ngả đang xích lại?
 
-Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học, lục địa đọc Quine và Wittgenstein. Nhiều người cho rằng sự chia rẽ này phần lớn là tai nạn lịch sử và địa lý hơn là khác biệt thực chất — một nhận định đang tranh luận, chưa ngã ngũ.
+Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học, và từ thập niên 1960 một số triết gia được đào tạo theo lối phân tích bắt đầu nghiên cứu hiện tượng luận. Có người truy nguồn sự chia rẽ về những biến cố lịch sử cụ thể — Michael Friedman chẳng hạn chỉ vào cuộc tranh luận giữa Heidegger và Cassirer ở Davos năm 1929. Sự chia rẽ ấy thực chất đến đâu vẫn đang tranh luận, chưa ngã ngũ.
 
 ## Đọc tiếp
 
@@ -15128,13 +15126,14 @@ kinh Vệ Đà — xuất hiện một tư tưởng táo bạo. Các hiền tri�
 **Brahman**; và cái "tôi" sâu nhất trong mỗi người — **Atman** — không khác gì Brahman. Câu nói nổi
 tiếng trong *Chandogya Upanishad*: "Tat tvam asi" — "Ngươi chính là Cái Đó".
 
-Tư tưởng cốt lõi: khổ đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong
-khi bản chất thật của ta đồng nhất với thực tại vũ trụ. Giác ngộ là nhận ra sự đồng nhất đó, và khi
-nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
+Tư tưởng cốt lõi: **tri thức** (*knowledge*) về Atman đưa tới giải thoát — trong các Upanishad cổ nhất, giải thoát
+trước hết là thoát khỏi cái chết. Về sau, nhất là trong Advaita Vedanta, cách đọc phổ biến là: khổ
+đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong khi bản chất thật của
+ta đồng nhất với Brahman; giác ngộ là nhận ra sự đồng nhất đó, và khi nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
 
 Ảnh hưởng: cặp Brahman/Atman trở thành nền tảng mà hầu hết triết học Ấn Độ sau này — kể cả những
 trường phái phản đối — đều phải đối thoại. Khi Schopenhauer ở châu Âu thế kỷ 19 đọc được bản dịch
-Upanishad, ông viết rằng đó là "niềm an ủi của đời tôi, và sẽ là niềm an ủi khi tôi chết".
+Upanishad, ông coi đó là niềm an ủi của đời mình, và sẽ là niềm an ủi khi mình chết.
 
 ## Đức Phật: Tứ diệu đế và vô ngã
 
@@ -15179,7 +15178,7 @@ tọa bộ** (*Theravada*, "lời dạy của các bậc trưởng lão") — tr
 gần nguyên bản lời Phật: mỗi người tự tu tập theo Bát chánh đạo để trở thành **A-la-hán** (*arhat*),
 người đã giải thoát. Truyền thống này thịnh hành ở Sri Lanka, Thái Lan, Myanmar, Lào, Campuchia.
 
-**Đại thừa** (*Mahayana*, "cỗ xe lớn") — phát triển từ khoảng thế kỷ 1 — mở rộng lý tưởng: thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành **Bồ tát** (*bodhisattva*), hoãn nhập niết bàn để cứu độ tất cả chúng sinh. Triết học Trung quán của Nagarjuna, cùng với **Duy thức** (*Yogacara*) ra đời sau đó, là nền tảng trí tuệ của Đại thừa. Từ Đại thừa lại nảy sinh **Kim cương thừa** (*Vajrayana*) — hình thành ở Ấn Độ rồi thịnh hành ở Tây Tạng — với các phương pháp tu tập đặc biệt.
+**Đại thừa** (*Mahayana*, "cỗ xe lớn") — phát triển từ khoảng thế kỷ 1 TCN — mở rộng lý tưởng: thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành Phật để cứu độ tất cả chúng sinh — người đi trên con đường ấy gọi là **Bồ tát** (*bodhisattva*). Triết học Trung quán của Nagarjuna, cùng với **Duy thức** (*Yogacara*) ra đời sau đó, là nền tảng trí tuệ của Đại thừa. Từ Đại thừa lại nảy sinh **Kim cương thừa** (*Vajrayana*) — hình thành ở Ấn Độ rồi thịnh hành ở Tây Tạng — với các phương pháp tu tập đặc biệt.
 
 Điểm triết học đáng chú ý: sự phân hóa này cho thấy cùng một gốc mà có thể nở ra những siêu hình học
 rất khác — từ chủ nghĩa cá nhân tu chứng nghiêm ngặt đến vũ trụ quan Bồ tát đầy lòng bi mẫn. Phật
@@ -15195,21 +15194,20 @@ David Thoreau rút về rừng Walden với bản dịch *Bhagavad Gita* trên t
 
 Ngược lại, thế kỷ 20 chứng kiến triết gia Ấn Độ đối thoại trực tiếp với phương Tây: Sarvepalli
 Radhakrishnan (1888–1975) — vừa là triết gia Vedanta vừa là Tổng thống thứ hai của Ấn Độ — viết bằng
-tiếng Anh để giới thiệu triết học Ấn Độ với thế giới, và B. R. Ambedkar dùng Phật giáo như nền tảng
-cho phong trào giải phóng người Dalit.
+tiếng Anh để giới thiệu triết học Ấn Độ với thế giới.
 
 Bài học cho người đọc hôm nay: "triết học" không đồng nghĩa với "triết học phương Tây". Những câu
 hỏi về khổ, vô ngã và giải thoát mà Ấn Độ đặt ra từ 2.500 năm trước vẫn là những câu hỏi sống động —
-và nhiều người phương Tây hiện đại tìm đến chúng chính vì triết học quê nhà không trả lời thỏa đáng.
+và ngày nay vẫn được nhiều người, ở cả phương Đông lẫn phương Tây, tìm đọc.
 
 ## Sáu trường phái chính thống (tổng quan ngắn)
 
 Truyền thống Ấn Độ phân biệt các trường phái **chính thống** (*astika* — thừa nhận thẩm quyền của
 kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái duy vật Carvaka…). Sáu trường phái chính thống lớn:
 
-- **Nyaya**: logic học và lý thuyết nhận thức — nghiên cứu các nguồn tri thức đúng (tri giác, suy luận, so sánh, lời chứng).
-- **Vaisheshika**: nguyên tử luận — vũ trụ cấu tạo từ những nguyên tử vĩnh cửu kết hợp theo quy luật.
-- **Samkhya**: nhị nguyên — hai thực tại tối hậu là thần thức (*purusha*) và vật chất (*prakriti*); khổ đến từ việc lẫn lộn hai thứ.
+- **Nyaya**: logic học và **tri thức luận** (*epistemology*) — nghiên cứu các nguồn tri thức đúng (tri giác, suy luận, so sánh, lời chứng).
+- **Vaisheshika**: nguyên tử luận — vũ trụ cấu tạo từ những nguyên tử kết hợp theo quy luật.
+- **Samkhya**: **nhị nguyên luận** (*dualism*) — hai thực tại tối hậu là thần thức (*purusha*) và vật chất (*prakriti*); khổ đến từ việc lẫn lộn hai thứ.
 - **Yoga**: thực hành dựa trên siêu hình học Samkhya — con đường kỷ luật thân-tâm để phân biệt purusha khỏi prakriti.
 - **Mimamsa**: chú giải nghi lễ Vệ Đà — triết học về ngôn ngữ và hành động đúng đắn.
 - **Vedanta**: "kết thúc của Vệ Đà", bám vào Upanishad; nhánh **Advaita** (Shankara, khoảng thế kỷ 8) chủ trương bất nhị — Atman chính là Brahman, thế giới hiện tượng chỉ là ảo ảnh (*maya*).
@@ -15217,7 +15215,7 @@ kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái du
 ## Đọc tiếp
 
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — [Epicurus](../triet-gia/epicurus.md) và Nagel về cái chết; thử đối chiếu với quan niệm luân hồi
-- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — khổ đau và ý nghĩa
+- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — Nagel, Wolf và cái phi lý: ý nghĩa do mình đặt ra hay phải tìm
 - [Vì sao có đau khổ?](../cau-hoi/van-de-su-du.md) — vấn đề sự dữ trong triết học phương Tây
 
 ## Nguồn
@@ -15278,8 +15276,8 @@ mọi cuộc cãi nhau về giáo dục. Cuộc tranh luận ấy, cùng [Hobbes
 
 ## Lão Tử và Trang Tử: Đạo không nói được
 
-Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của Lão
-Tử (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
+Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của
+[Lão Tử](../triet-gia/lao-tu.md) (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
 nổi tiếng: "Đạo khả đạo, phi thường đạo" — Đạo mà nói được thì không phải Đạo thường hằng. Tư tưởng
 cốt lõi: vũ trụ vận hành theo **Đạo**, một nguyên lý không thể gọi tên; cách sống khôn ngoan nhất là
 **vô vi** — không cưỡng ép, thuận theo tự nhiên như nước chảy chỗ trũng.
@@ -15342,8 +15340,8 @@ Lâm](../cau-hoi/truc-lam.md).
 Một câu hỏi hay để khép lại: vì sao thời Bách gia chư tử rực rỡ như vậy mà sau đó Trung Hoa không
 lặp lại? Câu trả lời thông thường: năm 221 TCN, Tần Thủy Hoàng thống nhất Trung Hoa; năm 213 TCN nhà Tần
 ra lệnh **đốt sách**, và theo *Sử ký* của Tư Mã Thiên, năm sau còn chôn sống hơn 460 nho sinh
-(**chôn Nho** — chi tiết này bị nhiều sử gia hiện đại nghi ngờ) — nhằm trấn áp tư tưởng ngoài Pháp
-gia. Nhà Hán sau đó, dưới thời Hán Vũ Đế, "bãi truất bách gia, biểu chương Lục kinh" (gạt bỏ trăm
+(**chôn Nho** — chi tiết này bị nhiều sử gia hiện đại nghi ngờ) — nhằm đặt mọi việc học dưới sự kiểm soát của triều đình (sử gia hiện đại lưu ý: mục tiêu không
+phải là để Pháp gia thắng Nho gia). Nhà Hán sau đó, dưới thời Hán Vũ Đế, "bãi truất bách gia, biểu chương Lục kinh" (gạt bỏ trăm
 nhà, tôn vinh sáu kinh Nho gia — lời *Hán thư*; đời sau tóm lại thành "độc tôn Nho thuật"), theo đề
 xuất của Đổng Trọng Thư (khoảng 134 TCN): Nho học thành học thuyết chính thống của triều đình, các
 nhà khác hoặc bị thu nạp hoặc tàn lụi.
@@ -15380,9 +15378,9 @@ Triết học không chỉ có ở Hy Lạp, Ấn Độ hay Trung Hoa. Khi Phậ
 
 ## Nhật Bản: từ Phật giáo đến trường phái Kyoto
 
-Phật giáo đến Nhật Bản vào thế kỷ 6, theo đường Triều Tiên (từ nước Bách Tế) **[chắc chắn]**; năm cụ thể còn tranh luận (*Nihon Shoki* ghi 552, một số nguồn cổ khác ghi 538) — và nhanh chóng gắn với triều đình, trở thành một trong những trụ cột văn hóa Nhật. Qua nhiều thế kỷ, Nhật Bản phát triển các tông phái Phật giáo riêng (Thiên Thai, Chân Ngôn, Tịnh Độ, Thiền), mỗi tông một cách hiểu khác nhau về giác ngộ. Song song, Nho giáo — đặc biệt Tân Nho giáo của [Chu Hy](../triet-gia/chu-hy.md) — du nhập và ảnh hưởng sâu đến giáo dục và đạo đức samurai thời Tokugawa (1603–1868).
+Phật giáo đến Nhật Bản vào thế kỷ 6, theo đường Triều Tiên (từ nước Bách Tế) **[chắc chắn]**; năm cụ thể còn tranh luận (*Nihon Shoki* ghi 552, một số nguồn cổ khác ghi 538) — và nhanh chóng gắn với triều đình, trở thành một trong những trụ cột văn hóa Nhật. Qua nhiều thế kỷ, Nhật Bản phát triển các tông phái Phật giáo riêng (Thiên Thai, Chân Ngôn, Tịnh Độ, Thiền), mỗi tông một cách hiểu khác nhau về giác ngộ. Song song, Nho giáo — đặc biệt Tân Nho giáo của [Chu Hy](../triet-gia/chu-hy.md) — du nhập và ảnh hưởng sâu đến giáo dục và đạo đức samurai thời Tokugawa (1600–1868).
 
-Thời Tokugawa (1603–1868), khi Nhật Bản đóng cửa với phương Tây, Nho giáo — đặc biệt Tân Nho giáo của Chu Hy — trở thành nền tảng giáo dục của tầng lớp võ sĩ (*samurai*). Đạo lý trung quân, trọng danh dự, coi thường tiền bạc thấm vào **võ sĩ đạo** (*bushido*, "đạo của võ sĩ") **[có cơ sở]**. Nghịch lý thú vị: một triết học Trung Hoa du nhập lại trở thành linh hồn của tinh thần Nhật Bản — thêm một ví dụ về "tiếp biến chứ không sao chép".
+Thời Tokugawa (1600–1868), khi Nhật Bản đóng cửa với phương Tây, Nho giáo — đặc biệt Tân Nho giáo của Chu Hy — trở thành nền tảng giáo dục của tầng lớp võ sĩ (*samurai*). Đạo lý trung quân, trọng danh dự của Nho giáo về sau thấm vào **võ sĩ đạo** (*bushido*, "đạo của võ sĩ") **[có cơ sở]** — dù võ sĩ đạo chỉ thành một học thuyết có hệ thống vào thời hiện đại (thế kỷ 19), lai ghép Nho, Phật, Thần đạo và cả tư tưởng châu Âu. Nghịch lý thú vị: một triết học Trung Hoa du nhập lại trở thành một phần của cái được tôn là "linh hồn" của tinh thần Nhật Bản — thêm một ví dụ về "tiếp biến chứ không sao chép".
 
 Bước ngoặt đến vào cuối thế kỷ 19, khi Nhật Bản mở cửa (Minh Trị duy tân 1868): triết học phương Tây tràn vào qua các đại học mới. Từ cuộc gặp gỡ đó nảy sinh **trường phái Kyoto** (*Kyoto School*): nhóm triết gia quanh Đại học Kyoto tìm cách đối thoại giữa Thiền Phật giáo với hiện tượng luận, hiện sinh và thần học Đức. Người sáng lập là Nishida Kitaro (1870–1945) **[chắc chắn]**, với khái niệm "logic của cái không" — dùng kinh nghiệm Thiền để đặt câu hỏi mà triết học phương Tây chưa hỏi.
 
@@ -15405,7 +15403,7 @@ Việt Nam tiếp nhận cả ba dòng — Phật, Nho, Đạo — nhưng theo c
 Hai chủ đề này đã có bài riêng, trình bày đầy đủ với nguồn và tranh luận:
 
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md) — triết lý "cư trần lạc đạo" của Trần Nhân Tông
-- [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — Nho học bản địa và tam giáo đồng nguyên
+- [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — tiếp thu hay sáng tạo: từ Chu Văn An đến Nguyễn Trãi
 
 ## Việt Nam hiện đại: đối thoại với thế giới
 
@@ -15421,14 +15419,14 @@ Câu chuyện đầy đủ — với nhãn độ chắc chắn cho từng khẳn
 
 Nhật Bản và Việt Nam cho thấy cùng một mẫu hình: tư tưởng ngoại lai (Phật giáo, Nho giáo, triết học phương Tây) khi vào một nền văn hóa mới đều bị "bản địa hóa" — giữ cái hợp, biến cái chưa hợp, và sinh ra thứ mới **[suy đoán]** (mẫu hình được nhiều nhà nghiên cứu ghi nhận, nhưng mỗi trường hợp cụ thể cần khảo sát riêng). Thiền Trúc Lâm không phải Thiền Trung Hoa; trường phái Kyoto không phải hiện tượng luận Đức; Nho giáo Việt Nam không phải Nho giáo Tống–Minh.
 
-Điều này cũng trả lời một nỗi lo thường trực: "học triết học ngoại thì có mất gốc không?" Câu trả lời từ lịch sử: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*. Người Nhật đọc Husserl mà vẫn ngồi thiền; người Việt đọc Marx mà vẫn cúng giỗ. Truyền thống sống được không phải nhờ đóng khung bảo quản, mà nhờ dám đem ra đối thoại với cái mới — và thắng thua gì cũng là của mình.
+Điều này cũng trả lời một nỗi lo thường trực: "học triết học ngoại thì có mất gốc không?" Câu trả lời mà hai trường hợp này gợi ý **[suy đoán]**: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*. Người Nhật đọc Husserl mà vẫn ngồi thiền; người Việt đọc Marx mà vẫn cúng giỗ. Truyền thống sống được không phải nhờ đóng khung bảo quản, mà nhờ dám đem ra đối thoại với cái mới — và thắng thua gì cũng là của mình.
 
 ## Đọc tiếp
 
 - [Thiền Trúc Lâm](../cau-hoi/truc-lam.md)
 - [Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md)
 - [Triết học Việt Nam hiện đại](../cau-hoi/viet-hien-dai.md)
-- [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — Đạo gia và đạo đức môi trường, một cầu nối thú vị
+- [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — đạo đức môi trường: giá trị nội tại hay giá trị công cụ của thiên nhiên
 
 ## Nguồn
 

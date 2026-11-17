@@ -1,0 +1,62 @@
+{
+  "unit": "lich-su/nhat-ban-viet-nam.md#bai-hoc-chung-tiep-bien-chu-khong-sao-chep",
+  "hash": "sha256:3b37d91c5ec4e2619f7fe787d5c1e10af5e4ad50688bd0c4e6b2be790bcef5d2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p08 + agent-kiem-5.6-k02",
+  "claims": [
+    {
+      "text": "tư tưởng ngoại lai khi vào một nền văn hóa mới đều bị \"bản địa hóa\" — giữ cái hợp, biến cái chưa hợp, và sinh ra thứ mới [suy đoán] (mẫu hình được nhiều nhà nghiên cứu ghi nhận, nhưng mỗi trường hợp cụ thể cần khảo sát riêng)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/japanese-philosophy/",
+          "quote": "imported Chinese Buddhist schools of thought were modified and new Japanese schools developed",
+          "where": "§3.3"
+        },
+        {
+          "url": "https://vjol.info.vn/phil/vi/article/view/6500",
+          "quote": "Nho - Phật - Lão hội nhập là hiện tượng tư tưởng chung ở các nước Đông Á thời Trung đại",
+          "where": "Tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "Thiền Trúc Lâm không phải Thiền Trung Hoa; trường phái Kyoto không phải hiện tượng luận Đức; Nho giáo Việt Nam không phải Nho giáo Tống–Minh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "ho-so/tran-nhan-tong",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kyoto-school/",
+          "quote": "Nishida was the first major modern Japanese thinker to successfully go beyond learning from the West to construct an original and abidingly influential system of thought",
+          "where": "§1"
+        }
+      ]
+    },
+    {
+      "text": "\"học triết học ngoại thì có mất gốc không?\" Câu trả lời từ lịch sử: không — miễn là ta học để đối thoại, không phải để thờ phụng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/viet-hien-dai/",
+          "quote": "Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh",
+          "where": "bài đích trình bày ba lập trường còn tranh luận về truyền thống và hiện đại"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Câu trả lời mà hai trường hợp này gợi ý **[suy đoán]**: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*.",
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đoạn hai kết luận một câu hỏi còn tranh luận (bài viet-hien-dai trình bày ba lập trường) mà không gắn nhãn; mức nhẹ, đề xuất thêm nhãn [suy đoán]. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c2 sửa đúng fix: thêm nhãn **[suy đoán]** và \"mà hai trường hợp này gợi ý\"."
+}

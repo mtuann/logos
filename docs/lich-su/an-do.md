@@ -22,13 +22,14 @@ kinh Vệ Đà — xuất hiện một tư tưởng táo bạo. Các hiền tri�
 **Brahman**; và cái "tôi" sâu nhất trong mỗi người — **Atman** — không khác gì Brahman. Câu nói nổi
 tiếng trong *Chandogya Upanishad*: "Tat tvam asi" — "Ngươi chính là Cái Đó".
 
-Tư tưởng cốt lõi: khổ đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong
-khi bản chất thật của ta đồng nhất với thực tại vũ trụ. Giác ngộ là nhận ra sự đồng nhất đó, và khi
-nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
+Tư tưởng cốt lõi: **tri thức** (*knowledge*) về Atman đưa tới giải thoát — trong các Upanishad cổ nhất, giải thoát
+trước hết là thoát khỏi cái chết. Về sau, nhất là trong Advaita Vedanta, cách đọc phổ biến là: khổ
+đau đến từ vô minh — ta tưởng mình là cái thân xác riêng lẻ, tạm bợ này, trong khi bản chất thật của
+ta đồng nhất với Brahman; giác ngộ là nhận ra sự đồng nhất đó, và khi nhận ra, vòng **luân hồi** (*samsara*) — sinh ra, chết đi, sinh lại — chấm dứt.
 
 Ảnh hưởng: cặp Brahman/Atman trở thành nền tảng mà hầu hết triết học Ấn Độ sau này — kể cả những
 trường phái phản đối — đều phải đối thoại. Khi Schopenhauer ở châu Âu thế kỷ 19 đọc được bản dịch
-Upanishad, ông viết rằng đó là "niềm an ủi của đời tôi, và sẽ là niềm an ủi khi tôi chết".
+Upanishad, ông coi đó là niềm an ủi của đời mình, và sẽ là niềm an ủi khi mình chết.
 
 ## Đức Phật: Tứ diệu đế và vô ngã {#duc-phat-tu-dieu-de-va-vo-nga}
 
@@ -73,7 +74,7 @@ tọa bộ** (*Theravada*, "lời dạy của các bậc trưởng lão") — tr
 gần nguyên bản lời Phật: mỗi người tự tu tập theo Bát chánh đạo để trở thành **A-la-hán** (*arhat*),
 người đã giải thoát. Truyền thống này thịnh hành ở Sri Lanka, Thái Lan, Myanmar, Lào, Campuchia.
 
-**Đại thừa** (*Mahayana*, "cỗ xe lớn") — phát triển từ khoảng thế kỷ 1 — mở rộng lý tưởng: thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành **Bồ tát** (*bodhisattva*), hoãn nhập niết bàn để cứu độ tất cả chúng sinh. Triết học Trung quán của Nagarjuna, cùng với **Duy thức** (*Yogacara*) ra đời sau đó, là nền tảng trí tuệ của Đại thừa. Từ Đại thừa lại nảy sinh **Kim cương thừa** (*Vajrayana*) — hình thành ở Ấn Độ rồi thịnh hành ở Tây Tạng — với các phương pháp tu tập đặc biệt.
+**Đại thừa** (*Mahayana*, "cỗ xe lớn") — phát triển từ khoảng thế kỷ 1 TCN — mở rộng lý tưởng: thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành Phật để cứu độ tất cả chúng sinh — người đi trên con đường ấy gọi là **Bồ tát** (*bodhisattva*). Triết học Trung quán của Nagarjuna, cùng với **Duy thức** (*Yogacara*) ra đời sau đó, là nền tảng trí tuệ của Đại thừa. Từ Đại thừa lại nảy sinh **Kim cương thừa** (*Vajrayana*) — hình thành ở Ấn Độ rồi thịnh hành ở Tây Tạng — với các phương pháp tu tập đặc biệt.
 
 Điểm triết học đáng chú ý: sự phân hóa này cho thấy cùng một gốc mà có thể nở ra những siêu hình học
 rất khác — từ chủ nghĩa cá nhân tu chứng nghiêm ngặt đến vũ trụ quan Bồ tát đầy lòng bi mẫn. Phật
@@ -89,21 +90,20 @@ David Thoreau rút về rừng Walden với bản dịch *Bhagavad Gita* trên t
 
 Ngược lại, thế kỷ 20 chứng kiến triết gia Ấn Độ đối thoại trực tiếp với phương Tây: Sarvepalli
 Radhakrishnan (1888–1975) — vừa là triết gia Vedanta vừa là Tổng thống thứ hai của Ấn Độ — viết bằng
-tiếng Anh để giới thiệu triết học Ấn Độ với thế giới, và B. R. Ambedkar dùng Phật giáo như nền tảng
-cho phong trào giải phóng người Dalit.
+tiếng Anh để giới thiệu triết học Ấn Độ với thế giới.
 
 Bài học cho người đọc hôm nay: "triết học" không đồng nghĩa với "triết học phương Tây". Những câu
 hỏi về khổ, vô ngã và giải thoát mà Ấn Độ đặt ra từ 2.500 năm trước vẫn là những câu hỏi sống động —
-và nhiều người phương Tây hiện đại tìm đến chúng chính vì triết học quê nhà không trả lời thỏa đáng.
+và ngày nay vẫn được nhiều người, ở cả phương Đông lẫn phương Tây, tìm đọc.
 
 ## Sáu trường phái chính thống (tổng quan ngắn) {#sau-truong-phai-chinh-thong-tong-quan-ngan}
 
 Truyền thống Ấn Độ phân biệt các trường phái **chính thống** (*astika* — thừa nhận thẩm quyền của
 kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái duy vật Carvaka…). Sáu trường phái chính thống lớn:
 
-- **Nyaya**: logic học và lý thuyết nhận thức — nghiên cứu các nguồn tri thức đúng (tri giác, suy luận, so sánh, lời chứng).
-- **Vaisheshika**: nguyên tử luận — vũ trụ cấu tạo từ những nguyên tử vĩnh cửu kết hợp theo quy luật.
-- **Samkhya**: nhị nguyên — hai thực tại tối hậu là thần thức (*purusha*) và vật chất (*prakriti*); khổ đến từ việc lẫn lộn hai thứ.
+- **Nyaya**: logic học và **tri thức luận** (*epistemology*) — nghiên cứu các nguồn tri thức đúng (tri giác, suy luận, so sánh, lời chứng).
+- **Vaisheshika**: nguyên tử luận — vũ trụ cấu tạo từ những nguyên tử kết hợp theo quy luật.
+- **Samkhya**: **nhị nguyên luận** (*dualism*) — hai thực tại tối hậu là thần thức (*purusha*) và vật chất (*prakriti*); khổ đến từ việc lẫn lộn hai thứ.
 - **Yoga**: thực hành dựa trên siêu hình học Samkhya — con đường kỷ luật thân-tâm để phân biệt purusha khỏi prakriti.
 - **Mimamsa**: chú giải nghi lễ Vệ Đà — triết học về ngôn ngữ và hành động đúng đắn.
 - **Vedanta**: "kết thúc của Vệ Đà", bám vào Upanishad; nhánh **Advaita** (Shankara, khoảng thế kỷ 8) chủ trương bất nhị — Atman chính là Brahman, thế giới hiện tượng chỉ là ảo ảnh (*maya*).
@@ -111,7 +111,7 @@ kinh Vệ Đà) và không chính thống (Phật giáo, Kỳ Na giáo, phái du
 ## Đọc tiếp {#doc-tiep}
 
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — [Epicurus](../triet-gia/epicurus.md) và Nagel về cái chết; thử đối chiếu với quan niệm luân hồi
-- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — khổ đau và ý nghĩa
+- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — Nagel, Wolf và cái phi lý: ý nghĩa do mình đặt ra hay phải tìm
 - [Vì sao có đau khổ?](../cau-hoi/van-de-su-du.md) — vấn đề sự dữ trong triết học phương Tây
 
 ## Nguồn {#nguon}

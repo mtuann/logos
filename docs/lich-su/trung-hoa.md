@@ -52,8 +52,8 @@ mọi cuộc cãi nhau về giáo dục. Cuộc tranh luận ấy, cùng [Hobbes
 
 ## Lão Tử và Trang Tử: Đạo không nói được {#lao-tu-va-trang-tu-dao-khong-noi-duoc}
 
-Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của Lão
-Tử (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
+Đối lập với Nho gia coi trọng lễ nghĩa là **Đạo gia**. *Đạo đức kinh* — truyền thống ghi là của
+[Lão Tử](../triet-gia/lao-tu.md) (nhân vật có tính huyền thoại, sách có lẽ được biên soạn khoảng thế kỷ 4–3 TCN) — mở đầu bằng câu
 nổi tiếng: "Đạo khả đạo, phi thường đạo" — Đạo mà nói được thì không phải Đạo thường hằng. Tư tưởng
 cốt lõi: vũ trụ vận hành theo **Đạo**, một nguyên lý không thể gọi tên; cách sống khôn ngoan nhất là
 **vô vi** — không cưỡng ép, thuận theo tự nhiên như nước chảy chỗ trũng.
@@ -116,8 +116,8 @@ Lâm](../cau-hoi/truc-lam.md).
 Một câu hỏi hay để khép lại: vì sao thời Bách gia chư tử rực rỡ như vậy mà sau đó Trung Hoa không
 lặp lại? Câu trả lời thông thường: năm 221 TCN, Tần Thủy Hoàng thống nhất Trung Hoa; năm 213 TCN nhà Tần
 ra lệnh **đốt sách**, và theo *Sử ký* của Tư Mã Thiên, năm sau còn chôn sống hơn 460 nho sinh
-(**chôn Nho** — chi tiết này bị nhiều sử gia hiện đại nghi ngờ) — nhằm trấn áp tư tưởng ngoài Pháp
-gia. Nhà Hán sau đó, dưới thời Hán Vũ Đế, "bãi truất bách gia, biểu chương Lục kinh" (gạt bỏ trăm
+(**chôn Nho** — chi tiết này bị nhiều sử gia hiện đại nghi ngờ) — nhằm đặt mọi việc học dưới sự kiểm soát của triều đình (sử gia hiện đại lưu ý: mục tiêu không
+phải là để Pháp gia thắng Nho gia). Nhà Hán sau đó, dưới thời Hán Vũ Đế, "bãi truất bách gia, biểu chương Lục kinh" (gạt bỏ trăm
 nhà, tôn vinh sáu kinh Nho gia — lời *Hán thư*; đời sau tóm lại thành "độc tôn Nho thuật"), theo đề
 xuất của Đổng Trọng Thư (khoảng 134 TCN): Nho học thành học thuyết chính thống của triều đình, các
 nhà khác hoặc bị thu nạp hoặc tàn lụi.

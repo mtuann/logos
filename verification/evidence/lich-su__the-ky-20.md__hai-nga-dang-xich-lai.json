@@ -1,0 +1,54 @@
+{
+  "unit": "lich-su/the-ky-20.md#hai-nga-dang-xich-lai",
+  "hash": "sha256:baa159a966e75c591e7b2f83bc261613875dda07772fee1186de63448bc2ad88",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p05 + agent-kiem-5.6-k02",
+  "claims": [
+    {
+      "text": "Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/analytic-philosophy/",
+          "quote": "Metaphysics has undergone a certain sort of renaissance in post-linguistic analytic philosophy."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/phenomenology/",
+          "quote": "Since the 1960s, philosophers trained in the methods of analytic philosophy have also dug into the foundations of phenomenology"
+        }
+      ]
+    },
+    {
+      "text": "lục địa đọc Quine và Wittgenstein. Nhiều người cho rằng sự chia rẽ này phần lớn là tai nạn lịch sử và địa lý hơn là khác biệt thực chất",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "In Davos in 1929, Heidegger offered a series of lectures on Kant. The lectures were followed by a disputation with Ernst Cassirer."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "Friedman (2000) argues that this disputation was the hypocenter of the subsequent analytical/continental divide in twentieth century philosophy."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/phenomenology/",
+          "quote": "Yet the fundamental character of our mental activity is pursued in overlapping ways within these two traditions."
+        }
+      ],
+      "severity": "vua",
+      "fix": "Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học, và từ thập niên 1960 một số triết gia được đào tạo theo lối phân tích bắt đầu nghiên cứu hiện tượng luận. Có người truy nguồn sự chia rẽ về những biến cố lịch sử cụ thể — Michael Friedman chẳng hạn chỉ vào cuộc tranh luận giữa Heidegger và Cassirer ở Davos năm 1929 — nên sự chia rẽ ấy thực chất đến đâu vẫn còn đang tranh luận, chưa ngã ngũ.",
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hai khái quát 'lục địa đọc Quine và Wittgenstein' và 'nhiều người cho rằng ... tai nạn lịch sử và địa lý' không có nguồn trong bài, và không tìm được trong IEP analytic-philosophy (nguồn số 10 của bài), SEP phenomenology, SEP heidegger; tìm SEP 'analytic-continental divide' chỉ ra Rorty, Weyl. Theo hướng dẫn, khái quát lịch sử không nguồn = sai mức vừa. Câu sửa dùng dữ kiện có nguồn (IEP: phục hưng siêu hình học; SEP phenomenology: từ thập niên 1960; SEP heidegger: Friedman 2000, Davos 1929). Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c1 sửa đúng ý fix; câu cuối trên trang tách thành câu riêng (\"Sự chia rẽ ấy thực chất đến đâu vẫn đang tranh luận, chưa ngã ngũ.\") thay vì nối bằng \"nên\" — tốt hơn, không thêm quan hệ nhân quả. Khẳng định mới (từ thập niên 1960 triết gia phân tích nghiên cứu hiện tượng luận; Friedman chỉ vào tranh luận Heidegger–Cassirer ở Davos 1929) có nguồn ở c0/c1 (SEP Phenomenology, SEP Heidegger) — đã đối chiếu quote."
+}

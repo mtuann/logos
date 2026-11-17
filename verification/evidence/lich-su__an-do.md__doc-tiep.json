@@ -1,0 +1,56 @@
+{
+  "unit": "lich-su/an-do.md#doc-tiep",
+  "hash": "sha256:1e9ce81c00cd2a54b7f8a52cbc5810a776dec4553421b8ffba5ec91d23a83d42",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p06 + agent-kiem-5.6-k02",
+  "claims": [
+    {
+      "text": "[Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus và Nagel về cái chết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cai-chet/",
+          "quote": "Nagel (1970): lập luận tước đoạt",
+          "where": "trang đích (bản đang chạy; cùng nội dung docs/cau-hoi/cai-chet.md)"
+        }
+      ]
+    },
+    {
+      "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — khổ đau và ý nghĩa",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — Nagel, Wolf và cái phi lý: ý nghĩa do mình đặt ra hay phải tìm",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Cuộc sống có ý nghĩa không?",
+          "where": "trang đích; nội dung là Nagel, Wolf, cái phi lý — không bàn khổ đau"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "[Vì sao có đau khổ?](../cau-hoi/van-de-su-du.md) — vấn đề sự dữ trong triết học phương Tây",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/van-de-su-du/",
+          "quote": "vấn đề sự dữ — bộ ba dường như không thể cùng đúng",
+          "where": "trang đích"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ba link nội bộ trỏ tới trang có thật. Trang y-nghia-song.md không bàn về khổ đau (chữ \"khổ\" chỉ xuất hiện trong \"nghèo khổ\"); mô tả \"khổ đau và ý nghĩa\" hứa nội dung trang không có — lỗi nhẹ. Link Epicurus (../triet-gia/epicurus.md) có thật. Tên link \"Vì sao có đau khổ?\" là dạng rút gọn của title trang đích, chấp nhận. Đã đọc cả file docs/ và trang đang chạy trên mtuann.github.io/logos. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c1: mô tả link y-nghia-song đã đổi đúng fix."
+}

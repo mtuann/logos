@@ -1,0 +1,40 @@
+{
+  "unit": "events/lich-su.can-dai.1689-2",
+  "hash": "sha256:f3567912f261ee40e8863da9c35df417605cf8970a3f8c7a6ae4938aef33671c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-e01",
+  "claims": [
+    {
+      "text": "*Hai khảo luận về chính quyền* (*Two Treatises of Government*, 1689)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/locke.two-treatises-of-government"
+    },
+    {
+      "text": "Locke bác quan niệm rằng Chúa đã định cho mọi người tự nhiên phải phục tùng một quân vương: con người sinh ra tự do và bình đẳng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "In the Two Treatises of Government , he defended the claim that men are by nature free and equal against claims that God had made all people naturally subject to a monarch",
+          "where": "mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "nên chính quyền… (chính đáng phải dựa trên sự đồng thuận của người bị trị)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "Since governments exist by the consent of the people in order to protect the rights of the people",
+          "where": "mở đầu"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản ghi mới 5.6. Năm 1689 khớp bản ghi kho đã đóng băng works/locke.two-treatises-of-government (year 1689). Câu bị cắt sau 'nên chính quyền…'; vế tiếp theo trong bài (đồng thuận của người bị trị) cũng khớp SEP Locke's Political Philosophy."
+}

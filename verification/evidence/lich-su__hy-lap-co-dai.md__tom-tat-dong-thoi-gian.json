@@ -1,0 +1,90 @@
+{
+  "unit": "lich-su/hy-lap-co-dai.md#tom-tat-dong-thoi-gian",
+  "hash": "sha256:7abf7e79f16fd64ad4fae49ad5469d073d8b71ab4854b74fdde4cfb6ccfdae27",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p01 + agent-kiem-5.6-k01",
+  "claims": [
+    {
+      "text": "| k. 620–546 TCN | Thales |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/thales"
+    },
+    {
+      "text": "| hoạt động k. 500 TCN | Heraclitus |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/lich-su.hy-lap-co-dai.tcn500-2"
+    },
+    {
+      "text": "| k. 515–450 TCN | Parmenides | Hữu là một, bất biến; giác quan lừa dối |",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "| sinh k. 515 TCN | Parmenides | Hữu là một, bất biến; giác quan lừa dối |",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/parmenides/",
+          "quote": "one can infer from this description that Parmenides was born about 515 BCE. He would thus appear to have been active during the early to mid-fifth century BCE.",
+          "where": "1. Life"
+        },
+        {
+          "url": "https://iep.utm.edu/parmenid/",
+          "quote": "Ultimately, however, when and where Parmenides died is entirely unattested.",
+          "where": "1. Life"
+        },
+        {
+          "url": "https://iep.utm.edu/parmenid/",
+          "quote": "Parmenides of Elea (Late 6th cn.–Mid 5th cn. B.C.E.)",
+          "where": "đầu mục"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "| sinh k. 460 TCN | Democritus |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/lich-su.hy-lap-co-dai.tcn460-2"
+    },
+    {
+      "text": "| k. 469–399 TCN | Socrates | Vấn đáp; biết rằng mình không biết |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/socrates"
+    },
+    {
+      "text": "| k. 428–347 TCN | Platon | Thuyết ý niệm; Cộng hòa |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/platon"
+    },
+    {
+      "text": "| 384–322 TCN | Aristotle | Logic, bốn nguyên nhân, trung dung |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/aristotle"
+    },
+    {
+      "text": "| 300 TCN → | Khắc kỷ (Zeno) | Sống thuận tự nhiên và lý trí; chỉ đức hạnh là thiện |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/lich-su.hy-lap-co-dai.tcn300-2"
+    },
+    {
+      "text": "| 341–270 TCN | Epicurus | Khoái lạc = không đau đớn, không xao động |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/epicurus"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ý chính trong bảng khớp với các mục đã kiểm ở trên. Lỗi vừa: năm mất 450 TCN của Parmenides không có nguồn (trùng lỗi ở mục Các nhà tiền Socrates). Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 2: bảng ghi \"sinh k. 515 TCN\" đúng fix, khớp SEP parmenides → fixed."
+}

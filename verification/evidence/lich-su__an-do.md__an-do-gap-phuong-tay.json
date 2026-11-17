@@ -1,0 +1,133 @@
+{
+  "unit": "lich-su/an-do.md#an-do-gap-phuong-tay",
+  "hash": "sha256:f36c41951d188a6d95f11c655724faccc8b817bc0ae44dc02db38e45a1c1bd66",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p06 + agent-kiem-5.6-k02",
+  "claims": [
+    {
+      "text": "Triết học Ấn Độ đến châu Âu khá muộn — phần lớn qua bản dịch tiếng Anh, Đức trong thế kỷ 19.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/upanisad/",
+          "quote": "which was read by the German philosopher Arthur Schopenhauer, the first major European thinker to engage explicitly with Indian sources"
+        }
+      ]
+    },
+    {
+      "text": "Arthur Schopenhauer (1788–1860)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/schopenhauer/",
+          "quote": "1. Life: 1788–1860"
+        }
+      ]
+    },
+    {
+      "text": "đọc Upanishad trong bản dịch Latinh (dịch lại từ bản tiếng Ba Tư) và coi đó là niềm an ủi của đời mình",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/schopenhauer/",
+          "quote": "a Persian version of the Upanishads (the Oupnekhat) was rendered into Latin by the French Orientalist, Abraham Hyacinthe Anquetil-Duperron"
+        },
+        {
+          "url": "https://iep.utm.edu/upanisad/",
+          "quote": "reflecting that the Upaniṣads were his consolation in life and would equally be his consolation in death"
+        }
+      ]
+    },
+    {
+      "text": "thuyết \"thế giới như là ý chí và biểu tượng\" của ông mang dấu ấn rõ của maya và khổ đế",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/schopenhauer/",
+          "quote": "A subsequent, but often highlighted inspiration is from the Upanishads"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/schopenhauer/",
+          "quote": "In a manner reminiscent of traditional Buddhism, he recognizes that life is filled with unavoidable frustration"
+        }
+      ]
+    },
+    {
+      "text": "Ở Mỹ, Henry David Thoreau rút về rừng Walden với bản dịch Bhagavad Gita trên tay.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thoreau/",
+          "quote": "when he went to live in the woods by Walden Pond for two years and two months"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Walden_(1854)_Thoreau/The_Pond_in_Winter",
+          "quote": "In the morning I bathe my intellect in the stupendous and cosmogonal philosophy of the Bhagvat Geeta",
+          "where": "The Pond in Winter"
+        }
+      ]
+    },
+    {
+      "text": "Sarvepalli Radhakrishnan (1888–1975) — vừa là triết gia Vedanta vừa là Tổng thống thứ hai của Ấn Độ — viết bằng tiếng Anh để giới thiệu triết học Ấn Độ với thế giới",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/radhakri/",
+          "quote": "Sarvepalli Radhakrishnan (1888-1975) was one of the most recognized and influential Indian thinkers"
+        },
+        {
+          "url": "https://iep.utm.edu/radhakri/",
+          "quote": "a religion he variously identified as Hinduism , Vedanta, and the religion of the Spirit"
+        },
+        {
+          "url": "https://presidentofindia.gov.in/former-presidents",
+          "quote": "Dr. Sarvepalli Radhakrishnan 2nd President of India"
+        }
+      ]
+    },
+    {
+      "text": "B. R. Ambedkar dùng Phật giáo như nền tảng cho phong trào giải phóng người Dalit",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/radhakri/",
+          "quote": "Because of this, Radhakrishnan has been held up in academic circles as a representative of Hinduism to the West.",
+          "where": "phần mở đầu"
+        }
+      ],
+      "severity": "vua",
+      "fixed": true,
+      "fix": "Sarvepalli Radhakrishnan (1888–1975) — vừa là triết gia Vedanta vừa là Tổng thống thứ hai của Ấn Độ — viết bằng tiếng Anh để giới thiệu triết học Ấn Độ với thế giới."
+    },
+    {
+      "text": "nhiều người phương Tây hiện đại tìm đến chúng chính vì triết học quê nhà không trả lời thỏa đáng",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Những câu hỏi về khổ, vô ngã và giải thoát mà Ấn Độ đặt ra từ 2.500 năm trước vẫn là những câu hỏi sống động — và ngày nay vẫn được nhiều người, ở cả phương Đông lẫn phương Tây, tìm đọc.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thoreau/",
+          "quote": "he also has the distinction of being among the first Western philosophers to be significantly influenced by ancient Chinese and Indian thought"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ambedkar: không mở được nguồn. Đã thử: https://plato.stanford.edu/archives/fall2026/entries/ambedkar/ (Document Not Found), https://iep.utm.edu/ambedkar/ (404), http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/timeline/1950s.html (Cloudflare chặn), https://ambedkarfoundation.nic.in/ (không phản hồi); Gutenberg đang bảo trì. Claim động cơ của \"người phương Tây hiện đại\" là khái quát không nguồn (nguồn trích chỉ cho thấy có ảnh hưởng, không cho thấy động cơ) và kết luận thay người đọc rằng triết học phương Tây \"không trả lời thỏa đáng\" nên trung-lap = false. SEP Schopenhauer coi Upanishad là nguồn cảm hứng \"đến sau\" (sau luận án 1813), nên \"dấu ấn rõ\" chấp nhận ở mức diễn giải. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c7 sửa đúng: câu động cơ người phương Tây đã bỏ, thay bằng \"và ngày nay vẫn được nhiều người, ở cả phương Đông lẫn phương Tây, tìm đọc\" (không gán động cơ, không kết luận thay người đọc). c6 Ambedkar: người làm đã bỏ chi tiết khỏi bài; câu còn lại kết thúc ở Radhakrishnan \"viết bằng tiếng Anh để giới thiệu triết học Ấn Độ với thế giới\" — đã có ở c5, mở lại IEP Radhakrishnan trong phiên này để lấy quote. Đặt c6 thành sai/vua, fixed (chi tiết không nguồn đã bỏ)."
+}

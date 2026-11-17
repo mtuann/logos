@@ -14,7 +14,7 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 
 | Mảng | Số mục | Đã kiểm | Đã đóng băng | Tỉ lệ đóng băng |
 |---|---:|---:|---:|---:|
-| Bắt đầu | 6 | 0 | 0 | 0% |
+| Bắt đầu | 6 | 0 | 6 | 100% |
 | Công cụ tư duy | 173 | 0 | 173 | 100% |
 | Tri thức và chân lý | 60 | 0 | 0 | 0% |
 | Tâm trí, AI và cái tôi | 40 | 0 | 0 | 0% |
@@ -27,9 +27,9 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Siêu hình học | 74 | 0 | 0 | 0% |
 | Ý nghĩa cuộc sống | 38 | 0 | 0 | 0% |
 | Tư tưởng Việt Nam | 30 | 0 | 0 | 0% |
-| Lịch sử | 68 | 0 | 0 | 0% |
+| Lịch sử | 68 | 0 | 68 | 100% |
 | Đọc văn bản | 190 | 0 | 190 | 100% |
-| **Tổng** | **989** | **0** | **363** | **37%** |
+| **Tổng** | **989** | **0** | **437** | **44%** |
 
 ## Dữ kiện {#du-kien}
 
@@ -40,7 +40,7 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Người (năm sinh mất, trường phái) | 59 | 59 |
 | Tác phẩm | 335 | 335 |
 | Trích dẫn | 155 | 155 |
-| Sự kiện (ứng viên) | 129 | 129 |
+| Sự kiện (ứng viên) | 137 | 137 |
 | Nguồn | 695 | 695 |
 | Hồ sơ triết gia | 59 | 59 |
 | Câu hỏi khảo sát PhilPapers 2020 | 100 | 100 |
