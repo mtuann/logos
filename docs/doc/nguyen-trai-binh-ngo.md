@@ -79,7 +79,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ## Tái dựng lập luận {#tai-dung-lap-luan}
 
-- **P1.** Dùng binh chỉ chính đáng khi nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
+- **P1.** Dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
 - **P2.** Quân Minh bóc lột, tàn hại dân lành: chính là "kẻ bạo".
 - **P3.** Đại Việt là một nước có cõi bờ, phong tục, văn hiến riêng, ngang hàng phương Bắc.
 - **P4.** Cuộc kháng chiến nhằm trừ bạo và kết thúc bằng tha hàng binh, đem thái bình cho dân.

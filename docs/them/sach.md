@@ -16673,7 +16673,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 ## Đọc tiếp
 
-- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.
+- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md) — chữ tín (2.22), "cha giấu cho con" (13.18) và tranh luận Đông–Tây về nói dối.
 - [Mặc Tử: kiêm ái](../doc/mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.
@@ -16824,9 +16824,9 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đọc tiếp
 
-- [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang đối đầu Nho–Pháp
+- [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang giữa Nho, Mặc và Pháp
 - [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 và giới hạn của ngôn ngữ
-- [Trang Tử: Mộng hồ điệp](../doc/trang-tu-mong-ho-diep.md) — người kế thừa nổi tiếng nhất của Lão Tử
+- [Trang Tử: Mộng hồ điệp](../doc/trang-tu-mong-ho-diep.md) — người mà truyền thống xếp cùng Lão Tử thành Đạo gia (Lão–Trang)
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md) — cái "không" của chương 11 đặt cạnh cái "không" của Phật giáo
 
@@ -17759,7 +17759,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ## Tái dựng lập luận
 
-- **P1.** Dùng binh chỉ chính đáng khi nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
+- **P1.** Dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
 - **P2.** Quân Minh bóc lột, tàn hại dân lành: chính là "kẻ bạo".
 - **P3.** Đại Việt là một nước có cõi bờ, phong tục, văn hiến riêng, ngang hàng phương Bắc.
 - **P4.** Cuộc kháng chiến nhằm trừ bạo và kết thúc bằng tha hàng binh, đem thái bình cho dân.
