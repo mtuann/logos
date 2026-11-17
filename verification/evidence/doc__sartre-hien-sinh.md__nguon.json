@@ -2,7 +2,7 @@
   "unit": "doc/sartre-hien-sinh.md#nguon",
   "hash": "sha256:de003dee5ec95b15e083c2eede82db8e3a48d9ade2261037e5dd0528adcda15b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r08",
   "claims": [
     {
       "text": "Sartre (1946), L'existentialisme est un humanisme, Paris: Nagel; bản dịch Anh Existentialism Is a Humanism, John Kulka biên tập, Carol Macomber dịch, Yale 2007",
@@ -13,7 +13,8 @@
           "url": "https://yalebooks.yale.edu/book/9780300115468/existentialism-is-a-humanism/",
           "quote": "Translator: Carol Macomber; Yale University Press; 24 July 2007"
         }
-      ]
+      ],
+      "kb": "sources/sach.sartre-jean-paul-1946-l-existentialisme-est-un-humanisme-par"
     },
     {
       "text": "John Kulka biên tập",
@@ -21,10 +22,12 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism",
-          "quote": "John Kulka is credited as editor of the Yale volume"
+          "url": "https://archive.org/download/marc_loc_2016/BooksAll.2016.part34.utf8",
+          "quote": "Jean-Paul Sartre ; translated by Carol Macomber ; introduction by Annie Cohen-Solal ; notes and preface by Arlette Elkaïm-Sartre ; edited by John Kulka.",
+          "where": "Bản ghi MARC của Library of Congress, LCCN 2007002684 (ISBN 9780300115468; New Haven: Yale University Press, c2007), trường 245$c và 700 \"Kulka, John.\"; tập dữ liệu MARC LoC 2016, byte 103341490–103343085 (theo Open Library source_records)"
         }
-      ]
+      ],
+      "kb": "sources/sach.sartre-jean-paul-1946-l-existentialisme-est-un-humanisme-par"
     },
     {
       "text": "Reynolds, Jack & Pierre-Jean Renaudie, 'Jean-Paul Sartre', SEP, bản lưu fall2026",
@@ -57,5 +60,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "URL SEP và IEP mở được. Lưu ý nhẹ (không phải lỗi): bài IEP chỉ nhắc Existentialism and Humanism thoáng qua; nó hợp làm nguồn bối cảnh về hiện hữu có trước bản chất và đức tin xấu, không phải nguồn riêng của bài nói. Năm 1946 Nagel: Nagel chưa xác nhận bằng nguồn học thuật trong phiên này (Wikipedia chỉ là chỉ dẫn)."
+  "notes": "URL SEP và IEP mở được. Lưu ý nhẹ (không phải lỗi): bài IEP chỉ nhắc Existentialism and Humanism thoáng qua; nó hợp làm nguồn bối cảnh về hiện hữu có trước bản chất và đức tin xấu, không phải nguồn riêng của bài nói. Năm 1946 Nagel: Nagel chưa xác nhận bằng nguồn học thuật trong phiên này (Wikipedia chỉ là chỉ dẫn).\nKiểm lại (agent-kiem-5.4-r08): thay nguồn Wikipedia của claim \"John Kulka biên tập\" bằng bản ghi MARC của Library of Congress (LCCN 2007002684, 245$c \"edited by John Kulka\"). Trang Yale UP không ghi biên tập viên (chỉ dịch giả Macomber, lời giới thiệu Cohen-Solal, lời tựa Elkaïm-Sartre), nên không dùng làm nguồn cho claim này. Mục Nguồn 1 khớp nguyên văn bản ghi kho đã đóng băng sources/sach.sartre-jean-paul-1946-l-existentialisme-est-un-humanisme-par (data/kb/sources.yml) → thêm kb."
 }
