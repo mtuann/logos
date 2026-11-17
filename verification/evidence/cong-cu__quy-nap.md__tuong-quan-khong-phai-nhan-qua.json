@@ -1,8 +1,8 @@
 {
  "unit": "cong-cu/quy-nap.md#tuong-quan-khong-phai-nhan-qua",
- "hash": "sha256:8ca98129aa740ece9c9ceace43143b9b7b2fe62875633070ed0b56e17af5c77c",
+ "hash": "sha256:5eeffb36e0a585bbb2c3dc81cd14c7b3765721522703102e8369ab50181d766d",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p06",
+ "checker": "agent-kiem-5.5-p06 + agent-kiem-5.5-k04",
  "claims": [
   {
    "text": "Khả năng 3: yếu tố gây nhiễu chung (trời nóng → kem và đuối nước).",
@@ -61,6 +61,26 @@
      "where": "Post Hoc, Ergo Propter Hoc: After this, therefore because of this"
     }
    ]
+  },
+  {
+   "text": "Khả năng 3 (một yếu tố gây nhiễu chung) là thủ phạm phổ biến nhất.",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”",
+     "where": "Post Hoc"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Its four principal kinds are the Post Hoc Fallacy , the Fallacy of Cum Hoc, Ergo Propter Hoc, the Regression Fallacy, and the Fallacy of Reversing Causation .",
+     "where": "False Cause"
+    }
+   ],
+   "severity": "vua",
+   "fix": "Khả năng 3 (một **yếu tố gây nhiễu** chung) là thủ phạm rất hay bị bỏ qua.",
+   "fixed": true
   }
  ],
  "checklist": {
@@ -71,5 +91,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Ví dụ kem/đuối nước do site soạn, là ví dụ kinh điển; chỉ kiểm phân tích. Nhấn mạnh 'phổ biến nhất' (khả năng 3 là thủ phạm phổ biến nhất) là khẳng định cường độ không có nguồn, giọng thông thường, nhe, không đánh sai."
+ "notes": "Ví dụ kem/đuối nước do site soạn, là ví dụ kinh điển; chỉ kiểm phân tích. Nhấn mạnh 'phổ biến nhất' (khả năng 3 là thủ phạm phổ biến nhất) là khẳng định cường độ không có nguồn, giọng thông thường, nhe, không đánh sai. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. câu nay đúng nguyên văn fix ('thủ phạm rất hay bị bỏ qua'); bỏ xếp hạng không nguồn."
 }

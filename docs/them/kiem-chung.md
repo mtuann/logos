@@ -15,7 +15,7 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Mảng | Số mục | Đã kiểm | Đã đóng băng | Tỉ lệ đóng băng |
 |---|---:|---:|---:|---:|
 | Bắt đầu | 6 | 0 | 0 | 0% |
-| Công cụ tư duy | 173 | 173 | 0 | 0% |
+| Công cụ tư duy | 173 | 0 | 173 | 100% |
 | Tri thức và chân lý | 60 | 0 | 0 | 0% |
 | Tâm trí, AI và cái tôi | 40 | 0 | 0 | 0% |
 | Tự do và trách nhiệm | 30 | 0 | 0 | 0% |
@@ -29,7 +29,7 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Tư tưởng Việt Nam | 30 | 0 | 0 | 0% |
 | Lịch sử | 68 | 0 | 0 | 0% |
 | Đọc văn bản | 190 | 0 | 0 | 0% |
-| **Tổng** | **989** | **173** | **0** | **0%** |
+| **Tổng** | **989** | **0** | **173** | **17%** |
 
 ## Dữ kiện {#du-kien}
 
@@ -45,10 +45,10 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Hồ sơ triết gia | 59 | 59 |
 | Câu hỏi khảo sát PhilPapers 2020 | 100 | 100 |
 | Thuật ngữ (Từ điển) | 249 | 249 |
-| Loại ngụy biện | 20 | 0 |
-| Đoạn luyện nhận diện ngụy biện | 100 | 0 |
-| Đoạn luyện sơ đồ lập luận | 30 | 0 |
-| Bài tập logic | 20 | 0 |
-| Thí nghiệm tư duy | 8 | 0 |
+| Loại ngụy biện | 20 | 20 |
+| Đoạn luyện nhận diện ngụy biện | 100 | 100 |
+| Đoạn luyện sơ đồ lập luận | 30 | 30 |
+| Bài tập logic | 20 | 20 |
+| Thí nghiệm tư duy | 8 | 8 |
 
 <!-- /gen:kiem-chung -->

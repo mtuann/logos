@@ -1,8 +1,8 @@
 {
   "unit": "lap-luan/sodo-20",
-  "hash": "sha256:fc3813cd2fde669f65f2c2cbe8cc9ff05b4500338ce2b0e1ab474a9817b605d7",
+  "hash": "sha256:001560c09b5fa7df9e059676e3fd31a7fa423f809291569879cc1a7e1fd10da8",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-l02",
+  "checker": "agent-kiem-5.5-l02 + agent-kiem-5.5-k04",
   "claims": [
     {
       "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
@@ -37,8 +37,28 @@
           "where": "IEP Argument, linked vs convergent"
         }
       ]
+    },
+    {
+      "text": "dap_an: c4 'Nhà hàng chay gần công ty tôi lúc nào cũng đông khách.' = khong-lien-quan (không có ghi_chu_tranh_cai)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Thêm trường ghi_chu_tranh_cai: \"c4 có thể đọc như một lý do yếu: quán chay gần công ty đông khách cho thấy món chay dễ ăn và tiện mua, nên đỡ cho c3 và c5. Đáp án xếp c4 là không liên quan vì nó chỉ kể chuyện quán đông, không trực tiếp nói gì về việc ăn chay của người viết; gán c4 là tiền đề cũng được chấp nhận.\"",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the premises of an argument are reasons offered in support of its conclusion",
+          "where": "1. The Structural Approach to Characterizing Arguments"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "mục Argument Identification / standardizing"
+        }
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. "
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. c4 được thay bằng 'Công ty tôi vừa chuyển văn phòng lên tầng mới.' thay vì thêm ghi_chu_tranh_cai như fix đề xuất; câu mới không cùng chủ đề ăn chay nên không còn cách đọc thành lý do cho c3/c5, đáp án khong-lien-quan duy nhất. Khắc phục đúng gốc lỗi (cách chấm quá cứng do c4 mơ hồ), nên fixed."
 }

@@ -1,0 +1,99 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#dinh-nghia",
+  "hash": "sha256:ce69021729f59be92adbcd2204b1e540281fce62660faf59d16e488142374454",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "**P là điều kiện đủ** (*sufficient condition*) **cho Q** khi: có P thì chắc chắn có Q. Ký hiệu logic: P → Q. … **P là điều kiện cần** (*necessary condition*) **cho Q** khi: không có P thì chắc chắn không có Q. Ký hiệu logic: Q → P.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "The standard theory claims that when the conditional “p ⊃ q” is true the truth of the consequent, “q”, is necessary for the truth of the antecedent, “p”, and the truth of the antecedent is in turn sufficient for the truth of the consequent.",
+          "where": "mục 2 The Standard Theory"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "likewise if q is false, then p must also be false (if the conditional is true)",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "\"P đủ cho Q\" sai trong đúng một trường hợp — P đúng mà Q sai. Còn \"P cần cho Q\" (tức Q → P) sai khi Q đúng mà P sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "The standard theory makes use of the fact that in classical logic, the truth-function “p ⊃ q” (“If p, q”) is false only when p is true and q is false.",
+          "where": "mục 2 The Standard Theory"
+        }
+      ]
+    },
+    {
+      "text": "**Vé xem phim** là điều kiện *cần* (chưa đủ) để xem phim: không vé → không xem. Nhưng có vé chưa chắc được xem.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "A necessary condition of opening the door, without violence, then, is to use the key.",
+          "where": "mục 2 (ví dụ cùng kiểu: chìa khóa cần để mở cửa)"
+        }
+      ]
+    },
+    {
+      "text": "**Oxy** là điều kiện *cần* (chưa đủ) cho sự cháy: không oxy → không cháy. Nhưng có oxy chưa đủ để có lửa — còn cần chất cháy và nhiệt độ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-regularity/",
+          "quote": "One cluster includes a short-circuit, the presence of oxygen, the absence of a sprinkler system, and so on. Another cluster includes an arsonist, the use of petrol, again the presence of oxygen, and so on.",
+          "where": "mục về INUS (Mackie), ví dụ nhà cháy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "without water and oxygen, there would be no human life; hence these things are necessary conditions for the existence of human beings",
+          "where": "mục 1 Philosophy and Conditions"
+        }
+      ]
+    },
+    {
+      "text": "**n là bội của 4** là điều kiện *đủ* (chưa cần) để n là số chẵn … số 6 chẵn mà không phải bội của 4.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "This is a sufficient condition for “it is raining” to be true.",
+          "where": "mục 2 (ví dụ điều kiện đủ mà không cần); phần toán học tự kiểm: 4k = 2·2k chẵn; 6 = 2·3 chẵn, 6/4 không nguyên"
+        }
+      ]
+    },
+    {
+      "text": "Hình: vòng P nằm trong vòng Q khi P đủ cho Q; vòng Q nằm trong vòng P khi P cần cho Q.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "The standard theory makes use of the fact that in classical logic, the truth-function “p ⊃ q” (“If p, q”) is false only when p is true and q is false.",
+          "where": "mục 2 The Standard Theory"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm bằng bảng chân trị: P→Q chỉ sai ở (P=1,Q=0); Q→P chỉ sai ở (Q=1,P=0). Quan hệ tập hợp trong hình khớp (trường hợp có P ⊆ trường hợp có Q khi P→Q)."
+}

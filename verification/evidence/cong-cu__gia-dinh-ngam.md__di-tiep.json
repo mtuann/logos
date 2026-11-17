@@ -1,8 +1,8 @@
 {
  "unit": "cong-cu/gia-dinh-ngam.md#di-tiep",
- "hash": "sha256:599014359c6df1009909f92ed764a1791ee6e8427d5c38e2572c89c39221900c",
+ "hash": "sha256:c3d8af5e6bdc119be6e3764e70fc411cfb00bc5a979693daf164c36ddfd8a051",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p07",
+ "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-k04",
  "claims": [
   {
    "text": "Liên kết sang bài Ngụy biện: 'Nhiều giả định ngầm sai lặp đi lặp lại đến mức người ta đặt tên cho chúng'",
@@ -15,6 +15,26 @@
      "where": "SEP Fallacies: các ngụy biện là mẫu lập luận sai có tên gọi"
     }
    ]
+  },
+  {
+   "text": "Những lối tắt quen thuộc ấy là chủ đề của bài cuối trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Những lối tắt quen thuộc ấy là chủ đề của bài tiếp theo trong trục này: [Ngụy biện: những lối tắt dẫn sai đường](nguy-bien.md).",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cong-cu/",
+     "quote": "19 lối tắt dẫn sai đường, và khi nào chúng",
+     "where": "mục lục Công cụ tư duy: Ngụy biện là bài 8/15"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cong-cu/",
+     "quote": "Dựng lại lập trường đối lập ở dạng mạnh nhất",
+     "where": "bài 15 Luận cứ thép là bài cuối của trục"
+    }
+   ],
+   "fixed": true
   }
  ],
  "checklist": {
@@ -25,5 +45,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Đơn vị chuyển hướng; không có dữ kiện. Liên kết tương đối nguy-bien.md: tồn tại (bài cùng thư mục, được trang khác dẫn)."
+ "notes": "Đơn vị chuyển hướng; không có dữ kiện. Liên kết tương đối nguy-bien.md: tồn tại (bài cùng thư mục, được trang khác dẫn). Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. câu nay đúng nguyên văn fix ('bài tiếp theo'); content.yml và mkdocs.yml nav xếp nguy-bien.md ngay sau gia-dinh-ngam.md."
 }

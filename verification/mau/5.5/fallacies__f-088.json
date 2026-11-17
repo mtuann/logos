@@ -1,0 +1,80 @@
+{
+  "unit": "fallacies/f-088",
+  "hash": "sha256:220db7e24d3b1eb7146bf7f95f6066c66696c0b8f40315eb47cbc3cdc9c58589",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "answer: tu-quoque (“Tháng trước sếp cũng duyệt kế hoạch trễ ba ngày, sao giờ lại bắt em?”)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "It involves not accepting a view or a recommendation because the espouser him- or herself does not follow it.",
+          "where": "1. (mục 13, ad hominem)"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when we point out that the arguer doesn’t practice what he or she preaches, and then suppose that there must be an error in the preaching for only this reason, then we are reasoning fallaciously",
+          "where": "Tu Quoque"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Sếp trễ hạn không làm cho yêu cầu nộp đúng hạn trở thành sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "It involves not accepting a view or a recommendation because the espouser him- or herself does not follow it.",
+          "where": "1. (mục 13, ad hominem)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: … chuyện đó là “anh cũng vậy”: chỉ ra người phê bình mắc đúng lỗi đang bị phê bình.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when we point out that the arguer doesn’t practice what he or she preaches, and then suppose that there must be an error in the preaching for only this reason, then we are reasoning fallaciously",
+          "where": "Tu Quoque"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Anh Long không khơi lòng thương hay nỗi sợ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.equivocation: Không có từ nào bị dùng với hai nghĩa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning",
+          "where": "Equivocation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

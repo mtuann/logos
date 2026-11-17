@@ -1,0 +1,63 @@
+{
+  "unit": "fallacy-types/sunk-cost",
+  "hash": "sha256:38c1d284ac2f778d0e4479bdd759b385942b3a4ae218b86d2dc431ece0e22cf3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "vi/en: Chi phí chìm / Sunk cost fallacy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6324799/fullTextXML",
+          "quote": "Taking into account past losses or investments is a decision strategy that has been dubbed the 'Sunk-Cost fallacy' or 'Sunk-Cost effect'.",
+          "where": "Introduction"
+        }
+      ]
+    },
+    {
+      "text": "definition: Tiếp tục một việc chỉ vì đã bỏ nhiều tiền, thời gian, công sức vào đó, dù nhìn về phía trước thì dừng lại có lợi hơn. Khoản đã mất không lấy lại được dù ta chọn gì.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6324799/fullTextXML",
+          "quote": "the sunk-cost effect refers to the tendency “to continue an endeavor once an investment in money, effort, or time has been made”",
+          "where": "Introduction (dẫn Arkes và Blumer 1985, tr. 124)"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6324799/fullTextXML",
+          "quote": "Economic theory implies that decision makers’ decisions should only be guided by future gains and losses, as prior costs do not affect the objective outcomes of current decisions.",
+          "where": "Introduction"
+        }
+      ]
+    },
+    {
+      "text": "example: “Vé xem phim mua rồi, phim dở mấy cũng phải ngồi đến hết cho khỏi phí.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6324799/fullTextXML",
+          "quote": "Hence, the normative correct decision in sunk-cost situations is to ignore past investments.",
+          "where": "Introduction"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi quyết định dựa trên chi phí và lợi ích từ nay về sau…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6324799/fullTextXML",
+          "quote": "Economic theory implies that decision makers’ decisions should only be guided by future gains and losses",
+          "where": "Introduction"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "IEP/SEP \"Fallacies\" không có mục sunk cost. Nguồn: bài PLoS One 2018 \"The feeling of throwing good money after bad: The role of affective reaction in the sunk-cost fallacy\", DOI 10.1371/journal.pone.0209900 (PMC6324799), toàn văn qua Europe PMC. Đã thử không được: doi.org/10.1016/0749-5978(85)90049-4 (Arkes & Blumer 1985, không có tóm tắt), Ergo DOI 10.3998/ergo.12405314.0006.040 và philarchive.org (chặn 403/JS). Trường group \"presumption\" là phân loại của site, không coi là lỗi."
+}

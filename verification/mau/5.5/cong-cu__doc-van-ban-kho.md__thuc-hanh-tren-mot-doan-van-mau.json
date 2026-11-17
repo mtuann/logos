@@ -1,0 +1,100 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#thuc-hanh-tren-mot-doan-van-mau",
+  "hash": "sha256:84be1869777a1424069e12a8d1ea6f8ab222bbc2778331b69293d9001e2d30d3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "Lượt hai: Tiền đề 1: Biện pháp nào làm giảm tội phạm thì biện pháp đó đúng đắn. Tiền đề 2: Trừng phạt nghiêm khắc làm giảm tội phạm. Kết luận: Nên trừng phạt nghiêm khắc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "Socrates is a man. All men are mortal. Therefore, Socrates is mortal.",
+          "where": "mục 1 (khuôn cùng dạng)"
+        }
+      ]
+    },
+    {
+      "text": "*Hợp lệ?* Có, nếu hiểu \"đúng đắn\" là \"nên làm\" — khi đó khuôn này là một tam đoạn luận: tiền đề đúng thì kết luận đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A valid deductive argument is one whose logical structure or form is such that if the premises are true, the conclusion must be true.",
+          "where": "mục 1 Introduction"
+        }
+      ]
+    },
+    {
+      "text": "Tiền đề 1 đáng ngờ hơn: \"đúng đắn\" có thực sự đồng nghĩa với \"làm giảm tội phạm\"?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Tiền đề 1 đáng ngờ hơn: chỉ cần \"làm giảm tội phạm\" là đủ để một biện pháp \"đúng đắn\" sao?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is necessary for the truth of the antecedent",
+          "where": "mục 2: \"nếu… thì…\" chỉ nêu điều kiện đủ, không phải đồng nghĩa"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Người theo nghĩa vụ luận sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "consequentialists would be committed to regarding manifestly unjust punishments (the punishment of those known to be innocent, for instance, or excessively harsh punishment of the guilty) to be in principle justified if they would efficiently serve the aim of crime reduction",
+          "where": "mục về phản bác thuyết hệ quả về hình phạt"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "It seemingly demands (and thus, of course, permits) that in certain circumstances innocents be killed, beaten, lied to, or deprived of material goods to produce greater benefits for others.",
+          "where": "mục 1 (phê phán hệ quả luận từ phía nghĩa vụ luận)"
+        }
+      ]
+    },
+    {
+      "text": "*Giả định ngầm?* \"Đúng đắn\" = \"mang lại hậu quả tốt\" — chính là lập trường **hệ quả luận**, được lén đưa vào như điều hiển nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "Consequentialism, as its name suggests, is simply the view that normative properties depend only on consequences.",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Thuật ngữ lần đầu trong bài: \"tam đoạn luận\", \"nghĩa vụ luận\", \"hệ quả luận\" không kèm *English term*.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "… khi đó khuôn này là một tam đoạn luận (*syllogism*) …; Người theo nghĩa vụ luận (*deontology*) sẽ nói …; … chính là lập trường **hệ quả luận** (*consequentialism*) …",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "Consequentialism, as its name suggests",
+          "where": "tên thuật ngữ tiếng Anh; quy định HUONG-DAN-VIET.md mục 3: lần đầu xuất hiện trong bài kèm (*English term*)"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Đoạn văn mẫu do site tự viết; \"số liệu ở nhiều nước\" là lời của nhân vật trong đoạn mẫu, bài không khẳng định là thật (còn nhắc \"cần số liệu thật, không thể tin suông\"). Tự kiểm: Mọi biện pháp giảm tội phạm là đúng đắn; trừng phạt nghiêm khắc là biện pháp giảm tội phạm ⊢ trừng phạt nghiêm khắc là đúng đắn (Barbara) — hợp lệ; thêm \"đúng đắn = nên làm\" thì ra kết luận. Lỗi nhẹ: \"đồng nghĩa\" diễn đạt quá mạnh so với tiền đề 1 (chỉ là điều kiện đủ); cùng chữ ấy lặp ở mục Bài tập và quiz Tự kiểm tra (ngoài khóa này). Kiểm lại (k04): c2: câu nay đúng nguyên văn fix (điều kiện đủ); c5: tam đoạn luận (*syllogism*), nghĩa vụ luận (*deontology*), hệ quả luận (*consequentialism*) khớp bảng thuật ngữ HUONG-DAN-VIET.md mục 3. Ngoài khóa: mục Bài tập (dòng 131) và quiz Tự kiểm tra (dòng 153) vẫn viết 'đồng nghĩa'."
+}

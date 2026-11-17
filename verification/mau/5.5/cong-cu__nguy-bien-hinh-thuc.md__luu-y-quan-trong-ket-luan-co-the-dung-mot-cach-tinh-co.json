@@ -1,0 +1,37 @@
+{
+  "unit": "cong-cu/nguy-bien-hinh-thuc.md#luu-y-quan-trong-ket-luan-co-the-dung-mot-cach-tinh-co",
+  "hash": "sha256:a5c2166f82d18223557f7cc092e50ce4858b0891e73c9594c9f0c99b3026e22e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "\"Nếu trời mưa thì sân ướt. Sân ướt. Vậy trời mưa\" — … Ngụy biện hình thức không hứa rằng kết luận sai; nó chỉ nói rằng bước đi không bảo đảm kết luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Noticing that she speaks Portuguese suggests that she might be Brazilian, but it is weak evidence by itself, and if the argument is assessed by deductive standards, then it is deductively invalid.",
+          "where": "Affirming the Consequent"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Formal fallacies are all the cases or kinds of reasoning that fail to be deductively valid."
+        },
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A valid deductive argument is one whose logical structure or form is such that if the premises are true, the conclusion must be true."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm: P→Q, Q ⊭ P (P sai, Q đúng làm tiền đề đúng, kết luận sai); khi P tình cờ đúng thì kết luận đúng mà dạng vẫn không hợp lệ."
+}

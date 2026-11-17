@@ -1,0 +1,85 @@
+{
+  "unit": "cong-cu/gia-dinh-ngam.md#vi-du-2-mot-binh-luan-tren-mang-xa-hoi",
+  "hash": "sha256:9458589564cd0a17ee8e6f665e604d968f957ce15d61e2555671b29ad5c854d4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "Bước 1–3: kết luận hai tầng (AI sẽ không thay lập trình viên; học lập trình là lựa chọn an toàn); lý do: tuần trước AI viết sai một hàm đơn giản; câu hỏi tu từ \"thì thay được ai?\" thực chất là một tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "One issue that frequently arises in standardization is an argument’s dependence on premises and conclusions which are not explicitly stated.",
+          "where": "mục 3.1"
+        }
+      ]
+    },
+    {
+      "text": "Chuỗi P1, P2 → K1; K1, P3 → K2; K2, P4 → K3. \"Mỗi bước là một modus ponens, nên cả chuỗi hợp lệ.\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "modus ponens, which involves deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent",
+          "where": "mục về suy diễn tự nhiên"
+        },
+        {
+          "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+          "quote": "Above, we do not jump directly from the premises to the conclusion, but show how intermediate inferences are used to ultimately justify the conclusion by a step-by-step chain.",
+          "where": "cùng mục"
+        }
+      ]
+    },
+    {
+      "text": "**P2** khái quát từ một lần thử duy nhất. Một lần sai không cho biết tỉ lệ sai. Đây là dấu hiệu của [khái quát vội vàng](nguy-bien.md#hasty-generalization).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample",
+          "where": "mục Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "**P3** chứa một giả định về thời gian … chữ \"thay thế\" vốn mơ hồ … Đọc thiện chí, người viết có lẽ muốn nói \"AI chưa thể thay thế hoàn toàn lập trình viên trong vài năm tới\". **P4** bỏ qua những rủi ro khác … Có thể kết luận của người bình luận vẫn đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "It favors an interpretation of an argument which makes the argument as credible as possible.",
+          "where": "mục 3.1 (Principle of Charity)"
+        }
+      ]
+    },
+    {
+      "text": "Thuật ngữ \"khái quát vội vàng\" lần đầu trong bài không kèm (*hasty generalization*).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đây là dấu hiệu của [khái quát vội vàng](nguy-bien.md#hasty-generalization) (*hasty generalization*).",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error",
+          "where": "mục Hasty Generalization; quy định HUONG-DAN-VIET.md mục 3"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Bình luận do site tự viết; bài không khẳng định dữ kiện nào về năng lực AI hiện nay (chỉ phân tích lập luận), nên không phải nội dung có hạn dùng. Tự kiểm bằng bảng chân trị: không có phép gán nào làm P1, P1→K1, K1→K2, K2→K3 đúng mà K3 sai. Neo nguy-bien.md#hasty-generalization tồn tại (dòng 141). Ghi chú nhỏ: Bước 1 gọi \"AI sẽ không thay thế lập trình viên\" là kết luận trung gian, còn sơ đồ có hai kết luận trung gian (K1, K2) — không sai, chỉ chi tiết hơn. Kiểm lại (k04): câu nay đúng nguyên văn fix (kèm *hasty generalization*)."
+}

@@ -1,0 +1,85 @@
+{
+  "unit": "cong-cu/gia-dinh-ngam.md#quy-trinh-nam-buoc",
+  "hash": "sha256:e1dc723a989ffd0b7f0a3cf5d86f831cbaeb5909c6a0ce3f11cd869492337abb",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "Quy trình năm bước (tìm kết luận, tìm lý do, bỏ phần thừa, thêm giả định ngầm, đánh giá) để tái dựng lập luận từ một đoạn văn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "One issue that frequently arises in standardization is an argument’s dependence on premises and conclusions which are not explicitly stated.",
+          "where": "mục 3.1 Implicit Premises and Conclusions"
+        }
+      ]
+    },
+    {
+      "text": "Bước 4. THÊM GIẢ ĐỊNH NGẦM: Thêm tiền đề TỐI THIỂU để lập luận trở nên hợp lệ. … \"Tối thiểu\" nghĩa là: thêm vừa đủ để kết luận theo sau từ tiền đề, không thêm những tuyên bố mạnh hơn mức cần.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "In many situations, this can best be accomplished by assigning the argument a “logically minimum” implicit premise, understood as the weakest component needed to successfully connect the argument’s premises to its conclusion.",
+          "where": "mục 3.1"
+        }
+      ]
+    },
+    {
+      "text": "Vì khi lập luận đã hợp lệ, mọi điểm yếu buộc phải lộ ra ở tiền đề",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "A valid deductive argument is one whose logical structure or form is such that if the premises are true, the conclusion must be true.",
+          "where": "mục 1 Introduction"
+        }
+      ]
+    },
+    {
+      "text": "Giả định yếu nhất về mặt logic luôn là câu \"nếu [các tiền đề] thì [kết luận]\". Nó làm lập luận hợp lệ, nhưng thường chỉ là nhắc lại khoảng trống chứ không lấp nó. Vì thế, theo tinh thần thiện chí, ta thường chọn một nguyên tắc *chung* mà người viết có vẻ thật sự tin, rồi xét xem nguyên tắc đó có quá rộng không.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "the weakest component needed to successfully connect the argument’s premises to its conclusion",
+          "where": "mục 3.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Implicit Premise 1 Penalties for crimes should have a deterrent effect.",
+          "where": "mục 3.1, EXAMPLE 7 (tiền đề ngầm dạng nguyên tắc chung)"
+        }
+      ]
+    },
+    {
+      "text": "Thuật ngữ \"hợp lệ\" lần đầu trong bài (Bước 4) không kèm (*valid*).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bước 4. THÊM GIẢ ĐỊNH NGẦM  Thêm tiền đề TỐI THIỂU để lập luận trở nên hợp lệ (valid).",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "Deductive arguments may be said to be valid or invalid",
+          "where": "mục 1; quy định HUONG-DAN-VIET.md mục 3 (lần đầu kèm English term)"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Tự kiểm bằng bảng chân trị: với mọi X, nếu (P ∧ X) → C hằng đúng thì X ⊨ (P → C); vậy \"nếu [tiền đề] thì [kết luận]\" là tiền đề bổ sung yếu nhất làm lập luận hợp lệ — khớp với ý \"logically minimum\" của SEP. Lỗi thuật ngữ: chữ \"hợp lệ\" đầu tiên trong bài nằm trong khối text, dòng 68; có link tới suy-dien.md ở dòng 72 nhưng không kèm *valid* (nhẹ). Kiểm lại (k04): (*valid*) được thêm ở lần đầu 'hợp lệ' trong văn xuôi (dòng 72, chỗ có link suy-dien.md), không ở dòng trong khối text sơ đồ như fix đề xuất. Chấp nhận: đúng ý (thuật ngữ lần đầu được giải thích kèm tiếng Anh), khối text là sơ đồ không định dạng."
+}

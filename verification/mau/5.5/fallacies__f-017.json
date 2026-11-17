@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-017",
+  "hash": "sha256:f42d593918db3c8e90e74ac9318a359a00819963e240783a66c4ea39a1ada35b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "answer: genetic (bác đề xuất vì “nảy ra từ một câu nói đùa trong buổi liên hoan”)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Một ý tưởng ra đời trong hoàn cảnh nào không cho biết nó tốt hay dở…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Chị Thu không công kích ai; thứ bị dùng để bác bỏ là hoàn cảnh ra đời của ý tưởng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Chị không chuyển sang chủ đề khác…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định sẵn trong tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "Begging the Question"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}
