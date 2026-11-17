@@ -1,8 +1,8 @@
 {
   "unit": "works/chua-ro.language-truth-and-logic",
-  "hash": "sha256:db4666a05362ae101121d623bb13fe7b95e4e06589667cc9a4ca0190e9fa69a0",
-  "checked_on": "2026-11-05",
-  "checker": "agent-kiem-5.1b-lo04",
+  "hash": "sha256:bf57c5900c065444887cee0ee6535c694eaef5b438d5efe362760679508fdcd9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.1b-lo04 + claude-doi-loi-5",
   "claims": [
     {
       "text": "titles: Language, Truth, and Logic",
@@ -62,8 +62,20 @@
           "quote": "A.J. Ayer (1910–1989) was only 24 when he wrote the book that made his philosophical name, Language, Truth, and Logic"
         }
       ]
+    },
+    {
+      "text": "titles: chỉ còn 'Language, Truth and Logic' (bỏ cách ghi có dấu phẩy sau khi sửa lich-su/the-ky-20)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://openlibrary.org/api/books?bibkeys=LCCN:36018286&format=json&jscmd=data",
+          "quote": "\"title\": \"Language, truth and logic\""
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "attribution: A. J. Ayer. Không trùng khóa nào khác. Bản 2 năm 1946. | Kiểm lại 5.1b: attribution đã kiểm."
+  "notes": "attribution: A. J. Ayer. Không trùng khóa nào khác. Bản 2 năm 1946. | Kiểm lại 5.1b: attribution đã kiểm. [doi-loi] titles thống nhất theo tên sách in (LCCN 36018286)."
 }

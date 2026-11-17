@@ -15041,7 +15041,7 @@ Khi quay lại, ông đảo ngược chính mình. Trong *Các khảo cứu tri�
 
 ### Trường phái Vienna và sự phản công của Quine
 
-Những năm 1920, quanh Moritz Schlick ở Vienna tụ họp một nhóm triết gia và khoa học gia — **Trường phái Vienna** (*Vienna Circle*) — với Rudolf Carnap là gương mặt nổi bật. Họ đề xuất **nguyên tắc kiểm chứng** (*verification principle*): một câu chỉ có nghĩa khi ta biết cách kiểm chứng nó bằng kinh nghiệm. Hệ quả triệt để: siêu hình học, thần học, phần lớn đạo đức học — đều là "vô nghĩa" theo tiêu chuẩn này. A. J. Ayer phổ biến quan điểm này sang thế giới Anh ngữ qua *Language, Truth, and Logic* (1936).
+Những năm 1920, quanh Moritz Schlick ở Vienna tụ họp một nhóm triết gia và khoa học gia — **Trường phái Vienna** (*Vienna Circle*) — với Rudolf Carnap là gương mặt nổi bật. Họ đề xuất **nguyên tắc kiểm chứng** (*verification principle*): một câu chỉ có nghĩa khi ta biết cách kiểm chứng nó bằng kinh nghiệm. Hệ quả triệt để: siêu hình học, thần học, phần lớn đạo đức học — đều là "vô nghĩa" theo tiêu chuẩn này. A. J. Ayer phổ biến quan điểm này sang thế giới Anh ngữ qua *Language, Truth and Logic* (1936).
 
 Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũng không kiểm chứng được bằng kinh nghiệm. **Willard Van Orman [Quine](../triet-gia/quine.md)** (1908–2000), trong bài "Hai giáo điều của duy nghiệm luận" ("Two Dogmas of Empiricism", 1951), tấn công hai trụ cột của cả trường phái: sự phân biệt rạch ròi giữa chân lý phân tích (đúng do ý nghĩa từ) và chân lý tổng hợp (đúng do kinh nghiệm), và **thuyết quy giản** (*reductionism*) — niềm tin rằng mỗi câu có nghĩa đều quy được về những câu nói về kinh nghiệm trực tiếp. Theo Quine, không có ranh giới rõ như vậy — tri thức là một mạng lưới niềm tin, chạm vào kinh nghiệm ở rìa, và khi có bằng chứng trái, ta có thể điều chỉnh bất cứ chỗ nào trong mạng lưới. Trong *Word and Object* (1960), ông còn đưa ra luận điểm **tính không xác định của phép dịch** (*indeterminacy of translation*): với cùng hành vi ngôn ngữ, có thể có nhiều bản dịch đúng mà mâu thuẫn nhau.
 
@@ -15099,7 +15099,7 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100.
 2. Bertrand Russell (1905), "On Denoting", *Mind* 14.
 3. Ludwig Wittgenstein (1921), *Tractatus Logico-Philosophicus*; (1953), *Philosophical Investigations*, Oxford: Blackwell.
-4. A. J. Ayer (1936), *Language, Truth, and Logic*, London: Gollancz.
+4. A. J. Ayer (1936), *Language, Truth and Logic*, London: Gollancz.
 5. W. V. Quine (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60; (1960), *Word and Object*, Cambridge, MA: MIT Press.
 6. Edmund Husserl (1900–1901), *Logische Untersuchungen*; (1913), *Ideen I*.
 7. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
