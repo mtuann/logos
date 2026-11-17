@@ -15459,7 +15459,7 @@ Văn bản này đáng đọc vì nó là chân dung rõ nhất về Socrates �
 
 Socrates (k. 469–399 TCN) cả đời đi hỏi người khác: chính trị gia, thi sĩ, thợ thủ công. Ai cũng tưởng mình biết, và ai cũng lúng túng khi bị hỏi đến cùng. Nhiều người Athens khó chịu.
 
-Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là tiếng đồn tích tụ nhiều năm, mà ông cho là nguy hiểm hơn: rằng ông nghiên cứu chuyện trên trời dưới đất và biến lý lẽ yếu thành mạnh, như vở hài kịch *Mây* (423 TCN) của Aristophanes từng giễu (18b–19c). Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (24b).
+Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là tiếng đồn tích tụ nhiều năm, mà ông cho là nguy hiểm hơn: rằng ông nghiên cứu chuyện trên trời dưới đất và biến lý lẽ yếu thành mạnh, như vở hài kịch *Mây* (423 TCN) của Aristophanes từng giễu (18b–19c). Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (23e–24b).
 
 Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Peloponnesus (404 TCN), rồi chịu chế độ tàn bạo của nhóm "Ba Mươi" do Critias, người từng thuộc vòng bạn bè của Socrates, cầm đầu. Quan hệ cũ với Critias và Alcibiades khiến nhiều người nghi Socrates chống dân chủ, dù đơn kiện chỉ nói về thần linh và giới trẻ.
 
@@ -15663,11 +15663,11 @@ Từ P1–P4 đến K là **suy diễn** (*deductive*). Chỗ phải xét là ti
 
 ## Phản bác
 
-**Aristotle: không cần một thế giới ý niệm riêng.** [Aristotle](../triet-gia/aristotle.md), học trò của Platon, phản bác rằng ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật: "chúng không phải bản chất của các sự vật, nếu không thì chúng đã ở *trong* sự vật" (*Siêu hình học* I.9). Cái chung nằm ngay trong những sự vật cụ thể. Nhưng Aristotle không phải người đầu tiên thấy vấn đề: chính Platon, trong *Parmenides*, đã tự nêu những phản bác sắc bén với thuyết ý niệm.
+**Aristotle: không cần một thế giới ý niệm riêng.** [Aristotle](../triet-gia/aristotle.md), học trò của Platon, phản bác rằng ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật: "chúng không phải bản chất của các sự vật, nếu không thì chúng đã ở *trong* sự vật" (*Siêu hình học* I.9; bản dịch của Logos). Cái chung nằm ngay trong những sự vật cụ thể. Nhưng Aristotle không phải người đầu tiên thấy vấn đề: chính Platon, trong *Parmenides*, đã tự nêu những phản bác sắc bén với thuyết ý niệm.
 
 **Cách đáp lại:** Người theo Platon chỉ vào toán học: không vòng tròn vẽ trên giấy nào tròn hoàn hảo, vậy mà ta biết chính xác "hình tròn" là gì. Cuộc tranh luận giữa hai cách nhìn này đến nay chưa ngã ngũ.
 
-**[Popper](../triet-gia/popper.md): mầm mống chuyên chế.** Ẩn dụ vẽ đám đông như những kẻ mê muội và triết gia như người cứu rỗi. Karl Popper, trong *Xã hội mở và kẻ thù của nó* (1945), coi *Cộng hòa* là một gốc rễ của tư tưởng chống dân chủ: ai kiểm soát những người tự nhận đã "thấy ánh sáng"?
+**[Popper](../triet-gia/popper.md): mầm mống chuyên chế.** Ẩn dụ vẽ đám đông như những kẻ mê muội và triết gia như người cứu rỗi. Karl Popper, trong *Xã hội mở và kẻ thù của nó* (1945), coi *Cộng hòa* là một gốc rễ của tư tưởng toàn trị: ai kiểm soát những người tự nhận đã "thấy ánh sáng"?
 
 **Cách đáp lại:** Ẩn dụ đòi người hiểu biết phải phục vụ chứ không hưởng quyền: họ bị buộc quay về, và người ít ham quyền nhất mới đáng cầm quyền (520d). Dân chủ hiện đại cũng vẫn phải cân nhắc vai trò của chuyên môn.
 
@@ -15875,7 +15875,7 @@ Năm 1641, [René Descartes](../triet-gia/descartes.md) (1596–1650) xuất b�
 Hai suy niệm đầu là phần nổi tiếng nhất, chứa lập luận mà hầu như ai cũng từng nghe qua dưới dạng "Tôi tư duy, vậy tôi hiện hữu", dù đúng câu chữ ấy không có trong *Suy niệm*.
 
 !!! info "Về văn bản này"
-    - **Tác giả:** René Descartes. Sách in bằng tiếng Latin năm 1641 (tái bản 1642), kèm bảy bộ phản bác của các học giả đương thời và lời đáp của ông; bản tiếng Pháp ra năm 1647.
+    - **Tác giả:** René Descartes. Sách in bằng tiếng Latin năm 1641, kèm sáu bộ phản bác của các học giả đương thời và lời đáp của ông (bản in lần hai năm 1642 thêm bộ thứ bảy); bản tiếng Pháp ra năm 1647.
     - **Độ dài:** Suy niệm I–II chỉ chừng 17 trang trong ấn bản Adam–Tannery (AT 7:17–34).
     - **Đọc toàn văn:** bản dịch của John Veitch trên [Wikisource](https://en.wikisource.org/wiki/Meditations_on_First_Philosophy).
     - **Bản dịch được trích:** John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). Chữ trong ngoặc vuông là phần Veitch thêm từ bản tiếng Pháp.
@@ -15927,7 +15927,7 @@ Descartes không tin có con quỷ thật: đây là thí nghiệm tư duy để
 
 *Bạn có nghĩ ra được một "ác thần" hiện đại không: một kịch bản mà mọi trải nghiệm của bạn đều bị làm giả?*
 
-**Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27).** Archimedes chỉ đòi một điểm tựa vững để nâng trái đất; Descartes chỉ cần một điều chắc chắn (§1). Và điểm tựa xuất hiện:
+**Đoạn 4 — Tôi là, tôi hiện hữu (Suy niệm II, §1–6; AT 7:23–27).** Archimedes chỉ đòi một điểm tựa vững để dời trái đất khỏi chỗ của nó; Descartes chỉ cần một điều chắc chắn (§1). Và điểm tựa xuất hiện:
 
 !!! quote "*Suy niệm* II, §3 (AT 7:25) — bản dịch John Veitch (1853)"
     "Doubtless, then, I exist, since I am deceived; and, let him deceive me as he may, he can never bring it about that I am nothing, so long as I shall be conscious that I am something. So that it must, in fine, be maintained, all things being maturely and carefully considered, that this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind."
@@ -16013,7 +16013,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — hoài nghi luận của Descartes được trình bày đầy đủ ở đây
-- [Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí
+- [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí
 - [Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — phiên bản hiện đại của ác thần
 - [Đọc ẩn dụ hang động](../doc/platon-hang-dong.md) — một người tù khác, cũng phải tập nhìn ra ánh sáng
 
@@ -16116,7 +16116,7 @@ Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định 
 
 **1. Kant: nhân quả là khuôn của tâm trí.** [Kant](../triet-gia/kant.md) kể rằng ký ức về Hume đã "cắt ngang giấc ngủ giáo điều" của ông (*Prolegomena*, 1783). Theo Kant, nhân quả là một phạm trù tâm trí áp lên mọi kinh nghiệm, nên ta biết *tiên nghiệm* (*a priori*) rằng mọi biến cố đều có nguyên nhân.
 
-*Cách đáp lại:* nguyên tắc chung ấy không cho biết quy luật *cụ thể* nào (bánh mì nuôi người) còn đúng ngày mai; phần đông giới nghiên cứu Kant thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm.
+*Cách đáp lại:* nguyên tắc chung ấy không cho biết quy luật *cụ thể* nào (bánh mì nuôi người) còn đúng ngày mai; phần đông các nhà bình luận Kant viết bằng tiếng Anh ở thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm.
 
 **2. Quy nạp tự biện minh được.** Một số triết gia theo **ngoại tại luận** (*externalism*) cho rằng dùng quy nạp để kiểm tra quy nạp chỉ là "vòng tròn quy tắc", không phải vòng tròn tiền đề: nếu quy tắc thật sự đáng tin, niềm tin rút ra từ nó vẫn được biện minh.
 
@@ -16254,7 +16254,7 @@ Các ví dụ của Kant (Ak 8:37–38): người sĩ quan nhận lệnh thì ph
 
 ## Phản bác
 
-**1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, bạn của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
+**1. "Do chính mình gây ra" là đổ lỗi cho nạn nhân.** Ngay năm 1784, trong thư gửi Christian Jacob Kraus, Johann Georg Hamann, người quen của Kant, cho rằng sự chưa trưởng thành không do người dân tự gây ra, mà bị áp đặt bởi một chính quyền độc đoán và bởi chính những người tự xưng là người giám hộ.
 
 *Cách đáp lại:* Kant không phủ nhận vai trò của người giám hộ; ông tả họ khá cay nghiệt (đoạn 2). Chữ "do chính mình" khẳng định năng lực vốn có hơn là buộc tội, và yêu cầu chính của ông nhắm vào chính quyền: hãy để công chúng tự do.
 
@@ -16674,9 +16674,9 @@ Chương ngay trước đó nói thẳng hơn: "người mà không có nhân th
 
 ## Phản bác
 
-**1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: thương mọi người như nhau. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
+**1. [Mặc Tử](../triet-gia/mac-tu.md): lễ tốn kém, yêu thương thiên vị.** Phái Mặc gia phê phán Nho gia tổ chức tang lễ linh đình, để tang kéo dài trong khi dân còn đói, và thương người thân hơn người dưng. Họ đề xuất **kiêm ái**: quan tâm đến mọi người, không gạt ai ra ngoài. Theo Chris Fraser (SEP), kiêm ái không đòi đối xử với mọi người như nhau, chỉ đòi một mối quan tâm đạo đức tương tự dành cho mọi người; Mặc gia vẫn chấp nhận rằng trong thực hành, ta chăm người thân trước. Câu hỏi vẫn còn nguyên khi ta bàn về từ thiện hôm nay: nên giúp người thân trước, hay phân bổ công bằng?
 
-*Cách đáp lại:* chính 3.4 nói lễ xa hoa chẳng bằng tiết kiệm, nên phê phán lễ linh đình nhắm vào một cách thực hành, không phải vào Khổng Tử. Còn thương người thân trước là điểm khởi đầu tự nhiên để lòng nhân lan rộng dần; đòi thương mọi người *như nhau* có thể vượt quá sức con người.
+*Cách đáp lại:* chính 3.4 nói lễ xa hoa chẳng bằng tiết kiệm, nên phê phán lễ linh đình nhắm vào một cách thực hành, không phải vào Khổng Tử. Còn thương người thân trước là điểm khởi đầu tự nhiên để lòng nhân lan rộng dần; nếu hiểu kiêm ái là thương mọi người *như nhau* tuyệt đối, đòi hỏi ấy có thể vượt quá sức con người.
 
 **2. Thứ bậc và gia đình đặt trên công lý.** Khi nghe khoe về người con ra làm chứng việc cha trộm dê, Khổng Tử đáp: cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó (13.18). Phải chăng đây là mầm của thói bao che?
 
@@ -16714,7 +16714,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 ## Đọc tiếp
 
-- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.
+- [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — *Luận ngữ* đã định hình giáo dục Việt Nam thế nào.
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md) — chữ tín (2.22), "cha giấu cho con" (13.18) và tranh luận Đông–Tây về nói dối.
 - [Mặc Tử: kiêm ái](../doc/mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.
@@ -16865,9 +16865,9 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đọc tiếp
 
-- [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang đối đầu Nho–Pháp
+- [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang giữa Nho, Mặc và Pháp
 - [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 và giới hạn của ngôn ngữ
-- [Trang Tử: Mộng hồ điệp](../doc/trang-tu-mong-ho-diep.md) — người kế thừa nổi tiếng nhất của Lão Tử
+- [Trang Tử: Mộng hồ điệp](../doc/trang-tu-mong-ho-diep.md) — người mà truyền thống xếp cùng Lão Tử thành Đạo gia (Lão–Trang)
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md) — cái "không" của chương 11 đặt cạnh cái "không" của Phật giáo
 
@@ -16890,7 +16890,7 @@ Thử xem bạn nắm được đến đâu.
 Đây có lẽ là đoạn văn triết học ngắn nhất mà người ta bàn cãi nhiều nhất: chỉ khoảng sáu mươi chữ Hán, kể một giấc mơ. [Trang Tử](../triet-gia/trang-tu.md) mơ thấy mình là bướm, tỉnh dậy không biết mình là người mơ thành bướm hay bướm mơ thành người. Hơn hai nghìn năm sau, câu hỏi ấy vẫn chưa có lời đáp dứt khoát. Ta đọc đoạn văn cùng một đoạn đứng trước nó trong cùng thiên, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
-    - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
+    - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính cuốn sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
     - **Văn bản:** sách *Trang Tử* hiện còn 33 thiên do Quách Tượng (mất năm 312) biên tập, rút gọn từ 52 thiên. Bảy "nội thiên" đầu thường được coi là gần với chính Trang Tử nhất (Hansen, SEP). *Tề vật luận* là thiên thứ hai; đoạn mộng hồ điệp khép lại thiên này.
     - **Đọc toàn văn:** [ctext.org](https://ctext.org/zhuangzi/adjustment-of-controversies), nguyên văn song song với bản dịch tiếng Anh của James Legge (1891, phạm vi công cộng).
     - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 15 phút.
@@ -17020,7 +17020,7 @@ Thử xem bạn nắm được đến đâu.
     - **Độ dài:** 10 quyển; quyển I–II chừng 16 trang Bekker (1094a–1109b). Số như "1098a18" là trang, cột, dòng của ấn bản Bekker (1831), mọi bản dịch đều ghi.
     - **Bản gốc:** tiếng Hy Lạp cổ.
     - **Đọc toàn văn:** bản Ross trên [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.html); bản Hy Lạp có số Bekker trên [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053).
-    - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, bản sửa năm 1925; Ross mất năm 1971).
+    - **Bản dịch được trích:** W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, 1925; Ross mất năm 1971).
     - **Thời gian đọc:** các đoạn chọn khoảng 25 phút; trọn quyển I–II khoảng hai giờ.
 
 ## Bối cảnh
@@ -17215,7 +17215,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
     "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos)*
 
-Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của Platon". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
+Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của [Platon](../triet-gia/platon.md)". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
 
 *Thu nhỏ vấn đề có hai mặt: bớt khổ, nhưng cũng bớt quan tâm. Đâu là ranh giới giữa "nhìn xa để bớt chấp" và "nhìn xa để mặc kệ"?*
 
@@ -17230,7 +17230,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
     "...chỉ loài có lý trí mới được ban cho khả năng tự nguyện theo những gì xảy ra; còn phải theo thì là điều bắt buộc với tất cả." *(bản dịch của Logos)*
 
-Điều đã xảy ra thì không đổi được; cái ta chọn được là theo nó như một con người, hay như con lợn giãy đạp. Và dù vũ trụ có thiên ý hay chỉ là nguyên tử, oán trách điều đã xảy ra cũng chẳng ích gì (IV.3).
+Điều đã xảy ra thì không đổi được; cái ta chọn được là theo nó như một con người, hay như con lợn giãy đạp. Và dù vũ trụ có thiên ý hay chỉ là nguyên tử, oán trách điều đã xảy ra cũng chẳng ích gì (VIII.17; xem thêm IV.3).
 
 *"Đón nhận mọi việc" có áp dụng được cho bất công không? Khi nào chấp nhận là khôn ngoan, khi nào là đồng lõa?*
 
@@ -17238,7 +17238,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
 - **P1.** Điều làm ta khổ không phải sự việc bên ngoài, mà là phán đoán của ta về nó (VIII.47).
 - **P2.** Phán đoán của ta nằm trong quyền của ta: ta có thể xóa nó (VIII.47).
-- **P3.** Dù vũ trụ do thiên ý sắp đặt hay chỉ là nguyên tử ngẫu nhiên, oán trách điều đã xảy ra đều vô lý (IV.3).
+- **P3.** Dù vũ trụ do thiên ý sắp đặt hay chỉ là nguyên tử ngẫu nhiên, oán trách điều đã xảy ra đều vô lý (VIII.17; cặp thiên ý hay nguyên tử ở IV.3).
 - **P4.** Cái chết là một việc của tự nhiên, như quả chín thì rụng (IV.48).
 - **P5** (giả định ngầm). Chỉ đức hạnh, tức hành động đúng và công bằng vì lợi ích chung, mới là điều tốt thật sự; mọi thứ khác không tốt không xấu.
 - **K.** Vậy đừng sợ chết, đừng oán số phận; hãy sửa phán đoán của mình và làm tốt phần việc của mình cho cộng đồng.
@@ -17280,7 +17280,7 @@ Thử xem bạn nắm được đến đâu.
 [
  {"q": "Theo VIII.47, khi một việc bên ngoài làm ta đau khổ, Marcus khuyên gì?", "options": ["Tránh xa mọi việc bên ngoài", "Nhận ra cái làm ta xáo trộn là phán đoán của mình, phán đoán ấy xóa được; còn nếu có việc đúng chưa làm thì hãy làm thay vì than", "Chấp nhận mọi thứ và không làm gì", "Tìm người chịu trách nhiệm để trút giận"], "answer": 1, "explain": "VIII.47 có cả hai vế: sửa phán đoán, và 'sao không hành động thay vì than phiền'. Vì thế lựa chọn thứ ba là cách hiểu sai phổ biến về Khắc kỷ."},
  {"q": "Hình ảnh quả ô liu chín rụng (IV.48) muốn nói gì?", "options": ["Cái chết là hình phạt của thần linh", "Cái chết là một phần tự nhiên của đời sống, có thể đón nhận với lòng biết ơn", "Đời người không có giá trị gì", "Nên sống càng lâu càng tốt bằng mọi giá"], "answer": 1, "explain": "Quả chín rụng 'chúc phúc cho tự nhiên' và 'cảm ơn cái cây': cái chết được nhìn như điểm kết tự nhiên, không phải tai họa."},
- {"q": "Câu 'thiên ý hay nguyên tử' (IV.3) giúp Marcus điều gì?", "options": ["Chứng minh vũ trụ chắc chắn có thiên ý", "Giữ được sự bình thản mà không cần giải xong câu hỏi siêu hình: dù vũ trụ có trật tự hay ngẫu nhiên, oán trách điều đã xảy ra đều vô lý", "Bác bỏ hoàn toàn triết học Epicurus", "Chứng minh linh hồn bất tử"], "answer": 1, "explain": "Đây là lưỡng nan: cả hai vế dẫn tới cùng một kết luận thực hành, nên Marcus không phải chọn vế nào trước khi sống cho đúng."},
+ {"q": "Câu 'thiên ý hay nguyên tử' (IV.3) giúp Marcus điều gì?", "options": ["Chứng minh vũ trụ chắc chắn có thiên ý", "Giữ được sự bình thản mà không cần giải xong câu hỏi siêu hình: dù vũ trụ có trật tự hay ngẫu nhiên, oán trách điều đã xảy ra đều vô lý", "Bác bỏ hoàn toàn triết học Epicurus", "Chứng minh linh hồn bất tử"], "answer": 1, "explain": "Đây là lưỡng nan. Theo cách đọc của Annas và Hadot (SEP), cả hai vế dẫn tới cùng một kết luận thực hành: đừng oán trách (VIII.17). Dù vậy, Marcus nhiều lần khẳng định thế giới do một tự nhiên có lý trí điều hành (IV.3, X.6)."},
  {"q": "Bạn bị đuổi việc bất công. Lời khuyên nào gần Marcus nhất?", "options": ["Im lặng chịu đựng vì mọi việc đều do số", "Không oán trách điều đã xảy ra, nhưng phản đối bất công bằng cách chính đáng vẫn là việc của bạn, vì công bằng là đức hạnh", "Tìm cách trả thù cho hả giận", "Giả vờ không buồn"], "answer": 1, "explain": "Marcus tách điều đã xảy ra (đón nhận) với điều còn làm được (hành động, VIII.47). Ông cũng khuyên thay cơn giận bằng sự thấu hiểu (VII.26), nên trả thù không phải lựa chọn của ông."}
 ]
 </script>
@@ -17402,7 +17402,7 @@ Soi từng bước:
 
 **[Tuân Tử](../triet-gia/tuan-tu.md): tính ác.** Thiên 23 mở đầu: "Tính người là ác, cái thiện của nó là do con người làm ra" (人之性惡，其善者偽也). Nếu tính đã thiện, sao phải có thầy, có lễ, có luật? *Cách đáp lại:* Mạnh Tử chưa bao giờ nói không cần học; thầy và lễ là phần chăm bón. Với ông, giáo dục *làm lớn* cái đã có; với Tuân Tử, giáo dục *nắn* cái vốn cong. Theo A. C. Graham (1967), hai ông hiểu chữ "tính" khác nhau nên có phần nói lệch nhau (Van Norden, SEP).
 
-**Tâm lý học tiến hóa: thương trẻ chỉ là bản năng.** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
+**Một câu hỏi từ phía tiến hóa: phải chăng thương trẻ chỉ là bản năng?** *Cách đáp lại:* biết *nguồn gốc* của một khuynh hướng chưa cho ta biết *giá trị* của nó; lẫn hai việc là [ngụy biện nguồn gốc](../cong-cu/nguy-bien.md#genetic). Mạnh Tử chỉ cần mầm có thật, có ở mọi người, và lớn lên được thành đức.
 
 ## Hiểu lầm thường gặp
 
@@ -17449,7 +17449,7 @@ Thử xem bạn nắm được đến đâu.
 
 # Hướng dẫn đọc: Mặc Tử — *kiêm ái*
 
-[Mặc Tử](../triet-gia/mac-tu.md) sáng lập Mặc gia, trường phái từng đối trọng ngang ngửa Nho gia thời Chiến Quốc rồi lụi tàn sau khi nhà Tần thống nhất. Ông và môn đồ là những người đầu tiên ở Trung Hoa lập luận từng bước để tìm một chuẩn mực đạo đức khách quan, thay vì chỉ dựa vào tập tục (Fraser, SEP). Luận đề cốt lõi: **kiêm ái** (兼愛), quan tâm bao trùm mọi người, không gạt ai ra ngoài; và **phi công** (非攻), phản đối chiến tranh xâm lược.
+[Mặc Tử](../triet-gia/mac-tu.md) sáng lập Mặc gia, trường phái từng đối trọng ngang ngửa Nho gia thời Chiến Quốc rồi lụi dần và biến mất khoảng giữa thời Tây Hán. Ông và môn đồ là những người đầu tiên ở Trung Hoa lập luận từng bước để tìm một chuẩn mực đạo đức khách quan, thay vì chỉ dựa vào tập tục (Fraser, SEP). Luận đề cốt lõi: **kiêm ái** (兼愛), quan tâm bao trùm mọi người, không gạt ai ra ngoài; và **phi công** (非攻), phản đối chiến tranh xâm lược.
 
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN. Sách *Mặc Tử* là tuyển tập nhiều người viết qua nhiều thời kỳ; không phần nào tự nhận do chính tay ông viết. Theo mục lục đời Hán, sách có 71 thiên, nay mất 18 (Fraser, SEP).
@@ -17546,7 +17546,7 @@ Soi từng bước:
 
 - **"Kiêm ái là yêu người dưng y như cha mẹ, bỏ mặc gia đình."** Chữ "ái" ở đây gần với *quan tâm* hơn là tình cảm nồng nhiệt. Mặc gia đòi quan tâm đạo đức tới mọi người, không đòi đối xử với mọi người như nhau; hiếu và từ vẫn là điều tốt trong hệ thống của họ (Fraser, SEP).
 - **"Mặc Tử phản đối mọi chiến tranh."** Ông phản đối chiến tranh *xâm lược*. Hai mươi mốt thiên cuối sách bàn toàn về kỹ thuật giữ thành khi bị vây (Fraser, SEP).
-- **"Mặc Tử là Bentham thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
+- **"Mặc Tử là [Bentham](../triet-gia/bentham.md) thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
 
 ## Câu hỏi để tự viết
 
@@ -17800,7 +17800,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ## Tái dựng lập luận
 
-- **P1.** Dùng binh chỉ chính đáng khi nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
+- **P1.** Dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
 - **P2.** Quân Minh bóc lột, tàn hại dân lành: chính là "kẻ bạo".
 - **P3.** Đại Việt là một nước có cõi bờ, phong tục, văn hiến riêng, ngang hàng phương Bắc.
 - **P4.** Cuộc kháng chiến nhằm trừ bạo và kết thúc bằng tha hàng binh, đem thái bình cho dân.
@@ -17850,7 +17850,7 @@ Thử xem bạn nắm được đến đâu.
 - [Thơ văn Lý–Trần: tuyển](../doc/tho-van-ly-tran.md) — truyền thống văn chương Việt trước Nguyễn Trãi: vô thường, thiền và thơ
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — Nguyễn Trãi định nghĩa lại "nhân nghĩa"
 - [Chiến tranh có bao giờ chính đáng không?](../cau-hoi/chien-tranh-chinh-dang.md) — từ "trừ bạo" đến lý thuyết chiến tranh chính nghĩa
-- [Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md) — nguồn của ý "thương dân, đánh kẻ có tội"
+- [Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md) — cùng truyền thống Nho giáo mà bài cáo mượn ngôn ngữ (ý "điếu phạt" ở thiên *Lương Huệ vương hạ* không có trong hướng dẫn này)
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam trong dòng lịch sử Đông Á
 
 ## Nguồn
@@ -17874,8 +17874,8 @@ Văn bản của Sartre (mất năm 1980) còn bản quyền, cả bản tiếng
 
 !!! info "Về văn bản này"
     - **Tác giả, năm:** Jean-Paul Sartre (1905–1980); bài nói ở câu lạc bộ Maintenant, Paris, ngày 29/10/1945; in thành sách *L'existentialisme est un humanisme*, Paris: Nagel, 1946.
-    - **Thể loại, độ dài:** bài nói phổ thông bằng tiếng Pháp, chừng 9.000 chữ; một bản dễ đọc hơn của *Tồn tại và hư vô* (1943).
-    - **Đọc ở đâu:** còn bản quyền nên không có bản trực tuyến hợp pháp miễn phí; bản dịch tiếng Anh: *Existentialism Is a Humanism*, Carol Macomber dịch (Yale University Press, 2007).
+    - **Thể loại, độ dài:** bài nói phổ thông bằng tiếng Pháp; một bản dễ đọc hơn của *Tồn tại và hư vô* (1943).
+    - **Đọc ở đâu:** văn bản còn bản quyền; bản dịch tiếng Anh: *Existentialism Is a Humanism*, Carol Macomber dịch (Yale University Press, 2007).
     - **Cách ghi vị trí:** bài không đánh số đoạn; dưới đây ghi theo thứ tự các phần của bài nói.
     - **Thời gian đọc:** khoảng 15 phút cho hướng dẫn này; chừng 1 giờ cho toàn văn.
 
@@ -18064,7 +18064,7 @@ Hai câu cuối nổi tiếng nhất, quen thuộc qua bản dịch thơ của N
 
     Vậy mới biết: Bụt ở ngay trong nhà, chẳng phải tìm đâu xa. Vì ta quên mất cái gốc nên mới đi tìm Bụt; đến khi biết ra thì Bụt chính là ta. — Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên; đói thì ăn, mệt thì ngủ. Trong nhà có báu, thôi tìm kiếm; gặp cảnh mà tâm không vướng, chớ hỏi thiền. *(bản dịch của Logos)*
 
-Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "vốn, thật là". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
+Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "chính". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
 
 > Câu hỏi: "Ở giữa đời mà tâm không vướng": nghe như đặc quyền của một ông vua đã đủ đầy. Một người còn lo cơm áo có tu theo cách này được không?
 
@@ -18142,7 +18142,7 @@ Thử xem bạn nắm được đến đâu.
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md) — gốc kinh điển của tư tưởng "không" trong thiền
 - [Nguyễn Trãi: Bình Ngô đại cáo](../doc/nguyen-trai-binh-ngo.md) — từ thơ thiền Lý–Trần đến văn chính luận: cùng một nền văn hiến
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam thời Lý–Trần trong khu vực
-- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — thơ thiền đặt cạnh câu hỏi triết học về cái đẹp
+- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — câu hỏi triết học về cái đẹp, để đọc cạnh thơ thiền (trang ấy không bàn thơ thiền)
 
 ## Nguồn
 

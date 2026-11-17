@@ -1,0 +1,71 @@
+{
+ "unit": "doc/aurelius-suy-tuong.md#hieu-lam-thuong-gap",
+ "hash": "sha256:a37effe051ed2725beae1bba217cfbce2b48608a2a13eee4a37aaced6a7e3dcb",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k07",
+ "claims": [
+  {
+   "text": "Ông viết cho chính mình; các học giả hiện nay nhìn chung đồng ý như vậy",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "Scholars now generally agree (following Brunt 1974) that Marcus wrote for his own moral improvement"
+    }
+   ]
+  },
+  {
+   "text": "Vì thế sách lặp lại nhiều, không theo trật tự, và tên sách cũng không phải của ông",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "Marcus returns insistently to issues that must have arisen from his experiences, such as the imminence of death"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "the title due to the modern editor Casaubon"
+    }
+   ]
+  },
+  {
+   "text": "Ông viết bằng tiếng Hy Lạp; cụm Latin memento mori là của truyền thống về sau; ý có trong sách, chữ thì không",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/ebooks/2680",
+     "quote": "Written in Greek as private notes to himself",
+     "where": "Gutenberg #2680 (bản lưu); bản Long trên #15877 không có cụm Latin này (chỉ kiểm văn bản dịch Anh, không kiểm nguồn gốc cụm memento mori)"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II",
+     "quote": "regulate every act and thought accordingly",
+     "where": "II.11: ý nhớ cái chết có trong sách"
+    }
+   ]
+  },
+  {
+   "text": "\"Khắc kỷ là cam chịu\": VIII.47 đón nhận điều đã xảy ra và hành động với điều còn làm được",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII",
+     "quote": "why dost thou not rather act than complain?"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Phần nguồn gốc cụm memento mori ở cấp \"truyền thống về sau\" chỉ được kiểm gián tiếp (Marcus viết Hy Lạp, văn bản dịch không chứa cụm Latin)."
+}

@@ -1,0 +1,124 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#phan-bac",
+ "hash": "sha256:2549aa68b7f327d006b0a4e7ddb876b7490471f7687f447327a2f6234565183b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
+ "claims": [
+  {
+   "text": "Mạnh Tử hỏi Di Chi (3A5): thương con của anh mình cũng như đứa bé hàng xóm?",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+     "quote": "夫夷子信以為「人之親其兄之子為若親其鄰之赤子乎」",
+     "where": "Đằng Văn Công thượng, chương 5"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+     "quote": "Does Yi Zhi truly hold that one's affection for one's own nephew is like one's affection for a neighbor's baby?"
+    },
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+     "quote": "墨者夷之，因徐辟而求見孟子",
+     "where": "chương 5: Mạnh Tử trao đổi với Di Chi qua Từ Tị (nhắn qua học trò)"
+    }
+   ]
+  },
+  {
+   "text": "Kiêm ái hạ: 即必吾先從事乎愛利人之親，然後人報我以愛利吾親也",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "卽必吾先從事乎愛利人之親，然後人報我以愛利吾親也"
+    }
+   ]
+  },
+  {
+   "text": "Di Chi: 愛無差等，施由親始 (3A5)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+     "quote": "之則以為「愛無差等，施由親始」"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "In care, no degrees; in practice, begin from what is close."
+    }
+   ]
+  },
+  {
+   "text": "Ví dụ cụ thể khá vừa phải: ... người già không vợ con, trẻ mồ côi có chỗ dựa (Fraser)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "helping friends and neighbors in need; and assisting the elderly, solitary, and orphaned, who have no family to care for them",
+     "where": "mục Inclusive care"
+    }
+   ]
+  },
+  {
+   "text": "Mặc gia đời sau nói rõ: quan tâm như nhau nhưng đối xử tùy quan hệ",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Equal care does not entail equal treatment"
+    }
+   ]
+  },
+  {
+   "text": "Mặc gia không theo thuyết mệnh lệnh thần linh; điều nghĩa không nghĩa vì trời muốn; trời muốn vì nghĩa (Euthyphro)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "What is righteous is not righteous because Heaven intends it. (Heaven intends what is righteous because it is righteous)"
+    }
+   ]
+  },
+  {
+   "text": "Trời đáng làm chuẩn vì không thiên vị, nhân từ, bền bỉ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Heaven's conduct is broad and impartial; its favors are rich and incur no debt"
+    }
+   ]
+  },
+  {
+   "text": "Phản bác 'Quá khắt khe để sống được' và 'Đạo đức dựa vào ý trời thì tùy tiện' có trong văn liệu",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "The first and most obvious objection is that inclusive care is too difficult."
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "has led some scholars to suggest that Mohist ethics might ultimately be a form of divine command theory"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Phản bác 'quá khắt khe' trình bày ở dạng mạnh và có đáp lại. 'Nhắn qua học trò' (Mạnh Tử hỏi Di Chi qua Từ Tị) chưa mở đoạn đối chiếu; chi tiết phụ, không đổi nghĩa.\nLượt 2: mở lại SEP Mohism, thay quote 'theo tóm tắt công cụ' bằng câu nguyên văn; xác nhận chi tiết 'nhắn qua học trò' (因徐辟) ở 孟子/滕文公上; hai phản bác không gắn tác giả có trong SEP Mohism."
+}

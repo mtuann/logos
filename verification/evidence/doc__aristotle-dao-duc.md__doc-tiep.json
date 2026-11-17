@@ -1,0 +1,84 @@
+{
+  "unit": "doc/aristotle-dao-duc.md#doc-tiep",
+  "hash": "sha256:58b60291589d6a06859b00b403a10e10282dde5f04f2f8448dbdc92491799686",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Epictetus: người Khắc kỷ cũng nói đức hạnh, nhưng là thứ duy nhất tốt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stoicism/",
+          "quote": "(1) human happiness is fully in our power and (2) virtue is the only good",
+          "where": "SEP Stoicism mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "[Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đức hạnh luận của Aristotle đặt cạnh vị lợi và Kant",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- [Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh của Aristotle đặt cạnh thuyết vị lợi và đạo đức học Kant",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "3. Đạo đức học đức hạnh: hãy trở thành con người tốt"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/them/tu-dien/",
+          "quote": "đạo đức học đức hạnh (virtue ethics)",
+          "where": "từ điển thuật ngữ của site; HUONG-DAN-VIET.md bảng bắt buộc: virtue ethics → đạo đức học đức hạnh; \"đức hạnh luận\" không có trong bảng"
+        }
+      ]
+    },
+    {
+      "text": "[Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh khoái lạc và sự hài lòng",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh thuyết khoái lạc, thuyết thỏa mãn ước muốn và thuyết danh sách khách quan",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/hanh-phuc/",
+          "quote": "Thuyết thỏa mãn ước muốn: hạnh phúc là đạt được điều mình muốn",
+          "where": "ba họ lý thuyết của trang đích; không có lập trường \"sự hài lòng\""
+        }
+      ]
+    },
+    {
+      "text": "[Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh Athens nơi Aristotle viết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/hy-lap-co-dai/",
+          "quote": "Aristotle (384–322 TCN), học trò Platon 20 năm rồi tách ra",
+          "where": "mục \"Aristotle: người hệ thống hóa mọi thứ\""
+        }
+      ]
+    },
+    {
+      "text": "[Epictetus: Cẩm nang](epictetus-cam-nang.md) — người Khắc kỷ cũng nói đức hạnh, nhưng là thứ duy nhất tốt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/epictetus-cam-nang/",
+          "quote": "Khắc kỷ dạy rằng chỉ đức hạnh là điều tốt"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Ba link nội bộ trỏ tới file có thật (đã ls). Mô tả đúng chủ đề theo tên trang; không kiểm nội dung trang đích (đơn vị khác). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (vua, nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}

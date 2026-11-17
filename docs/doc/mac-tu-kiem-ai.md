@@ -9,7 +9,7 @@ block: van-ban
 
 # Hướng dẫn đọc: Mặc Tử — *kiêm ái*
 
-[Mặc Tử](../triet-gia/mac-tu.md) sáng lập Mặc gia, trường phái từng đối trọng ngang ngửa Nho gia thời Chiến Quốc rồi lụi tàn sau khi nhà Tần thống nhất. Ông và môn đồ là những người đầu tiên ở Trung Hoa lập luận từng bước để tìm một chuẩn mực đạo đức khách quan, thay vì chỉ dựa vào tập tục (Fraser, SEP). Luận đề cốt lõi: **kiêm ái** (兼愛), quan tâm bao trùm mọi người, không gạt ai ra ngoài; và **phi công** (非攻), phản đối chiến tranh xâm lược.
+[Mặc Tử](../triet-gia/mac-tu.md) sáng lập Mặc gia, trường phái từng đối trọng ngang ngửa Nho gia thời Chiến Quốc rồi lụi dần và biến mất khoảng giữa thời Tây Hán. Ông và môn đồ là những người đầu tiên ở Trung Hoa lập luận từng bước để tìm một chuẩn mực đạo đức khách quan, thay vì chỉ dựa vào tập tục (Fraser, SEP). Luận đề cốt lõi: **kiêm ái** (兼愛), quan tâm bao trùm mọi người, không gạt ai ra ngoài; và **phi công** (非攻), phản đối chiến tranh xâm lược.
 
 !!! info "Về văn bản này"
     - **Tác giả, thời điểm:** Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN. Sách *Mặc Tử* là tuyển tập nhiều người viết qua nhiều thời kỳ; không phần nào tự nhận do chính tay ông viết. Theo mục lục đời Hán, sách có 71 thiên, nay mất 18 (Fraser, SEP).
@@ -106,7 +106,7 @@ Soi từng bước:
 
 - **"Kiêm ái là yêu người dưng y như cha mẹ, bỏ mặc gia đình."** Chữ "ái" ở đây gần với *quan tâm* hơn là tình cảm nồng nhiệt. Mặc gia đòi quan tâm đạo đức tới mọi người, không đòi đối xử với mọi người như nhau; hiếu và từ vẫn là điều tốt trong hệ thống của họ (Fraser, SEP).
 - **"Mặc Tử phản đối mọi chiến tranh."** Ông phản đối chiến tranh *xâm lược*. Hai mươi mốt thiên cuối sách bàn toàn về kỹ thuật giữ thành khi bị vây (Fraser, SEP).
-- **"Mặc Tử là Bentham thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
+- **"Mặc Tử là [Bentham](../triet-gia/bentham.md) thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
 
 ## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 

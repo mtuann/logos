@@ -1,0 +1,125 @@
+{
+  "unit": "doc/aristotle-dao-duc.md#nguon",
+  "hash": "sha256:cdab04a5350fca32877dea193b06a5c2d94a411171f8c5d2548fa2bd2b929c91",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Aristotle, Nicomachean Ethics, bản dịch W. D. Ross, Internet Classics Archive",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "Nicomachean Ethics By Aristotle Translated by W. D. Ross",
+          "where": "đầu file; trang https://classics.mit.edu/Aristotle/nicomachaen.html trả về 200"
+        }
+      ]
+    },
+    {
+      "text": "The Works of Aristotle, tập IX, bản dịch W. D. Ross (Oxford; lời tựa đề tháng 7/1925), bản scan trên Internet Archive",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/dli.ernet.6106",
+          "quote": "VOLUME IX ETHICA NICOMACHEA By W. D. ROSS ... OXFORD UNIVERSITY PRESS; Preface ký \"W. D. ROSS, July 1925\"",
+          "where": "metadata \"The Works Of Aristotle Vol-ix\", ảnh trang preface đã mở (n8)"
+        }
+      ]
+    },
+    {
+      "text": "Aristotle, Ethica Nicomachea, bản Hy Lạp của J. Bywater (1894), Perseus — đối chiếu số Bekker",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053",
+          "quote": "Aristotle, Nicomachean Ethics, bekker page 1094a ... J. Bywater, Ed.",
+          "where": "trang Perseus; TEI: Ingram Bywater, Clarendon Press, Oxford, 1894"
+        }
+      ]
+    },
+    {
+      "text": "Kraut, Richard, \"Aristotle's Ethics\", SEP (bản lưu fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "Aristotle’s Ethics (Stanford Encyclopedia of Philosophy/Fall 2026 Edition) ... Copyright © 2026 by Richard Kraut",
+          "where": "trang đầu và chân trang"
+        }
+      ]
+    },
+    {
+      "text": "Hursthouse, Rosalind & Glen Pettigrove, \"Virtue Ethics\", SEP (bản lưu fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/",
+          "quote": "Copyright © 2026 by Rosalind Hursthouse Glen Pettigrove",
+          "where": "chân trang"
+        }
+      ]
+    },
+    {
+      "text": "Kant, Die Metaphysik der Sitten (1797), Ak 6:383–384, 6:404; Anthropologie in pragmatischer Hinsicht (1798), Ak 7:149, korpora.org",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/Kant/aa06/404.html",
+          "quote": "Kant: AA VI, Die Metaphysik der Sitten. ... , Seite 404",
+          "where": "trang mở được; các trang aa06/383, aa06/384, aa07/149 cùng host đều mở được"
+        }
+      ]
+    },
+    {
+      "text": "Doris, John M. (1998), \"Persons, Situations, and Virtue Ethics\", Noûs 32(4): 504–530, DOI 10.1111/0029-4624.00136",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/0029-4624.00136",
+          "quote": "Persons, Situations, and Virtue Ethics | Noûs | 32 | 4 | 504-530 | 1998-12",
+          "where": "Crossref (doi.org trả 403 với bot)"
+        }
+      ]
+    },
+    {
+      "text": "Darley, John M. & C. Daniel Batson (1973), \"From Jerusalem to Jericho\", JPSP 27(1): 100–108, DOI 10.1037/h0034449",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1037/h0034449",
+          "quote": "\"From Jerusalem to Jericho\": A study of situational and dispositional variables in helping behavior. | Journal of Personality and Social Psychology | 27 | 1 | 100-108 | 1973-07",
+          "where": "Crossref"
+        }
+      ]
+    },
+    {
+      "text": "Kamtekar, Rachana (2004), \"Situationism and Virtue Ethics on the Content of Our Character\", Ethics 114(3): 458–491, DOI 10.1086/381696",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/381696",
+          "quote": "Situationism and Virtue Ethics on the Content of Our Character | Ethics | 114 | 3 | 458-491 | 2004-04",
+          "where": "Crossref"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi mục nguồn khớp. Lưu ý: DOI resolve trả 403 với bot nhưng metadata Crossref khớp. Metadata Archive.org ghi date 1915 là sai so với lời tựa July 1925 (lỗi của kho scan, không phải bài)."
+}

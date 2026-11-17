@@ -82,7 +82,7 @@ Hai câu cuối nổi tiếng nhất, quen thuộc qua bản dịch thơ của N
 
     Vậy mới biết: Bụt ở ngay trong nhà, chẳng phải tìm đâu xa. Vì ta quên mất cái gốc nên mới đi tìm Bụt; đến khi biết ra thì Bụt chính là ta. — Sống giữa bụi trần mà vui với đạo, hãy cứ tùy duyên; đói thì ăn, mệt thì ngủ. Trong nhà có báu, thôi tìm kiếm; gặp cảnh mà tâm không vướng, chớ hỏi thiền. *(bản dịch của Logos)*
 
-Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "vốn, thật là". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
+Phần Nôm là tiếng Việt thế kỷ 13–14: "cong" là "trong", "khuây" là "quên", "bản" là "gốc", "cốc" là "biết", "chỉn" là "chính". Hai đoạn nói cùng một ý: khả năng giác ngộ (Bụt, "báu trong nhà") không nằm ở chùa xa hay núi sâu mà ở ngay nơi mỗi người. Nếu vậy, nơi chốn không quyết định việc tu, và người ta có thể tu ngay giữa đời. "Vô tâm" không phải vô cảm, mà là gặp cảnh không bị cảnh kéo đi. (Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 "gương" thay cho 境 "cảnh"; cách đọc phổ biến là "đối cảnh".)
 
 > Câu hỏi: "Ở giữa đời mà tâm không vướng": nghe như đặc quyền của một ông vua đã đủ đầy. Một người còn lo cơm áo có tu theo cách này được không?
 
@@ -160,7 +160,7 @@ Thử xem bạn nắm được đến đâu.
 - [Hướng dẫn đọc Bát nhã Tâm kinh](tam-kinh.md) — gốc kinh điển của tư tưởng "không" trong thiền
 - [Nguyễn Trãi: Bình Ngô đại cáo](nguyen-trai-binh-ngo.md) — từ thơ thiền Lý–Trần đến văn chính luận: cùng một nền văn hiến
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam thời Lý–Trần trong khu vực
-- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — thơ thiền đặt cạnh câu hỏi triết học về cái đẹp
+- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — câu hỏi triết học về cái đẹp, để đọc cạnh thơ thiền (trang ấy không bàn thơ thiền)
 
 ## Nguồn {#nguon}
 

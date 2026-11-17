@@ -1,0 +1,97 @@
+{
+  "unit": "doc/dao-duc-kinh.md#nguon",
+  "hash": "sha256:ad25911a2b0ab6dd731a5316de958c76de5a457e7de56f59f76b6d7779798f9f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
+  "claims": [
+    {
+      "text": "Hàn Phi Tử: thiên 20 \"Giải Lão\", thiên 21 \"Dụ Lão\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/韓非子",
+          "quote": "解老第二十 ... 喻老第二十一",
+          "where": "mục lục"
+        }
+      ]
+    },
+    {
+      "text": "Chan, Alan, \"Laozi\", SEP (bản sửa 2025), URL bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "copyright notice (Alan Chan, 2025)",
+          "where": "trang cuối"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "The Laozi Story",
+          "where": "mở được"
+        }
+      ]
+    },
+    {
+      "text": "Pines, Yuri, \"Legalism in Chinese Philosophy\", SEP, URL archives/fall2026/entries/chinese-legalism/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/",
+          "quote": "argumentative devices that were \"not fully assimilated\" into Han Fei's thought",
+          "where": "mở được; nội dung Pines khớp"
+        }
+      ]
+    },
+    {
+      "text": "URL ctext.org (dao-de-jing, analects/wei-ling-gong, xunzi/tian-lun, hanfeizi) mở được và đúng nội dung",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "道可道，非常道，名可名，非常名；",
+          "where": "quyết định 34: URL đúng mẫu, nội dung đối chiếu ở zh.wikisource; các dòng Nguồn trùng nguyên văn bản ghi frozen sources/ctext.dao-de-jing, sources/ctext.analects-wei-ling-gong, sources/ctext.xunzi-tian-lun, sources/ctext.hanfeizi"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/衛靈公第十五",
+          "quote": "無爲而治者，其舜也與！",
+          "where": "quyết định 34: đối chiếu thiên Vệ Linh Công (theo evidence sources__ctext.analects-wei-ling-gong)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching",
+          "quote": "https://ctext.org/dao-de-jing ; https://ctext.org/xunzi/tian-lun",
+          "where": "liên kết ngoài của bài (API extlinks) xác nhận mẫu URL ctext.org/dao-de-jing và ctext.org/xunzi/tian-lun; trang Han_Feizi liên kết ctext.org/hanfeizi"
+        }
+      ],
+      "kb": "sources/ctext.dao-de-jing"
+    },
+    {
+      "text": "Nội dung các tài liệu nguồn 2-3 đúng với trích: Luận ngữ 衛靈公, Tuân Tử 天論 (thiên 17)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/天論篇",
+          "quote": "第十七篇《天論篇》 (kết quả fetch: đây là thiên 17)"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/論語/衛靈公第十五",
+          "quote": "子曰：「無爲而治者，其舜也與！",
+          "where": "Wikisource, 衛靈公"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "ctext.org trả về thông báo cấm scrape; chưa xác nhận được bốn URL ctext. Nội dung tương ứng đã đối chiếu qua zh.wikisource. Gợi ý: có thể thêm dẫn zh.wikisource làm bản đối chiếu.\nLượt 2: Claim URL ctext ghi dung theo quyết định 34 (ctext trả trang chống bot, không vượt); bốn dòng Nguồn trùng bản ghi sources/ctext.* đã frozen; mẫu URL xác nhận qua liên kết ngoài Wikipedia."
+}

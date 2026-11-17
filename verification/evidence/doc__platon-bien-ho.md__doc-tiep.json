@@ -1,0 +1,95 @@
+{
+  "unit": "doc/platon-bien-ho.md#doc-tiep",
+  "hash": "sha256:2f4e07e4f489b648c65e11c3c4f7ff6c9a4f661a25cc5b775d6ad8cae145bbf7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Biết một điều nghĩa là gì? (../cau-hoi/tri-thuc.md): trang tồn tại, tiêu đề khớp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "<title> trang đã build"
+        }
+      ]
+    },
+    {
+      "text": "Cuộc sống có ý nghĩa không? (../cau-hoi/y-nghia-song.md): tồn tại, tiêu đề khớp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Cuộc sống có ý nghĩa không? - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Phép biện chứng Socrates (../cong-cu/bien-chung-socrates.md): tồn tại, tiêu đề khớp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/bien-chung-socrates/",
+          "quote": "Phép biện chứng Socrates - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Chết có đáng sợ không? — lưỡng nan của 40c bên cạnh Epicurus và Nagel",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cai-chet/",
+          "quote": "Chết có đáng sợ không? - Logos Zero"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "either it is virtually nothingness... or it is, as people say, a change and migration of the soul",
+          "where": "Apology 40c (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Đọc \"Cẩm nang\" của Epictetus — khép lại bằng ý của 30c–d: họ giết được Socrates nhưng không hại được ông",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45109",
+          "quote": "“Anytus and Melitus may kill me indeed; but hurt me they cannot.”",
+          "where": "Enchiridion, câu cuối (chương 53 theo cách đánh số thông dụng), chú thích: Plato, Apology, Chap. XVIII; bản chép web.archive.org"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=30c",
+          "quote": "for neither Meletus nor Anytus could injure me",
+          "where": "Apology 30c (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — câu hỏi mà 38a đặt ra trực tiếp nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "điều gì làm cho một cuộc sống có ý nghĩa"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Các liên kết nội bộ trỏ tới file có thật, tiêu đề/mô tả khớp mô tả; Ench. kết thúc bằng câu Anytus-Melitus (Gutenberg #45109, bản dịch Long). Không kiểm tính mở được trên site đã build (ngoài phạm vi).\nLượt 2: Đã mở lại các URL mtuann.github.io/logos/... ngày 2026-11-17 (curl): <title> trùng từng chữ với quote đã ghi; trang cai-chet có mục Epicurus và Nagel, trang pho-quat có mục Aristotle → giữ dung. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 1 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}

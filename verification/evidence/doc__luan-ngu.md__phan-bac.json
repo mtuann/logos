@@ -1,0 +1,157 @@
+{
+  "unit": "doc/luan-ngu.md#phan-bac",
+  "hash": "sha256:00a9584b6b0d2ee80aace6c94f8eab7356269d756874cc6f61cfb20279369a48",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "claims": [
+    {
+      "text": "Mặc gia phê phán tang lễ linh đình, để tang kéo dài khi dân còn nghèo",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "avoids wasting resources on extravagant funerals and prolonged mourning (customs promoted by the Ru and others)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "lavish funerals and lengthy mourning yields poverty, a small population, and social turmoil"
+        }
+      ]
+    },
+    {
+      "text": "Mặc gia đề xuất kiêm ái (inclusive care): quan tâm mọi người",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "emphasizing impartial concern for all"
+        }
+      ]
+    },
+    {
+      "text": "Phái Mặc gia phê phán Nho gia ... thương người thân hơn người dưng. Họ đề xuất kiêm ái: thương mọi người như nhau.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Họ đề xuất **kiêm ái**: quan tâm đến mọi người, không gạt ai ra ngoài. Cách hiểu kiêm ái là \"như nhau\" tuyệt đối còn được tranh luận: Chris Fraser (SEP) cho rằng Mặc gia vẫn thừa nhận trong thực hành ta chăm người thân trước, và kiêm ái đòi mối quan tâm tương tự dành cho mọi người chứ không đòi đối xử như nhau.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Contrary to a common misperception, Mohist ethics does not advocate that we treat everyone alike, but only that we have similar moral concern for everyone."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "the Mohists evidently agree with the commonsense view that we have a greater ethical responsibility toward those with whom we have close personal relationships, and in practice we should care for them first"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Mạnh Tử (Mencius) coi kiêm ái là bỏ cha, các nhà Nho sau theo đó cho là trái bản tính con người (cơ sở cho \"Cách đáp lại\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "Mencius, who is reported to have equated inclusive care with renouncing one's father"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "maintaining that it runs counter to human nature"
+        }
+      ]
+    },
+    {
+      "text": "Cách đáp lại 1: thương người thân là điểm khởi đầu để lòng nhân lan rộng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "describes it as building from the affection one feels for close family members, through successive stages to finally develop into a more universal, fully-fledged virtue"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "it would take a heroic feat of social engineering to get us all to care about strangers exactly as much as we care about ourselves"
+        }
+      ]
+    },
+    {
+      "text": "13.18: cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E5%AD%90%E8%B7%AF%E7%AC%AC%E5%8D%81%E4%B8%89",
+          "quote": "吾黨之直者異於是，父爲子隱，子爲父隱，直在其中矣。",
+          "where": "十三之十八"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Uprightness is found in this. (13.18)"
+        }
+      ]
+    },
+    {
+      "text": "Cách đáp lại 2: người theo Khổng Tử nói xã hội tốt mọc từ gia đình gắn bó; luật bắt con tố cha hại nền tảng ấy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "a trade-off similar to a story in the Analects about a man named Zhi Gong (Upright Gong) who testified that his father stole a sheep"
+        }
+      ]
+    },
+    {
+      "text": "Cách đáp lại 1: 3.4 nói lễ xa hoa chẳng bằng tiết kiệm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E5%85%AB%E4%BD%BE%E7%AC%AC%E4%B8%89",
+          "quote": "禮，與其奢也，寧儉",
+          "where": "三之四"
+        }
+      ]
+    },
+    {
+      "text": "Thứ bậc và gia đình đặt trên công lý ... Phải chăng đây là mầm của thói bao che?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "one's family role and state role could conflict",
+          "where": "bàn chuyện Trực Cung (13.18)"
+        }
+      ]
+    },
+    {
+      "text": "Lễ gò bó, quân tử xa vời. Nhiều người hiện đại thấy \"lễ\" là khuôn phép trói buộc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "led many in the modern period to label him a traditionalist"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "the things that held China back from modernization"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Lỗi vua ở Phản bác 1: đặt Mặc gia như người đòi thương mọi người \"như nhau\" và phê phán việc thương người thân trước; SEP gọi đây là hiểu lầm phổ biến và ghi Mặc gia vẫn chấp nhận chăm người thân trước. Cần cân nhắc cả câu \"đòi thương mọi người như nhau có thể vượt quá sức con người\" ở Cách đáp lại: SEP nói chỉ đúng với cách đọc \"như nhau tuyệt đối\" (probably untenable), nên cũng nên nêu rõ đó là một cách đọc. | Lượt 2: Phản bác 1 đã sửa đúng ý fix (bài hiện ghi \"quan tâm đến mọi người, không gạt ai ra ngoài\", dẫn Fraser SEP; Cách đáp lại nói rõ \"nếu hiểu ... như nhau tuyệt đối\") → fixed. Thêm claim cho phản bác 2 và 3 (không gắn tác giả): SEP Confucius có nêu xung đột vai trò gia đình/nhà nước và phê phán hiện đại coi Khổng Tử là bảo thủ."
+}

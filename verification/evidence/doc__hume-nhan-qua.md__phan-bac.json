@@ -1,0 +1,122 @@
+{
+  "unit": "doc/hume-nhan-qua.md#phan-bac",
+  "hash": "sha256:f1359dc5443fe991e5cd1e8553373836075c4c5dedd2d2174937756b09d09810",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
+  "claims": [
+    {
+      "text": "Kant kể ký ức về Hume đã \"cắt ngang giấc ngủ giáo điều\" của ông (Prolegomena, 1783)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
+          "quote": "it was the remembrance of David Hume which, many years ago, first interrupted my dogmatic slumber",
+          "where": "Prolegomena Preface (AA 4:260); SEP ghi Prolegomena 1783"
+        }
+      ]
+    },
+    {
+      "text": "Theo Kant, nhân quả là một phạm trù tâm trí áp lên mọi kinh nghiệm, nên ta biết tiên nghiệm rằng mọi biến cố đều có nguyên nhân",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
+          "quote": "The former is in fact a synthetic a priori necessary truth holding as a transcendental principle of nature in general",
+          "where": "mục về Second Analogy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
+          "quote": "causality, for Kant, is a central example of a category or pure concept of the understanding"
+        }
+      ]
+    },
+    {
+      "text": "Đáp lại: nguyên tắc chung không cho biết quy luật cụ thể nào còn đúng ngày mai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
+          "quote": "he does not think that particular causal laws relating specific causes with specific effects are all synthetic a priori"
+        }
+      ]
+    },
+    {
+      "text": "phần đông giới nghiên cứu Kant thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "phần đông các nhà bình luận tiếng Anh thế kỷ 20 về Kant cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
+          "quote": "the majority of twentieth-century English-language commentators have rejected the idea that Kant has a genuine disagreement with Hume over the status of particular causal laws"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Ngoại tại luận: dùng quy nạp kiểm tra quy nạp chỉ là \"vòng tròn quy tắc\", không phải vòng tròn tiền đề; nếu quy tắc đáng tin thì niềm tin vẫn được biện minh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "They say that as long as R is in fact reliable, one can form a justified belief in the conclusion of an argument relying on R",
+          "where": "mục 4.1; \"rule-circular\" vs \"premise circular\"; Cleve 1984, Papineau 1992"
+        }
+      ]
+    },
+    {
+      "text": "Đáp lại: quy tắc \"phản quy nạp\" cũng tự biện minh được theo đúng kiểu ấy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "less sane inference rules such as counterinduction can support themselves in a similar fashion",
+          "where": "mục 4.1 (Salmon 1963)"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều triết gia ngày nay cho rằng quy luật tự nhiên phản ánh sự tất yếu có thật; câu hỏi quy nạp quay trở lại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "a “non-Humean, metaphysically robust conception of objective regularity” (BonJour 1998), which is thought of as involving actual natural necessity (Armstrong 1983; Foster 2004)",
+          "where": "mục 3.2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "The viability of the approach also depends on the tenability of a non-Humean conception of laws"
+        }
+      ]
+    },
+    {
+      "text": "Bảng PhilPapers 2020: Quy luật tự nhiên (câu chính), Hume (câu bổ sung); khảo sát không hỏi vấn đề quy nạp đã được giải chưa; mẫu chủ yếu nước nói tiếng Anh; câu bổ sung do người tự nguyện trả lời",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey",
+          "where": "Philosophers' Imprint 23: 11, 1–53 (2023)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một lỗi nhe (thiếu \"tiếng Anh\" so với SEP). Số trong bảng sinh từ [[pp:…]] và do tools/kb_philpapers + tools/philpapers-2020.md đảm nhiệm, tôi không kiểm số; chỉ kiểm tên câu hỏi: tools/philpapers-2020.md có dòng \"Quy luật tự nhiên (n ≈ 1.550)\" (Bảng 1) và \"Hume (quan điểm của ông là gì?)\" (Bảng 2) với đúng các lựa chọn. survey2020.philpeople.org trả 403 với bot nên chỉ mở được DOI. Lượt 2: bài hiện ghi \"phần đông các nhà bình luận Kant viết bằng tiếng Anh ở thế kỷ 20\", khớp fix và SEP → fixed: true; cập nhật hash."
+}

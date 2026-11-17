@@ -1,0 +1,102 @@
+{
+  "unit": "doc/hume-nhan-qua.md#doc-tiep",
+  "hash": "sha256:172b5aa48798cc9cc5552cb176b6da6692bfd82b7dde6dc3f8f712375f38dfae",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Khoa học khác gì phi khoa học? (cau-hoi/khoa-hoc.md) tồn tại và bàn về khoa học/quy nạp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/khoa-hoc/",
+          "quote": "Khoa học khác gì với phi khoa học? Vấn đề phân giới - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        }
+      ]
+    },
+    {
+      "text": "Biết một điều nghĩa là gì? và Nhân quả là gì? và Khi bằng chứng chỉ làm cho có lẽ đúng tồn tại với đúng tiêu đề",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nhan-qua-ban-chat/",
+          "quote": "Nhân quả là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "Khi bằng chứng chỉ làm cho có lẽ đúng - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        }
+      ]
+    },
+    {
+      "text": "[Khoa học khác gì phi khoa học?](../cau-hoi/khoa-hoc.md) — nếu nhân quả không có nền móng lý tính, khoa học đứng trên cái gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/khoa-hoc/",
+          "quote": "Đọc thêm: hướng dẫn đọc Hume về nhân quả, gốc của vấn đề quy nạp."
+        }
+      ]
+    },
+    {
+      "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — vấn đề quy nạp, thách thức lớn của tri thức luận.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — duy lý luận đối đầu duy nghiệm luận, nơi vấn đề quy nạp của Hume được nhắc tới.",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "chính Hume đã chỉ ra rằng quy nạp rất khó biện minh mà không đi vòng",
+          "where": "lập trường 3; đây là câu duy nhất về quy nạp, trang đích chủ yếu bàn hoài nghi luận, Gettier, duy lý/duy nghiệm"
+        }
+      ]
+    },
+    {
+      "text": "[Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md) — các lý thuyết nhân quả sau Hume.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nhan-qua-ban-chat/",
+          "quote": "Hume: nhân quả chỉ là nối tiếp thường xuyên và thói quen kỳ vọng"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nhan-qua-ban-chat/",
+          "quote": "Thuyết phản thực"
+        }
+      ]
+    },
+    {
+      "text": "[Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md) — quy nạp trong đời thường.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "Bốn dạng quy nạp thường gặp"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Liên kết nội bộ: kiểm file đích trong repo (tiêu đề khớp; link text trang đầu hơi rút gọn \"Khoa học khác gì phi khoa học?\" so với tiêu đề đầy đủ, chấp nhận). Không mở site deploy. Lượt 2: mở 4 trang đích trên mtuann.github.io/logos (200), tiêu đề khớp; thay nguồn file nội bộ bằng quote <title>. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}

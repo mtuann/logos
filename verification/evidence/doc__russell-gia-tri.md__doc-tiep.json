@@ -1,0 +1,96 @@
+{
+  "unit": "doc/russell-gia-tri.md#doc-tiep",
+  "hash": "sha256:a278abcc28be101c38dae4ba20602a66c5cb813802d9ac11fcf5c285c9c4dfcf",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09 + agent-kiem-5.4-r07 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Cuốn sách của Russell bắt đầu từ chính câu 'biết một điều nghĩa là gì?'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "CHAPTER I. APPEARANCE AND REALITY",
+          "where": "Chương I mở bằng 'Is there any knowledge in the world which is so certain that no reasonable man could doubt it?' (đối chiếu đầu chương I Gutenberg)"
+        }
+      ]
+    },
+    {
+      "text": "Đoạn tóm tắt cuối chương XV nguyên văn và bản dịch có ở docs/bat-dau/index.md",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "Thus, to sum up our discussion of the value of philosophy; Philosophy is to be studied",
+          "where": "XV.13; đối chiếu trích ở docs/bat-dau/index.md dòng 110 khớp XV.13"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/",
+          "quote": "to sum up our discussion of the value of philosophy; Philosophy is to be studied, not for the sake of an",
+          "where": "trang deploy có đoạn nguyên văn XV.13"
+        }
+      ]
+    },
+    {
+      "text": "Các liên kết nội bộ (cau-hoi/tri-thuc, y-nghia-song, bat-dau/index, bat-dong-tri-thuc) trỏ tới file có thật",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Cuộc sống có ý nghĩa không? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/",
+          "quote": "Triết học là gì, và không phải là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/bat-dong-tri-thuc/",
+          "quote": "Khi người giỏi cãi nhau: bất đồng về tri thức - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        }
+      ]
+    },
+    {
+      "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — triết học có làm đời đáng sống hơn?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Ý nghĩa = dấn thân vào điều đáng giá",
+          "where": "lập trường 2; câu hỏi của mô tả là câu hỏi đặt cho người đọc"
+        }
+      ]
+    },
+    {
+      "text": "[Khi người giỏi cãi nhau](../cau-hoi/bat-dong-tri-thuc.md) — sống với những câu hỏi chưa có đáp án chung.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/bat-dong-tri-thuc/",
+          "quote": "mà vẫn chưa có bên nào thắng thế rõ ràng"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Wikisource (1912) mở được; đối chiếu Gutenberg 5827 qua mirror gutenberg.pglaf.org. Mô tả chủ đề trang liên kết (câu hỏi 'Cuộc sống có ý nghĩa không?') thuộc đơn vị khác. Lượt 2: mở 4 trang đích trên site deploy (200), ghi <title>; trang bat-dau có đoạn XV.13 nguyên văn. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 2 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}

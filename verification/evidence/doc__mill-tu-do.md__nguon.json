@@ -1,0 +1,71 @@
+{
+  "unit": "doc/mill-tu-do.md#nguon",
+  "hash": "sha256:de9f700756d48e4616eaf0d7cd3790c0ab09575f9def9c257365c86aff43a47e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "Mill (1859), On Liberty, London: John W. Parker and Son",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28on+liberty%29+AND+creator%3Amill+AND+date%3A1859&fl%5B%5D=publisher&rows=8&output=json",
+          "quote": "\"publisher\":\"John W. Parker and Son (London)\",\"title\":\"On Liberty\"",
+          "where": "danh mục Internet Archive"
+        }
+      ]
+    },
+    {
+      "text": "https://www.gutenberg.org/ebooks/34901 là On Liberty",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "The Project Gutenberg eBook of On Liberty",
+          "where": "ebook 34901"
+        }
+      ]
+    },
+    {
+      "text": "Mill (1873), Autobiography, Gutenberg 10378",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/10378/pg10378.txt",
+          "quote": "The Project Gutenberg eBook of Autobiography",
+          "where": "ebook 10378; có CHAPTER VII 1840-1870"
+        }
+      ]
+    },
+    {
+      "text": "Macleod, Christopher, 'John Stuart Mill', SEP, bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.mill"
+    },
+    {
+      "text": "Vosoughi, Roy & Aral (2018), Science 359 (6380): 1146–1151, doi 10.1126/science.aap9559",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.aap9559",
+          "quote": "The spread of true and false news online",
+          "where": "Crossref: volume 359, issue 6380, page 1146-1151, issued 2018-03-09; doi.org chuyển hướng tới science.org (403 với bot)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. SEP: tên Macleod, Christopher xác nhận qua thẻ citation_author của trang plato.stanford.edu/archives/fall2026/entries/mill/."
+}

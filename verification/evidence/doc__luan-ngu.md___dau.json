@@ -1,0 +1,90 @@
+{
+  "unit": "doc/luan-ngu.md#_dau",
+  "hash": "sha256:c99b2470447d9429f811fbb353caba0ed7225a6ce7e9633281f62ff0df47e853",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "claims": [
+    {
+      "text": "Khổng Tử (551–479 TCN theo truyền thống)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/khong-tu"
+    },
+    {
+      "text": "Luận ngữ ... gồm 20 thiên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E",
+          "quote": "學而第一 … 堯曰第二十",
+          "where": "mục 各篇"
+        }
+      ]
+    },
+    {
+      "text": "theo truyền thống, các học trò đời thứ nhất và thứ hai của Khổng Tử biên soạn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "compiled by first and second generation disciples of Confucius"
+        }
+      ]
+    },
+    {
+      "text": "một số nhà nghiên cứu cho rằng văn bản chỉ được chú ý rộng rãi từ cuối thế kỷ 2 TCN",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "writers started to demonstrate an acute interest in the Analects only in the late second and first centuries BCE"
+        }
+      ]
+    },
+    {
+      "text": "bản dịch tiếng Anh của James Legge, 1861, sửa lại năm 1893",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Author:James_Legge",
+          "quote": "Vol. I (1861 & 1893)"
+        }
+      ]
+    },
+    {
+      "text": "\"15.24\" là thiên 15 (Vệ Linh Công), chương 24, theo cách đánh số của ctext.org; liên kết https://ctext.org/analects",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "(12.2, cf. 5.12, 15.24)",
+          "where": "SEP dẫn 15.24 cùng 12.2 làm chỗ của câu 己所不欲, cùng hệ số với ctext"
+        },
+        {
+          "url": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download",
+          "quote": "15.24 Zigong asked, “It there a single saying that one may put into practice all one’s life?”",
+          "where": "Eno (2015), cùng hệ số SEP"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E8%A1%9B%E9%9D%88%E5%85%AC%E7%AC%AC%E5%8D%81%E4%BA%94",
+          "quote": "子曰：「其恕乎！己所不欲，勿施於人。」",
+          "where": "quyết định 34: URL đúng mẫu, nội dung đối chiếu ở zh.wikisource 論語/衛靈公第十五 (十五之二三, hệ Legge chênh +1); https://ctext.org/analects đúng mẫu đường dẫn ctext; trùng bản ghi frozen sources/ctext.analects"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. Đã thử web.archive.org: bị từ chối. Số chương kiểu ctext.org chỉ đối chiếu gián tiếp: SEP dùng cùng số (vd 15.24, 12.2, 13.18); Wikisource đánh số theo Legge nên lệch 1-2 (vd 15.23, 6.9). Chữ \"sửa lại\" của Legge 1893: Wikisource chỉ ghi hai năm in, không ghi \"bản sửa\" (nhẹ, không phải lỗi). | Lượt 2: claim 15.24/ctext: đánh số đối chiếu SEP (12.2, cf. 5.12, 15.24) và Eno 2015 (cùng hệ); URL ctext theo quyết định 34, nội dung đối chiếu Wikisource."
+}

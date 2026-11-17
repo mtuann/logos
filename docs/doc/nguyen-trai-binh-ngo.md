@@ -79,7 +79,7 @@ Trước câu này là một đoạn dài kể chính sách của quân Minh: th
 
 ## Tái dựng lập luận {#tai-dung-lap-luan}
 
-- **P1.** Dùng binh chỉ chính đáng khi nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
+- **P1.** Dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).
 - **P2.** Quân Minh bóc lột, tàn hại dân lành: chính là "kẻ bạo".
 - **P3.** Đại Việt là một nước có cõi bờ, phong tục, văn hiến riêng, ngang hàng phương Bắc.
 - **P4.** Cuộc kháng chiến nhằm trừ bạo và kết thúc bằng tha hàng binh, đem thái bình cho dân.
@@ -129,7 +129,7 @@ Thử xem bạn nắm được đến đâu.
 - [Thơ văn Lý–Trần: tuyển](tho-van-ly-tran.md) — truyền thống văn chương Việt trước Nguyễn Trãi: vô thường, thiền và thơ
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md) — Nguyễn Trãi định nghĩa lại "nhân nghĩa"
 - [Chiến tranh có bao giờ chính đáng không?](../cau-hoi/chien-tranh-chinh-dang.md) — từ "trừ bạo" đến lý thuyết chiến tranh chính nghĩa
-- [Mạnh Tử: tính thiện](manh-tu-tinh-thien.md) — nguồn của ý "thương dân, đánh kẻ có tội"
+- [Mạnh Tử: tính thiện](manh-tu-tinh-thien.md) — cùng truyền thống Nho giáo mà bài cáo mượn ngôn ngữ (ý "điếu phạt" ở thiên *Lương Huệ vương hạ* không có trong hướng dẫn này)
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam trong dòng lịch sử Đông Á
 
 ## Nguồn {#nguon}

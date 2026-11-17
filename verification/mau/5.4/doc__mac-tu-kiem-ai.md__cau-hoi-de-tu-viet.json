@@ -1,0 +1,37 @@
+{
+  "unit": "doc/mac-tu-kiem-ai.md#cau-hoi-de-tu-viet",
+  "hash": "sha256:6579946617af1637af2cffb139bd69a667e0e7253a7579bc5bb5db0ec757805d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m03",
+  "claims": [
+    {
+      "text": "Bạn có đồng ý \"chỉ lo cho mình là gốc của xung đột\" không? Lấy một xung đột thực tế (gia đình, công sở, quốc tế) và thử phân tích bằng lăng kính của Mặc Tử.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90/%E5%85%BC%E6%84%9B%E4%B8%8A", "quote": "兄自愛也，不愛弟，故虧弟而自利；君自愛也，不愛臣，故虧臣而自利。是何也？皆起不相愛。", "where": "墨子·兼愛上"}
+      ]
+    },
+    {
+      "text": "Nếu phải chọn giữa \"thương người thân trước\" (Nho gia) và \"quan tâm mọi người như nhau\" (Mặc gia), bạn chọn bên nào, và cái giá của lựa chọn ấy là gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/", "quote": "people must inclusively care for each other, having as much concern for others’ lives, families, and communities as for their own", "where": "mục tổng quan, “Inclusive Care” and “Condemning Aggression”"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/", "quote": "Mencius’s doctrine of extending our natural concern for kin so that it reaches everyone", "where": "phần ảnh hưởng của Mặc gia lên Nho gia"}
+      ]
+    },
+    {
+      "text": "So sánh kiêm ái với phong trào \"vị tha hiệu quả\" (*effective altruism*) ngày nay: hai bên giống nhau ở thước đo hệ quả, nhưng khác nhau ở đâu?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/", "quote": "advanced the world’s earliest form of consequentialism, a remarkably sophisticated version based on a plurality of intrinsic goods", "where": "đoạn mở đầu"},
+        {"url": "https://ora.ox.ac.uk/objects/uuid:a12dc3d4-09ba-49cf-983b-71231f3ef615/files/m4f6354dcd585787835f4aa6c2dd91064", "quote": "Second, it is broadly consequentialist, maintaining that we should do whatever maximizes the sum of individual welfare at all times.", "where": "Iason Gabriel, “Effective Altruism and Its Critics”, phần mở đầu"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Mục chỉ gồm ba câu hỏi mở, không có dữ kiện năm/tên. Câu 3: Gabriel mô tả vị tha hiệu quả là 'broadly consequentialist'; có tác giả (MacAskill, Pummer) nhấn mạnh EA không phải một lý thuyết chuẩn tắc, nhưng câu hỏi chỉ nói 'giống nhau ở thước đo hệ quả' và để ngỏ chỗ khác, nên không tính là sai. ctext.org chặn bot; nguyên văn Kiêm ái thượng đối chiếu ở zh.wikisource."
+}

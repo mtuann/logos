@@ -93,7 +93,7 @@ Từ P3–P5 đến K1 là suy diễn, nhưng dựa trên một **giả định 
 
 **1. Kant: nhân quả là khuôn của tâm trí.** [Kant](../triet-gia/kant.md) kể rằng ký ức về Hume đã "cắt ngang giấc ngủ giáo điều" của ông (*Prolegomena*, 1783). Theo Kant, nhân quả là một phạm trù tâm trí áp lên mọi kinh nghiệm, nên ta biết *tiên nghiệm* (*a priori*) rằng mọi biến cố đều có nguyên nhân.
 
-*Cách đáp lại:* nguyên tắc chung ấy không cho biết quy luật *cụ thể* nào (bánh mì nuôi người) còn đúng ngày mai; phần đông giới nghiên cứu Kant thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm.
+*Cách đáp lại:* nguyên tắc chung ấy không cho biết quy luật *cụ thể* nào (bánh mì nuôi người) còn đúng ngày mai; phần đông các nhà bình luận Kant viết bằng tiếng Anh ở thế kỷ 20 cũng cho rằng với Kant, quy luật cụ thể vẫn phải học từ kinh nghiệm.
 
 **2. Quy nạp tự biện minh được.** Một số triết gia theo **ngoại tại luận** (*externalism*) cho rằng dùng quy nạp để kiểm tra quy nạp chỉ là "vòng tròn quy tắc", không phải vòng tròn tiền đề: nếu quy tắc thật sự đáng tin, niềm tin rút ra từ nó vẫn được biện minh.
 

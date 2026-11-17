@@ -1,0 +1,86 @@
+{
+  "unit": "doc/epictetus-cam-nang.md#tu-kiem-tra",
+  "hash": "sha256:5b15d265b3ea3d7f7f42380a60752dcf82255de5024f3520241be71322a1904a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Q1: Theo §1, điều tùy thuộc vào ta là \"Phán đoán và mong muốn của ta\" (đáp án C); sức khỏe (thân thể), danh tiếng, chức vụ đều không tùy thuộc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "In our power are opinion ... movement towards a thing ... desire, aversion ... Not in our power are the body, property, reputation, offices",
+          "where": "§1 (Long)"
+        }
+      ]
+    },
+    {
+      "text": "Q2: §5 nhắc đến Socrates làm bằng chứng: nếu cái chết tự nó khủng khiếp thì Socrates đã thấy nó khủng khiếp (đáp án B); ba phương án còn lại sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing.",
+          "where": "§5 (Long)"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "Epictetus wrote nothing",
+          "where": "Long: Epictetus không viết Cẩm nang, loại phương án \"Socrates là người soạn\""
+        }
+      ]
+    },
+    {
+      "text": "Giải thích Q2: Socrates sống trước Epictetus hơn bốn thế kỷ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/socrates"
+    },
+    {
+      "text": "Q3: lời khuyên đúng tinh thần Cẩm nang: việc ôn tập và cách đánh giá chuyện trượt là của ta, đề thi thì không; xét lại phán đoán \"trượt là thảm họa\" và tiếp tục cố gắng (đáp án B)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "Men are disturbed not by the things which happen, but by the opinions about the things",
+          "where": "§5"
+        },
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Your goal, then, suggests Irvine, should not be to win the game—because that is not entirely within your control. Rather, it should be to play the best game you can, since that is within your control.",
+          "where": "mục Contemporary Stoicism: cố gắng là của ta, kết quả thì không"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/6/10661/10661-0.txt",
+          "quote": "it is the act of an ill-instructed man to blame others for his own bad condition",
+          "where": "§5: loại phương án \"đổ lỗi cho người ra đề\""
+        }
+      ]
+    },
+    {
+      "text": "Q4: phản bác \"nhiều thứ ta chỉ kiểm soát một phần\" được đáp bằng cách tách phần đó thành mục tiêu bên trong: cố gắng hết sức là việc của ta, kết quả thì không (đáp án B)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/stoicism/",
+          "quote": "Irvine recasts the third category in terms of internalized goals, which makes more sense of the original dichotomy.",
+          "where": "mục Contemporary Stoicism"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả bốn câu: đáp án đúng đúng, ba phương án sai mỗi câu sai thật. Q2 giải thích: Socrates mất 399 TCN, Epictetus sinh khoảng 50: cách nhau khoảng 450 năm, đúng \"hơn bốn thế kỷ\" (dùng kho people/socrates và people/epictetus, nếu people/socrates có died -399)."
+}

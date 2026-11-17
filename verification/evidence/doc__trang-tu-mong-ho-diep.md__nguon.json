@@ -1,0 +1,72 @@
+{
+  "unit": "doc/trang-tu-mong-ho-diep.md#nguon",
+  "hash": "sha256:ef8983c369582eccca85668eb9d7cd8ab5ef588078a3c721b90255c7570ce31c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
+  "claims": [
+    {
+      "text": "Hansen, Chad, \"Zhuangzi\", SEP (bản sửa 2024), URL bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "First published Wed Dec 17, 2014; substantive revision Sun Mar 24, 2024.",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Descartes, Meditations on First Philosophy, Suy niệm VI, bản dịch John Veitch (phạm vi công cộng), en.wikisource",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI",
+          "quote": "since God is no deceiver, it necessarily follows that I am not herein deceived",
+          "where": "trang mở được nhưng không ghi tên dịch giả"
+        }
+      ],
+      "kb": "sources/wikisource.en.meditations-on-first-philosophy-meditation-vi"
+    },
+    {
+      "text": "Trang Tử, thiên 2 Tề vật luận, ctext.org/zhuangzi/adjustment-of-controversies và Legge (1891)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "南郭子綦隱几而坐，仰天而噓，嗒焉似喪其耦。",
+          "where": "quyết định 34: URL đúng mẫu, nội dung đối chiếu ở zh.wikisource"
+        },
+        {
+          "url": "https://archive.org/download/sacredbooksofchi01oxfo/sacredbooksofchi01oxfo_djvu.txt",
+          "quote": "Khi Wu Lun, or 'The Adjustment of Controversies'",
+          "where": "Legge, SBE 39 (1891)"
+        }
+      ],
+      "kb": "sources/ctext.zhuangzi-adjustment-of-controversies"
+    },
+    {
+      "text": "Nội dung thiên 2 đúng với trích dẫn (đối chiếu qua zh.wikisource)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "昔者莊周夢爲胡蝶",
+          "where": "Tề vật luận"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Không mở được ctext (cấm scrape), không xác nhận được dịch giả Veitch của bản en.wikisource (trang không nêu). Gợi ý người viết: ghi rõ \"bản dịch trên Wikisource\" hoặc xác minh dịch giả.\nLượt 2: Dòng Nguồn 1 và 3 trùng nguyên văn bản ghi frozen sources/ctext.zhuangzi-adjustment-of-controversies và sources/wikisource.en.meditations-on-first-philosophy-meditation-vi; ghi dung với kb (ngoại lệ quyết định 35)."
+}

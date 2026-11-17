@@ -1,0 +1,131 @@
+{
+  "unit": "doc/dao-duc-kinh.md#doc-tiep",
+  "hash": "sha256:638520906ab1fa01ea764b36f6d223c1650c781145ade1ed81f5cdd9ed8713e6",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Trăm nhà đua tiếng: bối cảnh Lão–Trang đối đầu Nho–Pháp; Cai trị bằng đức hay bằng pháp?: vô vi cạnh đức trị Nho gia và pháp trị Hàn Phi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/荀子/天論篇",
+          "quote": "老子有見於詘，無見於信",
+          "where": "Nho (Tuân Tử) phê Lão Tử"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
+          "quote": "can be regarded as the earliest extant commentary on the classic",
+          "where": "Hàn Phi Tử có thiên bình giải Lão Tử"
+        }
+      ]
+    },
+    {
+      "text": "Hướng dẫn đọc Bát nhã Tâm kinh: cái \"không\" của chương 11 đặt cạnh cái \"không\" Phật giáo",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+          "quote": "當其無，有車之用",
+          "where": "ch.11"
+        }
+      ]
+    },
+    {
+      "text": "[Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang đối đầu Nho–Pháp",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "[Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang giữa Nho, Mặc và Pháp",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+          "quote": "Lão Tử và Trang Tử: Đạo không nói được # Đối lập với Nho gia coi trọng lễ nghĩa là Đạo gia"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/han-phi/",
+          "quote": "“Giải Lão” (解老, thiên 20) và “Dụ Lão” (喻老, thiên 21) — Giải thích và minh họa Lão Tử ... Chịu ảnh hưởng từ: Lão Tử , Tuân Tử"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/",
+          "quote": "Its proclaimed goal was to attain “a rich state and a strong army”"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "[Trang Tử: Mộng hồ điệp](trang-tu-mong-ho-diep.md) — người kế thừa nổi tiếng nhất của Lão Tử",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "[Trang Tử: Mộng hồ điệp](trang-tu-mong-ho-diep.md) — người mà truyền thống xếp cùng Lão Tử thành Đạo gia (Lão–Trang)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Traditional orthodoxy understood Zhuangzi as an anti-rational, credulous follower of a mystical Laozi. That traditional view dominated mainstream readings of the text. Recent archaeological discoveries have largely laid that ancient orthodoxy to rest."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "Graham averred that “Inner Chapters” Zhuangzi had neither met Laozi nor knew of the Daode Jing text"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
+          "quote": "The discoveries in the early 1970s and 1990s together implied a later date for the emergence of the Laozi text."
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/trang-tu-mong-ho-diep/",
+          "quote": "Mộng hồ điệp — Trang Tử (thiên Tề vật luận)"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "[Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 và giới hạn của ngôn ngữ",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 đặt cạnh câu hỏi ngôn ngữ có định hình tư duy không",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ngon-ngu/",
+          "quote": "Phiên bản mạnh: ngôn ngữ quyết định thế giới của ta",
+          "where": "trang đích bàn giả thuyết Sapir–Whorf và ngôn ngữ riêng tư; không bàn điều không nói được hay \"giới hạn của ngôn ngữ\", không nhắc Lão Tử"
+        }
+      ]
+    },
+    {
+      "text": "[Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/",
+          "quote": "một bên là Khổng Tử và Mạnh Tử với đức trị — cai trị bằng đức hạnh; bên kia là Hàn Phi với pháp trị",
+          "where": "trang đích không bàn vô vi; mô tả chỉ đặt vô vi của bài này cạnh hai mô hình mà trang đích có"
+        }
+      ]
+    },
+    {
+      "text": "[Hướng dẫn đọc Bát nhã Tâm kinh](tam-kinh.md) — cái \"không\" của chương 11 đặt cạnh cái \"không\" của Phật giáo",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "Tướng không của các pháp ấy không sinh không diệt"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Đã kiểm bằng ls trong repo rằng các file đích tồn tại (trung-hoa, ngon-ngu, trang-tu-mong-ho-diep, duc-tri, han-phi, tam-kinh) và tiêu đề khớp mô tả. Nội dung trang đích thuộc đơn vị khác, không đánh giá ở đây. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): hai dòng mẫu ghi sai (Trăm nhà đua tiếng: 'Lão–Trang đối đầu Nho–Pháp'; Trang Tử: 'người kế thừa nổi tiếng nhất của Lão Tử') đã được sửa đúng chữ fix của mẫu; SEP Zhuangzi fall2026 mở lại xác nhận 'Traditional orthodoxy understood Zhuangzi as an…'. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 gộp \"Trăm nhà đua tiếng: bối cảnh Lão–Trang đối đầu Nho–Pháp…\" (dung) đã bị kiểm mẫu bác cho vế đầu; dòng nay đã sửa, xem claim sai fixed."
+}

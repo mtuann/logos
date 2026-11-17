@@ -1,0 +1,128 @@
+{
+ "unit": "doc/descartes-suy-niem.md#doc-tiep",
+ "hash": "sha256:25b4c6226f2cf191023f9b2d6db29d704ef81d6df2c53cdedac42ad444c80668",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k07 + agent-kiem-5.4-r09",
+ "claims": [
+  {
+   "text": "Biết một điều nghĩa là gì?: hoài nghi luận của Descartes (thí nghiệm giấc mơ) liên quan; file đích tồn tại (ls)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+     "quote": "I perceive so clearly that there exist no certain marks by which the state of waking can ever be distinguished from sleep",
+     "where": "Descartes là nguồn gốc của thí nghiệm giấc mơ"
+    }
+   ]
+  },
+  {
+   "text": "Tâm trí là gì?: cục sáp dẫn tới câu hỏi bản chất tâm trí; file đích tồn tại",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+     "quote": "there is nothing more easily or clearly apprehended than my own mind",
+     "where": "II §16"
+    }
+   ]
+  },
+  {
+   "text": "Ta có đang sống trong mô phỏng?: phiên bản hiện đại của ác thần; file đích tồn tại",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+     "quote": "some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me",
+     "where": "I §12"
+    }
+   ]
+  },
+  {
+   "text": "Đọc ẩn dụ hang động: một người tù khác; trang platon-hang-dong.md tồn tại",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+     "quote": "just as the captive, who, perchance, was enjoying in his dreams an imaginary liberty",
+     "where": "I §12: Descartes cũng dùng hình ảnh người tù"
+    }
+   ]
+  },
+  {
+   "text": "[Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "[Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+     "quote": "Thân xác và tâm trí: vấn đề lâu đời nhất của triết học",
+     "where": "H1 (HTTP 200); nhãn nav trong mkdocs.yml: 'Thân xác và tâm trí?'"
+    }
+   ],
+   "fixed": true
+  },
+  {
+   "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — hoài nghi luận của Descartes được trình bày đầy đủ ở đây",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+     "quote": "Năm 1641, René Descartes viết Suy niệm về Triết học Đệ nhất.",
+     "where": "lập trường 1 \"Hoài nghi luận\", kèm đoạn giấc mơ ở \"Đọc văn bản gốc\""
+    }
+   ]
+  },
+  {
+   "text": "[Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — cục sáp dẫn thẳng tới câu hỏi về bản chất tâm trí",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+     "quote": "Năm 1641, René Descartes xuất bản Suy niệm về Triết học Đệ nhất. Trong Suy niệm II",
+     "where": "lập trường 1 \"Nhị nguyên luận\""
+    }
+   ]
+  },
+  {
+   "text": "[Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — phiên bản hiện đại của ác thần",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/mo-phong/",
+     "quote": "Descartes từng tưởng tượng một \"ác quỷ lừa dối\" dựng nên mọi trải nghiệm của ta",
+     "where": "trang đích gọi \"ác quỷ lừa dối\"; khác chữ, cùng giả thuyết"
+    }
+   ]
+  },
+  {
+   "text": "[Đọc ẩn dụ hang động](platon-hang-dong.md) — một người tù khác, cũng phải tập nhìn ra ánh sáng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/doc/platon-hang-dong/",
+     "quote": "Anh phải tập nhìn từng bậc",
+     "where": "Đoạn 2 (515c–516c)"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": null,
+  "thuat-ngu": null
+ },
+ "result": "dat",
+ "notes": "Chỉ kiểm quan hệ với văn bản gốc và sự tồn tại file đích (ls), không kiểm nội dung các trang đích. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): nhãn đã đổi thành 'Thân xác và tâm trí', khớp H1/<title> trang đích (mở lại, HTTP 200). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Trang mo-phong gọi \"ác quỷ lừa dối\", bài này \"ác thần\": khác chữ ngoài phạm vi đơn vị."
+}

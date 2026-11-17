@@ -1,0 +1,108 @@
+{
+  "unit": "doc/luan-ngu.md#doc-tiep",
+  "hash": "sha256:cfbc8e55e69fce0f22f28f444f5513195398f6cecd50e50c2a52e83712c9cc5f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Liên kết nội bộ tới 5 trang đều tồn tại trong docs/ (dao-duc-hanh-dong, nho-giao-viet, noi-doi, mac-tu-kiem-ai, duc-tri)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học",
+          "where": "HTTP 200, <title>; cùng mở được: cau-hoi/nho-giao-viet/, cau-hoi/noi-doi/, doc/mac-tu-kiem-ai/, cau-hoi/duc-tri/ (mở 17/11/2026)"
+        }
+      ]
+    },
+    {
+      "text": "noi-doi.md bàn chữ tín (2.22) và \"cha giấu cho con\" (13.18)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "Khổng Tử nói (2.22): \"人而無信，不知其可也\"",
+          "where": "trang đã deploy"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó (13.18)",
+          "where": "trang đã deploy"
+        }
+      ]
+    },
+    {
+      "text": "duc-tri.md có lý tưởng quân tử trong chính trị",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/",
+          "quote": "\"Đức của người quân tử như gió, đức của kẻ tiểu nhân như cỏ — gió thổi qua, cỏ ắt rạp xuống.\"",
+          "where": "trang đã deploy (12.19)"
+        }
+      ]
+    },
+    {
+      "text": "nho-giao-viet.md: \"Luận ngữ đã định hình giáo dục Việt Nam thế nào\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan",
+          "where": "trang đã deploy; Luận ngữ là một trong Tứ thư (bối cảnh của bài, SEP)"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "Đọc thêm: hướng dẫn đọc Bình Ngô đại cáo và Luận ngữ",
+          "where": "trang đã deploy, trỏ ngược về Luận ngữ"
+        }
+      ]
+    },
+    {
+      "text": "[Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "[Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "1. Thuyết vị lợi: hãy tạo ra nhiều hạnh phúc nhất 2. Đạo đức học Kant: hãy hành động theo bổn phận 3. Đạo đức học đức hạnh: hãy trở thành con người tốt"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "( Aristotle ): hỏi sai câu hỏi rồi — đừng hỏi \"hành động nào đúng\", hãy hỏi \"người tốt sẽ làm gì\""
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "[Mặc Tử: kiêm ái](mac-tu-kiem-ai.md) — phía bên kia của cuộc tranh luận về lễ và tình thương.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/",
+          "quote": "Nho gia dạy thương người thân trước rồi mới tới người dưng"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/",
+          "quote": "ông chê đám tang xa hoa, âm nhạc tốn kém"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mô tả \"Luận ngữ đã định hình giáo dục Việt Nam\" hơi rộng so với nội dung nho-giao-viet.md (nói Tứ thư Ngũ kinh, khoa cử); nhẹ, ghi để người viết cân nhắc. Không mở web được cho claim nội bộ, đối chiếu file cục bộ. | Lượt 2: mở 5 trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang; nho-giao-viet bàn Tứ thư (gồm Luận ngữ) trong giáo dục khoa cử nên mô tả chấp nhận được. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): dòng dao-duc-hanh-dong đã sửa thành 'đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.', đúng fix của mẫu và khớp ba lý thuyết trên trang đích. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 1 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}

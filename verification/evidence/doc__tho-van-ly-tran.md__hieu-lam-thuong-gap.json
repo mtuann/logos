@@ -1,0 +1,73 @@
+{
+  "unit": "doc/tho-van-ly-tran.md#hieu-lam-thuong-gap",
+  "hash": "sha256:6065c0a757a32ed63602e2a2c592e6c2c1edfaea4d88fcca8abd763915a8ab6d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
+  "claims": [
+    {
+      "text": "Hai bài kệ đời Lý đều đi từ vô thường tới bình thản: \"đừng sợ hãi\", \"một cành mai\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Thị_đệ_tử",
+          "quote": "任運盛衰無怖畏",
+          "where": "Vạn Hạnh"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng",
+          "quote": "庭前昨夜一枝梅",
+          "where": "Mãn Giác"
+        }
+      ]
+    },
+    {
+      "text": "\"Tùy duyên\"... \"đối cảnh vô tâm\" là kết quả của tu tập (theo truyền thống Trúc Lâm)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Kệ_vân",
+          "quote": "Cư trần lạc đạo thả tùy duyên … Đối kính vô tâm mạc vấn thiền",
+          "where": "kệ kết; ý \"kết quả của tu tập\" là diễn giải của bài, đối chiếu thêm trang cau-hoi/truc-lam.md trong repo, chưa có nguồn ngoài"
+        },
+        {
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "Người tu nào đối cảnh vô tâm thì được phép không ngồi thiền, còn chưa được thì phải tinh tấn tăng giờ.",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
+        },
+        {
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "khi chúng ta phá được cái chấp đó rồi thì chúng ta ứng dụng tu “đối cảnh vô tâm”, như vậy lúc nào cũng là thiền. Song hiện giờ chúng ta chưa phá được chấp, nên phải ngồi",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều nhan đề, như \"Cáo tật thị chúng\", do người đời sau đặt khi chép lại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng",
+          "quote": "Nhan đề bài thơ do Lê Quý Đôn đặt",
+          "where": "Wikisource, theo Thơ văn Lý–Trần tập I"
+        },
+        {
+          "url": "https://baophapluat.vn/tho-thien-viet-nam-ky-3-nhung-bai-sam-cua-thien-su-van-hanh-post400814.html",
+          "quote": "tên \"Thị đệ tử\" do người đời sau đặt",
+          "where": "nguồn yếu (báo), diễn đạt qua trang mở"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Lượt 2: thêm nguồn ngoài cho ý \"đối cảnh vô tâm là kết quả của tu tập\": sách giảng Thích Thanh Từ (người khôi phục Thiền phái Trúc Lâm hiện đại), nguồn yếu."
+}

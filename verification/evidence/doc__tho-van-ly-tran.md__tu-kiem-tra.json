@@ -1,0 +1,71 @@
+{
+  "unit": "doc/tho-van-ly-tran.md#tu-kiem-tra",
+  "hash": "sha256:9cfdcd28a8461e8aa7920e5c6270047beb97ef2f30aab9685de9d32bba27f16d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
+  "claims": [
+    {
+      "text": "Q1: bài kệ Vạn Hạnh rút ra \"đừng sợ hãi trước thịnh suy\" (đáp án B); các phương án khác sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Thị_đệ_tử",
+          "quote": "任運盛衰無怖畏，盛衰如露草頭鋪。",
+          "where": "nhậm vận thịnh suy vô bố úy"
+        }
+      ]
+    },
+    {
+      "text": "Q2: cành mai chỉ cách nhìn khác ngay trong vòng lặp vô thường (đáp án B)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng",
+          "quote": "莫謂春殘花落盡，庭前昨夜一枝梅",
+          "where": "chữ 莫謂 nhắc đừng nói hoa rụng hết; phương án A, C, D không có cơ sở"
+        }
+      ]
+    },
+    {
+      "text": "Q3: \"Bụt ở cong nhà…\" nói khả năng giác ngộ ở ngay nơi mỗi người (đáp án B); \"khuây là quên, bản là gốc, cốc là biết\" trong lời giải",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội",
+          "quote": "Bụt ở cong nhà; Chẳng phải tìm xa. Nhân khuây bản nên ta tìm bụt; Đến cốc hay chỉn bụt là ta.",
+          "where": "đáp án B khớp ý chung; riêng gloss từ cổ (\"cốc là biết\") chưa kiểm được, xem unit doc-tung-doan"
+        },
+        {
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "Chữ nhân là bởi vì, chữ khuây là xao lãng, bản là gốc. … Chữ cốc là biết được",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
+        }
+      ]
+    },
+    {
+      "text": "Q4: Trần Nhân Tông vẫn làm vua, đánh giặc rồi mới xuất gia (đáp án B); Ngô Sĩ Liên chê Vạn Hạnh \"bỏ nhân luân\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "events/viet-nam.truc-lam.1299",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之二",
+          "quote": "然而决性命，廢人倫",
+          "where": "lời bàn Ngô Sĩ Liên"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Chỉ riêng gloss \"cốc là biết\" trong lời giải Q3 chưa kiểm được; đáp án các câu đều đúng. Đáp án đúng đều ở vị trí B (chỉ mục 1) ở cả bốn câu.\nLượt 2: gloss \"khuây là quên, bản là gốc, cốc là biết\" khớp sách giảng Thích Thanh Từ (nguồn yếu)."
+}

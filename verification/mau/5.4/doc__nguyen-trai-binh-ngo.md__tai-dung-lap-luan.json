@@ -1,0 +1,79 @@
+{
+  "unit": "doc/nguyen-trai-binh-ngo.md#tai-dung-lap-luan",
+  "hash": "sha256:e44baefefe0da2e366adb9ce6a1b455d25286e49f78e348d15a7cb53bfad69f1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m03",
+  "claims": [
+    {
+      "text": "**P1.** Dùng binh chỉ chính đáng khi nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。", "where": "câu mở đầu bài cáo, năm Đinh Mùi"}
+      ]
+    },
+    {
+      "text": "**P2.** Quân Minh bóc lột, tàn hại dân lành: chính là \"kẻ bạo\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "狂明伺隙，因以毒我民。... 重科厚歛，山澤罔有孑遺。開金塲，則冒嵐瘴而斧山陶沙。採明珠，則觸蛟龍而絙腰汆海。", "where": "đoạn kể tội"}
+      ]
+    },
+    {
+      "text": "**P3.** Đại Việt là một nước có cõi bờ, phong tục, văn hiến riêng, ngang hàng phương Bắc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "惟我大越之國，實為文獻之邦。山川之封域既殊，南北之風俗亦異。自趙、丁、李、陳之肇造我國，與漢、唐、宋、元而各帝一方"}
+      ]
+    },
+    {
+      "text": "**P4.** Cuộc kháng chiến nhằm trừ bạo và kết thúc bằng tha hàng binh, đem thái bình cho dân.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "神武不殺，予亦體上帝好生之心。參將方政、內官馬騏，先給艦五百餘艘 ... 總兵王通，參政馬瑛，又給馬數千餘疋 ... 予以全軍為上，而欲民與息", "where": "đoạn kết bài cáo"}
+      ]
+    },
+    {
+      "text": "**K.** Cuộc kháng chiến là việc nhân nghĩa; nền độc lập và thái bình vừa giành được là chính đáng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "卒能以大義而勝凶殘，以至仁而易強暴。... 于以開萬世太平之基，于以雪千古無窮之耻。"}
+      ]
+    },
+    {
+      "text": "P3 là tiền đề cho vế \"độc lập\": thiếu nó, P1 và P2 chỉ biện minh cho việc lật đổ bạo quyền, chưa đủ cho việc lập một nước riêng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "惟我大越之國，實為文獻之邦。... 與漢、唐、宋、元而各帝一方，雖強弱時有不同，而豪傑世未嘗乏。"}
+      ]
+    },
+    {
+      "text": "Từ P1–P4 tới K là **suy diễn** (*deductive*).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đọc P1 như một định nghĩa (dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo), thì từ P1–P4 tới K là **suy diễn** (*deductive*).",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。"}
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Bài cáo còn một **giả định ngầm** (*hidden assumption*) mạnh hơn: người làm điều nghĩa thì được lòng dân và trời giúp, nên thắng lợi là dấu hiệu của chính nghĩa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "是由天地祖宗之靈，有以默相陰佑，而致然也。", "where": "gần cuối bài cáo"},
+        {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "蓋天欲困我以降厥任，故予益厲志以濟于艱。", "where": "đoạn kể buổi đầu khởi nghĩa"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": true, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Mọi tiền đề bám đúng nguyên văn bài cáo theo Toàn thư (zh.wikisource, Bản kỷ quyển 10). Lỗi nhẹ về logic: P1 viết dạng 'chỉ chính đáng khi' (điều kiện cần), nên nói chặt thì P1–P4 chưa đủ để suy diễn ra K (khẳng định hậu kiện); ghi chú '(định nghĩa nhân nghĩa)' gần như cứu được, nên chỉ xếp nhe. Thuật ngữ suy diễn/deductive, giả định ngầm/hidden assumption, tiền đề đúng bảng. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): người làm sửa ở P1 thay vì câu kết luận: 'Dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa)'. P1 nay là điều kiện cần và đủ (định nghĩa), nên P1–P4 ⊢ K là suy diễn hợp lệ; đúng ý fix của mẫu."
+}

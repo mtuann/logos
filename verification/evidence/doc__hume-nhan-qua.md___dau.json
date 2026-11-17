@@ -1,0 +1,133 @@
+{
+  "unit": "doc/hume-nhan-qua.md#_dau",
+  "hash": "sha256:55834a1b77ecb9e90579139f722f58a3dac9e82ea836e0a11b04281e21dcc995",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "David Hume (1711–1776)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/hume"
+    },
+    {
+      "text": "Điều tra về trí năng con người (An Enquiry concerning Human Understanding, 1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.an-enquiry-concerning-human-understanding"
+    },
+    {
+      "text": "Khảo luận về bản tính con người (1739–1740)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.a-treatise-of-human-nature"
+    },
+    {
+      "text": "\"chết yểu ngay khi rời nhà in\" (Treatise)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/mol",
+          "quote": "It fell dead-born from the press",
+          "where": "MOL 6"
+        }
+      ]
+    },
+    {
+      "text": "Điều tra trình bày lại, gọn hơn, phần đầu Khảo luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/mol",
+          "quote": "cast the first part of that work anew in the Enquiry concerning Human Understanding",
+          "where": "MOL 8"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "This first Enquiry covers similar topics to Book 1 of the Treatise , although it is much shorter and written more accessibly"
+        }
+      ]
+    },
+    {
+      "text": "lần in đầu mang tên Philosophical Essays concerning Human Understanding, đổi tên từ lần in năm 1758",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "it initially appeared under the title Philosophical Essays concerning Human Understanding"
+        }
+      ]
+    },
+    {
+      "text": "12 mục (section)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/12",
+          "quote": "E 12.34",
+          "where": "davidhume.org/texts/e/12; Gutenberg liệt kê SECTION I đến XII"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/1",
+          "quote": "Enquiry > Section 1"
+        }
+      ]
+    },
+    {
+      "text": "mục IV, V, VII lần lượt có 23, 22 và 30 đoạn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "E 4.23, SBN 39"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/5",
+          "quote": "E 5.22, SBN 55"
+        },
+        {
+          "url": "https://davidhume.org/texts/e/7",
+          "quote": "E 7.30",
+          "where": "đoạn cuối của mục VII theo đánh số E 7.x"
+        }
+      ]
+    },
+    {
+      "text": "Gutenberg ebook 9662, bản Selby-Bigge 1902, theo ấn bản 1777",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/9/6/6/9662/9662.txt",
+          "quote": "Reprinted from The Posthumous Edition of 1777",
+          "where": "trang tiêu đề; EBook #9662; \"Second Edition, 1902\""
+        }
+      ]
+    },
+    {
+      "text": "\"EHU 4.21\" = mục IV, đoạn 21, như trên Hume Texts Online",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "E 4.21, SBN 36-8"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Gutenberg (www.gutenberg.org) trả 503 bảo trì lúc kiểm; mở được bản sao gutenberg.pglaf.org (cùng ebook #9662) và web.archive.org. Đã kiểm lại số đoạn mục VII bằng cách đếm E 7.x trên davidhume.org."
+}

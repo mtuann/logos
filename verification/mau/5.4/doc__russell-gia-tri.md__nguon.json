@@ -1,0 +1,100 @@
+{
+  "unit": "doc/russell-gia-tri.md#nguon",
+  "hash": "sha256:eda01c0f555b9bdaf0d413f49702867ceb1bcb4448192c21a95f027a2532a091",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m05",
+  "claims": [
+    {
+      "text": "Russell, Bertrand (1912), *The Problems of Philosophy*, London: Williams and Norgate, chương XV",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/russell/",
+          "quote": "1912a, The Problems of Philosophy , London: Williams and Norgate; New York: Henry Holt and Company.",
+          "where": "Bibliography, Primary Literature"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/The_Problems_of_Philosophy",
+          "quote": "THE PROBLEMS OF PHILOSOPHY By BERTRAND RUSSELL M.A., F.R.S. London WILLIAMS & NORGATE",
+          "where": "trang tên"
+        }
+      ]
+    },
+    {
+      "text": "bản in 1912 trên Wikisource <https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15",
+          "quote": "The Problems of Philosophy ( 1912 ) by Bertrand Russell",
+          "where": "header trang; HTTP 200; nội dung chương XV, đoạn đầu 'Having now come to the end of our brief and very incomplete review'"
+        }
+      ]
+    },
+    {
+      "text": "Project Gutenberg <https://www.gutenberg.org/ebooks/5827>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "*** START OF THE PROJECT GUTENBERG EBOOK 5827 *** ... THE PROBLEMS OF PHILOSOPHY By Bertrand Russell ... CHAPTER XV. THE VALUE OF PHILOSOPHY",
+          "where": "mirror PGLAF của ebook #5827"
+        }
+      ]
+    },
+    {
+      "text": "Irvine, Andrew David, \"Bertrand Russell\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/russell/",
+          "quote": "Bertrand Russell (Stanford Encyclopedia of Philosophy/Fall 2026 Edition) ... Copyright © 2024 by Andrew David Irvine",
+          "where": "tiêu đề và Author and Citation Info"
+        }
+      ]
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "title ['Philosophers on Philosophy: The 2020 PhilPapers Survey'] container-title [\"Philosophers' Imprint\"] volume 23 ... authors David Bourget, David J. Chalmers; published 2023-07-25",
+          "where": "metadata Crossref (Crossref ghi issue 1)"
+        },
+        {
+          "url": "http://web.archive.org/web/20240415004914/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "How to Cite: Bourget, D. & Chalmers, D. J., (2023) “Philosophers on Philosophy: The 2020 PhilPapers Survey”, Philosophers' Imprint 23: 11.",
+          "where": "trang bài trên tạp chí (bản lưu Wayback; trang gốc chặn bot bằng Anubis); 'Article Number: 11'"
+        }
+      ]
+    },
+    {
+      "text": "kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20261109140422/https://survey2020.philpeople.org/",
+          "quote": "The 2020 PhilPapers Survey Introduction Questions Target population ... Results Main survey results Longitudinal analysis Respondent demographics Correlations Detailed results by question",
+          "where": "bản lưu Wayback ngày 2026-11-09 (trang gốc chặn bot Cloudflare)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "www.gutenberg.org/ebooks/5827 trả 503 (bảo trì) lúc kiểm; nội dung ebook #5827 đối chiếu qua mirror gutenberg.pglaf.org. '23 (11)': 11 là số bài (Article Number), không phải số kỳ (Crossref ghi issue 1); khớp bản ghi kho đóng băng sources/doi.10-3998-phimp-2109, không coi là lỗi. survey2020.philpeople.org chặn bot (Cloudflare); đối chiếu nội dung qua bản lưu Wayback 2026-11-09."
+}

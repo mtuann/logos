@@ -1,0 +1,64 @@
+{
+  "unit": "doc/luan-ngu.md#nguon",
+  "hash": "sha256:da3f25a5abcfde72a23464ce9db8b2970f6c57cc544106b50a98859ae227be24",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "claims": [
+    {
+      "text": "Csikszentmihalyi, Mark, \"Confucius\", SEP, bản lưu fall2026 mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Mark Csikszentmihalyi",
+          "where": "cuối trang; tiêu đề Confucius (SEP Fall 2026 Edition)"
+        }
+      ]
+    },
+    {
+      "text": "Fraser, Chris, \"Mohism\", SEP, bản lưu fall2026 mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+          "quote": "citation_author\" content=\"Fraser, Chris\"",
+          "where": "thẻ meta của trang"
+        }
+      ]
+    },
+    {
+      "text": "Nguyễn Tài Thư (chủ biên) (1993), Lịch sử tư tưởng Việt Nam, tập 1, Hà Nội: NXB Khoa học xã hội",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ci.nii.ac.jp/ncid/BA61974912",
+          "quote": "Nguyễn Tài Thư (chủ biên); Khoa học xã hội (Hà Nội); 1993–; tập 1"
+        }
+      ]
+    },
+    {
+      "text": "Trần Đình Hượu (1996), Đến hiện đại từ truyền thống, Hà Nội: NXB Văn hóa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb"
+    },
+    {
+      "text": "Luận ngữ, Legge 1861 (bản sửa 1893), Chinese Text Project https://ctext.org/analects",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/ctext.analects"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. | Lượt 2: dòng 5 trùng từng chữ bản ghi frozen sources/sach.tran-dinh-huou-1996-... (năm 1996 cũng trong years_ok của works/chua-ro.den-hien-dai-tu-truyen-thong); dòng 1 trùng sources/ctext.analects (frozen)."
+}

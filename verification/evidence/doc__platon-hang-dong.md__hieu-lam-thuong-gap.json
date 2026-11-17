@@ -1,0 +1,80 @@
+{
+  "unit": "doc/platon-hang-dong.md#hieu-lam-thuong-gap",
+  "hash": "sha256:217bc7fdd4ae3ad8623b34c4d28e4f913b121d381dfa57efa5b79888d45c6834",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Platon không nói bóng là ảo ảnh không có thật: bóng là bóng thật của những vật thật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=515a",
+          "quote": "except the shadows cast from the fire on the wall of the cave that fronted them?",
+          "where": "Republic 515a (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=515c",
+          "quote": "the shadows of the artificial objects",
+          "where": "Republic 515c (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Ý ông là có những bậc hiểu biết và thực tại khác nhau, và giáo dục là leo từ bậc thấp lên bậc cao",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=511e",
+          "quote": "arrange them in a proportion, considering that they participate in clearness and precision in the same degree as their objects partake of truth and reality",
+          "where": "Republic 511e (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=518c",
+          "quote": "this organ of knowledge must be turned around from the world of becoming together with the entire soul",
+          "where": "Republic 518c (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "người đã thấy ánh sáng phải đi xuống (519d–520c)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=519d",
+          "quote": "refuse to go down again among those bondsmen",
+          "where": "Republic 519d (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=520c",
+          "quote": "Down you must go then, each in his turn",
+          "where": "Republic 520c (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "người kể nói rõ đó là điều mình tin, \"đúng hay sai thì có trời biết\" (517b)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=517b",
+          "quote": "But God knows whether it is true. But, at any rate, my dream as it appears to me",
+          "where": "Republic 517b (Shorey, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả ba hiểu lầm đều đúng với văn bản; 'ma trận' là so sánh hiện đại của bài, không phải dữ kiện. Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey)."
+}

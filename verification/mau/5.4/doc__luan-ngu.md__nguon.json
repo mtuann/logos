@@ -1,0 +1,47 @@
+{
+  "unit": "doc/luan-ngu.md#nguon",
+  "hash": "sha256:da3f25a5abcfde72a23464ce9db8b2970f6c57cc544106b50a98859ae227be24",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.4-m02",
+  "claims": [
+    {
+      "text": "*Luận ngữ* (論語), nguyên văn chữ Hán và bản dịch tiếng Anh của James Legge (1861; bản sửa 1893), Chinese Text Project. <https://ctext.org/analects>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/ctext.analects"
+    },
+    {
+      "text": "Csikszentmihalyi, Mark, \"Confucius\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.confucius",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/", "quote": "citation_author: Csikszentmihalyi, Mark; citation_title: Confucius; First published Tue Mar 31, 2020; substantive revision Thu May 2, 2024"}
+      ]
+    },
+    {
+      "text": "Fraser, Chris, \"Mohism\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.mohism",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/", "quote": "citation_author: Fraser, Chris; citation_title: Mohism; First published Mon Oct 21, 2002; substantive revision Sun Sep 1, 2024"}
+      ]
+    },
+    {
+      "text": "Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1"
+    },
+    {
+      "text": "Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb"
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Cả năm dòng trùng nguyên văn bản ghi trong data/kb/sources.yml, mọi khóa ở trạng thái frozen trong verification/ledger.json. Hai URL SEP bản lưu fall2026 mở được trong phiên (đọc meta citation). URL ctext.org đúng mẫu; theo quyết định 34 không mở trực tiếp (ctext chặn bot)."
+}

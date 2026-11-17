@@ -1,0 +1,94 @@
+{
+  "unit": "doc/russell-gia-tri.md#phan-bac",
+  "hash": "sha256:5b9f2eb8c505909aea931afaf66fa04301871816222bc926d198c360826462fa",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "Thực dụng luận (Peirce, James): niềm tin không tạo khác biệt trong hành động thì có nghĩa gì",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pragmatism/",
+          "quote": "Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have.",
+          "where": "phát biểu của Peirce 1878 (pragmatic maxim); SEP Pragmatism mục 2.1"
+        }
+      ]
+    },
+    {
+      "text": "Russell: sự vô tư học được trong chiêm ngưỡng chính là công bằng trong hành động (XV.12); không coi nhẹ nhu cầu vật chất, chỉ nói chúng không phải tất cả (XV.3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "The mind which has become accustomed to the freedom and impartiality of philosophic contemplation will preserve something of the same freedom and impartiality in the world of action and emotion.",
+          "where": "XV.12"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "the goods of the mind are at least as important as the goods of the body",
+          "where": "XV.3"
+        }
+      ]
+    },
+    {
+      "text": "Wittgenstein và các triết gia phân tích: nhiều vấn đề triết học nảy sinh từ hiểu lầm cách ngôn ngữ vận hành",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "used in cases of philosophical perplexity to clarify where language misleads us into false illusions",
+          "where": "SEP Wittgenstein, mục triết học muộn (Investigations)"
+        }
+      ]
+    },
+    {
+      "text": "Lịch sử các ngành khoa học tách khỏi triết học; phần tiến bộ chắc chắn nhất rời triết học (XV.4)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "those questions which are already capable of definite answers are placed in the sciences",
+          "where": "XV.4"
+        }
+      ]
+    },
+    {
+      "text": "PhilPapers 2020 câu chính 'Tiến bộ triết học' n ≈ 1.770: Không có 3,8; Một ít 46,6; Nhiều 41,7; Khác 8,4 (Bảng 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tien-bo-triet-hoc-co-khong"
+    },
+    {
+      "text": "Mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh; câu hỏi không định nghĩa 'tiến bộ'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tien-bo-triet-hoc-co-khong"
+    },
+    {
+      "text": "PhilPapers Survey 2020 (Bourget & Chalmers 2023)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey",
+          "where": "Crossref: Bourget, Chalmers; Philosophers' Imprint; vol 23; 2023-07-25"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Wikisource (1912) mở được; đối chiếu thêm Gutenberg 5827 qua mirror gutenberg.pglaf.org (gutenberg.org tạm bảo trì). Số đoạn XV.n đếm trong chương (13 đoạn). Số liệu bảng lấy từ [[pp:]] sinh từ kho đã đóng băng; tôi đối chiếu với tools/philpapers-2020.md (3,8/46,6/41,7/8,4, n≈1.770) nhưng không mở lại survey2020.philpeople.org. 'Dễ lạc quan' là nhận xét nhẹ của bài."
+}

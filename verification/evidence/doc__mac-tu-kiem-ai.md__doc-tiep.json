@@ -1,0 +1,115 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#doc-tiep",
+ "hash": "sha256:0220cc91a2626f23ae79638bef2d150446354186e01e3bc559763e57151e578b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03 + agent-kiem-5.4-r09",
+ "claims": [
+  {
+   "text": "Các liên kết nội bộ (manh-tu-tinh-thien, lich-su/trung-hoa, chien-tranh-chinh-dang, cuu-giup-ngheo-doi, cong-ly) tồn tại trong repo",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/doc/manh-tu-tinh-thien/",
+     "quote": "Hướng dẫn đọc Mạnh Tử: tính thiện ... họ Mặc kiêm ái, thế là không có cha"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+     "quote": "Trung Hoa: trăm nhà đua tiếng ... Mặc Tử: kiêm ái"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+     "quote": "Truyền thống chiến tranh chính nghĩa đưa ra một danh sách điều kiện"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cuu-giup-ngheo-doi/",
+     "quote": "vì sao ta phải cứu trẻ em đói ở xa"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cong-ly/",
+     "quote": "Công lý là gì? Rawls và bức màn vô tri"
+    }
+   ]
+  },
+  {
+   "text": "Mạnh Tử chê Mặc Tử 'không có cha'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+     "quote": "墨氏兼愛，是無父也"
+    }
+   ]
+  },
+  {
+   "text": "[Mạnh Tử: tính thiện](manh-tu-tinh-thien.md) — người chê Mặc Tử \"không có cha\", nhưng cùng tin con người có thể tốt lên",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/doc/manh-tu-tinh-thien/",
+     "quote": "Mặc gia tin động cơ con người nắn được gần như tùy ý bằng thưởng phạt"
+    }
+   ]
+  },
+  {
+   "text": "[Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — Mặc gia giữa trăm nhà thời Chiến Quốc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+     "quote": "Mặc Tử (khoảng 470–391 TCN) phê phán Nho gia là thiên vị"
+    }
+   ]
+  },
+  {
+   "text": "[Chiến tranh có bao giờ chính đáng không?](../cau-hoi/chien-tranh-chinh-dang.md) — từ \"phi công\" đến lý thuyết chiến tranh chính nghĩa",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+     "quote": "Truyền thống chiến tranh chính nghĩa (Augustine, Aquinas; Walzer 1977)"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+     "quote": "hướng dẫn đọc Mặc Tử (có thiên Phi công, chống chiến tranh xâm lược)"
+    }
+   ]
+  },
+  {
+   "text": "[Có nghĩa vụ cứu người nghèo đói không?](../cau-hoi/cuu-giup-ngheo-doi.md) — người ở xa có đáng được quan tâm như người ở gần?",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cuu-giup-ngheo-doi/",
+     "quote": "khoảng cách địa lý không phải lý do đạo đức"
+    }
+   ]
+  },
+  {
+   "text": "[Công lý là gì?](../cau-hoi/cong-ly.md) — từ kiêm ái đến công bằng hiện đại",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cong-ly/",
+     "quote": "Công lý là gì? Rawls và bức màn vô tri",
+     "where": "H1"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": null,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": null,
+  "thuat-ngu": null
+ },
+ "result": "dat",
+ "notes": "Chỉ kiểm tồn tại file đích bằng ls; chưa đọc nội dung các trang đích.\nLượt 2: mở năm trang đích trên site đã deploy (mtuann.github.io/logos/...), tiêu đề và nội dung khớp mô tả trong mục Đọc tiếp. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 5 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}

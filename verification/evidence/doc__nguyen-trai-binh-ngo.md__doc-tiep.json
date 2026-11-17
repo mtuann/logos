@@ -1,0 +1,85 @@
+{
+  "unit": "doc/nguyen-trai-binh-ngo.md#doc-tiep",
+  "hash": "sha256:ebb0938d627eca46898358ebbd14dd1e41bd0a4913950045dfc0bf4adbff68cf",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04 + agent-kiem-5.4-r09",
+  "claims": [
+    {
+      "text": "Thơ văn Lý–Trần: tuyển, \"truyền thống văn chương Việt trước Nguyễn Trãi: vô thường, thiền và thơ\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tho-van-ly-tran/",
+          "quote": "Hướng dẫn này đọc bốn bài quanh hai chủ đề: vô thường và thiền giữa đời",
+          "where": "trang đã deploy, mở trong phiên; Thời Lý–Trần (1009–1400)"
+        }
+      ]
+    },
+    {
+      "text": "Nho giáo Việt Nam: tiếp thu hay sáng tạo? — \"Nguyễn Trãi định nghĩa lại nhân nghĩa\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "Nguyễn Trãi đã định nghĩa lại \"nhân nghĩa\" thành \"cốt ở yên dân\" trong Bình Ngô đại cáo (1428)",
+          "where": "trang đã deploy, mở trong phiên"
+        }
+      ]
+    },
+    {
+      "text": "Chiến tranh có bao giờ chính đáng không? — \"từ trừ bạo đến lý thuyết chiến tranh chính nghĩa\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+          "quote": "jus ad bellum — công lý của việc bắt đầu chiến tranh (khi nào được đánh), và jus in bello",
+          "where": "trang đã deploy, mở trong phiên"
+        }
+      ]
+    },
+    {
+      "text": "Mạnh Tử: tính thiện — \"nguồn của ý thương dân, đánh kẻ có tội\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/manh-tu-tinh-thien/",
+          "quote": "1. Đứa trẻ bên giếng và bốn đầu mối (2A6) 2. Dòng nước: Mạnh Tử đáp Cáo Tử (6A2) 3. Núi Ngưu trơ trụi (6A8) 4. Người nước Tống nhổ mạ (2A2)",
+          "where": "trang đã deploy: không có đoạn điếu phạt; bài hiện ghi \"ý \"điếu phạt\" ở thiên Lương Huệ vương hạ không có trong hướng dẫn này\", khớp fix"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "誅其君而弔其民",
+          "where": "điếu phạt nằm ở 梁惠王下"
+        }
+      ],
+      "severity": "vua",
+      "fix": "Mạnh Tử: tính thiện — cùng truyền thống Nho giáo mà bài cáo mượn ngôn ngữ (ý \"điếu phạt\" nằm ở thiên Lương Huệ vương hạ, không có trong hướng dẫn này)",
+      "fixed": true
+    },
+    {
+      "text": "Nhật Bản và Việt Nam — \"bối cảnh Việt Nam trong dòng lịch sử Đông Á\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/nhat-ban-viet-nam/",
+          "quote": "Việt Nam: Thiền Trúc Lâm và Nho học",
+          "where": "trang đã deploy, mục lục"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mô tả liên kết Mạnh Tử: tính thiện không đúng với nội dung trang đích. Các trang đích khác đã đọc trong repo (không phải nguồn ngoài; dùng URL gốc site chỉ làm chỗ ghi).\nLượt 2: mở các trang đích trên mtuann.github.io/logos (đã deploy), cập nhật quote; mô tả trang Mạnh Tử đã sửa đúng fix → fixed: true. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 0 claim theo từng dòng, không có dòng sai mới. Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+}
