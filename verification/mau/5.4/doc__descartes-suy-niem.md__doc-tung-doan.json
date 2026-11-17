@@ -1,6 +1,6 @@
 {
   "unit": "doc/descartes-suy-niem.md#doc-tung-doan",
-  "hash": "sha256:33ce6f41958a03a9466d88540d154e54231cca22f84ef04918e7c2ddce1e8848",
+  "hash": "sha256:37816e65ad22360c380d3a70422ef8cdbbb41712b109c0f67c6004a4a1f105cd",
   "checked_on": "2026-11-17",
   "checker": "agent-mau-5.4-m01",
   "claims": [
@@ -125,7 +125,8 @@
       "sources": [
         {"url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II", "quote": "Archimedes, that he might transport the entire globe from the place it occupied to another, demanded only a point that was firm and immovable", "where": "§1"},
         {"url": "https://archive.org/download/oeuvresdedescar07desc/oeuvresdedescar07desc_djvu.txt", "quote": "Nihil nifi punétum petebat Archi- medes, quod effet firmum & immobile, ut integram terram loco dimoveret", "where": "AT VII, tr. 24"}
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Trích Suy niệm II, §3 (AT 7:25), Veitch: \"Doubtless, then, I exist, since I am deceived; ... I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind.\" và bản dịch của Logos",
@@ -183,5 +184,5 @@
   ],
   "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
   "result": "dat",
-  "notes": "Mọi trích Veitch so từng chữ với Wikisource (raw wikitext); số trang AT xác định theo đầu trang trong bản quét Œuvres de Descartes VII (Adam & Tannery) trên Internet Archive (OCR). Các bản dịch của Logos sát nghĩa. Chỉ một lỗi nhẹ: 'nâng trái đất' trong khi Veitch/Latin là 'dời trái đất khỏi chỗ' (loco dimoveret)."
+  "notes": "Mọi trích Veitch so từng chữ với Wikisource (raw wikitext); số trang AT xác định theo đầu trang trong bản quét Œuvres de Descartes VII (Adam & Tannery) trên Internet Archive (OCR). Các bản dịch của Logos sát nghĩa. Chỉ một lỗi nhẹ: 'nâng trái đất' trong khi Veitch/Latin là 'dời trái đất khỏi chỗ' (loco dimoveret). | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): §1 nay viết 'dời trái đất khỏi chỗ của nó', khớp Veitch 'transport the entire globe from the place it occupied' (Wikisource, mở lại) và Latin 'loco dimoveret'."
 }

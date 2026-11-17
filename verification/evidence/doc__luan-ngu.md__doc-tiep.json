@@ -1,8 +1,8 @@
 {
   "unit": "doc/luan-ngu.md#doc-tiep",
-  "hash": "sha256:9bac7aa93f9d996ba1121920f75e210d2085e276fda588ad8ecd594d458c3206",
+  "hash": "sha256:cfbc8e55e69fce0f22f28f444f5513195398f6cecd50e50c2a52e83712c9cc5f",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01 + agent-kiem-5.4-r09",
   "claims": [
     {
       "text": "Liên kết nội bộ tới 5 trang đều tồn tại trong docs/ (dao-duc-hanh-dong, nho-giao-viet, noi-doi, mac-tu-kiem-ai, duc-tri)",
@@ -61,6 +61,24 @@
           "where": "trang đã deploy, trỏ ngược về Luận ngữ"
         }
       ]
+    },
+    {
+      "text": "[Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh so với các lý thuyết phương Tây.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "[Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "1. Thuyết vị lợi: hãy tạo ra nhiều hạnh phúc nhất 2. Đạo đức học Kant: hãy hành động theo bổn phận 3. Đạo đức học đức hạnh: hãy trở thành con người tốt"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "( Aristotle ): hỏi sai câu hỏi rồi — đừng hỏi \"hành động nào đúng\", hãy hỏi \"người tốt sẽ làm gì\""
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -71,5 +89,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mô tả \"Luận ngữ đã định hình giáo dục Việt Nam\" hơi rộng so với nội dung nho-giao-viet.md (nói Tứ thư Ngũ kinh, khoa cử); nhẹ, ghi để người viết cân nhắc. Không mở web được cho claim nội bộ, đối chiếu file cục bộ. | Lượt 2: mở 5 trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang; nho-giao-viet bàn Tứ thư (gồm Luận ngữ) trong giáo dục khoa cử nên mô tả chấp nhận được."
+  "notes": "Mô tả \"Luận ngữ đã định hình giáo dục Việt Nam\" hơi rộng so với nội dung nho-giao-viet.md (nói Tứ thư Ngũ kinh, khoa cử); nhẹ, ghi để người viết cân nhắc. Không mở web được cho claim nội bộ, đối chiếu file cục bộ. | Lượt 2: mở 5 trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang; nho-giao-viet bàn Tứ thư (gồm Luận ngữ) trong giáo dục khoa cử nên mô tả chấp nhận được. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): dòng dao-duc-hanh-dong đã sửa thành 'đạo đức học đức hạnh đặt cạnh thuyết vị lợi và đạo đức học Kant.', đúng fix của mẫu và khớp ba lý thuyết trên trang đích."
 }

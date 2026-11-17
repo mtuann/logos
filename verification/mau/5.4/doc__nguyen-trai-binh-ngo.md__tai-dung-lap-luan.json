@@ -1,6 +1,6 @@
 {
   "unit": "doc/nguyen-trai-binh-ngo.md#tai-dung-lap-luan",
-  "hash": "sha256:7547beb84106291fa2117fef316830d3a0eae2d926dd32008b186d5db6064103",
+  "hash": "sha256:e44baefefe0da2e366adb9ce6a1b455d25286e49f78e348d15a7cb53bfad69f1",
   "checked_on": "2026-11-17",
   "checker": "agent-mau-5.4-m03",
   "claims": [
@@ -60,7 +60,8 @@
       "fix": "Đọc P1 như một định nghĩa (dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo), thì từ P1–P4 tới K là **suy diễn** (*deductive*).",
       "sources": [
         {"url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十", "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。"}
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Bài cáo còn một **giả định ngầm** (*hidden assumption*) mạnh hơn: người làm điều nghĩa thì được lòng dân và trời giúp, nên thắng lợi là dấu hiệu của chính nghĩa.",
@@ -74,5 +75,5 @@
   ],
   "checklist": {"dung-nguon": true, "manh-nhat": true, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
   "result": "dat",
-  "notes": "Mọi tiền đề bám đúng nguyên văn bài cáo theo Toàn thư (zh.wikisource, Bản kỷ quyển 10). Lỗi nhẹ về logic: P1 viết dạng 'chỉ chính đáng khi' (điều kiện cần), nên nói chặt thì P1–P4 chưa đủ để suy diễn ra K (khẳng định hậu kiện); ghi chú '(định nghĩa nhân nghĩa)' gần như cứu được, nên chỉ xếp nhe. Thuật ngữ suy diễn/deductive, giả định ngầm/hidden assumption, tiền đề đúng bảng."
+  "notes": "Mọi tiền đề bám đúng nguyên văn bài cáo theo Toàn thư (zh.wikisource, Bản kỷ quyển 10). Lỗi nhẹ về logic: P1 viết dạng 'chỉ chính đáng khi' (điều kiện cần), nên nói chặt thì P1–P4 chưa đủ để suy diễn ra K (khẳng định hậu kiện); ghi chú '(định nghĩa nhân nghĩa)' gần như cứu được, nên chỉ xếp nhe. Thuật ngữ suy diễn/deductive, giả định ngầm/hidden assumption, tiền đề đúng bảng. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): người làm sửa ở P1 thay vì câu kết luận: 'Dùng binh là chính đáng khi, và chỉ khi, nhằm yên dân và trừ bạo (định nghĩa nhân nghĩa)'. P1 nay là điều kiện cần và đủ (định nghĩa), nên P1–P4 ⊢ K là suy diễn hợp lệ; đúng ý fix của mẫu."
 }
