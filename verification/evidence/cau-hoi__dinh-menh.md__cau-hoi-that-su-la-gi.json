@@ -1,0 +1,92 @@
+{
+  "unit": "cau-hoi/dinh-menh.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:fa0e0097b7ee71465b0799b91961babf97b4bee06e62348566f77edb55219a1c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k07",
+  "claims": [
+    {
+      "text": "**Thuyết định mệnh** (*fatalism*): kết cục sẽ xảy ra *bất kể bạn làm gì*.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Fatalism is the thesis that all events (or in some versions, at least some events) are destined to occur no matter what we do."
+        }
+      ]
+    },
+    {
+      "text": "**Tất định luận** (*determinism*): mọi sự kiện đều có nguyên nhân đầy đủ theo quy luật tự nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Causal determinism is, roughly speaking, the idea that every event is necessitated by antecedent events and conditions together with the laws of nature."
+        }
+      ]
+    },
+    {
+      "text": "(Đã trình bày trong [bài về tự do ý chí](tu-do-y-chi.md).)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Tất định luận (determinism) là phiên bản mạnh của ý này",
+          "where": "trang đích trên site đã deploy"
+        }
+      ]
+    },
+    {
+      "text": "Tính tất yếu logic: một câu khi đã đúng thì không thể sai.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Tính cố định của chân lý: một câu khi đã đúng thì không thể trở thành sai.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "First of all we need to be clear about what is meant by “necessity” here. What is at issue here is not logical necessity. It is rather inevitability.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Tất định luận không nói \"dù bạn làm gì kết quả cũng vậy\" — ngược lại, chính việc bạn làm là một mắt xích trong chuỗi nguyên nhân.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
+          "quote": "It is easy to think that determinism implies that we have a destiny or fate that we cannot avoid, no matter what we choose or decide and no matter how hard we try."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Fatalism is therefore clearly separable from determinism"
+        }
+      ]
+    },
+    {
+      "text": "có thể nó đúng *nhờ* điều sẽ xảy ra, chứ không phải điều sẽ xảy ra bị khóa *vì* nó đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/3/2/14328/14328-0.txt",
+          "quote": "But in both cases the sitter is not therefore seated because the opinion is true, but rather the opinion is true because antecedently he was sitting as a matter of fact.",
+          "where": "Quyển V (Boethius dùng chính phân biệt này)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một claim nhe (thuật ngữ): bài gọi \"một câu khi đã đúng thì không thể sai\" là \"tính tất yếu logic\"; SEP Fatalism nói rõ cái tất yếu trong lập luận hải chiến \"not logical necessity. It is rather inevitability\". Nhãn này lặp lại ở tóm tắt và ở cách đáp (c) của mục 2; nếu sửa thì sửa đồng bộ ba chỗ. Hình fig:tuong-lai-phan-nhanh là phần sinh tự động, chú thích khớp thân bài. Thuật ngữ fatalism/determinism đúng quyết định 18."
+}

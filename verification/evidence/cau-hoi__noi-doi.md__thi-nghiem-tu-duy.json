@@ -1,0 +1,72 @@
+{
+  "unit": "cau-hoi/noi-doi.md#thi-nghiem-tu-duy",
+  "hash": "sha256:b4423adf1bedd1ca1ba998a99e30928d71a571ddee349157bc1433c878c448e9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "năm 1797, nhà tư tưởng chính trị Benjamin Constant dẫn đúng tình huống này để chê một \"triết gia Đức\" cho rằng nói dối kẻ sát nhân cũng là phạm tội",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/cu31924029021612/cu31924029021612_djvu.txt",
+          "quote": "to tell a falsehood to a murderer who asked us whether our friend, of whom he was in pursuit, had not taken refuge in our house, would be a crime.",
+          "where": "Abbott (1889), Phụ lục I, đoạn Kant dẫn Constant, France, for the year 1797, phần VI, số 1, tr. 123"
+        }
+      ]
+    },
+    {
+      "text": "Immanuel Kant thừa nhận mình từng nói vậy (dù không nhớ ở đâu), và viết hẳn một bài để bảo vệ kết luận ấy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/425.html",
+          "quote": "Über ein vermeintes Recht aus Menschenliebe zu lügen.",
+          "where": "AA VIII, tr. 425, dòng 1"
+        },
+        {
+          "url": "https://archive.org/stream/cu31924029021612/cu31924029021612_djvu.txt",
+          "quote": "which I cannot now recollect, — I. Kant.",
+          "where": "Abbott (1889), chú thích của Kant ở Phụ lục I"
+        }
+      ]
+    },
+    {
+      "text": "Bạn nói dối, nhưng hóa ra người bạn đã lẻn ra ngõ sau và chạm mặt kẻ kia: bạn có phần trách nhiệm không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/cu31924029021612/cu31924029021612_djvu.txt",
+          "quote": "must answer for the consequences of it, even before the civil tri- bunal, and must pay the penalty for them, however unforeseen they may have been",
+          "where": "Abbott (1889), Phụ lục I: biến thể (3) bám đúng ví dụ của Kant"
+        }
+      ]
+    },
+    {
+      "text": "Hầu hết mọi người đáp ngay: phải nói dối.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nhiều người đáp ngay: phải nói dối.",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/cu31924029021612/cu31924029021612_djvu.txt",
+          "quote": "The moral principle that it is one's duty to speak the truth, if it were taken singly and unconditionally, would make all society im- possible.",
+          "where": "Constant được Kant dẫn: nguồn chỉ cho thấy Constant phản đối, không có số liệu về 'hầu hết mọi người'"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tình huống kẻ cầm dao, gác xép, vệt máu là phiên bản kể lại của bài; lõi tình huống (kẻ sát nhân hỏi bạn mình có trốn trong nhà không) đúng như Constant nêu và Kant đáp."
+}

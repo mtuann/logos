@@ -1,0 +1,74 @@
+{
+  "unit": "cau-hoi/tam-tri-va-ai.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:8b4f835617cebe3f3d1bde1e278d2b2c7425c7b66cad575eb141ee17212e9823",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Các triết gia gọi tính chất \"nói về một cái gì đó\" của suy nghĩ là **ý hướng tính** (*intentionality*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "terms/y-huong-tinh"
+    },
+    {
+      "text": "Năm 1974, Thomas Nagel viết bài \"What Is It Like to Be a Bat?\" (\"Làm một con dơi thì như thế nào?\"). Ông lập luận rằng một sinh vật có ý thức khi và chỉ khi \"có một cái gì đó giống như là sinh vật ấy\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consciousness/",
+          "quote": "According to Nagel, a being is conscious just if there is “something that it is like” to be that creature"
+        },
+        {
+          "url": "https://consc.net/papers/facing.html",
+          "quote": "As Nagel (1974) has put it, there is something it is like to be a conscious organism."
+        }
+      ]
+    },
+    {
+      "text": "Loại ý thức này gọi là **ý thức hiện tượng** (*phenomenal consciousness*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "terms/y-thuc-hien-tuong"
+    },
+    {
+      "text": "Những phẩm chất trải nghiệm ấy đôi khi được gọi là **qualia**.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Những phẩm chất trải nghiệm ấy đôi khi được gọi là **qualia** (*cảm chất*).",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consciousness/",
+          "quote": "one might count a state as conscious just if it has or involves qualitative or experiential properties of the sort often referred to as “qualia” or “raw sensory feels”"
+        }
+      ]
+    },
+    {
+      "text": "Ngược lại, một em bé sơ sinh chưa làm được phép tính nào, nhưng phần lớn chúng ta tin em có cảm giác.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha"
+    },
+    {
+      "text": "Còn một khó khăn chung cho cả ba câu: **vấn đề những tâm trí khác** (*problem of other minds*). Bạn chỉ trực tiếp trải nghiệm tâm trí của chính mình. Bạn tin người khác cũng có tâm trí là nhờ suy ra từ hành vi của họ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/other-minds/",
+          "quote": "in the case of others, all access to what they think or feel is thought to be indirect, mediated by the other’s behavior"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Thuật ngữ: bảng bắt buộc ghi \"qualia (cảm chất)\"; bài dùng \"qualia\" không kèm \"cảm chất\" (bài van-de-tam-tri.md có kèm). Lỗi nhẹ. Claim em bé sơ sinh: PhilPapers 2020, câu bổ sung \"Những tâm trí khác\", trẻ sơ sinh 84,3% chấp nhận."
+}

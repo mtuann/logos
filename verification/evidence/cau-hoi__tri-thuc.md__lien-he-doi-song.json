@@ -1,0 +1,104 @@
+{
+  "unit": "cau-hoi/tri-thuc.md#lien-he-doi-song",
+  "hash": "sha256:023829652652a9c7f9bb325ae080b30c1414853207073e4a34b5371303f4852e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Thuyết tin cậy gợi ý một câu hỏi rất thực tế: *nguồn* này, theo cách nó hoạt động, có thường cho ra thông tin đúng không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reliabilism/",
+          "quote": "the justifiedness or unjustifiedness of a belief is determined by the reliability or unreliability of the process or processes that cause it"
+        }
+      ]
+    },
+    {
+      "text": "Xem thêm về [ngụy biện](../cong-cu/nguy-bien.md) như \"dựa vào số đông\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/nguy-bien/",
+          "quote": "Chọn quán phở đông khách là theo số đông, và thường không tệ.",
+          "where": "trang đích có mục \"Theo số đông\""
+        }
+      ]
+    },
+    {
+      "text": "Trong tri thức luận có một ví dụ nổi tiếng (Alvin Goldman bàn trong bài năm 1976, ghi công ý tưởng cho Carl Ginet): một người lái xe qua vùng quê đầy những nhà kho giả, chỉ là mặt tiền, nhưng nhìn từ đường thì y như thật.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "the well-known Barn County case, first given by Carl Ginet, and published by Alvin Goldman (1976)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "The landscape next to the road leading through that county is peppered with barn facades: structures that from the road look exactly like barns."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reliabilism/",
+          "quote": "Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, The Journal of Philosophy , 73(20): 771–791."
+        }
+      ]
+    },
+    {
+      "text": "Anh ta đúng, có lý do, nhưng nhiều người cho rằng anh ta *không biết*, vì nếu nhìn sang bên cạnh thì anh ta cũng tin y như vậy và sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "some epistemologists (e.g. Neta and Rohrbaugh 2004:399) argue that safety conditions fare poorly with respect to some versions of Ginet’s barn facade cases"
+        }
+      ]
+    },
+    {
+      "text": "Phần lớn tri thức của mỗi chúng ta là tri thức qua *lời chứng* của người khác: thầy cô, sách vở, bác sĩ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epistemology-social/",
+          "quote": "When it comes to the various ways we rely on others as we engage in the pursuit of truth, testimony is paradigmatic."
+        }
+      ]
+    },
+    {
+      "text": "Đây cũng là chỗ cần soi [giả định ngầm](../cong-cu/gia-dinh-ngam.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/gia-dinh-ngam/",
+          "quote": "Một giả định ngầm ( hidden assumption hoặc unstated premise ) là một tiền đề mà lập luận cần đến để đi tới kết luận"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi này dẫn ta sang một bài khác: [Một cỗ máy có thể có tâm trí không?](tam-tri-va-ai.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "Một cỗ máy có thể có tâm trí không? - Logos Zero",
+          "where": "<title> trang đích"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Không có dữ kiện Việt Nam cần nguồn (nhóm Zalo, nước chanh là ví dụ tự đặt, được trình bày như tin đồn cần nghi ngờ). Ba link nội bộ khớp nhãn và nội dung trang đích trên site đã deploy. Ví dụ nhà kho giả: Goldman 1976 công bố, ghi công Carl Ginet — khớp SEP."
+}

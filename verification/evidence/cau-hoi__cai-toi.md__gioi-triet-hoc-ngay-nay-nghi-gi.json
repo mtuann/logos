@@ -1,0 +1,79 @@
+{
+  "unit": "cau-hoi/cai-toi.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:66cd15c1c0fd8e893fc51ce6fff7539e9f7a5c505d1c47aaa5012d513e54511e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k06",
+  "claims": [
+    {
+      "text": "| Bản sắc cá nhân | Quan điểm tâm lý | [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-sac-ca-nhan"
+    },
+    {
+      "text": "| Máy dịch chuyển (bản sao bằng vật chất mới) | Sống sót | [[pp:may-dich-chuyen-vat-chat-moi.song-sot]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey",
+          "where": "Crossref: Philosophers' Imprint 23"
+        }
+      ]
+    },
+    {
+      "text": "Cả hai đều là câu hỏi chính (hỏi mọi người tham gia)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
+    },
+    {
+      "text": "**Quan điểm tâm lý (dòng dõi Locke) dẫn đầu** với [[pp:ban-sac-ca-nhan.quan-diem-tam-ly]]%, hơn gấp đôi quan điểm sinh học. Nhưng hơn một nửa triết gia *không* chọn nó — không có đồng thuận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/ban-sac-ca-nhan"
+    },
+    {
+      "text": "[[pp:may-dich-chuyen-vat-chat-moi.song-sot]]% nói bạn sống sót, [[pp:may-dich-chuyen-vat-chat-moi.chet]]% nói bạn chết.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
+    },
+    {
+      "text": "Đây là một trong những câu hỏi gây chia rẽ nhất của cả khảo sát — phù hợp với nhận định của Parfit: trực giác của ta về \"sống sót\" không rạch ròi như ta tưởng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Không lựa chọn nào đạt đa số — phù hợp với nhận định của Parfit: trực giác của ta về \"sống sót\" không rạch ròi như ta tưởng.",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "The results provide a snapshot of the state of some central debates in philosophy",
+          "where": "tóm tắt bài báo; tools/philpapers-2020.md chỉ có số liệu từng câu (35,2 / 40,1 / khác 24,8), không xếp hạng mức chia rẽ"
+        }
+      ]
+    },
+    {
+      "text": "Không có số liệu khảo sát riêng cho quan điểm vô ngã của Phật giáo trong đợt này.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-sac-ca-nhan"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu: 43,7 / 19,1 / 14,9 (bản sắc cá nhân), 35,2 / 40,1 (máy dịch chuyển), đều câu chính Bảng 1 trong tools/philpapers-2020.md; 43,7 > 2×19,1; 100−43,7 = 56,3% không chọn. Bài báo gốc (journals.publishing.umich.edu, bản Wayback) bị chặn bởi Anubis nên không kiểm được nhận định \"chia rẽ nhất\"; ghi sai mức nhẹ vì là khái quát không nguồn."
+}

@@ -1,0 +1,109 @@
+{
+  "unit": "cau-hoi/bat-dong-tri-thuc.md#lien-he-doi-song",
+  "hash": "sha256:8fd347c1afb49fdec0ebce3f5894a8e87e8c25b23085e4b0bf51bb6d5897e29a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "Thuyết hòa giải chỉ nói về bất đồng giữa những người *thực sự* ngang tài về bằng chứng và năng lực.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "The vast majority of the literature on the epistemic significance of disagreement, however, concerns recognized peer disagreement"
+        }
+      ]
+    },
+    {
+      "text": "Trong tranh cãi vaccine, một bên là sự đồng thuận của đại đa số giới chuyên môn dựa trên khối bằng chứng khổng lồ; bên kia phần lớn không ngang tài về bằng chứng lẫn năng lực đánh giá.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety",
+          "quote": "Most childhood vaccines have been in use for decades, with millions of people receiving them safely every year",
+          "where": "WHO, Vaccines and immunization: Vaccine safety (23/9/2025)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "In many cases the experts have a definite opinion: global warming is happening",
+          "where": "biến đổi khí hậu, nêu trong Tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "(Xem thêm cách chọn chuyên gia trong [bài về lời chứng](loi-chung.md).)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/loi-chung/",
+          "quote": "ta nên tin chuyên gia nào, giữa một rừng người tự xưng chuyên gia?",
+          "where": "trang đích, lập trường 3 \"Tin vào chuyên gia\""
+        }
+      ]
+    },
+    {
+      "text": "dù bạn theo phe hòa giải hay phe kiên định, cả hai đều đồng ý rằng *thông tin về sự bất đồng* là thông tin đáng kể",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Competitor views of peer disagreements are best understood as a rejection of various aspects of the",
+          "where": "lưu ý: thuyết kiên định thuần (SEP mục 5.2) cho rằng bất đồng \"does not mandate any doxastic change\", nhưng câu của bài chỉ nói ở trường hợp chuyên gia thật sự chưa ngã ngũ, nên chấp nhận được"
+        }
+      ]
+    },
+    {
+      "text": "**Mạng xã hội và ảo giác đồng thuận.** Thuật toán cho ta thấy những người đồng ý với mình, nên ta ít khi gặp \"người ngang tài bất đồng\" một cách trung thực.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Mạng xã hội và ảo giác đồng thuận.** Trên mạng, ta dễ chủ yếu gặp những người đồng ý với mình, nên ít khi gặp \"người ngang tài bất đồng\" một cách trung thực.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "If we aren’t sheltered, then we know that there is a great deal of controversy",
+          "where": "câu của bài là khẳng định thực nghiệm về thuật toán, không có nguồn; câu sửa bỏ phần quy cho thuật toán"
+        }
+      ]
+    },
+    {
+      "text": "**Hòa giải không phải là thỏa hiệp.** […] thuyết hòa giải nói về *độ tin* (bạn nên bớt chắc chắn), không nói về *hành động* […] Khiêm tốn về mặt tri thức không đồng nghĩa với tê liệt về mặt hành động.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Suspending judgment just doesn’t exist when it comes to an action."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "She can’t just refuse to treat the patient."
+        }
+      ]
+    },
+    {
+      "text": "Phe kiên định cũng đồng ý ở điểm này: kiểm tra lại lý lẽ của mình là bắt buộc; hai phe chỉ khác nhau ở chỗ sau khi kiểm tra xong thì có hạ độ tin hay không.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "the Steadfast View maintains that sticking to one’s guns in a case of peer disagreement can be rational"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Không có dữ kiện Việt Nam. Đoạn vaccine là lập trường của bài (đã nêu ở Tóm tắt), không phải câu hỏi còn mở trong văn liệu; có nguồn WHO cho vế đồng thuận/bằng chứng an toàn."
+}

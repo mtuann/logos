@@ -1,0 +1,72 @@
+{
+  "unit": "cau-hoi/ngon-ngu.md#doc-van-ban-goc",
+  "hash": "sha256:b2ebe04b7101b9d6b3bcae93ada672e78936652a25436548665f7a04a72cafc8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "Whorf (1956), Berlin & Kay (1969), Pinker (1994), Wittgenstein (1953) — đều còn bản quyền (bản dịch tiếng Việt của Wittgenstein cũng vậy)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Whorf (1956), Berlin & Kay (1969), Pinker (1994) đều còn bản quyền; với Wittgenstein (1953), nguyên bản tiếng Đức đã hết hạn bảo hộ ở nhiều nước (ông mất năm 1951), nhưng bản dịch tiếng Anh của Anscombe và bản dịch tiếng Việt vẫn còn bản quyền",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "Philosophical Investigations ( PI ) was published posthumously in 1953.",
+          "where": "mục 3.2: ông mất trước khi sách in; hạn bảo hộ 70 năm sau khi tác giả mất tính theo luật từng nước"
+        }
+      ]
+    },
+    {
+      "text": "*Giả sử mỗi người có một chiếc hộp chứa thứ gọi là \"bọ cánh cứng\", nhưng không ai được xem hộp của người khác.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/ludwig-wittgenstein-philosophical-investigations-anscombes-von-wrights-edition-1986/Ludwig%20Wittgenstein%2C%20Philosophical%20Investigations%2C%20Anscombe%27s%20Von%20Wright%27s%20edition%20%281986%29_djvu.txt",
+          "quote": "No one can look into anyone else's box",
+          "where": "PI §293"
+        }
+      ]
+    },
+    {
+      "text": "vật trong hộp — dù là gì, hay thậm chí không có gì — không đóng vai trò gì trong trò chơi ngôn ngữ này, \"thậm chí không phải như một cái gì đó\", vì chiếc hộp có thể trống: nó bị giản ước đi, dù nó là gì.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/ludwig-wittgenstein-philosophical-investigations-anscombes-von-wrights-edition-1986/Ludwig%20Wittgenstein%2C%20Philosophical%20Investigations%2C%20Anscombe%27s%20Von%20Wright%27s%20edition%20%281986%29_djvu.txt",
+          "quote": "The thing in the box has no place in the language-game at all; not even as a something: for the box might even be empty.",
+          "where": "PI §293"
+        },
+        {
+          "url": "https://archive.org/download/ludwig-wittgenstein-philosophical-investigations-anscombes-von-wrights-edition-1986/Ludwig%20Wittgenstein%2C%20Philosophical%20Investigations%2C%20Anscombe%27s%20Von%20Wright%27s%20edition%20%281986%29_djvu.txt",
+          "quote": "it cancels out, whatever it is",
+          "where": "PI §293"
+        }
+      ]
+    },
+    {
+      "text": "nếu ta diễn giải ngữ pháp của \"cảm giác\" theo mô hình \"vật và tên gọi\", thì cái vật bị loại khỏi cuộc xem xét như một thứ không liên quan.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/ludwig-wittgenstein-philosophical-investigations-anscombes-von-wrights-edition-1986/Ludwig%20Wittgenstein%2C%20Philosophical%20Investigations%2C%20Anscombe%27s%20Von%20Wright%27s%20edition%20%281986%29_djvu.txt",
+          "quote": "if we construe the grammar of the expression of sensation on the model of 'object and designation’ the object drops out of consideration as irrelevant.",
+          "where": "PI §293"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tóm tắt §293 đối chiếu bản Anscombe (Internet Archive), khớp từng ý; cụm trích “thậm chí không phải như một cái gì đó” dịch đúng “not even as a something”."
+}

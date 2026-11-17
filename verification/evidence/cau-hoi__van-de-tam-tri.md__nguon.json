@@ -1,0 +1,87 @@
+{
+  "unit": "cau-hoi/van-de-tam-tri.md#nguon",
+  "hash": "sha256:fee6ef19a3e38cee586e3d643671d6c9eddc15dafedc66db805206abe6b40ae1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Robinson, Howard & Ralph Weir, \"Dualism\", *Stanford Encyclopedia of Philosophy*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.dualism",
+      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/", "quote": "Interactionism is the view that mind and body", "where": "§3.3; citation_author: Robinson, Howard; Weir, Ralph"}]
+    },
+    {
+      "text": "Stoljar, Daniel, \"Physicalism\", *Stanford Encyclopedia of Philosophy*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.physicalism",
+      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/physicalism/", "quote": "The Argument from Causal Closure", "where": "citation_author: Stoljar, Daniel"}]
+    },
+    {
+      "text": "Nida-Rümelin, Martine & Donnchadh O Conaill, \"Qualia: The Knowledge Argument\", *Stanford Encyclopedia of Philosophy*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.qualia-knowledge",
+      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/qualia-knowledge/", "quote": "Frank Jackson (1982) formulates the intuition underlying his Knowledge Argument", "where": "§2; citation_author: Nida-Rümelin, Martine; O Conaill, Donnchadh"}]
+    },
+    {
+      "text": "Kirk, Robert, \"Zombies\", *Stanford Encyclopedia of Philosophy*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.zombies",
+      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/zombies/", "quote": "The simplest version of this argument goes:", "where": "§3; citation_author: Kirk, Robert"}]
+    },
+    {
+      "text": "Jackson, Frank (1982), \"Epiphenomenal Qualia\", *Philosophical Quarterly* 32(127): 127–136.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.jackson-frank-1982-epiphenomenal-qualia-philosophical-quarte",
+      "sources": [{"url": "https://api.crossref.org/works/10.2307/2960077", "quote": "Epiphenomenal Qualia", "where": "Crossref: The Philosophical Quarterly 32(127), trang đầu 127, 04/1982"}]
+    },
+    {
+      "text": "Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.chalmers-david-j-1996-the-conscious-mind-in-search-of-a-fund"
+    },
+    {
+      "text": "Smart, J. J. C. (1959), \"Sensations and Brain Processes\", *Philosophical Review* 68: 141–156; Place, U. T. (1956), \"Is Consciousness a Brain Process?\", *British Journal of Psychology* 47(1): 44–50 (... \"The Mind/Brain Identity Theory\" của J. J. C. Smart ...)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.mind-identity",
+      "sources": [
+        {"url": "https://api.crossref.org/works/10.2307/2182164", "quote": "Sensations and Brain Processes", "where": "Crossref: The Philosophical Review 68(2), trang đầu 141, 1959"},
+        {"url": "https://api.crossref.org/works/10.1111/j.2044-8295.1956.tb00560.x", "quote": "IS CONSCIOUSNESS A BRAIN PROCESS?", "where": "Crossref: British Journal of Psychology 47(1): 44-50, 1956"}
+      ]
+    },
+    {
+      "text": "Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (phạm vi công cộng).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/wikisource.en.meditations-on-first-philosophy-meditation-vi",
+      "sources": [{"url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI", "quote": "may exist without it", "where": "đoạn 9"}]
+    },
+    {
+      "text": "Shapiro, Lisa (chủ biên, 2007), *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press (thư từ năm 1643 về vấn đề tương tác).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.shapiro-lisa-chu-bien-2007-the-correspondence-between-prince"
+    },
+    {
+      "text": "Kripke, Saul (1980), *Naming and Necessity*, Oxford: Blackwell",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.kripke-saul-1980-naming-and-necessity-oxford-blackwell-lap-l"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Cả 11 dòng nguồn trùng bản ghi sources/* đã đóng băng. Đã mở lại các URL SEP bản lưu fall2026, Wikisource và siêu dữ liệu Crossref."
+}

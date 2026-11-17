@@ -1,0 +1,130 @@
+{
+  "unit": "cau-hoi/quyen-rieng-tu-so.md#_dau",
+  "hash": "sha256:ef3622b9dd6ec639dde165c4f09fdaa705a30f57bf96bdd0b04036fad265adc7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "riêng tư không phải là *bí mật* mà là *ranh giới* giữa cái thuộc về mình và cái thuộc về chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "The deeper problem with the nothing to hide argument is that it myopically views privacy as a form of concealment or secrecy."
+        }
+      ]
+    },
+    {
+      "text": "vấp phản bác của Solove: lập luận này sai ngay ở giả định rằng riêng tư chỉ là giấu điều xấu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "But the problem with the nothing to hide argument is the underlying assumption that privacy is about hiding bad things."
+        }
+      ]
+    },
+    {
+      "text": "Snowden ví: nói không quan tâm riêng tư vì không có gì để giấu cũng như nói không quan tâm tự do ngôn luận vì không có gì để nói",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://netzpolitik.org/2015/edward-snowden-ueber-ich-hab-nichts-zu-verbergen/",
+          "quote": "Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.",
+          "where": "nguồn yếu: netzpolitik.org 2015 chép lại câu trả lời của Snowden trong Reddit AMA tháng 5/2015"
+        }
+      ]
+    },
+    {
+      "text": "(Warren & Brandeis, \"The Right to Privacy\", 1890: \"quyền được yên thân\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy",
+          "quote": "securing to the individual what Judge Cooley calls the right \"to be let alone.\""
+        }
+      ]
+    },
+    {
+      "text": "người ta hành xử khác đi khi biết mình bị quan sát (*chilling effect*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "Even surveillance of legal activities can inhibit people from engaging in them."
+        }
+      ]
+    },
+    {
+      "text": "*tư* (私, cá nhân, phần mình). Tiếng Anh *privacy* gốc Latin *privatus* (tách khỏi công việc chung, thuộc về cá nhân)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://hvdic.thivien.net/whv/%E7%A7%81",
+          "quote": "Có 1 kết quả: tư 私 Âm Hán Việt: tư"
+        },
+        {
+          "url": "https://www.dictionary.com/browse/private",
+          "quote": "from Latin prīvātus “private,” literally, “taken away (from public affairs),”"
+        }
+      ]
+    },
+    {
+      "text": "toàn vẹn ngữ cảnh (Nissenbaum, *Privacy in Context*, 2010)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "toàn vẹn ngữ cảnh (Nissenbaum, *Privacy in Context*, 2009)",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=privacy+in+context+nissenbaum&fields=title,first_publish_year,publish_date,publisher",
+          "quote": "\"first_publish_year\":2009,\"publish_date\":[\"2009\"],\"publisher\":[\"Stanford University Press\"]"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "Nissenbaum, Helen, 2010, Privacy in Context: Technology, Policy, and the Integrity of Social Life , Stanford: Stanford Law Books."
+        }
+      ]
+    },
+    {
+      "text": "hồ sơ bệnh án trong tay bác sĩ là bình thường, trong tay công ty bảo hiểm là vi phạm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "For Nissenbaum, the right to privacy is best understood as a “right to appropriate flow of personal information” (2010: 127)."
+        }
+      ]
+    },
+    {
+      "text": "Thái độ của bài: đánh đổi an ninh–riêng tư không nhất thiết là bài toán zero-sum — giám sát có mục tiêu thay vì đại trà, dữ liệu ẩn danh hóa và có sự đồng ý, nguyên tắc \"giới hạn mục đích\" trong luật dữ liệu hiện đại chính là toàn vẹn ngữ cảnh được luật hóa.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Thái độ của bài: trình bày trung lập. Lập trường 2 và 3 cho rằng đánh đổi an ninh–riêng tư không nhất thiết là bài toán zero-sum — giám sát có mục tiêu thay vì đại trà, dữ liệu ẩn danh hóa và có sự đồng ý; người theo Nissenbaum coi nguyên tắc \"giới hạn mục đích\" trong luật dữ liệu hiện đại là toàn vẹn ngữ cảnh được luật hóa.",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
+          "quote": "collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes",
+          "where": "GDPR Điều 5(1)(b); trong thân bài ý này chỉ xuất hiện ở mục \"Cách đáp lại\" của lập trường 2 và 3, không phải kết luận của bài"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": false,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Năm 2010 trùng năm SEP ghi (bản quyền), nhưng thân bài và kho sources (đóng băng) ghi 2009, Open Library ghi xuất bản 2009: lệch nội bộ, lỗi nhẹ. Lỗi vừa: ý \"Thái độ của bài\" biến lập luận của lập trường 2–3 (thân bài trình bày ở mục \"Cách đáp lại\") thành kết luận của bài ở câu hỏi còn mở; thân bài không có câu nào nêu thái độ đó là của bài."
+}

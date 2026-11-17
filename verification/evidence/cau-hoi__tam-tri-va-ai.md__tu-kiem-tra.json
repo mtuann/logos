@@ -1,0 +1,71 @@
+{
+  "unit": "cau-hoi/tam-tri-va-ai.md#tu-kiem-tra",
+  "hash": "sha256:bbe6f28b7ff2c545d6473bfa03db109aae2a8c3d2a1bd4bbf18327df5f47a070",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Một chiếc máy tính bỏ túi nhân hai số lớn nhanh hơn bạn. Điều này cho thấy rõ nhất điều gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "The human produces the appearance of understanding Chinese by following the symbol manipulating instructions, but does not thereby come to understand Chinese."
+        }
+      ]
+    },
+    {
+      "text": "Searle dùng Căn phòng tiếng Trung chủ yếu để bác bỏ điều gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "The argument is directed at the view that formal computations on symbols can produce thought."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Searle says that brains are machines, and brains think"
+        }
+      ]
+    },
+    {
+      "text": "\\\"Người trong phòng không hiểu, nhưng cả hệ thống gồm người, sổ quy tắc và giấy bút thì hiểu.\\\" Đây là:",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "So the Systems Reply is that while the man running the program does not understand Chinese, the system as a whole does."
+        }
+      ]
+    },
+    {
+      "text": "Thí nghiệm Blockhead của Ned Block nhằm chỉ ra điều gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
+          "quote": "then Blockhead is a counterexample to the claim that the Turing Test provides a logically sufficient condition for the ascription of intelligence"
+        }
+      ]
+    },
+    {
+      "text": "51,9% chấp nhận hoặc nghiêng về vật lý luận và 62,4% cho rằng có vấn đề khó. Chỉ 39,2% chấp nhận ý thức ở AI tương lai; khảo sát diễn ra năm 2020, trước ChatGPT; và 67,1% cho rằng căn phòng không hiểu.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/van-de-kho-cua-y-thuc-co-ton-tai-khong"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Quiz mind-1, 5 câu: đáp án đúng đều đúng, phương án sai đều sai, lời giải khớp bài. Số liệu câu 5 đối chiếu tools/philpapers-2020.md (51,9; 62,4; 39,2; 67,1) và các khóa philpapers/tam-tri, philpapers/nhung-tam-tri-khac-..., philpapers/can-phong-tieng-trung (đóng băng)."
+}

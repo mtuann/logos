@@ -1,0 +1,70 @@
+{
+  "unit": "cau-hoi/pha-thai.md#nguon",
+  "hash": "sha256:bb2804f21b0f5ec587eb9da5b812b6d4eb626b5d3ca74848483b99a60b9cba37",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "1. Thomson, Judith Jarvis (1971), \"A Defense of Abortion\", Philosophy & Public Affairs, vol. 1, no. 1, tr. 47–66.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.thomson-judith-jarvis-1971-a-defense-of-abortion-philosophy"
+    },
+    {
+      "text": "2. Marquis, Don (1989), \"Why Abortion is Immoral\", The Journal of Philosophy, vol. 86, no. 4, tr. 183–202. <https://doi.org/10.2307/2026961>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2026961",
+          "quote": "\"title\":[\"Why Abortion is Immoral\"]",
+          "where": "Crossref của DOI trong bài; tập 86, số 4, trang đầu 183"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "Marquis, Don, 1989, “Why Abortion is Immoral”, The Journal of Philosophy , 86(4): 183–202.",
+          "where": "thư mục SEP"
+        }
+      ]
+    },
+    {
+      "text": "3. Warren, Mary Anne (1973), \"On the Moral and Legal Status of Abortion\", The Monist, vol. 57, no. 1, tr. 43–61. <https://doi.org/10.5840/monist197357133>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.5840/monist197357133",
+          "quote": "\"page\":\"43-61\"",
+          "where": "Crossref của DOI trong bài; tập 57, số 1, năm 1973"
+        }
+      ]
+    },
+    {
+      "text": "4. Harman, Elizabeth (2025), \"The Ethics of Abortion\", Stanford Encyclopedia of Philosophy.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.abortion"
+    },
+    {
+      "text": "5. David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Philosophers' Imprint 23: 11, 1–53. doi: https://doi.org/10.3998/phimp.2109",
+          "where": "mục How to Cite"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Trang DOI của Marquis (JSTOR) chặn công cụ tự động; tên bài, tập, số đối chiếu qua Crossref, trang 183–202 qua thư mục SEP. Ghi chú ngoài phạm vi: Warren 1973 có trong danh mục nhưng thân bài không dẫn tới."
+}

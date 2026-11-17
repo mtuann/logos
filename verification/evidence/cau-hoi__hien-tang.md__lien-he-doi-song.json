@@ -1,0 +1,64 @@
+{
+  "unit": "cau-hoi/hien-tang.md#lien-he-doi-song",
+  "hash": "sha256:a633309a800a21913b2214eebcc4907066bc37ca63beb5fcf7fc5cddbd5bf5a4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Ở Việt Nam (mô hình opt-in)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://tienphong.vn/khong-phai-cu-dang-ky-la-hien-duoc-tang-post1890836.tpo", "quote": "thủ tục đăng ký hiến tạng chủ yếu nhằm ghi nhận nguyện vọng của công dân và cập nhật thông tin vào danh sách vận động hiến tặng", "where": "nguồn yếu: báo Tiền Phong, 03/11/2026, lời PGS.TS Đồng Văn Hệ"}
+      ]
+    },
+    {
+      "text": "danh sách chờ ghép tạng luôn dài hơn nguồn tạng rất nhiều",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://www.vietnamplus.vn/nang-cao-hieu-qua-hoat-dong-hien-ghep-tang-tai-viet-nam-post1142944.vnp", "quote": "Nguồn tạng hiến hiện chủ yếu đến từ người sống, trong khi tỷ lệ hiến tạng từ người chết não còn rất thấp.", "where": "nguồn yếu: VietnamPlus, 19/10/2026"}
+      ]
+    },
+    {
+      "text": "bạn có dành 10 phút để đăng ký hiến tạng (hiện có thể đăng ký trực tuyến qua Trung tâm Điều phối ghép tạng Quốc gia)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "bạn có dành 10 phút để đăng ký hiến tạng (với Trung tâm Điều phối quốc gia về ghép bộ phận cơ thể người)",
+      "sources": [
+        {"url": "https://vov.vn/xa-hoi/tam-dung-dang-ky-hien-mo-tang-truc-tuyen-de-ra-soat-dich-vu-post1346084.vov", "quote": "Chiều 30/10, website của Trung tâm Điều phối quốc gia về ghép bộ phận cơ thể người tạm dừng tiếp nhận đăng ký hiến mô, tạng mới.", "where": "nguồn yếu: VOV, 30/10/2026"},
+        {"url": "https://vov.vn/xa-hoi/tam-dung-dang-ky-hien-mo-tang-truc-tuyen-de-ra-soat-dich-vu-post1346084.vov", "quote": "Hiện tại chúng tôi đang tạm dừng tiếp nhận đăng ký mới để rà soát và nâng cao chất lượng dịch vụ.", "where": "thông báo trên website Trung tâm, VOV dẫn lại"}
+      ]
+    },
+    {
+      "text": "Vì trong thực tế Việt Nam, ý kiến của gia đình tại thời điểm quyết định có trọng lượng rất lớn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://tienphong.vn/khong-phai-cu-dang-ky-la-hien-duoc-tang-post1890836.tpo", "quote": "Chỉ cần một thành viên trong gia đình không đồng ý thì việc hiến tạng không thể thực hiện", "where": "nguồn yếu: Tiền Phong, lời PGS.TS Dương Đức Hùng, Giám đốc BV Hữu nghị Việt Đức"}
+      ]
+    },
+    {
+      "text": "Quan niệm truyền thống này — người chết nên được giữ nguyên vẹn — là một trong những rào cản văn hóa lớn nhất với hiến tạng ở Việt Nam",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://baolaocai.vn/go-cac-rao-can-phap-ly-doi-voi-viec-ghep-tang-de-them-co-hoi-keo-dai-su-song-post387322.html", "quote": "rào cản đầu tiên chính là nhận thức, khi phần lớn người dân vẫn có quan niệm \"chết phải toàn thây\"", "where": "nguồn yếu: báo Lào Cai, lời PGS.TS Nguyễn Thị Kim Tiến"}
+      ]
+    },
+    {
+      "text": "là một trong những rào cản văn hóa lớn nhất với hiến tạng ở Việt Nam và nhiều nước châu Á",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "là một trong những rào cản văn hóa lớn nhất với hiến tạng ở Việt Nam",
+      "sources": [
+        {"url": "https://baolaocai.vn/go-cac-rao-can-phap-ly-doi-voi-viec-ghep-tang-de-them-co-hoi-keo-dai-su-song-post387322.html", "quote": "rào cản đầu tiên chính là nhận thức", "where": "nguồn chỉ nói về Việt Nam; phần 'nhiều nước châu Á' chưa có nguồn đã mở"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "sua",
+  "notes": "Khối [[thoi-su:cau-hoi.hien-tang.nguon-tang-viet-nam]] không kiểm ở đây. Lỗi vừa: câu 'hiện có thể đăng ký trực tuyến' là nội dung có hạn dùng nằm trong thân bài Lõi, và từ 30/10/2026 đã sai (website Trung tâm tạm dừng nhận đăng ký mới; đến 17/11/2026 chưa thấy tin mở lại). Tên đơn vị cũng chưa đúng tên chính thức: 'Trung tâm Điều phối quốc gia về ghép bộ phận cơ thể người'. Nếu muốn giữ thông tin về kênh đăng ký thì nên chuyển vào khối thời sự."
+}

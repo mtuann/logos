@@ -1,0 +1,91 @@
+{
+  "unit": "cau-hoi/pha-thai.md#tu-kiem-tra",
+  "hash": "sha256:9de5a5a6384901ff918a25ca8237782dcf451793fc85d780285b8990882bdd7c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "Câu 1: nước đi trung tâm của Thomson là 'Tạm chấp nhận thai nhi là người có quyền sống, rồi hỏi: quyền đó có bao gồm quyền được dùng thân thể người khác không — và trả lời là không' (đáp án 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm",
+          "quote": "I propose, then, that we grant that the fetus is a person from the moment of conception.",
+          "where": "Thomson 1971, mục 1; ba phương án còn lại (chứng minh thai nhi không phải người, không đau, tự chủ luôn thắng) đều trái với bài báo"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: lập luận 'ranh giới không tùy tiện' — chỉ có thời điểm thụ thai là điểm không tùy tiện về mặt sinh học (đáp án 1)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/abortion/",
+          "quote": "The advantage of the extreme conservative view is the fact that it defines human personhood from the beginning of life (the unicellular zygote); there is no slippery slope.",
+          "where": "mục 1.a"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: phản bác 'tự nguyện' nhắm vào chỗ phần lớn ca mang thai bắt đầu từ quan hệ tự nguyện (đáp án 2)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "1. A pregnant woman who has consensual sex is responsible for the fetus’s dependence on her body.",
+          "where": "§1.2.1"
+        }
+      ]
+    },
+    {
+      "text": "Lời giải câu 3: \"Đây là phản bác nổi tiếng nhất đối với Thomson\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đây là một phản bác thường gặp đối với Thomson: sự tương đồng giữa 'bị bắt cóc' và 'mang thai sau quan hệ tự nguyện' không hoàn hảo, vì trách nhiệm đối với hậu quả của hành động tự nguyện là một nguyên tắc đạo đức cơ bản.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "1.2.1 Response from consensual sex The violinist case might appear to defend abortion only in the case of rape.",
+          "where": "§1.2.1: nguồn trình bày phản bác, không xếp nó là 'nổi tiếng nhất'"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: thuyết tiệm tiến chủ trương địa vị đạo đức của thai nhi tăng dần theo sự phát triển (đáp án 0)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/abortion/",
+          "quote": "there is a gradual process from being a fetus to being an infant where the fetus is not a human being but a human offspring with a different moral status",
+          "where": "mục 1.a"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: Thomson đáp phản bác 'tự nguyện' bằng hình ảnh 'hạt người' lọt qua màn chắn cửa sổ (đáp án 3); các phương án khác là những thí nghiệm tư duy không liên quan",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm",
+          "quote": "people-seeds drift about in the air like pollen",
+          "where": "Thomson 1971, mục 4"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Năm câu: đáp án đúng, phương án sai thật sự sai, lời giải khớp bài. Chỉ một chữ khái quát 'nổi tiếng nhất' ở lời giải câu 3 (mức nhẹ, giống câu tương ứng ở cac-lap-truong-chinh). Sửa lời giải không đổi data-id 'ethics-a1'."
+}

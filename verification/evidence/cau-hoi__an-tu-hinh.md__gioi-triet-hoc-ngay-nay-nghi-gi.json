@@ -1,0 +1,83 @@
+{
+  "unit": "cau-hoi/an-tu-hinh.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:347075792ca732f92f135b459468570b3fc5746f5bd7f5150b4fca1d888ac982",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "| Án tử hình — câu bổ sung, n ≈ [[pp:an-tu-hinh/n]] | Được phép | [[pp:an-tu-hinh.duoc-phep]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/an-tu-hinh"
+    },
+    {
+      "text": "| Luật pháp — câu bổ sung, n ≈ [[pp:luat-phap/n]] | Thực chứng luận pháp lý (*legal positivism*) | [[pp:luat-phap.thuc-chung-luan-phap-ly]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/luat-phap"
+    },
+    {
+      "text": "Cả hai đều là câu bổ sung (chỉ một phần người tham gia được hỏi)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/an-tu-hinh"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Nó hỏi một chuyện khác: luật có tồn tại và có nội dung chỉ nhờ các sự kiện xã hội (ai ban hành, được thừa nhận ra sao) — tức thực chứng luận — hay còn phụ thuộc một phần vào đạo đức.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-positivism/",
+          "quote": "Legal positivism is the thesis that the existence and content of law depends on social facts and not on its merits."
+        }
+      ]
+    },
+    {
+      "text": "Hai phe gần ngang nhau, và mẫu chỉ khoảng [[pp:luat-phap/n]] người.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/luat-phap"
+    },
+    {
+      "text": "người trả lời là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dailynous.com/2020/10/16/2020-philpapers-survey-begins/",
+          "quote": "distributed by email to the “target group” of 8,000 professional philosophers in Australia, Canada, Ireland, New Zealand, the United Kingdom, and the United States, as well as some faculty members who publish in English",
+          "where": "nguồn yếu: blog Daily Nous; bài gốc Bourget & Chalmers trên journals.publishing.umich.edu và philarchive.org chặn công cụ (Anubis/Cloudflare)"
+        }
+      ]
+    },
+    {
+      "text": "Con số khớp với nhận xét rằng trong giới triết học đạo đức đương đại, cán cân tranh luận học thuật nghiêng về phía hoài nghi án tử hình — các bài báo triết học về chủ đề này trong vài thập kỷ qua chủ yếu là phê phán (tập trung vào oan sai, phân biệt đối xử và tính tùy tiện trong áp dụng).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Con số cho thấy, trong cộng đồng triết gia được khảo sát, đa số nghiêng về phía cho rằng án tử hình không được phép.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "Some abolitionists focus on particular modes of punishment, such as capital punishment (see, e.g., Brooks 2004; Yost 2019)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Số liệu qua shortcode, khớp kho philpapers/an-tu-hinh (17,7 / 75,1 / 7,1; n 1.120) và philpapers/luat-phap (39,5 / 45,0 / 16,0; n 620), đều Bảng 2; câu văn gọi đúng là câu bổ sung. Lỗi: nhận định về cán cân văn liệu triết học (\"các bài báo ... chủ yếu là phê phán\") trình bày như dữ kiện mà không có nguồn; SEP Legal Punishment chỉ nêu có tác giả chống án tử, không nói về tỷ lệ bài báo. Câu tiếp theo (\"Nhưng đa số không quyết định chân lý...\") giữ nguyên."
+}

@@ -1,0 +1,54 @@
+{
+  "unit": "cau-hoi/cai-ac.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:bbf6648651725ba36d6d3637f592e1fc5c401c8c27bf1cd527b0180b27bdb8b4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k08",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về bản chất của cái ác […] **chưa có số liệu khảo sát** cho các lập trường trong bài.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://doi.org/10.3998/phimp.2109", "quote": "We expanded the list of 30 questions to a list of 40 main questions that would be asked of all participants. We also added a further group of 60 additional (often more specialized) questions", "where": "§2; đã dò toàn văn (Bảng 1, Bảng 2): không có câu hỏi nào chứa \"evil\""}
+      ]
+    },
+    {
+      "text": "trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://doi.org/10.3998/phimp.2109", "quote": "the list of questions was expanded from 30 questions to 100 questions", "where": "§1; shortcode so-cau = 100 trong data/kb/philpapers-2020.json"}
+      ]
+    },
+    {
+      "text": "sau Arendt, \"triết học về cái ác\" là một lĩnh vực nghiên cứu sôi nổi, với những tranh luận về cái ác hệ thống, cái ác của thể chế",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "Secular analyses of the concept of evil in the narrow sense began in the twentieth century with the work of Hanna Arendt.", "where": "§2.3"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "there has also been some discussion of evil institutions", "where": "§5"}
+      ]
+    },
+    {
+      "text": "cả ba hướng trên đều có đại diện nghiêm túc và còn đang tranh luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "See Anglin and Goetz 1982 and Grant 2015 for replies to these objections", "where": "§2.1 (thuyết thiếu vắng vẫn được bênh vực); §2.3 và §3.3 cho hai hướng còn lại"}
+      ]
+    },
+    {
+      "text": "các thuật toán gây hại mà không programmer nào \"định\" gây hại",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "các thuật toán gây hại mà không lập trình viên nào \"định\" gây hại",
+      "sources": [
+        {"url": "https://hvdic.thivien.net/whv/%E6%83%A1", "quote": "Âm Hán Việt", "where": "lỗi diễn đạt: chen từ tiếng Anh \"programmer\" giữa câu tiếng Việt, không phải thuật ngữ; nguồn ghi chỉ để thỏa schema"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": false},
+  "result": "dat",
+  "notes": "Mục ghi trung thực là không có số liệu PhilPapers và không suy đoán \"đa số triết gia nghĩ gì\". Lỗi nhẹ: từ \"programmer\" chen giữa câu."
+}

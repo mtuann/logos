@@ -1,0 +1,59 @@
+{
+  "unit": "cau-hoi/chan-ly.md#thi-nghiem-tu-duy",
+  "hash": "sha256:17b1ddc568875f8981023c45b2e2eebcdc67ee69e67fe02e3777e40f8dc4a702",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "Xét câu S: *\"Sáng ngày 1 tháng 1 năm 1000, ở chỗ bây giờ là Hồ Gươm, có đúng bảy con chim đang đậu.\"* […] **Câu S đúng hoặc sai, chỉ là mãi mãi không ai biết? Hay vì không thể có cách nào biết, nó chẳng đúng cũng chẳng sai?**",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II",
+          "quote": "But I may be asked what I have to say to all the minute facts of history, forgotten never to be recovered",
+          "where": "Peirce 1878, mục IV; câu S là phiên bản do bài tự dựng của vấn đề \"bí mật bị chôn vùi\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Insofar as this really would be in principle unverifiable, we have no reason to maintain it is true or false according to the verificationist theory of truth."
+        }
+      ]
+    },
+    {
+      "text": "Nếu bạn nói \"dĩ nhiên đúng hoặc sai, chim đậu hay không là chuyện của buổi sáng ấy\", bạn nghiêng về **thuyết tương ứng**. Nếu bạn thấy vô nghĩa khi gọi \"đúng\" một câu mà không ai nhận ra được, bạn gần **thực dụng luận** và **thuyết tri thức**.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Hence, one important mark of realism is that it goes together with the principle of bivalence"
+        }
+      ]
+    },
+    {
+      "text": "Biến thể để thử thêm, một câu đố cổ Hy Lạp: *\"Câu in nghiêng này là sai.\"* Nếu nó đúng thì nó sai; nếu nó sai thì nó đúng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dialetheism/",
+          "quote": "the standard Liar is attributed to the Greek philosopher Eubulides, probably the greatest paradox-producer of antiquity"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "We have thus shown that FLiar is false if and only if FLiar is true."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu S là thí nghiệm tư duy do bài tự dựng (không gán cho tác giả nào); nó minh họa đúng vấn đề nhị trị với câu không thể kiểm chứng và \"bí mật bị chôn vùi\" của Peirce. Biến thể kẻ nói dối được gán đúng là \"câu đố cổ Hy Lạp\"."
+}

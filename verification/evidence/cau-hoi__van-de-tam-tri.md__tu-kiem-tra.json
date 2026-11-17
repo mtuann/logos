@@ -1,0 +1,56 @@
+{
+  "unit": "cau-hoi/van-de-tam-tri.md#tu-kiem-tra",
+  "hash": "sha256:a7a8ceee2bfd1af52e9febe56444aad5d277fb5c9e17f588bbc6fb63082d7a41",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Câu 1, đáp án 1: Elisabeth hỏi một thực thể phi vật chất làm sao gây ra chuyển động của thân thể vật chất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/", "quote": "how Descartes can explain the ability of an immaterial substance to act on a material substance", "where": "§4.2"}
+      ]
+    },
+    {
+      "text": "Câu 2, đáp án 1: thí nghiệm Mary nhằm chứng minh có những sự thật mà tri thức vật lý đầy đủ cũng không bao hàm, nên vật lý luận chưa đầy đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/qualia-knowledge/", "quote": "But she had all the physical information. Ergo there is more to have than that, and Physicalism is false.", "where": "§2; phương án 'Nhị nguyên luận của Descartes là đúng' sai, như lời giải nói"}
+      ]
+    },
+    {
+      "text": "Câu 3, đáp án 1: phản bác thường nhắm vào bước 2; lời giải: 36,5% dừng ở bước 2, 16,4% dừng ngay ở bước 1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/zombie-triet-hoc",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/zombies/", "quote": "Many philosophers are willing to concede that zombies are conceivable in some sense", "where": "§3"}
+      ]
+    },
+    {
+      "text": "Câu 4, đáp án 1: phản bác dùng định luật Leibniz: cơn đau riêng tư, trạng thái não công khai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/", "quote": "But the possessor of mental states seems to have a privileged access to them that no-one else can share.", "where": "§5.1; khớp lập trường 2 của bài"}
+      ]
+    },
+    {
+      "text": "Câu 5, đáp án 1: đa số nghiêng về vật lý luận, đồng thời đa số cho rằng có vấn đề khó; lời giải: 51,9%, 62,4%, nhị nguyên luận 22%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tam-tri"
+    },
+    {
+      "text": "Câu 5, lời giải: 62,4% cho rằng có vấn đề khó; nhị nguyên luận chỉ được 22%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/van-de-kho-cua-y-thuc-co-ton-tai-khong"
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Năm câu, mỗi câu một đáp án đúng, các phương án sai đều sai rõ. Số trong lời giải khớp tools/philpapers-2020.md (51,9; 62,4; 22,0; 36,5; 16,4). Con số 22% là của câu bổ sung 'Ý thức (lý thuyết)' (philpapers/y-thuc-ly-thuyet), đúng như thân bài. data-id 'mind-2' không đổi."
+}

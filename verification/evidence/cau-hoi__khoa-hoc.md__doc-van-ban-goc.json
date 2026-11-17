@@ -1,0 +1,71 @@
+{
+  "unit": "cau-hoi/khoa-hoc.md#doc-van-ban-goc",
+  "hash": "sha256:7695b76820f10a98a93cd08c532212a1a3a8740ad920fa44b718e348df3c6cf8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "các văn bản trung tâm của bài này — Popper (1934/1959), Kuhn (1962), Feyerabend (1975) — đều còn bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "© Paul Feyerabend 1975, 1988, 1993 All rights reserved",
+          "where": "trang bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "mục \"Science and Pseudo-Science\" của *Stanford Encyclopedia of Philosophy* (Hansson)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.pseudo-science"
+    },
+    {
+      "text": "*Một lý thuyết chỉ thuộc về khoa học thực nghiệm khi nó có thể mâu thuẫn với những quan sát có thể xảy ra",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pseudo-science/",
+          "quote": "statements or systems of statements, in order to be ranked as scientific, must be capable of conflicting with possible, or conceivable observations",
+          "where": "mục 4.1 (trích Popper 1962, 39)"
+        }
+      ]
+    },
+    {
+      "text": "Popper nói ranh giới khả bác bỏ là một \"quy ước phương pháp luận\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/karl-popper-the-logic-of-scientific-discovery/Karl%20Popper%2C%20The%20Logic%20of%20Scientific%20Discovery_djvu.txt",
+          "quote": "My criterion of demarcation will accordingly have to be regarded as a proposal for an agreement or convention.",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "Đọc thêm: [hướng dẫn đọc Hume về nhân quả](../doc/hume-nhan-qua.md), gốc của vấn đề quy nạp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/hume-nhan-qua/",
+          "quote": "Vòng tròn của quy nạp (EHU 4.16–4.23)",
+          "where": "mục lục trang đích"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Không có trích nguyên văn; tóm tắt tiêu chuẩn của Popper khớp câu Popper 1962, 39 do SEP trích."
+}

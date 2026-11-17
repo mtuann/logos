@@ -1,0 +1,55 @@
+{
+  "unit": "cau-hoi/dao-duc-hanh-dong.md#thi-nghiem-tu-duy",
+  "hash": "sha256:6a431b972af6c34fe8fb75a0355a84276caa72330685551572492946a05f5b51",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k09",
+  "claims": [
+    {
+      "text": "Một bác sĩ có năm bệnh nhân đang chờ ghép tạng ... một thanh niên khỏe mạnh đến khám sức khỏe định kỳ ... tạng của anh tương thích hoàn toàn với cả năm bệnh nhân",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "One common illustration is called Transplant. Imagine that each of five patients in a hospital will die without an organ transplant.",
+          "where": "§5; SEP ghi nguồn Foot 1966, Thomson 1976 — bài không gán cho tác giả nào, kể như một tình huống quen thuộc"
+        }
+      ]
+    },
+    {
+      "text": "Biến thể nổi tiếng của tình huống này — bài toán xe điện — đã có trong công cụ thí nghiệm tư duy của site, kèm số liệu khảo sát triết gia",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/thi-nghiem-tu-duy/",
+          "quote": "Tám thí nghiệm kinh điển — từ xe điện mất phanh"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/assets/data/thi-nghiem.json",
+          "quote": "PhilPapers Survey 2020 (Bourget & Chalmers 2023)",
+          "where": "dữ liệu công cụ, mục id \"xe-dien\", trường so_lieu_khao_sat"
+        }
+      ]
+    },
+    {
+      "text": "Hình: không bẻ ghi thì năm người chết, bẻ ghi thì một người chết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/assets/data/thi-nghiem.json",
+          "quote": "Nếu kéo cần gạt, xe sẽ chuyển sang đường ray phụ, nơi chỉ có một công nhân đang làm việc."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat"
+}

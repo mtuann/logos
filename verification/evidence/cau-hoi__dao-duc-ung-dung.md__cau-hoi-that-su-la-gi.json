@@ -1,0 +1,132 @@
+{
+  "unit": "cau-hoi/dao-duc-ung-dung.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:da0db2a6481eee1fb48c24ca573b3cc7b2c423c05c22aec81c3a6016e518fef4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k10",
+  "claims": [
+    {
+      "text": "*Animal Liberation* được ghi nhận là ngòi nổ của phong trào quyền động vật toàn cầu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelifeyoucansave.org/peter-singer/",
+          "quote": "often credited with starting the modern animal rights movement"
+        },
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The publication of his Animal Liberation marked the beginning of a growing and increasingly powerful movement in both the United States and Europe."
+        }
+      ]
+    },
+    {
+      "text": "bài báo 1972 trở thành nguồn cảm hứng lớn cho phong trào \"vị tha hiệu quả\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
+          "quote": "Singer’s pond example from that article prefigures the moral force of effective altruism."
+        }
+      ]
+    },
+    {
+      "text": "Singer không phải là người đầu tiên đặt các câu hỏi này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML18.html",
+          "quote": "the question is not, Can they reason? nor, Can they talk? but, Can they suffer?",
+          "where": "Bentham 1789, ch. XVII, chú thích"
+        }
+      ]
+    },
+    {
+      "text": "chính là điều mà [Socrates](../triet-gia/socrates.md) gọi là \"cuộc sống không được xét lại thì không đáng sống\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/5/1656/1656-0.txt",
+          "quote": "unexamined life is not worth living",
+          "where": "Plato, Apology (bản dịch Jowett), Project Gutenberg #1656, mirror pglaf"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/socrates/",
+          "quote": "Socrates - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "để xem các phản bác nhằm vào Singer thực ra là phản bác nhằm vào thuyết vị lợi nói chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "Thuyết vị lợi: hãy tạo ra nhiều hạnh phúc nhất"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "Quay lại bác sĩ và năm bệnh nhân."
+        }
+      ]
+    },
+    {
+      "text": "Một tài liệu nên đọc tiếp là mục \"The Moral Status of Animals\" trong *Stanford Encyclopedia of Philosophy* (Lori Gruen)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một tài liệu nên đọc tiếp là mục \"The Moral Status of Animals\" trong *Stanford Encyclopedia of Philosophy* (Lori Gruen và Susana Monsó)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "Susana Monsó",
+          "where": "dòng Copyright © 2024 cuối mục"
+        }
+      ]
+    },
+    {
+      "text": "từ Singer, Tom Regan đến những lập luận theo hướng [Kant](../triet-gia/kant.md) đặt con người vào vị trí đặc biệt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "More recent work in a Kantian vein develops this idea."
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/kant/",
+          "quote": "Immanuel Kant - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "tổ chức The Life You Can Save của Singer có công cụ tính toán: với thu nhập của bạn, cho đi bao nhiêu là \"đủ\" theo từng mức độ cam kết",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "tổ chức The Life You Can Save do Singer sáng lập có công cụ tính xem một khoản quyên góp làm được những gì",
+      "sources": [
+        {
+          "url": "https://www.thelifeyoucansave.org/impact-calculator/",
+          "quote": "Impact Calculator - The Real-World Impact of Your Donation"
+        },
+        {
+          "url": "https://www.thelifeyoucansave.org/peter-singer/",
+          "quote": "I am the founder of The Life You Can Save"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Công cụ trên trang The Life You Can Save hiện là \"Impact Calculator\" (tính tác động của khoản quyên góp), không thấy công cụ tính mức cho theo thu nhập; trang /pledge/ báo không tồn tại. \"toàn cầu\" hơi rộng so với IEP (\"United States and Europe\") nhưng TLYCS ghi \"modern animal rights movement\" — chấp nhận."
+}

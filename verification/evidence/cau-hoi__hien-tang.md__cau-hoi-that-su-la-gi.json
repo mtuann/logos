@@ -1,0 +1,47 @@
+{
+  "unit": "cau-hoi/hien-tang.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:abc5607d0750728cc95d3cc148e09aa322efa64b3820ec7691184db2d132cc8f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Phe opt-in nói: sự đồng ý thật sự phải là *đồng ý rõ ràng* (*informed consent*); một sự \"đồng ý\" mà đa số người dân không hề biết mình đã \"đồng ý\" thì chỉ là sự đồng ý trên giấy.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "One may object that people’s rights over their bodies establish a duty of non-interference which can be lifted only with the consent of the rightholder (Kluge 2000).", "where": "§1.2.3"}
+      ]
+    },
+    {
+      "text": "sự đồng ý thật sự phải là *đồng ý rõ ràng* (*informed consent*)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "sự đồng ý thật sự phải là *đồng ý rõ ràng* (*explicit consent*)",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "The proposal envisages taking organs without the explicit consent of the deceased.", "where": "§1.2.3: SEP dùng 'explicit consent' cho đúng ý này; 'informed consent' là đồng ý có hiểu biết, chính bài dịch như vậy ở lập trường 1"}
+      ]
+    },
+    {
+      "text": "Người đã khuất không còn cảm nhận, không còn lợi ích — vậy \"quyền\" của họ đối với thân thể mình là quyền kiểu gì? Và gia đình có quyền phủ quyết ...",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "Families in many jurisdictions have at least the de facto power to", "where": "§1.2.2"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "Even if we accept that people may have posthumous interests", "where": "§1.1"}
+      ]
+    },
+    {
+      "text": "Ghép tạng hiện đại phụ thuộc vào một định nghĩa y khoa đặc biệt: *chết não* — não ngừng hoạt động không hồi phục, dù tim vẫn đập nhờ máy hỗ trợ. ... (tạng cần được lấy khi cơ thể còn được tưới máu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/", "quote": "with advances in mechanical ventilation in the 1950s, a previously lethal brain injury could coexist with continued cardiopulmonary functioning", "where": "mở đầu"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/", "quote": "emerging interest in organ transplantation, especially heart transplantation, motivated the need to efficiently determine that a patient had died", "where": "mở đầu"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Ba câu hỏi bám đúng ba lập trường ở mục sau. Lỗi nhẹ duy nhất: cặp thuật ngữ 'đồng ý rõ ràng' / *informed consent* không khớp nhau."
+}

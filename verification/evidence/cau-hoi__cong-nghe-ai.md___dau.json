@@ -1,0 +1,96 @@
+{
+  "unit": "cau-hoi/cong-nghe-ai.md#_dau",
+  "hash": "sha256:6ca2c970887b7d403c1b9f52f7900b4ab8dc12f4e870e4a1e9e9fa0c8d0ac0d7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Công cụ luận: công nghệ trung lập, tốt xấu nằm ở người dùng; đổ lỗi cho \"thuật toán\" là trốn tránh trách nhiệm — đáp lại ví dụ cây cầu của Winner (1980): vấn đề nằm ở Robert Moses, người thiết kế, chứ không ở bản chất cây cầu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "which holds that technology is a neutral instrument that can be put to good or bad use by its users"
+        },
+        {
+          "url": "https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf",
+          "quote": "What matters is not technology itself, but the social or economic system in which it is embedded."
+        }
+      ]
+    },
+    {
+      "text": "[Heidegger](../triet-gia/heidegger.md) (1954): kỹ thuật hiện đại không phải phương tiện mà là Gestell (\"đặt bày\") — khiến ta nhìn mọi thứ, kể cả con người (\"nguồn nhân lực\"), như kho dự trữ chờ khai thác",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“Die Frage nach der Technik”, lecture given in 1953, published in 1954"
+        },
+        {
+          "url": "https://web.archive.org/web/20210119021945/https://www2.hawaii.edu/~freeman/courses/phil394/The%20Question%20Concerning%20Technology.pdf",
+          "quote": "The current talk about human resources, about the supply of patients for a clinic, gives evidence of this."
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/heidegger/",
+          "quote": "Heidegger - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Ellul bổ sung: kỹ thuật có xu hướng tự trị, xã hội buộc phải thích nghi với nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "Ellul, for example, has characterized engineers as the high priests of technology, who cherish technology but cannot steer it."
+        }
+      ]
+    },
+    {
+      "text": "Siêu nhân loại (Bostrom 2005): dùng công nghệ để vượt giới hạn sinh học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://nickbostrom.com/ethics/dignity",
+          "quote": "It holds that current human nature is improvable through the use of applied science and other rational methods"
+        }
+      ]
+    },
+    {
+      "text": "trớ trêu thay chính Bostrom (*Superintelligence*, 2014) là một trong những người cảnh báo mạnh nhất.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "AI systems spinning out of control and endangering the survival itself of humanity (Russell 2019, Bostrom 2014)"
+        }
+      ]
+    },
+    {
+      "text": "PhilPapers 2020 (trước ChatGPT): chỉ [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020]]% chấp nhận hoặc nghiêng về rằng AI lúc đó có ý thức",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha"
+    },
+    {
+      "text": "[[pp:may-trai-nghiem-co-vao-khong.khong]]% từ chối bước vào máy trải nghiệm của [Nozick](../triet-gia/nozick.md).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mỗi ý tóm tắt khớp thân bài. Link Heidegger và Nozick mở trên site đã deploy, đúng trang triết gia."
+}

@@ -1,0 +1,197 @@
+{
+  "unit": "cau-hoi/quyen-rieng-tu-so.md#cac-lap-truong-chinh",
+  "hash": "sha256:ea9358e5de02273350fadd1b764855ecf738a7c2bfd2c01ea0a9d035ae1ce0ee",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "Lập trường thứ nhất — phổ biến trong dư luận hơn trong triết học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://scholarship.law.gwu.edu/faculty_publications/158/",
+          "quote": "The nothing to hide argument and its variants are quite prevalent, and thus are worth addressing."
+        }
+      ]
+    },
+    {
+      "text": "Phản bác nổi tiếng nhất đến từ Daniel Solove (2007)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một phản bác nổi tiếng đến từ Daniel Solove (2007)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "Solove famously observed that privacy is a “concept in disarray” (2008: 1)"
+        }
+      ]
+    },
+    {
+      "text": "Daniel Solove (2007)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.solove-daniel-j-2007-i-ve-got-nothing-to-hide-and-other-misu"
+    },
+    {
+      "text": "lập luận \"không có gì để giấu\" *hiểu sai* quyền riêng tư từ gốc, vì nó ngầm coi riêng tư là quyền giấu điều xấu. Với Solove, riêng tư là cả một họ vấn đề có liên quan với nhau — bị thu thập, bị tổng hợp, bị dùng sai mục đích, bị loại khỏi những quyết định về chính mình — và giấu điều xấu chỉ là một trong số đó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "But understanding privacy as a plurality of related problems demonstrates that concealment of bad things is just one among many problems"
+        },
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "One such harm, for example, which I call aggregation, emerges from the combination of small bits of seemingly innocuous data."
+        },
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "Secondary use is the use of data obtained for one purpose for a different unrelated purpose without the person’s consent."
+        },
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "The problem that I call exclusion involves people’s inability to access and have any say in the way their data is used."
+        }
+      ]
+    },
+    {
+      "text": "Edward Snowden từng diễn đạt ý này một cách sắc sảo (diễn đạt lại): nói \"tôi không quan tâm đến quyền riêng tư vì tôi không có gì để giấu\" cũng giống như nói \"tôi không quan tâm đến tự do ngôn luận vì tôi không có gì để nói\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://netzpolitik.org/2015/edward-snowden-ueber-ich-hab-nichts-zu-verbergen/",
+          "quote": "Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.",
+          "where": "nguồn yếu: netzpolitik.org 2015, chép câu trả lời của Snowden trong Reddit AMA; bản gốc trên reddit.com không tải được bằng curl"
+        }
+      ]
+    },
+    {
+      "text": "giám sát đại trà chưa bao giờ được chứng minh là hiệu quả hơn giám sát có mục tiêu — nó chỉ *trông có vẻ* quyết liệt hơn",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "chưa có bằng chứng vững chắc nào cho thấy giám sát đại trà hiệu quả hơn giám sát có mục tiêu — nó chỉ *trông có vẻ* quyết liệt hơn",
+      "sources": [
+        {
+          "url": "https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf",
+          "quote": "we have not identified a single instance involving a threat to the United States in which the program made a concrete difference in the outcome of a counterterrorism investigation",
+          "where": "PCLOB 2014, báo cáo về chương trình Section 215: chỉ một chương trình, không phải so sánh tổng quát"
+        }
+      ]
+    },
+    {
+      "text": "Người theo lập trường này đáp: Solove đúng về mặt khái niệm, nhưng sai về mặt ưu tiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "Second, I present the argument in what I believe to be its strongest form."
+        }
+      ]
+    },
+    {
+      "text": "Samuel Warren và Louis Brandeis \"The Right to Privacy\" (*Harvard Law Review*, 1890)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.warren-samuel-d-louis-d-brandeis-1890-the-right-to-privacy-h"
+    },
+    {
+      "text": "*\"quyền được yên thân\"* (*the right to be let alone* — cụm từ hai ông mượn của thẩm phán Mỹ Thomas Cooley)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy",
+          "quote": "securing to the individual what Judge Cooley calls the right \"to be let alone.\""
+        },
+        {
+          "url": "https://louisville.edu/law/library/special-collections/the-louis-d.-brandeis-collection/the-right-to-privacy",
+          "quote": "Cooley on Torts , 2d ed., p. 29.",
+          "where": "chú thích 10"
+        }
+      ]
+    },
+    {
+      "text": "khái niệm *hiệu ứng ớn lạnh* (*chilling effect*): người ta hành xử khác đi khi biết mình bị quan sát",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260921102142/https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications",
+          "quote": "Surveillance can create chilling effects on free speech, free association, and other First Amendment rights essential for democracy."
+        }
+      ]
+    },
+    {
+      "text": "Helen Nissenbaum (nêu từ bài báo năm 2004, phát triển đầy đủ trong sách *Privacy in Context*, 2009)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nissenbaum-helen-2009-privacy-in-context-technology-policy-a"
+    },
+    {
+      "text": "Riêng tư, theo Nissenbaum, là *toàn vẹn ngữ cảnh* (*contextual integrity*): thông tin phải chảy đúng theo các chuẩn mực của ngữ cảnh mà nó được chia sẻ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "Generally, the appropriate flow of personal information is governed by context-relative information norms."
+        }
+      ]
+    },
+    {
+      "text": "Một lý thuyết dựa trên \"chuẩn mực ngữ cảnh\" có nguy cơ chỉ là cách nói hoa mỹ cho \"tùy thói quen xã hội\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "some criticism has been raised which argues that Nissenbaum does not actually provide normative standards to judge which information flows should be seen as ethically justified and which as detrimental (Rule 2019)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "are volatile and highly contested."
+        }
+      ]
+    },
+    {
+      "text": "chính vì chuẩn mực đang trượt mà ta cần một lý thuyết để *đánh giá* sự trượt đó",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "argues that especially the contextual integrity approach is able to identify those sources of disruption in novel information practices which should be criticized (2019: 221"
+        }
+      ]
+    },
+    {
+      "text": "nguyên tắc \"giới hạn mục đích\" (*purpose limitation*): dữ liệu thu thập cho mục đích A không được dùng cho mục đích B khi chưa có sự đồng ý mới.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "nguyên tắc \"giới hạn mục đích\" (*purpose limitation*): dữ liệu thu thập cho một mục đích cụ thể không được xử lý tiếp theo cách không tương thích với mục đích đó.",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679",
+          "quote": "collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes",
+          "where": "GDPR Điều 5(1)(b)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả ba lập trường có đủ ba nhãn. Solove 2007 đối chiếu toàn văn (bản PDF của GWU qua Wayback): giả định \"privacy is about hiding bad things\", \"plurality of related problems\", aggregation/secondary use/exclusion, chilling effects. Warren & Brandeis đối chiếu toàn văn (thư viện Brandeis, U. Louisville): \"Judge Cooley\", chú thích 10. Nissenbaum và phản bác của Rule 2019 đối chiếu SEP Privacy. Ba lỗi nhẹ: \"nổi tiếng nhất\", \"chưa bao giờ được chứng minh\", và cách diễn đạt \"giới hạn mục đích\" chặt hơn luật (GDPR cho phép xử lý tiếp nếu tương thích, không đòi đồng ý mới trong mọi trường hợp)."
+}

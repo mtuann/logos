@@ -1,0 +1,62 @@
+{
+  "unit": "cau-hoi/hien-tang.md#nguon",
+  "hash": "sha256:485624194be5a42db40fdff3212a8bdfe47e3c24852699a785fb6ce59c5cb92a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Ad Hoc Committee of the Harvard Medical School (1968), \"A Definition of Irreversible Coma\", *JAMA*, vol. 205, no. 6, tr. 337–340.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.ad-hoc-committee-of-the-harvard-medical-school-1968-a-defini",
+      "sources": [
+        {"url": "https://api.crossref.org/works/10.1001/jama.1968.03140320031009", "quote": "A Definition of Irreversible Coma", "where": "Crossref: JAMA 205(6), trang đầu 337, 1968"}
+      ]
+    },
+    {
+      "text": "Wilkinson, Martin & Stephen Wilkinson, \"The Donation of Human Organs\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/organ-donation/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.organ-donation",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "The Donation of Human Organs", "where": "tiêu đề; tác giả trong citation_author: Wilkinson, Martin; Wilkinson, Stephen"}
+      ]
+    },
+    {
+      "text": "Omelianchuk, Adam & David DeGrazia, \"The Definition of Death\", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.death-definition",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/", "quote": "The high-profile case of Jahi McMath", "where": "mở đầu; tác giả trong citation_author: Omelianchuk, Adam; DeGrazia, David"}
+      ]
+    },
+    {
+      "text": "Johnson, Eric J. & Daniel Goldstein (2003), \"Do Defaults Save Lives?\", *Science* 302 (5649): 1338–1339.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1126-science-1091721",
+      "sources": [
+        {"url": "https://api.crossref.org/works/10.1126/science.1091721", "quote": "Do Defaults Save Lives?", "where": "Crossref: Science 302(5649): 1338-1339, 21/11/2003"}
+      ]
+    },
+    {
+      "text": "Fabre, John, Paul Murphy & Rafael Matesanz (2010), \"Presumed consent: a distraction in the quest for increasing rates of organ donation\", *BMJ* 341: c4973.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1136-bmj-c4973",
+      "sources": [
+        {"url": "https://api.crossref.org/works/10.1136/bmj.c4973", "quote": "Presumed consent: a distraction in the quest for increasing rates of organ donation", "where": "Crossref: BMJ 341, c4973, 18/10/2010; tác giả Fabre, Murphy, Matesanz"}
+      ]
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Đã mở lại URL SEP bản lưu fall2026 và siêu dữ liệu Crossref của các DOI. Crossref ghi issue '1' cho Philosophers' Imprint 23 (bài số 11 là số bài trong tập); giữ theo bản ghi đóng băng."
+}

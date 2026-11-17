@@ -1,0 +1,43 @@
+{
+  "unit": "cau-hoi/cong-nghe-ai.md#lien-he-doi-song",
+  "hash": "sha256:29352d976aa4dce3cd16a30df202e7c46666fc8c44ccee4dd06017d39bc17482",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Bài [Biết một điều nghĩa là gì?](tri-thuc.md) đã bàn về deepfake từ góc độ tri thức luận: khi video giả tràn lan, \"tôi tận mắt thấy\" không còn là bằng chứng chắc chắn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì?"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Deepfake: thế giới đầy \"nhà bằng bìa\""
+        }
+      ]
+    },
+    {
+      "text": "Heidegger sẽ nói: đây chính là Gestell đang nói qua miệng ta — ta đã học cách nhìn *chính mình* như một cỗ máy cần tối ưu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20210119021945/https://www2.hawaii.edu/~freeman/courses/phil394/The%20Question%20Concerning%20Technology.pdf",
+          "quote": "The current talk about human resources, about the supply of patients for a clinic, gives evidence of this."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục chủ yếu là áp dụng, không có dữ kiện Việt Nam hay số liệu cần nguồn. Các tình huống (40 phút video, AI viết hộ bài, việc làm) là minh họa của bài. Link tri-thuc mở trên site đã deploy, trang có mục Deepfake."
+}

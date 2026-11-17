@@ -1,0 +1,148 @@
+{
+  "unit": "cau-hoi/noi-doi.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:06851c88d1da3062d5d9a8bc5ec5fa5a33770a794c736d90e51eee662a301fd9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về nói dối.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "the list of questions was expanded from 30 questions to 100 questions",
+          "where": "mục 1; đã rà Bảng 1–2 (100 câu) trên trang này và 100 câu trong data/kb/philpapers-2020.json: không có câu nào về nói dối"
+        }
+      ]
+    },
+    {
+      "text": "Hai câu gần nhất chỉ cho biết bối cảnh: một câu chính (hỏi mọi người tham gia) về lý thuyết đạo đức chuẩn tắc, và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về vai trò của nguyên tắc trong đạo đức.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Moral principles Moral generalism 537 54.6 Moral particularism 332 33.7 Other 127 12.9",
+          "where": "Bảng 2 (Additional questions)"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Normative ethics Deontology 558 32.1 343 19.7 Consequentialism 532 30.6 373 21.4 Virtue ethics 644 37.0 436 25.0 Other 316 18.2",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "Bảng: Đạo đức học chuẩn tắc (câu chính, n ≈ …) đức hạnh / nghĩa vụ / hệ quả / khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/dao-duc-hoc-chuan-tac"
+    },
+    {
+      "text": "Bảng: Nguyên tắc đạo đức (câu bổ sung, n ≈ …) phổ quát luận / đặc thù luận / khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/nguyen-tac-dao-duc"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, Bảng 1–2. Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Ba họ lý thuyết chia gần đều, và nhiều người chấp nhận hơn một họ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/dao-duc-hoc-chuan-tac"
+    },
+    {
+      "text": "Korsgaard theo Kant mà vẫn cho phép nói dối hắn; Mill theo hệ quả luận mà coi trung thực gần như bất khả xâm phạm.",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "we feel that the violation, for a present advantage, of a rule of such transcendent expediency, is not expedient",
+          "where": "Utilitarianism, chương II: vế Mill đúng; vế Korsgaard chưa mở được bài 1986"
+        }
+      ]
+    },
+    {
+      "text": "phổ quát luận cho rằng suy nghĩ đạo đức hợp lý cần đến nguyên tắc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/",
+          "quote": "Ethical generalism is the view that the rationality of moral thought and judgement depends on a suitable provision of moral principles.",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "đặc thù luận, ở dạng mạnh nhất, cho rằng không có nguyên tắc đạo đức nào đứng vững",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "đặc thù luận, ở dạng triệt để nhất, cho rằng không có nguyên tắc đạo đức nào đứng vững",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/",
+          "quote": "Moral Particularism, at its most trenchant, is the claim that there are no defensible moral principles",
+          "where": "phần mở đầu; SEP dùng chữ 'strongest defensible version' cho một dạng dè dặt hơn, nên 'dạng mạnh nhất' dễ gây nhầm"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/",
+          "quote": "The strongest defensible version, perhaps, holds that though there may be some moral principles",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Nhưng như Jonathan Dancy lưu ý (SEP, \"Moral Particularism\"), \"nguyên tắc\" có thể là tuyệt đối (\"nói dối luôn sai\") hoặc chỉ góp phần (\"là lời nói dối thì bị trừ điểm\").",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/",
+          "quote": "There is a very different way of understanding a moral principle, as ‘contributory’ rather than as absolute.",
+          "where": "§1"
+        }
+      ]
+    },
+    {
+      "text": "Câu bổ sung có ít người trả lời hơn, phần lớn là người tự nguyện làm thêm. Khảo sát diễn ra cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020.",
+          "where": "§2"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "We call this enthusiast bias .",
+          "where": "§8"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Số liệu đúng câu khảo sát, phân biệt đúng câu chính và câu bổ sung. Vế Korsgaard chưa kiểm được (xem ghi chú ở cac-lap-truong-chinh: DASH Harvard trả 429, JSTOR chặn, sách chỉ cho mượn)."
+}

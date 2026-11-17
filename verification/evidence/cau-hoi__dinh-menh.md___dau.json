@@ -1,0 +1,152 @@
+{
+  "unit": "cau-hoi/dinh-menh.md#_dau",
+  "hash": "sha256:6f3ddda3664442904f53f31a77192feaf6f2976287b64665880da79f1aa257ce",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k07",
+  "claims": [
+    {
+      "text": "thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Fatalism is the thesis that all events (or in some versions, at least some events) are destined to occur no matter what we do."
+        }
+      ]
+    },
+    {
+      "text": "Con quỷ của Laplace (1814): trí tuệ biết hết hiện tại sẽ thấy hết tương lai",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.laplace-pierre-simon-1814-essai-philosophique-sur-les-probab",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "An intelligence knowing all the forces acting in nature at a given instant, as well as the momentary positions of all things in the universe"
+        }
+      ]
+    },
+    {
+      "text": "hỗn loạn (chỉ đánh vào khả năng dự đoán, chưa đánh vào tính xác định) và cơ học lượng tử (các diễn giải chưa ngã ngũ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "many studies of chaos (sensitive dependence on initial conditions) show"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Unfortunately, the existence of Bohmian quantum theories casts strong doubt on the former point"
+        }
+      ]
+    },
+    {
+      "text": "Định mệnh từ logic (lập luận \"hải chiến ngày mai\" của [Aristotle](../triet-gia/aristotle.md))",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.aristotle-de-interpretatione-chuong-9-lap-luan-hai-chien-tri",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "The classic argument for fatalism occurs in Aristotle (384–322 B.C.E.), De Interpretatione, chapter 9."
+        }
+      ]
+    },
+    {
+      "text": "ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), \"đúng\" không có nghĩa là \"tất yếu\" (chân trị đi theo sự kiện, không khóa sự kiện)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "On one view he rejects the move from truth to necessity."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "So we may represent the Aristotelian solution as one which rejects the law of bivalence"
+        }
+      ]
+    },
+    {
+      "text": "Boethius (khoảng 524): Chúa không \"đoán trước\" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/3/2/14328/14328-0.txt",
+          "quote": "His foreseeing is seeing. Yet this foreseeing does not in itself impose necessity, any more than our seeing things happen makes their happening necessary.",
+          "where": "Quyển V"
+        },
+        {
+          "url": "https://iep.utm.edu/boethius/",
+          "quote": "Around 524 AD, Boethius was accused of treason by Theodoric himself"
+        }
+      ]
+    },
+    {
+      "text": "ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "nondeterministic theories of freedom entail either that agents lack control over their choices or that the choices cannot be adequately explained"
+        }
+      ]
+    },
+    {
+      "text": "PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/co-hoc-luong-tu-dien-giai",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Hidden-variables 122 21.9",
+          "where": "Table 2, Quantum mechanics"
+        }
+      ]
+    },
+    {
+      "text": "[[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% nghiêng về vĩnh cửu luận về thời gian",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "[[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% chấp nhận hoặc nghiêng về vĩnh cửu luận về thời gian",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Eternalism 293 39.9",
+          "where": "Table 2, Temporal ontology"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer."
+        }
+      ]
+    },
+    {
+      "text": "Bài [Ta có thật sự tự do lựa chọn?](tu-do-y-chi.md) đã bàn về **tất định luận** (*determinism*) và tự do.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Tất định luận (determinism) là phiên bản mạnh của ý này",
+          "where": "trang đích trên site đã deploy"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một claim nhe: tóm tắt viết \"39,9% nghiêng về vĩnh cửu luận\" trong khi số liệu là tỉ lệ \"chấp nhận hoặc nghiêng về\" (Bảng 2). Mọi ý tóm tắt khớp thân bài; không thêm dữ kiện ngoài thân bài. Đoạn mở (xem tử vi đầu năm) là bối cảnh đời sống, không có dữ kiện cần kiểm."
+}

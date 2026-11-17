@@ -1,0 +1,47 @@
+{
+  "unit": "cau-hoi/an-tu-hinh.md#nguon",
+  "hash": "sha256:20a67bdaad9e028a77ebe648c92cf94be99d0f204aa2056bc58f5810cc17f0e7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.beccaria-cesare-1764-dei-delitti-e-delle-pene-livorno-coltel"
+    },
+    {
+      "text": "Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.kant-immanuel-1797-metaphysik-der-sitten-konigsberg-nicolovi"
+    },
+    {
+      "text": "Death Penalty Information Center, \"Innocence\" (ít nhất 203 người bị kết án tử hình được minh oan kể từ 1973, số liệu năm 2026). <https://deathpenaltyinfo.org/policy-issues/innocence>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.deathpenaltyinfo-org.policy-issues-innocence"
+    },
+    {
+      "text": "Hoskins, Zachary & Antony Duff, \"Legal Punishment\", *Stanford Encyclopedia of Philosophy*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.legal-punishment"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả năm dòng trùng bản ghi sources/* đã đóng băng. Đã mở lại trong phiên: SEP legal-punishment bản lưu fall2026 (tải được), DPIC Innocence (tải được, \"at least 203\")."
+}

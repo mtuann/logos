@@ -1,0 +1,46 @@
+{
+  "unit": "cau-hoi/ngon-ngu.md#thi-nghiem-tu-duy",
+  "hash": "sha256:5f74e6d636839ca5693f92ccd73945bd967579be69d7b9ad7554517cca072964",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9497542/fullTextXML",
+          "quote": "who possess only two words designating colors",
+          "where": "bài tổng quan 2022, phần prototype theory (nguồn thứ cấp)"
+        }
+      ]
+    },
+    {
+      "text": "một từ cho các màu tối/lạnh, một từ cho các màu sáng/nóng",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "**Câu hỏi: người Dani có *nhìn thấy* ít màu hơn bạn không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11006906&rettype=abstract&retmode=text",
+          "quote": "The authors sought to replicate and extend the work of E. Rosch Heider (1972) on",
+          "where": "tóm tắt Roberson et al. 2000"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Tình huống cầu vồng là minh họa của bài. Chưa kiểm được chi tiết “tối/lạnh – sáng/nóng” và “vùng cao nguyên”: bài Rosch Heider 1972 (doi 10.1037/h0032606, PubMed 5013326 không có tóm tắt), Heider & Olivier 1972 (Crossref không có tóm tắt), sách Language in Mind trên Internet Archive bị khóa (401); nguồn thứ cấp mở được (PMC9497542) chỉ ghi “bright”/“dark” và vị trí “Papua New Guinea”. Đã thử thêm lclab.berkeley.edu/papers/holmes-regier-2016.pdf và ardis-uar2259.huma-num.fr (trả về HTML, không phải PDF)."
+}

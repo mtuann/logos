@@ -1,0 +1,29 @@
+{
+  "unit": "cau-hoi/bat-dong-tri-thuc.md#nguon",
+  "hash": "sha256:f5127cd24907d30a78a1351c4db2c5e22542f382a084e8d9bfdda7f3ccc2ba21",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {"text": "1. Frances, Bryan & Jonathan Matheson, \"Disagreement\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/disagreement/>", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.disagreement"},
+    {"text": "2. Christensen, David (2007), \"Epistemology of Disagreement: The Good News\", *The Philosophical Review* 116(2).", "kind": "du-kien", "verdict": "dung", "kb": "sources/sach.christensen-david-2007-epistemology-of-disagreement-the-good"},
+    {"text": "3. Elga, Adam (2007), \"Reflection and Disagreement\", *Noûs* 41.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sach.elga-adam-2007-reflection-and-disagreement-nous-41"},
+    {"text": "4. Kelly, Thomas (2005), \"The Epistemic Significance of Disagreement\", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1", "kind": "du-kien", "verdict": "dung", "kb": "sources/sach.kelly-thomas-2005-the-epistemic-significance-of-disagreement"},
+    {"text": "5. van Inwagen, Peter (1996), \"It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence\", trong Jeff Jordan & Daniel Howard-Snyder (chủ biên), *Faith, Freedom, and Rationality: Philosophy of Religion Today*, Lanham: Rowman & Littlefield.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sach.van-inwagen-peter-1996-it-is-wrong-everywhere-always-and-for"},
+    {"text": "6. Feldman, Richard & Ted A. Warfield (chủ biên) (2010), *Disagreement*, Oxford: Oxford University Press.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sach.feldman-richard-ted-a-warfield-chu-bien-2010-disagreement-ox"},
+    {"text": "7. David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>", "kind": "du-kien", "verdict": "dung", "kb": "sources/doi.10-3998-phimp-2109"},
+    {"text": "8. Kious, W. Jacquelyne & Robert I. Tilling (1996), *This Dynamic Earth*, U.S. Geological Survey, mục \"Historical perspective\" (Wegener và thuyết trôi dạt lục địa, 1912). <https://pubs.usgs.gov/gip/dynamic/historical.html>", "kind": "du-kien", "verdict": "dung", "kb": "sources/web.pubs-usgs-gov.gip-dynamic-historical-html"},
+    {
+      "text": "URL các nguồn mở được trong phiên này (SEP Disagreement, USGS Historical perspective) và tác giả USGS khớp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/", "quote": "Disagreement First published Fri Feb 23, 2018; substantive revision Thu Feb 29, 2024"},
+        {"url": "https://pubs.usgs.gov/gip/dynamic/historical.html", "quote": "it was not until 1912 that the idea of moving continents was seriously considered as a full-blown scientific theory"},
+        {"url": "https://pubs.usgs.gov/publication/7000097", "quote": "By: W. Jacquelyne Kious and Robert I. Tilling"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": null, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Cả 8 dòng trùng nguyên văn bản ghi sources/* đã đóng băng (đối chiếu chuỗi text trong data/kb/sources.yml, trạng thái frozen trong ledger). Ghi chú: SEP ghi tên bài van Inwagen là \"Always, Everywhere\", nhưng bản in lại do andrewmbailey.com/pvi/ đăng ghi \"Everywhere, Always\" như bài; không đổi kết luận."
+}

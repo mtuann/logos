@@ -1,0 +1,78 @@
+{
+  "unit": "cau-hoi/tri-thuc.md#tu-kiem-tra",
+  "hash": "sha256:c3b10f20df8e0e6e277a2b7f3a4cf4d39e6081f610d73c859fb8ac7e7b93d95d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Có theo JTB, vì niềm tin đúng và có lý do tốt; nhưng nhiều người thấy chị không thật sự biết, nên đây là một ví dụ kiểu Gettier",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "If you look at a clock which you believe to be going, but which in fact has stopped, and you happen",
+          "where": "Russell, dẫn trong SEP §3"
+        }
+      ]
+    },
+    {
+      "text": "\"answer\": 2, \"explain\": \"Lập luận có dạng modus tollens nên hợp lệ. Với lập luận hợp lệ, cách duy nhất để bác kết luận là bác một tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism/",
+          "quote": "CP2. I am not justified in believing that",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "Nó được tạo ra bởi một quá trình (thị giác bình thường) thường cho kết quả đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reliabilism/",
+          "quote": "What they share is reliability: most of the beliefs they produce are true."
+        }
+      ]
+    },
+    {
+      "text": "Nếu An cao hơn Bình và Bình cao hơn Chi thì An cao hơn Chi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/apriori/",
+          "quote": "A priori justification is a type of epistemic justification that is, in some sense, independent of experience."
+        }
+      ]
+    },
+    {
+      "text": "Có lý do để nghi ngờ rằng bạn biết, vì trong môi trường đó bạn cũng sẽ tin y như vậy nếu xem phải video giả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "argue that safety conditions fare poorly with respect to some versions of Ginet’s barn facade cases"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "The landscape next to the road leading through that county is peppered with barn facades"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đã kiểm cả 5 câu (data-id knowledge-1): đáp án đúng đúng; các phương án sai đều sai (câu 1: niềm tin không sai, có lý do; câu 2: lập luận hợp lệ nên không bác bằng \"không hợp lệ\"; câu 3: số đông/cảm giác chắc chắn không phải tiêu chí của thuyết tin cậy; câu 4: ba câu còn lại cần quan sát; câu 5: hoài nghi toàn diện không suy ra từ ví dụ nhà kho). Lời giải khớp thân bài (đồng hồ chết, modus tollens, thuyết tin cậy, tiên nghiệm, nhà kho giả)."
+}

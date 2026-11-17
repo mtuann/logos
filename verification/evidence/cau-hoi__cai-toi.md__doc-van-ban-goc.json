@@ -1,0 +1,85 @@
+{
+  "unit": "cau-hoi/cai-toi.md#doc-van-ban-goc",
+  "hash": "sha256:9848d7016fa23db7ac56fe81dab9d627951601319652ca98eaf0430b28fc7031",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k06",
+  "claims": [
+    {
+      "text": "*An Essay Concerning Human Understanding* của Locke (ấn bản đầu 1689; chương này được bổ sung trong ấn bản lần hai, 1694; văn bản thuộc phạm vi công cộng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "added the chapter in which he treats persons and their persistence conditions (Book 2, Chapter 27) to the second edition of An Essay Concerning Human Understanding in 1694"
+        }
+      ]
+    },
+    {
+      "text": "\"For, since consciousness always accompanies thinking, and it is that which makes every one to be what he calls self... in this alone consists personal identity, i.e. the sameness of a rational being: and as far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/locke.an-essay-concerning-human-understanding",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/1/10615/10615-0.txt",
+          "quote": "For, since consciousness always accompanies thinking, and it is that which makes every one to be what he calls self, and thereby distinguishes himself from all other thinking things, in this alone consists personal identity, i.e. the sameness of a rational being: and as far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person",
+          "where": "II.xxvii.9"
+        }
+      ]
+    },
+    {
+      "text": "\"Vì ý thức luôn đi kèm với suy nghĩ, và chính nó làm cho mỗi người là cái mà người ấy gọi là bản ngã... chỉ riêng ở điều này mà bản sắc cá nhân tồn tại, tức là tính đồng nhất của một hữu thể có lý tính: và ý thức này có thể trải ngược về bất kỳ hành động hay ý nghĩ nào trong quá khứ đến đâu, thì bản sắc của người ấy vươn tới đó.\" *(bản dịch của Logos)*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/locke.an-essay-concerning-human-understanding"
+    },
+    {
+      "text": "(\"a thinking intelligent being, that has reason and reflection, and can consider itself as itself, the same thinking thing, in different times and places\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/1/10615/10615-0.txt",
+          "quote": "a thinking intelligent being, that has reason and reflection, and can consider itself as itself, the same thinking thing, in different times and places",
+          "where": "II.xxvii.9"
+        }
+      ]
+    },
+    {
+      "text": "Locke viết chương này một phần để trả lời câu hỏi thần học: ai sẽ bị phán xét trong Ngày Tận thế?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "persons will go on to receive divine punishment and reward in the next life for their deeds in this life. This comes through not just in L-N 2.27 of the Essay"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/1/10615/10615-0.txt",
+          "quote": "But in the Great Day, wherein the secrets of all hearts shall be laid open"
+        }
+      ]
+    },
+    {
+      "text": "Đọc thêm: [hướng dẫn đọc *Bát nhã Tâm kinh*](../doc/tam-kinh.md), mở đầu bằng câu \"chiếu kiến ngũ uẩn giai không\" (thấy rõ năm uẩn đều không).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "Quán Tự Tại Bồ Tát hành thâm Bát nhã Ba la mật đa thời, chiếu kiến ngũ uẩn giai không, độ nhất thiết khổ ách."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Trích Locke đúng từng chữ với Gutenberg #10615 (qua mirror gutenberg.pglaf.org vì gutenberg.org đang bảo trì); dấu \"...\" lược đúng một vế. Bản dịch trùng bản ghi kho đã đóng băng, dịch đúng nghĩa. Văn bản phạm vi công cộng."
+}

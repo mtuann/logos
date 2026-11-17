@@ -1,0 +1,91 @@
+{
+  "unit": "cau-hoi/dao-duc-hanh-dong.md#nguon",
+  "hash": "sha256:157bcefdc6984e5bc77262f0288b84c9ac8427f9a1cfa2d84401443b5f0547aa",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k09",
+  "claims": [
+    {
+      "text": "Driver, Julia, \"The History of Utilitarianism\", SEP (fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.utilitarianism-history",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/utilitarianism-history/",
+          "quote": "Copyright © 2025 by Julia Driver"
+        }
+      ]
+    },
+    {
+      "text": "Johnson, Robert & Adam Cureton, \"Kant's Moral Philosophy\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.kant-moral",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-moral/",
+          "quote": "Copyright © 2025 by Robert Johnson"
+        }
+      ]
+    },
+    {
+      "text": "Hursthouse, Rosalind & Glen Pettigrove, \"Virtue Ethics\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/",
+          "quote": "Copyright © 2026 by Rosalind Hursthouse Glen Pettigrove"
+        }
+      ]
+    },
+    {
+      "text": "Mill (1863), Utilitarianism (đăng lần đầu trên Fraser's Magazine năm 1861, in thành sách 1863); Project Gutenberg theo lần in thứ 7, 1879, ebook 11224",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/mill.utilitarianism",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/11224/pg11224.txt",
+          "quote": "[eBook #11224]"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/11224/pg11224.txt",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE' SEVENTH EDITION"
+        }
+      ]
+    },
+    {
+      "text": "Kant (1785), Groundwork of the Metaphysics of Morals (Grundlegung zur Metaphysik der Sitten)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/kant.grundlegung-zur-metaphysik-der-sitten"
+    },
+    {
+      "text": "Aristotle, Nicomachean Ethics",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/aristotle.ethica-nicomachea"
+    },
+    {
+      "text": "Bourget & Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023, doi 10.3998/phimp.2109",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Philosophers' Imprint 23: 11, 1–53. doi: https://doi.org/10.3998/phimp.2109"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi URL SEP fall2026 mở được (curl). gutenberg.org đang bảo trì: đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook."
+}

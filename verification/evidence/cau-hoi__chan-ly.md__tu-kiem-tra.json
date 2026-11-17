@@ -1,0 +1,53 @@
+{
+  "unit": "cau-hoi/chan-ly.md#tu-kiem-tra",
+  "hash": "sha256:054704316fd3db988811d61103a0188d686d2455ad8828e90ce2314713a7f28b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "Câu 1 (đáp án 1): \"Lời khai sai, dù thành thật và chắc chắn: niềm tin, sự chắc chắn và chân lý là ba thứ khác nhau\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://gutenberg.pglaf.org/5/8/2/5827/5827.txt", "quote": "Since erroneous beliefs are often held just as strongly as true beliefs", "where": "Russell 1912, chương XII; khớp phần mở đầu bài; các phương án \"nói dối\", \"đúng với chị\", \"chắc chắn nên đúng\" đều sai"}
+      ]
+    },
+    {
+      "text": "Câu 2 (đáp án 1): lý lịch giả hoàn hảo thách thức \"Thuyết mạch lạc; chân lý là ăn khớp với toàn bộ hệ niềm tin thực sự được nắm giữ, kể cả mọi quan sát, nên chuyện bịa sẽ vỡ khi gặp quan sát mới\"; lời giải: \"Đây là phản bác 'tiểu thuyết gia' của Russell\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://gutenberg.pglaf.org/5/8/2/5827/5827.txt", "quote": "a novelist might invent a past for the world that would perfectly fit on to what we know, and yet be quite different from the real past", "where": "Russell 1912, chương XII"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/truth-coherence/", "quote": "Rather, they hold that truth consists in coherence with a set of beliefs, or with a set of propositions held to be true.", "where": "lời đáp cho phản bác xác định tập hợp"}
+      ]
+    },
+    {
+      "text": "Câu 3 (đáp án 0): \"Thuyết tương ứng: S đúng hay sai tùy buổi sáng ấy thực sự ra sao\"; lời giải: định nghĩa của Peirce và Putnam không cho S chân trị",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/truth/", "quote": "Hence, one important mark of realism is that it goes together with the principle of bivalence", "where": "mục về hiện thực luận và nhị trị"},
+        {"url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II", "quote": "to the lost books of the ancients, to the buried secrets", "where": "Peirce 1878"}
+      ]
+    },
+    {
+      "text": "Câu 4 (đáp án 1): theo thuyết giảm phát, chữ \"đúng\" trong \"Ông lang này nói gì cũng đúng\" là \"một công cụ để khái quát\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/", "quote": "anyone who has this concept is in a position to express generalizations that would otherwise require non-standard logical devices", "where": "The Utility of the Concept of Truth"}
+      ]
+    },
+    {
+      "text": "Câu 5 (đáp án 1): theo Russell, \"Vì 'hữu ích khi tin' và 'đúng' là hai ý khác nhau: chiếc vòng có tác dụng hay không là chuyện của thế giới\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://archive.org/download/cu31924031008802/cu31924031008802_djvu.txt", "quote": "Is it not obvious that there is a transition in my mind from seeing that the belief is useful to actually holding that the belief is true?", "where": "\"William James's Conception of Truth\" (1910)"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": true, "phan-bac": true, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "5 câu, JSON hợp lệ, data-id knowledge-chan-ly giữ nguyên. Đáp án đúng đều đúng và khớp thân bài; phương án sai đều sai; lời giải khớp bài."
+}

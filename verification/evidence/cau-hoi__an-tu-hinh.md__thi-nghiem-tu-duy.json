@@ -1,0 +1,43 @@
+{
+  "unit": "cau-hoi/an-tu-hinh.md#thi-nghiem-tu-duy",
+  "hash": "sha256:a8fb820676a0a93d48821acfbf76cb28ff2372a9429230989cdaea0c73214d6f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "giả sử cứ 100 người bị kết án tử thì có 1 người vô tội. Hệ thống này đã tử hình 1.000 người, nghĩa là trong đó có khoảng 10 người vô tội.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "the punishment of those known to be innocent",
+          "where": "phản bác quen thuộc với thuyết hệ quả; phép tính 1.000 × 1/100 = 10 đúng"
+        }
+      ]
+    },
+    {
+      "text": "Câu trả lời của bạn cho biến thể này cho thấy bạn là người theo hệ quả (tính toán tổng thiệt hại) hay người theo nghĩa vụ (có những việc không được làm dù lợi ích lớn đến đâu)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Câu trả lời của bạn cho biến thể này cho thấy bạn nghiêng về **hệ quả luận** (*consequentialism*: tính toán tổng thiệt hại) hay **nghĩa vụ luận** (*deontology*: có những việc không được làm dù lợi ích lớn đến đâu)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "The most familiar line of objection to consequentialist penal theories contends that consequentialists would be committed to regarding manifestly unjust punishments",
+          "where": "§ phản bác thuyết hệ quả"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "sua",
+  "notes": "Thí nghiệm do bài tự dựng, không gán cho tác giả nào; số học đúng. Lỗi thuật ngữ: bảng bắt buộc (HUONG-DAN-VIET.md) quy định consequentialism = hệ quả luận, deontology = nghĩa vụ luận; đây là lần đầu khái niệm xuất hiện trong bài nhưng viết \"người theo hệ quả / người theo nghĩa vụ\" và không có English term."
+}

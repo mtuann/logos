@@ -1,0 +1,94 @@
+{
+  "unit": "cau-hoi/dao-duc-moi-truong.md#nguon",
+  "hash": "sha256:8d90fcd4b33233af2d512b89dc5ac95a7be10e2e05f89b6804115ceb831aaec9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k13",
+  "claims": [
+    {
+      "text": "Brennan, Andrew & Norva Y. S. Lo, \"Environmental Ethics\", Stanford Encyclopedia of Philosophy (bản lưu fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.ethics-environmental"
+    },
+    {
+      "text": "Leopold, Aldo (1949), A Sand County Almanac, New York: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.leopold-aldo-1949-a-sand-county-almanac-new-york-oxford-univ"
+    },
+    {
+      "text": "Naess, Arne (1973), \"The Shallow and the Deep, Long-Range Ecology Movement: A Summary\", Inquiry 16(1): 95–100.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Naess, Arne (1973), \"The Shallow and the Deep, Long-Range Ecology Movement: A Summary\", *Inquiry* 16(1–4): 95–100. <https://doi.org/10.1080/00201747308601682>",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1080/00201747308601682",
+          "quote": "\"issue\":\"1-4\"",
+          "where": "Crossref metadata"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1080/00201747308601682",
+          "quote": "\"page\":\"95-100\""
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1080/00201747308601682",
+          "quote": "\"volume\":\"16\""
+        }
+      ]
+    },
+    {
+      "text": "Singer, Peter (1975), Animal Liberation, New York: New York Review/Random House.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.singer-peter-1975-animal-liberation-new-york-new-york-review"
+    },
+    {
+      "text": "Taylor, Paul W. (1986), Respect for Nature: A Theory of Environmental Ethics, Princeton: Princeton University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.taylor-paul-w-1986-respect-for-nature-a-theory-of-environmen"
+    },
+    {
+      "text": "Regan, Tom (1983), The Case for Animal Rights, Berkeley: University of California Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.regan-tom-1983-the-case-for-animal-rights-berkeley-universit"
+    },
+    {
+      "text": "Routley, Richard (1973), \"Is There a Need for a New, an Environmental Ethic?\", Proceedings of the XVth World Congress of Philosophy 1: 205–210.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.routley-richard-1973-is-there-a-need-for-a-new-an-environmen"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023. https://doi.org/10.3998/phimp.2109",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey Authors David Bourget"
+        },
+        {
+          "url": "http://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Article Number: 11"
+        },
+        {
+          "url": "http://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "DOI: https://doi.org/10.3998/phimp.2109"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Crossref ghi số tạp chí là \"1-4\" (Inquiry vol. 16, 1973, số gộp 1–4), trang 95–100; bài ghi 16(1). Lỗi nhẹ. Khóa sources/doi.10-1080-00201747308601682 và sources/doi.10-3998-phimp-2109 chưa đóng băng nên kiểm bằng nguồn."
+}

@@ -1,0 +1,48 @@
+{
+  "unit": "cau-hoi/hien-tang.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:5245ca88e82e3be54574914ad2e24979870f4542dd5ce58687bd0441f3b6b611",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi \"nên áp dụng opt-in hay opt-out\" hay \"chết não có phải là chết không\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109",
+      "sources": [
+        {"url": "https://api.crossref.org/works/10.3998/phimp.2109", "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey", "where": "Đối chiếu danh sách đủ 100 câu (Bảng 1–2) trong tools/philpapers-2020.md, sinh từ data/kb/philpapers-2020.json (100 bản ghi philpapers/*): không có câu về hiến tạng hay định nghĩa cái chết."}
+      ]
+    },
+    {
+      "text": "Khảo sát có vài câu thuộc đạo đức sinh học theo nghĩa rộng — về phá thai và về kỹ thuật di truyền trên người",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ky-thuat-di-truyen-tren-nguoi"
+    },
+    {
+      "text": "Khảo sát có vài câu ... về phá thai",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet"
+    },
+    {
+      "text": "tranh luận về chết não thì chưa bao giờ thực sự khép lại kể từ báo cáo Harvard 1968",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/death-definition/", "quote": "Many members of the public question whether brain death is death, and a substantial number of philosophers, lawyers, and physicians are sympathetic to their concerns", "where": "mở đầu"}
+      ]
+    },
+    {
+      "text": "opt-out được nhiều nhà đạo đức học y khoa ủng hộ vì hiệu quả cứu người, opt-in được bênh vực bởi những người đặt tự chủ lên hàng đầu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "This proposal favors what is variously called “opt-out” or “presumed consent”.", "where": "§1.2.3, trình bày lập luận ủng hộ (Johnson and Goldstein 2003) và phản đối dựa trên quyền với thân thể (Kluge 2000)"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Mục ghi đúng là không có số liệu khảo sát và không suy diễn từ các câu khác. Hai câu về phá thai và kỹ thuật di truyền có trong kho đóng băng: philpapers/pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet và philpapers/ky-thuat-di-truyen-tren-nguoi."
+}

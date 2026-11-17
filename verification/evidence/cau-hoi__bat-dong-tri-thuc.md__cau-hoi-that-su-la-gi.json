@@ -1,0 +1,103 @@
+{
+  "unit": "cau-hoi/bat-dong-tri-thuc.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:ec9924e5c45005f04069f047016fad4164dca9bb687c5d317596ac0054c81dd4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "**bất đồng giữa những người ngang tài** (*peer disagreement*): hai **người ngang tài về mặt tri thức** (*epistemic peer*) — ngang nhau về bằng chứng, năng lực và sự cẩn thận — đi đến kết luận khác nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "this is a disagreement with a recognized epistemic peer"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "The literature on peer disagreement has instead focused on disagreement between competent epistemic peers"
+        }
+      ]
+    },
+    {
+      "text": "**bằng chứng bậc cao** (*higher-order evidence*), tức bằng chứng về việc *quá trình đánh giá của mình* có đáng tin không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Higher-order evidence for \\(P\\) is evidence about one’s evidence for \\(P\\)."
+        }
+      ]
+    },
+    {
+      "text": "Bạn và một người bạn cùng giỏi tính nhẩm thi nhau tính 47 × 63. Bạn ra 2961, bạn ấy ra 3021. (Đáp số đúng là 2961.)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Meanwhile, my friend does the math in her head and becomes highly confident that our shares are $45 each. (Christensen 2007, 193.)",
+          "where": "ca Restaurant Check của Christensen — ví dụ tính nhẩm của bài có cùng cấu trúc; phép nhân 47 × 63 = 2961 đã tính lại"
+        }
+      ]
+    },
+    {
+      "text": "tranh luận này xét trường hợp *lý tưởng hóa* — hai người thực sự có cùng bằng chứng, thực sự ngang tài, và đều biết rõ điều đó về nhau. Đời thực hiếm khi sạch sẽ như vậy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "the vast majority of the literature is focused on idealized cases of disagreement that rarely, if ever, occur"
+        }
+      ]
+    },
+    {
+      "text": "**luận đề duy nhất** (*uniqueness thesis*): với một khối bằng chứng nhất định, chỉ có *một* thái độ tin là hợp lý. Nếu luận đề này đúng, thì hai người ngang tài cùng bằng chứng mà kết luận khác nhau — ít nhất một người đã sai ở đâu đó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "The Equal Weight View, and Defeat in particular, has been thought to rely on the Uniqueness Thesis."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "and two people who share their evidence disagree about \\(P\\), then one of them must have an unjustified attitude"
+        }
+      ]
+    },
+    {
+      "text": "(Một số người bảo vệ thuyết hòa giải, như chính Christensen, lập luận rằng họ không cần đến giả định này.)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "or argue that the Equal Weight View is not actually committed to evidential uniqueness (see Christensen 2009, Christensen 2016, Cohen 2013"
+        }
+      ]
+    },
+    {
+      "text": "Một cách quen thuộc để bảo vệ thuyết kiên định là bác bỏ luận đề này: cùng một bằng chứng có thể biện minh cho nhiều thái độ khác nhau một cách hợp lý — lập trường gọi là **thuyết cho phép** (*permissivism*).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "So, another way to motivate the Steadfast View is to endorse evidential permissiveness."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ví dụ máy tính và 47 × 63 là minh họa của bài, khớp tinh thần ca tính nhẩm của Christensen (2007)."
+}

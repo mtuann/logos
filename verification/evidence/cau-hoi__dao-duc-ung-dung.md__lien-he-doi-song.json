@@ -1,0 +1,95 @@
+{
+  "unit": "cau-hoi/dao-duc-ung-dung.md#lien-he-doi-song",
+  "hash": "sha256:a953aa3c625f73b9fd2bccae6b5b75c5565e5ed753f5b4242379fcba0c24077b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k10",
+  "claims": [
+    {
+      "text": "Ngược lại, người bênh vực có thể dùng chính lập luận \"trường hợp biên\": xã hội ta vẫn ăn thịt lợn gà, vậy cấm thịt chó vì \"chó đáng yêu hơn\" là tiêu chuẩn kép.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Ngược lại, người bênh vực có thể dùng chính đòi hỏi nhất quán ấy: xã hội ta vẫn ăn thịt lợn gà, vậy cấm thịt chó vì \"chó đáng yêu hơn\" là tiêu chuẩn kép.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The Argument from Marginal Cases is an argument that attempts to demonstrate that if animals do not have direct moral status, then neither do such human beings as infants, the senile, the severely cognitively disabled"
+        }
+      ]
+    },
+    {
+      "text": "**Lễ hội chọi trâu.** Người ủng hộ nói đây là văn hóa truyền thống; người phản đối nói đó là hành hạ động vật.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tuoitre.vn/le-hoi-choi-trau-xa-hoi-hien-dai-khong-khuyen-khich-bao-luc-1348780.htm",
+          "quote": "lễ hội chọi trâu nên bỏ đi. Xã hội hiện đại không nên giữ những truyền thống khuyến khích bạo lực",
+          "where": "nguồn yếu: Tuổi Trẻ 09/07/2017, ý kiến sau vụ trâu húc chết chủ ở Đồ Sơn"
+        }
+      ]
+    },
+    {
+      "text": "Mỗi mùa lũ, người Việt quyên góp hàng trăm tỷ đồng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tienphong.vn/hon-1000-ty-dong-ung-ho-khac-phuc-bao-lut-qua-mat-tran-to-quoc-viet-nam-post1673188.tpo",
+          "quote": "số tiền ủng hộ đồng bào bị ảnh hưởng bởi cơn bão số 3 qua tài khoản của Ban Vận động cứu trợ Trung ương lên tới 1.001 tỷ đồng",
+          "where": "nguồn yếu: Tiền Phong 14/09/2024 (bão Yagi)"
+        }
+      ]
+    },
+    {
+      "text": "Nhưng cùng lúc đó, những khoản quyên góp cho các vấn đề xa hơn, âm thầm hơn (bệnh lao, suy dinh dưỡng ở vùng sâu) lại ít ỏi hơn nhiều.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nhưng cùng lúc đó, những vấn đề xa hơn, âm thầm hơn (bệnh lao, suy dinh dưỡng ở vùng sâu) thường ít được chú ý hơn.",
+      "sources": [
+        {
+          "url": "https://tienphong.vn/hon-1000-ty-dong-ung-ho-khac-phuc-bao-lut-qua-mat-tran-to-quoc-viet-nam-post1673188.tpo",
+          "quote": "Tính đến 17h ngày 14/9, các tổ chức, cá nhân đã chuyển về tài khoản của Ban Vận động cứu trợ Trung ương",
+          "where": "chỉ có số liệu cho quyên góp bão lũ; không tìm được số liệu so sánh cho bệnh lao, suy dinh dưỡng"
+        }
+      ]
+    },
+    {
+      "text": "Đây là một trong những ứng dụng gây tranh cãi nhất của lập luận \"trường hợp biên\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The fact that a severely cognitively disabled infant can feel pain seems to most to be a reason to refrain from harming the infant."
+        }
+      ]
+    },
+    {
+      "text": "Nhiều người Việt ăn chay vào ngày rằm, mùng một — một thực hành tôn giáo có từ lâu đời. Điều thú vị là động cơ của họ thường không phải lập luận của Singer (quyền động vật) mà là lòng từ bi, tích đức.",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "(Người theo Kant sẽ nói có; người theo thuyết vị lợi sẽ nói chỉ hậu quả mới quan trọng.)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-moral/",
+          "quote": "an action has moral worth only if it expresses a good will"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Ăn chay rằm/mùng một: đã thử luatminhkhue.vn/ngay-thap-trai-la-ngay-nao.aspx (chặn), dienmayxanh.com/kinh-nghiem-hay/lich-an-chay-10-ngay-1593953 (chặn), vnexpress.net/an-chay-o-sai-gon-2361760.html và /mon-chay-cau-phuc-2348713.html (trang rỗng), news.laodong.vn (rỗng), tapchinghiencuuphathoc.vn/2pdf/ton-giao-va-cac-quan-niem-ve-an-chay (PDF, không trích được chữ); doanhnhanplus.vn chỉ nói ăn chay dịp Rằm tháng Giêng \"cầu phúc lộc\", không đủ cho \"rằm, mùng một\" và \"từ bi\". thuat-ngu=false vì \"trường hợp biên\" bị dùng sai nghĩa cho lập luận tiêu chuẩn kép chó/lợn (lập luận từ trường hợp biên là về những con người thiếu năng lực lý tính)."
+}

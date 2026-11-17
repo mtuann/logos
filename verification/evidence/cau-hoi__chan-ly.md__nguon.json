@@ -1,0 +1,46 @@
+{
+  "unit": "cau-hoi/chan-ly.md#nguon",
+  "hash": "sha256:9a594b287a8bd75b0646d513d1bc6ab17ae3fb8cb31051d807b0d0544ba53f49",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "Đoạn được dẫn: Russell, *The Problems of Philosophy*, chương XII \"Truth and Falsehood\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://gutenberg.pglaf.org/5/8/2/5827/5827.txt", "quote": "CHAPTER XII. TRUTH AND FALSEHOOD"}
+      ]
+    },
+    {"text": "1. Glanzberg, Michael, \"Truth\", *SEP*. <https://plato.stanford.edu/archives/fall2026/entries/truth/>", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.truth"},
+    {"text": "2. David, Marian, \"The Correspondence Theory of Truth\", *SEP*.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.truth-correspondence"},
+    {"text": "3. Young, James O., \"The Coherence Theory of Truth\", *SEP*.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.truth-coherence"},
+    {"text": "4. Armour-Garb, Bradley, Daniel Stoljar & James Woodbridge, \"Deflationism About Truth\", *SEP*.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.truth-deflationary"},
+    {"text": "5. Legg, Catherine & Christopher Hookway, \"Pragmatism\", *SEP*.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.pragmatism"},
+    {"text": "6. Capps, John, \"The Pragmatic Theory of Truth\", *SEP*.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.truth-pragmatic"},
+    {"text": "7. Beall, Jc, Michael Glanzberg, Ellie Ripley & Lorenzo Rossi, \"Liar Paradox\", *SEP*.", "kind": "du-kien", "verdict": "dung", "kb": "sources/sep.liar-paradox"},
+    {"text": "8. Aristotle, *Metaphysics*, quyển IV (Γ), chương 7, bản dịch W. D. Ross (1908), Wikisource.", "kind": "du-kien", "verdict": "dung", "kb": "sources/wikisource.en.metaphysics-ross-1908-book-4"},
+    {"text": "9. Peirce, Charles S. (1878), \"How to Make Our Ideas Clear\", *Popular Science Monthly* 12: 286–302, Wikisource.", "kind": "du-kien", "verdict": "dung", "kb": "sources/wikisource.en.popular-science-monthly-volume-12-january-1878-illustrations"},
+    {"text": "10. James, William (1907), *Pragmatism*, bài giảng VI, Project Gutenberg. <https://www.gutenberg.org/ebooks/5116>", "kind": "du-kien", "verdict": "dung", "kb": "sources/gutenberg.5116"},
+    {"text": "11. Russell, Bertrand, *The Problems of Philosophy* (1912), Project Gutenberg. <https://www.gutenberg.org/ebooks/5827>", "kind": "du-kien", "verdict": "dung", "kb": "sources/gutenberg.5827"},
+    {"text": "12. Russell, Bertrand, \"William James's Conception of Truth\", *Philosophical Essays* (1910). <https://archive.org/details/cu31924031008802>", "kind": "du-kien", "verdict": "dung", "kb": "sources/web.archive-org.details-cu31924031008802"},
+    {"text": "13. Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, bản dịch C. K. Ogden (1922), Wikisource.", "kind": "du-kien", "verdict": "dung", "kb": "sources/wikisource.en.tractatus-logico-philosophicus"},
+    {"text": "14. Tarski, Alfred (1944), \"The Semantic Conception of Truth and the Foundations of Semantics\", *Philosophy and Phenomenological Research* 4(3): 341–376.", "kind": "du-kien", "verdict": "dung", "kb": "sources/doi.10-2307-2102968"},
+    {"text": "15. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge University Press.", "kind": "du-kien", "verdict": "dung", "kb": "sources/doi.10-1017-cbo9780511625398"},
+    {"text": "16. David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023.", "kind": "du-kien", "verdict": "dung", "kb": "sources/doi.10-3998-phimp-2109"},
+    {
+      "text": "Các URL nguồn mở được trong phiên này (SEP bản lưu fall2026, Wikisource, archive.org, Crossref cho DOI)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://en.wikisource.org/wiki/Metaphysics_(Ross,_1908)/Book_4", "quote": "To say of what is that it is not, or of what is not that it is, is false"},
+        {"url": "https://api.crossref.org/works/10.2307/2102968", "quote": "\"container-title\":[\"Philosophy and Phenomenological Research\"]"},
+        {"url": "https://api.crossref.org/works/10.1017/CBO9780511625398", "quote": "Reason, Truth and History"},
+        {"url": "https://archive.org/details/cu31924031008802", "quote": "Philosophical essays : Russell, Bertrand, 1872-1970"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": null, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Cả 16 dòng trùng nguyên văn bản ghi sources/* đã đóng băng (so chuỗi text trong data/kb/sources.yml, ledger frozen). www.gutenberg.org đang bảo trì trong phiên này; nội dung #5116, #5827 đối chiếu qua mirror gutenberg.pglaf.org. Trang Wikisource Tractatus chính chỉ có lời dẫn, các mệnh đề nằm ở trang con; nội dung đối chiếu qua bản TeX Gutenberg #5740."
+}

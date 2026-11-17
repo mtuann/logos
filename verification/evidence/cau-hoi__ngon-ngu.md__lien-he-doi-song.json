@@ -1,0 +1,70 @@
+{
+  "unit": "cau-hoi/ngon-ngu.md#lien-he-doi-song",
+  "hash": "sha256:0eeaa72c738843a6d987e6e832f0ca0497e0863dc185d44df57e9ef44951caa5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "Tiếng Việt không có giống ngữ pháp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://wals.info/valuesets/30A-vie",
+          "quote": "Language: Vietnamese Feature: Number of Genders by Greville G. Corbett Value: None",
+          "where": "WALS 30A"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi này nối thẳng sang bài [Một cỗ máy có thể có tâm trí không?](tam-tri-va-ai.md).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "Các mô hình ngôn ngữ lớn ( large language models , LLM) ngày nay khiến phản bác này thêm sắc",
+          "where": "trang đích"
+        }
+      ]
+    },
+    {
+      "text": "Theo Wittgenstein, ý nghĩa gắn với thực hành sống chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/ludwig-wittgenstein-philosophical-investigations-anscombes-von-wrights-edition-1986/Ludwig%20Wittgenstein%2C%20Philosophical%20Investigations%2C%20Anscombe%27s%20Von%20Wright%27s%20edition%20%281986%29_djvu.txt",
+          "quote": "And to imagine a language means to imagine a form of life.",
+          "where": "PI §19"
+        }
+      ]
+    },
+    {
+      "text": "tiếng Việt đã vay mượn hàng nghìn năm (từ Hán, từ Pháp, từ Anh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://wold.clld.org/vocabulary/24",
+          "quote": "Such records are the result of documentation spanning more than a millennium",
+          "where": "WOLD, Vietnamese vocabulary (Mark Alves)"
+        },
+        {
+          "url": "https://wold.clld.org/vocabulary/24",
+          "quote": "Other words in this category are words borrowed from French and/or English.",
+          "where": "WOLD"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Các ví dụ đời sống là diễn giải của bài, gắn đúng với phiên bản yếu và với Wittgenstein; không có dữ kiện luật hay sự kiện Việt Nam cần nguồn riêng."
+}

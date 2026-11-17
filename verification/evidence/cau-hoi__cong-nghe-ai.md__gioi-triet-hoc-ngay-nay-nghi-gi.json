@@ -1,0 +1,74 @@
+{
+  "unit": "cau-hoi/cong-nghe-ai.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:142ee09f361e173737f8a9e9b5f449c96b1ac86656912ab3b2d0ceb8f3e259af",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 diễn ra cuối năm 2020 — **trước** khi ChatGPT ra mắt (30/11/2022).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020."
+        },
+        {
+          "url": "https://web.archive.org/web/20221130180912/https://openai.com/blog/chatgpt/",
+          "quote": "ChatGPT: Optimizing Language Models for Dialogue November 30, 2022"
+        }
+      ]
+    },
+    {
+      "text": "| Những tâm trí khác: hệ thống AI hiện tại có thành viên có ý thức?* | Chấp nhận | [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-hien-tai-nam-2020]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha"
+    },
+    {
+      "text": "| Tâm trí | Vật lý luận | [[pp:tam-tri.vat-ly-luan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tam-tri"
+    },
+    {
+      "text": "| Máy trải nghiệm (có bước vào không?) | Có | [[pp:may-trai-nghiem-co-vao-khong.co]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong"
+    },
+    {
+      "text": "\\* Câu hỏi bổ sung (câu \"Những tâm trí khác\"), khoảng [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha/n]] người trả lời. Hai câu còn lại là câu chính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha"
+    },
+    {
+      "text": "Nhưng với AI *tương lai*, ý kiến chia rẽ: [[pp:nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha.he-thong-ai-tuong-lai]]% chấp nhận hoặc nghiêng về rằng một số hệ thống AI tương lai sẽ có ý thức",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/nhung-tam-tri-khac-nhom-nao-co-thanh-vien-co-y-thuc-chap-nha"
+    },
+    {
+      "text": "Đây là một trong những đồng thuận mạnh nhất của khảo sát.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong"
+    },
+    {
+      "text": "**Vật lý luận chiếm đa số** ([[pp:tam-tri.vat-ly-luan]]%)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tam-tri"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đối chiếu tools/philpapers-2020.md: AI hiện tại 3,4/82,4; AI tương lai 39,2/26,8 (câu bổ sung, n≈1.090); vật lý luận 51,9 (câu chính, n≈1.730); máy trải nghiệm Có 13,3 / Không 76,9 (câu chính, n≈1.640). \"Một trong những đồng thuận mạnh nhất\": trong 40 câu chính, 76,9% chỉ đứng sau \"Thế giới bên ngoài: thực tại luận phi hoài nghi\" 79,5%. Nhận định đi kèm không vượt quá số liệu."
+}

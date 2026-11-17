@@ -1,0 +1,72 @@
+{
+  "unit": "cau-hoi/dao-duc-ung-dung.md#doc-van-ban-goc",
+  "hash": "sha256:adcc6a6af8099687ff15e62f80db964ab735a0e79c4fcc01501e05c4272167ae",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k10",
+  "claims": [
+    {
+      "text": "Peter Singer viết năm 1975, vẫn còn bản quyền, nên bài này không trích dài.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.singer-peter-1975-animal-liberation-new-york-new-york-review"
+    },
+    {
+      "text": "[Jeremy Bentham](../triet-gia/bentham.md) công bố năm 1789, đã hết bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/bentham.an-introduction-to-the-principles-of-morals-and-le"
+    },
+    {
+      "text": "\"The question is not, Can they reason? nor, Can they talk? but, Can they suffer?\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/jeremy-bentham.an-introduction-to-the-principles-of-mor"
+    },
+    {
+      "text": "\"Vấn đề không phải là, chúng có biết suy luận không? cũng không phải là, chúng có biết nói không? mà là, chúng có biết đau khổ không?\" *(bản dịch của Logos)*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/jeremy-bentham.an-introduction-to-the-principles-of-mor"
+    },
+    {
+      "text": "Bentham viết câu này trong một chú thích bàn về việc đối xử với động vật — và ông còn nói thêm rằng rồi sẽ đến ngày con người mở rộng sự quan tâm sang chúng, như từng mở rộng sang nô lệ.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML18.html",
+          "quote": "under the denomination of slaves, have been treated by the law exactly upon the same footing as, in England for example, the inferior races of animals are still. The day may come, when the rest of the animal creation may acquire those rights",
+          "where": "ch. XVII, chú thích"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/bentham/",
+          "quote": "Jeremy Bentham - Logos Zero"
+        }
+      ]
+    },
+    {
+      "text": "Singer đi xa hơn Bentham: không chỉ \"đừng hành hạ\", mà còn \"đừng ăn thịt\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML18.html",
+          "quote": "there is very good reason why we should be suffered to eat such of them as we like to eat"
+        },
+        {
+          "url": "https://www.econlib.org/library/Bentham/bnthPML18.html",
+          "quote": "But is there any reason why we should be suffered to torment them? Not any that I can see."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu trích và bản dịch trùng bản ghi quotes/jeremy-bentham… đã đóng băng; đối chiếu thêm với Econlib (ấn bản 1823): chữ đầu \"the question\" viết thường trong nguyên bản, bài viết hoa vì đứng đầu câu trích — chấp nhận."
+}

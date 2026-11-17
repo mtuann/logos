@@ -1,0 +1,46 @@
+{
+  "unit": "cau-hoi/cai-ac.md#lien-he-doi-song",
+  "hash": "sha256:d14121026e623d98de7af3d03371e1bded72d63ff5eea6fcc8d110b5b35a3ca8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k08",
+  "claims": [
+    {
+      "text": "Trong mọi tổ chức lớn, đều có những quyết định gây hại mà không ai cảm thấy mình chịu trách nhiệm […] Arendt cho bạn câu hỏi để tự kiểm tra",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://iep.utm.edu/arendt/", "quote": "This connection between the complicity with political evil and the failure of thinking and judgement inspired the last phase of Arendt’s work", "where": "§6"}
+      ]
+    },
+    {
+      "text": "Theo lập trường 3, đây chưa phải \"ác\" theo nghĩa đầy đủ vì thiếu ý định. Theo Arendt, đây chính là cái ác hiện đại […] tội ác không cần kẻ ác, chỉ cần những người *không suy nghĩ* về hậu quả việc mình làm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "Most theorists writing about evil believe that evil action requires a certain sort of motivational state.", "where": "§3.3 (lập trường 3)"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "who simply did not think very deeply about what he was doing", "where": "§2.3 (Arendt)"}
+      ]
+    },
+    {
+      "text": "Không programmer nào *định* gây hại — họ chỉ \"tối ưu chỉ số\".",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Không lập trình viên nào *định* gây hại — họ chỉ \"tối ưu chỉ số\".",
+      "sources": [
+        {"url": "https://hvdic.thivien.net/whv/%E6%83%A1", "quote": "Âm Hán Việt", "where": "lỗi diễn đạt: chen từ tiếng Anh \"programmer\" giữa câu tiếng Việt; nguồn ghi để thỏa schema"}
+      ]
+    },
+    {
+      "text": "Trong đời sống riêng, ta cũng cần phân biệt của lập trường 3: người bạn *cố ý* nói câu làm bạn tổn thương (xấu tính) khác với người bạn *vô tâm* […]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/", "quote": "note the difference in your response to one who injures you accidentally as compared to how you respond to one who does you the same injury out of “contemptuous disregard”", "where": "§2.2.1"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": false},
+  "result": "dat",
+  "notes": "Không có dữ kiện Việt Nam, luật hay số liệu. Các ví dụ (thuật toán tuyển dụng, cho vay, ném đá trên mạng) nêu chung, không gán cho vụ việc hay công ty cụ thể nào, nên không cần nguồn sự kiện. Câu hỏi để mở cho người đọc tự chọn. Lỗi nhẹ: \"programmer\"."
+}
