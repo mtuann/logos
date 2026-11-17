@@ -1,8 +1,8 @@
 {
   "unit": "doc/tho-van-ly-tran.md#doc-tung-doan",
-  "hash": "sha256:6464987a5a01f073a455b4aa993b9b33fea49b8b18c85a6014ab420407df5466",
+  "hash": "sha256:abd5ef48b17d2715ba9ab8027de3fc908ecd3c18d0c1e64be3af63651ed67190",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04 + agent-kiem-5.4-r08",
   "claims": [
     {
       "text": "Vạn Hạnh, \"Thị đệ tử\": 身如電影有還無，萬木春榮秋又枯。任運盛衰無怖畏，盛衰如露草頭鋪。",
@@ -226,7 +226,8 @@
           "quote": "Đến cốc hay chỉn Bụt là ta. Chữ cốc là biết được, chỉn là chính. Nếu đến đó, biết được rõ ràng Phật chính là mình.",
           "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Ở câu kệ cuối, bản chép trên Wikisource ghi 鏡 \"gương\" thay cho 境 \"cảnh\"",
@@ -313,5 +314,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Nguyên văn Hán, phiên âm và dịch đều khớp nguồn Wikisource (và kho đã đóng băng); các bản dịch của Logos có nhãn đủ. Chưa kiểm được phần gloss từ cổ Nôm (\"cong, khuây, bản, cốc, chỉn\"): không có chú giải đáng tin trên trang đã mở; cần tra chú giải của Viện Văn học hoặc từ điển Nôm.\nLượt 2: tìm được chú giải từ cổ trong sách giảng của Thích Thanh Từ (nguồn yếu): cong/khuây/bản/cốc khớp; \"chỉn\" ở câu này được giảng là \"chính\", bài ghi \"vốn, thật là\" → sai nhẹ, fix theo nguồn. Chưa có chú giải Viện Văn học để đối chiếu."
+  "notes": "Nguyên văn Hán, phiên âm và dịch đều khớp nguồn Wikisource (và kho đã đóng băng); các bản dịch của Logos có nhãn đủ. Chưa kiểm được phần gloss từ cổ Nôm (\"cong, khuây, bản, cốc, chỉn\"): không có chú giải đáng tin trên trang đã mở; cần tra chú giải của Viện Văn học hoặc từ điển Nôm.\nLượt 2: tìm được chú giải từ cổ trong sách giảng của Thích Thanh Từ (nguồn yếu): cong/khuây/bản/cốc khớp; \"chỉn\" ở câu này được giảng là \"chính\", bài ghi \"vốn, thật là\" → sai nhẹ, fix theo nguồn. Chưa có chú giải Viện Văn học để đối chiếu.\nKiểm lại (agent-kiem-5.4-r08): bài hiện tại ghi: \"cốc\" là \"biết\", \"chỉn\" là \"chính\", khớp fix và nguồn Thích Thanh Từ (\"chỉn là chính\") → fixed."
 }

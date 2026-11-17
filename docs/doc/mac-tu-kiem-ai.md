@@ -106,7 +106,7 @@ Soi từng bước:
 
 - **"Kiêm ái là yêu người dưng y như cha mẹ, bỏ mặc gia đình."** Chữ "ái" ở đây gần với *quan tâm* hơn là tình cảm nồng nhiệt. Mặc gia đòi quan tâm đạo đức tới mọi người, không đòi đối xử với mọi người như nhau; hiếu và từ vẫn là điều tốt trong hệ thống của họ (Fraser, SEP).
 - **"Mặc Tử phản đối mọi chiến tranh."** Ông phản đối chiến tranh *xâm lược*. Hai mươi mốt thiên cuối sách bàn toàn về kỹ thuật giữ thành khi bị vây (Fraser, SEP).
-- **"Mặc Tử là Bentham thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
+- **"Mặc Tử là [Bentham](../triet-gia/bentham.md) thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
 
 ## Câu hỏi để tự viết {#cau-hoi-de-tu-viet}
 

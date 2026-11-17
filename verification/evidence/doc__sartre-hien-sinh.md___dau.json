@@ -1,8 +1,8 @@
 {
   "unit": "doc/sartre-hien-sinh.md#_dau",
-  "hash": "sha256:7e8e30004e4196a287188d47c91e08354b4bcff525a45692e7ba12aa428a3db9",
+  "hash": "sha256:f40511042b6ba9c55e7fa371ba104ea8d781cf1143e7c27bc4a275a4d84c4956",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05 + agent-kiem-5.4-r08",
   "claims": [
     {
       "text": "Jean-Paul Sartre (1905–1980)",
@@ -88,7 +88,8 @@
           "quote": "Translator: Philip Mairet",
           "where": "Đếm từ phần thân bài (từ \"My purpose here\" đến hết, bỏ thẻ HTML): khoảng 11.000 từ tiếng Anh, chỉ gồm bài nói, không có phần thảo luận. Không tìm được nguồn nào cho con số 9.000 chữ của bản Pháp; bản Anh dài hơn hẳn nên con số không có căn cứ."
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "còn bản quyền nên không có bản trực tuyến hợp pháp miễn phí",
@@ -102,7 +103,8 @@
           "quote": "Copyright: reproduced under the “Fair Use” provisions",
           "where": "marxists.org đăng toàn văn bản Anh (Mairet) và tự nhận theo \"Fair Use\"; tính hợp pháp của một bản trực tuyến không kiểm được, nên khẳng định phủ định \"không có bản hợp pháp\" không có căn cứ."
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -113,5 +115,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ngày 29/10/1945, tên câu lạc bộ Maintenant, nhà in Nagel, 9.000 chữ: không thấy trong SEP fall2026 (chỉ nói 'cuối 1945', 'many thousands of Parisians', 1946), IEP, Wikipedia (không nêu ngày/câu lạc bộ), marxists.org (chỉ ghi 'Lecture given in 1946'). Chỉ có kết quả tìm kiếm thứ cấp (schoolmouv) nói 29/10/1945, Club Maintenant, Nagel 1946: chưa đủ làm bằng chứng. Gợi ý: nguồn học thuật (lời tựa Elkaïm-Sartre bản Yale hoặc Folio) để xác nhận. Mục 'không có bản trực tuyến hợp pháp': marxists.org đang đăng bản tiếng Anh (Mairet) toàn văn; tư cách bản quyền chưa xác minh được, nên cần chủ biên cân nhắc lại câu này. Số ebook không áp dụng. Câu hỏi để tự viết: không có.\nLượt 2: Ngày 29/10/1945 và Club Maintenant xác nhận qua trang Yale UP và bài Sens public (Evans); Nagel 1946 qua catalogue BnF → dung. \"9.000 chữ\": không có nguồn, bản Anh Mairet ~11.000 từ → sai nhe. \"Không có bản trực tuyến hợp pháp\": marxists.org đăng toàn văn dưới danh nghĩa Fair Use, khẳng định phủ định không kiểm được → sai nhe, fix bỏ vế đó."
+  "notes": "Ngày 29/10/1945, tên câu lạc bộ Maintenant, nhà in Nagel, 9.000 chữ: không thấy trong SEP fall2026 (chỉ nói 'cuối 1945', 'many thousands of Parisians', 1946), IEP, Wikipedia (không nêu ngày/câu lạc bộ), marxists.org (chỉ ghi 'Lecture given in 1946'). Chỉ có kết quả tìm kiếm thứ cấp (schoolmouv) nói 29/10/1945, Club Maintenant, Nagel 1946: chưa đủ làm bằng chứng. Gợi ý: nguồn học thuật (lời tựa Elkaïm-Sartre bản Yale hoặc Folio) để xác nhận. Mục 'không có bản trực tuyến hợp pháp': marxists.org đang đăng bản tiếng Anh (Mairet) toàn văn; tư cách bản quyền chưa xác minh được, nên cần chủ biên cân nhắc lại câu này. Số ebook không áp dụng. Câu hỏi để tự viết: không có.\nLượt 2: Ngày 29/10/1945 và Club Maintenant xác nhận qua trang Yale UP và bài Sens public (Evans); Nagel 1946 qua catalogue BnF → dung. \"9.000 chữ\": không có nguồn, bản Anh Mairet ~11.000 từ → sai nhe. \"Không có bản trực tuyến hợp pháp\": marxists.org đăng toàn văn dưới danh nghĩa Fair Use, khẳng định phủ định không kiểm được → sai nhe, fix bỏ vế đó.\nKiểm lại (agent-kiem-5.4-r08): bài hiện tại đã bỏ \"chừng 9.000 chữ\" (dòng Thể loại chỉ còn \"bài nói phổ thông bằng tiếng Pháp\") và bỏ vế \"không có bản trực tuyến hợp pháp miễn phí\" (đoạn mở và dòng Đọc ở đâu chỉ còn \"văn bản còn bản quyền\" + bản Macomber, Yale 2007; đoạn mở ghi Sartre mất năm 1980) → đúng ý fix, hai claim fixed. Lưu ý ngoài phạm vi: claim \"John Kulka biên tập\" vẫn chỉ dẫn Wikipedia."
 }
