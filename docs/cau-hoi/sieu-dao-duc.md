@@ -109,7 +109,7 @@ Hai lập luận: **lập luận từ tính tương đối** (*argument from rel
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sung (chỉ hỏi ai chọn trả lời thêm) của khảo sát PhilPapers 2020 liên quan trực tiếp tới bài:
+Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) của khảo sát PhilPapers 2020 liên quan trực tiếp tới bài:
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
