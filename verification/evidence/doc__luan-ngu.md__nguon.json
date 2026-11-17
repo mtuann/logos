@@ -1,8 +1,8 @@
 {
   "unit": "doc/luan-ngu.md#nguon",
-  "hash": "sha256:da3f25a5abcfde72a23464ce9db8b2970f6c57cc544106b50a98859ae227be24",
+  "hash": "sha256:52977ee56687b5aeef86a3c1f40da6fac9da04cb5e95185848f905145ba69820",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Csikszentmihalyi, Mark, \"Confucius\", SEP, bản lưu fall2026 mở được",
@@ -50,6 +50,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/ctext.analects"
+    },
+    {
+      "text": "Mục 5 mới: Huynh & Duong (2025), A land of sages…, bản thảo, URL extranet.sioe.org",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.extranet-sioe-org.uploads-sioe2025-duong-2025-01-15-5183-pdf"
     }
   ],
   "checklist": {
@@ -60,5 +66,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. | Lượt 2: dòng 5 trùng từng chữ bản ghi frozen sources/sach.tran-dinh-huou-1996-... (năm 1996 cũng trong years_ok của works/chua-ro.den-hien-dai-tu-truyen-thong); dòng 1 trùng sources/ctext.analects (frozen)."
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. | Lượt 2: dòng 5 trùng từng chữ bản ghi frozen sources/sach.tran-dinh-huou-1996-... (năm 1996 cũng trong years_ok của works/chua-ro.den-hien-dai-tu-truyen-thong); dòng 1 trùng sources/ctext.analects (frozen). [doi-loi] Thêm mục 5 (Huynh & Duong 2025); Trần Đình Hượu thành mục 6."
 }

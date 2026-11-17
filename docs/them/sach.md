@@ -16585,7 +16585,7 @@ Nguyên văn chữ Hán thuộc phạm vi công cộng. Các bản dịch tiến
 
 Khổng Tử sống cuối thời Xuân Thu: nhà Chu suy yếu, các nước chư hầu đánh nhau liên miên, lễ nhạc đổ nát. Theo truyền thống, ông chu du nhiều nước mong tìm vua chịu thi hành đạo trị nước, không thành, về nước Lỗ dạy học. Học trò và học trò của học trò ghi lại lời thầy, thành *Luận ngữ*. Từ thời [Chu Hy](../triet-gia/chu-hy.md) (1130–1200), *Luận ngữ* là một trong *Tứ thư*, nền tảng của giáo dục Nho học ở Đông Á.
 
-Ở Việt Nam, Nho giáo định hình nền giáo dục khoa cử suốt nhiều thế kỷ (xem Nguyễn Tài Thư chủ biên, *Lịch sử tư tưởng Việt Nam*, 1993).
+Ở Việt Nam, thi cử chọn người làm quan kéo dài từ năm 1075 đến 1919, và từ năm 1232 chỉ thi Nho học; Nho giáo nhờ đó định hình nền giáo dục suốt nhiều thế kỷ (Huynh & Duong 2025; xem thêm Nguyễn Tài Thư chủ biên, *Lịch sử tư tưởng Việt Nam*, 1993).
 
 ## Đọc từng đoạn
 
@@ -16724,7 +16724,8 @@ Thử xem bạn nắm được lập luận đến đâu.
 2. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 3. Fraser, Chris, "Mohism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mohism/>
 4. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
-5. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
+5. Luu Duc Toan Huynh & Kiet Tuan Duong (2025), "A land of sages: A legacy of former elites and university professors in Vietnam", bản thảo nghiên cứu (working paper), 15/1/2025. <https://extranet.sioe.org/uploads/sioe2025/duong-2025-01-15_5183.pdf>
+6. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 
 <div class="oz-page-break"></div>
 
