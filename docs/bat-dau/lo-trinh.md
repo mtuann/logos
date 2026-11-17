@@ -42,7 +42,7 @@ Con đường này hợp với bạn nếu bạn hay đọc tin tức, tranh lu�
 - [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) — cửa vào triết học chính trị: khế ước xã hội, công lý, dân chủ.
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — và những bài anh em: hạnh phúc, tình yêu, cái chết.
 
-Bạn không cần đọc "Tư duy rõ ràng" trước. Khi một bài cần đến công cụ nào, nó sẽ dẫn link quay lại. Mỗi bài có mục "Tóm tắt 5 phút" ở đầu, một bài tự kiểm tra và một câu hỏi để tự viết ở cuối.
+Bạn không cần đọc "Tư duy rõ ràng" trước. Nhiều bài có link quay lại bài công cụ khi cần đến. Mỗi bài có mục "Tóm tắt 5 phút" ở đầu, một bài tự kiểm tra và một câu hỏi để tự viết ở cuối.
 
 ## 3. Lịch sử tư tưởng và văn bản gốc {#3-lich-su-tu-tuong-va-van-ban-goc}
 
