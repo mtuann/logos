@@ -118,7 +118,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Đọc con số cho đúng: câu này chỉ hỏi người trả lời ưa giai đoạn nào trong tư tưởng Wittgenstein; nó không hỏi họ có chấp nhận lập luận ngôn ngữ riêng tư hay không, và không nói gì về Sapir-Whorf. Mẫu là các triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, nên không đại diện cho mọi truyền thống. Ngoài con số ấy, điều có thể nói về tình trạng học thuật:
 
-- **Phiên bản mạnh (thuyết quyết định ngôn ngữ) gần như không còn ai bênh vực** trong ngôn ngữ học và triết học đương đại — sau Malotki và Pinker, nó chỉ còn xuất hiện như một "bia tập bắn" trong sách giáo khoa.
+- **Phiên bản mạnh (tất định luận ngôn ngữ) gần như không còn ai bênh vực** trong ngôn ngữ học và triết học đương đại — sau Malotki và Pinker, nó chỉ còn xuất hiện như một "bia tập bắn" trong sách giáo khoa.
 - **Phiên bản yếu là vùng nghiên cứu đang hoạt động**, với bằng chứng thực nghiệm hai chiều: có hiệu ứng thật (như tiếng Nga với màu xanh), nhưng nhỏ và có điều kiện.
 - **Wittgenstein muộn là một trong những ảnh hưởng lớn nhất** của triết học ngôn ngữ thế kỷ 20, nhưng lập luận ngôn ngữ riêng tư vẫn còn gây tranh cãi — không phải vì người ta tìm ra "ngôn ngữ riêng tư" nào, mà vì người ta bất đồng về việc ông đã chứng minh được điều gì.
 - **Quine thì đứng ở một cực khác:** ông nghi ngờ cả ý niệm "nghĩa" như một thực thể ổn định. Giữa Wittgenstein ("nghĩa nằm ở cách dùng") và Quine ("chẳng có nghĩa xác định nào để mà tìm"), triết học ngôn ngữ thế kỷ 20 dường như đồng ý về một điều: nghĩa của từ không phải là một "vật" nằm trong đầu chờ ta chỉ ra.
@@ -142,7 +142,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 ## Đọc văn bản gốc {#doc-van-ban-goc}
 
-Một ghi chú thành thật: các văn bản trung tâm của bài này — Whorf (1956), Berlin & Kay (1969), Pinker (1994), Wittgenstein (1953) — đều còn bản quyền (bản dịch tiếng Việt của Wittgenstein cũng vậy), nên bài này tóm tắt lập luận bằng lời mình thay vì trích dài.
+Một ghi chú thành thật: các văn bản trung tâm của bài này — Whorf (1956), Berlin & Kay (1969), Pinker (1994) đều còn bản quyền, và với Wittgenstein (1953) thì bản dịch tiếng Anh của Anscombe và bản dịch tiếng Việt cũng vậy, nên bài này tóm tắt lập luận bằng lời mình thay vì trích dài.
 
 Riêng lập luận "bọ cánh cứng trong hộp" (§293, *Philosophical Investigations*), tóm tắt như sau: *Giả sử mỗi người có một chiếc hộp chứa thứ gọi là "bọ cánh cứng", nhưng không ai được xem hộp của người khác. Mọi người đều dùng từ "bọ cánh cứng" một cách thành thạo. Khi đó, vật trong hộp — dù là gì, hay thậm chí không có gì — không đóng vai trò gì trong trò chơi ngôn ngữ này, "thậm chí không phải như một cái gì đó", vì chiếc hộp có thể trống: nó bị giản ước đi, dù nó là gì.* Từ đó Wittgenstein kết luận: nếu ta diễn giải ngữ pháp của "cảm giác" theo mô hình "vật và tên gọi", thì cái vật bị loại khỏi cuộc xem xét như một thứ không liên quan.
 
