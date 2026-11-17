@@ -4266,7 +4266,7 @@ Gợi ý độ dài: 150–300 chữ.
 
     - Luận điểm chính: câu hỏi cũ của triết học thành câu hỏi thực tế — đằng sau những câu trả lời trôi chảy của chatbot, có *ai* ở đó không? Bài tách thành ba câu hỏi: hành vi thông minh, *hiểu* (ý hướng tính), và *ý thức* (cảm giác như thế nào).
     - Bốn lập trường: chủ nghĩa chức năng — tâm trí là cái nó *làm*, silicon cũng có thể có tâm trí (tính đa hiện thực; thí nghiệm thay nơ-ron bằng chip của Chalmers 1996); Searle (căn phòng tiếng Trung, 1980) — cú pháp không đủ cho ngữ nghĩa, tâm trí cần sức mạnh nhân quả của não sinh học; phép thử Turing (1950) — hãy nhìn vào hành vi, nhưng Blockhead (Block 1981) và LLM cho thấy hành vi giống người chưa đủ; vấn đề khó (Chalmers 1995) — có thể ta không bao giờ biết chắc, nên dùng "đặc tính chỉ báo" để ước lượng (báo cáo Butlin & Long 2023; Cogitate 2025 không xác nhận trọn vẹn lý thuyết nào).
-    - Thái độ của bài: không phép thử hành vi hay phép đo cấu trúc nào chứng minh dứt khoát được một cỗ máy có ý thức; khi không thể chắc chắn, một ước lượng có lý do vẫn tốt hơn đoán mò.
+    - Thái độ của bài: câu hỏi vẫn bỏ ngỏ. Nếu zombie triết học hình dung được, thì không phép thử hành vi hay phép đo cấu trúc nào chứng minh dứt khoát được một cỗ máy có ý thức; những người theo hướng "đặc tính chỉ báo" đáp rằng khi không thể chắc chắn, một ước lượng có lý do vẫn tốt hơn đoán mò.
 
 Mười năm trước, câu hỏi này còn thuộc về phim khoa học viễn tưởng. Hôm nay, hàng trăm triệu người trò chuyện với chatbot mỗi tuần. Chúng viết thơ, giải thích bài tập, an ủi người đang buồn. Có người cảm ơn chúng. Có người làm bạn với chúng. Vậy câu hỏi cũ của triết học bỗng thành câu hỏi rất thực tế: đằng sau những câu trả lời trôi chảy ấy, có *ai* ở đó không?
 
@@ -4289,7 +4289,7 @@ Hãy tự trả lời trước khi đọc tiếp. Để ý xem câu trả lời 
 
 1. **Hành vi thông minh.** Máy có *làm được* những việc mà ở người ta cần trí thông minh không: trò chuyện, giải toán, viết văn? Câu này phần lớn là câu hỏi kỹ thuật, và câu trả lời ngày càng là "có", ít nhất với nhiều việc.
 2. **Hiểu.** Khi máy viết "Hà Nội là thủ đô của Việt Nam", các ký hiệu ấy có *nói về* Hà Nội đối với chính cỗ máy không, hay chỉ có nghĩa đối với *chúng ta*, người đọc? Các triết gia gọi tính chất "nói về một cái gì đó" của suy nghĩ là **ý hướng tính** (*intentionality*).
-3. **Ý thức.** Có *cảm giác như thế nào* khi là cỗ máy ấy không? Năm 1974, Thomas Nagel viết bài "What Is It Like to Be a Bat?" ("Làm một con dơi thì như thế nào?"). Ông lập luận rằng một sinh vật có ý thức khi và chỉ khi "có một cái gì đó giống như là sinh vật ấy". Loại ý thức này gọi là **ý thức hiện tượng** (*phenomenal consciousness*): cái đỏ của màu đỏ, cái nhói của cơn đau. Những phẩm chất trải nghiệm ấy đôi khi được gọi là **qualia**.
+3. **Ý thức.** Có *cảm giác như thế nào* khi là cỗ máy ấy không? Năm 1974, Thomas Nagel viết bài "What Is It Like to Be a Bat?" ("Làm một con dơi thì như thế nào?"). Ông lập luận rằng một sinh vật có ý thức khi và chỉ khi "có một cái gì đó giống như là sinh vật ấy". Loại ý thức này gọi là **ý thức hiện tượng** (*phenomenal consciousness*): cái đỏ của màu đỏ, cái nhói của cơn đau. Những phẩm chất trải nghiệm ấy đôi khi được gọi là **qualia** (*cảm chất*).
 
 Ba câu hỏi này có thể tách rời nhau. Một chiếc máy tính bỏ túi làm phép nhân giỏi hơn bạn (câu 1), nhưng hầu như không ai nghĩ nó *hiểu* con số (câu 2) hay *cảm thấy* gì (câu 3). Ngược lại, một em bé sơ sinh chưa làm được phép tính nào, nhưng phần lớn chúng ta tin em có cảm giác.
 
@@ -4390,7 +4390,7 @@ Câu hỏi máy có thể có tâm trí hay không vẫn **hoàn toàn bỏ ng�
 
     "Tôi đề nghị xem xét câu hỏi: 'Máy có thể suy nghĩ không?' Việc này lẽ ra phải bắt đầu bằng định nghĩa nghĩa của các từ 'máy' và 'suy nghĩ'." *(bản dịch của Logos)*
 
-Ngay sau câu mở đầu ấy, Turing *từ chối* định nghĩa. Ông nhận xét rằng nếu tìm nghĩa của "máy" và "suy nghĩ" bằng cách xem người ta thường dùng chúng thế nào, thì câu trả lời sẽ phải tìm bằng một cuộc thăm dò dư luận, và điều đó thật vô lý. Vì vậy ông thay câu hỏi cũ bằng trò chơi bắt chước. Phần còn lại của bài, Turing lần lượt trả lời chín phản bác mà ông đoán trước, từ phản bác thần học, qua phản bác "máy chỉ làm được những gì ta lập trình" (gắn với Lady Lovelace), đến phản bác dựa vào ngoại cảm.
+Ngay sau câu mở đầu ấy, Turing *từ chối* định nghĩa. Ông nhận xét rằng nếu tìm nghĩa của "máy" và "suy nghĩ" bằng cách xem người ta thường dùng chúng thế nào, thì câu trả lời sẽ phải tìm bằng một cuộc thăm dò dư luận, và điều đó thật vô lý. Vì vậy ông thay câu hỏi cũ bằng trò chơi bắt chước. Ở phần sau của bài (mục 6), Turing lần lượt trả lời chín phản bác mà ông đoán trước, từ phản bác thần học, qua phản bác "máy chỉ làm được những gì ta lập trình" (gắn với Lady Lovelace), đến phản bác dựa vào ngoại cảm; mục cuối bàn về máy biết học.
 
 Ba mươi năm sau, Searle đáp lại theo hướng ngược hẳn. Ông không hỏi máy *làm được gì*, mà hỏi *cái gì đang diễn ra bên trong* khi nó làm.
 
