@@ -7051,7 +7051,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. Brennan, Andrew & Norva Y. S. Lo, "Environmental Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-environmental/>
 2. Leopold, Aldo (1949), *A Sand County Almanac*, New York: Oxford University Press.
-3. Naess, Arne (1973), "The Shallow and the Deep, Long-Range Ecology Movement: A Summary", *Inquiry* 16(1): 95–100. <https://doi.org/10.1080/00201747308601682>
+3. Naess, Arne (1973), "The Shallow and the Deep, Long-Range Ecology Movement: A Summary", *Inquiry* 16(1–4): 95–100. <https://doi.org/10.1080/00201747308601682>
 4. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House.
 5. Taylor, Paul W. (1986), *Respect for Nature: A Theory of Environmental Ethics*, Princeton: Princeton University Press.
 6. Regan, Tom (1983), *The Case for Animal Rights*, Berkeley: University of California Press.

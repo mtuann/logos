@@ -1,8 +1,8 @@
 {
   "unit": "sources/doi.10-1080-00201747308601682",
-  "hash": "sha256:f89dbc4f85929d54f2143e3bf403affc2c85de43b86af5d61f5b646515af8101",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s11",
+  "hash": "sha256:6499bdb95efc571603fadba6ab94c9da1582fb54982d77ee0c95920bb0db4ff0",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-s11 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Tác giả: Naess, Arne",
@@ -58,8 +58,21 @@
           "quote": "The shallow and the deep, long‑range ecology movement. A summary"
         }
       ]
+    },
+    {
+      "text": "Inquiry 16(1–4): 95–100 (số gộp 1–4)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1080/00201747308601682",
+          "quote": "\"volume\":\"16\"; \"issue\":\"1-4\"; \"page\":\"95-100\"",
+          "where": "Crossref, mở 2026-11-17"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Crossref ghi issue 1-4 (số gộp 16(1–4)); 16(1) vẫn chấp nhận được."
+  "notes": "Crossref ghi issue 1-4 (số gộp 16(1–4)); 16(1) vẫn chấp nhận được. [doi-loi] Số tạp chí ghi 16(1–4) theo Crossref thay cho 16(1) (kiểm 5.7, agent-kiem-5.7-k13)."
 }
