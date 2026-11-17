@@ -94,7 +94,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
     "...chỉ loài có lý trí mới được ban cho khả năng tự nguyện theo những gì xảy ra; còn phải theo thì là điều bắt buộc với tất cả." *(bản dịch của Logos)*
 
-Điều đã xảy ra thì không đổi được; cái ta chọn được là theo nó như một con người, hay như con lợn giãy đạp. Và dù vũ trụ có thiên ý hay chỉ là nguyên tử, oán trách điều đã xảy ra cũng chẳng ích gì (IV.3).
+Điều đã xảy ra thì không đổi được; cái ta chọn được là theo nó như một con người, hay như con lợn giãy đạp. Và dù vũ trụ có thiên ý hay chỉ là nguyên tử, oán trách điều đã xảy ra cũng chẳng ích gì (VIII.17; xem thêm IV.3).
 
 *"Đón nhận mọi việc" có áp dụng được cho bất công không? Khi nào chấp nhận là khôn ngoan, khi nào là đồng lõa?*
 
@@ -102,7 +102,7 @@ Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, b
 
 - **P1.** Điều làm ta khổ không phải sự việc bên ngoài, mà là phán đoán của ta về nó (VIII.47).
 - **P2.** Phán đoán của ta nằm trong quyền của ta: ta có thể xóa nó (VIII.47).
-- **P3.** Dù vũ trụ do thiên ý sắp đặt hay chỉ là nguyên tử ngẫu nhiên, oán trách điều đã xảy ra đều vô lý (IV.3).
+- **P3.** Dù vũ trụ do thiên ý sắp đặt hay chỉ là nguyên tử ngẫu nhiên, oán trách điều đã xảy ra đều vô lý (VIII.17; cặp thiên ý hay nguyên tử ở IV.3).
 - **P4.** Cái chết là một việc của tự nhiên, như quả chín thì rụng (IV.48).
 - **P5** (giả định ngầm). Chỉ đức hạnh, tức hành động đúng và công bằng vì lợi ích chung, mới là điều tốt thật sự; mọi thứ khác không tốt không xấu.
 - **K.** Vậy đừng sợ chết, đừng oán số phận; hãy sửa phán đoán của mình và làm tốt phần việc của mình cho cộng đồng.
@@ -144,7 +144,7 @@ Thử xem bạn nắm được đến đâu.
 [
  {"q": "Theo VIII.47, khi một việc bên ngoài làm ta đau khổ, Marcus khuyên gì?", "options": ["Tránh xa mọi việc bên ngoài", "Nhận ra cái làm ta xáo trộn là phán đoán của mình, phán đoán ấy xóa được; còn nếu có việc đúng chưa làm thì hãy làm thay vì than", "Chấp nhận mọi thứ và không làm gì", "Tìm người chịu trách nhiệm để trút giận"], "answer": 1, "explain": "VIII.47 có cả hai vế: sửa phán đoán, và 'sao không hành động thay vì than phiền'. Vì thế lựa chọn thứ ba là cách hiểu sai phổ biến về Khắc kỷ."},
  {"q": "Hình ảnh quả ô liu chín rụng (IV.48) muốn nói gì?", "options": ["Cái chết là hình phạt của thần linh", "Cái chết là một phần tự nhiên của đời sống, có thể đón nhận với lòng biết ơn", "Đời người không có giá trị gì", "Nên sống càng lâu càng tốt bằng mọi giá"], "answer": 1, "explain": "Quả chín rụng 'chúc phúc cho tự nhiên' và 'cảm ơn cái cây': cái chết được nhìn như điểm kết tự nhiên, không phải tai họa."},
- {"q": "Câu 'thiên ý hay nguyên tử' (IV.3) giúp Marcus điều gì?", "options": ["Chứng minh vũ trụ chắc chắn có thiên ý", "Giữ được sự bình thản mà không cần giải xong câu hỏi siêu hình: dù vũ trụ có trật tự hay ngẫu nhiên, oán trách điều đã xảy ra đều vô lý", "Bác bỏ hoàn toàn triết học Epicurus", "Chứng minh linh hồn bất tử"], "answer": 1, "explain": "Đây là lưỡng nan: cả hai vế dẫn tới cùng một kết luận thực hành, nên Marcus không phải chọn vế nào trước khi sống cho đúng."},
+ {"q": "Câu 'thiên ý hay nguyên tử' (IV.3) giúp Marcus điều gì?", "options": ["Chứng minh vũ trụ chắc chắn có thiên ý", "Giữ được sự bình thản mà không cần giải xong câu hỏi siêu hình: dù vũ trụ có trật tự hay ngẫu nhiên, oán trách điều đã xảy ra đều vô lý", "Bác bỏ hoàn toàn triết học Epicurus", "Chứng minh linh hồn bất tử"], "answer": 1, "explain": "Đây là lưỡng nan. Theo cách đọc của Annas và Hadot (SEP), cả hai vế dẫn tới cùng một kết luận thực hành: đừng oán trách (VIII.17). Dù vậy, Marcus nhiều lần khẳng định thế giới do một tự nhiên có lý trí điều hành (IV.3, X.6)."},
  {"q": "Bạn bị đuổi việc bất công. Lời khuyên nào gần Marcus nhất?", "options": ["Im lặng chịu đựng vì mọi việc đều do số", "Không oán trách điều đã xảy ra, nhưng phản đối bất công bằng cách chính đáng vẫn là việc của bạn, vì công bằng là đức hạnh", "Tìm cách trả thù cho hả giận", "Giả vờ không buồn"], "answer": 1, "explain": "Marcus tách điều đã xảy ra (đón nhận) với điều còn làm được (hành động, VIII.47). Ông cũng khuyên thay cơn giận bằng sự thấu hiểu (VII.26), nên trả thù không phải lựa chọn của ông."}
 ]
 </script>
