@@ -106,7 +106,7 @@ Một thí nghiệm trung thực mời bạn suy nghĩ; một thí nghiệm bị
 
 Thí nghiệm tư duy bắt đầu từ trực giác, nhưng không kết thúc ở đó — vì trực giác có thể sai.
 
-Trực giác vật lý từng sai một cách ngoạn mục: gần hai nghìn năm, theo [Aristotle](../triet-gia/aristotle.md), người ta "thấy rõ" vật nặng rơi nhanh hơn vật nhẹ, cho đến khi Galileo chứng minh ngược lại — và một trong những lập luận nổi tiếng nhất của ông lại chính là một thí nghiệm tư duy: buộc vật nặng vào vật nhẹ, thì theo Aristotle khối ghép phải rơi vừa chậm hơn vừa nhanh hơn vật nặng, một mâu thuẫn. Trực giác đạo đức cũng có thể sai theo cách tương tự: nó được đúc từ tiến hóa, văn hóa, thói quen — những thứ không phải lúc nào cũng đáng tin.
+Trực giác vật lý từng sai một cách ngoạn mục: suốt nhiều thế kỷ, theo [Aristotle](../triet-gia/aristotle.md), người ta "thấy rõ" vật nặng rơi nhanh hơn vật nhẹ (Philoponus đã phản bác từ thế kỷ 6), cho đến khi Galileo chứng minh ngược lại — và một trong những lập luận nổi tiếng nhất của ông lại chính là một thí nghiệm tư duy: buộc vật nặng vào vật nhẹ, thì theo Aristotle khối ghép phải rơi vừa chậm hơn vừa nhanh hơn vật nặng, một mâu thuẫn. Trực giác đạo đức cũng có thể sai theo cách tương tự: nó được đúc từ tiến hóa, văn hóa, thói quen — những thứ không phải lúc nào cũng đáng tin.
 
 Hơn nữa, trực giác không trung lập về văn hóa. Với những tình huống kiểu xe điện, người ở các nền văn hóa khác nhau trả lời khác nhau: thí nghiệm Moral Machine — khảo sát trực tuyến hàng triệu người về các quyết định đạo đức của xe tự lái, công bố trên *Nature* năm 2018 — cho thấy khác biệt rõ rệt giữa các vùng miền. Trực giác của bạn, một phần, là "trực giác của nền văn hóa bạn lớn lên trong đó".
 
