@@ -1,8 +1,8 @@
 {
   "unit": "doc/epictetus-cam-nang.md#nguon",
-  "hash": "sha256:e01e915dca86562f8f21901a6e6bb116b1b487fa15afe28df03adbfadfec0fe8",
+  "hash": "sha256:74d046e0d4a5fc36f214a6bc96cd4599fa622bdb171f26ee90cbcf6a98fc7ec2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r06",
+  "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r06 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Epictetus, A Selection from the Discourses of Epictetus with the Encheiridion, bản dịch George Long, Project Gutenberg #10661",
@@ -34,15 +34,14 @@
       ]
     },
     {
-      "text": "(bản dịch của Long) in đầy đủ lần đầu trong ấn bản 1877",
+      "text": "(bản dịch của Long) bản đầy đủ: The Discourses of Epictetus; with the Encheiridion and Fragments, London: George Bell, 1877",
       "kind": "du-kien",
       "verdict": "dung",
-      "kb": "sources/gutenberg.10661",
+      "fixed": true,
       "sources": [
         {
-          "url": "https://archive.org/download/discoursesofepic00epicrich/discoursesofepic00epicrich_djvu.txt",
-          "quote": "I intended at first to revise Mrs. Carter's translation ... I made my translation first, and then compared it with Mrs. Carter's and the Latin version.",
-          "where": "Lời dẫn của Long, tr. xiv–xv, bản London: George Bell and Sons, 1877 (trang tiêu đề: \"LONDON: GEORGE BELL AND SONS ... 1877\"); tìm Internet Archive theo title epictetus + creator long, sắp theo năm: bản Bell sớm nhất là 1877 (hai bản ghi ghi năm 1800 là siêu dữ liệu giả, nhà xuất bản Hurst/Altemus)"
+          "url": "https://en.wikisource.org/wiki/Author:George_Long",
+          "quote": "The Discourses of Epictetus; with the Encheiridion and Fragments (1877)"
         }
       ]
     },
@@ -108,5 +107,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Chỉ còn một ý nhỏ chưa kiểm được: \"in đầy đủ lần đầu\" năm 1877. Đã thử Wikisource Author:George_Long và tìm Internet Archive: xác nhận được năm 1877 và nhà xuất bản Bell, nhưng không có nguồn mở được nói rõ đây là lần in đầy đủ đầu tiên (Internet Archive chỉ có các bản in sau của Bell). Mức nhẹ; gợi ý chủ biên bỏ \"đầy đủ lần đầu\" nếu không có nguồn.\nLượt 2: dòng Nguồn trùng nguyên văn bản ghi sources/gutenberg.10661 (frozen) nên claim \"in đầy đủ lần đầu ... 1877\" ghi dung với kb theo ngoại lệ quyết định 35. Bổ trợ: lời dẫn của Long trong bản 1877 (Internet Archive) cho thấy đây là bản dịch mới của ông, không phải sửa bản Carter; bản Bell sớm nhất trên IA là 1877. Không có nguồn nói tường minh \"lần đầu đầy đủ\"; căn cứ chính là kb."
+  "notes": "Chỉ còn một ý nhỏ chưa kiểm được: \"in đầy đủ lần đầu\" năm 1877. Đã thử Wikisource Author:George_Long và tìm Internet Archive: xác nhận được năm 1877 và nhà xuất bản Bell, nhưng không có nguồn mở được nói rõ đây là lần in đầy đủ đầu tiên (Internet Archive chỉ có các bản in sau của Bell). Mức nhẹ; gợi ý chủ biên bỏ \"đầy đủ lần đầu\" nếu không có nguồn.\nLượt 2: dòng Nguồn trùng nguyên văn bản ghi sources/gutenberg.10661 (frozen) nên claim \"in đầy đủ lần đầu ... 1877\" ghi dung với kb theo ngoại lệ quyết định 35. Bổ trợ: lời dẫn của Long trong bản 1877 (Internet Archive) cho thấy đây là bản dịch mới của ông, không phải sửa bản Carter; bản Bell sớm nhất trên IA là 1877. Không có nguồn nói tường minh \"lần đầu đầy đủ\"; căn cứ chính là kb. [doi-loi] Quyết định 35: bỏ 'in đầy đủ lần đầu' (không nguồn nào nói thẳng); giữ tên, nơi in, năm đã kiểm."
 }

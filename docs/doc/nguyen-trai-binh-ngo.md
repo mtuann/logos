@@ -134,7 +134,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
-1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 10 (nguyên văn bài cáo, các sự kiện cuối năm Đinh Mùi), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十>; quyển 11 và 12 (án năm 1442; việc năm 1464, 1467). <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一>
+1. *Đại Việt sử ký toàn thư*, Bản kỷ quyển 10 (nguyên văn bài cáo, các sự kiện cuối năm Đinh Mùi), Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十>; quyển 11 (án năm 1442) <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十一> và quyển 12 (việc năm 1464, 1467) <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二>
 2. *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (Bùi Huy Bích, 1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>
 3. Bản dịch trong *Việt Nam sử lược* (Trần Trọng Kim, 1920) và trong *Lam Sơn thực lục* (Mạc Bảo Thần dịch, 1944; có nguyên văn chữ Hán), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)>; <https://vi.wikisource.org/wiki/Lam_Sơn_thực_lục/Cuốn_thứ_ba>
 4. *Mạnh Tử* 1B11, nguyên văn. <https://ctext.org/mengzi/liang-hui-wang-ii>

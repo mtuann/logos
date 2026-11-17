@@ -1,8 +1,8 @@
 {
   "unit": "sources/gutenberg.10661",
-  "hash": "sha256:951a7a6a696d74ea3bfb90739ce1f0afdf1f3fa90bd43543c3a17d9720c6e799",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r25",
+  "hash": "sha256:34504375b47532edaf9a4a25b677a54a0bef0456d1f334333e699d9bd0d6bca5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-r25 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Ebook 10661 là A Selection from the Discourses of Epictetus with the Encheiridion",
@@ -37,8 +37,21 @@
           "where": "Internet Archive: 'The discourses of Epictetus; with the Encheiridion and fragments', Epictetus, Long, George, 1800-1879, London, G. Bell, ngày 1877-01-01 (3 bản số hóa)"
         }
       ]
+    },
+    {
+      "text": "Bỏ cụm 'in đầy đủ lần đầu' (không nguồn nào nói thẳng); giữ 'bản đầy đủ: The Discourses of Epictetus; with the Encheiridion and Fragments, London: George Bell, 1877' (tên sách cho thấy là bản đủ Diễn từ, Cẩm nang, Mảnh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Author:George_Long",
+          "quote": "The Discourses of Epictetus; with the Encheiridion and Fragments (1877)",
+          "where": "theo bằng chứng doc/epictetus-cam-nang#nguon lượt 1"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): 1877 và G. Bell theo siêu dữ liệu Internet Archive (đã khớp ở 3 bản). Cụm 'in đầy đủ lần đầu' chưa kiểm riêng nhưng 1877 là ngày trên các bản này; Gutenberg ebook chỉ là bản chọn lọc của Long. Nguồn tốt hơn nếu muốn: trang tựa bản IA discoursesofepic00epicrich."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r25): 1877 và G. Bell theo siêu dữ liệu Internet Archive (đã khớp ở 3 bản). Cụm 'in đầy đủ lần đầu' chưa kiểm riêng nhưng 1877 là ngày trên các bản này; Gutenberg ebook chỉ là bản chọn lọc của Long. Nguồn tốt hơn nếu muốn: trang tựa bản IA discoursesofepic00epicrich. [doi-loi] Quyết định 35: bỏ 'in đầy đủ lần đầu' (viec-cho 2026-11-17)."
 }
