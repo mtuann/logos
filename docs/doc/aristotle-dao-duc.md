@@ -119,8 +119,8 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đọc tiếp {#doc-tiep}
 
-- [Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đức hạnh luận của Aristotle đặt cạnh vị lợi và Kant
-- [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh khoái lạc và sự hài lòng
+- [Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh của Aristotle đặt cạnh thuyết vị lợi và đạo đức học Kant
+- [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh thuyết khoái lạc, thuyết thỏa mãn ước muốn và thuyết danh sách khách quan
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh Athens nơi Aristotle viết
 - [Epictetus: Cẩm nang](epictetus-cam-nang.md) — người Khắc kỷ cũng nói đức hạnh, nhưng là thứ duy nhất tốt
 

@@ -135,8 +135,8 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đọc tiếp {#doc-tiep}
 
-- [Mọi sự đã được định sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?
-- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — một câu trả lời Khắc kỷ cho câu hỏi về ý nghĩa
+- [Mọi thứ đã được viết sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?
+- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — bốn lập trường về ý nghĩa cuộc sống, để đặt cạnh câu trả lời Khắc kỷ của *Cẩm nang*
 - [Đọc *Suy tưởng* của Marcus Aurelius](aurelius-suy-tuong.md) — người học trò qua sách của Epictetus, viết cho chính mình
 - [Đọc "Biện hộ của Socrates"](platon-bien-ho.md) — *Cẩm nang* khép lại bằng chính lời Socrates: Anytus và Meletus có thể giết ông, nhưng không làm hại được ông
 
