@@ -1,0 +1,72 @@
+{
+  "unit": "events/lich-su.the-ky-19.1861",
+  "hash": "sha256:293d4845eb3fa872cffd1a4088e1fe381001bbf6f6999fa384c9fa3f372eccf7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-k03",
+  "claims": [
+    {
+      "text": "Utilitarianism đăng báo năm 1861",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/mill.utilitarianism"
+    },
+    {
+      "text": "Utilitarianism đăng báo 1861 (trên Fraser's Magazine), in thành sách 1863",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/mill/",
+          "quote": "The work first appeared in 1861 as a series of three articles for Fraser's Magazine",
+          "where": "mục Utilitarianism"
+        },
+        {
+          "url": "https://iep.utm.edu/mill/",
+          "quote": "Mill planned from the beginning a separate book publication, which came to light in 1863.",
+          "where": "mục Utilitarianism"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "Utilitarianism (1861)",
+          "where": "phần mở đầu"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE'",
+          "where": "trang nhan đề"
+        }
+      ]
+    },
+    {
+      "text": "Mill bảo vệ và tinh chỉnh vị lợi luận mà ông thừa hưởng từ Bentham và cha mình, James Mill",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill-moral-political/",
+          "quote": "Mill was raised in the tradition of Philosophical Radicalism , made famous by Jeremy Bentham (1748-1832), John Austin (1790-1859), and his father James Mill (1773-1836), which applied utilitarian principles",
+          "where": "1. Mill's Intellectual Background"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "he stands as the heir to Bentham and James Mill",
+          "where": "mục chính trị/xã hội"
+        }
+      ]
+    },
+    {
+      "text": "hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness",
+          "where": "ch. II"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản ghi mới sinh từ câu sửa sau kiểm mẫu 5.6 (lich-su/the-ky-19.md#mill-tu-do-ca-nhan-va-hanh-phuc-cua-so-dong); cùng câu với events/lich-su.the-ky-19.1863. Năm 1861 = năm đăng kỳ trên Fraser's Magazine, khớp works/mill.utilitarianism (đóng băng, year 1861) và IEP Mill. Câu bị cắt ('hạnh phú…'); kiểm năm và ý chính. Gutenberg chính bảo trì, dùng mirror gutenberg.pglaf.org (#11224)."
+}

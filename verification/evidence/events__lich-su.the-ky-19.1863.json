@@ -1,32 +1,61 @@
 {
   "unit": "events/lich-su.the-ky-19.1863",
-  "hash": "sha256:a24fa0ce9a4924f969ae4752dfe781f848dcc17e3e506bf18cf7b19c5125f8c8",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e03",
+  "hash": "sha256:34ba9158786a68c108058495af238eee63fe338f8f4d360ce41ff05e0917855f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-e03; agent-kiem-5.6-k03",
   "claims": [
     {
-      "text": "Utilitarianism (1863) là bản sách; xuất hiện lần đầu 1861 trên Fraser's Magazine",
+      "text": "Utilitarianism: đăng báo 1861 (Fraser's Magazine), in thành sách 1863",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://iep.utm.edu/mill/",
-          "quote": "Mill planned from the beginning a separate book publication, which came to light in 1863."
+          "quote": "The work first appeared in 1861 as a series of three articles for Fraser's Magazine",
+          "where": "mục Utilitarianism"
+        },
+        {
+          "url": "https://iep.utm.edu/mill/",
+          "quote": "Mill planned from the beginning a separate book publication, which came to light in 1863.",
+          "where": "mục Utilitarianism"
         }
       ]
     },
     {
-      "text": "Chuyển từ Bentham: hạnh phúc là mục đích duy nhất của hành động",
+      "text": "Mill bảo vệ và tinh chỉnh vị lợi luận mà ông thừa hưởng từ Bentham và cha mình, James Mill; hạnh phúc là mục đích của hành động",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
-          "quote": "happiness is the sole end of human action, and the promotion of it the test by which to judge of all human conduct"
+          "quote": "happiness is the sole end of human action, and the promotion of it the test by which to judge of all human conduct",
+          "where": "mục triết học thực hành"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "he stands as the heir to Bentham and James Mill",
+          "where": "mục chính trị/xã hội"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill-moral-political/",
+          "quote": "his father James Mill (1773-1836), which applied utilitarian principles",
+          "where": "1. Mill's Intellectual Background"
+        }
+      ]
+    },
+    {
+      "text": "hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness",
+          "where": "ch. II"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Năm 1863 là bản sách; đăng loạt báo 1861 (IEP). Gutenberg ebook 11224 ghi 1861. Đề nghị bài ghi '1861; in sách 1863'. Không còn lỗi nặng."
+  "notes": "Năm 1863 là bản sách; đăng loạt báo 1861 (IEP). Gutenberg ebook 11224 ghi 1861. Đề nghị bài ghi '1861; in sách 1863'. Không còn lỗi nặng. doi-loi 5.6 (sau mẫu): câu nguồn đổi chữ thành '(Utilitarianism, đăng báo 1861, in thành sách 1863) ... mà ông thừa hưởng từ Bentham và cha mình, James Mill'. Năm 1863 (in sách) không đổi; claim cập nhật theo chữ mới, quote mở lại trong phiên (IEP Mill, SEP Mill, SEP Mill moral-political, Gutenberg #11224 qua mirror pglaf). Khớp works/mill.utilitarianism (year_note)."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-19.md#mill-tu-do-ca-nhan-va-hanh-phuc-cua-so-dong",
-  "hash": "sha256:9c12625b79cdab6028119ffb0a607f3be80f20ae024b62ecd711fd877652a586",
+  "hash": "sha256:0837c38951e41053b15d5aaa0e5f75decafb270a20bfa837fb83ce0e9ce6dbc5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p04",
+  "checker": "agent-kiem-5.6-p04; agent-kiem-5.6-k03",
   "claims": [
     {
       "text": "John Stuart Mill (1806–1873)",
@@ -63,25 +63,30 @@
       ]
     },
     {
-      "text": "Trong Chủ nghĩa vị lợi (Utilitarianism, 1863)",
+      "text": "Trong Chủ nghĩa vị lợi (Utilitarianism, đăng báo 1861, in thành sách 1863)",
       "kind": "du-kien",
       "verdict": "dung",
-      "kb": "events/lich-su.the-ky-19.1863"
+      "kb": "works/mill.utilitarianism"
     },
     {
-      "text": "Mill bảo vệ và tinh chỉnh vị lợi luận của thầy mình Bentham",
+      "text": "Mill bảo vệ và tinh chỉnh vị lợi luận (utilitarianism) mà ông thừa hưởng từ Bentham và cha mình, James Mill",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
-          "quote": "a friend and prominent ally of Jeremy Bentham and the Philosophical Radicals",
-          "where": "§1"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill-moral-political/",
+          "quote": "Mill was raised in the tradition of Philosophical Radicalism , made famous by Jeremy Bentham (1748-1832), John Austin (1790-1859), and his father James Mill (1773-1836), which applied utilitarian principles",
+          "where": "1. Mill's Intellectual Background"
         },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
-          "quote": "a close reading of Bentham in Dumont’s French translation and editorial responsibility for Bentham’s Rationale of Judicial Evidence",
-          "where": "§1"
+          "quote": "he stands as the heir to Bentham and James Mill",
+          "where": "mục chính trị/xã hội"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "Mill had internalised the radical and utilitarian creed during his education",
+          "where": "1. Life"
         }
       ]
     },
@@ -231,6 +236,102 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "events/lich-su.the-ky-19.1869-2"
+    },
+    {
+      "text": "Utilitarianism đăng báo năm 1861 (trên Fraser's Magazine), in thành sách năm 1863",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/mill/",
+          "quote": "The work first appeared in 1861 as a series of three articles for Fraser's Magazine",
+          "where": "mục Utilitarianism"
+        },
+        {
+          "url": "https://iep.utm.edu/mill/",
+          "quote": "Mill planned from the beginning a separate book publication, which came to light in 1863",
+          "where": "mục Utilitarianism"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE'",
+          "where": "trang nhan đề"
+        }
+      ]
+    },
+    {
+      "text": "cha mình, James Mill",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "John Stuart Mill was born on 20 May 1806 in Pentonville, then a northern suburb of London, to Harriet Barrow and James Mill",
+          "where": "1. Life"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill-moral-political/",
+          "quote": "his father James Mill (1773-1836)",
+          "where": "1. Mill's Intellectual Background"
+        }
+      ]
+    },
+    {
+      "text": "hành động đúng là hành động tạo ra hạnh phúc lớn nhất cho số đông nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness",
+          "where": "ch. II"
+        }
+      ]
+    },
+    {
+      "text": "Trong Chủ nghĩa vị lợi (Utilitarianism, 1863)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Trong *Chủ nghĩa vị lợi* (*Utilitarianism*, đăng báo 1861, in thành sách 1863)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "Utilitarianism (1861)",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill-moral-political/",
+          "quote": "Utilitarianism (1861, cited as U )",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "REPRINTED FROM 'FRASER'S MAGAZINE'",
+          "where": "trang nhan đề"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Mill bảo vệ và tinh chỉnh vị lợi luận (utilitarianism) của thầy mình Bentham",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Mill bảo vệ và tinh chỉnh **vị lợi luận** (*utilitarianism*) mà ông thừa hưởng từ [Bentham](../triet-gia/bentham.md) và cha mình, James Mill",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "he stands as the heir to Bentham and James Mill",
+          "where": "4."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "had moved to London in 1802, where he was to become a friend and prominent ally of Jeremy Bentham",
+          "where": "1. Life"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -241,5 +342,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Bentham là bạn và đồng minh của cha Mill; Mill được giáo dục theo học thuyết vị lợi và đọc kỹ Bentham — 'thầy' theo nghĩa rộng, chấp nhận. Trang Quốc hội Anh chặn bot (Cloudflare); dùng bản Wayback."
+  "notes": "Bentham là bạn và đồng minh của cha Mill; Mill được giáo dục theo học thuyết vị lợi và đọc kỹ Bentham — 'thầy' theo nghĩa rộng, chấp nhận. Trang Quốc hội Anh chặn bot (Cloudflare); dùng bản Wayback. Kiểm lại sau mẫu (k03): mẫu (agent-mau-5.6-m02) ghi hai lỗi nhẹ (năm Utilitarianism chỉ ghi 1863; 'thầy mình Bentham'); bài đã sửa đúng fix (claim sai chép từ mẫu, fixed: true). Claim năm nay dựa works/mill.utilitarianism (đóng băng; year_note 'đăng kỳ trên Fraser’s Magazine 1861, in thành sách 1863') và IEP Mill; James Mill là cha và thuộc truyền thống vị lợi theo SEP. Gutenberg chính bảo trì, dùng mirror gutenberg.pglaf.org (ebook #11224)."
 }
