@@ -1,6 +1,6 @@
 {
   "unit": "lap-luan/sodo-29",
-  "hash": "sha256:0619258ecd0bde5aa6d3c63a9f15c263847468eee54e2cb01c25d6b1b820ca22",
+  "hash": "sha256:94a40a4fed297aab71aa082b27d4a719107afd644bbf04200b73db5ca611fb50",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.5-l02 + agent-kiem-5.5-k01",
   "claims": [
@@ -92,9 +92,10 @@
           "quote": "a standardized argument is a list of premises and a conclusion",
           "where": "SEP Informal Logic, mục Standardization"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
-  "result": "sua",
-  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Chỉ có ghi chú tranh cãi dùng từ tự mâu thuẫn nhẹ (liên kết vs hội tụ). Vai trò: c3 (mua đồ ăn tặng thay vì tiền mặt) vừa đáp lại phản đối vừa gợi cách giúp; tiền đề là cách đọc hợp lý. c4 không liên quan: đúng. c5 là giả định ngầm hợp lý. Kiểm lại: ghi_chu_tranh_cai đã viết lại đúng fix (hai tiền đề độc lập, hội tụ), khớp SEP Informal Logic về convergent premises. Tuy vậy ghi chú này không nêu điểm tranh cãi nào mà vẫn nhắc \"c1\" và \"c2\", nên disputedIds chấp nhận mọi vai trò cho hai tiền đề này (vd gán c1 là kết luận vẫn được điểm, kèm ghi chú nói c1 là tiền đề). Lỗi có từ bản cũ (ghi chú cũ cũng nhắc c1, c2), lượt trước chưa ghi; ghi claim mới mức vừa. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node)."
+  "result": "dat",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Chỉ có ghi chú tranh cãi dùng từ tự mâu thuẫn nhẹ (liên kết vs hội tụ). Vai trò: c3 (mua đồ ăn tặng thay vì tiền mặt) vừa đáp lại phản đối vừa gợi cách giúp; tiền đề là cách đọc hợp lý. c4 không liên quan: đúng. c5 là giả định ngầm hợp lý. Kiểm lại: ghi_chu_tranh_cai đã viết lại đúng fix (hai tiền đề độc lập, hội tụ), khớp SEP Informal Logic về convergent premises. Tuy vậy ghi chú này không nêu điểm tranh cãi nào mà vẫn nhắc \"c1\" và \"c2\", nên disputedIds chấp nhận mọi vai trò cho hai tiền đề này (vd gán c1 là kết luận vẫn được điểm, kèm ghi chú nói c1 là tiền đề). Lỗi có từ bản cũ (ghi chú cũ cũng nhắc c1, c2), lượt trước chưa ghi; ghi claim mới mức vừa. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node). Kiểm lại lần 2 (commit 60494d1): ghi chú viết lại không còn mã câu (\"Hai câu đầu là hai tiền đề độc lập (hội tụ)…\") thay vì đặt null; disputedIds trả [], c1 và c2 lại được chấm chặt và ghi chú không bao giờ hiện, tác dụng tương đương fix. Nội dung ghi chú vẫn đúng với SEP Informal Logic (convergent premises). Cơ chế: docs/assets/js/so-do-lap-luan.js, hàm disputedIds."
 }

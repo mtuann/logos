@@ -1,6 +1,6 @@
 {
  "unit": "lap-luan/sodo-15",
- "hash": "sha256:77737f5181356b1c8b29c97247d9c5d20bd79cea9cf66f864571280dcc86e783",
+ "hash": "sha256:ef1890d715f6eec549fc3d07c410771e65f3fa4e6f5bc9282e828dc2fe58269e",
  "checked_on": "2026-11-17",
  "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
  "claims": [
@@ -67,9 +67,10 @@
      "quote": "a standardized argument is a list of premises and a conclusion",
      "where": "SEP Informal Logic, mục Standardization"
     }
-   ]
+   ],
+   "fixed": true
   }
  ],
- "result": "sua",
- "notes": "c3 nói về Đà Lạt trong khi kết luận về Sapa: tiền đề yếu nhưng vẫn là tiền đề. Kiểm lại: đã thêm ghi_chu_tranh_cai cho c4 đúng ý fix và nhất quán với sodo-22. Nhưng câu so sánh \"như c1 ở bài sodo-22\" chứa chuỗi \"c1\", nên disputedIds trả [c4, c1]: tiền đề c1 của bài này (tour đắt hơn 30%) nay được chấm đúng với bất kỳ vai trò nào, và ghi chú hiện ra nói về c1 của bài khác. Ghi claim mới mức vừa; fix bỏ mã câu của bài khác. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node)."
+ "result": "dat",
+ "notes": "c3 nói về Đà Lạt trong khi kết luận về Sapa: tiền đề yếu nhưng vẫn là tiền đề. Kiểm lại: đã thêm ghi_chu_tranh_cai cho c4 đúng ý fix và nhất quán với sodo-22. Nhưng câu so sánh \"như c1 ở bài sodo-22\" chứa chuỗi \"c1\", nên disputedIds trả [c4, c1]: tiền đề c1 của bài này (tour đắt hơn 30%) nay được chấm đúng với bất kỳ vai trò nào, và ghi chú hiện ra nói về c1 của bài khác. Ghi claim mới mức vừa; fix bỏ mã câu của bài khác. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node). Kiểm lại lần 2 (commit 60494d1): ghi chú tranh cãi viết lại đúng fix (\"như câu về giá thuê nhà ở bài sodo-22\"); disputedIds trả [\"c4\"], tiền đề c1 lại được chấm chặt. Cơ chế: docs/assets/js/so-do-lap-luan.js, hàm disputedIds."
 }
