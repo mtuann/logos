@@ -37,7 +37,7 @@ Một vòng vấn đáp thường đi qua các bước sau:
 
 Socrates hỏi: "Vậy mộ đạo là gì?"
 
-Euthyphro đáp: "Mộ đạo là điều được các thần yêu mến."
+Euthyphro đáp trước bằng một ví dụ: mộ đạo là kiện kẻ làm điều bất công, như ông đang làm. Socrates bảo ông không cần một ví dụ mà cần một định nghĩa chung. Euthyphro thử lại: "Mộ đạo là điều được các thần yêu mến."
 
 Socrates lấy định nghĩa đó thật nghiêm túc (bước 2): nhưng các thần đôi khi bất đồng với nhau — thần này yêu điều mà thần kia ghét. Vậy cùng một việc vừa "mộ đạo" vừa "bất kính" hay sao? (bước 3: phản ví dụ rút ra từ chính niềm tin của Euthyphro về các thần).
 
@@ -145,7 +145,7 @@ Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạ
 **Bài 4.** Chọn một từ to mà bạn hay dùng ("yêu nước", "truyền thống", "hiện đại"...). Viết ra định nghĩa của bạn trong một câu, rồi tự tìm một phản ví dụ. Bạn có rơi vào bế tắc không?
 
 ??? success "Xem gợi ý đáp án"
-    Ví dụ với "yêu nước là sẵn sàng hy sinh vì đất nước": phản ví dụ — một người đóng thuế đầy đủ, dạy con nên người, không làm điều gì hại ai, nhưng không bao giờ "hy sinh" theo nghĩa đổ máu. Người đó có yêu nước không? Trực giác nói có — vậy định nghĩa "sẵn sàng hy sinh" quá hẹp. Không có đáp án chuẩn; điểm của bài tập là trải nghiệm bế tắc.
+    Ví dụ với "yêu nước là sẵn sàng hy sinh vì đất nước": phản ví dụ — một người đóng thuế đầy đủ, dạy con nên người, không làm điều gì hại ai, và nói thẳng rằng mình không muốn hy sinh tính mạng cho bất cứ ai, kể cả đất nước. Người đó có yêu nước không? Trực giác nhiều người nói có — vậy định nghĩa "sẵn sàng hy sinh" quá hẹp. Không có đáp án chuẩn; điểm của bài tập là trải nghiệm bế tắc.
 
 **Bài 5.** Dùng kỹ thuật hai màu mực trong mục "Vấn đáp với chính mình" để tự vấn một niềm tin bạn đang giữ (ví dụ về tiền bạc, tình yêu, hay sự nghiệp). Viết ít nhất ba vòng hỏi-đáp. Bạn dừng ở đâu: định nghĩa mới, hay bế tắc?
 
@@ -159,7 +159,7 @@ Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạ
 [
  {"q": "Bước đầu tiên của phép vấn đáp Socrates là gì?", "options": ["Đưa ra lý thuyết của mình để đối phương phản biện", "Hỏi định nghĩa: X là gì?", "Tìm ngay phản ví dụ để bác bỏ đối phương", "Thừa nhận đối phương đúng để kết thúc nhanh"], "answer": 1, "explain": "Vấn đáp bắt đầu bằng câu hỏi định nghĩa — không phải ví dụ, mà là bản chất của X là gì. Mọi bước sau đều làm việc trên định nghĩa đó."},
  {"q": "Bế tắc (aporia) trong phép vấn đáp là gì?", "options": ["Thất bại của cuộc tranh luận", "Trạng thái cả hai cùng thừa nhận chưa hiểu X như mình tưởng — và đó là tiến bộ", "Chiêu trò để đối phương mệt mà bỏ cuộc", "Lúc Socrates đưa ra đáp án của mình"], "answer": 1, "explain": "Bế tắc không phải thất bại: trước đó ta tưởng mình hiểu, giờ ta biết mình chưa hiểu. Socrates không 'thắng' ở đây — ông cùng đối phương rơi vào bế tắc."},
- {"q": "Trong đối thoại Euthyphro, câu hỏi then chốt của Socrates là gì?", "options": ["Các thần có thật không?", "Các thần yêu điều mộ đạo vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu?", "Euthyphro có yêu cha mình không?", "Ai sẽ thắng kiện?"], "answer": 1, "explain": "Đây là 'thế lưỡng nan Euthyphro' nổi tiếng: vế nào cũng làm định nghĩa 'mộ đạo là điều các thần yêu mến' sụp đổ."},
+ {"q": "Trong đối thoại Euthyphro, câu hỏi then chốt của Socrates là gì?", "options": ["Các thần có thật không?", "Các thần yêu điều mộ đạo vì nó mộ đạo, hay nó mộ đạo vì được các thần yêu?", "Euthyphro có yêu cha mình không?", "Ai sẽ thắng kiện?"], "answer": 1, "explain": "Đây là 'thế lưỡng nan Euthyphro' nổi tiếng: nếu các thần yêu điều mộ đạo vì nó mộ đạo, thì 'được các thần yêu' chỉ là một thuộc tính của mộ đạo chứ không nói lên mộ đạo là gì, và định nghĩa của Euthyphro sụp đổ; nếu nó mộ đạo chỉ vì được các thần yêu, thì mộ đạo trở thành ý thích tùy tiện của các thần."},
  {"q": "Điểm nào phân biệt phép vấn đáp với cãi nhau để thắng?", "options": ["Vấn đáp dùng câu hỏi, cãi nhau thì không", "Vấn đáp nhằm cùng tìm ra sự thật và người hỏi sẵn sàng đổi ý; cãi nhau nhằm thắng", "Vấn đáp chỉ dành cho triết gia", "Không có điểm nào khác nhau"], "answer": 1, "explain": "Hình thức câu hỏi không quyết định — vẫn có thể hỏi xoáy để làm nhục người khác. Điểm phân biệt là mục đích (cùng tìm sự thật) và sự sẵn sàng thay đổi ý kiến của chính mình."},
  {"q": "Có người nói: 'Tự do là muốn gì làm nấy.' Phản ví dụ nào đánh trúng định nghĩa này nhất?", "options": ["Một người muốn ăn kem nhưng hết tiền", "Một người nghiện muốn bỏ thuốc mà không bỏ được — 'muốn' của ai mới tính?", "Một người muốn bay như chim", "Một người không muốn gì cả"], "answer": 1, "explain": "Người nghiện 'muốn' hút và cũng 'muốn' bỏ — hai cái muốn mâu thuẫn nhau. Vậy 'muốn gì làm nấy' nghĩa là làm theo cái muốn nào? Định nghĩa sụp đổ vì chữ 'muốn' chưa được làm rõ."}
 ]
