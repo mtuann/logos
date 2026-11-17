@@ -5208,7 +5208,7 @@ Câu hỏi dẫn dắt:
 2. Theo định nghĩa của Hume, anh Tư trong trường hợp Frankfurt có tự do không? Người nghiện cờ bạc có tự do không? Định nghĩa này có bỏ sót điều gì?
 3. Hume cho rằng tranh cãi kéo dài là dấu hiệu của việc hai bên hiểu chữ khác nhau. Bạn có thấy điều này đúng với tranh luận về tự do không? Thử tìm một tranh luận khác trong đời sống mà gốc rễ là hiểu chữ khác nhau.
 
-Đọc thêm: [hướng dẫn đọc Hume về nhân quả](../doc/hume-nhan-qua.md), nền tảng cho cách Hume hiểu chữ "tất yếu" ở mục VIII. Ở phía ngược lại, Sartre cho rằng con người "bị kết án phải tự do": xem [hướng dẫn đọc *Thuyết hiện sinh là một thuyết nhân bản*](../doc/sartre-hien-sinh.md).
+Đọc thêm: [hướng dẫn đọc Hume về nhân quả](../doc/hume-nhan-qua.md), nền tảng cho cách Hume hiểu chữ "tất yếu" ở mục VIII. Ở phía ngược lại, [Sartre](../triet-gia/sartre.md) cho rằng con người "bị kết án phải tự do": xem [hướng dẫn đọc *Thuyết hiện sinh là một thuyết nhân bản*](../doc/sartre-hien-sinh.md).
 
 ## Tự kiểm tra
 

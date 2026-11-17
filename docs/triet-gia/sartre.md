@@ -64,7 +64,7 @@ Lập luận trong bài giảng *L'existentialisme est un humanisme* (1945, in n
 - [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md)
 - [Thế kỷ 20: triết học chia hai ngả](../lich-su/the-ky-20.md)
 
-**Các bài khác nhắc tới Sartre:** [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md), [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md).
+**Các bài khác nhắc tới Sartre:** [Ta có thật sự tự do lựa chọn?](../cau-hoi/tu-do-y-chi.md), [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md), [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md).
 
 ## Nguồn
 
