@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-20.md#nga-thu-nhat-phan-tich-ngon-ngu-va-logic",
-  "hash": "sha256:de48ffa7e5c889ed8dcc1adfe7ea55905b6be59ed7a67da6f87267740caa8613",
+  "hash": "sha256:a1ddd729fb3fb314e9744b29c92d114cf6d702e60f3f84cae55bf9e8dc5406cd",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p05",
+  "checker": "agent-kiem-5.6-p05 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Gottlob Frege (1848–1925)",
@@ -297,7 +297,8 @@
         }
       ],
       "severity": "nhe",
-      "fix": "A. J. Ayer phổ biến quan điểm này sang thế giới Anh ngữ qua *Language, Truth and Logic* (1936)."
+      "fix": "A. J. Ayer phổ biến quan điểm này sang thế giới Anh ngữ qua *Language, Truth and Logic* (1936).",
+      "fixed": true
     },
     {
       "text": "Nhưng nguyên tắc kiểm chứng tự bắn vào chân mình: chính nó cũng không kiểm chứng được bằng kinh nghiệm",
@@ -389,5 +390,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một lỗi nhẹ: tên sách Ayer in là Language, Truth and Logic (không có dấu phẩy trước 'and'; bản ghi Open Library cho LCCN 36018286, Gollancz 1936). Chính SEP 'ayer' viết có dấu phẩy trong thân bài nhưng các nhan đề sách thứ cấp in 'Language, Truth and Logic'. Bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz (đã đóng băng) cũng mang dấu phẩy, cần sửa theo [doi-loi]. Về phản bác 'tự bác bỏ' của nguyên tắc kiểm chứng: SEP vienna-circle mục 3.6 ghi Carnap coi tiêu chuẩn là đề xuất siêu lý thuyết chứ không phải mệnh đề kinh nghiệm; bài không nêu cách đáp này, chấp nhận được ở mức bài lịch sử nhập môn. Gutenberg (Tractatus, ebook 5740) đang bảo trì (503) nên dùng SEP cho các câu Tractatus."
+  "notes": "Một lỗi nhẹ: tên sách Ayer in là Language, Truth and Logic (không có dấu phẩy trước 'and'; bản ghi Open Library cho LCCN 36018286, Gollancz 1936). Chính SEP 'ayer' viết có dấu phẩy trong thân bài nhưng các nhan đề sách thứ cấp in 'Language, Truth and Logic'. Bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz (đã đóng băng) cũng mang dấu phẩy, cần sửa theo [doi-loi]. Về phản bác 'tự bác bỏ' của nguyên tắc kiểm chứng: SEP vienna-circle mục 3.6 ghi Carnap coi tiêu chuẩn là đề xuất siêu lý thuyết chứ không phải mệnh đề kinh nghiệm; bài không nêu cách đáp này, chấp nhận được ở mức bài lịch sử nhập môn. Gutenberg (Tractatus, ebook 5740) đang bảo trì (503) nên dùng SEP cho các câu Tractatus. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed)."
 }

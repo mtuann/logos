@@ -1,8 +1,8 @@
 {
   "unit": "sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz",
-  "hash": "sha256:cb89a741fdb106389c1186bc94cfbc6cb58f4345a481aea8b40ba3586b901f2c",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-s19",
+  "hash": "sha256:6321a577c5fa4cc107ee279917ace5fca7405890bd3ad75d1bee210a0f1e4b85",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-s19 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Ayer (1936), Language, Truth, and Logic, London: Gollancz",
@@ -27,8 +27,21 @@
           "where": "metadata bản 1950"
         }
       ]
+    },
+    {
+      "text": "A. J. Ayer (1936), Language, Truth and Logic, London: Gollancz (không dấu phẩy trước 'and')",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://openlibrary.org/api/books?bibkeys=LCCN:36018286&format=json&jscmd=data",
+          "quote": "\"title\": \"Language, truth and logic\"",
+          "where": "theo bằng chứng lich-su/the-ky-20.md#nguon (agent-kiem-5.6) và mẫu 5.2"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Đúng. Ghi chú: SEP in tên không có dấu phẩy sau 'Language'; nên thống nhất 'Language, Truth, and Logic' hoặc 'Language, Truth and Logic' (bìa gốc 1936 không dấu phẩy thứ hai). Bản quét 1936: https://archive.org/details/languagetruthlog0000alfr_c5v8 (hạn chế mượn). Bản 1950 cùng nhà xuất bản đã thấy tại languagetruthlog0000alfr_n0m2. Google Books/Open Library không mở được trong phiên này (chặn)."
+  "notes": "Đúng. Ghi chú: SEP in tên không có dấu phẩy sau 'Language'; nên thống nhất 'Language, Truth, and Logic' hoặc 'Language, Truth and Logic' (bìa gốc 1936 không dấu phẩy thứ hai). Bản quét 1936: https://archive.org/details/languagetruthlog0000alfr_c5v8 (hạn chế mượn). Bản 1950 cùng nhà xuất bản đã thấy tại languagetruthlog0000alfr_n0m2. Google Books/Open Library không mở được trong phiên này (chặn). [doi-loi] Tên sách bỏ dấu phẩy trước 'and' (LCCN 36018286; viec-cho 2026-11-10, 2026-11-17)."
 }
