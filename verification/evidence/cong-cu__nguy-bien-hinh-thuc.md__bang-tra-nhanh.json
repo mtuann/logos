@@ -2,7 +2,7 @@
  "unit": "cong-cu/nguy-bien-hinh-thuc.md#bang-tra-nhanh",
  "hash": "sha256:14d805a02d508640fa62602a838050b6dcb1badcb852852d262c8ad2443a24f4",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p11",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Modus ponens (khẳng định tiền kiện): nếu P thì Q; P; vậy Q: hợp lệ",
@@ -59,8 +59,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   },
@@ -97,5 +97,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Tên 'tam đoạn luận lựa chọn' = disjunctive syllogism, đúng nghĩa; thuật ngữ này không nằm trong bảng bắt buộc, chấp nhận. | Tự kiểm bảng chân trị: P=F,Q=T làm tiền đề T, kết luận F."
+ "notes": "Tên 'tam đoạn luận lựa chọn' = disjunctive syllogism, đúng nghĩa; thuật ngữ này không nằm trong bảng bắt buộc, chấp nhận. | Tự kiểm bảng chân trị: P=F,Q=T làm tiền đề T, kết luận F. Lượt 2: chép lại quote IEP về bảng chân trị kéo theo đúng nguyên văn trên trang (α, β là mã MathJax \\alpha, \\beta)."
 }

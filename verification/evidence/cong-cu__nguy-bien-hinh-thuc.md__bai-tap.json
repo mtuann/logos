@@ -2,7 +2,7 @@
  "unit": "cong-cu/nguy-bien-hinh-thuc.md#bai-tap",
  "hash": "sha256:3fc56250e6736ce96f0b9e46724b669e2a31b3aa5be5bbadf1566484e1aa253c",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p11",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Bài 1: Nếu người Hà Nội gốc thì thích phở; thích phở; vậy Hà Nội gốc: khẳng định hậu kiện; phản ví dụ chó/ngựa bốn chân đúng",
@@ -57,8 +57,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   },
@@ -100,5 +100,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Mọi đáp án gợi ý đúng. | Tự kiểm: G→E, ¬E ⊢ ¬G là modus tollens, hợp lệ. 'Chỉ khi' diễn đạt điều kiện cần là cách đọc chuẩn của logic; không mở được trang SEP/IEP nêu riêng 'only if' (chỉ gián tiếp), nhưng đây là mệnh đề logic tự kiểm được."
+ "notes": "Mọi đáp án gợi ý đúng. | Tự kiểm: G→E, ¬E ⊢ ¬G là modus tollens, hợp lệ. 'Chỉ khi' diễn đạt điều kiện cần là cách đọc chuẩn của logic; không mở được trang SEP/IEP nêu riêng 'only if' (chỉ gián tiếp), nhưng đây là mệnh đề logic tự kiểm được. Lượt 2: chép lại quote IEP về bảng chân trị kéo theo đúng nguyên văn trên trang (α, β là mã MathJax \\alpha, \\beta)."
 }

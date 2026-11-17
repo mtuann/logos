@@ -2,7 +2,7 @@
   "unit": "thi-nghiem/frankfurt",
   "hash": "sha256:494f45d73b4981a9259b9820dde80984f9d0ec85ed303d1cb99e55785e699cf7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-d03",
+  "checker": "agent-kiem-5.5-d03 + agent-kiem-5.5-r02",
   "claims": [
     {
       "text": "nguon: Frankfurt (1969)",
@@ -11,7 +11,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
-          "quote": "Frankfurt, Harry G., 1969, \"Alternate Possibilities and Moral Responsibility\", The Journal of Philosophy, 66(23): 829–839.",
+          "quote": "Frankfurt, Harry G., 1969, “Alternate Possibilities and Moral Responsibility”, The Journal of Philosophy … 66(23): 829–839",
           "where": "Bibliography"
         },
         {
@@ -42,7 +42,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
-          "quote": "PAP: a person is morally responsible for what he has done only if he could have done otherwise."
+          "quote": "Harry Frankfurt proposed his famous counterexample to the “principle of alternate possibilities” (a person is morally responsible for what he has done only if he could have done otherwise).",
+          "where": "Frankfurt's argument"
         }
       ]
     },
@@ -53,7 +54,8 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
-          "quote": "Jones could not have done otherwise, yet he seems responsible for his behavior since he does it on his own."
+          "quote": "Therefore, Jones could not have done otherwise … yet he seems responsible for his behavior since he does it on his own.",
+          "where": "Frankfurt cases"
         }
       ]
     },
@@ -64,11 +66,12 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/incompatibilism-arguments/",
-          "quote": "Incompatibilists replied with the \"flickers of freedom\" response ... most compatibilists were convinced, most incompatibilists were not."
+          "quote": "His thought experiment was a failure; while most compatibilists were convinced, most incompatibilists were not. … This response, famously dubbed the “flickers of freedom” reply",
+          "where": "Frankfurt's argument"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "Ví dụ bỏ phiếu A/B của site là biến thể thường dùng trong tài liệu sau (SEP nêu Jones/Black nói chung); bản gốc Frankfurt 1969 dùng hành động nói chung. Không mở được toàn văn bài 1969; chỉ xác nhận qua SEP. Không có số liệu PhilPapers (so_lieu_khao_sat null, đúng)."
+  "notes": "Ví dụ bỏ phiếu A/B của site là biến thể thường dùng trong tài liệu sau (SEP nêu Jones/Black nói chung); bản gốc Frankfurt 1969 dùng hành động nói chung. Không mở được toàn văn bài 1969; chỉ xác nhận qua SEP. Không có số liệu PhilPapers (so_lieu_khao_sat null, đúng). Lượt 2: thay quote bằng nguyên văn SEP Moral Responsibility (thư mục, Frankfurt cases) và SEP Arguments for Incompatibilism (PAP, \"flickers of freedom\")."
 }

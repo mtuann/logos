@@ -2,7 +2,7 @@
  "unit": "cong-cu/viet-doan-lap-luan.md#bai-tap",
  "hash": "sha256:fc024449c32ea58969bf4ee7246eb8ec7f7c48a9e701e93e3290c377a889c181",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p10",
+ "checker": "agent-kiem-5.5-p10 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Bài 1: \"vì tôi thích ăn phở bò hơn\" lặp lại luận điểm (vòng quanh); \"mọi người sành ăn đều đồng ý\" là khẳng định không bằng chứng",
@@ -64,7 +64,16 @@
   {
    "text": "mà phần lớn các vụ việc xảy ra vì trẻ không biết bơi",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "sai",
+   "severity": "vua",
+   "fix": "Đoạn mẫu: \"…mà thiếu kỹ năng bơi và an toàn dưới nước là một yếu tố nguy cơ lớn.\" (và dòng đáp án: \"Lý do: đuối nước gây tử vong hàng đầu ở trẻ em; thiếu kỹ năng bơi là một yếu tố nguy cơ lớn.\")",
+   "sources": [
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/drowning",
+     "quote": "Young children are at a particularly high risk of drowning due to an underdeveloped ability to assess risk, and a lack of swimming and water safety skills",
+     "where": "WHO, Risk factors; không nguồn nào đã mở nêu tỉ lệ \"phần lớn\" vụ đuối nước do không biết bơi"
+    }
+   ]
   },
   {
    "text": "Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu; dạy bơi cho trẻ tiểu học là biện pháp phòng ngừa",
@@ -86,6 +95,6 @@
   "trung-lap": true,
   "thuat-ngu": true
  },
- "result": "chua-kiem-duoc",
- "notes": "Claim 'phần lớn các vụ đuối nước xảy ra vì trẻ không biết bơi': các trang mở được (suckhoedoisong.vn, vnexpress.net) chỉ nêu không biết bơi/thiếu kỹ năng là yếu tố nguy cơ, không có tỉ lệ 'phần lớn'; suckhoedoisong ghi rõ không có số về đuối nước do không biết bơi; WHO fact sheet không nhắc Việt Nam; moh.gov.vn lỗi kết nối (ECONNREFUSED); unicef.org/vietnam, who.int/vietnam trả 404/500. Gợi ý cho người làm: 'mà không biết bơi là một yếu tố nguy cơ lớn' hoặc dẫn nguồn có tỉ lệ. Các ví dụ phở/giáo sư X/xe máy là tự soạn."
+ "result": "sua",
+ "notes": "Claim 'phần lớn các vụ đuối nước xảy ra vì trẻ không biết bơi': các trang mở được (suckhoedoisong.vn, vnexpress.net) chỉ nêu không biết bơi/thiếu kỹ năng là yếu tố nguy cơ, không có tỉ lệ 'phần lớn'; suckhoedoisong ghi rõ không có số về đuối nước do không biết bơi; WHO fact sheet không nhắc Việt Nam; moh.gov.vn lỗi kết nối (ECONNREFUSED); unicef.org/vietnam, who.int/vietnam trả 404/500. Gợi ý cho người làm: 'mà không biết bơi là một yếu tố nguy cơ lớn' hoặc dẫn nguồn có tỉ lệ. Các ví dụ phở/giáo sư X/xe máy là tự soạn. Lượt 2: thay quote suckhoedoisong bằng nguyên văn (bản cache cũ là gzip chưa giải nén); claim \"phần lớn vì không biết bơi\" vẫn không tìm được nguồn (đã thử suckhoedoisong, WHO fact sheet, tìm kiếm Bộ LĐTBXH/UNICEF/WHO Việt Nam) nên chuyển thành sai mức vừa kèm câu thay thế theo WHO."
 }

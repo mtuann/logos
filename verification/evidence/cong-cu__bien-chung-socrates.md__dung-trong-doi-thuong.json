@@ -2,7 +2,7 @@
   "unit": "cong-cu/bien-chung-socrates.md#dung-trong-doi-thuong",
   "hash": "sha256:924e9ec92d932024667fe261057806c4517e6e3fb9d4315c0cfddfd1d1291978",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Hai ví dụ (thành công = kiếm nhiều tiền; nhân viên giỏi = chăm chỉ) áp đúng các bước hỏi định nghĩa, tìm phản ví dụ, bế tắc, định nghĩa mới; phản ví dụ bác sĩ vùng cao, kỹ sư X và chị Y thật sự đánh vào định nghĩa (quá hẹp: bác sĩ thành công mà không giàu; quá rộng/sai: chị Y nhiều giờ nhưng không hiệu quả).",
@@ -27,7 +27,7 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1642",
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
           "quote": "Do you not recollect that there was one idea which made the impious impious, and the pious pious?",
           "where": "Euthyphro 6d-e (Jowett): định nghĩa mới lại bị hỏi lại theo cùng cách"
         },
@@ -61,5 +61,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Các ví dụ Bạn A, sếp, bác sĩ, kỹ sư X, chị Y do site tự soạn, không cần nguồn về chuyện kể; chỉ kiểm phần phân tích. \"Cách duy nhất\" là nói quá, mức nhẹ."
+  "notes": "Các ví dụ Bạn A, sếp, bác sĩ, kỹ sư X, chị Y do site tự soạn, không cần nguồn về chuyện kể; chỉ kiểm phần phân tích. \"Cách duy nhất\" là nói quá, mức nhẹ. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn."
 }

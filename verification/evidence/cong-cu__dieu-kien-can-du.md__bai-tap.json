@@ -2,7 +2,7 @@
   "unit": "cong-cu/dieu-kien-can-du.md#bai-tap",
   "hash": "sha256:85b70784997bde007b53505a3fe0bca702c39794382e22d89e6a2ab3ebfa898d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p04",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
   "claims": [
     {
       "text": "Bài 1: hoàn thành chương trình lớp 12 là cần, chưa đủ cho dự thi tốt nghiệp",
@@ -11,7 +11,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
           "where": "định nghĩa cần"
         }
       ]
@@ -35,7 +35,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "the truth of the consequent, “q”, is necessary for the truth of the antecedent, “p”",
+          "quote": "the standard theory claims that when the conditional … is true the truth of the consequent … is necessary for the truth of the antecedent … and the truth of the antecedent is in turn sufficient for the truth of the consequent",
           "where": "Hậu kiện là cần cho tiền kiện, không phải đủ: suy ngược sai"
         }
       ]
@@ -47,7 +47,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "quote": "the absence of A is a necessary condition of the absence of B",
           "where": "định nghĩa"
         }
       ]
@@ -71,7 +71,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "quote": "the absence of A is a necessary condition of the absence of B",
           "where": "định nghĩa đủ"
         }
       ]
@@ -83,7 +83,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
           "where": "định nghĩa cần"
         }
       ]
@@ -97,5 +97,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tự kiểm bằng logic: cả 7 gợi ý đáp án đúng. Bài 3: nhẹ, đáp án nói 'tưởng tỉnh táo đủ cho cà phê, hay tưởng cà phê là cần cho tỉnh táo' khớp lỗi khẳng định hậu kiện. Bài 5 hơi mở nhưng có rào 'theo nghĩa chặt'."
+  "notes": "Tự kiểm bằng logic: cả 7 gợi ý đáp án đúng. Bài 3: nhẹ, đáp án nói 'tưởng tỉnh táo đủ cho cà phê, hay tưởng cà phê là cần cho tỉnh táo' khớp lỗi khẳng định hậu kiện. Bài 5 hơi mở nhưng có rào 'theo nghĩa chặt'. Lượt 2: thay 5 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
 }

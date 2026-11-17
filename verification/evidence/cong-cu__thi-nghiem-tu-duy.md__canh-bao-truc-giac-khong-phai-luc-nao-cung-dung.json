@@ -2,7 +2,7 @@
   "unit": "cong-cu/thi-nghiem-tu-duy.md#canh-bao-truc-giac-khong-phai-luc-nao-cung-dung",
   "hash": "sha256:5a16abcab21ca35212629e3bf9e10e5a724fe9e88f549947c5f6536a89389c55",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p13",
+  "checker": "agent-kiem-5.5-p13 + agent-kiem-5.5-r02",
   "claims": [
     {
       "text": "Theo Aristotle, vật nặng rơi nhanh hơn vật nhẹ; Galileo bác lại",
@@ -36,7 +36,21 @@
     {
       "text": "gần hai nghìn năm, theo Aristotle, người ta \"thấy rõ\" vật nặng rơi nhanh hơn vật nhẹ, cho đến khi Galileo chứng minh ngược lại",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "suốt nhiều thế kỷ, theo [Aristotle](../triet-gia/aristotle.md), người ta \"thấy rõ\" vật nặng rơi nhanh hơn vật nhẹ (Philoponus đã phản bác từ thế kỷ 6), cho đến khi Galileo chứng minh ngược lại",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philoponus/",
+          "quote": "Aristotle contended that the speed is proportional to the weight of the moving bodies and indirectly proportional to the density of the medium. Philoponus repudiates this view by appealing to the same kind of experiment that Galileo was to carry out centuries later",
+          "where": "Impetus theory / motion in a void"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philoponus/",
+          "quote": "in the 6th century CE, traditional pagan learning had become desperately insular",
+          "where": "Philoponus' works and their context"
+        }
+      ]
     },
     {
       "text": "Thí nghiệm Moral Machine: khảo sát trực tuyến hàng triệu người, công bố trên Nature năm 2018",
@@ -87,6 +101,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Khoảng \"gần hai nghìn năm\" không có trong SEP Galileo, SEP Thought Experiments, SEP Aristotle natphil đã mở (không thấy năm Aristotle/Galileo trên bản tải); đề xuất thêm nguồn nêu năm hoặc đổi thành cách nói không số. Moral Machine ở đây là về xe tự lái (đúng như bài nói), không phải xe điện tàu; bài viết \"kiểu xe điện\" nên là so sánh gần đúng, nhe. Aristotle ở \"gần hai nghìn năm\": chưa kiểm được phần thời lượng."
+  "result": "sua",
+  "notes": "Khoảng \"gần hai nghìn năm\" không có trong SEP Galileo, SEP Thought Experiments, SEP Aristotle natphil đã mở (không thấy năm Aristotle/Galileo trên bản tải); đề xuất thêm nguồn nêu năm hoặc đổi thành cách nói không số. Moral Machine ở đây là về xe tự lái (đúng như bài nói), không phải xe điện tàu; bài viết \"kiểu xe điện\" nên là so sánh gần đúng, nhe. Aristotle ở \"gần hai nghìn năm\": chưa kiểm được phần thời lượng. Lượt 2: \"gần hai nghìn năm … cho đến khi Galileo\" chuyển thành sai mức vừa: SEP John Philoponus cho thấy Philoponus (thế kỷ 6) đã bác luật rơi của Aristotle bằng cùng loại thí nghiệm Galileo làm sau này, nên câu \"người ta thấy rõ… cho đến khi Galileo\" phóng đại; khoảng \"gần hai nghìn năm\" không có trong nguồn đã mở (SEP Galileo, Thought Experiments, Aristotle natphil). Fix bỏ con số và thêm Philoponus."
 }

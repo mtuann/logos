@@ -1,20 +1,39 @@
 {
- "unit": "fallacy-types/sunk-cost",
- "hash": "sha256:38c1d284ac2f778d0e4479bdd759b385942b3a4ae218b86d2dc431ece0e22cf3",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-d01",
- "claims": [
-  {
-   "text": "en: Sunk cost fallacy; định nghĩa và not_fallacy_when — SEP fall2026 'Fallacies' và IEP 'Fallacies' (đã đọc 100000 ký tự đầu và phần sau) không có mục này; tìm SEP/IEP chỉ ra SEP Decision Theory (sum2016) nhắc thoáng, chưa mở để đối chiếu.",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  },
-  {
-   "text": "example: vé xem phim đã mua, phim dở vẫn ngồi đến hết (đúng khuôn chi phí chìm theo định nghĩa của site)",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  }
- ],
- "result": "chua-kiem-duoc",
- "notes": "SEP/IEP Fallacies không có mục. Đã thử: SEP fall2026 fallacies, IEP fallacy, WebSearch (chỉ thấy SEP decision-theory sum2016 nhắc thoáng). Gợi ý chủ biên: nguồn từ kinh tế học hành vi/ SEP decision theory."
+  "unit": "fallacy-types/sunk-cost",
+  "hash": "sha256:38c1d284ac2f778d0e4479bdd759b385942b3a4ae218b86d2dc431ece0e22cf3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d01 + agent-kiem-5.5-r01",
+  "claims": [
+    {
+      "text": "en: Sunk cost fallacy; definition: Tiếp tục một việc chỉ vì đã bỏ nhiều tiền, thời gian, công sức vào đó, dù nhìn về phía trước thì dừng lại có lợi hơn. Khoản đã mất không lấy lại được dù ta chọn gì. not_fallacy_when: quyết định dựa trên chi phí và lợi ích từ nay về sau.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "commitments deriving from one’s past involvement in an activity or project, which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "SEP Practical Reason: coi trọng chi phí chìm là phi lý theo cách nhìn hệ quả; cam kết từ quá khứ có thể vẫn hợp lý"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tort-theories/",
+          "quote": "Economic analysis views injuries in the past as “sunk costs” which can never be recovered.",
+          "where": "SEP Theories of the Common Law of Torts"
+        }
+      ]
+    },
+    {
+      "text": "example: “Vé xem phim mua rồi, phim dở mấy cũng phải ngồi đến hết cho khỏi phí.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "commitments deriving from one’s past involvement in an activity or project, which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "SEP Practical Reason: coi trọng chi phí chìm là phi lý theo cách nhìn hệ quả; cam kết từ quá khứ có thể vẫn hợp lý"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "SEP/IEP Fallacies không có mục. Đã thử: SEP fall2026 fallacies, IEP fallacy, WebSearch (chỉ thấy SEP decision-theory sum2016 nhắc thoáng). Gợi ý chủ biên: nguồn từ kinh tế học hành vi/ SEP decision theory. Lượt 2: giải quyết bằng SEP Practical Reason (coi trọng 'sunk costs' là phi lý theo cách nhìn hệ quả) và SEP Tort Theories (chi phí chìm không bao giờ lấy lại được; phân tích hướng về hành vi tương lai). Ví dụ vé xem phim khớp khuôn."
 }

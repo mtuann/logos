@@ -2,7 +2,7 @@
   "unit": "cong-cu/bien-chung-socrates.md#van-dap-voi-chinh-minh",
   "hash": "sha256:592e1513af14cea64da14934dc76559e49ba7089c7235b8c7b28dfdf0639dd3f",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Ứng dụng phép vấn đáp với chính mình (vừa là người hỏi vừa là người bị hỏi); kỹ thuật hai vai hai màu mực.",
@@ -10,7 +10,7 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1656",
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1656/pg1656.txt",
           "quote": "examining myself and others",
           "where": "Apology (Jowett): Socrates cũng tự xét mình"
         },
@@ -36,7 +36,16 @@
     {
       "text": "Viết ra quan trọng hơn nghĩ trong đầu, vì chữ viết không cho bạn lảng: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Viết ra giúp bạn khó lảng hơn so với chỉ nghĩ trong đầu: câu trả lời cẩu thả nằm chình ình trên giấy, không thể giả vờ như chưa nói.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "where": "SEP Socrates, mở đầu: chỉ nói Socrates xét lại đời mình và người khác; không có nguồn được phép nào so sánh viết với nghĩ",
+          "quote": "Socrates's lifework consisted in the examination of people's lives, his own and others'"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -46,6 +55,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Khẳng định \"viết ra quan trọng hơn nghĩ trong đầu\" là nhận định tâm lý học chưa có nguồn trong danh mục nguồn được phép (SEP, IEP, văn bản gốc); đã thử tìm trong SEP/IEP Socrates, SEP Plato's Ethics, IEP Socrates, không có. Gợi ý (không bắt buộc): hạ giọng thành \"Viết ra thường hiệu quả hơn nghĩ trong đầu\" hoặc dẫn nguồn. Hai claim kia là kỹ thuật do site đề xuất, chỉ kiểm logic."
+  "result": "dat",
+  "notes": "Khẳng định \"viết ra quan trọng hơn nghĩ trong đầu\" là nhận định tâm lý học chưa có nguồn trong danh mục nguồn được phép (SEP, IEP, văn bản gốc); đã thử tìm trong SEP/IEP Socrates, SEP Plato's Ethics, IEP Socrates, không có. Gợi ý (không bắt buộc): hạ giọng thành \"Viết ra thường hiệu quả hơn nghĩ trong đầu\" hoặc dẫn nguồn. Hai claim kia là kỹ thuật do site đề xuất, chỉ kiểm logic. Lượt 2: đổi URL Gutenberg #1656 sang bản lưu web.archive.org; claim \"viết ra quan trọng hơn nghĩ trong đầu\" vẫn không có nguồn được phép, chuyển thành sai mức nhẹ kèm fix nói thận trọng hơn."
 }

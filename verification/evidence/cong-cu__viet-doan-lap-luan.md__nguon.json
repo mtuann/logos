@@ -2,7 +2,7 @@
  "unit": "cong-cu/viet-doan-lap-luan.md#nguon",
  "hash": "sha256:c5d7afd417c7ca6bb32baddeadab8ee1432a1822de1aa8beee6547535e5402db",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p10",
+ "checker": "agent-kiem-5.5-p10 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Gerald Graff và Cathy Birkenstein, *They Say / I Say: The Moves That Matter in Academic Writing* (W. W. Norton) — ...",
@@ -17,8 +17,8 @@
    "sources": [
     {
      "url": "https://www.wwnorton.com/books/they-say-i-say",
-     "quote": "Authors: Gerald Graff and Cathy Birkenstein; Publisher: W. W. Norton & Company",
-     "where": "tiêu đề They Say / I Say (WebFetch tóm tắt trang)"
+     "quote": "\"They Say / I Say\" | Gerald Graff, Cathy Birkenstein | W. W. Norton & Company",
+     "where": "tiêu đề trang Norton"
     }
    ]
   }
@@ -31,5 +31,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Dòng nguồn khớp đúng bản ghi sources/ đã đóng băng; đã tự mở trang Norton chỉ để xác nhận tên sách, tác giả, nhà xuất bản (trang không có mô tả ý tưởng chính; không dùng sách quá 1-2 câu)."
+ "notes": "Dòng nguồn khớp đúng bản ghi sources/ đã đóng băng; đã tự mở trang Norton chỉ để xác nhận tên sách, tác giả, nhà xuất bản (trang không có mô tả ý tưởng chính; không dùng sách quá 1-2 câu). Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
 }

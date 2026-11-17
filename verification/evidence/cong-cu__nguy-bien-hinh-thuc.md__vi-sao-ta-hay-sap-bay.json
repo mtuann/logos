@@ -2,7 +2,7 @@
  "unit": "cong-cu/nguy-bien-hinh-thuc.md#vi-sao-ta-hay-sap-bay",
  "hash": "sha256:e47b4da821fa2328ecced8fec40a705995dbda19be606217a32e4fd7a38c3e15",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p11",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Thiên kiến niềm tin (belief bias): khi kết luận nghe hợp lý, ta lười kiểm tra bước đi",
@@ -15,9 +15,9 @@
      "where": "Trippas, Thompson & Handley 2017, Memory & Cognition 45(4):539-552, DOI 10.3758/s13421-016-0680-1; tóm tắt: believability của kết luận gây nhiễu phán đoán hợp lệ"
     },
     {
-     "url": "https://doi.org/10.3758/BF03196976",
-     "quote": "On the conflict between logic and belief in syllogistic reasoning (Evans, Barston & Pollard, Memory & Cognition 11(3):295-306, 1983)",
-     "where": "metadata qua api.crossref.org"
+     "url": "https://api.crossref.org/works/10.3758/BF03196976",
+     "quote": "On the conflict between logic and belief in syllogistic reasoning",
+     "where": "metadata Crossref: Evans, Barston & Pollard, Memory & Cognition 11(3):295-306, 1983 (doi.org/Springer chặn bot; PubMed 6621345 không có tóm tắt)"
     }
    ]
   },
@@ -59,5 +59,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Lời giải thích 'lười kiểm tra' là mô hình default-interventionist; bài 2017 ủng hộ mô hình song song. Bài chỉ nói 'một phần' nên chấp nhận. Không mở được tóm tắt gốc Evans 1983 (Springer chặn); chỉ có metadata."
+ "notes": "Lời giải thích 'lười kiểm tra' là mô hình default-interventionist; bài 2017 ủng hộ mô hình song song. Bài chỉ nói 'một phần' nên chấp nhận. Không mở được tóm tắt gốc Evans 1983 (Springer chặn); chỉ có metadata. Lượt 2: nguồn Evans 1983 đổi sang URL API Crossref (doi.org/Springer trả trang chặn bot), quote là tên bài đúng trên metadata."
 }

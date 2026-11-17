@@ -2,7 +2,7 @@
   "unit": "cong-cu/dieu-kien-can-du.md#dinh-nghia",
   "hash": "sha256:ce69021729f59be92adbcd2204b1e540281fce62660faf59d16e488142374454",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p04",
+  "checker": "agent-kiem-5.5-p04 + agent-kiem-5.5-r05",
   "claims": [
     {
       "text": "P là điều kiện đủ cho Q khi có P thì chắc chắn có Q. Ký hiệu P → Q",
@@ -11,7 +11,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "quote": "the absence of A is a necessary condition of the absence of B",
           "where": "von Wright; sufficient = absence of A necessary for absence of B, tức P→Q"
         }
       ]
@@ -23,7 +23,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "quote": "the absence of B is a sufficient condition of the absence of A",
           "where": "von Wright; tương đương Q→P"
         }
       ]
@@ -47,7 +47,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "quote": "the absence of A is a necessary condition of the absence of B",
           "where": "áp dụng định nghĩa; tự kiểm bằng logic: 4|n→2|n, 6 chẵn không chia hết cho 4"
         }
       ]
@@ -59,7 +59,7 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
-          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "quote": "the absence of A is a necessary condition of the absence of B",
           "where": "P→Q ⇔ tập P ⊆ tập Q; tự kiểm bằng logic"
         }
       ]
@@ -73,5 +73,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tự kiểm: bảng chân trị P→Q và Q→P khớp. Thuật ngữ 'điều kiện cần/đủ' khớp HUONG-DAN-VIET mục 3, có English term lần đầu."
+  "notes": "Tự kiểm: bảng chân trị P→Q và Q→P khớp. Thuật ngữ 'điều kiện cần/đủ' khớp HUONG-DAN-VIET mục 3, có English term lần đầu. Lượt 2: thay 4 quote SEP Brennan bằng nguyên văn trên trang tải về (bỏ ký hiệu =df/ngoặc bị tách bởi HTML); kết luận không đổi."
 }

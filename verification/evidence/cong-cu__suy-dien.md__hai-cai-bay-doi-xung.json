@@ -2,7 +2,7 @@
  "unit": "cong-cu/suy-dien.md#hai-cai-bay-doi-xung",
  "hash": "sha256:781375094420c9cffecdf237649295cb074a037e42cdd219c67904fc88c582bd",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p02",
+ "checker": "agent-kiem-5.5-p02 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Khẳng định hậu kiện không hợp lệ; thường bị nhầm với modus ponens",
@@ -35,12 +35,12 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/fallacy/",
-     "quote": "suppose[s] that doing so is a sufficient reason for denying the consequent",
+     "quote": "then suppose that doing so is a sufficient reason for denying the consequent",
      "where": "Denying the Antecedent (IEP dùng cụm 'sufficient reason'; quy tắc tự kiểm bằng bảng chân trị)"
     },
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "we call α the antecedent, and we call β the consequent",
+     "quote": "In a statement of the form … we call … the antecedent … and we call … the consequent",
      "where": "Section 3.b"
     }
    ]
@@ -71,5 +71,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Tự kiểm bằng bảng chân trị: P=F,Q=T làm 'nếu P thì Q' đúng, Q đúng, P sai (bác khẳng định hậu kiện); P=F,Q=T cũng bác phủ định tiền kiện."
+ "notes": "Tự kiểm bằng bảng chân trị: P=F,Q=T làm 'nếu P thì Q' đúng, Q đúng, P sai (bác khẳng định hậu kiện); P=F,Q=T cũng bác phủ định tiền kiện. Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
 }

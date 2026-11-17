@@ -1,65 +1,65 @@
 {
- "unit": "cong-cu/gia-dinh-ngam.md#nguon",
- "hash": "sha256:8b6c591a32c265d55748133db310f2b34b48a458557a4b16899c59fa67ea6219",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p07",
- "claims": [
-  {
-   "text": "Mục SEP 'Informal Logic': mục 3.1 'Implicit Premises and Conclusions' (giả định ngầm, tiền đề tối thiểu về mặt logic, nguyên tắc thiện chí)",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/gia-dinh-ngam.md#nguon",
+  "hash": "sha256:8b6c591a32c265d55748133db310f2b34b48a458557a4b16899c59fa67ea6219",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-r05",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
-     "quote": "Implicit Premises and Conclusions",
-     "where": "mục 3.1; có 'logically minimum' và Principle of Charity"
+      "text": "Mục SEP 'Informal Logic': mục 3.1 'Implicit Premises and Conclusions' (giả định ngầm, tiền đề tối thiểu về mặt logic, nguyên tắc thiện chí)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Implicit Premises and Conclusions",
+          "where": "mục 3.1; có 'logically minimum' và Principle of Charity"
+        }
+      ]
+    },
+    {
+      "text": "Leo Groarke, 'Informal Logic', SEP, bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Copyright © 2026 by Leo Groarke",
+          "where": "cuối entry"
+        }
+      ]
+    },
+    {
+      "text": "Timothy Shanahan, 'Deductive and Inductive Arguments', IEP, https://iep.utm.edu/deductive-inductive-arguments/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "Author Information: Timothy Shanahan … Loyola Marymount University",
+          "where": "đầu bài"
+        }
+      ]
+    },
+    {
+      "text": "Hansen, Hans, 'Fallacies', SEP, bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Hans Hansen",
+          "where": "dòng bản quyền; tiêu đề 'Fallacies' Fall 2026 Edition"
+        }
+      ]
     }
-   ]
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
   },
-  {
-   "text": "Leo Groarke, 'Informal Logic', SEP, bản lưu fall2026",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
-     "quote": "Copyright © 2026 by Leo Groarke",
-     "where": "cuối entry"
-    }
-   ]
-  },
-  {
-   "text": "Timothy Shanahan, 'Deductive and Inductive Arguments', IEP, https://iep.utm.edu/deductive-inductive-arguments/",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
-     "quote": "Timothy Shanahan, Loyola Marymount University",
-     "where": "đầu bài"
-    }
-   ]
-  },
-  {
-   "text": "Hansen, Hans, 'Fallacies', SEP, bản lưu fall2026",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "Hans Hansen",
-     "where": "dòng bản quyền; tiêu đề 'Fallacies' Fall 2026 Edition"
-    }
-   ]
-  }
- ],
- "checklist": {
-  "dung-nguon": true,
-  "manh-nhat": true,
-  "phan-bac": null,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "dat",
- "notes": "Cả ba URL mở được. Mục 'Hansen, Hans' đúng; tên đầy đủ trong SEP là Hans Hansen (ghi 'Hans V. Hansen' ở nguồn khác), không phải lỗi."
+  "result": "dat",
+  "notes": "Cả ba URL mở được. Mục 'Hansen, Hans' đúng; tên đầy đủ trong SEP là Hans Hansen (ghi 'Hans V. Hansen' ở nguồn khác), không phải lỗi. Lượt 2: thay 1 quote bằng nguyên văn trên trang tải về; kết luận không đổi."
 }

@@ -2,7 +2,7 @@
  "unit": "logic/logic-20",
  "hash": "sha256:3d3e9e2d8b7facfab8f0fac86dd9d89c3c957f6ea70d1649a6142cc6e39282af",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-d02",
+ "checker": "agent-kiem-5.5-d02 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "dap_an: khong-hop-le",
@@ -31,7 +31,21 @@
   {
    "text": "giai_thich: Đảo ngược mệnh đề (inverse) — ngụy biện hình thức",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Phủ định hai vế (inverse) — ngụy biện hình thức. Phản ví dụ: P=sai, Q=đúng (kéo theo vẫn đúng một cách rỗng, nhưng “không P thì không Q” sai).",
+   "sources": [
+    {
+     "url": "https://discretemath.org/ads/s-propositions-logic-operators.html",
+     "quote": "The inverse of the proposition \\(p \\rightarrow q\\) is the proposition \\(\\neg p \\rightarrow \\neg q\\text{.}\\)",
+     "where": "Al Doerr & Ken Levasseur, Applied Discrete Structures (giáo trình mở), §3.1, Definition 3.1.11 Logical Inverse"
+    },
+    {
+     "url": "https://discretemath.org/ads/s-propositions-logic-operators.html",
+     "quote": "Can you see that the original proposition and the inverse are saying different things?",
+     "where": "§3.1, sau Definition 3.1.11"
+    }
+   ]
   },
   {
    "text": "giai_thich: Phản ví dụ P=sai, Q=đúng; kéo theo đúng rỗng",
@@ -45,6 +59,6 @@
    ]
   }
  ],
- "result": "chua-kiem-duoc",
- "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề.  Tên \"inverse\" cho ¬P→¬Q: đã thử IEP prop-log, IEP fallacy, IEP aristotle-logic, SEP fallacies, SEP logic-classical (phần hiển thị), không thấy từ \"inverse\"; dạng không hợp lệ đã xác nhận bằng bảng chân trị."
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề.  Tên \"inverse\" cho ¬P→¬Q: đã thử IEP prop-log, IEP fallacy, IEP aristotle-logic, SEP fallacies, SEP logic-classical (phần hiển thị), không thấy từ \"inverse\"; dạng không hợp lệ đã xác nhận bằng bảng chân trị. Lượt 2: tên 'inverse' cho ¬P→¬Q xác nhận bằng Applied Discrete Structures §3.1 Def. 3.1.11. Nhưng tên tiếng Việt 'đảo ngược mệnh đề' bài cong-cu/nguy-bien-hinh-thuc.md (mục bon-cai-bay, bang-tra-nhanh, quiz 4) dùng cho dạng khác, 'nếu Q thì P' (converse); cùng một tên cho hai dạng làm người đọc lẫn, nên ghi sai mức nhẹ, fix đổi tên tiếng Việt ở bản ghi này (chủ biên có thể chọn tên khác)."
 }

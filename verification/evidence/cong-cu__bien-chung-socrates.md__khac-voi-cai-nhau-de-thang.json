@@ -2,7 +2,7 @@
   "unit": "cong-cu/bien-chung-socrates.md#khac-voi-cai-nhau-de-thang",
   "hash": "sha256:427a543e2cde83e4c25dcfdcc68c5a7c2c557f6f5541cca7473307f68baf28da",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Socrates thường mở đầu bằng việc thừa nhận mình không biết.",
@@ -27,7 +27,7 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://www.gutenberg.org/ebooks/1642",
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
           "quote": "Alas! my companion, and will you leave me in despair?",
           "where": "Euthyphro cuối đối thoại (Jowett): Socrates cũng bế tắc"
         },
@@ -66,5 +66,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục là lời khuyên chuẩn tắc cho người dùng ngày nay, không phải trình bày lịch sử. Câu \"ngược lại Socrates\" khớp Euthyphro; nhưng IEP nêu cách đọc elenchus nhắm cả người nói (Thrasymachus), nên ranh giới \"không tấn công người\" không hoàn toàn mô tả Socrates. Mức nhẹ; chưa có đoạn phản bác."
+  "notes": "Mục là lời khuyên chuẩn tắc cho người dùng ngày nay, không phải trình bày lịch sử. Câu \"ngược lại Socrates\" khớp Euthyphro; nhưng IEP nêu cách đọc elenchus nhắm cả người nói (Thrasymachus), nên ranh giới \"không tấn công người\" không hoàn toàn mô tả Socrates. Mức nhẹ; chưa có đoạn phản bác. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn."
 }

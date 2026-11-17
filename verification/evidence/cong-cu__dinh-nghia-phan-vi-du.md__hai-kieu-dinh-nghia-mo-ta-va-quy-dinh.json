@@ -2,7 +2,7 @@
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#hai-kieu-dinh-nghia-mo-ta-va-quy-dinh",
   "hash": "sha256:5618cbbeaf4f207c83813c99d87d953f888db84c9ec670baf92a4b83d92c9dd7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Định nghĩa mô tả ghi lại cách mọi người đang dùng một từ; định nghĩa quy định đề xuất cách nên dùng cho một mục đích",
@@ -24,12 +24,30 @@
     {
       "text": "từ điển mô tả \"xe ôm\" là người chạy xe máy chở khách lấy tiền",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ví dụ: theo cách người Việt thường dùng, \"xe ôm\" là người chạy xe máy chở khách lấy tiền — một định nghĩa **mô tả** chỉ ghi lại cách dùng từ này.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "where": "SEP Definitions, descriptive definitions",
+          "quote": "Descriptive definitions, like stipulative ones, spell out meaning, but they also aim to be adequate to existing usage."
+        }
+      ]
     },
     {
       "text": "khi pháp luật quy định \"kinh doanh vận tải bằng xe hai bánh\" phải đăng ký, gắn biển hiệu, mua bảo hiểm",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Còn khi một văn bản pháp luật **quy định** riêng về việc chở khách bằng xe hai bánh (chẳng hạn bắt người chạy xe phải đăng ký), thì định nghĩa ấy không còn mô tả cách dùng thông thường nữa — nó *đặt ra* một khái niệm pháp lý để quản lý.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/definitions/",
+          "where": "SEP Definitions, stipulative definition",
+          "quote": "involves no commitment that the assigned meaning agrees with prior uses (if any) of the term"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -39,6 +57,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Khẳng định về pháp luật Việt Nam hiện hành (xe ôm phải đăng ký, gắn biển hiệu, mua bảo hiểm) không kiểm được bằng nguồn pháp luật gốc: tìm thấy tin Thông tư 08/2009/TT-BGTVT cũ (baokhanhhoa.vn 2010), dự thảo Hà Nội (rfa.org, trabico.vn), và chuyên gia cho rằng chưa bắt buộc đăng ký kinh doanh nhỏ (congluan.vn); tất cả là báo/trang tổng hợp, không dùng được làm nguồn theo hướng dẫn. Đề xuất người viết: nêu thành giả định (\"giả sử một văn bản pháp luật quy định...\") hoặc dẫn văn bản cụ thể, vì đây là nội dung có hạn dùng. Câu từ điển \"xe ôm\" chưa đối chiếu từ điển nào (Từ điển tiếng Việt Viện Ngôn ngữ học không mở được)."
+  "result": "sua",
+  "notes": "Khẳng định về pháp luật Việt Nam hiện hành (xe ôm phải đăng ký, gắn biển hiệu, mua bảo hiểm) không kiểm được bằng nguồn pháp luật gốc: tìm thấy tin Thông tư 08/2009/TT-BGTVT cũ (baokhanhhoa.vn 2010), dự thảo Hà Nội (rfa.org, trabico.vn), và chuyên gia cho rằng chưa bắt buộc đăng ký kinh doanh nhỏ (congluan.vn); tất cả là báo/trang tổng hợp, không dùng được làm nguồn theo hướng dẫn. Đề xuất người viết: nêu thành giả định (\"giả sử một văn bản pháp luật quy định...\") hoặc dẫn văn bản cụ thể, vì đây là nội dung có hạn dùng. Câu từ điển \"xe ôm\" chưa đối chiếu từ điển nào (Từ điển tiếng Việt Viện Ngôn ngữ học không mở được). Lượt 2: thử vanban.chinhphu.vn (tìm Thông tư 08/2009/TT-BGTVT; trang tìm kiếm cần postback ASP.NET, không lấy được văn bản), không có từ điển được phép mở được. Chuyển hai claim thành sai: \"từ điển mô tả\" mức nhẹ (fix bỏ việc gán cho từ điển), quy định pháp luật về xe ôm mức vừa (khẳng định pháp luật hiện hành không nguồn, nội dung có hạn dùng; fix nêu thành ví dụ giả định)."
 }

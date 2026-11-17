@@ -1,84 +1,93 @@
 {
- "unit": "cong-cu/nguy-bien.md#ba-loi-canh-bao-truoc-khi-bat-dau",
- "hash": "sha256:6c86addbd234f711ef1889404859200a6d97af30663afa1a7f71848f963e3443",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p08",
- "claims": [
-  {
-   "text": "Một lập luận có ngụy biện không có nghĩa kết luận sai (chú Hải: lý do không đủ, không cho thấy nước chanh vô hại hay có hại)",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/nguy-bien.md#ba-loi-canh-bao-truoc-khi-bat-dau",
+  "hash": "sha256:6c86addbd234f711ef1889404859200a6d97af30663afa1a7f71848f963e3443",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "just because what someone says is in their self-interest, does not mean it should be rejected",
-     "where": "SEP, ad hominem hoàn cảnh"
+      "text": "Một lập luận có ngụy biện không có nghĩa kết luận sai (chú Hải: lý do không đủ, không cho thấy nước chanh vô hại hay có hại)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "just because what someone says is in their self-interest, does not mean it should be rejected",
+          "where": "SEP, ad hominem hoàn cảnh"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Truth can be obtained from bad reasoning if the errors cancel out."
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Truth can be obtained from bad reasoning if the errors cancel out."
-    }
-   ]
-  },
-  {
-   "text": "'ngụy biện về ngụy biện' là cách gọi cho lối suy 'lập luận có ngụy biện nên kết luận sai' (và bản thân là ngụy biện)",
-   "kind": "dien-giai",
-   "verdict": "chua-kiem-duoc"
-  },
-  {
-   "text": "Như Bradley Dowden lưu ý trong mục 'Fallacies' của IEP, dán nhãn ngụy biện không thay được việc xem xét kỹ đoạn văn và bối cảnh của nó",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "simply applying the fallacy name to a passage cannot substitute for a detailed examination of the passage",
-     "where": "IEP Fallacies; tác giả mục: Bradley Dowden, California State University, Sacramento"
-    }
-   ]
-  },
-  {
-   "text": "Dựa vào bác sĩ về thuốc men là viện dẫn thẩm quyền chính đáng; chọn quán phở đông khách là theo số đông thường không tệ",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
-     "where": "IEP, Appeal to Authority"
+      "text": "Cho rằng \"lập luận của anh có ngụy biện, vậy kết luận của anh sai\" chính là một ngụy biện, đôi khi được gọi đùa là \"ngụy biện về ngụy biện\".",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Cho rằng \"lập luận của anh có ngụy biện, vậy kết luận của anh sai\" chính là một ngụy biện; ta có thể gọi nó là \"ngụy biện về ngụy biện\".",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Truth can be obtained from bad reasoning if the errors cancel out.",
+          "where": "IEP, mục 1"
+        }
+      ]
     },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "what most everyone believes is, for that reason, somewhat likely to be true, all things considered",
-     "where": "IEP, Appeal to the People"
-    }
-   ]
-  },
-  {
-   "text": "Douglas Walton nhấn mạnh các kiểu lập luận này có lúc dùng chính đáng, có lúc bị dùng sai",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "argument kinds that are sometimes used fairly, and, other times, fallaciously",
-     "where": "SEP Fallacies, phần lược đồ lập luận kiểu Walton"
+      "text": "Như Bradley Dowden lưu ý trong mục 'Fallacies' của IEP, dán nhãn ngụy biện không thay được việc xem xét kỹ đoạn văn và bối cảnh của nó",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "simply applying the fallacy name to a passage cannot substitute for a detailed examination of the passage",
+          "where": "IEP Fallacies; tác giả mục: Bradley Dowden, California State University, Sacramento"
+        }
+      ]
     },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
-     "quote": "Walton, Reed and Macagno 2008",
-     "where": "SEP Informal Logic: compendium of 96 schemes"
+      "text": "Dựa vào bác sĩ về thuốc men là viện dẫn thẩm quyền chính đáng; chọn quán phở đông khách là theo số đông thường không tệ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+          "where": "IEP, Appeal to Authority"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "what most everyone believes is, for that reason, somewhat likely to be true, all things considered",
+          "where": "IEP, Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "Douglas Walton nhấn mạnh các kiểu lập luận này có lúc dùng chính đáng, có lúc bị dùng sai",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "argument kinds that are sometimes used fairly, and, other times, fallaciously",
+          "where": "SEP Fallacies, phần lược đồ lập luận kiểu Walton"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Walton, Reed and Macagno 2008",
+          "where": "SEP Informal Logic: compendium of 96 schemes"
+        }
+      ]
     }
-   ]
-  }
- ],
- "checklist": {
-  "dung-nguon": true,
-  "manh-nhat": true,
-  "phan-bac": true,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "chua-kiem-duoc",
- "notes": "Tên 'ngụy biện về ngụy biện' (fallacy fallacy) không có trong SEP Fallacies hay IEP Fallacies đã mở (không có mục này); nội dung logic (lập luận tồi không làm kết luận sai) khớp SEP ad hominem hoàn cảnh và IEP 'Truth can be obtained from bad reasoning'. Việc gán riêng cho Walton: SEP nói chung về 'ad-arguments' và lược đồ dùng khi chính đáng khi sai, không nêu tên Walton trong câu đó; chấp nhận. Dowden: câu trích IEP đúng, tác giả mục là Dowden."
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tên 'ngụy biện về ngụy biện' (fallacy fallacy) không có trong SEP Fallacies hay IEP Fallacies đã mở (không có mục này); nội dung logic (lập luận tồi không làm kết luận sai) khớp SEP ad hominem hoàn cảnh và IEP 'Truth can be obtained from bad reasoning'. Việc gán riêng cho Walton: SEP nói chung về 'ad-arguments' và lược đồ dùng khi chính đáng khi sai, không nêu tên Walton trong câu đó; chấp nhận. Dowden: câu trích IEP đúng, tác giả mục là Dowden. Lượt 2: claim #1: nội dung (lập luận tồi không chứng minh kết luận sai) có IEP ủng hộ; cách nói 'đôi khi được gọi' khẳng định một lối gọi có thật mà không tìm được nguồn SEP/IEP nào dùng tên này (đã grep 'fallacy fallacy', 'argument from fallacy' trên SEP search và IEP), nên đề xuất fix nhẹ: gọi là tên do bài đặt."
 }

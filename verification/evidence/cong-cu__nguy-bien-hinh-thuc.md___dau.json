@@ -2,7 +2,7 @@
  "unit": "cong-cu/nguy-bien-hinh-thuc.md#_dau",
  "hash": "sha256:4ab6db95a4376fb302e18590b4a38094413000c88a8a02804de392a8a0b7dde1",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p11",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Mười bảy cái trong số đó là ngụy biện phi hình thức (19 cái bẫy ở bài Ngụy biện)",
@@ -57,8 +57,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   }
@@ -71,5 +71,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Câu 'thay nội dung nào vào cũng sai' là cách nói đời thường; chặt chẽ là 'khuôn không hợp lệ' (có thể có ví dụ cụ thể kết luận tình cờ đúng, bài tự nói ở mục Lưu ý). Không tính lỗi. | Số 19/17 đối chiếu nội bộ: docs/cong-cu/nguy-bien.md có 19 mục ###, nhóm 4 'Hình thức' chỉ có hai (khẳng định hậu kiện, phủ định tiền kiện). | Ví dụ đời thường, chỉ kiểm phân tích."
+ "notes": "Câu 'thay nội dung nào vào cũng sai' là cách nói đời thường; chặt chẽ là 'khuôn không hợp lệ' (có thể có ví dụ cụ thể kết luận tình cờ đúng, bài tự nói ở mục Lưu ý). Không tính lỗi. | Số 19/17 đối chiếu nội bộ: docs/cong-cu/nguy-bien.md có 19 mục ###, nhóm 4 'Hình thức' chỉ có hai (khẳng định hậu kiện, phủ định tiền kiện). | Ví dụ đời thường, chỉ kiểm phân tích. Lượt 2: chép lại quote IEP về bảng chân trị kéo theo đúng nguyên văn trên trang (α, β là mã MathJax \\alpha, \\beta)."
 }

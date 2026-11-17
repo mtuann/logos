@@ -2,7 +2,7 @@
  "unit": "cong-cu/suy-dien.md#nhung-khuon-dang-tin",
  "hash": "sha256:c2831e5d9cfab2d8556311a0f17cb69e8b21ecd36ebd584359593ec0838ac1cb",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p02",
+ "checker": "agent-kiem-5.5-p02 + agent-kiem-5.5-r03",
  "claims": [
   {
    "text": "Tính hợp lệ phụ thuộc hình thức, không phụ thuộc nội dung",
@@ -22,7 +22,7 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "we call α the antecedent, and we call β the consequent",
+     "quote": "In a statement of the form … we call … the antecedent … and we call … the consequent",
      "where": "Section 3.b"
     }
    ]
@@ -99,8 +99,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "is true if either α is true or β is true, or both α and β are true",
-     "where": "Section 3.b (disjunction inclusive: 'if either α is true or β is true, or both α and β are true')"
+     "quote": "is true if either … is true or … is true, or both … and … are true, and is false only if both … and … are false",
+     "where": "Section 3.b, Disjunction"
     }
    ]
   },
@@ -125,5 +125,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Ví dụ đời thường tự kiểm bằng logic. Câu 'quan hệ vòng tròn' là minh họa, không phải claim cần nguồn."
+ "notes": "Ví dụ đời thường tự kiểm bằng logic. Câu 'quan hệ vòng tròn' là minh họa, không phải claim cần nguồn. Lượt 2: thay các quote không khớp bằng nguyên văn trên trang tải về (ký hiệu toán bỏ bằng \"…\")."
 }

@@ -2,7 +2,7 @@
  "unit": "cong-cu/nguy-bien-hinh-thuc.md#tu-kiem-tra",
  "hash": "sha256:6201107917ee234aeeb32710931226f09f7039cc6dd9a2b155efd1610e79e08c",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p11",
+ "checker": "agent-kiem-5.5-p11 + agent-kiem-5.5-r04",
  "claims": [
   {
    "text": "Quiz 1 (answer 1): ngụy biện hình thức sai ở cấu trúc suy luận; phương án 0,2,3 sai",
@@ -52,8 +52,8 @@
    "sources": [
     {
      "url": "https://iep.utm.edu/prop-log/",
-     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
-     "where": "truth table of the conditional"
+     "quote": "is false if \\alpha is true and \\beta is false, and is true if either \\alpha is false or \\beta is true (or both)",
+     "where": "§3 Material Implication (ký hiệu MathJax giữ nguyên như trên trang)"
     }
    ]
   },
@@ -78,5 +78,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Năm đáp án đều đúng, phương án nhiễu đều sai (tự kiểm bằng bảng chân trị). Quiz id fallacy-2 không đổi."
+ "notes": "Năm đáp án đều đúng, phương án nhiễu đều sai (tự kiểm bằng bảng chân trị). Quiz id fallacy-2 không đổi. Lượt 2: chép lại quote IEP về bảng chân trị kéo theo đúng nguyên văn trên trang (α, β là mã MathJax \\alpha, \\beta)."
 }

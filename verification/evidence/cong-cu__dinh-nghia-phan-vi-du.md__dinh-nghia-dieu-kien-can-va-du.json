@@ -2,7 +2,7 @@
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#dinh-nghia-dieu-kien-can-va-du",
   "hash": "sha256:146b485a2bba98ada555997747f53255eff3182683e3e6ab41f68a09101dbc4b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Một định nghĩa tốt có dạng: X là F khi và chỉ khi … — điều kiện vừa cần vừa đủ",
@@ -23,7 +23,7 @@
       "sources": [
         {
           "url": "https://t5k.org/glossary/page.php?sort=Prime",
-          "quote": "An integer greater than one is called a prime number if its only positive divisors (factors) are one and itself.",
+          "quote": "An integer greater than one is called a prime number if its only positive divisors",
           "where": "Glossary: Prime"
         }
       ]
@@ -49,5 +49,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ví dụ số chẵn/nguyên tố tự kiểm bằng toán sơ cấp; câu \"gọn đến mức chính nó là một nửa của chứng minh\" là nhận xét sư phạm, không phải dữ kiện."
+  "notes": "Ví dụ số chẵn/nguyên tố tự kiểm bằng toán sơ cấp; câu \"gọn đến mức chính nó là một nửa của chứng minh\" là nhận xét sư phạm, không phải dữ kiện. Lượt 2: cắt quote t5k.org cho khớp nguyên văn (thẻ HTML tách \"(factors)\")."
 }

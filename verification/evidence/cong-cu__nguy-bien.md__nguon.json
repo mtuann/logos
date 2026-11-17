@@ -1,58 +1,75 @@
 {
- "unit": "cong-cu/nguy-bien.md#nguon",
- "hash": "sha256:21bce6ce6f5323eacda2032d4651d7c5e19313b605a2b939f624533c80dae325",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p08",
- "claims": [
-  {
-   "text": "Hansen, Hans, 'Fallacies', Stanford Encyclopedia of Philosophy, bản lưu fall2026",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+  "unit": "cong-cu/nguy-bien.md#nguon",
+  "hash": "sha256:21bce6ce6f5323eacda2032d4651d7c5e19313b605a2b939f624533c80dae325",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
-     "quote": "Fallacies, Stanford Encyclopedia of Philosophy (Fall 2026 Edition); tác giả Hans Hansen (copyright 2024)",
-     "where": "SEP Fallacies"
-    }
-   ]
-  },
-  {
-   "text": "Bradley Dowden, 'Fallacies', IEP, iep.utm.edu/fallacy/",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+      "text": "Hansen, Hans, 'Fallacies', Stanford Encyclopedia of Philosophy, bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Fallacies (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "SEP, tiêu đề trang"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Copyright © 2024 by Hans Hansen",
+          "where": "SEP, cuối trang"
+        }
+      ]
+    },
     {
-     "url": "https://iep.utm.edu/fallacy/",
-     "quote": "Bradley Dowden, California State University, Sacramento",
-     "where": "IEP Fallacies"
-    }
-   ]
-  },
-  {
-   "text": "Leo Groarke, 'Informal Logic', SEP, bản lưu fall2026",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+      "text": "Bradley Dowden, 'Fallacies', IEP, iep.utm.edu/fallacy/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Author Information Bradley Dowden",
+          "where": "IEP Fallacies, cuối trang"
+        }
+      ]
+    },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
-     "quote": "Copyright © 2026 by Leo Groarke",
-     "where": "SEP Informal Logic"
+      "text": "Leo Groarke, 'Informal Logic', SEP, bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Copyright © 2026 by Leo Groarke",
+          "where": "SEP Informal Logic"
+        }
+      ]
+    },
+    {
+      "text": "Douglas Walton, Informal Logic: A Pragmatic Approach, ấn bản 2, Cambridge University Press, 2008.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/cbo9780511808630",
+          "quote": "Second edition of the introductory guidebook",
+          "where": "Crossref, DOI 10.1017/CBO9780511808630: title 'Informal Logic', subtitle 'A Pragmatic Approach', tác giả Douglas Walton, publisher Cambridge University Press, edition-number 2 (trường published-print ghi 2001-01-01, giá trị giữ chỗ)"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL16471726M.json",
+          "quote": "\"publish_date\": \"2008\"",
+          "where": "Open Library (bản ghi thư viện, ISBN 9780521713801, LCCN 2007042373, lc_classifications 'BC177 .W324 2008', edition_name '2nd ed.')"
+        }
+      ]
     }
-   ]
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
   },
-  {
-   "text": "Douglas Walton, Informal Logic: A Pragmatic Approach, ấn bản 2, Cambridge University Press, 2008 [crossref chỉ ra sách 'Informal Logic' của Walton do Cambridge UP (ISBN 9780521886178, 9780521713801) nhưng không nêu ấn bản/năm 2008; trang Cambridge trả 404/403. SEP Informal Logic liệt kê Walton 1989 'Informal Logic: A Handbook for Critical Argumentation' chứ không có tựa này]",
-   "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
-  }
- ],
- "checklist": {
-  "dung-nguon": null,
-  "manh-nhat": null,
-  "phan-bac": null,
-  "trung-lap": null,
-  "thuat-ngu": true
- },
- "result": "chua-kiem-duoc",
- "notes": "Dòng 2 ghi 'các mục Affirming the Consequent và Denying the Antecedent': hai mục này có trên IEP (đã thấy). Dòng 1 nên ghi theo SEP mục Fallacies (tác giả Hans Hansen). Đã thử URL Cambridge và crossref cho dòng 4."
+  "result": "dat",
+  "notes": "Dòng 2 ghi 'các mục Affirming the Consequent và Denying the Antecedent': hai mục này có trên IEP (đã thấy). Dòng 1 nên ghi theo SEP mục Fallacies (tác giả Hans Hansen). Đã thử URL Cambridge và crossref cho dòng 4. Lượt 2: thay quote SEP/IEP bằng chữ trên trang (tiêu đề, copyright Hans Hansen; 'Author Information Bradley Dowden'); claim Walton: Crossref xác nhận tựa, tác giả, NXB, ấn bản 2; Open Library (dữ liệu thư viện, LC class BC177 .W324 2008) xác nhận năm 2008. Crossref ghi published-print 2001-01-01, coi là giá trị giữ chỗ vì mã LC và LCCN 2007042373 đều cho 2008."
 }

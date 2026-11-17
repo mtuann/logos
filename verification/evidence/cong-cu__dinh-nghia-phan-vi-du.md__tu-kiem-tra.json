@@ -2,7 +2,7 @@
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#tu-kiem-tra",
   "hash": "sha256:aa47d04e979b831aca5e73eb17ba0d365a2021a71de916768511f271070c10e6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06",
   "claims": [
     {
       "text": "Câu 1: answer 2 \"vừa cần vừa đủ\"",
@@ -35,7 +35,7 @@
       "sources": [
         {
           "url": "https://iep.utm.edu/gettier/",
-          "quote": "His belief is true and justified, but",
+          "quote": "It contains a belief which is true and justified — but which is not knowledge.",
           "where": "Case 10 xu"
         },
         {
@@ -78,5 +78,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một đáp án đúng duy nhất mỗi câu; các phương án nhiễu đều sai (câu 3: \"luôn là tri thức\", \"luôn đúng\", \"không cần niềm tin\" sai; câu 4: \"quá rộng\" sai vì đà điểu bị loại; câu 5: \"mọi định nghĩa đều quá hẹp\" và \"trò chơi nào cũng có thắng thua\" sai theo §66)."
+  "notes": "Một đáp án đúng duy nhất mỗi câu; các phương án nhiễu đều sai (câu 3: \"luôn là tri thức\", \"luôn đúng\", \"không cần niềm tin\" sai; câu 4: \"quá rộng\" sai vì đà điểu bị loại; câu 5: \"mọi định nghĩa đều quá hẹp\" và \"trò chơi nào cũng có thắng thua\" sai theo §66). Lượt 2: thay quote IEP Gettier bằng nguyên văn trên trang."
 }

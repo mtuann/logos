@@ -2,7 +2,7 @@
   "unit": "thi-nghiem/tau-theseus",
   "hash": "sha256:28ab3f48d002128115fb03e166a252016785cced31c5113d54319a802aecdc9b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-d03",
+  "checker": "agent-kiem-5.5-d03 + agent-kiem-5.5-r02",
   "claims": [
     {
       "text": "nguon: Hobbes, De Corpore (1655)",
@@ -10,20 +10,42 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://rintintin.colorado.edu/~vancecd/phil1020/Hobbes.pdf",
-          "quote": "From De Corpore (1655) part 2, chapter 11 ... that Ship of Theseus ... putting in new ... some man had kept the old planks ... and so there would have been two ships numerically the same, which is absurd",
-          "where": "Part 2, ch. 11"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ordinary-objects/notes.html",
+          "quote": "This version of the puzzle of the ship of Theseus—in which a second ship is constructed from the discarded planks—is due to Hobbes (1655: II.11.7).",
+          "where": "Notes, note 29"
         },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/hobbes/",
-          "quote": "De Corpore was published in 1655."
+          "quote": "De Corpore was published in 1655"
         }
       ]
     },
     {
       "text": "nguon: Plutarch, Đời Theseus 23 (đầu thế kỷ 2): mô tả con tàu được thay ván và tranh luận triết học",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Theseus*.html",
+          "quote": "The ship on which Theseus sailed with the youths and returned in safety, the thirty-oared galley, was preserved by the Athenians down to the time of Demetrius Phalereus.",
+          "where": "Theseus, ch. 23.1 (Loeb, Perrin)"
+        },
+        {
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Theseus*.html",
+          "quote": "They took away the old timbers from time to time, and put new and sound ones in their places, so that the vessel became a standing illustration for the philosophers in the mooted question of growth, some declaring that it remained the same, others that it was not the same vessel.",
+          "where": "Theseus, ch. 23.1 (Loeb, Perrin)"
+        },
+        {
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Introduction*.html",
+          "quote": "He lived through the reigns of Nero, Domitian, and Trajan, and, leaving the world as he did about 120 A.D.",
+          "where": "Loeb Introduction (Lives)"
+        },
+        {
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Introduction*.html",
+          "quote": "The Morals were composed, for the greater part, before the Lives",
+          "where": "Loeb Introduction (Lives)"
+        }
+      ]
     },
     {
       "text": "hoan_canh: thay dần từng ván; một người thu ván cũ ghép thành tàu khác (Reassembly)",
@@ -32,8 +54,13 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
-          "quote": "Over a long period all of the planks composing a certain ship are replaced one by one. Call the ship composed of the same planks as the ones initially composing the original ship Reassembly.",
-          "where": "Section 4"
+          "quote": "Over a long period all of the planks composing a certain ship are replaced one by one.",
+          "where": "Puzzle cases (asymmetrical fission: Ship of Theseus)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
+          "quote": "Call the ship composed of the same planks as the ones initially composing the original ship Reassembly.",
+          "where": "Puzzle cases (asymmetrical fission: Ship of Theseus)"
         },
         {
           "url": "https://classics.mit.edu/Plutarch/theseus.html",
@@ -55,29 +82,62 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
-          "quote": "constitution theorists ... Replacement is identical with the original but not constituted by its planks, and the Reassembly is constituted by the original planks without being identical with the original ship",
-          "where": "Section 4"
+          "quote": "A constitution theorist can say the following about Theseus’ ship. The ship resulting from the replacement of the original planks is identical with, but not constituted from, the original planks. The ship reconstituted from the original planks is not identical with the one originally constituted from those planks.",
+          "where": "Section 4.1"
         },
         {
-          "url": "https://rintintin.colorado.edu/~vancecd/phil1020/Hobbes.pdf",
-          "quote": "White: any body ... if the material is the same ... that will be the same body; if some part removed ... another body",
-          "where": "De Mundo Examined ch. 12"
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/material-constitution/",
+          "quote": "Others will say that it is with the custodian, since constructs can survive being taken apart and put back together.",
+          "where": "The Ship of Theseus Puzzle"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/material-constitution/",
+          "quote": "Roderick Chisholm (1973), who defends the doctrine of mereological essentialism",
+          "where": "Eliminativism (mereological essentialism)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/material-constitution/",
+          "quote": "For example, in the Ship of Theseus case it is natural to think that there is a ship which survives the replacement of at least some of its parts. The essentialist’s response to the paradox is to deny this apparent truism.",
+          "where": "Eliminativism (mereological essentialism)"
         }
       ],
       "severity": "vua",
-      "fix": "Thuyết vật chất (đồng nhất theo vật chất, material identity / mereological essentialism)"
+      "fix": "Thuyết vật chất (tàu tồn tại qua việc tháo ra rồi lắp lại; gần với thuyết bản chất bộ phận — mereological essentialism)"
     },
     {
       "text": "lua_chon a: Thuyết tiếp tục (spatiotemporal continuity)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thuyết tiếp tục (vật tồn tại qua việc thay dần từng bộ phận)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/material-constitution/",
+          "quote": "Some will say that it is with the museum, since boats can survive the gradual replacement of parts.",
+          "where": "The Ship of Theseus Puzzle"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-time/",
+          "quote": "In the case of Ship of Theseus, we find it intuitive to say that Replacement is the same as the original ship because we have in mind loose and popular identity.",
+          "where": "Section 4.3"
+        }
+      ]
     },
     {
       "text": "lua_chon c: Thuyết quy ước về đồng nhất: không có đáp án siêu hình duy nhất",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đồng nhất bất định (indeterminate identity): không có sự thật nào quyết định con tàu nào là tàu Theseus",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ordinary-objects/",
+          "quote": "It is natural to suppose that there is no fact of the matter: it is indeterminate which of the two ships is Theseus II.",
+          "where": "Section 2.4, Indeterminate Identity"
+        }
+      ]
     }
   ],
   "result": "sua",
-  "notes": "Lỗi vừa: nhãn tiếng Anh \"material constitution\" cho lựa chọn b gây hiểu lầm: trong SEP Identity Over Time và SEP Material Constitution, \"constitution view\" là thuyết hai vật trùng nhau (tàu thay ván đồng nhất với tàu gốc, tàu ghép chỉ được cấu thành bởi ván gốc nhưng không đồng nhất), tức không phải thuyết \"chỉ vật chất gốc mới là tàu gốc\". Quan điểm của b gần với lập luận vật chất của Thomas White (trong nguồn Hobbes). Chưa kiểm được: (1) Plutarch Theseus 23 và \"đầu thế kỷ 2\": classics.mit.edu không đánh số chương, Perseus/Wikisource không mở được; câu trích đúng nhưng số chương 23 và niên đại chưa xác nhận; (2) nhãn \"thuyết tiếp tục (spatiotemporal continuity)\" cho a và \"thuyết quy ước\" cho c: không trang SEP/IEP nào đã mở gán đúng các nhãn này cho Ship of Theseus (SEP Identity Over Time nói về Chisholm strict/loose identity, perspectivalism, phasalism, không nói \"conventionalism\"; IEP identity-over-time 404). Hobbes De Corpore 2.11 chỉ nêu tình huống làm phản chứng, không nhận một phương án nào."
+  "notes": "Lỗi vừa: nhãn tiếng Anh \"material constitution\" cho lựa chọn b gây hiểu lầm: trong SEP Identity Over Time và SEP Material Constitution, thuyết cấu thành (constitution) cho rằng tàu thay ván đồng nhất với tàu gốc, còn tàu ghép chỉ được cấu thành từ ván gốc, tức ngược với lựa chọn b; SEP Material Constitution mô tả phía b là \"constructs can survive being taken apart and put back together\" và gần với mereological essentialism (Chisholm). Lượt 2: thay quote theo nguyên văn trang (bỏ PDF Hobbes vì không đối chiếu được; dùng SEP Ordinary Objects ghi chú 29: biến thể ghép ván cũ là của Hobbes 1655 II.11.7); giải quyết Plutarch Theseus 23 bằng bản Loeb (Perrin) trên penelope.uchicago.edu có số chương 23; \"đầu thế kỷ 2\" suy từ lời dẫn Loeb (Lives viết phần lớn sau Morals, Plutarch mất khoảng 120) và SEP Plutarch (ca. 45–120 CE), chấp nhận như niên đại gần đúng. Nhãn a (\"spatiotemporal continuity\") và c (\"thuyết quy ước\") không có trong SEP Identity Over Time, Material Constitution, Ordinary Objects (đã grep: không có \"continuity\" hay \"conventionalism\" gắn với tàu Theseus; Sidelle 1989 \"A Defense of Conventionalism\" chỉ có trong thư mục); đặt sai mức nhẹ, fix dùng cách nói của nguồn: a = boats survive gradual replacement of parts; c = SEP Ordinary Objects 2.4 \"no fact of the matter: it is indeterminate\". Người sửa có thể giữ lời giải thích c (quy ước, ngữ cảnh) nhưng nên bỏ nhãn \"thuyết quy ước\" nếu không có nguồn."
 }

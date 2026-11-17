@@ -2,12 +2,34 @@
   "unit": "fallacies/f-060",
   "hash": "sha256:05ed5c17d615c32f73930e5a569929fbc4ed220e5bad2b88c8c42e3067e4088e",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-f03",
+  "checker": "agent-kiem-5.5-f03 + agent-kiem-5.5-r01",
   "claims": [
     {
-      "text": "answer: appeal-nature",
+      "text": "answer: appeal-nature (nhãn \"viện dẫn tự nhiên\")",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "On a broad interpretation of this fallacy, it applies to any attempt to argue from an “is” to an “ought,”",
+          "where": "IEP, mục Naturalistic"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/callicles-thrasymachus/",
+          "quote": "it violates the plausible principle, most famously advanced by David Hume, that no normative claims may be inferred from purely descriptive premises",
+          "where": "SEP Callicles and Thrasymachus: lối viện dẫn tự nhiên trong đạo đức"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chimeras/",
+          "quote": "the Unnaturalness Argument alleges that because the creation of chimeras is unnatural it is therefore wrong",
+          "where": "SEP Chimeras §2: lập luận 'trái tự nhiên nên sai', 'the argument against chimeras most often rejected'"
+        },
+        {
+          "url": "https://www.nccih.nih.gov/health/using-dietary-supplements-wisely",
+          "quote": "Many dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.”",
+          "where": "NCCIH (NIH), Using Dietary Supplements Wisely"
+        }
+      ]
     },
     {
       "text": "options: post-hoc, red-herring, appeal-popularity, appeal-nature; không phương án nhiễu nào cũng hợp lý với đoạn",
@@ -24,7 +46,14 @@
     {
       "text": "explanation: Cô Hương mặc định cách “tự nhiên” là tốt nhất mà không xét tác dụng thật của thuốc hạ sốt khi trẻ sốt cao. Tự nhiên hay không không quyết định điều gì an toàn hơn cho bé.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach",
+          "quote": "Keep in mind that “natural” does not necessarily mean “safe.” (Think of mushrooms that grow in the wild: Some are safe to eat, while others are not.)",
+          "where": "NCCIH (NIH), Are You Considering a Complementary Health Approach?"
+        }
+      ]
     },
     {
       "text": "why_not.post-hoc: Không có chuyện gì được coi là nguyên nhân chỉ vì xảy ra trước.",
@@ -63,6 +92,6 @@
       ]
     }
   ],
-  "result": "chua-kiem-duoc",
-  "notes": "Khái niệm không có mục riêng trong SEP \"Fallacies\" (fall2026) hay IEP \"Fallacy\" (đã tải, grep \"sunk\", \"Appeal to Nature\": 0 kết quả); cần nguồn khác, chưa mở được nguồn đáng tin nào trong phiên. Đối chiếu với bản ghi fallacy-types/appeal-nature cùng file: khớp lập luận của đoạn."
+  "result": "dat",
+  "notes": "Khái niệm không có mục riêng trong SEP \"Fallacies\" (fall2026) hay IEP \"Fallacy\" (đã tải, grep \"sunk\", \"Appeal to Nature\": 0 kết quả); cần nguồn khác, chưa mở được nguồn đáng tin nào trong phiên. Đối chiếu với bản ghi fallacy-types/appeal-nature cùng file: khớp lập luận của đoạn. Lượt 2: answer appeal-nature có nguồn: IEP Naturalistic (cách hiểu rộng), SEP Callicles and Thrasymachus, SEP Chimeras ('unnatural nên wrong'), NCCIH ('natural' không đồng nghĩa 'safe'); khớp bản ghi fallacy-types/appeal-nature."
 }
