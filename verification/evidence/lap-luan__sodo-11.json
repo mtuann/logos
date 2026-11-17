@@ -1,6 +1,6 @@
 {
  "unit": "lap-luan/sodo-11",
- "hash": "sha256:0c841d219d2bd248ac57ef05b5ebed9b63471a92a4d41d637834c4fdc54fa60f",
+ "hash": "sha256:d414248c6e3bd0f19ecadc4363c2269b689ef9d8b61c11fd240707d2c3f8681a",
  "checked_on": "2026-11-17",
  "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
  "claims": [
@@ -87,9 +87,10 @@
      "quote": "a standardized argument is a list of premises and a conclusion",
      "where": "SEP Informal Logic, mục Standardization"
     }
-   ]
+   ],
+   "fixed": true
   }
  ],
- "result": "sua",
- "notes": "Đoạn khó hơn: có chuỗi c1→c2→c5. Công cụ vẽ cạnh c1→c2 đúng, nhưng thiếu vai trò kết luận trung gian. Kiểm lại: c4 đã đổi thành câu lạc đề rõ (\"Năm nay em vừa đổi sang dùng điện thoại mới.\"): sửa đúng. ghi_chu_tranh_cai mới cho c2 đúng ý fix (c2 là kết luận trung gian, gán kết luận cũng được chấp nhận). Nhưng ghi chú nhắc cả \"c1\" và \"c5\", nên disputedIds trả [c2, c1, c5]: kết luận c5 và tiền đề c1 nay được chấm đúng với bất kỳ vai trò nào (người học gán c5 là không liên quan vẫn được điểm). Ghi claim mới mức vừa; fix viết lại ghi chú không nhắc mã câu nào ngoài c2. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node)."
+ "result": "dat",
+ "notes": "Đoạn khó hơn: có chuỗi c1→c2→c5. Công cụ vẽ cạnh c1→c2 đúng, nhưng thiếu vai trò kết luận trung gian. Kiểm lại: c4 đã đổi thành câu lạc đề rõ (\"Năm nay em vừa đổi sang dùng điện thoại mới.\"): sửa đúng. ghi_chu_tranh_cai mới cho c2 đúng ý fix (c2 là kết luận trung gian, gán kết luận cũng được chấp nhận). Nhưng ghi chú nhắc cả \"c1\" và \"c5\", nên disputedIds trả [c2, c1, c5]: kết luận c5 và tiền đề c1 nay được chấm đúng với bất kỳ vai trò nào (người học gán c5 là không liên quan vẫn được điểm). Ghi claim mới mức vừa; fix viết lại ghi chú không nhắc mã câu nào ngoài c2. Cơ chế chấm: docs/assets/js/so-do-lap-luan.js, hàm disputedIds lấy mọi chuỗi cN trong ghi_chu_tranh_cai và grade() chấp nhận mọi vai trò cho các câu đó (đã chạy thử bằng node). Kiểm lại lần 2 (commit 60494d1): ghi chú tranh cãi viết lại đúng fix, chỉ còn mã c2; node chạy disputedIds trả [\"c2\"], kết luận c5 và tiền đề c1 lại được chấm chặt. Cơ chế: docs/assets/js/so-do-lap-luan.js, hàm disputedIds."
 }
