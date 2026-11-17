@@ -1,0 +1,101 @@
+{
+  "unit": "cau-hoi/dinh-menh.md#nguon",
+  "hash": "sha256:58e63e10f559da64208db3afc618366dd3bd262a320c2898f7a458b85ac818a6",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k07",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về định mệnh/biết trước; bài dùng hai câu bổ sung về diễn giải cơ học lượng tử và bản thể luận thời gian.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Temporal ontology"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Quantum mechanics"
+        }
+      ]
+    },
+    {
+      "text": "Hoefer, Carl, \"Causal Determinism\", *Stanford Encyclopedia of Philosophy*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.determinism-causal",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Copyright © 2023 by Carl Hoefer"
+        }
+      ]
+    },
+    {
+      "text": "O'Connor, Timothy & Christopher Franklin, \"Free Will\", *Stanford Encyclopedia of Philosophy*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.freewill",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "Copyright © 2022 by Timothy O’Connor"
+        }
+      ]
+    },
+    {
+      "text": "Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.14328",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/3/2/14328/14328-0.txt",
+          "quote": "Translated into English Prose and Verse by H.R. JAMES"
+        }
+      ]
+    },
+    {
+      "text": "Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.aristotle-de-interpretatione-chuong-9-lap-luan-hai-chien-tri",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "De Interpretatione, chapter 9"
+        }
+      ]
+    },
+    {
+      "text": "Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về \"trí tuệ toàn tri\"; tóm tắt bằng lời mình trong bài).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.laplace-pierre-simon-1814-essai-philosophique-sur-les-probab"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Philosophers' Imprint 23: 11, 1–53."
+        },
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Các dòng SEP, Gutenberg, Aristotle, Laplace trùng bản ghi sources/* đã đóng băng; đã mở lại SEP bản lưu fall2026 và Gutenberg #14328 (mirror). Dòng PhilPapers đối chiếu trang nhà xuất bản và Crossref."
+}

@@ -1,0 +1,76 @@
+{
+  "unit": "cau-hoi/loi-chung.md#lien-he-doi-song",
+  "hash": "sha256:67f7ae22c1d6727a5b2c2ab8b408af44ef717eeed47847f4d2660d82138246dc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Cả hai phe trong bài đều đồng ý ở một điểm thực tế: hãy tìm *dấu hiệu đánh bại*.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "do not have any undefeated defeaters"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "A hearer is justified (or warranted"
+        }
+      ]
+    },
+    {
+      "text": "Đây là chỗ cần soi [giả định ngầm](../cong-cu/gia-dinh-ngam.md): \"người này giỏi trong lĩnh vực A, nên điều họ nói về lĩnh vực B cũng đáng tin\". Theo các dấu hiệu của Goldman, chuyên môn *gắn với lĩnh vực*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Goldman explores five potential evidential sources for reasonably determining someone to be an expert in a domain"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/gia-dinh-ngam/",
+          "quote": "Một giả định ngầm ( hidden assumption hoặc unstated premise ) là một tiền đề mà lập luận cần đến để đi tới kết luận"
+        }
+      ]
+    },
+    {
+      "text": "lời khai phải qua *chất vấn chéo*, nhân chứng phải tuyên thệ, và lời khai đơn độc (không có chứng cứ khác) thường không đủ để kết tội trong nhiều hệ thống pháp luật. Đó chính là thuyết giản lược được viết thành luật: lời chứng cần chỗ dựa độc lập.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "lời khai phải qua *chất vấn chéo*, nhân chứng phải tuyên thệ, và tòa thường đối chiếu lời khai với các chứng cứ khác trước khi kết luận. Điều đó gần với tinh thần của thuyết giản lược: lời chứng nên có chỗ dựa độc lập.",
+      "sources": [
+        {
+          "url": "https://www.legislation.gov.uk/ukpga/1994/33/section/32",
+          "quote": "Abolition of corroboration rules.",
+          "where": "Criminal Justice and Public Order Act 1994, s. 32 (Anh và xứ Wales)"
+        },
+        {
+          "url": "https://www.legislation.gov.uk/ukpga/1994/33/section/32",
+          "quote": "obligatory for the court to give the jury a warning about convicting the accused on the uncorroborated evidence of a person merely because that person is"
+        }
+      ]
+    },
+    {
+      "text": "Người làm chứng thành thật mà vẫn có thể sai: về chỗ khác nhau giữa niềm tin, sự biện minh và chân lý, xem [Sự thật là gì?](chan-ly.md).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "người làm chứng tin thật lòng mà vẫn có thể sai"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Claim sai (nhẹ): khái quát \"lời khai đơn độc thường không đủ để kết tội trong nhiều hệ thống pháp luật\" không có nguồn và không đúng chung — ví dụ Anh và xứ Wales đã bỏ cả quy tắc buộc cảnh báo bồi thẩm đoàn về lời khai không có chứng cứ bổ trợ (CJPOA 1994 s. 32); yêu cầu chứng cứ bổ trợ chỉ là quy tắc của một số hệ thống. Câu \"Đó chính là thuyết giản lược được viết thành luật\" cũng nói quá; fix làm cả hai câu chặt lại. Không có dữ kiện pháp luật Việt Nam cụ thể. Hai link nội bộ khớp trang đích."
+}

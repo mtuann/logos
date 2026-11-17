@@ -1,0 +1,371 @@
+{
+  "unit": "cau-hoi/khoa-hoc.md#cac-lap-truong-chinh",
+  "hash": "sha256:c4309d2fd2564b4cc704d3e485c21f414648d7e55ff4b0779a5e2e4f978dcc26",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "Karl Popper, trong *Logik der Forschung* (1934, bản tiếng Anh *The Logic of Scientific Discovery*, 1959)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/popper.logik-der-forschung"
+    },
+    {
+      "text": "Một lý thuyết là khoa học khi và chỉ khi nó đưa ra những dự đoán *có thể bị bằng chứng bác bỏ*.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pseudo-science/",
+          "quote": "statements or systems of statements, in order to be ranked as scientific, must be capable of conflicting with possible, or conceivable observations",
+          "where": "mục 4.1 (trích Popper 1962, 39)"
+        }
+      ]
+    },
+    {
+      "text": "thuyết tương đối của Einstein dự đoán ánh sáng từ các ngôi sao xa sẽ bị bẻ cong khi đi qua gần Mặt Trời — một dự đoán cụ thể, mạo hiểm, hoàn toàn có thể sai. Năm 1919, đoàn thám hiểm của Arthur Eddington đo được đúng như vậy trong một lần nhật thực.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "that light is deflected towards solid bodies—confirmed by Eddington’s experiments in 1919",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "Ngược lại, chiêm tinh dự đoán kiểu \"sao Thủy nghịch hành nên tuần này bạn dễ gặp trục trặc giao tiếp\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "astrology and phrenology are pseudo-sciences",
+          "where": "mục 3"
+        }
+      ]
+    },
+    {
+      "text": "Khi quỹ đạo sao Thủy lệch khỏi dự đoán của Newton, các nhà thiên văn không tuyên bố Newton sai — họ tìm hành tinh mới (và quả thật đã tìm ra sao Hải Vương từ một lệch lạc tương tự của quỹ đạo sao Thiên Vương).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/pseudoscience-demarcation/",
+          "quote": "Again, Le Verrier hypothesized the existence of a hitherto undiscovered planet, which he named Vulcan.",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://iep.utm.edu/pseudoscience-demarcation/",
+          "quote": "The new planet, Neptune, was in fact discovered on the night of 23-24 September 1846",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "*Thứ hai, từ Imre Lakatos:* vấn đề không phải ở từng lý thuyết đơn lẻ mà ở **chương trình nghiên cứu** (*research programme*). Một chương trình là khoa học nếu nó *tiến bộ* — tức liên tục sinh ra những dự đoán mới được xác nhận; nó thoái hóa khi chỉ quanh quẩn vá víu để né bằng chứng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lakatos/",
+          "quote": "Thus a research programme is degenerating if the successive theories do not deliver novel predictions or if the novel predictions that they deliver turn out to be false.",
+          "where": "mục 4"
+        }
+      ]
+    },
+    {
+      "text": "*Thứ ba, chính Popper cũng nói rõ:* ranh giới khả bác bỏ là một *quy ước phương pháp luận* — một đề xuất về cách chơi — chứ không phải một chân lý siêu hình về bản chất của khoa học.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/karl-popper-the-logic-of-scientific-discovery/Karl%20Popper%2C%20The%20Logic%20of%20Scientific%20Discovery_djvu.txt",
+          "quote": "My criterion of demarcation will accordingly have to be regarded as a proposal for an agreement or convention.",
+          "where": "The Logic of Scientific Discovery, §4"
+        }
+      ]
+    },
+    {
+      "text": "**Phản bác chính.** Có ba mũi tấn công lớn.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Phản bác chính.** Có hai mũi tấn công lớn, cộng một lưu ý từ chính Popper.",
+      "sources": [
+        {
+          "url": "https://archive.org/download/karl-popper-the-logic-of-scientific-discovery/Karl%20Popper%2C%20The%20Logic%20of%20Scientific%20Discovery_djvu.txt",
+          "quote": "My criterion of demarcation will accordingly have to be regarded as a proposal for an agreement or convention.",
+          "where": "§4: “mũi thứ ba” là lời của chính Popper, không phải một phản bác"
+        }
+      ]
+    },
+    {
+      "text": "Kuhn mô tả khoa học *thực tế* làm gì; Popper đề xuất khoa học *nên* làm gì — hai câu hỏi khác nhau.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/karl-popper-the-logic-of-scientific-discovery/Karl%20Popper%2C%20The%20Logic%20of%20Scientific%20Discovery_djvu.txt",
+          "quote": "As to the suitability of any such convention opinions may differ",
+          "where": "§4"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "Popper’s philosophy requires that a single reproducible, anomalous phenomenon be enough to result in the rejection of a theory",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "Thomas Kuhn, trong *The Structure of Scientific Revolutions* (1962)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.kuhn-thomas-s-1962-the-structure-of-scientific-revolutions-c"
+    },
+    {
+      "text": "công việc hàng ngày là *giải câu đố* trong khung đó, chứ không phải đi bác bỏ khung.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "Kuhn describes normal science as ‘puzzle-solving’ (1962/1970a, 35–42).",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ khi dị thường tích tụ quá nhiều, niềm tin lung lay, mới xảy ra **khủng hoảng**, rồi một **cách mạng khoa học**: mô thức mới thay thế mô thức cũ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "A crisis in science arises when confidence is lost in the ability of the paradigm to solve particularly worrying puzzles called ‘anomalies’.",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "Kuhn claimed that science guided by one paradigm would be ‘incommensurable’ with science developed under a different paradigm",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Kuhn cũng giải thích được vì sao các cuộc cách mạng khoa học mang màu sắc... chính trị: phe cũ không \"bị thuyết phục\" mà thường là... qua đời, nhường chỗ cho thế hệ mới.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/KuhnStructureOfScientificRevolutions/Kuhn_Structure_of_Scientific_Revolutions_djvu.txt",
+          "quote": "a new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die",
+          "where": "Structure, chương XII (Kuhn trích Planck)"
+        }
+      ]
+    },
+    {
+      "text": "Einstein dự đoán sóng hấp dẫn năm 1916, một thế kỷ sau LIGO mới đo được năm 2015",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/pdf/1602.03837",
+          "quote": "In 1916, the year after the final formulation of the field equations of general relativity, Albert Einstein predicted the existence of gravitational waves.",
+          "where": "Abbott et al. 2016, mục I"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1103/PhysRevLett.116.061102",
+          "quote": "On September 14, 2015 at 09:50:45 UTC the two detectors of the Laser Interferometer Gravitational-Wave Observatory simultaneously observed a transient gravitational-wave signal.",
+          "where": "tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "Mũi nhọn nhất: Kuhn có *tương đối hóa* khoa học quá mức không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "Dudley Shapere’s review (1964) emphasized the relativist implications of Kuhn’s ideas",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Kuhn (đặc biệt trong ấn bản 1970 có lời bạt) đã lùi một bước: \"không thể so sánh\" không có nghĩa là không có tiêu chuẩn chung nào — các nhà khoa học vẫn cùng coi trọng tính chính xác, tính đơn giản, khả năng giải câu đố.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/KuhnStructureOfScientificRevolutions/Kuhn_Structure_of_Scientific_Revolutions_djvu.txt",
+          "quote": "Probably the most deeply held values concern predictions: they should be accurate",
+          "where": "Postscript—1969, tr. 184–185"
+        },
+        {
+          "url": "https://archive.org/download/KuhnStructureOfScientificRevolutions/Kuhn_Structure_of_Scientific_Revolutions_djvu.txt",
+          "quote": "they must, first and foremost, permit puzzle-formulation and solution; where possible they should be simple",
+          "where": "Postscript—1969, tr. 185"
+        }
+      ]
+    },
+    {
+      "text": "Cách mạng khoa học không phải là đổi tôn giáo; nó là đổi khung nhìn *vì* khung mới giải được nhiều câu đố hơn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "revolutions do bring with them an overall increase in puzzle-solving power",
+          "where": "mục 5"
+        }
+      ]
+    },
+    {
+      "text": "Kuhn mô tả khoa học như một hoạt động của con người — có quán tính, có chính trị — nhưng không vì thế mà nó ngừng là hoạt động tìm ra sự thật.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Kuhn mô tả khoa học như một hoạt động của con người — có quán tính, có chính trị — nhưng không vì thế mà nó ngừng tiến bộ: mô thức mới giải được nhiều câu đố hơn mô thức cũ, dù chính Kuhn không cho rằng tiến bộ ấy là tiến dần tới sự thật.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/thomas-kuhn/",
+          "quote": "Kuhn is quick to deny that there is any inference from such increases to improved nearness to the truth",
+          "where": "mục 5"
+        },
+        {
+          "url": "https://archive.org/download/KuhnStructureOfScientificRevolutions/Kuhn_Structure_of_Scientific_Revolutions_djvu.txt",
+          "quote": "We may, to be more precise, have to relinquish the notion, explicit or implicit, that changes of paradigm carry scientists and those who learn from them closer and closer to the truth.",
+          "where": "Structure, chương XIII, tr. 170"
+        }
+      ]
+    },
+    {
+      "text": "Paul Feyerabend đi xa nhất. Trong *Against Method* (1975)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.feyerabend-paul-1975-against-method-london-new-left-books"
+    },
+    {
+      "text": "mọi quy tắc phương pháp đều từng bị phá vỡ bởi chính những bước tiến lớn nhất.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "there is not a single rule, however plausible, and however firmly grounded in epistemology, that is not violated at some time or other",
+          "where": "chương 1"
+        }
+      ]
+    },
+    {
+      "text": "khi dùng kính viễn vọng để quan sát mặt trăng và các vệ tinh của sao Mộc, chưa ai chứng minh được kính viễn vọng *đáng tin* khi nhìn lên trời",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "However, he offers no theoretical reasons why the telescope should be expected to",
+          "where": "chương 8–9"
+        },
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "The first telescopic observations of the sky are indistinct, indeterminate, contradictory",
+          "where": "chương 9"
+        }
+      ]
+    },
+    {
+      "text": "(nó được chế ra để nhìn tàu bè trên biển)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "(nó được chế ra để nhìn vật ở xa trên mặt đất, trước hết cho mục đích quân sự)",
+      "sources": [
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "Thus the telescope seems to have commenced as a secret weapon and was turned to astronomical use only later.",
+          "where": "chương 9, chú thích 24"
+        }
+      ]
+    },
+    {
+      "text": "Khẩu hiệu của ông: **\"anything goes\"** — cứ làm tới đi.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feyerabend/",
+          "quote": "the only “rule” it will contain will be the useless suggestion: “Anything goes”",
+          "where": "mục 5.1"
+        }
+      ]
+    },
+    {
+      "text": "Ông đáp rằng \"anything goes\" không có nghĩa là \"cái gì cũng đúng\" — nó có nghĩa là *không có phương pháp duy nhất nào đặc quyền*.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "is not a ‘principle’ I hold",
+          "where": "Lời nói đầu ấn bản 1993"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feyerabend/",
+          "quote": "there are no useful and exceptionless methodological rules governing the progress of science",
+          "where": "mục 5.1"
+        }
+      ]
+    },
+    {
+      "text": "Một phản bác khác, thực tế hơn: Feyerabend lấy ví dụ từ *quá khứ* (Galileo) để kết luận về *hiện tại*",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một phản bác khác, thực tế hơn (đây là nhận xét của bài, không gắn với một nhà phê bình cụ thể): Feyerabend lấy ví dụ từ *quá khứ* (Galileo) để kết luận về *hiện tại*, nhưng khoa học hiện đại đã khác xa: thí nghiệm tốn hàng tỷ đô la, cần hợp tác quốc tế, không thể \"cứ làm tới đi\" một cách tùy hứng.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feyerabend/",
+          "quote": "The book thus (understandably) had Feyerabend branded an “irrationalist”.",
+          "where": "mục 5.1: các phản bác được ghi nhận trong văn liệu; không tìm thấy phản bác về quy mô thể chế"
+        }
+      ]
+    },
+    {
+      "text": "Người bênh vực Feyerabend nói: ông cố ý *khiêu khích*.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feyerabend/",
+          "quote": "I loved to shock people",
+          "where": "mục 5.1 (trích tự truyện)"
+        },
+        {
+          "url": "https://archive.org/download/paul-feyerabend-against-the-method/Paul%20Feyerabend%2C%20Against%20the%20Method_djvu.txt",
+          "quote": "but the terrified exclamation of a rationalist who takes a closer look at hist",
+          "where": "Lời nói đầu ấn bản 1993"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Cả ba lập trường có đủ ba nhãn. Lỗi vừa: câu cuối phần Cách đáp lại của Kuhn gán cho Kuhn ý “khoa học là hoạt động tìm ra sự thật”, trái với chương XIII của Structure. Các chi tiết thiên văn (Vulcan, Hải Vương) đối chiếu IEP."
+}

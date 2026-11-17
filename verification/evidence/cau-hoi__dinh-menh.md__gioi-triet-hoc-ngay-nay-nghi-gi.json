@@ -1,0 +1,147 @@
+{
+  "unit": "cau-hoi/dinh-menh.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:8f6c1f8f1935cb1f034cd6651aa0c8cc5d1474f6d571477284e4a36946a162c1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k07",
+  "claims": [
+    {
+      "text": "Ở đây phải thành thật: PhilPapers Survey 2020 **không có câu hỏi riêng** về thuyết định mệnh logic hay về vấn đề biết trước và tự do.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer.",
+          "where": "đã tìm trong toàn bộ Bảng 1 và Bảng 2: không có chữ \"fatalism\", \"foreknowledge\", \"bivalence\" hay \"future contingents\""
+        }
+      ]
+    },
+    {
+      "text": "Khảo sát có hỏi về tự do ý chí nói chung (tương thích luận [[pp:tu-do-y-chi.tuong-thich-luan]]%, thuyết ý chí tự do [[pp:tu-do-y-chi.thuyet-y-chi-tu-do-libertarianism]]%, không có tự do ý chí [[pp:tu-do-y-chi.khong-co-tu-do-y-chi]]%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tu-do-y-chi"
+    },
+    {
+      "text": "| Cơ học lượng tử (diễn giải nào?)* | Sụp đổ hàm sóng | [[pp:co-hoc-luong-tu-dien-giai.sup-do-ham-song]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/co-hoc-luong-tu-dien-giai",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Hidden-variables 122 21.9",
+          "where": "Table 2, Quantum mechanics"
+        }
+      ]
+    },
+    {
+      "text": "| Bản thể luận thời gian* | Hiện tại luận (chỉ hiện tại tồn tại) | [[pp:ban-the-luan-thoi-gian.hien-tai-luan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-the-luan-thoi-gian",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Eternalism 293 39.9",
+          "where": "Table 2, Temporal ontology"
+        }
+      ]
+    },
+    {
+      "text": "Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn; người chọn nhiều lựa chọn được tính vào mỗi lựa chọn, nên tổng có thể vượt 100%.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer."
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "an “inclusive” figure, where respondents who endorse multiple options are included in the totals for each options"
+        }
+      ]
+    },
+    {
+      "text": "**Cơ học lượng tử:** không diễn giải nào được quá 22%, và nhóm \"Khác\" lớn nhất ([[pp:co-hoc-luong-tu-dien-giai.khac]]%).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/co-hoc-luong-tu-dien-giai",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Other 178 32.0",
+          "where": "Table 2, Quantum mechanics"
+        }
+      ]
+    },
+    {
+      "text": "diễn giải biến ẩn kiểu Bohm và đa thế giới giữ được tính tất định ở một nghĩa nào đó, các thuyết sụp đổ hàm sóng thì không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "restoring determinism and definiteness to micro-reality"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "The collapse process is usually postulated to be indeterministic"
+        }
+      ]
+    },
+    {
+      "text": "**Thời gian:** gần bốn trên mười người trả lời nghiêng về vĩnh cửu luận",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Thời gian:** gần bốn trên mười người trả lời chấp nhận hoặc nghiêng về vĩnh cửu luận",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Eternalism 293 39.9"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer."
+        }
+      ]
+    },
+    {
+      "text": "vĩnh cửu luận là một luận đề về những gì *tồn tại*, không phải thuyết định mệnh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "Fatalism is the thesis that all events (or in some versions, at least some events) are destined to occur no matter what we do."
+        }
+      ]
+    },
+    {
+      "text": "**Mẫu khảo sát:** người trả lời là triết gia chuyên nghiệp, phần lớn ở các nước nói tiếng Anh, và hai câu trên là câu bổ sung nên ít người trả lời hơn hẳn câu chính.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The USA is far ahead on all three lists, followed by the UK, followed by Australia, Canada, and Germany"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "This allows broader information about views within the English-speaking philosophical community."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu qua shortcode từ kho philpapers đã đóng băng; đối chiếu thêm Bảng 2 trên trang bài báo (Quantum mechanics: Collapse 17,1 / Hidden-variables 21,9 / Many-worlds 19,4 / Epistemic 12,8 / Other 32,0; Temporal ontology: Presentism 18,4 / Eternalism 39,9 / Growing block 17,0 / Other 24,9). Bài nói đúng là câu bổ sung, có n. Một claim nhe: \"nghiêng về vĩnh cửu luận\" thay vì \"chấp nhận hoặc nghiêng về\". Câu kết (\"không phải câu hỏi triết học nào cũng có thể đem ra bỏ phiếu\") không kết luận thay người đọc."
+}

@@ -1,0 +1,124 @@
+{
+  "unit": "cau-hoi/trach-nhiem.md#_dau",
+  "hash": "sha256:f23c0fd6c6abe5c827c4dc08fe7fdc8357cc5271f5a1b04d30e7a1022dbe5789",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k08",
+  "claims": [
+    {
+      "text": "Bài tách thành ba câu hỏi: khi nào *đáng* bị trách, ta trách *để làm gì* (bản án cho quá khứ hay lời mời sửa sai cho tương lai), và trách nhiệm có đòi hỏi \"có thể làm khác đi\" không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/trach-nhiem/",
+          "quote": "Câu hỏi thứ hai: ta trách để làm gì?",
+          "where": "bản đã deploy, mục Câu hỏi thật sự là gì (thân bài trong repo giống hệt ở mục này)"
+        }
+      ]
+    },
+    {
+      "text": "Bài [Ta có thật sự tự do lựa chọn?](tu-do-y-chi.md) đã hỏi ta có tự do không.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Ta có thật sự tự do lựa chọn?",
+          "where": "tiêu đề trang đích, khớp nhãn link; trang bàn tất định luận và tự do ý chí"
+        }
+      ]
+    },
+    {
+      "text": "Frankfurt (1969)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-2307-2023833"
+    },
+    {
+      "text": "Frankfurt (1969) — trách nhiệm không cần \"có thể làm khác đi\": chị Lan vẫn chịu trách nhiệm dù cơ chế can thiệp khiến chị không thể đổi ý, vì điều quan trọng là *diễn biến thực tế*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
+          "quote": "to show that access to alternatives is not necessary for moral responsibility",
+          "where": "§2.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/alternative-possibilities/",
+          "quote": "any factor causally isolated from an agent cannot be relevant to that person’s moral responsibility",
+          "where": "§4.3.2"
+        }
+      ]
+    },
+    {
+      "text": "Strawson (\"Freedom and Resentment\", 1962) — trách nhiệm nằm trong các thái độ phản ứng (biết ơn, phẫn nộ, tội lỗi) của đời sống chung, đừng bắt đầu từ siêu hình học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/",
+          "quote": "the truth or falsity of causal determinism is not relevant to whether we justifiably hold each other and ourselves morally responsible",
+          "where": "§3.2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
+          "quote": "P. F. Strawson’s 1962 paper, “Freedom and Resentment,” is the inspiration for a great deal of contemporary work on responsibility",
+          "where": "§2.2.1"
+        }
+      ]
+    },
+    {
+      "text": "Pereboom (*Living Without Free Will*, 2001) — có thể sống tốt mà không cần \"đáng trách tối hậu\": cách ly người nguy hiểm như cách ly người bệnh, để bảo vệ cộng đồng chứ không phải vì họ *đáng* bị nhốt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/",
+          "quote": "it could be as legitimate to incapacitate him as to quarantine the non-responsible carrier of a serious communicable disease",
+          "where": "§3.4"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/",
+          "quote": "–––, 2001, Living Without Free Will , Cambridge: Cambridge University Press.",
+          "where": "Thư mục, mục Pereboom"
+        }
+      ]
+    },
+    {
+      "text": "Fischer & Ravizza (1998) — trách nhiệm khi cơ chế ra quyết định là *của chính bạn* và *đáp ứng với lý do*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
+          "quote": "the mechanism that actually issues in the action is his own, reasons-responsive mechanism",
+          "where": "§2.3, trích Fischer and Ravizza 1998, 39"
+        }
+      ]
+    },
+    {
+      "text": "Thái độ của bài: đây không chỉ là lý thuyết mà là lựa chọn sống — sống tử tế mà không cần bản án tối hậu.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- Với Pereboom, đây không chỉ là lý thuyết mà là một lựa chọn sống: sống tử tế mà không cần bản án tối hậu.",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/trach-nhiem/",
+          "quote": "Chỉ ghi nhận một điều: đây không chỉ là một lý thuyết, mà là một lựa chọn sống",
+          "where": "bản đã deploy, cuối lập trường 3 (Pereboom); bản trong repo vẫn đặt câu này trong mục Pereboom (\"Ở đây chỉ ghi nhận một điều…\"); câu này nói về lập trường của Pereboom, không phải thái độ của bài. Ghi \"Thái độ của bài\" ở Tóm tắt biến bài thành người đứng về phía hoài nghi trách nhiệm ở một câu hỏi còn mở"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": false,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Tóm tắt khớp thân bài ở bốn lập trường. Lỗi duy nhất: dòng thứ ba gán quan điểm của Pereboom thành \"thái độ của bài\", trái với nguyên tắc trung lập; thân bài chỉ trình bày nó trong mục Pereboom."
+}

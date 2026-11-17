@@ -1,0 +1,70 @@
+{
+  "unit": "cau-hoi/noi-doi.md#doc-van-ban-goc",
+  "hash": "sha256:dea9ba3416453487f59a315a89c98d6bb0f4f10b19b5fae2d883fe75d6dcb040",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "Hai đoạn dưới đây (đều thuộc phạm vi công cộng) cùng bàn chuyện giấu sự thật trước kẻ gian, và đi tới hai kết luận ngược nhau.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/cu31924029021612/cu31924029021612_djvu.txt",
+          "quote": "Fourth Edition, 1889.",
+          "where": "trang tên sách bản Abbott (1889), thuộc phạm vi công cộng"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "SEVENTH EDITION LONDON LONGMANS, GREEN, AND CO. 1879",
+          "where": "trang tên sách bản Gutenberg của Utilitarianism"
+        }
+      ]
+    },
+    {
+      "text": "Trích Kant, Über ein vermeintes Recht aus Menschenliebe zu lügen (1797), bản dịch Abbott, kèm bản dịch của Logos",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/immanuel-kant.uber-ein-vermeintes-recht-aus-menschenli"
+    },
+    {
+      "text": "Trích Mill, Utilitarianism (1863), chương 2, theo lần in thứ 7 (1879), kèm bản dịch của Logos",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/john-stuart-mill.utilitarianism-2"
+    },
+    {
+      "text": "Mill đặt hai điều kiện: che chở ai đó khỏi một điều ác lớn không đáng chịu, và chỉ giữ kín được bằng cách chối.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "from great and unmerited evil, and when the withholding can only be effected by denial",
+          "where": "chương II"
+        }
+      ]
+    },
+    {
+      "text": "Đọc thêm: [hướng dẫn đọc \"Khai sáng là gì?\" của Kant](../doc/kant-khai-sang.md), về việc dám tự mình suy nghĩ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/kant-khai-sang/",
+          "quote": "khai sáng là dám tự mình suy nghĩ",
+          "where": "phần mở đầu trang đích"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hai khối trích trùng đúng từng chữ (cả tiêu đề) với bản ghi kho đã đóng băng. Bản Gutenberg của Mill in 'male-factor' có gạch nối, bản ghi kho và bài in 'malefactor': khác biệt chính tả của bản in, không đổi nghĩa."
+}

@@ -1,0 +1,92 @@
+{
+  "unit": "cau-hoi/tri-thuc.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:60e7e4b321318b5f9b7c8a6045b65cb003dcf83b256b347bb03a6aa808dcc7fe",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Từ thời [Platon](../triet-gia/platon.md), nhiều người đã gợi ý rằng tri thức là **niềm tin** (*belief*) đúng, cộng thêm một thứ gì đó. Thứ đó ngày nay gọi là **sự biện minh** (*justification*).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/knowledge-analysis/",
+          "quote": "Recognition of the need for something like this condition is often traced to Plato’s Theaetetus , where Socrates points out that “true opinion” is in general insufficient for knowledge.",
+          "where": "§1.3"
+        }
+      ]
+    },
+    {
+      "text": "Người hoài nghi không nhất thiết bảo thế giới là ảo. Họ chỉ hỏi: lý do của bạn có đủ mạnh để loại trừ khả năng bạn đang mơ, hoặc đang bị lừa, không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism/",
+          "quote": "CP2. I am not justified in believing that",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "Và có một câu hỏi thứ ba, chạy song song: tri thức *đến từ đâu*? Từ giác quan và kinh nghiệm, hay một phần từ lý tính thuần túy?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rationalism-empiricism/",
+          "quote": "the dispute between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world"
+        }
+      ]
+    },
+    {
+      "text": "Đây là một lập luận [suy diễn](../cong-cu/suy-dien.md) **hợp lệ** (*valid*): nó có dạng **modus tollens** (*phủ định hậu kiện*). Nếu cả hai tiền đề đúng, kết luận không thể sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism/",
+          "quote": "CP1. If I am justified in believing that h , then I am justified in believing that",
+          "where": "§4: lập luận CP có cùng dạng (nếu p thì q; không q; vậy không p)"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Modus tollens (phủ định hậu kiện)"
+        }
+      ]
+    },
+    {
+      "text": "[lập luận](../cong-cu/lap-luan-la-gi.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "Lập luận là gì? - Logos Zero",
+          "where": "<title> trang đích"
+        }
+      ]
+    },
+    {
+      "text": "Định nghĩa tri thức nào cũng đòi niềm tin phải *đúng* — nhưng \"đúng\" nghĩa là gì? Xem [Sự thật là gì?](chan-ly.md).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/chan-ly/",
+          "quote": "Sự thật là gì? - Logos Zero",
+          "where": "<title> trang đích"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ba nhãn link nội bộ khớp trang đích trên site đã deploy (lap-luan-la-gi, suy-dien có mục Modus tollens, chan-ly). Lập luận ba bước đúng dạng modus tollens: (1) K(điện thoại) → K(không mơ); (2) ¬K(không mơ); (3) ¬K(điện thoại). Ba ví dụ (Lan, Minh, Na) là ví dụ tự đặt, không gán tác giả."
+}

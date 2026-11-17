@@ -1,0 +1,136 @@
+{
+  "unit": "cau-hoi/ngon-ngu.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:ab42af1af779002b48d4009fc162042aec61f1f86bda0f44471016f3e35977ae",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "Câu hỏi này có tên là **giả thuyết Sapir-Whorf**, theo tên hai nhà ngôn ngữ học Edward Sapir và Benjamin Lee Whorf.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/relativism/",
+          "quote": "Benjamin Whorf, inspired by his teacher Edward Sapir",
+          "where": "mục 4.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/relativism/",
+          "quote": "The so-called Sapir-Whorf hypothesis",
+          "where": "mục 4.1"
+        }
+      ]
+    },
+    {
+      "text": "**Phiên bản mạnh** — **thuyết quyết định ngôn ngữ** (*linguistic determinism*): ngôn ngữ *quyết định* tư duy.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic determinism is historically associated with the writings of Benjamin Lee Whorf (Whorf 1956).",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "**thuyết quyết định ngôn ngữ** (*linguistic determinism*)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "**tất định luận ngôn ngữ** (*linguistic determinism*)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
+          "where": "mục 4.3; đối chiếu HUONG-DAN-VIET.md bảng thuật ngữ bắt buộc: determinism → tất định luận, “quyết định luận” ghi (sai)"
+        }
+      ]
+    },
+    {
+      "text": "**Phiên bản yếu** — **tương đối tính ngôn ngữ** (*linguistic relativity*): ngôn ngữ *ảnh hưởng* đến tư duy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "Hầu hết tranh luận hiện nay là: phiên bản mạnh đã chết chưa, và phiên bản yếu đúng đến mức nào?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic determinism isn’t an especially promising doctrine and has few adherents these days, but linguistic relativity is the subject of a spirited debate",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "Triết gia W. V. O. [Quine](../triet-gia/quine.md) (*Word and Object*, 1960)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/quine.word-and-object"
+    },
+    {
+      "text": "Một con thỏ chạy qua, người bản địa chỉ tay và nói: \"gavagai!\". Từ đó có nghĩa là \"con thỏ\"? Hay \"phần không tách rời của con thỏ\"?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/indeterm/",
+          "quote": "a rabbit scurries by, and the native utters “Gavagai”",
+          "where": "mục 1.a"
+        },
+        {
+          "url": "https://iep.utm.edu/indeterm/",
+          "quote": "he decides to take “Lo, an undetached rabbit-part” as his hypothetical translation",
+          "where": "mục 1.a"
+        }
+      ]
+    },
+    {
+      "text": "Quine gọi đây là **tính không xác định của phép dịch** (*indeterminacy of translation*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "The general claim of the indeterminacy of translation is that there might be different ways of translating a language which are equally correct but which are not mere stylistic variants.",
+          "where": "mục 6.2"
+        }
+      ]
+    },
+    {
+      "text": "Tam giác của Ogden &amp; Richards (1923): chữ &quot;cây&quot; gợi lên khái niệm, khái niệm quy chiếu tới cái cây thật — nhưng chữ không trỏ thẳng vào vật (cạnh đáy đứt nét).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.463645/2015.463645.The-Meaning-Of-Meaning_djvu.txt",
+          "quote": "Symbol and Referent, that is to say, are not connected directly",
+          "where": "The Meaning of Meaning, chương I, tr. 11–12"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.463645/2015.463645.The-Meaning-Of-Meaning_djvu.txt",
+          "quote": "Magdalene College, Cambridge, January 1923.",
+          "where": "Lời nói đầu ấn bản đầu"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "sua",
+  "notes": "Nội dung đúng nguồn. Lỗi thuật ngữ như ở #_dau."
+}

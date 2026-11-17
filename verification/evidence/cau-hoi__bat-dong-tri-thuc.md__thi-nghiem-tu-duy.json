@@ -1,0 +1,45 @@
+{
+  "unit": "cau-hoi/bat-dong-tri-thuc.md#thi-nghiem-tu-duy",
+  "hash": "sha256:1087e8e54e8c63661e6ab3d397a790ab6e59fcaaa286a255faab99f59959f442",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "Hai bác sĩ, giả sử tên là An và Bình. […] Bác sĩ An kết luận: bệnh X, cần mổ sớm. Bác sĩ Bình kết luận: không phải bệnh X, mổ là sai lầm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Laksha is a doctor faced with a tough decision regarding one of her patients.",
+          "where": "ca bác sĩ trong văn liệu có cùng cấu trúc (bất đồng giữa đồng nghiệp ngang tài về quyết định mổ)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Some of them say surgery is the way to go, others say she should continue with medications"
+        }
+      ]
+    },
+    {
+      "text": "Giờ đổi vai: giả sử bạn *là* bác sĩ An. […] **Bạn có nên bớt chắc chắn về chẩn đoán của mình không? Hay giữ nguyên, vì bạn đã xem rất kỹ rồi?**",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "While the Equal Weight View is quite conciliatory, the Steadfast View maintains that sticking to one’s guns in a case of peer disagreement can be rational.",
+          "where": "câu hỏi đặt đúng hai lựa chọn của tranh luận"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Thí nghiệm tư duy do bài tự dựng (tên giả định \"giả sử tên là An và Bình\"), không gán cho tác giả nào, nên không có phiên bản gốc để đối chiếu; cấu trúc khớp ca bất đồng ngang tài chuẩn và ca bác sĩ Laksha trong SEP. Không có dữ kiện (năm, tên người) cần kiểm."
+}

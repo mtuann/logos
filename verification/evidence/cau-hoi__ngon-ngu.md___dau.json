@@ -1,0 +1,114 @@
+{
+  "unit": "cau-hoi/ngon-ngu.md#_dau",
+  "hash": "sha256:e0eeea352e806f7c22c0cdb4a6085fd30ce80e475744b9f37921981c8a1a2f42",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "mạnh (thuyết quyết định ngôn ngữ: ngôn ngữ *quyết định* tư duy) và yếu (tương đối tính ngôn ngữ: ngôn ngữ *ảnh hưởng* tư duy)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "mạnh (thuyết quyết định ngôn ngữ",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "mạnh (tất định luận ngôn ngữ: ngôn ngữ *quyết định* tư duy)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
+          "where": "mục 4.3; đối chiếu HUONG-DAN-VIET.md bảng thuật ngữ bắt buộc: determinism → tất định luận, “quyết định luận” ghi (sai)"
+        }
+      ]
+    },
+    {
+      "text": "Malotki (*Hopi Time*, 1983) chứng minh tiếng Hopi có hệ thống diễn đạt thời gian phong phú",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/relativism/",
+          "quote": "Moreover, Malotki (1983) had argued that, contrary to Whorf’s claim, the Hopi language does indeed have tense, as well as units of time, such as days, weeks, months and seasons, and terminology for yesterday and tomorrow.",
+          "where": "mục 4.1"
+        }
+      ]
+    },
+    {
+      "text": "người nói tiếng Nga phân biệt hai sắc xanh nhanh hơn khi chúng nằm ở hai bên ranh giới từ vựng *goluboy*/*siniy*, người nói tiếng Anh thì không có lợi thế này (Winawer 2007)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1073/pnas.0701644104",
+          "quote": "We found that Russian speakers were faster to discriminate two colors when they fell into different linguistic categories in Russian (one siniy and the other goluboy) than when they were from the same linguistic category (both siniy or both goluboy).",
+          "where": "tóm tắt bài PNAS 2007"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1073/pnas.0701644104",
+          "quote": "English speakers tested on the identical stimuli did not show a category advantage in any of the conditions.",
+          "where": "tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "giống ngữ pháp có thể \"nhuộm màu\" cảm nhận sự vật (Boroditsky 2003, kết quả chưa lặp lại được)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1515/gcla-2014-0004",
+          "quote": "In this paper, we present two attempts to replicate a widely-cited but never fully published experiment",
+          "where": "tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "[Wittgenstein](../triet-gia/wittgenstein.md) (*Philosophical Investigations*, 1953)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/wittgenstein.philosophische-untersuchungen"
+    },
+    {
+      "text": "(lập luận \"bọ cánh cứng\", §293)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/ludwig-wittgenstein-philosophical-investigations-anscombes-von-wrights-edition-1986/Ludwig%20Wittgenstein%2C%20Philosophical%20Investigations%2C%20Anscombe%27s%20Von%20Wright%27s%20edition%20%281986%29_djvu.txt",
+          "quote": "The thing in the box has no place in the language-game at all; not even as a something: for the box might even be empty.",
+          "where": "PI §293"
+        }
+      ]
+    },
+    {
+      "text": "câu chuyện \"người Eskimo có hàng chục từ chỉ tuyết\" bị thổi phồng (Martin 1986)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.uaf.edu/anlc/research-and-resources/resources/archives/inuit_snow_terms.php",
+          "quote": "This interesting article follows the example from the original claim made by Boas in the introduction to the Handbook of American Indian Languages , published in 1911, through its many mutat",
+          "where": "Alaska Native Language Center (UAF), tóm lược bài Martin 1986"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "sua",
+  "notes": "Các ý của Tóm tắt khớp thân bài. Lỗi thuật ngữ: “thuyết quyết định ngôn ngữ” cho linguistic determinism, trong khi bảng thuật ngữ bắt buộc ghi determinism → tất định luận và đánh dấu “quyết định luận” là sai. Lỗi lặp ở #cau-hoi-that-su-la-gi và #gioi-triet-hoc-ngay-nay-nghi-gi; nếu chủ biên cho rằng bảng thuật ngữ chỉ áp dụng cho tự do ý chí thì hạ xuống nhẹ."
+}

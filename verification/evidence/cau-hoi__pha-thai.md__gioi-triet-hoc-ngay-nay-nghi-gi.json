@@ -1,0 +1,107 @@
+{
+  "unit": "cau-hoi/pha-thai.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:d71d45bc95d6a0499f7e03fefca30ee84067d44ba156a6fe532fd8dfb8a6fbce",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 có một câu hỏi về phá thai. Đó là một câu bổ sung (chỉ một phần người tham gia được hỏi), và nó hỏi về một trường hợp rất hẹp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer. Questions and answers n % Exclusive Abortion (first trimester, no special circumstances) Permissible 917 81.7 Impermissible 147 13.1",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Bảng: Phá thai (ba tháng đầu, không có hoàn cảnh đặc biệt) — câu bổ sung, n ≈ …; Được phép / Không được phép / Khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Philosophers' Imprint 23: 11, 1–53.",
+          "where": "mục How to Cite"
+        }
+      ]
+    },
+    {
+      "text": "Nó chỉ hỏi về phá thai trong ba tháng đầu, khi không có hoàn cảnh đặc biệt nào ... và chỉ cho chọn \"được phép\" hay \"không được phép\" — câu hỏi không nói rõ đó là bình diện đạo đức hay pháp lý.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Abortion (first trimester, no special circumstances) Permissible",
+          "where": "Bảng 2: tên câu hỏi chỉ có 'permissible/impermissible'"
+        }
+      ]
+    },
+    {
+      "text": "Người trả lời là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "(with strongest coverage on English-speaking and English-publishing philosophers)",
+          "where": "§2.1 Target population"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "in all other countries: English-publishing philosophers",
+          "where": "§2.1"
+        }
+      ]
+    },
+    {
+      "text": "Đây lại là câu bổ sung, nên chỉ khoảng … người trả lời (đã loại người bỏ qua hoặc chọn \"không đủ quen thuộc với vấn đề\").",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet"
+    },
+    {
+      "text": "Thomson (1971) và Marquis (1989) vẫn là hai bài báo được trích dẫn và giảng dạy nhiều nhất ở hai phía, còn thuyết tiệm tiến là lập trường của nhiều triết gia đạo đức sinh học đương đại.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Thomson (1971) và Marquis (1989) là hai bài báo kinh điển ở hai phía, đều được mục từ \"The Ethics of Abortion\" của SEP trình bày kỹ; còn các lập trường trung gian, như thuyết tiệm tiến, cũng có người bênh vực trong văn liệu.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "(So claims Thomson 1971, which introduced this famous case.)",
+          "where": "§1.2; SEP không xếp hạng 'trích dẫn và giảng dạy nhiều nhất'"
+        },
+        {
+          "url": "https://iep.utm.edu/abortion/",
+          "quote": "There are three main views: first, the extreme conservative view (held by the Catholic Church); second, the extreme liberal view (held by Singer); and third, moderate views which lie between both extremes.",
+          "where": "mục 1.a; nguồn xác nhận có quan điểm ôn hòa, không nói 'nhiều triết gia đạo đức sinh học'"
+        }
+      ]
+    },
+    {
+      "text": "Sự tồn tại dai dẳng của cả ba hướng, sau hơn nửa thế kỷ tranh luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "sources/sach.thomson-judith-jarvis-1971-a-defense-of-abortion-philosophy"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Số liệu đúng câu bổ sung, Bảng 2; n = 917/0,817 ≈ 1.120 khớp tools/philpapers-2020.md. Nhận định đi kèm không vượt số liệu, trừ câu khái quát về 'trích dẫn và giảng dạy nhiều nhất' không có nguồn."
+}

@@ -1,0 +1,143 @@
+{
+  "unit": "cau-hoi/ngon-ngu.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:771627e130034430983d1f4757cb3043151cd4f352b05ccb0601e8c3e265f04c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k03",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về giả thuyết Sapir-Whorf hay về quan hệ giữa ngôn ngữ và tư duy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "the list of questions was expanded from 30 questions to 100 questions",
+          "where": "mục 1; đã dò toàn văn: không có “Whorf”, “Sapir”, “relativity”"
+        }
+      ]
+    },
+    {
+      "text": "Khảo sát có vài câu về triết học ngôn ngữ (tên riêng, lý thuyết quy chiếu, khái niệm)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Proper names Fregean 458 36.1 Millian 491 38.7",
+          "where": "Bảng 1"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Concepts Nativism 241 28.1 200 23.3 Empiricism 432 50.3",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "| Wittgenstein: bạn thích giai đoạn nào hơn?* | Giai đoạn sau (thời *Philosophical Investigations*) | [[pp:wittgenstein-thich-giai-doan-nao.giai-doan-sau]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/wittgenstein-thich-giai-doan-nao"
+    },
+    {
+      "text": "\\* Câu hỏi bổ sung, khoảng [[pp:wittgenstein-thich-giai-doan-nao/n]] người trả lời; % là tỉ lệ chấp nhận hoặc nghiêng về.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/wittgenstein-thich-giai-doan-nao"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey"
+        }
+      ]
+    },
+    {
+      "text": "Mẫu là các triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "This allows broader information about views within the English-speaking philosophical community.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "**Phiên bản mạnh (thuyết quyết định ngôn ngữ) gần như không còn ai bênh vực** trong ngôn ngữ học và triết học đương đại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic determinism isn’t an especially promising doctrine and has few adherents these days, but linguistic relativity is the subject of a spirited debate",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "(thuyết quyết định ngôn ngữ)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "(tất định luận ngôn ngữ)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
+          "where": "mục 4.3; đối chiếu HUONG-DAN-VIET.md bảng thuật ngữ bắt buộc: determinism → tất định luận, “quyết định luận” ghi (sai)"
+        }
+      ]
+    },
+    {
+      "text": "**Phiên bản yếu là vùng nghiên cứu đang hoạt động**",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic determinism isn’t an especially promising doctrine and has few adherents these days, but linguistic relativity is the subject of a spirited debate",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "lập luận ngôn ngữ riêng tư vẫn còn gây tranh cãi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/private-language/",
+          "quote": "The result is that every reading of the argument (including that which follows) is controversial.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "**Quine thì đứng ở một cực khác:** ông nghi ngờ cả ý niệm \"nghĩa\" như một thực thể ổn định.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/quine/",
+          "quote": "But Quine’s scepticism about meanings does not lead to any scepticism about meaningfulness .",
+          "where": "mục 2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "sua",
+  "notes": "Số liệu đúng câu bổ sung, đọc số không vượt quá câu hỏi. Lỗi thuật ngữ như ở #_dau."
+}

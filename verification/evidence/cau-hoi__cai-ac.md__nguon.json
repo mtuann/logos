@@ -1,0 +1,43 @@
+{
+  "unit": "cau-hoi/cai-ac.md#nguon",
+  "hash": "sha256:b908cb8b66b82ebebcd1898c80026f1e9359d3028e9243def323e9033c673b0d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k08",
+  "claims": [
+    {
+      "text": "Calder, Todd, \"The Concept of Evil\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.concept-evil"
+    },
+    {
+      "text": "Calder SEP — URL bản lưu mở được, tác giả khớp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "Copyright © 2022 by Todd Calder", "where": "Author and Citation Info"}
+      ]
+    },
+    {
+      "text": "Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.arendt-hannah-1963-eichmann-in-jerusalem-a-report-on-the-ban"
+    },
+    {
+      "text": "Augustine, *Confessions*, Quyển 7 (khoảng năm 397–400, phạm vi công cộng).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.augustine-confessions-quyen-7-khoang-nam-397400-pham-vi-cong"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": null},
+  "result": "dat",
+  "notes": "Bốn dòng trùng bản ghi sources/ đã đóng băng. Thân bài còn dựa vào SEP Arendt (§6.1) cho các chi tiết về Eichmann; mục Nguồn không liệt kê mục này, nhưng việc thêm nguồn là quyết định của người viết, không phải lỗi."
+}

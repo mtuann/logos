@@ -1,0 +1,77 @@
+{
+  "unit": "cau-hoi/cai-toi.md#tu-kiem-tra",
+  "hash": "sha256:b1e3163fcf9b694ede4c4e0b15aee5f6925bbf0a0e5ac696ca049a171aaaa1fc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k06",
+  "claims": [
+    {
+      "text": "\"answer\": 1, \"explain\": \"Tướng già = sĩ quan trẻ (nhớ), sĩ quan trẻ = cậu bé (nhớ), nhưng tướng già ≠ cậu bé (quên) — vi phạm tính bắc cầu của quan hệ đồng nhất.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "Given the law of transitivity (which says that if C is identical to B and B is identical to A, then C is identical to A)"
+        }
+      ]
+    },
+    {
+      "text": "Điều quan trọng không phải là 'đồng nhất' (một–một) mà là sự tiếp nối và liên kết tâm lý (Quan hệ R), thứ có thể phân nhánh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "ho-so/parfit"
+    },
+    {
+      "text": "Cả hai người đều thỏa mãn tiêu chí tâm lý một cách đối xứng, nhưng không thể cùng là 'bạn', nên tiêu chí chưa đủ để quyết định đồng nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "A more serious worry for psychological-continuity views is that you could be psychologically continuous with two past or future people at once.",
+          "where": "§5"
+        }
+      ]
+    },
+    {
+      "text": "Vì cái gọi là 'người' chỉ là tập hợp của ngũ uẩn (sắc, thọ, tưởng, hành, thức), mỗi uẩn đều vô thường — như chữ 'xe' chỉ là tên gọi cho tập hợp các bộ phận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "to have a single name for the parts when assembled in the right way"
+        }
+      ]
+    },
+    {
+      "text": "Quan điểm tâm lý dẫn đầu (43,7%) nhưng không đạt đa số; câu hỏi máy dịch chuyển chia rẽ gần đều (sống sót 35,2% / chết 40,1%)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
+    },
+    {
+      "text": "Câu hỏi sống/chết qua máy dịch chuyển là một trong những câu chia rẽ nhất khảo sát, phù hợp với nhận định của Parfit về tính không rạch ròi của trực giác 'sống sót'.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Câu hỏi sống/chết qua máy dịch chuyển không có lựa chọn nào đạt đa số, phù hợp với nhận định của Parfit về tính không rạch ròi của trực giác 'sống sót'.",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "The results provide a snapshot of the state of some central debates in philosophy",
+          "where": "không nguồn đã mở nào xếp hạng mức chia rẽ"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Quiz mind-3, 5 câu: đáp án đúng (answer 1) đều đúng; phương án sai đều sai rõ; lời giải khớp bài. Số 43,7 / 35,2 / 40,1 khớp philpapers (câu chính). Chỉ một lỗi nhẹ: lời giải câu 5 lặp khái quát \"chia rẽ nhất\" không nguồn. Không đổi data-id."
+}

@@ -1,0 +1,71 @@
+{
+  "unit": "cau-hoi/quyen-rieng-tu-so.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:f94c1c8dd6621aad0f0ab4045b7c9b21c492a4461c20972d3555a06de4dd14dd",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư hay giám sát (câu gần nhất với đạo đức công nghệ là câu bổ sung về kỹ thuật di truyền trên người — một chủ đề khác)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ky-thuat-di-truyen-tren-nguoi"
+    },
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về quyền riêng tư hay giám sát",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dailynous.com/2020/10/16/2020-philpapers-survey-begins/",
+          "quote": "questions on abortion, animals, AI, capital punishment, environmental ethics, genetic engineering, history, law, method, uploading, values in science",
+          "where": "nguồn yếu: bình luận của nhóm khảo sát trên Daily Nous; danh sách đầy đủ 100 câu trong tools/philpapers-2020.md (đã rà, không có câu về riêng tư/giám sát)"
+        },
+        {
+          "url": "https://www.greaterwrong.com/posts/JTekFwz3rWjsirBbr/2020-philpapers-survey-results",
+          "quote": "Regarding “ Human genetic engineering : permissible or impermissible?”"
+        }
+      ]
+    },
+    {
+      "text": "Trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dailynous.com/2020/10/16/2020-philpapers-survey-begins/",
+          "quote": "I answered all 100 questions this morning"
+        }
+      ]
+    },
+    {
+      "text": "từ bài báo nền móng của Warren và Brandeis (1890) đến lý thuyết toàn vẹn ngữ cảnh của Nissenbaum (2004, 2009)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nissenbaum-helen-2004-privacy-as-contextual-integrity-washin"
+    },
+    {
+      "text": "hàng loạt tranh luận sau vụ Snowden (2013) về giám sát của nhà nước",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "Edward Snowden, an employee at the NSA, who in 2013 published highly classified data from the NSA"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/privacy/",
+          "quote": "the disclosure prompted many heated cultural debates in different countries, as well as international academic debates"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục ghi đúng là không có số liệu; không vượt quá dữ kiện. Đã rà danh sách 100 câu (40 chính + 60 bổ sung) trong tools/philpapers-2020.md: không có câu về riêng tư hay giám sát; câu bổ sung \"Kỹ thuật di truyền trên người\" có trong kho đóng băng. \"Câu gần nhất với đạo đức công nghệ\" là nhận định của bài, chấp nhận được."
+}

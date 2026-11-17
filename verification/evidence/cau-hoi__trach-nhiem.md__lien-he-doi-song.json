@@ -1,0 +1,46 @@
+{
+  "unit": "cau-hoi/trach-nhiem.md#lien-he-doi-song",
+  "hash": "sha256:9f31a8b9b9ea9e8e584dea9a2064e4dedaa9f3cf11d2ac55d758b2e49d3557b1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k08",
+  "claims": [
+    {
+      "text": "Theo Strawson, cơn giận đó là thái độ phản ứng tự nhiên […] Nhưng chính Strawson cũng nhắc: thực hành của ta vốn có những \"van an toàn\" — \"nó không cố ý\", \"nó còn trẻ\", \"nó đã xin lỗi\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/", "quote": "When someone explains that the injury they caused you was entirely unforeseen and accidental, they indicate that their regard for your welfare was not insufficient", "where": "§2.2.1 (lý do miễn trách trong thực hành theo Strawson)"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/strawson/", "quote": "Perhaps the person who stood on my foot is a child", "where": "§8"}
+      ]
+    },
+    {
+      "text": "Khi người nói nhận mình là *nguồn* của hành động […] và thể hiện rằng cơ chế của họ đã thay đổi […] Đó chính là ngôn ngữ của Fischer, nói theo cách đời thường.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/", "quote": "she believes that she is an apt target for blame and praise for acting from", "where": "§2.4 (điều kiện \"take responsibility\" của Fischer và Ravizza); áp dụng vào lời xin lỗi là diễn giải của bài, có ghi \"nói theo cách đời thường\""}
+      ]
+    },
+    {
+      "text": "Có lẽ đó là lý do nhiều nhà giáo dục khuyên: phạt thì gắn với hành vi cụ thể và cách sửa, đừng gắn với \"bản chất\" của đứa trẻ (\"con là đứa hư\").",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Có lẽ vì thế mà khi phạt, ta nên gắn lời phạt với hành vi cụ thể và cách sửa, đừng gắn với \"bản chất\" của đứa trẻ (\"con là đứa hư\").",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/", "quote": "Forward-looking approaches to moral responsibility justify responsibility practices by focusing on the beneficial consequences", "where": "§2.1: văn liệu triết học chỉ hỗ trợ ý \"trách hướng tới tương lai\"; khái quát \"nhiều nhà giáo dục khuyên\" không có nguồn trong bài"}
+      ]
+    },
+    {
+      "text": "Phân biệt hai nghĩa của trách (bản án / lời mời sửa sai) giúp ở đây: lời khen không chỉ là bản án về quá khứ […] mà còn là tín hiệu cho tương lai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/", "quote": "it may be useful to offer certain incentives to agents—to praise and blame them—in order to encourage them to make certain future choices", "where": "§2.1"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Không có dữ kiện Việt Nam, luật hay số liệu. Các ví dụ (khen thưởng, ném đá, dạy con, xin lỗi) là ứng dụng do bài dựng, gắn đúng lập trường. Một khái quát nhẹ không nguồn (\"nhiều nhà giáo dục khuyên\")."
+}

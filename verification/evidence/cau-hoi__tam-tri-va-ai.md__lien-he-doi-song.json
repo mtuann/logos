@@ -1,0 +1,95 @@
+{
+  "unit": "cau-hoi/tam-tri-va-ai.md#lien-he-doi-song",
+  "hash": "sha256:2f20b9482d59fcee4fcb150328e71a1112d118fd60b0f550f4aefc945c4ff3e7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Đạo luật AI của Liên minh châu Âu (*EU AI Act*), Điều 50, yêu cầu các hệ thống AI tương tác trực tiếp với con người phải cho người dùng biết họ đang tương tác với AI, trừ khi điều đó đã hiển nhiên.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+          "quote": "Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious",
+          "where": "Điều 50(1)"
+        }
+      ]
+    },
+    {
+      "text": "Theo các nguồn pháp lý hiện có, nghĩa vụ này áp dụng từ ngày 2/8/2026.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+          "quote": "It shall apply from 2 August 2026.",
+          "where": "Điều 113; Điều 50 không nằm trong các ngoại lệ (a)–(d)"
+        }
+      ]
+    },
+    {
+      "text": "Tháng 11/2024, một nhóm nhà nghiên cứu (trong đó có Robert Long, Jeff Sebo, Jonathan Birch và David Chalmers) công bố báo cáo *Taking AI Welfare Seriously*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "[Submitted on 4 Nov 2024] Title: Taking AI Welfare Seriously Authors: Robert Long , Jeff Sebo"
+        },
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "Jonathan Birch , David Chalmers"
+        }
+      ]
+    },
+    {
+      "text": "Họ không khẳng định AI hiện nay có ý thức. Họ lập luận rằng khả năng ấy trong tương lai gần đủ đáng kể để các công ty bắt đầu chuẩn bị từ bây giờ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "there is a realistic possibility that some AI systems will be conscious and/or robustly agentic in the near future"
+        },
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "AI companies and other actors have a responsibility to start taking it seriously"
+        }
+      ]
+    },
+    {
+      "text": "Người phản đối lo rằng điều này làm phân tán sự chú ý khỏi những tác hại có thật của AI đối với *con người*.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Người phản đối lo rằng điều này có thể lấy đi nguồn lực cần cho những con người và động vật dễ tổn thương.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/pdf/2411.00986",
+          "quote": "diverting essential resources away from vulnerable humans and other animals who really needed them"
+        }
+      ]
+    },
+    {
+      "text": "Đây là một lựa chọn giữa hai loại sai lầm: đối xử tệ với một thực thể có cảm giác, hay dành sự quan tâm đạo đức cho một thứ không cảm thấy gì.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "mistakenly harming AI systems that matter morally and/or mistakenly caring for AI systems that do not"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Điều 50 và ngày 2/8/2026: đối chiếu văn bản gốc Quy định (EU) 2024/1689 trên EUR-Lex (bản /oj), chưa kiểm các sửa đổi sau đó (nếu có); bài đã rào \"theo các nguồn pháp lý hiện có\". Câu về người phản đối: nguồn duy nhất mở được (chính báo cáo) nêu mối lo lấy đi nguồn lực của người và động vật dễ tổn thương, không phải \"tác hại của AI đối với con người\"; không tìm được nguồn cho cách diễn đạt của bài nên đề xuất câu bám báo cáo, lỗi nhẹ."
+}

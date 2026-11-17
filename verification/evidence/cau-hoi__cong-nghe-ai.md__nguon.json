@@ -1,0 +1,97 @@
+{
+  "unit": "cau-hoi/cong-nghe-ai.md#nguon",
+  "hash": "sha256:2c60385c31e197ea22ef792e668d1dc627ea69acbfa91ecb85d2c101c46c0858",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Năm đọc và năm in hai bài của Heidegger theo mục SEP \"Martin Heidegger\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“Die Frage nach der Technik”, lecture given in 1953, published in 1954"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“Gelassenheit, 30. Oktober 1955”, speech delivered 1955, published in 1959"
+        }
+      ]
+    },
+    {
+      "text": "Nozick, *Anarchy, State, and Utopia*: thí nghiệm cỗ máy trải nghiệm.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "plugging into an experience machine limits us to a man-made reality’ (Nozick 1974, p. 43)"
+        }
+      ]
+    },
+    {
+      "text": "Franssen, Maarten, Ibo van de Poel, Michael Klenk & Filippo Santoni de Sio, \"Philosophy of Technology\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/technology/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.technology"
+    },
+    {
+      "text": "Heidegger, Martin (1954), \"Die Frage nach der Technik\" (bài giảng năm 1953), trong *Vorträge und Aufsätze*, Pfullingen: Neske.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.heidegger-martin-1954-die-frage-nach-der-technik-bai-giang-n"
+    },
+    {
+      "text": "Heidegger, Martin (1959), *Gelassenheit* (bài nói năm 1955), Pfullingen: Neske; bản tiếng Anh \"Memorial Address\" trong *Discourse on Thinking*, bản dịch John M. Anderson & E. Hans Freund, New York: Harper & Row, 1966.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.heidegger-martin-1959-gelassenheit-bai-noi-nam-1955-pfulling"
+    },
+    {
+      "text": "Wrathall, Mark, “Martin Heidegger”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/heidegger/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.heidegger"
+    },
+    {
+      "text": "Ellul, Jacques (1954), *La Technique ou l'enjeu du siècle*, Paris: Armand Colin (bản tiếng Anh *The Technological Society*, 1964, New York: Knopf).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.ellul-jacques-1954-la-technique-ou-l-enjeu-du-siecle-paris-a"
+    },
+    {
+      "text": "Bostrom, Nick (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford: Oxford University Press; và (2005), \"In Defense of Posthuman Dignity\", *Bioethics* 19(3): 202–214. <https://doi.org/10.1111/j.1467-8519.2005.00437.x>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1111-j-1467-8519-2005-00437-x"
+    },
+    {
+      "text": "Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nozick-robert-1974-anarchy-state-and-utopia-new-york-basic-b"
+    },
+    {
+      "text": "Winner, Langdon (1980), \"Do Artifacts Have Politics?\", *Daedalus* 109(1): 121–136.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.winner-langdon-1980-do-artifacts-have-politics-daedalus-1091"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả 9 dòng trùng nguyên văn bản ghi sources/* đã đóng băng. Đã mở lại trong phiên: SEP technology và heidegger (bản lưu fall2026), nickbostrom.com/ethics/dignity (Bioethics 19(3): 202–214), bài Winner (bản quét JSTOR), trang bài Bourget & Chalmers."
+}

@@ -1,0 +1,91 @@
+{
+  "unit": "cau-hoi/loi-chung.md#tu-kiem-tra",
+  "hash": "sha256:6207267653a26722041c3252c7180dad199678f4e40a1e2184c5d86ba97898f9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Khi sự sai lầm của lời chứng còn khó tin hơn cả phép lạ đó",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "quotes/david-hume.an-enquiry-concerning-human-understandin",
+      "sources": [
+        {
+          "url": "https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp",
+          "quote": "If the falsehood of his testimony would be more miraculous, than the event which he relates; then, and not till then, can he pretend to command my belief or opinion."
+        }
+      ]
+    },
+    {
+      "text": "Phe giản lược đòi lý do độc lập với lời chứng mới được tin; phe chống giản lược cho ta quyền mặc định tin trừ khi có lý do nghi ngờ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Reductionists maintain that in order to acquire testimonial justification, one must have positive reasons for thinking that the speaker in question is a reliable testifier."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Instead, we have a defeasible but presumptive right to believe what people tell us."
+        }
+      ]
+    },
+    {
+      "text": "Nguyên tắc nói thật (veracity) và nguyên tắc cả tin (credulity)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/aninquiryintothe00reiduoft/aninquiryintothe00reiduoft_djvu.txt",
+          "quote": "as that may be called the principle of veracity , we (hall, for want of a more proper name, call this the principle of cre- dulity.",
+          "where": "Inquiry, ch. VI, sect. XXIV"
+        }
+      ]
+    },
+    {
+      "text": "Xem ai được giới chuyên môn công nhận, có công trình kiểm chứng được, và không bán sản phẩm đi kèm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Evidence of the experts’ interests and biases vis-a-vis the question at issue. Evidence of the experts’ past “track-records”."
+        }
+      ]
+    },
+    {
+      "text": "Goldman khuyên dùng nhiều dấu hiệu gián tiếp độc lập: sự công nhận của đồng nghiệp, hồ sơ thành tích kiểm chứng được, xung đột lợi ích.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Goldman nêu nhiều nguồn bằng chứng gián tiếp: sự công nhận của đồng nghiệp, hồ sơ thành tích kiểm chứng được, xung đột lợi ích; dùng nhiều dấu hiệu độc lập cùng lúc thì an toàn hơn.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Goldman explores five potential evidential sources for reasonably determining someone to be an expert in a domain"
+        }
+      ]
+    },
+    {
+      "text": "Vì chuyên môn gắn với lĩnh vực: các dấu hiệu đáng tin của ông trong y khoa không chuyển sang lĩnh vực kinh tế",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "for reasonably determining someone to be an expert in a domain"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đã kiểm cả 5 câu (data-id knowledge-2): đáp án đúng đều đúng, các phương án sai đều sai, lời giải khớp thân bài. Claim nhẹ: lời giải câu 4 gán cho Goldman lời \"khuyên dùng nhiều dấu hiệu độc lập\" — cùng vấn đề với đơn vị cac-lap-truong-chinh; fix chỉ sửa chuỗi \"explain\", không đổi data-id hay đáp án."
+}

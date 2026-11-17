@@ -1,0 +1,85 @@
+{
+  "unit": "cau-hoi/dao-duc-ung-dung.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:8e25f23a0bed0f999a79ba82a142fea17e4d6e9a5c940d8c61768d1862baa228",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k10",
+  "claims": [
+    {
+      "text": "Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số liệu trực tiếp: một **câu chính** (hỏi mọi người tham gia) về việc ăn động vật và sản phẩm động vật.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Câu hỏi là: trong hoàn cảnh bình thường, ăn động vật và/hoặc sản phẩm động vật (sữa, trứng…) có được phép không. \"Ăn chay\" ở đây nghĩa là: ăn thịt thì không được phép, dùng sản phẩm động vật thì được.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Eating animals and animal products (is it permissible to eat animals and/or animal products in ordinary circumstances?) Omnivorism (yes and yes) 847 48.0 Vegetarianism (no and yes) 467 26.5 Veganism (no and no) 324 18.4",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "Gần một nửa ([[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.an-tap-duoc-an-ca-thit-lan-san-pham-dong-vat]]%) cho rằng ăn cả thịt lẫn sản phẩm động vật là được phép; nhưng cộng hai nhóm còn lại, khoảng 45% cho rằng ăn thịt là *không* được phép",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong"
+    },
+    {
+      "text": "Mẫu khảo sát có giới hạn:** triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "with strongest coverage on English-speaking and English-publishing philosophers"
+        }
+      ]
+    },
+    {
+      "text": "Với câu hỏi thứ hai — bổn phận với người nghèo đói ở xa, và đến mức nào — khảo sát **không có câu hỏi nào**, nên ở đó chưa có số liệu.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "the list of questions was expanded from 30 questions to 100 questions",
+          "where": "đã dò toàn văn Bảng 1–2: không có từ \"poverty\", \"charity\", \"famine\""
+        }
+      ]
+    },
+    {
+      "text": "*Animal Liberation* được ghi nhận là ngòi nổ của phong trào quyền động vật toàn cầu, còn bài báo 1972 trở thành nguồn cảm hứng lớn cho phong trào \"vị tha hiệu quả\" (*effective altruism*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelifeyoucansave.org/peter-singer/",
+          "quote": "often credited with starting the modern animal rights movement"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
+          "quote": "Effective altruism’s roots, however, can be found in Peter Singer’s argument, dating back to his famous 1972 article"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số % khớp tools/philpapers-2020.md Bảng 1 (48,0 / 26,5 / 18,4 / 9,9); 26,5 + 18,4 = 44,9 ≈ 45%. Diễn đạt đúng \"chấp nhận hoặc nghiêng về\", đúng câu chính. Nhận định đi kèm không vượt số liệu."
+}

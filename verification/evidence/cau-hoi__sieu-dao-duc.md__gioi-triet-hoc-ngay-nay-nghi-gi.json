@@ -1,0 +1,117 @@
+{
+  "unit": "cau-hoi/sieu-dao-duc.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:a109e1ded73aa6b7ebd155fdb780a4e71c668fe521cd65b5f901879e9564812b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k09",
+  "claims": [
+    {
+      "text": "Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sung (chỉ hỏi ai chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Dưới đây là hai câu chính (hỏi mọi người) và một câu bổ sung (mỗi câu bổ sung chỉ được hỏi ngẫu nhiên một phần sáu người tham gia, ai muốn có thể trả lời thêm) của khảo sát PhilPapers 2020 liên quan trực tiếp tới bài:",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "each of which would be asked to one-sixth of participants (selected randomly)"
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Participants were also given the option of answering some or all of the other 50 additional questions if they chose to"
+        }
+      ]
+    },
+    {
+      "text": "Siêu đạo đức học (câu chính): hiện thực luận / phản hiện thực luận / khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/sieu-dao-duc-hoc-meta-ethics",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Meta-ethics Moral realism 1067 62.1 Moral anti-realism 449 26.1 Other 202 11.8"
+        }
+      ]
+    },
+    {
+      "text": "Phán đoán đạo đức (câu chính): thuyết nhận thức / phi nhận thức / khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/phan-doan-dao-duc",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Moral judgment Cognitivism 1133 69.3 Non-cognitivism 339 20.7 Other 169 10.3"
+        }
+      ]
+    },
+    {
+      "text": "Bản chất của đạo đức (câu bổ sung): hiện thực luận tự nhiên, phi tự nhiên luận, kiến tạo luận, biểu cảm luận, thuyết sai lầm, khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-chat-cua-dao-duc",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Morality Non-naturalism 272 26.6 248 24.2 Naturalist realism 324 31.6"
+        }
+      ]
+    },
+    {
+      "text": "Số liệu là % người \"chấp nhận hoặc nghiêng về\"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "We present inclusive figures in all cases."
+        }
+      ]
+    },
+    {
+      "text": "Đa số nghiêng về hiện thực luận và thuyết nhận thức. Khoảng chênh phù hợp với việc có người theo thuyết nhận thức mà không theo hiện thực luận, như người theo thuyết sai lầm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/phan-doan-dao-duc",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-anti-realism/",
+          "quote": "The error theorist is a cognitivist"
+        }
+      ]
+    },
+    {
+      "text": "Câu bổ sung chia nhỏ hơn: không lập trường nào vượt một phần ba; câu này có mẫu khác nên đừng so thẳng với câu chính. Không có lựa chọn \"tương đối luận\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-chat-cua-dao-duc"
+    },
+    {
+      "text": "Thận trọng với mẫu: triết gia chuyên nghiệp ở các nước nói tiếng Anh hoặc có công bố bằng tiếng Anh, đại đa số theo truyền thống phân tích — chính các tác giả thừa nhận bộ câu hỏi thiên về triết học phân tích",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "English-publishing philosophers in BA-granting philosophy departments"
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "A large majority of respondents specified an analytic orientation"
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "we acknowledge an overall bias toward certain relatively traditional issues in the analytic and English-speaking canons"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat"
+}

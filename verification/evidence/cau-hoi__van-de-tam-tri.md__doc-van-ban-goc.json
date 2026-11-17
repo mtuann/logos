@@ -1,0 +1,41 @@
+{
+  "unit": "cau-hoi/van-de-tam-tri.md#doc-van-ban-goc",
+  "hash": "sha256:9356fd0f76e1cc9b6f23cb5f7ec5f5a6d4af2cc98115954072303bf21bdeb90f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "\"...I rightly conclude that my essence consists only in my being a thinking thing... it is certain that I, [that is, my mind, by which I am what I am], is entirely and truly distinct from my body, and may exist without it.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/descartes.suy-niem-ve-triet-hoc-de-nhat-2",
+      "sources": [
+        {"url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI", "quote": "I rightly conclude that my essence consists only in my being a thinking thing", "where": "đoạn 9"},
+        {"url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI", "quote": "it is certain that I, [that is, my mind, by which I am what I am], is entirely and truly distinct from my body, and may exist without it.", "where": "đoạn 9, cuối đoạn"}
+      ]
+    },
+    {
+      "text": "Descartes, *Suy niệm về Triết học Đệ nhất*, Suy niệm VI, 1641 (bản tiếng Anh của John Veitch)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/wikisource.en.meditations-on-first-philosophy-meditation-vi"
+    },
+    {
+      "text": "\"...tôi kết luận một cách đúng đắn rằng bản chất của tôi chỉ gồm ở chỗ tôi là một vật suy nghĩ... điều chắc chắn là tôi, [tức là tâm trí tôi, cái làm cho tôi là chính tôi], hoàn toàn và thực sự khác biệt với thân thể tôi, và có thể tồn tại mà không cần nó.\" *(bản dịch của Logos)*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "quotes/descartes.suy-niem-ve-triet-hoc-de-nhat-2"
+    },
+    {
+      "text": "Câu hỏi dẫn dắt 1: Descartes nói chỉ cần \"quan niệm rành mạch hai thứ tách rời nhau\" là đủ để kết luận chúng thật sự khác nhau.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI", "quote": "it is sufficient that I am able clearly and distinctly to conceive one thing apart from another, in order to be certain that the one is different from the other", "where": "đoạn 9"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Trích đoạn trùng bản ghi quotes/* đã đóng băng và đúng từng chữ với Wikisource (bản Veitch, phạm vi công cộng); dấu '...' đánh dấu đúng chỗ lược bỏ. Bản dịch của Logos sát nghĩa. Có từ khóa *counterexample* (phản ví dụ) đúng bảng."
+}

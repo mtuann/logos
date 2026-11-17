@@ -1,0 +1,45 @@
+{
+  "unit": "cau-hoi/tam-tri-va-ai.md#thi-nghiem-tu-duy",
+  "hash": "sha256:c2fb5ffee91f12dfb26749bb9614f93b1894820ae8f74599fb8190753a256629",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Bạn được nhốt trong một căn phòng, không biết một chữ Hán nào. Qua khe cửa, người ta đưa vào những tờ giấy viết chữ Hán. Bạn có một cuốn sổ quy tắc rất dày bằng tiếng Việt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Searle imagines himself alone in a room following a computer program for responding to Chinese characters slipped under the door.",
+          "where": "§1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Imagine a native English speaker who knows no Chinese locked in a room full of boxes of Chinese symbols (a data base) together with a book of instructions for manipulating the symbols (the program)."
+        }
+      ]
+    },
+    {
+      "text": "Người bên ngoài, vốn là người Trung Quốc, đọc các câu trả lời và thấy chúng hoàn toàn tự nhiên, sâu sắc, hài hước. Họ tin rằng trong phòng có một người hiểu tiếng Trung.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "The human produces the appearance of understanding Chinese by following the symbol manipulating instructions, but does not thereby come to understand Chinese.",
+          "where": "§3"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Thí nghiệm thứ nhất (trợ lý AI) do bài tự dựng, không gán cho ai. Thí nghiệm thứ hai là căn phòng tiếng Trung của Searle, được Việt hóa (sổ quy tắc bằng tiếng Việt thay cho tiếng Anh); tên Searle và năm 1980 được nêu ở mục Các lập trường chính. Chi tiết then chốt (người trong phòng không hiểu, thao tác ký hiệu theo sổ quy tắc, người bên ngoài tưởng có người hiểu) giữ đúng."
+}

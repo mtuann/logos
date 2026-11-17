@@ -1,0 +1,85 @@
+{
+  "unit": "cau-hoi/loi-chung.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:8a125907f63289c0272dbb5df3654a43f90c4511be5d29653c374c81ddf82aed",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về lời chứng, nên không có con số để trích ở đây.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "toàn văn bài có Bảng 1 (100 câu chính) và Bảng 2 (câu bổ sung); không câu nào chứa \"testimony\""
+        }
+      ]
+    },
+    {
+      "text": "Điều có thể nói chắc chắn là tranh luận giữa thuyết giản lược và thuyết chống giản lược vẫn là một trong những trục chính của tri thức luận đương đại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "First Big Question : Is testimony a basic source of justification, or can testimonial justification be reduced to a combination of other epistemic sources?"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Those who defend answers to this question tend to endorse one of three main positions: Reductionism , Non-Reductionism , and Hybrid Views ."
+        }
+      ]
+    },
+    {
+      "text": "từ C. A. J. Coady (*Testimony: A Philosophical Study*, 1992) bên phía chống giản lược đến Elizabeth Fricker bên phía giản lược.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Coady, C. A. J., 1992, Testimony: A Philosophical Study , Oxford: Clarendon Press."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Coady (1992, 1994), Burge (1993, 1997, 2013)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Reductionist views have been defended by E. Fricker (1987, 1994, 1995, 2002, 2006a, 2006b)"
+        }
+      ]
+    },
+    {
+      "text": "Nhớ lại lời dặn trong [bài tri thức](tri-thuc.md): số đông không quyết định chân lý.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Nhớ rằng số đông không quyết định chân lý."
+        }
+      ]
+    },
+    {
+      "text": "Tranh luận này cũng là cửa ngõ vào một lĩnh vực lớn hơn gọi là **tri thức luận xã hội** (*social epistemology*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epistemology-social/",
+          "quote": "When it comes to the various ways we rely on others as we engage in the pursuit of truth, testimony is paradigmatic."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Không có shortcode PhilPapers. Đã tìm \"testimony\" trong toàn văn Bourget & Chalmers 2023: 0 kết quả; tools/philpapers-2020.md cũng không có câu về lời chứng. Câu \"Điều có thể nói chắc chắn\" hơi mạnh nhưng được SEP ủng hộ (First Big Question)."
+}

@@ -1,0 +1,78 @@
+{
+  "unit": "cau-hoi/an-tu-hinh.md#lien-he-doi-song",
+  "hash": "sha256:fa22157872551bc00388addbda6a21bf175e4a46ac97e0528f5f2c56bf6fade9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k12",
+  "claims": [
+    {
+      "text": "Vụ án Hồ Duy Hải ở Việt Nam — với những tranh cãi kéo dài về chứng cứ và quy trình tố tụng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://thanhnien.vn/thoi-su/ky-an-tu-tu-ho-duy-hai-vi-sao-vien-ksnd-toi-cao-khang-nghi-dieu-tra-lai-1154523.html",
+          "quote": "Vụ án Hồ Duy Hải xảy ra tháng 1.2008, đã qua 2 cấp sơ thẩm và phúc thẩm đều tuyên tử hình bị cáo",
+          "where": "nguồn yếu: báo Thanh Niên, 02/12/2019"
+        },
+        {
+          "url": "https://thanhnien.vn/thoi-su/ky-an-tu-tu-ho-duy-hai-vi-sao-vien-ksnd-toi-cao-khang-nghi-dieu-tra-lai-1154523.html",
+          "quote": "Viện trưởng Viện KSND tối cao có kháng nghị giám đốc thẩm",
+          "where": "nguồn yếu: báo Thanh Niên"
+        },
+        {
+          "url": "https://thanhnien.vn/thoi-su/ky-an-tu-tu-ho-duy-hai-vi-sao-vien-ksnd-toi-cao-khang-nghi-dieu-tra-lai-1154523.html",
+          "quote": "Hàng loạt mâu thuẫn không được làm rõ",
+          "where": "nguồn yếu: báo Thanh Niên"
+        }
+      ]
+    },
+    {
+      "text": "ở Mỹ, một vụ án tử tốn kém hơn nhiều lần một vụ án chung thân",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "ở Mỹ, một vụ án tử tốn kém hơn nhiều so với một vụ án chung thân",
+      "sources": [
+        {
+          "url": "https://deathpenaltyinfo.org/policy-issues/costs",
+          "quote": "The death penalty is far more expensive than a system utilizing life-without-parole sentences as an alternative punishment."
+        },
+        {
+          "url": "https://deathpenaltyinfo.org/policy-issues/costs",
+          "quote": "Death-penalty trials can last more than four times longer than non-capital trials"
+        }
+      ]
+    },
+    {
+      "text": "để giảm rủi ro oan sai, hệ thống phải kéo dài thủ tục kháng cáo hàng chục năm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://deathpenaltyinfo.org/policy-issues/costs",
+          "quote": "the longer trials and appeals required when a person’s life is on the line"
+        }
+      ]
+    },
+    {
+      "text": "Trường học phạt nặng để \"làm gương\", công ty sa thải công khai để \"răn đe\", bố mẹ đánh đòn để \"cho chừa\" — tất cả đều dùng cùng một logic hệ quả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "consequentialist accounts regard punishment as justified instrumentally, as a means to achieving some valuable goal (typically crime reduction)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Bài không đánh giá vụ Hồ Duy Hải, chỉ nói có tranh cãi về chứng cứ và tố tụng: khớp báo Thanh Niên (kháng nghị giám đốc thẩm của Viện trưởng VKSND tối cao 2019). DPIC không nêu bội số chi phí; \"nhiều lần\" nói mạnh hơn nguồn (lỗi nhẹ)."
+}

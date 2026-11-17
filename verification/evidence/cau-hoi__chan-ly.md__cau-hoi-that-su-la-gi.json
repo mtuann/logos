@@ -1,0 +1,102 @@
+{
+  "unit": "cau-hoi/chan-ly.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:15f69ebe29fe7c3f54c144f913215b8a4e596ed67fc813eb6ef865e983752969",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k02",
+  "claims": [
+    {
+      "text": "Các lý thuyết dưới đây trả lời: một **sự kiện** (*fact* — \"điều có thật\", không phải \"biến cố\"); sự ăn khớp với các niềm tin khác; điểm đến của sự truy tìm; hoặc chẳng có \"cái gì làm cho\" cả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827.txt",
+          "quote": "What makes a belief true is a _fact_",
+          "where": "Russell 1912, chương XII"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/",
+          "quote": "this role is neither metaphysically substantive nor explanatory",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "**nguyên tắc nhị trị** (*principle of bivalence*): mọi khẳng định hoặc đúng hoặc sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "the principle of bivalence : every truth-bearer (sentence or proposition) is true or false"
+        }
+      ]
+    },
+    {
+      "text": "Nó khác với **nguyên tắc loại trừ thứ ba** (*law of excluded middle*): \"S hoặc không S\" luôn đúng — một định luật của logic, không phải một khẳng định về giá trị chân lý của từng câu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dialetheism/",
+          "quote": "The LEM says (informally) that for every sentence \\(A\\), either \\(A\\) or \\(\\neg A\\) is true (we bracket here views that disentangle the LEM from Bivalence)."
+        }
+      ]
+    },
+    {
+      "text": "Michael Dummett coi việc giữ hay buông nguyên tắc nhị trị với những câu không thể kiểm chứng là dấu hiệu phân biệt **hiện thực luận** (*realism*) với phản hiện thực.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "In much of his work, Dummett has made this the characteristic mark of realism, and often identifies realism about some subject-matter with accepting bivalence for discourse about that"
+        }
+      ]
+    },
+    {
+      "text": "bài [Mọi thứ đã được viết sẵn?](dinh-menh.md) gọi đó là \"logic hai giá trị\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dinh-menh/",
+          "quote": "thì logic hai giá trị (mọi câu hoặc đúng hoặc sai) có ngoại lệ?",
+          "where": "trang đích, Thí nghiệm tư duy"
+        }
+      ]
+    },
+    {
+      "text": "Bài [Bảng chân trị](../cong-cu/logic-menh-de.md) dùng **chân trị** (*truth value*) như những giá trị có sẵn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Bảng chân trị: khi lập luận thành phép tính",
+          "where": "tiêu đề trang đích"
+        }
+      ]
+    },
+    {
+      "text": "**Câu hỏi thứ ba: \"đúng\" có phải một tính chất thật sự không?** […] Hay \"đúng\" chỉ là một công cụ ngôn ngữ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-deflationary/",
+          "quote": "Inflationary theories all assume that the expression ‘is true’ is a descriptive predicate, expressing an explanatory concept of truth, which determines a substantive property of truth."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ba câu hỏi đặt đúng trục tranh luận trong SEP Truth (tương ứng/mạch lạc/thực dụng/giảm phát; hiện thực luận và nhị trị theo Dummett)."
+}

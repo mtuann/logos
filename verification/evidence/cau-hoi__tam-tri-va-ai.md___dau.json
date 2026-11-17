@@ -1,0 +1,114 @@
+{
+  "unit": "cau-hoi/tam-tri-va-ai.md#_dau",
+  "hash": "sha256:1628996a9625351050ec925f4c97fa5c0cb9ba1356de038a001b9009eb4d50dd",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k05",
+  "claims": [
+    {
+      "text": "Bài tách thành ba câu hỏi: hành vi thông minh, *hiểu* (ý hướng tính), và *ý thức* (cảm giác như thế nào).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consciousness/",
+          "quote": "According to Nagel, a being is conscious just if there is “something that it is like” to be that creature"
+        }
+      ]
+    },
+    {
+      "text": "chủ nghĩa chức năng — tâm trí là cái nó *làm*, silicon cũng có thể có tâm trí (tính đa hiện thực; thí nghiệm thay nơ-ron bằng chip của Chalmers 1996)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/functionalism/",
+          "quote": "pain can be realized by different types of physical states in different kinds of creatures, or multiply realized"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "following Pylyshyn 1980, Cole and Foelber 1984, and Chalmers 1996, we might wonder about gradually transitioning cyborg systems",
+          "where": "§4.3"
+        }
+      ]
+    },
+    {
+      "text": "Searle (căn phòng tiếng Trung, 1980) — cú pháp không đủ cho ngữ nghĩa, tâm trí cần sức mạnh nhân quả của não sinh học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "In 1980 John Searle published “Minds, Brains and Programs” in the journal",
+          "where": "§3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Searle sees intentionality as a causal power of the brain"
+        }
+      ]
+    },
+    {
+      "text": "phép thử Turing (1950) — hãy nhìn vào hành vi, nhưng Blockhead (Block 1981) và LLM cho thấy hành vi giống người chưa đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/turing-test/",
+          "quote": "Ned Block’s “Blockhead” thought experiment is often said to be a (putative) knockdown objection to The Turing Test. (Block (1981) contains a direct discussion of The Turing Test in this context.)"
+        }
+      ]
+    },
+    {
+      "text": "vấn đề khó (Chalmers 1995) — có thể ta không bao giờ biết chắc, nên dùng \"đặc tính chỉ báo\" để ước lượng (báo cáo Butlin & Long 2023; Cogitate 2025 không xác nhận trọn vẹn lý thuyết nào)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://consc.net/papers/facing.html",
+          "quote": "The really hard problem of consciousness is the problem of experience"
+        },
+        {
+          "url": "https://arxiv.org/abs/2308.08708",
+          "quote": "From these theories we derive \"indicator properties\" of consciousness"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41586-025-08888-1",
+          "quote": "These results align with some predictions of IIT and GNWT, while substantially challenging key tenets of both theories."
+        }
+      ]
+    },
+    {
+      "text": "Thái độ của bài: không phép thử hành vi hay phép đo cấu trúc nào chứng minh dứt khoát được một cỗ máy có ý thức; khi không thể chắc chắn, một ước lượng có lý do vẫn tốt hơn đoán mò.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- Thái độ của bài: câu hỏi vẫn bỏ ngỏ. Nếu zombie triết học hình dung được, thì không phép thử hành vi hay phép đo cấu trúc nào chứng minh dứt khoát được một cỗ máy có ý thức; những người theo hướng \"đặc tính chỉ báo\" đáp rằng khi không thể chắc chắn, một ước lượng có lý do vẫn tốt hơn đoán mò.",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2303.07103",
+          "quote": "I conclude that while it is somewhat unlikely that current large language models are conscious, we should take seriously the possibility that successors to large language models may be conscious in the not-too-distant future."
+        }
+      ]
+    },
+    {
+      "text": "Hôm nay, hàng trăm triệu người trò chuyện với chatbot mỗi tuần.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.nber.org/papers/w34255",
+          "quote": "We document the growth of ChatGPT’s consumer product from its launch in November 2022 through July 2025, when it had been adopted by around 10% of the world’s adult population."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": false,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Claim \"Thái độ của bài\": thân bài nói câu \"không phép thử... chứng minh dứt khoát\" ở dạng điều kiện (nếu zombie hình dung được) và gán \"ước lượng có lý do tốt hơn đoán mò\" cho những người theo hướng chỉ báo (mục 4, Cách đáp lại); phần Giới triết học kết luận câu hỏi \"hoàn toàn bỏ ngỏ\". Tóm tắt biến hai ý được gán cho một lập trường thành thái độ của bài, lệch thân bài và nghiêng về một bên. Câu \"hàng trăm triệu người... mỗi tuần\" là số liệu thời sự trong thân bài Lõi; NBER (7/2025) cho ~10% người trưởng thành thế giới, đủ cho \"hàng trăm triệu\"; lint_volatile hiện không chặn câu này."
+}

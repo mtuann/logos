@@ -1,0 +1,164 @@
+{
+  "unit": "cau-hoi/tri-thuc.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:e3e7241fb3eed747c5580233329ee896567502b524db1291ca1eb764f3712c5e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k01",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers năm 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp về nhiều câu hỏi trong bài này. Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn (một người có thể chọn nhiều đáp án, nên tổng có thể vượt 100%).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Of the main target population of 7685 philosophers, 1785 (23%) completed the survey."
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer."
+        }
+      ]
+    },
+    {
+      "text": "| Thế giới bên ngoài | Thực tại luận phi hoài nghi | [[pp:the-gioi-ben-ngoai.thuc-tai-luan-phi-hoai-nghi]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/the-gioi-ben-ngoai"
+    },
+    {
+      "text": "| Đáp lại hoài nghi (cách nào mạnh nhất?)* | Thực dụng | [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat.thuc-dung]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat"
+    },
+    {
+      "text": "| Phân tích khái niệm tri thức* | Niềm tin đúng được biện minh (JTB) | [[pp:phan-tich-khai-niem-tri-thuc.niem-tin-dung-duoc-bien-minh-jtb]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/phan-tich-khai-niem-tri-thuc"
+    },
+    {
+      "text": "| Biện minh tri thức | Ngoại tại luận | [[pp:bien-minh-tri-thuc-epistemic-justification.ngoai-tai-luan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/bien-minh-tri-thuc-epistemic-justification"
+    },
+    {
+      "text": "| Tri thức (nguồn gốc) | Duy nghiệm luận | [[pp:tri-thuc-nguon-goc.duy-nghiem-luan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tri-thuc-nguon-goc"
+    },
+    {
+      "text": "| Có tri thức tiên nghiệm không? | Có | [[pp:tri-thuc-tien-nghiem-co-khong.co]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tri-thuc-tien-nghiem-co-khong"
+    },
+    {
+      "text": "\\* Câu hỏi bổ sung, ít người trả lời hơn: khoảng [[pp:dap-lai-hoai-nghi-ve-the-gioi-ben-ngoai-manh-nhat/n]] người (đáp lại hoài nghi) và [[pp:phan-tich-khai-niem-tri-thuc/n]] người (phân tích khái niệm tri thức). Các câu còn lại là câu chính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Of the 60 additional questions, one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory"
+        }
+      ]
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Issue Volume 23 • 2023 Identifiers DOI: https://doi.org/10.3998/phimp.2109"
+        }
+      ]
+    },
+    {
+      "text": "<figcaption>Câu hỏi bổ sung, khoảng 1.020 người trả lời (PhilPapers Survey 2020).</figcaption>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Analysis of knowledge Justified true belief 242 23.6 Other analysis 330 32.2 No analysis 314 30.6 Other 142 13.9",
+          "where": "Table 2; 242+330+314+142 = 1028 lượt chọn, n ≈ 1.020 theo tools/philpapers-2020.md"
+        }
+      ]
+    },
+    {
+      "text": "**Gần như ai cũng tin có thế giới bên ngoài.** Chỉ [[pp:the-gioi-ben-ngoai.hoai-nghi]]% chọn hoài nghi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "External world Idealism 117 6.6 Skepticism 96 5.4 Non-skeptical realism 1403 79.5 Other 172 9.8"
+        }
+      ]
+    },
+    {
+      "text": "Nhưng khi hỏi *cách nào* đáp lại người hoài nghi tốt nhất, các triết gia chia thành nhiều nhóm nhỏ, không câu trả lời nào vượt quá một phần tư.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Abductive 206 22.1 160 17.2 Contextualist 100 10.7 72 7.7 Dogmatist 125 13.4 94 10.1 Epistemic externalist 176 18.9 136 14.6",
+          "where": "Table 2; cao nhất là Pragmatic 22,8%"
+        }
+      ]
+    },
+    {
+      "text": "**Định nghĩa JTB cổ điển chỉ còn khoảng một phần tư ủng hộ**, còn lại chia gần đều giữa \"một phân tích khác\" và \"không có phân tích nào\". Gần sáu mươi năm sau Gettier, vẫn chưa có một định nghĩa tri thức được đa số chấp nhận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Analysis of knowledge Justified true belief 242 23.6 Other analysis 330 32.2 No analysis 314 30.6",
+          "where": "Table 2; 2020 − 1963 = 57 năm"
+        }
+      ]
+    },
+    {
+      "text": "**Duy nghiệm luận nhỉnh hơn duy lý luận**, nhưng gần ba phần tư vẫn cho rằng có tri thức tiên nghiệm. Hai con số này không mâu thuẫn: nhiều người theo duy nghiệm luận vẫn chấp nhận tri thức tiên nghiệm ở phạm vi hẹp, như logic và toán.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Knowledge Empiricism 756 43.9 642 37.3 Rationalism 577 33.5 461 26.8"
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "A priori knowledge Yes 1274 72.8 No 323 18.5",
+          "where": "Table 1; 43,9% + 72,8% − 100% ≥ 16,7% người trả lời vừa chọn duy nghiệm vừa chọn có tri thức tiên nghiệm"
+        }
+      ]
+    },
+    {
+      "text": "Nhớ rằng số đông không quyết định chân lý.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/nguy-bien/",
+          "quote": "Theo số đông"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đối chiếu từng câu diễn giải với tools/philpapers-2020.md và Bảng 1–2 của Bourget & Chalmers (2023): đúng câu chính/câu bổ sung, đúng \"chấp nhận hoặc nghiêng về\". Chú thích sao (*) đúng: \"Đáp lại hoài nghi\" và \"Phân tích khái niệm tri thức\" là câu bổ sung; câu chính n ≈ 1.620–1.760. Bảng chỉ liệt kê 5/6 lựa chọn của câu \"đáp lại hoài nghi\" (thiếu \"ngoại tại luận ngữ nghĩa\" 8,4%) — không sai. \"Gần như ai cũng tin có thế giới bên ngoài\": 79,5% thực tại luận phi hoài nghi + 6,6% duy tâm, chỉ 5,4% hoài nghi; cách nói hơi rộng nhưng câu kế tiếp nêu đúng con số. Số trong hình SVG (23,6 / 32,2 / 30,6 / 13,9) khớp Bảng 2."
+}

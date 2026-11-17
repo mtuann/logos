@@ -1,0 +1,64 @@
+{
+  "unit": "cau-hoi/hien-tang.md#thi-nghiem-tu-duy",
+  "hash": "sha256:bd6a31e9a0371d905990cc61a0403660ff67e31d53f43b29370ca3d11294e167",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Có hai đất nước A và B, giống nhau mọi mặt. ... Sau 10 năm, nước A có tỷ lệ hiến tạng cao gấp nhiều lần nước B",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "http://www.dangoldstein.com/papers/DefaultsScience.pdf", "quote": "In presumed-consent states, people are organ donors unless they register not to be, and in explicit-consent countries, nobody is an organ donor without registering to be one.", "where": "Johnson & Goldstein 2003, tr. 1338"}
+      ]
+    },
+    {
+      "text": "nhiều nước châu Âu (Tây Ban Nha từ năm 1979, Áo, Bỉ...) áp dụng mô hình mặc định đồng ý (*opt-out*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1979-26445", "quote": "Ley 30/1979, de 27 de octubre, sobre extracción y trasplante de órganos.", "where": "Tây Ban Nha, Artículo 5"},
+        {"url": "http://www.dangoldstein.com/papers/DefaultsScience.pdf", "quote": "Effective consent rates, by country. Explicit consent (opt-in, gold) and presumed consent (opt-out, blue).", "where": "Johnson & Goldstein 2003, hình tr. 1338: Austria, Belgium là cột xanh (presumed consent)"}
+      ]
+    },
+    {
+      "text": "nhiều nước khác (trong đó có Việt Nam) áp dụng mô hình đăng ký tự nguyện (*opt-in*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://tienphong.vn/khong-phai-cu-dang-ky-la-hien-duoc-tang-post1890836.tpo", "quote": "Việc đăng ký hoàn toàn tự nguyện, miễn phí, không yêu cầu khám sức khỏe hay xét nghiệm tại thời điểm thực hiện.", "where": "nguồn yếu: báo Tiền Phong, 03/11/2026"}
+      ]
+    },
+    {
+      "text": "Chênh lệch giữa hai nhóm về tỷ lệ người *được tính là đồng ý* là rất lớn (nghiên cứu nổi tiếng của Johnson và Goldstein, 2003)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "http://www.dangoldstein.com/papers/DefaultsScience.pdf", "quote": "The two distributions have no overlap, and nearly 60 percentage points separate the two groups.", "where": "tr. 1339"},
+        {"url": "https://api.crossref.org/works/10.1126/science.1091721", "quote": "Do Defaults Save Lives?", "where": "Science 302(5649): 1338-1339, 2003"}
+      ]
+    },
+    {
+      "text": "còn chênh lệch về số ca hiến thực tế thì nhỏ hơn nhiều và vẫn đang tranh cãi, vì số ca hiến còn phụ thuộc hệ thống y tế và việc gia đình có được hỏi ý kiến hay không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "http://www.dangoldstein.com/papers/DefaultsScience.pdf", "quote": "When donation is the default, there is a 16.3% (P < 0.02) increase in donation", "where": "tr. 1339"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/organ-donation/", "quote": "Since many different factors affect retrieval rates, it is often hard to be confident about the difference that changes to consent would make.", "where": "§1.2.3"}
+      ]
+    },
+    {
+      "text": "Ngay cả thành công của Tây Ban Nha cũng được chính những người xây dựng hệ thống ở đó quy chủ yếu cho cách tổ chức mạng lưới điều phối ghép tạng, hơn là cho điều khoản mặc định đồng ý trong luật năm 1979.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://api.crossref.org/works/10.1136/bmj.c4973", "quote": "Presumed consent: a distraction in the quest for increasing rates of organ donation", "where": "Fabre, Murphy & Matesanz, BMJ 341: c4973 (2010); trang BMJ chặn công cụ nên chỉ đối chiếu siêu dữ liệu"},
+        {"url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Matesanz%20R%22%20AND%20(%22presumed%20consent%22%20OR%20%22opt-out%22)&format=json&resultType=core&pageSize=15", "quote": "In Spain during the last 3 years a well-designed program of transplant organization including a network of well-trained transplant coordinators has been established.", "where": "tóm tắt Matesanz et al. 1994, 'Organ procurement in Spain: impact of transplant coordination' (PMID 8061368)"},
+        {"url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Matesanz%20R%22%20AND%20(%22presumed%20consent%22%20OR%20%22opt-out%22)&format=json&resultType=core&pageSize=15", "quote": "Health care providers must focus on actual barriers to increasing organ donation rather than on presumed consent alone.", "where": "tóm tắt Matesanz & Domínguez-Gil 2019, 'Opt-out legislations: the mysterious viability of the false' (PMID 31122708)"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Thí nghiệm A/B là phiên bản bài tự dựng, và chính bài ghi rõ đây là tình huống tưởng tượng rồi đối chiếu với thực tế. Có dòng 'Hãy dừng lại một phút'. Nguồn tiếng Việt cho Việt Nam theo mô hình opt-in là nguồn yếu (quyết định 31)."
+}

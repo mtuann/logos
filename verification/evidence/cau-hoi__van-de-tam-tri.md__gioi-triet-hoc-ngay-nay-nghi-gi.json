@@ -1,0 +1,59 @@
+{
+  "unit": "cau-hoi/van-de-tam-tri.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:23bee2f2a98f289b4ac8f9aeaac7e53edf23c8cf70abaf113c5aa911f0a0f964",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 hỏi [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp. Số liệu là tỉ lệ \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Tâm trí: Vật lý luận / Phi vật lý luận (câu chính, n ≈ [[pp:tam-tri/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tam-tri"
+    },
+    {
+      "text": "Zombie triết học: Không thể hình dung / Hình dung được nhưng không khả hữu / Khả hữu về siêu hình (câu chính)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/zombie-triet-hoc"
+    },
+    {
+      "text": "Có \"vấn đề khó\" của ý thức không? Có / Không (câu hỏi bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/van-de-kho-cua-y-thuc-co-ton-tai-khong"
+    },
+    {
+      "text": "Lý thuyết về ý thức: Chủ nghĩa chức năng / Nhị nguyên luận / Thuyết đồng nhất / Toàn tâm luận (câu hỏi bổ sung)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/y-thuc-ly-thuyet"
+    },
+    {
+      "text": "đa số nghiêng về vật lý luận, nhưng cũng đa số cho rằng *có* vấn đề khó của ý thức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/van-de-kho-cua-y-thuc-co-ton-tai-khong"
+    },
+    {
+      "text": "Chủ nghĩa chức năng dẫn đầu nhưng chỉ với một phần ba; nhị nguyên luận vẫn được hơn một phần năm ủng hộ — gần bốn thế kỷ sau Descartes",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/y-thuc-ly-thuyet"
+    },
+    {
+      "text": "Về zombie, giới triết học chia ba ... Lập luận của Chalmers thuyết phục được khoảng một phần tư, không hơn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/zombie-triet-hoc"
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Đối chiếu tools/philpapers-2020.md: Tâm trí (Bảng 1, n ≈ 1.730) vật lý luận 51,9, phi vật lý luận 32,1; Zombie (Bảng 1, n ≈ 1.610) 16,4 / 36,5 / 24,4; Vấn đề khó (Bảng 2, n ≈ 1.000) có 62,4, không 29,8; Ý thức lý thuyết (Bảng 2, n ≈ 1.020) chức năng 33,0, nhị nguyên 22,0, đồng nhất 13,3, toàn tâm 7,5. Phân biệt câu chính / câu bổ sung trong chú thích đúng. Câu 'đa số nghiêng về vật lý luận' đứng được (51,9%). 'Khả hữu 24,4%' tương ứng 'khoảng một phần tư'. Bài có câu giữ trung lập ('số đông không quyết định chân lý'). 1641 → 2020 là 379 năm, nên 'gần bốn thế kỷ' đúng."
+}

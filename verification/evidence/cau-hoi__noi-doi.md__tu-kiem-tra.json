@@ -1,0 +1,80 @@
+{
+  "unit": "cau-hoi/noi-doi.md#tu-kiem-tra",
+  "hash": "sha256:3fa4c9ee8b8eb3e67976e52b7b23168d06771a216d7a024767033c3dd254f0e3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k11",
+  "claims": [
+    {
+      "text": "Câu 1 (chuyến bay 9 giờ): đáp án 'Không, vì anh tin điều mình nói'; các phương án 'có' nhầm nói sai với nói dối",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/schaff/npnf103.v.v.iv.html",
+          "quote": "For from the sense of his own mind, not from the verity or falsity of the things themselves, is he to be judged to lie or not to lie.",
+          "where": "De mendacio, đoạn 3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lying-definition/",
+          "quote": "to make a believed-false statement to another person",
+          "where": "§1, L1"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2 (người bán xe cũ): đáp án 'gây hiểu lầm bằng câu đúng, và xét chung không tốt hơn nói dối về đạo đức'; lời giải: theo Saul, cảm giác 'đỡ tệ hơn' chủ yếu đến từ việc ta đánh giá nhân cách người nói",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ndpr.nd.edu/reviews/lying-misleading-and-what-is-said-an-exploration-in-philosophy-of-language-and-in-ethics/",
+          "quote": "Saul thinks that we conjoin our evaluations of acts with our evaluations of persons . She argues that the latter affects our judgments of the former.",
+          "where": "điểm sách NDPR, về chương 4"
+        },
+        {
+          "url": "https://doi.org/10.1007/s10676-024-09775-5",
+          "quote": "Frankfurt understands bullshit to be characterized not by an intent to deceive but instead by a reckless disregard for the truth.",
+          "where": "lý do phương án 'nói nhảm' sai: người bán cố ý lừa"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3 (gia đình có người bố bệnh nặng): đáp án 'Hỏi xem người con hiếu thảo và trung thực sẽ làm gì...' là cách nghĩ của đạo đức học đức hạnh; ba phương án còn lại là hệ quả luận, kiểu Kant, quyền được biết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html",
+          "quote": "But each man speaks and acts and lives in accordance with his character",
+          "where": "IV.7"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4 (công ty để lộ dữ liệu): đáp án 'Ban giám đốc có dám biện minh lời nói dối này công khai, trước cả chính khách hàng bị lừa, không?' là câu hỏi của phép thử công khai của Bok",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Câu 5 (chatbot trích sách không tồn tại): Hicks, Humphries và Slater (2024) đề nghị gọi là nói nhảm theo nghĩa của Frankfurt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.1007/s10676-024-09775-5",
+          "quote": "the models are in an important way indifferent to the truth of their outputs",
+          "where": "tóm tắt"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Câu 1, 2, 3, 5: đáp án đúng, phương án sai thật sự sai, lời giải khớp bài. Câu 4 phụ thuộc nội dung phép thử công khai trong sách Bok 1978, chưa mở được (bản archive.org chỉ cho mượn). Câu hỏi khớp đúng điều bài viết ở cac-lap-truong-chinh."
+}

@@ -1,0 +1,78 @@
+{
+  "unit": "cau-hoi/van-de-tam-tri.md#_dau",
+  "hash": "sha256:1072de8451befe0b5a0842308f62fa852c20ab48144e62d8609fd135c634a25a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.7-k04",
+  "claims": [
+    {
+      "text": "câu hỏi xưa nhất của triết học: tâm trí quan hệ thế nào với thân thể",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "một trong những câu hỏi xưa nhất của triết học: tâm trí quan hệ thế nào với thân thể",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/dualism/", "quote": "This theory, presented in all of Descartes’ major works, has served as a standard starting point for discussions of the mind-body problem ever since.", "where": "§2; không nguồn nào đã mở nói đây là câu hỏi xưa nhất. Thân bài tự viết đúng hơn: 'là một trong những câu hỏi xưa nhất của triết học'"}
+      ]
+    },
+    {
+      "text": "nhị nguyên luận ([Descartes](../triet-gia/descartes.md), *Meditations* 1641)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/descartes.meditationes-de-prima-philosophia",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/triet-gia/descartes/", "quote": "Descartes", "where": "trang đích của link: trang triết gia Descartes (<title> 'Descartes - Logos Zero')"}
+      ]
+    },
+    {
+      "text": "vấp vấn đề tương tác mà công chúa Elisabeth đã hỏi chí mạng năm 1643 (cái không có vị trí trong không gian thì \"đẩy\" cái gì?)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/", "quote": "Elisabeth’s correspondence with Descartes begins at her initiative in 1643", "where": "§4"},
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/elisabeth-bohemia/", "quote": "Elisabeth’s asking probing questions about how Descartes can explain the ability of an immaterial substance to act on a material substance", "where": "§4.2"}
+      ]
+    },
+    {
+      "text": "thuyết đồng nhất (Place 1956; Smart 1959) — cơn đau *chính là* trạng thái não",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.mind-identity",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/mind-identity/", "quote": "Smart soon became converted to Place's view (Smart 1959)", "where": "§1"}
+      ]
+    },
+    {
+      "text": "Mary trong phòng đen trắng (Jackson, \"Epiphenomenal Qualia\", 1982) ... (phản bác: cô chỉ có thêm *năng lực*, không phải sự thật mới — và chính Jackson sau này đã rút lại lập luận)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.jackson-frank-1982-epiphenomenal-qualia-philosophical-quarte",
+      "sources": [
+        {"url": "https://plato.stanford.edu/archives/fall2026/entries/qualia-knowledge/", "quote": "But Jackson changed his mind.", "where": "§5"},
+        {"url": "https://api.crossref.org/works/10.2307/2960077", "quote": "Epiphenomenal Qualia", "where": "Crossref: The Philosophical Quarterly 32(127), 1982"}
+      ]
+    },
+    {
+      "text": "zombie triết học (Chalmers, *The Conscious Mind*, 1996)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/chua-ro.the-conscious-mind"
+    },
+    {
+      "text": "PhilPapers 2020: hơn một nửa triết gia không đi hết ba bước của Chalmers",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/zombie-triet-hoc"
+    },
+    {
+      "text": "đây là bài về tâm trí của *chính chúng ta* (khác với bài tam-tri-va-ai về tâm trí của máy móc)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {"url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/", "quote": "Hãy hình dung một zombie triết học (philosophical zombie): một sinh vật giống hệt bạn đến từng nguyên tử", "where": "trang 'Một cỗ máy có thể có tâm trí không?' trên site đã deploy; bài ấy hỏi về máy"}
+      ]
+    }
+  ],
+  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "result": "dat",
+  "notes": "Các ý của hộp Tóm tắt khớp thân bài. 16,4% (không thể hình dung) + 36,5% (hình dung được nhưng không khả hữu) = 52,9%, nên 'hơn một nửa' đúng (philpapers/zombie-triet-hoc, câu chính). Lỗi nhẹ: Tóm tắt nói 'câu hỏi xưa nhất', còn thân bài nói 'một trong những câu hỏi xưa nhất'. Tiêu đề trang ('vấn đề lâu đời nhất của triết học') nằm ở front matter, ngoài đơn vị này, nhưng có cùng vấn đề."
+}
