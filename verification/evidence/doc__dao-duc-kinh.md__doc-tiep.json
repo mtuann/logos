@@ -1,6 +1,6 @@
 {
   "unit": "doc/dao-duc-kinh.md#doc-tiep",
-  "hash": "sha256:638520906ab1fa01ea764b36f6d223c1650c781145ade1ed81f5cdd9ed8713e6",
+  "hash": "sha256:0b6e288605ebc2e4a1f6b1a8367e0f0101f1db4f68d65319c32d09fe026cdaa0",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r09",
   "claims": [
@@ -93,7 +93,8 @@
           "quote": "Phiên bản mạnh: ngôn ngữ quyết định thế giới của ta",
           "where": "trang đích bàn giả thuyết Sapir–Whorf và ngôn ngữ riêng tư; không bàn điều không nói được hay \"giới hạn của ngôn ngữ\", không nhắc Lão Tử"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)",
@@ -127,5 +128,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Đã kiểm bằng ls trong repo rằng các file đích tồn tại (trung-hoa, ngon-ngu, trang-tu-mong-ho-diep, duc-tri, han-phi, tam-kinh) và tiêu đề khớp mô tả. Nội dung trang đích thuộc đơn vị khác, không đánh giá ở đây. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): hai dòng mẫu ghi sai (Trăm nhà đua tiếng: 'Lão–Trang đối đầu Nho–Pháp'; Trang Tử: 'người kế thừa nổi tiếng nhất của Lão Tử') đã được sửa đúng chữ fix của mẫu; SEP Zhuangzi fall2026 mở lại xác nhận 'Traditional orthodoxy understood Zhuangzi as an…'. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 gộp \"Trăm nhà đua tiếng: bối cảnh Lão–Trang đối đầu Nho–Pháp…\" (dung) đã bị kiểm mẫu bác cho vế đầu; dòng nay đã sửa, xem claim sai fixed."
+  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Đã kiểm bằng ls trong repo rằng các file đích tồn tại (trung-hoa, ngon-ngu, trang-tu-mong-ho-diep, duc-tri, han-phi, tam-kinh) và tiêu đề khớp mô tả. Nội dung trang đích thuộc đơn vị khác, không đánh giá ở đây. | Kiểm lại sau mẫu (agent-kiem-5.4-r09, 17/11/2026): hai dòng mẫu ghi sai (Trăm nhà đua tiếng: 'Lão–Trang đối đầu Nho–Pháp'; Trang Tử: 'người kế thừa nổi tiếng nhất của Lão Tử') đã được sửa đúng chữ fix của mẫu; SEP Zhuangzi fall2026 mở lại xác nhận 'Traditional orthodoxy understood Zhuangzi as an…'. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 gộp \"Trăm nhà đua tiếng: bối cảnh Lão–Trang đối đầu Nho–Pháp…\" (dung) đã bị kiểm mẫu bác cho vế đầu; dòng nay đã sửa, xem claim sai fixed. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (1 claim mới đặt fixed: true); cập nhật mã băm."
 }

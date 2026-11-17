@@ -1,6 +1,6 @@
 {
   "unit": "doc/aristotle-dao-duc.md#doc-tiep",
-  "hash": "sha256:58b60291589d6a06859b00b403a10e10282dde5f04f2f8448dbdc92491799686",
+  "hash": "sha256:65d8a7143c827796239dc69d72b1f32b79bcded15a99a12208aa2691b3883289",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r09",
   "claims": [
@@ -32,7 +32,8 @@
           "quote": "đạo đức học đức hạnh (virtue ethics)",
           "where": "từ điển thuật ngữ của site; HUONG-DAN-VIET.md bảng bắt buộc: virtue ethics → đạo đức học đức hạnh; \"đức hạnh luận\" không có trong bảng"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh khoái lạc và sự hài lòng",
@@ -46,7 +47,8 @@
           "quote": "Thuyết thỏa mãn ước muốn: hạnh phúc là đạt được điều mình muốn",
           "where": "ba họ lý thuyết của trang đích; không có lập trường \"sự hài lòng\""
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh Athens nơi Aristotle viết",
@@ -79,6 +81,6 @@
     "trung-lap": null,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba link nội bộ trỏ tới file có thật (đã ls). Mô tả đúng chủ đề theo tên trang; không kiểm nội dung trang đích (đơn vị khác). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (vua, nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+  "result": "dat",
+  "notes": "Ba link nội bộ trỏ tới file có thật (đã ls). Mô tả đúng chủ đề theo tên trang; không kiểm nội dung trang đích (đơn vị khác). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (vua, nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (2 claim mới đặt fixed: true); cập nhật mã băm."
 }
