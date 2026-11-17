@@ -142,7 +142,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp {#doc-tiep}
 
 - [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang giữa Nho, Mặc và Pháp
-- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 và giới hạn của ngôn ngữ
+- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 đặt cạnh câu hỏi ngôn ngữ có định hình tư duy không
 - [Trang Tử: Mộng hồ điệp](trang-tu-mong-ho-diep.md) — người mà truyền thống xếp cùng Lão Tử thành Đạo gia (Lão–Trang)
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)
 - [Hướng dẫn đọc Bát nhã Tâm kinh](tam-kinh.md) — cái "không" của chương 11 đặt cạnh cái "không" của Phật giáo

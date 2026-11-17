@@ -15663,7 +15663,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — bóng trên tường có tính là tri thức không?
-- [Ngôn từ định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?
+- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?
 - [Phổ quát có thật không?](../cau-hoi/pho-quat.md) — Platon và Aristotle tranh luận về "cái chung"
 - [Ai nên cai trị: số đông hay người hiểu biết?](../cau-hoi/ai-nen-cai-tri.md) — triết vương và những phản bác dân chủ
 - [Đọc "Suy niệm" I–II của Descartes](../doc/descartes-suy-niem.md) — một "tù nhân" khác: mơ thấy mình tự do và sợ thức dậy
@@ -16124,7 +16124,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Đọc tiếp
 
 - [Khoa học khác gì phi khoa học?](../cau-hoi/khoa-hoc.md) — nếu nhân quả không có nền móng lý tính, khoa học đứng trên cái gì?
-- [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — vấn đề quy nạp, thách thức lớn của tri thức luận.
+- [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — duy lý luận đối đầu duy nghiệm luận, nơi vấn đề quy nạp của Hume được nhắc tới.
 - [Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md) — các lý thuyết nhân quả sau Hume.
 - [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md) — quy nạp trong đời thường.
 
@@ -16825,7 +16825,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp
 
 - [Trăm nhà đua tiếng](../lich-su/trung-hoa.md) — bối cảnh Lão–Trang giữa Nho, Mặc và Pháp
-- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 và giới hạn của ngôn ngữ
+- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — chương 1 đặt cạnh câu hỏi ngôn ngữ có định hình tư duy không
 - [Trang Tử: Mộng hồ điệp](../doc/trang-tu-mong-ho-diep.md) — người mà truyền thống xếp cùng Lão Tử thành Đạo gia (Lão–Trang)
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md) — vô vi đặt cạnh đức trị của Nho gia và pháp trị của [Hàn Phi](../triet-gia/han-phi.md)
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md) — cái "không" của chương 11 đặt cạnh cái "không" của Phật giáo

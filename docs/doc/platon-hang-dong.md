@@ -129,7 +129,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp {#doc-tiep}
 
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — bóng trên tường có tính là tri thức không?
-- [Ngôn từ định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?
+- [Ngôn từ có định hình tư duy?](../cau-hoi/ngon-ngu.md) — tù nhân đặt tên cho các bóng: ngôn ngữ của ta có đang đặt tên cho bóng không?
 - [Phổ quát có thật không?](../cau-hoi/pho-quat.md) — Platon và Aristotle tranh luận về "cái chung"
 - [Ai nên cai trị: số đông hay người hiểu biết?](../cau-hoi/ai-nen-cai-tri.md) — triết vương và những phản bác dân chủ
 - [Đọc "Suy niệm" I–II của Descartes](descartes-suy-niem.md) — một "tù nhân" khác: mơ thấy mình tự do và sợ thức dậy

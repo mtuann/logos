@@ -142,7 +142,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Đọc tiếp {#doc-tiep}
 
 - [Khoa học khác gì phi khoa học?](../cau-hoi/khoa-hoc.md) — nếu nhân quả không có nền móng lý tính, khoa học đứng trên cái gì?
-- [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — vấn đề quy nạp, thách thức lớn của tri thức luận.
+- [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — duy lý luận đối đầu duy nghiệm luận, nơi vấn đề quy nạp của Hume được nhắc tới.
 - [Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md) — các lý thuyết nhân quả sau Hume.
 - [Khi bằng chứng chỉ làm cho có lẽ đúng](../cong-cu/quy-nap.md) — quy nạp trong đời thường.
 
