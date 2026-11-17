@@ -7147,7 +7147,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Ý kiến của giới triết học không phải là thẩm quyền đạo đức.** Con số cho biết những người trả lời nghĩ gì, không cho biết ai đúng. Một lập luận không mạnh lên vì nhiều người theo, cũng không yếu đi vì ít người theo; ba lập trường trong bài vẫn phải được đánh giá bằng chính lý lẽ của chúng.
 - **Mẫu khảo sát không đại diện cho xã hội, cũng không đại diện cho mọi truyền thống triết học.** Người trả lời là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh. Đây lại là câu bổ sung, nên chỉ khoảng [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet/n]] người trả lời (đã loại người bỏ qua hoặc chọn "không đủ quen thuộc với vấn đề").
 
-Ngoài con số hẹp ấy, có thể nói một cách trung thực: trong văn học triết học, cả ba hướng trên đều có những đại diện nghiêm túc và còn đang tranh luận — Thomson (1971) và Marquis (1989) vẫn là hai bài báo được trích dẫn và giảng dạy nhiều nhất ở hai phía, còn thuyết tiệm tiến là lập trường của nhiều triết gia đạo đức sinh học đương đại. Sự tồn tại dai dẳng của cả ba hướng, sau hơn nửa thế kỷ tranh luận, tự nó đã là một dữ kiện: đây là một câu hỏi mà triết học chưa — và có thể không bao giờ — đạt được đồng thuận.
+Ngoài con số hẹp ấy, có thể nói một cách trung thực: trong văn học triết học, cả ba hướng trên đều có những đại diện nghiêm túc và còn đang tranh luận — Thomson (1971) và Marquis (1989) là hai bài báo kinh điển ở hai phía, đều được mục từ "The Ethics of Abortion" của SEP trình bày kỹ; còn các lập trường trung gian, như thuyết tiệm tiến, cũng có người bênh vực trong văn liệu. Sự tồn tại dai dẳng của cả ba hướng, sau hơn nửa thế kỷ tranh luận, tự nó đã là một dữ kiện: đây là một câu hỏi mà triết học chưa — và có thể không bao giờ — đạt được đồng thuận.
 
 ## Liên hệ đời sống
 
@@ -7155,7 +7155,7 @@ Ngoài con số hẹp ấy, có thể nói một cách trung thực: trong văn 
 
 **Biện pháp tránh thai và trách nhiệm.** Hình ảnh "hạt người" của Thomson có một ứng dụng thực tế: nó tách "chịu trách nhiệm về hành động của mình" khỏi "đồng ý với mọi hậu quả có thể xảy ra". Một người dùng biện pháp tránh thai cẩn thận nhưng vẫn mang thai ngoài ý muốn có "tự nguyện" mang thai không? Câu trả lời của bạn cho câu hỏi này sẽ quyết định phản bác "tự nguyện" có đánh bại được Thomson hay không — và nó cũng là câu hỏi chính sách thực tế: xã hội nên đầu tư vào giáo dục giới tính và biện pháp tránh thai (giảm số ca mang thai ngoài ý muốn từ gốc), hay chỉ tranh cãi về quyền phá thai khi sự đã rồi?
 
-**Ở Việt Nam: phá thai hợp pháp nhưng ít được bàn công khai.** Ở Việt Nam, phá thai được pháp luật cho phép và thực hiện tại các cơ sở y tế — đây là một thực tế pháp lý, bài này không đánh giá đúng sai của nó. Điều đáng chú ý về mặt triết học là sự im lặng tương đối trong thảo luận công cộng: một việc vừa hợp pháp vừa phổ biến, nhưng hiếm khi được bàn như một vấn đề đạo đức một cách công khai và nghiêm túc. Ba lập trường trong bài cho bạn một bộ khung để nghĩ về vấn đề này một cách có cấu trúc — thay vì chỉ có hai phe hét vào nhau, ta có thể hỏi: ta đang tranh luận về địa vị của thai nhi, về quyền tự chủ thân thể, hay về trách nhiệm với hậu quả của hành động tự nguyện?
+**Ở Việt Nam: phá thai hợp pháp nhưng ít được bàn công khai.** Ở Việt Nam, phá thai được pháp luật cho phép và thực hiện tại các cơ sở y tế — đây là một thực tế pháp lý, bài này không đánh giá đúng sai của nó. Điều đáng chú ý về mặt triết học là: một việc vừa hợp pháp vừa phổ biến vẫn có thể ít được bàn như một vấn đề đạo đức một cách công khai và nghiêm túc. Ba lập trường trong bài cho bạn một bộ khung để nghĩ về vấn đề này một cách có cấu trúc — thay vì chỉ có hai phe hét vào nhau, ta có thể hỏi: ta đang tranh luận về địa vị của thai nhi, về quyền tự chủ thân thể, hay về trách nhiệm với hậu quả của hành động tự nguyện?
 
 **Quyết định cá nhân và lời khuyên.** Bài này không cho bạn đáp án cho một quyết định cá nhân cụ thể — và bất kỳ bài triết học nào hứa hẹn điều đó đều đáng ngờ. Điều triết học có thể làm là làm rõ *cấu trúc* của quyết định: bạn đang cân nhắc giữa những giá trị nào, lập luận nào thực sự ủng hộ kết luận của bạn (chứ không chỉ là cảm xúc), và bạn có nhất quán không khi áp dụng cùng lập luận vào trường hợp khác (người hiến tạng, người mẹ mang thai hộ, bệnh nhân hôn mê). Sự rõ ràng đó không làm cho quyết định dễ dàng hơn — nhưng làm cho nó trung thực hơn.
 
@@ -7199,7 +7199,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Thí nghiệm không xét đến vai trò của người cha"
   ],
   "answer": 2,
-  "explain": "Đây là phản bác nổi tiếng nhất đối với Thomson: sự tương đồng giữa 'bị bắt cóc' và 'mang thai sau quan hệ tự nguyện' không hoàn hảo, vì trách nhiệm đối với hậu quả của hành động tự nguyện là một nguyên tắc đạo đức cơ bản."
+  "explain": "Đây là một phản bác thường gặp đối với Thomson: sự tương đồng giữa 'bị bắt cóc' và 'mang thai sau quan hệ tự nguyện' không hoàn hảo, vì trách nhiệm đối với hậu quả của hành động tự nguyện là một nguyên tắc đạo đức cơ bản."
  },
  {
   "q": "Thuyết tiệm tiến (gradualism) về địa vị đạo đức của thai nhi chủ trương gì?",
