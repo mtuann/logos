@@ -1,0 +1,80 @@
+{
+  "unit": "bat-dau/lo-trinh.md#3-lich-su-tu-tuong-va-van-ban-goc",
+  "hash": "sha256:2a69b92e472fce467221e8361ce7320ac7f364a6a44645074a9ddff40062a2a4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p09",
+  "claims": [
+    {
+      "text": "Không chỉ Hy Lạp và châu Âu, mà cả Ấn Độ, Trung Hoa, Phật giáo và tư tưởng Việt Nam.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/",
+          "quote": "Hy Lạp cổ đại Trung cổ Cận đại Thế kỷ 19 Thế kỷ 20 Ấn Độ Trung Hoa Nhật Bản và Việt Nam",
+          "where": "điều hướng Lịch sử"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/",
+          "quote": "Bát nhã Tâm kinh Nguyễn Trãi: Bình Ngô đại cáo",
+          "where": "điều hướng Đọc văn bản"
+        }
+      ]
+    },
+    {
+      "text": "Bắt đầu từ Lịch sử tư tưởng: [[count:lich-su]] bài theo thời kỳ và khu vực, kèm dòng thời gian và sơ đồ ảnh hưởng.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/",
+          "quote": "Lịch sử Dòng thời gian Sơ đồ ảnh hưởng Hy Lạp cổ đại Trung cổ Cận đại Thế kỷ 19 Thế kỷ 20 Ấn Độ Trung Hoa Nhật Bản và Việt Nam",
+          "where": "điều hướng: 5 bài theo thời kỳ + 3 theo khu vực = 8"
+        }
+      ]
+    },
+    {
+      "text": "Các triết gia: tiểu sử, tác phẩm chính, một lập luận tiêu biểu kèm phản bác, và các bài trên site nhắc tới họ.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/kant/",
+          "quote": "Tác phẩm chính Tư tưởng chính Một lập luận tiêu biểu: Phép thử phổ quát hóa và lời hứa dối Hiểu lầm thường gặp Ảnh hưởng Đọc thêm trên",
+          "where": "mục lục"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/",
+          "quote": "các bài trên site nhắc tới họ",
+          "where": "đầu trang"
+        }
+      ]
+    },
+    {
+      "text": "Đọc văn bản gốc có [[count:doc]] hướng dẫn đọc chậm, từ Biện hộ của Socrates và Luận ngữ tới Bình Ngô đại cáo.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/",
+          "quote": "Platon: Biện hộ của Socrates - vì sao Socrates chọn cái chết",
+          "where": "mục Hy Lạp cổ đại"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/lo-trinh/",
+          "quote": "19 hướng dẫn đọc chậm",
+          "where": "bản dựng"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "docs/lich-su có 8 bài (an-do, can-dai, hy-lap-co-dai, nhat-ban-viet-nam, the-ky-19, the-ky-20, trung-co, trung-hoa) + dong-thoi-gian, so-do-anh-huong. Phật giáo: lich-su/an-do.md mục Đức Phật, lich-su/nhat-ban-viet-nam.md (Thiền Trúc Lâm), doc/tam-kinh.md. Cả 59 trang docs/triet-gia/*.md có ## Tác phẩm chính, ## Một lập luận tiêu biểu (có chữ \"phản bác\"), ## Đọc thêm trên Logos. docs/doc có 19 hướng dẫn; ba link platon-bien-ho, luan-ngu, nguyen-trai-binh-ngo tồn tại."
+}

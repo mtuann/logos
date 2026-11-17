@@ -1,0 +1,89 @@
+{
+  "unit": "lich-su/the-ky-19.md#nguon",
+  "hash": "sha256:f999ede27bdd2df6eb2f85b921b4f65f50bf35f53c257ef0e866bd72bf14558a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.6-p04",
+  "claims": [
+    {
+      "text": "UK Parliament, “Presenting the 1866 petition” (Living Heritage) <URL parliament.uk>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/",
+          "quote": "Presenting the 1866 petition John Stuart Mill MP presented the first mass women's suffrage petition to the House of Commons on 7 June 1866."
+        }
+      ]
+    },
+    {
+      "text": "Karl Marx & Friedrich Engels, The Communist Manifesto (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/61/pg61.txt",
+          "quote": "[From the English edition of 1888, edited by Friedrich Engels]"
+        }
+      ]
+    },
+    {
+      "text": "SEP: các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "Georg Wilhelm Friedrich Hegel"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/marx/",
+          "quote": "Karl Marx (1818–1883)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Søren Aabye Kierkegaard (1813–1855)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "Friedrich Nietzsche"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "John Stuart Mill (1806–73)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/harriet-mill/",
+          "quote": "Harriet Taylor Mill (1807–1858)"
+        }
+      ]
+    },
+    {
+      "text": "Hegel, Phenomenology of Spirit (1807); Kierkegaard, Either/Or (1843), Fear and Trembling (1843); Nietzsche, The Gay Science (1882), Thus Spoke Zarathustra (1883–1885), Beyond Good and Evil (1886); Mill, On Liberty (1859), Utilitarianism (1863); Marx, Capital tập 1 (1867)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hegel.phanomenologie-des-geistes"
+    },
+    {
+      "text": "Trang \"Presenting the 1866 petition\" của Quốc hội Anh: đề nghị sửa đổi của Mill năm 1867 về quyền bầu cử của phụ nữ.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bỏ dòng này (trùng với mục 7), hoặc chuyển nội dung chú thích vào mục 7.",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/",
+          "quote": "On 20 May 1867 Mill tried to amend the Second Reform Bill"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi."
+}
