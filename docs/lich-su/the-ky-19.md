@@ -36,7 +36,7 @@ Một khái niệm then chốt cần hiểu đúng: **cơ sở hạ tầng – k
 
 ## Kierkegaard: cá nhân trước hệ thống {#kierkegaard-ca-nhan-truoc-he-thong}
 
-**Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, là "kẻ phản Hegel" đầu tiên theo một nghĩa rất cá nhân: ông cho rằng hệ thống của Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
+**Søren [Kierkegaard](../triet-gia/kierkegaard.md)** (1813–1855), người Đan Mạch, thường được xem là đối thủ lớn của Hegel (dù giới nghiên cứu gần đây cho rằng mục tiêu phê phán chính của ông là những người theo Hegel ở Đan Mạch): ông cho rằng các hệ thống triết học kiểu Hegel giải thích được *mọi thứ* trừ điều quan trọng nhất — **cá nhân cụ thể đang sống**. Triết học, với ông, không phải để ngắm từ xa mà để *sống*.
 
 Tư tưởng cốt lõi: con người tồn tại qua **lựa chọn**. Qua *Hoặc/hoặc* (*Either/Or*, 1843 — tác phẩm đặt nấc thẩm mỹ đối diện nấc đạo đức) và các tác phẩm sau đó như *Các chặng trên đường đời* (*Stages on Life's Way*, 1845), ông vẽ ba nấc tồn tại: nấc **thẩm mỹ** (sống cho khoái lạc, như Don Juan), nấc **đạo đức** (sống có trách nhiệm, như người chồng người cha), và nấc **tôn giáo** (quan hệ trực tiếp với Chúa). Việc chuyển từ nấc này sang nấc khác không phải là một kết luận mà lý trí buộc ta phải chấp nhận, mà là một thành tựu đòi hỏi biến đổi những "đam mê" định hình cả đời sống. Hình mẫu của nấc tôn giáo là Abraham trong *Kính sợ và run rẩy* (*Fear and Trembling*, 1843), người sẵn sàng hiến tế con trai vì vâng lời Chúa; nhiều người đọc thấy ở đây sự đình chỉ đạo đức thông thường vì một mục đích cao hơn.
 
@@ -44,13 +44,13 @@ Kierkegaard được xem là cha đẻ của **hiện sinh** (*existentialism*):
 
 ## Nietzsche: "Chúa đã chết" {#nietzsche-chua-da-chet}
 
-**Friedrich [Nietzsche](../triet-gia/nietzsche.md)** (1844–1900), người Đức, là triết gia bị hiểu lầm nhiều nhất lịch sử — một phần vì em gái ông sau này bóp méo di sản của ông cho chính trị.
+**Friedrich [Nietzsche](../triet-gia/nietzsche.md)** (1844–1900), người Đức, là một trong những triết gia bị hiểu lầm nhiều nhất — một phần vì em gái ông sau này bóp méo di sản của ông cho chính trị.
 
 Câu nói nổi tiếng "Chúa đã chết" (trong *Khoa học vui* (*The Gay Science*, 1882) và *Zarathustra đã nói như thế* (1883–1885)) **không** phải là tuyên bố vô thần đơn giản. Ý ông: nền tảng giá trị của văn minh phương Tây — Kitô giáo — đã sụp đổ về mặt trí thức (sau khoa học và phê phán lịch sử), nhưng con người vẫn sống như thể nó còn đó, bám vào những giá trị mà mình không còn tin. Cái chết của Chúa để lại một khoảng trống: *giờ ta sống theo giá trị nào?*
 
 Đáp án ông gợi ý là **siêu nhân** (*Übermensch*): con người vượt lên trên đạo đức bầy đàn (đạo đức của kẻ yếu: khiêm nhường, vâng lời, thương hại) để tự tạo ra giá trị của mình — khẳng định cuộc đời, kể cả đau khổ, như nghệ sĩ khẳng định tác phẩm. Trong *Bên kia Thiện và Ác* (*Beyond Good and Evil*, 1886), ông truy vấn gốc gác của mọi giá trị đạo đức: ai đặt ra chúng, và phục vụ lợi ích của ai?
 
-Cần tránh hai hiểu lầm phổ biến: Nietzsche không phải kẻ tôn thờ bạo lực (ông khinh miệt chủ nghĩa dân tộc Đức và bài Do Thái), và "ý chí quyền lực" của ông trước hết là khái niệm tâm lý–triết học về động lực khẳng định bản thân, không phải cương lĩnh chính trị.
+Cần tránh hai hiểu lầm phổ biến: Nietzsche không phải kẻ tôn thờ bạo lực (ông khinh miệt chủ nghĩa dân tộc Đức và bài Do Thái), và "ý chí quyền lực" của ông là một khái niệm mà giới nghiên cứu còn tranh luận (siêu hình học, giả thuyết tâm lý hay một thang giá trị), không phải cương lĩnh chính trị.
 
 Một tư tưởng khác của ông đáng suy ngẫm: **vĩnh cửu luân hồi** (*eternal recurrence*). Trong *Khoa học vui*, ông đặt thí nghiệm tư duy: nếu một con quỷ bảo rằng cuộc đời này của bạn — từng niềm vui, từng nỗi đau, từng khoảnh khắc tẻ nhạt — sẽ lặp lại y hệt vô số lần, không gì thay đổi, bạn sẽ nguyền rủa hay reo mừng? Đây không phải giả thuyết vũ trụ học mà là bài kiểm tra thái độ sống: bạn có dám khẳng định cuộc đời mình đến mức muốn sống nó thêm vô hạn lần không?
 
@@ -86,8 +86,6 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 - Hiện sinh và cái chết: [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 
 ## Nguồn {#nguon}
-
-Trang "Presenting the 1866 petition" của Quốc hội Anh: đề nghị sửa đổi của Mill năm 1867 về quyền bầu cử của phụ nữ.
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
