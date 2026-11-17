@@ -2,7 +2,7 @@
   "unit": "doc/manh-tu-tinh-thien.md#nguon",
   "hash": "sha256:48f69620aa4bb4e7a0036e0d7c6d95ef90080ef95cc84dee97cc542f1792f75f",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Van Norden, Bryan, \"Mencius\", SEP (sửa đổi 2024), bản lưu fall2026",
@@ -52,12 +52,20 @@
     {
       "text": "Mạnh Tử nguyên văn và bản dịch Legge 1861 tại ctext.org: thiên 2A /mengzi/gong-sun-chou-i; 3B /mengzi/teng-wen-gong-ii; 6A /mengzi/gaozi-i",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/ctext.mengzi-gong-sun-chou-i"
     },
     {
-      "text": "Chu Hy, Mạnh Tử tập chú tại https://ctext.org/si-shu-zhang-ju-ji-zhu/gong-sun-chou-zhang-ju-shang/zh; Tuân Tử https://ctext.org/xunzi/xing-e (URL ctext.org không mở được)",
+      "text": "Chu Hy, Mạnh Tử tập chú, thiên Công Tôn Sửu thượng (chú ...) <https://ctext.org/si-shu-zhang-ju-ji-zhu/gong-sun-chou-zhang-ju-shang/zh>",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/ctext.si-shu-zhang-ju-ji-zhu-gong-sun-chou-zhang-ju-shang-zh"
+    },
+    {
+      "text": "Tuân Tử, thiên 23 \"Tính ác\", nguyên văn. <https://ctext.org/xunzi/xing-e>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/ctext.xunzi-xing-e"
     }
   ],
   "checklist": {
@@ -67,6 +75,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org chặn truy cập tự động (đã thử trước đó với /analects/*, thông báo không cho phép scrape); không thử lại, không vòng. Nội dung chú của Chu Hy và nguyên văn Tuân Tử đã xác nhận qua Wikisource; chỉ URL ctext.org là chưa mở được."
+  "result": "dat",
+  "notes": "ctext.org chặn truy cập tự động (đã thử trước đó với /analects/*, thông báo không cho phép scrape); không thử lại, không vòng. Nội dung chú của Chu Hy và nguyên văn Tuân Tử đã xác nhận qua Wikisource; chỉ URL ctext.org là chưa mở được. | Lượt 2: dòng 1, 2, 3 trùng từng chữ bản ghi frozen sources/ctext.mengzi-gong-sun-chou-i, ctext.si-shu-zhang-ju-ji-zhu-gong-sun-chou-zhang-ju-shang-zh, ctext.xunzi-xing-e; tách claim Tuân Tử ra riêng."
 }

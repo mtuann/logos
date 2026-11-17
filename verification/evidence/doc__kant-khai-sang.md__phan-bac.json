@@ -1,8 +1,8 @@
 {
   "unit": "doc/kant-khai-sang.md#phan-bac",
-  "hash": "sha256:0b902a8472acf932d151a4b60bf7bff4be5c18919d436d269bba86260300364c",
+  "hash": "sha256:9140164ec498d0006b6b37d6b816ce26e8d14a4e0b1fb000164ccdaa421a152c",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k08",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
   "claims": [
     {
       "text": "Hamann trong thư gửi Christian Jacob Kraus năm 1784 cho rằng sự chưa trưởng thành không do dân tự gây ra, mà bị áp đặt bởi chính quyền độc đoán và bởi những người tự xưng là người giám hộ",
@@ -32,7 +32,8 @@
           "quote": "through the intercession of his acquaintance, Immanuel Kant",
           "where": "SEP mô tả Hamann–Kant là \"acquaintance\""
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Đáp lại: Kant tả người giám hộ cay nghiệt (đoạn 2); \"do chính mình\" khẳng định năng lực; yêu cầu chính nhắm vào chính quyền",
@@ -88,7 +89,7 @@
         {
           "url": "https://foucault.info/documents/foucault.whatIsEnlightenment.en/",
           "quote": "the permanent reactivation of an attitude — that is, of a philosophical ethos",
-          "where": "mở qua WebFetch (bản tóm lược máy); mục lục ghi \"The Foucault Reader, ed. P. Rabinow, pp. 32–50, Pantheon 1984\""
+          "where": "mở trực tiếp trang (HTTP 200) lượt 2, câu nguyên văn: \"the thread that may connect us with the Enlightenment is not faithfulness to doctrinal elements, but rather the permanent reactivation of an attitude — that is, of a philosophical ethos that could be described as a permanent critique of our historical era\""
         }
       ]
     },
@@ -113,5 +114,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một lỗi nhe: \"bạn của Kant\" nên là \"người quen\" theo SEP Hamann (acquaintance). Phản bác 3: nội dung Foucault chỉ kiểm qua bản WebFetch (tóm lược máy) trên foucault.info; không mở được văn bản gốc từng chữ nhưng khớp ý. Bản đầy đủ ở Foucault Reader tr. 32–50 chưa lật sách."
+  "notes": "Một lỗi nhe: \"bạn của Kant\" nên là \"người quen\" theo SEP Hamann (acquaintance). Phản bác 3: nội dung Foucault chỉ kiểm qua bản WebFetch (tóm lược máy) trên foucault.info; không mở được văn bản gốc từng chữ nhưng khớp ý. Bản đầy đủ ở Foucault Reader tr. 32–50 chưa lật sách. Lượt 2: bài hiện ghi \"Johann Georg Hamann, người quen của Kant\", khớp fix → fixed: true. Mở lại foucault.info bằng curl, đối chiếu nguyên văn câu \"permanent reactivation of an attitude\" (thay cho bản tóm lược WebFetch lượt 1). Cập nhật hash."
 }

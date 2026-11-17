@@ -1,8 +1,8 @@
 {
   "unit": "doc/platon-bien-ho.md#boi-canh",
-  "hash": "sha256:a71b13286cb9d8121c64f49c80750551e7c68b9fa6d9aedfb42dc8d5abce3728",
+  "hash": "sha256:eecfb1ff4dae1deed0fa3363c2d11eee8c8392626d8a02583b81c5d0a416ad29",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k05",
+  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Socrates (k. 469–399 TCN)",
@@ -81,7 +81,8 @@
           "quote": "the later ones, I will try to defend myself next",
           "where": "Apology 24b (Fowler, Perseus)"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Athens vừa thua chiến tranh Peloponnesus (404 TCN)",
@@ -158,5 +159,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Một lỗi mức nhe (chỉ dẫn vị trí 24b; Anytus, Lycon được nêu ở 23e). Không ảnh hưởng nội dung. Còn lại đúng. Gutenberg #1656 chặn bot (trang bảo trì) nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1656/pg1656.txt; số Stephanus lấy từ Perseus (bản dịch Fowler, đối chiếu chữ Hy Lạp Burnet)."
+  "notes": "Một lỗi mức nhe (chỉ dẫn vị trí 24b; Anytus, Lycon được nêu ở 23e). Không ảnh hưởng nội dung. Còn lại đúng. Gutenberg #1656 chặn bot (trang bảo trì) nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1656/pg1656.txt; số Stephanus lấy từ Perseus (bản dịch Fowler, đối chiếu chữ Hy Lạp Burnet).\nLượt 2: Bài đã sửa chỉ dẫn thành \"(23e–24b)\" đúng fix → fixed: true."
 }

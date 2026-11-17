@@ -2,7 +2,7 @@
   "unit": "doc/dao-duc-kinh.md#phan-bac",
   "hash": "sha256:92af3d8f39a392824f571672f7dba3f2102ded0096581323afadd4926dee442c",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k02",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
   "claims": [
     {
       "text": "Tuân Tử chê: \"Lão Tử thấy cái co mà không thấy cái duỗi\" (老子有見於詘，無見於信) ... (Tuân Tử, thiên 17)",
@@ -43,12 +43,22 @@
     {
       "text": "Khổng Tử khen vua Thuấn \"không làm gì mà nước được trị\" (無為而治, Luận ngữ 15.5)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
           "url": "https://zh.wikisource.org/wiki/論語/衛靈公第十五",
           "quote": "子曰：「無爲而治者，其舜也與！夫何爲哉？恭己正南面而已矣。」",
-          "where": "Wikisource đánh số 十五之四, không phải 15.5"
+          "where": "Wikisource gộp 衛靈公問陳 và 在陳絕糧 thành một đoạn nên đánh 十五之四"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/3330",
+          "quote": "CHAP. IV. The Master said, 'May not Shun be instanced as having governed efficiently without exertion?",
+          "where": "Legge, Book XV; CHAP. I của Legge gồm cả 1. hỏi trận và 2. 'When he was in Chan, their provisions were exhausted'"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "a gentleman would rather die than compromise it (15.9) ... discriminate between those who may be reformed and those who may not (15.8)",
+          "where": "SEP dùng hệ số tách chương 1 của Legge làm 15.1-15.2: SEP 15.8 = Legge XV.7, SEP 15.9 = Legge XV.8, nên Legge XV.4 = 15.5 (cùng hệ ctext; bản ghi frozen sources/ctext.analects-wei-ling-gong cũng ghi 15.5)"
         }
       ]
     },
@@ -106,6 +116,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ còn một điểm chưa xác nhận: số \"15.5\" của Luận ngữ. Nội dung câu đúng (Wikisource 衛靈公 đoạn 十五之四; số 15.5 theo cách đánh số ctext, ctext không mở được). Nhận xét nhẹ: Chan (SEP) nói \"not a technique of rule\" không thấy nguyên văn; phần \"không phải một thuật cai trị\" là diễn giải của bài, phần Chan được trích xác nhận là định hướng lại nhận thức. Pines không gắn đoạn \"ruler avoid intervention\" với Lão Tử nên \"Pháp gia dùng ý tưởng ... \" là diễn giải của bài, không phải lời Pines. Lập trường Nho, Pháp được nêu không phải người rơm."
+  "result": "dat",
+  "notes": "Chỉ còn một điểm chưa xác nhận: số \"15.5\" của Luận ngữ. Nội dung câu đúng (Wikisource 衛靈公 đoạn 十五之四; số 15.5 theo cách đánh số ctext, ctext không mở được). Nhận xét nhẹ: Chan (SEP) nói \"not a technique of rule\" không thấy nguyên văn; phần \"không phải một thuật cai trị\" là diễn giải của bài, phần Chan được trích xác nhận là định hướng lại nhận thức. Pines không gắn đoạn \"ruler avoid intervention\" với Lão Tử nên \"Pháp gia dùng ý tưởng ... \" là diễn giải của bài, không phải lời Pines. Lập trường Nho, Pháp được nêu không phải người rơm.\nLượt 2: Số đoạn 15.5 đối chiếu qua quy tắc chênh số: Legge XV.4 (Gutenberg #3330) + SEP Confucius dùng hệ Legge+1 ở thiên 15 (15.8, 15.9)."
 }

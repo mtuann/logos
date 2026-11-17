@@ -2,7 +2,7 @@
   "unit": "doc/russell-gia-tri.md#doc-tiep",
   "hash": "sha256:a278abcc28be101c38dae4ba20602a66c5cb813802d9ac11fcf5c285c9c4dfcf",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k09",
+  "checker": "agent-kiem-5.4-k09 + agent-kiem-5.4-r07",
   "claims": [
     {
       "text": "Cuốn sách của Russell bắt đầu từ chính câu 'biết một điều nghĩa là gì?'",
@@ -25,6 +25,11 @@
           "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
           "quote": "Thus, to sum up our discussion of the value of philosophy; Philosophy is to be studied",
           "where": "XV.13; đối chiếu trích ở docs/bat-dau/index.md dòng 110 khớp XV.13"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/",
+          "quote": "to sum up our discussion of the value of philosophy; Philosophy is to be studied, not for the sake of an",
+          "where": "trang deploy có đoạn nguyên văn XV.13"
         }
       ]
     },
@@ -34,9 +39,24 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "kiểm bằng ls trong repo",
-          "where": "không phải web"
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/y-nghia-song/",
+          "quote": "Cuộc sống có ý nghĩa không? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/bat-dau/",
+          "quote": "Triết học là gì, và không phải là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/bat-dong-tri-thuc/",
+          "quote": "Khi người giỏi cãi nhau: bất đồng về tri thức - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
         }
       ]
     }
@@ -49,5 +69,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Wikisource (1912) mở được; đối chiếu Gutenberg 5827 qua mirror gutenberg.pglaf.org. Mô tả chủ đề trang liên kết (câu hỏi 'Cuộc sống có ý nghĩa không?') thuộc đơn vị khác."
+  "notes": "Wikisource (1912) mở được; đối chiếu Gutenberg 5827 qua mirror gutenberg.pglaf.org. Mô tả chủ đề trang liên kết (câu hỏi 'Cuộc sống có ý nghĩa không?') thuộc đơn vị khác. Lượt 2: mở 4 trang đích trên site deploy (200), ghi <title>; trang bat-dau có đoạn XV.13 nguyên văn."
 }

@@ -2,7 +2,7 @@
  "unit": "doc/mac-tu-kiem-ai.md#doc-tiep",
  "hash": "sha256:0220cc91a2626f23ae79638bef2d150446354186e01e3bc559763e57151e578b",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k03",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
  "claims": [
   {
    "text": "Các liên kết nội bộ (manh-tu-tinh-thien, lich-su/trung-hoa, chien-tranh-chinh-dang, cuu-giup-ngheo-doi, cong-ly) tồn tại trong repo",
@@ -10,8 +10,24 @@
    "verdict": "dung",
    "sources": [
     {
-     "url": "https://mtuann.github.io/logos/",
-     "quote": "file docs/doc/manh-tu-tinh-thien.md, docs/lich-su/trung-hoa.md, docs/cau-hoi/{chien-tranh-chinh-dang,cuu-giup-ngheo-doi,cong-ly}.md đều có trong repo (kiểm bằng ls)"
+     "url": "https://mtuann.github.io/logos/doc/manh-tu-tinh-thien/",
+     "quote": "Hướng dẫn đọc Mạnh Tử: tính thiện ... họ Mặc kiêm ái, thế là không có cha"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+     "quote": "Trung Hoa: trăm nhà đua tiếng ... Mặc Tử: kiêm ái"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/chien-tranh-chinh-dang/",
+     "quote": "Truyền thống chiến tranh chính nghĩa đưa ra một danh sách điều kiện"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cuu-giup-ngheo-doi/",
+     "quote": "vì sao ta phải cứu trẻ em đói ở xa"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cong-ly/",
+     "quote": "Công lý là gì? Rawls và bức màn vô tri"
     }
    ]
   },
@@ -35,5 +51,5 @@
   "thuat-ngu": null
  },
  "result": "dat",
- "notes": "Chỉ kiểm tồn tại file đích bằng ls; chưa đọc nội dung các trang đích."
+ "notes": "Chỉ kiểm tồn tại file đích bằng ls; chưa đọc nội dung các trang đích.\nLượt 2: mở năm trang đích trên site đã deploy (mtuann.github.io/logos/...), tiêu đề và nội dung khớp mô tả trong mục Đọc tiếp."
 }

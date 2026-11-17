@@ -2,7 +2,7 @@
   "unit": "doc/luan-ngu.md#nguon",
   "hash": "sha256:da3f25a5abcfde72a23464ce9db8b2970f6c57cc544106b50a98859ae227be24",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Csikszentmihalyi, Mark, \"Confucius\", SEP, bản lưu fall2026 mở được",
@@ -40,14 +40,16 @@
       ]
     },
     {
-      "text": "Trần Đình Hượu (1996), Đến hiện đại từ truyền thống, Hà Nội: NXB Văn hóa: chỉ có trang học tập (loigiaihay.com) qua WebSearch, chưa mở được trang thư mục",
+      "text": "Trần Đình Hượu (1996), Đến hiện đại từ truyền thống, Hà Nội: NXB Văn hóa.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb"
     },
     {
       "text": "Luận ngữ, Legge 1861 (bản sửa 1893), Chinese Text Project https://ctext.org/analects",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/ctext.analects"
     }
   ],
   "checklist": {
@@ -57,6 +59,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng."
+  "result": "dat",
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. | Lượt 2: dòng 5 trùng từng chữ bản ghi frozen sources/sach.tran-dinh-huou-1996-... (năm 1996 cũng trong years_ok của works/chua-ro.den-hien-dai-tu-truyen-thong); dòng 1 trùng sources/ctext.analects (frozen)."
 }

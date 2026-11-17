@@ -2,7 +2,7 @@
   "unit": "doc/nguyen-trai-binh-ngo.md#hieu-lam-thuong-gap",
   "hash": "sha256:9e9ce1f25bbce05837bce20fa7454abc60cf03d7aba4a6f94d8ca662deaf8f4e",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "\"Ngô\" là cách gọi nhà Minh",
@@ -53,7 +53,19 @@
     {
       "text": "Theo Bùi Duy Tân, ... nên ai đặt nhan đề còn phải để ngỏ (ý kiến dẫn theo Lý Thơ Phúc 2008)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261",
+          "quote": "Mới đây, cụ Bùi Duy Tân cho biết nhan đề BNĐC không tìm thấy trong sách Đại Việt sử ký toàn thư (ĐVSKTT) vì trước khi dẫn nguyên văn bài BNĐC, ĐVSKTT chỉ viết: “Đế ký bình Ngô, đại cáo thiên hạ, kỳ văn viết:…”",
+          "where": "Lý Thơ Phúc (2008), Tạp chí Khoa học ĐHSP TP.HCM số 13, tr. 33 (văn bản trích từ PDF)"
+        },
+        {
+          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261",
+          "quote": "“Vì vậy, nói nhan đề BNĐC do Nguyễn Trãi hoặc những ai đó đặt khi biên soạn Lam Sơn thực lục vẫn phải tồn nghi”",
+          "where": "tr. 33–34, chú thích ‡: Bùi Duy Tân (2007), Bình Ngô đại cáo, văn bản – bản dịch – nhan đề, T/c Nghiên cứu văn học, số 6"
+        }
+      ]
     },
     {
       "text": "Nhân nghĩa nghĩa là không dùng vũ lực: bài cáo coi trừ bạo bằng binh đao là một phần của nhân nghĩa",
@@ -75,6 +87,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Không mở được bài gốc của Bùi Duy Tân (Tạp chí Nghiên cứu văn học số 6/2007). Đã thử: https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261 (là bài Lý Thơ Phúc 2008, PDF nén, không đọc được văn bản), https://vjol.info.vn/sphcm/article/view/15090 (trang mô tả, không nhắc Bùi Duy Tân), https://vjol.info.vn/index.php/NNDS/article/download/15738/14148 (PDF không đọc được). Một lần tìm web cho thấy một bài khác của Lý Thơ Phúc trích Bùi Duy Tân (2007) và Toàn thư chỉ có câu \"Đế ký bình Ngô, đại cáo thiên hạ\" nhưng tôi không mở được trang đó để lấy chữ. Phần Toàn thư không có nhan đề: đã kiểm trực tiếp. Gợi ý nhẹ: câu dịch \"bá cáo\" cho 大告 hơi cổ, không sai nghĩa."
+  "result": "dat",
+  "notes": "Không mở được bài gốc của Bùi Duy Tân (Tạp chí Nghiên cứu văn học số 6/2007). Đã thử: https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261 (là bài Lý Thơ Phúc 2008, PDF nén, không đọc được văn bản), https://vjol.info.vn/sphcm/article/view/15090 (trang mô tả, không nhắc Bùi Duy Tân), https://vjol.info.vn/index.php/NNDS/article/download/15738/14148 (PDF không đọc được). Một lần tìm web cho thấy một bài khác của Lý Thơ Phúc trích Bùi Duy Tân (2007) và Toàn thư chỉ có câu \"Đế ký bình Ngô, đại cáo thiên hạ\" nhưng tôi không mở được trang đó để lấy chữ. Phần Toàn thư không có nhan đề: đã kiểm trực tiếp. Gợi ý nhẹ: câu dịch \"bá cáo\" cho 大告 hơi cổ, không sai nghĩa.\nLượt 2: mở được PDF Lý Thơ Phúc 2008 (tải về, trích văn bản bằng pymupdf/pypdf): bài dẫn đúng ý Bùi Duy Tân về nhan đề không có trong Toàn thư và \"phải tồn nghi\"; claim chuyển dung."
 }

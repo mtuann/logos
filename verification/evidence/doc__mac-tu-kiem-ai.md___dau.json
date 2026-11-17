@@ -1,8 +1,8 @@
 {
  "unit": "doc/mac-tu-kiem-ai.md#_dau",
- "hash": "sha256:257310acd4e990951eea4199b4140bbef178bace319ea9e95029df5dd330bd01",
+ "hash": "sha256:cd14e9b6feb9dc948f2cc513db53654429b3e70e6ec153e3211d90d7769b21fb",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k03",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
  "claims": [
   {
    "text": "Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN",
@@ -82,10 +82,11 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
-     "quote": "the Mohist movement declined, eventually vanishing altogether by the middle of the Western Han",
-     "where": "mục Historical Influence and Decline"
+     "quote": "the Mohist movement declined, eventually vanishing altogether by the middle of the Western Han (206 BCE–24 CE)",
+     "where": "mục Historical Influence and Decline; bài nay viết 'rồi lụi dần và biến mất khoảng giữa thời Tây Hán'"
     }
-   ]
+   ],
+   "fixed": true
   },
   {
    "text": "Kiêm ái (兼愛) và phi công (非攻) là luận đề cốt lõi",
@@ -101,7 +102,19 @@
   {
    "text": "Các liên kết ctext.org (Kiêm ái thượng, Kiêm ái hạ, Phi công thượng, Thiên chí thượng) mở được",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+     "quote": "兼愛上第十四 ... 盜愛其室不愛其異室，故竊異室以利其室",
+     "where": "quyết định 34: URL đúng mẫu, nội dung đối chiếu ở zh.wikisource 墨子閒詁 卷四 (兼愛上, 兼愛下), 卷五 (非攻上), 墨子/天志上"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Mozi",
+     "quote": "url=https://ctext.org/mozi/universal-love-i|title=Mozi : Book 4 : Universal Love I - Chinese Text Project",
+     "where": "chú thích; xác nhận mẫu đường dẫn ctext.org/mozi/<tên-thiên-tiếng-Anh>-<số La Mã> (Wikipedia còn dùng condemnation-of-offensive-war-iii, will-of-heaven-ii, gong-shu)"
+    }
+   ]
   }
  ],
  "checklist": {
@@ -111,6 +124,6 @@
   "trung-lap": true,
   "thuat-ngu": true
  },
- "result": "chua-kiem-duoc",
- "notes": "ctext.org bị chặn (trang 'Checking the security of your connection', cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay. Nội dung bốn thiên tương ứng đã đối chiếu qua zh.wikisource.org/wiki/墨子/兼愛上, 兼愛下, 非攻上, 天志上. Claim 'lụi tàn sau Tần' mức nhe (SEP: biến mất khoảng giữa Tây Hán)."
+ "result": "dat",
+ "notes": "ctext.org bị chặn (trang 'Checking the security of your connection', cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay. Nội dung bốn thiên tương ứng đã đối chiếu qua zh.wikisource.org/wiki/墨子/兼愛上, 兼愛下, 非攻上, 天志上. Claim 'lụi tàn sau Tần' mức nhe (SEP: biến mất khoảng giữa Tây Hán).\nLượt 2: claim 'lụi tàn' đã sửa trong bài ('lụi dần và biến mất khoảng giữa thời Tây Hán') → fixed. Link ctext: ctext.org vẫn trả trang 'Checking the security of your connection' (curl thường, không giả UA); xét theo quyết định 34: nội dung đối chiếu ở zh.wikisource 墨子閒詁/卷四, 卷五, 墨子/天志上; mẫu URL xác nhận qua chú thích Wikipedia (Mozi : Book 4 : Universal Love I)."
 }

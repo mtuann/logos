@@ -1,8 +1,8 @@
 {
   "unit": "doc/aristotle-dao-duc.md#_dau",
-  "hash": "sha256:46534af33d14fa956da298c2c0824b9d0e59fb3571f1c7652a068e319259e8de",
+  "hash": "sha256:ddc5447bc29ec0fd42f9ca426c0b4ddfa56b3daf41e68bae7f80c1f2c993e6b5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k06",
+  "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r06",
   "claims": [
     {
       "text": "Đạo đức Nicomachus là tác phẩm đạo đức học nền tảng của Aristotle (384–322 TCN)",
@@ -102,7 +102,8 @@
         }
       ],
       "severity": "nhe",
-      "fix": "W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, 1925; Ross mất năm 1971)."
+      "fix": "W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, 1925; Ross mất năm 1971).",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -113,5 +114,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tập IX, bản dịch Ross, lời tựa tháng 7/1925 (ảnh trang preface đã mở): đúng. Năm mất 1971 đúng (Wikidata, Wikisource Author page ghi \"1971 deaths\"). Cụm \"bản sửa năm 1925\" không có trong nguồn: lời tựa và trang tiêu đề không nói đây là bản sửa, trông như bản in đầu 1925; ghi nhe, chủ biên quyết. Archive.org ghi metadata date 1915 là sai so với lời tựa (không phải lỗi của bài). Thời lượng đọc 25 phút/hai giờ là ước lượng, không kiểm."
+  "notes": "Tập IX, bản dịch Ross, lời tựa tháng 7/1925 (ảnh trang preface đã mở): đúng. Năm mất 1971 đúng (Wikidata, Wikisource Author page ghi \"1971 deaths\"). Cụm \"bản sửa năm 1925\" không có trong nguồn: lời tựa và trang tiêu đề không nói đây là bản sửa, trông như bản in đầu 1925; ghi nhe, chủ biên quyết. Archive.org ghi metadata date 1915 là sai so với lời tựa (không phải lỗi của bài). Thời lượng đọc 25 phút/hai giờ là ước lượng, không kiểm.\nLượt 2: bài đã bỏ \"bản sửa năm 1925\", nay ghi \"(Oxford, 1925; Ross mất năm 1971)\" đúng fix; đặt fixed: true, mã băm mới."
 }

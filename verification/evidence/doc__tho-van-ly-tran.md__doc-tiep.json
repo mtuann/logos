@@ -1,8 +1,8 @@
 {
   "unit": "doc/tho-van-ly-tran.md#doc-tiep",
-  "hash": "sha256:7135c6ae5e17fc50183d3ded884bf64a81aead8ec670764add9039369a0cc6eb",
+  "hash": "sha256:774240e8518ba54484718345d0dccaa2207ccead2017ce0ce3ec3824d5f2d9c9",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần — \"câu hỏi tu có cần bỏ đời được bàn đầy đủ\"",
@@ -10,9 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "Tu hành có nhất thiết phải rời bỏ đời sống không?",
-          "where": "trang đích docs/cau-hoi/truc-lam.md (đối chiếu nội bộ): khớp"
+          "url": "https://mtuann.github.io/logos/cau-hoi/truc-lam/",
+          "quote": "bài hỏi: tu hành có nhất thiết phải rời bỏ đời sống không, hay có thể \"ở giữa bụi trần mà vui với đạo\"?",
+          "where": "trang đã deploy, mở trong phiên"
         }
       ]
     },
@@ -22,9 +22,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "Đọc chậm Tâm kinh qua nguyên văn chữ Hán",
-          "where": "trang đích docs/doc/tam-kinh.md (đối chiếu nội bộ): mô tả hợp lý"
+          "url": "https://mtuann.github.io/logos/doc/tam-kinh/",
+          "quote": "1. Năm uẩn đều không 2. Sắc tức thị không 3. Trong cái không, không có…",
+          "where": "trang đã deploy, mục lục"
         }
       ]
     },
@@ -34,9 +34,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "惟我大越之國，實為文獻之邦",
-          "where": "trang đích: bài cáo có câu về nền văn hiến (đã mở nguồn gốc ở zh.wikisource Toàn thư quyển 10)"
+          "url": "https://mtuann.github.io/logos/doc/nguyen-trai-binh-ngo/",
+          "quote": "惟我大越之國，實為文獻之邦。",
+          "where": "trang đã deploy"
         }
       ]
     },
@@ -46,9 +46,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "Thiền Trúc Lâm: đời Trần, vua Trần Nhân Tông sau khi nhường ngôi đã xuất gia",
-          "where": "trang đích docs/lich-su/nhat-ban-viet-nam.md (đối chiếu nội bộ): có phần Việt Nam Thiền Trúc Lâm và Nho học, không có phần riêng \"thời Lý\""
+          "url": "https://mtuann.github.io/logos/lich-su/nhat-ban-viet-nam/",
+          "quote": "Việt Nam: Thiền Trúc Lâm và Nho học",
+          "where": "trang đã deploy, mục lục"
         }
       ]
     },
@@ -58,13 +58,14 @@
       "verdict": "sai",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "Hume … Ogilby … Milton",
-          "where": "trang đích docs/cau-hoi/cai-dep.md (đối chiếu nội bộ): không có chữ phật/zen/thiền/Lý–Trần; mô tả hàm ý rằng trang đích đặt thơ thiền cạnh câu hỏi"
+          "url": "https://mtuann.github.io/logos/cau-hoi/cai-dep/",
+          "quote": "1. Hume: cái đẹp là cảm giác, nhưng có \"người phê bình lý tưởng\" 2. Kant: phán đoán thẩm mỹ",
+          "where": "trang đã deploy, không bàn thơ thiền; bài hiện ghi \"câu hỏi triết học về cái đẹp, để đọc cạnh thơ thiền (trang ấy không bàn thơ thiền)\", khớp fix"
         }
       ],
       "severity": "nhe",
-      "fix": "Cái đẹp ở trong mắt người nhìn? — câu hỏi triết học về cái đẹp; đọc cạnh thơ thiền để thử áp dụng (trang này không bàn thơ thiền)"
+      "fix": "Cái đẹp ở trong mắt người nhìn? — câu hỏi triết học về cái đẹp; đọc cạnh thơ thiền để thử áp dụng (trang này không bàn thơ thiền)",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -75,5 +76,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một mô tả liên kết hơi vượt nội dung trang đích (mức nhẹ, tác giả có thể coi là gợi ý đọc chéo). Trang đích đối chiếu nội bộ trong repo, không phải nguồn ngoài."
+  "notes": "Một mô tả liên kết hơi vượt nội dung trang đích (mức nhẹ, tác giả có thể coi là gợi ý đọc chéo). Trang đích đối chiếu nội bộ trong repo, không phải nguồn ngoài.\nLượt 2: mở các trang đích trên mtuann.github.io/logos, cập nhật quote; mô tả trang Cái đẹp đã sửa → fixed: true."
 }

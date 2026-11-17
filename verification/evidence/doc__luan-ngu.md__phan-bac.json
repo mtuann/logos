@@ -1,8 +1,8 @@
 {
   "unit": "doc/luan-ngu.md#phan-bac",
-  "hash": "sha256:4e26c465b387bf8fd1d528808e74a87e9d5ad6737cd6f6fbe036cd83e6dfd8a2",
+  "hash": "sha256:00a9584b6b0d2ee80aace6c94f8eab7356269d756874cc6f61cfb20279369a48",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Mặc gia phê phán tang lễ linh đình, để tang kéo dài khi dân còn nghèo",
@@ -45,7 +45,8 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
           "quote": "the Mohists evidently agree with the commonsense view that we have a greater ethical responsibility toward those with whom we have close personal relationships, and in practice we should care for them first"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Mạnh Tử (Mencius) coi kiêm ái là bỏ cha, các nhà Nho sau theo đó cho là trái bản tính con người (cơ sở cho \"Cách đáp lại\")",
@@ -115,6 +116,33 @@
           "where": "三之四"
         }
       ]
+    },
+    {
+      "text": "Thứ bậc và gia đình đặt trên công lý ... Phải chăng đây là mầm của thói bao che?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "one's family role and state role could conflict",
+          "where": "bàn chuyện Trực Cung (13.18)"
+        }
+      ]
+    },
+    {
+      "text": "Lễ gò bó, quân tử xa vời. Nhiều người hiện đại thấy \"lễ\" là khuôn phép trói buộc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "led many in the modern period to label him a traditionalist"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "the things that held China back from modernization"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -124,6 +152,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Lỗi vua ở Phản bác 1: đặt Mặc gia như người đòi thương mọi người \"như nhau\" và phê phán việc thương người thân trước; SEP gọi đây là hiểu lầm phổ biến và ghi Mặc gia vẫn chấp nhận chăm người thân trước. Cần cân nhắc cả câu \"đòi thương mọi người như nhau có thể vượt quá sức con người\" ở Cách đáp lại: SEP nói chỉ đúng với cách đọc \"như nhau tuyệt đối\" (probably untenable), nên cũng nên nêu rõ đó là một cách đọc."
+  "result": "dat",
+  "notes": "Lỗi vua ở Phản bác 1: đặt Mặc gia như người đòi thương mọi người \"như nhau\" và phê phán việc thương người thân trước; SEP gọi đây là hiểu lầm phổ biến và ghi Mặc gia vẫn chấp nhận chăm người thân trước. Cần cân nhắc cả câu \"đòi thương mọi người như nhau có thể vượt quá sức con người\" ở Cách đáp lại: SEP nói chỉ đúng với cách đọc \"như nhau tuyệt đối\" (probably untenable), nên cũng nên nêu rõ đó là một cách đọc. | Lượt 2: Phản bác 1 đã sửa đúng ý fix (bài hiện ghi \"quan tâm đến mọi người, không gạt ai ra ngoài\", dẫn Fraser SEP; Cách đáp lại nói rõ \"nếu hiểu ... như nhau tuyệt đối\") → fixed. Thêm claim cho phản bác 2 và 3 (không gắn tác giả): SEP Confucius có nêu xung đột vai trò gia đình/nhà nước và phê phán hiện đại coi Khổng Tử là bảo thủ."
 }

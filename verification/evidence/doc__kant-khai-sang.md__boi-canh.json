@@ -2,7 +2,7 @@
   "unit": "doc/kant-khai-sang.md#boi-canh",
   "hash": "sha256:27621e798dd49d5c48dbf5f4ffabe1aac1be73f14646da762ff70c0df7e077b7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k08",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
   "claims": [
     {
       "text": "Tháng 12/1783, Zöllner trong bài về việc bỏ nghi thức tôn giáo khỏi hôn nhân ghi chú rằng \"khai sáng là gì?\" gần như quan trọng ngang \"chân lý là gì?\", chưa thấy ai trả lời",
@@ -19,7 +19,19 @@
     {
       "text": "Johann Friedrich Zöllner là mục sư",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/ADB:Z%C3%B6llner,_Johann_Friedrich",
+          "quote": "Durch den Minister v. Zedlitz erhielt er die Stelle eines Predigers an der Charité und bald darauf das Diakonat an der Marienkirche. 1788 ernannte ihn der König zum Propst an der St. Nikolaikirche",
+          "where": "ADB Bd. 55, tr. 423–425 (Friedrich Wienecke); năm 1783 ông là mục sư (Prediger/Diakon) ở Berlin"
+        },
+        {
+          "url": "https://de.wikipedia.org/wiki/Johann_Friedrich_Z%C3%B6llner",
+          "quote": "war ein Berliner Pfarrer",
+          "where": "\"Ab 1779 war er Prediger an der Charité. Im Jahr 1781 wurde er Prediger an der Berliner Marienkirche.\""
+        }
+      ]
     },
     {
       "text": "Mendelssohn trả lời năm 1784, số tháng 9",
@@ -69,6 +81,11 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/hamann/",
           "quote": "through the intercession of his acquaintance, Immanuel Kant",
           "where": "Hamann; gián tiếp: Kant ở Königsberg"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant/",
+          "quote": "In 1770, at the age of forty-six, Kant was appointed to the chair in logic and metaphysics at the Albertina",
+          "where": "mục 1; cùng mục: \"the University of Königsberg, known as the Albertina\" → năm 1784 Kant là giáo sư ở Königsberg"
         }
       ]
     },
@@ -109,6 +126,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: Zöllner là \"mục sư\". Các nguồn đã mở (Wikisource chú thích) chỉ ghi tên, tựa bài; không có chức danh. Cần mở thêm tiểu sử Zöllner (ADB/NDB). Ngoài ra \"giáo sư\" Königsberg chỉ gián tiếp từ people/kant; đã đọc data/people/kant.yml (sống và dạy học cả đời ở đó) nhưng không có chức danh ghi 1784, nên chưa coi là chứng cứ độc lập. Đã thử thêm deutsche-biographie.de (tìm kiếm): chỉ ghi \"1753 – 1804, Oberkonsistorialrat; Polyhistor; Pädagoge\", không có \"Prediger\"; de.wikisource trang Johann_Friedrich_Zöllner trả 404. Tức là Zöllner là quan chức giáo hội (Oberkonsistorialrat), chưa xác nhận từ nguồn đã mở là \"mục sư\"; mọi chi tiết khác của đơn vị đều đúng."
+  "result": "dat",
+  "notes": "Chưa kiểm được: Zöllner là \"mục sư\". Các nguồn đã mở (Wikisource chú thích) chỉ ghi tên, tựa bài; không có chức danh. Cần mở thêm tiểu sử Zöllner (ADB/NDB). Ngoài ra \"giáo sư\" Königsberg chỉ gián tiếp từ people/kant; đã đọc data/people/kant.yml (sống và dạy học cả đời ở đó) nhưng không có chức danh ghi 1784, nên chưa coi là chứng cứ độc lập. Đã thử thêm deutsche-biographie.de (tìm kiếm): chỉ ghi \"1753 – 1804, Oberkonsistorialrat; Polyhistor; Pädagoge\", không có \"Prediger\"; de.wikisource trang Johann_Friedrich_Zöllner trả 404. Tức là Zöllner là quan chức giáo hội (Oberkonsistorialrat), chưa xác nhận từ nguồn đã mở là \"mục sư\"; mọi chi tiết khác của đơn vị đều đúng. Lượt 2: Zöllner \"mục sư\" xác nhận qua ADB trên de.wikisource (Prediger an der Charité, Diakonat an der Marienkirche trước 1788) và de.wikipedia (\"Berliner Pfarrer\") → dung. Thêm SEP Kant (chair 1770 tại Albertina = ĐH Königsberg) làm nguồn trực tiếp cho \"giáo sư\". result dat."
 }

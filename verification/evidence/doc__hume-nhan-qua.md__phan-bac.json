@@ -1,8 +1,8 @@
 {
   "unit": "doc/hume-nhan-qua.md#phan-bac",
-  "hash": "sha256:095c62a884cd5a1faaaa9247330be334f2f6321c202fca1afdc7e28ed1cf1288",
+  "hash": "sha256:f1359dc5443fe991e5cd1e8553373836075c4c5dedd2d2174937756b09d09810",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k08",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
   "claims": [
     {
       "text": "Kant kể ký ức về Hume đã \"cắt ngang giấc ngủ giáo điều\" của ông (Prolegomena, 1783)",
@@ -54,7 +54,8 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
           "quote": "the majority of twentieth-century English-language commentators have rejected the idea that Kant has a genuine disagreement with Hume over the status of particular causal laws"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Ngoại tại luận: dùng quy nạp kiểm tra quy nạp chỉ là \"vòng tròn quy tắc\", không phải vòng tròn tiền đề; nếu quy tắc đáng tin thì niềm tin vẫn được biện minh",
@@ -117,5 +118,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một lỗi nhe (thiếu \"tiếng Anh\" so với SEP). Số trong bảng sinh từ [[pp:…]] và do tools/kb_philpapers + tools/philpapers-2020.md đảm nhiệm, tôi không kiểm số; chỉ kiểm tên câu hỏi: tools/philpapers-2020.md có dòng \"Quy luật tự nhiên (n ≈ 1.550)\" (Bảng 1) và \"Hume (quan điểm của ông là gì?)\" (Bảng 2) với đúng các lựa chọn. survey2020.philpeople.org trả 403 với bot nên chỉ mở được DOI."
+  "notes": "Một lỗi nhe (thiếu \"tiếng Anh\" so với SEP). Số trong bảng sinh từ [[pp:…]] và do tools/kb_philpapers + tools/philpapers-2020.md đảm nhiệm, tôi không kiểm số; chỉ kiểm tên câu hỏi: tools/philpapers-2020.md có dòng \"Quy luật tự nhiên (n ≈ 1.550)\" (Bảng 1) và \"Hume (quan điểm của ông là gì?)\" (Bảng 2) với đúng các lựa chọn. survey2020.philpeople.org trả 403 với bot nên chỉ mở được DOI. Lượt 2: bài hiện ghi \"phần đông các nhà bình luận Kant viết bằng tiếng Anh ở thế kỷ 20\", khớp fix và SEP → fixed: true; cập nhật hash."
 }

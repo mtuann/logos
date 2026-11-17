@@ -1,8 +1,8 @@
 {
   "unit": "doc/platon-hang-dong.md#phan-bac",
-  "hash": "sha256:9bae927e8354beda310513d4c558459bff4a71b31896de963006f702e33d11a1",
+  "hash": "sha256:f0a0875b0e92a3ddc8d37bd95e5bec7f0a070dfd9037622c6c52cca79f8e8afd",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k05",
+  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Aristotle... \"Siêu hình học\" I.9: ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật",
@@ -28,7 +28,8 @@
           "quote": "for they are not even the substance of these, else they would have been in them",
           "where": "Ross; luật 2 của AGENTS.md yêu cầu ghi '(bản dịch của Logos)' cho bản dịch của site"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "chính Platon, trong Parmenides, đã tự nêu những phản bác sắc bén với thuyết ý niệm",
@@ -82,7 +83,8 @@
           "quote": "strident critiques of philosophical presuppositions underpinning all forms of totalitarianism",
           "where": "SEP Popper không nhắc Cộng hòa hay Platon ngoài thư mục"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Ẩn dụ đòi người hiểu biết phải phục vụ chứ không hưởng quyền: họ bị buộc quay về, và người ít ham quyền nhất mới đáng cầm quyền (520d)",
@@ -134,5 +136,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Hai lỗi mức nhe, không làm sai nội dung: (1) câu trích Aristotle tiếng Việt thiếu nhãn '(bản dịch của Logos)'; nội dung dịch sát Ross; (2) 'chống dân chủ' nên là 'toàn trị' theo nguồn SEP đã mở (Brown 4.4); mục SEP Popper trong Nguồn không chứa khẳng định này. Chỉ có lỗi mức nhe nên result là dat. Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey)."
+  "notes": "Hai lỗi mức nhe, không làm sai nội dung: (1) câu trích Aristotle tiếng Việt thiếu nhãn '(bản dịch của Logos)'; nội dung dịch sát Ross; (2) 'chống dân chủ' nên là 'toàn trị' theo nguồn SEP đã mở (Brown 4.4); mục SEP Popper trong Nguồn không chứa khẳng định này. Chỉ có lỗi mức nhe nên result là dat. Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey).\nLượt 2: Bài đã sửa: câu trích Aristotle có \"(Siêu hình học I.9; bản dịch của Logos)\"; Popper \"gốc rễ của tư tưởng toàn trị\" và SEP Brown (fall2026) đã vào Nguồn → hai claim fixed: true."
 }

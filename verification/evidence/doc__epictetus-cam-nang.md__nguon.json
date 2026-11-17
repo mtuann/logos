@@ -2,7 +2,7 @@
   "unit": "doc/epictetus-cam-nang.md#nguon",
   "hash": "sha256:e01e915dca86562f8f21901a6e6bb116b1b487fa15afe28df03adbfadfec0fe8",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k06",
+  "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r06",
   "claims": [
     {
       "text": "Epictetus, A Selection from the Discourses of Epictetus with the Encheiridion, bản dịch George Long, Project Gutenberg #10661",
@@ -36,7 +36,15 @@
     {
       "text": "(bản dịch của Long) in đầy đủ lần đầu trong ấn bản 1877",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/gutenberg.10661",
+      "sources": [
+        {
+          "url": "https://archive.org/download/discoursesofepic00epicrich/discoursesofepic00epicrich_djvu.txt",
+          "quote": "I intended at first to revise Mrs. Carter's translation ... I made my translation first, and then compared it with Mrs. Carter's and the Latin version.",
+          "where": "Lời dẫn của Long, tr. xiv–xv, bản London: George Bell and Sons, 1877 (trang tiêu đề: \"LONDON: GEORGE BELL AND SONS ... 1877\"); tìm Internet Archive theo title epictetus + creator long, sắp theo năm: bản Bell sớm nhất là 1877 (hai bản ghi ghi năm 1800 là siêu dữ liệu giả, nhà xuất bản Hurst/Altemus)"
+        }
+      ]
     },
     {
       "text": "Graver, Margaret, \"Epictetus\", SEP",
@@ -99,6 +107,6 @@
     "trung-lap": null,
     "thuat-ngu": null
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chỉ còn một ý nhỏ chưa kiểm được: \"in đầy đủ lần đầu\" năm 1877. Đã thử Wikisource Author:George_Long và tìm Internet Archive: xác nhận được năm 1877 và nhà xuất bản Bell, nhưng không có nguồn mở được nói rõ đây là lần in đầy đủ đầu tiên (Internet Archive chỉ có các bản in sau của Bell). Mức nhẹ; gợi ý chủ biên bỏ \"đầy đủ lần đầu\" nếu không có nguồn."
+  "result": "dat",
+  "notes": "Chỉ còn một ý nhỏ chưa kiểm được: \"in đầy đủ lần đầu\" năm 1877. Đã thử Wikisource Author:George_Long và tìm Internet Archive: xác nhận được năm 1877 và nhà xuất bản Bell, nhưng không có nguồn mở được nói rõ đây là lần in đầy đủ đầu tiên (Internet Archive chỉ có các bản in sau của Bell). Mức nhẹ; gợi ý chủ biên bỏ \"đầy đủ lần đầu\" nếu không có nguồn.\nLượt 2: dòng Nguồn trùng nguyên văn bản ghi sources/gutenberg.10661 (frozen) nên claim \"in đầy đủ lần đầu ... 1877\" ghi dung với kb theo ngoại lệ quyết định 35. Bổ trợ: lời dẫn của Long trong bản 1877 (Internet Archive) cho thấy đây là bản dịch mới của ông, không phải sửa bản Carter; bản Bell sớm nhất trên IA là 1877. Không có nguồn nói tường minh \"lần đầu đầy đủ\"; căn cứ chính là kb."
 }

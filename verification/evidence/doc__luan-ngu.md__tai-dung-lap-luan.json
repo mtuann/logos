@@ -2,7 +2,7 @@
   "unit": "doc/luan-ngu.md#tai-dung-lap-luan",
   "hash": "sha256:1a5dd95c5e1e45dc23985b3782073c64f1b36d3e82d7b824588289eb3decdedc",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "P1 (1.1): người ta thành người tốt nhờ rèn luyện hằng ngày, học rồi tập",
@@ -57,7 +57,24 @@
     {
       "text": "P3: đòi hỏi ở mình trước (15.21): số chương theo ctext.org",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download",
+          "quote": "15.21 The Master said, The junzi seeks it in himself; the small man seeks it in others.",
+          "where": "Eno 15.21"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "(12.2, cf. 5.12, 15.24)",
+          "where": "SEP cùng hệ số: 12.2, 15.24, 13.18, 6.22 trùng Eno"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E8%A1%9B%E9%9D%88%E5%85%AC%E7%AC%AC%E5%8D%81%E4%BA%94",
+          "quote": "子曰：「君子求諸己，小人求諸人。」",
+          "where": "Wikisource (hệ số Legge) 十五之二十 = 15.21 hệ ctext/SEP/Eno (chênh +1); 有教無類 ở 十五之三八 = 15.39"
+        }
+      ]
     },
     {
       "text": "Nhiều học giả xếp Luận ngữ vào đạo đức học đức hạnh (virtue ethics)",
@@ -109,6 +126,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. Số chương kiểu ctext.org chỉ đối chiếu gián tiếp (SEP cùng cách đánh số; Wikisource theo Legge, lệch 1-2). Điều \"Mạnh và Tuân tranh luận gay gắt\" hơi mạnh hơn SEP nhưng không sai."
+  "result": "dat",
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. Số chương kiểu ctext.org chỉ đối chiếu gián tiếp (SEP cùng cách đánh số; Wikisource theo Legge, lệch 1-2). Điều \"Mạnh và Tuân tranh luận gay gắt\" hơi mạnh hơn SEP nhưng không sai. | Lượt 2: 15.21 xác nhận bằng Eno 2015 (cùng hệ SEP), Wikisource 十五之二十 chênh +1."
 }

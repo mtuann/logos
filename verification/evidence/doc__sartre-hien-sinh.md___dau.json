@@ -2,7 +2,7 @@
   "unit": "doc/sartre-hien-sinh.md#_dau",
   "hash": "sha256:7e8e30004e4196a287188d47c91e08354b4bcff525a45692e7ba12aa428a3db9",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Jean-Paul Sartre (1905–1980)",
@@ -57,17 +57,52 @@
     {
       "text": "Tối 29/10/1945 ... câu lạc bộ Maintenant, Paris; in bởi Nagel 1946",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://yalebooks.yale.edu/book/9780300115468/existentialism-is-a-humanism/",
+          "quote": "accepted an invitation to speak on October 29, 1945, at the Club Maintenant in Paris",
+          "where": "trang sách của Yale University Press (bản Macomber 2007)"
+        },
+        {
+          "url": "https://www.sens-public.org/articles/378/",
+          "quote": "In October 1945 he gave a lecture at the Club Maintenant in Paris entitled, ‘ L’Existentialisme est un humanisme ’.",
+          "where": "Debbie Evans, \"1945-2005, Existentialism and humanism sixty years on\", Sens public"
+        },
+        {
+          "url": "http://catalogue.bnf.fr/ark:/12148/cb32604833t",
+          "quote": "L'existentialisme est un humanisme (7e éd.) Jean-Paul Sartre | Nagel (Paris) | 1946",
+          "where": "Catalogue BnF (SRU, Dublin Core): Nagel, Paris, 1946"
+        }
+      ]
     },
     {
       "text": "chừng 9.000 chữ",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bỏ con số \"chừng 9.000 chữ\" (ví dụ: \"bài nói phổ thông bằng tiếng Pháp, ngắn\"), hoặc ghi rõ \"bản dịch Anh của Mairet chừng 11.000 chữ\".",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "quote": "Translator: Philip Mairet",
+          "where": "Đếm từ phần thân bài (từ \"My purpose here\" đến hết, bỏ thẻ HTML): khoảng 11.000 từ tiếng Anh, chỉ gồm bài nói, không có phần thảo luận. Không tìm được nguồn nào cho con số 9.000 chữ của bản Pháp; bản Anh dài hơn hẳn nên con số không có căn cứ."
+        }
+      ]
     },
     {
       "text": "còn bản quyền nên không có bản trực tuyến hợp pháp miễn phí",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bỏ vế \"không có bản trực tuyến hợp pháp miễn phí\"; chỉ giữ \"văn bản còn bản quyền (Sartre mất năm 1980)\" và bản dịch Macomber (Yale, 2007).",
+      "sources": [
+        {
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "quote": "Copyright: reproduced under the “Fair Use” provisions",
+          "where": "marxists.org đăng toàn văn bản Anh (Mairet) và tự nhận theo \"Fair Use\"; tính hợp pháp của một bản trực tuyến không kiểm được, nên khẳng định phủ định \"không có bản hợp pháp\" không có căn cứ."
+        }
+      ]
     }
   ],
   "checklist": {
@@ -77,6 +112,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Ngày 29/10/1945, tên câu lạc bộ Maintenant, nhà in Nagel, 9.000 chữ: không thấy trong SEP fall2026 (chỉ nói 'cuối 1945', 'many thousands of Parisians', 1946), IEP, Wikipedia (không nêu ngày/câu lạc bộ), marxists.org (chỉ ghi 'Lecture given in 1946'). Chỉ có kết quả tìm kiếm thứ cấp (schoolmouv) nói 29/10/1945, Club Maintenant, Nagel 1946: chưa đủ làm bằng chứng. Gợi ý: nguồn học thuật (lời tựa Elkaïm-Sartre bản Yale hoặc Folio) để xác nhận. Mục 'không có bản trực tuyến hợp pháp': marxists.org đang đăng bản tiếng Anh (Mairet) toàn văn; tư cách bản quyền chưa xác minh được, nên cần chủ biên cân nhắc lại câu này. Số ebook không áp dụng. Câu hỏi để tự viết: không có."
+  "result": "dat",
+  "notes": "Ngày 29/10/1945, tên câu lạc bộ Maintenant, nhà in Nagel, 9.000 chữ: không thấy trong SEP fall2026 (chỉ nói 'cuối 1945', 'many thousands of Parisians', 1946), IEP, Wikipedia (không nêu ngày/câu lạc bộ), marxists.org (chỉ ghi 'Lecture given in 1946'). Chỉ có kết quả tìm kiếm thứ cấp (schoolmouv) nói 29/10/1945, Club Maintenant, Nagel 1946: chưa đủ làm bằng chứng. Gợi ý: nguồn học thuật (lời tựa Elkaïm-Sartre bản Yale hoặc Folio) để xác nhận. Mục 'không có bản trực tuyến hợp pháp': marxists.org đang đăng bản tiếng Anh (Mairet) toàn văn; tư cách bản quyền chưa xác minh được, nên cần chủ biên cân nhắc lại câu này. Số ebook không áp dụng. Câu hỏi để tự viết: không có.\nLượt 2: Ngày 29/10/1945 và Club Maintenant xác nhận qua trang Yale UP và bài Sens public (Evans); Nagel 1946 qua catalogue BnF → dung. \"9.000 chữ\": không có nguồn, bản Anh Mairet ~11.000 từ → sai nhe. \"Không có bản trực tuyến hợp pháp\": marxists.org đăng toàn văn dưới danh nghĩa Fair Use, khẳng định phủ định không kiểm được → sai nhe, fix bỏ vế đó."
 }

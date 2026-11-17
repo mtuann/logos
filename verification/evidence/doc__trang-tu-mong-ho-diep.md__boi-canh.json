@@ -2,7 +2,7 @@
   "unit": "doc/trang-tu-mong-ho-diep.md#boi-canh",
   "hash": "sha256:b1fc85cbc348df0e7fc65f0efa59f3b7f4cbde1e292cb02c7a9e17140894c12f",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k02",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
   "claims": [
     {
       "text": "Trang Tử sống thời Chiến Quốc",
@@ -25,12 +25,22 @@
     {
       "text": "Tên thiên Tề vật luận có thể đọc hai cách; Legge dịch là \"The Adjustment of Controversies\"",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
+        {
+          "url": "https://archive.org/download/sacredbooksofchi01oxfo/sacredbooksofchi01oxfo_djvu.txt",
+          "quote": "Mr. Balfour has translated this title by 'Essay on the Uniformity of All Things;' ... The second and third characters, Wu Lun, are taken together, and mean 'Discussions about Things,' equivalent to our 'Controversies.' They are under the government of the first character Khi, used as a verb, with the signification of 'Harmonising,' or 'Adjusting.'",
+          "where": "SBE 39, Introduction, Brief notices of the different Books, Bk. II (tr. 128-129): Legge nêu cả hai cách đọc và chọn cách sau"
+        },
+        {
+          "url": "https://archive.org/download/sacredbooksofchi01oxfo/sacredbooksofchi01oxfo_djvu.txt",
+          "quote": "Khi Wu Lun, or 'The Adjustment of Controversies'",
+          "where": "đầu Book II của bản dịch"
+        },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/zhuangzi/",
           "quote": "Essay on Seeing Things as Equal",
-          "where": "Graham 1969, chỉ cho một cách dịch"
+          "where": "cách đọc thứ nhất (Graham)"
         }
       ]
     },
@@ -88,6 +98,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa xác nhận Legge dịch tiêu đề là \"The Adjustment of Controversies\" (ctext.org chặn bot (thông báo cấm scrape), sacred-texts 403, web.archive bị chặn); SEP chỉ cho Graham \"Essay on Seeing Things as Equal\" và không bàn hai cách đọc tiêu đề trong phần đọc được. Phần còn lại đúng."
+  "result": "dat",
+  "notes": "Chưa xác nhận Legge dịch tiêu đề là \"The Adjustment of Controversies\" (ctext.org chặn bot (thông báo cấm scrape), sacred-texts 403, web.archive bị chặn); SEP chỉ cho Graham \"Essay on Seeing Things as Equal\" và không bàn hai cách đọc tiêu đề trong phần đọc được. Phần còn lại đúng.\nLượt 2: Hai cách đọc tên thiên và bản dịch 'The Adjustment of Controversies' xác nhận trong lời dẫn của chính Legge (SBE 39, archive.org)."
 }

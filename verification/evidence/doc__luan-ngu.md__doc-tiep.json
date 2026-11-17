@@ -2,7 +2,7 @@
   "unit": "doc/luan-ngu.md#doc-tiep",
   "hash": "sha256:9bac7aa93f9d996ba1121920f75e210d2085e276fda588ad8ecd594d458c3206",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Liên kết nội bộ tới 5 trang đều tồn tại trong docs/ (dao-duc-hanh-dong, nho-giao-viet, noi-doi, mac-tu-kiem-ai, duc-tri)",
@@ -10,9 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "Kiểm bằng ls docs/cau-hoi/*.md docs/doc/mac-tu-kiem-ai.md trên repo, không phải trang web",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học",
+          "where": "HTTP 200, <title>; cùng mở được: cau-hoi/nho-giao-viet/, cau-hoi/noi-doi/, doc/mac-tu-kiem-ai/, cau-hoi/duc-tri/ (mở 17/11/2026)"
         }
       ]
     },
@@ -22,9 +22,14 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "docs/cau-hoi/noi-doi.md dòng 84: \"(2.22) ... người con ra làm chứng việc cha trộm dê ... (13.18)\"",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "Khổng Tử nói (2.22): \"人而無信，不知其可也\"",
+          "where": "trang đã deploy"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/noi-doi/",
+          "quote": "cha giấu cho con, con giấu cho cha, sự ngay thẳng ở trong đó (13.18)",
+          "where": "trang đã deploy"
         }
       ]
     },
@@ -34,16 +39,28 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "docs/cau-hoi/duc-tri.md dòng 54: \"Đức của người quân tử như gió ...\" (12.19)",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/cau-hoi/duc-tri/",
+          "quote": "\"Đức của người quân tử như gió, đức của kẻ tiểu nhân như cỏ — gió thổi qua, cỏ ắt rạp xuống.\"",
+          "where": "trang đã deploy (12.19)"
         }
       ]
     },
     {
-      "text": "nho-giao-viet.md bàn \"Luận ngữ đã định hình giáo dục Việt Nam thế nào\": trang đó nói về Tứ thư và khoa cử chứ chưa thấy bàn riêng Luận ngữ",
+      "text": "nho-giao-viet.md: \"Luận ngữ đã định hình giáo dục Việt Nam thế nào\"",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan",
+          "where": "trang đã deploy; Luận ngữ là một trong Tứ thư (bối cảnh của bài, SEP)"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nho-giao-viet/",
+          "quote": "Đọc thêm: hướng dẫn đọc Bình Ngô đại cáo và Luận ngữ",
+          "where": "trang đã deploy, trỏ ngược về Luận ngữ"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -53,6 +70,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Mô tả \"Luận ngữ đã định hình giáo dục Việt Nam\" hơi rộng so với nội dung nho-giao-viet.md (nói Tứ thư Ngũ kinh, khoa cử); nhẹ, ghi để người viết cân nhắc. Không mở web được cho claim nội bộ, đối chiếu file cục bộ."
+  "result": "dat",
+  "notes": "Mô tả \"Luận ngữ đã định hình giáo dục Việt Nam\" hơi rộng so với nội dung nho-giao-viet.md (nói Tứ thư Ngũ kinh, khoa cử); nhẹ, ghi để người viết cân nhắc. Không mở web được cho claim nội bộ, đối chiếu file cục bộ. | Lượt 2: mở 5 trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang; nho-giao-viet bàn Tứ thư (gồm Luận ngữ) trong giáo dục khoa cử nên mô tả chấp nhận được."
 }

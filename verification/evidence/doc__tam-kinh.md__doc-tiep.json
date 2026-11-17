@@ -2,7 +2,7 @@
  "unit": "doc/tam-kinh.md#doc-tiep",
  "hash": "sha256:0d4c2b9e8028606264e7e9148f94931e2b4bb0308e8bc56465ea3f27d2a84df9",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k03",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
  "claims": [
   {
    "text": "Các trang đích nội bộ tồn tại (an-do, dao-duc-kinh, cai-toi, truc-lam, duc-phat, lao-tu, nagarjuna)",
@@ -10,15 +10,38 @@
    "verdict": "dung",
    "sources": [
     {
-     "url": "https://mtuann.github.io/logos/",
-     "quote": "kiểm bằng ls: docs/lich-su/an-do.md, docs/doc/dao-duc-kinh.md, docs/cau-hoi/cai-toi.md, docs/cau-hoi/truc-lam.md, docs/triet-gia/{duc-phat,lao-tu}.md"
+     "url": "https://mtuann.github.io/logos/lich-su/an-do/",
+     "quote": "Ấn Độ: giải thoát khỏi khổ đau ... Đức Phật: Tứ diệu đế và vô ngã"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/doc/dao-duc-kinh/",
+     "quote": "4. Cái trống rỗng mới dùng được (chương 11)"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/cai-toi/",
+     "quote": "không có cái tôi thường hằng, con người chỉ là tập hợp ngũ uẩn"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cau-hoi/truc-lam/",
+     "quote": "Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần ... Bát nhã Tâm kinh"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/triet-gia/lao-tu/",
+     "quote": "Lão Tử - Logos Zero"
     }
    ]
   },
   {
    "text": "Chương 11 Đạo đức kinh bàn cái 'không' (xe, bình, nhà), đặt cạnh cái không của Bát nhã",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/道德經_(王弼本)",
+     "quote": "十一章 三十輻共一轂，當其無，有車之用。 ... 埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。",
+     "where": "chương 11: xe, đồ gốm (bình), nhà"
+    }
+   ]
   }
  ],
  "checklist": {
@@ -28,6 +51,6 @@
   "trung-lap": null,
   "thuat-ngu": null
  },
- "result": "chua-kiem-duoc",
- "notes": "Wikisource 道德經 chương 11 trả 404 theo URL thử; chưa đối chiếu. Chưa đọc nội dung các trang đích."
+ "result": "dat",
+ "notes": "Wikisource 道德經 chương 11 trả 404 theo URL thử; chưa đối chiếu. Chưa đọc nội dung các trang đích.\nLượt 2: mở các trang đích trên site đã deploy; chương 11 Đạo đức kinh đối chiếu ở zh.wikisource 道德經 (王弼本)."
 }

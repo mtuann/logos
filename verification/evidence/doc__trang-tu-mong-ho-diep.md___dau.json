@@ -1,8 +1,8 @@
 {
   "unit": "doc/trang-tu-mong-ho-diep.md#_dau",
-  "hash": "sha256:027b5ebfee2b45ad2c95ba2ad30773031774880189ace340dc12882636e62302",
+  "hash": "sha256:2ba46bfa71d9d9abaff6d488ceba9b5dbe650c57e3995d7eb2ec04003f0c34f6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k02",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
   "claims": [
     {
       "text": "chỉ khoảng sáu mươi chữ Hán, kể một giấc mơ",
@@ -113,7 +113,20 @@
     {
       "text": "ctext.org/zhuangzi/adjustment-of-controversies; bản dịch Legge (1891)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/sacredbooksofchi01oxfo/sacredbooksofchi01oxfo_djvu.txt",
+          "quote": "BOOK II. Part I. Section II. Khi Wu Lun, or 'The Adjustment of Controversies'",
+          "where": "SBE 39 (Clarendon Press 1891), Legge; trang tên sách ghi VOL. XXXIX ... 1891 ... TRANSLATED BY JAMES LEGGE"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
+          "quote": "南郭子綦隱几而坐，仰天而噓，嗒焉似喪其耦。",
+          "where": "quyết định 34: URL đúng mẫu, nội dung đối chiếu ở zh.wikisource; bản ghi frozen sources/ctext.zhuangzi-adjustment-of-controversies"
+        }
+      ],
+      "kb": "sources/ctext.zhuangzi-adjustment-of-controversies"
     },
     {
       "text": "Câu \"Ngoài chính sách Trang Tử\": chữ \"chính sách\" có vẻ gõ nhầm (ý \"chính cuốn sách\")",
@@ -127,7 +140,8 @@
         }
       ],
       "severity": "nhe",
-      "fix": "Ngoài chính cuốn sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP)."
+      "fix": "Ngoài chính cuốn sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -137,6 +151,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Không có lỗi vừa/nặng. Chưa xác nhận được URL ctext và bản Legge 1891: ctext.org chặn bot (thông báo cấm scrape), sacred-texts 403, web.archive bị chặn. Lưu ý: SEP không nói Wei \"mất năm 327\" mà \"reign ... ended about 327 BC\", đúng với cách hiểu của bài; phần \"các sử gia đời Hán xếp vào thời vua Uy\" SEP chỉ xác nhận tiểu sử Hán có suy đoán về thời kỳ, chấp nhận."
+  "result": "dat",
+  "notes": "Không có lỗi vừa/nặng. Chưa xác nhận được URL ctext và bản Legge 1891: ctext.org chặn bot (thông báo cấm scrape), sacred-texts 403, web.archive bị chặn. Lưu ý: SEP không nói Wei \"mất năm 327\" mà \"reign ... ended about 327 BC\", đúng với cách hiểu của bài; phần \"các sử gia đời Hán xếp vào thời vua Uy\" SEP chỉ xác nhận tiểu sử Hán có suy đoán về thời kỳ, chấp nhận.\nLượt 2: Claim ctext/Legge ghi dung (quyết định 34 + SBE 39 trên archive.org); câu 'chính sách' đã sửa thành 'Ngoài chính cuốn sách Trang Tử' đúng fix, đặt fixed: true."
 }

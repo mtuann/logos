@@ -2,7 +2,7 @@
   "unit": "doc/platon-bien-ho.md#_dau",
   "hash": "sha256:7f364f2b46be7082c542e3c09b1f640d7b08d75a5c0131c61a12a3003e479dae",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k05",
+  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Năm 399 TCN, một ông già 70 tuổi",
@@ -28,7 +28,24 @@
     {
       "text": "đứng trước khoảng 500 bồi thẩm",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://faculty.fiu.edu/~hauptli/Plato'sApologyLectureSupplement.htm",
+          "quote": "If indeed there were 500 jurors, as we have said, this means that the vote to convict Socrates was 280 to 220",
+          "where": "trích Brickhouse & Smith, \"Introduction\", The Trial and Execution of Socrates: Sources and Controversies (OUP 2002), do Hauptli (FIU) dẫn nguyên văn"
+        },
+        {
+          "url": "https://famous-trials.com/socrates/830-criminalprocedure",
+          "quote": "The jury consisted of 500 male citizens over the age of thirty, chosen by lot from among volunteers.",
+          "where": "Douglas Linder, Famous Trials (UMKC)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=36a",
+          "quote": "if only thirty votes had been cast the other way, I should have been acquitted",
+          "where": "Apology 36a (Fowler): Platon không nêu tổng số; con số ~500 là của văn liệu, khớp chữ \"khoảng\""
+        }
+      ]
     },
     {
       "text": "Ông bị cáo buộc làm hư hỏng giới trẻ, không tin các vị thần mà thành phố tin và đưa vào những thần linh mới",
@@ -175,6 +192,6 @@
     "trung-lap": true,
     "thuat-ngu": null
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Còn một claim chưa kiểm được: 'khoảng 500 bồi thẩm' — không có trong Apology (Fowler/Jowett), SEP hay IEP bản đã mở; thử thêm Britannica 'Trial of Socrates', không có số; năm 'in lần đầu 1871' đã xác nhận gián tiếp qua catalog Internet Archive (bộ Dialogues of Plato 1871; 2nd ed. 1875). Gợi ý cho người làm: nêu nguồn cho con số bồi thẩm (ví dụ Aristotle, Athenaion Politeia 68) hoặc bỏ 'khoảng 500' nếu không tìm được. Gutenberg #1656 chặn bot (trang bảo trì) nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1656/pg1656.txt; số Stephanus lấy từ Perseus (bản dịch Fowler, đối chiếu chữ Hy Lạp Burnet)."
+  "result": "dat",
+  "notes": "Còn một claim chưa kiểm được: 'khoảng 500 bồi thẩm' — không có trong Apology (Fowler/Jowett), SEP hay IEP bản đã mở; thử thêm Britannica 'Trial of Socrates', không có số; năm 'in lần đầu 1871' đã xác nhận gián tiếp qua catalog Internet Archive (bộ Dialogues of Plato 1871; 2nd ed. 1875). Gợi ý cho người làm: nêu nguồn cho con số bồi thẩm (ví dụ Aristotle, Athenaion Politeia 68) hoặc bỏ 'khoảng 500' nếu không tìm được. Gutenberg #1656 chặn bot (trang bảo trì) nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1656/pg1656.txt; số Stephanus lấy từ Perseus (bản dịch Fowler, đối chiếu chữ Hy Lạp Burnet).\nLượt 2: \"Khoảng 500 bồi thẩm\": Brickhouse & Smith (trích qua Hauptli, FIU) và Linder (Famous Trials) → dung; Platon chỉ nêu chênh 30 phiếu (36a). Britannica chặn truy cập tự động."
 }

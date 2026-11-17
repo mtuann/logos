@@ -2,7 +2,7 @@
   "unit": "doc/sartre-hien-sinh.md#doc-tung-doan-dien-y",
   "hash": "sha256:60d8cf244050ecb3d7b4ae8903482889088413189d43f644129b0fd345c4ecbb",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Sartre lấy ví dụ ... con dao rọc giấy ... bản chất có trước hiện hữu",
@@ -216,12 +216,41 @@
     {
       "text": "l'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. (nguyên văn Pháp)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.maphilosophie.fr/voir_un_texte.php?$cle=L'homme+est+condamn%C3%A9+%C3%A0+%C3%AAtre+libre",
+          "quote": "l'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde il est responsable de tout ce qu'il fait.",
+          "where": "trích đoạn giáo khoa (maphilosophie.fr); khác bài duy nhất ở dấu phẩy trước \"il est\", dị biệt dấu câu"
+        },
+        {
+          "url": "https://philo-lycee.fr/book/?file=.%2Flibert%C3%A9%2FSartre_libert%C3%A9.html&notion=libert%C3%A9",
+          "quote": "« L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. »",
+          "where": "trích đoạn giáo khoa thứ hai, độc lập; khớp từng chữ với bài"
+        },
+        {
+          "url": "https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm",
+          "quote": "man is condemned to be free. Condemned, because he did not create himself, yet is nevertheless at liberty, and from the moment that he is thrown into this world he is responsible for everything he does.",
+          "where": "bản Anh Mairet, đối chiếu nghĩa"
+        }
+      ]
     },
     {
       "text": "l'homme n'est rien d'autre que ce qu'il se fait (nguyên văn Pháp)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://dhspriory.org/kenny/PhilTexts/Sartre/Selections/sartre9.htm",
+          "quote": "L'homme n'est rien d'autre que ce qu'il se fait. Tel est le premier principe de l'existentialisme.",
+          "where": "trích đoạn giáo khoa (S. Carfantan, philosophie-spiritualite), ghi nguồn \"L'existentialisme est un humanisme Nagel, p. 17-23\""
+        },
+        {
+          "url": "http://palimpsestes.fr/textes_philo/sartre/existence.html",
+          "quote": "... l'homme n'est rien d'autre que ce qu'il se fait. Tel est le premier principe de l'existentialisme.",
+          "where": "trích đoạn giáo khoa thứ hai, độc lập"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -231,6 +260,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Diễn ý và bản dịch tiếng Việt khớp bản Mairet trên marxists.org (không dùng trí nhớ). Hai câu nguyên văn tiếng Pháp chưa đối chiếu được từng chữ: không mở được bản Pháp toàn văn (fr.wikisource 404, aufutur chỉ có 'L'homme est condamné à être libre', quotewise cắt ở 125 ký tự). Phần dịch tiếng Việt sát nghĩa với bản Anh. Độ dài trích Pháp là 2 câu: trong giới hạn. Ghi chú nhỏ (không phải lỗi): tiêu đề hộp trích ghi 'phần bị bỏ rơi' (abandonment) hợp với văn bản. Câu hỏi để tự viết/ghi chú Libet-tất định luận là diễn giải của bài, không gán cho Sartre."
+  "result": "dat",
+  "notes": "Diễn ý và bản dịch tiếng Việt khớp bản Mairet trên marxists.org (không dùng trí nhớ). Hai câu nguyên văn tiếng Pháp chưa đối chiếu được từng chữ: không mở được bản Pháp toàn văn (fr.wikisource 404, aufutur chỉ có 'L'homme est condamné à être libre', quotewise cắt ở 125 ký tự). Phần dịch tiếng Việt sát nghĩa với bản Anh. Độ dài trích Pháp là 2 câu: trong giới hạn. Ghi chú nhỏ (không phải lỗi): tiêu đề hộp trích ghi 'phần bị bỏ rơi' (abandonment) hợp với văn bản. Câu hỏi để tự viết/ghi chú Libet-tất định luận là diễn giải của bài, không gán cho Sartre.\nLượt 2: Hai câu nguyên văn Pháp đối chiếu với hai trích đoạn giáo khoa độc lập cho mỗi câu (một bản ghi trang Nagel tr. 17–23); khớp từng chữ, trừ một dấu phẩy ở một bản → dung. Không tìm được bản Pháp toàn văn mở (Google Books API hết hạn mức, bản Yale trên Internet Archive bị khóa)."
 }
