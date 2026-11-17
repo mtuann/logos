@@ -156,4 +156,4 @@ Số đoạn của *Enquiry* theo Hume Texts Online: <https://davidhume.org/text
 4. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
 5. De Pierris, Graciela & Michael Friedman, "Kant and Hume on Causality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/>
 6. Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

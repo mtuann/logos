@@ -238,6 +238,6 @@ Gợi ý độ dài: 200–350 chữ.
 5. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 6. Habermas, Jürgen (1992), *Faktizität und Geltung*, Frankfurt: Suhrkamp (bản tiếng Anh *Between Facts and Norms*, 1996, MIT Press).
 7. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
-8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 9. Morreau, Michael, "Arrow's Theorem", *Stanford Encyclopedia of Philosophy* (về nghịch lý Condorcet 1785 và định lý Arrow 1951). <https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/>
 

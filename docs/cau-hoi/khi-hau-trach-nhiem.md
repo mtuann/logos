@@ -89,7 +89,7 @@ Câu gần nhất là một câu bổ sung (chỉ một phần người tham gia
 | | Không lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]] |
 | | Khác | [[pp:dao-duc-moi-truong.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Câu này hỏi giá trị của thiên nhiên có quy về con người hay không — chủ đề của bài [Thiên nhiên có giá trị tự thân?](dao-duc-moi-truong.md) — chứ không hỏi ai chịu trách nhiệm cho khí hậu hay ta nợ gì thế hệ tương lai. Cả ba lập trường trong bài này đều có thể đứng trên nền "lấy con người làm trung tâm": ngay cả khi chỉ con người mới đáng kể, những người chưa sinh ra vẫn là con người. Mẫu khảo sát (khoảng [[pp:dao-duc-moi-truong/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh) cũng không đại diện cho mọi truyền thống.
 
@@ -191,4 +191,4 @@ Gợi ý độ dài: 250–400 chữ.
 1. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 2. Gardiner, Stephen M. (2011), *A Perfect Moral Storm: The Ethical Tragedy of Climate Change*, Oxford: Oxford University Press.
 3. CDP & Climate Accountability Institute (2017), *CDP Carbon Majors Report 2017* (100 nhà sản xuất nhiên liệu hóa thạch gắn với 71% phát thải công nghiệp từ 1988).
-4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

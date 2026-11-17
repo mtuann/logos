@@ -194,5 +194,5 @@ Gợi ý độ dài: 150–300 chữ.
 4. Kelly, Thomas (2005), "The Epistemic Significance of Disagreement", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1, Oxford: Oxford University Press.
 5. van Inwagen, Peter (1996), "It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence", trong Jeff Jordan & Daniel Howard-Snyder (chủ biên), *Faith, Freedom, and Rationality: Philosophy of Religion Today*, Lanham: Rowman & Littlefield.
 6. Feldman, Richard & Ted A. Warfield (chủ biên) (2010), *Disagreement*, Oxford: Oxford University Press.
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 8. Kious, W. Jacquelyne & Robert I. Tilling (1996), *This Dynamic Earth*, U.S. Geological Survey, mục "Historical perspective" (Wegener và thuyết trôi dạt lục địa, 1912). <https://pubs.usgs.gov/gip/dynamic/historical.html>

@@ -1,8 +1,8 @@
 {
   "unit": "doc/hume-nhan-qua.md#nguon",
-  "hash": "sha256:1b1591612ea6450d81015b6273221b553556b67728fe8e38deb03b129f07f2ec",
+  "hash": "sha256:c6403725b6a79f87514467641b3469385a6d430abdb425adb366b492ab65efa5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Gutenberg ebook 9662",
@@ -81,13 +81,14 @@
       ]
     },
     {
-      "text": "Bourget & Chalmers, Philosophers' Imprint 23 (11), 2023, doi 10.3998/phimp.2109",
+      "text": "Bourget & Chalmers, Philosophers' Imprint 23, bài số 11, 2023, doi 10.3998/phimp.2109",
       "kind": "du-kien",
       "verdict": "dung",
+      "fixed": true,
       "sources": [
         {
-          "url": "https://doi.org/10.3998/phimp.2109",
-          "quote": "Philosophers' Imprint 23: 11, 1–53"
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Issue Volume 23 • 2023 Identifiers DOI: https://doi.org/10.3998/phimp.2109 Publication details Pages: 1–53 Article Number: 11"
         }
       ]
     },
@@ -123,5 +124,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "survey2020.philpeople.org trả HTTP 403 với client tự động (đã thử / và /survey/results/5014); không phải dấu hiệu link chết nhưng không mở được trong phiên. Mọi nguồn khác mở được. SEP Hume ghi bản lưu fall2026 First published Jun 16, 2026, khớp \"(2026)\". Lượt 2: survey2020.philpeople.org vẫn 403 (chống bot); mở bản lưu Wayback 20261109 của trang chủ, thấy \"The 2020 PhilPapers Survey\" và \"Main survey results\" → dung. result dat."
+  "notes": "survey2020.philpeople.org trả HTTP 403 với client tự động (đã thử / và /survey/results/5014); không phải dấu hiệu link chết nhưng không mở được trong phiên. Mọi nguồn khác mở được. SEP Hume ghi bản lưu fall2026 First published Jun 16, 2026, khớp \"(2026)\". Lượt 2: survey2020.philpeople.org vẫn 403 (chống bot); mở bản lưu Wayback 20261109 của trang chủ, thấy \"The 2020 PhilPapers Survey\" và \"Main survey results\" → dung. result dat. [doi-loi] Dòng Bourget & Chalmers: '23 (11)' → '23, bài số 11' theo trang nhà xuất bản (cùng sửa bản ghi sources/doi.10-3998-phimp-2109)."
 }

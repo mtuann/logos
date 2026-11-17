@@ -193,4 +193,4 @@ Gợi ý độ dài: 200–350 chữ.
 13. Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, bản dịch C. K. Ogden (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
 14. Tarski, Alfred (1944), "The Semantic Conception of Truth and the Foundations of Semantics", *Philosophy and Phenomenological Research* 4(3): 341–376. <https://doi.org/10.2307/2102968>
 15. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge University Press. <https://doi.org/10.1017/CBO9780511625398>
-16. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+16. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

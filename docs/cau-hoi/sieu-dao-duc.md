@@ -205,4 +205,4 @@ Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, ph�
 11. Mackie, J. L. (1977), *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin, chương 1.
 12. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz, chương 6 ("Critique of Ethics and Theology").
 13. Gabriel, Iason (2020), "Artificial Intelligence, Values, and Alignment", *Minds and Machines* 30(3): 411–437. <https://doi.org/10.1007/s11023-020-09539-2>
-14. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+14. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

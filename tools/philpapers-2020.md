@@ -1,7 +1,7 @@
 # Số liệu PhilPapers Survey 2020 dùng trên site
 
 Nguồn: David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey",
-*Philosophers' Imprint* 23 (11), 2023. https://doi.org/10.3998/phimp.2109 —
+*Philosophers' Imprint* 23, bài số 11, 2023. https://doi.org/10.3998/phimp.2109 —
 bản trực tuyến: https://journals.publishing.umich.edu/phimp/article/id/2109/
 Kết quả đầy đủ: https://survey2020.philpeople.org/
 

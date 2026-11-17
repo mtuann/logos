@@ -206,5 +206,5 @@ Các đoạn được dẫn: Bentham, *An Introduction to the Principles of Mora
 16. Frankfurt, Harry G. (1986), "On Bullshit", *Raritan* 6: 81–100; in thành sách: Princeton University Press, 2005.
 17. Korsgaard, Christine M. (1986), "The Right to Lie: Kant on Dealing with Evil", *Philosophy and Public Affairs* 15 (4): 325–349. <https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>
 18. Hicks, Michael Townsen, James Humphries & Joe Slater (2024), "ChatGPT is bullshit", *Ethics and Information Technology* 26: 38. <https://doi.org/10.1007/s10676-024-09775-5>
-19. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+19. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 20. Dancy, Jonathan, "Moral Particularism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/>

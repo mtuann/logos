@@ -89,7 +89,7 @@ Khảo sát PhilPapers 2020 có **một** câu hỏi về phá thai. Đó là m�
 | | Không được phép | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khong-duoc-phep]] |
 | | Khác (lập trường khác, không có ý kiến…) | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Đọc con số này cần thận trọng hơn bình thường, vì mấy lẽ:
 
@@ -198,4 +198,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Marquis, Don (1989), "Why Abortion is Immoral", *The Journal of Philosophy*, vol. 86, no. 4, tr. 183–202. <https://doi.org/10.2307/2026961>
 3. Warren, Mary Anne (1973), "On the Moral and Legal Status of Abortion", *The Monist*, vol. 57, no. 1, tr. 43–61. <https://doi.org/10.5840/monist197357133>
 4. Harman, Elizabeth (2025), "The Ethics of Abortion", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/abortion/>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

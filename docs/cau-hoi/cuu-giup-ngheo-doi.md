@@ -96,7 +96,7 @@ Tuy nhiên, có ba câu hỏi *gần nhất* với chủ đề bài, và các co
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Hai câu đầu liên quan đến bài này ở chỗ: chúng đo lường sự sẵn lòng *chấp nhận một cái giá* (gây ra cái chết của một người) để cứu nhiều người hơn — và cho thấy đa số triết gia chấp nhận điều đó khi hành động là gián tiếp (bẻ ghi: [[pp:bai-toan-xe-dien-be-ghi.be-ghi]]%), nhưng ngần ngại khi phải trực tiếp dùng một người làm phương tiện (đẩy: [[pp:cay-cau-day-nguoi.day]]%). Tương tự, trong tranh luận về cứu trợ, câu hỏi cũng là: ta sẵn lòng trả giá đến đâu để cứu người — và cái giá đó có giới hạn nào không?
 
@@ -201,4 +201,4 @@ Gợi ý độ dài: 200–350 chữ.
 2. Singer, Peter (2009), *The Life You Can Save*, New York: Random House.
 3. Unger, Peter (1996), *Living High and Letting Die*, Oxford: Oxford University Press.
 4. GiveWell, "How Much Does It Cost To Save a Life?" (ước tính 3.000–5.500 đô-la Mỹ cho mỗi mạng người qua các tổ chức được đánh giá cao nhất). <https://www.givewell.org/how-much-does-it-cost-to-save-a-life>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

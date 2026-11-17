@@ -199,4 +199,4 @@ Gợi ý độ dài: 150–300 chữ.
 8. Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
 9. Shapiro, Lisa (chủ biên, 2007), *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press (thư từ năm 1643 về vấn đề tương tác).
 10. Kripke, Saul (1980), *Naming and Necessity*, Oxford: Blackwell (lập luận về tưởng tượng và khả hữu, dùng trong phản bác bước 2 của lập luận zombie).
-11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

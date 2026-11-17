@@ -190,4 +190,4 @@ Gợi ý độ dài: 150–300 chữ.
 9. Butler, Joseph (1736), "Of Personal Identity", phụ lục trong *The Analogy of Religion*, London (phản bác tính vòng tròn).
 10. Shoemaker, Sydney (1970), "Persons and Their Pasts", *American Philosophical Quarterly* 7: 269–285 (khái niệm ký ức-giả).
 11. Williams, Bernard (1970), "The Self and the Future", *Philosophical Review* 79: 161–180 (lập luận từ nỗi sợ đau khổ tương lai, chống lại tiêu chí tâm lý; viết trước *Reasons and Persons* nhưng thường được dùng để phản bác hướng của Parfit).
-12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

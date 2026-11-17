@@ -211,4 +211,4 @@ Các đoạn được dẫn: Aristotle, *Chính trị học* I.2 và *Đạo đ�
 28. Suler, John (2004), "The Online Disinhibition Effect", *CyberPsychology & Behavior* 7(3): 321–326. <https://doi.org/10.1089/1094931041291295>
 29. Lee, Peter (2016), "Learning from Tay's introduction", *Official Microsoft Blog*, 25/3/2016. <https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/>
 30. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
-31. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+31. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

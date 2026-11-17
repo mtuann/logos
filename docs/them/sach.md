@@ -3302,7 +3302,7 @@ Gợi ý độ dài: 150–300 chữ.
 9. Williamson, Timothy (2000), *Knowledge and Its Limits*, Oxford: Oxford University Press.
 10. Descartes, René, *Meditations on First Philosophy*, bản dịch John Veitch (in lại 1901), Suy niệm I, Wikisource (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I> (Bản tiếng Anh cổ hơn của William Molyneux, 1680, có trên Project Gutenberg: <https://www.gutenberg.org/ebooks/70091>.)
 11. Russell, Bertrand (1948), *Human Knowledge: Its Scope and Limits*, London: George Allen & Unwin (ví dụ chiếc đồng hồ đã dừng).
-12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -3668,7 +3668,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Kelly, Thomas (2005), "The Epistemic Significance of Disagreement", trong Tamar Szabó Gendler & John Hawthorne (chủ biên), *Oxford Studies in Epistemology*, tập 1, Oxford: Oxford University Press.
 5. van Inwagen, Peter (1996), "It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence", trong Jeff Jordan & Daniel Howard-Snyder (chủ biên), *Faith, Freedom, and Rationality: Philosophy of Religion Today*, Lanham: Rowman & Littlefield.
 6. Feldman, Richard & Ted A. Warfield (chủ biên) (2010), *Disagreement*, Oxford: Oxford University Press.
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 8. Kious, W. Jacquelyne & Robert I. Tilling (1996), *This Dynamic Earth*, U.S. Geological Survey, mục "Historical perspective" (Wegener và thuyết trôi dạt lục địa, 1912). <https://pubs.usgs.gov/gip/dynamic/historical.html>
 
 <div class="oz-page-break"></div>
@@ -3860,7 +3860,7 @@ Gợi ý độ dài: 200–350 chữ.
 13. Wittgenstein, Ludwig, *Tractatus Logico-Philosophicus*, bản dịch C. K. Ogden (1922), Wikisource. <https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus>
 14. Tarski, Alfred (1944), "The Semantic Conception of Truth and the Foundations of Semantics", *Philosophy and Phenomenological Research* 4(3): 341–376. <https://doi.org/10.2307/2102968>
 15. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge University Press. <https://doi.org/10.1017/CBO9780511625398>
-16. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+16. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -4443,7 +4443,7 @@ Viết 150–300 chữ. Nêu rõ lập trường của bạn, đưa ra ít nhấ
 10. Cogitate Consortium (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness". *Nature* 642: 133–142. <https://doi.org/10.1038/s41586-025-08888-1>
 11. Long, R., Sebo, J. và cộng sự (2024). *Taking AI Welfare Seriously*. arXiv:2411.00986. <https://arxiv.org/abs/2411.00986>
 12. Frankish, K. (2016). "Illusionism as a Theory of Consciousness". *Journal of Consciousness Studies* 23(11–12): 11–39.
-13. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+13. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 14. Cole, David, "The Chinese Room Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-room/>
 15. Oppy, Graham & David Dowe, "The Turing Test", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/turing-test/>
 16. Levin, Janet, "Functionalism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/functionalism/>
@@ -4634,7 +4634,7 @@ Năm đọc và năm in hai bài của Heidegger theo mục SEP "Martin Heidegge
 6. Bostrom, Nick (2014), *Superintelligence: Paths, Dangers, Strategies*, Oxford: Oxford University Press; và (2005), "In Defense of Posthuman Dignity", *Bioethics* 19(3): 202–214. <https://doi.org/10.1111/j.1467-8519.2005.00437.x>
 7. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 8. Winner, Langdon (1980), "Do Artifacts Have Politics?", *Daedalus* 109(1): 121–136.
-9. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+9. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -4831,7 +4831,7 @@ Gợi ý độ dài: 150–300 chữ.
 8. Descartes, René, *Meditations on First Philosophy*, Suy niệm VI, bản dịch tiếng Anh của John Veitch (phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI>
 9. Shapiro, Lisa (chủ biên, 2007), *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press (thư từ năm 1643 về vấn đề tương tác).
 10. Kripke, Saul (1980), *Naming and Necessity*, Oxford: Blackwell (lập luận về tưởng tượng và khả hữu, dùng trong phản bác bước 2 của lập luận zombie).
-11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -5019,7 +5019,7 @@ Gợi ý độ dài: 150–300 chữ.
 9. Butler, Joseph (1736), "Of Personal Identity", phụ lục trong *The Analogy of Religion*, London (phản bác tính vòng tròn).
 10. Shoemaker, Sydney (1970), "Persons and Their Pasts", *American Philosophical Quarterly* 7: 269–285 (khái niệm ký ức-giả).
 11. Williams, Bernard (1970), "The Self and the Future", *Philosophical Review* 79: 161–180 (lập luận từ nỗi sợ đau khổ tương lai, chống lại tiêu chí tâm lý; viết trước *Reasons and Persons* nhưng thường được dùng để phản bác hướng của Parfit).
-12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -5259,7 +5259,7 @@ Gợi ý độ dài: 150–300 chữ.
 14. Libet, Benjamin, Curtis A. Gleason, Elwood W. Wright & Dennis K. Pearl (1983), "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential)", *Brain* 106(3): 623–642. <https://doi.org/10.1093/brain/106.3.623>
 15. Schurger, Aaron, Jacobo D. Sitt & Stanislas Dehaene (2012), "An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement", *PNAS* 109(42): E2904–E2913. <https://doi.org/10.1073/pnas.1210467109>
 16. Bộ luật Hình sự số 100/2015/QH13 (sửa đổi, bổ sung năm 2017), Điều 13 và Điều 21.
-17. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+17. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -5462,7 +5462,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Fischer, John Martin & Mark Ravizza (1998), *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
 5. Aristotle, *Nicomachean Ethics*, Quyển III, bản dịch W. D. Ross, Internet Classics Archive (phạm vi công cộng). <https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html>
 6. Caruso, Gregg, "Skepticism About Moral Responsibility", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -5678,7 +5678,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về định mệnh/bi�
 3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <https://www.gutenberg.org/ebooks/14328>
 4. Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).
 5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài).
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -5793,7 +5793,7 @@ Khảo sát PhilPapers 2020 ([[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên n
 | | Không đẩy | [[pp:cay-cau-day-nguoi.khong-day]] |
 | | Khác | [[pp:cay-cau-day-nguoi.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lý thuyết cùng lúc nên tổng vượt 100%.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lý thuyết cùng lúc nên tổng vượt 100%.
 
 Đọc bảng này thế nào?
 
@@ -5863,7 +5863,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 5. Kant, Immanuel (1785), *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*).
 6. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -6066,7 +6066,7 @@ Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, ph�
 11. Mackie, J. L. (1977), *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin, chương 1.
 12. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz, chương 6 ("Critique of Ethics and Theology").
 13. Gabriel, Iason (2020), "Artificial Intelligence, Values, and Alignment", *Minds and Machines* 30(3): 411–437. <https://doi.org/10.1007/s11023-020-09539-2>
-14. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+14. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -6270,7 +6270,7 @@ Các đoạn được dẫn: Bentham, *An Introduction to the Principles of Mora
 16. Frankfurt, Harry G. (1986), "On Bullshit", *Raritan* 6: 81–100; in thành sách: Princeton University Press, 2005.
 17. Korsgaard, Christine M. (1986), "The Right to Lie: Kant on Dealing with Evil", *Philosophy and Public Affairs* 15 (4): 325–349. <https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>
 18. Hicks, Michael Townsen, James Humphries & Joe Slater (2024), "ChatGPT is bullshit", *Ethics and Information Technology* 26: 38. <https://doi.org/10.1007/s10676-024-09775-5>
-19. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+19. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 20. Dancy, Jonathan, "Moral Particularism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-particularism/>
 
 <div class="oz-page-break"></div>
@@ -6480,7 +6480,7 @@ Các đoạn được dẫn: Aristotle, *Chính trị học* I.2 và *Đạo đ�
 28. Suler, John (2004), "The Online Disinhibition Effect", *CyberPsychology & Behavior* 7(3): 321–326. <https://doi.org/10.1089/1094931041291295>
 29. Lee, Peter (2016), "Learning from Tay's introduction", *Official Microsoft Blog*, 25/3/2016. <https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/>
 30. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
-31. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+31. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -6667,7 +6667,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>
 2. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.
 3. Augustine, *Confessions*, Quyển 7 (khoảng năm 397–400, phạm vi công cộng).
-4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -6783,7 +6783,7 @@ Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số l
 | | Thuần chay (không cả hai) | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.thuan-chay-khong-ca-hai]] |
 | | Khác | [[pp:an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Đọc bảng này thế nào?
 
@@ -6860,7 +6860,7 @@ Gợi ý độ dài: 150–300 chữ.
 3. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
 4. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
 5. MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về "vị tha hiệu quả").
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -6962,7 +6962,7 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về chủ đề 
 | | Hệ quả luận | [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]] |
 | | Khác | [[pp:dao-duc-hoc-chuan-tac.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1–2. Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lựa chọn cùng lúc nên tổng vượt 100%.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1–2. Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn; ở câu đạo đức học chuẩn tắc, người trả lời được chấp nhận nhiều lựa chọn cùng lúc nên tổng vượt 100%.
 
 Đọc bảng này thế nào?
 
@@ -7034,7 +7034,7 @@ Gợi ý độ dài: 200–350 chữ.
 5. Taylor, Paul W. (1986), *Respect for Nature: A Theory of Environmental Ethics*, Princeton: Princeton University Press.
 6. Regan, Tom (1983), *The Case for Animal Rights*, Berkeley: University of California Press.
 7. Routley, Richard (1973), "Is There a Need for a New, an Environmental Ethic?", *Proceedings of the XVth World Congress of Philosophy* 1: 205–210.
-8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -7121,7 +7121,7 @@ Khảo sát PhilPapers 2020 có **một** câu hỏi về phá thai. Đó là m�
 | | Không được phép | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khong-duoc-phep]] |
 | | Khác (lập trường khác, không có ý kiến…) | [[pp:pha-thai-ba-thang-dau-khong-co-hoan-canh-dac-biet.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Đọc con số này cần thận trọng hơn bình thường, vì mấy lẽ:
 
@@ -7230,7 +7230,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Marquis, Don (1989), "Why Abortion is Immoral", *The Journal of Philosophy*, vol. 86, no. 4, tr. 183–202. <https://doi.org/10.2307/2026961>
 3. Warren, Mary Anne (1973), "On the Moral and Legal Status of Abortion", *The Monist*, vol. 57, no. 1, tr. 43–61. <https://doi.org/10.5840/monist197357133>
 4. Harman, Elizabeth (2025), "The Ethics of Abortion", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/abortion/>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -7318,7 +7318,7 @@ Khảo sát PhilPapers 2020 có một câu hỏi trực tiếp về án tử hì
 | | Phi thực chứng luận pháp lý | [[pp:luat-phap.phi-thuc-chung-luan-phap-ly]] |
 | | Khác | [[pp:luat-phap.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Đọc bảng này thế nào?
 
@@ -7427,7 +7427,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.
 3. Death Penalty Information Center, "Innocence" (ít nhất 203 người bị kết án tử hình được minh oan kể từ 1973, số liệu năm 2026). <https://deathpenaltyinfo.org/policy-issues/innocence>
 4. Hoskins, Zachary & Antony Duff, "Legal Punishment", *Stanford Encyclopedia of Philosophy* (về các lý thuyết biện minh cho hình phạt: báo ứng, hệ quả). <https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -7521,7 +7521,7 @@ Tuy nhiên, có ba câu hỏi *gần nhất* với chủ đề bài, và các co
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Hai câu đầu liên quan đến bài này ở chỗ: chúng đo lường sự sẵn lòng *chấp nhận một cái giá* (gây ra cái chết của một người) để cứu nhiều người hơn — và cho thấy đa số triết gia chấp nhận điều đó khi hành động là gián tiếp (bẻ ghi: [[pp:bai-toan-xe-dien-be-ghi.be-ghi]]%), nhưng ngần ngại khi phải trực tiếp dùng một người làm phương tiện (đẩy: [[pp:cay-cau-day-nguoi.day]]%). Tương tự, trong tranh luận về cứu trợ, câu hỏi cũng là: ta sẵn lòng trả giá đến đâu để cứu người — và cái giá đó có giới hạn nào không?
 
@@ -7626,7 +7626,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Singer, Peter (2009), *The Life You Can Save*, New York: Random House.
 3. Unger, Peter (1996), *Living High and Letting Die*, Oxford: Oxford University Press.
 4. GiveWell, "How Much Does It Cost To Save a Life?" (ước tính 3.000–5.500 đô-la Mỹ cho mỗi mạng người qua các tổ chức được đánh giá cao nhất). <https://www.givewell.org/how-much-does-it-cost-to-save-a-life>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -7713,7 +7713,7 @@ Câu gần nhất là một câu bổ sung (chỉ một phần người tham gia
 | | Không lấy con người làm trung tâm | [[pp:dao-duc-moi-truong.khong-lay-con-nguoi-lam-trung-tam]] |
 | | Khác | [[pp:dao-duc-moi-truong.khac]] |
 
-Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 (11), Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
+Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, bài số 11, Bảng 2 (câu bổ sung). Số liệu là % người trả lời "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
 Câu này hỏi giá trị của thiên nhiên có quy về con người hay không — chủ đề của bài [Thiên nhiên có giá trị tự thân?](../cau-hoi/dao-duc-moi-truong.md) — chứ không hỏi ai chịu trách nhiệm cho khí hậu hay ta nợ gì thế hệ tương lai. Cả ba lập trường trong bài này đều có thể đứng trên nền "lấy con người làm trung tâm": ngay cả khi chỉ con người mới đáng kể, những người chưa sinh ra vẫn là con người. Mẫu khảo sát (khoảng [[pp:dao-duc-moi-truong/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh) cũng không đại diện cho mọi truyền thống.
 
@@ -7815,7 +7815,7 @@ Gợi ý độ dài: 250–400 chữ.
 1. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 2. Gardiner, Stephen M. (2011), *A Perfect Moral Storm: The Ethical Tragedy of Climate Change*, Oxford: Oxford University Press.
 3. CDP & Climate Accountability Institute (2017), *CDP Carbon Majors Report 2017* (100 nhà sản xuất nhiên liệu hóa thạch gắn với 71% phát thải công nghiệp từ 1988).
-4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -7998,7 +7998,7 @@ Gợi ý độ dài: 250–400 chữ.
 5. Solove, Daniel J. (2008), *Understanding Privacy*, Cambridge, MA: Harvard University Press.
 6. Roessler, Beate & Judith DeCew, "Privacy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/privacy/>
 7. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026); Nghị định 356/2025/NĐ-CP, Điều 42 (Nghị định 13/2023/NĐ-CP hết hiệu lực từ 01/01/2026). <https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm>
-8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -8178,7 +8178,7 @@ Gợi ý độ dài: 250–400 chữ.
 3. Omelianchuk, Adam & David DeGrazia, "The Definition of Death", *Stanford Encyclopedia of Philosophy* (có bàn về báo cáo Harvard 1968 và ca Jahi McMath). <https://plato.stanford.edu/archives/fall2026/entries/death-definition/>
 4. Johnson, Eric J. & Daniel Goldstein (2003), "Do Defaults Save Lives?", *Science* 302 (5649): 1338–1339. <https://doi.org/10.1126/science.1091721>
 5. Fabre, John, Paul Murphy & Rafael Matesanz (2010), "Presumed consent: a distraction in the quest for increasing rates of organ donation", *BMJ* 341: c4973. <https://doi.org/10.1136/bmj.c4973>
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -8567,7 +8567,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Rawls, John (1971), *A Theory of Justice*, Cambridge, MA: Harvard University Press (tái bản sửa đổi 1999).
 5. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 6. Sandel, Michael J. (1982), *Liberalism and the Limits of Justice*, Cambridge: Cambridge University Press.
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 8. Freeman, Samuel, "Original Position", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/original-position/>
 
 <div class="oz-page-break"></div>
@@ -8778,7 +8778,7 @@ Gợi ý độ dài: 200–350 chữ.
 4. Cohen, G. A. (1989), "On the Currency of Egalitarian Justice", *Ethics* 99(4): 906–944. <https://doi.org/10.1086/293126>
 5. Anderson, Elizabeth (1999), "What Is the Point of Equality?", *Ethics* 109(2): 287–337. <https://doi.org/10.1086/233897>
 6. Rawls, John (1971), *A Theory of Justice* — xem thêm [bài về công lý](../cau-hoi/cong-ly.md).
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -8997,7 +8997,7 @@ Gợi ý độ dài: 200–350 chữ.
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
 6. Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -9233,7 +9233,7 @@ Gợi ý độ dài: 200–350 chữ.
 5. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 6. Habermas, Jürgen (1992), *Faktizität und Geltung*, Frankfurt: Suhrkamp (bản tiếng Anh *Between Facts and Norms*, 1996, MIT Press).
 7. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
-8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 9. Morreau, Michael, "Arrow's Theorem", *Stanford Encyclopedia of Philosophy* (về nghịch lý Condorcet 1785 và định lý Arrow 1951). <https://plato.stanford.edu/archives/fall2026/entries/arrows-theorem/>
 
 <div class="oz-page-break"></div>
@@ -9444,7 +9444,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 3. Brennan, Jason (2016), *Against Democracy*, Princeton: Princeton University Press.
 4. Churchill, Winston, phát biểu tại Hạ viện Anh, 11/11/1947, *Hansard* (Hạ viện), tập 444, cột 207. <https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -9648,7 +9648,7 @@ Các đoạn nguyên văn được dẫn: *Luận ngữ*, thiên 2.3 và 12.19; 
 4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 5. Van Norden, Bryan, "Mencius", SEP (sửa đổi 2024). <https://plato.stanford.edu/archives/fall2026/entries/mencius/>
 6. Pines, Yuri, "Legalism in Chinese Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -9861,7 +9861,7 @@ Nghịch lý khoan dung: Popper, *The Open Society and Its Enemies*, tập 1, ch
 2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 3. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
 4. *Abrams v. United States*, 250 U.S. 616 (1919), ý kiến bất đồng của thẩm phán Oliver Wendell Holmes. <https://www.law.cornell.edu/supremecourt/text/250/616>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -10066,7 +10066,7 @@ Gợi ý độ dài: 200–350 chữ.
 4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng).
 5. Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.
 6. Gilligan, Carol (1982), *In a Different Voice*, Cambridge, MA: Harvard University Press.
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 8. Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/>
 
 <div class="oz-page-break"></div>
@@ -10264,7 +10264,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Walzer, Michael (1977), *Just and Unjust Wars: A Moral Argument with Historical Illustrations*, New York: Basic Books.
 3. McMahan, Jeff (2009), *Killing in War*, Oxford: Oxford University Press.
 4. Lazar, Seth (2016), "War", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/war/>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -10470,7 +10470,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Carens, Joseph H. (1987), "Aliens and Citizens: The Case for Open Borders", *The Review of Politics* 49(2): 251–273. <https://doi.org/10.1017/S0034670500033817>
 3. Walzer, Michael (1983), *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic Books.
 4. Tuyên ngôn Quốc tế Nhân quyền (1948), Liên Hợp Quốc (văn kiện công cộng).
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -10668,7 +10668,7 @@ Gợi ý độ dài: 150–300 chữ.
 3. Hume, David (1757), "Of the Standard of Taste", trong *Four Dissertations*. Văn bản phạm vi công cộng. <https://davidhume.org/texts/empl1/st>
 4. Kant, Immanuel (1790), *Kritik der Urteilskraft* (*Phê phán năng lực phán đoán*); bản dịch tiếng Anh của J. H. Bernard (phạm vi công cộng), §16 về cái đẹp tự do và cái đẹp phụ thuộc. <https://www.gutenberg.org/ebooks/48433>
 5. Shelley, James, "The Concept of the Aesthetic", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aesthetic-concept/>
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -10875,7 +10875,7 @@ Gợi ý độ dài: 150–300 chữ.
 8. Gaut, Berys (2000), "'Art' as a Cluster Concept", trong Noël Carroll (chủ biên), *Theories of Art Today*, Madison: University of Wisconsin Press, tr. 25–44.
 9. "Duchamp's urinal tops art survey", *BBC News*, 01/12/2004. <http://news.bbc.co.uk/2/hi/entertainment/4059997.stm>
 10. Ebert, Roger (2010), "Okay, kids, play on my lawn", *RogerEbert.com*. <https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn>
-11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+11. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -11065,7 +11065,7 @@ Gợi ý độ dài: 150–300 chữ.
 7. Plantinga, Alvin (1974), *The Nature of Necessity*, Oxford: Clarendon Press — phiên bản modal của luận chứng bản thể luận.
 8. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, "Ontological Arguments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
 9. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/>
-10. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+10. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -11288,7 +11288,7 @@ Gợi ý độ dài: 200–350 chữ.
 4. Pascal, Blaise (1670), *Pensées*, đoạn "Infini-rien" (xuất bản sau khi tác giả mất).
 5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fideism/>
 6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -11680,7 +11680,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/>
 2. Armstrong, D. M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
-3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -11884,7 +11884,7 @@ Gợi ý độ dài: 150–300 chữ.
 5. MacBride, Fraser & Christopher Daly, "Truthmakers", *Stanford Encyclopedia of Philosophy* (về tranh luận thực tại luận – duy danh luận). <https://plato.stanford.edu/archives/fall2026/entries/truthmakers/>
 6. Aristotle, *Metaphysics*, các quyển VII–VIII (bàn về phổ quát trong sự vật). Bản dịch tiếng Anh của W. D. Ross (1908), trên The Internet Classics Archive (MIT). <https://classics.mit.edu/Aristotle/metaphysics.html>
 7. Maurin, Anna-Sofia, "Tropes", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/tropes/>
-8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -12085,7 +12085,7 @@ Gợi ý độ dài: 150–300 chữ.
 2. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 3. Emery, Nina, Ned Markosian & Meghan Sullivan, "Time", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/archives/fall2026/entries/time/>
 4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -12284,7 +12284,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Gallow, J. Dmitri, "The Metaphysics of Causation", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/causation-metaphysics/>
 2. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.
 3. Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>
-4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -12491,7 +12491,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Craig, William Lane (1979), *The Kalam Cosmological Argument*, London: Macmillan.
 3. Penrose, Roger (2010), *Cycles of Time: An Extraordinary New View of the Universe*, London: Bodley Head.
 4. Borde, Arvind, Alan H. Guth & Alexander Vilenkin (2003), "Inflationary Spacetimes Are Incomplete in Past Directions", *Physical Review Letters* 90, 151301. <https://doi.org/10.1103/PhysRevLett.90.151301>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -12701,7 +12701,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Descartes, René (1641), *Meditationes de prima philosophia*, Paris: Michel Soly.
 3. Jackson, Frank (1982), "Epiphenomenal Qualia", *The Philosophical Quarterly* 32(127): 127–136. <https://doi.org/10.2307/2960077>
 4. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -12889,7 +12889,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Putnam, Hilary (1981), *Reason, Truth and History*, Cambridge: Cambridge University Press (lập luận "bộ não trong bể", chương 1).
 3. Russell, Bertrand (1921), *The Analysis of Mind*, London: George Allen & Unwin, Bài giảng IX ("Memory") — giả thuyết "thế giới mới ra đời năm phút trước". <https://www.gutenberg.org/ebooks/2529>
 4. Beane, Silas R., Zohreh Davoudi & Martin J. Savage (2012), "Constraints on the Universe as a Numerical Simulation", arXiv:1210.1847; đăng trên *The European Physical Journal A* 50 (2014): 148. <https://arxiv.org/abs/1210.1847>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -13085,7 +13085,7 @@ Gợi ý độ dài: 200–350 chữ.
 3. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
 4. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Clarendon Press.
 5. Olson, Eric T. (1997), *The Human Animal: Personal Identity Without Psychology*, Oxford: Oxford University Press.
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -13286,7 +13286,7 @@ Gợi ý độ dài: 150–300 chữ.
 2. Wolf, Susan (2010), *Meaning in Life and Why It Matters*, Princeton: Princeton University Press.
 3. Metz, Thaddeus, "The Meaning of Life", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/life-meaning/>
 4. Camus, Albert (1942), *Le Mythe de Sisyphe* (*Huyền thoại Sisyphus*). (Bối cảnh cho tranh luận về cái phi lý.)
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -13494,7 +13494,7 @@ Các phần được dẫn: Nozick, *Anarchy, State, and Utopia*, thí nghiệm 
 4. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 5. Epicurus, *Thư gửi Menoeceus* (cuối thế kỷ 4 – đầu thế kỷ 3 TCN, phạm vi công cộng; được Diogenes Laertius chép lại trong Quyển X của *Lives of Eminent Philosophers*).
 6. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -13679,7 +13679,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Platon, *Symposium* (khoảng thế kỷ 4 TCN); bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1600>
 3. Frankfurt, Harry G. (2004), *The Reasons of Love*, Princeton: Princeton University Press.
 4. Velleman, J. David (1999), "Love as a Moral Emotion", *Ethics* 109(2): 338–374. <https://doi.org/10.1086/233898>
-5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -13880,7 +13880,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Luper, Steven, "Death", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>
 5. Feldman, Fred (1992), *Confrontations with the Reaper: A Philosophical Study of the Nature and Value of Death*, New York: Oxford University Press — bênh vực lập luận tước đoạt (bối cảnh thêm).
 6. Williams, Bernard (1973), "The Makropulos Case: Reflections on the Tedium of Immortality", trong *Problems of the Self*, Cambridge: Cambridge University Press.
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -14470,7 +14470,7 @@ Ba nguồn đầu là ba nguồn mốc của chuyên mục triết học Việt 
 3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.
 4. Trần Đức Thảo (1951), *Phénoménologie et matérialisme dialectique*, Paris: Éditions Minh-Tân.
 5. Trần Đức Thảo (1973), *Recherches sur l'origine du langage et de la conscience*, Paris: Éditions sociales.
-6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -16177,7 +16177,7 @@ Số đoạn của *Enquiry* theo Hume Texts Online: <https://davidhume.org/text
 4. Leah Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/induction-problem/>
 5. De Pierris, Graciela & Michael Friedman, "Kant and Hume on Causality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/>
 6. Lewis, David (1973), "Causation", *The Journal of Philosophy* 70 (17): 556–567. <https://doi.org/10.2307/2025310>
-7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
@@ -16563,7 +16563,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 1. Russell, Bertrand (1912), *The Problems of Philosophy*, London: Williams and Norgate, chương XV; bản in 1912 trên Wikisource <https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15>; Project Gutenberg <https://www.gutenberg.org/ebooks/5827>
 2. Irvine, Andrew David, "Bertrand Russell", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/russell/>
-3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23 (11), 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
 
