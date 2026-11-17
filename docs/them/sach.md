@@ -16958,8 +16958,8 @@ Thử xem bạn nắm được đến đâu.
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — giấc mơ của Descartes, phiên bản phương Tây của cùng câu hỏi
 - [Đọc "Suy niệm" I–II của Descartes](../doc/descartes-suy-niem.md) — hoài nghi để tìm nền móng
 - [Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — giấc mộng lớn trong phiên bản thời máy tính
-- [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người đi trước của Trang Tử
-- [Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cái "tôi" và ý thức từ góc nhìn triết học tâm trí
+- [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người mà truyền thống xếp cùng Trang Tử thành Đạo gia (Lão–Trang)
+- [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — ý thức và quan hệ tâm trí–thân xác từ góc nhìn triết học tâm trí
 
 ## Nguồn
 
@@ -17248,7 +17248,7 @@ Thử xem bạn nắm được đến đâu.
 ## Đọc tiếp
 
 - [Epictetus: Cẩm nang](../doc/epictetus-cam-nang.md) — cùng trường phái Khắc kỷ, công thức "tầm kiểm soát" sắc bén nhất
-- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus và Nagel tranh luận với lời nhắc "hãy nhớ mình sẽ chết"
+- [Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus, Nagel và Heidegger bàn về cái chết, để đặt cạnh lời nhắc "hãy nhớ mình sẽ chết"
 - [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — cái nhìn từ trên cao có làm đời người vô nghĩa không?
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh các trường phái Hy Lạp–La Mã
 
@@ -17671,7 +17671,7 @@ Thử xem bạn nắm được đến đâu.
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md) — bối cảnh Phật giáo ra đời và các trường phái tranh luận
 - [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md) — cái "không" của [Lão Tử](../triet-gia/lao-tu.md) (chương 11) đặt cạnh cái "không" của Bát nhã: giống và khác ở đâu?
 - [Cái 'tôi' là gì?](../cau-hoi/cai-toi.md) — năm uẩn và câu hỏi về bản ngã trong triết học hiện đại
-- [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md) — tinh thần Bát nhã trong Phật giáo Việt Nam thời Trần
+- [Thiền phái Trúc Lâm](../cau-hoi/truc-lam.md) — Phật giáo nhập thế thời Trần: tu ngay giữa đời, "đối cảnh vô tâm"
 
 ## Nguồn
 

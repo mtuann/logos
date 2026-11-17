@@ -121,8 +121,8 @@ Thử xem bạn nắm được đến đâu.
 - [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — giấc mơ của Descartes, phiên bản phương Tây của cùng câu hỏi
 - [Đọc "Suy niệm" I–II của Descartes](descartes-suy-niem.md) — hoài nghi để tìm nền móng
 - [Ta có đang sống trong mô phỏng?](../cau-hoi/mo-phong.md) — giấc mộng lớn trong phiên bản thời máy tính
-- [Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người đi trước của Trang Tử
-- [Tâm trí là gì?](../cau-hoi/van-de-tam-tri.md) — cái "tôi" và ý thức từ góc nhìn triết học tâm trí
+- [Hướng dẫn đọc Đạo đức kinh](dao-duc-kinh.md) — [Lão Tử](../triet-gia/lao-tu.md), người mà truyền thống xếp cùng Trang Tử thành Đạo gia (Lão–Trang)
+- [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md) — ý thức và quan hệ tâm trí–thân xác từ góc nhìn triết học tâm trí
 
 ## Nguồn {#nguon}
 
