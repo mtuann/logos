@@ -102,7 +102,13 @@ Nhưng Pereboom nhấn mạnh: từ bỏ "đáng trách tối hậu" không có 
 - bảo vệ xã hội khỏi người nguy hiểm — giống như cách ly người mắc bệnh truyền nhiễm: để bảo vệ cộng đồng, không phải vì họ *đáng* bị nhốt;
 - giữ lại biết ơn, tình bạn, niềm vui trước điều tốt — vì những thái độ này không đòi hỏi ai phải "đáng" theo nghĩa siêu hình.
 
-Điểm mạnh và điểm yếu của lập trường này đã được trình bày kỹ trong [bài về tự do ý chí](tu-do-y-chi.md), nên ta không lặp lại ở đây. Chỉ ghi nhận một điều: đây không chỉ là một lý thuyết, mà là một *lựa chọn sống* — sống tử tế mà không cần bản án tối hậu.
+**Lập luận mạnh nhất.** Bỏ "đáng trách tối hậu" không làm xã hội bất lực, vì ta vẫn có quyền tự vệ, và chính quyền ấy tự đặt giới hạn. Pereboom so sánh việc giam giữ người phạm tội nguy hiểm với việc cách ly người mang bệnh truyền nhiễm: người mang bệnh không có lỗi gì, vậy mà ta vẫn được phép cách ly họ để bảo vệ người khác. Nhưng cũng như không được đối xử với người bệnh khắc nghiệt hơn mức cần để ngăn mối nguy, ta không được làm khổ người phạm tội hơn mức cần để bảo vệ xã hội; và cũng như phải cố chữa cho người bị cách ly, ta phải cố cải tạo người bị giam. Người vô tội không thể bị giam theo lý lẽ này, vì họ không đe dọa ai. Cái bị loại bỏ chỉ là phần trừng phạt nhằm gây khổ *cho đáng*.
+
+**Phản bác chính.** Phản bác đến từ phía Strawson (lập trường 2): oán giận, phẫn nộ, cảm giác có lỗi và hối hận gắn liền với việc coi nhau là người đáng trách. Nếu từ bỏ chúng, ta chỉ còn "thái độ khách quan" lạnh lùng — nhìn người khác như đồ vật cần sửa chữa — và đánh mất những quan hệ con người ta quý nhất, cùng những cảm xúc giúp mỗi người trưởng thành về đạo đức.
+
+**Cách đáp lại.** Pereboom thừa nhận oán giận và phẫn nộ sẽ mất chỗ dựa, nhưng cho rằng chúng vốn không phải thái độ tốt nhất: chúng thường nhằm làm người kia đau, dễ dẫn đến chống đối thay vì hòa giải. Ta có thể thay bằng những thái độ khác — lo lắng cho đạo đức của người kia, thất vọng, buồn, quyết tâm — vẫn nói được cùng một điều ("anh đã làm sai, và điều đó quan trọng") mà ít gây tổn thương hơn. Phần còn lại đủ để giữ những quan hệ ta quý, nên không phải là thái độ khách quan mà Strawson lo ngại (xem Caruso, SEP, mục 3.2 và 3.4).
+
+Lập luận thao túng làm nền cho lập trường này được trình bày trong [bài về tự do ý chí](tu-do-y-chi.md). Ở đây chỉ ghi nhận một điều: đây không chỉ là một lý thuyết, mà là một *lựa chọn sống* — sống tử tế mà không cần bản án tối hậu.
 
 ### 4. Fischer: trách nhiệm khi chính cơ chế của bạn biết đáp lại lý do
 
