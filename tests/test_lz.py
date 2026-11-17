@@ -282,10 +282,11 @@ class TestRegistry(unittest.TestCase):
             reg.page("khong-co.md")
 
     def test_core_unit_count(self):
-        """887 mục H2 trong Lõi viết tay (verification/bao-cao-nen.md); đổi số này phải có lý do."""
+        """887 mục H2 trong Lõi viết tay (verification/bao-cao-nen.md); đổi số này phải có lý do.
+        Đợt 5.5: +2 (cong-cu/luan-cu-thep.md thêm "Bài tập", "Tự kiểm tra", quyết định 19)."""
         reg = registry.load(ROOT)
         n = sum(len(units.split_file(p.path, ROOT)) - 1 for p in reg.select(tier="loi", generated=False))
-        self.assertEqual(n, 887)
+        self.assertEqual(n, 889)
 
 
 class TestHeadingIds(unittest.TestCase):

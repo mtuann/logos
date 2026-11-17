@@ -1,14 +1,14 @@
 ---
 title: Logos — Sách in
 description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được.
-updated: 2026-11-10
+updated: 2026-11-17
 search:
   exclude: true
 ---
 
 # Logos — Sách in {#logos-zero-sach-in}
 
-*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 10/11/2026.*
+*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 17/11/2026.*
 
 !!! note "Lưu ý khi in"
     Mỗi bài bắt đầu ở một trang mới.
@@ -3012,6 +3012,47 @@ Công cụ dưới đây dẫn bạn qua 4 bước: phát biểu lại phe đố
 > *[Công cụ tương tác — trải nghiệm trên web]*
 
 
+
+## Bài tập
+
+**Bài 1.** Lan nói: "Trường nên cấm học sinh dùng điện thoại trong giờ ra chơi." Hùng đáp: "Vậy là bạn muốn học sinh bị cắt đứt với gia đình cả ngày à?" Hùng đang dựng người rơm hay luận cứ thép? Viết lại câu đáp của Hùng theo kiểu luận cứ thép.
+
+??? success "Xem gợi ý đáp án"
+    Người rơm: Lan chỉ nói về giờ ra chơi, không nói gì về việc liên lạc với gia đình. Một câu đáp kiểu luận cứ thép: "Nếu mình hiểu đúng, ý bạn là giờ ra chơi để nghỉ, chơi và nói chuyện trực tiếp với nhau, còn điện thoại làm học sinh cắm mặt vào màn hình, kể cả lúc ở cạnh bạn bè. Mình thấy điều đó có lý. Điều mình vẫn băn khoăn là nếu có việc gấp thì gia đình liên lạc với học sinh bằng cách nào." Hùng có thể vẫn không đồng ý, nhưng giờ hai người đang bàn đúng một chuyện.
+
+**Bài 2.** Chọn một lập trường bạn *không* đồng ý, ví dụ "Nên bỏ hẳn thi cử, chỉ đánh giá học sinh qua dự án." Viết một đoạn ba đến năm câu trình bày lập trường đó sao cho một người ủng hộ nó đọc xong sẽ gật đầu: "Đúng, tôi nghĩ vậy."
+
+??? tip "Tiêu chí tự đánh giá"
+    - Có đúng điều người ủng hộ thật sự nói, không thêm phần cực đoan mà họ không nói?
+    - Có nêu lý do mạnh nhất của họ, không chỉ lý do dễ bác nhất?
+    - Có dùng những chữ trung tính, không có chữ nào chê bai ngầm ("ngây thơ", "viển vông")?
+    - Đưa cho một người ủng hộ đọc thử, họ có muốn sửa gì không?
+
+**Bài 3.** "Ai phản đối tăng học phí thì chỉ muốn học không mất tiền." Câu này nói về những người phản đối theo kiểu nào? Hãy nêu một lý do mạnh hơn mà một người phản đối có thể đưa ra.
+
+??? success "Xem gợi ý đáp án"
+    Câu này gán cho phe phản đối một động cơ ích kỷ thay vì xét lý do của họ. Đó vừa là người rơm, vừa gần với [công kích cá nhân](../cong-cu/nguy-bien.md#ad-hominem) (chê động cơ của người nói thay vì xét lập luận). Một lý do mạnh hơn: học phí cao có thể khiến sinh viên nhà nghèo bỏ học dù học giỏi, nên cơ hội học lên phụ thuộc vào tiền của gia đình nhiều hơn vào năng lực. Lý do này có thể bị phản bác (chẳng hạn bằng học bổng hay khoản vay), nhưng ít ra nó đáng được phản bác.
+
+**Bài 4.** Bạn tin rằng "Mạng xã hội làm thanh thiếu niên cô đơn hơn." Ở bước cuối của công cụ, hãy viết rõ: bằng chứng nào sẽ làm bạn đổi ý?
+
+??? success "Xem gợi ý đáp án"
+    Một câu trả lời tốt phải cụ thể đến mức có thể kiểm tra được. Ví dụ: "Nếu những nghiên cứu theo dõi cùng một nhóm người trong nhiều năm cho thấy người dùng nhiều mạng xã hội không cô đơn hơn người dùng ít, sau khi đã tính đến các yếu tố khác, thì tôi sẽ bớt tin." Câu "Không gì có thể làm tôi đổi ý" là dấu hiệu bạn đang giữ một niềm tin bất kể lý lẽ, chưa phải đang lập luận.
+
+## Tự kiểm tra
+
+Thử xem bạn nắm được đến đâu.
+
+<div class="oz-quiz" data-id="steelman-1" data-skill="argument" markdown="0">
+<script type="application/json">
+[
+ {"q": "Luận cứ thép khác người rơm ở điểm nào?", "options": ["Luận cứ thép dùng nhiều số liệu hơn", "Luận cứ thép dựng lại lập trường đối lập ở dạng mạnh nhất rồi mới phản biện; người rơm bóp méo nó thành dạng yếu để dễ hạ", "Luận cứ thép là đồng ý với đối phương", "Không khác gì, chỉ là hai tên gọi"], "answer": 1, "explain": "Người rơm là ngụy biện: bác một phiên bản đối phương không hề nói. Luận cứ thép làm ngược lại: trình bày đối phương ở dạng tốt nhất, rồi mới phản biện. Nó không đòi bạn phải đồng ý."},
+ {"q": "Vì sao hạ được một người rơm không chứng minh được gì?", "options": ["Vì người rơm luôn đúng", "Vì lập trường thật của đối phương vẫn còn nguyên, chưa bị xét tới", "Vì phản biện nào cũng vô ích", "Vì người nghe không thích người rơm"], "answer": 1, "explain": "Bạn chỉ bác được một phiên bản bịa ra. Điều đối phương thật sự nghĩ vẫn chưa được trả lời."},
+ {"q": "Bạn viết lại lập trường của phe kia, và một người ủng hộ lập trường đó đọc xong nói: “Không, tôi đâu có nghĩ thế.” Điều này cho thấy gì?", "options": ["Họ đang ngụy biện", "Bản viết lại của bạn chưa đúng điều họ nghĩ; cần sửa trước khi phản biện", "Bạn đã thắng cuộc tranh luận", "Lập trường của họ không có lý do nào"], "answer": 1, "explain": "Thước đo tốt của luận cứ thép là chính người ủng hộ lập trường đó thấy bạn nói đúng ý họ. Nếu họ không thấy vậy, bạn có thể đang phản biện một người rơm mà không biết."},
+ {"q": "Câu nào là một câu trả lời tốt cho bước “điều gì sẽ làm bạn đổi ý”?", "options": ["Không gì có thể làm tôi đổi ý", "Khi nào tôi thấy thích thì tôi đổi", "Nếu số liệu cho thấy sau khi tăng thuế, số người hút thuốc không giảm, tôi sẽ bớt tin rằng tăng thuế là cách tốt để giảm hút thuốc", "Nếu đa số mọi người nghĩ khác tôi"], "answer": 2, "explain": "Câu trả lời tốt chỉ ra một bằng chứng cụ thể, kiểm tra được, liên quan tới lý do của chính bạn. “Đa số nghĩ khác” không phải bằng chứng về điều đang bàn (đó là viện dẫn đám đông); “không gì cả” nghĩa là niềm tin của bạn không còn phụ thuộc vào lý lẽ."},
+ {"q": "Sau khi dựng luận cứ thép cho phe đối lập, bạn thấy lập luận của họ thuyết phục hơn của mình. Theo bài, nên hiểu chuyện này thế nào?", "options": ["Bạn đã làm sai công cụ", "Bạn đã thua và nên im lặng", "Đổi ý sau khi đã hiểu đúng không phải thua; đó là triết học đang làm đúng việc của nó", "Nên làm yếu lập luận của họ đi một chút cho dễ bác"], "answer": 2, "explain": "Mục đích của luận cứ thép là đi tới chỗ đúng hơn, không phải để thắng. Làm yếu lập luận đối phương cho dễ bác chính là quay lại người rơm."}
+]
+</script>
+</div>
 
 ## Đi tiếp
 

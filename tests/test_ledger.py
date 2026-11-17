@@ -155,7 +155,7 @@ class TestStatus(unittest.TestCase):
     def test_status_counts_core_units(self):
         cl._page_units.cache_clear()
         table = cl.status_table({"version": 1, "units": {}}, ROOT)
-        self.assertIn("| **Tổng Lõi** | 987 | 987 | 0 | 0 | 0 | 0,0 |", table)
+        self.assertIn("| **Tổng Lõi** | 989 | 989 | 0 | 0 | 0 | 0,0 |", table)
 
 
 if __name__ == "__main__":
