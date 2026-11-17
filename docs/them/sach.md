@@ -15071,7 +15071,7 @@ Một nhánh khác của triết học lục địa là **Trường phái Frankf
 
 Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đường khác: thay vì xây hệ thống, hãy quan sát thật kỹ cách người ta *thực sự* nói. **J. L. Austin** (1911–1960), trong các bài giảng xuất bản sau khi mất thành *How to Do Things with Words* (1962), chỉ ra rằng nhiều câu nói không phải để mô tả sự thật mà để *làm* điều gì đó: "tôi hứa", "tôi đặt tên con tàu này là...", "tôi xin lỗi" — nói ra là hành động đã xong. Ông gọi đó là **hành vi ngôn ngữ** (*speech act*). Hệ quả triết học: muốn hiểu "hứa", "biết", "tự do", đừng tra từ điển trừu tượng — hãy xem người ta dùng những từ đó trong tình huống nào, với hậu quả gì.
 
-**Gilbert Ryle** (1900–1976), trong *The Concept of Mind* (1949), dùng phương pháp này để tấn công nhị nguyên luận [Descartes](../triet-gia/descartes.md): nói "tâm trí" như một thứ *bên trong* cơ thể là phạm một **lỗi phạm trù** (*category mistake*) — như hỏi "trường đại học ở đâu" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá. "Tâm trí" không phải một vật bí ẩn, mà là cách ta mô tả những *khuynh hướng hành xử* của con người.
+**Gilbert Ryle** (1900–1976), trong *The Concept of Mind* (1949), dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md): nói "tâm trí" như một thứ *bên trong* cơ thể là phạm một **lỗi phạm trù** (*category mistake*) — như hỏi "trường đại học ở đâu" sau khi đã đi thăm hết các giảng đường, thư viện, ký túc xá. "Tâm trí" không phải một vật bí ẩn, mà là cách ta mô tả những *khuynh hướng hành xử* của con người.
 
 Ảnh hưởng: triết học ngôn ngữ thường đưa triết học phân tích về gần đời sống — và phương pháp "xem cách dùng" của nó vẫn là công cụ sắc bén mỗi khi một khái niệm triết học trở nên mù mờ.
 
@@ -15079,13 +15079,13 @@ Trong khi Quine phá dỡ từ bên trong, một nhóm ở Oxford chọn con đ�
 
 Một di sản khác của Trường phái Vienna là **triết học khoa học** (*philosophy of science*) — ngành hỏi: khoa học khác gì với phi khoa học, và khoa học tiến bộ bằng cách nào? **[Karl Popper](../triet-gia/popper.md)** (1902–1994), dù không thuộc Trường phái Vienna, tranh luận trực tiếp với họ: trong *Logik der Forschung* (1934; bản tiếng Anh *The Logic of Scientific Discovery*, 1959), ông đề xuất **khả bác bỏ** (*falsifiability*) làm tiêu chuẩn phân giới — lý thuyết khoa học phải dám đưa ra dự đoán có thể sai.
 
-**Thomas Kuhn** (1922–1996) đảo ngược bức tranh trong *The Structure of Scientific Revolutions* (1962): khoa học thường không "tiến bộ dần" mà vận hành trong các **mô thức** (*paradigm*); khi dị thường tích tụ, xảy ra **cách mạng khoa học** — và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau. **Paul Feyerabend** (1924–1994) đi xa hơn trong *Against Method* (1975), cho rằng không có "phương pháp khoa học" duy nhất nào cả.
+**Thomas Kuhn** (1922–1996) đảo ngược bức tranh trong *The Structure of Scientific Revolutions* (1962): khoa học không chỉ "tiến bộ dần": phần lớn thời gian nó tích lũy kết quả bên trong một **mô thức** (*paradigm*); khi dị thường tích tụ, xảy ra **cách mạng khoa học** — và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau. **Paul Feyerabend** (1924–1994) đi xa hơn trong *Against Method* (1975), cho rằng không có "phương pháp khoa học" duy nhất nào cả.
 
 Chủ đề này đã có bài riêng đầy đủ — xem [Khoa học khác gì với phi khoa học?](../cau-hoi/khoa-hoc.md).
 
 ## Hai ngả đang xích lại?
 
-Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học, lục địa đọc Quine và Wittgenstein. Nhiều người cho rằng sự chia rẽ này phần lớn là tai nạn lịch sử và địa lý hơn là khác biệt thực chất — một nhận định đang tranh luận, chưa ngã ngũ.
+Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu nứt: phân tích quay lại làm siêu hình học, và từ thập niên 1960 một số triết gia được đào tạo theo lối phân tích bắt đầu nghiên cứu hiện tượng luận. Có người truy nguồn sự chia rẽ về những biến cố lịch sử cụ thể — Michael Friedman chẳng hạn chỉ vào cuộc tranh luận giữa Heidegger và Cassirer ở Davos năm 1929. Sự chia rẽ ấy thực chất đến đâu vẫn đang tranh luận, chưa ngã ngũ.
 
 ## Đọc tiếp
 
