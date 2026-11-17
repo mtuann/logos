@@ -770,7 +770,7 @@ P ⊕ Q đúng khi *đúng một* trong hai đúng.
 
 ## Độ ưu tiên: ai tính trước
 
-Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨ và ⊕, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất.
+Khi một công thức có nhiều phép nối, thứ tự tính là: **¬ trước, rồi ∧, rồi ∨, rồi →, cuối cùng ↔**. Ngoặc luôn được ưu tiên cao nhất; với ⊕, cứ viết ngoặc cho rõ.
 
 Ví dụ: ¬P ∨ Q → R được đọc là ((¬P) ∨ Q) → R.
 
@@ -2244,11 +2244,11 @@ Không ai viết ra đoạn văn tốt ngay lần đầu — kể cả người 
 
 **Bài 3.** Dán nhãn bốn phần (luận điểm / lý do / giải thích / lường trước phản biện) cho từng câu trong đoạn sau:
 
-> "Nên dạy bơi cho học sinh tiểu học. Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam, mà phần lớn các vụ việc xảy ra vì trẻ không biết bơi. Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu. Có người lo học bơi tốn kém; tuy nhiên bể bơi di động và giáo viên tình nguyện đã chứng minh mô hình này làm được với chi phí thấp."
+> "Nên dạy bơi cho học sinh tiểu học. Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam, mà thiếu kỹ năng bơi và an toàn dưới nước là một yếu tố nguy cơ lớn. Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu. Có người lo học bơi tốn kém; tuy nhiên bể bơi di động và giáo viên tình nguyện đã chứng minh mô hình này làm được với chi phí thấp."
 
 ??? success "Xem gợi ý đáp án"
     - Luận điểm: "Nên dạy bơi cho học sinh tiểu học."
-    - Lý do: đuối nước gây tử vong hàng đầu ở trẻ em, phần lớn vì không biết bơi.
+    - Lý do: đuối nước gây tử vong hàng đầu ở trẻ em; thiếu kỹ năng bơi là một yếu tố nguy cơ lớn.
     - Giải thích: biết bơi biến tình huống chết người thành tình huống có thể tự cứu — đây là mối nối giữa "biết bơi" và "nên dạy bơi".
     - Lường trước phản biện: lo ngại tốn kém + câu trả lời (bể bơi di động, giáo viên tình nguyện).
 
@@ -2548,7 +2548,7 @@ P2 ──┘
 
 Quy ước: **giả định ngầm** (*hidden assumption*) vẽ bằng hộp đứt nét — để nhắc rằng nó có mặt trong lập luận dù tác giả không nói ra.
 
-Và đây mới là chỗ đáng đánh nhất: cấm có phải cách duy nhất không? Thu điện thoại đầu giờ, dùng app khóa máy trong giờ học — đều giảm mất tập trung mà không cần cấm. Tác giả lẳng lặng giả định "ngoài cấm ra không còn cách nào" mà không hề bảo vệ giả định đó. Trong hầu hết lập luận thực tế, giả định ngầm chính là mắt xích yếu nhất — vẽ nó ra là đã thắng một nửa. (Xem thêm [Giả định ngầm](../cong-cu/gia-dinh-ngam.md).)
+Và đây mới là chỗ đáng đánh nhất: cấm có phải cách duy nhất không? Thu điện thoại đầu giờ, dùng app khóa máy trong giờ học — đều giảm mất tập trung mà không cần cấm. Tác giả lẳng lặng giả định "ngoài cấm ra không còn cách nào" mà không hề bảo vệ giả định đó. Trong nhiều lập luận thực tế, giả định ngầm là mắt xích yếu nhất — vẽ nó ra là đã thắng một nửa. (Xem thêm [Giả định ngầm](../cong-cu/gia-dinh-ngam.md).)
 
 ## Một bài vẽ hoàn chỉnh
 
