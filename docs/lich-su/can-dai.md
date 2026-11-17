@@ -70,7 +70,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 
 - Vấn đề tâm–vật của Descartes: [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md)
 - Hoài nghi luận Descartes và tri thức: [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md)
-- Vấn đề quy nạp của Hume: [Suy diễn](../cong-cu/suy-dien.md) và [Quy nạp](../cong-cu/quy-nap.md)
+- Vấn đề quy nạp của Hume: [Quy nạp](../cong-cu/quy-nap.md) (đối chiếu với [Suy diễn](../cong-cu/suy-dien.md))
 - Nghĩa vụ luận của Kant: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)
 - Tự do chính trị từ Locke đến [Mill](../triet-gia/mill.md): [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) (Locke) và [Dân chủ là gì?](../cau-hoi/dan-chu.md) (Mill)
 
