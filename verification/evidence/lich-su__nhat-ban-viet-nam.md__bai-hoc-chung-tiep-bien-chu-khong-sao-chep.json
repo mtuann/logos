@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/nhat-ban-viet-nam.md#bai-hoc-chung-tiep-bien-chu-khong-sao-chep",
-  "hash": "sha256:e2337fc9731e548a5268d31a283283471aa85b9148067298d2573da1b736798e",
+  "hash": "sha256:3b37d91c5ec4e2619f7fe787d5c1e10af5e4ad50688bd0c4e6b2be790bcef5d2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p08",
+  "checker": "agent-kiem-5.6-p08 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "tư tưởng ngoại lai khi vào một nền văn hóa mới đều bị \"bản địa hóa\" — giữ cái hợp, biến cái chưa hợp, và sinh ra thứ mới [suy đoán] (mẫu hình được nhiều nhà nghiên cứu ghi nhận, nhưng mỗi trường hợp cụ thể cần khảo sát riêng)",
@@ -46,16 +46,17 @@
         }
       ],
       "severity": "nhe",
-      "fix": "Câu trả lời mà hai trường hợp này gợi ý **[suy đoán]**: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*."
+      "fix": "Câu trả lời mà hai trường hợp này gợi ý **[suy đoán]**: không — miễn là ta học để *đối thoại*, không phải để *thờ phụng*.",
+      "fixed": true
     }
   ],
   "checklist": {
     "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": null,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Đoạn hai kết luận một câu hỏi còn tranh luận (bài viet-hien-dai trình bày ba lập trường) mà không gắn nhãn; mức nhẹ, đề xuất thêm nhãn [suy đoán]."
+  "notes": "Đoạn hai kết luận một câu hỏi còn tranh luận (bài viet-hien-dai trình bày ba lập trường) mà không gắn nhãn; mức nhẹ, đề xuất thêm nhãn [suy đoán]. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c2 sửa đúng fix: thêm nhãn **[suy đoán]** và \"mà hai trường hợp này gợi ý\"."
 }

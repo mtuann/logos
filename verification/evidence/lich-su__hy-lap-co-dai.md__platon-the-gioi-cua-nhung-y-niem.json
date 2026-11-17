@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/hy-lap-co-dai.md#platon-the-gioi-cua-nhung-y-niem",
-  "hash": "sha256:d3cdc0059a8e9f7016e756e7f64bc14722147665e016bcbd6f61895cc9ccad54",
+  "hash": "sha256:8db2cc728d72322d90e758b8d275a1445cdf539a7dcfdbf43acfa7270f36c065",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p01",
+  "checker": "agent-kiem-5.6-p01 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Platon (428/427–348/347 TCN)",
@@ -28,7 +28,8 @@
           "quote": "Plato returned to Athens and founded a school, known as the Academy . (This is where we get our word, “academic.”",
           "where": "Early Travels and the Founding of the Academy"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "thuyết ý niệm (Theory of Forms): những vật ta thấy chỉ là bản sao ... của những Ý niệm hoàn hảo, bất biến, tồn tại độc lập",
@@ -135,7 +136,8 @@
           "quote": "He was a student of Plato for twenty years but is famous for rejecting Plato’s theory of forms.",
           "where": "mở đầu"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Câu hỏi này — vấn đề phổ quát — vẫn còn tranh luận đến hôm nay.",
@@ -157,6 +159,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Hai khái quát không có nguồn (vừa): 'tiền thân xa của trường đại học' (nguồn chỉ nói chữ academic bắt nguồn từ Academy); 'khuôn mẫu cho mọi cuộc cách mạng triết học sau'. Ví dụ 'Bàn' khớp Cộng hòa 596b (couch và table)."
+  "result": "dat",
+  "notes": "Hai khái quát không có nguồn (vừa): 'tiền thân xa của trường đại học' (nguồn chỉ nói chữ academic bắt nguồn từ Academy); 'khuôn mẫu cho mọi cuộc cách mạng triết học sau'. Ví dụ 'Bàn' khớp Cộng hòa 596b (couch và table). Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 2 (chữ academic bắt nguồn từ tên trường, khớp IEP plato) và claim 10 (\"cho thấy một nét của triết học: học trò giỏi có thể là người dám phản bác chính thầy mình\") sửa đúng fix → fixed."
 }

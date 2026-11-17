@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-20.md#nga-thu-hai-ton-tai-y-thuc-va-tu-do",
-  "hash": "sha256:62951f0daf9979cb9e5a67ae8ccf46cade440ddbb61883c400ae7d37b6c64e06",
+  "hash": "sha256:87a620778cbd978b19d84ad8884552142b176536e9cb5deb7bc071704689a0f5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p05",
+  "checker": "agent-kiem-5.6-p05 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "Edmund Husserl (1859–1938)",
@@ -373,7 +373,8 @@
         }
       ],
       "severity": "nhe",
-      "fix": "dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md)"
+      "fix": "dùng phương pháp này để tấn công **nhị nguyên luận** (*dualism*) của [Descartes](../triet-gia/descartes.md)",
+      "fixed": true
     },
     {
       "text": "Mục \"### Ngôn ngữ thường: Austin và Ryle\" nằm dưới H2 \"Ngả thứ hai\" (triết học lục địa), dù chính đoạn văn nói đây là triết học phân tích",
@@ -394,8 +395,8 @@
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Hai lỗi nhẹ: (1) 'nhị nguyên luận' xuất hiện lần đầu không kèm *dualism* (HUONG-DAN-VIET mục 3); (2) mục Austin–Ryle (triết học ngôn ngữ thường, thuộc truyền thống phân tích theo IEP) đặt dưới H2 ngả lục địa — đoạn văn tự nói rõ là phân tích nên không gây sai dữ kiện, nhưng cấu trúc dễ gây hiểu nhầm. Các năm 1919–1923, 1928, 1946, 1944, 1960, 1901, 1913 có bản ghi kho đã đóng băng events/lich-su.the-ky-20.<năm> (cùng câu). Phần 'lan sang tâm lý học, tâm thần học' không tìm được câu nguyên văn trong SEP husserl/phenomenology; phần khoa học nhận thức có nguồn — chấp nhận là khái quát mềm. SEP ryle (Tanney) lưu ý đọc Ryle như hành vi luận là hiểu sai; câu của bài chỉ nói 'khuynh hướng' (dispositional), khớp SEP categories."
+  "notes": "Hai lỗi nhẹ: (1) 'nhị nguyên luận' xuất hiện lần đầu không kèm *dualism* (HUONG-DAN-VIET mục 3); (2) mục Austin–Ryle (triết học ngôn ngữ thường, thuộc truyền thống phân tích theo IEP) đặt dưới H2 ngả lục địa — đoạn văn tự nói rõ là phân tích nên không gây sai dữ kiện, nhưng cấu trúc dễ gây hiểu nhầm. Các năm 1919–1923, 1928, 1946, 1944, 1960, 1901, 1913 có bản ghi kho đã đóng băng events/lich-su.the-ky-20.<năm> (cùng câu). Phần 'lan sang tâm lý học, tâm thần học' không tìm được câu nguyên văn trong SEP husserl/phenomenology; phần khoa học nhận thức có nguồn — chấp nhận là khái quát mềm. SEP ryle (Tanney) lưu ý đọc Ryle như hành vi luận là hiểu sai; câu của bài chỉ nói 'khuynh hướng' (dispositional), khớp SEP categories. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c26 sửa đúng (\"**nhị nguyên luận** (*dualism*) của Descartes\"). c27 (chuyển mục H3 Austin/Ryle sang ngả phân tích) người làm cố ý chưa làm vì đổi cấu trúc trang; lỗi nhẹ, giữ nguyên, không fixed."
 }

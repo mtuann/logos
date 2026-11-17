@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/an-do.md#doc-tiep",
-  "hash": "sha256:b64765ada59d4f14ca16820450cbd184ca6d4329694a03a007f3f6bfb3bf0383",
+  "hash": "sha256:1e9ce81c00cd2a54b7f8a52cbc5810a776dec4553421b8ffba5ec91d23a83d42",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p06",
+  "checker": "agent-kiem-5.6-p06 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "[Chết có đáng sợ không?](../cau-hoi/cai-chet.md) — Epicurus và Nagel về cái chết",
@@ -28,7 +28,8 @@
           "quote": "Cuộc sống có ý nghĩa không?",
           "where": "trang đích; nội dung là Nagel, Wolf, cái phi lý — không bàn khổ đau"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Vì sao có đau khổ?](../cau-hoi/van-de-su-du.md) — vấn đề sự dữ trong triết học phương Tây",
@@ -51,5 +52,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ba link nội bộ trỏ tới trang có thật. Trang y-nghia-song.md không bàn về khổ đau (chữ \"khổ\" chỉ xuất hiện trong \"nghèo khổ\"); mô tả \"khổ đau và ý nghĩa\" hứa nội dung trang không có — lỗi nhẹ. Link Epicurus (../triet-gia/epicurus.md) có thật. Tên link \"Vì sao có đau khổ?\" là dạng rút gọn của title trang đích, chấp nhận. Đã đọc cả file docs/ và trang đang chạy trên mtuann.github.io/logos."
+  "notes": "Ba link nội bộ trỏ tới trang có thật. Trang y-nghia-song.md không bàn về khổ đau (chữ \"khổ\" chỉ xuất hiện trong \"nghèo khổ\"); mô tả \"khổ đau và ý nghĩa\" hứa nội dung trang không có — lỗi nhẹ. Link Epicurus (../triet-gia/epicurus.md) có thật. Tên link \"Vì sao có đau khổ?\" là dạng rút gọn của title trang đích, chấp nhận. Đã đọc cả file docs/ và trang đang chạy trên mtuann.github.io/logos. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c1: mô tả link y-nghia-song đã đổi đúng fix."
 }

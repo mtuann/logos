@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/trung-co.md#_dau",
-  "hash": "sha256:2dca544254afb429980e9ac3d30b0fc052c6cc9008615c1ca276cd28924bc0e1",
+  "hash": "sha256:df0c1390c7dc1504226832e82dae6e18d2893cece0cf1cd0a77153da389e79e6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p02",
+  "checker": "agent-kiem-5.6-p02 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Khi đế chế La Mã sụp đổ (thế kỷ 5)",
@@ -94,7 +94,8 @@
           "quote": "characterized by a dialectical method which consists of bringing forward and examining arguments based on reason and authority which oppose one another",
           "where": "2.6"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -105,5 +106,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cụm \"đêm trường trung cổ\" được trình bày là cách gọi của \"nhiều người\", không phải khẳng định của bài; không kiểm. Bologna theo quy ước năm 1088 (thế kỷ 11), hơi sớm hơn \"cùng lúc\" với Toledo thế kỷ 12–13 nhưng không sai đáng kể. Lỗi duy nhất mức nhẹ: \"theo đúng phương pháp của Aristotle\" nói quá; SEP mô tả tranh biện là hình thức hóa của đối thoại triết học, phương pháp biện chứng."
+  "notes": "Cụm \"đêm trường trung cổ\" được trình bày là cách gọi của \"nhiều người\", không phải khẳng định của bài; không kiểm. Bologna theo quy ước năm 1088 (thế kỷ 11), hơi sớm hơn \"cùng lúc\" với Toledo thế kỷ 12–13 nhưng không sai đáng kể. Lỗi duy nhất mức nhẹ: \"theo đúng phương pháp của Aristotle\" nói quá; SEP mô tả tranh biện là hình thức hóa của đối thoại triết học, phương pháp biện chứng. Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 4 (nhẹ): \"theo phương pháp biện chứng, dựa trên logic của Aristotle\" đúng fix → fixed."
 }

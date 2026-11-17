@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/nhat-ban-viet-nam.md#nhat-ban-tu-phat-giao-den-truong-phai-kyoto",
-  "hash": "sha256:763d2d4db709c19696f0b3a525228e7fb18558206d90d92ce7710a2505f21096",
+  "hash": "sha256:0739385c9cacc28e7479fef3c07880f3c52b7e406f488dece333490df6c9eba7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p08",
+  "checker": "agent-kiem-5.6-p08 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "Phật giáo đến Nhật Bản vào thế kỷ 6, theo đường Triều Tiên (từ nước Bách Tế) [chắc chắn]; năm cụ thể còn tranh luận (Nihon Shoki ghi 552, một số nguồn cổ khác ghi 538)",
@@ -91,7 +91,8 @@
         }
       ],
       "severity": "nhe",
-      "fix": "thời Tokugawa (1600–1868)"
+      "fix": "thời Tokugawa (1600–1868)",
+      "fixed": true
     },
     {
       "text": "khi Nhật Bản đóng cửa với phương Tây",
@@ -132,7 +133,8 @@
         }
       ],
       "severity": "vua",
-      "fix": "Đạo lý trung quân, trọng danh dự của Nho giáo về sau thấm vào **võ sĩ đạo** (*bushido*, \"đạo của võ sĩ\") **[có cơ sở]** — dù võ sĩ đạo chỉ thành một học thuyết có hệ thống vào thời hiện đại (thế kỷ 19), lai ghép Nho, Phật, Thần đạo và cả tư tưởng châu Âu. Nghịch lý thú vị: một triết học Trung Hoa du nhập lại trở thành một mạch chính trong cái được tôn là \"linh hồn\" của tinh thần Nhật Bản"
+      "fix": "Đạo lý trung quân, trọng danh dự của Nho giáo về sau thấm vào **võ sĩ đạo** (*bushido*, \"đạo của võ sĩ\") **[có cơ sở]** — dù võ sĩ đạo chỉ thành một học thuyết có hệ thống vào thời hiện đại (thế kỷ 19), lai ghép Nho, Phật, Thần đạo và cả tư tưởng châu Âu. Nghịch lý thú vị: một triết học Trung Hoa du nhập lại trở thành một mạch chính trong cái được tôn là \"linh hồn\" của tinh thần Nhật Bản",
+      "fixed": true
     },
     {
       "text": "Minh Trị duy tân 1868: triết học phương Tây tràn vào qua các đại học mới",
@@ -335,6 +337,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Lỗi vừa: câu võ sĩ đạo đơn giản hóa — SEP (Japanese Philosophy §3.5) nói bushidō chỉ được hệ thống hóa thời hiện đại, là thứ lai ghép Nho–Phật–Thần đạo–châu Âu; chi tiết \"coi thường tiền bạc\" không thấy trong nguồn đã mở. Lỗi nhẹ: SEP (hai mục) ghi thời Tokugawa 1600–1868; 1603 (năm Ieyasu nhận chức shogun) là quy ước khác thường gặp nhưng chưa mở được nguồn xác nhận trong phiên này — chủ biên có thể giữ 1603 nếu có nguồn. \"thần học Đức\" hơi hẹp: SEP nói đối thoại với nguồn Kitô giáo (huyền học Kitô giáo trung đại), chấp nhận. Britannica (Tokugawa period) không tải được."
+  "result": "dat",
+  "notes": "Lỗi vừa: câu võ sĩ đạo đơn giản hóa — SEP (Japanese Philosophy §3.5) nói bushidō chỉ được hệ thống hóa thời hiện đại, là thứ lai ghép Nho–Phật–Thần đạo–châu Âu; chi tiết \"coi thường tiền bạc\" không thấy trong nguồn đã mở. Lỗi nhẹ: SEP (hai mục) ghi thời Tokugawa 1600–1868; 1603 (năm Ieyasu nhận chức shogun) là quy ước khác thường gặp nhưng chưa mở được nguồn xác nhận trong phiên này — chủ biên có thể giữ 1603 nếu có nguồn. \"thần học Đức\" hơi hẹp: SEP nói đối thoại với nguồn Kitô giáo (huyền học Kitô giáo trung đại), chấp nhận. Britannica (Tokugawa period) không tải được. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c5: cả hai chỗ đã thành (1600–1868). c7 sửa đúng ý fix; trang viết \"trở thành một phần của cái được tôn là 'linh hồn'\" thay vì \"một mạch chính trong\" — yếu hơn, vẫn đúng với SEP (bushidō lai ghép Nho, Phật, Thần đạo, châu Âu; hình thành thế kỷ 19)."
 }

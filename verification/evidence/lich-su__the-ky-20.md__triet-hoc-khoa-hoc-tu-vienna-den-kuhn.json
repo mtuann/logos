@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-20.md#triet-hoc-khoa-hoc-tu-vienna-den-kuhn",
-  "hash": "sha256:bf9dfe47041dea1d7e9b1a6b0d9eba0b3e6492b456bda5dc35b917605d0952ed",
+  "hash": "sha256:fe1dc91ee8205df6f1d18699187cc5d690e64a094c5e4b7a7b3cae90e095068e",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p05",
+  "checker": "agent-kiem-5.6-p05 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "Một di sản khác của Trường phái Vienna là triết học khoa học (philosophy of science)",
@@ -85,7 +85,8 @@
         }
       ],
       "severity": "vua",
-      "fix": "khoa học không chỉ \"tiến bộ dần\": phần lớn thời gian nó tích lũy kết quả bên trong một **mô thức** (*paradigm*); khi dị thường tích tụ, xảy ra **cách mạng khoa học** — và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau."
+      "fix": "khoa học không chỉ \"tiến bộ dần\": phần lớn thời gian nó tích lũy kết quả bên trong một **mô thức** (*paradigm*); khi dị thường tích tụ, xảy ra **cách mạng khoa học** — và hai mô thức có thể **không thể so sánh** (*incommensurable*) với nhau.",
+      "fixed": true
     },
     {
       "text": "khi dị thường tích tụ, xảy ra cách mạng khoa học — và hai mô thức có thể không thể so sánh (incommensurable) với nhau",
@@ -134,12 +135,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Lỗi vừa: câu 'khoa học thường không \"tiến bộ dần\"' trình bày lệch Kuhn — theo SEP, khoa học thông thường (trạng thái phần lớn thời gian) vẫn tích lũy; Kuhn chỉ phủ nhận tính tích lũy qua các cuộc cách mạng. SEP popper ghi Logik der Forschung 1935 (năm trang tên); bài ghi 1934 khớp bản ghi kho works/popper.logik-der-forschung đã đóng băng (in mùa thu 1934, trang tên đề 1935)."
+  "result": "dat",
+  "notes": "Lỗi vừa: câu 'khoa học thường không \"tiến bộ dần\"' trình bày lệch Kuhn — theo SEP, khoa học thông thường (trạng thái phần lớn thời gian) vẫn tích lũy; Kuhn chỉ phủ nhận tính tích lũy qua các cuộc cách mạng. SEP popper ghi Logik der Forschung 1935 (năm trang tên); bài ghi 1934 khớp bản ghi kho works/popper.logik-der-forschung đã đóng băng (in mùa thu 1934, trang tên đề 1935). Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c6 sửa đúng fix (khoa học thông thường tích lũy trong một mô thức, cách mạng khi dị thường tích tụ) — khớp SEP Kuhn đã quote."
 }

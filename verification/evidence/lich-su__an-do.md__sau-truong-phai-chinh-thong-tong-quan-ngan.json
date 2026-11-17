@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/an-do.md#sau-truong-phai-chinh-thong-tong-quan-ngan",
-  "hash": "sha256:a7013b4f688ed8cffe50264b98b0f0f04550283e5818774c6ce12d3b1b162597",
+  "hash": "sha256:07a92ad62ca770fd7ad3748b610eb3843fe3601b91a3731174a96fcad3f352b0",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p06",
+  "checker": "agent-kiem-5.6-p06 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "các trường phái chính thống (astika — thừa nhận thẩm quyền của kinh Vệ Đà) ... Sáu trường phái chính thống lớn: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta",
@@ -45,10 +45,11 @@
           "url": "https://iep.utm.edu/nyaya/",
           "quote": "Nyāya develops of a sophisticated precursor to contemporary reliabilism"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
-      "text": "Vaisheshika: nguyên tử luận — vũ trụ cấu tạo từ những nguyên tử vĩnh cửu kết hợp theo quy luật.",
+      "text": "Vaisheshika: nguyên tử luận — vũ trụ cấu tạo từ những nguyên tử kết hợp theo quy luật.",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -59,11 +60,16 @@
         {
           "url": "https://iep.utm.edu/hindu-ph/",
           "quote": "Kaṇāḍa gained this name because of the pronounced ontological atomism of his philosophy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/atomism-ancient/",
+          "quote": "In contrast to the Buddhist tradition, atoms in these systems of thought were regarded as external material substances that persist through change, although—in line with the teachings of the Vedic scriptures—the atoms were thought to be created.",
+          "where": "mục về nguyên tử luận Ấn Độ (Nyāya–Vaiśeṣika)"
         }
       ]
     },
     {
-      "text": "Samkhya: nhị nguyên — hai thực tại tối hậu là thần thức (purusha) và vật chất (prakriti); khổ đến từ việc lẫn lộn hai thứ.",
+      "text": "Samkhya: nhị nguyên luận (dualism) — hai thực tại tối hậu là thần thức (purusha) và vật chất (prakriti); khổ đến từ việc lẫn lộn hai thứ.",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -147,8 +153,8 @@
     "manh-nhat": true,
     "phan-bac": null,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Thuật ngữ: \"lý thuyết nhận thức\" cho epistemology lệch bảng bắt buộc (tri thức luận; \"nhận thức luận\" là dạng tránh); \"Samkhya: nhị nguyên\" nên là \"nhị nguyên luận\" theo bảng (nhe, có thể sửa cùng lúc). Nguyên tử Vaisheshika: IEP (Nyaya) nói \"indestructible atoms\"; SEP (Ancient Atomism, mục 1.1) lại viết \"the atoms were thought to be created\" — hai nguồn lệch nhau, đề nghị chủ biên quyết; tạm ghi đúng theo IEP. SEP Shankara lưu ý nhãn māyāvādin \"không hẳn sai\" nhưng làm lệch ý ông; chữ \"chỉ là ảo ảnh\" chấp nhận ở mức tổng quan ngắn."
+  "result": "dat",
+  "notes": "Thuật ngữ: \"lý thuyết nhận thức\" cho epistemology lệch bảng bắt buộc (tri thức luận; \"nhận thức luận\" là dạng tránh); \"Samkhya: nhị nguyên\" nên là \"nhị nguyên luận\" theo bảng (nhe, có thể sửa cùng lúc). Nguyên tử Vaisheshika: IEP (Nyaya) nói \"indestructible atoms\"; SEP (Ancient Atomism, mục 1.1) lại viết \"the atoms were thought to be created\" — hai nguồn lệch nhau, đề nghị chủ biên quyết; tạm ghi đúng theo IEP. SEP Shankara lưu ý nhãn māyāvādin \"không hẳn sai\" nhưng làm lệch ý ông; chữ \"chỉ là ảo ảnh\" chấp nhận ở mức tổng quan ngắn. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c2 sửa đúng (\"**tri thức luận** (*epistemology*)\"); Samkhya cũng đã thành \"**nhị nguyên luận** (*dualism*)\" theo bảng thuật ngữ. c3 Vaisheshika: bỏ \"vĩnh cửu\" — xác nhận nguồn mâu thuẫn: IEP Nyaya \"indestructible atoms\", SEP Ancient Atomism \"the atoms were thought to be created\" (mở lại trong phiên này); câu mới chỉ nói nguyên tử kết hợp theo quy luật, không lấy phe; cập nhật text c3, thêm quote SEP."
 }

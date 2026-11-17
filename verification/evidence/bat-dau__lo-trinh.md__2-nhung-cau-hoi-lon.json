@@ -1,8 +1,8 @@
 {
   "unit": "bat-dau/lo-trinh.md#2-nhung-cau-hoi-lon",
-  "hash": "sha256:4330ff49d555e5c7f2c908afdcf399b65d9662031e3e80f59a2a6681cfe76159",
+  "hash": "sha256:66771b7c03fbe4a285d1d2ece47ac18c100302c0dc07a272c630a028a77e58d6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p09",
+  "checker": "agent-kiem-5.6-p09 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Có [[count:cau-hoi]] bài, xếp theo mười một chủ đề trong trang Những câu hỏi lớn.",
@@ -127,7 +127,8 @@
           "quote": "Thí nghiệm tư duy Câu hỏi thật sự là gì? Các lập trường chính",
           "where": "mục lục: bài mở bằng thí nghiệm tư duy nhưng thân bài không có link nào tới cong-cu/"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -137,6 +138,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Grep docs/cau-hoi/*.md (trừ index): cả 57 bài có \"Tóm tắt 5 phút\", \"## Tự kiểm tra\", \"## Tự viết\". Nhưng chỉ 21/57 bài có link tới ../cong-cu/; 36 bài không có (ví dụ cong-ly.md mở bằng \"Thí nghiệm tư duy\" mà không link cong-cu/thi-nghiem-tu-duy.md; kiểm cả bản dựng: <article> của cau-hoi/cong-ly/ không có href cong-cu). Lời hứa \"khi cần đến công cụ nào, nó sẽ dẫn link quay lại\" vì thế quá mạnh. Cách khác: thêm link vào các bài (việc của đợt khác). Bài y-nghia-song.md không link trực tiếp tới hanh-phuc/tinh-yeu/cai-chet, nhưng bốn bài cùng nhóm Ý nghĩa cuộc sống ở cau-hoi/index.md nên \"bài anh em\" đúng."
+  "result": "dat",
+  "notes": "Grep docs/cau-hoi/*.md (trừ index): cả 57 bài có \"Tóm tắt 5 phút\", \"## Tự kiểm tra\", \"## Tự viết\". Nhưng chỉ 21/57 bài có link tới ../cong-cu/; 36 bài không có (ví dụ cong-ly.md mở bằng \"Thí nghiệm tư duy\" mà không link cong-cu/thi-nghiem-tu-duy.md; kiểm cả bản dựng: <article> của cau-hoi/cong-ly/ không có href cong-cu). Lời hứa \"khi cần đến công cụ nào, nó sẽ dẫn link quay lại\" vì thế quá mạnh. Cách khác: thêm link vào các bài (việc của đợt khác). Bài y-nghia-song.md không link trực tiếp tới hanh-phuc/tinh-yeu/cai-chet, nhưng bốn bài cùng nhóm Ý nghĩa cuộc sống ở cau-hoi/index.md nên \"bài anh em\" đúng. Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 8 sửa đúng nguyên văn fix (\"Nhiều bài có link quay lại bài công cụ khi cần đến.\") → fixed."
 }
