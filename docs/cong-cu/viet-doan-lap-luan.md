@@ -116,11 +116,11 @@ Không ai viết ra đoạn văn tốt ngay lần đầu — kể cả người 
 
 **Bài 3.** Dán nhãn bốn phần (luận điểm / lý do / giải thích / lường trước phản biện) cho từng câu trong đoạn sau:
 
-> "Nên dạy bơi cho học sinh tiểu học. Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam, mà phần lớn các vụ việc xảy ra vì trẻ không biết bơi. Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu. Có người lo học bơi tốn kém; tuy nhiên bể bơi di động và giáo viên tình nguyện đã chứng minh mô hình này làm được với chi phí thấp."
+> "Nên dạy bơi cho học sinh tiểu học. Đuối nước là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ em Việt Nam, mà thiếu kỹ năng bơi và an toàn dưới nước là một yếu tố nguy cơ lớn. Biết bơi không giúp trẻ tránh mọi tai nạn sông nước, nhưng nó biến những tình huống chết người thành tình huống có thể tự cứu. Có người lo học bơi tốn kém; tuy nhiên bể bơi di động và giáo viên tình nguyện đã chứng minh mô hình này làm được với chi phí thấp."
 
 ??? success "Xem gợi ý đáp án"
     - Luận điểm: "Nên dạy bơi cho học sinh tiểu học."
-    - Lý do: đuối nước gây tử vong hàng đầu ở trẻ em, phần lớn vì không biết bơi.
+    - Lý do: đuối nước gây tử vong hàng đầu ở trẻ em; thiếu kỹ năng bơi là một yếu tố nguy cơ lớn.
     - Giải thích: biết bơi biến tình huống chết người thành tình huống có thể tự cứu — đây là mối nối giữa "biết bơi" và "nên dạy bơi".
     - Lường trước phản biện: lo ngại tốn kém + câu trả lời (bể bơi di động, giáo viên tình nguyện).
 
