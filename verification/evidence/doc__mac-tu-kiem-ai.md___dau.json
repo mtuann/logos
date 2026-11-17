@@ -1,0 +1,116 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#_dau",
+ "hash": "sha256:257310acd4e990951eea4199b4140bbef178bace319ea9e95029df5dd330bd01",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03",
+ "claims": [
+  {
+   "text": "Mặc Tử tên là Mặc Địch, hoạt động khoảng năm 430 TCN",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Mohism originates in the teachings of Mo Di, or \"Mozi\" (\"Master Mo,\" fl. ca. 430 BCE)"
+    }
+   ]
+  },
+  {
+   "text": "Sách Mặc Tử là tuyển tập nhiều người viết qua nhiều thời kỳ",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "a corpus of anonymously authored texts collected into a book",
+     "where": "mục mở đầu; các phần có niên đại từ thế kỷ 5 đến 3 TCN"
+    }
+   ]
+  },
+  {
+   "text": "Theo mục lục đời Hán, sách có 71 thiên, nay mất 18",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html",
+     "quote": "71 books; 18 are now lost (diễn đạt của trang: originally 71, 18 lost)",
+     "where": "phụ lục Texts and Authorship"
+    }
+   ]
+  },
+  {
+   "text": "Kiêm ái thiên 14, 16; Phi công 17; Thiên chí 26 (số thiên)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子",
+     "quote": "卷四 兼愛上 (14), 兼愛中 (15), 兼愛下 (16); 卷五 非攻上 (17); 卷七 天志上 (26)",
+     "where": "vị trí trong mục lục"
+    }
+   ]
+  },
+  {
+   "text": "Mặc Tử và môn đồ là những người đầu tiên lập luận từng bước tìm chuẩn mực đạo đức khách quan thay vì tập tục",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "the first in the tradition to engage, like Socrates in ancient Greece, in an explicit, reflective search"
+    }
+   ]
+  },
+  {
+   "text": "Mặc gia từng đối trọng ngang ngửa Nho gia thời Chiến Quốc",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "often paired by Qin (221–206 BCE) and Han dynasty (206 BCE–219 CE) texts as the two great moral teachers"
+    }
+   ]
+  },
+  {
+   "text": "trường phái ... lụi tàn sau khi nhà Tần thống nhất",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "rồi lụi dần và biến mất khoảng giữa thời Tây Hán",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "the Mohist movement declined, eventually vanishing altogether by the middle of the Western Han",
+     "where": "mục Historical Influence and Decline"
+    }
+   ]
+  },
+  {
+   "text": "Kiêm ái (兼愛) và phi công (非攻) là luận đề cốt lõi",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "inclusive care ... Mencius ... equated inclusive care with renouncing one's father (kiêm ái là học thuyết trung tâm)"
+    }
+   ]
+  },
+  {
+   "text": "Các liên kết ctext.org (Kiêm ái thượng, Kiêm ái hạ, Phi công thượng, Thiên chí thượng) mở được",
+   "kind": "du-kien",
+   "verdict": "chua-kiem-duoc"
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "chua-kiem-duoc",
+ "notes": "ctext.org bị chặn (trang 'Checking the security of your connection', cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay. Nội dung bốn thiên tương ứng đã đối chiếu qua zh.wikisource.org/wiki/墨子/兼愛上, 兼愛下, 非攻上, 天志上. Claim 'lụi tàn sau Tần' mức nhe (SEP: biến mất khoảng giữa Tây Hán)."
+}

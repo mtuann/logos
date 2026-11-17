@@ -1,0 +1,71 @@
+{
+  "unit": "doc/mill-tu-do.md#_dau",
+  "hash": "sha256:c21c57028e7668d81efd338d62f1bfcd97e54bfddb9390f4a1192900d95db71b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "John Stuart Mill, On Liberty, 1859; tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/mill.on-liberty"
+    },
+    {
+      "text": "5 chương; chương II, 'Of the Liberty of Thought and Discussion', dài nhất, 44 đoạn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "CHAPTER II.  OF THE LIBERTY OF THOUGHT AND DISCUSSION",
+          "where": "mục lục; chương II ~97k ký tự so với 33k/48k/47k/74k của các chương khác; thân chương II đếm được 44 đoạn trước phần chú thích"
+        }
+      ]
+    },
+    {
+      "text": "Project Gutenberg ebook 34901, bản in lại của Walter Scott Publishing, có lời giới thiệu của W. L. Courtney",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "On Liberty. By John Stuart Mill. With an Introduction by W. L. Courtney, LL.D. The Walter Scott Publishing Co., Ltd.",
+          "where": "trang tiêu đề"
+        }
+      ]
+    },
+    {
+      "text": "'II.21' là chương II, đoạn 21, đếm theo bản Gutenberg",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "it will be held as a dead dogma, not a living truth",
+          "where": "đoạn thứ 21 của chương II khi đếm từ 'The time, it is to be hoped' là II.1"
+        }
+      ]
+    },
+    {
+      "text": "Mill không chỉ nói 'mọi người có quyền nói'. Ông lập luận rằng bịt miệng một ý kiến là 'cướp đi của cả nhân loại', kể cả khi ý kiến ấy sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "it is robbing the human race; posterity as well as the existing generation",
+          "where": "II.1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org (cùng ebook, cùng bản Walter Scott/Courtney). Số đoạn dựa trên đếm của tôi: II.1 = 'The time, it is to be hoped'; thân chương gồm II.1–II.44."
+}

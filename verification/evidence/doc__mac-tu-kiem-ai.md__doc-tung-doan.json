@@ -1,0 +1,199 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#doc-tung-doan",
+ "hash": "sha256:cd89b83eaf63410c107139e949432fec507cf7e86ce8cffc4e9b73fcd91aef82",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03",
+ "claims": [
+  {
+   "text": "Kiêm ái thượng: 盜愛其室不愛其異室 ... (chép nguyên văn)",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
+     "quote": "盜愛其室，不愛異室，故竊異室以利其室",
+     "where": "Kiêm ái thượng"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "盜愛其室不愛異室，故竊異室以利其室"
+  },
+  {
+   "text": "諸侯各愛其國，不愛異國，故攻異國以利其國 ... 察此何自起？... 視人之室若其室，誰竊？... 視人國若其國，誰攻？",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
+     "quote": "諸侯各愛其國，不愛異國，故攻異國以利其國 ... 察此何自起？ ... 視人之室若其室，誰竊？ ... 視人國若其國，誰攻？",
+     "where": "Kiêm ái thượng"
+    }
+   ]
+  },
+  {
+   "text": "Kiêm ái hạ: 今有平原廣野於此，被甲嬰冑將往戰，死生之權未可識也",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "今有平原廣野於此，被甲嬰胄，將往戰，死生之權未可識也",
+     "where": "Kiêm ái hạ"
+    }
+   ]
+  },
+  {
+   "text": "不識將惡也家室，奉承親戚，提挈妻子，而寄託之？",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "vua",
+   "fix": "不識將惡擇之也？家室，奉承親戚，提挈妻子，而寄託之？",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "然卽敢問不識將惡擇之也？家室，奉承親戚，提挈妻子，而寄託之",
+     "where": "Kiêm ái hạ"
+    }
+   ]
+  },
+  {
+   "text": "我以為當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "我以爲當其於此也，天下無愚夫愚婦，雖非兼之人，必寄託之於兼之有是也",
+     "where": "Kiêm ái hạ"
+    }
+   ]
+  },
+  {
+   "text": "Hai người bạn theo biệt và theo kiêm: biệt thấy bạn đói không cho ăn, rét không cho mặc; kiêm lo cho bạn như mình",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛下",
+     "quote": "飢則食之，寒則衣之 (士 theo 兼) / 飢卽不食，寒卽不衣 (士 theo 別)",
+     "where": "Kiêm ái hạ"
+    }
+   ]
+  },
+  {
+   "text": "Thí nghiệm tư duy 'gần như chính xác kiểu lý thuyết trò chơi' (Van Norden, SEP 'Mencius')",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+     "quote": "a thought-experiment to justify impartial caring that seems almost game-theoretic in its precision",
+     "where": "mục 4, Mozi 16"
+    }
+   ]
+  },
+  {
+   "text": "Phi công thượng: 殺一人謂之不義 ... 今至大為不義攻國，則弗知非，從而譽之，謂之義",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+     "quote": "今至大爲不義攻國，則弗知而非，從而譽之，謂之義",
+     "where": "Phi công thượng"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "今至大為不義攻國，則弗知而非，從而譽之，謂之義"
+  },
+  {
+   "text": "少見黑曰黑，多見黑曰白",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+     "quote": "少見黑曰黑，多見黑曰白"
+    }
+   ]
+  },
+  {
+   "text": "Bản dịch mục 3 (giết một người ... đánh nước người là nghĩa) sát nghĩa nguyên văn",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/非攻上",
+     "quote": "殺一人謂之不義，必有一死罪矣。若以此說往，殺十人十重不義，必有十死罪矣；殺百人百重不義，必有百死罪矣"
+    }
+   ]
+  },
+  {
+   "text": "Công Thâu: Mặc Tử đi mười ngày mười đêm tới Sở, ngăn đánh nước Tống; 不可謂知類",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/公輸",
+     "quote": "行十日十夜，而至於郢 ... 義不殺少而殺衆，不可謂知類 ... 將以攻宋",
+     "where": "Công Thâu"
+    }
+   ]
+  },
+  {
+   "text": "Công Thâu thuộc nhóm thiên đối thoại mà theo Fraser có lẽ ít nhiều hư cấu",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html",
+     "quote": "many of the conversations they report are at least partly fictional",
+     "where": "phụ lục Texts and Authorship (sách 46-50 là nhóm đối thoại)"
+    }
+   ]
+  },
+  {
+   "text": "Thiên chí thượng: 順天意者，兼相愛，交相利，必得賞。反天意者，別相惡，交相賊，必得罰。... 我有天志，譬若輪人之有規，匠人之有矩",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/天志上",
+     "quote": "順天意者，兼相愛、交相利，必得賞；反天意者，別相惡、交相賊，必得罰。 ... 我有天志，譬若輪人之有規，匠人之有矩。",
+     "where": "Thiên chí thượng"
+    }
+   ]
+  },
+  {
+   "text": "Trời được chọn vì quan tâm và làm lợi cho mọi người không phân biệt; ý trời là pháp (khuôn mẫu)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Heaven's conduct is broad and impartial; its favors are rich and incur no debt"
+    }
+   ]
+  },
+  {
+   "text": "Bản dịch các đoạn thiên 14, 16, 17, 26 sát nghĩa nguyên văn (không thấy sai nghĩa)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子/兼愛上",
+     "quote": "視人之室若其室，誰竊？"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "sua",
+ "notes": "Hai chỗ chép chữ Hán lệch bản Wikisource: 不愛其異室 (nguồn: 不愛異室) và 弗知非 (nguồn: 弗知而非), nhe. Chỗ 不識將惡也家室 sai chữ so với 不識將惡擇之也？家室 (vua). Bản dịch Việt không bị ảnh hưởng. ctext.org bị chặn (trang 'Checking the security of your connection', cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay."
+}

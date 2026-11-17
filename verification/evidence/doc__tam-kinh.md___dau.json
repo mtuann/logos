@@ -1,0 +1,91 @@
+{
+ "unit": "doc/tam-kinh.md#_dau",
+ "hash": "sha256:c7d99877df6521cb429655471cbb905abd7c297ee04be3fd796830f08ed45403",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03",
+ "claims": [
+  {
+   "text": "Bản chữ Hán thông dụng chỉ có 260 chữ, kể cả câu chú",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+     "quote": "觀自在菩薩行深般若波羅蜜多時 ... 菩提　莎婆訶 (đếm 260 chữ Hán từ 觀 đến 訶, gồm 即說咒曰; bản Đại chính gốc 僧莎訶 thì 261)",
+     "where": "T08n0251"
+    }
+   ]
+  },
+  {
+   "text": "Bản mang tên Huyền Trang, số T251 Đại chính tân tu; tựa 般若波羅蜜多心經",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+     "quote": "般若波羅蜜多心經 ... 唐三藏法師玄奘譯",
+     "where": "T08n0251"
+    }
+   ]
+  },
+  {
+   "text": "Bản khác gán cho Cưu-ma-la-thập, T250, tên Ma ha Bát nhã Ba la mật Đại minh chú kinh",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0250&juan=1",
+     "quote": "摩訶般若波羅蜜大明呪經 ... 姚秦天竺三藏鳩摩羅什譯",
+     "where": "T08n0250"
+    }
+   ]
+  },
+  {
+   "text": "Thế kỷ 7 (Huyền Trang dịch) và việc 'hai chữ Ma ha được thêm vào trong cách gọi khi tụng'",
+   "kind": "du-kien",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "Nattier (1992) nêu giả thuyết kinh soạn ở Trung Hoa, lấy từ bản Hán dịch Đại phẩm Bát nhã, rồi dịch sang Phạn; còn tranh luận",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "Bản Trần Trọng Kim trên Wikisource tiếng Việt đọc Quan Tự-tại, Xá-lị-tử, thụ, khuể-ngại",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh",
+     "quote": "Quan Tự-tại Bồ-tát hành thâm Bát-nhã Ba-la-mật-đa thời ... Thụ, tưởng, hành, thức ... tâm vô khuể-ngại"
+    }
+   ]
+  },
+  {
+   "text": "Bản Trần Trọng Kim nằm trong sách 'Phật giáo', tr. 116-118 (trang Wikisource không nêu tên sách hay số trang)",
+   "kind": "du-kien",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "Link CBETA T0251_001 là trang hợp lệ của T251",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T0251&juan=1",
+     "quote": "T08n0251 般若波羅蜜多心經",
+     "where": "API CBETA cùng số kinh; trang SPA không đọc được"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": null,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": null
+ },
+ "result": "chua-kiem-duoc",
+ "notes": "CBETA SPA (cbetaonline.dila.edu.tw/zh/T0251_001) không trả nội dung qua công cụ; dùng API dữ liệu CBETA cbdata.dila.edu.tw (cùng cơ sở dữ liệu) và zh.wikisource.org. Nattier: chỉ đọc kết quả tìm kiếm (relbib, languagehat, PhilArchive), JIABS (Heidelberg, Anubis chặn) và silkqin.com (403) đều không mở được; chưa đối chiếu nguồn chính. Ngoài ra không thấy lỗi."
+}

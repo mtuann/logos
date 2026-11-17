@@ -1,0 +1,52 @@
+{
+  "unit": "doc/russell-gia-tri.md#nguon",
+  "hash": "sha256:eda01c0f555b9bdaf0d413f49702867ceb1bcb4448192c21a95f027a2532a091",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "Russell (1912), London: Williams and Norgate, chương XV; Wikisource; Gutenberg 5827",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/The_Problems_of_Philosophy/Chapter_15",
+          "quote": "Chapter 15: The Value of Philosophy",
+          "where": "Wikisource"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/5/8/2/5827/5827-0.txt",
+          "quote": "THE PROBLEMS OF PHILOSOPHY By Bertrand Russell",
+          "where": "ebook 5827"
+        }
+      ]
+    },
+    {
+      "text": "Irvine, Andrew David, 'Bertrand Russell', SEP, bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.russell"
+    },
+    {
+      "text": "Bourget & Chalmers, 'Philosophers on Philosophy: The 2020 PhilPapers Survey', Philosophers' Imprint 23 (11), 2023, doi 10.3998/phimp.2109",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey",
+          "where": "Crossref: Philosophers' Imprint, vol 23, 2023; số '11' là mã bài (article number), Crossref ghi issue 1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Wikisource (1912) mở được; đối chiếu Gutenberg 5827 qua mirror gutenberg.pglaf.org. SEP Russell: citation_author = Irvine, Andrew David (đã mở trang bản lưu fall2026). URL survey2020.philpeople.org chưa mở."
+}

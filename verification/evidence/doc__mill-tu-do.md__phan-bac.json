@@ -1,0 +1,86 @@
+{
+  "unit": "doc/mill-tu-do.md#phan-bac",
+  "hash": "sha256:70154d1e3a11418c296c8b06dd380945f62aea84bf75f87b3d451aec5747027e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k09",
+  "claims": [
+    {
+      "text": "Ở đầu chương III, ông viết ý kiến 'lái buôn ngũ cốc làm người nghèo chết đói' phải được để yên khi in trên báo, nhưng có thể bị trừng phạt chính đáng khi hô trước đám đông kích động trước nhà một lái buôn (III.1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "An opinion that corn-dealers are starvers of the poor, or that private property is robbery, ought to be unmolested when simply circulated through the press, but may justly incur punishment when delivered orally to an excited mob assembled before the house of a corn-dealer",
+          "where": "III.1 (đoạn đầu sau tiêu đề chương III)"
+        }
+      ]
+    },
+    {
+      "text": "Nguyên tắc gây hại: quyền lực chỉ được can thiệp để ngăn người đó gây hại cho người khác (I.9)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "The object of this Essay is to assert one very simple principle",
+          "where": "I.9"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mill/",
+          "quote": "the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection"
+        }
+      ]
+    },
+    {
+      "text": "Corn ở Anh thời Mill là ngũ cốc nói chung, không phải ngô",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "corn-dealers are starvers of the poor",
+          "where": "III.1; 'corn-dealer' ở đây là lái buôn ngũ cốc (nghĩa Anh-Anh chuẩn); không có nguồn trực tiếp nói 'ngô' nên đây là kiến thức từ vựng chung"
+        }
+      ]
+    },
+    {
+      "text": "Một nghiên cứu trên Twitter cho thấy tin sai lan xa hơn và nhanh hơn tin thật (Vosoughi, Roy & Aral 2018)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1126/science.aap9559",
+          "quote": "False news reached more people than the truth ... Falsehood also diffused faster than the truth. ... used a data set of rumor cascades on Twitter from 2006 to 2017",
+          "where": "tóm tắt Science (Crossref); science.org trả 403"
+        }
+      ]
+    },
+    {
+      "text": "Người theo Mill hỏi: ai quyết định 'tin sai' để cấm, lấy gì bảo đảm người ấy không thể sai? Lời đáp là thêm lời nói",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "We can never be sure that the opinion we are endeavouring to stifle is a false opinion",
+          "where": "II.2"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+          "quote": "Complete liberty of contradicting and disproving our opinion, is the very condition which justifies us in assuming its truth",
+          "where": "II.6"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org (cùng ebook, cùng bản Walter Scott/Courtney). Lưu ý: Mill thêm 'private property is robbery' trong cùng câu; bài lược bớt, không sai. 'Ngô' không có nguồn trực tiếp, claim phụ."
+}

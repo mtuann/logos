@@ -1,0 +1,34 @@
+{
+  "unit": "doc/kant-khai-sang.md#doc-tiep",
+  "hash": "sha256:4ef558ff0d4f5d3ea09274faed7cdaaa2b57f73c6cad778b298fd57b13bd1c04",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "Bốn liên kết nội bộ: dan-chu.md \"Dân chủ là gì, và vì sao nó đáng giá?\", tri-thuc.md \"Biết một điều nghĩa là gì?\", tu-do-ngon-luan.md \"Tự do ngôn luận: được nói đến đâu?\", mill-tu-do.md (Bàn về tự do chương 2, 1859)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/mill-tu-do/",
+          "quote": "(đọc file nguồn trong repo: tiêu đề của 4 trang khớp; không mở site deploy)"
+        }
+      ]
+    },
+    {
+      "text": "Mill 75 năm sau (1859 − 1784 = 75)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/mill.on-liberty"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Liên kết trong repo; đã xác nhận tiêu đề các file docs/cau-hoi/dan-chu.md, tu-do-ngon-luan.md, tri-thuc.md, docs/doc/mill-tu-do.md. works/mill.on-liberty là khóa kb nhưng tôi chưa xác nhận trạng thái frozen trong ledger (không có trong danh sách tôi lọc) — dùng thận trọng."
+}

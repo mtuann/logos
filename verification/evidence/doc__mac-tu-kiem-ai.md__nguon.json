@@ -1,0 +1,76 @@
+{
+ "unit": "doc/mac-tu-kiem-ai.md#nguon",
+ "hash": "sha256:4bbe7397e60e62ad2ce71aebbae49301e281c133482ae8bdcc9c6d594a97de60",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k03",
+ "claims": [
+  {
+   "text": "SEP 'Mohism' (Fraser) và 'Mencius' (Van Norden, sửa đổi 2024) có ở bản lưu fall2026",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+     "quote": "First published Oct 16, 2004; substantive revision Sept 27, 2024"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Mohism originates in the teachings of Mo Di"
+    }
+   ]
+  },
+  {
+   "text": "Phụ lục 'Texts and Authorship' của mục Mohism tồn tại (texts.html)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/texts.html",
+     "quote": "71 books; 18 are now lost",
+     "where": "Texts and Authorship"
+    }
+   ]
+  },
+  {
+   "text": "Mencius mục 4 (Mencius and His Philosophical Opponents) có bàn Mặc Tử",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+     "quote": "Mencius and His Philosophical Opponents",
+     "where": "mục 4"
+    }
+   ]
+  },
+  {
+   "text": "Mạnh Tử 3A5 và 3B9 nằm ở Đằng Văn Công thượng/hạ",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+     "quote": "夷之"
+    },
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公下",
+     "quote": "墨氏兼愛，是無父也"
+    }
+   ]
+  },
+  {
+   "text": "Các URL ctext.org (thiên 14, 16, 17, 26, 50 và Mạnh Tử 3A5, 3B9) mở được và đúng thiên",
+   "kind": "du-kien",
+   "verdict": "chua-kiem-duoc"
+  }
+ ],
+ "checklist": {
+  "dung-nguon": null,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": null,
+  "thuat-ngu": null
+ },
+ "result": "chua-kiem-duoc",
+ "notes": "ctext.org bị chặn (trang kiểm tra bảo mật, cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay. Tên tác giả Fraser của mục Mohism: trang không hiển thị tên tác giả trong đoạn đọc được; chưa xác nhận trực tiếp (SEP Mohism thường ghi Chris Fraser; chưa mở được dòng tác giả)."
+}

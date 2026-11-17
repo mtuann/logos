@@ -1,0 +1,102 @@
+{
+  "unit": "doc/platon-bien-ho.md#tu-kiem-tra",
+  "hash": "sha256:22edb38cab98f7b82a8a215a5a22781f2ffd55bbf6260e5189b0f5bcaad188f1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Q1: Theo 21d, Socrates hơn chính trị gia ở điểm không tưởng mình biết (đáp án 1 đúng; 'biết chắc rằng không ai biết gì' sai; giải thích dẫn 22d, 29b)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=21d",
+          "quote": "this man thinks he knows something when he does not, whereas I, as I do not know anything, do not think I do either",
+          "where": "Apology 21d (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=22d",
+          "quote": "they did know what I did not",
+          "where": "Apology 22d (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29b",
+          "quote": "But I do know that it is evil and disgraceful to do wrong",
+          "where": "Apology 29b (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Q2: Sợ chết là 'làm ra vẻ khôn ngoan' vì giả định điều không ai biết (đáp án 1 đúng); Socrates không khẳng định chết chắc chắn tốt, 42a chỉ thần biết",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29a",
+          "quote": "For to fear death, gentlemen, is nothing else than to think one is wise when one is not; for it is thinking one knows what one does not know",
+          "where": "Apology 29a (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=42a",
+          "quote": "is known to none but God",
+          "where": "Apology 42a (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Q3: lưỡng nan 40c; hình thức hợp lệ, chỗ yếu là tiền đề hai khả năng (đáp án 1 đúng); các phương án còn lại sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "the state of death is one of two things: either it is virtually nothingness... or it is, as people say, a change and migration of the soul",
+          "where": "Apology 40c (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Q4: 'xét lại' không đồng nghĩa với đọc sách triết; 38a nói bàn luận về đức hạnh và tự xét hỏi (đáp án 1 đúng); 22d về thợ thủ công",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a",
+          "quote": "to talk every day about virtue and the other things about which you hear me talking and examining myself and others is the greatest good to man",
+          "where": "Apology 38a (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=22d",
+          "quote": "the good artisans also seemed to me to have the same failing as the poets",
+          "where": "Apology 22d (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Phương án sai Q3/Q4 ('38a là lời của Aristophanes', '38a chỉ nói về chính trị gia', 'Giấc ngủ không mộng là trạng thái khó chịu nhất') đều sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a",
+          "quote": "the unexamined life is not worth living",
+          "where": "Apology 38a (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40d",
+          "quote": "death would be a wonderful gain",
+          "where": "Apology 40d (Fowler, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả bốn câu: đáp án đánh dấu 1 (chỉ số 0) đều đúng; phương án sai đều trái văn bản. Q4 cụm 'việc ai cũng làm được' là diễn giải hợp lý, không dữ kiện. Gutenberg #1656 chặn bot nên đọc bản chép web.archive.org của pg1656.txt; số Stephanus từ Perseus."
+}

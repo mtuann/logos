@@ -1,0 +1,100 @@
+{
+  "unit": "doc/platon-hang-dong.md#boi-canh",
+  "hash": "sha256:86205d3fb06681c7f1ea1514d54f276c194ca1167ee55cad22ee0e3ba78cf9f3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Platon viết Cộng hòa sau khi thầy mình, Socrates, bị xử tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/platon.politeia"
+    },
+    {
+      "text": "Câu hỏi trung tâm của sách là: sống công chính có luôn tốt hơn sống bất công không?",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/",
+          "quote": "Plato’s Republic centers on a simple question: is it always better to be just than unjust?"
+        }
+      ]
+    },
+    {
+      "text": "Socrates (nhân vật) dựng một thành phố \"bằng lời\"... công lý của thành phố dễ thấy hơn công lý trong một con người",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/",
+          "quote": "To answer the question, Socrates takes a long way around, sketching an account of a good city on the grounds that a good city would be just"
+        }
+      ]
+    },
+    {
+      "text": "chừng nào triết gia chưa cai trị, hoặc người cai trị chưa thật sự làm triết học, các thành phố sẽ không hết tai ương (473c–d)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=5:section=473c",
+          "quote": "Unless,” said I, “either philosophers become kings",
+          "where": "Republic 473c (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=5:section=473d",
+          "quote": "there can be no cessation of troubles, dear Glaucon, for our states",
+          "where": "Republic 473d (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "ba hình ảnh liên tiếp: mặt trời (507b–509b), đường thẳng chia đoạn (509d–511e), và hang động",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/",
+          "quote": "lurking behind the images of the Sun, Line, and Cave"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=509b",
+          "quote": "The sun, I presume you will say, not only furnishes to visibles the power of visibility",
+          "where": "Republic 509b (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=509d",
+          "quote": "a line divided into two unequal sections",
+          "where": "Republic 509d (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=511e",
+          "quote": "assign belief to the third, and to the last picture-thinking or conjecture",
+          "where": "Republic 511e (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "đây là hình ảnh về bản tính của ta \"khi được giáo dục và khi thiếu giáo dục\" (514a)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a",
+          "quote": "compare our nature in respect of education and its lack to such an experience as this",
+          "where": "Republic 514a (Shorey, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Đúng. 507b–509b, 509d–511e khớp mục Mặt trời, Đường thẳng của quyển VI. Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey)."
+}

@@ -1,0 +1,28 @@
+{
+  "unit": "doc/sartre-hien-sinh.md#doc-tiep",
+  "hash": "sha256:925e0c97ca5c5ec75798e6abe609fce5eb2c0d8634eaaad94ce7c54c1307558a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k10",
+  "claims": [
+    {
+      "text": "Các liên kết tới cau-hoi/tu-do-y-chi, trach-nhiem, lich-su/the-ky-20, y-nghia-song, viet-hien-dai",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://github.com/mtuann/logos/tree/main/docs/cau-hoi",
+          "quote": "tu-do-y-chi.md đã liên kết ngược tới doc/sartre-hien-sinh.md (kiểm bằng file local docs/cau-hoi/tu-do-y-chi.md dòng 194); 5 trang đích đều tồn tại"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Kiểm bằng file local: 5 trang đích tồn tại, mô tả khớp (tự do ý chí/Libet; trách nhiệm; Thế kỷ 20 nêu Sartre; ý nghĩa sống; hiện sinh ở Việt Nam). Mô tả 'Libet đối đầu Sartre' hơi gộp nhưng bài tu-do-y-chi có dẫn Sartre là phía ngược lại. URL github ghi ở nguồn chỉ là chỉ dẫn thư mục, bằng chứng thực là file local."
+}

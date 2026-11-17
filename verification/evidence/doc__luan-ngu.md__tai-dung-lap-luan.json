@@ -1,0 +1,114 @@
+{
+  "unit": "doc/luan-ngu.md#tai-dung-lap-luan",
+  "hash": "sha256:1a5dd95c5e1e45dc23985b3782073c64f1b36d3e82d7b824588289eb3decdedc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k01",
+  "claims": [
+    {
+      "text": "P1 (1.1): người ta thành người tốt nhờ rèn luyện hằng ngày, học rồi tập",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E5%AD%B8%E8%80%8C%E7%AC%AC%E4%B8%80",
+          "quote": "學而時習之，不亦說乎",
+          "where": "一之一"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "training one's dispositions through ritual and the classics"
+        }
+      ]
+    },
+    {
+      "text": "P2 (3.3, 3.4): lễ là khuôn rèn luyện, nhưng lễ thiếu nhân thì vô nghĩa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E5%85%AB%E4%BD%BE%E7%AC%AC%E4%B8%89",
+          "quote": "人而不仁，如禮何？",
+          "where": "三之三"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E5%85%AB%E4%BD%BE%E7%AC%AC%E4%B8%89",
+          "quote": "禮，與其奢也，寧儉",
+          "where": "三之四"
+        }
+      ]
+    },
+    {
+      "text": "P3: nén mình theo lễ (12.1), lấy lòng mình đo lòng người (15.24)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E9%A1%8F%E6%B7%B5%E7%AC%AC%E5%8D%81%E4%BA%8C",
+          "quote": "克己復禮爲仁",
+          "where": "十二之一"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E8%A1%9E%E9%9D%88%E5%85%AC%E7%AC%AC%E5%8D%81%E4%BA%94",
+          "quote": "其恕乎！己所不欲，勿施於人",
+          "where": "十五之二三 (15.24 kiểu SEP)"
+        }
+      ]
+    },
+    {
+      "text": "P3: đòi hỏi ở mình trước (15.21): số chương theo ctext.org",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Nhiều học giả xếp Luận ngữ vào đạo đức học đức hạnh (virtue ethics)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "something his lessons share with those of philosophies like Aristotle's that are generally described as \"virtue ethics\""
+        }
+      ]
+    },
+    {
+      "text": "Rosemont, Ames đề nghị gọi là \"đạo đức học vai trò\", nhấn mạnh bổn phận trong từng mối quan hệ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Henry Rosemont and Roger Ames argue that prescribed social roles are a defining characteristic of the \"Confucian tradition\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Confucian Role Ethics",
+          "where": "thư mục: Rosemont & Ames 2016"
+        }
+      ]
+    },
+    {
+      "text": "Mạnh Tử và Tuân Tử về sau tranh luận về nguồn gốc/bản tính con người",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Mencius (fourth century BCE) argued that benevolence grows out of the cultivation of an affective disposition to compassion"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "closer to the program of Xunzi (third century BCE)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. Số chương kiểu ctext.org chỉ đối chiếu gián tiếp (SEP cùng cách đánh số; Wikisource theo Legge, lệch 1-2). Điều \"Mạnh và Tuân tranh luận gay gắt\" hơi mạnh hơn SEP nhưng không sai."
+}

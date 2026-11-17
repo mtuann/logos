@@ -1,0 +1,120 @@
+{
+  "unit": "doc/hume-nhan-qua.md#nguon",
+  "hash": "sha256:1b1591612ea6450d81015b6273221b553556b67728fe8e38deb03b129f07f2ec",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "Gutenberg ebook 9662",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/9/6/6/9662/9662.txt",
+          "quote": "[EBook #9662]",
+          "where": "mirror; www.gutenberg.org trả 503 bảo trì lúc kiểm"
+        }
+      ]
+    },
+    {
+      "text": "Hume (1777), \"My Own Life\", MOL 6 và 8",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/mol",
+          "quote": "MOL 6, Mil xxxiv",
+          "where": "MOL 6 \"dead-born\"; MOL 8 \"cast the first part of that work anew\""
+        }
+      ]
+    },
+    {
+      "text": "Qu, Hsueh & Elizabeth S. Radcliffe, \"David Hume\", SEP (2026), bản lưu fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "The following new entry by Hsueh Qu and Elizabeth S. Radcliffe",
+          "where": "First published Tue Jun 16, 2026"
+        }
+      ]
+    },
+    {
+      "text": "Leah Henderson, \"The Problem of Induction\", SEP; mục 3.1 và 4.1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "Copyright © 2022 by Leah Henderson",
+          "where": "3.1 Synthetic a priori; 4.1 Inductive Justifications of Induction"
+        }
+      ]
+    },
+    {
+      "text": "De Pierris & Friedman, \"Kant and Hume on Causality\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-hume-causality/",
+          "quote": "Copyright © 2024 by Graciela De Pierris",
+          "where": "kèm Michael Friedman"
+        }
+      ]
+    },
+    {
+      "text": "Lewis (1973), \"Causation\", Journal of Philosophy 70 (17): 556–567, DOI 10.2307/2025310",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2025310",
+          "quote": "\"container-title\":[\"The Journal of Philosophy\"]",
+          "where": "volume 70, issue 17, page 556, năm 1973"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "1973b. “Causation”, Journal of Philosophy , 70: 556–67"
+        }
+      ]
+    },
+    {
+      "text": "Bourget & Chalmers, Philosophers' Imprint 23 (11), 2023, doi 10.3998/phimp.2109",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Philosophers' Imprint 23: 11, 1–53"
+        }
+      ]
+    },
+    {
+      "text": "Số đoạn Enquiry theo Hume Texts Online: davidhume.org/texts/e/",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/e/4",
+          "quote": "E 4.1, SBN 25"
+        }
+      ]
+    },
+    {
+      "text": "kết quả đầy đủ: https://survey2020.philpeople.org/",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "survey2020.philpeople.org trả HTTP 403 với client tự động (đã thử / và /survey/results/5014); không phải dấu hiệu link chết nhưng không mở được trong phiên. Mọi nguồn khác mở được. SEP Hume ghi bản lưu fall2026 First published Jun 16, 2026, khớp \"(2026)\"."
+}

@@ -1,0 +1,90 @@
+{
+  "unit": "doc/platon-hang-dong.md#tu-kiem-tra",
+  "hash": "sha256:e5e7484fd310dc3e39ef1a0fd898c1300d0ce67611f323e3959e6e2406ad6572",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Q1: Giáo dục ở 518b–d: năng lực đã có sẵn, xoay cả linh hồn (đáp án index 1 đúng; 'thuộc tên các bóng' sai, trỏ 516c–d)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=518c",
+          "quote": "What they aver is that they can put true knowledge into a soul that does not possess it, as if they were inserting vision into blind eyes",
+          "where": "Republic 518c (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=518d",
+          "quote": "not an art of producing vision in it, but on the assumption that it possesses vision but does not rightly direct it",
+          "where": "Republic 518d (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=516c",
+          "quote": "prizes for the man who is quickest to make out the shadows",
+          "where": "Republic 516c (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Q2: Vì sao người ra khỏi hang phải quay xuống (519d–520c): đáp án 1 đúng; 'thành phố tốt nhất là nơi người cầm quyền ít muốn cầm quyền nhất (520d)'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=519d",
+          "quote": "That they should linger there,” I said, “and refuse to go down again among those bondsmen",
+          "where": "Republic 519d (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=520d",
+          "quote": "those who are to rule are least eager to hold office must needs be best administered",
+          "where": "Republic 520d (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Q3: Từ 521c vạch ra quá trình học dài; 516c người đã ra ngoài thương bạn tù (đáp án 1 đúng)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=521c",
+          "quote": "Must we not, then, consider what studies have",
+          "where": "Republic 521c (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=516c",
+          "quote": "would count himself happy in the change and pity them",
+          "where": "Republic 516c (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Phương án sai của Q1–Q3 (rót nước vào bình; chỉ người thông minh; ngoài hang lạnh; thèm quyền lực; ánh sáng làm mù vĩnh viễn) đều trái văn bản",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=518c",
+          "quote": "as if they were inserting vision into blind eyes",
+          "where": "Republic 518c (Shorey, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=520d",
+          "quote": "least eager to hold office",
+          "where": "Republic 520d (Shorey, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả ba câu đáp án đánh dấu đúng. Q3 vế 'ai cũng kiểm tra được' là diễn giải hợp lý. Q2 vế 'họ được thành phố giáo dục nên phải góp phần cai trị' bám 519e–520b (mở ở 520c: 'you have had a better and more complete education'). Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey)."
+}

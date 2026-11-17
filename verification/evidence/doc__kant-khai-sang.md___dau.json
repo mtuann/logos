@@ -1,0 +1,112 @@
+{
+  "unit": "doc/kant-khai-sang.md#_dau",
+  "hash": "sha256:e5b5cf0f948550494cc04595a983b60d2ff25ad2b7a23f19291ba0cc24aa8382",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k08",
+  "claims": [
+    {
+      "text": "ký ngày 30/9/1784",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Königsberg in Preußen, den 30. Septemb.[er] 1784",
+          "where": "cuối bài"
+        }
+      ]
+    },
+    {
+      "text": "đăng Berlinische Monatsschrift số tháng 12/1784 (tr. 481–494)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Berlinische Monatsschrift. 1784. Zwölftes Stük. December.",
+          "where": "tr. [481] đến [494]"
+        }
+      ]
+    },
+    {
+      "text": "tiểu luận tiếng Đức, chưa đến 3.000 chữ; \"chỉ mười bốn trang tạp chí\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "[ 494 ]",
+          "where": "481–494 = 14 trang; đếm văn bản bản in ~2.700 từ"
+        }
+      ]
+    },
+    {
+      "text": "bản in 1784 trên Wikisource tiếng Đức; nguyên văn chép theo bản này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit",
+          "where": "đối chiếu 4 trích: khớp từng chữ và chính tả 1784 (Muthes, Stükken, Bedrükkung)"
+        }
+      ]
+    },
+    {
+      "text": "bản Akademie-Ausgabe, tập 8, tr. 35–42, trên korpora.org",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/035.html",
+          "quote": "Aufklärung ist der Ausgang des Menschen aus seiner selbst",
+          "where": "AA VIII, Seite 035"
+        },
+        {
+          "url": "https://www.korpora.org/Kant/aa08/042.html",
+          "quote": "Königsberg in Preußen, den 30. Septemb.[er] 1784",
+          "where": "AA VIII, Seite 042: trang cuối"
+        }
+      ]
+    },
+    {
+      "text": "\"Ak 8:37\" là tập 8, trang 37",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.korpora.org/Kant/aa08/037.html",
+          "quote": "Nur ein einziger Herr in der Welt sagt: räsonnirt",
+          "where": "Seite 037"
+        }
+      ]
+    },
+    {
+      "text": "Immanuel Kant (nhận định tác giả)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/kant"
+    },
+    {
+      "text": "Tiêu đề mở: \"một câu hỏi nêu trên một tạp chí ở Berlin\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+          "quote": "Ist es rathsam, das Ehebündniß nicht ferner durch die Religion zu sanciren?",
+          "where": "chú thích Wikisource: Zöllner, Berlinische Monatsschrift 2 (1783), tr. 516"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Lưu ý nhe không ghi thành lỗi: hộp ghi AA tr. 35–42 còn mục Nguồn ghi AA 8: 33–42 (tr. 33 là trang tiêu đề bài). Hai cách đều đúng."
+}

@@ -1,0 +1,117 @@
+{
+  "unit": "doc/aristotle-dao-duc.md#_dau",
+  "hash": "sha256:46534af33d14fa956da298c2c0824b9d0e59fb3571f1c7652a068e319259e8de",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Đạo đức Nicomachus là tác phẩm đạo đức học nền tảng của Aristotle (384–322 TCN)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/aristotle"
+    },
+    {
+      "text": "Sách gồm 10 quyển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "BOOK X",
+          "where": "Ross, quyển X (bản txt của Internet Classics Archive có đủ quyển I–X)"
+        }
+      ]
+    },
+    {
+      "text": "chữ \"Nicomachus\" được thêm về sau, có lẽ vì con trai ông là Nicomachus đã biên tập nó",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-ethics/",
+          "quote": "The words “ Eudemian ” and “ Nicomachean ” were added later, perhaps because the former was edited by his friend, Eudemus, and the latter by his son, Nicomachus",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "quyển I–II chừng 16 trang Bekker (1094a–1109b)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml",
+          "quote": "<milestone unit=\"page\" resp=\"Bekker\" n=\"1094a\"/>",
+          "where": "mở đầu quyển I"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml",
+          "quote": "οὕτω γὰρ ῥᾷστα τοῦ μέσου καὶ τοῦ εὖ τευξόμεθα",
+          "where": "câu cuối II.9, 1109b26 (cột b, trước milestone 1109b dòng 30 mở III.1); 1094a–1109b = 32 cột = 16 trang"
+        }
+      ]
+    },
+    {
+      "text": "Số như \"1098a18\" là trang, cột, dòng của ấn bản Bekker (1831), mọi bản dịch đều ghi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-politics/",
+          "quote": "Line references are keyed to the 1831 edition of Immanuel Bekker which had two columns (“a” and “b”) on each page",
+          "where": "phần quy ước trích dẫn"
+        },
+        {
+          "url": "https://iep.utm.edu/aristotle/",
+          "quote": "August Immanuel Bekker’s authoritative 1831–1836 Berlin edition of the Corpus",
+          "where": "mục Writings"
+        }
+      ]
+    },
+    {
+      "text": "bản Ross trên Internet Classics Archive; bản Hy Lạp có số Bekker trên Perseus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "Translated by W. D. Ross",
+          "where": "đầu file"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml",
+          "quote": "Aristotelis Ethica Nicomachea Aristotle Ingram Bywater Clarendon Press Oxford 1894",
+          "where": "TEI header, bản Perseus có milestone Bekker"
+        }
+      ]
+    },
+    {
+      "text": "W. D. Ross, trong bộ The Works of Aristotle, tập IX (Oxford, bản sửa năm 1925; Ross mất năm 1971)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://archive.org/download/dli.ernet.6106/page/n8.jpg",
+          "quote": "Preface ... W. D. ROSS, July 1925 (ảnh trang tiêu đề: ETHICA NICOMACHEA by W. D. Ross, Oxford University Press; trang mục lục tập: \"VOLUME IX ETHICA NICOMACHEA By W. D. ROSS\")",
+          "where": "scan Internet Archive, tập IX"
+        },
+        {
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=William%20David%20Ross&language=en&format=json",
+          "quote": "Scottish philosopher and translator (1877–1971)",
+          "where": "Wikidata (chỉ để đối chiếu năm mất)"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "W. D. Ross, trong bộ *The Works of Aristotle*, tập IX (Oxford, 1925; Ross mất năm 1971)."
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tập IX, bản dịch Ross, lời tựa tháng 7/1925 (ảnh trang preface đã mở): đúng. Năm mất 1971 đúng (Wikidata, Wikisource Author page ghi \"1971 deaths\"). Cụm \"bản sửa năm 1925\" không có trong nguồn: lời tựa và trang tiêu đề không nói đây là bản sửa, trông như bản in đầu 1925; ghi nhe, chủ biên quyết. Archive.org ghi metadata date 1915 là sai so với lời tựa (không phải lỗi của bài). Thời lượng đọc 25 phút/hai giờ là ước lượng, không kiểm."
+}

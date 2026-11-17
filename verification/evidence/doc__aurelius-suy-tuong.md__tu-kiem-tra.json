@@ -1,0 +1,86 @@
+{
+ "unit": "doc/aurelius-suy-tuong.md#tu-kiem-tra",
+ "hash": "sha256:f635cd153f2b2960528f3370c37fb06572026efd64e6d941d122bdd4d76f4d06",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k07",
+ "claims": [
+  {
+   "text": "Q1 đáp án B đúng: VIII.47 có cả sửa phán đoán và \"hành động thay vì than\"; C là hiểu sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII",
+     "quote": "who hinders thee from correcting thy opinion? And even if thou art pained because thou art not doing some particular thing which seems to thee to be right, why dost thou not rather act than complain?"
+    }
+   ]
+  },
+  {
+   "text": "Q2 đáp án B đúng (quả ô liu chín rụng, chúc phúc tự nhiên, cảm ơn cái cây); A, C, D sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV",
+     "quote": "end thy journey in content, as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew"
+    }
+   ]
+  },
+  {
+   "text": "Q3: IV.3 nêu \"thiên ý hay nguyên tử\"; đáp án B (bình thản dù trật tự hay ngẫu nhiên) là cách đọc có trong văn liệu; A, C, D sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "Or is his point that whether one’s physics is Epicurean or Stoic, one must live as the Stoics enjoin (Annas 2004, 108–114, Hadot 1998, 148)"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV",
+     "quote": "either there is providence or atoms"
+    }
+   ]
+  },
+  {
+   "text": "Đây là lưỡng nan: cả hai vế dẫn tới cùng một kết luận thực hành, nên Marcus không phải chọn vế nào trước khi sống cho đúng.",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Đây là lưỡng nan: theo một cách đọc phổ biến (Annas, Hadot), cả hai vế dẫn tới cùng một kết luận thực hành, và kết luận \"đừng oán trách\" được nói rõ ở VIII.17. Dù vậy, Marcus vẫn nhiều lần khẳng định thế giới do một tự nhiên có lý trí điều hành (IV.3, X.6).",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "Still, Marcus is not really open to the possibility of Epicurean physics. He asserts repeatedly, after laying out the ‘providence or atoms’ options, that the world is in fact governed by an intelligent nature"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "Is his point that whether one’s physics is Epicurean or Stoic, one must live as the Stoics enjoin"
+    }
+   ]
+  },
+  {
+   "text": "Q4 đáp án B: tách điều đã xảy ra (đón nhận) với điều còn làm được (VIII.47); VII.26 thay cơn giận bằng thấu hiểu; công bằng là đức hạnh; A, C, D không phải lập trường Marcus",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII",
+     "quote": "thou wilt pity him, and wilt neither wonder nor be angry"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII",
+     "quote": "why dost thou not rather act than complain?"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Lỗi nhe duy nhất: lời giải Q3 trình bày một trong hai cách đọc (SEP 4.1) như điều chắc chắn. Đáp án đúng vẫn đúng."
+}

@@ -1,0 +1,53 @@
+{
+ "unit": "doc/aurelius-suy-tuong.md#doc-tiep",
+ "hash": "sha256:ac70f6a7898cb4d35566ffc0671c0afe93f33d15d797a2d2d441246bfb0a0f0a",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.4-k07",
+ "claims": [
+  {
+   "text": "Epictetus: Cẩm nang là bài cùng trường phái Khắc kỷ với công thức \"tầm kiểm soát\"; trang đích tồn tại",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "the Stoic whose writings he singles out for mention here is Epictetus",
+     "where": "Marcus và Epictetus cùng Khắc kỷ; trang docs/doc/epictetus-cam-nang.md có mặt trong repo (đã kiểm bằng ls)"
+    }
+   ]
+  },
+  {
+   "text": "Chết có đáng sợ không?: Epicurus và Nagel tranh luận; trang đích tồn tại và mô tả khớp (description của cau-hoi/cai-chet.md nêu Epicurus và Nagel)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/marcus-aurelius/",
+     "quote": "Marcus’ Meditations ... the imminence of death",
+     "where": "Chủ đề cái chết trong Suy tưởng; trang docs/cau-hoi/cai-chet.md có mặt trong repo"
+    }
+   ]
+  },
+  {
+   "text": "Cuộc sống có ý nghĩa không?; Hy Lạp cổ đại: các trang đích tồn tại trong repo (docs/cau-hoi/y-nghia-song.md, docs/lich-su/hy-lap-co-dai.md)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IX",
+     "quote": "30. Look down from above on the countless herds of men",
+     "where": "Cái nhìn từ trên cao IX.30 liên quan đến câu hỏi ý nghĩa"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": null,
+  "thuat-ngu": null
+ },
+ "result": "dat",
+ "notes": "Chỉ kiểm quan hệ nội dung với văn bản gốc và sự tồn tại của file đích bằng ls; không kiểm nội dung các trang đích (ngoài phạm vi)."
+}

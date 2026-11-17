@@ -1,0 +1,138 @@
+{
+  "unit": "doc/platon-hang-dong.md#phan-bac",
+  "hash": "sha256:9bae927e8354beda310513d4c558459bff4a71b31896de963006f702e33d11a1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Aristotle... \"Siêu hình học\" I.9: ý niệm tách rời sự vật chẳng giúp gì để hiểu sự vật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "quote": "they help in no wise either towards the knowledge of the other things (for they are not even the substance of these, else they would have been in them)",
+          "where": "Metaphysics I.9 (Ross)"
+        }
+      ]
+    },
+    {
+      "text": "Câu trích Aristotle tiếng Việt \"chúng không phải bản chất của các sự vật, nếu không thì chúng đã ở trong sự vật\" không có nhãn bản dịch",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thêm \"*(bản dịch của Logos)*\" sau câu trích, hoặc ghi rõ đây là diễn ý",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "quote": "for they are not even the substance of these, else they would have been in them",
+          "where": "Ross; luật 2 của AGENTS.md yêu cầu ghi '(bản dịch của Logos)' cho bản dịch của site"
+        }
+      ]
+    },
+    {
+      "text": "chính Platon, trong Parmenides, đã tự nêu những phản bác sắc bén với thuyết ý niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/",
+          "quote": "4. Problems for the Theory of Forms 130a–134e",
+          "where": "SEP Rickless, mục 4 (gồm Third Man 132a–b)"
+        }
+      ]
+    },
+    {
+      "text": "Người theo Platon chỉ vào toán học: không vòng tròn vẽ trên giấy nào tròn hoàn hảo, vậy mà ta biết chính xác \"hình tròn\" là gì",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-metaphysics/",
+          "quote": "A drawn circle, or a round ball, is deficient in that it is not perfectly circular",
+          "where": "SEP Silverman, Plato's Middle Period Metaphysics and Epistemology (Approximationist reading)"
+        }
+      ]
+    },
+    {
+      "text": "Karl Popper, trong Xã hội mở và kẻ thù của nó (1945)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "He published The Open Society and Its Enemies , his critique of totalitarianism, in 1945."
+        }
+      ]
+    },
+    {
+      "text": "coi Cộng hòa là một gốc rễ của tư tưởng chống dân chủ",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "coi *Cộng hòa* là một gốc rễ của tư tưởng toàn trị (SEP Brown mục 4.4: 'the charge of totalitarianism famously advanced by Karl Popper'); và thêm SEP Brown 4.4 vào Nguồn vì mục SEP Popper đã liệt kê chỉ xác nhận tên sách và năm",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/",
+          "quote": "Some of the most heated discussions of the politics of Plato’s Republic have surrounded the charge of totalitarianism famously advanced by Karl Popper",
+          "where": "SEP Brown, mục 4.4 Totalitarianism"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "strident critiques of philosophical presuppositions underpinning all forms of totalitarianism",
+          "where": "SEP Popper không nhắc Cộng hòa hay Platon ngoài thư mục"
+        }
+      ]
+    },
+    {
+      "text": "Ẩn dụ đòi người hiểu biết phải phục vụ chứ không hưởng quyền: họ bị buộc quay về, và người ít ham quyền nhất mới đáng cầm quyền (520d)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=520d",
+          "quote": "the city in which those who are to rule are least eager to hold office must needs be best administered and most free from dissension",
+          "where": "Republic 520d (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "phần sau quyển VII (từ 521c) vạch ra nhiều năm học toán rồi biện chứng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=521c",
+          "quote": "Must we not, then, consider what studies have",
+          "where": "Republic 521c (Shorey, Perseus)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/",
+          "quote": "or anyone else tempted to avoid the mathematical studies of Book Seven",
+          "where": "SEP Brown"
+        }
+      ]
+    },
+    {
+      "text": "người đã ra khỏi hang thì thương bạn tù (516c), không khinh họ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=516c",
+          "quote": "would count himself happy in the change and pity them",
+          "where": "Republic 516c (Shorey, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hai lỗi mức nhe, không làm sai nội dung: (1) câu trích Aristotle tiếng Việt thiếu nhãn '(bản dịch của Logos)'; nội dung dịch sát Ross; (2) 'chống dân chủ' nên là 'toàn trị' theo nguồn SEP đã mở (Brown 4.4); mục SEP Popper trong Nguồn không chứa khẳng định này. Chỉ có lỗi mức nhe nên result là dat. Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey)."
+}

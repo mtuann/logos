@@ -1,0 +1,114 @@
+{
+  "unit": "doc/platon-bien-ho.md#hieu-lam-thuong-gap",
+  "hash": "sha256:cb93c1cbb74efa8cc91d961dcc3fe1be949b9a2008b5cc6b5b2ee1e27daf3267",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "\"Socrates nói: tôi chỉ biết một điều là tôi không biết gì.\" Câu gọn ấy không có trong Biện hộ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "(không tìm thấy câu tương đương trong toàn văn Jowett: các chỗ gần nhất là 'I neither know nor think that I know' và 'I know but little of the world below')",
+          "where": "Tra toàn văn Gutenberg 1656"
+        }
+      ]
+    },
+    {
+      "text": "Ở 21d ông chỉ nói mình không biết \"điều gì thật sự đẹp và tốt\" và không tưởng mình biết",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=21d",
+          "quote": "neither of us really knows anything fine and good",
+          "where": "Apology 21d (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "ông thừa nhận thợ thủ công biết nhiều điều (22d) và khẳng định mình biết làm điều bất chính là xấu (29b)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=22d",
+          "quote": "they did know what I did not",
+          "where": "Apology 22d (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29b",
+          "quote": "But I do know that it is evil and disgraceful to do wrong",
+          "where": "Apology 29b (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "\"Tòa ra điều kiện: im lặng thì được sống.\" Không có. Cả hai lần (29c, 37e), Socrates tự nêu giả định để trả lời trước",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=29c",
+          "quote": "if you should say to me in reply to this: “Socrates, this time we will not do as Anytus says",
+          "where": "Apology 29c (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=37e",
+          "quote": "Perhaps someone might say, “Socrates, can you not go away from us and live quietly, without talking?”",
+          "where": "Apology 37e (Fowler, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Tòa chỉ bỏ phiếu về tội, rồi chọn giữa hai mức án hai bên đề nghị",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "there are no indications in the Greek text (at 35d and 38b) that the two votes were taken",
+          "where": "SEP: có hai lần bỏ phiếu"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=36a",
+          "quote": "if only thirty votes had been cast the other way, I should have been acquitted",
+          "where": "Apology 36a (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1656",
+          "quote": "And so he proposes death as the penalty.",
+          "where": "Jowett, đầu phần nghị hình phạt"
+        }
+      ]
+    },
+    {
+      "text": "\"Socrates chắc chắn chết là điều tốt.\" Ông chỉ nói có lý do để hy vọng (40c), và kết bằng: chỉ thần biết (42a)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=40c",
+          "quote": "how good reason there is to hope that it is a good thing",
+          "where": "Apology 40c (Fowler, Perseus)"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=42a",
+          "quote": "which of us goes to the better lot, is known to none but God",
+          "where": "Apology 42a (Fowler, Perseus)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Đã tra toàn văn Jowett: không có câu 'tôi chỉ biết một điều là tôi không biết gì'. Gutenberg #1656 chặn bot nên đọc bản chép web.archive.org của pg1656.txt; số Stephanus từ Perseus."
+}

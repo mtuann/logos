@@ -1,0 +1,121 @@
+{
+  "unit": "doc/platon-hang-dong.md#nguon",
+  "hash": "sha256:02fdbb2712415522003a602038f062342c2d2c1524d164edbcb0609151c3f2a7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k05",
+  "claims": [
+    {
+      "text": "Platon, The Republic, bản dịch của Benjamin Jowett, Project Gutenberg #1497",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "Release date: October 1, 1998 [eBook #1497]",
+          "where": "Title: The Republic"
+        }
+      ]
+    },
+    {
+      "text": "Benjamin Jowett (in lần đầu 1871; phạm vi công cộng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28dialogues+of+plato%29+AND+creator%3Ajowett&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&fl%5B%5D=date&rows=15&output=json",
+          "quote": "\"title\":\"The Dialogues Of Plato Vol-i\",\"year\":1871",
+          "where": "Catalog Internet Archive: bộ Jowett 1871; cũng có '2nd ed., in Five Volumes' năm 1875, nên 1871 là bản in đầu. Bằng chứng gián tiếp (siêu dữ liệu thư mục)"
+        }
+      ]
+    },
+    {
+      "text": "Platon, Republic, bản dịch của Paul Shorey trên Perseus Digital Library",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=7:section=514a",
+          "quote": "Plato in Twelve Volumes, Vols. 5 & 6 translated by Paul Shorey",
+          "where": "Republic 514a (Shorey, Perseus)"
+        }
+      ]
+    },
+    {
+      "text": "Brown, Eric, \"Plato's Ethics and Politics in The Republic\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics-politics/",
+          "quote": "Copyright © 2017 by Eric Brown < eabrown @ wustl . edu >",
+          "where": "Plato’s Ethics and Politics in The Republic (SEP Fall 2026 Edition)"
+        }
+      ]
+    },
+    {
+      "text": "Rickless, Samuel, \"Plato's Parmenides\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-parmenides/",
+          "quote": "Copyright © 2026 by Samuel Rickless < srickless @ ucsd . edu >"
+        }
+      ]
+    },
+    {
+      "text": "Aristotle, Metaphysics I.9, bản dịch W. D. Ross, Internet Classics Archive (classics.mit.edu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "quote": "Metaphysics By Aristotle Written 350 B.C.E Translated by W. D. Ross",
+          "where": "Book I Part 9 có trong trang"
+        }
+      ]
+    },
+    {
+      "text": "Thornton, Stephen, \"Karl Popper\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "Copyright © 2026 by Stephen Thornton < sfthornton4 @ gmail . com >"
+        }
+      ]
+    },
+    {
+      "text": "Mục SEP \"Karl Popper\": về The Open Society and Its Enemies (1945)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "The Open Society and Its Enemies (1945), Popper’s most impassioned and influential social works"
+        }
+      ]
+    },
+    {
+      "text": "Platon, Republic... Oxford, 1871",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28dialogues+of+plato%29+AND+creator%3Ajowett&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&fl%5B%5D=date&rows=15&output=json",
+          "quote": "\"title\":\"The Dialogues Of Plato Vol-iii\",\"year\":1871"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả sáu URL mở được (Gutenberg qua bản chép web.archive.org); tác giả, tên bài khớp. Ghi chú nhe (không tính lỗi): nguồn chính cho khẳng định Popper 'chống dân chủ' nên là SEP Brown 4.4, xem unit phan-bac. Gutenberg #1497 chặn bot nên đọc bản chép web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt; số Stephanus từ Perseus (bản dịch Shorey)."
+}

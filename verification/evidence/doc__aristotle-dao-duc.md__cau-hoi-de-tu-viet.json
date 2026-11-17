@@ -1,0 +1,63 @@
+{
+  "unit": "doc/aristotle-dao-duc.md#cau-hoi-de-tu-viet",
+  "hash": "sha256:3650c9c7b114cd9f993691e6102cbd8eae0d4dc362770b2f0f217ea8b6fefb5e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k06",
+  "claims": [
+    {
+      "text": "Câu 1: chọn một đức tính (kiên nhẫn, trung thực, dũng cảm); \"bài tập thói quen\" và hai thái cực cần tránh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts",
+          "where": "II.1"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "it is a mean between two vices, that which depends on excess and that which depends on defect",
+          "where": "II.6"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: Aristotle nói hạnh phúc là hoạt động cả đời, không phải khoảnh khắc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day",
+          "where": "I.7"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: Kant nói thói quen làm mất giá trị đạo đức; Aristotle nói thói quen là con đường dẫn tới đức hạnh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://korpora.org/Kant/aa07/149.html",
+          "quote": "Sie benimmt den guten Handlungen eben dadurch ihren moralischen Werth, weil sie der Freiheit des Gemüths Abbruch thut",
+          "where": "Ak 7:149"
+        },
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+          "quote": "moral virtue comes about as a result of habit",
+          "where": "II.1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ba câu hỏi bám đúng văn bản, không kết luận hộ người đọc (câu 3 yêu cầu lập luận cho cả hai bên)."
+}
