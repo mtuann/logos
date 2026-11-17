@@ -1,8 +1,8 @@
 {
   "unit": "doc/manh-tu-tinh-thien.md#phan-bac",
-  "hash": "sha256:ea7d9990c75369d81a11901ff8bfb2db47ceab724810f81489e1e59517b8556f",
+  "hash": "sha256:628122c45c3662132e43271830057a58d0bba5b81dae77b96f3cad14b31ae8ca",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01 + agent-kiem-5.4-r08",
   "claims": [
     {
       "text": "Cáo Tử: tính trung tính, nước khơi đông chảy đông, khơi tây chảy tây (6A2)",
@@ -122,7 +122,8 @@
           "quote": "The origin of human morality: An evolutionary perspective on Mencius’s notion of sympathy",
           "where": "Ahn, Asian Philosophy 2022: văn liệu có đọc Mạnh Tử từ sinh học tiến hóa nhưng theo hướng đồng thuận (theo tóm tắt ở relbib), không tìm thấy nguồn nêu đúng phản bác \"chỉ là bản năng\""
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -133,5 +134,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Phản bác tiến hóa luận không gắn với tác giả cụ thể nên không có nguồn văn liệu riêng; lập luận ở \"Cách đáp lại\" là suy luận của bài, không bị trình bày người rơm. | Lượt 2: mở cong-cu/nguy-bien/ trên site (mục genetic có thật). Phản bác \"tâm lý học tiến hóa\" không gắn tác giả: SEP Mencius không nêu, tìm kiếm văn liệu chỉ thấy Ahn 2022 đọc Mạnh Tử theo hướng tiến hóa đồng thuận → sai nhẹ, fix viết lại thành câu hỏi."
+  "notes": "Phản bác tiến hóa luận không gắn với tác giả cụ thể nên không có nguồn văn liệu riêng; lập luận ở \"Cách đáp lại\" là suy luận của bài, không bị trình bày người rơm. | Lượt 2: mở cong-cu/nguy-bien/ trên site (mục genetic có thật). Phản bác \"tâm lý học tiến hóa\" không gắn tác giả: SEP Mencius không nêu, tìm kiếm văn liệu chỉ thấy Ahn 2022 đọc Mạnh Tử theo hướng tiến hóa đồng thuận → sai nhẹ, fix viết lại thành câu hỏi.\nKiểm lại (agent-kiem-5.4-r08): tiêu đề hiện là \"Một câu hỏi từ phía tiến hóa: phải chăng thương trẻ chỉ là bản năng?\", phần Cách đáp lại giữ nguyên, không còn gán phản bác cho cả ngành → đúng nguyên văn fix, fixed."
 }

@@ -69,7 +69,7 @@ Trong một chú thích ở chương XVII cuốn *Dẫn nhập…*, Bentham hỏ
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md)
 
-**Các bài khác nhắc tới Jeremy Bentham:** [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md).
+**Các bài khác nhắc tới Jeremy Bentham:** [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md), [Hướng dẫn đọc Mặc Tử: kiêm ái](../doc/mac-tu-kiem-ai.md).
 
 ## Nguồn
 

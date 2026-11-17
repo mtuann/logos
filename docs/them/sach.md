@@ -17174,7 +17174,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
     "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos)*
 
-Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của Platon". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
+Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của [Platon](../triet-gia/platon.md)". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
 
 *Thu nhỏ vấn đề có hai mặt: bớt khổ, nhưng cũng bớt quan tâm. Đâu là ranh giới giữa "nhìn xa để bớt chấp" và "nhìn xa để mặc kệ"?*
 
@@ -17505,7 +17505,7 @@ Soi từng bước:
 
 - **"Kiêm ái là yêu người dưng y như cha mẹ, bỏ mặc gia đình."** Chữ "ái" ở đây gần với *quan tâm* hơn là tình cảm nồng nhiệt. Mặc gia đòi quan tâm đạo đức tới mọi người, không đòi đối xử với mọi người như nhau; hiếu và từ vẫn là điều tốt trong hệ thống của họ (Fraser, SEP).
 - **"Mặc Tử phản đối mọi chiến tranh."** Ông phản đối chiến tranh *xâm lược*. Hai mươi mốt thiên cuối sách bàn toàn về kỹ thuật giữ thành khi bị vây (Fraser, SEP).
-- **"Mặc Tử là Bentham thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
+- **"Mặc Tử là [Bentham](../triet-gia/bentham.md) thời cổ."** Cả hai đều đo đạo đức bằng hệ quả. Nhưng "lợi" của Mặc Tử là của cải, dân số, trật tự và các đức tính trong quan hệ gia đình, không phải tổng khoái lạc; ông còn dựa vào ý trời.
 
 ## Câu hỏi để tự viết
 

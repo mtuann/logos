@@ -79,7 +79,7 @@ Câu thứ hai trả lời trường hợp ta khổ vì *chưa làm* một đi�
 
     "Hãy nhìn xuống từ trên cao: vô số đàn người và vô số nghi lễ của họ, những chuyến đi biển muôn hình muôn vẻ qua bão tố và lặng yên, những khác biệt giữa những người được sinh ra, sống cùng nhau, rồi chết." *(bản dịch của Logos)*
 
-Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của Platon". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
+Mục ấy kết thúc bằng nhận xét: bao người không biết tên ta, bao người sẽ sớm quên, và danh tiếng sau khi chết chẳng có giá trị gì. Ở VII.48, Marcus còn ghi rằng ý "nhìn sự việc dưới đất như từ một chỗ cao" là "một câu hay của [Platon](../triet-gia/platon.md)". Bài tập này không để ta thấy mình vô nghĩa, mà để việc đang làm ta khổ thu lại đúng kích thước của nó.
 
 *Thu nhỏ vấn đề có hai mặt: bớt khổ, nhưng cũng bớt quan tâm. Đâu là ranh giới giữa "nhìn xa để bớt chấp" và "nhìn xa để mặc kệ"?*
 

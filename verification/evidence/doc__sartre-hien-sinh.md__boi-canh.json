@@ -2,7 +2,7 @@
   "unit": "doc/sartre-hien-sinh.md#boi-canh",
   "hash": "sha256:550c929c97628a0d3f55b9a0fc4bef7a490aaa97e188cd4004d68f5cc9f683af",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05 + agent-kiem-5.4-r08",
   "claims": [
     {
       "text": "Bản thân Sartre bị quân Đức bắt năm 1940, ở trại tù gần một năm",
@@ -33,9 +33,19 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris",
-          "quote": "Paris had been occupied by Nazi Germany since the signing of the Armistice of 22 June 1940",
-          "where": "đoạn mở đầu; quân Đức ở Paris đầu hàng 25/8/1944, tức khoảng bốn năm; bài nói tháng 10/1945 là hơn một năm sau giải phóng (\"vừa qua\" chấp nhận được)"
+          "url": "https://encyclopedia.ushmm.org/content/en/film/german-invasion-of-france",
+          "quote": "German forces entered Paris on June 14, 1940.",
+          "where": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: mốc bắt đầu chiếm đóng"
+        },
+        {
+          "url": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/seconde-guerre-mondiale/operations-militaires/1944-23",
+          "quote": "Vers 16 h, le général allemand y signa l'acte de capitulation.",
+          "where": "Ministère des Armées (DPMA), \"Août 1944. La libération de Paris\": ngày 25/8 (\"Le 25, dès l'aube, toute la 2e DB entra dans Paris\"), mốc kết thúc chiếm đóng"
+        },
+        {
+          "url": "https://origins.osu.edu/milestones/the-liberation-of-paris-wwii",
+          "quote": "On August 25, 1944, Paris was liberated after more than four years of Nazi occupation.",
+          "where": "Lauren Henry, Origins (Ohio State University), mục Milestones: độ dài \"hơn bốn năm\"; bài nói 10/1945 là hơn một năm sau giải phóng (\"vừa qua\" chấp nhận được)"
         },
         {
           "url": "https://www.sens-public.org/articles/378/",
@@ -64,5 +74,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "SEP fall2026 (phần đã đọc, ~100.000 ký tự đầu) không nhắc nhóm kháng chiến (Socialisme et Liberté); không mở được nguồn nào ghi 'bốn năm chiếm đóng' trong phiên này. Hai claim này chưa kiểm được; không đoán.\nLượt 2: Nhóm kháng chiến ngắn: IEP \"briefly involved in a Resistance group\" → dung. Bốn năm chiếm đóng: Wikipedia Liberation of Paris (6/1940–25/8/1944) → dung. Britannica chặn truy cập tự động nên không dùng."
+  "notes": "SEP fall2026 (phần đã đọc, ~100.000 ký tự đầu) không nhắc nhóm kháng chiến (Socialisme et Liberté); không mở được nguồn nào ghi 'bốn năm chiếm đóng' trong phiên này. Hai claim này chưa kiểm được; không đoán.\nLượt 2: Nhóm kháng chiến ngắn: IEP \"briefly involved in a Resistance group\" → dung. Bốn năm chiếm đóng: Wikipedia Liberation of Paris (6/1940–25/8/1944) → dung. Britannica chặn truy cập tự động nên không dùng.\nKiểm lại (agent-kiem-5.4-r08): thay nguồn Wikipedia của claim \"bốn năm bị chiếm đóng\" bằng USHMM (Đức vào Paris 14/6/1940), Ministère des Armées (đầu hàng ngày 25/8/1944) và Origins/OSU (\"more than four years of Nazi occupation\"). Trang bảo tàng Musée de la Libération de Paris trả 503 nên không dùng. Bài không đổi, mã băm giữ nguyên."
 }
