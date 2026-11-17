@@ -43,6 +43,8 @@ RULES = {
 
 def norm_heading(h: str) -> str:
     h = re.sub(r"\s*\{[^}]*\}\s*$", "", h).strip()
+    # Đợt 5.4: phần ghi chú trong ngoặc ở cuối không đổi loại mục ("Đọc từng đoạn (diễn ý)").
+    h = re.sub(r"\s*\([^)]*\)$", "", h).strip()
     return re.sub(r"[?.:!]+$", "", h).strip().lower()
 
 
