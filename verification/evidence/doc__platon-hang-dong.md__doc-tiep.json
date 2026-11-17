@@ -1,6 +1,6 @@
 {
   "unit": "doc/platon-hang-dong.md#doc-tiep",
-  "hash": "sha256:30e8fa5bb9275e6a7f001f04652124ae4f4e5b1ace30add960adbef5a0f83ca1",
+  "hash": "sha256:bb21dc101e623e74ae1b4ee2363842994ce7fc41c5b6aff23d10da377709f6c3",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05 + agent-kiem-5.4-r09",
   "claims": [
@@ -77,7 +77,8 @@
           "quote": "Ngôn từ có định hình tư duy?",
           "where": "H1; nhãn thiếu chữ \"có\""
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — bóng trên tường có tính là tri thức không?",
@@ -114,5 +115,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị).\nLượt 2: Đã mở lại các URL mtuann.github.io/logos/... ngày 2026-11-17 (curl): <title> trùng từng chữ với quote đã ghi; trang cai-chet có mục Epicurus và Nagel, trang pho-quat có mục Aristotle → giữ dung. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị).\nLượt 2: Đã mở lại các URL mtuann.github.io/logos/... ngày 2026-11-17 (curl): <title> trùng từng chữ với quote đã ghi; trang cai-chet có mục Epicurus và Nagel, trang pho-quat có mục Aristotle → giữ dung. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (1 claim mới đặt fixed: true); cập nhật mã băm."
 }

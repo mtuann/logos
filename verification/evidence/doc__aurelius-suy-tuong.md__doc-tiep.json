@@ -1,6 +1,6 @@
 {
  "unit": "doc/aurelius-suy-tuong.md#doc-tiep",
- "hash": "sha256:ac70f6a7898cb4d35566ffc0671c0afe93f33d15d797a2d2d441246bfb0a0f0a",
+ "hash": "sha256:16edcfe893c8873471f2d2a7973bb48853a998331521180549ae685affd6c7bf",
  "checked_on": "2026-11-17",
  "checker": "agent-kiem-5.4-k07 + agent-kiem-5.4-r09",
  "claims": [
@@ -69,7 +69,8 @@
      "quote": "Heidegger: ý thức về cái chết làm cuộc sống chân thực",
      "where": "lập trường 3"
     }
-   ]
+   ],
+   "fixed": true
   },
   {
    "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — cái nhìn từ trên cao có làm đời người vô nghĩa không?",
@@ -104,5 +105,5 @@
   "thuat-ngu": null
  },
  "result": "dat",
- "notes": "Chỉ kiểm quan hệ nội dung với văn bản gốc và sự tồn tại của file đích bằng ls; không kiểm nội dung các trang đích (ngoài phạm vi). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+ "notes": "Chỉ kiểm quan hệ nội dung với văn bản gốc và sự tồn tại của file đích bằng ls; không kiểm nội dung các trang đích (ngoài phạm vi). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (1 claim mới đặt fixed: true); cập nhật mã băm. Dòng cai-chet khớp fix, chỉ thêm link [Heidegger](../triet-gia/heidegger.md) (file đích có)."
 }

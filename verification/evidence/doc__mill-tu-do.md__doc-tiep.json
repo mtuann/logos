@@ -1,6 +1,6 @@
 {
   "unit": "doc/mill-tu-do.md#doc-tiep",
-  "hash": "sha256:53be892c81baa14f9ebbc0f1d953baddcbf466e328a83ea15667c1a5912d2d37",
+  "hash": "sha256:8155c6c72669e4fafd151f5126e59ec5b557a26d7d30f336df2c2cb179f2bace",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.4-k09 + agent-kiem-5.4-r07 + agent-kiem-5.4-r09",
   "claims": [
@@ -87,7 +87,8 @@
           "quote": "Bạn thức dậy, điện thoại đã chọn sẵn tin tức cho bạn đọc.",
           "where": "Thí nghiệm tư duy; trang đích bàn công nghệ trung lập/định hình con người/siêu nhân loại; tìm \"kiểm duyệt\", \"chợ ý tưởng\", \"gác cổng\", \"ngôn luận\": 0 kết quả"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md) — nguyên tắc gây hại và các ranh giới ngày nay.",
@@ -124,6 +125,6 @@
     "trung-lap": true,
     "thuat-ngu": null
   },
-  "result": "sua",
-  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. Mô tả chủ đề các bài liên kết thuộc đơn vị khác nên không kiểm sâu. Lượt 2: mở 6 trang đích trên site deploy (đều 200), ghi <title>. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+  "result": "dat",
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. Mô tả chủ đề các bài liên kết thuộc đơn vị khác nên không kiểm sâu. Lượt 2: mở 6 trang đích trên site deploy (đều 200), ghi <title>. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 1 sai (vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (1 claim mới đặt fixed: true); cập nhật mã băm."
 }

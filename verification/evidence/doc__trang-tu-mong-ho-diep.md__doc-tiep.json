@@ -1,6 +1,6 @@
 {
   "unit": "doc/trang-tu-mong-ho-diep.md#doc-tiep",
-  "hash": "sha256:890c17d59eb0afea851c3f72eccc2f35381c69cbeb8eca7d56f5b38ac92a5ebc",
+  "hash": "sha256:0b38a42724760ec76d685b5af61b785991df4fe3a7b18cc5f7974a9ac020fc47",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r09",
   "claims": [
@@ -40,7 +40,8 @@
           "quote": "có lẽ được ghi lại từ nửa sau thế kỷ 5 TCN, hợp nhất dần trong thế kỷ 4, và khá ổn định vào giữa thế kỷ 3 TCN",
           "where": "mục Bối cảnh; cùng lỗi mà kiểm mẫu đã ghi vua ở doc/dao-duc-kinh.md#doc-tiep (đã sửa ở đó)"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md) — giấc mơ của Descartes, phiên bản phương Tây của cùng câu hỏi",
@@ -77,7 +78,8 @@
           "quote": "Thân xác và tâm trí: vấn đề lâu đời nhất của triết học",
           "where": "H1; nhãn lệch tên trang; trang đích bàn nhị nguyên, đồng nhất, Mary, zombie, không bàn \"cái tôi\" (có trang riêng cau-hoi/cai-toi)"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -87,6 +89,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Các file đích đã kiểm tồn tại trong repo. Mô tả \"cái tôi và ý thức từ góc nhìn triết học tâm trí\" là gợi ý đọc, không phải dữ kiện. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (vua, nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 \"Lão Tử, người đi trước của Trang Tử\" (dung) được đổi thành sai vua: SEP Zhuangzi (fall2026) nói giới học thuật hiện nay phần lớn đã bỏ cách đọc Trang Tử là môn đồ Lão Tử và văn bản Lão Tử có thể muộn hơn; cùng lỗi kiểm mẫu đã bắt ở dao-duc-kinh#doc-tiep."
+  "result": "dat",
+  "notes": "Mục chỉ gồm liên kết nội bộ có mô tả ngắn. Các file đích đã kiểm tồn tại trong repo. Mô tả \"cái tôi và ý thức từ góc nhìn triết học tâm trí\" là gợi ý đọc, không phải dữ kiện. | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (vua, nhe). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. Claim lượt 1 \"Lão Tử, người đi trước của Trang Tử\" (dung) được đổi thành sai vua: SEP Zhuangzi (fall2026) nói giới học thuật hiện nay phần lớn đã bỏ cách đọc Trang Tử là môn đồ Lão Tử và văn bản Lão Tử có thể muộn hơn; cùng lỗi kiểm mẫu đã bắt ở dao-duc-kinh#doc-tiep. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (2 claim mới đặt fixed: true); cập nhật mã băm."
 }

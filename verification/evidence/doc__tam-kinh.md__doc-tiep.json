@@ -1,6 +1,6 @@
 {
  "unit": "doc/tam-kinh.md#doc-tiep",
- "hash": "sha256:0d4c2b9e8028606264e7e9148f94931e2b4bb0308e8bc56465ea3f27d2a84df9",
+ "hash": "sha256:bebc49bd8b09584355ced68b26f5baabd279870c3ddfd9401d48f75205af1b78",
  "checked_on": "2026-11-17",
  "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03 + agent-kiem-5.4-r09",
  "claims": [
@@ -81,7 +81,8 @@
      "quote": "\"đối cảnh vô tâm\" là tâm không dính mắc chứ không phải vô cảm",
      "where": "trang đích bàn xuất thế/nhập thế và tính Việt của Trúc Lâm; tìm \"Bát nhã\", \"Kim Cương\", \"tánh không\": 0 kết quả"
     }
-   ]
+   ],
+   "fixed": true
   }
  ],
  "checklist": {
@@ -91,6 +92,6 @@
   "trung-lap": null,
   "thuat-ngu": null
  },
- "result": "sua",
- "notes": "Wikisource 道德經 chương 11 trả 404 theo URL thử; chưa đối chiếu. Chưa đọc nội dung các trang đích.\nLượt 2: mở các trang đích trên site đã deploy; chương 11 Đạo đức kinh đối chiếu ở zh.wikisource 道德經 (王弼本). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+ "result": "dat",
+ "notes": "Wikisource 道德經 chương 11 trả 404 theo URL thử; chưa đối chiếu. Chưa đọc nội dung các trang đích.\nLượt 2: mở các trang đích trên site đã deploy; chương 11 Đạo đức kinh đối chiếu ở zh.wikisource 道德經 (王弼本). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 3 claim theo từng dòng, trong đó 1 sai (vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (1 claim mới đặt fixed: true); cập nhật mã băm."
 }

@@ -1,6 +1,6 @@
 {
   "unit": "doc/epictetus-cam-nang.md#doc-tiep",
-  "hash": "sha256:d8dd5502c5517c86f84c18e09daa78572042c9239fc0e9ea69ad133c6bc7ab99",
+  "hash": "sha256:eee46ea5cfcc4c546ff6d3ef8a5491cb1e311b1bfdb89a2d2f3207bcb47d5899",
   "checked_on": "2026-11-17",
   "checker": "agent-kiem-5.4-k06 + agent-kiem-5.4-r09",
   "claims": [
@@ -57,7 +57,8 @@
           "quote": "Mọi thứ đã được viết sẵn?",
           "where": "H1 và <title> của trang đích"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — một câu trả lời Khắc kỷ cho câu hỏi về ý nghĩa",
@@ -71,7 +72,8 @@
           "quote": "Cái phi lý: nghiêm túc trong một vũ trụ dửng dưng",
           "where": "bốn lập trường của trang đích: cái phi lý, dấn thân vào điều đáng giá, chủ quan luận, ý nghĩa từ điều vượt lên trên; tìm \"Khắc kỷ\", \"Stoic\", \"Epictetus\", \"Aurelius\": 0 kết quả"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "[Đọc *Suy tưởng* của Marcus Aurelius](aurelius-suy-tuong.md) — người học trò qua sách của Epictetus, viết cho chính mình",
@@ -108,6 +110,6 @@
     "trung-lap": null,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Bốn link nội bộ (cau-hoi/dinh-menh, cau-hoi/y-nghia-song, doc/aurelius-suy-tuong, doc/platon-bien-ho) không kiểm nội dung trang đích (đơn vị khác). Chỉ kiểm câu mô tả §53. Lưu ý: văn bản Hy Lạp đặt câu \"Anytus và Meletus...\" sau câu \"Crito\": Epictetus trích lại lời Socrates (Crito/Apology). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (nhe, vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y."
+  "result": "dat",
+  "notes": "Bốn link nội bộ (cau-hoi/dinh-menh, cau-hoi/y-nghia-song, doc/aurelius-suy-tuong, doc/platon-bien-ho) không kiểm nội dung trang đích (đơn vị khác). Chỉ kiểm câu mô tả §53. Lưu ý: văn bản Hy Lạp đặt câu \"Anytus và Meletus...\" sau câu \"Crito\": Epictetus trích lại lời Socrates (Crito/Apology). | Rà Đọc tiếp (agent-kiem-5.4-r09, 17/11/2026): mở mọi trang đích trên mtuann.github.io/logos (HTTP 200), đối chiếu nhãn với H1/<title> và mô tả với nội dung trang; thêm 4 claim theo từng dòng, trong đó 2 sai (nhe, vua). Mô tả kiểu 'X của bài này đặt cạnh Y' được chấp nhận khi trang đích có Y. | Kiểm lại (agent-kiem-5.4-r09, 17/11/2026, sau merge 5.5): mở bài hiện tại; mọi claim sai đã được sửa đúng ý fix (2 claim mới đặt fixed: true); cập nhật mã băm."
 }
