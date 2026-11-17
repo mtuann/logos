@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/hy-lap-co-dai.md#cac-nha-tien-socrates-the-gioi-lam-bang-gi",
-  "hash": "sha256:063b6249640b6964a9602a77763fbaca3049a7c50b195e26360aeffcf14c2f06",
+  "hash": "sha256:ad61e98d1b0b8ebc825590cdc9325bfc26426b30c017deec0659bfdc0a0ecdb7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p01",
+  "checker": "agent-kiem-5.6-p01 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Nhóm triết gia đầu tiên được gọi là các nhà tiền Socrates (Presocratics) — họ sống trước Socrates và chủ yếu hỏi về tự nhiên.",
@@ -21,7 +21,8 @@
           "quote": "Democritus was born about 460 BCE (thus, he was a younger contemporary of Socrates)",
           "where": "1. Life and Works"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Thales xứ Miletus (khoảng 620–546 TCN)",
@@ -103,7 +104,8 @@
           "quote": "Parmenides of Elea (Late 6th cn.–Mid 5th cn. B.C.E.)",
           "where": "đầu mục"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "biến đổi chỉ là ảo giác của giác quan; thực tại (Hữu, Being) là một, bất biến, vĩnh cửu",
@@ -221,6 +223,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Hai lỗi mức vừa: định nghĩa 'tiền Socrates' (sống trước Socrates) mâu thuẫn với chính Democritus sinh k. 460 TCN, trẻ hơn Socrates; năm mất 450 TCN của Parmenides không có trong nguồn (IEP: không được ghi nhận)."
+  "result": "dat",
+  "notes": "Hai lỗi mức vừa: định nghĩa 'tiền Socrates' (sống trước Socrates) mâu thuẫn với chính Democritus sinh k. 460 TCN, trẻ hơn Socrates; năm mất 450 TCN của Parmenides không có trong nguồn (IEP: không được ghi nhận). Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 0 (tiền Socrates: đi trước hoặc cùng thời, không chịu ảnh hưởng Socrates) và claim 6 (Parmenides sinh khoảng 515 TCN, hoạt động đầu và giữa thế kỷ 5 TCN) sửa đúng fix, khớp SEP presocratics/parmenides → fixed. Không có khẳng định mới."
 }

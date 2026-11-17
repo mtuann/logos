@@ -14,7 +14,7 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 
 | Mảng | Số mục | Đã kiểm | Đã đóng băng | Tỉ lệ đóng băng |
 |---|---:|---:|---:|---:|
-| Bắt đầu | 6 | 0 | 0 | 0% |
+| Bắt đầu | 6 | 6 | 0 | 0% |
 | Công cụ tư duy | 173 | 0 | 173 | 100% |
 | Tri thức và chân lý | 60 | 0 | 0 | 0% |
 | Tâm trí, AI và cái tôi | 40 | 0 | 0 | 0% |
@@ -27,9 +27,9 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Siêu hình học | 74 | 0 | 0 | 0% |
 | Ý nghĩa cuộc sống | 38 | 0 | 0 | 0% |
 | Tư tưởng Việt Nam | 30 | 0 | 0 | 0% |
-| Lịch sử | 68 | 0 | 0 | 0% |
+| Lịch sử | 68 | 68 | 0 | 0% |
 | Đọc văn bản | 190 | 0 | 190 | 100% |
-| **Tổng** | **989** | **0** | **363** | **37%** |
+| **Tổng** | **989** | **74** | **363** | **37%** |
 
 ## Dữ kiện {#du-kien}
 

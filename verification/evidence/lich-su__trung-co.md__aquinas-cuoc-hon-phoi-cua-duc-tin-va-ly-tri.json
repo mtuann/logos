@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/trung-co.md#aquinas-cuoc-hon-phoi-cua-duc-tin-va-ly-tri",
-  "hash": "sha256:e42e6bea74fb93928ca38af8f51a5da9933504816939118ddfabafd70f6c9658",
+  "hash": "sha256:b3be6025aeb6104f340198f2fc9fbfb856fab4ac9acdb8c94e2684e2fa3859a5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p02",
+  "checker": "agent-kiem-5.6-p02 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Thomas Aquinas (khoảng 1225–1274)",
@@ -146,7 +146,8 @@
           "quote": "The fifth way is taken from the governance of the world.",
           "where": "ST I q.2 a.3"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Aquinas trở thành triết gia chính thức của Giáo hội Công giáo",
@@ -170,7 +171,8 @@
           "quote": "many of Aquinas’s specific views—particularly in philosophy—were extremely controversial",
           "where": "9. Influence"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Cuộc tranh luận \"đức tin vs lý trí\" mà ông dàn xếp vẫn là khuôn mẫu cho mọi cuộc đối thoại tôn giáo–khoa học sau này.",
@@ -184,7 +186,8 @@
           "quote": "provoked countless elaborations and disputations among later medieval and modern philosophers",
           "where": "mở đầu"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "luật tự nhiên (natural law) của Aquinas — ý tưởng rằng lý trí con người có thể nhận ra những nguyên tắc đạo đức phổ quát ... mà không cần mặc khải",
@@ -220,7 +223,8 @@
           "quote": "this wider perspective does not lead Aquinas to develop a theory of international community; this had to be developed by his sixteenth-century followers",
           "where": "mục về cộng đồng chính trị"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -230,6 +234,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba lỗi vừa là khái quát quá mức không có nguồn (\"triết gia chính thức\", \"khuôn mẫu cho mọi cuộc đối thoại\", \"nền tảng của quyền con người và luật quốc tế\"); SEP (Pasnau; Finnis) cho bức tranh hẹp hơn. Một lỗi nhẹ: câu năm con đường thiếu vị ngữ (\"trong đó lập luận… và lập luận…\"). \"Một di sản khác ít được nhắc\" là nhận xét văn phong, không kiểm."
+  "result": "dat",
+  "notes": "Ba lỗi vừa là khái quát quá mức không có nguồn (\"triết gia chính thức\", \"khuôn mẫu cho mọi cuộc đối thoại\", \"nền tảng của quyền con người và luật quốc tế\"); SEP (Pasnau; Finnis) cho bức tranh hẹp hơn. Một lỗi nhẹ: câu năm con đường thiếu vị ngữ (\"trong đó lập luận… và lập luận…\"). \"Một di sản khác ít được nhắc\" là nhận xét văn phong, không kiểm. Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 9 (\"trong đó có\"), 11, 13 sửa đúng fix → fixed. claim 10: chữ mới giữ phần phong thánh 1323 và Leo XIII 1879 (khớp SEP aquinas), bỏ vế \"đưa ông thành tác giả chuẩn mực…\" của fix — không thêm khẳng định nào ngoài nguồn → fixed."
 }

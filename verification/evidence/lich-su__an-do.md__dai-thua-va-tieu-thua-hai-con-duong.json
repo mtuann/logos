@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/an-do.md#dai-thua-va-tieu-thua-hai-con-duong",
-  "hash": "sha256:79bd6d9c297cf4d585cd244735a179a6b7a7ef6848196e76d2c51196aee1ee69",
+  "hash": "sha256:bdf1cc9b70815f866a17ef87e331fa0e49a34fdae929161e6c955070bbb060a9",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p06",
+  "checker": "agent-kiem-5.6-p06 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "Sau khi Đức Phật nhập diệt (khoảng thế kỷ 5–4 TCN)",
@@ -86,7 +86,8 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/abhidharma/",
           "quote": "by the time the Mahāyāna doctrines arose, roughly in the first century BCE"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "thay vì chỉ cầu giải thoát cho mình, hành giả phát nguyện thành Bồ tát (bodhisattva), hoãn nhập niết bàn để cứu độ tất cả chúng sinh",
@@ -105,7 +106,8 @@
           "quote": "A practitioner who is on the way to becoming a Buddha is known in Sanskrit as a bodhisattva",
           "where": "mục 2"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Triết học Trung quán của Nagarjuna, cùng với Duy thức (Yogacara) ra đời sau đó, là nền tảng trí tuệ của Đại thừa.",
@@ -158,12 +160,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": null,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Mốc Đại thừa: SEP (Abhidharma) theo truyền thống ghi khoảng thế kỷ 1 TCN; bài viết \"thế kỷ 1\" (đọc là sau CN). Chữ \"hoãn nhập niết bàn\": không nguồn nào đã mở nói vậy; SEP nói nguyện Bồ tát là nguyện thành Phật. Câu \"tăng đoàn dần chia thành hai hướng lớn\" đơn giản hóa (SEP Ethics: có học giả cho rằng Đại thừa khởi lên ngay trong khuôn khổ Phật giáo sơ kỳ), chấp nhận cho bài nhập môn. Câu \"điều này giải thích nhiều nét trong văn hóa tâm linh Việt\" là nhận xét chung, không kiểm."
+  "result": "dat",
+  "notes": "Mốc Đại thừa: SEP (Abhidharma) theo truyền thống ghi khoảng thế kỷ 1 TCN; bài viết \"thế kỷ 1\" (đọc là sau CN). Chữ \"hoãn nhập niết bàn\": không nguồn nào đã mở nói vậy; SEP nói nguyện Bồ tát là nguyện thành Phật. Câu \"tăng đoàn dần chia thành hai hướng lớn\" đơn giản hóa (SEP Ethics: có học giả cho rằng Đại thừa khởi lên ngay trong khuôn khổ Phật giáo sơ kỳ), chấp nhận cho bài nhập môn. Câu \"điều này giải thích nhiều nét trong văn hóa tâm linh Việt\" là nhận xét chung, không kiểm. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c6 (\"thế kỷ 1 TCN\", SEP Abhidharma) và c7 (nguyện thành Phật để cứu độ chúng sinh; người đi trên đường ấy là Bồ tát — SEP Ethics in Indian Buddhism) đã sửa đúng fix."
 }

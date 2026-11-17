@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/trung-co.md#cac-triet-gia-hoi-giao-nhung-nguoi-giu-aristotle",
-  "hash": "sha256:4486048dc1c96841e825d84e9ac574d9af162a22209b737b20e09a65169bd57f",
+  "hash": "sha256:b266e0e1a8e5c37d9a750590973f91ad35b932e2e423f2d3ebcd5f707ea64765",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p02",
+  "checker": "agent-kiem-5.6-p02 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "thế giới Hồi giáo từ thế kỷ 8 đã dịch ồ ạt các tác phẩm Hy Lạp sang tiếng Ả Rập",
@@ -239,8 +239,19 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
           "quote": "Al-Ghazālī’s response to falsafa was complex and allowed him, among other things, to adopt many of its teachings.",
           "where": "3."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "that God’s knowledge includes only classes of beings (universals) and does not extend to individual beings and their circumstances (particulars)",
+          "where": "mục 3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "that after death the souls of humans will never again return into bodies",
+          "where": "mục 3"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Chính tác phẩm Sự sụp đổ của sự sụp đổ (Tahafut al-Tahafut) của Averroes là lời đáp trả al-Ghazali.",
@@ -266,7 +277,8 @@
           "quote": "Al-Ghazālī’s approach to resolving apparent contradictions between reason and revelation was accepted by almost all later Muslim theologians and had, via the works of Averroes (Ibn Rushd, 1126–98) and Jewish authors, a significant influence on Latin medieval thinking.",
           "where": "mở đầu"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -276,6 +288,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Hai lỗi mức vừa: (1) chân dung al-Ghazali theo lối đọc cũ qua Averroes mà SEP (Griffel) nói rõ là hiểu lầm: Tahafut là sách triết học phê phán tính chứng minh của 20 luận điểm, kết án 3 luận điểm của Avicenna, đồng thời ông tiếp thu nhiều học thuyết Aristotle; nhãn \"thần học bảo thủ\" cũng theo lối đọc ấy. (2) Khái quát \"khuôn mẫu cho mọi cuộc xung đột đức tin–lý trí về sau\" không có nguồn. \"Hiểu sai một trong hai bên\" (Averroes): SEP nói cụ thể là nghĩa bề mặt của mặc khải phải được diễn giải; câu của bài chung chung nhưng không sai."
+  "result": "dat",
+  "notes": "Hai lỗi mức vừa: (1) chân dung al-Ghazali theo lối đọc cũ qua Averroes mà SEP (Griffel) nói rõ là hiểu lầm: Tahafut là sách triết học phê phán tính chứng minh của 20 luận điểm, kết án 3 luận điểm của Avicenna, đồng thời ông tiếp thu nhiều học thuyết Aristotle; nhãn \"thần học bảo thủ\" cũng theo lối đọc ấy. (2) Khái quát \"khuôn mẫu cho mọi cuộc xung đột đức tin–lý trí về sau\" không có nguồn. \"Hiểu sai một trong hai bên\" (Averroes): SEP nói cụ thể là nghĩa bề mặt của mặc khải phải được diễn giải; câu của bài chung chung nhưng không sai. Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 17 sửa đúng nguyên văn fix; đã mở lại SEP al-ghazali, thêm quote cho hai luận điểm (2), (3) trong ba luận điểm → fixed. claim 19: chữ mới (\"Cách al-Ghazali giải quyết những chỗ có vẻ mâu thuẫn giữa lý trí và mặc khải, qua các tác phẩm của Averroes và các tác giả Do Thái, đã ảnh hưởng đáng kể tới tư tưởng Latinh thời trung cổ.\") khác lời fix nhưng sát nguồn SEP hơn (gần như dịch thẳng câu SEP đã ghi) → fixed."
 }

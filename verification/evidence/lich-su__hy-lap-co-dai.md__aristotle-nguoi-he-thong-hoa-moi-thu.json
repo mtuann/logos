@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/hy-lap-co-dai.md#aristotle-nguoi-he-thong-hoa-moi-thu",
-  "hash": "sha256:5c60b355468561d2b54c4517c5354855ddb4cf6d06d237afee2eaa70052f566a",
+  "hash": "sha256:7a91caff98799259615f48ed17a5708d6f24d4ee1b3bdc0f9ff6f72a95fbf3fe",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p01",
+  "checker": "agent-kiem-5.6-p01 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Aristotle (384–322 TCN)",
@@ -172,7 +172,8 @@
           "quote": "metaphysics",
           "where": "tên lĩnh vực"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -183,5 +184,5 @@
     "thuat-ngu": false
   },
   "result": "dat",
-  "notes": "Chỉ một lỗi nhẹ về thuật ngữ. Ví dụ hạt sồi và ví dụ tam đoạn luận 'Socrates phải chết' là minh họa của bài, không gán cho văn bản cụ thể."
+  "notes": "Chỉ một lỗi nhẹ về thuật ngữ. Ví dụ hạt sồi và ví dụ tam đoạn luận 'Socrates phải chết' là minh họa của bài, không gán cho văn bản cụ thể. Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 11 (nhẹ): đã thêm (*metaphysics*), (*ethics*) → fixed."
 }

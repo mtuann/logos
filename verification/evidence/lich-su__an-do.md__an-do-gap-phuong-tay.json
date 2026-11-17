@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/an-do.md#an-do-gap-phuong-tay",
-  "hash": "sha256:cdfa1b777833385e768c6f38f3de9950837d1d2ed969c671890ffa95fdfb2181",
+  "hash": "sha256:f36c41951d188a6d95f11c655724faccc8b817bc0ae44dc02db38e45a1c1bd66",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p06",
+  "checker": "agent-kiem-5.6-p06 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "Triết học Ấn Độ đến châu Âu khá muộn — phần lớn qua bản dịch tiếng Anh, Đức trong thế kỷ 19.",
@@ -94,8 +94,17 @@
     {
       "text": "B. R. Ambedkar dùng Phật giáo như nền tảng cho phong trào giải phóng người Dalit",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
-      "sources": []
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/radhakri/",
+          "quote": "Because of this, Radhakrishnan has been held up in academic circles as a representative of Hinduism to the West.",
+          "where": "phần mở đầu"
+        }
+      ],
+      "severity": "vua",
+      "fixed": true,
+      "fix": "Sarvepalli Radhakrishnan (1888–1975) — vừa là triết gia Vedanta vừa là Tổng thống thứ hai của Ấn Độ — viết bằng tiếng Anh để giới thiệu triết học Ấn Độ với thế giới."
     },
     {
       "text": "nhiều người phương Tây hiện đại tìm đến chúng chính vì triết học quê nhà không trả lời thỏa đáng",
@@ -108,16 +117,17 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/thoreau/",
           "quote": "he also has the distinction of being among the first Western philosophers to be significantly influenced by ancient Chinese and Indian thought"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
     "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": null,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Ambedkar: không mở được nguồn. Đã thử: https://plato.stanford.edu/archives/fall2026/entries/ambedkar/ (Document Not Found), https://iep.utm.edu/ambedkar/ (404), http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/timeline/1950s.html (Cloudflare chặn), https://ambedkarfoundation.nic.in/ (không phản hồi); Gutenberg đang bảo trì. Claim động cơ của \"người phương Tây hiện đại\" là khái quát không nguồn (nguồn trích chỉ cho thấy có ảnh hưởng, không cho thấy động cơ) và kết luận thay người đọc rằng triết học phương Tây \"không trả lời thỏa đáng\" nên trung-lap = false. SEP Schopenhauer coi Upanishad là nguồn cảm hứng \"đến sau\" (sau luận án 1813), nên \"dấu ấn rõ\" chấp nhận ở mức diễn giải."
+  "result": "dat",
+  "notes": "Ambedkar: không mở được nguồn. Đã thử: https://plato.stanford.edu/archives/fall2026/entries/ambedkar/ (Document Not Found), https://iep.utm.edu/ambedkar/ (404), http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/timeline/1950s.html (Cloudflare chặn), https://ambedkarfoundation.nic.in/ (không phản hồi); Gutenberg đang bảo trì. Claim động cơ của \"người phương Tây hiện đại\" là khái quát không nguồn (nguồn trích chỉ cho thấy có ảnh hưởng, không cho thấy động cơ) và kết luận thay người đọc rằng triết học phương Tây \"không trả lời thỏa đáng\" nên trung-lap = false. SEP Schopenhauer coi Upanishad là nguồn cảm hứng \"đến sau\" (sau luận án 1813), nên \"dấu ấn rõ\" chấp nhận ở mức diễn giải. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c7 sửa đúng: câu động cơ người phương Tây đã bỏ, thay bằng \"và ngày nay vẫn được nhiều người, ở cả phương Đông lẫn phương Tây, tìm đọc\" (không gán động cơ, không kết luận thay người đọc). c6 Ambedkar: người làm đã bỏ chi tiết khỏi bài; câu còn lại kết thúc ở Radhakrishnan \"viết bằng tiếng Anh để giới thiệu triết học Ấn Độ với thế giới\" — đã có ở c5, mở lại IEP Radhakrishnan trong phiên này để lấy quote. Đặt c6 thành sai/vua, fixed (chi tiết không nguồn đã bỏ)."
 }

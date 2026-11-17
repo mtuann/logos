@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/nhat-ban-viet-nam.md#viet-nam-thien-truc-lam-va-nho-hoc",
-  "hash": "sha256:de74e5d5d5c576a4b7d03904cc8336140086db31ac38c7285b5bf86bc18a393d",
+  "hash": "sha256:cd6713f9bee60e56447d83bf4c2a90e85074d219c6b0ea05c9e8556c8b63f080",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p08",
+  "checker": "agent-kiem-5.6-p08 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "Việt Nam tiếp nhận cả ba dòng — Phật, Nho, Đạo — nhưng theo cách riêng [có cơ sở] (Nguyễn Tài Thư chủ biên, Lịch sử tư tưởng Việt Nam, 1993; Viện Văn học, Thơ văn Lý–Trần)",
@@ -99,7 +99,8 @@
         }
       ],
       "severity": "vua",
-      "fix": "[Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — tiếp thu hay sáng tạo: từ Chu Văn An đến Nguyễn Trãi"
+      "fix": "[Nho giáo Việt Nam](../cau-hoi/nho-giao-viet.md) — tiếp thu hay sáng tạo: từ Chu Văn An đến Nguyễn Trãi",
+      "fixed": true
     },
     {
       "text": "Hai chủ đề này đã có bài riêng, trình bày đầy đủ với nguồn và tranh luận",
@@ -120,6 +121,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Lỗi vừa: mô tả link hứa \"tam giáo đồng nguyên\" nhưng docs/cau-hoi/nho-giao-viet.md (và trang đã build) không có chữ \"tam giáo\", không bàn Phật/Đạo; bài đích bàn tiếp thu hay sáng tạo (Chu Văn An, Nguyễn Trãi, Nguyễn Bỉnh Khiêm). Tam giáo đồng nguyên trong thân bài có nguồn (Trần Nghĩa, Tạp chí Triết học 2010) nên chỉ sửa mô tả link."
+  "result": "dat",
+  "notes": "Lỗi vừa: mô tả link hứa \"tam giáo đồng nguyên\" nhưng docs/cau-hoi/nho-giao-viet.md (và trang đã build) không có chữ \"tam giáo\", không bàn Phật/Đạo; bài đích bàn tiếp thu hay sáng tạo (Chu Văn An, Nguyễn Trãi, Nguyễn Bỉnh Khiêm). Tam giáo đồng nguyên trong thân bài có nguồn (Trần Nghĩa, Tạp chí Triết học 2010) nên chỉ sửa mô tả link. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c9: mô tả link nho-giao-viet đã đổi đúng fix."
 }

@@ -1,26 +1,43 @@
 {
   "unit": "lich-su/can-dai.md#doc-tiep",
-  "hash": "sha256:f16ef728509f9042ac0b72a6ac8160e0452bc4e050b96f0cd30fca6afc3a9bb8",
+  "hash": "sha256:ad435c7d05005c9f447a62fe52aa77914234c86e49ab5cde9a7179c088fa4f36",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p03",
+  "checker": "agent-kiem-5.6-p03 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "Vấn đề tâm–vật của Descartes: [Thân xác và tâm trí](../cau-hoi/van-de-tam-tri.md)",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/", "quote": "Nhị nguyên luận: tâm trí là một thực thể khác hẳn thân thể", "where": "mục 1; cũng là docs/cau-hoi/van-de-tam-tri.md"}]
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/van-de-tam-tri/",
+          "quote": "Nhị nguyên luận: tâm trí là một thực thể khác hẳn thân thể",
+          "where": "mục 1; cũng là docs/cau-hoi/van-de-tam-tri.md"
+        }
+      ]
     },
     {
       "text": "Hoài nghi luận Descartes và tri thức: [Biết một điều nghĩa là gì?](../cau-hoi/tri-thuc.md)",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/", "quote": "Hoài nghi luận: có thể ta biết ít hơn ta nghĩ", "where": "mục 1"}]
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Hoài nghi luận: có thể ta biết ít hơn ta nghĩ",
+          "where": "mục 1"
+        }
+      ]
     },
     {
       "text": "Vấn đề quy nạp của Hume: … [Quy nạp](../cong-cu/quy-nap.md)",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://mtuann.github.io/logos/cong-cu/quy-nap/", "quote": "Đây là vấn đề quy nạp , gắn với tên David Hume"}]
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "Đây là vấn đề quy nạp , gắn với tên David Hume"
+        }
+      ]
     },
     {
       "text": "Vấn đề quy nạp của Hume: [Suy diễn](../cong-cu/suy-dien.md) và …",
@@ -28,22 +45,53 @@
       "verdict": "sai",
       "severity": "nhe",
       "fix": "- Vấn đề quy nạp của Hume: [Quy nạp](../cong-cu/quy-nap.md) (đối chiếu với [Suy diễn](../cong-cu/suy-dien.md))",
-      "sources": [{"url": "https://mtuann.github.io/logos/cong-cu/suy-dien/", "quote": "Khi nào kết luận buộc phải đúng?", "where": "tiêu đề; docs/cong-cu/suy-dien.md không nhắc Hume hay quy nạp"}]
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/suy-dien/",
+          "quote": "Khi nào kết luận buộc phải đúng?",
+          "where": "tiêu đề; docs/cong-cu/suy-dien.md không nhắc Hume hay quy nạp"
+        }
+      ],
+      "fixed": true
     },
     {
       "text": "Nghĩa vụ luận của Kant: [Hành động đúng là gì?](../cau-hoi/dao-duc-hanh-dong.md)",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/", "quote": "Đạo đức học Kant: hãy hành động theo bổn phận"}]
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-hanh-dong/",
+          "quote": "Đạo đức học Kant: hãy hành động theo bổn phận"
+        }
+      ]
     },
     {
       "text": "Tự do chính trị từ Locke đến [Mill](../triet-gia/mill.md): [Vì sao phải vâng lời nhà nước?](../cau-hoi/khe-uoc-xa-hoi.md) (Locke) và [Dân chủ là gì?](../cau-hoi/dan-chu.md) (Mill)",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://mtuann.github.io/logos/cau-hoi/khe-uoc-xa-hoi/", "quote": "Locke: khế ước để bảo vệ quyền, và quyền lật đổ chính quyền"}, {"url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/", "quote": "John Stuart Mill ( Bàn về tự do , 1859)"}, {"url": "https://mtuann.github.io/logos/triet-gia/mill/", "quote": "John Stuart Mill"}]
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/khe-uoc-xa-hoi/",
+          "quote": "Locke: khế ước để bảo vệ quyền, và quyền lật đổ chính quyền"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/",
+          "quote": "John Stuart Mill ( Bàn về tự do , 1859)"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/mill/",
+          "quote": "John Stuart Mill"
+        }
+      ]
     }
   ],
-  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": null, "thuat-ngu": true},
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
   "result": "dat",
-  "notes": "Mọi file đích có trong docs/. Trang Suy diễn không nói về Hume hay vấn đề quy nạp, nên đặt nó dưới nhãn 'Vấn đề quy nạp của Hume' hơi lệch (nhẹ)."
+  "notes": "Mọi file đích có trong docs/. Trang Suy diễn không nói về Hume hay vấn đề quy nạp, nên đặt nó dưới nhãn 'Vấn đề quy nạp của Hume' hơi lệch (nhẹ). Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 3 (nhẹ): link Quy nạp đứng trước, Suy diễn để đối chiếu, đúng fix → fixed."
 }

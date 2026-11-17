@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-19.md#nguon",
-  "hash": "sha256:f999ede27bdd2df6eb2f85b921b4f65f50bf35f53c257ef0e866bd72bf14558a",
+  "hash": "sha256:1f3d5a36e0c3a711b5ace8fe4a02fe82a3b7da4a0ec87a5562ffb4f1c5fe4dc4",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p04",
+  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02",
   "claims": [
     {
       "text": "UK Parliament, “Presenting the 1866 petition” (Living Heritage) <URL parliament.uk>",
@@ -74,7 +74,8 @@
           "url": "https://web.archive.org/web/2025/https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/",
           "quote": "On 20 May 1867 Mill tried to amend the Second Reform Bill"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -85,5 +86,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi."
+  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix."
 }

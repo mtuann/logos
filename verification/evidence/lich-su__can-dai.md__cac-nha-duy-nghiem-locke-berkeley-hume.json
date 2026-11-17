@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/can-dai.md#cac-nha-duy-nghiem-locke-berkeley-hume",
-  "hash": "sha256:d2b9ee7bf95ae6386c79c7253fe93c32c02e17f2976609d0403d54647d707bf0",
+  "hash": "sha256:5154ec012b87419545a5d69cf5922619150eafdcbb7570246d206ef4492eb323",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p03",
+  "checker": "agent-kiem-5.6-p03 + agent-kiem-5.6-k01",
   "claims": [
     {
       "text": "John Locke (1632–1704)",
@@ -20,7 +20,16 @@
       "text": "phản bác thuyết \"ý niệm bẩm sinh\": tâm trí lúc sinh ra như một tấm bảng trắng (*tabula rasa*), mọi ý niệm đều do kinh nghiệm khắc lên",
       "kind": "dien-giai",
       "verdict": "dung",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/locke/", "quote": "Book I argues that we have no innate knowledge."}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/locke/", "quote": "Locke holds that the mind is a tabula rasa or blank sheet until experience in the form of sensation and reflection provide the basic materials"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Book I argues that we have no innate knowledge."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Locke holds that the mind is a tabula rasa or blank sheet until experience in the form of sensation and reflection provide the basic materials"
+        }
+      ]
     },
     {
       "text": "Quan điểm này không chỉ là tri thức luận — nó là nền tảng của tư tưởng chính trị hiện đại: nếu con người không sinh ra đã mang \"bản chất\" cố định (như vua sinh ra để trị vì), thì mọi thẩm quyền đều phải được biện minh.",
@@ -28,7 +37,21 @@
       "verdict": "sai",
       "severity": "vua",
       "fix": "Về chính trị, trong *Hai khảo luận về chính quyền* (1689), Locke bác quan niệm rằng Chúa đã định cho mọi người tự nhiên phải phục tùng một quân vương: con người sinh ra tự do và bình đẳng, nên chính quyền chính đáng phải dựa trên sự đồng thuận của người bị trị.",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/", "quote": "In the Two Treatises of Government , he defended the claim that men are by nature free and equal against claims that God had made all people naturally subject to a monarch"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/", "quote": "Since governments exist by the consent of the people in order to protect the rights of the people and promote the public good"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/", "quote": "In the Essay Concerning Human Understanding , Locke defends a theory of moral knowledge that negates the possibility of innate ideas ( Essay Book 1)"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "In the Two Treatises of Government , he defended the claim that men are by nature free and equal against claims that God had made all people naturally subject to a monarch"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "Since governments exist by the consent of the people in order to protect the rights of the people and promote the public good"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "In the Essay Concerning Human Understanding , Locke defends a theory of moral knowledge that negates the possibility of innate ideas ( Essay Book 1)"
+        }
+      ],
+      "fixed": true
     },
     {
       "text": "tri thức luận (lần đầu xuất hiện trong bài, không kèm *epistemology*)",
@@ -36,66 +59,158 @@
       "verdict": "sai",
       "severity": "nhe",
       "fix": "Quan điểm này không chỉ là **tri thức luận** (*epistemology*) — …",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/rationalism-empiricism/", "quote": "The dispute between rationalism and empiricism takes place primarily within epistemology"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rationalism-empiricism/",
+          "quote": "The dispute between rationalism and empiricism takes place primarily within epistemology"
+        }
+      ],
+      "fixed": true
     },
     {
       "text": "George Berkeley (1685–1753), giám mục Ireland",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "Berkeley was born in 1685 near Kilkenny, Ireland"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "Berkeley died in 1753"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "In 1734 he was made Bishop of Cloyne, and thus he returned to Ireland"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "Berkeley was born in 1685 near Kilkenny, Ireland"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "Berkeley died in 1753"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "In 1734 he was made Bishop of Cloyne, and thus he returned to Ireland"
+        }
+      ]
     },
     {
       "text": "Khẩu hiệu của ông: tồn tại là được tri giác (*esse est percipi*)",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "this is expressed in the famous phrase, esse est percipi ( aut percipere )-to be is to be perceived (or to perceive), though Berkeley himself used the anglicized Latin esse is percipi"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "this is expressed in the famous phrase, esse est percipi ( aut percipere )-to be is to be perceived (or to perceive), though Berkeley himself used the anglicized Latin esse is percipi"
+        }
+      ]
     },
     {
       "text": "Cái bàn tồn tại vì ta thấy và sờ nó; khi không ai tri giác, nó vẫn tồn tại vì Chúa luôn tri giác mọi thứ",
       "kind": "dien-giai",
       "verdict": "dung",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "The table I write on, I say, exists, that is, I see and feel it", "where": "3.2.4 (PHK 3)"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/", "quote": "In the Three Dialogues , Berkeley very clearly invokes God in this context"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "The table I write on, I say, exists, that is, I see and feel it",
+          "where": "3.2.4 (PHK 3)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/berkeley/",
+          "quote": "In the Three Dialogues , Berkeley very clearly invokes God in this context"
+        }
+      ]
     },
     {
       "text": "David Hume (1711–1776), người Scotland",
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "people/hume",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/hume/", "quote": "David Hume (1711-1776), a prominent intellectual of the Scottish Enlightenment"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "David Hume (1711-1776), a prominent intellectual of the Scottish Enlightenment"
+        }
+      ]
     },
     {
       "text": "triết gia mà Kant nói đã \"đánh thức ông khỏi giấc ngủ giáo điều\"",
       "kind": "du-kien",
       "verdict": "dung",
-      "sources": [{"url": "https://en.wikisource.org/wiki/Prolegomena_to_Any_Future_Metaphysics/Introduction", "quote": "the suggestion of David Hume was the very thing, which many years ago first interrupted my dogmatic slumber"}]
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Prolegomena_to_Any_Future_Metaphysics/Introduction",
+          "quote": "the suggestion of David Hume was the very thing, which many years ago first interrupted my dogmatic slumber"
+        }
+      ]
     },
     {
       "text": "*Khảo luận về bản tính con người* (*Treatise*, 1739–1740) và *Điều tra về trí năng con người* (*Enquiry*, 1748)",
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "events/lich-su.can-dai.1748",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/", "quote": "A Treatise of Human Nature by David Hume, published in 1739 (Hume 1739). In 1748, Hume gave a shorter version of the argument in Section iv of An enquiry concerning human understanding"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "A Treatise of Human Nature by David Hume, published in 1739 (Hume 1739). In 1748, Hume gave a shorter version of the argument in Section iv of An enquiry concerning human understanding"
+        }
+      ]
     },
     {
       "text": "Không phải lý trí (không có mâu thuẫn logic nào nếu mai mặt trời không mọc), mà chỉ là thói quen tâm lý",
       "kind": "dien-giai",
       "verdict": "dung",
-      "sources": [{"url": "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", "quote": "That the Sun will not rise To-morrow is no less intelligible a Proposition, and implies no more Contradiction, than the Affirmation, that it will rise"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/hume/", "quote": "Hume goes on to argue that our inductive propensities are due to \"custom or habit,\""}]
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4",
+          "quote": "That the Sun will not rise To-morrow is no less intelligible a Proposition, and implies no more Contradiction, than the Affirmation, that it will rise"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume goes on to argue that our inductive propensities are due to \"custom or habit,\""
+        }
+      ]
     },
     {
       "text": "Đây là vấn đề quy nạp, và nó vẫn chưa có lời giải khiến mọi người đồng ý",
       "kind": "dien-giai",
       "verdict": "dung",
-      "sources": [{"url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/", "quote": "The original source of what has become known as the \"problem of induction\" is in Book 1, part iii, section 6 of A Treatise of Human Nature"}, {"url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/", "quote": "Hume has throughout history been predominantly read as presenting an argument for inductive skepticism"}]
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "The original source of what has become known as the \"problem of induction\" is in Book 1, part iii, section 6 of A Treatise of Human Nature"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/induction-problem/",
+          "quote": "Hume has throughout history been predominantly read as presenting an argument for inductive skepticism"
+        }
+      ]
     },
     {
       "text": "chỉ thấy một chuỗi cảm giác ... như các diễn viên lần lượt bước ra sân khấu. Cái gọi là \"tôi\" có thể chỉ là một bó tri giác (*bundle of perceptions*) mà trí nhớ khâu lại với nhau",
       "kind": "dien-giai",
       "verdict": "dung",
-      "sources": [{"url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_1:_Of_the_understanding/Part_4/Section_6", "quote": "they are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity"}, {"url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_1:_Of_the_understanding/Part_4/Section_6", "quote": "The mind is a kind of theatre, where several perceptions successively make their appearance"}, {"url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_1:_Of_the_understanding/Part_4/Section_6", "quote": "nothing cou'd more contribute to the bestowing a relation on this succession amidst all its variations"}]
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_1:_Of_the_understanding/Part_4/Section_6",
+          "quote": "they are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_1:_Of_the_understanding/Part_4/Section_6",
+          "quote": "The mind is a kind of theatre, where several perceptions successively make their appearance"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_1:_Of_the_understanding/Part_4/Section_6",
+          "quote": "nothing cou'd more contribute to the bestowing a relation on this succession amidst all its variations"
+        }
+      ]
+    },
+    {
+      "text": "*Hai khảo luận về chính quyền* (*Two Treatises of Government*, 1689)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/locke.two-treatises-of-government"
     }
   ],
-  "checklist": {"dung-nguon": false, "manh-nhat": true, "phan-bac": null, "trung-lap": true, "thuat-ngu": false},
-  "result": "sua",
-  "notes": "Lỗi vừa: câu nối 'tấm bảng trắng' của Essay thành 'nền tảng của tư tưởng chính trị hiện đại' là suy diễn không có trong nguồn; SEP (locke-political) đặt nền chính trị của Locke ở Hai khảo luận (tự do, bình đẳng tự nhiên, đồng thuận), và còn nêu căng thẳng giữa thuyết chống bẩm sinh của Essay với luật tự nhiên. Ví dụ 'như vua sinh ra để trị vì' nên đổi thành lập luận của Locke chống thuyết phục tùng tự nhiên. Năm 1739–1740/1748 trùng events/lich-su.can-dai.1739, .1740, .1748 (đóng băng). Hume nói tự ngã là bó tri giác nhưng tự nghi ngờ lý thuyết này ở Phụ lục Treatise (SEP hume) — bài không nêu, không tính lỗi."
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Lỗi vừa: câu nối 'tấm bảng trắng' của Essay thành 'nền tảng của tư tưởng chính trị hiện đại' là suy diễn không có trong nguồn; SEP (locke-political) đặt nền chính trị của Locke ở Hai khảo luận (tự do, bình đẳng tự nhiên, đồng thuận), và còn nêu căng thẳng giữa thuyết chống bẩm sinh của Essay với luật tự nhiên. Ví dụ 'như vua sinh ra để trị vì' nên đổi thành lập luận của Locke chống thuyết phục tùng tự nhiên. Năm 1739–1740/1748 trùng events/lich-su.can-dai.1739, .1740, .1748 (đóng băng). Hume nói tự ngã là bó tri giác nhưng tự nghi ngờ lý thuyết này ở Phụ lục Treatise (SEP hume) — bài không nêu, không tính lỗi. Kiểm lại (agent-kiem-5.6-k01, 2026-11-17): claim 3: chữ mới đúng ý fix (Two Treatises: tự do, bình đẳng, đồng thuận; khớp SEP locke-political) → fixed. claim 4: \"**tri thức luận** (*epistemology*)\" đã thêm → fixed. Khẳng định mới: tên gốc *Two Treatises of Government*, 1689 — khớp bản ghi kho đã đóng băng works/locke.two-treatises-of-government (year 1689), thêm claim dung với kb."
 }
