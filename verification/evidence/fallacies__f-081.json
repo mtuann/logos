@@ -1,0 +1,70 @@
+{
+ "unit": "fallacies/f-081",
+ "hash": "sha256:4dac6332a8b43c68a5d784c19ffa7b7e7161156767c20f75927aa797d4ad2c3f",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: sunk-cost (đã chi 2 tỉ nên phải làm tiếp dù đội kỹ thuật kết luận không đáp ứng được)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+     "quote": "which can look like an irrational weighting of",
+     "where": "mục về hành động hợp lý, nhắc sunk costs"
+    }
+   ]
+  },
+  {
+   "text": "explanation: 2 tỉ đã chi không lấy lại được dù làm tiếp hay dừng; câu hỏi đúng là chi thêm từ nay có đem lại kết quả không",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+     "quote": "which can look like an irrational weighting of",
+     "where": "mục về hành động hợp lý, nhắc sunk costs"
+    }
+   ]
+  },
+  {
+   "text": "why_not.slippery-slope: không có chuỗi hệ quả nào được vẽ ra",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Step 1 often leads to step 2.",
+     "where": "Slippery Slope"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-popularity: giám đốc không viện dẫn số đông",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "that something is widely practised or believed is not compelling evidence that it is true or that it should be done",
+     "where": "mục 10, ad populum"
+    }
+   ]
+  },
+  {
+   "text": "why_not.red-herring: giám đốc không né câu hỏi, ông đưa ra một lý do sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information",
+     "where": "Red Herring"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án nào khác hợp lý. SEP \"Fallacies\" và IEP \"Fallacy\" không có mục riêng cho sunk cost (grep không thấy); căn cứ phụ là SEP practical-reason (nhắc \"sunk costs\" như trọng số không hợp lý theo hệ quả luận) và khái niệm là của Arkes & Blumer 1985, \"The psychology of sunk cost\", Organizational Behavior and Human Decision Processes (Crossref DOI 10.1016/0749-5978(85)90049-4, đã mở). Định nghĩa của fallacy-types/sunk-cost đúng với cách dùng chuẩn nhưng nguồn chính tắc về nhãn \"ngụy biện\" yếu; chủ biên có thể muốn thêm nguồn."
+}

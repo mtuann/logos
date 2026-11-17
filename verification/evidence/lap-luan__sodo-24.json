@@ -1,0 +1,75 @@
+{
+  "unit": "lap-luan/sodo-24",
+  "hash": "sha256:f0e2e2747b117abb385d94621ee95091c733755fe17250ad9c109ae64645d70b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-l02",
+  "claims": [
+    {
+      "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "a claim-reason complex",
+          "where": "SEP Informal Logic: định nghĩa lập luận (tiền đề, kết luận, suy luận)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "SEP Informal Logic: phần Standardization, bỏ phần không đóng vai trò trong lập luận"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c5 'Học thêm sẽ giúp con tiến bộ chứ không làm con sợ học' là tiền đề ngầm nối các dữ kiện với quyết định c6",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Arguments with implicit premises or conclusions are recognized in traditional discussions of enthymemes",
+          "where": "SEP Informal Logic"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed",
+          "where": "IEP Argument"
+        }
+      ]
+    },
+    {
+      "text": "ho_tro: các tiền đề cùng hướng về kết luận (vẽ thành các mũi tên riêng, theo cách đọc hội tụ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "supported by three independent",
+          "where": "SEP Informal Logic, Example 10"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "they support the conclusion jointly",
+          "where": "IEP Argument, linked vs convergent"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c4 'Chồng tôi hồi nhỏ cũng học thêm toán.' có vai trò khong-lien-quan (không nằm trong ghi_chu_tranh_cai)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thêm vào ghi_chu_tranh_cai: \"c4 có thể đọc như một tiền đề yếu kiểu 'kinh nghiệm gia đình'; công cụ này không chấm độ mạnh của lý lẽ.\" (hoặc thay c4 bằng câu không dính tới chuyện học thêm).",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "an argument is not a function of the syntactic and semantic features",
+          "where": "IEP Argument: vai trò do ý định người lập luận, câu gia đình này có thể được dùng như lý do"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. Mức nhẹ: c4 có cách đọc khác khá hợp lý, nhưng chưa tới mức chấm sai oan nghiêm trọng. ghi_chu_tranh_cai về c2 hợp lý. c5 là giả định ngầm hợp lý."
+}

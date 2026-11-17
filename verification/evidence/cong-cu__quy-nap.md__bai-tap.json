@@ -1,0 +1,117 @@
+{
+ "unit": "cong-cu/quy-nap.md#bai-tap",
+ "hash": "sha256:fe029fb0b41e09398cf093bd02db7e14d7431807447da3d5e6e1cb923f3041a0",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p06",
+ "claims": [
+  {
+   "text": "Bài 1: mẫu 2.000 người dùng ứng dụng học tiếng Anh; kết luận 'yếu, mẫu không đại diện'.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Generalizing from a biased sample",
+     "where": "Biased Generalizing"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2 đáp án (b): bão làm yếu lập luận; thông tin mới làm quy nạp yếu đi, không ảnh hưởng tính hợp lệ.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "an inductive argument is one that can be affected by acquiring new premises (evidence), but a deductive argument cannot be.",
+     "where": "mục 5"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2: tỉ lệ đúng giờ của nhóm chuyến bay vào sân bay đang có bão 'chắc chắn thấp hơn nhiều'.",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "nhiều khả năng thấp hơn nhiều",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "one whose premises render the conclusion likely",
+     "where": "mục 1: kết luận quy nạp chỉ 'có lẽ', không 'chắc chắn'"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2: (a) giải thưởng dịch vụ không làm yếu lập luận.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
+     "quote": "not every similarity increases the probability of the conclusion",
+     "where": "thông tin không liên quan tới điểm đang xét không làm đổi độ mạnh"
+    }
+   ]
+  },
+  {
+   "text": "Bài 3: loại suy máy tính-não yếu vì điểm giống chưa liên quan đến điểm đang xét; lập luận có thể bị lật ngược.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
+     "quote": "the relevance of the similarities and differences to the conclusion"
+    }
+   ]
+  },
+  {
+   "text": "Bài 4: ba cách giải thích (nhiễu, ngược chiều, trùng hợp); điện thoại không có nghĩa không ảnh hưởng.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "both are the effect of a common cause",
+     "where": "Common cause"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "but on any other chance correlation of the supposed cause being in the presence of the supposed effect.",
+     "where": "Cum Hoc"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Reversing Causation",
+     "where": "IEP"
+    }
+   ]
+  },
+  {
+   "text": "Bài 5: giả thuyết (a) tốt nhất theo tiêu chí giải thích nhiều, đơn giản, nhất quán, ít ad hoc; nhưng vẫn có thể sai.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+     "quote": "the so-called theoretical virtues, like simplicity, generality, and coherence with well-established theories",
+     "where": "mục 2"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+     "quote": "the best of a bad lot",
+     "where": "mục 2"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Tự kiểm bằng logic: đáp án 1 (yếu), 2 (b), 3 (yếu), 4, 5 (a) đều đúng; phương án nhiễu (a) bài 2 và (b),(c) bài 5 sai đúng như gợi ý nói. Lỗi nhẹ: 'chắc chắn' ở gợi ý bài 2."
+}

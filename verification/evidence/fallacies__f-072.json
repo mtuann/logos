@@ -1,0 +1,94 @@
+{
+  "unit": "fallacies/f-072",
+  "hash": "sha256:604663a9969823d38d48e83ecea2cb244c2680d5e95e3459a515f81b9ed7db85",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: tu-quoque",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone’s argument not to perform some act must be faulty because the arguer himself or herself has performed it.",
+          "where": "Tu Quoque"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "we commit the tu quoque fallacy: the value of advice is not wholly dependent on the integrity of the advisor.",
+          "where": "mục 1.13"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Việc mẹ cũng thức khuya xem điện thoại không làm lời nhắc sai đi: thức khuya dán mắt vào màn hình vẫn hại mắt, dù ai làm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone’s argument not to perform some act must be faulty because the arguer himself or herself has performed it.",
+          "where": "Tu Quoque"
+        }
+      ]
+    },
+    {
+      "text": "why_not.straw-man: Minh không diễn đạt sai lời nhắc của mẹ; cậu gạt nó đi bằng cách chỉ ra mẹ cũng làm điều tương tự.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Straw Man Fallacy whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse, and then proceed to attack the easily refuted position",
+          "where": "Straw Man"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Minh không viện dẫn việc nhiều người làm thế.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Không có hai lựa chọn nào bị đặt ra như thể là duy nhất.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "explanation: thức khuya dán mắt vào màn hình vẫn hại mắt, dù ai làm.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Việc mẹ cũng thức khuya xem điện thoại không làm lời nhắc sai đi: thức khuya dán mắt vào màn hình vẫn làm mắt mỏi, dù ai làm.",
+      "sources": [
+        {
+          "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+          "quote": "However, it is true that your eyes may feel uncomfortable if you stare at your screen too long.",
+          "where": "đoạn mở đầu"
+        },
+        {
+          "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+          "quote": "Digital eye strain affects people of all ages.",
+          "where": "đoạn mở đầu"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án tu-quoque đúng. Lỗi nhẹ: \"hại mắt\" ở explanation; AAO nói màn hình gây mỏi mắt kỹ thuật số, không gây hại vĩnh viễn."
+}

@@ -1,0 +1,126 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#phep-van-dap-khong-dua-dap-an-chi-hoi",
+  "hash": "sha256:dbdd3fd6dbec98c05964efe46ebc55663f4967df25ded0198dc15252dd31a723",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p14",
+  "claims": [
+    {
+      "text": "Phép vấn đáp (elenchus) là cách Socrates tranh luận: ông ... chỉ hỏi người đối thoại — rồi dùng chính câu trả lời của họ để chỉ ra mâu thuẫn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "A typical Socratic elenchus is a cross-examination of a particular position, proposition, or definition, in which Socrates tests what his interlocutor says and refutes it.",
+          "where": "mục Elenchus: Socrates the Refuter"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "the only thing he has established is its inconsistency with other premises",
+          "where": "mục Elenchus"
+        }
+      ]
+    },
+    {
+      "text": "Bước 1. Hỏi định nghĩa. Không phải \"cho ví dụ\", mà là \"X là gì?\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates typically begins his elenchus with the question, \"what is it\"?",
+          "where": "mục Elenchus, Topic"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1642",
+          "quote": "Remember that I did not ask you to give me two or three examples of piety, but to explain the general idea which makes all pious things to be pious.",
+          "where": "Euthyphro 6d-e (Jowett)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "Socrates shows that enumerations of examples are not sufficient to capture the nature or essence of the virtue in question.",
+          "where": "mục 2.1"
+        }
+      ]
+    },
+    {
+      "text": "Bước 2-3. Lấy định nghĩa thật nghiêm túc rồi tìm phản ví dụ: trường hợp theo định nghĩa thì \"đúng\" nhưng trực giác thấy \"sai\", hoặc ngược lại (định nghĩa quá rộng hoặc quá hẹp).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "too wide and include unwanted characteristics or subsets, or too narrow so that they exclude essential characteristics",
+          "where": "mục 2.1"
+        }
+      ]
+    },
+    {
+      "text": "Bước 4. Bế tắc (aporia): thừa nhận \"hóa ra mình chưa hiểu X như mình tưởng\". Đây không phải thất bại — đây là tiến bộ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "2.1 The aporetic procedure",
+          "where": "mục 2.1 (tên mục)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plato-ethics/",
+          "quote": "they end up admitting their ignorance",
+          "where": "mục 2.1"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "to show the interlocutor that he is confused, and, according to some scholars, to use that confusion as a stepping stone",
+          "where": "mục Elenchus, Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Bước 5. Đưa ra định nghĩa tốt hơn, và vòng vấn đáp bắt đầu lại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Euthyphro appears to give five separate definitions of piety",
+          "where": "mục Elenchus, Topic"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/1642",
+          "quote": "But I will amend the definition so far as to say that what all the gods hate",
+          "where": "Euthyphro 9d-e (Socrates sửa định nghĩa)"
+        }
+      ]
+    },
+    {
+      "text": "Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của chính mình. Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của chính mình. Theo cách đọc phổ biến, Socrates không đưa sẵn đáp án từ bên ngoài mà cùng đối phương soi lại; chỉ là người cầm đèn.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates could therefore pick out a faulty premise in his elenctic exchange with an interlocutor, and sought to replace the interlocutor's false beliefs with his own.",
+          "where": "mục Elenchus: cách đọc kiến tạo (constructivist)"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "The second response is called the non-constructivist position.",
+          "where": "mục Elenchus: cách đọc phi kiến tạo"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": false,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Năm bước là cách hệ thống hóa của site, nội dung từng bước khớp với IEP và SEP Plato's Ethics. Mục không nêu tranh luận học thuật về elenchus (IEP: cách đọc kiến tạo / phi kiến tạo; vấn đề Vlastos), nên phan-bac=false; lỗi nhẹ, không chặn. Quote Euthyphro lấy từ Gutenberg #1642 (bản lưu web.archive.org vì gutenberg.org đang bảo trì khi kiểm). \"aporia\" không xuất hiện nguyên chữ trong SEP/IEP Socrates; dùng SEP Plato's Ethics mục \"aporetic procedure\"."
+}

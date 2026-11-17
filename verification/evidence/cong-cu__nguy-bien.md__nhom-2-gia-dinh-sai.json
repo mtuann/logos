@@ -1,0 +1,136 @@
+{
+ "unit": "cong-cu/nguy-bien.md#nhom-2-gia-dinh-sai",
+ "hash": "sha256:6de696510c76f48f1f070d12cd8c429ecb9488488dc565466df9261647b0d56a",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p08",
+ "claims": [
+  {
+   "text": "Lưỡng nan giả (false dilemma)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
+     "where": "IEP, False Dilemma"
+    }
+   ]
+  },
+  {
+   "text": "'A hoặc B; không A; vậy B' là hợp lệ, lỗi nằm ở tiền đề",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+     "quote": "deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent",
+     "where": "IEP Propositional Logic: định nghĩa modus ponens; dạng tuyển loại trừ cùng hệ quy tắc hợp lệ, chưa trích riêng quy tắc tam đoạn luận tuyển"
+    }
+   ]
+  },
+  {
+   "text": "Dốc trơn trượt: lỗi ở mắt xích; hợp lý khi mỗi mắt xích có bằng chứng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Arguments of this form may or may not be fallacious depending on the probabilities involved in each step.",
+     "where": "IEP, Slippery Slope"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the reason why it is a fallacy, lies in the second and third causal claims",
+     "where": "SEP, slippery slope"
+    }
+   ]
+  },
+  {
+   "text": "Lập luận vòng quanh (begging the question)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+     "where": "IEP, Begging the Question"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "begs the question because the premise and conclusion are the very same proposition",
+     "where": "SEP"
+    }
+   ]
+  },
+  {
+   "text": "Khái quát vội vàng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A Hasty Generalization is a Fallacy of Jumping to Conclusions in which the conclusion is a generalization.",
+     "where": "IEP"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+     "where": "SEP"
+    }
+   ]
+  },
+  {
+   "text": "Post hoc ergo propter hoc: thứ tự thời gian là một phần bằng chứng nhân quả",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "ascribes a causal relationship between two states or events on the basis of temporal succession",
+     "where": "SEP"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection.",
+     "where": "IEP, Post Hoc: lỗi chỉ khi nhảy 'hastily' sang kết luận nhân quả"
+    }
+   ]
+  },
+  {
+   "text": "Viện dẫn sự thiếu hiểu biết: đúng khi đã tìm kỹ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "It would be proper reasoning only if the proof attempts were quite thorough.",
+     "where": "IEP, Appeal to Ignorance"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "infer a proposition to be true because there is no evidence against it",
+     "where": "SEP, ad ignorantiam"
+    }
+   ]
+  },
+  {
+   "text": "Chi phí chìm (sunk cost fallacy): định nghĩa và ngoại lệ (công trình xây 90%, uy tín, lời hứa) [SEP/IEP Fallacies không có mục sunk cost; chỉ xác nhận được khái niệm qua tên bài Arkes & Blumer 1985, 'The psychology of sunk cost', OBHDP 35(1):124-140 (crossref); không đọc được nội dung/định nghĩa]",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "Suy đoán vô tội là quy tắc về nghĩa vụ chứng minh; chất gây nghiện có cơ chế dung nạp khiến liều tăng; đối chiếu: ví dụ 'X-quang không thấy gãy' [không mở nguồn pháp lý/dược lý nào trong phiên này]",
+   "kind": "du-kien",
+   "verdict": "chua-kiem-duoc"
+  }
+ ],
+ "checklist": {
+  "dung-nguon": null,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "chua-kiem-duoc",
+ "notes": "Đã thử: SEP, IEP Fallacies (không có sunk cost), crossref Arkes & Blumer (chỉ metadata). Các ví dụ đời thường là do site soạn. Mẫu 'Nếu A thì B...' khớp SEP/IEP."
+}

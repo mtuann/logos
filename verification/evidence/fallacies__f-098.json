@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-098",
+ "hash": "sha256:9afd81485a0bc73ca617658877aa60c9ab250877e57285fc086f47c731e3423b",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: appeal-popularity (hai triệu người không thể sai)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "that something is widely practised or believed is not compelling evidence that it is true or that it should be done",
+     "where": "mục 10, ad populum"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-authority: không viện dẫn chuyên gia hay người nổi tiếng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "fallacious whenever the authority appealed to is not really an authority in this particular subject",
+     "where": "Appeal to Authority"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-emotion: nhắm bà mẹ nhưng lý lẽ chính là con số người mua",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief",
+     "where": "Appeal to Emotions"
+    }
+   ]
+  },
+  {
+   "text": "why_not.begging-question: tiền đề khác kết luận, lỗi ở bước nối",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the premise and conclusion are the very same proposition, albeit expressed in different words",
+     "where": "mục 5, begging the question"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án tranh chấp."
+}

@@ -1,0 +1,80 @@
+{
+ "unit": "fallacies/f-037",
+ "hash": "sha256:39debf7b48f06db89c5cb71b3c74e4047f922ebb2a7a9da443c4c018880105fb",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: genetic",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
+    }
+   ]
+  },
+  {
+   "text": "options: appeal-nature, equivocation, ad-hominem không hợp lý hơn; không phương án thứ hai hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning; it is the use of one word taken in two ways."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
+    }
+   ]
+  },
+  {
+   "text": "explanation: Lịch sử của một cái tên không nói gì về chất lượng vắc-xin; đánh giá thứ hiện tại bằng nguồn gốc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant"
+    }
+   ]
+  },
+  {
+   "text": "passage: \"vắc-xin\" bắt nguồn từ tiếng Latin chỉ con bò (vacca)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://en.wiktionary.org/wiki/vaccine",
+     "quote": "Learned borrowing from Latin vaccīnus ( “ of or derived from a cow ” ) , from vacca ( “ cow (female cattle) ” )"
+    }
+   ]
+  },
+  {
+   "text": "passage: người ta lấy mủ đậu bò (cowpox) để chủng ngừa; Jenner tạo vắc-xin đầu tiên",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/a-brief-history-of-vaccination",
+     "quote": "Dr Edward Jenner created the world's first successful vaccine."
+    }
+   ]
+  },
+  {
+   "text": "why_not.equivocation / appeal-nature / ad-hominem",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argument"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Từ nguyên vacca lấy từ Wiktionary (không thuộc nguồn ưu tiên; không mở được Britannica/MW/OED). Chỉ là chi tiết trong lời nhân vật, không ảnh hưởng đáp án."
+}

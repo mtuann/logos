@@ -1,0 +1,77 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#bon-to-hop",
+  "hash": "sha256:bcf76871e56993c0f797d50b4fad15d1e22f5d5f169b0e567f39d4779366880f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04",
+  "claims": [
+    {
+      "text": "Bảng bốn tổ hợp của P → Q: (Có,Có) đúng; (Có,Không) không thể; (Không,Có) được; (Không,Không) được",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "material conditional chỉ sai khi antecedent đúng, consequent sai"
+        }
+      ]
+    },
+    {
+      "text": "Với 'P cần cho Q' (Q → P) tình huống không thể duy nhất là Q xảy ra mà P không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "áp dụng cho Q→P"
+        }
+      ]
+    },
+    {
+      "text": "'Trời mưa thì sân ướt': không mưa mà sân vẫn ướt hoàn toàn hợp với câu nếu… thì…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "antecedent sai thì conditional đúng"
+        }
+      ]
+    },
+    {
+      "text": "Phân tích chuyện Minh: có vé, không được xem bác bỏ 'có vé đủ cho được xem'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "phản ví dụ duy nhất cho P→Q là P đúng, Q sai"
+        }
+      ]
+    },
+    {
+      "text": "Nếu a = b thì a² = b²; đảo lại nếu a² = b² thì a = b sai (a có thể bằng −b)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "không có nguồn riêng; tự kiểm bằng logic/số học, dựa định nghĩa điều kiện vật chất"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ví dụ toán a²=b² tự kiểm: a=1,b=-1 là phản ví dụ của chiều đảo; không cần nguồn bên ngoài. Đảo của P→Q là Q→P, khẳng định khác (SEP: converses; không phải tương đương)."
+}

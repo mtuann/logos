@@ -1,0 +1,74 @@
+{
+ "unit": "cong-cu/suy-dien.md#bang-bon-truong-hop",
+ "hash": "sha256:600a58e2a3257c963c2c266607f440aa224b98b3c73b99c40df46f4d5b85bfe9",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Hợp lệ + mọi tiền đề đúng: kết luận chắc chắn đúng (vững chắc); ví dụ 'Mọi người đều phải chết; mọi nhà thơ đều là người; vậy mọi nhà thơ đều phải chết'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both valid, and all of its premises are actually true"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "makes it impossible for the premises to be true and the conclusion nevertheless to be false"
+    }
+   ]
+  },
+  {
+   "text": "Hợp lệ + có tiền đề sai: kết luận có thể đúng hoặc sai; ví dụ chim cánh cụt biết bay (sai) và cá voi (đúng); cả hai hợp lệ về hình thức (Barbara) và tiền đề 'mọi loài chim đều biết bay' sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both invalid, as well as valid but unsound, arguments can nevertheless have true conclusions"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "A valid argument may still have a false conclusion."
+    }
+   ]
+  },
+  {
+   "text": "Không hợp lệ, tiền đề đúng: kết luận có thể đúng hoặc sai; ví dụ Hà Nội/Huế (khẳng định hậu kiện); 'Hà Nội là thủ đô Việt Nam' đúng, 'Huế là thủ đô Việt Nam' sai hiện nay; tự kiểm: cùng khuôn nếu P,Q thì ... tiền đề đúng, kết luận sai nên khuôn không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+     "where": "Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both invalid, as well as valid but unsound, arguments can nevertheless have true conclusions"
+    }
+   ]
+  },
+  {
+   "text": "Chỉ một tổ hợp không bao giờ xảy ra: hợp lệ, mọi tiền đề đúng, kết luận sai; đó là định nghĩa hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "makes it impossible for the premises to be true and the conclusion nevertheless to be false"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Các ví dụ tự soạn đã tự kiểm bằng logic: đều đúng. Huế từng là kinh đô triều Nguyễn nhưng hiện không là thủ đô (câu ở thì hiện tại, đúng)."
+}

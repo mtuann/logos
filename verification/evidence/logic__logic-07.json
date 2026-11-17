@@ -1,0 +1,46 @@
+{
+ "unit": "logic/logic-07",
+ "hash": "sha256:89c708b1a86f0091cb60fe5b867f368f0288c0911e1ed6ec21096a61df2f5a18",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02",
+ "claims": [
+  {
+   "text": "dap_an: hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): không có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Disjunctive syllogism (DS):",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich: Tiến thoái lưỡng nan xây dựng (Constructive Dilemma)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Constructive dilemma (CD):",
+     "where": "mục Rules of inference"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề. Mỗi claim ký hiệu: nguồn IEP là bản kiểm lập luận về quy tắc, không phải bản lưu SEP."
+}

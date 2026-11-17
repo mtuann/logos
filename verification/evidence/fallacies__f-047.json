@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-047",
+  "hash": "sha256:cae55cccc3003937d01bf5e7f5c760f9a0e62fce6e58e83237366e2b80f07ff8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: appeal-popularity",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-popularity, red-herring, hasty-generalization, tu-quoque; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Việc chép bài có phải gian lận hay không phụ thuộc vào quy định và bản chất hành vi, không phụ thuộc vào số người làm. Đông người làm chỉ cho thấy lỗi phổ biến, không làm nó hết là lỗi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.tu-quoque: Tuấn không nói cô giáo cũng làm điều tương tự; cậu viện dẫn các bạn cùng lớp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "It involves not accepting a view or a recommendation because the espouser him- or herself does not follow it.",
+          "where": "mục 13 (SEP, tu quoque)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Tuấn vẫn trả lời đúng câu hỏi, chỉ là bằng một lý do sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "mục Red Herring"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Tuấn không suy từ vài trường hợp ra kết luận chung; cậu biện minh bằng chuyện mọi người cùng làm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+          "where": "SEP, phần Mill"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

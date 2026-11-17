@@ -1,0 +1,46 @@
+{
+ "unit": "fallacy-types/false-dilemma",
+ "hash": "sha256:076317045e02761e0001ea21cc28ddc201d7fd1403711b47b21aa5c0d0ffce01",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d01",
+ "claims": [
+  {
+   "text": "en: False dilemma; định nghĩa: chỉ hai lựa chọn như thể không còn khả năng khác",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
+     "where": "False Dilemma"
+    }
+   ]
+  },
+  {
+   "text": "pattern: Hoặc A hoặc B. Không phải A. Vậy B. (tam đoạn luận tuyển; hợp lệ nếu tuyển đúng thật, vấn đề ở tiền đề tuyển)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "too few choices",
+     "where": "False Dilemma"
+    }
+   ]
+  },
+  {
+   "text": "not_fallacy_when: các lựa chọn khác đã được loại trừ có lý do (suy ra từ định nghĩa 'unfairly presents too few')",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "unfairly presents too few choices",
+     "where": "False Dilemma"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

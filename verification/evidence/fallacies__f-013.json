@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-013",
+  "hash": "sha256:1831a1bbaad3507032e6d498788f295fc17f83b91ccba0586864ee867018623d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: none",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: “Chỉ khi có thẻ mới được vào” tương đương “nếu được vào thì có thẻ”. Nam không có thẻ, nên suy ra Nam không được vào: đây là modus tollens (phủ định hậu kiện), hợp lệ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.denying-antecedent: Phủ định tiền kiện là phủ định vế “nếu” của một câu “nếu… thì”. Ở đây “có thẻ” là điều kiện cần (vế sau của “nếu được vào thì có thẻ”), nên phủ định nó là modus tollens, không phải phủ định tiền kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Giám thị áp dụng đúng quy chế của chính kỳ thi; đó không phải dựa vào người ngoài lĩnh vực.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "mục Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Không có hai lựa chọn nào bị đặt ra sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "\"Chỉ được vào khi có thẻ\" = \"nếu được vào thì có thẻ\"; \"không thẻ\" -> \"không được vào\" là modus tollens, hợp lý (tự kiểm bảng chân trị: V->T, ¬T ⊢ ¬V hợp lệ). IEP nêu AC/DA bị nhầm với modus ponens/tollens. Không phương án nhiễu nào hợp lý; điểm dễ nhầm là denying-antecedent đã được why_not xử lý đúng."
+}

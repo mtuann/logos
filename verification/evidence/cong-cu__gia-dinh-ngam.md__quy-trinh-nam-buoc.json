@@ -1,0 +1,58 @@
+{
+ "unit": "cong-cu/gia-dinh-ngam.md#quy-trinh-nam-buoc",
+ "hash": "sha256:61567924fc1418cb03ce408573cc542d736ea7bf87f5d451c766fea7c281ef05",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p07",
+ "claims": [
+  {
+   "text": "Giả định yếu nhất về mặt logic luôn là câu 'nếu [các tiền đề] thì [kết luận]'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "the weakest component needed to successfully connect the argument’s premises to its conclusion",
+     "where": "mục 3.1 (tiền đề 'logically minimum'); dạng 'If P, then C' ở mục 4.3 Natural Language Deductivism"
+    }
+   ]
+  },
+  {
+   "text": "Thêm tiền đề tối thiểu để lập luận hợp lệ; khi đã hợp lệ thì điểm yếu dồn vào tiền đề",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "logically minimum",
+     "where": "mục 3.1"
+    },
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "it would be impossible for the premises to be true and for the conclusion to be false",
+     "where": "IEP: định nghĩa hợp lệ"
+    }
+   ]
+  },
+  {
+   "text": "Giả định yếu nhất 'chỉ là nhắc lại khoảng trống chứ không lấp nó'; thiện chí thường chọn nguyên tắc chung người viết có vẻ tin",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Principle of Charity” “favors an interpretation of an argument which makes the argument as credible as possible",
+     "where": "mục 3.1; phê bình NLD ở mục 4.3: 'an artificial theory which forces informal arguments to adhere to an overly restrictive model of inference'"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": true,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ghi chú nhẹ: bài trích nguồn mục 3.1 cho cả ý 'nếu P thì C'; chi tiết dạng điều kiện nằm ở mục 4.3 (cùng entry), không sai nguồn. Quy trình năm bước là của site (không gán cho nguồn)."
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-014",
+  "hash": "sha256:2122a77f5545a7867a50d6926af63084397689fde090c6c30f321348728e5ea7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: appeal-authority",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the fallacy involves accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority",
+          "where": "mục 9"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Giỏi tài chính không biến chị giám đốc thành người có chuyên môn đánh giá bảo mật. Một quyết định như vậy cần ý kiến chuyên gia an ninh mạng hoặc kết quả kiểm định độc lập.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the fallacy involves accepting as evidence for a proposition the pronouncement of someone who is taken to be an authority but is either not really an authority or a relevant authority",
+          "where": "mục 9"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "mục Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Anh Hải dựa vào một người, không dựa vào việc nhiều người dùng dịch vụ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the source appealed to is popular opinion, or common knowledge, rather than a specified authority",
+          "where": "mục 10"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Không ai bị công kích; ngược lại, một người được tâng bốc ngoài lĩnh vực của họ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing.",
+          "where": "mục 13"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Lập luận sẽ hợp lý hơn nhiều nếu nguồn được dẫn là chuyên gia bảo mật hay một báo cáo kiểm định.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "whenever the authority appealed to is not really an authority in this particular subject",
+          "where": "mục Appeal to Authority"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Giám đốc tài chính không có thẩm quyền về bảo mật: đúng ad verecundiam theo SEP mục 9."
+}

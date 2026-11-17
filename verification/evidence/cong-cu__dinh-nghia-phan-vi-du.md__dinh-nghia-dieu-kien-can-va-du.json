@@ -1,0 +1,53 @@
+{
+  "unit": "cong-cu/dinh-nghia-phan-vi-du.md#dinh-nghia-dieu-kien-can-va-du",
+  "hash": "sha256:146b485a2bba98ada555997747f53255eff3182683e3e6ab41f68a09101dbc4b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p05",
+  "claims": [
+    {
+      "text": "Một định nghĩa tốt có dạng: X là F khi và chỉ khi … — điều kiện vừa cần vừa đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "is composed of simpler concepts that express necessary and sufficient conditions for falling under C",
+          "where": "Section 2.1"
+        }
+      ]
+    },
+    {
+      "text": "\"n là số nguyên tố khi và chỉ khi n lớn hơn 1 và chỉ có đúng hai ước dương.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://t5k.org/glossary/page.php?sort=Prime",
+          "quote": "An integer greater than one is called a prime number if its only positive divisors (factors) are one and itself.",
+          "where": "Glossary: Prime"
+        }
+      ]
+    },
+    {
+      "text": "\"n là số chẵn khi và chỉ khi n chia hết cho 2\" khít; \"bàn là cái có bốn chân\" không cần; \"bàn là cái có mặt phẳng\" không đủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "is composed of simpler concepts that express necessary and sufficient conditions for falling under C",
+          "where": "Section 2.1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ví dụ số chẵn/nguyên tố tự kiểm bằng toán sơ cấp; câu \"gọn đến mức chính nó là một nửa của chứng minh\" là nhận xét sư phạm, không phải dữ kiện."
+}

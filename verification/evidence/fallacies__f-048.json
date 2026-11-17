@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-048",
+  "hash": "sha256:060411bc4ebbb5e2fd08e12699edcdd09bfe4705c0e1c1aea596bce4d85226c5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: false-dilemma",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-emotion, slippery-slope, false-dilemma, sunk-cost; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Báo cáo tài chính cho thấy còn những cách tiết kiệm khác chưa được xét. Đặt vấn đề như thể chỉ có cắt người hoặc phá sản là lưỡng nan giả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Giám đốc không vẽ chuỗi bước nhỏ dẫn tới thảm họa; ông bỏ qua các lựa chọn khác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Chữ “phá sản” gây lo lắng, nhưng lỗi lập luận chính là chỉ đưa ra hai khả năng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "mục Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.sunk-cost: Không có ai tiếp tục một việc vì tiếc khoản đã chi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

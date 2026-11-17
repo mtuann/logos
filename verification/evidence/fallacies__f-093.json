@@ -1,0 +1,63 @@
+{
+ "unit": "fallacies/f-093",
+ "hash": "sha256:db5ab710af4d20f5d2c9b00b6cdfa2525b3ccdbc53ff527a3b0da92df17ed057",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: straw-man (đề xuất chỉ cho ô tô, khu trung tâm, giờ cao điểm bị phóng đại thành mọi người dân, mọi đường)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "attribute an easily refuted position to your opponent, one that the opponent would not endorse",
+     "where": "Straw Man"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "is distorted in order to make it easier to refute",
+     "where": "straw man"
+    }
+   ]
+  },
+  {
+   "text": "why_not.slippery-slope: không suy chuỗi hệ quả tương lai mà phát biểu sai nội dung",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Step 1 often leads to step 2.",
+     "where": "Slippery Slope"
+    }
+   ]
+  },
+  {
+   "text": "why_not.equivocation: không từ nào đổi nghĩa",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase",
+     "where": "mục 1"
+    }
+   ]
+  },
+  {
+   "text": "why_not.hasty-generalization: không có mẫu bị khái quát",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+     "where": "Hasty Generalization"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án tranh chấp."
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-009",
+  "hash": "sha256:f99f08e0e30c83163ea0368d3d9763737f2651cb9134d853a2b1d66f62c9a21e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: begging-question",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "mục Begging the Question"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "It is a disguised instance of repetition which gives no reason for its apparent conclusion.",
+          "where": "mục 5"
+        }
+      ]
+    },
+    {
+      "text": "explanation: “Có tác dụng răn đe” nghĩa chính là “khiến người ta e ngại mà không dám vi phạm”. Tiền đề chỉ nói lại kết luận bằng lời khác, không đưa bằng chứng nào cho thấy phạt tiền thật sự làm người dân bớt vứt rác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "mục Begging the Question"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Lập luận sẽ ổn nếu anh Nhân dẫn số liệu, chẳng hạn lượng rác giảm bao nhiêu sau khi một phường khác áp dụng mức phạt.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "mục Begging the Question"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Không có hai sự kiện nối tiếp nào được nêu ra; chỉ có một khẳng định tự lặp lại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "hastily leap to the conclusion that A caused B",
+          "where": "mục Post Hoc"
+        }
+      ]
+    },
+    {
+      "text": "why_not.equivocation: Không có từ nào đổi nghĩa giữa chừng; vấn đề là tiền đề và kết luận thực chất là một.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning",
+          "where": "mục Equivocation"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Khó (mức 3) nhưng đáp án hợp lý nhất: \"có tác dụng răn đe\" gần như đồng nghĩa với \"khiến người dân e ngại không dám vi phạm\", tiền đề nói lại kết luận. Cách đọc \"đây là khẳng định thực nghiệm chưa có bằng chứng\" (thay vì vòng quanh) vẫn dẫn tới phương án begging-question là gần nhất; \"none\" không hợp lý vì tiền đề không thêm lý do. Ghi nhận: hơi tranh luận được nhưng không có phương án nhiễu nào bằng đáp án."
+}

@@ -1,0 +1,63 @@
+{
+ "unit": "fallacies/f-091",
+ "hash": "sha256:ca1dc20d8455e4af657778660ca52e239c2b3596245a9d6404a628a5823b149c",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: affirming-consequent (Nếu P thì Q; Q; vậy P)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent",
+     "where": "Affirming the Consequent"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens",
+     "where": "Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "why_not.denying-antecedent: Lan khẳng định vế sau chứ không phủ định vế \"nếu\"",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent",
+     "where": "Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "why_not.hasty-generalization: không khái quát từ mẫu nhỏ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+     "where": "Hasty Generalization"
+    }
+   ]
+  },
+  {
+   "text": "why_not.post-hoc: không suy nhân quả từ trình tự thời gian",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "After this, therefore because of this",
+     "where": "Post Hoc"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án tranh chấp."
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-004",
+  "hash": "sha256:1f4f154e49c4ee01655db371df7b69b7abaf041301c30715ab00f19ae641df9d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: slippery-slope",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Công ty luôn có thể dừng ở một ngày; không có cơ chế nào buộc chuỗi yêu cầu cứ thế tăng đến mức “tan rã”. Chị Loan đưa ra các bước mà không chứng minh bước nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "mục Slippery Slope"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion",
+          "where": "mục 15"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Chị Loan không đặt ra chỉ hai lựa chọn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Chị không viện dẫn số đông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "that someone’s claim or argument is correct simply because it’s what most everyone believes",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.straw-man: Chị vẫn hiểu đúng đề xuất là một ngày; lỗi là suy ra chuỗi hệ quả không có lý do.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "you attribute an easily refuted position to your opponent, one that the opponent would not endorse",
+          "where": "mục Straw Man"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Dốc trơn: chuỗi hệ quả bị phóng đại, không có lý do cho mắt xích. Không phương án nào khác hợp lý."
+}

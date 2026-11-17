@@ -1,0 +1,97 @@
+{
+ "unit": "cong-cu/nguy-bien.md#nhom-4-hinh-thuc",
+ "hash": "sha256:5f267a4438e91f1a72c97e141c62acd3bc4d695b74955d7befc0becd73a60f2f",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p08",
+ "claims": [
+  {
+   "text": "Khẳng định hậu kiện: từ 'nếu P thì Q' và Q suy ra P (không hợp lệ)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional",
+     "where": "IEP, Affirming the Consequent"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the formal fallacy of affirming the consequent",
+     "where": "SEP"
+    }
+   ]
+  },
+  {
+   "text": "Phủ định tiền kiện: từ 'nếu P thì Q' và không P suy ra không Q (không hợp lệ)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "often mistaken for Modus Tollens, a valid form of argument using the conditional",
+     "where": "IEP, Denying the Antecedent"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent",
+     "where": "IEP"
+    }
+   ]
+  },
+  {
+   "text": "'Chỉ khi có vé mới được vào. Không có vé. Vậy không được vào' hợp lệ (modus tollens từ 'nếu được vào thì có vé')",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/propositional-logic-sentential-logic/",
+     "quote": "deducing the negation of the antecedent of a conditional",
+     "where": "IEP Propositional Logic, modus tollens: nếu Q→V và ¬V thì ¬Q"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+     "quote": "A ⇒ B; ~B; so ~A (modus tollens)",
+     "where": "SEP Conditionals §3.2"
+    }
+   ]
+  },
+  {
+   "text": "Nếu điều kiện thực chất là 'chỉ khi P thì Q', từ Q suy P là modus ponens hợp lệ (bản tự kiểm bằng logic: 'chỉ khi P thì Q' = 'nếu Q thì P')",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/conditionals/",
+     "quote": "A basic rule of inference is modus ponens: from 'If A, B' and A, we can infer B.",
+     "where": "SEP Conditionals §2.1; nguồn không bàn 'only if', đây là kiểm bằng logic"
+    }
+   ]
+  },
+  {
+   "text": "Coi Q là bằng chứng làm P có khả năng hơn là một bước của suy luận đến lời giải thích tốt nhất",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Walton (2004) on abductive arguments",
+     "where": "SEP Informal Logic: bàn về lập luận abductive"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "reasoning is defeasible",
+     "where": "SEP Fallacies, lập luận có thể bị đánh bại: dẫn tới 'khả năng' chứ không chắc chắn"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Nguồn dẫn 'Cả hai đều đã gặp ở bài suy diễn' là liên kết nội bộ. Ví dụ tem chống giả do site soạn. Lưu ý nhẹ: định nghĩa abduction (IBE) đã thuộc bài quy-nap, không kiểm ở đây."
+}

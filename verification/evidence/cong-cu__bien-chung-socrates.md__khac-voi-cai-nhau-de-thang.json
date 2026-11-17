@@ -1,0 +1,70 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#khac-voi-cai-nhau-de-thang",
+  "hash": "sha256:427a543e2cde83e4c25dcfdcc68c5a7c2c557f6f5541cca7473307f68baf28da",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p14",
+  "claims": [
+    {
+      "text": "Socrates thường mở đầu bằng việc thừa nhận mình không biết.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "his claim that he was ignorant (or aware of his own absence of knowledge)",
+          "where": "IEP mở đầu"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "he was aware of his own ignorance",
+          "where": "IEP, Socratic Ignorance (Apology 23a)"
+        }
+      ]
+    },
+    {
+      "text": "Socrates làm ngược lại: ông cùng đối phương rơi vào bế tắc, và coi đó là khởi đầu chứ không phải chiến thắng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1642",
+          "quote": "Alas! my companion, and will you leave me in despair?",
+          "where": "Euthyphro cuối đối thoại (Jowett): Socrates cũng bế tắc"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "to use that confusion as a stepping stone on the way to establishing a more consistent, well-formed set of beliefs",
+          "where": "IEP Elenchus, Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Tấn công lập luận, không tấn công người. / Mục đích là cùng tìm ra sự thật, không phải thắng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Tấn công lập luận, không tấn công người (theo chuẩn tranh luận ngày nay; ngay trong các đối thoại của Platon, vấn đáp đôi khi làm đối phương xấu hổ, như Thrasymachus ở Republic I).",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "the elenchus refutes the person holding a particular view, not just the view",
+          "where": "IEP Elenchus: một cách đọc cho rằng elenchus nhắm vào cả người giữ quan điểm"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates shames Thrasymachus",
+          "where": "IEP Elenchus (Republic I 350d)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục là lời khuyên chuẩn tắc cho người dùng ngày nay, không phải trình bày lịch sử. Câu \"ngược lại Socrates\" khớp Euthyphro; nhưng IEP nêu cách đọc elenchus nhắm cả người nói (Thrasymachus), nên ranh giới \"không tấn công người\" không hoàn toàn mô tả Socrates. Mức nhẹ; chưa có đoạn phản bác."
+}

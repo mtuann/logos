@@ -1,0 +1,61 @@
+{
+  "unit": "lap-luan/sodo-26",
+  "hash": "sha256:06519fb8f74fb5d077142e15141164397c52b8f89f0fc43d17c15c872ea03d7e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-l02",
+  "claims": [
+    {
+      "text": "dap_an: vai trò các câu (tiền đề / kết luận / không liên quan) hợp lý và duy nhất cho đoạn này; mọi câu có mặt trong đoạn đều được gán đúng một vai trò",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "a claim-reason complex",
+          "where": "SEP Informal Logic: định nghĩa lập luận (tiền đề, kết luận, suy luận)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "SEP Informal Logic: phần Standardization, bỏ phần không đóng vai trò trong lập luận"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c5 là tiền đề ngầm về khả thi của việc về quê làm nông",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "Arguments with implicit premises or conclusions are recognized in traditional discussions of enthymemes",
+          "where": "SEP Informal Logic"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed",
+          "where": "IEP Argument"
+        }
+      ]
+    },
+    {
+      "text": "ho_tro: các tiền đề cùng hướng về kết luận (vẽ thành các mũi tên riêng, theo cách đọc hội tụ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "supported by three independent",
+          "where": "SEP Informal Logic, Example 10"
+        },
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "they support the conclusion jointly",
+          "where": "IEP Argument, linked vs convergent"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Quan sát chung: bản ghi không có trường liên kết/độc lập, công cụ vẽ mọi ho_tro thành mũi tên riêng (hội tụ) và chấm chỉ theo vai trò từng câu. Các câu kể về thế giới thật trong đoạn là lời nhân vật của bài luyện tập, không phải khẳng định của site; không kiểm nguồn. 'nguon' ghi 'Biên soạn cho Logos', không nhận là trích từ nguồn thật nên không có gì để mở. c4 (bạn đại học còn làm văn phòng) không liên quan: chấp nhận được. c5 là giả định ngầm hợp lý (khả năng chịu thu nhập bấp bênh, học được nghề)."
+}

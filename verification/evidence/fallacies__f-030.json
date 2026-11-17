@@ -1,0 +1,60 @@
+{
+ "unit": "fallacies/f-030",
+ "hash": "sha256:03335a4974504a0eb63490b34dd226bd23845a16cc140e7375814315765ab1bc",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: none (thử nghiệm ngẫu nhiên có đối chứng, không phải sau nó nên do nó)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”"
+    }
+   ]
+  },
+  {
+   "text": "options: hasty-generalization, post-hoc, appeal-authority không hợp lý; không có phương án thứ hai hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Chia ngẫu nhiên và có nhóm giả dược giúp loại trừ các giải thích khác... không chỉ dựa vào trình tự thời gian",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Correlations are often good evidence of causal connection, so the fallacy occurs only when the leap to the causal conclusion is done “hastily.”"
+    }
+   ]
+  },
+  {
+   "text": "why_not.post-hoc: Sau nó nên do nó là chỉ dựa vào trình tự thời gian; ở đây có nhóm đối chứng để so sánh.",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Ngụy biện \"sau nó nên do nó\" chỉ dựa vào trình tự thời gian; ở đây có nhóm đối chứng để so sánh.",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Câu why_not.post-hoc vụng (thiếu chủ ngữ), chỉ mức nhẹ."
+}

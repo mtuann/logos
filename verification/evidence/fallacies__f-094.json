@@ -1,0 +1,58 @@
+{
+ "unit": "fallacies/f-094",
+ "hash": "sha256:97f45f771a2355b7f9404b2a8005bc695a55b4ef5796886d36b70f9f7300bf33",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: hasty-generalization (từ phòng năm người, một kiểu việc, ra mọi phòng ban)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+     "where": "Hasty Generalization"
+    }
+   ]
+  },
+  {
+   "text": "why_not.post-hoc: sáu tháng và đối chiếu cùng kỳ nên nhân quả cho phòng thiết kế tương đối vững",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "After this, therefore because of this",
+     "where": "Post Hoc"
+    }
+   ]
+  },
+  {
+   "text": "why_not.none: nên thử ở phòng khác là hợp lý, nhưng \"chắc chắn... mọi phòng ban\" vượt bằng chứng",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+     "where": "Hasty Generalization"
+    }
+   ]
+  },
+  {
+   "text": "why_not.false-dilemma: không có hai lựa chọn nào",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "unfairly presents too few choices and then implies that a choice must be made among this short menu of choices",
+     "where": "False Dilemma"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Không có phương án tranh chấp; none bị loại vì chữ \"chắc chắn\"."
+}

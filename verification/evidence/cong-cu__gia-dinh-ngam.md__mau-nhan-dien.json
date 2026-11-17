@@ -1,0 +1,53 @@
+{
+ "unit": "cong-cu/gia-dinh-ngam.md#mau-nhan-dien",
+ "hash": "sha256:3a35510c6fe82f4f6fcd4d78c8a49924bc559e69b3affe215282e78065e304f1",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p07",
+ "claims": [
+  {
+   "text": "Dấu hiệu: kết luận 'nên/phải', lý do 'là/có' thì cần tiền đề về giá trị",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "it applies to any attempt to argue from an “is” to an “ought,”",
+     "where": "IEP Fallacies, mục Naturalistic"
+    }
+   ]
+  },
+  {
+   "text": "Dấu hiệu: kết luận về nhóm rộng ('mọi') trong khi lý do chỉ nói vài trường hợp; tương lai vs hiện tại; câu hỏi tu từ và 'rõ ràng', 'ai cũng biết'",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "a faulty (incomplete) induction, what we might call hasty generalization",
+     "where": "SEP Fallacies mục 2.3: khái quát từ ít trường hợp"
+    }
+   ]
+  },
+  {
+   "text": "Sơ đồ chỗ trống: giả định ngầm là 'Nếu [điều được nói ra] thì [kết luận]' hoặc một nguyên tắc chung bao trùm",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "the weakest component needed to successfully connect the argument’s premises to its conclusion",
+     "where": "mục 3.1"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Danh sách dấu hiệu là kinh nghiệm của site, không gán nguồn; không mâu thuẫn nguồn."
+}

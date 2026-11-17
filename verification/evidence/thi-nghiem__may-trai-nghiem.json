@@ -1,0 +1,82 @@
+{
+  "unit": "thi-nghiem/may-trai-nghiem",
+  "hash": "sha256:0ddeda74c854429f9cafd74450adf4f38f2bd4dab9a08f798721eebbe2459116",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03",
+  "claims": [
+    {
+      "text": "nguon: Nozick (1974)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "Nozick ... 1974, Anarchy, State, and Utopia, p. 43",
+          "where": "Experience machine"
+        }
+      ]
+    },
+    {
+      "text": "hoan_canh: máy nối vào cả đời, trải nghiệm quý giá nhất, không biết mình bị nối",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "Imagine I have a machine that I could plug you into for the rest of your life.",
+          "where": "Experience machine"
+        }
+      ]
+    },
+    {
+      "text": "so_lieu_khao_sat a: 13.3; b: 76.9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong"
+    },
+    {
+      "text": "phan_bien a: ba lý do của Nozick: làm, trở thành, tiếp xúc thực tại / man-made reality",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hedonism/",
+          "quote": "to do certain things, and not just have the experience of doing them; to be a certain sort of person, not an indeterminate blob; (1974: 43–44)",
+          "where": "Experience machine"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "plugging into an experience machine limits us to a man-made reality",
+          "where": "Experience machine"
+        }
+      ]
+    },
+    {
+      "text": "lua_chon a: Thuyết khoái lạc (hedonism)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hedonism/",
+          "quote": "The strongest tack for hedonists to take is to accept the apparent force of the experience machine objection."
+        }
+      ]
+    },
+    {
+      "text": "phan_bien a: \"Thứ ba, ta muốn tiếp xúc với thực tại sâu hơn, do con người tạo ra\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "plugging into an experience machine limits us to a man-made reality",
+          "where": "Experience machine"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Thứ ba, ta muốn tiếp xúc với một thực tại sâu hơn những gì con người dựng nên; cắm mình vào máy là tự giới hạn trong một thực tại do con người tạo ra, và tự nguyện sống trong ảo tưởng..."
+    }
+  ],
+  "result": "dat",
+  "notes": "Lỗi nhẹ: câu ba lý do hơi vụng, \"thực tại sâu hơn, do con người tạo ra\" dễ đọc thành thực tại sâu hơn được con người tạo ra, ngược ý Nozick. Bản SEP Hedonism liệt kê lý do thứ ba là \"make a difference in the world\"; SEP Well-being trích \"man-made reality\"; hai trang nhấn khác nhau, bài theo ý Nozick 1974 p.43 là chấp nhận được. SEP Nozick (entries/nozick/) trả 404 nên dùng well-being và hedonism."
+}

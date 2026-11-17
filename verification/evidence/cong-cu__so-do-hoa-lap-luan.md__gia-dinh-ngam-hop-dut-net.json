@@ -1,0 +1,72 @@
+{
+ "unit": "cong-cu/so-do-hoa-lap-luan.md#gia-dinh-ngam-hop-dut-net",
+ "hash": "sha256:a3002150ce3b3b7b3476d22d8bb574ea2c9bf9a776122f5fb8d0222ac1a2cf26",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p12",
+ "claims": [
+  {
+   "text": "Giả định ngầm (hidden assumption) là thứ có mặt trong lập luận dù tác giả không nói ra",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "An enthymeme is an argument which is presented with at least one component that is suppressed.",
+     "where": "Argument, enthymeme"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "this argument’s implicit premise identifies the link that ties the explicit premise to the conclusion",
+     "where": "Informal Logic, enthymemes"
+    }
+   ]
+  },
+  {
+   "text": "Quy ước vẽ giả định ngầm bằng hộp đứt nét; SEP dùng ngoặc vuông [ ] cho thành phần ngầm",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "Using square brackets ([ ]) to indicate this implicit component",
+     "where": "Informal Logic, Example 11"
+    }
+   ]
+  },
+  {
+   "text": "Trong hầu hết lập luận thực tế, giả định ngầm chính là mắt xích yếu nhất",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "for all arguments rely on (many) assumptions, and unstated premises or a conclusion can often be interpreted in different ways",
+     "where": "Informal Logic, enthymemes"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "Trong nhiều lập luận thực tế, giả định ngầm là mắt xích yếu nhất — vẽ nó ra là đã thắng một nửa."
+  },
+  {
+   "text": "Tách \"cấm có phải cách duy nhất\" thành giả định ngầm; ví dụ điện thoại trong lớp là ví dụ tự soạn",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "this argument’s implicit premise identifies the link that ties the explicit premise to the conclusion",
+     "where": "Informal Logic, enthymemes"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Claim nhe: \"hầu hết\" là khái quát không có nguồn; SEP chỉ nói mọi lập luận dựa vào nhiều giả định và việc xác định chúng có thể gây tranh cãi. Link nội bộ gia-dinh-ngam.md không thuộc phạm vi kiểm."
+}

@@ -1,0 +1,54 @@
+{
+ "unit": "cong-cu/suy-dien.md#nguon",
+ "hash": "sha256:f20a45b03bf78bc6a9aae93d7909793f459c561728e5b69b42d61a3abfc54658",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Nguồn 1: Beall, Restall, Sagi, 'Logical Consequence', SEP, URL bản lưu fall2026",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "Jc Beall, Greg Restall, and Gil Sagi",
+     "where": "tiêu đề trang: 'Logical Consequence' (Fall 2026 Edition)"
+    }
+   ]
+  },
+  {
+   "text": "Nguồn 2: Timothy Shanahan, 'Deductive and Inductive Arguments', IEP",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+     "quote": "Timothy Shanahan",
+     "where": "trang mở được; tác giả theo bản ghi kho đã đóng băng"
+    }
+   ]
+  },
+  {
+   "text": "Nguồn 3: Bradley Dowden, 'Fallacies', IEP, các mục Affirming the Consequent và Denying the Antecedent",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "kb": "sources/iep.fallacy",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Affirming the Consequent",
+     "where": "trang mở được và có đúng hai mục này; tên tác giả không hiển thị trong văn bản tôi lấy được, đối chiếu bản ghi kho sources/iep.fallacy"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": null,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ba dòng khớp đúng bản ghi sources/sep.logical-consequence, iep.deductive-inductive-arguments, iep.fallacy (đã đóng băng). Tác giả Dowden không xác nhận được qua WebFetch nhưng đã có trong kho đóng băng."
+}

@@ -1,0 +1,75 @@
+{
+ "unit": "cong-cu/quy-nap.md#tuong-quan-khong-phai-nhan-qua",
+ "hash": "sha256:8ca98129aa740ece9c9ceace43143b9b7b2fe62875633070ed0b56e17af5c77c",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p06",
+ "claims": [
+  {
+   "text": "Khả năng 3: yếu tố gây nhiễu chung (trời nóng → kem và đuối nước).",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "both are the effect of a common cause",
+     "where": "Correlation/Common cause"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-probabilistic/",
+     "quote": "Reichenbach says that the common cause explains the correlation between A and B",
+     "where": "SEP Probabilistic Causation"
+    }
+   ]
+  },
+  {
+   "text": "Khả năng 4: trùng hợp; có những cặp số đi cùng nhau chỉ do tình cờ.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "but on any other chance correlation of the supposed cause being in the presence of the supposed effect.",
+     "where": "Cum Hoc"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-probabilistic/",
+     "quote": "PR also has trouble with spurious correlations",
+     "where": "SEP"
+    }
+   ]
+  },
+  {
+   "text": "Khả năng 2: B gây ra A (đảo chiều nhân quả).",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Reversing Causation",
+     "where": "tên mục ngụy biện trong IEP"
+    }
+   ]
+  },
+  {
+   "text": "Một lỗi họ hàng: B xảy ra sau A mà cho rằng A gây ra B, gọi là Sau nó nên do nó.",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "hastily leap to the conclusion that A caused B",
+     "where": "Post Hoc, Ergo Propter Hoc: After this, therefore because of this"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ví dụ kem/đuối nước do site soạn, là ví dụ kinh điển; chỉ kiểm phân tích. Nhấn mạnh 'phổ biến nhất' (khả năng 3 là thủ phạm phổ biến nhất) là khẳng định cường độ không có nguồn, giọng thông thường, nhe, không đánh sai."
+}

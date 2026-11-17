@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-043",
+  "hash": "sha256:834b95377fe515fb3cb2e63a32a2eaa9633d6dede24b009273edbbe9a0a1c7fc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: appeal-ignorance",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-ignorance, post-hoc, appeal-nature, appeal-authority; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Chưa có nghiên cứu về tác hại có thể đơn giản là vì chưa ai nghiên cứu. “Hoàn toàn an toàn” cần bằng chứng tích cực, không thể suy ra từ sự vắng mặt của bằng chứng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-nature: Người bán không nói nước tốt vì tự nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The fallacy occurs in cases where absence of evidence is not good enough evidence of absence.",
+          "where": "mục Appeal to Ignorance"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Không có chuyên gia nào được viện dẫn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the difference being that the source appealed to is popular opinion, or common knowledge, rather than a specified authority",
+          "where": "mục 10 (SEP, ad populum vs ad verecundiam)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Không có hai sự kiện nối tiếp nào được coi là nhân quả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

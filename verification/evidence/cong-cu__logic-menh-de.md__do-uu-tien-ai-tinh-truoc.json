@@ -1,0 +1,22 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#do-uu-tien-ai-tinh-truoc",
+ "hash": "sha256:17b9ce50205bb60bf5a388ef7e322c6af1abfdc590a653ba181e84af1c2cdb33",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03",
+ "claims": [
+  {
+   "text": "thứ tự tính là: ¬ trước, rồi ∧, rồi ∨ và ⊕, rồi →, cuối cùng ↔; ¬P ∨ Q → R đọc là ((¬P) ∨ Q) → R",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": null,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "chua-kiem-duoc",
+ "notes": "Đây là ước lệ, khác nhau giữa các giáo trình. IEP Propositional Logic (https://iep.utm.edu/prop-log/) không nêu quy tắc ưu tiên, chỉ nêu ước lệ ngoặc ngoài cùng; SEP Classical Logic (fall2026/entries/logic-classical/) bắt buộc dùng ngoặc, không nêu thứ tự. Việc xếp ⊕ ngang ∨ không có nguồn đã mở. Đề xuất người làm: thêm 'theo ước lệ phổ biến' hoặc dẫn một giáo trình. Ví dụ ((¬P)∨Q)→R nhất quán với thứ tự đã nêu."
+}

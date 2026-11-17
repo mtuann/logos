@@ -1,0 +1,66 @@
+{
+ "unit": "fallacies/f-028",
+ "hash": "sha256:f1129b79516a0ebe27fbba472088c749a1e5219e969b9a98b87ab6c55f06fe33",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: straw-man",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse"
+    }
+   ]
+  },
+  {
+   "text": "options: false-dilemma, appeal-emotion, ad-hominem không hợp lý hơn; không có phương án thứ hai hợp lý",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse"
+    }
+   ]
+  },
+  {
+   "text": "explanation: biến đề nghị bớt một khoản chi thành \"sống khổ sở, không được hưởng thụ gì\"",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "occurs when an opponent’s point of view is distorted in order to make it easier to refute"
+    }
+   ]
+  },
+  {
+   "text": "why_not.ad-hominem / false-dilemma / appeal-emotion",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing."
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-075",
+  "hash": "sha256:1bfe9c4e4e29a736ffb7f4c0d20baf505dcdc6ec182cdd220c1947afa5e936ba",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: hasty-generalization",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "I’ve met two people in Nicaragua so far, and they were both nice to me. So, all people I will meet in Nicaragua will be nice to me.",
+          "where": "Hasty Generalization, ví dụ"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Hai lần mua cam, có khi chỉ ở một sạp, không nói được gì về mọi loại hoa quả của cả chợ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error is to overestimate the strength of an argument that is based on too small a sample for the implied confidence level or error margin.",
+          "where": "Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Chị Mai không kết luận nhân quả từ trình tự thời gian.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B.",
+          "where": "Post Hoc"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Không có hai lựa chọn nào bị đặt ra.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định trong tiền đề; nó vượt xa tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "Begging the Question"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}

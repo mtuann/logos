@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-057",
+  "hash": "sha256:7e4ed1c0c83946fa388fe298ecda77e2e4dbc152ad31ed5adc49f9f62e28699f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: appeal-popularity",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-popularity, false-dilemma, appeal-authority, slippery-slope; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Việc nhiều công ty làm thế không cho biết lịch đó có hiệu quả hay phù hợp với công ty mình. Muốn biết, cần xem năng suất, chi phí và đời sống nhân viên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Chị Thảo không đặt ra chỉ hai lựa chọn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-authority: Chị viện dẫn thông lệ của số đông công ty, không phải ý kiến của một chuyên gia.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "the difference being that the source appealed to is popular opinion, or common knowledge, rather than a specified authority",
+          "where": "mục 10 (SEP, ad populum vs ad verecundiam)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Không có chuỗi hệ quả nào được vẽ ra.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "That form occurs in both good arguments and faulty arguments.",
+          "where": "mục Slippery Slope"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

@@ -1,0 +1,63 @@
+{
+ "unit": "fallacies/f-100",
+ "hash": "sha256:de965a7a87f61d06b0d5bc1d498fbc370945a3c6590af7fe6c90f5c0a04d2502",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f05",
+ "claims": [
+  {
+   "text": "answer: equivocation (\"lợi ích công cộng\" nghĩa pháp lý với \"công chúng quan tâm\")",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase",
+     "where": "mục 1"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Equivocation is the illegitimate switching of the meaning of a term that occurs twice during the reasoning",
+     "where": "Equivocation"
+    }
+   ]
+  },
+  {
+   "text": "why_not.appeal-popularity: có nhắc số đông nhưng bước quyết định là đánh đồng hai nghĩa",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "that something is widely practised or believed is not compelling evidence that it is true or that it should be done",
+     "where": "mục 10, ad populum"
+    }
+   ]
+  },
+  {
+   "text": "why_not.none: lập luận đứng vững nếu chỉ ra việc đăng có ích cho xã hội",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase",
+     "where": "mục 1"
+    }
+   ]
+  },
+  {
+   "text": "why_not.begging-question: kết luận không được giả định sẵn; lỗi là cụm từ hai nghĩa",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "the premise and conclusion are the very same proposition, albeit expressed in different words",
+     "where": "mục 5, begging the question"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Appeal-popularity có phần liên quan nhưng why_not nêu rõ lý do; đáp án equivocation hợp lý hơn. Không coi là tranh chấp nghiêm trọng. \"Lợi ích công cộng trong luật\" là chuyện kể của đoạn, không khẳng định điều luật thật."
+}

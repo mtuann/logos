@@ -1,0 +1,101 @@
+{
+ "unit": "cong-cu/nguy-bien-hinh-thuc.md#bang-tra-nhanh",
+ "hash": "sha256:14d805a02d508640fa62602a838050b6dcb1badcb852852d262c8ad2443a24f4",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p11",
+ "claims": [
+  {
+   "text": "Modus ponens (khẳng định tiền kiện): nếu P thì Q; P; vậy Q: hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing the truth of the consequent of a conditional given truth of both the conditional and its antecedent",
+     "where": "modus ponens"
+    }
+   ]
+  },
+  {
+   "text": "Modus tollens (phủ định hậu kiện): nếu P thì Q; không Q; vậy không P: hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent",
+     "where": "modus tollens"
+    }
+   ]
+  },
+  {
+   "text": "Khẳng định hậu kiện: không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "your reasoning contains the Fallacy of Affirming the Consequent.",
+     "where": "entry Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "Phủ định tiền kiện: không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "entry Denying the Antecedent"
+    }
+   ]
+  },
+  {
+   "text": "Đảo ngược mệnh đề (nếu P thì Q; vậy nếu Q thì P): không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "false if α is true and β is false, and is true if either α is false or β is true (or both)",
+     "where": "truth table of the conditional"
+    }
+   ]
+  },
+  {
+   "text": "P hoặc Q (bao hàm); P; vậy không Q: không hợp lệ",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "is used for disjunction in the inclusive sense",
+     "where": "disjunction"
+    }
+   ]
+  },
+  {
+   "text": "P hoặc Q; không P; vậy Q: tam đoạn luận lựa chọn, hợp lệ (đúng cả với bao hàm)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "deducing one disjunct of a disjunction on the basis of the disjunction and the negation of the other disjunct",
+     "where": "disjunctive syllogism"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Tên 'tam đoạn luận lựa chọn' = disjunctive syllogism, đúng nghĩa; thuật ngữ này không nằm trong bảng bắt buộc, chấp nhận. | Tự kiểm bảng chân trị: P=F,Q=T làm tiền đề T, kết luận F."
+}

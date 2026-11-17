@@ -1,0 +1,60 @@
+{
+ "unit": "lap-luan/sodo-15",
+ "hash": "sha256:e7fe721a01c36e00f45fca313dc2933c42ab812a5dd105b4dd30994fbe173887",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-l01",
+ "claims": [
+  {
+   "text": "dap_an: c5 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c1, c2, c3 là tien-de, ho_tro [c5]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/argument/",
+     "quote": "The reasons offered within the argument are called “premises”, and the proposition that the premises are offered for is called the “conclusion”",
+     "where": "IEP Argument, mục mở đầu: premises/conclusion"
+    }
+   ]
+  },
+  {
+   "text": "dap_an: c4 là khong-lien-quan (không tham gia lý lẽ cho kết luận)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ]
+  },
+  {
+   "text": "c4: \"Hướng dẫn viên của tour năm ngoái rất nhiệt tình.\" (dap_an: khong-lien-quan)",
+   "kind": "dien-giai",
+   "verdict": "sai",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+     "quote": "discarding irrelevant and distracting digressions, repetition, and remarks (“noise”) which do not play a role in the reasoning the argument contains",
+     "where": "SEP Informal Logic, mục Standardization"
+    }
+   ],
+   "severity": "nhe",
+   "fix": "Thêm ghi_chu_tranh_cai: \"c4 nêu điểm có lợi cho đi tour, tức đi ngược kết luận; công cụ không có vai trò phản bác nên tính là không liên quan.\" (Quy ước này nên thống nhất với sodo-22, nơi mặt trái được tính là tiền đề.)"
+  }
+ ],
+ "result": "dat",
+ "notes": "c3 nói về Đà Lạt trong khi kết luận về Sapa: tiền đề yếu nhưng vẫn là tiền đề."
+}

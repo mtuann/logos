@@ -1,0 +1,82 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#kiem-tra-hop-le-bang-bang-chan-tri",
+ "hash": "sha256:032f9e8114fca47696ab8b77123fe30486f2acbf273af6a6cc8fd7aa85184a70",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03",
+ "claims": [
+  {
+   "text": "lập luận hợp lệ khi không thể có chuyện mọi tiền đề đúng mà kết luận sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "takes a form that makes it impossible for the premises to be true and the conclusion nevertheless to be false",
+     "where": "Mục validity"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "absence of counterexample",
+     "where": "Logical Consequence, hướng mô hình"
+    }
+   ]
+  },
+  {
+   "text": "Hợp lệ khi và chỉ khi mọi dòng làm mọi tiền đề đúng đều làm kết luận đúng (thủ tục bảng chân trị) [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "takes the validity of an argument to be absence of counterexample",
+     "where": "Logical Consequence"
+    }
+   ]
+  },
+  {
+   "text": "Modus ponens hợp lệ: chỉ dòng 1 làm cả hai tiền đề đúng, kết luận Q đúng; bảng 4 dòng [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "takes the validity of an argument to be absence of counterexample",
+     "where": "Logical Consequence; nguồn không nêu tên 'modus ponens', phần này do tự tính"
+    }
+   ]
+  },
+  {
+   "text": "Khẳng định hậu kiện (nếu P thì Q; Q; vậy P) không hợp lệ; phản ví dụ dòng P sai, Q đúng [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "affirming the consequent, denying the antecedent",
+     "where": "Copi's formal fallacies"
+    }
+   ]
+  },
+  {
+   "text": "Dòng 3 của bảng khẳng định hậu kiện: P→Q đúng, Q đúng, P sai; bảng chép đúng [Tự tính lại bằng script Python (bảng chân trị 4 dòng): khớp.]",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/logical-consequence/",
+     "quote": "takes the validity of an argument to be absence of counterexample",
+     "where": "Logical Consequence"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Cả hai bảng đã tính lại; không có lỗi. 'Chị Thu' là nhân vật từ bài Suy diễn."
+}

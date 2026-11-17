@@ -1,0 +1,86 @@
+{
+ "unit": "cong-cu/suy-dien.md#bai-tap",
+ "hash": "sha256:9a9513f2fe8b2a644f9bf48393c2f936240db5a84b5b36e7e642532d49e59edb",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p02",
+ "claims": [
+  {
+   "text": "Bài 1: Nam đỗ đại học / xe máy: không hợp lệ, khẳng định hậu kiện",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+     "where": "Affirming the Consequent"
+    }
+   ]
+  },
+  {
+   "text": "Bài 2: tài khoản bị xâm nhập / email cảnh báo: hợp lệ (modus tollens) nhưng đáng ngờ về tiền đề 1, nên chưa chắc vững chắc",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing the negation of the antecedent of a conditional from the conditional and the negation of its consequent.",
+     "where": "Section 5.a"
+    },
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "both valid, and all of its premises are actually true"
+    }
+   ]
+  },
+  {
+   "text": "Bài 3: nhân viên công ty X / bảo hiểm y tế: hình thức 'Mọi A là B; x là B; vậy x là A' không hợp lệ; phản ví dụ chim sẻ/đại bàng đúng (tiền đề đúng, kết luận sai)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/val-snd/",
+     "quote": "Arguments with this form are invalid.",
+     "where": "'All A's are F; X is F; Therefore, X is an A'"
+    }
+   ]
+  },
+  {
+   "text": "Bài 4: phần cứng hoặc phần mềm: hợp lệ (tam đoạn luận lựa chọn); nếu thiếu khả năng thì là lưỡng nan giả; liên kết nguy-bien.md#false-dilemma tồn tại",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "involves deducing one disjunct of a disjunction on the basis of the disjunction and the negation of the other disjunct.",
+     "where": "Section 5.a"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made",
+     "where": "False Dilemma"
+    }
+   ]
+  },
+  {
+   "text": "Bài 5: bác sĩ / tốt nghiệp đại học: phủ định tiền kiện; phản ví dụ chó/mèo/động vật có vú đúng (tiền đề đúng, kết luận sai)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "This formal fallacy is often mistaken for Modus Tollens, a valid form of argument using the conditional.",
+     "where": "Denying the Antecedent"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Mỗi đáp án đã tự kiểm bằng bảng chân trị/phản ví dụ. Bài 4: đáp án nói 'hợp lệ' đúng; 'lưỡng nan giả' đúng với IEP False Dilemma."
+}

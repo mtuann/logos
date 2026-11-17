@@ -1,0 +1,37 @@
+{
+ "unit": "fallacies/f-038",
+ "hash": "sha256:889f923dc6cf096be1752ed415880f8ee8747d6e9e9bdfd40e9083ef19e4ea94",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: appeal-nature (nhãn \"viện dẫn tự nhiên\"): không có mục tương ứng trong SEP Fallacies fall2026 hay IEP Fallacy",
+   "kind": "dien-giai",
+   "verdict": "chua-kiem-duoc"
+  },
+  {
+   "text": "options: appeal-popularity, appeal-authority, post-hoc không hợp lý; quảng cáo không viện số đông/chuyên gia/trình tự thời gian",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
+    }
+   ]
+  },
+  {
+   "text": "explanation: Nhiều chất có nguồn gốc thiên nhiên vẫn gây dị ứng hay kích ứng da; \"thiên nhiên\" không phải bằng chứng an toàn",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better",
+     "quote": "And “natural” medicines, contrary to what many may think, are not without side effects."
+    }
+   ]
+  }
+ ],
+ "result": "chua-kiem-duoc",
+ "notes": "Nhãn appeal-nature không có trong SEP/IEP (đã grep). NCCIH nói thuốc \"tự nhiên\" không hết tác dụng phụ (kava, ephedra) nhưng không nói riêng kích ứng da."
+}

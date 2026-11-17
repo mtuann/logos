@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-042",
+  "hash": "sha256:932d4709c8910f72768c7830a16376b67124a7b4e0cee5c7a571616d786fe159",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: affirming-consequent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "options: post-hoc, affirming-consequent, none, denying-antecedent; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Dấu giày có thể là một manh mối, nhưng có hẳn một lời giải thích khác (thợ sơn). Suy từ hậu kiện ra tiền kiện một cách “chắc chắn” là khẳng định hậu kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Khôi không suy nhân quả từ trình tự thời gian; lỗi là cấu trúc “Nếu P thì Q; Q; vậy P”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This fallacy ascribes a causal relationship between two states or events on the basis of temporal succession.",
+          "where": "mục 7 (SEP, post hoc ergo propter hoc)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Nếu Khôi chỉ nói “có thể kẻ trộm vào qua cửa sổ” sau khi đã loại trừ các khả năng khác, thì đó là suy luận đến lời giải thích tốt nhất. Chữ “chắc chắn” khi còn khả năng khác rõ ràng thì không đứng được.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.denying-antecedent: Không có vế nào bị phủ định.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Phương án none: IEP/SEP không có mục riêng về suy luận đến lời giải thích tốt nhất; lập luận trong đoạn khớp đúng khuôn khẳng định hậu kiện (bản ghi fallacy-types/affirming-consequent)."
+}

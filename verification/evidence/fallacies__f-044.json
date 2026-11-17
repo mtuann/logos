@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-044",
+  "hash": "sha256:8d65eb4a62369e10cb2d397c283abd471b37ee2d6a6c02b00413293622922e2e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: genetic",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "mục Genetic"
+        }
+      ]
+    },
+    {
+      "text": "options: appeal-nature, genetic, appeal-popularity, ad-hominem; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "mục Genetic"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Phong tục bắt nguồn từ đâu không quyết định nó có ý nghĩa với gia đình hôm nay hay không. Bác Sơn đánh giá việc thổi nến chỉ qua nguồn gốc của nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "mục Genetic"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-nature: Bác không nói điều gì tốt hay xấu vì tự nhiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "mục Genetic"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Không có người nào bị công kích; đối tượng bị bác bỏ là một phong tục, vì nguồn gốc của nó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argument itself.",
+          "where": "mục Ad Hominem"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Bác không viện dẫn việc nhiều người làm hay không làm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "mục Appeal to the People"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

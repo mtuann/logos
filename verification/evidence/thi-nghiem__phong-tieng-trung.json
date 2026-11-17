@@ -1,0 +1,79 @@
+{
+  "unit": "thi-nghiem/phong-tieng-trung",
+  "hash": "sha256:2eef3928fecd3880b504ab6ed67a7ac28bec8b510f4d77eb65dde8ecac664c21",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03",
+  "claims": [
+    {
+      "text": "nguon: Searle (1980)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "first published in a 1980 article by American philosopher John Searle",
+          "where": "Intro"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Searle, 1980, \"Minds, Brains and Programs\", Behavioral and Brain Sciences, 3: 417–57",
+          "where": "Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "hoan_canh: người không biết tiếng Trung trong phòng, làm theo sổ quy tắc thao tác ký hiệu, trả lời khiến người ngoài tin là người bản xứ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "a person who knows no Chinese ... follows a rulebook for manipulating Chinese symbols that are passed in under the door",
+          "where": "Intro (tóm tắt của công cụ đọc)"
+        }
+      ]
+    },
+    {
+      "text": "so_lieu_khao_sat a: 17.8; b: 67.1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/can-phong-tieng-trung"
+    },
+    {
+      "text": "lua_chon b: Searle: cú pháp không phải ngữ nghĩa; thao tác ký hiệu mà không hiểu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Syntax is not by itself sufficient for, nor constitutive of, semantics."
+        }
+      ]
+    },
+    {
+      "text": "lua_chon a: Thuyết chức năng / AI mạnh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Strong AI is the view that suitably programmed computers (or the programs themselves) can understand natural language."
+        }
+      ]
+    },
+    {
+      "text": "phan_bien b: lập luận \"hệ thống\" và \"robot\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-room/",
+          "quote": "Systems Reply: \"the man in the room does not understand Chinese\" but the whole system may; Robot Reply: give the computer a robot body with sensors and effectors",
+          "where": "Replies"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Các trích dẫn SEP lấy từ kết quả công cụ đọc trang (tóm tắt), chữ trong ngoặc kép là chữ thật của trang. Chi tiết \"bài kiểm tra Turing\" trong giải thích a là lập luận của phía chức năng luận, không phải của Searle; không sai."
+}

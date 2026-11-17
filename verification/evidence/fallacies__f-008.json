@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-008",
+  "hash": "sha256:95517be6c1515c779855fe64650b95e6e8adbed4e6ca062d800ab09be862ab2c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: affirming-consequent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "your reasoning contains the Fallacy of Affirming the Consequent",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Kể cả khi tiền đề đầu đúng, nghỉ phép lẻ có thể vì con ốm, việc gia đình, đi khám bệnh. Khẳng định hậu kiện rồi suy ra tiền kiện là không hợp lệ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "your reasoning contains the Fallacy of Affirming the Consequent",
+          "where": "mục Affirming the Consequent"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.hasty-generalization: Trưởng phòng không suy từ vài trường hợp ra quy luật chung; lỗi là đảo chiều một câu “nếu… thì”.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+          "where": "mục Hasty Generalization"
+        }
+      ]
+    },
+    {
+      "text": "why_not.denying-antecedent: Không có vế nào bị phủ định.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.ad-hominem: Hưng không bị công kích để bác bỏ một lập luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing.",
+          "where": "mục 13"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Tiền đề \"định nghỉ việc -> xin nghỉ phép lẻ\"; \"Hưng xin nghỉ phép lẻ\" khẳng định hậu kiện, kết luận tiền kiện: đúng dạng AC (tự kiểm bằng bảng chân trị: P=F,Q=T làm cả hai tiền đề đúng, kết luận sai)."
+}

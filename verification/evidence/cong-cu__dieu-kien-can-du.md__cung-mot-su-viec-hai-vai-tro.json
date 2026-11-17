@@ -1,0 +1,53 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#cung-mot-su-viec-hai-vai-tro",
+  "hash": "sha256:98c9cd69f683f01b15359bd67bffec3c17ecc80628c9431702bc1fa62c3936a4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04",
+  "claims": [
+    {
+      "text": "Cần hay đủ không phải tính chất tuyệt đối mà tương đối với cặp P, Q đang xét",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "distinguish the sense of condition that is being invoked in a particular context",
+          "where": "Kết luận của entry"
+        }
+      ]
+    },
+    {
+      "text": "'Chia hết cho 4' là điều kiện cần cho 'chia hết cho 8' và là điều kiện đủ cho 'là số chẵn'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "không có nguồn riêng; tự kiểm bằng logic/số học, dựa định nghĩa điều kiện vật chất"
+        }
+      ]
+    },
+    {
+      "text": "Điều kiện đủ có thể là bó nhiều điều kiện đi cùng nhau; tách lẻ thì mỗi cái chỉ còn là cần",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "Insufficient but Necessary parts of a condition which is itself Unnecessary but Sufficient",
+          "where": "Mackie INUS"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "8|n→4|n và 4|n→2|n: tự kiểm đúng. Bó điều kiện 'cùng đủ' khớp ý INUS của Mackie mà SEP nhắc, dù SEP không định nghĩa 'jointly sufficient' trực tiếp; mức 'tách lẻ chỉ còn là cần' là cách nói đơn giản hóa hợp lý."
+}

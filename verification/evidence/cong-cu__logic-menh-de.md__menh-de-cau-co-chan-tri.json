@@ -1,0 +1,104 @@
+{
+ "unit": "cong-cu/logic-menh-de.md#menh-de-cau-co-chan-tri",
+ "hash": "sha256:3d8cb4e312177469e5854087aaba96da7b5c5091cab0ed70372aae8f20ed144c",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-p03",
+ "claims": [
+  {
+   "text": "Một mệnh đề là một câu khẳng định mà ta có thể nói nó đúng hay sai — chân trị (truth value)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "capable of having a truth-value, such as being true or false",
+     "where": "§1"
+    }
+   ]
+  },
+  {
+   "text": "coi mỗi mệnh đề đơn giản là một khối không thể chia nhỏ: đúng hoặc sai, không có thứ ba",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "assumes that there are are only two possible truth-values a statement (whether simple or complex) can have",
+     "where": "§1 (bivalence)"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "propositional logic does not study those logical properties and relations that depend upon parts of statements",
+     "where": "§1"
+    }
+   ]
+  },
+  {
+   "text": "ý tưởng đã ngầm có trong công trình của Peirce, Jevons, Venn ở thế kỷ XIX",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "It seems to have been at least implicit in the work of Peirce",
+     "where": "§2 History (Jevons, Carroll, Venn, Marquand cũng được nêu)"
+    }
+   ]
+  },
+  {
+   "text": "xuất hiện tường minh từ năm 1909",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Truth tables appear explicitly in writings by Eugen Müller as early as 1909.",
+     "where": "§2 History"
+    }
+   ]
+  },
+  {
+   "text": "chỉ trở nên phổ biến từ đầu thập niên 1920, nhờ Emil Post (1921) và Wittgenstein (Tractatus, 1921)",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Their use gained rapid popularity in the early 1920s",
+     "where": "§2 History"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "whose 1921 work makes liberal use of them",
+     "where": "§2 (Post)"
+    },
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "in which truth tables and truth-functionality are prominently featured.",
+     "where": "§2 (Tractatus 1921)"
+    }
+   ]
+  },
+  {
+   "text": "Câu hỏi, mệnh lệnh, cảm thán, câu mơ hồ không phải mệnh đề; 'Hà Nội là thủ đô' đúng, '2 + 2 = 5' là mệnh đề sai",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "A statement can be defined as a declarative sentence",
+     "where": "§1 (câu khai báo có chân trị)"
+    }
+   ]
+  }
+ ],
+ "checklist": {
+  "dung-nguon": true,
+  "manh-nhat": true,
+  "phan-bac": null,
+  "trung-lap": true,
+  "thuat-ngu": true
+ },
+ "result": "dat",
+ "notes": "Ghi chú: IEP gọi 'statement' và nói 'proposition' đôi khi dùng đồng nghĩa; cách dùng của bài chấp nhận được. Ví dụ 'Phở ngon' là minh họa của site."
+}

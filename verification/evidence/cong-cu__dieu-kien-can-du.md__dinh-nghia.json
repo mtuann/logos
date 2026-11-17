@@ -1,0 +1,77 @@
+{
+  "unit": "cong-cu/dieu-kien-can-du.md#dinh-nghia",
+  "hash": "sha256:ce69021729f59be92adbcd2204b1e540281fce62660faf59d16e488142374454",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p04",
+  "claims": [
+    {
+      "text": "P là điều kiện đủ cho Q khi có P thì chắc chắn có Q. Ký hiệu P → Q",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "where": "von Wright; sufficient = absence of A necessary for absence of B, tức P→Q"
+        }
+      ]
+    },
+    {
+      "text": "P là điều kiện cần cho Q khi không có P thì chắc chắn không có Q. Ký hiệu Q → P",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "B is a necessary condition of A =df the absence of B is a sufficient condition of the absence of A",
+          "where": "von Wright; tương đương Q→P"
+        }
+      ]
+    },
+    {
+      "text": "'P đủ cho Q' sai trong đúng một trường hợp: P đúng mà Q sai. 'P cần cho Q' (Q → P) sai khi Q đúng mà P sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is false only when p is true and q is false",
+          "where": "material conditional; áp dụng cho P→Q và Q→P"
+        }
+      ]
+    },
+    {
+      "text": "Ví dụ: vé là cần chưa đủ; oxy cần chưa đủ cho sự cháy (còn cần chất cháy, nhiệt độ); bội của 4 đủ nhưng không cần cho số chẵn (6 chẵn không phải bội của 4)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "where": "áp dụng định nghĩa; tự kiểm bằng logic: 4|n→2|n, 6 chẵn không chia hết cho 4"
+        }
+      ]
+    },
+    {
+      "text": "Hình vẽ: P đủ cho Q thì vòng P nằm trong vòng Q; P cần cho Q thì vòng Q nằm trong vòng P",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "A is a sufficient condition of B =df the absence of A is a necessary condition of the absence of B",
+          "where": "P→Q ⇔ tập P ⊆ tập Q; tự kiểm bằng logic"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tự kiểm: bảng chân trị P→Q và Q→P khớp. Thuật ngữ 'điều kiện cần/đủ' khớp HUONG-DAN-VIET mục 3, có English term lần đầu."
+}

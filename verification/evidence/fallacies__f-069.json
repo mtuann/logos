@@ -1,0 +1,85 @@
+{
+  "unit": "fallacies/f-069",
+  "hash": "sha256:20756caea5125773d7184f63a11ad046b0b9216298757ce197d4345ad0657492",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: appeal-authority",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when authorities disagree on this subject (except for the occasional lone wolf)",
+          "where": "Appeal to Authority"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Similarly, when there is controversy, and authorities are divided, it is an error to base one’s view on the authority of just some of them.",
+          "where": "mục 1.9"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Tiến sĩ K. đúng là người trong ngành, nhưng khi giới chuyên môn còn chia rẽ, ý kiến của một người không thể kết thúc cuộc tranh luận. Cô Phương dùng uy tín để đóng cuộc bàn bạc thay vì đưa bằng chứng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "Similarly, when there is controversy, and authorities are divided, it is an error to base one’s view on the authority of just some of them.",
+          "where": "mục 1.9"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Viện dẫn chuyên gia là lý do hợp lý khi giới chuyên môn đồng thuận khá rộng; ở đây họ còn bất đồng, và cô Phương lại coi ý kiến một người là dứt điểm.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Most reasoning of this kind is not fallacious, and much of our knowledge properly comes from listening to authorities.",
+          "where": "Appeal to Authority"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when authorities disagree on this subject (except for the occasional lone wolf)",
+          "where": "Appeal to Authority"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-popularity: Cô Phương dựa vào một chuyên gia, không phải vào số đông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If you suggest too strongly that someone’s claim or argument is correct simply because it’s what most everyone believes, then your reasoning contains the Fallacy of Appeal to the People.",
+          "where": "Appeal to the People"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định sẵn trong tiền đề; tiền đề là ý kiến của một người khác.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A form of circular reasoning in which a conclusion is derived from premises that presuppose the conclusion.",
+          "where": "Begging the Question"
+        }
+      ]
+    },
+    {
+      "text": "passage: Hiện giới ngôn ngữ học vẫn còn bất đồng lớn về độ tuổi bắt đầu học ngoại ngữ phù hợp.",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    }
+  ],
+  "result": "chua-kiem-duoc",
+  "notes": "Đáp án appeal-authority đúng. Câu dữ kiện thế giới thật về bất đồng của giới ngôn ngữ học (độ tuổi bắt đầu học ngoại ngữ) chưa tìm được nguồn nói thẳng điều đó: đã thử Birdsong 2018 (doi 10.3389/fpsyg.2018.00081), chỉ nói chung về critical period; không đoán. Đây là tiền đề giả định của bài tập nên rủi ro thấp."
+}

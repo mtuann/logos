@@ -1,0 +1,82 @@
+{
+  "unit": "fallacies/f-045",
+  "hash": "sha256:c629c058608cb283dbe38978e7e351905997664449ac4f6722f2cf8a8c51f476",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f03",
+  "claims": [
+    {
+      "text": "answer: denying-antecedent",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "options: denying-antecedent, begging-question, affirming-consequent, none; không phương án nhiễu nào cũng hợp lý với đoạn (đã đọc từng phương án đối chiếu với đoạn)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Câu nội quy chỉ nói đăng ký là điều kiện đủ để gửi xe, không nói nó là điều kiện cần. Từ “không phải cư dân đăng ký” không suy ra “không được gửi”, và thực tế còn điều khoản cho khách.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.affirming-consequent: Bảo vệ không khẳng định hậu kiện; anh phủ định tiền kiện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "This formal fallacy is often mistaken for Modus Ponens, which is a valid form of reasoning also using a conditional.",
+          "where": "mục Affirming the Consequent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.none: Nếu nội quy ghi “chỉ cư dân đã đăng ký mới được gửi xe ở hầm” thì kết luận của bảo vệ hợp lệ. Câu “nếu… thì” không có nghĩa đó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "You are using this fallacy if you deny the antecedent of a conditional and then suppose that doing so is a sufficient reason for denying the consequent.",
+          "where": "mục Denying the Antecedent"
+        }
+      ]
+    },
+    {
+      "text": "why_not.begging-question: Kết luận không được giả định sẵn trong tiền đề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "This argument begs the question because the premise and conclusion are the very same proposition, albeit expressed in different words.",
+          "where": "mục 5 (SEP)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

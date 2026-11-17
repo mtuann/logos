@@ -1,0 +1,62 @@
+{
+ "unit": "fallacies/f-036",
+ "hash": "sha256:4fcadba755ccfa053432458522fdd250a96f1764d7db8c699451ab4456f3b737",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-f02",
+ "claims": [
+  {
+   "text": "answer: slippery-slope",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present."
+    }
+   ]
+  },
+  {
+   "text": "options: straw-man, appeal-emotion, begging-question không hợp lý hơn",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present."
+    }
+   ]
+  },
+  {
+   "text": "explanation: chuỗi bước không có lý do nào được đưa ra",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+     "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion"
+    }
+   ]
+  },
+  {
+   "text": "why_not.straw-man / appeal-emotion / begging-question",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "whenever you attribute an easily refuted position to your opponent, one that the opponent would not endorse"
+    },
+    {
+     "url": "https://iep.utm.edu/fallacy/",
+     "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": ""
+}

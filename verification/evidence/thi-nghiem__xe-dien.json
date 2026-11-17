@@ -1,0 +1,100 @@
+{
+  "unit": "thi-nghiem/xe-dien",
+  "hash": "sha256:ec1870c1a5e36fd50ddd3cb57b5acb51048a0f8ba2b7d61485795a3f0ddfa0ad",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-d03",
+  "claims": [
+    {
+      "text": "nguon: Foot (1967)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "Foot, Philippa, 1967: \"The Problem of Abortion and the Doctrine of the Double Effect,\" Oxford Review, 5: 5–15",
+          "where": "Bibliography"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Thomson (1976)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/monist/article-lookup/doi/10.5840/monist197659224",
+          "quote": "Killing, Letting Die, and The Trolley Problem — Judith Jarvis Thomson — The Monist 59(2), 1976, pp. 204–217",
+          "where": "doi 10.5840/monist197659224"
+        }
+      ]
+    },
+    {
+      "text": "nguon: Thomson (1985)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "Thomson, Judith Jarvis, 1985: \"The Trolley Problem,\" The Yale Law Journal, 94: 1395–1415",
+          "where": "Bibliography"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "examples from Thomson, 1985, based on examples in Foot 1967",
+          "where": "Trolley examples"
+        }
+      ]
+    },
+    {
+      "text": "hoan_canh: người ngoài cuộc đứng cạnh cần gạt, xe điện chạy mất kiểm soát, chuyển hướng giết một người thay vì năm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/double-effect/",
+          "quote": "You are a bystander standing near a switch watching a runaway trolley barrel down a track",
+          "where": "Trolley example"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "one may turn the trolley \"so as to save five workmen\"",
+          "where": "Section 2.1"
+        }
+      ]
+    },
+    {
+      "text": "so_lieu_khao_sat a: 63.4; b: 13.3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/bai-toan-xe-dien-be-ghi"
+    },
+    {
+      "text": "lua_chon a: Hệ quả luận (consequentialism) gắn với việc kéo cần gạt",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "Consequentialism will permit \"that a fat man be pushed in front of a runaway trolley\"; objections include that it \"seemingly permits\" killing innocents for greater benefits",
+          "where": "Section 1"
+        }
+      ]
+    },
+    {
+      "text": "lua_chon b: Nghĩa vụ luận (deontology)... Kéo cần gạt nghĩa là bạn chủ động chọn lấy mạng một người vô tội — biến họ thành phương tiện cho mục đích của bạn.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "In Trolley, on the other hand, the doomed victim is not used; some deontologists allow turning the trolley",
+          "where": "Section 2.1-2.2"
+        }
+      ],
+      "severity": "vua",
+      "fix": "Người theo nghĩa vụ luận cho rằng có những điều không được làm, bất kể hậu quả. Kéo cần gạt nghĩa là bạn chủ động chọn lấy mạng một người vô tội, một việc nhiều người coi là xâm phạm quyền của họ. (Lưu ý: một số nhà nghĩa vụ luận vẫn cho phép chuyển hướng xe, và chỉ cấm đẩy người như ở thí nghiệm Cây cầu, nơi nạn nhân bị dùng làm phương tiện.) Không ai có quyền quyết định ai sống ai chết, dù là vì số đông."
+    }
+  ],
+  "result": "sua",
+  "notes": "Lỗi vừa: lập trường \"nghĩa vụ luận\" gắn với \"không kéo\" bị đơn giản hóa; SEP Deontological Ethics (mục 2.1-2.2) nói một số nhà nghĩa vụ luận cho phép chuyển hướng xe và rằng ở Trolley nạn nhân không bị dùng làm phương tiện (khác Fat Man). Câu \"biến họ thành phương tiện\" đúng cho thí nghiệm Cây cầu, không đúng cho cần gạt. Foot 1967: SEP Double Effect ghi 1967 (SEP Doing and Allowing ghi bản in lại 1978). URL SEP dùng bản lưu fall2026."
+}

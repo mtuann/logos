@@ -1,0 +1,45 @@
+{
+ "unit": "logic/logic-09",
+ "hash": "sha256:d02f954cab0b7d1d549386e7d1e879d378d5b89d51880c34e2eceddcb9e30239",
+ "checked_on": "2026-11-17",
+ "checker": "agent-kiem-5.5-d02",
+ "claims": [
+  {
+   "text": "dap_an: hop-le",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):",
+     "where": "Bảng chân trị tự lập bằng script Python (tt.py, duyệt mọi gán P,Q,R,S): không có phản ví dụ; nguồn nêu quy tắc/dạng suy luận"
+    }
+   ]
+  },
+  {
+   "text": "premises/conclusion khớp đề bài tiếng Việt",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Disjunctive syllogism (DS):",
+     "where": "Ký hiệu đối chiếu thủ công với đề; ký hiệu quy ước theo IEP Propositional Logic"
+    }
+   ]
+  },
+  {
+   "text": "giai_thich (nếu Q đúng thì P và Q đã đúng)",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://iep.utm.edu/prop-log/",
+     "quote": "Modus ponens (MP):"
+    }
+   ]
+  }
+ ],
+ "result": "dat",
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề. Mỗi claim ký hiệu: nguồn IEP là bản kiểm lập luận về quy tắc, không phải bản lưu SEP."
+}

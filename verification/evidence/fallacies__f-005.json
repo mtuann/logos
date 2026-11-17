@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-005",
+  "hash": "sha256:ab11ed20d819d21e937c4f8b0182126109aa45b2202383b440ce94b32e8d4276",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f01",
+  "claims": [
+    {
+      "text": "answer: sunk-cost",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "mục về giá trị và lý do (SEP Practical Reason; không có mục ngụy biện chi phí chìm riêng)"
+        }
+      ]
+    },
+    {
+      "text": "explanation: 150 nghìn đã mất dù anh ở lại hay ra về. Ngồi tiếp chỉ thêm tốn thời gian và lỡ việc gấp; khoản tiền cũ không nên quyết định lựa chọn bây giờ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/practical-reason/",
+          "quote": "which can look like an irrational weighting of ‘sunk costs’ to the consequentialist",
+          "where": "mục về giá trị và lý do (SEP Practical Reason; không có mục ngụy biện chi phí chìm riêng)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.appeal-emotion: Anh Tú không bị ai dùng cảm xúc để thuyết phục; anh tiếc khoản đã chi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "mục Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Không có hai lựa chọn nào bị đặt ra sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "mục False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.post-hoc: Không có kết luận nhân quả nào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "hastily leap to the conclusion that A caused B",
+          "where": "mục Post Hoc"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Logic đúng (150 nghìn mất dù ở hay về). SEP/IEP không có mục ngụy biện chi phí chìm; nguồn duy nhất tìm được là SEP Practical Reason nói việc tính \"sunk costs\" có thể trông phi lý với chủ nghĩa hệ quả (và SEP Moral Decision-Making Under Uncertainty ghi có tranh luận về ý nghĩa đạo đức của sunk costs). Định nghĩa loại đã nằm ở khóa fallacy-types/sunk-cost."
+}

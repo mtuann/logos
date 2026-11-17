@@ -1,0 +1,52 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#luot-hai-phan-tich-cham-tung-doan",
+  "hash": "sha256:f9787868e51d284278520c9a7d7ec87bdc911dca7d1743af40d71026c676f0fd",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-p09",
+  "claims": [
+    {
+      "text": "Để ý các từ chỉ báo — chúng là biển chỉ đường của lập luận: báo tiền đề (vì, bởi vì, do, xét rằng...), báo kết luận (vì vậy, do đó, cho nên, suy ra...)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "Typical premise indicators include: “because”, “since”, “for”, and “as”, ... typical conclusion indicators include “therefore”, “thus”, “hence”, and “so”.",
+          "where": "mục về premise/conclusion indicators"
+        }
+      ]
+    },
+    {
+      "text": "Mỗi đoạn có tiền đề (lý do đỡ cho khẳng định) và kết luận (điều rút ra từ lý do)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "The reasons offered within the argument are called “premises” ... the proposition that the premises are offered for is called the “conclusion”."
+        }
+      ]
+    },
+    {
+      "text": "Cột 'Báo nhượng bộ / phản biện: tuy nhiên, mặc dù, dù rằng, có người sẽ nói rằng'; luận đề (thesis) là điều đoạn khẳng định; kỹ thuật ghi chú lề",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "these expressions do not always function in these ways",
+          "where": "IEP chỉ nêu chỉ báo tiền đề/kết luận và lưu ý chúng không phải lúc nào cũng hoạt động như vậy"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hàng 'nhượng bộ/phản biện' và 'thesis' là cách dạy của site, không phải định nghĩa chuẩn của IEP; không sai. Site không nhắc rằng chỉ báo có thể không báo lập luận (IEP lưu ý); không phải lỗi."
+}

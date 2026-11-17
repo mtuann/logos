@@ -1,0 +1,70 @@
+{
+  "unit": "fallacies/f-079",
+  "hash": "sha256:10b5cd48c167220f79421d57f3362c2a9d0a227359ced430b846dfcaebee0269",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.5-f04",
+  "claims": [
+    {
+      "text": "answer: appeal-emotion",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "explanation: Lo cho gia đình có thể là lý do để tìm hiểu bảo hiểm, nhưng nó không cho thấy vì sao gói cao nhất phù hợp với thu nhập và nhu cầu của anh Phúc, hay vì sao phải ký ngay. Hình ảnh gợi sợ hãi được dùng thay cho so sánh các gói.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Your reasoning contains the Fallacy of Appeal to Emotions when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Không có chuỗi bước nhỏ dẫn tới thảm họa; chỉ có một hình ảnh gây sợ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the likelihood of the trouble occurring is exaggerated, the Slippery Slope Fallacy is present.",
+          "where": "Slippery Slope"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Người bán không nói rõ “hoặc gói cao nhất, hoặc gia đình khốn khó”; lực đẩy chính là cảm xúc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Người bán không né câu hỏi nào của anh Phúc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Đáp án đúng, không phương án nhiễu nào hợp lý song song; explanation và why_not khớp định nghĩa SEP/IEP và bản ghi fallacy-types."
+}
