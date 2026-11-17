@@ -1,8 +1,8 @@
 {
   "unit": "sources/wikisource.zh.d8922572ee",
-  "hash": "sha256:49b796a1d1dd25630a37f2d9645e8d9c512151a4749c0ac2f0b4ce38e3846edd",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r03",
+  "hash": "sha256:1c529010edc985d13d7886deecfa5d8bae0808ef5d77f2872a94c73bea75d201",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-r03 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Bản kỷ quyển 10 có nguyên văn Bình Ngô đại cáo",
@@ -61,8 +61,21 @@
           "where": "quyển 12"
         }
       ]
+    },
+    {
+      "text": "Thêm link quyển 12 <https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二> (mở được)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二",
+          "quote": "甲申，光順五年（明天順八年）[1464年]",
+          "where": "mở lại 2026-11-17 (HTTP 200); có cả 丁亥，光順八年（明成化三年）[1467年]"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): URL quyển 12 không có trong bản ghi (chỉ mô tả 'quyển 11 và 12'), đề nghị thêm. Đã xác nhận vị trí: đoạn '於是兵革偃息' nằm trong mục 丁未, trước mục 戊申順天元年."
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r03): URL quyển 12 không có trong bản ghi (chỉ mô tả 'quyển 11 và 12'), đề nghị thêm. Đã xác nhận vị trí: đoạn '於是兵革偃息' nằm trong mục 丁未, trước mục 戊申順天元年. [doi-loi] Thêm URL quyển 12 vào dòng Nguồn theo gợi ý kiểm 5.2 (r03) và 5.4 (viec-cho 2026-11-17); tách mô tả: quyển 11 (án 1442), quyển 12 (1464, 1467)."
 }

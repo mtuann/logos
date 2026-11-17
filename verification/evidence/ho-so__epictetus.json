@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/epictetus",
-  "hash": "sha256:dd045ccdf120c508c022f0a7889b4263d8d66b20f7e01f508fec38b538d858e6",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r04",
+  "hash": "sha256:1e04c481d6926a3816dca4755f70c920be97b8c6e0da02e164a77ea29f63cbb5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.3-r04 + claude-doi-loi-5",
   "claims": [
     {
       "text": "desc: từng là nô lệ; tự do nằm ở phán đoán; điều làm ta khổ là cách nhìn sự việc",
@@ -445,8 +445,15 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sep.epictetus"
+    },
+    {
+      "text": "sources: dòng Gutenberg #10661 bỏ 'in đầy đủ lần đầu', ghi 'bản đầy đủ: The Discourses…, London: George Bell, 1877'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "kb": "sources/gutenberg.10661"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r04): 5 claim mở đều đã có nguồn (trình duyệt có sẵn); giữ nguyên các claim dung của lượt 1. Perseus (Epictetus, Discourses, bản George Long, có số quyển/chương): chiếc đèn sắt ở I.18; 'Appearances, wait for me a little' ở II.18; bổn phận 'as a son, as a father, as a citizen' ở III.2 (IEP cũng dẫn 3.2.4). IEP Epictetus: Discourses và Handbook đều do Arrian soạn (IEP ghi ý kiến khác của Dobbin 1998). Phản ứng tự động: Aulus Gellius, Noctes Atticae XIX.1.14–18 (bản Latin, LacusCurtius; bản tiếng Anh quyển XIX không có trên site) dẫn quyển V Diễn từ: cả người hiền cũng thoáng tái mặt trước tiếng động đáng sợ, nhưng không tán thành ấn tượng ấy. || Kiểm 5.3 (agent-kiem-5.3-h07): SEP, Gutenberg 10661 (Long), 18269 (Trotter), IEP stoicism mở bằng trình duyệt. Số chương Diễn từ (I.18, II.18, I.1) chưa đối chiếu được vì bản Long không đánh số; nên dẫn Oldfather/Perseus nếu muốn khóa locator. Lời tựa Arrian về Cẩm nang: SEP chỉ nói là 'abridgment', chưa thấy nói Arrian soạn; nên viết 'bản tóm lược' không gán Arrian, hoặc dẫn Simplicius. Quote 'Ellis' là diễn giải IEP ('early versions of CBT' có gốc Khắc kỷ). Pascal nói 'đoạn 467' đúng bản Trotter."
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r04): 5 claim mở đều đã có nguồn (trình duyệt có sẵn); giữ nguyên các claim dung của lượt 1. Perseus (Epictetus, Discourses, bản George Long, có số quyển/chương): chiếc đèn sắt ở I.18; 'Appearances, wait for me a little' ở II.18; bổn phận 'as a son, as a father, as a citizen' ở III.2 (IEP cũng dẫn 3.2.4). IEP Epictetus: Discourses và Handbook đều do Arrian soạn (IEP ghi ý kiến khác của Dobbin 1998). Phản ứng tự động: Aulus Gellius, Noctes Atticae XIX.1.14–18 (bản Latin, LacusCurtius; bản tiếng Anh quyển XIX không có trên site) dẫn quyển V Diễn từ: cả người hiền cũng thoáng tái mặt trước tiếng động đáng sợ, nhưng không tán thành ấn tượng ấy. || Kiểm 5.3 (agent-kiem-5.3-h07): SEP, Gutenberg 10661 (Long), 18269 (Trotter), IEP stoicism mở bằng trình duyệt. Số chương Diễn từ (I.18, II.18, I.1) chưa đối chiếu được vì bản Long không đánh số; nên dẫn Oldfather/Perseus nếu muốn khóa locator. Lời tựa Arrian về Cẩm nang: SEP chỉ nói là 'abridgment', chưa thấy nói Arrian soạn; nên viết 'bản tóm lược' không gán Arrian, hoặc dẫn Simplicius. Quote 'Ellis' là diễn giải IEP ('early versions of CBT' có gốc Khắc kỷ). Pascal nói 'đoạn 467' đúng bản Trotter. [doi-loi] Dòng nguồn Gutenberg #10661 sửa theo bản ghi sources/gutenberg.10661 (quyết định 35)."
 }

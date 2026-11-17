@@ -1,8 +1,8 @@
 {
   "unit": "doc/nguyen-trai-binh-ngo.md#nguon",
-  "hash": "sha256:798240bbbb71e6301d90a55c20f3a5b8d3aa5bc2538b4299dbbcfab97d60ef16",
+  "hash": "sha256:3225c127f146038d25b8797cc7549a82726e1af046ab5b5c161fff961f4d4ce0",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04 + claude-doi-loi-5",
   "claims": [
     {
       "text": "Mục 1: Toàn thư bản kỷ quyển 10 (nguyên văn bài cáo, cuối năm Đinh Mùi); quyển 11 và 12 (án 1442; việc 1464, 1467)",
@@ -104,6 +104,19 @@
           "where": "PDF trang đầu; danh mục tham khảo [1]: Bùy Duy Tân (2007), Bình Ngô đại cáo, văn bản – bản dịch – nhan đề, Tạp chí Nghiên cứu văn học, số 6"
         }
       ]
+    },
+    {
+      "text": "Mục 1: thêm link quyển 12 cho 'quyển 12 (việc năm 1464, 1467)'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "fixed": true,
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之十二",
+          "quote": "丁亥，光順八年（明成化三年）[1467年]",
+          "where": "mở lại 2026-11-17 (HTTP 200)"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -114,5 +127,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Hai mục chưa kiểm hết: (a) mục 4: số hiệu 1B11 (ctext.org chặn bot; web.archive.org bị chặn; zh.wikisource không đánh số). (b) mục 7: bài Bùi Duy Tân 2007 không mở được; bài Lý Thơ Phúc 2008 có tồn tại và đúng tiêu đề/số/tạp chí (vjol), URL hcmue là PDF khớp tác giả Lý Thơ Phúc (metadata citation_title) nhưng không đọc được văn bản để xác nhận trích dẫn về Bùi Duy Tân. Lưu ý: mục 3 \"(năm 1944)\" ghi ở phần giới thiệu bản dịch; trang in lần ba Tân Việt 1956. Các URL còn lại mở được.\nLượt 2: mục 4 và mục 7 trùng bản ghi sources/* đã frozen; mục 7 mở được PDF (đọc qua trích văn bản), xác nhận tên bài, số 13/2008 và chi tiết bài Bùi Duy Tân 2007 số 6 qua danh mục tham khảo."
+  "notes": "Hai mục chưa kiểm hết: (a) mục 4: số hiệu 1B11 (ctext.org chặn bot; web.archive.org bị chặn; zh.wikisource không đánh số). (b) mục 7: bài Bùi Duy Tân 2007 không mở được; bài Lý Thơ Phúc 2008 có tồn tại và đúng tiêu đề/số/tạp chí (vjol), URL hcmue là PDF khớp tác giả Lý Thơ Phúc (metadata citation_title) nhưng không đọc được văn bản để xác nhận trích dẫn về Bùi Duy Tân. Lưu ý: mục 3 \"(năm 1944)\" ghi ở phần giới thiệu bản dịch; trang in lần ba Tân Việt 1956. Các URL còn lại mở được.\nLượt 2: mục 4 và mục 7 trùng bản ghi sources/* đã frozen; mục 7 mở được PDF (đọc qua trích văn bản), xác nhận tên bài, số 13/2008 và chi tiết bài Bùi Duy Tân 2007 số 6 qua danh mục tham khảo. [doi-loi] Mục 1 thêm link quyển 12 (trước chỉ có link quyển 11)."
 }
