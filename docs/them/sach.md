@@ -7277,7 +7277,7 @@ Chữ "án tử hình" là Hán Việt: *án* (案, vụ việc đã xét xử) 
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ??? question "Sau khi bạn đã tự trả lời"
-    Một biến thể để thử thêm: giả sử thay vì 1/100, tỷ lệ oan sai là 1/10.000 — và giả sử án tử hình *chắc chắn* răn đe được, mỗi năm cứu 500 mạng người vô tội khỏi bị giết. Bạn có đổi 1 người vô tội bị xử oan lấy 500 người vô tội được cứu không? Câu trả lời của bạn cho biến thể này cho thấy bạn là người theo hệ quả (tính toán tổng thiệt hại) hay người theo nghĩa vụ (có những việc không được làm dù lợi ích lớn đến đâu) — và đó chính là đường ranh triết học của cả bài này.
+    Một biến thể để thử thêm: giả sử thay vì 1/100, tỷ lệ oan sai là 1/10.000 — và giả sử án tử hình *chắc chắn* răn đe được, mỗi năm cứu 500 mạng người vô tội khỏi bị giết. Bạn có đổi 1 người vô tội bị xử oan lấy 500 người vô tội được cứu không? Câu trả lời của bạn cho biến thể này cho thấy bạn nghiêng về **hệ quả luận** (*consequentialism*: tính toán tổng thiệt hại) hay **nghĩa vụ luận** (*deontology*: có những việc không được làm dù lợi ích lớn đến đâu) — và đó chính là đường ranh triết học của cả bài này.
 
 ## Câu hỏi thật sự là gì?
 
@@ -7344,7 +7344,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Câu về luật pháp không phải là câu về án tử.** Nó hỏi một chuyện khác: luật có tồn tại và có nội dung chỉ nhờ các sự kiện xã hội (ai ban hành, được thừa nhận ra sao) — tức thực chứng luận — hay còn phụ thuộc một phần vào đạo đức. Hai phe gần ngang nhau, và mẫu chỉ khoảng [[pp:luat-phap/n]] người.
 - **Ý kiến của giới triết học không phải là thẩm quyền đạo đức**, và mẫu khảo sát không đại diện cho xã hội: người trả lời là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh. Con số này nói về một cộng đồng nghề nghiệp cụ thể, không nói thay cho dư luận ở Việt Nam hay ở bất kỳ nước nào.
 
-Con số khớp với nhận xét rằng trong giới triết học đạo đức đương đại, cán cân tranh luận học thuật nghiêng về phía hoài nghi án tử hình — các bài báo triết học về chủ đề này trong vài thập kỷ qua chủ yếu là phê phán (tập trung vào oan sai, phân biệt đối xử và tính tùy tiện trong áp dụng). Nhưng đa số không quyết định chân lý: lập luận báo ứng của phe ủng hộ và giải pháp của phe trung gian vẫn phải được xét bằng chính lý lẽ của chúng.
+Con số cho thấy, trong cộng đồng triết gia được khảo sát, đa số nghiêng về phía cho rằng án tử hình không được phép. Nhưng đa số không quyết định chân lý: lập luận báo ứng của phe ủng hộ và giải pháp của phe trung gian vẫn phải được xét bằng chính lý lẽ của chúng.
 
 ## Liên hệ đời sống
 
@@ -7354,7 +7354,7 @@ Con số khớp với nhận xét rằng trong giới triết học đạo đứ
 
 **Răn đe trong đời sống hàng ngày.** Lập luận răn đe không chỉ xuất hiện ở án tử hình. Trường học phạt nặng để "làm gương", công ty sa thải công khai để "răn đe", bố mẹ đánh đòn để "cho chừa" — tất cả đều dùng cùng một logic hệ quả: làm khổ một người để ngăn nhiều người khác. Lần tới khi bạn ủng hộ một hình phạt "cho chừa", hãy tự hỏi theo đúng cấu trúc của bài này: bằng chứng hiệu quả đâu (câu hỏi thứ nhất), và nếu phạt nhầm thì có sửa được không (câu hỏi thứ hai)? Hai câu hỏi đó áp dụng cho mọi hình phạt, không riêng án tử.
 
-**Chi phí của sự chắc chắn.** Một điểm ít được bàn: để giảm rủi ro oan sai, hệ thống phải kéo dài thủ tục kháng cáo hàng chục năm, với chi phí tố tụng khổng lồ — ở Mỹ, một vụ án tử tốn kém hơn nhiều lần một vụ án chung thân. Đó là một đánh đổi thực tế mà cả hai phe đều phải tính: phe ủng hộ phải chấp nhận rằng "án tử chắc chắn đúng" là một thứ đắt đỏ; phe chống phải chấp nhận rằng tiền đó có thể dùng để cải thiện cả hệ thống tư pháp. Triết học không quyết định ngân sách, nhưng nó nhắc ta rằng mọi lựa chọn đạo đức đều có hóa đơn.
+**Chi phí của sự chắc chắn.** Một điểm ít được bàn: để giảm rủi ro oan sai, hệ thống phải kéo dài thủ tục kháng cáo hàng chục năm, với chi phí tố tụng khổng lồ — ở Mỹ, một vụ án tử tốn kém hơn nhiều so với một vụ án chung thân. Đó là một đánh đổi thực tế mà cả hai phe đều phải tính: phe ủng hộ phải chấp nhận rằng "án tử chắc chắn đúng" là một thứ đắt đỏ; phe chống phải chấp nhận rằng tiền đó có thể dùng để cải thiện cả hệ thống tư pháp. Triết học không quyết định ngân sách, nhưng nó nhắc ta rằng mọi lựa chọn đạo đức đều có hóa đơn.
 
 ## Tự kiểm tra
 
