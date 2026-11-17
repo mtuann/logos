@@ -1963,7 +1963,7 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đi tiếp
 
-Bạn đã đi hết trục "Công cụ tư duy". Bây giờ là lúc dùng chúng vào những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](../cong-cu/lap-luan-la-gi.md).
+Đến đây bạn đã có đủ công cụ để bắt đầu với những câu hỏi lớn: ta có thực sự *biết* điều gì không, một cỗ máy có thể có tâm trí không, ta có tự do ý chí không. Hãy chọn một: [tri thức](../cau-hoi/tri-thuc.md), [tâm trí và AI](../cau-hoi/tam-tri-va-ai.md), hoặc [tự do ý chí](../cau-hoi/tu-do-y-chi.md). Trục "Công cụ tư duy" còn tiếp với [Đọc văn bản khó](../cong-cu/doc-van-ban-kho.md); nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](../cong-cu/lap-luan-la-gi.md).
 
 ## Nguồn
 
@@ -2054,9 +2054,9 @@ Nếu sau ba lượt vẫn tắc ở một đoạn, đừng cố đâm đầu v�
 
 **Lượt ba:** Đánh giá.
 
-- *Hợp lệ?* Có, nếu hiểu "đúng đắn" là "nên làm" — khi đó khuôn này là một tam đoạn luận: tiền đề đúng thì kết luận đúng.
-- *Tiền đề có đúng không?* Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông. Tiền đề 1 đáng ngờ hơn: "đúng đắn" có thực sự đồng nghĩa với "làm giảm tội phạm"? Người theo nghĩa vụ luận sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).
-- *Giả định ngầm?* "Đúng đắn" = "mang lại hậu quả tốt" — chính là lập trường **hệ quả luận**, được lén đưa vào như điều hiển nhiên.
+- *Hợp lệ?* Có, nếu hiểu "đúng đắn" là "nên làm" — khi đó khuôn này là một tam đoạn luận (*syllogism*): tiền đề đúng thì kết luận đúng.
+- *Tiền đề có đúng không?* Tiền đề 2 là khẳng định thực nghiệm — cần số liệu thật, không thể tin suông. Tiền đề 1 đáng ngờ hơn: chỉ cần "làm giảm tội phạm" là đủ để một biện pháp "đúng đắn" sao? Người theo nghĩa vụ luận (*deontology*) sẽ nói: một biện pháp có thể giảm tội phạm mà vẫn sai trái (ví dụ trừng phạt cả người vô tội để răn đe).
+- *Giả định ngầm?* "Đúng đắn" = "mang lại hậu quả tốt" — chính là lập trường **hệ quả luận** (*consequentialism*), được lén đưa vào như điều hiển nhiên.
 
 Thấy không? Đoạn văn chỉ có bốn câu, mà lượt ba đã mở ra cả một tranh luận của đạo đức học. Đó là phần thưởng của việc đọc chậm.
 
