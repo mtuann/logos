@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/gia-dinh-ngam.md#quy-trinh-nam-buoc",
-  "hash": "sha256:61567924fc1418cb03ce408573cc542d736ea7bf87f5d451c766fea7c281ef05",
+  "hash": "sha256:e1dc723a989ffd0b7f0a3cf5d86f831cbaeb5909c6a0ce3f11cd869492337abb",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-r05",
+  "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-r05 + agent-kiem-5.5-k04",
   "claims": [
     {
       "text": "Giả định yếu nhất về mặt logic luôn là câu 'nếu [các tiền đề] thì [kết luận]'",
@@ -44,6 +44,21 @@
           "where": "mục 3.1; phê bình NLD ở mục 4.3: 'an artificial theory which forces informal arguments to adhere to an overly restrictive model of inference'"
         }
       ]
+    },
+    {
+      "text": "Thuật ngữ \"hợp lệ\" lần đầu trong bài (Bước 4) không kèm (*valid*).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bước 4. THÊM GIẢ ĐỊNH NGẦM  Thêm tiền đề TỐI THIỂU để lập luận trở nên hợp lệ (valid).",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "Deductive arguments may be said to be valid or invalid",
+          "where": "mục 1; quy định HUONG-DAN-VIET.md mục 3 (lần đầu kèm English term)"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -54,5 +69,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ghi chú nhẹ: bài trích nguồn mục 3.1 cho cả ý 'nếu P thì C'; chi tiết dạng điều kiện nằm ở mục 4.3 (cùng entry), không sai nguồn. Quy trình năm bước là của site (không gán cho nguồn). Lượt 2: thay 1 quote bằng nguyên văn trên trang tải về; kết luận không đổi."
+  "notes": "Ghi chú nhẹ: bài trích nguồn mục 3.1 cho cả ý 'nếu P thì C'; chi tiết dạng điều kiện nằm ở mục 4.3 (cùng entry), không sai nguồn. Quy trình năm bước là của site (không gán cho nguồn). Lượt 2: thay 1 quote bằng nguyên văn trên trang tải về; kết luận không đổi. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. (*valid*) được thêm ở lần đầu 'hợp lệ' trong văn xuôi (dòng 72, chỗ có link suy-dien.md), không ở dòng trong khối text sơ đồ như fix đề xuất. Chấp nhận: đúng ý (thuật ngữ lần đầu được giải thích kèm tiếng Anh), khối text là sơ đồ không định dạng."
 }

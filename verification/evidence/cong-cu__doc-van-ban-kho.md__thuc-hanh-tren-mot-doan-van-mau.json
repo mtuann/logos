@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/doc-van-ban-kho.md#thuc-hanh-tren-mot-doan-van-mau",
-  "hash": "sha256:e42a8ee02fe74b266112957b373dd28d51de2e7ffd57afa47c1c74c2852848e7",
+  "hash": "sha256:84be1869777a1424069e12a8d1ea6f8ab222bbc2778331b69293d9001e2d30d3",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p09",
+  "checker": "agent-kiem-5.5-p09 + agent-kiem-5.5-k04",
   "claims": [
     {
       "text": "Khuôn tam đoạn luận: 'biện pháp làm giảm tội phạm thì đúng đắn'; 'trừng phạt nghiêm khắc làm giảm tội phạm'; suy ra 'nên trừng phạt nghiêm khắc' là hợp lệ (nếu 'đúng đắn' = 'nên làm')",
@@ -65,6 +65,72 @@
           "where": "về tính đúng của hành vi"
         }
       ]
+    },
+    {
+      "text": "Tiền đề 1 đáng ngờ hơn: \"đúng đắn\" có thực sự đồng nghĩa với \"làm giảm tội phạm\"?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Tiền đề 1 đáng ngờ hơn: chỉ cần \"làm giảm tội phạm\" là đủ để một biện pháp \"đúng đắn\" sao?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is necessary for the truth of the antecedent",
+          "where": "mục 2: \"nếu… thì…\" chỉ nêu điều kiện đủ, không phải đồng nghĩa"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Thuật ngữ lần đầu trong bài: \"tam đoạn luận\", \"nghĩa vụ luận\", \"hệ quả luận\" không kèm *English term*.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "… khi đó khuôn này là một tam đoạn luận (*syllogism*) …; Người theo nghĩa vụ luận (*deontology*) sẽ nói …; … chính là lập trường **hệ quả luận** (*consequentialism*) …",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/consequentialism/",
+          "quote": "Consequentialism, as its name suggests",
+          "where": "tên thuật ngữ tiếng Anh; quy định HUONG-DAN-VIET.md mục 3: lần đầu xuất hiện trong bài kèm (*English term*)"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "tam đoạn luận (*syllogism*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aristotle-logic/",
+          "quote": "In modern usage, ‘syllogism’ means an argument of a very specific form",
+          "where": "mục 2 (Aristotle's Logic); thuật ngữ khớp HUONG-DAN-VIET.md mục 3"
+        }
+      ]
+    },
+    {
+      "text": "nghĩa vụ luận (*deontology*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-deontological/",
+          "quote": "The word deontology derives from the Greek words for duty ( deon ) and science (or study) of ( logos ).",
+          "where": "mở đầu; thuật ngữ khớp HUONG-DAN-VIET.md mục 3"
+        }
+      ]
+    },
+    {
+      "text": "Tiền đề 1 đáng ngờ hơn: chỉ cần \"làm giảm tội phạm\" là đủ để một biện pháp \"đúng đắn\" sao?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/necessary-sufficient/",
+          "quote": "is necessary for the truth of the antecedent",
+          "where": "mục 2: tiền kiện của 'nếu… thì…' là điều kiện đủ"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -75,5 +141,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tự kiểm: dạng 'Mọi M là R; T là M; vậy T là R' (Barbara) hợp lệ. Điều kiện 'nếu hiểu đúng đắn là nên làm' đã được site nêu rõ. Đoạn mẫu là văn Logos tự viết. Ví dụ trừng phạt người vô tội là ví dụ kinh điển của phản bác đối với hệ quả luận (SEP deontological không có đúng ví dụ này nhưng nêu nguyên tắc), không phải trích dẫn."
+  "notes": "Tự kiểm: dạng 'Mọi M là R; T là M; vậy T là R' (Barbara) hợp lệ. Điều kiện 'nếu hiểu đúng đắn là nên làm' đã được site nêu rõ. Đoạn mẫu là văn Logos tự viết. Ví dụ trừng phạt người vô tội là ví dụ kinh điển của phản bác đối với hệ quả luận (SEP deontological không có đúng ví dụ này nhưng nêu nguyên tắc), không phải trích dẫn. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (2), đã sửa đúng → fixed. c2: câu nay đúng nguyên văn fix (điều kiện đủ); c5: tam đoạn luận (*syllogism*), nghĩa vụ luận (*deontology*), hệ quả luận (*consequentialism*) khớp bảng thuật ngữ HUONG-DAN-VIET.md mục 3. Ngoài khóa: mục Bài tập (dòng 131) và quiz Tự kiểm tra (dòng 153) vẫn viết 'đồng nghĩa'. Thêm 3 claim cho chữ mới, nguồn mở trong phiên này."
 }

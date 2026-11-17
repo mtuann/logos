@@ -1,9 +1,42 @@
 {
  "unit": "cong-cu/nguy-bien.md#di-tiep",
- "hash": "sha256:f2efdc532c8a5ce3b9335d14e0f1d337eb44a8b03964fa1da0c873d9da72eda5",
+ "hash": "sha256:d4a31c74150d3041d1c87984315b92b7cd44149aaf9f6f8272c663f4e5e215c7",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-p08",
- "claims": [],
+ "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-k04",
+ "claims": [
+  {
+   "text": "Bạn đã đi hết trục \"Công cụ tư duy\". Bây giờ là lúc dùng chúng vào những câu hỏi lớn",
+   "kind": "du-kien",
+   "verdict": "sai",
+   "severity": "nhe",
+   "fix": "Đến đây bạn đã có đủ công cụ để bắt đầu với những câu hỏi lớn: … Trục \"Công cụ tư duy\" còn tiếp với [Đọc văn bản khó](doc-van-ban-kho.md); nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).",
+   "fixed": true,
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cong-cu/",
+     "quote": "19 lối tắt dẫn sai đường, và khi nào chúng",
+     "where": "mục lục Công cụ tư duy: Ngụy biện là bài 8/15"
+    },
+    {
+     "url": "https://mtuann.github.io/logos/cong-cu/",
+     "quote": "Dựng lại lập trường đối lập ở dạng mạnh nhất",
+     "where": "bài 15 Luận cứ thép là bài cuối của trục"
+    }
+   ]
+  },
+  {
+   "text": "Trục \"Công cụ tư duy\" còn tiếp với [Đọc văn bản khó](doc-van-ban-kho.md); nếu muốn ôn lại từ đầu, quay về [Lập luận là gì?](lap-luan-la-gi.md).",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://mtuann.github.io/logos/cong-cu/",
+     "quote": "Giả định ngầm Ngụy biện Đọc văn bản khó Viết đoạn lập luận",
+     "where": "thanh điều hướng trục Công cụ tư duy (khớp content.yml và mkdocs.yml nav: doc-van-ban-kho.md ngay sau nguy-bien.md; lap-luan-la-gi.md là bài đầu)"
+    }
+   ]
+  }
+ ],
  "checklist": {
   "dung-nguon": null,
   "manh-nhat": null,
@@ -12,5 +45,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Mục điều hướng, đã kiểm các liên kết có trong lô; các trang đích tồn tại theo cấu trúc repo (không kiểm bằng WebFetch)."
+ "notes": "Mục điều hướng, đã kiểm các liên kết có trong lô; các trang đích tồn tại theo cấu trúc repo (không kiểm bằng WebFetch). Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. Câu cũ 'Bạn đã đi hết trục \"Công cụ tư duy\"' sai: nguy-bien.md là bài 8/15 (content.yml, mkdocs.yml nav), cùng gốc với lỗi ở gia-dinh-ngam.md#di-tiep do kiểm mẫu phát hiện. Chữ mới đúng. Liên kết doc-van-ban-kho.md, lap-luan-la-gi.md tồn tại. Ngoài khóa: docs/cong-cu/index.md đánh số Đọc văn bản khó là bài 13, khác thứ tự nav/content.yml (bài 9); câu mới 'còn tiếp với' đúng theo cả hai. Thêm 1 claim cho chữ mới, nguồn mở trong phiên này."
 }

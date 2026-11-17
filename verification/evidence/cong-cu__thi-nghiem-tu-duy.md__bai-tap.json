@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/thi-nghiem-tu-duy.md#bai-tap",
-  "hash": "sha256:1b63fdfb0f564e71cdaec0035bd8a8bd3b6e6dfc5ac136a283b4ea4ee66ff35a",
+  "hash": "sha256:72ab3201162ce02e6c2bd2b99be61aaf3a0be0fa4cf62ba481666a03f6bcade6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p13 + agent-kiem-5.5-r02",
+  "checker": "agent-kiem-5.5-p13 + agent-kiem-5.5-r02 + agent-kiem-5.5-k04",
   "claims": [
     {
       "text": "Bài 3: trực giác vật lý có thể sai (vật rơi) và trực giác mang dấu ấn văn hóa (Moral Machine)",
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "text": "Bài 5: giả định của tình huống bom; người bị tra tấn thường khai bừa để hết đau; lựa chọn thứ ba (sơ tán, điều tra)",
+      "text": "Bài 5: giả định của tình huống bom; những người phản đối tra tấn lập luận rằng người bị tra tấn thường khai bất cứ điều gì để hết đau; lựa chọn thứ ba (sơ tán, điều tra)",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -30,6 +30,11 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
           "quote": "torture victims typically tell the torturer whatever they think he wants to hear, e.g., they are happy to implicate others who are in fact innocent in order to bring an end to their own agony",
           "where": "Lập luận về độ tin cậy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "For instance, they typically claim that torture does not work, since those who are tortured tell their torturers whatever they want to hear.",
+          "where": "mục về tranh luận đạo đức: luận điểm của phe phản đối"
         }
       ]
     },
@@ -61,6 +66,24 @@
           "where": "Abstract"
         }
       ]
+    },
+    {
+      "text": "(thực tế người bị tra tấn thường khai bừa để hết đau)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "For instance, they typically claim that torture does not work, since those who are tortured tell their torturers whatever they want to hear."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/torture/",
+          "quote": "There are those who argue in the affirmative and point to so-called ticking bomb scenarios to support their case."
+        }
+      ],
+      "severity": "vua",
+      "fix": "(những người phản đối tra tấn lập luận rằng người bị tra tấn thường khai bất cứ điều gì để hết đau)",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -71,5 +94,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Bài 2: câu \"hầu hết mọi người sẽ nói đáng trách như nhau\" là khẳng định thực nghiệm về dư luận, không có nguồn trong bài; ở đây là gợi ý đáp án sư phạm. Văn liệu về moral luck cho thấy nhiều người vẫn trách hơn khi có hậu quả, nên nên hạ xuống \"nhiều người\" (nhe). Tôi không mở nguồn cho khẳng định này nên không ghi chắc: coi là nhe, không chặn. Lượt 2: claim Bài 2 giải quyết: trong biến thể của bài, hai tài xế giống hệt nhau cả hành vi lẫn kết cục (không ai gây tai nạn), nên phán đoán \"đáng trách như nhau\" là hệ quả của nguyên tắc kiểm soát mà SEP Moral Luck nêu (CP; khi khác biệt nằm ngoài kiểm soát thì \"reluctant to blame one driver more than the other\"); SEP cũng ghi rằng khi kết cục khác nhau người ta có xu hướng trách người gây hại hơn, khớp với phần phân tích của bài (trực giác ban đầu bị hậu quả chi phối). Ghi chú cũ về \"nhe\" không còn áp dụng."
+  "notes": "Bài 2: câu \"hầu hết mọi người sẽ nói đáng trách như nhau\" là khẳng định thực nghiệm về dư luận, không có nguồn trong bài; ở đây là gợi ý đáp án sư phạm. Văn liệu về moral luck cho thấy nhiều người vẫn trách hơn khi có hậu quả, nên nên hạ xuống \"nhiều người\" (nhe). Tôi không mở nguồn cho khẳng định này nên không ghi chắc: coi là nhe, không chặn. Lượt 2: claim Bài 2 giải quyết: trong biến thể của bài, hai tài xế giống hệt nhau cả hành vi lẫn kết cục (không ai gây tai nạn), nên phán đoán \"đáng trách như nhau\" là hệ quả của nguyên tắc kiểm soát mà SEP Moral Luck nêu (CP; khi khác biệt nằm ngoài kiểm soát thì \"reluctant to blame one driver more than the other\"); SEP cũng ghi rằng khi kết cục khác nhau người ta có xu hướng trách người gây hại hơn, khớp với phần phân tích của bài (trực giác ban đầu bị hậu quả chi phối). Ghi chú cũ về \"nhe\" không còn áp dụng. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. câu nay đúng nguyên văn fix, gán lập luận cho phe phản đối tra tấn như SEP Torture ('they typically claim that torture does not work'). Claim Bài 5 (dung) cập nhật theo chữ mới và thêm quote SEP gán luận điểm cho phe phản đối."
 }

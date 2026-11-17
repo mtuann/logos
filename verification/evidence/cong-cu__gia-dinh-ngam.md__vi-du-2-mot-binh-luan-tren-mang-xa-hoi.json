@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/gia-dinh-ngam.md#vi-du-2-mot-binh-luan-tren-mang-xa-hoi",
-  "hash": "sha256:92ac74d088c348991eb7598804cdf6c3714ce6e4c1b199a154f381fa1f044597",
+  "hash": "sha256:9458589564cd0a17ee8e6f665e604d968f957ce15d61e2555671b29ad5c854d4",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-r05",
+  "checker": "agent-kiem-5.5-p07 + agent-kiem-5.5-r05 + agent-kiem-5.5-k04",
   "claims": [
     {
       "text": "Mỗi bước là một modus ponens, nên cả chuỗi hợp lệ (P1,P2→K1; K1,P3→K2; K2,P4→K3)",
@@ -44,6 +44,21 @@
           "where": "mục 3.1"
         }
       ]
+    },
+    {
+      "text": "Thuật ngữ \"khái quát vội vàng\" lần đầu trong bài không kèm (*hasty generalization*).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đây là dấu hiệu của [khái quát vội vàng](nguy-bien.md#hasty-generalization) (*hasty generalization*).",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "In any Hasty Generalization the key error",
+          "where": "mục Hasty Generalization; quy định HUONG-DAN-VIET.md mục 3"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -54,5 +69,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Bình luận do site tự soạn. Câu hỏi tu từ viết lại thành tiền đề: hợp lý. Không có khẳng định thật về AI nào cần nguồn (không có số liệu). Lượt 2: thay 1 quote bằng nguyên văn trên trang tải về; kết luận không đổi."
+  "notes": "Bình luận do site tự soạn. Câu hỏi tu từ viết lại thành tiền đề: hợp lý. Không có khẳng định thật về AI nào cần nguồn (không có số liệu). Lượt 2: thay 1 quote bằng nguyên văn trên trang tải về; kết luận không đổi. Kiểm lại sau mẫu (k04): thêm claim sai từ kiểm mẫu (1), đã sửa đúng → fixed. câu nay đúng nguyên văn fix (kèm *hasty generalization*)."
 }

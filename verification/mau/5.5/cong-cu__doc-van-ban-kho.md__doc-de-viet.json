@@ -1,0 +1,41 @@
+{
+  "unit": "cong-cu/doc-van-ban-kho.md#doc-de-viet",
+  "hash": "sha256:9d7693c7167c764584ddfcd01968b93197174066871ea186e776be44b5c05f3b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "Đọc và viết là hai mặt của một việc. Ba lượt đọc thực ra đang chuẩn bị nguyên liệu cho chính đoạn văn của bạn: luận đề của tác giả thành \"người ta nói…\", đánh giá của bạn ở lượt ba thành \"còn tôi nói…\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/howtoreadabook1940edition/How%20to%20Read%20a%20Book%20-%201940%20Edition_djvu.txt",
+          "quote": "The writer’s and the reader’s skill converge upon a",
+          "where": "Adler, How to Read a Book (1940), ch. 2 \"The Reading of 'Reading'\""
+        }
+      ]
+    },
+    {
+      "text": "ở lượt ba, hãy ghi thêm một dòng cho mỗi luận điểm quan trọng: *mình đồng ý hay không, và lý do của mình là gì?*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/howtoreadabook1940edition/How%20to%20Read%20a%20Book%20-%201940%20Edition_djvu.txt",
+          "quote": "must wait until he understands before he is justified in",
+          "where": "Adler (1940), phần đọc phê phán (quy tắc đầu tiên: hiểu rồi mới đồng ý/không đồng ý)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục là lời khuyên phương pháp, không có dữ kiện (năm, tên, trích dẫn). Văn bản Adler 1940 mở qua bản OCR trên archive.org (howtoreadabook1940edition); trích ngắn chỉ để đối chiếu."
+}

@@ -1,0 +1,64 @@
+{
+  "unit": "logic/logic-12",
+  "hash": "sha256:7864fc9b65af923b8698edc38c9cdae43c8048015cbf47a4bfb621afca155931",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m04",
+  "claims": [
+    {
+      "text": "dap_an: hop-le (premises P ⊕ Q, P; conclusion !Q)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+          "quote": "logic textbook exclusive disjunction",
+          "where": "mục Exclusive uses of or, bảng chân trị"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+          "quote": "1 1 1 0 1 0 1 1 0 1 1 1 0 0 0 0",
+          "where": "bảng chân trị φ, ψ, φ∨ψ, tuyển loại trừ: dòng 1 1 → loại trừ 0; dòng 1 0 → 1"
+        }
+      ]
+    },
+    {
+      "text": "giai_thich: Tuyển loại trừ (⊕): đúng một trong hai. P đúng thì Q phải sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+          "quote": "logic textbook exclusive disjunction",
+          "where": "mục Exclusive uses of or, bảng chân trị"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+          "quote": "1 1 1 0 1 0 1 1 0 1 1 1 0 0 0 0",
+          "where": "bảng chân trị φ, ψ, φ∨ψ, tuyển loại trừ: dòng 1 1 → loại trừ 0; dòng 1 0 → 1"
+        }
+      ]
+    },
+    {
+      "text": "premises[0]: \"P ^ Q\" (đề: 'Hoặc (loại trừ nhau) uống trà hoặc uống cà phê')",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "premises: [\"P ⊕ Q\", \"P\"]",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+          "quote": "logic textbook exclusive disjunction",
+          "where": "mục Exclusive uses of or, bảng chân trị"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disjunction/",
+          "quote": "1 1 1 0 1 0 1 1 0 1 1 1 0 0 0 0",
+          "where": "bảng chân trị φ, ψ, φ∨ψ, tuyển loại trừ: dòng 1 1 → loại trừ 0; dòng 1 0 → 1"
+        }
+      ],
+      "fixed": true
+    }
+  ],
+  "result": "dat",
+  "notes": "Bảng chân trị tự lập (script tạm): với P⊕Q, P đúng: dòng duy nhất P=đúng, Q=sai, kết luận ¬Q đúng → hợp lệ; không có phản ví dụ. Bộ phân tích logic-menh-de.js đọc '^' là xor nên máy chấm đúng, nhưng prettify() chỉ đổi <->, ->, &&, ||, ! nên người học thấy nguyên 'Tiền đề: P ^ Q'. '^' là ký hiệu ASCII quen thuộc cho 'và' và trông gần như '∧' mà trang logic-menh-de.md dùng cho phép hội; đọc thành P ∧ Q thì 'P ∧ Q, P ⊢ ¬Q' không hợp lệ, mâu thuẫn với đáp án hiển thị. Đây là bài duy nhất trong logic.json dùng '^'. Tokenizer đã nhận '⊕' nên sửa dữ liệu là đủ. Ký hiệu P, Q và kết luận !Q khớp đề bài. Kiểm lại (k04): premises nay là ['P ⊕ Q', 'P'] đúng fix. Chạy node: tokenize('P ⊕ Q') ra var P, xor, var Q; checkArgument → valid=true, không phản ví dụ; prettify giữ nguyên 'P ⊕ Q' (không có cặp thay thế nào cho ⊕) và đổi '!Q' thành '¬Q'. Không còn '^' trong bản ghi."
+}

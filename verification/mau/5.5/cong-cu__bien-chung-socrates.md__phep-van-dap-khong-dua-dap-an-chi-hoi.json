@@ -1,0 +1,124 @@
+{
+  "unit": "cong-cu/bien-chung-socrates.md#phep-van-dap-khong-dua-dap-an-chi-hoi",
+  "hash": "sha256:975e7a96f58649be55ed7c4bc3d1c6f1845be1eb0f2933bd1579b9fdb2398ab9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m01",
+  "claims": [
+    {
+      "text": "**Phép vấn đáp** (*elenchus*) là cách Socrates tranh luận: ông không trình bày lý thuyết của mình, mà chỉ hỏi người đối thoại — rồi dùng chính câu trả lời của họ để chỉ ra mâu thuẫn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "A typical Socratic elenchus is a cross-examination of a particular position, proposition, or definition, in which Socrates tests what his interlocutor says and refutes it.",
+          "where": "mục 4.a The Elenchus: Socrates the Refuter"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "all the elenchus can show is the inconsistency of W with the premises X, Y, and Z",
+          "where": "mục 4.a.ii Purpose"
+        },
+        {
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "with Socrates nearly always playing the role as questioner, for he claimed to have no wisdom of his own to share with others",
+          "where": "mục về các đối thoại thời kỳ đầu"
+        }
+      ]
+    },
+    {
+      "text": "Bước 1. Hỏi định nghĩa. Không phải \"cho ví dụ\", mà là \"X *là gì*?\" Định nghĩa phải nói được bản chất, sao cho áp vào trường hợp nào cũng đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates typically begins his elenchus with the question, “what is it”? What is piety, he asks Euthyphro.",
+          "where": "mục 4.a.i Topic"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "That is, what is the universal definition or nature that holds for all examples of courage?",
+          "where": "mục Aristotle (Socratic Problem)"
+        }
+      ]
+    },
+    {
+      "text": "Bước 2–3 (lấy định nghĩa thật nghiêm túc, suy ra hệ quả; tìm phản ví dụ) và Bước 5 (định nghĩa mới, lặp lại)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Whatever the case, Socrates refutes the answer given to him in response to the ‘what is it’ question.",
+          "where": "mục 4.a.i Topic"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "to use that confusion as a stepping stone on the way to establishing a more consistent, well-formed set of beliefs",
+          "where": "mục 4.a.ii Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Bước 4. Bế tắc. Định nghĩa sụp đổ. Cả hai cùng rơi vào **bế tắc** (*aporia*): thừa nhận \"hóa ra mình chưa hiểu X như mình tưởng\". … Trước đó ta *tưởng* mình hiểu; giờ ta *biết* mình chưa hiểu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/plato/",
+          "quote": "was adept at reducing even the most difficult and recalcitrant interlocutors to confusion and self-contradiction",
+          "where": "mục về các đối thoại thời kỳ đầu"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "while they thought they knew something and did not, he was aware of his own ignorance",
+          "where": "mục 3.b.i Socratic Ignorance"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "He was known for confusing, stinging, and stunning his conversation partners into the unpleasant experience of realizing their own ignorance",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Điểm mấu chốt: người bị hỏi tự phát hiện mâu thuẫn trong niềm tin của *chính mình*. Theo cách đọc phổ biến, Socrates không áp đặt đáp án từ bên ngoài; ông chỉ là người cầm đèn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Plato’s Socrates calls himself a midwife—who has no ideas of his own but helps give birth to the ideas of others",
+          "where": "mục 4 Method"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/socrates/",
+          "quote": "he helped others recognize on their own what is real, true, and good",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "(Xem thêm [phương pháp phản ví dụ](suy-dien.md).)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/",
+          "quote": "Suy diễn: hợp lệ và vững chắc, modus ponens, modus tollens, tam đoạn luận.",
+          "where": "mục lục Công cụ tư duy; trang đích docs/cong-cu/suy-dien.md có mục \"Phương pháp phản ví dụ\" (#phuong-phap-phan-vi-du), kiểm trong repo"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Gutenberg (Euthyphro #1642, Apology #1656) đang bảo trì khi kiểm (trang \"Temporarily Down for Maintenance\"), nên dùng IEP/SEP cho ý \"biết mình không biết\". Chữ \"aporia\" không có nguyên văn trên SEP/IEP Socrates đã mở; ý bế tắc dựa vào IEP Plato (\"confusion and self-contradiction\"). Gợi ý nhỏ (không phải lỗi): link \"phương pháp phản ví dụ\" có thể trỏ thẳng tới suy-dien.md#phuong-phap-phan-vi-du."
+}

@@ -1,0 +1,58 @@
+{
+  "unit": "fallacy-types/genetic",
+  "hash": "sha256:41831e2779543f5079ebc59e97b9ec1825a0fd96fa05d00d1396643e16ab4ba4",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "vi/en: Ngụy biện nguồn gốc / Genetic fallacy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "definition: Đánh giá một ý tưởng… chỉ dựa vào nguồn gốc hoặc hoàn cảnh ra đời của nó…; pattern: X bắt nguồn từ Y (đáng chê hoặc đáng khen). Vậy X sai/đúng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A critic uses the Genetic Fallacy if the critic attempts to discredit or support a claim or an argument because of its origin (genesis) when such an appeal to origins is irrelevant.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "example: “Ý tưởng này nảy ra từ một câu nói đùa trong bữa nhậu, nghe sao được.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "The speaker is committing the Genetic Fallacy by paying too much attention to the genesis of the idea rather than to the reasons offered for it.",
+          "where": "Genetic"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi nguồn gốc thực sự ảnh hưởng đến độ tin cậy… nguồn gốc là lý do để kiểm chứng thêm, chưa phải để kết luận là sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "my request that the planning commission not accept your proposal without independent verification of its merits wouldn’t be committing the genetic fallacy",
+          "where": "Genetic"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

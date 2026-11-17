@@ -1,0 +1,63 @@
+{
+  "unit": "fallacy-types/appeal-emotion",
+  "hash": "sha256:77d3208bf1855dde9e5d1134aaf9f06014d3261608941bda5a05d71a741ee2d8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "vi/en: Viện dẫn cảm xúc / Appeal to emotion",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Appeal to Emotions",
+          "where": "Mục lục và mục từ"
+        }
+      ]
+    },
+    {
+      "text": "definition: Dùng cảm xúc (sợ hãi, thương hại, tội lỗi, tự hào) thay cho lý do để khiến người nghe chấp nhận kết luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "Appeal to Emotions"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "There is nothing wrong with using emotions when you argue, but it’s a mistake to use emotions as the key premises or as tools to downplay relevant information.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "example: “Nếu thầy cho em trượt, mẹ em sẽ buồn lắm, thầy cho em qua môn nhé.”",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "if as the person’s history instructor you accept Max’s claim that he earned an A on the history quiz because he broke his wrist while playing in your college’s last basketball game, then you’ve used the fallacy of appeal to pity",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "not_fallacy_when: Khi cảm xúc đi kèm lý do thật sự liên quan…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "There is nothing wrong with using emotions when you argue, but it’s a mistake to use emotions as the key premises or as tools to downplay relevant information.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

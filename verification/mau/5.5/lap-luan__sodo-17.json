@@ -1,0 +1,51 @@
+{
+  "unit": "lap-luan/sodo-17",
+  "hash": "sha256:98f7fc4da3fd1c59acdca2d7ed619a88c674d0e260d50c50cfc7e0cf2ae5c1be",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m04",
+  "claims": [
+    {
+      "text": "dap_an: c5 'Tôi quyết định mỗi ngày chỉ dùng mạng xã hội ba mươi phút.' = ket-luan",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the premises of an argument are reasons offered in support of its conclusion",
+          "where": "1. The Structural Approach to Characterizing Arguments"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c1, c2, c3 = tien-de, ho_tro [c5]",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/argument/",
+          "quote": "the premises of an argument are reasons offered in support of its conclusion",
+          "where": "1. The Structural Approach to Characterizing Arguments"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "premises that provide three separate reasons for thinking that the argument",
+          "where": "sau EXAMPLE 10 (convergent premises)"
+        }
+      ]
+    },
+    {
+      "text": "dap_an: c4 'Điện thoại mới ra mắt có camera rất đẹp.' = khong-lien-quan",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/logic-informal/",
+          "quote": "discarding irrelevant and distracting digressions, repetition, and remarks",
+          "where": "mục Argument Identification / standardizing"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Cách chấm (docs/assets/js/so-do-lap-luan.js, grade/disputedIds): người dùng chỉ gán vai trò (tiền đề/kết luận/không liên quan; câu giả định ngầm ở bước 2), ho_tro không được chấm mà chỉ dùng vẽ cây SVG. Câu trong đoạn văn là lời người kể do site soạn, không phải khẳng định của site, nên không kiểm nguồn thực tế. c3 ('Nhiều nghiên cứu cho thấy…') là lời người kể trong đoạn văn mẫu, không phải khẳng định của site."
+}

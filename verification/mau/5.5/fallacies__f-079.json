@@ -1,0 +1,75 @@
+{
+  "unit": "fallacies/f-079",
+  "hash": "sha256:10b5cd48c167220f79421d57f3362c2a9d0a227359ced430b846dfcaebee0269",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m03",
+  "claims": [
+    {
+      "text": "answer: appeal-emotion (hình ảnh vợ con khóc lóc để thúc ký gói cao nhất)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "when someone’s appeal to you to accept their claim is accepted merely because the appeal arouses your feelings of anger, fear, grief, love, outrage, pity, pride, sexuality, sympathy, relief, and so forth",
+          "where": "Appeal to Emotions"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "There is nothing wrong with using emotions when you argue, but it’s a mistake to use emotions as the key premises or as tools to downplay relevant information.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "explanation: … Hình ảnh gợi sợ hãi được dùng thay cho so sánh các gói.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "There is nothing wrong with using emotions when you argue, but it’s a mistake to use emotions as the key premises or as tools to downplay relevant information.",
+          "where": "Appeal to Emotions"
+        }
+      ]
+    },
+    {
+      "text": "why_not.slippery-slope: Không có chuỗi bước nhỏ dẫn tới thảm họa…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fallacies/",
+          "quote": "from a given starting point one can by a series of incremental inferences arrive at an undesirable conclusion, and because of this unwanted result, the initial starting point should be rejected",
+          "where": "1. (mục 15, slippery slope)"
+        }
+      ]
+    },
+    {
+      "text": "why_not.false-dilemma: Người bán không nói rõ “hoặc gói cao nhất, hoặc gia đình khốn khó”…",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "A reasoner who unfairly presents too few choices and then implies that a choice must be made among this short menu of choices is using the False Dilemma Fallacy",
+          "where": "False Dilemma"
+        }
+      ]
+    },
+    {
+      "text": "why_not.red-herring: Người bán không né câu hỏi nào của anh Phúc.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "It is also a digression that leads the reasoner off the track of considering only relevant information.",
+          "where": "Red Herring"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": ""
+}

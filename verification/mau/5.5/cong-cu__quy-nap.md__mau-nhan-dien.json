@@ -1,0 +1,108 @@
+{
+  "unit": "cong-cu/quy-nap.md#mau-nhan-dien",
+  "hash": "sha256:2c5d7ce34d69ea9338ae427bc87bc6064fc2c98756f6d7af2e319fead4cb6d27",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.5-m02",
+  "claims": [
+    {
+      "text": "Dấu hiệu của lập luận quy nạp: từ chỉ báo kiểu \"có lẽ\", \"nhiều khả năng\"…; kết luận nói về nhiều hơn những gì đã quan sát.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "words like “probably” may purport that the conclusion is merely made probable by the premises."
+        },
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "With inductive arguments, the conclusion contains information that goes beyond what is contained in the premises."
+        },
+        {
+          "url": "https://iep.utm.edu/deductive-inductive-arguments/",
+          "quote": "while indicator words or phrases may suggest specific interpretations, they need to be viewed in context, and are far from infallible guides."
+        }
+      ]
+    },
+    {
+      "text": "Khái quát → Mẫu bao lớn? Chọn thế nào? Có đại diện không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "the key error is to overestimate the strength of an argument that is based on too small a sample",
+          "where": "Hasty Generalization"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "If the means of collecting the sample from the population are likely to produce a sample that is unrepresentative of the population",
+          "where": "Unrepresentative Sample"
+        }
+      ]
+    },
+    {
+      "text": "Thống kê → Tỉ lệ cao đến đâu? Cá thể có thuộc nhóm hẹp hơn nào khác không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/probability-interpret/",
+          "quote": "This is an example of the so-called reference class problem for frequentism",
+          "where": "§3.4"
+        }
+      ]
+    },
+    {
+      "text": "Loại suy → Những điểm giống nhau có LIÊN QUAN tới điểm đang xét không? Có điểm khác nhau quan trọng nào không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "the fallacy occurs when the analogy is irrelevant or very weak or when there is a more relevant disanalogy.",
+          "where": "False Analogy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/reasoning-analogy/",
+          "quote": "not every similarity increases the probability of the conclusion and not every difference decreases it."
+        }
+      ]
+    },
+    {
+      "text": "Nhân quả → Có yếu tố gây nhiễu không? Có thể ngược chiều không? Trùng hợp?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "a causal connection between two kinds of events is claimed when evidence is available indicating that both are the effect of a common cause.",
+          "where": "Common Cause"
+        },
+        {
+          "url": "https://iep.utm.edu/fallacy/",
+          "quote": "Drawing an improper conclusion about causation due to a causal assumption that reverses cause and effect.",
+          "where": "Reversing Causation"
+        }
+      ]
+    },
+    {
+      "text": "Giải thích → Đã xét đủ các giả thuyết khác chưa? Giả thuyết nào giải thích nhiều hơn, đơn giản hơn, ít vá víu hơn?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abduction/",
+          "quote": "the so-called theoretical virtues, like simplicity, generality, and coherence with well-established theories"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat"
+}
