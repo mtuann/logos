@@ -2,18 +2,17 @@
 
 Sinh bằng `python tools/lint_lien_ket.py --write`. Phạm vi: Lõi viết tay. Lần đầu nhắc một triết gia đã có hồ sơ thì đặt link tới trang hồ sơ (README, "Thêm nội dung"); sửa trong đợt con của trang (ban-giao/dot-5.md).
 
-**13 chỗ** ở **12 trang/file**. Chế độ cảnh báo: chưa chặn CI.
+**11 chỗ** ở **10 trang/file**. Chế độ cảnh báo: chưa chặn CI.
 
 | Luật | Nghĩa | Số chỗ |
 |---|---|---:|
-| `thieu-link` | bài nhắc triết gia đã có hồ sơ mà không link tới trang hồ sơ | 13 |
+| `thieu-link` | bài nhắc triết gia đã có hồ sơ mà không link tới trang hồ sơ | 11 |
 | `mien-thua` | mục miễn không còn khớp chỗ nào | 0 |
 
 ## Chi tiết
 
 | Vị trí | Đơn vị | Luật | Tìm thấy | Ghi chú |
 |---|---|---|---|---|
-| `bat-dau/lo-trinh.md:30` | `bat-dau/lo-trinh.md#1-tu-duy-ro-rang` | `thieu-link` | Socrates (socrates) | đặt link ở lần nhắc đầu: [Socrates](../triet-gia/socrates.md) |
 | `cau-hoi/cai-chet.md:168` | `cau-hoi/cai-chet.md#doc-van-ban-goc` | `thieu-link` | Marcus Aurelius (marcus-aurelius) | đặt link ở lần nhắc đầu: [Marcus Aurelius](../triet-gia/marcus-aurelius.md) |
 | `cau-hoi/cai-chet.md:168` | `cau-hoi/cai-chet.md#doc-van-ban-goc` | `thieu-link` | Socrates (socrates) | đặt link ở lần nhắc đầu: [Socrates](../triet-gia/socrates.md) |
 | `cau-hoi/chien-tranh-chinh-dang.md:115` | `cau-hoi/chien-tranh-chinh-dang.md#doc-van-ban-goc` | `thieu-link` | Mặc Tử (mac-tu) | đặt link ở lần nhắc đầu: [Mặc Tử](../triet-gia/mac-tu.md) |
@@ -25,4 +24,3 @@ Sinh bằng `python tools/lint_lien_ket.py --write`. Phạm vi: Lõi viết tay.
 | `cau-hoi/tu-do-y-chi.md:194` | `cau-hoi/tu-do-y-chi.md#doc-van-ban-goc` | `thieu-link` | Sartre (sartre) | đặt link ở lần nhắc đầu: [Sartre](../triet-gia/sartre.md) |
 | `cau-hoi/y-nghia-song.md:170` | `cau-hoi/y-nghia-song.md#doc-van-ban-goc` | `thieu-link` | Sartre (sartre) | đặt link ở lần nhắc đầu: [Sartre](../triet-gia/sartre.md) |
 | `cong-cu/suy-dien.md:94` | `cong-cu/suy-dien.md#nhung-khuon-dang-tin` | `thieu-link` | Socrates (socrates) | đặt link ở lần nhắc đầu: [Socrates](../triet-gia/socrates.md) |
-| `lich-su/trung-hoa.md:53` | `lich-su/trung-hoa.md#lao-tu-va-trang-tu-dao-khong-noi-duoc` | `thieu-link` | Lão Tử (lao-tu) | đặt link ở lần nhắc đầu: [Lão Tử](../triet-gia/lao-tu.md) |
