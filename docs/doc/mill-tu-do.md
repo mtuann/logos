@@ -116,7 +116,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Đọc tiếp {#doc-tiep}
 
 - [Dân chủ là gì, và vì sao nó đáng giá?](../cau-hoi/dan-chu.md) — tự do ngôn luận là điều kiện của dân chủ.
-- [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — ai kiểm duyệt "chợ ý tưởng" khi thuật toán làm người gác cổng?
+- [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — công nghệ trung lập hay định hình con người, khi thuật toán chọn sẵn tin tức cho ta đọc?
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md) — nguyên tắc gây hại và các ranh giới ngày nay.
 - [Luận cứ thép](../cong-cu/luan-cu-thep.md) — hiểu lập luận của đối phương ở dạng mạnh nhất, như Mill đòi hỏi.
 - ["Khai sáng là gì?"](kant-khai-sang.md) — [Kant](../triet-gia/kant.md), 75 năm trước Mill, về tự do dùng lý trí công khai.

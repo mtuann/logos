@@ -15810,8 +15810,8 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đọc tiếp
 
-- [Mọi sự đã được định sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?
-- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — một câu trả lời Khắc kỷ cho câu hỏi về ý nghĩa
+- [Mọi thứ đã được viết sẵn?](../cau-hoi/dinh-menh.md) — Khắc kỷ tin vũ trụ có trật tự tất định; vậy tự do của ta nằm ở đâu?
+- [Cuộc sống có ý nghĩa không?](../cau-hoi/y-nghia-song.md) — bốn lập trường về ý nghĩa cuộc sống, để đặt cạnh câu trả lời Khắc kỷ của *Cẩm nang*
 - [Đọc *Suy tưởng* của Marcus Aurelius](../doc/aurelius-suy-tuong.md) — người học trò qua sách của Epictetus, viết cho chính mình
 - [Đọc "Biện hộ của Socrates"](../doc/platon-bien-ho.md) — *Cẩm nang* khép lại bằng chính lời Socrates: Anytus và Meletus có thể giết ông, nhưng không làm hại được ông
 
@@ -16380,7 +16380,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 ## Đọc tiếp
 
 - [Dân chủ là gì, và vì sao nó đáng giá?](../cau-hoi/dan-chu.md) — tự do ngôn luận là điều kiện của dân chủ.
-- [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — ai kiểm duyệt "chợ ý tưởng" khi thuật toán làm người gác cổng?
+- [AI thay đổi con người thế nào?](../cau-hoi/cong-nghe-ai.md) — công nghệ trung lập hay định hình con người, khi thuật toán chọn sẵn tin tức cho ta đọc?
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md) — nguyên tắc gây hại và các ranh giới ngày nay.
 - [Luận cứ thép](../cong-cu/luan-cu-thep.md) — hiểu lập luận của đối phương ở dạng mạnh nhất, như Mill đòi hỏi.
 - ["Khai sáng là gì?"](../doc/kant-khai-sang.md) — [Kant](../triet-gia/kant.md), 75 năm trước Mill, về tự do dùng lý trí công khai.
@@ -17082,8 +17082,8 @@ Thử xem bạn nắm được đến đâu.
 
 ## Đọc tiếp
 
-- [Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đức hạnh luận của Aristotle đặt cạnh vị lợi và Kant
-- [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh khoái lạc và sự hài lòng
+- [Hành động đúng là gì? Ba lý thuyết lớn](../cau-hoi/dao-duc-hanh-dong.md) — đạo đức học đức hạnh của Aristotle đặt cạnh thuyết vị lợi và đạo đức học Kant
+- [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md) — eudaimonia bên cạnh thuyết khoái lạc, thuyết thỏa mãn ước muốn và thuyết danh sách khách quan
 - [Hy Lạp cổ đại](../lich-su/hy-lap-co-dai.md) — bối cảnh Athens nơi Aristotle viết
 - [Epictetus: Cẩm nang](../doc/epictetus-cam-nang.md) — người Khắc kỷ cũng nói đức hạnh, nhưng là thứ duy nhất tốt
 
