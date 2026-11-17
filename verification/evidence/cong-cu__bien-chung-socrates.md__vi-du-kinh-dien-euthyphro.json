@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/bien-chung-socrates.md#vi-du-kinh-dien-euthyphro",
-  "hash": "sha256:9edc5c40ebd9d4ba249d7e87eba424dff2e67b3e4e3fb508b81bd83d6c6f5b90",
+  "hash": "sha256:78941e9a8d43426cb52892eb6e6d7be6f96b7273be03ff6c7c2b6ca2ff54ddf6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06 + agent-kiem-5.5-k03",
   "claims": [
     {
       "text": "Platon ghi lại cuộc đối thoại Euthyphro, lấy bối cảnh năm 399 TCN — ngay trước phiên tòa xử Socrates. Ngoài tòa án, Socrates gặp Euthyphro",
@@ -99,7 +99,8 @@
           "quote": "Remember that I did not ask you to give me two or three examples of piety",
           "where": "Euthyphro 6d-e (Jowett)"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "các thần đôi khi bất đồng với nhau — thần này yêu điều mà thần kia ghét. Vậy cùng một việc vừa \"mộ đạo\" vừa \"bất kính\" hay sao?",
@@ -214,6 +215,33 @@
           "where": "cùng mục: Quinn đáp lại phản bác rút từ Euthyphro"
         }
       ]
+    },
+    {
+      "text": "Euthyphro đáp trước bằng một ví dụ: mộ đạo là kiện kẻ làm điều bất công, như ông đang làm. Socrates bảo ông không cần một ví dụ mà cần một định nghĩa chung. Euthyphro thử lại: \"Mộ đạo là điều được các thần yêu mến.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "Piety is doing as I am doing; that is to say, prosecuting any one who is guilty of murder, sacrilege, or of any similar crime",
+          "where": "Euthyphro 5d-e (Jowett): câu đáp đầu, gắn với việc Euthyphro đang làm"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "Remember that I did not ask you to give me two or three examples of piety, but to explain the general idea which makes all pious things to be pious.",
+          "where": "Euthyphro 6d (Jowett): Socrates đòi ý niệm chung, không phải ví dụ"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1642/pg1642.txt",
+          "quote": "Piety, then, is that which is dear to the gods, and impiety is that which is not dear to them.",
+          "where": "Euthyphro 6e-7a (Jowett): định nghĩa thứ hai"
+        },
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "piety is proceeding against whomever does injustice (5d-6e), piety is what is loved by the gods (6e-7a)",
+          "where": "IEP Socrates, mục Elenchus: thứ tự hai định nghĩa"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -224,5 +252,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Dịch hosion/piety: Jowett dịch \"piety\" và \"holy\"; bản Hy Lạp Perseus 5d có \"τὸ ὅσιον\". Các lời thoại trong ngoặc kép là tóm lược của site (không phải trích nguyên văn Jowett), ý đúng với 6e, 9e, 10a. Gutenberg gutenberg.org bảo trì khi kiểm: quote lấy từ bản lưu web.archive.org/web/2025/ của cùng file pg1642.txt. \"Nếu là vế sau\" là cách đọc hiện đại (SEP), không phải lập luận Socrates dùng; câu văn site vẫn đúng vì đặt trong khung \"thế lưỡng nan\". Câu \"hai nghìn năm sau\" làm tròn (thực tế khoảng 2.400 năm), không tính lỗi. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; mọi quote đã khớp nguyên văn."
+  "notes": "Dịch hosion/piety: Jowett dịch \"piety\" và \"holy\"; bản Hy Lạp Perseus 5d có \"τὸ ὅσιον\". Các lời thoại trong ngoặc kép là tóm lược của site (không phải trích nguyên văn Jowett), ý đúng với 6e, 9e, 10a. Gutenberg gutenberg.org bảo trì khi kiểm: quote lấy từ bản lưu web.archive.org/web/2025/ của cùng file pg1642.txt. \"Nếu là vế sau\" là cách đọc hiện đại (SEP), không phải lập luận Socrates dùng; câu văn site vẫn đúng vì đặt trong khung \"thế lưỡng nan\". Câu \"hai nghìn năm sau\" làm tròn (thực tế khoảng 2.400 năm), không tính lỗi. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; mọi quote đã khớp nguyên văn. Kiểm lại (k03): chữ mới nêu câu đáp đầu là một ví dụ (kiện kẻ làm điều bất công, như ông đang làm), Socrates đòi định nghĩa chung, rồi Euthyphro đưa \"điều được các thần yêu mến\"; đúng fix. Đã mở lại Gutenberg #1642 (bản lưu web.archive.org) 5d-7a và IEP Socrates; thêm claim mới cho câu này. \"Kẻ làm điều bất công\" khớp cách IEP diễn \"whomever does injustice\"; Jowett liệt kê cụ thể hơn (murder, sacrilege, or any similar crime). Claim 4 fixed."
 }

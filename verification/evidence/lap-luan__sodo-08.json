@@ -1,8 +1,8 @@
 {
  "unit": "lap-luan/sodo-08",
- "hash": "sha256:bb41de60ac4fb49d756c0a1864031260bf63f6b071f9b7cb306a2d98562cd038",
+ "hash": "sha256:01a74df1f34c9dd7570eb57dce6f1dcc1b462f889c216edddcd7cad5da783d25",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-l01",
+ "checker": "agent-kiem-5.5-l01 + agent-kiem-5.5-k01",
  "claims": [
   {
    "text": "dap_an: c4 là ket-luan (câu duy nhất được các câu khác đưa ra làm lý do)",
@@ -52,9 +52,10 @@
     }
    ],
    "severity": "nhe",
-   "fix": "Thêm ghi_chu_tranh_cai cho c5: nó bàn chuyện chọn loại khẩu trang, không đỡ việc nên đeo; người học coi là gỡ rào cản chi phí vẫn có lý. Hoặc đổi c5 thành câu lạc đề rõ hơn."
+   "fix": "Thêm ghi_chu_tranh_cai cho c5: nó bàn chuyện chọn loại khẩu trang, không đỡ việc nên đeo; người học coi là gỡ rào cản chi phí vẫn có lý. Hoặc đổi c5 thành câu lạc đề rõ hơn.",
+   "fixed": true
   }
  ],
  "result": "dat",
- "notes": ""
+ "notes": "Kiểm lại: c5 đã đổi thành \"Cửa hàng tiện lợi gần công ty vừa mở thêm chi nhánh.\", lạc đề rõ; không còn cách đọc tiền đề."
 }

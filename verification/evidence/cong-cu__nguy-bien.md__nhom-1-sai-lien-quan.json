@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/nguy-bien.md#nhom-1-sai-lien-quan",
-  "hash": "sha256:a535f7169c7e79bde4b117d4ad79928254394d9bc064b243806348cf2740fc08",
+  "hash": "sha256:8f054b611a7c8cda9572f2301e358fc10085b897f13a3d3f54c28f4815bcfd58",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01 + agent-kiem-5.5-k02",
   "claims": [
     {
       "text": "Công kích cá nhân (ad hominem): bác bỏ lập luận bằng cách tấn công người đưa ra",
@@ -179,7 +179,8 @@
           "quote": "Keep in mind that “natural” does not necessarily mean “safe.” (Think of mushrooms that grow in the wild: Some are safe to eat, while others are not.)",
           "where": "NCCIH (NIH), Are You Considering a Complementary Health Approach?"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -190,5 +191,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Đã thử: SEP và IEP Fallacies (không có appeal to nature), PMC search Gelsemium elegans, PMC/PubMed 'la ngon'. Chưa kiểm được định nghĩa appeal to nature và đồng nhất lá ngón với Gelsemium elegans. Lượt 2: claim #8: không có mục 'appeal to nature' riêng ở SEP/IEP, nhưng khuôn suy luận được nguồn nêu: IEP Naturalistic (cách hiểu rộng: từ 'is' sang 'ought'), SEP Callicles and Thrasymachus (appeal to nature vi phạm nguyên tắc của Hume; nhưng có mặt trong hầu hết đạo đức học cổ đại, khớp ngoại lệ về truyền thống đạo đức), SEP Chimeras ('unnatural nên wrong', lập luận thường bị bác), NCCIH ('natural' không đồng nghĩa 'safe') → dung. Claim #9: PMC mô tả Gelsemium elegans là cây cực độc ở Đông Nam Á nhưng vẫn không tìm được nguồn được phép nối tên 'lá ngón' với loài này (đã thử PubMed, PMC, WebSearch giới hạn moh.gov.vn, chinhphu.vn, vfa.gov.vn, ncbi); đề xuất fix nhẹ bỏ tên riêng. Nếu người làm có nguồn (vd Đỗ Tất Lợi, Những cây thuốc và vị thuốc Việt Nam, kèm trang) thì có thể giữ 'lá ngón'."
+  "notes": "Đã thử: SEP và IEP Fallacies (không có appeal to nature), PMC search Gelsemium elegans, PMC/PubMed 'la ngon'. Chưa kiểm được định nghĩa appeal to nature và đồng nhất lá ngón với Gelsemium elegans. Lượt 2: claim #8: không có mục 'appeal to nature' riêng ở SEP/IEP, nhưng khuôn suy luận được nguồn nêu: IEP Naturalistic (cách hiểu rộng: từ 'is' sang 'ought'), SEP Callicles and Thrasymachus (appeal to nature vi phạm nguyên tắc của Hume; nhưng có mặt trong hầu hết đạo đức học cổ đại, khớp ngoại lệ về truyền thống đạo đức), SEP Chimeras ('unnatural nên wrong', lập luận thường bị bác), NCCIH ('natural' không đồng nghĩa 'safe') → dung. Claim #9: PMC mô tả Gelsemium elegans là cây cực độc ở Đông Nam Á nhưng vẫn không tìm được nguồn được phép nối tên 'lá ngón' với loài này (đã thử PubMed, PMC, WebSearch giới hạn moh.gov.vn, chinhphu.vn, vfa.gov.vn, ncbi); đề xuất fix nhẹ bỏ tên riêng. Nếu người làm có nguồn (vd Đỗ Tất Lợi, Những cây thuốc và vị thuốc Việt Nam, kèm trang) thì có thể giữ 'lá ngón'. Kiểm lại: \"(Lá ngón…)\" → \"(Nhiều loài cây, loài nấm cực độc cũng hoàn toàn tự nhiên.)\" đúng fix; claim 9 fixed."
 }

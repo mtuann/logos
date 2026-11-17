@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/bien-chung-socrates.md#tu-kiem-tra",
-  "hash": "sha256:79c864384a44575570c31495f98f90a2b8428a7e206fcdef7013d1f9346ee8be",
+  "hash": "sha256:42e0750d6c0251938c17b829ede8e083c99f5da469229d38a69968f34ad580b3",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06 + agent-kiem-5.5-k03",
   "claims": [
     {
       "text": "Q1 (argument-3): đáp án 1 \"Hỏi định nghĩa: X là gì?\" — explain: vấn đáp bắt đầu bằng câu hỏi định nghĩa, không phải ví dụ.",
@@ -77,7 +77,8 @@
           "quote": "that it makes morality arbitrary",
           "where": "Vế còn lại dẫn đến vấn đề \"tùy tiện\" (Quinn), không phải làm định nghĩa tự sụp đổ"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Q4: đáp án 1 (vấn đáp nhằm cùng tìm sự thật và người hỏi sẵn sàng đổi ý; cãi nhau nhằm thắng); phương án 0 (\"vấn đáp dùng câu hỏi, cãi nhau thì không\") sai vì hỏi xoáy vẫn có thể dùng để làm nhục.",
@@ -116,6 +117,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Đáp án của cả 5 câu đúng. Phương án nhiễu Q5: (a) hết tiền và (c) muốn bay thì vẫn nhất quán với định nghĩa (không tự do), (d) không muốn gì cả không phải phản ví dụ rõ ràng; chỉ (b) đánh vào chữ \"muốn\". Q3 explain lệch với đoạn trước của bài (đoạn Euthyphro nói đúng rằng vế sau dẫn đến \"ý thích thất thường\", không phải làm định nghĩa sụp đổ), mức vừa. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn."
+  "result": "dat",
+  "notes": "Đáp án của cả 5 câu đúng. Phương án nhiễu Q5: (a) hết tiền và (c) muốn bay thì vẫn nhất quán với định nghĩa (không tự do), (d) không muốn gì cả không phải phản ví dụ rõ ràng; chỉ (b) đánh vào chữ \"muốn\". Q3 explain lệch với đoạn trước của bài (đoạn Euthyphro nói đúng rằng vế sau dẫn đến \"ý thích thất thường\", không phải làm định nghĩa sụp đổ), mức vừa. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn. Kiểm lại (k03): explain Q3 đổi theo fix: vế đầu làm \"được các thần yêu\" chỉ là một thuộc tính chứ không nói mộ đạo là gì (khớp Jowett 11a \"to offer an attribute only, and not the essence\"), vế sau biến mộ đạo thành ý thích tùy tiện; khớp đoạn Euthyphro của bài. Claim 3 fixed."
 }

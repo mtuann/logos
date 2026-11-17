@@ -1,8 +1,8 @@
 {
  "unit": "fallacies/f-030",
- "hash": "sha256:03335a4974504a0eb63490b34dd226bd23845a16cc140e7375814315765ab1bc",
+ "hash": "sha256:dbd166a577b81290cfea1c885841153bfaf138ea1b859ee68925ced819164957",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-f02",
+ "checker": "agent-kiem-5.5-f02 + agent-kiem-5.5-k01",
  "claims": [
   {
    "text": "answer: none (thử nghiệm ngẫu nhiên có đối chứng, không phải sau nó nên do nó)",
@@ -52,9 +52,10 @@
      "url": "https://iep.utm.edu/fallacy/",
      "quote": "Suppose we notice that an event of kind A is followed in time by an event of kind B, and then hastily leap to the conclusion that A caused B."
     }
-   ]
+   ],
+   "fixed": true
   }
  ],
  "result": "dat",
- "notes": "Câu why_not.post-hoc vụng (thiếu chủ ngữ), chỉ mức nhẹ."
+ "notes": "Câu why_not.post-hoc vụng (thiếu chủ ngữ), chỉ mức nhẹ. Kiểm lại: why_not.post-hoc đã đổi thành \"Ngụy biện “sau nó nên do nó” chỉ dựa vào trình tự thời gian; …\" đúng fix (chỉ khác kiểu ngoặc kép). Không có khẳng định mới."
 }

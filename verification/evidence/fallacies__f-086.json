@@ -1,8 +1,8 @@
 {
   "unit": "fallacies/f-086",
-  "hash": "sha256:ef384a256dfcb3749e558c8cae37c082c1a54a4f83c74de46a0b62b679d32b1d",
+  "hash": "sha256:58d16f6d383e56979c99ce128e675893b9a4695c4cfa37951eaa192329cd98aa",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-f05 + agent-kiem-5.5-r01",
+  "checker": "agent-kiem-5.5-f05 + agent-kiem-5.5-r01 + agent-kiem-5.5-k01",
   "claims": [
     {
       "text": "answer: equivocation (\"giảm muối\" bị hiểu là hạt muối thay vì natri trong khẩu phần)",
@@ -81,9 +81,10 @@
           "quote": "as well as in condiments (e.g., soy and fish sauce). Sodium is also contained in sodium glutamate",
           "where": "WHO Sodium reduction fact sheet"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Logic đúng. WHO fact sheet xác nhận natri có nhiều trong gia vị như nước mắm và nước tương (quote: \"condiments (e.g., soy and fish sauce)\") nên phần nước mắm đúng; nhưng bột canh (hỗn hợp muối-bột ngọt kiểu Việt) không có nguồn mở được trong phiên. Nguồn: https://www.who.int/news-room/fact-sheets/detail/salt-reduction. Không tranh chấp đáp án. Lượt 2: claim #5 (bột canh) vẫn không có nguồn được phép (đã thử WHO salt/sodium fact sheet, tìm PMC 'seasoning powder' Vietnam sodium): đổi thành sai mức nhẹ, fix bỏ chi tiết bột canh; WHO chỉ xác nhận natri trong nước mắm và trong bột ngọt (sodium glutamate)."
+  "notes": "Logic đúng. WHO fact sheet xác nhận natri có nhiều trong gia vị như nước mắm và nước tương (quote: \"condiments (e.g., soy and fish sauce)\") nên phần nước mắm đúng; nhưng bột canh (hỗn hợp muối-bột ngọt kiểu Việt) không có nguồn mở được trong phiên. Nguồn: https://www.who.int/news-room/fact-sheets/detail/salt-reduction. Không tranh chấp đáp án. Lượt 2: claim #5 (bột canh) vẫn không có nguồn được phép (đã thử WHO salt/sodium fact sheet, tìm PMC 'seasoning powder' Vietnam sodium): đổi thành sai mức nhẹ, fix bỏ chi tiết bột canh; WHO chỉ xác nhận natri trong nước mắm và trong bột ngọt (sodium glutamate). Kiểm lại: explanation đã bỏ \"bột canh\", còn \"nước mắm chứa rất nhiều natri\" đúng fix; phần nước mắm đã có nguồn WHO ở claim #4. Không có khẳng định mới."
 }

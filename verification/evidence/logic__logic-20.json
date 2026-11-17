@@ -1,8 +1,8 @@
 {
  "unit": "logic/logic-20",
- "hash": "sha256:3d3e9e2d8b7facfab8f0fac86dd9d89c3c957f6ea70d1649a6142cc6e39282af",
+ "hash": "sha256:06fb4428de47ce256e603cf9a825e2945c14c9246f07953c2c657318665ce948",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-d02 + agent-kiem-5.5-r04",
+ "checker": "agent-kiem-5.5-d02 + agent-kiem-5.5-r04 + agent-kiem-5.5-k01",
  "claims": [
   {
    "text": "dap_an: khong-hop-le",
@@ -45,7 +45,8 @@
      "quote": "Can you see that the original proposition and the inverse are saying different things?",
      "where": "§3.1, sau Definition 3.1.11"
     }
-   ]
+   ],
+   "fixed": true
   },
   {
    "text": "giai_thich: Phản ví dụ P=sai, Q=đúng; kéo theo đúng rỗng",
@@ -60,5 +61,5 @@
   }
  ],
  "result": "dat",
- "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề.  Tên \"inverse\" cho ¬P→¬Q: đã thử IEP prop-log, IEP fallacy, IEP aristotle-logic, SEP fallacies, SEP logic-classical (phần hiển thị), không thấy từ \"inverse\"; dạng không hợp lệ đã xác nhận bằng bảng chân trị. Lượt 2: tên 'inverse' cho ¬P→¬Q xác nhận bằng Applied Discrete Structures §3.1 Def. 3.1.11. Nhưng tên tiếng Việt 'đảo ngược mệnh đề' bài cong-cu/nguy-bien-hinh-thuc.md (mục bon-cai-bay, bang-tra-nhanh, quiz 4) dùng cho dạng khác, 'nếu Q thì P' (converse); cùng một tên cho hai dạng làm người đọc lẫn, nên ghi sai mức nhẹ, fix đổi tên tiếng Việt ở bản ghi này (chủ biên có thể chọn tên khác)."
+ "notes": "Bảng chân trị bằng script (scratchpad/d02/tt.py) khớp dap_an; ký hiệu khớp đề.  Tên \"inverse\" cho ¬P→¬Q: đã thử IEP prop-log, IEP fallacy, IEP aristotle-logic, SEP fallacies, SEP logic-classical (phần hiển thị), không thấy từ \"inverse\"; dạng không hợp lệ đã xác nhận bằng bảng chân trị. Lượt 2: tên 'inverse' cho ¬P→¬Q xác nhận bằng Applied Discrete Structures §3.1 Def. 3.1.11. Nhưng tên tiếng Việt 'đảo ngược mệnh đề' bài cong-cu/nguy-bien-hinh-thuc.md (mục bon-cai-bay, bang-tra-nhanh, quiz 4) dùng cho dạng khác, 'nếu Q thì P' (converse); cùng một tên cho hai dạng làm người đọc lẫn, nên ghi sai mức nhẹ, fix đổi tên tiếng Việt ở bản ghi này (chủ biên có thể chọn tên khác). Kiểm lại: giai_thich đã đổi thành \"Phủ định hai vế (inverse) — …\" đúng nguyên văn fix; tên này không bị dùng cho dạng khác trong docs/. Không có khẳng định mới."
 }

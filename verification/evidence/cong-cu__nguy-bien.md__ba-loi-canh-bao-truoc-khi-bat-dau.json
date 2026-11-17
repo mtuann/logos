@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/nguy-bien.md#ba-loi-canh-bao-truoc-khi-bat-dau",
-  "hash": "sha256:6c86addbd234f711ef1889404859200a6d97af30663afa1a7f71848f963e3443",
+  "hash": "sha256:009300da3da4c7081544e45381d416011a6d6670752e68351405e84688a77638",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01",
+  "checker": "agent-kiem-5.5-p08 + agent-kiem-5.5-r01 + agent-kiem-5.5-k02",
   "claims": [
     {
       "text": "Một lập luận có ngụy biện không có nghĩa kết luận sai (chú Hải: lý do không đủ, không cho thấy nước chanh vô hại hay có hại)",
@@ -32,7 +32,8 @@
           "quote": "Truth can be obtained from bad reasoning if the errors cancel out.",
           "where": "IEP, mục 1"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Như Bradley Dowden lưu ý trong mục 'Fallacies' của IEP, dán nhãn ngụy biện không thay được việc xem xét kỹ đoạn văn và bối cảnh của nó",
@@ -89,5 +90,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tên 'ngụy biện về ngụy biện' (fallacy fallacy) không có trong SEP Fallacies hay IEP Fallacies đã mở (không có mục này); nội dung logic (lập luận tồi không làm kết luận sai) khớp SEP ad hominem hoàn cảnh và IEP 'Truth can be obtained from bad reasoning'. Việc gán riêng cho Walton: SEP nói chung về 'ad-arguments' và lược đồ dùng khi chính đáng khi sai, không nêu tên Walton trong câu đó; chấp nhận. Dowden: câu trích IEP đúng, tác giả mục là Dowden. Lượt 2: claim #1: nội dung (lập luận tồi không chứng minh kết luận sai) có IEP ủng hộ; cách nói 'đôi khi được gọi' khẳng định một lối gọi có thật mà không tìm được nguồn SEP/IEP nào dùng tên này (đã grep 'fallacy fallacy', 'argument from fallacy' trên SEP search và IEP), nên đề xuất fix nhẹ: gọi là tên do bài đặt."
+  "notes": "Tên 'ngụy biện về ngụy biện' (fallacy fallacy) không có trong SEP Fallacies hay IEP Fallacies đã mở (không có mục này); nội dung logic (lập luận tồi không làm kết luận sai) khớp SEP ad hominem hoàn cảnh và IEP 'Truth can be obtained from bad reasoning'. Việc gán riêng cho Walton: SEP nói chung về 'ad-arguments' và lược đồ dùng khi chính đáng khi sai, không nêu tên Walton trong câu đó; chấp nhận. Dowden: câu trích IEP đúng, tác giả mục là Dowden. Lượt 2: claim #1: nội dung (lập luận tồi không chứng minh kết luận sai) có IEP ủng hộ; cách nói 'đôi khi được gọi' khẳng định một lối gọi có thật mà không tìm được nguồn SEP/IEP nào dùng tên này (đã grep 'fallacy fallacy', 'argument from fallacy' trên SEP search và IEP), nên đề xuất fix nhẹ: gọi là tên do bài đặt. Kiểm lại: bỏ \"đôi khi được gọi đùa\", thay \"ta có thể gọi nó là\" đúng fix; claim 1 fixed."
 }

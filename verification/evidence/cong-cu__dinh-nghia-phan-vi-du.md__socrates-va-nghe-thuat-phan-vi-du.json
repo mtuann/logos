@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#socrates-va-nghe-thuat-phan-vi-du",
-  "hash": "sha256:e01488115e99b92e6db4333cf07ca1d7ff78bc2bc1d6b8669125870962be1342",
+  "hash": "sha256:513a920f4b8ac1bfa1de046597ec59cdf23192188530a7d77f224af2ccf481a5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-k02",
   "claims": [
     {
       "text": "Trong Cộng hòa của Platon, Socrates liên tục hỏi \"công lý là gì?\" và dùng trường hợp cụ thể để thử các định nghĩa",
@@ -64,6 +64,19 @@
           "quote": "I mean to say that the holy has been acknowledge by us to be loved of God because it is holy, not to be holy because it is loved.",
           "where": "Euthyphro (Jowett): Socrates chỉ đặt hướng nhân quả thứ nhất và nêu tính vòng tròn; \"sở thích tùy tiện\" là cách đọc về sau, không phải lời trong đối thoại"
         }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "theo cách đọc ngày nay, nó chỉ là cái tên gọi cho sở thích của các thần",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voluntarism-theological/",
+          "quote": "It is also an extraordinarily popular charge against theological voluntarism that it entails, objectionably, that morality is arbitrary.",
+          "where": "SEP Theological Voluntarism, §3.2 Theological voluntarism and arbitrariness"
+        }
       ]
     }
   ],
@@ -75,5 +88,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Claim \"sai\" mức nhe: bài trình bày sừng thứ hai theo cách đọc hiện đại (tính tùy tiện) như thể là lập luận của Socrates trong văn bản. Không cần sửa để đóng đơn vị (mức nhe). Không mở được SEP về Euthyphro (plato-ethics-dialogues, divine-command, plato-republic, socrates đều 404 hoặc không có đoạn); dùng bản dịch Jowett tại MIT Classics. Chữ \"Platon, Cộng hòa\" của Socrates \"liên tục\" là mô tả chung, đúng với Quyển I."
+  "notes": "Claim \"sai\" mức nhe: bài trình bày sừng thứ hai theo cách đọc hiện đại (tính tùy tiện) như thể là lập luận của Socrates trong văn bản. Không cần sửa để đóng đơn vị (mức nhe). Không mở được SEP về Euthyphro (plato-ethics-dialogues, divine-command, plato-republic, socrates đều 404 hoặc không có đoạn); dùng bản dịch Jowett tại MIT Classics. Chữ \"Platon, Cộng hòa\" của Socrates \"liên tục\" là mô tả chung, đúng với Quyển I. Kiểm lại: chữ mới thêm \"ngoài việc được yêu\" và \"theo cách đọc ngày nay\", đúng ý fix (tách lời Socrates khỏi cách đọc về sau); claim 4 fixed. Thêm claim cho cụm \"theo cách đọc ngày nay\" (SEP Theological Voluntarism, phản bác tính tùy tiện)."
 }

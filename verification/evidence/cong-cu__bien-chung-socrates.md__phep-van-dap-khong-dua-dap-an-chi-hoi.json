@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/bien-chung-socrates.md#phep-van-dap-khong-dua-dap-an-chi-hoi",
-  "hash": "sha256:dbdd3fd6dbec98c05964efe46ebc55663f4967df25ded0198dc15252dd31a723",
+  "hash": "sha256:975e7a96f58649be55ed7c4bc3d1c6f1845be1eb0f2933bd1579b9fdb2398ab9",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06 + agent-kiem-5.5-k03",
   "claims": [
     {
       "text": "Phép vấn đáp (elenchus) là cách Socrates tranh luận: ông ... chỉ hỏi người đối thoại — rồi dùng chính câu trả lời của họ để chỉ ra mâu thuẫn.",
@@ -111,7 +111,8 @@
           "quote": "The second response is called the non-constructivist position.",
           "where": "mục Elenchus: cách đọc phi kiến tạo"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -122,5 +123,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm bước là cách hệ thống hóa của site, nội dung từng bước khớp với IEP và SEP Plato's Ethics. Mục không nêu tranh luận học thuật về elenchus (IEP: cách đọc kiến tạo / phi kiến tạo; vấn đề Vlastos), nên phan-bac=false; lỗi nhẹ, không chặn. Quote Euthyphro lấy từ Gutenberg #1642 (bản lưu web.archive.org vì gutenberg.org đang bảo trì khi kiểm). \"aporia\" không xuất hiện nguyên chữ trong SEP/IEP Socrates; dùng SEP Plato's Ethics mục \"aporetic procedure\". Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn."
+  "notes": "Năm bước là cách hệ thống hóa của site, nội dung từng bước khớp với IEP và SEP Plato's Ethics. Mục không nêu tranh luận học thuật về elenchus (IEP: cách đọc kiến tạo / phi kiến tạo; vấn đề Vlastos), nên phan-bac=false; lỗi nhẹ, không chặn. Quote Euthyphro lấy từ Gutenberg #1642 (bản lưu web.archive.org vì gutenberg.org đang bảo trì khi kiểm). \"aporia\" không xuất hiện nguyên chữ trong SEP/IEP Socrates; dùng SEP Plato's Ethics mục \"aporetic procedure\". Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn. Kiểm lại (k03): chữ mới thêm rào \"Theo cách đọc phổ biến\" trước câu \"Socrates không áp đặt đáp án từ bên ngoài\", đúng ý fix (nói rõ đây là một cách đọc, không phải dữ kiện chắc chắn); không thêm khẳng định mới. Claim 5 fixed."
 }

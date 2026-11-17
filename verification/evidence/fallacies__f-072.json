@@ -1,8 +1,8 @@
 {
   "unit": "fallacies/f-072",
-  "hash": "sha256:604663a9969823d38d48e83ecea2cb244c2680d5e95e3459a515f81b9ed7db85",
+  "hash": "sha256:cd5621c9c4b89ec6b42115fad67dc0fab48c436b439b3ee18f22baa30b86523b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-f04",
+  "checker": "agent-kiem-5.5-f04 + agent-kiem-5.5-k01",
   "claims": [
     {
       "text": "answer: tu-quoque",
@@ -86,9 +86,10 @@
           "quote": "Digital eye strain affects people of all ages.",
           "where": "đoạn mở đầu"
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "result": "dat",
-  "notes": "Đáp án tu-quoque đúng. Lỗi nhẹ: \"hại mắt\" ở explanation; AAO nói màn hình gây mỏi mắt kỹ thuật số, không gây hại vĩnh viễn."
+  "notes": "Đáp án tu-quoque đúng. Lỗi nhẹ: \"hại mắt\" ở explanation; AAO nói màn hình gây mỏi mắt kỹ thuật số, không gây hại vĩnh viễn. Kiểm lại: explanation đã đổi \"hại mắt\" thành \"làm mắt mỏi\" đúng fix, khớp AAO (mắt khó chịu khi nhìn màn hình lâu). Không có khẳng định mới."
 }

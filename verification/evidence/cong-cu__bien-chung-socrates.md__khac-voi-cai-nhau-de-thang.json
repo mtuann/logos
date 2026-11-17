@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/bien-chung-socrates.md#khac-voi-cai-nhau-de-thang",
-  "hash": "sha256:427a543e2cde83e4c25dcfdcc68c5a7c2c557f6f5541cca7473307f68baf28da",
+  "hash": "sha256:5a1a413427f6897858dad7d23d037f8c1bf0c4a87bab8aa03701622df50ae127",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06",
+  "checker": "agent-kiem-5.5-p14 + agent-kiem-5.5-r06 + agent-kiem-5.5-k03",
   "claims": [
     {
       "text": "Socrates thường mở đầu bằng việc thừa nhận mình không biết.",
@@ -55,6 +55,24 @@
           "quote": "Socrates shames Thrasymachus",
           "where": "IEP Elenchus (Republic I 350d)"
         }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "trong các đối thoại của Platon, Socrates đôi khi làm người đối thoại bẽ mặt, như Thrasymachus ở quyển I Cộng hòa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/socrates/",
+          "quote": "Socrates shames Thrasymachus when he shows him that he cannot maintain his view that justice is ignorance and injustice is wisdom",
+          "where": "IEP Socrates, mục Elenchus (Republic I 350d)"
+        },
+        {
+          "url": "https://web.archive.org/web/2025/https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
+          "quote": "and then I saw what I had never seen before, Thrasymachus blushing",
+          "where": "Republic quyển I, 350d (Jowett, Gutenberg #1497)"
+        }
       ]
     }
   ],
@@ -66,5 +84,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục là lời khuyên chuẩn tắc cho người dùng ngày nay, không phải trình bày lịch sử. Câu \"ngược lại Socrates\" khớp Euthyphro; nhưng IEP nêu cách đọc elenchus nhắm cả người nói (Thrasymachus), nên ranh giới \"không tấn công người\" không hoàn toàn mô tả Socrates. Mức nhẹ; chưa có đoạn phản bác. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn."
+  "notes": "Mục là lời khuyên chuẩn tắc cho người dùng ngày nay, không phải trình bày lịch sử. Câu \"ngược lại Socrates\" khớp Euthyphro; nhưng IEP nêu cách đọc elenchus nhắm cả người nói (Thrasymachus), nên ranh giới \"không tấn công người\" không hoàn toàn mô tả Socrates. Mức nhẹ; chưa có đoạn phản bác. Lượt 2: đổi URL Gutenberg #1642 sang bản lưu web.archive.org của pg1642.txt; quote đã khớp nguyên văn. Kiểm lại (k03): thêm câu trong ngoặc \"Đây là chuẩn của tranh luận ngày nay; trong các đối thoại của Platon, Socrates đôi khi làm người đối thoại bẽ mặt, như Thrasymachus ở quyển I Cộng hòa\", đúng fix. Thêm claim mới cho chi tiết Thrasymachus, nguồn IEP Socrates (Republic I 350d) và Republic quyển I bản Jowett (Gutenberg #1497, bản lưu web.archive.org). Claim 2 fixed."
 }

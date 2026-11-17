@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/doc-van-ban-kho.md#dung-xau-ho-khi-phai-doc-ba-lan",
-  "hash": "sha256:c5546c8a08f531510acd53a09696033db80727cb1b97683f8c0e33eba44a9e17",
+  "hash": "sha256:415cfe0fc225eaad9a220df8f733cd953dd0c89de21a21d34d2131215d94b593",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p09 + agent-kiem-5.5-r06",
+  "checker": "agent-kiem-5.5-p09 + agent-kiem-5.5-r06 + agent-kiem-5.5-k02",
   "claims": [
     {
       "text": "Nhà triết học Mortimer Adler — người viết cả một cuốn sách chỉ để dạy cách đọc sách — gọi đây là đọc phân tích: nắm cấu trúc trước, phán xét sau.",
@@ -26,7 +26,8 @@
           "where": "nt., tr. 164, quy tắc 9 (giai đoạn 3: phê phán)",
           "quote": "Do not begin criticism until you have completed your … your interpretation of the book"
         }
-      ]
+      ],
+      "fixed": true
     },
     {
       "text": "Adler viết một cuốn sách về cách đọc sách",
@@ -53,5 +54,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Chỉ xác nhận được sự tồn tại của cuốn How to Read a Book (Adler, 1940). Chưa mở được nội dung sách để xác nhận (a) Adler dùng tên 'đọc phân tích' (analytical reading) cho cách đọc 'nắm cấu trúc trước, phán xét sau', và (b) việc gọi ông là 'nhà triết học'. Đã thử: britannica.com/biography/Mortimer-J-Adler (403), simonandschuster.com (403), archive.org full text djvu.txt của howtoreadbook0000adle và howtoreadbook0000adle_y9v4 (không có thân sách; bản mượn bị hạn chế), encyclopedia.com (404), jstor.org/stable/4332181 (không tải), googleapis books (429). Wikipedia chỉ gợi 'Structural/Interpretive/Critical stage' của analytical reading nhưng không phải nguồn được dùng. Người làm cần nguồn có trang (ví dụ bản 1972, Part Two) hoặc đổi câu. Lượt 2: mở toàn văn How to Read a Book bản 1972 (archive.org, item howtoreadabook1972edition, djvu.txt công khai): xác nhận \"đọc phân tích\" = nắm cấu trúc (giai đoạn 1) rồi mới phê phán (quy tắc 9). Danh xưng \"nhà triết học\" chưa có nguồn được phép (SEP chỉ nhắc Adler trong thư mục mục Maritain) nên claim #0 chuyển thành sai mức nhẹ, fix bỏ danh xưng. Sửa quote metadata archive.org cho khớp JSON."
+  "notes": "Chỉ xác nhận được sự tồn tại của cuốn How to Read a Book (Adler, 1940). Chưa mở được nội dung sách để xác nhận (a) Adler dùng tên 'đọc phân tích' (analytical reading) cho cách đọc 'nắm cấu trúc trước, phán xét sau', và (b) việc gọi ông là 'nhà triết học'. Đã thử: britannica.com/biography/Mortimer-J-Adler (403), simonandschuster.com (403), archive.org full text djvu.txt của howtoreadbook0000adle và howtoreadbook0000adle_y9v4 (không có thân sách; bản mượn bị hạn chế), encyclopedia.com (404), jstor.org/stable/4332181 (không tải), googleapis books (429). Wikipedia chỉ gợi 'Structural/Interpretive/Critical stage' của analytical reading nhưng không phải nguồn được dùng. Người làm cần nguồn có trang (ví dụ bản 1972, Part Two) hoặc đổi câu. Lượt 2: mở toàn văn How to Read a Book bản 1972 (archive.org, item howtoreadabook1972edition, djvu.txt công khai): xác nhận \"đọc phân tích\" = nắm cấu trúc (giai đoạn 1) rồi mới phê phán (quy tắc 9). Danh xưng \"nhà triết học\" chưa có nguồn được phép (SEP chỉ nhắc Adler trong thư mục mục Maritain) nên claim #0 chuyển thành sai mức nhẹ, fix bỏ danh xưng. Sửa quote metadata archive.org cho khớp JSON. Kiểm lại: bỏ \"Nhà triết học\" trước Mortimer Adler đúng fix; claim 0 fixed."
 }

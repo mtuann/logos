@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#dinh-nghia-trong-doi-song-khi-ranh-gioi-co-gia",
-  "hash": "sha256:bf035086db13da18d0946d66f4bccaa1c695bc0334e7900ba78aebb1f88e041e",
+  "hash": "sha256:d0903ace7e2e68f8bc9c929975f0d348d25eac1ce1909ba4812ab7ad379a80e2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06 + agent-kiem-5.5-k02",
   "claims": [
     {
       "text": "Trong pháp luật, định nghĩa vạch ranh giới có tội/vô tội (\"người thành niên\", \"tội cố ý\", \"phòng vệ chính đáng\"); định nghĩa quá rộng là oan sai, quá hẹp là bỏ lọt",
@@ -28,7 +28,8 @@
           "where": "SEP Definitions, mục adequacy: chỉ nói định nghĩa đầy đủ là không có phản ví dụ; không nói về lịch sử điều khoản loại trừ",
           "quote": "A definition is extensionally adequate iff there are no actual counterexamples to it."
         }
-      ]
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -39,5 +40,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Câu về nguồn gốc lịch sử của các điều khoản loại trừ (\"dấu vết của hàng chục phản ví dụ\") là nhận định chung, không có nguồn SEP/IEP trực tiếp mở được; không đoán. Mức nhẹ; có thể gỡ hoặc mềm hóa (\"có thể là dấu vết\"). Không có dữ kiện sai. Lượt 2: không tìm thấy nguồn được phép cho nhận định về nguồn gốc điều khoản loại trừ; chuyển claim thành sai mức nhẹ kèm fix nói thận trọng hơn."
+  "notes": "Câu về nguồn gốc lịch sử của các điều khoản loại trừ (\"dấu vết của hàng chục phản ví dụ\") là nhận định chung, không có nguồn SEP/IEP trực tiếp mở được; không đoán. Mức nhẹ; có thể gỡ hoặc mềm hóa (\"có thể là dấu vết\"). Không có dữ kiện sai. Lượt 2: không tìm thấy nguồn được phép cho nhận định về nguồn gốc điều khoản loại trừ; chuyển claim thành sai mức nhẹ kèm fix nói thận trọng hơn. Kiểm lại: câu điều khoản loại trừ đã thay đúng nguyên văn fix (bỏ \"dằng dặc\", \"dấu vết của hàng chục\"); claim 1 fixed."
 }

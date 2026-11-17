@@ -1,8 +1,8 @@
 {
  "unit": "fallacies/f-021",
- "hash": "sha256:130368cb0605dfc52a29bf0e0bdb3bc1a377d91479c6110b274d43b824904b9b",
+ "hash": "sha256:75112ffbe0bc5017fdd8b18294067cdec34009a2ad718338cb7eaaf37657ae27",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.5-f02",
+ "checker": "agent-kiem-5.5-f02 + agent-kiem-5.5-k01",
  "claims": [
   {
    "text": "answer: post-hoc",
@@ -63,7 +63,8 @@
      "url": "https://www.nhs.uk/conditions/back-pain/",
      "quote": "It usually improves within a few weeks but can sometimes last longer or keep coming back."
     }
-   ]
+   ],
+   "fixed": true
   },
   {
    "text": "why_not.begging-question / appeal-nature / appeal-authority: nhận định đúng về nội dung đoạn",
@@ -78,5 +79,5 @@
   }
  ],
  "result": "dat",
- "notes": "NHS: thường cải thiện trong vài tuần; \"vài ngày\" hơi hẹp, chỉ mức nhẹ."
+ "notes": "NHS: thường cải thiện trong vài tuần; \"vài ngày\" hơi hẹp, chỉ mức nhẹ. Kiểm lại: explanation đã đổi thành \"Đau lưng thường tự đỡ sau vài ngày đến vài tuần.\" đúng fix, khớp NHS (\"usually improves within a few weeks\"). Không có khẳng định mới."
 }
