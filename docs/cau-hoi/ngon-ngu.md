@@ -11,7 +11,7 @@ block: tri-thuc
 
 !!! summary "Tóm tắt 5 phút"
 
-    - Luận điểm chính: giả thuyết Sapir-Whorf hỏi ngôn ngữ có định hình tư duy không — với hai phiên bản: mạnh (thuyết quyết định ngôn ngữ: ngôn ngữ *quyết định* tư duy) và yếu (tương đối tính ngôn ngữ: ngôn ngữ *ảnh hưởng* tư duy); số phận hai phiên bản rất khác nhau.
+    - Luận điểm chính: giả thuyết Sapir-Whorf hỏi ngôn ngữ có định hình tư duy không — với hai phiên bản: mạnh (tất định luận ngôn ngữ: ngôn ngữ *quyết định* tư duy) và yếu (tương đối tính ngôn ngữ: ngôn ngữ *ảnh hưởng* tư duy); số phận hai phiên bản rất khác nhau.
     - Ba lập trường: phiên bản mạnh (Whorf về người Hopi) — đã sụp ở ví dụ trung tâm vì Malotki (*Hopi Time*, 1983) chứng minh tiếng Hopi có hệ thống diễn đạt thời gian phong phú; phiên bản yếu — có bằng chứng thực nghiệm: người nói tiếng Nga phân biệt hai sắc xanh nhanh hơn khi chúng nằm ở hai bên ranh giới từ vựng *goluboy*/*siniy*, người nói tiếng Anh thì không có lợi thế này (Winawer 2007); giống ngữ pháp có thể "nhuộm màu" cảm nhận sự vật (Boroditsky 2003, kết quả chưa lặp lại được); [Wittgenstein](../triet-gia/wittgenstein.md) (*Philosophical Investigations*, 1953) — tấn công từ hướng khác: ngôn ngữ riêng tư là không thể, ý nghĩa của từ nằm ở trò chơi ngôn ngữ công cộng chứ không ở cảm giác riêng trong đầu (lập luận "bọ cánh cứng", §293).
     - Thái độ của bài: câu chuyện "người Eskimo có hàng chục từ chỉ tuyết" bị thổi phồng (Martin 1986) là lời cảnh báo mở đầu — khẳng định về ngôn ngữ cũng cần kiểm chứng; học ngoại ngữ không cho bộ não mới, nhưng cho một thói quen chú ý mới.
 
@@ -36,7 +36,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp. Chú
 
 Câu hỏi này có tên là **giả thuyết Sapir-Whorf**, theo tên hai nhà ngôn ngữ học Edward Sapir và Benjamin Lee Whorf. Nó có hai phiên bản, mạnh yếu khác nhau, và số phận của chúng cũng khác nhau:
 
-- **Phiên bản mạnh** — **thuyết quyết định ngôn ngữ** (*linguistic determinism*): ngôn ngữ *quyết định* tư duy. Người nói những ngôn ngữ khác nhau sống trong những thế giới tinh thần khác nhau, không thể dịch sang nhau trọn vẹn.
+- **Phiên bản mạnh** — **tất định luận ngôn ngữ** (*linguistic determinism*): ngôn ngữ *quyết định* tư duy. Người nói những ngôn ngữ khác nhau sống trong những thế giới tinh thần khác nhau, không thể dịch sang nhau trọn vẹn.
 - **Phiên bản yếu** — **tương đối tính ngôn ngữ** (*linguistic relativity*): ngôn ngữ *ảnh hưởng* đến tư duy: hướng sự chú ý, giúp ghi nhớ, làm cho một số phân biệt trở nên dễ dàng hơn.
 
 Hai phiên bản này khác nhau một trời một vực. Phiên bản mạnh nói về *khả năng*; phiên bản yếu nói về *khuynh hướng*. Hầu hết tranh luận hiện nay là: phiên bản mạnh đã chết chưa, và phiên bản yếu đúng đến mức nào?
@@ -58,7 +58,7 @@ Có một góc nhìn khác, cũng rắc rối không kém: vấn đề *dịch t
 
 ### 1. Phiên bản mạnh: ngôn ngữ quyết định thế giới của ta
 
-Benjamin Lee Whorf, trong các bài viết những năm 1930–1940 (tập hợp trong *Language, Thought, and Reality*, 1956), đưa ra ví dụ nổi tiếng về người Hopi, một dân tộc bản địa Bắc Mỹ. Theo Whorf, tiếng Hopi không chia động từ theo thì quá khứ/hiện tại/tương lai như tiếng Anh, và không có từ trừu tượng chỉ "thời gian" như một dòng chảy. Kết luận của ông: người Hopi cảm nhận thời gian theo một cách hoàn toàn khác — không phải một dòng sông trôi, mà là những chu kỳ lặp lại. Ngôn ngữ đã định hình siêu hình học của họ.
+Benjamin Lee Whorf, trong các bài viết những năm 1930–1940 (tập hợp trong *Language, Thought, and Reality*, 1956), đưa ra ví dụ nổi tiếng về người Hopi, một dân tộc bản địa Bắc Mỹ. Theo Whorf, tiếng Hopi không chia động từ theo thì quá khứ/hiện tại/tương lai như tiếng Anh, và không có từ trừu tượng chỉ "thời gian" như một dòng chảy. Kết luận của ông: người Hopi cảm nhận thời gian theo một cách hoàn toàn khác — không phải một dòng sông trôi đều qua quá khứ, hiện tại, tương lai, mà là một quá trình biến đổi. Ngôn ngữ đã định hình siêu hình học của họ.
 
 **Lập luận mạnh nhất.** Nếu Whorf đúng, thì đây là một phát hiện chấn động: cái ta tưởng là "thực tại hiển nhiên" (thời gian trôi, màu sắc rạch ròi) hóa ra chỉ là thực tại *của người nói tiếng Anh*. Mỗi ngôn ngữ là một lăng kính khác nhau, và không có lăng kính trung lập nào để so sánh chúng. Điều này cũng giải thích vì sao dịch thuật khó đến vậy: có những điều "không thể nói" bằng ngôn ngữ khác.
 
@@ -150,7 +150,7 @@ Câu hỏi dẫn dắt:
 
 1. Wittgenstein nói vật trong hộp "không đóng vai trò gì" trong ý nghĩa của từ. Bạn có đồng ý không? Hãy thử nghĩ một phản ví dụ: có trường hợp nào mà vật riêng tư *phải* đóng vai trò không?
 2. Nếu ý nghĩa của "đau" nằm ở cách dùng công cộng, thì một người sống hoàn toàn một mình từ nhỏ (giả sử sống sót được) có thể có từ "đau" không?
-3. Lập luận này, nếu đúng, sẽ gây khó khăn gì cho thuyết quyết định ngôn ngữ (phiên bản mạnh)?
+3. Lập luận này, nếu đúng, sẽ gây khó khăn gì cho tất định luận ngôn ngữ (phiên bản mạnh)?
 
 ## Tự kiểm tra {#tu-kiem-tra}
 
@@ -159,7 +159,7 @@ Thử xem bạn nắm được đến đâu.
 <div class="oz-quiz" data-id="knowledge-4" data-skill="knowledge" markdown="0">
 <script type="application/json">
 [
- {"q": "Điểm khác nhau cốt lõi giữa phiên bản mạnh và phiên bản yếu của giả thuyết Sapir-Whorf là gì?", "options": ["Phiên bản mạnh do Sapir đề xuất, phiên bản yếu do Whorf đề xuất", "Phiên bản mạnh nói ngôn ngữ quyết định tư duy (khả năng), phiên bản yếu nói ngôn ngữ chỉ ảnh hưởng/hướng sự chú ý (khuynh hướng)", "Phiên bản mạnh nói về từ vựng, phiên bản yếu nói về ngữ pháp", "Hai phiên bản không khác nhau"], "answer": 1, "explain": "Phiên bản mạnh (thuyết quyết định ngôn ngữ) nói về khả năng: ngôn ngữ quyết định ta có thể nghĩ gì. Phiên bản yếu (tương đối tính ngôn ngữ) chỉ nói về khuynh hướng: ngôn ngữ làm một số phân biệt trở nên dễ/chú ý hơn. Cả hai tên đều gắn với cả Sapir và Whorf."},
+ {"q": "Điểm khác nhau cốt lõi giữa phiên bản mạnh và phiên bản yếu của giả thuyết Sapir-Whorf là gì?", "options": ["Phiên bản mạnh do Sapir đề xuất, phiên bản yếu do Whorf đề xuất", "Phiên bản mạnh nói ngôn ngữ quyết định tư duy (khả năng), phiên bản yếu nói ngôn ngữ chỉ ảnh hưởng/hướng sự chú ý (khuynh hướng)", "Phiên bản mạnh nói về từ vựng, phiên bản yếu nói về ngữ pháp", "Hai phiên bản không khác nhau"], "answer": 1, "explain": "Phiên bản mạnh (tất định luận ngôn ngữ) nói về khả năng: ngôn ngữ quyết định ta có thể nghĩ gì. Phiên bản yếu (tương đối tính ngôn ngữ) chỉ nói về khuynh hướng: ngôn ngữ làm một số phân biệt trở nên dễ/chú ý hơn. Cả hai tên đều gắn với cả Sapir và Whorf."},
  {"q": "Nghiên cứu của Berlin & Kay (1969) về từ màu sắc và Rosch (1972) về người Dani cùng cho thấy điều gì?", "options": ["Từ vựng màu sắc quyết định hoàn toàn khả năng nhận biết màu", "Người Dani nhìn thấy ít màu hơn người Anh", "Nhận thức và trí nhớ màu sắc có nền tảng chung ở con người, không bị số lượng từ màu quyết định", "Tiếng Dani là ngôn ngữ duy nhất không có từ màu"], "answer": 2, "explain": "Dù chỉ có hai từ màu, người Dani, giống người nói tiếng Anh, ghi nhớ các màu tập trung tốt hơn các màu khác; còn các từ màu xuất hiện theo một trật tự chung giữa các ngôn ngữ. Đây là bằng chứng mạnh chống lại phiên bản mạnh của giả thuyết, dù kết quả về trí nhớ màu về sau bị thách thức (Roberson và đồng nghiệp 2000)."},
  {"q": "Malotki (1983) đã làm gì với ví dụ người Hopi của Whorf?", "options": ["Xác nhận Whorf hoàn toàn đúng", "Chứng minh tiếng Hopi có hệ thống diễn đạt thời gian phong phú, chỉ khác tiếng Anh chứ không phải 'không có thời gian' — Whorf sai về sự kiện", "Chứng minh người Hopi không có khái niệm thời gian", "Không liên quan đến Whorf"], "answer": 1, "explain": "Sau nhiều năm nghiên cứu thực địa, Malotki cho thấy tiếng Hopi diễn đạt thời gian rất tinh vi. Ví dụ trung tâm của Whorf sụp đổ ở mức sự kiện, dù nguyên lý chung 'ngôn ngữ có ảnh hưởng' vẫn còn được bàn."},
  {"q": "Lập luận 'bọ cánh cứng trong hộp' (§293) của Wittgenstein nhằm chứng minh điều gì?", "options": ["Cảm giác đau không có thật", "Nghĩa của từ chỉ cảm giác không thể dựa vào một vật riêng tư không ai kiểm chứng được; ý nghĩa nằm ở cách dùng công cộng", "Ngôn ngữ nào cũng có thể dịch sang ngôn ngữ khác", "Trẻ em không thể học từ 'đau'"], "answer": 1, "explain": "Vì không ai kiểm tra được vật trong hộp của người khác, vật đó không đóng vai trò gì trong ý nghĩa của từ. Tương tự, nghĩa của 'đau' không phải là cảm giác riêng tư, mà là trò chơi ngôn ngữ công cộng xung quanh nó. Wittgenstein không phủ nhận cảm giác là có thật."},
