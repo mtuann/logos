@@ -24,7 +24,7 @@ Văn bản này đáng đọc vì nó là chân dung rõ nhất về Socrates �
 
 Socrates (k. 469–399 TCN) cả đời đi hỏi người khác: chính trị gia, thi sĩ, thợ thủ công. Ai cũng tưởng mình biết, và ai cũng lúng túng khi bị hỏi đến cùng. Nhiều người Athens khó chịu.
 
-Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là tiếng đồn tích tụ nhiều năm, mà ông cho là nguy hiểm hơn: rằng ông nghiên cứu chuyện trên trời dưới đất và biến lý lẽ yếu thành mạnh, như vở hài kịch *Mây* (423 TCN) của Aristophanes từng giễu (18b–19c). Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (24b).
+Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là tiếng đồn tích tụ nhiều năm, mà ông cho là nguy hiểm hơn: rằng ông nghiên cứu chuyện trên trời dưới đất và biến lý lẽ yếu thành mạnh, như vở hài kịch *Mây* (423 TCN) của Aristophanes từng giễu (18b–19c). Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (23e–24b).
 
 Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Peloponnesus (404 TCN), rồi chịu chế độ tàn bạo của nhóm "Ba Mươi" do Critias, người từng thuộc vòng bạn bè của Socrates, cầm đầu. Quan hệ cũ với Critias và Alcibiades khiến nhiều người nghi Socrates chống dân chủ, dù đơn kiện chỉ nói về thần linh và giới trẻ.
 

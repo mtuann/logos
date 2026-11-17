@@ -15418,7 +15418,7 @@ Văn bản này đáng đọc vì nó là chân dung rõ nhất về Socrates �
 
 Socrates (k. 469–399 TCN) cả đời đi hỏi người khác: chính trị gia, thi sĩ, thợ thủ công. Ai cũng tưởng mình biết, và ai cũng lúng túng khi bị hỏi đến cùng. Nhiều người Athens khó chịu.
 
-Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là tiếng đồn tích tụ nhiều năm, mà ông cho là nguy hiểm hơn: rằng ông nghiên cứu chuyện trên trời dưới đất và biến lý lẽ yếu thành mạnh, như vở hài kịch *Mây* (423 TCN) của Aristophanes từng giễu (18b–19c). Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (24b).
+Trước tòa, ông phải chống đỡ hai lớp cáo buộc. Lớp cũ là tiếng đồn tích tụ nhiều năm, mà ông cho là nguy hiểm hơn: rằng ông nghiên cứu chuyện trên trời dưới đất và biến lý lẽ yếu thành mạnh, như vở hài kịch *Mây* (423 TCN) của Aristophanes từng giễu (18b–19c). Lớp mới là đơn kiện của Meletus, có Anytus và Lycon hậu thuẫn (23e–24b).
 
 Không khí chính trị cũng nặng nề: Athens vừa thua chiến tranh Peloponnesus (404 TCN), rồi chịu chế độ tàn bạo của nhóm "Ba Mươi" do Critias, người từng thuộc vòng bạn bè của Socrates, cầm đầu. Quan hệ cũ với Critias và Alcibiades khiến nhiều người nghi Socrates chống dân chủ, dù đơn kiện chỉ nói về thần linh và giới trẻ.
 
@@ -16849,7 +16849,7 @@ Thử xem bạn nắm được đến đâu.
 Đây có lẽ là đoạn văn triết học ngắn nhất mà người ta bàn cãi nhiều nhất: chỉ khoảng sáu mươi chữ Hán, kể một giấc mơ. [Trang Tử](../triet-gia/trang-tu.md) mơ thấy mình là bướm, tỉnh dậy không biết mình là người mơ thành bướm hay bướm mơ thành người. Hơn hai nghìn năm sau, câu hỏi ấy vẫn chưa có lời đáp dứt khoát. Ta đọc đoạn văn cùng một đoạn đứng trước nó trong cùng thiên, mỗi đoạn kèm nguyên văn, phiên âm Hán Việt và bản dịch của Logos.
 
 !!! info "Về văn bản này"
-    - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
+    - **Tác giả, thời điểm:** Trang Tử tên là Trang Chu; các sử gia đời Hán xếp ông vào thời vua Uy nước Sở (mất khoảng năm 327 TCN). Ngoài chính cuốn sách *Trang Tử*, ta biết rất ít về ông (Hansen, SEP).
     - **Văn bản:** sách *Trang Tử* hiện còn 33 thiên do Quách Tượng (mất năm 312) biên tập, rút gọn từ 52 thiên. Bảy "nội thiên" đầu thường được coi là gần với chính Trang Tử nhất (Hansen, SEP). *Tề vật luận* là thiên thứ hai; đoạn mộng hồ điệp khép lại thiên này.
     - **Đọc toàn văn:** [ctext.org](https://ctext.org/zhuangzi/adjustment-of-controversies), nguyên văn song song với bản dịch tiếng Anh của James Legge (1891, phạm vi công cộng).
     - **Bản dịch trong bài:** của Logos. **Thời gian đọc:** khoảng 15 phút.
@@ -18101,7 +18101,7 @@ Thử xem bạn nắm được đến đâu.
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md) — gốc kinh điển của tư tưởng "không" trong thiền
 - [Nguyễn Trãi: Bình Ngô đại cáo](../doc/nguyen-trai-binh-ngo.md) — từ thơ thiền Lý–Trần đến văn chính luận: cùng một nền văn hiến
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam thời Lý–Trần trong khu vực
-- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — thơ thiền đặt cạnh câu hỏi triết học về cái đẹp
+- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — câu hỏi triết học về cái đẹp, để đọc cạnh thơ thiền (trang ấy không bàn thơ thiền)
 
 ## Nguồn
 

@@ -160,7 +160,7 @@ Thử xem bạn nắm được đến đâu.
 - [Hướng dẫn đọc Bát nhã Tâm kinh](tam-kinh.md) — gốc kinh điển của tư tưởng "không" trong thiền
 - [Nguyễn Trãi: Bình Ngô đại cáo](nguyen-trai-binh-ngo.md) — từ thơ thiền Lý–Trần đến văn chính luận: cùng một nền văn hiến
 - [Nhật Bản và Việt Nam](../lich-su/nhat-ban-viet-nam.md) — bối cảnh Việt Nam thời Lý–Trần trong khu vực
-- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — thơ thiền đặt cạnh câu hỏi triết học về cái đẹp
+- [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md) — câu hỏi triết học về cái đẹp, để đọc cạnh thơ thiền (trang ấy không bàn thơ thiền)
 
 ## Nguồn {#nguon}
 
