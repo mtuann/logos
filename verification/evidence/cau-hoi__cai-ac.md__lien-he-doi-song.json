@@ -9,7 +9,11 @@
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://iep.utm.edu/arendt/", "quote": "This connection between the complicity with political evil and the failure of thinking and judgement inspired the last phase of Arendt’s work", "where": "§6"}
+        {
+          "url": "https://iep.utm.edu/arendt/",
+          "quote": "This connection between the complicity with political evil and the failure of thinking and judgement inspired the last phase of Arendt’s work",
+          "where": "§6"
+        }
       ]
     },
     {
@@ -17,8 +21,16 @@
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "Most theorists writing about evil believe that evil action requires a certain sort of motivational state.", "where": "§3.3 (lập trường 3)"},
-        {"url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/", "quote": "who simply did not think very deeply about what he was doing", "where": "§2.3 (Arendt)"}
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/",
+          "quote": "Most theorists writing about evil believe that evil action requires a certain sort of motivational state.",
+          "where": "§3.3 (lập trường 3)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/",
+          "quote": "who simply did not think very deeply about what he was doing",
+          "where": "§2.3 (Arendt)"
+        }
       ]
     },
     {
@@ -28,19 +40,34 @@
       "severity": "nhe",
       "fix": "Không lập trình viên nào *định* gây hại — họ chỉ \"tối ưu chỉ số\".",
       "sources": [
-        {"url": "https://hvdic.thivien.net/whv/%E6%83%A1", "quote": "Âm Hán Việt", "where": "lỗi diễn đạt: chen từ tiếng Anh \"programmer\" giữa câu tiếng Việt; nguồn ghi để thỏa schema"}
-      ]
+        {
+          "url": "https://hvdic.thivien.net/whv/%E6%83%A1",
+          "quote": "Âm Hán Việt",
+          "where": "lỗi diễn đạt: chen từ tiếng Anh \"programmer\" giữa câu tiếng Việt; nguồn ghi để thỏa schema"
+        }
+      ],
+      "fixed": true
     },
     {
       "text": "Trong đời sống riêng, ta cũng cần phân biệt của lập trường 3: người bạn *cố ý* nói câu làm bạn tổn thương (xấu tính) khác với người bạn *vô tâm* […]",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/", "quote": "note the difference in your response to one who injures you accidentally as compared to how you respond to one who does you the same injury out of “contemptuous disregard”", "where": "§2.2.1"}
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
+          "quote": "note the difference in your response to one who injures you accidentally as compared to how you respond to one who does you the same injury out of “contemptuous disregard”",
+          "where": "§2.2.1"
+        }
       ]
     }
   ],
-  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": false},
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
   "result": "dat",
   "notes": "Không có dữ kiện Việt Nam, luật hay số liệu. Các ví dụ (thuật toán tuyển dụng, cho vay, ném đá trên mạng) nêu chung, không gán cho vụ việc hay công ty cụ thể nào, nên không cần nguồn sự kiện. Câu hỏi để mở cho người đọc tự chọn. Lỗi nhẹ: \"programmer\"."
 }
