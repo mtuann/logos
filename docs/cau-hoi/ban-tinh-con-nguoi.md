@@ -84,7 +84,7 @@ Augustine (354–430) có phiên bản Kitô giáo: **tội tổ tông** (*origi
 
 ### 3. Không thiện không ác: bản tính là chất liệu, hoàn cảnh nặn ra hình
 
-Cáo Tử (告子), đối thủ của Mạnh Tử mà ta chỉ biết qua sách *Mạnh Tử*, nói tính người như gỗ liễu, còn nhân nghĩa như chén bát đẽo từ gỗ ấy (6A1); và: "Tính như dòng nước xiết, khơi về đông thì chảy về đông, khơi về tây thì chảy về tây. Tính người không phân thiện hay bất thiện, cũng như nước không phân đông hay tây" (6A2, *bản dịch của Logos*). Câu "thực sắc, tính dã" (食色，性也 — ăn uống và sắc dục là tính) cũng là lời Cáo Tử (6A4), không phải của [Khổng Tử](../triet-gia/khong-tu.md).
+Cáo Tử (告子), đối thủ của Mạnh Tử mà ta biết chủ yếu qua sách *Mạnh Tử*, nói tính người như gỗ liễu, còn nhân nghĩa như chén bát đẽo từ gỗ ấy (6A1); và: "Tính như dòng nước xiết, khơi về đông thì chảy về đông, khơi về tây thì chảy về tây. Tính người không phân thiện hay bất thiện, cũng như nước không phân đông hay tây" (6A2, *bản dịch của Logos*). Câu "thực sắc, tính dã" (食色，性也 — ăn uống và sắc dục là tính) cũng là lời Cáo Tử (6A4), không phải của [Khổng Tử](../triet-gia/khong-tu.md).
 
 Locke (*Khảo luận về hiểu biết của con người*, 1689) đề nghị giả sử tâm trí lúc đầu là **tờ giấy trắng** (*tabula rasa*), "không có chữ nào". Trong *Một vài suy nghĩ về giáo dục* (1693), ông viết: trong mọi người ta gặp, "chín phần mười là như họ đang là, tốt hay xấu, có ích hay không, nhờ giáo dục"; tâm trí trẻ nhỏ dễ xoay chiều như nước *(bản dịch của Logos)* — dòng nước của Cáo Tử, khoảng hai nghìn năm sau.
 
