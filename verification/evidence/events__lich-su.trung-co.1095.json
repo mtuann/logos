@@ -1,8 +1,8 @@
 {
   "unit": "events/lich-su.trung-co.1095",
-  "hash": "sha256:026f83b66244c21684b06c7e12e37f3ba882bc8f7513b58cd2dea18b94b2b006",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-e04",
+  "hash": "sha256:c92df6ebd3eac3529659060c98d5dc88148c5b0c911f18ab18b2c35a17f23ab8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.2-e04; agent-kiem-5.6-e01",
   "claims": [
     {
       "text": "al-Ghazali khoảng 1056–1111",
@@ -11,22 +11,65 @@
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
-          "quote": "he was born in 1055 or 1056"
+          "quote": "Al-Ghazālī ( c . 1056–1111) was one of the most prominent and influential philosophers, theologians, jurists, and mystics of Sunni Islam.",
+          "where": "mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "he was born in 1055 or 1056",
+          "where": "1. Life"
         }
       ]
     },
     {
-      "text": "Tahafut al-Falasifa khoảng 1095, tấn công falsafa",
+      "text": "nhà thần học và triết gia Ba Tư",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
-          "quote": "published around 1095 a number of books where he addresses the challenges posed by"
+          "quote": "Al-Ghazālī ( c . 1056–1111) was one of the most prominent and influential philosophers, theologians, jurists, and mystics of Sunni Islam.",
+          "where": "mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "born in 1058 or 1059 in Ṭabarān-Ṭūs (15 miles north of modern Meshed, NE Iran)",
+          "where": "1. Life"
+        }
+      ]
+    },
+    {
+      "text": "*Tahafut al-Falasifa*, khoảng 1095",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "published around 1095 a number of books where he addresses the challenges posed by",
+          "where": "1. Life"
+        }
+      ]
+    },
+    {
+      "text": "đã phê phán gắt gao các triết gia như Avicenna",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "critique of twenty positions of falsafa in his Incoherence of the Philosophers"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "rejects the claim that these teachings are demonstratively proven"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/al-ghazali/",
+          "quote": "These are three teachings from Avicenna’s philosophy"
         }
       ]
     }
   ],
   "result": "dat",
-  "notes": "SEP: Incoherence 'may have been decades in the making'; ngày soạn 'khoảng 1095' chấp nhận. Quote nguyên cụm theo bản đọc của công cụ (có thể thiếu dấu *falsafa*)."
+  "notes": "doi-loi 5.6: chữ mới 'nhà thần học và triết gia Ba Tư' và 'phê phán gắt gao các triết gia như Avicenna' (thay 'tấn công dữ dội triết học Hy Lạp hóa'), sửa theo bằng chứng 5.6 của mục cac-triet-gia-hoi-giao; SEP al-Ghazali fall2026 xác nhận (sinh ở Ṭūs, đông bắc Iran; phê phán 20 luận điểm của falsafa, ba luận điểm của Avicenna). Câu bị cắt sau 'cho rằ…'; phần sau không thuộc bản ghi. Claim năm giữ nguyên."
 }
