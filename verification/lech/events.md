@@ -2,8 +2,8 @@
 
 Sinh bằng `python tools/kb_events.py`. Đầu vào cho đợt con 5.2: lọc ứng viên nào là sự kiện cần kiểm.
 
-- 133 ứng viên; theo khối: lich-su 98, viet-nam 35.
-- Theo nhãn trong câu: chac-chan 25, co-co-so 9, khong-nhan 99.
+- 135 ứng viên; theo khối: lich-su 100, viet-nam 35.
+- Theo nhãn trong câu: chac-chan 25, co-co-so 9, khong-nhan 101.
 
 ## Năm bỏ qua, có lý do
 
