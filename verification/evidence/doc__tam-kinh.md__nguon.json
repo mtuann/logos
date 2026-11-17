@@ -2,7 +2,7 @@
  "unit": "doc/tam-kinh.md#nguon",
  "hash": "sha256:d0a96b8bfda3942f7283b42e6cc0ac50a050e72e200ccb43c9526c82e65b86eb",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k03",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
  "claims": [
   {
    "text": "T251 Huyền Trang dịch, CBETA",
@@ -62,17 +62,54 @@
   {
    "text": "Nattier 1992, JIABS 15(2): 153–223 (mục lục tìm kiếm: relbib ghi 153–223, Kamigraphie ghi 152–223; trang JIABS bị Anubis chặn)",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://journals.ub.uni-heidelberg.de/index.php/jiabs/oai?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:journals.ub.uni-heidelberg.de:article/8800",
+     "quote": "The Heart Sūtra: A Chinese Apocryphal Text? ... Nattier, Jan ... Journal of the International Association of Buddhist Studies; JIABS 15/2 (1992); 153-223 ... https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/8800",
+     "where": "bản ghi OAI-PMH của chính tạp chí (trang bài bị Anubis chặn; quyết định 34: URL article/view/8800 trùng dc:identifier)"
+    }
+   ]
   },
   {
    "text": "Lopez (1988), The Heart Sutra Explained, SUNY Press, Albany",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://openlibrary.org/books/OL2378053M",
+     "quote": "The Heart Sūtra explained | Indian and Tibetan commentaries | State University of New York Press | Albany, N.Y | 1988",
+     "where": "Open Library, ấn bản SUNY; tác giả Lopez, Donald S. (work OL2730524W)"
+    }
+   ]
   },
   {
    "text": "Trần Trọng Kim, Phật giáo, tr. 116–118 (Wikisource tiếng Việt không nêu tên sách hay trang)",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://vi.wikisource.org/wiki/Bát-nhã_ba-la-mật-đa_tâm_kinh",
+     "quote": "<pages index=\"Phật giáo.pdf\" from=116 to=118 fromsection=\"kinh\" />",
+     "where": "mã nguồn trang"
+    },
+    {
+     "url": "https://vi.wikisource.org/wiki/Trang:Phật_giáo.pdf/116",
+     "quote": "II BÁT-NHÃ BA-LA-MẬT-ĐA TÂM KINH",
+     "where": "trang in 116, mục II"
+    }
+   ]
+  },
+  {
+   "text": "Trung luận T30 n1564, bản Cưu-ma-la-thập",
+   "kind": "du-kien",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://cbdata.dila.edu.tw/stable/juans?edition=CBETA&work=T1564&juan=1",
+     "quote": "T30n1564_p0001b13姚秦三藏鳩摩羅什譯"
+    }
+   ]
   }
  ],
  "checklist": {
@@ -82,6 +119,6 @@
   "trung-lap": null,
   "thuat-ngu": null
  },
- "result": "chua-kiem-duoc",
- "notes": "CBETA SPA (cbetaonline.dila.edu.tw/zh/T0251_001) không trả nội dung qua công cụ; dùng API dữ liệu CBETA cbdata.dila.edu.tw (cùng cơ sở dữ liệu) và zh.wikisource.org. Ghi chú: người dịch Cưu-ma-la-thập của T1564 chưa mở được dòng dịch giả."
+ "result": "dat",
+ "notes": "CBETA SPA (cbetaonline.dila.edu.tw/zh/T0251_001) không trả nội dung qua công cụ; dùng API dữ liệu CBETA cbdata.dila.edu.tw (cùng cơ sở dữ liệu) và zh.wikisource.org. Ghi chú: người dịch Cưu-ma-la-thập của T1564 chưa mở được dòng dịch giả.\nLượt 2: Nattier: xác nhận tên bài, tạp chí, 15/2, 1992, tr. 153-223 qua OAI-PMH của JIABS Heidelberg. Lopez 1988 qua Open Library. Trần Trọng Kim tr. 116–118 mục II qua Wikisource (mã nguồn và Trang:Phật giáo.pdf/116). Người dịch T1564 qua cbdata quyển 1."
 }

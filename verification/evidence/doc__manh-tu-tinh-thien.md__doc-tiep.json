@@ -2,7 +2,7 @@
   "unit": "doc/manh-tu-tinh-thien.md#doc-tiep",
   "hash": "sha256:b79f9e59367f33b73657ebc434a955464c7b80c4fc3a9d874916d64d65579935",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "ban-tinh-con-nguoi.md bàn Mạnh Tử, Tuân Tử, Hobbes, Rousseau, Sartre",
@@ -10,9 +10,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "docs/cau-hoi/ban-tinh-con-nguoi.md dòng 3 (description): \"Mạnh Tử và đứa trẻ bên giếng, Tuân Tử và gỗ cong, Hobbes, Rousseau, Locke, Sartre\"",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/cau-hoi/ban-tinh-con-nguoi/",
+          "quote": "Mạnh Tử và đứa trẻ bên giếng, Tuân Tử và gỗ cong, Hobbes, Rousseau, Locke, Sartre",
+          "where": "meta description của trang đã deploy"
         }
       ]
     },
@@ -22,9 +22,14 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "docs/lich-su/trung-hoa.md dòng 3: \"Khổng Tử, Mạnh Tử, Tuân Tử, Lão Tử, Trang Tử, Mặc Tử, Hàn Phi\"",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+          "quote": "Khổng Tử, Mạnh Tử, Tuân Tử, Lão Tử, Trang Tử, Mặc Tử, Hàn Phi",
+          "where": "meta description"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/lich-su/trung-hoa/",
+          "quote": "Mặc Tử và Hàn Phi: kiêm ái và pháp trị",
+          "where": "mục lục trang"
         }
       ]
     },
@@ -34,9 +39,9 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "docs/doc/mac-tu-kiem-ai.md dòng 24: \"Họ Mặc kiêm ái, thế là không có cha\" (3B9)",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/",
+          "quote": "Người chống ông gay gắt nhất là Mạnh Tử : \"Họ Mặc kiêm ái, thế là không có cha\" (3B9)",
+          "where": "trang đã deploy"
         }
       ]
     },
@@ -61,5 +66,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Đối chiếu file cục bộ, không có URL web đã mở cho các trang nội bộ."
+  "notes": "Đối chiếu file cục bộ, không có URL web đã mở cho các trang nội bộ. | Lượt 2: mở các trang đích trên mtuann.github.io/logos (200), thay quote file cục bộ bằng chữ trên trang."
 }

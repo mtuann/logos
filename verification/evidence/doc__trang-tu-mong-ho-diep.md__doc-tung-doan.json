@@ -2,7 +2,7 @@
   "unit": "doc/trang-tu-mong-ho-diep.md#doc-tung-doan",
   "hash": "sha256:b09079a50af573fa50956ca7ad9352ed4b114b4551efe22df343951ff30674c4",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k02",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
   "claims": [
     {
       "text": "Nguyên văn đoạn Trường Ngô Tử: 方其夢也，不知其夢也 ... 夢之中又占其夢焉，覺而後知其夢也。且有大覺而後知此其大夢也，而愚者自以為覺，竊竊然知之。……丘也，與女皆夢也；予謂女夢，亦夢也",
@@ -125,12 +125,17 @@
     {
       "text": "Cách đọc khác nhấn vào chữ \"vật hóa\": ranh giới giữa ta và vật có thật nhưng nằm trong dòng biến hóa chung, như sâu hóa bướm",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
+        {
+          "url": "https://archive.org/download/sacredbooksofchi01oxfo/sacredbooksofchi01oxfo_djvu.txt",
+          "quote": "Hsüan Ying, in his remarks on these two sentences, brings out the force of the story very successfully: — 'Looking at them in their ordinary appearance, there was necessarily a difference between them, ... we may see that in the world all traces of that and this may pass away, as they come under the influence of transformations.'",
+          "where": "SBE 39, Zhuangzi Book II, chú thích của Legge cho câu 'This is a case of what is called the Transformation of Things' (bản OCR, đã sửa lỗi nhận dạng chữ); hình ảnh 'như sâu hóa bướm' là ví dụ minh họa của bài, không phải trích dẫn"
+        },
         {
           "url": "https://zh.wikisource.org/wiki/莊子/齊物論",
           "quote": "此之謂物化",
-          "where": "chỉ xác nhận nguyên văn; SEP không dùng \"wuhua\""
+          "where": "nguyên văn"
         }
       ]
     }
@@ -142,6 +147,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Nguyên văn khớp zh.wikisource (dị bản 女/汝, khác dấu câu, không đổi nghĩa). Bản dịch Logos sát nghĩa. Chưa kiểm được cách đọc \"vật hóa là dòng biến hóa chung, như sâu hóa bướm\": bài không gán cho ai; SEP bản đọc được không có từ \"wuhua\" (có thể ở phần chưa đọc: SEP đã đọc hết nhưng không thấy), chỉ là diễn giải phổ biến. Đề nghị người viết gắn nguồn (ví dụ Möller 1999 trong thư mục SEP hoặc một chú giải) hoặc thêm \"một cách đọc khác\"."
+  "result": "dat",
+  "notes": "Nguyên văn khớp zh.wikisource (dị bản 女/汝, khác dấu câu, không đổi nghĩa). Bản dịch Logos sát nghĩa. Chưa kiểm được cách đọc \"vật hóa là dòng biến hóa chung, như sâu hóa bướm\": bài không gán cho ai; SEP bản đọc được không có từ \"wuhua\" (có thể ở phần chưa đọc: SEP đã đọc hết nhưng không thấy), chỉ là diễn giải phổ biến. Đề nghị người viết gắn nguồn (ví dụ Möller 1999 trong thư mục SEP hoặc một chú giải) hoặc thêm \"một cách đọc khác\".\nLượt 2: Cách đọc nhấn vào 'vật hóa' (có phân biệt nhưng nằm trong dòng biến hóa) có trong văn liệu: lời bình của Tuyên Dĩnh (Hsüan Ying) do Legge dẫn, SBE 39."
 }

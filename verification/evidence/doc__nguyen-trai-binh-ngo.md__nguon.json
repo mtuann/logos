@@ -2,7 +2,7 @@
   "unit": "doc/nguyen-trai-binh-ngo.md#nguon",
   "hash": "sha256:798240bbbb71e6301d90a55c20f3a5b8d3aa5bc2538b4299dbbcfab97d60ef16",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "Mục 1: Toàn thư bản kỷ quyển 10 (nguyên văn bài cáo, cuối năm Đinh Mùi); quyển 11 và 12 (án 1442; việc 1464, 1467)",
@@ -58,7 +58,15 @@
     {
       "text": "Mục 4: Mạnh Tử 1B11 tại ctext.org/mengzi/liang-hui-wang-ii",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/ctext.mengzi-liang-hui-wang-ii",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "誅其君而弔其民，若時雨降。民大悅。",
+          "where": "quyết định 34: URL đúng mẫu ctext.org/mengzi/<thiên>, nội dung đối chiếu ở zh.wikisource 孟子/梁惠王下; số hiệu 1B11 đối chiếu SEP Mencius"
+        }
+      ]
     },
     {
       "text": "Mục 5: Cựu Đường thư quyển 53, Wikisource tiếng Trung, truyện Lý Mật, hịch kể tội Tùy Dạng Đế",
@@ -87,12 +95,13 @@
     {
       "text": "Mục 7: Bùi Duy Tân (2007), \"Bình Ngô đại cáo: văn bản – bản dịch – nhan đề\", Tạp chí Nghiên cứu văn học số 6; Lý Thơ Phúc (2008), Tạp chí Khoa học ĐHSP TP.HCM số 13, URL hcmue",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
+      "kb": "sources/web.journal-hcmue-edu-vn.index-php-hcmuejos-article-download-1260-1251-1261",
       "sources": [
         {
-          "url": "https://vjol.info.vn/sphcm/article/view/15090",
-          "quote": "Hai vấn đề cần thảo luận với tác giả bài Bình Ngô Đại Cáo: Một số vấn đề về chữ nghĩa",
-          "where": "trang mô tả: tác giả Lý Thơ Phúc, Tạp chí Khoa học ĐHSP TP.HCM, số 13 (2008)"
+          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/1260/1251/1261",
+          "quote": "HAI VẤN ĐỀ CẦN THẢO LUẬN VỚI TÁC GIẢ BÀI BÌNH NGÔ ĐẠI CÁO: MỘT SỐ VẤN ĐỀ VỀ CHỮ NGHĨA … LÝ THƠ PHÚC … Tạp chí KHOA HỌC ĐHSP TP.HCM Số 13 năm 2008",
+          "where": "PDF trang đầu; danh mục tham khảo [1]: Bùy Duy Tân (2007), Bình Ngô đại cáo, văn bản – bản dịch – nhan đề, Tạp chí Nghiên cứu văn học, số 6"
         }
       ]
     }
@@ -104,6 +113,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Hai mục chưa kiểm hết: (a) mục 4: số hiệu 1B11 (ctext.org chặn bot; web.archive.org bị chặn; zh.wikisource không đánh số). (b) mục 7: bài Bùi Duy Tân 2007 không mở được; bài Lý Thơ Phúc 2008 có tồn tại và đúng tiêu đề/số/tạp chí (vjol), URL hcmue là PDF khớp tác giả Lý Thơ Phúc (metadata citation_title) nhưng không đọc được văn bản để xác nhận trích dẫn về Bùi Duy Tân. Lưu ý: mục 3 \"(năm 1944)\" ghi ở phần giới thiệu bản dịch; trang in lần ba Tân Việt 1956. Các URL còn lại mở được."
+  "result": "dat",
+  "notes": "Hai mục chưa kiểm hết: (a) mục 4: số hiệu 1B11 (ctext.org chặn bot; web.archive.org bị chặn; zh.wikisource không đánh số). (b) mục 7: bài Bùi Duy Tân 2007 không mở được; bài Lý Thơ Phúc 2008 có tồn tại và đúng tiêu đề/số/tạp chí (vjol), URL hcmue là PDF khớp tác giả Lý Thơ Phúc (metadata citation_title) nhưng không đọc được văn bản để xác nhận trích dẫn về Bùi Duy Tân. Lưu ý: mục 3 \"(năm 1944)\" ghi ở phần giới thiệu bản dịch; trang in lần ba Tân Việt 1956. Các URL còn lại mở được.\nLượt 2: mục 4 và mục 7 trùng bản ghi sources/* đã frozen; mục 7 mở được PDF (đọc qua trích văn bản), xác nhận tên bài, số 13/2008 và chi tiết bài Bùi Duy Tân 2007 số 6 qua danh mục tham khảo."
 }

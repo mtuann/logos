@@ -2,7 +2,7 @@
   "unit": "doc/nguyen-trai-binh-ngo.md#boi-canh",
   "hash": "sha256:c31a08cc4150fe737ab0718e2611e0d20eaebf39946c1d15292900cf2ee25e14",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "Khởi nghĩa Lam Sơn nổ ra năm 1418 ở vùng núi Thanh Hóa",
@@ -72,7 +72,20 @@
     {
       "text": "(Mạnh Tử 1B11) — số hiệu đoạn",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "(see 2B8, 1B10, 1B11, and 2B9, in that order)",
+          "where": "SEP Mencius (Van Norden), mục về thời ở nước Tề: hệ số quyển–phần A/B–chương giống ctext; 1B10, 1B11 là hai chương Tề đánh Yên"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/孟子/梁惠王下",
+          "quote": "齊人伐燕，取之。諸侯將謀救燕。… 誅其君而弔其民，若時雨降。民大悅。",
+          "where": "zh.wikisource 孟子/梁惠王下 (= quyển 1 phần B): chương thứ 11 khi đếm từ 莊暴見孟子 (1) … 齊人伐燕，勝之 (10), 齊人伐燕，取之 (11)"
+        }
+      ],
+      "kb": "sources/ctext.mengzi-liang-hui-wang-ii"
     }
   ],
   "checklist": {
@@ -82,6 +95,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chữ của câu Mạnh Tử đã khớp (zh.wikisource 梁惠王下). Số hiệu \"1B11\" chưa kiểm được: ctext.org chặn bot (đã thử https://ctext.org/mengzi/liang-hui-wang-ii, web.archive.org bị chặn), Gutenberg Legge đang bảo trì, zh.wikisource không đánh số đoạn. Cách giải thích chữ Ngô: nguồn Minh sử chỉ xác nhận năm 1364 xưng Ngô vương; việc đó là lý do đặt tên \"Ngô\" là diễn giải thường gặp, bài đã ghi \"thường được giải thích\"."
+  "result": "dat",
+  "notes": "Chữ của câu Mạnh Tử đã khớp (zh.wikisource 梁惠王下). Số hiệu \"1B11\" chưa kiểm được: ctext.org chặn bot (đã thử https://ctext.org/mengzi/liang-hui-wang-ii, web.archive.org bị chặn), Gutenberg Legge đang bảo trì, zh.wikisource không đánh số đoạn. Cách giải thích chữ Ngô: nguồn Minh sử chỉ xác nhận năm 1364 xưng Ngô vương; việc đó là lý do đặt tên \"Ngô\" là diễn giải thường gặp, bài đã ghi \"thường được giải thích\".\nLượt 2: số hiệu 1B11 đối chiếu: SEP Mencius dùng cùng hệ số và đặt 1B10, 1B11 ở việc Tề đánh Yên; đếm chương trên zh.wikisource 梁惠王下 thì câu 誅其君而弔其民 nằm ở chương 11; khớp bản ghi đóng băng sources/ctext.mengzi-liang-hui-wang-ii."
 }

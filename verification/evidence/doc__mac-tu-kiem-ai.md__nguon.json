@@ -2,7 +2,7 @@
  "unit": "doc/mac-tu-kiem-ai.md#nguon",
  "hash": "sha256:4bbe7397e60e62ad2ce71aebbae49301e281c133482ae8bdcc9c6d594a97de60",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k03",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
  "claims": [
   {
    "text": "SEP 'Mohism' (Fraser) và 'Mencius' (Van Norden, sửa đổi 2024) có ở bản lưu fall2026",
@@ -16,6 +16,11 @@
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
      "quote": "Mohism originates in the teachings of Mo Di"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "Copyright © 2024 by Chris Fraser",
+     "where": "Author and Citation Info"
     }
    ]
   },
@@ -61,7 +66,24 @@
   {
    "text": "Các URL ctext.org (thiên 14, 16, 17, 26, 50 và Mạnh Tử 3A5, 3B9) mở được và đúng thiên",
    "kind": "du-kien",
-   "verdict": "chua-kiem-duoc"
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://zh.wikisource.org/wiki/墨子閒詁/卷四",
+     "quote": "兼愛上第十四",
+     "where": "quyết định 34: URL đúng mẫu, nội dung đối chiếu ở zh.wikisource 墨子閒詁/卷四, 卷五, 墨子/天志上, 墨子/公輸, 孟子/滕文公上, 孟子/滕文公下"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Mozi",
+     "quote": "url=https://ctext.org/mozi/universal-love-i|title=Mozi : Book 4 : Universal Love I - Chinese Text Project",
+     "where": "mẫu đường dẫn ctext.org/mozi/...; Wikipedia Mohism dùng ctext.org/mozi/gong-shu, Five Grains dùng ctext.org/mengzi/teng-wen-gong-i"
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+     "quote": "( Mengzi 3B9; Van Norden 2008, 85) ... (3A5; Van Norden 2008, 74)",
+     "where": "SEP dùng cùng hệ đánh số 3A5, 3B9; ứng với 滕文公上 chương 5 (夷之) và 滕文公下 chương 9 (墨氏兼愛，是無父也) trên zh.wikisource"
+    }
+   ]
   }
  ],
  "checklist": {
@@ -71,6 +93,6 @@
   "trung-lap": null,
   "thuat-ngu": null
  },
- "result": "chua-kiem-duoc",
- "notes": "ctext.org bị chặn (trang kiểm tra bảo mật, cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay. Tên tác giả Fraser của mục Mohism: trang không hiển thị tên tác giả trong đoạn đọc được; chưa xác nhận trực tiếp (SEP Mohism thường ghi Chris Fraser; chưa mở được dòng tác giả)."
+ "result": "dat",
+ "notes": "ctext.org bị chặn (trang kiểm tra bảo mật, cấm scraping); web.archive.org bị công cụ chặn; dùng zh.wikisource.org thay. Tên tác giả Fraser của mục Mohism: trang không hiển thị tên tác giả trong đoạn đọc được; chưa xác nhận trực tiếp (SEP Mohism thường ghi Chris Fraser; chưa mở được dòng tác giả).\nLượt 2: ctext.org vẫn chặn (trang kiểm tra bảo mật); claim URL ctext ghi dung theo quyết định 34 (nội dung đối chiếu ở zh.wikisource, mẫu URL qua chú thích Wikipedia); số 3A5/3B9 đối chiếu qua SEP Mencius. Đã xác nhận tác giả Fraser qua dòng Copyright của SEP Mohism."
 }

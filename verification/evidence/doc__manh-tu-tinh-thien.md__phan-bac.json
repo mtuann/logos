@@ -2,7 +2,7 @@
   "unit": "doc/manh-tu-tinh-thien.md#phan-bac",
   "hash": "sha256:ea7d9990c75369d81a11901ff8bfb2db47ceab724810f81489e1e59517b8556f",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Cáo Tử: tính trung tính, nước khơi đông chảy đông, khơi tây chảy tây (6A2)",
@@ -99,9 +99,28 @@
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://mtuann.github.io/logos/",
-          "quote": "docs/cong-cu/nguy-bien.md dòng 105: \"### Ngụy biện nguồn gốc {#genetic}\"",
-          "where": "file cục bộ"
+          "url": "https://mtuann.github.io/logos/cong-cu/nguy-bien/",
+          "quote": "Ngụy biện nguồn gốc # Genetic fallacy. Đánh giá một ý tưởng chỉ dựa vào nơi nó ra đời hay cách nó xuất hiện, thay vì xét giá trị của chính nó.",
+          "where": "trang đã deploy, mục id=\"genetic\""
+        }
+      ]
+    },
+    {
+      "text": "**Tâm lý học tiến hóa: thương trẻ chỉ là bản năng.** (phản bác gán cho một ngành, không dẫn tác giả)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Một câu hỏi từ phía tiến hóa: phải chăng thương trẻ chỉ là bản năng?** (giữ nguyên phần *Cách đáp lại*)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "It was subsequently edited and shortened by Zhao Qi in the second century C.E.",
+          "where": "đã mở toàn mục SEP Mencius: không có đoạn nào nêu phản bác tiến hóa/bản năng với thí nghiệm cái giếng"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1080/09552367.2022.2099108",
+          "quote": "The origin of human morality: An evolutionary perspective on Mencius’s notion of sympathy",
+          "where": "Ahn, Asian Philosophy 2022: văn liệu có đọc Mạnh Tử từ sinh học tiến hóa nhưng theo hướng đồng thuận (theo tóm tắt ở relbib), không tìm thấy nguồn nêu đúng phản bác \"chỉ là bản năng\""
         }
       ]
     }
@@ -114,5 +133,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Phản bác tiến hóa luận không gắn với tác giả cụ thể nên không có nguồn văn liệu riêng; lập luận ở \"Cách đáp lại\" là suy luận của bài, không bị trình bày người rơm."
+  "notes": "Phản bác tiến hóa luận không gắn với tác giả cụ thể nên không có nguồn văn liệu riêng; lập luận ở \"Cách đáp lại\" là suy luận của bài, không bị trình bày người rơm. | Lượt 2: mở cong-cu/nguy-bien/ trên site (mục genetic có thật). Phản bác \"tâm lý học tiến hóa\" không gắn tác giả: SEP Mencius không nêu, tìm kiếm văn liệu chỉ thấy Ahn 2022 đọc Mạnh Tử theo hướng tiến hóa đồng thuận → sai nhẹ, fix viết lại thành câu hỏi."
 }

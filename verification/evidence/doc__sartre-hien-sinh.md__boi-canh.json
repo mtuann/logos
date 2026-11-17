@@ -2,7 +2,7 @@
   "unit": "doc/sartre-hien-sinh.md#boi-canh",
   "hash": "sha256:550c929c97628a0d3f55b9a0fc4bef7a490aaa97e188cd4004d68f5cc9f683af",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k10",
+  "checker": "agent-kiem-5.4-k10 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Bản thân Sartre bị quân Đức bắt năm 1940, ở trại tù gần một năm",
@@ -18,12 +18,31 @@
     {
       "text": "rồi tham gia một nhóm kháng chiến trong thời gian ngắn",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/sartre-ex/",
+          "quote": "He was briefly involved in a Resistance group and taught in a lycée until the end of the war.",
+          "where": "IEP, \"Sartre, Jean Paul: Existentialism\", mục tiểu sử"
+        }
+      ]
     },
     {
       "text": "Paris vừa qua bốn năm bị chiếm đóng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Liberation_of_Paris",
+          "quote": "Paris had been occupied by Nazi Germany since the signing of the Armistice of 22 June 1940",
+          "where": "đoạn mở đầu; quân Đức ở Paris đầu hàng 25/8/1944, tức khoảng bốn năm; bài nói tháng 10/1945 là hơn một năm sau giải phóng (\"vừa qua\" chấp nhận được)"
+        },
+        {
+          "url": "https://www.sens-public.org/articles/378/",
+          "quote": "so desparately needed by so many people under the German Occupation",
+          "where": "Evans, Sens public: bối cảnh Chiếm đóng của bài nói"
+        }
+      ]
     },
     {
       "text": "Sartre nói với một thế hệ ... không Giáo hội, không truyền thống, không một 'bản tính người' bất biến",
@@ -44,6 +63,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "SEP fall2026 (phần đã đọc, ~100.000 ký tự đầu) không nhắc nhóm kháng chiến (Socialisme et Liberté); không mở được nguồn nào ghi 'bốn năm chiếm đóng' trong phiên này. Hai claim này chưa kiểm được; không đoán."
+  "result": "dat",
+  "notes": "SEP fall2026 (phần đã đọc, ~100.000 ký tự đầu) không nhắc nhóm kháng chiến (Socialisme et Liberté); không mở được nguồn nào ghi 'bốn năm chiếm đóng' trong phiên này. Hai claim này chưa kiểm được; không đoán.\nLượt 2: Nhóm kháng chiến ngắn: IEP \"briefly involved in a Resistance group\" → dung. Bốn năm chiếm đóng: Wikipedia Liberation of Paris (6/1940–25/8/1944) → dung. Britannica chặn truy cập tự động nên không dùng."
 }

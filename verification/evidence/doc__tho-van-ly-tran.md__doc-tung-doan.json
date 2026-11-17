@@ -2,7 +2,7 @@
   "unit": "doc/tho-van-ly-tran.md#doc-tung-doan",
   "hash": "sha256:6464987a5a01f073a455b4aa993b9b33fea49b8b18c85a6014ab420407df5466",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "Vạn Hạnh, \"Thị đệ tử\": 身如電影有還無，萬木春榮秋又枯。任運盛衰無怖畏，盛衰如露草頭鋪。",
@@ -193,14 +193,38 @@
       ]
     },
     {
-      "text": "\"cong\" là \"trong\", \"khuây\" là \"quên\", \"bản\" là \"gốc\", \"cốc\" là \"biết\", \"chỉn\" là \"vốn, thật là\"",
+      "text": "\"cong\" là \"trong\", \"khuây\" là \"quên\", \"bản\" là \"gốc\", \"cốc\" là \"biết\"",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://vi.wikisource.org/wiki/Cư_trần_lạc_đạo_phú/Đệ_ngũ_hội",
-          "quote": "Nhân khuây bản nên ta tìm bụt; Đến cốc hay chỉn bụt là ta.",
-          "where": "trang Wikisource không có chú giải từ cổ; một lần tìm web không ra chú giải đáng tin"
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "Bụt ở cong nhà, tức là chỉ cho Phật ở trong nhà, chớ không phải ở đâu xa.",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
+        },
+        {
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "Chữ nhân là bởi vì, chữ khuây là xao lãng, bản là gốc. … lơ là, bỏ quên nên mất gốc",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
+        },
+        {
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "Chữ cốc là biết được, chỉn là chính.",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
+        }
+      ]
+    },
+    {
+      "text": "\"chỉn\" là \"vốn, thật là\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"cốc\" là \"biết\", \"chỉn\" là \"chính\"",
+      "sources": [
+        {
+          "url": "https://www.dieungu.org/images/file/cLLFhp1G0QgQAMt1/tam-to-truc-lam-giang-giai-ht-thich-thanh-tu.pdf",
+          "quote": "Đến cốc hay chỉn Bụt là ta. Chữ cốc là biết được, chỉn là chính. Nếu đến đó, biết được rõ ràng Phật chính là mình.",
+          "where": "HT Thích Thanh Từ, Tam Tổ Trúc Lâm giảng giải (PDF, giảng Cư trần lạc đạo phú hội 5); nguồn yếu (sách giảng của thiền phái, không phải chú giải của Viện Văn học)"
         }
       ]
     },
@@ -288,6 +312,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Nguyên văn Hán, phiên âm và dịch đều khớp nguồn Wikisource (và kho đã đóng băng); các bản dịch của Logos có nhãn đủ. Chưa kiểm được phần gloss từ cổ Nôm (\"cong, khuây, bản, cốc, chỉn\"): không có chú giải đáng tin trên trang đã mở; cần tra chú giải của Viện Văn học hoặc từ điển Nôm."
+  "result": "dat",
+  "notes": "Nguyên văn Hán, phiên âm và dịch đều khớp nguồn Wikisource (và kho đã đóng băng); các bản dịch của Logos có nhãn đủ. Chưa kiểm được phần gloss từ cổ Nôm (\"cong, khuây, bản, cốc, chỉn\"): không có chú giải đáng tin trên trang đã mở; cần tra chú giải của Viện Văn học hoặc từ điển Nôm.\nLượt 2: tìm được chú giải từ cổ trong sách giảng của Thích Thanh Từ (nguồn yếu): cong/khuây/bản/cốc khớp; \"chỉn\" ở câu này được giảng là \"chính\", bài ghi \"vốn, thật là\" → sai nhẹ, fix theo nguồn. Chưa có chú giải Viện Văn học để đối chiếu."
 }

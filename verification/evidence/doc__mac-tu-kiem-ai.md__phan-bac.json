@@ -2,7 +2,7 @@
  "unit": "doc/mac-tu-kiem-ai.md#phan-bac",
  "hash": "sha256:2549aa68b7f327d006b0a4e7ddb876b7490471f7687f447327a2f6234565183b",
  "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k03",
+ "checker": "agent-kiem-5.4-k03 + agent-kiem-5.4-r03",
  "claims": [
   {
    "text": "Mạnh Tử hỏi Di Chi (3A5): thương con của anh mình cũng như đứa bé hàng xóm?",
@@ -17,6 +17,11 @@
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
      "quote": "Does Yi Zhi truly hold that one's affection for one's own nephew is like one's affection for a neighbor's baby?"
+    },
+    {
+     "url": "https://zh.wikisource.org/wiki/孟子/滕文公上",
+     "quote": "墨者夷之，因徐辟而求見孟子",
+     "where": "chương 5: Mạnh Tử trao đổi với Di Chi qua Từ Tị (nhắn qua học trò)"
     }
    ]
   },
@@ -53,8 +58,8 @@
    "sources": [
     {
      "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
-     "quote": "assisting the elderly, solitary, and orphaned, who have no family to care for them",
-     "where": "mục inclusive care (theo tóm tắt công cụ)"
+     "quote": "helping friends and neighbors in need; and assisting the elderly, solitary, and orphaned, who have no family to care for them",
+     "where": "mục Inclusive care"
     }
    ]
   },
@@ -90,6 +95,21 @@
      "quote": "Heaven's conduct is broad and impartial; its favors are rich and incur no debt"
     }
    ]
+  },
+  {
+   "text": "Phản bác 'Quá khắt khe để sống được' và 'Đạo đức dựa vào ý trời thì tùy tiện' có trong văn liệu",
+   "kind": "dien-giai",
+   "verdict": "dung",
+   "sources": [
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "The first and most obvious objection is that inclusive care is too difficult."
+    },
+    {
+     "url": "https://plato.stanford.edu/archives/fall2026/entries/mohism/",
+     "quote": "has led some scholars to suggest that Mohist ethics might ultimately be a form of divine command theory"
+    }
+   ]
   }
  ],
  "checklist": {
@@ -100,5 +120,5 @@
   "thuat-ngu": true
  },
  "result": "dat",
- "notes": "Phản bác 'quá khắt khe' trình bày ở dạng mạnh và có đáp lại. 'Nhắn qua học trò' (Mạnh Tử hỏi Di Chi qua Từ Tị) chưa mở đoạn đối chiếu; chi tiết phụ, không đổi nghĩa."
+ "notes": "Phản bác 'quá khắt khe' trình bày ở dạng mạnh và có đáp lại. 'Nhắn qua học trò' (Mạnh Tử hỏi Di Chi qua Từ Tị) chưa mở đoạn đối chiếu; chi tiết phụ, không đổi nghĩa.\nLượt 2: mở lại SEP Mohism, thay quote 'theo tóm tắt công cụ' bằng câu nguyên văn; xác nhận chi tiết 'nhắn qua học trò' (因徐辟) ở 孟子/滕文公上; hai phản bác không gắn tác giả có trong SEP Mohism."
 }

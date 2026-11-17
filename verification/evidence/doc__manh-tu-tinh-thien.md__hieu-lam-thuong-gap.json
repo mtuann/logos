@@ -2,7 +2,7 @@
   "unit": "doc/manh-tu-tinh-thien.md#hieu-lam-thuong-gap",
   "hash": "sha256:f18c4888c5ea96cd6b16f47cf0575e452f28bb3ea0ed27dbac4157b4812f170d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Mạnh Tử nói về mầm; ông kể chuyện núi Ngưu trơ trụi; luận đề là ai cũng có thể tốt",
@@ -36,9 +36,21 @@
       ]
     },
     {
-      "text": "Tam tự kinh là \"sách vỡ lòng ra đời muộn hơn nhiều\" so với Mạnh Tử: SEP không nêu niên đại, chưa mở nguồn nào ghi niên đại",
+      "text": "Tam tự kinh là \"sách vỡ lòng ra đời muộn hơn nhiều\" so với Mạnh Tử",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "Zhu Xi's view became orthodoxy, and was even written into the opening lines of the Three Character Classic.",
+          "where": "SEP Mencius: câu mở đầu Tam tự kinh viết theo quan điểm của Chu Hy (1130–1200), nên muộn hơn Mạnh Tử (thế kỷ 4 TCN, kb people/manh-tu) hơn một thiên niên kỷ"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%AD%97%E7%B6%93",
+          "quote": "作者：王應麟",
+          "where": "zh.wikisource 三字經; ghi chú tác giả khác: 宋末廣東順德人區適子"
+        }
+      ]
     },
     {
       "text": "Thí nghiệm giếng chỉ nói ai cũng có cái giật mình; từ đó đến hành động còn quãng tu dưỡng; phải \"mở rộng\" bốn đầu mối",
@@ -64,6 +76,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Lỗi chưa thấy; claim Tam tự kinh \"muộn hơn nhiều\" hiển nhiên đúng theo kiến thức chung nhưng chưa có nguồn đã mở. Chỉ ảnh hưởng mức chua-kiem-duoc; nhẹ."
+  "result": "dat",
+  "notes": "Lỗi chưa thấy; claim Tam tự kinh \"muộn hơn nhiều\" hiển nhiên đúng theo kiến thức chung nhưng chưa có nguồn đã mở. Chỉ ảnh hưởng mức chua-kiem-duoc; nhẹ. | Lượt 2: Tam tự kinh muộn hơn nhiều: SEP Mencius (quan điểm Chu Hy được viết vào câu mở đầu Tam tự kinh) và Wikisource (tác giả 王應麟, hoặc 區適子 cuối Tống)."
 }

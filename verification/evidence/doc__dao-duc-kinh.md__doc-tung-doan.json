@@ -2,7 +2,7 @@
   "unit": "doc/dao-duc-kinh.md#doc-tung-doan",
   "hash": "sha256:57344dd1cd9480c164e0428b2d7336124dfc576e1e1aa591ef88498af1820832",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k02",
+  "checker": "agent-kiem-5.4-k02 + agent-kiem-5.4-r02",
   "claims": [
     {
       "text": "道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。(ch.1)",
@@ -159,12 +159,17 @@
     {
       "text": "Legge hiểu là \"bước đi theo\" (trodden)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/laozi/",
-          "quote": "a pathway that is travelled on, trodden, or followed",
-          "where": "Dao and Virtue (chỉ là cách hiểu chung, không ghi tên Legge)"
+          "url": "https://archive.org/download/sacredbooksofchi01oxfo/sacredbooksofchi01oxfo_djvu.txt",
+          "quote": "Ch. 1. 1. The Tao that can be trodden is not the enduring and unchanging Tao.",
+          "where": "SBE 39 (1891), Tâo Teh King, Part I, ch. 1"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/216",
+          "quote": "Ch. 1. 1. The Tao that can be trodden is not the enduring and",
+          "where": "pg216.txt, dòng 57 (bản Legge)"
         }
       ]
     }
@@ -176,6 +181,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Toàn bộ nguyên văn chữ Hán khớp zh.wikisource (bản Vương Bật; chỉ khác dấu câu). Không mở được bản Legge (ctext chặn bot, sacred-texts 403, gutenberg 503, en.wikisource 404, web.archive bị chặn) nên không xác nhận \"trodden\" là chữ của Legge cho chương 1. Ghi chú nhẹ (không phải lỗi): phần \"Chương 78 ... không ai làm được\" đúng với 莫能行."
+  "result": "dat",
+  "notes": "Toàn bộ nguyên văn chữ Hán khớp zh.wikisource (bản Vương Bật; chỉ khác dấu câu). Không mở được bản Legge (ctext chặn bot, sacred-texts 403, gutenberg 503, en.wikisource 404, web.archive bị chặn) nên không xác nhận \"trodden\" là chữ của Legge cho chương 1. Ghi chú nhẹ (không phải lỗi): phần \"Chương 78 ... không ai làm được\" đúng với 莫能行.\nLượt 2: Xác nhận Legge dịch 道 thứ hai là 'trodden' trong văn bản SBE 39 (archive.org) và Gutenberg #216."
 }

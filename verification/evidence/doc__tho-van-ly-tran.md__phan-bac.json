@@ -2,7 +2,7 @@
   "unit": "doc/tho-van-ly-tran.md#phan-bac",
   "hash": "sha256:cea07f339b285218ca601247bd1008cdb5e499b4f0941ecae5592b5da6fd8d2d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "Lời bàn của Ngô Sĩ Liên về Vạn Hạnh tiêu biểu cho phía Nho gia: tu là bỏ nhân luân",
@@ -50,7 +50,24 @@
     {
       "text": "Ba phản bác (Nho gia; yếm thế; thuốc an thần) có thật trong văn liệu về thiền và về Phật giáo nhập thế",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://daily-philosophy.com/kidd-buddhism-social-activism-part-3/",
+          "quote": "The Buddha's moral ethos was quietist. It eschewed the radical, socially-engaged, world-changing kinds of activity.",
+          "where": "Ian James Kidd, \"Should Buddhists Be Social Activists? (Part 3)\", Daily Philosophy, 12/2022: phản bác kiểu \"buông xuôi\"/tĩnh tịch có trong văn liệu"
+        },
+        {
+          "url": "https://www.cabinetmagazine.org/issues/2/western.php",
+          "quote": "it actually functions as its perfect ideological supplement",
+          "where": "Slavoj Žižek, \"From Western Marxism to Western Buddhism\", Cabinet số 2 (2001): phê phán hiện đại rằng thiền giúp người ta \"fully participate in capitalist dynamics while retaining the appearance of mental sanity\", tức kiểu \"thuốc an thần\""
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/大越史記全書/本紀卷之二",
+          "quote": "廢人倫",
+          "where": "phản bác Nho gia (đã kiểm ở lượt 1)"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -60,6 +77,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Phản bác thứ nhất (Nho gia, Ngô Sĩ Liên) có nguồn trực tiếp. Hai phản bác còn lại (nguy cơ yếm thế; phê phán hiện đại \"thuốc an thần\") không gắn với tác giả cụ thể trong bài; chưa mở được nguồn học thuật để xác nhận là phản bác có thật trong văn liệu (không tìm được SEP/IEP mục tương ứng trong phiên này). Ghi nhận chưa kiểm được, không phải lỗi."
+  "result": "dat",
+  "notes": "Phản bác thứ nhất (Nho gia, Ngô Sĩ Liên) có nguồn trực tiếp. Hai phản bác còn lại (nguy cơ yếm thế; phê phán hiện đại \"thuốc an thần\") không gắn với tác giả cụ thể trong bài; chưa mở được nguồn học thuật để xác nhận là phản bác có thật trong văn liệu (không tìm được SEP/IEP mục tương ứng trong phiên này). Ghi nhận chưa kiểm được, không phải lỗi.\nLượt 2: tìm được văn liệu cho hai phản bác không gắn tác giả: quietism (Kidd 2022) và phê phán kiểu ý thức hệ/\"an thần\" (Žižek 2001); bài không gán cho tác giả cụ thể nên không sai."
 }

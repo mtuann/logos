@@ -2,7 +2,7 @@
   "unit": "doc/hume-nhan-qua.md#doc-tiep",
   "hash": "sha256:172b5aa48798cc9cc5552cb176b6da6692bfd82b7dde6dc3f8f712375f38dfae",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k08",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
   "claims": [
     {
       "text": "Khoa học khác gì phi khoa học? (cau-hoi/khoa-hoc.md) tồn tại và bàn về khoa học/quy nạp",
@@ -11,8 +11,8 @@
       "sources": [
         {
           "url": "https://mtuann.github.io/logos/cau-hoi/khoa-hoc/",
-          "quote": "(file nội bộ docs/cau-hoi/khoa-hoc.md, tiêu đề \"Khoa học khác gì với phi khoa học? Vấn đề phân giới\")",
-          "where": "không mở bản deploy; đã đọc file nguồn trong repo"
+          "quote": "Khoa học khác gì với phi khoa học? Vấn đề phân giới - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
         }
       ]
     },
@@ -23,8 +23,18 @@
       "sources": [
         {
           "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
-          "quote": "(file nội bộ docs/cau-hoi/tri-thuc.md: \"Biết một điều nghĩa là gì?\"; nhan-qua-ban-chat.md: \"Nhân quả là gì?\"; cong-cu/quy-nap.md: \"Khi bằng chứng chỉ làm cho có lẽ đúng\")",
-          "where": "đọc file nguồn trong repo"
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/nhan-qua-ban-chat/",
+          "quote": "Nhân quả là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/quy-nap/",
+          "quote": "Khi bằng chứng chỉ làm cho có lẽ đúng - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
         }
       ]
     }
@@ -37,5 +47,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Liên kết nội bộ: kiểm file đích trong repo (tiêu đề khớp; link text trang đầu hơi rút gọn \"Khoa học khác gì phi khoa học?\" so với tiêu đề đầy đủ, chấp nhận). Không mở site deploy."
+  "notes": "Liên kết nội bộ: kiểm file đích trong repo (tiêu đề khớp; link text trang đầu hơi rút gọn \"Khoa học khác gì phi khoa học?\" so với tiêu đề đầy đủ, chấp nhận). Không mở site deploy. Lượt 2: mở 4 trang đích trên mtuann.github.io/logos (200), tiêu đề khớp; thay nguồn file nội bộ bằng quote <title>."
 }

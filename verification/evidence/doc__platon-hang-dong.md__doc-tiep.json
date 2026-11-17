@@ -2,7 +2,7 @@
   "unit": "doc/platon-hang-dong.md#doc-tiep",
   "hash": "sha256:30e8fa5bb9275e6a7f001f04652124ae4f4e5b1ace30add960adbef5a0f83ca1",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k05",
+  "checker": "agent-kiem-5.4-k05 + agent-kiem-5.4-r05",
   "claims": [
     {
       "text": "Biết một điều nghĩa là gì? (../cau-hoi/tri-thuc.md): trang tồn tại",
@@ -74,5 +74,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị)."
+  "notes": "Các trang đích có thật (HTTP 200 trên bản đã deploy); ví dụ Descartes khớp Meditation I. Không kiểm nội dung các trang nội bộ đích (ngoài phạm vi đơn vị).\nLượt 2: Đã mở lại các URL mtuann.github.io/logos/... ngày 2026-11-17 (curl): <title> trùng từng chữ với quote đã ghi; trang cai-chet có mục Epicurus và Nagel, trang pho-quat có mục Aristotle → giữ dung."
 }

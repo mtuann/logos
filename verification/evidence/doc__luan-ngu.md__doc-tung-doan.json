@@ -2,7 +2,7 @@
   "unit": "doc/luan-ngu.md#doc-tung-doan",
   "hash": "sha256:a6d81ac44449d110cc9f2977f8b2bd3d2c2763a495126c5e783ea575622f4b44",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "1.1: 子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
@@ -116,7 +116,39 @@
     {
       "text": "số chương 15.21, 15.39 (有教無類) và 6.11 theo cách đánh số ctext.org",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download",
+          "quote": "6.11 The Master said, How worthy is Hui! A simple bowl of food and a dipperful of drink",
+          "where": "R. Eno, The Analects of Confucius: An Online Teaching Translation (2015, v2.21), hdl.handle.net/2022/23420; cùng hệ số với SEP: Eno 15.24 = 'That which you do not desire, do not do to others', 6.22 = Fan Chi hỏi về trí, khớp SEP"
+        },
+        {
+          "url": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download",
+          "quote": "15.21 The Master said, The junzi seeks it in himself; the small man seeks it in others.",
+          "where": "Eno 15.21"
+        },
+        {
+          "url": "https://scholarworks.iu.edu/dspace/bitstreams/d1f62d31-9082-41d0-999f-4c3efa0c8857/download",
+          "quote": "15.39 The Master said, There is a teaching; there are no divisions.",
+          "where": "Eno 15.39"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "(12.2, cf. 5.12, 15.24)",
+          "where": "SEP cùng hệ số: 12.2, 15.24, 13.18, 6.22 trùng Eno"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E8%A1%9B%E9%9D%88%E5%85%AC%E7%AC%AC%E5%8D%81%E4%BA%94",
+          "quote": "子曰：「君子求諸己，小人求諸人。」",
+          "where": "Wikisource (hệ số Legge) 十五之二十 = 15.21 hệ ctext/SEP/Eno (chênh +1); 有教無類 ở 十五之三八 = 15.39"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E/%E9%9B%8D%E4%B9%9F%E7%AC%AC%E5%85%AD",
+          "quote": "賢哉回也！一簞食，一瓢飮，在陋巷",
+          "where": "Wikisource 六之九 = 6.11 hệ ctext/SEP/Eno (chênh +2)"
+        }
+      ]
     },
     {
       "text": "15.39 nguyên văn 有教無類",
@@ -208,6 +240,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. Đã thử web.archive.org: bị từ chối. Số chương kiểu ctext.org chỉ đối chiếu gián tiếp: SEP dùng cùng số (vd 15.24, 12.2, 13.18); Wikisource đánh số theo Legge nên lệch 1-2 (vd 15.23, 6.9). Nguyên văn đã so từng chữ với Wikisource (khác biệt chỉ ở dấu câu và dị thể 為/爲, 飲/飮). Số chương 6.11, 15.21, 15.39 chưa xác nhận kiểu ctext: Wikisource ghi 6.9, 15.20, 15.38; SEP xác nhận chênh +1 ở 15.24 và +2 ở 6.22 (Wikisource 6.20), nên khả năng cao là đúng nhưng đây là suy luận."
+  "result": "dat",
+  "notes": "ctext.org chặn truy cập tự động (thông báo không cho phép scrape); đã thử https://ctext.org/analects/xue-er, /wei-zheng, /ba-yi, /wei-ling-gong. Không mở được; không thử cách vòng. Đã thử web.archive.org: bị từ chối. Số chương kiểu ctext.org chỉ đối chiếu gián tiếp: SEP dùng cùng số (vd 15.24, 12.2, 13.18); Wikisource đánh số theo Legge nên lệch 1-2 (vd 15.23, 6.9). Nguyên văn đã so từng chữ với Wikisource (khác biệt chỉ ở dấu câu và dị thể 為/爲, 飲/飮). Số chương 6.11, 15.21, 15.39 chưa xác nhận kiểu ctext: Wikisource ghi 6.9, 15.20, 15.38; SEP xác nhận chênh +1 ở 15.24 và +2 ở 6.22 (Wikisource 6.20), nên khả năng cao là đúng nhưng đây là suy luận. | Lượt 2: số chương 6.11, 15.21, 15.39 xác nhận bằng bản dịch Eno 2015 (cùng hệ số với SEP: 15.24, 12.2, 13.18, 6.22), chênh với Wikisource/Legge +1 (thiên 15) và +2 (6.9→6.11)."
 }

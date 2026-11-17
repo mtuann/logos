@@ -2,7 +2,7 @@
   "unit": "doc/tho-van-ly-tran.md#_dau",
   "hash": "sha256:fecc87111aeb79f0aa512586aa4db8cee0840b06f0324731237b1ec1f134cabf",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k04",
+  "checker": "agent-kiem-5.4-k04 + agent-kiem-5.4-r04",
   "claims": [
     {
       "text": "Thời Lý–Trần (1009–1400)",
@@ -42,6 +42,11 @@
           "url": "https://vi.wikisource.org/wiki/Cáo_tật_thị_chúng",
           "quote": "cuối năm 1096, Mãn Giác thiền sư cáo bệnh và làm bài kệ này",
           "where": "chỉ xác nhận mất 1096 và vai thiền sư; năm sinh 1052 chỉ có một nguồn phụ (Tạp chí Nghiên cứu Phật học, qua tìm kiếm, chưa mở trang), nguồn yếu"
+        },
+        {
+          "url": "https://www.tapchinghiencuuphathoc.vn/2pdf/dong-thien-vo-ngon-thong-o-viet-nam-the-ky-viii-xii",
+          "quote": "thiền sư Mãn Giác (1052-1096): sư có tên tục là Nguyễn Trường",
+          "where": "Mai Thị Huyền, \"Dòng thiền Vô Ngôn Thông ở Việt Nam thế kỷ VIII-XII\", Tạp chí Nghiên cứu Phật học (2021), chú thích 8; nguồn yếu (quyết định 31), đã mở PDF"
         }
       ]
     },
@@ -90,13 +95,19 @@
     {
       "text": "bộ Thơ văn Lý–Trần của Viện Văn học (3 tập, 1977–1989)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "kb": "sources/sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h"
     },
     {
       "text": "Ngô Tất Tố (1894–1954)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb37180145d",
+          "quote": "Ngô, Tất Tố (1894-1954)",
+          "where": "BnF, bản ghi tác giả"
+        },
         {
           "url": "https://nhandan.vn/bac-dau-xu-to-post583356.html",
           "quote": "Ông mất ngày 20-4-1954",
@@ -134,6 +145,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được: (1) bộ Thơ văn Lý–Trần 3 tập 1977–1989 (tìm web chỉ thấy tập I 1977; WorldCat, BnF không đối chiếu được), (2) Ngô Tất Tố sinh 1894 (có nguồn ghi 1893; Nhân Dân chỉ cho năm mất 1954). Năm sinh Mãn Giác và Vạn Hạnh chỉ có nguồn yếu."
+  "result": "dat",
+  "notes": "Chưa kiểm được: (1) bộ Thơ văn Lý–Trần 3 tập 1977–1989 (tìm web chỉ thấy tập I 1977; WorldCat, BnF không đối chiếu được), (2) Ngô Tất Tố sinh 1894 (có nguồn ghi 1893; Nhân Dân chỉ cho năm mất 1954). Năm sinh Mãn Giác và Vạn Hạnh chỉ có nguồn yếu.\nLượt 2: năm sinh Mãn Giác 1052 mở được bài Tạp chí Nghiên cứu Phật học (nguồn yếu); bộ 3 tập 1977–1989 khớp bản ghi đóng băng; Ngô Tất Tố 1894–1954 theo bản ghi tác giả BnF (có nguồn khác ghi 1893 nhưng chỉ thấy qua kết quả tìm kiếm, chưa mở)."
 }

@@ -1,134 +1,135 @@
 {
- "unit": "doc/descartes-suy-niem.md#_dau",
- "hash": "sha256:3ac9719c37645c8a57e84c48144dbc17df38b4ec323ecfcaaa00ebfc2fc20455",
- "checked_on": "2026-11-17",
- "checker": "agent-kiem-5.4-k07",
- "claims": [
-  {
-   "text": "René Descartes (1596–1650)",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+  "unit": "doc/descartes-suy-niem.md#_dau",
+  "hash": "sha256:7f616f55483db3178d88e7609a34ab131a471b14c1b4050bcd5211f315d8a3db",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.4-k07 + agent-kiem-5.4-r06",
+  "claims": [
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
-     "quote": "René Descartes (1596–1650) was a creative mathematician"
-    }
-   ]
-  },
-  {
-   "text": "Năm 1641 xuất bản Meditationes de prima philosophia; sách chia sáu suy niệm",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
-     "quote": "the Meditations on First Philosophy (i.e., on metaphysics), with its Objections and Replies (in Latin, 1641, 2nd edn. 1642)"
+      "text": "René Descartes (1596–1650)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "René Descartes (1596–1650) was a creative mathematician"
+        }
+      ]
     },
     {
-     "url": "https://archive.org/download/oeuvresdedesca07desc/oeuvresdedesca07desc_djvu.txt",
-     "quote": "MEDITATIO I. De iis quae in dubium revocari possunt ... 17 ... II ... 23 ... III ... 34 ... IV ... 52 ... V ... 63",
-     "where": "Mục lục AT 7: sáu Meditationes"
-    }
-   ]
-  },
-  {
-   "text": "Suy niệm II mở đầu bằng \"Suy niệm hôm qua...\"",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
-     "quote": "1. The Meditation of yesterday has filled my mind with so many doubts",
-     "where": "Veitch II §1"
-    }
-   ]
-  },
-  {
-   "text": "Sách in bằng tiếng Latin năm 1641 (tái bản 1642), kèm bảy bộ phản bác của các học giả đương thời và lời đáp của ông",
-   "kind": "du-kien",
-   "verdict": "sai",
-   "severity": "nhe",
-   "fix": "Sách in bằng tiếng Latin năm 1641 kèm sáu bộ phản bác của các học giả đương thời và lời đáp của ông; bản in lần hai (1642) thêm bộ thứ bảy.",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
-     "quote": "six sets of objections and replies ... Meditations (1641), and a seventh set was added with the second edition (1642).",
-     "where": "SEP dòng 71–73 của bản fall2026"
-    }
-   ]
-  },
-  {
-   "text": "bản tiếng Pháp ra năm 1647",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
-     "quote": "1647, Les meditations metaphysiques, touchant la premiere philosophie ... trans. Louis-Charles d’Albert, duc de Luynes (Meds.) and Claude Clerselier",
-     "where": "thư mục SEP"
-    }
-   ]
-  },
-  {
-   "text": "Suy niệm I–II chừng 17 trang trong ấn bản Adam–Tannery (AT 7:17–34)",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://archive.org/download/oeuvresdedesca07desc/oeuvresdedesca07desc_djvu.txt",
-     "quote": "MEDITATIO I ... 17; II ... 23; III ... 34",
-     "where": "Mục lục AT 7; Meditatio III mở ở tr.34 nên I–II là tr.17–34"
-    }
-   ]
-  },
-  {
-   "text": "Bản dịch Veitch trên Wikisource; Veitch (1853; Wikisource theo ấn bản 1901); chữ ngoặc vuông là phần Veitch thêm từ bản tiếng Pháp",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
-    {
-     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
-     "quote": "First published 1853. Reprinted 1901."
+      "text": "Năm 1641 xuất bản Meditationes de prima philosophia; sách chia sáu suy niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "the Meditations on First Philosophy (i.e., on metaphysics), with its Objections and Replies (in Latin, 1641, 2nd edn. 1642)"
+        },
+        {
+          "url": "https://archive.org/download/oeuvresdedesca07desc/oeuvresdedesca07desc_djvu.txt",
+          "quote": "MEDITATIO I. De iis quae in dubium revocari possunt ... 17 ... II ... 23 ... III ... 34 ... IV ... 52 ... V ... 63",
+          "where": "Mục lục AT 7: sáu Meditationes"
+        }
+      ]
     },
     {
-     "url": "https://archive.org/download/themeditatiions00descuoft/themeditatiions00descuoft_djvu.txt",
-     "quote": "additions of the French version have also been given — the additions being put in square brackets in the text",
-     "where": "lời nhà xuất bản, Open Court 1913"
-    }
-   ]
-  },
-  {
-   "text": "\"§\" là số đoạn trên Wikisource; \"AT 7:25\" cách trích chung",
-   "kind": "dien-giai",
-   "verdict": "dung",
-   "sources": [
+      "text": "Suy niệm II mở đầu bằng \"Suy niệm hôm qua...\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+          "quote": "1. The Meditation of yesterday has filled my mind with so many doubts",
+          "where": "Veitch II §1"
+        }
+      ]
+    },
     {
-     "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
-     "quote": "3. But how do I know that there is not something different altogether",
-     "where": "Đoạn 3 chứa mệnh đề \"I am, I exist\" mà SEP dẫn AT 7:25"
-    }
-   ]
-  },
-  {
-   "text": "Dù đúng câu chữ \"Tôi tư duy, vậy tôi hiện hữu\" không có trong Suy niệm",
-   "kind": "du-kien",
-   "verdict": "dung",
-   "sources": [
+      "text": "Sách in bằng tiếng Latin năm 1641 (tái bản 1642), kèm bảy bộ phản bác của các học giả đương thời và lời đáp của ông",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Sách in bằng tiếng Latin năm 1641 kèm sáu bộ phản bác của các học giả đương thời và lời đáp của ông; bản in lần hai (1642) thêm bộ thứ bảy.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "six sets of objections and replies ... Meditations (1641), and a seventh set was added with the second edition (1642).",
+          "where": "SEP dòng 71–73 của bản fall2026"
+        }
+      ],
+      "fixed": true
+    },
     {
-     "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
-     "quote": "a formulation that does not expressly appear in the Meditations",
-     "where": "SEP, mục cogito"
+      "text": "bản tiếng Pháp ra năm 1647",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes/",
+          "quote": "1647, Les meditations metaphysiques, touchant la premiere philosophie ... trans. Louis-Charles d’Albert, duc de Luynes (Meds.) and Claude Clerselier",
+          "where": "thư mục SEP"
+        }
+      ]
+    },
+    {
+      "text": "Suy niệm I–II chừng 17 trang trong ấn bản Adam–Tannery (AT 7:17–34)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/oeuvresdedesca07desc/oeuvresdedesca07desc_djvu.txt",
+          "quote": "MEDITATIO I ... 17; II ... 23; III ... 34",
+          "where": "Mục lục AT 7; Meditatio III mở ở tr.34 nên I–II là tr.17–34"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch Veitch trên Wikisource; Veitch (1853; Wikisource theo ấn bản 1901); chữ ngoặc vuông là phần Veitch thêm từ bản tiếng Pháp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy",
+          "quote": "First published 1853. Reprinted 1901."
+        },
+        {
+          "url": "https://archive.org/download/themeditatiions00descuoft/themeditatiions00descuoft_djvu.txt",
+          "quote": "additions of the French version have also been given — the additions being put in square brackets in the text",
+          "where": "lời nhà xuất bản, Open Court 1913"
+        }
+      ]
+    },
+    {
+      "text": "\"§\" là số đoạn trên Wikisource; \"AT 7:25\" cách trích chung",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II",
+          "quote": "3. But how do I know that there is not something different altogether",
+          "where": "Đoạn 3 chứa mệnh đề \"I am, I exist\" mà SEP dẫn AT 7:25"
+        }
+      ]
+    },
+    {
+      "text": "Dù đúng câu chữ \"Tôi tư duy, vậy tôi hiện hữu\" không có trong Suy niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "a formulation that does not expressly appear in the Meditations",
+          "where": "SEP, mục cogito"
+        }
+      ]
     }
-   ]
-  }
- ],
- "checklist": {
-  "dung-nguon": true,
-  "manh-nhat": true,
-  "phan-bac": true,
-  "trung-lap": true,
-  "thuat-ngu": true
- },
- "result": "dat",
- "notes": "Chỉ có một lỗi nhe (sáu/bảy bộ phản bác)."
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Chỉ có một lỗi nhe (sáu/bảy bộ phản bác).\nLượt 2: bài đã ghi \"kèm sáu bộ phản bác ... (bản in lần hai năm 1642 thêm bộ thứ bảy)\" đúng fix; SEP descartes-epistemology fall2026 mở lại: \"six sets of objections and replies were published along with the first edition of the Meditations (1641), and a seventh set was added with the second edition (1642)\"; fixed: true."
 }

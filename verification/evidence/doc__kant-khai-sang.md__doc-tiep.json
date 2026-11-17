@@ -2,7 +2,7 @@
   "unit": "doc/kant-khai-sang.md#doc-tiep",
   "hash": "sha256:4ef558ff0d4f5d3ea09274faed7cdaaa2b57f73c6cad778b298fd57b13bd1c04",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k08",
+  "checker": "agent-kiem-5.4-k08 + agent-kiem-5.4-r07",
   "claims": [
     {
       "text": "Bốn liên kết nội bộ: dan-chu.md \"Dân chủ là gì, và vì sao nó đáng giá?\", tri-thuc.md \"Biết một điều nghĩa là gì?\", tu-do-ngon-luan.md \"Tự do ngôn luận: được nói đến đâu?\", mill-tu-do.md (Bàn về tự do chương 2, 1859)",
@@ -10,8 +10,24 @@
       "verdict": "dung",
       "sources": [
         {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/",
+          "quote": "Dân chủ là gì, và vì sao nó đáng giá? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Biết một điều nghĩa là gì? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-ngon-luan/",
+          "quote": "Tự do ngôn luận: được nói đến đâu? - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
+        },
+        {
           "url": "https://mtuann.github.io/logos/doc/mill-tu-do/",
-          "quote": "(đọc file nguồn trong repo: tiêu đề của 4 trang khớp; không mở site deploy)"
+          "quote": "Tự do ngôn luận — John Stuart Mill, \"Bàn về tự do\" chương 2 (1859) - Logos Zero",
+          "where": "mở bản deploy trong phiên lượt 2 (HTTP 200), <title> trang"
         }
       ]
     },
@@ -30,5 +46,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Liên kết trong repo; đã xác nhận tiêu đề các file docs/cau-hoi/dan-chu.md, tu-do-ngon-luan.md, tri-thuc.md, docs/doc/mill-tu-do.md. works/mill.on-liberty là khóa kb nhưng tôi chưa xác nhận trạng thái frozen trong ledger (không có trong danh sách tôi lọc) — dùng thận trọng."
+  "notes": "Liên kết trong repo; đã xác nhận tiêu đề các file docs/cau-hoi/dan-chu.md, tu-do-ngon-luan.md, tri-thuc.md, docs/doc/mill-tu-do.md. works/mill.on-liberty là khóa kb nhưng tôi chưa xác nhận trạng thái frozen trong ledger (không có trong danh sách tôi lọc) — dùng thận trọng. Lượt 2: mở 4 trang đích trên site deploy (200), tiêu đề khớp. Đã xác nhận works/mill.on-liberty có status frozen trong verification/ledger.json."
 }

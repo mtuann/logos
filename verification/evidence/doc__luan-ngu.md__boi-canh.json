@@ -2,7 +2,7 @@
   "unit": "doc/luan-ngu.md#boi-canh",
   "hash": "sha256:1c9f539f6ce623e9d7db67c14a6ef3bcad73d3a26502e2c2d671974e91ac054e",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k01",
+  "checker": "agent-kiem-5.4-k01 + agent-kiem-5.4-r01",
   "claims": [
     {
       "text": "Khổng Tử sống cuối thời Xuân Thu: nhà Chu suy yếu, các nước chư hầu thành quốc gia độc lập",
@@ -48,9 +48,28 @@
       "kb": "people/chu-hy"
     },
     {
-      "text": "Nguyễn Tài Thư chủ biên, Lịch sử tư tưởng Việt Nam, 1993: Nho giáo định hình giáo dục khoa cử suốt nhiều thế kỷ",
+      "text": "Ở Việt Nam, Nho giáo định hình nền giáo dục khoa cử suốt nhiều thế kỷ (xem Nguyễn Tài Thư chủ biên, Lịch sử tư tưởng Việt Nam, 1993)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Giữ nhận định (đã khớp nguồn mở được) nhưng dẫn thêm nguồn đã kiểm, vì chưa mở được nội dung sách Nguyễn Tài Thư: \"Ở Việt Nam, khoa cử Nho học kéo dài từ năm 1075 đến 1919 và định hình nền giáo dục suốt nhiều thế kỷ (Huynh & Duong, 2025; xem thêm Nguyễn Tài Thư chủ biên, *Lịch sử tư tưởng Việt Nam*, 1993).\" Hoặc chủ biên mở bản in và xác nhận trang.",
+      "sources": [
+        {
+          "url": "https://extranet.sioe.org/uploads/sioe2025/duong-2025-01-15_5183.pdf",
+          "quote": "For nearly 844 years, from 1075 to 1919, Vietnam employed an imperial examination system to select its elites",
+          "where": "Huynh & Duong, 'A land of sages' (15/1/2025), mục 1"
+        },
+        {
+          "url": "https://extranet.sioe.org/uploads/sioe2025/duong-2025-01-15_5183.pdf",
+          "quote": "starting in 1232, they shifted to concentrate exclusively on Confucianism and its literature",
+          "where": "Phụ lục A"
+        },
+        {
+          "url": "https://openlibrary.org/books/OL59680041M",
+          "quote": "chủ biên, Nguyễn Tài Thư ; các tác giả, Phan Đại Doãn ... [et al.].",
+          "where": "chỉ xác nhận sách có thật (bản ghi frozen sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1); nội dung chưa mở"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -60,6 +79,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Mục \"nhà Chu suy yếu, lễ nhạc đổ nát\" và \"nền tảng giáo dục Nho học ở Đông Á\" khớp SEP (Zhu Xi curriculum widely influential in China, Korea, Japan). Claim cuối: tác phẩm chỉ xác nhận có thật qua CiNii (https://ci.nii.ac.jp/ncid/BA61974912: Nguyễn Tài Thư chủ biên, Khoa học xã hội, Hà Nội, 1993, tập 1); chưa mở được nội dung nên chưa xác nhận nhận định về khoa cử."
+  "result": "dat",
+  "notes": "Mục \"nhà Chu suy yếu, lễ nhạc đổ nát\" và \"nền tảng giáo dục Nho học ở Đông Á\" khớp SEP (Zhu Xi curriculum widely influential in China, Korea, Japan). Claim cuối: tác phẩm chỉ xác nhận có thật qua CiNii (https://ci.nii.ac.jp/ncid/BA61974912: Nguyễn Tài Thư chủ biên, Khoa học xã hội, Hà Nội, 1993, tập 1); chưa mở được nội dung nên chưa xác nhận nhận định về khoa cử. | Lượt 2: claim Nguyễn Tài Thư: nhận định khoa cử Nho học nhiều thế kỷ khớp Huynh & Duong 2025 (1075–1919, từ 1232 chỉ thi Nho học); sách Nguyễn Tài Thư không tìm được bản số (archive.org không có) nên ghi sai nhẹ, fix dẫn thêm nguồn đã mở."
 }
