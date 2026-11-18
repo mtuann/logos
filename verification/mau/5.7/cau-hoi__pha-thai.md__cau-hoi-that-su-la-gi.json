@@ -1,0 +1,95 @@
+{
+  "unit": "cau-hoi/pha-thai.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:2afc1417d9bca7e923b906ed39e89941c315e994e5fb074a73044de4522cea95",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m05",
+  "claims": [
+    {
+      "text": "Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng nảy của tranh luận đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thí nghiệm trên chứa ba câu hỏi khác nhau, và một phần sự nóng nảy của tranh luận có lẽ đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "Note that the violinist case objection defends abortion while granting the claim that the fetus has a right to life.",
+          "where": "mục 1.2"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi thứ nhất: thai nhi có phải là \"người\" có quyền sống không? Đây là câu hỏi về địa vị đạo đức (moral status).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "But suppose that “person” means “moral person” or something with full moral status – something that counts fully for moral purposes",
+          "where": "mục 1.1"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi thứ hai: ngay cả khi thai nhi là người, quyền sống của nó có bao gồm quyền được dùng thân thể người khác không? Đây là câu hỏi Thomson đặt ra. Quyền sống của bạn không cho bạn quyền cắm ống vào thận của tôi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm",
+          "quote": "I am arguing only that having a right to life does not guarantee having either a right to be given the use of or a right to be allowed continued use of another person s body--even if one needs it for life itself.",
+          "where": "Thomson 1971, mục 3"
+        },
+        {
+          "url": "https://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm",
+          "quote": "so that your kidneys can be used to extract poisons from his blood as well as your own"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "(So claims Thomson 1971, which introduced this famous case.)"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi thứ ba: việc mang thai do quan hệ tự nguyện có tạo ra nghĩa vụ đặc biệt không? Nhiều người cho rằng trường hợp bị cưỡng bức khác với trường hợp tự nguyện.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "The violinist case might appear to defend abortion only in the case of rape.",
+          "where": "mục 1.2.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "1. A pregnant woman who has consensual sex is responsible for the fetus’s dependence on her body."
+        },
+        {
+          "url": "https://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm",
+          "quote": "this argument would give the unborn person a right to its mother's body only if her pregnancy resulted from a voluntary act"
+        }
+      ]
+    },
+    {
+      "text": "Ba lập trường dưới đây trả lời ba câu hỏi này theo ba cách khác nhau.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/pha-thai/",
+          "quote": "Lập trường thứ ba từ chối cả hai câu trả lời dứt khoát.",
+          "where": "mục Các lập trường chính (pro-life trả lời câu 1, Thomson trả lời câu 2 và 3, thuyết tiệm tiến trả lời câu 1 theo mức độ)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cách tách ba câu hỏi khớp SEP 'The Ethics of Abortion' (vụ violinist chấp nhận thai nhi có quyền sống; phản bác từ quan hệ tự nguyện) và văn bản Thomson 1971. Thomson nói tuần hoàn của nghệ sĩ được nối để dùng thận của bạn, khớp hình ảnh 'cắm ống vào thận'. Một lỗi nhẹ: khái quát 'phần lớn sự nóng nảy...' không có nguồn."
+}

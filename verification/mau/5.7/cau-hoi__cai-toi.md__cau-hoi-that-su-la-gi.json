@@ -1,0 +1,94 @@
+{
+  "unit": "cau-hoi/cai-toi.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:6b0ad52cde8f0718afdf7a40121aecc580a32706d67e0887d0bae10f933b4f73",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m01",
+  "claims": [
+    {
+      "text": "Câu hỏi thứ nhất: tiêu chí đồng nhất là gì? Cái gì làm cho người ở hôm nay và người ở mười năm trước là cùng một người? Thân thể? Ký ức? Hay một thứ gì khác?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "2. Understanding the Persistence Question 3. Accounts of Our Persistence 4. Psychological-Continuity Views 5. Fission 6. The Too-Many-Thinkers Objection 7. Animalism and Brute-Physical Views",
+          "where": "mục lục: câu hỏi về sự tồn tại qua thời gian, các đáp án tâm lý và sinh học"
+        }
+      ]
+    },
+    {
+      "text": "Vì nó quyết định trách nhiệm: có công bằng không khi trừng phạt một người vì việc mà \"người ấy\" của hai mươi năm trước đã làm, nếu giờ đây ông ta hoàn toàn không nhớ? Nó quyết định sự sống còn: trong cỗ máy dịch chuyển, bạn *sống sót* hay *đã chết*? Và nó quyết định sự quan tâm khôn ngoan: vì sao bạn tiết kiệm tiền cho tuổi già, nếu \"ông già ấy\" chưa chắc đã là bạn?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "And what reason do you have to care about what will happen to you, as opposed to what will happen to other people?",
+          "where": "mục 1, What matters in survival"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Will the resulting person—who will think he is you—be responsible for your actions or for mine?",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "then waking Socrates ought not be punished for what sleeping Socrates does",
+          "where": "trách nhiệm gắn với ý thức theo Locke"
+        }
+      ]
+    },
+    {
+      "text": "John Locke đã phân biệt *con người* (một sinh vật) với *ngôi vị* (một chủ thể có lý tính và ý thức về bản thân).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "a thinking intelligent Being, that has reason and reflection, and can consider it self as itself, the same thinking thing in different times and places",
+          "where": "trích Essay 2.27.9"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "although Socrates is the same man by day as he is by night, he is a different person by day than he is at night",
+          "where": "phân biệt same man / same person"
+        }
+      ]
+    },
+    {
+      "text": "Một bệnh nhân hôn mê sâu vẫn là một con người, nhưng có còn là một ngôi vị như trước không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Embryos and human beings in a vegetative state, having no mental properties at all, are thus not people when they’re in that condition.",
+          "where": "mục 2: câu hỏi này là một câu hỏi thật trong văn liệu"
+        }
+      ]
+    },
+    {
+      "text": "John Locke đã phân biệt *con người* (một sinh vật) với *ngôi vị* (một chủ thể có lý tính và ý thức về bản thân).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "John Locke đã phân biệt *con người* (*man*, một sinh vật) với *ngôi vị* (*person*, một chủ thể có lý tính và ý thức về bản thân).",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "he is a different person by day than he is at night",
+          "where": "thuật ngữ gốc: man / person"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Lỗi nhẹ duy nhất: 'ngôi vị' xuất hiện lần đầu trong bài ở mục này mà chưa kèm *person* (thuật ngữ tiếng Anh chỉ có ở mục Đọc văn bản gốc, trong câu trích). 'ngôi vị' không có trong bảng thuật ngữ bắt buộc. 'Sự quan tâm khôn ngoan' (prudential concern) cũng không kèm thuật ngữ tiếng Anh, nhưng không có trong bảng bắt buộc."
+}

@@ -1,0 +1,106 @@
+{
+  "unit": "cau-hoi/loi-chung.md#tu-kiem-tra",
+  "hash": "sha256:96b8c43cb356873151cf81c0dc9cb4c7031750acd9451b6f3e181935c82b6f2a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m05",
+  "claims": [
+    {
+      "text": "Câu 1: đáp án đúng 'Khi sự sai lầm của lời chứng còn khó tin hơn cả phép lạ đó'; lời giải: Hume đặt ra tiêu chuẩn cân bằng, chỉ tin khi sự sai lầm của lời chứng còn kỳ lạ hơn cả phép lạ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp",
+          "quote": "That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish",
+          "where": "Enquiry mục X, tr. 114-16 bản Selby-Bigge"
+        },
+        {
+          "url": "https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp",
+          "quote": "I weigh the one miracle against the other; and according to the superiority, which I discover, I pronounce my decision, and always reject the greater miracle."
+        }
+      ]
+    },
+    {
+      "text": "Câu 1, các phương án sai ('người đáng kính', 'nhiều người cùng kể', 'Không bao giờ, vì phép lạ không thể xảy ra') và lời giải 'Ông không nói không bao giờ một cách tuyệt đối'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp",
+          "quote": "If the falsehood of his testimony would be more miraculous, than the event which he relates; then, and not till then, can he pretend to command my belief or opinion."
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: phe giản lược đòi lý do độc lập với lời chứng; phe chống giản lược cho quyền mặc định tin trừ khi có lý do nghi ngờ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "have positive reasons for thinking that the speaker’s testimony is reliable, where these reasons are not themselves ultimately based on testimony",
+          "where": "mục 1.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/",
+          "quote": "Instead, we have a defeasible but presumptive right to believe what people tell us.",
+          "where": "mục 1.2"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: Reid đưa ra nguyên tắc nói thật (veracity) và nguyên tắc cả tin (credulity); tin vào lời chứng tự nhiên như tin vào mắt mình",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/humanmind00reiduoft/humanmind00reiduoft_djvu.txt",
+          "quote": "we shall, for want of a more proper name, call this the principle of credulity",
+          "where": "Inquiry, ch. VI, sect. XXIV (bản 1818)"
+        },
+        {
+          "url": "https://archive.org/download/humanmind00reiduoft/humanmind00reiduoft_djvu.txt",
+          "quote": "By this instinct, a real connection is formed between our words and our thoughts"
+        },
+        {
+          "url": "https://archive.org/download/humanmind00reiduoft/humanmind00reiduoft_djvu.txt",
+          "quote": "Of the Analogy between Perception, and the Credit we give to",
+          "where": "tiêu đề ch. VI sect. XXIV"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: theo các dấu hiệu của Goldman, cách tốt nhất là xem ai được giới chuyên môn công nhận, có công trình kiểm chứng được, và không bán sản phẩm đi kèm; lời giải: sự công nhận của đồng nghiệp, hồ sơ thành tích, xung đột lợi ích",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=Experts+Which+Ones+Should+You+Trust+Goldman&rows=3",
+          "quote": "determining who has more agreement from other experts, consulting the ratings of metaexperts, checking the biases of the contenders, and consulting their respective track records",
+          "where": "tóm tắt bản in lại 2002 (DOI 10.1093/0195138791.003.0007) của bài PPR 2001"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: chuyên môn gắn với lĩnh vực; bác sĩ nói về vaccine có giới y khoa đứng sau, nói về tiền tệ thì không (khớp mục Liên hệ đời sống)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/loi-chung/",
+          "quote": "một bác sĩ nói về vaccine thì có sự đồng thuận của giới chuyên môn đứng sau; cùng người đó nói về",
+          "where": "mục Liên hệ đời sống"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đáp án đúng của cả 5 câu khớp nguồn và thân bài; phương án sai đều sai rõ. Lời giải câu 4 có vế 'dùng nhiều dấu hiệu độc lập cùng lúc thì an toàn hơn' là suy rộng của bài (thân bài ghi đúng là cách dùng các nguồn Goldman liệt kê), không phải lỗi. Không mở được toàn văn Goldman 2001 (core.ac.uk chặn bằng Cloudflare); dùng tóm tắt Crossref của bản in lại 2002 cho năm phương pháp."
+}
