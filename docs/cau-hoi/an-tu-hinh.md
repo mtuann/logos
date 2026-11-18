@@ -17,9 +17,9 @@ block: luan-ly-ung-dung
 
 Nhà nước có quyền tước đi mạng sống của công dân không? Đây là câu hỏi mà hầu hết các hệ thống pháp luật hiện đại đều phải trả lời, và câu trả lời thì chia thế giới làm hai: một số nước giữ án tử hình, một số đã bãi bỏ. Cả hai bên đều viện đến "công lý" — nhưng họ hiểu công lý theo hai nghĩa khác nhau.
 
-Bài này không bàn luật của nước nào hôm nay. Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, và cái giá của sự biện minh đó là gì?
+Bài này không bàn luật của nước nào hôm nay. Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, rủi ro oan sai có chấp nhận được không, và trong thực tế án tử rơi lên ai?
 
-Chữ "án tử hình" là Hán Việt: *án* (案, vụ việc đã xét xử) + *tử* (chết) + *hình* (刑, hình phạt) — "hình phạt chết sau khi xét xử". Tiếng Anh *capital punishment* gốc Latin *caput* (cái đầu, và theo nghĩa rộng là mạng sống) — tội "capital" là tội phải trả bằng mạng. Ngay từ gốc chữ đã thấy một điều: đây là hình phạt duy nhất mà một khi thi hành, không còn cách nào sửa sai.
+Chữ "án tử hình" là Hán Việt: *án* (案, vụ việc đã xét xử) + *tử* (chết) + *hình* (刑, hình phạt) — "hình phạt chết sau khi xét xử". Tiếng Anh *capital punishment* gốc Latin *caput* (cái đầu, và theo nghĩa rộng là mạng sống) — tội "capital" là tội phải trả bằng mạng. Ngay từ gốc chữ đã thấy một điều: đây là hình phạt lấy đi chính mạng sống, nên một khi thi hành, không còn cách nào sửa sai với người bị xử.
 
 ## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 

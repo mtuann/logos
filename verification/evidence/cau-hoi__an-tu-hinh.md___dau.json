@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/an-tu-hinh.md#_dau",
-  "hash": "sha256:574573fc31d011adc7c75a5cbc863557a6188f75bd0c642007c9e7b4aaab24b9",
+  "hash": "sha256:c7fd8cd2a09918f9e8db5ca0047a8dfc2196897aa08c5f28526f5ac68c6ac69d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k12 + agent-kiem-5.7-r01",
+  "checker": "agent-kiem-5.7-k12 + agent-kiem-5.7-r01 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "báo ứng — \"xứng đáng\", [Kant](../triet-gia/kant.md) 1797 — hay hệ quả — răn đe cứu mạng",
@@ -111,6 +111,41 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Ngay từ gốc chữ đã thấy một điều: đây là hình phạt duy nhất mà một khi thi hành, không còn cách nào sửa sai.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Ngay từ gốc chữ đã thấy một điều: đây là hình phạt lấy đi chính mạng sống, nên một khi thi hành, không còn cách nào sửa sai với người bị xử.",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/2/9/7/6/29765/29765-0.txt",
+          "quote": "the forfeiture of the head or life",
+          "where": "gốc chữ chỉ nói 'mất đầu, mất mạng', không nói tính duy nhất"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "Some abolitionists focus on particular modes of punishment, such as capital punishment",
+          "where": "mục SEP về hình phạt không có khẳng định án tử là hình phạt duy nhất không sửa được"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, và cái giá của sự biện minh đó là gì?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, rủi ro oan sai có chấp nhận được không, và trong thực tế án tử rơi lên ai?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "Some abolitionists focus on particular modes of punishment, such as capital punishment",
+          "where": "lỗi nội tại: câu báo 'ba câu hỏi' nhưng chỉ nêu hai; ba câu hỏi đúng là ba câu ở mục 'Câu hỏi thật sự là gì?' và ý 1 của Tóm tắt"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -121,5 +156,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ý tóm tắt khớp thân bài. Riêng nhận định \"văn học triết học đương đại nghiêng về phía hoài nghi án tử hình\" không có nguồn trong bài; SEP Legal Punishment chỉ ghi có các tác giả chống án tử (Brooks 2004, Yost 2019), không nói cán cân văn liệu. Fix: bỏ ngoặc đơn, giữ phần còn lại của câu. Số DPIC nằm trong khối thời sự, chỉ đối chiếu để thấy tóm tắt khớp. Lượt 2: đối chiếu bài hiện tại; mọi claim sai cũ đã được sửa đúng theo fix (giữ fixed: true); không có chữ mới ngoài các chỗ sửa."
+  "notes": "Ý tóm tắt khớp thân bài. Riêng nhận định \"văn học triết học đương đại nghiêng về phía hoài nghi án tử hình\" không có nguồn trong bài; SEP Legal Punishment chỉ ghi có các tác giả chống án tử (Brooks 2004, Yost 2019), không nói cán cân văn liệu. Fix: bỏ ngoặc đơn, giữ phần còn lại của câu. Số DPIC nằm trong khối thời sự, chỉ đối chiếu để thấy tóm tắt khớp. Lượt 2: đối chiếu bài hiện tại; mọi claim sai cũ đã được sửa đúng theo fix (giữ fixed: true); không có chữ mới ngoài các chỗ sửa. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }
