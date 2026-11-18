@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/noi-doi.md#_dau",
-  "hash": "sha256:a15798c9fa7d00ea79f4486473fc6ef9b3c09ad14360a9d9a157e70edb753536",
+  "hash": "sha256:de00fdaac2dd57f0d39127ccd8e6ccc54c2da895fa49a4719f246ad8c71029ff",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05 + agent-kiem-5.7-k3",
   "claims": [
     {
       "text": "Nói dối (định nghĩa truyền thống) là khẳng định điều mình tin là sai, với ý định người nghe tin là thật",
@@ -194,6 +194,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Mọi ý của hộp Tóm tắt khớp thân bài. Không mở được bài Korsgaard 1986 để kiểm ý 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được': đã thử https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670 và https://dash.harvard.edu/handle/1/3200670 (tường lửa 429), https://people.fas.harvard.edu/~korsgaar/CMK.RightToLie.pdf (chuyển về trang chủ, không còn file), https://www.jstor.org/stable/2265418 (chặn JS), https://doi.org/10.1017/cbo9781139174503.006 (chỉ có đoạn tóm tắt mở đầu), archive.org creatingkingdomo0000kors (chỉ cho mượn). Câu 'không hỏi về nói dối' đối chiếu với đủ 100 câu trong data/kb/philpapers-2020.json. Lượt 2: ý Korsgaard 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được' không tìm được nguồn mở được → sai vừa, fix bỏ chi tiết phổ quát hóa, giữ ý có nguồn thứ cấp. Đã thử thêm: dash.harvard.edu (429, không thử lại theo quyết định 34), philpapers.org/rec/KORTRT (403), scholar.harvard.edu (403), OpenAlex (hết hạn mức), SEP fall2026 (kant-moral, lying-definition, practical-reason-action, constructivism-metaethics, ...) và IEP: không mục nào trình bày lập luận phổ quát hóa của Korsgaard; Crossref/Europe PMC chỉ cho nguồn thứ cấp (PMC6086225, PMC9826341, PMC12138956) xác nhận bà cho rằng có lúc nói dối là đúng và cách đọc công thức nhân tính, không xác nhận chi tiết 'kẻ sát nhân giả làm người bình thường… vượt qua phép thử phổ quát hóa'."
+  "result": "dat",
+  "notes": "Mọi ý của hộp Tóm tắt khớp thân bài. Không mở được bài Korsgaard 1986 để kiểm ý 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được': đã thử https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670 và https://dash.harvard.edu/handle/1/3200670 (tường lửa 429), https://people.fas.harvard.edu/~korsgaar/CMK.RightToLie.pdf (chuyển về trang chủ, không còn file), https://www.jstor.org/stable/2265418 (chặn JS), https://doi.org/10.1017/cbo9781139174503.006 (chỉ có đoạn tóm tắt mở đầu), archive.org creatingkingdomo0000kors (chỉ cho mượn). Câu 'không hỏi về nói dối' đối chiếu với đủ 100 câu trong data/kb/philpapers-2020.json. Lượt 2: ý Korsgaard 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được' không tìm được nguồn mở được → sai vừa, fix bỏ chi tiết phổ quát hóa, giữ ý có nguồn thứ cấp. Đã thử thêm: dash.harvard.edu (429, không thử lại theo quyết định 34), philpapers.org/rec/KORTRT (403), scholar.harvard.edu (403), OpenAlex (hết hạn mức), SEP fall2026 (kant-moral, lying-definition, practical-reason-action, constructivism-metaethics, ...) và IEP: không mục nào trình bày lập luận phổ quát hóa của Korsgaard; Crossref/Europe PMC chỉ cho nguồn thứ cấp (PMC6086225, PMC9826341, PMC12138956) xác nhận bà cho rằng có lúc nói dối là đúng và cách đọc công thức nhân tính, không xác nhận chi tiết 'kẻ sát nhân giả làm người bình thường… vượt qua phép thử phổ quát hóa'.\nLượt 2 (agent-kiem-5.7-k3, kiểm sau sửa): ý Korsgaard trong tóm tắt nay đúng fix claim 8 (dù theo Kant, cho rằng có tình huống nói dối kẻ sát nhân là việc đúng nên làm), khớp nguồn thứ cấp PMC6086225 và khớp thân bài. result dat."
 }
