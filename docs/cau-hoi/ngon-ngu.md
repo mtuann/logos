@@ -24,7 +24,7 @@ Bài này thuộc về triết học ngôn ngữ, nhưng câu hỏi của nó r�
 ## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
 !!! question "Thí nghiệm tư duy"
-    Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản: một từ cho các màu tối/lạnh, một từ cho các màu sáng/nóng. Không có từ riêng cho "đỏ", "xanh", "vàng".
+    Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản: một từ cho các màu tối, một từ cho các màu sáng. Không có từ riêng cho "đỏ", "xanh", "vàng".
 
     Hãy tưởng tượng bạn đưa một người Dani và một người Việt cùng nhìn một cầu vồng rực rỡ. Người Việt kể vanh vách: đỏ, cam, vàng, lục, lam, chàm, tím. Người Dani chỉ có thể nói: chỗ này "sáng", chỗ kia "tối".
 
