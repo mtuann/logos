@@ -40,7 +40,7 @@ Câu hỏi "tôi là ai qua thời gian" thật ra gộp ba câu hỏi nhỏ.
 
 **Câu hỏi thứ hai: vì sao câu trả lời lại quan trọng?** Vì nó quyết định trách nhiệm: có công bằng không khi trừng phạt một người vì việc mà "người ấy" của hai mươi năm trước đã làm, nếu giờ đây ông ta hoàn toàn không nhớ? Nó quyết định sự sống còn: trong cỗ máy dịch chuyển, bạn *sống sót* hay *đã chết*? Và nó quyết định sự quan tâm khôn ngoan: vì sao bạn tiết kiệm tiền cho tuổi già, nếu "ông già ấy" chưa chắc đã là bạn?
 
-**Câu hỏi thứ ba: "tôi" ở đây nghĩa là gì?** John Locke đã phân biệt *con người* (một sinh vật) với *ngôi vị* (một chủ thể có lý tính và ý thức về bản thân). Một bệnh nhân hôn mê sâu vẫn là một con người, nhưng có còn là một ngôi vị như trước không? Nhiều tranh luận nảy sinh chỉ vì hai bên dùng chữ "tôi" theo hai nghĩa khác nhau.
+**Câu hỏi thứ ba: "tôi" ở đây nghĩa là gì?** John Locke đã phân biệt *con người* (*man*, một sinh vật) với *ngôi vị* (*person*, một chủ thể có lý tính và ý thức về bản thân). Một bệnh nhân hôn mê sâu vẫn là một con người, nhưng có còn là một ngôi vị như trước không? Nhiều tranh luận nảy sinh chỉ vì hai bên dùng chữ "tôi" theo hai nghĩa khác nhau.
 
 ## Các lập trường chính {#cac-lap-truong-chinh}
 

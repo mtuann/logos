@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-toi.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:6b0ad52cde8f0718afdf7a40121aecc580a32706d67e0887d0bae10f933b4f73",
+  "hash": "sha256:076b10611b1d5ad0071a6e5d24398bf5a8cf8cfa3e0b4262b27fe8433be1b9b2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k06",
+  "checker": "agent-kiem-5.7-k06 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Câu hỏi \"tôi là ai qua thời gian\" thật ra gộp ba câu hỏi nhỏ.",
@@ -53,6 +53,21 @@
           "quote": "The memory criterion may seem to imply that if you were to lapse into an irreversible vegetative state, you would cease to exist"
         }
       ]
+    },
+    {
+      "text": "John Locke đã phân biệt *con người* (một sinh vật) với *ngôi vị* (một chủ thể có lý tính và ý thức về bản thân).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "John Locke đã phân biệt *con người* (*man*, một sinh vật) với *ngôi vị* (*person*, một chủ thể có lý tính và ý thức về bản thân).",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/",
+          "quote": "he is a different person by day than he is at night",
+          "where": "thuật ngữ gốc: man / person"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -62,5 +77,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "dat"
+  "result": "dat",
+  "notes": " Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

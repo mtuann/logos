@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cong-nghe-ai.md#lien-he-doi-song",
-  "hash": "sha256:29352d976aa4dce3cd16a30df202e7c46666fc8c44ccee4dd06017d39bc17482",
+  "hash": "sha256:38bd3146e72baa0d986e9fcc0f478e070188e55aeab55984f68c13e470387ea5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k05",
+  "checker": "agent-kiem-5.7-k05 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Bài [Biết một điều nghĩa là gì?](tri-thuc.md) đã bàn về deepfake từ góc độ tri thức luận: khi video giả tràn lan, \"tôi tận mắt thấy\" không còn là bằng chứng chắc chắn.",
@@ -29,6 +29,20 @@
           "quote": "The current talk about human resources, about the supply of patients for a clinic, gives evidence of this."
         }
       ]
+    },
+    {
+      "text": "AI và công việc: ai bị thay thế đầu tiên? Một câu hỏi rất thực tế mà triết học công nghệ ít bàn nhưng ai cũng lo",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**AI và công việc: ai bị thay thế đầu tiên?** Một câu hỏi rất thực tế mà ai cũng lo, và đạo đức học AI đã bắt đầu bàn: khi AI làm được việc của bạn, bạn còn giá trị gì?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-ai/",
+          "quote": "Philosophical responses to the issue of unemployment from AI have ranged from the alarmed (Carl Benedikt Frey and Osborne 2013; Westlake 2014) to the neutral"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -39,5 +53,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục chủ yếu là áp dụng, không có dữ kiện Việt Nam hay số liệu cần nguồn. Các tình huống (40 phút video, AI viết hộ bài, việc làm) là minh họa của bài. Link tri-thuc mở trên site đã deploy, trang có mục Deepfake."
+  "notes": "Mục chủ yếu là áp dụng, không có dữ kiện Việt Nam hay số liệu cần nguồn. Các tình huống (40 phút video, AI viết hộ bài, việc làm) là minh họa của bài. Link tri-thuc mở trên site đã deploy, trang có mục Deepfake. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

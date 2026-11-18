@@ -4573,7 +4573,7 @@ Nhớ rằng số đông không quyết định chân lý, và khảo sát này 
 
 **"Nguồn nhân lực" và ngôn ngữ của kỹ thuật.** Hãy để ý cách ta nói: "tối ưu hóa bản thân", "nâng cấp kỹ năng", "quản lý thời gian", "nguồn nhân lực". Heidegger sẽ nói: đây chính là Gestell đang nói qua miệng ta — ta đã học cách nhìn *chính mình* như một cỗ máy cần tối ưu. Không phải những cụm từ này "sai" — chúng hữu ích trong công việc. Nhưng khi chúng trở thành *cách duy nhất* ta nghĩ về mình, ta đã để kỹ thuật định nghĩa con người thay vì ngược lại. Thử một bài tập nhỏ: mô tả bản thân trong một đoạn văn mà không dùng bất kỳ từ ngữ "kỹ thuật" nào (không "hiệu quả", "tối ưu", "năng suất", "nâng cấp"). Khó hơn bạn tưởng, phải không?
 
-**AI và công việc: ai bị thay thế đầu tiên?** Một câu hỏi rất thực tế mà triết học công nghệ ít bàn nhưng ai cũng lo: khi AI làm được việc của bạn, bạn còn giá trị gì? Lập trường 1 sẽ nói: đó là vấn đề kinh tế–chính sách (thu nhập cơ bản phổ quát? đào tạo lại?), không phải vấn đề triết học. Lập trường 2 sẽ hỏi sâu hơn: nếu giá trị của con người lâu nay gắn với "năng suất lao động" — một cách nhìn đậm chất Gestell — thì có lẽ khủng hoảng không phải do AI, mà do ta đã tự định nghĩa mình quá hẹp từ trước khi AI xuất hiện. Biết đâu AI, bằng cách lấy đi "việc làm", lại buộc ta trả lời câu hỏi mà ta đã tránh từ lâu: con người đáng giá vì *làm* được gì, hay vì *là* ai?
+**AI và công việc: ai bị thay thế đầu tiên?** Một câu hỏi rất thực tế mà ai cũng lo, và đạo đức học AI đã bắt đầu bàn: khi AI làm được việc của bạn, bạn còn giá trị gì? Lập trường 1 sẽ nói: đó là vấn đề kinh tế–chính sách (thu nhập cơ bản phổ quát? đào tạo lại?), không phải vấn đề triết học. Lập trường 2 sẽ hỏi sâu hơn: nếu giá trị của con người lâu nay gắn với "năng suất lao động" — một cách nhìn đậm chất Gestell — thì có lẽ khủng hoảng không phải do AI, mà do ta đã tự định nghĩa mình quá hẹp từ trước khi AI xuất hiện. Biết đâu AI, bằng cách lấy đi "việc làm", lại buộc ta trả lời câu hỏi mà ta đã tránh từ lâu: con người đáng giá vì *làm* được gì, hay vì *là* ai?
 
 ## Đọc văn bản gốc
 
@@ -4869,7 +4869,7 @@ Câu hỏi "tôi là ai qua thời gian" thật ra gộp ba câu hỏi nhỏ.
 
 **Câu hỏi thứ hai: vì sao câu trả lời lại quan trọng?** Vì nó quyết định trách nhiệm: có công bằng không khi trừng phạt một người vì việc mà "người ấy" của hai mươi năm trước đã làm, nếu giờ đây ông ta hoàn toàn không nhớ? Nó quyết định sự sống còn: trong cỗ máy dịch chuyển, bạn *sống sót* hay *đã chết*? Và nó quyết định sự quan tâm khôn ngoan: vì sao bạn tiết kiệm tiền cho tuổi già, nếu "ông già ấy" chưa chắc đã là bạn?
 
-**Câu hỏi thứ ba: "tôi" ở đây nghĩa là gì?** John Locke đã phân biệt *con người* (một sinh vật) với *ngôi vị* (một chủ thể có lý tính và ý thức về bản thân). Một bệnh nhân hôn mê sâu vẫn là một con người, nhưng có còn là một ngôi vị như trước không? Nhiều tranh luận nảy sinh chỉ vì hai bên dùng chữ "tôi" theo hai nghĩa khác nhau.
+**Câu hỏi thứ ba: "tôi" ở đây nghĩa là gì?** John Locke đã phân biệt *con người* (*man*, một sinh vật) với *ngôi vị* (*person*, một chủ thể có lý tính và ý thức về bản thân). Một bệnh nhân hôn mê sâu vẫn là một con người, nhưng có còn là một ngôi vị như trước không? Nhiều tranh luận nảy sinh chỉ vì hai bên dùng chữ "tôi" theo hai nghĩa khác nhau.
 
 ## Các lập trường chính
 
@@ -7267,9 +7267,9 @@ Gợi ý độ dài: 200–350 chữ.
 
 Nhà nước có quyền tước đi mạng sống của công dân không? Đây là câu hỏi mà hầu hết các hệ thống pháp luật hiện đại đều phải trả lời, và câu trả lời thì chia thế giới làm hai: một số nước giữ án tử hình, một số đã bãi bỏ. Cả hai bên đều viện đến "công lý" — nhưng họ hiểu công lý theo hai nghĩa khác nhau.
 
-Bài này không bàn luật của nước nào hôm nay. Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, và cái giá của sự biện minh đó là gì?
+Bài này không bàn luật của nước nào hôm nay. Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, rủi ro oan sai có chấp nhận được không, và trong thực tế án tử rơi lên ai?
 
-Chữ "án tử hình" là Hán Việt: *án* (案, vụ việc đã xét xử) + *tử* (chết) + *hình* (刑, hình phạt) — "hình phạt chết sau khi xét xử". Tiếng Anh *capital punishment* gốc Latin *caput* (cái đầu, và theo nghĩa rộng là mạng sống) — tội "capital" là tội phải trả bằng mạng. Ngay từ gốc chữ đã thấy một điều: đây là hình phạt duy nhất mà một khi thi hành, không còn cách nào sửa sai.
+Chữ "án tử hình" là Hán Việt: *án* (案, vụ việc đã xét xử) + *tử* (chết) + *hình* (刑, hình phạt) — "hình phạt chết sau khi xét xử". Tiếng Anh *capital punishment* gốc Latin *caput* (cái đầu, và theo nghĩa rộng là mạng sống) — tội "capital" là tội phải trả bằng mạng. Ngay từ gốc chữ đã thấy một điều: đây là hình phạt lấy đi chính mạng sống, nên một khi thi hành, không còn cách nào sửa sai với người bị xử.
 
 ## Thí nghiệm tư duy
 
