@@ -2,7 +2,7 @@
   "unit": "cau-hoi/sieu-dao-duc.md#cac-lap-truong-chinh",
   "hash": "sha256:ceef2fc6a1ba1e62fc9dd85d044e234c3992e9b281e45e6c1c77f7d490369dea",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k09",
+  "checker": "agent-kiem-5.7-k09 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Trong Principia Ethica (1903), G. E. Moore đưa ra lập luận câu hỏi mở: ... câu hỏi \"điều này dễ chịu, nhưng có thật sự tốt không?\" vẫn có nghĩa",
@@ -142,7 +142,19 @@
     {
       "text": "J. L. Mackie mở đầu Ethics: Inventing Right and Wrong (1977) bằng câu: \"There are no objective values\"",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.ku.edu/auslegung/article/download/13072/12368",
+          "quote": "With this bold pronouncement John Mackie begins chapter one of Ethics: Inventing Right and Wrong",
+          "where": "nguồn thứ cấp: J. M. Mizzoni, \"Moral Realism, Objective Values and J.L. Mackie\", Auslegung, trang đầu; câu trích dẫn ngay trước: 'There are no objective values\" (p. 15)"
+        },
+        {
+          "url": "https://prospectmagazine.co.uk/philosophy/ethics-is-invented-not-encountered-why-the-philosophy-of-jl-mackie-remains-essential-reading",
+          "quote": "that’s the startling first sentence of J L Mackie’s Ethics: Inventing Right and Wrong",
+          "where": "nguồn thứ cấp (James Garvey, Prospect, 4/8/2017), câu ngay trước: “There are no objective values.”"
+        }
+      ]
     },
     {
       "text": "Ông gọi lập trường của mình là thuyết sai lầm: ... mọi phán đoán đạo đức đều không đúng, như mọi câu \"nhà này có ma\" đều sai nếu ma không tồn tại; \"Nó đứng với đạo đức như người vô thần đứng với thần linh\"",
@@ -163,12 +175,30 @@
     {
       "text": "lập luận từ tính tương đối — bất đồng đạo đức dai dẳng được giải thích tốt nhất bằng những lối sống khác nhau (ví dụ của ông: chế độ một vợ một chồng)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/spr2016/entries/moral-anti-realism/moral-error-theory.html",
+          "quote": "The example Mackie uses is of two cultures' divergent moral views regarding monogamy.",
+          "where": "SEP Moral Anti-Realism, phụ lục Mackie's Arguments for the Moral Error Theory, bản lưu spring 2016 (phụ lục không còn ở bản fall2026)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/spr2016/entries/moral-anti-realism/moral-error-theory.html",
+          "quote": "moral judgments “reflect adherence to and participation in different ways of life” (1977: 36)"
+        }
+      ]
     },
     {
       "text": "lập luận từ tính kỳ dị — giá trị khách quan sẽ \"thuộc một loại rất lạ, hoàn toàn khác mọi thứ khác trong vũ trụ\" (trích nguyên văn được dịch)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/realism/",
+          "quote": "Mackie writes: “If there were objective values, then they would be entities or relations of a very strange sort, utterly different from anything else in the universe.” (38)",
+          "where": "SEP Realism, mục về thuyết sai lầm của Mackie (nguồn thứ cấp trích nguyên văn)"
+        }
+      ]
     },
     {
       "text": "[giá trị khách quan là] những đòi hỏi bắt ta hành động bất kể ta muốn gì, và muốn biết chúng cần một năng lực trực giác đặc biệt",
@@ -188,7 +218,14 @@
     {
       "text": "theo Mackie, ta \"phóng chiếu\" cảm xúc ra thế giới",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/spr2016/entries/moral-anti-realism/moral-error-theory.html",
+          "quote": "To some extent he considers that this is due to a natural human projectivist tendency (1977: 42)",
+          "where": "SEP Moral Anti-Realism, phụ lục Mackie's Arguments, bản lưu spring 2016"
+        }
+      ]
     },
     {
       "text": "Phản bác: lập luận từ tính kỳ dị có thể chứng minh quá nhiều: \"nên tin theo bằng chứng\" cũng là đòi hỏi không phụ thuộc ý muốn",
@@ -447,6 +484,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Bốn lập trường đều đủ ba nhãn, trình bày ở dạng mạnh. Bốn claim chua-kiem-duoc đều thuộc sách Mackie 1977: Mackie, Ethics: Inventing Right and Wrong (1977) còn bản quyền, không có bản mở. Đã thử: archive.org/details/ethicsinventingr00mack (access-restricted, chỉ cho mượn), Google Books API (lỗi 429 hết hạn mức), SEP moral-anti-realism/moral-realism/metaethics, IEP metaethi/moral-re (không có câu nguyên văn này). Không dùng bản tải lên không rõ quyền của archive.org. Nội dung chung (Mackie lập thuyết sai lầm, tính kỳ dị, năng lực đặc biệt) đã kiểm qua SEP/IEP; chỉ câu trích nguyên văn, ví dụ chế độ một vợ một chồng và chữ \"phóng chiếu\" chưa đối chiếu được."
+  "result": "dat",
+  "notes": "Bốn lập trường đều đủ ba nhãn, trình bày ở dạng mạnh. Bốn claim chua-kiem-duoc đều thuộc sách Mackie 1977: Mackie, Ethics: Inventing Right and Wrong (1977) còn bản quyền, không có bản mở. Đã thử: archive.org/details/ethicsinventingr00mack (access-restricted, chỉ cho mượn), Google Books API (lỗi 429 hết hạn mức), SEP moral-anti-realism/moral-realism/metaethics, IEP metaethi/moral-re (không có câu nguyên văn này). Không dùng bản tải lên không rõ quyền của archive.org. Nội dung chung (Mackie lập thuyết sai lầm, tính kỳ dị, năng lực đặc biệt) đã kiểm qua SEP/IEP; chỉ câu trích nguyên văn, ví dụ chế độ một vợ một chồng và chữ \"phóng chiếu\" chưa đối chiếu được. Lượt 2: bốn claim Mackie đã kiểm qua nguồn thứ cấp trích đúng: câu mở đầu \"There are no objective values\" (Mizzoni, Auslegung, trích kèm số trang 15; Prospect 2017); ví dụ chế độ một vợ một chồng và khuynh hướng phóng chiếu (SEP Moral Anti-Realism, phụ lục về lập luận của Mackie, bản lưu spr2016 vì phụ lục không còn ở fall2026); câu \"very strange sort, utterly different from anything else in the universe\" (SEP Realism fall2026, trích Mackie tr. 38; SEP bỏ chữ \"qualities\" nhưng bản dịch của bài vẫn khớp). Đã thử không được: SEP moral-anti-realism/moral-realism/metaethics fall2026 (không có câu nguyên văn), Google Books API (429), scholar.archive.org (kiểm tra chống bot, dừng), Semantic Scholar snippet (429)."
 }

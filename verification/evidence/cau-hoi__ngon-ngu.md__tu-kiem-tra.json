@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ngon-ngu.md#tu-kiem-tra",
-  "hash": "sha256:fa171cec6c728dda614202b96b63f3127631fd85b166b72e43088027bc80b800",
+  "hash": "sha256:5e15cc1fcc436e1012165af5e1b01160b15af8a688ee74c6f2a25f23b4c7d22c",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Điểm khác nhau cốt lõi giữa phiên bản mạnh và phiên bản yếu của giả thuyết Sapir-Whorf là gì?",
@@ -13,6 +13,18 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
           "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
           "where": "mục 4.3"
+        }
+      ]
+    },
+    {
+      "text": "Phiên bản mạnh (tất định luận ngôn ngữ) nói về khả năng: ngôn ngữ quyết định ta có thể nghĩ gì. Phiên bản yếu (tương đối tính ngôn ngữ) chỉ nói về khuynh hướng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Linguistic relativity is the weaker doctrine that the language one speaks influences how one thinks.",
+          "where": "mục 4.3; thuật ngữ đối chiếu HUONG-DAN-VIET.md: determinism → tất định luận"
         }
       ]
     },
@@ -88,5 +100,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu: đáp án đúng đều đúng, phương án sai đều sai, lời giải khớp thân bài."
+  "notes": "Năm câu: đáp án đúng đều đúng, phương án sai đều sai, lời giải khớp thân bài. Lượt 2: lời giải câu 1 (data-id knowledge-4) đổi \"thuyết quyết định ngôn ngữ\" thành \"tất định luận ngôn ngữ\", đúng bảng thuật ngữ; thêm claim cho chữ mới. Đáp án, data-id không đổi."
 }

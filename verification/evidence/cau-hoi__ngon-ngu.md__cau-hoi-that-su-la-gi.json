@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ngon-ngu.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:ab42af1af779002b48d4009fc162042aec61f1f86bda0f44471016f3e35977ae",
+  "hash": "sha256:0728247d2785ff4ab2041354882e5c90e796287e3a538f49953c2e255e383dd8",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Câu hỏi này có tên là **giả thuyết Sapir-Whorf**, theo tên hai nhà ngôn ngữ học Edward Sapir và Benjamin Lee Whorf.",
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "text": "**Phiên bản mạnh** — **thuyết quyết định ngôn ngữ** (*linguistic determinism*): ngôn ngữ *quyết định* tư duy.",
+      "text": "**Phiên bản mạnh** — **tất định luận ngôn ngữ** (*linguistic determinism*): ngôn ngữ *quyết định* tư duy.",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -130,8 +130,8 @@
     "manh-nhat": null,
     "phan-bac": null,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Nội dung đúng nguồn. Lỗi thuật ngữ như ở #_dau."
+  "result": "dat",
+  "notes": "Nội dung đúng nguồn. Lỗi thuật ngữ như ở #_dau. Lượt 2: \"thuyết quyết định ngôn ngữ\" ở định nghĩa phiên bản mạnh đã đổi thành \"tất định luận ngôn ngữ\", đúng bảng thuật ngữ bắt buộc (determinism → tất định luận); cập nhật text claim dung theo chữ mới; giữ fixed: true; thuat-ngu: true. Không có chữ mới khác."
 }

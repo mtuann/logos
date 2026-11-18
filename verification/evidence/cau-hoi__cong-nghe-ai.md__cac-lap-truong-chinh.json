@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cong-nghe-ai.md#cac-lap-truong-chinh",
-  "hash": "sha256:70d35bf76e3c44309983ed9dc003c3852b524a7170527e7fd13d8a8d167e05da",
+  "hash": "sha256:40b1378df8d39d9dcf7e60c41cfbd3477a389aa4dd078003fa15e6b0dacdb506",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k05",
+  "checker": "agent-kiem-5.7-k05 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "Lập trường **công cụ luận** (*instrumentalism*) cho rằng công nghệ, về bản chất, là trung lập về mặt giá trị.",
@@ -364,6 +364,33 @@
           "quote": "AI systems spinning out of control and endangering the survival itself of humanity (Russell 2019, Bostrom 2014)"
         }
       ]
+    },
+    {
+      "text": "Liên minh châu Âu áp GDPR lên các gã khổng lồ công nghệ; năm 2024, Úc ban hành luật đặt tuổi tối thiểu để dùng mạng xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.legislation.gov.au/C2024A00127/asmade/text",
+          "quote": "Online Safety Amendment (Social Media Minimum Age) Act 2024 No. 127, 2024"
+        }
+      ]
+    },
+    {
+      "text": "(xem bài [Chết có đáng sợ không?](cai-chet.md))",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cai-chet/",
+          "quote": "Chết có đáng sợ không? - Logos Zero",
+          "where": "<title>"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cai-chet/",
+          "quote": "lập luận nổi tiếng của Bernard Williams (1973) rằng một đời sống bất tận rốt cuộc sẽ trở nên nhàm chán không chịu nổi"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -373,6 +400,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba lập trường đều đủ ba nhãn. \"Sai lầm lớn nhất là xem kỹ thuật như phương tiện\": Heidegger nói định nghĩa công cụ là đúng (\"Who would ever deny that it is correct?\") nhưng chưa phải bản chất; lỗi nhẹ. Hai link \"Ý nghĩa cuộc sống có phải là hạnh phúc?\" trỏ tới y-nghia-song, trang có tiêu đề \"Cuộc sống có ý nghĩa không?\" và không bàn ý \"sự hữu hạn làm đời sống có ý nghĩa\" hay sự nhàm chán của bất tử; bài cai-chet (\"Chết có đáng sợ không?\") có nêu lập luận nhàm chán của Williams. \"nhiều nước cấm mạng xã hội với trẻ em\": dữ kiện thời sự trong thân bài Lõi, chỉ mở được luật của Úc (2024), không xác minh được \"nhiều nước\". Vaccine: không có nguồn cho khẳng định lịch sử; đề xuất bỏ ví dụ. Hình ai-kiem-soat là sơ đồ minh họa, không phải số liệu. Câu Winner: Winner nêu cả lý do chủng tộc (người nghèo và người da đen), bài chỉ nói người nghèo: đơn giản hóa chấp nhận được."
+  "result": "dat",
+  "notes": "Ba lập trường đều đủ ba nhãn. \"Sai lầm lớn nhất là xem kỹ thuật như phương tiện\": Heidegger nói định nghĩa công cụ là đúng (\"Who would ever deny that it is correct?\") nhưng chưa phải bản chất; lỗi nhẹ. Hai link \"Ý nghĩa cuộc sống có phải là hạnh phúc?\" trỏ tới y-nghia-song, trang có tiêu đề \"Cuộc sống có ý nghĩa không?\" và không bàn ý \"sự hữu hạn làm đời sống có ý nghĩa\" hay sự nhàm chán của bất tử; bài cai-chet (\"Chết có đáng sợ không?\") có nêu lập luận nhàm chán của Williams. \"nhiều nước cấm mạng xã hội với trẻ em\": dữ kiện thời sự trong thân bài Lõi, chỉ mở được luật của Úc (2024), không xác minh được \"nhiều nước\". Vaccine: không có nguồn cho khẳng định lịch sử; đề xuất bỏ ví dụ. Hình ai-kiem-soat là sơ đồ minh họa, không phải số liệu. Câu Winner: Winner nêu cả lý do chủng tộc (người nghèo và người da đen), bài chỉ nói người nghèo: đơn giản hóa chấp nhận được.\nLượt 2: mọi claim sai (1, 7, 16, 23, 25, 26) đã sửa đúng fix trong bài; đã mở lại SEP technology, bản Heidegger, legislation.gov.au, nickbostrom.com/ethics/dignity, trang cai-chet. Thêm claim cho câu mới về luật Úc 2024 và link cai-chet."
 }

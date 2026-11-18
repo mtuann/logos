@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cong-nghe-ai.md#thi-nghiem-tu-duy",
-  "hash": "sha256:a84ad89776c1612e0ce011505939bec6c76ee5371e921cf2978285613cf88a80",
+  "hash": "sha256:a78d1477185309b2838b427f93184cea881a07664de147c9b14d35efb7fd9131",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k05",
+  "checker": "agent-kiem-5.7-k05 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "Thí nghiệm này là biến thể của \"máy trải nghiệm\" (*experience machine*) mà Robert Nozick đề xuất năm 1974: một cỗ máy cho bạn mọi trải nghiệm hạnh phúc nhất, đổi lại bạn phải cắm não vào nó suốt đời.",
@@ -36,6 +36,22 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Xem thêm bài [Hạnh phúc là gì?](hanh-phuc.md).)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/hanh-phuc/",
+          "quote": "Hạnh phúc là gì? - Logos Zero",
+          "where": "<title>"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/hanh-phuc/",
+          "quote": "bị Nozick (1974) phản bác bằng cỗ máy trải nghiệm"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -45,6 +61,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "\"Trợ lý Hoàn hảo\" do bài tự dựng và ghi rõ là biến thể của máy trải nghiệm của Nozick. Link: trang đích y-nghia-song có tiêu đề \"Cuộc sống có ý nghĩa không?\" (không phải \"Ý nghĩa cuộc sống có phải là hạnh phúc?\") và không bàn máy trải nghiệm (tìm \"máy trải nghiệm\" trên trang đã deploy: 0 kết quả). Trang bàn máy trải nghiệm là cau-hoi/hanh-phuc (\"Hạnh phúc là gì?\")."
+  "result": "dat",
+  "notes": "\"Trợ lý Hoàn hảo\" do bài tự dựng và ghi rõ là biến thể của máy trải nghiệm của Nozick. Link: trang đích y-nghia-song có tiêu đề \"Cuộc sống có ý nghĩa không?\" (không phải \"Ý nghĩa cuộc sống có phải là hạnh phúc?\") và không bàn máy trải nghiệm (tìm \"máy trải nghiệm\" trên trang đã deploy: 0 kết quả). Trang bàn máy trải nghiệm là cau-hoi/hanh-phuc (\"Hạnh phúc là gì?\").\nLượt 2: link đã đổi sang hanh-phuc (\"Hạnh phúc là gì?\"), trang đích có bàn máy trải nghiệm của Nozick; claim giữ fixed: true."
 }

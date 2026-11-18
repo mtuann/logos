@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-moi-truong.md#cac-lap-truong-chinh",
-  "hash": "sha256:c6a370b16105b4da67a6e12fcfe3456fcb86ed92a1e8970b53af87e90cda7773",
+  "hash": "sha256:0b646fca795532949e20d80408c409b0a9912987b0350eabd11bf4a38ab23c4d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k13",
+  "checker": "agent-kiem-5.7-k13 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "Taylor phân biệt rõ: có giá trị nội tại không có nghĩa là giá trị ngang nhau.",
@@ -25,18 +25,14 @@
       "fixed": true
     },
     {
-      "text": "Khi xung đột là không thể tránh (ta phải ăn, phải chữa bệnh), lợi ích cơ bản của con người được ưu tiên — nhưng chỉ lợi ích cơ bản, không phải mọi sở thích tầm thường.",
+      "text": "con người được tự vệ trước sinh vật gây hại; lợi ích *cơ bản* của sinh vật khác được ưu tiên hơn những sở thích không cơ bản, tầm thường của con người; và khi lợi ích cơ bản của hai bên xung đột, con người không buộc phải hy sinh bản thân",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
           "url": "https://iep.utm.edu/envi-eth/",
-          "quote": "basic interests of nonhuman living entities should take priority over the nonbasic or trivial interests of humans",
-          "where": "§ Biocentrism, Taylor 1986: 264–304"
-        },
-        {
-          "url": "https://iep.utm.edu/envi-eth/",
-          "quote": "when basic interests clash, humans are not required to sacrifice themselves for the sake of others"
+          "quote": "First, the principles state that humans are allowed to act in self-defense to prevent harm being inflicted by other living organisms. Second, the basic interests of nonhuman living entities should take priority over the nonbasic or trivial interests of humans. Third, when basic interests clash, humans are not required to sacrifice themselves for the sake of others (Taylor, 1986, pp. 264-304).",
+          "where": "§ Biocentrism"
         }
       ]
     },
@@ -276,15 +272,26 @@
           "quote": "acknowledging moral standing in holistic entities does not mean that one must deny the interests and rights of h"
         }
       ]
+    },
+    {
+      "text": "Taylor vẫn giữ rằng mọi sinh vật có giá trị nội tại *ngang nhau* (ông gọi là *inherent worth*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-environmental/",
+          "quote": "all individuals who are teleological-centers-of life have equal intrinsic value (or what he calls “inherent worth”) which entitles them to moral respect"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba lập trường đủ ba nhãn. Lỗi chính: \"Cách đáp lại\" ở lập trường 2 gán cho Taylor điều ngược với lập trường của ông — Taylor theo bình đẳng sinh học (mọi trung tâm sống có giá trị nội tại/inherent worth ngang nhau) và giải quyết xung đột bằng các nguyên tắc ưu tiên, không phải bằng cách phủ nhận giá trị ngang nhau. Đặt Naess vào lập trường 3 là cách xếp phổ biến, dù SEP lưu ý Næss tự giữ khoảng cách với \"đạo đức đất\" của Leopold. \"Hệ quả luận\", \"nghĩa vụ luận\" xuất hiện lần đầu không kèm thuật ngữ tiếng Anh (chỉ có ở mục sau). Câu Leopold là diễn đạt lại, khớp nguyên văn Leopold 1949: 224–5."
+  "result": "dat",
+  "notes": "Ba lập trường đủ ba nhãn. Lỗi chính: \"Cách đáp lại\" ở lập trường 2 gán cho Taylor điều ngược với lập trường của ông — Taylor theo bình đẳng sinh học (mọi trung tâm sống có giá trị nội tại/inherent worth ngang nhau) và giải quyết xung đột bằng các nguyên tắc ưu tiên, không phải bằng cách phủ nhận giá trị ngang nhau. Đặt Naess vào lập trường 3 là cách xếp phổ biến, dù SEP lưu ý Næss tự giữ khoảng cách với \"đạo đức đất\" của Leopold. \"Hệ quả luận\", \"nghĩa vụ luận\" xuất hiện lần đầu không kèm thuật ngữ tiếng Anh (chỉ có ở mục sau). Câu Leopold là diễn đạt lại, khớp nguyên văn Leopold 1949: 224–5.\nLượt 2: claim 0 (Taylor, nghiêm trọng) đã sửa đúng fix: Cách đáp lại nay giữ giá trị ngang nhau (inherent worth) và nêu ba nguyên tắc ưu tiên, khớp IEP envi-eth và SEP ethics-environmental (mở lại trong phiên); claim 1 cập nhật theo chữ mới. Claim 2 (hiệu quả chính sách) và 3 (consequentialism/deontology) đã sửa đúng. dung-nguon, thuat-ngu thành true."
 }

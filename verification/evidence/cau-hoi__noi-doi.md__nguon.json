@@ -2,7 +2,7 @@
   "unit": "cau-hoi/noi-doi.md#nguon",
   "hash": "sha256:fb3ebb7ebcfb0036d8d26ab14c6ce1dbdb5b3673a4596f967bd09aa07f216a5b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Các đoạn được dẫn: Bentham, An Introduction to the Principles of Morals and Legislation, chương XVI, mục 24",
@@ -229,12 +229,22 @@
     {
       "text": "17. Korsgaard, Christine M. (1986), \"The Right to Lie: Kant on Dealing with Evil\", Philosophy and Public Affairs 15 (4): 325–349. <https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670>",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6086225/fullTextXML",
+          "quote": "Korsgaard CM. The right to lie: Kant on dealing with evil. Philosophy and Public Affairs. 1986;15(4):325–349.",
+          "where": "danh mục tài liệu tham khảo"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9826341/fullTextXML",
+          "quote": "Korsgaard, C. M. (1986). The right to lie: Kant on dealing with evil. Philosophy and Public Affairs, 15 (4), 325–349",
+          "where": "chú thích 48 (dẫn tr. 332, về công thức nhân tính, Groundwork 4:430)"
+        },
+        {
           "url": "https://doi.org/10.1017/cbo9781139174503.006",
-          "quote": "The right to lie: Kant on dealing with evil (Chapter 5) - Creating the Kingdom of Ends",
-          "where": "chỉ xác nhận tên bài (bản in lại 1996); chưa xác nhận tập, số, trang của bản 1986"
+          "quote": "The right to lie: Kant on dealing with evil",
+          "where": "tên bài, bản in lại 1996. URN Harvard https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670 chuyển hướng tới bản ghi trên dash.harvard.edu (entities/publication/73120378-…) nhưng trang trả 429; theo quyết định 34 không vượt, URL đúng mẫu URN của kho DASH"
         }
       ]
     },
@@ -276,6 +286,6 @@
     "trung-lap": null,
     "thuat-ngu": null
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Dòng 17 (Korsgaard 1986) chưa kiểm được: URN Harvard và dash.harvard.edu trả tường lửa 429 (thử ba lần), JSTOR chặn JS, Crossref không có bản ghi bài 1986 (chỉ có bản in lại trong Creating the Kingdom of Ends, 1996, tr. 133–158). gutenberg.org đang bảo trì nên các ebook 5682, 11224, 46564, 2811 được đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook."
+  "result": "dat",
+  "notes": "Dòng 17 (Korsgaard 1986) chưa kiểm được: URN Harvard và dash.harvard.edu trả tường lửa 429 (thử ba lần), JSTOR chặn JS, Crossref không có bản ghi bài 1986 (chỉ có bản in lại trong Creating the Kingdom of Ends, 1996, tr. 133–158). gutenberg.org đang bảo trì nên các ebook 5682, 11224, 46564, 2811 được đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook. Lượt 2: dòng 17 → dung: tập 15, số 4, tr. 325–349 khớp hai danh mục tham khảo độc lập (PMC6086225, PMC9826341); URN Harvard chuyển hướng đúng tới bản ghi DASH, trang bị chặn 429 (quyết định 34)."
 }

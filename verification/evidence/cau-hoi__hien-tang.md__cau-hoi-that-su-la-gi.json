@@ -1,11 +1,11 @@
 {
   "unit": "cau-hoi/hien-tang.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:abc5607d0750728cc95d3cc148e09aa322efa64b3820ec7691184db2d132cc8f",
+  "hash": "sha256:f32b52f5fd4561ac404391e0378cd471b4e7c3339d3a3cd465bf737fa3e31af6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k04",
+  "checker": "agent-kiem-5.7-k04 + agent-kiem-5.7-r03",
   "claims": [
     {
-      "text": "Phe opt-in nói: sự đồng ý thật sự phải là *đồng ý rõ ràng* (*informed consent*); một sự \"đồng ý\" mà đa số người dân không hề biết mình đã \"đồng ý\" thì chỉ là sự đồng ý trên giấy.",
+      "text": "Phe opt-in nói: sự đồng ý thật sự phải là *đồng ý rõ ràng* (*explicit consent*); một sự \"đồng ý\" mà đa số người dân không hề biết mình đã \"đồng ý\" thì chỉ là sự đồng ý trên giấy.",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -74,5 +74,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ba câu hỏi bám đúng ba lập trường ở mục sau. Lỗi nhẹ duy nhất: cặp thuật ngữ 'đồng ý rõ ràng' / *informed consent* không khớp nhau."
+  "notes": "Ba câu hỏi bám đúng ba lập trường ở mục sau. Lỗi nhẹ duy nhất: cặp thuật ngữ 'đồng ý rõ ràng' / *informed consent* không khớp nhau. Lượt 2: Claim 1 đã sửa (*explicit consent*); cập nhật text claim 0 cho khớp chữ mới."
 }

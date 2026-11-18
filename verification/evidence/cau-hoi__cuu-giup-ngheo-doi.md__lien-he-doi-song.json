@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cuu-giup-ngheo-doi.md#lien-he-doi-song",
-  "hash": "sha256:2dc44da5c2842b94371b1d6af6e17fd339137a296519648ab06347a37ba7d150",
+  "hash": "sha256:4f80cb12dffa9e26a39add63e2f60ac2062a49e079bb8b1494932e4ee6c3e3ca",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "Một tấm màn chống muỗi chỉ đáng vài chục nghìn đồng, nhưng tính trung bình, phải phát rất nhiều màn mới cứu được một mạng người — GiveWell ước tính khoảng 3.000–5.500 đô-la Mỹ cho mỗi mạng người qua các chương trình phòng sốt rét hiệu quả nhất",
@@ -52,6 +52,17 @@
           "where": "nguồn yếu: Tiền Phong 14/09/2024"
         }
       ]
+    },
+    {
+      "text": "Phát thuốc phòng sốt rét cho một em bé suốt một mùa sốt rét chỉ tốn vài đô-la, nhưng tính trung bình, phải phát cho rất nhiều em mới cứu được một mạng người",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://www.givewell.org/how-much-does-it-cost-to-save-a-life",
+          "quote": "it costs about $7 to distribute preventive malaria treatment to a child through one malaria season"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -61,6 +72,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Giá màn chống muỗi \"vài chục nghìn đồng\" không có trên trang GiveWell đã mở; trang nêu ví dụ thuốc phòng sốt rét theo mùa (~7 đô-la/em/mùa). Con số 3.000–5.500 là số liệu có hạn dùng trong thân bài Lõi và là cho Top Charities nói chung. Bài \"không đánh giá truyền thống đó\" — trung lập."
+  "result": "dat",
+  "notes": "Giá màn chống muỗi \"vài chục nghìn đồng\" không có trên trang GiveWell đã mở; trang nêu ví dụ thuốc phòng sốt rét theo mùa (~7 đô-la/em/mùa). Con số 3.000–5.500 là số liệu có hạn dùng trong thân bài Lõi và là cho Top Charities nói chung. Bài \"không đánh giá truyền thống đó\" — trung lập.\nLượt 2: câu màn chống muỗi đã thay bằng thuốc phòng sốt rét theo mùa (~7 đô-la/em/mùa theo GiveWell, bản lưu web.archive mở trong phiên); con số 3.000–5.500 đã vào khối thời sự givewell-moi-mang-nguoi (không kiểm ở đây). Claim 0 giữ fixed: true."
 }

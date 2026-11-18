@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/loi-chung.md#tu-kiem-tra",
-  "hash": "sha256:6207267653a26722041c3252c7180dad199678f4e40a1e2184c5d86ba97898f9",
+  "hash": "sha256:96b8c43cb356873151cf81c0dc9cb4c7031750acd9451b6f3e181935c82b6f2a",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k01",
+  "checker": "agent-kiem-5.7-k01 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Khi sự sai lầm của lời chứng còn khó tin hơn cả phép lạ đó",
@@ -88,5 +88,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Đã kiểm cả 5 câu (data-id knowledge-2): đáp án đúng đều đúng, các phương án sai đều sai, lời giải khớp thân bài. Claim nhẹ: lời giải câu 4 gán cho Goldman lời \"khuyên dùng nhiều dấu hiệu độc lập\" — cùng vấn đề với đơn vị cac-lap-truong-chinh; fix chỉ sửa chuỗi \"explain\", không đổi data-id hay đáp án."
+  "notes": "Đã kiểm cả 5 câu (data-id knowledge-2): đáp án đúng đều đúng, các phương án sai đều sai, lời giải khớp thân bài. Claim nhẹ: lời giải câu 4 gán cho Goldman lời \"khuyên dùng nhiều dấu hiệu độc lập\" — cùng vấn đề với đơn vị cac-lap-truong-chinh; fix chỉ sửa chuỗi \"explain\", không đổi data-id hay đáp án. Lượt 2: lời giải câu 4 (data-id knowledge-2) đã sửa đúng nguyên văn fix; đáp án và data-id không đổi. Giữ fixed: true."
 }

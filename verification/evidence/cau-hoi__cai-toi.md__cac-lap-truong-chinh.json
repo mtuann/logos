@@ -2,7 +2,7 @@
   "unit": "cau-hoi/cai-toi.md#cac-lap-truong-chinh",
   "hash": "sha256:fabca1e89ce144830f97d066700d4494a9835e9d18251be6e403a1e008d874f2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k06",
+  "checker": "agent-kiem-5.7-k06 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "Quan điểm này ngày nay thường gắn với tên của Eric Olson và được gọi là *animalism*: chúng ta về bản chất là những động vật.",
@@ -188,7 +188,21 @@
     {
       "text": "Parfit thừa nhận ta vẫn cần khái niệm đồng nhất cho pháp luật — đó là vấn đề thực hành, không phải siêu hình học.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Parfit không lùi bước trước đòi hỏi của pháp luật: ông cho rằng bản thân sự đồng nhất không có tầm quan trọng thực tiễn, và trách nhiệm có thể giảm dần theo mức độ khi liên kết tâm lý giữa người hôm nay với người đã hành động yếu đi.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Identity itself has no practical importance. (Sosa (1990) and Merricks (2022) argue for the importance of identity; Parfit (1971, 1984: 215, 1995) and Martin (1998) argue against.)",
+          "where": "§ về tầm quan trọng thực tiễn của đồng nhất"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-ethics/",
+          "quote": "responsibility may decline in corresponding degrees whenever these psychological connections between an individual now and when he or she performed a past action are weaker (Parfit 1984: 325f)",
+          "where": "§6 Responsibility"
+        }
+      ]
     },
     {
       "text": "Còn nỗi sợ đặc biệt trước đau khổ tương lai của \"mình\", ông cho rằng nó dựa trên một niềm tin sai: niềm tin rằng có một \"cái tôi\" sâu xa, tách biệt.",
@@ -296,12 +310,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": true,
+    "dung-nguon": false,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Cả bốn lập trường đủ ba nhãn. Claim chưa kiểm được: câu \"Parfit thừa nhận ta vẫn cần khái niệm đồng nhất cho pháp luật\". Đã mở SEP identity-personal, identity-ethics (fall2026), ho-so/parfit (kho đóng băng): không nguồn nào ghi Parfit nói vậy; SEP parfit không có mục (archives/fall2026/entries/parfit/ trả \"Document Not Found\"); không có bản Reasons and Persons mở được. Tìm web chỉ ra các bài bàn Parfit về desert (journals.ku.edu, philarchive) nhưng không xác nhận câu này. Nếu không có nguồn, đề xuất người viết bỏ vế đầu và giữ: \"Parfit có thể đáp rằng nhu cầu của pháp luật là vấn đề thực hành, không phải siêu hình học.\" (ghi rõ là cách đáp khả dĩ, không gán là Parfit thừa nhận). Mục 4: câu cỗ xe gán cho kinh Na-tiên Tỳ-kheo (bản Hán của Milindapañha) khớp SEP mind-indian-buddhism trích Questions of King Milinda."
+  "result": "sua",
+  "notes": "Cả bốn lập trường đủ ba nhãn. Claim chưa kiểm được: câu \"Parfit thừa nhận ta vẫn cần khái niệm đồng nhất cho pháp luật\". Đã mở SEP identity-personal, identity-ethics (fall2026), ho-so/parfit (kho đóng băng): không nguồn nào ghi Parfit nói vậy; SEP parfit không có mục (archives/fall2026/entries/parfit/ trả \"Document Not Found\"); không có bản Reasons and Persons mở được. Tìm web chỉ ra các bài bàn Parfit về desert (journals.ku.edu, philarchive) nhưng không xác nhận câu này. Nếu không có nguồn, đề xuất người viết bỏ vế đầu và giữ: \"Parfit có thể đáp rằng nhu cầu của pháp luật là vấn đề thực hành, không phải siêu hình học.\" (ghi rõ là cách đáp khả dĩ, không gán là Parfit thừa nhận). Mục 4: câu cỗ xe gán cho kinh Na-tiên Tỳ-kheo (bản Hán của Milindapañha) khớp SEP mind-indian-buddhism trích Questions of King Milinda.\nLượt 2: claim \"Parfit thừa nhận ta vẫn cần khái niệm đồng nhất cho pháp luật\" chuyển thành sai mức vừa: SEP identity-personal và identity-ethics (fall2026, mở trong phiên) ghi Parfit phủ nhận tầm quan trọng thực tiễn của đồng nhất và cho rằng trách nhiệm có thể giảm theo mức liên kết tâm lý (1984: 325f) — ngược với \"thừa nhận cần đồng nhất cho pháp luật\". Không tìm được nguồn nào ghi Parfit nhượng bộ như bài nói. fix thay câu đầu của mục Cách đáp lại."
 }

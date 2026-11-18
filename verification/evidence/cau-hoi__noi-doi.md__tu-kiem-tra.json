@@ -2,7 +2,7 @@
   "unit": "cau-hoi/noi-doi.md#tu-kiem-tra",
   "hash": "sha256:3fa4c9ee8b8eb3e67976e52b7b23168d06771a216d7a024767033c3dd254f0e3",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Câu 1 (chuyến bay 9 giờ): đáp án 'Không, vì anh tin điều mình nói'; các phương án 'có' nhầm nói sai với nói dối",
@@ -53,7 +53,24 @@
     {
       "text": "Câu 4 (công ty để lộ dữ liệu): đáp án 'Ban giám đốc có dám biện minh lời nói dối này công khai, trước cả chính khách hàng bị lừa, không?' là câu hỏi của phép thử công khai của Bok",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5099315/fullTextXML",
+          "quote": "One must consider possible truthful alternatives, the moral arguments for and against the lie, what a public jury of reasonable persons would say.",
+          "where": "nguồn thứ cấp trình bày phép thử công khai của Bok 1978"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5099315/fullTextXML",
+          "quote": "encouraging consideration of lies from the perspective of both the deceiver and the deceived",
+          "where": "nguồn thứ cấp trình bày Bok 1978"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6900746/fullTextXML",
+          "quote": "That scheme consists of critical self-examination and consultation with a group of people representative of the general public",
+          "where": "chú thích 13, về Bok 1978; nguồn thứ cấp"
+        }
+      ]
     },
     {
       "text": "Câu 5 (chatbot trích sách không tồn tại): Hicks, Humphries và Slater (2024) đề nghị gọi là nói nhảm theo nghĩa của Frankfurt",
@@ -75,6 +92,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Câu 1, 2, 3, 5: đáp án đúng, phương án sai thật sự sai, lời giải khớp bài. Câu 4 phụ thuộc nội dung phép thử công khai trong sách Bok 1978, chưa mở được (bản archive.org chỉ cho mượn). Câu hỏi khớp đúng điều bài viết ở cac-lap-truong-chinh."
+  "result": "dat",
+  "notes": "Câu 1, 2, 3, 5: đáp án đúng, phương án sai thật sự sai, lời giải khớp bài. Câu 4 phụ thuộc nội dung phép thử công khai trong sách Bok 1978, chưa mở được (bản archive.org chỉ cho mượn). Câu hỏi khớp đúng điều bài viết ở cac-lap-truong-chinh. Lượt 2: câu 4: đáp án đúng khớp mô tả phép thử công khai của Bok (góc nhìn người bị lừa, hội đồng người biết lẽ phải) qua nguồn thứ cấp PMC5099315, PMC6900746; ba phương án sai hỏi lợi ích, luật, ý kiến phía nói dối, đều không phải phép thử."
 }

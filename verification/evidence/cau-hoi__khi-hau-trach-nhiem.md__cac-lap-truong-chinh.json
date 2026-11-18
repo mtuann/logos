@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/khi-hau-trach-nhiem.md#cac-lap-truong-chinh",
-  "hash": "sha256:8d9a9894be06b1b82bfba98224834e2bcd8b3af6b44aec9e7ba35f0400ab83a8",
+  "hash": "sha256:4893b5c58a5ce84fa3683f86616a5a52ad235c06661140d885d758a0c5ff6787",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k13",
+  "checker": "agent-kiem-5.7-k13 + agent-kiem-5.7-r03",
   "claims": [
     {
       "text": "Theo báo cáo Carbon Majors của CDP và Climate Accountability Institute (2017), chỉ 100 nhà sản xuất nhiên liệu hóa thạch đã gắn với 71% lượng phát thải khí nhà kính công nghiệp toàn cầu kể từ năm 1988.",
@@ -73,7 +73,7 @@
           "where": "không nguồn nào đã mở cho con số so sánh này"
         }
       ],
-      "fixed": true
+      "fixed": false
     },
     {
       "text": "\"một phiếu bầu của tôi không quyết định được cuộc bầu cử\" không phải là lý do để không đi bỏ phiếu (cách đáp của lập trường cá nhân)",
@@ -158,6 +158,23 @@
           "quote": "to call into question claims that there are duties of justice to (remote) future generations"
         }
       ]
+    },
+    {
+      "text": "một nhà máy điện than đóng cửa có thể giảm phát thải nhiều hơn rất nhiều cá nhân tắt đèn cộng lại",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Điểm mạnh nhất là tính *thực tế nhân quả*: đường cong phát thải toàn cầu chỉ uốn xuống khi có thay đổi ở cấp hệ thống, như đóng cửa nhà máy điện than hay đổi luật năng lượng — những thay đổi mà hành vi cá nhân lẻ tẻ không làm thay được.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justice-climate/",
+          "quote": "there has been considerable debate among philosophers as to whether individuals have responsibilities to limit their own personal emissions or not"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/justice-climate/",
+          "quote": "Walter Sinnott-Armstrong also suggests that citizens have a duty to campaign for their governments to implement climate legislation"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -168,5 +185,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ba lập trường đủ ba nhãn; phản bác và cách đáp có thật trong SEP Climate Justice (Sinnott-Armstrong, Hiller, Broome/Parfit, cách đáp phi \"person-affecting hẹp\"). Chỉ một lỗi nhẹ: phép so sánh định lượng nhà máy điện than / hàng triệu người tắt đèn không có nguồn."
+  "notes": "Ba lập trường đủ ba nhãn; phản bác và cách đáp có thật trong SEP Climate Justice (Sinnott-Armstrong, Hiller, Broome/Parfit, cách đáp phi \"person-affecting hẹp\"). Chỉ một lỗi nhẹ: phép so sánh định lượng nhà máy điện than / hàng triệu người tắt đèn không có nguồn. Lượt 2: Câu so sánh nhà máy điện than đã dè dặt hơn (\"có thể\", \"nhiều hơn rất nhiều\") nhưng vẫn là phép so sánh định lượng không có nguồn số liệu; SEP Climate Justice không có so sánh này. Đặt fixed=false cho claim cũ, ghi claim sai nhẹ mới với fix bỏ phép so sánh."
 }

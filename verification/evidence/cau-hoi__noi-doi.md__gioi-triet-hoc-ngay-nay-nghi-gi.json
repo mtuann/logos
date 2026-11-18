@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/noi-doi.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:06851c88d1da3062d5d9a8bc5ec5fa5a33770a794c736d90e51eee662a301fd9",
+  "hash": "sha256:04badecc9d29f6d71ef253c33fba148972e6a6b925cde18494c5f54191f9f646",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về nói dối.",
@@ -66,12 +66,17 @@
     {
       "text": "Korsgaard theo Kant mà vẫn cho phép nói dối hắn; Mill theo hệ quả luận mà coi trung thực gần như bất khả xâm phạm.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
-          "quote": "we feel that the violation, for a present advantage, of a rule of such transcendent expediency, is not expedient",
-          "where": "Utilitarianism, chương II: vế Mill đúng; vế Korsgaard chưa mở được bài 1986"
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6086225/fullTextXML",
+          "quote": "Korsgaard argues that there are situations in which lying is the right thing to do, all things considered.",
+          "where": "chú thích 6, nói về bài 'The Right to Lie' (1986); nguồn thứ cấp"
+        },
+        {
+          "url": "https://doi.org/10.1017/cbo9781139174503.006",
+          "quote": "Kant's theory sets a high ideal of conduct and tells us to live up to that ideal regardless of what other persons are doing. The results may be very bad.",
+          "where": "tóm tắt chương 5 (bản in lại bài 1986)"
         }
       ]
     },
@@ -144,6 +149,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Số liệu đúng câu khảo sát, phân biệt đúng câu chính và câu bổ sung. Vế Korsgaard chưa kiểm được (xem ghi chú ở cac-lap-truong-chinh: DASH Harvard trả 429, JSTOR chặn, sách chỉ cho mượn)."
+  "result": "dat",
+  "notes": "Số liệu đúng câu khảo sát, phân biệt đúng câu chính và câu bổ sung. Vế Korsgaard chưa kiểm được (xem ghi chú ở cac-lap-truong-chinh: DASH Harvard trả 429, JSTOR chặn, sách chỉ cho mượn). Lượt 2: câu đặc thù luận đã sửa đúng ('ở dạng triệt để nhất'), giữ fixed. Vế Korsgaard → dung qua PMC6086225 (chú thích 6) và tóm tắt chương của CUP."
 }

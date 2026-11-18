@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/bat-dong-tri-thuc.md#_dau",
-  "hash": "sha256:d8ef2b72ca7babfed89e027056c14dcc8d727319757335f3104bb7eb01c5479b",
+  "hash": "sha256:39e44bb3b795280effa8246aedd171a8f57b421166bfd750cdbfc49539a46c92",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k02",
+  "checker": "agent-kiem-5.7-k02 + agent-kiem-5.7-r01",
   "claims": [
     {
       "text": "việc *biết rằng* có người như vậy nghĩ khác mình bản thân nó là một bằng chứng mới (\"bằng chứng bậc cao\", nói về độ tin cậy của chính quá trình đánh giá của bạn)",
@@ -90,7 +90,7 @@
       "kb": "philpapers/bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma"
     },
     {
-      "text": "Đây là một nhánh của [tri thức luận](tri-thuc.md) chuyên nghiên cứu *bất đồng*",
+      "text": "Đây là một nhánh của [tri thức luận](tri-thuc.md) (*epistemology*) chuyên nghiên cứu *bất đồng*",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -132,6 +132,11 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
           "quote": "Christensen, David, 2007, “Epistemology of Disagreement: The Good News,” Philosophical Review 116: 187–218.",
           "where": "Thư mục"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Elga, Adam, 2007, “Reflection and Disagreement,” Noûs 41: 478–502.",
+          "where": "Bibliography; câu mới nêu Kelly 2005, Christensen 2007, Elga 2007"
         }
       ],
       "fixed": true
@@ -153,8 +158,8 @@
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tóm tắt khớp thân bài (mục Câu hỏi thật sự, Các lập trường chính, Giới triết học, Liên hệ đời sống). Số liệu PhilPapers: câu bổ sung (Bảng 2), 70,2 / 19,4, n ≈ 990, đúng câu và đúng lựa chọn theo tools/philpapers-2020.md; câu văn gọi đúng là câu bổ sung. Hai lỗi nhẹ: thiếu *epistemology* ở lần đầu; \"bùng nổ\" là khái quát không nguồn."
+  "notes": "Tóm tắt khớp thân bài (mục Câu hỏi thật sự, Các lập trường chính, Giới triết học, Liên hệ đời sống). Số liệu PhilPapers: câu bổ sung (Bảng 2), 70,2 / 19,4, n ≈ 990, đúng câu và đúng lựa chọn theo tools/philpapers-2020.md; câu văn gọi đúng là câu bổ sung. Hai lỗi nhẹ: thiếu *epistemology* ở lần đầu; \"bùng nổ\" là khái quát không nguồn. Lượt 2: hai chỗ sửa nhẹ khớp fix; câu mới nêu (Kelly 2005, Christensen 2007, Elga 2007), cả ba có trong thư mục SEP Disagreement (tải lại trong phiên). Cập nhật text claim \"nhánh của tri thức luận\" theo chữ mới; thuat-ngu đặt true."
 }

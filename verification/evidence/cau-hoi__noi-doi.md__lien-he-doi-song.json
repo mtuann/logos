@@ -2,7 +2,7 @@
   "unit": "cau-hoi/noi-doi.md#lien-he-doi-song",
   "hash": "sha256:b27d62b62fb6b139c739039baa7c63a226a8ce9af5559faff467d843cc61e4d5",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Kant: không được nói \"viêm loét\" ... Mill: có thể giấu nếu đó là cách duy nhất che chở bố khỏi một điều ác lớn",
@@ -31,7 +31,19 @@
     {
       "text": "Bok hỏi: các con có dám nói to quyết định ấy trước mặt bố? ... Phép thử của Bok áp vào rất sắc: lớn lên, đứa trẻ có tán thành lời nói dối ấy không?",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5099315/fullTextXML",
+          "quote": "One must consider possible truthful alternatives, the moral arguments for and against the lie, what a public jury of reasonable persons would say.",
+          "where": "nguồn thứ cấp trình bày phép thử công khai của Bok 1978"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5099315/fullTextXML",
+          "quote": "encouraging consideration of lies from the perspective of both the deceiver and the deceived",
+          "where": "nguồn thứ cấp trình bày Bok 1978"
+        }
+      ]
     },
     {
       "text": "còn câu \"điều trị lâu dài\" nói ra để đánh lạc hướng, theo Saul, không trong sạch hơn câu \"viêm loét\".",
@@ -118,6 +130,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được nội dung phép thử công khai của Bok (sách 1978 còn bản quyền; bản archive.org lyingmoralchoice0000boks chỉ cho mượn, _djvu.txt và fulltext/inside.php trả 'Item not available'). Ý về Frankfurt và quảng cáo đối chiếu qua trích dẫn trong Hicks và cộng sự (2024), không mở được sách Frankfurt."
+  "result": "dat",
+  "notes": "Chưa kiểm được nội dung phép thử công khai của Bok (sách 1978 còn bản quyền; bản archive.org lyingmoralchoice0000boks chỉ cho mượn, _djvu.txt và fulltext/inside.php trả 'Item not available'). Ý về Frankfurt và quảng cáo đối chiếu qua trích dẫn trong Hicks và cộng sự (2024), không mở được sách Frankfurt. Lượt 2: hai câu áp phép thử công khai của Bok là diễn giải áp dụng, khớp mô tả phép thử (xét từ góc nhìn người bị lừa, trước những người biết lẽ phải) trong PMC5099315."
 }

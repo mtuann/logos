@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/an-tu-hinh.md#thi-nghiem-tu-duy",
-  "hash": "sha256:a8fb820676a0a93d48821acfbf76cb28ff2372a9429230989cdaea0c73214d6f",
+  "hash": "sha256:7289ff7d390e9314406d7170ed0f7a473c1e4ba924f2c8b23f00e747ff678b80",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k12",
+  "checker": "agent-kiem-5.7-k12 + agent-kiem-5.7-r01",
   "claims": [
     {
       "text": "giả sử cứ 100 người bị kết án tử thì có 1 người vô tội. Hệ thống này đã tử hình 1.000 người, nghĩa là trong đó có khoảng 10 người vô tội.",
@@ -37,8 +37,8 @@
     "manh-nhat": true,
     "phan-bac": null,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Thí nghiệm do bài tự dựng, không gán cho tác giả nào; số học đúng. Lỗi thuật ngữ: bảng bắt buộc (HUONG-DAN-VIET.md) quy định consequentialism = hệ quả luận, deontology = nghĩa vụ luận; đây là lần đầu khái niệm xuất hiện trong bài nhưng viết \"người theo hệ quả / người theo nghĩa vụ\" và không có English term."
+  "result": "dat",
+  "notes": "Thí nghiệm do bài tự dựng, không gán cho tác giả nào; số học đúng. Lỗi thuật ngữ: bảng bắt buộc (HUONG-DAN-VIET.md) quy định consequentialism = hệ quả luận, deontology = nghĩa vụ luận; đây là lần đầu khái niệm xuất hiện trong bài nhưng viết \"người theo hệ quả / người theo nghĩa vụ\" và không có English term. Lượt 2: bài đã dùng hệ quả luận/nghĩa vụ luận kèm English term theo bảng bắt buộc; fixed: true giữ nguyên, thuat-ngu đặt true."
 }

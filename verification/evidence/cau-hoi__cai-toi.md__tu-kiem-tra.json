@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-toi.md#tu-kiem-tra",
-  "hash": "sha256:b1e3163fcf9b694ede4c4e0b15aee5f6925bbf0a0e5ac696ca049a171aaaa1fc",
+  "hash": "sha256:1ed56802b5946ea69b26f00ff0b918fd2a75118d9cf2b0b48abfa8902e7f6118",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k06",
+  "checker": "agent-kiem-5.7-k06 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "\"answer\": 1, \"explain\": \"Tướng già = sĩ quan trẻ (nhớ), sĩ quan trẻ = cậu bé (nhớ), nhưng tướng già ≠ cậu bé (quên) — vi phạm tính bắc cầu của quan hệ đồng nhất.",
@@ -64,6 +64,12 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Câu hỏi sống/chết qua máy dịch chuyển không có lựa chọn nào đạt đa số, phù hợp với nhận định của Parfit về tính không rạch ròi của trực giác 'sống sót'.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
     }
   ],
   "checklist": {
@@ -74,5 +80,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Quiz mind-3, 5 câu: đáp án đúng (answer 1) đều đúng; phương án sai đều sai rõ; lời giải khớp bài. Số 43,7 / 35,2 / 40,1 khớp philpapers (câu chính). Chỉ một lỗi nhẹ: lời giải câu 5 lặp khái quát \"chia rẽ nhất\" không nguồn. Không đổi data-id."
+  "notes": "Quiz mind-3, 5 câu: đáp án đúng (answer 1) đều đúng; phương án sai đều sai rõ; lời giải khớp bài. Số 43,7 / 35,2 / 40,1 khớp philpapers (câu chính). Chỉ một lỗi nhẹ: lời giải câu 5 lặp khái quát \"chia rẽ nhất\" không nguồn. Không đổi data-id.\nLượt 2: lời giải câu 5 đã sửa đúng fix, khớp kho philpapers; data-id không đổi."
 }
