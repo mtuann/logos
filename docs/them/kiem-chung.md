@@ -16,11 +16,11 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 |---|---:|---:|---:|---:|
 | Bắt đầu | 6 | 0 | 6 | 100% |
 | Công cụ tư duy | 173 | 0 | 173 | 100% |
-| Tri thức và chân lý | 60 | 60 | 0 | 0% |
-| Tâm trí, AI và cái tôi | 40 | 40 | 0 | 0% |
-| Tự do và trách nhiệm | 30 | 30 | 0 | 0% |
-| Đạo đức học | 69 | 69 | 0 | 0% |
-| Luân lý ứng dụng | 54 | 54 | 0 | 0% |
+| Tri thức và chân lý | 60 | 0 | 60 | 100% |
+| Tâm trí, AI và cái tôi | 40 | 0 | 40 | 100% |
+| Tự do và trách nhiệm | 30 | 0 | 30 | 100% |
+| Đạo đức học | 69 | 0 | 69 | 100% |
+| Luân lý ứng dụng | 54 | 0 | 54 | 100% |
 | Triết học chính trị | 108 | 0 | 0 | 0% |
 | Cái đẹp và nghệ thuật | 20 | 0 | 0 | 0% |
 | Tôn giáo | 29 | 0 | 0 | 0% |
@@ -29,7 +29,7 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Tư tưởng Việt Nam | 30 | 0 | 0 | 0% |
 | Lịch sử | 68 | 0 | 68 | 100% |
 | Đọc văn bản | 190 | 0 | 190 | 100% |
-| **Tổng** | **989** | **253** | **437** | **44%** |
+| **Tổng** | **989** | **0** | **690** | **70%** |
 
 ## Dữ kiện {#du-kien}
 
