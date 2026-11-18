@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:5dc746a9bdfad153f05b2f337d5eb11a226368ba4d57973608425f9301cc8051",
+  "hash": "sha256:28fc4c7193f47d75729b6ebb04c0d7df176976e6e27de02faf2befcdb944486b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "*Animal Liberation* được ghi nhận là ngòi nổ của phong trào quyền động vật toàn cầu",
@@ -120,6 +120,20 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "cả hai đều là những lập luận có ảnh hưởng thực tế lớn nhất…; Animal Liberation là ngòi nổ của phong trào quyền động vật toàn cầu (cùng lỗi mẫu tìm ở #gioi-triet-hoc-ngay-nay-nghi-gi)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The publication of his Animal Liberation marked the beginning of a growing and increasingly powerful movement in both the United States and Europe."
+        }
+      ],
+      "severity": "nhe",
+      "fix": "*Animal Liberation* được ghi nhận là đã mở đầu phong trào bảo vệ động vật ngày càng lớn mạnh ở Mỹ và châu Âu",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -130,5 +144,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Công cụ trên trang The Life You Can Save hiện là \"Impact Calculator\" (tính tác động của khoản quyên góp), không thấy công cụ tính mức cho theo thu nhập; trang /pledge/ báo không tồn tại. \"toàn cầu\" hơi rộng so với IEP (\"United States and Europe\") nhưng TLYCS ghi \"modern animal rights movement\" — chấp nhận. Lượt 2: Hai claim sai nhẹ (Gruen và Monsó; công cụ \"xem một khoản quyên góp làm được những gì\", \"do Singer sáng lập\") đã sửa đúng fix."
+  "notes": "Công cụ trên trang The Life You Can Save hiện là \"Impact Calculator\" (tính tác động của khoản quyên góp), không thấy công cụ tính mức cho theo thu nhập; trang /pledge/ báo không tồn tại. \"toàn cầu\" hơi rộng so với IEP (\"United States and Europe\") nhưng TLYCS ghi \"modern animal rights movement\" — chấp nhận. Lượt 2: Hai claim sai nhẹ (Gruen và Monsó; công cụ \"xem một khoản quyên góp làm được những gì\", \"do Singer sáng lập\") đã sửa đúng fix. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

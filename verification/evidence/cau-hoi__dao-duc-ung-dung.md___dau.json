@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#_dau",
-  "hash": "sha256:bcbd35ae421711475cd527f9a68fadb3f121f99f3f24096830911edcc3792430",
+  "hash": "sha256:81dadb6f3232fa81938c47057477d684fbfed6456dcd1956f7a6ea709078f5fa",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Ba lập trường, hai của Singer: về động vật (*Animal Liberation*, 1975)",
@@ -130,6 +130,20 @@
           "quote": "Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học"
         }
       ]
+    },
+    {
+      "text": "Tóm tắt: cả hai lập luận đều thuộc nhóm có ảnh hưởng thực tế lớn nhất…; Animal Liberation khơi mào phong trào quyền động vật (cùng lỗi mẫu tìm ở #gioi-triet-hoc-ngay-nay-nghi-gi)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The publication of his Animal Liberation marked the beginning of a growing and increasingly powerful movement in both the United States and Europe."
+        }
+      ],
+      "severity": "nhe",
+      "fix": "*Animal Liberation* được ghi nhận là đã mở đầu phong trào bảo vệ động vật ngày càng lớn mạnh ở Mỹ và châu Âu",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -140,5 +154,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu PhilPapers (48,0 / 26,5 / 18,4) khớp tools/philpapers-2020.md Bảng 1; câu tóm tắt dùng đúng câu chính, \"chấp nhận hoặc nghiêng về\". Mọi ý tóm tắt khớp thân bài, gồm lập trường 3 mới. Chỗ \"bị đánh bại\" nói quá so với thân bài (lập trường 3 trình bày cách đáp của phe Kant) — mức nhẹ. Lượt 2: Câu tóm tắt đã sửa đúng fix (\"bị Singer đáp lại bằng lập luận từ trường hợp biên\"); không có chữ mới khác."
+  "notes": "Số liệu PhilPapers (48,0 / 26,5 / 18,4) khớp tools/philpapers-2020.md Bảng 1; câu tóm tắt dùng đúng câu chính, \"chấp nhận hoặc nghiêng về\". Mọi ý tóm tắt khớp thân bài, gồm lập trường 3 mới. Chỗ \"bị đánh bại\" nói quá so với thân bài (lập trường 3 trình bày cách đáp của phe Kant) — mức nhẹ. Lượt 2: Câu tóm tắt đã sửa đúng fix (\"bị Singer đáp lại bằng lập luận từ trường hợp biên\"); không có chữ mới khác. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }
