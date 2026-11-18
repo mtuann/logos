@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-moi-truong.md#nguon",
-  "hash": "sha256:8d90fcd4b33233af2d512b89dc5ac95a7be10e2e05f89b6804115ceb831aaec9",
+  "hash": "sha256:76d2df87f7ecf05130c591649ad1fd0da5a0a9e4754af29779aa015f004abaf7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k13",
+  "checker": "agent-kiem-5.7-k13 + agent-kiem-5.7-k3",
   "claims": [
     {
       "text": "Brennan, Andrew & Norva Y. S. Lo, \"Environmental Ethics\", Stanford Encyclopedia of Philosophy (bản lưu fall2026)",
@@ -37,7 +37,14 @@
           "quote": "\"volume\":\"16\""
         }
       ],
-      "fixed": true
+      "fixed": true,
+      "kb": "sources/doi.10-1080-00201747308601682"
+    },
+    {
+      "text": "Naess, Arne (1973), \"The Shallow and the Deep, Long-Range Ecology Movement: A Summary\", *Inquiry* 16(1–4): 95–100. <https://doi.org/10.1080/00201747308601682>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1080-00201747308601682"
     },
     {
       "text": "Singer, Peter (1975), Animal Liberation, New York: New York Review/Random House.",
@@ -80,7 +87,8 @@
           "url": "http://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
           "quote": "DOI: https://doi.org/10.3998/phimp.2109"
         }
-      ]
+      ],
+      "kb": "sources/doi.10-3998-phimp-2109"
     }
   ],
   "checklist": {
@@ -91,5 +99,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Crossref ghi số tạp chí là \"1-4\" (Inquiry vol. 16, 1973, số gộp 1–4), trang 95–100; bài ghi 16(1). Lỗi nhẹ. Khóa sources/doi.10-1080-00201747308601682 và sources/doi.10-3998-phimp-2109 chưa đóng băng nên kiểm bằng nguồn."
+  "notes": "Crossref ghi số tạp chí là \"1-4\" (Inquiry vol. 16, 1973, số gộp 1–4), trang 95–100; bài ghi 16(1). Lỗi nhẹ. Khóa sources/doi.10-1080-00201747308601682 và sources/doi.10-3998-phimp-2109 chưa đóng băng nên kiểm bằng nguồn.\nLượt 2 (agent-kiem-5.7-k3, kiểm sau sửa): dòng Naess nay ghi *Inquiry* 16(1–4): 95–100, khớp Crossref và trùng nguyên văn bản ghi sources/doi.10-1080-00201747308601682 (nay đã đóng băng): thêm kb vào claim 2 và claim dung mới cho dòng hiện tại. sources/doi.10-3998-phimp-2109 cũng đã đóng băng, trùng dòng 8: thêm kb."
 }

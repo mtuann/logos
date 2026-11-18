@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/khi-hau-trach-nhiem.md#cac-lap-truong-chinh",
-  "hash": "sha256:4893b5c58a5ce84fa3683f86616a5a52ad235c06661140d885d758a0c5ff6787",
+  "hash": "sha256:718d9b63f24ef2673ad90bdb3123bdd5abbece5ae4a13e7ae319e946f38dd62c",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k13 + agent-kiem-5.7-r03",
+  "checker": "agent-kiem-5.7-k13 + agent-kiem-5.7-r03 + agent-kiem-5.7-k3",
   "claims": [
     {
       "text": "Theo báo cáo Carbon Majors của CDP và Climate Accountability Institute (2017), chỉ 100 nhà sản xuất nhiên liệu hóa thạch đã gắn với 71% lượng phát thải khí nhà kính công nghiệp toàn cầu kể từ năm 1988.",
@@ -186,5 +186,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ba lập trường đủ ba nhãn; phản bác và cách đáp có thật trong SEP Climate Justice (Sinnott-Armstrong, Hiller, Broome/Parfit, cách đáp phi \"person-affecting hẹp\"). Chỉ một lỗi nhẹ: phép so sánh định lượng nhà máy điện than / hàng triệu người tắt đèn không có nguồn. Lượt 2: Câu so sánh nhà máy điện than đã dè dặt hơn (\"có thể\", \"nhiều hơn rất nhiều\") nhưng vẫn là phép so sánh định lượng không có nguồn số liệu; SEP Climate Justice không có so sánh này. Đặt fixed=false cho claim cũ, ghi claim sai nhẹ mới với fix bỏ phép so sánh."
+  "notes": "Ba lập trường đủ ba nhãn; phản bác và cách đáp có thật trong SEP Climate Justice (Sinnott-Armstrong, Hiller, Broome/Parfit, cách đáp phi \"person-affecting hẹp\"). Chỉ một lỗi nhẹ: phép so sánh định lượng nhà máy điện than / hàng triệu người tắt đèn không có nguồn. Lượt 2: Câu so sánh nhà máy điện than đã dè dặt hơn (\"có thể\", \"nhiều hơn rất nhiều\") nhưng vẫn là phép so sánh định lượng không có nguồn số liệu; SEP Climate Justice không có so sánh này. Đặt fixed=false cho claim cũ, ghi claim sai nhẹ mới với fix bỏ phép so sánh.\nLượt 2 (agent-kiem-5.7-k3, kiểm sau sửa): câu nhà máy điện than nay bỏ hẳn phép so sánh định lượng (\"như đóng cửa nhà máy điện than hay đổi luật năng lượng — những thay đổi mà hành vi cá nhân lẻ tẻ không làm thay được\"), đúng fix claim 10; không còn con số nào cần nguồn. Claim 3 (cùng lỗi, fix cũ) cũng coi là đã sửa vì chữ sai không còn. Câu đọc trôi."
 }
