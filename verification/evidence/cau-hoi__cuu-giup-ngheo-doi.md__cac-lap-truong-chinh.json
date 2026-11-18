@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cuu-giup-ngheo-doi.md#cac-lap-truong-chinh",
-  "hash": "sha256:e3919ce32e9c74aa2e4a08ba250f43ad05b652f7a0c77bf053740645ad040aad",
+  "hash": "sha256:894d1e64abdeedcc8a573e500f57f75dd631105ae0a3cb6c5c593ce00fe2241e",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r02",
   "claims": [
     {
       "text": "khoảng cách địa lý *không liên quan* về mặt đạo đức — nó không làm thay đổi mức độ đau khổ của nạn nhân, cũng không làm thay đổi khả năng giúp đỡ của bạn (nhất là trong thời đại chuyển tiền quốc tế chỉ mất vài phút)",
@@ -135,15 +135,26 @@
           "quote": "Nghĩa vụ có giới hạn: có nghĩa vụ, nhưng ở mức con người sống được"
         }
       ]
+    },
+    {
+      "text": "Singer đáp: số người cùng ở vị trí giúp được không làm nhẹ bổn phận của bạn — nếu quanh ao còn những người khác cũng thấy đứa trẻ mà đứng yên, bạn vẫn phải lội xuống cứu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
+          "quote": "who have also noticed the child but are doing nothing? One has only to ask this question to see the absurdity of the view that numbers lessen obligation."
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Lỗi vừa: (1) lời đáp \"bạn cũng là một trong số ít người có khả năng cứu… phần lớn nhân loại không có tiền dư\" gán cho Singer, nhưng trong bài 1972 Singer đáp phản bác \"không chỉ mình tôi\" bằng lập luận số đông không làm nhẹ bổn phận; (2) con số GiveWell là số liệu có hạn dùng (GiveWell tự ghi \"Published: April 2024\", \"over the past several years\") nằm trong thân bài Lõi, và áp sai phạm vi: khoảng 3.000–5.500 là cho các Top Charities nói chung, không riêng phòng sốt rét. Trang givewell.org chặn công cụ (Incapsula), đã mở bản lưu web.archive. Lập trường 2 dùng Kant: SEP mô tả nghĩa vụ bất hoàn hảo vẫn là nghĩa vụ (\"duty to sometimes and to some extent aid\"), bài trình bày đúng như vậy."
+  "result": "dat",
+  "notes": "Lỗi vừa: (1) lời đáp \"bạn cũng là một trong số ít người có khả năng cứu… phần lớn nhân loại không có tiền dư\" gán cho Singer, nhưng trong bài 1972 Singer đáp phản bác \"không chỉ mình tôi\" bằng lập luận số đông không làm nhẹ bổn phận; (2) con số GiveWell là số liệu có hạn dùng (GiveWell tự ghi \"Published: April 2024\", \"over the past several years\") nằm trong thân bài Lõi, và áp sai phạm vi: khoảng 3.000–5.500 là cho các Top Charities nói chung, không riêng phòng sốt rét. Trang givewell.org chặn công cụ (Incapsula), đã mở bản lưu web.archive. Lập trường 2 dùng Kant: SEP mô tả nghĩa vụ bất hoàn hảo vẫn là nghĩa vụ (\"duty to sometimes and to some extent aid\"), bài trình bày đúng như vậy.\nLượt 2: claim 6 (lời đáp của Singer) đã sửa đúng fix, đối chiếu lại Singer 1972 (bản lưu utilitarian.net). Claim 7: con số GiveWell đã chuyển vào khối [[thoi-su:cau-hoi.cuu-giup-ngheo-doi.givewell-chi-phi]] với chữ đúng như fix; khối thời sự không kiểm ở đây, câu bao quanh đọc liền mạch, không còn gán riêng cho phòng sốt rét."
 }

@@ -2,7 +2,7 @@
   "unit": "cau-hoi/ngon-ngu.md#thi-nghiem-tu-duy",
   "hash": "sha256:5f74e6d636839ca5693f92ccd73945bd967579be69d7b9ad7554517cca072964",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản",
@@ -19,7 +19,16 @@
     {
       "text": "một từ cho các màu tối/lạnh, một từ cho các màu sáng/nóng",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "một từ cho các màu tối, một từ cho các màu sáng",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9497542/fullTextXML",
+          "quote": "The Dani are a people living in Papua New Guinea who possess only two words designating colors, one meaning ‘bright’ and the other ‘dark’.",
+          "where": "Human Perception as a Phenomenon of Quantization (2022), mục về Rosch; nguồn thứ cấp có bình duyệt"
+        }
+      ]
     },
     {
       "text": "**Câu hỏi: người Dani có *nhìn thấy* ít màu hơn bạn không?",
@@ -41,6 +50,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Tình huống cầu vồng là minh họa của bài. Chưa kiểm được chi tiết “tối/lạnh – sáng/nóng” và “vùng cao nguyên”: bài Rosch Heider 1972 (doi 10.1037/h0032606, PubMed 5013326 không có tóm tắt), Heider & Olivier 1972 (Crossref không có tóm tắt), sách Language in Mind trên Internet Archive bị khóa (401); nguồn thứ cấp mở được (PMC9497542) chỉ ghi “bright”/“dark” và vị trí “Papua New Guinea”. Đã thử thêm lclab.berkeley.edu/papers/holmes-regier-2016.pdf và ardis-uar2259.huma-num.fr (trả về HTML, không phải PDF)."
+  "result": "dat",
+  "notes": "Tình huống cầu vồng là minh họa của bài. Chưa kiểm được chi tiết “tối/lạnh – sáng/nóng” và “vùng cao nguyên”: bài Rosch Heider 1972 (doi 10.1037/h0032606, PubMed 5013326 không có tóm tắt), Heider & Olivier 1972 (Crossref không có tóm tắt), sách Language in Mind trên Internet Archive bị khóa (401); nguồn thứ cấp mở được (PMC9497542) chỉ ghi “bright”/“dark” và vị trí “Papua New Guinea”. Đã thử thêm lclab.berkeley.edu/papers/holmes-regier-2016.pdf và ardis-uar2259.huma-num.fr (trả về HTML, không phải PDF). Lượt 2: vẫn không mở được nguồn nói hai từ màu Dani chia theo \"lạnh/nóng\": thử thêm Europe PMC (PMC6109856, PMC4664492: không nêu nghĩa hai từ), SEP color (fall2026: không nhắc Dani), bản PDF Aston \"Color categories\" (publications.aston.ac.uk/id/eprint/8880: chỉ nói Dani có 2 từ cơ bản), PDF imbs.uci.edu và goldsmiths (không tải được). Nguồn mở được duy nhất (PMC9497542) chỉ ghi bright/dark. Chuyển claim thành sai, mức nhẹ, fix bỏ \"lạnh/nóng\"."
 }

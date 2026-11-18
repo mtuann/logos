@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ngon-ngu.md#cac-lap-truong-chinh",
-  "hash": "sha256:7f6e9b94138d8b2701cae454100783ea24cce8573dc47aefb043075692835e4b",
+  "hash": "sha256:382bc99ea681cfd83bf0e6e977531e9e93dfac11c10582f162f6caea141165ea",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Benjamin Lee Whorf, trong các bài viết những năm 1930–1940 (tập hợp trong *Language, Thought, and Reality*, 1956)",
@@ -38,6 +38,18 @@
       "fixed": true
     },
     {
+      "text": "Kết luận của ông: người Hopi cảm nhận thời gian theo một cách hoàn toàn khác — không phải một dòng sông trôi đều qua quá khứ, hiện tại, tương lai, mà là một quá trình biến đổi.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Rather than viewing time as a continuum that flows evenly throughout the universe and that can be broken up into countable events occurring in the past, present, and future, the Hopi are supposed to focus on change as a process.",
+          "where": "mục 4.3"
+        }
+      ]
+    },
+    {
       "text": "Nhà ngôn ngữ học Ekkehart Malotki, sau nhiều năm nghiên cứu thực địa với người Hopi, công bố *Hopi Time* (1983) cho thấy tiếng Hopi có một hệ thống diễn đạt thời gian phong phú và tinh vi",
       "kind": "du-kien",
       "verdict": "dung",
@@ -67,9 +79,23 @@
       ]
     },
     {
-      "text": "trẻ em suy luận về thế giới trước khi biết nói; người điếc bẩm sinh không được học ngôn ngữ ký hiệu vẫn giải được câu đố logic phi ngôn ngữ; và chính chúng ta thường xuyên \"biết mình muốn nói gì nhưng chưa tìm ra từ\"",
+      "text": "Bằng chứng: trẻ em suy luận về thế giới trước khi biết nói; người điếc bẩm sinh không được học ngôn ngữ ký hiệu vẫn giải được câu đố logic phi ngôn ngữ; và chính chúng ta thường xuyên \"biết mình muốn nói gì nhưng chưa tìm ra từ\" — nếu tư duy đồng nhất với ngôn ngữ, hiện tượng \"nghẹn lời\" đã không thể xảy ra.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Lý do ông nêu: ngôn ngữ phải được học, nên tư duy phải có trước để việc học ấy diễn ra; và câu nói có thể mơ hồ theo kiểu mà ý nghĩ thì không — câu tiếng Anh *everyone loves someone* có thể hiểu là mỗi người yêu một ai đó, hoặc là mọi người cùng yêu một người.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "Proponents of the first view have also argued that since language itself has to be learned, thought is prior to language (Fodor 1975; Pinker 1994).",
+          "where": "mục 4.2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concepts/",
+          "quote": "the natural language sentence everyone loves someone could be interpreted to mean that for each person, there is some person that they love, or to mean that everyone loves one and the same person (Pinker 1994)",
+          "where": "mục 4.2"
+        }
+      ]
     },
     {
       "text": "Pinker gọi thứ ngôn ngữ của tư duy là *mentalese*, và cho rằng ngôn ngữ nói chỉ là bản dịch của nó.",
@@ -328,6 +354,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Ba lập trường đủ ba nhãn. Chưa kiểm được ba ví dụ cụ thể gán cho Pinker (trẻ em, người điếc không có ngôn ngữ ký hiệu, “nghẹn lời”): bản The Language Instinct trên Internet Archive bị khóa (languageinstinct0000pink_x8q7, isbn_9780141980775: không có văn bản; languageinstinct00pink: 401); chỉ tìm được tóm lược thứ cấp không đạt chuẩn nguồn. Ý chung của Pinker (tư duy có trước và độc lập với ngôn ngữ) đã đối chiếu SEP Concepts. Chi tiết “sau nhiều năm nghiên cứu thực địa” của Malotki và “khảo sát hàng chục ngôn ngữ” của Berlin & Kay chưa có câu nguồn trực tiếp nhưng không đổi nội dung chính. result ghi chua-kiem-duoc vì còn một claim chưa kiểm được; claim sai duy nhất ở mức nhẹ."
+  "result": "dat",
+  "notes": "Ba lập trường đủ ba nhãn. Chưa kiểm được ba ví dụ cụ thể gán cho Pinker (trẻ em, người điếc không có ngôn ngữ ký hiệu, “nghẹn lời”): bản The Language Instinct trên Internet Archive bị khóa (languageinstinct0000pink_x8q7, isbn_9780141980775: không có văn bản; languageinstinct00pink: 401); chỉ tìm được tóm lược thứ cấp không đạt chuẩn nguồn. Ý chung của Pinker (tư duy có trước và độc lập với ngôn ngữ) đã đối chiếu SEP Concepts. Chi tiết “sau nhiều năm nghiên cứu thực địa” của Malotki và “khảo sát hàng chục ngôn ngữ” của Berlin & Kay chưa có câu nguồn trực tiếp nhưng không đổi nội dung chính. result ghi chua-kiem-duoc vì còn một claim chưa kiểm được; claim sai duy nhất ở mức nhẹ. Lượt 2: câu Hopi đã sửa đúng nguyên văn fix (\"trôi đều qua quá khứ, hiện tại, tương lai… một quá trình biến đổi\"), khớp SEP Concepts mục 4.3; giữ fixed: true và thêm claim dung cho chữ mới. Ba ví dụ gán cho Pinker vẫn không có nguồn mở được: The Language Instinct còn bản quyền, bản Internet Archive bị khóa (lượt 1); lượt 2 thử thêm SEP language-thought, concepts, innateness-language (fall2026), bài điểm sách web.physics.wustl.edu/alford/reviews/pinker.html (chỉ nói ví dụ em bé ngạc nhiên, là trang cá nhân), tìm web không ra bản trích hợp lệ (chỉ có bản PDF lậu, không dùng). SEP Concepts chỉ nêu hai lý do của Pinker 1994 (ngôn ngữ phải học nên tư duy có trước; câu nói mơ hồ). Chuyển claim thành sai, mức nhẹ (chi tiết minh họa, ý chính đã kiểm), fix thay cả câu \"Bằng chứng: … đã không thể xảy ra.\" bằng hai lý do có nguồn."
 }

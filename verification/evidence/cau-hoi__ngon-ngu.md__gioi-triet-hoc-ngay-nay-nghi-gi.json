@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ngon-ngu.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:771627e130034430983d1f4757cb3043151cd4f352b05ccb0601e8c3e265f04c",
+  "hash": "sha256:e0136bc410800a8da94dd1110acdf30066ffefef782e941158d34c9bc40e6135",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về giả thuyết Sapir-Whorf hay về quan hệ giữa ngôn ngữ và tư duy",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "text": "**Phiên bản mạnh (thuyết quyết định ngôn ngữ) gần như không còn ai bênh vực** trong ngôn ngữ học và triết học đương đại",
+      "text": "**Phiên bản mạnh (tất định luận ngôn ngữ) gần như không còn ai bênh vực** trong ngôn ngữ học và triết học đương đại",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -137,8 +137,8 @@
     "manh-nhat": null,
     "phan-bac": null,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Số liệu đúng câu bổ sung, đọc số không vượt quá câu hỏi. Lỗi thuật ngữ như ở #_dau."
+  "result": "dat",
+  "notes": "Số liệu đúng câu bổ sung, đọc số không vượt quá câu hỏi. Lỗi thuật ngữ như ở #_dau. Lượt 2: \"thuyết quyết định ngôn ngữ\" ở gạch đầu dòng về phiên bản mạnh đã đổi thành \"tất định luận ngôn ngữ\", đúng bảng thuật ngữ bắt buộc (determinism → tất định luận); cập nhật text claim dung theo chữ mới; giữ fixed: true; thuat-ngu: true. Không có chữ mới khác."
 }

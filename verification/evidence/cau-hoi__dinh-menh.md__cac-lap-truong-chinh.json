@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dinh-menh.md#cac-lap-truong-chinh",
-  "hash": "sha256:7a707f9a4e247acf126856a5d870b569b59445a06275a30f27346d9d698a5895",
+  "hash": "sha256:d8d6fd8811be246f47e9afdc0867716e969435c3d84a884b94e11f61f15b1a30",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k07",
+  "checker": "agent-kiem-5.7-k07 + agent-kiem-5.7-r03",
   "claims": [
     {
       "text": "Năm 1814, nhà toán học vật lý Pierre-Simon Laplace viết một đoạn nổi tiếng trong *Essai philosophique sur les probabilités*.",
@@ -367,6 +367,20 @@
           "quote": "Máy Tiên Tri\". Họ quét toàn bộ não bạn và môi trường quanh bạn, rồi tính toán"
         }
       ]
+    },
+    {
+      "text": "Điều đó cho ta tính tất yếu *logic*, chứ chưa cho ta thuyết định mệnh kiểu \"dù bạn làm gì kết quả cũng vậy\".",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Điều đó cho ta tính cố định của chân lý, chứ chưa cho ta thuyết định mệnh kiểu \"dù bạn làm gì kết quả cũng vậy\".",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "First of all we need to be clear about what is meant by “necessity” here. What is at issue here is not logical necessity. It is rather inevitability.",
+          "where": "§ lập luận hải chiến; tải lại trong phiên lượt 2 (cau-hoi-that-su-la-gi, claim 3)"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -376,6 +390,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Mục 1–3 có đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Mục 4 (cơ học lượng tử) chỉ có \"Điều vật lý nói / Vì sao ngẫu nhiên không phải là tự do / Kết luận cẩn trọng\": thiếu nhãn, và thiếu cách đáp lại của phía thuyết ý chí tự do trước phản bác may rủi (hai claim vua: fix thứ nhất thay nhãn \"Vì sao ngẫu nhiên không phải là tự do\" bằng đoạn Lập luận mạnh nhất cộng nhãn Phản bác chính, giữ nguyên thân đoạn; fix thứ hai chèn đoạn Cách đáp lại ngay trước \"Kết luận cẩn trọng\"). Claim vua thứ ba: khái quát \"được nhiều triết gia hiện nay ưa nhất\" không có nguồn. Câu Latin của Boethius trùng bản ghi quotes/boethius.an-ui-cua-triet-hoc đã đóng băng và khớp la.wikisource (bản Migne). Năm 1814 của Laplace theo bản ghi sources/* đã đóng băng; SEP trích theo bản 1820."
+  "result": "dat",
+  "notes": "Mục 1–3 có đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Mục 4 (cơ học lượng tử) chỉ có \"Điều vật lý nói / Vì sao ngẫu nhiên không phải là tự do / Kết luận cẩn trọng\": thiếu nhãn, và thiếu cách đáp lại của phía thuyết ý chí tự do trước phản bác may rủi (hai claim vua: fix thứ nhất thay nhãn \"Vì sao ngẫu nhiên không phải là tự do\" bằng đoạn Lập luận mạnh nhất cộng nhãn Phản bác chính, giữ nguyên thân đoạn; fix thứ hai chèn đoạn Cách đáp lại ngay trước \"Kết luận cẩn trọng\"). Claim vua thứ ba: khái quát \"được nhiều triết gia hiện nay ưa nhất\" không có nguồn. Câu Latin của Boethius trùng bản ghi quotes/boethius.an-ui-cua-triet-hoc đã đóng băng và khớp la.wikisource (bản Migne). Năm 1814 của Laplace theo bản ghi sources/* đã đóng băng; SEP trích theo bản 1820. Lượt 2: Ba claim vừa đã sửa đúng fix: (b) nay ghi \"Theo một cách đọc khác, chính Aristotle cũng đi theo hướng này\" (khớp SEP Fatalism \"On one view he rejects the move from truth to necessity\"); mục 4 có đủ nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại, đoạn Kane khớp fix. Thêm một claim nhẹ: cách đáp (c) vẫn dùng nhãn \"tính tất yếu logic\" mà mục Câu hỏi thật sự là gì đã đổi thành \"tính cố định của chân lý\"."
 }

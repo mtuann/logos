@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/bat-dong-tri-thuc.md#cac-lap-truong-chinh",
-  "hash": "sha256:de5008e212c0a34dfbadcd496c21cf44aeb472cfbc87f6d0bd5eafa22c3283c2",
+  "hash": "sha256:4e648265bcb5b578f19a89e456862564db4fd914c9071d89ef3c4fd93d18c5ed",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k02",
+  "checker": "agent-kiem-5.7-k02 + agent-kiem-5.7-r01",
   "claims": [
     {
       "text": "David Christensen (\"Epistemology of Disagreement: The Good News\", 2007) và Adam Elga (\"Reflection and Disagreement\", 2007) bảo vệ hướng này, gọi là **thuyết hòa giải** (*conciliationism*).",
@@ -125,6 +125,11 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
           "quote": "A final response argues that these principles about disagreement are themselves exempt from their conciliatory prescriptions.",
           "where": "SEP không nêu lời đáp \"chỉ cần bớt chắc chắn một phần\", và chính SEP nói tuân theo thuyết sẽ đòi bỏ thuyết: \"Following the prescriptions of the Equal Weight View would require this defender to abandon the view\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/disagreement/",
+          "quote": "Elga (2010) argues that conciliatory views, properly understood, are self-exempting",
+          "where": "§5.5.1; gán lời đáp tự miễn cho Elga là đúng"
         }
       ],
       "fixed": true
@@ -332,12 +337,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Hai lập trường (hòa giải, kiên định) đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Mục ### 3 là phần bàn luận về bất đồng đạo đức/triết học, không phải một lập trường riêng, nên không đòi ba nhãn. Lỗi vừa: lời đáp của phe hòa giải trước phản bác tự thua không khớp văn liệu (SEP mục 5.5.1). Văn bản van Inwagen 1996 mở từ PDF ảnh quét trên trang andrewmbailey.com/pvi/ (tên bài ở đó: \"It is Wrong, Everywhere, Always, and for Anyone, to Believe Anything Upon Insufficient Evidence\"), quote lấy bằng OCR tesseract."
+  "result": "dat",
+  "notes": "Hai lập trường (hòa giải, kiên định) đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Mục ### 3 là phần bàn luận về bất đồng đạo đức/triết học, không phải một lập trường riêng, nên không đòi ba nhãn. Lỗi vừa: lời đáp của phe hòa giải trước phản bác tự thua không khớp văn liệu (SEP mục 5.5.1). Văn bản van Inwagen 1996 mở từ PDF ảnh quét trên trang andrewmbailey.com/pvi/ (tên bài ở đó: \"It is Wrong, Everywhere, Always, and for Anyone, to Believe Anything Upon Insufficient Evidence\"), quote lấy bằng OCR tesseract. Lượt 2: câu đáp phản bác tự thua viết lại khớp fix và SEP Disagreement §5.5.1 (ba lời đáp; Minimal Humility của Christensen; Elga 2010 tự miễn, đã đối chiếu chữ trong phiên). Câu lịch sử khoa học đã chuyển sang \"Có thể viện đến…\"; câu Toán học đã bỏ. fixed: true giữ nguyên; dung-nguon đặt true."
 }

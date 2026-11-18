@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/trach-nhiem.md#_dau",
-  "hash": "sha256:f23c0fd6c6abe5c827c4dc08fe7fdc8357cc5271f5a1b04d30e7a1022dbe5789",
+  "hash": "sha256:c9ed583d82d33636873b066cf8a9108a1605a50eba7e4686a7c77262430c240b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k08",
+  "checker": "agent-kiem-5.7-k08 + agent-kiem-5.7-r06",
   "claims": [
     {
       "text": "Bài tách thành ba câu hỏi: khi nào *đáng* bị trách, ta trách *để làm gì* (bản án cho quá khứ hay lời mời sửa sai cho tương lai), và trách nhiệm có đòi hỏi \"có thể làm khác đi\" không?",
@@ -117,9 +117,9 @@
     "dung-nguon": true,
     "manh-nhat": null,
     "phan-bac": null,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Tóm tắt khớp thân bài ở bốn lập trường. Lỗi duy nhất: dòng thứ ba gán quan điểm của Pereboom thành \"thái độ của bài\", trái với nguyên tắc trung lập; thân bài chỉ trình bày nó trong mục Pereboom."
+  "result": "dat",
+  "notes": "Tóm tắt khớp thân bài ở bốn lập trường. Lỗi duy nhất: dòng thứ ba gán quan điểm của Pereboom thành \"thái độ của bài\", trái với nguyên tắc trung lập; thân bài chỉ trình bày nó trong mục Pereboom. Lượt 2 (agent-kiem-5.7-r06): Dòng thứ ba đã gán cho Pereboom (\"Với Pereboom, đây không chỉ là lý thuyết mà là một lựa chọn sống\"), đúng fix. Mã băm cập nhật theo bài hiện tại."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#lien-he-doi-song",
-  "hash": "sha256:a953aa3c625f73b9fd2bccae6b5b75c5565e5ed753f5b4242379fcba0c24077b",
+  "hash": "sha256:2a86ead0dd8669874bf07e38e574e83fe2d162c1f32401fb7fb92a7bda33d3c2",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03",
   "claims": [
     {
       "text": "Ngược lại, người bênh vực có thể dùng chính lập luận \"trường hợp biên\": xã hội ta vẫn ăn thịt lợn gà, vậy cấm thịt chó vì \"chó đáng yêu hơn\" là tiêu chuẩn kép.",
@@ -71,7 +71,29 @@
     {
       "text": "Nhiều người Việt ăn chay vào ngày rằm, mùng một — một thực hành tôn giáo có từ lâu đời. Điều thú vị là động cơ của họ thường không phải lập luận của Singer (quyền động vật) mà là lòng từ bi, tích đức.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vietnamnet.vn/en/going-vegan-during-vu-lan-festival-becomes-trend-557120.html",
+          "quote": "The habit of going vegan and visiting pagodas on the first and fifteenth days of each lunar month dates back from the Ly dynasty (1010-1225) as Buddhism grew very strong then.",
+          "where": "nguồn yếu: VietNamNet Global, 08/08/2019"
+        },
+        {
+          "url": "https://vietnamnet.vn/en/vegetarianism-from-religious-practice-to-healthy-way-of-eating-E186599.html",
+          "quote": "Having vegetarian food on the first and 15th day of a lunar month or four times a month has become a habit among Buddhists.",
+          "where": "nguồn yếu: VietNamNet Global"
+        },
+        {
+          "url": "https://www.foodrepublic.com/2018/03/28/vegetarian-vietnam/",
+          "quote": "Lay Buddhists adopt \"temporary\" vegetarianism on preassigned dates as a rite of abstinence or purification. They eat vegetarian as a reminder to avoid doing or saying bad things and to increase good luck for themselves, their families, and their ancestors for the new month.",
+          "where": "nguồn yếu: Food Republic, 28/3/2018"
+        },
+        {
+          "url": "https://www.foodrepublic.com/2018/03/28/vegetarian-vietnam/",
+          "quote": "Both Mahayana Buddhists and Cao Đài followers practice vegetarianism for similar reasons: to cultivate compassion",
+          "where": "nguồn yếu: Food Republic"
+        }
+      ]
     },
     {
       "text": "(Người theo Kant sẽ nói có; người theo thuyết vị lợi sẽ nói chỉ hậu quả mới quan trọng.)",
@@ -90,8 +112,8 @@
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Ăn chay rằm/mùng một: đã thử luatminhkhue.vn/ngay-thap-trai-la-ngay-nao.aspx (chặn), dienmayxanh.com/kinh-nghiem-hay/lich-an-chay-10-ngay-1593953 (chặn), vnexpress.net/an-chay-o-sai-gon-2361760.html và /mon-chay-cau-phuc-2348713.html (trang rỗng), news.laodong.vn (rỗng), tapchinghiencuuphathoc.vn/2pdf/ton-giao-va-cac-quan-niem-ve-an-chay (PDF, không trích được chữ); doanhnhanplus.vn chỉ nói ăn chay dịp Rằm tháng Giêng \"cầu phúc lộc\", không đủ cho \"rằm, mùng một\" và \"từ bi\". thuat-ngu=false vì \"trường hợp biên\" bị dùng sai nghĩa cho lập luận tiêu chuẩn kép chó/lợn (lập luận từ trường hợp biên là về những con người thiếu năng lực lý tính)."
+  "result": "dat",
+  "notes": "Ăn chay rằm/mùng một: đã thử luatminhkhue.vn/ngay-thap-trai-la-ngay-nao.aspx (chặn), dienmayxanh.com/kinh-nghiem-hay/lich-an-chay-10-ngay-1593953 (chặn), vnexpress.net/an-chay-o-sai-gon-2361760.html và /mon-chay-cau-phuc-2348713.html (trang rỗng), news.laodong.vn (rỗng), tapchinghiencuuphathoc.vn/2pdf/ton-giao-va-cac-quan-niem-ve-an-chay (PDF, không trích được chữ); doanhnhanplus.vn chỉ nói ăn chay dịp Rằm tháng Giêng \"cầu phúc lộc\", không đủ cho \"rằm, mùng một\" và \"từ bi\". thuat-ngu=false vì \"trường hợp biên\" bị dùng sai nghĩa cho lập luận tiêu chuẩn kép chó/lợn (lập luận từ trường hợp biên là về những con người thiếu năng lực lý tính). Lượt 2: Claim ăn chay rằm/mùng một chuyển dung theo nguồn yếu (quyết định 31): VietNamNet (thói quen ăn chay mùng một, rằm, có từ thời Lý) và Food Republic (động cơ: thanh tịnh, cầu phúc cho gia đình và tổ tiên, từ bi). Không tìm được nguồn học thuật mở được. Hai claim sai đã sửa đúng fix (\"đòi hỏi nhất quán ấy\"; \"thường ít được chú ý hơn\"); thuat-ngu chuyển true vì \"trường hợp biên\" không còn bị dùng sai nghĩa ở đoạn thịt chó."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-ac.md#tu-kiem-tra",
-  "hash": "sha256:ae2440c03bb3b2df2eb4fe540520d7cf8cf92b7772b01b302f373ad645aee3fb",
+  "hash": "sha256:f9593883a1b11b4985fa8071d67553cc9cdf34a105050cf86d500844cdb6c4dd",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k08",
+  "checker": "agent-kiem-5.7-k08 + agent-kiem-5.7-r01",
   "claims": [
     {
       "text": "Câu 1: đáp án \"Cái ác lớn có thể được gây ra bởi những con người tầm thường — không cần quái vật hay ý định quỷ dữ, chỉ cần sự không suy nghĩ, trốn sau sáo ngữ và quy trình\"",
@@ -78,6 +78,20 @@
           "where": "§3.6.3; khớp mục Cách đáp lại của lập trường 3"
         }
       ]
+    },
+    {
+      "text": "Câu 4, lời giải (lượt 2): \"'tầm thường' mô tả cơ chế, không phải để giảm án.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Người bênh vực Arendt đáp: bà ủng hộ bản án tử hình dành cho Eichmann; 'tầm thường' mô tả con người và động cơ của kẻ gây tội, không phải để giảm án.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/arendt/",
+          "quote": "“the banality of evil” was meant to describe not the nature of the deeds, but the character and the motives of the doer Eichmann",
+          "where": "§6.1; thân bài (cac-lap-truong-chinh) đã sửa theo đúng ý này ở lượt 1, lời giải quiz chưa đồng bộ"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -88,5 +102,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu, đáp án đúng khớp thân bài, phương án sai sai rõ. Một lỗi nhẹ ở lời giải câu 4 (\"đòi\" thay vì \"ủng hộ\" án tử). Không đổi data-id."
+  "notes": "Năm câu, đáp án đúng khớp thân bài, phương án sai sai rõ. Một lỗi nhẹ ở lời giải câu 4 (\"đòi\" thay vì \"ủng hộ\" án tử). Không đổi data-id. Lượt 2: lời giải câu 4 đã đổi \"đòi\" thành \"ủng hộ bản án tử hình\" (fixed: true). Claim mới nhẹ: lời giải vẫn nói \"'tầm thường' mô tả cơ chế\", lệch với thân bài đã sửa (mô tả con người và động cơ kẻ gây tội, SEP Arendt §6.1). Không đổi data-id."
 }

@@ -2,7 +2,7 @@
   "unit": "cau-hoi/tu-do-y-chi.md#cac-lap-truong-chinh",
   "hash": "sha256:c886a4b42f7eb57eab483c382a8e4cb29cafc77b3c8497f74d1370f8f13051a4",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k07",
+  "checker": "agent-kiem-5.7-k07 + agent-kiem-5.7-r06",
   "claims": [
     {
       "text": "Người theo bất tương thích luận đồng ý một điều: tự do thật sự đòi hỏi rằng tương lai còn *để ngỏ*, rằng ta có thể làm khác đi với cùng một quá khứ và cùng các quy luật.",
@@ -453,7 +453,24 @@
     {
       "text": "Người tham gia được dặn cử động cổ tay bất cứ lúc nào họ muốn",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4479978/fullTextXML",
+          "quote": "The classic Libet study went as follows.",
+          "where": "nguồn thứ cấp: Shepherd J. (2015), \"Scientific Challenges to Free Will and Moral Responsibility\", Philosophy Compass, §2.1; câu tiếp: \"A participant's task was to decide to flex a wrist, and to note the moment (on the clock) that an urge to flex appeared in experience.\""
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4479978/fullTextXML",
+          "quote": "A participant's task was to decide to flex a wrist, and to note the moment (on the clock) that an urge to flex appeared in experience.",
+          "where": "Shepherd 2015, §2.1"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6297865/fullTextXML",
+          "quote": "In Libet’s (1985, 2004) most influential studies, participants are asked to flex their right wrist whenever they wish.",
+          "where": "nguồn thứ cấp: Mele A. R. (2018), \"Free Will, Moral Responsibility, and Scientific Epiphenomenalism\", Frontiers in Psychology"
+        }
+      ]
     },
     {
       "text": "đồng thời nhìn một chiếc \"đồng hồ\" có chấm sáng quay tròn và ghi nhớ vị trí chấm sáng lúc họ *bắt đầu cảm thấy muốn* cử động",
@@ -561,6 +578,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Cả bốn mục đều có đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Còn một claim chưa kiểm được: chi tiết \"cử động cổ tay\" trong thí nghiệm Libet 1983. Tóm tắt Europe PMC (abstract Brain 106(3)) và Crossref chỉ nói \"freely voluntary, fully endogenous motor act\"; abstract Libet 1985 (Crossref 10.1017/S0140525X00044903) và SEP agency §4.3 (\"a simple and predefined movement\") cũng không nêu cổ tay. Đã thử: Europe PMC fullTextXML PMC3479453 (lỗi 500), pmc.ncbi.nlm.nih.gov (reCAPTCHA, không vượt), NCBI efetch (chỉ có metadata), pnas.org (chặn bot), scholar.archive.org (kiểm tra chống bot), imprint.co.uk/pdf/Libet.pdf (404), ingentaconnect (403). Không đoán. Kịch bản anh Tư được ghi rõ là \"Kể lại theo kiểu của ta\" (bản gốc Frankfurt/Fischer dùng Black và Jones). Các nhận định khái quát (\"Lập luận nổi tiếng nhất\", \"nhiều triết gia cho rằng\") có nguồn SEP (\"the most influential contemporary argument\", \"Most philosophers who have addressed Libet’s work\")."
+  "result": "dat",
+  "notes": "Cả bốn mục đều có đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Còn một claim chưa kiểm được: chi tiết \"cử động cổ tay\" trong thí nghiệm Libet 1983. Tóm tắt Europe PMC (abstract Brain 106(3)) và Crossref chỉ nói \"freely voluntary, fully endogenous motor act\"; abstract Libet 1985 (Crossref 10.1017/S0140525X00044903) và SEP agency §4.3 (\"a simple and predefined movement\") cũng không nêu cổ tay. Đã thử: Europe PMC fullTextXML PMC3479453 (lỗi 500), pmc.ncbi.nlm.nih.gov (reCAPTCHA, không vượt), NCBI efetch (chỉ có metadata), pnas.org (chặn bot), scholar.archive.org (kiểm tra chống bot), imprint.co.uk/pdf/Libet.pdf (404), ingentaconnect (403). Không đoán. Kịch bản anh Tư được ghi rõ là \"Kể lại theo kiểu của ta\" (bản gốc Frankfurt/Fischer dùng Black và Jones). Các nhận định khái quát (\"Lập luận nổi tiếng nhất\", \"nhiều triết gia cho rằng\") có nguồn SEP (\"the most influential contemporary argument\", \"Most philosophers who have addressed Libet’s work\"). Lượt 2 (agent-kiem-5.7-r06): Claim chưa kiểm được (\"cử động cổ tay\") đã kiểm bằng hai nguồn thứ cấp học thuật mở được qua Europe PMC (Shepherd 2015; Mele 2018): người tham gia gập cổ tay khi muốn → dung. Bản gốc Brain 1983 vẫn không mở được (PMC reCAPTCHA, Europe PMC fullText PMC3479453 lỗi 500). Mã băm cập nhật theo bài hiện tại."
 }

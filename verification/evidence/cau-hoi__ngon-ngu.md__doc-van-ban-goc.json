@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ngon-ngu.md#doc-van-ban-goc",
-  "hash": "sha256:b2ebe04b7101b9d6b3bcae93ada672e78936652a25436548665f7a04a72cafc8",
+  "hash": "sha256:99cd71c0c3ea7412657da57fdd4ae3ab22cf61d6ae00996765abf40ea9267a3d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
       "text": "Whorf (1956), Berlin & Kay (1969), Pinker (1994), Wittgenstein (1953) — đều còn bản quyền (bản dịch tiếng Việt của Wittgenstein cũng vậy)",
@@ -18,6 +18,18 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Whorf (1956), Berlin & Kay (1969), Pinker (1994) đều còn bản quyền, và với Wittgenstein (1953) thì bản dịch tiếng Anh của Anscombe và bản dịch tiếng Việt cũng vậy, nên bài này tóm tắt lập luận bằng lời mình thay vì trích dài.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/wittgenstein/",
+          "quote": "Philosophical Investigations ( PI ) was published posthumously in 1953. It was edited by G. E. M. Anscombe and Rush Rhees and translated by Anscombe.",
+          "where": "mục 3.2; Anscombe mất năm 2001 nên bản dịch còn trong hạn bảo hộ"
+        }
+      ]
     },
     {
       "text": "*Giả sử mỗi người có một chiếc hộp chứa thứ gọi là \"bọ cánh cứng\", nhưng không ai được xem hộp của người khác.",
@@ -69,5 +81,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tóm tắt §293 đối chiếu bản Anscombe (Internet Archive), khớp từng ý; cụm trích “thậm chí không phải như một cái gì đó” dịch đúng “not even as a something”."
+  "notes": "Tóm tắt §293 đối chiếu bản Anscombe (Internet Archive), khớp từng ý; cụm trích “thậm chí không phải như một cái gì đó” dịch đúng “not even as a something”. Lượt 2: câu ghi chú bản quyền đã sửa: không còn nói bản gốc Wittgenstein còn bản quyền; bản mới gọn hơn fix (bỏ ý nguyên bản tiếng Đức hết hạn ở nhiều nước) nhưng không thêm điều gì không nguồn; Anscombe là người dịch PI theo SEP Wittgenstein mục 3.2. Giữ fixed: true, thêm claim cho chữ mới."
 }

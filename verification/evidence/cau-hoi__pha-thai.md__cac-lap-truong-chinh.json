@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/pha-thai.md#cac-lap-truong-chinh",
-  "hash": "sha256:6417c586a275b9da47f2f3bc4b53c083531eebd31b2d33f711bbf41ee1ffcf25",
+  "hash": "sha256:bb7968877ccb89ae7c5860a4e28134569478f13eae36f765d5b9ddbea09a72fa",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Lập trường thứ nhất, thường gọi là pro-life ... thai nhi là một con người có quyền sống ngay từ thời điểm thụ thai, và phá thai vì thế về nguyên tắc không khác gì giết người vô tội.",
@@ -82,12 +82,41 @@
     {
       "text": "Phản bác chính: nếu phôi thai vài ngày tuổi đã là người đầy đủ, thì việc thụ tinh trong ống nghiệm tạo ra phôi dư (rồi hủy bỏ) cũng là giết người hàng loạt ... lập luận \"tương lai đang chờ\" của Marquis chứng minh quá nhiều: tinh trùng và trứng kết hợp lại cũng có \"tương lai đang chờ\"",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stem-cells/",
+          "quote": "opponents generally display little concern about the fact that many embryos created for fertility treatment are discarded",
+          "where": "mục 1.2"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1892780/fullTextXML",
+          "quote": "If the objection to abortion is that it deprives the zygote of a \"future like ours,\" why, it maybe asked, cannot the same complaint be made of contraceptive techniques",
+          "where": "'Revisiting the argument from fetal potential' (2007), trích Steinbock; nguồn thứ cấp"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1892780/fullTextXML",
+          "quote": "In using spermicide, one commits mass murder!",
+          "where": "cùng đoạn trích Steinbock"
+        }
+      ]
     },
     {
       "text": "Cách đáp lại: sự khác biệt giữa phôi thai và tinh trùng là khác biệt về loại thực thể, không phải về mức độ ... một số người nhất quán đến cùng và phản đối cả việc tạo phôi dư",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1892780/fullTextXML",
+          "quote": "gametes are two distinct beings in their own right while the adult human is a single distinct being",
+          "where": "phần đáp lại phản bác tránh thai"
+        },
+        {
+          "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20081208_dignitas-personae_en.html",
+          "quote": "Cryopreservation is incompatible with the respect owed to human embryos",
+          "where": "Dignitas Personae (2008), mục 18: ví dụ một lập trường phản đối cả việc tạo và trữ phôi dư"
+        }
+      ]
     },
     {
       "text": "Lập trường thứ hai là của Judith Jarvis Thomson trong bài báo kinh điển \"A Defense of Abortion\" (1971).",
@@ -254,6 +283,25 @@
           "where": "mục 2.c"
         }
       ]
+    },
+    {
+      "text": "Phản bác mạnh nhất nhắm vào hệ quả của tiêu chí \"thụ thai\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một phản bác mạnh nhắm vào hệ quả của tiêu chí \"thụ thai\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/stem-cells/",
+          "quote": "opponents generally display little concern about the fact that many embryos created for fertility treatment are discarded",
+          "where": "mục 1.2"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1892780/fullTextXML",
+          "quote": "If the objection to abortion is that it deprives the zygote of a \"future like ours,\" why, it maybe asked, cannot the same complaint be made of contraceptive techniques",
+          "where": "'Revisiting the argument from fetal potential' (2007), trích Steinbock; nguồn thứ cấp"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -263,6 +311,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Cả ba lập trường đủ ba nhãn. Chưa kiểm được phản bác và cách đáp lại của lập trường 1 (phôi dư trong thụ tinh ống nghiệm; 'tinh trùng và trứng cũng có tương lai' chống Marquis; đáp lại bằng khác biệt về loại thực thể): SEP 'The Ethics of Abortion' và IEP 'Abortion' không nêu các ý này; bài Marquis 1989 không mở được (JSTOR chặn JS; https://spot.colorado.edu/~heathwoo/Phil160,Fall02/marquis.htm trả 404). Lập trường 3 không gắn tên tác giả; khung của nó khớp mục 'moderate views' của IEP."
+  "result": "dat",
+  "notes": "Cả ba lập trường đủ ba nhãn. Chưa kiểm được phản bác và cách đáp lại của lập trường 1 (phôi dư trong thụ tinh ống nghiệm; 'tinh trùng và trứng cũng có tương lai' chống Marquis; đáp lại bằng khác biệt về loại thực thể): SEP 'The Ethics of Abortion' và IEP 'Abortion' không nêu các ý này; bài Marquis 1989 không mở được (JSTOR chặn JS; https://spot.colorado.edu/~heathwoo/Phil160,Fall02/marquis.htm trả 404). Lập trường 3 không gắn tên tác giả; khung của nó khớp mục 'moderate views' của IEP. Lượt 2: lỗi 'phản bác nổi tiếng nhất' đã sửa đúng ('Một phản bác thường gặp'), giữ fixed. Hai claim chưa kiểm được → dung: phôi dư (SEP stem-cells mục 1.2), phản bác tránh thai chống 'future like ours' và đáp lại bằng khác biệt cá thể giao tử/phôi (PMC1892780, nguồn thứ cấp trích Steinbock), người phản đối cả việc tạo/trữ phôi dư (Dignitas Personae). Thêm một claim nhẹ: 'Phản bác mạnh nhất' là khái quát không có nguồn. Bài Marquis 1989 vẫn không mở được (JSTOR); không cần cho các ý trên."
 }

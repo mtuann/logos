@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-ac.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:bbf6648651725ba36d6d3637f592e1fc5c401c8c27bf1cd527b0180b27bdb8b4",
+  "hash": "sha256:f34704fe8b7b2efbc4bf00ae6907e5ae567f4358ae495565b980c17bf841f936",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k08",
+  "checker": "agent-kiem-5.7-k08 + agent-kiem-5.7-r01",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về bản chất của cái ác […] **chưa có số liệu khảo sát** cho các lập trường trong bài.",
@@ -78,8 +78,8 @@
     "manh-nhat": null,
     "phan-bac": null,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục ghi trung thực là không có số liệu PhilPapers và không suy đoán \"đa số triết gia nghĩ gì\". Lỗi nhẹ: từ \"programmer\" chen giữa câu."
+  "notes": "Mục ghi trung thực là không có số liệu PhilPapers và không suy đoán \"đa số triết gia nghĩ gì\". Lỗi nhẹ: từ \"programmer\" chen giữa câu. Lượt 2: \"programmer\" đã đổi thành \"lập trình viên\" đúng fix; thuat-ngu đặt true."
 }

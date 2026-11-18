@@ -2,7 +2,7 @@
   "unit": "cau-hoi/noi-doi.md#_dau",
   "hash": "sha256:a15798c9fa7d00ea79f4486473fc6ef9b3c09ad14360a9d9a157e70edb753536",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Nói dối (định nghĩa truyền thống) là khẳng định điều mình tin là sai, với ý định người nghe tin là thật",
@@ -89,14 +89,22 @@
     {
       "text": "Phản bác: quá khắc nghiệt; Korsgaard (1986): ngay trong khung của Kant, nói dối kẻ đang lừa mình vẫn phổ quát hóa được.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "sai",
       "sources": [
         {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6086225/fullTextXML",
+          "quote": "Korsgaard argues that there are situations in which lying is the right thing to do, all things considered.",
+          "where": "chú thích 6, nói về bài 'The Right to Lie' (1986); nguồn thứ cấp"
+        },
+        {
           "url": "https://doi.org/10.1017/cbo9781139174503.006",
-          "quote": "One of the great difficulties with Kant's moral philosophy is that it seems to imply that our moral obligations leave us powerless in the face of evil.",
-          "where": "tóm tắt chương 5 của Creating the Kingdom of Ends (1996), bản in lại của bài 1986; chỉ có đoạn mở đầu"
+          "quote": "Kant's theory sets a high ideal of conduct and tells us to live up to that ideal regardless of what other persons are doing. The results may be very bad.",
+          "where": "tóm tắt chương 5 (bản in lại bài 1986)"
         }
-      ]
+      ],
+      "severity": "vua",
+      "fix": "Phản bác: quá khắc nghiệt; Korsgaard (1986), dù theo Kant, cho rằng có những tình huống mà nói dối kẻ sát nhân là việc đúng nên làm.",
+      "fixed": false
     },
     {
       "text": "Hệ quả luận (Bentham 1789, Mill 1863)",
@@ -186,6 +194,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Mọi ý của hộp Tóm tắt khớp thân bài. Không mở được bài Korsgaard 1986 để kiểm ý 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được': đã thử https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670 và https://dash.harvard.edu/handle/1/3200670 (tường lửa 429), https://people.fas.harvard.edu/~korsgaar/CMK.RightToLie.pdf (chuyển về trang chủ, không còn file), https://www.jstor.org/stable/2265418 (chặn JS), https://doi.org/10.1017/cbo9781139174503.006 (chỉ có đoạn tóm tắt mở đầu), archive.org creatingkingdomo0000kors (chỉ cho mượn). Câu 'không hỏi về nói dối' đối chiếu với đủ 100 câu trong data/kb/philpapers-2020.json."
+  "result": "sua",
+  "notes": "Mọi ý của hộp Tóm tắt khớp thân bài. Không mở được bài Korsgaard 1986 để kiểm ý 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được': đã thử https://nrs.harvard.edu/urn-3:HUL.InstRepos:3200670 và https://dash.harvard.edu/handle/1/3200670 (tường lửa 429), https://people.fas.harvard.edu/~korsgaar/CMK.RightToLie.pdf (chuyển về trang chủ, không còn file), https://www.jstor.org/stable/2265418 (chặn JS), https://doi.org/10.1017/cbo9781139174503.006 (chỉ có đoạn tóm tắt mở đầu), archive.org creatingkingdomo0000kors (chỉ cho mượn). Câu 'không hỏi về nói dối' đối chiếu với đủ 100 câu trong data/kb/philpapers-2020.json. Lượt 2: ý Korsgaard 'nói dối kẻ đang lừa mình vẫn phổ quát hóa được' không tìm được nguồn mở được → sai vừa, fix bỏ chi tiết phổ quát hóa, giữ ý có nguồn thứ cấp. Đã thử thêm: dash.harvard.edu (429, không thử lại theo quyết định 34), philpapers.org/rec/KORTRT (403), scholar.harvard.edu (403), OpenAlex (hết hạn mức), SEP fall2026 (kant-moral, lying-definition, practical-reason-action, constructivism-metaethics, ...) và IEP: không mục nào trình bày lập luận phổ quát hóa của Korsgaard; Crossref/Europe PMC chỉ cho nguồn thứ cấp (PMC6086225, PMC9826341, PMC12138956) xác nhận bà cho rằng có lúc nói dối là đúng và cách đọc công thức nhân tính, không xác nhận chi tiết 'kẻ sát nhân giả làm người bình thường… vượt qua phép thử phổ quát hóa'."
 }

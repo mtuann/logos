@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/khoa-hoc.md#lien-he-doi-song",
-  "hash": "sha256:e6f97fa3b5301a39f193a1a27da48b3761b79de458a85a03e0c998a11230561c",
+  "hash": "sha256:5a325f1a51724a389fc8a30bb219b93eb8d4515636f1b13acbe079919c18ea5b",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r03",
   "claims": [
     {
       "text": "được Tu Youyou tìm ra từ bài thuốc thanh hao hoa vàng trong y văn cổ (Nobel Y học 2015)",
@@ -74,6 +74,32 @@
           "where": "mục 4.1 (trích Popper 1962, 39)"
         }
       ]
+    },
+    {
+      "text": "Nhưng Popper và Lakatos cũng nhắc điều ngược lại: hoài nghi không có nghĩa là mọi ý kiến đều ngang nhau — khẳng định đã chịu được kiểm chứng gắt gao đáng tin hơn khẳng định chưa từng dám đặt mình vào thế có thể sai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "a dedicated opponent of all forms of scepticism and relativism in science and in human affairs generally",
+          "where": "§1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "Thus, a theory that has withstood rigorous testing should be deemed to have received a high measure of corroboration. and may be retained provisionally as the best available theory until it is finally falsified and/or is superseded by a better theory.",
+          "where": "§4"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/popper/",
+          "quote": "“corroboration”, as he terms it, should count scientifically only if it is the positive result of a genuinely “risky” prediction, which might conceivably have been false."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/lakatos/",
+          "quote": "is really the problem of the appraisal of scientific theories, and attempts to answer the question: when is one theory better than another?",
+          "where": "Lakatos, bài giảng LSE, dẫn trong SEP"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -83,6 +109,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Lỗi vừa: gán cho Feyerabend lời nhắc “mọi ý kiến không ngang nhau”, trong khi SEP ghi ông công khai tán thành tương đối luận (Science in a Free Society, 1978)."
+  "result": "dat",
+  "notes": "Lỗi vừa: gán cho Feyerabend lời nhắc “mọi ý kiến không ngang nhau”, trong khi SEP ghi ông công khai tán thành tương đối luận (Science in a Free Society, 1978). Lượt 2: Claim 3 (gán nhầm cho Feyerabend) đã sửa: nay gán cho Popper và Lakatos, kèm vế mới \"khẳng định đã chịu được kiểm chứng gắt gao đáng tin hơn…\" — kiểm thêm bằng SEP Popper (chống tương đối luận; lý thuyết chịu được kiểm tra gắt gao được giữ tạm như lý thuyết tốt nhất hiện có) và SEP Lakatos (bài toán phân giới là bài toán đánh giá: khi nào lý thuyết này tốt hơn lý thuyết kia). Lưu ý: Popper không coi độ chứng thực là xác suất đúng, nên \"đáng tin hơn\" hiểu theo nghĩa \"đáng ưu tiên giữ lại hơn\"; chấp nhận được ở mức phổ thông. Artemisinin (claim 1) đã sửa đúng fix theo thông cáo Nobel."
 }

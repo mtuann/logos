@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dinh-menh.md#_dau",
-  "hash": "sha256:6f3ddda3664442904f53f31a77192feaf6f2976287b64665880da79f1aa257ce",
+  "hash": "sha256:60a1e2d69f0dbf6e2d822a6c5377a3bae40611b575e38cc3d0967459b88766bd",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k07",
+  "checker": "agent-kiem-5.7-k07 + agent-kiem-5.7-r03",
   "claims": [
     {
       "text": "thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích)",
@@ -139,6 +139,34 @@
           "where": "trang đích trên site đã deploy"
         }
       ]
+    },
+    {
+      "text": "Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính tất yếu logic.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính cố định của chân lý.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "First of all we need to be clear about what is meant by “necessity” here. What is at issue here is not logical necessity. It is rather inevitability.",
+          "where": "§ lập luận hải chiến; tải lại trong phiên lượt 2; thân bài (mục Câu hỏi thật sự là gì, ý 3) nay gọi là \"Tính cố định của chân lý\""
+        }
+      ]
+    },
+    {
+      "text": "và kể cả đúng thì nó chứng minh sai thứ (tính tất yếu logic, chưa phải \"dù làm gì cũng vậy\")",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "và kể cả đúng thì nó chứng minh sai thứ (tính cố định của chân lý, chưa phải \"dù làm gì cũng vậy\")",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/fatalism/",
+          "quote": "First of all we need to be clear about what is meant by “necessity” here. What is at issue here is not logical necessity. It is rather inevitability.",
+          "where": "§ lập luận hải chiến; tải lại trong phiên lượt 2"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -149,5 +177,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Một claim nhe: tóm tắt viết \"39,9% nghiêng về vĩnh cửu luận\" trong khi số liệu là tỉ lệ \"chấp nhận hoặc nghiêng về\" (Bảng 2). Mọi ý tóm tắt khớp thân bài; không thêm dữ kiện ngoài thân bài. Đoạn mở (xem tử vi đầu năm) là bối cảnh đời sống, không có dữ kiện cần kiểm."
+  "notes": "Một claim nhe: tóm tắt viết \"39,9% nghiêng về vĩnh cửu luận\" trong khi số liệu là tỉ lệ \"chấp nhận hoặc nghiêng về\" (Bảng 2). Mọi ý tóm tắt khớp thân bài; không thêm dữ kiện ngoài thân bài. Đoạn mở (xem tử vi đầu năm) là bối cảnh đời sống, không có dữ kiện cần kiểm. Lượt 2: Claim 8 đã sửa (\"chấp nhận hoặc nghiêng về\"). Thân bài đổi nhãn khái niệm thứ ba thành \"Tính cố định của chân lý\" nhưng tóm tắt vẫn ghi \"tính tất yếu logic\" hai chỗ: tóm tắt không còn khớp thân bài, ghi hai claim sai nhẹ kèm fix đồng bộ."
 }

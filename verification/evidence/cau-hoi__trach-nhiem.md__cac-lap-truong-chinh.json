@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/trach-nhiem.md#cac-lap-truong-chinh",
-  "hash": "sha256:34980faa824b71dde29cedb7594eb7ee570aff3d76d747101069dc8bc5a91c31",
+  "hash": "sha256:886b19870ef920703ab62787cd6091b47d3c5b92254a5fae520978743649229d",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k08",
+  "checker": "agent-kiem-5.7-k08 + agent-kiem-5.7-r06",
   "claims": [
     {
       "text": "Năm 1969, Harry Frankfurt đăng bài \"Alternate Possibilities and Moral Responsibility\"",
@@ -130,12 +130,17 @@
     {
       "text": "[Strawson] đọc bài \"Freedom and Resentment\" tại Viện Hàn lâm Anh",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-responsibility/",
-          "quote": "Resentment”, in Proceedings of the British Academy , 48:",
-          "where": "Thư mục: xác nhận bài in trong kỷ yếu của Viện Hàn lâm Anh, nhưng không nói bài được đọc (thuyết trình) tại đó"
+          "url": "http://web.archive.org/web/20250429050505/https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/48/strawson/",
+          "quote": "read 9 May 1962",
+          "where": "trang bài trong Proceedings of the British Academy 48 (1962), bản lưu Wayback 29/4/2025; dòng ghi chú dưới tiêu đề"
+        },
+        {
+          "url": "http://web.archive.org/web/20250429050505/https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/48/strawson/",
+          "quote": "Philosophical Lecture",
+          "where": "loạt bài giảng triết học thường niên của Viện Hàn lâm Anh; cùng dòng"
         }
       ]
     },
@@ -447,18 +452,23 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/skepticism-moral-responsibility/",
           "quote": "most extant manipulation cases involve external agents who act as intentional manipulators, whereas this is missing in the normal case of natural determinism",
           "where": "§2: lấy \"tác nhân thao túng có chủ ý\" làm khác biệt là một kiểu đáp \"soft-line\" chung, bị coi là có thể vòng quanh; SEP không gán nó cho Fischer"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "she believes that she is an apt target for blame and praise for acting from",
+          "where": "§2.4, điều kiện \"take responsibility\" (Fischer and Ravizza 1998, 238); xác nhận ý \"đối tượng thích đáng của lời khen, lời trách\" trong câu mới"
         }
       ],
       "fixed": true
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Cả bốn lập trường có đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Ba nhãn mới của Pereboom khớp sát SEP Skepticism About Moral Responsibility §3.2 và §3.4 (bản lưu fall2026). Lỗi vừa: cách đáp lại của Fischer gán cho ông khác biệt \"tác nhân có chủ ý / nguyên nhân tự nhiên\", trong khi theo SEP Free Will, Fischer (2011) chấp nhận người bị tạo ra theo kịch bản rồi để tự sống vẫn tự do; ranh giới của ông là lịch sử \"nhận trách nhiệm\". Chưa kiểm được: chi tiết Strawson \"đọc\" bài tại Viện Hàn lâm Anh — đã thử thebritishacademy.ac.uk (403), philpapers.org/rec/STRFAR (403), web.archive.org (offline), IEP (không có mục Strawson), SEP Strawson (chỉ có tên kỷ yếu). Ghi chú: SEP Moral Responsibility ghi số trang kỷ yếu 48: 1–25, kho sources/ ghi 187–211 (đã đóng băng); không thuộc đơn vị này."
+  "result": "dat",
+  "notes": "Cả bốn lập trường có đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Ba nhãn mới của Pereboom khớp sát SEP Skepticism About Moral Responsibility §3.2 và §3.4 (bản lưu fall2026). Lỗi vừa: cách đáp lại của Fischer gán cho ông khác biệt \"tác nhân có chủ ý / nguyên nhân tự nhiên\", trong khi theo SEP Free Will, Fischer (2011) chấp nhận người bị tạo ra theo kịch bản rồi để tự sống vẫn tự do; ranh giới của ông là lịch sử \"nhận trách nhiệm\". Chưa kiểm được: chi tiết Strawson \"đọc\" bài tại Viện Hàn lâm Anh — đã thử thebritishacademy.ac.uk (403), philpapers.org/rec/STRFAR (403), web.archive.org (offline), IEP (không có mục Strawson), SEP Strawson (chỉ có tên kỷ yếu). Ghi chú: SEP Moral Responsibility ghi số trang kỷ yếu 48: 1–25, kho sources/ ghi 187–211 (đã đóng băng); không thuộc đơn vị này. Lượt 2 (agent-kiem-5.7-r06): Claim chưa kiểm được (Strawson đọc bài tại Viện Hàn lâm Anh) đã kiểm: trang British Academy (bản lưu Wayback) ghi \"Philosophical Lecture, read 9 May 1962\" → dung. Cách đáp lại của Fischer (lỗi vừa) đã sửa đúng fix; đối chiếu lại SEP Free Will §2.4 (điều kiện nhận trách nhiệm, người được tạo ra rồi để tự sống) và SEP Moral Responsibility (lịch sử, thao túng) → fixed. Ba nhãn của bốn lập trường vẫn đủ. Mã băm cập nhật theo bài hiện tại."
 }

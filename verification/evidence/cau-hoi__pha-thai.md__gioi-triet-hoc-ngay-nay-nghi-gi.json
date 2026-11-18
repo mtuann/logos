@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/pha-thai.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:d71d45bc95d6a0499f7e03fefca30ee84067d44ba156a6fe532fd8dfb8a6fbce",
+  "hash": "sha256:ad304b29a588ef553e86759fd9222b0ff997abe71ed62d7809d44454c165cdc6",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 có một câu hỏi về phá thai. Đó là một câu bổ sung (chỉ một phần người tham gia được hỏi), và nó hỏi về một trường hợp rất hẹp",
@@ -103,6 +103,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Số liệu đúng câu bổ sung, Bảng 2; n = 917/0,817 ≈ 1.120 khớp tools/philpapers-2020.md. Nhận định đi kèm không vượt số liệu, trừ câu khái quát về 'trích dẫn và giảng dạy nhiều nhất' không có nguồn."
+  "result": "dat",
+  "notes": "Số liệu đúng câu bổ sung, Bảng 2; n = 917/0,817 ≈ 1.120 khớp tools/philpapers-2020.md. Nhận định đi kèm không vượt số liệu, trừ câu khái quát về 'trích dẫn và giảng dạy nhiều nhất' không có nguồn. Lượt 2: câu Thomson/Marquis đã sửa đúng nguyên văn fix (SEP 'The Ethics of Abortion' trình bày cả hai), giữ fixed."
 }

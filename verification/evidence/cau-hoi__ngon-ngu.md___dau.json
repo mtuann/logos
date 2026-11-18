@@ -1,11 +1,11 @@
 {
   "unit": "cau-hoi/ngon-ngu.md#_dau",
-  "hash": "sha256:e0eeea352e806f7c22c0cdb4a6085fd30ce80e475744b9f37921981c8a1a2f42",
+  "hash": "sha256:aa7a1f38818ee70b9a4d1abbccb133436b010989343bef9164466613c7f69601",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k03",
+  "checker": "agent-kiem-5.7-k03 + agent-kiem-5.7-r04",
   "claims": [
     {
-      "text": "mạnh (thuyết quyết định ngôn ngữ: ngôn ngữ *quyết định* tư duy) và yếu (tương đối tính ngôn ngữ: ngôn ngữ *ảnh hưởng* tư duy)",
+      "text": "mạnh (tất định luận ngôn ngữ: ngôn ngữ *quyết định* tư duy) và yếu (tương đối tính ngôn ngữ: ngôn ngữ *ảnh hưởng* tư duy)",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -108,8 +108,8 @@
     "manh-nhat": true,
     "phan-bac": null,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Các ý của Tóm tắt khớp thân bài. Lỗi thuật ngữ: “thuyết quyết định ngôn ngữ” cho linguistic determinism, trong khi bảng thuật ngữ bắt buộc ghi determinism → tất định luận và đánh dấu “quyết định luận” là sai. Lỗi lặp ở #cau-hoi-that-su-la-gi và #gioi-triet-hoc-ngay-nay-nghi-gi; nếu chủ biên cho rằng bảng thuật ngữ chỉ áp dụng cho tự do ý chí thì hạ xuống nhẹ."
+  "result": "dat",
+  "notes": "Các ý của Tóm tắt khớp thân bài. Lỗi thuật ngữ: “thuyết quyết định ngôn ngữ” cho linguistic determinism, trong khi bảng thuật ngữ bắt buộc ghi determinism → tất định luận và đánh dấu “quyết định luận” là sai. Lỗi lặp ở #cau-hoi-that-su-la-gi và #gioi-triet-hoc-ngay-nay-nghi-gi; nếu chủ biên cho rằng bảng thuật ngữ chỉ áp dụng cho tự do ý chí thì hạ xuống nhẹ. Lượt 2: \"thuyết quyết định ngôn ngữ\" ở Tóm tắt đã đổi thành \"tất định luận ngôn ngữ\", đúng bảng thuật ngữ bắt buộc (determinism → tất định luận); cập nhật text claim dung theo chữ mới; giữ fixed: true; thuat-ngu: true. Không có chữ mới khác."
 }
