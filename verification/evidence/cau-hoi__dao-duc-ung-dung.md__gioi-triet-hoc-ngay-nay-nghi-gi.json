@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:8e25f23a0bed0f999a79ba82a142fea17e4d6e9a5c940d8c61768d1862baa228",
+  "hash": "sha256:ddc2b3a54d65933f9b153e82778505f596dcff3293f7c0affb42f9f5a76578e7",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "checker": "agent-kiem-5.7-k10 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Với câu hỏi thứ nhất của bài, khảo sát PhilPapers 2020 có số liệu trực tiếp: một **câu chính** (hỏi mọi người tham gia) về việc ăn động vật và sản phẩm động vật.",
@@ -71,6 +71,38 @@
           "quote": "Effective altruism’s roots, however, can be found in Peter Singer’s argument, dating back to his famous 1972 article"
         }
       ]
+    },
+    {
+      "text": "Điều có thể nói chắc chắn là cả hai lập luận của Singer đều thuộc nhóm có ảnh hưởng thực tế lớn nhất của triết học đương đại",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "Peter Singer has been very influential in the debate concerning animals and ethics."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
+          "quote": "has also given rise to a growing social movement far beyond the quarters of philosophy departments and academic journals"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Có thể nói cả hai lập luận của Singer đều có ảnh hưởng thực tế rất lớn, vượt ra ngoài giới triết học:",
+      "fixed": true
+    },
+    {
+      "text": "Animal Liberation được ghi nhận là ngòi nổ của phong trào quyền động vật toàn cầu",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The publication of his Animal Liberation marked the beginning of a growing and increasingly powerful movement in both the United States and Europe."
+        }
+      ],
+      "severity": "nhe",
+      "fix": "*Animal Liberation* được ghi nhận là đã mở đầu phong trào bảo vệ động vật ngày càng lớn mạnh ở Mỹ và châu Âu",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -81,5 +113,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số % khớp tools/philpapers-2020.md Bảng 1 (48,0 / 26,5 / 18,4 / 9,9); 26,5 + 18,4 = 44,9 ≈ 45%. Diễn đạt đúng \"chấp nhận hoặc nghiêng về\", đúng câu chính. Nhận định đi kèm không vượt số liệu."
+  "notes": "Số % khớp tools/philpapers-2020.md Bảng 1 (48,0 / 26,5 / 18,4 / 9,9); 26,5 + 18,4 = 44,9 ≈ 45%. Diễn đạt đúng \"chấp nhận hoặc nghiêng về\", đúng câu chính. Nhận định đi kèm không vượt số liệu. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }
