@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tam-tri-va-ai.md#_dau",
-  "hash": "sha256:94a1f724d55ad5447f3a7e493f0123031eb3f110d135b4eeb01ab5c13dea2d15",
+  "hash": "sha256:3d06a5b4ccc0aa8594ad94feb5c48ec3863815a44a0aaee8cbeaf9d78e8b1705",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k05 + agent-kiem-5.7-r06",
+  "checker": "agent-kiem-5.7-k05 + agent-kiem-5.7-r06 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Bài tách thành ba câu hỏi: hành vi thông minh, *hiểu* (ý hướng tính), và *ý thức* (cảm giác như thế nào).",
@@ -101,6 +101,25 @@
           "quote": "We document the growth of ChatGPT’s consumer product from its launch in November 2022 through July 2025, when it had been adopted by around 10% of the world’s adult population."
         }
       ]
+    },
+    {
+      "text": "thí nghiệm thay nơ-ron bằng chip của Chalmers 1996",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "thí nghiệm thay nơ-ron bằng chip, được Chalmers phát triển năm 1996",
+      "sources": [
+        {
+          "url": "https://consc.net/papers/qualia.html",
+          "quote": "The first scenario that I will present is relatively familiar,[*]",
+          "where": "Chalmers, 'Absent Qualia, Fading Qualia, Dancing Qualia', mục 3"
+        },
+        {
+          "url": "https://consc.net/papers/qualia.html",
+          "quote": "Neural replacement scenarios along the lines discussed in this section are discussed by Pylyshyn (1980), Savitt (1980),"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -111,5 +130,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Claim \"Thái độ của bài\": thân bài nói câu \"không phép thử... chứng minh dứt khoát\" ở dạng điều kiện (nếu zombie hình dung được) và gán \"ước lượng có lý do tốt hơn đoán mò\" cho những người theo hướng chỉ báo (mục 4, Cách đáp lại); phần Giới triết học kết luận câu hỏi \"hoàn toàn bỏ ngỏ\". Tóm tắt biến hai ý được gán cho một lập trường thành thái độ của bài, lệch thân bài và nghiêng về một bên. Câu \"hàng trăm triệu người... mỗi tuần\" là số liệu thời sự trong thân bài Lõi; NBER (7/2025) cho ~10% người trưởng thành thế giới, đủ cho \"hàng trăm triệu\"; lint_volatile hiện không chặn câu này. Lượt 2 (agent-kiem-5.7-r06): \"Thái độ của bài\" đã sửa đúng fix: câu hỏi bỏ ngỏ, câu điều kiện về zombie, gán ý \"ước lượng có lý do\" cho hướng đặc tính chỉ báo, khớp thân bài. Mã băm cập nhật theo bài hiện tại."
+  "notes": "Claim \"Thái độ của bài\": thân bài nói câu \"không phép thử... chứng minh dứt khoát\" ở dạng điều kiện (nếu zombie hình dung được) và gán \"ước lượng có lý do tốt hơn đoán mò\" cho những người theo hướng chỉ báo (mục 4, Cách đáp lại); phần Giới triết học kết luận câu hỏi \"hoàn toàn bỏ ngỏ\". Tóm tắt biến hai ý được gán cho một lập trường thành thái độ của bài, lệch thân bài và nghiêng về một bên. Câu \"hàng trăm triệu người... mỗi tuần\" là số liệu thời sự trong thân bài Lõi; NBER (7/2025) cho ~10% người trưởng thành thế giới, đủ cho \"hàng trăm triệu\"; lint_volatile hiện không chặn câu này. Lượt 2 (agent-kiem-5.7-r06): \"Thái độ của bài\" đã sửa đúng fix: câu hỏi bỏ ngỏ, câu điều kiện về zombie, gán ý \"ước lượng có lý do\" cho hướng đặc tính chỉ báo, khớp thân bài. Mã băm cập nhật theo bài hiện tại. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

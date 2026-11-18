@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dinh-menh.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:3e818cb5e2e9e2b78ea38226d2270eeb7ebaa06a7fd89a78ab0cfeafdb9b0fa2",
+  "hash": "sha256:ce7c9a22a0b9b745c5c5300b52afee2d4feec2e715862d9479ba25694a85382a",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k07 + agent-kiem-5.7-r03",
+  "checker": "agent-kiem-5.7-k07 + agent-kiem-5.7-r03 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Ở đây phải thành thật: PhilPapers Survey 2020 **không có câu hỏi riêng** về thuyết định mệnh logic hay về vấn đề biết trước và tự do.",
@@ -134,6 +134,20 @@
           "quote": "This allows broader information about views within the English-speaking philosophical community."
         }
       ]
+    },
+    {
+      "text": "* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "We also added a further group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly)."
+        }
+      ],
+      "severity": "nhe",
+      "fix": "\\* Câu hỏi bổ sung (mỗi câu được giao ngẫu nhiên cho khoảng một phần sáu người tham gia, cộng với những người tự chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]].",
+      "fixed": true
     }
   ],
   "checklist": {
@@ -144,5 +158,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu qua shortcode từ kho philpapers đã đóng băng; đối chiếu thêm Bảng 2 trên trang bài báo (Quantum mechanics: Collapse 17,1 / Hidden-variables 21,9 / Many-worlds 19,4 / Epistemic 12,8 / Other 32,0; Temporal ontology: Presentism 18,4 / Eternalism 39,9 / Growing block 17,0 / Other 24,9). Bài nói đúng là câu bổ sung, có n. Một claim nhe: \"nghiêng về vĩnh cửu luận\" thay vì \"chấp nhận hoặc nghiêng về\". Câu kết (\"không phải câu hỏi triết học nào cũng có thể đem ra bỏ phiếu\") không kết luận thay người đọc. Lượt 2: Claim 7 đã sửa đúng fix (\"chấp nhận hoặc nghiêng về\")."
+  "notes": "Số liệu qua shortcode từ kho philpapers đã đóng băng; đối chiếu thêm Bảng 2 trên trang bài báo (Quantum mechanics: Collapse 17,1 / Hidden-variables 21,9 / Many-worlds 19,4 / Epistemic 12,8 / Other 32,0; Temporal ontology: Presentism 18,4 / Eternalism 39,9 / Growing block 17,0 / Other 24,9). Bài nói đúng là câu bổ sung, có n. Một claim nhe: \"nghiêng về vĩnh cửu luận\" thay vì \"chấp nhận hoặc nghiêng về\". Câu kết (\"không phải câu hỏi triết học nào cũng có thể đem ra bỏ phiếu\") không kết luận thay người đọc. Lượt 2: Claim 7 đã sửa đúng fix (\"chấp nhận hoặc nghiêng về\"). Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }
