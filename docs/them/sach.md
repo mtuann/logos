@@ -4916,7 +4916,7 @@ Parfit kết luận: cái quan trọng không phải là quan hệ một–một
 
 **Phản bác chính.** Một phản bác mạnh bắt nguồn từ Bernard Williams ("The Self and the Future", 1970 — viết trước *Reasons and Persons*, nhắm vào chính tiêu chí tâm lý mà Parfit kế thừa): khi nghĩ về *nỗi đau tương lai của chính mình*, ta quan tâm theo một cách đặc biệt mà Quan hệ R không giải thích hết. Nếu ngày mai "người tiếp nối tôi" bị tra tấn, tôi sợ hãi theo cách khác hẳn khi nghe tin một người lạ bị tra tấn — dù Parfit nói cả hai chỉ khác nhau ở mức độ liên kết. Ngoài ra, pháp luật và đời sống thực tế *cần* khái niệm đồng nhất rạch ròi: tòa án không thể tuyên "bị cáo có Quan hệ R ở mức 0,7 với thủ phạm".
 
-**Cách đáp lại.** Parfit thừa nhận ta vẫn cần khái niệm đồng nhất cho pháp luật — đó là vấn đề thực hành, không phải siêu hình học. Còn nỗi sợ đặc biệt trước đau khổ tương lai của "mình", ông cho rằng nó dựa trên một niềm tin sai: niềm tin rằng có một "cái tôi" sâu xa, tách biệt. Bỏ niềm tin ấy đi, ta không mất mát gì đáng kể — mà còn được một cái nhìn bớt vị kỷ về cuộc đời.
+**Cách đáp lại.** Parfit không lùi bước trước đòi hỏi của pháp luật: ông cho rằng bản thân sự đồng nhất không có tầm quan trọng thực tiễn, và trách nhiệm có thể giảm dần theo mức độ khi liên kết tâm lý giữa người hôm nay với người đã hành động yếu đi. Còn nỗi sợ đặc biệt trước đau khổ tương lai của "mình", ông cho rằng nó dựa trên một niềm tin sai: niềm tin rằng có một "cái tôi" sâu xa, tách biệt. Bỏ niềm tin ấy đi, ta không mất mát gì đáng kể — mà còn được một cái nhìn bớt vị kỷ về cuộc đời.
 
 ### 4. Không có cái tôi thường hằng: góc nhìn Phật giáo
 
@@ -5476,9 +5476,9 @@ Gợi ý độ dài: 150–300 chữ.
 # Mọi thứ đã được viết sẵn?
 
 !!! summary "Tóm tắt 5 phút"
-    - Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính tất yếu logic.
+    - Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính cố định của chân lý.
     - Con quỷ của Laplace (1814): trí tuệ biết hết hiện tại sẽ thấy hết tương lai; hai phản bác lớn — hỗn loạn (chỉ đánh vào khả năng dự đoán, chưa đánh vào tính xác định) và cơ học lượng tử (các diễn giải chưa ngã ngũ).
-    - Định mệnh từ logic (lập luận "hải chiến ngày mai" của [Aristotle](../triet-gia/aristotle.md)): ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), "đúng" không có nghĩa là "tất yếu" (chân trị đi theo sự kiện, không khóa sự kiện), và kể cả đúng thì nó chứng minh sai thứ (tính tất yếu logic, chưa phải "dù làm gì cũng vậy").
+    - Định mệnh từ logic (lập luận "hải chiến ngày mai" của [Aristotle](../triet-gia/aristotle.md)): ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), "đúng" không có nghĩa là "tất yếu" (chân trị đi theo sự kiện, không khóa sự kiện), và kể cả đúng thì nó chứng minh sai thứ (tính cố định của chân lý, chưa phải "dù làm gì cũng vậy").
     - Boethius (khoảng 524): Chúa không "đoán trước" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc; và ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ. PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%), và [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% chấp nhận hoặc nghiêng về vĩnh cửu luận về thời gian (tương lai "tồn tại", nhưng điều đó không phải thuyết định mệnh).
 
 Đầu năm, nhiều người rủ nhau đi xem tử vi, xem bói. Người thì nghe cho vui, người thì thật sự tin: năm nay "sao xấu chiếu mệnh", nên làm gì cũng dè chừng. Đằng sau thói quen đó là một câu hỏi triết học rất cũ: tương lai là thứ đã được viết sẵn, chỉ chờ ta đọc — hay là thứ còn để ngỏ, chờ ta viết tiếp?
@@ -6641,7 +6641,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Lý thuyết của Arendt quá phức tạp để áp dụng"
   ],
   "answer": 1,
-  "explain": "Phản bác hai mũi: (1) về sử học — Eichmann thật có thể khác với Eichmann mà Arendt mô tả; (2) về đạo đức — 'tầm thường' dễ bị hiểu thành bào chữa, biến kẻ tổ chức diệt chủng thành nạn nhân của ngu dốt. Người bênh vực Arendt đáp: bà ủng hộ bản án tử hình dành cho Eichmann; 'tầm thường' mô tả cơ chế, không phải để giảm án."
+  "explain": "Phản bác hai mũi: (1) về sử học — Eichmann thật có thể khác với Eichmann mà Arendt mô tả; (2) về đạo đức — 'tầm thường' dễ bị hiểu thành bào chữa, biến kẻ tổ chức diệt chủng thành nạn nhân của ngu dốt. Người bênh vực Arendt đáp: bà ủng hộ bản án tử hình dành cho Eichmann; 'tầm thường' mô tả con người và động cơ của kẻ gây tội, không phải để giảm án."
  },
  {
   "q": "Trong thí nghiệm ông K., người theo lập trường 'ác cần ý định' sẽ nói gì?",

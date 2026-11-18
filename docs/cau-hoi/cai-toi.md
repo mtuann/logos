@@ -87,7 +87,7 @@ Parfit kết luận: cái quan trọng không phải là quan hệ một–một
 
 **Phản bác chính.** Một phản bác mạnh bắt nguồn từ Bernard Williams ("The Self and the Future", 1970 — viết trước *Reasons and Persons*, nhắm vào chính tiêu chí tâm lý mà Parfit kế thừa): khi nghĩ về *nỗi đau tương lai của chính mình*, ta quan tâm theo một cách đặc biệt mà Quan hệ R không giải thích hết. Nếu ngày mai "người tiếp nối tôi" bị tra tấn, tôi sợ hãi theo cách khác hẳn khi nghe tin một người lạ bị tra tấn — dù Parfit nói cả hai chỉ khác nhau ở mức độ liên kết. Ngoài ra, pháp luật và đời sống thực tế *cần* khái niệm đồng nhất rạch ròi: tòa án không thể tuyên "bị cáo có Quan hệ R ở mức 0,7 với thủ phạm".
 
-**Cách đáp lại.** Parfit thừa nhận ta vẫn cần khái niệm đồng nhất cho pháp luật — đó là vấn đề thực hành, không phải siêu hình học. Còn nỗi sợ đặc biệt trước đau khổ tương lai của "mình", ông cho rằng nó dựa trên một niềm tin sai: niềm tin rằng có một "cái tôi" sâu xa, tách biệt. Bỏ niềm tin ấy đi, ta không mất mát gì đáng kể — mà còn được một cái nhìn bớt vị kỷ về cuộc đời.
+**Cách đáp lại.** Parfit không lùi bước trước đòi hỏi của pháp luật: ông cho rằng bản thân sự đồng nhất không có tầm quan trọng thực tiễn, và trách nhiệm có thể giảm dần theo mức độ khi liên kết tâm lý giữa người hôm nay với người đã hành động yếu đi. Còn nỗi sợ đặc biệt trước đau khổ tương lai của "mình", ông cho rằng nó dựa trên một niềm tin sai: niềm tin rằng có một "cái tôi" sâu xa, tách biệt. Bỏ niềm tin ấy đi, ta không mất mát gì đáng kể — mà còn được một cái nhìn bớt vị kỷ về cuộc đời.
 
 ### 4. Không có cái tôi thường hằng: góc nhìn Phật giáo
 

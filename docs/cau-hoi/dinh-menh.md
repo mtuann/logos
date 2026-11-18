@@ -10,9 +10,9 @@ block: tu-do
 # Mọi thứ đã được viết sẵn?
 
 !!! summary "Tóm tắt 5 phút"
-    - Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính tất yếu logic.
+    - Ba khái niệm phải tách: thuyết định mệnh (kết cục xảy ra bất kể bạn làm gì), tất định luận (mọi sự kiện có nguyên nhân đầy đủ — chính việc bạn làm là một mắt xích), và tính cố định của chân lý.
     - Con quỷ của Laplace (1814): trí tuệ biết hết hiện tại sẽ thấy hết tương lai; hai phản bác lớn — hỗn loạn (chỉ đánh vào khả năng dự đoán, chưa đánh vào tính xác định) và cơ học lượng tử (các diễn giải chưa ngã ngũ).
-    - Định mệnh từ logic (lập luận "hải chiến ngày mai" của [Aristotle](../triet-gia/aristotle.md)): ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), "đúng" không có nghĩa là "tất yếu" (chân trị đi theo sự kiện, không khóa sự kiện), và kể cả đúng thì nó chứng minh sai thứ (tính tất yếu logic, chưa phải "dù làm gì cũng vậy").
+    - Định mệnh từ logic (lập luận "hải chiến ngày mai" của [Aristotle](../triet-gia/aristotle.md)): ba cách đáp — tương lai mở (câu về tương lai chưa đúng cũng chưa sai), "đúng" không có nghĩa là "tất yếu" (chân trị đi theo sự kiện, không khóa sự kiện), và kể cả đúng thì nó chứng minh sai thứ (tính cố định của chân lý, chưa phải "dù làm gì cũng vậy").
     - Boethius (khoảng 524): Chúa không "đoán trước" trong dòng thời gian mà thấy mọi sự trong một hiện tại vĩnh cửu — thấy không phải là ép buộc; và ngẫu nhiên lượng tử (nếu có) cũng không cho ta tự do, vì may rủi không phải là làm chủ. PhilPapers 2020 không hỏi riêng về định mệnh hay biết trước; hai câu bổ sung gần nhất cho thấy giới triết học còn chia rẽ về diễn giải cơ học lượng tử (không diễn giải nào quá 22%), và [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]% chấp nhận hoặc nghiêng về vĩnh cửu luận về thời gian (tương lai "tồn tại", nhưng điều đó không phải thuyết định mệnh).
 
 Đầu năm, nhiều người rủ nhau đi xem tử vi, xem bói. Người thì nghe cho vui, người thì thật sự tin: năm nay "sao xấu chiếu mệnh", nên làm gì cũng dè chừng. Đằng sau thói quen đó là một câu hỏi triết học rất cũ: tương lai là thứ đã được viết sẵn, chỉ chờ ta đọc — hay là thứ còn để ngỏ, chờ ta viết tiếp?
