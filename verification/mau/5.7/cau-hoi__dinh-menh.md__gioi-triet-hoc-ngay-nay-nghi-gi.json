@@ -1,0 +1,186 @@
+{
+  "unit": "cau-hoi/dinh-menh.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:3e818cb5e2e9e2b78ea38226d2270eeb7ebaa06a7fd89a78ab0cfeafdb9b0fa2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m03",
+  "claims": [
+    {
+      "text": "PhilPapers Survey 2020 không có câu hỏi riêng về thuyết định mệnh logic hay về vấn đề biết trước và tự do.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Đã rà Bảng 1 và Bảng 2: không có câu về fatalism hay divine foreknowledge"
+        }
+      ]
+    },
+    {
+      "text": "tương thích luận 59,2%, thuyết ý chí tự do 18,8%, không có tự do ý chí 11,2% — xem bài về tự do ý chí",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tu-do-y-chi",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Tự do ý chí (câu chính, n ≈ 1.760) Tương thích luận 59,2 Thuyết ý chí tự do (libertarianism) 18,8 Không có tự do ý chí 11,2"
+        }
+      ]
+    },
+    {
+      "text": "Bảng cơ học lượng tử (17,1 / 21,9 / 19,4 / 12,8 / 32,0; n ≈ 560) là câu bổ sung",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/co-hoc-luong-tu-dien-giai",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Quantum mechanics Collapse 95 17.1 82 14.7 Hidden-variables 122 21.9 104 18.7 Many-worlds 108 19.4 95 17.1 Epistemic 71 12.8 63 11.3 Other 178 32.0",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Bảng bản thể luận thời gian (18,4 / 39,9 / 17,0 / 24,9; n ≈ 730) là câu bổ sung",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-the-luan-thoi-gian",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Temporal ontology Presentism 135 18.4 Eternalism 293 39.9 Growing block 125 17.0 Other 183 24.9",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "We also added a further group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly)."
+        }
+      ],
+      "severity": "nhe",
+      "fix": "\\* Câu hỏi bổ sung (mỗi câu được giao ngẫu nhiên cho khoảng một phần sáu người tham gia, cộng với những người tự chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]]."
+    },
+    {
+      "text": "Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn; người chọn nhiều lựa chọn được tính vào mỗi lựa chọn, nên tổng có thể vượt 100%.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer."
+        }
+      ]
+    },
+    {
+      "text": "không diễn giải nào được quá 22%, và nhóm \"Khác\" lớn nhất (32,0%)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/co-hoc-luong-tu-dien-giai",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Hidden-variables 122 21.9 104 18.7 Many-worlds 108 19.4 95 17.1 Epistemic 71 12.8 63 11.3 Other 178 32.0"
+        }
+      ]
+    },
+    {
+      "text": "diễn giải biến ẩn kiểu Bohm và đa thế giới giữ được tính tất định ở một nghĩa nào đó, các thuyết sụp đổ hàm sóng thì không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "As much as any classical theory of point particles moving under force fields, then, Bohm’s theory is deterministic."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "On this approach, the deterministic and unitary evolution of quantum states is not interrupted (see the entry on the many-worlds interpretation of quantum mechanics)."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/determinism-causal/",
+          "quote": "The collapse process is usually postulated to be indeterministic"
+        }
+      ]
+    },
+    {
+      "text": "gần bốn trên mười người trả lời chấp nhận hoặc nghiêng về vĩnh cửu luận, tức coi tương lai \"tồn tại\" theo cách quá khứ tồn tại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-the-luan-thoi-gian",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Eternalism 293 39.9"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "According to eternalism, non-present objects like Socrates and future Martian outposts exist now, even though they are not currently present."
+        }
+      ]
+    },
+    {
+      "text": "vĩnh cửu luận là một luận đề về những gì tồn tại, không phải thuyết định mệnh. Nó không nói kết cục sẽ đến bất kể bạn làm gì",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "Does whether something is past, present, or future make a difference to whether it exists?"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "Fatalism can be understood as the doctrine that whatever will happen in the future is already unavoidable"
+        }
+      ]
+    },
+    {
+      "text": "Hiện tại luận và thuyết khối đang lớn thì cho rằng tương lai chưa tồn tại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "According to presentism, only present objects exist."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "only objects that are either past or present exist. On this view, which is often called the growing block theory"
+        }
+      ]
+    },
+    {
+      "text": "người trả lời là triết gia chuyên nghiệp, phần lớn ở các nước nói tiếng Anh, và hai câu trên là câu bổ sung nên ít người trả lời hơn hẳn câu chính",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "This allows broader information about views within the English-speaking philosophical community."
+        }
+      ]
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Một claim sai mức nhẹ: mô tả cách chọn người trả lời câu bổ sung chưa đúng (bài báo: mỗi câu giao ngẫu nhiên cho 1/6 người tham gia, cộng người tự chọn trả lời thêm). Không ảnh hưởng con số."
+}

@@ -1,0 +1,104 @@
+{
+  "unit": "cau-hoi/cong-nghe-ai.md#lien-he-doi-song",
+  "hash": "sha256:29352d976aa4dce3cd16a30df202e7c46666fc8c44ccee4dd06017d39bc17482",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m02",
+  "claims": [
+    {
+      "text": "Mạng xã hội và sự chú ý. Đây là ứng dụng trực tiếp nhất của lập trường 2. ... một hệ thống được thiết kế ... đã *dẫn dắt* bạn đến đó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“In all technological happenings”, Heidegger argues, “a sense rules, a sense which lays claim to human actions and omissions, and which was not first invented and made by human beings”"
+        }
+      ]
+    },
+    {
+      "text": "Lập trường 1 sẽ nói: lỗi ở bạn, sao không tự chủ? Lập trường 2 sẽ hỏi ngược ...",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "This conceptual connection between technical artifacts, functions, affordances, and goals seems to make it hard to maintain that technology is value-neutral."
+        }
+      ]
+    },
+    {
+      "text": "AI viết hộ bài: ... Lập trường 1 (trung lập) nghiêng về \"công cụ\" ... Lập trường 2 lo ngại sâu hơn ...",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/technology/",
+          "quote": "it hard to maintain that technology is value-neutral"
+        }
+      ]
+    },
+    {
+      "text": "Bài [Biết một điều nghĩa là gì?](tri-thuc.md) đã bàn về deepfake từ góc độ tri thức luận: khi video giả tràn lan, \"tôi tận mắt thấy\" không còn là bằng chứng chắc chắn.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "Deepfake có nguy cơ biến mạng xã hội thành vùng quê đó."
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tri-thuc/",
+          "quote": "thì \"tôi tận mắt thấy\" không còn là biện"
+        }
+      ]
+    },
+    {
+      "text": "Heidegger sẽ nói: đây chính là Gestell đang nói qua miệng ta — ta đã học cách nhìn *chính mình* như một cỗ máy cần tối ưu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "Heidegger’s name for the basic ontological characteristic of entities (including us humans) in the technological age is Bestand, often translated as “resource” but perhaps best translated as “stock”"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "“an ontologically reductive transformation of all entities into intrinsically meaningless resources on standby for optimization” (Thomson 2005: 75)"
+        }
+      ]
+    },
+    {
+      "text": "AI và công việc: ai bị thay thế đầu tiên? Một câu hỏi rất thực tế mà triết học công nghệ ít bàn nhưng ai cũng lo",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**AI và công việc: ai bị thay thế đầu tiên?** Một câu hỏi rất thực tế mà ai cũng lo, và đạo đức học AI đã bắt đầu bàn: khi AI làm được việc của bạn, bạn còn giá trị gì?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ethics-ai/",
+          "quote": "Philosophical responses to the issue of unemployment from AI have ranged from the alarmed (Carl Benedikt Frey and Osborne 2013; Westlake 2014) to the neutral"
+        }
+      ]
+    },
+    {
+      "text": "Lập trường 2 sẽ hỏi sâu hơn: nếu giá trị của con người lâu nay gắn với \"năng suất lao động\" — một cách nhìn đậm chất Gestell ...",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/heidegger/",
+          "quote": "For Dreyfus, the essence of technology is found in the technological preoccupation with flexibility and efficiency"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục chủ yếu là câu hỏi gợi mở, không có số liệu hay năm. Khái quát 'triết học công nghệ ít bàn' không có nguồn: mục Philosophy of Technology của SEP quả không có phần về việc làm, nhưng mục Ethics of AI có cả một phần về tự động hóa và việc làm, nên ghi nhe. Câu 'mọi thầy cô và phụ huynh hôm nay đều phải đối mặt' là tu từ, không ghi lỗi."
+}

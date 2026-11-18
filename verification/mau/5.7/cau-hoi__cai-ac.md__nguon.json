@@ -1,0 +1,89 @@
+{
+  "unit": "cau-hoi/cai-ac.md#nguon",
+  "hash": "sha256:b908cb8b66b82ebebcd1898c80026f1e9359d3028e9243def323e9033c673b0d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m01",
+  "claims": [
+    {
+      "text": "Calder, Todd, \"The Concept of Evil\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.concept-evil",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/",
+          "quote": "The Concept of Evil (Stanford Encyclopedia of Philosophy/Fall 2026 Edition)",
+          "where": "tiêu đề trang"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/",
+          "quote": "by Todd Calder",
+          "where": "Author and Citation Info"
+        }
+      ]
+    },
+    {
+      "text": "Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.arendt-hannah-1963-eichmann-in-jerusalem-a-report-on-the-ban",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/concept-evil/",
+          "quote": "1963 [1994], Eichmann in Jerusalem: A Report on the Banality of Evil",
+          "where": "Bibliography (tên sách, năm 1963)"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=eichmann+in+jerusalem&author=arendt&fields=title,publisher,first_publish_year,publish_place&limit=3",
+          "quote": "\"first_publish_year\":1963",
+          "where": "Open Library: năm in đầu; danh sách nhà xuất bản có \"Viking Press\""
+        }
+      ]
+    },
+    {
+      "text": "Augustine, *Confessions*, Quyển 7 (khoảng năm 397–400, phạm vi công cộng).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.augustine-confessions-quyen-7-khoang-nam-397400-pham-vi-cong",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/augustine/",
+          "quote": "The Confessiones (ca. 396–400; Toom 2020)",
+          "where": "mục 1 (SEP ghi ca. 396–400; bài ghi \"khoảng 397–400\", nằm trong khoảng này)"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/3/2/9/3296/3296-0.txt",
+          "quote": "That evil then which I sought, whence it is, is not any substance: for were it a substance, it should be good.",
+          "where": "Book VII (bản dịch Pusey, Gutenberg #3296): Quyển 7 đúng là nơi Augustine nói cái ác không phải thực thể"
+        }
+      ]
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Issue Volume 23 • 2023 Identifiers DOI: https://doi.org/10.3998/phimp.2109 Publication details Pages: 1–53 Article Number: 11",
+          "where": "trang bài trên journals.publishing.umich.edu"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey",
+          "where": "Crossref: tác giả David Bourget, David J. Chalmers"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng, và đã đối chiếu thêm bằng nguồn mở trong phiên. survey2020.philpeople.org trả 403 (kiểm tra chống bot Cloudflare) với curl; không vượt, link đúng mẫu và cũng có trong bản ghi kho đóng băng."
+}

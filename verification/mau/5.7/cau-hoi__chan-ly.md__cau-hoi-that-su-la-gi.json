@@ -1,0 +1,116 @@
+{
+  "unit": "cau-hoi/chan-ly.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:15f69ebe29fe7c3f54c144f913215b8a4e596ed67fc813eb6ef865e983752969",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m02",
+  "claims": [
+    {
+      "text": "Các lý thuyết dưới đây trả lời: một **sự kiện** (*fact* — \"điều có thật\", không phải \"biến cố\"); sự ăn khớp với các niềm tin khác; điểm đến của sự truy tìm; hoặc chẳng có \"cái gì làm cho\" cả.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-correspondence/",
+          "quote": "the correspondence theory of truth is the view that truth is correspondence to, or with, a fact"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "A belief is true if and only if it is part of a coherent system of beliefs."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Peirce is usually understood as holding the view that: Truth is the end of inquiry."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "If there is no substantial property of truth, or a strong form of the equivalence thesis holds, what role does our term ‘true’ play?"
+        }
+      ]
+    },
+    {
+      "text": "**nguyên tắc nhị trị** (*principle of bivalence*): mọi khẳng định hoặc đúng hoặc sai",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/realism/",
+          "quote": "the law of bivalence, that every meaningful sentence is determinately either true or false"
+        }
+      ]
+    },
+    {
+      "text": "bài [Mọi thứ đã được viết sẵn?](dinh-menh.md) gọi đó là \"logic hai giá trị\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dinh-menh/",
+          "quote": "logic hai giá trị (mọi câu hoặc đúng hoặc sai)"
+        }
+      ]
+    },
+    {
+      "text": "Nó khác với **nguyên tắc loại trừ thứ ba** (*law of excluded middle*): \"S hoặc không S\" luôn đúng — một định luật của logic, không phải một khẳng định về giá trị chân lý của từng câu.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-values/",
+          "quote": "the principle of bivalence taken as a metatheoretical principle, viz. that there exist only two distinct logical values. On the object-language level this principle finds its expression in the famous classical laws of excluded middle and non-contradiction."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "Excluded middle (LEM): \\(\\vdash A \\vee \\neg A\\)."
+        }
+      ]
+    },
+    {
+      "text": "Michael Dummett coi việc giữ hay buông nguyên tắc nhị trị với những câu không thể kiểm chứng là dấu hiệu phân biệt **hiện thực luận** (*realism*) với phản hiện thực.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "With Dummett (e.g., 1959, 1976, 1991), we might expect the characteristic mark of anti-realism to be the rejection of bivalence.",
+          "where": "§4.2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Any statement that reaches beyond what we can in principle verify or refute (verify its negation) will be a counter-example to bivalence."
+        }
+      ]
+    },
+    {
+      "text": "Mọi câu đúng có chung một bản chất ...? Hay \"đúng\" chỉ là một công cụ ngôn ngữ, như chữ \"vâng\" khi ta gật đầu?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Thus, truth is described as a device of disquotation.",
+          "where": "§5.3"
+        }
+      ]
+    },
+    {
+      "text": "Bài [Bảng chân trị](../cong-cu/logic-menh-de.md) dùng **chân trị** (*truth value*) như những giá trị có sẵn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/logic-menh-de/",
+          "quote": "Mệnh đề: câu có chân trị"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tiêu đề trang đích: 'Mọi thứ đã được viết sẵn?' và 'Bảng chân trị: khi lập luận thành phép tính' khớp nhãn link. Thuật ngữ lần đầu có tiếng Anh."
+}

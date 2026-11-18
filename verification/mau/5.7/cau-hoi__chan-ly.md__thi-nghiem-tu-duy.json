@@ -1,0 +1,104 @@
+{
+  "unit": "cau-hoi/chan-ly.md#thi-nghiem-tu-duy",
+  "hash": "sha256:17b1ddc568875f8981023c45b2e2eebcdc67ee69e67fe02e3777e40f8dc4a702",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m02",
+  "claims": [
+    {
+      "text": "Xét câu S: \"Sáng ngày 1 tháng 1 năm 1000, ở chỗ bây giờ là Hồ Gươm, có đúng bảy con chim đang đậu.\" ... Câu S đúng hoặc sai, chỉ là mãi mãi không ai biết? Hay vì không thể có cách nào biết, nó chẳng đúng cũng chẳng sai?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Any statement that reaches beyond what we can in principle verify or refute (verify its negation) will be a counter-example to bivalence.",
+          "where": "§4.2 Anti-realism and truth"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/",
+          "quote": "pragmatic theories cannot account for what Peirce called buried secrets: statements that would seem to be either true or false despite our inability to figure out which"
+        }
+      ]
+    },
+    {
+      "text": "Thí nghiệm là phiên bản của bài (không gán cho tác giả nào), dựng theo kiểu câu vượt khả năng kiểm chứng mà văn liệu bàn (ví dụ urani ở vùng vũ trụ quá xa).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Take, for instance, the claim that there is some substance, say uranium, present in some region of the universe too distant to be inspected by us within the expected lifespan of the universe.",
+          "where": "§4.2"
+        }
+      ]
+    },
+    {
+      "text": "Nếu bạn nói \"dĩ nhiên đúng hoặc sai, chim đậu hay không là chuyện của buổi sáng ấy\", bạn nghiêng về **thuyết tương ứng**.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "A correspondence theory of truth, of any kind, is often taken to embody a form of realism.",
+          "where": "§4.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "These theses imply that our claims are objectively true or false, depending on how the world they are about is.",
+          "where": "§4.1"
+        }
+      ]
+    },
+    {
+      "text": "Nếu bạn thấy vô nghĩa khi gọi \"đúng\" một câu mà không ai nhận ra được, bạn gần **thực dụng luận** và **thuyết tri thức**.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth/",
+          "quote": "Truth is to a significant degree an epistemic matter, which is typical of many anti-realist positions. As Dummett says, the verificationist notion of truth does not appear to support bivalence.",
+          "where": "§4.2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-pragmatic/",
+          "quote": "what Peirce called buried secrets"
+        }
+      ]
+    },
+    {
+      "text": "Biến thể để thử thêm, một câu đố cổ Hy Lạp: *\"Câu in nghiêng này là sai.\"* Nếu nó đúng thì nó sai; nếu nó sai thì nó đúng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/par-liar/",
+          "quote": "Both were discovered in ancient Greece. The oldest attribution of the Liar Paradox is to Eubulides of Miletus"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "Is the first sentence true? If it is, then it is a lie, and so it is not true."
+        }
+      ]
+    },
+    {
+      "text": "Trường hợp nào làm bạn lung lay hơn trước ý tưởng \"mọi câu đều hoặc đúng hoặc sai\"?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/liar-paradox/",
+          "quote": "An obvious response is to deny that every sentence is true or false, i.e., to deny the principle of bivalence."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Thí nghiệm do bài dựng, không gán cho tác giả nào nên không cần ghi phiên bản gốc. Gợi ý đối chiếu lập trường khớp SEP Truth §4.1–4.2. Câu đố kẻ nói dối: IEP gán cho Eubulides xứ Miletus (Hy Lạp cổ)."
+}

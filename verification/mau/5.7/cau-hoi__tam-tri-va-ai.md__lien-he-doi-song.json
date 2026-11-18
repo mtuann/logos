@@ -1,0 +1,112 @@
+{
+  "unit": "cau-hoi/tam-tri-va-ai.md#lien-he-doi-song",
+  "hash": "sha256:1417925818c6cbbef23b4e40e8a15925e726ef9701de783f6952593f5c523486",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m05",
+  "claims": [
+    {
+      "text": "Đạo luật AI của Liên minh châu Âu (EU AI Act), Điều 50, yêu cầu các hệ thống AI tương tác trực tiếp với con người phải cho người dùng biết họ đang tương tác với AI, trừ khi điều đó đã hiển nhiên.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727",
+          "quote": "Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect",
+          "where": "Điều 50(1), bản hợp nhất 27/07/2026"
+        }
+      ]
+    },
+    {
+      "text": "Theo các nguồn pháp lý hiện có, nghĩa vụ này áp dụng từ ngày 2/8/2026.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689",
+          "quote": "It shall apply from 2 August 2026.",
+          "where": "Điều 113, bản gốc OJ L 2024/1689"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727",
+          "quote": "Article 113 Entry into force and application This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . It shall apply from 2 August 2026.",
+          "where": "Điều 113 bản hợp nhất 27/07/2026 (sau sửa đổi bởi Quy định (EU) 2026/1744); các ngoại lệ (a)–(d) không gồm Điều 50, Điều 111(4) chỉ gia hạn Điều 50(2)"
+        }
+      ]
+    },
+    {
+      "text": "Tháng 11/2024, một nhóm nhà nghiên cứu (trong đó có Robert Long, Jeff Sebo, Jonathan Birch và David Chalmers) công bố báo cáo Taking AI Welfare Seriously",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.arxiv-org.abs-2411-00986",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "Submitted on 4 Nov 2024]"
+        },
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "Authors: Robert Long , Jeff Sebo , Patrick Butlin , Kathleen Finlinson , Kyle Fish , Jacqueline Harding , Jacob Pfau , Toni Sims , Jonathan Birch , David Chalmers"
+        }
+      ]
+    },
+    {
+      "text": "Họ không khẳng định AI hiện nay có ý thức. Họ lập luận rằng khả năng ấy trong tương lai gần đủ đáng kể để các công ty bắt đầu chuẩn bị từ bây giờ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "To be clear, our argument in this report is not that AI systems definitely are, or will be, conscious, robustly agentic, or otherwise morally significant."
+        },
+        {
+          "url": "https://arxiv.org/abs/2411.00986",
+          "quote": "It is an issue for the near future, and AI companies and other actors have a responsibility to start taking it seriously."
+        }
+      ]
+    },
+    {
+      "text": "Người phản đối lo rằng điều này có thể lấy đi nguồn lực cần cho những con người và động vật dễ tổn thương.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2411.00986",
+          "quote": "then we could end up diverting essential resources away from vulnerable humans and other animals who really needed them",
+          "where": "mục 1.2, rủi ro gán quá mức (chính báo cáo nêu)"
+        }
+      ]
+    },
+    {
+      "text": "Đây là một lựa chọn giữa hai loại sai lầm: đối xử tệ với một thực thể có cảm giác, hay dành sự quan tâm đạo đức cho một thứ không cảm thấy gì.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/html/2411.00986",
+          "quote": "we face two kinds of risk: the risk of over-attributing welfare and moral patienthood to nonhumans, and the risk of under-attributing these properties to nonhumans."
+        }
+      ]
+    },
+    {
+      "text": "Gắn bó với chatbot; Ở nơi làm việc (các câu hỏi gợi mở, không có dữ kiện)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tam-tri-va-ai/",
+          "quote": "Nhiều người tìm thấy sự an ủi trong các \"người bạn AI\".",
+          "where": "mục Liên hệ đời sống"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đã kiểm Điều 50(1) và Điều 113 trên cả bản gốc lẫn bản hợp nhất 27/07/2026 (Đạo luật đã được sửa bởi Quy định (EU) 2026/1744); mốc 2/8/2026 cho Điều 50(1) vẫn giữ. Ý 'người phản đối lo lấy đi nguồn lực' có trong chính báo cáo, mục rủi ro gán quá mức."
+}

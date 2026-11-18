@@ -1,0 +1,133 @@
+{
+  "unit": "cau-hoi/an-tu-hinh.md#_dau",
+  "hash": "sha256:574573fc31d011adc7c75a5cbc863557a6188f75bd0c642007c9e7b4aaab24b9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m01",
+  "claims": [
+    {
+      "text": "Bài đặt ba câu hỏi triết học: án tử hình biện minh bằng gì (báo ứng — \"xứng đáng\", Kant 1797 — hay hệ quả — răn đe cứu mạng), rủi ro oan sai không thể đảo ngược có chấp nhận được không, và trong thực tế án tử rơi lên ai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "works/chua-ro.metaphysik-der-sitten",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-social-political/",
+          "quote": "Part One of his two-part Metaphysics of Morals and first published as a stand-alone book in February 1797",
+          "where": "mục 1 (năm 1797); ba câu hỏi khớp mục 'Câu hỏi thật sự là gì?' của bài"
+        }
+      ]
+    },
+    {
+      "text": "Phe chống (từ Beccaria, 1764): hơn 200 ca minh oan trên hàng tử hình ở Mỹ kể từ 1973",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.deathpenaltyinfo-org.policy-issues-innocence",
+      "sources": [
+        {
+          "url": "https://deathpenaltyinfo.org/policy-issues/innocence",
+          "quote": "Since 1973, at least 203 people who were wrongly convicted and sentenced to death in the U.S. have been exonerated.",
+          "where": "đầu trang Innocence; năm 1764 của Beccaria khớp bản ghi đóng băng sources/sach.beccaria-cesare-1764-dei-delitti-e-delle-pene-livorno-coltel"
+        }
+      ]
+    },
+    {
+      "text": "Phe ủng hộ: có tội ác chỉ cái chết mới tương xứng, cộng với lập luận răn đe. ... cái chết không có nút hoàn tác, nên mọi mức rủi ro oan sai đều không chấp nhận được. Phe trung gian: giữ án tử trong luật nhưng gần như không dùng (chỉ cho tội đặc biệt nghiêm trọng, chứng cứ cao nhất), hoặc thay bằng tù chung thân không ân xá — đạt mọi mục tiêu thực tế mà vẫn sửa sai được.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "Some abolitionists focus on particular modes of punishment, such as capital punishment",
+          "where": "mục về chủ nghĩa bãi bỏ; tóm tắt khớp ba lập trường trong mục 'Các lập trường chính' của bài (đối chiếu docs/cau-hoi/an-tu-hinh.md)"
+        }
+      ]
+    },
+    {
+      "text": "trong câu bổ sung của PhilPapers 2020 (n ≈ [[pp:an-tu-hinh/n]]), [[pp:an-tu-hinh.khong-duoc-phep]]% triết gia trả lời chấp nhận hoặc nghiêng về \"không được phép\" và [[pp:an-tu-hinh.duoc-phep]]% \"được phép\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/an-tu-hinh"
+    },
+    {
+      "text": "Chữ \"án tử hình\" là Hán Việt: *án* (案, vụ việc đã xét xử) + *tử* (chết) + *hình* (刑, hình phạt)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6848",
+          "quote": "kDefinition table, bench; legal case",
+          "where": "Unihan U+6848 案"
+        },
+        {
+          "url": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6B7B",
+          "quote": "kDefinition die; dead; death",
+          "where": "Unihan U+6B7B 死"
+        },
+        {
+          "url": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=5211",
+          "quote": "kDefinition punishment, penalty; law",
+          "where": "Unihan U+5211 刑"
+        }
+      ]
+    },
+    {
+      "text": "Tiếng Anh *capital punishment* gốc Latin *caput* (cái đầu, và theo nghĩa rộng là mạng sống) — tội \"capital\" là tội phải trả bằng mạng.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/2/9/7/6/29765/29765-0.txt",
+          "quote": "L. capitalis capital (in senses 1 & 2), fr. caput head.",
+          "where": "Webster's Unabridged Dictionary (1913), Gutenberg #29765, mục CAPITAL (a.)"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/2/9/7/6/29765/29765-0.txt",
+          "quote": "Having reference to, or involving, the forfeiture of the head or life; affecting life; punishable with death; as, capital trials; capital punishment.",
+          "where": "như trên, nghĩa 2"
+        }
+      ]
+    },
+    {
+      "text": "Ngay từ gốc chữ đã thấy một điều: đây là hình phạt duy nhất mà một khi thi hành, không còn cách nào sửa sai.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Ngay từ gốc chữ đã thấy một điều: đây là hình phạt lấy đi chính mạng sống, nên một khi thi hành, không còn cách nào sửa sai với người bị xử.",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/2/9/7/6/29765/29765-0.txt",
+          "quote": "the forfeiture of the head or life",
+          "where": "gốc chữ chỉ nói 'mất đầu, mất mạng', không nói tính duy nhất"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "Some abolitionists focus on particular modes of punishment, such as capital punishment",
+          "where": "mục SEP về hình phạt không có khẳng định án tử là hình phạt duy nhất không sửa được"
+        }
+      ]
+    },
+    {
+      "text": "Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, và cái giá của sự biện minh đó là gì?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bài này hỏi ba câu hỏi triết học: án tử hình có thể được biện minh bằng gì, rủi ro oan sai có chấp nhận được không, và trong thực tế án tử rơi lên ai?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/",
+          "quote": "Some abolitionists focus on particular modes of punishment, such as capital punishment",
+          "where": "lỗi nội tại: câu báo 'ba câu hỏi' nhưng chỉ nêu hai; ba câu hỏi đúng là ba câu ở mục 'Câu hỏi thật sự là gì?' và ý 1 của Tóm tắt"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": false,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Lỗi vừa: câu 'hình phạt duy nhất ... không còn cách nào sửa sai' là khái quát không nguồn, trình bày như chắc chắn, và sai theo nghĩa chặt (các hình phạt thân thể gây thương tật vĩnh viễn cũng không sửa được); nó còn đứng sẵn về phía phe chống ngay ở phần mở đầu, trong khi chính thân bài (Phản bác chính ở lập trường 2) nêu lập luận rằng tù oan 30 năm 'cũng không lấy lại được'. Khối thời sự không kiểm; câu tóm tắt 'hơn 200 ca ... kể từ 1973' đối chiếu DPIC trong phiên (ít nhất 203). Beccaria 1764: chỉ dựa bản ghi kho đóng băng (iep.utm.edu/beccaria/ trả 404). etymonline, merriam-webster, perseus trả 403 với curl; dùng Webster 1913 trên mirror Gutenberg."
+}

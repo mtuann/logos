@@ -1,0 +1,144 @@
+{
+  "unit": "cau-hoi/dao-duc-ung-dung.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:8e25f23a0bed0f999a79ba82a142fea17e4d6e9a5c940d8c61768d1862baa228",
+  "checked_on": "2026-11-17",
+  "checker": "agent-mau-5.7-m03",
+  "claims": [
+    {
+      "text": "khảo sát PhilPapers 2020 có số liệu trực tiếp: một câu chính (hỏi mọi người tham gia) về việc ăn động vật và sản phẩm động vật; bảng 48,0 / 26,5 / 18,4 / 9,9",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/an-dong-vat-va-san-pham-dong-vat-trong-hoan-canh-binh-thuong",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Eating animals and animal products (is it permissible to eat animals and/or animal products in ordinary circumstances?) Omnivorism (yes and yes) 847 48.0 Vegetarianism (no and yes) 467 26.5 Veganism (no and no) 324 18.4 Other 174 9.9",
+          "where": "Bảng 1 (Main questions)"
+        }
+      ]
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, bài số 11, Bảng 1 (câu chính).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Volume 23 • 2023 Identifiers DOI: https://doi.org/10.3998/phimp.2109 Publication details Pages: 1–53 Article Number: 11"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi là: trong hoàn cảnh bình thường, ăn động vật và/hoặc sản phẩm động vật (sữa, trứng…) có được phép không. \"Ăn chay\" ở đây nghĩa là: ăn thịt thì không được phép, dùng sản phẩm động vật thì được.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "is it permissible to eat animals and/or animal products in ordinary circumstances?) Omnivorism (yes and yes) 847 48.0 Vegetarianism (no and yes)"
+        }
+      ]
+    },
+    {
+      "text": "Gần một nửa (48,0%) cho rằng ăn cả thịt lẫn sản phẩm động vật là được phép; nhưng cộng hai nhóm còn lại, khoảng 45% cho rằng ăn thịt là không được phép",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "We find that 44.9% of respondents accept or lean towards vegetarianism or veganism."
+        }
+      ]
+    },
+    {
+      "text": "Mẫu khảo sát có giới hạn: triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh hoặc viết bằng tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "including philosophers from around the world who publish in English. This allows broader information about views within the English-speaking philosophical community."
+        }
+      ]
+    },
+    {
+      "text": "Với câu hỏi thứ hai — bổn phận với người nghèo đói ở xa, và đến mức nào — khảo sát không có câu hỏi nào",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer.",
+          "where": "Đã rà danh sách 40 câu chính (Bảng 1) và 60 câu bổ sung (Bảng 2) trong bài và trong tools/philpapers-2020.md: không có câu về viện trợ/từ thiện/nghèo đói"
+        }
+      ]
+    },
+    {
+      "text": "Điều có thể nói chắc chắn là cả hai lập luận của Singer đều thuộc nhóm có ảnh hưởng thực tế lớn nhất của triết học đương đại",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "Peter Singer has been very influential in the debate concerning animals and ethics."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
+          "quote": "has also given rise to a growing social movement far beyond the quarters of philosophy departments and academic journals"
+        }
+      ],
+      "severity": "nhe",
+      "fix": "Có thể nói cả hai lập luận của Singer đều có ảnh hưởng thực tế rất lớn, vượt ra ngoài giới triết học:"
+    },
+    {
+      "text": "Animal Liberation được ghi nhận là ngòi nổ của phong trào quyền động vật toàn cầu",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The publication of his Animal Liberation marked the beginning of a growing and increasingly powerful movement in both the United States and Europe."
+        }
+      ],
+      "severity": "nhe",
+      "fix": "*Animal Liberation* được ghi nhận là đã mở đầu phong trào bảo vệ động vật ngày càng lớn mạnh ở Mỹ và châu Âu"
+    },
+    {
+      "text": "còn bài báo 1972 trở thành nguồn cảm hứng lớn cho phong trào \"vị tha hiệu quả\" (effective altruism) — cho đi một cách có tính toán để cứu được nhiều mạng nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "sources/sach.singer-peter-1972-famine-affluence-and-morality-philosophy-p",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
+          "quote": "Effective altruism’s roots, however, can be found in Peter Singer’s argument, dating back to his famous 1972 article, “Famine, Affluence, and Morality”"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
+          "quote": "effective altruism asks individuals how they can make the biggest difference or maximize the good they can do in the world"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều triết gia chấp nhận rằng ta có một số bổn phận với động vật và người nghèo, nhưng tranh luận gay gắt về mức độ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/principle-beneficence/",
+          "quote": "4. The Problem of Over-Demanding Beneficence Some philosophers defend extremely demanding and far-reaching principles of obligatory beneficence. Peter Singer’s theory has been the most widely discussed account."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hai claim sai mức nhẹ (khái quát hơi mạnh). Ghi chú thêm: định nghĩa 'cứu được nhiều mạng nhất' hẹp hơn 'maximize the good' của SEP nhưng chấp nhận được ở mức diễn giải."
+}
