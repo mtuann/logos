@@ -4083,7 +4083,7 @@ Bài này thuộc về triết học ngôn ngữ, nhưng câu hỏi của nó r�
 ## Thí nghiệm tư duy
 
 !!! question "Thí nghiệm tư duy"
-    Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản: một từ cho các màu tối/lạnh, một từ cho các màu sáng/nóng. Không có từ riêng cho "đỏ", "xanh", "vàng".
+    Người Dani ở vùng cao nguyên New Guinea nói một ngôn ngữ chỉ có hai từ màu cơ bản: một từ cho các màu tối, một từ cho các màu sáng. Không có từ riêng cho "đỏ", "xanh", "vàng".
 
     Hãy tưởng tượng bạn đưa một người Dani và một người Việt cùng nhìn một cầu vồng rực rỡ. Người Việt kể vanh vách: đỏ, cam, vàng, lục, lam, chàm, tím. Người Dani chỉ có thể nói: chỗ này "sáng", chỗ kia "tối".
 
@@ -6085,7 +6085,7 @@ Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, ph�
 
 !!! summary "Tóm tắt 5 phút"
     - Nói dối (định nghĩa truyền thống) là khẳng định điều mình tin là sai, với ý định người nghe tin là thật; nó khác nói sai mà tưởng đúng, khác gây hiểu lầm bằng câu đúng (Saul 2012: không vì thế mà "sạch" hơn), và khác "nói nhảm" (Frankfurt 1986).
-    - Tuyệt đối cấm ([Augustine](../triet-gia/augustine.md), khoảng 395; [Kant](../triet-gia/kant.md) 1785, 1797): không nói dối, kể cả với kẻ sát nhân gõ cửa. Phản bác: quá khắc nghiệt; Korsgaard (1986): ngay trong khung của Kant, nói dối kẻ đang lừa mình vẫn phổ quát hóa được.
+    - Tuyệt đối cấm ([Augustine](../triet-gia/augustine.md), khoảng 395; [Kant](../triet-gia/kant.md) 1785, 1797): không nói dối, kể cả với kẻ sát nhân gõ cửa. Phản bác: quá khắc nghiệt; Korsgaard (1986), dù theo Kant, cho rằng có những tình huống mà nói dối kẻ sát nhân là việc đúng nên làm.
     - Hệ quả luận ([Bentham](../triet-gia/bentham.md) 1789, [Mill](../triet-gia/mill.md) 1863): nói dối sai vì bào mòn lòng tin vào lời nói; quy tắc trung thực gần như không được phá, trừ ngoại lệ xác định rõ (giấu kẻ gian, giấu tin dữ với người bệnh nặng).
     - Đức hạnh và chữ tín ([Aristotle](../triet-gia/aristotle.md); *Luận ngữ* 2.22): trung thực là nét nhân cách, nhưng tín đứng dưới nghĩa. Quyền được biết sự thật (Grotius 1625, Bok 1978): nói dối xâm phạm quyền tự phán đoán của người nghe.
     - PhilPapers 2020 không hỏi về nói dối; câu gần nhất cho thấy giới triết học chia ba về lý thuyết đạo đức (đức hạnh [[pp:dao-duc-hoc-chuan-tac.dao-duc-hoc-duc-hanh]]%, nghĩa vụ [[pp:dao-duc-hoc-chuan-tac.nghia-vu-luan]]%, hệ quả [[pp:dao-duc-hoc-chuan-tac.he-qua-luan]]%). Bài không phân xử thay bạn.
@@ -6137,7 +6137,7 @@ Kant (1724–1804) đi tới cùng kết luận ấy bằng **nghĩa vụ luận
 
 **Phản bác chính.** Chẳng lẽ nguyên tắc quý hơn mạng người? Constant chỉ ra chỗ hở: bổn phận đi đôi với quyền; nói thật là bổn phận chỉ với người có quyền được biết sự thật, và không ai có quyền với một sự thật làm hại người khác. Lập luận hậu quả của Kant cũng lệch: nếu kẻ sát nhân tìm ra nạn nhân nhờ câu trả lời thật của bạn, sao bạn vô can?
 
-**Cách đáp lại.** Bổn phận của Kant chỉ áp cho lời khai *không thể tránh*: vẫn có thể im lặng, đóng cửa; điều bị cấm là khẳng định điều sai. Korsgaard đi xa hơn: kẻ sát nhân giả làm người bình thường, nên quy tắc "nói dối những kẻ như hắn" vẫn hiệu quả kể cả khi ai cũng theo; nghĩa là ngay trong khung của Kant, lời nói dối ấy vượt qua phép thử phổ quát hóa. Với bà, Kant đúng về lý tưởng, nhưng đối phó với cái ác cần nguyên tắc riêng. Còn Augustine chấp nhận cái giá: người ngay thẳng chịu hậu quả chứ không nói dối.
+**Cách đáp lại.** Bổn phận của Kant chỉ áp cho lời khai *không thể tránh*: vẫn có thể im lặng, đóng cửa; điều bị cấm là khẳng định điều sai. Korsgaard đi xa hơn: dù theo Kant, bà lập luận rằng có những tình huống mà nói dối kẻ sát nhân là việc đúng nên làm, xét mọi mặt. Với bà, Kant đặt ra một lý tưởng hành xử cao và đòi ta sống theo nó bất kể người khác làm gì, nhưng làm vậy trước cái ác có thể dẫn tới kết cục rất tệ. Còn Augustine chấp nhận cái giá: người ngay thẳng chịu hậu quả chứ không nói dối.
 
 ### 2. Hệ quả luận: nói dối sai vì gây hại, trước hết cho lòng tin
 
