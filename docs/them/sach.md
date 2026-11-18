@@ -4265,7 +4265,7 @@ Gợi ý độ dài: 150–300 chữ.
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: câu hỏi cũ của triết học thành câu hỏi thực tế — đằng sau những câu trả lời trôi chảy của chatbot, có *ai* ở đó không? Bài tách thành ba câu hỏi: hành vi thông minh, *hiểu* (ý hướng tính), và *ý thức* (cảm giác như thế nào).
-    - Bốn lập trường: chủ nghĩa chức năng — tâm trí là cái nó *làm*, silicon cũng có thể có tâm trí (tính đa hiện thực; thí nghiệm thay nơ-ron bằng chip của Chalmers 1996); Searle (căn phòng tiếng Trung, 1980) — cú pháp không đủ cho ngữ nghĩa, tâm trí cần sức mạnh nhân quả của não sinh học; phép thử Turing (1950) — hãy nhìn vào hành vi, nhưng Blockhead (Block 1981) và LLM cho thấy hành vi giống người chưa đủ; vấn đề khó (Chalmers 1995) — có thể ta không bao giờ biết chắc, nên dùng "đặc tính chỉ báo" để ước lượng (báo cáo Butlin & Long 2023; Cogitate 2025 không xác nhận trọn vẹn lý thuyết nào).
+    - Bốn lập trường: chủ nghĩa chức năng — tâm trí là cái nó *làm*, silicon cũng có thể có tâm trí (tính đa hiện thực; thí nghiệm thay nơ-ron bằng chip, được Chalmers phát triển năm 1996); Searle (căn phòng tiếng Trung, 1980) — cú pháp không đủ cho ngữ nghĩa, tâm trí cần sức mạnh nhân quả của não sinh học; phép thử Turing (1950) — hãy nhìn vào hành vi, nhưng Blockhead (Block 1981) và LLM cho thấy hành vi giống người chưa đủ; vấn đề khó (Chalmers 1995) — có thể ta không bao giờ biết chắc, nên dùng "đặc tính chỉ báo" để ước lượng (báo cáo Butlin & Long 2023; Cogitate 2025 không xác nhận trọn vẹn lý thuyết nào).
     - Thái độ của bài: câu hỏi vẫn bỏ ngỏ. Nếu zombie triết học hình dung được, thì không phép thử hành vi hay phép đo cấu trúc nào chứng minh dứt khoát được một cỗ máy có ý thức; những người theo hướng "đặc tính chỉ báo" đáp rằng khi không thể chắc chắn, một ước lượng có lý do vẫn tốt hơn đoán mò.
 
 Mười năm trước, câu hỏi này còn thuộc về phim khoa học viễn tưởng. Hôm nay, hàng trăm triệu người trò chuyện với chatbot mỗi tuần. Chúng viết thơ, giải thích bài tập, an ủi người đang buồn. Có người cảm ơn chúng. Có người làm bạn với chúng. Vậy câu hỏi cũ của triết học bỗng thành câu hỏi rất thực tế: đằng sau những câu trả lời trôi chảy ấy, có *ai* ở đó không?
@@ -5611,7 +5611,7 @@ Tuy vậy, có hai câu hỏi bổ sung chạm thẳng vào hai mạch của bà
 | | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
 | | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]].
+\* Câu hỏi bổ sung (mỗi câu được giao ngẫu nhiên cho khoảng một phần sáu người tham gia, cộng với những người tự chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]].
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người chọn nhiều lựa chọn được tính vào mỗi lựa chọn, nên tổng có thể vượt 100%.
 
@@ -7089,7 +7089,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ## Câu hỏi thật sự là gì?
 
-Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng nảy của tranh luận đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.
+Thí nghiệm trên chứa ba câu hỏi khác nhau, và một phần sự nóng nảy của tranh luận có lẽ đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.
 
 **Câu hỏi thứ nhất: thai nhi có phải là "người" có quyền sống không?** Đây là câu hỏi về *địa vị đạo đức* (*moral status*). Thai nhi ở tuần thứ 6 khác thai nhi ở tuần thứ 30; phôi thai khác trẻ sơ sinh. Câu hỏi là: tại điểm nào (nếu có) thì thực thể trong bụng mẹ trở thành một "người" mà việc giết là sai trái?
 

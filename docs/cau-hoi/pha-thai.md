@@ -35,7 +35,7 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
-Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng nảy của tranh luận đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.
+Thí nghiệm trên chứa ba câu hỏi khác nhau, và một phần sự nóng nảy của tranh luận có lẽ đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.
 
 **Câu hỏi thứ nhất: thai nhi có phải là "người" có quyền sống không?** Đây là câu hỏi về *địa vị đạo đức* (*moral status*). Thai nhi ở tuần thứ 6 khác thai nhi ở tuần thứ 30; phôi thai khác trẻ sơ sinh. Câu hỏi là: tại điểm nào (nếu có) thì thực thể trong bụng mẹ trở thành một "người" mà việc giết là sai trái?
 

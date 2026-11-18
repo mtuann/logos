@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/pha-thai.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:2afc1417d9bca7e923b906ed39e89941c315e994e5fb074a73044de4522cea95",
+  "hash": "sha256:3fb0c0dd7ffa7d402b357b92321aaa61c56ce6fd556ed679045e8089605dd46a",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05",
+  "checker": "agent-kiem-5.7-k11 + agent-kiem-5.7-r05 + claude-sau-mau-5.7",
   "claims": [
     {
       "text": "Câu hỏi thứ nhất: thai nhi có phải là \"người\" có quyền sống không? Đây là câu hỏi về địa vị đạo đức (moral status).",
@@ -54,6 +54,21 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Thí nghiệm trên chứa ba câu hỏi khác nhau, và phần lớn sự nóng nảy của tranh luận đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thí nghiệm trên chứa ba câu hỏi khác nhau, và một phần sự nóng nảy của tranh luận có lẽ đến từ việc người ta trả lời ba câu hỏi khác nhau mà tưởng mình đang tranh luận cùng một câu.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/abortion/",
+          "quote": "Note that the violinist case objection defends abortion while granting the claim that the fetus has a right to life.",
+          "where": "mục 1.2"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -64,5 +79,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cách chia ba câu hỏi khớp cấu trúc mục từ SEP (quyền sống, ca nghệ sĩ violin, phản hồi từ quan hệ tự nguyện). Lượt 2: 'Nhiều người cho rằng' đã sửa đúng fix, giữ fixed."
+  "notes": "Cách chia ba câu hỏi khớp cấu trúc mục từ SEP (quyền sống, ca nghệ sĩ violin, phản hồi từ quan hệ tự nguyện). Lượt 2: 'Nhiều người cho rằng' đã sửa đúng fix, giữ fixed. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

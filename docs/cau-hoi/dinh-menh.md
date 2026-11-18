@@ -145,7 +145,7 @@ Tuy vậy, có hai câu hỏi bổ sung chạm thẳng vào hai mạch của bà
 | | Thuyết khối đang lớn (quá khứ và hiện tại tồn tại, tương lai thì chưa) | [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]] |
 | | Khác | [[pp:ban-the-luan-thoi-gian.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]].
+\* Câu hỏi bổ sung (mỗi câu được giao ngẫu nhiên cho khoảng một phần sáu người tham gia, cộng với những người tự chọn trả lời thêm): cơ học lượng tử n ≈ [[pp:co-hoc-luong-tu-dien-giai/n]] người trả lời, bản thể luận thời gian n ≈ [[pp:ban-the-luan-thoi-gian/n]].
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; người chọn nhiều lựa chọn được tính vào mỗi lựa chọn, nên tổng có thể vượt 100%.
 
