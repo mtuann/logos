@@ -18,7 +18,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
 | 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Xong** 20/11/2026 (chờ CI để gắn tag `v1.5`; đóng băng 5.1–5.8 chủ biên duyệt 20/11/2026) — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
 | 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | **Xong** 20/11/2026 (chờ CI để gắn tag `v1.6`) — `ban-giao/dot-6.md`, nhật ký `ban-giao/nhat-ky-dot-6.md` |
-| 7 | Vận hành Mở rộng | từ 26/4/2027 | Chưa |
+| 7 | Vận hành Mở rộng | từ 26/4/2027 | **Đang làm** từ 20/11/2026 (chủ biên mở sớm) — `ban-giao/dot-7.md`, nhật ký `ban-giao/nhat-ky-dot-7.md` |
 
 Đợt 0 bắt đầu muộn một tuần (3/11 thay vì 26/10), nên đợt 1–3 lùi một tuần và đợt 4 rút còn một tuần để giữ kỳ nghỉ cuối năm. Không đủ thì phần còn lại của đợt 4 sang tuần 4/1/2027 và đợt 5 lùi theo. Đây là đề xuất; chủ biên chỉnh nếu cần.
 Material for MkDocs hết vòng đời ngày **5/5/2027**; bản đã ghim vẫn build được sau ngày đó (mục 11). Rà soát nền tảng hằng năm vào tháng 2, lần đầu **1/2/2027**.
