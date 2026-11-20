@@ -153,13 +153,13 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
  {
   "q": "Luận điểm trung tâm của Trần Đình Hượu trong *Đến hiện đại từ truyền thống* là gì?",
   "options": [
-   "Mỗi dân tộc có thể hiện đại hóa từ chính truyền thống của mình; nhiệm vụ là phân tích cụ thể yếu tố nào 'thuận', yếu tố nào 'nghịch'",
+   "Xây dựng văn hóa cho hiện tại và tương lai không tách rời truyền thống; muốn vậy phải nghiên cứu cụ thể truyền thống, cả mặt mạnh lẫn mặt hạn chế",
    "Chỉ có con đường Tây hóa mới dẫn đến hiện đại",
    "Truyền thống Việt Nam không có gì đáng giữ",
    "Hiện đại hóa đòi hỏi đoạn tuyệt hoàn toàn với truyền thống"
   ],
   "answer": 0,
-  "explain": "Trần Đình Hượu phản bác sự đồng nhất 'hiện đại hóa = Tây hóa = đoạn tuyệt truyền thống'. Ông đề xuất nghiên cứu cụ thể truyền thống để biết cái gì giữ, cái gì bỏ — thay vì chọn phe khẩu hiệu."
+  "explain": "Trần Đình Hượu coi văn hóa truyền thống như một sinh mệnh sống, và coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống. Ông chủ trương nhìn thực tế một cách lịch sử để tìm cách ứng xử, thay vì chọn phe khẩu hiệu."
  },
  {
   "q": "Tham vọng triết học của Trần Đức Thảo trong tác phẩm năm 1951 là gì?",
@@ -192,7 +192,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Ông phản đối Việt Nam"
   ],
   "answer": 2,
-  "explain": "Theo bài viết (một nhận định được đa số nhà nghiên cứu đồng ý), rào cản ngôn ngữ và hoàn cảnh lịch sử khiến tác phẩm của ông ít được biết đến trong nước, dù có giá trị."
+  "explain": "Theo bài viết, rào cản ngôn ngữ và hoàn cảnh chiến tranh khiến tác phẩm của ông ít đến được với độc giả trong nước; ngoài ra, sau năm 1956 ông bị cách chức ở Đại học Hà Nội."
  },
  {
   "q": "Khi tranh cãi về một phong tục (ví dụ: đốt vàng mã), cách đặt câu hỏi theo tinh thần Trần Đình Hượu là gì?",
@@ -211,7 +211,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 
 ## Tự viết {#tu-viet}
 
-**Câu hỏi:** Hãy chọn một phong tục, thói quen hay giá trị "truyền thống" trong gia đình hoặc địa phương bạn (cúng giỗ, cách xưng hô, nghề gia truyền, lễ hội...). Hãy phân tích nó theo cách của Trần Đình Hượu: nó gồm những yếu tố nào? Yếu tố nào "thuận", yếu tố nào "nghịch" với đời sống hiện đại? Và *bạn* sẽ giữ, bỏ, hay biến đổi nó như thế nào?
+**Câu hỏi:** Hãy chọn một phong tục, thói quen hay giá trị "truyền thống" trong gia đình hoặc địa phương bạn (cúng giỗ, cách xưng hô, nghề gia truyền, lễ hội...). Hãy phân tích nó bằng cách nghiên cứu cụ thể, như Trần Đình Hượu chủ trương với truyền thống: nó gồm những yếu tố nào? Yếu tố nào "thuận", yếu tố nào "nghịch" với đời sống hiện đại? Và *bạn* sẽ giữ, bỏ, hay biến đổi nó như thế nào?
 
 Trước khi viết, hãy thử làm một việc mà cả Trần Đình Hượu lẫn Trần Đức Thảo đều làm: *mô tả* trước khi *đánh giá*. Hãy viết ra những gì bạn quan sát được về phong tục đó — ai làm, làm thế nào, từ bao giờ, tốn kém ra sao — rồi mới chuyển sang phân tích thuận/nghịch. Bạn sẽ ngạc nhiên vì nhiều phán xét "giữ/bỏ" của ta thực ra dựa trên rất ít quan sát.
 
