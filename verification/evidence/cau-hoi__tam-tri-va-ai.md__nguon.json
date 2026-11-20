@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tam-tri-va-ai.md#nguon",
-  "hash": "sha256:31c12ce7daef902b0beb032797113967c3e21dd712d550c7e37cfacc4a8df7e5",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k05",
+  "hash": "sha256:7676575ab95896abc87666c1031cef678a4c05fcf0f8a94c2f7e5045f9ecfed9",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.7-k05 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "Turing, A. M. (1950). \"Computing Machinery and Intelligence\". *Mind* 59(236): 433–460. <https://doi.org/10.1093/mind/LIX.236.433>",
@@ -117,6 +117,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/web.eur-lex-europa-eu.eli-reg-2024-1689-oj"
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.chalmers-david-j-1996-the-conscious-mind-in-search-of-a-fund"
     }
   ],
   "checklist": {
@@ -127,5 +133,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Cả 19 dòng trùng nguyên văn bản ghi sources/* đã đóng băng. Đã mở lại trong phiên: các SEP bản lưu fall2026 (chinese-room, turing-test, functionalism, consciousness, other-minds), consc.net/papers/facing.html, arXiv 2303.07103 / 2308.08708 / 2411.00986, Crossref 10.1016/j.tics.2025.10.011, Nature s41586-025-08888-1, EUR-Lex 2024/1689: đều mở được."
+  "notes": "Cả 19 dòng trùng nguyên văn bản ghi sources/* đã đóng băng. Đã mở lại trong phiên: các SEP bản lưu fall2026 (chinese-room, turing-test, functionalism, consciousness, other-minds), consc.net/papers/facing.html, arXiv 2303.07103 / 2308.08708 / 2411.00986, Crossref 10.1016/j.tics.2025.10.011, Nature s41586-025-08888-1, EUR-Lex 2024/1689: đều mở được. [doi-loi] Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ban-nga-thoi-gian.md#nguon",
-  "hash": "sha256:ea19426b629e4918e6249f347ba005a2815d81456085f1bd52ea6b7010fd6c76",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k12",
+  "hash": "sha256:c66193a3185d09dfb94fc6eec49c7479859aa0ac0ebb0a123409fc795a2f6197",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k12 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "Đoạn được dẫn: Locke, *An Essay Concerning Human Understanding*, quyển II, chương 27 (\"Of Identity and Diversity\"); chương này có từ lần in thứ hai (London, 1694)",
@@ -66,6 +66,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.parfit-derek-1984-reasons-and-persons-oxford-oxford-universi"
     }
   ],
   "checklist": {
@@ -76,5 +82,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "gutenberg.org đang bảo trì khi kiểm; đã mở bản mirror gutenberg.pglaf.org cùng số ebook 10615 (chứa Quyển I–II, gồm chương XXVII)."
+  "notes": "gutenberg.org đang bảo trì khi kiểm; đã mở bản mirror gutenberg.pglaf.org cùng số ebook 10615 (chứa Quyển I–II, gồm chương XXVII). [doi-loi] Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

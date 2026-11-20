@@ -183,7 +183,7 @@ Viết 150–300 chữ. Nêu rõ lập trường của bạn, đưa ra ít nhấ
 3. Nagel, T. (1974). "What Is It Like to Be a Bat?". *The Philosophical Review* 83(4): 435–450. <https://doi.org/10.2307/2183914>
 4. Block, N. (1981). "Psychologism and Behaviorism". *The Philosophical Review* 90(1): 5–43. <https://doi.org/10.2307/2184371>
 5. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness". *Journal of Consciousness Studies* 2(3): 200–219. <https://consc.net/papers/facing.html>
-6. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+6. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
 7. Chalmers, D. J. (2023). "Could a Large Language Model be Conscious?". *Boston Review*; bản arXiv:2303.07103. <https://arxiv.org/abs/2303.07103>
 8. Butlin, P., Long, R. và cộng sự (2023). *Consciousness in Artificial Intelligence: Insights from the Science of Consciousness*. arXiv:2308.08708. <https://arxiv.org/abs/2308.08708>
 9. Butlin, P., Long, R. và cộng sự (2026). "Identifying indicators of consciousness in AI systems". *Trends in Cognitive Sciences* 30(6): 488–501. <https://doi.org/10.1016/j.tics.2025.10.011>
