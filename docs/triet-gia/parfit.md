@@ -65,7 +65,7 @@ Lập luận từ trường hợp “phân đôi” (*fission*) trong *Reasons a
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)
 - [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md)
 
-**Các bài khác nhắc tới Derek Parfit:** [Chết có đáng sợ không?](../cau-hoi/cai-chet.md), [Công lý là gì? Rawls và bức màn vô tri](../cau-hoi/cong-ly.md).
+**Các bài khác nhắc tới Derek Parfit:** [Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằng nhau?](../cau-hoi/binh-dang.md), [Chết có đáng sợ không?](../cau-hoi/cai-chet.md), [Công lý là gì? Rawls và bức màn vô tri](../cau-hoi/cong-ly.md).
 
 ## Nguồn
 
