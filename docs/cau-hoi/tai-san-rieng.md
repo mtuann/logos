@@ -108,7 +108,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Đọc số liệu cần thận trọng. Không câu nào hỏi về lý thuyết "trộn công sức lao động" của Locke hay về đồ dùng cá nhân; "chủ nghĩa tư bản" và "chủ nghĩa xã hội" cũng không được định nghĩa, nên người trả lời có thể hiểu rất khác nhau — từ kinh tế thị trường có phúc lợi rộng rãi đến sở hữu công cộng tư liệu sản xuất. Con số [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% cho thấy lập trường quyền sở hữu mạnh kiểu Nozick là thiểu số trong mẫu, nhưng mẫu chỉ gồm khoảng [[pp:chinh-tri-kinh-te/n]]–[[pp:triet-hoc-chinh-tri/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020: nó không đại diện cho mọi truyền thống, và đa số trong một nghề không quyết định lập luận nào đúng.
 
-Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc của các khóa học triết học chính trị, và các lời phê phán (từ Proudhon đến các nhà bình đẳng may mắn ngày nay) chưa bao giờ ngừng.
+Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc khi bàn về sở hữu, và các lời phê phán (từ Proudhon đến các nhà bình đẳng ngày nay) chưa bao giờ ngừng.
 
 Một điểm đáng chú ý: trong tranh luận học thuật ngày nay, câu hỏi đã dịch chuyển từ "có nên có sở hữu tư nhân không" sang "sở hữu *những gì* và *trong giới hạn nào*". Ngay trong luật học, định nghĩa sở hữu tư nhân hiếm khi trao cho chủ sở hữu quyền kiểm soát tuyệt đối, và cả những người bênh vực sở hữu mạnh nhất như Nozick cũng chấp nhận một giới hạn kiểu Locke. Chiến trường thật sự nằm ở giữa: thuế đến đâu là vừa, đất đai bỏ hoang có nên bị đánh thuế nặng không, tài nguyên thiên nhiên (dầu mỏ, nước ngầm) có khác nhà ở không.
 
