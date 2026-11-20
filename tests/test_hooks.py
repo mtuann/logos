@@ -232,3 +232,8 @@ class TestNgoac(unittest.TestCase):
     def test_dau_khoi_la_mo(self):
         self.assertEqual(ngoac.curl('<li>a"</li><li>"b"</li>'), "<li>a”</li><li>“b”</li>")
 
+    def test_post_page_giu_the_body(self):
+        html = '<html><head><title>a "b"</title></head><body dir="ltr" class="x"><p>"c"</p></body></html>'
+        self.assertEqual(ngoac.on_post_page(html, None, None),
+                         '<html><head><title>a "b"</title></head><body dir="ltr" class="x"><p>“c”</p></body></html>')
+
