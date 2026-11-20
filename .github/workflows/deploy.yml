@@ -91,10 +91,10 @@ jobs:
         run: uv run --frozen python tools/check_ledger.py --check
       - name: Nội dung có hạn dùng trong Lõi (chặn từ đợt 3; danh sách miễn data/style/volatile-allow.yml)
         run: uv run --frozen python tools/lint_volatile.py --strict -q
-      - name: Linter (chế độ cảnh báo, chưa chặn)
+      - name: Linter (chặn từ đợt 5.9; danh sách miễn ở data/style/)
         run: |
           for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do
-            uv run --frozen python tools/$l.py -q
+            uv run --frozen python tools/$l.py --strict -q
           done
       - name: Đơn vị thay đổi (không chặn)
         continue-on-error: true

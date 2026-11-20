@@ -154,7 +154,7 @@ uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng d�
 uv run python tools/kb_check.py --check          # kho dữ kiện data/kb/, data/people/ khớp schema/kb/ và tham chiếu chéo
 uv run python tools/thoi_su_check.py --check     # khối thời sự data/thoi-su/ khớp schema, mỗi khối dùng đúng một lần
 uv run python tools/lint_volatile.py --strict -q  # chặn từ đợt 3: có hạn dùng thì ở data/thoi-su/ hoặc data/style/volatile-allow.yml
-for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do uv run python tools/$l.py -q; done  # linter, chế độ cảnh báo
+for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do uv run python tools/$l.py --strict -q || break; done  # linter, chặn từ đợt 5.9
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
 npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
