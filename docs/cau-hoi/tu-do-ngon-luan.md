@@ -12,7 +12,7 @@ block: chinh-tri
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: ai cũng đồng ý "tự do ngôn luận là tốt" cho đến khi nghe điều mình ghê tởm — bài hỏi ba câu hỏi triết học: vì sao nó *đáng giá* (tìm ra sự thật, tôn trọng tự trị, điều kiện của dân chủ), giới hạn nằm ở *đâu*, và *ai* được phép vẽ giới hạn (nhà nước hay nền tảng tư nhân?).
-    - Ba lập trường: [Mill](../triet-gia/mill.md) (*On Liberty*, 1859) — ngay cả ý kiến sai cũng có ích (ý kiến bị cấm có thể đúng; ý kiến sai giữ cho chân lý sống, không thành giáo điều chết; chân lý đầy đủ cần va chạm), giới hạn bởi nguyên tắc gây hại: chỉ can thiệp để ngăn hại cho người khác; [Popper](../triet-gia/popper.md) (*The Open Society and Its Enemies*, 1945) — nghịch lý khoan dung: khoan dung vô hạn dẫn đến sự biến mất của khoan dung, nên phải không khoan dung với sự không khoan dung (nhưng bar rất cao: chỉ khi đối phương từ chối tranh luận bằng lý lẽ); phe "lời nói cũng là hành động" — ngôn từ thù hận đẩy nhóm người ra khỏi đời sống công cộng, tin giả có hệ thống không phải "ý kiến" trong chợ ý tưởng của Mill; cần phân biệt *quyền được nói* với *quyền được khuếch đại*.
+    - Ba lập trường: [Mill](../triet-gia/mill.md) (*On Liberty*, 1859) — ngay cả ý kiến sai cũng có ích (ý kiến bị cấm có thể đúng; ý kiến sai giữ cho chân lý sống, không thành giáo điều chết; chân lý đầy đủ cần va chạm), giới hạn bởi nguyên tắc gây hại: chỉ can thiệp để ngăn hại cho người khác; [Popper](../triet-gia/popper.md) (*The Open Society and Its Enemies*, 1945) — nghịch lý khoan dung: khoan dung vô hạn dẫn đến sự biến mất của khoan dung, nên phải không khoan dung với sự không khoan dung (đàn áp các triết lý không khoan dung chỉ khi đối phương từ chối tranh luận bằng lý lẽ; nhưng Popper cũng muốn coi việc kích động sự không khoan dung là tội phạm); phe "lời nói cũng là hành động" — ngôn từ thù hận đẩy nhóm người ra khỏi đời sống công cộng, tin giả có hệ thống không phải "ý kiến" trong chợ ý tưởng của Mill; cần phân biệt *quyền được nói* với *quyền được khuếch đại*.
     - Thái độ của bài: không bàn luật pháp nước nào hôm nay; câu hỏi không phải "có nên giới hạn lời nói không" (luôn là có — vu khống, lừa đảo, xúi giục) mà là giới hạn ở đâu, với tiêu chí cụ thể kiểm chứng được.
 
 Hầu như ai cũng đồng ý "tự do ngôn luận là tốt" — cho đến khi nghe một điều mình thấy ghê tởm, sai trái, hoặc nguy hiểm. Người phủ nhận vắc-xin giữa đại dịch. Kẻ hô hào thù hận một nhóm người. Người loan tin giả để trục lợi. Lúc đó, câu hỏi trở nên khó: tự do ngôn luận có bao gồm *những lời nói này* không? Và nếu không, ai là người quyết định ranh giới — nhà nước, hay mỗi nền tảng, mỗi cộng đồng?
@@ -114,12 +114,12 @@ Một lưu ý về cách đọc bài này, tương tự [bài về dân chủ](d
 
 > **Ba lý do bảo vệ cả ý kiến sai:** (1) Ý kiến bị cấm có thể đúng — kẻ cấm đoán tự cho mình không bao giờ sai. (2) Ngay cả ý kiến sai cũng giữ cho chân lý sống — buộc ta phải hiểu *vì sao* mình đúng thay vì lặp lại giáo điều chết. (3) Chân lý đầy đủ thường nằm ở sự va chạm giữa ý kiến phổ biến và ý kiến thiểu số.
 
-*The Open Society and Its Enemies* (1945) của Popper còn bản quyền, nên bài này chỉ tóm tắt: khoan dung vô hạn tự hủy; xã hội khoan dung phải không khoan dung với sự không khoan dung — nhưng chỉ khi kẻ không khoan dung từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực hoặc đe dọa.
+*The Open Society and Its Enemies* (1945) của Popper còn bản quyền, nên bài này chỉ tóm tắt: khoan dung vô hạn tự hủy; xã hội khoan dung phải không khoan dung với sự không khoan dung. Đàn áp các triết lý không khoan dung chỉ chính đáng khi kẻ không khoan dung từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực hoặc đe dọa; còn việc kích động sự không khoan dung hay ngược đãi thì Popper muốn coi là tội phạm, như kích động giết người.
 
 Câu hỏi dẫn dắt:
 
 1. Mill phân biệt nói trên báo (được) với gào vào mặt đám đông kích động (có thể cấm). Bạn có thấy ranh giới "hoàn cảnh và hậu quả có thể thấy trước" này áp dụng được cho mạng xã hội không — nơi "đám đông" là hàng triệu người vô hình?
-2. Popper đặt bar rất cao cho việc dùng biện pháp cưỡng chế: chỉ khi đối phương từ chối tranh luận bằng lý lẽ. Hãy thử áp vào một trường hợp cụ thể mà bạn biết: bên kia đã "từ chối tranh luận" chưa, hay chỉ là tranh luận dở?
+2. Popper chỉ chấp nhận đàn áp các triết lý không khoan dung khi đối phương từ chối tranh luận bằng lý lẽ (dù ông cũng muốn coi việc kích động sự không khoan dung là tội phạm). Hãy thử áp vào một trường hợp cụ thể mà bạn biết: bên kia đã "từ chối tranh luận" chưa, hay chỉ là tranh luận dở?
 3. Phe "ngôn từ gây hại" phân biệt "quyền được nói" với "quyền được khuếch đại". Bạn có chấp nhận sự phân biệt này không? Nó có hệ quả gì cho cách ta nghĩ về thuật toán của mạng xã hội?
 
 Đọc thêm: [hướng dẫn đọc Mill, *Bàn về tự do*, chương 2](../doc/mill-tu-do.md) và ["Khai sáng là gì?" của Kant](../doc/kant-khai-sang.md) (quyền sử dụng lý trí một cách công khai).
@@ -164,7 +164,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Nghịch lý này đã được giải quyết xong nên không cần bàn"
   ],
   "answer": 0,
-  "explain": "Popper: xã hội khoan dung phải không khoan dung với sự không khoan dung — nhưng ông đặt bar rất cao: chỉ khi đối phương từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực/đe dọa. Ý kiến chỉ 'khó chịu' hay 'sai' thì vẫn phải được tranh luận."
+  "explain": "Popper: xã hội khoan dung phải không khoan dung với sự không khoan dung. Ông chỉ chấp nhận đàn áp các triết lý không khoan dung khi đối phương từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực/đe dọa — dù ông cũng muốn coi việc kích động sự không khoan dung là tội phạm. Ý kiến chỉ 'khó chịu' hay 'sai' thì vẫn phải được tranh luận."
  },
  {
   "q": "Luận điểm 'quyền được nói khác quyền được khuếch đại' của phe 'ngôn từ gây hại' có ý nghĩa gì?",
