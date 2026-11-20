@@ -12,7 +12,7 @@ block: sieu-hinh
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: lập luận của Bostrom ("Are You Living in a Computer Simulation?", 2003) chạm vào câu hỏi siêu hình học cổ điển dưới lớp áo mới — làm sao ta biết thực tại mình sống là thực tại *gốc*?
-    - Ba lập trường: bộ ba của Bostrom — ít nhất một trong ba đúng: nhân loại tuyệt chủng trước giai đoạn hậu-nhân loại, nền văn minh tương lai không chạy mô phỏng tổ tiên, hoặc ta đang sống trong mô phỏng (điểm yếu: giả định ý thức "chạy" được trên máy); phản bác tính khoa học — giả thuyết không thể bác bỏ thì trống rỗng như giả thuyết "vũ trụ tạo ra 5 phút trước" (Putnam, "bộ não trong bể", 1981: giả thuyết hoài nghi tự triệt tiêu chính mình); thái độ thực dụng — dù đúng hay sai cũng chẳng thay đổi gì: mặt trời vẫn mọc, ta vẫn nên yêu thương và giữ lời hứa.
+    - Ba lập trường: bộ ba của Bostrom — ít nhất một trong ba đúng: nhân loại tuyệt chủng trước giai đoạn hậu-nhân loại, nền văn minh tương lai không chạy mô phỏng tổ tiên, hoặc ta đang sống trong mô phỏng (điểm yếu: giả định ý thức "chạy" được trên máy); phản bác tính khoa học — giả thuyết không thể bác bỏ thì trống rỗng như giả thuyết "vũ trụ tạo ra 5 phút trước"; Putnam ("bộ não trong bể", 1981) tấn công theo hướng khác: giả thuyết hoài nghi không trống rỗng mà tự triệt tiêu chính mình; thái độ thực dụng — dù đúng hay sai cũng chẳng thay đổi gì: mặt trời vẫn mọc, ta vẫn nên yêu thương và giữ lời hứa.
     - Thái độ của bài: đọc cả ba rồi tự quyết định; lập trường 3 (thái độ thực dụng) rút bài học từ các giả thuyết hoài nghi cổ điển (ác thần của [Descartes](../triet-gia/descartes.md)): hoài nghi triệt để không nuôi sống được ai; tò mò thì cứ tò mò, nhưng đừng để giả thuyết thành cái cớ buông xuôi; triết học cuối cùng phải trả lời: vậy thì tôi nên sống ra sao?
 
 Năm 2003, triết gia Nick Bostrom đăng một bài báo với tiêu đề gây choáng: "Are You Living in a Computer Simulation?" (*Philosophical Quarterly*). Lập luận của ông không cần đến kính thiên văn hay máy gia tốc — chỉ cần một chút toán xác suất và một giả định về tương lai của công nghệ. Kết luận: ít nhất một trong ba khả năng phải đúng, và một trong ba khả năng đó là bạn — đúng vậy, bạn đang đọc những dòng này — là một nhân vật trong một chương trình mô phỏng do một nền văn minh khác chạy.
@@ -153,7 +153,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Chứng minh ta đang sống trong mô phỏng",
    "Chứng minh não có thể tồn tại ngoài cơ thể",
    "Chứng minh mô phỏng là có thể về mặt kỹ thuật",
-   "Ủng hộ lập trường phản bác: nếu ta thực sự là não trong bể, từ 'bể' của ta không chỉ được cái bể thật bên ngoài — giả thuyết hoài nghi tự triệt tiêu chính mình về mặt ngữ nghĩa"
+   "Phản bác giả thuyết hoài nghi theo một hướng khác với lập luận 'không thể kiểm chứng': nếu ta thực sự là não trong bể, từ 'bể' của ta không chỉ được cái bể thật bên ngoài — giả thuyết hoài nghi tự triệt tiêu chính mình về mặt ngữ nghĩa"
   ],
   "answer": 3,
   "explain": "Putnam không bàn kỹ thuật mà bàn ngôn ngữ: nội dung của từ ngữ phụ thuộc vào quan hệ nhân quả với thế giới — nên câu 'ta là não trong bể', nếu đúng, lại không thể được nói ra một cách đúng đắn."
