@@ -14235,7 +14235,7 @@ Thử xem bạn nắm được đến đâu.
 <div class="oz-quiz" data-id="vietnam-2" data-skill="vietnam" markdown="0">
 <script type="application/json">
 [
- {"q": "Nguyễn Trãi đã làm gì với khái niệm 'nhân nghĩa' của Nho giáo trong Bình Ngô đại cáo?", "options": ["Giữ nguyên định nghĩa gốc của Khổng Tử", "Định nghĩa lại: nhân nghĩa cốt ở yên dân, và trừ bạo là bổn phận — biến nó thành lý lẽ của độc lập dân tộc", "Bác bỏ khái niệm nhân nghĩa", "Thay nhân nghĩa bằng pháp trị"], "answer": 1, "explain": "Văn bản còn nguyên: 'Việc nhân nghĩa cốt ở yên dân, quân điếu phạt trước lo trừ bạo.' Từ khái niệm đạo đức cá nhân, Nguyễn Trãi nâng nhân nghĩa thành tiêu chuẩn chính trị: dân có yên không, kẻ bạo ngược có bị trừ không."},
+ {"q": "Nguyễn Trãi đã làm gì với khái niệm 'nhân nghĩa' của Nho giáo trong Bình Ngô đại cáo?", "options": ["Giữ nguyên định nghĩa gốc của Khổng Tử", "Định nghĩa lại: nhân nghĩa cốt ở yên dân, và trừ bạo là bổn phận — biến nó thành lý lẽ của độc lập dân tộc", "Bác bỏ khái niệm nhân nghĩa", "Thay nhân nghĩa bằng pháp trị"], "answer": 1, "explain": "Văn bản còn nguyên: 'Việc nhân nghĩa cốt ở yên dân, quân điếu phạt trước lo trừ bạo.' Nguyễn Trãi lấy nhân nghĩa — vốn đã là thước đo trị nước từ Mạnh Tử — làm lý lẽ cho cuộc kháng chiến: dân có yên không, kẻ bạo ngược có bị trừ không."},
  {"q": "Theo lập trường 'Việt hóa' trong bài, Nho giáo Việt Nam khác Nho giáo Trung Hoa ở điểm nào?", "options": ["Người Việt không học chữ Hán", "Được Việt hóa theo hướng thực tiễn, ít siêu hình, gắn với yêu nước và độc lập dân tộc", "Bỏ hoàn toàn tam cương ngũ thường", "Chỉ tồn tại ở miền Bắc"], "answer": 1, "explain": "Lập trường Việt hóa (một quan điểm trong giới nghiên cứu) cho rằng người Việt chọn lọc mặt thực tiễn, đạo đức của Nho giáo, ít quan tâm mặt siêu hình của Tống Nho, và gắn nó với sự nghiệp giữ nước."},
  {"q": "Phản bác mạnh nhất nhằm vào lập trường 'Nho giáo Việt chỉ là sao chép' là gì?", "options": ["Người Việt không biết chữ Hán", "Một công cụ sao chép thuần túy không thể quay ngược chống lại chủ của nó — Nho giáo trong tay sĩ phu Việt lại thành lý lẽ chống xâm lược, chứng tỏ đã có biến đổi thực chất", "Nho giáo Trung Hoa đã biến mất", "Chu Văn An không phải nhà Nho"], "answer": 1, "explain": "Cùng một học thuyết, ở Trung Hoa là công cụ của 'thiên triều', ở Việt Nam thành lý lẽ của độc lập. Sự 'quay ngược' ấy không thể giải thích bằng sao chép thuần túy."},
  {"q": "Theo 'định nghĩa động' về truyền thống trong bài, Nguyễn Trãi là người như thế nào?", "options": ["Phản bội truyền thống Nho giáo", "Người viết tiếp truyền thống: vẫn nói ngôn ngữ Nho giáo (nhân, nghĩa, dân) nhưng nói một câu mới bằng ngôn ngữ cũ", "Người không hiểu Nho giáo", "Người sáng lập một tôn giáo mới"], "answer": 1, "explain": "Định nghĩa động coi truyền thống là dòng chảy tiếp nối có biến đổi. Nguyễn Trãi không phá bỏ ngôn ngữ Nho giáo mà dùng chính nó để diễn đạt tư tưởng mới — đó là 'viết tiếp', không phải 'viết khác'."},
@@ -14258,7 +14258,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
-Mục SEP "Confucius": các khái niệm Nho giáo chung (nhân, nghĩa, tam cương).
+Mục SEP "Confucius": các khái niệm Nho giáo chung (nhân, nghĩa, lễ, hiếu).
 
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
@@ -14266,6 +14266,7 @@ Mục SEP "Confucius": các khái niệm Nho giáo chung (nhân, nghĩa, tam cư
 4. Csikszentmihalyi, Mark, "Confucius", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>
 5. *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (Bùi Huy Bích, 1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>
 6. Bản dịch trong *Việt Nam sử lược* (Trần Trọng Kim, 1920) và trong *Lam Sơn thực lục* (Mạc Bảo Thần dịch, 1944; có nguyên văn chữ Hán), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Trần_Trọng_Kim_dịch)>; <https://vi.wikisource.org/wiki/Lam_Sơn_thực_lục/Cuốn_thứ_ba>
+7. *Bình Ngô đại cáo*, bản dịch của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)>
 
 <div class="oz-page-break"></div>
 
