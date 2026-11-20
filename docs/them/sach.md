@@ -10370,7 +10370,7 @@ Nội dung cụ thể của các nghĩa vụ này là điều gây tranh cãi. �
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về biên giới, di cư hay đạo đức nhập cư trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
-Trong giới triết học, đạo đức nhập cư là một ngành bùng nổ từ sau bài báo 1987 của Carens — với hàng loạt công trình bênh vực và phản bác cả hai phía, từ "biên giới mở hoàn toàn" đến "quyền loại trừ gần như tuyệt đối". Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "quốc gia có quyền đóng cửa biên giới không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
+Trong giới triết học, đạo đức nhập cư đã thành một lĩnh vực sôi động từ cuối thập niên 1980 — bài báo 1987 của Carens là một trong những văn bản kinh điển của nó — với hàng loạt công trình bênh vực và phản bác cả hai phía, từ "biên giới mở hoàn toàn" đến "quyền loại trừ gần như tuyệt đối". Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "quốc gia có quyền đóng cửa biên giới không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
 Một điểm đáng chú ý: không giống nhiều chủ đề triết học khác, tranh luận về biên giới có một "phòng thí nghiệm thực tế" khổng lồ — chính sách nhập cư của các nước, các cuộc khủng hoảng người tị nạn, và dư luận công chúng. Triết học ở đây không bay bổng trên mây; mỗi lập luận đều có thể đối chiếu với hậu quả thật của chính sách thật.
 
