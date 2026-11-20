@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/rawls",
-  "hash": "sha256:8332c027ba1384954a1859c72514de73fb531b34608c27edc26bf30a1a61b1f9",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r09",
+  "hash": "sha256:89833f2a704457640c41894daa0d76bb728d5bce221ac5e323bd168268a9da9a",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.3-r09 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "desc: hồi sinh triết học chính trị bằng câu hỏi về nguyên tắc công lý chọn khi không biết vị trí của mình",
@@ -390,8 +390,14 @@
           "where": "đọc từ docs; 'Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằng nhau?'; 'Vì sao phải vâng lời nhà nước? Khế ước xã hội'; 'Đúng sai có khách quan không?'"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Rawls, John (1971), *A Theory of Justice*, Cambridge, MA: Harvard University Press (tái bản sửa đổi 1999).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.rawls-john-1971-a-theory-of-justice-cambridge-ma-harvard-uni"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r09): SEP fall2026 Nozick’s Political Philosophy (Nozick về Harvard 1969; ASU 1974 phê phán nguyên tắc chênh lệch; lời đáp trực tiếp của Rawls, dẫn PL 283), SEP John Rawls (bản sửa 1999 trong Bibliography; maximin không dùng cho nguyên tắc chênh lệch; ‘thought experiment’), SEP Original Position §2 và §6.2 (khế ước giả định theo Hobbes, Locke, Rousseau, Kant; hai điều kiện cuối then chốt, JF 99). Chữ của Rawls (‘observable pattern’, ‘background justice’) đối chiếu ở bài ‘The Basic Structure as Subject’ (Values and Morals 1978, bản đầu của PL Bài giảng VII) qua tìm toàn văn Internet Archive; bản Political Liberalism ở Internet Archive là bản cho mượn, không đọc trực tiếp được. Năm 1974 của ASU khớp kho works/nozick.anarchy-state-and-utopia. | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h06): SEP rawls fall2026, SEP original-position fall2026, Crossref cho DOI Harsanyi. Chưa kiểm: Nozick 1974, câu đáp của Rawls về điều kiện cuối, ngộ nhận 2 (khế ước giả định), bản sửa 1999 của ATJ (sách in; không có URL, đề xuất trang Harvard University Press). "
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r09): SEP fall2026 Nozick’s Political Philosophy (Nozick về Harvard 1969; ASU 1974 phê phán nguyên tắc chênh lệch; lời đáp trực tiếp của Rawls, dẫn PL 283), SEP John Rawls (bản sửa 1999 trong Bibliography; maximin không dùng cho nguyên tắc chênh lệch; ‘thought experiment’), SEP Original Position §2 và §6.2 (khế ước giả định theo Hobbes, Locke, Rousseau, Kant; hai điều kiện cuối then chốt, JF 99). Chữ của Rawls (‘observable pattern’, ‘background justice’) đối chiếu ở bài ‘The Basic Structure as Subject’ (Values and Morals 1978, bản đầu của PL Bài giảng VII) qua tìm toàn văn Internet Archive; bản Political Liberalism ở Internet Archive là bản cho mượn, không đọc trực tiếp được. Năm 1974 của ASU khớp kho works/nozick.anarchy-state-and-utopia. | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h06): SEP rawls fall2026, SEP original-position fall2026, Crossref cho DOI Harsanyi. Chưa kiểm: Nozick 1974, câu đáp của Rawls về điều kiện cuối, ngộ nhận 2 (khế ước giả định), bản sửa 1999 của ATJ (sách in; không có URL, đề xuất trang Harvard University Press).  [doi-loi] Dòng Nguồn sách in ghi theo quy ước chung (năm sau tên tác giả; quyết định 36, việc 7.1.1). Parfit: nhà xuất bản theo SEP Personal Identity (\"1984, Reasons and Persons . Oxford: Oxford University Press.\") và Crossref (DOI 10.1093/019824908x.001.0001, Oxford University Press)."
 }

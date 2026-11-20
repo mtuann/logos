@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/parfit",
-  "hash": "sha256:2d4be9877068e00e871f511e15db3dea99796e18f2563daac99577b4dff27e4a",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r09",
+  "hash": "sha256:9ebae361672e6bf2f090c92b93e1782d189928b907bfb7f55f03edda44b25be8",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.3-r09 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "Parfit 1942–2017",
@@ -492,8 +492,14 @@
           "where": "tóm tắt quan điểm của Parfit"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.parfit-derek-1984-reasons-and-persons-oxford-oxford-universi"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r09): đọc toàn văn Reasons and Persons ở Internet Archive (reasons-and-persons-derek-parfit_202601; số trang theo bản OUP 1984: Buddha tr. 273, 280, 502–3), KU ScholarWorks (Equality or Priority?, hdl 1808/12405), Editor’s Note của bài PPA 2017 (bản in lại PDF ở The Philosopher’s Annual 37; trang Wiley bị Cloudflare chặn, không vào), SEP Egalitarianism §6.1. Ba claim sai nhẹ, fix là câu thay thế: (10) nguồn chỉ nói ông gửi bản thảo ngày 1/1 và mất rạng sáng 2/1, không nói ‘vài giờ’; (11) câu ‘Đức Phật hẳn sẽ đồng ý’ ở cuối §92, không ở Phụ lục J; ví dụ cỗ xe trong Phụ lục J là một bài kệ (chú 28 ghi “Cila Mara”, dẫn Stcherbatsky), còn Thanh tịnh đạo là đoạn trích cuối; (20) ví dụ của Parfit là đột quỵ/chấn thương, không phải cắt bỏ bán cầu não chữa động kinh (với động kinh ông nói về cắt bó sợi nối). Phần còn lại của lập luận phân đôi (claim thêm ở cuối) đúng. Equality or Priority?: bài giảng Lindley ngày 21/11/1991, bản in ©1995 (đề xuất link https://hdl.handle.net/1808/12405). | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h01): không có claim sai. Chưa kiểm được: bài viết cuối gửi đi vài giờ trước khi mất; Phụ lục J/Phật giáo (Donegan 2020 chỉ xác nhận Visuddhimagga có quan điểm quy giản giống Parfit); 'Equality or Priority?' 1995 (Crossref chỉ có Ratio 1997 'Equality and Priority'); lập luận fission/hemispherectomy, nội dung Williams 1970 và phần reply (cần Reasons and Persons, sách in, mục Nguồn không có URL - nên thêm trang nhà xuất bản/OUP DOI 10.1093/019824908X.001.0001 nếu có; chưa kiểm). Nguồn tiểu sử chính: Dancy, British Academy memoir (PDF, đọc bằng pdf.js trong tab). Related: tiêu đề cai-toi.md trong repo dùng nháy đơn thẳng, hồ sơ dùng nháy kép cong (khác kiểu chữ). | 10/11/2026 (sổ sách, Claude): bio cuối, thoughts 1, tiền đề 1 viết lại đúng ba câu fix, đánh dấu fixed; cập nhật mã băm, không mở lại nguồn."
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r09): đọc toàn văn Reasons and Persons ở Internet Archive (reasons-and-persons-derek-parfit_202601; số trang theo bản OUP 1984: Buddha tr. 273, 280, 502–3), KU ScholarWorks (Equality or Priority?, hdl 1808/12405), Editor’s Note của bài PPA 2017 (bản in lại PDF ở The Philosopher’s Annual 37; trang Wiley bị Cloudflare chặn, không vào), SEP Egalitarianism §6.1. Ba claim sai nhẹ, fix là câu thay thế: (10) nguồn chỉ nói ông gửi bản thảo ngày 1/1 và mất rạng sáng 2/1, không nói ‘vài giờ’; (11) câu ‘Đức Phật hẳn sẽ đồng ý’ ở cuối §92, không ở Phụ lục J; ví dụ cỗ xe trong Phụ lục J là một bài kệ (chú 28 ghi “Cila Mara”, dẫn Stcherbatsky), còn Thanh tịnh đạo là đoạn trích cuối; (20) ví dụ của Parfit là đột quỵ/chấn thương, không phải cắt bỏ bán cầu não chữa động kinh (với động kinh ông nói về cắt bó sợi nối). Phần còn lại của lập luận phân đôi (claim thêm ở cuối) đúng. Equality or Priority?: bài giảng Lindley ngày 21/11/1991, bản in ©1995 (đề xuất link https://hdl.handle.net/1808/12405). | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h01): không có claim sai. Chưa kiểm được: bài viết cuối gửi đi vài giờ trước khi mất; Phụ lục J/Phật giáo (Donegan 2020 chỉ xác nhận Visuddhimagga có quan điểm quy giản giống Parfit); 'Equality or Priority?' 1995 (Crossref chỉ có Ratio 1997 'Equality and Priority'); lập luận fission/hemispherectomy, nội dung Williams 1970 và phần reply (cần Reasons and Persons, sách in, mục Nguồn không có URL - nên thêm trang nhà xuất bản/OUP DOI 10.1093/019824908X.001.0001 nếu có; chưa kiểm). Nguồn tiểu sử chính: Dancy, British Academy memoir (PDF, đọc bằng pdf.js trong tab). Related: tiêu đề cai-toi.md trong repo dùng nháy đơn thẳng, hồ sơ dùng nháy kép cong (khác kiểu chữ). | 10/11/2026 (sổ sách, Claude): bio cuối, thoughts 1, tiền đề 1 viết lại đúng ba câu fix, đánh dấu fixed; cập nhật mã băm, không mở lại nguồn. [doi-loi] Dòng Nguồn sách in ghi theo quy ước chung (năm sau tên tác giả; quyết định 36, việc 7.1.1). Parfit: nhà xuất bản theo SEP Personal Identity (\"1984, Reasons and Persons . Oxford: Oxford University Press.\") và Crossref (DOI 10.1093/019824908x.001.0001, Oxford University Press)."
 }

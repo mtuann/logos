@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/duc-phat",
-  "hash": "sha256:ba6fa7bae3d5ffd5c0e789ffc7bce158f2c06c02d791808afe5c0520d92bf07e",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r02",
+  "hash": "sha256:4ac68c11d42d3c48661578f0850d48ccb246123e35d5c09d1f2494af8f94b335",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.3-r02 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "desc: khổ có nguyên nhân nên chấm dứt được; không có tự ngã thường hằng",
@@ -436,8 +436,14 @@
           "where": "đọc tiêu đề từ docs/lich-su/an-do.md, docs/cau-hoi/cai-toi.md, docs/cau-hoi/truc-lam.md"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.parfit-derek-1984-reasons-and-persons-oxford-oxford-universi"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r02): cả 4 claim còn mở nay dung. Claim 16: SEP Buddha (middle path giữa eternalism và annihilationism; cả hai cùng giả định có cái 'I'); SN 12.15 trên SuttaCentral nói cặp 'All exists / All does not exist', đúng như ghi chú works — hồ sơ không gán cặp thường/đoạn kiến cho SN 12.15, vẫn ổn. Claim 29: Parfit, Reasons and Persons tr. 273 'Buddha would have agreed' và phụ lục J 'Buddha's View' (tr. 502–503) dẫn Milindapañha (đoạn trích Google Books). Claim 30: Đại Việt sử ký toàn thư (zh.wikisource) — sư Vạn Hạnh và việc Lý Thái Tổ dựng chùa, độ hơn nghìn người làm sư (卷之二); Trần Nhân Tông xuất gia, hiệu Trúc Lâm Đại Sĩ (卷之六, 1308); chữ 'thiền sư' đời Lý thêm từ bài Nam Phong 1931 (nguồn yếu). Claim 31: AN 6.63 'Cetanāhaṁ… kammaṁ vadāmi' và SEP ('not the movement… but rather the volition or intention'). Đề xuất: thêm URL Google Books/OUP cho mục Nguồn Parfit. | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h06): SEP buddha fall2026, IEP buddha, SuttaCentral SN 56.11. Lưu ý: bio ghi 'nhập diệt năm 544 hoặc 543 TCN', IEP chỉ nêu 543; SEP nói khoảng 405 còn bio 'quanh 400' (làm tròn, ổn). Chưa kiểm Parfit, Lý–Trần, cetanā. Hai sách Bechert/Parfit không URL: đề xuất link trang nhà xuất bản/OUP."
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r02): cả 4 claim còn mở nay dung. Claim 16: SEP Buddha (middle path giữa eternalism và annihilationism; cả hai cùng giả định có cái 'I'); SN 12.15 trên SuttaCentral nói cặp 'All exists / All does not exist', đúng như ghi chú works — hồ sơ không gán cặp thường/đoạn kiến cho SN 12.15, vẫn ổn. Claim 29: Parfit, Reasons and Persons tr. 273 'Buddha would have agreed' và phụ lục J 'Buddha's View' (tr. 502–503) dẫn Milindapañha (đoạn trích Google Books). Claim 30: Đại Việt sử ký toàn thư (zh.wikisource) — sư Vạn Hạnh và việc Lý Thái Tổ dựng chùa, độ hơn nghìn người làm sư (卷之二); Trần Nhân Tông xuất gia, hiệu Trúc Lâm Đại Sĩ (卷之六, 1308); chữ 'thiền sư' đời Lý thêm từ bài Nam Phong 1931 (nguồn yếu). Claim 31: AN 6.63 'Cetanāhaṁ… kammaṁ vadāmi' và SEP ('not the movement… but rather the volition or intention'). Đề xuất: thêm URL Google Books/OUP cho mục Nguồn Parfit. | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h06): SEP buddha fall2026, IEP buddha, SuttaCentral SN 56.11. Lưu ý: bio ghi 'nhập diệt năm 544 hoặc 543 TCN', IEP chỉ nêu 543; SEP nói khoảng 405 còn bio 'quanh 400' (làm tròn, ổn). Chưa kiểm Parfit, Lý–Trần, cetanā. Hai sách Bechert/Parfit không URL: đề xuất link trang nhà xuất bản/OUP. [doi-loi] Dòng Nguồn sách in ghi theo quy ước chung (năm sau tên tác giả; quyết định 36, việc 7.1.1). Parfit: nhà xuất bản theo SEP Personal Identity (\"1984, Reasons and Persons . Oxford: Oxford University Press.\") và Crossref (DOI 10.1093/019824908x.001.0001, Oxford University Press)."
 }

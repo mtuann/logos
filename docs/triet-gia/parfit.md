@@ -74,7 +74,7 @@ Lập luận từ trường hợp “phân đôi” (*fission*) trong *Reasons a
 3. Roberts, M. A., “The Nonidentity Problem”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nonidentity-problem/>
 4. Arrhenius, Gustaf, Jesper Ryberg & Torbjörn Tännsjö, “The Repugnant Conclusion”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/repugnant-conclusion/>
 5. Donegan, Peter, “Was The Buddha a Reductionist About The Self?”, *Philosophical Readings* XII.3 (2020), tr. 376–389. <https://open.unive.it/ojs/index.php/pr/article/view/98>
-6. Parfit, Derek, *Reasons and Persons*, Oxford: Clarendon Press, 1984.
+6. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 
 ---
 
