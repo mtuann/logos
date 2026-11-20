@@ -1,0 +1,92 @@
+{
+  "unit": "cau-hoi/luan-chung-ton-giao.md#thi-nghiem-tu-duy",
+  "hash": "sha256:59940b1a4428ee889b1364dc17a2e8221e0763df6bc96058a6f497b83c1b9a7b",
+  "checked_on": "2026-11-20",
+  "checker": "agent-mau-5.8-m03",
+  "claims": [
+    {
+      "text": "Hãy tưởng tượng bạn đi dạo trên một bãi biển hoang và thấy một chiếc đồng hồ cơ đang chạy, kim quay đều, máy móc tinh xảo.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "William Paley famously sees no design-like properties in a stone, but finding a watch on the ground would be another matter.",
+          "where": "mục 2"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/luan-chung-ton-giao/",
+          "quote": "Sách mở đầu bằng một hình ảnh gần giống thí nghiệm đầu bài",
+          "where": "lập trường 2 (bài tự ghi đây là biến thể của hình ảnh Paley)"
+        }
+      ]
+    },
+    {
+      "text": "Hẳn là: có ai đó đã làm ra nó và đánh rơi ở đây. Bạn sẽ không nghĩ rằng gió, cát và sóng — qua hàng triệu năm — tình cờ lắp ráp được một chiếc đồng hồ đang chạy.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "when we come to inspect the watch, we perceive—what we could not discover in the stone—that its several parts are framed and put together for"
+        }
+      ]
+    },
+    {
+      "text": "vũ trụ này, với các định luật vật lý khớp nhau đến kỳ lạ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "the fitness (fine-tuning) of the inorganic realm for supporting life"
+        }
+      ]
+    },
+    {
+      "text": "với sự sống phức tạp đến mức một tế bào cũng tinh vi hơn mọi cỗ máy con người từng chế tạo",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "với sự sống phức tạp đến mức một tế bào thôi đã tinh vi hơn rất nhiều cỗ máy con người chế tạo.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "particularly exquisite complexity",
+          "where": "SEP chỉ nêu 'độ phức tạp tinh xảo' là một đặc điểm được viện dẫn; không nguồn nào cho phép so sánh tuyệt đối với 'mọi cỗ máy'"
+        }
+      ]
+    },
+    {
+      "text": "Hay sự so sánh này đánh lừa ta — vì vũ trụ không giống một chiếc đồng hồ ở những điểm quan trọng?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-religion/",
+          "quote": "The first point that Philo draws our attention to is the weakness of the analogy between the world and “human productions”."
+        }
+      ]
+    },
+    {
+      "text": "Đây chính là trực giác đứng sau luận chứng thứ hai dưới đây.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/luan-chung-ton-giao/",
+          "quote": "Luận chứng mục đích luận: đồng hồ và người làm đồng hồ"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Thí nghiệm là biến thể (bãi biển thay cho bãi đất hoang của Paley, thêm tinh chỉnh vũ trụ); lập trường 2 của bài nói rõ 'gần giống thí nghiệm đầu bài'. Một lỗi nhẹ: câu so sánh tuyệt đối về tế bào. Gutenberg bảo trì nên dùng trích Paley trong SEP."
+}

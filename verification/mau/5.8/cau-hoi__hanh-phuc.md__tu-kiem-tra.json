@@ -1,0 +1,113 @@
+{
+  "unit": "cau-hoi/hanh-phuc.md#tu-kiem-tra",
+  "hash": "sha256:10d71c0a8f48c3cd5d318f676f4a1398eb65461d84388d1f9d1f7294e8512c3f",
+  "checked_on": "2026-11-20",
+  "checker": "agent-mau-5.8-m02",
+  "claims": [
+    {
+      "text": "Nozick dùng thí nghiệm cỗ máy trải nghiệm để phản bác trực tiếp ... Thuyết khoái lạc (answer 2)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "But there is a yet more weighty objection both to hedonism and to the view that well-being consists only in conscious states: the so-called ‘experience machine’.",
+          "where": "4.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "Robert Nozick thinks it would be a big mistake: ‘We want to do certain things … we want to be a certain way",
+          "where": "4.1"
+        }
+      ]
+    },
+    {
+      "text": "76,9% nói không vào máy, 13,3% nói có (answer 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong"
+    },
+    {
+      "text": "Hơn ba phần tư triết gia được khảo sát từ chối một đời sống khoái cảm hoàn hảo nhưng giả tạo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong"
+    },
+    {
+      "text": "Ước muốn có đầy đủ thông tin: điều bạn sẽ muốn nếu biết hết mọi sự thật liên quan và suy nghĩ thấu đáo (answer 1)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "According to the informed desire account, the best life is the one I would desire if I were fully informed about all the (non-evaluative) facts.",
+          "where": "4.2"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết danh sách khách quan (Parfit) ... Có những điều làm cho đời sống tốt một cách khách quan — như tri thức, tình bạn, thành tựu, tự chủ — độc lập với cảm giác và ước muốn của chủ thể (answer 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "list items constituting well-being that consist neither merely in pleasurable experience nor in desire-satisfaction. Such items might include, for example, knowledge or friendship.",
+          "where": "4.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "The threefold distinction we have been using between different theories of well-being has become standard in contemporary ethics (Parfit 1984: app. I).",
+          "where": "4.3"
+        }
+      ]
+    },
+    {
+      "text": "Phương án sai của câu 4: \"Danh sách những điều tốt trong đời là giống nhau cho mọi nền văn hóa và mọi thời đại\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "\"Danh sách những điều tốt của mỗi người do chính người đó lập ra: điều gì bạn muốn thì điều đó có trong danh sách của bạn\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "One common objection to objective list theories is that they are élitist, since they appear to be claiming that certain things are good for people, even if those people will not enjoy them, and do not even want them.",
+          "where": "4.3"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/hanh-phuc/",
+          "quote": "được nhiều nền văn hóa, nhiều thời đại cùng công nhận",
+          "where": "lập trường 3, Cách đáp lại"
+        }
+      ]
+    },
+    {
+      "text": "Phản bác thường gặp đối với thuyết danh sách khách quan là ... Nguy cơ gia trưởng (paternalism) (answer 0)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"Nguy cơ áp đặt từ trên xuống (bị chê là *élitist*): cho rằng có những điều tốt cho bạn dù bạn không thích, không muốn chúng — và từ đó dễ mở đường cho gia trưởng (paternalism), để người khác nhân danh 'điều tốt khách quan' áp đặt lên bạn những giá trị bạn không hề muốn\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "One common objection to objective list theories is that they are élitist",
+          "where": "4.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "There is nothing logically to prevent one’s holding a highly élitist conception of well-being alongside a strict liberal view that forbade paternalistic interference of any kind",
+          "where": "5"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Đáp án của cả năm câu đúng. Câu 4: phương án C (\"giống nhau cho mọi nền văn hóa\") không rõ là sai — thuyết danh sách khách quan vốn coi các mục là tốt cho mọi người, không tương đối theo văn hóa, và chính mục Cách đáp lại của bài viện dẫn sự đồng thuận giữa các nền văn hóa; người đọc kỹ có thể chọn C. Câu 5: SEP gọi phản bác thường gặp là \"élitist\" và nói rõ một lý thuyết phúc lợi tinh hoa không kéo theo gia trưởng; đáp án vẫn là phương án tốt nhất nên chỉ ghi nhe. Không tìm được nguồn mở nói Parfit đặt tên \"objective list theory\"; SEP chỉ xác nhận cách chia ba họ là của Parfit 1984, phụ lục I — đủ cho chữ \"(Parfit)\" trong câu hỏi."
+}
