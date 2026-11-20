@@ -21,15 +21,15 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Tự do và trách nhiệm | 30 | 0 | 30 | 100% |
 | Đạo đức học | 69 | 0 | 69 | 100% |
 | Luân lý ứng dụng | 54 | 0 | 54 | 100% |
-| Triết học chính trị | 108 | 104 | 0 | 0% |
-| Cái đẹp và nghệ thuật | 20 | 20 | 0 | 0% |
-| Tôn giáo | 29 | 27 | 0 | 0% |
-| Siêu hình học | 74 | 73 | 0 | 0% |
-| Ý nghĩa cuộc sống | 38 | 37 | 0 | 0% |
-| Tư tưởng Việt Nam | 30 | 30 | 0 | 0% |
+| Triết học chính trị | 108 | 0 | 108 | 100% |
+| Cái đẹp và nghệ thuật | 20 | 0 | 20 | 100% |
+| Tôn giáo | 29 | 0 | 29 | 100% |
+| Siêu hình học | 74 | 0 | 74 | 100% |
+| Ý nghĩa cuộc sống | 38 | 0 | 38 | 100% |
+| Tư tưởng Việt Nam | 30 | 0 | 30 | 100% |
 | Lịch sử | 68 | 0 | 68 | 100% |
 | Đọc văn bản | 190 | 0 | 190 | 100% |
-| **Tổng** | **989** | **291** | **690** | **70%** |
+| **Tổng** | **989** | **0** | **989** | **100%** |
 
 ## Dữ kiện {#du-kien}
 

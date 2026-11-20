@@ -1,5 +1,7 @@
 # Bàn giao đợt con 5.8: Câu hỏi lớn II
 
+**Đã xong (2026-11-20): 299 khóa đóng băng, mẫu 30/30, 0% lỗi nghiêm trọng bị bỏ sót.** Phần dưới giữ lại để tra cứu cách đã làm; xem dòng 2026-11-20 cuối trong `ban-giao/nhat-ky-dot-5.md`.
+
 Đọc trước theo thứ tự `AGENTS.md`, rồi tới mục 5.8 trong `ban-giao/dot-5.md` và dòng 2026-11-20 trong `ban-giao/nhat-ky-dot-5.md`.
 
 Thư mục này giữ kế hoạch và công cụ dở dang của 5.8, để agent khác làm tiếp. Không xuất bản lên site.
