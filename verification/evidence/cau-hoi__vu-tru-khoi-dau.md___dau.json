@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/vu-tru-khoi-dau.md#_dau",
-  "hash": "sha256:1aa98c9ab4ae529db7a1fc8b374af89e5c1e28f035564781cfe528361f183aae",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k11",
+  "hash": "sha256:b2ee4aa94fc82b37ec0661104f0b46b8214450b619c44ea8674a7093e89e6406",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k11 + agent-kiem-5.8-r04",
   "claims": [
     {
       "text": "Bài trình bày lập luận Kalam dưới dạng ba tiền đề (mọi thứ bắt đầu tồn tại đều có nguyên nhân; vũ trụ bắt đầu tồn tại; vậy vũ trụ có nguyên nhân)",
@@ -215,8 +215,18 @@
     {
       "text": "là tiếng Ả Rập (*kalām*, nghĩa là \"lời bàn luận\") — chỉ truyền thống thần học triết học Hồi giáo",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
+        {
+          "url": "https://www.muslimphilosophy.com/ip/rep/H009.htm",
+          "quote": "has usually been translated as 'word' or 'speech', but a more appropriate rendering in this context would be 'discussion', 'argument' or 'debate'.",
+          "where": "nguồn thứ cấp: Abdelwahab El-Affendi, \"Islamic theology\", Routledge Encyclopedia of Philosophy (1998), mục 1, bản đăng lại trên muslimphilosophy.com"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ibn-arabi/",
+          "quote": "As the divine speech",
+          "where": "SEP Ibn Arabi, §3: kalām = speech (lời nói)"
+        },
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/arabic-islamic-causation/",
           "quote": "speculative theology ( kalām ) and Greek philosophy ( falsafa )",
@@ -263,9 +273,9 @@
     "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Nửa sau \"Thái độ của bài\" chép lại cách đáp của phe đa vũ trụ (\"mọi lời giải thích đều phải dừng ở đâu đó... lời nào đơn giản và gắn với vật lý nhất\", thân bài: \"Người theo đa vũ trụ đáp\") nhưng gán thành thái độ của bài: vi phạm trung lập, mức vừa. Chưa kiểm được: nghĩa đen của kalām là \"lời bàn luận\". Đã thử: SEP fall2026 cosmological-argument, al-kindi, al-ghazali, arabic-islamic-causation, arabic-islamic-judaic, arabic-islamic-language, arabic-islamic-natural, ibn-rushd, maimonides (không có câu giải nghĩa từ); SEP arabic-islamic-theology (404); IEP /kalam/, /islamic-philosophy/, /cosmo-ar/ (404); britannica.com/topic/kalam (chặn bot); Wikisource (tìm kiếm không ra). SEP chỉ xác nhận kalām = \"speculative theology\". Đề xuất người làm thêm nguồn hoặc bỏ cụm \"nghĩa là 'lời bàn luận'\"."
+  "result": "dat",
+  "notes": "Nửa sau \"Thái độ của bài\" chép lại cách đáp của phe đa vũ trụ (\"mọi lời giải thích đều phải dừng ở đâu đó... lời nào đơn giản và gắn với vật lý nhất\", thân bài: \"Người theo đa vũ trụ đáp\") nhưng gán thành thái độ của bài: vi phạm trung lập, mức vừa. Chưa kiểm được: nghĩa đen của kalām là \"lời bàn luận\". Đã thử: SEP fall2026 cosmological-argument, al-kindi, al-ghazali, arabic-islamic-causation, arabic-islamic-judaic, arabic-islamic-language, arabic-islamic-natural, ibn-rushd, maimonides (không có câu giải nghĩa từ); SEP arabic-islamic-theology (404); IEP /kalam/, /islamic-philosophy/, /cosmo-ar/ (404); britannica.com/topic/kalam (chặn bot); Wikisource (tìm kiếm không ra). SEP chỉ xác nhận kalām = \"speculative theology\". Đề xuất người làm thêm nguồn hoặc bỏ cụm \"nghĩa là 'lời bàn luận'\". Lượt 2: claim chưa kiểm được về nghĩa của kalām nay đúng: REP \"Islamic theology\" (El-Affendi) ghi kalam thường dịch là \"word\"/\"speech\", trong ngữ cảnh này nên hiểu là \"discussion, argument, debate\"; SEP Ibn Arabi dùng \"divine speech (kalām)\". \"Lời bàn luận\" khớp. Ba claim sai đã sửa đúng (\"Thái độ của bài\"; \"trong các luận chứng cho hữu thần được nêu tên\"; bỏ \"nhất\"). Đã thử thêm không ra: IEP /cosmolog/, /cosmo-ar/, /islamic-philosophy/, /kindi/ (404); SEP arabic-islamic-theology-philosophy (404); iranicaonline.org/articles/kalam (403)."
 }

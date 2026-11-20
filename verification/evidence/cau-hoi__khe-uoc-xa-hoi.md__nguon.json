@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/khe-uoc-xa-hoi.md#nguon",
   "hash": "sha256:b8e2bad9a14a3cb6007162baf7c3a0718144d213c3e987affa28d425a25513aa",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k03",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06",
   "claims": [
     {
       "text": "Hobbes, Thomas, *Leviathan* (1651), Project Gutenberg. <https://www.gutenberg.org/ebooks/3207>",
@@ -66,6 +66,28 @@
           "quote": "We now know that the Two Treatises of Government were written during the Exclusion crisis in 1681"
         }
       ]
+    },
+    {
+      "text": "Elizabeth Anderson (*Private Government*, 2017) — nêu trong thân bài nhưng Nguồn không có",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fixed": false,
+      "fix": "8. Anderson, Elizabeth (2017), *Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It)*, Princeton: Princeton University Press.",
+      "sources": [
+        {
+          "url": "https://press.princeton.edu/books/hardcover/9780691176512/private-government",
+          "quote": "Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It) Elizabeth Anderson"
+        },
+        {
+          "url": "https://press.princeton.edu/books/hardcover/9780691176512/private-government",
+          "quote": "Published: May 23, 2017"
+        },
+        {
+          "url": "https://press.princeton.edu/books/hardcover/9780691176512/private-government",
+          "quote": "Private Government | Princeton University Press"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -76,5 +98,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Các URL SEP bản lưu fall2026 và davidhume.org tải được trong phiên; www.gutenberg.org trả 503 (bảo trì) nên nội dung đối chiếu qua mirror gutenberg.pglaf.org."
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Các URL SEP bản lưu fall2026 và davidhume.org tải được trong phiên; www.gutenberg.org trả 503 (bảo trì) nên nội dung đối chiếu qua mirror gutenberg.pglaf.org.\nLượt 2: Chỗ còn sót: thân bài (Các lập trường chính) nêu 'Elizabeth Anderson (*Private Government*, 2017)' nhưng Nguồn không có. Ghi claim sai mức nhẹ, fix là dòng nguồn (đối chiếu trang Princeton University Press, tải trong phiên)."
 }

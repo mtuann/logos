@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/duc-tri.md#_dau",
-  "hash": "sha256:1365cd3e50031405c6a15d30e9fed0fd4b88d44b90db20705710710175d74b47",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k06",
+  "hash": "sha256:a576b2dd9119d423c42a3284cdb07de020eff58bc287c7b8c0e9357727c7cbe4",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k06 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "[Khổng Tử](../triet-gia/khong-tu.md): trị bằng đức — \"dùng hình phạt dẫn dân thì dân tránh mà không biết xấu hổ; dùng đức, lễ dẫn dân thì dân biết xấu hổ và tự sửa mình\" (Luận ngữ 2.3)",
@@ -100,6 +100,11 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/",
           "quote": "This backdrop explains the fa thinkers’ unwavering commitment to safeguarding the ruler’s authority.",
           "where": "mục 5.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/chinese-legalism/",
+          "quote": "How to resolve this quagmire? The fa thinkers hesitate.",
+          "where": "mục 5.2"
         }
       ],
       "fixed": true
@@ -146,6 +151,6 @@
     "trung-lap": false,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Các trích Luận ngữ 2.3, 12.19 và Mạnh Tử 7B14, 1B8 đối chiếu nguyên văn trên zh.wikisource (ctext.org chặn bằng Cloudflare Turnstile trong phiên này). Lỗi vừa: Tóm tắt khẳng định như sự thật rằng luật của Hàn Phi \"không trói được quyền lực\"; SEP Legalism (mục 2.3, 5.2) cho thấy Hàn Phi đòi vua cũng giữ luật và không can thiệp tùy hứng — điểm yếu là vua giữ quyền sửa luật và không có cơ chế ràng buộc. trung-lap=false: \"Thái độ bài\" chọn hẳn một công thức (pháp quyền dân chủ) cho câu hỏi còn mở; đó là lập trường được ghi rõ là của bài, không tính là lỗi riêng."
+  "result": "dat",
+  "notes": "Các trích Luận ngữ 2.3, 12.19 và Mạnh Tử 7B14, 1B8 đối chiếu nguyên văn trên zh.wikisource (ctext.org chặn bằng Cloudflare Turnstile trong phiên này). Lỗi vừa: Tóm tắt khẳng định như sự thật rằng luật của Hàn Phi \"không trói được quyền lực\"; SEP Legalism (mục 2.3, 5.2) cho thấy Hàn Phi đòi vua cũng giữ luật và không can thiệp tùy hứng — điểm yếu là vua giữ quyền sửa luật và không có cơ chế ràng buộc. trung-lap=false: \"Thái độ bài\" chọn hẳn một công thức (pháp quyền dân chủ) cho câu hỏi còn mở; đó là lập trường được ghi rõ là của bài, không tính là lỗi riêng. Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): câu Hàn Phi ở Tóm tắt đã thay đúng chữ fix (vua cũng phải giữ luật, nhưng giữ quyền sửa luật, không thiết chế ràng buộc → luật dễ thành công cụ, rule by law); khớp SEP Legalism mục 2.3, 5.2 (tải lại trong phiên, mọi quote SEP so khớp). Giữ fixed: true; không có chữ mới khác."
 }

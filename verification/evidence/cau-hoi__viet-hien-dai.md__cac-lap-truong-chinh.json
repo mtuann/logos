@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh",
-  "hash": "sha256:5b32804f3450f9ae23cd9342a6b35bc1bba4c9ccfd894e33f2c9b7d03a84788a",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k17",
+  "hash": "sha256:df438c8a0e4d2218e31fd71ea9bde597f033ed2fa531bc18820432437413064f",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k17 + agent-kiem-5.8-r01",
   "claims": [
     {
       "text": "một khuynh hướng mạnh trong giới trí thức Việt Nam cho rằng Nho học — với khoa cử, với trật tự tôn ti — chính là nguyên nhân khiến đất nước tụt hậu **[có cơ sở]** (đây là luận điệu phổ biến trong phong trào Duy Tân và trên báo chí chữ Quốc ngữ đầu thế kỷ 20)",
@@ -57,16 +57,28 @@
       ]
     },
     {
-      "text": "Trần Đình Hượu sẽ nói: không. Người ta có thể bỏ khoa cử mà vẫn giữ được những giá trị như hiếu thảo, tình làng nghĩa xóm, tinh thần cộng đồng",
+      "text": "Phản bác chính (lập trường 1): Trần Đình Hượu sẽ nói: không. Người ta có thể bỏ khoa cử mà vẫn giữ được những giá trị như hiếu thảo, tình làng nghĩa xóm, tinh thần cộng đồng — những thứ không hề mâu thuẫn với hiện đại.",
       "kind": "dien-giai",
-      "verdict": "dung",
+      "verdict": "sai",
       "sources": [
         {
           "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
           "quote": "Trần Đình Hượu cho rằng đó là một cách nghĩ ấu trĩ",
-          "where": "về chủ trương \"quét sạch tàn dư Khổng giáo\""
+          "where": "Trần Nho Thìn, Trần Ngọc Vương, trang ĐH KHXH&NV 2015: ý của Hượu là không thể \"quét sạch\" Nho giáo, không phải \"giá trị truyền thống không mâu thuẫn với hiện đại\""
+        },
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Có người tự coi là rũ sạch ảnh hưởng Nho giáo, lên án Nho giáo kịch liệt, nhưng vẫn sống và vẫn nghĩ rất",
+          "where": "Hượu, trích trong cùng bài"
+        },
+        {
+          "url": "https://trangdocsach.wordpress.com/2013/05/30/nen-dat-van-de-nho-giao-nhu-the-nao/",
+          "quote": "Dân chủ hóa là đòi hỏi cấp thiết. Nhưng trật tự trên dưới của Nho giáo vốn là không đi đôi được với vấn đề dân chủ",
+          "where": "nguồn yếu: blog đăng lại bài của Nguyễn Kiến Giang (ghi nguồn talawas.org), viết đầu năm 1993, bình bài \"Nho giáo đã thành vấn đề như thế nào với nước Việt Nam ngày nay\" của Trần Đình Hượu (Văn hóa và đời sống, 11/1992); Hượu nói một phần truyền thống Nho giáo mâu thuẫn với dân chủ, nên gán cho ông câu \"những thứ không hề mâu thuẫn với hiện đại\" là gán lời"
         }
-      ]
+      ],
+      "severity": "vua",
+      "fix": "Câu trả lời của phản bác này là không. Người ta có thể bỏ khoa cử mà vẫn giữ được những giá trị như hiếu thảo, tình làng nghĩa xóm, tinh thần cộng đồng — những thứ không hề mâu thuẫn với hiện đại. Trần Đình Hượu còn nhấn mạnh một điểm khác: ông cho rằng ý muốn \"quét sạch\" Nho giáo là một cách nghĩ ấu trĩ, vì có người lên án Nho giáo kịch liệt mà vẫn sống và nghĩ rất \"Nho\" **[có cơ sở]**."
     },
     {
       "text": "người Việt hôm nay vẫn cúng giỗ tổ tiên, vẫn coi trọng gia đình, dù chẳng mấy ai đọc *Luận ngữ* **[có cơ sở]** (đây là quan sát xã hội học được nhiều nhà nghiên cứu ghi nhận)",
@@ -320,6 +332,30 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "ho-so/tran-duc-thao"
+    },
+    {
+      "text": "Phản bác chính (lập trường 2) chỉ nêu phản bác chung (\"truyền thống\" trơn trượt, ai vạch ranh giới thuận/nghịch), chưa nêu phản bác có tên trong văn liệu nhằm vào chính Trần Đình Hượu.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một phản bác có tên trong văn liệu: Nguyễn Kiến Giang, trong bài thảo luận viết đầu năm 1993 về một bài báo năm 1992 của Trần Đình Hượu, cho rằng khi coi Nho giáo có thể là cơ sở để giải quyết các vấn đề ngày nay, Hượu \"có phần cường điệu\"; theo Nguyễn Kiến Giang, hiện đại hóa rốt cuộc phải đi tới giải phóng cá nhân và dân chủ hóa, điều mà Nho giáo không giúp được **[có cơ sở]**.",
+      "sources": [
+        {
+          "url": "https://trangdocsach.wordpress.com/2013/05/30/nen-dat-van-de-nho-giao-nhu-the-nao/",
+          "quote": "có lẽ ông cũng có phần cường điệu",
+          "where": "nguồn yếu: blog đăng lại bài của Nguyễn Kiến Giang (ghi nguồn talawas.org), viết đầu năm 1993, bình bài \"Nho giáo đã thành vấn đề như thế nào với nước Việt Nam ngày nay\" của Trần Đình Hượu (Văn hóa và đời sống, 11/1992)"
+        },
+        {
+          "url": "https://trangdocsach.wordpress.com/2013/05/30/nen-dat-van-de-nho-giao-nhu-the-nao/",
+          "quote": "Tôi nhớ bài này được viết vào đầu năm 1993",
+          "where": "nguồn yếu: blog đăng lại bài của Nguyễn Kiến Giang (ghi nguồn talawas.org), viết đầu năm 1993, bình bài \"Nho giáo đã thành vấn đề như thế nào với nước Việt Nam ngày nay\" của Trần Đình Hượu (Văn hóa và đời sống, 11/1992)"
+        },
+        {
+          "url": "https://trangdocsach.wordpress.com/2013/05/30/nen-dat-van-de-nho-giao-nhu-the-nao/",
+          "quote": "hiện đại hóa phải đi tới chỗ giải phóng con người với tư cách cá nhân",
+          "where": "nguồn yếu: blog đăng lại bài của Nguyễn Kiến Giang (ghi nguồn talawas.org), viết đầu năm 1993, bình bài \"Nho giáo đã thành vấn đề như thế nào với nước Việt Nam ngày nay\" của Trần Đình Hượu (Văn hóa và đời sống, 11/1992)"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -330,5 +366,5 @@
     "thuat-ngu": true
   },
   "result": "sua",
-  "notes": "Cả ba lập trường đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Việc ghi sẵn (viec-cho, lập trường 2 \"con đường của Trần Đình Hượu\"): (1) \"Tây hóa toàn diện\" không có trong nguồn nào mở được; (2) so sánh Nhật Bản như luận điểm trung tâm của Hượu không có nguồn; nguồn duy nhất về Hượu và Nhật Bản/Đông Á (bài Nguyễn Kiến Giang, nguồn yếu) cho thấy ông dè dặt hơn nhiều: Nho giáo khó đổi mới, khó đi với dân chủ; (3) danh mục thuận/nghịch: chỉ \"thiết thực\" và khả năng \"đồng hoá những giá trị văn hoá bên ngoài\" có trong đoạn trích SGK; \"tinh thần cộng đồng\", \"tâm lý tiểu nông\", \"thiếu tinh thần pháp quyền\", \"bệnh hình thức\" và chính cặp từ \"thuận/nghịch\" không tìm thấy; (4) \"huy động cộng đồng làng xã trong kháng chiến\" không có nguồn. Phản bác thật trong văn liệu: Nguyễn Kiến Giang (1993) cho rằng Hượu cường điệu vai trò của Nho giáo trong hiện đại hóa; người viết có thể thêm làm phản bác có tên. Không mở được: vjol.info.vn (Nguyễn Hữu Sơn 2015 \"Tiếp nhận tư tưởng Trần Đình Hượu về nghiên cứu Nho giáo\", Tạp chí KHXH số 7; https://vjol.info.vn/index.php/khxh/article/download/35116/29019/ lỗi giao thức HTTP/2 và empty reply với HTTP/1.1; web.archive.org 404). Nên đưa trang ĐHQG Hà Nội và bài ĐH KHXH&NV vào mục Nguồn. Claim lập trường 3 về ảnh hưởng: căn cứ là hồ sơ đã đóng băng ho-so/tran-duc-thao; nguồn URL ghi trang đích đã deploy."
+  "notes": "Cả ba lập trường đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại. Việc ghi sẵn (viec-cho, lập trường 2 \"con đường của Trần Đình Hượu\"): (1) \"Tây hóa toàn diện\" không có trong nguồn nào mở được; (2) so sánh Nhật Bản như luận điểm trung tâm của Hượu không có nguồn; nguồn duy nhất về Hượu và Nhật Bản/Đông Á (bài Nguyễn Kiến Giang, nguồn yếu) cho thấy ông dè dặt hơn nhiều: Nho giáo khó đổi mới, khó đi với dân chủ; (3) danh mục thuận/nghịch: chỉ \"thiết thực\" và khả năng \"đồng hoá những giá trị văn hoá bên ngoài\" có trong đoạn trích SGK; \"tinh thần cộng đồng\", \"tâm lý tiểu nông\", \"thiếu tinh thần pháp quyền\", \"bệnh hình thức\" và chính cặp từ \"thuận/nghịch\" không tìm thấy; (4) \"huy động cộng đồng làng xã trong kháng chiến\" không có nguồn. Phản bác thật trong văn liệu: Nguyễn Kiến Giang (1993) cho rằng Hượu cường điệu vai trò của Nho giáo trong hiện đại hóa; người viết có thể thêm làm phản bác có tên. Không mở được: vjol.info.vn (Nguyễn Hữu Sơn 2015 \"Tiếp nhận tư tưởng Trần Đình Hượu về nghiên cứu Nho giáo\", Tạp chí KHXH số 7; https://vjol.info.vn/index.php/khxh/article/download/35116/29019/ lỗi giao thức HTTP/2 và empty reply với HTTP/1.1; web.archive.org 404). Nên đưa trang ĐHQG Hà Nội và bài ĐH KHXH&NV vào mục Nguồn. Claim lập trường 3 về ảnh hưởng: căn cứ là hồ sơ đã đóng băng ho-so/tran-duc-thao; nguồn URL ghi trang đích đã deploy. Lượt 2: bốn claim fixed (Tây hóa toàn diện; luận điểm Nhật Bản; danh mục thuận/nghịch; huy động cộng đồng làng xã) đã thay đúng ý fix và khớp nguồn tải lại (ĐHQG Hà Nội, ĐH KHXH&NV, đoạn trích \"Nhìn về vốn văn hóa dân tộc\", bài Nguyễn Kiến Giang); người áp bỏ mốc \"đầu thập niên 1990\" — vẫn đúng vì bài Nguyễn Kiến Giang ghi bài của Hượu đăng 11/1992. Claim ảnh hưởng của Trần Đức Thảo (fixed): bài ghi \"bị cách chức ở Đại học Hà Nội\", khớp hồ sơ đóng băng ho-so/tran-duc-thao (cách chức từ tháng 12/1956). Chỗ còn sót: (1) \"Trần Đình Hượu sẽ nói: không…\" gán cho Hượu ý \"giá trị truyền thống không mâu thuẫn với hiện đại\" — đổi claim cũ thành sai, mức vừa, kèm fix; (2) thêm phản bác có tên Nguyễn Kiến Giang (nhẹ, chèn sau đoạn Phản bác chính của lập trường 2)."
 }

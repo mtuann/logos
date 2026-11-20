@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nghe-thuat.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:5fc23f7f5977b3aa485dcd313a8cc8589b2d2c4544da6a777b0335d1ab3a6593",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k07",
+  "hash": "sha256:a38c949a36d8dd70289f1eb939912f720a0e6e440317660732d5518f1aca5024",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k07 + agent-kiem-5.8-r05",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về \"nghệ thuật là gì\", nên **chưa có số liệu khảo sát riêng cho câu hỏi này**.",
@@ -44,6 +44,16 @@
         {
           "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
           "quote": "The results for the 40 main questions (those asked of all respondents) are shown in Table 1."
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "We also added a fur- ther group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "§2"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Participants were also given the option of answering some or all of the other 50",
+          "where": "§2"
         }
       ],
       "fixed": true
@@ -119,6 +129,23 @@
           "quote": "no one of which is a necessary condition for being a work of art"
         }
       ]
+    },
+    {
+      "text": "\\* Câu hỏi bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm); câu \"Giá trị thẩm mỹ\" là câu chính, hỏi mọi người tham gia.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "We also added a fur- ther group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "§2"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Participants were also given the option of answering some or all of the other 50",
+          "where": "§2"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -129,5 +156,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu đối chiếu Bảng 1, Bảng 2 và §3.2 bài Bourget & Chalmers (PDF PhilPapers, bản Wayback 20/05/2026) và tools/philpapers-2020.md. Câu \"không đặt câu hỏi riêng về nghệ thuật là gì\" khớp danh sách câu hỏi trong tools/philpapers-2020.md (chỉ có Giá trị thẩm mỹ và Trải nghiệm thẩm mỹ thuộc mỹ học). Nhận định đi kèm không vượt số liệu. Câu \"trước vụ tranh AI đoạt giải năm 2022\" khớp CBS (tháng 9/2022)."
+  "notes": "Số liệu đối chiếu Bảng 1, Bảng 2 và §3.2 bài Bourget & Chalmers (PDF PhilPapers, bản Wayback 20/05/2026) và tools/philpapers-2020.md. Câu \"không đặt câu hỏi riêng về nghệ thuật là gì\" khớp danh sách câu hỏi trong tools/philpapers-2020.md (chỉ có Giá trị thẩm mỹ và Trải nghiệm thẩm mỹ thuộc mỹ học). Nhận định đi kèm không vượt số liệu. Câu \"trước vụ tranh AI đoạt giải năm 2022\" khớp CBS (tháng 9/2022).\nLượt 2 (agent-kiem-5.8-r05): câu mô tả câu bổ sung được áp theo cách viết thống nhất (\"mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm\"), khác chữ fix lượt 1 nhưng đúng ý và khớp Bourget & Chalmers 2023 §2 (PDF lưu Wayback, tải lại trong phiên): mỗi câu bổ sung hỏi một phần sáu người tham gia chọn ngẫu nhiên, người tham gia có thể tự chọn trả lời thêm. Giữ fixed: true, thêm nguồn và claim mới cho câu hiện tại."
 }

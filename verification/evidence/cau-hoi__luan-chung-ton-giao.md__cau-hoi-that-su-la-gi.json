@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#cau-hoi-that-su-la-gi",
   "hash": "sha256:433a904d3950f4407268a8fc15c53ae325a203121dac45b1a5546dedb01b17c3",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k08",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03",
   "claims": [
     {
       "text": "**Từ khái niệm đi xuống**: không cần nhìn vào thế giới, chỉ cần phân tích khái niệm \"Thượng đế\" là đủ. Đó là luận chứng bản thể luận.",
@@ -18,11 +18,19 @@
     {
       "text": "**Từ thế giới đi lên**: nhìn vào những gì ta quan sát được (mọi sự đều có nguyên nhân; tự nhiên đầy tinh xảo) rồi suy ra phải có một nguồn gốc đầu tiên.",
       "kind": "dien-giai",
-      "verdict": "dung",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "- **Từ thế giới đi lên**: nhìn vào những gì ta quan sát được (các sự vật do cái khác gây ra, không gì tự là nguyên nhân của chính nó; tự nhiên đầy tinh xảo) rồi suy ra phải có một nguồn gốc đầu tiên. Đó là luận chứng vũ trụ luận và mục đích luận.",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
-          "quote": "the first three ways are cosmological arguments"
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "In the world of sense we find there is an order of efficient causes",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        },
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "There is no case known (neither is it, indeed, possible) in which a thing is found to be the efficient cause of itself",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
         }
       ]
     },
@@ -54,5 +62,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "\"Vấn đề khoảng cách\" có trong văn liệu (SEP Aquinas: nguyên nhân đầu tiên có thể là vật thể; Kant: phần hai của luận chứng vũ trụ luận). Cụm \"mọi sự đều có nguyên nhân\" lặp lại cách nói gọn đã ghi ở _dau và mục Các lập trường chính."
+  "notes": "\"Vấn đề khoảng cách\" có trong văn liệu (SEP Aquinas: nguyên nhân đầu tiên có thể là vật thể; Kant: phần hai của luận chứng vũ trụ luận). Cụm \"mọi sự đều có nguyên nhân\" lặp lại cách nói gọn đã ghi ở _dau và mục Các lập trường chính.\nLượt 2: còn sót (con-sot): \"(mọi sự đều có nguyên nhân…)\" lệch với thân bài đã sửa theo ST I q.2 a.3 → sai nhẹ kèm fix."
 }

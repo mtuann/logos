@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/thoi-gian.md#nguon",
-  "hash": "sha256:5f9cb6fc8c74896ed335b2f96fad0c61fe82c1183db81ca677b1ca28b6af836e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k11",
+  "hash": "sha256:898931377bd9f552b03f34a636cfac0b88b46a8f77286f4912f508beeb7d4732",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k11 + agent-kiem-5.8-r04",
   "claims": [
     {
       "text": "Đoạn được dẫn: Augustine, *Confessions*, Quyển XI.",
@@ -63,6 +63,12 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "7. Dowden, Bradley, \"Time\", *Internet Encyclopedia of Philosophy* (về thuyết khối đang lớn và câu đố \"một giây mỗi giây\"). <https://iep.utm.edu/time/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/iep.time"
     }
   ],
   "checklist": {
@@ -73,5 +79,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. Lỗi nhẹ: bài dùng IEP *Time* (Dowden) làm căn cứ (Broad 1923 là người đầu tiên; câu đố tốc độ trôi) nhưng mục Nguồn chưa liệt kê; fix thêm dòng 7. Trang Wikisource ghi số trang 456-473 cho bài McTaggart, khác 457–474 trong kho; bản ghi kho đã đóng băng nên không ghi sai."
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. Lỗi nhẹ: bài dùng IEP *Time* (Dowden) làm căn cứ (Broad 1923 là người đầu tiên; câu đố tốc độ trôi) nhưng mục Nguồn chưa liệt kê; fix thêm dòng 7. Trang Wikisource ghi số trang 456-473 cho bài McTaggart, khác 457–474 trong kho; bản ghi kho đã đóng băng nên không ghi sai. Lượt 2: dòng 7 IEP Time đã thêm đúng fix; nay trùng bản ghi sources/iep.time đã đóng băng: claim đúng mới dùng kb."
 }

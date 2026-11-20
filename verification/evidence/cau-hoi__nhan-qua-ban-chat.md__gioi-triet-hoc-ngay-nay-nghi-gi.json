@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nhan-qua-ban-chat.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:fdfefb630936eb246f5a3ba1341663592060f01889afb0adb4eee60fbe9bc77b",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k10",
+  "hash": "sha256:5739f3d1ee0d3f60a296d7a857ce2bb18fa0a96e5e571d6bb540885d36a4b2d9",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k10 + agent-kiem-5.8-r05",
   "claims": [
     {
       "text": "một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **nhân quả**",
@@ -19,6 +19,16 @@
         {
           "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
           "quote": "Participants were also given the option of answering some or all of the other 50 additional questions if they chose to",
+          "where": "§2"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "We also added a fur- ther group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "§2"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Participants were also given the option of answering some or all of the other 50",
           "where": "§2"
         }
       ],
@@ -119,6 +129,23 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "works/hume.a-treatise-of-human-nature"
+    },
+    {
+      "text": "một câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) về **nhân quả**",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "We also added a fur- ther group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "§2"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Participants were also given the option of answering some or all of the other 50",
+          "where": "§2"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -129,5 +156,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu đối chiếu tools/philpapers-2020.md: Nhân quả (Bảng 2, n≈890) 37,2/22,5/20,5/4,1/20,6; Quy luật tự nhiên (Bảng 1, n≈1.550) 31,3/54,3/14,9. Nhận định đi kèm không vượt số liệu."
+  "notes": "Số liệu đối chiếu tools/philpapers-2020.md: Nhân quả (Bảng 2, n≈890) 37,2/22,5/20,5/4,1/20,6; Quy luật tự nhiên (Bảng 1, n≈1.550) 31,3/54,3/14,9. Nhận định đi kèm không vượt số liệu.\nLượt 2 (agent-kiem-5.8-r05): câu mô tả câu bổ sung được áp theo cách viết thống nhất (\"mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm\"), khác chữ fix lượt 1 nhưng đúng ý và khớp Bourget & Chalmers 2023 §2 (PDF lưu Wayback, tải lại trong phiên): mỗi câu bổ sung hỏi một phần sáu người tham gia chọn ngẫu nhiên, người tham gia có thể tự chọn trả lời thêm. Giữ fixed: true, thêm nguồn và claim mới cho câu hiện tại. Câu \"Hume vẫn là điểm xuất phát quen thuộc — nhiều lý thuyết…\" đã sửa đúng fix."
 }

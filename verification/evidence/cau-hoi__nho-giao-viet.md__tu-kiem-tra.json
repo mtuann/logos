@@ -1,20 +1,27 @@
 {
   "unit": "cau-hoi/nho-giao-viet.md#tu-kiem-tra",
-  "hash": "sha256:79a6a517133e07adb988e0dabc2a92ede0e864baa4e248242dd2fa196675ed6e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k16",
+  "hash": "sha256:b12697fd52d35ca100bffa0d6443d4ccccfdb919ffa7b494d2e6a3f13aa182a5",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k16 + agent-kiem-5.8-r01",
   "claims": [
     {
-      "text": "Câu 1: đáp án \"Định nghĩa lại: nhân nghĩa cốt ở yên dân, và trừ bạo là bổn phận — biến nó thành lý lẽ của độc lập dân tộc\"; các phương án \"giữ nguyên\", \"bác bỏ\", \"thay bằng pháp trị\" sai.",
+      "text": "Câu 1: đáp án \"Định nghĩa lại: nhân nghĩa cốt ở yên dân, và trừ bạo là bổn phận — biến nó thành lý lẽ của độc lập dân tộc\"",
       "kind": "dien-giai",
-      "verdict": "dung",
+      "verdict": "sai",
       "sources": [
         {
           "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81",
           "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。",
-          "where": "Toàn thư quyển 10"
+          "where": "Toàn thư, Bản kỷ quyển 10: 去暴 thuộc vế 吊伐之師"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "convince their rulers to govern through benevolence and moral suasion rather than brute force",
+          "where": "SEP Mencius: lời giải câu 1 (đã sửa) và thân bài coi mức \"định nghĩa lại\" còn được bàn; phương án đúng nên khớp lời giải"
         }
-      ]
+      ],
+      "severity": "nhe",
+      "fix": "Lấy nhân nghĩa làm lý lẽ cho độc lập dân tộc: việc nhân nghĩa cốt ở yên dân, và đạo quân điếu phạt trước hết phải trừ bạo"
     },
     {
       "text": "Câu 1, lời giải: \"Từ khái niệm đạo đức cá nhân, Nguyễn Trãi nâng nhân nghĩa thành tiêu chuẩn chính trị\"",
@@ -88,5 +95,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu đều có đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 4, 5 hỏi \"theo bài\"/\"dùng nội dung bài\" nên không áp quan điểm của bài lên người đọc. Quiz trên trang deploy là bản cũ; kiểm theo repo."
+  "notes": "Năm câu đều có đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 4, 5 hỏi \"theo bài\"/\"dùng nội dung bài\" nên không áp quan điểm của bài lên người đọc. Quiz trên trang deploy là bản cũ; kiểm theo repo. Lượt 2: claim fixed (lời giải câu 1) đã áp đúng. Chỗ còn sót: phương án đúng của câu 1 vẫn \"Định nghĩa lại: … trừ bạo là bổn phận\" → claim sai mức nhẹ; giữ answer 1 và data-id vietnam-2. Các phương án sai vẫn rõ ràng sai."
 }

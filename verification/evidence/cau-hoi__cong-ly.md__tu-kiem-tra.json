@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cong-ly.md#tu-kiem-tra",
   "hash": "sha256:ccb882cf1155bb58dafdd96626aad544d33b0c63a79c72f6796470f197a220c6",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k02",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k02 + agent-kiem-5.8-r02",
   "claims": [
     {
       "text": "Câu 1: bức màn vô tri — buộc tách lợi ích cá nhân ra khỏi phán xét công bằng; lời giải \"thiết bị trình bày\"",
@@ -40,12 +40,27 @@
     {
       "text": "Câu 4: \"Điểm chung mà Sandel phê phán ở cả Rawls lẫn Nozick\" — đáp án: cả hai tưởng tượng con người như cá nhân trừu tượng",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/communitarianism/",
-          "quote": "argued that Rawlsian liberalism rests on an overly individualistic conception of the self",
-          "where": "§2 — chỉ xác nhận phần Rawls"
+          "url": "https://people.brandeis.edu/~teuber/rawls3.html",
+          "quote": "The third debate prompted by Rawls's work centers on an assumption shared by libertarian and egalitarian liberals alike.",
+          "where": "Sandel 1994, bài điểm sách Political Liberalism, Harvard Law Review 107: 1765–1766 (bản chép trên trang khóa học Brandeis) — chính Sandel nói phê phán 'cộng đồng luận' (kể cả của ông) nhắm vào giả định chung của phái tự do cá nhân và phái bình đẳng"
+        },
+        {
+          "url": "https://people.brandeis.edu/~teuber/rawls3.html",
+          "quote": "Libertarian liberals, like Robert Nozick and Friedrich Hayek, argue that government should respect basic civil and political liberties",
+          "where": "như trên, tr. 1765"
+        },
+        {
+          "url": "https://openyls.law.yale.edu/server/api/core/bitstreams/99378b4c-6ad3-40dd-8104-7913c980f315/content",
+          "quote": "Against this thesis of Rawls and deontological liberalism generally,",
+          "where": "Sagoff 1983, điểm sách Liberalism and the Limits of Justice, Yale Law Journal 92: 1069; chú thích 20 xếp Nozick (ASU 30-33) vào cùng luận đề"
+        },
+        {
+          "url": "https://openyls.law.yale.edu/server/api/core/bitstreams/99378b4c-6ad3-40dd-8104-7913c980f315/content",
+          "quote": "R. NOZICK, ANARCHY, STATE, AND UTOPIA 30-33 (1974)",
+          "where": "Sagoff 1983, chú thích 20"
         }
       ]
     },
@@ -69,6 +84,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Các phương án sai của 5 câu đều sai rõ. Ý Sandel phê phán quan niệm cá nhân của Rawls có nguồn (SEP Communitarianism, SEP Original Position). Ý \"Sandel phê phán cả Nozick, cùng tiền đề với Rawls\" chưa kiểm được: SEP Communitarianism chỉ nói phản ứng với Rawls; SEP Nozick, SEP Libertarianism, SEP Rawls không nhắc Sandel; IEP không có mục Sandel/Communitarianism (đã thử iep.utm.edu/sandel/, /communitarianism/, /comm-eth/: 404); bản Internet Archive của Liberalism and the Limits of Justice (liberalismlimits0000sand) là sách mượn hạn chế, không tìm trong toàn văn được."
+  "result": "dat",
+  "notes": "Các phương án sai của 5 câu đều sai rõ. Ý Sandel phê phán quan niệm cá nhân của Rawls có nguồn (SEP Communitarianism, SEP Original Position). Ý \"Sandel phê phán cả Nozick, cùng tiền đề với Rawls\" chưa kiểm được: SEP Communitarianism chỉ nói phản ứng với Rawls; SEP Nozick, SEP Libertarianism, SEP Rawls không nhắc Sandel; IEP không có mục Sandel/Communitarianism (đã thử iep.utm.edu/sandel/, /communitarianism/, /comm-eth/: 404); bản Internet Archive của Liberalism and the Limits of Justice (liberalismlimits0000sand) là sách mượn hạn chế, không tìm trong toàn văn được. Lượt 2: claim Sandel phê phán cả Rawls lẫn Nozick: chuyển dung (diễn giải). Chính Sandel (1994, HLR) mô tả phê phán cộng đồng luận, kể cả của ông, nhắm vào giả định chung của phái tự do cá nhân (Nozick, Hayek) và phái bình đẳng (Rawls); Sagoff (1983, YLJ) cho thấy sách 1982 nhắm vào 'chủ nghĩa tự do nghĩa vụ luận nói chung', xếp Nozick vào cùng luận đề. Lưu ý: trong sách 1982, Sandel chủ yếu nhắm vào Rawls và còn mượn lập luận của Nozick để phê phán Rawls (Sagoff: 'Sandel mobilizes Robert Nozick's well known argument'); chi tiết 'với Nozick ta là chủ sở hữu trừu tượng' là diễn giải của bài."
 }

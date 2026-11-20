@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tu-do-ngon-luan.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:90dcb8c8dda36a90d8f1f5a582248532e0b4ab5802d5f98a5d18eee78bcda947",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "hash": "sha256:a94a99fe37b5851efb2587d1e046cd6cba72840374011b372968bba76fa4c8d6",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong [[pp:khao-sat/so-cau]] câu hỏi",
@@ -27,6 +27,16 @@
           "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
           "quote": "That there ought to be such legal protections for speech is uncontroversial among political and legal philosophers. But disagreement arises when we turn to the details.",
           "where": "phần mở đầu (mục SEP không nhắc Popper lần nào)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "Freedom of Speech First published Fri Jan 19, 2024",
+          "where": "đầu mục"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "4. The Future of Free Speech Theory: Platform Ethics",
+          "where": "mục 4"
         }
       ],
       "fixed": true
@@ -64,5 +74,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Câu \"Popper được viện dẫn thường xuyên\" không có nguồn; mục SEP về tự do ngôn luận không nhắc Popper."
+  "notes": "Câu \"Popper được viện dẫn thường xuyên\" không có nguồn; mục SEP về tự do ngôn luận không nhắc Popper. Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): đoạn đã thay đúng fix (bỏ \"viết nhiều nhất\", \"từ những năm 2010\", câu Popper). Chi tiết mới \"mục Freedom of Speech của SEP (2024) dành riêng một phần cho đạo đức của các nền tảng mạng\" khớp SEP (first published 19/1/2024; mục 4 \"Platform Ethics\"). Giữ fixed: true."
 }

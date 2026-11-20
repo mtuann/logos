@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/y-nghia-song.md#cac-lap-truong-chinh",
-  "hash": "sha256:b0cccfb957ce431dbd175fbefbc01c3c2b4eddeb3d21635c29ff5ec77792730b",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k13",
+  "hash": "sha256:5aa903aeda6b993bb5a7b8cebd4ee44f5a0e2965b47b9fd1e7b15d206aed89d4",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k13 + agent-kiem-5.8-r08",
   "claims": [
     {
       "text": "Năm 1971, Thomas Nagel đăng bài \"The Absurd\" trên tạp chí *Journal of Philosophy*",
@@ -162,6 +162,11 @@
           "url": "https://personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/WolfSusanne_2010_Meaning-in-Life-and-Why-It-Matters.pdf",
           "quote": "How does the life of a house- cleaner or an aerobics instructor or a truck driver compare to the life of a Supreme Court Justice or a freedom fighter?",
           "where": "Đáp lời bình luận, tr. 108"
+        },
+        {
+          "url": "https://personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/WolfSusanne_2010_Meaning-in-Life-and-Why-It-Matters.pdf",
+          "quote": "that the object of thinking about the category of meaningfulness in life is not to produce a meaningfulness scale for ranking lives.",
+          "where": "Lecture 2 (mục về chủ nghĩa tinh hoa); lượt 2"
         }
       ],
       "fixed": true
@@ -267,12 +272,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Bốn lập trường đều có đủ ba nhãn. Phần Nagel đối chiếu qua câu hỏi thảo luận của khóa LSE Ph103 (trích nguyên văn Nagel) và Crossref, vì bản gốc trên JSTOR/PDCnet không mở được. Wolf đối chiếu trên bản PDF sách (Princeton UP 2010) do LSE lưu cho khóa học: Wolf có trả lời câu \"Who’s to say?\" nhưng ở chú thích 6 bà thừa nhận hoàn cảnh có thể lấy mất cơ hội cho ý nghĩa, nên phần \"Cách đáp lại\" về sự bất công gán cho Wolf một lời bác bỏ mà bà không đưa ra. Ví dụ \"đếm hạt cát\" là ví dụ của bài (Wolf dùng ví dụ tương tự như đếm gạch nhà tắm), không gán cho Wolf."
+  "result": "dat",
+  "notes": "Bốn lập trường đều có đủ ba nhãn. Phần Nagel đối chiếu qua câu hỏi thảo luận của khóa LSE Ph103 (trích nguyên văn Nagel) và Crossref, vì bản gốc trên JSTOR/PDCnet không mở được. Wolf đối chiếu trên bản PDF sách (Princeton UP 2010) do LSE lưu cho khóa học: Wolf có trả lời câu \"Who’s to say?\" nhưng ở chú thích 6 bà thừa nhận hoàn cảnh có thể lấy mất cơ hội cho ý nghĩa, nên phần \"Cách đáp lại\" về sự bất công gán cho Wolf một lời bác bỏ mà bà không đưa ra. Ví dụ \"đếm hạt cát\" là ví dụ của bài (Wolf dùng ví dụ tương tự như đếm gạch nhà tắm), không gán cho Wolf. Lượt 2: câu Wolf về sự bất công đã sửa; chữ áp khác fix (bỏ \"bất công của hoàn cảnh, không phải lỗi của lý thuyết\", thêm \"mục đích của khái niệm ý nghĩa không phải là xếp hạng các đời sống\", ví dụ người dọn nhà thuê/tài xế xe tải/thẩm phán Tòa án Tối cao) nhưng đều có trong bản PDF Wolf 2010 (chú thích 6 và phần Response), nên giữ fixed. Euthyphro đã sửa đúng fix."
 }

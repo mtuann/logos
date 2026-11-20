@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ai-nen-cai-tri.md#doc-van-ban-goc",
-  "hash": "sha256:f0ec9ba44382402fb8ad0738ec7cc361c262f4d9e774cf0610ab147633620de9",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k01",
+  "hash": "sha256:00b66b0a79c20fac039ec09e47cbe6b3e300f9974d11346dffabc8cc38c09f1e",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k01 + agent-kiem-5.8-r02",
   "claims": [
     {
       "text": "Cộng hòa của Platon đã thuộc phạm vi công cộng. Hình ảnh con tàu (Quyển VI, 488a–489d) có thể đọc qua bản dịch tiếng Anh của Benjamin Jowett",
@@ -62,7 +62,24 @@
     {
       "text": "Brennan so sánh quyền bầu cử với bằng lái xe: đều là những hoạt động mà sự thiếu năng lực gây hại cho người khác.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "exam, akin to a driver exam, which tests generally relevant",
+          "where": "Brennan 2011, 'The Right to a Competent Electorate', Philosophical Quarterly 61(245): 700–724, §III (bản PDF trên trang khóa học Đại học Colorado) — ví von bài thi cử tri với bài thi lái xe; Against Democracy (2016) phát triển cùng nguyên tắc năng lực"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "As a parallel, it would be unjust to exclude citizens from driving",
+          "where": "Brennan 2011, §I"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1111/j.1467-9213.2011.699.x",
+          "quote": "THE RIGHT TO A COMPETENT ELECTORATE",
+          "where": "Crossref: Brennan, Philosophical Quarterly 61(245), 2011"
+        }
+      ]
     },
     {
       "text": "Người phản bác Brennan nói: tuổi bầu cử là tiêu chí khách quan không thể thao túng, còn \"bài kiểm tra kiến thức\" thì có thể.",
@@ -95,6 +112,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Trích dẫn Brennan: không trích nguyên văn, chỉ tóm tắt (đúng luật bản quyền). Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe."
+  "result": "dat",
+  "notes": "Trích dẫn Brennan: không trích nguyên văn, chỉ tóm tắt (đúng luật bản quyền). Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe. Lượt 2: câu con tàu \"không thể dạy được\" đã sửa đúng fix, giữ fixed. ví von bằng lái xe tìm được trong bài báo 2011 của chính Brennan ('The Right to a Competent Electorate', Phil. Quarterly; bản PDF trên trang khóa học rintintin.colorado.edu, đối chiếu Crossref): bài thi cử tri 'akin to a driver exam'; ví von giấy phép hành nghề y ở bài Aeon 2016 của Brennan; lập luận tuổi bầu cử ở Brennan 2011 §IV. Bài gán cho Against Democracy (2016); sách phát triển cùng nguyên tắc năng lực, chưa đối chiếu được trang sách — chấp nhận ở mức diễn giải."
 }

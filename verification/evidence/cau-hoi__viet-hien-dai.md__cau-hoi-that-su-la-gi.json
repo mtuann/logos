@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/viet-hien-dai.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:52e5ee93820007ab175b5659a46650f3ce64dc4c6bff6baf42c02140457d1a99",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k17",
+  "hash": "sha256:26dea32e6d3db83df2d7e5f534dbd93195963f680e809cc77e4c1859c360e7b4",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k17 + agent-kiem-5.8-r01",
   "claims": [
     {
       "text": "(3) sự tiếp nhận chủ nghĩa Marx, rồi sau 1945 trở thành nền tảng tư tưởng chính thức ở miền Bắc **[có cơ sở]**",
@@ -95,19 +95,38 @@
       "kb": "ho-so/tran-duc-thao"
     },
     {
-      "text": "Hình \"Triết học Việt Nam: một trục thời gian\": Trúc Lâm (TK 13), Duy Tân (đầu TK 20), khoa cử cuối cùng 1919, Trần Đức Thảo 1951, hiện sinh ở miền Nam 1950–60, Trần Đình Hượu 1996",
+      "text": "Hình \"Triết học Việt Nam: một trục thời gian\": Trúc Lâm (TK 13), Duy Tân (đầu TK 20), khoa cử cuối cùng 1919, Trần Đức Thảo 1951, hiện sinh ở miền Nam 1950–60",
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "events/viet-nam.viet-hien-dai.1951-2"
+    },
+    {
+      "text": "Hình fig:vietnam-timeline: mốc \"Trần Đình Hượu\" ghi năm 1996 (aria-label \"Trần Đình Hượu (1996)\")",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Trong tools/figures.py (fig_vietnam_timeline và mục \"vietnam-timeline\" của FIGURES): đổi năm của mốc Trần Đình Hượu từ \"1996\" thành \"1994\", và \"Trần Đình Hượu (1996)\" thành \"Trần Đình Hượu (1994)\" trong aria-label/alt.",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "in lần đầu vào tháng 5/1994",
+          "where": "Đến hiện đại từ truyền thống in lần đầu 1994; 1996 là bản NXB Văn hóa mà site dẫn"
+        },
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Năm mất: 1995",
+          "where": "Hượu mất năm 1995: mốc 1996 trên trục thời gian tư tưởng rơi vào sau khi ông mất"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": null,
     "phan-bac": null,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Mốc hình trục thời gian khớp các bản ghi sự kiện đã đóng băng (1919: events/viet-nam.viet-hien-dai.1919-2; 1951; 1950/1960; 1996). Câu \"Hiện sinh … không phải qua giảng đường đại học\" trái với hai nguồn học thuật. \"dành cả sự nghiệp\" là việc ghi sẵn trong viec-cho (5.8): nguồn ĐHQG cho thấy trọng tâm sự nghiệp của ông là Nho giáo, lịch sử tư tưởng phương Đông và văn học trung cận đại."
+  "result": "dat",
+  "notes": "Mốc hình trục thời gian khớp các bản ghi sự kiện đã đóng băng (1919: events/viet-nam.viet-hien-dai.1919-2; 1951; 1950/1960; 1996). Câu \"Hiện sinh … không phải qua giảng đường đại học\" trái với hai nguồn học thuật. \"dành cả sự nghiệp\" là việc ghi sẵn trong viec-cho (5.8): nguồn ĐHQG cho thấy trọng tâm sự nghiệp của ông là Nho giáo, lịch sử tư tưởng phương Đông và văn học trung cận đại. Lượt 2: ba claim fixed đã áp đúng: hiện sinh đến miền Nam qua giảng đường và tạp chí Bách khoa, Đại học (Gadkar-Wilcox 2014; Ngô Thị Diệm 2021); \"theo đuổi trong nhiều bài viết\" (bỏ \"(in lần đầu 1994)\" để khỏi trùng, vẫn đúng ý fix). Chỗ còn sót: mốc hình \"Trần Đình Hượu (1996)\" → claim sai mức nhẹ, sửa ở tools/figures.py; claim hình cũ thu hẹp còn năm mốc kia."
 }

@@ -1,9 +1,28 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#cac-lap-truong-chinh",
-  "hash": "sha256:d5c13fed15389530226c86dcb0031539e4c2ff16621229d38e9a3343f1873b17",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k08",
+  "hash": "sha256:ad125cfd7c23985e73a8b0d2c787afb8c11cf841ccfeb6aef5d41df4ea16a05f",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03",
   "claims": [
+    {
+      "text": "### 1. Luận chứng vũ trụ luận: mọi sự đều có nguyên nhân",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "### 1. Luận chứng vũ trụ luận: chuỗi nguyên nhân phải có điểm đầu",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "In the world of sense we find there is an order of efficient causes",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        },
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "There is no case known (neither is it, indeed, possible) in which a thing is found to be the efficient cause of itself",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        }
+      ]
+    },
     {
       "text": "Khoảng năm 1265–1273, Thomas Aquinas viết *Tổng luận Thần học* (*Summa Theologiae*).",
       "kind": "du-kien",
@@ -220,7 +239,16 @@
     {
       "text": "(ví dụ ngày nay hay dẫn: điểm mù của mắt người, đường sinh sản đi xuyên qua tuyến tiền liệt, 99% loài từng tồn tại đã tuyệt chủng)",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "(ví dụ: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng)",
+      "sources": [
+        {
+          "url": "https://www.nhm.ac.uk/discover/what-is-mass-extinction-and-are-we-facing-a-sixth-one.html",
+          "quote": "About 98% of all the organisms that have ever existed on our planet are now extinct.",
+          "where": "Natural History Museum (London), mục What is a mass extinction?"
+        }
+      ]
     },
     {
       "text": "Từ một hiệu ứng, ta chỉ được suy ra nguyên nhân *vừa đủ* cho hiệu ứng đó",
@@ -386,7 +414,22 @@
     {
       "text": "Người bênh vực Anselm, nổi bật là Alvin Plantinga, cho rằng phản ví dụ \"hòn đảo\" không tương đương",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "following Plantinga, that, since we know a priori that there is no intrinsic maximum for the greatness of islands",
+          "where": "mục về phản bác hòn đảo của Gaunilo"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "According to Plantinga, any island, no matter how great, can be improved by the addition of more palm trees."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "While there is an intrinsic maximum for knowledge—knowing everything—there is no intrinsic maximum for the number of palm trees on an island."
+        }
+      ]
     },
     {
       "text": "những phẩm chất làm nên một hòn đảo tuyệt vời (thêm cây dừa, thêm bãi cát...) không có mức tối đa",
@@ -448,6 +491,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Cả ba luận chứng đủ ba nhãn. Chưa kiểm được: (1) gán cách đáp \"hòn đảo không có mức tối đa\" cho Alvin Plantinga — IEP (ont-arg) trình bày cách đáp này nhưng không ghi tên Plantinga (chỉ gọi ông là \"the most important contemporary defender of the argument\"); SEP Ontological Arguments và SEP Anselm không gán; bản số hóa God, Freedom, and Evil trên archive.org là bản tải lên không rõ quyền nên không dùng. Nếu không tìm được nguồn, câu chắc chắn hơn: \"Người bênh vực Anselm cho rằng phản ví dụ \"hòn đảo\" không tương đương: ...\". (2) Các ví dụ hiện đại về thiết kế vụng về, nhất là con số \"99% loài từng tồn tại đã tuyệt chủng\": SEP/IEP không có; đã thử education.nationalgeographic.org/resource/extinction/ và amnh.org (không có con số). Nếu không có nguồn, câu dè dặt: \"(ví dụ ngày nay hay dẫn: điểm mù của mắt người, phần lớn các loài từng sống đã tuyệt chủng)\" hoặc bỏ cả ngoặc. Ngoài ra phần ngoặc \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" không có nguồn, nên làm dè dặt hoặc bỏ."
+  "result": "sua",
+  "notes": "Cả ba luận chứng đủ ba nhãn. Chưa kiểm được: (1) gán cách đáp \"hòn đảo không có mức tối đa\" cho Alvin Plantinga — IEP (ont-arg) trình bày cách đáp này nhưng không ghi tên Plantinga (chỉ gọi ông là \"the most important contemporary defender of the argument\"); SEP Ontological Arguments và SEP Anselm không gán; bản số hóa God, Freedom, and Evil trên archive.org là bản tải lên không rõ quyền nên không dùng. Nếu không tìm được nguồn, câu chắc chắn hơn: \"Người bênh vực Anselm cho rằng phản ví dụ \"hòn đảo\" không tương đương: ...\". (2) Các ví dụ hiện đại về thiết kế vụng về, nhất là con số \"99% loài từng tồn tại đã tuyệt chủng\": SEP/IEP không có; đã thử education.nationalgeographic.org/resource/extinction/ và amnh.org (không có con số). Nếu không có nguồn, câu dè dặt: \"(ví dụ ngày nay hay dẫn: điểm mù của mắt người, phần lớn các loài từng sống đã tuyệt chủng)\" hoặc bỏ cả ngoặc. Ngoài ra phần ngoặc \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" không có nguồn, nên làm dè dặt hoặc bỏ.\nLượt 2: claim sai cũ (thân bài con đường 2, bảng) đã sửa đúng ý fix. Claim chưa kiểm được: (a) Plantinga và \"hòn đảo\" — SEP Ontological Arguments gán rõ cho Plantinga (\"no intrinsic maximum\", \"palm trees\") → dung; (b) \"điểm mù… tuyến tiền liệt… 99% loài\" — đã thử SEP Teleological Arguments, SEP Creationism, SEP Problem of Evil, IEP Design Arguments, IEP Evolution and Religion, Europe PMC (không có bài OA đáng tin), Britannica (chặn bot, không vượt); NHM London ghi \"About 98%\" (lệch 99%), không nguồn nào cho hai ví dụ giải phẫu → sai nhẹ, fix bỏ chi tiết. H3 \"mọi sự đều có nguyên nhân\" còn sót (con-sot) → sai vừa, cùng loại claim thân bài lượt 1. Ngoài claim: \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" vẫn không nguồn (lượt 1 đã ghi chú)."
 }

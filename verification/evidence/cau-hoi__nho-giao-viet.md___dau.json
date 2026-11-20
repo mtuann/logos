@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nho-giao-viet.md#_dau",
-  "hash": "sha256:8bd5b487250069316fd93f3a440776330337399060c7648e2f3fc4f9ea2b3287",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k16",
+  "hash": "sha256:8a509d8db90b775f6087e7de69d138e34b36fecd6b038309ca3a75347e67a221",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k16 + agent-kiem-5.8-r01",
   "claims": [
     {
       "text": "Nho giáo sinh ra ở Trung Hoa, từ Khổng Tử (thế kỷ 6–5 trước Công nguyên) **[chắc chắn]**",
@@ -83,15 +83,34 @@
           "where": "chú giải có mặt trước mục H2 đầu tiên"
         }
       ]
+    },
+    {
+      "text": "Tóm tắt, ý 2: sáng tạo/Việt hóa — người Việt chọn lọc mặt thực tiễn-đạo đức, và Nguyễn Trãi đã *định nghĩa lại* \"nhân nghĩa\" thành \"cốt ở yên dân\" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "sáng tạo/Việt hóa — người Việt chọn lọc mặt thực tiễn-đạo đức, và theo cách đọc của phe này, Nguyễn Trãi đã *định nghĩa lại* \"nhân nghĩa\" thành \"cốt ở yên dân\" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/mencius/",
+          "quote": "convince their rulers to govern through benevolence and moral suasion rather than brute force",
+          "where": "SEP Mencius, mục 1: nhân nghĩa đã là nguyên tắc trị nước ở Mạnh Tử; thân bài (mục Câu hỏi thật sự là gì, đã sửa ở lượt 1) ghi \"mức độ mới còn được bàn\", Tóm tắt nên giữ cùng mức dè dặt"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81",
+          "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。",
+          "where": "Toàn thư, Bản kỷ quyển 10"
+        }
+      ]
     }
   ],
   "checklist": {
     "dung-nguon": true,
     "manh-nhat": null,
     "phan-bac": null,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Kiểm từng ý Tóm tắt với thân bài: khớp. Nhãn độ chắc chắn có ở cả ba câu lịch sử của đoạn mở. Ghi chú: trang đã deploy là bản cũ hơn repo (ví dụ \"câu dịch trong sách giáo khoa\" thay vì \"câu dịch thường gặp\"); chỉ dùng trang deploy để trích những chuỗi trùng với repo."
+  "notes": "Kiểm từng ý Tóm tắt với thân bài: khớp. Nhãn độ chắc chắn có ở cả ba câu lịch sử của đoạn mở. Ghi chú: trang đã deploy là bản cũ hơn repo (ví dụ \"câu dịch trong sách giáo khoa\" thay vì \"câu dịch thường gặp\"); chỉ dùng trang deploy để trích những chuỗi trùng với repo. Lượt 2: claim fixed (ý 3 \"trình bày lập luận mạnh nhất…, để bạn tự cân nhắc\") đã áp đúng. Chỗ còn sót: ý 2 vẫn khẳng định phẳng \"Nguyễn Trãi đã định nghĩa lại\" trong khi thân bài đã dè dặt → claim sai mức nhẹ. Tóm tắt không gộp \"trừ bạo\" vào định nghĩa nhân nghĩa."
 }

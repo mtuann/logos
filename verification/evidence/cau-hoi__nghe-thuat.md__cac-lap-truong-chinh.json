@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nghe-thuat.md#cac-lap-truong-chinh",
-  "hash": "sha256:ad63c71559caa723cdece9b26e43c34a42395c11a72a1fc1846f6d3c8ea12841",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k07",
+  "hash": "sha256:40fd2b22902085430d0f47a37d934aad227444baabc8ad5e038606d70fdb3060",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k07 + agent-kiem-5.8-r05",
   "claims": [
     {
       "text": "Năm 1897, văn hào Lev Tolstoy xuất bản *Nghệ thuật là gì?* (*What is Art?*).",
@@ -316,6 +316,12 @@
           "quote": "(Dickie 1974)"
         }
       ]
+    },
+    {
+      "text": "Hình fig:ho-khai-niem: tiêu đề \"Tương đồng gia đình (Wittgenstein / Weitz)\" và chú thích \"Tương đồng gia đình: hội họa, âm nhạc, văn học, điện ảnh, game/AI…\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "terms/tuong-dong-gia-dinh"
     }
   ],
   "checklist": {
@@ -323,8 +329,8 @@
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Bốn lập trường đều đủ ba nhãn. Dữ kiện về Tolstoy đối chiếu từng câu với bản dịch Maude (Gutenberg 64908, tải qua mirror gutenberg.pglaf.org vì gutenberg.org đang bảo trì); Bell với Gutenberg 16917 (cùng mirror; trang tên bản này ghi 1913, lời tựa đề \"November 1913\", năm 1914 theo bản ghi nguồn đã đóng băng). Câu Danto \"atmosphere of artistic theory, a knowledge of the history of art\" xác nhận qua bài PDF trên SOAS trích Danto (bản này in \"decry\" thay vì \"descry\"); chưa mở được nguyên bản JSTOR. Thuật ngữ: \"tương tự gia đình\" ở thân bài và \"Tương tự họ\" trong hình (khối <!-- fig:ho-khai-niem --> sinh tự động, sửa ở nguồn hình) lệch với thuật ngữ trong tự điển của site là \"tương đồng gia đình\" (terms/tuong-dong-gia-dinh). Ví dụ tiền giấy ở lập trường 3 là phép so sánh của bài, không gán trích dẫn cho Dickie."
+  "notes": "Bốn lập trường đều đủ ba nhãn. Dữ kiện về Tolstoy đối chiếu từng câu với bản dịch Maude (Gutenberg 64908, tải qua mirror gutenberg.pglaf.org vì gutenberg.org đang bảo trì); Bell với Gutenberg 16917 (cùng mirror; trang tên bản này ghi 1913, lời tựa đề \"November 1913\", năm 1914 theo bản ghi nguồn đã đóng băng). Câu Danto \"atmosphere of artistic theory, a knowledge of the history of art\" xác nhận qua bài PDF trên SOAS trích Danto (bản này in \"decry\" thay vì \"descry\"); chưa mở được nguyên bản JSTOR. Thuật ngữ: \"tương tự gia đình\" ở thân bài và \"Tương tự họ\" trong hình (khối <!-- fig:ho-khai-niem --> sinh tự động, sửa ở nguồn hình) lệch với thuật ngữ trong tự điển của site là \"tương đồng gia đình\" (terms/tuong-dong-gia-dinh). Ví dụ tiền giấy ở lập trường 3 là phép so sánh của bài, không gán trích dẫn cho Dickie.\nLượt 2 (agent-kiem-5.8-r05): claim \"tương đồng gia đình\" và ví dụ nhiếp ảnh đã sửa đúng fix. Hình fig:ho-khai-niem (chỗ còn sót, sửa ở tools/figures.py) nay ghi tiêu đề và chú thích \"Tương đồng gia đình\", khớp thuật ngữ đã đóng băng terms/tuong-dong-gia-dinh; ghi claim mới."
 }

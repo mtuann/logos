@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#tu-kiem-tra",
   "hash": "sha256:892ebb51817d04d9447a1f1ef113f1337135eb5e6970ca36fcf5383e21a44406",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k08",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03",
   "claims": [
     {
       "text": "\"Phải có một tồn tại đầu tiên, tự mình tồn tại, mà mọi thứ khác đều do nó mà có — Aquinas gọi đó là Thượng đế\"",
@@ -64,6 +64,19 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "philpapers/thuong-de"
+    },
+    {
+      "text": "Nhưng nhiều triết gia vô thần vẫn coi một số luận chứng là đáng nể về mặt triết học — số đông không quyết định chân lý.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nhưng số đông không quyết định chân lý, và tranh luận về từng luận chứng vẫn tiếp diễn.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "it is much easier to be persuaded that ontological arguments are no good than it is to say exactly what is wrong with them"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -74,5 +87,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu: đáp án đúng đúng, phương án sai thật sự sai, lời giải khớp bài."
+  "notes": "Năm câu: đáp án đúng đúng, phương án sai thật sự sai, lời giải khớp bài.\nLượt 2: còn sót (con-sot): lời giải quiz câu 6 còn câu khái quát \"nhiều triết gia vô thần vẫn coi…\" đã bỏ ở Tóm tắt và Giới triết học (claim lượt 1, không nguồn) → sai nhẹ kèm fix."
 }

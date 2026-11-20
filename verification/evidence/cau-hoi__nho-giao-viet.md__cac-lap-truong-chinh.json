@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nho-giao-viet.md#cac-lap-truong-chinh",
-  "hash": "sha256:89e508b98565247a44e25bd046f37bb368528edfbfcf2c47bf79c58ab298beca",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k16",
+  "hash": "sha256:711de7fa4c719fe69072a73ae54b98b3730b78984dfaab6abde17d7b0338ba91",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k16 + agent-kiem-5.8-r01",
   "claims": [
     {
       "text": "Sĩ phu Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi khoa cử theo mẫu Trung Hoa, thờ Khổng Tử, tuân theo tam cương ngũ thường **[chắc chắn]**.",
@@ -158,14 +158,16 @@
     {
       "text": "\"Nhân nghĩa\" của Nguyễn Trãi: \"cốt ở yên dân\" — tiêu chuẩn là dân có được yên ổn không; và \"trừ bạo\" là bổn phận **[chắc chắn]** (theo văn bản *Bình Ngô đại cáo*).",
       "kind": "du-kien",
-      "verdict": "dung",
+      "verdict": "sai",
       "sources": [
         {
           "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%8D%81",
           "quote": "仁義之舉，要在安民，吊伐之師，莫先去暴。",
-          "where": "Toàn thư, Bản kỷ quyển 10"
+          "where": "Toàn thư, Bản kỷ quyển 10: 去暴 thuộc vế 吊伐之師, không phải một phần định nghĩa nhân nghĩa; thân bài mục Câu hỏi thật sự là gì đã sửa theo cách đọc này ở lượt 1"
         }
-      ]
+      ],
+      "severity": "nhe",
+      "fix": "- \"Nhân nghĩa\" của Nguyễn Trãi: \"cốt ở yên dân\" — tiêu chuẩn là dân có được yên ổn không; còn đạo quân \"điếu phạt\" thì trước hết phải \"trừ bạo\" **[chắc chắn]** (theo văn bản *Bình Ngô đại cáo*)."
     },
     {
       "text": "Hệ quả: một triều đình (kể cả triều đình \"thiên triều\" phương Bắc) mà làm dân khổ thì *mất* tính chính đáng — đây là lý lẽ để khẳng định độc lập dân tộc **[có cơ sở]**.",
@@ -292,12 +294,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
-    "manh-nhat": false,
+    "dung-nguon": true,
+    "manh-nhat": true,
     "phan-bac": true,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Việc riêng 5.8 (lập trường 2 \"Việt hóa\"): bài hiện không gán lập trường cho tên người nào, nên không có phần gán tên cần bỏ. Nội dung \"thiên về thực tiễn, ít siêu hình\" có nguồn: Nguyễn Tài Thư (Tạp chí Triết học 9/2009) nêu đúng đặc điểm ấy và xác nhận có \"nhiều ý kiến khác nhau\" — nhưng lưu ý ông đánh giá đặc điểm ấy là hạn chế (thiếu học phái, chưa đổi mới về chất), tức là gần phe \"tiếp thu\" hơn; nếu muốn gán tên cho phe \"Việt hóa\" thì cần nguồn khác (chưa tìm được nguồn mở; vjol.info.vn lỗi kết nối). Ba nhãn có đủ ở cả hai lập trường và ở mục 3. Lỗi vừa: nhãn [chắc chắn] gắn cho diễn giải \"trung quân\"; [có cơ sở] cho hai khái quát không có nguồn (\"tự nhận… không ai tuyên bố\", \"đậm đặc hơn hẳn\")."
+  "result": "dat",
+  "notes": "Việc riêng 5.8 (lập trường 2 \"Việt hóa\"): bài hiện không gán lập trường cho tên người nào, nên không có phần gán tên cần bỏ. Nội dung \"thiên về thực tiễn, ít siêu hình\" có nguồn: Nguyễn Tài Thư (Tạp chí Triết học 9/2009) nêu đúng đặc điểm ấy và xác nhận có \"nhiều ý kiến khác nhau\" — nhưng lưu ý ông đánh giá đặc điểm ấy là hạn chế (thiếu học phái, chưa đổi mới về chất), tức là gần phe \"tiếp thu\" hơn; nếu muốn gán tên cho phe \"Việt hóa\" thì cần nguồn khác (chưa tìm được nguồn mở; vjol.info.vn lỗi kết nối). Ba nhãn có đủ ở cả hai lập trường và ở mục 3. Lỗi vừa: nhãn [chắc chắn] gắn cho diễn giải \"trung quân\"; [có cơ sở] cho hai khái quát không có nguồn (\"tự nhận… không ai tuyên bố\", \"đậm đặc hơn hẳn\"). Lượt 2: bốn claim fixed (Chu Văn An \"trung quân\" [suy đoán]; \"thường/hiếm ai\" + Hồ Quý Ly; \"nổi bật hơn\" [suy đoán]; định nghĩa 1 và \"Theo định nghĩa 2\") đã áp đúng. Chỗ còn sót: (1) \"trừ bạo là bổn phận\" vẫn gộp 去暴 vào nhân nghĩa → đổi claim cũ thành sai, mức nhẹ (nội dung có trong văn bản, chỉ sai chỗ gắn); (2) \"tuân theo tam cương ngũ thường **[chắc chắn]**\": giữ dung — Nguyễn Tài Thư (Tạp chí Triết học 9/2009, bản lưu Wayback tải lại) nói thẳng \"tam cương, ngũ thường\" đã thành nền tảng tư tưởng cho các triều đình Việt Nam, đủ cho nhãn [chắc chắn]; việc bỏ \"tam cương\" ở mục Nguồn (lượt 1) chỉ vì SEP Confucius không bàn khái niệm này. Việc riêng \"ai theo lập trường Việt hóa\": bài vẫn không gán tên người."
 }

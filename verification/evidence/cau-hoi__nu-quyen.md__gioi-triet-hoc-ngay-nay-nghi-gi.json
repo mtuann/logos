@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nu-quyen.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:af9039cf3b7f109f06a7b5df16e7ef705d5165492c026091489e9379a3d145fd",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "hash": "sha256:abe76864003de3a8942e7fcf5116f97ee763ab968b6da40ce772499f5144530c",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không hỏi về nữ quyền bình đẳng, lý thuyết standpoint hay đạo đức chăm sóc ... không có câu nào hỏi ... (trong [[pp:khao-sat/so-cau]] câu hỏi)",
@@ -43,6 +43,11 @@
           "url": "https://doi.org/10.3998/phimp.2109",
           "quote": "Of the 60 additional questions, one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory 50 questions.",
           "where": "mục 3.2"
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "We also added a further group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "mục 2"
         }
       ],
       "fixed": true
@@ -123,5 +128,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu qua shortcode từ kho philpapers đóng băng; câu văn diễn đạt đúng (câu chính / câu bổ sung, \"chấp nhận hoặc nghiêng về\", cột loại trừ). Lỗi nhẹ: mô tả câu bổ sung \"chỉ hỏi những người chọn trả lời thêm\" chưa đúng cách chọn mẫu."
+  "notes": "Số liệu qua shortcode từ kho philpapers đóng băng; câu văn diễn đạt đúng (câu chính / câu bổ sung, \"chấp nhận hoặc nghiêng về\", cột loại trừ). Lỗi nhẹ: mô tả câu bổ sung \"chỉ hỏi những người chọn trả lời thêm\" chưa đúng cách chọn mẫu. Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): câu bổ sung nay ghi \"được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm\" — khớp Bourget & Chalmers 2023 mục 2 (\"one-sixth of participants (selected randomly)\") và mục 3.2; chữ khác fix nhưng cùng ý, đúng nguồn. Câu mở đoạn đã rút thành \"một hướng nghiên cứu lớn\" (bỏ mốc 1980, tạp chí, khoa). Giữ fixed: true cả hai; quote bài báo tải lại trong phiên (journals.publishing.umich.edu), so khớp."
 }

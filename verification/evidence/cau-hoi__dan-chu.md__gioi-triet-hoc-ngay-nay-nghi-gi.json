@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dan-chu.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:2697b6645bfab0249fa23fd5391a104081d5f80d8211ff0b2e78fa79562110e3",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k01",
+  "hash": "sha256:62994a8d24311fa48aad77cb77134ac0afe362518e25f2350da72e878c3109e1",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k01 + agent-kiem-5.8-r02",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về dân chủ",
@@ -78,5 +78,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu qua shortcode từ philpapers/triet-hoc-chinh-tri (đóng băng): câu chính, Bảng 1, \"chấp nhận hoặc nghiêng về\", đúng ba lựa chọn (44,0 / 27,3 / 13,4 theo tools/philpapers-2020.md). Hai khái quát không có nguồn: mức nhẹ."
+  "notes": "Số liệu qua shortcode từ philpapers/triet-hoc-chinh-tri (đóng băng): câu chính, Bảng 1, \"chấp nhận hoặc nghiêng về\", đúng ba lựa chọn (44,0 / 27,3 / 13,4 theo tools/philpapers-2020.md). Hai khái quát không có nguồn: mức nhẹ. Lượt 2: hai claim sai nhẹ (Schumpeter → thuyết dân chủ tinh hoa; \"Một người có thể chấp nhận cả ba\") đã sửa đúng fix; giữ fixed."
 }

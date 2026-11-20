@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/bien-gioi-di-cu.md#cac-lap-truong-chinh",
-  "hash": "sha256:55eaa42787a440ce75841c179506176ee349936c7035a8d8c3684ef086f7f76a",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k04",
+  "hash": "sha256:597a0583ea215e1843aa03251931cf98126ac771323aba0390d790e8469fc14a",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k04 + agent-kiem-5.8-r06",
   "claims": [
     {
       "text": "Joseph Carens, trong bài báo \"Aliens and Citizens: The Case for Open Borders\" (1987)",
@@ -287,15 +287,27 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Một phản bác khác nhắm vào ranh giới của nghĩa vụ (Shacknove 1985 đặt câu hỏi này cho chính định nghĩa người tị nạn)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/immigration/",
+          "quote": "Critics like Andrew Shacknove (1985) have questioned this definition on at least three grounds.",
+          "where": "mục 3.1"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba lập trường đều đủ ba nhãn. Nguyên văn bài 1987 của Carens không mở được (Cambridge/JSTOR chặn, dl1.cuni.cz cần đăng nhập, bản archive.org chỉ cho mượn); đối chiếu qua tóm tắt bài (Cambridge, Crossref), SEP Immigration và Pölzler (2019). Lập trường 3 không gắn tác giả cụ thể; các yêu cầu minh bạch/khiếu nại là cách diễn đạt của bài."
+  "result": "dat",
+  "notes": "Ba lập trường đều đủ ba nhãn. Nguyên văn bài 1987 của Carens không mở được (Cambridge/JSTOR chặn, dl1.cuni.cz cần đăng nhập, bản archive.org chỉ cho mượn); đối chiếu qua tóm tắt bài (Cambridge, Crossref), SEP Immigration và Pölzler (2019). Lập trường 3 không gắn tác giả cụ thể; các yêu cầu minh bạch/khiếu nại là cách diễn đạt của bài.\nLượt 2: Ba fix lập trường 1, nghĩa vụ người tị nạn, phản bác Shacknove đã áp; hai fix 'Thứ nhất…' và 'Điểm gần như được đồng thuận nhất…' được gộp thành một câu ('Điểm gần như được đồng thuận nhất là **nghĩa vụ với người tị nạn**: người có nỗi sợ có cơ sở…'; 'Người theo lập trường này thường thêm hai yêu cầu nữa. Thứ nhất… Thứ hai…'), đúng ý cả hai fix. Shacknove (1985) khớp SEP Immigration mục 3.1 (tải lại trong phiên). dung-nguon chuyển true. Nguồn chưa có dòng Shacknove: ghi ở đơn vị #nguon."
 }

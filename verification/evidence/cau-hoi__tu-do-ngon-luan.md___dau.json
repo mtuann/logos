@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tu-do-ngon-luan.md#_dau",
   "hash": "sha256:df7e5b4bff4ee418bb5d495513436b893cabc6b35f9bef0dc1cb866ed57aea34",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "bài hỏi ba câu hỏi triết học: vì sao nó đáng giá (tìm ra sự thật, tôn trọng tự trị, điều kiện của dân chủ), giới hạn nằm ở đâu, và ai được phép vẽ giới hạn (nhà nước hay nền tảng tư nhân?)",
@@ -56,7 +56,7 @@
       "kb": "quotes/j-s-mill.on-liberty"
     },
     {
-      "text": "Popper (The Open Society and Its Enemies, 1945) — nghịch lý khoan dung: khoan dung vô hạn dẫn đến sự biến mất của khoan dung, nên phải không khoan dung với sự không khoan dung (nhưng bar rất cao: chỉ khi đối phương từ chối tranh luận bằng lý lẽ)",
+      "text": "Popper (The Open Society and Its Enemies, 1945) — nghịch lý khoan dung: khoan dung vô hạn dẫn đến sự biến mất của khoan dung, nên phải không khoan dung với sự không khoan dung",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -69,6 +69,30 @@
           "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
           "quote": "as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise.",
           "where": "như trên"
+        }
+      ]
+    },
+    {
+      "text": "(nhưng bar rất cao: chỉ khi đối phương từ chối tranh luận bằng lý lẽ)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "(đàn áp các triết lý không khoan dung chỉ khi đối phương từ chối tranh luận bằng lý lẽ; nhưng Popper cũng muốn coi việc kích động sự không khoan dung là tội phạm)",
+      "sources": [
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise.",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "We should claim that any movement preaching intolerance places itself out- side the law, and we should consider incitement to intolerance and persecudon as criminal",
+          "where": "tập 1, chương 7, chú thích 4 (OCR giữ nguyên lỗi \"out- side\", \"persecudon\")"
         }
       ]
     },
@@ -115,5 +139,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tóm tắt khớp thân bài. Phần lập trường Popper: xem claim sai mức vừa ở cac-lap-truong-chinh (bỏ sót ý Popper coi kích động không khoan dung là tội phạm); tóm tắt chỉ nói ngưỡng đàn áp các triết lý không khoan dung nên vẫn đúng với nguồn."
+  "notes": "Tóm tắt khớp thân bài. Phần lập trường Popper: xem claim sai mức vừa ở cac-lap-truong-chinh (bỏ sót ý Popper coi kích động không khoan dung là tội phạm); tóm tắt chỉ nói ngưỡng đàn áp các triết lý không khoan dung nên vẫn đúng với nguồn. Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): theo mục \"Chỗ còn sót\": Tóm tắt vẫn tóm Popper \"bar rất cao: chỉ khi đối phương từ chối tranh luận\", trong khi thân bài (cac-lap-truong-chinh, đã sửa) nay ghi thêm ý chú thích 4 ch.7: phong trào rao giảng sự không khoan dung tự đặt mình ra ngoài vòng pháp luật, kích động không khoan dung là tội phạm. Tách phần ngoặc thành claim sai nhẹ, fix dán thẳng thay phần ngoặc. Quote Popper (archive.org djvu.txt), SEP, Gutenberg tải lại trong phiên, so khớp."
 }
