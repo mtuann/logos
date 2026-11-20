@@ -2,6 +2,7 @@
 
 Website triết học bằng tiếng Việt, cho người bắt đầu từ con số 0: bản làm lại của Logos Zero theo `KE-HOACH.md`.
 Địa chỉ: <https://mtuann.github.io/logos/>. Logos Zero (<https://mtuann.github.io/logos-zero/>, repo `mtuann/logos-zero`) vẫn chạy song song, độc lập; repo này bắt đầu từ bản nhập nguyên trạng `logos-zero@ecb2bb8` (tag `v1.0-moc`).
+Từ đợt 5 (tag `v1.5`), toàn bộ Lõi đã kiểm chứng và đóng băng: mỗi đơn vị có bằng chứng ở `verification/evidence/`, trạng thái ở `verification/ledger.json` (`uv run python tools/check_ledger.py --status`).
 
 Site tĩnh (ProperDocs 1.6.7, bản kế tục MkDocs 1.x, + Material for MkDocs 9.8.0; phiên bản ghim trong `uv.lock`), không có máy chủ. Các công cụ tương tác viết bằng JavaScript thuần, dữ liệu người học chỉ lưu trong `localStorage` của trình duyệt.
 

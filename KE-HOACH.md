@@ -16,7 +16,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | **Xong** 5/11/2026 (tag `v1.3`) — `ban-giao/dot-3.md`, nhật ký `ban-giao/nhat-ky-dot-3.md` |
 | 4 | Giao diện tối thiểu | 14/12–20/12/2026 | **Xong** 5/11/2026 (tag `v1.4`) — `ban-giao/dot-4.md`, nhật ký `ban-giao/nhat-ky-dot-4.md` |
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
-| 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Đang làm** từ 5/11/2026 — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
+| 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Xong** 20/11/2026 (tag `v1.5`; đóng băng "Claude duyệt tạm", chủ biên duyệt lại) — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
 | 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | Chưa |
 | 7 | Vận hành Mở rộng | từ 26/4/2027 | Chưa |
 
@@ -210,13 +210,13 @@ Kiểm kho trước, để các bài sau chỉ còn phải kiểm phần diễn 
 |---|---|---|
 | `tools/content_registry.py --check` | trang có trong `docs/` mà thiếu trong `content.yml`, hoặc ngược lại; front matter lệch sổ đăng ký | 0 |
 | `tools/check_ledger.py --check` | đơn vị `frozen` đổi mã băm mà PR không có nhãn `doi-loi` | 1 |
-| `tools/lint_terms.py` | sai thuật ngữ bắt buộc; "Plato" trong văn xuôi | 1 |
+| `tools/lint_terms.py` | sai thuật ngữ bắt buộc; "Plato" trong văn xuôi | 1 (cảnh báo), 5.9 (chặn) |
 | `tools/lint_volatile.py` | năm 2022+, văn bản luật, "hiện nay/gần đây/tính đến" trong Lõi ngoài khối thời sự; khối thời sự quá hạn | 1 (cảnh báo), 3 (chặn) |
-| `tools/lint_structure.py` | thiếu mục bắt buộc theo loại trang (5.1); nhãn độ chắc chắn ngoài bài có chú giải | 1 |
+| `tools/lint_structure.py` | thiếu mục bắt buộc theo loại trang (5.1); nhãn độ chắc chắn ngoài bài có chú giải | 1 (cảnh báo), 5.9 (chặn) |
 | `tools/changed_units.py` | không chặn: bình luận PR liệt kê đơn vị đổi và checklist | 1 |
 | `tools/parity.py` | văn bản hiển thị lệch sau thay đổi cơ học | 1 |
-| `tools/lint_facts.py` | năm và tên tác phẩm trong văn xuôi lệch kho | 2 |
-| `tools/lint_quotes.py` | khối trích không khớp bản ghi trích dẫn | 2 |
+| `tools/lint_facts.py` | năm và tên tác phẩm trong văn xuôi lệch kho | 2 (cảnh báo), 5.9 (chặn) |
+| `tools/lint_quotes.py` | khối trích không khớp bản ghi trích dẫn | 2 (cảnh báo), 5.9 (chặn) |
 | `tools/lint_so_lieu.py` | số % PhilPapers gõ tay ngoài `[[pp:…]]`; số trong quiz và dữ liệu lệch kho (rà soát 9/11) | 5 (cảnh báo), 5.9 (chặn) |
 | `tools/lint_lien_ket.py` | bài nhắc triết gia đã có hồ sơ mà không link (rà soát 9/11) | 5 (cảnh báo), 5.9 (chặn) |
 | `hooks/kb.py` | shortcode trỏ tới khóa không tồn tại (build dừng) | 1–3 |
