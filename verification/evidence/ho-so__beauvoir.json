@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/beauvoir",
-  "hash": "sha256:9c8c96abcd217ef95ea450ed7b7346c24569289e7511fc6762d261deea595dad",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r08",
+  "hash": "sha256:70e1917e8d8cfd0db2051eac8aee74f7acfe65b328f93fbd07059b03175542af",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.3-r08 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "desc: Beauvoir hỏi 'là phụ nữ nghĩa là gì'; Le Deuxième Sexe (1949) là nền của triết học nữ quyền, đạo đức của tự do có tình thế",
@@ -390,8 +390,14 @@
           "quote": "Bản tính con người thiện hay ác?"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.beauvoir-simone-de-1949-le-deuxieme-sexe-paris-gallimard"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r08): cả 3 claim còn mở đã thành dung, đều trong SEP Beauvoir bản lưu fall2026: (31) 'immediate reflection disregarded the significance of being a woman... masculine one' (mục 5); (32) 'Hiding behind the authority of others or establishing ourselves as authorities over others are culpable offenses' (mục 4, The Ethics of Ambiguity); (33) khái niệm Kẻ Khác dựa trên biện chứng chủ–tớ, 'Unlike Hegel who universalized this dialectic' (mục 5). Không đổi chữ claim lượt 1. --- Kiểm 5.3 (agent-kiem-5.3-h08): SEP bản lưu fall2026 (Beauvoir; Mikkola) mở bằng trình duyệt. Claim related: đã đọc title trong docs/ của repo, khớp. Locator: nguồn yếu (trích đoạn PDF qua DuckDuckGo). Còn 3 chi tiết chưa tìm được nguồn: lời kể ban đầu 'nghĩ chẳng quan trọng', chủ–tớ Hegel, 'núp sau quyền uy'. Pyrrhus 1944: SEP ghi 'first philosophical essay' đúng."
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r08): cả 3 claim còn mở đã thành dung, đều trong SEP Beauvoir bản lưu fall2026: (31) 'immediate reflection disregarded the significance of being a woman... masculine one' (mục 5); (32) 'Hiding behind the authority of others or establishing ourselves as authorities over others are culpable offenses' (mục 4, The Ethics of Ambiguity); (33) khái niệm Kẻ Khác dựa trên biện chứng chủ–tớ, 'Unlike Hegel who universalized this dialectic' (mục 5). Không đổi chữ claim lượt 1. --- Kiểm 5.3 (agent-kiem-5.3-h08): SEP bản lưu fall2026 (Beauvoir; Mikkola) mở bằng trình duyệt. Claim related: đã đọc title trong docs/ của repo, khớp. Locator: nguồn yếu (trích đoạn PDF qua DuckDuckGo). Còn 3 chi tiết chưa tìm được nguồn: lời kể ban đầu 'nghĩ chẳng quan trọng', chủ–tớ Hegel, 'núp sau quyền uy'. Pyrrhus 1944: SEP ghi 'first philosophical essay' đúng. [doi-loi] Dòng Nguồn sách in ghi theo quy ước chung (năm sau tên tác giả; quyết định 36, việc 7.1.1); bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }
