@@ -4436,7 +4436,7 @@ Viết 150–300 chữ. Nêu rõ lập trường của bạn, đưa ra ít nhấ
 3. Nagel, T. (1974). "What Is It Like to Be a Bat?". *The Philosophical Review* 83(4): 435–450. <https://doi.org/10.2307/2183914>
 4. Block, N. (1981). "Psychologism and Behaviorism". *The Philosophical Review* 90(1): 5–43. <https://doi.org/10.2307/2184371>
 5. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness". *Journal of Consciousness Studies* 2(3): 200–219. <https://consc.net/papers/facing.html>
-6. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+6. Chalmers, David J. (1996), *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
 7. Chalmers, D. J. (2023). "Could a Large Language Model be Conscious?". *Boston Review*; bản arXiv:2303.07103. <https://arxiv.org/abs/2303.07103>
 8. Butlin, P., Long, R. và cộng sự (2023). *Consciousness in Artificial Intelligence: Insights from the Science of Consciousness*. arXiv:2308.08708. <https://arxiv.org/abs/2308.08708>
 9. Butlin, P., Long, R. và cộng sự (2026). "Identifying indicators of consciousness in AI systems". *Trends in Cognitive Sciences* 30(6): 488–501. <https://doi.org/10.1016/j.tics.2025.10.011>
@@ -11706,7 +11706,7 @@ Gợi ý độ dài: 200–350 chữ.
 ## Nguồn
 
 1. Cowling, Sam & Daniel Giberman, "Nominalism in Metaphysics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/>
-2. Armstrong, D. M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
+2. Armstrong, David M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
 3. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
@@ -13116,7 +13116,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
 2. Locke, John, *An Essay Concerning Human Understanding* (1689), tập 1, Project Gutenberg. <https://www.gutenberg.org/ebooks/10615>
 3. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
-4. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Clarendon Press.
+4. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 5. Olson, Eric T. (1997), *The Human Animal: Personal Identity Without Psychology*, Oxford: Oxford University Press.
 6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
