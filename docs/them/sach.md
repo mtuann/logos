@@ -8811,7 +8811,7 @@ Gợi ý độ dài: 200–350 chữ.
 
     - Luận điểm chính: đất đai vốn chẳng của ai — bằng phép màu nào mà rào một mảnh đất lại rồi tuyên bố "của tôi" thì mọi người phải tôn trọng? Quyền loại trừ người khác ấy từ đâu mà ra, và có giới hạn nào không?
     - Ba lập trường: [Locke](../triet-gia/locke.md) (*Two Treatises*, 1689) — tôi "trộn" công sức lao động vào vật vô chủ nên nó là của tôi, với hai giới hạn: còn "đủ và tốt cho người khác" và không lấy quá mức dùng được (tiền tệ gỡ giới hạn thứ hai); [Nozick](../triet-gia/nozick.md) (*Anarchy, State, and Utopia*, 1974) — công lý nằm ở *quá trình* (chiếm hữu chính đáng + chuyển nhượng tự nguyện + sửa chữa bất công), nên thuế tái phân phối "cũng tương đương với lao động cưỡng bức"; phe phê phán ([Rousseau](../triet-gia/rousseau.md) 1755; Proudhon 1840: "tài sản là trộm cắp") — sở hữu không phải quan hệ người–vật mà là người–người, cần cộng đồng công nhận và bảo vệ nên cộng đồng có quyền đặt điều kiện.
-    - Thái độ của bài: đừng *tự nhiên hóa* sở hữu — nó là thiết chế do con người dựng lên phục vụ đời sống chung, nên câu hỏi không phải "có sở hữu hay không" mà là "sở hữu *như thế nào* thì phục vụ tốt nhất đời sống chung". PhilPapers 2020 không hỏi thẳng về quyền sở hữu, nhưng chỉ [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% chấp nhận hoặc nghiêng về chủ nghĩa tự do cá nhân (câu chính "Triết học chính trị"), và ở câu bổ sung "Chính trị – kinh tế", [[pp:chinh-tri-kinh-te.chu-nghia-xa-hoi]]% nghiêng về chủ nghĩa xã hội, [[pp:chinh-tri-kinh-te.chu-nghia-tu-ban]]% về chủ nghĩa tư bản.
+    - Cách đáp lại của phe phê phán: đừng *tự nhiên hóa* sở hữu — nó là thiết chế do con người dựng lên phục vụ đời sống chung, nên câu hỏi không phải "có sở hữu hay không" mà là "sở hữu *như thế nào* thì phục vụ tốt nhất đời sống chung"; người theo Locke và Nozick không chấp nhận tiền đề ấy. PhilPapers 2020 không hỏi thẳng về quyền sở hữu, nhưng chỉ [[pp:triet-hoc-chinh-tri.chu-nghia-tu-do-ca-nhan-libertarianism]]% chấp nhận hoặc nghiêng về chủ nghĩa tự do cá nhân (câu chính "Triết học chính trị"), và ở câu bổ sung "Chính trị – kinh tế", [[pp:chinh-tri-kinh-te.chu-nghia-xa-hoi]]% chấp nhận hoặc nghiêng về chủ nghĩa xã hội, [[pp:chinh-tri-kinh-te.chu-nghia-tu-ban]]% về chủ nghĩa tư bản.
 
 Nhìn quanh: mảnh đất, ngôi nhà, chiếc điện thoại — mỗi thứ đều "của ai đó". Nhưng "của ai đó" nghĩa là gì? Nó nghĩa là người đó được *loại trừ* người khác khỏi thứ ấy: bạn không được vào nhà tôi khi tôi không cho, không được lấy điện thoại của tôi. Một quyền loại trừ mạnh như vậy — từ đâu mà ra? Đất đai vốn chẳng của ai; bằng phép màu nào mà một người rào một mảnh đất lại và tuyên bố "đây là của tôi", rồi mọi người đều phải tôn trọng?
 
@@ -8847,7 +8847,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 ### 1. Locke: tôi trộn công sức lao động của mình vào, nên nó là của tôi
 
-John Locke, trong *Two Treatises of Government* (in cuối năm 1689, trang bìa ghi 1690), đưa ra lý thuyết sở hữu có ảnh hưởng sâu rộng nhất trong lịch sử. Xuất phát điểm của ông: ban đầu, đất đai và tài nguyên là của chung của nhân loại (Chúa ban cho mọi người). Nhưng mỗi người sở hữu *chính mình* — thân thể và công sức của mình. Khi một người "trộn" công sức lao động của mình vào một vật vô chủ — hái táo, cày đất, dựng nhà — vật ấy trở thành của anh ta, vì công sức của anh ta "là của anh ta" và không ai có quyền lấy đi.
+John Locke, trong *Two Treatises of Government* (in cuối năm 1689, trang bìa ghi 1690), đưa ra một trong những lý thuyết sở hữu có ảnh hưởng nhất trong lịch sử. Xuất phát điểm của ông: ban đầu, đất đai và tài nguyên là của chung của nhân loại (Chúa ban cho mọi người). Nhưng mỗi người sở hữu *chính mình* — thân thể và công sức của mình. Khi một người "trộn" công sức lao động của mình vào một vật vô chủ — hái táo, cày đất, dựng nhà — vật ấy trở thành của anh ta, vì công sức của anh ta "là của anh ta" và không ai có quyền lấy đi.
 
 Locke viết (bản gốc tiếng Anh, đã hơn ba trăm năm tuổi, thuộc phạm vi công cộng):
 
@@ -8874,7 +8874,7 @@ Robert Nozick, trong *Anarchy, State, and Utopia* (1974), xây dựng **lý thuy
 
 **Phản bác chính.** Phản bác lớn nhất: của cải "do mình làm ra" có thật sự *chỉ* do mình làm ra không? Người giàu dùng đường sá, điện nước, an ninh, giáo dục — tất cả do xã hội xây. Tài năng một phần là may mắn di truyền, một phần là may mắn sinh vào gia đình tốt (xem [bài về bình đẳng](../cau-hoi/binh-dang.md): may rủi thuần túy vs may rủi do lựa chọn). Nếu của cải có phần đóng góp của xã hội và của may mắn, thì xã hội có quyền đòi lại một phần. Một phản bác khác, mà chính Nozick cũng thừa nhận: nếu của cải ban đầu có được bằng *bất công* — cướp đất, nô lệ, thực dân — thì cần nguyên tắc *sửa chữa*; mà lịch sử nhân loại đầy rẫy bất công như vậy, nên trong thực tế, lý thuyết của ông có thể đòi hỏi tái phân phối *lớn* chứ không phải bằng không.
 
-**Cách đáp lại.** Người theo Nozick đáp rằng phần đóng góp của xã hội chỉ biện minh cho việc trả *phí dịch vụ* (thuế duy trì đường sá, an ninh) — chứ không biện minh cho việc lấy của người giàu chia cho người nghèo theo một mô hình công bằng nào đó. Còn về bất công lịch sử, họ thừa nhận đó là vấn đề thật — nhưng là vấn đề của *sửa chữa sai lầm cụ thể* (trả lại cho nạn nhân cụ thể), không phải lý do để tái phân phối thường xuyên cho "người nghèo nói chung".
+**Cách đáp lại.** Người theo Nozick đáp rằng phần đóng góp của xã hội chỉ biện minh cho việc trả *phí* cho các dịch vụ bảo vệ quyền (an ninh, tòa án) của một nhà nước tối thiểu — chứ không biện minh cho việc lấy của người giàu chia cho người nghèo theo một mô hình công bằng nào đó. Còn về bất công lịch sử, họ thừa nhận đó là vấn đề thật — nhưng là vấn đề của *sửa chữa*: chỉ nạn nhân hiện nay mới có quyền đòi những người hưởng lợi hiện nay, và ta thường thiếu thông tin để xác định họ. Chính Nozick cũng nhận rằng việc sửa chữa có thể phải làm phỏng chừng, bằng các khoản chi cho những nhóm người nhiều khả năng bị thiệt vì bất công quá khứ; điều ông bác bỏ là coi tái phân phối theo một mô hình kết quả là đòi hỏi thường trực của công lý.
 
 ### 3. Phê phán: sở hữu không phải quan hệ người–vật, mà là người–người
 
@@ -8890,7 +8890,7 @@ Jean-Jacques Rousseau, trong *Luận về nguồn gốc của bất bình đẳn
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 không hỏi thẳng "quyền sở hữu tư nhân có chính đáng không". Nhưng có hai câu chạm gần vào chủ đề này: câu *chính* "Triết học chính trị" (hỏi tất cả người tham gia), trong đó "chủ nghĩa tự do cá nhân" là họ tư tưởng của Nozick; và câu *bổ sung* "Chính trị – kinh tế" (chỉ hỏi những người chọn trả lời thêm) về chủ nghĩa tư bản hay chủ nghĩa xã hội — cuộc tranh luận mà sở hữu tư nhân đối với tư liệu sản xuất nằm ở trung tâm.
+Khảo sát PhilPapers 2020 không hỏi thẳng "quyền sở hữu tư nhân có chính đáng không". Nhưng có hai câu chạm gần vào chủ đề này: câu *chính* "Triết học chính trị" (hỏi tất cả người tham gia), trong đó "chủ nghĩa tự do cá nhân" là họ tư tưởng của Nozick; và câu *bổ sung* "Chính trị – kinh tế" (được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) về chủ nghĩa tư bản hay chủ nghĩa xã hội — cuộc tranh luận mà sở hữu tư nhân đối với tư liệu sản xuất nằm ở trung tâm.
 
 | Câu hỏi | Lựa chọn | Chấp nhận hoặc nghiêng về | Chỉ chọn lựa chọn này |
 |---|---|---|---|
@@ -8908,7 +8908,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc của các khóa học triết học chính trị, và các lời phê phán (từ Proudhon đến các nhà bình đẳng may mắn ngày nay) chưa bao giờ ngừng.
 
-Một điểm đáng chú ý: trong tranh luận học thuật ngày nay, câu hỏi đã dịch chuyển từ "có nên có sở hữu tư nhân không" sang "sở hữu *những gì* và *trong giới hạn nào*". Rất ít triết gia đòi xóa bỏ hoàn toàn sở hữu cá nhân; cũng rất ít người bênh vực quyền sở hữu tuyệt đối không giới hạn. Chiến trường thật sự nằm ở giữa: thuế đến đâu là vừa, đất đai bỏ hoang có nên bị đánh thuế nặng không, tài nguyên thiên nhiên (dầu mỏ, nước ngầm) có khác nhà ở không.
+Một điểm đáng chú ý: trong tranh luận học thuật ngày nay, câu hỏi đã dịch chuyển từ "có nên có sở hữu tư nhân không" sang "sở hữu *những gì* và *trong giới hạn nào*". Ngay trong luật học, định nghĩa sở hữu tư nhân hiếm khi trao cho chủ sở hữu quyền kiểm soát tuyệt đối, và cả những người bênh vực sở hữu mạnh nhất như Nozick cũng chấp nhận một giới hạn kiểu Locke. Chiến trường thật sự nằm ở giữa: thuế đến đâu là vừa, đất đai bỏ hoang có nên bị đánh thuế nặng không, tài nguyên thiên nhiên (dầu mỏ, nước ngầm) có khác nhà ở không.
 
 ## Liên hệ đời sống
 
