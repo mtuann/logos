@@ -1,5 +1,5 @@
 """Ngoặc kép hiển thị (đợt 6.2, quyết định 26 và 39): đổi ngoặc thẳng "…" thành ngoặc cong “…” trong chữ của bài
-lúc build. Nguồn Markdown không đổi; mã băm của sổ kiểm chứng vốn bỏ qua kiểu ngoặc, nên không đơn vị nào bị mở khóa.
+lúc build (thân bài ở on_page_content, cho cả chỉ mục tìm kiếm; menu và mục lục ở on_post_page). Nguồn Markdown không đổi; mã băm của sổ kiểm chứng vốn bỏ qua kiểu ngoặc, nên không đơn vị nào bị mở khóa.
 
 Chỉ đổi trong nút chữ của HTML (giữa các thẻ), không đổi trong thuộc tính, và bỏ qua toàn bộ nội dung của
 <code>, <pre>, <script>, <style>, <kbd>, <svg>, <textarea>. Mở hay đóng xét theo ký tự đứng trước (kể cả ký tự cuối của
@@ -56,3 +56,10 @@ def curl(html: str) -> str:
 
 def on_page_content(html, page, config, files, **kwargs):
     return curl(html)
+
+
+def on_post_page(output, page, config, **kwargs):
+    """Cả trang (menu, mục lục, tiêu đề tab): chỉ đổi phần <body>; <head> giữ nguyên (meta, JSON-LD)."""
+    i = output.find("<body")
+    j = output.find(">", i) + 1 if i >= 0 else 0
+    return output[:j] + curl(output[j:]) if j else output

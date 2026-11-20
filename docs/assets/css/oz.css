@@ -849,3 +849,46 @@ body {
     content: none;
   }
 }
+
+/* ---------- Đợt 6.3: hộp nội dung cùng một hệ màu (quyết định 37) ----------
+ * Material tô mỗi loại hộp (summary, tip, question, quote…) một màu riêng (xanh, lục, tím) lạc khỏi bảng màu mực –
+ * đất nung. Mọi hộp dùng chung: nền giấy, viền mảnh, sọc trái; tiêu đề nền nhạt. Tóm tắt 5 phút (summary) và cảnh
+ * báo nhấn bằng đất nung; các hộp khác (thí nghiệm tư duy, câu hỏi dẫn dắt, đọc văn bản gốc) nhấn bằng màu chữ phụ. */
+.md-typeset :is(.admonition, details)[class] {
+  border: 1px solid var(--oz-line);
+  border-left: 0.25rem solid var(--md-default-fg-color--light);
+  border-radius: 0.3rem;
+  background-color: var(--md-default-bg-color);
+  box-shadow: none;
+  font-size: 0.74rem;
+}
+.md-typeset :is(.admonition, details) > :is(.admonition-title, summary) {
+  background-color: var(--oz-soft);
+  font-weight: 600;
+}
+.md-typeset :is(.admonition, details) > :is(.admonition-title, summary)::before {
+  background-color: var(--md-default-fg-color--light);
+}
+.md-typeset :is(.admonition, details):is(.summary, .warning, .danger)[class] {
+  border-left-color: var(--oz-accent);
+}
+.md-typeset :is(.admonition, details):is(.summary, .warning, .danger) > :is(.admonition-title, summary)::before {
+  background-color: var(--oz-accent);
+}
+.md-typeset :is(.admonition, details) li {
+  margin-bottom: 0.35em;
+}
+/* Dải thông tin: nút "In bài này" nằm cùng hàng khi đủ chỗ, không đẩy hộp Tóm tắt xuống một khoảng trống. */
+.md-typeset .oz-info {
+  margin-bottom: 1rem;
+  row-gap: 0.4rem;
+}
+@media print {
+  .md-typeset :is(.admonition, details)[class] {
+    border-left-width: 2px;
+  }
+}
+.md-typeset .oz-info .oz-print-btn--dai {
+  margin-top: 0;
+  margin-bottom: 0;
+}
