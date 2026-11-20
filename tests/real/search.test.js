@@ -39,3 +39,14 @@ test("gõ không dấu ra bài có dấu; gõ có dấu vẫn ra", async () => {
   }
   await p.close();
 });
+
+test("đợt 7.1.3: mọi từ bắt buộc, chữ của địa chỉ trang vào tiêu đề trang (tên chủ đề tìm được)", async () => {
+  const p = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  for (const [q, want, n] of [["tri thuc", "/logos/cau-hoi/tri-thuc/", 6], ["ban nga", "/logos/cau-hoi/ban-nga-thoi-gian/", 3],
+                              ["cai chet", "/logos/cau-hoi/cai-chet/", 1]]) {
+    await p.goto(srv.origin + "/logos/", { waitUntil: "load" });
+    const top = (await search(p, q)).slice(0, n);
+    assert.ok(top.includes(want), `${q}: ${top.join(" | ")}`);
+  }
+  await p.close();
+});
