@@ -25,5 +25,5 @@ Sinh bằng `python tools/lint_terms.py --write`. Phạm vi: Lõi viết tay. Lu
 | `cau-hoi/viet-hien-dai.md:15` | `cau-hoi/viet-hien-dai.md#_dau` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
 | `cau-hoi/viet-hien-dai.md:69` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
 | `cau-hoi/viet-hien-dai.md:79` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
-| `cau-hoi/viet-hien-dai.md:87` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
+| `cau-hoi/viet-hien-dai.md:89` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
 | `data/style/terms-allow.yml` | — | `mien-lech` | cau-hoi/viet-hien-dai.md: tinh thần — 4 chỗ, miễn ghi 6 | xem lại các chỗ của từ này trong trang |
