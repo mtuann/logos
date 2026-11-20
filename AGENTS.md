@@ -8,7 +8,7 @@ Không xuất bản lên site.
 - **Logos** (repo `mtuann/logos`): làm lại Logos Zero, website triết học tiếng Việt cho người bắt đầu từ con số 0 — <https://mtuann.github.io/logos/>. Logos Zero (<https://mtuann.github.io/logos-zero/>, repo `mtuann/logos-zero`) chạy song song, độc lập; từ repo này không sửa logos-zero.
 - Site tĩnh ProperDocs 1.6.7 (bản kế tục MkDocs 1.x) + Material for MkDocs 9.8.0, phiên bản ghim trong `uv.lock`. Push lên `main` là GitHub Actions build và deploy ngay.
 - Nội dung hiện có: 57 bài Câu hỏi lớn, 15 bài Công cụ tư duy, 8 bài Lịch sử, 19 hướng dẫn Đọc văn bản, 59 trang triết gia (sinh tự động), 249 thuật ngữ, ngân hàng luyện tập (428 câu quiz, 100 đoạn ngụy biện…).
-- Đang làm lại site theo kế hoạch **Lõi đã kiểm chứng + Mở rộng**, chia thành 8 đợt có cổng: xem `KE-HOACH.md`. Mốc xuất phát: tag `v1.0-moc` = commit nhập nguyên trạng từ `logos-zero@ecb2bb8` (cùng mã tree).
+- Đang làm lại site theo kế hoạch **Lõi đã kiểm chứng + Mở rộng**, chia thành 8 đợt có cổng: xem `KE-HOACH.md`. Mốc xuất phát: tag `v1.0-moc` = commit nhập nguyên trạng từ `logos-zero@ecb2bb8` (cùng mã tree). Đợt 0–5 đã xong (tag `v1.5`): mọi đơn vị nội dung Lõi (989) và mọi bản ghi kho đã kiểm chứng và đóng băng; sáu linter nội dung chặn trong CI. Đợt tiếp theo: 6.
 - **Chủ biên** (mtuann) chọn quyết định và duyệt. Agent được merge vào `main` trên máy sau mỗi việc, và được push `main` khi xong cả một đợt (luật 6; chủ biên cho quyền ngày 5/11/2026).
 
 ## 2. Đọc theo thứ tự
