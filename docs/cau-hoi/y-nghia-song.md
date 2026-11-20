@@ -85,7 +85,7 @@ Wolf gọi sự gặp nhau này là **sự viên mãn xứng đáng** (*fitting 
 
 **Phản bác chính.** Vế "giá trị khách quan" là điểm dễ tấn công nhất: ai quyết định điều gì là "đáng giá"? Nếu không có tiêu chuẩn khách quan thật sự, thì công thức của Wolf sụp về phía chủ quan — và ta quay lại câu hỏi: ý nghĩa có phải chỉ là chuyện cảm thấy không? Ngoài ra, công thức này có vẻ bất công với những người không có điều kiện dấn thân: một người nghèo khổ, bệnh tật, bị trói buộc bởi hoàn cảnh — cuộc sống của họ có kém ý nghĩa hơn không?
 
-**Cách đáp lại.** Wolf thừa nhận ranh giới của "đáng giá" là mờ, nhưng cho rằng sự mờ không có nghĩa là không có thật: ta vẫn phân biệt được giữa việc chăm sóc người bệnh và việc đếm hạt cát, dù không vẽ được đường biên chính xác. Về sự bất công: bà nhấn mạnh "dấn thân" không đòi hỏi thành tựu lớn lao — một người mẹ nuôi con trong nghèo khó, một người thợ làm việc tử tế mỗi ngày, đều có thể dấn thân vào điều đáng giá theo cách của mình.
+**Cách đáp lại.** Wolf thừa nhận ranh giới của "đáng giá" là mờ, nhưng cho rằng sự mờ không có nghĩa là không có thật: ta vẫn phân biệt được giữa việc chăm sóc người bệnh và việc đếm hạt cát, dù không vẽ được đường biên chính xác. Về sự bất công: bà thừa nhận thẳng rằng nhiều người, không do lỗi của họ, thiếu cơ hội cho ý nghĩa — hoàn cảnh thể chất, kinh tế hay chính trị lấy mất của họ sự tự do hay thời gian rảnh để tìm và theo đuổi những hoạt động họ có thể yêu. Bà không bác bỏ điều đó; bà chỉ nhắc rằng "dấn thân" không đòi hỏi thành tựu lớn lao, và rằng mục đích của khái niệm ý nghĩa không phải là xếp hạng các đời sống — không cần đem đời một người dọn nhà thuê hay một tài xế xe tải so với đời một thẩm phán Tòa án Tối cao.
 
 ### 3. Chủ quan luận: ý nghĩa là do mình đặt ra
 
@@ -105,7 +105,7 @@ Trình bày một cách triết học (chứ không phải để thuyết giáo)
 
 **Lập luận mạnh nhất.** Lập trường này đáp ứng được khát khao sâu nhất đằng sau câu hỏi ý nghĩa: ta không chỉ muốn cuộc sống *có vẻ* ý nghĩa, ta muốn nó *thật sự* ý nghĩa — ý nghĩa theo một nghĩa không ai có thể tước đi. Tôn giáo hứa hẹn đúng điều đó: dù bạn thất bại, bị lãng quên, hay chết trẻ, cuộc sống của bạn vẫn có ý nghĩa vì nó thuộc về một câu chuyện lớn hơn bạn. Không lý thuyết triết học nào cho được sự bảo đảm ấy.
 
-**Phản bác chính.** Câu hỏi đầu tiên: kế hoạch lớn hơn ấy có thật không? Nếu không có bằng chứng rằng nó tồn tại, thì ý nghĩa dựa trên nó cũng mong manh như mọi niềm tin khác — thậm chí mong manh hơn, vì nó đặt cược tất cả vào một điều chưa được chứng minh. Câu hỏi thứ hai, tinh tế hơn: giả sử có một Đấng sáng tạo ban ý nghĩa cho đời bạn — thì ý nghĩa ấy là *của bạn* hay *của Ngài*? Nếu ý nghĩa của đời bạn chỉ là "làm theo kế hoạch của người khác", liệu đó có còn là *cuộc sống của bạn* nữa không? (Đây là một biến thể của câu hỏi Euthyphro mà [Platon](../triet-gia/platon.md) đặt ra từ thời cổ đại: điều thiện là thiện vì Chúa muốn, hay Chúa muốn vì nó thiện?)
+**Phản bác chính.** Câu hỏi đầu tiên: kế hoạch lớn hơn ấy có thật không? Nếu không có bằng chứng rằng nó tồn tại, thì ý nghĩa dựa trên nó cũng mong manh như mọi niềm tin khác — thậm chí mong manh hơn, vì nó đặt cược tất cả vào một điều chưa được chứng minh. Câu hỏi thứ hai, tinh tế hơn: giả sử có một Đấng sáng tạo ban ý nghĩa cho đời bạn — thì ý nghĩa ấy là *của bạn* hay *của Ngài*? Nếu ý nghĩa của đời bạn chỉ là "làm theo kế hoạch của người khác", liệu đó có còn là *cuộc sống của bạn* nữa không? (Đây là một biến thể của câu hỏi Euthyphro mà [Platon](../triet-gia/platon.md) đặt ra từ thời cổ đại: điều mộ đạo được thần linh yêu vì nó mộ đạo, hay nó mộ đạo vì được thần linh yêu? Ở dạng hiện đại: điều thiện là thiện vì Chúa muốn, hay Chúa muốn vì nó thiện?)
 
 **Cách đáp lại.** Người theo lập trường này thường đáp rằng câu hỏi "kế hoạch ấy có thật không?" là câu hỏi của đức tin, không phải của chứng minh — và đức tin, với họ, là một cách biết hợp lệ. Về câu hỏi thứ hai: họ cho rằng được tham dự vào một kế hoạch lớn hơn không làm mất tự do của con người, mà ngược lại, cho tự do một *hướng* — như một nhạc công được tự do ứng tác trong một bản nhạc đã có cấu trúc, chứ không phải thổi kèn tùy tiện một mình.
 
@@ -145,7 +145,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Ngoài con số, có thể nói thêm: đây là một lĩnh vực đang phát triển mạnh trong triết học đương đại — từ bài báo kinh điển của Nagel (1971), qua công trình của Wolf (2010), đến hàng loạt nghiên cứu về "ý nghĩa" trong tâm lý học và triết học hiện nay — mà vẫn chưa có lý thuyết nào được đa số chấp nhận.
 
-Một điểm đáng chú ý: hầu hết các triết gia đương đại, dù thuộc phe nào, đều đồng ý rằng câu hỏi "cuộc sống có ý nghĩa không?" là một câu hỏi *đáng hỏi* — chứ không phải một câu hỏi sai, như một số triết gia đầu thế kỷ 20 từng nghĩ. Sự thay đổi này tự nó đã là một câu trả lời phần nào: việc con người không ngừng hỏi về ý nghĩa cho thấy ý nghĩa là một nhu cầu thật của đời người, dù đáp án là gì.
+Một điểm đáng chú ý: từ giữa thế kỷ 20, giới triết học phân tích viết ngày càng nhiều về câu hỏi này, coi nó là một câu hỏi *đáng hỏi* — trái với một số triết gia đầu và giữa thế kỷ 20 như A. J. Ayer, người cho rằng câu hỏi về ý nghĩa cuộc sống tự nó vô nghĩa. Sự thay đổi này tự nó đã là một câu trả lời phần nào: việc con người không ngừng hỏi về ý nghĩa cho thấy ý nghĩa là một nhu cầu thật của đời người, dù đáp án là gì.
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 
@@ -153,7 +153,7 @@ Một điểm đáng chú ý: hầu hết các triết gia đương đại, dù 
 
 **"Sống có ích" và áp lực phải lớn lao.** Văn hóa ta hay gắn ý nghĩa với những điều lớn: "làm rạng danh", "cống hiến cho đất nước". Công thức của Wolf là một liều thuốc giải: ý nghĩa không đòi hỏi quy mô — nó đòi hỏi sự *dấn thân* vào điều *đáng giá*, ở bất kỳ quy mô nào. Nuôi dạy một đứa trẻ nên người, làm tròn một công việc lương thiện, giữ một tình bạn lâu năm — đều có thể là ý nghĩa, không cần ai vỗ tay.
 
-**So sánh với người khác trên mạng.** Mạng xã hội là cỗ máy sản xuất cái phi lý: ta xem người khác sống "có ý nghĩa" (du lịch, thành công, hạnh phúc) rồi nhìn lại mình và thấy nhỏ bé. Chủ quan luận nhắc ta: ý nghĩa của bạn không phải là ý nghĩa của họ. Còn Wolf nhắc thêm: hãy hỏi xem điều bạn đang ghen tị có thật sự *đáng giá*, hay chỉ là hào nhoáng.
+**So sánh với người khác trên mạng.** Mạng xã hội là cỗ máy so sánh: ta xem người khác sống "có ý nghĩa" (du lịch, thành công, hạnh phúc) rồi nhìn lại mình và thấy nhỏ bé. Chủ quan luận nhắc ta: ý nghĩa của bạn không phải là ý nghĩa của họ. Còn Wolf nhắc thêm: hãy hỏi xem điều bạn đang ghen tị có thật sự *đáng giá*, hay chỉ là hào nhoáng.
 
 **Khi người thân hỏi "sống để làm gì".** Đừng vội đưa ra một đáp án đóng gói sẵn. Đôi khi điều người hỏi cần không phải là một lý thuyết, mà là được nghe rằng câu hỏi của họ là chính đáng — rằng những người thông minh nhất cũng đã hỏi câu ấy, và vẫn đang tìm.
 
