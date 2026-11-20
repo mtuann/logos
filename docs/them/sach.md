@@ -12129,7 +12129,7 @@ Câu hỏi "nhân quả là gì?" là một trong những câu hỏi nền tản
 
 Chữ "nhân quả" trong tiếng Việt là từ Hán Việt: *nhân* (因, nguyên nhân) + *quả* (果, kết quả) — ngay trong tên gọi đã chứa giả định rằng hai thứ này nối với nhau bằng một mối liên hệ nào đó. Câu hỏi của bài này là: mối liên hệ đó *là gì*?
 
-Bài này đi sâu vào khía cạnh siêu hình học của Hume về nhân quả. Về cuộc đời và lập luận đầy đủ của Hume, xem bài [Hume về nhân quả](../doc/hume-nhan-qua.md).
+Bài này đi sâu vào khía cạnh siêu hình học của Hume về nhân quả. Về lập luận của Hume trong *Điều tra về trí năng con người* (mục IV, V, VII), xem bài [Đọc Hume về nhân quả](../doc/hume-nhan-qua.md); về cuộc đời ông, xem trang [Hume](../triet-gia/hume.md).
 
 ## Thí nghiệm tư duy
 
@@ -12161,7 +12161,7 @@ Ba lập trường: Hume (nhân quả chỉ là nối tiếp thường xuyên + 
 
 ### 1. Hume: nhân quả chỉ là nối tiếp thường xuyên và thói quen kỳ vọng
 
-Trong *Khảo luận về bản tính con người* (*A Treatise of Human Nature*, 1739–1740) và *Điều tra về trí năng con người* (*An Enquiry concerning Human Understanding*, 1748), Hume phân tích niềm tin nhân quả thành ba thành phần quan sát được: **kế tiếp** (nguyên nhân xảy ra trước kết quả), **tiếp xúc** (chúng kề nhau trong không-thời gian), và **nối tiếp thường xuyên** (cặp đôi này lặp đi lặp lại). Hết. Không có thành phần thứ tư nào gọi là "quyền năng" hay "mối liên hệ tất yếu" mà ta tri giác được.
+Trong *Khảo luận về bản tính con người* (*A Treatise of Human Nature*, 1739–1740) và *Điều tra về trí năng con người* (*An Enquiry concerning Human Understanding*, 1748), Hume phân tích niềm tin nhân quả thành ba thành phần quan sát được: **kế tiếp** (nguyên nhân xảy ra trước kết quả), **tiếp xúc** (chúng kề nhau trong không-thời gian), và **nối tiếp thường xuyên** (cặp đôi này lặp đi lặp lại). Hết. Không có thành phần thứ tư nào gọi là "quyền năng" hay "mối liên hệ tất yếu" mà ta tri giác được. (Đây là cách đọc Hume phổ biến; giới nghiên cứu Hume còn tranh luận liệu với ông nhân quả có *hoàn toàn* chỉ là nối tiếp thường xuyên hay không.)
 
 Vậy "tất yếu" từ đâu ra? Từ *bên trong* ta. Sau khi thấy lửa đi với cháy hàng trăm lần, tâm trí hình thành một thói quen: thấy lửa là tự động kỳ vọng cháy. Cảm giác "chắc chắn", "phải như vậy" mà ta gắn với nhân quả — thực ra là cảm giác của *thói quen tâm lý*, bị ta nhầm thành tính chất của thế giới. Nói ngắn gọn (diễn đạt lại Hume): ta không thấy nhân quả trong sự vật; ta thấy sự nối tiếp, và tâm trí ta làm nốt phần còn lại.
 
@@ -12193,7 +12193,7 @@ Lập trường thứ ba (David Lewis, "Causation", *Journal of Philosophy*, 197
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào bài này: một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **nhân quả**, và một câu chính (hỏi mọi người) về **quy luật tự nhiên**.
+Khảo sát PhilPapers 2020 có hai câu hỏi chạm thẳng vào bài này: một câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) về **nhân quả**, và một câu chính (hỏi mọi người) về **quy luật tự nhiên**.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
@@ -12215,7 +12215,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Câu hỏi về quy luật tự nhiên** (khoảng [[pp:quy-luat-tu-nhien/n]] người trả lời) gần với tranh luận quanh Hume hơn: [[pp:quy-luat-tu-nhien.kieu-hume-quy-luat-chi-tom-tat-cac-khuon-mau-deu-dan]]% theo quan điểm kiểu Hume — quy luật chỉ là bản tóm tắt những khuôn mẫu đều đặn — còn [[pp:quy-luat-tu-nhien.phi-hume]]% cho rằng quy luật là cái gì đó hơn thế (phi Hume), chẳng hạn một mối liên hệ tất yếu, hay năng lực của sự vật như lập trường 2 nói. Nhưng hai câu hỏi cắt chéo nhau, không cộng trừ được: chính Lewis vừa theo thuyết phản thực về nhân quả, vừa theo quan điểm kiểu Hume về quy luật.
 - **Mẫu khảo sát** là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống triết học.
 
-Một lưu ý cho người đọc muốn tự tìm hiểu thêm: con số cho biết giới chuyên môn nghiêng về đâu, nhưng không cho biết vì sao — muốn hiểu, cách tốt nhất là đọc chính các tranh luận. Hume vẫn là điểm xuất phát bắt buộc — mọi lý thuyết nhân quả đương đại đều phải trả lời ông, dù là đồng ý, phản bác hay vượt qua. Đó là dấu hiệu của một triết gia lớn: gần ba trăm năm sau, người ta vẫn đang tranh luận với ông.
+Một lưu ý cho người đọc muốn tự tìm hiểu thêm: con số cho biết giới chuyên môn nghiêng về đâu, nhưng không cho biết vì sao — muốn hiểu, cách tốt nhất là đọc chính các tranh luận. Hume vẫn là điểm xuất phát quen thuộc — nhiều lý thuyết nhân quả đương đại được xây dựng như một cách đồng ý, phản bác hay vượt qua ông. Đó là dấu hiệu của một triết gia lớn: gần ba trăm năm sau, người ta vẫn đang tranh luận với ông.
 
 ## Liên hệ đời sống
 
