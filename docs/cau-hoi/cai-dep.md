@@ -10,7 +10,7 @@ block: my-hoc
 # Cái đẹp ở trong mắt người nhìn?
 
 !!! summary "Tóm tắt 5 phút"
-    - [Hume](../triet-gia/hume.md) (1757): cái đẹp là cảm giác trong tâm trí người cảm nhận, nhưng có "chuẩn mực của thị hiếu" — ý kiến chung của những người phê bình lý tưởng (tinh tế, nhiều kinh nghiệm, hay so sánh, không thiên kiến, phán đoán lành mạnh).
+    - [Hume](../triet-gia/hume.md) (1757): cái đẹp là cảm giác trong tâm trí người cảm nhận, nhưng có "chuẩn mực của thị hiếu" — phán quyết chung của những người phê bình đích thực (Hume gọi là *true judge*; giới nghiên cứu hay gọi là "người phê bình lý tưởng"): tinh tế, nhiều kinh nghiệm, hay so sánh, không thiên kiến, phán đoán lành mạnh.
     - [Kant](../triet-gia/kant.md) (1790): phán đoán "cái này đẹp" vừa chủ quan (dựa trên cảm giác) vừa đòi mọi người đồng ý — "tính phổ quát chủ quan"; thích thú thẩm mỹ phải vô vụ lợi và có "tính có mục đích mà không có mục đích".
     - Điểm chung đáng ngạc nhiên: cả hai đều cho rằng tranh cãi về cái đẹp là có ý nghĩa, nhưng cái đẹp không chứng minh được như định lý toán học — sự căng thẳng giữa khiêm tốn và quả quyết đó chính là điều làm mỹ học thú vị. Khảo sát PhilPapers 2020 có hỏi thẳng chuyện này: [[pp:gia-tri-tham-my.khach-quan]]% triết gia chấp nhận hoặc nghiêng về giá trị thẩm mỹ *khách quan*, [[pp:gia-tri-tham-my.chu-quan]]% *chủ quan* (câu chính, n ≈ [[pp:gia-tri-tham-my/n]]) — giới chuyên môn chia gần đôi.
 
@@ -96,7 +96,7 @@ Thứ hai, cả hai đều cho rằng cái đẹp *không chứng minh được*
 | Tiêu chí | Hume (1757) | Kant (1790) |
 |---|---|---|
 | Cái đẹp là gì? | Cảm giác trong tâm trí người cảm nhận | Cảm giác thích thú vô vụ lợi của chủ thể |
-| Có chuẩn mực không? | Có: ý kiến chung của người phê bình lý tưởng | Có: yêu cầu phổ quát chủ quan |
+| Có chuẩn mực không? | Có: phán quyết chung của người phê bình đích thực ("người phê bình lý tưởng") | Có: yêu cầu phổ quát chủ quan |
 | Vì sao tranh cãi có ý nghĩa? | Để kiểm tra xem cảm giác của mình đã được rèn luyện tốt chưa | Vì phán đoán "đẹp" tự nó đã đòi người khác đồng ý |
 | Điểm yếu nhất | Vòng tròn: ai là phê bình lý tưởng? | Giả định mọi người có cùng cấu trúc nhận thức |
 | Thái độ với gu khác mình | Hỏi: người kia đã đủ từng trải và công tâm chưa? | Hỏi: mình đang nói "tôi thích" hay "nó đẹp"? |
