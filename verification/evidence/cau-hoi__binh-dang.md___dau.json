@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/binh-dang.md#_dau",
-  "hash": "sha256:2b0574be118bcd5b9fd8ae568ea7b6f03737bcd6fa05915b0dabeb2f25a555b3",
+  "hash": "sha256:f4a8bcef790f8693fc8efbace2545b3763d7c84831777a96380f2c93ed166e29",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k02",
+  "checker": "agent-kiem-5.8-k02 + claude-sau-mau-5.8",
   "claims": [
     {
       "text": "bình đẳng kết quả (chênh lệch tự nó đã xấu; bị phản bác \"hạ bằng\" — levelling down)",
@@ -149,6 +149,21 @@
           "quote": "Robert Nozick"
         }
       ]
+    },
+    {
+      "text": "Phản bác mạnh nhất nhắm vào bình đẳng may mắn đến từ Elizabeth Anderson (1999)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một phản bác có ảnh hưởng lớn nhắm vào bình đẳng may mắn đến từ Elizabeth Anderson (1999):",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/equality/",
+          "quote": "increasingly important competitor to distribuitivist accounts of justice, especially its luck egalitarian versions",
+          "where": "§ social relations egalitarianism: SEP nêu ảnh hưởng, không xếp hạng \"mạnh nhất\"; thân bài cũng chỉ khẳng định, không dẫn nguồn cho chữ \"mạnh nhất\""
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -159,5 +174,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Link Rawls/Nozick trong tóm tắt: nhãn khớp tên trang triet-gia/rawls, triet-gia/nozick trên site đã deploy."
+  "notes": "Link Rawls/Nozick trong tóm tắt: nhãn khớp tên trang triet-gia/rawls, triet-gia/nozick trên site đã deploy. Sau mẫu 5.8: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

@@ -11,7 +11,7 @@ block: chinh-tri
 
 !!! summary "Tóm tắt 5 phút"
     - Ba cách hiểu bình đẳng: bình đẳng kết quả (chênh lệch tự nó đã xấu; bị phản bác "hạ bằng" — levelling down), bình đẳng cơ hội (hình thức: cùng luật chơi; thực chất theo [Rawls](../triet-gia/rawls.md): bù đắp thiệt thòi xuất phát), và bình đẳng may mắn (Dworkin: bù đắp may rủi thuần túy, không bù lựa chọn — minh họa bằng thí nghiệm "bảo hiểm giả định").
-    - Phản bác mạnh nhất nhắm vào bình đẳng may mắn đến từ Elizabeth Anderson (1999): lý thuyết này "tàn nhẫn" (bỏ mặc người chọn sai) và "xoi mói" (nhà nước phải soi đời tư để phân biệt may rủi với lựa chọn).
+    - Một phản bác có ảnh hưởng lớn nhắm vào bình đẳng may mắn đến từ Elizabeth Anderson (1999): lý thuyết này "tàn nhẫn" (bỏ mặc người chọn sai) và "xoi mói" (nhà nước phải soi đời tư để phân biệt may rủi với lựa chọn).
     - Thái độ bài: ba lập trường không loại trừ nhau; câu hỏi khó không phải "chọn phe nào" mà là khi các yêu cầu xung đột (ví dụ bù đắp đầy đủ đòi mức thuế không ai chịu nổi) thì ưu tiên cái nào. PhilPapers 2020 (câu chính "Triết học chính trị", n ≈ [[pp:triet-hoc-chinh-tri/n]]): [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% chấp nhận hoặc nghiêng về chủ nghĩa bình đẳng — nhưng câu hỏi không phân biệt bình đẳng *về cái gì*.
 
 "Bình đẳng" là từ mà hầu như ai cũng hô, nhưng hỏi vặn lại *bình đẳng về cái gì* thì chia rẽ ngay. Người thì nói: cho mọi người cùng một vạch xuất phát là đủ, ai chạy nhanh thì thắng. Người thì nói: vạch xuất phát không bao giờ thật sự bằng nhau, nên phải nhìn kết quả. Người thứ ba lại nói: vấn đề không phải cơ hội hay kết quả, mà là phân biệt điều gì do *may mắn* và điều gì do *lựa chọn*.

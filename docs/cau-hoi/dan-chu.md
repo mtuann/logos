@@ -198,7 +198,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
   "explain": "Platon so sánh: cai trị là một nghệ thuật cần học (như hàng hải), nên việc trao quyền cai trị cho kẻ giỏi lấy lòng và giành giật — thay vì cho người có tri thức — là phi lý."
  },
  {
-  "q": "Phản bác mạnh nhất đối với lời phê phán dân chủ của Platon là gì?",
+  "q": "Bài nêu phản bác nào đối với lời phê phán dân chủ của Platon?",
   "options": [
    "Platon sống quá lâu rồi nên không còn đúng",
    "Dân chủ luôn cho kết quả đúng",

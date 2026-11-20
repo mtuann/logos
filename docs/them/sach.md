@@ -8600,7 +8600,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 !!! summary "Tóm tắt 5 phút"
     - Ba cách hiểu bình đẳng: bình đẳng kết quả (chênh lệch tự nó đã xấu; bị phản bác "hạ bằng" — levelling down), bình đẳng cơ hội (hình thức: cùng luật chơi; thực chất theo [Rawls](../triet-gia/rawls.md): bù đắp thiệt thòi xuất phát), và bình đẳng may mắn (Dworkin: bù đắp may rủi thuần túy, không bù lựa chọn — minh họa bằng thí nghiệm "bảo hiểm giả định").
-    - Phản bác mạnh nhất nhắm vào bình đẳng may mắn đến từ Elizabeth Anderson (1999): lý thuyết này "tàn nhẫn" (bỏ mặc người chọn sai) và "xoi mói" (nhà nước phải soi đời tư để phân biệt may rủi với lựa chọn).
+    - Một phản bác có ảnh hưởng lớn nhắm vào bình đẳng may mắn đến từ Elizabeth Anderson (1999): lý thuyết này "tàn nhẫn" (bỏ mặc người chọn sai) và "xoi mói" (nhà nước phải soi đời tư để phân biệt may rủi với lựa chọn).
     - Thái độ bài: ba lập trường không loại trừ nhau; câu hỏi khó không phải "chọn phe nào" mà là khi các yêu cầu xung đột (ví dụ bù đắp đầy đủ đòi mức thuế không ai chịu nổi) thì ưu tiên cái nào. PhilPapers 2020 (câu chính "Triết học chính trị", n ≈ [[pp:triet-hoc-chinh-tri/n]]): [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% chấp nhận hoặc nghiêng về chủ nghĩa bình đẳng — nhưng câu hỏi không phân biệt bình đẳng *về cái gì*.
 
 "Bình đẳng" là từ mà hầu như ai cũng hô, nhưng hỏi vặn lại *bình đẳng về cái gì* thì chia rẽ ngay. Người thì nói: cho mọi người cùng một vạch xuất phát là đủ, ai chạy nhanh thì thắng. Người thì nói: vạch xuất phát không bao giờ thật sự bằng nhau, nên phải nhìn kết quả. Người thứ ba lại nói: vấn đề không phải cơ hội hay kết quả, mà là phân biệt điều gì do *may mắn* và điều gì do *lựa chọn*.
@@ -9216,7 +9216,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
   "explain": "Platon so sánh: cai trị là một nghệ thuật cần học (như hàng hải), nên việc trao quyền cai trị cho kẻ giỏi lấy lòng và giành giật — thay vì cho người có tri thức — là phi lý."
  },
  {
-  "q": "Phản bác mạnh nhất đối với lời phê phán dân chủ của Platon là gì?",
+  "q": "Bài nêu phản bác nào đối với lời phê phán dân chủ của Platon?",
   "options": [
    "Platon sống quá lâu rồi nên không còn đúng",
    "Dân chủ luôn cho kết quả đúng",
@@ -10371,7 +10371,7 @@ Nội dung cụ thể của các nghĩa vụ này là điều gây tranh cãi. �
 
 Khảo sát PhilPapers 2020 không có câu hỏi riêng về biên giới, di cư hay đạo đức nhập cư trong [[pp:khao-sat/so-cau]] câu hỏi, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng** cho các lập trường trong bài.
 
-Trong giới triết học, đạo đức nhập cư đã thành một lĩnh vực sôi động từ cuối thập niên 1980 — bài báo 1987 của Carens là một trong những văn bản kinh điển của nó — với hàng loạt công trình bênh vực và phản bác cả hai phía, từ "biên giới mở hoàn toàn" đến "quyền loại trừ gần như tuyệt đối". Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "quốc gia có quyền đóng cửa biên giới không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
+Trong giới triết học, đạo đức nhập cư đã thành một lĩnh vực sôi động từ những thập niên cuối thế kỷ 20 — bài báo 1987 của Carens, "Aliens and Citizens: The Case for Open Borders", là văn bản thường được trích khi bàn về lập luận cho biên giới mở — với hàng loạt công trình bênh vực và phản bác cả hai phía, từ "biên giới mở hoàn toàn" đến "quyền loại trừ gần như tuyệt đối". Nhưng trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi "quốc gia có quyền đóng cửa biên giới không", nên ở đây ta không có con số nào để trích — và cũng không nên suy đoán.
 
 Một điểm đáng chú ý: không giống nhiều chủ đề triết học khác, tranh luận về biên giới có một "phòng thí nghiệm thực tế" khổng lồ — chính sách nhập cư của các nước, các cuộc khủng hoảng người tị nạn, và dư luận công chúng. Triết học ở đây không bay bổng trên mây; mỗi lập luận đều có thể đối chiếu với hậu quả thật của chính sách thật.
 
