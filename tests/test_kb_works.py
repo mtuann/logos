@@ -43,9 +43,9 @@ class TestKbWorks(unittest.TestCase):
         ở nho-giao-viet nay ghi "(Bùi Huy Bích, 1825)") → 165; cổng 5.8: thêm 1 (Broad *Scientific Thought* (1923) ở
         thoi-gian) → 166; sửa 5.8: thêm 2 (Kierkegaard *Khái niệm lo âu* (1844), *Tái bút phi khoa học kết
         thúc* (1846) ở duc-tin-ly-tri) → 168; thêm 1 (*Cảnh Đức truyền
-        đăng lục* (1004) ở truc-lam) → 169."""
+        đăng lục* (1004) ở truc-lam) → 169; thêm 1 (cùng sách ở mục Nguồn của truc-lam) → 170."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 169)
+        self.assertEqual(n, 170)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():
