@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dan-chu.md#tu-kiem-tra",
-  "hash": "sha256:7dcbb5cd96aa4c5cb5244f1bebca1500949039a3ec22e1a300650d2cb3b718c6",
+  "hash": "sha256:470ec42be5d823f575866b2291af41d7ea7a9e7883834db0e4203a3707ca9ac8",
   "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k01",
+  "checker": "agent-kiem-5.8-k01 + claude-sau-mau-5.8",
   "claims": [
     {
       "text": "Câu 1: đáp án D — \"Về mặt thủ tục đó vẫn là dân chủ; dân chủ không hứa hẹn quyết định đúng, chỉ hứa hẹn cơ chế thay người cầm quyền không đổ máu\"",
@@ -68,6 +68,21 @@
           "where": "khớp lập trường 3, Phản bác chính"
         }
       ]
+    },
+    {
+      "text": "Câu 5: \"Phản bác mạnh nhất đối với lời phê phán dân chủ của Platon là gì?\" — đáp án: \"Nếu không tin số đông thì tin ai? 'Vua triết gia' trong thực tế trông như thế nào và ai sẽ canh chừng ông ta?\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"q\": \"Bài nêu phản bác nào đối với lời phê phán dân chủ của Platon?\"",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/",
+          "quote": "Còn với Platon, người ta hỏi ngược: nếu không tin số đông, thì tin ai?",
+          "where": "thân bài chỉ nêu đây là câu hỏi ngược, không gọi là phản bác \"mạnh nhất\" (chữ \"khôn ngoan nhất\" trong bài dành cho lập luận dân chủ hiến định); đáp án đúng vẫn đúng, các phương án sai vẫn sai"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -78,5 +93,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mọi đáp án đúng khớp bài và nguồn; phương án nhiễu sai rõ. Câu 1 gộp ý \"thay người cầm quyền không đổ máu\" (Popper) vào lập trường Schumpeter đúng như thân bài trình bày."
+  "notes": "Mọi đáp án đúng khớp bài và nguồn; phương án nhiễu sai rõ. Câu 1 gộp ý \"thay người cầm quyền không đổ máu\" (Popper) vào lập trường Schumpeter đúng như thân bài trình bày. Sau mẫu 5.8: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }
