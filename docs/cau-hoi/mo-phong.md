@@ -30,6 +30,8 @@ Chữ "mô phỏng" (*simulation*) gốc Latin *simulare* — "giả vờ, làm 
 
     **Bây giờ hỏi: bạn là một tâm trí được chọn ngẫu nhiên trong toàn bộ thực tại đó. Xác suất bạn là người "gốc" là bao nhiêu?**
 
+    (Phiên bản minh họa của bài, dựng theo lập luận của Nick Bostrom, "Are You Living in a Computer Simulation?", 2003; năm 2150 và các con số "hàng triệu" là giả định của bài.)
+
 Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ??? question "Sau khi bạn đã tự trả lời"
@@ -132,7 +134,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Mô phỏng phải miễn phí"
   ],
   "answer": 2,
-  "explain": "Nếu ý thức không thể tách khỏi não sinh học, các mô phỏng chỉ tạo ra zombie triết học và phép đếm xác suất sụp đổ. Đây là tiền đề mà người phản bác nhắm vào nhiều nhất."
+  "explain": "Nếu ý thức không thể tách khỏi não sinh học, các mô phỏng chỉ tạo ra zombie triết học và phép đếm xác suất sụp đổ. Đây là tiền đề mà bài nêu là điểm yếu chính của lập luận."
  },
  {
   "q": "Lập trường 'không thể kiểm chứng' phản bác giả thuyết mô phỏng bằng lý do gì?",
