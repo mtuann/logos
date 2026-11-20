@@ -146,7 +146,7 @@ Kết quả: điện thế sẵn sàng bắt đầu *trước* thời điểm ng
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
+\* Câu hỏi bổ sung (được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
