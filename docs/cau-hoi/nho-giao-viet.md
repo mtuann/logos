@@ -13,7 +13,7 @@ block: viet-nam
 
     - Luận điểm chính: Nho giáo đến Việt Nam như công cụ của kẻ đô hộ, nhưng chính những nhà Nho Việt lại dùng nó để chống phương Bắc (rõ nhất là [Nguyễn Trãi](../triet-gia/nguyen-trai.md)) và hiểu nó theo cách của mình ([Chu Văn An](../triet-gia/chu-van-an.md), Nguyễn Bỉnh Khiêm) — một học thuyết ngoại lai trở thành "của mình" bằng cách nào, và cái gì làm nên "truyền thống" của một dân tộc?
     - Hai lập trường lịch sử: tiếp thu — Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa (cùng chữ, cùng kinh điển, cùng khoa cử; chỉ là một "trường phái địa phương"); sáng tạo/Việt hóa — người Việt chọn lọc mặt thực tiễn-đạo đức, và Nguyễn Trãi đã *định nghĩa lại* "nhân nghĩa" thành "cốt ở yên dân" trong *Bình Ngô đại cáo* (1428), biến nó thành lý lẽ của độc lập dân tộc.
-    - Lập trường triết học về "truyền thống": định nghĩa tĩnh (giữ nguyên cha ông để lại) đối đầu định nghĩa động (truyền thống là cuộc đối thoại liên tục giữa quá khứ và hiện tại) — bài bênh vực định nghĩa động: ngay cả Nho giáo Trung Hoa cũng đã "định nghĩa lại" nhau suốt hai nghìn năm.
+    - Lập trường triết học về "truyền thống": định nghĩa tĩnh (giữ nguyên cha ông để lại) đối đầu định nghĩa động (truyền thống là cuộc đối thoại liên tục giữa quá khứ và hiện tại) — bài trình bày lập luận mạnh nhất cho định nghĩa động (ngay cả Nho giáo Trung Hoa cũng đã "định nghĩa lại" nhau suốt hai nghìn năm), cùng phản bác và cách đáp lại, để bạn tự cân nhắc.
     - Thái độ của bài: mỗi khẳng định lịch sử được gắn nhãn độ chắc chắn (chắc chắn / có cơ sở / suy đoán); nghịch lý "vũ khí của kẻ thù thành vũ khí của mình" là sợi chỉ đỏ của bài.
 
 Nho giáo sinh ra ở Trung Hoa, từ [Khổng Tử](../triet-gia/khong-tu.md) (thế kỷ 6–5 trước Công nguyên) **[chắc chắn]**. Nó đến Việt Nam cùng với ách đô hộ phương Bắc, ban đầu như một công cụ cai trị **[chắc chắn]**. Nhưng vài thế kỷ sau, chính những nhà Nho Việt Nam lại dùng Nho giáo để *chống lại* phương Bắc — rõ nhất là Nguyễn Trãi trong cuộc kháng chiến chống quân Minh **[chắc chắn]**.
@@ -39,15 +39,15 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 ## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
-Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được làm (*Toàn thư* chép 脩文廟) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học của triều đình — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
+Nho giáo đến Việt Nam từ thời Bắc thuộc (hơn một nghìn năm, từ thế kỷ 2 trước Công nguyên đến thế kỷ 10) **[chắc chắn]**. Ban đầu, chữ Hán và Nho học là công cụ của chính quyền đô hộ **[chắc chắn]**. Dấu ấn sớm: năm 1070, dưới thời Lý Thánh Tông, Văn Miếu ở Thăng Long được làm (*Toàn thư* chép 脩文廟) và đắp tượng Khổng Tử **[chắc chắn]**, và Quốc Tử Giám — trường học của triều đình — ra đời sau đó **[chắc chắn]**. Nho học từ công cụ đô hộ dần thành học vấn của kẻ sĩ — quá trình này bắt đầu ngay từ thời Lý–Trần độc lập **[có cơ sở]**. Sang thời Lê, đặc biệt dưới Lê Thánh Tông (trị vì 1460–1497) **[chắc chắn]**, khoa cử Nho học trở thành con đường chính để tuyển chọn quan lại: người Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi Hương thi Hội để ra làm quan **[chắc chắn]**. Nho giáo không còn là công cụ của ngoại bang mà thành "đạo làm quan" của chính người Việt.
 
-Một chi tiết đáng chú ý: chính trong hệ thống ấy, những nhà Nho Việt Nam xuất sắc nhất lại thường là những người *dám cãi* — Chu Văn An dâng "thất trảm sớ" xin vua Trần Dụ Tông chém bảy gian thần, vua không nghe, ông bèn từ quan **[chắc chắn]** (sự kiện được sử sách ghi lại); Nguyễn Bỉnh Khiêm (1491–1585) **[chắc chắn]** đỗ Trạng nguyên rồi cáo quan về dạy học ở am Bạch Vân, đào tạo hàng trăm học trò **[có cơ sở]**. Họ trung thành với Nho giáo, nhưng là thứ Nho giáo mà họ hiểu theo cách của mình.
+Một chi tiết đáng chú ý: chính trong hệ thống ấy, những nhà Nho Việt Nam xuất sắc nhất lại thường là những người *dám cãi* — Chu Văn An dâng "thất trảm sớ" xin vua Trần Dụ Tông chém bảy gian thần, vua không nghe, ông bèn từ quan **[chắc chắn]** (sự kiện được sử sách ghi lại); Nguyễn Bỉnh Khiêm (1491–1585) **[chắc chắn]** đỗ Trạng nguyên rồi cáo quan về dạy học ở am Bạch Vân, được học trò tôn là Tuyết Giang phu tử **[có cơ sở]**. Họ trung thành với Nho giáo, nhưng là thứ Nho giáo mà họ hiểu theo cách của mình **[suy đoán]**.
 
 Điều lạ lùng: cùng một học thuyết ấy, trong tay sĩ phu Việt, lại sinh ra những điều "rất Việt Nam". Nguyễn Trãi viết trong *Bình Ngô đại cáo* (1428) **[chắc chắn]** (câu dịch thường gặp):
 > Việc nhân nghĩa cốt ở yên dân,
 > Quân điếu phạt trước lo trừ bạo.
 
-"Nhân nghĩa" vốn là khái niệm Nho gia về quan hệ tốt đẹp giữa người với người **[chắc chắn]**. Nhưng Nguyễn Trãi định nghĩa lại: nhân nghĩa *cốt ở* yên dân — tức là làm cho dân được yên ổn — và "trừ bạo" (diệt trừ kẻ bạo ngược, ở đây là quân Minh xâm lược) **[chắc chắn]** (văn bản còn nguyên). Từ một khái niệm đạo đức cá nhân, "nhân nghĩa" trở thành lý tưởng giải phóng dân tộc **[có cơ sở]**.
+"Nhân nghĩa" vốn là khái niệm Nho gia về quan hệ tốt đẹp giữa người với người **[chắc chắn]**. Nguyễn Trãi viết: việc nhân nghĩa *cốt ở* yên dân — tức là làm cho dân được yên ổn — và đạo quân "điếu phạt" trước hết phải "trừ bạo" (diệt trừ kẻ bạo ngược, ở đây là quân Minh xâm lược) **[chắc chắn]** (văn bản còn nguyên). Nhiều người đọc đây là một cách định nghĩa lại nhân nghĩa; nhưng Mạnh Tử vốn đã khuyên vua trị nước bằng nhân nghĩa, nên mức độ "mới" còn được bàn (xem lập trường 2) **[có cơ sở]**. Từ một khái niệm đạo đức và chính trị của Nho gia, "nhân nghĩa" trở thành lý lẽ cho cuộc giải phóng dân tộc **[có cơ sở]**.
 
 Câu hỏi của bài này có hai lớp:
 
@@ -60,7 +60,7 @@ Có một nghịch lý đáng chú ý ngay từ đầu: Nho giáo đến Việt 
 
 ### 1. Tiếp thu: Nho giáo Việt về cơ bản vẫn là Nho giáo Trung Hoa
 
-Lập trường này nhấn mạnh sự liên tục. Sĩ phu Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi khoa cử theo mẫu Trung Hoa, thờ Khổng Tử, tuân theo tam cương ngũ thường **[chắc chắn]**. Chu Văn An (khoảng 1292–1370) dâng "thất trảm sớ" xin chém bảy gian thần — hành động của một nhà Nho chính thống theo đúng đạo "trung quân" **[chắc chắn]** (sự kiện được sử sách ghi lại). Nguyễn Bỉnh Khiêm (1491–1585) viết thơ Nôm nhưng tư tưởng vẫn là Nho gia về đạo làm người **[có cơ sở]**.
+Lập trường này nhấn mạnh sự liên tục. Sĩ phu Việt học chữ Hán, đọc Tứ thư Ngũ kinh, thi khoa cử theo mẫu Trung Hoa, thờ Khổng Tử, tuân theo tam cương ngũ thường **[chắc chắn]**. Chu Văn An (khoảng 1292–1370) dâng "thất trảm sớ" xin chém bảy gian thần **[chắc chắn]** (sự kiện được sử sách ghi lại); phe này đọc đó là hành động của một nhà Nho chính thống theo đúng đạo "trung quân" **[suy đoán]**. Nguyễn Bỉnh Khiêm (1491–1585) viết thơ Nôm nhưng tư tưởng vẫn là Nho gia về đạo làm người **[có cơ sở]**.
 
 **Lập luận mạnh nhất.** Hãy so sánh cấu trúc: cùng chữ viết, cùng kinh điển, cùng chế độ thi cử, cùng hệ giá trị (trung, hiếu, nhân, nghĩa). Nếu hai cây cùng gốc, cùng thân, cùng cành — chỉ khác vài chiếc lá — thì đó vẫn là một cây. Gọi Nho giáo Việt Nam là "sáng tạo độc lập" có nguy cơ thổi phồng khác biệt để phục vụ lòng tự hào dân tộc **[suy đoán]** (ý kiến phê phán trong học giới; không phải đồng thuận).
 
@@ -68,7 +68,7 @@ Lập trường này nhấn mạnh sự liên tục. Sĩ phu Việt học chữ 
 
 **Cách đáp lại.** Phe "tiếp thu" có thể đáp: sự biến đổi là có, nhưng là biến đổi *trong khuôn khổ* Nho giáo — như các trường phái Nho gia Trung Hoa cũng khác nhau (Khổng, Mạnh, Tuân, [Chu Hy](../triet-gia/chu-hy.md)) mà vẫn là Nho giáo. Nho giáo Việt chỉ là một "trường phái địa phương", không phải một hệ tư tưởng mới.
 
-Một lập luận phụ của phe này đáng chú ý: chính các nhà Nho Việt Nam *tự nhận* mình là người tiếp nối Khổng Mạnh, không ai tuyên bố "ta đang sáng tạo một thứ mới" **[có cơ sở]**. Nếu người trong cuộc còn không thấy mình đang sáng tạo, thì "sáng tạo" có phải chỉ là cách gọi của hậu thế?
+Một lập luận phụ của phe này đáng chú ý: các nhà Nho Việt Nam thường *tự nhận* mình là người tiếp nối Khổng Mạnh, hiếm ai tuyên bố "ta đang sáng tạo một thứ mới" **[suy đoán]** (ngoại lệ đáng kể là Hồ Quý Ly, người phê phán lối học kinh viện của Đường Nho, Tống Nho và chủ trương dịch kinh điển Nho ra chữ Nôm). Nếu người trong cuộc còn không thấy mình đang sáng tạo, thì "sáng tạo" có phải chỉ là cách gọi của hậu thế?
 
 Phe "sáng tạo" có thể đáp lại điểm này: người sáng tạo hiếm khi tự nhận mình đang sáng tạo — Nguyễn Trãi vẫn nghĩ mình chỉ đang "làm đúng lời thánh hiền". Sáng tạo trong truyền thống thường mang mặt nạ của sự trung thành **[suy đoán]** (nhận xét về tâm lý lịch sử; khó kiểm chứng trực tiếp).
 
@@ -82,7 +82,7 @@ Bằng chứng mạnh nhất là Nguyễn Trãi. Ông không chỉ "áp dụng" 
 - "Nhân nghĩa" của Nguyễn Trãi: "cốt ở yên dân" — tiêu chuẩn là dân có được yên ổn không; và "trừ bạo" là bổn phận **[chắc chắn]** (theo văn bản *Bình Ngô đại cáo*).
 - Hệ quả: một triều đình (kể cả triều đình "thiên triều" phương Bắc) mà làm dân khổ thì *mất* tính chính đáng — đây là lý lẽ để khẳng định độc lập dân tộc **[có cơ sở]**.
 
-Một bằng chứng khác: tinh thần yêu nước, thương dân trong Nho giáo Việt Nam đậm đặc hơn hẳn so với Nho giáo chính thống Trung Hoa, vốn nhấn mạnh trật tự trên-dưới và trung thành với hoàng đế **[có cơ sở]**. Chu Văn An dám dâng sớ xin vua chém bảy nịnh thần — đó là "trung" theo nghĩa *trung với nước*, không phải trung với cá nhân nhà vua **[suy đoán]** (diễn giải; sử sách chỉ ghi sự kiện dâng sớ).
+Một bằng chứng khác mà phe này nêu: tinh thần yêu nước, thương dân nổi bật trong Nho giáo Việt Nam hơn trong Nho giáo chính thống Trung Hoa, vốn nhấn mạnh trật tự trên-dưới và trung thành với hoàng đế **[suy đoán]** (có nhà nghiên cứu phản bác: Nho giáo không dạy người Việt yêu nước; chính người Việt đã cấu trúc lại các khái niệm Nho giáo trên lập trường dân tộc). Chu Văn An dám dâng sớ xin vua chém bảy nịnh thần — đó là "trung" theo nghĩa *trung với nước*, không phải trung với cá nhân nhà vua **[suy đoán]** (diễn giải; sử sách chỉ ghi sự kiện dâng sớ).
 
 **Lập luận mạnh nhất.** Một học thuyết chỉ thực sự "sống" khi nó trả lời được câu hỏi của đời sống nơi nó đặt chân đến. Nho giáo Việt Nam sống được vì nó đã biến thành câu trả lời cho câu hỏi của người Việt: làm sao giữ nước, yên dân? Sự biến đổi ấy không phải là "sai lệch" mà chính là cách một tư tưởng trở thành truyền thống.
 
@@ -96,10 +96,10 @@ Cả hai lập trường trên đều dùng chữ "truyền thống", nhưng hi�
 
 Hãy thử định nghĩa "truyền thống" như một khái niệm triết học (xem thêm bài [Thế nào là một định nghĩa tốt?](../cong-cu/dinh-nghia-phan-vi-du.md)):
 
-- **Định nghĩa 1 (tĩnh):** truyền thống là những gì cha ông để lại, phải giữ nguyên. Theo nghĩa này, Nguyễn Trãi "phản bội" Nho giáo khi định nghĩa lại nhân nghĩa.
+- **Định nghĩa 1 (tĩnh):** truyền thống là những gì cha ông để lại, cần được giữ gìn đúng hình thức của nó, vì chính sự ổn định ấy mới làm cho các thế hệ nhận ra nhau và có một ký ức chung. Theo nghĩa này, Nguyễn Trãi "phản bội" Nho giáo khi định nghĩa lại nhân nghĩa.
 - **Định nghĩa 2 (động):** truyền thống là một cuộc đối thoại liên tục giữa quá khứ và hiện tại. Theo nghĩa này, Nguyễn Trãi chính là người *làm nên* truyền thống — vì truyền thống chỉ sống khi mỗi thế hệ viết tiếp nó.
 
-**Lập luận mạnh nhất cho định nghĩa 2:** hãy nhìn vào chính Nho giáo Trung Hoa — Khổng Tử, Mạnh Tử, [Tuân Tử](../triet-gia/tuan-tu.md), Chu Hy đã "định nghĩa lại" nhau suốt hai nghìn năm **[chắc chắn]**. Nếu "giữ nguyên" mới là truyền thống, thì ngay cả Nho giáo gốc cũng không có truyền thống. Truyền thống, xét cho cùng, là tên gọi của sự *tiếp nối có biến đổi*.
+**Lập luận mạnh nhất cho định nghĩa 2:** hãy nhìn vào chính Nho giáo Trung Hoa — Khổng Tử, Mạnh Tử, [Tuân Tử](../triet-gia/tuan-tu.md), Chu Hy đã "định nghĩa lại" nhau suốt hai nghìn năm **[chắc chắn]**. Nếu "giữ nguyên" mới là truyền thống, thì ngay cả Nho giáo gốc cũng không có truyền thống. Theo định nghĩa 2, truyền thống là tên gọi của sự *tiếp nối có biến đổi*.
 
 **Phản bác:** nếu cái gì cũng có thể thay đổi mà vẫn gọi là "truyền thống", thì chữ "truyền thống" còn ý nghĩa gì? Một người có thể nhân danh "sáng tạo truyền thống" để biện minh cho bất kỳ sự phá bỏ nào.
 
