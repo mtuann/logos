@@ -64,7 +64,7 @@ Lập luận từ **vị trí nguyên thủy** (*original position*) trong *A Th
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Đúng sai có khách quan không?](../cau-hoi/sieu-dao-duc.md)
 
-**Các bài khác nhắc tới John Rawls:** [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md).
+**Các bài khác nhắc tới John Rawls:** [Quốc gia có quyền đóng cửa biên giới không?](../cau-hoi/bien-gioi-di-cu.md), [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md).
 
 ## Nguồn
 
