@@ -10907,9 +10907,9 @@ Gợi ý độ dài: 150–300 chữ.
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: hơn hai nghìn năm nay triết gia thử *chứng minh* Thượng đế bằng lập luận thuần túy; điểm yếu chung của cả ba luận chứng là *vấn đề khoảng cách* — ngay cả khi thành công, chúng chỉ chứng minh được một nguyên nhân đầu tiên hay nhà thiết kế, chưa phải Thượng đế toàn năng toàn tri toàn thiện của tôn giáo.
-    - Ba luận chứng: vũ trụ luận ([Aquinas](../triet-gia/aquinas.md), *Summa Theologiae*, khoảng 1265–1273) — mọi sự đều có nguyên nhân nên phải có nguyên nhân đầu tiên; mục đích luận (Paley, *Natural Theology*, 1802; phiên bản tinh chỉnh hiện đại) — tự nhiên tinh xảo như đồng hồ nên phải có người làm đồng hồ; bản thể luận ([Anselm](../triet-gia/anselm.md), *Proslogion*, 1077–1078) — chỉ cần phân tích khái niệm "vĩ đại nhất có thể nghĩ" là đủ suy ra sự tồn tại.
+    - Ba luận chứng: vũ trụ luận ([Aquinas](../triet-gia/aquinas.md), *Summa Theologiae*, khoảng 1265–1273) — không gì tự là nguyên nhân của chính nó và chuỗi nguyên nhân không thể lùi vô hạn, nên phải có một nguyên nhân đầu tiên; mục đích luận (Paley, *Natural Theology*, 1802; phiên bản tinh chỉnh hiện đại) — tự nhiên tinh xảo như đồng hồ nên phải có người làm đồng hồ; bản thể luận ([Anselm](../triet-gia/anselm.md), *Proslogion*, 1077–1078) — chỉ cần phân tích khái niệm "vĩ đại nhất có thể nghĩ" là đủ suy ra sự tồn tại.
     - Phản bác mạnh nhất cho mỗi luận chứng: [Hume](../triet-gia/hume.md) — vì sao điểm dừng phải là Thượng đế mà không phải chính vũ trụ; Hume về thiết kế vụng về của tự nhiên, cộng giả thuyết đa vũ trụ của thời hiện đại; [Kant](../triet-gia/kant.md) — "tồn tại" không phải là thuộc tính, cộng phản ví dụ "hòn đảo hoàn hảo" của Gaunilo.
-    - Thái độ của bài: site không chọn phe; PhilPapers 2020 — hữu thần [[pp:thuong-de.huu-than]]% vs vô thần [[pp:thuong-de.vo-than]]%; khi được hỏi luận chứng nào mạnh nhất, vũ trụ luận được chọn nhiều nhất ([[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]]%), bản thể luận chỉ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]]% — nhưng số đông không quyết định chân lý, và nhiều triết gia vô thần vẫn đánh giá các luận chứng là đáng nể.
+    - Thái độ của bài: site không chọn phe; PhilPapers 2020 — hữu thần [[pp:thuong-de.huu-than]]% vs vô thần [[pp:thuong-de.vo-than]]%; khi được hỏi luận chứng nào mạnh nhất, vũ trụ luận được chọn nhiều nhất ([[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]]%), bản thể luận chỉ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]]% — nhưng số đông không quyết định chân lý, và tranh luận về từng luận chứng vẫn tiếp diễn.
 
 Hầu hết mọi người tin hoặc không tin vào Thượng đế vì những lý do rất cá nhân: cách họ được nuôi dạy, một biến cố trong đời, cảm giác về thế giới. Nhưng từ hơn hai nghìn năm nay (sớm nhất là [Platon](../triet-gia/platon.md) và [Aristotle](../triet-gia/aristotle.md)), các triết gia đã thử một con đường khác: *chứng minh* sự tồn tại của Thượng đế bằng lập luận thuần túy, không dựa vào kinh nghiệm riêng của ai.
 
@@ -10946,7 +10946,7 @@ Có một điểm yếu chung mà cả ba luận chứng đều phải đối m�
 Khoảng năm 1265–1273, Thomas Aquinas viết *Tổng luận Thần học* (*Summa Theologiae*). Trong Phần I, Câu 2, Điều 3, ông đưa ra năm "con đường" chứng minh Thượng đế tồn tại. Ba con đường đầu thuộc về **luận chứng vũ trụ luận** (*cosmological argument*):
 
 - Mọi chuyển động đều do một cái gì đó gây ra; không thể có chuỗi nguyên nhân lùi vô hạn; vậy phải có một **động cơ đầu tiên** không bị cái gì lay động.
-- Mọi sự vật đều có nguyên nhân; không thể có chuỗi nguyên nhân lùi vô hạn; vậy phải có một **nguyên nhân đầu tiên**.
+- Trong thế giới, các nguyên nhân tác động nối nhau thành chuỗi, và không gì tự là nguyên nhân của chính nó; không thể có chuỗi nguyên nhân lùi vô hạn; vậy phải có một **nguyên nhân đầu tiên**.
 - Mọi sự vật trong vũ trụ đều có thể không tồn tại (đều "ngẫu nhiên"); nếu mọi thứ đều ngẫu nhiên thì có lúc chẳng có gì tồn tại — nhưng đang có thứ tồn tại; vậy phải có một tồn tại **tất yếu**, tự mình tồn tại.
 
 Cả ba cùng đi đến một điểm dừng: một thực thể đầu tiên, không do cái gì gây ra, mà mọi thứ khác đều do nó mà có. Aquinas gọi đó là Thượng đế.
@@ -10988,7 +10988,7 @@ Lập luận, nói gọn:
 
 | Luận chứng | Xuất phát từ | Kết luận | Phản bác mạnh nhất |
 |---|---|---|---|
-| Vũ trụ luận (Aquinas) | Mọi sự đều có nguyên nhân | Phải có nguyên nhân đầu tiên | Vì sao điểm dừng phải là Thượng đế mà không phải chính vũ trụ? (Hume) |
+| Vũ trụ luận (Aquinas) | Mọi thứ trong thế giới đều do cái khác gây ra; chuỗi nguyên nhân không lùi vô hạn được | Phải có nguyên nhân đầu tiên | Vì sao điểm dừng phải là Thượng đế mà không phải chính vũ trụ? (Hume) |
 | Mục đích luận (Paley) | Tự nhiên đầy cấu trúc tinh xảo | Phải có Đấng thiết kế | Thế giới đầy thiết kế vụng về (Hume); chọn lọc tự nhiên (Darwin); đa vũ trụ (phản bác hiện đại) |
 | Bản thể luận (Anselm) | Khái niệm "vĩ đại nhất có thể nghĩ" | Tồn tại trong thực tế | "Tồn tại" không phải là thuộc tính (Kant); phản ví dụ hòn đảo (Gaunilo) |
 
@@ -11001,7 +11001,7 @@ Lập luận, nói gọn:
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 có hai câu hỏi liên quan trực tiếp: một câu chính về Thượng đế (hỏi mọi người tham gia) và một câu bổ sung hỏi *luận chứng nào cho sự tồn tại của Thượng đế là mạnh nhất* (chỉ hỏi những người chọn trả lời thêm).
+Khảo sát PhilPapers 2020 có hai câu hỏi liên quan trực tiếp: một câu chính về Thượng đế (hỏi mọi người tham gia) và một câu bổ sung hỏi *luận chứng nào cho sự tồn tại của Thượng đế là mạnh nhất* (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm).
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
@@ -11017,9 +11017,9 @@ Khảo sát PhilPapers 2020 có hai câu hỏi liên quan trực tiếp: một c
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ "chấp nhận hoặc nghiêng về"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
-Đọc bảng này thế nào? Đa số triết gia chuyên nghiệp (nhất là trong truyền thống phân tích ở các đại học nói tiếng Anh) không theo hữu thần. Nhưng điều đó không có nghĩa các luận chứng trên đã bị bác bỏ xong: nhiều triết gia vô thần vẫn đánh giá một số luận chứng là *đáng nể* về mặt triết học, và tranh luận về từng luận chứng vẫn tiếp diễn sôi nổi. Như đã dặn trong các bài trước: số đông không quyết định chân lý.
+Đọc bảng này thế nào? Đa số triết gia chuyên nghiệp (nhất là trong truyền thống phân tích ở các đại học nói tiếng Anh) không theo hữu thần. Nhưng điều đó không có nghĩa các luận chứng trên đã bị bác bỏ xong: tranh luận về từng luận chứng vẫn tiếp diễn sôi nổi. Như đã dặn trong các bài trước: số đông không quyết định chân lý.
 
-Câu bổ sung hỏi một điều khác hẳn: không phải "bạn có tin không", mà "nếu xét luận chứng, cái nào mạnh nhất?". Vũ trụ luận (họ luận chứng của Aquinas) được chọn nhiều nhất, sát sau là thiết kế (họ của Paley và lập luận tinh chỉnh); bản thể luận của Anselm, dù nổi tiếng nhất về độ tinh xảo logic, chỉ được [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]]%. Lựa chọn "thực dụng" là họ của canh bạc [Pascal](../triet-gia/pascal.md) — lý do để *tin*, không phải bằng chứng (xem [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)). Không lựa chọn nào vượt một phần tư, và "Khác" (lập trường khác, không có ý kiến, cho rằng câu hỏi không rõ…) chiếm [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]]%. Hãy nhớ giới hạn của số liệu: câu này chỉ có khoảng [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]] người trả lời, và mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh — không đại diện cho mọi truyền thống triết học hay tôn giáo.
+Câu bổ sung hỏi một điều khác hẳn: không phải "bạn có tin không", mà "nếu xét luận chứng, cái nào mạnh nhất?". Vũ trụ luận (họ luận chứng của Aquinas) được chọn nhiều nhất, sát sau là thiết kế (họ của Paley và lập luận tinh chỉnh); bản thể luận của Anselm, dù được giới triết học bàn rất nhiều về mặt logic, chỉ được [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]]%. Lựa chọn "thực dụng" là họ của canh bạc [Pascal](../triet-gia/pascal.md) — lý do để *tin*, không phải bằng chứng (xem [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)). Không luận chứng cụ thể nào vượt một phần tư, còn "Khác" (lập trường khác, không có ý kiến, cho rằng câu hỏi không rõ…) chiếm [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.khac]]%. Hãy nhớ giới hạn của số liệu: câu này chỉ có khoảng [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]] người trả lời, và mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh — không đại diện cho mọi truyền thống triết học hay tôn giáo.
 
 ## Liên hệ đời sống
 
