@@ -9699,7 +9699,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Biến thể thứ nhất: giả sử X chỉ nói trong một nhóm kín vài chục người, không ai tin. Có nên cấm không? Trực giác của bạn có đổi không — và nếu đổi, thì điều thay đổi là *mức độ hại*, hay là *bản chất* của lời nói?
 
-    Biến thể thứ hai, khó hơn: giả sử không phải nhà nước mà là một *nền tảng mạng xã hội tư nhân* xóa bài của X. Đó có phải là "vi phạm tự do ngôn luận" không? Hay tự do ngôn luận chỉ ràng buộc nhà nước, còn công ty tư nhân được toàn quyền quyết định? Hầu hết các cuộc tranh cãi ồn ào nhất về tự do ngôn luận hôm nay thực ra là về biến thể này — chứ không phải về nhà nước.
+    Biến thể thứ hai, khó hơn: giả sử không phải nhà nước mà là một *nền tảng mạng xã hội tư nhân* xóa bài của X. Đó có phải là "vi phạm tự do ngôn luận" không? Hay tự do ngôn luận chỉ ràng buộc nhà nước, còn công ty tư nhân được toàn quyền quyết định? Nhiều cuộc tranh cãi ồn ào về tự do ngôn luận hôm nay thực ra là về biến thể này — chứ không phải về nhà nước.
 
 ## Câu hỏi thật sự là gì?
 
