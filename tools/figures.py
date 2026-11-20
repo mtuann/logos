@@ -334,7 +334,7 @@ def fig_pascal_wager() -> str:
         ' style="fill:currentColor" font-size="12.5">lợi ích vô hạn</text>',
         box2(365, 60, 225, 120, "Không mất gì đáng kể", "chỉ tốn chút công sức",
              tsize=14),
-        box2(140, 180, 225, 120, "Mất mát vô hạn", "hình phạt đời đời", tsize=14),
+        box2(140, 180, 225, 120, "Khốn khổ (misery)", "hay hiểu: hình phạt đời đời", tsize=14),
         box2(365, 180, 225, 120, "Không thêm, không bớt", "cả hai đều như nhau",
              tsize=14),
         '<text x="310" y="338" text-anchor="middle"'
@@ -722,7 +722,7 @@ def fig_tam_giac_cai_ac() -> str:
 def fig_khe_uoc() -> str:
     parts = [
         _t("Lô-gíc của khế ước xã hội", 320, 32, 16, bold=True),
-        box2(25, 92, 175, 88, "Trạng thái tự nhiên", "ai cũng chống ai",
+        box2(25, 92, 175, 88, "Trạng thái tự nhiên", "chưa có quyền lực chung",
              tsize=14),
         box2(232, 92, 175, 88, "Ký khế ước", "đồng thuận chung", tsize=14),
         box2(440, 92, 175, 88, "Nhà nước", "trật tự và luật lệ", tsize=14),
@@ -830,7 +830,7 @@ def fig_ho_khai_niem() -> str:
     import math as _m
     cx, cy, ring, rad = 280, 215, 95, 78
     labels = ["hội họa", "âm nhạc", "văn học", "điện ảnh", "game / AI"]
-    parts = [_t("Tương tự họ (Wittgenstein / Weitz)", 280, 30, 15, bold=True)]
+    parts = [_t("Tương đồng gia đình (Wittgenstein / Weitz)", 280, 30, 15, bold=True)]
     for i, lab in enumerate(labels):
         a = _m.radians(90 + i * 72)
         x, y = cx + ring * _m.cos(a), cy + ring * _m.sin(a)
@@ -1064,7 +1064,7 @@ FIGURES = {
     },
     "ho-khai-niem": {
         "alt": "Năm vòng tròn giao nhau từng cặp kề nhau nhưng không có vùng chung cho cả năm",
-        "caption": "Tương tự họ: hội họa, âm nhạc, văn học, điện ảnh, game/AI — mỗi cặp kề nhau có điểm chung, nhưng không có một bản chất chung cho tất cả. Đó là cách Weitz nhìn khái niệm \"nghệ thuật\".",
+        "caption": "Tương đồng gia đình: hội họa, âm nhạc, văn học, điện ảnh, game/AI — mỗi cặp kề nhau có điểm chung, nhưng không có một bản chất chung cho tất cả. Đó là cách Weitz nhìn khái niệm \"nghệ thuật\".",
         "make": fig_ho_khai_niem,
     },
     "vietnam-timeline": {
