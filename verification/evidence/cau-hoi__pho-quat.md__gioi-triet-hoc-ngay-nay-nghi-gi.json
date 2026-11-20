@@ -1,0 +1,161 @@
+{
+  "unit": "cau-hoi/pho-quat.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:c05a46c63201ab3160b9b7716ee6bc7124b30e879206663968d052ac832080c9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k06",
+  "claims": [
+    {
+      "text": "câu bổ sung \"Tính chất\" hỏi tính chất (như \"đỏ\") rốt cuộc *là gì* … (bảng: Lớp, Phổ quát nội tại, Phổ quát siêu việt, Trope, Không tồn tại, Khác; n ≈ [[pp:tinh-chat-properties/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tinh-chat-properties"
+    },
+    {
+      "text": "câu chính \"Đối tượng trừu tượng\" hỏi về thuyết Platon và duy danh luận (bảng: Thuyết Platon, Duy danh luận, Khác; n ≈ [[pp:doi-tuong-truu-tuong/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/doi-tuong-truu-tuong"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23 — Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ \"chấp nhận hoặc nghiêng về\"; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Hai dạng thực tại luận — phổ quát nội tại (Aristotle, Armstrong) và phổ quát siêu việt (Platon) — cộng lại tối đa khoảng 40% (một người có thể chọn cả hai, nên con số thật có thể thấp hơn).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Properties Classes 89 11.5 Immanent universals 160 20.6 Transcendent universals 154 19.8 Tropes 119 15.3 Nonexistent 63 8.1 Other 226 29.1",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "\"lớp\" (đồng nhất tính chất \"đỏ\" với tập hợp các vật đỏ — thường được xếp vào duy danh luận)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/",
+          "quote": "Class nominalism holds that the metaphysical structure of class membership is necessary and sufficient to explain the qualitative status of concrete particular objects",
+          "where": "mục 4.2"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết tương tự ở mục 3 không có ô riêng: người theo nó có thể đã chọn \"không tồn tại\" hoặc \"Khác\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thuyết tương tự ở mục 3 không có ô riêng: người theo nó có thể đã chọn \"lớp\" (vì thuyết này thường coi \"đỏ\" là lớp các vật giống nhau), \"không tồn tại\" hoặc \"Khác\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/",
+          "quote": "Thus the view can be developed to allow for entities that fall under the extension of “property”, namely, classes of concrete particular objects",
+          "where": "mục 4.2"
+        }
+      ]
+    },
+    {
+      "text": "mà \"Khác\" ([[pp:tinh-chat-properties.khac]]%) lại là nhóm lớn nhất. Không lựa chọn nào vượt quá khoảng một phần năm.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "mà \"Khác\" ([[pp:tinh-chat-properties.khac]]%) lại là nhóm lớn nhất. Không lập trường cụ thể nào vượt quá khoảng một phần năm.",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Immanent universals 160 20.6 Transcendent universals 154 19.8 Tropes 119 15.3 Nonexistent 63 8.1 Other 226 29.1",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Câu \"Đối tượng trừu tượng\" thì hỏi rộng hơn — về những thứ như số, tập hợp, mệnh đề — chứ không riêng về tính chất; ở đó hai phe gần như ngang nhau.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Abstract objects Platonism 629 38.4 Nominalism 686 41.9 Other 323 19.7",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "câu \"Tính chất\" chỉ có khoảng [[pp:tinh-chat-properties/n]] người trả lời (những người chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "câu \"Tính chất\" chỉ có khoảng [[pp:tinh-chat-properties/n]] người trả lời (câu bổ sung: một phần được hỏi ngẫu nhiên, phần còn lại tự chọn trả lời thêm)",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "We also added a further group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "mục 2.2"
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Participants were also given the option of answering some or all of the other 50 additional questions if they chose to",
+          "where": "mục 2.2"
+        }
+      ]
+    },
+    {
+      "text": "mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh — không đại diện cho mọi truyền thống triết học.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "This allows broader information about views within the English-speaking philosophical community.",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "we acknowledge an overall bias toward certain relatively traditional issues in the analytic and English-speaking canons.",
+          "where": "mục 2.2"
+        }
+      ]
+    },
+    {
+      "text": "qua các nhà kinh viện thời Trung cổ (vấn đề phổ quát từng là đề tài nóng nhất của triết học Trung cổ)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "qua các nhà kinh viện thời Trung cổ (vấn đề phổ quát từng là một trong những đề tài lớn của triết học Trung cổ)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/universals-medieval/",
+          "quote": "The medieval problem of universals is a logical, and historical, continuation of the ancient problem generated by Plato’s (428–348 B.C.E.) theory",
+          "where": "mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "nhiều triết gia ngày nay không chọn hẳn một phe cho mọi trường hợp. Họ có thể là thực tại luận về các tính chất vật lý (khối lượng, điện tích) mà khoa học cần, nhưng là duy danh luận về những \"phổ quát\" đáng ngờ hơn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/properties/",
+          "quote": "Depending on how sparse or abundant properties are, we can have two extreme positions and other more moderate views in between.",
+          "where": "mục 3.2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu khớp Bảng 1–2 của Bourget & Chalmers 2023 (mở qua DOI trong phiên này) và kho philpapers đã đóng băng. Ba lỗi nhẹ về diễn đạt: bỏ sót \"lớp\" khi đoán người theo thuyết tương tự chọn gì; \"không lựa chọn nào vượt quá một phần năm\" mâu thuẫn với \"Khác\" 29,1%; mô tả người trả lời câu bổ sung chỉ là \"người chọn trả lời thêm\"."
+}

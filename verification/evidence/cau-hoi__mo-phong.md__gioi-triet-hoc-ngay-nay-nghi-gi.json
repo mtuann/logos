@@ -1,0 +1,86 @@
+{
+  "unit": "cau-hoi/mo-phong.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:0275630ff82f09be8e9d691ac682a4e2a2c4beea42e95acbb51f5c08a3492a84",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 **không có câu hỏi nào** về giả thuyết mô phỏng.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional Questions Abortion Aesthetic experience Analysis of knowledge Arguments for theism Belief or credence",
+          "where": "trang Main survey results liệt kê đủ câu chính và câu bổ sung; tìm \"simulat\" trên toàn trang không có kết quả, câu gần nhất là \"Mind uploading (brain replaced by digital emulation)\""
+        }
+      ]
+    },
+    {
+      "text": "\"Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)\": sống sót [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.song-sot]]% / chết [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.chet]]%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so"
+    },
+    {
+      "text": "Có một câu hỏi nghe có vẻ liên quan — \"Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)\": sống sót ...% / chết ...%",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Có một câu hỏi bổ sung nghe có vẻ liên quan — \"Tải tâm trí lên máy (não được thay bằng bản mô phỏng số)\": sống sót [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.song-sot]]% / chết [[pp:tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so.chet]]%",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Method in history of philosophy Method in political philosophy Mind uploading Moral principles",
+          "where": "Mind uploading nằm trong danh sách Additional Questions (câu bổ sung, Bảng 2); quy ước của site: khi trích câu bổ sung phải nói rõ"
+        }
+      ]
+    },
+    {
+      "text": "nhưng đó là câu hỏi khác: nó hỏi liệu *bạn* có còn là bạn sau khi tâm trí được số hóa, chứ không hỏi liệu ta *đang* sống trong một mô phỏng của tổ tiên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Mind uploading (brain replaced by digital emulation): survival or death?"
+        }
+      ]
+    },
+    {
+      "text": "bài báo 2003 của Bostrom là một trong những bài triết học được trích dẫn và tranh luận nhiều nhất trong hai thập kỷ qua",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "bài báo 2003 của Bostrom đã được trích dẫn và tranh luận rộng rãi",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1111/1467-9213.00309",
+          "quote": "\"is-referenced-by-count\":537",
+          "where": "Crossref chỉ cho số lần trích dẫn của riêng bài này, không có nguồn so sánh xếp bài vào nhóm \"được trích dẫn nhiều nhất\" của triết học; khái quát trình bày như sự thật mà không có nguồn"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/",
+          "quote": "surveyed the philosophical views of 1785 English-speaking philosophers from around the world on 100 philosophical questions",
+          "where": "trang giới thiệu; shortcode so-cau = 100 trong data/kb/philpapers-2020.json"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Ghi đúng 'chưa có khảo sát' và không mượn số sai chỗ. Lỗi vừa: khái quát 'một trong những bài được trích dẫn nhiều nhất' không có nguồn. Lỗi nhẹ: không nói câu Tải tâm trí là câu bổ sung."
+}

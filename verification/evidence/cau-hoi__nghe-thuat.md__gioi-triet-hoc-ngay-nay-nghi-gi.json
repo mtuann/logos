@@ -1,0 +1,132 @@
+{
+  "unit": "cau-hoi/nghe-thuat.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:5fc23f7f5977b3aa485dcd313a8cc8589b2d2c4544da6a777b0335d1ab3a6593",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k07",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về \"nghệ thuật là gì\", nên **chưa có số liệu khảo sát riêng cho câu hỏi này**.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/gia-tri-tham-my"
+    },
+    {
+      "text": "| Giá trị thẩm mỹ (n ≈ [[pp:gia-tri-tham-my/n]]) | Khách quan | [[pp:gia-tri-tham-my.khach-quan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/gia-tri-tham-my",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Aesthetic value Objective 740 43.5 683 40.2 Subjective 690 40.6 632 37.2 Other 322 18.9",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "| Trải nghiệm thẩm mỹ* (n ≈ [[pp:trai-nghiem-tham-my/n]]) | Đặc thù riêng (*sui generis*) | [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/trai-nghiem-tham-my"
+    },
+    {
+      "text": "\\* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm; câu \"Giá trị thẩm mỹ\" là câu chính, hỏi mọi người tham gia.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\\* Câu hỏi bổ sung: chỉ một phần người tham gia được hỏi (khoảng 300 người được chọn ngẫu nhiên, phần còn lại là người tự nguyện trả lời thêm); câu \"Giá trị thẩm mỹ\" là câu chính, hỏi mọi người tham gia.",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Of the 60 additional questions, one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory 50 questions. Typically, another 800 respondents (45%) were presented with the question by answering additional questions",
+          "where": "§3.2"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "The results for the 40 main questions (those asked of all respondents) are shown in Table 1."
+        }
+      ]
+    },
+    {
+      "text": "Câu thứ nhất chính là câu hỏi của bài [Cái đẹp ở trong mắt người nhìn?](cai-dep.md): giới chuyên môn chia gần đôi giữa \"khách quan\" và \"chủ quan\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/gia-tri-tham-my",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cai-dep/",
+          "quote": "Giới chuyên môn chia gần đôi."
+        }
+      ]
+    },
+    {
+      "text": "Nhưng câu hỏi khảo sát hỏi về trải nghiệm thẩm mỹ nói chung, không hỏi về lý thuyết của Bell",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/trai-nghiem-tham-my"
+    },
+    {
+      "text": "Mẫu khảo sát là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Of the main target population of 7685 philosophers, 1785 (23%) com- pleted the survey."
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020."
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "This allows broader information about views within the English-speaking philosophical community."
+        }
+      ]
+    },
+    {
+      "text": "Danto và Dickie thì đưa ra những định nghĩa dựa vào *quan hệ* của tác phẩm với thế giới nghệ thuật thay vì vào những gì mắt thấy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/art-definition/",
+          "quote": "Conventionalist definitions have been strongly influenced by the emergence, in the twentieth century, of artworks that seem to differ radically from all previous artworks"
+        }
+      ]
+    },
+    {
+      "text": "Một hướng được bàn nhiều là xem \"nghệ thuật\" như một khái niệm *cụm* (*cluster concept*; chẳng hạn Berys Gaut, 2000): một vật càng có nhiều đặc trưng trong cụm (có phẩm chất thẩm mỹ, biểu đạt cảm xúc, đòi hỏi kỹ năng cao, thuộc một loại hình nghệ thuật đã có, được làm ra với ý định tạo tác phẩm nghệ thuật...) thì càng chắc chắn là nghệ thuật — mà không cần một điều kiện duy nhất nào.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.gaut-berys-2000-art-as-a-cluster-concept-trong-noel-carroll",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/art-definition/",
+          "quote": "The cluster version of the family resemblance view has been defended by a number of philosophers (Bond 1975, Dissanayake 1990, Dutton 2006, Gaut 2000)."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/art-definition/",
+          "quote": "Here is one, due to Gaut: (1) possessing positive aesthetic properties; (2) being expressive of emotion;"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/art-definition/",
+          "quote": "(8) being an artifact or performance which is the product of a high degree of skill; (9) belonging to an established artistic form; (10) being the product of an intention to make a work of art (Gaut 2000)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/art-definition/",
+          "quote": "no one of which is a necessary condition for being a work of art"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu đối chiếu Bảng 1, Bảng 2 và §3.2 bài Bourget & Chalmers (PDF PhilPapers, bản Wayback 20/05/2026) và tools/philpapers-2020.md. Câu \"không đặt câu hỏi riêng về nghệ thuật là gì\" khớp danh sách câu hỏi trong tools/philpapers-2020.md (chỉ có Giá trị thẩm mỹ và Trải nghiệm thẩm mỹ thuộc mỹ học). Nhận định đi kèm không vượt số liệu. Câu \"trước vụ tranh AI đoạt giải năm 2022\" khớp CBS (tháng 9/2022)."
+}

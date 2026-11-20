@@ -1,0 +1,48 @@
+{
+  "unit": "cau-hoi/cong-ly.md#thi-nghiem-tu-duy",
+  "hash": "sha256:b2c2886db2619a12312f23e5416de3a8654c60aafe39c53a115585ef9efe1458",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k02",
+  "claims": [
+    {
+      "text": "Đây chính là thí nghiệm \"vị trí nguyên thủy\" (original position) đằng sau bức màn vô tri (veil of ignorance) của John Rawls",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "The original position is not supposed to be realistic but is a “device of representation” (PL 27), or a “thought experiment,” (JF, 83)",
+          "where": "§0"
+        }
+      ]
+    },
+    {
+      "text": "sau khi thiết kế xong, bạn sẽ *được sinh ra ngẫu nhiên* vào xã hội đó",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nhưng có một điều kiện: sau khi thiết kế xong, bạn sẽ bước vào xã hội đó ở một vị trí mà bạn không biết trước — có thể là con của tỷ phú, có thể là đứa trẻ mồ côi ở vùng sâu, có thể khỏe mạnh, có thể khuyết tật. Bạn không được biết trước mình sẽ là ai, và cũng không biết khả năng rơi vào mỗi vị trí là bao nhiêu.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "Thus, John Harsanyi contends that it is more rational under conditions of complete uncertainty always to choose according to the principle of insufficient reason and assume an equal probability of occupying any position in society.",
+          "where": "§6.2 — \"sinh ra ngẫu nhiên\" gợi giả định xác suất đều của Harsanyi, cách đọc mà Rawls bác"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "Rawls denies that the parties have a psychological disposition to risk-aversion.",
+          "where": "§6.2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Sai nhẹ: câu chữ \"sinh ra ngẫu nhiên\" nghiêng về phiên bản xổ số (Harsanyi), trong khi bức màn của Rawls là bất định không có xác suất; phần còn lại kể đúng."
+}

@@ -1,0 +1,95 @@
+{
+  "unit": "cau-hoi/vu-tru-khoi-dau.md#tu-kiem-tra",
+  "hash": "sha256:740252845b631cb1ee1de60779c2427e48fac666b948cb62ce4ccc92230957b3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k11",
+  "claims": [
+    {
+      "text": "\"Mọi thứ bắt đầu tồn tại đều có nguyên nhân; vũ trụ bắt đầu tồn tại; vậy vũ trụ có nguyên nhân\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Everything that begins to exist has a cause of its existence. The universe began to exist. Therefore, the universe has a cause of its existence.",
+          "where": "§8"
+        }
+      ]
+    },
+    {
+      "text": "\"Tiền đề 2: họ phủ nhận vũ trụ bắt đầu tồn tại — vũ trụ đã luôn ở đó nên không cần nguyên nhân của khởi đầu\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "it is possible that the universe has cycled through oscillations, perhaps infinitely",
+          "where": "§8.4"
+        }
+      ]
+    },
+    {
+      "text": "\"Bức xạ nền vũ trụ ủng hộ Big Bang, và định luật hai nhiệt động lực học (entropy tăng) gây khó cho mô hình chu kỳ vô hạn\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology-30s/",
+          "quote": "In 1965, the fossils arrived, courtesy of the observations of the 3° K remnant microwave radiation.",
+          "where": "§8.5"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "entropy would rise from cycle to cycle",
+          "where": "§8.4"
+        }
+      ]
+    },
+    {
+      "text": "\"Nó chấp nhận vũ trụ quan sát được của ta có khởi đầu, nhưng cho rằng đó chỉ là một 'bong bóng' trong một toàn thể lớn hơn\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology/",
+          "quote": "This leads to a global structure of “pocket” universes embedded within a larger multiverse.",
+          "where": "§4.3"
+        }
+      ]
+    },
+    {
+      "text": "\"Hữu thần 18,9% / Vô thần 66,9%\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/thuong-de"
+    },
+    {
+      "text": "ở câu bổ sung hỏi luận chứng nào mạnh nhất, vũ trụ luận — họ của Kalam — được chọn nhiều nhất (20,9%)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "ở câu bổ sung hỏi luận chứng nào mạnh nhất, vũ trụ luận — họ của Kalam — được chọn nhiều nhất trong các luận chứng được nêu tên (20,9%)",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20240415004914/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Arguments for theism (which argument is strongest?) Cosmological 214 20.9",
+          "where": "Bảng 2"
+        },
+        {
+          "url": "https://web.archive.org/web/20240415004914/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Other 258 25.2",
+          "where": "Bảng 2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "5 câu: đáp án (0,3,1,2,3) đều đúng, phương án sai đều sai, số liệu 18,9/66,9/20,9 khớp kho philpapers đóng băng. Lỗi nhẹ ở lời giải câu 5: thiếu \"trong các luận chứng được nêu tên\" (lựa chọn \"Khác\" 25,2% cao hơn)."
+}

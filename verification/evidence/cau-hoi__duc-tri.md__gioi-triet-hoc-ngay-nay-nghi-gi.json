@@ -1,0 +1,64 @@
+{
+  "unit": "cau-hoi/duc-tri.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:7dc8f014d7271871c6adc3843a6415aa1e0c64c981fbfb3518cb83bcd0c520d1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k06",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về Nho giáo, Pháp gia, đức trị hay pháp trị — không hỏi \"nên cai trị bằng đức hay bằng pháp\", cũng không hỏi về Khổng Tử, Mạnh Tử hay Hàn Phi.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "As in 2009, we did not include any questions drawn from non-Western and non-analytic traditions, as it proved too difficult to find questions from these traditions that met the familiarity and multiple-choice constraints.",
+          "where": "mục 2.2"
+        }
+      ]
+    },
+    {
+      "text": "(Câu gần nhất là câu bổ sung \"Luật pháp\" — thực chứng luận pháp lý hay không — nhưng câu ấy hỏi luật *là gì*, tức giá trị pháp lý của luật có phụ thuộc vào đạo đức hay không …)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/luat-phap"
+    },
+    {
+      "text": "Điều này phản ánh một thực tế: giới triết học chuyên nghiệp được khảo sát chủ yếu làm việc trong truyền thống phương Tây",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "we acknowledge an overall bias toward certain relatively traditional issues in the analytic and English-speaking canons.",
+          "where": "mục 2.2"
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "This allows broader information about views within the English-speaking philosophical community.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020, không có câu nào hỏi trực tiếp về nó.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Third: the list of questions was expanded from 30 questions to 100 questions, allowing information about a broader range of philosophical topics.",
+          "where": "mục 1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Bài báo Bourget & Chalmers 2023 (mở qua DOI trong phiên) ghi rõ không có câu hỏi nào từ các truyền thống ngoài phương Tây; tổng 100 câu; câu bổ sung \"Law\" (thực chứng luận pháp lý) có thật trong Bảng 2. Mục không suy đoán con số."
+}

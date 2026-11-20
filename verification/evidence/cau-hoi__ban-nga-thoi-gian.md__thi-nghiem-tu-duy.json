@@ -1,0 +1,52 @@
+{
+  "unit": "cau-hoi/ban-nga-thoi-gian.md#thi-nghiem-tu-duy",
+  "hash": "sha256:e386eabdb942f9a61e33a14d8fcc0bff6bfab30c51f903c47ee8e31ce0b318cc",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Một cỗ máy dịch chuyển (*teletransporter*) quét toàn bộ cơ thể bạn — từng nơ-ron, từng ký ức — rồi *hủy* cơ thể gốc. ... một cơ thể mới được dựng lại từ vật chất mới, với đầy đủ ký ức, tính cách, ý định của bạn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/person-i/",
+          "quote": "X enters a teletransporter, which, before destroying X, creates an exact blueprint of X’s physical and psychological states. The information is sent to a replicator device on Mars, which at t 2 creates a qualitatively identical duplicate, Y (cf. Parfit 1984).",
+          "where": "mục Criteria and the Identity Relation, ca Teletransportation"
+        }
+      ]
+    },
+    {
+      "text": "(Thí nghiệm của Derek Parfit, *Reasons and Persons*, 1984.)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/parfit.reasons-and-persons"
+    },
+    {
+      "text": "cỗ máy bị lỗi. Nó quét và dựng lại bản sao ở đầu bên kia, nhưng *không hủy* bản gốc. ... Cả hai không thể cùng là bạn — vì bản sắc là quan hệ một-một",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "A more serious worry for psychological-continuity views is that you could be psychologically continuous with two past or future people at once.",
+          "where": "mục 5 Fission"
+        },
+        {
+          "url": "https://iep.utm.edu/person-i/",
+          "quote": "a “closest continuer” clause and/or a “no-branching” proviso must complement a psychological continuity analysis (For a development of this case, see Nozick 1981; Parfit 1984; and Wiggins 1967)",
+          "where": "mục Fission"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Thí nghiệm kể đúng ca Teletransportation của Parfit (1984). Biến thể 'máy lỗi' không gắn tên tác giả; nó tương ứng với ca phân nhánh mà Parfit cũng bàn (IEP dẫn Parfit 1984)."
+}

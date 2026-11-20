@@ -1,0 +1,115 @@
+{
+  "unit": "cau-hoi/cai-dep.md#doc-van-ban-goc",
+  "hash": "sha256:92b0c082cf36e8a1cbe3a071dd91118401892114370a2292673b40dda6d05557",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k07",
+  "claims": [
+    {
+      "text": "\"Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/trich.david-hume-of-the-standard-of-taste-1757",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+          "where": "ST 7"
+        }
+      ]
+    },
+    {
+      "text": "trong bài, Hume đặt câu này vào lời của \"một loại triết học\" cho rằng không thể có chuẩn mực nào cho thị hiếu (\"người ta nói rằng…\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "There is a species of philosophy, which cuts off all hopes of success in such an attempt, and represents the impossibility of ever attaining any standard of taste. The difference, it is said, is very wide between judgment and sentiment.",
+          "where": "ST 7"
+        }
+      ]
+    },
+    {
+      "text": "\"are not qualities in objects, but belong entirely to the sentiment\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "are not qualities in objects, but belong entirely to the sentiment",
+          "where": "ST 16"
+        }
+      ]
+    },
+    {
+      "text": "ngay đoạn liền sau câu trích, ông bác bỏ kết luận \"mọi gu đều ngang nhau\" bằng ví dụ Ogilby và Milton.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "Whoever would assert an equality of genius and elegance between Ogilby and Milton",
+          "where": "ST 8"
+        }
+      ]
+    },
+    {
+      "text": "(\"To seek the real beauty, or real deformity, is as fruitless an enquiry, as to pretend to ascertain the real sweet or real bitter.\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "To seek the real beauty, or real deformity, is as fruitless an enquiry, as to pretend to ascertain the real sweet or real bitter.",
+          "where": "ST 7"
+        }
+      ]
+    },
+    {
+      "text": "\"Đi tìm cái đẹp *thật sự*, cũng như đi tìm cái ngọt *thật sự* hay cái đắng *thật sự*, là một cuộc tìm kiếm vô ích.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"Đi tìm cái đẹp *thật sự* hay cái xấu *thật sự* là một cuộc tìm kiếm vô ích, chẳng khác gì đòi xác định cái ngọt *thật sự* hay cái đắng *thật sự*.\"",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "To seek the real beauty, or real deformity, is as fruitless an enquiry",
+          "where": "ST 7"
+        }
+      ]
+    },
+    {
+      "text": "Cái đẹp không phải là một tính chất của sự vật tự thân: nó chỉ tồn tại trong tâm trí của người chiêm ngưỡng; và mỗi tâm trí cảm nhận một vẻ đẹp khác nhau. *(bản dịch của Logos)*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+          "where": "ST 7"
+        }
+      ]
+    },
+    {
+      "text": "Đoạn dưới đây trích bài \"Of the Standard of Taste\" của Hume (1757)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/",
+          "quote": "“Of the Standard of Taste” (1757)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Trích dẫn so từng chữ với davidhume.org (ST 7, ST 8, ST 16). Bản dịch câu trích chính đúng nghĩa. Bản dịch câu \"To seek the real beauty...\" bỏ mất \"or real deformity\" và đổi cấu trúc so sánh: lỗi nhẹ. Văn bản 1757 đã thuộc phạm vi công cộng. Câu hỏi dẫn dắt bám đoạn trích."
+}

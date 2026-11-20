@@ -1,0 +1,343 @@
+{
+  "unit": "cau-hoi/vu-tru-khoi-dau.md#cac-lap-truong-chinh",
+  "hash": "sha256:0a01b57e8de639e2acb627e06cfe98810db0caceb53cebfde0dc1489801392f5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k11",
+  "claims": [
+    {
+      "text": "vì vũ trụ là một *hiệu quả* có khởi đầu trong thời gian, nguyên nhân của nó phải là một tác nhân *chọn* tạo ra nó (chứ không phải một điều kiện vật lý vô tri, vì điều kiện vô tri đủ đầy đã sinh hiệu quả từ vô hạn quá khứ rồi)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Craig argues that if the cause were an eternal, nonpersonal, operating set of conditions, then the universe would exist from eternity. Since the universe has not existed from eternity, the cause must be a personal agent who chooses freely to create an effect in time."
+        }
+      ]
+    },
+    {
+      "text": "không thể hình thành một vô hạn *thực tế* bằng cách cộng dồn liên tiếp",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Even were an actual infinite possible, it could not be realized by successive addition",
+          "where": "§8.3"
+        }
+      ]
+    },
+    {
+      "text": "định lý Borde–Guth–Vilenkin (2003) cho rằng bất kỳ mô hình vũ trụ nào giãn nở trung bình theo thời gian đều không thể kéo dài vô hạn về quá khứ — truy ngược lại, ta chạm đến một biên.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/gr-qc/0110012",
+          "quote": "must be incomplete in null and timelike past directions"
+        },
+        {
+          "url": "https://arxiv.org/abs/gr-qc/0110012",
+          "quote": "Thus inflationary models require physics other than inflation to describe the past boundary of the inflating region of spacetime."
+        },
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "the average expansion rate in the past is greater than zero",
+          "where": "tr. 1"
+        }
+      ]
+    },
+    {
+      "text": "Vì sao không có con ngựa tự dưng hiện ra giữa phòng bạn ngay bây giờ?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "“No one sincerely believes that things, say, a horse or an Eskimo village, can just pop into being without a cause” (Craig and Sinclair 2009: 182).",
+          "where": "§8.1"
+        }
+      ]
+    },
+    {
+      "text": "đây là lỗi \"tổng hợp\": từ \"mọi *thứ trong* vũ trụ đều có nguyên nhân\" không suy ra được \"vũ trụ *của các thứ đó* có nguyên nhân\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "commits the Fallacy of Composition, which mistakenly concludes that since the parts have a certain property, the whole likewise has that property"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "it provides no evidence that causation applies to the totality of cases (the universe)",
+          "where": "§8.1"
+        }
+      ]
+    },
+    {
+      "text": "vật lý lượng tử dường như cho thấy có những sự kiện không có nguyên nhân quyết định",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "quantum-mechanical considerations show that the causal proposition is limited in its application",
+          "where": "§8.1"
+        }
+      ]
+    },
+    {
+      "text": "phân rã phóng xạ vẫn có nguyên nhân theo nghĩa rộng (hạt nhân không bền là điều kiện đủ cho khả năng phân rã; ngẫu nhiên ở đây là không dự đoán được, không phải không có nguyên nhân)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "phân rã phóng xạ vẫn có nguyên nhân theo nghĩa rộng (hạt nhân không bền là một điều kiện cần cho sự phân rã, dù không đủ để quyết định lúc nào nó phân rã; ngẫu nhiên ở đây là không dự đoán được, không phải không có nguyên nhân)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Even if one grants that the causal conditions are not jointly sufficient to determine the event, at least some necessary conditions are involved in the quantum event.",
+          "where": "§8.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Craig argues that a difference exists between predictability and causality.",
+          "where": "§8.1"
+        }
+      ]
+    },
+    {
+      "text": "Phiên bản cổ điển là thuyết trạng thái ổn định (*steady state*, Bondi, Gold và Hoyle, 1948): vũ trụ giãn nở nhưng vật chất mới liên tục sinh ra để mật độ trung bình không đổi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology-30s/",
+          "quote": "In 1948, a young mathematician, Herman Bondi, in concert with two close friends Thomas Gold and Fred Hoyle, proposed a radical new cosmological theory, the Steady State theory.",
+          "where": "§8"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1093/mnras/108.3.252",
+          "quote": "The Steady-State Theory of the Expanding Universe"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1093/mnras/108.5.372",
+          "quote": "A New Model for the Expanding Universe"
+        },
+        {
+          "url": "https://arxiv.org/abs/2302.10823",
+          "quote": "Einstein tried to develop a model where the universe expanded and where matter was supposed to be continuously created. This latter process was proposed by him to keep the matter density of the universe constant."
+        },
+        {
+          "url": "https://arxiv.org/abs/2302.10823",
+          "quote": "the steady-state model of the universe was proposed and championed in a series of influential papers around mid-twenty century by Fred Hoyle, Hermann Bondi, and Thomas Gold"
+        }
+      ]
+    },
+    {
+      "text": "trong vũ trụ học chu kỳ bảo giác của Roger Penrose (*Cycles of Time*, 2010) thì không có co lại: tương lai cực xa của mỗi kỷ, khi chỉ còn bức xạ, được đồng nhất về mặt hình học với Big Bang của kỷ sau.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/1011.3706",
+          "quote": "Conformal cyclic cosmology (CCC) posits the existence of an aeon preceding our Big Bang 'B', whose conformal infinity 'I' is identified, conformally, with 'B'"
+        },
+        {
+          "url": "https://accelconf.web.cern.ch/e06/PAPERS/THESPA01.PDF",
+          "quote": "so the remote future of one phase of the universe becomes the Big Bang of the next",
+          "where": "Penrose, EPAC 2006, THESPA01"
+        }
+      ]
+    },
+    {
+      "text": "*Cycles of Time*, 2010",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.penrose-roger-2010-cycles-of-time-an-extraordinary-new-view"
+    },
+    {
+      "text": "bức xạ nền vũ trụ (Penzias và Wilson, 1965) cho thấy vũ trụ từng nóng đặc — đúng như Big Bang dự đoán, sai như trạng thái ổn định dự đoán",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/148307",
+          "quote": "A Measurement of Excess Antenna Temperature at 4080 Mc"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology-30s/",
+          "quote": "In 1965, the fossils arrived, courtesy of the observations of the 3° K remnant microwave radiation. And Bondi, true to his philosophy, gave it up.",
+          "where": "§8.5"
+        }
+      ]
+    },
+    {
+      "text": "entropy (độ hỗn loạn) tăng theo thời gian, nên một vũ trụ đã trải qua vô hạn chu kỳ lẽ ra đã \"chết nhiệt\" từ lâu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "entropy would rise from cycle to cycle, so that even were a series of universe-oscillations possible, they would become progressively longer (Davies 1992: 52; Tolman 1934)",
+          "where": "§8.4"
+        }
+      ]
+    },
+    {
+      "text": "Và định lý Borde–Guth–Vilenkin, nếu đúng, thì chặn đứng mọi mô hình giãn nở trung bình — kể cả đa số mô hình chu kỳ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "In some versions of the cyclic model the brane space- times are everywhere expanding, so our theorem imme- diately implies the existence of a past boundary",
+          "where": "đoạn cuối, về mô hình chu kỳ"
+        }
+      ]
+    },
+    {
+      "text": "vẫn còn chỗ cho các mô hình không giãn nở trung bình (ví dụ vũ trụ co-giãn đối xứng hoàn hảo, hoặc các mô hình mà \"thời gian\" tự nó xuất hiện sau)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "in the full de Sitter space, expo- nential expansion is preceded by exponential contraction",
+          "where": "tr. 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "According to the emergent universe model, the universe existed in a quasi-static state for an infinite amount of time before gradually transitioning into an expansion.",
+          "where": "§8.4"
+        }
+      ]
+    },
+    {
+      "text": "Về entropy, Penrose đề xuất chính hình học bảo giác của ông là cơ chế \"đặt lại\" entropy giữa các chu kỳ — vấn đề còn mở",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://accelconf.web.cern.ch/e06/PAPERS/THESPA01.PDF",
+          "quote": "The issue arises from one of the most fundamental principles of physics: the Second Law of thermodynamics",
+          "where": "THE BASIC CONUNDRUM"
+        },
+        {
+          "url": "https://accelconf.web.cern.ch/e06/PAPERS/THESPA01.PDF",
+          "quote": "One of these is that black holes will all eventually evaporate away and disappear.",
+          "where": "PHYSICAL IMPLICATIONS"
+        },
+        {
+          "url": "https://accelconf.web.cern.ch/e06/PAPERS/THESPA01.PDF",
+          "quote": "The details of all this have yet to be worked out",
+          "where": "PHYSICAL IMPLICATIONS"
+        }
+      ]
+    },
+    {
+      "text": "mô hình lạm phát vĩnh cửu của Alexander Vilenkin và Andrei Linde, cùng các biến thể",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "are generically eternal to the future [4, 5]",
+          "where": "tr. 1"
+        },
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "[4] A. Vilenkin, Phys. Rev. D27, 2848 (1983)."
+        },
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "[5] A. Linde, Phys. Lett. B175, 395 (1986)."
+        }
+      ]
+    },
+    {
+      "text": "dù chính Guth và Vilenkin lưu ý rằng lạm phát vĩnh cửu về phía tương lai chưa chắc vĩnh cửu về phía quá khứ",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "dù chính Borde, Guth và Vilenkin (2003) chỉ ra rằng lạm phát vĩnh cửu về phía tương lai không thể tự nó kéo dài vô hạn về phía quá khứ: cần một thứ vật lý khác để mô tả biên quá khứ của vùng lạm phát",
+      "sources": [
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "it is natural to ask if the Universe could also be past-eternal.",
+          "where": "tr. 1"
+        },
+        {
+          "url": "https://arxiv.org/pdf/gr-qc/0110012v2",
+          "quote": "Here we argue that this is not the case.",
+          "where": "tr. 1"
+        },
+        {
+          "url": "https://arxiv.org/abs/gr-qc/0110012",
+          "quote": "Thus inflationary models require physics other than inflation to describe the past boundary of the inflating region of spacetime."
+        }
+      ]
+    },
+    {
+      "text": "các hằng số vật lý của vũ trụ ta được \"tinh chỉnh\" một cách đáng ngờ để sự sống có thể tồn tại — trong đa vũ trụ với đủ mọi hằng số, việc ta thấy mình ở một vũ trụ \"vừa vặn\" chẳng có gì lạ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology/",
+          "quote": "Suppose that all possible values of the fundamental constants are realized in individual elements of the ensemble. Many of these universes will be inhospitable to life.",
+          "where": "§4.3"
+        }
+      ]
+    },
+    {
+      "text": "đa vũ trụ là hệ quả của các mô hình vật lý (lạm phát vũ trụ), không phải một thực thể đặt ra riêng cho mục đích giải thích",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology/",
+          "quote": "the multiverse should be accepted for the same reason we accept many claims about what we cannot directly observe—namely, as an inevitable consequence of an established physical theory",
+          "where": "§4.3"
+        }
+      ]
+    },
+    {
+      "text": "đa vũ trụ hiện tại gần như không thể kiểm chứng trực tiếp — ta không bao giờ quan sát được các vũ trụ khác — nên nhiều nhà vật lý xem nó là siêu hình học đội lốt vật lý",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology/",
+          "quote": "And without such an account, the multiverse proposal does not have any testable consequences.",
+          "where": "§4.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmology/",
+          "quote": "It is not clear, however, that EI is inevitable",
+          "where": "§4.3"
+        }
+      ]
+    },
+    {
+      "text": "nhiều thực thể vật lý từng không quan sát được trước khi công nghệ bắt kịp (sóng hấp dẫn chẳng hạn)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1103/PhysRevLett.116.061102",
+          "quote": "Observation of Gravitational Waves from a Binary Black Hole Merger"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ba lập trường đủ ba nhãn; phản bác và cách đáp lại đều có trong SEP Cosmological Argument §8, SEP Cosmology §4.3, bài BGV. Hai lỗi nhẹ: (1) cách đáp của Craig về lượng tử viết \"điều kiện đủ\", SEP ghi Craig chỉ nói \"điều kiện cần\"; (2) BGV kết luận lạm phát không thể vĩnh cửu về quá khứ nếu chỉ dựa vào lạm phát, bài viết nhẹ thành \"chưa chắc\" (thân bài ở phản bác đã nêu vấn đề BGV nên người đọc không bị dẫn sai nhiều). Trích PDF (BGV, EPAC) lấy từ văn bản trích bằng pypdf, có dấu gạch nối xuống dòng của bản gốc."
+}

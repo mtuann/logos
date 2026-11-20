@@ -1,0 +1,136 @@
+{
+  "unit": "cau-hoi/tai-san-rieng.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:8e7d80834abd50d6dbd22deb9687ed7b4af5ed86ba86bf7b4547b31d11265218",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k03",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không hỏi thẳng \"quyền sở hữu tư nhân có chính đáng không\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Politics Capitalism 323 29.5 286 26.1 Socialism 580 53.0 532 48.6",
+          "where": "Bảng 2; đã rà cả 100 câu ở Bảng 1–2, không câu nào về quyền sở hữu"
+        }
+      ]
+    },
+    {
+      "text": "câu *chính* \"Triết học chính trị\" (hỏi tất cả người tham gia), trong đó \"chủ nghĩa tự do cá nhân\" là họ tư tưởng của Nozick",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "each participant was asked to answer a minimum of 50 questions (40 main questions and 10 additional questions)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/libertarianism/",
+          "quote": "who would then bring that very libertarianism into academic philosophy"
+        }
+      ]
+    },
+    {
+      "text": "câu *bổ sung* \"Chính trị – kinh tế\" (chỉ hỏi những người chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "câu *bổ sung* \"Chính trị – kinh tế\" (khoảng 300 người được hỏi ngẫu nhiên, phần còn lại là người tự chọn trả lời thêm)",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory 50 questions. Typically, another 800 respondents (45%) were presented with the question by answering additional questions"
+        }
+      ]
+    },
+    {
+      "text": "Bảng: Triết học chính trị (câu chính, n ≈ 1.540): bình đẳng 44,0 / 38,3; cộng đồng luận 27,3 / 22,1; tự do cá nhân 13,4 / 10,3; khác 20,5",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri"
+    },
+    {
+      "text": "Bảng: Chính trị – kinh tế (câu bổ sung, n ≈ 1.090): xã hội 53,0 / 48,6; tư bản 29,5 / 26,1; khác 19,3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/chinh-tri-kinh-te",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Politics Capitalism 323 29.5 286 26.1 Socialism 580 53.0 532 48.6 Other 211 19.3"
+        }
+      ]
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, câu chính \"Political philosophy\" và câu bổ sung \"Politics\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Political philosophy: libertarianism Politics: capitalism"
+        }
+      ]
+    },
+    {
+      "text": "mẫu chỉ gồm khoảng [[pp:chinh-tri-kinh-te/n]]–[[pp:triet-hoc-chinh-tri/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "with strongest coverage on English-speaking and English-publishing philosophers"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "In October 2020, we carried out a follow-up survey"
+        }
+      ]
+    },
+    {
+      "text": "Con số 13,4% cho thấy lập trường quyền sở hữu mạnh kiểu Nozick là thiểu số trong mẫu ... đa số trong một nghề không quyết định lập luận nào đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri"
+    },
+    {
+      "text": "lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc của các khóa học triết học chính trị",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Locke's theory is widely regarded as the most interesting of the canonical discussions of property."
+        }
+      ]
+    },
+    {
+      "text": "Rất ít triết gia đòi xóa bỏ hoàn toàn sở hữu cá nhân; cũng rất ít người bênh vực quyền sở hữu tuyệt đối không giới hạn.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ngay trong luật học, định nghĩa sở hữu tư nhân hiếm khi trao cho chủ sở hữu quyền kiểm soát tuyệt đối, và cả những người bênh vực sở hữu mạnh nhất như Nozick cũng chấp nhận một giới hạn kiểu Locke.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "It is probably a mistake therefore to insist on any definition of private property that implies a proprietor has absolute control over his resource."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "Nozick follows Locke in adopting a version of the claim"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Số liệu đúng câu khảo sát (shortcode lấy từ kho philpapers đã đóng băng; đã đối chiếu thêm Bảng 2 của bài báo). Câu \"Rất ít triết gia…\" là khái quát không có nguồn khảo sát; fix đề xuất dựa trên SEP."
+}

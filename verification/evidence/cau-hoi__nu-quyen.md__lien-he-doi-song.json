@@ -1,0 +1,68 @@
+{
+  "unit": "cau-hoi/nu-quyen.md#lien-he-doi-song",
+  "hash": "sha256:0279504e0e386b83587c874b8220f6431c40c40600452fca81e2d7d8db38c0e2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "GDP — thước đo thành công của một nền kinh tế — không tính công việc nhà không lương: nấu ăn, dọn dẹp, chăm con, chăm người già.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/2020-21/chapter-23-satellite-accounts/household-satellite-account-and-unpaid-work/unpaid-work",
+          "quote": "Production is defined in paragraph 6.27 as excluding the value of most unpaid work",
+          "where": "mục 23.172"
+        }
+      ]
+    },
+    {
+      "text": "Ở Việt Nam cũng như nhiều nước, phần lớn công việc này do phụ nữ gánh.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://tuoitre.vn/1-3-nu-gioi-o-viet-nam-khong-co-thoi-gian-giai-tri-trong-ngay-20230520101446874.htm",
+          "quote": "Thời gian chăm sóc gia đình không được trả lương của nữ giới cao gấp 3 lần nam giới",
+          "where": "nguồn yếu: báo Tuổi Trẻ 20/5/2023, đưa tin khảo sát sử dụng thời gian của Ngân hàng Thế giới phối hợp Tổng cục Thống kê"
+        }
+      ]
+    },
+    {
+      "text": "Ở Việt Nam, chăm sóc cha mẹ già chủ yếu do con cái — và trong thực tế, chủ yếu do con gái và con dâu — gánh vác, thường không lương và không được ghi nhận.",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "nâng giá trị của chăm sóc mà không thay đổi việc ai phải chăm sóc thì chỉ là tô đẹp cho bất công (phản bác của lập trường 3)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/care-eth/",
+          "quote": "To the extent that care ethics encourages care without further inquiring as to who is caring for whom"
+        }
+      ]
+    },
+    {
+      "text": "Hạn ngạch giới ... Lập trường 1-phiên-bản-thực-chất đáp: đó chính là biện pháp bù đắp để đạt bình đẳng thực chất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-liberal/",
+          "quote": "endorse measures like anti-discrimination law, affirmative action, and welfare state programs"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Chưa kiểm được claim con gái/con dâu: tìm thấy bài nghiên cứu tiếng Việt (vjol.info.vn/index.php/vienncptbvvung/article/view/133375/109558 — curl lỗi kết nối; jos.husc.edu.vn/UPLOADS/numbers/82/1181_fulltext_10._xhh_-_nguyen_huu_minh.pdf và journalofscience.ou.edu.vn/index.php/soci-vi/article/download/2168/1773/9338 — tải được PDF nhưng máy không có công cụ trích chữ PDF); vnexpress.net/gia-khong-diem-tua-4832077.html 404; nhandan.vn/post-904726.html không có ý này. Kết quả tìm kiếm cho thấy có nghiên cứu nói con gái tham gia chăm sóc nhiều hơn con trai, nhưng cũng có nghiên cứu (Nguyễn Hữu Minh, Trần Quý Long) cho thấy con trai trợ giúp thường xuyên hơn ở một số mặt, nên cần đọc nguyên bản. Câu \"anh em\", \"các ông\"… là quan sát ngôn ngữ minh họa, không ghi claim."
+}

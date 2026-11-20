@@ -1,0 +1,42 @@
+{
+  "unit": "cau-hoi/ai-nen-cai-tri.md#thi-nghiem-tu-duy",
+  "hash": "sha256:a883cbe01a8ad8bc8f33700e886d1ef5dd1c913509a11802505dcfb54af079df",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Thí nghiệm \"chuyến bay, cơ trưởng ngất xỉu, biểu quyết ai lái\" — biến thể tự chế của bài, trình bày như tình huống tưởng tượng, gắn với hình ảnh con tàu của Platon",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "Imagine then a fleet or a ship in which there is a captain who is taller and stronger than any of the crew",
+          "where": "Quyển VI"
+        }
+      ]
+    },
+    {
+      "text": "Trong lịch sử, mỗi lần ai đó được quyền định nghĩa \"hiểu biết\", định nghĩa ấy đều trùng hợp một cách kỳ lạ với lợi ích của chính họ.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Trong lịch sử, đã nhiều lần người được quyền định nghĩa \"hiểu biết\" định nghĩa nó sao cho trùng hợp một cách kỳ lạ với lợi ích của chính họ.",
+      "sources": [
+        {
+          "url": "https://www.justice.gov/crt/introduction-federal-voting-rights-laws",
+          "quote": "These laws were \"color-blind\" on their face, but were designed to exclude black citizens disproportionately by allowing white election officials to apply the procedures selectively."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tình huống máy bay là của bài, không gán cho tác giả nào; ý cốt lõi lấy từ hình ảnh con tàu (Cộng hòa VI). Câu \"mỗi lần ... đều\" khái quát quá nguồn: mức nhẹ, đặt trong phần gợi mở."
+}

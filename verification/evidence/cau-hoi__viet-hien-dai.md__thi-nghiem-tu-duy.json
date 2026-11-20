@@ -1,0 +1,75 @@
+{
+  "unit": "cau-hoi/viet-hien-dai.md#thi-nghiem-tu-duy",
+  "hash": "sha256:6d44135bd38ec206eb9dc3b54fc70570f5d3ac7c23d1c558104b2fb45540c1be",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k17",
+  "claims": [
+    {
+      "text": "Hãy tưởng tượng bạn là một trí thức Việt Nam năm 1930.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "events/viet-nam.viet-hien-dai.1930"
+    },
+    {
+      "text": "con bạn đi học trường Pháp và về nhà kể về Descartes (\"tôi tư duy, vậy tôi tồn tại\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/rene-descartes.luan-ve-phuong-phap"
+    },
+    {
+      "text": "[Khổng Tử](../triet-gia/khong-tu.md) (link nội bộ: nhãn khớp tên trang đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/khong-tu/",
+          "quote": "Khổng Tử"
+        }
+      ]
+    },
+    {
+      "text": "Ông đỗ Phó bảng (một học vị cao trong khoa cử) **[chắc chắn]**",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://jst-ud.vn/jst-ud/article/download/2401/2401/6534",
+          "quote": "Phó bảng (1901). Đặc biệt vào năm 1903, tại Huế, các ông",
+          "where": "Huỳnh Văn Tuyết, Tạp chí KH&CN ĐH Đà Nẵng: trong các khoa thi Hội 1901, 1903 \"chỉ có Phan Châu Trinh đỗ Phó bảng (1901)\""
+        }
+      ]
+    },
+    {
+      "text": "rồi mới quay sang phê phán khoa cử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://jst-ud.vn/jst-ud/article/download/2401/2401/6534",
+          "quote": "xin bỏ khoa cử và biến pháp nhưng không được người nào",
+          "where": "Huỳnh Văn Tuyết: Phan Châu Trinh vận động các cống sĩ dâng biểu xin bỏ khoa cử"
+        }
+      ]
+    },
+    {
+      "text": "chính những người hô hào \"đoạn tuyệt\" mạnh nhất — như Phan Châu Trinh — lại là những người thông thạo Nho học nhất … để phê phán truyền thống một cách có sức nặng, có khi phải hiểu nó từ bên trong trước đã",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://jst-ud.vn/jst-ud/article/download/2401/2401/6534",
+          "quote": "Phó bảng (1901). Đặc biệt vào năm 1903, tại Huế, các ông"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Thí nghiệm tư duy do bài tự dựng (\"Hãy tưởng tượng\"), không gán cho tác giả nào; hai phe trình bày cân bằng và có gợi \"cách thứ ba\" mà không kết luận thay người đọc. Nhãn [chắc chắn] cho học vị Phó bảng có nguồn học thuật nói thẳng."
+}

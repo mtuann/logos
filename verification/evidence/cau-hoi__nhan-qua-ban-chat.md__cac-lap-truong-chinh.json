@@ -1,0 +1,211 @@
+{
+  "unit": "cau-hoi/nhan-qua-ban-chat.md#cac-lap-truong-chinh",
+  "hash": "sha256:0ca4f5b913272a7203d4eb987bdce2f98d2ac7ef644a9c5c212a6f0eaf4bb4e0",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k10",
+  "claims": [
+    {
+      "text": "Trong *Khảo luận về bản tính con người* (*A Treatise of Human Nature*, 1739–1740)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.a-treatise-of-human-nature"
+    },
+    {
+      "text": "*Điều tra về trí năng con người* (*An Enquiry concerning Human Understanding*, 1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.an-enquiry-concerning-human-understanding"
+    },
+    {
+      "text": "Hume phân tích niềm tin nhân quả thành ba thành phần quan sát được: **kế tiếp** (nguyên nhân xảy ra trước kết quả), **tiếp xúc** (chúng kề nhau trong không-thời gian), và **nối tiếp thường xuyên** (cặp đôi này lặp đi lặp lại).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hume-cau/",
+          "quote": "(D1) An object precedent and contiguous to another, and where all the objects resembling the former are placed in like relations of precedency and contiguity to those objects that resemble the latter.",
+          "where": "T 1.3.14.31"
+        }
+      ]
+    },
+    {
+      "text": "Không có thành phần thứ tư nào gọi là \"quyền năng\" hay \"mối liên hệ tất yếu\" mà ta tri giác được.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "A multiple-instanced case offers no external impression of necessary connection, because repetition adds nothing new to the objects themselves."
+        }
+      ]
+    },
+    {
+      "text": "Cảm giác \"chắc chắn\", \"phải như vậy\" mà ta gắn với nhân quả — thực ra là cảm giác của *thói quen tâm lý*, bị ta nhầm thành tính chất của thế giới.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "due to the “great propensity” of the mind “to spread itself on external objects” (T 1.3.14.25)"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/9/6/6/9662/9662.txt",
+          "quote": "This connexion, therefore, which we _feel_ in the mind, this customary transition"
+        }
+      ]
+    },
+    {
+      "text": "### 1. Hume: nhân quả chỉ là nối tiếp thường xuyên và thói quen kỳ vọng",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Thêm vào cuối đoạn đầu của lập trường 1: \"(Đây là cách đọc Hume phổ biến; giới nghiên cứu Hume còn tranh luận liệu với ông nhân quả có *hoàn toàn* chỉ là nối tiếp thường xuyên hay không.)\"",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hume-cau/",
+          "quote": "Among Hume scholars it is a matter of debate how seriously Hume means us to take this conclusion and whether causation consists wholly in constant conjunction."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "“Old Humeans” have argued that Hume denies the possibility of any"
+        }
+      ]
+    },
+    {
+      "text": "các sự vật có **năng lực** (*powers*, *dispositions*) thật — lửa *có* năng lực đốt cháy, muối *có* năng lực tan trong nước",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dispositions/",
+          "quote": "Many terms have been used to describe what we mean by dispositions: ‘power’ (Locke’s term), ‘dunamis’ (Aristotle’s term)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dispositions/",
+          "quote": "the dispositionalist typically maintains what Hildebrand (2014) calls ‘Descriptive Non-Humeanism’"
+        }
+      ]
+    },
+    {
+      "text": "Nguy cơ là \"năng lực\" chỉ là cái tên đẹp đẽ cho \"nó thường làm vậy\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dispositions/",
+          "quote": "a philosopher might explain why opium puts people to sleep by mentioning the fact that it has a ‘dormitive virtue’"
+        }
+      ]
+    },
+    {
+      "text": "ta biết muối mới có năng lực tan *vì* ta biết cấu trúc phân tử của nó — năng lực được gắn với cấu trúc thật, có thể kiểm tra",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dispositions/",
+          "quote": "The causal basis for \\(x\\)’s disposition is something like \\(x\\)’s microstructural property that is or would be causally responsible for the manifestation of that disposition.",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "thuốc ức chế enzyme COX, giảm prostaglandin, hạ thân nhiệt",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=5284360&rettype=abstract&retmode=text",
+          "quote": "Inhibition of prostaglandin synthesis as a mechanism of action for aspirin-like drugs."
+        },
+        {
+          "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11876124&rettype=abstract&retmode=text",
+          "quote": "The drugs as paracetamol, nimesulide and ibuprofen lower the temperature by inhibiting the prostaglandin synthesis."
+        }
+      ]
+    },
+    {
+      "text": "Lập trường thứ ba (David Lewis, \"Causation\", *Journal of Philosophy*, 1973",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-2307-2025310"
+    },
+    {
+      "text": "thuyết *can thiệp*, *interventionism*, của James Woodward",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-mani/",
+          "quote": "(For related, but different, characterizations of direct causation along these lines, see Pearl 2009 and Woodward 2003.)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-mani/",
+          "quote": "This interventionist framework manages to avoid at least some of these difficulties"
+        }
+      ]
+    },
+    {
+      "text": "Lewis phải xây dựng cả một siêu hình học về \"thế giới có thể\" (*possible worlds*) để trả lời",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "Lewis famously espouses realism about possible worlds, according to which non-actual possible worlds are real concrete entities on a par with the actual world (Lewis 1986e)."
+        }
+      ]
+    },
+    {
+      "text": "*dự phòng* (*preemption*): hai sát thủ cùng nhắm vào nạn nhân, sát thủ thứ nhất bắn trước; nếu hắn không bắn, sát thủ thứ hai đã bắn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "A pulls her trigger and fires a shot that hits its mark, but B desists from firing when he sees A pull her trigger.",
+          "where": "§1.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "it is possible to have causation without causal dependence"
+        }
+      ]
+    },
+    {
+      "text": "Lewis sau này phát triển lý thuyết thành \"ảnh hưởng nhân quả\" (*causal influence*) để xử lý dự phòng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "Lewis’s dissatisfaction with his own attempts to deal with the problem of late preemption, as well as his theory’s inability to deal with ‘trumping preemption’ (Schaffer 2000a), led to the development of his 2000 theory."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "The central notion of the new theory is that of influence"
+        }
+      ]
+    },
+    {
+      "text": "đó là công cụ ngữ nghĩa, không nhất thiết phải tin chúng tồn tại như các vũ trụ song song",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "However, most contemporary philosophers"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả ba lập trường đủ ba nhãn. Ghi chú (không tính lỗi): định nghĩa Lewis 1973 thật ra dùng chuỗi phụ thuộc nhân quả (causation là quan hệ tổ tiên của causal dependence) để xử lý dự phòng sớm; bài đơn giản hóa nhưng không sai hướng. Phản hồi \"năng lực gắn với cấu trúc\" gần cách nói \"causal basis\" hơn là thuyết năng lực thuần (pure powers)."
+}

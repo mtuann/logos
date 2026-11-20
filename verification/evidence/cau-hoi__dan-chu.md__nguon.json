@@ -1,0 +1,88 @@
+{
+  "unit": "cau-hoi/dan-chu.md#nguon",
+  "hash": "sha256:de6d056f86ef3ea685dd35180ba37cef17fd4699090ee1aaf0404f6c018a98f3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Đoạn được dẫn: Platon, Cộng hòa, quyển VI (488a–489d).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=488a",
+          "quote": "Conceive this sort of thing happening either on many ships or on one: Picture a shipmaster",
+          "where": "488a"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=489c",
+          "quote": "you will make no mistake in likening our present political rulers to the sort of sailors we are just describing",
+          "where": "489c"
+        }
+      ]
+    },
+    {
+      "text": "Christiano, Thomas & Sameer Bajaj, \"Democracy\", SEP (fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.democracy"
+    },
+    {
+      "text": "Platon, The Republic, bản dịch Jowett, Project Gutenberg #1497",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1497"
+    },
+    {
+      "text": "Schumpeter, Joseph A. (1942), Capitalism, Socialism and Democracy, New York: Harper & Brothers.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.schumpeter-joseph-a-1942-capitalism-socialism-and-democracy"
+    },
+    {
+      "text": "Tocqueville, Alexis de (1835, 1840), De la démocratie en Amérique, Paris: Gosselin.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tocqueville-alexis-de-1835-1840-de-la-democratie-en-amerique"
+    },
+    {
+      "text": "Mill, John Stuart (1859), On Liberty, London: John W. Parker and Son, Project Gutenberg #34901",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
+    },
+    {
+      "text": "Habermas, Jürgen (1992), Faktizität und Geltung, Frankfurt: Suhrkamp (bản tiếng Anh Between Facts and Norms, 1996, MIT Press).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.habermas-jurgen-1992-faktizitat-und-geltung-frankfurt-suhrka"
+    },
+    {
+      "text": "Popper, Karl (1945), The Open Society and Its Enemies, London: Routledge.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.popper-karl-1945-the-open-society-and-its-enemies-london-rou"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, 2023.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Morreau, Michael, \"Arrow's Theorem\", SEP (về nghịch lý Condorcet 1785 và định lý Arrow 1951)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.arrows-theorem"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. URL SEP fall2026 (democracy, arrows-theorem) mở được trong phiên này; Gutenberg đọc qua mirror gutenberg.pglaf.org vì trang chính đang bảo trì."
+}

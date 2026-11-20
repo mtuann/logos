@@ -1,0 +1,94 @@
+{
+  "unit": "cau-hoi/tu-do-ngon-luan.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:eafde5952c0c585ca91971494a7748bb18aab2762cf1b5623e42136017e4dfc1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "Có ít nhất ba họ lý do: ... tìm ra sự thật ... sự tự trị ... điều kiện của dân chủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "2.1 Listener theories 2.2 Speaker theories 2.3 Democracy theories",
+          "where": "mục lục"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "J.S. Mill famously defends free speech instrumentally, appealing to its epistemic benefits in On Liberty",
+          "where": "mục 2.1"
+        }
+      ]
+    },
+    {
+      "text": "không có tự do ngôn luận thì không có bầu cử thật sự — xem bài về dân chủ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/",
+          "quote": "dân chủ còn đòi hỏi những điều kiện khác — quyền cơ bản của thiểu số, tự do ngôn luận, pháp quyền",
+          "where": "Câu hỏi thật sự là gì?"
+        }
+      ]
+    },
+    {
+      "text": "Ngay cả người bênh vực tự do ngôn luận nhiệt thành nhất cũng thừa nhận một số giới hạn: vu khống, lừa đảo, xúi giục bạo lực trực tiếp.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "Suppose the moral right (or principle) of free speech is limited, as most think",
+          "where": "mục 3.4"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/34901/pg34901.txt",
+          "quote": "even opinions lose their immunity, when the circumstances in which they are expressed are such as to constitute their expression a positive instigation to some mischievous act",
+          "where": "chương III"
+        }
+      ]
+    },
+    {
+      "text": "Câu trả lời nổi tiếng nhất là nguyên tắc gây hại (harm principle) của Mill: chỉ được hạn chế tự do của một người để ngăn anh ta gây hại cho người khác.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một câu trả lời kinh điển là **nguyên tắc gây hại** (*harm principle*) của Mill: chỉ được hạn chế tự do của một người để *ngăn anh ta gây hại cho người khác*.",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/34901/pg34901.txt",
+          "quote": "the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others",
+          "where": "chương I"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "he is carving out a partial qualification of the harm principle for speech",
+          "where": "mục 2.1"
+        }
+      ]
+    },
+    {
+      "text": "người quyết định xem bạn được nói gì nhiều nhất lại là các nền tảng tư nhân",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "do internet platforms have moral duties to respect the free speech of their users?",
+          "where": "mục 4"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Nội dung nguyên tắc gây hại đúng; chỉ \"nổi tiếng nhất\" là khái quát không nguồn (lỗi nhẹ). SEP còn lưu ý chương 2 của Mill là một ngoại lệ một phần của nguyên tắc gây hại cho lời nói."
+}

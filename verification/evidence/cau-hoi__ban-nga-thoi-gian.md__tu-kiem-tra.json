@@ -1,0 +1,96 @@
+{
+  "unit": "cau-hoi/ban-nga-thoi-gian.md#tu-kiem-tra",
+  "hash": "sha256:f06f4cfb012c4d5d12ef646d1315520d3e29388c271f5b86940c8c9f95191952",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Câu 1: Theo Locke ... đáp án: 'Ký ức: ý thức của bạn mở rộng về quá khứ, tới những trải nghiệm của đứa trẻ đó, bằng ký ức'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/0/6/1/10615/10615-0.txt",
+          "quote": "as far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person",
+          "where": "Quyển II, chương XXVII; ba phương án sai (cơ thể, cái tên, linh hồn) đúng là sai với Locke"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: máy dịch chuyển lỗi ... 'liên tục tâm lý không đủ cho bản sắc'; giải thích: Parfit đáp bằng cách nói bản sắc không quan trọng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/person-i/",
+          "quote": "Others have acknowledged, as a consequence of fission scenarios, that psychological continuity is not sufficient for personal identity.",
+          "where": "mục Fission"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Parfit (1971, 1984: 215, 1995) and Martin (1998) argue against.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: animalism nói người bước ra 'không phải bạn — bạn đã chết khi cơ thể gốc bị hủy'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "So most animalists accept a brute-physical account of our persistence.",
+          "where": "mục 7"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: phân biệt 'bản sắc' với 'mối quan tâm' để đáp phản bác rằng tiêu chí sinh học bỏ qua điều ta quan tâm nhất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Psychological-continuity views are often said to be superior to brute-physical views in accounting for what matters in survival.",
+          "where": "mục 5; khớp phần Cách đáp lại của lập trường 2 trong bài"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: đáp án 'Bản sắc cá nhân: tâm lý 43,7% / sinh học 19,1% / sự kiện bổ sung 14,9%; Máy dịch chuyển: sống sót 35,2% / chết 40,1%'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-sac-ca-nhan"
+    },
+    {
+      "text": "Câu 5: số máy dịch chuyển 35,2% / 40,1%; các phương án sai dùng số của câu khác (66,9/18,9; 54,2/27,5; 51,9/32,1; 62,4/29,8)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
+    },
+    {
+      "text": "giải thích câu 5: \"— một trong những câu hỏi chia rẽ nhất của khảo sát.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "— một câu hỏi mà giới triết học chia rẽ rõ rệt.",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Teletransporter (new matter): survival or death? Accept or lean towards: survival 35.24% (34.79%) Accept or lean towards: death 40.06% (39.68%)",
+          "where": "không có nguồn xếp hạng mức chia rẽ"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Năm câu: đáp án đúng, phương án sai đều sai, lời giải khớp bài. data-id meta-c6 giữ nguyên."
+}

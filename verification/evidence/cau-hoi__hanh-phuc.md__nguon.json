@@ -1,0 +1,96 @@
+{
+  "unit": "cau-hoi/hanh-phuc.md#nguon",
+  "hash": "sha256:8ab5de0c774f42be6844a33ec4fe01165387517ba9c395c0cee5a61cc9469a2d",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k14",
+  "claims": [
+    {
+      "text": "Haybron, Dan, \"Happiness\", Stanford Encyclopedia of Philosophy. <.../archives/fall2026/entries/happiness/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.happiness",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/happiness/",
+          "quote": "Copyright © 2020 by Dan Haybron"
+        }
+      ]
+    },
+    {
+      "text": "Crisp, Roger, “Well-Being”, Stanford Encyclopedia of Philosophy. <.../archives/fall2026/entries/well-being/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.well-being",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "Copyright © 2026 by Roger Crisp"
+        }
+      ]
+    },
+    {
+      "text": "Nozick, Robert (1974), Anarchy, State, and Utopia, New York: Basic Books.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nozick-robert-1974-anarchy-state-and-utopia-new-york-basic-b"
+    },
+    {
+      "text": "Parfit, Derek (1984), Reasons and Persons, Oxford: Oxford University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.parfit-derek-1984-reasons-and-persons-oxford-oxford-universi"
+    },
+    {
+      "text": "Epicurus, Thư gửi Menoeceus (... được Diogenes Laertius chép lại trong Quyển X của Lives of Eminent Philosophers).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.epicurus-thu-gui-menoeceus-cuoi-the-ky-4-dau-the-ky-3-tcn-ph",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "the Letter to Menoeceus offers a précis of Epicurean ethics"
+        }
+      ]
+    },
+    {
+      "text": "Mill, John Stuart (1863), Utilitarianism (... Fraser's Magazine năm 1861, in thành sách năm 1863). ... (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.11224",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/2/2/11224/11224-0.txt",
+          "quote": "UTILITARIANISM BY JOHN STUART MILL REPRINTED FROM 'FRASER'S MAGAZINE' SEVENTH EDITION LONDON LONGMANS, GREEN, AND CO. 1879",
+          "where": "bản mirror gutenberg.pglaf.org vì gutenberg.org đang bảo trì"
+        }
+      ]
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Các phần được dẫn: ... mục SEP \"Well-Being\" về cách chia ba họ lý thuyết của Parfit.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "(Parfit 1984: app. I)",
+          "where": "mục 4.3"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi dòng trùng bản ghi sources/* đóng băng. gutenberg.org báo bảo trì; đối chiếu bìa bản in 1879 qua mirror."
+}

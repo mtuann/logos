@@ -1,0 +1,53 @@
+{
+  "unit": "cau-hoi/cai-dep.md#nguon",
+  "hash": "sha256:8de2758b17073f38bb01d68d22593dc02e35c0c10508ca2e3486541c1ef83196",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k07",
+  "claims": [
+    {
+      "text": "Gracyk, Theodore, \"Hume's Aesthetics\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.hume-aesthetics"
+    },
+    {
+      "text": "Ginsborg, Hannah, \"Kant's Aesthetics and Teleology\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-aesthetics/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.kant-aesthetics"
+    },
+    {
+      "text": "Hume, David (1757), \"Of the Standard of Taste\", trong *Four Dissertations*. Văn bản phạm vi công cộng. <https://davidhume.org/texts/empl1/st>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.davidhume-org.texts-empl1-st"
+    },
+    {
+      "text": "Kant, Immanuel (1790), *Kritik der Urteilskraft* (*Phê phán năng lực phán đoán*); bản dịch tiếng Anh của J. H. Bernard (phạm vi công cộng), §16 về cái đẹp tự do và cái đẹp phụ thuộc. <https://www.gutenberg.org/ebooks/48433>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.48433"
+    },
+    {
+      "text": "Shelley, James, \"The Concept of the Aesthetic\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/aesthetic-concept/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.aesthetic-concept"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Sáu dòng nguồn trùng nguyên văn các bản ghi sources/* đã đóng băng. Trong phiên đã mở lại được 4 bản lưu SEP fall2026, davidhume.org, bản Gutenberg 48433 (qua mirror gutenberg.pglaf.org vì gutenberg.org đang bảo trì)."
+}

@@ -1,0 +1,76 @@
+{
+  "unit": "cau-hoi/thoi-gian.md#nguon",
+  "hash": "sha256:5f9cb6fc8c74896ed335b2f96fad0c61fe82c1183db81ca677b1ca28b6af836e",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k11",
+  "claims": [
+    {
+      "text": "Đoạn được dẫn: Augustine, *Confessions*, Quyển XI.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/augustine.confessions"
+    },
+    {
+      "text": "McTaggart, J. M. E. (1908), \"The Unreality of Time\", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.mctaggart-j-m-e-1908-the-unreality-of-time-mind-17-457474-va"
+    },
+    {
+      "text": "Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.3296"
+    },
+    {
+      "text": "Emery, Nina, Ned Markosian & Meghan Sullivan, \"Time\", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/archives/fall2026/entries/time/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.time"
+    },
+    {
+      "text": "Ingram, David & Jonathan Tallant, \"Presentism\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.presentism"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Gustavsson, Kent, \"Charlie Dunbar Broad\", *Stanford Encyclopedia of Philosophy* (về thuyết khối đang lớn). <https://plato.stanford.edu/archives/fall2026/entries/broad/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.broad"
+    },
+    {
+      "text": "Gustavsson, Kent, \"Charlie Dunbar Broad\", *Stanford Encyclopedia of Philosophy* (về thuyết khối đang lớn). <https://plato.stanford.edu/archives/fall2026/entries/broad/>",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Gustavsson, Kent, \"Charlie Dunbar Broad\", *Stanford Encyclopedia of Philosophy* (về thuyết khối đang lớn). <https://plato.stanford.edu/archives/fall2026/entries/broad/>\n7. Dowden, Bradley, \"Time\", *Internet Encyclopedia of Philosophy* (về thuyết khối đang lớn và câu đố \"một giây mỗi giây\"). <https://iep.utm.edu/time/>",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "C. D. Broad first conceived of the theory in 1923."
+        },
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Author Information Bradley Dowden"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. Lỗi nhẹ: bài dùng IEP *Time* (Dowden) làm căn cứ (Broad 1923 là người đầu tiên; câu đố tốc độ trôi) nhưng mục Nguồn chưa liệt kê; fix thêm dòng 7. Trang Wikisource ghi số trang 456-473 cho bài McTaggart, khác 457–474 trong kho; bản ghi kho đã đóng băng nên không ghi sai."
+}

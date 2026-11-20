@@ -1,0 +1,187 @@
+{
+  "unit": "cau-hoi/truc-lam.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:c2e7b10f9b8c851d961d2bb41af27572446700a2ae630a5356d48a43f07e6c22",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k15",
+  "claims": [
+    {
+      "text": "Trong Phật giáo truyền thống, có một hình ảnh quen thuộc: người tu hành *xuất thế* — rời bỏ gia đình, của cải, địa vị, vào chùa hoặc rừng sâu để chuyên tâm tu tập **[chắc chắn]** (đây là mô hình tu hành nguyên thủy của đạo Phật).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "The story is that in early adulthood he abandoned his comfortable life as a householder (as well as his wife and young son) in order to seek a solution to the problem of existential suffering.",
+          "where": "SEP Buddha, mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "those intended for an audience of monastic renunciates already versed in his teachings",
+          "where": "SEP Buddha"
+        }
+      ]
+    },
+    {
+      "text": "Trần Nhân Tông đặt ra một câu hỏi ngược lại: nếu **Phật tính** (*Buddha-nature*, khả năng giác ngộ có sẵn trong tâm mỗi người) thì vì sao phải đi đâu để tìm?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Trần Nhân Tông đặt ra một câu hỏi ngược lại: nếu **Phật tính** (*Buddha-nature*, khả năng giác ngộ) có sẵn trong tâm mỗi người thì vì sao phải đi đâu để tìm?",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/%C4%90%E1%BB%87_ng%C5%A9_h%E1%BB%99i",
+          "quote": "Bụt ở cong nhà; Chẳng phải tìm xa. Nhân khuây bản nên ta tìm bụt; Đến cốc hay chỉn bụt là ta.",
+          "where": "Cư trần lạc đạo phú, hội 5 — nội dung đúng; lỗi chỉ là câu thiếu vị ngữ ('có sẵn trong tâm' nằm trong ngoặc)"
+        }
+      ]
+    },
+    {
+      "text": "Ông viết bốn câu kệ nổi tiếng, mà đến nay nhiều người Việt vẫn thuộc hai câu đầu, theo một bản dịch thơ quen thuộc (lưu truyền với vài dị bản, chưa rõ người dịch) **[suy đoán]** (nhận xét của người viết, chưa có khảo sát):",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Cư trần lạc đạo thả tùy duyên, Cơ tắc xan hề khốn tắc miên.",
+          "where": "Wikisource, Kệ vân; nhãn suy đoán khớp việc chưa có khảo sát"
+        }
+      ]
+    },
+    {
+      "text": "Bốn câu đầy đủ (Hán văn: *Cư trần lạc đạo thả tùy duyên / Cơ tắc xan hề khốn tắc miên / Gia trung hữu bảo hưu tầm mịch / Đối cảnh vô tâm mạc vấn thiền*) kết thúc bài phú \"Cư trần lạc đạo\" của ông **[chắc chắn]** (văn bản còn trong *Thơ văn Lý–Trần*, Viện Văn học).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/tran-nhan-tong.cu-tran-lac-dao-phu",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Cư trần lạc đạo phú/Kệ vân",
+          "where": "Wikisource: bài kệ là phần cuối, sau Đệ thập hội; Wikisource chép 對鏡 'đối kính' — một dị bản của 對境 'đối cảnh'"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Gia trung hữu bảo hưu tầm mịch,"
+        }
+      ]
+    },
+    {
+      "text": "\"Vô tâm\" không phải là vô cảm, lạnh lùng, không quan tâm **[có cơ sở]** (đây là cách hiểu thống nhất trong các chú giải Phật giáo).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"Vô tâm\" không phải là vô cảm, lạnh lùng, không quan tâm **[có cơ sở]** (đây là cách hiểu phổ biến trong truyền thống Thiền).",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddhism-chan/",
+          "quote": "Huangbo Xiyun (d. 850) describes this as demonstrating no-“mind” ( wuxin , 無心) or freedom from conceptual impositions that would define or limit reality. But this is not a lapse into mental blankness or indiscriminate presence.",
+          "where": "SEP Chan Buddhism, mục 3 — nội dung đúng; nhưng 'thống nhất trong các chú giải' là khái quát không có nguồn"
+        }
+      ]
+    },
+    {
+      "text": "Người \"vô tâm\" vẫn thương người, vẫn lo việc nước — nhưng thương mà không chiếm hữu, lo mà không khổ não vì lo **[suy đoán]** (diễn giải triết học từ ngữ; các thiền sư có thể diễn đạt khác nhau).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddhism-chan/",
+          "quote": "But this is not a lapse into mental blankness or indiscriminate presence.",
+          "where": "nhãn suy đoán phù hợp"
+        }
+      ]
+    },
+    {
+      "text": "\"Cư trần lạc đạo\" nghĩa đen là: sống giữa bụi trần mà vui với đạo **[chắc chắn]**.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "terms/cu-tran-lac-dao",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/C%C6%B0_tr%E1%BA%A7n_l%E1%BA%A1c_%C4%91%E1%BA%A1o_ph%C3%BA/K%E1%BB%87_v%C3%A2n",
+          "quote": "Sống giữa phàm trần, hãy tùy duyên mà vui với đạo"
+        }
+      ]
+    },
+    {
+      "text": "Thế kỷ 13, Đại Việt ba lần đối mặt với quân Nguyên-Mông (1258, 1285 và 1287–1288) — đội quân từng chinh phục từ Trung Hoa đến tận Đông Âu **[chắc chắn]**.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/viet-nam.truc-lam.1258"
+    },
+    {
+      "text": "Trần Nhân Tông, sinh đúng năm cuộc xâm lược đầu tiên, là người lãnh đạo tối cao của hai cuộc kháng chiến sau **[chắc chắn]**, cùng với Thượng hoàng Trần Thánh Tông và Hưng Đạo Vương Trần Quốc Tuấn.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Trần Nhân Tông, sinh đúng năm cuộc xâm lược đầu tiên, là vị vua đang trị vì và cùng lãnh đạo hai cuộc kháng chiến sau **[chắc chắn]**, với Thượng hoàng Trần Thánh Tông và Hưng Đạo Vương Trần Quốc Tuấn.",
+      "kb": "ho-so/tran-nhan-tong",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/tran-nhan-tong/",
+          "quote": "cùng cha (khi ấy là Thượng hoàng) với Hưng Đạo Vương Trần Quốc Tuấn lãnh đạo hai cuộc kháng chiến năm 1285 và 1287–1288",
+          "where": "hồ sơ Trần Nhân Tông (đã đóng băng): ba người cùng lãnh đạo; 'tối cao' mâu thuẫn với việc Thượng hoàng còn nắm quyền"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi của Trần Nhân Tông — tu ngay giữa bụi trần có được không? — trước hết là câu hỏi của một con người cụ thể trong một hoàn cảnh cụ thể, rồi mới thành một tư tưởng **[suy đoán]** (diễn giải về động cơ; văn bản không nói trực tiếp vì sao ông chọn nhập thế).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%85%AD",
+          "quote": "上皇自天長府復出家，入安子山苦行",
+          "where": "sử không ghi động cơ; nhãn suy đoán phù hợp"
+        }
+      ]
+    },
+    {
+      "text": "Sau ông, thiền phái được hai vị tổ tiếp theo là Pháp Loa (1284–1330) và Huyền Quang (1254–1334) kế tục và phát triển **[chắc chắn]**",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://b.vjst.vn/index.php/ban_b/article/download/1235/1097/4455",
+          "quote": "Tam Tổ Trúc Lâm: Sơ tổ Trần Nhân Tông (1258-1308), Nhị tổ Pháp Loa (1284-1330), Tam tổ Huyền Quang (1254-1334)",
+          "where": "Đặng Thị Đông (2022), Bản B Tạp chí KH&CN Việt Nam 64(4): 60–64, mục 1"
+        },
+        {
+          "url": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/835/826",
+          "quote": "Huyền Quang (1254-1334) là một thiền sư đắc đạo, vị Tổ thứ ba của Thiền phái Trúc Lâm Yên T ử",
+          "where": "Nguyễn Công Lý, Tạp chí Khoa học ĐHSP TPHCM, tóm tắt"
+        },
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E8%B6%8A%E5%8F%B2%E8%A8%98%E5%85%A8%E6%9B%B8/%E6%9C%AC%E7%B4%80%E5%8D%B7%E4%B9%8B%E5%85%AD",
+          "quote": "嘱侍者法螺以後事",
+          "where": "Bản kỷ quyển 6, năm 1308"
+        }
+      ]
+    },
+    {
+      "text": "trở thành dòng thiền có tổ chức với tăng đoàn, giới luật và cơ sở trên khắp Đại Việt **[có cơ sở]**",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://science.thanglong.edu.vn/index.php/vola/article/download/150/87/328",
+          "quote": "lần đầu tiên trong lịch sử, Phật giáo Việt Nam được thống nhất từ Trung ương đến địa phương",
+          "where": "Đặng Thị Đông, Tạp chí Khoa học Thăng Long A6(11): 73–82, 2024"
+        },
+        {
+          "url": "https://b.vjst.vn/index.php/ban_b/article/download/1235/1097/4455",
+          "quote": "Trong thời Pháp Loa, Phật giáo Việt Nam phát triển thêm một bước mới, tương đối có hệ thống và quy củ",
+          "where": "mục 3.2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Chỉ có lỗi nhẹ (câu thiếu vị ngữ; \"thống nhất\" là khái quát; \"tối cao\"). Nguyên văn bài kệ trùng bản ghi quotes đã đóng băng; Wikisource (Kệ vân) chép dị bản 饑/宝/對鏡, bài theo 飢/寶/對境 như bản ghi kho. Ngày của Pháp Loa, Huyền Quang chỉ có nguồn tạp chí Việt Nam (gốc là Tam tổ thực lục); bài trên vjol.info.vn không mở được bằng curl."
+}

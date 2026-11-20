@@ -1,0 +1,133 @@
+{
+  "unit": "cau-hoi/y-nghia-song.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:498446ebe4238f4204c70bafa8b74615de4f4f4366d8e83cf071ba927618d26f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k13",
+  "claims": [
+    {
+      "text": "Bảng số liệu \"Ý nghĩa cuộc sống\" (câu chính): Chủ quan, Khách quan, Không tồn tại, Khác, n ≈",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/y-nghia-cuoc-song"
+    },
+    {
+      "text": "Khảo sát PhilPapers 2020 có một câu hỏi chính (hỏi mọi người tham gia) ... Bảng 1. Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 1: Main questions: respondents who accept or lean toward each answer."
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Meaning of life Subjective 570 33.0 489 28.3 Objective 553 32.1 476 27.6 Nonexistent 278 16.1 257 14.9 Other 407 23.6",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "Chủ quan (33,0%) và khách quan (32,1%) gần như ngang nhau; khoảng một phần sáu (16,1%) ...; gần một phần tư thuộc nhóm \"khác\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/y-nghia-cuoc-song",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Meaning of life Subjective 570 33.0 489 28.3 Objective 553 32.1 476 27.6 Nonexistent 278 16.1 257 14.9 Other 407 23.6",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "mục \"The Meaning of Life\" của *Stanford Encyclopedia of Philosophy* xếp nó [quan điểm lai của Wolf] vào phe khách quan luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/",
+          "quote": "3.2 Objectivism Objective naturalists believe that mean",
+          "where": "mục 3.2"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/",
+          "quote": "Quite influential has been Susan Wolf’s “hybrid” view, captured by this pithy slogan: “Meaning arises when subjective attraction meets objective attractiveness”",
+          "where": "mục 3.2 Objectivism"
+        }
+      ]
+    },
+    {
+      "text": "bài báo về khảo sát cũng ghi nhận người hữu thần nghiêng rõ về \"khách quan\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "God: theism Meaning of life: objective 0.5 1311",
+          "where": "bảng tương quan"
+        }
+      ]
+    },
+    {
+      "text": "Mẫu khảo sát là khoảng [n] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "In October 2020, we carried out a follow-up survey: the 2020 PhilPapers Survey."
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "strongest coverage on English-speaking and English-publishing philosophers"
+        }
+      ]
+    },
+    {
+      "text": "từ bài báo kinh điển của Nagel (1971), qua công trình của Wolf (2010) ... mà vẫn chưa có lý thuyết nào được đa số chấp nhận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/",
+          "quote": "There is as yet no convergence in the field on one, or even a small cluster, of these accounts.",
+          "where": "mục 3.2"
+        },
+        {
+          "url": "https://iep.utm.edu/mean-ear/",
+          "quote": "followed shortly by Thomas Nagel’s important 1971 essay on “The Absurd.”"
+        }
+      ]
+    },
+    {
+      "text": "hầu hết các triết gia đương đại, dù thuộc phe nào, đều đồng ý rằng câu hỏi \"cuộc sống có ý nghĩa không?\" là một câu hỏi *đáng hỏi* — chứ không phải một câu hỏi sai, như một số triết gia đầu thế kỷ 20 từng nghĩ",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một điểm đáng chú ý: từ giữa thế kỷ 20, giới triết học phân tích viết ngày càng nhiều về câu hỏi này, coi nó là một câu hỏi *đáng hỏi* — trái với một số triết gia đầu và giữa thế kỷ 20 như A. J. Ayer, người cho rằng câu hỏi về ý nghĩa cuộc sống tự nó vô nghĩa.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/mean-ear/",
+          "quote": "A. J. Ayer asserted that the question of the meaning of life is itself meaningless."
+        },
+        {
+          "url": "https://iep.utm.edu/mean-ear/",
+          "quote": "a veritable feast of philosophical writing on the meaning of life that began in the 1950s"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/life-meaning/",
+          "quote": "Subjectivism was dominant in the middle of the twentieth century, when positivism, noncognitivism, existentialism, and Humeanism were influential (Ayer 1947;"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Diễn đạt số liệu khớp bảng 1 của Bourget & Chalmers và kho philpapers/y-nghia-cuoc-song (đóng băng). Câu \"hầu hết các triết gia đương đại... đều đồng ý\" là khái quát không có nguồn trực tiếp; nguồn chỉ cho thấy lĩnh vực nở rộ từ thập niên 1950 và Ayer coi câu hỏi là vô nghĩa."
+}

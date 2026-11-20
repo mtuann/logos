@@ -1,0 +1,73 @@
+{
+  "unit": "cau-hoi/tinh-yeu.md#nguon",
+  "hash": "sha256:6017797bfd853349cdbf10aacb2ebdefcd4e9333cd36fb43a914b7d2bcaf9136",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k14",
+  "claims": [
+    {
+      "text": "Helm, Bennett, \"Love\", Stanford Encyclopedia of Philosophy. <.../archives/fall2026/entries/love/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.love",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "Copyright © 2021 by Bennett Helm"
+        }
+      ]
+    },
+    {
+      "text": "Platon, Symposium ...; bản dịch tiếng Anh của Benjamin Jowett (phạm vi công cộng). <https://www.gutenberg.org/ebooks/1600>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1600",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/0/1600/1600.txt",
+          "quote": "Translator: B. Jowett Posting Date: November 7, 2008 [EBook #1600]",
+          "where": "mirror gutenberg.pglaf.org vì gutenberg.org đang bảo trì"
+        }
+      ]
+    },
+    {
+      "text": "Frankfurt, Harry G. (2004), The Reasons of Love, Princeton: Princeton University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.frankfurt-harry-g-2004-the-reasons-of-love-princeton-princet"
+    },
+    {
+      "text": "Velleman, J. David (1999), \"Love as a Moral Emotion\", Ethics 109(2): 338–374. <https://doi.org/10.1086/233898>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/233898",
+          "quote": "\"page\":\"338-374\""
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1086/233898",
+          "quote": "\"volume\":\"109\""
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1086/233898",
+          "quote": "\"container-title\":[\"Ethics\"]"
+        }
+      ]
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Velleman: Crossref ghi issue \"2\", tháng 1/1999. Nguồn này chưa có bản ghi trong data/kb/sources.yml."
+}

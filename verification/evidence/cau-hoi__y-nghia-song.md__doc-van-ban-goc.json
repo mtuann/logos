@@ -1,0 +1,59 @@
+{
+  "unit": "cau-hoi/y-nghia-song.md#doc-van-ban-goc",
+  "hash": "sha256:f676a9ee75404091ed90e839633cdd9ffccc22f4ba15092a3ba78a2697d438da",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k13",
+  "claims": [
+    {
+      "text": "các văn bản trung tâm của bài này — Nagel (1971), Wolf (2010) — đều còn bản quyền, nên bài này không trích dài",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://personal.lse.ac.uk/ROBERT49/teaching/ph103/pdf/WolfSusanne_2010_Meaning-in-Life-and-Why-It-Matters.pdf",
+          "quote": "Copyright © 2010 by Princeton University Press"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2024942",
+          "quote": "\"published-print\":{\"date-parts\":[[1971,10,21]]}"
+        }
+      ]
+    },
+    {
+      "text": "cuốn *Meaning in Life and Why It Matters* của Wolf (Princeton University Press, 2010)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.wolf-susan-2010-meaning-in-life-and-why-it-matters-princeton"
+    },
+    {
+      "text": "Mục \"The Meaning of Life\" trong *Stanford Encyclopedia of Philosophy* (Metz) tổng hợp đầy đủ các lập trường",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.life-meaning"
+    },
+    {
+      "text": "Đọc thêm: [hướng dẫn đọc Sartre, *Thuyết hiện sinh là một thuyết nhân bản*](../doc/sartre-hien-sinh.md): hiện hữu đi trước bản chất, nên không có kịch bản viết sẵn cho đời người.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/sartre-hien-sinh/",
+          "quote": "Hướng dẫn đọc Sartre: Thuyết hiện sinh là một thuyết nhân bản"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/sartre-hien-sinh/",
+          "quote": "1. Hiện hữu đi trước bản chất (phần định nghĩa)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục không trích nguyên văn (văn bản còn bản quyền), chỉ giới thiệu. Link Sartre mở trên site đã deploy, nhãn khớp tên trang."
+}

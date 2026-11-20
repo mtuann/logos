@@ -1,0 +1,95 @@
+{
+  "unit": "cau-hoi/chien-tranh-chinh-dang.md#tu-kiem-tra",
+  "hash": "sha256:184b9730e5fba56bda1f2579cf310c6503d4fbb62d8e6bc3f1e5507121c3b722",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k04",
+  "claims": [
+    {
+      "text": "Câu 1: khác biệt jus ad bellum / jus in bello — đáp án 2",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "The jus in bello denotes the permissibility of particular actions that compose the war, short of the war as a whole."
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: B ném bom khu dân cư — vi phạm nguyên tắc phân biệt (đáp án 0); 'thẩm quyền hợp pháp', 'biện pháp cuối cùng' là tiêu chí jus ad bellum nên sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Discrimination: belligerents must always distinguish between military objectives and civilians, and intentionally attack only military objectives."
+        }
+      ]
+    },
+    {
+      "text": "Câu 3, đáp án 3: \"Lính của cả hai phía … đều có quyền giết nhau trên chiến trường, miễn là tuân thủ luật chiến tranh, vì lính thường chỉ là công cụ không chịu trách nhiệm về quyết định bắt đầu chiến tranh\"; lời giải: \"Walzer cho rằng trách nhiệm về jus ad bellum thuộc về chính phủ, còn lính chỉ chịu trách nhiệm về jus in bello.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Đáp án 3: \"Lính của cả hai phía — kể cả phe xâm lược bất chính — đều có quyền giết nhau trên chiến trường, miễn là tuân thủ luật chiến tranh, vì chỉ cần tham chiến, mọi người lính đều đã mất quyền không bị tấn công, bất kể họ đánh cho phe nào\". Lời giải: \"Theo Walzer, bằng việc cầm vũ khí, người lính đã trở thành 'người nguy hiểm' đối với phía bên kia nên mất quyền không bị tấn công; dân thường thì không. Hệ quả gây tranh cãi: lính phe xâm lược có 'quyền' giết lính phe tự vệ — điểm mà McMahan tấn công.\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "He then claims that, “simply by fighting”, all combatants “have lost their title to life and liberty” (Walzer 2006: 136)."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "the latter, because all combatants lose their rights, regardless of what they are fighting for"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: lập luận của McMahan — đáp án 1",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Reductivists think that killing in war must be justified by the same properties that justify killing outside of war."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "contend that combatants fighting for wrongful aims cannot do anything right, besides lay down their weapons"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: supreme emergency — đáp án 2 (phá vỡ nguyên tắc phân biệt khi cộng đồng đứng trước nguy cơ bị hủy diệt)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "rare circumstances in which intentionally killing noncombatants is necessary to avert an unconscionable threat"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5, lời giải: \"Walzer thừa nhận đây là một 'tội ác' về mặt đạo đức\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"Walzer thừa nhận làm vậy vẫn là xâm phạm quyền sống của những người vô tội, nhưng cho rằng trong hoàn cảnh cực đoan, không làm còn tệ hơn. Các nhà phê phán đáp: một ngoại lệ mà ai cũng tự cấp cho mình thì không phải ngoại lệ — nó là giấy phép.\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "though she is wronged, it is not all things considered wrong to kill her. Her right is permissibly infringed."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Câu 3 có đáp án đúng ở kết luận nhưng gắn lý do không phải lập luận của Walzer theo SEP (cùng lỗi với mục lập trường). Đổi lời đáp án không đổi data-id hay chỉ số answer."
+}

@@ -1,0 +1,99 @@
+{
+  "unit": "cau-hoi/binh-dang.md#tu-kiem-tra",
+  "hash": "sha256:5784fd2d7468a0a6e051378f71383eb311b75d62c536bc7ba529f49e74222070",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k02",
+  "claims": [
+    {
+      "text": "Câu 1: đáp án \"Chủ nghĩa bình đẳng may mắn — tai nạn là may rủi thuần túy ..., cờ bạc là may rủi do lựa chọn\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/",
+          "quote": "We should compensate people for outcomes of brute luck whereas outcomes of option luck should not be compensated for since they result from individuals’ choices",
+          "where": "§3.4.2"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: đáp án hạ bằng — làm mọi người tệ đi nhân danh bình đẳng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/",
+          "quote": "Intuitively, however, this leveling-down solution seems objectionable.",
+          "where": "§6.1"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: đáp án hình thức chỉ đòi luật không phân biệt ai; thực chất đòi người cùng năng lực có cơ hội thật sự ngang nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rawls/",
+          "quote": "requires that citizens with the same talents and willingness to use them have the same educational and economic opportunities regardless of whether they were born rich or poor",
+          "where": "§4.3"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: Anderson — tàn nhẫn và xoi mói; lời giải: \"Trong 'What Is the Point of Equality?' (1999) ...\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/equality/",
+          "quote": "inhuman (or “harsh”) in its consequences",
+          "where": "§3.6"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/equality/",
+          "quote": "it subjects the citizens to the tutelage of the state and harms their private sphere (Anderson 1999",
+          "where": "§3.6"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5, lời giải: \"đồng thời đáp lại cáo buộc 'tàn nhẫn': người có lý trí sẽ mua bảo hiểm cả cho những sai lầm tương lai của chính mình.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Bảo hiểm giả định là cách Dworkin biến trực giác 'bù đắp may rủi' thành con số chính sách cụ thể: xã hội bù đắp may rủi thuần túy ở mức mà người có lý trí sẽ tự mua bảo hiểm nếu chưa biết mình có gặp rủi ro hay không.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/",
+          "quote": "When confronted with brute luck, we should ask: would people have insured themselves against such misfortune had they had the chance to do so before it struck? If the answer is yes, the inequality should be corrected.",
+          "where": "§3.4.2"
+        },
+        {
+          "url": "https://iep.utm.edu/egalitarianism/",
+          "quote": "Then the actual redistributive scheme in society should redistribute resources to actual persons in accord with the insurance coverage that it would have been rational to purchase."
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: đáp án đúng (phương án 4) và ba phương án sai thật sự sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/egalitarianism/",
+          "quote": "Dworkin attempts to solve such problems by abstracting away from particular cases and looking at decisions that rational people would make in a hypothetical insurance market."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Đáp án đúng của cả 5 câu đều đúng; các phương án sai đều sai. Lỗi chỉ ở lời giải câu 5 (cùng lỗi với Cách đáp lại của lập trường 3)."
+}

@@ -1,0 +1,138 @@
+{
+  "unit": "cau-hoi/thoi-gian.md#_dau",
+  "hash": "sha256:2816db515033de7c1a7d4b4dcfaf7b894c26668e9ca6d47ae22b2f4dd4e37768",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k11",
+  "claims": [
+    {
+      "text": "McTaggart (\"The Unreality of Time\", 1908) phân biệt chuỗi A (quá khứ–hiện tại–tương lai, có sự \"trôi\" nhưng mâu thuẫn) với chuỗi B (chỉ trước–sau, không mâu thuẫn nhưng không có \"trôi\"), rồi kết luận thời gian như ta hiểu không thật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "In a famous paper published in 1908, J.M.E. McTaggart argued that there is in fact no such thing as time",
+          "where": "§4 McTaggart’s Argument"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "McTaggart argues that the B series alone does not constitute a proper time series; the A series is essential to time.",
+          "where": "§4"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "McTaggart also argues that the A series is inherently contradictory.",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "hiện tại luận — chỉ hiện tại là thật, \"trôi\" chính là bản chất của thời gian (vấp thuyết tương đối: không có \"hiện tại\" chung cho cả vũ trụ)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presentism/",
+          "quote": "Presentism is the view that only present things exist.",
+          "where": "mở đầu"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presentism/",
+          "quote": "perhaps the most serious objection to presentism comes from physics",
+          "where": "§8 Relativistic Physics"
+        }
+      ]
+    },
+    {
+      "text": "vĩnh cửu luận — quá khứ, hiện tại, tương lai đều thật như nhau, vũ trụ là khối thời gian bốn chiều, \"hiện tại\" giống \"ở đây\" (vấp: tương lai đã có sẵn thì còn tự do không?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Defenders of eternalism believe in the equal existence of all times",
+          "where": "§ metaphysical theories (3)"
+        },
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "just as there are no objective ontological differences between here and there",
+          "where": "§ metaphysical theories (3)"
+        }
+      ]
+    },
+    {
+      "text": "thuyết khối đang lớn — quá khứ và hiện tại thật, tương lai chưa, vũ trụ không ngừng đắp thêm lớp \"hiện tại\" mới",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "only objects that are either past or present exist. On this view, which is often called the growing block theory, the correct ontology is always increasing in size",
+          "where": "§6"
+        }
+      ]
+    },
+    {
+      "text": "tranh luận sau hơn một thế kỷ vẫn chưa ngã ngũ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "the difference between A-theoretic and B-theoretic approaches to the debate has continued in the intervening century",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "PhilPapers 2020: thuyết B [[pp:thoi-gian.thuyet-b]]% vs thuyết A [[pp:thoi-gian.thuyet-a]]%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/thoi-gian"
+    },
+    {
+      "text": "vĩnh cửu luận [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]%, hiện tại luận [[pp:ban-the-luan-thoi-gian.hien-tai-luan]]%, khối đang lớn [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]]%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-the-luan-thoi-gian"
+    },
+    {
+      "text": "câu đố \"thời gian trôi nhanh bao nhiêu?\" (một giây mỗi giây là tỉ số vô nghĩa) cho thấy chữ \"trôi\" có thể chỉ là ẩn dụ đánh lừa ta",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "câu đố \"thời gian trôi nhanh bao nhiêu?\" (theo J. J. C. Smart, \"một giây mỗi giây\" là tỉ số vô nghĩa, dù có triết gia phản bác) cho thấy chữ \"trôi\" có thể chỉ là ẩn dụ đánh lừa ta",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "One point J.J.C. Smart offered against the A-theory of flow was to ask about the rate at which time flows. It would be a rate of one second per second. But that is silly, he claimed."
+        },
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Other philosophers of time, such as John Norton and Tim Maudlin argue that the rate of one second per second is coherent and acceptable, despite these criticisms."
+        }
+      ]
+    },
+    {
+      "text": "Đây là câu hỏi của **siêu hình học** (*metaphysics*): thời gian rốt cuộc là gì?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "the metaphysics of temporal passage",
+          "where": "§4"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tóm tắt khớp thân bài. Chỉ một lỗi nhẹ: câu đố \"một giây mỗi giây\" được nêu như chắc chắn, trong khi IEP ghi Norton và Maudlin bảo vệ tính có nghĩa của tốc độ này (xem thêm claim ở cac-lap-truong-chinh)."
+}

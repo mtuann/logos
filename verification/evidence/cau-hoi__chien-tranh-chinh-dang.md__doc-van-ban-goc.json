@@ -1,0 +1,105 @@
+{
+  "unit": "cau-hoi/chien-tranh-chinh-dang.md#doc-van-ban-goc",
+  "hash": "sha256:de0cf72e95343c3da2d22e262209b71385bf20e4882424bac049ec36b17ee42c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k04",
+  "claims": [
+    {
+      "text": "Just and Unjust Wars (1977) của Walzer và Killing in War (2009) của McMahan đều còn bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/chua-ro.killing-in-war"
+    },
+    {
+      "text": "Jus ad bellum: lý do chính đáng (tự vệ) + thẩm quyền hợp pháp + ý định đúng đắn + biện pháp cuối cùng + cơ hội thành công hợp lý + tương xứng. … Jus in bello: phân biệt + tương xứng. Áp dụng cho cả hai phía, bất kể phe nào chính nghĩa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/justwar/",
+          "quote": "having just cause, being a last resort, being declared by a proper authority, possessing right intention, having a reasonable chance of success, and the end being proportional to the means used"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Both traditionalist just war theory and international law explicitly license fighting in accordance with these constraints, regardless of one’s objectives."
+        }
+      ]
+    },
+    {
+      "text": "mục \"War\" trong Stanford Encyclopedia of Philosophy tóm tắt trung thành toàn bộ truyền thống chiến tranh chính nghĩa và cuộc tranh luận Walzer–McMahan",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nếu muốn đọc sâu, mục \"War\" trong *Stanford Encyclopedia of Philosophy* tóm tắt lý thuyết chiến tranh chính nghĩa đương đại và cuộc tranh luận giữa Walzer và các nhà xét lại; mục \"Just War Theory\" trong *Internet Encyclopedia of Philosophy* có phần lịch sử của truyền thống.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "For the sake of concision this entry discusses only contemporary analytical philosophers working on war."
+        },
+        {
+          "url": "https://iep.utm.edu/justwar/",
+          "quote": "In the Summa Theologicae , Aquinas presents the general outline of what becomes the traditional just war theory"
+        }
+      ]
+    },
+    {
+      "text": "hướng dẫn đọc Mặc Tử (có thiên Phi công, chống chiến tranh xâm lược)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/mac-tu-kiem-ai/",
+          "quote": "phi công (非攻), phản đối chiến tranh xâm lược"
+        }
+      ]
+    },
+    {
+      "text": "Bình Ngô đại cáo (chữ \"điếu phạt\" và việc tha hàng binh)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/nguyen-trai-binh-ngo/",
+          "quote": "Chữ điếu phạt (弔伐, thương dân mà đánh kẻ có tội)"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/nguyen-trai-binh-ngo/",
+          "quote": "Việc tha hàng binh, cấp thuyền ngựa cho về nước"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi dẫn dắt 1: Walzer đặt bar cho ngoại lệ này rất cao — \"cộng đồng đứng trước nguy cơ bị hủy diệt\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Walzer and his critics believe that such cases are very rare in war"
+        }
+      ]
+    },
+    {
+      "text": "(Gợi ý: Walzer đặt bar cho ngoại lệ này rất cao",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "(Gợi ý: Walzer đặt ngưỡng cho ngoại lệ này rất cao — \"cộng đồng đứng trước nguy cơ bị hủy diệt\".)",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "rare circumstances in which intentionally killing noncombatants is necessary to avert an unconscionable threat"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Không có trích nguyên văn; phần diễn đạt lại ghi rõ. thuat-ngu false: câu hỏi dẫn dắt 1 dùng từ tiếng Anh 'bar' giữa câu tiếng Việt ('đặt bar ... rất cao'), nên viết 'đặt ngưỡng ... rất cao' (nhe, không chặn)."
+}

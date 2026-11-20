@@ -1,0 +1,256 @@
+{
+  "unit": "cau-hoi/mo-phong.md#cac-lap-truong-chinh",
+  "hash": "sha256:b4b5f1b5a998010a1886d01091de28f3e17dc8f8c8231a4731dd3e55edd18b30",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Lập luận gốc của Bostrom (2003) có dạng một **bộ ba loại trừ** (*trilemma*): ít nhất một trong ba mệnh đề sau phải đúng. 1. Loài người (gần như chắc chắn) sẽ tuyệt chủng ... 2. Nền văn minh hậu-nhân loại (gần như chắc chắn) sẽ không chạy nhiều mô phỏng tổ tiên. 3. Chúng ta (gần như chắc chắn) đang sống trong một mô phỏng.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "(1) the human species is very likely to go extinct before reaching a “posthuman” stage; (2) any posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof); (3) we are almost certainly living in a computer simulation.",
+          "where": "Abstract"
+        }
+      ]
+    },
+    {
+      "text": "Bostrom không khẳng định mệnh đề nào đúng; ông chỉ nói *một trong ba* đúng",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "it seems sensible to apportion one’s credence roughly evenly between (1), (2), and (3)",
+          "where": "mục VII"
+        }
+      ]
+    },
+    {
+      "text": "lập luận chỉ cần hai giả định công nghệ khiêm tốn: sức mạnh tính toán tiếp tục tăng, và ý thức có thể \"chạy\" trên máy tính (*substrate independence* ...)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "The idea is that mental states can supervene on any of a broad class of physical substrates.",
+          "where": "mục II"
+        },
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "predict that enormous amounts of computing power will be available in the future",
+          "where": "mục I"
+        }
+      ]
+    },
+    {
+      "text": "nếu không, mọi mô phỏng chỉ tạo ra zombie triết học (xem bài [Con người có linh hồn không?](linh-hon.md))",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/linh-hon/",
+          "quote": "Các triết gia gọi đó là zombie triết học",
+          "where": "trang đích, tiêu đề \"Con người có linh hồn không?\""
+        }
+      ]
+    },
+    {
+      "text": "có thể có những lý do chọn lọc khiến quan sát của ta không đại diện (ví dụ: các mô phỏng không mô phỏng *toàn bộ* lịch sử mà chỉ mô phỏng những đoạn \"thú vị\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "It does not in general prescribe indifference between hypotheses when you lack specific information about which",
+          "where": "mục V"
+        },
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "There would have to be about 100 billion times as many “me-simulations” (simulations of the life of only a single mind) as there are ancestor-simulations",
+          "where": "mục VI"
+        }
+      ]
+    },
+    {
+      "text": "Về hồi quy vô hạn: không thành vấn đề — chuỗi mô phỏng lồng nhau vẫn phải dừng ở một thực tại gốc nào đó (tài nguyên tính toán là hữu hạn, mỗi tầng đều tốn kém hơn tầng trên)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "Even if it is necessary for the hierarchy to bottom out at some stage – the metaphysical status of this claim is somewhat obscure – there may be room for a large number of levels of reality",
+          "where": "mục VI"
+        },
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "the computational cost for the basement-level simulators would be very great",
+          "where": "mục VI"
+        }
+      ]
+    },
+    {
+      "text": "Còn về tính đại diện: đúng là có tranh cãi (giới triết học gọi đây là vấn đề của *nguyên lý nhân loại học*)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Còn về tính đại diện: đúng là có tranh cãi (giới triết học bàn vấn đề này dưới tên *lập luận nhân loại học*, *anthropic reasoning*, hay hiệu ứng chọn lọc quan sát)",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "Anthropic Bias: Observation Selection Effects in Science and Philosophy",
+          "where": "chú thích 11; Bostrom đặt vấn đề trong khuôn khổ lập luận nhân loại học / hiệu ứng chọn lọc quan sát, không phải \"nguyên lý nhân loại học\" (anthropic principle) nói chung"
+        }
+      ]
+    },
+    {
+      "text": "Triết gia Hilary Putnam từng đưa ra một phiên bản của phản bác này với hình ảnh \"bộ não trong bể\" (*brain in a vat*, *Reason, Truth and History*, 1981)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Triết gia Hilary Putnam tấn công các giả thuyết hoài nghi kiểu này theo một hướng khác, với hình ảnh \"bộ não trong bể\" (*brain in a vat*, *Reason, Truth and History*, 1981): ông không nói giả thuyết trống rỗng, mà nói nó tự bác bỏ.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "the assertion “we are brains in a vat” would be sense self-refuting in the same way that the general statement “all general statements are false” is",
+          "where": "mục 2; lập luận của Putnam là tự bác bỏ (ngữ nghĩa), không phải lập luận \"không thể kiểm chứng nên trống rỗng\""
+        }
+      ]
+    },
+    {
+      "text": "*Reason, Truth and History*, 1981",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.putnam-hilary-1981-reason-truth-and-history-cambridge-cambri"
+    },
+    {
+      "text": "nếu ta thực sự là não trong bể, thì từ \"bể\" trong miệng ta không chỉ được cái bể *thật* bên ngoài — nó chỉ chỉ được cái \"bể\" trong mô phỏng. ... Giả thuyết hoài nghi tự triệt tiêu chính mình.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "If I am a brain in a vat, then “I am a brain in a vat” would, via the causal constraint on reference, express some different proposition (say , that I am a brain in a vat in the image ).",
+          "where": "mục về phản bác"
+        },
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "A term refers to an object only if there is an appropriate causal connection between that term and the object",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "giả thuyết \"vũ trụ được tạo ra 5 phút trước cùng toàn bộ ký ức giả của bạn\" ([Bertrand Russell](../triet-gia/russell.md) nêu ra trong *The Analysis of Mind*, 1921: về logic không bác bỏ được, nhưng theo ông là \"không đáng quan tâm\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/2/5/2/2529/2529.txt",
+          "quote": "There is no logical impossibility in the hypothesis that the world sprang into being five minutes ago, exactly as it then was, with a population that \"remembered\" a wholly unreal past.",
+          "where": "Lecture IX, Memory"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/2/5/2/2529/2529.txt",
+          "quote": "Like all sceptical hypotheses, it is logically tenable, but uninter",
+          "where": "Lecture IX (câu gốc: \"logically tenable, but uninteresting\")"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/2/5/2/2529/2529.txt",
+          "quote": "THE ANALYSIS OF MIND By Bertrand Russell 1921",
+          "where": "trang tên sách"
+        }
+      ]
+    },
+    {
+      "text": "Một số nhà vật lý đã đề xuất các dấu hiệu có thể phát hiện của mô phỏng — ví dụ giới hạn độ phân giải của không-thời gian ở thang Planck, hay dấu vết của \"lưới\" tính toán rời rạc trong cách phân bố tia vũ trụ năng lượng cực cao (một đề xuất của Beane, Davoudi và Savage, 2012 — vẫn còn tranh cãi).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một số nhà vật lý đã đề xuất các dấu hiệu có thể phát hiện của mô phỏng — ví dụ dấu vết của \"lưới\" tính toán rời rạc trong cách phân bố tia vũ trụ năng lượng cực cao (một đề xuất của Beane, Davoudi và Savage, 2012 — vẫn còn tranh cãi).",
+      "sources": [
+        {
+          "url": "https://arxiv.org/abs/1210.1847",
+          "quote": "The numerical simulation scenario could reveal itself in the distributions of the highest energy cosmic rays exhibiting a degree of rotational symmetry breaking that reflects the structure of the underlying lattice.",
+          "where": "Abstract; phần Beane–Davoudi–Savage đúng. Ví dụ \"thang Planck\" không có nguồn trong bài và không có trong bài của Beane và cộng sự (giới hạn họ tính là b^(-1) >~ 10^(11) GeV, không phải thang Planck)"
+        },
+        {
+          "url": "https://arxiv.org/abs/1210.1847",
+          "quote": "Submitted on 4 Oct 2012",
+          "where": "năm 2012"
+        }
+      ]
+    },
+    {
+      "text": "Descartes từng tưởng tượng một \"ác quỷ lừa dối\" dựng nên mọi trải nghiệm của ta",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Descartes từng tưởng tượng một \"ác thần lừa dối\" dựng nên mọi trải nghiệm của ta",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/descartes-suy-niem/",
+          "quote": "Đoạn 3 — Ác thần (§9–12; AT 7:21–23).",
+          "where": "site dùng \"ác thần\"; thuật ngữ terms/ac-than (đã đóng băng)"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me",
+          "where": "§12"
+        }
+      ]
+    },
+    {
+      "text": "— và ông vẫn phải sống, ăn, viết như bình thường.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "since the end I now seek is not action but knowledge",
+          "where": "§11: hoài nghi chỉ áp dụng cho việc tìm tri thức, không cho hành động"
+        }
+      ]
+    },
+    {
+      "text": "Nếu ta đang trong mô phỏng, thì có thể có **người vận hành** — với ý định, mục đích, và khả năng *tắt* mô phỏng. ... biết đâu có cách \"liên lạc\" với tầng trên.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "If so, then we should expect our simulation to be terminated when we are about to become posthuman.",
+          "where": "mục VI"
+        },
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "everybody would have to consider the possibility that their actions will be rewarded or punished, based perhaps on moral criteria, by their simulators",
+          "where": "mục VI"
+        }
+      ]
+    },
+    {
+      "text": "Sống tốt trong thế giới mình có là chiến lược duy nhất hợp lý, dù thế giới đó là gốc hay mô phỏng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "the truth of (3) should have no tendency to make us “go crazy” or to prevent us from going about our business and making plans and predictions for tomorrow",
+          "where": "mục VI"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": false
+  },
+  "result": "dat",
+  "notes": "Cả ba lập trường đủ ba nhãn; bộ ba và các lời đáp của Bostrom khớp bài gốc. Chỉ có lỗi nhẹ: 'ác quỷ' (nên là 'ác thần', terms/ac-than), ví dụ 'thang Planck' không nguồn, nhãn 'nguyên lý nhân loại học' chưa chính xác, và việc xếp Putnam là 'một phiên bản' của phản bác không thể kiểm chứng."
+}

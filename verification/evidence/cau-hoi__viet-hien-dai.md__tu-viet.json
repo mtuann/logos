@@ -1,0 +1,51 @@
+{
+  "unit": "cau-hoi/viet-hien-dai.md#tu-viet",
+  "hash": "sha256:ff97c55d2e4459c479fc026afdcf9e057d574acf7048b61068c7e2bc799e5ea8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k17",
+  "claims": [
+    {
+      "text": "Hãy phân tích nó theo cách của Trần Đình Hượu: nó gồm những yếu tố nào? Yếu tố nào \"thuận\", yếu tố nào \"nghịch\" với đời sống hiện đại?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Hãy phân tích nó bằng cách nghiên cứu cụ thể, như Trần Đình Hượu chủ trương với truyền thống: nó gồm những yếu tố nào? Yếu tố nào \"thuận\", yếu tố nào \"nghịch\" với đời sống hiện đại? Và *bạn* sẽ giữ, bỏ, hay biến đổi nó như thế nào?",
+      "sources": [
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "nhìn vào thực tế một cách lịch sử, hoàn chỉnh, rõ nét"
+        },
+        {
+          "url": "https://loigiaihay.com/van-ban-nhin-ve-von-van-hoa-dan-toc-a133576.html",
+          "quote": "Tinh thần chung của văn hoá Việt Nam là thiết thực, linh hoạt, dung hoà",
+          "where": "nguồn yếu: trang học tập chép đoạn trích \"Nhìn về vốn văn hóa dân tộc\" (SGK Ngữ văn 12), ghi trích từ Đến hiện đại từ truyền thống, NXB Văn hóa 1996"
+        }
+      ]
+    },
+    {
+      "text": "hãy thử làm một việc mà cả Trần Đình Hượu lẫn Trần Đức Thảo đều làm: *mô tả* trước khi *đánh giá*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Trần Đình Hượu lại mô tả trung thực thực tiễn văn hóa xã hội Việt Nam"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/tran-duc-thao/",
+          "quote": "là phương pháp mô tả kinh nghiệm tốt nhất",
+          "where": "trang Trần Đức Thảo đã deploy (hồ sơ ho-so/tran-duc-thao đóng băng)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Đề bài và tiêu chí tự đánh giá bám đúng bài; chỉ cụm \"theo cách của Trần Đình Hượu: … thuận/nghịch\" gán phạm trù chưa có nguồn cho Hượu (cùng việc ghi sẵn ở lập trường 2)."
+}

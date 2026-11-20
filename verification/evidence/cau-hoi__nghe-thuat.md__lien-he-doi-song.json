@@ -1,0 +1,94 @@
+{
+  "unit": "cau-hoi/nghe-thuat.md#lien-he-doi-song",
+  "hash": "sha256:c55d5f944dc92d939323f0cf8df62d2ba874c0b9f083c94b36df411bf6d65582",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k07",
+  "claims": [
+    {
+      "text": "Năm 2005, nhà phê bình phim Roger Ebert tuyên bố \"video game không bao giờ có thể là nghệ thuật\", gây ra một cuộc tranh luận kéo dài nhiều năm.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.engadget.com/2005-11-30-ebert-video-games-inherently-inferior-to-film-and-literature.html",
+          "quote": "Yours is the most civil of countless messages I have received after writing that I did indeed consider video games inherently inferior to film and literature.",
+          "where": "nguồn yếu: Engadget 30/11/2005 trích cột Answer Man của Ebert"
+        },
+        {
+          "url": "https://www.engadget.com/2005-11-30-ebert-video-games-inherently-inferior-to-film-and-literature.html",
+          "quote": "nature of the medium prevents it from moving beyond craftsmanship [however elegant or sophisticated] to the stature of art"
+        },
+        {
+          "url": "https://web.archive.org/web/2026/https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art",
+          "quote": "Having once made the statement above, I have declined all opportunities to enlarge upon it or defend it.",
+          "where": "bài \"Video games can never be art\" (2010)"
+        }
+      ]
+    },
+    {
+      "text": "Năm 2010, Ebert rút lại một phần tuyên bố của mình (ông thừa nhận đã dại khi phán như vậy mà chưa từng chơi game).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Năm 2010, Ebert rút lại một phần tuyên bố của mình (ông thừa nhận đã dại khi phán như vậy mà chưa trải nghiệm game đủ nhiều).",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn",
+          "quote": "That was a foolish position to take, particularly as it seemed to apply to the entire unseen future of games."
+        },
+        {
+          "url": "https://web.archive.org/web/2026/https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn",
+          "quote": "I should not have written that entry without being more familiar with the actual experience of video games."
+        },
+        {
+          "url": "https://web.archive.org/web/2026/https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn",
+          "quote": "In my actual experience, I have played “Cosmology of Kyoto,” which I enormously enjoyed, and “Myst,” for which I lacked the patience."
+        }
+      ]
+    },
+    {
+      "text": "Năm 2022, một bức tranh do AI tạo ra (*Théâtre D'opéra Spatial* của Jason Allen, làm bằng công cụ Midjourney) đoạt giải nhất hạng mục nghệ thuật số tại hội chợ bang Colorado (Mỹ), gây tranh cãi dữ dội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/colorado/news/ai-created-art-exhibit-first-place-colorado-state-fair-causing-controversy-jason-allen/",
+          "quote": "Artist Jason Allen used an AI art tool called \"Midjourney\" to write out his vision, using prompts. His entry, titled, \"Théâtre D'opéra Spatial,\" won first place in the category of digital arts / digitally-manipulated photography.",
+          "where": "CBS Colorado, 03/09/2022"
+        }
+      ]
+    },
+    {
+      "text": "khi Banksy bán được hàng triệu đô",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.clickondetroit.com/entertainment/2021/03/23/banksy-painting-raises-23-million-for-uk-health-charities/",
+          "quote": "A Banksy painting honoring Britain’s health workers in the pandemic has sold for a record 16.8 million pounds ($23.2 million), auction house Christie’s said Tuesday.",
+          "where": "AP, 23/03/2021"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết thể chế sẽ hỏi: thế giới nghệ thuật có công nhận nó không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/art-definition/",
+          "quote": "conferred the status of candidate for appreciation (Dickie 1974)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ebert 2005: chữ \"không bao giờ có thể là nghệ thuật\" là tựa bài năm 2010 (\"Video games can never be art\"); năm 2005 Ebert viết rằng bản chất của phương tiện ngăn game vươn tới \"the stature of art\", cùng nội dung nên ghi dung. Bài 2010 \"Okay, kids, play on my lawn\" mở qua Wayback (rogerebert.com trả 403); trang ghi ngày 14/12/2012 (ngày đăng lại khi chuyển hệ thống), nội dung nói kết quả bình chọn \"June 30\", khớp năm 2010 của bản ghi nguồn đóng băng. Phần \"được bảo tàng sưu tầm\" (Banksy) chưa tìm nguồn trong phiên; là ví dụ minh họa trong lời giả định của thuyết thể chế, không tính thành claim riêng. Ý \"game đã có giải thưởng, bảo tàng, và ngành phê bình riêng\" cũng là minh họa, không kiểm riêng. Không có dữ kiện Việt Nam."
+}

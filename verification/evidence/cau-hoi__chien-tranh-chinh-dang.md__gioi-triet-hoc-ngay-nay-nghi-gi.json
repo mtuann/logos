@@ -1,0 +1,71 @@
+{
+  "unit": "cau-hoi/chien-tranh-chinh-dang.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:e2069ecf53b4d27ef9880f8935157450b9bb30366ddf1da8b312d6ecba626b72",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k04",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về chiến tranh hay đạo đức chiến tranh trong [[pp:khao-sat/so-cau]] câu hỏi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "cuộc tranh luận giữa Walzer và các nhà xét lại (McMahan và đồng sự) là một trong những cuộc tranh luận sôi nổi nhất của đạo đức học ứng dụng từ những năm 2000 đến nay",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Contemporary just war theory is dominated by two camps: traditionalist and revisionist."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "Since then there has been an explosion of revisionist rebuttals of Walzer (for example Rodin 2002; McMahan 2004b; McPherson 2004; Arneson 2006; Fabre 2009; McMahan 2009; Fabre 2012)."
+        }
+      ]
+    },
+    {
+      "text": "hai nguyên tắc này được ghi thành điều khoản rõ ràng trong Nghị định thư bổ sung I năm 1977",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201125/volume-1125-I-17512-English.pdf",
+          "quote": "Adopted at Geneva on 8 June 1977",
+          "where": "UNTS vol. 1125, trang đầu"
+        },
+        {
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201125/volume-1125-I-17512-English.pdf",
+          "quote": "Article 48. BASIC RULE. In order to ensure respect for and protection of the",
+          "where": "Điều 48 (phân biệt)"
+        },
+        {
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201125/volume-1125-I-17512-English.pdf",
+          "quote": "be excessive in relation to the concrete and direct military advantage anticipated.",
+          "where": "Điều 51(5)(b) (tương xứng)"
+        }
+      ]
+    },
+    {
+      "text": "cũng là năm Walzer xuất bản sách của mình",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/war/",
+          "quote": "The traditionalist view received its most prominent exposition the same year as it was decisively codified in international law, in the first additional protocol to the Geneva Conventions."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đã đối chiếu tools/philpapers-2020.md: không có câu nào về chiến tranh trong 100 câu. Văn bản Nghị định thư I lấy từ PDF UNTS (trang ihl-databases.icrc.org và un.org trả về trang cần JavaScript/403)."
+}

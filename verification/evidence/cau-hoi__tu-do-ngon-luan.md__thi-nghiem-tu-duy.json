@@ -1,0 +1,43 @@
+{
+  "unit": "cau-hoi/tu-do-ngon-luan.md#thi-nghiem-tu-duy",
+  "hash": "sha256:37e56af2085157f12042314ceff50bbb317c95989cb50dcc91e7e4c83c79f6ba",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "Ông X ... \"vắc-xin là thuốc độc, ai tiêm sẽ vô sinh\" — thí nghiệm tư duy do bài tự dựng, hỏi cấm vì sai hay vì gây hại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/34901/pg34901.txt",
+          "quote": "An opinion that corn-dealers are starvers of the poor, or that private property is robbery, ought to be unmolested when simply circulated through the press",
+          "where": "chương III, đoạn 1"
+        }
+      ]
+    },
+    {
+      "text": "Hầu hết các cuộc tranh cãi ồn ào nhất về tự do ngôn luận hôm nay thực ra là về biến thể này — chứ không phải về nhà nước.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nhiều cuộc tranh cãi ồn ào về tự do ngôn luận hôm nay thực ra là về biến thể này — chứ không phải về nhà nước.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "do internet platforms have moral duties to respect the free speech of their users?",
+          "where": "mục 4 \"The Future of Free Speech Theory: Platform Ethics\""
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Kịch bản do bài tự dựng (nhân vật \"ông X\"), không gán cho tác giả nào; không cần ghi nguồn gốc. Khẳng định \"hầu hết\" không có nguồn: SEP chỉ nói đạo đức nền tảng mạng là hướng tương lai của lý thuyết."
+}

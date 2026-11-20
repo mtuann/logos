@@ -1,0 +1,53 @@
+{
+  "unit": "cau-hoi/luan-chung-ton-giao.md#lien-he-doi-song",
+  "hash": "sha256:3cd76e62769c8f4505b0fef20c080806838605050f611728670b1a34ba21bf2f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k08",
+  "claims": [
+    {
+      "text": "hoặc các luận chứng triết học có giới hạn của chúng khi đụng đến những điều vượt quá kinh nghiệm con người. Kant nghĩ là cả hai.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4280/pg4280.txt",
+          "quote": "is called upon to consider questions, which it cannot decline, as they are presented by its own nature, but which it cannot answer, as they transcend every faculty of the mind",
+          "where": "Lời tựa bản 1781"
+        }
+      ]
+    },
+    {
+      "text": "Các luận chứng trên hỏi về *nền tảng* của thế giới (vì sao có cái gì đó chứ không phải không có gì).",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "a first cause, sustaining cause, unmoved mover, necessary being, or personal being (God) exists that brought about, caused, and/or sustains the universe"
+        }
+      ]
+    },
+    {
+      "text": "Đó cũng là lý do chúng vẫn được dạy trong mọi khoa triết",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đó cũng là lý do chúng vẫn được dạy và bàn nhiều trong triết học",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "This helps to explain why ontological arguments have fascinated philosophers for almost a thousand years."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Không có dữ kiện Việt Nam. \"Kant nghĩ là cả hai\" khớp lời tựa Phê phán lý tính thuần túy (lý trí bị đặt trước những câu hỏi không thể gạt đi mà cũng không trả lời được vì vượt mọi năng lực của tâm trí). \"mọi khoa triết\" là khái quát không có nguồn."
+}

@@ -1,0 +1,79 @@
+{
+  "unit": "cau-hoi/thoi-gian.md#tu-kiem-tra",
+  "hash": "sha256:4635200468086ab69bf7728f7d06bba7d8f07915b9e2dd7b3989f4af3fb1a1de",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k11",
+  "claims": [
+    {
+      "text": "\"Chuỗi A sắp xếp theo quá khứ–hiện tại–tương lai (có sự 'trôi'), chuỗi B chỉ sắp xếp theo trước–sau (quan hệ không đổi)\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "since B series positions are forever “fixed”, whereas A series positions are constantly changing",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "\"Vì mọi sự kiện vừa là quá khứ, vừa là hiện tại, vừa là tương lai — mà một thứ không thể vừa có vừa không có cùng một tính chất\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/time/",
+          "quote": "the different A properties are incompatible with one another",
+          "where": "§4"
+        }
+      ]
+    },
+    {
+      "text": "\"Hiện tại luận cho rằng chỉ hiện tại là thật; vĩnh cửu luận cho rằng quá khứ, hiện tại, tương lai đều thật như nhau\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presentism/",
+          "quote": "Presentism is the view that only present things exist."
+        },
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Defenders of eternalism believe in the equal existence of all times"
+        }
+      ]
+    },
+    {
+      "text": "\"Vĩnh cửu luận, vì nó cho thấy không có một 'hiện tại' chung tuyệt đối cho cả vũ trụ — mọi thời điểm đều bình đẳng\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presentism/",
+          "quote": "According to presentism, therefore, special relativity is radically deficient as a description of reality.",
+          "where": "§8"
+        }
+      ]
+    },
+    {
+      "text": "\"Đó là một giả định siêu hình chứ không phải sự thật hiển nhiên — ngay cả vĩnh cửu luận cũng phân biệt 'tồn tại' với 'bị định đoạt'\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Eternalism is consistent with both indeterminism and determinism."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "5 câu: đáp án đúng đều đúng (0,1,0,1,1), phương án sai đều sai, lời giải khớp bài."
+}

@@ -1,0 +1,158 @@
+{
+  "unit": "cau-hoi/luan-chung-ton-giao.md#_dau",
+  "hash": "sha256:7ac42ffb2d473ddfdb77b5715292e3bca73dd4bdac0bf7abccd1bb3ee3f2dae5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k08",
+  "claims": [
+    {
+      "text": "điểm yếu chung của cả ba luận chứng là *vấn đề khoảng cách* — ngay cả khi thành công, chúng chỉ chứng minh được một nguyên nhân đầu tiên hay nhà thiết kế, chưa phải Thượng đế toàn năng toàn tri toàn thiện của tôn giáo.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "this first cause might itself be a body"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Kant argued that the argument had two parts, the first establishing the existence of an absolutely necessary being; the second part, identifying this being as the most real being"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "you renounce all claim to infinity in any of the attributes of the Deity"
+        }
+      ]
+    },
+    {
+      "text": "vũ trụ luận ([Aquinas](../triet-gia/aquinas.md), *Summa Theologiae*, khoảng 1265–1273)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/aquinas.summa-theologiae"
+    },
+    {
+      "text": "mọi sự đều có nguyên nhân nên phải có nguyên nhân đầu tiên",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "không gì tự là nguyên nhân của chính nó và chuỗi nguyên nhân không thể lùi vô hạn, nên phải có một nguyên nhân đầu tiên",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "In the world of sense we find there is an order of efficient causes",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        },
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "There is no case known (neither is it, indeed, possible) in which a thing is found to be the efficient cause of itself",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        }
+      ]
+    },
+    {
+      "text": "mục đích luận (Paley, *Natural Theology*, 1802; phiên bản tinh chỉnh hiện đại) — tự nhiên tinh xảo như đồng hồ nên phải có người làm đồng hồ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.paley-william-1802-natural-theology-or-evidences-of-the-exis"
+    },
+    {
+      "text": "bản thể luận ([Anselm](../triet-gia/anselm.md), *Proslogion*, 1077–1078)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/anselm.proslogion"
+    },
+    {
+      "text": "[Hume](../triet-gia/hume.md) — vì sao điểm dừng phải là Thượng đế mà không phải chính vũ trụ; Hume về thiết kế vụng về của tự nhiên, cộng giả thuyết đa vũ trụ của thời hiện đại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "why may not the material universe be the necessarily existent Being"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "This world, for aught he knows, is very faulty and imperfect"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "The same idea applies to the most popular explanation for fine-tuning: a multiverse."
+        }
+      ]
+    },
+    {
+      "text": "[Kant](../triet-gia/kant.md) — \"tồn tại\" không phải là thuộc tính, cộng phản ví dụ \"hòn đảo hoàn hảo\" của Gaunilo.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4280/pg4280.txt",
+          "quote": "Being is evidently not a real predicate"
+        },
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "Gaunilo’s argument, thus, proceeds by attempting to use Anselm’s strategy to deduce the existence of a perfect island"
+        }
+      ]
+    },
+    {
+      "text": "PhilPapers 2020 — hữu thần [[pp:thuong-de.huu-than]]% vs vô thần [[pp:thuong-de.vo-than]]%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/thuong-de"
+    },
+    {
+      "text": "khi được hỏi luận chứng nào mạnh nhất, vũ trụ luận được chọn nhiều nhất ([[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]]%), bản thể luận chỉ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.ban-the-luan]]%",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat"
+    },
+    {
+      "text": "và nhiều triết gia vô thần vẫn đánh giá các luận chứng là đáng nể.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "và tranh luận về từng luận chứng vẫn tiếp diễn.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "it is much easier to be persuaded that ontological arguments are no good than it is to say exactly what is wrong with them"
+        }
+      ]
+    },
+    {
+      "text": "(sớm nhất là [Platon](../triet-gia/platon.md) và [Aristotle](../triet-gia/aristotle.md))",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "the earliest formulation of a version of the cosmological argument is found in Plato’s Laws"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "the classical argument is firmly rooted in Aristotle’s Physics"
+        }
+      ]
+    },
+    {
+      "text": "một đấng toàn năng, toàn tri, toàn thiện và là nguồn gốc của mọi sự",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "all versions of the ontological argument assume that God is simultaneously omnipotent, omniscient, and morally perfect"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": false,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Ý Tóm tắt khớp thân bài. \"Mọi sự đều có nguyên nhân\" là cách nói gọn dễ thành người rơm (nếu mọi sự đều có nguyên nhân thì nguyên nhân đầu tiên cũng phải có); Aquinas nói về trật tự các nguyên nhân tác động và không gì tự là nguyên nhân của chính nó. Thuật ngữ: bài dùng \"luận chứng (argument)\" trong khi bảng bắt buộc ghi argument → \"lập luận\"; site đã có thuật ngữ đóng băng terms/luan-chung-ban-the-luan nên coi là tên riêng của họ lập luận, không chấm sai."
+}

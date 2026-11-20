@@ -1,0 +1,79 @@
+{
+  "unit": "cau-hoi/tu-do-ngon-luan.md#nguon",
+  "hash": "sha256:4a7df694a080643ad65ddf00ccbbf6bd6d40e0c8c671083618cb0abaf77a8e3c",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "Nghịch lý khoan dung: Popper, The Open Society and Its Enemies, tập 1, chú thích 4 của chương 7.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "CHAPTER 7 /NOTES 3-4",
+          "where": "đầu trang chú thích; chú thích 4 bắt đầu \"Cp. Republic 562b-565e\""
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "Less well known is the paradox of tolerance"
+        }
+      ]
+    },
+    {
+      "text": "1. Howard, Jeffrey W. (2024), \"Freedom of Speech\", SEP (archives/fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.freedom-speech",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "First published Fri Jan 19, 2024"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "Copyright © 2024 by Jeffrey W. Howard"
+        }
+      ]
+    },
+    {
+      "text": "2. Mill (1859), On Liberty, London: John W. Parker and Son — gutenberg.org/ebooks/34901",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
+    },
+    {
+      "text": "3. Popper, Karl (1945), The Open Society and Its Enemies, London: Routledge.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.popper-karl-1945-the-open-society-and-its-enemies-london-rou"
+    },
+    {
+      "text": "4. Abrams v. United States, 250 U.S. 616 (1919), ý kiến bất đồng của Holmes",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.law-cornell-edu.supremecourt-text-250-616",
+      "sources": [
+        {
+          "url": "https://www.law.cornell.edu/supremecourt/text/250/616",
+          "quote": "HOLMES, dissenting."
+        }
+      ]
+    },
+    {
+      "text": "5. Bourget & Chalmers, Philosophers' Imprint 23 (2023), doi 10.3998/phimp.2109",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "www.gutenberg.org trả 503 trong phiên; đã đọc On Liberty qua mirror gutenberg.pglaf.org/cache/epub/34901/pg34901.txt (bản Walter Scott Publishing, không phải bản Parker 1859 — dòng nguồn ghi nhà xuất bản lần in đầu, trùng bản ghi kho đóng băng)."
+}

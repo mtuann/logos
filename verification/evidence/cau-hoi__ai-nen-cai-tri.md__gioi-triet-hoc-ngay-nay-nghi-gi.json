@@ -1,0 +1,74 @@
+{
+  "unit": "cau-hoi/ai-nen-cai-tri.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:3cc0fe5b62ced3969bee61156cd7d5c31c45ce54b00fc3b68a685ab3292c07da",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về \"ai nên cai trị\" hay về chế độ tinh hoa tri thức trong [[pp:khao-sat/so-cau]] câu hỏi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "câu chính \"Triết học chính trị\" (cộng đồng luận, chủ nghĩa bình đẳng hay chủ nghĩa tự do cá nhân; n ≈ [[pp:triet-hoc-chinh-tri/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri"
+    },
+    {
+      "text": "câu bổ sung về chính trị – kinh tế (tư bản hay xã hội chủ nghĩa; n ≈ [[pp:chinh-tri-kinh-te/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/chinh-tri-kinh-te"
+    },
+    {
+      "text": "phương pháp triết học chính trị (lý thuyết lý tưởng hay phi lý tưởng; n ≈ [[pp:phuong-phap-triet-hoc-chinh-tri/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/phuong-phap-triet-hoc-chinh-tri"
+    },
+    {
+      "text": "cuốn Against Democracy (2016) của Brennan đã gây ra một cuộc tranh luận lớn — với nhiều công trình phản bác ... và một số công trình phát triển tiếp ý tưởng epistocracy theo hướng ôn hòa hơn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "modest versions of these arguments have been used to justify modification of democratic institutions (Caplan 2007; Somin 2013; Brennan 2016)",
+          "where": "4.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Representative Democracy as Defensible Epistocracy",
+          "where": "Thư mục"
+        },
+        {
+          "url": "https://politikon.iapss.org/index.php/politikon/article/view/383",
+          "quote": "I argue that democracy better satisfies Brennan’s own principles compared to epistocracy"
+        }
+      ]
+    },
+    {
+      "text": "Platon thì ... vẫn ở đó — ... như một bài kiểm tra mà mọi lý thuyết dân chủ đều phải vượt qua: bạn đối phó thế nào với sự thiếu hiểu biết của cử tri?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "As we can see these criticisms are echoes of the sorts of criticisms Plato and Hobbes made.",
+          "where": "4.1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đối chiếu tools/philpapers-2020.md: \"Triết học chính trị\" ở Bảng 1 (câu chính); \"Chính trị – kinh tế\" và \"Phương pháp triết học chính trị\" ở Bảng 2 (câu bổ sung); không câu nào trong 100 câu hỏi về dân chủ/epistocracy. Mục không trích số phần trăm, không suy đoán."
+}

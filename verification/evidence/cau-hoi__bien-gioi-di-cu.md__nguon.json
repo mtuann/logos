@@ -1,0 +1,59 @@
+{
+  "unit": "cau-hoi/bien-gioi-di-cu.md#nguon",
+  "hash": "sha256:cffc5202246af319b0a7443c208d44b36f64cf89f66f8b154da0b9f3d7b8ed8b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k04",
+  "claims": [
+    {
+      "text": "Wellman, Christopher Heath, \"Immigration\", Stanford Encyclopedia of Philosophy. <https://plato.stanford.edu/archives/fall2026/entries/immigration/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.immigration",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/immigration/",
+          "quote": "Copyright © 2024 by Christopher Heath Wellman"
+        }
+      ]
+    },
+    {
+      "text": "Carens, Joseph H. (1987), \"Aliens and Citizens: The Case for Open Borders\", The Review of Politics 49(2): 251–273.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1017-s0034670500033817",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/S0034670500033817",
+          "quote": "\"page\":\"251-273\""
+        }
+      ]
+    },
+    {
+      "text": "Walzer, Michael (1983), Spheres of Justice: A Defense of Pluralism and Equality, New York: Basic Books.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.walzer-michael-1983-spheres-of-justice-a-defense-of-pluralis"
+    },
+    {
+      "text": "Tuyên ngôn Quốc tế Nhân quyền (1948), Liên Hợp Quốc (văn kiện công cộng).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tuyen-ngon-quoc-te-nhan-quyen-1948-lien-hop-quoc-van-kien-co"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Năm dòng trùng bản ghi sources/* đã đóng băng. URL SEP bản lưu fall2026 mở được (curl, 200). Bài dùng SEP Citizenship và Pölzler (2019) làm căn cứ kiểm, không cần thêm vào Nguồn."
+}

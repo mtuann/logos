@@ -1,0 +1,119 @@
+{
+  "unit": "cau-hoi/nho-giao-viet.md#nguon",
+  "hash": "sha256:43b266da64773aa0df7e932d922ef6a8f78f5e35e3e881b69789f12a5f221412",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k16",
+  "claims": [
+    {
+      "text": "Mục SEP \"Confucius\": các khái niệm Nho giáo chung (nhân, nghĩa, tam cương).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Mục SEP \"Confucius\": các khái niệm Nho giáo chung (nhân, nghĩa, lễ, hiếu).",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Five behaviors of the gentleman most central to the Analects are benevolence ( ren 仁), righteousness ( yi 義), ritual propriety ( li 禮)",
+          "where": "SEP Confucius bàn nhân, nghĩa, lễ, hiếu; không có mục nào về \"tam cương\" (Three Bonds)"
+        }
+      ]
+    },
+    {
+      "text": "1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1"
+    },
+    {
+      "text": "2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb"
+    },
+    {
+      "text": "3. Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h"
+    },
+    {
+      "text": "4. Csikszentmihalyi, Mark, \"Confucius\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/confucius/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.confucius",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/confucius/",
+          "quote": "Copyright © 2024 by Mark Csikszentmihalyi",
+          "where": "URL bản lưu fall2026 mở được"
+        }
+      ]
+    },
+    {
+      "text": "5. *Bình Ngô đại cáo*, nguyên văn theo *Hoàng Việt văn tuyển* (Bùi Huy Bích, 1825), Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/wikisource.vi.binh-ngo-dai-cao",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
+          "quote": "\"Bình Ngô đại cáo\" trong Hoàng Việt văn tuyển do Bùi Huy Bích biên soạn năm 1825",
+          "where": "URL mở được"
+        }
+      ]
+    },
+    {
+      "text": "6. Bản dịch trong *Việt Nam sử lược* (Trần Trọng Kim, 1920) và trong *Lam Sơn thực lục* (Mạc Bảo Thần dịch, 1944; có nguyên văn chữ Hán), Wikisource tiếng Việt.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/wikisource.vi.binh-ngo-dai-cao-tran-trong-kim-dich",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Lam_S%C6%A1n_th%E1%BB%B1c_l%E1%BB%A5c/Cu%E1%BB%91n_th%E1%BB%A9_ba",
+          "quote": "Mạc Bảo Thần dịch",
+          "where": "URL Lam Sơn thực lục/Cuốn thứ ba mở được, có nguyên văn 仁義之舉務在安民"
+        }
+      ]
+    },
+    {
+      "text": "Danh sách Nguồn thiếu trang của câu dịch được dùng: mục Đọc văn bản gốc ghi \"Wikisource tiếng Việt ghi là bản dịch của Ngô Tất Tố\", nhưng trang đó không có trong Nguồn (trang ở mục 5 chỉ liệt kê bản dịch Trần Trọng Kim, Mạc Bảo Thần, Bùi Kỷ).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "7. *Bình Ngô đại cáo*, bản dịch của Ngô Tất Tố, Wikisource tiếng Việt. <https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)>",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o_(Ng%C3%B4_T%E1%BA%A5t_T%E1%BB%91_d%E1%BB%8Bch)",
+          "quote": "Bản dịch: Ngô Tất Tố",
+          "where": "trang Wikisource riêng của bản dịch Ngô Tất Tố"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o",
+          "quote": "Xem thêm: Bình Ngô đại cáo (bản dịch của Trần Trọng Kim ) Bình Ngô đại cáo (bản dịch của Mạc Bảo Thần ) Bình Ngô đại cáo (bản dịch của Bùi Kỷ )",
+          "where": "trang ở mục 5"
+        }
+      ]
+    },
+    {
+      "text": "Gợi ý thêm nguồn mở cho các nhận định về đặc trưng Nho giáo Việt Nam (lập trường 2, Giới triết học ngày nay)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20220808152511/http://philosophy.vass.gov.vn/triet-hoc-vietnam/Mot-so-dac-trung-co-ban-cua-Nho-giao-Viet-Nam-87.0",
+          "quote": "Tác giả: Nguyễn Tài Thư (*) Nguồn: Tạp chí Triết học, số 9 (220), tháng 9 - 2009",
+          "where": "có thể thêm: Nguyễn Tài Thư (2009), \"Một số đặc trưng cơ bản của Nho giáo Việt Nam\", Tạp chí Triết học 9 (220)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Sáu mục nguồn khớp bản ghi sources/* đã đóng băng; các URL đều mở được. Hai lỗi nhẹ: SEP Confucius không bàn \"tam cương\"; thiếu trang Wikisource của bản dịch Ngô Tất Tố."
+}
