@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#tu-kiem-tra",
-  "hash": "sha256:892ebb51817d04d9447a1f1ef113f1337135eb5e6970ca36fcf5383e21a44406",
+  "hash": "sha256:5bebdcec91d8a7fabe55c14364d26009f259d0bfd3237cb24454e275596de5f1",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03",
+  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03 + agent-kiem-5.8-q1",
   "claims": [
     {
       "text": "\"Phải có một tồn tại đầu tiên, tự mình tồn tại, mà mọi thứ khác đều do nó mà có — Aquinas gọi đó là Thượng đế\"",
@@ -83,10 +83,10 @@
   "checklist": {
     "dung-nguon": true,
     "manh-nhat": true,
-    "phan-bac": null,
+    "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu: đáp án đúng đúng, phương án sai thật sự sai, lời giải khớp bài.\nLượt 2: còn sót (con-sot): lời giải quiz câu 6 còn câu khái quát \"nhiều triết gia vô thần vẫn coi…\" đã bỏ ở Tóm tắt và Giới triết học (claim lượt 1, không nguồn) → sai nhẹ kèm fix."
+  "notes": "Năm câu: đáp án đúng đúng, phương án sai thật sự sai, lời giải khớp bài.\nLượt 2: còn sót (con-sot): lời giải quiz câu 6 còn câu khái quát \"nhiều triết gia vô thần vẫn coi…\" đã bỏ ở Tóm tắt và Giới triết học (claim lượt 1, không nguồn) → sai nhẹ kèm fix.\nLượt 3 (agent-kiem-5.8-q1): claim 6 đã sửa đúng ý fix (lời giải câu 6: \"Nhưng số đông không quyết định chân lý, và tranh luận về từng luận chứng vẫn tiếp diễn.\"); không thêm điều cần nguồn. data-id giữ nguyên."
 }

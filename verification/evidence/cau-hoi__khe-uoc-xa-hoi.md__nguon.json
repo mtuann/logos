@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/khe-uoc-xa-hoi.md#nguon",
-  "hash": "sha256:b8e2bad9a14a3cb6007162baf7c3a0718144d213c3e987affa28d425a25513aa",
+  "hash": "sha256:d2487635f480f1b0bafb7d22ac21f5bc14c16ca5a22fde02537d75d598c40496",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06",
+  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06 + agent-kiem-5.8-q3",
   "claims": [
     {
       "text": "Hobbes, Thomas, *Leviathan* (1651), Project Gutenberg. <https://www.gutenberg.org/ebooks/3207>",
@@ -88,6 +88,12 @@
           "quote": "Private Government | Princeton University Press"
         }
       ]
+    },
+    {
+      "text": "8. Anderson, Elizabeth (2017), *Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It)*, Princeton: Princeton University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.anderson-elizabeth-2017-private-government-how-employers-rul"
     }
   ],
   "checklist": {
@@ -98,5 +104,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Các URL SEP bản lưu fall2026 và davidhume.org tải được trong phiên; www.gutenberg.org trả 503 (bảo trì) nên nội dung đối chiếu qua mirror gutenberg.pglaf.org.\nLượt 2: Chỗ còn sót: thân bài (Các lập trường chính) nêu 'Elizabeth Anderson (*Private Government*, 2017)' nhưng Nguồn không có. Ghi claim sai mức nhẹ, fix là dòng nguồn (đối chiếu trang Princeton University Press, tải trong phiên)."
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Các URL SEP bản lưu fall2026 và davidhume.org tải được trong phiên; www.gutenberg.org trả 503 (bảo trì) nên nội dung đối chiếu qua mirror gutenberg.pglaf.org.\nLượt 2: Chỗ còn sót: thân bài (Các lập trường chính) nêu 'Elizabeth Anderson (*Private Government*, 2017)' nhưng Nguồn không có. Ghi claim sai mức nhẹ, fix là dòng nguồn (đối chiếu trang Princeton University Press, tải trong phiên).\nLượt 3: dòng mới 8 (Anderson 2017) đúng nguyên văn fix, trùng bản ghi kho đã đóng băng; giữ fixed, thêm claim dung dùng kb."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/mo-phong.md#tu-kiem-tra",
-  "hash": "sha256:6e546e2ce38d209a19773a05b2afa0eac731569999aba560b742044eb8e576a1",
+  "hash": "sha256:1e1950936f531e8b74c004dab37550a92ee02491b4f492f72b65eae8aa544428",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k12 + agent-kiem-5.8-r04",
+  "checker": "agent-kiem-5.8-k12 + agent-kiem-5.8-r04 + agent-kiem-5.8-q1",
   "claims": [
     {
       "text": "Câu 1: bộ ba của Bostrom — đáp án 0; giải thích 'Bostrom không khẳng định mệnh đề nào đúng, chỉ nói ít nhất một trong ba phải đúng'",
@@ -108,11 +108,11 @@
   ],
   "checklist": {
     "dung-nguon": true,
-    "manh-nhat": null,
-    "phan-bac": null,
+    "manh-nhat": true,
+    "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu: đáp án đúng, phương án sai đều sai, lời giải khớp bài. data-id meta-c4 giữ nguyên. Lượt 2: lời giải câu 2 đã sửa đúng. Chỗ còn sót: (1) câu 5 gõ tay 27,5/54,2: quiz-bank không mở shortcode nên quiz giữ số gõ tay (tools/lint_so_lieu.py), số khớp kho philpapers/tai-tam-tri-… đã đóng băng (sống sót 27,5; chết 54,2): không lỗi. (2) câu 4 phương án đúng \"Ủng hộ lập trường phản bác\" lệch nhẹ với thân bài đã sửa (Putnam phản bác theo hướng khác, không phải lập luận \"trống rỗng\"): claim sai nhẹ mới; data-id meta-c4 giữ nguyên."
+  "notes": "Năm câu: đáp án đúng, phương án sai đều sai, lời giải khớp bài. data-id meta-c4 giữ nguyên. Lượt 2: lời giải câu 2 đã sửa đúng. Chỗ còn sót: (1) câu 5 gõ tay 27,5/54,2: quiz-bank không mở shortcode nên quiz giữ số gõ tay (tools/lint_so_lieu.py), số khớp kho philpapers/tai-tam-tri-… đã đóng băng (sống sót 27,5; chết 54,2): không lỗi. (2) câu 4 phương án đúng \"Ủng hộ lập trường phản bác\" lệch nhẹ với thân bài đã sửa (Putnam phản bác theo hướng khác, không phải lập luận \"trống rỗng\"): claim sai nhẹ mới; data-id meta-c4 giữ nguyên.\nLượt 3 (agent-kiem-5.8-q1): claim 7 đã sửa đúng ý fix (câu 4, phương án đúng: \"Phản bác giả thuyết hoài nghi theo một hướng khác với lập luận 'không thể kiểm chứng': …\"); đáp án vẫn là 3, data-id meta-c4 giữ nguyên. Không có chữ mới nào khác."
 }
