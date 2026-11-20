@@ -16,7 +16,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | 3 | Tách thời sự và số đếm | 7/12–13/12/2026 | **Xong** 5/11/2026 (tag `v1.3`) — `ban-giao/dot-3.md`, nhật ký `ban-giao/nhat-ky-dot-3.md` |
 | 4 | Giao diện tối thiểu | 14/12–20/12/2026 | **Xong** 5/11/2026 (tag `v1.4`) — `ban-giao/dot-4.md`, nhật ký `ban-giao/nhat-ky-dot-4.md` |
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
-| 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Xong** 20/11/2026 (chờ CI để gắn tag `v1.5`; đóng băng "Claude duyệt tạm", chủ biên duyệt lại) — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
+| 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Xong** 20/11/2026 (chờ CI để gắn tag `v1.5`; đóng băng 5.1–5.8 chủ biên duyệt 20/11/2026) — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
 | 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | **Xong** 20/11/2026 (chờ CI để gắn tag `v1.6`) — `ban-giao/dot-6.md`, nhật ký `ban-giao/nhat-ky-dot-6.md` |
 | 7 | Vận hành Mở rộng | từ 26/4/2027 | Chưa |
 
