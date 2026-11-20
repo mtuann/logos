@@ -12233,7 +12233,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
 <script type="application/json">
 [
  {
-  "q": "Theo Hume, khi nhìn hai quả bi-a va nhau, ta tri giác được những gì?",
+  "q": "Theo Hume, khi nhìn hai quả bi-a va nhau nhiều lần, ta tri giác được những gì?",
   "options": [
    "Quyền năng tất yếu nối nguyên nhân với kết quả",
    "Mọi thứ, kể cả mối liên hệ tất yếu",
