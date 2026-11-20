@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/thoi-gian.md#cac-lap-truong-chinh",
-  "hash": "sha256:0af14d04d6db819b90a587362c662deb4b3465fa82d8a3598b92cc494607d83c",
+  "hash": "sha256:693041eac60c11be81a59ea0a8436fbeee47d571ed9e6d6b4a0d7e1fb9aed8da",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k11 + agent-kiem-5.8-r04",
+  "checker": "agent-kiem-5.8-k11 + agent-kiem-5.8-r04 + claude-sau-mau-5.8",
   "claims": [
     {
       "text": "**Hiện tại luận** (*presentism*) khẳng định: chỉ những gì *đang* tồn tại mới thật sự tồn tại.",
@@ -361,6 +361,41 @@
           "where": "§4"
         }
       ]
+    },
+    {
+      "text": "Nó cũng khớp với trực giác đạo đức: ta chịu trách nhiệm vì ta có thể thay đổi tương lai — điều vô nghĩa nếu tương lai đã \"có sẵn\".",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Nó cũng khớp với trực giác rằng tương lai còn để ngỏ: ta cân nhắc, lựa chọn và chịu trách nhiệm như thể tương lai chưa có sẵn.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/presentism/",
+          "quote": "Another way to motivate presentism is via appeal to experience.",
+          "where": "mục 2 (các động cơ của hiện tại luận SEP nêu: trực giác thông thường, kinh nghiệm, tính tiết kiệm; không có lập luận trách nhiệm đạo đức)"
+        },
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Eternalism is consistent with both indeterminism and determinism.",
+          "where": "mục 14.a"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Hóa thạch, ký ức, tài liệu cho ta biết về quá khứ, nhưng chưa đủ làm cho câu đúng, vì nhiều sự thật về quá khứ không để lại dấu vết nào.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Có người cho rằng chính hóa thạch, ký ức, tài liệu ở hiện tại làm cho câu đúng; người phản đối đáp rằng nhiều sự thật về quá khứ không để lại dấu vết nào.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "They say what makes a tensed proposition true are only features of the present way that things are, perhaps traces of the past in pages of present books and in our memories.",
+          "where": "mục 14.a, về hiện tại luận"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -371,5 +406,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ba lập trường đủ ba nhãn. Lập trường 3 \"Khối đang lớn\" (viết thêm): Broad 1923 (IEP, SEP Broad, kb works/chua-ro.scientific-thought), lập luận mạnh nhất, phản bác, cách đáp lại đều có trong SEP Broad/Presentism, IEP Time; Tooley và \"orthodoxy remains strongly opposed\" khớp SEP Presentism §8. Lưu ý thêm (không tính lỗi): SEP Broad ghi Broad về sau (1959) tự thấy thuyết khối đang lớn có khuyết điểm và lập luận \"tốc độ trôi\" có lẽ cũng đụng tới thuyết này; câu \"Broad trả lời rằng khối không lớn thêm *trong* một thứ gì khác\" là diễn giải hợp lý từ quan niệm \"trở thành\" của Broad, SEP không nêu nguyên văn thành câu trả lời cho câu hỏi \"lớn trong cái gì\". Lỗi vừa: cách đáp lại của hiện tại luận dựa vào \"dấu vết\" yếu hơn các cách đáp thật trong văn liệu (SEP §6), nên lập trường chưa ở dạng mạnh nhất; câu đố \"một giây mỗi giây\" nêu như kết luận chắc chắn trong khi IEP ghi có người phản bác. Lượt 2: ba claim sai đã sửa đúng, chữ khớp fix (các cách đáp truth-maker: Bigelow/Lucretian, ersatz, phủ nhận truth-maker; tân Lorentz và phiên bản tương thích STR; Smart và Norton, Maudlin)."
+  "notes": "Ba lập trường đủ ba nhãn. Lập trường 3 \"Khối đang lớn\" (viết thêm): Broad 1923 (IEP, SEP Broad, kb works/chua-ro.scientific-thought), lập luận mạnh nhất, phản bác, cách đáp lại đều có trong SEP Broad/Presentism, IEP Time; Tooley và \"orthodoxy remains strongly opposed\" khớp SEP Presentism §8. Lưu ý thêm (không tính lỗi): SEP Broad ghi Broad về sau (1959) tự thấy thuyết khối đang lớn có khuyết điểm và lập luận \"tốc độ trôi\" có lẽ cũng đụng tới thuyết này; câu \"Broad trả lời rằng khối không lớn thêm *trong* một thứ gì khác\" là diễn giải hợp lý từ quan niệm \"trở thành\" của Broad, SEP không nêu nguyên văn thành câu trả lời cho câu hỏi \"lớn trong cái gì\". Lỗi vừa: cách đáp lại của hiện tại luận dựa vào \"dấu vết\" yếu hơn các cách đáp thật trong văn liệu (SEP §6), nên lập trường chưa ở dạng mạnh nhất; câu đố \"một giây mỗi giây\" nêu như kết luận chắc chắn trong khi IEP ghi có người phản bác. Lượt 2: ba claim sai đã sửa đúng, chữ khớp fix (các cách đáp truth-maker: Bigelow/Lucretian, ersatz, phủ nhận truth-maker; tân Lorentz và phiên bản tương thích STR; Smart và Norton, Maudlin). Sau mẫu 5.8: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

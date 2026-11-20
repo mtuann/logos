@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tai-san-rieng.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:78789ee5af0518018221b222b94d10502bcd4f323481a074a7d85249692caac9",
+  "hash": "sha256:220a424fbbe3b48f388465aecd42b5f2bacb1dbf14b233c16d63d0168ec7a76e",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06",
+  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06 + claude-sau-mau-5.8",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không hỏi thẳng \"quyền sở hữu tư nhân có chính đáng không\"",
@@ -136,6 +136,25 @@
           "where": "mục 3.2"
         }
       ]
+    },
+    {
+      "text": "Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc của các khóa học triết học chính trị, và các lời phê phán (từ Proudhon đến các nhà bình đẳng may mắn ngày nay) chưa bao giờ ngừng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc khi bàn về sở hữu, và các lời phê phán (từ Proudhon đến các nhà bình đẳng ngày nay) chưa bao giờ ngừng.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Locke’s theory is widely regarded as the most interesting of the canonical discussions of property."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Cohen concludes that various egalitarian arrangements (like welfare paid for out of taxation) are incompatible with the self-ownership of the rich",
+          "where": "nguồn nói về các nhà bình đẳng nói chung; không có nguồn cho 'các khóa học' hay riêng 'bình đẳng may mắn' là phe phê phán sở hữu"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -146,5 +165,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu đúng câu khảo sát (shortcode lấy từ kho philpapers đã đóng băng; đã đối chiếu thêm Bảng 2 của bài báo). Câu \"Rất ít triết gia…\" là khái quát không có nguồn khảo sát; fix đề xuất dựa trên SEP.\nLượt 2: Câu bổ sung không dùng đúng chữ fix mà viết '(được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm)'; đúng ý fix và khớp Bourget & Chalmers 2023 mục 3.2 (tải lại trong phiên), ghi claim dung mới; fixed giữ true. Câu 'Ngay trong luật học…' đúng chữ fix."
+  "notes": "Số liệu đúng câu khảo sát (shortcode lấy từ kho philpapers đã đóng băng; đã đối chiếu thêm Bảng 2 của bài báo). Câu \"Rất ít triết gia…\" là khái quát không có nguồn khảo sát; fix đề xuất dựa trên SEP.\nLượt 2: Câu bổ sung không dùng đúng chữ fix mà viết '(được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm)'; đúng ý fix và khớp Bourget & Chalmers 2023 mục 3.2 (tải lại trong phiên), ghi claim dung mới; fixed giữ true. Câu 'Ngay trong luật học…' đúng chữ fix. Sau mẫu 5.8: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }
