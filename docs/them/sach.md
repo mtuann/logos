@@ -8640,7 +8640,7 @@ Lập trường đầu tiên nói thẳng: một xã hội mà người này s�
 
 **Phản bác chính.** Phản bác "hạ bằng": giả sử có hai xã hội. Xã hội A: mọi người đều có 10 đồng. Xã hội B: một nửa có 10 đồng, một nửa có 100 đồng — không ai trong xã hội B khổ hơn người trong xã hội A, chỉ là có người sướng hơn. Người theo bình đẳng kết quả phải nói A tốt hơn B (vì bình đẳng hơn). Nhưng trực giác của hầu hết chúng ta nói ngược lại: B tốt hơn, vì có người được lợi mà không ai bị hại. Nếu bình đẳng đòi ta chọn A, thì bình đẳng đang đòi ta làm cho *mọi người tệ đi* nhân danh một con số đẹp — điều đó khó gọi là đạo đức.
 
-**Cách đáp lại.** Người bênh vực bình đẳng kết quả có hai đường đáp. Đường thứ nhất: phủ nhận ví dụ — trong đời thực, chênh lệch *luôn* đi kèm quyền lực chênh lệch, và quyền lực của người giàu *luôn* làm cho người nghèo tệ đi (chi phối chính sách, thao túng thị trường). Không có xã hội B "vô hại" trong thực tế. Đường thứ hai, khiêm tốn hơn: thừa nhận hạ bằng là vấn đề thật, và chuyển sang đòi bình đẳng *có điều kiện* — san bằng chỉ khi nó không làm ai tệ đi, tức là tiến gần về phía lập trường 3. Nhiều người theo chủ nghĩa bình đẳng ngày nay đi theo đường thứ hai.
+**Cách đáp lại.** Người bênh vực bình đẳng kết quả có hai đường đáp. Đường thứ nhất: phủ nhận ví dụ — trong đời thực, chênh lệch *luôn* đi kèm quyền lực chênh lệch, và quyền lực của người giàu *luôn* làm cho người nghèo tệ đi (chi phối chính sách, thao túng thị trường). Không có xã hội B "vô hại" trong thực tế. Đường thứ hai, khiêm tốn hơn: thừa nhận hạ bằng là vấn đề thật, và chuyển từ bình đẳng sang *ưu tiên* (*priority*), như [Derek Parfit](../triet-gia/parfit.md) đề xuất: điều quan trọng là cải thiện đời sống của người khó khăn hơn, chứ không phải bình đẳng tự thân, nên không ai bị kéo xuống chỉ để cho bằng nhau. Bước chuyển này cũng có cái giá riêng, và việc có cần đến nó để thoát phản bác hạ bằng hay không vẫn còn tranh luận.
 
 ### 2. Bình đẳng cơ hội: cùng luật chơi, ai giỏi thì thắng
 
@@ -8668,7 +8668,7 @@ Dworkin phân biệt hai loại may rủi. **May rủi thuần túy** (*brute lu
 
 Một phản bác khác, thực tế hơn: ranh giới giữa may rủi và lựa chọn mờ hơn lý thuyết tưởng. Người "chọn" cờ bạc có thể là nạn nhân của tuổi thơ bất hạnh, của gen nghiện ngập, của quảng cáo bủa vây — những thứ chính là may rủi thuần túy đội lốt lựa chọn. Càng đào sâu, "lựa chọn thuần túy" càng co lại, và lý thuyết càng khó áp dụng.
 
-**Cách đáp lại.** Người theo Dworkin đáp rằng bảo hiểm giả định đã tính đến sự tàn nhẫn: người có lý trí trong thị trường bảo hiểm giả định *sẽ* mua bảo hiểm chống lại cả những lựa chọn sai lầm nghiêm trọng của chính mình trong tương lai — vì ai cũng biết mình có thể sai lầm. Còn về sự xoi mói, họ nói: mọi chính sách phúc lợi đều phải xét hoàn cảnh ở mức nào đó; câu hỏi không phải "có xét hay không" mà là "xét thế nào cho tôn trọng phẩm giá". Và về ranh giới mờ, họ thừa nhận — nhưng cho rằng mờ không có nghĩa là không có: ta vẫn phân biệt được trường hợp rõ ràng (khuyết tật bẩm sinh vs nướng tiền vào cờ bạc), và luật pháp vốn sống chung với ranh giới mờ mỗi ngày.
+**Cách đáp lại.** Người bênh vực bình đẳng may mắn thường đáp sự tàn nhẫn bằng cách kết hợp nguyên tắc may rủi với những giá trị khác: G. A. Cohen viện đến giá trị cộng đồng, vốn cấm những bất bình đẳng mà một hệ thống bình đẳng may mắn thuần túy cho phép; người khác cho rằng có những trường hợp khốn cùng đến mức phải giúp, kể cả khi người ta lâm vào đó do lỗi của chính mình. Còn về sự xoi mói, họ nói: mọi chính sách phúc lợi đều phải xét hoàn cảnh ở mức nào đó; câu hỏi không phải "có xét hay không" mà là "xét thế nào cho tôn trọng phẩm giá". Và về ranh giới mờ, họ thừa nhận — nhưng cho rằng mờ không có nghĩa là không có: ta vẫn phân biệt được trường hợp rõ ràng (khuyết tật bẩm sinh vs nướng tiền vào cờ bạc), và luật pháp vốn sống chung với ranh giới mờ mỗi ngày.
 
 ## Giới triết học ngày nay nghĩ gì
 
@@ -8685,7 +8685,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 Con số cần được đọc đúng tầm của nó. [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% là tỉ lệ chấp nhận hoặc nghiêng về một *nhãn* rộng, đặt cạnh hai nhãn đối thủ; nó không cho biết những người ấy hiểu bình đẳng là bình đẳng kết quả, cơ hội thực chất hay bình đẳng may mắn — tức chính câu hỏi của bài này. Người trả lời là khoảng [[pp:triet-hoc-chinh-tri/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020: con số không đại diện cho mọi truyền thống triết học, và tỉ lệ đồng thuận không quyết định ai đúng. (Bảng này được bàn kỹ hơn trong bài [Công lý là gì?](../cau-hoi/cong-ly.md).)
 
-Ngoài con số, công lý phân phối là một trong những ngành sôi nổi nhất của triết học chính trị từ khi Rawls xuất bản *A Theory of Justice* (1971). Chủ nghĩa bình đẳng may mắn từng là hướng nghiên cứu thống trị trong những năm 1980–1990 (Dworkin, Cohen, Arneson), rồi bị Anderson phê phán mạnh từ 1999, và cuộc tranh luận vẫn tiếp diễn. Vì khảo sát không hỏi trực tiếp "bình đẳng về cái gì", ta không nên suy từ con số [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% ra rằng giới triết học nghiêng về lập trường nào trong ba lập trường của bài.
+Ngoài con số, công lý phân phối là một trong những ngành sôi nổi nhất của triết học chính trị từ khi Rawls xuất bản *A Theory of Justice* (1971). Chủ nghĩa bình đẳng may mắn (Dworkin, Cohen, Arneson) trở thành một trong những lý thuyết bình đẳng có ảnh hưởng nhất từ những năm 1980, rồi bị Anderson phê phán mạnh từ 1999, và cuộc tranh luận vẫn tiếp diễn. Vì khảo sát không hỏi trực tiếp "bình đẳng về cái gì", ta không nên suy từ con số [[pp:triet-hoc-chinh-tri.chu-nghia-binh-dang-egalitarianism]]% ra rằng giới triết học nghiêng về lập trường nào trong ba lập trường của bài.
 
 Một lưu ý: ba lập trường không loại trừ nhau hoàn toàn. Nhiều triết gia ngày nay kết hợp chúng: đòi bình đẳng cơ hội thực chất *và* bù đắp may rủi thuần túy *và* chấp nhận một số chênh lệch do lựa chọn. Câu hỏi khó, như mọi khi, không phải "chọn phe nào" mà là khi các yêu cầu xung đột — ví dụ khi bù đắp đầy đủ cho may rủi đòi mức thuế mà người dân không chịu nổi — ta ưu tiên cái nào.
 
@@ -8701,15 +8701,15 @@ Một lưu ý: ba lập trường không loại trừ nhau hoàn toàn. Nhiều 
 
 Một ghi chú thành thật: các tác phẩm gốc của Dworkin (1981), Cohen (1989) và Anderson (1999) đều còn bản quyền, nên bài này không trích dài mà tóm tắt cốt lõi bằng lời mình. Dưới đây là sự phân biệt trung tâm của Dworkin, diễn đạt lại ngắn gọn:
 
-> **May rủi thuần túy (*brute luck*):** những rủi ro mà bạn không chọn và không thể tránh — nơi sinh, gen di truyền, tai nạn bất ngờ. Công bằng đòi bù đắp.
+> **May rủi thuần túy (*brute luck*):** những rủi ro mà bạn không chọn và không thể tránh — nơi sinh, gen di truyền, tai nạn bất ngờ. Công bằng đòi bù đắp, ở mức bảo hiểm mà người có lý trí sẽ mua nếu chưa biết mình có gặp rủi ro hay không.
 >
-> **May rủi do lựa chọn (*option luck*):** kết quả của những canh bạc bạn tự nguyện tham gia — đầu tư, cờ bạc, lối sống rủi ro. Công bằng không đòi bù đắp (ngoài mức bảo hiểm mà người có lý trí sẽ mua cho chính mình).
+> **May rủi do lựa chọn (*option luck*):** kết quả của những canh bạc bạn tự nguyện tham gia — đầu tư, cờ bạc, lối sống rủi ro. Công bằng không đòi bù đắp.
 
 Nếu muốn đọc sâu, các mục "Egalitarianism" và "Equality" trong *Stanford Encyclopedia of Philosophy* tóm tắt trung thành toàn bộ cuộc tranh luận, từ Rawls qua Dworkin đến Anderson.
 
 Câu hỏi dẫn dắt:
 
-1. Anderson chê chủ nghĩa bình đẳng may mắn là "tàn nhẫn" và "xoi mói". Bạn có thấy lời chê này công bằng không? Người theo Dworkin có thể đáp lại bằng "bảo hiểm giả định" — bạn thấy cách đáp đó thuyết phục không?
+1. Anderson chê chủ nghĩa bình đẳng may mắn là "tàn nhẫn" và "xoi mói". Bạn có thấy lời chê này công bằng không? Người bênh vực bình đẳng may mắn có thể đáp rằng nguyên tắc may rủi cần kết hợp với những giá trị khác, như cộng đồng hay một mức tối thiểu cho mọi người — bạn thấy cách đáp đó thuyết phục không?
 2. Hãy thử áp dụng phân biệt may rủi/lựa chọn vào một chính sách cụ thể mà bạn biết (ví dụ: trợ cấp thất nghiệp, học bổng). Ranh giới có rõ như lý thuyết nói không?
 3. Phản bác "hạ bằng" (levelling down) chống lại lập trường 1. Bạn có thể nghĩ ra một *biến thể* của nó để chống lại lập trường 3 không? (Gợi ý: có cách nào "bù đắp may rủi" mà làm cho mọi người đều tệ đi không?)
 
