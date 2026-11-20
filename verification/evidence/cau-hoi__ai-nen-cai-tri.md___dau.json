@@ -1,0 +1,162 @@
+{
+  "unit": "cau-hoi/ai-nen-cai-tri.md#_dau",
+  "hash": "sha256:5ea96b44701f1fbc5178daa0a72f834fec6b85e804e29b61f2f3fdc5f0be3062",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Platon (Cộng hòa, hình ảnh con tàu Quyển VI): cai trị là một nghệ thuật (technē) cần tri thức — giao nó cho số đông cũng dại dột như biểu quyết chọn phi công.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Plato argues that democracy is inferior to various forms of monarchy, aristocracy and even oligarchy on the grounds that democracy tends to undermine the expertise necessary to the proper governance of societies (Plato 1974, Book VI).",
+          "where": "2.1.2"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "every one is of opinion that he has a right to steer, though he has never learned the art of navigation",
+          "where": "Quyển VI"
+        }
+      ]
+    },
+    {
+      "text": "Phản bác: \"vua triết gia\" trong thực tế trông thế nào, và ai canh chừng ông ta?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Plato argues instead that the state should be ruled by philosopher-kings who have the wisdom and moral character required for good rule.",
+          "where": "2.1.2"
+        }
+      ]
+    },
+    {
+      "text": "Churchill và truyền thống dân chủ: không bênh vực dân chủ vì số đông khôn ngoan, mà vì nó là cơ chế ít tệ nhất — cho phép loại bỏ kẻ cai trị tồi mà không đổ máu (Popper)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time",
+          "where": "HC Deb 11/11/1947, cột 207"
+        },
+        {
+          "url": "https://iep.utm.edu/popp-pol/",
+          "quote": "Better than any other system, democracies permit the change of government without bloodshed.",
+          "where": "mục Minimalist Democracy"
+        }
+      ]
+    },
+    {
+      "text": "cộng thêm lý do bình đẳng phẩm giá và sự phân tán tri thức trong số đông",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "the intrinsic arguments from liberty, public justification and equality",
+          "where": "4.2.1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "democratic procedures are best able to exploit the underlying cognitive diversity of large groups of citizens to solve collective problems",
+          "where": "2.1.1"
+        }
+      ]
+    },
+    {
+      "text": "Brennan (Against Democracy, 2016)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/chua-ro.against-democracy"
+    },
+    {
+      "text": "lá phiếu của cử tri mù mờ gây hại cho người khác, nên ... quyền bầu cử cũng có thể đòi một mức năng lực tối thiểu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voting/",
+          "quote": "Majority voters do not just choose for themselves, but for everyone, including dissenting minorities, children, non-voters, resident aliens, and people in other countries affected by their decisions.",
+          "where": "3 (tác giả mục: Jason Brennan)"
+        },
+        {
+          "url": "https://politikon.iapss.org/index.php/politikon/article/view/383",
+          "quote": "He argues political power should not be held by incompetent and morally unreasonable people (i.e., the competence principle)",
+          "where": "tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "như bằng lái xe đòi năng lực trước khi cho lái, quyền bầu cử cũng có thể đòi một mức năng lực tối thiểu (ví von gán cho Brennan)",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Phản bác \"ai ra đề?\": không có cách trung lập để định nghĩa \"hiểu biết\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voting/",
+          "quote": "reasonable people could disagree about just what counts as expertise and just who the experts are",
+          "where": "6.2"
+        }
+      ]
+    },
+    {
+      "text": "lịch sử các bài kiểm tra cử tri luôn biến thành công cụ loại trừ người nghèo và thiểu số",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "lịch sử các bài kiểm tra cử tri (như kiểm tra đọc viết ở miền Nam nước Mỹ) cho thấy chúng dễ bị biến thành công cụ loại trừ người nghèo và thiểu số.",
+      "sources": [
+        {
+          "url": "https://www.justice.gov/crt/introduction-federal-voting-rights-laws",
+          "quote": "Such disfranchising laws included poll taxes, literacy tests, vouchers of \"good character,\" and disqualification for \"crimes of moral turpitude.\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voting/",
+          "quote": "If such a voter examination system were implemented, the resulting electorate would be whiter, maler, richer, more middle-aged, and better employed than the population at large.",
+          "where": "6.2"
+        }
+      ]
+    },
+    {
+      "text": "Thái độ của bài: điểm cốt lõi là phân biệt quyết định kỹ thuật ... với quyết định giá trị ...; câu hỏi đúng ... là việc nào hợp với cơ chế nào",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ai-nen-cai-tri/",
+          "quote": "Vấn đề không phải \"dân chủ hay chuyên gia\" cho mọi việc, mà là việc nào hợp với cơ chế nào",
+          "where": "Liên hệ đời sống: khớp thân bài"
+        }
+      ]
+    },
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về chủ đề này nên bài không trích số liệu nào.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri"
+    },
+    {
+      "text": "Platon đã hỏi nó từ 2.400 năm trước",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "people/platon"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Câu PhilPapers: đối chiếu danh sách 100 câu ở tools/philpapers-2020.md, không câu nào hỏi về dân chủ/epistocracy; câu gần nhất là \"Triết học chính trị\". Platon k. 428–347 TCN (people/platon), Cộng hòa khoảng 380–375 TCN nên \"2.400 năm\" là xấp xỉ hợp lý. Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe."
+}

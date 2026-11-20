@@ -1,0 +1,64 @@
+{
+  "unit": "cau-hoi/ai-nen-cai-tri.md#nguon",
+  "hash": "sha256:6e1bd1bed8838cf63fcc93bfb1539dc87eadc7cbdb4aaaad018afaf2728f03fe",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Đoạn được dẫn: Platon, Cộng hòa, quyển VI (488a–489d).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=488a",
+          "quote": "Conceive this sort of thing happening either on many ships or on one: Picture a shipmaster",
+          "where": "488a"
+        },
+        {
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168:book=6:section=489c",
+          "quote": "you will make no mistake in likening our present political rulers to the sort of sailors we are just describing",
+          "where": "489c"
+        }
+      ]
+    },
+    {
+      "text": "Christiano, Thomas & Sameer Bajaj, \"Democracy\", Stanford Encyclopedia of Philosophy. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.democracy"
+    },
+    {
+      "text": "Platon, The Republic, bản dịch Jowett ..., Project Gutenberg #1497",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1497"
+    },
+    {
+      "text": "Brennan, Jason (2016), Against Democracy, Princeton: Princeton University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.brennan-jason-2016-against-democracy-princeton-princeton-uni"
+    },
+    {
+      "text": "Churchill, Winston, phát biểu tại Hạ viện Anh, 11/11/1947, Hansard (Hạ viện), tập 444, cột 207.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.api-parliament-uk.historic-hansard-commons-1947-nov-11-parliament-bi"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", Philosophers' Imprint 23, bài số 11, 2023.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. URL SEP fall2026, Hansard, Princeton đều mở được trong phiên này. Gutenberg đang bảo trì, đã đọc qua mirror gutenberg.pglaf.org."
+}

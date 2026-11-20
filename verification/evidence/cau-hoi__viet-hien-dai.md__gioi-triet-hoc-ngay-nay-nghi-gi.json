@@ -1,0 +1,50 @@
+{
+  "unit": "cau-hoi/viet-hien-dai.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:5cbcc98eec8ae3cbf883796c6af2907566e01ce31268cc2dc00f34b6eb8f419b",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k17",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt Nam hay triết học ngoài phương Tây nói chung, nên mục này ghi đúng như vậy: **chưa có số liệu khảo sát riêng**",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "ngày càng nhiều triết gia và chương trình đào tạo kêu gọi \"phi thực dân hóa\" (*decolonize*) chương trình triết học — đưa triết học Trung Hoa, Ấn Độ, châu Phi, Mỹ Latinh vào giảng dạy ngang hàng với [Platon](../triet-gia/platon.md) và Kant **[có cơ sở]** (đây là một phong trào có thật, với các tranh luận công khai trên các tạp chí triết học)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.soas.ac.uk/about/blog/decolonising-philosophy-curriculum-my-experience-soas-co-creator-intern",
+          "quote": "As a SOAS Co-creator Intern, Danae Miserocchi helped develop the UK's first Decolonising Philosophy Toolkit.",
+          "where": "SOAS (London), blog 2020s"
+        },
+        {
+          "url": "https://unherd.com/2024/06/the-case-for-decolonising-philosophy/",
+          "quote": "If I had a criticism of efforts to decolonise university curricula",
+          "where": "nguồn yếu: tiểu luận Christopher Harding trên UnHerd, 6/2024 — cho thấy tranh luận công khai"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/platon/",
+          "quote": "Platon"
+        }
+      ]
+    },
+    {
+      "text": "những người đọc cả Nguyễn Tài Thư lẫn Chalmers, cả Trần Đình Hượu lẫn Habermas — sẽ viết ra triết học như thế nào? Câu trả lời chưa có, vì nó đang được viết **[suy đoán]**",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Đối chiếu tools/philpapers-2020.md (100 câu chính và bổ sung): không có câu nào về triết học Việt Nam hay ngoài phương Tây; trang kết quả survey2020.philpeople.org chặn công cụ (Cloudflare) nên căn cứ là bản ghi kho đã đóng băng. Không có shortcode [[pp:…]] hay [[thoi-su:…]] trong đơn vị. Gợi ý (không bắt buộc): \"các tranh luận công khai trên các tạp chí triết học\" nên kèm một bài học thuật cụ thể, ví dụ Lucy Allais (2016), South African Journal of Philosophy — chưa mở được bản toàn văn (philarchive trả HTML)."
+}

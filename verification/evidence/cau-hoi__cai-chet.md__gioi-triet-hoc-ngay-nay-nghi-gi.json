@@ -1,0 +1,144 @@
+{
+  "unit": "cau-hoi/cai-chet.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:07be055badc28f3885a475bc317fc95de978fc5ff0e61ecf5bbf2bddc9298ee5",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k13",
+  "claims": [
+    {
+      "text": "Bảng \"Bất tử: bạn có chọn không?\" (câu bổ sung): Có, Không, Khác, n ≈",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/bat-tu-ban-co-chon-khong"
+    },
+    {
+      "text": "một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) ... Bảng 2 ... \"chấp nhận hoặc nghiêng về\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer."
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Immortality (would you choose it?) Yes 500 44.9 No 460 41.3 Other 151 13.6",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Giới triết học chia gần đôi: 44,9% sẽ chọn bất tử, 41,3% sẽ không — hai bên chênh nhau chưa tới bốn điểm phần trăm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/bat-tu-ban-co-chon-khong",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Immortality (would you choose it?) Yes 500 44.9 No 460 41.3 Other 151 13.6",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "với Nagel, sống thêm luôn là điều tốt, nên cái chết đến lúc nào cũng là một mất mát",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death/",
+          "quote": "Of particular interest here is a dispute between Thomas Nagel, who says that death is an evil whenever it comes, and Bernard Williams",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Epicurus thì viết rằng hiểu đúng về cái chết sẽ giải thoát ta khỏi khao khát bất tử",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/7/3/4/57342/57342-0.txt",
+          "quote": "the correct knowledge of the fact that death is no concern of ours, makes the mortality of life pleasant to us, inasmuch as it sets forth no illimitable time, but relieves us for the longing for immortality.",
+          "where": "Quyển X, thư gửi Menœceus"
+        }
+      ]
+    },
+    {
+      "text": "lập luận nổi tiếng của Bernard Williams (1973) rằng một đời sống bất tận rốt cuộc sẽ trở nên nhàm chán không chịu nổi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.williams-bernard-1973-the-makropulos-case-reflections-on-the",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death/",
+          "quote": "In his influential essay “The Makropulos Case: Reflections on the Tedium of Immortality,” Williams argues that although the deaths of some persons is a misfortune for them, never dying would be intolerable.",
+          "where": "mục 7.2"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi cũng chỉ gồm mấy chữ (\"bất tử — bạn có chọn không?\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Immortality (would you choose it?) Yes 500 44.9 No 460 41.3 Other 151 13.6",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Mẫu khảo sát là khoảng [n] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "In October 2020, we carried out a follow-up survey: the 2020 PhilPapers Survey."
+        },
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "strongest coverage on English-speaking and English-publishing philosophers"
+        }
+      ]
+    },
+    {
+      "text": "tranh luận Epicurus – Nagel vẫn là trục chính của triết học về cái chết đương đại: hầu hết các bài viết sau này hoặc bênh vực lập luận tước đoạt, hoặc tìm cách cứu lập luận của Epicurus khỏi nó.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ngoài con số, có thể nói: tranh luận Epicurus – Nagel vẫn là một trục chính của triết học về cái chết đương đại: nhiều bài viết sau này hoặc bênh vực lập luận tước đoạt, hoặc tìm cách cứu lập luận của Epicurus khỏi nó.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death/",
+          "quote": "Perhaps the most influential case against the harm thesis was made by Epicurus. His argument is discussed, as is a contemporary response, the deprivationist defense of the harm thesis.",
+          "where": "phần mở đầu"
+        }
+      ]
+    },
+    {
+      "text": "Không phe nào cho rằng người sợ chết là \"ngu ngốc\".",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Dù vậy, ngay trong *Thư gửi Menoeceus*, Epicurus gọi người sợ cái chết sắp đến — dù cái chết khi có mặt chẳng làm họ đau — là người \"khờ dại\"; lời ông nhắm vào nỗi sợ, và mục đích của ông là giải thoát người sợ chứ không phải chế giễu họ.",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/7/3/4/57342/57342-0.txt",
+          "quote": "so that he was a silly man who said that he feared death, not because it would grieve him when it was present, but because it did grieve him while it was future.",
+          "where": "Quyển X, thư gửi Menœceus"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Số liệu khớp Bảng 2 (Bourget & Chalmers) và kho philpapers/bat-tu-ban-co-chon-khong (đóng băng); 44,9 − 41,3 = 3,6 điểm. Câu \"Không phe nào cho rằng người sợ chết là ngu ngốc\" trái với Thư gửi Menoeceus (bản Yonge: \"a silly man who said that he feared death\")."
+}

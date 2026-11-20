@@ -1,0 +1,87 @@
+{
+  "unit": "cau-hoi/van-de-su-du.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:20f09e8a6e93a6c5ff1ea15a6cc340255b145efb0d1456f1d73ec4767e517492",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k09",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về vấn đề sự dữ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "the list of questions was expanded from 30 questions to 100 questions",
+          "where": "đã đối chiếu danh sách 100 câu trong tools/philpapers-2020.md: không có câu về vấn đề sự dữ"
+        }
+      ]
+    },
+    {
+      "text": "câu hỏi chính về Thượng đế nói chung (n ≈ [[pp:thuong-de/n]]): [[pp:thuong-de.huu-than]]% chấp nhận hoặc nghiêng về hữu thần, [[pp:thuong-de.vo-than]]% về vô thần",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/thuong-de"
+    },
+    {
+      "text": "(xem bài [Có thể chứng minh Chúa tồn tại bằng lý trí?](luan-chung-ton-giao.md))",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/luan-chung-ton-giao/",
+          "quote": "Thượng đế (câu chính, n ≈ 1.770) Hữu thần (theism) 18,9 Vô thần (atheism) 66,9"
+        }
+      ]
+    },
+    {
+      "text": "chính Mackie, trong *The Miracle of Theism* năm 1982, cũng thừa nhận các học thuyết trung tâm của hữu thần không mâu thuẫn logic với nhau",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "we can concede that the problem of evil does not, after all, show that the central doctrines of theism are logically inconsistent with one another. But whether this offers a real solution of the problem is another question. (Mackie 1982, p. 154)"
+        },
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "Mackie, J. L. 1982. The Miracle of Theism. Oxford: Oxford University Press."
+        }
+      ]
+    },
+    {
+      "text": "phiên bản logic của vấn đề (Mackie) được coi là đã được Plantinga hóa giải thành công ... đây là một trong những điểm đồng thuận hiếm hoi của ngành",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "As an attempt to rebut the logical problem of evil, it is strikingly successful."
+        },
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "It is now widely agreed that this intuition is correct."
+        }
+      ]
+    },
+    {
+      "text": "Tranh luận hiện nay tập trung gần như hoàn toàn vào phiên bản bằng chứng (Rowe vs các đáp lại), và chưa có bên nào thắng thế rõ ràng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "Current discussions of the problem focus on what is called “the probabilistic problem of evil” or “the evidential problem of evil.”"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu Thượng đế lấy từ kho philpapers đã đóng băng; câu văn diễn đạt đúng câu chính, đúng \"chấp nhận hoặc nghiêng về\"."
+}

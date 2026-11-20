@@ -1,0 +1,149 @@
+{
+  "unit": "cau-hoi/mo-phong.md#_dau",
+  "hash": "sha256:477fb622b905540d7ad32d043a20b10aa3b8d74add083668b45286625c264f00",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Năm 2003, triết gia Nick Bostrom đăng một bài báo với tiêu đề gây choáng: \"Are You Living in a Computer Simulation?\" (*Philosophical Quarterly*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1111-1467-9213-00309"
+    },
+    {
+      "text": "Kết luận: rất có thể, bạn — đúng vậy, bạn đang đọc những dòng này — là một nhân vật trong một chương trình mô phỏng do một nền văn minh khác chạy.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Kết luận: ít nhất một trong ba khả năng phải đúng — và một trong ba khả năng đó là bạn, đúng vậy, bạn đang đọc những dòng này, là một nhân vật trong một chương trình mô phỏng do một nền văn minh khác chạy.",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "This paper argues that at least one of the following propositions is true",
+          "where": "Abstract"
+        },
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "In the dark forest of our current ignorance, it seems sensible to apportion one’s credence roughly evenly between (1), (2), and (3).",
+          "where": "mục VII Conclusion; Bostrom không kết luận \"rất có thể bạn ở trong mô phỏng\", và chính thân bài cũng viết \"Bostrom không khẳng định mệnh đề nào đúng\""
+        }
+      ]
+    },
+    {
+      "text": "lập luận này đã được tranh luận nghiêm túc suốt hơn hai mươi năm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "Published in Philosophical Quarterly (2003) Vol. 53, No. 211, pp. 243-255. [First version: May 2001]"
+        }
+      ]
+    },
+    {
+      "text": "Chữ \"mô phỏng\" (*simulation*) gốc Latin *simulare* — \"giả vờ, làm cho giống\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://www.etymonline.com/word/simulation",
+          "quote": "from Latin simulatus, past participle of simulare \"to make like, imitate, copy, represent,\"",
+          "where": "mục simulate"
+        },
+        {
+          "url": "https://web.archive.org/web/2026/https://www.etymonline.com/word/simulation",
+          "quote": "\"an imitating, feigning, false show, hypocrisy,\"",
+          "where": "mục simulation"
+        }
+      ]
+    },
+    {
+      "text": "Một mô phỏng tốt đến mức không thể phân biệt được với thực tại thì, về mọi phương diện ta có thể kiểm tra, *chính là* thực tại.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một mô phỏng tốt đến mức không thể phân biệt được với thực tại thì ta không có phép kiểm tra nào để biết nó *không phải* thực tại.",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "assuming only that we have no information that enables us to predict any differences between the experiences of simulated minds and those of the original biological minds",
+          "where": "mục V; câu gốc của bài nêu như sự thật điều mà sau đó chỉ là luận điểm của lập trường 3"
+        }
+      ]
+    },
+    {
+      "text": "Ba lập trường: bộ ba của Bostrom — ít nhất một trong ba đúng: nhân loại tuyệt chủng trước giai đoạn hậu-nhân loại, nền văn minh tương lai không chạy mô phỏng tổ tiên, hoặc ta đang sống trong mô phỏng (điểm yếu: giả định ý thức \"chạy\" được trên máy)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "(1) the human species is very likely to go extinct before reaching a “posthuman” stage; (2) any posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof); (3) we are almost certainly living in a computer simulation.",
+          "where": "Abstract"
+        },
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "A common assumption in the philosophy of mind is that of substrate-independence .",
+          "where": "mục II"
+        }
+      ]
+    },
+    {
+      "text": "phản bác tính khoa học — giả thuyết không thể bác bỏ thì trống rỗng như giả thuyết \"vũ trụ tạo ra 5 phút trước\" (Putnam, \"bộ não trong bể\", 1981: giả thuyết hoài nghi tự triệt tiêu chính mình)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "In his Reason, Truth and History (1981), Hilary Putnam first presented the argument that we cannot be brains in a vat"
+        },
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "the assertion “we are brains in a vat” would be sense self-refuting"
+        }
+      ]
+    },
+    {
+      "text": "Thái độ của bài: bài học từ các giả thuyết hoài nghi cổ điển (ác quỷ của Descartes) — hoài nghi triệt để không nuôi sống được ai; tò mò thì cứ tò mò, nhưng đừng để giả thuyết thành cái cớ buông xuôi; triết học cuối cùng phải trả lời: vậy thì tôi nên sống ra sao?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "    - Lập trường 3 (thái độ thực dụng) rút bài học từ các giả thuyết hoài nghi cổ điển (ác thần của [Descartes](../triet-gia/descartes.md)): hoài nghi triệt để không nuôi sống được ai; tò mò thì cứ tò mò, nhưng đừng để giả thuyết thành cái cớ buông xuôi; triết học cuối cùng phải trả lời: vậy thì tôi nên sống ra sao?",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "Properly understood, therefore, the truth of (3) should have no tendency to make us “go crazy” or to prevent us from going about our business",
+          "where": "mục VI; ý này là một lập trường trong cuộc tranh luận. Thân bài trình bày nó là lập trường 3 (\"Lập trường 3 nói...\"), còn tóm tắt gán nó thành \"thái độ của bài\", tức kết luận thay người đọc"
+        }
+      ]
+    },
+    {
+      "text": "(ác quỷ của [Descartes](../triet-gia/descartes.md))",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "(ác thần của [Descartes](../triet-gia/descartes.md))",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/descartes-suy-niem/",
+          "quote": "Đoạn 3 — Ác thần (§9–12; AT 7:21–23).",
+          "where": "hướng dẫn đọc Suy niệm của site dùng \"ác thần\"; thuật ngữ terms/ac-than (đã đóng băng) cũng là \"ác thần\"; chính bài này ở mục Liên hệ đời sống viết \"(giấc mơ và ác thần)\""
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_I",
+          "quote": "some malignant demon, who is at once exceedingly potent and deceitful, has employed all his artifice to deceive me",
+          "where": "§12"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": false,
+    "thuat-ngu": false
+  },
+  "result": "sua",
+  "notes": "Hai lỗi vừa: (1) câu 'Kết luận: rất có thể, bạn ... là một nhân vật trong mô phỏng' trình bày sai kết luận của Bostrom (bộ ba, chia đều độ tin), mâu thuẫn với thân bài; (2) gạch đầu dòng 'Thái độ của bài' biến lập trường 3 thành kết luận của bài. Lỗi nhẹ: 'ác quỷ' không thống nhất với 'ác thần' (terms/ac-than); câu 'chính là thực tại' nêu luận điểm của lập trường 3 như sự thật."
+}

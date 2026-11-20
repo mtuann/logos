@@ -1,0 +1,54 @@
+{
+  "unit": "cau-hoi/truc-lam.md#nguon",
+  "hash": "sha256:cf999c90ea66356b703d23d5047300b992f258806abcef15e0c0c558c7fdd3e7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k15",
+  "claims": [
+    {
+      "text": "Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1"
+    },
+    {
+      "text": "Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h"
+    },
+    {
+      "text": "Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb"
+    },
+    {
+      "text": "Siderits, Mark, \"Buddha\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.buddha",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/buddha/",
+          "quote": "Mark Siderits",
+          "where": "URL bản lưu fall2026 mở được"
+        }
+      ]
+    },
+    {
+      "text": "Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.buddhanature-tsadra-org.index-php-texts-mahaparinirvanasutra"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Cả năm dòng trùng bản ghi sources/* đã đóng băng. Trang Tsadra trả về trang chống bot (Cloudflare \"Just a moment\") với curl; không vượt, dùng bản ghi kho (quyết định 34). Gợi ý ngoài phạm vi: phần Nguồn không liệt kê Đại Việt sử ký toàn thư, nguồn gốc của các năm 1293/1299; Trần Đình Hượu (1996) không được dùng ở thân bài."
+}

@@ -1,0 +1,80 @@
+{
+  "unit": "cau-hoi/dan-chu.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:2697b6645bfab0249fa23fd5391a104081d5f80d8211ff0b2e78fa79562110e3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về dân chủ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri"
+    },
+    {
+      "text": "câu chính \"Triết học chính trị\" (n ≈ ...) cho thấy [[pp:...egalitarianism]]% chấp nhận hoặc nghiêng về chủ nghĩa bình đẳng, [[pp:...cong-dong-luan]]% cộng đồng luận, [[pp:...libertarianism]]% chủ nghĩa tự do cá nhân",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri"
+    },
+    {
+      "text": "(xem bảng trong bài Công lý là gì?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cong-ly/",
+          "quote": "PhilPapers 2020 có câu chính \"Triết học chính trị\" (n ≈ 1.540) gần trùng ba lập trường của bài"
+        }
+      ]
+    },
+    {
+      "text": "Schumpeter định hình cách khoa học chính trị nghĩ về dân chủ suốt nửa sau thế kỷ 20",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Schumpeter là tiếng nói tiêu biểu của thuyết dân chủ tinh hoa (*elite theory*) trong thế kỷ 20",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Some modern theorists of democracy, called elite theorists, have argued against any robustly egalitarian or deliberative forms of democracy",
+          "where": "4.2.1"
+        }
+      ]
+    },
+    {
+      "text": "dân chủ thảo luận của Habermas là một trong những hướng nghiên cứu sôi nổi nhất từ những năm 1990 đến nay",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "Jürgen Habermas’s discourse theory of deliberative democracy has been highly influential in the development of this approach.",
+          "where": "2.2"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều triết gia chính trị ngày nay chấp nhận cả ba ở các mức độ khác nhau",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Có thể chấp nhận *cả ba* ở các mức độ khác nhau",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "there can be an elite deliberative democracy wherein elites deliberate",
+          "where": "4.2.1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu qua shortcode từ philpapers/triet-hoc-chinh-tri (đóng băng): câu chính, Bảng 1, \"chấp nhận hoặc nghiêng về\", đúng ba lựa chọn (44,0 / 27,3 / 13,4 theo tools/philpapers-2020.md). Hai khái quát không có nguồn: mức nhẹ."
+}

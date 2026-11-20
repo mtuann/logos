@@ -1,0 +1,89 @@
+{
+  "unit": "cau-hoi/cai-chet.md#nguon",
+  "hash": "sha256:901a51d28c72442effc0d921575d39d7d9826a5b04cf1cff725c1be5dd988314",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k13",
+  "claims": [
+    {
+      "text": "Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* ... Bản dịch tiếng Anh của C. D. Yonge ... <https://www.gutenberg.org/ebooks/57342>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.57342",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/5/7/3/4/57342/57342-0.txt",
+          "quote": "Translator: C. D. Yonge"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/5/7/3/4/57342/57342-0.txt",
+          "quote": "G. BELL AND SONS, LTD"
+        }
+      ]
+    },
+    {
+      "text": "Lucretius, *De Rerum Natura* ..., Quyển III ... William Ellery Leonard (1916) <https://www.gutenberg.org/ebooks/785>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.785",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/8/785/785-0.txt",
+          "quote": "By William Ellery Leonard"
+        }
+      ]
+    },
+    {
+      "text": "Nagel, Thomas (1970), \"Death\", *Noûs* 4(1): 73–80.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nagel-thomas-1970-death-nous-41-7380",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "\"published-print\":{\"date-parts\":[[1970,2]]}"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "\"issue\":\"1\""
+        },
+        {
+          "url": "https://api.crossref.org/works/10.2307/2214297",
+          "quote": "\"page\":\"73\""
+        }
+      ]
+    },
+    {
+      "text": "Luper, Steven, \"Death\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/death/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.death"
+    },
+    {
+      "text": "Feldman, Fred (1992), *Confrontations with the Reaper* ... — bênh vực lập luận tước đoạt",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.feldman-fred-1992-confrontations-with-the-reaper-a-philosoph"
+    },
+    {
+      "text": "Williams, Bernard (1973), \"The Makropulos Case: Reflections on the Tedium of Immortality\", trong *Problems of the Self*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.williams-bernard-1973-the-makropulos-case-reflections-on-the"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\" ... <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. gutenberg.org đang bảo trì trong phiên; nội dung đối chiếu ở mirror gutenberg.pglaf.org cùng số ebook."
+}

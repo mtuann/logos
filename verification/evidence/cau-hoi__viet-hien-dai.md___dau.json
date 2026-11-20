@@ -1,0 +1,119 @@
+{
+  "unit": "cau-hoi/viet-hien-dai.md#_dau",
+  "hash": "sha256:50bb3db44ef35f8a5a5df64c7af4e08bae7465e96c55218394a4eb11a7e71b57",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k17",
+  "claims": [
+    {
+      "text": "Nho học suy tàn cùng khoa cử (khoa thi cuối cùng 1919)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/viet-nam.viet-hien-dai.1919"
+    },
+    {
+      "text": "Nho học suy tàn cùng với khoa cử (khoa thi cuối cùng năm 1919 **[chắc chắn]**)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "events/viet-nam.viet-hien-dai.1919-2"
+    },
+    {
+      "text": "người Việt đọc [Descartes](../triet-gia/descartes.md), [Kant](../triet-gia/kant.md), [Marx](../triet-gia/marx.md) … [Trần Đức Thảo](../triet-gia/tran-duc-thao.md) … [Husserl](../triet-gia/husserl.md) (link nội bộ: nhãn khớp tên trang đích)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/descartes/",
+          "quote": "Descartes"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/marx/",
+          "quote": "Karl Marx"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/tran-duc-thao/",
+          "quote": "Trần Đức Thảo"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/husserl/",
+          "quote": "Husserl"
+        }
+      ]
+    },
+    {
+      "text": "đoạn tuyệt để hiện đại (phong trào Duy Tân, Phan Châu Trinh: \"khai dân trí, chấn dân khí, hậu dân sinh\")",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://jst-ud.vn/jst-ud/article/download/2401/2401/6534",
+          "quote": "ông đề xướng thuyết Tam dân (khai dân trí, chấn dân",
+          "where": "Huỳnh Văn Tuyết, \"Quảng Nam – nơi mở đầu phong trào Duy Tân ở Việt Nam đầu thế kỷ XX\", Tạp chí KH&CN ĐH Đà Nẵng"
+        },
+        {
+          "url": "https://tuoitre.vn/mot-the-ky-sau-tu-tuong-cua-phan-chau-trinh-van-tiep-tuc-soi-sang-20260323144724009.htm",
+          "quote": "thức tỉnh nhân tâm, hợp quần hợp xã, khai dân trí, chấn dân khí, hậu dân sinh",
+          "where": "nguồn yếu: báo Tuổi Trẻ tường thuật hội thảo cấp quốc gia về Phan Châu Trinh, 3/2026"
+        }
+      ]
+    },
+    {
+      "text": "đến hiện đại *từ* truyền thống (Trần Đình Hượu, *Đến hiện đại từ truyền thống*, 1996) — phân tích cụ thể yếu tố nào \"thuận\" (tinh thần cộng đồng, tính thực tiễn, khả năng tiếp biến) và yếu tố nào \"nghịch\" (tâm lý tiểu nông, thiếu tinh thần pháp quyền) cho hiện đại hóa, như Nhật Bản Minh Trị duy tân mà vẫn giữ thiên hoàng",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "đến hiện đại *từ* truyền thống (Trần Đình Hượu, *Đến hiện đại từ truyền thống*, 1996) — coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống, nên đòi nghiên cứu cụ thể truyền thống, cả mặt mạnh (theo ông, tinh thần chung \"thiết thực, linh hoạt, dung hòa\", khả năng tiếp nhận giá trị văn hóa bên ngoài) lẫn mặt hạn chế, thay vì chọn phe \"giữ\" hay \"bỏ\";",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "coi việc xây dựng văn hóa cho hiện tại và tương lai là không tách rời truyền thống"
+        },
+        {
+          "url": "https://loigiaihay.com/van-ban-nhin-ve-von-van-hoa-dan-toc-a133576.html",
+          "quote": "Tinh thần chung của văn hoá Việt Nam là thiết thực, linh hoạt, dung hoà",
+          "where": "nguồn yếu: trang học tập chép đoạn trích \"Nhìn về vốn văn hóa dân tộc\" (SGK Ngữ văn 12), ghi trích từ Đến hiện đại từ truyền thống, NXB Văn hóa 1996"
+        },
+        {
+          "url": "https://loigiaihay.com/van-ban-nhin-ve-von-van-hoa-dan-toc-a133576.html",
+          "quote": "khả năng chiếm lĩnh, khả năng đồng hoá những giá trị văn hoá bên ngoài",
+          "where": "nguồn yếu: trang học tập chép đoạn trích \"Nhìn về vốn văn hóa dân tộc\" (SGK Ngữ văn 12), ghi trích từ Đến hiện đại từ truyền thống, NXB Văn hóa 1996"
+        }
+      ]
+    },
+    {
+      "text": "đối thoại với thế giới ([Trần Đức Thảo](../triet-gia/tran-duc-thao.md), *Phénoménologie et matérialisme dialectique*, 1951) — dùng hiện tượng luận của Husserl làm giàu duy vật biện chứng của Marx",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/tran-duc-thao.phenomenologie-et-materialisme-dialectique"
+    },
+    {
+      "text": "chứng minh triết gia Việt Nam có thể *tham gia* chứ không chỉ \"học\" triết học thế giới",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "ho-so/tran-duc-thao"
+    },
+    {
+      "text": "những người hô \"đoạn tuyệt\" mạnh nhất (như Phan Châu Trinh, đỗ Phó bảng) lại là người thông thạo Nho học nhất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://jst-ud.vn/jst-ud/article/download/2401/2401/6534",
+          "quote": "Phó bảng (1901). Đặc biệt vào năm 1903, tại Huế, các ông"
+        },
+        {
+          "url": "https://jst-ud.vn/jst-ud/article/download/2401/2401/6534",
+          "quote": "xin bỏ khoa cử và biến pháp nhưng không được người nào"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": false,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Tóm tắt lặp lại ý lập trường 2 chưa có nguồn (danh mục thuận/nghịch, so sánh Nhật Bản; xem cac-lap-truong-chinh): sửa cùng lượt với thân bài. Các ý còn lại khớp thân bài. Nguồn về Trần Đình Hượu tìm được trong phiên: trang ĐHQG Hà Nội (giới thiệu Giải thưởng Nhà nước 2000), trang ĐH KHXH&NV (Trần Nho Thìn, Trần Ngọc Vương 2015), đoạn trích SGK \"Nhìn về vốn văn hóa dân tộc\" (nguồn yếu), bài Nguyễn Kiến Giang bình bài Hượu 1992 (nguồn yếu). Không mở được: vjol.info.vn (Nguyễn Hữu Sơn 2015, Tạp chí KHXH; server trả lỗi giao thức/empty reply), elib.hcmussh.edu.vn (cần đăng nhập DRM)."
+}

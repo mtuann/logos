@@ -1,0 +1,117 @@
+{
+  "unit": "cau-hoi/ban-nga-thoi-gian.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:88231fe93b683fda965169f98587909e9c2f19d3084b145eceddf1a858412a95",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp về chủ đề này, và cả hai đều là câu chính (hỏi mọi người tham gia).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Personal identity Philosophical methods Philosophical progress Political philosophy Proper names Race Science Teletransporter Time Trolley problem Truth Vagueness Zombies Additional Questions",
+          "where": "danh sách Main Questions: cả Personal identity và Teletransporter đứng trước mục Additional Questions"
+        }
+      ]
+    },
+    {
+      "text": "Bảng: Bản sắc cá nhân — tâm lý / sinh học / sự kiện bổ sung / khác (n ≈ [[pp:ban-sac-ca-nhan/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/ban-sac-ca-nhan"
+    },
+    {
+      "text": "Bảng: Máy dịch chuyển, vật chất mới — sống sót / chết / khác (n ≈ [[pp:may-dich-chuyen-vat-chat-moi/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-dich-chuyen-vat-chat-moi"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23, Bảng 1. Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "\"title\":[\"Philosophers on Philosophy: The 2020 PhilPapers Survey\"],\"prefix\":\"10.3998\",\"volume\":\"23\""
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Teletransporter (new matter) Survival 555 35.2 Death 631 40.1 Other 390 24.8",
+          "where": "Bảng 1 của bài báo (bản lưu Wayback)"
+        }
+      ]
+    },
+    {
+      "text": "Tiêu chí tâm lý dẫn đầu với cách biệt lớn — hơn hai phần năm giới triết học đứng về phía Locke và Parfit — nhưng không đạt đa số tuyệt đối",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/ban-sac-ca-nhan"
+    },
+    {
+      "text": "Đây là một trong những câu hỏi chia rẽ nhất của cả đợt khảo sát: giới triết học *nghiêng nhẹ* về phía \"bạn chết khi bước vào máy\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đây là một câu hỏi chia rẽ rõ rệt: giới triết học *nghiêng nhẹ* về phía \"bạn chết khi bước vào máy\"",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Teletransporter (new matter): survival or death? Accept or lean towards: survival 35.24% (34.79%) Accept or lean towards: death 40.06% (39.68%)",
+          "where": "số liệu đúng; nhưng cả trang kết quả lẫn bài báo không xếp hạng mức chia rẽ, nên \"một trong những câu chia rẽ nhất\" không có nguồn"
+        }
+      ]
+    },
+    {
+      "text": "Bảng tương quan trên trang kết quả của khảo sát cho thấy người theo quan điểm tâm lý nghiêng về \"sống sót\" rõ hơn hẳn những người khác — nhưng vẫn có một bộ phận đáng kể trong số họ chọn \"chết\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/4914",
+          "quote": "Personal identity: psychological view Teletransporter: survival Accept Reject Accept 351 132 Reject 238 397 n: 1118",
+          "where": "Strongest correlations with main questions (hàng = câu Teletransporter, cột = quan điểm tâm lý; đối chiếu với trang 4898 cho cùng bảng chuyển vị): trong 589 người chấp nhận quan điểm tâm lý, 351 (khoảng 60%) chấp nhận 'sống sót' và 238 (khoảng 40%) không chấp nhận; trong 529 người không theo quan điểm tâm lý, chỉ 132 (khoảng 25%) chấp nhận 'sống sót'"
+        }
+      ]
+    },
+    {
+      "text": "mẫu là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020.",
+          "where": "mục 2 Methodology"
+        },
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/",
+          "quote": "surveyed the philosophical views of 1785 English-speaking philosophers from around the world on 100 philosophical questions"
+        }
+      ]
+    },
+    {
+      "text": "(câu trả lời mà animalism dẫn tới, dù không chỉ người theo animalism mới chọn nó)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/4914",
+          "quote": "Personal identity: biological view Teletransporter: survival Accept Reject Accept 59 424 Reject 204 431 n: 1118",
+          "where": "bảng tương quan"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu khớp kho philpapers đã đóng băng; diễn đạt đúng câu chính và 'chấp nhận hoặc nghiêng về'. Bảng tương quan đếm 'chấp nhận/không chấp nhận sống sót', nên 'chọn \"chết\"' là xấp xỉ. Một lỗi nhẹ: 'một trong những câu hỏi chia rẽ nhất' không có nguồn."
+}

@@ -1,0 +1,72 @@
+{
+  "unit": "cau-hoi/tinh-yeu.md#lien-he-doi-song",
+  "hash": "sha256:76b70bec8eee049cc8e8606a13a4af66764edd6e950f80ffeb9ff3988ee9e508",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k14",
+  "claims": [
+    {
+      "text": "Ứng dụng hẹn hò vận hành đúng theo logic mà Velleman phê phán: ... đối xử với con người như những bó phẩm chất để chấm điểm",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "To have a price , as the economic metaphor suggests, is to have a value that can be compared to the value of other things with prices",
+          "where": "mục 4.1"
+        }
+      ]
+    },
+    {
+      "text": "Velleman gợi ý một cách dùng khác: đừng tìm người \"tốt nhất\", hãy tạo điều kiện để một cuộc gặp gỡ thực sự xảy ra",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Từ góc nhìn của Velleman, có thể dùng ứng dụng theo cách khác: đừng tìm người \"tốt nhất\", hãy tạo điều kiện để một cuộc gặp gỡ thực sự xảy ra — nơi bạn có thể dừng lại trước một con người.",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1086/233898",
+          "quote": "\"published-print\":{\"date-parts\":[[1999,1]]}",
+          "where": "bài 1999 không bàn ứng dụng hẹn hò; câu là áp dụng của bài, không phải lời khuyên của Velleman"
+        }
+      ]
+    },
+    {
+      "text": "Ghen tuông qua lăng kính Platon: Platon cho ta một cách nhìn khác: ghen là khao khát chiếm hữu cái mình thiếu — nó thuộc về mặt \"Nghèo Khó\" của Eros ... theo thang của Diotima, vẫn đang đứng ở nấc thấp nhất",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đọc theo Platon, ta có một cách nhìn khác: ghen là khao khát *chiếm hữu* cái mình thiếu — nó thuộc về mặt \"Nghèo Khó\" của Eros, mặt đói khát và sợ mất. Một tình yêu chỉ có khao khát chiếm hữu mà không giúp cả hai trở nên tốt đẹp hơn thì, nếu đặt lên thang của Diotima, vẫn chưa rời nấc thấp nhất.",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/0/1600/1600.txt",
+          "quote": "And Love desires not only the good, but the everlasting possession of the good.",
+          "where": "Symposium không bàn chuyện ghen; nấc thấp nhất của thang là yêu một thân thể đẹp"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/0/1600/1600.txt",
+          "quote": "should love first one fair form, and then many"
+        }
+      ]
+    },
+    {
+      "text": "Chăm sóc người bệnh dài ngày và Frankfurt: tình yêu không đặt trên phẩm chất mà đặt trên sự quan tâm không vụ lợi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ndpr.nd.edu/reviews/the-reasons-of-love/",
+          "quote": "The lover seeks the good of the beloved for its own sake, not merely for the sake of some ulterior purpose."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Hai chỗ diễn đạt như thể Velleman/Platon tự nói điều thực ra là áp dụng của bài; nội dung không trái lập trường của họ nên mức nhe."
+}

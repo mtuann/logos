@@ -1,0 +1,67 @@
+{
+  "unit": "cau-hoi/tu-do-ngon-luan.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:90dcb8c8dda36a90d8f1f5a582248532e0b4ab5802d5f98a5d18eee78bcda947",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về tự do ngôn luận trong [[pp:khao-sat/so-cau]] câu hỏi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "the list of questions was expanded from 30 questions to 100 questions",
+          "where": "bài báo, mục 1 (bảng 1–2 không có câu nào về tự do ngôn luận)"
+        }
+      ]
+    },
+    {
+      "text": "tự do ngôn luận là một trong những chủ đề được viết nhiều nhất trong triết học chính trị và triết học pháp luật, đặc biệt sôi nổi từ những năm 2010 ... Mill vẫn là điểm xuất phát bắt buộc; Popper được viện dẫn thường xuyên; còn phe \"ngôn từ gây hại\" ngày càng có nhiều công trình học thuật",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Điều này không có nghĩa là giới triết học thờ ơ — tự do ngôn luận là một chủ đề lớn của triết học chính trị và triết học pháp luật, và mục *Freedom of Speech* của SEP (2024) dành riêng một phần cho đạo đức của các nền tảng mạng. Mill vẫn là điểm xuất phát quen thuộc; còn phe \"ngôn từ gây hại\" có nhiều công trình học thuật.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "That there ought to be such legal protections for speech is uncontroversial among political and legal philosophers. But disagreement arises when we turn to the details.",
+          "where": "phần mở đầu (mục SEP không nhắc Popper lần nào)"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều triết gia ngày nay chấp nhận cả ba ở các mức độ: ... đồng ý với phe phê phán rằng một số lời nói gây hại thật cần bị xử lý",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/",
+          "quote": "Suppose the moral right (or principle) of free speech is limited, as most think",
+          "where": "mục 3.4"
+        }
+      ]
+    },
+    {
+      "text": "tương tự bài về dân chủ: ba lập trường không loại trừ nhau hoàn toàn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dan-chu/",
+          "quote": "Một lưu ý về cách đọc bài này: ba lập trường không loại trừ nhau hoàn toàn.",
+          "where": "Giới triết học ngày nay nghĩ gì"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu \"Popper được viện dẫn thường xuyên\" không có nguồn; mục SEP về tự do ngôn luận không nhắc Popper."
+}

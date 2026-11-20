@@ -1,0 +1,82 @@
+{
+  "unit": "cau-hoi/cong-ly.md#lien-he-doi-song",
+  "hash": "sha256:3ffd6b080c3341d2677feb792d4f677d698d6c21b403df6f06131bc638efb7d2",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k02",
+  "claims": [
+    {
+      "text": "Điểm ưu tiên thi đại học ... thí sinh vùng sâu ... cộng điểm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://baovanhoa.vn/doi-song/diem-uu-tien-dai-hoc-2026-nhung-dieu-thi-sinh-can-biet-truoc-khi-dang-ky-xet-tuyen-240828.html",
+          "quote": "khu vực 1 (KV1) được cộng 0,75 điểm",
+          "where": "nguồn yếu: báo Văn hóa, tóm tắt quy chế tuyển sinh 2026"
+        }
+      ]
+    },
+    {
+      "text": "Bảo hiểm y tế toàn dân, trợ cấp người nghèo, chính sách với người có công",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://caselaw.vn/van-ban-phap-luat/462006-van-ban-hop-nhat-so-47-vbhn-vpqh-ngay-27-12-2023-cua-bo-truong-van-phong-quoc-hoi-hop-nhat-luat-bao-hiem-y-te",
+          "quote": "Bảo hiểm y tế toàn dân là việc các đối tượng quy định trong Luật này đều tham gia bảo hiểm y tế.",
+          "where": "nguồn yếu: caselaw.vn, VBHN 47/VBHN-VPQH Luật Bảo hiểm y tế, Điều 2"
+        },
+        {
+          "url": "https://caselaw.vn/van-ban-phap-luat/462006-van-ban-hop-nhat-so-47-vbhn-vpqh-ngay-27-12-2023-cua-bo-truong-van-phong-quoc-hoi-hop-nhat-luat-bao-hiem-y-te",
+          "quote": "Nhà nước đóng hoặc hỗ trợ tiền đóng bảo hiểm y tế cho người có công với cách mạng và một số nhóm đối tượng xã hội.",
+          "where": "Điều 4"
+        }
+      ]
+    },
+    {
+      "text": "Thuế thu nhập lũy tiến. Người thu nhập càng cao đóng thuế suất càng cao — Việt Nam cũng như hầu hết các nước đều làm vậy.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Thuế thu nhập lũy tiến.** Người thu nhập càng cao đóng thuế suất càng cao — Việt Nam cũng như nhiều nước khác đều làm vậy.",
+      "sources": [
+        {
+          "url": "https://vcci.com.vn/tin-tuc/bai-2-nang-muc-giam-tru-gia-canh-thu-gon-bieu-thue-tncn-con-5-bac",
+          "quote": "thu nhập từ tiền lương, tiền công đang áp dụng biểu thuế lũy tiến 7 bậc, với các mức từ 5% đến 35%",
+          "where": "nguồn yếu: VCCI 15/09/2025 — xác nhận phần Việt Nam; \"hầu hết các nước\" chưa có nguồn"
+        }
+      ]
+    },
+    {
+      "text": "Theo Nozick, mỗi đồng thuế tái phân phối đều cần được biện minh ... Nozick: đây chính là ví dụ điển hình của cưỡng bức",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "according to Nozick, taxation is “on a par with forced labor” (169)"
+        }
+      ]
+    },
+    {
+      "text": "Người theo Rawls sẽ nói cuộc thi chỉ công bằng khi cơ hội là thực chất",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/rawls/",
+          "quote": "fair equality of opportunity, requires that citizens with the same talents and willingness to use them have the same educational and economic opportunities regardless of whether they were born rich or poor"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": ""
+}

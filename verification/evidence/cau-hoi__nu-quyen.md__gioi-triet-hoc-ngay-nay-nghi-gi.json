@@ -1,0 +1,125 @@
+{
+  "unit": "cau-hoi/nu-quyen.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:af9039cf3b7f109f06a7b5df16e7ef705d5165492c026091489e9379a3d145fd",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không hỏi về nữ quyền bình đẳng, lý thuyết standpoint hay đạo đức chăm sóc ... không có câu nào hỏi ... (trong [[pp:khao-sat/so-cau]] câu hỏi)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "adding two questions each about gender and race, for example"
+        }
+      ]
+    },
+    {
+      "text": "phân biệt giới tính (sex) với giới (gender) — một trọng tâm của triết học nữ quyền từ de Beauvoir",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/beauvoir/",
+          "quote": "is credited by many as alerting us to the sex-gender distinction"
+        }
+      ]
+    },
+    {
+      "text": "Câu chính (hỏi tất cả người tham gia) \"Giới thuộc loại gì?\" ... bảng số liệu câu chính, cột chấp nhận hoặc nghiêng về và cột loại trừ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/gioi-gender-thuoc-loai-gi"
+    },
+    {
+      "text": "câu bổ sung (chỉ hỏi những người chọn trả lời thêm) hỏi ta nên giữ nguyên, sửa đổi hay loại bỏ các phạm trù giới",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "câu *bổ sung* (chỉ một phần người tham gia được hỏi: khoảng 300 người được giao ngẫu nhiên, phần còn lại tự chọn trả lời thêm) hỏi ta nên giữ nguyên, sửa đổi hay loại bỏ các phạm trù giới.",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Of the 60 additional questions, one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory 50 questions.",
+          "where": "mục 3.2"
+        }
+      ]
+    },
+    {
+      "text": "Phạm trù giới — nên làm gì với chúng? (câu bổ sung): Sửa đổi / Giữ nguyên / Loại bỏ / Khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/pham-tru-gioi-nen-lam-gi-voi-chung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Gender categories Preserve 201 20.4 Revise 500 50.9 Eliminate 160 16.3 Other 150 15.3",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "phần đông người trả lời chấp nhận hoặc nghiêng về quan niệm giới là một loại xã hội ... chỉ [loại trừ]% chọn duy nhất \"xã hội\" ... Ở câu bổ sung, khoảng một nửa muốn sửa đổi",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/gioi-gender-thuoc-loai-gi"
+    },
+    {
+      "text": "hướng \"cải thiện khái niệm\" mà một số triết gia nữ quyền như Sally Haslanger theo đuổi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/",
+          "quote": "Haslanger’s analysis is, in her terms, ameliorative: it aims to elucidate which gender concepts best help feminists achieve their legitimate purposes"
+        }
+      ]
+    },
+    {
+      "text": "Mẫu là khoảng ...–... triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "with strongest coverage on English-speaking and English-publishing philosophers"
+        }
+      ]
+    },
+    {
+      "text": "Triết học nữ quyền là một trong những hướng nghiên cứu phát triển mạnh trong triết học đương đại từ những năm 1980 đến nay — với các tạp chí chuyên ngành, các khoa và chương trình đào tạo riêng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Triết học nữ quyền là một hướng nghiên cứu lớn trong triết học đương đại.",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "we acknowledge an overall bias toward certain relatively traditional issues in the analytic and English-speaking canons",
+          "where": "bài báo không nói gì về đà phát triển của triết học nữ quyền; SEP/IEP đã mở cũng không có nhận định này"
+        }
+      ]
+    },
+    {
+      "text": "Nhiều triết gia nữ quyền đương đại đồng thời: ủng hộ chính sách bình đẳng thực chất, dùng phương pháp standpoint, và bênh vực giá trị của chăm sóc",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-liberal/",
+          "quote": "Policies proposed to ensure sufficient personal autonomy for caregivers include parental leave, state subsidized, high quality day care, and flexible work schedules"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu qua shortcode từ kho philpapers đóng băng; câu văn diễn đạt đúng (câu chính / câu bổ sung, \"chấp nhận hoặc nghiêng về\", cột loại trừ). Lỗi nhẹ: mô tả câu bổ sung \"chỉ hỏi những người chọn trả lời thêm\" chưa đúng cách chọn mẫu."
+}

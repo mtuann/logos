@@ -1,0 +1,87 @@
+{
+  "unit": "cau-hoi/van-de-su-du.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:97a0d7661a7d9b3f82e51046fe194e63ab59036ee3f743ebb06da5ee56c550c7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k09",
+  "claims": [
+    {
+      "text": "Vấn đề sự dữ thường được phát biểu dưới dạng một bộ ba: Thượng đế toàn năng; Thượng đế toàn thiện (muốn loại bỏ mọi sự dữ); Sự dữ tồn tại.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://courses.edx.org/c4x/MITx/24.00x/asset/MackieonEvil.pdf",
+          "quote": "God is omnipotent ; God is wholly good ; and yet evil exists.",
+          "where": "bản quét JSTOR trên edX, lớp chữ OCR (khoảng trắng giữa chữ bị lệch; đã gộp khoảng trắng khi so), tr. 200"
+        },
+        {
+          "url": "https://courses.edx.org/c4x/MITx/24.00x/asset/MackieonEvil.pdf",
+          "quote": "These additional principles are that good is opposed to evil, in such a way that a good thing always elimi",
+          "where": "bản quét JSTOR trên edX, lớp chữ OCR (khoảng trắng giữa chữ bị lệch; đã gộp khoảng trắng khi so), tr. 201"
+        }
+      ]
+    },
+    {
+      "text": "Vấn đề sự dữ dưới dạng bộ ba của Mackie: ba khẳng định dường như không thể cùng đúng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://courses.edx.org/c4x/MITx/24.00x/asset/MackieonEvil.pdf",
+          "quote": "There seems to be some contradiction between these three propositions",
+          "where": "bản quét JSTOR trên edX, lớp chữ OCR (khoảng trắng giữa chữ bị lệch; đã gộp khoảng trắng khi so), tr. 200"
+        }
+      ]
+    },
+    {
+      "text": "Đây là một [lập luận](../cong-cu/lap-luan-la-gi.md) mà người thách thức cho là có sức ép của logic.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cong-cu/lap-luan-la-gi/",
+          "quote": "một số khẳng định (gọi là tiền đề, premise) được đưa ra để ủng hộ một khẳng định khác (gọi là kết luận, conclusion)"
+        }
+      ]
+    },
+    {
+      "text": "Vấn đề sự dữ logic ... Vấn đề sự dữ bằng chứng: dù không mâu thuẫn logic, thì khối lượng và sự phân bố của đau khổ ... có phải là bằng chứng chống lại sự tồn tại của một Đấng toàn thiện không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/evil/",
+          "quote": "the choice between deductive versions of the argument from evil, and evidential versions"
+        },
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "the evil and suffering (or, in some cases, the amounts, kinds and distributions of"
+        }
+      ]
+    },
+    {
+      "text": "ta dễ dàng chấp nhận rằng điều tốt có thể vượt quá sự hiểu biết của ta (một đứa trẻ không hiểu vì sao phải uống thuốc đắng) ... Người bênh vực hoài nghi luận thần học sẽ nói: ... nếu khoảng cách trí tuệ là có thật, nó phải áp dụng cho cả hai chiều.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skeptical-theism/",
+          "quote": "One extended analogy is a parent/child analogy (compare Wykstra 1984: 88; 1996: 142–5)."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skeptical-theism/",
+          "quote": "A baby infant is in no position to evaluate its parent’s plans for its life."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Câu \"Bất đối xứng này là một trong những điểm tranh cãi sống động nhất\" là nhận định của bài; mục 1.3 và 5 của SEP Skeptical Theism cho thấy loại phép so sánh cha mẹ–con được tranh luận nhiều, nên không ghi lỗi."
+}

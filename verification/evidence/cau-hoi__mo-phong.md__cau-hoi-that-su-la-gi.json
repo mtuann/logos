@@ -1,0 +1,41 @@
+{
+  "unit": "cau-hoi/mo-phong.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:bead8cf7f757b1779adc5760d3969861a20273f4f440e2563bf883fe06079a9f",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Từ \"có hàng triệu mô phỏng\" suy ra \"ta gần như chắc chắn ở trong mô phỏng\" — bước suy luận này có hợp lệ không? Nó giả định những gì về ý thức, về công nghệ, về cách tính xác suất?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "conditional on the truth of (3), one’s credence in the hypothesis that one is in a simulation should be close to unity",
+          "where": "mục V"
+        }
+      ]
+    },
+    {
+      "text": "giả thuyết \"vũ trụ được tạo ra 5 phút trước, cùng với mọi ký ức giả của bạn\" — không thể bác bỏ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/2/5/2/2529/2529.txt",
+          "quote": "nothing that is happening now or will happen in the future can disprove the hypothesis that the world began five minutes ago",
+          "where": "Lecture IX, Memory"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": ""
+}

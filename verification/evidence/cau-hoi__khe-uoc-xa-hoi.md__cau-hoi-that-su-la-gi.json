@@ -1,0 +1,64 @@
+{
+  "unit": "cau-hoi/khe-uoc-xa-hoi.md#cau-hoi-that-su-la-gi",
+  "hash": "sha256:352ca979396b4439e35a7ae6ab1e83b84f89da2a044ef855cf74c3b7e7dc7588",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k03",
+  "claims": [
+    {
+      "text": "Câu hỏi gồm hai lớp: Vì sao cần nhà nước? / Nhà nước nào là chính đáng?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/legitimacy/",
+          "quote": "it sets the standard for what counts as legitimate political authority"
+        }
+      ]
+    },
+    {
+      "text": "Ba triết gia dưới đây trả lời khác nhau — ... một người bênh vực quyền lực tuyệt đối, một người mở đường cho cách mạng, một người đặt nền móng cho dân chủ.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hobmoral/",
+          "quote": "should give our obedience to an unaccountable sovereign"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "Locke is thus also important for his defense of the right of revolution"
+        },
+        {
+          "url": "https://iep.utm.edu/soc-cont/",
+          "quote": "After Hobbes, John Locke and Jean-Jacques Rousseau are the best known proponents of this enormously influential theory"
+        }
+      ]
+    },
+    {
+      "text": "Hình \"Lô-gíc của khế ước xã hội\": hộp \"Trạng thái tự nhiên\" ghi \"ai cũng chống ai\", trong khi chú thích nói \"Hobbes, Locke, Rousseau chỉ khác nhau ở nội dung mỗi hộp\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đổi dòng phụ của hộp thứ nhất (hình `khe-uoc` trong `tools/figures.py`) từ \"ai cũng chống ai\" thành \"chưa có quyền lực chung\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "want [lack] of a common judge, with authority, puts all men in a state of nature"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/contractarianism/",
+          "quote": "Hobbes' state of nature as a potential war of all against all"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "\"Ai cũng chống ai\" là trạng thái tự nhiên của Hobbes; với Locke trạng thái tự nhiên là thiếu trọng tài chung, không phải chiến tranh (chính bài cũng nói vậy ở mục Các lập trường chính). Hình là khối sinh (fig), sửa ở nguồn của tool figures."
+}

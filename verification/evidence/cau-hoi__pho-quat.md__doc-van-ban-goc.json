@@ -1,0 +1,101 @@
+{
+  "unit": "cau-hoi/pho-quat.md#doc-van-ban-goc",
+  "hash": "sha256:4b1ff3702bb68908a2bf5e44a65f29501626d6721c1bda3cb91ff844a4a59702",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k06",
+  "claims": [
+    {
+      "text": "Platon, *Phaedo*, 100c–d (bản tiếng Anh của Benjamin Jowett): \"I cannot help thinking, if there be anything beautiful other than absolute beauty … by beauty all beautiful things become beautiful.\" kèm bản dịch của Logos",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/platon.phaedo"
+    },
+    {
+      "text": "Nguyên văn tiếng Anh đối chiếu với bản Jowett trên Project Gutenberg (#1658)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/5/1658/1658.txt",
+          "quote": "I cannot help thinking, if there be anything beautiful other than absolute beauty should there be such, that it can be beautiful only in as far as it partakes of absolute beauty--and I should say the same of everything.",
+          "where": "Phaedo, 100c"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/5/1658/1658.txt",
+          "quote": "nothing makes a thing beautiful but the presence and participation of beauty in whatever way or manner obtained; for as to the manner I am uncertain, but I stoutly contend that by beauty all beautiful things become beautiful.",
+          "where": "Phaedo, 100d"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/5/1658/1658.txt",
+          "quote": "Translator: Benjamin Jowett",
+          "where": "đầu sách"
+        }
+      ]
+    },
+    {
+      "text": "văn bản đã hết bản quyền (bản dịch tiếng Anh của Benjamin Jowett, in lần đầu năm 1871; văn bản theo Project Gutenberg)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1497"
+    },
+    {
+      "text": "Platon nói \"không gì làm cho một vật trở nên đẹp\" ngoài sự tham dự vào cái Đẹp — nhưng cũng thừa nhận ông không chắc về *cách thức* của sự tham dự ấy.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/6/5/1658/1658.txt",
+          "quote": "for as to the manner I am uncertain",
+          "where": "Phaedo, 100d"
+        }
+      ]
+    },
+    {
+      "text": "Aristotle phản bác: nếu cái Đẹp tồn tại tách rời, thì nó giúp gì cho việc hiểu *bông hồng này* đẹp ra sao?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html",
+          "quote": "But again they help in no wise either towards the knowledge of the other things (for they are not even the substance of these, else they would have been in them)",
+          "where": "Metaphysics I.9"
+        }
+      ]
+    },
+    {
+      "text": "Thuyết trope (Williams) nói mỗi vật có \"vệt đỏ\" riêng.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tropes/",
+          "quote": "The father of the contemporary debate on tropes was D. C. Williams",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Đọc thêm: [hướng dẫn đọc ẩn dụ hang động](../doc/platon-hang-dong.md), hình ảnh nổi tiếng nhất của thuyết Ý niệm.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đọc thêm: [hướng dẫn đọc ẩn dụ hang động](../doc/platon-hang-dong.md), cách ngắn nhất để hiểu thuyết Ý niệm của Platon.",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/platon-hang-dong/",
+          "quote": "Nó đáng đọc vì là cách ngắn nhất để hiểu thuyết ý niệm ( theory of Forms ) của Platon",
+          "where": "mục đầu trang đích"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Trích dẫn trùng bản ghi kho quotes/platon.phaedo (đã đóng băng) và khớp từng chữ với bản Jowett trên mirror Gutenberg (khác duy nhất: bản .txt dùng \"--\" thay cho \"—\"). Trang www.gutenberg.org/ebooks/1658 trả 503 trong phiên này nên dùng mirror gutenberg.pglaf.org. Bản dịch của Logos đúng nghĩa. Văn bản phạm vi công cộng nên không có giới hạn 1–2 câu. Lỗi nhẹ: mô tả link Đọc thêm dùng khái quát \"nổi tiếng nhất\" không có ở trang đích."
+}

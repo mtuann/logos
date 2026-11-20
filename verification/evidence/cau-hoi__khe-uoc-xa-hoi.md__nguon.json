@@ -1,0 +1,80 @@
+{
+  "unit": "cau-hoi/khe-uoc-xa-hoi.md#nguon",
+  "hash": "sha256:b8e2bad9a14a3cb6007162baf7c3a0718144d213c3e987affa28d425a25513aa",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k03",
+  "claims": [
+    {
+      "text": "Hobbes, Thomas, *Leviathan* (1651), Project Gutenberg. <https://www.gutenberg.org/ebooks/3207>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.3207"
+    },
+    {
+      "text": "Locke, John (1689), *Second Treatise of Government* ... (Project Gutenberg #7370)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.7370"
+    },
+    {
+      "text": "Rousseau, Jean-Jacques (1762), *Du contrat social* ... Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.46333",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/4/6/3/3/46333/46333-0.txt",
+          "quote": "Translated with Introduction by G.D.H. Cole,"
+        },
+        {
+          "url": "https://archive.org/metadata/socialcontractdi0000rous/metadata",
+          "quote": "\"date\":\"1913\""
+        }
+      ]
+    },
+    {
+      "text": "Hume, David (1748), \"Of the Original Contract\", in lần đầu trong *Three Essays, Moral and Political* (1748) ... <https://davidhume.org/texts/empl2/oc>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.davidhume-org.texts-empl2-oc"
+    },
+    {
+      "text": "Bertram, Christopher, \"Jean Jacques Rousseau\", SEP, fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.rousseau"
+    },
+    {
+      "text": "Tuckness, Alex, \"Locke's Political Philosophy\", SEP, fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.locke-political"
+    },
+    {
+      "text": "Uzgalis, William, “John Locke”, SEP, fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.locke"
+    },
+    {
+      "text": "Mục SEP \"John Locke\": thời điểm viết và in *Two Treatises*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "We now know that the Two Treatises of Government were written during the Exclusion crisis in 1681"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Các URL SEP bản lưu fall2026 và davidhume.org tải được trong phiên; www.gutenberg.org trả 503 (bảo trì) nên nội dung đối chiếu qua mirror gutenberg.pglaf.org."
+}

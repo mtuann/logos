@@ -1,0 +1,89 @@
+{
+  "unit": "cau-hoi/nu-quyen.md#nguon",
+  "hash": "sha256:94fdbf3cd31a86a11bb80381375f08dd02bfaf184a7efa0be9923003c4e712be",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k05",
+  "claims": [
+    {
+      "text": "1. Norlock & Pascoe, \"Feminist Ethics\", SEP (archives/fall2026)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.feminism-ethics",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/",
+          "quote": "Copyright © 2025 by Kathryn Norlock"
+        }
+      ]
+    },
+    {
+      "text": "2. Anderson, \"Feminist Epistemology and Philosophy of Science\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.feminism-epistemology",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-epistemology/",
+          "quote": "Copyright © 2024 by Elizabeth Anderson"
+        }
+      ]
+    },
+    {
+      "text": "3. Wollstonecraft (1792), A Vindication of the Rights of Woman, London: J. Johnson — gutenberg 3420",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.3420"
+    },
+    {
+      "text": "4. Mill (1869), The Subjection of Women, London: Longmans, Green, Reader, and Dyer",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.mill-john-stuart-1869-the-subjection-of-women-london-longman",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/27083/pg27083.txt",
+          "quote": "LONDON LONGMANS, GREEN, READER, AND DYER 1869"
+        }
+      ]
+    },
+    {
+      "text": "5. Beauvoir (1949), Le Deuxième Sexe, Paris: Gallimard",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.beauvoir-simone-de-1949-le-deuxieme-sexe-paris-gallimard"
+    },
+    {
+      "text": "6. Gilligan (1982), In a Different Voice, Harvard University Press",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.gilligan-carol-1982-in-a-different-voice-cambridge-ma-harvar"
+    },
+    {
+      "text": "7. Bourget & Chalmers (2023), doi 10.3998/phimp.2109",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "8. Mikkola, \"Feminist Perspectives on Sex and Gender\", SEP",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.feminism-gender",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/",
+          "quote": "Copyright © 2022 by Mari Mikkola"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "www.gutenberg.org trả 503 trong phiên; dùng mirror gutenberg.pglaf.org. Mọi dòng trùng bản ghi sources/* đóng băng."
+}

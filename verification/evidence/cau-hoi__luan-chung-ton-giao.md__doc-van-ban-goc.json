@@ -1,0 +1,68 @@
+{
+  "unit": "cau-hoi/luan-chung-ton-giao.md#doc-van-ban-goc",
+  "hash": "sha256:e0569d8591ff2608fd2617a80402d0e53ced61398cedf3eb4a92af398902dce6",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k08",
+  "claims": [
+    {
+      "text": "\"And, indeed, we believe that thou art a being than which nothing greater can be conceived.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/anselm.proslogion"
+    },
+    {
+      "text": "Và quả thật, chúng con tin rằng Ngài là một tồn tại mà không thể nghĩ ra cái gì lớn hơn được. *(bản dịch của Logos)*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/anselm.proslogion"
+    },
+    {
+      "text": "theo bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.anselm-xu-canterbury-10771078-proslogion-chuong-2-ban-dich-t"
+    },
+    {
+      "text": "Anselm bắt đầu bằng \"chúng con *tin* rằng...\" rồi mới lập luận.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "And indeed, we believe that thou art a being than which nothing greater can be conceived."
+        }
+      ]
+    },
+    {
+      "text": "Kant nói \"tồn tại không phải là thuộc tính\". Hãy thử với ví dụ của ông: một trăm đồng tiền thật và một trăm đồng tiền trong tưởng tượng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4280/pg4280.txt",
+          "quote": "A hundred real dollars contain no more than a hundred possible dollars."
+        }
+      ]
+    },
+    {
+      "text": "Hãy thử thay \"tồn tại vĩ đại nhất\" bằng \"hòn đảo hoàn hảo nhất\" (phản ví dụ của Gaunilo) và chạy lại bốn bước lập luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "We can formulate a perfect island parody as follows"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Trích dẫn trùng bản ghi đóng băng quotes/anselm.proslogion (dùng đúng ở đơn vị này). Ghi chú: bản CCEL (basic_works.iii.iii) in \"And indeed, we believe...\" không có dấu phẩy sau \"And\"; bản ghi kho đã đóng băng giữ \"And, indeed,\" nên không chấm. Bản dịch Logos đúng nghĩa. Bốn câu hỏi dẫn dắt khớp thân bài."
+}

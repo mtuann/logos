@@ -1,0 +1,140 @@
+{
+  "unit": "cau-hoi/cai-dep.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:3df40f803c2cf49f70367166ed10caaaa2916682005ebfbeac97ca30a83f3384",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k07",
+  "claims": [
+    {
+      "text": "Đây là một trong [[pp:khao-sat/cau-chinh]] câu chính, hỏi mọi người tham gia.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "The results for the 40 main questions (those asked of all respondents) are shown in Table 1."
+        }
+      ]
+    },
+    {
+      "text": "| Giá trị thẩm mỹ (n ≈ [[pp:gia-tri-tham-my/n]]) | Khách quan | [[pp:gia-tri-tham-my.khach-quan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/gia-tri-tham-my",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Aesthetic value Objective 740 43.5 683 40.2 Subjective 690 40.6 632 37.2 Other 322 18.9",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "| Trải nghiệm thẩm mỹ* (n ≈ [[pp:trai-nghiem-tham-my/n]]) | Đặc thù riêng (*sui generis*) | [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/trai-nghiem-tham-my"
+    },
+    {
+      "text": "\\* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm, nên ít người trả lời hơn nhiều.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\\* Câu hỏi bổ sung: chỉ một phần người tham gia được hỏi (khoảng 300 người được chọn ngẫu nhiên, phần còn lại là người tự nguyện trả lời thêm), nên ít người trả lời hơn nhiều.",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Of the 60 additional questions, one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory 50 questions. Typically, another 800 respondents (45%) were presented with the question by answering additional questions",
+          "where": "§3.2"
+        }
+      ]
+    },
+    {
+      "text": "\"Khách quan\" chỉ nhỉnh hơn \"chủ quan\" chưa tới 3 điểm phần trăm, và không lựa chọn nào đạt đa số",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/gia-tri-tham-my",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Objective 740 43.5",
+          "where": "Bảng 1"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Subjective 690 40.6",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "Vì vậy bảng không cho biết bao nhiêu triết gia theo Hume hay theo Kant.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Aesthetic value Objective 740 43.5",
+          "where": "Bảng 1: câu hỏi chỉ có hai lựa chọn khách quan/chủ quan, không nhắc Hume hay Kant"
+        }
+      ]
+    },
+    {
+      "text": "trải nghiệm ấy là một dạng tri giác, một dạng khoái cảm, hay một loại riêng không quy về hai thứ kia.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/trai-nghiem-tham-my"
+    },
+    {
+      "text": "**Mẫu khảo sát** là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Of the main target population of 7685 philosophers, 1785 (23%) com- pleted the survey."
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020."
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "This allows broader information about views within the English-speaking philosophical community."
+        }
+      ]
+    },
+    {
+      "text": "Ngoài con số, có thể nói rằng tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của hầu hết giáo trình mỹ học đương đại.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ngoài con số, tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của nhiều giáo trình mỹ học.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/",
+          "quote": "many discussions of Hume’s aesthetics concentrate on a single late essay, “Of the Standard of Taste” (1757)"
+        }
+      ]
+    },
+    {
+      "text": "Một hướng phát triển đáng chú ý: mỹ học thực nghiệm (*experimental aesthetics*) ngày nay dùng tâm lý học và thần kinh học để nghiên cứu xem não bộ phản ứng thế nào trước cái đẹp",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aesthetic-concept/",
+          "quote": "taste nevertheless operates according to general principles, which might be discovered through empirical investigation"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu đối chiếu Bảng 1 và mục 3.2 bài Bourget & Chalmers (bản PDF PhilPapers lưu trên Wayback 20/05/2026) và tools/philpapers-2020.md (Trải nghiệm thẩm mỹ: tri giác 28,2; khoái cảm 14,2; sui generis 37,2; khác 24,4; n ≈ 690). Câu chính/bổ sung được phân biệt đúng. Câu về mỹ học thực nghiệm chỉ là nhận định chung, SEP chỉ xác nhận gián tiếp truyền thống thực nghiệm (Hume); không có dữ kiện cụ thể nên không coi là lỗi."
+}

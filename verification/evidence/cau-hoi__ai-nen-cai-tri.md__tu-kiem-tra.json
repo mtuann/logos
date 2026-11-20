@@ -1,0 +1,124 @@
+{
+  "unit": "cau-hoi/ai-nen-cai-tri.md#tu-kiem-tra",
+  "hash": "sha256:288ab86cecdec17c525b0991eaf331f26cef7242d61d77490d10617f96267e32",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Câu 1: đáp án \"Nếu cai trị là một nghệ thuật cần tri thức như lái máy bay ... cũng phi lý như việc biểu quyết chọn phi công\"; các phương án khác sai rõ",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/democracy/",
+          "quote": "democracy tends to undermine the expertise necessary to the proper governance of societies",
+          "where": "2.1.2"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: đám thủy thủ tranh nhau giành lái bằng nịnh nọt, lôi kéo, thậm chí chuốc thuốc chủ tàu, rồi tung hô kẻ giúp họ cướp được tay lái là \"người đi biển giỏi\"; đáp án D; lời giải \"(Trong ngụ ngôn không có cuộc bầu cử nào: thủy thủ giành lái bằng thuyết phục hoặc vũ lực.)\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "They throng about the captain, begging and praying him to commit the helm to them",
+          "where": "Quyển VI"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "whether by force or persuasion, they compliment with the name of sailor, pilot, able seaman",
+          "where": "Quyển VI"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: đáp án C (bênh vực phòng thủ); các phương án khác sai",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.parliament.uk/historic-hansard/commons/1947/nov/11/parliament-bill",
+          "quote": "No 207 one pretends that democracy is perfect or all-wise."
+        },
+        {
+          "url": "https://iep.utm.edu/popp-pol/",
+          "quote": "not because the majority is always right, but because democratic traditions are the least evil ones of which we know"
+        }
+      ]
+    },
+    {
+      "text": "Câu 3, lời giải: \"chỉ ra rằng mọi phiên bản 'người hiểu biết cai trị' trong lịch sử đều biến thành độc tài vì không ai canh chừng được họ.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Truyền thống Churchill–Popper không hứa hẹn dân chủ cho ra quyết định đúng; nó hứa hẹn một cơ chế loại bỏ chính quyền tồi không đổ máu, và nhắc rằng những phiên bản 'người hiểu biết cai trị' trong lịch sử dễ trượt thành độc tài vì không ai canh chừng được họ.",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/popp-pol/",
+          "quote": "How can we so organize political institutions that bad or incompetent rulers can be prevented from doing too much damage?"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: đáp án A — \"... cử tri mù mờ bỏ phiếu bừa là gây hại cho người khác — nên, như bằng lái xe đòi năng lực trước khi cho lái, quyền bầu cử cũng có thể đòi một mức năng lực tối thiểu\"; lời giải: nguyên tắc năng lực (competence principle)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://politikon.iapss.org/index.php/politikon/article/view/383",
+          "quote": "He argues political power should not be held by incompetent and morally unreasonable people (i.e., the competence principle)"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voting/",
+          "quote": "Majority voters do not just choose for themselves, but for everyone",
+          "where": "3"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: ví von \"như bằng lái xe\" trong đáp án được gán cho lập luận của Brennan",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Câu 5: đáp án B (không có cách trung lập để định nghĩa và đo \"hiểu biết chính trị\" ...)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/voting/",
+          "quote": "reasonable people could disagree about just what counts as expertise and just who the experts are",
+          "where": "6.2"
+        },
+        {
+          "url": "https://www.justice.gov/crt/introduction-federal-voting-rights-laws",
+          "quote": "Such disfranchising laws included poll taxes, literacy tests"
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: \"lịch sử các bài kiểm tra cử tri cho thấy chúng luôn biến thành công cụ loại trừ người nghèo và thiểu số\"; lời giải \"lịch sử cho thấy quyền này luôn bị lạm dụng\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "lịch sử các bài kiểm tra cử tri cho thấy chúng đã nhiều lần bị biến thành công cụ loại trừ người nghèo và thiểu số (lời giải: \"...và lịch sử cho thấy quyền này đã nhiều lần bị lạm dụng.\")",
+      "sources": [
+        {
+          "url": "https://www.justice.gov/crt/introduction-federal-voting-rights-laws",
+          "quote": "These laws were \"color-blind\" on their face, but were designed to exclude black citizens disproportionately"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Mọi đáp án đúng đều đúng theo bài và nguồn; các phương án nhiễu sai rõ. Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe."
+}

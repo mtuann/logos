@@ -1,0 +1,80 @@
+{
+  "unit": "cau-hoi/van-de-su-du.md#lien-he-doi-song",
+  "hash": "sha256:3d4a26362965005d5cd0c7d38195ef1c0e1a7a9513d11a89559e3dbbac690af8",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k09",
+  "claims": [
+    {
+      "text": "chỉ có một quan sát từ chính các triết gia tôn giáo: đừng dùng biện hộ triết học làm lời an ủi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/evil-evi/",
+          "quote": "Such a problem calls, not for philosophical enlightenment, but for pastoral care.",
+          "where": "trích Plantinga 1977: 63–64"
+        }
+      ]
+    },
+    {
+      "text": "Với sự dữ do con người, biện hộ tự do ý chí có sức nặng trực tiếp ... Với sự dữ tự nhiên (động đất, ung thư), biện hộ này yếu đi nhiều, và đó chính là chỗ Rowe nhắm vào.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/evil-log/",
+          "quote": "An Objection: Free Will and Natural Evil"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/skeptical-theism/",
+          "quote": "Their suffering isn’t the result of their own free will, for instance; nor does their suffering contribute to their “soul-building”"
+        }
+      ]
+    },
+    {
+      "text": "Quan sát này cũ như sách Gióp trong Kinh Thánh — và sách Gióp kết thúc mà không đưa ra lời giải thích nào, chỉ có một cuộc đối thoại.",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Quan sát này cũ như sách Gióp trong Kinh Thánh — và trong sách Gióp, Thượng đế đáp Gióp từ cơn gió lốc bằng những câu hỏi, không hề nói cho ông biết vì sao ông phải chịu khổ.",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Job",
+          "quote": "Doth Job fear God for nought?",
+          "where": "chương 1: người đọc được biết cuộc thử thách"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Job",
+          "quote": "Then the LORD answered Job out of the whirlwind",
+          "where": "chương 38"
+        },
+        {
+          "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Job",
+          "quote": "also the LORD gave Job twice as much as he had before",
+          "where": "chương 42:10"
+        }
+      ]
+    },
+    {
+      "text": "Sách Gióp không trả lời Gióp; nó chỉ cho thấy Thượng đế lắng nghe ông.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Job",
+          "quote": "the LORD also accepted Job",
+          "where": "chương 42:9"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Lỗi duy nhất mức nhẹ: sách Gióp có phần mở đầu (cuộc thử thách, chương 1–2) mà người đọc biết, và phần kết Gióp được phục hồi gấp đôi (42:10), nên \"kết thúc ... chỉ có một cuộc đối thoại\" không chính xác; điều đúng là Gióp không được giải thích. Các đoạn còn lại là suy ngẫm, không có dữ kiện."
+}

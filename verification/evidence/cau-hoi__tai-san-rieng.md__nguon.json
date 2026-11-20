@@ -1,0 +1,59 @@
+{
+  "unit": "cau-hoi/tai-san-rieng.md#nguon",
+  "hash": "sha256:69d98e36b35404e9e74bbbe3eec37ae59de9be26f4f85a2aedb9d5b18e268b35",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k03",
+  "claims": [
+    {
+      "text": "van der Vossen, Bas & Billy Christmas, \"Libertarianism\", SEP, fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.libertarianism"
+    },
+    {
+      "text": "Tuckness, Alex, \"Locke's Political Philosophy\", SEP, fall2026",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.locke-political"
+    },
+    {
+      "text": "Locke, John (1689), *Second Treatise of Government* ... (Project Gutenberg #7370)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.7370"
+    },
+    {
+      "text": "Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nozick-robert-1974-anarchy-state-and-utopia-new-york-basic-b"
+    },
+    {
+      "text": "Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.rousseau-jean-jacques-1755-discours-sur-l-origine-et-les-fon"
+    },
+    {
+      "text": "Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.360"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. SEP bản lưu fall2026 tải được; www.gutenberg.org trả 503 (bảo trì), nội dung #7370 và #360 đối chiếu qua mirror gutenberg.pglaf.org; survey2020.philpeople.org chặn công cụ (kiểm tra chống bot), bài báo đối chiếu qua journals.publishing.umich.edu."
+}

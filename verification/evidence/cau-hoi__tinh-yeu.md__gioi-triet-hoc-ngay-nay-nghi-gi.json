@@ -1,0 +1,59 @@
+{
+  "unit": "cau-hoi/tinh-yeu.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:aa294c929ef044cefde56c246cda0b1482bde346af1ec966e2d96de075661817",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k14",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về tình yêu ...; trong 100 câu hỏi của đợt khảo sát 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "the list of questions was expanded from 30 questions to 100 questions",
+          "where": "mục 1; đã dò toàn văn bài báo (Bảng 1–2): không có câu nào chứa \"love\""
+        }
+      ]
+    },
+    {
+      "text": "cả ba hướng trên đều có đại diện nghiêm túc trong triết học đương đại và còn đang tranh luận. Hướng của Frankfurt — ... — đặc biệt có ảnh hưởng, một phần vì nó nối tình yêu với một câu hỏi lớn khác của triết học: ta có tự do không",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Một điều có thể nói một cách trung thực: cả ba hướng trên vẫn được bàn trong văn liệu đương đại và còn đang tranh luận. Hướng của Frankfurt — tình yêu như sự quan tâm không vụ lợi gắn với ý chí — còn nối tình yêu với một câu hỏi lớn khác của triết học: [ta có tự do không](tu-do-y-chi.md), khi ngay cả việc ta yêu ai cũng không hoàn toàn do ta quyết định?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "The robust concern view of love takes this to be the central and defining feature of love (cf. Taylor 1976; Newton-Smith 1989; Soble 1990, 1997; LaFollette 1996; Frankfurt 1999; White 2001).",
+          "where": "mục 3: SEP liệt kê Frankfurt cùng nhiều tác giả, không nói hướng này \"đặc biệt có ảnh hưởng\""
+        },
+        {
+          "url": "https://ndpr.nd.edu/reviews/the-reasons-of-love/",
+          "quote": "In loving, we are subject to some sort of volitional necessity that limits or constrains the will."
+        }
+      ]
+    },
+    {
+      "text": "link [ta có tự do không](tu-do-y-chi.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Ta có thật sự tự do lựa chọn?",
+          "where": "tiêu đề trang đích đã deploy"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mục ghi đúng là không có số liệu khảo sát; không suy đoán con số."
+}

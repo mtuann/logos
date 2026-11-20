@@ -1,0 +1,116 @@
+{
+  "unit": "cau-hoi/nhan-qua-ban-chat.md#_dau",
+  "hash": "sha256:77ff786a852214a80e35ee2142f387d5611b6aac266bc1e9301d188c98cb6046",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k10",
+  "claims": [
+    {
+      "text": "Hume (*Treatise*, 1739–40; *Enquiry*, 1748)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.a-treatise-of-human-nature"
+    },
+    {
+      "text": "*Enquiry*, 1748",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.an-enquiry-concerning-human-understanding"
+    },
+    {
+      "text": "nhân quả chỉ là kế tiếp + tiếp xúc + nối tiếp thường xuyên, còn cảm giác \"tất yếu\" là thói quen tâm lý bị nhầm thành tính chất của thế giới",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/hume-cau/",
+          "quote": "An object precedent and contiguous to another, and where all the objects resembling the former are placed in like relations of precedency and contiguity"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "Hume takes us to project our causal tendencies into observed regularities"
+        }
+      ]
+    },
+    {
+      "text": "thuyết năng lực (*dispositionalism*) — thế giới có \"quyền năng\" nhân quả thật",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/dispositions/",
+          "quote": "the dispositionalist typically maintains what Hildebrand (2014) calls ‘Descriptive Non-Humeanism’"
+        }
+      ]
+    },
+    {
+      "text": "thuyết phản thực (Lewis 1973; Woodward)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "1. Lewis’s 1973 Counterfactual Analysis"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-counterfactual/",
+          "quote": "Early exponents include Hitchcock 2001, 2007; Woodward 2003"
+        }
+      ]
+    },
+    {
+      "text": "Hume thành thật nhất với kinh nghiệm nhưng bỏ ngỏ siêu hình học (vì sao thế giới *chiều theo* kỳ vọng của ta?)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume/",
+          "quote": "There has been considerable scholarly debate about Hume’s attitude towards necessary connection."
+        }
+      ]
+    },
+    {
+      "text": "[Hume](../triet-gia/hume.md)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/hume/",
+          "quote": "1711–1776"
+        }
+      ]
+    },
+    {
+      "text": "Về cuộc đời và lập luận đầy đủ của Hume, xem bài [Hume về nhân quả](../doc/hume-nhan-qua.md).",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Về lập luận của Hume trong *Điều tra về trí năng con người* (mục IV, V, VII), xem bài [Đọc Hume về nhân quả](../doc/hume-nhan-qua.md); về cuộc đời ông, xem trang [Hume](../triet-gia/hume.md).",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/hume-nhan-qua/",
+          "quote": "Đọc Hume về nhân quả (\"Điều tra về trí năng con người\")",
+          "where": "tiêu đề trang đích"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/doc/hume-nhan-qua/",
+          "quote": "3. Thói quen, người dẫn đường (EHU 5.5–5.6)",
+          "where": "trang đích chỉ đọc chậm các mục IV, V, VII của Enquiry, không có phần tiểu sử"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/triet-gia/hume/",
+          "quote": "Ông sinh năm 1711 ở Edinburgh",
+          "where": "tiểu sử nằm ở trang triết gia"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Tóm tắt khớp thân bài. Link Đọc tiếp: trang đích có thật (đã deploy) nhưng nhãn thiếu chữ \"Đọc\" và mô tả \"cuộc đời\" không khớp nội dung trang đích."
+}

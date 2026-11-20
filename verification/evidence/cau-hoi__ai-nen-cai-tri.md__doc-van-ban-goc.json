@@ -1,0 +1,99 @@
+{
+  "unit": "cau-hoi/ai-nen-cai-tri.md#doc-van-ban-goc",
+  "hash": "sha256:f0ec9ba44382402fb8ad0738ec7cc361c262f4d9e774cf0610ab147633620de9",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k01",
+  "claims": [
+    {
+      "text": "Cộng hòa của Platon đã thuộc phạm vi công cộng. Hình ảnh con tàu (Quyển VI, 488a–489d) có thể đọc qua bản dịch tiếng Anh của Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1497"
+    },
+    {
+      "text": "Một con tàu mà chủ tàu thì to khỏe nhưng mù mờ về hàng hải. Đám thủy thủ tranh nhau cầm lái bằng nịnh nọt, lôi kéo, thậm chí chuốc thuốc — không ai chịu học nghệ thuật đi biển",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "a captain who is taller and stronger than any of the crew, but he is a little deaf and has a similar infirmity in sight, and his knowledge of navigation is not much better",
+          "where": "Quyển VI"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "having first chained up the noble captain’s senses with drink or some narcotic drug, they mutiny and take possession of the ship",
+          "where": "Quyển VI"
+        }
+      ]
+    },
+    {
+      "text": "thậm chí còn cười nhạo ý tưởng rằng lái tàu là thứ phải học",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "thậm chí còn khăng khăng rằng lái tàu là thứ không thể dạy được, và sẵn sàng băm vằm ai nói ngược lại.",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/4/9/1497/1497-0.txt",
+          "quote": "will further assert that it cannot be taught, and they are ready to cut in pieces any one who says the contrary",
+          "where": "Quyển VI"
+        }
+      ]
+    },
+    {
+      "text": "Người duy nhất thật sự biết nhìn sao đoán gió thì bị cả đám gọi là \"kẻ ba hoa, kẻ ngắm sao, kẻ vô tích sự\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/platon.cong-hoa"
+    },
+    {
+      "text": "Against Democracy (2016) của Brennan còn bản quyền, nên bài này chỉ tóm tắt: cử tri thường thiếu hiểu biết là một thực tế có bằng chứng; ... các mô hình epistocracy ... đáng được thử nghiệm ít nhất trong tranh luận.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://press.princeton.edu/books/paperback/9780691178493/against-democracy",
+          "quote": "Brennan argues that a new system of government—epistocracy, the rule of the knowledgeable—may be better than democracy, and that it’s time to experiment and find out"
+        }
+      ]
+    },
+    {
+      "text": "Brennan so sánh quyền bầu cử với bằng lái xe: đều là những hoạt động mà sự thiếu năng lực gây hại cho người khác.",
+      "kind": "dien-giai",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Người phản bác Brennan nói: tuổi bầu cử là tiêu chí khách quan không thể thao túng, còn \"bài kiểm tra kiến thức\" thì có thể.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/ai-nen-cai-tri/",
+          "quote": "vì tuổi tác là tiêu chí khách quan, không thể thao túng",
+          "where": "khớp mục Các lập trường chính"
+        }
+      ]
+    },
+    {
+      "text": "Đọc thêm: hướng dẫn đọc ẩn dụ hang động (Cộng hòa VII), nơi Platon giải thích vì sao người đã ra khỏi hang phải quay xuống cai trị.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/doc/platon-hang-dong/",
+          "quote": "Còn người đã thấy ánh sáng thì không được ở lại trên ấy: họ phải xuống cai trị"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Trích dẫn Brennan: không trích nguyên văn, chỉ tóm tắt (đúng luật bản quyền). Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe."
+}

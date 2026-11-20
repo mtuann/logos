@@ -1,0 +1,93 @@
+{
+  "unit": "cau-hoi/hanh-phuc.md#thi-nghiem-tu-duy",
+  "hash": "sha256:1c0c985710568034b082d84967236c6f7447addeff51bc97a2cf06a2eed1a0d3",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k14",
+  "claims": [
+    {
+      "text": "Robert Nozick mời bạn tưởng tượng một cỗ máy trải nghiệm: ... viết một tiểu thuyết vĩ đại ... Trong máy, bạn hoàn toàn không biết mình đang trong máy",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "works/nozick.anarchy-state-and-utopia",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "This machine would give you experiences of whatever kind you thought most valuable or enjoyable—writing a great novel, bringing about world peace, attending an early Rolling Stones’ gig. You would not know you were on the machine",
+          "where": "mục 4.1"
+        },
+        {
+          "url": "https://iep.utm.edu/experience-machine/",
+          "quote": "Nozick first introduced the experience machine thought experiment in 1974 in his book Anarchy, State, and Utopia .",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Cứ hai năm bạn được \"ra\" một lần để chọn lại chương trình cho hai năm tiếp theo.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/experience-machine/",
+          "quote": "In the 1974’s EMTE the plugging in is for two years, while in the 1989’s EMTE the plugging in is for life.",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://iep.utm.edu/experience-machine/",
+          "quote": "“getting out every two years would be depressing”",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Hầu hết mọi người trả lời \"không\", và Nozick cho rằng câu trả lời đó tiết lộ ...: ta ... còn muốn thực sự làm điều gì đó, và muốn thực sự là một con người nào đó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/experience-machine/",
+          "quote": "Weijers (2014) found that this judgement was shared by 84% of the participants asked to respond to Nozick’s 1974’s EMTE.",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hedonism/",
+          "quote": "“to do certain things, and not just have the experience [as if] of doing them”, “to be a certain way, to be a certain sort of person”"
+        }
+      ]
+    },
+    {
+      "text": "Hình: \"Cỗ máy trải nghiệm (Nozick, 1974)\"; \"Khảo sát PhilPapers 2020: 76,9% triết gia nói không.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Experience machine (would you enter?) Yes 219 13.3 No 1262 76.9",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "Một biến thể để thử thêm: giả sử cỗ máy được nâng cấp — ... biến bạn thực sự thành nhà văn vĩ đại",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/experience-machine/",
+          "quote": "A New Generation of Experience Machine Thought Experiments",
+          "where": "mục lục: văn liệu có nhiều biến thể; biến thể trong bài được trình bày như câu hỏi của bài (\"Một biến thể để thử thêm\"), không gán cho Nozick"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Bài trộn hai bản của Nozick: hỏi \"cả đời\" (gần bản 1989) nhưng giữ chi tiết ra máy mỗi hai năm (bản 1974, theo IEP). Không sai, chỉ ghi để người viết biết. Văn bản ASU (1974) còn bản quyền, không mở được; chi tiết lấy qua IEP và SEP."
+}

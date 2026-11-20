@@ -1,0 +1,93 @@
+{
+  "unit": "cau-hoi/duc-tin-ly-tri.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:e1c68891aeed2af4cc2fe930ffe296328632648c44c98ec7b03b7a671546e7ea",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k08",
+  "claims": [
+    {
+      "text": "| Thượng đế (câu chính, n ≈ [[pp:thuong-de/n]]) | Hữu thần (*theism*) | [[pp:thuong-de.huu-than]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/thuong-de"
+    },
+    {
+      "text": "| Luận chứng cho sự tồn tại của Thượng đế — mạnh nhất? (câu bổ sung, n ≈ [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat/n]]) | Vũ trụ luận | [[pp:luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat.vu-tru-luan]] |",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/luan-chung-cho-su-ton-tai-cua-thuong-de-manh-nhat"
+    },
+    {
+      "text": "Câu gần nhất là câu bổ sung \"Bất đồng hợp lý\" (n ≈ [[pp:bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma/n]])",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/bat-dong-hop-ly-hai-nguoi-cung-bang-chung-co-the-bat-dong-ma"
+    },
+    {
+      "text": "Bảng 1 (câu chính) và Bảng 2 (câu bổ sung). % là tỉ lệ \"chấp nhận hoặc nghiêng về\"; một người có thể chọn nhiều đáp án.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Table 2: Additional questions: respondents who accept or lean toward each answer."
+        }
+      ]
+    },
+    {
+      "text": "\"thực dụng\" không chỉ riêng Pascal (lập luận \"quyền được tin\" của William James cũng thường được xếp vào họ này)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pragmatic-belief-god/",
+          "quote": "this entry focuses primarily on the theistic pragmatic arguments found in William James, J.S. Mill, and others"
+        }
+      ]
+    },
+    {
+      "text": "khảo sát **không hỏi** câu hỏi trung tâm của bài: \"tin mà không đủ bằng chứng có sai không\", hay đức tin đứng ở đâu trước lý trí.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "Rational disagreement (can two people with the same evidence rationally disagree?)",
+          "where": "Bảng 2; tìm cả bài báo không có \"faith\", \"evidential\""
+        }
+      ]
+    },
+    {
+      "text": "mẫu khảo sát là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.3998/phimp.2109",
+          "quote": "with strongest coverage on English-speaking and English-publishing philosophers"
+        }
+      ]
+    },
+    {
+      "text": "và nhiều triết gia vô thần vẫn coi canh bạc Pascal hay lập luận của Kierkegaard là những thách thức tri thức đáng nể, chứ không phải những ngụy biện dễ bác.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "và canh bạc Pascal hay quan niệm đức tin của Kierkegaard vẫn được bàn nghiêm túc trong văn liệu chuyên ngành, chứ không bị coi là những ngụy biện dễ bác.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "The bulk of the literature addresses the third of these arguments"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu khớp kho philpapers đóng băng (18,9/66,9/14,0; 14,2 thực dụng; 70,2/19,4 bất đồng hợp lý). Câu \"nhiều triết gia vô thần vẫn coi...\" là khái quát không có nguồn về thái độ của người vô thần."
+}

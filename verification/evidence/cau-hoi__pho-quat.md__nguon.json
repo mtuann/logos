@@ -1,0 +1,71 @@
+{
+  "unit": "cau-hoi/pho-quat.md#nguon",
+  "hash": "sha256:2fb675fd4b6cdb6855a67674202a96034efe8a38db53e97398da3b6c07c81a24",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k06",
+  "claims": [
+    {
+      "text": "Đoạn được dẫn: *Phaedo* 100c–d.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/platon.phaedo"
+    },
+    {
+      "text": "1. Platon, *Phaedo*, bản dịch Benjamin Jowett, Project Gutenberg. <https://www.gutenberg.org/ebooks/1658>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1658"
+    },
+    {
+      "text": "2. Armstrong, David M. (1978), *Universals and Scientific Realism*, Cambridge: Cambridge University Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.armstrong-david-m-1978-universals-and-scientific-realism-cam"
+    },
+    {
+      "text": "3. van Inwagen, Peter, Meghan Sullivan & Sara Bernstein, \"Metaphysics\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaphysics/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.metaphysics"
+    },
+    {
+      "text": "4. Cowling, Sam & Daniel Giberman, \"Nominalism in Metaphysics\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/nominalism-metaphysics/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.nominalism-metaphysics"
+    },
+    {
+      "text": "5. MacBride, Fraser & Christopher Daly, \"Truthmakers\", *Stanford Encyclopedia of Philosophy* (về tranh luận thực tại luận – duy danh luận). <https://plato.stanford.edu/archives/fall2026/entries/truthmakers/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.truthmakers"
+    },
+    {
+      "text": "6. Aristotle, *Metaphysics*, các quyển VII–VIII (bàn về phổ quát trong sự vật). Bản dịch tiếng Anh của W. D. Ross (1908), trên The Internet Classics Archive (MIT). <https://classics.mit.edu/Aristotle/metaphysics.html>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.classics-mit-edu.aristotle-metaphysics-html"
+    },
+    {
+      "text": "7. Maurin, Anna-Sofia, \"Tropes\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/tropes/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sep.tropes"
+    },
+    {
+      "text": "8. David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Cả 8 dòng nguồn trùng bản ghi sources/* đã đóng băng. Đối chiếu thêm trong phiên: tác giả bốn mục SEP (citation_author trên bản lưu fall2026) khớp; DOI 10.3998/phimp.2109 mở được. survey2020.philpeople.org trả 403 với curl (trang chặn công cụ), không ảnh hưởng vì dòng nguồn đã có trong kho."
+}

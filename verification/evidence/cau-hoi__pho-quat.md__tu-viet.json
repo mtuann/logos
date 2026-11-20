@@ -1,0 +1,43 @@
+{
+  "unit": "cau-hoi/pho-quat.md#tu-viet",
+  "hash": "sha256:2b2f555f2477bb11764a197e3d4bcc23d8cab830b817f11483ab864ddef2df2a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k06",
+  "claims": [
+    {
+      "text": "Hãy chọn một \"loại\" mà bạn hay dùng trong đời sống … Dùng ít nhất một lập trường trong bài để bảo vệ câu trả lời của bạn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/properties/",
+          "quote": "The problem is that certain things are many, they are numerically different, and yet they are somehow one",
+          "where": "mục 1.2"
+        }
+      ]
+    },
+    {
+      "text": "Bạn có nêu rõ mình đứng về phía nào (thực tại luận / duy danh luận / thuyết tương tự) ngay từ đầu không?",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Bạn có nêu rõ mình đứng về phía nào (thực tại luận / duy danh luận / thuyết tương tự / thuyết trope) ngay từ đầu không?",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/tropes/",
+          "quote": "Williams defends a one-category theory of tropes (for the first time so labeled), a bundle theory of concrete particulars, and a resemblance class theory of universals.",
+          "where": "mục 1"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Câu hỏi bám đúng bài. Lỗi nhẹ: tiêu chí tự đánh giá chỉ kể ba phe, bỏ thuyết trope (mục 4 của bài)."
+}

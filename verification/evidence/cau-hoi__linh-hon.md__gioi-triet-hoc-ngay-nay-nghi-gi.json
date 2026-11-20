@@ -1,0 +1,119 @@
+{
+  "unit": "cau-hoi/linh-hon.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:d100a86a0cd31ebe2676c4614f0ff8fe567ad42f81c3b51a7fc1b6bf4dc756c7",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k09",
+  "claims": [
+    {
+      "text": "Tâm trí (câu chính, n ≈ [[pp:tam-tri/n]]): Vật lý luận / Phi vật lý luận / Khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tam-tri"
+    },
+    {
+      "text": "Vấn đề khó của ý thức có tồn tại không? (câu bổ sung): Có / Không / Khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/van-de-kho-cua-y-thuc-co-ton-tai-khong"
+    },
+    {
+      "text": "Ý thức: lý thuyết nào đúng? (câu bổ sung): Nhị nguyên luận / Loại trừ luận / Chủ nghĩa chức năng / Thuyết đồng nhất / Toàn tâm luận / Khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/y-thuc-ly-thuyet"
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, Bảng 1–2.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "và hai câu bổ sung (chỉ hỏi những người chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "và hai câu bổ sung (mỗi câu được hỏi khoảng một phần sáu người tham gia, chọn ngẫu nhiên, cộng thêm những người tự chọn trả lời)",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "each of which would be asked to one-sixth of participants (selected randomly)"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Participants were also given the option of answering some or all of the other 50 additional questions if they chose to"
+        }
+      ]
+    },
+    {
+      "text": "Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\" mỗi lựa chọn; một người có thể chọn nhiều lựa chọn nên tổng có thể vượt 100%.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "we allowed respondents to indicate that they “accept” or “lean toward” a view"
+        }
+      ]
+    },
+    {
+      "text": "Vật lý luận là đa số, nhưng không áp đảo — gần một phần ba giới triết học vẫn giữ một hình thức phi vật lý luận nào đó.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/tam-tri"
+    },
+    {
+      "text": "hơn ba phần năm số người được hỏi thừa nhận có một \"vấn đề khó\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/van-de-kho-cua-y-thuc-co-ton-tai-khong"
+    },
+    {
+      "text": "bảng tương quan trên trang kết quả của khảo sát cho thấy người theo vật lý luận ít thừa nhận vấn đề khó hơn người không theo, nhưng trong số người thừa nhận vẫn có rất nhiều người theo vật lý luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/5042",
+          "quote": "r: -0.35 Mind: physicalism Hard problem of consciousness: yes Accept Reject Accept 277 300 Reject 227 73 n: 877",
+          "where": "bản lưu Wayback 05/01/2026; trang gốc chặn công cụ (Cloudflare). Đọc bảng: trong số người thừa nhận vấn đề khó, 277 theo vật lý luận, 300 không"
+        }
+      ]
+    },
+    {
+      "text": "Câu này không tách nhị nguyên thực chất (Descartes) với nhị nguyên tính chất (Chalmers)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/5042",
+          "quote": "Consciousness: dualism Hard problem of consciousness: yes"
+        }
+      ]
+    },
+    {
+      "text": "mẫu khảo sát là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "This allows broader information about views within the English-speaking philosophical community."
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Mọi con số dùng shortcode từ kho philpapers đã đóng băng; câu văn diễn đạt đúng câu chính/câu bổ sung và \"chấp nhận hoặc nghiêng về\". Lỗi nhẹ: mô tả cách hỏi câu bổ sung."
+}

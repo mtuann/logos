@@ -1,0 +1,351 @@
+{
+  "unit": "cau-hoi/tai-san-rieng.md#cac-lap-truong-chinh",
+  "hash": "sha256:7c7b49bf787ab4ba3fdef9b6f9022f117619da05a2b924f033778b74bbede391",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k03",
+  "claims": [
+    {
+      "text": "John Locke, trong *Two Treatises of Government* (in cuối năm 1689, trang bìa ghi 1690)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/locke.two-treatises-of-government",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "The Two Treatises of Government were published in 1689"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "only the original words contained in the 1690 Locke text is included"
+        }
+      ]
+    },
+    {
+      "text": "đưa ra lý thuyết sở hữu có ảnh hưởng sâu rộng nhất trong lịch sử",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "đưa ra một trong những lý thuyết sở hữu có ảnh hưởng nhất trong lịch sử",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke/",
+          "quote": "Chapter 5 \"Of Property\" is one of the most famous, influential and important chapters in the Second Treatise of Government"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Locke's theory is widely regarded as the most interesting of the canonical discussions of property."
+        }
+      ]
+    },
+    {
+      "text": "ban đầu, đất đai và tài nguyên là của chung của nhân loại (Chúa ban cho mọi người). Nhưng mỗi người sở hữu *chính mình*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "God, who hath given the world to men in common",
+          "where": "§26"
+        }
+      ]
+    },
+    {
+      "text": "Trích §27: \"every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his.\" kèm bản dịch của Logos",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/john-locke.two-treatises-of-government",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "every man has a property in his own person: this no body has any right to but himself. The labour of his body, and the work of his hands, we may say, are properly his.",
+          "where": "Second Treatise, ch. V, §27 (so khớp từng chữ bằng script)"
+        }
+      ]
+    },
+    {
+      "text": "điều kiện \"còn đủ cho người khác\" (*proviso*): chỉ được chiếm hữu khi còn \"đủ và tốt\" (*enough, and as good*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "at least where there is enough, and as good, left in common for others",
+          "where": "§27"
+        }
+      ]
+    },
+    {
+      "text": "giới hạn hư hỏng: không được lấy nhiều hơn mức mình dùng được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "As much as any one can make use of to any advantage of life before it spoils, so much he may by his labour fix a property in",
+          "where": "§31"
+        }
+      ]
+    },
+    {
+      "text": "Locke cho rằng sự ra đời của *tiền tệ* đã gỡ bỏ giới hạn thứ hai: vì tiền không hư hỏng ... bằng \"sự đồng ý ngầm\" của xã hội khi chấp nhận dùng tiền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "And thus came in the use of money, some lasting thing that men might keep without spoiling",
+          "where": "§47"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "they having, by a tacit and voluntary consent, found out, a way how a man may fairly possess more land than he himself can use the product of",
+          "where": "§50"
+        }
+      ]
+    },
+    {
+      "text": "Lập luận mạnh nhất (Locke): ông đòi hỏi việc chiếm hữu của bạn không được làm cho người khác tệ đi",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/7/3/7/7370/7370-0.txt",
+          "quote": "Nor was this appropriation of any parcel of land, by improving it, any prejudice to any other man, since there was still enough, and as good left",
+          "where": "§33"
+        }
+      ]
+    },
+    {
+      "text": "Phản bác thứ nhất là ví dụ nước cà chua của Nozick ... Phản bác thứ ba: ... chỉ là cách Locke hợp thức hóa sự tích lũy của giới có tiền thời ông?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "Robert Nozick (1974) criticized this argument with his famous example of mixing tomato juice one rightfully owns with the sea."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/locke-political/",
+          "quote": "advanced by C.B. Macpherson (1962), sees Locke as a defender of unrestricted capitalist accumulation"
+        }
+      ]
+    },
+    {
+      "text": "Cách đáp lại (Locke, qua cách đọc của Nozick): điều kiện nên hiểu theo nghĩa *không làm ai tệ đi so với khi chưa chiếm hữu* ... kinh tế thị trường ... điều kiện vẫn thỏa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "that individual will have a just complaint against others' acquisitions if and only if those acquisitions leave her on net worse off in terms of utility or welfare"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "Nozick maintains that this proviso is readily satisfied in free market economies"
+        }
+      ]
+    },
+    {
+      "text": "Robert Nozick, trong *Anarchy, State, and Utopia* (1974), xây dựng **lý thuyết quyền hưởng** (*entitlement theory*): chiếm hữu ban đầu, chuyển nhượng, sửa chữa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/nozick.anarchy-state-and-utopia",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/libertarianism/",
+          "quote": "Nozick's \"entitlement theory\" of distributive justice consists entirely of these two modes of acquisition and a principle of rectification for their violation."
+        }
+      ]
+    },
+    {
+      "text": "ví dụ Wilt Chamberlain đã được trình bày trong [bài về công lý](cong-ly.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cong-ly/",
+          "quote": "ví dụ Wilt Chamberlain cho thấy mọi mô hình"
+        }
+      ]
+    },
+    {
+      "text": "thuế đánh vào thu nhập từ lao động thì \"cũng tương đương với lao động cưỡng bức\" (*on a par with forced labor*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "taxation is \"on a par with forced labor\" (169)"
+        }
+      ]
+    },
+    {
+      "text": "Lập luận mạnh nhất (Nozick): nếu thừa nhận tôi có quyền với thân thể và công sức của mình, thì phải thừa nhận tôi có quyền với thành quả",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/libertarianism/",
+          "quote": "people initially have the right not to be forced to work for certain ends"
+        }
+      ]
+    },
+    {
+      "text": "Phản bác (Nozick): của cải có phần đóng góp của xã hội và may mắn (xem [bài về bình đẳng](binh-dang.md): may rủi thuần túy vs may rủi do lựa chọn); chính Nozick cũng thừa nhận ... lịch sử nhân loại đầy rẫy bất công",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/binh-dang/",
+          "quote": "Dworkin phân biệt hai loại may rủi"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "Nozick recognizes that even in relatively free societies the historical processes that have yielded existing holdings have been shot through with injustices."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "enforcement of such end-state principle may in the short run make necessary \"a state more extensive than the minimal state\" (230)"
+        }
+      ]
+    },
+    {
+      "text": "Người theo Nozick đáp rằng phần đóng góp của xã hội chỉ biện minh cho việc trả *phí dịch vụ* (thuế duy trì đường sá, an ninh)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Người theo Nozick đáp rằng phần đóng góp của xã hội chỉ biện minh cho việc trả *phí* cho các dịch vụ bảo vệ quyền (an ninh, tòa án) của một nhà nước tối thiểu",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/libertarianism/",
+          "quote": "if the state engaged in any further activities, for example, redistributing wealth in a way that was not strictly necessary to the protection if rights, it would be violating rights and would be illegitimate."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "Nozick's minimal state does not impose taxation—even to fund its rights protective activities."
+        }
+      ]
+    },
+    {
+      "text": "Còn về bất công lịch sử, họ thừa nhận đó là vấn đề thật — nhưng là vấn đề của *sửa chữa sai lầm cụ thể* (trả lại cho nạn nhân cụ thể), không phải lý do để tái phân phối thường xuyên cho \"người nghèo nói chung\".",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "Còn về bất công lịch sử, họ thừa nhận đó là vấn đề thật — nhưng là vấn đề của *sửa chữa*: chỉ nạn nhân hiện nay mới có quyền đòi những người hưởng lợi hiện nay, và ta thường thiếu thông tin để xác định họ. Chính Nozick cũng nhận rằng việc sửa chữa có thể phải làm phỏng chừng, bằng các khoản chi cho những nhóm người nhiều khả năng bị thiệt vì bất công quá khứ; điều ông bác bỏ là coi tái phân phối theo một mô hình kết quả là đòi hỏi thường trực của công lý.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "Presumably any acceptable doctrine will require that only current victims of past injustices have just claims to rectification payments and that they only have just claims against current beneficiaries of those past injustices."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "proper rectification may have to take the form of rough and ready payments to classes of people whose members are likely to be worse off than they otherwise would be because of historical injustices"
+        }
+      ]
+    },
+    {
+      "text": "sở hữu không phải là quan hệ giữa *người và vật* ... mà là quan hệ giữa *người và người* ... cần sự *công nhận của cộng đồng*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Society simply pledges itself to enforce the rights of exclusion that ownership involves wherever those rights happen to be."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "The Humean view of property as a convention has been taken up by Murphy and Nagel (2002)"
+        }
+      ]
+    },
+    {
+      "text": "Rousseau, trong *Luận về nguồn gốc của bất bình đẳng* (1755) ... (diễn đạt lại): người đầu tiên rào một mảnh đất lại, tuyên bố \"đây là của tôi\", và tìm được những người đủ ngây thơ để tin — chính là người đã khai sinh ra xã hội văn minh, cùng với mọi tội ác và chiến tranh của nó",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/rousseau.discours-sur-lorigine-et-les-fondements-de-linegal",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/1/1/1/3/11136/11136-0.txt",
+          "quote": "The first man, who, after enclosing a piece of ground, took it into his head to say, \"This is mine,\" and found people simple enough to believe him, was the true founder of civil society. How many crimes, how many wars, how many murders",
+          "where": "Second Part"
+        }
+      ]
+    },
+    {
+      "text": "Proudhon ... *Tài sản là gì?* (1840) ... \"Tài sản là trộm cắp!\" (*La propriété, c'est le vol!*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Qu%E2%80%99est_ce_que_la_propri%C3%A9t%C3%A9_%3F/Chapitre_1",
+          "quote": "Qu'est-ce que la propriété ? (1840)"
+        },
+        {
+          "url": "https://fr.wikisource.org/wiki/Qu%E2%80%99est_ce_que_la_propri%C3%A9t%C3%A9_%3F/Chapitre_1",
+          "quote": "La propriété, c'est le vol !"
+        }
+      ]
+    },
+    {
+      "text": "ông phân biệt *chiếm hữu* (*possession*) ... với *sở hữu* (*propriété*) theo nghĩa quyền thu lợi (tiền thuê, tiền lãi, lợi nhuận) từ lao động của người khác",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/6/360/360.txt",
+          "quote": "Possession is a right; property is against right. Suppress property while maintaining possession"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/3/6/360/360.txt",
+          "quote": "Property is the Right of Increase claimed by the Proprietor over any thing which he has stamped as his own."
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/3/6/360/360.txt",
+          "quote": "if by houses and furniture, RENT; if by life-investments, REVENUE; if by money, INTEREST; if by exchange, ADVANTAGE, GAIN, PROFIT"
+        }
+      ]
+    },
+    {
+      "text": "Lập luận mạnh nhất (3): quyền sở hữu của bạn chỉ có giá trị vì nhà nước — tức cộng đồng — dùng bạo lực để bảo vệ nó",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Society simply pledges itself to enforce the rights of exclusion that ownership involves"
+        }
+      ]
+    },
+    {
+      "text": "Phản bác (3): nói \"cộng đồng công nhận\" không giải thích được *vì sao* cộng đồng nên công nhận ... Quyền sở hữu, dù là quy ước, vẫn là một quy ước *hữu ích*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "But the fact that something is conventional doesn't mean it can safely be treated as malleable or as something that can be overridden without cost."
+        }
+      ]
+    },
+    {
+      "text": "Cách đáp lại (3): Proudhon cũng phân biệt chiếm hữu để tự mình sử dụng với sở hữu để thu lợi từ lao động của người khác",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/6/360/360.txt",
+          "quote": "Individual POSSESSION [35] is the condition of social life"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Ba lập trường đều đủ ba nhãn. Lập trường 3 là cách gộp của bài (quy ước luận về sở hữu); SEP Property gắn quan điểm này chủ yếu với Hume, Murphy và Nagel, còn bài lấy Rousseau và Proudhon làm minh họa, vẫn chấp nhận được vì bài không nói hai ông là người đề xướng toàn bộ lập trường. Bản dịch §27 trùng bản ghi quotes đã đóng băng."
+}

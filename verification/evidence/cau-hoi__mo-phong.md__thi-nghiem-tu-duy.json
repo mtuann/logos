@@ -1,0 +1,55 @@
+{
+  "unit": "cau-hoi/mo-phong.md#thi-nghiem-tu-duy",
+  "hash": "sha256:17f8a88b0902651bc3acf95fbdf089b6c08425dc35bc3979d31ff69fd18208c1",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "chạy những **mô phỏng tổ tiên** (*ancestor simulations*): tái hiện toàn bộ cuộc sống của loài người ..., với từng con người là một tâm trí có ý thức thật sự",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "A single such computer could simulate the entire mental history of humankind (call this an ancestor-simulation ) by using less than one millionth of its processing power for one second.",
+          "where": "mục III"
+        }
+      ]
+    },
+    {
+      "text": "Hãy tưởng tượng năm 2150. ... Mỗi nền văn minh hậu-nhân loại chạy hàng triệu mô phỏng như vậy. ... **Bây giờ hỏi: bạn là một tâm trí được chọn ngẫu nhiên trong toàn bộ thực tại đó. Xác suất bạn là người \"gốc\" là bao nhiêu?**",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "    **Bây giờ hỏi: bạn là một tâm trí được chọn ngẫu nhiên trong toàn bộ thực tại đó. Xác suất bạn là người \"gốc\" là bao nhiêu?**\n\n    (Phiên bản minh họa của bài, dựng theo lập luận của Nick Bostrom, \"Are You Living in a Computer Simulation?\", 2003; năm 2150 và các con số \"hàng triệu\" là giả định của bài.)",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "Fraction of all human-level technological civilizations that survive to reach a posthuman stage",
+          "where": "mục IV; Bostrom dùng tỉ lệ f_P, f_I, không nêu năm 2150 hay số \"hàng triệu mô phỏng\". Hộp thí nghiệm không ghi nguồn hay ghi đây là phiên bản của bài"
+        }
+      ]
+    },
+    {
+      "text": "Mọi \"bằng chứng\" bạn thu thập được về việc mình đang ở trong mô phỏng đều có thể chính là mô phỏng tạo ra.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "What you see through an electron microscope needs to look unsuspicious",
+          "where": "mục III; mô phỏng có thể lấp chi tiết để người bên trong không nhận ra"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Lỗi nhẹ: thí nghiệm là phiên bản tự dựng (năm 2150, hàng triệu mô phỏng) nhưng không ghi nguồn hay ghi rõ là phiên bản của bài."
+}

@@ -1,0 +1,88 @@
+{
+  "unit": "cau-hoi/cai-chet.md#lien-he-doi-song",
+  "hash": "sha256:9303045ff784f40bbafef9f91e8a545b90b0c3d7f66ca9a6d059224b89647609",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k13",
+  "claims": [
+    {
+      "text": "Nhiều gia đình Việt tránh nói về cái chết — coi đó là \"gở\", \"xui\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.sggp.org.vn/lap-di-chuc-khi-con-khoe-post601628.html",
+          "quote": "Trong thực tế, sợ nhắc đến cái chết, sợ nhắc đến di chúc là một tâm lý có thật của rất nhiều người.",
+          "where": "nguồn yếu: báo Sài Gòn Giải Phóng, bài \"Lập di chúc khi còn khỏe\""
+        }
+      ]
+    },
+    {
+      "text": "Ở Việt Nam, nhiều người ngại viết di chúc vì sợ \"trù ẻo\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.sggp.org.vn/lap-di-chuc-khi-con-khoe-post601628.html",
+          "quote": "“Nhưng như thế là xui lắm đấy”",
+          "where": "nguồn yếu: báo Sài Gòn Giải Phóng"
+        }
+      ]
+    },
+    {
+      "text": "Người Việt có tục giỗ chạp, thờ cúng tổ tiên",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vietcetera.com/vn/nguoi-tre-nghi-gi-ve-tuc-tho-cung-ong-ba",
+          "quote": "cúng ông bà là một trong những tín ngưỡng dân gian mang đậm nét truyền thống và phổ biến của văn hoá Việt",
+          "where": "nguồn yếu: Vietcetera"
+        },
+        {
+          "url": "https://vietcetera.com/vn/nguoi-tre-nghi-gi-ve-tuc-tho-cung-ong-ba",
+          "quote": "Hôm giỗ ông, tôi năn nỉ xin hộp bánh",
+          "where": "nguồn yếu: Vietcetera"
+        }
+      ]
+    },
+    {
+      "text": "Epicurus: đừng phí đời vì sợ chết. Nagel: hãy nhận ra mỗi ngày còn sống là một điều tốt đang được trao.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/epicurus/",
+          "quote": "He regarded the unacknowledged fear of death and punishment as the primary cause of anxiety among human beings, and anxiety in turn as the source of extreme and irrational desires.",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death/",
+          "quote": "Nagel argues that no matter when it happens, dying is bad for those who die."
+        }
+      ]
+    },
+    {
+      "text": "với Nagel, giỗ chạp là cách ta bù đắp phần nào cho sự tước đoạt — những điều tốt đẹp của người ấy được *tiếp tục* qua ký ức và việc làm của con cháu",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "còn nếu nghĩ theo lập luận tước đoạt, giỗ chạp không bù được cho người đã khuất những gì họ bị tước, nhưng giữ cho những điều tốt đẹp của người ấy được *tiếp tục* qua ký ức và việc làm của con cháu",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/death/",
+          "quote": "This view overlooks something that Thomas Nagel (1970) noted in his seminal essay “Death,” namely the fact that things may be extrinsically good or bad for us, other things being equal, by virtue of causing us not to have—by virtue of precluding our having—things tha",
+          "where": "mục 3.2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Dữ kiện Việt Nam chỉ có nguồn yếu (báo, trang tin), chấp nhận theo quyết định 31. Câu gán cho Nagel cách hiểu giỗ chạp là áp dụng của bài; lập luận tước đoạt nói về điều tốt bị lấy khỏi người chết, nên \"bù đắp sự tước đoạt\" dễ hiểu sai."
+}

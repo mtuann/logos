@@ -1,0 +1,140 @@
+{
+  "unit": "cau-hoi/hanh-phuc.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:436571cb1375b4e9e8a0f42e24de678ead0d6cef1344d754431b615061073ecb",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k14",
+  "claims": [
+    {
+      "text": "một câu chính (hỏi mọi người tham gia) về cỗ máy trải nghiệm của Nozick",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "a list of 40 main questions that would be asked of all participants.",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về phúc lợi (well-being)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "một câu bổ sung (hỏi một phần sáu người tham gia được chọn ngẫu nhiên, cộng thêm những người tự nguyện trả lời) về **phúc lợi** (*well-being*)",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "We also added a further group of 60 additional (often more specialized) questions, each of which would be asked to one-sixth of participants (selected randomly).",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Participants were also given the option of answering some or all of the other 50 additional questions if they chose to",
+          "where": "mục 1"
+        }
+      ]
+    },
+    {
+      "text": "Bảng số liệu: Máy trải nghiệm (câu chính, n ≈ 1.640) Có 13,3 / Không 76,9 / Khác 9,7",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/may-trai-nghiem-co-vao-khong",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Experience machine (would you enter?) Yes 219 13.3 No 1262 76.9 Other 160 9.7",
+          "where": "Bảng 1"
+        }
+      ]
+    },
+    {
+      "text": "Bảng số liệu: Phúc lợi (câu bổ sung, n ≈ 970) Khoái lạc/trải nghiệm 12,7 / Thỏa mãn ước muốn 18,6 / Danh sách khách quan 53,2 / Khác 20,1",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/phuc-loi-well-being",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Well-being Hedonism/experientialism 123 12.7 98 10.1 Desire satisfaction 180 18.6 146 15.1 Objective list 514 53.2 483 49.9 Other 194 20.1",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, Bảng 1–2. Số liệu là tỉ lệ người \"chấp nhận hoặc nghiêng về\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "nhóm \"khác\" 20,1% (trong đó có những người chọn một lý thuyết lai)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "well-being: hybrid (13)",
+          "where": "mục 3"
+        }
+      ]
+    },
+    {
+      "text": "Lựa chọn thứ nhất gộp thuyết khoái lạc với \"thuyết trải nghiệm\" rộng hơn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Well-being Hedonism/experientialism",
+          "where": "Bảng 2"
+        }
+      ]
+    },
+    {
+      "text": "hơn ba phần tư giới triết học được khảo sát từ chối ...; danh sách khách quan 53,2% — vừa quá nửa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "philpapers/phuc-loi-well-being"
+    },
+    {
+      "text": "mẫu khảo sát là triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020.",
+          "where": "mục 2"
+        },
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "(1) in Australia, Canada, Ireland, New Zealand, the UK, and the US: all regular faculty members",
+          "where": "mục 2"
+        }
+      ]
+    },
+    {
+      "text": "từ chối vào máy không đồng nghĩa với việc chấp nhận thuyết danh sách khách quan — nhiều người từ chối vì lý do của thuyết thỏa mãn ước muốn",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "The experience machine is one motivation for the adoption of a desire theory",
+          "where": "mục 4.2"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "sua",
+  "notes": "Nhận định đi kèm không vượt số liệu; có lưu ý hai nhóm người trả lời khác nhau và thiên lệch mẫu. Lỗi duy nhất: mô tả cách hỏi câu bổ sung."
+}

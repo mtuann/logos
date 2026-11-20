@@ -1,0 +1,451 @@
+{
+  "unit": "cau-hoi/luan-chung-ton-giao.md#cac-lap-truong-chinh",
+  "hash": "sha256:d5c13fed15389530226c86dcb0031539e4c2ff16621229d38e9a3343f1873b17",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k08",
+  "claims": [
+    {
+      "text": "Khoảng năm 1265–1273, Thomas Aquinas viết *Tổng luận Thần học* (*Summa Theologiae*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/aquinas.summa-theologiae"
+    },
+    {
+      "text": "Trong Phần I, Câu 2, Điều 3, ông đưa ra năm \"con đường\" chứng minh Thượng đế tồn tại. Ba con đường đầu thuộc về **luận chứng vũ trụ luận** (*cosmological argument*)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "The existence of God can be proved in five ways."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "This is the result he gets in his much discussed “five ways” of proving God’s existence ( ST 1a 2.3c)."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "the first three ways are cosmological arguments"
+        }
+      ]
+    },
+    {
+      "text": "Mọi chuyển động đều do một cái gì đó gây ra; không thể có chuỗi nguyên nhân lùi vô hạn; vậy phải có một **động cơ đầu tiên** không bị cái gì lay động.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "Therefore it is necessary to arrive at a first mover, put in motion by no other"
+        }
+      ]
+    },
+    {
+      "text": "Mọi sự vật đều có nguyên nhân; không thể có chuỗi nguyên nhân lùi vô hạn; vậy phải có một **nguyên nhân đầu tiên**.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "- Trong thế giới, các nguyên nhân tác động nối nhau thành chuỗi, và không gì tự là nguyên nhân của chính nó; không thể có chuỗi nguyên nhân lùi vô hạn; vậy phải có một **nguyên nhân đầu tiên**.",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "In the world of sense we find there is an order of efficient causes",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        },
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "There is no case known (neither is it, indeed, possible) in which a thing is found to be the efficient cause of itself",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        }
+      ]
+    },
+    {
+      "text": "Mọi sự vật trong vũ trụ đều có thể không tồn tại (đều \"ngẫu nhiên\"); nếu mọi thứ đều ngẫu nhiên thì có lúc chẳng có gì tồn tại",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "if everything is possible not to be, then at one time there could have been nothing in existence"
+        }
+      ]
+    },
+    {
+      "text": "Aquinas gọi đó là Thượng đế.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "Therefore it is necessary to admit a first efficient cause , to which everyone gives the name of God"
+        }
+      ]
+    },
+    {
+      "text": "Luận chứng này nắm được một trực giác rất sâu: *mọi giải thích đều phải dừng ở đâu đó*.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Pruss goes further to suggest that the PSR is “self-evident, obvious, intuitively clear, in no need of argumentative support”"
+        }
+      ]
+    },
+    {
+      "text": "David Hume, trong *Đối thoại về Tôn giáo Tự nhiên* (*Dialogues Concerning Natural Religion*, xuất bản 1779 sau khi ông mất)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.dialogues-concerning-natural-religion"
+    },
+    {
+      "text": "hỏi: vì sao chuỗi nguyên nhân không thể dừng ở *chính vũ trụ*?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "why may not the material universe be the necessarily existent Being, according to this pretended explication of necessity?",
+          "where": "Phần IX"
+        }
+      ]
+    },
+    {
+      "text": "luận chứng vũ trụ luận, khi bị dồn đến cùng, phải viện đến ý niệm \"tồn tại tất yếu\" — mà ý niệm đó lại chính là điều mà luận chứng bản thể luận (mục 3) phải chứng minh",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Hence, Kant concludes, the cosmological argument depends on the ontological argument to determine the absolutely necessary being."
+        }
+      ]
+    },
+    {
+      "text": "Aquinas không nói về vụ nổ đầu tiên của vũ trụ, mà về cái đang giữ cho mọi thứ tồn tại *ngay lúc này*. Vũ trụ có thể vĩnh cửu về thời gian mà vẫn cần một nền tảng siêu hình.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "the philosophical arguments for God’s existence as first cause are compatible with the eternity of the universe"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "Aquinas argued that every essentially-ordered causal series is either infinite or terminates in a first, uncaused cause."
+        }
+      ]
+    },
+    {
+      "text": "Thượng đế, theo định nghĩa, là tồn tại mà *bản chất* của nó là tồn tại — còn vũ trụ thì không",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "God’s perfect simplicity precludes even the composition of essence and existence, which is found in all created substances"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1802, William Paley xuất bản *Thần học Tự nhiên* (*Natural Theology*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.paley-william-1802-natural-theology-or-evidences-of-the-exis"
+    },
+    {
+      "text": "Sách mở đầu bằng một hình ảnh gần giống thí nghiệm đầu bài: băng qua một bãi đất hoang (*heath*), thấy một chiếc đồng hồ dưới đất thì suy ra có người làm đồng hồ.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/naturaltheology01palegoog/naturaltheology01palegoog_djvu.txt",
+          "quote": "CHAPTER I. STATE OF THE ARGUMENT. IN crossing a heath, suppose I pitched my foot against a stone"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "the inference we think is inevitable, that the watch must have had a maker"
+        }
+      ]
+    },
+    {
+      "text": "con mắt với thủy tinh thể, võng mạc, dây thần kinh thị giác khớp nhau hoàn hảo",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/naturaltheology01palegoog/naturaltheology01palegoog_djvu.txt",
+          "quote": "the crystalline lens underneath is pushed forwards",
+          "where": "Chương III"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "[T]he eye … would be alone sufficient to support the conclusion which we draw from it, as to the necessity of an intelligent Creator"
+        }
+      ]
+    },
+    {
+      "text": "Phiên bản hiện đại của luận chứng này là **lập luận tinh chỉnh** (*fine-tuning*)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "the most prominent contemporary turns (cosmic fine tuning arguments, many-worlds theories, and the Intelligent Design debate)"
+        }
+      ]
+    },
+    {
+      "text": "Hume (trước cả Paley) đã nêu hai phản bác đầu tiên dưới đây, đến nay vẫn được dùng",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/hume.dialogues-concerning-natural-religion"
+    },
+    {
+      "text": "Nếu đây là sản phẩm thiết kế, thì nhà thiết kế vụng về quá.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "was only the first rude essay of some infant deity, who afterwards abandoned it, ashamed of his lame performance"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "natural evils or apparently suboptimal designs might suggest e.g., an amateur designer or a committee of designers"
+        }
+      ]
+    },
+    {
+      "text": "(ví dụ ngày nay hay dẫn: điểm mù của mắt người, đường sinh sản đi xuyên qua tuyến tiền liệt, 99% loài từng tồn tại đã tuyệt chủng)",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "Từ một hiệu ứng, ta chỉ được suy ra nguyên nhân *vừa đủ* cho hiệu ứng đó",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "as the cause ought only to be proportioned to the effect, and the effect, so far as it falls under our cognisance, is not infinite"
+        }
+      ]
+    },
+    {
+      "text": "có thể là nhiều vị thần, có thể là một vị thần non tay đang tập nghề.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "why may not several deities combine in contriving and framing a world?"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "the first rude essay of some infant deity"
+        }
+      ]
+    },
+    {
+      "text": "có thể có vô số vũ trụ (đa vũ trụ), và ta đương nhiên thấy mình ở trong vũ trụ \"trúng số\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "While the odds of winning a national lottery are low, your odds would obviously increase if you were to buy several million tickets."
+        }
+      ]
+    },
+    {
+      "text": "Người bênh vực Paley đáp rằng những \"thiết kế vụng về\" có thể có lý do ta chưa hiểu",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/naturaltheology01palegoog/naturaltheology01palegoog_djvu.txt",
+          "quote": "Neither, secondly, would it invalidate our conclu- sion, that the watch sometimes went wrong"
+        },
+        {
+          "url": "https://archive.org/download/naturaltheology01palegoog/naturaltheology01palegoog_djvu.txt",
+          "quote": "Nor, thirdly, would it bring any uncertainty into the argument"
+        }
+      ]
+    },
+    {
+      "text": "Về đa vũ trụ: đó cũng chỉ là một giả thuyết chưa kiểm chứng được",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "a multiverse would not, by itself, be a sufficient explanation of fine-tuning"
+        }
+      ]
+    },
+    {
+      "text": "vẫn là cuộc đối đầu giữa hai **suy luận đến lời giải thích tốt nhất** (*inference to the best explanation*) cạnh tranh nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "Inferences to the Best Explanation/Abductive Design Arguments"
+        }
+      ]
+    },
+    {
+      "text": "Năm 1077–1078, Anselm xứ Canterbury viết *Proslogion*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/anselm.proslogion"
+    },
+    {
+      "text": "Ngay cả kẻ ngu dại cũng hiểu cụm từ \"một tồn tại mà không thể nghĩ ra cái gì lớn hơn được\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "even the fool is convinced that something exists in the understanding, at least, than which nothing greater can be conceived. For, when he hears of this, he understands it."
+        }
+      ]
+    },
+    {
+      "text": "Anselm phân biệt \"có trong trí\" với \"có thật\" bằng hình ảnh người họa sĩ",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "When a painter first conceives of what he will afterwards perform, he has it in his understanding"
+        }
+      ]
+    },
+    {
+      "text": "Vậy nếu \"tồn tại vĩ đại nhất có thể nghĩ\" chỉ tồn tại trong tư tưởng, thì ta *có thể nghĩ* ra một cái lớn hơn",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.ccel.org/ccel/anselm/basic_works.iii.iii.html",
+          "quote": "For, suppose it exists in the understanding alone: then it can be conceived to exist in reality; which is greater."
+        }
+      ]
+    },
+    {
+      "text": "Sức hấp dẫn của luận chứng này là nó *không cần bất kỳ tiền đề kinh nghiệm nào*",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "from premises which are supposed to derive from some source other than observation of the world—e.g., from reason alone"
+        }
+      ]
+    },
+    {
+      "text": "Ngay thời Anselm, nhà sư Gaunilo đã đáp bằng một **phản ví dụ** (*counterexample*) nổi tiếng: hãy thay \"Thượng đế\" bằng \"hòn đảo hoàn hảo nhất có thể nghĩ\".",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "Gaunilo of Marmoutier, a monk and contemporary of Anselm’s, is responsible for one of the most important criticisms of Anselm’s argument."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "beginning with Gaunilo’s ‘perfect island’ objection to Anselm’s Proslogion II argument"
+        }
+      ]
+    },
+    {
+      "text": "Khoảng bảy thế kỷ sau (1781), Kant chỉ ra vấn đề: \"tồn tại\" không phải là một *thuộc tính*",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4280/pg4280.txt",
+          "quote": "Being is evidently not a real predicate, that is, a conception of something which is added to the conception of some other thing."
+        }
+      ]
+    },
+    {
+      "text": "một trăm đồng tiền thật không \"lớn hơn\" một trăm đồng tiền trong tưởng tượng về mặt khái niệm",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4280/pg4280.txt",
+          "quote": "A hundred real dollars contain no more than a hundred possible dollars."
+        }
+      ]
+    },
+    {
+      "text": "Người bênh vực Anselm, nổi bật là Alvin Plantinga, cho rằng phản ví dụ \"hòn đảo\" không tương đương",
+      "kind": "du-kien",
+      "verdict": "chua-kiem-duoc"
+    },
+    {
+      "text": "những phẩm chất làm nên một hòn đảo tuyệt vời (thêm cây dừa, thêm bãi cát...) không có mức tối đa",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "it will always be possible to imagine a greater island because there is no intrinsic maximum for fruit-abundance"
+        }
+      ]
+    },
+    {
+      "text": "trong phiên bản dùng logic modal của Plantinga (*The Nature of Necessity*, 1974), \"tồn tại vĩ đại nhất\" nếu có thể tồn tại thì phải tồn tại *tất yếu*, ở mọi thế giới khả dĩ.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "1974 Plantinga, The Nature of Necessity . Plantinga’s “victorious” modal Ontological argument."
+        },
+        {
+          "url": "https://iep.utm.edu/ont-arg/",
+          "quote": "If a maximally great being exists in one logically possible world, it exists in every logically possible world."
+        }
+      ]
+    },
+    {
+      "text": "| Mục đích luận (Paley) | Tự nhiên đầy cấu trúc tinh xảo | Phải có Đấng thiết kế | Thế giới đầy thiết kế vụng về (Hume); chọn lọc tự nhiên (Darwin); đa vũ trụ (phản bác hiện đại) |",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/teleological-arguments/",
+          "quote": "Darwin’s evolutionary theory and its descendants"
+        }
+      ]
+    },
+    {
+      "text": "| Vũ trụ luận (Aquinas) | Mọi sự đều có nguyên nhân | Phải có nguyên nhân đầu tiên |",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "| Vũ trụ luận (Aquinas) | Mọi thứ trong thế giới đều do cái khác gây ra; chuỗi nguyên nhân không lùi vô hạn được | Phải có nguyên nhân đầu tiên |",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "There is no case known (neither is it, indeed, possible) in which a thing is found to be the efficient cause of itself",
+          "where": "ST I, q. 2, a. 3, con đường thứ hai"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": false,
+    "phan-bac": true,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "chua-kiem-duoc",
+  "notes": "Cả ba luận chứng đủ ba nhãn. Chưa kiểm được: (1) gán cách đáp \"hòn đảo không có mức tối đa\" cho Alvin Plantinga — IEP (ont-arg) trình bày cách đáp này nhưng không ghi tên Plantinga (chỉ gọi ông là \"the most important contemporary defender of the argument\"); SEP Ontological Arguments và SEP Anselm không gán; bản số hóa God, Freedom, and Evil trên archive.org là bản tải lên không rõ quyền nên không dùng. Nếu không tìm được nguồn, câu chắc chắn hơn: \"Người bênh vực Anselm cho rằng phản ví dụ \"hòn đảo\" không tương đương: ...\". (2) Các ví dụ hiện đại về thiết kế vụng về, nhất là con số \"99% loài từng tồn tại đã tuyệt chủng\": SEP/IEP không có; đã thử education.nationalgeographic.org/resource/extinction/ và amnh.org (không có con số). Nếu không có nguồn, câu dè dặt: \"(ví dụ ngày nay hay dẫn: điểm mù của mắt người, phần lớn các loài từng sống đã tuyệt chủng)\" hoặc bỏ cả ngoặc. Ngoài ra phần ngoặc \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" không có nguồn, nên làm dè dặt hoặc bỏ."
+}

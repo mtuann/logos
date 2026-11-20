@@ -1,0 +1,70 @@
+{
+  "unit": "cau-hoi/viet-hien-dai.md#nguon",
+  "hash": "sha256:e16e191d5cee7d3dd3608d46556466aa26f06b62958dc19ff44553dd86a00974",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k17",
+  "claims": [
+    {
+      "text": "Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.nguyen-tai-thu-chu-bien-1993-lich-su-tu-tuong-viet-nam-tap-1"
+    },
+    {
+      "text": "Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-dinh-huou-1996-den-hien-dai-tu-truyen-thong-ha-noi-nxb"
+    },
+    {
+      "text": "Viện Văn học (1977–1989), *Thơ văn Lý–Trần* (3 tập), Hà Nội: NXB Khoa học xã hội.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.vien-van-hoc-19771989-tho-van-lytran-3-tap-ha-noi-nxb-khoa-h"
+    },
+    {
+      "text": "Trần Đức Thảo (1951), *Phénoménologie et matérialisme dialectique*, Paris: Éditions Minh-Tân.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-duc-thao-1951-phenomenologie-et-materialisme-dialectiqu"
+    },
+    {
+      "text": "Trần Đức Thảo (1973), *Recherches sur l'origine du langage et de la conscience*, Paris: Éditions sociales.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.tran-duc-thao-1973-recherches-sur-l-origine-du-langage-et-de"
+    },
+    {
+      "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Các nguồn còn lại là tác phẩm và khảo sát được trích dẫn trong bài.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Các nguồn còn lại là tác phẩm và khảo sát được trích dẫn trong bài, cùng các tài liệu giới thiệu Trần Đình Hượu: Đại học Quốc gia Hà Nội, \"PGS Trần Đình Hượu với cụm công trình: 1. Đến hiện đại từ truyền thống; 2. Nho giáo và văn học Việt Nam trung - cận đại\" (2007), <https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html>; Trần Nho Thìn, Trần Ngọc Vương, \"Phó giáo sư Trần Đình Hượu - người \\\"đến hiện đại từ truyền thống\\\"\", Trường ĐH KHXH&NV (2015), <https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html>.",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "in lần đầu vào tháng 5/1994"
+        },
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Tác giả: PGS.TS Trần Nho Thìn; GS.TS Trần Ngọc Vương"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": null,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": null,
+    "thuat-ngu": null
+  },
+  "result": "dat",
+  "notes": "Sáu dòng Nguồn trùng bản ghi sources/* đã đóng băng. Nhận định nhẹ: mục Nguồn chưa có tài liệu nào cho các ý về Trần Đình Hượu và hiện sinh ở miền Nam; nếu sửa thân bài theo các fix của đơn vị khác thì thêm nguồn tương ứng (ĐHQG Hà Nội, ĐH KHXH&NV; Gadkar-Wilcox 2014, Journal of Asian Studies 73(2); Huỳnh Văn Tuyết, Tạp chí KH&CN ĐH Đà Nẵng về Phan Châu Trinh)."
+}

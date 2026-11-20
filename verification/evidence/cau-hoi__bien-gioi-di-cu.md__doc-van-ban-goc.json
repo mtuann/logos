@@ -1,0 +1,91 @@
+{
+  "unit": "cau-hoi/bien-gioi-di-cu.md#doc-van-ban-goc",
+  "hash": "sha256:3e14358ed8a77c3d0b8f64ccd7fa958926818fbd053d38bd764196f8969b6b57",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k04",
+  "claims": [
+    {
+      "text": "bài báo \"Aliens and Citizens\" (1987) của Carens và Spheres of Justice (1983) của Walzer đều còn bản quyền",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/S0034670500033817",
+          "quote": "\"published-print\":{\"date-parts\":[[1987]]}",
+          "where": "Crossref: xuất bản 1987, chưa hết hạn bản quyền"
+        }
+      ]
+    },
+    {
+      "text": "Carens (1987): Quyền tự do đi lại trong nước được công nhận rộng rãi; không có lý do nguyên tắc nào để nó dừng ở biên giới. Quốc tịch do xổ số nơi sinh quyết định cũng giống đặc quyền phong kiến",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Carens (1987; 2013):** Những lý do khiến ta coi trọng quyền tự do đi lại trong nước cũng ủng hộ việc mở cửa biên giới; không có lý do nguyên tắc nào để quyền ấy dừng ở biên giới. Quốc tịch do xổ số nơi sinh quyết định cũng giống đặc quyền phong kiến: trói số phận con người vào may mắn lúc chào đời.",
+      "sources": [
+        {
+          "url": "https://crookedtimber.org/2014/05/26/book-symposium-on-joseph-carenss-the-ethics-of-immigration/",
+          "quote": "the reasons they favour internal freedom of movement within states also support open borders",
+          "where": "về sách 2013"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/immigration/",
+          "quote": "“Citizenship in Western liberal democracies is the modern equivalent to feudal privilege—an inherited status that greatly enhances one’s life chances.",
+          "where": "Carens 1987: 252"
+        }
+      ]
+    },
+    {
+      "text": "Walzer (1983): Tư cách thành viên là điều cộng đồng được quyền quyết định. Nghĩa vụ đặc biệt giữa công dân chỉ tồn tại được khi cộng đồng có ranh giới",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/citizenship/",
+          "quote": "the political community’s right to regulate admission should be recognized to secure its cultural, economic and political integrity"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/citizenship/",
+          "quote": "“distributive justice presupposes a bounded world within which distribution takes place” (Walzer 1983, 31)"
+        }
+      ]
+    },
+    {
+      "text": "\"Everyone has the right to freedom of movement and residence within the borders of each State.\" — Mọi người đều có quyền tự do đi lại và cư trú trong biên giới của mỗi quốc gia. (bản dịch của Logos)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "quotes/trich.tuyen-ngon-quoc-te-nhan-quyen-1948-dieu-13"
+    },
+    {
+      "text": "Tuyên ngôn Quốc tế Nhân quyền (1948) là văn kiện công cộng. Điều 13 của nó viết: \"Everyone has the right to freedom of movement and residence within the borders of each State.\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights",
+          "quote": "Article 13 1. Everyone has the right to freedom of movement and residence within the borders of each State."
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi dẫn dắt 2: Walzer so sánh quốc gia với câu lạc bộ/gia đình",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/citizenship/",
+          "quote": "Walzer’s position, notably his choice of analogies, has been extensively discussed."
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Phần diễn đạt lại được ghi rõ là tóm tắt, không trình bày như trích dẫn. Bản dịch Điều 13 đúng nghĩa."
+}

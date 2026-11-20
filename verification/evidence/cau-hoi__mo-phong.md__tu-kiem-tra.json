@@ -1,0 +1,102 @@
+{
+  "unit": "cau-hoi/mo-phong.md#tu-kiem-tra",
+  "hash": "sha256:b97442161b9ad46fa18f44f4afe66a792d1792b1a8936ff1da87e50e40fc518a",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k12",
+  "claims": [
+    {
+      "text": "Câu 1: bộ ba của Bostrom — đáp án 0; giải thích 'Bostrom không khẳng định mệnh đề nào đúng, chỉ nói ít nhất một trong ba phải đúng'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "This paper argues that at least one of the following propositions is true",
+          "where": "Abstract; ba phương án sai không có trong bài gốc"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2: giả định then chốt — 'Ý thức có thể chạy trên máy tính (substrate independence) và sức mạnh tính toán tiếp tục tăng'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "II. THE ASSUMPTION OF SUBSTRATE-INDEPENDENCE",
+          "where": "mục II"
+        }
+      ]
+    },
+    {
+      "text": "Câu 2, giải thích: \"Đây là tiền đề mà người phản bác nhắm vào nhiều nhất.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đây là tiền đề mà bài nêu là điểm yếu chính của lập luận.",
+      "sources": [
+        {
+          "url": "https://simulation-argument.com/simulation.html",
+          "quote": "A common assumption in the philosophy of mind is that of substrate-independence .",
+          "where": "mục II; không có nguồn đếm xem tiền đề nào bị phản bác nhiều nhất, thân bài cũng chỉ gọi đây là \"điểm yếu\""
+        }
+      ]
+    },
+    {
+      "text": "Câu 3: lập trường 'không thể kiểm chứng' — đáp án 2, ví với giả thuyết 'vũ trụ được tạo ra 5 phút trước'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/2/5/2/2529/2529.txt",
+          "quote": "nothing that is happening now or will happen in the future can disprove the hypothesis that the world began five minutes ago",
+          "where": "Lecture IX"
+        }
+      ]
+    },
+    {
+      "text": "Câu 4: Putnam (1981) — đáp án 3: 'nếu ta thực sự là não trong bể, từ \"bể\" của ta không chỉ được cái bể thật bên ngoài — giả thuyết hoài nghi tự triệt tiêu chính mình về mặt ngữ nghĩa'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "the assertion “we are brains in a vat” would be sense self-refuting",
+          "where": "mục 2"
+        },
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "A term refers to an object only if there is an appropriate causal connection between that term and the object",
+          "where": "mục 2; khớp lời giải \"nội dung của từ ngữ phụ thuộc vào quan hệ nhân quả\""
+        }
+      ]
+    },
+    {
+      "text": "Câu 5: \"Tải tâm trí lên máy — sống sót 27,5% / chết 54,2%\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/tai-tam-tri-len-may-nao-duoc-thay-bang-ban-mo-phong-so"
+    },
+    {
+      "text": "Câu 5, giải thích: \"Khảo sát 2020 không có câu hỏi nào về giả thuyết mô phỏng\"",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Mind uploading (brain replaced by digital emulation): survival or death?",
+          "where": "câu gần nhất; không có câu nào chứa \"simulat\""
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Năm câu: đáp án đúng, phương án sai đều sai, lời giải khớp bài. data-id meta-c4 giữ nguyên."
+}

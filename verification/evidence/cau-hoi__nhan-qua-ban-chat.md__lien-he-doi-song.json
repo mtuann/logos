@@ -1,0 +1,50 @@
+{
+  "unit": "cau-hoi/nhan-qua-ban-chat.md#lien-he-doi-song",
+  "hash": "sha256:5b5279fd64d12002cf065a3efd9f68701753e2816e30aeead66c90f1cc6af774",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k10",
+  "claims": [
+    {
+      "text": "Tòa án thực ra dùng logic phản thực mỗi ngày: \"nếu bị cáo không lái xe ẩu thì nạn nhân đã không chết\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-law/",
+          "quote": "It is the “ sine qua non ”, or “but-for” test. Such a test asks a counterfactual question: “but for the defendant’s action, would the victim have been harmed as she was?”"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi phản thực (\"nếu cùng một người đó không ăn X thì sao?\") chính là lý do các thử nghiệm lâm sàng ngẫu nhiên có nhóm đối chứng tồn tại.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/causation-mani/",
+          "quote": "perhaps by setting its value after consulting the output of some randomizing device"
+        }
+      ]
+    },
+    {
+      "text": "Nghiên cứu quan sát cho ta *tương quan* (người ăn X ít bị Y hơn) — tức \"nối tiếp thường xuyên\".",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/9/6/6/9662/9662.txt",
+          "quote": "constant conjunction of these events"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": true,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": ""
+}

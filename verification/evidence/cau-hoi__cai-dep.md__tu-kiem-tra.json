@@ -1,0 +1,74 @@
+{
+  "unit": "cau-hoi/cai-dep.md#tu-kiem-tra",
+  "hash": "sha256:d00c4476c658d9e5e234e23d0c94a57280557b8c644b9ce37919fd0b87deb624",
+  "checked_on": "2026-11-17",
+  "checker": "agent-kiem-5.8-k07",
+  "claims": [
+    {
+      "text": "\"answer\": 1, \"explain\": \"Hume không cho rằng cái đẹp là khách quan; ông cho rằng trong thế giới của cảm giác, có những cảm giác được rèn luyện tốt hơn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "Strong sense, united to delicate sentiment, improved by practice, perfected by comparison, and cleared of all prejudice, can alone entitle critics to this valuable character; and the joint verdict of such, wherever they are to be found, is the true standard of taste and beauty.",
+          "where": "ST 23"
+        }
+      ]
+    },
+    {
+      "text": "{\"q\": \"Điểm độc đáo nhất của Kant về phán đoán thẩm mỹ là gì?\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-aesthetics/",
+          "quote": "one takes it that everyone else who perceives the object ought also to judge it to be beautiful"
+        }
+      ]
+    },
+    {
+      "text": "\"Ta nhận ra người phê bình lý tưởng nhờ họ đồng ý với nhau về cái đẹp, nhưng ta biết cái đẹp nhờ họ — hai điều định nghĩa lẫn nhau\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/",
+          "quote": "aesthetically superior artworks are those endorsed by true critics, but true critics are identified by their endorsement of the best art"
+        }
+      ]
+    },
+    {
+      "text": "\"Bạn đang đòi hỏi một sự đồng thuận mà bạn không thể chứng minh bằng lập luận — đó là bản chất của phán đoán thẩm mỹ\"], \"answer\": 3",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kant-aesthetics/",
+          "quote": "judgments of beauty cannot, despite their universal validity, be proved"
+        }
+      ]
+    },
+    {
+      "text": "\"Lời chê đó nhẹ ký vì người này thiếu kinh nghiệm rộng và thói quen so sánh — hai phẩm chất của người phê bình lý tưởng\"",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "improved by practice, perfected by comparison",
+          "where": "ST 23"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Năm câu quiz: đáp án 1, 0, 1, 3, 2 đều đúng; các phương án sai đều sai rõ; lời giải khớp thân bài. Câu 3 lời giải nêu cách đáp \"tiêu chí độc lập\" khớp SEP (circularity avoided by the five criteria)."
+}
