@@ -145,11 +145,12 @@ def _match(p: str, globs) -> bool:
     return any(fnmatch.fnmatch(p, g) for g in globs)
 
 
-def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: list | None = None) -> tuple[list[str], int]:
+def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: list | None = None, both=()) -> tuple[list[str], int]:
     """(danh sách mô tả chỗ lệch, số trang đã so); danh sách rỗng nghĩa là tương đương 100%.
     `subs`: các (regex đã biên dịch, chuỗi thay) áp lên bản trước — thay đổi có chủ đích.
     `exempt`: mẫu đường dẫn HTML (glob) được phép đổi chữ; khác biệt ghi vào `notes`, không tính là lệch.
-    `new_ok`: mẫu đường dẫn của trang mới có chủ đích (chỉ có ở bản sau)."""
+    `new_ok`: mẫu đường dẫn của trang mới có chủ đích (chỉ có ở bản sau).
+    `both`: các (regex, chuỗi thay) áp lên cả hai bản (chuẩn hóa, ví dụ kiểu ngoặc kép: --bo-kieu-ngoac)."""
     notes = notes if notes is not None else []
     a, b = pages(before), pages(after)
     problems = [f"{p}: chỉ có ở bản trước" for p in sorted(a.keys() - b.keys())]
@@ -157,13 +158,13 @@ def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: lis
         (notes if _match(p, new_ok) else problems).append(f"{p}: chỉ có ở bản sau{' (trang mới có chủ đích)' if _match(p, new_ok) else ''}")
     for p in sorted(a.keys() & b.keys()):
         if _match(p, exempt):
-            x = _subbed(extract(a[p].read_text(encoding="utf-8")), subs)
-            y = extract(b[p].read_text(encoding="utf-8"))
+            x = _subbed(_subbed(extract(a[p].read_text(encoding="utf-8")), subs), both)
+            y = _subbed(extract(b[p].read_text(encoding="utf-8")), both)
             if x != y:
                 notes.append(f"{p}: ngoại lệ, có đổi chữ\n{first_diff(x.lines, y.lines)}")
             continue
-        x = _subbed(extract(a[p].read_text(encoding="utf-8")), subs)
-        y = extract(b[p].read_text(encoding="utf-8"))
+        x = _subbed(_subbed(extract(a[p].read_text(encoding="utf-8")), subs), both)
+        y = _subbed(extract(b[p].read_text(encoding="utf-8")), both)
         if x.title != y.title:
             problems.append(f"{p}: <title> lệch: {x.title!r} → {y.title!r}")
         if x.description != y.description:
@@ -175,7 +176,7 @@ def compare(before: Path, after: Path, subs=(), exempt=(), new_ok=(), notes: lis
             new = [i for i in y.ids if i not in x.ids][:5]
             problems.append(f"{p}: id lệch (mất {gone}, thêm {new}"
                             f"{', hoặc đổi thứ tự' if not gone and not new else ''})")
-    problems += compare_search(before, after, subs, exempt, notes, new_ok)
+    problems += compare_search(before, after, subs, exempt, notes, new_ok, both)
     return problems, len(a.keys() | b.keys())
 
 
@@ -187,14 +188,15 @@ def _no_accent_copy(doc: dict) -> dict:
     return {k: NOACCENT.sub("", v) if isinstance(v, str) else v for k, v in doc.items()}
 
 
-def compare_search(before: Path, after: Path, subs=(), exempt=(), notes: list | None = None, new_ok=()) -> list[str]:
+def compare_search(before: Path, after: Path, subs=(), exempt=(), notes: list | None = None, new_ok=(), both=()) -> list[str]:
     fa, fb = before / "search" / "search_index.json", after / "search" / "search_index.json"
     if not (fa.exists() and fb.exists()):
         return []
     def page_of(d):   # "lich-su/dong-thoi-gian/#muc" → "lich-su/dong-thoi-gian/index.html"
         return d["location"].split("#")[0] + "index.html"
-    da = [_no_accent_copy(d) for d in json.loads(_apply(fa.read_text(encoding="utf-8"), subs))["docs"]]
-    db = [_no_accent_copy(d) for d in json.loads(fb.read_text(encoding="utf-8"))["docs"]]
+    norm = lambda d: {k: _apply(v, both) if isinstance(v, str) else v for k, v in d.items()}  # noqa: E731
+    da = [norm(_no_accent_copy(d)) for d in json.loads(_apply(fa.read_text(encoding="utf-8"), subs))["docs"]]
+    db = [norm(_no_accent_copy(d)) for d in json.loads(fb.read_text(encoding="utf-8"))["docs"]]
     skipped = {page_of(d) for d in da + db if _match(page_of(d), exempt)}
     a_pages = {page_of(d) for d in da}
     fresh = {page_of(d) for d in db if page_of(d) not in a_pages and _match(page_of(d), new_ok)}
@@ -243,11 +245,14 @@ def main(argv: list[str]) -> int:
                     help="thay đổi có chủ đích, áp lên bản trước trước khi so (lặp lại được)")
     ap.add_argument("--ngoai-le", action="append", default=[], metavar="TRANG",
                     help="trang HTML (glob, ví dụ index.html) được phép đổi chữ: in khác biệt, không tính lệch")
+    ap.add_argument("--bo-kieu-ngoac", action="store_true",
+                    help="coi “ ” như \" ở cả hai bản (quyết định 26, 39: kiểu ngoặc hiển thị đổi được mà không đổi chữ)")
     ap.add_argument("--trang-moi", action="append", default=[], metavar="TRANG",
                     help="trang HTML mới có chủ đích (glob, ví dụ 'tac-pham/*')")
     args = ap.parse_args(argv)
     notes: list[str] = []
-    opts = dict(exempt=args.ngoai_le, new_ok=args.trang_moi, notes=notes)
+    opts = dict(exempt=args.ngoai_le, new_ok=args.trang_moi, notes=notes,
+                both=[(re.compile(r"[“”]|\\u201[cd]"), '"'), (re.compile(r"&quot;"), '"')] if args.bo_kieu_ngoac else [])
     subs = [(re.compile(rx), rep) for rx, rep in args.expect_sub]
 
     if args.base:
