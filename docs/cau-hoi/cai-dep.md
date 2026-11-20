@@ -39,7 +39,7 @@ Thí nghiệm trên chứa một nghịch lý mà ai cũng từng cảm thấy.
 
 Một mặt, ta *tranh cãi* về cái đẹp như thể có đúng sai: "Bài này hay hơn bài kia", "Phim này dở". Ta đưa ra lý do, ta cố thuyết phục người khác, và ta thấy khó chịu khi ai đó chê thứ mình yêu. Nếu cái đẹp chỉ là "mỗi người một ý" thì tranh cãi để làm gì?
 
-Mặt khác, ta cũng thấy rõ cái đẹp *phụ thuộc vào người cảm nhận*: cùng một bức tranh, người khóc người cười. Không có cái thước nào đo được "độ đẹp" như đo nhiệt độ. Và lịch sử đầy những thứ từng bị chê thậm tệ rồi sau này được tôn vinh — như tranh của Van Gogh, lúc sinh thời gần như không bán được bức nào.
+Mặt khác, ta cũng thấy rõ cái đẹp *phụ thuộc vào người cảm nhận*: cùng một bức tranh, người khóc người cười. Không có cái thước nào đo được "độ đẹp" như đo nhiệt độ. Và lịch sử đầy những thứ từng bị chê hoặc bị bỏ qua rồi sau này được tôn vinh — như tranh của Van Gogh, lúc sinh thời chỉ bán được một ít và ít người để ý.
 
 Vậy câu hỏi thật sự là: *có một chuẩn mực nào cho cái đẹp không, dù cái đẹp gắn với cảm giác?* Hai triết gia dưới đây trả lời "có", theo hai cách rất khác nhau.
 
@@ -53,9 +53,9 @@ Năm 1757, David Hume viết bài "Of the Standard of Taste" (Về chuẩn mực
 
 Nhưng Hume không dừng ở "mỗi người một ý". Ông quan sát thấy trong thực tế, ta *vẫn* phân biệt được người có "gu" tốt với người không có. Ai cũng thừa nhận rằng nhận xét của một nhà phê bình từng trải, công tâm, đáng tin hơn nhận xét của một người mới nghe nhạc lần đầu và đang bực mình vì mất ngủ.
 
-Từ đó Hume đề xuất **chuẩn mực của thị hiếu** (*standard of taste*): ý kiến chung của những **người phê bình lý tưởng** (*ideal critic*) — những người có đủ năm phẩm chất: sự tinh tế trong cảm nhận, nhiều kinh nghiệm thực hành, thói quen so sánh, không thiên kiến, và óc phán đoán lành mạnh. Cái đẹp, theo nghĩa có chuẩn mực, là cái mà những người như vậy đồng thuận là đẹp.
+Từ đó Hume đề xuất **chuẩn mực của thị hiếu** (*standard of taste*): phán quyết chung của những **người phê bình đích thực** (Hume gọi là *true judge*; giới nghiên cứu hay gọi là "người phê bình lý tưởng", *ideal critic*) — những người có đủ năm phẩm chất: sự tinh tế trong cảm nhận, nhiều kinh nghiệm thực hành, thói quen so sánh, không thiên kiến, và óc phán đoán lành mạnh. Cái đẹp, theo nghĩa có chuẩn mực, là cái mà những người như vậy đồng thuận là đẹp.
 
-Hume minh họa bằng một ví dụ gây sốc thời ông: ai mà dám khẳng định Ogilby (một nhà thơ xoàng) ngang tài với Milton (tác giả *Thiên đường đã mất*), thì cũng lố bịch như bảo một gò đất cao bằng đỉnh núi Tenerife. Có những chênh lệch về thị hiếu mà *không ai* bênh vực nổi — và chính sự tồn tại của những trường hợp hiển nhiên như vậy chứng tỏ "mọi gu đều ngang nhau" là sai.
+Hume minh họa bằng một ví dụ mà ai thời ông cũng thấy hiển nhiên: ai mà dám khẳng định Ogilby (một nhà thơ xoàng) ngang tài với Milton (tác giả *Thiên đường đã mất*), thì cũng lố bịch như bảo một gò đất cao bằng đỉnh núi Tenerife. Có những chênh lệch về thị hiếu mà *không ai* bênh vực nổi — và chính sự tồn tại của những trường hợp hiển nhiên như vậy chứng tỏ "mọi gu đều ngang nhau" là sai.
 
 **Lập luận mạnh nhất.** Hume giải được cả hai mặt của nghịch lý: cái đẹp gắn với cảm giác (nên không có thước đo khách quan), nhưng không phải mọi cảm giác đều ngang nhau (nên tranh cãi vẫn có ý nghĩa). Lời của Chi trong thí nghiệm đầu bài "nặng" hơn vì Chi gần với người phê bình lý tưởng hơn.
 
@@ -63,7 +63,7 @@ Hume minh họa bằng một ví dụ gây sốc thời ông: ai mà dám khẳn
 
 **Cách đáp lại.** Người bênh vực Hume nói vòng tròn không hoàn toàn khép kín: ta có những tiêu chí độc lập để nhận ra người phê bình giỏi — như ta nhận ra bác sĩ giỏi qua việc họ chữa khỏi bệnh, ta nhận ra người sành nhạc qua khả năng phân tích, dự đoán, và sự nhất quán trong đánh giá. Còn về văn hóa: Hume thừa nhận gu có tính thời đại, nhưng cho rằng những tác phẩm vượt qua được nhiều thời đại (như Homer, như Nguyễn Du) đã chứng minh được sức sống của mình trước "tòa án" của nhiều thế hệ phê bình.
 
-Một chi tiết đáng chú ý: Hume không đòi hỏi *một* người phê bình hoàn hảo. Chuẩn mực là *ý kiến chung* của nhiều người phê bình lý tưởng. Một người có thể thiếu sót ở điểm này, người khác ở điểm kia — nhưng chỗ họ đồng thuận với nhau, đó là nơi chuẩn mực xuất hiện. Điều này làm lý thuyết của Hume thực tế hơn vẻ ngoài: nó mô tả cách mà các nền văn hóa thực sự hình thành "kinh điển" của mình — không phải bằng một sắc lệnh, mà bằng sự đồng thuận dần dần của những người sành sỏi qua nhiều thế hệ.
+Một chi tiết đáng chú ý: Hume không giao chuẩn mực cho *một* người phê bình. Người hội đủ năm phẩm chất rất hiếm, và chuẩn mực là *phán quyết chung* (*joint verdict*) của những người như vậy — qua nhiều thời đại và nhiều nền văn hóa. Chỗ họ đồng thuận với nhau, đó là nơi chuẩn mực xuất hiện. Điều này làm lý thuyết của Hume thực tế hơn vẻ ngoài: nó mô tả cách mà các nền văn hóa thực sự hình thành "kinh điển" của mình — không phải bằng một sắc lệnh, mà bằng sự đồng thuận dần dần của những người sành sỏi qua nhiều thế hệ.
 
 ### 2. Kant: phán đoán thẩm mỹ vừa chủ quan, vừa đòi mọi người đồng ý
 
@@ -83,7 +83,7 @@ Vì sao ta dám đòi như vậy? Kant lập luận: cảm giác thích thú tr�
 
 Kant còn đưa ra hai ý tưởng phụ mà mỹ học sau này dùng rất nhiều. Thứ nhất, sự thích thú thẩm mỹ phải **vô vụ lợi** (*disinterested*): ta thấy bông hoa đẹp không phải vì muốn hái nó, muốn ăn nó hay muốn khoe nó — mà chỉ vì chính việc ngắm nhìn nó làm ta thích thú. Thứ hai, cái đẹp có **tính có mục đích mà không có mục đích** (*purposiveness without purpose*): bông hoa trông như "được sắp đặt" một cách khéo léo, nhưng ta không cần biết nó được sắp đặt *để làm gì*. Chính sự "có vẻ được thiết kế mà chẳng vì mục đích nào" ấy là nguồn gốc của thích thú thẩm mỹ.
 
-Kant còn phân biệt **cái đẹp tự do** (*free beauty*) với **cái đẹp phụ thuộc** (*adherent beauty*). Bông hoa, con chim ruồi, một bản nhạc không lời là cái đẹp tự do: ta thấy đẹp mà không cần biết nó *phải* là gì. Ngược lại, một nhà thờ hay một con ngựa chiến là cái đẹp phụ thuộc: ta đánh giá nó đẹp một phần dựa trên khái niệm về cái nó phải là — nhà thờ phải trang nghiêm, ngựa chiến phải dũng mãnh. Phân biệt này giải thích vì sao ta tranh cãi khác nhau về hai loại: với cái đẹp tự do, ta chỉ có cảm giác để mà tranh; với cái đẹp phụ thuộc, ta còn có thể tranh về *tiêu chuẩn* của loại vật đó.
+Kant còn phân biệt **cái đẹp tự do** (*free beauty*) với **cái đẹp phụ thuộc** (*adherent beauty*). Bông hoa, con chim ruồi, một bản nhạc không lời là cái đẹp tự do: ta thấy đẹp mà không cần biết nó *phải* là gì. Ngược lại, một nhà thờ hay một con ngựa là cái đẹp phụ thuộc: ta đánh giá nó đẹp một phần dựa trên khái niệm về cái nó phải là — nhà thờ được xét như một nhà thờ, con ngựa được xét như một con ngựa. Phân biệt này giải thích vì sao ta tranh cãi khác nhau về hai loại: với cái đẹp tự do, ta chỉ có cảm giác để mà tranh; với cái đẹp phụ thuộc, ta còn có thể tranh về *tiêu chuẩn* của loại vật đó.
 
 ### 3. Điểm chung đáng ngạc nhiên của hai ông
 
@@ -155,7 +155,7 @@ Một hướng phát triển đáng chú ý: mỹ học thực nghiệm (*experi
 
     Cái đẹp không phải là một tính chất của sự vật tự thân: nó chỉ tồn tại trong tâm trí của người chiêm ngưỡng; và mỗi tâm trí cảm nhận một vẻ đẹp khác nhau. *(bản dịch của Logos)*
 
-Cũng trong đoạn ấy còn một câu nói thẳng hơn: "Đi tìm cái đẹp *thật sự*, cũng như đi tìm cái ngọt *thật sự* hay cái đắng *thật sự*, là một cuộc tìm kiếm vô ích." ("To seek the real beauty, or real deformity, is as fruitless an enquiry, as to pretend to ascertain the real sweet or real bitter.") Ngọt hay đắng là chuyện của lưỡi; đẹp hay xấu là chuyện của mắt thẩm mỹ — nhưng, như Hume lập luận ở phần sau của bài, cả hai đều có thể bàn cãi một cách nghiêm túc.
+Cũng trong đoạn ấy còn một câu nói thẳng hơn: "Đi tìm cái đẹp *thật sự* hay cái xấu *thật sự* là một cuộc tìm kiếm vô ích, chẳng khác gì đòi xác định cái ngọt *thật sự* hay cái đắng *thật sự*." ("To seek the real beauty, or real deformity, is as fruitless an enquiry, as to pretend to ascertain the real sweet or real bitter.") Ngọt hay đắng là chuyện của lưỡi; đẹp hay xấu là chuyện của mắt thẩm mỹ — nhưng, như Hume lập luận ở phần sau của bài, cả hai đều có thể bàn cãi một cách nghiêm túc.
 
 Câu hỏi dẫn dắt:
 
