@@ -1,0 +1,39 @@
+{
+  "unit": "works/chua-ro.khai-niem-lo-au",
+  "hash": "sha256:6d72ba7a2b20119f9bfa1cdab239200b3b48242bdba5297277bf20832d249bb4",
+  "checked_on": "2026-11-20",
+  "checker": "claude-sua-5.8",
+  "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với kierkegaard.begrebet-angest (Begrebet Angest)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "ho-so/kierkegaard"
+    },
+    {
+      "text": "Tác phẩm có thật, tên: Khái niệm lo âu",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "The Concept of Anxiety (1844)",
+          "where": "§1 (danh mục tác phẩm theo năm), tải 2026-11-20"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1844 (years_seen: cau-hoi/duc-tin-ly-tri.md#cac-lap-truong-chinh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "The Concept of Anxiety (1844)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản ghi mới sinh khi áp bảng sửa 5.8 ở duc-tin-ly-tri (tên tiếng Việt của tác phẩm Kierkegaard). Hồ sơ đóng băng ho-so/kierkegaard ghi tên Việt tương ứng với tên Đan Mạch. Ghi và đóng băng vào 5.1 (Claude duyệt tạm)."
+}

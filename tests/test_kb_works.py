@@ -41,9 +41,10 @@ class TestKbWorks(unittest.TestCase):
         gộp): thêm 6 (Locke *Essay* (1689) ở ban-nga-thoi-gian, ban-tinh-con-nguoi, cai-toi; *Leviathan* (1651) ở
         ban-tinh-con-nguoi, khe-uoc-xa-hoi; *The Problems of Philosophy* (1912) ở chan-ly), bớt 1 (*Hoàng Việt văn tuyển*
         ở nho-giao-viet nay ghi "(Bùi Huy Bích, 1825)") → 165; cổng 5.8: thêm 1 (Broad *Scientific Thought* (1923) ở
-        thoi-gian) → 166."""
+        thoi-gian) → 166; sửa 5.8: thêm 2 (Kierkegaard *Khái niệm lo âu* (1844), *Tái bút phi khoa học kết
+        thúc* (1846) ở duc-tin-ly-tri) → 168."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 166)
+        self.assertEqual(n, 168)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():
