@@ -17,7 +17,7 @@ Repo `logos` bắt đầu ngày 3/11/2026 từ bản nhập nguyên trạng `log
 | 4 | Giao diện tối thiểu | 14/12–20/12/2026 | **Xong** 5/11/2026 (tag `v1.4`) — `ban-giao/dot-4.md`, nhật ký `ban-giao/nhat-ky-dot-4.md` |
 | — | Nghỉ cuối năm | 21/12/2026–3/1/2027 | — |
 | 5 | Kiểm chứng và đóng băng Lõi | 4/1–14/3/2027 | **Xong** 20/11/2026 (tag `v1.5`; đóng băng "Claude duyệt tạm", chủ biên duyệt lại) — `ban-giao/dot-5.md`, nhật ký `ban-giao/nhat-ky-dot-5.md` |
-| 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | Chưa |
+| 6 | Thiết kế lại giao diện | 15/3–25/4/2027 | **Đang làm** từ 20/11/2026 — `ban-giao/dot-6.md`, nhật ký `ban-giao/nhat-ky-dot-6.md` |
 | 7 | Vận hành Mở rộng | từ 26/4/2027 | Chưa |
 
 Đợt 0 bắt đầu muộn một tuần (3/11 thay vì 26/10), nên đợt 1–3 lùi một tuần và đợt 4 rút còn một tuần để giữ kỳ nghỉ cuối năm. Không đủ thì phần còn lại của đợt 4 sang tuần 4/1/2027 và đợt 5 lùi theo. Đây là đề xuất; chủ biên chỉnh nếu cần.
@@ -83,6 +83,9 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 34 | Nguồn ở trang chặn công cụ kiểm (đợt 5.2): `ctext.org`, `cbetaonline`, trang có kiểm tra chống bot (DASH Harvard, thuvienphapluat, SSRN…) | Claim "URL mở được" coi là đạt khi nội dung đã đối chiếu ở một bản khác (Wikisource, CBETA cbdata, Crossref, bản ghi thư viện) và URL đúng mẫu đường dẫn của site; link hỏng do kiểm link hằng tuần (`links.yml`) phát hiện. Không vượt kiểm tra chống bot | Thay mọi URL như thế bằng nguồn mở được; để `chua-kiem-duoc` | theo Đề xuất (Claude chọn tạm 10/11/2026 theo ủy quyền của chủ biên; chủ biên duyệt lại) |
 | 35 | Chi tiết phụ của dòng nguồn không kiểm được (đợt 5.2): số liên tục của tạp chí, trang cuối, trang trong sách, nhãn "phạm vi công cộng", "phụ lục", cơ quan chủ quản | Bỏ chi tiết đó khỏi dòng nguồn (giữ tác giả, tên, năm, nơi in, link đã kiểm); nhận định của bài mà không nguồn nào nói thì viết lại cho khớp nguồn | Giữ và để `chua-kiem-duoc` tới khi có bản in | theo Đề xuất (Claude chọn tạm 10/11/2026 theo ủy quyền của chủ biên; chủ biên duyệt lại) |
 | 36 | Mục Nguồn gộp nhiều tác phẩm, cùng một nguồn ghi khác nhau ở các trang (đợt 5.2, `verification/lech/sources.md`) | Mỗi mục Nguồn một tác phẩm: mục gộp tác phẩm khác nhau thì tách; nhiều URL của cùng một tác phẩm (bản điện tử khác, bản dịch, nguyên văn, các chương/thiên) giữ trong một mục và ghi vào `NHIEU_URL_DUYET` của `tools/kb_sources.py`. Cùng một nguồn ghi giống nhau ở mọi trang và hồ sơ; vị trí và chú thích riêng của trang đặt ở câu ngắn trước danh sách Nguồn (hồ sơ: bỏ). Link http:// đổi sang https:// khi site chạy https; còn lại ghi vào `HTTP_DUYET` kèm lý do. Sách in cùng tên nhưng khác quy ước ghi giữa trang và hồ sơ (năm sau tên tác giả hay ở cuối) để 5.9 | Giữ mục gộp, ghi mỗi trang một kiểu | theo Đề xuất (Claude chọn tạm 10/11/2026 theo ủy quyền của chủ biên; chủ biên duyệt lại) |
+| 37 | Hướng thiết kế đợt 6 | Chỉnh trên nền hiện có: giữ màu, font, Material; làm lại nhịp chữ, bố cục bài, trang chủ | Nhận diện mới hoàn toàn; chỉ việc kỹ thuật | **Chỉnh trên nền hiện có** (chủ biên chọn 20/11/2026) |
+| 38 | Tìm kiếm tiếng Việt (đợt 6) | Sửa worker của site: từ ≤ 2 chữ cái không thêm `*` | Pagefind | **Sửa worker** (chủ biên chọn 20/11/2026) |
+| 39 | Kiểu ngoặc kép hiển thị (quyết định 26) | Ngoặc cong `“ ”` khi hiển thị, đổi lúc build bằng hook; nguồn không đổi | Giữ như bài | **Ngoặc cong** (chủ biên chọn 20/11/2026) |
 
 ## 4. Kiến trúc
 
