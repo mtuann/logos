@@ -23,13 +23,13 @@ Mỗi bài thuộc phần **Lõi** (kiến thức kinh điển) được chia th
 | Luân lý ứng dụng | 54 | 0 | 54 | 100% |
 | Triết học chính trị | 108 | 105 | 0 | 0% |
 | Cái đẹp và nghệ thuật | 20 | 20 | 0 | 0% |
-| Tôn giáo | 29 | 29 | 0 | 0% |
+| Tôn giáo | 29 | 27 | 0 | 0% |
 | Siêu hình học | 74 | 74 | 0 | 0% |
-| Ý nghĩa cuộc sống | 38 | 38 | 0 | 0% |
+| Ý nghĩa cuộc sống | 38 | 37 | 0 | 0% |
 | Tư tưởng Việt Nam | 30 | 30 | 0 | 0% |
 | Lịch sử | 68 | 0 | 68 | 100% |
 | Đọc văn bản | 190 | 0 | 190 | 100% |
-| **Tổng** | **989** | **296** | **690** | **70%** |
+| **Tổng** | **989** | **293** | **690** | **70%** |
 
 ## Dữ kiện {#du-kien}
 
