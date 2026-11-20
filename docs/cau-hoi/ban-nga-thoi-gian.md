@@ -106,7 +106,7 @@ Nhưng cần đọc cẩn thận: đây là hai con số tổng của hai câu h
 
 **"Tôi của mười năm trước."** Hãy lấy ảnh của bạn mười năm trước ra nhìn. Người trong ảnh có phải là "bạn" không — hay chỉ là một người lạ mà bạn tình cờ nhớ được vài chuyện? Tiêu chí tâm lý nói: chừng nào sợi dây ký ức còn nối, đó vẫn là bạn — dù tính cách đã đổi thay hoàn toàn. Tiêu chí sinh học nói: đó là bạn vì đó là cùng một sinh vật. Còn bạn — khi nhìn vào đôi mắt trong ảnh — bạn *cảm thấy* đó là ai? Câu trả lời thành thật của bạn về bức ảnh đó chính là lập trường triết học của bạn, dù bạn chưa bao giờ đọc Locke.
 
-**Lời hứa với bản thân tương lai.** "Từ mai tôi sẽ dậy sớm tập thể dục." Ai hứa với ai? Người-hôm-nay ra lệnh cho người-ngày-mai — mà người-ngày-mai có thể chẳng muốn tuân theo. Toàn bộ nghệ thuật "kỷ luật bản thân" dựa trên giả định rằng người tương lai *là* bạn, nên bạn có quyền quyết định thay họ. Parfit, với quan điểm của mình, từng gợi ý một hệ quả đáng suy ngẫm: nếu sự liên tục tâm lý giữa bạn-hôm-nay và bạn-mười-năm-nữa đã mờ nhạt, thì việc hy sinh hiện tại cho tương lai xa cũng bớt "hiển nhiên" hơn ta tưởng — bạn đang hy sinh cho một người mà bạn chỉ còn liên hệ lỏng lẻo. Đó không phải lời khuyên buông thả; đó là lời mời suy nghĩ nghiêm túc về *vì ai* mà ta đang cố gắng.
+**Lời hứa với bản thân tương lai.** "Từ mai tôi sẽ dậy sớm tập thể dục." Ai hứa với ai? Người-hôm-nay ra lệnh cho người-ngày-mai — mà người-ngày-mai có thể chẳng muốn tuân theo. Toàn bộ nghệ thuật "kỷ luật bản thân" dựa trên giả định rằng người tương lai *là* bạn, nên bạn có quyền quyết định thay họ. Parfit, với quan điểm của mình, từng gợi ý một hệ quả đáng suy ngẫm: nếu sự kết nối tâm lý (ký ức, ý định, niềm tin chung) giữa bạn-hôm-nay và bạn-mười-năm-nữa đã mờ nhạt, thì việc hy sinh hiện tại cho tương lai xa cũng bớt "hiển nhiên" hơn ta tưởng — bạn đang hy sinh cho một người mà bạn chỉ còn liên hệ lỏng lẻo. Đó không phải lời khuyên buông thả; đó là lời mời suy nghĩ nghiêm túc về *vì ai* mà ta đang cố gắng.
 
 **Người thân mất trí nhớ.** Đây là nơi bài này ngừng là chuyện học thuật. Khi một người thân mắc Alzheimer tiến triển — ký ức mất dần, tính cách đổi khác, đến mức không còn nhận ra bạn — câu hỏi "người ấy còn là chính mình không?" trở thành câu hỏi của tình yêu và trách nhiệm. Tiêu chí tâm lý cho bạn ngôn ngữ để gọi tên nỗi đau ("mẹ không còn là mẹ nữa"); tiêu chí sinh học nhắc bạn rằng *con người* đó vẫn ở đây và vẫn xứng đáng được chăm sóc; quan điểm sự kiện bổ sung thì thầm rằng có điều gì đó ở người ấy mà bệnh tật không chạm tới được. Không lập trường nào làm cho nỗi đau dễ chịu hơn — nhưng mỗi lập trường cho bạn một cách khác nhau để *hiểu* mình đang đau vì điều gì.
 
@@ -170,7 +170,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Bản sắc cá nhân: tâm lý 51,9% / sinh học 32,1%; Máy dịch chuyển: sống sót 62,4% / chết 29,8%"
   ],
   "answer": 2,
-  "explain": "Con số chính xác (cả hai đều là câu chính của khảo sát): tâm lý 43,7%, sinh học 19,1%, sự kiện bổ sung 14,9%; máy dịch chuyển: sống sót 35,2%, chết 40,1% — một trong những câu hỏi chia rẽ nhất của khảo sát."
+  "explain": "Con số chính xác (cả hai đều là câu chính của khảo sát): tâm lý 43,7%, sinh học 19,1%, sự kiện bổ sung 14,9%; máy dịch chuyển: sống sót 35,2%, chết 40,1% — một câu hỏi mà giới triết học chia rẽ rõ rệt."
  }
 ]
 </script>
