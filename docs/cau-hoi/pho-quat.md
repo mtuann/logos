@@ -12,7 +12,7 @@ block: sieu-hinh
 !!! summary "Tóm tắt 5 phút"
 
     - Luận điểm chính: bông hồng đỏ, giọt máu, ánh đèn đỏ — cái "đỏ" chung ấy có *thật* không, hay chỉ là cái tên ta đặt? Đây là "vấn đề phổ quát" từng làm triết học Trung cổ cãi nhau suốt nhiều thế kỷ.
-    - Bốn lập trường: thực tại luận — phổ quát có thật: [Platon](../triet-gia/platon.md) đặt Ý niệm Đỏ ở thế giới riêng (*Phaedo*), [Aristotle](../triet-gia/aristotle.md) kéo xuống trần gian (phổ quát tồn tại *trong* các vật), Armstrong (*Universals and Scientific Realism*, 1978) cho rằng khoa học *cần* phổ quát để giải thích định luật tự nhiên; duy danh luận (Ockham) — chỉ có vật riêng, "đỏ" chỉ là cái tên, dùng dao cạo Ockham cạo sạch thực thể thừa; thuyết tương tự — không cần thực thể chung, các vật *giống nhau* là đủ; thuyết trope, tức tính chất cá biệt (Williams, 1953) — mỗi vật có "vệt đỏ" của riêng mình, các vệt giống hệt nhau tạo thành loại.
+    - Bốn lập trường: thực tại luận — phổ quát có thật: [Platon](../triet-gia/platon.md) đặt Ý niệm Đỏ ở thế giới riêng (*Phaedo*), [Aristotle](../triet-gia/aristotle.md) kéo xuống trần gian (phổ quát tồn tại *trong* các vật), Armstrong (*Universals and Scientific Realism*, 1978) cho rằng khoa học *cần* phổ quát để giải thích định luật tự nhiên; duy danh luận (Ockham) — chỉ có vật riêng, "đỏ" chỉ là cái tên; phe này viện dẫn dao cạo Ockham để cạo sạch thực thể thừa; thuyết tương tự — không cần thực thể chung, các vật *giống nhau* là đủ; thuyết trope, tức tính chất cá biệt (Williams, 1953) — mỗi vật có "vệt đỏ" của riêng mình, các vệt giống hệt nhau tạo thành loại.
     - Thái độ của bài: câu hỏi bắt đầu từ việc gọi tên màu sắc nhưng dẫn đến bản chất của thực tại — và nó cũng quyết định cách ta hiểu khoa học (định luật nói về cái gì?) lẫn những câu như "con người có bản chất lương thiện". PhilPapers 2020 (câu bổ sung "Tính chất", n ≈ [[pp:tinh-chat-properties/n]]): phổ quát nội tại [[pp:tinh-chat-properties.pho-quat-noi-tai-kieu-aristotle]]%, phổ quát siêu việt [[pp:tinh-chat-properties.pho-quat-sieu-viet-kieu-platon]]%, trope [[pp:tinh-chat-properties.trope-tinh-chat-ca-biet]]%, lớp [[pp:tinh-chat-properties.lop-tap-hop]]% — chưa phe nào thắng.
 
 Nhìn quanh bạn lúc này: có thể có một cuốn sách đỏ, một chiếc áo đỏ, ánh đèn đỏ của xe máy ngoài đường. Ba vật khác nhau hoàn toàn — giấy, vải, ánh sáng — mà ta gọi chung một chữ: "đỏ".
@@ -40,11 +40,11 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 Các triết gia gọi cái "đỏ" chung ấy là một **phổ quát** (*universal*): một tính chất hay một loại mà nhiều vật riêng lẻ cùng có. Bông hồng, giọt máu, ánh đèn là những **vật riêng** (*particular*): mỗi thứ chỉ có một, ở một chỗ, vào một lúc.
 
-Câu hỏi: *phổ quát có thật sự tồn tại không?* Có ba cách trả lời lớn, và mỗi cách vẽ ra một bức tranh khác nhau về vũ trụ.
+Câu hỏi: *phổ quát có thật sự tồn tại không?* Bài này xét bốn cách trả lời, và mỗi cách vẽ ra một bức tranh khác nhau về vũ trụ.
 
 Để thấy câu hỏi này không chỉ là chuyện chữ nghĩa, hãy nghĩ về khoa học. Định luật vạn vật hấp dẫn nói về *mọi* vật có khối lượng. Nếu "khối lượng" không phải là một thứ có thật mà mọi vật cùng chia sẻ, thì định luật ấy đang nói về cái gì? Hay nghĩ về câu "con người có bản chất lương thiện": nếu không có cái gọi là "bản chất con người", câu ấy còn ý nghĩa gì?
 
-Tranh luận này từng là đề tài nóng nhất của triết học Trung cổ — các nhà kinh viện gọi nó là "vấn đề phổ quát" và chia phe cãi nhau suốt nhiều thế kỷ. Phe thực tại luận ôn hòa (như [Thomas Aquinas](../triet-gia/aquinas.md)) đi theo Aristotle: phổ quát có thật nhưng chỉ trong các vật. Phe duy danh luận triệt để (như William xứ Ockham) thì dùng con dao cạo nổi tiếng của mình để "cạo" sạch phổ quát khỏi vũ trụ. Cuộc tranh luận ấy chưa bao giờ thực sự kết thúc — nó chỉ đổi tên và tiếp tục đến hôm nay.
+Tranh luận này từng là một trong những đề tài lớn của triết học Trung cổ — các nhà kinh viện gọi nó là "vấn đề phổ quát" và chia phe cãi nhau suốt nhiều thế kỷ. Phe thực tại luận ôn hòa (như [Thomas Aquinas](../triet-gia/aquinas.md)) đi theo Aristotle: phổ quát có thật nhưng chỉ trong các vật. Phe duy danh luận (như William xứ Ockham) thì bác bỏ hẳn phổ quát: với Ockham, các thuyết thực tại về phổ quát thời ấy là tự mâu thuẫn, nên chỉ có vật riêng và những khái niệm, từ ngữ "phổ quát" dùng để nói về nhiều vật. Cuộc tranh luận ấy chưa bao giờ thực sự kết thúc — nó chỉ đổi tên và tiếp tục đến hôm nay.
 
 Và có lẽ đó chính là điểm thú vị nhất: một câu hỏi bắt đầu từ việc gọi tên màu sắc lại dẫn ta đến câu hỏi về bản chất của thực tại. Triết học thường làm vậy — bắt đầu từ điều hiển nhiên nhất, và kết thúc ở nơi không ai ngờ tới.
 
@@ -165,7 +165,7 @@ Câu hỏi dẫn dắt:
 3. Hãy thử áp dụng lập luận của Platon vào một tính chất hiện đại, ví dụ "thông minh": có tồn tại "cái Thông minh" mà mọi người thông minh cùng tham dự không? Điều gì khiến ví dụ này khó hơn (hoặc dễ hơn) ví dụ về cái Đẹp?
 4. Thuyết trope (Williams) nói mỗi vật có "vệt đỏ" riêng. Theo bạn, đây là một lý thuyết mới thật sự, hay chỉ là cách nói lại của một trong ba phe kia? Vì sao?
 
-Đọc thêm: [hướng dẫn đọc ẩn dụ hang động](../doc/platon-hang-dong.md), hình ảnh nổi tiếng nhất của thuyết Ý niệm.
+Đọc thêm: [hướng dẫn đọc ẩn dụ hang động](../doc/platon-hang-dong.md), cách ngắn nhất để hiểu thuyết Ý niệm của Platon.
 
 ## Tự kiểm tra {#tu-kiem-tra}
 
