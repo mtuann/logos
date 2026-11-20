@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tu-do-ngon-luan.md#doc-van-ban-goc",
-  "hash": "sha256:39fe66477a709350dbe75ec97cb7749dbe732666ccf2523ee064742a2e3b2e54",
+  "hash": "sha256:14f24b1564ab9a5baca8c43f1b3322ffa585e3cdfa04500b36b67589113b1d83",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07 + agent-kiem-5.8-q2",
   "claims": [
     {
       "text": "On Liberty (1859) của Mill đã thuộc phạm vi công cộng — ... chương 2 (\"Về tự do tư tưởng và thảo luận\")",
@@ -120,6 +120,23 @@
           "quote": "Tôi hiểu việc dùng lý trí một cách công khai là việc một người, với tư cách học giả, dùng lý trí của mình trước toàn thể công chúng độc giả."
         }
       ]
+    },
+    {
+      "text": "còn việc kích động sự không khoan dung hay ngược đãi thì Popper muốn coi là tội phạm, như kích động giết người.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "we should consider incitement to intolerance and persecudon as criminal",
+          "where": "tập 1, chương 7, chú thích 4 (OCR giữ lỗi \"persecudon\")"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "in the same way as we should consider incitement to murder",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI), câu tiếp theo câu \"incitement to intolerance and persecudon as criminal\""
+        }
+      ]
     }
   ],
   "checklist": {
@@ -130,5 +147,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Không có trích nguyên văn trong mục này; phần Popper chỉ tóm tắt (cùng lưu ý bỏ sót như ở cac-lap-truong-chinh nhưng ở đây là tóm tắt ngưỡng đàn áp nên giữ dung). Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): theo mục \"Chỗ còn sót\": đoạn tóm Popper và câu hỏi dẫn dắt 2 vẫn chỉ nêu ngưỡng \"từ chối tranh luận\", bỏ ý chú thích 4 ch.7 (phong trào rao giảng không khoan dung ra ngoài vòng pháp luật; kích động không khoan dung là tội phạm) mà thân bài nay đã ghi — chuyển thành hai claim sai nhẹ kèm fix dán thẳng. Quote Popper tải lại (archive.org djvu.txt), so khớp."
+  "notes": "Không có trích nguyên văn trong mục này; phần Popper chỉ tóm tắt (cùng lưu ý bỏ sót như ở cac-lap-truong-chinh nhưng ở đây là tóm tắt ngưỡng đàn áp nên giữ dung). Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): theo mục \"Chỗ còn sót\": đoạn tóm Popper và câu hỏi dẫn dắt 2 vẫn chỉ nêu ngưỡng \"từ chối tranh luận\", bỏ ý chú thích 4 ch.7 (phong trào rao giảng không khoan dung ra ngoài vòng pháp luật; kích động không khoan dung là tội phạm) mà thân bài nay đã ghi — chuyển thành hai claim sai nhẹ kèm fix dán thẳng. Quote Popper tải lại (archive.org djvu.txt), so khớp. Lượt 3 (agent-kiem-5.8-q2, 2026-11-20): đoạn tóm Popper và câu hỏi dẫn dắt 2 (hai claim fixed) đã thay nguyên chữ fix; ghi thêm claim dung cho vế so sánh \"như kích động giết người\" với quote chú thích 4 ch.7 (archive.org djvu.txt tải lại, so khớp sau chuẩn hóa khoảng trắng)."
 }

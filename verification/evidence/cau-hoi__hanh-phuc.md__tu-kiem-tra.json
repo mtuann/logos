@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/hanh-phuc.md#tu-kiem-tra",
-  "hash": "sha256:312b97bb3d5bcdcbb754279f2e127c1315baff2d4efb68dc2859d1b3694d134e",
+  "hash": "sha256:10d71c0a8f48c3cd5d318f676f4a1398eb65461d84388d1f9d1f7294e8512c3f",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k14 + agent-kiem-5.8-r08",
+  "checker": "agent-kiem-5.8-k14 + agent-kiem-5.8-r08 + agent-kiem-5.8-q3",
   "claims": [
     {
       "text": "Câu 1: Nozick dùng cỗ máy trải nghiệm để phản bác trực tiếp thuyết khoái lạc (đáp án 2); các phương án khác sai",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "text": "Câu 5: \"Phản bác mạnh nhất đối với thuyết danh sách khách quan là nguy cơ nào?\" — đáp án gia trưởng",
+      "text": "Câu 5: \"Phản bác thường gặp đối với thuyết danh sách khách quan là nguy cơ nào?\" — đáp án gia trưởng",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -88,5 +88,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mọi đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 5 gọi là \"mạnh nhất\" (xem claim nhe ở _dau); ba phương án còn lại hiển nhiên sai nên không đổi đáp án. Lượt 2 (chỗ còn sót, cùng loại): câu 5 vẫn hỏi \"Phản bác mạnh nhất\" và lời giải gọi là \"tử huyệt\", lệch với Tóm tắt đã sửa; ghi claim sai nhe kèm fix (không đổi đáp án, không đổi data-id)."
+  "notes": "Mọi đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 5 gọi là \"mạnh nhất\" (xem claim nhe ở _dau); ba phương án còn lại hiển nhiên sai nên không đổi đáp án. Lượt 2 (chỗ còn sót, cùng loại): câu 5 vẫn hỏi \"Phản bác mạnh nhất\" và lời giải gọi là \"tử huyệt\", lệch với Tóm tắt đã sửa; ghi claim sai nhe kèm fix (không đổi đáp án, không đổi data-id).\nLượt 3: câu 5 quiz (bài và quiz-bank.json) đã áp đúng fix: 'Phản bác thường gặp', lời giải 'là một phản bác thường gặp'; đáp án và data-id không đổi; cập nhật text claim câu 5; giữ fixed."
 }
