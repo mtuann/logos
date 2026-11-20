@@ -64,7 +64,7 @@ René Descartes, trong *Suy niệm về triết học đệ nhất* (*Meditation
 
 **Lập luận mạnh nhất.** Lập luận dựa trên sự khác biệt về tính chất: vật chất có kích thước, có vị trí, chia cắt được; tư duy, cảm giác, ý muốn thì không có kích thước, không nằm ở đâu trong không gian, không chia đôi được. Một thứ không có tính chất nào của vật chất thì khó mà *là* vật chất. Thêm vào đó là trực giác mạnh mẽ mà thí nghiệm Mary và zombie diễn đạt: trải nghiệm chủ quan dường như là một "thặng dư" mà mọi mô tả vật lý — dù đầy đủ đến đâu — đều bỏ sót. Nếu vật lý học mô tả xong toàn bộ vũ trụ mà vẫn chưa nói được "đau *như thế nào*", thì trong vũ trụ còn có thứ gì đó ngoài vật lý.
 
-**Phản bác chính.** Vấn đề kinh điển là **vấn đề tương tác**: nếu tâm trí hoàn toàn phi vật chất, nó tác động lên cơ thể vật chất *bằng cách nào*? Khi bạn quyết định giơ tay (sự kiện tâm trí) và tay bạn giơ lên (sự kiện vật lý), cái phi vật chất đã "đẩy" vật chất ra sao? Descartes đoán là qua tuyến tùng trong não — một phỏng đoán mà sinh học hiện đại đã bác bỏ, và dù sao nó cũng chỉ dời câu hỏi: tuyến tùng "gặp" linh hồn ở đâu? Hơn nữa, vật lý học có nguyên lý bảo toàn năng lượng: một tác động phi vật chất lên não sẽ là năng lượng "từ hư không", vi phạm định luật vật lý.
+**Phản bác chính.** Vấn đề kinh điển là **vấn đề tương tác**: nếu tâm trí hoàn toàn phi vật chất, nó tác động lên cơ thể vật chất *bằng cách nào*? Khi bạn quyết định giơ tay (sự kiện tâm trí) và tay bạn giơ lên (sự kiện vật lý), cái phi vật chất đã "đẩy" vật chất ra sao? Descartes cho rằng nơi tâm trí tác động lên thân thể là tuyến tùng trong não — nhưng điều đó chỉ dời câu hỏi: tuyến tùng "gặp" linh hồn ở đâu? Hơn nữa, vật lý học có nguyên lý bảo toàn năng lượng: một tác động phi vật chất lên não sẽ là năng lượng "từ hư không", vi phạm định luật vật lý.
 
 **Cách đáp lại.** Người nhị nguyên đáp: không hiểu *cơ chế* tương tác không có nghĩa là tương tác không xảy ra — Newton cũng không giải thích được *vì sao* hấp dẫn tác động xuyên không gian mà vẫn đúng. Về bảo toàn năng lượng: đó là định luật của hệ *vật lý kín*; nếu tâm trí là thứ ngoài vật lý thì hệ não + tâm trí không phải hệ kín theo nghĩa đó. Và họ nhắc lại: vấn đề tương tác là vấn đề *khó*, nhưng vấn đề của vật lý luận — giải thích vì sao vật chất lại *có cảm giác* — là vấn đề *không thể* theo định nghĩa của chính nó. Giữa hai bên, ít nhất nhị nguyên luận thành thật về cái giá phải trả.
 
@@ -90,7 +90,7 @@ Lập trường thứ ba (gắn với David Chalmers, *The Conscious Mind*, 1996
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 có ba câu hỏi liên quan trực tiếp đến bài này: một câu chính (hỏi mọi người) về **tâm trí**, và hai câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **vấn đề khó** và **lý thuyết về ý thức**.
+Khảo sát PhilPapers 2020 có ba câu hỏi liên quan trực tiếp đến bài này: một câu chính (hỏi mọi người) về **tâm trí**, và hai câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) về **vấn đề khó** và **lý thuyết về ý thức**.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
