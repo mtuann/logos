@@ -149,10 +149,10 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Mọi người lính đều dũng cảm như nhau",
    "Lính phe chính nghĩa được trả lương cao hơn",
    "Không nên có quân đội thường trực",
-   "Lính của cả hai phía — kể cả phe xâm lược bất chính — đều có quyền giết nhau trên chiến trường, miễn là tuân thủ luật chiến tranh, vì lính thường chỉ là công cụ không chịu trách nhiệm về quyết định bắt đầu chiến tranh"
+   "Lính của cả hai phía — kể cả phe xâm lược bất chính — đều có quyền giết nhau trên chiến trường, miễn là tuân thủ luật chiến tranh, vì chỉ cần tham chiến, mọi người lính đều đã mất quyền không bị tấn công, bất kể họ đánh cho phe nào"
   ],
   "answer": 3,
-  "explain": "Walzer cho rằng trách nhiệm về jus ad bellum thuộc về chính phủ, còn lính chỉ chịu trách nhiệm về jus in bello. Hệ quả gây tranh cãi: lính phe xâm lược có 'quyền' giết lính phe tự vệ — điểm mà McMahan tấn công."
+  "explain": "Theo Walzer, bằng việc cầm vũ khí, người lính đã trở thành 'người nguy hiểm' đối với phía bên kia nên mất quyền không bị tấn công; dân thường thì không. Hệ quả gây tranh cãi: lính phe xâm lược có 'quyền' giết lính phe tự vệ — điểm mà McMahan tấn công."
  },
  {
   "q": "McMahan (chủ nghĩa xét lại) phản bác Walzer bằng lập luận nào?",
@@ -174,7 +174,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Cho phép lính đào ngũ"
   ],
   "answer": 2,
-  "explain": "Walzer thừa nhận đây là một 'tội ác' về mặt đạo đức nhưng cho rằng trong hoàn cảnh cực đoan, không làm còn tệ hơn. Các nhà phê phán đáp: một ngoại lệ mà ai cũng tự cấp cho mình thì không phải ngoại lệ — nó là giấy phép."
+  "explain": "Walzer thừa nhận làm vậy vẫn là xâm phạm quyền sống của những người vô tội, nhưng cho rằng trong hoàn cảnh cực đoan, không làm còn tệ hơn. Các nhà phê phán đáp: một ngoại lệ mà ai cũng tự cấp cho mình thì không phải ngoại lệ — nó là giấy phép."
  }
 ]
 </script>
