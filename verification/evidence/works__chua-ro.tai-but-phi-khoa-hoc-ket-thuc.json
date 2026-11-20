@@ -1,0 +1,39 @@
+{
+  "unit": "works/chua-ro.tai-but-phi-khoa-hoc-ket-thuc",
+  "hash": "sha256:3fdb5533f290654436a022c41e0efebaa286b456d8083f12cdbb12b8894e08e1",
+  "checked_on": "2026-11-20",
+  "checker": "claude-sua-5.8",
+  "claims": [
+    {
+      "text": "same_as: cùng tác phẩm với kierkegaard.afsluttende-uvidenskabelig-efterskrift (Afsluttende uvidenskabelig Efterskrift)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "kb": "ho-so/kierkegaard"
+    },
+    {
+      "text": "Tác phẩm có thật, tên: Tái bút phi khoa học kết thúc",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Concluding Unscientific Postscript (1846)",
+          "where": "§1 (danh mục tác phẩm theo năm), tải 2026-11-20"
+        }
+      ]
+    },
+    {
+      "text": "Năm: 1846 (years_seen: cau-hoi/duc-tin-ly-tri.md#cac-lap-truong-chinh)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Concluding Unscientific Postscript (1846)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Bản ghi mới sinh khi áp bảng sửa 5.8 ở duc-tin-ly-tri (tên tiếng Việt của tác phẩm Kierkegaard). Hồ sơ đóng băng ho-so/kierkegaard ghi tên Việt tương ứng với tên Đan Mạch. Ghi và đóng băng vào 5.1 (Claude duyệt tạm)."
+}
