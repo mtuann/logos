@@ -23,4 +23,21 @@ importScripts("../javascripts/workers/search.a7633da7.min.js");
   }
   Builder.prototype = Base.prototype;
   lunr.Builder = Builder;
+  /* Đợt 6.1 (quyết định 38): Material thêm `*` vào cuối mọi từ của câu truy vấn. Với từ ≤ 2 chữ cái ("tu", "do",
+   * "y") đuôi `*` khớp quá rộng nên bài chính tụt hạng. Từ ngắn như vậy khớp nguyên từ (bỏ wildcard cuối). */
+  function ozTuNgan(clause) {
+    var W = lunr.Query.wildcard;
+    if (clause.wildcard & W.TRAILING) {
+      var t = String(clause.term).replace(/\*$/, "");
+      if (t.length <= 2) {
+        clause.wildcard &= ~W.TRAILING;
+        clause.term = t;
+      }
+    }
+    return clause;
+  }
+  var baseClause = lunr.Query.prototype.clause;
+  lunr.Query.prototype.clause = function (clause) {
+    return baseClause.call(this, ozTuNgan(clause));
+  };
 })();

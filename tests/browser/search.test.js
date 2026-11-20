@@ -89,3 +89,34 @@ for (const [a, b] of [["tâm trí", "tam tri"], ["tương thích luận", "tuong
     assert.ok(topPages(b, 5).includes(topPages(a, 1)[0]), `${topPages(a, 1)[0]} / ${topPages(b, 5).join(", ")}`);
   });
 }
+
+/* Đợt 6.1 (quyết định 38): Material thêm `*` cuối mọi từ của câu truy vấn; worker của site bỏ `*` ở từ ≤ 2 chữ cái.
+ * Mô hình: mọi từ là REQUIRED + wildcard cuối như Material; so hạng của trang đích khi có và không có bước ozTuNgan. */
+const { ozTuNgan } = new Function("lunr",
+  WORKER.slice(WORKER.indexOf("  function ozTuNgan"), WORKER.indexOf("  var baseClause")) + "return { ozTuNgan };")(lunr);
+function hangMaterial(q, want, coSua) {
+  const res = index.query((qq) => {
+    for (const t of q.split(/\s+/)) {
+      let c = { term: t, presence: lunr.Query.presence.REQUIRED, wildcard: lunr.Query.wildcard.TRAILING };
+      if (coSua) c = ozTuNgan(c);
+      qq.clause(c);
+    }
+  });
+  const pages = [];
+  for (const r of res) { const p = r.ref.split("#")[0]; if (!pages.includes(p)) pages.push(p); }
+  return pages.indexOf(want) + 1 || Infinity;
+}
+const CASES_6 = [...CASES.filter(([, w]) => w), ["y nghia song", "cau-hoi/y-nghia-song/"],
+  ["tu do ngon luan", "cau-hoi/tu-do-ngon-luan/"], ["cong ly", "cau-hoi/cong-ly/"], ["cai chet", "cau-hoi/cai-chet/"]];
+for (const [q, want] of CASES_6) {
+  test(`6.1: "${q}" không tụt hạng khi bỏ * ở từ ngắn`, () => {
+    assert.ok(hangMaterial(q, want, true) <= hangMaterial(q, want, false), `${q}: ${hangMaterial(q, want, false)} → ${hangMaterial(q, want, true)}`);
+  });
+}
+test("6.1: từ ngắn khớp nguyên từ, các câu nhiều từ ngắn lên hạng", () => {
+  assert.equal(ozTuNgan({ term: "do", wildcard: lunr.Query.wildcard.TRAILING }).wildcard & lunr.Query.wildcard.TRAILING, 0);
+  assert.ok(ozTuNgan({ term: "nghia", wildcard: lunr.Query.wildcard.TRAILING }).wildcard & lunr.Query.wildcard.TRAILING);
+  assert.ok(hangMaterial("tự do ý chí", "cau-hoi/tu-do-y-chi/", true) <= 3);
+  assert.ok(hangMaterial("tu do ngon luan", "cau-hoi/tu-do-ngon-luan/", true) === 1);
+  assert.ok(hangMaterial("tu do y chi", "cau-hoi/tu-do-y-chi/", true) * 5 <= hangMaterial("tu do y chi", "cau-hoi/tu-do-y-chi/", false));
+});
