@@ -99,7 +99,7 @@ Tarski được xếp ở đâu? Ở cả hai phía. Chính ông (1944) nói mu�
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.
+Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.
 
 | Câu hỏi | Lựa chọn | % | % loại trừ |
 |---|---|---|---|

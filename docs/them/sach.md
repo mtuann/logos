@@ -3766,7 +3766,7 @@ Tarski được xếp ở đâu? Ở cả hai phía. Chính ông (1944) nói mu�
 
 ## Giới triết học ngày nay nghĩ gì
 
-Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.
+Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.
 
 | Câu hỏi | Lựa chọn | % | % loại trừ |
 |---|---|---|---|
@@ -5163,7 +5163,7 @@ Kết quả: điện thế sẵn sàng bắt đầu *trước* thời điểm ng
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
+\* Câu hỏi bổ sung (được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 
@@ -5394,7 +5394,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về trách nhiệm đ�
 | | Không | [[pp:phai-keo-theo-co-the-ought-implies-can.khong]] |
 | | Khác | [[pp:phai-keo-theo-co-the-ought-implies-can.khac]] |
 
-\* Câu hỏi bổ sung (chỉ hỏi những người chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
+\* Câu hỏi bổ sung (được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm), n ≈ [[pp:phai-keo-theo-co-the-ought-implies-can/n]] người trả lời.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn.
 

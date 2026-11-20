@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/chan-ly.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:69ba6e56089ba10dbc11a956c97b4d983b2b4d19feee82147f52af712a464e7e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k02",
+  "hash": "sha256:afd3f530b094da996999d14b23e560e534d54ba3e8de957ddb4e69c1aa02fac8",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.7-k02 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "Bảng: Chân lý (câu chính, n ≈ [[pp:chan-ly/n]]) — tương ứng, giảm phát, tri thức, khác, kèm cột loại trừ",
@@ -17,12 +17,20 @@
       "kb": "philpapers/mau-thuan-dung"
     },
     {
-      "text": "Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.",
+      "text": "Khảo sát PhilPapers 2020 có một câu chính (hỏi mọi người tham gia) về **chân lý**, và một câu bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) gắn với nghịch lý kẻ nói dối.",
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {"url": "https://journals.publishing.umich.edu/phimp/article/id/2109/", "quote": "Truth Correspondence 844 51.4 794 48.3 Deflationary 403 24.5 365 22.2 Epistemic 167 10.2 144 8.8 Other 276 16.8", "where": "Bảng 1 (câu chính)"},
-        {"url": "https://journals.publishing.umich.edu/phimp/article/id/2109/", "quote": "True contradictions Impossible 660 71.4 Possible but non-actual 44 4.8 Actual 115 12.4 Other 108 11.7", "where": "Bảng 2 (câu bổ sung)"}
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "each of which would be asked to one-sixth of participants (selected randomly)",
+          "where": "§2 (tải lại 2026-11-20, chữ trích từ PDF)"
+        },
+        {
+          "url": "http://web.archive.org/web/20260520172704/https://philpapers.org/archive/BOUPOP-3.pdf",
+          "quote": "Typically, another 800 respondents",
+          "where": "§3.2"
+        }
       ]
     },
     {
@@ -30,7 +38,11 @@
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://journals.publishing.umich.edu/phimp/article/id/2109/", "quote": "we allowed respondents to indicate that they “accept” or “lean toward” a view", "where": "mục 2"}
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "we allowed respondents to indicate that they “accept” or “lean toward” a view",
+          "where": "mục 2"
+        }
       ]
     },
     {
@@ -44,8 +56,16 @@
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://journals.publishing.umich.edu/phimp/article/id/2109/", "quote": "Truth Correspondence 844 51.4 794 48.3 Deflationary 403 24.5 365 22.2 Epistemic 167 10.2 144 8.8 Other 276 16.8", "where": "Bảng 1: chỉ ba lựa chọn cộng \"Other\""},
-        {"url": "https://plato.stanford.edu/archives/fall2026/entries/truth-correspondence/", "quote": "but virtually identical formulations can", "where": "mục 1: thuyết tương ứng có nhiều phiên bản"}
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Truth Correspondence 844 51.4 794 48.3 Deflationary 403 24.5 365 22.2 Epistemic 167 10.2 144 8.8 Other 276 16.8",
+          "where": "Bảng 1: chỉ ba lựa chọn cộng \"Other\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/truth-correspondence/",
+          "quote": "but virtually identical formulations can",
+          "where": "mục 1: thuyết tương ứng có nhiều phiên bản"
+        }
       ]
     },
     {
@@ -59,8 +79,16 @@
       "kind": "du-kien",
       "verdict": "dung",
       "sources": [
-        {"url": "https://journals.publishing.umich.edu/phimp/article/id/2109/", "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020.", "where": "mục 2"},
-        {"url": "https://web.archive.org/web/20221201/https://openai.com/blog/chatgpt/", "quote": "ChatGPT: Optimizing Language Models for Dialogue November 30, 2022", "where": "bản lưu Wayback trang công bố ChatGPT"}
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020.",
+          "where": "mục 2"
+        },
+        {
+          "url": "https://web.archive.org/web/20221201/https://openai.com/blog/chatgpt/",
+          "quote": "ChatGPT: Optimizing Language Models for Dialogue November 30, 2022",
+          "where": "bản lưu Wayback trang công bố ChatGPT"
+        }
       ]
     },
     {
@@ -68,7 +96,11 @@
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
-        {"url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II", "quote": "to be ultimately agreed to by all who investigate, is what we mean by the truth", "where": "mục IV: chân lý là ý kiến cuối cùng của sự truy tìm, không phải ý kiến hiện thời"}
+        {
+          "url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II",
+          "quote": "to be ultimately agreed to by all who investigate, is what we mean by the truth",
+          "where": "mục IV: chân lý là ý kiến cuối cùng của sự truy tìm, không phải ý kiến hiện thời"
+        }
       ]
     },
     {
@@ -78,7 +110,13 @@
       "kb": "sources/doi.10-3998-phimp-2109"
     }
   ],
-  "checklist": {"dung-nguon": true, "manh-nhat": null, "phan-bac": null, "trung-lap": true, "thuat-ngu": true},
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
   "result": "dat",
-  "notes": "Câu \"Truth\" là câu chính (Bảng 1, n ≈ 1.640): 51,4 (loại trừ 48,3) / 24,5 (22,2) / 10,2 (8,8) / khác 16,8. Câu \"True contradictions\" là câu bổ sung (Bảng 2, n ≈ 920): 71,4 / 4,8 / 12,4 / 11,7. Bài phân biệt đúng câu chính và câu bổ sung; \"đa số mỏng\", \"khoảng một phần tư\", \"một phần mười\" không vượt số liệu."
+  "notes": "Câu \"Truth\" là câu chính (Bảng 1, n ≈ 1.640): 51,4 (loại trừ 48,3) / 24,5 (22,2) / 10,2 (8,8) / khác 16,8. Câu \"True contradictions\" là câu bổ sung (Bảng 2, n ≈ 920): 71,4 / 4,8 / 12,4 / 11,7. Bài phân biệt đúng câu chính và câu bổ sung; \"đa số mỏng\", \"khoảng một phần tư\", \"một phần mười\" không vượt số liệu. [doi-loi] Câu bổ sung PhilPapers: sửa \"chỉ hỏi những người chọn trả lời thêm\" theo Bourget & Chalmers 2023 §2, §3.2 (viec-cho 20/11; cách viết thống nhất với sieu-dao-duc và các trang 5.8)."
 }
