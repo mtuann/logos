@@ -14383,7 +14383,7 @@ Một câu hỏi mở cho tương lai: thế hệ triết gia Việt Nam hôm na
 
 ## Liên hệ đời sống
 
-**Học triết ở Việt Nam hôm nay.** Sinh viên Việt Nam học triết học Mác–Lênin như môn bắt buộc, nhưng ít ai được học rằng cũng có những triết gia Việt Nam từng tranh luận với Husserl bằng tiếng Pháp, hay có người dành cả đời để hỏi "hiện đại hóa là gì". Hệ quả là một nghịch lý: người Việt học triết học thế giới mà không biết triết học nước mình có gì **[có cơ sở]** (tình trạng này được nhiều giảng viên triết học phản ánh). Bài này không đòi thay chương trình — đó là việc của giáo dục. Nhưng mỗi người đọc đều có thể tự hỏi: lần cuối cùng bạn đọc một triết gia Việt Nam là khi nào?
+**Học triết ở Việt Nam hôm nay.** Sinh viên Việt Nam học triết học Mác–Lênin như môn bắt buộc, nhưng ít ai được học rằng cũng có những triết gia Việt Nam từng tranh luận với Husserl bằng tiếng Pháp, hay có người dành nhiều năm nghiên cứu Nho giáo để hỏi truyền thống có vai trò gì trong hiện đại hóa. Hệ quả có thể là một nghịch lý: người Việt học triết học thế giới mà không biết triết học nước mình có gì **[suy đoán]**. Bài này không đòi thay chương trình — đó là việc của giáo dục. Nhưng mỗi người đọc đều có thể tự hỏi: lần cuối cùng bạn đọc một triết gia Việt Nam là khi nào?
 
 Và một gợi ý cụ thể: ba nguồn neo của chuyên mục triết học Việt Nam trên site này — *Lịch sử tư tưởng Việt Nam* (Nguyễn Tài Thư chủ biên), *Đến hiện đại từ truyền thống* (Trần Đình Hượu), *Thơ văn Lý–Trần* (Viện Văn học) — đều là những điểm khởi đầu tốt. Bạn không cần đọc hết; chỉ cần đọc một chương, một bài phú, một tiểu luận, rồi tự hỏi mình đồng ý hay phản đối — thế là bạn đã bắt đầu "làm triết học Việt Nam" theo nghĩa đẹp nhất của nó.
 
@@ -14399,16 +14399,16 @@ Và một gợi ý cụ thể: ba nguồn neo của chuyên mục triết học 
 
 Trước khi đọc tóm tắt, một lưu ý về cách đọc: Trần Đình Hượu viết với tư cách một nhà nghiên cứu văn hóa–tư tưởng, không phải một triết gia hệ thống. Ông không xây dựng "chủ nghĩa" nào; ông đặt câu hỏi và đề xuất phương pháp. Vì vậy, đừng tìm trong tóm tắt dưới đây một "đáp án" đóng gói sẵn — hãy tìm một *cách đặt vấn đề* mà bạn có thể mang theo khi đọc bất kỳ tranh luận nào về truyền thống và hiện đại.
 
-Luận điểm xuất phát của ông là một phản bác: hiện đại hóa thường bị đồng nhất với Tây hóa, và Tây hóa thường bị hiểu là đoạn tuyệt với truyền thống. Ông cho rằng sự đồng nhất đó sai cả về lịch sử lẫn về logic. Về lịch sử: các nước hiện đại hóa thành công (Nhật Bản là ví dụ ông hay dùng) đều làm điều đó *từ* truyền thống của mình, không phải bằng cách xóa sạch truyền thống. Về logic: "truyền thống" không phải một khối đồng nhất để mà "giữ" hay "bỏ" nguyên khối; nó là một tập hợp phức tạp các yếu tố, có yếu tố thúc đẩy hiện đại hóa, có yếu tố cản trở.
+Luận điểm xuất phát của ông là một phản bác: không thể "quét sạch" truyền thống bằng khẩu hiệu. Theo ông, Nho giáo gắn với cả một cơ chế kinh tế, chính trị, xã hội; khi cơ chế ấy chưa đổi thì con người vẫn sống và nghĩ theo lối cũ, kể cả người tự cho là đã rũ sạch Nho giáo **[có cơ sở]**. Vì vậy "truyền thống" không phải một khối đồng nhất để mà "giữ" hay "bỏ" nguyên khối; nó phải được nghiên cứu cụ thể, cả mặt mạnh lẫn mặt hạn chế.
 
-Từ đó ông đề xuất nhiệm vụ cho khoa học xã hội và nhân văn Việt Nam: nghiên cứu *cụ thể* truyền thống Việt Nam — nó là gì, vận hành ra sao, yếu tố nào "thuận", yếu tố nào "nghịch" với công cuộc hiện đại hóa. Đây không phải lời kêu gọi bảo thủ ("hãy giữ truyền thống"), cũng không phải lời kêu gọi cấp tiến ("hãy bỏ truyền thống"), mà là lời kêu gọi *nghiên cứu*: trước khi quyết định giữ hay bỏ, hãy hiểu cho đúng cái mình đang nói đến.
+Từ đó ông đề xuất nhiệm vụ cho khoa học xã hội và nhân văn Việt Nam: nghiên cứu *cụ thể* truyền thống Việt Nam — nó là gì, vận hành ra sao, và có vai trò gì trước thực tế phát triển thời cận và hiện đại. Đây không phải lời kêu gọi bảo thủ ("hãy giữ truyền thống"), cũng không phải lời kêu gọi cấp tiến ("hãy bỏ truyền thống"), mà là lời kêu gọi *nghiên cứu*: trước khi quyết định giữ hay bỏ, hãy hiểu cho đúng cái mình đang nói đến.
 
 Một điểm đáng chú ý trong phương pháp của ông: ông không xem "truyền thống" và "hiện đại" là hai phe đối lập nhau, mà xem chúng là hai *thời điểm* của cùng một dòng chảy. Truyền thống không phải cái chết để chôn, mà là cái nền để bước tiếp — nhưng bước tiếp theo hướng nào thì phải do nghiên cứu và thực tiễn quyết định, không phải do khẩu hiệu **[suy đoán]** (diễn giải triết học từ tư tưởng của ông; ông không dùng chính những từ này).
 
 Câu hỏi dẫn dắt:
 
-1. Trần Đình Hượu phân biệt yếu tố "thuận" và "nghịch" trong truyền thống. Hãy thử áp dụng: với *tinh thần hiếu học* của người Việt, bạn xếp nó vào "thuận" hay "nghịch" cho hiện đại hóa — và vì sao? Có trường hợp nào nó vừa thuận vừa nghịch không?
-2. Ông lấy Nhật Bản làm ví dụ cho "đến hiện đại từ truyền thống". Bạn có thấy ví dụ này thuyết phục không? Việt Nam và Nhật Bản khác nhau ở những điểm nào khiến con đường có thể không giống nhau?
+1. Trần Đình Hượu đòi nghiên cứu cụ thể từng mặt của truyền thống. Hãy thử áp dụng: với *tinh thần hiếu học* của người Việt, bạn thấy nó giúp hay cản hiện đại hóa — và vì sao? Có trường hợp nào nó vừa giúp vừa cản không?
+2. Nhiều người lấy Nhật Bản và các "con rồng" châu Á làm ví dụ cho việc hiện đại hóa nhờ Nho giáo; Trần Đình Hượu nêu câu hỏi này nhưng cũng nhắc rằng các nước theo Nho giáo thường không dễ đổi mới. Bạn có thấy ví dụ Nhật Bản thuyết phục không? Việt Nam và Nhật Bản khác nhau ở những điểm nào khiến con đường có thể không giống nhau?
 3. Nếu bạn phải giải thích cho một người bạn nước ngoài rằng "triết học Việt Nam hiện đại là gì" trong ba câu, bạn sẽ nói gì — và bạn sẽ nhắc đến nhân vật nào trong bài này?
 4. Trần Đức Thảo viết bằng tiếng Pháp cho độc giả Pháp, Trần Đình Hượu viết bằng tiếng Việt cho độc giả Việt. Theo bạn, "triết học Việt Nam" được định nghĩa bởi *ngôn ngữ* viết, *chủ đề* bàn, hay *con người* viết? Có thể có một triết gia Việt Nam viết về Husserl bằng tiếng Pháp mà vẫn là "triết học Việt Nam" không?
 
@@ -14498,7 +14498,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-Ba nguồn đầu là ba nguồn mốc của chuyên mục triết học Việt Nam trên site này. Các nguồn còn lại là tác phẩm và khảo sát được trích dẫn trong bài.
+Ba nguồn đầu là ba nguồn mốc của chuyên mục triết học Việt Nam trên site này. Các nguồn còn lại là tác phẩm và khảo sát được trích dẫn trong bài, cùng các tài liệu giới thiệu Trần Đình Hượu: Đại học Quốc gia Hà Nội, "PGS Trần Đình Hượu với cụm công trình: 1. Đến hiện đại từ truyền thống; 2. Nho giáo và văn học Việt Nam trung - cận đại" (2007), <https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html>; Trần Nho Thìn, Trần Ngọc Vương, "Phó giáo sư Trần Đình Hượu - người “đến hiện đại từ truyền thống”", Trường ĐH KHXH&NV (2015), <https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html>; và về hiện sinh ở miền Nam: Wynn Gadkar-Wilcox, "Existentialism and Intellectual Culture in South Vietnam", *The Journal of Asian Studies* 73(2), 2014, tr. 377–395, <https://doi.org/10.1017/S0021911813002349>.
 
 1. Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.
 2. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
