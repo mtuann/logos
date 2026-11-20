@@ -10699,8 +10699,8 @@ Gợi ý độ dài: 150–300 chữ.
 
 !!! summary "Tóm tắt 5 phút"
 
-    - Luận điểm chính: cái bồn tiểu *Fountain* của Duchamp (1917) đặt câu hỏi — cái gì làm nên nghệ thuật? Bài này hỏi về *nghệ thuật* (khác với *cái đẹp* ở bài cai-dep: có thứ là nghệ thuật mà không đẹp, có thứ đẹp mà không phải nghệ thuật).
-    - Bốn lập trường: Tolstoy (*What is Art?*, 1897) — nghệ thuật là truyền cảm xúc chân thành sang người khác (vấp: quảng cáo cũng truyền cảm xúc); Bell (*Art*, 1914) — nghệ thuật là hình thức có ý nghĩa gây xúc động thẩm mỹ (vấp: định nghĩa gần như vòng tròn); Danto ("The Artworld", 1964)/Dickie — nghệ thuật là cái "thế giới nghệ thuật" công nhận, như tiền có giá trị nhờ thể chế (vấp: vòng tròn và trao quá nhiều quyền cho giới tinh hoa); Weitz (1956) — có lẽ không có định nghĩa nào cả: "nghệ thuật" là khái niệm mở với tương tự gia đình kiểu [Wittgenstein](../triet-gia/wittgenstein.md).
+    - Luận điểm chính: cái bồn tiểu *Fountain* của Duchamp (1917) đặt câu hỏi — cái gì làm nên nghệ thuật? Bài này hỏi về *nghệ thuật* (khác với *cái đẹp* ở bài [Cái đẹp ở trong mắt người nhìn?](../cau-hoi/cai-dep.md): có thứ là nghệ thuật mà không đẹp, có thứ đẹp mà không phải nghệ thuật).
+    - Bốn lập trường: Tolstoy (*What is Art?*, 1897) — nghệ thuật là truyền cảm xúc chân thành sang người khác (vấp: quảng cáo cũng truyền cảm xúc); Bell (*Art*, 1914) — nghệ thuật là hình thức có ý nghĩa gây xúc động thẩm mỹ (vấp: định nghĩa gần như vòng tròn); Danto ("The Artworld", 1964)/Dickie — nghệ thuật là cái "thế giới nghệ thuật" công nhận, như tiền có giá trị nhờ thể chế (vấp: vòng tròn và trao quá nhiều quyền cho giới tinh hoa); Weitz (1956) — có lẽ không có định nghĩa nào cả: "nghệ thuật" là khái niệm mở với tương đồng gia đình kiểu [Wittgenstein](../triet-gia/wittgenstein.md).
     - Thái độ của bài: bốn lý thuyết không loại trừ nhau hoàn toàn — tranh cãi thật chỉ nổ ra ở trường hợp biên (Duchamp, AI, graffiti), và chính đó là nơi triết học làm việc chăm chỉ nhất.
 
 Năm 1917, nghệ sĩ Marcel Duchamp mua một cái bồn tiểu bằng sứ ở cửa hàng vật liệu, ký tên "R. Mutt", đặt tên là *Đài phun nước* (*Fountain*), và gửi đến một triển lãm nghệ thuật. Ban tổ chức từ chối trưng bày. Năm 2004, trong một cuộc thăm dò 500 chuyên gia giới nghệ thuật (nghệ sĩ, giám tuyển, nhà phê bình, nhà buôn tranh) nhân dịp giải Turner ở Anh, nó được bình chọn là tác phẩm nghệ thuật hiện đại có ảnh hưởng nhất.
@@ -10770,7 +10770,7 @@ George Dickie phát triển ý này thành **thuyết thể chế** (*institutio
 
 ### 4. Có lẽ không có định nghĩa nào cả (Weitz)
 
-Năm 1956, Morris Weitz đăng bài "The Role of Theory in Aesthetics" và đề xuất một hướng đi táo bạo: có lẽ *mọi* nỗ lực định nghĩa nghệ thuật đều sai hướng từ đầu. Ông mượn ý tưởng "tương tự gia đình" (*family resemblance*) của Wittgenstein: hãy nhìn khái niệm "trò chơi" — cờ vua, đá bóng, chơi trốn tìm có điểm chung duy nhất nào không? Không. Chúng chỉ giống nhau chằng chịt như các thành viên trong một gia đình: người giống mũi, người giống mắt, không ai giống ai ở mọi điểm.
+Năm 1956, Morris Weitz đăng bài "The Role of Theory in Aesthetics" và đề xuất một hướng đi táo bạo: có lẽ *mọi* nỗ lực định nghĩa nghệ thuật đều sai hướng từ đầu. Ông mượn ý tưởng "tương đồng gia đình" (*family resemblance*) của Wittgenstein: hãy nhìn khái niệm "trò chơi" — cờ vua, đá bóng, chơi trốn tìm có điểm chung duy nhất nào không? Không. Chúng chỉ giống nhau chằng chịt như các thành viên trong một gia đình: người giống mũi, người giống mắt, không ai giống ai ở mọi điểm.
 
 "Nghệ thuật", theo Weitz, cũng vậy: nó là một **khái niệm mở** (*open concept*). Các tác phẩm nghệ thuật không chia sẻ một bản chất chung nào; chúng chỉ liên hệ với nhau bằng mạng lưới tương tự. Nhiệm vụ của triết học không phải là tìm định nghĩa, mà là mô tả mạng lưới đó.
 
@@ -10787,7 +10787,7 @@ Năm 1956, Morris Weitz đăng bài "The Role of Theory in Aesthetics" và đề
 
 **Cách đáp lại.** Weitz không nói "cái gì cũng là nghệ thuật". Ông nói: ta nhận ra nghệ thuật bằng sự tương tự với những trường hợp mẫu mực (*paradigm*), giống như ta nhận ra "trò chơi" mà không cần định nghĩa. Tranh cãi về ranh giới là tranh cãi về *mức độ tương tự* — điều hoàn toàn tương thích với khái niệm mở.
 
-Một điểm mạnh ít được chú ý của Weitz: ông giải thích được vì sao các định nghĩa *từng đúng trong một thời* rồi trở nên lỗi thời. Định nghĩa "nghệ thuật là bắt chước tự nhiên" từng rất thuyết phục suốt nhiều thế kỷ — cho đến khi nhiếp ảnh ra đời và làm công việc "bắt chước" tốt hơn mọi họa sĩ. Mỗi định nghĩa là một nỗ lực đóng khung một thực hành đang sống; mà thực hành sống thì luôn vượt ra khỏi khung. Weitz không đưa ra một định nghĩa mới để cạnh tranh — ông giải thích vì sao các định nghĩa trước ông đều thất bại theo cùng một cách. (Lưu ý thứ tự thời gian: bài của Weitz ra đời năm 1956, *trước* Danto và Dickie; thuyết thể chế là một trong những nỗ lực định nghĩa xuất hiện *sau* thách thức của ông.)
+Một điểm mạnh ít được chú ý của Weitz: ông giải thích được vì sao các định nghĩa *từng đúng trong một thời* rồi trở nên lỗi thời. Lấy một ví dụ (của bài này, không phải của Weitz): định nghĩa "nghệ thuật là bắt chước tự nhiên" từng rất thuyết phục suốt nhiều thế kỷ, rồi lung lay khi nhiếp ảnh ra đời và làm công việc "bắt chước" tốt hơn mọi họa sĩ. Mỗi định nghĩa là một nỗ lực đóng khung một thực hành đang sống; mà thực hành sống thì luôn vượt ra khỏi khung. Weitz không đưa ra một định nghĩa mới để cạnh tranh — ông giải thích vì sao các định nghĩa trước ông đều thất bại theo cùng một cách. (Lưu ý thứ tự thời gian: bài của Weitz ra đời năm 1956, *trước* Danto và Dickie; thuyết thể chế là một trong những nỗ lực định nghĩa xuất hiện *sau* thách thức của ông.)
 
 | Lý thuyết | Cái làm nên nghệ thuật | Giải thích tốt | Vấp phải |
 |---|---|---|---|
@@ -10812,7 +10812,7 @@ Khảo sát PhilPapers 2020 không đặt câu hỏi riêng về "nghệ thuật
 | | Khoái cảm | [[pp:trai-nghiem-tham-my.khoai-cam]] |
 | | Khác | [[pp:trai-nghiem-tham-my.khac]] |
 
-\* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm; câu "Giá trị thẩm mỹ" là câu chính, hỏi mọi người tham gia.
+\* Câu hỏi bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm); câu "Giá trị thẩm mỹ" là câu chính, hỏi mọi người tham gia.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
