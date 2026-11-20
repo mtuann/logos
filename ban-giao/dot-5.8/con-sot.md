@@ -1,0 +1,16 @@
+- nho-giao-viet: Tóm tắt ý 2, lập trường 2 (dòng ~82 "trừ bạo là bổn phận"), quiz câu 1 phương án 1 vẫn gộp "trừ bạo" vào định nghĩa nhân nghĩa (去暴 thuộc vế 吊伐之師). Thân bài dòng ~63 "tam cương ngũ thường [chắc chắn]".
+- truc-lam: đoạn mới nhắc Cảnh Đức truyền đăng lục (1004) nhưng Nguồn chưa có.
+- tu-do-ngon-luan: Tóm tắt (dòng ~15) và Đọc văn bản gốc (~117) vẫn tóm Popper "bar rất cao", chưa có ý chú thích 4 ch.7.
+- hanh-phuc: thân bài dòng ~83 "Nguy cơ lớn nhất… gia trưởng".
+- duc-tri: lời giải quiz "kẻ cầm quyền đứng ngoài luật" (câu điều kiện, để nguyên?).
+- khe-uoc-xa-hoi: hình fig:khe-uoc "ai cũng chống ai" → "chưa có quyền lực chung" (tools/figures.py) — CHƯA áp, làm riêng. Anderson Private Government (2017) chưa có ở Nguồn.
+- bien-gioi-di-cu: "Carens (1987; 2013)" nhưng Nguồn chỉ có 1987.
+- cong-ly: dòng ~62 "sinh ra ngẫu nhiên" (Harsanyi).
+- thoi-gian nguon#7 thêm IEP Time → bản ghi nguồn mới (cần accessed? ghi sổ + bằng chứng, đóng băng 5.2).
+- mo-phong: quiz meta-c4 câu 5 số % gõ tay 27,5/54,2; Tóm tắt và quiz câu 4 vẫn xếp Putnam dưới "phản bác tính khoa học".
+- nghe-thuat: hình fig:ho-khai-niem "Tương tự họ" → "tương đồng gia đình" (tools/figures.py) — làm cùng nhánh hình khe-uoc.
+- cai-dep: Tóm tắt dòng ~13 "người phê bình lý tưởng".
+- duc-tin-ly-tri: hình fig:pascal-wager "Mất mát vô hạn / hình phạt đời đời" (tools/figures.py). Front matter description, H3 "Kierkegaard: đức tin là bước nhảy vượt lên trên lý trí", Phản bác chính lập trường 1, mở bài vẫn dùng "bước nhảy" — việc viec-cho, phải sửa hết.
+- luan-chung-ton-giao: quiz giải thích "nhiều triết gia vô thần vẫn coi…"; H3 "mọi sự đều có nguyên nhân" và dòng ~42.
+- van-de-su-du: "biện hộ" còn dùng cho theodicy ở Tóm tắt, mô tả, Hick ("biện hộ linh hồn-tôi luyện").
+- viet-hien-dai: nguồn mới Gadkar-Wilcox 2014 (DOI 10.1017/S0021911813002349) → bản ghi nguồn mới. Hình fig:vietnam-timeline "Trần Đình Hượu (1996)". Lập trường 1 Phản bác chính "Trần Đình Hượu sẽ nói: không…" (gán lời). Có thể thêm phản bác Nguyễn Kiến Giang ("có phần cường điệu").
