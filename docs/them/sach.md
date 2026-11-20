@@ -1,14 +1,14 @@
 ---
 title: Logos — Sách in
 description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được.
-updated: 2026-11-17
+updated: 2026-11-20
 search:
   exclude: true
 ---
 
 # Logos — Sách in {#logos-zero-sach-in}
 
-*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 17/11/2026.*
+*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 20/11/2026.*
 
 !!! note "Lưu ý khi in"
     Mỗi bài bắt đầu ở một trang mới.
@@ -11992,11 +11992,13 @@ Về McTaggart, phe này đáp: chuỗi A (quá khứ/hiện tại/tương lai) 
 
 ### 3. Khối đang lớn: một con đường giữa?
 
-Có một lập trường thứ ba, ít người biết hơn nhưng đáng chú ý: **thuyết khối đang lớn** (*growing block theory*). Theo đó, quá khứ và hiện tại đều thật — ngày hôm qua vẫn "tồn tại" ở đâu đó — nhưng tương lai thì chưa. Vũ trụ là một khối không ngừng lớn thêm: mỗi tích tắc, một lớp "hiện tại" mới được đắp lên.
+Có một lập trường thứ ba, ít người biết hơn nhưng đáng chú ý: **thuyết khối đang lớn** (*growing block theory*). Theo đó, quá khứ và hiện tại đều thật — ngày hôm qua vẫn "tồn tại" ở đâu đó — nhưng tương lai thì chưa. Vũ trụ là một khối không ngừng lớn thêm: mỗi tích tắc, một lớp "hiện tại" mới được đắp lên. Người đầu tiên đưa ra thuyết này là C. D. Broad, trong *Scientific Thought* (1923).
 
-Lập trường này muốn giữ cái hay của cả hai phe: nó giữ được trực giác rằng quá khứ có thật (nên câu "khủng long từng tồn tại" có chỗ bám), đồng thời giữ được trực giác rằng tương lai còn mở (nên ta vẫn tự do). McTaggart sẽ vẫn phản đối — vì nó vẫn dùng chuỗi A — nhưng người theo thuyết này chấp nhận cái giá đó.
+**Lập luận mạnh nhất.** Lập trường này muốn giữ cái hay của cả hai phe: nó giữ được trực giác rằng quá khứ có thật (nên câu "khủng long từng tồn tại" có chỗ bám), đồng thời giữ được trực giác rằng tương lai còn mở (nên ta vẫn tự do). McTaggart sẽ vẫn phản đối — vì nó vẫn dùng chuỗi A — nhưng người theo thuyết này chấp nhận cái giá đó. Câu "khủng long từng tồn tại" đúng vì trong khối có một vùng quá khứ nơi khủng long tồn tại, giống như cách vĩnh cửu luận giải thích.
 
 **Phản bác chính.** Thuyết này thừa hưởng vấn đề của cả hai phe: nó vẫn phải giải thích "hiện tại" là gì trong thuyết tương đối, và nó vẫn giữ một sự bất đối xứng kỳ lạ — vì sao quá khứ "tích lũy" mà tương lai thì không? Nếu thời gian có thể "lớn thêm", thì nó lớn thêm *trong* cái gì?
+
+**Cách đáp lại.** Broad trả lời rằng khối không lớn thêm *trong* một thứ gì khác: "trở thành" chỉ có nghĩa là các sự kiện mới đi vào tồn tại, những "lát" tồn tại mới được thêm vào lịch sử thế giới. Chính sự tích lũy một chiều ấy cho thời gian một hướng: thời điểm sau là thời điểm mà tổng những gì tồn tại gồm mọi thứ của thời điểm trước, cộng thêm một chút nữa. Sự bất đối xứng mà phe phản bác thấy kỳ lạ, ở Broad lại là lời giải thích vì sao thời gian có chiều. Về thuyết tương đối, một số người theo thuyết này, như Michael Tooley, cho rằng một lý thuyết vật lý khác (có thể là cơ học lượng tử) đòi hỏi một sự đồng thời tuyệt đối; nhưng phần đông giới nghiên cứu vẫn phản đối hướng đáp này.
 
 Dù sao, sự tồn tại của lập trường thứ ba cho thấy tranh luận này chưa ngã ngũ: sau hơn một thế kỷ kể từ McTaggart, triết gia vẫn đang vẽ lại bản đồ thời gian.
 
@@ -12108,6 +12110,7 @@ Gợi ý độ dài: 150–300 chữ.
 3. Emery, Nina, Ned Markosian & Meghan Sullivan, "Time", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/archives/fall2026/entries/time/>
 4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. Gustavsson, Kent, "Charlie Dunbar Broad", *Stanford Encyclopedia of Philosophy* (về thuyết khối đang lớn). <https://plato.stanford.edu/archives/fall2026/entries/broad/>
 
 <div class="oz-page-break"></div>
 
