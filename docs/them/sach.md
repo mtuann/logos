@@ -13394,7 +13394,7 @@ Lập trường thứ ba — mà Parfit gọi là *thuyết danh sách khách qu
 
 **Lập luận mạnh nhất.** Lập trường này nắm được trực giác mà cả hai lập trường trên đều bỏ sót: trực giác "đời sống trống rỗng". Người cắm máy trải nghiệm cả đời — dù ngập trong khoái cảm (thắng lập trường 1) và dù đó đúng là điều anh ta muốn (thắng lập trường 2) — vẫn *thiếu* điều gì đó thật: anh ta không thực sự biết gì, không thực sự yêu ai, không thực sự tạo ra gì. Thuyết danh sách khách quan cho ta ngôn ngữ để nói điều đó. Nó cũng cho ta cơ sở để phê phán những ước muốn sai lầm: kẻ nghiện chỉ ước ma túy *đang lầm* về điều tốt cho mình, và ta có thể nói vậy mà không cần chờ anh ta "hiểu ra".
 
-**Phản bác chính.** Ai lập danh sách? Danh sách của ai — của triết gia phương Tây trung lưu? Một người chọn đời sống tu hành khổ hạnh, từ bỏ tri thức thế tục và tình cảm đôi lứa, có "thiếu hạnh phúc" không — hay chỉ là hạnh phúc theo cách mà danh sách không ghi nhận? Nguy cơ lớn nhất của lập trường này là *gia trưởng* (*paternalism*): cho phép người khác — triết gia, nhà nước, cha mẹ — bảo bạn "cái này mới thực sự tốt cho bạn" trong khi bạn không hề muốn. Lịch sử đầy những kẻ nhân danh "điều tốt khách quan" để áp đặt lên người khác.
+**Phản bác chính.** Ai lập danh sách? Danh sách của ai — của triết gia phương Tây trung lưu? Một người chọn đời sống tu hành khổ hạnh, từ bỏ tri thức thế tục và tình cảm đôi lứa, có "thiếu hạnh phúc" không — hay chỉ là hạnh phúc theo cách mà danh sách không ghi nhận? Nguy cơ thường được nêu của lập trường này là *gia trưởng* (*paternalism*): cho phép người khác — triết gia, nhà nước, cha mẹ — bảo bạn "cái này mới thực sự tốt cho bạn" trong khi bạn không hề muốn. Lịch sử đầy những kẻ nhân danh "điều tốt khách quan" để áp đặt lên người khác.
 
 **Cách đáp lại.** Người theo thuyết danh sách đáp: danh sách không phải là mệnh lệnh áp đặt mà là những *ứng cử viên* được nhiều nền văn hóa, nhiều thời đại cùng công nhận — tri thức, tình bạn, thành tựu xuất hiện trong hầu hết mọi quan niệm về đời sống tốt, từ [Khổng Tử](../triet-gia/khong-tu.md) đến [Aristotle](../triet-gia/aristotle.md) đến Phật giáo. Và danh sách để chỗ cho cá nhân: không ai bắt bạn phải có *tất cả* mọi mục, bạn được chọn *trong* danh sách theo cách của mình. Còn về người tu hành: lập trường này có thể nói ông *có* những mục khác trong danh sách (tự chủ, hiểu biết sâu sắc, bình an) ở mức độ cao — danh sách đủ rộng để chứa cả những đời sống khác thường, miễn là chúng thực sự chứa điều tốt chứ không phải chỉ là sự trốn chạy được ngụy trang.
 
@@ -13486,7 +13486,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
   "explain": "Điểm cốt lõi: giá trị của những điều trong danh sách không phụ thuộc vào việc chủ thể có cảm thấy vui hay có muốn chúng không. Người cắm máy trải nghiệm cả đời thiếu những điều này một cách thật sự, dù anh ta không nhận ra."
  },
  {
-  "q": "Phản bác mạnh nhất đối với thuyết danh sách khách quan là nguy cơ nào?",
+  "q": "Phản bác thường gặp đối với thuyết danh sách khách quan là nguy cơ nào?",
   "options": [
    "Nguy cơ gia trưởng (paternalism): cho phép người khác nhân danh 'điều tốt khách quan' để áp đặt lên bạn những giá trị bạn không hề muốn",
    "Nguy cơ khiến mọi người đều hạnh phúc như nhau",
@@ -13494,7 +13494,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Nguy cơ mâu thuẫn với khoa học tự nhiên"
   ],
   "answer": 0,
-  "explain": "Câu hỏi 'ai lập danh sách?' là tử huyệt: nếu triết gia, nhà nước hay cha mẹ được quyền định nghĩa điều tốt khách quan cho bạn, thì ranh giới giữa 'hiểu biết hơn' và 'áp đặt' trở nên mong manh — và lịch sử đầy những kẻ nhân danh điều tốt để áp đặt."
+  "explain": "Câu hỏi 'ai lập danh sách?' là một phản bác thường gặp: nếu triết gia, nhà nước hay cha mẹ được quyền định nghĩa điều tốt khách quan cho bạn, thì ranh giới giữa 'hiểu biết hơn' và 'áp đặt' trở nên mong manh — và lịch sử đầy những kẻ nhân danh điều tốt để áp đặt."
  }
 ]
 </script>
