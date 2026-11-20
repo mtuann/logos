@@ -1,0 +1,37 @@
+{
+  "unit": "sources/iep.time",
+  "hash": "sha256:70246df005622cec5459c06c2ed9677ca88a76666ea315640b054dad7b06ca38",
+  "checked_on": "2026-11-20",
+  "checker": "claude-sua-5.8",
+  "claims": [
+    {
+      "text": "Dowden, Bradley, \"Time\", Internet Encyclopedia of Philosophy",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "Author Information Bradley Dowden",
+          "where": "cuối mục từ (tải 2026-11-20, curl, HTTP 200)"
+        }
+      ]
+    },
+    {
+      "text": "(về thuyết khối đang lớn và câu đố \"một giây mỗi giây\")",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "also called by other names such as the growing-block theory"
+        },
+        {
+          "url": "https://iep.utm.edu/time/",
+          "quote": "It would be a rate of one second per second."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn mới thêm khi áp bảng sửa 5.8 (cau-hoi/thoi-gian.md#nguon mục 7). Ghi và đóng băng vào 5.2 (Claude duyệt tạm)."
+}
