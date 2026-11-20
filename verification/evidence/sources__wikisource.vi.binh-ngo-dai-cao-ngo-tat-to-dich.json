@@ -1,0 +1,27 @@
+{
+  "unit": "sources/wikisource.vi.binh-ngo-dai-cao-ngo-tat-to-dich",
+  "hash": "sha256:9a56629a26aa41e34e3ee01e61e71df0d2889d3de2ca9292079cbb3feac559e0",
+  "checked_on": "2026-11-20",
+  "checker": "claude-sua-5.8",
+  "claims": [
+    {
+      "text": "Bình Ngô đại cáo, bản dịch của Ngô Tất Tố, Wikisource tiếng Việt; URL mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
+          "quote": "Bình Ngô đại cáo (Ngô Tất Tố dịch) – Wikisource tiếng Việt",
+          "where": "tiêu đề trang (tải 2026-11-20, curl)"
+        },
+        {
+          "url": "https://vi.wikisource.org/wiki/Bình_Ngô_đại_cáo_(Ngô_Tất_Tố_dịch)",
+          "quote": "Việc nhân nghĩa cốt ở yên dân, Quân điếu phạt trước lo trừ bạo.",
+          "where": "câu mở đầu, là câu mục Đọc văn bản gốc của nho-giao-viet trích"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "Nguồn mới thêm khi áp bảng sửa 5.8 (cau-hoi/nho-giao-viet.md#nguon mục 7, bản dịch mà mục Đọc văn bản gốc trích). Ghi và đóng băng vào 5.2 (Claude duyệt tạm)."
+}
