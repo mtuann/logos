@@ -27,6 +27,7 @@ docs/                     nội dung Markdown
 hooks/
   slugs.py                anchor tiếng Việt không dấu ("Đọc văn bản" → doc-van-ban)
   search_vi.py            bỏ box Tóm tắt 5 phút khỏi chỉ mục tìm kiếm (bỏ dấu: docs/assets/js/search-worker.js, đợt 4.5)
+  ngoac.py                ngoặc cong “ ” khi hiển thị (đợt 6.2, quyết định 39); nguồn Markdown giữ nguyên
   kb.py                   shortcode: [[count:…]] số đếm (content.yml, file dữ liệu), [[pp:…]] số liệu PhilPapers,
                           [[thoi-su:…]] khối thời sự data/thoi-su/; khóa sai thì build dừng
 tools/                    mọi tool sinh trang đều có --check (CI chạy hết)

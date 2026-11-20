@@ -9,6 +9,7 @@ sys.path[:0] = [str(ROOT / "hooks"), str(ROOT / "tools")]
 
 import gen_glossary  # noqa: E402
 import kb  # noqa: E402
+import ngoac  # noqa: E402
 import search_vi  # noqa: E402
 import slugs  # noqa: E402
 
@@ -213,3 +214,21 @@ class TestThoiSuShortcode(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestNgoac(unittest.TestCase):
+    """Đợt 6.2: ngoặc cong khi hiển thị, chỉ trong nút chữ, bỏ qua mã và script."""
+
+    def test_mo_dong(self):
+        self.assertEqual(ngoac.curl('<p>Anh nói "chào" rồi đi.</p>'), "<p>Anh nói “chào” rồi đi.</p>")
+        self.assertEqual(ngoac.curl('<p>("q") và "<em>Đạo</em>"</p>'), "<p>(“q”) và “<em>Đạo</em>”</p>")
+        self.assertEqual(ngoac.curl("<p>Từ &quot;tri thức&quot;.</p>"), "<p>Từ “tri thức”.</p>")
+
+    def test_bo_qua(self):
+        for html in ('<code>x="1"</code>', '<pre><code>"a"</code></pre>', '<script>var a = "x";</script>',
+                     '<a href="x" title="y">z</a>', '<svg><text>"t"</text></svg>'):
+            self.assertEqual(ngoac.curl(html), html)
+
+    def test_dau_khoi_la_mo(self):
+        self.assertEqual(ngoac.curl('<li>a"</li><li>"b"</li>'), "<li>a”</li><li>“b”</li>")
+

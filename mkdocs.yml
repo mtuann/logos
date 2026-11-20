@@ -54,6 +54,7 @@ hooks:
   - hooks/slugs.py
   - hooks/search_vi.py
   - hooks/kb.py           # shortcode [[count:…]] (KE-HOACH.md mục 4)
+  - hooks/ngoac.py        # ngoặc cong khi hiển thị (đợt 6.2, quyết định 39)
 
 markdown_extensions:
   - abbr
