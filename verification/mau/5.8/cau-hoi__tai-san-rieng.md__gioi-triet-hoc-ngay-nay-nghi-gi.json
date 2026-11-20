@@ -1,0 +1,149 @@
+{
+  "unit": "cau-hoi/tai-san-rieng.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:78789ee5af0518018221b222b94d10502bcd4f323481a074a7d85249692caac9",
+  "checked_on": "2026-11-20",
+  "checker": "agent-mau-5.8-m03",
+  "claims": [
+    {
+      "text": "câu chính 'Triết học chính trị' (hỏi tất cả người tham gia), trong đó 'chủ nghĩa tự do cá nhân' là họ tư tưởng của Nozick",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "a list of 40 main questions that would be asked of all participants"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/libertarianism/",
+          "quote": "Within the discipline of philosophy, libertarianism is most famously deontological (Rothbard 1978, 1982, Nozick 1974"
+        }
+      ]
+    },
+    {
+      "text": "câu bổ sung 'Chính trị – kinh tế' (được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "each of which would be asked to one-sixth of participants (selected randomly)"
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Participants were also given the option of answering some or all of the other 50 additional questions if they chose to"
+        }
+      ]
+    },
+    {
+      "text": "Bảng số liệu: Triết học chính trị (n ≈ 1.540): bình đẳng 44,0/38,3; cộng đồng luận 27,3/22,1; tự do cá nhân 13,4/10,3; Khác 20,5. Chính trị – kinh tế (n ≈ 1.090): xã hội 53,0/48,6; tư bản 29,5/26,1; Khác 19,3.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/triet-hoc-chinh-tri",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Political philosophy Communitarianism 419 27.3 339 22.1 Egalitarianism 677 44.0 588 38.3 Libertarianism 206 13.4 158 10.3 Other 315 20.5",
+          "where": "Bảng 1; n = 206/0,134 ≈ 1.540"
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "Politics Capitalism 323 29.5 286 26.1 Socialism 580 53.0 532 48.6 Other 211 19.3",
+          "where": "Bảng 2; n = 323/0,295 ≈ 1.090; khớp kho philpapers/chinh-tri-kinh-te"
+        }
+      ]
+    },
+    {
+      "text": "Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), Philosophers' Imprint 23, câu chính 'Political philosophy' và câu bổ sung 'Politics'.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.3998/phimp.2109",
+          "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey",
+          "where": "Crossref: Philosophers' Imprint, volume 23, 2023, Bourget, Chalmers"
+        }
+      ]
+    },
+    {
+      "text": "người trả lời được chọn nhiều đáp án nên tổng có thể vượt 100%, cột cuối chỉ tính người chọn duy nhất đáp án đó",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "philpapers/chinh-tri-kinh-te"
+    },
+    {
+      "text": "Con số 13,4% cho thấy lập trường quyền sở hữu mạnh kiểu Nozick là thiểu số trong mẫu, nhưng mẫu chỉ gồm khoảng 1.090–1.540 triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, khảo sát cuối năm 2020",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "The PhilPapers Survey was conducted online from October 15, 2020 to November 16, 2020."
+        },
+        {
+          "url": "https://web.archive.org/web/20261005061401/https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "with strongest coverage on English-speaking and English-publishing philosophers"
+        }
+      ]
+    },
+    {
+      "text": "Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc của các khóa học triết học chính trị, và các lời phê phán (từ Proudhon đến các nhà bình đẳng may mắn ngày nay) chưa bao giờ ngừng.",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ngoài con số, lý thuyết của Locke và Nozick vẫn là điểm xuất phát quen thuộc khi bàn về sở hữu, và các lời phê phán (từ Proudhon đến các nhà bình đẳng ngày nay) chưa bao giờ ngừng.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Locke’s theory is widely regarded as the most interesting of the canonical discussions of property."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "Cohen concludes that various egalitarian arrangements (like welfare paid for out of taxation) are incompatible with the self-ownership of the rich",
+          "where": "nguồn nói về các nhà bình đẳng nói chung; không có nguồn cho 'các khóa học' hay riêng 'bình đẳng may mắn' là phe phê phán sở hữu"
+        }
+      ]
+    },
+    {
+      "text": "Ngay trong luật học, định nghĩa sở hữu tư nhân hiếm khi trao cho chủ sở hữu quyền kiểm soát tuyệt đối",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "It is probably a mistake therefore to insist on any definition of private property that implies a proprietor has absolute control over his resource."
+        }
+      ]
+    },
+    {
+      "text": "cả những người bênh vực sở hữu mạnh nhất như Nozick cũng chấp nhận một giới hạn kiểu Locke",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nozick-political/",
+          "quote": "Although Nozick’s discussion of his Lockean proviso is somewhat murky"
+        }
+      ]
+    },
+    {
+      "text": "câu hỏi đã dịch chuyển từ 'có nên có sở hữu tư nhân không' sang 'sở hữu những gì và trong giới hạn nào'",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/property/",
+          "quote": "the position of a private owner is best understood not as a single right to the exclusive use and control of the object in question, but as a bundle of rights, which may vary from case to case (Honoré 1961)"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Số liệu đúng câu, đúng loại câu (chính/bổ sung), đúng 'chấp nhận hoặc nghiêng về'; nhận định đi kèm không vượt số liệu và có ghi giới hạn mẫu. Một lỗi nhẹ: khái quát 'các khóa học' và 'bình đẳng may mắn' không có nguồn."
+}

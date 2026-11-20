@@ -1,0 +1,100 @@
+{
+  "unit": "cau-hoi/tinh-yeu.md#gioi-triet-hoc-ngay-nay-nghi-gi",
+  "hash": "sha256:2ef72a9388bec799167742166e62fce6405172fbc9e1be6c8f5df767b27e4e17",
+  "checked_on": "2026-11-20",
+  "checker": "agent-mau-5.8-m04",
+  "claims": [
+    {
+      "text": "Khảo sát PhilPapers 2020 không có câu hỏi nào về tình yêu hay triết học tình yêu, nên mục này ghi đúng như vậy: chưa có số liệu khảo sát cho các lập trường trong bài.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Main Questions A priori knowledge Abstract objects Aesthetic value Aim of philosophy",
+          "where": "danh sách đủ 40 câu chính và 60 câu bổ sung ở thanh điều hướng (bản Wayback; trang gốc chặn bằng kiểm tra JavaScript); không câu nào về tình yêu"
+        }
+      ]
+    },
+    {
+      "text": "Chỉ là trong [[pp:khao-sat/so-cau]] câu hỏi của đợt khảo sát 2020 (= 100)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/2026/https://survey2020.philpeople.org/survey/results/all",
+          "quote": "Additional Questions Abortion Aesthetic experience Analysis of knowledge",
+          "where": "đếm danh sách: 40 câu chính + 60 câu bổ sung = 100; khớp data/kb/philpapers-2020.json (so-cau: 100) và tools/philpapers-2020.md"
+        }
+      ]
+    },
+    {
+      "text": "từ Platon đến nay, tình yêu là một trong những chủ đề lâu đời nhất của triết học",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "Even within personal love, philosophers from the ancient Greeks on have traditionally distinguished three notions that can properly be called “love”",
+          "where": "mục 1"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "Such an understanding of eros is encouraged by Plato’s discussion in the Symposium"
+        }
+      ]
+    },
+    {
+      "text": "cả ba hướng trên vẫn được bàn trong văn liệu đương đại và còn đang tranh luận",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "Thus Velleman (1999) argues that robust concern views, by understanding love merely as a matter of aiming at a particular end (viz., the welfare of one’s beloved), understand love to be merely conative.",
+          "where": "mục Love as Robust Concern"
+        }
+      ]
+    },
+    {
+      "text": "Hướng của Frankfurt — tình yêu như sự quan tâm không vụ lợi gắn với ý chí",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "I am the one who has this concern for you, though it is nonetheless disinterested and so not egoistic insofar as it is for your sake rather than for my own."
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/love/",
+          "quote": "At the heart of the robust concern view is the idea that love “is neither affective nor cognitive. It is volitional” (Frankfurt 1999, p. 129; see also Martin 2015)."
+        }
+      ]
+    },
+    {
+      "text": "còn nối tình yêu với một câu hỏi lớn khác của triết học: [ta có tự do không](tu-do-y-chi.md), khi ngay cả việc ta yêu ai cũng không hoàn toàn do ta quyết định?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/freewill/",
+          "quote": "Proposed attitudes to which agents are said to stand in the identification relation include higher-order desires (Frankfurt 1971), cares or loves (Frankfurt 1993, 1994;"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/tu-do-y-chi/",
+          "quote": "Ta có thật sự tự do lựa chọn?",
+          "where": "tiêu đề trang đích; nhãn link khớp chủ đề"
+        }
+      ]
+    }
+  ],
+  "checklist": {
+    "dung-nguon": true,
+    "manh-nhat": null,
+    "phan-bac": null,
+    "trung-lap": true,
+    "thuat-ngu": true
+  },
+  "result": "dat",
+  "notes": "Trang survey2020.philpeople.org trả về trang kiểm tra JavaScript ('Just a moment...') nên dùng bản Wayback. Ý 'việc ta yêu ai không hoàn toàn do ta quyết định' là câu hỏi dẫn nối, dựa trên luận điểm 'tất yếu của ý chí' của Frankfurt được trình bày ở mục Các lập trường chính (không thuộc đơn vị này); không tìm được bản mở của The Reasons of Love (Internet Archive 401, Princeton UP chặn) để đối chiếu chữ, nhưng SEP xác nhận Frankfurt gắn tình yêu với ý chí và với vấn đề tự do."
+}
