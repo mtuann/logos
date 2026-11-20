@@ -2,14 +2,14 @@
 
 Sinh bằng `python tools/lint_terms.py --write`. Phạm vi: Lõi viết tay. Luật: `data/style/terms-policy.yml` (từ `HUONG-DAN-VIET.md` mục 3). Đây là báo cáo nền của đợt 1: chỉ ghi lại, sửa ở đợt 5.
 
-**6 chỗ** ở **3 trang/file**. Chế độ cảnh báo: chưa chặn CI.
+**11 chỗ** ở **5 trang/file**. Chế độ cảnh báo: chưa chặn CI.
 
 | Luật | Nghĩa | Số chỗ |
 |---|---|---:|
 | `thuat-ngu` | dùng cách dịch khác thay cho thuật ngữ bắt buộc | 0 |
-| `thuat-ngu-mo-ho` | cách dịch khác trùng một từ thường hay thuật ngữ khác: người đọc xem lại, thường là đúng | 6 |
+| `thuat-ngu-mo-ho` | cách dịch khác trùng một từ thường hay thuật ngữ khác: người đọc xem lại, thường là đúng | 10 |
 | `ten-rieng` | tên riêng không theo cách phiên quy định (ví dụ Plato → Platon) | 0 |
-| `mien-lech` | số chỗ của một mục miễn đã đổi: xem lại các chỗ, rồi sửa `count` hoặc sửa chữ | 0 |
+| `mien-lech` | số chỗ của một mục miễn đã đổi: xem lại các chỗ, rồi sửa `count` hoặc sửa chữ | 1 |
 | `mien-thua` | mục miễn không còn khớp chỗ nào (xóa mục) | 0 |
 
 ## Chi tiết
@@ -22,3 +22,8 @@ Sinh bằng `python tools/lint_terms.py --write`. Phạm vi: Lõi viết tay. Lu
 | `cau-hoi/van-de-su-du.md:65` | `cau-hoi/van-de-su-du.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | mệnh đề | dùng "khẳng định" (claim / assertion); cũng là thuật ngữ đúng cho proposition (logic mệnh đề) |
 | `cau-hoi/van-de-su-du.md:65` | `cau-hoi/van-de-su-du.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | mệnh đề | dùng "khẳng định" (claim / assertion); cũng là thuật ngữ đúng cho proposition (logic mệnh đề) |
 | `cau-hoi/van-de-su-du.md:69` | `cau-hoi/van-de-su-du.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | mệnh đề | dùng "khẳng định" (claim / assertion); cũng là thuật ngữ đúng cho proposition (logic mệnh đề) |
+| `cau-hoi/viet-hien-dai.md:15` | `cau-hoi/viet-hien-dai.md#_dau` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
+| `cau-hoi/viet-hien-dai.md:69` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
+| `cau-hoi/viet-hien-dai.md:79` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
+| `cau-hoi/viet-hien-dai.md:87` | `cau-hoi/viet-hien-dai.md#cac-lap-truong-chinh` | `thuat-ngu-mo-ho` | tinh thần | dùng "tâm trí" (mind); cũng là từ thường (tinh thần, tâm lý; spirit) |
+| `data/style/terms-allow.yml` | — | `mien-lech` | cau-hoi/viet-hien-dai.md: tinh thần — 4 chỗ, miễn ghi 6 | xem lại các chỗ của từ này trong trang |
