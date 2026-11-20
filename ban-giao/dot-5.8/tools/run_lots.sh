@@ -8,5 +8,5 @@ for N in $(seq $1 $2); do
   echo "$msg"
   uv run python $S/prune_allow.py; uv run python tools/verify.py --ghi-so 5.8 >/dev/null
   for t in kb_sources kb_works kb_events kb_quotes; do uv run python tools/$t.py >/dev/null; done
-  zsh /Users/mitu/Desktop/work/projects/logos/ban-giao/dot-5.8/tools/fin.sh "Đợt 5: 5.8 sửa theo bằng chứng lượt 1 — $msg" > ${TMPDIR:-/tmp}/logos-5.8-last.out ; grep -E "ĐỎ|merged|FAIL" ${TMPDIR:-/tmp}/logos-5.8-last.out; grep -q "^merged" ${TMPDIR:-/tmp}/logos-5.8-last.out || exit 1
+  zsh /Users/mitu/Desktop/work/projects/logos/ban-giao/dot-5.8/tools/fin.sh "Đợt 5: 5.8 sửa theo bằng chứng ${VONG:-lượt 1} — $msg" > ${TMPDIR:-/tmp}/logos-5.8-last.out ; grep -E "ĐỎ|merged|FAIL" ${TMPDIR:-/tmp}/logos-5.8-last.out; grep -q "^merged" ${TMPDIR:-/tmp}/logos-5.8-last.out || exit 1
 done

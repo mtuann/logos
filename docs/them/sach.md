@@ -11130,7 +11130,7 @@ Thí nghiệm trên chứa ba câu hỏi khác nhau.
 
 ## Các lập trường chính
 
-### 1. Kierkegaard: đức tin là bước nhảy vượt lên trên lý trí
+### 1. Kierkegaard: đức tin vượt khỏi tầm của lý trí
 
 Søren Kierkegaard (1813–1855), trong *Kính sợ và run rẩy* (*Frygt og Bæven*, 1843, ký tên Johannes de Silentio), kể lại câu chuyện Abraham được ra lệnh hiến tế con trai Isaac. Về mặt đạo đức, giết con là sai. Về mặt lý trí, không có lý do nào biện minh được. Vậy mà Abraham vẫn bước lên núi — không phải vì ông có bằng chứng rằng mọi chuyện sẽ ổn, mà vì ông tin cậy và hy vọng rằng mình sẽ "nhận lại" Isaac — một lòng tin mà với người đứng ngoài như Johannes thì trông "phi lý" (*absurd*): ông không thể giải thích việc mình làm bằng lý lẽ đạo đức chung mà ai cũng hiểu. Sách đặt câu hỏi liệu ở Abraham có một sự "đình chỉ đạo đức vì một mục đích cao hơn" (*teleological suspension of the ethical*) hay không. Johannes tự nhận mình đứng ngoài đức tin và không hiểu nổi Abraham, nên không thể coi mọi lời của Johannes là quan điểm của chính Kierkegaard.
 
@@ -11138,7 +11138,7 @@ Với Kierkegaard, đức tin không phải là một bài toán để giải m�
 
 **Lập luận mạnh nhất.** Lập trường này trung thực về đời sống thực: những điều quan trọng nhất — tình yêu, ý nghĩa, niềm tin vào con người — không bao giờ có "đủ bằng chứng" trước khi ta dấn thân. Nếu đòi bằng chứng cho mọi thứ, ta sẽ không bao giờ dám yêu ai (làm sao chứng minh người ấy sẽ không phản bội?), không bao giờ dám bắt đầu điều gì lớn lao. Đức tin, hiểu như vậy, không phải là kẻ thù của lý trí mà là người tiếp bước khi lý trí đã đi hết đường.
 
-**Phản bác chính.** "Bước nhảy" không phân biệt được đức tin với cuồng tín: kẻ đánh bom liều chết cũng "nhảy" vượt lên trên lý trí và đạo đức. Nếu đức tin đứng trên mọi tiêu chuẩn, thì ta mất hết công cụ để nói Abraham đúng còn kẻ cuồng tín sai. Hơn nữa, nhiều học giả tranh cãi rằng Kierkegaard không hề chủ trương "tin mù quáng" — "bước nhảy" của ông đi kèm với dằn vặt, sợ hãi và run rẩy (đúng như tên sách), chứ không phải sự chắc chắn thoải mái của kẻ cuồng tín.
+**Phản bác chính.** Một sự dấn thân không dựa trên bảo đảm lý tính nào thì không phân biệt được đức tin với cuồng tín: kẻ đánh bom liều chết cũng dấn thân vượt lên trên lý trí và đạo đức. Nếu đức tin đứng trên mọi tiêu chuẩn, thì ta mất hết công cụ để nói Abraham đúng còn kẻ cuồng tín sai. Hơn nữa, nhiều học giả tranh cãi rằng Kierkegaard không hề chủ trương "tin mù quáng": với ông, đức tin và lý trí không loại trừ nhau.
 
 **Cách đáp lại.** Người bênh vực Kierkegaard đáp rằng đức tin chỉ trông "phi lý" khi nhìn từ bên ngoài, và Kierkegaard không coi đức tin là trái lý trí: theo ông, người tin không thể tin điều vô nghĩa ngược với hiểu biết, vì chính hiểu biết sẽ nhận ra đó là vô nghĩa và ngăn lại. Đức tin vượt khỏi tầm của lý trí triết học, nhưng không phải giấy phép cho sự ngu dốt. Và Kierkegaard không bảo ta vứt bỏ lý trí trong mọi chuyện: ông chỉ nói ở *biên giới* của lý trí, nơi bằng chứng đã cạn mà cuộc đời vẫn đòi ta phải chọn, thì "không chọn" cũng là một cách chọn — và chọn với lòng can đảm trung thực hơn là giả vờ mình đang "chờ thêm bằng chứng".
 
@@ -11205,7 +11205,7 @@ Con số [[pp:thuong-de.huu-than]]% vs [[pp:thuong-de.vo-than]]% vẫn đáng su
 
 **Tin đồn sức khỏe và cái giá của niềm tin vô căn cứ.** Tin rằng vắc-xin gây hại, rằng một loại "thuốc nam thần kỳ" chữa được ung thư — những niềm tin này không chỉ hại người tin. Chúng lây lan, chúng khiến người khác từ chối điều trị, và chúng làm ô nhiễm đúng cái "tài sản tri thức chung" mà Clifford nói đến. Đây là nơi lập trường của Clifford mạnh nhất: khi niềm tin của bạn có thể giết người khác, thì "tôi có quyền tin" không còn là câu trả lời đủ.
 
-**Bước nhảy trong sự nghiệp.** Bỏ việc ổn định để khởi nghiệp, chuyển nghề ở tuổi bốn mươi, theo đuổi một hướng nghiên cứu chưa ai làm — không quyết định lớn nào trong đời có "đủ bằng chứng" trước khi thực hiện. James sẽ nói đây chính là trường hợp của "quyền được tin": lựa chọn sống còn, bắt buộc, lý trí không quyết định được. Nhưng Clifford cũng có lý khi nhắc: hãy phân biệt *tin* với *đặt cược có tính toán* — bạn có thể dấn thân mà vẫn giữ một con mắt tỉnh táo nhìn vào bằng chứng đang dần hiện ra.
+**Dấn thân trong sự nghiệp.** Bỏ việc ổn định để khởi nghiệp, chuyển nghề ở tuổi bốn mươi, theo đuổi một hướng nghiên cứu chưa ai làm — không quyết định lớn nào trong đời có "đủ bằng chứng" trước khi thực hiện. James sẽ nói đây chính là trường hợp của "quyền được tin": lựa chọn sống còn, bắt buộc, lý trí không quyết định được. Nhưng Clifford cũng có lý khi nhắc: hãy phân biệt *tin* với *đặt cược có tính toán* — bạn có thể dấn thân mà vẫn giữ một con mắt tỉnh táo nhìn vào bằng chứng đang dần hiện ra.
 
 **"Cứ tin đi cho đời nhẹ nhàng" — Pascal trong đời thường.** Nhiều người chọn tin vào những điều làm cuộc sống dễ chịu hơn: tin rằng người thân đã mất vẫn đang dõi theo mình, tin rằng vũ trụ có một trật tự tốt đẹp. Đó là canh bạc Pascal phiên bản đời thường: tin vì *có ích*, không phải vì *có bằng chứng*. Câu hỏi của Pascal áp dụng nguyên vẹn: nếu niềm tin đó giúp bạn sống tốt hơn và không hại ai, thì việc nó "không có bằng chứng" có còn quan trọng không? Và ngược lại: đến mức nào thì "tin cho nhẹ lòng" trở thành tự lừa dối?
 
