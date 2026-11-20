@@ -13810,11 +13810,11 @@ Khái niệm trung tâm của ông là **hướng-tới-cái-chết** (*being-to
 
 Heidegger cho rằng chỉ khi *đối mặt* với cái chết của chính mình — thật sự hiểu rằng thời gian của mình là hữu hạn — ta mới có thể sống một cách **chân thực** (*authentic*): tự hỏi điều gì *thật sự* quan trọng với mình, thay vì sống theo kịch bản của người khác. Cái chết, trong nghĩa này, không phải là kẻ thù mà là người thầy: nó cho cuộc sống một *ranh giới*, và chính ranh giới ấy làm cho mọi lựa chọn có trọng lượng.
 
-**Lập luận mạnh nhất.** Quan điểm này giải thích được một hiện tượng có thật: nhiều người sau khi đối mặt với bệnh hiểm nghèo (của mình hay người thân) đã thay đổi cách sống — bỏ những thứ phù phiếm, dành thời gian cho điều quan trọng. Cái chết, khi được nhìn thẳng, có tác dụng *làm rõ*: nó hỏi ta "nếu chỉ còn một năm, bạn sẽ sống thế nào?" — và câu trả lời cho thấy điều gì thật sự có ý nghĩa với ta.
+**Lập luận mạnh nhất.** Quan điểm này hợp với một trải nghiệm nhiều người kể lại: sau khi đối mặt với bệnh hiểm nghèo (của mình hay người thân), họ thay đổi cách sống — bỏ những thứ phù phiếm, dành thời gian cho điều quan trọng. Cái chết, khi được nhìn thẳng, có tác dụng *làm rõ*: nó hỏi ta "nếu chỉ còn một năm, bạn sẽ sống thế nào?" — và câu trả lời cho thấy điều gì thật sự có ý nghĩa với ta.
 
 **Phản bác chính.** Có nhất thiết phải nghĩ về cái chết mới sống chân thực được không? Nhiều người sống sâu sắc mà chẳng bao giờ triết lý về cái chết — họ chỉ đơn giản yêu thương, làm việc, tận hưởng. Ngoài ra, việc "đối mặt với cái chết" có thể dẫn đến tê liệt chứ không phải chân thực: có người càng nghĩ về cái chết càng lo âu, càng không sống nổi. Heidegger mô tả một khả năng, không phải một quy luật.
 
-**Cách đáp lại.** Người bênh vực Heidegger sẽ nói: ông không khuyên ta *ám ảnh* về cái chết, mà khuyên ta đừng *trốn* nó. Sự khác nhau tinh tế nhưng quan trọng: ám ảnh về cái chết làm ta tê liệt; chấp nhận nó làm ta tự do. Và ông không phủ nhận rằng có những con đường khác đến sự chân thực — ông chỉ cho rằng cái chết là con đường *chắc chắn nhất*, vì nó là điều duy nhất không ai tránh được.
+**Cách đáp lại.** Người bênh vực Heidegger sẽ nói: ông không khuyên ta *ám ảnh* về cái chết, mà khuyên ta đừng *trốn* nó. Sự khác nhau tinh tế nhưng quan trọng: ám ảnh về cái chết làm ta tê liệt; chấp nhận nó làm ta tự do. Và với Heidegger, "đối mặt" ở đây không phải là suy tưởng về cái chết, mà là sống chủ động với sự hữu hạn của mình: nhận lấy và theo đuổi những khả năng của chính mình như những khả năng có hạn, thay vì để chúng do đám đông định sẵn.
 
 Cần nói rõ: đây là một lập trường triết học về *thái độ sống*, không phải lời khuyên tâm lý. Nếu suy nghĩ về cái chết khiến bạn lo âu nặng nề, hãy tìm đến chuyên gia — triết học không thay thế được sự giúp đỡ chuyên môn.
 
@@ -13837,9 +13837,9 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Câu hỏi không hỏi gì.** Câu trả lời "không" có thể đến từ nhiều lý do, không nhất thiết từ Epicurus — chẳng hạn lập luận nổi tiếng của Bernard Williams (1973) rằng một đời sống bất tận rốt cuộc sẽ trở nên nhàm chán không chịu nổi. Câu hỏi cũng chỉ gồm mấy chữ ("bất tử — bạn có chọn không?"), không mô tả bất tử trong điều kiện nào (khỏe mạnh hay già yếu, có thể dừng lại hay không), nên mỗi người có thể hình dung một kiểu bất tử khác.
 - **Mẫu khảo sát** là khoảng [[pp:bat-tu-ban-co-chon-khong/n]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời vào cuối năm 2020; nó không đại diện cho mọi truyền thống — kể cả những truyền thống tôn giáo có câu trả lời riêng về sự sống sau cái chết.
 
-Ngoài con số, có thể nói: tranh luận Epicurus – Nagel vẫn là trục chính của triết học về cái chết đương đại: hầu hết các bài viết sau này hoặc bênh vực lập luận tước đoạt, hoặc tìm cách cứu lập luận của Epicurus khỏi nó.
+Ngoài con số, có thể nói: tranh luận Epicurus – Nagel vẫn là một trục chính của triết học về cái chết đương đại: nhiều bài viết sau này hoặc bênh vực lập luận tước đoạt, hoặc tìm cách cứu lập luận của Epicurus khỏi nó.
 
-Một điểm đáng chú ý: cả hai phe đều đồng ý rằng *nỗi sợ chết* là một hiện tượng đáng được xem xét nghiêm túc — tranh luận chỉ là về việc nỗi sợ ấy có *hợp lý* không, và hợp lý ở điểm nào. Không phe nào cho rằng người sợ chết là "ngu ngốc".
+Một điểm đáng chú ý: cả hai phe đều đồng ý rằng *nỗi sợ chết* là một hiện tượng đáng được xem xét nghiêm túc — tranh luận chỉ là về việc nỗi sợ ấy có *hợp lý* không, và hợp lý ở điểm nào. Dù vậy, ngay trong *Thư gửi Menoeceus*, Epicurus gọi người sợ cái chết sắp đến — dù cái chết khi có mặt chẳng làm họ đau — là người "khờ dại"; lời ông nhắm vào nỗi sợ, và mục đích của ông là giải thoát người sợ chứ không phải chế giễu họ.
 
 ## Liên hệ đời sống
 
@@ -13851,7 +13851,7 @@ Một điểm đáng chú ý: cả hai phe đều đồng ý rằng *nỗi sợ 
 
 **Viết di chúc, dặn dò người thân.** Ở Việt Nam, nhiều người ngại viết di chúc vì sợ "trù ẻo". Nhưng nếu cái chết là điều chắc chắn sẽ đến (chỉ không biết khi nào), thì chuẩn bị cho nó — dặn dò, sắp xếp, nói lời cần nói — không phải là bi quan mà là trách nhiệm. Đó cũng là cách biến lập luận tước đoạt thành hành động: giảm bớt những điều tốt đẹp bị "tước đi" một cách đột ngột khỏi những người ở lại.
 
-**Đám tang và cách ta "giữ" người đã mất.** Người Việt có tục giỗ chạp, thờ cúng tổ tiên — một cách để người đã khuất "vẫn còn" trong đời sống gia đình. Triết học có thể soi sáng tục lệ này: với Epicurus, người chết không còn cảm giác nên giỗ chạp là việc của người sống (tưởng nhớ, gắn kết); với Nagel, giỗ chạp là cách ta bù đắp phần nào cho sự tước đoạt — những điều tốt đẹp của người ấy được *tiếp tục* qua ký ức và việc làm của con cháu. Dù đứng về phe nào, tục lệ này cho thấy con người không chấp nhận để cái chết là một dấu chấm hết tuyệt đối.
+**Đám tang và cách ta "giữ" người đã mất.** Người Việt có tục giỗ chạp, thờ cúng tổ tiên — một cách để người đã khuất "vẫn còn" trong đời sống gia đình. Triết học có thể soi sáng tục lệ này: với Epicurus, người chết không còn cảm giác nên giỗ chạp là việc của người sống (tưởng nhớ, gắn kết); còn nếu nghĩ theo lập luận tước đoạt, giỗ chạp không bù được cho người đã khuất những gì họ bị tước, nhưng giữ cho những điều tốt đẹp của người ấy được *tiếp tục* qua ký ức và việc làm của con cháu. Dù đứng về phe nào, tục lệ này cho thấy con người không chấp nhận để cái chết là một dấu chấm hết tuyệt đối.
 
 ## Đọc văn bản gốc
 
