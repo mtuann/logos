@@ -187,3 +187,4 @@ Mục SEP "Buddha": các khái niệm Phật giáo chung (con đường tu tập
 3. Trần Đình Hượu (1996), *Đến hiện đại từ truyền thống*, Hà Nội: NXB Văn hóa.
 4. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
 5. Brunnhölzl, Karl (2015), *When the Clouds Part*, Snow Lion, trích trên trang Buddha-Nature của Tsadra Foundation. <https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81parinirv%C4%81%E1%B9%87as%C5%ABtra>
+6. Đạo Nguyên (biên soạn), *Cảnh Đức truyền đăng lục* (1004), quyển 6 (thiền sư Đại Châu Tuệ Hải), bản Tứ bộ tùng san, Wikisource tiếng Trung. <https://zh.wikisource.org/wiki/%E6%99%AF%E5%BE%B7%E5%82%B3%E7%87%88%E9%8C%84_(%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC)/%E5%8D%B7%E7%AC%AC%E5%85%AD>
