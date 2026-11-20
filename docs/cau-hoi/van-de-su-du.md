@@ -170,7 +170,7 @@ Gợi ý độ dài: 150–300 chữ.
     - Bạn có phân biệt được câu hỏi triết học ("bộ ba có mâu thuẫn không") với trải nghiệm cá nhân không?
     - Bạn có dùng đúng ít nhất một khái niệm trong bài, diễn đạt bằng lời của mình không?
     - Bạn có giữ thái độ trung thực: không vội đóng câu hỏi lại bằng một câu trả lời gượng ép không?
-    - Bạn có tránh dùng biện hộ triết học như lời an ủi cho người khác không?
+    - Bạn có tránh dùng lời giải thích triết học về sự dữ như lời an ủi cho người khác không?
     - Bài viết có câu ngắn, cụ thể, tránh khẳng định không có lý do không?
 
 ## Nguồn {#nguon}
