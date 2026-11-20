@@ -38,18 +38,18 @@ Hãy dừng lại một phút, tự trả lời trước khi đọc tiếp.
 
 Trong Phật giáo truyền thống, có một hình ảnh quen thuộc: người tu hành *xuất thế* — rời bỏ gia đình, của cải, địa vị, vào chùa hoặc rừng sâu để chuyên tâm tu tập **[chắc chắn]** (đây là mô hình tu hành nguyên thủy của đạo Phật). Lý do: cuộc đời đầy dính mắc, mà dính mắc là nguồn gốc của khổ đau.
 
-Trần Nhân Tông đặt ra một câu hỏi ngược lại: nếu **Phật tính** (*Buddha-nature*, khả năng giác ngộ có sẵn trong tâm mỗi người) thì vì sao phải đi đâu để tìm? Ông viết bốn câu kệ nổi tiếng, mà đến nay nhiều người Việt vẫn thuộc hai câu đầu, theo một bản dịch thơ quen thuộc (lưu truyền với vài dị bản, chưa rõ người dịch) **[suy đoán]** (nhận xét của người viết, chưa có khảo sát):
+Trần Nhân Tông đặt ra một câu hỏi ngược lại: nếu **Phật tính** (*Buddha-nature*, khả năng giác ngộ) có sẵn trong tâm mỗi người thì vì sao phải đi đâu để tìm? Ông viết bốn câu kệ nổi tiếng, mà đến nay nhiều người Việt vẫn thuộc hai câu đầu, theo một bản dịch thơ quen thuộc (lưu truyền với vài dị bản, chưa rõ người dịch) **[suy đoán]** (nhận xét của người viết, chưa có khảo sát):
 
 > Ở đời vui đạo hãy tùy duyên,
 > Đói đến thì ăn, mệt ngủ liền.
 
 Bốn câu đầy đủ (Hán văn: *Cư trần lạc đạo thả tùy duyên / Cơ tắc xan hề khốn tắc miên / Gia trung hữu bảo hưu tầm mịch / Đối cảnh vô tâm mạc vấn thiền*) kết thúc bài phú "Cư trần lạc đạo" của ông **[chắc chắn]** (văn bản còn trong *Thơ văn Lý–Trần*, Viện Văn học).
 
-Hai chữ khó nhất trong bài kệ là "vô tâm". "Vô tâm" không phải là vô cảm, lạnh lùng, không quan tâm **[có cơ sở]** (đây là cách hiểu thống nhất trong các chú giải Phật giáo). "Vô tâm" nghĩa là tâm không *dính mắc*: thấy cảnh mà không bị cảnh lôi kéo, gặp việc mà không bị việc trói buộc. Người "vô tâm" vẫn thương người, vẫn lo việc nước — nhưng thương mà không chiếm hữu, lo mà không khổ não vì lo **[suy đoán]** (diễn giải triết học từ ngữ; các thiền sư có thể diễn đạt khác nhau).
+Hai chữ khó nhất trong bài kệ là "vô tâm". "Vô tâm" không phải là vô cảm, lạnh lùng, không quan tâm **[có cơ sở]** (đây là cách hiểu phổ biến trong truyền thống Thiền). "Vô tâm" nghĩa là tâm không *dính mắc*: thấy cảnh mà không bị cảnh lôi kéo, gặp việc mà không bị việc trói buộc. Người "vô tâm" vẫn thương người, vẫn lo việc nước — nhưng thương mà không chiếm hữu, lo mà không khổ não vì lo **[suy đoán]** (diễn giải triết học từ ngữ; các thiền sư có thể diễn đạt khác nhau).
 
 "Cư trần lạc đạo" nghĩa đen là: sống giữa bụi trần mà vui với đạo **[chắc chắn]**. Câu hỏi triết học của bài này: **tu hành và đời sống là hai con đường ngược nhau, hay là một?**
 
-Để hiểu vì sao câu hỏi này đặc biệt gắn với thời Trần, cần nhớ bối cảnh. Thế kỷ 13, Đại Việt ba lần đối mặt với quân Nguyên-Mông (1258, 1285 và 1287–1288) — đội quân từng chinh phục từ Trung Hoa đến tận Đông Âu **[chắc chắn]**. Trần Nhân Tông, sinh đúng năm cuộc xâm lược đầu tiên, là người lãnh đạo tối cao của hai cuộc kháng chiến sau **[chắc chắn]**, cùng với Thượng hoàng Trần Thánh Tông và Hưng Đạo Vương Trần Quốc Tuấn. Ông không phải là một vị vua tu hành trong thời bình; ông là một vị vua *vừa đánh giặc vừa tu*.
+Để hiểu vì sao câu hỏi này đặc biệt gắn với thời Trần, cần nhớ bối cảnh. Thế kỷ 13, Đại Việt ba lần đối mặt với quân Nguyên-Mông (1258, 1285 và 1287–1288) — đội quân từng chinh phục từ Trung Hoa đến tận Đông Âu **[chắc chắn]**. Trần Nhân Tông, sinh đúng năm cuộc xâm lược đầu tiên, là vị vua đang trị vì và cùng lãnh đạo hai cuộc kháng chiến sau **[chắc chắn]**, với Thượng hoàng Trần Thánh Tông và Hưng Đạo Vương Trần Quốc Tuấn. Ông không phải là một vị vua tu hành trong thời bình; ông là một vị vua *vừa đánh giặc vừa tu*.
 
 Chính bối cảnh ấy làm cho "nhập thế" của Trúc Lâm không phải là một khẩu hiệu trừu tượng. Khi đất nước lâm nguy, "rời bỏ đời sống" không phải là một lựa chọn có thật đối với người đứng đầu đất nước. Câu hỏi của Trần Nhân Tông — tu ngay giữa bụi trần có được không? — trước hết là câu hỏi của một con người cụ thể trong một hoàn cảnh cụ thể, rồi mới thành một tư tưởng **[suy đoán]** (diễn giải về động cơ; văn bản không nói trực tiếp vì sao ông chọn nhập thế).
 
@@ -59,7 +59,7 @@ Sau ông, thiền phái được hai vị tổ tiếp theo là Pháp Loa (1284�
 
 ### 1. Xuất thế: muốn tu thì phải rời bỏ
 
-Đây là quan điểm truyền thống của Phật giáo từ thời Đức Phật **[chắc chắn]** (giới luật nguyên thủy yêu cầu ly gia). Lập luận: cuộc đời (*trần*) đầy những thứ trói buộc — danh, lợi, tình. Chừng nào còn đắm mình trong đó, tâm không thể tĩnh lặng. Muốn thấy được bản tính của mình, phải rút lui khỏi những xao động. Một người vừa lo triều chính vừa lo chiến tranh thì lấy đâu ra tâm thanh tịnh để tu?
+Đây là mô hình tu hành của người xuất gia trong Phật giáo từ thời Đức Phật **[chắc chắn]** (giới luật nguyên thủy yêu cầu tỳ-kheo ly gia); còn cho rằng *chỉ* người xuất gia mới tu được là một cách hiểu cực đoan hơn **[có cơ sở]**, vì Đức Phật cũng có những bài dạy dành cho người tại gia. Lập luận: cuộc đời (*trần*) đầy những thứ trói buộc — danh, lợi, tình. Chừng nào còn đắm mình trong đó, tâm không thể tĩnh lặng. Muốn thấy được bản tính của mình, phải rút lui khỏi những xao động. Một người vừa lo triều chính vừa lo chiến tranh thì lấy đâu ra tâm thanh tịnh để tu?
 
 Chính Đức Phật là tấm gương của mô hình này: ngài rời bỏ cung điện, vợ con, địa vị để đi tìm đạo **[chắc chắn]** (theo kinh điển Phật giáo). Suốt hơn hai nghìn năm, hàng triệu tăng sĩ đã đi theo con đường ấy. Một truyền thống bền vững như vậy không thể bị gạt đi bằng một bài kệ bốn câu.
 
@@ -95,9 +95,15 @@ Một cách nói khác: xuất thế và nhập thế có thể không phải l�
 
 Một câu hỏi khác, thuộc về lịch sử tư tưởng: thiền phái Trúc Lâm là sáng tạo độc lập của người Việt, hay chỉ là một nhánh của Thiền tông Trung Hoa?
 
-Một phía lập luận: Trúc Lâm kế thừa trực tiếp Thiền tông Đại thừa truyền từ Trung Hoa sang — phương pháp thiền định, khái niệm Phật tính, đều có gốc gác rõ ràng **[chắc chắn]**. Không có gì trong giáo lý Trúc Lâm mà Thiền Trung Hoa không có. Gọi nó là "đặc sắc Việt Nam" có thể chỉ là lòng tự hào dân tộc được khoác áo học thuật **[suy đoán]** (đây là ý kiến của một số nhà nghiên cứu; không phải đồng thuận).
+Một phía lập luận: Trúc Lâm kế thừa trực tiếp Thiền tông Đại thừa truyền từ Trung Hoa sang — phương pháp thiền định, khái niệm Phật tính, đều có gốc gác rõ ràng **[chắc chắn]**. Không có gì trong giáo lý Trúc Lâm mà Thiền Trung Hoa không có. Gọi nó là "đặc sắc Việt Nam" có thể chỉ là lòng tự hào dân tộc được khoác áo học thuật **[suy đoán]** (một cách đọc hoài nghi người viết nêu ra để thử lập luận; không phải đồng thuận).
 
 Phía bên kia lập luận: điều làm nên Trúc Lâm không phải là *giáo lý* mà là *thái độ* — một thiền phái do vua sáng lập, gắn với sự nghiệp giữ nước, chủ trương nhập thế giữa lúc dân tộc lâm nguy **[có cơ sở]**. Ở Trung Hoa, các thiền phái thời Đường–Tống do tăng sĩ lập ra và truyền thừa, dù nhiều khi được triều đình bảo trợ (thời Tống, trụ trì các chùa lớn do nhà nước bổ nhiệm); ở Việt Nam thời Trần, người sáng lập thiền phái lại chính là vị vua từng lãnh đạo kháng chiến. Bối cảnh ấy tạo ra một sắc thái không thể sao chép **[suy đoán]**.
+
+**Lập luận mạnh nhất.** Phía "nhánh Trung Hoa" có bằng chứng văn bản: những hình ảnh then chốt của bài kệ đều có tiền lệ trong Thiền Trung Hoa — "đói thì ăn, mệt thì ngủ" là lời đáp của thiền sư Đại Châu Tuệ Hải, và "kho báu nhà mình" là lời Mã Tổ trách ông, đều chép trong *Cảnh Đức truyền đăng lục* (1004) **[chắc chắn]**. Phía "sắc thái Việt" dựa vào chỗ Trần Nhân Tông viết bằng chữ Nôm và sống điều ấy giữa triều đình, chiến trận **[có cơ sở]**.
+
+**Phản bác chính.** Khác biệt về bối cảnh chưa đủ làm nên một thiền phái khác về giáo lý: các thiền phái thời Tống cũng gắn chặt với triều đình, được triều đình bảo trợ và quản lý **[có cơ sở]**.
+
+**Cách đáp lại.** Phía "sắc thái Việt" đáp rằng cái riêng không cần nằm ở giáo lý: một thiền phái do chính vị vua lãnh đạo kháng chiến lập ra và nói đạo bằng tiếng Việt là một cách sống Thiền mà Thiền Trung Hoa không có **[suy đoán]**.
 
 So sánh ngắn với Thiền Trung Hoa: Thiền tông Trung Hoa (đại thành từ Huệ Năng, 638–713) **[chắc chắn]** nhấn mạnh "trực chỉ nhân tâm, kiến tính thành Phật" — thấy thẳng vào tâm mình **[có cơ sở]**. Trúc Lâm kế thừa tinh thần ấy, nhưng đặt nó vào một khung cảnh khác hẳn: không phải ẩn sĩ trong núi sâu mà là vua trên ngai vàng, không phải xa lánh thế sự mà là gánh vác non sông. Cùng một hạt giống Thiền, gieo trên đất Việt thời Trần, mọc thành một cây khác **[suy đoán]** (hình ảnh diễn giải; học giới tranh luận về mức độ khác biệt thực chất).
 
@@ -109,7 +115,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi nào về triết học Việt
 
 - **Đồng thuận:** Trúc Lâm Yên Tử là thiền phái do Trần Nhân Tông sáng lập cuối thế kỷ 13, với ba vị tổ là Trần Nhân Tông, Pháp Loa và Huyền Quang **[chắc chắn]**; tư tưởng "cư trần lạc đạo" là cốt lõi của phái **[có cơ sở]**.
 - **Tranh luận:** mức độ độc lập của Trúc Lâm so với Thiền Trung Hoa, và mức độ "chính trị hóa" trong tư tưởng Trần Nhân Tông (ông là thiền sư trước hết hay nhà chính trị dùng đạo?) — học giới chưa ngã ngũ **[có cơ sở]**.
-- **Hướng nghiên cứu mới:** một số học giả trẻ đặt câu hỏi liệu có nên đọc Trúc Lâm như một *triết học* (với các khái niệm về tâm, duyên, vô tâm) thay vì chỉ như một *lịch sử tôn giáo* — tức là đối xử với Trần Nhân Tông như một triết gia, không chỉ như một nhân vật lịch sử **[suy đoán]** (đây là hướng đi còn ít người làm).
+- **Một cách đọc khác:** có thể đọc Trúc Lâm như một *triết học* (với các khái niệm về tâm, duyên, vô tâm) thay vì chỉ như một *lịch sử tôn giáo* — tức là đối xử với Trần Nhân Tông như một triết gia, không chỉ như một nhân vật lịch sử **[suy đoán]** (đề xuất của người viết; chưa khảo sát các công trình theo hướng này).
 - Nguồn mốc chính: Nguyễn Tài Thư (chủ biên), *Lịch sử tư tưởng Việt Nam*, tập 1 (NXB Khoa học xã hội, 1993) — công trình nằm trong cụm công trình của Nguyễn Tài Thư và các cộng sự được Giải thưởng Nhà nước về khoa học và công nghệ (đợt 5, năm 2016) **[chắc chắn]**.
 
 ## Liên hệ đời sống {#lien-he-doi-song}
