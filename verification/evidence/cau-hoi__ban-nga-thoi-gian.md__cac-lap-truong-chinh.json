@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ban-nga-thoi-gian.md#cac-lap-truong-chinh",
-  "hash": "sha256:36076aa4b248bcbbbf762978d8a3ced7e1b1e1438575b49fea55001d29b99e9f",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k12",
+  "hash": "sha256:b5bfd5734136399c4d96d23737c0ee81b24a0d5287e951a18863e053b80a8bde",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k12 + agent-kiem-5.8-r04",
   "claims": [
     {
       "text": "Ba lập trường, trùng khớp với ba đáp án trong khảo sát PhilPapers: tiêu chí tâm lý (Locke, Parfit), tiêu chí sinh học (Olson), và quan điểm \"sự kiện bổ sung\".",
@@ -295,15 +295,32 @@
           "where": "lập trường vật lý luận"
         }
       ]
+    },
+    {
+      "text": "Cách thứ hai (David Lewis, 1976) nói rằng nếu tương lai có phân nhánh thì ngay từ bây giờ đã có hai người trùng chỗ, và cỗ máy chỉ tách họ ra.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "What we think of as you is really two people, who are now exactly similar and located in the same place, doing the same things and thinking the same thoughts. The transplant operation merely separates them (Lewis 1976, Perry 1972, Noonan 2019b: 141–144).",
+          "where": "SEP Personal Identity, §5 (Fission), quan điểm \"multiple-occupancy\""
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/identity-personal/",
+          "quote": "Lewis, D., 1976, ‘Survival and Identity’, in A. Rorty (ed.), The Identities of Persons",
+          "where": "SEP Personal Identity, Bibliography"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Cả ba lập trường đủ ba nhãn. Lỗi vừa: (1) lời đáp của tiêu chí tâm lý cho ca phân nhánh không phải các lời đáp chính trong văn liệu (điều kiện không phân nhánh, quan điểm nhiều người trùng chỗ); (2) khái quát 'hầu hết mọi người' về trực giác máy dịch chuyển không có nguồn. Gợi ý thêm (không tính lỗi): lập luận mạnh nhất của animalism còn có lập luận 'quá nhiều chủ thể suy nghĩ' (too-many-thinkers, Olson 1997) mà SEP mục 6–7 coi là lý do chính."
+  "result": "dat",
+  "notes": "Cả ba lập trường đủ ba nhãn. Lỗi vừa: (1) lời đáp của tiêu chí tâm lý cho ca phân nhánh không phải các lời đáp chính trong văn liệu (điều kiện không phân nhánh, quan điểm nhiều người trùng chỗ); (2) khái quát 'hầu hết mọi người' về trực giác máy dịch chuyển không có nguồn. Gợi ý thêm (không tính lỗi): lập luận mạnh nhất của animalism còn có lập luận 'quá nhiều chủ thể suy nghĩ' (too-many-thinkers, Olson 1997) mà SEP mục 6–7 coi là lý do chính. Lượt 2: ba claim sai đã sửa đúng (hai cách đáp cho ca phân nhánh; \"phần lớn tế bào được thay mới\"; \"với nhiều người… nhiều người cảm thấy\"). Chữ mới so với fix: \"(David Lewis, 1976)\" gán cho cách đáp thứ hai: SEP Personal Identity §5 gán quan điểm nhiều người trùng chỗ cho Lewis 1976 (\"Survival and Identity\"): claim đúng mới."
 }

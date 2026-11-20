@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/hanh-phuc.md#cac-lap-truong-chinh",
   "hash": "sha256:415b7ca209a4d83a5981f2c04f64bc1a6449ed534c4b4e9e83179be58a62d372",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k14",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k14 + agent-kiem-5.8-r08",
   "claims": [
     {
       "text": "Một lập trường rất cổ, từ phái Cyrene và Epicurus (thế kỷ 4–3 TCN) đến Jeremy Bentham (thế kỷ 18–19)",
@@ -152,14 +152,17 @@
     {
       "text": "Phản bác chính: ... Nguy cơ lớn nhất của lập trường này là gia trưởng (paternalism)",
       "kind": "dien-giai",
-      "verdict": "dung",
+      "verdict": "sai",
       "sources": [
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
-          "quote": "One common objection to objective list theories is that they are élitist",
+          "quote": "One common objection to objective list theories is that they are élitist, since they appear to be claiming that certain things are good for people, even if those people will not enjoy them, and do not even want them.",
           "where": "mục 4.3"
         }
-      ]
+      ],
+      "severity": "nhe",
+      "fix": "Nguy cơ thường được nêu của lập trường này là *gia trưởng* (*paternalism*): cho phép người khác — triết gia, nhà nước, cha mẹ — bảo bạn \"cái này mới thực sự tốt cho bạn\" trong khi bạn không hề muốn.",
+      "fixed": false
     },
     {
       "text": "Cách đáp lại: ... danh sách để chỗ cho cá nhân ... (tự chủ, hiểu biết sâu sắc, bình an)",
@@ -182,5 +185,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cả ba lập trường đủ ba nhãn. Câu \"những ứng cử viên được nhiều nền văn hóa ... từ Khổng Tử đến Aristotle đến Phật giáo\" là lời đáp đặt vào miệng người theo thuyết danh sách, không gán cho tác giả cụ thể; không tìm nguồn riêng."
+  "notes": "Cả ba lập trường đủ ba nhãn. Câu \"những ứng cử viên được nhiều nền văn hóa ... từ Khổng Tử đến Aristotle đến Phật giáo\" là lời đáp đặt vào miệng người theo thuyết danh sách, không gán cho tác giả cụ thể; không tìm nguồn riêng. Lượt 2 (chỗ còn sót): \"Nguy cơ lớn nhất ... gia trưởng\" lệch với Tóm tắt đã sửa thành \"phản bác thường gặp\"; SEP Well-being chỉ gọi đây là \"one common objection\" (élitist), nên chuyển thành claim sai nhe kèm fix."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/viet-hien-dai.md#nguon",
-  "hash": "sha256:e16e191d5cee7d3dd3608d46556466aa26f06b62958dc19ff44553dd86a00974",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k17",
+  "hash": "sha256:1c4686b915774decda909a2ef94b37a1a4bc6f75635c8b4d8c7ee424ca42d571",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k17 + agent-kiem-5.8-r01",
   "claims": [
     {
       "text": "Nguyễn Tài Thư (chủ biên) (1993), *Lịch sử tư tưởng Việt Nam*, tập 1, Hà Nội: NXB Khoa học xã hội.",
@@ -57,15 +57,57 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Wynn Gadkar-Wilcox, \"Existentialism and Intellectual Culture in South Vietnam\", *The Journal of Asian Studies* 73(2), 2014, tr. 377–395, <https://doi.org/10.1017/S0021911813002349>.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1017/S0021911813002349",
+          "quote": "Existentialism and Intellectual Culture in South Vietnam",
+          "where": "Crossref: tác giả Wynn Gadkar-Wilcox, The Journal of Asian Studies, tập 73, số 2, 2014"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1017/S0021911813002349",
+          "quote": "377-395",
+          "where": "Crossref: trang"
+        },
+        {
+          "url": "https://www.cambridge.org/core/journals/journal-of-asian-studies/article/existentialism-and-intellectual-culture-in-south-vietnam/FB94AF17BE537CC7FD142DCECFE42F14",
+          "quote": "Among the eclecticism and diversity of the intellectual marketplace in 1960s Saigon, frequent discussions of existentialism stand out.",
+          "where": "Cambridge Core, tóm tắt"
+        }
+      ]
+    },
+    {
+      "text": "Đại học Quốc gia Hà Nội, \"PGS Trần Đình Hượu với cụm công trình…\" (2007); Trần Nho Thìn, Trần Ngọc Vương, \"Phó giáo sư Trần Đình Hượu - người “đến hiện đại từ truyền thống”\", Trường ĐH KHXH&NV (2015) — hai URL mở được",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://vnu.edu.vn/pgs-tran-dinh-huou-voi-cum-cong-trinh-1-den-hien-dai-tu-truyen-thong-2-nho-giao-va-van-hoc-viet-nam-trung--can-dai-post2677.html",
+          "quote": "Thứ ba 09-01-2007",
+          "where": "ngày đăng"
+        },
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Tác giả: PGS.TS Trần Nho Thìn; GS.TS Trần Ngọc Vương"
+        },
+        {
+          "url": "https://ussh.vnu.edu.vn/vi/news/nhan-vat-su-kien/pho-giao-su-tran-dinh-huou-nguoi-den-hien-dai-tu-truyen-thong-12232.html",
+          "quote": "Tháng 6 năm 2015"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": null,
+    "dung-nguon": true,
     "manh-nhat": null,
     "phan-bac": null,
     "trung-lap": null,
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Sáu dòng Nguồn trùng bản ghi sources/* đã đóng băng. Nhận định nhẹ: mục Nguồn chưa có tài liệu nào cho các ý về Trần Đình Hượu và hiện sinh ở miền Nam; nếu sửa thân bài theo các fix của đơn vị khác thì thêm nguồn tương ứng (ĐHQG Hà Nội, ĐH KHXH&NV; Gadkar-Wilcox 2014, Journal of Asian Studies 73(2); Huỳnh Văn Tuyết, Tạp chí KH&CN ĐH Đà Nẵng về Phan Châu Trinh)."
+  "notes": "Sáu dòng Nguồn trùng bản ghi sources/* đã đóng băng. Nhận định nhẹ: mục Nguồn chưa có tài liệu nào cho các ý về Trần Đình Hượu và hiện sinh ở miền Nam; nếu sửa thân bài theo các fix của đơn vị khác thì thêm nguồn tương ứng (ĐHQG Hà Nội, ĐH KHXH&NV; Gadkar-Wilcox 2014, Journal of Asian Studies 73(2); Huỳnh Văn Tuyết, Tạp chí KH&CN ĐH Đà Nẵng về Phan Châu Trinh). Lượt 2: dòng nguồn mới đã thêm đúng fix, kèm Gadkar-Wilcox 2014 (đối chiếu Crossref: tác giả, tên bài, tạp chí, 73(2), tr. 377–395, 2014). Người điều phối cần tạo bản ghi sources/* cho ba nguồn mới này. Sáu dòng cũ vẫn trùng bản ghi đóng băng."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ai-nen-cai-tri.md#_dau",
-  "hash": "sha256:5ea96b44701f1fbc5178daa0a72f834fec6b85e804e29b61f2f3fdc5f0be3062",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k01",
+  "hash": "sha256:b81223ae48974b798dea15af2c6ea7866294ebea719908ed702e06d55ddb13bb",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k01 + agent-kiem-5.8-r02",
   "claims": [
     {
       "text": "Platon (Cộng hòa, hình ảnh con tàu Quyển VI): cai trị là một nghệ thuật (technē) cần tri thức — giao nó cho số đông cũng dại dột như biểu quyết chọn phi công.",
@@ -93,7 +93,24 @@
     {
       "text": "như bằng lái xe đòi năng lực trước khi cho lái, quyền bầu cử cũng có thể đòi một mức năng lực tối thiểu (ví von gán cho Brennan)",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "exam, akin to a driver exam, which tests generally relevant",
+          "where": "Brennan 2011, 'The Right to a Competent Electorate', Philosophical Quarterly 61(245): 700–724, §III (bản PDF trên trang khóa học Đại học Colorado) — ví von bài thi cử tri với bài thi lái xe; Against Democracy (2016) phát triển cùng nguyên tắc năng lực"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "As a parallel, it would be unjust to exclude citizens from driving",
+          "where": "Brennan 2011, §I"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1111/j.1467-9213.2011.699.x",
+          "quote": "THE RIGHT TO A COMPETENT ELECTORATE",
+          "where": "Crossref: Brennan, Philosophical Quarterly 61(245), 2011"
+        }
+      ]
     },
     {
       "text": "Phản bác \"ai ra đề?\": không có cách trung lập để định nghĩa \"hiểu biết\"",
@@ -158,6 +175,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Câu PhilPapers: đối chiếu danh sách 100 câu ở tools/philpapers-2020.md, không câu nào hỏi về dân chủ/epistocracy; câu gần nhất là \"Triết học chính trị\". Platon k. 428–347 TCN (people/platon), Cộng hòa khoảng 380–375 TCN nên \"2.400 năm\" là xấp xỉ hợp lý. Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe."
+  "result": "dat",
+  "notes": "Câu PhilPapers: đối chiếu danh sách 100 câu ở tools/philpapers-2020.md, không câu nào hỏi về dân chủ/epistocracy; câu gần nhất là \"Triết học chính trị\". Platon k. 428–347 TCN (people/platon), Cộng hòa khoảng 380–375 TCN nên \"2.400 năm\" là xấp xỉ hợp lý. Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe. Lượt 2: claim kiểm tra cử tri (sai nhẹ) đã sửa (\"cho thấy chúng dễ bị biến thành\"), giữ fixed. ví von bằng lái xe tìm được trong bài báo 2011 của chính Brennan ('The Right to a Competent Electorate', Phil. Quarterly; bản PDF trên trang khóa học rintintin.colorado.edu, đối chiếu Crossref): bài thi cử tri 'akin to a driver exam'; ví von giấy phép hành nghề y ở bài Aeon 2016 của Brennan; lập luận tuổi bầu cử ở Brennan 2011 §IV. Bài gán cho Against Democracy (2016); sách phát triển cùng nguyên tắc năng lực, chưa đối chiếu được trang sách — chấp nhận ở mức diễn giải."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tu-do-ngon-luan.md#doc-van-ban-goc",
   "hash": "sha256:39fe66477a709350dbe75ec97cb7749dbe732666ccf2523ee064742a2e3b2e54",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "On Liberty (1859) của Mill đã thuộc phạm vi công cộng — ... chương 2 (\"Về tự do tư tưởng và thảo luận\")",
@@ -37,16 +37,29 @@
       ]
     },
     {
-      "text": "The Open Society and Its Enemies (1945) của Popper còn bản quyền, nên bài này chỉ tóm tắt: khoan dung vô hạn tự hủy; ... chỉ khi kẻ không khoan dung từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực hoặc đe dọa",
+      "text": "The Open Society and Its Enemies (1945) của Popper còn bản quyền, nên bài này chỉ tóm tắt: khoan dung vô hạn tự hủy; xã hội khoan dung phải không khoan dung với sự không khoan dung — nhưng chỉ khi kẻ không khoan dung từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực hoặc đe dọa.",
       "kind": "dien-giai",
-      "verdict": "dung",
+      "verdict": "sai",
       "kb": "works/popper.the-open-society-and-its-enemies",
       "sources": [
         {
           "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
-          "quote": "teach them to answer arguments by the use of their fists or pistols"
+          "quote": "I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise.",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "We should claim that any movement preaching intolerance places itself out- side the law, and we should consider incitement to intolerance and persecudon as criminal",
+          "where": "tập 1, chương 7, chú thích 4 (OCR giữ nguyên lỗi \"out- side\", \"persecudon\")"
         }
-      ]
+      ],
+      "severity": "nhe",
+      "fix": "*The Open Society and Its Enemies* (1945) của Popper còn bản quyền, nên bài này chỉ tóm tắt: khoan dung vô hạn tự hủy; xã hội khoan dung phải không khoan dung với sự không khoan dung. Đàn áp các triết lý không khoan dung chỉ chính đáng khi kẻ không khoan dung từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực hoặc đe dọa; còn việc kích động sự không khoan dung hay ngược đãi thì Popper muốn coi là tội phạm, như kích động giết người."
     },
     {
       "text": "Câu hỏi dẫn dắt 1: Mill phân biệt nói trên báo (được) với gào vào mặt đám đông kích động (có thể cấm)",
@@ -56,6 +69,30 @@
         {
           "url": "https://gutenberg.pglaf.org/cache/epub/34901/pg34901.txt",
           "quote": "ought to be unmolested when simply circulated through the press, but may justly incur punishment when delivered orally to an excited mob"
+        }
+      ]
+    },
+    {
+      "text": "Câu hỏi dẫn dắt 2: \"Popper đặt bar rất cao cho việc dùng biện pháp cưỡng chế: chỉ khi đối phương từ chối tranh luận bằng lý lẽ.\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "2. Popper chỉ chấp nhận đàn áp các triết lý không khoan dung khi đối phương từ chối tranh luận bằng lý lẽ (dù ông cũng muốn coi việc kích động sự không khoan dung là tội phạm). Hãy thử áp vào một trường hợp cụ thể mà bạn biết: bên kia đã \"từ chối tranh luận\" chưa, hay chỉ là tranh luận dở?",
+      "sources": [
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise.",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "We should claim that any movement preaching intolerance places itself out- side the law, and we should consider incitement to intolerance and persecudon as criminal",
+          "where": "tập 1, chương 7, chú thích 4 (OCR giữ nguyên lỗi \"out- side\", \"persecudon\")"
         }
       ]
     },
@@ -91,5 +128,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Không có trích nguyên văn trong mục này; phần Popper chỉ tóm tắt (cùng lưu ý bỏ sót như ở cac-lap-truong-chinh nhưng ở đây là tóm tắt ngưỡng đàn áp nên giữ dung)."
+  "notes": "Không có trích nguyên văn trong mục này; phần Popper chỉ tóm tắt (cùng lưu ý bỏ sót như ở cac-lap-truong-chinh nhưng ở đây là tóm tắt ngưỡng đàn áp nên giữ dung). Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): theo mục \"Chỗ còn sót\": đoạn tóm Popper và câu hỏi dẫn dắt 2 vẫn chỉ nêu ngưỡng \"từ chối tranh luận\", bỏ ý chú thích 4 ch.7 (phong trào rao giảng không khoan dung ra ngoài vòng pháp luật; kích động không khoan dung là tội phạm) mà thân bài nay đã ghi — chuyển thành hai claim sai nhẹ kèm fix dán thẳng. Quote Popper tải lại (archive.org djvu.txt), so khớp."
 }

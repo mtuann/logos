@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/mo-phong.md#_dau",
-  "hash": "sha256:477fb622b905540d7ad32d043a20b10aa3b8d74add083668b45286625c264f00",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k12",
+  "hash": "sha256:b67fdea16c0beb91d439ccb652cba0d3a96e49a45afcc441f883758243683ca6",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k12 + agent-kiem-5.8-r04",
   "claims": [
     {
       "text": "Năm 2003, triết gia Nick Bostrom đăng một bài báo với tiêu đề gây choáng: \"Are You Living in a Computer Simulation?\" (*Philosophical Quarterly*).",
@@ -139,15 +139,34 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "phản bác tính khoa học — giả thuyết không thể bác bỏ thì trống rỗng như giả thuyết \"vũ trụ tạo ra 5 phút trước\" (Putnam, \"bộ não trong bể\", 1981: giả thuyết hoài nghi tự triệt tiêu chính mình)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "phản bác tính khoa học — giả thuyết không thể bác bỏ thì trống rỗng như giả thuyết \"vũ trụ tạo ra 5 phút trước\"; Putnam (\"bộ não trong bể\", 1981) tấn công theo hướng khác: giả thuyết hoài nghi không trống rỗng mà tự triệt tiêu chính mình",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "the assertion “we are brains in a vat” would be sense self-refuting in the same way that the general statement “all general statements are false” is",
+          "where": "IEP Brains in a Vat, §1; thân bài mo-phong (lập trường 2) đã sửa: \"Ông không nói giả thuyết trống rỗng, mà nói nó tự bác bỏ\""
+        },
+        {
+          "url": "https://iep.utm.edu/brainvat/",
+          "quote": "In his Reason, Truth and History (1981), Hilary Putnam first presented the argument that we cannot be brains in a vat",
+          "where": "IEP Brains in a Vat, mở đầu"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": null,
     "phan-bac": null,
-    "trung-lap": false,
-    "thuat-ngu": false
+    "trung-lap": true,
+    "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Hai lỗi vừa: (1) câu 'Kết luận: rất có thể, bạn ... là một nhân vật trong mô phỏng' trình bày sai kết luận của Bostrom (bộ ba, chia đều độ tin), mâu thuẫn với thân bài; (2) gạch đầu dòng 'Thái độ của bài' biến lập trường 3 thành kết luận của bài. Lỗi nhẹ: 'ác quỷ' không thống nhất với 'ác thần' (terms/ac-than); câu 'chính là thực tại' nêu luận điểm của lập trường 3 như sự thật."
+  "result": "dat",
+  "notes": "Hai lỗi vừa: (1) câu 'Kết luận: rất có thể, bạn ... là một nhân vật trong mô phỏng' trình bày sai kết luận của Bostrom (bộ ba, chia đều độ tin), mâu thuẫn với thân bài; (2) gạch đầu dòng 'Thái độ của bài' biến lập trường 3 thành kết luận của bài. Lỗi nhẹ: 'ác quỷ' không thống nhất với 'ác thần' (terms/ac-than); câu 'chính là thực tại' nêu luận điểm của lập trường 3 như sự thật. Lượt 2: ba claim sai đã sửa đúng (kết luận bộ ba; \"không có phép kiểm tra nào để biết nó không phải thực tại\"; \"Thái độ của bài\" nay ghi \"đọc cả ba rồi tự quyết định\" và gán bài học hoài nghi cho lập trường 3, \"ác thần\"). Chỗ còn sót: Tóm tắt vẫn đặt Putnam trong ngoặc như ví dụ của \"phản bác tính khoa học… trống rỗng\", lệch thân bài đã sửa (\"Ông không nói giả thuyết trống rỗng, mà nói nó tự bác bỏ\"): claim sai nhẹ mới."
 }

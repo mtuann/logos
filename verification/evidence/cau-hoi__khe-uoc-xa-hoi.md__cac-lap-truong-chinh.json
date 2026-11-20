@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/khe-uoc-xa-hoi.md#cac-lap-truong-chinh",
-  "hash": "sha256:8cace7ad008f862d1085ab4fc53dbef9bfc577b6c0bea66740f3dc6523b05d9c",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k03",
+  "hash": "sha256:da1eb35d6fb7ba497bea2663ce5c8192b8fb254571ba150f2c7f301aa2a2f5c9",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06",
   "claims": [
     {
       "text": "Thomas Hobbes, trong *Leviathan* (1651)",
@@ -524,9 +524,9 @@
     "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
-    "trung-lap": false,
+    "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba lập trường (Hobbes, Locke, Rousseau) đều đủ ba nhãn; phần Hume là phản bác chung có Cách đáp lại. Chi tiết \"in cuối năm 1689\" chỉ đối chiếu được ở mức SEP (in 1689) + Gutenberg (bản 1690). Khung \"Rousseau thấy cả Hobbes lẫn Locke chưa chạm vào vấn đề\" là cách trình bày của bài, Rousseau tự nêu \"vấn đề căn bản\" ở I.6. trung-lap=false vì câu tổng kết \"đó là chính quyền chính đáng\" gộp ba tiêu chuẩn mà Hobbes không chấp nhận (mức nhẹ)."
+  "result": "dat",
+  "notes": "Ba lập trường (Hobbes, Locke, Rousseau) đều đủ ba nhãn; phần Hume là phản bác chung có Cách đáp lại. Chi tiết \"in cuối năm 1689\" chỉ đối chiếu được ở mức SEP (in 1689) + Gutenberg (bản 1690). Khung \"Rousseau thấy cả Hobbes lẫn Locke chưa chạm vào vấn đề\" là cách trình bày của bài, Rousseau tự nêu \"vấn đề căn bản\" ở I.6. trung-lap=false vì câu tổng kết \"đó là chính quyền chính đáng\" gộp ba tiêu chuẩn mà Hobbes không chấp nhận (mức nhẹ).\nLượt 2: Ba fix (Rousseau Quyển I ch.7, Anderson Private Government 2017, câu tổng kết ba lý thuyết) đã áp đúng chữ; fixed giữ true; trung-lap chuyển true. Nguồn chưa có Anderson 2017: ghi claim ở đơn vị #nguon."
 }

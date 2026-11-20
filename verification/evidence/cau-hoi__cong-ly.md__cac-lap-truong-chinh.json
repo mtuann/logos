@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cong-ly.md#cac-lap-truong-chinh",
-  "hash": "sha256:6d6cf1eb83f06eafb4d7a1e2e107f7c980607623036e9e86a6cbdf5ec73d3aa4",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k02",
+  "hash": "sha256:d051e4b89b05e045916460f3cc3acc71f8e0adcbcd85ba04c20b25d58abe6422",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k02 + agent-kiem-5.8-r02",
   "claims": [
     {
       "text": "Năm 1971, John Rawls xuất bản A Theory of Justice",
@@ -224,12 +224,27 @@
     {
       "text": "Sandel ... tấn công vào tiền đề chung của cả Rawls lẫn Nozick: ... trong lý thuyết của Nozick ta là chủ sở hữu trừu tượng",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc",
+      "verdict": "dung",
       "sources": [
         {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/communitarianism/",
-          "quote": "Communitarian thinkers in the 1980s such as Michael Sandel and Charles Taylor argued that Rawlsian liberalism rests on an overly individualistic conception of the self.",
-          "where": "§2 — chỉ xác nhận phần Rawls"
+          "url": "https://people.brandeis.edu/~teuber/rawls3.html",
+          "quote": "The third debate prompted by Rawls's work centers on an assumption shared by libertarian and egalitarian liberals alike.",
+          "where": "Sandel 1994, bài điểm sách Political Liberalism, Harvard Law Review 107: 1765–1766 (bản chép trên trang khóa học Brandeis) — chính Sandel nói phê phán 'cộng đồng luận' (kể cả của ông) nhắm vào giả định chung của phái tự do cá nhân và phái bình đẳng"
+        },
+        {
+          "url": "https://people.brandeis.edu/~teuber/rawls3.html",
+          "quote": "Libertarian liberals, like Robert Nozick and Friedrich Hayek, argue that government should respect basic civil and political liberties",
+          "where": "như trên, tr. 1765"
+        },
+        {
+          "url": "https://openyls.law.yale.edu/server/api/core/bitstreams/99378b4c-6ad3-40dd-8104-7913c980f315/content",
+          "quote": "Against this thesis of Rawls and deontological liberalism generally,",
+          "where": "Sagoff 1983, điểm sách Liberalism and the Limits of Justice, Yale Law Journal 92: 1069; chú thích 20 xếp Nozick (ASU 30-33) vào cùng luận đề"
+        },
+        {
+          "url": "https://openyls.law.yale.edu/server/api/core/bitstreams/99378b4c-6ad3-40dd-8104-7913c980f315/content",
+          "quote": "R. NOZICK, ANARCHY, STATE, AND UTOPIA 30-33 (1974)",
+          "where": "Sagoff 1983, chú thích 20"
         }
       ]
     },
@@ -319,15 +334,34 @@
           "quote": "Cách đáp lại. Người theo cộng đồng luận đáp rằng họ không bênh vực mọi giá trị cộng đồng"
         }
       ]
+    },
+    {
+      "text": "hãy hỏi *bạn có dám sinh ra ngẫu nhiên vào nó không*",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Lập luận mạnh nhất.** Thí nghiệm của Rawls biến \"công bằng\" thành một thứ có thể kiểm tra được: đừng hỏi xã hội này có công bằng không theo cảm tính, hãy hỏi *bạn có dám bước vào nó mà không biết trước mình sẽ ở vị trí nào không*.",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "Thus, John Harsanyi contends that it is more rational under conditions of complete uncertainty always to choose according to the principle of insufficient reason",
+          "where": "§6.2 — 'sinh ra ngẫu nhiên' gợi giả định xác suất đều của Harsanyi; cùng lỗi đã sửa ở mục Thí nghiệm tư duy"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/original-position/",
+          "quote": "Rawls denies that the parties have a psychological disposition to risk-aversion.",
+          "where": "§6.2"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": null,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Ý Sandel phê phán quan niệm cá nhân của Rawls có nguồn (SEP Communitarianism, SEP Original Position). Ý \"Sandel phê phán cả Nozick, cùng tiền đề với Rawls\" chưa kiểm được: SEP Communitarianism chỉ nói phản ứng với Rawls; SEP Nozick, SEP Libertarianism, SEP Rawls không nhắc Sandel; IEP không có mục Sandel/Communitarianism (đã thử iep.utm.edu/sandel/, /communitarianism/, /comm-eth/: 404); bản Internet Archive của Liberalism and the Limits of Justice (liberalismlimits0000sand) là sách mượn hạn chế, không tìm trong toàn văn được."
+  "result": "dat",
+  "notes": "Ý Sandel phê phán quan niệm cá nhân của Rawls có nguồn (SEP Communitarianism, SEP Original Position). Ý \"Sandel phê phán cả Nozick, cùng tiền đề với Rawls\" chưa kiểm được: SEP Communitarianism chỉ nói phản ứng với Rawls; SEP Nozick, SEP Libertarianism, SEP Rawls không nhắc Sandel; IEP không có mục Sandel/Communitarianism (đã thử iep.utm.edu/sandel/, /communitarianism/, /comm-eth/: 404); bản Internet Archive của Liberalism and the Limits of Justice (liberalismlimits0000sand) là sách mượn hạn chế, không tìm trong toàn văn được. Lượt 2: hai claim sai nhẹ cũ (strains of commitment, phí dịch vụ) đã sửa đúng fix. Thêm claim sai nhẹ dòng ~62 'sinh ra ngẫu nhiên' (chỗ còn sót, cùng lỗi Harsanyi đã sửa ở Thí nghiệm tư duy). claim Sandel phê phán cả Rawls lẫn Nozick: chuyển dung (diễn giải). Chính Sandel (1994, HLR) mô tả phê phán cộng đồng luận, kể cả của ông, nhắm vào giả định chung của phái tự do cá nhân (Nozick, Hayek) và phái bình đẳng (Rawls); Sagoff (1983, YLJ) cho thấy sách 1982 nhắm vào 'chủ nghĩa tự do nghĩa vụ luận nói chung', xếp Nozick vào cùng luận đề. Lưu ý: trong sách 1982, Sandel chủ yếu nhắm vào Rawls và còn mượn lập luận của Nozick để phê phán Rawls (Sagoff: 'Sandel mobilizes Robert Nozick's well known argument'); chi tiết 'với Nozick ta là chủ sở hữu trừu tượng' là diễn giải của bài."
 }

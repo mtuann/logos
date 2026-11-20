@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/viet-hien-dai.md#tu-kiem-tra",
-  "hash": "sha256:fbb2af649f02d13f0fa8c31557eb95cc945d1434292e8366c6c5a4c5a7159f80",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k17",
+  "hash": "sha256:02a686068aaaae9636c5b1fa08430baf8d74bbc7dedc1a0e5c6961efcce94161",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k17 + agent-kiem-5.8-r01",
   "claims": [
     {
       "text": "Câu 1 (vietnam-3): đáp án đúng \"Mỗi dân tộc có thể hiện đại hóa từ chính truyền thống của mình; nhiệm vụ là phân tích cụ thể yếu tố nào 'thuận', yếu tố nào 'nghịch'\"; lời giải \"Trần Đình Hượu phản bác sự đồng nhất 'hiện đại hóa = Tây hóa = đoạn tuyệt truyền thống'\"",
@@ -83,12 +83,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": null,
     "phan-bac": null,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Đáp án các câu 2–5 đúng theo bài và nguồn; phương án sai đều rõ ràng sai. Câu 1 dựa trên các ý chưa có nguồn của lập trường 2 (thuận/nghịch, Tây hóa) nên sửa cùng thân bài; giữ data-id \"vietnam-3\". Câu 4: \"đa số nhà nghiên cứu đồng ý\" không có trong thân bài và không có nguồn."
+  "result": "dat",
+  "notes": "Đáp án các câu 2–5 đúng theo bài và nguồn; phương án sai đều rõ ràng sai. Câu 1 dựa trên các ý chưa có nguồn của lập trường 2 (thuận/nghịch, Tây hóa) nên sửa cùng thân bài; giữ data-id \"vietnam-3\". Câu 4: \"đa số nhà nghiên cứu đồng ý\" không có trong thân bài và không có nguồn. Lượt 2: câu 1 đã thay đáp án và lời giải đúng fix; câu 4 lời giải ghi \"sau năm 1956 ông bị cách chức ở Đại học Hà Nội\" khớp hồ sơ đóng băng ho-so/tran-duc-thao (cách chức từ 12/1956; \"sau năm 1956\" hiểu là sau biến cố 1956). Câu 3 (phản bác lập trường đoạn tuyệt) không gán cho Trần Đình Hượu nên không dính lỗi gán lời ở cac-lap-truong-chinh."
 }

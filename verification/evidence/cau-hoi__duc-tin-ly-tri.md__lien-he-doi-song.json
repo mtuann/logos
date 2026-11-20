@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/duc-tin-ly-tri.md#lien-he-doi-song",
-  "hash": "sha256:3806c5aba20a413a3bd0425241193aace1b5f5d819ecad42034be8c6f1447805",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k08",
+  "hash": "sha256:2724dfd24992f795afcb1ac8535e311cc872515c7876c641eecb648f242df9cb",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03",
   "claims": [
     {
       "text": "Kierkegaard sẽ nói: đến một lúc nào đó, bằng chứng đã cạn mà bạn vẫn phải chọn — và tình yêu nào cũng chứa một bước nhảy.",
@@ -54,6 +54,24 @@
           "quote": "it is rationally and morally permissible to believe a proposition because of the benefits thereby generated"
         }
       ]
+    },
+    {
+      "text": "**Bước nhảy trong sự nghiệp.**",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Dấn thân trong sự nghiệp.**",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "a morally free action always comes from a “leap” and cannot be seen as necessary",
+          "where": "§2, The Concept of Anxiety"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/26659/pg26659.txt",
+          "quote": "whenever it is a genuine option that cannot by its nature be decided on intellectual grounds"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -64,5 +82,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Không có dữ kiện Việt Nam hay số liệu. Một chỗ dùng \"bước nhảy\" như thuật ngữ của Kierkegaard (xem việc riêng 5.8)."
+  "notes": "Không có dữ kiện Việt Nam hay số liệu. Một chỗ dùng \"bước nhảy\" như thuật ngữ của Kierkegaard (xem việc riêng 5.8).\nLượt 2: claim 0 đã sửa đúng (\"đòi một sự dấn thân\"). Thêm claim nhẹ: tiêu đề đoạn \"Bước nhảy trong sự nghiệp\" (đoạn bàn James) còn dùng \"bước nhảy\"; đổi cho đồng bộ việc bỏ \"bước nhảy\" khỏi bài."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-dep.md#cac-lap-truong-chinh",
-  "hash": "sha256:86653ed3352d4911014ce23c3f34610a8071316edf54b112ce5f39299523e81e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k07",
+  "hash": "sha256:429ec6e62ad89abde0627ae0f98fdcbcc089a8b669b661bf1fa223b3e8e239ff",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k07 + agent-kiem-5.8-r05",
   "claims": [
     {
       "text": "Năm 1757, David Hume viết bài \"Of the Standard of Taste\" (Về chuẩn mực của thị hiếu).",
@@ -245,15 +245,57 @@
           "quote": "the fact that their universal validity is not based on concepts distinguishes judgments of beauty"
         }
       ]
+    },
+    {
+      "text": "Ngược lại, một nhà thờ hay một con ngựa là cái đẹp phụ thuộc: ta đánh giá nó đẹp một phần dựa trên khái niệm về cái nó phải là — nhà thờ được xét như một nhà thờ, con ngựa được xét như một con ngựa.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/4/8/4/3/48433/48433-0.txt",
+          "quote": "the beauty of a horse, or a building (be it church, palace, arsenal, or summer-house) presupposes a concept of the purpose which determines what the thing is to be",
+          "where": "§16"
+        }
+      ]
+    },
+    {
+      "text": "Một chi tiết đáng chú ý: Hume không giao chuẩn mực cho *một* người phê bình. Người hội đủ năm phẩm chất rất hiếm, và chuẩn mực là *phán quyết chung* (*joint verdict*) của những người như vậy — qua nhiều thời đại và nhiều nền văn hóa.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "a true judge in the finer arts is observed, even during the most polished ages, to be so rare a character",
+          "where": "ST 23"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/",
+          "quote": "it is not the verdict of contemporary critics that constitutes the standard, but rather the consensus of qualified judges over time and from"
+        }
+      ]
+    },
+    {
+      "text": "| Có chuẩn mực không? | Có: ý kiến chung của người phê bình lý tưởng | Có: yêu cầu phổ quát chủ quan |",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "| Có chuẩn mực không? | Có: phán quyết chung của người phê bình đích thực (\"người phê bình lý tưởng\") | Có: yêu cầu phổ quát chủ quan |",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "and the joint verdict of such, wherever they are to be found, is the true standard of taste and beauty.",
+          "where": "ST 23"
+        }
+      ]
     }
   ],
   "checklist": {
-    "dung-nguon": false,
+    "dung-nguon": true,
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Hai lập trường (Hume, Kant) đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại; mục 3 là tổng hợp, không phải lập trường. Lỗi chính: đoạn \"Hume không đòi hỏi một người phê bình hoàn hảo ... một người có thể thiếu sót ở điểm này\" đi ngược câu của Hume rằng chỉ người hội đủ năm phẩm chất mới là true judge. Ví dụ \"ngựa chiến\" không phải của Kant (Kant nói \"a horse\"; chữ \"warrior\" ở §16 là về tượng người). \"Người phê bình lý tưởng\" không phải chữ của Hume (SEP ghi rõ). Bảng so sánh khớp thân bài."
+  "result": "dat",
+  "notes": "Hai lập trường (Hume, Kant) đủ ba nhãn Lập luận mạnh nhất / Phản bác chính / Cách đáp lại; mục 3 là tổng hợp, không phải lập trường. Lỗi chính: đoạn \"Hume không đòi hỏi một người phê bình hoàn hảo ... một người có thể thiếu sót ở điểm này\" đi ngược câu của Hume rằng chỉ người hội đủ năm phẩm chất mới là true judge. Ví dụ \"ngựa chiến\" không phải của Kant (Kant nói \"a horse\"; chữ \"warrior\" ở §16 là về tượng người). \"Người phê bình lý tưởng\" không phải chữ của Hume (SEP ghi rõ). Bảng so sánh khớp thân bài.\nLượt 2 (agent-kiem-5.8-r05): bốn claim sai đã sửa đúng ý fix (đoạn true judge/joint verdict, ví dụ Ogilby–Milton, đoạn \"không giao chuẩn mực cho một người\", ví dụ nhà thờ/con ngựa). Câu nhà thờ/con ngựa áp chữ khác fix (\"được xét như một nhà thờ… như một con ngựa\") nhưng cùng ý và khớp Kant §16 (đối chiếu lại bản Bernard qua mirror gutenberg.pglaf.org). Ghi claim mới cho hai câu đã sửa. Bảng so sánh mục 3 vẫn ghi \"ý kiến chung của người phê bình lý tưởng\": lệch với thân bài đã sửa, ghi sai nhẹ."
 }

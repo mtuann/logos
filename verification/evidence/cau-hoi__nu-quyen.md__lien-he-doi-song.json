@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nu-quyen.md#lien-he-doi-song",
   "hash": "sha256:0279504e0e386b83587c874b8220f6431c40c40600452fca81e2d7d8db38c0e2",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "GDP — thước đo thành công của một nền kinh tế — không tính công việc nhà không lương: nấu ăn, dọn dẹp, chăm con, chăm người già.",
@@ -31,7 +31,36 @@
     {
       "text": "Ở Việt Nam, chăm sóc cha mẹ già chủ yếu do con cái — và trong thực tế, chủ yếu do con gái và con dâu — gánh vác, thường không lương và không được ghi nhận.",
       "kind": "du-kien",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ở Việt Nam, chăm sóc cha mẹ già chủ yếu do người trong gia đình gánh vác, và phụ nữ (vợ, con gái, con dâu, cháu gái) gánh nhiều hơn nam giới; công việc này thường không lương và không được ghi nhận.",
+      "sources": [
+        {
+          "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1065851/full",
+          "quote": "In particular, wives, daughters, daughters-in-law, and granddaughters had significantly higher rates of providing caregiving for older persons than did husbands, sons, sons-in-law, and grandsons.",
+          "where": "Giang, Nguyen, Pham & Phi, \"Factors associated with receipt of informal care among the Vietnamese older persons\", Frontiers in Public Health 2023 (DOI 10.3389/fpubh.2023.1065851), dữ liệu VNAS 2011, người cao tuổi có ít nhất một khó khăn ADL; mục Results"
+        },
+        {
+          "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1065851/full",
+          "quote": "Spouse Son Daughter Son-in-law Daughter-in-law",
+          "where": "Bảng 3, hàng Total: vợ/chồng 42,44%, con trai 37,04%, con gái 43,13%, con rể 6,14%, con dâu 34,67% — con trai không kém con dâu, nên \"chủ yếu do con gái và con dâu\" là nói quá"
+        },
+        {
+          "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1065851/full",
+          "quote": "Total 42.44 37.04 43.13 6.14 34.67",
+          "where": "Bảng 3"
+        },
+        {
+          "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1065851/full",
+          "quote": "In regard to care for older people, Vietnamese families are still playing a key role in providing care for their old-aged parents",
+          "where": "mục Introduction"
+        },
+        {
+          "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1065851/full",
+          "quote": "the burden of caregiving at home is hidden and biased to women, but they are not compensated by any social protection benefit scheme",
+          "where": "mục Discussion"
+        }
+      ]
     },
     {
       "text": "nâng giá trị của chăm sóc mà không thay đổi việc ai phải chăm sóc thì chỉ là tô đẹp cho bất công (phản bác của lập trường 3)",
@@ -63,6 +92,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Chưa kiểm được claim con gái/con dâu: tìm thấy bài nghiên cứu tiếng Việt (vjol.info.vn/index.php/vienncptbvvung/article/view/133375/109558 — curl lỗi kết nối; jos.husc.edu.vn/UPLOADS/numbers/82/1181_fulltext_10._xhh_-_nguyen_huu_minh.pdf và journalofscience.ou.edu.vn/index.php/soci-vi/article/download/2168/1773/9338 — tải được PDF nhưng máy không có công cụ trích chữ PDF); vnexpress.net/gia-khong-diem-tua-4832077.html 404; nhandan.vn/post-904726.html không có ý này. Kết quả tìm kiếm cho thấy có nghiên cứu nói con gái tham gia chăm sóc nhiều hơn con trai, nhưng cũng có nghiên cứu (Nguyễn Hữu Minh, Trần Quý Long) cho thấy con trai trợ giúp thường xuyên hơn ở một số mặt, nên cần đọc nguyên bản. Câu \"anh em\", \"các ông\"… là quan sát ngôn ngữ minh họa, không ghi claim."
+  "result": "dat",
+  "notes": "Chưa kiểm được claim con gái/con dâu: tìm thấy bài nghiên cứu tiếng Việt (vjol.info.vn/index.php/vienncptbvvung/article/view/133375/109558 — curl lỗi kết nối; jos.husc.edu.vn/UPLOADS/numbers/82/1181_fulltext_10._xhh_-_nguyen_huu_minh.pdf và journalofscience.ou.edu.vn/index.php/soci-vi/article/download/2168/1773/9338 — tải được PDF nhưng máy không có công cụ trích chữ PDF); vnexpress.net/gia-khong-diem-tua-4832077.html 404; nhandan.vn/post-904726.html không có ý này. Kết quả tìm kiếm cho thấy có nghiên cứu nói con gái tham gia chăm sóc nhiều hơn con trai, nhưng cũng có nghiên cứu (Nguyễn Hữu Minh, Trần Quý Long) cho thấy con trai trợ giúp thường xuyên hơn ở một số mặt, nên cần đọc nguyên bản. Câu \"anh em\", \"các ông\"… là quan sát ngôn ngữ minh họa, không ghi claim. Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): claim con gái/con dâu đã kiểm được qua Giang et al. 2023 (Frontiers in Public Health, VNAS 2011; trang frontiersin.org tải bằng curl trong phiên, quote so khớp). Bài báo xác nhận phụ nữ (vợ, con gái, con dâu, cháu gái) chăm sóc nhiều hơn nam giới tương ứng và gánh nặng \"hidden and biased to women\", không được bù đắp; nhưng Bảng 3 cho thấy con trai (37,04%) chăm sóc ngang con dâu (34,67%), vợ/chồng 42,44% — nên \"chủ yếu do con gái và con dâu\" là nói quá. Lỗi nhẹ (ví dụ minh họa), fix dán thẳng được thay cả câu."
 }

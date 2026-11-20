@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tu-do-ngon-luan.md#tu-kiem-tra",
   "hash": "sha256:2d51fb1d19234f91198749a43da0b50872eee68e2ec0d448a93ec4958220a57c",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k05 + agent-kiem-5.8-r07",
   "claims": [
     {
       "text": "Câu 1 (dead dogma) đáp án 1",
@@ -39,6 +39,30 @@
       ]
     },
     {
+      "text": "Câu 3, lời giải: \"nhưng ông đặt bar rất cao: chỉ khi đối phương từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực/đe dọa\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Popper: xã hội khoan dung phải không khoan dung với sự không khoan dung. Ông chỉ chấp nhận đàn áp các triết lý không khoan dung khi đối phương từ chối tranh luận bằng lý lẽ và chuyển sang bạo lực/đe dọa — dù ông cũng muốn coi việc kích động sự không khoan dung là tội phạm. Ý kiến chỉ 'khó chịu' hay 'sai' thì vẫn phải được tranh luận.",
+      "sources": [
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise.",
+          "where": "tập 1, chương 7, chú thích 4 (bản OCR DLI)"
+        },
+        {
+          "url": "https://archive.org/download/in.ernet.dli.2015.187315/2015.187315.The-Open-Society-And-Its-Enemiesvol-1_djvu.txt",
+          "quote": "We should claim that any movement preaching intolerance places itself out- side the law, and we should consider incitement to intolerance and persecudon as criminal",
+          "where": "tập 1, chương 7, chú thích 4 (OCR giữ nguyên lỗi \"out- side\", \"persecudon\")"
+        }
+      ]
+    },
+    {
       "text": "Câu 4 (quyền được nói vs quyền được khuếch đại) đáp án 1",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -69,5 +93,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Năm câu: đáp án đúng khớp bài, các phương án sai rõ sai."
+  "notes": "Năm câu: đáp án đúng khớp bài, các phương án sai rõ sai. Lượt 2 (agent-kiem-5.8-r07, 2026-11-20): cùng loại \"Chỗ còn sót\" (Popper \"bar rất cao\"): lời giải câu 3 bỏ ý kích động không khoan dung là tội phạm (chú thích 4 ch.7) — sai nhẹ, fix là chuỗi explain thay thế (giữ nháy đơn trong JSON quiz). Đáp án và chỉ số answer không đổi."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/hanh-phuc.md#tu-kiem-tra",
   "hash": "sha256:312b97bb3d5bcdcbb754279f2e127c1315baff2d4efb68dc2859d1b3694d134e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k14",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k14 + agent-kiem-5.8-r08",
   "claims": [
     {
       "text": "Câu 1: Nozick dùng cỗ máy trải nghiệm để phản bác trực tiếp thuyết khoái lạc (đáp án 2); các phương án khác sai",
@@ -63,6 +63,21 @@
           "where": "mục 4.3"
         }
       ]
+    },
+    {
+      "text": "Câu 5: \"Phản bác mạnh nhất đối với thuyết danh sách khách quan là nguy cơ nào?\"; lời giải: \"Câu hỏi 'ai lập danh sách?' là tử huyệt\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"q\": \"Phản bác thường gặp đối với thuyết danh sách khách quan là nguy cơ nào?\"; \"explain\": \"Câu hỏi 'ai lập danh sách?' là một phản bác thường gặp: nếu triết gia, nhà nước hay cha mẹ được quyền định nghĩa điều tốt khách quan cho bạn, thì ranh giới giữa 'hiểu biết hơn' và 'áp đặt' trở nên mong manh — và lịch sử đầy những kẻ nhân danh điều tốt để áp đặt.\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "One common objection to objective list theories is that they are élitist, since they appear to be claiming that certain things are good for people, even if those people will not enjoy them, and do not even want them.",
+          "where": "mục 4.3"
+        }
+      ],
+      "fixed": false
     }
   ],
   "checklist": {
@@ -73,5 +88,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mọi đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 5 gọi là \"mạnh nhất\" (xem claim nhe ở _dau); ba phương án còn lại hiển nhiên sai nên không đổi đáp án."
+  "notes": "Mọi đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 5 gọi là \"mạnh nhất\" (xem claim nhe ở _dau); ba phương án còn lại hiển nhiên sai nên không đổi đáp án. Lượt 2 (chỗ còn sót, cùng loại): câu 5 vẫn hỏi \"Phản bác mạnh nhất\" và lời giải gọi là \"tử huyệt\", lệch với Tóm tắt đã sửa; ghi claim sai nhe kèm fix (không đổi đáp án, không đổi data-id)."
 }

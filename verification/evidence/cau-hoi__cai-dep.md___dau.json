@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-dep.md#_dau",
   "hash": "sha256:a4a2fb6e5eba5ca05c69b06df2f020e3e69bf21699463691acf0173bbcf2edc4",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k07",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k07 + agent-kiem-5.8-r05",
   "claims": [
     {
       "text": "[Hume](../triet-gia/hume.md) (1757): cái đẹp là cảm giác trong tâm trí người cảm nhận, nhưng có \"chuẩn mực của thị hiếu\" — ý kiến chung của những người phê bình lý tưởng (tinh tế, nhiều kinh nghiệm, hay so sánh, không thiên kiến, phán đoán lành mạnh).",
@@ -114,6 +114,24 @@
           "quote": "Immanuel Kant"
         }
       ]
+    },
+    {
+      "text": "có \"chuẩn mực của thị hiếu\" — ý kiến chung của những người phê bình lý tưởng (tinh tế, nhiều kinh nghiệm, hay so sánh, không thiên kiến, phán đoán lành mạnh).",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "có \"chuẩn mực của thị hiếu\" — phán quyết chung của những người phê bình đích thực (Hume gọi là *true judge*; giới nghiên cứu hay gọi là \"người phê bình lý tưởng\"): tinh tế, nhiều kinh nghiệm, hay so sánh, không thiên kiến, phán đoán lành mạnh.",
+      "sources": [
+        {
+          "url": "https://davidhume.org/texts/empl1/st",
+          "quote": "and the joint verdict of such, wherever they are to be found, is the true standard of taste and beauty.",
+          "where": "ST 23"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/",
+          "quote": "an interpretation that identifies the standard of taste with ideal critics. (The phrase does not appear in Hume.)"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -124,5 +142,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Tóm tắt khớp thân bài (mục Các lập trường chính và Giới triết học ngày nay nghĩ gì). Số liệu PhilPapers đối chiếu Bảng 1 của bài báo (bản lưu Wayback) và tools/philpapers-2020.md: 43,5 / 40,6, n ≈ 1.700."
+  "notes": "Tóm tắt khớp thân bài (mục Các lập trường chính và Giới triết học ngày nay nghĩ gì). Số liệu PhilPapers đối chiếu Bảng 1 của bài báo (bản lưu Wayback) và tools/philpapers-2020.md: 43,5 / 40,6, n ≈ 1.700.\nLượt 2 (agent-kiem-5.8-r05): đơn vị không đổi chữ. Theo \"chỗ còn sót\": Tóm tắt vẫn gọi chuẩn mực là \"ý kiến chung của những người phê bình lý tưởng\" như thể đó là chữ của Hume, lệch với thân bài đã sửa (Hume gọi là true judge, chuẩn mực là joint verdict; SEP ghi cụm \"ideal critics\" không có trong Hume). Ghi claim sai nhẹ kèm fix. Cùng cụm còn ở quiz câu 1 (lời giải), câu hỏi Tự viết, Liên hệ đời sống; đã có ngoặc kép hoặc là tên gọi phổ biến thân bài đã giải thích, không chấm riêng."
 }

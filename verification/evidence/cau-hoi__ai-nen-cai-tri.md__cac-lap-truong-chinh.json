@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/ai-nen-cai-tri.md#cac-lap-truong-chinh",
-  "hash": "sha256:fb2694597ae53fe0890481cafdad54dae14ab5f2b039f3ceb7fc5b654e2ff019",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k01",
+  "hash": "sha256:ae69ef3ba130dfaa989fc66b4600aac01f5ee5730842dcf1a53db6cc7e63898d",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k01 + agent-kiem-5.8-r02",
   "claims": [
     {
       "text": "Ông minh họa bằng hình ảnh con tàu (Quyển VI, 488a–489d): đám thủy thủ tranh nhau cầm lái, ai cũng cho mình xứng đáng, nhưng không ai chịu học nghệ thuật hàng hải; kẻ nào giúp họ giành tay lái từ chủ tàu — bằng thuyết phục hay bằng vũ lực — thì được họ tung hô là \"người đi biển giỏi\", rồi con tàu đi đâu thì đi.",
@@ -284,7 +284,24 @@
     {
       "text": "Ông cũng chỉ ra một sự không nhất quán: ta đòi bằng lái xe trước khi cho lái xe ..., đòi bằng hành nghề trước khi cho hành nghề y — nhưng lại không đòi bất kỳ năng lực nào trước khi cho quyết định vận mệnh quốc gia.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "exam, akin to a driver exam, which tests generally relevant",
+          "where": "Brennan 2011, 'The Right to a Competent Electorate', Philosophical Quarterly 61(245): 700–724, §III (bản PDF trên trang khóa học Đại học Colorado) — ví von bài thi cử tri với bài thi lái xe; Against Democracy (2016) phát triển cùng nguyên tắc năng lực"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "As a parallel, it would be unjust to exclude citizens from driving",
+          "where": "Brennan 2011, §I"
+        },
+        {
+          "url": "https://aeon.co/ideas/the-right-to-vote-should-be-restricted-to-those-with-knowledge",
+          "quote": "But we could instead view the franchise as no more significant than a plumbing or medical licence.",
+          "where": "Brennan, Aeon 29/9/2016 (bài của chính Brennan, xuất bản cùng Princeton UP) — ví von quyền bầu cử với giấy phép hành nghề y"
+        }
+      ]
     },
     {
       "text": "Phản bác lịch sử: mỗi lần trong lịch sử người ta đặt ra \"kiểm tra năng lực\" cho cử tri (như các bài kiểm tra đọc viết ở Mỹ thời phân biệt chủng tộc), nó đều biến thành công cụ loại trừ người nghèo và thiểu số.",
@@ -341,9 +358,45 @@
       ]
     },
     {
-      "text": "— cũng như ta không bỏ bằng lái xe chỉ vì từng có tham nhũng trong cấp bằng. Về \"công dân hạng hai\", ông nói: ta đã chấp nhận giới hạn tuổi bầu cử ... nếu tuổi tác là một tiêu chí năng lực hợp lệ, thì vì sao kiến thức lại không?",
+      "text": "Brennan đáp rằng lạm dụng trong quá khứ không chứng minh đề xuất nào cũng sẽ bị lạm dụng — cũng như ta không bỏ bằng lái xe chỉ vì từng có tham nhũng trong cấp bằng.",
       "kind": "dien-giai",
-      "verdict": "chua-kiem-duoc"
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "**Cách đáp lại.** Brennan đáp rằng lạm dụng trong quá khứ không chứng minh đề xuất nào cũng sẽ bị lạm dụng — cũng như nếu cấm ai đó lái xe chỉ vì họ vô thần là bất công, thì điều đó không có nghĩa là mọi điều kiện cấp bằng lái đều bất công.",
+      "sources": [
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "As a parallel, it would be unjust to exclude citizens from driving",
+          "where": "Brennan 2011, §I — ví von của chính Brennan là loại trừ vì lý do sai (vô thần), không phải tham nhũng trong cấp bằng"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "because they are atheists. However, even if that law would be unjust, it",
+          "where": "Brennan 2011, §I"
+        }
+      ]
+    },
+    {
+      "text": "Về \"công dân hạng hai\", ông nói: ta đã chấp nhận giới hạn tuổi bầu cử (trẻ em không được bỏ phiếu) mà không ai thấy đó là sỉ nhục — vì ta thừa nhận năng lực có liên quan đến quyền bầu cử. Câu hỏi chỉ là: nếu tuổi tác là một tiêu chí năng lực hợp lệ, thì vì sao kiến thức lại không?",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "Most democracies have voting-age laws. They require citizens to reach a",
+          "where": "Brennan 2011, §IV"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "practice is that children are not competent to rule. However, voting-age",
+          "where": "Brennan 2011, §IV — luật tuổi bầu cử cũng là tiêu chí năng lực, chịu cùng phản bác như bài thi cử tri"
+        },
+        {
+          "url": "https://rintintin.colorado.edu/~vancecd/phil215/Brennan.pdf",
+          "quote": "All modern democracies exclude children from voting",
+          "where": "Brennan 2011, §I"
+        }
+      ]
     },
     {
       "text": "Mỗi lập trường có đủ ba nhãn Lập luận mạnh nhất, Phản bác chính, Cách đáp lại",
@@ -362,8 +415,8 @@
     "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
-    "thuat-ngu": false
+    "thuat-ngu": true
   },
-  "result": "chua-kiem-duoc",
-  "notes": "Phạm vi 488a–489d: Perseus cho thấy hình ảnh bắt đầu ở 488a và phần áp dụng ở 489c; chấp nhận. Hai claim chua-kiem-duoc là phần gán cho Brennan ví von bằng lái xe / bằng hành nghề và lời đáp về tuổi bầu cử. Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe."
+  "result": "dat",
+  "notes": "Phạm vi 488a–489d: Perseus cho thấy hình ảnh bắt đầu ở 488a và phần áp dụng ở 489c; chấp nhận. Hai claim chua-kiem-duoc là phần gán cho Brennan ví von bằng lái xe / bằng hành nghề và lời đáp về tuổi bầu cử. Đã thử: SEP The Ethics and Rationality of Voting (fall2026, tác giả Jason Brennan; chỉ có ví von bồi thẩm đoàn, không có ví von bằng lái xe), trang Princeton UP của Against Democracy, OpenAlex (tóm tắt Brennan 2011 \"The Right to a Competent Electorate\"), aeon.co (trang JS, không có nội dung), Internet Archive againstdemocracy0000bren (bản mượn, không tìm được trong sách), Google Books API (hết hạn mức). Không tìm được văn bản Brennan dùng ví von bằng lái xe. Lượt 2: ba claim sai cũ (lớp thực tế, \"tri thức luận\", phản bác lịch sử) đã sửa đúng fix, giữ fixed; checklist thuat-ngu đặt true vì \"tri thức luận\" đã sửa. ví von bằng lái xe tìm được trong bài báo 2011 của chính Brennan ('The Right to a Competent Electorate', Phil. Quarterly; bản PDF trên trang khóa học rintintin.colorado.edu, đối chiếu Crossref): bài thi cử tri 'akin to a driver exam'; ví von giấy phép hành nghề y ở bài Aeon 2016 của Brennan; lập luận tuổi bầu cử ở Brennan 2011 §IV. Bài gán cho Against Democracy (2016); sách phát triển cùng nguyên tắc năng lực, chưa đối chiếu được trang sách — chấp nhận ở mức diễn giải. Tách claim Cách đáp lại: phần tuổi bầu cử dung (Brennan 2011 §IV); phần \"không bỏ bằng lái xe vì tham nhũng trong cấp bằng\" không có ở nguồn nào mở được, ví von thật của Brennan là cấm lái xe vì vô thần → sai nhẹ, kèm fix."
 }

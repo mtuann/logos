@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/bien-gioi-di-cu.md#doc-van-ban-goc",
-  "hash": "sha256:3e14358ed8a77c3d0b8f64ccd7fa958926818fbd053d38bd764196f8969b6b57",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k04",
+  "hash": "sha256:7abc7ba55aeaf8abe3665f72d138c552a2075993b5175b001ec99d7e51e8fa57",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k04 + agent-kiem-5.8-r06",
   "claims": [
     {
       "text": "bài báo \"Aliens and Citizens\" (1987) của Carens và Spheres of Justice (1983) của Walzer đều còn bản quyền",
@@ -78,6 +78,23 @@
           "quote": "Walzer’s position, notably his choice of analogies, has been extensively discussed."
         }
       ]
+    },
+    {
+      "text": "Carens (1987; 2013)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/immigration/",
+          "quote": "Following Joseph Carens (2013), I call those who have settled in a foreign country without authorization",
+          "where": "mục 3.4"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/immigration/",
+          "quote": "The Ethics of Immigration",
+          "where": "Thư mục"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -88,5 +105,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Phần diễn đạt lại được ghi rõ là tóm tắt, không trình bày như trích dẫn. Bản dịch Điều 13 đúng nghĩa."
+  "notes": "Phần diễn đạt lại được ghi rõ là tóm tắt, không trình bày như trích dẫn. Bản dịch Điều 13 đúng nghĩa.\nLượt 2: Câu diễn đạt lại của Carens đã đổi đúng chữ fix '(1987; 2013)'. Năm 2013 (The Ethics of Immigration) khớp SEP Immigration; Nguồn chưa có dòng này: ghi claim ở đơn vị #nguon."
 }

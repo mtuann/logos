@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/chien-tranh-chinh-dang.md#cac-lap-truong-chinh",
-  "hash": "sha256:d148c110592fd87fabd66688b3aac1fdf8632dfcc7dc800c9ba7d3fa494e27c7",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k04",
+  "hash": "sha256:7314454efa079f1f57cfa470af67692b6838c82203ffea1b286ccb9fa9e0302e",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k04 + agent-kiem-5.8-r06",
   "claims": [
     {
       "text": "Lập trường đầu tiên nói thẳng: không có cuộc chiến tranh nào chính đáng, kể cả tự vệ. … nhiều người trong số họ (như các nhà hoạt động bất bạo động) cho rằng có những cách chống lại cái ác hiệu quả hơn",
@@ -234,12 +234,12 @@
     }
   ],
   "checklist": {
-    "dung-nguon": false,
-    "manh-nhat": false,
+    "dung-nguon": true,
+    "manh-nhat": true,
     "phan-bac": true,
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Ba lập trường đều đủ ba nhãn. Lỗi chính: lý do Walzer đưa ra cho bình đẳng binh lính bị thay bằng lý do khác (lính bị ép, không chịu trách nhiệm); theo SEP, lập luận của Walzer là mọi người lính, chỉ bằng việc tham chiến, đều mất quyền không bị tấn công. Vì thế lập trường 3 chưa ở dạng mạnh nhất (manh-nhat false), và câu 'nguyên tắc sai về triết học' khiến Walzer như tự nhận thua."
+  "result": "dat",
+  "notes": "Ba lập trường đều đủ ba nhãn. Lỗi chính: lý do Walzer đưa ra cho bình đẳng binh lính bị thay bằng lý do khác (lính bị ép, không chịu trách nhiệm); theo SEP, lập luận của Walzer là mọi người lính, chỉ bằng việc tham chiến, đều mất quyền không bị tấn công. Vì thế lập trường 3 chưa ở dạng mạnh nhất (manh-nhat false), và câu 'nguyên tắc sai về triết học' khiến Walzer như tự nhận thua.\nLượt 2: Ba fix (Walzer 'xâm phạm quyền sống của những người vô tội', lý do 'người nguy hiểm', câu nhà xét lại) đã áp đúng chữ; fixed giữ true. dung-nguon và manh-nhat chuyển true (lý do của Walzer nay đúng SEP War, lập luận mạnh nhất không còn tự nhận thua)."
 }

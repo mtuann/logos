@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tai-san-rieng.md#gioi-triet-hoc-ngay-nay-nghi-gi",
-  "hash": "sha256:8e7d80834abd50d6dbd22deb9687ed7b4af5ed86ba86bf7b4547b31d11265218",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k03",
+  "hash": "sha256:78789ee5af0518018221b222b94d10502bcd4f323481a074a7d85249692caac9",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.8-k03 + agent-kiem-5.8-r06",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không hỏi thẳng \"quyền sở hữu tư nhân có chính đáng không\"",
@@ -124,6 +124,18 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "câu *bổ sung* \"Chính trị – kinh tế\" (được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://journals.publishing.umich.edu/phimp/article/id/2109/",
+          "quote": "one-sixth of the 1785 respondents, or about 300 respondents, were presented with the question as part of their mandatory 50 questions",
+          "where": "mục 3.2"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -133,6 +145,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "sua",
-  "notes": "Số liệu đúng câu khảo sát (shortcode lấy từ kho philpapers đã đóng băng; đã đối chiếu thêm Bảng 2 của bài báo). Câu \"Rất ít triết gia…\" là khái quát không có nguồn khảo sát; fix đề xuất dựa trên SEP."
+  "result": "dat",
+  "notes": "Số liệu đúng câu khảo sát (shortcode lấy từ kho philpapers đã đóng băng; đã đối chiếu thêm Bảng 2 của bài báo). Câu \"Rất ít triết gia…\" là khái quát không có nguồn khảo sát; fix đề xuất dựa trên SEP.\nLượt 2: Câu bổ sung không dùng đúng chữ fix mà viết '(được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm)'; đúng ý fix và khớp Bourget & Chalmers 2023 mục 3.2 (tải lại trong phiên), ghi claim dung mới; fixed giữ true. Câu 'Ngay trong luật học…' đúng chữ fix."
 }
