@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/hanh-phuc.md#tu-kiem-tra",
-  "hash": "sha256:10d71c0a8f48c3cd5d318f676f4a1398eb65461d84388d1f9d1f7294e8512c3f",
+  "hash": "sha256:7bd9b3aa20565621bd0460bc5c1516c1d1a8c6e5477e19e421f1d2204e662f4b",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k14 + agent-kiem-5.8-r08 + agent-kiem-5.8-q3",
+  "checker": "agent-kiem-5.8-k14 + agent-kiem-5.8-r08 + agent-kiem-5.8-q3 + claude-sau-mau-5.8",
   "claims": [
     {
       "text": "Câu 1: Nozick dùng cỗ máy trải nghiệm để phản bác trực tiếp thuyết khoái lạc (đáp án 2); các phương án khác sai",
@@ -78,6 +78,46 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Phương án sai của câu 4: \"Danh sách những điều tốt trong đời là giống nhau cho mọi nền văn hóa và mọi thời đại\"",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "vua",
+      "fix": "\"Danh sách những điều tốt của mỗi người do chính người đó lập ra: điều gì bạn muốn thì điều đó có trong danh sách của bạn\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "One common objection to objective list theories is that they are élitist, since they appear to be claiming that certain things are good for people, even if those people will not enjoy them, and do not even want them.",
+          "where": "4.3"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/hanh-phuc/",
+          "quote": "được nhiều nền văn hóa, nhiều thời đại cùng công nhận",
+          "where": "lập trường 3, Cách đáp lại"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Phản bác thường gặp đối với thuyết danh sách khách quan là ... Nguy cơ gia trưởng (paternalism) (answer 0)",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "\"Nguy cơ áp đặt từ trên xuống (bị chê là *élitist*): cho rằng có những điều tốt cho bạn dù bạn không thích, không muốn chúng — và từ đó dễ mở đường cho gia trưởng (paternalism), để người khác nhân danh 'điều tốt khách quan' áp đặt lên bạn những giá trị bạn không hề muốn\"",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "One common objection to objective list theories is that they are élitist",
+          "where": "4.3"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/well-being/",
+          "quote": "There is nothing logically to prevent one’s holding a highly élitist conception of well-being alongside a strict liberal view that forbade paternalistic interference of any kind",
+          "where": "5"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -88,5 +128,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mọi đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 5 gọi là \"mạnh nhất\" (xem claim nhe ở _dau); ba phương án còn lại hiển nhiên sai nên không đổi đáp án. Lượt 2 (chỗ còn sót, cùng loại): câu 5 vẫn hỏi \"Phản bác mạnh nhất\" và lời giải gọi là \"tử huyệt\", lệch với Tóm tắt đã sửa; ghi claim sai nhe kèm fix (không đổi đáp án, không đổi data-id).\nLượt 3: câu 5 quiz (bài và quiz-bank.json) đã áp đúng fix: 'Phản bác thường gặp', lời giải 'là một phản bác thường gặp'; đáp án và data-id không đổi; cập nhật text claim câu 5; giữ fixed."
+  "notes": "Mọi đáp án đúng, phương án sai rõ ràng sai, lời giải khớp bài. Câu 5 gọi là \"mạnh nhất\" (xem claim nhe ở _dau); ba phương án còn lại hiển nhiên sai nên không đổi đáp án. Lượt 2 (chỗ còn sót, cùng loại): câu 5 vẫn hỏi \"Phản bác mạnh nhất\" và lời giải gọi là \"tử huyệt\", lệch với Tóm tắt đã sửa; ghi claim sai nhe kèm fix (không đổi đáp án, không đổi data-id).\nLượt 3: câu 5 quiz (bài và quiz-bank.json) đã áp đúng fix: 'Phản bác thường gặp', lời giải 'là một phản bác thường gặp'; đáp án và data-id không đổi; cập nhật text claim câu 5; giữ fixed. Sau mẫu 5.8: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

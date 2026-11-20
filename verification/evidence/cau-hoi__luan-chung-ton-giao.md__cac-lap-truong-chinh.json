@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#cac-lap-truong-chinh",
-  "hash": "sha256:ccd821827cd467b90597bb538143c36feb22cff098304a09a9828ebc866529e1",
+  "hash": "sha256:9b76f5dee956a0e444828107386638a18de66ecdd2f2d241fe9239a1b20f2123",
   "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03 + agent-kiem-5.8-q1",
+  "checker": "agent-kiem-5.8-k08 + agent-kiem-5.8-r03 + agent-kiem-5.8-q1 + claude-sau-mau-5.8",
   "claims": [
     {
       "text": "### 1. Luận chứng vũ trụ luận: mọi sự đều có nguyên nhân",
@@ -484,6 +484,44 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "(ví dụ: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng)",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Đầy rẫy những thiết kế vụng về. (Một ví dụ hiện đại, không phải của Hume: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng.)",
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/20141229225657/http://www.nytimes.com/2014/11/09/opinion/sunday/prehistorys-brilliant-future.html",
+          "quote": "we can estimate that more than 99 percent of all species that ever lived are extinct",
+          "where": "nguồn yếu: bài bình luận của Michael Novacek (AMNH), New York Times 2014"
+        },
+        {
+          "url": "https://gutenberg.pglaf.org/cache/epub/4583/pg4583.txt",
+          "quote": "This world, for aught he knows, is very faulty and imperfect, compared to a superior standard",
+          "where": "Part V"
+        }
+      ],
+      "fixed": true
+    },
+    {
+      "text": "Hình pascal-wager (figcaption \"Canh bạc của Pascal (Pensées, 1670) ...\") đặt cuối mục Các lập trường chính",
+      "kind": "dien-giai",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "Ngoài ba luận chứng trên còn một lối đi khác hẳn: canh bạc của Pascal không chứng minh Thượng đế tồn tại, mà lập luận rằng tin là lựa chọn khôn ngoan (xem bài [Có nên tin mà không cần bằng chứng?](duc-tin-ly-tri.md)).",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/",
+          "quote": "Wager for God Gain all Status quo Wager against God Misery Status quo"
+        },
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/luan-chung-ton-giao/",
+          "quote": "Canh bạc của Pascal (Pensées, 1670)"
+        }
+      ],
+      "fixed": true
     }
   ],
   "checklist": {
@@ -494,5 +532,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cả ba luận chứng đủ ba nhãn. Chưa kiểm được: (1) gán cách đáp \"hòn đảo không có mức tối đa\" cho Alvin Plantinga — IEP (ont-arg) trình bày cách đáp này nhưng không ghi tên Plantinga (chỉ gọi ông là \"the most important contemporary defender of the argument\"); SEP Ontological Arguments và SEP Anselm không gán; bản số hóa God, Freedom, and Evil trên archive.org là bản tải lên không rõ quyền nên không dùng. Nếu không tìm được nguồn, câu chắc chắn hơn: \"Người bênh vực Anselm cho rằng phản ví dụ \"hòn đảo\" không tương đương: ...\". (2) Các ví dụ hiện đại về thiết kế vụng về, nhất là con số \"99% loài từng tồn tại đã tuyệt chủng\": SEP/IEP không có; đã thử education.nationalgeographic.org/resource/extinction/ và amnh.org (không có con số). Nếu không có nguồn, câu dè dặt: \"(ví dụ ngày nay hay dẫn: điểm mù của mắt người, phần lớn các loài từng sống đã tuyệt chủng)\" hoặc bỏ cả ngoặc. Ngoài ra phần ngoặc \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" không có nguồn, nên làm dè dặt hoặc bỏ.\nLượt 2: claim sai cũ (thân bài con đường 2, bảng) đã sửa đúng ý fix. Claim chưa kiểm được: (a) Plantinga và \"hòn đảo\" — SEP Ontological Arguments gán rõ cho Plantinga (\"no intrinsic maximum\", \"palm trees\") → dung; (b) \"điểm mù… tuyến tiền liệt… 99% loài\" — đã thử SEP Teleological Arguments, SEP Creationism, SEP Problem of Evil, IEP Design Arguments, IEP Evolution and Religion, Europe PMC (không có bài OA đáng tin), Britannica (chặn bot, không vượt); NHM London ghi \"About 98%\" (lệch 99%), không nguồn nào cho hai ví dụ giải phẫu → sai nhẹ, fix bỏ chi tiết. H3 \"mọi sự đều có nguyên nhân\" còn sót (con-sot) → sai vừa, cùng loại claim thân bài lượt 1. Ngoài claim: \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" vẫn không nguồn (lượt 1 đã ghi chú).\nLượt 3 (agent-kiem-5.8-q1): claim 0 (H3 \"Luận chứng vũ trụ luận: chuỗi nguyên nhân phải có điểm đầu\") và claim 19 (\"ví dụ: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng\") đã sửa đúng ý fix, khớp ST I q.2 a.3 (newadvent) và NHM London (\"About 98%\"). Không có chữ mới nào khác. Không còn lỗi vừa chưa sửa → dat."
+  "notes": "Cả ba luận chứng đủ ba nhãn. Chưa kiểm được: (1) gán cách đáp \"hòn đảo không có mức tối đa\" cho Alvin Plantinga — IEP (ont-arg) trình bày cách đáp này nhưng không ghi tên Plantinga (chỉ gọi ông là \"the most important contemporary defender of the argument\"); SEP Ontological Arguments và SEP Anselm không gán; bản số hóa God, Freedom, and Evil trên archive.org là bản tải lên không rõ quyền nên không dùng. Nếu không tìm được nguồn, câu chắc chắn hơn: \"Người bênh vực Anselm cho rằng phản ví dụ \"hòn đảo\" không tương đương: ...\". (2) Các ví dụ hiện đại về thiết kế vụng về, nhất là con số \"99% loài từng tồn tại đã tuyệt chủng\": SEP/IEP không có; đã thử education.nationalgeographic.org/resource/extinction/ và amnh.org (không có con số). Nếu không có nguồn, câu dè dặt: \"(ví dụ ngày nay hay dẫn: điểm mù của mắt người, phần lớn các loài từng sống đã tuyệt chủng)\" hoặc bỏ cả ngoặc. Ngoài ra phần ngoặc \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" không có nguồn, nên làm dè dặt hoặc bỏ.\nLượt 2: claim sai cũ (thân bài con đường 2, bảng) đã sửa đúng ý fix. Claim chưa kiểm được: (a) Plantinga và \"hòn đảo\" — SEP Ontological Arguments gán rõ cho Plantinga (\"no intrinsic maximum\", \"palm trees\") → dung; (b) \"điểm mù… tuyến tiền liệt… 99% loài\" — đã thử SEP Teleological Arguments, SEP Creationism, SEP Problem of Evil, IEP Design Arguments, IEP Evolution and Religion, Europe PMC (không có bài OA đáng tin), Britannica (chặn bot, không vượt); NHM London ghi \"About 98%\" (lệch 99%), không nguồn nào cho hai ví dụ giải phẫu → sai nhẹ, fix bỏ chi tiết. H3 \"mọi sự đều có nguyên nhân\" còn sót (con-sot) → sai vừa, cùng loại claim thân bài lượt 1. Ngoài claim: \"(và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng)\" vẫn không nguồn (lượt 1 đã ghi chú).\nLượt 3 (agent-kiem-5.8-q1): claim 0 (H3 \"Luận chứng vũ trụ luận: chuỗi nguyên nhân phải có điểm đầu\") và claim 19 (\"ví dụ: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng\") đã sửa đúng ý fix, khớp ST I q.2 a.3 (newadvent) và NHM London (\"About 98%\"). Không có chữ mới nào khác. Không còn lỗi vừa chưa sửa → dat. Sau mẫu 5.8: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
 }

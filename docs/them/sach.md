@@ -10927,7 +10927,7 @@ Một lưu ý về từ ngữ: "Thượng đế" (*God*) trong bài này đượ
 
     Bạn sẽ nghĩ gì? Hẳn là: có ai đó đã làm ra nó và đánh rơi ở đây. Bạn sẽ không nghĩ rằng gió, cát và sóng — qua hàng triệu năm — tình cờ lắp ráp được một chiếc đồng hồ đang chạy.
 
-    Giờ hãy nhìn lên: vũ trụ này, với các định luật vật lý khớp nhau đến kỳ lạ, với sự sống phức tạp đến mức một tế bào cũng tinh vi hơn mọi cỗ máy con người từng chế tạo.
+    Giờ hãy nhìn lên: vũ trụ này, với các định luật vật lý khớp nhau đến kỳ lạ, với sự sống phức tạp đến mức một tế bào thôi đã tinh vi hơn rất nhiều cỗ máy con người chế tạo.
 
     **Câu hỏi: nếu chiếc đồng hồ cần một người làm đồng hồ, thì vũ trụ có cần một "người làm vũ trụ" không? Hay sự so sánh này đánh lừa ta — vì vũ trụ không giống một chiếc đồng hồ ở những điểm quan trọng?**
 
@@ -10968,7 +10968,7 @@ Phiên bản hiện đại của luận chứng này là **lập luận tinh ch�
 
 **Lập luận mạnh nhất.** Đây là luận chứng *trực quan* nhất trong ba luận chứng — nó không đòi hỏi siêu hình học trừu tượng, chỉ đòi hỏi bạn nhìn vào sự tinh xảo của tự nhiên. Và phiên bản tinh chỉnh có thêm sức nặng của vật lý hiện đại: các hằng số không phải là chuyện triết gia tưởng tượng ra, mà là số liệu đo được.
 
-**Phản bác chính.** Hume (trước cả Paley) đã nêu hai phản bác đầu tiên dưới đây, đến nay vẫn được dùng; phản bác thứ ba thuộc về thời hiện đại. (1) Thế giới có thật sự giống một cỗ máy hoàn hảo không? Đầy rẫy những thiết kế vụng về (ví dụ: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng). Nếu đây là sản phẩm thiết kế, thì nhà thiết kế vụng về quá. (2) Từ một hiệu ứng, ta chỉ được suy ra nguyên nhân *vừa đủ* cho hiệu ứng đó — từ vũ trụ hữu hạn, ta không suy ra được một Đấng *vô hạn* toàn năng toàn thiện; có thể là nhiều vị thần, có thể là một vị thần non tay đang tập nghề. (3) Với phiên bản tinh chỉnh, nhiều người hiện đại đáp: có thể có vô số vũ trụ (đa vũ trụ), và ta đương nhiên thấy mình ở trong vũ trụ "trúng số" — như người trúng độc đắc không cần giải thích siêu nhiên cho việc mình trúng.
+**Phản bác chính.** Hume (trước cả Paley) đã nêu hai phản bác đầu tiên dưới đây, đến nay vẫn được dùng; phản bác thứ ba thuộc về thời hiện đại. (1) Thế giới có thật sự giống một cỗ máy hoàn hảo không? Đầy rẫy những thiết kế vụng về (một ví dụ hiện đại, không phải của Hume: phần lớn các loài từng sống trên Trái Đất đã tuyệt chủng). Nếu đây là sản phẩm thiết kế, thì nhà thiết kế vụng về quá. (2) Từ một hiệu ứng, ta chỉ được suy ra nguyên nhân *vừa đủ* cho hiệu ứng đó — từ vũ trụ hữu hạn, ta không suy ra được một Đấng *vô hạn* toàn năng toàn thiện; có thể là nhiều vị thần, có thể là một vị thần non tay đang tập nghề. (3) Với phiên bản tinh chỉnh, nhiều người hiện đại đáp: có thể có vô số vũ trụ (đa vũ trụ), và ta đương nhiên thấy mình ở trong vũ trụ "trúng số" — như người trúng độc đắc không cần giải thích siêu nhiên cho việc mình trúng.
 
 **Cách đáp lại.** Người bênh vực Paley đáp rằng những "thiết kế vụng về" có thể có lý do ta chưa hiểu (và nhiều cái từng bị gọi là vụng về sau này hóa ra có chức năng). Về đa vũ trụ: đó cũng chỉ là một giả thuyết chưa kiểm chứng được — dùng một giả thuyết siêu hình để bác một giả thuyết siêu hình khác thì chưa ai thắng ai. Cuộc tranh luận, đến nay, vẫn là cuộc đối đầu giữa hai **suy luận đến lời giải thích tốt nhất** (*inference to the best explanation*) cạnh tranh nhau.
 
@@ -10994,6 +10994,8 @@ Lập luận, nói gọn:
 | Vũ trụ luận (Aquinas) | Mọi thứ trong thế giới đều do cái khác gây ra; chuỗi nguyên nhân không lùi vô hạn được | Phải có nguyên nhân đầu tiên | Vì sao điểm dừng phải là Thượng đế mà không phải chính vũ trụ? (Hume) |
 | Mục đích luận (Paley) | Tự nhiên đầy cấu trúc tinh xảo | Phải có Đấng thiết kế | Thế giới đầy thiết kế vụng về (Hume); chọn lọc tự nhiên (Darwin); đa vũ trụ (phản bác hiện đại) |
 | Bản thể luận (Anselm) | Khái niệm "vĩ đại nhất có thể nghĩ" | Tồn tại trong thực tế | "Tồn tại" không phải là thuộc tính (Kant); phản ví dụ hòn đảo (Gaunilo) |
+
+Ngoài ba luận chứng trên còn một lối đi khác hẳn: canh bạc của Pascal không chứng minh Thượng đế tồn tại, mà lập luận rằng tin là lựa chọn khôn ngoan (xem bài [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)).
 
 <!-- fig:pascal-wager -->
 <figure class="oz-fig">
@@ -13480,7 +13482,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
   "options": [
    "Hạnh phúc của mỗi người hoàn toàn do người đó định nghĩa, không ai được can thiệp",
    "Chỉ có khoái cảm mới có giá trị tự thân",
-   "Danh sách những điều tốt trong đời là giống nhau cho mọi nền văn hóa và mọi thời đại",
+   "Danh sách những điều tốt của mỗi người do chính người đó lập ra: điều gì bạn muốn thì điều đó có trong danh sách của bạn",
    "Có những điều làm cho đời sống tốt một cách khách quan — như tri thức, tình bạn, thành tựu, tự chủ — độc lập với cảm giác và ước muốn của chủ thể"
   ],
   "answer": 3,
@@ -13489,7 +13491,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
  {
   "q": "Phản bác thường gặp đối với thuyết danh sách khách quan là nguy cơ nào?",
   "options": [
-   "Nguy cơ gia trưởng (paternalism): cho phép người khác nhân danh 'điều tốt khách quan' để áp đặt lên bạn những giá trị bạn không hề muốn",
+   "Nguy cơ áp đặt từ trên xuống (bị chê là *élitist*): cho rằng có những điều tốt cho bạn dù bạn không thích, không muốn chúng — và từ đó dễ mở đường cho gia trưởng (paternalism), để người khác nhân danh 'điều tốt khách quan' áp đặt lên bạn những giá trị bạn không hề muốn",
    "Nguy cơ khiến mọi người đều hạnh phúc như nhau",
    "Nguy cơ danh sách quá ngắn",
    "Nguy cơ mâu thuẫn với khoa học tự nhiên"
