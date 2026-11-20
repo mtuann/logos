@@ -12,14 +12,14 @@ block: y-nghia
 !!! summary "Tóm tắt 5 phút"
     - Thuyết khoái lạc ([Epicurus](../triet-gia/epicurus.md), [Bentham](../triet-gia/bentham.md), [Mill](../triet-gia/mill.md)): hạnh phúc là khoái cảm và sự vắng mặt của đau khổ (với Epicurus, cao nhất là thân không đau, tâm không xao động); bị [Nozick](../triet-gia/nozick.md) (1974) phản bác bằng cỗ máy trải nghiệm — nếu khoái cảm là tất cả thì cắm máy cả đời là hợp lý, nhưng hầu hết mọi người từ chối vì còn muốn "thực sự làm" và "thực sự là ai đó".
     - Thuyết thỏa mãn ước muốn: hạnh phúc là đạt được điều mình muốn (tôn trọng tự chủ); phiên bản tinh tế dùng "ước muốn có đầy đủ thông tin" để xử lý ước muốn sai lầm — người bị áp bức chỉ dám ước điều nhỏ, mua nhà rồi thấy trống rỗng.
-    - Thuyết danh sách khách quan (cách gọi của [Parfit](../triet-gia/parfit.md)): có những điều tốt dù bạn có muốn hay không — tri thức, tình bạn, thành tựu, tự chủ...; phản bác mạnh nhất là nguy cơ gia trưởng: ai có quyền lập danh sách hộ bạn?
+    - Thuyết danh sách khách quan (cách gọi của [Parfit](../triet-gia/parfit.md)): có những điều tốt dù bạn có muốn hay không — tri thức, tình bạn, thành tựu, tự chủ...; phản bác thường gặp là nguy cơ gia trưởng: ai có quyền lập danh sách hộ bạn?
     - PhilPapers 2020: [[pp:may-trai-nghiem-co-vao-khong.khong]]% triết gia từ chối vào máy trải nghiệm, chỉ [[pp:may-trai-nghiem-co-vao-khong.co]]% đồng ý — một dữ kiện mạnh chống lại thuyết khoái lạc ở dạng thô sơ nhất; câu hỏi bổ sung về phúc lợi (*well-being*) hỏi đúng ba họ lý thuyết của Parfit: danh sách khách quan [[pp:phuc-loi-well-being.danh-sach-khach-quan]]%, thỏa mãn ước muốn [[pp:phuc-loi-well-being.thoa-man-uoc-muon]]%, khoái lạc/trải nghiệm [[pp:phuc-loi-well-being.khoai-lac-trai-nghiem]]%.
 
 "Hạnh phúc nhé!" — người ta chúc nhau điều này trong đám cưới, năm mới, sinh nhật, như thể ai cũng biết hạnh phúc là gì. Nhưng hỏi vặn lại thì lúng túng ngay: hạnh phúc là *cảm thấy* vui sướng? Là *đạt được* điều mình muốn? Hay là *sống* một đời sống tốt — dù cảm giác ra sao?
 
 Ba câu trả lời đó nghe na ná nhau, nhưng chúng khác nhau một trời một vực. Một người nghiện ma túy *cảm thấy* sung sướng nhưng khó gọi là hạnh phúc. Một người đạt được mọi điều mình muốn rồi thấy trống rỗng — anh ta có hạnh phúc không? Và một người sống ngay thẳng, có ích, nhưng cả đời vất vả lo toan — có ai dám nói đời anh ta *không* hạnh phúc?
 
-Chữ "hạnh phúc" là Hán Việt: *hạnh* (幸, may mắn) + *phúc* (福, điều tốt lành, phúc đức). Ngay trong gốc chữ đã có sự mơ hồ: hạnh phúc là *may mắn được hưởng* (trời cho), hay là *trạng thái tốt đẹp* do mình tạo ra? Tiếng Anh cũng vậy: *happiness* gốc từ *hap* — sự may rủi, ngẫu nhiên. Còn tiếng Hy Lạp cổ dùng một từ hoàn toàn khác: *eudaimonia* (*eu* = tốt + *daimon* = linh hồn, vận mệnh) — không phải "cảm thấy vui" mà là "sống một đời sống viên mãn, tốt đẹp". Hai nghìn năm triết học về hạnh phúc, phần lớn là cuộc tranh luận giữa hai nghĩa này: hạnh phúc là *cảm giác* của chủ thể, hay là *phẩm chất* của đời sống?
+Chữ "hạnh phúc" là Hán Việt: *hạnh* (幸, may mắn) + *phúc* (福, điều tốt lành, phúc đức). Ngay trong gốc chữ đã có sự mơ hồ: hạnh phúc là *may mắn được hưởng* (trời cho), hay là *trạng thái tốt đẹp* do mình tạo ra? Tiếng Anh cũng vậy: *happiness* gốc từ *hap* — sự may rủi, ngẫu nhiên. Còn tiếng Hy Lạp cổ dùng một từ hoàn toàn khác: *eudaimonia* (*eu* = tốt + *daimon* = thần linh, vận mệnh) — không phải "cảm thấy vui" mà là "sống một đời sống viên mãn, tốt đẹp". Hai nghìn năm triết học về hạnh phúc, phần lớn là cuộc tranh luận giữa hai nghĩa này: hạnh phúc là *cảm giác* của chủ thể, hay là *phẩm chất* của đời sống?
 
 ## Thí nghiệm tư duy {#thi-nghiem-tu-duy}
 
@@ -86,7 +86,7 @@ Lập trường thứ ba — mà Parfit gọi là *thuyết danh sách khách qu
 
 ## Giới triết học ngày nay nghĩ gì {#gioi-triet-hoc-ngay-nay-nghi-gi}
 
-Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp liên quan đến bài này: một câu chính (hỏi mọi người tham gia) về cỗ máy trải nghiệm của Nozick — "bạn có bước vào cỗ máy trải nghiệm không?" — và một câu bổ sung (chỉ hỏi những người chọn trả lời thêm) về **phúc lợi** (*well-being*), với ba lựa chọn đúng là ba họ lý thuyết của Parfit.
+Khảo sát PhilPapers 2020 có hai câu hỏi trực tiếp liên quan đến bài này: một câu chính (hỏi mọi người tham gia) về cỗ máy trải nghiệm của Nozick — "bạn có bước vào cỗ máy trải nghiệm không?" — và một câu bổ sung (hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm) về **phúc lợi** (*well-being*), với ba lựa chọn đúng là ba họ lý thuyết của Parfit.
 
 | Câu hỏi | Lựa chọn | % |
 |---|---|---|
