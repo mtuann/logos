@@ -71,7 +71,7 @@ Lập luận trung tâm của *Le Deuxième Sexe* (1949), theo cách tái dựng
 
 1. Bergoffen, Debra & Megan Burke, “Simone de Beauvoir”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/beauvoir/>
 2. Mikkola, Mari, "Feminist Perspectives on Sex and Gender", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-gender/>
-3. Beauvoir, Simone de, *Le Deuxième Sexe*, 2 tập, Paris: Gallimard, 1949.
+3. Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.
 4. Beauvoir, Simone de, *Pour une morale de l'ambiguïté*, Paris: Gallimard, 1947.
 
 ---

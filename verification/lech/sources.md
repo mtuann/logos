@@ -2,8 +2,8 @@
 
 Sinh bằng `python tools/kb_sources.py`. Đầu vào cho đợt 5: không sửa trong đợt 2.
 
-- 954 mục Nguồn (trang viết tay + hồ sơ) → 702 bản ghi.
-- Theo loại: cbeta 3, ctext 24, doi 59, gutenberg 55, iep 37, khac 79, sach 214, sep 187, wikisource 44.
+- 954 mục Nguồn (trang viết tay + hồ sơ) → 699 bản ghi.
+- Theo loại: cbeta 3, ctext 24, doi 59, gutenberg 55, iep 37, khac 79, sach 211, sep 187, wikisource 44.
 - 238 mục không có URL (sách in, hoặc thiếu link).
 
 ## Cùng một nguồn, chữ khác nhau (0)

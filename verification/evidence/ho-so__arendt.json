@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/arendt",
-  "hash": "sha256:a406023715a34d4147e0f50503f2ed1fe657c536bd5fc5e5a039a66147db8698",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r08",
+  "hash": "sha256:a55858d3814109d1c224dbb6e715f74d2893db5af942eb3d07ef64846e285221",
+  "checked_on": "2026-11-20",
+  "checker": "agent-kiem-5.3-r08 + claude-doi-loi-5.9",
   "claims": [
     {
       "text": "Năm sinh 1906, mất 1975",
@@ -446,8 +446,14 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.arendt-hannah-eichmann-in-jerusalem-a-report-on-the-banality"
+    },
+    {
+      "text": "Dòng Nguồn ghi theo quy ước chung (quyết định 36): Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.arendt-hannah-1963-eichmann-in-jerusalem-a-report-on-the-ban"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r08): 5 claim còn mở thành dung, 1 claim sai mức nhẹ. (5) SEP Arendt 6.1: bà nhận đưa tin vì muốn biết kẻ gây 'radical evil' trông thế nào; 'a curious, quite authentic inability to think' (TMC 1971, tr. 417; nguyên văn ở Responsibility and Judgment) — câu này từ bài 'Thinking and Moral Considerations', không phải từ Eichmann in Jerusalem. (16) Lời bạt người biên tập của The Life of the Mind: mất ngày 4/12/1975; căn hộ ở New York. (17) câu đánh giá: SEP 'The Concept of Evil' nêu các tác giả cho rằng tư tưởng Arendt 'particularly pertinent today' (cũng ghi Card, Calder phản bác), và hướng nghiên cứu 'administrative evil' (Adams & Balfour) áp dụng vào bộ máy hành chính. (24) SEP 6.2: 'the silent dialogue of me and myself'. (28) câu 'This is the reason, and the only reason, you must hang' (EJ tr. 279, qua Pirro 2001, Lipstadt 2011); SEP: 'banality' mô tả tính cách, động cơ người làm, không phải bản chất việc làm. (31) SEP nói cụm từ chỉ xuất hiện thêm một lần (EJ tr. 252), nhưng Lời bạt bản in lần hai (bản Penguin hiện hành) dùng lại 'when I speak of the banality of evil' — sai nhẹ, fix là câu viết lại. --- Kiểm 5.3 (agent-kiem-5.3-h03): SEP và IEP mở bằng trình duyệt. Các claim chua-kiem-duoc là chi tiết cần văn bản gốc Eichmann in Jerusalem (cụm banality, án tử hình), ngày mất, lời dẫn 'bất lực kỳ lạ'. Claim related: URL theo mẫu, tiêu đề đọc từ file repo (them/tu-dien: 'Từ điển thuật ngữ'). Lưu ý: sources/sep.arendt trong kho ghi url không có 'archives/fall2026' còn text của hồ sơ có. | 10/11/2026 (sổ sách, Claude): misread 2 viết lại đúng câu fix (Lời bạt dùng lại cụm từ), đánh dấu fixed; cập nhật mã băm, không mở lại nguồn."
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r08): 5 claim còn mở thành dung, 1 claim sai mức nhẹ. (5) SEP Arendt 6.1: bà nhận đưa tin vì muốn biết kẻ gây 'radical evil' trông thế nào; 'a curious, quite authentic inability to think' (TMC 1971, tr. 417; nguyên văn ở Responsibility and Judgment) — câu này từ bài 'Thinking and Moral Considerations', không phải từ Eichmann in Jerusalem. (16) Lời bạt người biên tập của The Life of the Mind: mất ngày 4/12/1975; căn hộ ở New York. (17) câu đánh giá: SEP 'The Concept of Evil' nêu các tác giả cho rằng tư tưởng Arendt 'particularly pertinent today' (cũng ghi Card, Calder phản bác), và hướng nghiên cứu 'administrative evil' (Adams & Balfour) áp dụng vào bộ máy hành chính. (24) SEP 6.2: 'the silent dialogue of me and myself'. (28) câu 'This is the reason, and the only reason, you must hang' (EJ tr. 279, qua Pirro 2001, Lipstadt 2011); SEP: 'banality' mô tả tính cách, động cơ người làm, không phải bản chất việc làm. (31) SEP nói cụm từ chỉ xuất hiện thêm một lần (EJ tr. 252), nhưng Lời bạt bản in lần hai (bản Penguin hiện hành) dùng lại 'when I speak of the banality of evil' — sai nhẹ, fix là câu viết lại. --- Kiểm 5.3 (agent-kiem-5.3-h03): SEP và IEP mở bằng trình duyệt. Các claim chua-kiem-duoc là chi tiết cần văn bản gốc Eichmann in Jerusalem (cụm banality, án tử hình), ngày mất, lời dẫn 'bất lực kỳ lạ'. Claim related: URL theo mẫu, tiêu đề đọc từ file repo (them/tu-dien: 'Từ điển thuật ngữ'). Lưu ý: sources/sep.arendt trong kho ghi url không có 'archives/fall2026' còn text của hồ sơ có. | 10/11/2026 (sổ sách, Claude): misread 2 viết lại đúng câu fix (Lời bạt dùng lại cụm từ), đánh dấu fixed; cập nhật mã băm, không mở lại nguồn. [doi-loi] Dòng Nguồn sách in ghi theo quy ước chung (năm sau tên tác giả; quyết định 36, việc 7.1.1); bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

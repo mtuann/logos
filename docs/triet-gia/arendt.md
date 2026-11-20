@@ -67,7 +67,7 @@ Bài học bà rút ra từ phiên xử Eichmann (*Eichmann in Jerusalem*, 1963;
 1. Tömmel, Tatjana & Maurizio Passerin d’Entreves, “Hannah Arendt”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/arendt/>
 2. Yar, Majid, “Arendt, Hannah”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/arendt/>
 3. Arendt, Hannah, *The Human Condition*, Chicago: University of Chicago Press, 1958.
-4. Arendt, Hannah, *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press, 1963.
+4. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.
 
 ---
 
