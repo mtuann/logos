@@ -9289,7 +9289,7 @@ Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 ??? question "Sau khi bạn đã tự trả lời"
     Một biến thể để thử thêm: giả sử có một kỳ trưng cầu dân ý về một vấn đề kỹ thuật phức tạp — ví dụ: có nên xây nhà máy điện hạt nhân ở tỉnh X không. Hầu hết cử tri không hiểu gì về vật lý hạt nhân, quản lý chất thải phóng xạ, hay mô hình kinh tế năng lượng. Lá phiếu của họ lúc đó thể hiện điều gì — ý chí, hay sự mù mờ? Và nếu là sự mù mờ, thì quyết định ấy có chính đáng hơn quyết định của một hội đồng chuyên gia không?
 
-    Biến thể thứ hai, từ phía ngược lại: giả sử ta đồng ý để "người hiểu biết" cai trị. Ai là người quyết định ai "hiểu biết"? Một bài kiểm tra? Ai ra đề? Trong lịch sử, mỗi lần ai đó được quyền định nghĩa "hiểu biết", định nghĩa ấy đều trùng hợp một cách kỳ lạ với lợi ích của chính họ.
+    Biến thể thứ hai, từ phía ngược lại: giả sử ta đồng ý để "người hiểu biết" cai trị. Ai là người quyết định ai "hiểu biết"? Một bài kiểm tra? Ai ra đề? Trong lịch sử, đã nhiều lần người được quyền định nghĩa "hiểu biết" định nghĩa nó sao cho trùng hợp một cách kỳ lạ với lợi ích của chính họ.
 
 ## Câu hỏi thật sự là gì?
 
@@ -9417,7 +9417,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Kêu gọi xóa bỏ bầu cử"
   ],
   "answer": 2,
-  "explain": "Truyền thống Churchill–Popper không hứa hẹn dân chủ cho ra quyết định đúng; nó hứa hẹn một cơ chế loại bỏ chính quyền tồi không đổ máu, và chỉ ra rằng mọi phiên bản 'người hiểu biết cai trị' trong lịch sử đều biến thành độc tài vì không ai canh chừng được họ."
+  "explain": "Truyền thống Churchill–Popper không hứa hẹn dân chủ cho ra quyết định đúng; nó hứa hẹn một cơ chế loại bỏ chính quyền tồi không đổ máu, và nhắc rằng những phiên bản 'người hiểu biết cai trị' trong lịch sử dễ trượt thành độc tài vì không ai canh chừng được họ."
  },
  {
   "q": "Đề xuất epistocracy của Brennan (Against Democracy, 2016) dựa trên lập luận nào?",
@@ -9434,12 +9434,12 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
   "q": "Phản bác 'ai ra đề?' nhắm vào điểm yếu nào của epistocracy?",
   "options": [
    "In đề thi tốn kém",
-   "Không có cách trung lập để định nghĩa và đo 'hiểu biết chính trị' — người ra đề sẽ (có ý thức hay không) thiết kế bài kiểm tra có lợi cho phe mình; lịch sử các bài kiểm tra cử tri cho thấy chúng luôn biến thành công cụ loại trừ người nghèo và thiểu số",
+   "Không có cách trung lập để định nghĩa và đo 'hiểu biết chính trị' — người ra đề sẽ (có ý thức hay không) thiết kế bài kiểm tra có lợi cho phe mình; lịch sử các bài kiểm tra cử tri cho thấy chúng đã nhiều lần bị biến thành công cụ loại trừ người nghèo và thiểu số",
    "Người hiểu biết không thích đi bỏ phiếu",
    "Bài kiểm tra nào cũng quá dễ"
   ],
   "answer": 1,
-  "explain": "Đây là phản bác mạnh nhất: 'hiểu biết' không phải tiêu chí khách quan như tuổi tác — nó có thể bị thao túng. Kẻ nắm quyền ra đề nắm quyền định nghĩa ai là 'công dân hạng nhất', và lịch sử cho thấy quyền này luôn bị lạm dụng."
+  "explain": "Đây là phản bác mạnh nhất: 'hiểu biết' không phải tiêu chí khách quan như tuổi tác — nó có thể bị thao túng. Kẻ nắm quyền ra đề nắm quyền định nghĩa ai là 'công dân hạng nhất', và lịch sử cho thấy quyền này đã nhiều lần bị lạm dụng."
  }
 ]
 </script>
