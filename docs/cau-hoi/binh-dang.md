@@ -30,7 +30,7 @@ Chữ "bình đẳng" trong tiếng Việt dịch từ *equality*, gốc Latin *
 Hãy dừng lại, tự trả lời trước khi đọc tiếp.
 
 ??? question "Sau khi bạn đã tự trả lời"
-    Một biến thể để thử thêm: giả sử người cờ bạc đã cai nghiện thành công và đang làm lại từ đầu — bạn có đổi ý không? Và biến thể ngược lại: giả sử người bị tai nạn trước đó là triệu phú, còn khoản trợ cấp thì có hạn — bạn có còn thấy "chia đều" là công bằng? Hầu hết mọi người sẽ trả lời khác nhau ở ba tình huống, và sự khác nhau đó cho thấy ta không thật sự tin vào "bình đẳng tuyệt đối" — ta tin vào một nguyên tắc tinh tế hơn mà ta chưa gọi tên.
+    Một biến thể để thử thêm: giả sử người cờ bạc đã cai nghiện thành công và đang làm lại từ đầu — bạn có đổi ý không? Và biến thể ngược lại: giả sử người bị tai nạn trước đó là triệu phú, còn khoản trợ cấp thì có hạn — bạn có còn thấy "chia đều" là công bằng? Nhiều người sẽ trả lời khác nhau ở ba tình huống, và nếu bạn cũng vậy, thì sự khác nhau đó cho thấy bạn không thật sự tin vào "bình đẳng tuyệt đối" — bạn tin vào một nguyên tắc tinh tế hơn mà mình chưa gọi tên.
 
 ## Câu hỏi thật sự là gì? {#cau-hoi-that-su-la-gi}
 
@@ -185,7 +185,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Cho mọi người xuất phát với cùng tài nguyên và hỏi họ sẽ mua bảo hiểm chống may rủi ở mức nào nếu không biết mình có gặp rủi ro không — mức đó chính là mức mà xã hội công bằng nên bảo đảm"
   ],
   "answer": 3,
-  "explain": "Bảo hiểm giả định là cách Dworkin biến trực giác 'bù đắp may rủi' thành con số chính sách cụ thể, đồng thời đáp lại cáo buộc 'tàn nhẫn': người có lý trí sẽ mua bảo hiểm cả cho những sai lầm tương lai của chính mình."
+  "explain": "Bảo hiểm giả định là cách Dworkin biến trực giác 'bù đắp may rủi' thành con số chính sách cụ thể: xã hội bù đắp may rủi thuần túy ở mức mà người có lý trí sẽ tự mua bảo hiểm nếu chưa biết mình có gặp rủi ro hay không."
  }
 ]
 </script>
