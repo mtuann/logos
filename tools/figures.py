@@ -847,7 +847,7 @@ def fig_ho_khai_niem() -> str:
 
 def fig_vietnam_timeline() -> str:
     ticks = [90, 198, 306, 414, 522, 630]
-    years = ["TK 13", "đầu TK 20", "1919", "1951", "1950–60", "1996"]
+    years = ["TK 13", "đầu TK 20", "1919", "1951", "1950–60", "1994"]
     labels = ["Trúc Lâm Yên Tử", "Phong trào Duy Tân", "Khoa cử cuối cùng",
               "Trần Đức Thảo", "Hiện sinh ở miền Nam", "Trần Đình Hượu"]
     parts = [
@@ -872,7 +872,7 @@ def fig_vietnam_timeline() -> str:
                     "Trục thời gian: Trúc Lâm Yên Tử (thế kỷ 13), phong trào "
                     "Duy Tân (đầu thế kỷ 20), khoa cử cuối cùng (1919), "
                     "Trần Đức Thảo (1951), hiện sinh ở miền Nam, "
-                    "Trần Đình Hượu (1996)")
+                    "Trần Đình Hượu (1994)")
 
 
 def fig_hanh_phuc_may() -> str:
@@ -1068,7 +1068,7 @@ FIGURES = {
         "make": fig_ho_khai_niem,
     },
     "vietnam-timeline": {
-        "alt": "Trục thời gian: Trúc Lâm Yên Tử (thế kỷ 13), phong trào Duy Tân (đầu thế kỷ 20), khoa cử cuối cùng (1919), Trần Đức Thảo (1951), hiện sinh ở miền Nam (1950–60), Trần Đình Hượu (1996)",
+        "alt": "Trục thời gian: Trúc Lâm Yên Tử (thế kỷ 13), phong trào Duy Tân (đầu thế kỷ 20), khoa cử cuối cùng (1919), Trần Đức Thảo (1951), hiện sinh ở miền Nam (1950–60), Trần Đình Hượu (1994)",
         "caption": "Sáu mốc của triết học Việt Nam trên một trục — từ thiền phái Trúc Lâm đến câu hỏi \"đến hiện đại từ truyền thống\" của Trần Đình Hượu.",
         "make": fig_vietnam_timeline,
     },
