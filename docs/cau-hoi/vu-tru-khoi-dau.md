@@ -121,7 +121,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 
 **Khoa học và tôn giáo có nhất thiết xung đột?** Bài này cho thấy câu trả lời là không — ít nhất không phải ở câu hỏi này. Lập trường 1 *dùng* khoa học (Big Bang, định lý BGV) để bênh vực một kết luận gần với tôn giáo; lập trường 2 và 3 cũng *dùng* khoa học để đi đến kết luận ngược lại. Xung đột thực sự không phải giữa "khoa học" và "tôn giáo" như hai khối, mà nằm ở những tiền đề triết học cụ thể: nguyên lý nhân quả có áp dụng cho toàn thể vũ trụ không? "Giải thích" phải dừng ở đâu? Đó là những câu hỏi mà kính thiên văn không trả lời thay bạn được.
 
-**Khi ai đó nói "khoa học đã chứng minh..."** Lần tới khi bạn nghe ai đó tuyên bố "khoa học đã chứng minh vũ trụ có khởi đầu, vậy có Thượng đế" (hoặc ngược lại, "khoa học đã chứng minh không cần Thượng đế"), hãy thử tách tuyên bố đó theo ba câu hỏi ở đầu bài: phần nào là kết quả khoa học (vũ trụ giãn nở), phần nào là tiền đề triết học (mọi khởi đầu cần nguyên nhân), phần nào là bước nhảy (nguyên nhân đó là Thượng đế)? Hầu hết các cuộc tranh cãi nảy lửa về chủ đề này thực ra là hai người đồng ý về khoa học nhưng bất đồng về triết học — mà không hay.
+**Khi ai đó nói "khoa học đã chứng minh..."** Lần tới khi bạn nghe ai đó tuyên bố "khoa học đã chứng minh vũ trụ có khởi đầu, vậy có Thượng đế" (hoặc ngược lại, "khoa học đã chứng minh không cần Thượng đế"), hãy thử tách tuyên bố đó theo ba câu hỏi ở đầu bài: phần nào là kết quả khoa học (vũ trụ giãn nở), phần nào là tiền đề triết học (mọi khởi đầu cần nguyên nhân), phần nào là bước nhảy (nguyên nhân đó là Thượng đế)? Nhiều cuộc tranh cãi nảy lửa về chủ đề này thực ra là hai người đồng ý về khoa học nhưng bất đồng về triết học — mà không hay.
 
 ## Tự kiểm tra {#tu-kiem-tra}
 
@@ -185,7 +185,7 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
    "Hữu thần 18,9% / Vô thần 66,9%"
   ],
   "answer": 3,
-  "explain": "Con số chính xác: hữu thần 18,9%, vô thần 66,9%. Lưu ý câu này hỏi về hữu thần/vô thần nói chung, không hỏi riêng về lập luận Kalam; ở câu bổ sung hỏi luận chứng nào mạnh nhất, vũ trụ luận — họ của Kalam — được chọn nhiều nhất (20,9%)."
+  "explain": "Con số chính xác: hữu thần 18,9%, vô thần 66,9%. Lưu ý câu này hỏi về hữu thần/vô thần nói chung, không hỏi riêng về lập luận Kalam; ở câu bổ sung hỏi luận chứng nào mạnh nhất, vũ trụ luận — họ của Kalam — được chọn nhiều nhất trong các luận chứng được nêu tên (20,9%)."
  }
 ]
 </script>
