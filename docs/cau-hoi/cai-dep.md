@@ -119,7 +119,7 @@ Khảo sát PhilPapers 2020 hỏi thẳng câu hỏi của bài này: giá trị
 | | Khoái cảm | [[pp:trai-nghiem-tham-my.khoai-cam]] |
 | | Khác | [[pp:trai-nghiem-tham-my.khac]] |
 
-\* Câu hỏi bổ sung, chỉ hỏi những người chọn trả lời thêm, nên ít người trả lời hơn nhiều.
+\* Câu hỏi bổ sung (mỗi câu bổ sung được hỏi một phần sáu số người tham gia, chọn ngẫu nhiên, cộng với những người tự chọn trả lời thêm), nên ít người trả lời hơn nhiều.
 
 Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprint* 23. Số liệu là tỉ lệ người "chấp nhận hoặc nghiêng về" mỗi lựa chọn; một người có thể chọn nhiều đáp án nên tổng có thể vượt 100%.
 
@@ -130,7 +130,7 @@ Nguồn: PhilPapers Survey 2020 (Bourget & Chalmers 2023), *Philosophers' Imprin
 - **Câu về trải nghiệm thẩm mỹ hỏi chuyện khác:** trải nghiệm ấy là một dạng tri giác, một dạng khoái cảm, hay một loại riêng không quy về hai thứ kia. Ý của Kant về sự thích thú "vô vụ lợi" có liên quan, nhưng câu hỏi không nhắc tới Kant, nên đừng đọc [[pp:trai-nghiem-tham-my.dac-thu-rieng-sui-generis]]% là tỉ lệ ủng hộ Kant.
 - **Mẫu khảo sát** là khoảng [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp, chủ yếu ở các nước nói tiếng Anh, trả lời cuối năm 2020; nó không đại diện cho mọi truyền thống mỹ học, chẳng hạn mỹ học phương Đông.
 
-Ngoài con số, có thể nói rằng tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của hầu hết giáo trình mỹ học đương đại.
+Ngoài con số, tranh luận Hume–Kant vẫn là điểm xuất phát quen thuộc của nhiều giáo trình mỹ học.
 
 Một hướng phát triển đáng chú ý: mỹ học thực nghiệm (*experimental aesthetics*) ngày nay dùng tâm lý học và thần kinh học để nghiên cứu xem não bộ phản ứng thế nào trước cái đẹp — nhưng các triết gia vẫn tranh cãi liệu những phát hiện đó trả lời được câu hỏi triết học hay chỉ mô tả lại nó bằng ngôn ngữ khác. Và câu hỏi của Hume về "người phê bình lý tưởng" vẫn còn nguyên giá trị: trong thời đại thuật toán, ai mới là người rèn luyện thị hiếu của ta?
 
