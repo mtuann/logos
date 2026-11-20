@@ -13,7 +13,7 @@ block: sieu-hinh
 
     - Luận điểm chính: "ngày hôm qua bây giờ ở đâu?" — McTaggart ("The Unreality of Time", 1908) phân biệt chuỗi A (quá khứ–hiện tại–tương lai, có sự "trôi" nhưng mâu thuẫn) với chuỗi B (chỉ trước–sau, không mâu thuẫn nhưng không có "trôi"), rồi kết luận thời gian như ta hiểu không thật.
     - Ba lập trường: hiện tại luận — chỉ hiện tại là thật, "trôi" chính là bản chất của thời gian (vấp thuyết tương đối: không có "hiện tại" chung cho cả vũ trụ); vĩnh cửu luận — quá khứ, hiện tại, tương lai đều thật như nhau, vũ trụ là khối thời gian bốn chiều, "hiện tại" giống "ở đây" (vấp: tương lai đã có sẵn thì còn tự do không?); thuyết khối đang lớn — quá khứ và hiện tại thật, tương lai chưa, vũ trụ không ngừng đắp thêm lớp "hiện tại" mới.
-    - Thái độ của bài: tranh luận sau hơn một thế kỷ vẫn chưa ngã ngũ (PhilPapers 2020: thuyết B [[pp:thoi-gian.thuyet-b]]% vs thuyết A [[pp:thoi-gian.thuyet-a]]%; vĩnh cửu luận [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]%, hiện tại luận [[pp:ban-the-luan-thoi-gian.hien-tai-luan]]%, khối đang lớn [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]]%); câu đố "thời gian trôi nhanh bao nhiêu?" (một giây mỗi giây là tỉ số vô nghĩa) cho thấy chữ "trôi" có thể chỉ là ẩn dụ đánh lừa ta.
+    - Thái độ của bài: tranh luận sau hơn một thế kỷ vẫn chưa ngã ngũ (PhilPapers 2020: thuyết B [[pp:thoi-gian.thuyet-b]]% vs thuyết A [[pp:thoi-gian.thuyet-a]]%; vĩnh cửu luận [[pp:ban-the-luan-thoi-gian.vinh-cuu-luan]]%, hiện tại luận [[pp:ban-the-luan-thoi-gian.hien-tai-luan]]%, khối đang lớn [[pp:ban-the-luan-thoi-gian.thuyet-khoi-dang-lon]]%); câu đố "thời gian trôi nhanh bao nhiêu?" (theo J. J. C. Smart, "một giây mỗi giây" là tỉ số vô nghĩa, dù có triết gia phản bác) cho thấy chữ "trôi" có thể chỉ là ẩn dụ đánh lừa ta.
 
 Bạn đang đọc câu này. Câu trước bạn vừa đọc xong — nó ở "quá khứ". Câu sau bạn sắp đọc — nó ở "tương lai". Nghe hiển nhiên quá, có gì mà hỏi?
 
@@ -70,7 +70,7 @@ Theo phe này, McTaggart đúng một nửa: ông đúng rằng chỉ quan hệ 
 
 **Phản bác chính.** Nếu chỉ hiện tại tồn tại, thì câu "khủng long từng tồn tại" đúng dựa vào cái gì? Một khẳng định đúng thường cần một *thứ có thật* làm cho nó đúng — nhưng theo hiện tại luận, khủng long không còn thật nữa. Phe đối lập cũng hỏi: thuyết tương đối của Einstein cho thấy "hiện tại" không phải là tuyệt đối — hai quan sát viên chuyển động khác nhau sẽ không đồng ý về việc điều gì đang "đồng thời". Nếu không có một "hiện tại" chung cho cả vũ trụ, hiện tại luận biết bám vào đâu?
 
-**Cách đáp lại.** Người theo hiện tại luận đáp rằng khẳng định về quá khứ đúng nhờ *dấu vết* của quá khứ trong hiện tại: hóa thạch, ký ức, tài liệu. Không cần khủng long còn tồn tại thì câu "khủng long từng tồn tại" mới đúng. Về thuyết tương đối, một số người chấp nhận rằng vật lý hiện đại gây khó cho hiện tại luận — nhưng cho rằng đó là vấn đề của vật lý, hoặc rằng có thể xây dựng một phiên bản hiện tại luận tương thích với nó.
+**Cách đáp lại.** Người theo hiện tại luận có vài cách đáp. Có người tìm thứ làm cho câu đúng ngay trong hiện tại: theo John Bigelow, câu "khủng long từng tồn tại" đúng nhờ thế giới *bây giờ* có một tính chất ở thì quá khứ, tính chất "đã từng chứa khủng long". Có người dùng những "thời điểm thay thế" trừu tượng, mô tả thế giới đã từng như thế nào. Có người phủ nhận rằng mọi câu đúng đều cần một thứ có thật làm cho nó đúng. Hóa thạch, ký ức, tài liệu cho ta *biết* về quá khứ, nhưng chưa đủ làm cho câu đúng, vì nhiều sự thật về quá khứ không để lại dấu vết nào. Về thuyết tương đối, một số người theo hiện tại luận đề xuất một cách hiểu khác về vật lý (cách hiểu "tân Lorentz", giữ một sự đồng thời tuyệt đối mà ta không quan sát được), số khác tìm cách xây dựng một phiên bản hiện tại luận tương thích với thuyết tương đối; cả hai hướng đều còn bị phản đối mạnh.
 
 ### 2. Vĩnh cửu luận: quá khứ, hiện tại, tương lai đều thật như nhau
 
@@ -102,7 +102,7 @@ Dù sao, sự tồn tại của lập trường thứ ba cho thấy tranh luận
 
 Dù đứng về phe nào, hãy thử trả lời một câu hỏi tưởng chừng ngớ ngẩn: thời gian trôi *nhanh bao nhiêu*?
 
-Mọi sự "trôi" hay "chuyển động" khác đều có tốc độ: xe chạy 60 km/h, nghĩa là mỗi giờ đi được 60 km. Vậy thời gian trôi với tốc độ nào? Câu trả lời duy nhất có vẻ hợp lý là: một giây mỗi giây. Nhưng "một giây mỗi giây" là một tỉ số vô nghĩa — tử số và mẫu số triệt tiêu nhau, như nói xe chạy "60 km mỗi 60 km".
+Mọi sự "trôi" hay "chuyển động" khác đều có tốc độ: xe chạy 60 km/h, nghĩa là mỗi giờ đi được 60 km. Vậy thời gian trôi với tốc độ nào? Câu trả lời duy nhất có vẻ hợp lý là: một giây mỗi giây. Nhưng theo J. J. C. Smart, "một giây mỗi giây" là một tỉ số vô nghĩa — tử số và mẫu số triệt tiêu nhau, như nói xe chạy "60 km mỗi 60 km". (Không phải ai cũng đồng ý: John Norton và Tim Maudlin cho rằng tốc độ "một giây mỗi giây" vẫn có nghĩa.)
 
 Câu đố này, được nhiều triết gia nhắc lại, cho thấy chữ "trôi" trong "thời gian trôi" có thể là một ẩn dụ đánh lừa ta. Khi ta nói "dòng sông trôi", sông trôi *trong* không gian và *theo* thời gian. Nhưng thời gian thì trôi *trong* cái gì, *theo* cái gì? Nếu không trả lời được, có lẽ "trôi" không phải là một mô tả đúng về thời gian — mà chỉ là cách ngôn ngữ của ta, vốn sinh ra để nói về chuyển động trong không gian, cố gắng nói về một thứ không phải chuyển động.
 
@@ -207,3 +207,4 @@ Gợi ý độ dài: 150–300 chữ.
 4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 6. Gustavsson, Kent, "Charlie Dunbar Broad", *Stanford Encyclopedia of Philosophy* (về thuyết khối đang lớn). <https://plato.stanford.edu/archives/fall2026/entries/broad/>
+7. Dowden, Bradley, "Time", *Internet Encyclopedia of Philosophy* (về thuyết khối đang lớn và câu đố "một giây mỗi giây"). <https://iep.utm.edu/time/>
