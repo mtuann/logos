@@ -2,16 +2,9 @@
 
 Sinh bằng `python tools/lint_lien_ket.py --write`. Phạm vi: Lõi viết tay. Lần đầu nhắc một triết gia đã có hồ sơ thì đặt link tới trang hồ sơ (README, "Thêm nội dung"); sửa trong đợt con của trang (ban-giao/dot-5.md).
 
-**2 chỗ** ở **1 trang/file**. Chế độ cảnh báo: chưa chặn CI.
+**0 chỗ** ở **0 trang/file**. Chế độ cảnh báo: chưa chặn CI.
 
 | Luật | Nghĩa | Số chỗ |
 |---|---|---:|
-| `thieu-link` | bài nhắc triết gia đã có hồ sơ mà không link tới trang hồ sơ | 2 |
+| `thieu-link` | bài nhắc triết gia đã có hồ sơ mà không link tới trang hồ sơ | 0 |
 | `mien-thua` | mục miễn không còn khớp chỗ nào | 0 |
-
-## Chi tiết
-
-| Vị trí | Đơn vị | Luật | Tìm thấy | Ghi chú |
-|---|---|---|---|---|
-| `cau-hoi/bien-gioi-di-cu.md:49` | `cau-hoi/bien-gioi-di-cu.md#cac-lap-truong-chinh` | `thieu-link` | Nozick (nozick) | đặt link ở lần nhắc đầu: [Robert Nozick](../triet-gia/nozick.md) |
-| `cau-hoi/bien-gioi-di-cu.md:49` | `cau-hoi/bien-gioi-di-cu.md#cac-lap-truong-chinh` | `thieu-link` | Rawls (rawls) | đặt link ở lần nhắc đầu: [John Rawls](../triet-gia/rawls.md) |

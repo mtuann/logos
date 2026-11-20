@@ -63,7 +63,7 @@ Lập luận trong mục “How Liberty Upsets Patterns” của *Anarchy, State
 - [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md)
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)
 
-**Các bài khác nhắc tới Robert Nozick:** [Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằng nhau?](../cau-hoi/binh-dang.md), [AI thay đổi con người thế nào? Triết học công nghệ](../cau-hoi/cong-nghe-ai.md), [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md).
+**Các bài khác nhắc tới Robert Nozick:** [Quốc gia có quyền đóng cửa biên giới không?](../cau-hoi/bien-gioi-di-cu.md), [Bình đẳng nghĩa là gì: cơ hội bằng nhau hay kết quả bằng nhau?](../cau-hoi/binh-dang.md), [AI thay đổi con người thế nào? Triết học công nghệ](../cau-hoi/cong-nghe-ai.md), [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md).
 
 ## Nguồn
 

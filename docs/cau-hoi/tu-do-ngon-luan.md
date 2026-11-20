@@ -76,7 +76,7 @@ Popper thận trọng giới hạn: ông không kêu gọi cấm mọi ý kiến
 
 **Phản bác chính.** Phản bác lớn nhất: ai là người định nghĩa "không khoan dung"? Trong thực tế, mọi chính quyền muốn bịt miệng đối lập đều tuyên bố đối lập là "kẻ thù của tự do", "mối đe dọa cho xã hội khoan dung". Nghịch lý khoan dung, từ một nguyên tắc triết học tinh tế, rất dễ biến thành giấy phép vạn năng: gắn nhãn "không khoan dung" cho bất kỳ ai mình không ưa rồi cấm. Một phản bác khác: cấm đoán có thể là dấu hiệu của yếu thế hơn là của khôn ngoan — một xã hội tự tin vào tranh luận công khai thì ít cần đến nó.
 
-**Cách đáp lại.** Người bênh vực Popper đáp rằng chính vì nguy cơ lạm dụng mà Popper mới đặt bar rất cao: chỉ khi đối phương *từ chối tranh luận bằng lý lẽ* và chuyển sang bạo lực hoặc đe dọa dùng quyền lực bịt miệng người khác. Một ý kiến chỉ "khó chịu", "sai trái", hay "xúc phạm" thì chưa đủ — nó vẫn phải được tranh luận, theo đúng tinh thần của Mill. Nghịch lý khoan dung không phải là giấy phép cấm đoán rộng rãi; nó là *van an toàn cuối cùng*, chỉ dùng khi con tàu sắp chìm.
+**Cách đáp lại.** Người bênh vực Popper đáp rằng chính vì nguy cơ lạm dụng mà Popper mới đặt ngưỡng rất cao: chỉ khi đối phương *từ chối tranh luận bằng lý lẽ* và chuyển sang bạo lực hoặc đe dọa dùng quyền lực bịt miệng người khác. Một ý kiến chỉ "khó chịu", "sai trái", hay "xúc phạm" thì chưa đủ — nó vẫn phải được tranh luận, theo đúng tinh thần của Mill. Nghịch lý khoan dung không phải là giấy phép cấm đoán rộng rãi; nó là *van an toàn cuối cùng*, chỉ dùng khi con tàu sắp chìm.
 
 ### 3. Phê phán từ phía "ngôn từ gây hại": lời nói cũng là hành động
 
