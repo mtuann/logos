@@ -314,9 +314,29 @@ def on_config(config, **kwargs):
     return config
 
 
+def core_status(ctx: dict) -> tuple[int, int]:
+    """(số mục Lõi đã kiểm, tổng số mục Lõi trong sổ): mọi đơn vị trang tầng `loi` (khóa có #)."""
+    pages = ctx.get("pages", {})
+    units = [u for k, u in ctx.get("ledger", {}).items()
+             if "#" in k and pages.get(k.split("#", 1)[0], {}).get("tier") == "loi"]
+    return sum(1 for u in units if u.get("status") in DONE), len(units)
+
+
+def home_strip(ctx: dict) -> str:
+    """Trang chủ (đợt 6.4): một dòng về tình trạng kiểm chứng của Lõi, dẫn tới trang Kiểm chứng. Phần sinh."""
+    done, total = core_status(ctx)
+    if not total:
+        return ""
+    head = ("Toàn bộ phần Lõi đã được kiểm chứng" if done == total else "Phần Lõi đang được kiểm chứng")
+    return (f'<p class="oz-home-kiem" data-oz-sinh data-search-exclude>{head}: {done}/{total} mục, mỗi mục có '
+            f'bằng chứng từ nguồn đã mở. <a href="them/kiem-chung/">Xem tình trạng kiểm chứng →</a></p>')
+
+
 def on_page_content(html_text, page, config, files, **kwargs):
     if page.is_homepage:
-        return html_text
+        strip = home_strip(_ctx)
+        i = html_text.find('<div class="oz-daily"')
+        return html_text[:i] + strip + html_text[i:] if strip and i >= 0 else html_text
     trail = [a.title for a in reversed(page.ancestors) if getattr(a, "title", None)]
     strip = info_strip(page.file.src_uri, trail, page.meta.get("updated"), html_text, _ctx,
                        new=is_new(_ctx["pages"].get(page.file.src_uri), page.meta),

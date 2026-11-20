@@ -237,3 +237,19 @@ class TestNgoac(unittest.TestCase):
         self.assertEqual(ngoac.on_post_page(html, None, None),
                          '<html><head><title>a "b"</title></head><body dir="ltr" class="x"><p>“c”</p></body></html>')
 
+
+class TestTrangChu(unittest.TestCase):
+    """Đợt 6.4: dòng tình trạng kiểm chứng của Lõi trên trang chủ (phần sinh)."""
+
+    def test_home_strip(self):
+        ctx = {"pages": {"a.md": {"tier": "loi"}, "b.md": {"tier": "mo-rong"}},
+               "ledger": {"a.md#x": {"status": "frozen"}, "a.md#y": {"status": "chua-kiem"},
+                          "b.md#z": {"status": "chua-kiem"}, "people/p": {"status": "frozen"}}}
+        self.assertEqual(kb.core_status(ctx), (1, 2))
+        s = kb.home_strip(ctx)
+        self.assertIn("data-oz-sinh", s)
+        self.assertIn("1/2 mục", s)
+        self.assertIn("đang được kiểm chứng", s)
+        ctx["ledger"]["a.md#y"]["status"] = "da-kiem"
+        self.assertIn("Toàn bộ phần Lõi đã được kiểm chứng: 2/2", kb.home_strip(ctx))
+
