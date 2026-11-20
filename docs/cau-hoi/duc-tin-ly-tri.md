@@ -116,7 +116,7 @@ Con số [[pp:thuong-de.huu-than]]% vs [[pp:thuong-de.vo-than]]% vẫn đáng su
 
 ## Liên hệ đời sống {#lien-he-doi-song}
 
-**Tin vào con người: không bao giờ có "đủ bằng chứng".** Bạn tin người yêu sẽ chung thủy, tin đối tác làm ăn sẽ giữ chữ tín — nhưng làm sao *chứng minh* được điều chưa xảy ra? Clifford nghiêm khắc sẽ nói: hãy thu thập bằng chứng (quan sát, tìm hiểu) trước khi tin. Kierkegaard sẽ nói: đến một lúc nào đó, bằng chứng đã cạn mà bạn vẫn phải chọn — và tình yêu nào cũng chứa một bước nhảy. Câu hỏi thực tế: bạn đang "nhảy" sau khi đã tìm hiểu hết sức, hay đang dùng "bước nhảy" làm cái cớ để khỏi tìm hiểu?
+**Tin vào con người: không bao giờ có "đủ bằng chứng".** Bạn tin người yêu sẽ chung thủy, tin đối tác làm ăn sẽ giữ chữ tín — nhưng làm sao *chứng minh* được điều chưa xảy ra? Clifford nghiêm khắc sẽ nói: hãy thu thập bằng chứng (quan sát, tìm hiểu) trước khi tin. Kierkegaard sẽ nói: đến một lúc nào đó, bằng chứng đã cạn mà bạn vẫn phải chọn — và tình yêu nào cũng đòi một sự dấn thân. Câu hỏi thực tế: bạn đang dấn thân sau khi đã tìm hiểu hết sức, hay đang dùng sự dấn thân làm cái cớ để khỏi tìm hiểu?
 
 **Tin đồn sức khỏe và cái giá của niềm tin vô căn cứ.** Tin rằng vắc-xin gây hại, rằng một loại "thuốc nam thần kỳ" chữa được ung thư — những niềm tin này không chỉ hại người tin. Chúng lây lan, chúng khiến người khác từ chối điều trị, và chúng làm ô nhiễm đúng cái "tài sản tri thức chung" mà Clifford nói đến. Đây là nơi lập trường của Clifford mạnh nhất: khi niềm tin của bạn có thể giết người khác, thì "tôi có quyền tin" không còn là câu trả lời đủ.
 
@@ -138,11 +138,11 @@ Thử xem bạn nắm được đến đâu. Các câu hỏi tập trung vào *l
   "options": [
    "Đức tin luôn phải phục tùng đạo đức và lý trí",
    "Abraham là tấm gương của sự vâng lời mù quáng mà ai cũng nên noi theo",
-   "Đức tin đích thực đòi hỏi một bước nhảy vượt lên trên cả lý trí lẫn đạo đức — dấn thân vào điều không thể chứng minh, trong sợ hãi và run rẩy chứ không phải trong sự chắc chắn thoải mái",
+   "Đức tin đích thực không giải thích được bằng lý lẽ đạo đức chung mà ai cũng hiểu: với người đứng ngoài, nó trông “phi lý” — một sự dấn thân vào điều không thể chứng minh, chứ không phải sự chắc chắn thoải mái",
    "Lý trí cuối cùng cũng chứng minh được mọi điều của đức tin"
   ],
   "answer": 2,
-  "explain": "Điểm của Kierkegaard: Abraham không có bằng chứng và không có biện minh đạo đức cho việc hiến tế Isaac — ông chỉ có sự dấn thân. Đức tin thật đi kèm dằn vặt và run rẩy; sự chắc chắn tuyệt đối, thanh thản lại là dấu hiệu của cuồng tín, không phải của đức tin."
+  "explain": "Trong Kính sợ và run rẩy (bút danh Johannes de Silentio), Abraham không có bằng chứng và không giải thích được việc mình làm bằng lý lẽ đạo đức chung mà ai cũng hiểu; điều làm nên đức tin của ông là lòng tin cậy rằng ông sẽ nhận lại Isaac, điều mà người đứng ngoài thấy là phi lý. Đức tin ấy không phải sự vâng lời mù quáng hay sự chắc chắn thoải mái."
  },
  {
   "q": "Ví dụ người chủ tàu của Clifford nhằm chứng minh điều gì?",
@@ -214,7 +214,7 @@ Gợi ý độ dài: 200–350 chữ.
 ??? tip "Tiêu chí tự đánh giá"
     - Niềm tin bạn chọn có cụ thể và là của chính bạn không (đừng chọn ví dụ mà bạn chỉ là khán giả)?
     - Bạn có trình bày được luận điểm đặc trưng của cả ba lập trường khi áp vào niềm tin đó, chứ không chỉ nhắc tên?
-    - Bạn có phân biệt được *tin*, *hy vọng*, và *hành động như thể tin* (phân biệt của Clifford) trong trường hợp của mình không?
+    - Bạn có phân biệt được *tin*, *hy vọng*, và *hành động như thể tin* (phân biệt mà người theo Clifford dùng để đáp James) trong trường hợp của mình không?
     - Bạn có trung thực về cái giá của lăng kính mình chọn (mỗi lập trường đều có điểm mù — xem lại các phản bác)?
 
 ## Nguồn {#nguon}
