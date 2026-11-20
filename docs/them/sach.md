@@ -8385,6 +8385,7 @@ Mục SEP "John Locke": thời điểm viết và in *Two Treatises*.
 5. Bertram, Christopher, "Jean Jacques Rousseau", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/rousseau/>
 6. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
 7. Uzgalis, William, “John Locke”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke/>
+8. Anderson, Elizabeth (2017), *Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It)*, Princeton: Princeton University Press.
 
 <div class="oz-page-break"></div>
 
