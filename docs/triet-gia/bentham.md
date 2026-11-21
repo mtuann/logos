@@ -62,7 +62,7 @@ Trong một chú thích ở chương XVII cuốn *Dẫn nhập…*, Bentham hỏ
 
 **Ảnh hưởng tới:** [J. S. Mill](mill.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Ăn thịt có sai không? Đạo đức học ứng dụng](../cau-hoi/dao-duc-ung-dung.md)
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)

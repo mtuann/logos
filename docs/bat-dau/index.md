@@ -113,7 +113,7 @@ Russell kết thúc cuốn sách nhỏ của mình bằng một đoạn mà hơn
 
 Bạn không cần đồng ý với phần cuối đầy hào hứng của Russell. Nhưng ý ở giữa đáng suy nghĩ: những câu hỏi tốt làm *vơi bớt sự quả quyết giáo điều* — điều hiếm hoi trong một thời mà ai cũng vội có ý kiến. Muốn đọc chậm cả chương này, xem [hướng dẫn đọc "Giá trị của triết học"](../doc/russell-gia-tri.md).
 
-## Đọc Logos thế nào? {#doc-logos-zero-the-nao}
+## Đọc Logos thế nào? {#doc-logos-the-nao}
 
 Không có cách đọc "đúng", chỉ có vài gợi ý.
 

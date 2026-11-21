@@ -63,7 +63,7 @@ Ta thường hỏi một hành động có đạo đức không. Nietzsche hỏi
 
 **Ảnh hưởng tới:** [Heidegger](heidegger.md), [Sartre](sartre.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)
 

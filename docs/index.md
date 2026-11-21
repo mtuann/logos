@@ -7,7 +7,7 @@ hide:
 tier: he-thong
 ---
 
-# Logos {#logos-zero}
+# Logos {#logos}
 
 <div class="oz-hero" markdown>
 <p class="oz-hero__kicker">Triết học, bắt đầu từ con số 0</p>
@@ -104,7 +104,7 @@ tier: he-thong
 
 Socrates nói câu ấy trước tòa án Athens, khi đang bị xét xử và có thể bị tử hình. Ông không bảo rằng ai không đọc triết học thì sống vô nghĩa. Ông bảo rằng việc tự hỏi mình đang sống vì điều gì, và vì sao, là một phần của sống cho ra sống. Bạn đồng ý không? Vì sao?
 
-## Logos là gì {#logos-zero-la-gi}
+## Logos là gì {#logos-la-gi}
 
 - **Không đứng về phía nào** ở những câu hỏi còn mở. Mỗi lập trường được trình bày ở phiên bản mạnh nhất của nó, kèm phản bác và cách đáp lại.
 - **Nói rõ mức đồng thuận**, dựa trên [Khảo sát PhilPapers 2020](cau-hoi/index.md#gioi-triet-hoc-nghi-gi) với [[pp:khao-sat/nguoi-tra-loi]] triết gia chuyên nghiệp.

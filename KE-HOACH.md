@@ -86,6 +86,7 @@ Quyết định còn "chờ" thì agent dùng phương án **Đề xuất** và 
 | 37 | Hướng thiết kế đợt 6 | Chỉnh trên nền hiện có: giữ màu, font, Material; làm lại nhịp chữ, bố cục bài, trang chủ | Nhận diện mới hoàn toàn; chỉ việc kỹ thuật | **Chỉnh trên nền hiện có** (chủ biên chọn 20/11/2026) |
 | 38 | Tìm kiếm tiếng Việt (đợt 6) | Sửa worker của site: từ ≤ 2 chữ cái không thêm `*` | Pagefind | **Sửa worker** (chủ biên chọn 20/11/2026) |
 | 39 | Kiểu ngoặc kép hiển thị (quyết định 26) | Ngoặc cong `“ ”` khi hiển thị, đổi lúc build bằng hook; nguồn không đổi | Giữ như bài | **Ngoặc cong** (chủ biên chọn 20/11/2026) |
+| 40 | Chữ "Logos Zero" và anchor `logos-zero` còn trên site (quyết định 27 giữ anchor cũ) | Bỏ hết: anchor trang chủ, `bat-dau`, mục "Đọc thêm trên Logos" của trang triết gia, sách in đổi sang `logos`; thông báo lỗi nhập bản sao lưu chỉ nói "Logos" (vẫn nhận bản sao lưu cũ của logos-zero); link sâu cũ tới các anchor này mở đầu trang | Giữ anchor cũ | **Bỏ hết** (chủ biên yêu cầu 21/11/2026) |
 
 ## 4. Kiến trúc
 

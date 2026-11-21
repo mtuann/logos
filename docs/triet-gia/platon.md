@@ -62,7 +62,7 @@ Platon rải lập luận này qua nhiều đối thoại (*Phaedo*, *Cộng hò
 
 **Ảnh hưởng tới:** [Aristotle](aristotle.md), [Augustine](augustine.md), [Jean-Jacques Rousseau](rousseau.md), [Karl Popper](popper.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Đọc ẩn dụ hang động (Platon, "Cộng hòa" VII)](../doc/platon-hang-dong.md)
 - [Cái đỏ của hoa hồng và cái đỏ của máu: phổ quát có thật không?](../cau-hoi/pho-quat.md)

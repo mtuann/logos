@@ -63,7 +63,7 @@ Thiên “Tính ác” mở đầu bằng một luận đề như đáp thẳng 
 
 **Ảnh hưởng tới:** [Hàn Phi](han-phi.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)
 - [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md)

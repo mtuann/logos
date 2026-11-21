@@ -60,7 +60,7 @@ Vua Tuyên nước Tề thấy người ta dắt một con trâu đi giết lấ
 
 **Ảnh hưởng tới:** [Tuân Tử](tuan-tu.md), [Chu Hy](chu-hy.md), [Nguyễn Trãi](nguyen-trai.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

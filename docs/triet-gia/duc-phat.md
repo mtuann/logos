@@ -63,7 +63,7 @@ Trong *Kinh Vô ngã tướng* (SN 22.59), Đức Phật lần lượt hỏi nă
 
 **Ảnh hưởng tới:** [Nagarjuna](nagarjuna.md), [Tuệ Trung Thượng Sĩ](tue-trung.md), [Trần Nhân Tông](tran-nhan-tong.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md)
 - [Cái 'tôi' là gì? Bạn của mười năm trước có còn là bạn?](../cau-hoi/cai-toi.md)

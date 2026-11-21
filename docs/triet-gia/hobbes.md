@@ -63,7 +63,7 @@ Theo cách tái dựng phổ biến của *Leviathan*, chương 13–17:
 
 **Ảnh hưởng tới:** [John Locke](locke.md), [Spinoza](spinoza.md), [Leibniz](leibniz.md), [David Hume](hume.md), [Jean-Jacques Rousseau](rousseau.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

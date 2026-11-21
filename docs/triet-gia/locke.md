@@ -61,7 +61,7 @@ Thời Locke, nhiều người tin một số chân lý như “cái gì có th�
 
 **Ảnh hưởng tới:** [Leibniz](leibniz.md), [David Hume](hume.md), [Jean-Jacques Rousseau](rousseau.md), [J. S. Mill](mill.md), [John Rawls](rawls.md), [Robert Nozick](nozick.md), [Derek Parfit](parfit.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Tài sản riêng có chính đáng không?](../cau-hoi/tai-san-rieng.md)

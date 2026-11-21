@@ -62,7 +62,7 @@ SEP lưu ý Nagarjuna không có một “lập luận chủ chốt” duy nhấ
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Ấn Độ: giải thoát khỏi khổ đau](../lich-su/an-do.md)
 - [Hướng dẫn đọc Bát nhã Tâm kinh](../doc/tam-kinh.md)

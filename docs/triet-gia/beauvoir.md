@@ -62,7 +62,7 @@ Lập luận trung tâm của *Le Deuxième Sexe* (1949), theo cách tái dựng
 
 **Ảnh hưởng tới:** [Sartre](sartre.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Triết học nữ quyền là gì?](../cau-hoi/nu-quyen.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

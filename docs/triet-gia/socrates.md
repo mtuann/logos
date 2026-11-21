@@ -59,7 +59,7 @@ Trong *Euthyphro* của Platon (10a–11b), ngay trước phiên tòa, Euthyphro
 
 **Ảnh hưởng tới:** [Platon](platon.md), [Zeno xứ Citium](zeno.md), [Epictetus](epictetus.md), [Kierkegaard](kierkegaard.md), [Nietzsche](nietzsche.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Đọc "Biện hộ của Socrates" (Platon)](../doc/platon-bien-ho.md)
 - [Phép biện chứng Socrates](../cong-cu/bien-chung-socrates.md)

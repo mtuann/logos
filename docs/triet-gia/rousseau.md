@@ -63,7 +63,7 @@ Vì sao còn đọc Rousseau? Vì ông hỏi câu mà mọi nền chính trị h
 
 **Ảnh hưởng tới:** [Immanuel Kant](kant.md), [Hegel](hegel.md), [John Rawls](rawls.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Vì sao phải vâng lời nhà nước? Khế ước xã hội](../cau-hoi/khe-uoc-xa-hoi.md)
 - [Bản tính con người thiện hay ác?](../cau-hoi/ban-tinh-con-nguoi.md)

@@ -63,7 +63,7 @@ Nếu trên thị trường mọi thứ đều được mua bán đúng giá, l�
 
 **Ảnh hưởng tới:** [Karl Popper](popper.md), [Sartre](sartre.md), [Hannah Arendt](arendt.md), [Simone de Beauvoir](beauvoir.md), [Trần Đức Thảo](tran-duc-thao.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Triết học Việt Nam hiện đại, từ Nho học đến Marx và hiện sinh](../cau-hoi/viet-hien-dai.md)
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)

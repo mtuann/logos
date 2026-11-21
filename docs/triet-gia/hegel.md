@@ -61,7 +61,7 @@ Chương IV của *Hiện tượng học Tinh thần* (1807) là phần nổi ti
 
 **Ảnh hưởng tới:** [Kierkegaard](kierkegaard.md), [Karl Marx](marx.md), [Karl Popper](popper.md), [Sartre](sartre.md), [Simone de Beauvoir](beauvoir.md), [Trần Đức Thảo](tran-duc-thao.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)
 

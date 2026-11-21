@@ -61,7 +61,7 @@ Trong *Thư gửi Menoeceus* (đoạn 124–125), Epicurus muốn gỡ nỗi s�
 
 **Ảnh hưởng tới:** [Marcus Aurelius](marcus-aurelius.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Chết có đáng sợ không?](../cau-hoi/cai-chet.md)
 - [Hạnh phúc là gì?](../cau-hoi/hanh-phuc.md)

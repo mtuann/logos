@@ -62,7 +62,7 @@ Trong *Kính sợ và run rẩy*, qua bút danh Johannes de Silentio, Kierkegaar
 
 **Ảnh hưởng tới:** [Heidegger](heidegger.md), [Wittgenstein](wittgenstein.md), [Sartre](sartre.md), [Simone de Beauvoir](beauvoir.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)
 - [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md)

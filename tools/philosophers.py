@@ -273,7 +273,7 @@ def render_person(p: dict, by_id: dict, rev: dict, back: dict) -> str:
     else:
         L.append("**Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.")
     L.append("")
-    L.append("## Đọc thêm trên Logos {#doc-them-tren-logos-zero}")
+    L.append("## Đọc thêm trên Logos {#doc-them-tren-logos}")
     L.append("")
     curated = [rel for rel, _ in c["related"]]
     for rel, label in c["related"]:

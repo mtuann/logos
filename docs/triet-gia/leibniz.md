@@ -63,7 +63,7 @@ Nếu Thượng đế toàn năng và hoàn toàn tốt lành, vì sao có đau 
 
 **Ảnh hưởng tới:** [Immanuel Kant](kant.md), [Frege](frege.md), [Bertrand Russell](russell.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Vũ trụ có khởi đầu không?](../cau-hoi/vu-tru-khoi-dau.md)
 - [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md)
