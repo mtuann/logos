@@ -42,16 +42,7 @@ uv sync --frozen
 npm ci
 
 # Bộ kiểm tra đầy đủ, giống CI. Chạy trước mọi báo cáo.
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers kb_events works_page verification_page nav_gen; do
-  uv run python tools/$t.py --check || break
-done
-uv run python tools/content_registry.py --check
-uv run python tools/add_heading_ids.py --check
-uv run python tools/check_ledger.py --check
-uv run python tools/kb_check.py --check
-uv run python tools/thoi_su_check.py --check
-uv run python tools/lint_volatile.py --strict -q   # chặn: nội dung có hạn dùng phải ở data/thoi-su/ hoặc trong danh sách miễn
-for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do uv run python tools/$l.py --strict -q || break; done   # chặn từ 5.9; miễn ở data/style/
+uv run python tools/kiem_tra.py   # mọi kiểm tra nhanh, song song: generator --check, content.yml, id H2, sổ kiểm chứng, kho, thời sự, nội dung có hạn dùng, sáu linter --strict
 uv run properdocs build --strict -f mkdocs.yml
 uv run python -m unittest discover -s tests
 npm test        # cần thư mục site/ đã build

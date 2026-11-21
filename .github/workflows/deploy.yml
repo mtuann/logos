@@ -18,7 +18,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  # Bốn job chạy song song (đợt 7): kiểm tra nhanh + kiểm thử Python, build, rồi kiểm thử JS và trình duyệt thật trên site
+  # đã build. Deploy chỉ khi cả bốn xanh.
+  kiem-tra:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7
@@ -27,75 +29,21 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version-file: ".python-version"
-      - uses: actions/setup-node@v7
-        with:
-          node-version: "24"
-          cache: npm
       - name: Cài đặt (đúng phiên bản trong uv.lock)
         run: |
           pip install uv==0.11.32
           uv sync --frozen
-          npm ci
-      - name: Kiểm tra requirements.txt khớp uv.lock
+      - name: requirements.txt khớp uv.lock
         run: |
           uv export --frozen --format requirements-txt --no-emit-project -o requirements.txt
           git diff --exit-code requirements.txt
-      - name: Kiểm tra trang sinh tự động khớp dữ liệu
-        run: uv run --frozen python tools/gen_glossary.py --check
-      - name: Kiểm tra hình khớp mã nguồn
-        run: uv run --frozen python tools/figures.py --check
-      - name: Kiểm tra mục rà soát khớp dữ liệu
-        run: uv run --frozen python tools/review_check.py --check
-      - name: Kiểm tra dòng thời gian khớp dữ liệu
-        run: uv run --frozen python tools/timeline.py --check
-      - name: Kiểm tra sơ đồ ảnh hưởng khớp dữ liệu
-        run: uv run --frozen python tools/influence.py --check
-      - name: Kiểm tra trang triết gia khớp dữ liệu
-        run: uv run --frozen python tools/philosophers.py --check
-      - name: Kiểm tra sách in
-        run: uv run --frozen python tools/book.py --check
-      - name: Kiểm tra frontmatter YAML hợp lệ
-        run: uv run --frozen python tools/frontmatter_check.py --check
-      - name: Kiểm tra ngân hàng câu hỏi khớp dữ liệu
-        run: uv run --frozen python tools/quiz_bank.py --check
-      - name: Kiểm tra chính sách thuật ngữ khớp HUONG-DAN-VIET.md
-        run: uv run --frozen python tools/terms_policy.py --check
-      - name: Kiểm tra sổ đăng ký nội dung khớp trang và dữ liệu
-        run: uv run --frozen python tools/content_registry.py --check
-      - name: Kho nguồn khớp mục Nguồn của các trang
-        run: uv run --frozen python tools/kb_sources.py --check
-      - name: Kho tác phẩm khớp trang và hồ sơ
-        run: uv run --frozen python tools/kb_works.py --check
-      - name: Kho trích dẫn khớp các trang
-        run: uv run --frozen python tools/kb_quotes.py --check
-      - name: Số liệu PhilPapers — bản đọc khớp JSON
-        run: uv run --frozen python tools/kb_philpapers.py --check
-      - name: Ứng viên sự kiện khớp các trang
-        run: uv run --frozen python tools/kb_events.py --check
-      - name: Nav của mkdocs.yml khớp content.yml
-        run: uv run --frozen python tools/nav_gen.py --check
-      - name: Trang tác phẩm và Tình trạng kiểm chứng khớp dữ liệu
-        run: |
-          uv run --frozen python tools/works_page.py --check
-          uv run --frozen python tools/verification_page.py --check
-      - name: Kho dữ kiện khớp schema và tham chiếu chéo
-        run: uv run --frozen python tools/kb_check.py --check
-      - name: Khối thời sự — schema, mỗi khối dùng đúng một lần
-        run: uv run --frozen python tools/thoi_su_check.py --check
-      - name: ID cố định cho mục H2 của Lõi
-        run: uv run --frozen python tools/add_heading_ids.py --check
-      - name: Sổ kiểm chứng (đơn vị đóng băng không được đổi ngoài doi-loi)
+      - name: Kiểm tra nhanh (song song; tools/kiem_tra.py)
         env:
           # Được sửa đơn vị Lõi đã đóng băng khi: PR mang nhãn doi-loi, hoặc một commit được push có "[doi-loi]".
           LZ_ALLOW_CORE_CHANGE: ${{ (contains(github.event.pull_request.labels.*.name, 'doi-loi') || contains(toJSON(github.event.commits.*.message), '[doi-loi]')) && '1' || '' }}
-        run: uv run --frozen python tools/check_ledger.py --check
-      - name: Nội dung có hạn dùng trong Lõi (chặn từ đợt 3; danh sách miễn data/style/volatile-allow.yml)
-        run: uv run --frozen python tools/lint_volatile.py --strict -q
-      - name: Linter (chặn từ đợt 5.9; danh sách miễn ở data/style/)
-        run: |
-          for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do
-            uv run --frozen python tools/$l.py --strict -q
-          done
+        run: uv run --frozen python tools/kiem_tra.py
+      - name: Kiểm thử Python
+        run: uv run --frozen python -m unittest discover -s tests
       - name: Đơn vị thay đổi (không chặn)
         continue-on-error: true
         env:
@@ -111,12 +59,63 @@ jobs:
             uv run --frozen python tools/changed_units.py --base "$BEFORE" --head HEAD -o units.md
           fi
           if [ -f units.md ]; then cat units.md >> "$GITHUB_STEP_SUMMARY"; fi
+
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version-file: ".python-version"
+      - name: Cài đặt
+        run: |
+          pip install uv==0.11.32
+          uv sync --frozen
       - name: Build (strict)
         run: uv run --frozen properdocs build --strict -f mkdocs.yml
-      - name: Kiểm thử Python
-        run: uv run --frozen python -m unittest discover -s tests -v
-      - name: Kiểm thử JavaScript, trình duyệt, khả năng tiếp cận, tìm kiếm
+      - name: Kích thước
+        run: du -sh site
+      - uses: actions/upload-artifact@v7
+        with:
+          name: site
+          path: site
+          retention-days: 1
+      - uses: actions/upload-pages-artifact@v5
+        if: github.event_name != 'pull_request'
+        with:
+          path: site
+
+  kiem-thu-js:
+    needs: build
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - uses: actions/download-artifact@v7
+        with:
+          name: site
+          path: site
+      - name: Kiểm thử JavaScript và trình duyệt (jsdom), tìm kiếm
         run: npm test
+
+  trinh-duyet-that:
+    needs: build
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - uses: actions/download-artifact@v7
+        with:
+          name: site
+          path: site
       - name: Cache trình duyệt của Playwright
         uses: actions/cache@v6
         with:
@@ -124,27 +123,12 @@ jobs:
           key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
       - name: Cài Chromium cho Playwright
         run: npx playwright install --with-deps chromium
-      - name: axe trên trình duyệt thật (chặn từ đợt 4.3; 10 trang mẫu × 2 cỡ × sáng/tối)
+      - name: axe, điện thoại, thẻ di chuột, tìm kiếm trên Chromium thật
         run: npm run test:real
-      - name: Ảnh chụp 10 trang mẫu
-        run: npm run anh
-      - uses: actions/upload-artifact@v7
-        with:
-          name: anh-trang-mau
-          path: site-anh
-          retention-days: 14
-      - name: Kích thước
-        run: |
-          du -sh site
-          wc -c docs/assets/js/*.js docs/assets/css/*.css | tail -1
-      - uses: actions/upload-pages-artifact@v5
-        if: github.event_name != 'pull_request'
-        with:
-          path: site
 
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-    needs: build
+    needs: [kiem-tra, build, kiem-thu-js, trinh-duyet-that]
     runs-on: ubuntu-24.04
     environment:
       name: github-pages
