@@ -57,11 +57,7 @@ tools/                    mọi tool sinh trang đều có --check (CI chạy h�
   works_page.py           trang chỉ mục tác phẩm docs/tac-pham/index.md từ data/kb/works.yml (quyết định 23); --check
   verification_page.py    trang Tình trạng kiểm chứng docs/them/kiem-chung.md từ sổ kiểm chứng; --check
   thoi_su_check.py        khối thời sự data/thoi-su/*.md: schema, id, mỗi khối được đúng trang của nó dùng một lần
-  migrate/                script chuyển đổi một lần, giữ lại để đọc và chạy lại (chạy lại không đổi gì):
-                          dot2_people.py (hồ sơ → YAML), dot3_thoi_su.py (dời đoạn có hạn dùng),
-                          dot3_so_dem.py (số đếm → [[count:…]]), dot3_philpapers.py (ô PhilPapers → [[pp:…]];
-                          lệch: verification/lech/philpapers-bang.md); thay_shortcode.py (thay có kiểm, dùng chung);
-                          dot5_ten.py ("Logos Zero" → "Logos", giữ anchor cũ; quyết định 27)
+  kiem_tra.py             chạy song song mọi kiểm tra nhanh (generator --check, sổ, kho, thời sự, linter --strict); CI và trên máy
   check_ledger.py         sổ kiểm chứng verification/ledger.json: --check (CI), --status (tiến độ theo khối),
                           --hash KHÓA (mã băm hiện tại của đơn vị hoặc bản ghi: people/kant, ho-so/kant, terms/logic…);
                           kiểm file bằng chứng theo schema/evidence.schema.json
@@ -98,10 +94,9 @@ tests/
   test_kb_events.py       tools/kb_events.py: mẫu năm, bỏ năm tác phẩm và năm sinh mất
   test_kb_check.py         tools/kb_check.py: bản ghi mẫu mỗi loại và từng loại lỗi
   test_thoi_su.py         tools/thoi_su_check.py: khối thiếu, thừa, dùng sai trang, sai schema
-  test_dot3.py            script đợt 3: không còn ô PhilPapers khớp JSON mà còn gõ tay; số đếm, khối thời sự đã thay
   test_ledger.py          tools/check_ledger.py: schema, đơn vị đóng băng, bằng chứng
   test_changed_units.py   tools/changed_units.py trên một repo git tạm
-  test_dot5.py            script đợt 5: không còn "Logos Zero" ngoài chỗ được giữ; script chạy lại không đổi gì
+  test_dot5.py            tên site: không còn "Logos Zero" ngoài chỗ được giữ; docs không còn logos-zero (quyết định 40)
   test_verify.py          tools/verify.py: phạm vi đợt con, điều kiện ghi da-kiem, mẫu cố định, đóng băng
   test_linters.py         terms_policy và ba linter
   test_parity.py          tools/parity.py: trích văn bản hiển thị, phát hiện lệch
@@ -147,21 +142,12 @@ Cần uv (hoặc Python 3.11+) và Node 24.15+.
 
 ```bash
 npm ci
-for t in gen_glossary figures review_check timeline influence philosophers book frontmatter_check quiz_bank terms_policy kb_sources kb_works kb_quotes kb_philpapers kb_events works_page verification_page nav_gen; do
-  uv run python tools/$t.py --check || break  # trang/dữ liệu sinh tự động khớp nguồn
-done
-uv run python tools/content_registry.py --check  # content.yml khớp trang và dữ liệu
-uv run python tools/add_heading_ids.py --check   # mọi mục H2 của Lõi có ID cố định {#id}
-uv run python tools/check_ledger.py --check      # sổ kiểm chứng đúng dạng; đơn vị đóng băng không đổi mã băm
-uv run python tools/kb_check.py --check          # kho dữ kiện data/kb/, data/people/ khớp schema/kb/ và tham chiếu chéo
-uv run python tools/thoi_su_check.py --check     # khối thời sự data/thoi-su/ khớp schema, mỗi khối dùng đúng một lần
-uv run python tools/lint_volatile.py --strict -q  # chặn từ đợt 3: có hạn dùng thì ở data/thoi-su/ hoặc data/style/volatile-allow.yml
-for l in lint_terms lint_structure lint_facts lint_quotes lint_so_lieu lint_lien_ket; do uv run python tools/$l.py --strict -q || break; done  # linter, chặn từ đợt 5.9
+uv run python tools/kiem_tra.py                # mọi kiểm tra nhanh, song song (generator --check, content.yml, id H2, sổ, kho, thời sự, linter)
 uv run properdocs build --strict -f mkdocs.yml  # build sạch, kiểm tra link và anchor
 uv run python -m unittest discover -s tests     # hook, tool Python, chỉ mục
-npm test                                        # hàm thuần, màu, trình duyệt (jsdom), axe-core, tìm kiếm
-npm run test:real                               # axe trên Chromium thật, 10 trang mẫu × 2 cỡ × sáng/tối (Playwright)
-npm run anh                                     # ảnh chụp 10 trang mẫu vào site-anh/ (không commit; CI tải lên artifact)
+npm test                                        # hàm thuần, màu, trình duyệt (jsdom), tìm kiếm
+npm run test:real                               # axe trên Chromium thật: 10 trang mẫu × 2 cỡ × sáng/tối, thêm 16 trang (máy tính, sáng)
+npm run anh                                     # ảnh chụp 10 trang mẫu vào site-anh/ (không commit; chạy khi cần duyệt giao diện)
 ```
 
 Thay đổi cơ học (do script, không được đổi chữ) phải qua kiểm tra tương đương trước khi merge:

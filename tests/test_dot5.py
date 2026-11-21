@@ -9,8 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 # Chỗ được giữ "Logos Zero": nói tới site song song logos-zero, hoặc lịch sử dự án (không hiện trên site).
-GIU = {"KE-HOACH.md", "README.md", "pyproject.toml", "AGENTS.md", "tests/test_parity.py", "tests/test_dot5.py",
-       "tools/migrate/dot5_ten.py"}
+GIU = {"KE-HOACH.md", "README.md", "pyproject.toml", "AGENTS.md", "tests/test_parity.py", "tests/test_dot5.py"}
 
 
 class TestTenSite(unittest.TestCase):

@@ -68,6 +68,44 @@ for (const page of SAMPLES) for (const [vp, size] of Object.entries(VIEWPORTS)) 
   });
 }
 
+/* Đợt 7: các trang mà bộ axe trên jsdom (tests/browser/a11y.test.js, đã bỏ) quét thêm, nay quét trên trình duyệt thật,
+ * một cấu hình (máy tính, sáng), sau khi công cụ tương tác dựng xong. */
+const EXTRA = [
+  "/logos/cau-hoi/tam-tri-va-ai/",
+  "/logos/cau-hoi/dan-chu/",
+  "/logos/cau-hoi/viet-hien-dai/",
+  "/logos/cau-hoi/dao-duc-moi-truong/",
+  "/logos/cau-hoi/cong-nghe-ai/",
+  "/logos/cau-hoi/",
+  "/logos/cau-hoi/sieu-dao-duc/",
+  "/logos/cau-hoi/hanh-phuc/",
+  "/logos/doc/luan-ngu/",
+  "/logos/triet-gia/",
+  "/logos/lich-su/so-do-anh-huong/",
+  "/logos/cong-cu/nguy-bien/",
+  "/logos/luyen-tap/the-ghi-nho/",
+  "/logos/luyen-tap/ke-hoach/",
+  "/logos/them/du-lieu/",
+  "/logos/them/nhat-ky/",
+];
+for (const page of EXTRA) {
+  test(`axe ${page} may-tinh light (thêm)`, async () => {
+    const ctx = await browser.newContext({ viewport: VIEWPORTS["may-tinh"], colorScheme: "light", reducedMotion: "reduce" });
+    const p = await ctx.newPage();
+    await p.goto(srv.origin + page, { waitUntil: "load" });
+    await p.waitForFunction(() => !document.querySelector(".oz-fallacy-trainer > .oz-muted:only-child, .oz-flashcards > .oz-muted:only-child"));
+    await p.waitForTimeout(300);
+    await p.addScriptTag({ content: AXE });
+    const res = await p.evaluate(async (tags) => {
+      const r = await window.axe.run(document, { runOnly: { type: "tag", values: tags } });
+      return r.violations.map((v) => ({ id: v.id, impact: v.impact, nodes: v.nodes.length,
+        targets: v.nodes.slice(0, 3).map((n) => n.target.join(" ")) }));
+    }, TAGS);
+    await ctx.close();
+    if (!REPORT) assert.equal(res.length, 0, res.map((v) => `${v.id} (${v.impact}, ${v.nodes}): ${v.targets.join(" | ")}`).join("\n"));
+  });
+}
+
 test("font tự host được tải và dùng (đợt 4.4)", async () => {
   const ctx = await browser.newContext();
   const p = await ctx.newPage();
