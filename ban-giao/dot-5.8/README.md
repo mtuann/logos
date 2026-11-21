@@ -2,6 +2,8 @@
 
 **Đã xong (2026-11-20): 299 khóa đóng băng, mẫu 30/30, 0% lỗi nghiêm trọng bị bỏ sót.** Phần dưới giữ lại để tra cứu cách đã làm; xem dòng 2026-11-20 cuối trong `ban-giao/nhat-ky-dot-5.md`.
 
+**Dọn dẹp 21/11/2026**: dữ liệu dùng một lần của 5.8 (`sua/` gồm bảng sửa và lô, `changed*.json`, `open.json`, `con-sot.md`) đã bỏ khỏi cây làm việc; xem lại trong lịch sử git (commit trước `don-dep`). Giữ `huong-dan/` (mẫu hướng dẫn cho các lượt kiểm sau) và `tools/` (`fin.sh`, `run_all.sh`, `run_lots.sh`, `apply.py`, `plan.py`, `doiloi.py`, `mau_fix.py`, `rep.py`, `check_rep.py` — dùng lại được với file lô mới).
+
 Đọc trước theo thứ tự `AGENTS.md`, rồi tới mục 5.8 trong `ban-giao/dot-5.md` và dòng 2026-11-20 trong `ban-giao/nhat-ky-dot-5.md`.
 
 Thư mục này giữ kế hoạch và công cụ dở dang của 5.8, để agent khác làm tiếp. Không xuất bản lên site.
