@@ -61,7 +61,7 @@ Tuệ Trung không làm sư trụ trì, không lập tông phái. Nhưng qua ng�
 
 **Ảnh hưởng tới:** [Trần Nhân Tông](tran-nhan-tong.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần](../cau-hoi/truc-lam.md)
 

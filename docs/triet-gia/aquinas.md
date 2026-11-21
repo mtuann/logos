@@ -61,7 +61,7 @@ Phần đời còn lại là giảng dạy và viết: hai nhiệm kỳ làm gi�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)
 - [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)

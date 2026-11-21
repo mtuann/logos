@@ -63,7 +63,7 @@ Trong *Điều tra về trí năng con người* (mục IV), Hume hỏi: dựa v
 
 **Ảnh hưởng tới:** [Immanuel Kant](kant.md), [Jeremy Bentham](bentham.md), [J. S. Mill](mill.md), [Karl Popper](popper.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Đọc Hume về nhân quả ("Điều tra về trí năng con người")](../doc/hume-nhan-qua.md)
 - [Nhân quả là gì?](../cau-hoi/nhan-qua-ban-chat.md)

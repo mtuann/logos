@@ -60,7 +60,7 @@ Phương châm của Anselm là “đức tin đi tìm hiểu biết” (*fides 
 
 **Ảnh hưởng tới:** [Thomas Aquinas](aquinas.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)
 

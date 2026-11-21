@@ -62,7 +62,7 @@ Thiên “Nạn thế” là một cuộc tranh luận về quyền thế. Ngư�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md)
 - [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)

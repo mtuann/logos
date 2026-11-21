@@ -63,7 +63,7 @@ Hạnh phúc (*eudaimonia*) là gì? Trong *Đạo đức Nicomachus* I.7 (1097b
 
 **Ảnh hưởng tới:** [Avicenna](avicenna.md), [Averroes](averroes.md), [Maimonides](maimonides.md), [Thomas Aquinas](aquinas.md), [Thomas Hobbes](hobbes.md), [Leibniz](leibniz.md), [Hannah Arendt](arendt.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hướng dẫn đọc Đạo đức Nicomachus (quyển I–II)](../doc/aristotle-dao-duc.md)
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)

@@ -62,7 +62,7 @@ Bài “Về nghĩa và vật được chỉ” (1892) mở đầu bằng một 
 
 **Ảnh hưởng tới:** [Bertrand Russell](russell.md), [Wittgenstein](wittgenstein.md), [Quine](quine.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Thế kỷ 20: triết học chia hai ngả](../lich-su/the-ky-20.md)
 - [Sự thật là gì?](../cau-hoi/chan-ly.md)

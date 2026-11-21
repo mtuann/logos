@@ -59,7 +59,7 @@ Lập luận ghép từ chương 1 và chương 5 của *Cẩm nang* trả lời
 
 **Ảnh hưởng tới:** [Marcus Aurelius](marcus-aurelius.md), [Blaise Pascal](pascal.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Đọc "Cẩm nang" của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hướng dẫn đọc Suy tưởng của Marcus Aurelius](../doc/aurelius-suy-tuong.md)

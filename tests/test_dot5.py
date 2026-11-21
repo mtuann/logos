@@ -1,18 +1,16 @@
-"""Script đợt 5 (ban-giao/dot-5.md). Chạy: python -m unittest discover -s tests"""
+"""Tên site (quyết định 27, 40). Chạy: python -m unittest discover -s tests
+
+Script đổi tên một lần của đợt 5.0d (tools/migrate/dot5_ten.py) đã chạy xong; không còn kiểm thử chạy lại script đó."""
 
 import subprocess
-import sys
 import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT / "tools" / "migrate"))
 
-import dot5_ten  # noqa: E402
-
-# Chỗ được giữ "Logos Zero" (quyết định 27): nói tới site song song logos-zero, hoặc lịch sử dự án.
+# Chỗ được giữ "Logos Zero": nói tới site song song logos-zero, hoặc lịch sử dự án (không hiện trên site).
 GIU = {"KE-HOACH.md", "README.md", "pyproject.toml", "AGENTS.md", "tests/test_parity.py", "tests/test_dot5.py",
-       "docs/assets/js/merge.js", "tools/migrate/dot5_ten.py"}
+       "tools/migrate/dot5_ten.py"}
 
 
 class TestTenSite(unittest.TestCase):
@@ -21,22 +19,13 @@ class TestTenSite(unittest.TestCase):
         left = [f for f in out if f not in GIU and not f.startswith(("ban-giao/", "verification/"))]
         self.assertEqual(left, [])
 
-    def test_script_is_idempotent(self):
-        for f in dot5_ten.targets():
-            text = (ROOT / f).read_text(encoding="utf-8")
-            self.assertEqual(dot5_ten.convert(f, text), (text, 0), f)
-
-    def test_special_text_is_not_rewritten(self):
-        src = 'error: "Đây không phải bản sao lưu của Logos Zero." }; /* Logos Zero */'
-        out, n = dot5_ten.convert("docs/assets/js/merge.js", src)
-        self.assertEqual(out, 'error: "Đây không phải bản sao lưu của Logos hay Logos Zero." }; /* Logos */')
-        self.assertEqual(n, 2)
-
-    def test_old_anchors_kept(self):
-        self.assertIn("## Logos là gì {#logos-zero-la-gi}", (ROOT / "docs/index.md").read_text(encoding="utf-8"))
-        self.assertIn("{#doc-logos-zero-the-nao}", (ROOT / "docs/bat-dau/index.md").read_text(encoding="utf-8"))
-        self.assertIn("## Đọc thêm trên Logos {#doc-them-tren-logos-zero}",
-                      (ROOT / "docs/triet-gia/kant.md").read_text(encoding="utf-8"))
+    def test_no_logos_zero_in_docs(self):
+        """Quyết định 40 (21/11/2026): site không còn chữ "Logos Zero" hay anchor `logos-zero`, trừ mã JS nhận bản
+        sao lưu cũ (khóa "logos-zero" ở merge.js, progress.js, sw.js)."""
+        out = subprocess.run(["git", "grep", "-l", "-i", "-e", "logos zero", "-e", "logos-zero", "--", "docs"],
+                             cwd=ROOT, capture_output=True, text=True).stdout.split()
+        left = [f for f in out if f not in {"docs/assets/js/merge.js", "docs/assets/js/progress.js", "docs/sw.js"}]
+        self.assertEqual(left, [])
 
 
 if __name__ == "__main__":

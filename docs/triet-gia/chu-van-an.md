@@ -60,7 +60,7 @@ Chu An không để lại văn bản lý luận nào (tờ sớ đã mất). Nh�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)
 

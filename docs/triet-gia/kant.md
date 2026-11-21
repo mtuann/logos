@@ -61,7 +61,7 @@ Trong *Nền tảng siêu hình học của đạo đức* (1785), Kant đề ra
 
 **Ảnh hưởng tới:** [Hegel](hegel.md), [Husserl](husserl.md), [Heidegger](heidegger.md), [Karl Popper](popper.md), [Hannah Arendt](arendt.md), [John Rawls](rawls.md), [Robert Nozick](nozick.md), [Derek Parfit](parfit.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md)
 - [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md)

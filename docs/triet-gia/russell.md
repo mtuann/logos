@@ -63,7 +63,7 @@ Câu “Vua nước Pháp hiện nay bị hói” có nghĩa, dù nước Pháp 
 
 **Ảnh hưởng tới:** [Wittgenstein](wittgenstein.md), [Quine](quine.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Giá trị của triết học — Bertrand Russell (1912)](../doc/russell-gia-tri.md)
 - [Triết học là gì, và không phải là gì?](../bat-dau/index.md)

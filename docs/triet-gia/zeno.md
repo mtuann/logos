@@ -60,7 +60,7 @@ Zeno không để lại văn bản trình bày lập luận này; Diogenes Laër
 
 **Ảnh hưởng tới:** [Epictetus](epictetus.md), [Marcus Aurelius](marcus-aurelius.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Đọc "Cẩm nang" của Epictetus](../doc/epictetus-cam-nang.md)
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)

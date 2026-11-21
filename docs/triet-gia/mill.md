@@ -61,7 +61,7 @@ Chương II của *Bàn về tự do* (1859) bảo vệ tự do tư tưởng và
 
 **Ảnh hưởng tới:** [Bertrand Russell](russell.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Tự do ngôn luận — John Stuart Mill, "Bàn về tự do" chương 2 (1859)](../doc/mill-tu-do.md)
 - [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md)

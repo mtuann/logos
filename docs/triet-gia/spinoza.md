@@ -62,7 +62,7 @@ Spinoza chứng minh điều này ở phần I *Đạo đức học* (mệnh đ�
 
 **Ảnh hưởng tới:** [Leibniz](leibniz.md), [Hegel](hegel.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md)
 

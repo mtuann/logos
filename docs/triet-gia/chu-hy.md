@@ -60,7 +60,7 @@ Sách *Đại học* nói mở mang hiểu biết là ở chỗ “cách vật�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)
 - [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)

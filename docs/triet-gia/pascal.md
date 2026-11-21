@@ -62,7 +62,7 @@ Nếu lý trí không phân xử được Chúa có tồn tại hay không, ta n
 
 **Ảnh hưởng tới:** [Nietzsche](nietzsche.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md)
 - [Có thể chứng minh Chúa tồn tại bằng lý trí?](../cau-hoi/luan-chung-ton-giao.md)

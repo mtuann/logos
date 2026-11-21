@@ -61,7 +61,7 @@ Không còn văn bản nào của Democritus trình bày lập luận này. Aris
 
 **Ảnh hưởng tới:** [Epicurus](epicurus.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 

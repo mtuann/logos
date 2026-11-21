@@ -321,7 +321,7 @@ def render_book(
     out.append("  exclude: true")
     out.append("---")
     out.append("")
-    out.append("# Logos — Sách in {#logos-zero-sach-in}")
+    out.append("# Logos — Sách in {#logos-sach-in}")
     out.append("")
     out.append(
         "*Bản tổng hợp các bài viết của Logos để in ra đọc. "

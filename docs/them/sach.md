@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# Logos — Sách in {#logos-zero-sach-in}
+# Logos — Sách in {#logos-sach-in}
 
 *Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 20/11/2026.*
 

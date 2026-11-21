@@ -62,7 +62,7 @@ Trong thiên “Tề vật luận”, qua lời nhân vật Trường Ngô Tử,
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Mộng hồ điệp — Trang Tử (thiên Tề vật luận)](../doc/trang-tu-mong-ho-diep.md)
 - [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md)

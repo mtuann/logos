@@ -62,7 +62,7 @@ Phái Hàn lâm, những người theo **hoài nghi luận** (*skepticism*), cho
 
 **Ảnh hưởng tới:** [Anselm xứ Canterbury](anselm.md), [Thomas Aquinas](aquinas.md), [Blaise Pascal](pascal.md), [Wittgenstein](wittgenstein.md), [Hannah Arendt](arendt.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Cái ác là gì?](../cau-hoi/cai-ac.md)
 - [Thời gian có trôi không? Hay quá khứ–hiện tại–tương lai đều thật?](../cau-hoi/thoi-gian.md)

@@ -62,7 +62,7 @@ Phần mở đầu *Bình Ngô đại cáo* không kể chiến công mà nêu m
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hướng dẫn đọc Bình Ngô đại cáo của Nguyễn Trãi](../doc/nguyen-trai-binh-ngo.md)
 - [Nho giáo Việt Nam: tiếp thu hay sáng tạo?](../cau-hoi/nho-giao-viet.md)

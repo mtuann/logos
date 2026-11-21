@@ -61,7 +61,7 @@ Hiếm khi *Đạo đức kinh* lập luận lộ liễu, nhưng chương 57 th�
 
 **Ảnh hưởng tới:** [Trang Tử](trang-tu.md), [Hàn Phi](han-phi.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hướng dẫn đọc Đạo đức kinh](../doc/dao-duc-kinh.md)
 - [Trung Hoa: trăm nhà đua tiếng](../lich-su/trung-hoa.md)

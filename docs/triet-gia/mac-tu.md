@@ -61,7 +61,7 @@ Người phản đối nói: kiêm ái hay thì hay thật, nhưng dùng đượ
 
 **Ảnh hưởng tới:** [Mạnh Tử](manh-tu.md), [Tuân Tử](tuan-tu.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hướng dẫn đọc Mặc Tử: kiêm ái](../doc/mac-tu-kiem-ai.md)
 - [Hướng dẫn đọc Mạnh Tử: tính thiện](../doc/manh-tu-tinh-thien.md)

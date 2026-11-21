@@ -59,7 +59,7 @@ Heraclitus không viết theo dạng tiền đề – kết luận. Đây là c�
 
 **Ảnh hưởng tới:** [Platon](platon.md), [Marcus Aurelius](marcus-aurelius.md), [Hegel](hegel.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md)
 

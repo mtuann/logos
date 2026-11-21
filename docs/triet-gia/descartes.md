@@ -62,7 +62,7 @@ Tâm trí có phải chỉ là một phần của thân thể? Ở *Suy niệm* 
 
 **Ảnh hưởng tới:** [John Locke](locke.md), [Spinoza](spinoza.md), [Leibniz](leibniz.md), [David Hume](hume.md), [Husserl](husserl.md), [Sartre](sartre.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Đọc "Suy niệm" I–II của Descartes](../doc/descartes-suy-niem.md)
 - [Thân xác và tâm trí: vấn đề lâu đời nhất của triết học](../cau-hoi/van-de-tam-tri.md)

@@ -60,7 +60,7 @@ Trong phần I của *Chỉ dẫn*, Maimonides lập luận rằng mọi thuộc
 
 **Ảnh hưởng tới:** [Thomas Aquinas](aquinas.md), [Spinoza](spinoza.md), [Leibniz](leibniz.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md)
 

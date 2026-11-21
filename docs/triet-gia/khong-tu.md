@@ -60,7 +60,7 @@ Tử Lộ hỏi: nếu vua nước Vệ giao chính sự cho thầy, thầy làm
 
 **Ảnh hưởng tới:** [Mặc Tử](mac-tu.md), [Mạnh Tử](manh-tu.md), [Tuân Tử](tuan-tu.md), [Chu Hy](chu-hy.md).
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Luận ngữ — những lời dạy của Khổng Tử](../doc/luan-ngu.md)
 - [Cai trị bằng đức hay bằng pháp?](../cau-hoi/duc-tri.md)

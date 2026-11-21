@@ -60,7 +60,7 @@ Từ Descartes, nhiều người coi cảm giác của ta là điều chắc ch�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Ngôn từ có định hình tư duy? Ngôn ngữ và tri thức](../cau-hoi/ngon-ngu.md)
 - [Thế nào là một định nghĩa tốt?](../cong-cu/dinh-nghia-phan-vi-du.md)

@@ -61,7 +61,7 @@ Sử thần Ngô Sĩ Liên (thế kỷ 15) khen ông nhân từ, gắn kết đ�
 
 **Ảnh hưởng tới:** chưa ghi nhận trong dữ liệu của site.
 
-## Đọc thêm trên Logos {#doc-them-tren-logos-zero}
+## Đọc thêm trên Logos {#doc-them-tren-logos}
 
 - [Thiền phái Trúc Lâm: Phật giáo nhập thế thời Trần](../cau-hoi/truc-lam.md)
 - [Hướng dẫn đọc Thơ văn Lý–Trần (tuyển)](../doc/tho-van-ly-tran.md)
