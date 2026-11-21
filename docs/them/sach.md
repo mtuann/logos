@@ -1,7 +1,7 @@
 ---
 title: Logos — Sách in
 description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được.
-updated: 2026-11-20
+updated: 2026-11-21
 search:
   exclude: true
 ---
