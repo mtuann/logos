@@ -206,10 +206,12 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
+Về Rawls, xem thêm [bài về công lý](cong-ly.md).
+
 1. Bidadanure, Juliana & David Axelsen, "Egalitarianism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/egalitarianism/>
 2. Gosepath, Stefan, "Equality", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/equality/>
 3. Dworkin, Ronald (1981), "What Is Equality? Part 1: Equality of Welfare", *Philosophy & Public Affairs* 10(3): 185–246; "Part 2: Equality of Resources", *Philosophy & Public Affairs* 10(4): 283–345.
 4. Cohen, G. A. (1989), "On the Currency of Egalitarian Justice", *Ethics* 99(4): 906–944. <https://doi.org/10.1086/293126>
 5. Anderson, Elizabeth (1999), "What Is the Point of Equality?", *Ethics* 109(2): 287–337. <https://doi.org/10.1086/233897>
-6. Rawls, John (1971), *A Theory of Justice* — xem thêm [bài về công lý](cong-ly.md).
+6. Rawls, John (1971), *A Theory of Justice*, Cambridge, MA: Harvard University Press (tái bản sửa đổi 1999).
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

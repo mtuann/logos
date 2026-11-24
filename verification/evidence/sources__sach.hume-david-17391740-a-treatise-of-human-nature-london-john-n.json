@@ -1,8 +1,8 @@
 {
   "unit": "sources/sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n",
-  "hash": "sha256:b008b9e6d2648e446db0aa1cef3d91c43a26f55231451933763011f377d28b79",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r16",
+  "hash": "sha256:e9bb8427c1301dfaf6902717d45f14635e5a6d5d45f53f74fe801cc5f84e0a24",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r16 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Hume, A Treatise of Human Nature (Gutenberg 4705, tác giả David Hume 1711–1776)",
@@ -12,22 +12,6 @@
         {
           "url": "https://www.gutenberg.org/ebooks/4705",
           "quote": "A Treatise of Human Nature"
-        }
-      ]
-    },
-    {
-      "text": "An Enquiry concerning Human Understanding, 1748",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.gutenberg.org/ebooks/9662",
-          "quote": "Original publication: 1748"
-        },
-        {
-          "url": "https://books.google.com/books/about/Philosophical_Essays_Concerning_Human_Un.html?id=LB4VAAAAQAAJ",
-          "quote": "A. Millar, 1748",
-          "where": "Philosophical Essays Concerning Human Understanding, 256 tr."
         }
       ]
     },
@@ -42,36 +26,8 @@
           "where": "mô tả bản ghi thư mục (Great Writers Inspire / Oxford): 'London: printed for John Noon, 1739-40'; EBSCO: vol. 1-2 1739 John Noon"
         }
       ]
-    },
-    {
-      "text": "Enquiry: lần in đầu mang tên Philosophical Essays concerning Human Understanding, đổi tên từ 1758",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.google.com/search?q=Hume+%22Philosophical+Essays+concerning+Human+Understanding%22+1748+London+Millar+retitled+%22Enquiry%22+1758",
-          "quote": "re-titled as such in 1758",
-          "where": "AbeBooks (nhà sách cổ, nguồn yếu): 'First edition in any form of the Enquiry Concerning Human Understanding'"
-        },
-        {
-          "url": "https://books.google.com/books/about/Philosophical_Essays_Concerning_Human_Un.html?id=LB4VAAAAQAAJ",
-          "quote": "Philosophical Essays Concerning Human Understanding",
-          "where": "Google Books: bản 1748"
-        }
-      ]
-    },
-    {
-      "text": "Enquiry: London: A. Millar",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://books.google.com/books/about/Philosophical_Essays_Concerning_Human_Un.html?id=LB4VAAAAQAAJ",
-          "quote": "A. Millar, 1748"
-        }
-      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): Treatise 1739/1740 (Noon, Longman) khớp bản ghi thư mục; Enquiry 1748 do A. Millar in, tên gốc Philosophical Essays (Google Books). Phần 'đổi tên từ 1758' chỉ có nguồn thương mại (AbeBooks/Peter Harrington) và tóm tắt tìm kiếm: nguồn yếu; nên thay bằng SEP/IEP hoặc Hume Society nếu có. Link đề xuất: https://www.gutenberg.org/ebooks/4705, https://www.gutenberg.org/ebooks/9662"
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r16): Treatise 1739/1740 (Noon, Longman) khớp bản ghi thư mục; Enquiry 1748 do A. Millar in, tên gốc Philosophical Essays (Google Books). Phần 'đổi tên từ 1758' chỉ có nguồn thương mại (AbeBooks/Peter Harrington) và tóm tắt tìm kiếm: nguồn yếu; nên thay bằng SEP/IEP hoặc Hume Society nếu có. Link đề xuất: https://www.gutenberg.org/ebooks/4705, https://www.gutenberg.org/ebooks/9662 [doi-loi] 2026-11-24 (7.1.1 lô 6): bỏ phần *An Enquiry concerning Human Understanding* (1748) khỏi bản ghi (tách thành sources/sach.hume-david-1748-an-enquiry-concerning-human-understanding-la); các claim về Enquiry chuyển sang bản ghi mới; gộp bản ghi sources/sach.hume-david-17391740-a-treatise-of-human-nature-quyen-i-phan (cùng sách, khác cách ghi; quyết định 36) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.hume-david-17391740-a-treatise-of-human-nature-quyen-i-phan.json"
 }

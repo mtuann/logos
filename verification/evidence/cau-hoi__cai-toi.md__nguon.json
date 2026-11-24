@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-toi.md#nguon",
-  "hash": "sha256:2af056f00f173dd6bc2960f727589e83e5274d22337bd55017912810180817ba",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k06",
+  "hash": "sha256:0b986d5abde488370ca98b92173218a30b7ea354bd86dda0320b22866bbc5356",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k06 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Đoạn được dẫn: Locke, *An Essay Concerning Human Understanding*, quyển II, chương xxvii (\"Về đồng nhất và khác biệt\"), chương bổ sung trong ấn bản lần hai, 1694.",
@@ -110,6 +110,24 @@
           "where": "URL bản lưu fall2026 mở được"
         }
       ]
+    },
+    {
+      "text": "Câu trước danh sách: Hume, *A Treatise of Human Nature*, Quyển I, Phần IV, mục VI (\"Về bản sắc cá nhân\"); dòng Nguồn: Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n"
+    },
+    {
+      "text": "Quyển I, Phần IV, mục VI 'Of personal identity' (Về bản sắc cá nhân)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/4705/pg4705-images.html",
+          "quote": "SECT. VI. OF PERSONAL IDENTITY",
+          "where": "Mục lục Book I, sau 'PART IV. OF THE SCEPTICAL AND OTHER SYSTEMS OF PHILOSOPHY' (Sect. I–VII), trước BOOK II"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -120,5 +138,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Đã mở được các URL SEP fall2026 (identity-personal, locke-personal-identity, buddha); gutenberg.org đang bảo trì, đã mở bản #10615 qua mirror gutenberg.pglaf.org. Shoemaker 1970 không tìm thấy trên Crossref (APQ không có DOI), dựa vào bản ghi kho."
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Đã mở được các URL SEP fall2026 (identity-personal, locke-personal-identity, buddha); gutenberg.org đang bảo trì, đã mở bản #10615 qua mirror gutenberg.pglaf.org. Shoemaker 1970 không tìm thấy trên Crossref (APQ không có DOI), dựa vào bản ghi kho. [doi-loi] 2026-11-24 (7.1.1 lô 6): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }
