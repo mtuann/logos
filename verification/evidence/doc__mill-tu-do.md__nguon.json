@@ -1,8 +1,8 @@
 {
   "unit": "doc/mill-tu-do.md#nguon",
-  "hash": "sha256:de9f700756d48e4616eaf0d7cd3790c0ab09575f9def9c257365c86aff43a47e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.4-k09",
+  "hash": "sha256:0823d56859ff1e5a3608b93b78ae5990d5fc0cf7eae715460bc52875218ba88d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.4-k09 + claude-doi-loi-7.1.2 + agent-kiem-7.1.2",
   "claims": [
     {
       "text": "Mill (1859), On Liberty, London: John W. Parker and Son",
@@ -57,6 +57,12 @@
           "where": "Crossref: volume 359, issue 6380, page 1146-1151, issued 2018-03-09; doi.org chuyển hướng tới science.org (403 với bot)"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
     }
   ],
   "checklist": {
@@ -67,5 +73,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. SEP: tên Macleod, Christopher xác nhận qua thẻ citation_author của trang plato.stanford.edu/archives/fall2026/entries/mill/."
+  "notes": "Gutenberg.org tạm bảo trì khi kiểm; đọc ebook 34901 qua bản lưu web.archive.org. SEP: tên Macleod, Christopher xác nhận qua thẻ citation_author của trang plato.stanford.edu/archives/fall2026/entries/mill/. [doi-loi] 2026-11-24 (7.1.2, sau kiểm lượt 1): dòng Mill *On Liberty* ghi rõ bản Gutenberg theo ấn bản Walter Scott Publishing (kiểm lượt 1 7.1.2)."
 }

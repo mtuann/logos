@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tu-do-ngon-luan.md#nguon",
-  "hash": "sha256:4a7df694a080643ad65ddf00ccbbf6bd6d40e0c8c671083618cb0abaf77a8e3c",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "hash": "sha256:b8b0e408566bde01f14c455c62bf9c4413283a8972d4d9f30c708e2f08f02589",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k05 + claude-doi-loi-7.1.2 + agent-kiem-7.1.2",
   "claims": [
     {
       "text": "Nghịch lý khoan dung: Popper, The Open Society and Its Enemies, tập 1, chú thích 4 của chương 7.",
@@ -65,6 +65,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
     }
   ],
   "checklist": {
@@ -75,5 +81,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "www.gutenberg.org trả 503 trong phiên; đã đọc On Liberty qua mirror gutenberg.pglaf.org/cache/epub/34901/pg34901.txt (bản Walter Scott Publishing, không phải bản Parker 1859 — dòng nguồn ghi nhà xuất bản lần in đầu, trùng bản ghi kho đóng băng)."
+  "notes": "www.gutenberg.org trả 503 trong phiên; đã đọc On Liberty qua mirror gutenberg.pglaf.org/cache/epub/34901/pg34901.txt (bản Walter Scott Publishing, không phải bản Parker 1859 — dòng nguồn ghi nhà xuất bản lần in đầu, trùng bản ghi kho đóng băng). [doi-loi] 2026-11-24 (7.1.2, sau kiểm lượt 1): dòng Mill *On Liberty* ghi rõ bản Gutenberg theo ấn bản Walter Scott Publishing (kiểm lượt 1 7.1.2)."
 }

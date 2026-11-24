@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-19.md#nguon",
-  "hash": "sha256:020a6f5b13a38ed2499f5f8db39d4f73f175c1355496518f7c43eaba70c0c964",
+  "hash": "sha256:87224074ba1ebb57b7db447597781e49102efbba16a3b41f9057dee30a501032",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
+  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2 + claude-doi-loi-7.1.2 + agent-kiem-7.1.2",
   "claims": [
     {
       "text": "UK Parliament, “Presenting the 1866 petition” (Living Heritage) <URL parliament.uk>",
@@ -136,6 +136,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/web.archive-org.details-samledevaerkerud03kieruoft"
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
     }
   ],
   "checklist": {
@@ -146,5 +152,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix. [doi-loi] 2026-11-24 (7.1.1 lô 7): Tách mục gộp Kierkegaard (*Either/Or*; *Fear and Trembling* gộp với bản ghi của duc-tin-ly-tri); đánh lại số; không có vị trí nào phải chuyển. [doi-loi] 2026-11-24 (7.1.2 lô 10): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
+  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix. [doi-loi] 2026-11-24 (7.1.1 lô 7): Tách mục gộp Kierkegaard (*Either/Or*; *Fear and Trembling* gộp với bản ghi của duc-tin-ly-tri); đánh lại số; không có vị trí nào phải chuyển. [doi-loi] 2026-11-24 (7.1.2 lô 10): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn. [doi-loi] 2026-11-24 (7.1.2, sau kiểm lượt 1): dòng Mill *On Liberty* ghi rõ bản Gutenberg theo ấn bản Walter Scott Publishing (kiểm lượt 1 7.1.2)."
 }

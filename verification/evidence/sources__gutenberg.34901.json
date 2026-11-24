@@ -1,8 +1,8 @@
 {
   "unit": "sources/gutenberg.34901",
-  "hash": "sha256:909190417c88bc0bd5707d637b70b1c30c136f8370f8e1701451ac4a75c89e25",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.2-r26",
+  "hash": "sha256:bf380e91ca84fce3dd3718f8f1c89c1cdaba7e52a496a13a0d95d2740ed4dbab",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r26 + claude-doi-loi-7.1.2 + agent-kiem-7.1.2",
   "claims": [
     {
       "text": "Ebook 34901 là On Liberty của J. S. Mill",
@@ -50,8 +50,19 @@
           "where": "trang tựa ebook; lời giới thiệu Courtney ký 'London, July 5th, 1901'"
         }
       ]
+    },
+    {
+      "text": "Bản Gutenberg #34901 theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://gutenberg.pglaf.org/3/4/9/0/34901/34901-0.txt",
+          "quote": "With an Introduction by W. L. Courtney, LL.D. The Walter Scott Publishing Co., Ltd. London and Felling-on-Tyne"
+        }
+      ]
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): hai cách ghi không mâu thuẫn nhưng khác bản: ebook Gutenberg là ấn bản Walter Scott Publishing (có lời giới thiệu W. L. Courtney, 1901), còn 'London: John W. Parker and Son' là ấn bản đầu 1859. Nên thống nhất: 'On Liberty (1859; London: J. W. Parker and Son); bản điện tử Gutenberg theo ấn bản Walter Scott, có lời giới thiệu của Courtney'. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban.json"
+  "notes": "Kiểm lại bằng trình duyệt (agent-kiem-5.2-r26): hai cách ghi không mâu thuẫn nhưng khác bản: ebook Gutenberg là ấn bản Walter Scott Publishing (có lời giới thiệu W. L. Courtney, 1901), còn 'London: John W. Parker and Son' là ấn bản đầu 1859. Nên thống nhất: 'On Liberty (1859; London: J. W. Parker and Son); bản điện tử Gutenberg theo ấn bản Walter Scott, có lời giới thiệu của Courtney'. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban.json [doi-loi] 2026-11-24 (7.1.2, sau kiểm lượt 1): dòng ghi rõ link là ấn bản Walter Scott Publishing (có lời giới thiệu của Courtney), không phải ấn bản Parker 1859 (kiểm lượt 1 7.1.2, vấn đề 1; đề xuất cũ trong ghi chú của file này)."
 }

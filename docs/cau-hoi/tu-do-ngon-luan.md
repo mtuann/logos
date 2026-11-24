@@ -212,7 +212,7 @@ Gợi ý độ dài: 200–350 chữ.
 Nghịch lý khoan dung: Popper, *The Open Society and Its Enemies*, tập 1, chú thích 4 của chương 7.
 
 1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/>
-2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>
 3. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
 4. *Abrams v. United States*, 250 U.S. 616 (1919), ý kiến bất đồng của thẩm phán Oliver Wendell Holmes. <https://www.law.cornell.edu/supremecourt/text/250/616>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

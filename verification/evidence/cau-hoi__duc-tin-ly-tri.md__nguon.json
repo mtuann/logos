@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/duc-tin-ly-tri.md#nguon",
-  "hash": "sha256:56cfd4b036aa8585593010ff80fadf1612cfd7aad97e762c9cd0a3fd44891683",
+  "hash": "sha256:9fe9868434790b1ef5a71031349d1bf60426181e493aee893f177587ac24b00b",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.8-k08 + claude-doi-loi-7.1.2",
+  "checker": "agent-kiem-5.8-k08 + claude-doi-loi-7.1.2 + claude-doi-loi-7.1.2 + agent-kiem-7.1.2",
   "claims": [
     {
       "text": "Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.",
@@ -85,6 +85,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/gutenberg.50189"
+    },
+    {
+      "text": "Dòng Nguồn: James, William (1896), \"The Will to Believe\"; in lại trong tuyển tập *The Will to Believe*, 1897; Project Gutenberg theo lần in năm 1912. <https://www.gutenberg.org/ebooks/26659>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.26659"
     }
   ],
   "checklist": {
@@ -95,5 +101,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Hai URL SEP bản lưu fall2026 mở được (curl, 20/11/2026). Mọi dòng khác trùng bản ghi sources/* đã đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 10): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
+  "notes": "Hai URL SEP bản lưu fall2026 mở được (curl, 20/11/2026). Mọi dòng khác trùng bản ghi sources/* đã đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 10): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn. [doi-loi] 2026-11-24 (7.1.2, sau kiểm lượt 1): dòng James ghi rõ lần in 1912 của bản Gutenberg (kiểm lượt 1 7.1.2)."
 }

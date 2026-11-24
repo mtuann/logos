@@ -9227,7 +9227,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 3. Schumpeter, Joseph A. (1942), *Capitalism, Socialism and Democracy*, New York: Harper & Brothers.
 4. Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin; bản Gutenberg theo ấn bản thứ 12 (Paris: Pagnerre, 1848), tập 1 (trong 4 tập). <https://www.gutenberg.org/ebooks/30513>
-5. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+5. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>
 6. Habermas, Jürgen (1992), *Faktizität und Geltung*, Frankfurt: Suhrkamp (bản tiếng Anh *Between Facts and Norms*, 1996, MIT Press).
 7. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
 8. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -9855,7 +9855,7 @@ Gợi ý độ dài: 200–350 chữ.
 Nghịch lý khoan dung: Popper, *The Open Society and Its Enemies*, tập 1, chú thích 4 của chương 7.
 
 1. Howard, Jeffrey W. (2024), "Freedom of Speech", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freedom-speech/>
-2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+2. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>
 3. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
 4. *Abrams v. United States*, 250 U.S. 616 (1919), ý kiến bất đồng của thẩm phán Oliver Wendell Holmes. <https://www.law.cornell.edu/supremecourt/text/250/616>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -11289,7 +11289,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio; nguyên văn trong *Samlede Værker*, tập 3, Internet Archive. <https://archive.org/details/samledevaerkerud03kieruoft>
 2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng); in lại trong *The Scientific Basis of Morals, and Other Essays* (Humboldt Library), Project Gutenberg. <https://www.gutenberg.org/ebooks/50189>
-3. James, William (1896), "The Will to Believe"; in lại trong tuyển tập *The Will to Believe*, 1897, Project Gutenberg. <https://www.gutenberg.org/ebooks/26659>
+3. James, William (1896), "The Will to Believe"; in lại trong tuyển tập *The Will to Believe*, 1897; Project Gutenberg theo lần in năm 1912. <https://www.gutenberg.org/ebooks/26659>
 4. Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
 5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fideism/>
 6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
@@ -15039,7 +15039,7 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 5. Nietzsche, Friedrich, *The Joyful Wisdom*, Thomas Common dịch (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/52881>
 6. Nietzsche, Friedrich (1883–1885), *Thus Spake Zarathustra*, Thomas Common dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/1998>
 7. Nietzsche, Friedrich (1886), *Beyond Good and Evil*, Helen Zimmern dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/4363>
-8. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+8. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>
 9. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 10. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
 11. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
@@ -16459,7 +16459,7 @@ Thử xem bạn nắm được lập luận đến đâu.
 
 ## Nguồn
 
-1. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+1. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>
 2. Mill, John Stuart (1873), *Autobiography*, chương VII, Project Gutenberg. <https://www.gutenberg.org/ebooks/10378>
 3. Macleod, Christopher, "John Stuart Mill", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/mill/>
 4. Vosoughi, Soroush, Deb Roy & Sinan Aral (2018), "The spread of true and false news online", *Science* 359 (6380): 1146–1151. <https://doi.org/10.1126/science.aap9559>
