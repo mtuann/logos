@@ -30,7 +30,6 @@ test("chỉ mục chưa tải khi chưa đụng tới ô tìm; tải khi rê chu
 
 test("gõ không dấu ra bài có dấu; gõ có dấu vẫn ra", async () => {
   const p = await browser.newPage({ viewport: { width: 1280, height: 900 } });
-  // "tu do y chi" không có ở đây: xếp kém cả trước đợt 4.5 (ban-giao/viec-cho.md, 5/11/2026).
   for (const [q, want] of [["dao duc", /dao-duc/], ["tam tri", /tam-tri/], ["tâm trí", /tam-tri/],
                            ["tuong thich luan", /tu-do-y-chi/], ["Đạo đức", /dao-duc/], ["nguy bien", /nguy-bien/]]) {
     await p.goto(srv.origin + "/logos/", { waitUntil: "load" });   // trang mới: không đọc nhầm kết quả của câu trước
@@ -42,11 +41,24 @@ test("gõ không dấu ra bài có dấu; gõ có dấu vẫn ra", async () => {
 
 test("đợt 7.1.3: mọi từ bắt buộc, chữ của địa chỉ trang vào tiêu đề trang (tên chủ đề tìm được)", async () => {
   const p = await browser.newPage({ viewport: { width: 1280, height: 900 } });
-  for (const [q, want, n] of [["tri thuc", "/logos/cau-hoi/tri-thuc/", 6], ["ban nga", "/logos/cau-hoi/ban-nga-thoi-gian/", 3],
-                              ["cai chet", "/logos/cau-hoi/cai-chet/", 1]]) {
+  // Lượt 2 (24/11/2026): chỉ từ cuối giữ *, cộng điểm nguyên từ cuối — "tu do y chi" hạng 1, "tri thuc" hạng 4.
+  for (const [q, want, n] of [["tri thuc", "/logos/cau-hoi/tri-thuc/", 5], ["ban nga", "/logos/cau-hoi/ban-nga-thoi-gian/", 3],
+                              ["cai chet", "/logos/cau-hoi/cai-chet/", 1], ["tu do y chi", "/logos/cau-hoi/tu-do-y-chi/", 2]]) {
     await p.goto(srv.origin + "/logos/", { waitUntil: "load" });
     const top = (await search(p, q)).slice(0, n);
     assert.ok(top.includes(want), `${q}: ${top.join(" | ")}`);
+  }
+  await p.close();
+});
+
+test("đợt 7.1.3: tiêu đề kết quả không có mẩu thẻ tô sáng vỡ (chữ của địa chỉ trang gắn vào tiêu đề)", async () => {
+  const p = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  for (const q of ["tri thuc", "tu do y chi", "ban nga"]) {
+    await p.goto(srv.origin + "/logos/", { waitUntil: "load" });
+    await search(p, q);
+    // Chữ hiển thị (không phải HTML) không được chứa mẩu thẻ như "rk>" hay "<mark>".
+    const texts = await p.$$eval(".md-search-result__item > a :is(h1,h2)", (hs) => hs.map((h) => h.textContent));
+    for (const t of texts) assert.ok(!/[<>]/.test(t), `${q}: ${t}`);
   }
   await p.close();
 });
