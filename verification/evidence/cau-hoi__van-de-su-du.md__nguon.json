@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/van-de-su-du.md#nguon",
-  "hash": "sha256:44255bd7165dc2817c5a6883b1bb28acc3f158fe03ee236f46c69df5c1d18632",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k09",
+  "hash": "sha256:a5fc61dced6685c7e1c3d4e2185e18d0eb90490a073d1430458885fe175de162",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k09 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Phản bác thứ nhất trong *Summa Theologiae*, Phần I, Câu 2, Điều 3 chính là vấn đề sự dữ.",
@@ -111,6 +111,18 @@
           "quote": "Article 3. Whether God exists?"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.newadvent-org.summa-1002-htm"
+    },
+    {
+      "text": "Dòng Nguồn: Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 (\"Nổi loạn\") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov; bản dịch tiếng Anh của Constance Garnett, Project Gutenberg. <https://www.gutenberg.org/ebooks/28054>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.28054"
     }
   ],
   "checklist": {
@@ -121,5 +133,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Năm Summa Theologiae khớp works/aquinas.summa-theologiae (đóng băng, k. 1265–1273). Ghi chú cho người làm (không phải lỗi): câu đầu mục Nguồn đứng lẻ trước danh sách; bài dùng Mackie 1982 (The Miracle of Theism), Wykstra 1996 và Summa Ia q.25 a.3 (toàn năng) trong thân bài mà mục Nguồn không liệt kê."
+  "notes": "Năm Summa Theologiae khớp works/aquinas.summa-theologiae (đóng băng, k. 1265–1273). Ghi chú cho người làm (không phải lỗi): câu đầu mục Nguồn đứng lẻ trước danh sách; bài dùng Mackie 1982 (The Miracle of Theism), Wykstra 1996 và Summa Ia q.25 a.3 (toàn năng) trong thân bài mà mục Nguồn không liệt kê. [doi-loi] 2026-11-24 (7.1.2 lô 8): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

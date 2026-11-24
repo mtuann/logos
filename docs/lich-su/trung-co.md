@@ -76,11 +76,11 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 
 ## Nguồn {#nguon}
 
-1. Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
+1. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 2. Augustine (413–426), *City of God*, bản dịch tiếng Anh phạm vi công cộng.
-3. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+3. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), Internet Archive. <https://archive.org/details/cu31924014583540>
 4. Avicenna (Ibn Sina), *The Book of Healing* (*Kitab al-Shifa*, hoàn thành ở Isfahan, sau khoảng năm 1024).
 5. Averroes (Ibn Rushd), *The Incoherence of the Incoherence* (*Tahafut al-Tahafut*, khoảng 1180) — đáp lại al-Ghazali.
-6. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
+6. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904); lần in năm 1910, Project Gutenberg. <https://www.gutenberg.org/ebooks/73584>
 7. Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.
 8. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas; "Medieval Philosophy" (John Marenbon) và "Influence of Arabic and Islamic Philosophy on the Latin West" (Dag Nikolaus Hasse) — về các phong trào dịch thuật.

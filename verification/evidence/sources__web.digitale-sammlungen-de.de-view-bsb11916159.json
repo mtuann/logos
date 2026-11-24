@@ -1,0 +1,55 @@
+{
+  "unit": "sources/web.digitale-sammlungen-de.de-view-bsb11916159",
+  "hash": "sha256:27b9c2613c6796c4dc85dc26e2d38444ea53208c32ecbec065c0e0684ea4f926",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2r-17 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Kant, Kritik der reinen Vernunft, năm 1781 (lần in đầu, bản A)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL99844W",
+          "quote": "Kritik der reinen Vernunft|Immanuel Kant|1781",
+          "where": "kết quả search.json"
+        }
+      ]
+    },
+    {
+      "text": "Kant phê phán luận chứng bản thể luận (ontological) trong Critique of Pure Reason",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/",
+          "quote": "Perhaps the best known criticisms of ontological arguments are due to Immanuel Kant, in his Critique of Pure Reason."
+        }
+      ]
+    },
+    {
+      "text": "Kant phê phán luận chứng vũ trụ luận (cosmological)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/",
+          "quote": "The cosmological argument came under serious assault in the 18th century, first by David Hume and then by Immanuel Kant."
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.digitale-sammlungen.de/de/view/bsb11916159 — khớp ấn bản A 1781 (nguyên văn tiếng Đức)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.digitale-sammlungen.de/de/view/bsb11916159",
+          "quote": "MDZ (Bayerische Staatsbibliothek) manifest: 'Kant, Immanuel: Critik der reinen Vernunft ... von Immanuel Kant Professor in Königsberg ... Riga : Hartknoch ... 1781 ... [12] Bl., 856 S. ... Vorlageform des Erscheinungsvermerks: Riga, verlegts Johann Friedrich Hartknoch 1781 ... Warda Nr. 59'. Trang xem: <title>'critik der reinen vernunft' - Digitalisat | MDZ</title>."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 8): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.kant-immanuel-1781-kritik-der-reinen-vernunft-phe-phan-ly-ti (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). BSB/MDZ. Bản trùng của BSB: bsb00073694 (cùng metadata). Bản ghi sẵn gutenberg.4280 là bản dịch tiếng Anh Meiklejohn (ấn bản 1781/1787), không khớp dòng Nguồn ghi tên Đức + 1781; nếu chủ biên muốn bản đọc được thì dùng gutenberg.4280 và đổi chữ dòng Nguồn. [doi-loi] 2026-11-24 (7.1.2 lô 8): gộp bản ghi sources/sach.kant-immanuel-1781-kritik-der-reinen-vernunft-phe-phan-ly-ti (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.kant-immanuel-1781-kritik-der-reinen-vernunft-phe-phan-ly-ti.json"
+}

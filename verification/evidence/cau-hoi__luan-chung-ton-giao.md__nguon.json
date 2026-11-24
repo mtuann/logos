@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#nguon",
-  "hash": "sha256:9b94bc264c095163ad1aae7b301398a07cf6a4103daa6024b6fafa89e18ca566",
+  "hash": "sha256:477f76a4d6f61952b7726f47766797efcceaf6f4a25961992982d9a48adb458c",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.8-k08 + claude-doi-loi-7.1.1",
+  "checker": "agent-kiem-5.8-k08 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).",
@@ -91,6 +91,36 @@
           "where": "CHAPTER II, bản Deane 1903"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), Internet Archive. <https://archive.org/details/cu31924014583540>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-cu31924014583540"
+    },
+    {
+      "text": "Dòng Nguồn: Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.newadvent-org.summa-1002-htm"
+    },
+    {
+      "text": "Dòng Nguồn: Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất), Project Gutenberg. <https://www.gutenberg.org/ebooks/4583>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.4583"
+    },
+    {
+      "text": "Dòng Nguồn: Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận; ấn bản A (Riga: Hartknoch, 1781), Münchener DigitalisierungsZentrum. <https://www.digitale-sammlungen.de/de/view/bsb11916159>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.digitale-sammlungen-de.de-view-bsb11916159"
+    },
+    {
+      "text": "Dòng Nguồn: Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*, London: Wilks and Taylor, Internet Archive. <https://archive.org/details/naturaltheologyo0000pale>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-naturaltheologyo0000pale"
     }
   ],
   "checklist": {
@@ -101,5 +131,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Hai URL SEP bản lưu fall2026 mở được (curl, 20/11/2026). Mọi dòng khác trùng bản ghi sources/* đã đóng băng. [doi-loi] 2026-11-24 (7.1.1 lô 5): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
+  "notes": "Hai URL SEP bản lưu fall2026 mở được (curl, 20/11/2026). Mọi dòng khác trùng bản ghi sources/* đã đóng băng. [doi-loi] 2026-11-24 (7.1.1 lô 5): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 8): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

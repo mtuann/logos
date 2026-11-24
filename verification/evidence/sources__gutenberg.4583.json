@@ -1,0 +1,36 @@
+{
+  "unit": "sources/gutenberg.4583",
+  "hash": "sha256:dfcb21bd15b3818280ce6186a8afa6d4f5b494881b14f2dcf84599ed7fc26c86",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-s22 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Hume (1779), Dialogues Concerning Natural Religion, xuất bản sau khi tác giả mất",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4583",
+          "quote": "Original publication: 1779"
+        },
+        {
+          "url": "https://www.gutenberg.org/ebooks/4583",
+          "quote": "David Hume (1711–1776)"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/4583 — khớp tác phẩm (Gutenberg không ghi ấn bản nguồn; dòng Nguồn cũng không nêu ấn bản)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4583",
+          "quote": "'Title: Dialogues Concerning Natural Religion / Author: David Hume / Posting Date: June 20, 2009 [EBook #4583] / First Posted: February 12, 2002 / Language: English'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 8): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.hume-david-1779-dialogues-concerning-natural-religion-xuat-b (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Nếu muốn ấn bản đầu 1779 (London): https://archive.org/details/dialoguesreligio00humeuoft (metadata: 'Dialogues concerning natural religion', 1779, London, 264p, Robarts - University of Toronto) — chỉ kiểm metadata, chưa xem trang tên. Trang www.gutenberg.org đang 'Temporarily Down for Maintenance' lúc kiểm (2026-11-24); nội dung kiểm qua mirror chính thức gutenberg.pglaf.org cùng số ebook. [doi-loi] 2026-11-24 (7.1.2 lô 8): gộp bản ghi sources/sach.hume-david-1779-dialogues-concerning-natural-religion-xuat-b (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.hume-david-1779-dialogues-concerning-natural-religion-xuat-b.json"
+}
