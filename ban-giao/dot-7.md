@@ -27,6 +27,23 @@
 | 7.1.3 | Tìm kiếm xếp theo trang (`viec-cho` 20/11): "tri thuc" đưa `cau-hoi/tri-thuc` vào 5 kết quả đầu | giao diện | kiểm thử mô hình Material |
 | 7.1.4 | `cau-hoi/dao-duc-ung-dung.md`: bỏ phần nghèo đói trùng `cuu-giup-ngheo-doi`, bài chỉ bàn động vật (quyết định 32) | nội dung, `[doi-loi]` | kiểm lượt 1 và mẫu cho các đơn vị đổi |
 
+Thứ tự làm trong 7.1 (chủ biên duyệt 23/11/2026): 7.1.4 → 7.1.1 (6 nhóm chú thích còn lại) → 7.1.3 (ca "tu do y chi") → 7.1.2 (chỉ phần tác phẩm trước 1927; DOI cho sách hiện đại chuyển thành việc thường kỳ, làm dần). Xong cả bốn: push, tag `v1.7.1`.
+
+## Thứ tự các đợt sóng (chủ biên duyệt 23/11/2026)
+
+Đi từ việc nhỏ, dùng lại nguồn đã kiểm, tới việc cần kiểm chứng nhiều. Mỗi đợt sóng xong: push, tag `v1.7.N`.
+
+| Đợt sóng | Nội dung | Thứ tự bên trong |
+|---|---|---|
+| 7.1 | Dọn tồn (trên) | như trên |
+| 7.2 | Bổ sung cho bài có sẵn | 11 thuật ngữ mới → trích dẫn tiêu biểu cho 11 hồ sơ → quiz 5 câu cho 8 hướng dẫn đọc → mục "Đọc văn bản gốc" cho 18 bài |
+| 7.3 | Hồ sơ triết gia mới | Gettier, Mackie, Kuhn, Ayer, Putnam, J. J. Thomson, Ockham, Plantinga → Wollstonecraft, Camus, Vương Dương Minh → Lê Quý Đôn, Phan Châu Trinh → người còn sống (Singer, Chalmers, Nussbaum; quyết định 33) |
+| 7.4 | Hướng dẫn đọc mới | Locke, Hobbes → Tuân Tử → Trần Thái Tông (*Khóa hư lục*) |
+| 7.5 | Bài mới | Nghịch lý; chiếc nhẫn Gyges → chủ đề PhilPapers còn trống → triết học Hồi giáo → tách "Việt Nam" (cần chủ biên quyết về URL trước) |
+| song song | Công cụ Sơ đồ lập luận (tiền đề liên kết/độc lập); nguồn Viện Hán Nôm, Viện Văn học (khi có sách); việc thường kỳ | chen vào khi rảnh |
+
+Còn chờ chủ biên: (1) mục H2 mới thêm vào trang Lõi đã đóng băng (vd "Đọc văn bản gốc", quiz) tính `[doi-loi]` hay là đơn vị `mo-rong` mới — chưa trả lời thì dùng Đề xuất: đơn vị mới không cần `[doi-loi]` nhưng kiểm lượt 1 và mẫu như đợt 5; sửa câu cũ vẫn `[doi-loi]`; (2) tách bài Việt Nam có đổi URL không.
+
 ## Danh sách chờ chủ biên xếp ưu tiên (nội dung mới, Mở rộng)
 
 Rút từ `ban-giao/viec-cho.md`. Chủ biên chọn thứ tự; mỗi mục là một hay vài nhánh, kiểm như đợt 5 trước khi merge.
