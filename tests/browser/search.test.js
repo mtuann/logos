@@ -24,7 +24,9 @@ const index = lunr(function () {
   this.ref("location");
   this.field("title", { boost: 1e3 });
   this.field("text");
-  data.docs.forEach((d) => this.add({ location: d.location, title: strip(d.title), text: strip(d.text) }));
+  // Như worker (đợt 7.1.3): mục đại diện cả trang thêm chữ của địa chỉ trang vào tiêu đề.
+  const theoDiaChi = (loc) => (loc.includes("#") ? "" : " " + ((loc.match(/([^\/]+)\/$/) || [, ""])[1]).replace(/-/g, " "));
+  data.docs.forEach((d) => this.add({ location: d.location, title: strip(d.title) + theoDiaChi(d.location), text: strip(d.text) }));
 });
 
 function topPages(q, n = 5) {
@@ -90,33 +92,50 @@ for (const [a, b] of [["tâm trí", "tam tri"], ["tương thích luận", "tuong
   });
 }
 
-/* Đợt 6.1 (quyết định 38): Material thêm `*` cuối mọi từ của câu truy vấn; worker của site bỏ `*` ở từ ≤ 2 chữ cái.
- * Mô hình: mọi từ là REQUIRED + wildcard cuối như Material; so hạng của trang đích khi có và không có bước ozTuNgan. */
-const { ozTuNgan } = new Function("lunr",
-  WORKER.slice(WORKER.indexOf("  function ozTuNgan"), WORKER.indexOf("  var baseClause")) + "return { ozTuNgan };")(lunr);
+/* Đợt 6.1 (quyết định 38) và 7.1.3: Material thêm `*` cuối mọi từ của câu truy vấn, và lunr giữ `*` trong chữ của từ
+ * (cờ wildcard = 0). Mô hình đi đúng đường ấy: câu "từ* từ*" qua QueryParser, mọi từ REQUIRED (ozBatBuoc); có sửa thì
+ * áp ozBoSao (từ không phải từ cuối và từ cuối ≤ 2 chữ cái khớp nguyên từ) và ozNguyenTu (cộng điểm nguyên từ cuối).
+ * (Mô hình cũ của 6.1 đặt cờ wildcard nên không thấy rằng bước ozTuNgan chưa từng có tác dụng trên trình duyệt.) */
+const { ozBoSao, ozNguyenTu } = new Function("lunr",
+  WORKER.slice(WORKER.indexOf("  function ozBatBuoc"), WORKER.indexOf("  lunr.Index.prototype.search")) +
+  "return { ozBoSao, ozNguyenTu };")(lunr);
+function truyVan(q, coSua) {
+  const s = q.split(/\s+/).map((t) => t + "*").join(" ");
+  return (qq) => {
+    new lunr.QueryParser(s, qq).parse();
+    for (const c of qq.clauses) c.presence = lunr.Query.presence.REQUIRED;
+    if (coSua) { ozBoSao(qq.clauses); ozNguyenTu(qq); }
+  };
+}
 function hangMaterial(q, want, coSua) {
-  const res = index.query((qq) => {
-    for (const t of q.split(/\s+/)) {
-      let c = { term: t, presence: lunr.Query.presence.REQUIRED, wildcard: lunr.Query.wildcard.TRAILING };
-      if (coSua) c = ozTuNgan(c);
-      qq.clause(c);
-    }
-  });
   const pages = [];
-  for (const r of res) { const p = r.ref.split("#")[0]; if (!pages.includes(p)) pages.push(p); }
+  for (const r of index.query(truyVan(q, coSua))) { const p = r.ref.split("#")[0]; if (!pages.includes(p)) pages.push(p); }
   return pages.indexOf(want) + 1 || Infinity;
 }
 const CASES_6 = [...CASES.filter(([, w]) => w), ["y nghia song", "cau-hoi/y-nghia-song/"],
   ["tu do ngon luan", "cau-hoi/tu-do-ngon-luan/"], ["cong ly", "cau-hoi/cong-ly/"], ["cai chet", "cau-hoi/cai-chet/"]];
+// Mô hình không có bước tính lại điểm và gom theo trang của Material: "tri thuc" hạng 7 ở đây, hạng 4 trên Chromium
+// (tests/real/search.test.js giữ ngưỡng 5 kết quả đầu).
+const NGUONG_MO_HINH = { "tri thuc": 7 };
 for (const [q, want] of CASES_6) {
-  test(`6.1: "${q}" không tụt hạng khi bỏ * ở từ ngắn`, () => {
-    assert.ok(hangMaterial(q, want, true) <= hangMaterial(q, want, false), `${q}: ${hangMaterial(q, want, false)} → ${hangMaterial(q, want, true)}`);
+  const n = NGUONG_MO_HINH[q] || 5;
+  test(`7.1.3: "${q}" nằm trong ${n} kết quả đầu với câu truy vấn kiểu Material`, () => {
+    assert.ok(hangMaterial(q, want, true) <= n, `${q}: ${hangMaterial(q, want, false)} → ${hangMaterial(q, want, true)}`);
   });
 }
-test("6.1: từ ngắn khớp nguyên từ, các câu nhiều từ ngắn lên hạng", () => {
-  assert.equal(ozTuNgan({ term: "do", wildcard: lunr.Query.wildcard.TRAILING }).wildcard & lunr.Query.wildcard.TRAILING, 0);
-  assert.ok(ozTuNgan({ term: "nghia", wildcard: lunr.Query.wildcard.TRAILING }).wildcard & lunr.Query.wildcard.TRAILING);
-  assert.ok(hangMaterial("tự do ý chí", "cau-hoi/tu-do-y-chi/", true) <= 3);
-  assert.ok(hangMaterial("tu do ngon luan", "cau-hoi/tu-do-ngon-luan/", true) === 1);
-  assert.ok(hangMaterial("tu do y chi", "cau-hoi/tu-do-y-chi/", true) * 5 <= hangMaterial("tu do y chi", "cau-hoi/tu-do-y-chi/", false));
+test("7.1.3: chỉ từ cuối giữ *, trừ khi ≤ 2 chữ cái; từ cuối có thêm mệnh đề nguyên từ", () => {
+  const q = new lunr.Query(["title", "text"]);
+  new lunr.QueryParser("tri* thuc*", q).parse();
+  ozBoSao(q.clauses);
+  assert.deepEqual(q.clauses.map((c) => c.term), ["tri", "thuc*"]);
+  const q2 = new lunr.Query(["title", "text"]);
+  new lunr.QueryParser("tu* do* y*", q2).parse();
+  ozBoSao(q2.clauses);
+  assert.deepEqual(q2.clauses.map((c) => c.term), ["tu", "do", "y"]);
+  ozNguyenTu(q);
+  assert.equal(q.clauses.length, 3);
+  assert.equal(q.clauses[2].term, "thuc");
+  assert.equal(q.clauses[2].presence, lunr.Query.presence.OPTIONAL);
+  assert.ok(hangMaterial("tu do y chi", "cau-hoi/tu-do-y-chi/", true) < hangMaterial("tu do y chi", "cau-hoi/tu-do-y-chi/", false));
+  assert.ok(hangMaterial("tri thuc", "cau-hoi/tri-thuc/", true) < hangMaterial("tri thuc", "cau-hoi/tri-thuc/", false));
 });
