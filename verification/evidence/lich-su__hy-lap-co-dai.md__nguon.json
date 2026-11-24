@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/hy-lap-co-dai.md#nguon",
-  "hash": "sha256:59faf55c35fe03c3a5fae3825a84e44ead261c8ef949b479d6cc0608ca0bada9",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p01",
+  "hash": "sha256:d1480ad4e558a70b3a66408ec13c59af7c42a7a5b0c611e020cbb7874750564e",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.6-p01 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Platon, Cộng hòa (khoảng 380 TCN)",
@@ -141,6 +141,12 @@
           "where": "tiêu đề"
         }
       ]
+    },
+    {
+      "text": "Câu trước danh sách: *Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; dòng Nguồn: Platon, *Cộng hòa* (*Republic*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.platon-khoang-380-tcn-cong-hoa-republic"
     }
   ],
   "checklist": {
@@ -151,5 +157,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Wikisource ghi Ross mất 1971: bản dịch công cộng ở Mỹ (xuất bản trước 1931) và ở nơi có thời hạn bảo hộ đời tác giả + 54 năm trở xuống. Gutenberg đang bảo trì khi kiểm nên dùng classics.mit.edu và Wikisource."
+  "notes": "Wikisource ghi Ross mất 1971: bản dịch công cộng ở Mỹ (xuất bản trước 1931) và ở nơi có thời hạn bảo hộ đời tác giả + 54 năm trở xuống. Gutenberg đang bảo trì khi kiểm nên dùng classics.mit.edu và Wikisource. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

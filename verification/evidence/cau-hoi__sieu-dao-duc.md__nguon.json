@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/sieu-dao-duc.md#nguon",
-  "hash": "sha256:bfe1853a95770f5ac9cb800d607793591e4582f8dbd676e66d5253d7b529bd06",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k09",
+  "hash": "sha256:5a8e0eab3a3875cd73652a61d791136dc4867bd12c842bb493b4590485833999",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k09 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Các đoạn được dẫn: Hume, Treatise, quyển 3, phần 1, mục 1; Herodotus, The History, quyển III, chương 38",
@@ -177,6 +177,12 @@
           "quote": "Article Number: 11"
         }
       ]
+    },
+    {
+      "text": "Câu trước danh sách: Ayer, *Language, Truth and Logic*, chương 6 (\"Critique of Ethics and Theology\"); dòng Nguồn: Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.ayer-a-j-1936-language-truth-and-logic-london-victor-gollanc"
     }
   ],
   "checklist": {
@@ -187,5 +193,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi URL SEP/IEP mở được bằng curl. gutenberg.org bảo trì: đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook."
+  "notes": "Mọi URL SEP/IEP mở được bằng curl. gutenberg.org bảo trì: đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

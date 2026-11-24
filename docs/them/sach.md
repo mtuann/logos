@@ -1248,9 +1248,11 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn
 
+Các đoạn được dẫn: Platon, *Cộng hòa*, Quyển I; Wittgenstein, *Philosophical Investigations*, §§66–67.
+
 1. Edmund Gettier, "Is Justified True Belief Knowledge?", *Analysis* 23(6), 1963, tr. 121–123.
-2. Platon, *Cộng hòa* (*Republic*), Quyển I.
-3. Ludwig Wittgenstein, *Philosophical Investigations* (1953), §§66–67.
+2. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
+3. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
 
 <div class="oz-page-break"></div>
 
@@ -6061,7 +6063,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, phần 1, mục 1; Herodotus, *The History*, quyển III, chương 38.
+Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, phần 1, mục 1; Herodotus, *The History*, quyển III, chương 38; Ayer, *Language, Truth and Logic*, chương 6 ("Critique of Ethics and Theology").
 
 1. Sayre-McCord, Geoff, "Metaethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/metaethics/>
 2. Sayre-McCord, Geoff, "Moral Realism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-realism/>
@@ -6074,7 +6076,7 @@ Các đoạn được dẫn: Hume, *A Treatise of Human Nature*, quyển 3, ph�
 9. Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>
 10. Moore, G. E. (1903), *Principia Ethica*, Cambridge: Cambridge University Press, §13 (phạm vi công cộng). <https://www.gutenberg.org/ebooks/53430>
 11. Mackie, J. L. (1977), *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin, chương 1.
-12. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz, chương 6 ("Critique of Ethics and Theology").
+12. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
 13. Gabriel, Iason (2020), "Artificial Intelligence, Values, and Alignment", *Minds and Machines* 30(3): 411–437. <https://doi.org/10.1007/s11023-020-09539-2>
 14. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
@@ -14760,7 +14762,9 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 ## Nguồn
 
-1. Platon, *Cộng hòa* (khoảng 380 TCN) — bản dịch tiếng Anh công cộng của Benjamin Jowett.
+*Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett.
+
+1. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
 2. Aristotle, *Siêu hình học*; *Đạo đức Nicomachus* — bản dịch tiếng Anh công cộng của W. D. Ross.
 3. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.
 4. Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.
@@ -15104,8 +15108,9 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 
 1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100.
 2. Bertrand Russell (1905), "On Denoting", *Mind* 14.
-3. Ludwig Wittgenstein (1921), *Tractatus Logico-Philosophicus*; (1953), *Philosophical Investigations*, Oxford: Blackwell.
-4. A. J. Ayer (1936), *Language, Truth and Logic*, London: Gollancz.
+3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.
+4. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
+5. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
 5. W. V. Quine (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60; (1960), *Word and Object*, Cambridge, MA: MIT Press.
 6. Edmund Husserl (1900–1901), *Logische Untersuchungen*; (1913), *Ideen I*.
 7. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.

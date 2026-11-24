@@ -99,7 +99,9 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 ## Nguồn {#nguon}
 
-1. Platon, *Cộng hòa* (khoảng 380 TCN) — bản dịch tiếng Anh công cộng của Benjamin Jowett.
+*Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett.
+
+1. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
 2. Aristotle, *Siêu hình học*; *Đạo đức Nicomachus* — bản dịch tiếng Anh công cộng của W. D. Ross.
 3. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.
 4. Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.

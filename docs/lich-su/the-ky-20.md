@@ -87,8 +87,9 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 
 1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100.
 2. Bertrand Russell (1905), "On Denoting", *Mind* 14.
-3. Ludwig Wittgenstein (1921), *Tractatus Logico-Philosophicus*; (1953), *Philosophical Investigations*, Oxford: Blackwell.
-4. A. J. Ayer (1936), *Language, Truth and Logic*, London: Gollancz.
+3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.
+4. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
+5. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
 5. W. V. Quine (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60; (1960), *Word and Object*, Cambridge, MA: MIT Press.
 6. Edmund Husserl (1900–1901), *Logische Untersuchungen*; (1913), *Ideen I*.
 7. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.

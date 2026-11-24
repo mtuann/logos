@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-20.md#nguon",
-  "hash": "sha256:497bdcd603658756ff1cd76d284faa1e55b8fd51cd76ea6c89f3b4413bf251c3",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p05 + claude-doi-loi-5",
+  "hash": "sha256:0aa5139fcb09ecaf62a85da184854b0170550eba8a77055cfca60e686a860d5b",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.6-p05 + claude-doi-loi-5 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Gottlob Frege (1892), \"Über Sinn und Bedeutung\", Zeitschrift für Philosophie und philosophische Kritik 100.",
@@ -168,6 +168,24 @@
           "quote": "Later, it found itself opposed both to classical Phenomenology (for example, Husserl) and its offspring, such as Existentialism"
         }
       ]
+    },
+    {
+      "text": "Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.wittgenstein-ludwig-1921-tractatus-logico-philosophicus"
+    },
+    {
+      "text": "Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.wittgenstein-ludwig-1953-philosophical-investigations-oxford"
+    },
+    {
+      "text": "Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.ayer-a-j-1936-language-truth-and-logic-london-victor-gollanc"
     }
   ],
   "checklist": {
@@ -178,5 +196,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi mục Nguồn trùng bản ghi kho sources/* đã đóng băng; đối chiếu thêm với thư mục SEP. 'Halle: Niemeyer' cho bản 1927: SEP chỉ ghi bản 7 (Tübingen: Niemeyer, 1953; in lần đầu 1927) — dựa vào bản ghi kho đã đóng băng. Lỗi nhẹ: tên sách Ayer không có dấu phẩy trước 'and' (Open Library, LCCN 36018286: 'Language, truth and logic', V. Gollancz, ltd., London 1936); bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz đang mang dấu phẩy, cần sửa kèm [doi-loi]. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed)."
+  "notes": "Mọi mục Nguồn trùng bản ghi kho sources/* đã đóng băng; đối chiếu thêm với thư mục SEP. 'Halle: Niemeyer' cho bản 1927: SEP chỉ ghi bản 7 (Tübingen: Niemeyer, 1953; in lần đầu 1927) — dựa vào bản ghi kho đã đóng băng. Lỗi nhẹ: tên sách Ayer không có dấu phẩy trước 'and' (Open Library, LCCN 36018286: 'Language, truth and logic', V. Gollancz, ltd., London 1936); bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz đang mang dấu phẩy, cần sửa kèm [doi-loi]. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed). [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }
