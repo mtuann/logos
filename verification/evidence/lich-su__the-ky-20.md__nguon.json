@@ -1,7 +1,7 @@
 {
   "unit": "lich-su/the-ky-20.md#nguon",
-  "hash": "sha256:0aa5139fcb09ecaf62a85da184854b0170550eba8a77055cfca60e686a860d5b",
-  "checked_on": "2026-11-23",
+  "hash": "sha256:6b2d92c1c033cd0af5eeb034488f4edca4c2867d9e520c3eaa5b37f6e1cf7aac",
+  "checked_on": "2026-11-24",
   "checker": "agent-kiem-5.6-p05 + claude-doi-loi-5 + claude-doi-loi-7.1.1",
   "claims": [
     {
@@ -186,6 +186,36 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.ayer-a-j-1936-language-truth-and-logic-london-victor-gollanc"
+    },
+    {
+      "text": "Quine, W. V. (1951), \"Two Dogmas of Empiricism\", *The Philosophical Review* 60.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.quine-w-v-1951-two-dogmas-of-empiricism-the-philosophical-re"
+    },
+    {
+      "text": "Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.quine-willard-van-orman-1960-word-and-object-cambridge-ma-mi"
+    },
+    {
+      "text": "Husserl, Edmund (1900–1901), *Logische Untersuchungen*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.husserl-edmund-19001901-logische-untersuchungen"
+    },
+    {
+      "text": "Husserl, Edmund (1913), *Ideen I*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.husserl-edmund-1913-ideen-i"
+    },
+    {
+      "text": "Đánh lại số mục Nguồn (lô 4 để hai mục cùng số 5; kiểm lượt 1 lô 4–6).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.husserl-edmund-19001901-logische-untersuchungen"
     }
   ],
   "checklist": {
@@ -196,5 +226,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi mục Nguồn trùng bản ghi kho sources/* đã đóng băng; đối chiếu thêm với thư mục SEP. 'Halle: Niemeyer' cho bản 1927: SEP chỉ ghi bản 7 (Tübingen: Niemeyer, 1953; in lần đầu 1927) — dựa vào bản ghi kho đã đóng băng. Lỗi nhẹ: tên sách Ayer không có dấu phẩy trước 'and' (Open Library, LCCN 36018286: 'Language, truth and logic', V. Gollancz, ltd., London 1936); bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz đang mang dấu phẩy, cần sửa kèm [doi-loi]. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed). [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
+  "notes": "Mọi mục Nguồn trùng bản ghi kho sources/* đã đóng băng; đối chiếu thêm với thư mục SEP. 'Halle: Niemeyer' cho bản 1927: SEP chỉ ghi bản 7 (Tübingen: Niemeyer, 1953; in lần đầu 1927) — dựa vào bản ghi kho đã đóng băng. Lỗi nhẹ: tên sách Ayer không có dấu phẩy trước 'and' (Open Library, LCCN 36018286: 'Language, truth and logic', V. Gollancz, ltd., London 1936); bản ghi kho sources/sach.a-j-ayer-1936-language-truth-and-logic-london-gollancz đang mang dấu phẩy, cần sửa kèm [doi-loi]. [doi-loi] Tên sách Ayer sửa thành *Language, Truth and Logic* (claim sai nhẹ đã có, nay fixed). [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng. [doi-loi] 2026-11-24 (7.1.1 lô 7): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

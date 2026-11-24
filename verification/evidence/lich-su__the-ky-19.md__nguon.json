@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-19.md#nguon",
-  "hash": "sha256:1f3d5a36e0c3a711b5ace8fe4a02fe82a3b7da4a0ec87a5562ffb4f1c5fe4dc4",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02",
+  "hash": "sha256:a066acd64f264f54329cdb3ba1f89a335a6debb95c880606c7e4df6770916fa1",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "UK Parliament, “Presenting the 1866 petition” (Living Heritage) <URL parliament.uk>",
@@ -76,6 +76,18 @@
         }
       ],
       "fixed": true
+    },
+    {
+      "text": "Kierkegaard, Søren (1843), *Either/Or*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.kierkegaard-sren-1843-either-or"
+    },
+    {
+      "text": "Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.kierkegaard-sren-1843-frygt-og-bven-fear-and-trembling-ky-te"
     }
   ],
   "checklist": {
@@ -86,5 +98,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix."
+  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix. [doi-loi] 2026-11-24 (7.1.1 lô 7): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

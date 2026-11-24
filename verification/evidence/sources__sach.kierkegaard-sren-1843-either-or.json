@@ -1,0 +1,22 @@
+{
+  "unit": "sources/sach.kierkegaard-sren-1843-either-or",
+  "hash": "sha256:b17ec97785e2178916590bbdabf01b95a32b2fce7027017a11e2c3ebefeb41a9",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-t05 + claude-doi-loi-7.1.1",
+  "claims": [
+    {
+      "text": "Søren Kierkegaard, Either/Or (1843)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Kierkegaard+Either%2FOr",
+          "quote": "\"author_name\":[\"Søren Kierkegaard\"],\"first_publish_year\":1843",
+          "where": "Open Library, tác phẩm Either/Or"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 7): Tách từ mục gộp nhiều tác phẩm sources/sach.sren-kierkegaard-either-or-1843-fear-and-trembling-1843 (quyết định 36: mỗi mục một tác phẩm); claim chép từ bằng chứng của bản ghi đó. Phần *Fear and Trembling* gộp vào sources/sach.kierkegaard-sren-1843-frygt-og-bven-fear-and-trembling-ky-te."
+}

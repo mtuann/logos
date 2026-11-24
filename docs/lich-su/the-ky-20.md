@@ -90,9 +90,11 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.
 4. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
 5. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
-5. W. V. Quine (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60; (1960), *Word and Object*, Cambridge, MA: MIT Press.
-6. Edmund Husserl (1900–1901), *Logische Untersuchungen*; (1913), *Ideen I*.
-7. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
-8. Jean-Paul Sartre (1943), *L'Être et le néant*, Paris: Gallimard.
-9. Max Horkheimer & Theodor W. Adorno (1947), *Dialektik der Aufklärung*, Amsterdam: Querido.
-10. Aaron Preston, "Analytic Philosophy", *Internet Encyclopedia of Philosophy* (IEP) — về lịch sử của triết học phân tích và sự đối lập với hiện tượng luận, hiện sinh, triết học lục địa: <https://iep.utm.edu/analytic-philosophy/>.
+6. Quine, W. V. (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60.
+7. Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.
+8. Husserl, Edmund (1900–1901), *Logische Untersuchungen*.
+9. Husserl, Edmund (1913), *Ideen I*.
+10. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
+11. Jean-Paul Sartre (1943), *L'Être et le néant*, Paris: Gallimard.
+12. Max Horkheimer & Theodor W. Adorno (1947), *Dialektik der Aufklärung*, Amsterdam: Querido.
+13. Aaron Preston, "Analytic Philosophy", *Internet Encyclopedia of Philosophy* (IEP) — về lịch sử của triết học phân tích và sự đối lập với hiện tượng luận, hiện sinh, triết học lục địa: <https://iep.utm.edu/analytic-philosophy/>.

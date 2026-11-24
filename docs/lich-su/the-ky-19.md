@@ -89,8 +89,9 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
-3. Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843).
-4. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
-5. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
-6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
-7. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
+3. Kierkegaard, Søren (1843), *Either/Or*.
+4. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.
+5. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
+6. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
+7. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
+8. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>

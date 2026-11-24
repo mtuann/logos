@@ -51,6 +51,8 @@ TEN_KHAC = {
     "Cư trần lạc đạo": "tran-nhan-tong.cu-tran-lac-dao-phu",          # bài kệ kết của bài phú
     "City of God": "augustine.de-civitate-dei",                       # bí danh works/chua-ro.city-of-god bỏ ở 7.1.1 lô 5
     "Confessions": "augustine.confessiones",                         # bí danh works/chua-ro.confessions bỏ ở 7.1.1 lô 5
+    "Either/Or": "kierkegaard.enteneller",                           # bí danh works/chua-ro.either-or bỏ ở 7.1.1 lô 7
+    "Fear and Trembling": "kierkegaard.frygt-og-bven",               # bí danh works/chua-ro.fear-and-trembling bỏ ở 7.1.1 lô 7
     "Đạo đức học": "spinoza.ethica-ordine-geometrico-demonstrata",
     "Đạo đức kinh": "lao-tu.lao-tu",
     "Đạo đức Nicomachus": "aristotle.ethica-nicomachea",
