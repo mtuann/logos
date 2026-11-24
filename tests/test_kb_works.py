@@ -47,9 +47,11 @@ class TestKbWorks(unittest.TestCase):
         "Tác giả (năm), *Tác phẩm*" ở mục Nguồn): bớt 2 (*Cộng hòa* (khoảng 380 TCN) ở hy-lap-co-dai,
         *Philosophical Investigations* (1953) ở dinh-nghia-phan-vi-du) → 168; lô 5: bớt 3 (*Confessions* (397–400),
         *City of God* (413–426), *Proslogion* (1077–1078) ở mục Nguồn của trung-co) → 165; lô 7: bớt 3 (*An Enquiry Concerning Human Understanding* (1748) ở can-dai; *Either/Or* (1843), *Fear and Trembling* (1843) ở the-ky-19) → 162; 7.1.2 lô 9: bớt 1 (*Meditations on First Philosophy* (1641) ở can-dai,
-        nay chép chữ bản ghi Wikisource) → 161."""
+        nay chép chữ bản ghi Wikisource) → 161; lô 10: bớt 6 (*Phenomenology of Spirit*, *The Gay Science*,
+        *Thus Spoke Zarathustra*, *Beyond Good and Evil*, *On Liberty*, *Utilitarianism* ở the-ky-19), thêm 1 (*Pensées* (1670)
+        ở duc-tin-ly-tri, chép chữ bản ghi gutenberg.18269) → 156."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 161)
+        self.assertEqual(n, 156)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():

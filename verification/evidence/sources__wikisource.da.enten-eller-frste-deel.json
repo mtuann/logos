@@ -1,0 +1,33 @@
+{
+  "unit": "sources/wikisource.da.enten-eller-frste-deel",
+  "hash": "sha256:52de5a4ab3e5497bf72e063b3fba46289b3e198e80df5f199e715df466ff310d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-t05 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Søren Kierkegaard, Either/Or (1843)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=Kierkegaard+Either%2FOr",
+          "quote": "\"author_name\":[\"Søren Kierkegaard\"],\"first_publish_year\":1843",
+          "where": "Open Library, tác phẩm Either/Or"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel, https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._Anden_Deel — khác ấn bản: nguyên văn tiếng Đan Mạch, lần in thứ 4 (1878), không phải lần in đầu 1843; dòng Nguồn dùng tên tiếng Anh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel",
+          "quote": "'Enten — Eller. Første Deel af Søren Kierkegaard Kjøbenhavn, C. A. Reitzels Forlag, 1878 ... Enten — Eller. Et Livs-Fragment, udgivet af Victor Eremita. Fjerde Udgave. Første Deel, indeholdende A.'s Papirer.'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.kierkegaard-sren-1843-either-or (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Không có bản dịch tiếng Anh đầy đủ công cộng (trước 1927); Hollander 1923 (gutenberg.60333) chỉ có trích 'Diapsalmata'. Phần hai: https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._Anden_Deel ('Fjerde Udgave. Anden Deel, indeholdende B.'s Papirer, Breve til A.'). Có thể cần chủ biên chọn ghi tên Đan Mạch trong dòng Nguồn. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.kierkegaard-sren-1843-either-or (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.kierkegaard-sren-1843-either-or.json"
+}

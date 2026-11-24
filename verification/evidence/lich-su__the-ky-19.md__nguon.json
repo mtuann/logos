@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/the-ky-19.md#nguon",
-  "hash": "sha256:a066acd64f264f54329cdb3ba1f89a335a6debb95c880606c7e4df6770916fa1",
+  "hash": "sha256:020a6f5b13a38ed2499f5f8db39d4f73f175c1355496518f7c43eaba70c0c964",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02 + claude-doi-loi-7.1.1",
+  "checker": "agent-kiem-5.6-p04 + agent-kiem-5.6-k02 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "UK Parliament, “Presenting the 1866 petition” (Living Heritage) <URL parliament.uk>",
@@ -88,6 +88,54 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.kierkegaard-sren-1843-frygt-og-bven-fear-and-trembling-ky-te"
+    },
+    {
+      "text": "Dòng Nguồn: Nietzsche, Friedrich, *The Joyful Wisdom*, Thomas Common dịch (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/52881>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.52881"
+    },
+    {
+      "text": "Dòng Nguồn: Nietzsche, Friedrich (1883–1885), *Thus Spake Zarathustra*, Thomas Common dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/1998>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1998"
+    },
+    {
+      "text": "Dòng Nguồn: Nietzsche, Friedrich (1886), *Beyond Good and Evil*, Helen Zimmern dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/4363>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.4363"
+    },
+    {
+      "text": "Dòng Nguồn: Hegel, G. W. F. (1807), *Phenomenology of Spirit*; bản dịch tiếng Anh của J. B. Baillie (*The Phenomenology of Mind*, London: Swan Sonnenschein, 1910), Internet Archive: tập I <https://archive.org/details/cu31924097557171>; tập II <https://archive.org/details/cu31924091023832>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-cu31924097557171"
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.11224"
+    },
+    {
+      "text": "Dòng Nguồn: Kierkegaard, Søren (1843), *Either/Or*; nguyên văn tiếng Đan Mạch (*Enten — Eller*), lần in thứ tư (1878), Wikisource tiếng Đan Mạch: phần một <https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel>; phần hai <https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._Anden_Deel>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/wikisource.da.enten-eller-frste-deel"
+    },
+    {
+      "text": "Dòng Nguồn: Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio; nguyên văn trong *Samlede Værker*, tập 3, Internet Archive. <https://archive.org/details/samledevaerkerud03kieruoft>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-samledevaerkerud03kieruoft"
     }
   ],
   "checklist": {
@@ -98,5 +146,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix. [doi-loi] 2026-11-24 (7.1.1 lô 7): Tách mục gộp Kierkegaard (*Either/Or*; *Fear and Trembling* gộp với bản ghi của duc-tin-ly-tri); đánh lại số; không có vị trí nào phải chuyển."
+  "notes": "Năm các tác phẩm trong mục 1–5 trùng bản ghi kho đóng băng (works/hegel.phanomenologie-des-geistes, kierkegaard.enteneller, kierkegaard.frygt-og-bven, nietzsche.die-frohliche-wissenschaft, nietzsche.also-sprach-zarathustra, nietzsche.jenseits-von-gut-und-bose, mill.on-liberty, mill.utilitarianism [năm_note: in thành sách 1863], marx.das-kapital, marx.manifest-der-kommunistischen-partei). Trang parliament.uk chặn bot; dùng bản Wayback 2025. 'Bản dịch tiếng Anh công cộng' (mục 1, 4) không ghi người dịch — không kiểm được cụ thể, không tính là lỗi. Kiểm lại (2026-11-17, agent-kiem-5.6-k02): c4: dòng chú thích trùng đã bỏ khỏi mục Nguồn, đúng fix. [doi-loi] 2026-11-24 (7.1.1 lô 7): Tách mục gộp Kierkegaard (*Either/Or*; *Fear and Trembling* gộp với bản ghi của duc-tin-ly-tri); đánh lại số; không có vị trí nào phải chuyển. [doi-loi] 2026-11-24 (7.1.2 lô 10): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

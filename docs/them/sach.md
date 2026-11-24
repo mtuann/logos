@@ -11281,10 +11281,12 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.
-2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng).
-3. James, William (1896), "The Will to Believe".
-4. Pascal, Blaise (1670), *Pensées*, đoạn "Infini-rien" (xuất bản sau khi tác giả mất).
+Đoạn được dẫn: Pascal, *Pensées*, đoạn "Infini-rien" (xuất bản sau khi tác giả mất).
+
+1. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio; nguyên văn trong *Samlede Værker*, tập 3, Internet Archive. <https://archive.org/details/samledevaerkerud03kieruoft>
+2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng); in lại trong *The Scientific Basis of Morals, and Other Essays* (Humboldt Library), Project Gutenberg. <https://www.gutenberg.org/ebooks/50189>
+3. James, William (1896), "The Will to Believe"; in lại trong tuyển tập *The Will to Believe*, 1897, Project Gutenberg. <https://www.gutenberg.org/ebooks/26659>
+4. Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
 5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fideism/>
 6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -15026,14 +15028,17 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 
 ## Nguồn
 
-1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
+1. Hegel, G. W. F. (1807), *Phenomenology of Spirit*; bản dịch tiếng Anh của J. B. Baillie (*The Phenomenology of Mind*, London: Swan Sonnenschein, 1910), Internet Archive: tập I <https://archive.org/details/cu31924097557171>; tập II <https://archive.org/details/cu31924091023832>
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
-3. Kierkegaard, Søren (1843), *Either/Or*.
-4. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.
-5. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
-6. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
-7. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
-8. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
+3. Kierkegaard, Søren (1843), *Either/Or*; nguyên văn tiếng Đan Mạch (*Enten — Eller*), lần in thứ tư (1878), Wikisource tiếng Đan Mạch: phần một <https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel>; phần hai <https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._Anden_Deel>
+4. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio; nguyên văn trong *Samlede Værker*, tập 3, Internet Archive. <https://archive.org/details/samledevaerkerud03kieruoft>
+5. Nietzsche, Friedrich, *The Joyful Wisdom*, Thomas Common dịch (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/52881>
+6. Nietzsche, Friedrich (1883–1885), *Thus Spake Zarathustra*, Thomas Common dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/1998>
+7. Nietzsche, Friedrich (1886), *Beyond Good and Evil*, Helen Zimmern dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/4363>
+8. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+9. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
+10. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
+11. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
 
 <div class="oz-page-break"></div>
 
@@ -15117,15 +15122,15 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 
 ## Nguồn
 
-1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100.
-2. Bertrand Russell (1905), "On Denoting", *Mind* 14.
-3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.
+1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100: 25–50; bản quét trên Wikimedia Commons. <https://commons.wikimedia.org/wiki/File:%C3%9Cber_Sinn_und_Bedeutung.djvu>
+2. Bertrand Russell (1905), "On Denoting", *Mind* 14. <https://doi.org/10.1093/mind/XIV.4.479>
+3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*; bản song ngữ Đức–Anh, bản dịch C. K. Ogden (1922), Project Gutenberg. <https://www.gutenberg.org/ebooks/5740>
 4. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
 5. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
 6. Quine, W. V. (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60.
 7. Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.
-8. Husserl, Edmund (1900–1901), *Logische Untersuchungen*.
-9. Husserl, Edmund (1913), *Ideen I*.
+8. Husserl, Edmund (1900–1901), *Logische Untersuchungen*, Leipzig: Veit (tập I, 1900), Halle: Niemeyer (tập II, 1901); Internet Archive: tập I <https://archive.org/details/logischeuntersuc01hussuoft>; tập II <https://archive.org/details/logischeuntersuc00hussuoft>
+9. Husserl, Edmund (1913), *Ideen I*, in trong *Jahrbuch für Philosophie und phänomenologische Forschung* 1, Internet Archive. <https://archive.org/details/jppf1.1>
 10. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
 11. Jean-Paul Sartre (1943), *L'Être et le néant*, Paris: Gallimard.
 12. Max Horkheimer & Theodor W. Adorno (1947), *Dialektik der Aufklärung*, Amsterdam: Querido.

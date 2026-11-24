@@ -85,15 +85,15 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 
 ## Nguồn {#nguon}
 
-1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100.
-2. Bertrand Russell (1905), "On Denoting", *Mind* 14.
-3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.
+1. Gottlob Frege (1892), "Über Sinn und Bedeutung", *Zeitschrift für Philosophie und philosophische Kritik* 100: 25–50; bản quét trên Wikimedia Commons. <https://commons.wikimedia.org/wiki/File:%C3%9Cber_Sinn_und_Bedeutung.djvu>
+2. Bertrand Russell (1905), "On Denoting", *Mind* 14. <https://doi.org/10.1093/mind/XIV.4.479>
+3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*; bản song ngữ Đức–Anh, bản dịch C. K. Ogden (1922), Project Gutenberg. <https://www.gutenberg.org/ebooks/5740>
 4. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
 5. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
 6. Quine, W. V. (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60.
 7. Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.
-8. Husserl, Edmund (1900–1901), *Logische Untersuchungen*.
-9. Husserl, Edmund (1913), *Ideen I*.
+8. Husserl, Edmund (1900–1901), *Logische Untersuchungen*, Leipzig: Veit (tập I, 1900), Halle: Niemeyer (tập II, 1901); Internet Archive: tập I <https://archive.org/details/logischeuntersuc01hussuoft>; tập II <https://archive.org/details/logischeuntersuc00hussuoft>
+9. Husserl, Edmund (1913), *Ideen I*, in trong *Jahrbuch für Philosophie und phänomenologische Forschung* 1, Internet Archive. <https://archive.org/details/jppf1.1>
 10. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
 11. Jean-Paul Sartre (1943), *L'Être et le néant*, Paris: Gallimard.
 12. Max Horkheimer & Theodor W. Adorno (1947), *Dialektik der Aufklärung*, Amsterdam: Querido.
