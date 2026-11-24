@@ -1,0 +1,28 @@
+{
+  "unit": "sources/sach.augustine-413426-city-of-god-ban-dich-tieng-anh-pham-vi-cong",
+  "hash": "sha256:04f234e6b6df2506c8b6469a6c5d9166ace6da7e77c7aca7355c64d7af8ba980",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r12 + claude-doi-loi-7.1.1",
+  "claims": [
+    {
+      "text": "Có bản dịch tiếng Anh công cộng của City of God",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45304",
+          "quote": "The City of God, Volume I",
+          "where": "Gutenberg #45304; Editor Dods, Marcus, 1834-1909"
+        }
+      ]
+    },
+    {
+      "text": "Augustine (413–426), City of God",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/augustine.de-civitate-dei"
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 5): Tách từ mục gộp hai tác phẩm sach.augustine-confessions-397400-city-of-god-413426-ban-dich-tie (lich-su/trung-co; quyết định 36). Năm 413–426 như bản ghi tác phẩm đã đóng băng works/augustine.de-civitate-dei (Gutenberg #45304, lời giới thiệu Dods: khởi viết A.D. 413; SEP: khởi 412, xong 426) và hồ sơ Augustine; claim '(413–426)' bị chấm sai nhẹ ở bản ghi gộp cũ (theo SEP), bản ghi tác phẩm 5.1b chấp nhận cả hai nguồn."
+}

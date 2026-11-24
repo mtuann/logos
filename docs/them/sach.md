@@ -1,14 +1,14 @@
 ---
 title: Logos — Sách in
 description: Toàn bộ bài viết của Logos gộp thành một cuốn sách in được.
-updated: 2026-11-23
+updated: 2026-11-24
 search:
   exclude: true
 ---
 
 # Logos — Sách in {#logos-sach-in}
 
-*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 23/11/2026.*
+*Bản tổng hợp các bài viết của Logos để in ra đọc. Nội dung cập nhật đến ngày 24/11/2026.*
 
 !!! note "Lưu ý khi in"
     Mỗi bài bắt đầu ở một trang mới.
@@ -6676,9 +6676,11 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
+Đoạn được dẫn: Augustine, *Confessions*, Quyển 7.
+
 1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>
 2. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.
-3. Augustine, *Confessions*, Quyển 7 (khoảng năm 397–400, phạm vi công cộng).
+3. Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
 4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
@@ -11048,10 +11050,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
+Đoạn được dẫn: Anselm, *Proslogion*, chương 2.
+
 1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
 2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất).
 3. Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*.
-4. Anselm xứ Canterbury (1077–1078), *Proslogion*, chương 2. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+4. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
 5. Gaunilo thành Marmoutier, *Liber pro insipiente* (*Bênh vực kẻ ngu dại*) — đáp lại Anselm, viết cùng thời.
 6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận.
 7. Plantinga, Alvin (1974), *The Nature of Necessity*, Oxford: Clarendon Press — phiên bản modal của luận chứng bản thể luận.
@@ -14844,13 +14848,14 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 
 ## Nguồn
 
-1. Augustine, *Confessions* (397–400); *City of God* (413–426) — bản dịch tiếng Anh công cộng.
-2. Anselm, *Proslogion* (1077–1078) — bản dịch tiếng Anh công cộng của Sidney Norton Deane (1903).
-3. Avicenna (Ibn Sina), *The Book of Healing* (*Kitab al-Shifa*, hoàn thành ở Isfahan, sau khoảng năm 1024).
-4. Averroes (Ibn Rushd), *The Incoherence of the Incoherence* (*Tahafut al-Tahafut*, khoảng 1180) — đáp lại al-Ghazali.
-5. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
-6. Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.
-7. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas; "Medieval Philosophy" (John Marenbon) và "Influence of Arabic and Islamic Philosophy on the Latin West" (Dag Nikolaus Hasse) — về các phong trào dịch thuật.
+1. Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
+2. Augustine (413–426), *City of God*, bản dịch tiếng Anh phạm vi công cộng.
+3. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+4. Avicenna (Ibn Sina), *The Book of Healing* (*Kitab al-Shifa*, hoàn thành ở Isfahan, sau khoảng năm 1024).
+5. Averroes (Ibn Rushd), *The Incoherence of the Incoherence* (*Tahafut al-Tahafut*, khoảng 1180) — đáp lại al-Ghazali.
+6. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
+7. Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.
+8. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas; "Medieval Philosophy" (John Marenbon) và "Influence of Arabic and Islamic Philosophy on the Latin West" (Dag Nikolaus Hasse) — về các phong trào dịch thuật.
 
 <div class="oz-page-break"></div>
 
