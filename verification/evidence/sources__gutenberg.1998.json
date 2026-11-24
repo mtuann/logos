@@ -1,0 +1,45 @@
+{
+  "unit": "sources/gutenberg.1998",
+  "hash": "sha256:d33a3ef1034a239533fff6a61c82d7f7f687ddbc8265f5efc279116c48b30485",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-s21 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "The Gay Science (1882), Thus Spoke Zarathustra (1883–1885), Beyond Good and Evil (1886)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/nietzsche/",
+          "quote": "The Gay Science (1882, second expanded edition 1887), Thus Spoke Zarathustra (1883–5), Beyond Good and Evil (1886)",
+          "where": "SEP Nietzsche, mục 1 (trích qua tóm tắt công cụ)"
+        }
+      ]
+    },
+    {
+      "text": "Bản dịch tiếng Anh công cộng: Zarathustra (Gutenberg #1998), Beyond Good and Evil (#4363), The Joyful Wisdom = Gay Science (#52881)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1998",
+          "quote": "Thus Spake Zarathustra: A Book for All and None",
+          "where": "Gutenberg #1998; #4363 và #52881 cũng đã mở"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/1998 — khớp (bản dịch tiếng Anh công cộng trước 1927: Common, Common, Zimmern)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1998",
+          "quote": "(1) #52881: 'THE COMPLETE WORKS OF FRIEDRICH NIETZSCHE ... EDITED BY DR OSCAR LEVY ... VOLUME TEN THE JOYFUL WISDOM (\"LA GAYA SCIENZA\") ... TRANSLATED BY THOMAS COMMON'. (2) #1998: 'THUS SPAKE ZARATHUSTRA A BOOK FOR ALL AND NONE By Friedrich Nietzsche Translated By Thomas Common'. (3) #4363: 'BEYOND GOOD AND EVIL By Friedrich Nietzsche Translated by Helen Zimmern ... as published in The Complete Works of Friedrich Nietzsche (1909-1913)'."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.friedrich-nietzsche-the-gay-science-1882-thus-spoke-zarathus (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). url = tác phẩm đầu (Gay Science). Cần tách 3 tác phẩm: Gay Science -> https://www.gutenberg.org/ebooks/52881 (đã có bản ghi gutenberg.52881, khớp: bản Common, tên tiếng Anh 'The Joyful Wisdom'); Zarathustra -> https://www.gutenberg.org/ebooks/1998 (Common; chưa có bản ghi); Beyond Good and Evil -> https://www.gutenberg.org/ebooks/4363 (Zimmern; chưa có bản ghi). Trang www.gutenberg.org đang 'Temporarily Down for Maintenance' lúc kiểm (2026-11-24); nội dung kiểm qua mirror chính thức gutenberg.pglaf.org cùng số ebook."
+}

@@ -87,11 +87,14 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 
 ## Nguồn {#nguon}
 
-1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
+1. Hegel, G. W. F. (1807), *Phenomenology of Spirit*; bản dịch tiếng Anh của J. B. Baillie (*The Phenomenology of Mind*, London: Swan Sonnenschein, 1910), Internet Archive: tập I <https://archive.org/details/cu31924097557171>; tập II <https://archive.org/details/cu31924091023832>
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
-3. Kierkegaard, Søren (1843), *Either/Or*.
-4. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.
-5. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
-6. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
-7. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
-8. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
+3. Kierkegaard, Søren (1843), *Either/Or*; nguyên văn tiếng Đan Mạch (*Enten — Eller*), lần in thứ tư (1878), Wikisource tiếng Đan Mạch: phần một <https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel>; phần hai <https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._Anden_Deel>
+4. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio; nguyên văn trong *Samlede Værker*, tập 3, Internet Archive. <https://archive.org/details/samledevaerkerud03kieruoft>
+5. Nietzsche, Friedrich, *The Joyful Wisdom*, Thomas Common dịch (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/52881>
+6. Nietzsche, Friedrich (1883–1885), *Thus Spake Zarathustra*, Thomas Common dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/1998>
+7. Nietzsche, Friedrich (1886), *Beyond Good and Evil*, Helen Zimmern dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/4363>
+8. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+9. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
+10. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
+11. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>

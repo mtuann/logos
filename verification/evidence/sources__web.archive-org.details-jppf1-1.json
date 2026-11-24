@@ -1,0 +1,33 @@
+{
+  "unit": "sources/web.archive-org.details-jppf1-1",
+  "hash": "sha256:d448616b24e9dc954a90df865d52a04b419bd234f4e298c4531c580a5cdf72ab",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-s21 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Ideen I, 1913",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/husserl/",
+          "quote": "Ideas I from 1913 marks Husserl's explicit embrace of transcendental philosophy",
+          "where": "SEP Husserl, mục 3"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/jppf1.1 — khớp lần in đầu 1913 (Ideen I in trong Jahrbuch Bd. 1, Teil 1)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/jppf1.1",
+          "quote": "Metadata: 'Jahrbuch für Philosophie und phänomenologische Forschung', 1913, volume 1, 'Teil I — Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie (Edmund Husserl) — Zur Psychologie der Gesinnungen. Erster Artikel (Alexander Pfänder)'. OCR: 'Jahrbuch für Philosophie und phänomenologische Forschung ... herausgegeben von EDMUND HUSSERL Erster Band Teil I Halle a.d.S. Verlag von Max Niemeyer 1913'."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.husserl-edmund-1913-ideen-i (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Link là cả tập Jahrbuch, Ideen I nằm trong đó (kèm bài Pfänder). Có bản quét trùng: https://archive.org/details/jppf-1-1 . Bản tách riêng có trên IA là in lại 1922 (ideenzueinerrein00unse, Niemeyer, vi phim Columbia) — khác ấn bản. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.husserl-edmund-1913-ideen-i (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.husserl-edmund-1913-ideen-i.json"
+}

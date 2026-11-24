@@ -1,0 +1,50 @@
+{
+  "unit": "sources/gutenberg.26659",
+  "hash": "sha256:63a955ebe4989c38551460aa435ba6ac50552c2e33124b3afd27eae6ccffa025",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2r-17 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "James, William, The Will to Believe: tác giả William James, bài/sách có thật",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/26659",
+          "quote": "The Will to Believe, and Other Essays in Popular Philosophy",
+          "where": "Author James, William, 1842-1910"
+        }
+      ]
+    },
+    {
+      "text": "năm 1896: bài luận 'The Will to Believe' đăng năm 1896 (New World, tháng 6/1896); in sách tuyển tập tháng 2/1897 (Longmans, Green)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "quote": "Published in the New World, June, 1896.",
+          "where": "chú thích 1 của bài luận"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/james/",
+          "quote": "Publishes The Will to Believe and Other Essays in Popular Philosophy, with Longmans, Green & Co.",
+          "where": "mục niên biểu 1897"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/26659 — khớp bài, nhưng khác ấn bản: link là tuyển tập 'The Will to Believe and Other Essays' (1897, in lại), bài đứng đầu; dòng Nguồn ghi bài 1896",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/26659",
+          "quote": "'Title: The Will to Believe / Author: William James / Release Date: May 8, 2009 [EBook #26659]' ; trang tên: 'First Edition. February, 1897' ; chú thích bài: 'THE WILL TO BELIEVE.[1] ... [1] An Address to the Philosophical Clubs of Yale and Brown Universities. Published in the New World, June, 1896.'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.james-william-1896-the-will-to-believe (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Không tìm bản quét tạp chí New World 1896. Trang www.gutenberg.org đang 'Temporarily Down for Maintenance' lúc kiểm (2026-11-24); nội dung kiểm qua mirror chính thức gutenberg.pglaf.org cùng số ebook. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.james-william-1896-the-will-to-believe (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.james-william-1896-the-will-to-believe.json"
+}

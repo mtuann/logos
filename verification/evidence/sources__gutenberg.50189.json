@@ -1,0 +1,45 @@
+{
+  "unit": "sources/gutenberg.50189",
+  "hash": "sha256:03ee328121458e8a322a2f9f543f50f2fcda4f1e7180d5031065d47d6878415d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r14 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Clifford, William K. (1877), 'The Ethics of Belief'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/w/api.php?action=parse&page=The_Ethics_of_Belief&prop=wikitext&format=json&origin=*",
+          "quote": "Contemporary Review, January, 1877.",
+          "where": "Wikisource 'The Ethics of Belief' (William Kingdon Clifford, year 1877)"
+        }
+      ]
+    },
+    {
+      "text": "Văn bản thuộc phạm vi công cộng (in 1877/1879, tác giả mất 1879) và có bản toàn văn trên Wikisource",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://en.wikisource.org/w/api.php?action=parse&page=The_Ethics_of_Belief&prop=wikitext&format=json&origin=*",
+          "quote": "This version is as reprinted in ''Lectures and Essays'' (1879), volume 2, pp. 177–211.",
+          "where": "Wikisource header notes"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/50189 — khác ấn bản: bài in lại trong tuyển Humboldt Library (New York), không phải bản đăng năm 1877 trên Contemporary Review; cùng văn bản bài luận",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/50189",
+          "quote": "HUMBOLDT LIBRARY OF POPULAR SCIENCE LITERATURE. THE SCIENTIFIC BASIS OF MORALS, AND OTHER ESSAYS; Viz.: Right and Wrong; The Ethics of Belief; The Ethics of Religion. By WILLIAM KINGDON CLIFFORD, F.R.S. ... III. THE ETHICS OF BELIEF."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.clifford-william-k-1877-the-ethics-of-belief-pham-vi-cong-co (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Tôi không mở được bản Contemporary Review 1877 nào (chưa tìm). Năm in của bản Humboldt không thấy trong phần đầu file. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.clifford-william-k-1877-the-ethics-of-belief-pham-vi-cong-co (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.clifford-william-k-1877-the-ethics-of-belief-pham-vi-cong-co.json"
+}

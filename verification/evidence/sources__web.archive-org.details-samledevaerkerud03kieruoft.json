@@ -1,0 +1,49 @@
+{
+  "unit": "sources/web.archive-org.details-samledevaerkerud03kieruoft",
+  "hash": "sha256:c8b840d705a727ef54198744c6782e293ed448887d73b811157b3d63e12dacbe",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2r-17 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Kierkegaard, Frygt og Bæven (Fear and Trembling), năm 1843",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Fear and Trembling (1843)",
+          "where": "danh sách tác phẩm 1843-1846"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL112736W",
+          "quote": "Frygt og Bæven|Søren Kierkegaard|1843",
+          "where": "kết quả search.json"
+        }
+      ]
+    },
+    {
+      "text": "ký tên Johannes de Silentio (SEP viết 'de silentio')",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/kierkegaard/",
+          "quote": "Johannes de silentio, the author of Fear and Trembling"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/samledevaerkerud03kieruoft — khác ấn bản: nguyên văn Đan Mạch trong Samlede Værker bd. 3 (Gyldendal; IA ghi 1920), không phải lần in đầu 1843; tác phẩm và bút danh khớp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/samledevaerkerud03kieruoft",
+          "quote": "Metadata: 'Samlede vaerker; udgivne af A.B. Drachmann, J.L. Heiberg og H.O. Lange', volume 3, Kjøbenhavn Gyldendal, date 1920 (Robarts - University of Toronto). OCR Fraktur (lỗi nhiều) trang tên bên trong: 'JFriigt og iSætiett. af So^anttc^ de silentio. ... 1843.' (= Frygt og Bæven af Johannes de silentio, 1843)."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.kierkegaard-sren-1843-frygt-og-bven-fear-and-trembling-ky-te (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Không có trên da.wikisource (trang 'Frygt og Bæven' trống). Bản IA 'frygtogbvendial00kiergoog' là in lại 1980 (C.A. Reitzel, 'Reprint. Originally published 1843') — mới, tránh. Bản tiếng Anh: Hollander 1923 (gutenberg.60333, có mục 'FEAR AND TREMBLING' nhưng chỉ khoảng một phần ba tác phẩm: '...about one-third of \"Fear and Trembling.\"'); bản ghi sẵn: gutenberg.60333 'Kierkegaard, Søren, *Selections from the Writings of Kierkegaard*, L. M. Hollander dịch (1923), Project Gutenberg.' — chỉ là tuyển chọn, không khớp trọn tác phẩm. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.kierkegaard-sren-1843-frygt-og-bven-fear-and-trembling-ky-te (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.kierkegaard-sren-1843-frygt-og-bven-fear-and-trembling-ky-te.json"
+}

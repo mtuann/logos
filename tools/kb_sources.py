@@ -41,6 +41,9 @@ ITEM = re.compile(r"^(?:\d+\.|[-*+])\s+")
 # cùng một tác phẩm (bản điện tử khác, bản dịch, nguyên văn, các chương/thiên); mục gộp nhiều tác phẩm thì tách.
 # Bản ghi đã duyệt (khóa → lý do) hiện ở danh sách lệch mục "đã duyệt", không tính là mục mở.
 NHIEU_URL_DUYET = {
+    "wikisource.da.enten-eller-frste-deel": "*Enten — Eller* của Kierkegaard: hai phần",
+    "web.archive-org.details-logischeuntersuc01hussuoft": "*Logische Untersuchungen* của Husserl: hai tập của ấn bản đầu",
+    "web.archive-org.details-cu31924097557171": "*Phenomenology of Spirit* của Hegel: hai tập bản dịch Baillie (1910)",
     "web.archive-org.details-bim-eighteenth-century-a-treatise-of-human": "*A Treatise of Human Nature* của Hume: ba quyển của ấn bản đầu",
     "ctext.mengzi-gong-sun-chou-i": "*Mạnh Tử*: ba thiên 2A, 3B, 6A",
     "ctext.mengzi-teng-wen-gong-i": "*Mạnh Tử*: hai thiên 3A, 3B",

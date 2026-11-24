@@ -1,0 +1,58 @@
+{
+  "unit": "sources/web.archive-org.details-cu31924097557171",
+  "hash": "sha256:36f1c8a80389bdd63e1aa947d268a541d614ff1cebc4167bdb8aa468c7474723",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r16 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Hegel, Phenomenology of Spirit, 1807",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/hegel/",
+          "quote": "the Phenomenology of Spirit (published 1807)"
+        }
+      ]
+    },
+    {
+      "text": "tồn tại bản dịch tiếng Anh công cộng (J. B. Baillie, 1910)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28phenomenology+of+mind%29+AND+creator%3Ahegel&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=creator&fl%5B%5D=publisher&rows=15&output=json",
+          "quote": "The phenomenology of mind",
+          "where": "Internet Archive: phenomenologyof02hege, 1910, Hegel / Baillie, J. B., London: Sonnenschein; New York: Macmillan (cũng cu31924097557171, phenomenologyofm02hege)"
+        }
+      ]
+    },
+    {
+      "text": "mục ghi 'bản dịch tiếng Anh công cộng' dưới tên 'Phenomenology of Spirit' nhưng bản công cộng (Baillie 1910) mang tên 'The Phenomenology of Mind'",
+      "kind": "du-kien",
+      "verdict": "sai",
+      "severity": "nhe",
+      "fix": "G. W. F. Hegel, Phenomenology of Spirit (1807) — bản dịch tiếng Anh công cộng: J. B. Baillie, The Phenomenology of Mind (London: Sonnenschein, 1910).",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28phenomenology+of+mind%29+AND+creator%3Ahegel&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&fl%5B%5D=creator&fl%5B%5D=publisher&rows=15&output=json",
+          "quote": "The phenomenology of mind",
+          "where": "Internet Archive, ngày 1910-01-01, dịch giả J. B. Baillie"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/cu31924097557171, https://archive.org/details/cu31924091023832 — khớp (bản dịch tiếng Anh J. B. Baillie, 1910, trước 1927); tên tiếng Anh của bản dịch là 'The Phenomenology of Mind'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/cu31924097557171",
+          "quote": "'THE PHENOMENOLOGY OF MIND BY G. W. F. HEGEL TRANSLATED, WITH AN INTRODUCTION AND NOTES, BY J. B. BAILLIE ... VOL. I LONDON SWAN SONNENSCHEIN & CO, Limited NEW YORK: THE MACMILLAN COMPANY 1910' (OCR, bản quét Cornell University Library)."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.g-w-f-hegel-phenomenology-of-spirit-1807-ban-dich-tieng-anh (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Tập I. Tập II (cùng ấn bản 1910, Cornell): https://archive.org/details/cu31924091023832 (OCR: 'VOL. II LONDON SWAN SONNENSCHEIN'). Bản ghi gutenberg.6698 là nguyên văn tiếng Đức (Project Gutenberg), không phải bản dịch tiếng Anh nên không dùng được cho dòng này. Gutenberg không có bản Baillie. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.g-w-f-hegel-phenomenology-of-spirit-1807-ban-dich-tieng-anh (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.g-w-f-hegel-phenomenology-of-spirit-1807-ban-dich-tieng-anh.json"
+}

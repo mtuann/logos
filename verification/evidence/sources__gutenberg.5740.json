@@ -1,0 +1,38 @@
+{
+  "unit": "sources/gutenberg.5740",
+  "hash": "sha256:e6db77fcab404444f027d6802a8f4f9a1a413a5253bc36442991976a48c37459",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r18 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Wittgenstein (1921), Tractatus Logico-Philosophicus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=tractatus+logico-philosophicus&author=wittgenstein",
+          "quote": "Tractatus Logico-Philosophicus",
+          "where": "Open Library: Ludwig Wittgenstein, first_publish_year 1921"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL1410381W/editions.json?limit=30",
+          "quote": "Tractatus logico-philosophicus",
+          "where": "bản Anh 1922, K. Paul, Trench, Trubner & co., London"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/5740 — khác ấn bản: bản Ogden 1922 (Kegan Paul), dòng Nguồn ghi 1921 (bản tiếng Đức trong Annalen der Naturphilosophie)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/5740",
+          "quote": "header: title = Tractatus Logico-Philosophicus | author = Ludwig Wittgenstein | translator = Charles Kay Ogden; ghép từ 'Wittgenstein - Tractatus Logico-Philosophicus, 1922.djvu'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.wittgenstein-ludwig-1921-tractatus-logico-philosophicus (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Có trên Gutenberg #5740 (TeX: 'Translator: C. K. Ogden', 'KEGAN PAUL, TRENCH, TRUBNER & CO., LTD.', '1922', nhắc tới bản trong 'Annalen der Naturphilosophie (1921)'; GUTINDEX ghi Language: German, tức bản song ngữ). Chọn bản ghi sẵn để tái dùng; nếu ưu tiên Gutenberg thì dùng #5740 làm bản ghi mới. Trang gutenberg.org đang 503 (bảo trì) lúc kiểm; số ebook xác nhận qua GUTINDEX.ALL và tệp văn bản trên bản sao gutenberg.pglaf.org. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.wittgenstein-ludwig-1921-tractatus-logico-philosophicus (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.wittgenstein-ludwig-1921-tractatus-logico-philosophicus.json"
+}

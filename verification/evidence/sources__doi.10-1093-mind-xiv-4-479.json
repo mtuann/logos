@@ -1,0 +1,33 @@
+{
+  "unit": "sources/doi.10-1093-mind-xiv-4-479",
+  "hash": "sha256:14737b21d850f2bb42cf2cf6205e19849b42da1cb98b1d73588fd652a8384ea2",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-s20 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Russell (1905), 'On Denoting', Mind 14",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works/10.1093/mind/XIV.4.479",
+          "quote": "ON DENOTING",
+          "where": "Crossref: Bertrand Russell, Mind, 1905, vol XIV, issue 4, pp 479-493"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://doi.org/10.1093/mind/XIV.4.479 — khớp (bài gốc, Mind 14(56), 1905)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.1093/mind/XIV.4.479",
+          "quote": "Crossref: 10.1093/mind/xiv.4.479 | 'II.—ON DENOTING' | Mind | XIV | 4 | 479-493 | 1905 | RUSSELL"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 10): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.bertrand-russell-1905-on-denoting-mind-14 (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). DOI chuyển tới academic.oup.com, trang này trả 403 với curl; tôi xác nhận qua Crossref. Bản đọc mở cùng số: https://archive.org/details/sim_mind_1905-10_14_56 ('Mind 1905-10: Vol 14 Iss 56', không giới hạn truy cập, OCR có 'II—ON DENOTING. By a “denoting phrase” I mean a phrase such as any one'). Kho đã có tiền lệ link dạng sim_ (bài The Monist). Bản Wikisource 'On Denoting' lấy chữ từ Logic and Knowledge (1956), không phải bản Mind, nên không đề xuất. [doi-loi] 2026-11-24 (7.1.2 lô 10): gộp bản ghi sources/sach.bertrand-russell-1905-on-denoting-mind-14 (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.bertrand-russell-1905-on-denoting-mind-14.json"
+}

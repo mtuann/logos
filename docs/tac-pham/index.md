@@ -277,7 +277,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 - *Expériences nouvelles touchant le vide* (1647) — nhắc tới trong: [hồ sơ Blaise Pascal](../triet-gia/pascal.md)
 - *Traité du triangle arithmétique* (1653) — nhắc tới trong: [hồ sơ Blaise Pascal](../triet-gia/pascal.md)
 - *Les Provinciales* (1656) — nhắc tới trong: [hồ sơ Blaise Pascal](../triet-gia/pascal.md)
-- *Pensées* (1670) — nhắc tới trong: [hồ sơ Blaise Pascal](../triet-gia/pascal.md)
+- *Pensées* (1670) — nhắc tới trong: [Có nên tin mà không cần bằng chứng?](../cau-hoi/duc-tin-ly-tri.md#nguon), [hồ sơ Blaise Pascal](../triet-gia/pascal.md)
 
 ## John Locke {#locke}
 
@@ -357,7 +357,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 1770–1831 · [Trang triết gia](../triet-gia/hegel.md)
 
-- *Phänomenologie des Geistes* (1807) (còn ghi: *Hiện tượng học Tinh thần*, *Phenomenology of Spirit*) — nhắc tới trong: [hồ sơ Hegel](../triet-gia/hegel.md), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon)
+- *Phänomenologie des Geistes* (1807) (còn ghi: *Hiện tượng học Tinh thần*) — nhắc tới trong: [hồ sơ Hegel](../triet-gia/hegel.md)
 - *Wissenschaft der Logik* (1812) — nhắc tới trong: [hồ sơ Hegel](../triet-gia/hegel.md)
 - *Enzyklopädie der philosophischen Wissenschaften* (1817) — nhắc tới trong: [hồ sơ Hegel](../triet-gia/hegel.md)
 - *Grundlinien der Philosophie des Rechts* (1821) — nhắc tới trong: [hồ sơ Hegel](../triet-gia/hegel.md)
@@ -367,8 +367,8 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 1806–1873 · [Trang triết gia](../triet-gia/mill.md)
 
 - *A System of Logic* (1843) — nhắc tới trong: [hồ sơ J. S. Mill](../triet-gia/mill.md)
-- *On Liberty* (1859) (còn ghi: *Bàn về tự do*) — nhắc tới trong: [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md#cac-lap-truong-chinh), [Tự do ngôn luận — John Stuart Mill, \"Bàn về tự do\" chương 2 (1859)](../doc/mill-tu-do.md#doc-tung-doan), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon), [hồ sơ J. S. Mill](../triet-gia/mill.md)
-- *Utilitarianism* (1861) — nhắc tới trong: [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh), [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md#doc-van-ban-goc), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon), [hồ sơ J. S. Mill](../triet-gia/mill.md)
+- *On Liberty* (1859) (còn ghi: *Bàn về tự do*) — nhắc tới trong: [Tự do ngôn luận: được nói đến đâu?](../cau-hoi/tu-do-ngon-luan.md#cac-lap-truong-chinh), [Tự do ngôn luận — John Stuart Mill, \"Bàn về tự do\" chương 2 (1859)](../doc/mill-tu-do.md#doc-tung-doan), [hồ sơ J. S. Mill](../triet-gia/mill.md)
+- *Utilitarianism* (1861) — nhắc tới trong: [Hành động đúng là gì? Ba lý thuyết lớn của đạo đức học](../cau-hoi/dao-duc-hanh-dong.md#cac-lap-truong-chinh), [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md#doc-van-ban-goc), [hồ sơ J. S. Mill](../triet-gia/mill.md)
 - *The Subjection of Women* (1869) — nhắc tới trong: [hồ sơ J. S. Mill](../triet-gia/mill.md)
 - *Tự truyện* (1873) — nhắc tới trong: [Tự do ngôn luận — John Stuart Mill, \"Bàn về tự do\" chương 2 (1859)](../doc/mill-tu-do.md#boi-canh)
 
@@ -400,9 +400,9 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 
 - *Die Geburt der Tragödie* (1872) (còn ghi: *Sự ra đời của bi kịch*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md)
 - *Menschliches, Allzumenschliches* (1878) (còn ghi: *Con người, quá đỗi con người*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md)
-- *Die fröhliche Wissenschaft* (1882) (còn ghi: *Khoa học vui*, *The Gay Science*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon)
-- *Also sprach Zarathustra* (1883) (còn ghi: *Thus Spoke Zarathustra*, *Zarathustra đã nói như thế*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon)
-- *Jenseits von Gut und Böse* (1886) (còn ghi: *Bên kia thiện và ác*, *Beyond Good and Evil*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nguon)
+- *Die fröhliche Wissenschaft* (1882) (còn ghi: *Khoa học vui*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md)
+- *Also sprach Zarathustra* (1883) (còn ghi: *Zarathustra đã nói như thế*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md), [Thế kỷ 19: hệ thống vỡ vụn](../lich-su/the-ky-19.md#nietzsche-chua-da-chet)
+- *Jenseits von Gut und Böse* (1886) (còn ghi: *Bên kia thiện và ác*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md)
 - *Zur Genealogie der Moral* (1887) (còn ghi: *Phả hệ của đạo đức*) — nhắc tới trong: [hồ sơ Nietzsche](../triet-gia/nietzsche.md)
 
 ## Frege {#frege}
