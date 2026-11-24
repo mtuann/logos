@@ -1,20 +1,14 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#nguon",
-  "hash": "sha256:869c2d3473f0a0adf5cf82825f50fc9f79f463a1aa4490b1129a63a564bf6c74",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "hash": "sha256:6c10b1c3bebadbceeb68cf053b951957f66f9416e84cf7ea7f61fdaea3519f9f",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k10 + claude-doi-loi-7.1.4",
   "claims": [
     {
       "text": "Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House.",
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.singer-peter-1975-animal-liberation-new-york-new-york-review"
-    },
-    {
-      "text": "Singer, Peter (1972), \"Famine, Affluence, and Morality\", *Philosophy & Public Affairs* 1(3): 229–243.",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "kb": "sources/sach.singer-peter-1972-famine-affluence-and-morality-philosophy-p"
     },
     {
       "text": "Gruen, Lori & Susana Monsó, \"The Moral Status of Animals\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>",
@@ -27,12 +21,6 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.bentham-jeremy-1789-an-introduction-to-the-principles-of-mor"
-    },
-    {
-      "text": "MacAskill, William (2015), *Doing Good Better*, New York: Gotham Books (về \"vị tha hiệu quả\").",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "kb": "sources/sach.macaskill-william-2015-doing-good-better-new-york-gotham-boo"
     },
     {
       "text": "David Bourget & David J. Chalmers, \"Philosophers on Philosophy: The 2020 PhilPapers Survey\", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109>",
@@ -49,5 +37,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cả 6 dòng trùng bản ghi sources/* đã đóng băng. URL SEP bản lưu fall2026 mở được, tác giả Gruen & Monsó khớp."
+  "notes": "Cả 6 dòng trùng bản ghi sources/* đã đóng băng. URL SEP bản lưu fall2026 mở được, tác giả Gruen & Monsó khớp.\n[doi-loi] 7.1.4: Bỏ Singer 1972 và MacAskill 2015 (bài không còn phần nghèo đói, vị tha hiệu quả); đánh lại số. Bản ghi sources/sach.macaskill-… không còn trang nào dùng: dòng sổ bỏ, file bằng chứng giữ."
 }

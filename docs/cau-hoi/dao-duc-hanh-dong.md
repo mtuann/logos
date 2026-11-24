@@ -57,7 +57,7 @@ Một lưu ý về cách đọc bài này: ba lý thuyết được trình bày 
 
 Cuối cùng, một câu hỏi mà cả ba họ đều phải đối mặt: *may mắn đạo đức*. Hai tài xế cùng lơ là như nhau; một người may mắn không đâm ai, người kia đâm chết một đứa trẻ. Trực giác của ta trách người thứ hai nặng hơn nhiều — nhưng sự khác biệt giữa họ chỉ là may mắn. Nếu đạo đức đánh giá *con người* (đức hạnh) hay *châm ngôn* (Kant) hay *hậu quả* (vị lợi), thì may mắn có chỗ đứng nào? Đây là một câu đố mở mà không họ nào giải quyết trọn vẹn.
 
-Đọc xong bài này, bạn đã có khung lý thuyết. Bài tiếp theo — [Ăn thịt có sai không?](dao-duc-ung-dung.md) — sẽ đưa khung ấy ra đời sống, nơi các lập luận không còn là bài tập trên giấy mà động đến bữa cơm và chiếc ví của bạn.
+Đọc xong bài này, bạn đã có khung lý thuyết. Bài tiếp theo — [Ăn thịt có sai không?](dao-duc-ung-dung.md) — sẽ đưa khung ấy ra đời sống, nơi các lập luận không còn là bài tập trên giấy mà động đến bữa cơm và lương tâm của bạn.
 
 Còn một câu hỏi lùi xa hơn: khi nói một hành động "đúng", ta đang nêu một sự thật hay bày tỏ thái độ? Đó là việc của siêu đạo đức học, xem [Đúng sai có khách quan không?](sieu-dao-duc.md).
 

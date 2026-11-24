@@ -1,28 +1,39 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#tu-viet",
-  "hash": "sha256:bc0816158935873b788d4d20e0d446a51a50b24dbdb30690a497204281bcaf29",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "hash": "sha256:d0489507367bcc82963c15f3d901cc76ecdb952f4d576a3863d08e9645d79963",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k10 + claude-doi-loi-7.1.4 + agent-kiem-7.1.4",
   "claims": [
     {
-      "text": "(Singer cho rằng cứu đứa trẻ trong ao là *bổn phận*, không phải lòng hảo tâm tùy hứng — bạn có đồng ý không?)",
+      "text": "Câu hỏi Tự viết: thịt lợn giá rẻ từ trang trại công nghiệp — dùng lập luận của Singer về động vật và ít nhất một phản bác",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "On the contrary, we ought to give the money away, and it is wrong not to do so."
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "Any being that has an interest in not suffering deserves to have that interest taken into account."
         }
       ]
     },
     {
-      "text": "Bạn có xét đến ít nhất một phản bác (tính đòi hỏi quá đáng, trách nhiệm với người thân, hiệu quả viện trợ) và đáp lại nó không?",
+      "text": "Bạn có xét đến ít nhất một phản bác (con người có lý tính đặc biệt, hướng khế ước, hướng Kant, đạo đức học đức hạnh) và đáp lại nó không?",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
         {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "One objection to the position I have taken might be simply that it is too drastic a revision of our moral scheme."
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "In the Lectures on Ethics he makes it clear that we have indirect duties to animals"
+        }
+      ]
+    },
+    {
+      "text": "Bạn có phân biệt \"không được gây đau không cần thiết\" với \"không được ăn thịt\" không? (Câu hỏi dẫn dắt 3 ở mục Đọc văn bản gốc hỏi bước từ cái này sang cái kia có vững không.)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-ung-dung/",
+          "quote": "bước nhảy từ \"chúng biết đau\" đến \"ta không được ăn thịt chúng\" có vững không"
         }
       ]
     }
@@ -35,5 +46,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Câu hỏi bám đúng lập luận \"cái ao\" và các phản bác trong bài."
+  "notes": "[trước 7.1.4] Câu hỏi bám đúng lập luận \"cái ao\" và các phản bác trong bài.\n[doi-loi] 7.1.4: Câu hỏi Tự viết cũ (2 triệu đồng, lập luận 'cái ao') thay bằng câu hỏi về động vật; tiêu chí chỉ dùng các lập trường và phản bác có trong thân bài."
 }
