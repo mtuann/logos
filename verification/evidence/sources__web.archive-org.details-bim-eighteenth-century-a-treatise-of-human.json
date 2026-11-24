@@ -1,0 +1,44 @@
+{
+  "unit": "sources/web.archive-org.details-bim-eighteenth-century-a-treatise-of-human",
+  "hash": "sha256:a1525a0dea4bbb0568183e80908572455fa5111c920bbad3f0216a7fc702a520",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r16 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Hume, A Treatise of Human Nature (Gutenberg 4705, tác giả David Hume 1711–1776)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/4705",
+          "quote": "A Treatise of Human Nature"
+        }
+      ]
+    },
+    {
+      "text": "Treatise: London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Hume+%22Treatise+of+Human+Nature%22+1739+%22John+Noon%22+1740+%22Thomas+Longman%22+Book+3",
+          "quote": "The imprint of vol.3, dated 1740, reads: 'printed for Thomas Longman'",
+          "where": "mô tả bản ghi thư mục (Great Writers Inspire / Oxford): 'London: printed for John Noon, 1739-40'; EBSCO: vol. 1-2 1739 John Noon"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_1, https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_2, https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_3 — khớp ấn bản gốc (Noon 1739, Longman 1740); OCR vi phim chất lượng kém",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_1",
+          "quote": "Vol 1 (OCR vi phim): 'TREATISE OF Human Nature BEING An ATTEMPT to introduce the experimental Method of Reasoning INTO MORAL SUBJECTS ... Printed for John Noon ... Cheapside'. Vol 2: 'LONDON: Printed for JohN Noon, at the White-Hart, near Mercers-Chapel in Cheapside'. Vol 3: '... Thomas Longman, at the ... Pater-noster-Row, MDCCXL'."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 9): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Ấn bản gốc chia 3 tập trên Internet Archive: tập 1 (link chính), tập 2 https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_2 , tập 3 (Longman 1740, metadata IA ghi nhầm 1739) https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_3 . Nếu muốn một link văn bản đầy đủ: Gutenberg #4705 ('A TREATISE OF HUMAN NATURE By David Hume', không ghi ấn bản) đã có bản ghi gutenberg.4705, text: 'Hume, David, *A Treatise of Human Nature* (1739–1740), Project Gutenberg. <https://www.gutenberg.org/ebooks/4705>' — bản ghi này không nêu  [doi-loi] 2026-11-24 (7.1.2 lô 9): gộp bản ghi sources/sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n.json"
+}

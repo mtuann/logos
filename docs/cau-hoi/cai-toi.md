@@ -184,10 +184,11 @@ Gợi ý độ dài: 150–300 chữ.
 3. Siderits, Mark, "Buddha", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/buddha/>
 4. Locke, John, *An Essay Concerning Human Understanding* (1689), tập 1, Project Gutenberg. <https://www.gutenberg.org/ebooks/10615>
 5. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
-6. Reid, Thomas (1785), *Essays on the Intellectual Powers of Man*, Edinburgh.
-7. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740).
-8. Plutarch (khoảng 45–120), *Life of Theseus* (câu chuyện con tàu Theseus); Hobbes, Thomas (1655), *De Corpore* (biến thể con tàu thứ hai được ghép từ ván cũ).
-9. Butler, Joseph (1736), "Of Personal Identity", phụ lục trong *The Analogy of Religion*, London (phản bác tính vòng tròn).
-10. Shoemaker, Sydney (1970), "Persons and Their Pasts", *American Philosophical Quarterly* 7: 269–285 (khái niệm ký ức-giả).
-11. Williams, Bernard (1970), "The Self and the Future", *Philosophical Review* 79: 161–180 (lập luận từ nỗi sợ đau khổ tương lai, chống lại tiêu chí tâm lý; viết trước *Reasons and Persons* nhưng thường được dùng để phản bác hướng của Parfit).
-12. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
+6. Reid, Thomas (1785), *Essays on the Intellectual Powers of Man*, Edinburgh: John Bell, Internet Archive. <https://archive.org/details/essaysonintellec00reiduoft>
+7. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); bản quét ấn bản đầu, Internet Archive: Quyển 1 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_1>; Quyển 2 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_2>; Quyển 3 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_3>
+8. Plutarch (khoảng 45–120), *Life of Theseus* (câu chuyện con tàu Theseus), bản dịch tiếng Anh của Aubrey Stewart và George Long (1894), Project Gutenberg. <https://www.gutenberg.org/ebooks/14033>
+9. Hobbes, Thomas (1655), *De Corpore* (biến thể con tàu thứ hai được ghép từ ván cũ); bản tiếng Anh *Concerning Body* trong *The English Works of Thomas Hobbes*, tập I (Molesworth biên tập, 1839), Project Gutenberg. <https://www.gutenberg.org/ebooks/73877>
+10. Butler, Joseph (1736), "Of Personal Identity", phụ lục trong *The Analogy of Religion*, London (phản bác tính vòng tròn); bản quét lần in đầu, Internet Archive. <https://archive.org/details/analogyreligionn00butl>
+11. Shoemaker, Sydney (1970), "Persons and Their Pasts", *American Philosophical Quarterly* 7: 269–285 (khái niệm ký ức-giả).
+12. Williams, Bernard (1970), "The Self and the Future", *Philosophical Review* 79: 161–180 (lập luận từ nỗi sợ đau khổ tương lai, chống lại tiêu chí tâm lý; viết trước *Reasons and Persons* nhưng thường được dùng để phản bác hướng của Parfit).
+13. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

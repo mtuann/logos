@@ -1,0 +1,74 @@
+{
+  "unit": "sources/gutenberg.73877",
+  "hash": "sha256:b86fc128efa80b87f5ee8f9b612200a756db4552d25ce2a18e9cce86edbf5f9a",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-g02 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Plutarch, Life of Theseus có câu chuyện con tàu của Theseus được thay ván dần",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/674/pg674.txt",
+          "quote": "they took away the old planks as they decayed",
+          "where": "Gutenberg #674 (Plutarch's Lives, bản Dryden), Life of Theseus"
+        }
+      ]
+    },
+    {
+      "text": "Hobbes, De Corpore xuất bản 1655",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=hobbes+de+corpore&fields=key,title,author_name,first_publish_year,publisher&limit=5",
+          "quote": "\"first_publish_year\":1655",
+          "where": "Open Library, tác phẩm 'De corpore', Thomas Hobbes; nhà in ghi 'sumptibus Andr. Crooke'"
+        }
+      ]
+    },
+    {
+      "text": "Hobbes trong De Corpore nêu biến thể con tàu thứ hai ghép từ ván cũ (II.11)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Hobbes+%22De+Corpore%22+%22ship+of+Theseus%22+%22old+planks%22+%22first+the+same+ship%22+repaired",
+          "quote": "ship [ were continually repaired by ] taking out the old planks and putting in new and if some man had kept the old planks as they were taken out , and by putting them afterwards together in the same",
+          "where": "Google Books, đoạn trích What If... (Peg Tittle, Routledge 2016) trích Hobbes, De Corpore, Part II"
+        },
+        {
+          "url": "https://www.google.com/books/feeds/volumes?q=Hobbes+%22De+Corpore%22+%22ship+of+Theseus%22+%22old+planks%22+%22first+the+same+ship%22+repaired",
+          "quote": "ship as it was at the beginning” (Hobbes, De Corpore II: 11)",
+          "where": "Google Books, đoạn trích Thought Experiment (Gendler, Routledge 2014); xác nhận chương II.11, chưa thấy số mục 7 riêng"
+        }
+      ]
+    },
+    {
+      "text": "Khoảng 45–120 là niên đại Plutarch",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/plutarch/",
+          "quote": "45–120 CE) was a Platonist philosopher",
+          "where": "SEP Plutarch, đoạn đầu"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/73877 — Plutarch: khớp tác phẩm (bản dịch Stewart & Long 1894). Hobbes: khác ấn bản — bản tiếng Anh *Concerning Body* (Molesworth 1839), không phải bản Latin *De Corpore* 1655",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/73877",
+          "quote": "(1) PG 14033: 'PLUTARCH'S LIVES, VOLUME I ... by AUBREY STEWART, M.A. ... and the late GEORGE LONG ... London George Bell & Sons ... 1894'; Theseus XXIII: 'Now the thirty-oared ship, in which Theseus sailed with the youths ... became an illustration to philosophers of the doctrine of growth and change'. (2) PG 73877: 'THE ENGLISH WORKS OF THOMAS HOBBES OF MALMESBURY; ... BY SIR WILLIAM MOLESWORTH, BART. VOL. I. LONDON: JOHN BOHN ... MDCCCXXXIX'; 'ELEMENTS OF PHILOSOPHY. ... CONCERNING BODY', ch."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 9): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.plutarch-khoang-45120-life-of-theseus-cau-chuyen-con-tau-the (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Cần tách thành 2 bản ghi: Plutarch -> https://www.gutenberg.org/ebooks/14033 ; Hobbes -> https://www.gutenberg.org/ebooks/73877. Không tìm được bản Latin 1655 số hóa mở đáng tin trên IA. Đã có bản ghi web.lexundria-com.plut-thes-23-prr ('Plutarch, *Life of Theseus* 23.1 (bản dịch tiếng Anh của Bernadotte Perrin): <https://lexundria.com/plut_thes/23/prr>') — dùng được cho phần Plutarch nếu muốn tái dùng. Trang gutenberg.org đang 503 (bảo trì) lúc kiểm; số ebook xác nhận qua GUTINDEX.ALL và tệp văn bản trên bản sao gutenberg.pglaf.org."
+}

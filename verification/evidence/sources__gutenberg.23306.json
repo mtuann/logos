@@ -1,0 +1,55 @@
+{
+  "unit": "sources/gutenberg.23306",
+  "hash": "sha256:b66f50f0422f0bc86c32a7b55debe10e1e08d24846bdce05cff2306b264be117",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r14 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Meditationes de prima philosophia xuất bản năm 1641 (bản in đầu)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Meditationes+de+prima+philosophia%22+1641+%22Michaelem+Soly%22",
+          "quote": "The first edition of the Meditationes , published in Paris apud Michaelem Soly in August 1641",
+          "where": "Google Books: C.F. Fowler, Descartes on the Human Soul (2012), tr. 35"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/descartes-epistemology/",
+          "quote": "a seventh set was added with the second edition (1642)",
+          "where": "SEP Descartes' Epistemology"
+        }
+      ]
+    },
+    {
+      "text": "Nơi in và nhà in: Paris, Michel Soly",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Meditationes+de+prima+philosophia%22+1641+%22Michaelem+Soly%22",
+          "quote": "Meditationes de prima philosophia , in qua Dei existentia et animae immortalitas demonstratur (Parisiis, apud Michaelem Soly, 1641)",
+          "where": "Google Books: Descartes. Opere 1637-1649 (Belgioioso, 2014), tr. lxviii"
+        },
+        {
+          "url": "https://www.google.com/search?tbm=bks&q=%22Meditationes+de+prima+philosophia%22+1641+%22Michaelem+Soly%22",
+          "quote": "Apud MICHAELEM SOLY , via Iacobeâ",
+          "where": "Google Books: Descartes, Meditationes (1912), tr. 16, chép trang tựa bản 1641: M. DC . XLI"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/23306 — khác ấn bản: bản Buchenau (Leipzig 1913), dựng theo văn bản ấn bản đầu Paris 1641 (Michael Soly), có ghi số trang của bản gốc",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/23306",
+          "quote": "Title: Meditationes de prima philosophia / Author: René Descartes / Language: Latin ... Bibliotheca Philosophorum Vol. I DESCARTES MEDITATIONES de prima philosophia Curavit Artur Buchenau Lipsiae 1913 ... 'Der Titel der ersten Ausgabe der \"Meditationen\" (1641) lautet vollstaendig: ... Parisiis, Apud Michaelem Soli ... MDCXLI ... Der Text dieser Erst-Ausgabe ist hier zugrunde gelegt und es sind die Seitenzahlen des Originals am Rande in [ ] eingeschlossen beigefuegt'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 9): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.descartes-rene-1641-meditationes-de-prima-philosophia-paris (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Không tìm thấy bản scan chính ấn bản 1641: archive.org chỉ có Elzevir 1642 (ned-kbn-all-00003573-001); Gallica bị chặn; Google Books API hết hạn mức. Kho có sẵn bản dịch Veitch trên Wikisource, nhưng đó là bản dịch, không phải nguyên văn Latin. [doi-loi] 2026-11-24 (7.1.2 lô 9): gộp bản ghi sources/sach.descartes-rene-1641-meditationes-de-prima-philosophia-paris (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.descartes-rene-1641-meditationes-de-prima-philosophia-paris.json"
+}

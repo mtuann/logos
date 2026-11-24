@@ -1,0 +1,33 @@
+{
+  "unit": "sources/web.archive-org.details-essaysonintellec00reiduoft",
+  "hash": "sha256:3d0ccbbe9c5c34d4bd0df78771d36ff6711d2073b8ccab74fbe0e84a193425e2",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r20 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Reid (1785), Essays on the Intellectual Powers of Man, Edinburgh",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL2665121W/editions.json?limit=60",
+          "quote": "J. Bell ... [et al.",
+          "where": "Open Library, ấn bản 1785, Edinburgh (OL58113048M)"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/essaysonintellec00reiduoft — khớp (Edinburgh 1785)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/essaysonintellec00reiduoft",
+          "quote": "ESSAYS ON THE INTELLECTUAL POWERS OF MAN. By THOMAS REID, D. D. F. R. S. E. PROFESSOR OF MORAL PHILOSOPHY IN THE UNIVERSITY OF GLASGOW. ... EDINBURGH: Printed for JOHN BELL, Parliament Square, And G. G. J. & J. ROBINSON, London. MDCCLXXXV (OCR)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 9): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.reid-thomas-1785-essays-on-the-intellectual-powers-of-man-ed (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Wikisource có trang 'Essays on the Intellectual Powers of Man' nhưng chỉ có mục lục, không có trang con nào nên không chọn. Không có trên Gutenberg. [doi-loi] 2026-11-24 (7.1.2 lô 9): gộp bản ghi sources/sach.reid-thomas-1785-essays-on-the-intellectual-powers-of-man-ed (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.reid-thomas-1785-essays-on-the-intellectual-powers-of-man-ed.json"
+}

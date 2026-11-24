@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/linh-hon.md#nguon",
-  "hash": "sha256:1c4b23fe17175996e4a22b19284d05423e920e4fc8913bdc0c593f7e99b22f19",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k09",
+  "hash": "sha256:7c1b44a8b7a61aba2a79c2a1cf3a9a0048083e658f99826f952b3aa2856470e7",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k09 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Robinson, Howard & Ralph Weir, \"Dualism\", Stanford Encyclopedia of Philosophy. <https://plato.stanford.edu/archives/fall2026/entries/dualism/>",
@@ -52,6 +52,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Descartes, René (1641), *Meditationes de prima philosophia*, Paris: Michel Soly; văn bản Latin theo lần in đầu, Artur Buchenau biên tập (Leipzig, 1913), Project Gutenberg. <https://www.gutenberg.org/ebooks/23306>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.23306"
     }
   ],
   "checklist": {
@@ -62,5 +68,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Ghi chú cho người làm (không phải lỗi): thân bài dùng Chalmers 1995 (vấn đề khó) mà mục Nguồn không liệt kê; IEP ghi \"Facing up to the Problem of Consciousness\", Journal of Consciousness Studies 2: 200–19, 1995."
+  "notes": "Ghi chú cho người làm (không phải lỗi): thân bài dùng Chalmers 1995 (vấn đề khó) mà mục Nguồn không liệt kê; IEP ghi \"Facing up to the Problem of Consciousness\", Journal of Consciousness Studies 2: 200–19, 1995. [doi-loi] 2026-11-24 (7.1.2 lô 9): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

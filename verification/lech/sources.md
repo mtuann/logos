@@ -2,9 +2,9 @@
 
 Sinh bằng `python tools/kb_sources.py`. Đầu vào cho đợt 5: không sửa trong đợt 2.
 
-- 959 mục Nguồn (trang viết tay + hồ sơ) → 686 bản ghi.
-- Theo loại: cbeta 3, ctext 24, doi 59, gutenberg 58, iep 37, khac 83, sach 191, sep 187, wikisource 44.
-- 232 mục không có URL (sách in, hoặc thiếu link).
+- 960 mục Nguồn (trang viết tay + hồ sơ) → 684 bản ghi.
+- Theo loại: cbeta 3, ctext 24, doi 59, gutenberg 61, iep 37, khac 87, sach 182, sep 187, wikisource 44.
+- 221 mục không có URL (sách in, hoặc thiếu link).
 
 ## Cùng một nguồn, chữ khác nhau (0)
 
@@ -24,12 +24,13 @@ Bản ghi lấy URL đầu; các URL sau ghi ở `also`. Mục gộp nhiều tá
 
 Không còn mục mở.
 
-## Mục có nhiều URL, đã duyệt: cùng một tác phẩm (65 mục, 11 bản ghi)
+## Mục có nhiều URL, đã duyệt: cùng một tác phẩm (67 mục, 12 bản ghi)
 
 - `ctext.mengzi-gong-sun-chou-i`: *Mạnh Tử*: ba thiên 2A, 3B, 6A (dùng ở `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `doc/manh-tu-tinh-thien.md#nguon`)
 - `ctext.mengzi-teng-wen-gong-i`: *Mạnh Tử*: hai thiên 3A, 3B (dùng ở `doc/mac-tu-kiem-ai.md#nguon`)
 - `ctext.mozi-universal-love-i`: *Mặc Tử*: năm thiên (dùng ở `doc/mac-tu-kiem-ai.md#nguon`)
 - `doi.10-3998-phimp-2109`: bài báo khảo sát PhilPapers 2020 và trang kết quả của chính khảo sát (dùng ở `bat-dau/index.md#nguon`, `cau-hoi/ai-nen-cai-tri.md#nguon`, `cau-hoi/an-tu-hinh.md#nguon`, `cau-hoi/ban-nga-thoi-gian.md#nguon`, `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `cau-hoi/bat-dong-tri-thuc.md#nguon`, `cau-hoi/bien-gioi-di-cu.md#nguon`, `cau-hoi/binh-dang.md#nguon`, `cau-hoi/cai-ac.md#nguon`, `cau-hoi/cai-chet.md#nguon`, `cau-hoi/cai-dep.md#nguon`, `cau-hoi/cai-gi-ton-tai.md#nguon`, `cau-hoi/cai-toi.md#nguon`, `cau-hoi/chan-ly.md#nguon`, `cau-hoi/chien-tranh-chinh-dang.md#nguon`, `cau-hoi/cong-ly.md#nguon`, `cau-hoi/cong-nghe-ai.md#nguon`, `cau-hoi/cuu-giup-ngheo-doi.md#nguon`, `cau-hoi/dan-chu.md#nguon`, `cau-hoi/dao-duc-hanh-dong.md#nguon`, `cau-hoi/dao-duc-moi-truong.md#nguon`, `cau-hoi/dao-duc-ung-dung.md#nguon`, `cau-hoi/dinh-menh.md#nguon`, `cau-hoi/duc-tin-ly-tri.md#nguon`, `cau-hoi/duc-tri.md#nguon`, `cau-hoi/hanh-phuc.md#nguon`, `cau-hoi/hien-tang.md#nguon`, `cau-hoi/khi-hau-trach-nhiem.md#nguon`, `cau-hoi/linh-hon.md#nguon`, `cau-hoi/luan-chung-ton-giao.md#nguon`, `cau-hoi/mo-phong.md#nguon`, `cau-hoi/nghe-thuat.md#nguon`, `cau-hoi/nhan-qua-ban-chat.md#nguon`, `cau-hoi/noi-doi.md#nguon`, `cau-hoi/nu-quyen.md#nguon`, `cau-hoi/pha-thai.md#nguon`, `cau-hoi/pho-quat.md#nguon`, `cau-hoi/quyen-rieng-tu-so.md#nguon`, `cau-hoi/sieu-dao-duc.md#nguon`, `cau-hoi/tai-san-rieng.md#nguon`, `cau-hoi/tam-tri-va-ai.md#nguon`, `cau-hoi/thoi-gian.md#nguon`, `cau-hoi/tinh-yeu.md#nguon`, `cau-hoi/trach-nhiem.md#nguon`, `cau-hoi/tri-thuc.md#nguon`, `cau-hoi/tu-do-ngon-luan.md#nguon`, `cau-hoi/tu-do-y-chi.md#nguon`, `cau-hoi/van-de-tam-tri.md#nguon`, `cau-hoi/viet-hien-dai.md#nguon`, `cau-hoi/vu-tru-khoi-dau.md#nguon`, `cau-hoi/y-nghia-song.md#nguon`, `doc/hume-nhan-qua.md#nguon`, `doc/russell-gia-tri.md#nguon`)
+- `web.archive-org.details-bim-eighteenth-century-a-treatise-of-human`: *A Treatise of Human Nature* của Hume: ba quyển của ấn bản đầu (dùng ở `cau-hoi/cai-toi.md#nguon`, `cau-hoi/nhan-qua-ban-chat.md#nguon`)
 - `web.archive-org.details-cu31924029021612`: bài của Kant (1797): bản dịch Abbott và nguyên văn Akademie-Ausgabe (dùng ở `cau-hoi/noi-doi.md#nguon`)
 - `wikisource.de.beantwortung-der-frage-was-ist-aufklarung`: bài của Kant (1784): bản in gốc và Akademie-Ausgabe (dùng ở `doc/kant-khai-sang.md#nguon`)
 - `wikisource.en.meditations-on-first-philosophy-meditation-i`: *Meditations* của Descartes: bản dịch Veitch và Molyneux (dùng ở `cau-hoi/tri-thuc.md#nguon`)

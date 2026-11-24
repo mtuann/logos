@@ -264,7 +264,7 @@ k. 1292–1370 · [Trang triết gia](../triet-gia/chu-van-an.md)
 1596–1650 · [Trang triết gia](../triet-gia/descartes.md)
 
 - *Discours de la méthode* (1637) (còn ghi: *Discourse on the Method*, *Luận về phương pháp*) — nhắc tới trong: [hồ sơ Descartes](../triet-gia/descartes.md), [Đọc "Suy niệm" I–II của Descartes](../doc/descartes-suy-niem.md#nguon)
-- *Meditationes de prima philosophia* (1641) (còn ghi: *Meditations on First Philosophy*, *Suy niệm về triết học thứ nhất*) — nhắc tới trong: [hồ sơ Descartes](../triet-gia/descartes.md), [Cận đại: lý trí lên ngôi](../lich-su/can-dai.md#nguon)
+- *Meditationes de prima philosophia* (1641) (còn ghi: *Suy niệm về triết học thứ nhất*) — nhắc tới trong: [hồ sơ Descartes](../triet-gia/descartes.md)
 - *Principia philosophiae* (1644) (còn ghi: *Các nguyên lý của triết học*, *Các nguyên lý triết học*) — nhắc tới trong: [hồ sơ Descartes](../triet-gia/descartes.md), [Đọc "Suy niệm" I–II của Descartes](../doc/descartes-suy-niem.md#hieu-lam-thuong-gap)
 - *Les passions de l'âme* (1649) — nhắc tới trong: [hồ sơ Descartes](../triet-gia/descartes.md)
 - *Le Monde* (1664) — nhắc tới trong: [hồ sơ Descartes](../triet-gia/descartes.md)

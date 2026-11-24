@@ -41,6 +41,7 @@ ITEM = re.compile(r"^(?:\d+\.|[-*+])\s+")
 # cùng một tác phẩm (bản điện tử khác, bản dịch, nguyên văn, các chương/thiên); mục gộp nhiều tác phẩm thì tách.
 # Bản ghi đã duyệt (khóa → lý do) hiện ở danh sách lệch mục "đã duyệt", không tính là mục mở.
 NHIEU_URL_DUYET = {
+    "web.archive-org.details-bim-eighteenth-century-a-treatise-of-human": "*A Treatise of Human Nature* của Hume: ba quyển của ấn bản đầu",
     "ctext.mengzi-gong-sun-chou-i": "*Mạnh Tử*: ba thiên 2A, 3B, 6A",
     "ctext.mengzi-teng-wen-gong-i": "*Mạnh Tử*: hai thiên 3A, 3B",
     "ctext.mozi-universal-love-i": "*Mặc Tử*: năm thiên",
