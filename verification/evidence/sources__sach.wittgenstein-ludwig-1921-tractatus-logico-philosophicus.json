@@ -1,0 +1,27 @@
+{
+  "unit": "sources/sach.wittgenstein-ludwig-1921-tractatus-logico-philosophicus",
+  "hash": "sha256:5c0dc1b7de6e764bee820bb09e8cb38b31983d2852620c02f625a4fa885cc94a",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.2-r18 + claude-doi-loi-7.1.1",
+  "claims": [
+    {
+      "text": "Wittgenstein (1921), Tractatus Logico-Philosophicus",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?title=tractatus+logico-philosophicus&author=wittgenstein",
+          "quote": "Tractatus Logico-Philosophicus",
+          "where": "Open Library: Ludwig Wittgenstein, first_publish_year 1921"
+        },
+        {
+          "url": "https://openlibrary.org/works/OL1410381W/editions.json?limit=30",
+          "quote": "Tractatus logico-philosophicus",
+          "where": "bản Anh 1922, K. Paul, Trench, Trubner & co., London"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-23 (7.1.1 lô 4): Tách từ mục gộp hai tác phẩm sach.ludwig-wittgenstein-1921-tractatus-logico-philosophicus-1953 (lich-su/the-ky-20; quyết định 36: mỗi mục một tác phẩm); phần Philosophical Investigations gộp vào sach.wittgenstein-ludwig-1953-philosophical-investigations-oxford."
+}

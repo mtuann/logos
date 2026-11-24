@@ -170,6 +170,8 @@ Thử xem bạn nắm được đến đâu.
 
 ## Nguồn {#nguon}
 
+Các đoạn được dẫn: Platon, *Cộng hòa*, Quyển I; Wittgenstein, *Philosophical Investigations*, §§66–67.
+
 1. Edmund Gettier, "Is Justified True Belief Knowledge?", *Analysis* 23(6), 1963, tr. 121–123.
-2. Platon, *Cộng hòa* (*Republic*), Quyển I.
-3. Ludwig Wittgenstein, *Philosophical Investigations* (1953), §§66–67.
+2. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
+3. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.

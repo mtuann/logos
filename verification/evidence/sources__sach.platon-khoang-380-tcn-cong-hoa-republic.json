@@ -1,0 +1,38 @@
+{
+  "unit": "sources/sach.platon-khoang-380-tcn-cong-hoa-republic",
+  "hash": "sha256:842cef0668e157214b4769400a65441439670b1c700399aa8787141a2873fa07",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.2-s25 + claude-doi-loi-7.1.1",
+  "claims": [
+    {
+      "text": "Platon, Cộng hòa (Republic)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "The Republic"
+        }
+      ]
+    },
+    {
+      "text": "Platon, Cộng hòa, bản dịch tiếng Anh của Benjamin Jowett",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/1497",
+          "quote": "Translator: Benjamin Jowett"
+        }
+      ]
+    },
+    {
+      "text": "Platon (khoảng 380 TCN), Cộng hòa",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "works/platon.politeia"
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-23 (7.1.1 lô 4): Cách ghi chung cho Platon, *Cộng hòa* (quyết định 36), thay hai bản ghi 'Quyển I' (cong-cu/dinh-nghia-phan-vi-du) và 'khoảng 380 TCN — bản dịch Jowett' (lich-su/hy-lap-co-dai). Năm 'khoảng 380 TCN' theo bản ghi tác phẩm đã đóng băng works/platon.politeia (IEP 'Plato': Middle c. 380–360 B.C.E., Republic Bks. II–X). Quyển I và dịch giả Jowett chuyển sang câu trước danh sách Nguồn của từng trang. [doi-loi] 2026-11-23 (7.1.1 lô 4): gộp bản ghi sources/sach.platon-cong-hoa-khoang-380-tcn-ban-dich-tieng-anh-cong-cong (cùng sách, khác cách ghi; quyết định 36) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.platon-cong-hoa-khoang-380-tcn-ban-dich-tieng-anh-cong-cong.json; gộp bản ghi sources/sach.platon-cong-hoa-republic-quyen-i (cùng sách, khác cách ghi; quyết định 36) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.platon-cong-hoa-republic-quyen-i.json"
+}

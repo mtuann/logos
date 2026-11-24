@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#nguon",
-  "hash": "sha256:bb03f44296df958209c1a75b7900692c7714a89f455796962672438c003e0dc4",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06",
+  "hash": "sha256:6d3db4c6197b0fc5813808c584c3157e14009eef270483ddfbe7bd11ce66e4bd",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Edmund Gettier, \"Is Justified True Belief Knowledge?\", Analysis 23(6), 1963, tr. 121–123",
@@ -49,6 +49,18 @@
           "where": "PI §67"
         }
       ]
+    },
+    {
+      "text": "Câu trước danh sách: Platon, *Cộng hòa*, Quyển I; dòng Nguồn: Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.platon-khoang-380-tcn-cong-hoa-republic"
+    },
+    {
+      "text": "Câu trước danh sách: Wittgenstein, *Philosophical Investigations*, §§66–67; dòng Nguồn: Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.wittgenstein-ludwig-1953-philosophical-investigations-oxford"
     }
   ],
   "checklist": {
@@ -59,5 +71,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục Nguồn chưa liệt kê mục Euthyphro/Theaetetus được nhắc trong bài (nên thêm nếu muốn); mức nhẹ, ngoài phạm vi chặn. Số trang Gettier 121-123 khớp DOI Analysis 23(6) (IEP ghi 121-3). Lượt 2: thay quote ditext (\"From Analysis 23 … 1963): 121-123\") và SEP (mã DOI) cho khớp nguyên văn."
+  "notes": "Mục Nguồn chưa liệt kê mục Euthyphro/Theaetetus được nhắc trong bài (nên thêm nếu muốn); mức nhẹ, ngoài phạm vi chặn. Số trang Gettier 121-123 khớp DOI Analysis 23(6) (IEP ghi 121-3). Lượt 2: thay quote ditext (\"From Analysis 23 … 1963): 121-123\") và SEP (mã DOI) cho khớp nguyên văn. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

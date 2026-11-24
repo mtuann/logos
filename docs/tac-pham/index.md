@@ -66,7 +66,7 @@ sinh k. 460 TCN · [Trang triết gia](../triet-gia/democritus.md)
 
 k. 428–347 TCN · [Trang triết gia](../triet-gia/platon.md)
 
-- *Politeia* (380 TCN) (còn ghi: *Cộng hòa*) — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md), [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md#nguon)
+- *Politeia* (380 TCN) (còn ghi: *Cộng hòa*) — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md), [Hy Lạp cổ đại: từ thần thoại đến lý trí](../lich-su/hy-lap-co-dai.md#platon-the-gioi-cua-nhung-y-niem)
 - *Apologia* — nhắc tới trong: [hồ sơ Socrates](../triet-gia/socrates.md)
 - *Euthyphro* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
 - *Parmenides* — nhắc tới trong: [hồ sơ Platon](../triet-gia/platon.md)
