@@ -101,7 +101,7 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 *Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; *Siêu hình học* và *Đạo đức Nicomachus* theo bản dịch tiếng Anh phạm vi công cộng của W. D. Ross.
 
-1. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
+1. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 2. Aristotle, *Siêu hình học*.
 3. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
 4. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.

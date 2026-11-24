@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dinh-menh.md#nguon",
-  "hash": "sha256:58e63e10f559da64208db3afc618366dd3bd262a320c2898f7a458b85ac818a6",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k07",
+  "hash": "sha256:fdd2b635583b465d3d7bd89da0fc5aae4602cafca9038acda1d43914fa9a6554",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k07 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Khảo sát PhilPapers 2020 không có câu hỏi riêng về định mệnh/biết trước; bài dùng hai câu bổ sung về diễn giải cơ học lượng tử và bản thể luận thời gian.",
@@ -87,6 +87,12 @@
           "quote": "Philosophers on Philosophy: The 2020 PhilPapers Survey"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về \"trí tuệ toàn tri\"; tóm tắt bằng lời mình trong bài); lần in đầu (Paris: Courcier, 1814), Internet Archive. <https://archive.org/details/essaiphilosophi00laplgoog>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-essaiphilosophi00laplgoog"
     }
   ],
   "checklist": {
@@ -97,5 +103,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Các dòng SEP, Gutenberg, Aristotle, Laplace trùng bản ghi sources/* đã đóng băng; đã mở lại SEP bản lưu fall2026 và Gutenberg #14328 (mirror). Dòng PhilPapers đối chiếu trang nhà xuất bản và Crossref."
+  "notes": "Các dòng SEP, Gutenberg, Aristotle, Laplace trùng bản ghi sources/* đã đóng băng; đã mở lại SEP bản lưu fall2026 và Gutenberg #14328 (mirror). Dòng PhilPapers đối chiếu trang nhà xuất bản và Crossref. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

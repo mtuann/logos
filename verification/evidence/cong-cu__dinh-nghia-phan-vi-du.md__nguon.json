@@ -1,8 +1,8 @@
 {
   "unit": "cong-cu/dinh-nghia-phan-vi-du.md#nguon",
-  "hash": "sha256:6d3db4c6197b0fc5813808c584c3157e14009eef270483ddfbe7bd11ce66e4bd",
-  "checked_on": "2026-11-23",
-  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06 + claude-doi-loi-7.1.1",
+  "hash": "sha256:f69729bb51bc73cff260cf41dffb33e0ee476847bd9473a950a18f2716ec9466",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.5-p05 + agent-kiem-5.5-r06 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Edmund Gettier, \"Is Justified True Belief Knowledge?\", Analysis 23(6), 1963, tr. 121–123",
@@ -61,6 +61,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.wittgenstein-ludwig-1953-philosophical-investigations-oxford"
+    },
+    {
+      "text": "Dòng Nguồn: Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.1497"
     }
   ],
   "checklist": {
@@ -71,5 +77,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục Nguồn chưa liệt kê mục Euthyphro/Theaetetus được nhắc trong bài (nên thêm nếu muốn); mức nhẹ, ngoài phạm vi chặn. Số trang Gettier 121-123 khớp DOI Analysis 23(6) (IEP ghi 121-3). Lượt 2: thay quote ditext (\"From Analysis 23 … 1963): 121-123\") và SEP (mã DOI) cho khớp nguyên văn. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
+  "notes": "Mục Nguồn chưa liệt kê mục Euthyphro/Theaetetus được nhắc trong bài (nên thêm nếu muốn); mức nhẹ, ngoài phạm vi chặn. Số trang Gettier 121-123 khớp DOI Analysis 23(6) (IEP ghi 121-3). Lượt 2: thay quote ditext (\"From Analysis 23 … 1963): 121-123\") và SEP (mã DOI) cho khớp nguyên văn. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

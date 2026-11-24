@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/an-tu-hinh.md#nguon",
-  "hash": "sha256:20a67bdaad9e028a77ebe648c92cf94be99d0f204aa2056bc58f5810cc17f0e7",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k12",
+  "hash": "sha256:11b8f1eaa7612502de773ccde9749f073b1358843b7ecef7955c0a3f460bf51a",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k12 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini.",
@@ -33,6 +33,18 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini; bản số hóa một bản in năm 1764 (Biblioteca Nazionale Centrale di Firenze), Internet Archive. <https://archive.org/details/bub_gb_Qc2w2id9DXIC>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-bub-gb-qc2w2id9dxic"
+    },
+    {
+      "text": "Dòng Nguồn: Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius; Münchener DigitalisierungsZentrum: phần 1 (*Rechtslehre*) <https://www.digitale-sammlungen.de/de/view/bsb11916162>; phần 2 (*Tugendlehre*) <https://www.digitale-sammlungen.de/de/view/bsb11916163>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.digitale-sammlungen-de.de-view-bsb11916162"
     }
   ],
   "checklist": {
@@ -43,5 +55,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Cả năm dòng trùng bản ghi sources/* đã đóng băng. Đã mở lại trong phiên: SEP legal-punishment bản lưu fall2026 (tải được), DPIC Innocence (tải được, \"at least 203\")."
+  "notes": "Cả năm dòng trùng bản ghi sources/* đã đóng băng. Đã mở lại trong phiên: SEP legal-punishment bản lưu fall2026 (tải được), DPIC Innocence (tải được, \"at least 203\"). [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

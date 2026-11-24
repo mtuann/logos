@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nghe-thuat.md#nguon",
-  "hash": "sha256:a098c7f10c0767472c8971a5fa420b9c509b5d6bdb4d7691f35cf1e43ebba2a7",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k07",
+  "hash": "sha256:a4cffab94c51019f50e1796a4c4f45ffc0122068522f21baa04325da1d748b22",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k07 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Gracyk, Theodore, \"Hume's Aesthetics\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>",
@@ -69,6 +69,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Bell, Clive (1914), *Art*, London: Chatto & Windus, Internet Archive. <https://archive.org/details/in.ernet.dli.2015.98236>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-in-ernet-dli-2015-98236"
     }
   ],
   "checklist": {
@@ -79,5 +85,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mười một dòng nguồn trùng nguyên văn các bản ghi sources/* đã đóng băng. Ghi chú: danh mục nguồn chưa có các nguồn cho vài dữ kiện trong thân bài (Ebert 2005, tranh AI 2022, Danto \"atmosphere of artistic theory\"); các dữ kiện ấy đã kiểm ở đơn vị tương ứng. rogerebert.com trả 403 cho curl, mở được qua Wayback."
+  "notes": "Mười một dòng nguồn trùng nguyên văn các bản ghi sources/* đã đóng băng. Ghi chú: danh mục nguồn chưa có các nguồn cho vài dữ kiện trong thân bài (Ebert 2005, tranh AI 2022, Danto \"atmosphere of artistic theory\"); các dữ kiện ấy đã kiểm ở đơn vị tương ứng. rogerebert.com trả 403 cho curl, mở được qua Wayback. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

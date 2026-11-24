@@ -1,0 +1,45 @@
+{
+  "unit": "sources/web.archive-org.details-in-ernet-dli-2015-98236",
+  "hash": "sha256:65cc5eaf54b859bc875e80549266fbe9b3b6d060389c98e28d75bf0d457a187d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r13 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Bell, Clive, Art: tác giả và tên sách",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3Abell+AND+title%3A%28art%29+AND+date%3A%5B1913-01-01+TO+1925-12-31%5D&fl[]=identifier&fl[]=title&fl[]=date&fl[]=publisher&rows=12&output=json",
+          "quote": "Bell, Clive, 1881-1964",
+          "where": "Internet Archive: identifier art1914bell, Art, 1914 (bản Mỹ, Stokes)"
+        }
+      ]
+    },
+    {
+      "text": "London: Chatto & Windus, 1914",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL351149W/editions.json",
+          "quote": "Art|Chatto & Windus|1914|London",
+          "where": "Open Library: ấn bản Chatto & Windus, London, 1914 (còn ấn bản Chatto and Windus 1915, 1928, 1949; Stokes, New York 1913/1914)"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/in.ernet.dli.2015.98236 — khớp ấn bản (London: Chatto & Windus, 1914; bản scan của Digital Library of India)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/in.ernet.dli.2015.98236",
+          "quote": "ART BY CLIVE BELL ... LONDON CHATTO & WINDUS 1914 [OCR: 'CHATTO 55* WIN DUS 19U'] With 6 Illustrations ... PREFACE In this little book I have tried to develop a complete theory of visual art."
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.bell-clive-1914-art-london-chatto-windus (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Gutenberg #16917 (Title: Art, Author: Clive Bell) là ấn bản khác: 'New York / Frederick A. Stokes Company', trang tên sách ghi 1913. Nếu muốn dùng Gutenberg theo thứ tự ưu tiên thì phải ghi đó là ấn bản Stokes. [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.bell-clive-1914-art-london-chatto-windus (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.bell-clive-1914-art-london-chatto-windus.json"
+}

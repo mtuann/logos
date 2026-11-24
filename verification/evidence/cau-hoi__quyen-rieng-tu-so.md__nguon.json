@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/quyen-rieng-tu-so.md#nguon",
-  "hash": "sha256:0eda658a325b8e6c8512ac0c2a7257f77e9e3477174c400c690ce8d3c6efb8b4",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k12",
+  "hash": "sha256:4d1f5f345044b41861483432fca1b0c273273580a0248efa8e5460b02a74c9d1",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k12 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Warren, Samuel D. & Louis D. Brandeis (1890), \"The Right to Privacy\", *Harvard Law Review*, vol. 4, no. 5: 193–220.",
@@ -51,6 +51,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Warren, Samuel D. & Louis D. Brandeis (1890), \"The Right to Privacy\", *Harvard Law Review*, vol. 4, no. 5: 193–220. <https://doi.org/10.2307/1321160>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-2307-1321160"
     }
   ],
   "checklist": {
@@ -61,5 +67,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Cả tám dòng trùng bản ghi sources/* đã đóng băng. Đã mở trong phiên: SEP Privacy bản lưu fall2026, toàn văn Warren & Brandeis, toàn văn Solove 2007 (khớp San Diego L. Rev. 44: 745)."
+  "notes": "Cả tám dòng trùng bản ghi sources/* đã đóng băng. Đã mở trong phiên: SEP Privacy bản lưu fall2026, toàn văn Warren & Brandeis, toàn văn Solove 2007 (khớp San Diego L. Rev. 44: 745). [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

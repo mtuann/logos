@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/loi-chung.md#nguon",
-  "hash": "sha256:a1bfb672387a919ceb3feb7a2eb194527b40d351a518347c5ce04b2431f9dd6e",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k01",
+  "hash": "sha256:63454e04121a7a394a95de8e8d7d6e524b8d8966f7e2cc8ef7902561ac0419fa",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k01 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Leonard, Nick, \"Epistemological Problems of Testimony\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/>",
@@ -124,6 +124,18 @@
           "quote": "2008, Learning from Words: Testimony as a Source of Knowledge , Oxford: Oxford University Press."
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, Edinburgh; lần in đầu, Internet Archive. <https://archive.org/details/bim_eighteenth-century_an-inquiry-into-the-huma_reid-thomas_1764>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-bim-eighteenth-century-an-inquiry-into-the"
+    },
+    {
+      "text": "Câu trước danh sách: Đoạn được dẫn: Reid, *An Inquiry into the Human Mind*, chương VI, mục xxiv.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-bim-eighteenth-century-an-inquiry-into-the"
     }
   ],
   "checklist": {
@@ -134,5 +146,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi URL mở được; tác giả, tên bài, năm, số tập, trang khớp. Goldman 2001: Crossref cho tập 63, số 1, tr. 85–110 (bài chỉ ghi 63(1), không sai). Mục 4 (Reid) không có URL; vị trí chương VI mục xxiv khớp IEP và bản Inquiry 1779 trên Internet Archive."
+  "notes": "Mọi URL mở được; tác giả, tên bài, năm, số tập, trang khớp. Goldman 2001: Crossref cho tập 63, số 1, tr. 85–110 (bài chỉ ghi 63(1), không sai). Mục 4 (Reid) không có URL; vị trí chương VI mục xxiv khớp IEP và bản Inquiry 1779 trên Internet Archive. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/hanh-phuc.md#nguon",
-  "hash": "sha256:8ab5de0c774f42be6844a33ec4fe01165387517ba9c395c0cee5a61cc9469a2d",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k14",
+  "hash": "sha256:d7b921047d3a0f1afc012ad1843ced8b2af164b2aa02e685f25845509aaca5d6",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k14 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Haybron, Dan, \"Happiness\", Stanford Encyclopedia of Philosophy. <.../archives/fall2026/entries/happiness/>",
@@ -82,6 +82,12 @@
           "where": "mục 4.3"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, Bohn's Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.57342"
     }
   ],
   "checklist": {
@@ -92,5 +98,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng trùng bản ghi sources/* đóng băng. gutenberg.org báo bảo trì; đối chiếu bìa bản in 1879 qua mirror."
+  "notes": "Mọi dòng trùng bản ghi sources/* đóng băng. gutenberg.org báo bảo trì; đối chiếu bìa bản in 1879 qua mirror. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

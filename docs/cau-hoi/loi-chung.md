@@ -168,10 +168,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Reid, *An Inquiry into the Human Mind*, chương VI, mục xxiv.
+
 1. Leonard, Nick, "Epistemological Problems of Testimony", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/>
 2. Green, Christopher R., "Epistemology of Testimony", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ep-testi/>
 3. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục X "Of Miracles". Bản tiếng Anh phạm vi công cộng, xem tại Internet History Sourcebooks, Đại học Fordham. <https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp>
-4. Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, chương VI, mục xxiv.
+4. Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, Edinburgh; lần in đầu, Internet Archive. <https://archive.org/details/bim_eighteenth-century_an-inquiry-into-the-huma_reid-thomas_1764>
 5. Burge, Tyler (1993), "Content Preservation", *The Philosophical Review* 102(4): 457–488 (nguyên tắc chấp nhận ở tr. 467). <https://doi.org/10.2307/2185680>
 6. Coady, C. A. J. (1992), *Testimony: A Philosophical Study*, Oxford: Clarendon Press.
 7. Fricker, Elizabeth (1987), "The Epistemology of Testimony", *Proceedings of the Aristotelian Society, Supplementary Volumes* 61: 57–83; và (1994), "Against Gullibility", trong B. K. Matilal & A. Chakrabarti (chủ biên), *Knowing from Words*, Dordrecht: Kluwer, tr. 125–161.

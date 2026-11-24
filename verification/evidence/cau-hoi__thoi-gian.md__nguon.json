@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/thoi-gian.md#nguon",
-  "hash": "sha256:898931377bd9f552b03f34a636cfac0b88b46a8f77286f4912f508beeb7d4732",
-  "checked_on": "2026-11-20",
-  "checker": "agent-kiem-5.8-k11 + agent-kiem-5.8-r04",
+  "hash": "sha256:3da442049d704bbe82075cec30282c4eb7a92d6d5e0f5080739c9551d2b39de2",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k11 + agent-kiem-5.8-r04 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Đoạn được dẫn: Augustine, *Confessions*, Quyển XI.",
@@ -69,6 +69,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/iep.time"
+    },
+    {
+      "text": "Dòng Nguồn: McTaggart, J. M. E. (1908), \"The Unreality of Time\", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.) <https://doi.org/10.1093/mind/XVII.4.457>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/doi.10-1093-mind-xvii-4-457"
     }
   ],
   "checklist": {
@@ -79,5 +85,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. Lỗi nhẹ: bài dùng IEP *Time* (Dowden) làm căn cứ (Broad 1923 là người đầu tiên; câu đố tốc độ trôi) nhưng mục Nguồn chưa liệt kê; fix thêm dòng 7. Trang Wikisource ghi số trang 456-473 cho bài McTaggart, khác 457–474 trong kho; bản ghi kho đã đóng băng nên không ghi sai. Lượt 2: dòng 7 IEP Time đã thêm đúng fix; nay trùng bản ghi sources/iep.time đã đóng băng: claim đúng mới dùng kb."
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. Lỗi nhẹ: bài dùng IEP *Time* (Dowden) làm căn cứ (Broad 1923 là người đầu tiên; câu đố tốc độ trôi) nhưng mục Nguồn chưa liệt kê; fix thêm dòng 7. Trang Wikisource ghi số trang 456-473 cho bài McTaggart, khác 457–474 trong kho; bản ghi kho đã đóng băng nên không ghi sai. Lượt 2: dòng 7 IEP Time đã thêm đúng fix; nay trùng bản ghi sources/iep.time đã đóng băng: claim đúng mới dùng kb. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

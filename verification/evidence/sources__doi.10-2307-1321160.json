@@ -1,0 +1,33 @@
+{
+  "unit": "sources/doi.10-2307-1321160",
+  "hash": "sha256:5cc45709f9267de07cfdd7d19ce4858e06d9dcfb8f15afe968d5302a8fdd5e6d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r24 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Warren & Brandeis (1890), 'The Right to Privacy', Harvard Law Review vol. 4, no. 5: 193–220",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.jstor.org/stable/1321160",
+          "quote": "Harvard Law Review, Vol. 4, No. 5 (Dec. 15, 1890), pp. 193-220",
+          "where": "JSTOR; Open JSTOR"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://doi.org/10.2307/1321160 — khớp (vol. 4, no. 5, tr. 193)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.2307/1321160",
+          "quote": "Crossref qua doi.org: 'The Right to Privacy' | Warren, Brandeis | Harvard Law Review | 4 5 193 | 1890-12-15; doi.org chuyển tới https://www.jstor.org/stable/1321160 (HTTP 200)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.warren-samuel-d-louis-d-brandeis-1890-the-right-to-privacy-h (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). JSTOR trả trang 'Client Challenge' cho curl nên chưa đọc được nội dung trang JSTOR. Bản đọc mở: https://en.wikisource.org/wiki/Harvard_Law_Review/Volume_4/The_Right_to_Privacy (header: Warren, Brandeis, 1890, 'Harvard Law Review, Vol. 4, No. 5 (Dec. 15, 1890)'). [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.warren-samuel-d-louis-d-brandeis-1890-the-right-to-privacy-h (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.warren-samuel-d-louis-d-brandeis-1890-the-right-to-privacy-h.json"
+}

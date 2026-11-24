@@ -1,0 +1,38 @@
+{
+  "unit": "sources/web.archive-org.details-bub-gb-qc2w2id9dxic",
+  "hash": "sha256:6e26c0489dc9265ca658d2d4feb91e9da6fea9a7fff98a6bdade36c19b853371",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r13 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Beccaria, Dei delitti e delle pene, Livorno: Coltellini, 1764",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL43798230W/editions.json",
+          "quote": "Dei delitti e delle pene|Coltellini|1764|Livorno|",
+          "where": "Open Library, ấn bản Coltellini, Livorno, 1764, 104 tr."
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=creator%3Abeccaria+AND+title%3A%28delitti+pene%29&fl[]=identifier&fl[]=date&rows=12&output=json",
+          "quote": "bub_gb_Qc2w2id9DXIC",
+          "where": "Internet Archive/Google Books: Cesare Beccaria, Dei delitti e delle pene, 1764"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/bub_gb_Qc2w2id9DXIC — rất có thể đúng ấn bản 1764 (bản Google Books của BNCF Firenze, 117 ảnh, phần đính chính chỉ tới trang 96, hợp với lần in đầu ngắn); nhưng bản scan không ghi chữ 'Livorno' hay 'Coltellini' (lần in đầu ẩn danh, không ghi nơi in), nên không xác nhận được nhà in từ chính trang này",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/bub_gb_Qc2w2id9DXIC",
+          "quote": "title: Dei delitti e delle pene; creator: Cesare Beccaria; date: 1764; contributor: National Central Library of Florence; OCR: 'DELLE PENE. In rebus quibuscumque difficilioribus ... Bacon. Serm. fidel. num. xlv.' ... 'FINE.' ... 'ERRATA CORRIGE'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.beccaria-cesare-1764-dei-delitti-e-delle-pene-livorno-coltel (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Bản 1765 khác: bub_gb_X0HvaPhsrLAC. Không mở được Gallica (bị Cloudflare chặn); Google Books API hết hạn mức. [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.beccaria-cesare-1764-dei-delitti-e-delle-pene-livorno-coltel (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.beccaria-cesare-1764-dei-delitti-e-delle-pene-livorno-coltel.json"
+}

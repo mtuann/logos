@@ -195,8 +195,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn {#nguon}
 
-1. Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini.
-2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.
+1. Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini; bản số hóa một bản in năm 1764 (Biblioteca Nazionale Centrale di Firenze), Internet Archive. <https://archive.org/details/bub_gb_Qc2w2id9DXIC>
+2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius; Münchener DigitalisierungsZentrum: phần 1 (*Rechtslehre*) <https://www.digitale-sammlungen.de/de/view/bsb11916162>; phần 2 (*Tugendlehre*) <https://www.digitale-sammlungen.de/de/view/bsb11916163>
 3. Death Penalty Information Center, "Innocence" (ít nhất 203 người bị kết án tử hình được minh oan kể từ 1973, số liệu năm 2026). <https://deathpenaltyinfo.org/policy-issues/innocence>
 4. Hoskins, Zachary & Antony Duff, "Legal Punishment", *Stanford Encyclopedia of Philosophy* (về các lý thuyết biện minh cho hình phạt: báo ứng, hệ quả). <https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

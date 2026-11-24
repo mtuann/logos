@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-hanh-dong.md#nguon",
-  "hash": "sha256:157bcefdc6984e5bc77262f0288b84c9ac8427f9a1cfa2d84401443b5f0547aa",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k09",
+  "hash": "sha256:60b1182ce65250f28c384368b96d98776b8ca389c0cd4c4b1f90a3879c32247e",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k09 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Driver, Julia, \"The History of Utilitarianism\", SEP (fall2026)",
@@ -77,6 +77,12 @@
           "quote": "Philosophers' Imprint 23: 11, 1–53. doi: https://doi.org/10.3998/phimp.2109"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Kant, Immanuel, *Fundamental Principles of the Metaphysic of Morals* (*Grundlegung*, 1785), bản dịch tiếng Anh của T. K. Abbott, Project Gutenberg. <https://www.gutenberg.org/ebooks/5682>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.5682"
     }
   ],
   "checklist": {
@@ -87,5 +93,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi URL SEP fall2026 mở được (curl). gutenberg.org đang bảo trì: đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook."
+  "notes": "Mọi URL SEP fall2026 mở được (curl). gutenberg.org đang bảo trì: đối chiếu qua mirror gutenberg.pglaf.org cùng số ebook. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

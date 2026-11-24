@@ -178,7 +178,7 @@ Gợi ý độ dài: 250–400 chữ.
 
 ## Nguồn {#nguon}
 
-1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220.
+1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220. <https://doi.org/10.2307/1321160>
 2. Nissenbaum, Helen (2004), "Privacy as Contextual Integrity", *Washington Law Review* 79(1): 119.
 3. Nissenbaum, Helen (2009), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
 4. Solove, Daniel J. (2007), "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy", *San Diego Law Review* 44: 745–772.

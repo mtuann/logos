@@ -208,6 +208,6 @@ Các phần được dẫn: Nozick, *Anarchy, State, and Utopia*, thí nghiệm 
 2. Crisp, Roger, “Well-Being”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/well-being/>
 3. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 4. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
-5. Epicurus, *Thư gửi Menoeceus* (cuối thế kỷ 4 – đầu thế kỷ 3 TCN, phạm vi công cộng; được Diogenes Laertius chép lại trong Quyển X của *Lives of Eminent Philosophers*).
+5. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, Bohn's Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
 6. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
