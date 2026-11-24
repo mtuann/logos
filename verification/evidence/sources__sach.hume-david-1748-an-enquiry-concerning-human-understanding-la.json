@@ -1,0 +1,54 @@
+{
+  "unit": "sources/sach.hume-david-1748-an-enquiry-concerning-human-understanding-la",
+  "hash": "sha256:f1775d6d962aaa4a4fbf3436afcae9859f1ce2952d6b69b7fc001f4416d0c063",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r16 + claude-doi-loi-7.1.1",
+  "claims": [
+    {
+      "text": "An Enquiry concerning Human Understanding, 1748",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/9662",
+          "quote": "Original publication: 1748"
+        },
+        {
+          "url": "https://books.google.com/books/about/Philosophical_Essays_Concerning_Human_Un.html?id=LB4VAAAAQAAJ",
+          "quote": "A. Millar, 1748",
+          "where": "Philosophical Essays Concerning Human Understanding, 256 tr."
+        }
+      ]
+    },
+    {
+      "text": "Enquiry: lần in đầu mang tên Philosophical Essays concerning Human Understanding, đổi tên từ 1758",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.google.com/search?q=Hume+%22Philosophical+Essays+concerning+Human+Understanding%22+1748+London+Millar+retitled+%22Enquiry%22+1758",
+          "quote": "re-titled as such in 1758",
+          "where": "AbeBooks (nhà sách cổ, nguồn yếu): 'First edition in any form of the Enquiry Concerning Human Understanding'"
+        },
+        {
+          "url": "https://books.google.com/books/about/Philosophical_Essays_Concerning_Human_Un.html?id=LB4VAAAAQAAJ",
+          "quote": "Philosophical Essays Concerning Human Understanding",
+          "where": "Google Books: bản 1748"
+        }
+      ]
+    },
+    {
+      "text": "Enquiry: London: A. Millar",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://books.google.com/books/about/Philosophical_Essays_Concerning_Human_Un.html?id=LB4VAAAAQAAJ",
+          "quote": "A. Millar, 1748"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 6): Tách từ mục gộp hai tác phẩm sources/sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n (cau-hoi/nhan-qua-ban-chat; quyết định 36: mỗi mục một tác phẩm); ba claim về Enquiry chép từ bằng chứng của bản ghi đó."
+}

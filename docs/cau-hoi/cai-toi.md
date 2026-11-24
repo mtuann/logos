@@ -177,7 +177,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
-Đoạn được dẫn: Locke, *An Essay Concerning Human Understanding*, quyển II, chương xxvii ("Về đồng nhất và khác biệt"), chương bổ sung trong ấn bản lần hai, 1694.
+Đoạn được dẫn: Locke, *An Essay Concerning Human Understanding*, quyển II, chương xxvii ("Về đồng nhất và khác biệt"), chương bổ sung trong ấn bản lần hai, 1694; Hume, *A Treatise of Human Nature*, Quyển I, Phần IV, mục VI ("Về bản sắc cá nhân").
 
 1. Olson, Eric T., "Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/identity-personal/>
 2. Gordon-Roth, Jessica, "Locke on Personal Identity", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-personal-identity/>
@@ -185,7 +185,7 @@ Gợi ý độ dài: 150–300 chữ.
 4. Locke, John, *An Essay Concerning Human Understanding* (1689), tập 1, Project Gutenberg. <https://www.gutenberg.org/ebooks/10615>
 5. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
 6. Reid, Thomas (1785), *Essays on the Intellectual Powers of Man*, Edinburgh.
-7. Hume, David (1739–1740), *A Treatise of Human Nature*, Quyển I, Phần IV, mục VI ("Về bản sắc cá nhân").
+7. Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740).
 8. Plutarch (khoảng 45–120), *Life of Theseus* (câu chuyện con tàu Theseus); Hobbes, Thomas (1655), *De Corpore* (biến thể con tàu thứ hai được ghép từ ván cũ).
 9. Butler, Joseph (1736), "Of Personal Identity", phụ lục trong *The Analogy of Religion*, London (phản bác tính vòng tròn).
 10. Shoemaker, Sydney (1970), "Persons and Their Pasts", *American Philosophical Quarterly* 7: 269–285 (khái niệm ký ức-giả).

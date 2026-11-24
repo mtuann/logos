@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nhan-qua-ban-chat.md#nguon",
-  "hash": "sha256:f9f00174a4e0fd8dc0fc119855772d18197b27d713b684b6fcef2a0a4ded86e2",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k10",
+  "hash": "sha256:fe03cc598ee4884e570c57f0926fc1c8ab1fd8409fa30bcb5be32100eae757ae",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k10 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Gallow, J. Dmitri, \"The Metaphysics of Causation\", *Stanford Encyclopedia of Philosophy*.",
@@ -38,6 +38,18 @@
           "quote": "Process theories of causation are discussed in the entries on causation in physics"
         }
       ]
+    },
+    {
+      "text": "Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.hume-david-17391740-a-treatise-of-human-nature-london-john-n"
+    },
+    {
+      "text": "Hume, David (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.hume-david-1748-an-enquiry-concerning-human-understanding-la"
     }
   ],
   "checklist": {
@@ -48,5 +60,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": ""
+  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 6): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }
