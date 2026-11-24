@@ -1,8 +1,8 @@
 {
   "unit": "ho-so/mill",
-  "hash": "sha256:38296e6055507830b62562cedcae7cbe4fc2495034411378c517c66e688d65a7",
-  "checked_on": "2026-11-10",
-  "checker": "agent-kiem-5.3-r07",
+  "hash": "sha256:fe3d014ec5eae65972131acbe4d83bae398d4489d25a70267b8575a7db750cfc",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.3-r07 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "desc: triết gia nói tiếng Anh có ảnh hưởng nhất thế kỷ 19; hạnh phúc có phẩm chất, nguyên tắc gây hại, tự do ngôn luận, bình đẳng nam nữ",
@@ -522,8 +522,14 @@
           "quote": "Có bao giờ được nói dối?"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn hồ sơ: Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng), Project Gutenberg. <https://www.gutenberg.org/ebooks/27083>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.27083"
     }
   ],
   "result": "dat",
-  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r07): claim sai (nhẹ) 'gần hai mươi năm' đã được sửa đúng — bio 2 hiện viết 'họ là đôi bạn tri kỷ hơn hai mươi năm và cưới nhau năm 1851' (fixed). Claim works note A System of Logic nay là dung theo SEP Mill fall2026 (quy nạp là kiểu suy luận duy nhất được Mill thừa nhận; System of Logic khảo sát phương pháp luận khoa học). Không còn claim mở. | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h04): SEP Mill fall2026, Gutenberg (On Liberty 34901, Utilitarianism 11224, Subjection 27083), UK Parliament Living Heritage (nguồn chính thức của Quốc hội Anh) cho kiến nghị 1866 và phiếu 73/196. Chưa dẫn được đoạn SEP riêng cho 'A System of Logic: quy nạp'. 'Gần hai mươi năm' tri kỷ: SEP chỉ ghi gặp 1830 và cưới 1851 (21 năm). Tiêu đề related doc/mill-tu-do dùng dấu nháy thẳng trong file, hồ sơ dùng nháy cong: không ảnh hưởng nghĩa."
+  "notes": "Kiểm lại lượt 2 (agent-kiem-5.3-r07): claim sai (nhẹ) 'gần hai mươi năm' đã được sửa đúng — bio 2 hiện viết 'họ là đôi bạn tri kỷ hơn hai mươi năm và cưới nhau năm 1851' (fixed). Claim works note A System of Logic nay là dung theo SEP Mill fall2026 (quy nạp là kiểu suy luận duy nhất được Mill thừa nhận; System of Logic khảo sát phương pháp luận khoa học). Không còn claim mở. | Lượt 1: Kiểm 5.3 (agent-kiem-5.3-h04): SEP Mill fall2026, Gutenberg (On Liberty 34901, Utilitarianism 11224, Subjection 27083), UK Parliament Living Heritage (nguồn chính thức của Quốc hội Anh) cho kiến nghị 1866 và phiếu 73/196. Chưa dẫn được đoạn SEP riêng cho 'A System of Logic: quy nạp'. 'Gần hai mươi năm' tri kỷ: SEP chỉ ghi gặp 1830 và cưới 1851 (21 năm). Tiêu đề related doc/mill-tu-do dùng dấu nháy thẳng trong file, hồ sơ dùng nháy cong: không ảnh hưởng nghĩa. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

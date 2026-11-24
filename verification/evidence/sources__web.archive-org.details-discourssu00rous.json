@@ -1,0 +1,45 @@
+{
+  "unit": "sources/web.archive-org.details-discourssu00rous",
+  "hash": "sha256:bec2fcdc5ab4a7ae120fe51fea926a11b27a50ace2f9e619f038795c34fbc336",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r21 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Rousseau, Discours sur l'origine et les fondements de l'inégalité parmi les hommes, năm 1755",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/0019203323",
+          "quote": "Amsterdam - Marc-Michel Rey -1755",
+          "where": "kết quả tìm DuckDuckGo, mục CCFr (BnF)"
+        }
+      ]
+    },
+    {
+      "text": "Tên tác phẩm khớp bản Wikisource tiếng Pháp",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://fr.wikisource.org/wiki/Discours_sur_l’origine_et_les_fondements_de_l’inégalité_parmi_les_hommes",
+          "quote": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes",
+          "where": "tiêu đề trang, thấy trong kết quả tìm; không mở trực tiếp"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/discourssu00rous — khớp tác phẩm (tiếng Pháp); khác ấn bản: Genève 1782, không phải bản đầu 1755",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/discourssu00rous",
+          "quote": "'Genève M. DCC. LXXXII.' ... 'DISCOURS SUR L’ORIGINE ET LES FONDEMENS DE L’INÉGALITÉ PARMI LES HOMMES.'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.rousseau-jean-jacques-1755-discours-sur-l-origine-et-les-fon (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Ấn bản đầu: https://archive.org/details/discourssu00rous (metadata: Amsterdam : Chez Marc Michel Rey, 1755; OCR: 'DISCOURS SUR L'ORIGINE ET LES FONDEMENS DE L'INEGALITE PARMI LES HOMMES. Par JEAN JAQUES ROUSSEAU CITOYEN DE GENÈVE'). Bản tiếng Anh: PG 11136 (chưa mở). [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.rousseau-jean-jacques-1755-discours-sur-l-origine-et-les-fon (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.rousseau-jean-jacques-1755-discours-sur-l-origine-et-les-fon.json"
+}

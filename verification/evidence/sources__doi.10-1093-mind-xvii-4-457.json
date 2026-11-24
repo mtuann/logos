@@ -1,0 +1,56 @@
+{
+  "unit": "sources/doi.10-1093-mind-xvii-4-457",
+  "hash": "sha256:e72eb7faa47040661d634dd8b2eb6075351d1c48946deb595f5cf77d8bfbbd4d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-s24 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Tác giả J. M. E. McTaggart, năm 1908",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=McTaggart+Unreality+of+Time+Mind&rows=3",
+          "quote": "J. ELLIS MCTAGGART",
+          "where": "Crossref item 1, issued 1908"
+        }
+      ]
+    },
+    {
+      "text": "Tên bài The Unreality of Time",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=McTaggart+Unreality+of+Time+Mind&rows=3",
+          "quote": "I.—THE UNREALITY OF TIME"
+        }
+      ]
+    },
+    {
+      "text": "Mind 17: 457–474 (Mind vol. XVII, no. 4, tr. 457-474)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://api.crossref.org/works?query.bibliographic=McTaggart+Unreality+of+Time+Mind&rows=3",
+          "quote": "Volume: XVII; Pages: 457-474",
+          "where": "DOI 10.1093/mind/xvii.4.457"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://doi.org/10.1093/mind/XVII.4.457 — khớp (Mind 17: 457–474)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://doi.org/10.1093/mind/XVII.4.457",
+          "quote": "Crossref qua doi.org: 'I.—THE UNREALITY OF TIME' | MCTAGGART | Mind | XVII 4 457-474 | 1908"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.mctaggart-j-m-e-1908-the-unreality-of-time-mind-17-457474-va (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). DOI chuyển tới academic.oup.com nhưng OUP trả 403 cho curl; siêu dữ liệu lấy từ doi.org. Bản đọc mở: https://en.wikisource.org/wiki/The_Unreality_of_Time (header ghi 'Mind ... 17 (1908): 456-473', lệch trang so với DOI). [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.mctaggart-j-m-e-1908-the-unreality-of-time-mind-17-457474-va (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.mctaggart-j-m-e-1908-the-unreality-of-time-mind-17-457474-va.json"
+}

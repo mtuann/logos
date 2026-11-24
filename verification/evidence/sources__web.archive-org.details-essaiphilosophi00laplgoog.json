@@ -1,0 +1,38 @@
+{
+  "unit": "sources/web.archive-org.details-essaiphilosophi00laplgoog",
+  "hash": "sha256:48f46aa8a5fff3bb755b0b39534fd84a0ef692993f75fbdf8c6a01563c5f84ed",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r18 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Laplace (1814), Essai philosophique sur les probabilités",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL19848324W/editions.json",
+          "quote": "Essai philosophique sur les probabilités",
+          "where": "Open Library: Mme. Ve. Courcier, Paris, 1814, 'par M. le comte Laplace'"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=essai+philosophique+sur+les+probabilites&author=laplace",
+          "quote": "Pierre Simon marquis de Laplace",
+          "where": "1814, Mme. Ve Courcier"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/essaiphilosophi00laplgoog — khớp (ấn bản gốc 1814, Courcier)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/essaiphilosophi00laplgoog",
+          "quote": "ESSAI PHILOSOPHIQUE SUR LES PROBABILITÉS: Par m. le COMTE LAPLACE ... PARIS, M\" V* COURCIÉR, Imprimeur-Librake pour les Mathématiques, quai des Augustins ... i8i4 (OCR); metadata: Courcier, 1814, NOT_IN_COPYRIGHT"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.laplace-pierre-simon-1814-essai-philosophique-sur-les-probab (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Bản tiếng Anh: PG 58881, Truscott & Emory dịch từ ấn bản Pháp thứ 6 (New York: Wiley, 1902) — khác ngôn ngữ nên không chọn. [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.laplace-pierre-simon-1814-essai-philosophique-sur-les-probab (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.laplace-pierre-simon-1814-essai-philosophique-sur-les-probab.json"
+}

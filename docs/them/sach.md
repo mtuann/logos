@@ -1251,7 +1251,7 @@ Thử xem bạn nắm được đến đâu.
 Các đoạn được dẫn: Platon, *Cộng hòa*, Quyển I; Wittgenstein, *Philosophical Investigations*, §§66–67.
 
 1. Edmund Gettier, "Is Justified True Belief Knowledge?", *Analysis* 23(6), 1963, tr. 121–123.
-2. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
+2. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 3. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
 
 <div class="oz-page-break"></div>
@@ -3470,10 +3470,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
+Đoạn được dẫn: Reid, *An Inquiry into the Human Mind*, chương VI, mục xxiv.
+
 1. Leonard, Nick, "Epistemological Problems of Testimony", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/testimony-episprob/>
 2. Green, Christopher R., "Epistemology of Testimony", *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/ep-testi/>
 3. Hume, David (1748), *An Enquiry Concerning Human Understanding*, mục X "Of Miracles". Bản tiếng Anh phạm vi công cộng, xem tại Internet History Sourcebooks, Đại học Fordham. <https://sourcebooks.fordham.edu/halsall/mod/hume-miracles.asp>
-4. Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, chương VI, mục xxiv.
+4. Reid, Thomas (1764), *An Inquiry into the Human Mind on the Principles of Common Sense*, Edinburgh; lần in đầu, Internet Archive. <https://archive.org/details/bim_eighteenth-century_an-inquiry-into-the-huma_reid-thomas_1764>
 5. Burge, Tyler (1993), "Content Preservation", *The Philosophical Review* 102(4): 457–488 (nguyên tắc chấp nhận ở tr. 467). <https://doi.org/10.2307/2185680>
 6. Coady, C. A. J. (1992), *Testimony: A Philosophical Study*, Oxford: Clarendon Press.
 7. Fricker, Elizabeth (1987), "The Epistemology of Testimony", *Proceedings of the Aristotelian Society, Supplementary Volumes* 61: 57–83; và (1994), "Against Gullibility", trong B. K. Matilal & A. Chakrabarti (chủ biên), *Knowing from Words*, Dordrecht: Kluwer, tr. 125–161.
@@ -5690,7 +5692,7 @@ Khảo sát PhilPapers 2020 không có câu hỏi riêng về định mệnh/bi�
 2. O'Connor, Timothy & Christopher Franklin, "Free Will", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/freewill/>
 3. Boethius, *The Consolation of Philosophy*, bản dịch H. R. James (1897), Project Gutenberg (phạm vi công cộng tại Hoa Kỳ). <https://www.gutenberg.org/ebooks/14328>
 4. Aristotle, *De Interpretatione*, chương 9 (lập luận hải chiến; trình bày lại bằng lời mình trong bài).
-5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài).
+5. Laplace, Pierre-Simon (1814), *Essai philosophique sur les probabilités* (ý chính về "trí tuệ toàn tri"; tóm tắt bằng lời mình trong bài); lần in đầu (Paris: Courcier, 1814), Internet Archive. <https://archive.org/details/essaiphilosophi00laplgoog>
 6. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
@@ -5874,7 +5876,7 @@ Gợi ý độ dài: 150–300 chữ.
 2. Johnson, Robert & Adam Cureton, "Kant's Moral Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/kant-moral/>
 3. Hursthouse, Rosalind & Glen Pettigrove, "Virtue Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ethics-virtue/>
 4. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
-5. Kant, Immanuel (1785), *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*).
+5. Kant, Immanuel, *Fundamental Principles of the Metaphysic of Morals* (*Grundlegung*, 1785), bản dịch tiếng Anh của T. K. Abbott, Project Gutenberg. <https://www.gutenberg.org/ebooks/5682>
 6. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
@@ -6847,9 +6849,11 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn
 
+Đoạn được dẫn: Bentham, *An Introduction to the Principles of Morals and Legislation*, chương 17.
+
 1. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House.
 2. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
-3. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
+3. Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>
 4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
@@ -7413,8 +7417,8 @@ Gợi ý độ dài: 200–350 chữ.
 
 ## Nguồn
 
-1. Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini.
-2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius.
+1. Beccaria, Cesare (1764), *Dei delitti e delle pene*, Livorno: Coltellini; bản số hóa một bản in năm 1764 (Biblioteca Nazionale Centrale di Firenze), Internet Archive. <https://archive.org/details/bub_gb_Qc2w2id9DXIC>
+2. Kant, Immanuel (1797), *Metaphysik der Sitten*, Königsberg: Nicolovius; Münchener DigitalisierungsZentrum: phần 1 (*Rechtslehre*) <https://www.digitale-sammlungen.de/de/view/bsb11916162>; phần 2 (*Tugendlehre*) <https://www.digitale-sammlungen.de/de/view/bsb11916163>
 3. Death Penalty Information Center, "Innocence" (ít nhất 203 người bị kết án tử hình được minh oan kể từ 1973, số liệu năm 2026). <https://deathpenaltyinfo.org/policy-issues/innocence>
 4. Hoskins, Zachary & Antony Duff, "Legal Punishment", *Stanford Encyclopedia of Philosophy* (về các lý thuyết biện minh cho hình phạt: báo ứng, hệ quả). <https://plato.stanford.edu/archives/fall2026/entries/legal-punishment/>
 5. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -7981,7 +7985,7 @@ Gợi ý độ dài: 250–400 chữ.
 
 ## Nguồn
 
-1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220.
+1. Warren, Samuel D. & Louis D. Brandeis (1890), "The Right to Privacy", *Harvard Law Review*, vol. 4, no. 5: 193–220. <https://doi.org/10.2307/1321160>
 2. Nissenbaum, Helen (2004), "Privacy as Contextual Integrity", *Washington Law Review* 79(1): 119.
 3. Nissenbaum, Helen (2009), *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford: Stanford University Press.
 4. Solove, Daniel J. (2007), "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy", *San Diego Law Review* 44: 745–772.
@@ -8988,7 +8992,7 @@ Gợi ý độ dài: 200–350 chữ.
 2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
 3. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg #7370). <https://www.gutenberg.org/ebooks/7370>
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
-5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
+5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*, Amsterdam: Marc Michel Rey; lần in đầu, Internet Archive. <https://archive.org/details/discourssu00rous>
 6. Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
@@ -9222,7 +9226,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Christiano, Thomas & Sameer Bajaj, "Democracy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/democracy/>
 2. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 3. Schumpeter, Joseph A. (1942), *Capitalism, Socialism and Democracy*, New York: Harper & Brothers.
-4. Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin.
+4. Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin; bản Gutenberg theo ấn bản thứ 12 (Paris: Pagnerre, 1848), tập 1 (trong 4 tập). <https://www.gutenberg.org/ebooks/30513>
 5. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 6. Habermas, Jürgen (1992), *Faktizität und Geltung*, Frankfurt: Suhrkamp (bản tiếng Anh *Between Facts and Norms*, 1996, MIT Press).
 7. Popper, Karl (1945), *The Open Society and Its Enemies*, London: Routledge.
@@ -10056,7 +10060,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/>
 2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-epistemology/>
 3. Wollstonecraft, Mary (1792), *A Vindication of the Rights of Woman*, London: J. Johnson (phạm vi công cộng). <https://www.gutenberg.org/ebooks/3420>
-4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng).
+4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng), Project Gutenberg. <https://www.gutenberg.org/ebooks/27083>
 5. Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.
 6. Gilligan, Carol (1982), *In a Different Voice*, Cambridge, MA: Harvard University Press.
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
@@ -10862,7 +10866,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>
 2. Tolstoy, Lev (1897), *What is Art?* (*Chto takoe iskusstvo?*). Bản dịch tiếng Anh của Aylmer Maude (1898) thuộc phạm vi công cộng: <https://www.gutenberg.org/ebooks/64908>
-3. Bell, Clive (1914), *Art*, London: Chatto & Windus.
+3. Bell, Clive (1914), *Art*, London: Chatto & Windus, Internet Archive. <https://archive.org/details/in.ernet.dli.2015.98236>
 4. Danto, Arthur (1964), "The Artworld", *Journal of Philosophy* 61(19): 571–584.
 5. Dickie, George (1974), *Art and the Aesthetic: An Institutional Analysis*, Ithaca: Cornell University Press.
 6. Weitz, Morris (1956), "The Role of Theory in Aesthetics", *Journal of Aesthetics and Art Criticism* 15(1): 27–35.
@@ -12084,7 +12088,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 Đoạn được dẫn: Augustine, *Confessions*, Quyển XI.
 
-1. McTaggart, J. M. E. (1908), "The Unreality of Time", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.)
+1. McTaggart, J. M. E. (1908), "The Unreality of Time", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.) <https://doi.org/10.1093/mind/XVII.4.457>
 2. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 3. Emery, Nina, Ned Markosian & Meghan Sullivan, "Time", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/archives/fall2026/entries/time/>
 4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>
@@ -13500,7 +13504,7 @@ Các phần được dẫn: Nozick, *Anarchy, State, and Utopia*, thí nghiệm 
 2. Crisp, Roger, “Well-Being”, *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/well-being/>
 3. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
 4. Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.
-5. Epicurus, *Thư gửi Menoeceus* (cuối thế kỷ 4 – đầu thế kỷ 3 TCN, phạm vi công cộng; được Diogenes Laertius chép lại trong Quyển X của *Lives of Eminent Philosophers*).
+5. Epicurus, *Thư gửi Menoeceus* và *Những châm ngôn chủ yếu* (*Kyriai Doxai*). Được Diogenes Laertius lưu lại trong *Lives of Eminent Philosophers*, Quyển X. Bản dịch tiếng Anh của C. D. Yonge (*The Lives and Opinions of Eminent Philosophers*, Bohn's Classical Library; bản Gutenberg theo lần in London: G. Bell and Sons, 1915; phạm vi công cộng). <https://www.gutenberg.org/ebooks/57342>
 6. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
@@ -14774,7 +14778,7 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 *Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; *Siêu hình học* và *Đạo đức Nicomachus* theo bản dịch tiếng Anh phạm vi công cộng của W. D. Ross.
 
-1. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
+1. Platon, *The Republic*, bản dịch tiếng Anh của Benjamin Jowett (in lần đầu trong *The Dialogues of Plato*, Oxford, 1871; phạm vi công cộng), Project Gutenberg #1497. <https://www.gutenberg.org/ebooks/1497>
 2. Aristotle, *Siêu hình học*.
 3. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
 4. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.

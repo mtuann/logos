@@ -204,7 +204,7 @@ Gợi ý độ dài: 200–350 chữ.
 1. Norlock, Kathryn & Jordan Pascoe, "Feminist Ethics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-ethics/>
 2. Anderson, Elizabeth, "Feminist Epistemology and Philosophy of Science", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/feminism-epistemology/>
 3. Wollstonecraft, Mary (1792), *A Vindication of the Rights of Woman*, London: J. Johnson (phạm vi công cộng). <https://www.gutenberg.org/ebooks/3420>
-4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng).
+4. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng), Project Gutenberg. <https://www.gutenberg.org/ebooks/27083>
 5. Beauvoir, Simone de (1949), *Le Deuxième Sexe*, Paris: Gallimard.
 6. Gilligan, Carol (1982), *In a Different Voice*, Cambridge, MA: Harvard University Press.
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nu-quyen.md#nguon",
-  "hash": "sha256:94fdbf3cd31a86a11bb80381375f08dd02bfaf184a7efa0be9923003c4e712be",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k05",
+  "hash": "sha256:10c1375fbc915d5564a4d992130f7e9e9b3f33d8ddd4bd7bc0d2a9db12cbed30",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k05 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "1. Norlock & Pascoe, \"Feminist Ethics\", SEP (archives/fall2026)",
@@ -75,6 +75,12 @@
           "quote": "Copyright © 2022 by Mari Mikkola"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng), Project Gutenberg. <https://www.gutenberg.org/ebooks/27083>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.27083"
     }
   ],
   "checklist": {
@@ -85,5 +91,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "www.gutenberg.org trả 503 trong phiên; dùng mirror gutenberg.pglaf.org. Mọi dòng trùng bản ghi sources/* đóng băng."
+  "notes": "www.gutenberg.org trả 503 trong phiên; dùng mirror gutenberg.pglaf.org. Mọi dòng trùng bản ghi sources/* đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

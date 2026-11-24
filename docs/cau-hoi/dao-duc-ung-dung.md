@@ -167,7 +167,9 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Bentham, *An Introduction to the Principles of Morals and Legislation*, chương 17.
+
 1. Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House.
 2. Gruen, Lori & Susana Monsó, "The Moral Status of Animals", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/moral-animal/>
-3. Bentham, Jeremy (1789), *An Introduction to the Principles of Morals and Legislation*, chương 17. Bản tiếng Anh phạm vi công cộng.
+3. Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>
 4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

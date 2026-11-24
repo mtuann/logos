@@ -77,7 +77,7 @@ Chương II của *Bàn về tự do* (1859) bảo vệ tự do tư tưởng và
 2. Schefczyk, Michael, “John Stuart Mill: Ethics”, *Internet Encyclopedia of Philosophy*. <https://iep.utm.edu/mill-eth/>
 3. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
 4. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
-5. Mill, John Stuart, *The Subjection of Women* (1869), Project Gutenberg. <https://www.gutenberg.org/ebooks/27083>
+5. Mill, John Stuart (1869), *The Subjection of Women*, London: Longmans, Green, Reader, and Dyer (phạm vi công cộng), Project Gutenberg. <https://www.gutenberg.org/ebooks/27083>
 6. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
 
 ---

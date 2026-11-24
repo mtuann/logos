@@ -201,7 +201,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 1. Gracyk, Theodore, "Hume's Aesthetics", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/hume-aesthetics/>
 2. Tolstoy, Lev (1897), *What is Art?* (*Chto takoe iskusstvo?*). Bản dịch tiếng Anh của Aylmer Maude (1898) thuộc phạm vi công cộng: <https://www.gutenberg.org/ebooks/64908>
-3. Bell, Clive (1914), *Art*, London: Chatto & Windus.
+3. Bell, Clive (1914), *Art*, London: Chatto & Windus, Internet Archive. <https://archive.org/details/in.ernet.dli.2015.98236>
 4. Danto, Arthur (1964), "The Artworld", *Journal of Philosophy* 61(19): 571–584.
 5. Dickie, George (1974), *Art and the Aesthetic: An Institutional Analysis*, Ithaca: Cornell University Press.
 6. Weitz, Morris (1956), "The Role of Theory in Aesthetics", *Journal of Aesthetics and Art Criticism* 15(1): 27–35.

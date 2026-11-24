@@ -1,0 +1,33 @@
+{
+  "unit": "sources/web.digitale-sammlungen-de.de-view-bsb11916162",
+  "hash": "sha256:2da683aad08c4ec4442fee9c5e631402a1f429de96fb66793105e3eedfcd0bd8",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2r-17 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Kant, Die Metaphysik der Sitten, năm 1797, Königsberg: Nicolovius",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/search.json?q=kant+metaphysik+der+sitten+nicolovius",
+          "quote": "Die Metaphysik der Sitten",
+          "where": "first_publish_year 1797, publisher Friedrich Nicolovius; thêm: 'Die Metaphysik der Sitten in zwey Theilen', publisher 'Bey Friedrich Nicolovius'"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.digitale-sammlungen.de/de/view/bsb11916162, https://www.digitale-sammlungen.de/de/view/bsb11916163 — khớp ấn bản gốc (Königsberg: Nicolovius, 1797)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.digitale-sammlungen.de/de/view/bsb11916162",
+          "quote": "MDZ manifest bsb11916162: 'Kant, Immanuel: Metaphysische Anfangsgründe der Rechtslehre ... Abgefaßt von Immanuel Kant ... Werktitel: Kant, Immanuel: Die Metaphysik der Sitten ... Königsberg : bey Friedrich Nicolovius ... 1797.' ; bsb11916163: 'Metaphysische Anfangsgründe der Tugendlehre ... Werktitel: Die Metaphysik der Sitten ... Königsberg : bey Friedrich Nicolovius ... 1797.'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.kant-immanuel-1797-metaphysik-der-sitten-konigsberg-nicolovi (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Tác phẩm 2 phần ở 2 link MDZ: Phần 1 Rechtslehre (link chính; trang an-tu-hinh dùng phần này) và Phần 2 Tugendlehre https://www.digitale-sammlungen.de/de/view/bsb11916163 . Trang xem MDZ trả 200, tiêu đề 'metaphysische anfangsgründe der rechtslehre - Digitalisat | MDZ'. [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.kant-immanuel-1797-metaphysik-der-sitten-konigsberg-nicolovi (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.kant-immanuel-1797-metaphysik-der-sitten-konigsberg-nicolovi.json"
+}

@@ -201,7 +201,7 @@ Gợi ý độ dài: 150–300 chữ.
 
 Đoạn được dẫn: Augustine, *Confessions*, Quyển XI.
 
-1. McTaggart, J. M. E. (1908), "The Unreality of Time", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.)
+1. McTaggart, J. M. E. (1908), "The Unreality of Time", *Mind* 17: 457–474. (Văn bản đã hết bản quyền.) <https://doi.org/10.1093/mind/XVII.4.457>
 2. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 3. Emery, Nina, Ned Markosian & Meghan Sullivan, "Time", *Stanford Encyclopedia of Philosophy* (về hiện tại luận – vĩnh cửu luận). <https://plato.stanford.edu/archives/fall2026/entries/time/>
 4. Ingram, David & Jonathan Tallant, "Presentism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/presentism/>

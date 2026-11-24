@@ -1,0 +1,38 @@
+{
+  "unit": "sources/gutenberg.30513",
+  "hash": "sha256:3ada72521cda5579f1d9993e0efc4602c7051839f14dc8152cf0af31ebd2884d",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r22 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Tocqueville, De la démocratie en Amérique, Paris: Gosselin, tập 1835 (và 1840)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28d%C3%A9mocratie+en+Am%C3%A9rique%29+AND+creator%3Atocqueville+AND+publisher%3Agosselin",
+          "quote": "\"publisher\":\"C. Gosselin\",\"title\":\"De la d\\u00e9mocratie en Am\\u00e9rique\",\"year\":1840",
+          "where": "Internet Archive deladmocratieen13tocqgoog"
+        },
+        {
+          "url": "https://openlibrary.org/search.json?title=de+la+democratie+en+amerique&author=tocqueville",
+          "quote": "\"first_publish_year\":1835",
+          "where": "Open Library works/OL278001W, publisher 'Librairie de Charles Gosselin'"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/30513 — khác ấn bản: Pagnerre 1848 (ấn bản 12), không phải Gosselin 1835/1840",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/30513",
+          "quote": "DE LA DÉMOCRATIE EN AMÉRIQUE PAR ALEXIS DE TOCQUEVILLE Membre de l'Institut. DOUZIÈME ÉDITION REVUE, CORRIGÉE et augmentée d'un Avertissement ... TOME PREMIER. PARIS PAGNERRE, ÉDITEUR ... 1848"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.tocqueville-alexis-de-1835-1840-de-la-democratie-en-amerique (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Đây là tập 1/4 (các tập sau: #30514, #30515, #30516). Không tìm được bản số hóa mở của chính ấn bản đầu Gosselin 1835. IA có các bản Gosselin in lại: deladmocratieen13tocqgoog (metadata 1840, C. Gosselin; OCR 'TOME PREMIER. PARIS. LIBRAIRIE DE CHARLES GOSSELIN', dòng lần in đọc không rõ, có vẻ là ấn bản in lại), deladmocratieen14/15/16tocqgoog và bub_gb_VdTHVlb0MT0C (metadata 1836, Gosselin; chưa mở được văn bản). Gallica chặn truy cập tự động (Cloudflare) nên chưa kiểm được bản 1835 của BnF. Trang gutenberg.org đang 503 (bảo trì) lúc kiểm; số ebook xác nhận qua GUTINDEX.ALL và tệp văn bản trê [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.tocqueville-alexis-de-1835-1840-de-la-democratie-en-amerique (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.tocqueville-alexis-de-1835-1840-de-la-democratie-en-amerique.json"
+}

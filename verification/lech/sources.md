@@ -2,9 +2,9 @@
 
 Sinh bằng `python tools/kb_sources.py`. Đầu vào cho đợt 5: không sửa trong đợt 2.
 
-- 963 mục Nguồn (trang viết tay + hồ sơ) → 683 bản ghi.
-- Theo loại: cbeta 3, ctext 24, doi 60, gutenberg 66, iep 37, khac 92, sach 169, sep 187, wikisource 45.
-- 207 mục không có URL (sách in, hoặc thiếu link).
+- 963 mục Nguồn (trang viết tay + hồ sơ) → 678 bản ghi.
+- Theo loại: cbeta 3, ctext 24, doi 62, gutenberg 67, iep 37, khac 98, sach 155, sep 187, wikisource 45.
+- 192 mục không có URL (sách in, hoặc thiếu link).
 
 ## Cùng một nguồn, chữ khác nhau (0)
 
@@ -24,7 +24,7 @@ Bản ghi lấy URL đầu; các URL sau ghi ở `also`. Mục gộp nhiều tá
 
 Không còn mục mở.
 
-## Mục có nhiều URL, đã duyệt: cùng một tác phẩm (70 mục, 15 bản ghi)
+## Mục có nhiều URL, đã duyệt: cùng một tác phẩm (71 mục, 16 bản ghi)
 
 - `ctext.mengzi-gong-sun-chou-i`: *Mạnh Tử*: ba thiên 2A, 3B, 6A (dùng ở `cau-hoi/ban-tinh-con-nguoi.md#nguon`, `doc/manh-tu-tinh-thien.md#nguon`)
 - `ctext.mengzi-teng-wen-gong-i`: *Mạnh Tử*: hai thiên 3A, 3B (dùng ở `doc/mac-tu-kiem-ai.md#nguon`)
@@ -34,6 +34,7 @@ Không còn mục mở.
 - `web.archive-org.details-cu31924029021612`: bài của Kant (1797): bản dịch Abbott và nguyên văn Akademie-Ausgabe (dùng ở `cau-hoi/noi-doi.md#nguon`)
 - `web.archive-org.details-cu31924097557171`: *Phenomenology of Spirit* của Hegel: hai tập bản dịch Baillie (1910) (dùng ở `lich-su/the-ky-19.md#nguon`)
 - `web.archive-org.details-logischeuntersuc01hussuoft`: *Logische Untersuchungen* của Husserl: hai tập của ấn bản đầu (dùng ở `lich-su/the-ky-20.md#nguon`)
+- `web.digitale-sammlungen-de.de-view-bsb11916162`: *Metaphysik der Sitten* của Kant: hai phần (Rechtslehre, Tugendlehre) (dùng ở `cau-hoi/an-tu-hinh.md#nguon`)
 - `wikisource.da.enten-eller-frste-deel`: *Enten — Eller* của Kierkegaard: hai phần (dùng ở `lich-su/the-ky-19.md#nguon`)
 - `wikisource.de.beantwortung-der-frage-was-ist-aufklarung`: bài của Kant (1784): bản in gốc và Akademie-Ausgabe (dùng ở `doc/kant-khai-sang.md#nguon`)
 - `wikisource.en.meditations-on-first-philosophy-meditation-i`: *Meditations* của Descartes: bản dịch Veitch và Molyneux (dùng ở `cau-hoi/tri-thuc.md#nguon`)

@@ -219,6 +219,6 @@ Gợi ý độ dài: 200–350 chữ.
 2. Tuckness, Alex, "Locke's Political Philosophy", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/locke-political/>
 3. Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg #7370). <https://www.gutenberg.org/ebooks/7370>
 4. Nozick, Robert (1974), *Anarchy, State, and Utopia*, New York: Basic Books.
-5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*.
+5. Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*, Amsterdam: Marc Michel Rey; lần in đầu, Internet Archive. <https://archive.org/details/discourssu00rous>
 6. Proudhon, Pierre-Joseph (1840), *Qu'est-ce que la propriété?* Bản tiếng Anh *What is Property?* (phạm vi công cộng): <https://www.gutenberg.org/ebooks/360>
 7. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>

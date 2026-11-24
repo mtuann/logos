@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/tai-san-rieng.md#nguon",
-  "hash": "sha256:69d98e36b35404e9e74bbbe3eec37ae59de9be26f4f85a2aedb9d5b18e268b35",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k03",
+  "hash": "sha256:cbc4fce0f1b4589570cede0e927b72a4591db5bf149db28369407a412de76085",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k03 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "van der Vossen, Bas & Billy Christmas, \"Libertarianism\", SEP, fall2026",
@@ -45,6 +45,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Rousseau, Jean-Jacques (1755), *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*, Amsterdam: Marc Michel Rey; lần in đầu, Internet Archive. <https://archive.org/details/discourssu00rous>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-discourssu00rous"
     }
   ],
   "checklist": {
@@ -55,5 +61,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. SEP bản lưu fall2026 tải được; www.gutenberg.org trả 503 (bảo trì), nội dung #7370 và #360 đối chiếu qua mirror gutenberg.pglaf.org; survey2020.philpeople.org chặn công cụ (kiểm tra chống bot), bài báo đối chiếu qua journals.publishing.umich.edu."
+  "notes": "Mọi dòng trùng bản ghi sources/* đã đóng băng. SEP bản lưu fall2026 tải được; www.gutenberg.org trả 503 (bảo trì), nội dung #7370 và #360 đối chiếu qua mirror gutenberg.pglaf.org; survey2020.philpeople.org chặn công cụ (kiểm tra chống bot), bài báo đối chiếu qua journals.publishing.umich.edu. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

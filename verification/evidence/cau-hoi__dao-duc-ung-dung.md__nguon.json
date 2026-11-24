@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#nguon",
-  "hash": "sha256:6c10b1c3bebadbceeb68cf053b951957f66f9416e84cf7ea7f61fdaea3519f9f",
-  "checked_on": "2026-11-23",
-  "checker": "agent-kiem-5.7-k10 + claude-doi-loi-7.1.4",
+  "hash": "sha256:7c457fac4c1bd0778e7801265875dae1c5d23b4d7fe3850e8b4897b1ac8b2a04",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.7-k10 + claude-doi-loi-7.1.4 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Singer, Peter (1975), *Animal Liberation*, New York: New York Review/Random House.",
@@ -27,6 +27,18 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Dòng Nguồn: Bentham, Jeremy, *An Introduction to the Principles of Morals and Legislation* (in năm 1780, xuất bản năm 1789), Oxford: Clarendon Press, 1907 (in lại ấn bản 1823), Internet Archive. <https://archive.org/details/introductiontoth033476mbp>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-introductiontoth033476mbp"
+    },
+    {
+      "text": "Câu trước danh sách: Đoạn được dẫn: Bentham, *An Introduction to the Principles of Morals and Legislation*, chương 17.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-introductiontoth033476mbp"
     }
   ],
   "checklist": {
@@ -37,5 +49,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Cả 6 dòng trùng bản ghi sources/* đã đóng băng. URL SEP bản lưu fall2026 mở được, tác giả Gruen & Monsó khớp.\n[doi-loi] 7.1.4: Bỏ Singer 1972 và MacAskill 2015 (bài không còn phần nghèo đói, vị tha hiệu quả); đánh lại số. Bản ghi sources/sach.macaskill-… không còn trang nào dùng: dòng sổ bỏ, file bằng chứng giữ."
+  "notes": "Cả 6 dòng trùng bản ghi sources/* đã đóng băng. URL SEP bản lưu fall2026 mở được, tác giả Gruen & Monsó khớp.\n[doi-loi] 7.1.4: Bỏ Singer 1972 và MacAskill 2015 (bài không còn phần nghèo đói, vị tha hiệu quả); đánh lại số. Bản ghi sources/sach.macaskill-… không còn trang nào dùng: dòng sổ bỏ, file bằng chứng giữ. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

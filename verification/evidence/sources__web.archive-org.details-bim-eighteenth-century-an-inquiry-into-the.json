@@ -1,0 +1,45 @@
+{
+  "unit": "sources/web.archive-org.details-bim-eighteenth-century-an-inquiry-into-the",
+  "hash": "sha256:6430eddd7b40d794db0b3a0c8f5df447d44869a72131624285752c86e2454e96",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r20 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Reid (1764), An Inquiry into the Human Mind on the Principles of Common Sense",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://openlibrary.org/works/OL2665118W/editions.json?limit=60",
+          "quote": "Printed for A. Millar, London, and A. Kincaid & J. Bell, Edinburgh",
+          "where": "Open Library, ấn bản 1764 (OL58088711M)"
+        }
+      ]
+    },
+    {
+      "text": "Chương VI (Of Seeing), mục XXIV",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/stream/humanmind00reiduoft/humanmind00reiduoft_djvu.txt",
+          "quote": "Of  the  Analogy  between  Perception,  and  the  Credit",
+          "where": "Internet Archive humanmind00reiduoft (bản 1818), Ch. VI Of Seeing, Sect. XXIV"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/bim_eighteenth-century_an-inquiry-into-the-huma_reid-thomas_1764 — khớp tác phẩm, có chương VI mục XXIV; khác ấn bản: chép theo Works (Charleston 1813), bỏ chú thích",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/bim_eighteenth-century_an-inquiry-into-the-huma_reid-thomas_1764",
+          "quote": "header: title = An Inquiry into the Human Mind: on the Principles of Common Sense | author = Thomas Reid | year = 1764; 'From Reid’s Works (Charleston: Etheridge, 1813), Vol 1. Footnotes not included.'; có 'SECTION XXIV OF THE ANALOGY BETWEEN PERCEPTION, AND THE CREDIT WE GIVE TO HUMAN TESTIMONY'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 11): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.reid-thomas-1764-an-inquiry-into-the-human-mind-on-the-princ (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Ấn bản đầu 1764 có trên IA: https://archive.org/details/bim_eighteenth-century_an-inquiry-into-the-huma_reid-thomas_1764 (OCR: 'By THOMAS REID, D. D. ... EDINBURGH: Printed for A. MILLAR, London, and A. KINCAID & J. BELL ... MDCCLXIV') — chọn nếu muốn đúng ấn bản. Không có trên Gutenberg. [doi-loi] 2026-11-24 (7.1.2 lô 11): gộp bản ghi sources/sach.reid-thomas-1764-an-inquiry-into-the-human-mind-on-the-princ (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.reid-thomas-1764-an-inquiry-into-the-human-mind-on-the-princ.json"
+}

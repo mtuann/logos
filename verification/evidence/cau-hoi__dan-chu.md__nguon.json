@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dan-chu.md#nguon",
-  "hash": "sha256:de6d056f86ef3ea685dd35180ba37cef17fd4699090ee1aaf0404f6c018a98f3",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k01",
+  "hash": "sha256:7d14460805a2db4e43762a50ac936edc62520e42cce0096e7c8fb83a2b399b76",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k01 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Đoạn được dẫn: Platon, Cộng hòa, quyển VI (488a–489d).",
@@ -74,6 +74,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sep.arrows-theorem"
+    },
+    {
+      "text": "Dòng Nguồn: Tocqueville, Alexis de (1835, 1840), *De la démocratie en Amérique*, Paris: Gosselin; bản Gutenberg theo ấn bản thứ 12 (Paris: Pagnerre, 1848), tập 1 (trong 4 tập). <https://www.gutenberg.org/ebooks/30513>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.30513"
     }
   ],
   "checklist": {
@@ -84,5 +90,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. URL SEP fall2026 (democracy, arrows-theorem) mở được trong phiên này; Gutenberg đọc qua mirror gutenberg.pglaf.org vì trang chính đang bảo trì."
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. URL SEP fall2026 (democracy, arrows-theorem) mở được trong phiên này; Gutenberg đọc qua mirror gutenberg.pglaf.org vì trang chính đang bảo trì. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }
