@@ -1,7 +1,7 @@
 {
   "unit": "lich-su/hy-lap-co-dai.md#nguon",
-  "hash": "sha256:d1480ad4e558a70b3a66408ec13c59af7c42a7a5b0c611e020cbb7874750564e",
-  "checked_on": "2026-11-23",
+  "hash": "sha256:eaeed7a0cce4524df11f4a3010edc5b89a14e47d6f46c0cba146626276827904",
+  "checked_on": "2026-11-24",
   "checker": "agent-kiem-5.6-p01 + claude-doi-loi-7.1.1",
   "claims": [
     {
@@ -143,10 +143,34 @@
       ]
     },
     {
-      "text": "Câu trước danh sách: *Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; dòng Nguồn: Platon, *Cộng hòa* (*Republic*).",
+      "text": "Câu trước danh sách: *Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; dòng Nguồn: Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).",
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.platon-khoang-380-tcn-cong-hoa-republic"
+    },
+    {
+      "text": "Câu trước danh sách: *Siêu hình học* và *Đạo đức Nicomachus* theo bản dịch tiếng Anh phạm vi công cộng của W. D. Ross; dòng Nguồn: Aristotle, *Siêu hình học*.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.aristotle-sieu-hinh-hoc"
+    },
+    {
+      "text": "Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.aristotle-nicomachean-ethics-dao-duc-nicomachus"
+    },
+    {
+      "text": "Bản dịch NE của W. D. Ross là bản công cộng trên MIT Classics",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://classics.mit.edu/Aristotle/nicomachaen.html",
+          "quote": "Nicomachean Ethics",
+          "where": "translated by W. D. Ross"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -157,5 +181,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Wikisource ghi Ross mất 1971: bản dịch công cộng ở Mỹ (xuất bản trước 1931) và ở nơi có thời hạn bảo hộ đời tác giả + 54 năm trở xuống. Gutenberg đang bảo trì khi kiểm nên dùng classics.mit.edu và Wikisource. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
+  "notes": "Wikisource ghi Ross mất 1971: bản dịch công cộng ở Mỹ (xuất bản trước 1931) và ở nơi có thời hạn bảo hộ đời tác giả + 54 năm trở xuống. Gutenberg đang bảo trì khi kiểm nên dùng classics.mit.edu và Wikisource. [doi-loi] 2026-11-23 (7.1.1 lô 4): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng. [doi-loi] 2026-11-24 (7.1.1 lô 7): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

@@ -99,11 +99,12 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 ## Nguồn {#nguon}
 
-*Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett.
+*Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; *Siêu hình học* và *Đạo đức Nicomachus* theo bản dịch tiếng Anh phạm vi công cộng của W. D. Ross.
 
 1. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
-2. Aristotle, *Siêu hình học*; *Đạo đức Nicomachus* — bản dịch tiếng Anh công cộng của W. D. Ross.
-3. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.
-4. Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.
-5. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Presocratics, Heraclitus, Socrates, The Sophists, Plato, Aristotle, Stoicism, Epicurus, Pyrrho.
-6. Internet Encyclopedia of Philosophy (IEP), mục "Diogenes of Sinope": <https://iep.utm.edu/diogenes-of-sinope/>.
+2. Aristotle, *Siêu hình học*.
+3. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
+4. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.
+5. Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.
+6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Presocratics, Heraclitus, Socrates, The Sophists, Plato, Aristotle, Stoicism, Epicurus, Pyrrho.
+7. Internet Encyclopedia of Philosophy (IEP), mục "Diogenes of Sinope": <https://iep.utm.edu/diogenes-of-sinope/>.

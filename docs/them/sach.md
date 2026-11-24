@@ -14769,14 +14769,15 @@ Cả hai trường phái đều sống dai dẳng: Khắc kỷ được yêu th�
 
 ## Nguồn
 
-*Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett.
+*Cộng hòa* đọc theo bản dịch tiếng Anh phạm vi công cộng của Benjamin Jowett; *Siêu hình học* và *Đạo đức Nicomachus* theo bản dịch tiếng Anh phạm vi công cộng của W. D. Ross.
 
 1. Platon (khoảng 380 TCN), *Cộng hòa* (*Republic*).
-2. Aristotle, *Siêu hình học*; *Đạo đức Nicomachus* — bản dịch tiếng Anh công cộng của W. D. Ross.
-3. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.
-4. Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.
-5. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Presocratics, Heraclitus, Socrates, The Sophists, Plato, Aristotle, Stoicism, Epicurus, Pyrrho.
-6. Internet Encyclopedia of Philosophy (IEP), mục "Diogenes of Sinope": <https://iep.utm.edu/diogenes-of-sinope/>.
+2. Aristotle, *Siêu hình học*.
+3. Aristotle, *Nicomachean Ethics* (*Đạo đức Nicomachus*).
+4. Marcus Aurelius, *Suy tưởng* — bản dịch tiếng Anh công cộng của George Long.
+5. Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.
+6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Presocratics, Heraclitus, Socrates, The Sophists, Plato, Aristotle, Stoicism, Epicurus, Pyrrho.
+7. Internet Encyclopedia of Philosophy (IEP), mục "Diogenes of Sinope": <https://iep.utm.edu/diogenes-of-sinope/>.
 
 <div class="oz-page-break"></div>
 
@@ -14936,7 +14937,7 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 1. René Descartes, *Meditations on First Philosophy* (1641) — bản dịch tiếng Anh công cộng.
 2. Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất) — bản dịch tiếng Anh công cộng.
 3. John Locke, *An Essay Concerning Human Understanding* (1689) — bản dịch/văn bản công cộng.
-4. David Hume, *An Enquiry Concerning Human Understanding* (1748) — văn bản công cộng.
+4. Hume, David (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.
 5. Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của J. M. D. Meiklejohn, Project Gutenberg #4280 <https://www.gutenberg.org/ebooks/4280>.
 6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Descartes, Elisabeth of Bohemia, Spinoza, Leibniz, Locke, Berkeley, Hume, Kant.
 
@@ -15026,11 +15027,12 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 
 1. G. W. F. Hegel, *Phenomenology of Spirit* (1807) — bản dịch tiếng Anh công cộng.
 2. Karl Marx & Friedrich Engels, *The Communist Manifesto* (1848), bản dịch tiếng Anh theo ấn bản 1888 do Friedrich Engels biên tập, Project Gutenberg #61 <https://www.gutenberg.org/ebooks/61>; Karl Marx, *Capital*, tập 1 (1867).
-3. Søren Kierkegaard, *Either/Or* (1843); *Fear and Trembling* (1843).
-4. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
-5. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
-6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
-7. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
+3. Kierkegaard, Søren (1843), *Either/Or*.
+4. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio.
+5. Friedrich Nietzsche, *The Gay Science* (1882); *Thus Spoke Zarathustra* (1883–1885); *Beyond Good and Evil* (1886) — bản dịch tiếng Anh công cộng.
+6. John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
+7. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
+8. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>
 
 <div class="oz-page-break"></div>
 
@@ -15119,12 +15121,14 @@ Cuối thế kỷ 20, bức tường giữa hai truyền thống bắt đầu n�
 3. Wittgenstein, Ludwig (1921), *Tractatus Logico-Philosophicus*.
 4. Wittgenstein, Ludwig (1953), *Philosophical Investigations*, Oxford: Blackwell.
 5. Ayer, A. J. (1936), *Language, Truth and Logic*, London: Victor Gollancz.
-5. W. V. Quine (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60; (1960), *Word and Object*, Cambridge, MA: MIT Press.
-6. Edmund Husserl (1900–1901), *Logische Untersuchungen*; (1913), *Ideen I*.
-7. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
-8. Jean-Paul Sartre (1943), *L'Être et le néant*, Paris: Gallimard.
-9. Max Horkheimer & Theodor W. Adorno (1947), *Dialektik der Aufklärung*, Amsterdam: Querido.
-10. Aaron Preston, "Analytic Philosophy", *Internet Encyclopedia of Philosophy* (IEP) — về lịch sử của triết học phân tích và sự đối lập với hiện tượng luận, hiện sinh, triết học lục địa: <https://iep.utm.edu/analytic-philosophy/>.
+6. Quine, W. V. (1951), "Two Dogmas of Empiricism", *The Philosophical Review* 60.
+7. Quine, Willard Van Orman (1960), *Word and Object*, Cambridge, MA: MIT Press.
+8. Husserl, Edmund (1900–1901), *Logische Untersuchungen*.
+9. Husserl, Edmund (1913), *Ideen I*.
+10. Martin Heidegger (1927), *Sein und Zeit*, Halle: Niemeyer.
+11. Jean-Paul Sartre (1943), *L'Être et le néant*, Paris: Gallimard.
+12. Max Horkheimer & Theodor W. Adorno (1947), *Dialektik der Aufklärung*, Amsterdam: Querido.
+13. Aaron Preston, "Analytic Philosophy", *Internet Encyclopedia of Philosophy* (IEP) — về lịch sử của triết học phân tích và sự đối lập với hiện tượng luận, hiện sinh, triết học lục địa: <https://iep.utm.edu/analytic-philosophy/>.
 
 <div class="oz-page-break"></div>
 

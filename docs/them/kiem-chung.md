@@ -38,10 +38,10 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Loại | Số bản ghi | Đã đóng băng |
 |---|---:|---:|
 | Người (năm sinh mất, trường phái) | 59 | 59 |
-| Tác phẩm | 336 | 336 |
+| Tác phẩm | 334 | 334 |
 | Trích dẫn | 155 | 155 |
 | Sự kiện (ứng viên) | 140 | 140 |
-| Nguồn | 688 | 688 |
+| Nguồn | 687 | 687 |
 | Hồ sơ triết gia | 59 | 59 |
 | Câu hỏi khảo sát PhilPapers 2020 | 100 | 100 |
 | Thuật ngữ (Từ điển) | 249 | 249 |

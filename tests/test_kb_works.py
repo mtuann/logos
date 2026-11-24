@@ -46,9 +46,9 @@ class TestKbWorks(unittest.TestCase):
         đăng lục* (1004) ở truc-lam) → 169; thêm 1 (cùng sách ở mục Nguồn của truc-lam) → 170; 7.1.1 lô 4 (quy ước
         "Tác giả (năm), *Tác phẩm*" ở mục Nguồn): bớt 2 (*Cộng hòa* (khoảng 380 TCN) ở hy-lap-co-dai,
         *Philosophical Investigations* (1953) ở dinh-nghia-phan-vi-du) → 168; lô 5: bớt 3 (*Confessions* (397–400),
-        *City of God* (413–426), *Proslogion* (1077–1078) ở mục Nguồn của trung-co) → 165."""
+        *City of God* (413–426), *Proslogion* (1077–1078) ở mục Nguồn của trung-co) → 165; lô 7: bớt 3 (*An Enquiry Concerning Human Understanding* (1748) ở can-dai; *Either/Or* (1843), *Fear and Trembling* (1843) ở the-ky-19) → 162."""
         n = sum(1 for _, _, where in kw.prose_mentions(ROOT) if not where.startswith("people/"))
-        self.assertEqual(n, 165)
+        self.assertEqual(n, 162)
 
     def test_year_null_when_conflicting(self):
         for r in self.recs.values():
