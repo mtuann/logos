@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/can-dai.md#nguon",
-  "hash": "sha256:c1fcbd3ce635aead2a982f995f913c20a57cab8d1ca8291a02e0268ae822eb68",
+  "hash": "sha256:a7e20ee24aa64ff69e35acd60d9c10911b72fd48a791f838d391cd8ae27d64d3",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.6-p03 + claude-doi-loi-7.1.1",
+  "checker": "agent-kiem-5.6-p03 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "René Descartes, *Meditations on First Philosophy* (1641)",
@@ -69,6 +69,30 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.hume-david-1748-an-enquiry-concerning-human-understanding-la"
+    },
+    {
+      "text": "Dòng Nguồn: Spinoza, Benedict de, *Ethics* (1677), bản dịch R. H. M. Elwes, Project Gutenberg. <https://www.gutenberg.org/ebooks/3800>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.3800"
+    },
+    {
+      "text": "Dòng Nguồn: Hume, David (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar; bản quét lần in đầu, Internet Archive. <https://archive.org/details/humehumanunderstanding>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-humehumanunderstanding"
+    },
+    {
+      "text": "Dòng Nguồn: Locke, John, *An Essay Concerning Human Understanding* (1689), tập 1, Project Gutenberg. <https://www.gutenberg.org/ebooks/10615>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.10615"
+    },
+    {
+      "text": "Dòng Nguồn: René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/wikisource.en.meditations-on-first-philosophy"
     }
   ],
   "checklist": {
@@ -79,5 +103,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Năm tác phẩm trùng bản ghi kho works/* đóng băng (Enquiry: in 1748 với tên Philosophical Essays…, theo year_note). gutenberg.org đang bảo trì trong phiên kiểm ('Temporarily Down for Maintenance'); xác nhận #4280 qua bản lưu web.archive.org. Mục 1–4 và 6 không có URL cụ thể; gợi ý (không bắt buộc) thêm link bản lưu SEP fall2026 và các mục SEP copernicus/galileo/newton dùng ở phần mở đầu. [doi-loi] 2026-11-24 (7.1.1 lô 7): Mục Nguồn Hume *Enquiry* ghi theo cách ghi chung (gộp vào bản ghi tạo ở lô 6); không có vị trí nào phải chuyển."
+  "notes": "Năm tác phẩm trùng bản ghi kho works/* đóng băng (Enquiry: in 1748 với tên Philosophical Essays…, theo year_note). gutenberg.org đang bảo trì trong phiên kiểm ('Temporarily Down for Maintenance'); xác nhận #4280 qua bản lưu web.archive.org. Mục 1–4 và 6 không có URL cụ thể; gợi ý (không bắt buộc) thêm link bản lưu SEP fall2026 và các mục SEP copernicus/galileo/newton dùng ở phần mở đầu. [doi-loi] 2026-11-24 (7.1.1 lô 7): Mục Nguồn Hume *Enquiry* ghi theo cách ghi chung (gộp vào bản ghi tạo ở lô 6); không có vị trí nào phải chuyển. [doi-loi] 2026-11-24 (7.1.2 lô 9): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

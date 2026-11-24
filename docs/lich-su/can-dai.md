@@ -76,9 +76,9 @@ Một ví dụ để thấy mệnh lệnh tuyệt đối hoạt động thế n�
 
 ## Nguồn {#nguon}
 
-1. René Descartes, *Meditations on First Philosophy* (1641) — bản dịch tiếng Anh công cộng.
-2. Baruch Spinoza, *Ethics* (1677, xuất bản sau khi mất) — bản dịch tiếng Anh công cộng.
-3. John Locke, *An Essay Concerning Human Understanding* (1689) — bản dịch/văn bản công cộng.
-4. Hume, David (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar.
+1. René Descartes, *Meditations on First Philosophy*, bản dịch tiếng Anh của John Veitch (1853; Wikisource theo ấn bản 1901; phạm vi công cộng). <https://en.wikisource.org/wiki/Meditations_on_First_Philosophy>
+2. Spinoza, Benedict de, *Ethics* (1677), bản dịch R. H. M. Elwes, Project Gutenberg. <https://www.gutenberg.org/ebooks/3800>
+3. Locke, John, *An Essay Concerning Human Understanding* (1689), tập 1, Project Gutenberg. <https://www.gutenberg.org/ebooks/10615>
+4. Hume, David (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar; bản quét lần in đầu, Internet Archive. <https://archive.org/details/humehumanunderstanding>
 5. Immanuel Kant, *Critique of Pure Reason* (1781; ấn bản 2, 1787) — bản dịch tiếng Anh công cộng của J. M. D. Meiklejohn, Project Gutenberg #4280 <https://www.gutenberg.org/ebooks/4280>.
 6. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Descartes, Elisabeth of Bohemia, Spinoza, Leibniz, Locke, Berkeley, Hume, Kant.

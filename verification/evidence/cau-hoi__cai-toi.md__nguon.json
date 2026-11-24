@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-toi.md#nguon",
-  "hash": "sha256:0b986d5abde488370ca98b92173218a30b7ea354bd86dda0320b22866bbc5356",
+  "hash": "sha256:a39cb14088813c637f81e5bb6c3c1673bea9efd05f6df388eb1e6447ec809e86",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.7-k06 + claude-doi-loi-7.1.1",
+  "checker": "agent-kiem-5.7-k06 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Đoạn được dẫn: Locke, *An Essay Concerning Human Understanding*, quyển II, chương xxvii (\"Về đồng nhất và khác biệt\"), chương bổ sung trong ấn bản lần hai, 1694.",
@@ -128,6 +128,36 @@
           "where": "Mục lục Book I, sau 'PART IV. OF THE SCEPTICAL AND OTHER SYSTEMS OF PHILOSOPHY' (Sect. I–VII), trước BOOK II"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Butler, Joseph (1736), \"Of Personal Identity\", phụ lục trong *The Analogy of Religion*, London (phản bác tính vòng tròn); bản quét lần in đầu, Internet Archive. <https://archive.org/details/analogyreligionn00butl>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-analogyreligionn00butl"
+    },
+    {
+      "text": "Dòng Nguồn: Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); bản quét ấn bản đầu, Internet Archive: Quyển 1 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_1>; Quyển 2 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_2>; Quyển 3 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_3>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-bim-eighteenth-century-a-treatise-of-human"
+    },
+    {
+      "text": "Dòng Nguồn: Plutarch (khoảng 45–120), *Life of Theseus* (câu chuyện con tàu Theseus), bản dịch tiếng Anh của Aubrey Stewart và George Long (1894), Project Gutenberg. <https://www.gutenberg.org/ebooks/14033>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.14033"
+    },
+    {
+      "text": "Dòng Nguồn: Hobbes, Thomas (1655), *De Corpore* (biến thể con tàu thứ hai được ghép từ ván cũ); bản tiếng Anh *Concerning Body* trong *The English Works of Thomas Hobbes*, tập I (Molesworth biên tập, 1839), Project Gutenberg. <https://www.gutenberg.org/ebooks/73877>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.73877"
+    },
+    {
+      "text": "Dòng Nguồn: Reid, Thomas (1785), *Essays on the Intellectual Powers of Man*, Edinburgh: John Bell, Internet Archive. <https://archive.org/details/essaysonintellec00reiduoft>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-essaysonintellec00reiduoft"
     }
   ],
   "checklist": {
@@ -138,5 +168,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Đã mở được các URL SEP fall2026 (identity-personal, locke-personal-identity, buddha); gutenberg.org đang bảo trì, đã mở bản #10615 qua mirror gutenberg.pglaf.org. Shoemaker 1970 không tìm thấy trên Crossref (APQ không có DOI), dựa vào bản ghi kho. [doi-loi] 2026-11-24 (7.1.1 lô 6): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. Đã mở được các URL SEP fall2026 (identity-personal, locke-personal-identity, buddha); gutenberg.org đang bảo trì, đã mở bản #10615 qua mirror gutenberg.pglaf.org. Shoemaker 1970 không tìm thấy trên Crossref (APQ không có DOI), dựa vào bản ghi kho. [doi-loi] 2026-11-24 (7.1.1 lô 6): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 9): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

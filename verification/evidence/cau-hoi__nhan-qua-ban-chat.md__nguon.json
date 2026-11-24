@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/nhan-qua-ban-chat.md#nguon",
-  "hash": "sha256:fe03cc598ee4884e570c57f0926fc1c8ab1fd8409fa30bcb5be32100eae757ae",
+  "hash": "sha256:d73332d1fc6379609de1a14a618db5fcc5dd9cf94e4757bd9772be88c5d7cb3c",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.8-k10 + claude-doi-loi-7.1.1",
+  "checker": "agent-kiem-5.8-k10 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Gallow, J. Dmitri, \"The Metaphysics of Causation\", *Stanford Encyclopedia of Philosophy*.",
@@ -50,6 +50,18 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.hume-david-1748-an-enquiry-concerning-human-understanding-la"
+    },
+    {
+      "text": "Dòng Nguồn: Hume, David (1739–1740), *A Treatise of Human Nature*, London: John Noon (Quyển 1–2, 1739), Thomas Longman (Quyển 3, 1740); bản quét ấn bản đầu, Internet Archive: Quyển 1 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_1>; Quyển 2 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_2>; Quyển 3 <https://archive.org/details/bim_eighteenth-century_a-treatise-of-human-natu_hume-david_1739_3>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-bim-eighteenth-century-a-treatise-of-human"
+    },
+    {
+      "text": "Dòng Nguồn: Hume, David (1748), *An Enquiry concerning Human Understanding* (lần in đầu mang tên *Philosophical Essays concerning Human Understanding*, đổi tên từ lần in năm 1758), London: A. Millar; bản quét lần in đầu, Internet Archive. <https://archive.org/details/humehumanunderstanding>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/web.archive-org.details-humehumanunderstanding"
     }
   ],
   "checklist": {
@@ -60,5 +72,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 6): Tách mục gộp Hume (*Treatise*; *Enquiry*); đánh lại số; không có vị trí nào phải chuyển."
+  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 6): Tách mục gộp Hume (*Treatise*; *Enquiry*); đánh lại số; không có vị trí nào phải chuyển. [doi-loi] 2026-11-24 (7.1.2 lô 9): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }
