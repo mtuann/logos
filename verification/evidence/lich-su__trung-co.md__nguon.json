@@ -1,8 +1,8 @@
 {
   "unit": "lich-su/trung-co.md#nguon",
-  "hash": "sha256:798d9dd951338c6582951fe59f4f56baaaf4b43fea269effc031d62140b09808",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.6-p02",
+  "hash": "sha256:f8010ff87f0634d69d3d82e7c4dd4f56ccadb5ad6e45cf9fbdf771a931092496",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.6-p02 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Augustine, Confessions (397–400)",
@@ -144,6 +144,24 @@
           "quote": "Anselm’s motto is “faith seeking understanding”"
         }
       ]
+    },
+    {
+      "text": "Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.augustine-khoang-397400-confessions-ban-dich-tieng-anh-pham"
+    },
+    {
+      "text": "Augustine (413–426), *City of God*, bản dịch tiếng Anh phạm vi công cộng.",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.augustine-413426-city-of-god-ban-dich-tieng-anh-pham-vi-cong"
+    },
+    {
+      "text": "Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh"
     }
   ],
   "checklist": {
@@ -154,5 +172,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mục Nguồn không ghi URL; các mục SEP đều mở được ở bản lưu fall2026. Bản Friedländer: trang sacred-texts gốc chặn bot (Cloudflare), dùng bản Wayback."
+  "notes": "Mục Nguồn không ghi URL; các mục SEP đều mở được ở bản lưu fall2026. Bản Friedländer: trang sacred-texts gốc chặn bot (Cloudflare), dùng bản Wayback. [doi-loi] 2026-11-24 (7.1.1 lô 5): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

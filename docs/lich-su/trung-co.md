@@ -76,10 +76,11 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 
 ## Nguồn {#nguon}
 
-1. Augustine, *Confessions* (397–400); *City of God* (413–426) — bản dịch tiếng Anh công cộng.
-2. Anselm, *Proslogion* (1077–1078) — bản dịch tiếng Anh công cộng của Sidney Norton Deane (1903).
-3. Avicenna (Ibn Sina), *The Book of Healing* (*Kitab al-Shifa*, hoàn thành ở Isfahan, sau khoảng năm 1024).
-4. Averroes (Ibn Rushd), *The Incoherence of the Incoherence* (*Tahafut al-Tahafut*, khoảng 1180) — đáp lại al-Ghazali.
-5. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
-6. Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.
-7. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas; "Medieval Philosophy" (John Marenbon) và "Influence of Arabic and Islamic Philosophy on the Latin West" (Dag Nikolaus Hasse) — về các phong trào dịch thuật.
+1. Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
+2. Augustine (413–426), *City of God*, bản dịch tiếng Anh phạm vi công cộng.
+3. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+4. Avicenna (Ibn Sina), *The Book of Healing* (*Kitab al-Shifa*, hoàn thành ở Isfahan, sau khoảng năm 1024).
+5. Averroes (Ibn Rushd), *The Incoherence of the Incoherence* (*Tahafut al-Tahafut*, khoảng 1180) — đáp lại al-Ghazali.
+6. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
+7. Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.
+8. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas; "Medieval Philosophy" (John Marenbon) và "Influence of Arabic and Islamic Philosophy on the Latin West" (Dag Nikolaus Hasse) — về các phong trào dịch thuật.

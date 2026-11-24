@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/luan-chung-ton-giao.md#nguon",
-  "hash": "sha256:2caf317378322068d3e15f842b378c1317046774b74e071056ebce911b01a6c2",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.8-k08",
+  "hash": "sha256:9b94bc264c095163ad1aae7b301398a07cf6a4103daa6024b6fafa89e18ca566",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.8-k08 + claude-doi-loi-7.1.1",
   "claims": [
     {
       "text": "Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).",
@@ -73,6 +73,24 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/doi.10-3998-phimp-2109"
+    },
+    {
+      "text": "Câu trước danh sách: Anselm, *Proslogion*, chương 2; dòng Nguồn: Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh"
+    },
+    {
+      "text": "Chương 2 của Proslogion (bản Deane) là chương luận chứng bản thể: 'Truly there is a God'",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/download/proslogiummonol00deangoog/proslogiummonol00deangoog_djvu.txt",
+          "quote": "Truly there is a God, although the fool hath said in his heart, There is no God.",
+          "where": "CHAPTER II, bản Deane 1903"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -83,5 +101,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Hai URL SEP bản lưu fall2026 mở được (curl, 20/11/2026). Mọi dòng khác trùng bản ghi sources/* đã đóng băng."
+  "notes": "Hai URL SEP bản lưu fall2026 mở được (curl, 20/11/2026). Mọi dòng khác trùng bản ghi sources/* đã đóng băng. [doi-loi] 2026-11-24 (7.1.1 lô 5): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
 }

@@ -1,0 +1,33 @@
+{
+  "unit": "sources/sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh",
+  "hash": "sha256:4b2bbdb105b1e32eb4741793c26a9ac894bd8c35fd97f9c33c747dadf9bdcc28",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r12 + claude-doi-loi-7.1.1",
+  "claims": [
+    {
+      "text": "Bản dịch tiếng Anh của Sidney Norton Deane, 1903",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/proslogiummonol00deangoog",
+          "quote": "Sidney Norton Deane",
+          "where": "translator; publisher The Open Court Publishing Co; date 1903; NOT_IN_COPYRIGHT"
+        }
+      ]
+    },
+    {
+      "text": "Proslogion viết 1077–1078",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/anselm/",
+          "quote": "the Proslogion (1077–78)"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.1 lô 5): Cách ghi chung cho Anselm, *Proslogion* (quyết định 36), thay hai bản ghi (lich-su/trung-co; cau-hoi/luan-chung-ton-giao 'chương 2'). 'Chương 2' chuyển sang câu trước danh sách Nguồn của luan-chung-ton-giao; claim chương 2 giữ ở bằng chứng cũ sources__sach.anselm-xu-canterbury-10771078-proslogion-chuong-2-ban-dich-t.json và chép vào đơn vị #nguon của trang. [doi-loi] 2026-11-24 (7.1.1 lô 5): gộp bản ghi sources/sach.anselm-proslogion-10771078-ban-dich-tieng-anh-cong-cong-cua (cùng sách, khác cách ghi; quyết định 36) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.anselm-proslogion-10771078-ban-dich-tieng-anh-cong-cong-cua.json; gộp bản ghi sources/sach.anselm-xu-canterbury-10771078-proslogion-chuong-2-ban-dich-t (cùng sách, khác cách ghi; quyết định 36) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.anselm-xu-canterbury-10771078-proslogion-chuong-2-ban-dich-t.json"
+}

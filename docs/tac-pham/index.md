@@ -153,9 +153,9 @@ k. 150–250 · [Trang triết gia](../triet-gia/nagarjuna.md)
 - *Contra Academicos* (386) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md)
 - *De libero arbitrio* (388) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md)
 - *De mendacio* (395) — nhắc tới trong: [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md#nguon)
-- *Confessiones* (397) (còn ghi: *Confessions*) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md), [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md#nguon)
+- *Confessiones* (397) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md)
 - *De trinitate* (399) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md)
-- *De civitate Dei* (413) (còn ghi: *City of God*) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md), [Trung cổ: đức tin gặp lý trí](../lich-su/trung-co.md#nguon)
+- *De civitate Dei* (413) — nhắc tới trong: [hồ sơ Augustine](../triet-gia/augustine.md)
 - *Contra mendacium* (420) — nhắc tới trong: [Có bao giờ được nói dối?](../cau-hoi/noi-doi.md#nguon)
 
 ## Avicenna {#avicenna}

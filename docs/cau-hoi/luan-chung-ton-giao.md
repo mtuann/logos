@@ -185,10 +185,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 ## Nguồn {#nguon}
 
+Đoạn được dẫn: Anselm, *Proslogion*, chương 2.
+
 1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
 2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất).
 3. Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*.
-4. Anselm xứ Canterbury (1077–1078), *Proslogion*, chương 2. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+4. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
 5. Gaunilo thành Marmoutier, *Liber pro insipiente* (*Bênh vực kẻ ngu dại*) — đáp lại Anselm, viết cùng thời.
 6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận.
 7. Plantinga, Alvin (1974), *The Nature of Necessity*, Oxford: Clarendon Press — phiên bản modal của luận chứng bản thể luận.

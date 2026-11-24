@@ -49,6 +49,8 @@ TEN_KHAC = {
     "Biện hộ của Socrates": "chua-ro.apologia",                      # hồ sơ Socrates
     "Chỉ dẫn cho người hoang mang": "maimonides.dalalat-al-hairin",
     "Cư trần lạc đạo": "tran-nhan-tong.cu-tran-lac-dao-phu",          # bài kệ kết của bài phú
+    "City of God": "augustine.de-civitate-dei",                       # bí danh works/chua-ro.city-of-god bỏ ở 7.1.1 lô 5
+    "Confessions": "augustine.confessiones",                         # bí danh works/chua-ro.confessions bỏ ở 7.1.1 lô 5
     "Đạo đức học": "spinoza.ethica-ordine-geometrico-demonstrata",
     "Đạo đức kinh": "lao-tu.lao-tu",
     "Đạo đức Nicomachus": "aristotle.ethica-nicomachea",
