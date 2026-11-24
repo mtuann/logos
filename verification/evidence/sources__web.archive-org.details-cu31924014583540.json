@@ -1,0 +1,44 @@
+{
+  "unit": "sources/web.archive-org.details-cu31924014583540",
+  "hash": "sha256:5331c0637d724ef055f7bce4e38c13459656a6ee5730f380e73c7b20ec1f3a6a",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r12 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Bản dịch tiếng Anh của Sidney Norton Deane, 1903",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/metadata/proslogiummonol00deangoog",
+          "quote": "Sidney Norton Deane",
+          "where": "translator; publisher The Open Court Publishing Co; date 1903; NOT_IN_COPYRIGHT"
+        }
+      ]
+    },
+    {
+      "text": "Proslogion viết 1077–1078",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/anselm/",
+          "quote": "the Proslogion (1077–78)"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://archive.org/details/cu31924014583540 — khớp (bản dịch Deane, Open Court 1903, bản scan Cornell)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://archive.org/details/cu31924014583540",
+          "quote": "Proslogium; Monologium; an appendix, In behalf of the fool, by Gaunilon; and Cur Deus homo; ... Chicago, The Opencourt publishing Co ... 1903 ... 'the Proslogium ... the Monologium and the Appendix thereto were translated by Mr. Sidney Norton Deane, of New Haven, Conn.'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 8): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Có sẵn bản ghi cùng tác phẩm, cùng dịch giả nhưng khác URL: web.ccel-org.ccel-anselm-basic-works-i-html, text: 'Anselm, *Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo*, bản dịch Sidney Norton Deane (1903), Christian Classics Ethereal Library. <https://www.ccel.org/ccel/anselm/basic_works.i.html>'. Dùng lại bản ghi này thì không phải tạo bản ghi mới. Bản scan khác cùng ấn bản: archive.org/details/stanselmeproslog00anseuoft (Toronto, NOT_IN_COPYRIGHT). [doi-loi] 2026-11-24 (7.1.2 lô 8): gộp bản ghi sources/sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh.json"
+}

@@ -187,12 +187,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 Đoạn được dẫn: Anselm, *Proslogion*, chương 2.
 
-1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
-2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất).
-3. Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*.
-4. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>
+2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất), Project Gutenberg. <https://www.gutenberg.org/ebooks/4583>
+3. Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*, London: Wilks and Taylor, Internet Archive. <https://archive.org/details/naturaltheologyo0000pale>
+4. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), Internet Archive. <https://archive.org/details/cu31924014583540>
 5. Gaunilo thành Marmoutier, *Liber pro insipiente* (*Bênh vực kẻ ngu dại*) — đáp lại Anselm, viết cùng thời.
-6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận.
+6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận; ấn bản A (Riga: Hartknoch, 1781), Münchener DigitalisierungsZentrum. <https://www.digitale-sammlungen.de/de/view/bsb11916159>
 7. Plantinga, Alvin (1974), *The Nature of Necessity*, Oxford: Clarendon Press — phiên bản modal của luận chứng bản thể luận.
 8. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, "Ontological Arguments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
 9. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/>

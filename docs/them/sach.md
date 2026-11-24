@@ -6680,7 +6680,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. Calder, Todd, "The Concept of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>
 2. Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.
-3. Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
+3. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 4. David Bourget & David J. Chalmers, "Philosophers on Philosophy: The 2020 PhilPapers Survey", *Philosophers' Imprint* 23, bài số 11, 2023. <https://doi.org/10.3998/phimp.2109> — kết quả đầy đủ: <https://survey2020.philpeople.org/>
 
 <div class="oz-page-break"></div>
@@ -11054,12 +11054,12 @@ Gợi ý độ dài: 150–300 chữ.
 
 Đoạn được dẫn: Anselm, *Proslogion*, chương 2.
 
-1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
-2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất).
-3. Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*.
-4. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+1. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>
+2. Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất), Project Gutenberg. <https://www.gutenberg.org/ebooks/4583>
+3. Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*, London: Wilks and Taylor, Internet Archive. <https://archive.org/details/naturaltheologyo0000pale>
+4. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), Internet Archive. <https://archive.org/details/cu31924014583540>
 5. Gaunilo thành Marmoutier, *Liber pro insipiente* (*Bênh vực kẻ ngu dại*) — đáp lại Anselm, viết cùng thời.
-6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận.
+6. Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận; ấn bản A (Riga: Hartknoch, 1781), Münchener DigitalisierungsZentrum. <https://www.digitale-sammlungen.de/de/view/bsb11916159>
 7. Plantinga, Alvin (1974), *The Nature of Necessity*, Oxford: Clarendon Press — phiên bản modal của luận chứng bản thể luận.
 8. Oppy, Graham, Joshua Rasmussen & Joseph Schmid, "Ontological Arguments", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/ontological-arguments/>
 9. Reichenbach, Bruce, "Cosmological Argument", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/cosmological-argument/>
@@ -11466,9 +11466,9 @@ Phản bác thứ nhất trong *Summa Theologiae*, Phần I, Câu 2, Điều 3 c
 3. Rowe, William L. (1979), "The Problem of Evil and Some Varieties of Atheism", *American Philosophical Quarterly* 16(4): 335–341.
 4. Hick, John (1966), *Evil and the God of Love*, London: Macmillan.
 5. Wykstra, Stephen J. (1984), "The Humean Obstacle to Evidential Arguments from Suffering", *International Journal for Philosophy of Religion* 16: 73–93.
-6. Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov.
+6. Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov; bản dịch tiếng Anh của Constance Garnett, Project Gutenberg. <https://www.gutenberg.org/ebooks/28054>
 7. Tooley, Michael, "The Problem of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/evil/>
-8. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
+8. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>
 
 <div class="oz-page-break"></div>
 
@@ -14852,12 +14852,12 @@ Một di sản khác ít được nhắc: **luật tự nhiên** (*natural law*)
 
 ## Nguồn
 
-1. Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
+1. Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>
 2. Augustine (413–426), *City of God*, bản dịch tiếng Anh phạm vi công cộng.
-3. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
+3. Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), Internet Archive. <https://archive.org/details/cu31924014583540>
 4. Avicenna (Ibn Sina), *The Book of Healing* (*Kitab al-Shifa*, hoàn thành ở Isfahan, sau khoảng năm 1024).
 5. Averroes (Ibn Rushd), *The Incoherence of the Incoherence* (*Tahafut al-Tahafut*, khoảng 1180) — đáp lại al-Ghazali.
-6. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
+6. Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904); lần in năm 1910, Project Gutenberg. <https://www.gutenberg.org/ebooks/73584>
 7. Thomas Aquinas, *Summa Theologica* (khoảng 1265–1273, bỏ dở) — bản dịch tiếng Anh công cộng.
 8. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Augustine, Anselm, Ibn Sina, Ibn Rushd, al-Ghazali, Maimonides, Aquinas; "Medieval Philosophy" (John Marenbon) và "Influence of Arabic and Islamic Philosophy on the Latin West" (Dag Nikolaus Hasse) — về các phong trào dịch thuật.
 

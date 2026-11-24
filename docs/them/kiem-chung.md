@@ -41,7 +41,7 @@ Năm, tên, tác phẩm, trích dẫn và số liệu dùng chung cho nhiều b�
 | Tác phẩm | 334 | 334 |
 | Trích dẫn | 155 | 155 |
 | Sự kiện (ứng viên) | 140 | 140 |
-| Nguồn | 687 | 687 |
+| Nguồn | 686 | 686 |
 | Hồ sơ triết gia | 59 | 59 |
 | Câu hỏi khảo sát PhilPapers 2020 | 100 | 100 |
 | Thuật ngữ (Từ điển) | 249 | 249 |

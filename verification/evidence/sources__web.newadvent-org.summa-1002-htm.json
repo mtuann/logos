@@ -1,0 +1,61 @@
+{
+  "unit": "sources/web.newadvent-org.summa-1002-htm",
+  "hash": "sha256:cc1a72fb5e0407bfc0d8aae2535f1bae930883629b0cda1255c974f67738a02b",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-s19 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Summa Theologiae, Phần I, Câu 2, Điều 3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "Article 3. Whether God exists?",
+          "where": "Prima Pars Q.2"
+        }
+      ]
+    },
+    {
+      "text": "Năm luận chứng nằm ở ST I q.2 a.3",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "1a 2.3c",
+          "where": "phần Five Ways"
+        }
+      ]
+    },
+    {
+      "text": "Thời gian soạn khoảng 1265–1273",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/aquinas/",
+          "quote": "1267–73, unfinished after 3a 90",
+          "where": "Bibliography; SEP ghi 1267–73, mục ghi 'khoảng 1265' nên vẫn nằm trong cách nói 'khoảng'"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.newadvent.org/summa/1002.htm — khớp (dòng Nguồn không ghi bản dịch; đây là bản dịch Dominican, có Phần I câu 2 điều 3)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "Article 3. Whether God exists?"
+        },
+        {
+          "url": "https://www.newadvent.org/summa/1002.htm",
+          "quote": "Second and Revised Edition, 1920"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 8): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.aquinas-thomas-khoang-12651273-summa-theologiae-phan-i-cau-2 (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Bản ghi sẵn có cùng URL nhưng chữ ghi '(lời mở đầu)', không khớp với 'Phần I, Câu 2, Điều 3' của dòng Nguồn. Cách khác: bản ghi web.newadvent-org.summa (text: 'Thomas Aquinas, *Summa Theologiae*, bản dịch Fathers of the English Dominican Province (1920), New Advent: I, câu 1, 2, 46; I-II, câu 94; II-II, câu 40. <https://www.newadvent.org/summa/>') đã ghi rõ câu 2, nên hợp với dòng Nguồn hơn. Lúc kiểm, gutenberg.org đang bảo trì; tôi đọc file qua bản sao gutenberg.pglaf.org. [doi-loi] 2026-11-24 (7.1.2 lô 8): gộp bản ghi sources/sach.aquinas-thomas-khoang-12651273-summa-theologiae-phan-i-cau-2 (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.aquinas-thomas-khoang-12651273-summa-theologiae-phan-i-cau-2.json"
+}

@@ -1,0 +1,38 @@
+{
+  "unit": "sources/gutenberg.73584",
+  "hash": "sha256:67afb3e0bcf40960355c2175da7913cf9122524b4b9b73d9b022b19ea73223c2",
+  "checked_on": "2026-11-24",
+  "checker": "agent-kiem-5.2-r18 + claude-doi-loi-7.1.2",
+  "claims": [
+    {
+      "text": "Maimonides, The Guide for the Perplexed (khoảng 1190), bản dịch tiếng Anh M. Friedländer (1904)",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/73584",
+          "quote": "Friedländer, M. (Michael), 1833-1910",
+          "where": "Gutenberg 73584: 2nd edition, revised throughout, London: George Routledge & Sons, 1910; tác phẩm viết 1185-1190"
+        },
+        {
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28guide+for+the+perplexed%29+AND+creator%3A%28maimonides%29+AND+year%3A%5B1880+TO+1925%5D&rows=20&output=json",
+          "quote": "guideforperplexe00maimiala",
+          "where": "Internet Archive: London: George Routledge & Sons, 1904; 'reduced to one volume'"
+        }
+      ]
+    },
+    {
+      "text": "Link: https://www.gutenberg.org/ebooks/73584 — khớp dịch giả và bản sửa 1904; tệp Gutenberg là lần in 1910 của ấn bản 2",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/73584",
+          "quote": "THE GUIDE FOR THE PERPLEXED BY MOSES MAIMONIDES TRANSLATED FROM THE ORIGINAL ARABIC TEXT BY M. FRIEDLÄNDER, Ph.D SECOND EDITION, REVISED THROUGHOUT LONDON GEORGE ROUTLEDGE & SONS LTD ... 1910; lời tựa ký 'Jews’ College, July 1904.'"
+        }
+      ]
+    }
+  ],
+  "result": "dat",
+  "notes": "[doi-loi] 2026-11-24 (7.1.2 lô 8): Bản ghi mới của việc 7.1.2: dòng Nguồn sources/sach.maimonides-the-guide-for-the-perplexed-khoang-1190-ban-dich (sách in, đã đóng băng) thêm link tới bản số hóa. Claim về chữ của dòng chép từ bằng chứng của bản ghi cũ; link do agent-tim-link-7.1.2 mở (24/11/2026; gutenberg.org bảo trì, nội dung kiểm qua bản sao gutenberg.pglaf.org cùng số ebook). Đã có bản ghi web.sacred-texts-com.jud-gfp-index-htm ('Maimonides, *The Guide for the Perplexed*, bản dịch M. Friedländer (1904), Internet Sacred Text Archive.') — URL khác. Wikisource 'The Guide for the Perplexed (1904)' đúng năm 1904 (Routledge) nhưng trang chính chỉ ghép phần đầu sách (Transclusion=no). Trang gutenberg.org đang 503 (bảo trì) lúc kiểm; số ebook xác nhận qua GUTINDEX.ALL và tệp văn bản trên bản sao gutenberg.pglaf.org. [doi-loi] 2026-11-24 (7.1.2 lô 8): gộp bản ghi sources/sach.maimonides-the-guide-for-the-perplexed-khoang-1190-ban-dich (cùng tác phẩm; dòng Nguồn thêm link tới bản số hóa, việc 7.1.2) vào bản ghi này; bằng chứng cũ giữ ở sources__sach.maimonides-the-guide-for-the-perplexed-khoang-1190-ban-dich.json"
+}

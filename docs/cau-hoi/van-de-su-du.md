@@ -182,6 +182,6 @@ Phản bác thứ nhất trong *Summa Theologiae*, Phần I, Câu 2, Điều 3 c
 3. Rowe, William L. (1979), "The Problem of Evil and Some Varieties of Atheism", *American Philosophical Quarterly* 16(4): 335–341.
 4. Hick, John (1966), *Evil and the God of Love*, London: Macmillan.
 5. Wykstra, Stephen J. (1984), "The Humean Obstacle to Evidential Arguments from Suffering", *International Journal for Philosophy of Religion* 16: 73–93.
-6. Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov.
+6. Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov; bản dịch tiếng Anh của Constance Garnett, Project Gutenberg. <https://www.gutenberg.org/ebooks/28054>
 7. Tooley, Michael, "The Problem of Evil", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/evil/>
-8. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
+8. Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>

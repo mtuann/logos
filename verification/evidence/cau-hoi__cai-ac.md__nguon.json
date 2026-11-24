@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/cai-ac.md#nguon",
-  "hash": "sha256:1ed470982d35aa2b308997c4ea0ee7e69ebb23be172b6630bcab9cf7623e5af3",
+  "hash": "sha256:0e2fd572619fce82809435f44e1f566d7b5561a22d3b8c567d56434649879fae",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.7-k08 + claude-doi-loi-7.1.1",
+  "checker": "agent-kiem-5.7-k08 + claude-doi-loi-7.1.1 + claude-doi-loi-7.1.2",
   "claims": [
     {
       "text": "Calder, Todd, \"The Concept of Evil\", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/concept-evil/>",
@@ -57,6 +57,12 @@
           "where": "Book VII, chương 7"
         }
       ]
+    },
+    {
+      "text": "Dòng Nguồn: Augustine, *The Confessions of St. Augustine*, bản dịch E. B. Pusey, Project Gutenberg. <https://www.gutenberg.org/ebooks/3296>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.3296"
     }
   ],
   "checklist": {
@@ -67,5 +73,5 @@
     "thuat-ngu": null
   },
   "result": "dat",
-  "notes": "Bốn dòng trùng bản ghi sources/ đã đóng băng. Thân bài còn dựa vào SEP Arendt (§6.1) cho các chi tiết về Eichmann; mục Nguồn không liệt kê mục này, nhưng việc thêm nguồn là quyết định của người viết, không phải lỗi. [doi-loi] 2026-11-24 (7.1.1 lô 5): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng."
+  "notes": "Bốn dòng trùng bản ghi sources/ đã đóng băng. Thân bài còn dựa vào SEP Arendt (§6.1) cho các chi tiết về Eichmann; mục Nguồn không liệt kê mục này, nhưng việc thêm nguồn là quyết định của người viết, không phải lỗi. [doi-loi] 2026-11-24 (7.1.1 lô 5): Dòng Nguồn sách in ghi giống mọi trang khác (quyết định 36, việc 7.1.1); vị trí riêng của trang chuyển sang câu trước danh sách Nguồn; bản ghi nguồn trùng gộp vào bản ghi đã đóng băng. [doi-loi] 2026-11-24 (7.1.2 lô 8): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
 }

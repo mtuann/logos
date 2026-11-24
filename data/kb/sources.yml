@@ -744,6 +744,12 @@ gutenberg.27083:
   url: https://www.gutenberg.org/ebooks/27083
   used_in:
   - people/mill
+gutenberg.28054:
+  type: gutenberg
+  text: Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov; bản dịch tiếng Anh của Constance Garnett, Project Gutenberg. <https://www.gutenberg.org/ebooks/28054>
+  url: https://www.gutenberg.org/ebooks/28054
+  used_in:
+  - cau-hoi/van-de-su-du.md#nguon
 gutenberg.2811:
   type: gutenberg
   text: Pliny Trẻ, *Thư* III.16, bản dịch W. Melmoth. <https://www.gutenberg.org/ebooks/2811>
@@ -764,7 +770,9 @@ gutenberg.3296:
   url: https://www.gutenberg.org/ebooks/3296
   used_in:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
+  - cau-hoi/cai-ac.md#nguon
   - cau-hoi/thoi-gian.md#nguon
+  - lich-su/trung-co.md#nguon
   - people/augustine
 gutenberg.3420:
   type: gutenberg
@@ -811,6 +819,12 @@ gutenberg.45304:
   url: https://www.gutenberg.org/ebooks/45304
   used_in:
   - people/augustine
+gutenberg.4583:
+  type: gutenberg
+  text: Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất), Project Gutenberg. <https://www.gutenberg.org/ebooks/4583>
+  url: https://www.gutenberg.org/ebooks/4583
+  used_in:
+  - cau-hoi/luan-chung-ton-giao.md#nguon
 gutenberg.46333:
   type: gutenberg
   text: 'Rousseau, Jean-Jacques (1762), *Du contrat social* (*Khế ước xã hội*). Bản tiếng Anh của G. D. H. Cole (1913, phạm vi công cộng): <https://www.gutenberg.org/ebooks/46333>'
@@ -939,6 +953,12 @@ gutenberg.6762:
   - cau-hoi/ban-tinh-con-nguoi.md#nguon
   - people/aristotle
   - people/thales
+gutenberg.73584:
+  type: gutenberg
+  text: Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904); lần in năm 1910, Project Gutenberg. <https://www.gutenberg.org/ebooks/73584>
+  url: https://www.gutenberg.org/ebooks/73584
+  used_in:
+  - lich-su/trung-co.md#nguon
 gutenberg.7370:
   type: gutenberg
   text: 'Locke, John (1689), *Second Treatise of Government* (phần hai của *Two Treatises of Government*). Bản tiếng Anh phạm vi công cộng (Project Gutenberg #7370). <https://www.gutenberg.org/ebooks/7370>'
@@ -1212,18 +1232,6 @@ sach.anderson-elizabeth-2017-private-government-how-employers-rul:
   text: 'Anderson, Elizabeth (2017), *Private Government: How Employers Rule Our Lives (and Why We Don''t Talk about It)*, Princeton: Princeton University Press.'
   used_in:
   - cau-hoi/khe-uoc-xa-hoi.md#nguon
-sach.anselm-xu-canterbury-10771078-proslogion-ban-dich-tieng-anh:
-  type: sach
-  text: Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng).
-  used_in:
-  - cau-hoi/luan-chung-ton-giao.md#nguon
-  - lich-su/trung-co.md#nguon
-sach.aquinas-thomas-khoang-12651273-summa-theologiae-phan-i-cau-2:
-  type: sach
-  text: Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng).
-  used_in:
-  - cau-hoi/luan-chung-ton-giao.md#nguon
-  - cau-hoi/van-de-su-du.md#nguon
 sach.arendt-hannah-1963-eichmann-in-jerusalem-a-report-on-the-ban:
   type: sach
   text: 'Arendt, Hannah (1963), *Eichmann in Jerusalem: A Report on the Banality of Evil*, New York: Viking Press.'
@@ -1261,12 +1269,6 @@ sach.augustine-413426-city-of-god-ban-dich-tieng-anh-pham-vi-cong:
   type: sach
   text: Augustine (413–426), *City of God*, bản dịch tiếng Anh phạm vi công cộng.
   used_in:
-  - lich-su/trung-co.md#nguon
-sach.augustine-khoang-397400-confessions-ban-dich-tieng-anh-pham:
-  type: sach
-  text: Augustine (khoảng 397–400), *Confessions*, bản dịch tiếng Anh phạm vi công cộng.
-  used_in:
-  - cau-hoi/cai-ac.md#nguon
   - lich-su/trung-co.md#nguon
 sach.averroes-ibn-rushd-the-incoherence-of-the-incoherence-tahafu:
   type: sach
@@ -1467,11 +1469,6 @@ sach.diogenes-laertius-cuoc-doi-cac-triet-gia-loi-lac-the-ky-3-ng:
   text: Diogenes Laertius, *Cuộc đời các triết gia lỗi lạc* (thế kỷ 3) — nguồn chính về tiểu sử các triết gia Hy Lạp cổ đại.
   used_in:
   - lich-su/hy-lap-co-dai.md#nguon
-sach.dostoevsky-fyodor-1880-anh-em-nha-karamazov-brat-ya-karamazo:
-  type: sach
-  text: Dostoevsky, Fyodor (1880), *Anh em nhà Karamazov* (*Brat'ya Karamazovy*), Quyển V, chương 4 ("Nổi loạn") — phiên bản văn học của thách thức bằng chứng, qua nhân vật Ivan Karamazov.
-  used_in:
-  - cau-hoi/van-de-su-du.md#nguon
 sach.douglas-walton-informal-logic-a-pragmatic-approach-an-ban-2:
   type: sach
   text: 'Douglas Walton, *Informal Logic: A Pragmatic Approach*, ấn bản 2, Cambridge University Press, 2008.'
@@ -1639,11 +1636,6 @@ sach.hume-david-1748-an-enquiry-concerning-human-understanding-la:
   used_in:
   - cau-hoi/nhan-qua-ban-chat.md#nguon
   - lich-su/can-dai.md#nguon
-sach.hume-david-1779-dialogues-concerning-natural-religion-xuat-b:
-  type: sach
-  text: Hume, David (1779), *Dialogues Concerning Natural Religion* (xuất bản sau khi tác giả mất).
-  used_in:
-  - cau-hoi/luan-chung-ton-giao.md#nguon
 sach.husserl-edmund-19001901-logische-untersuchungen:
   type: sach
   text: Husserl, Edmund (1900–1901), *Logische Untersuchungen*.
@@ -1684,11 +1676,6 @@ sach.john-stuart-mill-on-liberty-1859-utilitarianism-1863-van-ban:
   text: John Stuart Mill, *On Liberty* (1859); *Utilitarianism* (1863) — văn bản công cộng.
   used_in:
   - lich-su/the-ky-19.md#nguon
-sach.kant-immanuel-1781-kritik-der-reinen-vernunft-phe-phan-ly-ti:
-  type: sach
-  text: Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận.
-  used_in:
-  - cau-hoi/luan-chung-ton-giao.md#nguon
 sach.kant-immanuel-1785-groundwork-of-the-metaphysics-of-morals-g:
   type: sach
   text: Kant, Immanuel (1785), *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*).
@@ -1780,11 +1767,6 @@ sach.mackie-john-l-1955-evil-and-omnipotence-mind-64254-200212:
   text: 'Mackie, John L. (1955), "Evil and Omnipotence", *Mind* 64(254): 200–212.'
   used_in:
   - cau-hoi/van-de-su-du.md#nguon
-sach.maimonides-the-guide-for-the-perplexed-khoang-1190-ban-dich:
-  type: sach
-  text: Maimonides, *The Guide for the Perplexed* (khoảng 1190) — bản dịch tiếng Anh công cộng của M. Friedländer (1904).
-  used_in:
-  - lich-su/trung-co.md#nguon
 sach.malotki-ekkehart-1983-hopi-time-a-linguistic-analysis-of-the:
   type: sach
   text: 'Malotki, Ekkehart (1983), *Hopi Time: A Linguistic Analysis of the Temporal Concepts in the Hopi Language*, Berlin: Mouton.'
@@ -1888,11 +1870,6 @@ sach.olson-eric-t-1997-the-human-animal-personal-identity-without:
   text: 'Olson, Eric T. (1997), *The Human Animal: Personal Identity Without Psychology*, Oxford: Oxford University Press.'
   used_in:
   - cau-hoi/ban-nga-thoi-gian.md#nguon
-sach.paley-william-1802-natural-theology-or-evidences-of-the-exis:
-  type: sach
-  text: Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*.
-  used_in:
-  - cau-hoi/luan-chung-ton-giao.md#nguon
 sach.parfit-derek-1984-reasons-and-persons-oxford-oxford-universi:
   type: sach
   text: 'Parfit, Derek (1984), *Reasons and Persons*, Oxford: Oxford University Press.'
@@ -3846,6 +3823,13 @@ web.archive-org.details-cu31924014578979:
   url: https://archive.org/details/cu31924014578979
   used_in:
   - people/hegel
+web.archive-org.details-cu31924014583540:
+  type: khac
+  text: Anselm xứ Canterbury (1077–1078), *Proslogion*. Bản dịch tiếng Anh của Sidney Norton Deane (1903, phạm vi công cộng), Internet Archive. <https://archive.org/details/cu31924014583540>
+  url: https://archive.org/details/cu31924014583540
+  used_in:
+  - cau-hoi/luan-chung-ton-giao.md#nguon
+  - lich-su/trung-co.md#nguon
 web.archive-org.details-cu31924029010565:
   type: khac
   text: 'Hobbes, Thomas, bài thơ tự thuật *Vita* và các chương của *De Corpore*, trong Mary Whiton Calkins (tuyển), *The Metaphysical System of Hobbes*, Chicago: Open Court, 1905 — Internet Archive. <https://archive.org/details/cu31924029010565>'
@@ -3891,6 +3875,12 @@ web.archive-org.details-monadologyotherp00leib-2:
   url: https://archive.org/details/monadologyotherp00leib_2
   used_in:
   - people/leibniz
+web.archive-org.details-naturaltheologyo0000pale:
+  type: khac
+  text: 'Paley, William (1802), *Natural Theology; or, Evidences of the Existence and Attributes of the Deity*, London: Wilks and Taylor, Internet Archive. <https://archive.org/details/naturaltheologyo0000pale>'
+  url: https://archive.org/details/naturaltheologyo0000pale
+  used_in:
+  - cau-hoi/luan-chung-ton-giao.md#nguon
 web.archive-org.details-sim-monist-1918-10-28-4:
   type: khac
   text: Russell, Bertrand, “The Philosophy of Logical Atomism”, *The Monist* 28(4), 1918. <https://archive.org/details/sim_monist_1918-10_28_4>
@@ -4043,6 +4033,12 @@ web.deutschestextarchiv-de.book-show-frege-sinn-1892:
   url: https://www.deutschestextarchiv.de/book/show/frege_sinn_1892
   used_in:
   - people/frege
+web.digitale-sammlungen-de.de-view-bsb11916159:
+  type: khac
+  text: 'Kant, Immanuel (1781), *Kritik der reinen Vernunft* (*Phê phán lý tính thuần túy*) — phản bác luận chứng bản thể luận và vũ trụ luận; ấn bản A (Riga: Hartknoch, 1781), Münchener DigitalisierungsZentrum. <https://www.digitale-sammlungen.de/de/view/bsb11916159>'
+  url: https://www.digitale-sammlungen.de/de/view/bsb11916159
+  used_in:
+  - cau-hoi/luan-chung-ton-giao.md#nguon
 web.eur-lex-europa-eu.eli-reg-2024-1689-oj:
   type: khac
   text: Quy định (EU) 2024/1689 (Đạo luật AI), Điều 50. <https://eur-lex.europa.eu/eli/reg/2024/1689/oj>
@@ -4153,6 +4149,13 @@ web.newadvent-org.summa:
   url: https://www.newadvent.org/summa/
   used_in:
   - people/aquinas
+web.newadvent-org.summa-1002-htm:
+  type: khac
+  text: Aquinas, Thomas (khoảng 1265–1273), *Summa Theologiae*, Phần I, Câu 2, Điều 3 (năm luận chứng); bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1002.htm>
+  url: https://www.newadvent.org/summa/1002.htm
+  used_in:
+  - cau-hoi/luan-chung-ton-giao.md#nguon
+  - cau-hoi/van-de-su-du.md#nguon
 web.newadvent-org.summa-1013-htm:
   type: khac
   text: Thomas Aquinas, *Summa Theologiae* I, câu 13, mục 2, bản dịch Fathers of the English Dominican Province (1920), New Advent. <https://www.newadvent.org/summa/1013.htm>
