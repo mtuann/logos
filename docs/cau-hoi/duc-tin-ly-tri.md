@@ -223,7 +223,7 @@ Gợi ý độ dài: 200–350 chữ.
 
 1. Kierkegaard, Søren (1843), *Frygt og Bæven* (*Fear and Trembling*), ký tên Johannes de Silentio; nguyên văn trong *Samlede Værker*, tập 3, Internet Archive. <https://archive.org/details/samledevaerkerud03kieruoft>
 2. Clifford, William K. (1877), "The Ethics of Belief" (phạm vi công cộng); in lại trong *The Scientific Basis of Morals, and Other Essays* (Humboldt Library), Project Gutenberg. <https://www.gutenberg.org/ebooks/50189>
-3. James, William (1896), "The Will to Believe"; in lại trong tuyển tập *The Will to Believe*, 1897, Project Gutenberg. <https://www.gutenberg.org/ebooks/26659>
+3. James, William (1896), "The Will to Believe"; in lại trong tuyển tập *The Will to Believe*, 1897; Project Gutenberg theo lần in năm 1912. <https://www.gutenberg.org/ebooks/26659>
 4. Pascal, Blaise, *Pensées* (1670), bản dịch tiếng Anh của W. F. Trotter (bản in của E. P. Dutton, 1958, có lời giới thiệu của T. S. Eliot), Project Gutenberg. <https://www.gutenberg.org/ebooks/18269>
 5. Amesbury, Richard, "Fideism", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/fideism/>
 6. Hájek, Alan, "Pascal's Wager", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/archives/fall2026/entries/pascal-wager/>

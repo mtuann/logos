@@ -94,7 +94,7 @@ Về nữ quyền, Mill không chỉ nói suông: năm 1867, với tư cách ngh
 5. Nietzsche, Friedrich, *The Joyful Wisdom*, Thomas Common dịch (1910), Project Gutenberg. <https://www.gutenberg.org/ebooks/52881>
 6. Nietzsche, Friedrich (1883–1885), *Thus Spake Zarathustra*, Thomas Common dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/1998>
 7. Nietzsche, Friedrich (1886), *Beyond Good and Evil*, Helen Zimmern dịch, Project Gutenberg. <https://www.gutenberg.org/ebooks/4363>
-8. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng). <https://www.gutenberg.org/ebooks/34901>
+8. Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>
 9. Mill, John Stuart (1863), *Utilitarianism* (đăng lần đầu trên *Fraser's Magazine* năm 1861, in thành sách năm 1863). Bản tiếng Anh phạm vi công cộng (Project Gutenberg, theo lần in thứ 7, 1879): <https://www.gutenberg.org/ebooks/11224>
 10. Bách khoa toàn thư Triết học Stanford (SEP): các mục về Hegel, Marx, Kierkegaard, Nietzsche, Mill, Harriet Taylor Mill.
 11. UK Parliament, “Presenting the 1866 petition” (Living Heritage). <https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/presenting-the-petition/>

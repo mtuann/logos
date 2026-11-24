@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dan-chu.md#nguon",
-  "hash": "sha256:7d14460805a2db4e43762a50ac936edc62520e42cce0096e7c8fb83a2b399b76",
+  "hash": "sha256:ea22e41e643da2fe2306e76111da8fcc2aee68a04151d9dd23288eb9f48dbb22",
   "checked_on": "2026-11-24",
-  "checker": "agent-kiem-5.8-k01 + claude-doi-loi-7.1.2",
+  "checker": "agent-kiem-5.8-k01 + claude-doi-loi-7.1.2 + claude-doi-loi-7.1.2 + agent-kiem-7.1.2",
   "claims": [
     {
       "text": "Đoạn được dẫn: Platon, Cộng hòa, quyển VI (488a–489d).",
@@ -80,6 +80,12 @@
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/gutenberg.30513"
+    },
+    {
+      "text": "Dòng Nguồn: Mill, John Stuart (1859), *On Liberty*, London: John W. Parker and Son (phạm vi công cộng); bản Gutenberg theo ấn bản Walter Scott Publishing (London), có lời giới thiệu của W. L. Courtney. <https://www.gutenberg.org/ebooks/34901>",
+      "kind": "du-kien",
+      "verdict": "dung",
+      "kb": "sources/gutenberg.34901"
     }
   ],
   "checklist": {
@@ -90,5 +96,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. URL SEP fall2026 (democracy, arrows-theorem) mở được trong phiên này; Gutenberg đọc qua mirror gutenberg.pglaf.org vì trang chính đang bảo trì. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn."
+  "notes": "Mọi dòng nguồn trùng bản ghi sources/* đã đóng băng. URL SEP fall2026 (democracy, arrows-theorem) mở được trong phiên này; Gutenberg đọc qua mirror gutenberg.pglaf.org vì trang chính đang bảo trì. [doi-loi] 2026-11-24 (7.1.2 lô 11): Dòng Nguồn có thêm link tới bản số hóa (việc 7.1.2); dòng chép đúng chữ của bản ghi có sẵn khi link đã có bản ghi; vị trí riêng của trang (nếu có) ra câu trước danh sách Nguồn. [doi-loi] 2026-11-24 (7.1.2, sau kiểm lượt 1): dòng Mill *On Liberty* ghi rõ bản Gutenberg theo ấn bản Walter Scott Publishing (kiểm lượt 1 7.1.2)."
 }
