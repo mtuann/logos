@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-hanh-dong.md#cau-hoi-that-su-la-gi",
-  "hash": "sha256:da3df3369d42d38b7eaf3541cb99b3fdc725f94b34b462e57286542e23c81533",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k09",
+  "hash": "sha256:e8f578848cd439b89299323c06b35656cdb07e6c74016426666ac26f3d028f28",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k09 + claude-doi-loi-7.1.4 + agent-kiem-7.1.4",
   "claims": [
     {
       "text": "Ba họ lý thuyết: hệ quả luận (đúng sai nằm ở hậu quả), nghĩa vụ luận (ở bản thân hành động, bổn phận), đạo đức học đức hạnh (hỏi người tốt sẽ làm gì)",
@@ -80,7 +80,8 @@
       "sources": [
         {
           "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-ung-dung/",
-          "quote": "Ăn thịt có sai không? Đạo đức học ứng dụng"
+          "quote": "Ăn thịt có sai không? Đạo đức học ứng dụng",
+          "where": "bản trong repo, có trên site sau khi deploy đợt sóng 7.1"
         }
       ]
     },
@@ -94,6 +95,18 @@
           "quote": "Biểu cảm luận: nói \"sai\" là bày tỏ thái độ, không phải mô tả sự kiện"
         }
       ]
+    },
+    {
+      "text": "Bài tiếp theo — [Ăn thịt có sai không?](dao-duc-ung-dung.md) — … động đến bữa cơm và lương tâm của bạn.",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/dao-duc-ung-dung/",
+          "quote": "Bài này xét một câu hỏi của đạo đức học ứng dụng, gắn với tên tuổi của Peter Singer: động vật không phải người có địa vị đạo đức không?",
+          "where": "bản trong repo, có trên site sau khi deploy đợt sóng 7.1"
+        }
+      ]
     }
   ],
   "checklist": {
@@ -103,5 +116,6 @@
     "trung-lap": true,
     "thuat-ngu": true
   },
-  "result": "dat"
+  "result": "dat",
+  "notes": "[doi-loi] 7.1.4: 'bữa cơm và chiếc ví' → 'bữa cơm và lương tâm' vì bài dao-duc-ung-dung không còn phần nghèo đói (7.1.4)."
 }

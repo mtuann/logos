@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#tu-kiem-tra",
-  "hash": "sha256:ef54a929846539abcd2a9f14c15cb72084f64b02bb6056bb2f8186a9019992e7",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10",
+  "hash": "sha256:2eec8174656464f0af63ea36d503901ba466c12519ef7be9b9479c0cbe8dab11",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k10 + claude-doi-loi-7.1.4 + agent-kiem-7.1.4",
   "claims": [
     {
       "text": "Lập luận cốt lõi của Singer trong *Animal Liberation* là gì?",
@@ -27,28 +27,6 @@
       ]
     },
     {
-      "text": "Trong thí nghiệm 'cái ao', Singer muốn chứng minh điều gì?",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "It makes no moral difference whether the person I can help is a neighbor's child ten yards from me or a Bengali whose name I shall never know, ten thousand miles away."
-        }
-      ]
-    },
-    {
-      "text": "Phản bác mạnh nhất nhằm vào lập luận về nghèo đói của Singer là gì?",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "One objection to the position I have taken might be simply that it is too drastic a revision of our moral scheme."
-        }
-      ]
-    },
-    {
       "text": "Áp dụng khung của Singer vào tranh luận thịt chó ở Việt Nam, yêu cầu nhất quán đặt ra là gì?",
       "kind": "dien-giai",
       "verdict": "dung",
@@ -56,6 +34,36 @@
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
           "quote": "there is no morally justifiable way to exclude from moral consideration non-humans or non-persons who can clearly suffer"
+        }
+      ]
+    },
+    {
+      "text": "Singer đòi 'sự quan tâm bình đẳng' (equal consideration of interests). Điều đó nghĩa là gì? — đáp án (lời giải: lợi ích tránh đau của lợn cùng loại với của người): cùng một loại lợi ích (như tránh đau khổ) phải được cân nhắc ngang nhau bất kể của loài nào; lợi ích khác nhau thì được đối xử khác nhau",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://iep.utm.edu/anim-eth/",
+          "quote": "The essence of the Principle of Equal Consideration of Interests is that we give equal weight in our moral deliberations to the like interests of all those affected by our actions"
+        }
+      ]
+    },
+    {
+      "text": "Theo cách nhìn của Kant được trình bày trong bài, vì sao ta không nên tàn nhẫn với động vật? — đáp án: ai tàn nhẫn với con vật thì cũng sẽ trở nên chai cứng khi đối xử với con người; bổn phận liên quan tới động vật chỉ là gián tiếp; lời giải: ai đốt một con mèo thì đang làm hại chính con mèo",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "In the Lectures on Ethics he makes it clear that we have indirect duties to animals"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "for he who is cruel to animals becomes hard also in his dealings with men. ([1784–5] 1997: 212 [Ak 27: 459])"
+        },
+        {
+          "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
+          "quote": "or whips a severely brain damaged child, or sets a cat on fire, they are not simply disrespecting humanity or themselves as representatives of it, they are wronging these non-persons"
         }
       ]
     }
@@ -68,5 +76,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Quiz ethics-2 (data-id giữ nguyên): cả 5 câu đáp án đúng ở chỉ số 1; phương án sai đều sai rõ; lời giải khớp thân bài."
+  "notes": "Quiz ethics-2 (data-id giữ nguyên): cả 5 câu đáp án đúng ở chỉ số 1 [trước 7.1.4]; phương án sai đều sai rõ; lời giải khớp thân bài.\n[doi-loi] 7.1.4: Quiz ethics-2 (data-id giữ nguyên): câu 3 ('cái ao') và câu 4 (phản bác đòi hỏi quá đáng) thay bằng hai câu về động vật lấy từ thân bài (sự quan tâm bình đẳng; bổn phận gián tiếp theo Kant, đáp án ở chỉ số 2). Câu 1, 2, 5 không đổi."
 }

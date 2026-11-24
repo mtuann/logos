@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#lien-he-doi-song",
-  "hash": "sha256:2a86ead0dd8669874bf07e38e574e83fe2d162c1f32401fb7fb92a7bda33d3c2",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03",
+  "hash": "sha256:1f0afe96dc9b4d224dc2ca216e2534c6f2ad7e9b1910808d13edd360ed482d68",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03 + claude-doi-loi-7.1.4",
   "claims": [
     {
       "text": "Ngược lại, người bênh vực có thể dùng chính lập luận \"trường hợp biên\": xã hội ta vẫn ăn thịt lợn gà, vậy cấm thịt chó vì \"chó đáng yêu hơn\" là tiêu chuẩn kép.",
@@ -29,33 +29,6 @@
           "where": "nguồn yếu: Tuổi Trẻ 09/07/2017, ý kiến sau vụ trâu húc chết chủ ở Đồ Sơn"
         }
       ]
-    },
-    {
-      "text": "Mỗi mùa lũ, người Việt quyên góp hàng trăm tỷ đồng",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://tienphong.vn/hon-1000-ty-dong-ung-ho-khac-phuc-bao-lut-qua-mat-tran-to-quoc-viet-nam-post1673188.tpo",
-          "quote": "số tiền ủng hộ đồng bào bị ảnh hưởng bởi cơn bão số 3 qua tài khoản của Ban Vận động cứu trợ Trung ương lên tới 1.001 tỷ đồng",
-          "where": "nguồn yếu: Tiền Phong 14/09/2024 (bão Yagi)"
-        }
-      ]
-    },
-    {
-      "text": "Nhưng cùng lúc đó, những khoản quyên góp cho các vấn đề xa hơn, âm thầm hơn (bệnh lao, suy dinh dưỡng ở vùng sâu) lại ít ỏi hơn nhiều.",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Nhưng cùng lúc đó, những vấn đề xa hơn, âm thầm hơn (bệnh lao, suy dinh dưỡng ở vùng sâu) thường ít được chú ý hơn.",
-      "sources": [
-        {
-          "url": "https://tienphong.vn/hon-1000-ty-dong-ung-ho-khac-phuc-bao-lut-qua-mat-tran-to-quoc-viet-nam-post1673188.tpo",
-          "quote": "Tính đến 17h ngày 14/9, các tổ chức, cá nhân đã chuyển về tài khoản của Ban Vận động cứu trợ Trung ương",
-          "where": "chỉ có số liệu cho quyên góp bão lũ; không tìm được số liệu so sánh cho bệnh lao, suy dinh dưỡng"
-        }
-      ],
-      "fixed": true
     },
     {
       "text": "Đây là một trong những ứng dụng gây tranh cãi nhất của lập luận \"trường hợp biên\"",
@@ -115,5 +88,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Ăn chay rằm/mùng một: đã thử luatminhkhue.vn/ngay-thap-trai-la-ngay-nao.aspx (chặn), dienmayxanh.com/kinh-nghiem-hay/lich-an-chay-10-ngay-1593953 (chặn), vnexpress.net/an-chay-o-sai-gon-2361760.html và /mon-chay-cau-phuc-2348713.html (trang rỗng), news.laodong.vn (rỗng), tapchinghiencuuphathoc.vn/2pdf/ton-giao-va-cac-quan-niem-ve-an-chay (PDF, không trích được chữ); doanhnhanplus.vn chỉ nói ăn chay dịp Rằm tháng Giêng \"cầu phúc lộc\", không đủ cho \"rằm, mùng một\" và \"từ bi\". thuat-ngu=false vì \"trường hợp biên\" bị dùng sai nghĩa cho lập luận tiêu chuẩn kép chó/lợn (lập luận từ trường hợp biên là về những con người thiếu năng lực lý tính). Lượt 2: Claim ăn chay rằm/mùng một chuyển dung theo nguồn yếu (quyết định 31): VietNamNet (thói quen ăn chay mùng một, rằm, có từ thời Lý) và Food Republic (động cơ: thanh tịnh, cầu phúc cho gia đình và tổ tiên, từ bi). Không tìm được nguồn học thuật mở được. Hai claim sai đã sửa đúng fix (\"đòi hỏi nhất quán ấy\"; \"thường ít được chú ý hơn\"); thuat-ngu chuyển true vì \"trường hợp biên\" không còn bị dùng sai nghĩa ở đoạn thịt chó."
+  "notes": "Ăn chay rằm/mùng một: đã thử luatminhkhue.vn/ngay-thap-trai-la-ngay-nao.aspx (chặn), dienmayxanh.com/kinh-nghiem-hay/lich-an-chay-10-ngay-1593953 (chặn), vnexpress.net/an-chay-o-sai-gon-2361760.html và /mon-chay-cau-phuc-2348713.html (trang rỗng), news.laodong.vn (rỗng), tapchinghiencuuphathoc.vn/2pdf/ton-giao-va-cac-quan-niem-ve-an-chay (PDF, không trích được chữ); doanhnhanplus.vn chỉ nói ăn chay dịp Rằm tháng Giêng \"cầu phúc lộc\", không đủ cho \"rằm, mùng một\" và \"từ bi\". thuat-ngu=false vì \"trường hợp biên\" bị dùng sai nghĩa cho lập luận tiêu chuẩn kép chó/lợn (lập luận từ trường hợp biên là về những con người thiếu năng lực lý tính). Lượt 2: Claim ăn chay rằm/mùng một chuyển dung theo nguồn yếu (quyết định 31): VietNamNet (thói quen ăn chay mùng một, rằm, có từ thời Lý) và Food Republic (động cơ: thanh tịnh, cầu phúc cho gia đình và tổ tiên, từ bi). Không tìm được nguồn học thuật mở được. Hai claim sai đã sửa đúng fix (\"đòi hỏi nhất quán ấy\"; \"thường ít được chú ý hơn\"); thuat-ngu chuyển true vì \"trường hợp biên\" không còn bị dùng sai nghĩa ở đoạn thịt chó.\n[doi-loi] 7.1.4: Bỏ đoạn 'Từ thiện ở Việt Nam' (nghèo đói); không thêm chữ mới."
 }

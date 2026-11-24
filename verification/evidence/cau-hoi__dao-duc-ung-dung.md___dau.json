@@ -1,11 +1,11 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#_dau",
-  "hash": "sha256:81dadb6f3232fa81938c47057477d684fbfed6456dcd1956f7a6ea709078f5fa",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03 + claude-sau-mau-5.7",
+  "hash": "sha256:566f2b8e0824473cb318dab49c129d94398c8b06733634fce495b909cee1d916",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03 + claude-sau-mau-5.7 + claude-doi-loi-7.1.4 + agent-kiem-7.1.4",
   "claims": [
     {
-      "text": "Ba lập trường, hai của Singer: về động vật (*Animal Liberation*, 1975)",
+      "text": "Hai lập trường. Singer về động vật (*Animal Liberation*, 1975)",
       "kind": "du-kien",
       "verdict": "dung",
       "kb": "sources/sach.singer-peter-1975-animal-liberation-new-york-new-york-review"
@@ -38,39 +38,7 @@
       ]
     },
     {
-      "text": "về nghèo đói (bài báo 1972) — thí nghiệm \"cái ao\"",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "kb": "sources/sach.singer-peter-1972-famine-affluence-and-morality-philosophy-p"
-    },
-    {
-      "text": "nếu bạn đồng ý phải cứu đứa trẻ chết đuối trước mắt với cái giá chỉ là bộ quần áo lấm bùn, thì khoảng cách địa lý không phải lý do đạo đức để không cứu những đứa trẻ xa xôi với cái giá tương tự",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "This will mean getting my clothes muddy, but this is insignificant"
-        },
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "It makes no moral difference whether the person I can help is a neighbor's child ten yards from me or a Bengali whose name I shall never know, ten thousand miles away."
-        }
-      ]
-    },
-    {
-      "text": "Singer đáp: \"đòi hỏi nhiều\" chính là điểm của lập luận, nó cho thấy khoảng cách giữa điều ta làm và điều ta nên làm",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "I cannot see, though, why it should be regarded as a criticism of the position for which I have argued, rather than a criticism of our ordinary standards of behavior."
-        }
-      ]
-    },
-    {
-      "text": "Lập trường thứ ba phản bác Singer về động vật theo hướng Kant: chỉ hữu thể có lý tính mới là mục đích tự thân, bổn phận với động vật chỉ là gián tiếp; nó vấp phải lập luận từ trường hợp biên, và khi nới tiêu chuẩn ra (Allen Wood) thì ranh giới giữa người và động vật khó vạch.",
+      "text": "Lập trường thứ hai phản bác Singer về động vật theo hướng Kant: chỉ hữu thể có lý tính mới là mục đích tự thân, bổn phận với động vật chỉ là gián tiếp; nó vấp phải lập luận từ trường hợp biên, và khi nới tiêu chuẩn ra (Allen Wood) thì ranh giới giữa người và động vật khó vạch.",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -85,21 +53,6 @@
         {
           "url": "https://plato.stanford.edu/archives/fall2026/entries/moral-animal/",
           "quote": "This response is not unlike that of noted animal rights proponent, Tom Regan"
-        }
-      ]
-    },
-    {
-      "text": "*Animal Liberation* khơi mào phong trào quyền động vật, bài 1972 là nguồn cảm hứng lớn của phong trào \"vị tha hiệu quả\"",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.thelifeyoucansave.org/peter-singer/",
-          "quote": "often credited with starting the modern animal rights movement"
-        },
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
-          "quote": "Effective altruism’s roots, however, can be found in Peter Singer’s argument, dating back to his famous 1972 article"
         }
       ]
     },
@@ -132,18 +85,30 @@
       ]
     },
     {
-      "text": "Tóm tắt: cả hai lập luận đều thuộc nhóm có ảnh hưởng thực tế lớn nhất…; Animal Liberation khơi mào phong trào quyền động vật (cùng lỗi mẫu tìm ở #gioi-triet-hoc-ngay-nay-nghi-gi)",
-      "kind": "du-kien",
-      "verdict": "sai",
+      "text": "Lập luận \"cái ao\" của Singer về nghèo đói có cùng cấu trúc, được bàn riêng trong bài [Có nghĩa vụ cứu người nghèo đói không?](cuu-giup-ngheo-doi.md)",
+      "kind": "dien-giai",
+      "verdict": "dung",
       "sources": [
+        {
+          "url": "https://mtuann.github.io/logos/cau-hoi/cuu-giup-ngheo-doi/",
+          "quote": "Phản bác nổi tiếng nhất là phản bác đòi hỏi quá mức"
+        }
+      ]
+    },
+    {
+      "text": "lập luận của Singer có ảnh hưởng thực tế rất lớn, vượt ra ngoài giới triết học (*Animal Liberation* được ghi nhận là đã mở đầu phong trào bảo vệ động vật ở Mỹ và châu Âu)",
+      "kind": "dien-giai",
+      "verdict": "dung",
+      "sources": [
+        {
+          "url": "https://www.thelifeyoucansave.org/peter-singer/",
+          "quote": "often credited with starting the modern animal rights movement"
+        },
         {
           "url": "https://iep.utm.edu/anim-eth/",
           "quote": "The publication of his Animal Liberation marked the beginning of a growing and increasingly powerful movement in both the United States and Europe."
         }
-      ],
-      "severity": "nhe",
-      "fix": "*Animal Liberation* được ghi nhận là đã mở đầu phong trào bảo vệ động vật ngày càng lớn mạnh ở Mỹ và châu Âu",
-      "fixed": true
+      ]
     }
   ],
   "checklist": {
@@ -154,5 +119,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Số liệu PhilPapers (48,0 / 26,5 / 18,4) khớp tools/philpapers-2020.md Bảng 1; câu tóm tắt dùng đúng câu chính, \"chấp nhận hoặc nghiêng về\". Mọi ý tóm tắt khớp thân bài, gồm lập trường 3 mới. Chỗ \"bị đánh bại\" nói quá so với thân bài (lập trường 3 trình bày cách đáp của phe Kant) — mức nhẹ. Lượt 2: Câu tóm tắt đã sửa đúng fix (\"bị Singer đáp lại bằng lập luận từ trường hợp biên\"); không có chữ mới khác. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed)."
+  "notes": "Số liệu PhilPapers (48,0 / 26,5 / 18,4) khớp tools/philpapers-2020.md Bảng 1; câu tóm tắt dùng đúng câu chính, \"chấp nhận hoặc nghiêng về\". Mọi ý tóm tắt khớp thân bài, gồm lập trường 3 mới (nay là lập trường 2 sau 7.1.4). Chỗ \"bị đánh bại\" nói quá so với thân bài (lập trường 3 trình bày cách đáp của phe Kant) — mức nhẹ. Lượt 2: Câu tóm tắt đã sửa đúng fix (\"bị Singer đáp lại bằng lập luận từ trường hợp biên\"); không có chữ mới khác. Sau mẫu 5.7: thêm claim sai do kiểm mẫu tìm ra, đã sửa đúng fix (fixed).\n[doi-loi] 7.1.4: Bỏ phần nghèo đói khỏi tóm tắt (quyết định 32): lập trường 'cái ao', phản bác đòi hỏi quá đáng, câu về vị tha hiệu quả và câu khảo sát không có câu hỏi về người nghèo; 'ba lập trường' thành 'hai lập trường'; thêm câu dẫn sang cuu-giup-ngheo-doi. Sau kiểm lượt 1 (agent-kiem-7.1.4): claim chữ cũ sửa theo bài; 'Mỹ và châu Âu' thêm quote IEP; tóm tắt thêm 'được ghi nhận là'."
 }

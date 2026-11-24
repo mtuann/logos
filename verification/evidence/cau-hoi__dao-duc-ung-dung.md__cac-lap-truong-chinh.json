@@ -1,8 +1,8 @@
 {
   "unit": "cau-hoi/dao-duc-ung-dung.md#cac-lap-truong-chinh",
-  "hash": "sha256:293381b6143cf61cf530c59e088494a255ed4944462bb80f2df5869bb72d7e76",
-  "checked_on": "2026-11-17",
-  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03",
+  "hash": "sha256:be7e164df6cfbfea514b67890ed4fa8b84a03ac88db88ef1a54d6b957963af72",
+  "checked_on": "2026-11-23",
+  "checker": "agent-kiem-5.7-k10 + agent-kiem-5.7-r03 + claude-doi-loi-7.1.4 + agent-kiem-7.1.4",
   "claims": [
     {
       "text": "Năm 1975, Peter Singer xuất bản *Animal Liberation* (*Giải phóng động vật*), cuốn sách thường được xem là đã khai sinh phong trào quyền động vật hiện đại.",
@@ -166,134 +166,6 @@
       ]
     },
     {
-      "text": "Năm 1972, trong bài báo \"Famine, Affluence, and Morality\" (*Nạn đói, sự giàu có và đạo đức*)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "kb": "sources/sach.singer-peter-1972-famine-affluence-and-morality-philosophy-p"
-    },
-    {
-      "text": "Bạn đi ngang một cái ao cạn, thấy một đứa trẻ đang chết đuối. Bạn có thể cứu nó, cái giá chỉ là bộ quần áo bị lấm bùn.",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "if I am walking past a shallow pond and see a child drowning in it, I ought to wade in and pull the child out. This will mean getting my clothes muddy"
-        }
-      ]
-    },
-    {
-      "text": "(Trong các phiên bản về sau, Singer đổi thành đôi giày đắt tiền bị hỏng — ý vẫn vậy: một cái giá nhỏ.)",
-      "kind": "du-kien",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://www.thelifeyoucansave.org/child-in-the-pond/",
-          "quote": "you will ruin the new shoes you bought only a few days ago",
-          "where": "trang The Life You Can Save, bản kể của chính Singer"
-        }
-      ]
-    },
-    {
-      "text": "cho đến khi việc cho thêm gây ra đau khổ cho bạn tương đương với điều bạn ngăn được",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "the level at which, by giving more, I would cause as much suffering to myself or my dependents as I would relieve by my gift"
-        }
-      ]
-    },
-    {
-      "text": "Singer chỉ chỉ ra rằng nguyên tắc ấy không hề nhắc đến khoảng cách.",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "For the principle takes, firstly, no account of proximity or distance."
-        }
-      ]
-    },
-    {
-      "text": "Singer thừa nhận lý thuyết của ông đòi hỏi nhiều — nhưng ông cho rằng \"đòi hỏi nhiều\" không phải là phản bác, mà chính là *điểm* của lập luận",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "One objection to the position I have taken might be simply that it is too drastic a revision of our moral scheme."
-        },
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "rather than a criticism of our ordinary standards of behavior"
-        }
-      ]
-    },
-    {
-      "text": "Mức yếu hơn — mà nhiều triết gia chấp nhận: bạn phải cho đi *đáng kể* hơn hiện tại, dù chưa đến ngưỡng tối đa.",
-      "kind": "dien-giai",
-      "verdict": "sai",
-      "severity": "nhe",
-      "fix": "Mức yếu hơn — chính Singer cũng nêu ra như một phiên bản \"ôn hòa\" của nguyên tắc: bạn phải cho đi *đáng kể* hơn hiện tại, dù chưa đến ngưỡng tối đa.",
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/2020/https://www.utilitarian.net/singer/by/1972----.htm",
-          "quote": "I proposed the more moderate version - that we should prevent bad occurrences unless, to do so, we had to sacrifice something morally significant - only in order to show that, even on this surely undeniable principle, a great change in our way of life is required."
-        }
-      ],
-      "fixed": true
-    },
-    {
-      "text": "và là lý do phong trào \"vị tha hiệu quả\" ra đời",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://plato.stanford.edu/archives/fall2026/entries/philanthropy/",
-          "quote": "It invites people to use evidence and reason to determine how to benefit others as much as possible"
-        }
-      ]
-    },
-    {
-      "text": "Bản thân Singer sống theo điều ông rao giảng — ông cho đi một phần lớn thu nhập của mình cho các tổ chức từ thiện hiệu quả, và là người sáng lập tổ chức The Life You Can Save (Cuộc sống bạn có thể cứu).",
-      "kind": "du-kien",
-      "verdict": "sai",
-      "severity": "vua",
-      "fix": "Bản thân Singer sống theo điều ông rao giảng — chẳng hạn, ông dành toàn bộ 1 triệu đô-la của Giải Berggruen (2021) cho các tổ chức hiệu quả nhất trong việc giúp người nghèo cùng cực và giảm khổ cho động vật trong trang trại công nghiệp — và là người sáng lập tổ chức The Life You Can Save (Cuộc sống bạn có thể cứu).",
-      "sources": [
-        {
-          "url": "https://www.thelifeyoucansave.org/peter-singer/",
-          "quote": "The prize comes with $1 million which, in accordance with views I have been defending for many years, I am donating to the most effective organizations working to assist people in extreme poverty and to reduce the suffering of animals in factory farms."
-        },
-        {
-          "url": "https://www.thelifeyoucansave.org/peter-singer/",
-          "quote": "In 2021 I was delighted to receive the Berggruen Prize for Philosophy and Culture"
-        },
-        {
-          "url": "https://www.thelifeyoucansave.org/peter-singer/",
-          "quote": "I am the founder of The Life You Can Save"
-        }
-      ],
-      "fixed": true
-    },
-    {
-      "text": "Lập luận \"cái ao\", phản bác \"đòi hỏi quá mức\" và các lập trường trung gian được bàn kỹ hơn trong bài [Có nghĩa vụ cứu người nghèo đói không?](cuu-giup-ngheo-doi.md).",
-      "kind": "dien-giai",
-      "verdict": "dung",
-      "sources": [
-        {
-          "url": "https://mtuann.github.io/logos/cau-hoi/cuu-giup-ngheo-doi/",
-          "quote": "Phản bác nổi tiếng nhất là phản bác đòi hỏi quá mức"
-        },
-        {
-          "url": "https://mtuann.github.io/logos/cau-hoi/cuu-giup-ngheo-doi/",
-          "quote": "Nghĩa vụ có giới hạn: có nghĩa vụ, nhưng ở mức con người sống được"
-        }
-      ]
-    },
-    {
       "text": "Kant viết rằng mọi hữu thể có lý tính \"tồn tại như một mục đích tự thân, chứ không chỉ như phương tiện\", còn những hữu thể không có lý tính \"chỉ có giá trị tương đối như phương tiện, và vì thế được gọi là vật\" (*Đặt nền móng cho siêu hình học về đạo đức*, 1785, Ak 4:428; dẫn theo Gruen & Monsó, SEP; bản dịch của Logos)",
       "kind": "du-kien",
       "verdict": "dung",
@@ -407,7 +279,7 @@
       ]
     },
     {
-      "text": "Cả ba lập trường đều có đủ ba nhãn Lập luận mạnh nhất, Phản bác chính, Cách đáp lại.",
+      "text": "Cả hai lập trường đều có đủ ba nhãn Lập luận mạnh nhất, Phản bác chính, Cách đáp lại.",
       "kind": "dien-giai",
       "verdict": "dung",
       "sources": [
@@ -427,5 +299,5 @@
     "thuat-ngu": true
   },
   "result": "dat",
-  "notes": "Lập trường 3 (viết hôm nay, chưa lên site; đọc file docs/ trong repo): đối chiếu từng câu với SEP moral-animal bản fall2026 — Kant Ak 4:428 và Ak 27:459, Korsgaard, Wood 1998, Regan đều khớp; bản dịch của Logos cho câu Kant đúng nghĩa (bỏ cụm \"to be arbitrarily used by this or that will\" nhưng giữ \"not merely as a means\"). Lỗi vừa: (1) bỏ sót điều SEP nói rõ là Korsgaard, khác Kant, coi động vật là đối tượng quan tâm đạo đức — người đọc dễ hiểu nhầm bà kết luận ngược Singer; (2) câu trả lời \"trẻ sơ sinh không ký khế ước\" gán cho Singer không tìm thấy trong nguồn đã mở (IEP, SEP; Practical Ethics không mở được) — sửa bằng cách bỏ gán tên; (3) \"cho đi một phần lớn thu nhập\" không có nguồn mở được, thay bằng dữ kiện Giải Berggruen trên trang TLYCS. Bản 1972 mở qua bản lưu web.archive của utilitarian.net (tên miền gốc đã hết hạn); dòng đầu bản lưu ghi nhầm \"no. 1\", kho sources đóng băng ghi 1(3). Lượt 2: Bốn claim sai (Ryder \"vào những năm 1970\", khế ước không gán cho Singer, \"phiên bản ôn hòa\" của chính Singer, Giải Berggruen thay \"phần lớn thu nhập\", ghi chú Korsgaard khác Kant) đều đã sửa đúng ý fix; câu Berggruen bỏ năm 2021 nhưng không thêm dữ kiện mới; tải lại trang TLYCS trong phiên, quote khớp nguyên văn. Claim 29 là nhận xét cấu trúc, không phải chữ của bài."
+  "notes": "Lập trường 3 (viết hôm nay, chưa lên site; đọc file docs/ trong repo): đối chiếu từng câu với SEP moral-animal bản fall2026 — Kant Ak 4:428 và Ak 27:459, Korsgaard, Wood 1998, Regan đều khớp; bản dịch của Logos cho câu Kant đúng nghĩa (bỏ cụm \"to be arbitrarily used by this or that will\" nhưng giữ \"not merely as a means\"). Lỗi vừa: (1) bỏ sót điều SEP nói rõ là Korsgaard, khác Kant, coi động vật là đối tượng quan tâm đạo đức — người đọc dễ hiểu nhầm bà kết luận ngược Singer; (2) câu trả lời \"trẻ sơ sinh không ký khế ước\" gán cho Singer không tìm thấy trong nguồn đã mở (IEP, SEP; Practical Ethics không mở được) — sửa bằng cách bỏ gán tên; (3) \"cho đi một phần lớn thu nhập\" không có nguồn mở được, thay bằng dữ kiện Giải Berggruen trên trang TLYCS. Bản 1972 mở qua bản lưu web.archive của utilitarian.net (tên miền gốc đã hết hạn); dòng đầu bản lưu ghi nhầm \"no. 1\", kho sources đóng băng ghi 1(3). Lượt 2: Bốn claim sai (Ryder \"vào những năm 1970\", khế ước không gán cho Singer, \"phiên bản ôn hòa\" của chính Singer, Giải Berggruen thay \"phần lớn thu nhập\", ghi chú Korsgaard khác Kant) đều đã sửa đúng ý fix; câu Berggruen bỏ năm 2021 nhưng không thêm dữ kiện mới; tải lại trang TLYCS trong phiên, quote khớp nguyên văn. Claim 29 là nhận xét cấu trúc, không phải chữ của bài.\n[doi-loi] 7.1.4: Bỏ lập trường 2 (Singer về nghèo đói), lập trường 3 thành 2; bỏ 'Trở lại chuyện động vật.'; không thêm chữ mới."
 }
